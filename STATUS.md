@@ -1,15 +1,15 @@
 # STATUS — Oregon Counties — Code, Ordinances, Policy and Land Use
 
-Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-01. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
 | doc_type | count |
 |---|---|
-| ordinance | 2502 |
-| policy | 239 |
+| ordinance | 2672 |
+| policy | 257 |
 
-**Total: 2741**
+**Total: 2929**
 
 ## Source manifest
 
@@ -17,7 +17,7 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 180 days)
 
-2741 of 2741 document(s) overdue for re-verification.
+2929 of 2929 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -71,5 +71,5 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 | benton-code-ladest | ordinance | never |
 | benton-code-nsozo | ordinance | never |
 | benton-code-ovzo | ordinance | never |
-| … | *2691 more* | |
+| … | *2879 more* | |
 

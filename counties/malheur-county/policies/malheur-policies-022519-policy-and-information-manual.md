@@ -1,0 +1,5452 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/malheur-county
+id: malheur-policies-022519-policy-and-information-manual
+title: '022519-POLICY-AND-INFORMATION-MANUAL'
+doc_type: policy
+citation: '022519-POLICY-AND-INFORMATION-MANUAL'
+authority_level: county_policy
+issuing_body: 'Malheur County County Court'
+source_url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/022519-POLICY-AND-INFORMATION-MANUAL.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2e9affa263a52379de2153289793938de473523339c274c5b570172e782d27f8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.989; figure agreement 0.796; dictionary ratio 0.957. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.005
+    - ORS 192.500
+    - ORS 192.501
+    - ORS 192.505
+    - ORS 244.010
+    - ORS 244.040
+    - ORS 260.432
+    - ORS 260.695
+    - ORS 40.225
+    - ORS 408.230
+    - ORS 659.029
+    - ORS 659A.159
+    - ORS 659A.199
+    - ORS 659A.203
+    - ORS 659A.212
+    - ORS 659A.215
+    - ORS 659A.272
+    - ORS 806.060
+    - ORS 9.490
+    - OAR 839-007-0000
+    - OAR 839-009-0210
+  related: []
+  supersedes: []
+tags: [malheur-county, policies, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# 022519-POLICY-AND-INFORMATION-MANUAL (022519-POLICY-AND-INFORMATION-MANUAL)
+
+## At a glance
+
+OCR-derived text of 022519-POLICY-AND-INFORMATION-MANUAL. Not human-verified.
+
+## Full text
+
+MALHEUR COUNTY
+POLICY   AND     INFORMATION            MANUAL
+
+           FOR     EMPLOYEES
+
+               EFFECTIVE JANUARY 2003
+INTRODUCTION
+
+Welcome to Malheur County.
+
+Malheur County was established on February 17, 1887. It is the second-largest county in
+Oregon. Malheur County’s governing body is the Malheur County Court comprised of
+one county judge and two county commissioners. Other elected officials for Malheur
+County are the Sheriff, District Attorney, Justice of the Peace, Treasurer, Clerk and
+Assessor. Several departments report directly to the Malheur County Court which
+includes the Health Department, Juvenile Department, Administration, Planning and
+Zoning, Environmental Health, County Counsel, Road Department, Surveyor, Economic
+Development, Information Services, Veteran’s Service, and Weed Control.
+
+              Thank you to Barbara Belnap, Environmental Health Clerk, for designing the cover of this Manual.
+ABOUT THIS MANUAL
+
+To help acquaint you with Malheur County’s organization, this Employee Policy and
+Information Manual (Manual) has been prepared as a guide to policies, procedures,
+benefits and practices of Malheur County. Please familiarize yourself with its contents
+and keep it handy as a periodic reference. You may want to share it with your family
+members so that they will understand your work environment and particular benefits.
+
+By its nature, this Manual contains only general information and guidelines. This
+Manual cannot and does not address every possible situation or question about
+employment related matters with Malheur County. For this reason, if you have any
+questions, need more detail or have suggestions for this Manual, please speak with your
+supervisor or the Malheur County Personnel Officer.
+
+This Manual is effective January 1, 2003. Please be aware that any oral statements or
+representations cannot change or alter the provisions of this Manual.
+
+This Manual and the personnel policies contained within it can be modified, revoked or
+added to at any time at the sole discretion of the Malheur County Court through the
+Administration/Personnel office.
+
+We recognize that employees differ in their skills, goals, perceptions and values and that
+conditions may arise because of their diversity which may not be sufficiently addressed
+within this Handbook or which may result in conflict. When that occurs Malheur County
+will endeavor to make decisions that are fair and equitable, while at all times ensuring
+that the best interests of Malheur County are served.
+
+Many provisions in this Manual do not apply to elected officials, part-time or grant
+funded employees.   Some subjects described in this Manual such as benefit plan
+information are covered in detail in official policy documents. You should refer to these
+documents for specific information since this Manual only briefly summarizes those
+benefits. Please note that the terms of the written insurance policies are controlling.
+Should you have any questions or need further detail, please speak with your supervisor
+or Personnel Officer.
+
+This Manual does not confer any contractual right, express or implied, to remain an
+employee of Malheur County. This Manual does not guarantee any fixed terms and
+conditions of employment. For union and contract employees, in the event of a
+direct conflict between this Manual and a collective bargaining agreement or
+individual contract, the collective bargaining agreement or individual contract will
+control. All other employees are "employees at- will”, which means that
+employment is not for any specific time and you may be terminated by Malheur
+County, or you may resign, with or without reason or notice at any time.
+MALHEUR   COUNTY POLICY AND INFORMATION MAUNUAL
+
+Section                           Content
+
+100                               Personnel Policies
+
+200                               Compensation
+
+300                               Benefits, Leaves and
+                                  Insurance
+
+400                               Health and Safety
+
+500                               Forms
+                                  SECTION 100
+                              PERSONNEL POLICIES
+                                 Table of Contents
+
+100-   Equal Opportunity
+
+101-   Prohibition of Harassment Including Sexual Harassment and
+       Anti-Discrimination Policy
+
+102-   Americans With Disabilities Act                              22
+
+103-   Personnel Files                                              23
+
+104-   Internet, Electronic Mail, Text Messaging and Social Media   24
+       Acceptable Use and Retention Policy
+
+105-   Computer Policy                                              Bl
+
+106-   Travel and Employee Incurred Expenses                        34
+
+107-   Use of County Vehicles                                       36
+
+108-   Prohibited Political Activity                                40
+
+109-   Ethics                                                       4]
+
+110-   Employment At- Will                                          42
+111-   Telephones                                                   43
+
+112-   Refer to Policy 313-Workers’ Compensation Insurance
+
+113-   Intentionally Left Blank
+
+114-   Classifications of Positions                                 44
+
+115-   Personal Property in the Workplace                           47
+
+116-   Data Technology Purchasing Policy                            48
+
+117-   Separation From Employment                                   50
+118-   Whistleblower Protection Policy   53
+
+119-   Veterans’ Preference              57
+100   - EQUAL OPPORTUNITY
+
+       Policy Statement.
+
+       It is the policy of Malheur County to provide equal opportunity to all persons in
+       matters affecting, but not limited to recruitment, employment, compensation,
+       benefits, promotions, training, discipline, transfer and layoff practices without
+       regard to a person’s race, color, religion, national origin, mental or physical
+       disability, sex (including pregnancy, gender identity, and sexual orientation),
+       marital status, age, if the individual is 18 or older, association with protected class
+       or genetic information.
+
+       All benefits, activities, facilities, services and training programs operated,
+       sponsored, or participated in by the County shall be available to individuals
+       without regard to race, color, religion, national origin, disability, sex (including
+       pregnancy, gender identity, and sexual orientation), marital status, age, if the
+       individual is 18 or older, association with protected class or genetic information.
+
+       Individuals who believe they have been subjected to discrimination or harassment
+       shall be entitled, as a matter of right, to use any and all existing complaint
+       procedures without fear of coercion or reprisal.
+
+       Intent
+
+       Malheur County’s Equal Employment Opportunity (EEO) Policy and Prohibition
+       of Harassment Including Sexual Harassment and Anti-Discrimination Policy are
+       positive policies intended to provide equal opportunity and treatment to
+       individuals.
+
+       Policy Dissemination
+
+       In order to properly install provisions of this Equal Employment Opportunity and
+       Prohibition of Harassment Including Sexual Harassment and Anti-Discrimination
+       policies, it is necessary that all employees, prospective employees, the community
+       at large and all contractors and subcontractors be informed of the County’s
+       policies. Therefore, the following internal and external dissemination shall occur:
+
+       Internal Dissemination
+
+is     Each employee of the County will receive a copy of the EEO and Prohibition of
+       Harassment Including Sexual Harassment and Anti-Discrimination Policy.
+
+Zs     The EEO statement and Prohibition of Harassment Including Sexual Harassment
+       and Anti-Discrimination Policy will be included in all applicable County policy
+       manuals and reports.
+100 — EQUAL    OPPORTUNITY        continued
+
+a:     A non-discrimination clause will be included in all union agreements and all
+       contract provisions of collective bargaining unit agreements will be reviewed to
+       insure they are non-discriminatory.
+
+4.     All new employees will be informed of the EEO Policy and Prohibition of
+       Harassment Including Sexual Harassment and Anti-Discrimination Policy in
+       employee orientation and an explanation of the policies shall be included in the
+       employee packet.
+
+5      Sessions on harassment including sexual harassment and discrimination will be
+       incorporated into supervisory and management training courses as they are
+       developed.
+
+       External Dissemination:
+
+Ls     The statement “Equal Opportunity Employer” will be incorporated in all
+       advertising and recruitment literature and all other County communications.
+
+2.     Recruitment sources will be informed verbally and in writing of the County’s
+       EEO Policy and anti-discrimination policy.
+
+3.     All contractors and subcontractors maintaining contracts with Malheur County
+       will be advised in writing of the County’s EEO Policy and Prohibition of
+       Harassment Including Sexual Harassment and Anti-Discrimination Policy. An
+       anti-discrimination and EEO statement may be incorporated in purchase orders,
+       leases and contracts.
+
+Approved:     August 17, 1993
+Revised:      April 28, 1999, September 21, 2016.
+                                                                          MALHEURCOUNTY,OR                         2016-3049
+                                                                          DOCUMENT |                    08/07/2016 11:40 AM
+                                                                          Le ee                                         Total:$0.00
+
+                                                                                         202201600030490140
+                                                                          1, Deborah R. DeLong, County Clerk for Malheur
+
+                                                                                                                                  Guy.
+                                                                          County, Oregon certify that the Instrument identified
+                                                                          herein was recorded in the Clerk records.
+                                                                                  Deborah R. DeLong - County Clerk
+
+101-    PROHIBITION OF HARASSMENT INCLUDING SEXUAL
+        HARASSMENT AND ANTI-DISCRIMINATION POLICY
+
+POLICY STATEMENT
+
+It is the policy of Malheur County to recruit, hire, train and promote all persons in all job
+titles and to provide county services to all individuals without regard to race, color,
+religion, sex, sexual orientation, national origin, marital status, age, physical or mental
+disability, familial status, political affiliation or any other basis or status protected by
+applicable state, federal and local laws.
+
+Malheur County employees must be able to work in a setting free from all forms of
+unlawful discrimination and harassment.
+
+Harassment and discrimination are unacceptable in the workplace, in any work-related
+setting outside of the workplace and when using county owned equipment including
+vehicles and electronic devices such as computers, phones, photocopiers and faxes.
+
+Employees who violate this policy are subject to disciplinary action, up to and including
+termination.
+
+Every employee shares the responsibility for promptly bringing to the county’s attention
+conduct that interferes with providing a work environment free of illegal discrimination
+or harassment.
+
+Malheur County complies with Section 504 of the Rehabilitation Act of 1973, the
+Americans With Disabilities Act (ADA) and other applicable federal and state
+regulations that prohibit discrimination on the basis of disability. These acts mandate that
+no qualified person shall, solely by reason of disability, be denied access to, participation
+in, or the benefits of programs, facilities, places of public accommodation, or
+employment opportunities of Malheur County.            Each qualified person will receive
+reasonable accommodation to ensure equal access to employment, programs, services and
+activities of Malheur County in the most integrated setting.
+
+Page - 1 Prohibition of Harassment Including Sexual Harassment and Anti-Discrimination Policy (9/2016)
+101-    PROHIBITION OF HARASSMENT INCLUDING SEXUAL
+        HARASSMENT AND ANTI-DISCRIMINATION POLICY continued
+
+DEFINITIONS
+
+DISCRIMINATION:           Unequal or different treatment of an individual on the basis of race,
+                          color, sex, religion, sexual orientation, national origin, age,
+                          disability, political affiliation, marital status or familial status or
+                          other protected status in accordance with applicable law.
+
+HARASSMENT:               Harassment is verbal or physical conduct that demeans or shows
+                          hostility toward an individual because of his/her race, color,
+                          religion, sexual orientation, sex, political affiliation, marital status,
+                          familial status, national origin, age or disability or that of his/her
+                          relatives, friends or associates that: (1) has the purpose or affect of
+                          creating an intimidating, hostile or offensive working environment;
+                          (2) has the purpose or effect of unreasonably interfering with an
+                          individual’s work performance; or (3) otherwise adversely affects
+                          an individual’s employment opportunities.
+
+SEXUAL
+HARASSMENT:               Sexual harassment is a form of gender (sex) discrimination. The
+                          Equal Employment Opportunity Commission has defined sexual
+                          harassment as follows:
+
+                          Unwelcome sexual advances, requests for sexual favors, and other
+                          verbal or physical conduct of a sexual nature constitute sexual
+                          harassment when (1) submission to such conduct is made either
+                          explicitly or implicitly a term or condition of an individual’s
+                          employment, (2) submission or rejection of such conduct by an
+                          individual is used as the basis for employment decisions affecting
+                          such individual, or (3) such conduct has the purpose or effect of
+                          unreasonably interfering with an individual’s work performance or
+                          creating an intimidating, hostile, or offensive work environment.
+
+Page - 2 Prohibition of Harassment Including Sexual Harassment and Anti-Discrimination Policy (9/2016)
+
+                              2016-3049                Page 2 of 14
+                              MALHEUR COUNTY, OREGON
+101-    PROHIBITION OF HARASSMENT INCLUDING SEXUAL
+        HARASSMENT AND ANTI-DISCRIMINATION POLICY continued
+
+PROHIBITED
+CONDUCT                  (A) Verbal or Physical Conduct
+
+                         (1) Use of epithets or slurs because of race, color, sex, age, sexual
+                             orientation, religion, national origin, political affiliation,
+                              familial status, marital status, physical or mental disability or
+                              other protected status in accordance with applicable law, such
+                              as racial slurs or derogatory remarks based on national origin
+                              or ethnicity.
+
+                         (2) Jokes, pranks or other banter that are derogatory or show
+                             hostility because of race, color, sex, age, sexual orientation,
+                             political affiliation, religion, national origin, familial status,
+                              marital status, physical or mental disability or other protected
+                              status in accordance with applicable law, such as making fun
+                              or telling jokes about physical or mental disabilities or sexual
+                              orientation; or negative stereotyping.
+
+                         (3) Unwelcome physical touching or contact, such as pinching,
+                             grabbing, patting, touching, hugging; threatening, intimidating
+                              or hostile acts.
+
+                          (B) Written or Graphic Material
+
+                              Material that is disparaging of or displays hostility on the basis
+                              or race, color, sex, age, religion, national origin, sexual
+                              orientation, political affiliation, familial status, marital status or
+                              physical or mental disability or other protected status in
+                              accordance with applicable law and is placed on walls or
+                              elsewhere on county premises or circulated in the workplace.
+                              This includes sending inappropriate jokes, cartoons,
+                              magazines, or other written or graphic materials via e-mail, the
+                              internet, facsimile, or downloading from the internet.
+
+Page - 3 Prohibition of Harassment Including Sexual Harassment and Anti-Discrimination Policy (9/2016)
+
+                            2016-3049                 Page 3 of 14
+                             MALHEUR COUNTY, OREGON
+101-    PROHIBITION OF HARASSMENT INCLUDING SEXUAL
+        HARASSMENT AND ANTI-DISCRIMINATION POLICY continued
+
+RETALIATION
+
+The county will not tolerate retaliation against any individual who reports discrimination
+or harassment, testifies, assists or participates in any manner in such an investigation,
+proceeding or hearing, regardless of the outcome of the harassment or discrimination
+complaint. Examples of retaliation toward an individual include, but are not limited to:
+demotion, suspension, failing to hire or consider hiring, failing to treat impartially when
+making employment decisions, assigning the individual the least desirable jobs etc.
+
+PROCEDURE FOR VIOLATIONS
+
+L       Employees are expected to promptly report suspected violations of this policy.
+
+Ze      Any employee who believes he or she has been the subject of harassment or
+        discrimination should report the circumstance immediately.
+
+3:      Complaints may be submitted orally or in writing. A complaint may also include
+        a suggested method of resolution. An employee does not have to file a formal
+        complaint in order to discuss a concern about a situation he/she believes may
+        involve discrimination, harassment or retaliation.
+
+4.      A violation of this policy may be reported to:
+
+        (a) A supervisor;
+        (b) Department Director/Elected Official;
+        (c) Malheur County Court Judge;
+        (d) Malheur County Personnel Officer;
+        (e) Malheur County Administrative Officer; or
+        (f) County Counsel.
+
+Ds      A particular form for a written complaint is not necessary. However, forms are
+        attached to this policy for convenience and may be used. Ifa written complaint
+        is made, it must be filed with the Personnel Officer after delivery to any person
+        identified in 4 above.
+
+6.      All complaints will be promptly investigated.            The individual who receives the
+        complaint may discuss options for informally resolving the complaint with the
+        complainant.
+
+Page - 4 Prohibition of Harassment Including Sexual Harassment and Anti-Discrimination Policy (9/2016)
+
+                                 2016-3049                Page 4 of 14
+                                 MALHEUR COUNTY, OREGON
+101 -   PROHIBITION OF HARASSMENT INCLUDING SEXUAL
+        HARASSMENT AND ANTI-DISCRIMINATION POLICY continued
+
+        Confidentiality will be maintained to the extent possible, consistent with Malheur
+        County’s need to conduct an adequate investigation and to take prompt corrective
+        action to rectify any harassment or discrimination in violation of this policy,
+        which is found to have taken place.
+
+        No employee will suffer any adverse consequences or retaliation as a result of
+        acting in good faith to bring a harassment or discrimination complaint or
+        participate in an investigation.
+
+        Any employee found in violation of this policy will be subject to discipline, up to
+        and including termination.
+
+10.     The foregoing procedure is separate from the grievance procedure under the
+        respective collective bargaining agreements with Malheur County Sheriff's
+        Association and the Malheur County Employee’s Association under AFSCME.
+
+1h,     Malheur County encourages individuals to use the internal complaint procedure
+        for resolution of discrimination and harassment concerns. Individuals also have
+        the right to file civil rights complaints with the Oregon Bureau of Labor and
+        Industries (BOLI), United States federal Equal Employment Opportunity
+        Commission (EEOC) and/or U.S. Department of Labor Civil Rights Center
+        (CRC).    Individuals can also consult an attorney for other ways to file a
+        discrimination complaint.
+
+REQUESTS FOR REASONABLE ACCOMODATIONS
+
+1;      Requests for reasonable accommodations must be submitted in writing to the
+        Malheur County Personnel Officer at Malheur County Courthouse, 251 B. Street
+        West #1 or room 104, Vale, Oregon 97918; 541-473-5167;
+        Susan.Salove@malheurco.org.
+
+        Malheur County will give serious consideration to an employee or applicant
+        requesting reasonable accommodation. Each request will be considered on its
+        own merits, in light of the particular job, of other related jobs, of the capabilities
+        of a particular employee and the specific accommodation requested.
+
+Approved:        August 17, 1993
+Revised:         April 28, 1999; January 2, 2008; November 2, 2011; September 7, 2016
+
+Page - 5 Prohibition of Harassment Including Sexual Harassment and Anti-Discrimination Policy (9/2016)
+
+                                                          Page 5 of 14
+                                 2016-3049
+                                 MALHEUR COUNTY, OREGON
+Form
+
+                                Malheur County
+                       Sexual Harassment Complaint Form
+
+   1.   Name:
+
+   2. Supervisor's name:
+
+   3. Name of individual engaging in alleged harassment:
+
+   4.   Position and title of individual named in #3.
+
+   5. Complaint’s relationship to individual engaging in alleged harassment:
+
+        Supervisor 0       Co-Worker     O              Other (specify):     O
+
+   6. Please describe the specific act(s) alleged.
+
+   7. Location(s) of alleged incident:
+
+  8. Date(s) and approximate time(s) of incidents:
+
+1 -Sexual Harassment Complaint Form
+                                                            2016-3049                Page 6 of 14
+                                                            MALHEUR COUNTY, OREGON
+9. Are there others who have witnessed this behavior or others who
+experienced similar behavior by the individual named above? If so, please
+provide their names(s), indicate if witness or individual with similar experience.
+
+10. Did you tell anyone about your experience after the alleged incident(s)?                  If
+so, please provide name(s) and phone number(s).
+
+11. Actions taken, if any, to attempt to stop the harassment.
+
+12. Have you reported this incident to anyone else?
+
+    Yes 0            No O
+
+    If yes, withwhom?       UnionO       AttorneyO      SupervisorO              Other    O
+
+13. What resolution or proposed action would you like to occur to resolve or
+address the harassment?
+
+14. Has there been a personal relationship between you and the accused in the
+past?
+            Yes    O         No O
+      If yes, for how long, when, and how did the relationship end?
+
+2 -Sexual Harassment Complaint Form                   2016-3049                  Page 7 of 14
+                                                      MALHEUR COUNTY,   OREGON
+15.   Additional information and comments:
+
+16.   Have you received a copy of the County’s Sexual Harassment Policy?
+           Yes O          Noo
+
+         If no, please contact the Personnel Officer immediately at: 473-5167.
+
+ Date:
+
+ Signature:
+               Your signature certifies that the information on this form is true and
+               accurate.
+
+  3 -Sexual Harassment Complaint Form                  crt     aan Kea         =
+      Malheur County Internal Discrimination/ Harassment Complaint Form
+
+Instructions
+Use this form to file a complaint of discrimination/harassment under any of Malheur
+County’s programs.
+
+Definitions
+Discrimination Complaint:       Alleges an action was motivated by discrimination.
+
+Discrimination: Unequal or different treatment on the basis of a protected category
+established by policy or law.
+
+Harassment:      Verbal or physical conduct that is derogatory or shows hostility based on a
+protected category.
+
+Sexual Harassment: Any unwelcome conduct including but not limited to sexual
+advances, request for sexual favors and other verbal or physical conduct of a sexual
+nature that has the purpose or effect of unreasonably interfering with an employee’s
+work, is the basis for an employment decision or creates an intimidating, hostile or
+offensive work environment.
+
+Confidentiality Notice
+The authority for collecting this information comes from Malheur County’s commitment
+to provide its employees with a workplace that is free of illegal bias, prejudice and
+harassment. The information obtained by this form is used to process complaints and
+conduct investigations of alleged violations of the County’s policies. The information
+collected may be verified with others who may have knowledge relevant to the
+complaint. Failure to provide complete information may impede the investigation process
+and the action that can be taken on your behalf to resolve the issues associated with the
+complaint.     Furthermore, failure to use the internal complaint process may impact your
+rights to take any legal action on the complaint or associated issues. Alternatives to filing
+an internal complaint may also be available under applicable collective bargaining
+agreements. External resources for filing complaints include the State of Oregon Bureau
+of Labor and Industries Civil Rights Division and the United States Equal Employment
+Opportunity Commission.
+
+Page - 1 Discrimination/Harassment Complaint Form                  2016-3049                    Page 9 of 14
+                                                                   MALHEUR   COUNTY,   OREGON
+
+                                                                                                               Ilo
+Non-Retaliation
+Malheur County policies require its managers and supervisors to take all necessary steps
+to assure that there is no retaliation against any person who files a complaint or assists in
+its investigation. This includes any intimidation, threat, coercion or discrimination. Any
+employee involved in retaliatory conduct will be subject to disciplinary action in
+accordance with personnel policy or appropriate collective bargaining agreement.
+
+Prompt filing.
+In order to investigate complaints in a timely manner, Malheur County suggests that
+complaints be filed within 30 days of the event that gave raise to the complaint.
+
+Complainant Information:
+
+1. Today’s Date:
+
+2. Your Name:
+
+3. Persons Alleged to have discriminated or harassed you:
+
+4. List of Witnesses. Next to each name briefly describe type of information witness can
+provide:
+
+Page - 2 Discrimination/Harassment Complaint Form                2016-3049            Page 10 of 14
+                                                                 MALHEUR COUNTY, OREGON
+
+                                                                                                      a
+5. List date(s) of each alleged discriminatory/harassing act(s):
+
+6. Check the category or categories you believe to be the basis of the
+discrimination/harassment against you. If you believe that there is more than one basis,
+more than one category may be checked:
+
+ Color                     Race   Religion           Disability
+
+ Sex (male or female)                        Political Affiliation   Age
+
+ National Origin           Sexual Orientation                 Sexual harassment
+
+ Marital Status            Familial Status
+
+ Other (please specify):
+
+7. If your complaint is related to race, national origin or religion, please state your group
+of identification for which you are alleging race, national origin or religious
+discrimination.    For example, White, Latino, Asian, American Indian, Muslim, Jewish etc
+
+Group of identification:
+
+Page - 3 Discrimination/Harassment Complaint Form                    2016-3049                 Page 11 of 14
+                                                                      MALHEUR   COUNTY,   OREGON
+
+                                                                                                               1S
+8. Check the category or categories below that best represent the area of your concern:
+
+ Accommodation            Layoff            Seniority       Demotion         Termination
+
+ Opportunity      Facility Access           Pregnancy Leave       Training
+
+ Hiring           Job Assignment            Treatment       Work Environment
+
+ Job Benefits     Wages             Religious Observation
+
+Other (please specify):
+
+9. Do you know of any other employee, applicant of individual who was treated in the
+same way as you allege you were treated?
+
+          Yes   If yes, include names:
+
+          No
+          Don’t know
+
+Page - 4 Discrimination/Harassment Complaint Form                  2016-3049                Page 12 of 14
+                                                                       MALHEUR COUNTY, OREGON
+
+                                                                                                            14
+Statement of Complaint
+For each issue above, explain in your statement of complaint how you were discriminated
+against, harassed or denied an accommodation.     Describe in detail the alleged
+discriminatory/harassing acts. Please include the following points:
+
+*   Why you believe the acts(s) was based on a reason protected by policy or law.
+*   Dates, places, names and titles of persons involved and witnesses, if any.
+¢   What discriminatory act(s) took place.
+*   Describe any explanations, if any, that was offered for the acts that occurred; and
+* Any and all information you can provide that supports your allegations.
+* If this is a complaint based on disability, describe your request for reasonable
+  accommodation and the explanations given regarding your request.
+
+(AN ADDITIONAL SHEET MAY BE ADDED TO PROVIDE FURTHER INFORMATION)
+
+Page - 5 Discrimination/Harassment Complaint Form                 2016-3049            Page teria
+                                                                  MALHEUR COUNTY, OREGON
+10. How would you like the matter resolved?
+
+Signature and Verification
+I have reviewed and read this document and to the best of my knowledge all information
+it contains is true and correct.
+
+Signature of Complainant                                                          Date
+
+Page - 6 Discrimination/Harassment Complaint Form              2016-3049            Page 14 of 14
+                                                               MALHEUR COUNTY, OREGON
+
+                                                                                                    7
+102-   AMERICANS        WITH DISABILITIES ACT
+
+       Malheur County takes its obligations under the Americans With Disabilities Act
+       and applicable state disability and handicap discrimination statutes seriously.
+       Malheur County shall comply with Section 504 of the Rehabilitation Act of 1973,
+       the American Disabilities Act of 1991 (ADA) and other applicable federal and
+       state regulations that prohibit discrimination on the basis of disability. These acts
+       mandate that no qualified person shall, solely by reason of disability, be denied
+       access to, participate in, or the benefits of any program or employment
+       opportunity operated by Malheur County.
+
+       Employees must, however, be able to perform the essential functions of their jobs.
+       It is not illegal discrimination to require that all employees, including those with
+       disabilities, be able to perform the essential functions of their jobs or jobs for
+       which they apply,
+
+       It is Malheur County’s prerogative and responsibility to define job functions.
+
+       Each qualified person shall receive reasonable accommodation to ensure equal
+       access to employment, programs and activities, in the most appropriate integrated
+       setting. When an employee or applicant requests reasonable accommodation,
+       Malheur County gives serious consideration to the possibility of special
+       arrangements such as allowing the employee to use special equipment. Each
+       request for reasonable accommodation will be considered on its own merits, in
+       light of the particular job, of other related jobs, of the capabilities of a particular
+       employee and the specific accommodation requested. If Malheur County makes
+       accommodation to the needs of a particular employee, Malheur County does not
+       make any commitment that these special arrangements are permanent or they
+       automatically will be extended to any other employee. Rather, Malheur County
+       must maintain flexibility to reorganize work and to redefine job requirements in
+       light of overall needs of its business.
+
+       Violations of this policy and requests for reasonable accommodations should be
+       made in writing to the Personnel Officer at 251 B. Street West, Vale, Oregon
+       97918.
+
+       Approved:       August 17, 1993
+       Revised:        April 28, 1999
+
+                                                                                                 22
+103-   PERSONNEL FILES
+
+       Malheur County shall maintain personnel files for each employee in the
+       Administration Office. These files shall be the official repositories of all
+       materials relevant to the employee’s employment with Malheur County,
+       including, but not limited to, payroll changes and authorizations, benefit
+       memberships, evaluations, employment application and written discipline.
+       Medical records are maintained in a separate file from the employee’s personnel
+       file.
+
+       Personnel files shall be open for inspection by the employee, such other persons
+       officially designated in writing by the employee, the employee’s supervisor,
+       County Administrator, Personnel Officer, County Counsel, attorneys hired by
+       Malheur County, the Malheur County Court, other supervisors or administrators
+       of the County who are assigned to review or place materials therein, and such
+       other clerical personnel whose duty it is to maintain personnel files provided such
+       access does not conflict with ORS 192.500.       Inspections will be made in the
+       Administrative Office. Certified copies of personnel records can also be made at
+       $.25 a page. Requests for inspection or photocopying will be made within 45
+       days from the date of the request.
+
+       Nothing herein shall be construed to prevent or restrict administrators, supervisors
+       and the Personnel Officer from maintaining working files which shall be deemed
+       personal to the administrator, supervisor or Personnel Officer as part of their work
+       product.
+
+       Approved:      January 1, 2003
+       Revised:       January 2, 2008
+
+                                                                                              23
+104—   INTERNET, ELECTRONIC MAIL, TEXT MESSAGING AND SOCIAL MEDIA
+       ACCEPTABLE USE AND RETENTION POLICY
+
+       PURPOSE
+       Malheur County recognizes the use of the Internet, electronic mail (e-mail), text
+       messaging and social media to support the mission and business of the County. These
+       forms of County technology will be used in accordance with all applicable Federal, State
+       and local laws. This policy addresses the use, retention and management of this
+       technology on County equipment and devices and when utilized by County employees
+       during the performance of their official duties. This policy does not apply to private use
+       of employee-owned equipment and devices or employee’s private use of his/her own
+       Internet, cell phone or e-mail services.
+
+       DEFINITIONS
+       Electronic mail (e-mail) refers to messages and files that are created and sent or received
+       electronically.
+
+       Instant Messaging refers to real-time text communications between or among computers
+       or mobile devices over the Internet or functionally similar communications network (i.e.
+       Spark, the internal instant messaging program used by county).
+
+       Public Record has the meaning established in ORS 192.005. In general it refers to
+       information that is prepared, owned, used or retained by Malheur County, its offices and
+       departments; relates to any activity, transaction or function of a county office or
+       department; and is necessary to satisfy the fiscal, legal, administrative or historical
+       policies, requirements or needs of the county office or department.
+
+       Social Media refers to web-based and mobile communication technologies that allow the
+       creation or exchange of user-generated content such as comments or responsive postings.
+       Examples of social media as of the time this policy is adopted include but are not limited
+       to Twitter, Flickr, blogging sites, Facebook, YouTube and Instagram.
+
+       Text Messaging refers to messages exchanged between fixed-line phones or mobile
+       phones and fixed or portable devices over a network. Excluded from the definition of
+       “text message” is e-mail communications, whether such messages are exchanged among
+       or between county e-mail accounts or e-mail accounts maintained by private entities.
+
+                                                     MALHEURCOUNTY,OR                        2016-4282
+                                                    SOCUMENT cae                  11/30/2016 11:35 AM
+                                                    Cnt=1 Pgs=7                             Total:$0.00
+
+                                                         00039787 201600042820070070
+                                                    |, Deborah R. DeLong, County Clerk for Malheur
+                                                    County, Oregon certify that the instrument identified
+                                                    herein was recorded in the Clerk records.               ef
+                                                            Deborah R. DeLong - County Clerk
+
+                                                                                                                 24
+104—   INTERNET, ELECTRONIC MAIL, TEXT MESSAGING AND SOCIAL MEDIA
+       ACCEPTABLE USE AND RETENTION POLICY continued
+
+       BUSINESS PURPOSE ONLY
+       County Internet, e-mail, and social media may be used for County business on County-
+       owned equipment and devices by employees with approval from their supervisor, elected
+       official or department head. Use of County Internet, email and social media is permitted
+       in cases where such use is both suitable for business purposes and support the goals and
+       objectives of the County. Use of County technology and County property/devices is a
+       privilege and not a right. Inappropriate use will result in a cancellation of those
+       privileges and possible disciplinary or legal proceedings. Examples of inappropriate
+       employee use of County technology and devices include, but are not limited to, the
+       following:
+
+       a. Conducting illegal activities
+       b. Accessing, disseminating or downloading sexually explicit material
+       c. Gambling
+       d. Soliciting for personal gain or profit
+       e. Revealing or publicizing proprietary or confidential information
+       f. Representing personal opinions as those of the County
+       g. Using or posting profanity, obscenity, or language which is patently offensive
+       h. Uploading or downloading commercial software in violation of its copyright
+       i. Downloading software or electronic files without reasonable virus protection measures
+       Jj. Intentionally interfering with the normal operations of the County computer systems
+        k . Electioneering
+
+       ZERO TOLERANCE/CONSEQUENCES
+       Employees are strictly prohibited from using County cell phones, Internet or e-mail
+       accounts or County property and devices for conducting illegal activities; accessing,
+       disseminating or downloading sexually explicit material; gambling; soliciting for
+       personal gain or profit; using or posting profanity, obscenity or language which is
+       patently offensive and intentionally interfering with the normal operations of the County
+       computer systems. Violations of this zero tolerance statement will result in termination
+       from employment with the County. All other violations that are not specifically listed
+       above may result in discipline up to and including termination.
+
+                                          2016-4282                 Page 2 of 7
+                                           MALHEUR COUNTY, OREGON
+
+                                                                                                   a5
+104—   INTERNET, ELECTRONIC MAIL, TEXT MESSAGING AND SOCIAL MEDIA
+       ACCEPTABLE USE AND RETENTION POLICY continued
+
+       HARASSMENT
+       To maintain a professional working environment consistent with the County’s non-
+       harassment policy, users of County technology and County property/devices/equipment
+       are prohibited from sending or displaying messages or images that are reasonably vulgar,
+       libelous, patently offensive, sexually explicit, or that intimidate, threaten, demean or
+       harass individuals or groups, or that would otherwise bring discredit to the County.
+       Should employees receive material, such as a message, picture or suggestion that is
+       offensive, tell the originator that the material is unwelcome and offensive. Ask that no
+       more material be sent. If the originator continues please submit your complaint in
+       writing to the County Administrative Offices. Malheur County’s anti-harassment policy
+       fully applies to employees in their use of the County’s technology or County equipment
+       and devices.
+
+       ELECTRONIC MASS MAILINGS/PUBLISHED INFORMATION
+       Mass electronic mailings to the entire County staff for non-County purposes must have
+       the approval of the County Administrative Officer. Other than routine maintenance of
+       calendars, minutes, etc., any information that pertains to County business to be published
+       on the Internet must be approved by the employee’s supervisor. This includes but is not
+       limited to web pages, forms, and applications.
+
+       E-MAIL
+       Official county-issued e-mail accounts shall be primarily used for communications
+       regarding official county business and virtually all e-mail messages composed or sent
+       using employee’s County- issued equipment and/or email addresses are assumed to be
+       public records. Personal use of County e-mail accounts shall be limited, and must not: (1)
+       interfere with normal business activities; (2) be associated with any outside for-profit
+       business activity; or (3) otherwise contain any content that would cause embarrassment to
+       the County.
+
+       Personal email accounts should not be used for county business. County e-mail accounts
+       are available through the County Information Services (IS) department and can be
+       accessed over the Internet. If personal e-mail accounts must be used, employees must
+       copy their official e-mail accounts on all such outgoing communications, and forward
+       any received messages on which their official accounts are not copied. Personal e-mail
+       accounts (addresses) used for communications related to county business may be subject
+       to search and production.
+
+                                        2016-4282                Page 3 of 7
+                                        MALHEUR COUNTY, OREGON
+
+                                                                                                  2G
+104—-   INTERNET, ELECTRONIC MAIL, TEXT MESSAGING AND SOCIAL MEDIA
+        ACCEPTABLE USE AND RETENTION POLICY continued
+
+        PUBLIC RECORDS AND RETENTION                   OF EMAIL
+        Electronic mail messages on County equipment or technology are public records.        As
+        such, they are subject to the same rules for public inspection and retention that apply to
+        all other County records.
+
+               Responsibilities as a Public Employee To Retain Email
+               County employees have an obligation to apply the appropriate retention rules to
+               electronic mail sent and/or received by the employee. Electronic mail records and
+               documents attached to email have the same retention rules as other written
+               records consistent with Oregon Secretary of State Record Retention Schedules
+               (ie. OAR Chapter 166, Division 150 ), County policy (i.e. Malheur County
+               Sheriff Policy 2.12) or otherwise directed by the employee’s department or office.
+               The County IS department backs up and stores County email accounts/messages
+               for a limited time based on the capacity of the email server. The County’s email
+               backup system is primarily designed for disaster recovery and not for archiving.
+               The County IS department does not archive email accounts or messages.
+               Retaining email messages when necessary (save to disk, print and file etc.) is the
+               responsibility of each County employee.
+
+        INSTANT MESSAGING AND TEXT MESSAGING
+        Employees should not use text messages or instant messaging (i.e. Spark) for official
+        primary or substantive County business other than for: routine communications that do
+        not meet the definition of a “public record”; factual communications where the content is
+        already documented in a separate public record; or communications that will be
+        documented in a separate public record. For instance, if text messaging and instant
+        messaging are used for discussion regarding the primary business of county or
+        employee’s work, the text and instant message must be documented and retained as a
+        separate public record according to records retention schedules of the employee’s
+        department or office. The text message or instant message should be immediately
+        converted and saved in a separate public record format (e.g. by forwarding the relevant
+        text or instant message to an employee’s official e-mail account). Since Malheur County
+        requires that no text or instant message—based public records be created — or if they are
+        created, that they be converted and saved in an alternate format, which would serve as the
+        official copy of the record, Malheur County IS department does not retain text or instant
+        messages.
+
+                                         2016-4282                Page 4 of 7
+                                         MALHEUR COUNTY, OREGON
+                                                                                                     fg
+104—   INTERNET, ELECTRONIC MAIL, TEXT MESSAGING AND SOCIAL MEDIA
+       ACCEPTABLE USE AND RETENTION POLICY continued
+
+       Examples of Acceptable Uses For Text and Instant Messaging:
+       e Scheduling.
+       e Requesting a call or email on a matter, without substantive discussion.
+       © Requesting or offering logistical assistance (“Can you help me get these boxes to the
+         courthouse basement?”).
+       e Forwarding any person’s contact information (“I’m at 503-378-6002.”).
+       e Explaining your current whereabouts, or inquiring about someone else’s (“We’re in
+         the meeting at city hall. Are you in town?”).
+       e Describing facts or events that do not relate to the substance of the office’s work
+         (“spilled coffee all over myself”), or that have been or necessarily will be separately
+         recorded (“Mr. Jones just paid his taxes”).
+       e Inquiring about events like those in the previous bullet (“Has Mr. Jones arrived to pay
+         his taxes?”).
+
+       SOCIAL MEDIA RETENTION
+       Any County business placed on any Social Media platform shall be an accurate copy of
+       an official record that is retained elsewhere by a County department or office. Any
+       County department or office with an official social media site must ensure that public
+       records from the site and accurately captured and retained.
+
+       VOICE MAIL
+       Messages on County voicemail are not retained by County’s land-line phone system.
+       Employees should contact the County Administrative Offices if they wish to retain voice
+       messages.     Email transcriptions of voicemails that are determined to be public records
+       will be retained in accordance with records retention schedules and may be subject to
+       public disclosure upon request.
+
+       NO EXPECTATION OF PRIVACY/SUPERVISORY ACCESS
+       County employees have no right to expect that use of the County Internet, electronic mail
+       or county-issued equipment is private. The County has the right to access, monitor and
+       record all such usage at any time and without notice. The County may use this
+       information in disciplinary or other legal proceedings. The County will randomly audit
+       computers and other County devices assigned to employees. Employees are not allowed
+       to gain access to another employee’s e-mail files or computer without permission from
+       that employee or a supervisor.
+
+                                         2016-4282                Page 5 of 7
+                                         MALHEUR COUNTY, OREGON
+                                                                                                 22
+104—   INTERNET, ELECTRONIC MAIL, TEXT MESSAGING AND SOCIAL MEDIA
+       ACCEPTABLE USE AND RETENTION POLICY continued
+
+       REQUEST FOR PUBLIC DISCLOSURE
+       Upon receipt of a proper request, the County is responsible for making electronic mail
+       and other message records available for inspection by the public. If a department or
+       office receives a request for release of electronic mail or message records contact County
+       Counsel before choosing to release or withhold these records.         Employees should also
+       review the Malheur County Public Records Policy.
+
+       It is not the intent of this policy to define public records, retention schedules or to identify
+       records which are exempt from disclosure under the Public Records Law. Questions
+       concerning the definition of public records or which records are exempt from disclosure
+       should be directed to County Counsel.      Questions about the responsibility for record
+       retention or record retention schedules should be directed to a supervisor.
+
+       CONSENT FORM REQUIRED
+       As a condition of continued employment with the County, employees having access to
+       County equipment, devices, systems and technology services will be required to sign the
+       acknowledgment form that is attached to this policy. Applicants will be required to sign
+       this form upon acceptance of an employment offer by the County.
+
+                                      2016-4282                Page 6 of 7
+                                      MALHEUR COUNTY, OREGON
+
+                                                                                                     29
+104 -INTERNET AND ELECRONIC                  MAIL ACCEPTABLE USE AND RETENTION
+POLICY      continued
+
+                   MALHEUR COUNTY EMPLOYEE CONSENT FORM
+
+       I have reviewed Malheur County’s Internet and Electronic Mail Acceptable Use Policy.             I
+       understand that all computer equipment, as well as all information transmitted, received,
+       or stored in these systems, is the property of the County.
+
+       I understand that such systems are to be used solely for job-related purposes, not for
+       personal purposes, and that I have no expectation of privacy in connection with the use of
+       this equipment or the transmission, receipt, or information stored in such equipment.
+
+       I understand and agree not to use a code, access a file, or retrieve any stored
+       communication unless authorized; and I also acknowledge and consent to the County’s
+       monitoring my use of this equipment.
+
+       [ understand that violation of this policy could result in disciplinary action, up to and
+       including termination.    I agree to abide by the policy as a condition of continued
+       employment with the County.
+
+Print Employee Name
+
+Signature of Employee
+
+Date
+
+Approved:       December 15, 1998
+Revised:        April 11, 2002; March 1, 2004; November 30, 2016
+
+                                2016-4282                Page 7 of 7
+                                MALHEUR COUNTY, OREGON
+
+                                                                                                   40
+105 -   COMPUTER POLICY
+
+        Due to the routine use of personal computers in the workplace Malheur County
+        Court adopts the following policy:
+
+        1. In an effort to avoid violation of computer software copyright law and possible
+        lawsuits a separate software license shall be purchased for each computer or user
+        as required, unless a blanket licensing agreement is purchased.
+
+        2. All computer equipment or software purchases shall be reviewed by the
+        Manager of Information Systems. Any computer software to be installed on
+        County equipment shall be reviewed by the Manager of Information Systems.
+
+        3. Users must avoid spreading computer viruses. Always virus check
+        software/files to be installed, read, uploaded or downloaded. If a PC (personal
+        computer) does not have virus protection software see the Manager of
+        Information Systems about purchasing some.
+
+        4, Manager of Information Systems will back up the files on any servers that are
+        located in the computer room in the administrative office. If a server is located in
+        another department it shall be the responsibility of that department to be sure that
+        the files are adequately backed up. Backing up the files on the local hard drive(s)
+        of a PC is the responsibility of the employee/department that uses it. If
+        instructions are needed on how to accomplish these tasks please see the Manager
+        of Information Systems. A copy of the files should be turned in on a weekly basis
+        to be held off-site in case of a disaster.
+
+        5. Security on a computer system is high priority. Users identifying a security
+        problem are to notify their supervisor or the Manager of Information Systems
+        without demonstrating the problem to other users. Any deliberate attempt to
+        degrade or disrupt system or network performance, to bypass security measures,
+        or to access files that are not the users may result in disciplinary or legal
+        proceedings.
+
+        6. The person in whose name a sign-on name and password is issued is
+        responsible for its proper use. Do not use another individual’s sign-on without
+        written permission from the individual. If a user knowingly or carelessly makes
+        their password available to others, they may still be accountable for any actions
+        that may arise from the use of their password by another individual. However,
+        passwords are the property of the County and must be made available to either the
+        employee’s supervisor or the Manager of Information Systems.
+
+                                                                                               Fall
+105-   COMPUTER       POLICY     continued
+
+7. The computer equipment and software being used is County property. No
+hardware, software or files are to be taken from department premises other than as
+approved by a supervisor for County purposes. Any employee terminating
+employment with a County department is prohibited from taking or copying any
+computer discs, hard copies, or other information stored on the County’s
+equipment.
+
+8. The County reserves the right to monitor or access all computer/network
+activities at any time. Employees should not have any expectation of privacy
+when using County equipment. Deleting or purging data from the computer does
+not necessarily mean that it has been permanently destroyed and/or cannot be
+retrieved.
+
+9. As a condition of continued employment with the County, employees having
+access to County computer equipment will be required to sign the
+acknowledgment form that is attached to this policy. Applicants will be required
+to sign this form upon acceptance of an employment offer by the County.
+
+                                                                                     32
+105- COMPUTER POLICY continued
+
+                  MALHEUR        COUNTY EMPLOYEE            CONSENT FORM
+
+       I have reviewed Malheur County’s Workplace Computer Policy. I understand
+       that all computer equipment, as well as all information transmitted, received, or
+       stored in these systems, are the property of the County.
+
+       I understand that such systems are to be used solely for job-related purposes, not
+       for personal purposes, and that I have no expectation of privacy in connection
+       with the use of this equipment or the transmission, receipt, or information stored
+       in such equipment.
+
+       I understand and agree not to use a code, access a file, or retrieve any stored
+       communication unless authorized; and I also acknowledge and consent to the
+       County’s monitoring my use of this equipment.
+
+       I understand that violation of this policy could result in disciplinary action, up to
+       and including termination. I agree to abide by the Workplace Computer policy as
+       a condition of continued employment with the County.
+
+Print Employee Name
+
+Signature of Employee
+
+Date
+
+Approved:     December 15, 1998
+Revised:      January 1, 2003
+
+                                                                                           a5
+                                                               MALHEUR        COUNTY,
+                                                                                    OR                  201       6-2708
+
+                                                               MO COMENT                     08/10/2016 01:44 PM
+                                                               Cnt=1 Pgs=2                                   Total:$0.00
+
+                                                                    00037715201600 10270: 80020023
+                                                               |, Deborah R. DeLong,   County Clerk for Malheur
+                                                               County, Oregon certify that the instrument Identified
+                                                               herein was recorded in the Clerk records.
+                                                                      Deborah R. DeLong - County Clerk
+
+106 - TRAVEL AND EMPLOYEE INCURRED EXPENSES
+
+TRAVEL
+
+     It is the policy of Malheur County that all travel shall be allowed only when the
+     travel is essential to the normal discharge of the employee’s responsibilities. All
+     travel shall be conducted in the most efficient and cost effective manner resulting
+     in the best value to Malheur County. The travel must comply with all
+     requirements set forth in this section and must be for official County business
+     only.
+
+TRAVEL EXPENSES
+
+     The current approved rates for reimbursement of travel expenses are as set forth
+     below.     The employee’s supervisor may approve travel expenses at a higher rate
+     for special conferences or meetings.
+
+     Mileage. Mileage for travel in a private automobile, while the employee is acting
+     within the scope and course of his/her duties and driving over the most direct and
+     usually traveled route, will be reimbursed at a the current IRS rate. To qualify
+     for mileage reimbursement when using your private vehicle, the employee must
+     be required to use his/her own vehicle to travel to a place other than to his/her
+     normal place of work because a county vehicle is not available, the employee
+     must hold a valid, current driver’s license for the class of vehicle to be driven and
+     the employee must carry personal automobile liability insurance in amounts not
+     less than those required by the Oregon Financial Responsibility Law (ORS
+     806.060). No mileage reimbursement will be paid for the use of motorcycles or
+     mopeds. Whenever an employee chooses to use his/her own vehicle even though
+     a County vehicle is available, the employee will be reimbursed the current motor
+     pool rate set by the Malheur County Court.
+
+     Per Diem. Per diem expense for a twenty-four (24) hour period, during necessary
+     overnight travel while the employee is acting within the scope and course of
+     his/her duties will be paid at the rate of $35.00 per day. Current individual rates
+     for meals and lodging are as follows:
+
+            Breakfast:              $ 7.00
+            Lunch:                  $10.00
+            Dinner:                 $18.00
+            Lodging:                Employees will be reimbursed the actual cost of
+                                    lodging when approved by their supervisor in
+                                    advance.   Place of conference, event, meeting, or
+                                    other comparable cost for lodging.
+
+                                                                                                                       ot
+106-— TRAVEL AND EMPLOYEE INCURRED EXPENSES                            continued
+
+    Additional cost above the per diem limit may be appealed to the County for
+    reimbursement and is subject to the County’s approval. Appeals must be
+    accompanied by receipts.
+
+    Breakfast and dinner expenses shall be paid only if the employee, while acting
+    within the scope and course of his/her duties, is required to travel before 7:00 a.m.
+    or after 7:00 p.m. Lunch expense will be paid only if the employee, while acting
+    within the course and scope of his/her duties, is required to travel one hour before
+    or one hour after the employee’s normal lunch hour. Irrespective of the above
+    policy, meals will be paid if they are included in the cost of an employee’s
+    training, seminar, conference etc.
+
+    Employees must pay the difference between single and multiple occupancy
+    lodging rates when accompanied by a spouse, family member or companion.
+
+    Air Travel and Rental Vehicles. In addition to meals and lodging, travel expenses
+    will be reimbursed for airfare, parking, rental vehicles or other transportation
+    means, only if the employee is acting within the scope and course of his/her
+    employment and approved in advance by the employee’s supervisor.               Receipts are
+    required. Employees are limited to mid-size rental vehicles.
+
+    Travel rewards.   Employees traveling on official county business may not earn
+    travel rewards for personal use when travel is paid for or reimbursed by the
+    County. Travel rewards mean any object of value awarded by a business
+    providing commercial transportation or lodging which can be used to reduce
+    travel costs. Travel rewards include, but are not limited to airline frequent flyer
+    miles and hotel or car rental customer award bonuses, points, free rental days or
+    hotel stays. Travel rewards also include airline flight segment certificates or
+    dollar bonuses that are offered to a traveler who is voluntarily or involuntarily
+    bumped from an oversold flight. If employees do earn travel rewards while
+    traveling for County business, the rewards must be applied to County travel in the
+    future. Similar inconvenienced customer rewards offered by hotel or car rental
+    agencies shall also become the property of the County.          Employees shall account
+    and disclose information about reward activity resulting from county travel.           The
+    personal use of travel rewards earned while conducting county business
+    constitutes a personal gain from county employment and violates ORS 244.040.
+
+    Time period for reimbursement. Requests for reimbursement must be
+    accompanied by receipts and turned into the administrative office within 30 days
+    from the date of the expense incurred for reimbursement. If a request for
+    reimbursement is not made within 30 days, it will be denied.
+
+    Approved/Revised January 1, 2003; November 1, 2004; September 29, 2010;
+    September 28, 2011; August 10, 2016.
+
+                             2016-2708                Page 2 of 2
+                             MALHEUR COUNTY, OREGON                                              45
+                                                                                   MALHEUR COUNTY, OR
+                                                                                  MRCOUNTY COURT
+                                                                                                                           2017-4735
+                                                                                  DOCUMENT                         12/20/2017 10:57 AM
+                                                                                  Cnt=1 Pgs=4                                    Total:$0.00
+
+                                                                                       0004682 920170 0047350040041
+                                                                                  |, Gayle V. Trotter, County Clerk for Malheur County,
+                                                                                  Oregon certify that the instrument identified herein was
+                                                                                  recorded in the Clerk records.
+                                                                                             Gayle V. Trotter - County Clerk
+                                                                                                                                             G KY
+
+ 107-       USE OF COUNTY VEHICLES
+
+            Employees may use County owned vehicles for County business pursuant to the
+            following:
+
+            Employee must have a valid driver’s license and be at least 18 years of age.
+Nore
+
+            License must be in good standing. Permits or restricted licenses are not acceptable.
+            Employee is required to provide a photocopy of his/her current driver’s license to the
+            Personnel Officer to be placed in the employee’s personnel file. Employee authorizes
+            Malheur County to obtain employee’s driving record. Driving records will be checked
+            upon employment and at the time of a county vehicle incident or accident. Employee will
+            sign a release of information, if necessary, for the release of employee’s driving record
+            from state or county agencies. Employee is responsible for notifying the Personnel
+            Officer of any subsequent restrictions, limitations or other change in his/her driving status
+            as soon as possible. Employees must have a driving record acceptable to the County’s
+            insurance carrier for the types of driving duties employee will perform. The following
+            chart is guideline for evaluating an employee’s Motor Vehicle Record (MVR). An
+            employee with a MVR grade of “poor” will possibly not be insurable. Any “major”
+            violation is a poor score:
+
+                Motor Vehicle Record (MVR) Grading Criteria (Last 3 Years)
+
+       Minor Violation                               Number of At-Fault Accidents
+                                         0               1                             2                                   3
+                 0                     Clear        Acceptable                    Borderline                             Poor
+                 il                 Acceptable      Acceptable                    Borderline                             Poor
+                2                   Acceptable      Borderline                        Poor                               Poor
+                3                    Borderline        Poor                           Poor                               Poor
+                4                       Poor           Poor                           Poor                               Poor
+                                        Poor           Poor                           Poor                               Poor
+ Any Major violation
+
+                            Minor Violation                                         Major Violations
+
+ All moving violations not listed as a major violation.               Driving under influence of alcohol/drugs
+                                                          eoeeee#ee
+
+                                                                      Failure to stop/report an accident
+                                                                      Reckless driving/speeding contest
+                                                                      Driving while impaired
+                                                                      Making a false accident report
+                                                                      Homicide, manslaughter or assault arising out
+                                                                      of the use of a vehicle
+                                                                      Driving while license is suspended/revoked
+                                                             e        Careless driving
+                                                             ¢        Attempting to elude a police officer
+
+            1         Use of County Vehicles
+
+                                                                                                                                              Ab
+           107 - USE OF COUNTY VEHICLES continued
+
+           Vehicles must be reserved in advance. An employee shall sign out the vehicle he/she will
+           be driving. Employees shall put their name, department, and the date in the appropriate
+           spot on the mileage sheet and the green card. Employees shall leave the green card in the
+           appropriate slot so the administrative office will know who has the vehicle.
+           Fuel cards will be issued upon request in the administrative office. If an employee uses
+           his/her own money, receipts, travel voucher and requisition are required for
+           reimbursement. Fuel cards shall be kept in a safe place by employees to prevent loss or
+           theft. Driver is responsible for the return of fuel cards.
+           Clipboard mileage logs must be maintained within the vehicle while in use. Mileage
+           logs include beginning and ending mileage on each day the vehicle is driven, the number
+           of miles, gas and oil purchased and any repairs done while using the vehicle.
+           Vehicles must be kept clean at all times. Trash and debris must be picked up before the
+           vehicle is returned.
+           Vehicles must be fueled before returning the vehicle.     Fuel level must register at least full
+           or 4 full on the fuel indicator.
+           Smoking and vaping is prohibited.
+o°
+
+           Employees are expected to abide by all state and local driving laws. Employee must obey
+           all traffic laws, posted signs, signals and requirements applicable to the vehicle being
+           operated.   Citations issued to an employee when operating a county vehicle must be
+           reported immediately to the Personnel Officer. Citations issued due to the manner in
+           which the vehicle was operated or for other violations that are solely within the control of
+           the employee, such as failure to wear seatbelt, are the personal responsibility of
+           employee.
+10.        Malfunctions, repair or maintenance of vehicle must be immediately reported to the
+           Personnel Officer.
+TL.        Vehicles may not be taken home under any circumstances. Vehicles must be returned to
+           or picked up at the Malheur County Courthouse, Community Corrections or Ontario City
+           Hall.
+12,        Seat belts are to be used in all vehicles.
+13;        Every reasonable effort shall be made to operate the vehicle safely, with due regard for
+           potential hazards, weather and road conditions. Drivers are to ensure that the use of
+           prescribed or over the counter drugs do not interfere with their ability to drive and the
+           consumption of alcohol and controlled substances prior to or during the operation of
+           vehicles is prohibited.
+14.        Passengers may travel with an employee if the employee receives permission from the
+           employee’s supervisor and the administration office. Passengers may only accompany
+           employees to destinations, meals, events or activities that are within the scope and course
+           of employee’s duties. Using a county vehicle for activities and destinations outside the
+           scope and course of employment (for example, driving further west to another resort to
+           sightsee) may not be covered under the County’s insurance policies and violates the
+           Oregon Government Standards and Practices. For these reasons, employees who wish to
+           combine personal and business travel should take their own vehicles.
+iboe       Only County employees may drive County vehicles.
+
+       2      Use of County Vehicles
+
+                                                  2017-4735                Page 2 of 4
+                                                  MALHEUR COUNTY, OREGON
+                                                                                                     rol.
+107-       USE OF COUNTY VEHICLES continued
+
+16.        Oil, water and tire pressure are to be checked by driver every 500 miles. The County
+           Shop will service vehicles approximately every 3000 miles.
+17.        Local fueling of County vehicles shall be done at the place and in the manner instructed
+           by the County Administration Office.
+18.        Each County department using a vehicle from the County’s car pool will be billed based
+           on the mileage driven.
+19,        Use of a County vehicle is a privilege, which may be lost at the sole discretion of the
+           County.
+20.        Only experienced drivers may operate 15 passenger vans.          Operators of 15 passenger
+           vans must be familiar with the handling characteristics of the van, especially when fully
+           loaded.
+
+21.        Cell Phone and Other Device Use While Driving. The “hands-on” use of a cell phone
+           or other electronic device (i.e. tablet, GPS or laptop) while driving presents a hazard to
+           the driver, other employees and the general public. Subject to a few narrow exceptions
+           for emergency or public safety purposes, Oregon law prohibits the use of hand-held cell
+           phones and other electronic devices while driving, even if the driving is for work-related
+           reasons. Therefore, this policy is meant to ensure the safe operation of County vehicles
+           and it applies equally to the usage of employee-owned cell phones and phones provided
+           by County.
+
+           Employees are prohibited from holding a cell phone or any other electronic device while
+           driving/operating a County vehicle.      Should an employee need to make or answer a
+           business call while driving, the employee must locate a lawfully designated area to park
+           and make/answer the call. Employees may use hands-free cell phones or single-ear
+           devices (headphones, earbuds or Bluetooth devices for both ears are prohibited), to
+           make/answer business calls. Such calls should be kept short and should the circumstances
+           warrant (for example, heavy traffic, bad weather), the employee should locate a lawfully
+           designated area to park to continue or make the call, even if the employee is using a
+           hands-free device. Being stopped at an intersection or light does is not an exception to
+           this policy. Also, note this policy is more restrictive than Oregon state law. A single
+           swipe or tap to activate or deactivate a cell phone or other electronic device while
+           driving is PROHIBITED          under this policy.   Employees      must locate to a lawfully
+           designated area to park in order to activate or deactivate a cell phone or other
+           electronic device. In other words, once an employee starts to drive a County vehicle
+           a cell phone or other electronic device may not be held or touched regardless of
+           whether the device is mounted to the dashboard, window, vent or placed in the
+           console, cup holder or seat.
+
+       3      Use of County Vehicles
+
+                                                   2017-4735                Page 3 of 4
+                                                   MALHEUR COUNTY, OREGON
+
+                                                                                                   5S
+107-       USE OF COUNTY VEHICLES continued
+
+           When using a GPS or other navigation application, enter a destination address before you
+           begin to drive. If you need to enter an address after you begin driving, pull over and
+           legally park before keying in an address.
+
+           Employees     may   listen to music, podcasts,   audiobooks     and streaming    applications on
+           devices in a County vehicle as long as listening is “hands-free”.
+
+           Employees     may   use built-in speakers of County vehicles and may hook up/ pair cell
+           phones or other devices to a built- in hands-free device within the County vehicle (ie.
+           Bluetooth).
+
+22.        When operating your own vehicle for County of Malheur business:
+                 mYour Personal Auto Liability insurance is the primary payer.           County’s
+                   insurance is in excess of your coverage.
+                   m You should carry at least $50,000 per occurrence liability coverage.
+                   = County is not responsible for any physical damage to your vehicle.        You
+                   must carry your own collision and comprehensive coverage.
+                   m Report your mileage for expense reimbursement.
+23.        In the event of an accident:
+                   m Take necessary steps to protect the lives of yourself and others.
+                   = Comply with law enforcement instructions.
+                   m Do not assume or admit fault.     Others will determine liability and
+                   negligence after a thorough investigation.
+                   m Report the accident to County as soon as possible.
+
+Approved:          January 1, 2003
+Revised:           January 13, 2010; June 1, 2016; December 20, 2017
+
+       4      Use of County Vehicles
+
+                                                  2017-4735                Page 4 of 4
+                                                  MALHEUR COUNTY, OREGON
+
+                                                                                                     a
+108-          PROHIBITED POLITICAL ACTIVITY
+
+       Oregon law, at ORS 260.432, provides that “No public employee shall solicit
+       money, influence, service or anything of value or otherwise promote or oppose
+       any political committee or promote or oppose the nomination or election of a
+       candidate, the gathering of signatures on a initiative, referendum or recall petition,
+       the adopting of a measure or the recall of a public officer holder while on the job
+       or during working hours. However, this section does not restrict the right of a
+       public employee to express personal political viewpoints.”
+
+       It is the policy of Malheur County that employees may engage in political activity
+       except to the extent prohibited by State law or this policy when on the job during
+       working hours.
+
+       Employees who have in-person, regular, frequent or significant contacts with the
+       public may not wear campaign buttons, t-shirts, stickers or other apparel or
+       accessories that advocate for a political position or candidate, while on the job
+       during work hours.
+
+       The Malheur County Courthouse located at 251 B. Street West, Vale, Oregon is a
+       polling place. Restrictions from electioneering within the Courthouse and within
+       100 feet from any entrance to the Courthouse shall be followed as set forth in
+       ORS 260.695.
+
+       Approved:      January 1, 2003
+       Revised:       April 7, 2004
+
+                                                                                           Yo
+109-         ETHICS
+
+Most Malheur County employees fall within the definition of “public official” and
+are therefore subject to Oregon’s “Government Standards and Practices” statutes
+regulating the conduct of public officials. All Malheur County employees should
+become familiar with these statutes and use them as a guide especially in areas of
+conflict of interest and accepting gifts or gratuities. They are found in ORS 244.010
+through 244.440. Employees are encouraged to seek assistance from their
+supervisor or County Counsel with any legal or ethical concerns.
+
+Employees are expected to use good judgment, adhere to high ethical standards and
+avoid situations that create an actual or perceived conflict between their personal
+interests and those of Malheur County. Malheur County requires that the
+transactions employees participate in are ethical and within the law, both in letter and
+In spirit.
+
+Conflicts of interests or unethical behavior may take many forms including, but not
+limited to, the acceptance of gifts from competitors, vendors, potential vendors or
+customers of Malheur County. Gifts may only be accepted if they have a nominal
+value and are given for appropriate occasions (for example, holiday gift).
+Employees are prohibited from engaging in financial participation or other business
+undertaking that is competitive with, or prejudicial to, the bests interests of Malheur
+County. Employees may not use proprietary and/or confidential information for
+personal gain or to Malheur County’s detriment.
+
+Approved:         January 1, 2003
+Revised:
+
+                                                                                          YI
+    110-      “EMPLOYMENT         AT-WILL”
+
+Probationary employees and employees who are not covered under a collective
+bargaining agreement are employees “at will”. “Employment at will” means that
+employment with the County is not for any specific time and either the County or
+employee may terminate the employment relationship at any time, for any reason or no
+reason at all. A non-exhaustive list and some examples of employees who serve “at will”
+include:
+
+Seasonal employees
+Temporary employees
+County Counsel
+County Administrative Officer
+Personnel Officer
+Confidential employees
+Executive Assistant
+Department heads
+Assistant directors or department heads
+Chief Appraiser
+County Surveyor/Engineer
+Manager of Information Systems/GIS Coordinator
+Supervisors and managers
+Management Assistant
+
+Approved:     January 1, 2003
+Revised:
+
+                                                                                    aye
+111-        TELEPHONES
+
+Policy. County cellular (cell) telephones (phones) may be assigned and purchased at
+the discretion of the department head or elected official. Typically, cell phones
+should only be used when: (a) the employee has a duty away from the office and
+needs to remain in contact with voicemail, other employees or the public to conduct
+county business; or (b) the employee is required to respond to after-hour duties and
+emergencies or be on call; or (c) carrying a cell phone is a safety issue for the
+employee (for example, employee is traveling to a distant area of Malheur County to
+conduct county business and use of a landline telephone or public pay phone would
+be difficult). County cellular phones are for business purposes only. They are not
+to be used for non-work related communications.       Employees should be mindful
+that conversations over a cellular phone are not confidential and can be monitored by
+outsiders.
+
+Cellular telephones and driving. Unless an emergency exists, using a cellular phone
+for voice communication or texting while operating a county vehicle is prohibited,
+even if the cellular phone is equipped with a hands-free device. Operation of cellular
+phones shall not compromise driving safety. Employees should plan calls or texts
+either prior to traveling or while on rest breaks. Cellular phone calls and texts must
+be made from a car that is completely stopped and parked in a safe location.
+
+Personal use of county cellular telephones. Personal use of a county cell phone is
+not permitted. If an emergency or unforeseen circumstance develops, an employee
+may use the county cellular telephone to make a personal call (for example, to let a
+family member know the employee will be arriving home late).
+
+Personal cellular telephones. Using personal cellular phones for county business
+should be kept to a minimum. Costs of such usage for calls, long distance fees and
+roaming charges may be reimbursed if the employee provides a copy of the phone
+bill with county calls marked. Ifa personal phone plan has monthly “free” minutes,
+county business may be claimed first for any charges above the monthly limit.
+Monthly charges shall not be pro-rated for county business.
+
+The County may conduct periodic and random audits of county cell phones and long
+distance billings to insure full compliance with this policy.
+
+Land-Line Telephones.   Personal use of land-line phones should be kept to a
+minimum. Other than if an emergency or unforeseen circumstance develops, personal
+long distance phone calls shall be reimbursed to the County.
+
+Approved:    November 13, 2002
+Revised      January 13, 2010
+
+                                                                                   43
+                                        INSTRUMENT NO. 2008 +|8
+                                        Page 1 of 3. Pages                           F     ula               D
+                                                                                                    az
+                                                                                                    f “ G8
+
+114 - CLASSIFICATION OF POSITIONS                                                        JAH    ¢                       |
+
+                                                                              DEBORAH R. DELONG County Clerk
+                                                                              By           =]       '   a    a    Lle
+
+Classification System                                                          Sw               Orla             cniy
+The Personnel Officer shall prepare and maintain a classification system based on an
+analysis of organization of departments and the duties and responsibilities of each
+position in the County. A classification is a group of positions sufficiently similar in
+skills, education/experience, duties, authority, and responsibility to permit grouping
+under a common level and which would call for similar qualifications and same schedule
+of pay. The purpose of classification is to identify and group similar types and levels of
+work into classes, to describe those classes accurately, to ensure the classes are
+differentiated so that each position can be allocated appropriately, to provide a
+framework for conducting recruitment and selection activities, and to provide a
+foundation to identify relationships between and among classifications for fair and
+equitable salary administration.
+
+The classification title shall be the official title of every position allocated to the
+classification for the purpose of personnel actions and shall be used on all payrolls,
+budget estimates and official records and reports relating to the position. Any other
+working title desired to be used by a department head or elected official may be used for
+internal administration or for contacts with the public.
+
+Classification Review To Higher Classification
+The Personnel Officer shall review positions to ensure their appropriate classification.
+Positions are classified and not individual employees. Classification reviews may include
+but are not limited to: reviews of new positions, reviews resulting from re-organization
+changes, reviews initiated by the County Court or Personnel Officer, and reviews
+initiated by employees if the review is approved by the employee’s supervisor and
+department head or elected official. Employees may not request a classification review
+unless they have been in the position twelve (12) months or more. Employees who
+request a classification review must make a written request approved by his/her
+immediate supervisor and department head/elected official to the Personnel Officer. If
+the supervisor or department head/elected official does not approve of the reclassification
+request and then the employee will be directed to perform the duties listed within the
+scope of the employee’s current position. This directive would then void the
+reclassification process for the position and the process would end. If approved by the
+department head or elected office, the request must:
+
+        1.       Describe the duties currently being performed.
+             '   An explanation of how the duties or job have significantly changed.
+        2        Why the duties/job being performed are inconsistent with the current
+                 classification.
+       4,        An organizational chart of the department or office, approved by the
+                 department head or elected official, showing how the reclassified position
+                 will fit within the office or department structure.
+                                                    INSTRUMENT NO. 2008 —| 8
+                                                    Page _.cofak3 Pages
+
+114 ~ CLASSIFICATION OF POSITIONS continued
+
+       as      The employees may be asked to complete a written or oral data collection
+               questionnaire by the Personnel Officer
+       6.      The Personnel Officer will observe the employee while working (“desk
+               audit”).
+
+In order for an employee to be reclassified upward, the following criteria should be met:
+
+       e The employee must meet the qualifications of the reclassified position.
+       e The employee has a permanent change in duties — not a special project or short-
+       term assignment.
+       @ The addition, deletion, or change affects a duty or duties that constitute(s) a
+       significant portion of the job. The Fair Labor Standards Act provides that the
+       most appropriate classification for a position is when an incumbent performs 75%
+       to 80% of duties and responsibilities for that position.
+       e The duty or duties which is/are added, deleted or changed is/are substantially
+       different in level and type of pay from the balance of the job duties so that it
+       seems reasonable that the change in that one duty or duties affect the evaluation of
+       the job.
+        e The classification is approved by County Administrative Officer based on a
+       favorable quantitative evaluation of the job by the Personnel Officer and within
+       budget constraints of the department or office.
+        @ The request complies with this policy.
+        © The effective date for the reclassification is July 1, which is the beginning of a
+       new fiscal year. To be considered during a new fiscal year, a completed request
+       for reclassification must be received by the Personnel Officer no later than March
+       1. An earlier effective date may be approved by the Administrative Officer and
+       the County Court.
+       e Reclassifications to a higher classification may only be re-submitted after one
+       year or more from a previous reclassification request that was denied.
+
+Classification Review To Lower Classification
+A change in classification of the position accompanied by assignment to a lower salary is
+reclassification to a lower classification. An employee whose position has been
+downgraded shall be placed in the position without competing for the position. The
+County Court may authorize continuation of the same salary rate as an employee received
+prior to downgrading of the position by placing the employee on a “red circle” step. The
+employee shall receive no future salary increases until the salary range of the position
+exceeds the “red circle” rate.
+
+                                                                                            45
+                                                                 INSTRUMENT NO. 2008 ~ [¥
+                                                                 Page 3. of   3 Pages
+
+114- CLASSIFICATION OF POSITIONS continued
+
+Classification Review of New Positions
+When a new, regular position is approved by the Malheur County Court through the
+budget process, the Personnel Officer shall review the proposed duties and
+responsibilities to be assigned to the position and place it within the classification system.
+(Normally, new positions are only processed during the budget process each fiscal year).
+
+Classification Review Resulting From a Reorganization Of A Department or Office
+Whenever a department or office is reorganized, the Personnel Officer. upon consulting
+the department head or elected official, shall make a determination as to the need for a
+classification review.
+
+A position may be upgraded as a result of a department or office reorganization. When
+this occurs, the Personnel Officer in conjunction with the department head or elected
+official shall determine the appropriate selection procedure. In determining if recruitment
+ shall be promotional only or open-competitive the following shall be considered:
+ analysis of job duties, availability of internal applications both within the department or
+ office and within all other departments and offices and occupational standards.
+
+Temporarily Working Out Of Classification
+Unless otherwise specified by a collective bargaining agreement, employees may be
+assigned higher or lower classification duties without change in pay, where periodic or
+regular variations in assignments occur because of needs or because of the nature of the
+duties or work schedule. Such variations shall be considered as incidental to the position.
+
+The County Court and Administrative Officer may temporarily approve out-of-
+classification pay for extenuating circumstances, provided such assignment clearly
+encompasses the full scope of duties and responsibilities normally associated with a
+higher level classification as confirmed by the Personnel Officer. Approval of
+temporary out of classification pay shall not be retroactive.
+
+Approved:       January 2, 2008
+Revised:
+
+                                                                                           4/6
+                              INSTRUMENT
+                                     NO. 2008 ~ ALA                              r     | L         2        D
+                              Page _|_ of _[_ Pages                                      «             M
+
+415          PERSONAL PROPERTY IN THE WORKPLACE                                      APR 2, < £008
+115.1        Purpose                                                        a    | as rage a eae ari
+115.2        Private Property at Work                                                                  KU       Meputy
+115.3        Shipping/Delivery of Private Property on County Premises
+
+115.1        Purpose
+
+             The purpose of this policy is to inform employees that the protection of
+             personal property brought into the workplace is not the responsibility of
+             the County. The policy is meant to clearly delineate the employee's rights
+             and obligations when bringing personal property into the workplace so
+             that loss or damage of personal property in the workplace can be
+             avoided.    This policy does not replace the provision in the Malheur
+             County    Sheriff's Association     Collective   Bargaining   Agreement    entitled
+             “Replacement of Personal Property”.
+
+115.2        Private Property at Work
+
+             The County does not assume responsibility for any theft or damage to the
+             personal belongings of County employees.           The County carries no
+             insurance to cover any of these losses. Therefore, the County
+             encourages its employees to avoid bringing private articles of property to
+             work. The County reserves the right to restrict or limit private property in
+             County facilities.   Those who choose to bring personal property onto
+             County premises or County-leased premises should contact their
+             insurance agent to be certain their property is properly insured. It may be
+             desirable for personal property brought onto County property to be clearly
+             labeled with the owner’s name.
+
+115.3       Shipping/Delivery of Private Property on County Premises
+
+             Limited shipping or delivery of personal items to or from County facilities
+             will be allowed to the extent that such activities are not part of a
+             commercial enterprise and do not waste or disrupt work time. Employees
+             who have packages or parcels shipped or otherwise delivered to County
+             facilities do so at their own risk. Employees who are not willing to accept
+             this risk should make other arrangements with respect to such parcels or
+             packages.       The County does not assume responsibility for private
+             property in the form of packages or parcels that are being shipped or
+             delivered to County property.       As a courtesy to employees, available
+             County employees may sign acceptance of such packages or parcels, but
+             the County accepts no liability or ownership responsibility for the package
+             or parcel.
+
+Approved:    April 23, 2008
+Revised:
+
+                                                                                             47
+                                                                    MALHEURCOUNTY,OR                        2014-0680
+                                                                    oO ONT 03/05/2014 1:45:20 PM
+                                                                    Cnt=1 Pgs=2                                   Total:$0.00
+
+116- DATA TECHNOLOGY PURCHASING POLICY
+                                                                                          2014000068
+                                                                    (, Deborah R. DeLong, County Clerk for Malheur
+                                                                    County, Oregon certify that the Instrument identified
+                                                                    herein was recorded in the Clerk records.
+                                                                            Deborah R. DeLong - County Clerk
+
+The purpose of this policy is to reduce the overall costs of technology equipment
+purchases by coordinating and streamlining procurement; to ensure accurate
+inventory records of technology related purchases and/or disposal of obsolete
+equipment;       and     to   ensure     the   integrity   and    security         of     Malheur               County's
+network.
+
+In order to ensure that all technology related equipment meets the 1.8.
+department support criteria, when purchasing technology related items staff or
+elected      officials   should     consult    with   Information       Services             unless             otherwise
+directed by Information Services or Malheur County Administration.                                              Failure to
+adhere      to this policy    may      result in equipment       receiving         no or partial network
+connectivity if deemed to be a threat to county networks or data after
+consultation with the purchasing department head or elected official, nor will
+non-compliant equipment             be required to be supported or maintained                                   by the |S
+Department. In the case of an immediate threat to the county network or data
+Information Services may immediately remove a device pending consultation
+with department head or elected official.
+
+This policy applies to all Malheur County employees and elected officials and
+applies to all technology equipment regardless of the source of funding.
+Technology devices include but are not limited to:
+
+Computing Devices:
+A computing device is any device that can directly access any Malheur County
+data or network.
+
+Software:
+All software requires a license. Included is any software not delivered to you with
+your computer, paid or free. Any software not in Malheur County's software
+database found on a computer will be purchased and billed to the department
+or uninstalled upon discovery.
+
+The Information Services Department is responsible for:
+   e     Coordinating the County's capital equipment purchases to fully leverage
+         its purchasing power to achieve the best pricing possible.
+
+                                                                                                                   Lb
+       116-   Data Technology Purchasing Policy
+              continued
+
+   e   Assess and distribute useable equipment already owned by the County.
+   e   Determining the ability of the device to meet the needs of the user.
+   e   Annual evaluation of all departments for new purchases, equipment
+       rotation and replacement.
+   e   Recommending       overall budget for the purchasing of technology for all
+       County Departments/Offices regardless of the source of funding.
+   e   Plan yearly budget, purchase, and maintain proper service rotation for
+       the following devices.
+              Desktop Computer Systems
+              Laptop Computers
+              Windows OS Tablets
+
+Third Party Vendors:
+All departments/office must consult with Information Services before entering
+into an agreement/contract with a third party vendor that will require access or
+changes to the County's network or computers.
+
+Approved:     March 5, 2014
+Revised:
+
+                                                     2014-0680                Page 2 of 2
+                                                     MALHEUR COUNTY, OREGON
+
+                                                                                       L}
+                                                                   maa
+                                                                    MALHEUR COUNTY,OR
+                                                                    MRCOUNTY COUR                            2016-1595
+                                                                    DOCUMENT                      05/11/2016 01:40 PM
+
+                                                                                                  00015950030037
+                                                                   County, Oregon certify that the Instrum
+                                                                                                           ent identified
+                                                                   herein was recorded in the Clerk
+
+117-    SEPARATION FROM EMPLOYMENT                                         Deborah R. DeLong- County Clerk                  UL
+                                                                                                    records.
+
+POLICY STATEMENT
+
+A separation occurs when an employee resigns from County employment, retires, is
+involuntarily separated or dies. This policy applies to employees who voluntarily leave (resign
+or retire) their employment with Malheur County.      It also serves as a resource in the case of the
+death of an employee.
+
+RESIGNATION AND RETIREMENT
+
+Employees may resign their employment at any time by providing written notification to their
+supervisor.   Employees apply for retirement through PERS.     It is recommended by PERS that
+employees submit applications to retire at least 120 days prior to their planned retirement
+date.
+
+Notice to supervisor. Employees are generally expected to provide at least a two-week notice
+prior to their last day of work when resigning and a one-month (30 days) notice prior to their
+last day of work when retiring.     Longer notice periods may be appropriate for key positions.
+Notice periods may also be negotiated with the employee and his/her supervisor.
+
+Last day of work/separation date. When an employee resigns or retires, the separation date
+from employment is the last day the employee actually works. Employees must also work
+through their notice period.      Employees may not use vacation, compensatory time or other
+accrued paid leave to extend the notice period or last day of work.         In other words, the last day
+of work/separation date may not be a sick, vacation or other paid leave day.
+
+                                                                                                                      40
+117-    SEPARATION FROM EMPLOYMENT continued
+
+lf an employee gives notice of resignation or retirement then becomes ill, management has the
+discretion to allow an employee to exhaust sick leave to the resignation/retirement date
+originally indicated. The separation date of employment will be the resignation/retirement
+date. Management also has the discretion to allow an employee to use vacation or other paid
+leave prior to the set separation date only if the employee returns to work status on or before
+the set separation date. If an employee is exhausting approved paid leave for medical reasons
+and then resigns or dies before returning to work, the separation date is the date the employee
+resigns or dies.
+
+Notice to Personnel Officer.  Once a written notice is provided and discussed with the
+employee’s supervisor, separations must be processed through the Personnel Officer. A copy
+of the employee’s written letter of resignation or retirement as well as the supervisor’s
+acceptance of resignation must be given to the Personnel Officer to be placed in the
+employee’s official personnel file.  This is also important to meet payroll deadlines and to
+ensure proper and complete approval.
+
+Ability to rescind a resignation. A request to rescind a resignation must be in writing.
+Acceptance of the withdrawal of resignation is at the discretion of the employee’s supervisor.
+Supervisors should consult with the Personnel Officer upon receiving a request to rescind a
+resignation.
+
+Returning County property.       Employees must return all county property on or before the last
+day of work.
+
+                                                         Page 2 of 3                               ;   :
+                             2016-1595        , OREGON
+                               MALHEUR COUNTY
+117-    SEPARATION FROM EMPLOYMENT continued
+
+DEATH
+
+The Personnel Officer can provide assistance in securing County benefits, entitlements and final
+compensation when an employee dies.          Upon notified of the death of an employee, final
+payout is made to the employee’s estate.       Payment is released to the administrator or
+executor.
+
+FINAL PAYOUT PROVISIONS
+
+The final payout provisions below are just an overview and apply only to employees separating
+from employment for reasons of retirement, resignation or death. Details about final payout
+should be discussed with the Personnel Officer. Final payout is charged to the budget(s) from
+which the employee’s salary is paid. The County may deduct from final payout any debts owed
+to the County (for example, overdrawn leave at the time of separation).
+
+Vacation leave.  Employees receive a lump sum final payout for accumulated but unused
+vacation leave, not to exceed 25 workdays.
+
+Compensatory/ Overtime.  Employees receive a lump sum final payout for accumulated but
+unused compensatory/overtime, not to exceed 80 hours.
+
+Sick leave.  Sick leave is not paid out. Except for PERS retirees, accrued and unused sick leave
+will be reinstated if an employee is rehired within 180 days. Accumulated sick leave may be
+used in computing retirement benefits as determined by PERS.
+
+Personal leave.    Personal leave is not paid out.
+
+Approved:         May 11, 2016
+
+                                   2016-1595                Page 3 of 3
+                                   MALHEUR COUNTY, OREGON
+
+                                                                                                2.
+                                                                         MALHEURCOUNTY,OR                       2016-4360
+                                                                         MOCUMENT |                  12/07/2016 11:16 AM
+                                                                         Cnt=1    Pgs=4                              Total:$0.00
+
+                                                                           MA         9906201600043600
+                                                                         |, Deborah R. DeLong, County Clerk for Malheur
+
+118-   WHISTLEBLOWER PROTECTION POLICY                                   hereinWas recorded
+                                                                                      inthe Gerk record,                   Q/
+       ORS 659A.199 TO 659A.224; and House Bill 4067 (2016)                      Deborah R. DeLong - County Clerk
+
+1,     Policy Statement
+
+Malheur County seeks to conduct all of its activities in a responsible, legal and ethical manner.
+All board members, elected officials, employees and volunteers must practice integrity and
+honesty in fulfilling their responsibilities and must comply with all applicable laws and
+regulations. The purpose of this policy is to provide a mechanism for employees to report a
+violation of federal, state or local law, rule or regulation by Malheur County or an official of
+Malheur County (employer) and to delineate rights and remedies provided to employees under
+this policy and Oregon law.
+
+De     Complaints and Investigations
+
+A whistleblower as used in this policy is an employee, elected official, board member or
+volunteer of Malheur County who reports an activity that he/she considers to be illegal. The
+employee is not responsible for investigating the activity or for determining fault or corrective
+measures. Appropriate supervisors are charged with these responsibilities. Employees, elected
+officials, volunteers, and board members should exercise sound judgment and make allegations
+of a violation only when based on good faith and an objectively reasonable belief.
+
+If an employee, elected official, board member or volunteer should discover information leading
+him or her to believe that a violation of law has occurred; he or she shall report this information
+to a supervisor, County Judge or County Counsel. An investigation will be conducted. Reports
+of violations and the identity of the reporting employee will be kept confidential to the extent
+possible, unless otherwise required by law or written consent of the reporting employee is
+obtained. Appropriate action will be taken if warranted by the investigation.
+
+3.     No Retaliation
+
+County officials and employees are prohibited from retaliating, including the imposition of
+disciplinary action, against an employee because he or she has, in good faith, reported an alleged
+violation of law. However, employees may be subject to discipline if the information disclosed
+by the employee is known by the employee to be false, or if the information disclosed related to
+the employee’s own violations.
+
+                                                                                                               53
+118-   WHISTLEBLOWER PROTECTION POLICY
+       ORS 659A.199 TO 659A.224; and House Bill 4067 (2016) con’t
+
+An employee who believes he or she has been retaliated against for reporting illegal activity
+should advise their supervisor or Personnel Officer. The County official receiving a report of
+retaliation shall take appropriate action to investigate and address complaints of retaliation. A
+County employee who has been found to have retaliated against an employee for reporting, in
+good faith, illegal conduct shall be subject to discipline up to and including termination.
+Notwithstanding the above, any employee who believes he/she has been retaliated against for the
+reporting of improper government conduct may bring a civil action as provided in ORS
+659A.215 or ORS 659A.199. These remedies are in addition to any other law or remedy
+available to an employee. A violation of ORS 659A.203 by an official of Malheur County is a
+Class A misdemeanor.
+
+4.     Other Employee Protections
+
+4.1    No employee of Malheur County shall be prohibited from discussing, in response to an
+       official request, either specifically or generally with any member of the Legislative
+       Assembly, legislative committee staff acting under direction of a member of the
+       Legislative Assembly, any member of the governing elected body of a political
+       subdivision in the state or any elected auditor of a city, county or metropolitan service
+       district, the activities of:
+       4.1.1 The state or any agency or political subdivision of the state; or
+       4.1.2 Any person authorized to act on behalf of the state or any agency or political
+                 subdivision in the state.
+4.2    No employee of Malheur County shall be disciplined or threatened with discipline for
+       disclosing any information that the employee reasonably believes is evidence of:
+       4.2.1 A violation of any federal or state law, rule or regulation by the state, agency or
+                 political subdivision;
+       4.2.2     Mismanagement, gross waste of funds or abuse of authority or substantial and
+                 specific danger to public health and safety resulting from action of the state,
+                 agency or political subdivision; or
+       4.2.3 Subject to ORS 659A.212(2), the fact that person receiving services, benefits or
+                 assistance from the State or agency or subdivision, is subject to a felony or
+                 misdemeanor warrant for arrest issued by the State of Oregon, any other state,
+                the federal government, or any territory, commonwealth governmental
+                 instrumentality of the United States.
+4.3    No employee of Malheur County shall be required to give notice prior to making any
+       disclosure under Sections 4.1 and 4.2.
+4.4    No employee of Malheur County shall be discouraged, restrained, dissuaded, coerced,
+       prevented or otherwise interfered with when making disclosures or engaging
+       discussions of matters protected under Sections 4.1 and 4.2.
+
+                                2016-4360                Page 2 of 4
+
+                                                                                            54
+                                MALHEUR COUNTY, OREGON
+118-   WHISTLEBLOWER PROTECTION POLICY
+       ORS 659A.199 TO 659A.224; and House Bill 4067 (2016) con’t
+
+4.5    Affirmative defense. Any employee’s good faith and objectively reasonable belief of a
+       violation of federal, state or local law, rule or regulation by Malheur County shall be an
+       affirmative defense to a civil or criminal charge related to the disclosure by the
+       employee of lawfully accessed information related to the violation, including
+       information that is exempt from disclosure as provided in ORS 192.501 to ORS
+       192.505 or by Malheur County policy, if the information is provided to:
+       4.5.1 A state or federal regulatory agency;
+       4.5.2 Alaw enforcement agency;
+       4.5.3 Amanager employed by the County;
+       4.5.4 An attorney licensed to practice law in the state of Oregon if a confidential
+                communication is made in connection with the alleged violation described in
+                Section 4.5 and in furtherance of the rendition of legal services to the employee
+                that are subject to ORS 40.225.
+4.6    An employee may not assert and is not entitled to the affirmative defense described in
+       Section 4.5 if:
+       4.6.1 The employee does not have a good faith and objectively reasonable belief that
+                a violation occurred,
+       4.6.2 The employee discloses or re-discloses, or directs someone to disclose or re-
+                disclose the information to a party other than the parties listed in Section 4.5,
+       4.6.3. The information disclosed is stated in a commercial exclusive negotiating
+                agreement that is not related to the employee’s employment
+                with Malheur County,
+       4.6.4 The information is stated in a commercial nondisclosure agreement
+                that is not related to the employee’s employment with Malheur County,
+       4.6.5 The disclosure relates to some activity by the employee’s coworker or supervisor
+                that is not related to the course and scope of the coworker’s or supervisor's
+                employment,
+       4.6.6 The employee is an attorney for Malheur County or is an employee who is not an
+                attorney but who is employed, retained, supervised or directed by an attorney
+                and the disclosed information is related to the representation of Malheur
+                County.
+4.7    Disclosure made under Section 4.2, 4.3, and 4.5 herein are subject to the rules of
+       professional conduct established pursuant to ORS 9.490.
+4.8    Subject to the rules of professional conduct established pursuant to ORS 9.490, a public
+       employee who is an attorney may report to the Attorney General the employee’s
+       knowledge of a violation of federal, state or local law, rule or regulation by Malheur
+       County.
+4.9    Disclosure of information pursuant to Section 4.5 does not waive the attorney-client
+       privilege or affect the applicability of any exemption from disclosure of a public record
+       under ORS 192.501 to ORS 192.505.
+
+                             2016-4360                 Page 3 of 4
+                              MALHEUR COUNTY, OREGON
+
+                                                                                             55
+118-   WHISTLEBLOWER PROTECTION POLICY
+       ORS 659A.199 TO 659A.224; and House Bill 4067 (2016) con’t
+
+4.10   Notwithstanding Section 4.5, information protected from disclosure under federal law,
+       including but not limited to the federal Health Insurance Portability and Accountability
+       Act of 1996 (P.L. 104-91), may be disclosed in accordance with federal law.
+
+5.     Other Opportunities for Reporting
+
+This policy is not intended to replace other opportunities for employees to bring complaints or
+grievances pertaining to their employment under personnel rules, a collective bargaining
+agreement or pursuing any rights they may have in federal and state law to present a civil
+complaint, ethic complaint pursuant to ORS chapter 244, or to contact the Oregon government
+fraud, waste or abuse hotline/website maintained by the Oregon Secretary of State.
+
+Approved:   December 7, 2016
+Revised:
+
+                               2016-4360                Page 4 of 4
+                               MALHEUR COUNTY, OREGON
+
+                                                                                             5be
+                                                                  MALHEURCOUNTY,OR                           2017-3620
+                                                                  MRCOUNTY COURT
+                                                                  DOCUMENT                              09/1 mae pe ue a
+                                                                  Cnt=1     Pgs=4
+
+                                                                                       '20170003620004004
+                                                                 Pr           omallieratncmaaigl ay
+                                                                 | GayleV. Trotter,       County   Ch
+
+                                                                 recorded in the Clerk records.
+                                                                            Gayle V. Trotter - County Clerk
+
+119-   VETERANS’ PREFERENCE
+
+PURPOSE: To inform County departments and applicants, in writing, of Veterans’ Preference
+requirements set forth by state law.
+
+SCOPE: This policy applies to all County Departments, Offices, employees, and applicants.
+Veterans’ Preference applies to any hiring or promotion decision that is made based on the
+results of a merit based, competitive process that includes, but is not limited to, consideration of
+an applicant’s or employee’s relative ability, knowledge, experience and other skills. Veterans’
+Preference is to be applied at each of the hiring or promotion process (i.e. evaluation of
+application, interview, written test).
+
+POLICY STATEMENT: Malheur County applies Veterans’ Preference Points in accordance
+with ORS 408.230 and 408.235.
+
+DEFINITION OF “VETERAN”:
+
+Oregon Revised Statute 408.225 defines “Veteran” for eligibility to receive employment
+preference. A veteran means a person who has served on active duty with the Armed Forces of
+the United States:
+
+        °      For a period of more than 178 consecutive days and was discharged or released
+                from active duty under honorable conditions;
+
+        fo)     For 178 days or less and was discharged or released from active duty under
+                honorable conditions because of a service-connected disability; or
+
+        °       Served at least one day in a combat zone and was discharged or released under
+                honorable conditions; or
+
+        fo)     Received a combat or campaign ribbon for service in the Armed Services of the
+                United States.
+
+Active duty does not include attendance at a school under military orders, except schooling
+incident to an active enlistment or a regular tour of duty. Active duty also does not include
+normal military training as a reserve officer or member of the National Guard unit.
+
+                                                                                                                           =)
+119-    Veterans’ Preference con’t
+
+PROCESS:
+
+Attached to this memo is an outline of the criteria used to determine if Veterans’ Preference will
+be granted. Applicants for employment who want to use Veterans’ Preference are required to
+designate their eligibility through standard questions asked on the County’s on-line employment
+application for jobs posted in this system and complete the Veterans’ Preference Form (ORS
+408.230). Applicants must also fax, mail or deliver a copy of their DD214 and/or USVA proof
+of disability by the application close date. The County reviews the documents against the criteria
+for a determination of eligibility and points.
+
+VETERANS’ PREFERENCE:
+
+ORS 408.230 outline the manner in which public employers must grant preference to eligible
+veterans. At each stage of the application process, preference must be granted to veterans who
+successfully complete the initial application screening or an application examination or test that
+is administered to establish eligibility.
+
+Application Screening:    At time of initial application screening, points are to be added to a
+scored review to determine a list of persons for interviews. Five (5) points are to be added to a
+veteran’s score and 10 preference points to a disabled veteran’s score.
+
+Scored Examination/Interview: An application examination or interview, given after initial
+application screening that results in a score, shall have preference points added to the total
+combined examination score without allocating the points to any single feature or part. Five (5)
+points are to be added to a veteran’s score and 10 points to a disabled veteran’s score.
+
+Non-scored application processes: for application examinations or processes that do not result
+in a score, preference shall be given to the veteran or disabled veteran by applying methods that
+give special consideration in the hiring decision to veterans and disabled veterans.
+
+                                    2017-3620                Page 2 of 4                          53
+                                    MALHEUR COUNTY, OREGON
+119-    Veterans’ Preference con’t
+
+ELIGIBILITY         FOR PREFERENCE:
+
+A veteran is eligible to use the preference provided under ORS for a position for which
+application is made at any time after discharge or release from service in the Armed Forces.
+
+Preference for current County employees: A regular or probationary status employee who seeks
+promotion or transfer to another County position may receive veteran’s preference if the
+employee qualifies as a veteran or disabled veteran. Employees who take a military leave of
+absence also qualify if their service qualifies them for veteran status by reason of their service
+during military leave.
+
+APPOINTMENT TO A POSITON:
+
+ORS states that Veterans Preference is not a requirement that the County appoint a veteran or
+disabled veteran to a position. However, ORS does state that if the veteran’s application
+examination(s), when combined with their veteran’s preference, are equal to or higher than the
+results of a non-veteran, the public employer shall appoint an otherwise qualified veteran or
+disabled veteran.
+
+A decision to not appoint a veteran may be based solely on the veteran’s merits or qualifications
+with respect to the vacant position. ORS provides that a veteran may request a written
+explanation of the reasons why he/she was not appointed to the position. Upon such written
+request, the County will provide the reasons for the decision not to appoint the veteran to the
+position.
+
+ENFORCEMENT:
+
+A veteran or disabled veteran claiming a violation of the ORS may file a written complaint with
+the Civil Rights Division of the Bureau of Labor and Industries.
+
+Questions about Veterans’ Preference Points may be directed to the Personnel Officer.
+
+Approved:    September 13, 2017
+Revised:
+
+                                   2017-3620                Page 3 of 4
+                                   MALHEUR COUNTY, OREGON
+
+                                                                                                  a4
+                       CRITERIA FOR VETERANS’ PREFERENCE POINTS
+
+An applicant or employee seeking a Malheur County employment opportunity must meet the following eligibility
+requirements to be awarded Veterans’ Preference Points as provided in ORS 408.230 and 408.235. The criteria
+must be identifiable in a copy of DD Form 214 or DD Form 215 (Correction Form to DD Form 214) and VA Form
+802 (if disabled). These forms must be submitted by the closing date for applications. If the information on the
+applicant’s DD Form 214 and/or VA form does not support the criteria outlined on this form, preference points will
+be denied.
+
+Veteran Status Must meet the following criteria. 5 points total for veteran; 10 points total if disabled veteran.
+
+A. Time in Service:
+
+         Service in Armed Forces (Army, Navy, Air Force, Marines or Coast Guard) was more           than 90 consecutive
+         days beginning on or before January 31, 1955, and was discharged under honorable conditions; or
+
+         Service was more than 178 consecutive days beginning after January 31, 1955, and was_        discharge was
+         under honorable conditions; or
+
+         Service was for 178 days or less and discharge was under honorable conditions because        of a service-
+         connected disability; or
+
+         Service was for 178 days or less and discharge was under honorable conditions and have a disability rating
+         from the United States Department of Veterans Affairs (USVA); or
+
+         Served at least one day in a combat zone and discharge was under honorable conditions;       or
+
+         Received a combat or campaign ribbon for service in the Armed Services of the US and_        discharge was
+         under honorable conditions; or
+
+         receiving nonservice-connected pension from the USVA.
+
+B. Dates of Service:
+
+         Applicant is eligible to use the preference provided in ORS 408.230 for a position for which application
+         is made at any time after discharge or release form the service inthe   Armed Forces. Date of discharge
+         on Form DD 214 is:
+
+If meets A and B then 5 points total.
+
+Cc       Disabled Veteran (Proof of disability must be submitted).
+
+         Applicant is entitled to disability compensation from USVA, or was discharged or released from active
+         duty for a disability incurred or aggravated in the line of duty or was awarded the Purple Heart for wounds
+         received in combat.
+
+If meets A, B and C then 10 points total.
+
+Promotional Veteran Points: Veteran’s points are provided to employees seeking other county positions based on
+the criteria set forth above for veteran or disabled veteran.
+
+Use of Veteran Points:      There are currently no restrictions on amounts of times Veteran Preference may be used by
+an applicant or employee.
+
+                                         2017-3620                 Page 4 of 4
+                                          MALHEUR COUNTY, OREGON
+                                                                                                                      (pO
+                                 SECTION 200
+                               COMPENSATION
+                                Table of Contents
+
+200-   Payroll Deductions
+
+201-   Paydays
+
+202-   Salary Advancement                           64
+
+203-   Employee Withholding Certificates            65
+
+204-   Time and Attendance                          66
+
+205-   Final Paycheck                               68
+
+206-   Overtime and Compensatory Time               69
+
+207-   Direct Deposit                               70
+
+                                                         (ol
+200 -   PAYROLL DEDUCTIONS
+
+        Payroll deductions, required by law for Oregon Public Employee’s Retirement
+        System, Social Security, Medicare, Worker’s Compensation and State and Federal
+        income tax and all other deductions by law (i.e. garnishment) are made
+        automatically by the Administration Office.
+
+        Employees may request other deductions as permitted by law and Malheur
+        County’s cafeteria plan. The employee shall make such request in writing to the
+        Personnel Officer.
+
+        Approved:      January 1, 2003
+        Revised:
+
+                                                                                      loZ
+201-   PAYDAYS
+
+       You will be paid monthly. Paychecks are generally the last day of each month. If
+       the payday falls on either a Saturday or Sunday, paychecks will be distributed on
+       the Friday prior to the payday. Ifa holiday falls on payday, you will receive your
+       check on the last workday prior to the holiday.
+
+       Approved:      January 1, 2003
+       Revised:
+
+                                                                                     (Oe)
+202-   SALARY ADVANCMENT
+
+       Advance payments of salary are to be granted in emergency situations only and
+       must be approved by the County Administrator. Emergency draws will be made
+       not to exceed the amount equal to the hours accumulated at the time of the request
+       less any funds required for voluntary and involuntary deductions. A salary
+       advance shall not exceed the employee’s net salary for the pay period. The
+       amount of any pay advance will be withheld from employee paychecks covering
+       the pay period the wages were drawn against. All requests for emergency draws
+       will be reviewed on an individual basis. You are expected to conduct your
+       personal financial affairs in a responsible manner and advances will normally
+       only be approved in cases of emergencies beyond your control.
+
+       Approved:      January 1, 2003
+       Revised:
+
+                                                                                       lod
+203-   EMPLOYEE      WITHHOLDING         CERTIFICATES W-4 FORMS
+
+       You are required under Federal law to furnish the organization with an Employee
+       Withholding Exemption Certificate (W-4) at the date of hire. You must file a new
+       W-4 form at any time the number of entitled exemptions decreases to less than the
+       number being claimed. New W-4 forms may be filed when the number of entitled
+       exemptions increases, if desired, but it is not required. You may increase
+       withholding by claiming fewer exemptions than entitled or by requesting
+       additional withholding to be made if you find that insufficient tax has been
+       withheld to meet your year end tax liability.
+
+       Approved:     January 1, 2003
+       Revised:
+
+                                                                                  66S
+                                                                     MALHEURCOUNTY,OR                         2016-3050
+                                                                     MRCOUNTY COURT
+                                                                     DOCUMENT                      09/07/2016           11:42   AM
+                                                                     Cnt=1    Pgs=2                                Total:$0.00
+
+204-   TIME    AND ATTENDANCE                                          | Il | | |                      | | | |          | | | |
+
+                                                                                        3201600030500020026
+                                                                     |, Deborah R. DeLong,   County Clerk for Malheur
+
+                                                                     seed i ehy debs                             lial
+       ATTENDANCE                                                            Deborah R. DeLong - County Clerk                     AK
+
+       Employees shall be subject to the following policies except when in conflict with a
+       collective bargaining agreement.
+
+       Reliable attendance and punctuality are essential for effective operations within Malheur
+       County. Customers, supervisors and coworkers have an expectation that employees will
+       regularly be at work during their assigned work schedule. Malheur County recognizes
+       that absences will occur consistent with County policies, state and federal laws and
+       collective bargaining agreements for holidays, vacations, personal leave, jury service,
+       bereavement, medical leave, sick leave, military leave etc.
+
+       The following, however, are illustrative of unacceptable attendance. This list is not
+       intended to cover every possible type of unacceptable attendance and does not preclude
+       supervisor action for other attendance matters that may be detrimental to efficient
+       operations of a county department or office.
+
+       (a) Leaving work during assigned work hours without reasonable excuse and proper
+       permission or approval. Such absence is viewed as job abandonment.
+
+       (b) Unexcused or unauthorized absences. An absence can be unexcused or unauthorized
+       when an employee fails to call in, give advance notice, exceeds the length of absence as
+       defined by policy, exceeds the length of absence authorized in advance by employee’s
+       supervisor or exceeds accrued leave. Each department or office may have specific
+       procedures for employees to follow when requesting time off or notifying his/her
+       supervisor of the employee’s absence. The supervisor should provide those specific
+       procedures, in writing, to all employees within that supervisors’ department so the
+       employee may be aware.
+
+       (c) Pattern absences. Pattern absences may include repeated unscheduled absences the
+       day before or after a scheduled holiday, vacation, weekend or personal day; an absence
+       on a desirable day off or a specific day of the week; or exhausting available leave every
+       month as it is accrued without reasonable excuse.
+
+       (d) Unexcused or unauthorized tardiness. Failure to report to employee’s assigned work
+       area and fully prepared to perform duties at the scheduled starting time, including
+       returning from breaks and meal period without reasonable excuse.
+204-   TIME AND ATTENDANCE continued
+
+       (e) Abuse of sick leave. Abuse of sick leave can occur when an employee uses sick
+       leave for any reason other than those specified in the county’s sick leave policy or state
+       or federal law or collective bargaining agreement.
+
+       (f) Excessive absenteeism or tardiness.
+
+       TIME
+
+       The time sheet is a record of time worked and any leave time used by employees. It
+       should be filled out daily. It provides an accounting to the public and a record of the time
+       spent on and away from the job. Time sheets should be reviewed for completeness and
+       accuracy. Supervisors will review time sheets each pay period and sign them. Time
+       sheets must be legible. If an error is to be corrected or time clarified, all entries and
+       corrections should be initialed. Time sheets should be reviewed, signed and turned in to
+       the Administrative Office on the date requested by the Personnel Officer. Your signature
+       on the time sheet verifies that the times and dates are true and accurate and that no time is
+       being claimed for your personal business unless sick, vacation or personal leave is
+       indicated.
+
+       Time sheets ensure compliance with federal and state laws, regulations, payroll
+       obligations and collective bargaining agreements.
+
+       Approved:      January 1, 2003
+       Revised:       September 7, 2016
+
+                                   2016-3050                 Page 2 of 2
+                                    MALHEUR COUNTY, OREGON
+
+                                                                                                    1
+205-   FINAL PAYCHECK
+
+       When resigning from Malheur County, if you provide us with at least 48 hours
+       notice (excluding holidays and weekends) you will receive your final paycheck on
+       the last day worked. If less notice is given, the final paycheck will be provided
+       within five (5) working days or on the next regularly scheduled payday,
+       whichever occurs first. Final paychecks will include all wages earned through the
+       last day worked plus payment for any accrued vacation benefits that are due and
+       payable at separation.
+
+       Approved:      January 1, 2003
+       Revised:
+
+                                                                                     (o8
+206-   OVERTIME AND COMPENSATORY                 TIME
+
+       Occasionally, you may be required to work overtime. Malheur County complies
+       with the provisions for overtime as outlined in the Fair Labor Standards Act
+       (FLSA) and State wage and hour laws. Overtime hours will be paid to nonexempt
+       employees at one and one-half times the basic straight time hourly rate for all
+       hours worked in excess of 40 in a regular workweek. Prior approval must be
+       obtained from your supervisor before working overtime. These provisions do not
+       apply to FLSA exempt employees, such as department heads.
+
+       Overtime is calculated for nonexempt employees on the basis of hours actually
+       worked over 40 in a week. Sick leave, personal leave and vacation are not
+       counted as hours worked. Overtime will be paid in cash at the rate of 1.5 times
+       the hourly rate of pay if budgeted funds are available. Overtime will be allowed
+       in compensatory time off at 1.5 times the overtime hours with prior agreement of
+       the employee. Compensatory time can be accrued up to 80 hours by nonexempt
+       employees.
+
+       Overtime does not earn additional benefits, and compensatory time off instead of
+       regular work is counted as regular time in computing wages and benefits.
+
+       Approved:    January 1, 2003
+       Revised:
+
+                                                                                     4
+207-   DIRECT DEPOSIT
+
+For the sake of convenience and efficiency for both the employee and Malheur
+County, employees may have their payroll checks processed through direct
+deposit. Employees must provide bank and account information to the Personnel
+Officer in order to set up direct deposit.
+
+Approved:   = January 1, 2003
+Revised
+
+                                                                                "1O
+                                   SECTION 300
+                        BENEFITS, LEAVES AND INSURANCE
+                                     Table of Contents
+
+300-   Jury Duty and Court Witness Leave
+
+301-   Military Service Leave
+
+302-   Paid Personal Leave Benefit                                75
+
+303-   Sick Leave                                                 76
+
+304-   Family Medical Leave                                       83
+
+305-   Unpaid Sick Leave/Non-FMLA/OFLA Medical Leave              94
+
+306-   Unpaid Leave of Absence                                    96
+
+307-   Bereavement Leave                                          97
+
+308-   Paid Vacation Benefits                                     100
+
+309-   Donation of Vacation Benefits                              101
+
+310-   Paid Holiday Benefits                                      102
+
+311-   Retirement                                                 103
+
+312-   Deferred Compensation Insurance                            104
+
+313-   Workers’ Compensation Insurance                            105
+
+314-   Medical, Dental and Vision Insurance                       108
+
+315-   Health Insurance Continuation (COBRA)                      109
+
+316-   Life Insurance                                             110
+
+317-   Disability, Cancer, Accidental, Intensive Care Insurance   111
+
+318-   Unemployment Insurance                                     112
+
+319-   Employee Assistance Program                                113
+
+                                                                  ai
+320-   Cafeteria or Flexible Plan    114
+
+321-   Lactation Breaks              115
+
+322-   Domestic Violence Leave       117
+
+323-   Veterans Day                  119
+
+                                    ae
+300 -   JURY DUTY AND COURT WITNESS LEAVE
+
+        An employee subpoenaed for jury duty or as a court witness may be granted leave
+        with pay. An employee will notify his/her immediate supervisor and will pay
+        Malheur County the amount of compensation or per diem (excluding mileage and
+        meals reimbursement) paid to the employee for such duty. A copy of the
+        subpoena will be filed with the leave request/time sheet. Upon being excused
+        from jury service or as a witness before the end of the normal workday, the
+        employee shall immediately notify his/her supervisor for assignment for the
+        remainder of the regular workday.
+
+        Leave will be granted for appearances before a court, judicial or quasi-judicial
+        body as a witness in response to a subpoena or other direction by proper authority
+        when such appearance is the result of the employee’s official duties for Malheur
+        County, the employee will be given leave without pay loss. The compensation
+        paid to an employee as a witness fee or other per diem when a County-owned
+        vehicle is used shall be paid to Malheur County.
+
+        This policy does not apply to employees who are involved in personal, legal
+        actions. Vacation, personal leave or compensatory time must be used in personal,
+        legal actions.
+
+        Approved:      January 1, 2003
+        Revised:
+
+                                                                                        13
+301-—   MILITARY SERVICE LEAVE
+
+        Employees will be granted leave without pay for the duration of their military
+        duty pursuant to law. Employees who are members of one of the reserved
+        components of the armed forces of the United States or the Oregon National
+        Guard shall be entitled to leave without loss of pay for military duty for a period
+        or periods not to exceed a total of 15 calendar days for each calendar year.
+        Requests for military leave shall be submitted through regular supervisory
+        channels to the Personnel Officer and shall be accompanied by official orders
+        specifying the dates and location of such military duty.
+
+Approved:    — January 1, 2003
+Revised:
+
+                                                                                              ie)
+302-   PAID PERSONAL LEAVE BENEFIT
+
+       General Policy Statement. Each full-time employee is entitled to two (2) days of paid
+       personal leave each calendar year commencing in January following the employee’s first
+       annual anniversary date. Personal leave does not accrue from year to year. If personal
+       leave is not used by December 31 every year, it will be lost. Unused personal leave will
+       not be paid to the employee. Employees must provide continuous service in the previous
+       calendar year to be eligible for two personal leave days. For an employee that does not
+       provide continuous service in the previous calendar year, personal leave will be pro-rated
+       on a monthly basis.
+
+       New employees. For new employees, personal leave is pro-rated starting the first month
+       following the employee’s first year anniversary date through December 31. For example,
+       after being employed for one year and the employee’s anniversary date is July 1, the
+       employee will be granted one (1) personal leave day on January 1. July 1 through
+       December 31 is % of a calendar year and therefore 4 of two personal leave days or 1
+       personal leave day will be granted.
+
+       Employees under a collective bargaining agreement must refer to their agreement for
+       personal leave benefits.
+
+                                                               MALHEUR COUNTY, OR                            =
+       Approved:      January 1, 2003                          MRCOUNTY COURT                           2014-1837
+       Revised:       June 4, 2014                             DOCUMENT                      06/06/2014 12:36 PM
+                                                               Cnt=1 Pgs=1                             Total:$0.00
+
+                                                                    0002405120140001837001001 &,
+                                                               |, Deborah R. DeLong, County Clerk for Malheur
+                                                               County, Oregon certify that the instrument identified
+                                                               hereln was recorded in the Clerk records.
+                                                                      Deborah R. DeLong - County Clerk
+
+                                                                                                                       15
+                                                               MALHEURCOUNTY,OR                         2015.4390
+                                                               MRCOUNTY COURT
+                                                               DOCUMENT                      12/16/2015 01:53 PM
+                                                               Cnt=1 Pgs=7                             Total:$0.00
+
+303-          SICK LEAVE
+                                                                    00033657201500043900070072
+                                                               |, Deborah R. DeLong, County Clerk for Malheur
+                                                               County, Oregon certify that the Instrument identified   A
+                                                               herein was recorded in the Clerk records.
+                                                                       Deborah R. DeLong - County Clerk                    A.
+
+       Purpose                                                                            sien
+       This policy on paid sick leave is established to comply with Oregon Laws
+       Chapter 537 (2015) and rules adopted by the Oregon Bureau of Labor and
+       Industries (BOLI) in OAR Chapter 839 Division 007.
+
+       Accrual of Paid Sick Leave Hours
+       All employees of Malheur County will earn sick leave at a rate of not less than
+       one (1) hour for every 30 actual hours worked. Sick leave benefits may be
+       accumulated for an unlimited amount of hours (no cap). Full time employees
+       accrue sick leave based on either a 37.5 or 40 hour workweek as follows:
+
+       37.5 hour workweek                    7.5 hours of sick leave a month
+       40 hour workweek                      8 hours of sick leave a month
+
+       Employees regularly working less than 40 hours a week shall accrue sick leave on
+       a pro-rated basis. Such pro-ration shall be in direct proportion to the percentage
+       of actual hours worked less than 40 hours in a workweek.
+
+       Sick leave will accrue immediately upon hire. All employees, including new
+       employees, may use sick leave as it is accrued. There is no waiting period before
+       new employees my use their accrued sick leave hours.
+
+       Sick leave will not accrue during any period under which the employee is not
+       actively employed. “Actively employed” means the employee has worked or is
+       on paid leave status fourteen days or more during the calendar month.
+
+         Sick Leave Policy
+
+                                                                                                           Tle
+303-       SICK LEAVE con’t
+
+Permissible Use of Accumulated Sick Leave Hours.
+
+A. Definitions. This policy incorporates, by reference, the definitions set out in
+OAR 839-007-0000 and Oregon’s Family Leave Act (OFLA), as amended from
+time to time, which at the time of adoption of this policy includes but not limited
+to:
+
+           (1) “Family member” means an employee’s spouse, domestic partner,
+           custodial parent, non-custodial parent, adoptive parent, foster parent,
+           biological parent, stepparent, parent-in-law, a parent of an employee’s
+           domestic partner, an employee’s grandparent or grandchild, or a person
+           with whom the employee is or was in a relationship of in loco parentis.
+           “Family member” also includes the biological, adopted, foster child or
+           stepchild of an employee or the child of any employee’s domestic
+           partner.   An employee’s child in any of these categories may be either a
+           minor or an adult at the time qualifying leave.       Family member under this
+           policy also includes brother and sister but does not include cousins, aunts
+           and uncles, unless in loco parentis relationships.
+
+           (2) “Serious health condition” is defined in OAR 839-009-0210(20).
+
+           (3) “Spouse” includes:
+
+           (a) Individuals in a marriage recognized under state law in the state in
+           which the marriage was entered into;
+
+           (b) Individuals in a marriage validly performed in a foreign jurisdiction;
+
+           (c) Individuals in a common law marriage that was entered into in a state
+           that recognizes such marriages; and
+
+           (d) Individuals who have lawfully established a civil union, domestic
+           partnership or similar relationship under the laws of any state. Individuals
+           described in this subsection are not required to obtain a marriage license,
+           establish a record of marriage or solemnize their relationship.
+
+      Sick Leave Policy               2015-4390
+                                      MALHEUR COUNTY, OREGON
+                                                                Page 2 of 7
+                                                                                            11
+303-   SICL LEAVE       con’t
+
+       Employees may use accumulated sick leave for the following reasons:
+
+       (1) For an employee’s mental or physical illness, injury or health
+       condition; need for medical diagnosis, care or treatment of mental or
+       physical illness, injury or health condition; or need for preventive medical
+       care.
+
+       (2) For care of a family member with a mental or physical illness, injury
+       or health condition; care of a family member who needs medical
+       diagnosis, care or treatment of a mental or physical illness, injury or health
+       condition; or care of a family member who needs preventative medical
+       care.
+
+       (3) For the following purposes specified in ORS 659A.159 (OFLA):
+
+       (a) To care for an infant or newly adopted child under 18 years of age, or
+       for a newly placed foster child under 18 years of age, or for an adopted or
+       foster child older than 18 years of age if the child is incapable of self-care
+       because of a mental or physical disability. Leave under this subsection
+       must be completed within 12 months after birth or placement of the child,
+       and an eligible employee is not entitled to any period of leave under this
+       subsection after the expiration of 12 months after birth or placement of the
+       child.
+
+       (b) To care for a family member with a serious health condition.
+
+       (c) To recover from or seek treatment for a serious health condition of
+       the employee that renders the employee unable to perform at least one of
+       the essential functions of the employee’s regular position.
+
+       (d) To care for a child of the employee who is suffering from illness,
+       injury or condition that is a not a serious health condition, but that requires
+       home care.
+
+  Sick Leave Policy
+                                2015-4390                Page 3 of 7
+                                MALHEUR COUNTY, OREGON
+
+                                                                                         1%
+303-   SICK LEAVE      con’t
+
+       (e) To deal with the death of a family member within 60 days of the date
+       on which the eligible employee receives notice of the death of a family
+       member by:
+
+       (A) Attending the funeral or alternative to a funeral of the family
+       member;
+
+       (B) Making arrangements necessitated by the death of the family
+       member; or
+
+       (C) Grieving the death of the family member.
+
+       (D) Use of sick leave under this subsection is subject to the limits in
+       Malheur County Policy 307 Bereavement Leave.
+
+       4. For the following purposes specified in ORS 659A.272 and consistent
+       with Malheur County Policy 322 Domestic Violence Leave:
+
+       (a) To seek legal or law enforcement assistance or remedies to ensure the
+       health and safety of the employee or employee’s minor child or dependent,
+       including preparing for and participating in protective order proceedings
+       or other civil or criminal legal proceedings related to domestic violence,
+       harassment, sexual assault or stalking.
+
+       (b) To seek medical treatment for or to recover from injuries caused by
+       domestic violence or sexual assault to or harassment or stalking of the
+       employee or the employee’s minor child or dependent.
+
+       (c) To obtain, or to assist a minor child or dependent in obtaining,
+       counseling from a licensed mental health professional related to an
+       experience of domestic violence, harassment, sexual assault or stalking.
+
+       (d) To obtain services from a victim services provider for the employee or
+       the employee’s minor child or dependent.
+
+       (e) To relocate or take steps to secure an existing home to ensure the
+       health and safety of the eligible employee or the employee’s minor child
+       or dependent.
+
+  Sick Leave Policy
+                                 2015-4390                 Page4 of 7
+                                  MALHEUR COUNTY, OREGON
+
+                                                                                  4
+303-       SICK LEAVE con’t
+
+           5. In the event of a public health emergency, including but not limited to:
+
+           (a) Closure of the employee’s place of business, or the school or place of
+           care of the employee’s child, by order of a public official due to a public
+           health emergency (does not include closures for teacher planning days or
+           snow days);
+
+           (b) A determination by a lawful public health authority or by a health care
+           provider that the presence of the employee or the family member of the
+           employee in the community would jeopardize the health of others, such
+           that the employee must provide self care or care for the family member; or
+
+           (c) The exclusion of the employee from the workplace under any law or
+           rule that requires Malheur County to exclude the employee form the
+           workplace for health reasons.
+
+c.         Sick leave is not to be used as a supplement to vacation.
+
+Dz.        Accrued sick leave may not be donated to another employee. .
+
+E.         Employees shall use accrued sick leave in % hourly increments, .25, .50,
+           7S orl.
+
+F,         Employees on paid sick leave are paid his/her regular rate of pay.
+
+Employee’s Notice to Supervisor of Sick Leave
+Prior to a work shift (advance notice when leave is foreseeable) and as soon as
+practicable (when leave is unforeseeable), the employee shall notify his/her
+supervisor of the nature of sick leave absence and the expected length of absence.
+When an employee uses sick leave for a foreseeable absence, the employee shall
+make a reasonable effort to schedule the leave in a manner that does not unduly
+disrupt the operations of Malheur County and his/her office. Particular sick leave
+requests forms may be utilized by supervisors and completed by employees to
+schedule or track leave of absences, including sick leave absences. The
+employee shall inform his/her supervisor of any change in the duration of the sick
+leave time as soon as practicable. A supervisor may deny sick leave if the
+employee fails to provide notice as required or if the employee fails to make a
+reasonable effort to scheduled leave in a manner that does not unduly disrupt the
+operations of Malheur County. In all cases, whether and when an employee can
+practicably provide notice depends upon the individual facts and circumstances of
+the situation.
+
+      Sick Leave Policy           2015-4390                Page 5 of 7
+                                  MALHEUR COUNTY, OREGON
+303-    SICK LEAVE con’t
+
+Employer Request for Medical Verification; Domestic Violence Certification
+In some circumstances if an employee uses sick leave for more than three (3)
+consecutive scheduled workdays or the need for sick leave is foreseeable and
+projected to last more than 3 consecutive workdays, Malheur County may require
+the employee to provide verification from a health care provider (i.e. physician,
+dentist, psychologist, optometrist, naturopath, registered nurse, nurse practitioner,
+midwife, social worker, chiropractic physician) of the need for the sick time, or
+certification (from attorney, law enforcement officer, health care professional,
+licensed mental health professional or counselor, member of clergy, victim
+services provider) of the need for leave relating to domestic violence, sexual
+assault, harassment or stalking. Medical verification shall be provided within 15
+calendar days after Malheur County requests the verification. Certifications shall
+be provided to Malheur County within a reasonable time after employee receives
+the request for certification.
+
+Malheur County will pay any reasonable costs for providing any medical
+verification or certification required, including lost wages, that are not paid under
+a health benefit plan in which employee is enrolled.
+
+If verification or certification is not provided sick leave may not commence or
+employee will not be paid for the use of sick time.
+
+If Malheur County suspects that employee is abusing sick leave, including
+engaging in a pattern of abuse, Malheur County may require verification from a
+health care provider of the need of the employee to use sick leave, regardless of
+whether the employee has used sick leave for more than three consecutive days.
+Pattern of abuse includes, but is not limited to, repeated use of unscheduled sick
+time on or adjacent to weekends, holidays, vacation days or paydays.
+
+Notice of County’s Paid Sick Leave Policy
+An employee’s amount of accrued, used and unused sick leave will be included
+with the employee’s monthly paycheck (paystub). Notice of Oregon Laws
+Chapter 537, (2015, BOLI rules in OAR 839-007-0000 through 839-007-0120
+and this policy will be incorporated in the Malheur County employee handbook
+and made available to all employees. Notice/posters provided by BOLI will be
+posted in conspicuous and accessible locations in each workplace (i.e.
+breakrooms),
+
+  Sick Leave Policy              2015-4390                Page 6 of 7
+                                 MALHEUR COUNTY, OREGON
+
+                                                                                        I
+303-   SICK LEAVE con’t
+
+Accrued Unused Sick Leave
+Accrued unused sick leave is not payable on termination of employment with
+Malheur County for any reason. However, depending on what retirement option
+an employee selects, upon retirement accumulated but unused sick leave may be
+used in computing retirement benefits as determined under the Public Employees
+Retirement System (PERS). Except for PERS retirees, accrued unused sick leave
+will be restored to employees who are rehired within 180 days.
+
+Approved:      January 1, 2003
+Revised:       December 16, 2015
+
+  Sick Leave Policy
+                                 2015-4390                Eager et
+                                 MALHEUR COUNTY, OREGON
+
+                                                                             B82
+                                 serps WH =                                      FAULLED
+304- FAMILY MEDICAL LEAVE                                                          FEB 2.52059
+                                                                           DEBORAH R. DELONG County Clerk
+
+                        FEDERAL FAMILY AND MEDICAL LEAVE/                            uf              sas
+                            STATE FAMILY MEDICAL LEAVE
+
+I.      EFFECTIVE DATE AND PURPOSE
+
+The Family and Medical Leave Act (FMLA) generally took effect as federal law August 5,
+1993.   The Oregon Family Leave Act (OFLA) became effective as state law September 9,
+1995.    Under these laws, Malheur County provides leave for family and medical reasons.
+In addition, pregnancy and parental leave are provided in conformance with Oregon law
+ORS 659.029, the Federal Pregnancy Discrimination Act (PDA) and Amendment to Title
+VII of the Civil Rights Act of 1964. The purpose of the these laws is to secure the rights of
+employees to respond to their own health needs and those of their family members without
+being penalized for taking such leave and to guarantee reinstatement to the employee’s
+former or equivalent position.
+
+II.     COVERAGE
+
+Federal law covers public agencies, including counties. In order for county employees to be
+eligible, however, they must be employed at a work site with 50 or more employees within
+75 miles of the employee's work site for each working day during each of the 20 or more
+calendar work weeks in the year in which the leave is taken or in the preceding calendar
+year. State law covers counties that employ 25 or more part-time or full-time employees for
+each working day during 20 or more calendar work weeks in the year in which the leave is
+to be taken or in the preceding calendar year.
+
+Il,     ELIGIBILITY
+
+Federal law applies to employees who have worked for Malheur County for at least 12
+months and for at least 1250 hours during the year preceding the start of the leave. State law
+generally applies to employees who work an average of 25 hours or more per week for the
+County during the 180 days or more immediately prior to the first day of the start of the
+requested leave.     For parental leave purposes, an employee becomes eligible upon
+completing at least 180 days immediately preceding the date on which the parental leave
+begins. There is no minimum average number of hours worked per week when determining
+employee eligibility for parental leave.
+
+                                                                                            3
+                                                                   INSTRUMENT NO. 2009 ~ | (4
+                                                                    Page.ca_of_[|_Pages
+
+IV.       DEFINITIONS
+
+Child - under federal and state law, means a biological, adopted or foster child, a stepchild
+or a child of a person standing "in loco parentis" or in place of the parent, financially
+supporting and having day-to-day responsibility for the care of the child. The child must be
+under 18 years of age or may be 18 years of age or older if incapable of self-care due to a
+mental or physical disability.
+
+Family Member — under state law family member includes a same sex domestic partner,
+parent of a same sex domestic partner, child of same sex domestic partner, parent-in-law,
+grandparents and grandchildren.
+
+Parent - under federal and state law means, a biological parent or a person who stands or
+stood "in loco parentis" to the employee when the employee was a child.
+
+Spouse - Federal law allows the term "spouse" to be defined in accordance with each state's
+law. Oregon law does not currently define the term.
+
+Serious Health Condition —
+
+Examples of serious health condition include but are not limited to: heart attacks and
+conditions requiring surgery (e.g. bypass or valve operations); back conditions requiring
+extensive therapy or surgery; strokes; severe nervous disorders (mental/emotional/stress);
+severe respiratory conditions; pregnancy, severe morning sickness, prenatal care, childbirth
+and   recovery   from   childbirth;    appendicitis,     pneumonia;     severe   arthritis;   treatment   for
+substance abuse (not absence because of use of substance).
+
+Health conditions not considered serious (unless complications arise) include, but are not
+limited   to: short term   illnesses    (common        cold,   flu, ear aches,   upset    stomach,   ulcers,
+headaches other than migraines), routine dental or orthodontia problems, cosmetic treatment
+or routine physical exams.
+
+The following table lists definitions of serious health condition under the Family and
+Medical Leave Act and the Oregon Family Medical Leave Act:
+
+                                                                                                            BY
+                                                         INSTRUMENT yo. 2009 — | [lo
+                                                          Page.        of.         Pages
+
+Oregon Family Leave (OFLA)                       Family and Medical Leave Act (FMLA)
+¢ Illness, injury, impairment, or physical or    ¢ Illness, injury, impairment, or physical or
+mental condition that requires inpatient care    mental condition involving incapacity or
+in a hospital, hospice, or residential medical   treatment connected with inpatient care in a
+care facility; or                                hospital, hospice, or residential medical care
+¢   Illness, disease, or condition that in the   facility; or
+medical judgment of the treating health care     ¢ Continuing          treatment        by    a health     care
+provider poses an imminent danger of death,      provider involving a period of incapacity:
+is terminal in prognosis with a reasonable            (1) requiring absence of more that three
+possibility of death in the near future; or      (3)   consecutive           calendar      days   from    work
+* requires constant care or continuing care      which involves (a) treatment two or more
+such as home care administered by a health       times from a health care provider, a nurse or
+care professional; or                            physician under the supervision of a health
+¢ A period of incapacity where the employee      care provider, or under orders of or referral
+is unable to perform an essential job function   by health care provider or (b) treatment by a
+and any subsequent treatment of recovery         health care provider on a least one occasion
+period. The incapacity must involve (1) two      which results in a regimen of treatment
+or more treatments by a health care provider     under the supervision of the health care
+or (2) one treatment     plus   a regimen   of   provider; or
+continuing care; of                                    (2) due    to         a   chronic     serious     health
+*A period of incapacity or treatment for a                 condition; or
+chronic serious health condition that requires         (3) requiring   absences   to    receive
+periodic visits for treatment from a health                multiple    treatments    (including
+provider, continues over an extended period                recovery periods) for restorative
+of time, and may cause episodic rather than a              surgery or a condition that if left
+continuing period of incapacity; or                        untreated would likely result in
+* Involves permanent or long term incapacity               incapacity for more than three (3)
+due to a condition for which treatment may                 days; or
+not be effective; or                                   (4) due to pregnancy or for prenatal
+‘Involves multiple treatments for restorative              care; or
+surgery or for a condition such as                     (5) which is permanent or long-term due
+chemotherapy for cancer, physical therapy                  to a condition for which treatment
+for arthritis, or dialysis for kidney disease              may not be effective
+that if not treated would likely result in
+incapacity or more than three days; or
+*Any period of disability due to pregnancy
+or childbirth or period of absence for
+prenatal care.
+
+                                                                                                                  @5
+                                                             INSTRUMENT NO, 2009 —1 [ Lo Y
+                                                             Page_=1   of,   Pages
+V.      PURPOSE OF LEAVE
+
+Federal and state laws allow employees to take leave for the following purposes:
+
+        1.         Birth of the employee's child (eligibility expires 12 months after the
+                   birth);
+
+        2          Placement of a child in the employee’s home for adoption or foster
+                   care when the child is under age 18 or older than age 18 if incapable
+                   of self-care (eligibility expires 12 months after placement);
+
+       3.          Care of a spouse, child or parents with a serious health condition.
+                   For the serious health condition of a child, federal law restricts the
+                   leave for children under the age of 18 years of age or children of any
+                   age who are disabled. State law does not have this restriction for a
+                   child with a serious health condition, but it does apply for “sick child
+                   leave”.
+
+        4.         Employee's own serious health condition.
+
+In addition, state law allows employees to take leave to care for a parent-in-law, same sex
+domestic partner, grandparent or grandchild with a serious health condition and for the care
+of a sick or injured child who requires home care but is not suffering from a serious health
+condition (“sick-child leave’).
+
+VI.     FMLA EXPANDED FOR MILITARY FAMILIES
+
+In 2009 leave under the FMLA was expanded in two areas for employees who have a family
+member in the Armed Forces.
+
+1.          Caregiver Leave For an Injured Service Member
+
+An eligible employee who is the spouse, son, daughter, parent, or next of kin (defined as the
+closest blood relative) of a covered service member shall be entitled to a total of twenty-six
+(26) workweeks of leave during a 12-month period to care for the service member. A
+covered service member is a member of the Armed               Forces, including   a member of the
+National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy,
+is otherwise in outpatient status, or is otherwise on the temporary disability list, for a serious
+injury or illness that occurred while on active duty.
+                                                            instauyentNo, 2009 ~{ [loY
+                                                            Page.>-of,       Pages
+
+Ds      Family Leave to Call to Active Duty
+
+An eligible employee may use up to twelve (12) weeks of FMLA leave any qualifying
+exigency (pressing or urgent matter) as defined by the Department of Labor arising from a
+spouse, son, daughter, or parent who is either on active duty in the Armed Forces, or who
+has been notified of an impending call or order to active duty in the Armed Forces. FMLA
+leave for a qualifying exigency is not in addition to the standard FMLA 12-week
+entitlement.
+
+Vil.    LENGTH OF LEAVE
+
+Duration of leave for FMLA and OFLA:
+
+°       Employees are permitted to take a total of twelve (12) weeks of leave in a 12-month
+        period for any qualifying event. In most cases, FMLA leave and OFLA leave will
+        run concurrently. Employees using qualified OFLA leave for circumstances not
+        covered by FMLA may take additional protected leave from FMLA-qualifying
+        conditions
+°       Leave for the birth of the employee’s child, or the placement of a child for adoption
+        or foster care with the employee (parental leave) must be taken within 12 months of
+        the birth or adoption. Parental leave must be taken in one continuous block and may
+        not be taken intermittently.
+°       Two family members that are both employees of Malheur County may take FMLA
+        concurrently only under the following circumstances:
+
+        a.     under FMLA for parental leave or leave to care for an employee’s parent with a
+               serious health   condition,   but not limited to a combined    total of 12 weeks
+               between the eligible employees in either circumstance, or
+        b.     under OFLA where one employee needs to care for the other employee who is
+               suffering from a serious health condition; or
+        c.     under OFLA where both employees are suffering from a serious health
+               condition, or
+        d.     under OFLA where one employee needs to care for a child who has a serious
+               health condition while the other employee is also suffering a serious health
+               condition, or
+        e.     under certain circumstances, subject to business needs, and subject to review and
+               approval by each employee’s supervisor and in coordination with the Personnel
+               Officer and Malheur County Court.
+                                                          INSTRUMENT No. 2009 —[ | lo
+                                                          Page.    ofL(_ Pages
+
+Additional Leave Under OFLA:
+
+In addition to the 12 work weeks of leave authorized above, under state law a female
+employee may take an additional 12 work weeks of leave within any one-year period for an
+illness, injury or condition related to pregnancy or childbirth that disables the employee
+from performing her work duties. This means a female employee may take up to 24 weeks
+for pregnancy disability (but she does not then get an additional 12 weeks for parental or
+sick child leave). This period of pregnancy related disability includes any period of time
+prior to childbirth in which the employee’s health care provider certifies the employee can
+not work and continue after childbirth until the health care provider certified the employee is
+no longer disabled. However, a woman may choose to designate the leave following
+childbirth as parental leave instead of pregnancy disability.
+
+An employee who takes 12 weeks of parental leave may also take up to an additional 12
+weeks of sick child leave in the same leave year. A parent is allowed 12 weeks of “sick-
+child leave” only if the full 12 weeks of parental leave are exhausted. Ifthe employee takes
+less than 12 work weeks of parental leave, the employee is entitled to the balance of the 12
+weeks for any other family leave purpose except that the leave taken for parental leave shall
+not reduce the leave available for sick child leave. Sick child leave need not be provided if
+another family member is available to care for the child.
+
+Additional Information Regarding Pregnancy and Childbirth
+
+Federal and State laws provide the following rights:
+
+« Prohibitions against terminating or refusing to hire or promote a woman solely because
+she is pregnant.
+« Bars mandatory leave for pregnant women arbitrarily set at a certain time in their
+pregnancy and not related to their ability to work. A female employee must be permitted to
+work during pregnancy so long as she is able to perform available job duties.
+« Requires employers to grant leaves to employees for disability related to pregnancy,
+childbirth and related complications as well as non-medical “parental leaves” under the
+same policies as for other related leaves.
+* Requires that an employer make reasonable accommodations to allow a pregnant
+employee to transfer to a less or strenuous or hazardous position for the duration of her
+pregnancy or grant leave of absence while the employee is disabled from performing any
+available  job duties offered by the employer.
+« Requires employers to reinstate an employee returning from pregnancy related disability
+leave on the same basis as other employees returning from sick or disability leave.
+                                                          INSTRUMENT No. 2009 — I I lo Y
+                                                                L/ of
+                                                          Page__2_ Pages
+
+VII.     CALCULATING THE 12 MONTH PERIOD FOR LEAVE
+
+The County will use the same method for calculating the 12-month period in which the 12
+work week FMLA and OFLA leave entitlement occurs for all employees. The County will
+use the 12-month period measure forward from the date the employee's leave begins.
+
+IX.      PAID AND UNPAID LEAVE
+
+Family leave under federal and state law is generally unpaid. The County requires the
+employee to use any accrued sick leave, vacation, personal or comp time before taking
+FMLA and/or OFLA leave without pay for the leave period. The employee may select the
+order in which the paid leave is used.
+
+The County will notify the employee that the requested leave has been designated as FMLA
+and/OFLA and, if required by the County, accrued leave shall be used during the leave
+period. Such notification will be given to the employee prior to the commencement of the
+leave or within two working days of the employee's notice of an unanticipated or emergency
+leave.
+
+When the County does not have sufficient information to make a determination of whether
+the leave qualifies as FMLA or OFLA leave, the County will provide the required notice
+when the information is available but not later than two working days after the County has
+received the information. Oral notices will be confirmed in writing no later than the
+following payday. If the payday is less than one week after the oral notice is given, written
+notice will be provided no later than the subsequent payday.
+
+X.       CONTINUATION OF HEALTH INSURANCE BENEFITS
+
+Under federal law, group health insurance benefits and premium payments must be
+continued on the same basis as coverage would have been provided and premiums paid if
+the employee had been continuously employed during the leave period. The County will
+continue to pay the County's contribution toward the employee's premiums. The employee
+will continue to pay the employee's share of premiums. A 30-day grace period will be
+allowed for receipt of the employee's share of premiums. The County's obligation to
+maintain the employee's benefits will cease if the employee's contribution is more than 30
+days late. The County will provide written notice that the premium is more than 30 calendar
+days late. Such notice will be provided within 15 calendar days before coverage is to cease.
+
+Under state law, County paid benefits are not required to continue and must be paid by the
+employee if the employee is on unpaid status.
+
+                                                                                           on
+                                                          INSTRUMENT NO, 2009 ~ [ | lo
+                                                          Pages. of_£L_Pages
+
+The Oregon Public Employee’s Retirement System (PERS) requires employees to be in a
+paid status for fifty (50) hours per month to receive creditable service for that month.
+Service credit is not granted for months in which an employee is on a leave without pay.
+Time spent on leave without pay also is not included in the service time used to determine
+eligibility for unreduced early retirement benefits. (Refer to PERS handbook or contact
+PERS for more information).
+
+In the event the County is required to pay or elects to pay any part of the costs of providing
+health or other insurance coverage for an employee during the period of FMLA or OFLA
+leave that should have been paid by the employee, the County may deduct, on the
+employee's return to work such amounts from the employee's pay as have been advanced.
+In no event may the total amount deducted exceed ten percent of the employee's gross pay
+each pay period.
+
+An employee is not entitled to the accrual of any seniority or employment benefits that
+would have accrued if not for the taking of the leave. An employee who takes family or
+medical leave will not lose any seniority or employment benefits that accrued before the
+date the leave began.
+
+XI.    RESTORATION TO EMPLOYMENT
+
+After leave, granted under federal and state law, an employee is generally entitled to be
+returned to the same position that the employee held when leave commenced or to an
+equivalent position with equivalent benefits, pay and other terms and conditions of
+employment unless otherwise excepted by law. The Malheur County Administrator will
+make a determination as to whether a position is an “equivalent position”.
+
+If the leave was required for the employee's own serious health condition, the County may
+require the employee to obtain and present certification from the health care provider that
+the employee is able to resume work.
+
+XII.    APPLICATION
+
+Under federal law, an employee requesting FMLA and/or OFLA leave shall provide at least
+30 days notice prior to the leave date if the leave is foreseeable. The notice shall be written
+and include the anticipated start, duration and reasons for the requested leave. The
+employee must make a reasonable effort to schedule treatment, including intermittent leave
+and reduced leave, so as not to unduly disrupt the operations of the County. An application
+form can be obtained in the County Administrative Office.
+
+If advance notice is not possible, for example due to change in circumstances or medical
+emergency, an employee eligible for FMLA leave must provide notice as soon as
+practicable. "As soon as practicable" under federal law means at least oral notification
+within one or two business days of when the need for leave becomes known to the
+employee.
+
+                                                                                              qo
+                                                       INSTRUMENT yo. 2009 —1 1GY
+                                                       Page_—Z.   of.   Pages
+
+An employee eligible for OFLA leave is required, under state law, to provide oral or written
+notice within 24 hours in unanticipated or emergency leave situations. The employee may
+designate a family member or friend to notify the County during that period of time.
+
+In either case, proper documentation must be submitted no later than three working days
+following the employee's return to work.
+
+Failure of an employee to provide the required notice for FMLA leave may result in the
+County delaying the employee's leave for up to 30 days after the notice is ultimately given.
+
+Failure of an employee to provide the required notice for OFLA leave under state law may
+result in the County deducting up to three weeks from the employee's leave period.
+
+XIII. MEDICAL CERTIFICATION
+
+If the employee provides 30 or more days notice when applying for FMLA and/or OFLA
+leave, employees may be required to provide medical documentation when appropriate to
+support the request for leave. The County will provide written notification to employees of
+this requirement within three working days of employee's request for leave. Ifthe employee
+provides less than 30 days notice, the employee is required to submit such medical
+certification no later than 15 calendar days after receipt of the County's notification that
+medical certification is required.
+
+Under federal law, a second medical opinion may be required whenever the County has
+reason to doubt the validity of the initial medical opinion. The County may select the health
+care provider.   The provider shall not be employed by the County on a regular basis.   Should
+the first and second medical certification differ, a third opinion may be required. The
+County and the employee will mutually agree on the selection of the health care provider for
+a third medical certification. The third opinion will be final. Second and third opinions and
+the actual travel expenses for an employee to obtain such opinions will be paid for by the
+County.
+
+Under state law, the County may require a second opinion and designate the health care
+provider. The County may not employ the provider. Should the two opinions conflict, the
+County may require a third opinion and that the two providers designate the third health care
+provider. The third opinion will be final. Second and third opinions and the actual travel
+expenses for the employee to obtain such opinions will be paid for by the County.
+
+If the leave is for the purpose of an employee's own serious health condition, he/she must
+also provide a fitness for duty medical release from the health care provider before returning
+to work.
+
+                                                                                                 Ol
+                                                          INSTRUMENT, NO. 2009 ~ (164
+                                                          Page     of.   Pages
+
+The County may require an employee who is using OFLA leave to care for a sick child to
+provide medical certification after the use of more than three days of such leave in a one-
+year period. The County will pay the cost of the medical certification not covered by
+insurance or other benefit plan.
+
+XIV.    NOTIFICATION
+
+Any notice required by federal and state law explaining employee rights and responsibilities
+will be posted in the break room of the Malheur County Courthouse.               Additional
+information may be obtained by contacting the County Administrative Office.
+
+XV.     RETURN FROM LEAVE
+
+An employee must indicate on his/her application when the employee will return to work. If
+the employee wishes to return to work prior to the expiration of a family or medical leave
+absence, notification must be given to the employee's supervisor and Personnel Officer or
+County Administrator at least two (2) working days prior to employee's planned return.
+
+XVI. FAILURE TO RETURN FROM LEAVE
+
+The failure of an employee to return to work upon the expiration of a family or medical
+leave of absence will subject the employee to immediate termination unless an extension is
+granted. An employee who requests an extension of family or medical leave must submit a
+request for extension in writing to the Personnel Officer or County Administrator. This
+written request should be made as soon as the employee realizes that he or she will not be
+able to return at the expiration of the leave period.
+
+XVII.   RECORDKEEPING/POSTED NOTICE
+
+The County will maintain all records as required by federal and state laws including dates
+leave is taken by employees; identified separately from other leave; hours/days of leave,
+copies of general and specific notices to employees; premium payments of employee health
+benefits while on leave and records of any disputes with employees regarding granting of
+leave.
+
+Medical documentation will be maintained separately from personnel files as confidential
+medical records.
+
+                                                                                         92.
+                                                            INSTRUMENT. NO, 2009 ~{ (lo
+                                                            Page_{{_ofL.l_ Pages
+XVIII.     FEDERAL    VS. STATE    LAW
+
+Both federal and state laws contain provisions regarding leave for family illness. Federal
+regulations state an employer must comply with both laws; that the federal law does not
+supersede any provision of state law that provides greater family leave rights than those
+established pursuant to federal law and state and federal leave entitlement run concurrently.
+State law requires that federal and state leave run concurrently when possible. For example,
+due to differences in regulations, an employee who takes leave after 180 days of
+employment but before one year, is still eligible to take a full 12 work weeks of federal
+leave after meeting the one year work requirement.   After the first work year, leave will run
+concurrently. Generally, employees will be deemed to be using leave pursuant to state law
+except in such cases where federal law provides greater benefits.
+
+Approved: January 1995
+Revised:    March 1, 2007; January 2, 2008; February 25, 2009
+
+                                                                                            1
+                                                                  MALHEURCOUNTY,OR                         2015-3325
+                                                                  MRCOUNTY COURT 99/99/2016 02:55 PM
+                                                                  Cnt=1 Pgs=2                                    Total:$0.00
+
+                                                                     | 00032116201500033250020022
+                                                                   1, DeborahR. DeLong, County Clerk for Malheur
+                                                                   County, Oregon certify that the instrument identified
+                                                                   herein was recorded in the Clerk records.
+                                                                           Deborah R. DeLong - County Clerk
+
+305-   UNPAID SICK LEAVE / NON-FMLA/OFLA MEDICAL LEAVE
+
+UNPAID SICK LEAVE
+
+A.     General.
+
+Upon application by the employee, the County may grant sick leave without pay for a remaining
+period of temporary short-term disability after accrued sick leave has been exhausted. The
+County will require that the employee submit a certificate from a physician periodically during
+the period of such disability. Unless approved by the County, an employee shall not accept
+employment outside the service of the County while on sick leave, whether paid or unpaid.
+
+B.     Policy.
+
+1.     Employees who do not meet the eligibility of family and medical leave or have exhausted
+       their family and medical leave may request non-FMLA/OFLA medical leave. This leave
+       is available when the employee or employee’s family member has a serious health
+       condition. Such leave may only be granted once in a 12 month period. In some
+       circumstances, non-FMLA/OFLA medical leave may be available to employees as a
+       reasonable accommodation under the American with Disabilities Act.
+
+2.     To request leave, the employee must submit a statement from a health care provider
+       explaining the reason and duration of the requested leave. The statement must be
+       submitted to employee’s supervisor within five (5) working days of employee needing
+       non-FMLA/OFLA leave. If the leave is granted, periodic updates from the health care
+       provider as well as the status of employee’s intent to return to work will be required.
+
+3.     Accrued sick, vacation and personal leave must be used. Once paid leave is exhausted,
+       the remainder of the leave is unpaid.
+
+4,     Employees who are on paid leave will remain on the county’s group health benefit plans.
+       Employee must have at least 14 paid work days in a calendar month in order for the
+       County to pay its portion of the monthly premiums. Once an employee commences
+       unpaid leave, he/she will be required to pay the full premium directly to the County by
+       the 20" of the month. Failure to pay will result in the employee’s coverage being
+       terminated. If the coverage ends while the employee is on unpaid leave and the employee
+       returns to work within or at the end of 90 days, coverage will be reinstated the first of the
+       month following his/her return. Employees on non-FMLA leave without pay can
+       continue the employer-paid life plan for up to 30 days. Coverage will terminate the end
+       of the month following 30 days.
+
+                                                                                                                               Wf
+305-   UNPAID SICK LEAVE/NON-FMLA/OFLA MEDICAL LEAVE con’t
+
+Ss,    If leave is granted at the discretion of the employee’s supervisor, the amount of leave
+       cannot exceed 90 days. Typically, leave under this policy is not a job protected absence.
+       Leave does not guarantee employee’s return to the same position or reinstatement to any
+       position. The employee’s supervisor may, however, agree in writing to hold employee’s
+       position for a specified time determined by the supervisor.
+
+6.     If leave is denied and the employee decides not to report to work, employment ends as a
+       voluntary termination effective the last day worked by the employee.
+
+1.     In order to return to work following leave, the employee must be cleared to work by
+       County and submit documentation from his/her health care provider. The decision to
+       clear an employee to return to work rests with the employee’s supervisor and is based on
+       the essential functions of employee’s job, the nature of the medical condition or
+       procedure involved and any other reliable and objective information received by
+       employee’s supervisor. Documentation to return to work from the health care provider
+       must be detailed and not simply a statement that the employee may return to work. There
+       must be sufficient information in the documentation for the supervisor to make a
+       determination that the employee can perform the essential functions of his/her job, and
+       do so without posing a significant risk of substantial harm to oneself or others. The
+       documentation must also note whether there are any medical restrictions or limitations on
+       the employee’s ability to perform his/her job, and any symptoms that could create a job
+       hazard for the employee or other employees.
+
+8.     If it is unclear to County whether an employee can return to work and perform the
+       essential functions of his/her job, or whether he/she poses a direct threat to the health or
+       safety of himself/herself to others, the supervisor may require the employee to undergo a
+       fitness-for-duty-examination paid for by the County.
+
+Approved:     January 1, 2003
+Amended:      September 2, 2015                       2015-3325                Page 2 of 2
+                                                      MALHEUR COUNTY, OREGON
+
+                                                                                                5
+306-   UNPAID LEAVE OF ABSENCE
+
+Leaves of absence without pay not to exceed 90 calendar days may be granted at the
+discretion of the Department Head or County Court. Normally, such leave will not be
+approved for an employee for the purpose of accepting employment outside the service of
+the County. Such leaves may be renewed or extended upon request and at the discretion
+of the County.
+
+Approved:     January 1, 2003
+Revised:
+
+                                                                                      W
+                                                                         MALHEUR COUNTY,OR
+                                                                         MRCOUNTY COURT                             2017-2087
+                                                                         DOCUMENT                      08/24/2017 11:18 AM
+
+                                                                        HL
+                                                                         Cnt=1 Pgs=3
+                                                                                                                   ‘al:$0.00
+
+                                                                                                       00020870030034
+                                                                        1, DeborahR   DeLong,   County Clerk for Malheur
+
+                                                                        herein was recorded in the
+                                                                                                   Clerk records.
+                                                                               Deborah R. DeLong - County
+                                                                                                          Clerk            nf
+
+307-   BEREAVEMENT LEAVE
+
+Employees working a forty (40) hour workweek shall be eligible for sixteen (16) hours of paid
+bereavement leave and employees working a thirty-seven and one-half (37.5) hour workweek
+shall be eligible for fifteen (15) hours of paid bereavement leave per calendar year, prorated for
+part-time employees, to discharge the customary obligations arising from the death of the
+employee’s family member. The County may request documentation. For purposes of this paid
+bereavement leave, “family member” shall be defined the same as in Malheur County Policy 303
+Sick Leave and also include the employee’s aunt, uncle, niece and nephew. (Family member is
+defined as an employee’s spouse, domestic partner, custodial parent, non-custodial parent,
+adoptive parent, foster parent, biological parent, stepparent, parent-in-law, a parent of an
+employee's domestic partner, an employee's grandparent or grandchild, or a person for whom
+the employee is or was in a relationship of in loco parentis. “Family member” also includes the
+biological, adopted, foster child or stepchild of an employee or the child of an employee's
+domestic partner. An employee's child in any of these categories may be either a minor or an
+adult at the time of bereavement leave. “Family member” also includes brother, sister, aunt,
+uncle, niece or nephew but does not include cousins unless in loco parentis relationships). Paid
+bereavement leave under this policy shall run concurrently with OFLA when applicable. The
+County shall notify the employee when OFLA is.running concurrently with bereavement leave.
+
+If additional leave is needed an employee may, with prior authorization, request the use of
+accrued sick leave, vacation leave, compensatory time off or leave without pay. Use of accrued
+sick leave is subject to the definition of family member and the requirements of Malheur County
+Policy 303 Sick Leave.
+
+BEREAVEMENT LEAVE UNDER OREGON FAMILY LEAVE ACT (OFLA)
+
+OFLA provides up to two weeks of leave to attend the funeral or alternative to a funeral of a
+family member, to make arrangements necessitated by the death of a family member, or to grieve
+the death of a family member.
+
+To be eligible for bereavement leave protected under OFLA, an employee must meet the
+following four requirements:
+
+1.     Be employed by Malheur County for a minimum of 180 days immediately prior to the
+       onset of the leave; and
+2:     Have worked a minimum of 25 hours per week for the 180 days immediately prior to the
+       onset of the leave.   These are actual hours, and do not include sick leave, vacation, etc.;
+       and
+3.     Have not exhausted all 12 weeks of OFLA protected leave within the 12 months
+       immediately prior to the onset of the leave; and
+4.     Need time off due to the death of “family member” as defined in OFLA. “Family
+       member” means the spouse, same-gender domestic partner, custodial parent, non-
+
+                                                                                                                           a7
+       custodial parent, adoptive parent, foster parent, biological parent, parent-in-law, parent
+       of same-gender domestic partner, grandparent or grandchild of the employee, or a
+       person with whom the employee is or was in relationship of in loco parentis.    It also
+       includes the biological, adopted, foster or stepchild of an employee or the child of an
+       employee ’s same-gender domestic partner.
+
+OFLA bereavement leave can be taken for the death of each family member of the employee.
+Malheur County will not require an eligible employee to take multiple leave periods concurrently
+if more than one family member of the employee dies and will allow any employees with the
+same family member to take concurrent leave.
+
+This leave shall be counted towards the total period of OFLA leave allowed (generally 12
+weeks), within a 12 month period. All leave taken for the death of a family member must be
+complete within 60 days of the date on which the employee receives notice of the death of the
+family member.
+
+If possible employees should provide their supervisors with as much advanced notice as possible.
+When advanced notice is not possible, employees must give verbal or written notice within 24
+hours after commencement of the leave. This notice may be given by any other person on behalf
+of employee taking unforeseeable OFLA bereavement leave. A supervisor may require written
+notice by the employee within three days of the employee’s return to work.
+
+OFLA provides job protections but does not provide benefit protections.    Therefore, an employee
+will need to speak with the Personnel Officer to determine if the County will pay its portion of
+the health insurance premium. Employees may use leave accruals (sick leave etc.) during
+OFLA bereavement leave. If leave accruals are not available, leave may be taken without pay.
+
+To request OFLA bereavement leave, an employee should complete the form attached and
+submit it to his or her supervisor. Once the Personnel Officer receives the request, a notice of
+eligibility determination will be mailed to the employee’s home address.
+
+Approved:        January 1, 2003; June 6, 2014
+Revised:         May 24, 2017 .
+
+                                   2017-2087                Page 2
+                                   MALHEUR COUNTY,
+                                                   OREGON      sewers
+
+                                                                                                    98
+                    OFLA BEREAVEMENT LEAVE REQUEST FORM
+
+Employees should use this form to request time off for funeral/bereavement leave under OFLA.
+This leave can be for up to two weeks of leave. An employee may use leave accruals such as
+vacation, sick, and personal during this period.
+
+Employee Name:
+
+Relationship of Family Member (Choose One):
+
+© spouse                               o foster parent                a loco parentis relationship
+0 same-gender domestic partner         O biological parent            o child of employee
+Q custodial parent                     O parent-in-law                o child of same-gender
+0 non-custodial parent                 O parent of domestic partner    domestic partner
+a adoptive parent                      © grandparent                  O other:
+                                       0 grandchild
+
+Date of Knowledge of Death:
+
+Beginning Date of Leave:
+
+Date Returning to Work:
+
+If leave will be taken on an intermittent basis, please provide schedule here:
+
+Employee’s signature           date
+
+Oo     Approved leave under OFLA.
+
+0      Not approved for leave under OFLA for the following reason:
+
+       Signed by Personnel Officer:
+
+                              2017-2087                Page 3 of 3
+                              MALHEUR COUNTY, OREGON
+                                                                                                     99
+308-   PAID VACATION BENEFITS
+
+Full time employees, who have worked for Malheur County for at least twelve
+consecutive months, are entitled to vacation benefits. Vacation must be approved in
+advance through the employee’s supervisor. Supervisors schedule vacations paying
+attention to coverage of necessary work. The number of hours of vacation earned per
+month varies by the number of years of employment as follows:
+
+                      Years 1—5:     1 day per month =
+                                     12 days per year
+
+                      Years6—10      1% days per month =
+                                     15 days per year
+
+                      Years 11-15    1% days per month =
+                                     18 days per year
+
+                      Years 16       2 days per month =
+                      and over       24 days per year
+
+       Employees, who work at half-time, but less than full-time, earn vacation on a pro-
+       rated basis. Employees who work less than half-time are not entitled to vacation
+       benefits.
+
+       Upon the employee’s death, accrued and unused vacation leave will be paid to the
+       employee’s estate.
+
+       The maximum accumulation of vacation leave of any employee is 25 workdays.
+
+       Vacation leave shall not accrue during an absence without pay.
+
+Approved:   — January 1, 2003
+Revised:
+
+                                                                                          |OoO
+309 -   DONATION OF VACATION BENEFITS
+
+        In the event an employee exhausts all their vacation, sick and other paid leaves of
+        absence and the employee has a long term health condition, injury or illness,
+        fellow employees from within the same department or office may donate hours of
+        their own accumulated vacation leave to the employee, as long as the donated
+        hours are below the maximum number of hours the employee is allowed to
+        accumulate under these policies or collective bargaining agreement. Such
+        donations must be made in writing by the donor and submitted to the Personnel
+        Officer. Donations must be approved by the Malheur County Court.
+
+        Nothing in this policy precludes Malheur County from counting the donated
+        vacation leave as leave against the donee’s annual FMLA or OFLA leave.
+
+        Donated leave will be paid at the donee’s rate of pay and not the donor’s rate of
+        pay.
+
+        A maximum of 40 hours of vacation leave per long term condition, injury or
+        illness of the employee may be donated.
+
+        Approved:      January 1, 2003
+        Revised:
+
+                                                                                            /ol
+310-        PAID HOLIDAY BENEFIT
+
+            The following days shall be paid holidays for all employee whose normal work
+            schedule requires the employee to be on duty the day before or the day after such
+            holiday, excluding weekends:
+
+                     New Year’s Day, January 1
+             oO wp
+
+                     Martin Luther King Jr.’s Birthday, third Monday in January
+       SP TOmMM
+
+                     President’s Day, third Monday in February
+                     Memorial Day, last Monday in May
+                     Independence Day, 4" of July
+                     Labor Day, first Monday in September
+                     Veteran’s Day, November 11
+                     Thanksgiving Day, fourth Thursday in November
+                     Day after Thanksgiving
+                     Christmas Day, December 25
+
+            The Malheur County Court may grant additional days. Ifthe holiday is on a
+            Sunday, the paid holiday is on the following Monday. If the holiday is ona
+            Saturday, the paid holiday is the proceeding Friday.
+
+            Approved:     — January 1, 2003
+            Revised:
+
+                                                                                           102
+                                      INSTRUMENT NO,                -
+311-       RETIREMENT                 Page_!   of!     Pages             inte
+
+A. Oregon Public Employee Retirement System (PERS)
+All qualified employees are required by Oregon law to belong to PERS, and the Federal
+Social Security Old Age, Survivors and Disability Insurance. The State and Federal
+Governments determine rates.
+
+B. Employment of Retirees
+An exemplary employee who is otherwise qualified to retire under PERS may retire, and
+at the sole discretion of the Malheur County Court, become reemployed. PERS retirees
+are limited to working a maximum of 1039 hours in a calendar year without affecting
+their retirement benefits. PERS retirees have a responsibility to assist Malheur County in
+tracking their re-employment hours in a calendar year so their employment does not
+jeopardize their retirement status.
+
+Retired employees will be rehired pursuant to an employment agreement. Reemployment
+is for a limited duration and is less than .5 FTE (1039 hours in a calendar year is .49
+FTE). Retired employees are not members of the collective bargaining units. They do not
+accrue paid holiday, vacation, sick leave or personal leave and do not receive any cost-of-
+living increases. Retirees are eligible to participate in voluntary Deferred Compensation
+Plans.     Retired employees may be eligible for employer contribution to the employee’s
+health insurance as would be provided to a full-time (1.0 FTE) employee (currently paid
+at 85% employer and 15% employee per month). However, this insurance benefit is
+subject to procedures specified by the carrier and Malheur County and may be modified,
+suspended or eliminated by Malheur County. Any such action will automatically bind
+retired employees. Insurance may also be available through PERS. Retirees should
+contact PERS in order to make fully informed decisions about their re-employment and
+benefit choices.
+
+                                                               MALHEUR COUNTY, OR                      201 0-6430
+
+                                                               DReUMeSe 10/20/2010 02:29 PM
+Approved:        January 1, 2003                                                                          Total: $0.00
+Revised:          October 20, 2010                              |                 |     |       | |                |
+
+                                                                        0000033920100006430001001
+                                                                                       0          3
+                                                               |, Deborah R. DeLong, County Clerk for Malheur County,
+                                                               Oregon certify that the Instrument Identified herein was
+                                                                recorded In the Clerk records.
+                                                                         Deborah R. DeLong - County Clerk
+
+                                                                                                                          103
+312—-   DEFERRED      COMPENSATION PLAN
+
+        Deferred compensation plans are available to all employees at their option. Plan
+        information may be obtained from the Personnel Officer.
+
+        Approved:      January 1, 2003
+        Revised:
+
+                                                                                           10H
+313 -       WORKERS’ COMPENSATION INSURANCE
+
+            All employees of Malheur County are covered by workers’ compensation insurance.
+
+            Benefit
+            When an employee is injured while performing his/her duties and qualifies for workers’
+            compensation, the employee may:
+
+            Elect to receive only workers’ compensation benefits and not use any of his/ her
+            accumulated sick leave; or
+
+            Elect to receive workers’ compensation benefits and use his/her accumulated sick leave
+            to make up the difference between the amount of the workers’ compensation benefits
+            received and his/her normal salary or hourly wage.    Accumulated sick leave may be used
+            in this manner until depleted, at which time the employee will be eligible to receive only
+            workers’ compensation benefits, if any remain available. For example, if an employee
+            normally earns $70 per day, and he/she receives $50 per day in workers’ compensation
+            benefits, he/she may elect to receive $20 per day from accumulated sick leave until
+            accumulated sick leave is depleted or workers’ compensation benefits terminate.
+
+            Volunteers
+            Employees shall request volunteers working within their offices and departments to
+            complete a volunteer form with the Personnel Officer so that they are subject to Malheur
+            County’s workers’ compensation insurance.
+
+            Claim/Report
+            Employees must file a workers’ compensation claim with the Personnel Officer within 90
+            days of a work-related injury or one year of learning that the employee has an
+            occupational disease. Failure to comply with these time frames may result in the denial
+            of the employee’s claim. Work related fatalities must be reported to the Personnel
+            Officer within four (4) hours of the occurrence.   Accidents resulting in hospitalization
+            overnight with medical treatment must be reported to the Personnel Officer within twelve
+            (12) hours of the accidents.   The Personnel Officer has forms for reporting injuries.
+            Other than the types of injuries specified above, it is mandatory that every injury incurred
+            on the job be reported to the Personnel Officer within twenty-four (24) hours.
+
+                                                                           MALHEUR COUNTY, OR                                      gl
+                                                                           MRCOUNTY COURT                           201      6          1 596
+                                                                           DOCUMENT                       08/11/2016 01:41 PM
+                                                                           Cnt=1 Pgs=3                              Total:$0.00
+
+                                                                           MN III                  01600015960030034
+                                                                           |, Deborah R. DeLong, County Clerk for Malheur
+        1      Workers’ Compensation Insurance                             County, Oregon certify that the instrument identified
+                                                                           herein was recorded in the Clerk records.
+                                                                                                                                          nL
+                                                                                   Deborah R. DeLong- County Clerk
+
+                                                                                                                              105
+    313-   WORKERS’ COMPENSATION INSURANCE continued
+
+    Return to Work
+
+    If you require workers’ compensation leave, you will — under most circumstances — be
+    reinstated to the same position that you held at the time your leave began, or to an
+    equivalent position, if available. However, you must first submit an approved medical
+    certificate demonstrating your ability to return to work.
+    When returning from a workers’ compensation leave you have no greater right to
+    reinstatement than if you had been continuously employed rather than on leave. For
+    example, if you would have been laid off had you not been on leave, or if your position is
+    eliminated, and no equivalent or comparable positions are available, then you may not be
+    entitled to reinstatement. These are only examples and all reinstatement/reemployment
+    decisions are subject to the terms of any applicable collective bargaining agreement.
+    Malheur County does not discriminate against employees who suffer a workplace injury
+    or illness.
+
+    Early Return-to-Work Program
+
+    Our Return-to- Work program provides guidelines for retuming you to work at the earliest
+    possible time after you have suffered an on-the-job injury or illness that results in time
+    loss. This program is not intended as a substitute for reasonable accommodation when an
+    injured employee also qualifies as an individual with a disability. The Return-to-Work
+    Program is intended to be transitional work, to enable you to return to your regular job in
+    a reasonable period of time.
+    The Return-to-Work program for job-related injuries consists of a team effort by Malheur
+    County, injured employees and their treating physicians, and our workers’ compensation
+    insurance carrier claims staff. The goal is to return our employees to full employment at
+    the earliest possible date that is consistent with their medical condition and the advice of
+    the treating physician.
+    If your doctor determines that you are able to perform modified work, County will
+    attempt to provide you with a temporary job assignment for a reasonable period of time
+    until you can resume your regular duties (except where provided as an accommodation
+    for a disability). If, due to a work related injury, you are offered a modified position that
+    has been medically approved, failure to phone in or report at the designated time and
+    place may affect your compensation and employment with County. While you are on
+    modified or transitional work, you are still subject to all other County rules and
+    procedures.
+
+2      Workers’ Compensation Insurance
+
+                                                     2016-1596                 Page 2 of 3
+                                                      MALHEUR COUNTY, OREGON
+
+                                                                                                106
+313-       WORKERS’ COMPENSATION INSURANCE continued
+
+    Overlap with Other Laws
+    County will account for other leave and disability laws that might also apply to your
+    situation, such as the ADA    and FMLA      or OFLA.     If, after returning from a workers’
+    compensation   leave, it is determined    that you are unable to perform the essential
+    functions of your position because of a qualifying disability, you may be entitled to a
+    reasonable accommodation, as governed by the Americans with Disabilities Act and/or
+    applicable Oregon laws covering disabilities in the workplace.
+
+    Approved:      January 1, 2003
+    Revised:       May 11, 2016
+
+3     Workers’ Compensation Insurance
+
+                                             2016-1596                Page 3 of 3
+                                             MALHEUR COUNTY, OREGON
+
+                                                                                              107
+314-   MEDICAL, DENTAL AND VISION INSURANCE
+
+       Employees, and their dependents, who work for Malheur County at least one-half
+       time are eligible for the County’s health insurance program. Malheur County
+       provides group health, dental and vision care insurance programs for employees
+       and their eligible dependents subject to enrollment periods and procedures
+       specified by the carrier and Malheur County. Malheur County has the sole
+       discretion to choose the insurance carrier or carriers.
+
+       Premiums are subject to rate changes. Caps may be placed on the amount of
+       premium Malheur County will pay and the remainder will be paid by the
+       employee.
+
+       Waiting periods must be followed.
+
+       Premium payments are made through payroll deductions and, at the employee’s
+       request, can be made with pre-tax salary or wages.
+
+       For more information on Malheur County’s group insurance plans, employees
+       may contact the Personnel Officer.
+
+       Approved:     January 1, 2003
+       Revised:
+
+                                                                                     108
+315-   HEALTH INSURANCE            CONTINUATION          (COBRA)
+
+       The federal Consolidated Omnibus Budget Reconciliation Act (COBRA) gives
+       employees and their qualified beneficiaries the opportunity to continue health
+       insurance coverage under their employer’s health plan when a “qualifying event         29
+
+       would normally result in the loss of eligibility (i.e., work separation, death of an
+       employee, a reduction in employee’s hours, leave of absence, an employee’s
+       divorce or legal separation, or a dependent child who is no longer meeting the
+       requirements).
+
+       Under COBRA, the employee or beneficiary pays the full cost of coverage at the
+       group rates. The County will provide each employee with a written summary
+       designating rights and obligations granted under COBRA when the employee
+       become eligible for coverage under the County’s insurance plan.
+
+       Additional information on COBRA benefits is contained in the employee’s health
+       benefit booklet.
+
+       Approved:      January 1, 2003
+       Revised:
+
+                                                                                                   109
+                                                                MALHEURCOUNTY,OR                        2015-3799
+                                                                MRCOUNTY COURT
+                                                                DOCUMENT                     10/21/2015          01:11   PM
+                                                                Cnt=1 Pgs=1                                   Total:$0.00
+
+                                                                A                06201500037990010016
+                                                               |, Deborah R. DeLong, County Clerk for Malheur
+                                                               County, Oregon certify that the instrument identified
+                                                               herein was recorded In the Clerk records.
+                                                                      Deborah R. DeLong - County Clerk
+316-   LIFE INSURANCE
+
+       An employee that works at least half time (18.75 hrs/wk) will automatically be enrolled
+       for employer paid $20,000 Group Basic Life/AD&D. Upon the death of the employee,
+       $20,000 will be paid to the employee’s designated beneficiary. Supplemental life
+       insurance can be purchased covering the employee, employee’s spouse and/or
+       employee’s dependent children. Election for Supplemental life can be made during open
+       enrollment or following a qualifying life event. Supplemental life insurance is subject to
+       medical underwriting. For more information contact the Personnel Officer. The full
+       policy can be found on the Malheur County website under Employee Services.
+
+       Life insurance is not a pre-tax, payroll deduction.
+
+Approved:     January 1, 2003
+Revised:      October 21, 2015
+
+                                                                                                                         [lo
+317 - DISABILITY, CANCER, ACCIDENTAL, INTENSIVE CARE INSURANCE
+
+     In an effort to provide customized benefits to our employees, the County makes
+     available American Life Assurance Company of Columbus (AFLAC)’s personal
+     Short-Term Disability, Cancer, Accident and Intensive Care Insurance Policies.
+     The employee is responsible for the total costs of these benefits. However, the
+     County makes them available to employees through payroll deductions so the
+     employee can receive these benefits at payroll rates and with pre-tax savings, if
+     elected by the employee. Plans available now include:
+
+     Personal Short Term Disability
+     3-month, 6-month or 12-month disability plans that covers sickness and injury.
+
+     Cancer
+     Benefits for treatment of cancer including first occurrence, radiation and
+     chemotherapy, hospital confinement, surgery, cancer screening, bone marrow
+     transplant, stem cell transplant, transportation, hospice, wellness screening and
+     more.
+
+     Accident/Disability
+     Benefits available for accident emergency treatment, accident hospital income,
+     accidental death and wellness benefits with options for accident/sickness
+     disability.
+
+     Intensive Care
+     Benefits for covered confinement in hospital intensive care units, coronary
+     intensive care units or neonatal intensive care units.
+
+     These policies pay regardless of any other health coverage. Benefits are paid
+     directly to the employee unless the employee assigns the benefits, to assist with
+     loss of income, non-medical costs and other personal expenses.
+
+     For more information about these benefits and costs, please contact the Personnel
+     Officer.
+
+     Approved:      January 1, 2003
+     Revised:
+
+                                                                                         Itt
+318-   UNEMPLOYMENT         INSURANCE
+
+       Malheur County provides unemployment compensation through the State of
+       Oregon Unemployment Insurance Fund as provided for under State law (ORS
+       657).
+
+       Approved:    January 1, 2003
+       Revised:
+
+                                                                                 Wa
+319-   EMPLOYEE       ASSISTANCE PROGRAM               (EAP)
+
+       A confidential service is provided to all employees covered by our health
+       insurance benefits (those who work in regular, full-time positions) and their
+       covered dependents who may be experiencing life problems (coping with
+       emotional stress, dealing with psychological problems, marital or family
+       difficulties, depression, eating disorders, alcohol or other drug-related problems,
+       communication problems stemming from work situation, financial problems etc.).
+       Sick leave may be used for EAP appointments and all sessions are confidential.
+
+Approved:     January 1, 2003
+Revised:
+320-   CAFETERIA OR FLEXIBLE PLAN
+
+       Malheur County sponsors an employee benefit program known as a “Flexible
+       Benefits Plan”. Under federal tax laws, it is also known as a “cafeteria plan”. It
+       is so-called because it lets the employee choose from several different insurance
+       and fringe benefit programs according to individual needs. Malheur County
+       provides the employee with the opportunity to use pre-tax dollars to pay for them
+       by entering into a salary redirection agreement instead of corresponding amounts
+       of regular pay. This arrangement helps the employee because the benefits are
+       non-taxable; the employee saves social security and income taxes on the amount
+       of the salary redirection.   Alternatively, the employee may choose to pay for any
+       of the available benefits with after-tax contributions on a salary deduction basis.
+       Currently, the premium payments on the following policies are available for
+       election by eligible employees to be paid with pre-tax dollars as a payroll
+       deduction:
+
+              group medical insurance
+              vision care insurance
+              cancer insurance
+              group dental coverage
+              intensive care insurance
+              accident insurance
+              hospital indemnity insurance
+
+       Approved:      January 1, 2003
+       Revised:
+
+                                                                                         HA
+  321-      Lactation Breaks
+                                       INSTRUMENT NO. 2008 -20
+                                       Page     of   2. Pages
+                                                                                     FLEE
+                                                                                          JAN O Qeuts
+                                                                                DEBORAH R. DELONG County Clerk
+                                                                                ay      i          F    % age
+  General                                                                        < \, 0      Childe aputy
+  a.        In compliance with Oregon law, Malheur County will take measures to ensure
+            that all women employees of Malheur County are provided with an adequate
+            location for the expression of milk. Specifically, Malheur County will make
+            reasonable efforts to provide a private room or other location in close proximity to
+            the employee’s work area, other than a restroom or toilet stall, where the
+            employee can express her milk in privacy.
+
+  b.        Information about this policy will be provided to new employees and supervisors
+            to pregnant employees upon notification of their pregnancy.
+
+  Accessible Private Room
+
+  a.        An accessible private room with a lock shall be provided where a nursing woman
+            can extract milk to be stored for later use. The room will have accessible
+            electrical outlets, be a comfortable temperature and contain a chair. The room
+            may include the employee’s work area, lounge or nearby child care facility. The
+            room will be posted when use by the employee.
+
+  Storage
+
+  a.        The employee is responsible for the proper storage of all equipment, milk and
+            supplies. For areas without a refrigerator, employees will be provided with a
+            secure area to store a personal ice chest or thermos.
+
+  Work Schedule
+
+~ a.        Employees will be allowed breaks to express milk. Employees are allowed one
+            30-minute rest period to express milk during each 4-hour work period, to be taken
+            “approximately in the middle of the work period.” An employee taking a rest
+            period to express milk, should take it, if feasible at the same time as the rest or
+            meal periods otherwise provided to the employee. Ifthe time or time periods
+            exceed normal lunch and other breaks, the rest periods for expressing milk are
+            unpaid. However, an employee is entitled to use any paid accrued sick leave, paid
+            accrued vacation leave or other paid leave that Malheur County offers in lieu of
+            vacation leave during the rest periods used by the employee to express milk. If
+            the employee does not have any accrued paid leave and the employee’s health
+            insurance plan is based on the number of hours worked, the rest periods will be
+            considered paid work hours.
+
+                                                                                                    HS
+                                            INSTRUMENT NO. 2008 ~LO
+                                            Page     cdot .& Pages
+
+321 — Lactation Breaks continued
+
+b.     Rest periods to express milk may not cause an undue hardship on the operations
+       of Malheur County or the employee’s office or department.
+
+e,     Rest periods must be approved by the employee’s supervisor.
+
+Approved:     January 2, 2008
+Revised:
+
+                                             :                as                        I!&
+                                                                   MALHEURCOUNTY,OR                        2015-4328
+                                                                   MR OO ORT 42/09/2015 10:62 AM
+                                                                   Cnt=1    Pgs=2                                Total:$0.00
+
+322 - DOMESTIC          VIOLENCE   LEAVE                                00033563201500043280020021
+                                                                   1, Deborah R. DeLong, County Clerk for Malheur
+                                                                   County, Oregon certify that the instrument identified   e
+                                                                   herein was recorded in the Clerk records.
+                                                                           Deborah R. DeLong - County Clerk
+Purpose
+
+Malheur County realizes that employees or their minor dependents who are victims of
+domestic violence, sexual assault or stalking may have needs which require time away
+from work.    Malheur County will work with employees to assess how existing paid and
+unpaid leave options may be used to help meet these needs.
+
+Eligibility for Leave
+
+An employee may take leave to seek legal or law enforcement assistance or remedies, to
+seek medical treatment for or recover from injuries, to seek counseling from a licensed
+mental health professional, to obtain services from a victim services provider, to relocate
+or secure an existing home or to use other resources required to increase the employee’s
+and the employee’s minor dependent’s immediate safety.
+
+Unpaid Leave
+
+The employee may use accrued sick, vacation, personal or compensatory paid time off
+while on domestic violence leave. Malheur County will also provide reasonable unpaid
+leave to an employee to address domestic violence, sexual assault or stalking of the
+employee or his or her minor dependents. Depending on the circumstances, leave under
+this policy may overlay with other types of unpaid leave, including crime-victim leave,
+FMLA/OFLA leave and reasonable accommodations under state and federal disability
+laws.
+
+Certification of Need For Leave
+
+Malheur County may require certification of the need for leave, such as a police report,
+protective order or other evidence of a court proceeding, or documentation from a law
+enforcement officer, attorney, health care professional, member of the clergy, or victim
+services provider. Any information obtained about an employee’s circumstances relating
+to domestic violence leave will be kept confidential in a secure file separate from the
+employee’s personnel file.
+
+                                                                                                                 [17
+322 - DOMESTIC VIOLENCE LEAVE continued
+
+Safety and Security of Employee
+
+Employees with protective or restraining orders that reference the employee’s worksite
+must provide their supervisor with a copy of the order. Employees who are concerned
+about their safety in the workplace due to domestic violence should also notify their
+supervisor.   In response to these notifications, Malheur County will explore security
+options to be implemented to minimize the risk of threats or acts of domestic violence to
+the employee. Malheur County’s response will take into consideration the needs and
+rights of the employee and others in the workplace while maintaining confidentiality
+when to do so does not interfere with safety needs. Malheur County reserves the right to
+make limited disclosure of employee’s circumstance and take action when it is clearly
+necessary to protect the safety of other employees.
+
+Approved:       January 2, 2008
+Revised:        December 9, 2015
+
+                           2015-4328                Page 2 of 2
+                           MALHEUR COUNTY, OREGON
+                                                                                            112
+                                                                     MALHEURCOUNTY,OR                           2014-1836
+                                                                    MRCOUNTY COURT
+                                                                    DOCUMENT                         06/06/2014 12:36 PM
+                                                                    Cnt=1 Pgs=1                                Total:$0.00
+
+323   =   VETERANS   DAY
+                                                                    AMI                  0201400018360010019
+                                                                    |, Deborah R. DeLong, County Clerk for Malheur
+                                                                    County,   Oregon   certify that the instrument identifled   ‘ey
+                                                                    herein was recorded in the Clerk records.
+                                                                              Deborah R. DeLong - County Clerk
+
+Malheur County will provide eligible employees with time off time on Veterans Day if the
+employee would otherwise be required to work on that day. Employees are eligible if they
+served on active duty in the Armed Forces for at least six months and received a discharge under
+honorable conditions.
+
+Military service in a reserve or National Guard unit does not qualify an employee as a veteran for
+the purpose of this time off, unless the employee was deployed or served on active duty for at
+least six months. Malheur County may require the employee to provide documents establishing
+his or her status as an eligible veteran.
+
+Employees seeking Veterans Day off should make the request with at least 21 days’ advanced
+notice. Malheur County will notify the employee, at least 14 days before Veterans Day, whether
+he or she will receive time off for Veterans Day and whether the time will be paid or unpaid. If
+Malheur County determines that providing time off on this holiday will cause significant
+economic or operational disruption or undue hardship, Malheur County will deny the request. In
+this circumstance Malheur County will allow the employee a single day off before the following
+Veterans Day in order to honor the employee’s military service. This day off will be in addition
+to any other time off to which the employee would otherwise be entitled.
+
+If Malheur County cannot provide time off to all the veterans who request it, Malheur County
+will deny the day off either to all veterans or to the minimum number of employees needed to
+avoid significant economic or operational disruption or undue hardship.
+
+Alen Pfeye
+Approved:      June 4, 2014
+Revised:
+
+                                                                                                                  119
+                                   SECTION 400
+                               HEALTH AND SAFETY
+                                  Table of Contents
+
+                                                      ie
+                                                       is)
+                                                       oO
+400-   Smoking and Vaping                             {21
+
+401-   Drug and Alcohol Free Workplace                {22
+
+402-   Occupational Safety and Health Manual          136
+
+403-   Identification Badges                          137
+
+404-   Pre-Employment Drug Testing Policy Statement   138
+
+405-   Inclement Weather and Closure Policy           139
+
+                                                       120
+                                                                MALHEURCOUNTY,OR                        2016-0629
+                                                                MRCOUNTY COURT
+                                                                DOCUMENT                     02/24/2016 11:15 AM
+                                                                Cnt=1 Pgs=1                            Total:$0.00
+
+                                                                             MA
+                                                                    00034763201600006290010014
+                                                               |, Deborah R. DeLong, County Clerk for Malheur
+                                                               County, Oregon certify that the instrument identified
+                                                               herein was recorded in the Clerk records.
+                                                                       Deborah R. DeLong - County Clerk                Md
+
+400-   SMOKING AND VAPING
+
+Smoking, vaping and the use of any inhalant delivery system (e-cigarettes, vape pen, e-hookah)
+is not permitted in any County facility or in County owned vehicles at any time.               Malheur
+County complies with State law prohibiting smoking and the use of e-cigarettes and other
+inhalant delivery systems in public buildings.
+
+Approved:      January 1, 2003
+Revised:       February 24, 2016
+
+                                                                                                            IZ!
+                                                                              MALHEURCOUNTY,OR                         2015-2685
+                                                                              MRCOUNTY COURT
+                                                                              DOCUMENT                      07/22/2015 02:16 PM
+                                                                              Cnt=1 Pgs=14                                  Total:$0.00
+
+                                                                                MI 00031                  500026850140140
+                                                                              1, DeborahR. DeLong, County Clerk for Malheur
+                                                                              County, Oregon certify that the instrument identified
+                                                                              herein was recorded in the Clerk records.
+                                                                                      Deborah R. DeLong - County Clerk
+
+401-     DRUG AND ALCOHOL FREE WORKPLACE
+
+Malheur County is committed to provide a safe work environment and to foster the well-being
+and health of its employees. That commitment is jeopardized when employees misuse controlled
+substances, prescription or illegal drugs or alcoholic beverages. Therefore, Malheur County has
+established this policy. This policy is intended to comply with and supplement the Drug Free
+Workplace Act of 1988.
+
+I.      POLICY STATEMENT:
+
+Malheur County prohibits the manufacture, distribution, dispensing, possession, transfer, sale or
+use of any alcoholic liquor, intoxicant, narcotic, hallucinogen, stimulant, sedative drug,
+marijuana, or controlled substance (collectively “substances” or “drugs and alcohol”) and having
+to a detectable degree!, controlled substances present in the employee’s body, while performing
+duties for Malheur County, inclusive of breaks or during lunch. If use of such substances
+adversely affects an employee’s physical or mental facilities at work to a reasonable suspicion
+and the employee tests “positive” for such substances by screening and confirmation tests, the
+employee will be deemed in violation of this policy. As used in this policy, “controlled
+substance” includes, but is not limited to, any controlled substance listed in Schedules 1 through
+V of the Federal Controlled Substance Act, including marijuana that is otherwise lawful to use
+under Oregon, Washington or any other state’s law.
+
+Il.      PRESCRIPTION DRUGS AND MEDICAL MARIJUANA:
+
+With the exception of medical marijuana, nothing in this rule is intended to prohibit the use of a
+drug taken under supervision by a licensed health care professional, where its use does not
+present a safety hazard or otherwise adversely impact an employee’s performance or County
+operations. Any employee who is required to take any medication (prescribed or over-the-
+counter) with side effects which impair his/her ability to fully and safely perform all
+requirements of his/her position, shall report the need for such medication to his/her immediate
+supervisor prior to commencing work. No employee shall be permitted to work or drive a
+County vehicle while taking such potentially impairing medication without a written release
+from the employee’s physician. County may reassign the employee using medication to other
+work or take other appropriate action to accommodate the effects of the medication. Failure to
+report use of prescription drugs covered by this rule will subject an employee to disciplinary
+action, up to and including termination.
+
+' Detectable degree is above, confirmed or “positive” for the most current cutoff concentrations for initial tests and
+confirming tests expressed in nanogram per milliliter used by laboratories for DOT drug testing when testing for the
+following controlled substances: marijuana (THC) , cocaine, opiates, phencyclidene (PCP) and amphetamines
+(AMP/MAMP).
+
+                                                                                                                                          [22.
+401-    DRUG AND ALCOHOL             FREE WORKPLACE            POLICY continued
+
+The use of medical marijuana, which is a Schedule 1 controlled substance under federal law, is
+expressively prohibited under this policy, even if its medical use is authorized under any state’s
+law. Malheur County will not agree to allow an employee to use medical marijuana as an
+accommodation under the County’s disability accommodation policy.
+
+I.     VIOLATIONS:
+
+Violations of this policy include, but are not limited to the following:
+
+1      For any employee to manufacture, distribute, sell, buy, provide, trade, transfer, offer for
+       sale or possess for the purpose of buying, selling or providing an alcoholic liquor/
+       intoxicant or controlled substance, including marijuana, while on County property or in
+       County vehicles or equipment, or during work hours, including paid rest and meal
+       periods.
+
+2      Being at work with a blood alcohol content that reaches or exceeds .02% by
+       volume/weight of alcohol in the blood or consuming alcoholic intoxicants while in
+       County vehicles or equipment at any time, or on County property, including rest and meal
+       periods.
+
+3.     Possession of drugs and alcohol, including marijuana, while on County property or in
+       County vehicles or equipment at any time.      With the exception of marijuana, this
+       excludes substances that have been medically prescribed for an employee’s own use.
+
+4.     For any employee to use lawfully prescribed drugs at work in a manner other than
+       directed by the employee’s health professional (such as, taking it in excessive quantities
+       or by unlawfully obtaining it for purpose of abuse) or in a way that presents a safety
+       hazard or otherwise adversely impacts an employee’s performance or County operations.
+
+De     For an employee to have a detectable amount of a controlled substance, including
+       marijuana, present in the body while on County property, on County time or in County
+       vehicles or equipment at any time. An employee has controlled substance present in the
+       body when the employee test positive in blood or urine tests administered by the County
+       for drug testing. This excludes substances that have been prescribed for an employee’s
+       own use unless it is medical marijuana or paragraph 4 above applies.
+
+6.     To bring marijuana, in any form or in any food (i.e. marijuana brownies) or other item
+       prepared with marijuana into the work place or on work premises.
+
+                                                                   2015-2685                Page 2 of 14
+                                                                   MALHEUR COUNTY, OREGON
+
+                                                                                                           123
+401 -   DRUG AND ALCOHOL FREE WORKPLACE POLICY continued
+
+        To bring marijuana-related equipment or any devices marketed for use or designed
+        specifically for use in ingesting, inhaling or otherwise introducing marijuana or other
+        drugs such as pipes, bongs, “vape” pens, smoking masks, roach clips and/or other drug
+        paraphernalia into the work place or on work premises.
+
+        To bring marijuana or drug paraphernalia to the work place or on work premises,
+        including any equipment, products or materials of any kind which are marketed for use or
+        designed for use in planting, propagating, cultivating, growing or manufacturing
+        marijuana or other drugs, including live or dried marijuana plants.
+
+        Failure of employee to notify County of a charge, arrest or conviction under any criminal
+        drug or alcohol statute pursuant to section VI below.
+
+10.     Failure of employee to report the use of medication (prescribed or over-the-counter) to
+        employee’s supervisor if required to do so under section II above.
+
+IV.     REASONABLE SUSPICION FOR TESTING/SEARCH:
+
+        Before a supervisor, acting on behalf of the County under this policy, may require an
+        employee to consent and submit to test(s) specified in this policy, the supervisor must
+        first obtain concurrence from the department head, elected official, County Judge or
+        Personnel Officer that the information available to the County about the subject employee
+        is sufficient to determine reasonable suspicion that prohibited conduct will be established
+        as a result of such test(s).
+
+        Reasonable suspicion as used in this policy means an articulable belief based on
+        specific facts and reasonable inferences drawn from those facts that an employee is more
+        likely than not used drugs or alcohol in violation of this policy. Circumstances which can
+        constitute a basis for   determining “reasonable suspicion” may include, but are not
+        limited to:
+
+                                                             2015-2685                Page 3 of 14
+                                                             MALHEUR COUNTY, OREGON
+
+                                                                                                     124
+401 -     DRUG AND ALCOHOL FREE WORKPLACE POLICY continued
+
+                a pattern of abnormal or erratic behavior;
+         oP
+
+                information provided by reliable and credible source;
+                a work related accident;
+         fe
+
+                direct observation of drug or alcohol use;
+                presence of physical symptoms of drug or alcohol use (i.e. glassy or
+         2
+
+                bloodshot eyes, odor, slurred speech, poor coordination and/or reflexes);
+                employee admissions regarding alcohol or drug use;
+        rh
+
+                unexplained absences from normal work areas where there is reason to
+                suspect drug or alcohol related activity;
+        pga
+
+                unexplained significant deterioration in individual job performance; and
+                unexplained or suspicious absenteeism or tardiness.
+
+         Supervisors are to detail in writing specific facts, symptoms or observations which
+         form the basis for reasonable suspicion to warrant testing or a search. The Personnel
+         Officer or another witness should assist supervisory personnel to corroborate findings.
+         A reasonable suspicion observation form is attached to this policy. All facts and
+         circumstances upon which the reasonable suspicion testing is based, shall be given to the
+         employee when he or she is notified for the test results.
+
+         Supervisors will be trained on reasonable suspicion in accordance with paragraph XIV
+         below.
+
+         TESTING:
+
+         When the County has a reasonable suspicion that an employee has a controlled substance,
+         including marijuana, present in the body, the County may require that the employee
+         immediately consent and submit to tests and sampling (blood, urine or breathalyzer test)
+         at an approved laboratory or hospital. The County shall pay for costs of the tests. A
+         refusal to consent and submit to any of these tests shall be deemed the same as a positive
+         test result. At the time of adopting this policy, the approved laboratory is Bio-Med
+         Testing Services, Inc.
+
+         When an employee is notified he or she is required to consent and submit to such test or
+         to a search as described in section VII of this policy, he or she may request the
+         presence of a witness (i.e. union representative, another employee) to the test or search.
+         The test or search may not be unduly delayed to wait for a witness. The absence of a
+         witness shall not be grounds for the employee to refuse to consent and submit to such
+         test or search, however the County shall make every reasonable effort to provide a
+         witness. The presence of a witness shall not disrupt or interfere with a test or search.
+
+                                                             2015-2685                Page
+                                                                                        4 of 14
+                                                             MALHEUR COUNTY, OREGON
+
+                                                                                                    125
+401 -   DRUG AND ALCOHOL              FREE WORKPLACE             POLICY continued
+
+        The employee shall give consent to a blood, urine or breathalyzer test by signing a
+        consent form. This policy and the consent form will be discussed with employee at the
+        employee’s orientation, during an employee’s evaluation or updated annually and
+        disseminated to employees via email or through the employee’s supervisor. A consent
+        form is attached to this policy. The consent form is in addition to any authorization form
+        required by the approved laboratory.
+
+        Over-the-counter medications which may be in the employee’s body may be submitted
+        by employee in a sealed envelope to be opened by the Medical Review Officer if the test
+        result is positive. The Medical Review Officer may be assigned by the approved
+        laboratory (i.e. Bio-Med) or, at the discretion of County, be a physician assigned by
+        the County.
+
+        The drug testing process shall be one that is scientifically proven to be at least as accurate
+        and valid as urinalysis using an immunoassay screening test, with all positive results
+        being confirmed utilizing gas chromatography/mass spectrometry before a sample is
+        considered positive. The alcohol testing process shall be one that is scientifically proven
+        to be at least as accurate and valid as (1) urinalysis using an enzymatic assay screening
+        test, with the positive screening results being confirmed using gas chromatography before
+        a sample is considered positive, or (2) breath sample testing using breath analyzing
+        instruments which meet NIDA/SAMSAH testing standards.
+
+        An employee whose initial laboratory screening test yields a positive result shall be given
+        a second test. The second test shall use a portion of the same test sample withdrawn
+        from the employee for use in the initial screening test. If the second test confirms the
+        initial positive test result, the employee shall be notified of the results in writing. The
+        letter of notification shall state the particular substance identified by the laboratory tests.
+        The employee may request a test of the sample within 24 hours of receiving the letter of
+        notification, but such testing shall be paid for by the employee. If the second test is
+        negative County will reimburse Employee for cost of second test when done by County’s
+        approved laboratory. Employee may choose an independent laboratory approved by the
+        State of Oregon for this test, if appropriate arrangements and costs can be made by
+        employee.     Reimbursement of costs by the County if a second test is negative is not
+        available to Employee when Employee uses an independent laboratory.
+
+        The procedure to obtain, handle and store blood and urine samples and to conduct
+        laboratory tests shall be documented to establish procedural integrity and chain of
+        evidence. Such procedures shall be administered with due regard for the employee’s
+        privacy and the need to maintain confidentiality of test results to an extent which is not
+        inconsistent with the needs of this policy.
+
+                                                                2015-2685                Page 5 of 14
+                                                                MALHEUR COUNTY, OREGON
+
+                                                                                                        I2G
+401-        DRUG AND ALCOHOL          FREE WORKPLACE           POLICY continued
+
+8,      The employee shall have the right to explain a confirmed positive test result for a
+        controlled substance or for alcohol to the Medical Review Officer.
+
+VI.     REPORTING BY EMPLOYEE TO COUNTY OF CRIMES INVOLVING DRUGS
+        AND ALCOHOL
+
+iF      Any employee charged with a criminal drug or alcohol statutory violation, which has
+        occurred in the workplace or while performing duties for Malheur County, shall
+        immediately (within 5 calendar days) provide his/her supervisor notification of such
+        charge. Failure of the employee to report as required will result in disciplinary action up
+        to and including termination. Each supervisor having knowledge of or upon receiving
+        notification as described above shall notify the Personnel Officer.
+
+2:      Employees shall immediately (within 2 calendar days) report to his/her supervisor any
+        criminal conviction or entry into a diversion program, for drug or alcohol related activity.
+        Failure of the employee to report as required will result in disciplinary action up to and
+        including termination. Each supervisor having knowledge of or upon receiving
+        notification as described above shall notify the Personnel Officer.
+
+VI.     SEARCH
+
+When reasonable suspicion exists to believe an employee possesses alcohol or controlled
+substances at work or on County property, the County will conduct a search of County
+equipment or facilities and may also search the employee’s possessions located on County
+property, including but not limited to, outer garment clothing, lunchbox, desk or personal
+property.    Employees have no expectation of privacy in any items they bring to County property,
+or in property, equipment or supplies provided by County.      Strip and frisk searches may only be
+undertaken in the event of criminal investigation and only for probable cause as determined by
+the investigating law enforcement agency. Employee will be asked to sign a consent form prior
+to any search. The form is attached to this policy.
+
+                                                            2015-2685                Page 6 of 14
+                                                            MALHEUR COUNTY, OREGON
+
+                                                                                               127
+401-    DRUG AND ALCOHOL FREE WORKPLACE POLICY continued
+
+VII.    POST ACCIDENT TESTING
+
+Employees are subject to testing when they cause or contribute to accidents that seriously
+damage a county vehicle, machinery, equipment or property or result in an injury to themselves
+or another employee requiring offsite medical attention.
+
+IX.     EMPLOYEE REFUSAL TO TEST OR SEARCH
+
+An employee who refuses to consent to a test or a search where there is reasonable suspicion to
+suspect that the employee has violated this policy is subject to disciplinary action up to and
+including termination. The reasons for refusal shall be considered in determining appropriate
+disciplinary action.
+
+An employee who refuses to cooperate with any and all tests required by this policy is also
+subject to discipline, up to and including termination. This includes, but is not limited to,
+tampering with, or attempting to tamper with, a specimen sample, using chemicals or other
+ingredients to mask or otherwise cover up the presence of metabolites, drugs or alcohol in a
+specimen, or providing a blood or urine specimen that was produced by anyone or anything other
+than the employee being tested.
+
+X.      VOLUNTARY DRUG AND ALCOHOL TREATMENT
+
+Malheur County recognizes that alcohol and drug use may be a sign of chemical dependency and
+that employees with alcohol and drug problems can be successfully treated. County is willing to
+help such employees obtain appropriate treatment.
+
+An employee who believes that he or she has a problem involving the use of alcohol or drugs
+should ask his or her supervisor, department head or elected official for assistance.
+
+County will work with an employee to identify all benefits and benefit programs that may be
+available to help deal with the problem.
+
+                                                          2015-2685                Page 7 of 14
+                                                          MALHEUR COUNTY, OREGON
+
+                                                                                                  128
+401-    DRUG AND ALCOHOL FREE WORKPLACE POLICY continued
+
+Although Malheur County recognizes that alcohol and drug abuse can be successfully treated
+and is willing to work with employees who suffer from such problems, it is the employee’s
+responsibility to seek assistance BEFORE drug and alcohol problems lead to disciplinary action.
+Once violation of this policy occurs, the employee’s willingness to seek assistance will not
+excuse the violation and generally will have no bearing on the determination of appropriate
+disciplinary action.
+
+Therefore, if prior to a drug or alcohol test or search the employee notifies his or her
+supervisor, department head or elected official that the he or she may have a drug or alcohol
+problem that requires treatment, then in that event the employee shall immediately submit to a
+medical evaluation by a doctor selected and paid for by County and employee shall enroll in a
+treatment program recommended by the doctor. An employee may seek such evaluation and
+treatment from the employee’s own doctor at the employee’s expense.        The employee shall
+notify Malheur County of the name of the doctor. The cost of such treatment shall be at the
+employee’s expense.   The employee may take paid leave (sick, vacation or personal leave) or
+leave without pay for the period of treatment. The leave may or may not qualify for
+FMLA/OFLA leave depending on the type of treatment and FMLA/OFAL guidelines. If the
+employee fails to complete the treatment program successfully, he or she may be subject to
+discipline up to and including termination. An employee who enters treatment/rehabilitation and
+successfully completes treatment/rehabilitation under the terms of this paragraph or last chance
+agreement shall not be subject to discipline.
+
+XI.    DISCIPLINE AND CONSEQUENCES FOR VIOLATIONS OF THIS POLICY
+
+An employee who tests positive for drugs or alcohol in accordance with this policy will be
+subject to either termination or a last chance agreement.
+
+A search which reveal the presence of alcohol or drugs, including marijuana (but excluding any
+substance prescribed for the employee’s use which has not been obtained for the purpose of
+abuse) will subject the employee to either termination or a last chance agreement.
+
+Test results which do not positively establish that the employee has engaged in prohibited
+conduct as described in this policy shall result in no further action against the employee.         The
+employee shall be informed of all test results in writing. Employees who do not test positive
+shall not have any record of the test placed in his or her personnel file. Working files may
+contain records of the observations which led to the reasonable suspicion testing but no records
+of the test itself. If the employee subsequently demonstrates similar behaviors, these records
+may be relied upon by the employer in disciplinary proceedings.
+
+                                                            2015-2685                Page 8 of 14
+                                                            MALHEUR COUNTY, OREGON
+
+                                                                                               i
+401-    DRUG AND ALCOHOL FREE WORKPLACE POLICY continued
+
+XII.   LAST CHANCE AGREEMENT
+
+At the sole discretion of Malheur County, after considering the individual         circumstances of each
+case, a “last chance” agreement may be offered to an employee who is in violation of this policy.
+A last chance agreement is an agreement whereby an employee who would otherwise be
+terminated is provided an opportunity to address his or drug or alcohol abuse and/or performance
+or safety issues. Each agreement is in writing and prepared considering the individual
+circumstances of each case. Agreements may cover, but are not limited to, subjects such as
+assignment changes and work restrictions, verification of attendance at a treatment or
+rehabilitation program, testing and participation in an after-care program and unannounced drug
+and/or alcohol screenings. The agreement shall specify the consequences for violation of its
+provisions, including immediate termination of the employee, notwithstanding the provisions of
+any other personnel rule.
+
+XII.   CONFIDENTIALITY
+
+All information related to drug/or alcohol tests, searches, evaluation, treatment will be kept
+confidential. The information will be kept in the employee’s medical file, which will be
+maintained separately from the employee’s personnel file. Only County staff with a need to
+know will be informed of test or search results, evaluations or treatment. Disclosure of such
+information to any other person, agency or organization is prohibited unless written authorization
+is obtained from employee.
+
+XIV.   TRAINING
+
+The County recognizes that, in order to administer the standards, reasonable suspicion and
+procedures set forth in this policy and fairly and to minimize the possibility of unwarranted
+testing and searches, supervisory personnel shall receive training in how to recognize and deal
+effectively with alcohol and drug issues in the work place. Accordingly, the County will provide
+such training to supervisors and designated AFSCME representatives before the requirements of
+this policy are implemented and enforced.
+
+                                                              2015-2685                    Page 9 of 14
+                                                              MALHEUR   COUNTY,   OREGON
+
+                                                                                                      io)
+401-    DRUG AND ALCOHOL             FREE WORKPLACE            POLICY continued
+
+XV.    ROAD DEPARTMENT AND PRE-EMPLOYMENT TESTING
+
+This policy will be administered in addition to County’s Alcohol and Drug Testing policy for
+employees subject to Department of Transportation Regulations and pre-employment drug
+testing.
+
+XVI.   EMERGENCIES
+
+In the event the County wishes to call out an employee to perform additional duties outside of
+the employee’s normal work hours (e.g. an emergency, not on call) and the employee has
+consumed alcohol or drugs, the employee will notify his or her supervisor that he or she has
+consumed alcohol or drugs and is impaired and therefore is unable to report for duty. Employee
+will not be subject to discipline if unable to report for duty under these circumstances.
+
+       Approved:        November 17, 1999
+       Revised:         November 2006, December 2014; July 2015
+
+                                                           2015-2685             Page 10 of 14
+                                                            MALHEUR COUNTY, OREGON
+
+                                                                                                 Lo)
+                                     Drug Free Workplace
+                                      Malheur County, Oregon
+
+                             Reasonable Suspicion Observation Form
+                                      (Strictly Confidential)
+
+ Date/Time of Incident                                          Print Employee Name
+
+ Print Name of Supervisor                                       Print Name of Witness
+                                                                Corroborating Observations
+
+ This checklist is to be complete when documenting an incident which provides reasonable
+ suspicion that an employee has drugs or alcohol present in his or her body or possess drugs and
+ alcohol while at work, on county property or operating county vehicles or equipment.
+
+       Mark each applicable item on this form and any additional facts or circumstances
+
+ Nature of Incident/Cause for Suspicion
+
+                Observed/reported/admission possession or use of alcohol or drugs.
+        G
+
+                Apparent drug or alcohol intoxication.
+BWHN
+
+                Observed abnormal or erratic behavior.
+        a
+
+                Arrest or conviction of drug-related offense.
+        Go
+
+                Other (e.g., flagrant violation of safety regulations, serious misconduct, fighting
+        oOo
+Om
+
+                or argumentative/abusive language, refusal of supervisor instruction,
+                insubordination or unauthorized absence on the job.) Please specify:
+
+                                                                2015-2685            Page 11 of 14
+                                                                MALHEUR COUNTY, OREGON
+
+                                                                                                     132
+  Unusual Behavior
+
+          Oodoaada   Verbal abusiveness.
+                     Physical abusiveness.
+  ie oS
+ ee
+
+                     Extreme aggressiveness or agitation.
+                     Withdrawal, depression, mood changes or unresponsiveness.
+                     inappropriate verbal response to questioning or instructions.
+                     Unexplained absences from normal work area and reason to suspect drug or
+ :
+
+                     alcohol related activity.
+                     Unexplained deterioration in individual job performance.
+          Oo oO
+coon
+
+                     Unexplained or suspicious absenteeism or tardiness.
+                     Other erratic or inappropriate behavior (e.g., hallucinations, disorientation,
+                     excessive euphoria or confusion. Please specify:
+
+  Physical Signs or Symptoms
+
+            O        Possessing, dispensing, or using controlled substance.
+                     Slurred, incoherent or confused speech.
+          OO
+
+                     Unsteady or other loss of physical control; poor coordination or reflexes;
+                     swaying; staggering; falling; stumbling; arms raised for balance.
+                     Dilated or constricted pupils or unusual eye movement.
+ S
+
+          eouoeae
+
+                     Bloodshot or watery eyes.
+ No
+
+                     Extreme fatigue; sleeping on the job; stupor.
+                     Excessive sweating or clamminess to the skin.
+ oS
+
+                     Flushed or very pale face.
+                     Highly excited or nervous.
+          eo
+
+                     Nausea or vomiting.
+          ee
+
+   11.               Odor of alcohol.
+   (2.               Odor of marijuana.
+          oboe
+
+  13.                Dry mouth (frequent swallowing/lip wetting).
+  14.                Dizziness or fainting.
+  1:                 Shaking hands or body tremors/twitching.
+          Gea
+
+   16.               Irregular or difficult breathing.
+  L?.                Runny nose or sores around nostril.
+
+                                                                 2015-2685            Page 12 of 14
+                                                                 MALHEUR COUNTY, OREGON
+
+                                                                                                      133
+18.     QO    Consistently wearing sunglasses indoors.
+9,    °° O    Confused, paranoid.
+20.     O     Puncture marks or “tracks”.
+Mm            Other. Please specify:
+
+Written Summary
+
+Please summarize the facts and circumstances of the incident, employee response, supervisor
+actions and any other pertinent information not previously noted. Attach additional sheets or
+continue on back if needed.
+
+Signature supervisor                                                 date/time
+
+Signature witness                                                    date/time
+
+                                                     2015-2685            Page 13 of 14
+                                                     MALHEUR COUNTY, OREGON
+
+                                                                                          34
+             CONSENT TO TEST OR SEARCH FOR DRUGS OR ALCOHOL
+
+Name of Employee:
+
+Date:
+
+TEST:
+
+I consent to submit to a urinalysis, blood or breathe test as determined by Malheur County for the
+purpose of determining if any drugs and/or alcohol are present in my body.
+
+I agree that BioMed or                                   (name of hospital) may collect
+specimens from me for these tests and may test them or forward them for analysis to a certified
+testing laboratory designated by BioMed.
+
+I agree to and hereby authorize the release of the results of said test to a Medical Review Officer
+and to duly-authorized representatives of Malheur County, who will protect and maintain the
+confidentiality of such information to the greatest extent possible; and who will share such
+information only to the extent necessary to make employment decisions.
+
+I agree that a copy of this consent shall have the same force and affect as the original.
+
+I received and read Malheur County’s Drug and Alcohol Free Workplace Policy.              I understand
+that failure to consent or cooperate to a drug or alcohol test or confirmed positive result for drugs
+and alcohol may lead to discipline up to and including termination.
+
+SEARCH:
+
+In accordance with Malheur County’s Drug and Alcohol Free Workplace Policy, which I
+received and read, I consent to a search of my desk, outer-garment clothing, lunchbox and
+personal possessions located on County property. I understand that my refusal or failure to
+cooperate in a search will result in discipline up to and including termination.
+
+Signature of Employee                  date            Signature of Witness
+
+Signature of Supervisor
+
+                                                  -- 2015-2685            Page 14 of 14
+                                                     MALHEUR COUNTY, OREGON
+
+                                                                                                135
+402-   OCCUPATIONAL        SAFETY AND HEALTH MANUAL
+
+       OSHA, short for the “Occupational Safety and Health Act,” requires employers to
+       provide a safe workplace, accident prevention program, safety training and
+       scheduled safety inspections. Malheur County holds in high regard the safety,
+       welfare and health of its employees.   In April 2002, the Malheur County Court
+       established an Occupational Safety and Health Manual. This manual is available
+       for your review within your individual department. If you can not locate the
+       manual, please request it from your supervisor, Malheur County’s Emergency
+       Services Lieutenant/County Safety Officer or Personnel Officer.
+
+       The safety manual is used as a tool for more effective safety and claims
+       management. A safety committee has been established to coordinate the safety
+       programs and to assist county employees in promoting safe working conditions.
+
+       Approved:     January 1, 2003
+       Revised:
+
+                                                                                       13G
+403-   IDENTIFICATION BADGES
+
+        Any employee desiring a picture identification badge that indicates his/her
+employment with Malheur County may obtain one through the Personnel Officer.        Loss
+or damage to the identification badge should be reported to the Personnel Officer
+immediately. Employees are required to pay for replacement badges. The badge is the
+property of Malheur County and must be returned upon termination of employment.
+
+        Because employee ID badges are also the means by which employees can gain
+access to certain premises, employees must not loan their badges to anyone, including
+other employees. Failure to observe this safety regulation could endanger the safety and
+security of all other employees.
+
+Approved:    = January 1, 2003
+Revised:
+
+                                                                                           37
+                                                                    MALHEURCOUNTY,OR                         2016-0805
+                                                                    MRCOUNTY          COURT
+                                                                    DOCUMENT                      03/10/2016 01:06 PM
+                                                                    Cni=1 Pgs=1                                   Total:$0.00
+
+                                                                                                600008050010014
+                                                                    |, Deborah R. DeLong, County Clerk for Malheur
+                                                                    County, Oregon certify that the instrument identified
+                                                                    herein was recorded in the Clerk records.               a   /
+                                                                            Deborah R. DeLong - County Clerk                        ~: ~
+
+404-   PRE-EMPLOYMENT DRUG TESTING POLICY STATEMENT
+
+POLICY STATEMENT
+
+An applicant for employment with Malheur County may be required to undergo pre-
+employment drug testing. Applicants for positions that designated as safety-sensitive are
+required to undergo pre-employment drug testing for alcohol and drugs, after a conditional
+offer of employment has been extended, and prior to applicant’s performance of a safety-
+sensitive function.   Guidelines for determining if a position is safety-sensitive, testing
+procedures and pre-employment drug testing forms will be kept by the Personnel Officer.
+
+        Approved:     = July 22, 2015
+        Revised:        March 9, 2016
+
+                                                                                                                   138
+                                                                           MALHEURCOUNTY,OR                        2017-0108
+                                                                           NO COMENonT 01/41/2017 10:15 AM
+                                                                           Cnt=1 Pgs=2                                   Total:$0.00
+
+405-      INCLEMENT WEATHER AND CLOSURE POLICY
+                                                                                00040387201 7000                        0020028
+                                                                           |, Deborah R DeLong. County Clerk for Malheur
+                                                                           County, Oregon certify that the instrument identified
+                                                                           herein was recorded in the Clerk records.
+                                                                                   Deborah R. DeLong - County Clerk                Af
+I.        POLICY
+
+The philosophy of Malheur County is that offices and departments will be open except under
+extreme adverse conditions. At times road conditions will make travel in some parts of
+Malheur County inadvisable.       Individual employees need to make whatever decisions are
+necessary for their own safety.     If it is unsafe for you to travel to work, do not.
+
+If conditions are extreme, the County Judge will attempt to make a decision by 5:30 a.m. as to
+whether or not County offices and departments will be open. Announcements will be made
+through local media outlets such as Malheur Enterprise, Argus Observer, KTVB Channel 7, KBO!
+Channel 2, KIVI Channel 6, KSRV (1380 am) and the Malheur County Sheriff’s Office Dispatch
+Center.  Messages may also be sent through the County employee e-mail system, notice on the
+County website, and contact through the County emergency phone chain, text from supervisor
+or alerts (ALERTSENSE).
+
+tl.       PROVISIONS
+
+1.        CLOSURE. When County offices and departments are closed due to inclement weather,
+          as determined by the County Judge, full-time employees will be paid for such time
+          off. Part-time employees will only be paid if normally scheduled to work that day and
+          only for those hours which the employee would normally work. Time absent from work
+          due to closure shall not count as hours worked when computing overtime.
+
+2.        When County offices and departments are open during inclement weather and the
+          County Judge has not issued an announcement of closure, County employees will be
+          expected to make reasonable efforts to get to work.       Employees unable to arrive for
+          work on any such day shall take vacation leave, personal leave or comp. time, if the
+          employee has such leave available. Unpaid leave may be taken only if vacation, comp.
+          time and personal leave is not available.
+                                                  In some circumstances, supervisors may allow
+          employees to make up missed hours of work during the same work week.
+          Employees who are unable to report to work must call their supervisor and report
+          his/her absence as soon as reasonably possible.If employees do not call their
+          supervisor, the absence may be considered unexcused.
+
+                                                                                                                  139
+405-   INCLEMENT WEATHER AND CLOSURE POLICY
+
+3.     CLOSE EARLY. On days when weather conditions worsen as the day progresses, the
+       County Judge may decide to close County offices and departments early. In such cases,
+       a decision and announcement will be made to County employees.                  Employees will be
+       expected to remain at work until the appointed closing time, unless they receive
+       permission from supervisor to leave early and use vacation, personal, comp. time or
+       unpaid leave.   When County offices and departments are closed early, employees who
+       worked the day will be paid through their regular day work ending time.
+
+4.     DELAY START.   Prior to normal starting workday time, the County Judge may announce a
+       delayed scheduled or starting time for County offices and departments. Employees will
+       be expected to make reasonable efforts to get to work at the announced delayed
+       starting time. Employees unable to arrive for work at the delayed time shall use
+       vacation, comp. time or personal leave, if available. Unpaid leave may also be taken if
+       leave is not available. Employees who arrive at the delayed start time will be paid from
+       their normal workday starting time.
+
+5;     Department heads and elected officials should not make a separate decision concerning
+       closure of their County office or department. The County Judge will be the County
+       closure authority due to inclement weather, working closely with County
+       Commissioners, Road Supervisor and Sheriff’s Office/Emergency Services.
+
+6.     County elected officials and department heads outside of the Malheur County
+       Courthouse may temporarily close their offices to the public but remain open for staff
+       when conditions make      office buildings or parking lots difficult to access (i.e. snow not
+       removed).
+
+Ts     In order to avoid confusion with closure of state offices located in the Malheur County
+       Courthouse, the County Judge will make announcements as follows: “Malheur County
+       Government Offices are closed today”; or “Malheur County Government Offices are
+       delayed until ____ am” or “Malheur County Government Offices will close at __a.m./
+       p.m today”.     This means all offices and facilities located in Vale and Ontario.
+
+8.     If the County Judge is not available, this policy may be implemented by a County
+       Commissioner.
+
+Approved:     January 11, 2017
+
+                                              2017-0108                 Page 2 of 2
+                                              MALHEUR COUNTY, ORE
+                                                                  GON
+
+                                                                                                     [4o
+                                  SECTION 500
+                                      FORMS
+                                 Table of Contents
+
+                                                                         Page
+
+501-   Sexual Harassment Complaint Form                                  142
+
+502-   Internal Discrimination/Harassment Complaint Form                 145
+
+503-   Internet and Electronic Mail Acceptable Use Policy Consent Form   151
+
+504-   Computer Policy Consent Form                                      [52
+
+505-   OFLA Bereavetent Leave Request Form                               153
+
+506-   Drug Free Workplace Reasonable Suspicion Observation Form         154
+
+507-   Consent to Test or Search for Drugs or Alcohol Form               157
+
+508-   Policy Manual Acknowledgment Form                                 158
+Form     5ol
+
+                                  Malheur County
+                       Sexual Harassment Complaint Form
+
+   1.   Name:
+
+   2. Supervisor's name:
+
+   3. Name of individual engaging in alleged harassment:
+
+   4.   Position and title of individual named in #3.
+
+   5. Complaint’s relationship to individual engaging in alleged harassment:
+
+        Supervisor 0       Co-Worker     O              Other (specify):   O
+
+   6. Please describe the specific act(s) alleged.
+
+   7. Location(s) of alleged incident:
+
+  8. Date(s) and approximate time(s) of incidents:
+
+1 -Sexual Harassment Complaint Form
+
+                                                                               142
+9. Are there others who have witnessed this behavior or others who
+experienced similar behavior by the individual named above? If so, please
+provide their names(s), indicate if witness or individual with similar experience.
+
+10. Did you tell anyone about your experience after the alleged incident(s)?         If
+so, please provide name(s) and phone number(s).
+
+11. Actions taken, if any, to attempt to stop the harassment.
+
+12.   Have you reported this incident to anyone else?
+
+      YesO           No 0
+
+      Ifyes, withwhom?      UnionO      Attorney         SupervisorO     Other   O
+
+13. What resolution or proposed action would you like to occur to resolve or
+address the harassment?
+
+14. Has there been a personal relationship between you and the accused in the
+past?
+           Yes    O         No O
+     If yes, for how long, when, and how did the relationship end?
+
+2 -Sexual Harassment Complaint Form
+
+                                                                                          lH3
+15.   Additional information and comments:
+
+16.     Have you received a copy of the County’s Sexual Harassment Policy?
+             Yes O          Noo
+
+           If no, please contact the Personnel Officer immediately at: 473-5167.
+
+Date:
+
+Signature:
+               Your signature certifies that the information on this form is true and
+               accurate.
+
+3 -Sexual Harassment Complaint Form
+
+                                                                                        144
+FORM   502
+
+         Malheur County Internal Discrimination/ Harassment Complaint Form
+
+  Instructions
+  Use this form to file a complaint of discrimination/harassment under any of Malheur
+  County’s programs.
+
+  Definitions
+  Discrimination Complaint: Alleges an action was motivated by discrimination.
+
+  Discrimination: Unequal or different treatment on the basis of a protected category
+  established by policy or law.
+
+ Harassment:     Verbal or physical conduct that is derogatory or shows hostility based on a
+  protected category.
+
+ Sexual Harassment: Any unwelcome conduct including but not limited to sexual
+ advances, request for sexual favors and other verbal or physical conduct of a sexual
+  nature that has the purpose or effect of unreasonably interfering with an employee’s
+  work, is the basis for an employment decision or creates an intimidating, hostile or
+  offensive work environment.
+
+  Confidentiality Notice
+  The authority for collecting this information comes from Malheur County’s commitment
+  to provide its employees with a workplace that is free of illegal bias, prejudice and
+  harassment. The information obtained by this form is used to process complaints and
+  conduct investigations of alleged violations of the County’s policies. The information
+  collected may be verified with others who may have knowledge relevant to the
+  complaint. Failure to provide complete information may impede the investigation process
+  and the action that can be taken on your behalf to resolve the issues associated with the
+  complaint. Furthermore, failure to use the internal complaint process may impact your
+  rights to take any legal action on the complaint or associated issues. Alternatives to filing
+  an internal complaint may also be available under applicable collective bargaining
+  agreements. External resources for filing complaints include the State of Oregon Bureau
+  of Labor and Industries Civil Rights Division and the United States Equal Employment
+  Opportunity Commission.
+
+ Page - 1 Discrimination/Harassment Complaint Form
+
+                                                                                                  145
+Non-Retaliation
+Malheur County policies require its managers and supervisors to take all necessary steps
+to assure that there is no retaliation against any person who files a complaint or assists in
+its investigation. This includes any intimidation, threat, coercion or discrimination. Any
+employee involved in retaliatory conduct will be subject to disciplinary action in
+accordance with personnel policy or appropriate collective bargaining agreement.
+
+Prompt filing.
+In order to investigate complaints in a timely manner, Malheur County suggests that
+complaints be filed within 30 days of the event that gave raise to the complaint.
+
+Complainant Information:
+
+1. Today’s Date:
+
+2. Your Name:
+
+3. Persons Alleged to have discriminated or harassed you:
+
+4. List of Witnesses. Next to each name briefly describe type of information witness can
+provide:
+
+Page - 2 Discrimination/Harassment Complaint Form
+
+                                                                                                IY lo
+5. List date(s) of each alleged discriminatory/harassing act(s):
+
+6. Check the category or categories you believe to be the basis of the
+discrimination/harassment against you. If you believe that there is more than one basis,
+more than one category may be checked:
+
+ Color                     Race   Religion           Disability
+
+ Sex (male or female)                        Political Affiliation   Age
+
+ National Origin           Sexual Orientation                 Sexual harassment
+
+ Marital Status            Familial Status
+
+ Other (please specify):
+
+7. If your complaint is related to race, national origin or religion, please state your group
+of identification for which you are alleging race, national origin or religious
+discrimination.    For example, White, Latino, Asian, American Indian, Muslim, Jewish etc
+
+Group of identification:
+
+Page - 3 Discrimination/Harassment Complaint Form
+
+                                                                                                47
+8. Check the category or categories below that best represent the area of your concern:
+
+ Accommodation            Layoff            Seniority       Demotion         Termination
+
+ Opportunity      Facility Access           Pregnancy Leave       Training
+
+ Hiring           Job Assignment            Treatment       Work Environment
+
+ Job Benefits     Wages             Religious Observation
+
+Other (please specify):
+
+9. Do you know of any other employee, applicant of individual who was treated in the
+same way as you allege you were treated?
+
+          Yes   If yes, include names:
+
+          No
+          Don’t know
+
+Page - 4 Discrimination/Harassment Complaint Form
+
+                                                                                           148
+Statement of Complaint
+For each issue above, explain in your statement of complaint how you were discriminated
+against, harassed or denied an accommodation.      Describe in detail the alleged
+discriminatory/harassing acts. Please include the following points:
+
+* Why you believe the acts(s) was based on a reason protected by policy or law.
+* Dates, places, names and titles of persons involved and witnesses, if any.
+¢ What discriminatory act(s) took place.
+* Describe any explanations, if any, that was offered for the acts that occurred; and
+* Any and all information you can provide that supports your allegations.
+* If this is a complaint based on disability, describe your request for reasonable
+  accommodation and the explanations given regarding your request.
+
+(AN ADDITIONAL SHEET MAY BE ADDED TO PROVIDE FURTHER INFORMATION)
+
+Page - 5 Discrimination/Harassment Complaint Form
+
+                                                                                          44
+10. How would you like the matter resolved?
+
+Signature and Verification
+I have reviewed and read this document and to the best of my knowledge all information
+it contains is true and correct.
+
+Signature of Complainant                                                         Date
+
+Page - 6 Discrimination/Harassment Complaint Form
+
+                                                                                         Role)
+FORM   503
+
+104 - INTERNET AND ELECRONIC               MAIL ACCEPTABLE USE AND RETENTION
+POLICY      continued
+
+                   MALHEUR COUNTY EMPLOYEE CONSENT FORM
+
+       I have reviewed Malheur County’s Internet and Electronic Mail Acceptable Use Policy.               I
+       understand that all computer equipment, as well as all information transmitted, received,
+       or stored in these systems, is the property of the County.
+
+       I understand that such systems are to be used solely for job-related purposes, not for
+       personal purposes, and that I have no expectation of privacy in connection with the use of
+       this equipment or the transmission, receipt, or information stored in such equipment.
+
+       I understand and agree not to use a code, access a file, or retrieve any stored
+       communication unless authorized; and J also acknowledge and consent to the County’s
+       monitoring my use of this equipment.
+
+       T understand that violation of this policy could result in disciplinary action, up to and
+       including termination. I agree to abide by the policy as a condition of continued
+       employment with the County.
+
+Print Employee Name
+
+Signature of Employee
+
+Date
+
+Approved:       December 15, 1998
+Revised:        April 11, 2002; March 1, 2004; November 30, 2016
+
+                                                                                                   151]
+       FORM 504
+
+                   MALHEUR        COUNTY EMPLOYEE            CONSENT FORM
+
+        I have reviewed Malheur County’s Workplace Computer Policy. I understand
+        that all computer equipment, as well as all information transmitted, received, or
+        stored in these systems, are the property of the County.
+
+        I understand that such systems are to be used solely for job-related purposes, not
+        for personal purposes, and that I have no expectation of privacy in connection
+        with the use of this equipment or the transmission, receipt, or information stored
+        in such equipment.
+
+        I understand and agree not to use a code, access a file, or retrieve any stored
+        communication unless authorized; and I also acknowledge and consent to the
+        County’s monitoring my use of this equipment.
+
+        I understand that violation of this policy could result in disciplinary action, up to
+        and including termination. I agree to abide by the Workplace Computer policy as
+        a condition of continued employment with the County.
+
+Print Employee Name
+
+Signature of Employee
+
+Date
+
+Approved:    | December 15, 1998
+Revised:       January 1, 2003
+
+                                                                                          pay
+     FORM   505
+
+                        OFLA BEREAVEMENT LEAVE REQUEST FORM
+
+Employees should use this form to request time off for funeral/bereavement leave under OFLA.
+This leave can be for up to two weeks of leave. An employee may use leave accruals such as
+vacation, sick, and personal during this period.
+
+Employee Name:
+
+Relationship of Family Member (Choose One):
+
+O spouse                                   o foster parent                Q loco parentis relationship
+0 same-gender domestic partner             O biological parent            oO child of employee
+O custodial parent                         O parent-in-law                a child of same-gender
+0 non-custodial parent                     0 parent of domestic partner    domestic partner
+O adoptive parent                          O grandparent                  O other:
+                                           0 grandchild
+
+Date of Knowledge of Death:
+
+Beginning Date of Leave:
+
+Date Returning to Work:
+
+If leave will be taken on an intermittent basis, please provide schedule here:
+
+Employee’s signature              date
+
+O           Approved leave under OFLA.
+
+Oo          Not approved for leave under OFLA for the following reason:
+
+            Signed by Personnel Officer:
+
+                                                                                                   IS3
+     FORM      506
+
+                                                Drug Free Workplace
+                                                 Malheur County, Oregon
+
+                                        Reasonable Suspicion Observation Form
+                                                 (Strictly Confidential)
+
+Date/Time of Incident                                                      Print Employee Name
+
+Print Name of Supervisor                                                   Print Name of Witness
+                                                                           Corroborating Observations
+
+This checklist is to be complete when documenting an incident which provides reasonable
+suspicion that an employee has drugs or alcohol present in his or her body or possess drugs and
+alcohol while at work, on county property or operating county vehicles or equipment.
+
+        Mark each applicable item on this form and any additional facts or circumstances
+
+Nature of Incident/Cause for Suspicion
+
+1                          Observed/reported/admission possession or use of alcohol or drugs.
+                      ao
+            OoOoOodadoa
+
+2.                         Apparent drug or alcohol intoxication.
+2.                         Observed abnormal or erratic behavior.
+4                          Arrest or conviction of drug-related offense.
+2)                         Other (e.g., flagrant violation of safety regulations, serious misconduct, fighting
+                           or argumentative/abusive language, refusal of supervisor instruction,
+                           insubordination or unauthorized absence on the job.) Please specify:
+
+                                                                                                            154
+ Unusual Behavior
+
+  1.            O             Verbal abusiveness.
+ 2.             Oo            Physical abusiveness.
+ 3.             Oo            Extreme aggressiveness or agitation.
+ 4.             Oo            Withdrawal, depression, mood changes or unresponsiveness.
+ Be             O             inappropriate verbal response to questioning or instructions.
+ 6.             0             Unexplained absences from normal work area and reason to suspect drug or
+                              alcohol related activity.
+ 7              O             Unexplained deterioration in individual job performance.
+                O             Unexplained or suspicious absenteeism or tardiness.
+ 9              Oo            Other erratic or inappropriate behavior (e.g., hallucinations, disorientation,
+                              excessive euphoria or confusion.    Please specify:
+
+ Physical Signs or Symptoms
+
+                O             Possessing, dispensing, or using controlled substance.
+                              Slurred, incoherent or confused speech.
+            O
+
+                              Unsteady or other loss of physical control; poor coordination or reflexes;
+ee)
+
+            O
+
+                              swaying; staggering; falling; stumbling; arms raised for balance.
+                              Dilated or constricted pupils or unusual eye movement.
+       ONDooagaooaooooaoood
+
+                              Bloodshot or watery eyes.
+                              Extreme fatigue; sleeping on the job; stupor.
+                              Excessive sweating or clamminess to the skin.
+                              Flushed or very pale face.
+                              Highly excited or nervous.
+                              Nausea or vomiting:
+S
+
+                              Odor of alcohol.
+                              Odor of marijuana.
+                              Dry mouth (frequent swallowing/lip wetting).
+                              Dizziness or fainting.
+                              Shaking hands or body tremors/twitching.
+                              Irregular or difficult breathing.
+                              Runny nose or sores around nostril.
+
+                                                                                                               155
+18     O      Consistently wearing sunglasses indoors.
+19,    ei)    Confused, paranoid.
+20.    Oo     Puncture marks or “tracks”.
+21.    O      Other.   Please specify:
+
+Written Summary
+
+Please summarize the facts and circumstances of the incident, employee response, supervisor
+actions and any other pertinent information not previously noted. Attach additional sheets or
+continue on back if needed.
+
+Signature supervisor                                                date/time
+
+Signature witness                                                   date/time
+
+                                                                                                156
+ FORM   507
+
+              CONSENT TO TEST OR SEARCH FOR DRUGS OR ALCOHOL
+
+Name of Employee:
+
+Date:
+
+TEST:
+
+I consent to submit to a urinalysis, blood or breathe test as determined by Malheur County for the
+purpose of determining if any drugs and/or alcohol are present in my body.
+
+I agree that BioMed or                                   (name of hospital) may collect
+specimens from me for these tests and may test them or forward them for analysis to a certified
+testing laboratory designated by BioMed.
+
+I agree to and hereby authorize the release of the results of said test to a Medical Review Officer
+and to duly-authorized representatives of Malheur County, who will protect and maintain the
+confidentiality of such information to the greatest extent possible; and who will share such
+information only to the extent necessary to make employment decisions.
+
+I agree that a copy of this consent shall have the same force and affect as the original.
+
+I received and read Malheur County’s Drug and Alcohol Free Workplace Policy.          I understand
+that failure to consent or cooperate to a drug or alcohol test or confirmed positive result for drugs
+and alcohol may lead to discipline up to and including termination.
+
+SEARCH:
+
+In accordance with Malheur County’s Drug and Alcohol Free Workplace Policy, which I
+received and read, I consent to a search of my desk, outer-garment clothing, lunchbox and
+personal possessions located on County property. I understand that my refusal or failure to
+cooperate in a search will result in discipline up to and including termination.
+
+Signature of Employee                  date            Signature of Witness
+
+Signature of Supervisor
+
+                                                                                              IST
+FORM 508-              MANUAL ACKNOWLEDGEMENT
+
+       I have read a copy of the Malheur County Employee Manual.
+
+       I understand as follows:
+
+e   This Manual represents a brief summary of some of the more important Malheur
+    County policies. Consequently, the Manual is not all inclusive.
+
+e   Malheur County retains the sole right in its business judgment to modify, suspend,
+    interpret, or cancel in whole or in part, at any time, and with or without notice, any of
+    the published or unpublished policies or practices.
+
+e   The contents of this Manual do not constitute an express or implied contract of
+    employment.
+
+Employee Name (print)
+
+Employee Signature                             Date
+
+                                                                                            158
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.9% of
+the word sequence, and on 79.6% of the figures. Dictionary-recognizable words: 95.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,2533 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-09-004-code-compliance-and-nuisance-abatement-ordinance-4-15
+title: '09-004 Code Compliance and Nuisance Abatement Ordinance 4-15-2009'
+doc_type: ordinance
+citation: '09-004 Code Compliance and Nuisance Abatement Ordinance 4-15-2009'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-004%20Code%20Compliance%20and%20Nuisance%20Abatement%20Ordinance%204-15-2009.pdf?t=202503260855090
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a6a125b42657a78f10ad276721f76d1d7d1702051e39cd4a115dd32e2ca8d81c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.985; figure agreement 0.713; dictionary ratio 0.977. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.185
+    - ORS 223.510
+    - ORS 30.460
+    - ORS 34.010
+    - ORS 459.386
+    - ORS 459A.725
+    - ORS 466.005
+    - ORS 82.010
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# 09-004 Code Compliance and Nuisance Abatement Ordinance 4-15-2009 (09-004 Code Compliance and Nuisance Abatement Ordinance 4-15-2009)
+
+## At a glance
+
+OCR-derived text of 09-004 Code Compliance and Nuisance Abatement Ordinance 4-15-2009. Not human-verified.
+
+## Full text
+
+|  Oe
+   HD
+   BP                                                                   FILED
+                                                                    WASCO COUNTY
+
+                                                                   201 APR 29 Pt: 23
+                                                                 KAREN LEBRETON COA
+                                                                     COUNTY CLERK qs
+
+                    IN THE COUNTY COURT OF THE STATE OF OREGON
+   HO
+
+                            IN AND FOR THE COUNTY OF WASCO
+   DoD
+
+         IN THE MATTER OF THE ADOPTION OF THE                  )
+   on
+
+         WASCO COUNTY CODE COMPLIANCE AND                      ) ORDINANCE
+         NUISANCE ABATEMENT ORDINANCE.                         ) No. 09-004
+   o
+   OS
+
+                WHEREAS, the Wasco County Planning & Development Department
+meet
+   KF
+
+         has requested adoption of a unified nuisance ordinance to supersede the
+   KH
+
+         Wasco County Solid Waste and Disposal Ordinance, Chapter 102, Section 020,
+   WH
+
+         Abatement of Nuisances; Wasco County Land Use and Development Ordinance
+   Ff
+
+         Chapter 15, Sections 010 through 190; and Wasco County National Scenic Area
+ee
+   NH
+   DBD
+
+         Land Use and Development Ordinance Chapter 15, Sections 030 through 190;
+   HT
+
+         and
+mm
+   SO
+
+                WHEREAS, on March 4, 2009, the Wasco County Planning &
+   OBO
+
+         Development Department held a legally notified public workshop with the
+   OF
+
+         Wasco County Court, at the County Courtroom, Room 202, of the Wasco
+   &—&
+NR
+
+         County Courthouse, The Dalles, Oregon, to review back ground information
+   HH
+wR
+
+         and County Court options for the purpose of identifying preferred options and
+   WO
+DB
+   eB
+
+         any potential need for additional information prior to the April 1, 2009, Public
+BB
+   uw
+NH
+
+         Hearing; and
+ey
+   a
+
+Page
+         1 - ORDINANCE
+
+                                                          Lh 09- W2MED
+             WHEREAS, the Wasco County Court met at the hour of 10:00 a.m. on
+
+       Wednesday, April 1, 2009, in the Wasco County Courtroom, Room 202, of the
+
+       Wasco County Courthouse, in The Dalies, Oregon, for a legally notified Public
+WwW
+
+       Hearing on the Wasco County Planning      & Development Department's request
+ ER
+
+       for adoption of the Wasco County Code Compliance and Nuisance Abatement
+ MH
+ OHO
+
+       Ordinance to supersede the Wasco County Solid Waste and Disposal
+ SV
+
+       Ordinance, Chapter 102, Section 020, Abatement of Nuisances; Wasco County
+ woe
+
+       Land Use and Development Ordinance Chapter 15, Sections 010 through 190;
+ wo
+
+       and Wasco County National Scenic Area Land Use arid Development Ordinance
+10
+11     Chapter 15, Sections 030 through 190.   The Court reviewed the record, heard
+
+12     the Staff recommendation and all relevant testimony from the parties,
+
+13     reviewed the proposed Ordinance and made recommendations for changes to
+14     the proposed Ordinance for further consideration at the continuation of the
+15
+       Public Hearing on April 15, 2009; and
+16
+              WHEREAS, the Wasco County Court met at the hour of 10:00 a.m. on
+17
+       Wednesday, April 15, 2009, in the Wasco County Courtroom, Room 202, of
+18
+19     the Wasco County Courthouse, in The Dalles, Oregon, for the continuation of
+
+20     the Public Hearing on the adoption of the Wasco County Code Compliance
+
+21     and Nuisance Abatement Ordinance.       The Court reviewed the record, heard
+22
+       the Staff recommendation and all relevant testimony from the parties, then
+23
+       deliberated on the Wasco County Planning & Development Department's
+24
+       request for adoption of the Wasco County Code Compliance and Nuisance
+25
+
+26     Hl
+
+Page
+       2 - ORDINANCE
+
+                                       oe              (23009-0142. (53)
+     1   Abatement Ordinance to supersede the Wasco County Solid Waste and
+
+    2    Disposal Ordinance, Chapter 102, Section 020, Abatement of Nuisances; Wasco
+
+ 3       County Land Use and Development Ordinance Chapter 15, Sections 010
+
+ 4       through 190; and Wasco County National Scenic Area Land Use and
+
+ 5       Development Ordinance Chapter 15, Sections 030 through 190.
+
+ 6               NOW, THEREFORE       IT IS HEREBY ORDAINED BY WASCO COUNTY
+
+    7    AS FOLLOWS:
+
+ :               1.      That the request by the Wasco County Planning & Development
+
+10       Department for adoption of the attached and hereto incorporated Wasco
+
+11       County Code Compliance and Nuisance Abatement Ordinance is approved as
+
+12       amended by a vote of 3 to 0; said Ordinance will supersede the Wasco County
+
+13       Solid Waste and Disposal Ordinance, Chapter 102, Section 020, Abatement of
+
+14       Nuisances; Wasco County Land Use and Development Ordinance Chapter 15,
+
+8        Sections 010 through 190; and Wasco County National Scenic Area Land Use
+
+.        and Development Ordinance Chapter 15, Sections 030 through 190; and
+
+18               2.      That the Wasco County Code Compliance and Nuisance
+
+19       Abatement Ordinance shall take effect on July 14, 2009, which is 90 days after
+
+20       its adoption.
+
+a1       Ml
+22       wll
+23
+         Ht
+24
+95       Hl
+
+26       Hill
+
+Pagell   3 - ORDINANCE
+
+                                                             3009-02)
+              Regularly passed and adopted by the County Court of the County of
+
+       Wasco, State of Oregon, this 15" day of April, 2009.
+ BD
+
+                                          WASCO COUNTY COURT
+ WO
+ f&
+ uo
+
+                                          Dan Ericksen,         Judge
+
+                                            eau               voll      dep
+ nD
+
+                                          Sherry Holliday\County Commissichier
+
+                                        “Bel Piure
+ wo
+ o
+
+                                          Bill Lennox, County Commissioner
+10
+il
+       APPROVED AS TO FORM:
+12
+13
+        <= \. Nisley
+14     Wasco County District Attorney
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+Page
+       4 - ORDINANCE
+
+                                                              J3009- 0102- (5%
+                DETAILED TABLE OF CONTENTS
+
+            CHAPTER 1   INTRODUCTORY PROVISIONS
+
+SECTION   TITLE                                                    PAGE
+1.010     AUTHORITY                                                1-1
+1.020     TITLE                                                    1-1
+1.030     PURPOSE                                                  1-1
+1.049     INTERPRETATION                                           1-1
+1.050     SCOPE                                                    1-2
+1.060     ADMINISTRATION AUTHORITY AND RESPONSIBILITY              1-2
+1.070     PRIVATE RIGHT OF ACTIONICIVIL PENALTY                    1-2
+1.080     SEVERABILITY                                             1-2
+1.090     REPEAL                                                   1-3
+1.100     SAVING CLAUSE                                            1-3
+1.110     EFFECTIVE DATE                                           1-3
+1.120     DEFINITIONS                                              1-3
+
+                                           Chapter 1 — introductory Provisions
+                                           July 14,
+                                                      (ROOF _ DAs»
+                                                                                                   Page 1-1
+
+                        CHAPTER 1 INTRODUCTORY PROVISIONS
+
+SECTION 1.010 Authority
+This Ordinance is enacted         pursuant   to the   provisions   of Oregon        Revised     Statutes
+Chapters 92, 197, 203, 215, 433, 449, 459 and           Public Law 99-663.          It also adopts         by
+reference the National Scenic Area Land Use and Development Ordinance and the Wasco
+County Land Use and Development Ordinance.
+
+Some     of the language in this ordinance duplicates that from the National Scenic Area
+Land Use and Development Ordinance and the Wasco County Land Use and
+Development Ordinance. In the event this duplicative language is altered the language in
+the amended Land Use and Development ordinance shall apply until this ordinance can
+be updated.
+
+SECTION 1.020 Title
+This Ordinance shall be known        as the Wasco     County Code     Compliance       and Nuisance
+Abatement Ordinance.
+
+SECTION 1.030 Purpose
+To protect: the health, safety, and general welfare of Wasco County citizens; to conserve,
+stabilize, and protect property values; and to preserve and enhance community livability
+by:
+
+A. Establishing     an administrative framework for the enforcement             and    abatement           of
+      nuisances;
+
+B. Establishing and enforcing minimum standards regulating the accumulation of
+   waste, solid waste, tires, and inoperable or abandoned vehicles on public and
+      private property; and by,
+
+C. Designating violations of the Wasco Land Use and Development Ordinance (LUDO)
+   and National Scenic Area LUDO as nuisances that require enforcement action and
+   abatement.
+
+SECTION 1.040 Interpretation
+The provisions of this Ordinance shall be liberally construed to affect the purpose. These
+provisions are declared to be the minimum requitements to fulfill objectives stated in the
+Purpose above.       When   conditions herein imposed     are less restrictive than comparative
+provisions imposed by any other provision of this Ordinance by resolution of State Law or
+State Administration regulations, then the more restrictive shall govern.
+
+                                                                     Chapter 1 ~ Introductory Provisions
+                                                                     July14, 2009
+                                                                           <AOO F — VF                          (sD
+Page 1-2
+
+SECTION 1.050 Scope
+The provisions of this Ordinance shall apply to all unincorporated property in Wasco
+County except        as otherwise     excluded.    The    Solid Waste     provisions of this Ordinance
+shall apply to all property in Wasco County.
+
+The remedies provided for failure to comply with this Ordinance shall not be exclusive
+and shall be in addition to other remedies provided by law. The County expressly
+reserves the right to seek abatement in addition to and not in lieu of administrative
+enforcement under Chapter 3.
+
+SECTION 1.060 Administration Authority and Responsibility
+The County Court is hereby authorized to administer and enforce all of the provisions of
+this Ordinance. The County Court may employ qualified officers, inspectors, assistants,
+and other employees as shall be necessary to carry out the provisions of this
+Ordinance. Such County staff persons shall have full power and authority to do any and
+all   things    necessary,     incidental   or   proper   in   the   enforcement    of   said   ordinance,
+excluding the power to arrest. The authority of the designated Compliance Officer to
+enforce the provisions of this Ordinance is independent of, and in addition to, the
+authority of other County officials to enforce the provisions of any other County Code.
+
+SECTION 1.070 Private Right of Action /Civil Penalty
+Pursuant to ORS 215.185, a person whose interest in real property in the county is or
+may be affected by the violation, may, in addition to other remedies provided by law,
+institute injunction, mandamus, abatement, or other appropriate proceedings to prevent,
+temporarily or permanently enjoin, abate, or remove the unlawful location, construction,
+maintenance, repair, alteration, or use.
+
+In addition to any other penalty provided herein, any person creating or maintaining a
+nuisance       may   be liable for damages        to any person      injured thereby.    Damages     could
+include attorney fees and costs incurred by the plaintiff in maintaining an action to
+recover damages and any action to abate the nuisance. No action shall be maintained
+against the County for failure to abate a nuisance under this ordinance.
+
+SECTION 1.080 Severability
+The    provisions of this Ordinance         are severable.       If any section,   sentence,    clause,   or
+phrase of this Ordinance is adjudged to be invalid by a court of competent jurisdiction, that
+decision shall not affect the validity of the remaining portions of this Ordinance.
+
+sata. 200 Introductory Provisions                                         Jb        0    G- DQ Y 9 2.          C 53)
+                                                                                                            Page 1-3
+
+SECTION 1.090           Repeal
+The following ordinances, together with all amendments thereto are hereby superceded or
+repealed:
+
+Wasco County Solid Waste and Disposal Ordinance, Chapter 102, Section 020,
+Abatement of Nuisances; Wasco County Land Use and Development Ordinance Chapter
+15, Sections 010 through 190; and National Scenic Area Land Use and Development
+Ordinance Chapter 15, Sections 030 through 190.
+
+SECTION 1.100 Saving Clause
+Notwithstanding the Repeal section above, ordinances repealed thereby shall remain in
+force for the purpose of authorizing the arrest, prosecution, conviction and punishment
+of a person who violated those ordinances prior to the effective date of this ordinance.
+
+SECTION         1.110   Effective Date
+This        Ordinance   shall    become   effective   when   filed     with   the    Wasco      County      Clerk.
+Amendments hereto, unless otherwise specified, shall become                         effective when     filed with
+the County Clerk.
+
+SECTION 1.120 Definitions
+For the purpose of this Ordinance, certain words and terms are defined as follows. Words
+used in the present tense include the future.            Words in the singular number include the
+plural. Words in the plural include the singular. The word "Building" includes the word
+"Structure". The word "Shall" is mandatory and not directory.
+
+Abandoned Vehicle - A vehicle which satisfies one of the following criteria:
+
+       a.   The vehicle is not currently licensed and registered for operation;
+
+       b.   The vehicle is being used to store junk, solid waste, or waste as defined in this
+            section; or
+
+       c. The vehicle has parts which have been discarded, dismantled, or partially
+          dismantled, or stripped, or the vehicle is in a rusted, damaged, wrecked or other
+          condition which renders the vehicle inoperable.
+
+Abatement         of a Nuisance      - The act of removing,          repairing, or taking other steps as
+may be necessary in order to remove a nuisance.
+
+                                                                              Chapter 1 — Introductory Provisions
+
+                                                                     D300¢- 019% (5%
+Page 1-4
+
+Administrative Civil Penalty - May include a monetary penalty, restitution, costs and
+assessments, and an order of abatement.
+
+Approved - Meets the standards set forth by applicable Wasco County codes, including
+any applicable        regulations for electric, plumbing,             building, or other sets of standards
+included by reference in this Ordinance.
+
+Compliance Officer - The Wasco County Planning Director, or their designee, or the
+Environmental Health Officer, or their designee, or any other person designated by the
+County Court to enforce this Ordinance.
+
+Compliance Notices and Compliance Orders — Documents that are sent to the owner
+of record or person in charge of property during and after the code compliance process.
+They       include   but    are   not   limited   to:   Notice   of    Violation,   Notice        of     Failure   to
+Comply/Administrative Civil Penalty, Notice of Abatement Cost, Notice of
+Summary Abatement, Order to Correct and all forms of Order to Abate Nuisance.
+
+Conditions of Approval - Specific requirements that must be fulfilled by the property
+owner to insure the legality of a proposed development or action.
+
+Conditional Use - An activity which is basically similar to the uses permitted in a particular
+zone but which may not be entirely compatible with the permitted uses. A conditional use
+must be approved.
+
+County - The County of Wasco, Oregon.
+
+County Charges -— Includes all billable hours, fees, services, materials, or any expense
+incurred by the County due to a nuisance violation.
+
+County Court - The County Court (Commissioners) of Wasco County, Oregon.
+
+Development           -    Development       includes     any    man-made       change       to        improved    or
+unimproved real estate, including but not limited to: construction, installation or change
+of a building or other structure; change in use of a building or structure; land division;
+establishment, or termination of right of access; storage on the land; tree cutting;
+drilling; and site alteration, such as that due to: land surface mining; dredging; filling;
+grading; excavation; construction of earthen berms; paving; clearing; or improvements
+for use as parking.
+
+Disabled Vehicle - Any vehicle which is inoperative, wrecked or dismantled, or partially
+dismantled.
+
+Dwelling - Any structure containing dwelling units, including all dwelling classifications
+covered by the LUDO or NSA LUDO.
+
+chameer
+Chapter 1 — Introductory Provisions
+                                                                             J-1007~ Wkgevas>)
+                                                                                              Page 1-5
+
+Dwelling Unit - One or more habitable rooms (attached or detached) that are occupied
+by, or designed or intended to be occupied by, one person or by a family or group of
+housemates living together as a single housekeeping unit that include facilities for
+sleeping, cooking, and sanitation.
+
+Gorge Commission - The Columbia River Gorge Commission, as established by Public
+Law 99-663, the Columbia River Gorge National Scenic Area Act.
+
+GMA - General Management area of the Columbia River Gorge National Scenic Area.
+
+Health Officer - The Wasco-Sherman County District Health Unit Officer or Environmental
+Health Officer.
+
+Hearings Officer — Individual or group appointed: by the County Court to issue orders and
+hear appeals of enforcement actions initiated under this Ordinance.
+
+Hearings Officer Order — A written decision which requires an owner or person in charge
+of property to meet the requirements of Compliance     Notices or Compliance Orders and
+pay all penalties, abatement costs, fees, and County charges.
+
+Home    Occupation    - Any lawful activity carried on within a dwelling or other building
+normally associated with uses permitted in the zone and which said activity is secondary to
+the primary use of the property for residential purposes consistent with the LUDO                     or
+NSALUDO Home Occupation provisions.
+
+Inspection     Warrant    - An    order  from   the  Circuit  Court  authorizing   an
+inspection/investigation to be conducted at a designated property to determine if the
+property is in violation of this ordinance.
+
+Junk - Includes, but is not limited to, all old motor vehicles, old motor vehicle parts,
+abandoned automobiles, old machinery, old machinery parts, old appliances or
+appliance parts, old iron or other metal, glass, paper, lumber, wood or other waste or
+discarded material. For purposes of this subsection, the term “old” shall include, but not
+be limited to, a description of iterms which are dilapidated, abandoned,          inoperable, or
+otherwise in a state of disrepair.
+
+Key Viewing Area (KVA) - Those portions of important public roads, parks or other
+vantage points within the Scenic Area from which the public views as scenic landscapes.
+These include:
+
+   —Historic Columbia River Highway
+   Crown Point
+   Highway I-84, including rest stops
+
+                                                                Chapter 1 - Introductory Provisions
+
+                                                           12009- bfe>. (83)
+Page 1-6
+
+    Multnomah        Falls
+    --Washington State Route 14
+    ~-Beacon Rock
+    --Panorama Point Park
+    --Cape Hom
+    --Dog Mountain Trail
+    --Cook-Underwood Road
+    --Rowena Plateau and Nature Conservancy Viewpoint
+    --Portland Women's Forum State Park
+    --Bridal Veil State Park
+    --Larch Mountain
+    --Rooster Rock State Park
+    --Bonneville Dam Visitor Centers
+    --Columbia River
+    --Washington State Route 141
+    --Washington State Route 142
+    --Oregon Highway 35
+    --Pacific Crest Trail
+
+    Special Management Area (SMA) only:
+    --Old Washington State Route 14 (County Road 1230)
+    -Wyeth Bench Road
+    --Sherrard Point on Larch Mountain
+
+LUDO - The Wasco County Land Use and Development Ordinance.
+
+Maintained Compost Area - A small portion of a property set aside for the purpose of
+encouraging the rapid decomposition of yard debris and other vegetable matter into a
+suitable fertilizer for the soil on the property.   A maintained compost area shows clear
+indicators that the yard debris placed there is being actively managed to encourage its
+rapid decomposition. Possible signs of such active management may include evidence
+of regular turning, a mixture of yard debris types, any woody materials present having
+been chopped into small sizes, and the presence of internal heat in the composting
+mixture. A location where yard debris is placed primarily as a means to store it or dump
+it without reasonable expectation of rapid decomposition is not a maintained compost
+area.
+
+May - Permits or allows an action.
+
+Motor Vehicle - A vehicle that is self-propelled or designed for self-propulsion.
+
+Non-Resource Zones - Zones whose primary designations include, but are not limited
+to, residential, commercial and industrial development. These designations include all
+
+Chapter 1 Introductory Provisions
+                                                                 3      OOF - O Fo CG: sa
+                                                                                                        Page 1-7
+
+residential,     commercial,   industrial   zones    as well   as    the   Forest      Farm,     Agricultural
+Recreation, Rural Community, Public Recreation and Open Space designations.
+
+Not Visually Evident (Special Management Area only) - A visual quality standard that
+provides for development or uses that are not visually noticeable to the casual visitor.
+Developments or uses shall only repeat form, line, color, and texture that are frequently
+found in the natural landscape, while changes in their qualities of size, amount,
+intensity, direction, pattern, etc., shall not be noticeable.
+
+NSA LUDO         - National Scenic Area Land        Use and Development Ordinance for Wasco
+County.
+
+Nuisance - Includes, but is not limited to, any annoying, unpleasant, or obnoxious
+condition or practice causing an unreasonable threat to the public health, safety, peace
+or welfare and defined as a nuisance in this ordinance.
+
+Nuisance Abatement Warrant - An order from the Circuit Court authorizing the
+removal and abatement of any nuisance as authorized by this ordinance, including
+disposal of the nuisance items removed in an appropriate manner.
+
+Nuisance        Illegal Use - Uses of real property which           are not in compliance with NSA
+LUDO or LUDO or The Wasco County Solid Waste Ordinance. These include, but are
+not limited to: illegal dwellings; illegal accessory structures; illegal businesses; illegal
+home occupations and illegal parking lots.
+
+O.R.S. - The Oregon Revised Statutes.
+
+Order to Abate - A written notice sent to the owner of real property, and/or posted upon
+any property that has been declared a nuisance, that orders the owner to abate the
+nuisance within a specified time frame or experience abatement of the nuisance by Wasco
+County.     Abatement by the County results in the assessment of costs to the owner of the
+property.
+
+Order to Correct - A written notice sent to the owner of real property that has been
+declared a nuisance that orders the owner to correct the declared violation or experience
+administrative civil penalties and/or abatement of the nuisance by Wasco County.
+
+Owner of Record - The individual, firm, association, syndicate, partnership, or corporation
+whose name and address is listed as the owner of a property by the County Tax
+Assessor on the County Assessment and Taxation records.
+
+Partition      Land   - To divide an area or tract of land      into two or three parcels within a
+calendar year when such area or tract of land exists as a unit or contiguous units of land
+under single ownership at the beginning of such year.                “Partition land" does not include
+
+                                                                           Chapter 1 - Introductory Provisions
+                                                                           July 14, 2009
+
+                                                                             (RO09- (14d. C53)
+Page 1-8
+
+divisions of land resulting from the creation of cemetery lots, and "partition land" does not
+include any adjustment of a lot line by the relocation of a common boundary where any
+additional parcel is not created and where the existing parcel reduced in size by the
+adjustment is not reduced below the minimum lot size established by an applicable zoning
+ordinance. "Partition land" does not include the sale of a lot in a recorded subdivision,
+even though the lot may have been acquired prior to the sale with other contiguous lots or
+property by a single owner.
+
+Permit - Written authorization from a county agency which allows a property owner to
+develop or use their property in a specified manner.
+
+Person - Includes individuals, corporations, associations, firms, partnerships and joint
+stock companies.
+
+Person in Charge of Property - An owner, agent, occupant, lessee, tenant, contract
+purchaser, or other responsible person having possession or control of a property or of
+a property which abuts a public way where a nuisance exists.
+
+Posting a Property - The display of any written notice, authorized             by this ordinance,
+upon any property deemed to be in violation of this ordinance.
+
+Property - Any real property and all improvements,              buildings or structures on real
+property, from property line to property line.
+
+Property Lines - The lines bounding a property as defined herein.
+
+Putrescible Material - Organic material that decomposes               and   gives    rise to foul or
+offensive odors, or foul or offensive by-products.
+
+Residential Rental Property - Any property within the County containing one or more
+dwelling units which are not occupied as the principal residence of the owner.
+
+Recreational Vehicle or Camping Vehicle - A vacation trailer or other unit with or without
+motive power which is designed for human occupancy and to be used temporarily for
+recreational or emergency purposes, but not for residential purposes, and is identified as a
+recreational vehicle by the manufacturer.         A recreational or camping         vehicle shall be
+considered a dwelling unit if any of the following is true:
+
+     a.    It is connected to a sewer system (including septic tank) except for the purpose of
+           emptying the holding tanks; after such time it must be disconnected;
+
+     b.    It is connected to water or electrical lines except for purposes of charging the
+           batteries or filling water tanks; after such time it must be disconnected;
+
+Chapter 1 — Introductory Provisions
+July 14, 2009
+                                                                       J:MOF            ~- O/ G > C53)
+                                                                                                       Page 1-9
+
+           NOTE: Allowances can be made for subsections a and b above if in the
+           opinion of the Compliance Officer evidence suggests that the use of the RV is
+           occasional and temporary for the purpose of accommodating visitors
+
+   c.   It is occupied for more than 60 days, on the same property, in any consecutive 12
+        month period;
+
+   d.   It is parked on property that is without a legally placed dwelling for more than 30
+        days during any 6 month period.
+
+Resource       Zones   - Zones   primarily designated    for farm   or forest use.         The    zoning        is
+designed to protect commercial farming and forestry operation from incompatible uses. In
+the event of a conflict between farming or forestry operations and other uses, this
+Ordinance will be interpreted in favor of the resource management practice.
+
+Sale or Sell - Includes every disposition or transfer of land in a subdivision or partition or
+an interest or estate therein.
+
+Scenic Area - The Columbia River Gorge National Scenic Area.
+
+Scenic Area Review - A development review process, conducted by the Wasco County
+Planning Department under the requirements of the National Scenic Area Act and in
+compliance with regulations set forth in the Wasco County National Scenic Area Land
+Use and Development Ordinance, whose purpose is to preserve, protect and enhance
+the scenic, natural, cultural and recreational resources of the Columbia River Gorge
+National Scenic Area and to assure that development occurs in a manner which is
+compatible with its unique qualities.
+
+Serving notice - The mailing of a certified, return-receipt requested letter is considered
+a serving of notice under this Ordinance.
+
+Sewage - Water-carried human or animal waste and kitchen, bath, or laundry waste, from
+a structure,    together with    such   groundwater   infiltration and    surface     water as      may        be
+present.
+
+Shall - Action is mandatory.
+
+Should - Action is encouraged.
+
+Solid Waste — Includes all putrescible and nonputrescible wastes, whether in solid or
+semi-solid form, including but not limited to: garbage, trash, rubbish, refuse, ashes,
+paper, cardboard; commercial and industrial wastes; demolition and construction
+wastes; manure, vegetable or animal solid or semi-solid wastes including yard debris,
+dead animals; medical and infectious waste as defined in ORS 459.386 and OAR 340-
+
+                                                                         Chapter 1 ~ Introductory Provisions
+
+                                                                         "23 004- 0/2. (53)
+Page 1-10
+
+93-030 (42) and (52); all wastes capable of being recycled that are commingled with
+other wastes; and, incidental Household Hazardous Waste or Small Quantity Generator
+Hazardous waste as defined under 40 CFR 261.5. The term “Solid Waste” shall not
+include Hazardous Waste as defined in ORS 466.005 or any of the following:
+
+     a.     Materials     used    for fertilizer or for other   productive   purposes   on    land    in the
+            growing and harvesting of crops or the raising of fowl or animals;
+
+     b.     Septic tank and cesspool pumping or chemical toilet waste;
+
+     c.     Reusable beverage containers as defined in ORS 459A.725; and
+
+     d. Source separated principal recyclable materials as defined in ORS Chapter 459
+        and the Rules promuigated thereunder, which have been purchased or
+        exchanged for fair market value.
+
+SMA - Special Management Area of the Columbia River Gorge National Scenic Area.
+
+Structure - Anything constructed, erected, or air-inflated, permanent or temporary, which
+requires location on the ground. Among other things, the term structure includes buildings,
+walls, fences, billboards, poster panels and parking lots. Retaining walls less than four (4)
+feet in height are not considered structures for the sake of general property line setbacks.
+Any item defined as a structure in the LUDO or NSA LUDO.
+
+Summary Abatement - Abatement of a nuisance by the County, or by a contractor
+hired by the County, without obligation to give prior notice of the abatement action to the
+owner or occupant of the property.
+
+Temporary Use Permit - An approval that allows the limited use of structures or activities
+which are temporary or seasonal in nature that do not conflict with the zoning district in
+which they are located.
+
+Tire - The band of material used on the circumference of a wheel which forms the tread
+that comes in contact with the surface of the road.
+
+Truck Camper - A recreation vehicle, camper, or canopy that fits onto the bed of a pickup
+or flat-bed truck, and that is not used as a permanent residence.
+
+Unregistered            Vehicle   - A vehicle without a license      plate or with an expired        license
+plate.
+
+Use - The purpose for which land or a building is arranged, designed or intended, or for
+which either land or a building may be occupied or maintained.
+
+Chapter 1 - Introductory Provisions
+July 14, 2009                                                                  P00           G Ly G2. Css)
+                                                                                             Page 1-11
+
+Use, Conditional - The term applied to a use which may be pemnitted by the application
+for, the issuance of a Conditional Use Permit.
+
+Use, Prohibited - A use not allowed in a zoning district.
+
+Vehicle   - Any device   in, upon,   or by which    any person   or property is or may             be
+transported, or drawn upon a public highway.       This includes vehicles that are propelled
+or powered by any means, but does not include a device propelled by human                    power.
+Recreational vehicles, camping vehicles, truck campers and motor homes are included
+in this definition.
+
+Visually Subordinate - A description of the relative visibility of a structure or use where
+that structure or use does not noticeably contrast with the surrounding landscape, as
+viewed from a specified vantage point. As opposed to structures which are fully screened,
+structures which are visually subordinate may be partially visible. They are not visually
+dominant in relation to their surroundings. Visually subordinate forest practices in the
+SMA shall repeat form, line, color, or texture common to the natural landscape, while
+changes in their qualities of size, amount, intensity, direction, pattern, etc., shall not
+dominate the natural landscape.
+
+Waste - Useless, unwanted or discarded materials. The fact that materials, which would
+otherwise come within the definition of Solid Waste or Waste, may from time-to-time
+have value and thus could be utilized, shall not remove them from the definition.
+
+Zoning Approval     - includes discretionary or non-discretionary planning approval for
+any structure or use as required by the applicable land use and development ordinance.
+
+                                                                 Chapter 1 — Introductory Provisions
+                  DETAILED TABLE OF CONTENTS
+
+                 CHAPTER 2 NUISANCE CODES
+
+SECTION   TITLE                                              PAGE
+2.010     PURPOSE                                            2-4
+2.020     EXEMPTIONS                                         2-1
+2.030     FAILURE TO COMPLY                                  2-2
+2.040     UNENUMERATED NUISANCES                             2-2
+2.050     DECLARED A NUISANCE                                2-2
+2.060     SOLID WASTE NUISANCES                              2-2
+2.070     VEHICULAR NUISANCES                                2-4
+2.080     LAND USE AND ZONING NUISANCES                      2-6
+2.090     ILLEGAL USES                                       2-7
+2.100     NATIONAL SCENIC AREA NUISANCES                     2-8
+
+                                               Chapter 2 - Nuisance Codes
+
+                                  /¢>       (53)
+                      13009-b
+                                                                                          Page 2-1
+
+                              CHAPTER 2 NUISANCE CODES
+
+SECTION 2.010 Chapter 2 Purpose
+The purpose of Chapter 2 is to provide codes which will be used to regulate public
+health violations, including but not limited to, the accumulation of waste, solid waste,
+tires, and inoperable or abandoned vehicles on public and private property as well as
+designated violations of the Wasco Land Use and Development Ordinances.
+
+The remedies provided for failure to comply with any provision of this ordinance shall
+not be exclusive and shall be in addition to other remedies provided by law. The County
+expressly reserves the nght to seek abatement,          in addition   to, and   not   in lieu, of
+administrative enforcement under Chapter 3.
+
+Nothing contained herein shall preclude civil actions alleging failure to comply with the
+provisions of this chapter.
+
+SECTION 2.020      Exemptions
+Unless specifically provided otherwise, nuisances as defined by this ordinance do not
+include:
+
+A.   Disposal sites operated in compliance with regulations promulgated      by the
+     Environmental Quality Commission, Department of Environmental Quality, or other
+     ordinances or regulations of the County;
+
+B. Outdoor storage of inoperable or unregistered vehicles when the land has zoning
+   approval which permits or conditionally permits outdoor storage of inoperable or
+     used vehicles and the vehicles are stored in accordance with applicable provisions;
+
+C. Property    located   within the corporate   limits of incorporated   cities within Wasco
+     County,    unless   intergovernmental  agreements      have  transferred            zoning
+     implementation and/or code compliance authority to Wasco County; and
+
+D. Property located within the urban growth boundary of a city within Wasco County if
+   an intergovernmental agreement has transferred zoning implementation and/or code
+   compliance authonity to that city.
+
+E.   Pursuant to the Wasco     County Farming & Forest Practices Protection & Complaint
+     Mediation Ordinance a resource use complaint shall only be processed               through
+     Section 5 of that ordinance and not this ordinance.
+
+NOTE: sub-sections C and D above do not apply to solid waste nuisances
+
+                                                                                         es
+                                                                      yi 2— Nuisance Cod
+                                     ey,        GY - Lloa-Les
+Page 2-2
+
+SECTION 2.030      Failure to Comply
+
+A. A person who fails to comply with any provision of this Ordinance shall be subject to
+    administrative enforcement pursuant to Chapter 3.
+
+B. An Order to Correct or Order to Abate may be signed, issued and mailed or posted
+   on the property by any designated agent of the County.
+
+C. Persons who fail to comply with this Ordinance are subject to the administrative civil
+   penalties and abatement actions set forth in this Ordinance.
+
+D. The imposition of a penalty does not relieve a responsible person of the duty to
+    abate the nuisance.
+
+E. Any failure of the County to enforce a provision of this Ordinance does not constitute
+    permission, acquiescence or a right to continue a use that constitutes a violation.
+
+SECTION 2.040 Unenumerated Nuisances
+The acts, conditions or objects specifically enumerated and defined in this Chapter are
+declared public nuisances and may be abated by the procedures set forth in Chapter 3.
+In addition to the nuisances specifically enumerated in this Ordinance, every other thing,
+substance or act that is determined by the Compliance Officer or County Court to be
+injurious or detrimental to the public health, safety or welfare of the County is declared a
+nuisance and may be abated as provided for in this ordinance.
+
+SECTION 2.050 Declared a Nuisance
+The things, practices or conditions in Sections 2.060 through 2.100 constitute               a
+nuisance and no person responsible shall cause or permit such a condition to exist.
+
+SECTION 2.060      Solid Waste Nuisances
+
+A. Accumulation, Collection or Storage of Solid Waste or Waste
+    All exterior property areas shall be maintained in a clean and sanitary condition free
+    from any accumulation of rubbish or garbage, so as not to breed insects and
+    rodents, produce dangerous or offensive gases,         odors   and   bacteria,   or other
+    unsanitary conditions, or create a fire hazard.
+
+    Any accumulation, collection or storage of solid waste or waste, shall constitute a
+    nuisance, and no person responsible shall cause or permit such condition to exist
+    unless the person responsible is licensed by lawful authority to operate a business
+    specifically for those purposes.
+
+    A maintained    compost   area of a size and    content consistent with home       use   is
+    excluded.
+
+soca ome                                  $3009-b109-LS3)
+                                                                                                         Page 2-3
+
+B. Storage and Collection of Household Garbage
+
+     1. All household garbage shall be stored in receptacles which are free from holes
+        and covered with tight fitting lids.
+
+          If a violation of Section 2.060 has been identified, where residential garbage
+          service is available, the owner of the residential property shall provide, in a
+          location accessible to all dwelling units on the property, at least one 30 gallon
+          receptacle for each dwelling unit, or receptacles with a capacity sufficient to
+          prevent the overflow of garbage and rubbish from occurring, and into which
+          garbage and rubbish from the dwelling units may be emptied for storage between
+          days of collection. Receptacles and lids shall be watertight and provided with
+          handies. All receptacles shall be maintained free from             holes and         covered     with
+          tight-fitting lids at all times.
+
+          The owner of the unit(s) shall subscribe to and pay for regular garbage removal
+          service from the receptacles required by this subsection, by a refuse collection
+          licensee or franchisee as defined in the Wasco County Solid Waste Ordinance.
+
+C.   Storage of Non-Trash Items. All items listed below shall be removed and kept
+     removed from properties, unless specifically authorized by ordinance to do
+     otherwise:
+
+     1. Accumulations of wood pallets;
+
+     2. All firewood that is not stacked and useable. “Useable” firewood has more wood
+        than rot and is cut to lengths that will fit an approved fireplace or wood stove on
+          the property;
+
+          Wood piles that accumulate, on agriculturally zoned land, as a result of accepted
+          farming practice are exempt from this section.
+
+     3. Accumulations of vehicle parts or tires;
+
+     4.   Construction materials, except those that are stored in a manner to protect their
+          utility and prevent deterioration and are reasonably expected to be used at the
+          site;
+
+     5. Appliances        or   appliance   parts   except   for   storage   of   appliances        that     are
+          reasonably expected to be used at the site and are stored in a manner to protect
+          their utility and prevent deterioration as well as protect children from becoming
+          trapped within them;
+
+     6.   Indoor furniture except that which is stored in a manner to protect its utility and
+          prevent deterioration and is reasonably expected to be used at the property;
+
+                                                                                 Chapter 2 — Nuisance Codes
+                                                                  ~Ls53y""              2009
+                                           P3}b9-           IG
+Page 2-4
+
+          . Recycling materials except for reasonable accumulations (amounts consistent
+            with a practice of regular removal) that are stored in a well-maintained manner;
+            and
+
+          . Other non-trash items which:
+
+            a.    Are of a type or quantity inconsistent with normal and usual use; or
+
+            b. Are likely to obstruct or impede        the   necessary   passage   of fire or other
+               emergency personnel.
+
+D. Outdoor Nuisance Storage of Tires
+
+     1. The outdoor storage of 5 or more used tires on private or public property in those
+            areas within urban growth areas or within areas zoned for non-resource use in
+            the LUDO or NSA LUDO, is prohibited, unless the tires are used for DEQ
+            permitted agricultural or landscaping purposes.
+
+            The outdoor storage of 10 or more         used tires on   private or public property in
+            resource zoned lands is prohibited, unless the tires are used for DEQ permitted
+            agricultural or landscaping purposes.
+
+            Any storage of tires that constitutes a health hazard on any property under the
+           jurisdiction of the Wasco Sherman Public Health Dept is prohibited.
+
+            Notwithstanding the above, the storage of tires on private property is permitted if
+            the owner of record or person in charge of the property is conducting a legally
+            operated business that normally deals in tires, or if the tires are completely
+            enclosed within a building and do not constitute a fire hazard or health hazard.
+
+SECTION 2.070            Vehicular Nuisances
+
+A. Abandoned Vehicles
+
+     1.     No person shail park, store, leave, or permit the parking, storing, or leaving of an
+            abandoned, unregistered or inoperable vehicle upon public property, including a
+            public right-of-way.
+
+            Removal of an abandoned vehicle from one tax lot to another tax lot, or removal
+            of an abandoned        vehicle from   private property onto a public right-of-way,    or
+            removal of an abandoned vehicle from one location to another location on a
+            public right-of-way, after the responsible party has received a Notice of Violation
+            shall not prevent the County from         proceeding   with the process to have      the
+            vehicle towed from a tax lot or the public right-of-way and impounded        under the
+            provisions of Chapter 3.
+
+sa
+Chapter 2 -Nuisance Codes
+
+                                                  fRt0%- D/¢2-L 5%)
+                                                                                                                Page 2-5
+
+B.   Nuisance Vehicle Storage
+
+     1. Storing or permitting to be stored two or more abandoned, unregistered or
+        disabled vehicles, or portions thereof, or any vehicle leaking automotive fluids
+          onto the ground or into a waterway, on any private property in non-resource
+          zones, is prohibited, unless the vehicle is completely enclosed within a building,
+          is covered with a fitted car cover specifically designed to protect vehicles from
+          the elements, or is stored on the premises of a business enterprise dealing                                  in
+          used vehicles that is being lawfully conducted within the County.
+
+     2.   Storing or permitting the storing of more than three abandoned, unregistered or
+          inoperable vehicles, or portions thereof, or any vehicle leaking automotive fluids
+          onto the ground or into a waterway, upon private property in resource zones,
+          unless the vehicle is completely enclosed within a building, is covered with a
+          fitted car cover specifically designed to protect vehicles from the elements, or is
+          stored on the premises in connection with a business enterprise dealing in used
+          vehicles which is being lawfully conducted within the County.
+
+          Farm-related equipment that is not required to be registered as a motor vehicle is
+          excluded from this section if it meets the following criteria:
+
+          a.    Equipment function is clearly related to farming/ranching practices and/or the
+                equipment is historically related to agricultural operations, such as combines;
+
+          b. Equipment        is     not   leaking    automotive     fluids    onto    the     ground    or     into    a
+                waterway; and
+
+          c.    Multiple pieces of equipment are stored together, not spread out
+                across the property
+
+          The     owner    of record       or person     in charge     of the       property    must    be    able     to
+          demonstrate that non-registered farm equipment is either actively used as part of
+          the agricultural operation or is of historical significance.
+
+     3.   Removal of an unregistered or inoperable vehicle from one tax lot to another tax
+          lot, or removal of an unregistered or inoperable vehicie from private property onto
+          a public right-of-way, or removal of an unregistered or inoperable vehicle from
+          one location to another location on a public right-of-way, after the responsible
+          party    has    received     a Notice      of Violation    shall    not   prevent     the    County     from
+          proceeding with the process to have the vehicie towed from a tax lot or the public
+          right-of-way and impounded under the provisions of Chapter 3.
+
+C. Illegal Parking lot: Storing or permitting to be stored in excess of 30 days within any
+     consecutive 12 month period, more than three operational and registered vehicles,
+     not registered to the property address, unless they are completely enclosed within a
+
+                                                /o009- blor-l yr
+                                                                                          Chapter 2— Nuisance Codes
+Page 2-6
+
+    building or are stored on the premises of a business enterprise dealing in new or
+    used vehicles or the storage of vehicles lawfully conducted within the County.
+
+SECTION 2.080         Land Use and Zoning Nuisances
+
+A. Development without Land Use Review & Approval                       (whether approvable_or not):
+   Any development within Wasco County conducted                        without having obtained the
+    permits and approvals required by the LUDO or NSA LUDO regardless of whether or
+     not it could comply with all applicable land use regulations.
+
+    Non-Compliance _with Approval:    Development that does not                      comply      with the
+    specifications set out in the approval issued by the Wasco                       County      Planning
+    Department or built inconsistently with Approval. Including but not limited to: placing
+    structures in different locations than approved; not meeting setback or buffer
+     requirements;      building   structures   taller or larger than    approved;       or increasing   or
+    altering the nature and intensity of the approved use.
+
+    Continuation of Use after Expiration of Approval
+
+     1.    Failure to discontinue use granted         via a Permit, Temporary      Use or other, after
+           the approval period has expired.
+
+           A Permit may be approved with limited time duration.            Use continuing beyond the
+           expiration of approval is prohibited.
+
+    2.     Failure to remove additional dwelling within sixty (60) days of the expiration of a
+           Temporary Use Permit granted due to family hardship or until a primary dwelling
+           is built.
+
+           Temporary placement of an additional dwelling shall be granted for a specified
+           time period, with the period not exceeding two (2) years.     If the temporary
+           placement is not renewed, the owner of record or person in charge of the
+           property shall have sixty (60) days in which to remove the additional dwelling
+           from the property, unless an extension is granted.
+
+     Nonconforming Uses:            The   following    nonconforming      uses   shall    be   considered
+     permitting violations
+
+     1.    Any change, alteration, restoration or raplacement of structures, uses or area
+           related to the pre-existing nonconforming structure, use or area that fails to conform
+           to the applicable nonconforming         use standards or those of the current zoning
+           designation; and
+
+     2.    Use or employment of a structure, use or area that is discontinued or abandoned
+           according to the applicable nonconforming use standards.
+
+Chapter 2 -Nuisance Codes
+July 14, 2009                                                /3009-               OG        253»)
+                                                                                                 Page 2-7
+
+E. Outdoor Lights: Outdoor lights shall be directed downward and sited, hooded, and
+   shielded in a manner that prevents the lighting from projecting onto adjacent
+   properties, roadways, waterways or key viewing areas (National Scenic Area).
+   Shielding and hooding materials shall be composed of non-reflective, opaque
+   materials.
+
+SECTION 2.090         Illegal Uses
+No development        may occur that conflicts with the requirements of the LUDO               or NSA
+LUDO, or that require permits and approvals that were not obtained.                These illegal uses
+include, but are not limited to the following:
+
+A.   Illegal Dwellings:
+
+     1. Structures designed          for, or used   in the capacity of a dwelling which         did not
+           receive all of the applicable approvals (local, state or federal) that were required
+           at the time the structure was built or placed on the property.
+
+     2.    Dwellings or parts thereof erected, moved, reconstructed, extended, enlarged or
+           altered contrary to the provisions of the LUDO or NSA LUDO.
+
+B. lilegal Structures
+   Structures or parts thereof erected,             moved,   reconstructed,   extended,   enlarged       or
+     altered contrary to the provisions of the LUDO or NSA LUDO.
+
+C. Illegal Home Occupations:
+     Any    for-profit activity conducted,    without   Planning   Department     approvals,   within     a
+     dwelling or other building, normally associated with             uses    permitted   in the zone,
+     contrary to the provisions of the LUDO or NSA LUDO.
+
+D.   lilegal Businesses:
+     Any for-profit activity conducted,       without Planning     Department     approvals,   within a
+     dwelling or other building or on any property normally not associated with                    uses
+     permitted in the zone, contrary to the provisions of the LUDO or NSA LUDO.
+
+E.   Illegal Parking lot:
+     Storing or permitting to be stored, in excess of 30 days within any consecutive                    12
+     month period, more than three operational and registered vehicles, not registered to
+     the property address,     unless they are completely enclosed within a building or are
+     stored on the premises of a business enterprise dealing in new or used vehicles or
+     the storage of vehicles that is lawfully conducted within the County.
+
+F.   Illegal Land Divisions/Property Line Adjustments:
+     Partitions, Replats, Property Line Adjustments or other land divisions that do                     not
+     comply with LUDO or NSA LUDO requirements and/or ORS 92.
+
+                                                        9-b1 0 > . S t e e
+Page 2-8
+
+G. Other uses:           Any other use of land that occurs in Wasco County that the Compliance
+    Officer      or     County     Court    determines      is in conflict      with     LUDO     or   NSA       LUDO
+    requirements.
+
+SECTION 2.100             National Scenic Area (NSA) Violations
+To safeguard the special characteristics of the Columbia                         River Gorge,       properties built
+within     the   National        Scenic    Area   after November         17,    1986,     are    required     to fulfill
+standards that do not apply to properties within the rest of Wasco County.        These
+standards may include restrictions on property use and on the colors and materials that
+can be utilized in development or remodeling. Violation of these standards constitutes a
+violation of this Ordinance.
+
+No structure or premises in the Columbia River Gorge National Scenic Area portion of
+Wasco County shall hereafter be used or occupied and no part or structure or part thereof
+shall be erected, moved, reconstructed, extended, enlarged, or altered contrary to the
+provisions of this Ordinance. Violations include, but are not limited to the following:
+
+A. Violation of Scenic Standards:
+   Development that does not comply with the following scenic standards is a violation
+   of this Ordinance:
+
+    1.     The colors of structures topographically visible from key viewing areas shall be dark
+           earth-tones found at the specific site or the surrounding landscape. The specific
+           colors or list of acceptable colors shall be included as a condition of approval. This
+           guideline shall not apply to certain additions, which may match the color of existing
+           buildings;
+
+    2.     Structures topographically visible from             key viewing       areas shall      use low or non-
+           reflective building materials, including roofing, gutters, vents, and chimneys; and
+
+    3.     Structures      topographically        visible   from   a   key     viewing    area     shail    be   sited,
+           screened and/or designed to achieve the applicable scenic standard (e.g., visual
+           subordinance, not visually evident).
+
+B. Violation of New Cultivation and Recultivation Restrictions
+
+    1. GMA:     New cultivation is prohibited without review. Any operation that would
+       cultivate land that has not been cultivated, has lain idle, for more than 5 years, or
+       is cultivated beyond the depth of what has been previously cultivated shall be
+       considered new cultivation. For this guideline, cultivation and vegetation removal
+       may be allowed in conjunction with a home garden.
+
+    2.     SMA:     Agricultural uses within fields or areas that have not been                             previously
+           disturbed and regularly worked are prohibited without review.
+
+suyt4.2000                                                                   p ALI-L/¥2.                         (53>
+                                                                                               Page 2-95
+
+. Violation of Structure Restrictions: No structures larger than 60 square feet in area
+  and 10 feet in height are permitted without review.
+
+. Violation of Fence Restrictions:
+
+ 1. Wire-strand or woven-wire fences used for gardens, yards, livestock, and similar
+      uses greater than 500 feet in length and 10 feet in height that are accessory to
+      an existing dwelling are not permitted without review. Woven-wire fences must
+      be brown or black if visible from key viewing areas. Height is measured from the
+      ground to the top wire.
+
+      In the General Management Area, the scenic resource protection guidelines shall
+      not apply to woven-wire fences for agricultural use that would enclose 80 acres
+      or less.
+
+ 2.   Wire-strand fences greater than 48 inches in height that are outside deer and elk
+      winter range as delineated in the Gorge Commission/USDA Forest Service
+      natural resource inventories or determined by an appropriate federal or state
+      agency are not permitted without review. Height is measured from the ground to
+      the   top   wire.    This   category     does      not   include   fences   associated      with
+      transportation facilities or utility facilities.
+
+                                              D i o n . ( 5 3 e r                    t
+                                       P300 7
+                                                                                Page 3-1
+
+                  DETAILED TABLE OF CONTENTS
+
+           CHAPTER 3 ADMINISTRATIVE ENFORCEMENT
+
+SECTION   TITLE
+3.010     ESTABLISHMENT OF ADMINISTRATIVE
+          ENFORCEMENT PROCEDURES
+3.020     AUTHORIZATION TO INSPECT
+3.030     RIGHT OF ENTRY; INSPECTION WARRANTS
+3.040     INTERFERENCE WITH REPAIR, DEMOLITION,
+          OR ABATEMENT PROHIBITED
+3.050     ENFORCING COMPLIANCE                                           3-3
+3.060     SEPARATE VIOLATIONS                                            3-4
+3.070     CITATION PROCEDURE                                             3-4
+3.080     INITIATION OF ENFORCEMENT ACTION                               3-4
+3.090     COMPLIANCE NOTICES & COMPLIANCE ORDERS                         3-4
+3.100     NOTICE OF VIOLATION                                            3-5
+3.110     SUMMARY ABATEMENT                                              3-7
+3.120     ORDER TO CORRECT                                               3-8
+3.130     ESTABLISHMENT OF ADMINISTRATIVE CIVIL                          3-9
+          PENALTIES
+3.140     DETERMINATION OF AMOUNT OF ADMINISTRATIVE                      3-12
+          CIVIL PENALTY
+3.150     ABATEMENT OF NUISANCE AS LAST RESORT                           3-13
+3.160     ORDER TO ABATE NUISANCES                                       3-13
+3.170     ABATEMENT OF VEHICULAR NUISANCES                               3-15
+3.180     NUISANCE ABATEMENT WARRANTS                                    3-17
+3.190     ABATEMENT COSTS                                                3-19
+3.200     DISTRIBUTION OF ADMINISTRATIVE PENALTIES                       3-19
+3.210     RIGHT TO APPEAL                                                3-19
+3.220     APPEAL FEES AND DEPOSITS                                       3-21
+3.230     FURTHER APPEALS                                                3-22
+3.240     RESTRICTING ISSUANCE OF DEVELOPMENT PERMITS                    3-22
+3.250     RECORDED NOTICE OF VIOLATION                                   3-22
+
+                                         Chapter 3 - Administrative Enforcement
+                                         July 14, 2009
+
+                                 P2009-019> C53)
+ Page 3-2
+
+ 3.260                  ATTACHMENTS                               3-23
+                        ATTACHMENT A: APPEALS HEARING PROCEDURE   3-23
+                        ATTACHMENT B: CODE COMPLIANCE FLOWCHART   3-25
+
+Sharer
+Chapter 3 - Administrative Enforcement
+                                                f3.007- 01¢>-L 53)
+                                                                                                  Page 3-1
+
+                      CHAPTER 3 ADMINISTRATIVE ENFORCEMENT
+
+SECTION 3.010 Establishment of Administrative Civil Enforcement Procedures
+Pursuant to ORS 203, administrative civil enforcement procedures are hereby
+established for the purpose of providing for the remediation of any failure to comply with
+County Ordinances.
+
+It is further intended that a civil administrative process be established in order to provide
+a convenient and practical forum for the administrative hearing of any appeal arising out
+of any failure to comply with this Ordinance, and for the hearing and determination of
+factual issues as may be relevant in connection with, but not limited to, nuisance
+abatement.
+
+It is the county's policy to maximize code compliance and to increase the incentives for
+compliance by also creating a county administrative procedure for assessing and
+collecting civil penalties against county code violators. The county believes the
+assessment and collection of civil penalties through such an administrative procedure is
+the most effective way to obtain code compliance.
+
+Abatement of a nuisance by the County wili only be initiated if all other administrative
+remedies to correct violations have failed or if the nuisance constitutes a health or safety
+hazard.
+
+SECTION 3.020 Authorization to Inspect
+The Compliance Officer is authorized to make inspections of property for the purposes
+of enforcing this Ordinance.
+
+SECTION      3.030   Right of Entry; Inspection Warrants
+
+A. Right of Entry: The Compliance Officer may enter property, including the interior of
+   structures, at all reasonable times whenever an inspection is necessary to enforce
+   this Ordinance, or whenever the Compliance Officer has reasonable cause to
+   believe that there exists in any structure or upon        any property any condition in
+   violation of this Ordinance.
+
+   In the case of entry into areas of property that are plainly enclosed to create privacy
+   and to prevent access by unauthorized persons, the following steps shall be taken:
+
+   1. Occupied Property: if any structure on the property is occupied, the Compliance
+      Officer shall first present   proper credentials and    request     voluntary consent to
+      enter and inspect. If voluntary consent is not given, the Compliance Officer may
+      attempt to obtain entry by obtaining an inspection warrant;
+
+                              /3007           D          Chapter 3 — Administrative Enforcement
+                                         _—              July 14, 2009
+
+                                                  172- (525
+Page 3-2
+
+     2.    Unoccupied Property:
+
+           a.   If the property is unoccupied, the Compliance Officer shall contact the person
+                in charge of the property and seek voluntary consent to enter and inspect.                       If
+                voluntary consent is not given, the Compliance Officer may attempt to obtain
+                entry by obtaining an inspection warrant.
+
+           b.   If structures on the property are unoccupied, the Compliance Officer shall first
+                make a reasonable attempt to locate the person in charge of the property and
+                request entry.      If entry is refused, the Compliance             Officer may        attempt to
+                obtain entry by obtaining an inspection warrant.
+
+B. Grounds for Issuance of Inspection Warrants; Affidavit
+
+     1.    Affidavit: An inspection warrant shall be issued only upon cause, supported by
+           written affidavit, particularly describing the applicant's status in applying for the
+           warrant, the statute, ordinance or regulation requiring or authorizing the
+           inspection or investigation, the property to be inspected or investigated and the
+           purpose for which the inspection or investigation is to be made including the
+           basis upon which cause exists to inspect. In addition, the written affidavit shall
+           contain either a statement that entry has been sought and refused, or facts or
+           circumstances reasonably showing that the purposes of the inspection or
+           investigation    might    be   frustrated     if entry   were   sought      without    an   inspection
+           warrant.
+
+     2.    Cause: Cause shall be deemed to exist if there is probable cause to believe that
+           a condition     of nonconformity       with    this   Ordinance    exists     with    respect    to the
+           designated property, or an investigation.is reasonably believed to be necessary
+           in order to discover or verify the condition of the property for conformity with this
+           Ordinance.
+
+C.   Procedure for Issuance of Inspection Warrant
+
+     4.    Examination: Before issuing an inspection warrant, the Circuit Court Judge may
+           examine under oath the applicant and any other witness and shall be satisfied of
+           the existence of grounds for granting such application.
+
+     2.    Issuance: If the Judge is satisfied that cause for the inspection or investigation
+           exists and that the other requirements for granting the application are satisfied,
+           the Judge shall issue the written warrant, particularly describing the person or
+           persons authorized to execute the warrant, the property to be entered                           and the
+           specific purpose of the inspection or investigation. The written warrant shall
+           contain a direction that it be executed on any day of the week between the hours
+           of 8:00 a.m. and 6:00 p.m., or where the Judge has specially determined upon a
+           showing that it cannot be effectively executed between those hours, that it be
+           executed at any additional or other time of the day or night.
+
+Chapter 3 - Administrative Enforcement
+July 14, 2009                                            /3,009--            b1a>CS3)
+                                                                                                        Page 3-3
+
+     3.   Police Assistance: In issuing a written inspection warrant on unoccupied
+          property, including abatement warrants pursuant to this Ordinance, the Judge
+          may authorize any peace officer, as defined in Oregon Revised Statutes, to enter
+          the described property to remove any person or obstacle and assist the
+          Compliance Officer or representative of the County inspecting the property in any
+          way necessary to complete the inspection.
+
+D.   Execution of Inspection Warrants
+
+     1.   Occupied Property: Except as provided in Subsection 2. of this section, in
+          executing a written inspection warrant, the person authorized to execute the
+          warrant shall, before entry into the occupied premises, make a reasonable effort
+          to present the person's credentials, authority and purpose to a person in charge
+          of the property designated in the warrant and provide the occupant or person in
+          possession of the property with a copy of the warrant upon request.
+
+     2.   Unoccupied    Property:   In   executing   a written      inspection     warrant,     the    person
+          authorized   to execute   the warrant      need   not    inform      anyone     of the      person's
+          authority and purpose, as prescribed in subsection 1 of this section, but may
+          promptly enter the property if it is at the time unoccupied or not in the possession
+          of any person or at the time reasonably believed to be in such condition. In such
+          case a copy of the warrant shall be conspicuously posted upon the property.
+
+     3.   Return: A written inspection warrant must be executed within 10 days of its issue
+          and returned to the Judge by whom it was issued within 10 days from its date of
+          execution. After the expiration of the time prescribed by this subsection, the
+          warrant unless executed is void.
+
+SECTION 3.040 Interference with Repair, Demolition, or Abatement Prohibited
+It is unlawful for any person to obstruct, impede, or interfere with any person lawfully
+engaged in:
+
+A. The work of repairing, vacating, warehousing, or demolishing any structure pursuant
+   to the provisions of this Ordinance;
+
+B. The abatement of a nuisance pursuant to the provisions of this Ordinance; or
+
+C. The performance of any necessary act preliminary to or incidental to such work as
+     authorized by this Ordinance or directed pursuant to it.
+
+SECTION 3.050 Enforcing Compliance
+To enforce any of the requirements of this Ordinance, the Compliance Officer may gain
+compliance by:
+
+                                                                  Chapter 3 - Administrative Enforcement
+                                p ADCF '-Ot -O199-            (ESS
+                                                               July 14, 2009
+Page 3-4
+
+A. Instituting any enforcement action as set out in this Ordinance
+
+B. Causing appropriate action to be instituted in a court of competent jurisdiction; or
+
+C. Taking other action as the Compliance           Officer in the exercise of the Compliance
+    Officer's discretion deems appropriate.
+
+SECTION 3.060           Separate Violations
+Each day's violation of a provision of this Ordinance shall constitute a separate offense.
+
+SECTION         3.070   Citation Procedure
+In addition to the abatement procedures set forth in this Ordinance, the County staff
+person enforcing said ordinance section may issue a citation for a nuisance violation,
+which will resuit in the filing of a complaint in the Circuit Court.
+
+SECTION         3.080   Initiation of Enforcement Action
+Enforcement action will be initiated pursuant to the policy established by the Wasco
+County Court in consideration of staff resources and nuisance priorities. While both
+anonymous and written and signed complaints are accepted, it is up to the discretion of
+the Compliance Officer as to the level of action given to anonymous complaints.
+
+SECTION 3.090 Compliance Notices and Compliance Orders:
+The following shall be applicable to all notices described in this Chapter.
+
+A. Effective Date of Compliance Notices and Compliance Orders:
+    All Compliance        Notices or Compliance   Orders served pursuant to this section shall
+     be considered served as of the date and time of mailing or the date of posting the
+     property, if the property is posted, whichever is later.
+
+B. Owner of Record information: An error in the name of the owner or address listed in
+   the county assessment and taxation records for the property shall not render the
+     Compliance Notice or Compliance Order void, but in such case the posted
+     Compliance Notice or Compliance Order, if it was posted on the property, shall be
+     deemed sufficient.
+
+C. Days: Any days referenced shall be calendar days. In the event the final day falls
+   on a holiday, weekend or other day the applicable County Office is closed, the final
+   day shall be on the next business day following the holiday, weekend or other day
+   the applicable County Office is closed.
+
+Chapter 3 - Administrative Enforcement
+July 14, 2009                                           Y3009-           O1F>-      (53>
+                                                                                                        Page 3-5
+
+D. Affidavit!   Upon completion of each mailing and/or posting, the Compliance Officer
+   will create an affidavit of Compliance Notice or Compliance Order.
+
+SECTION      3.100    Notice of Violation (Step 1)
+
+A. Initial Response:        All conditions     defined    in Chapter        2 of this Ordinance             shall
+   constitute a nuisance.        Any person whose         duty it is to correct such nuisances and
+   who fails to do so shall be subject to the penalties provided for by this Ordinance.
+
+   When the Compliance Officer is made aware of a potential violation, the property is
+   researched to determine ownership, zoning, prior contacts with Planning or Health
+   Departments and related information. The Compliance Officer visits the property
+   where possible to determine if a violation exists. If a violation is determined, it is
+   documented with photos where possible and a 15 day Notice of Violation is sent via
+   First Class Mail and certified mail, return receipt requested to the owner of record or
+    person in charge of the property or served by personal service.                   Notice to the owner
+   of record or person in charge of the property may also be accomplished by posting
+   notice on the property or personal property.
+
+    In cases where the County Health Officer, County Environmental Health Specialist,
+   County Planning Department Director, County Sheriff or Fire Chief, determines that
+   it is necessary to take immediate action in order to protect the public health, safety
+   or welfare, summary abatement of such nuisances pursuant to Section 3.110 is
+   authorized.
+
+B. The Notice of Violation shall include:
+
+   4.   The street address or a description sufficient for identification of the property on
+        which the nuisance exists;
+
+   2.   A statement that one or more violations of this Ordinance exist at the property
+        with a general description of the violation(s) and the section(s) violated;
+
+   3.   A   request   that the   person   in charge      of the    property contact        the   Compliance
+        Officer to resolve the violation(s);
+
+   4.   Specification of a 15 day response period during which the property may                               be
+        brought into compliance with this Ordinance;
+
+   5. A statement that the owner of record or person in charge of the property may
+        extend the deadline for compliance by entering into verbal or written abatement
+        agreement with the Compliance Officer that establishes an approved process
+        and timetable to abate the nuisance;
+
+                                                                   Chapter 3 - Administrative Enforcement
+                                   om          —f) 72             / a      2009
+Page 3-6
+
+    6.     An outline of the compliance process including but not limited to penalties,
+           charges, liens, abatement and recorded notice of violation in the deed records of
+           the property if voluntary compliance is not achieved; and
+
+    7.     Disclose the right of the owner of record or person in charge of the property to
+           appeal the findings of the Notice of Violation and a description of the time limits
+           for requesting an appeal, as described in Section 3.210 Right to Appeal.
+
+C. Voluntary Compliance:                 If the owner of record or person in charge of the property
+    responds to the Notice of Violation the timelines can be suspended to allow for
+    compliance.   If compliance cannot be achieved immediately a verbal or written
+    abatement plan with a timeline shall be agreed upon by both the owner of record or
+    person      in charge       of the     property and     the Compliance           Officer.     It shall be the
+    discretion of the Compliance Officer whether a verbal or written abatement plan shall
+    be required.     If within this timeframe the violation has been abated a compliance
+    letter will be sent and the file will be closed.
+
+D. Failure to Comply:      If following a site visit either after the end of the 15 days
+   identified in the Notice of Violation if the owner of record or person in charge of the
+    property     does     not    contact       the   Compliance      Officer   or after    the    timeline   in   the
+    abatement agreement, the violation has not been satisfactorily abated, an Order to
+    Correct     (Step     2) will be sent to the owner             of record    or person        in charge   of the
+    property. However, the Compliance Officer does have the discretion to allow for
+    additional time if they feel the owner of record or person in charge of the property will
+    abate the violation.
+
+E. Expanded Enforcement Options for Illegal Dwellings and Structures:
+   Illegal dwellings and structures present special problems for enforcement; because
+    removal      of the    dwelling       or structure     may    often   be   the   only way      to correct     the
+    violation.  !n addition, purchasers of a property containing an illegal dwelling or
+    structure may be initially unaware of an illegal dwelling or structure violation.
+
+    As a result, the Compliance Officer is authorized to use the following methods to
+    deal with illegal dwellings and structures:
+
+    1. When entering into a written abatement agreement with the owner of record or
+       person in charge of the property, the Compliance Officer will work with the
+           Planning     Department        to   determine    a    reasonable     timeframe        and   method     for
+           legalizing the dwelling or structure where possible.
+
+    2.     If following the expiration of verbal or written abatement agreement, any illegal
+           dwelling or structure described in the notice of violation has not been removed,
+           made legal, or cause shown, as specified in this Ordinance, why such nuisance
+           should not be removed, or where the terms of a written abatement agreement
+           have been violated, the Compliance                   Officer, in consultation with the Planning
+           Department Director, may carry out one or more of the following actions:
+
+Chapter 3~Administrative Enforcement                     p: 5} 0          - LYLE > iA s3)
+                                                                                                                    Page 3-7
+
+       a.   Record a Notice of Violation with the deed of trust pursuant to Section 3.250.
+
+       b. Assess Administrative Penalties as described in Section 3.130.
+
+       c. Assess double Administrative Penalties if, after receiving an Order to Correct
+            (Step 2), the owner of record or person in charge of the property continues to
+            build an illegal structure or dwelling or adds additional illegal structures or
+            dwellings to the property.
+
+       d. Order the demolition and removal of the illegal structures or dwellings using
+          the process defined in Section 3.160, Order to Abate Nuisances.
+
+SECTION      3.110     Summary              Abatement   (Step     1)
+
+A. When summary abatement is authorized by this Ordinance, the decision regarding
+   whether       or   not     to     use     summary    abatement        shall   be     at     the   County   Official’s
+   discretion.        In the case of summary             abatement,        notice to the owner of record or
+   person    in charge             of the    property   prior to abatement            is not     required.    However,
+   following summary abatement, the Official shall post upon the property liable for the
+   abatement a notice describing the action taken to abate the nuisance violation. In
+   addition, a Notice of Summary Abatement shall be mailed to the owner of record or
+   person in charge of the property. Notice to the owner of record or person in charge
+   of the property may also be accomplished by posting notice on the property.
+
+B. The Notice of Summary Abatement shall include:
+
+   1. The date the nuisance on the property was abated;
+
+   2. The street address or a description sufficient for identification of the property on
+      which the nuisance exists;
+
+      A statement of the violations of this Ordinance that existed at the property and
+      were summarily abated;
+
+        Disclosure          that     penalties,    charges      and    liens will     result     from   the   summary
+       abatement subject to Section 3.190, Abatement Costs; and
+
+      Disclose the right to appeal the findings of the Notice of Summary Abatement,
+      and a description of the time limits for requesting an appeal, as described in
+      Section 3.210, Right to Appeal, to the owner of record or person in charge of the
+       property.
+
+                                                                           Chapter 3 - Administrative Enforcement
+
+                                            J R00F- Of to.5 388.
+Page 3-8
+
+SECTION        3.120   Order to Correct         (Step 2)
+
+A. Order to Correct Site Visit: If following the site visit described in Section 3.100(D),
+   the owner of record or the person in charge of the property has failed to voluntarily
+   abate the violation, an Order to Correct shall be sent via First Class Mail and
+   certified mail, return receipt requested to the owner of record or person in charge of
+   the property or served by personal service. Notice to the owner of record or person
+   in charge of the property may also be accomplished by posting notice on the
+     property or personal property.
+
+B.   The Order to Correct Shall Include:
+
+     1. The street address or a description sufficient for identification of the property on
+        which the nuisance exists;
+
+     2.    A statement that one or more violations of this Ordinance            exist at the property
+           with a general description of the violation(s) and the section(s) violated;
+
+     3. A request that the owner of record or person in charge of the property contact the
+        Compliance Officer to resolve the violations;
+
+     4.    Specification of     a 15 day response          period during which the property may be
+           brought into compliance with this Ordinance            before penaities, charges,   or liens
+           will be assessed;
+
+     5. A statement that the owner of record or person in charge of the property may
+        extend the deadline for compliance by entering into a written abatement
+        agreement with the Compliance Officer that establishes an approved process
+        and timetable to abate the nuisance;
+
+     6.    An outline of the compliance process including but not limited to penalties,
+           charges, liens, abatement and recorded notice of violation in the deed records of
+           the property if voluntary compliance is not achieved; and
+
+     7.    Disclose the right to appeal the findings of the Order to Correct and a description
+           of the time limits for requesting an appeal, as described in Section 3.210 Right to
+           Appeal, to the owner of record or person in charge of the property.
+
+C. Voluntary Compliance:                If the owner of record or person   in charge of the property
+     responds to the Order to Correct,              the timelines can be suspended       to allow for
+     compliance.    If compliance cannot be achieved immediately a written abatement
+     plan with a timeline shall be agreed upon by both the Disclose the right to appeal the
+     findings of the Notice of Summary Abatement, and a description of the time limits for
+     requesting an appeal, as described in Section 3.210, Right to Appeal, to the owner
+     of record or persori in charge of the property and the Compliance Officer.                if within
+
+Chapter 3— Administrative Enforcement              43 lp O>9-         O Yi Fd, “4 E>
+                                                                                                     Page 3-9
+
+     this timeframe the violation has been abated a compliance letter will be sent and the
+     file will be closed.
+
+D. Failure to Comply:        If either following a site visit after the end of the 15 days
+     identified in the Order to Correct, the owner of record or person in charge of the
+     property does not contact the Compliance Officer, or after the timeline in the written
+     abatement agreement, the violation has not been satisfactorily abated, a Notice of
+     Failure to Comply/Administrative Civil Penalty (Step 3) will be sent to the owner of
+     record or person in charge of the property. However, the Compliance Officer does
+     have the discretion to allow for additional time if they feel the owner of record or
+     person in charge of the property will abate the violation.
+
+SECTION 3.130 Establishment of Administrative Civil Penalties (Step 3)
+
+A. Administrative Penalty Site Visit: If following the site visit described in Section
+   3.120(D), the owner of record or the person in charge of the property has failed to
+     voluntarily abate the violation,    a Notice of Failure to Comply/Administrative                  Civil
+     Penalty shall be sent via First Class Mail and certified mail, return receipt requested
+     to the owner of record or person in charge of the property or served by personal
+     service. Notice to the owner of record or person in charge of the property shall also
+     be accomplished by posting the Notice of Failure to Comply/Administrative Civil
+     Penalty on the property or personal property.
+
+B.   The Notice of Failure to Comply/Administrative Civil Penalties Shall Include:
+
+     1.   The street address or a description sufficient for identification of the property on
+          which the nuisance exists;
+
+     2.   A statement that one or more violations of this Ordinance exist at the property
+          with a general description of the violation(s) and the section(s) violated;
+
+     3.   A request that the owner of record or person in charge of the property contact the
+          Compliance Officer to resolve the violation(s);
+
+     4.   Specification of a 15 day response period during which the property may be
+          brought into compliance with this Ordinance before penalties, County charges, or
+          liens will be assessed;
+
+     5.   An outline of the compliance process including but not limited to County charges,
+          penalties, liens, abatement and recorded notice of violation in the deed records
+          of the property if voluntary compliance is not achieved;
+
+     6. A statement of the amount of the penalties and County charges imposed;
+
+                                                            Chapter 3 - Administrative Enforcement
+
+                             J 3004- OYF2. Ce
+Page 3-10
+
+     7.     A statement that abatement is required and that failure to abate the act or
+            condition may result in continued County charges and penalties accruing on a
+            daily basis at the stated amount until proof of compietion of abatement is
+            received;
+
+     8.     If the penalty is to be imposed pursuant to Subsection E below, a short and plain
+            statement of the basis for concluding that said subsection applies; and
+
+     9.     Disclose the right to appeal the findings of the Notice of Failure to
+            Comply/Administrative Penalty and a description of the time limits for requesting
+            an appeal, as described in Section 3.210, Right to Appeal, to the owner of record
+            or person in charge of the property.
+
+C. Voluntary Compliance: If the owner of record or person in charge of the property
+   responds to the Notice of Failure to Comply/Administrative Penalties and achieves
+     voluntary compliance within 15 days of the :notice,       a compliance letter will be sent
+     and the file will be closed.
+
+D.   Failure to Comply:       If the owner of record or person in charge of the property does
+     not contact the Compliance Officer, or if following an additional site visit no sooner
+     than 15 days after the Notice of Failure to the Comply/Administrative Civil Penalty
+     the violation has not been not satisfactorily abated, administrative civil penalties may
+     be assessed and abatement may occur subject to Sections 3.140 through Section
+     3.190 and Subsection | below.
+
+E. Notwithstanding the Notice of Violation or Order to Correct, the Compliance Officer
+   may issue a Notice of Failure to Comply/Administrative Civil Penalty without having
+   issued a Notice of Violation, Order to Correct or making attempts to secure voluntary
+   correction, where the Compliance Officer determines that the failure to comply
+   reasonably appears to:
+
+     1.     Pose an immediate threat to public health, safety or welfare, or
+
+     2.     Be immediately remediable by a person in charge of the property, or
+
+     3.     Be the same act or condition that served as the basis for a previous order to
+            comply, or
+
+     4.     Be done deliberately by a responsible person who had           knowledge   that the
+            actions in question would constitute a failure to comply.
+
+F,   Utilizing the procedure set forth in Section 3.140, Determination of Amount of
+     Penaity, the Compliance Officer shall determine the penalty amount that may be
+     imposed for a particular violation. No monetary penalty imposed under this section
+     shall exceed $2,000, per violation, per day. Except for illegal structures and illegal
+
+cnapter a Administrative Enforcement                     J     VA, G~     LW4 >        lA 53)
+                                                                                              Page 3-11
+
+ dwellings, the maximum accrued penalty plus all County Charges shall not exceed
+ $10,000. Unless they are recorded as a lien, reach the penalty cap, or are otherwise
+ addressed    in an agreement written into the abatement plan, unpaid penalties will
+ double after 6 months and again after 1 year from the date they                    are     originally
+ assessed at which time the County may record the penalty as a lien.
+
+. Any person who pays the monetary penalty within 15 days of when it was ordered
+  shall only be required to pay 90 percent thereof. Uniess an agreement or payment
+  schedule is written into the abatement plan, failure to pay a penalty imposed
+  hereunder within 15 days after the penalty becomes final as provided in Subsection
+ D above shall conistitute a failure to comply with this section.
+
+ Each day after the initial 15 day period for payment that the penalty is not paid and
+ the violation or nuisance remains active on the property, shall constitute a separate
+ failure to comply. The Compliance Officer is also authorized to collect the penalty by
+ any administrative or judicial action or proceeding authorized by Subsection K
+ below, other provisions of this Ordinance or state statutes, and may enforce
+ delinquent liens or assessments pursuant to ORS 223.510.
+
+. The administrative civil penalty authorized by this section shall be in addition to:
+
+ 1.   County charges   incurred   by the County in processing,       remediation,         cleanup or
+      abatement, and
+
+ 2.   Any other assessments, fees or actions authorized by law.
+
+ Hearings Officer Order:     If the owner of record or person in charge of the property
+ does not file a written appeal within 15 days of the date when the Notice of Failure to
+ Comply/Administrative Civil Penalty is served or mailed, the Compliance Officer shall
+ forward the Notice of Failure to Comply/Administrative Civil Penalty along with a
+ statement of the assessed penalty plus fees, and County charges to the Hearings
+ Officer for review and issuance of a written order. However, the Compliance Officer
+ does have the discretion to allow for additional time if they feel the owner of record
+ or person in charge of the property will abate the violation.
+
+ If the Hearings Officer determine(s) the findings, penalties, fees, County charges, or
+ other information were lawful, the Hearings Officer shall issue a written order
+ affirming the findings, penalties, fees, County charges or other information in the
+ Notice of Failure to Comply/Administrative Civil Penalty and the owner of record or
+ person in charge of the property shall be responsible for meeting the requirements of
+ the Notice of Failure to Comply/Administrative Civil Penalty and paying all penalties,
+ fees, and County charges on or before a date set by the Hearings Officer.
+
+ If the Hearings Officer determine(s) any part of the findings, penalties, fees, County
+ charges   or other information    were   not lawful, the owner      of record      or person        in
+
+                                                        Chapter 3 - Administrative Enforcement
+
+                                          LAD.      (enss 2008
+                            Ui
+Page 3-12
+
+     charge of the property shall be responsible for meeting the requirements of the
+     Notice of Failure to Comply/Administrative Civil Penalty and paying all penalties,
+     fees, and County charges that were found to be lawful on or before a date set by the
+     Hearings Officer.
+
+     A copy of the Hearings Officer Order shall be sent to the owner of record or person
+     in charge of the property by certified mail
+
+J.   Enforcement       Of Hearings         Officer Order: Penalties, fees and county Charges         are
+     payable on the effective date of the order and are a debt owed to the County, under
+     ORS 30.460, and may be collected in the same manner as any other debt allowed
+     by law.     If penalties, fees, and         County charges    are not paid within 60 days     after
+     payment is ordered, the County may file and record the order in the County Clerk
+     Lien Record. The cost of filing and releasing the lien shall be added to the amount
+     of the lien and the responsibility of the owner of record or person in charge of the
+     property.
+
+     The County may institute appropriate suit or legal action, in law or equity, in any
+     court of competent jurisdiction to enforce the provisions of any order of the Hearings
+     Officer, including, an action to obtain judgment for any civil penalties, fees, or County
+     charges imposed by such order.
+
+     The Compliance         Officer shall notify the owner of record or person in charge of the
+     property that the penalty and               associated   County   charges   have   been   assessed
+     against the real property upon which the failure to comply occurred,                and has been
+     entered in the County Clerk's Lien Record. The lien may be enforced in the same
+     manner as a judgment, or as a              lien for street improvements, and shall bear interest
+     at the rate prescribed in ORS 82.010.
+
+K. In addition to enforcement mechanisms authorized elsewhere in this Ordinance,
+   failure to pay an administrative civil penalty imposed pursuant to this Section shall
+   be grounds for withholding issuance of requested permits or licenses, issuance of a
+     stop work order, if applicable, or revocation or suspension of any issued permits or
+     licenses.
+
+SECTION 3.140           Determination of Amount of Administrative Civil Penalty (Step 3)
+
+The Compliance Officer shall determine the amount of the administrative civil penalty to
+be assessed under this Ordinance in accordance with the following schedule:
+
+A. Solid Waste Nuisances:                $280 per day, per violation
+
+B. Vehicular Nuisances: $100 per day, per vehicle
+
+Chapter 3 - Administrative Enforcement
+July 14, 2009                                                 ppBLOF - Ll F 2-~ lA 53)
+                                                                                                        Page 3-13
+
+C.    Land   Use   and Zoning     Nuisances,        except illegal dwellings or structures:          $280    per
+      day, per violation
+
+D. LUDO Site Violations:         $280 per day, per violation
+
+E.    Illegal dwellings or structures,        permanent:     $2,000     per day, per violation.        Penalty
+      ceases to accrue when it reaches the assessed value of the dwelling or structure.
+      Penalty is forgiven when the violation is addressed (removed, permitted, or
+      converted to an allowed use) by owner of record or person in charge of the property.
+
+F.    Illegal dwellings or structures, temporary: $2,000 per day, per violation. Penalty
+      ceases to accrue when it reaches the assessed value of the dwelling or structure.
+      Penalty is forgiven when the violation is addressed (removed, permitted, or
+      converted to an allowed use) by owner of record or person in charge of the property.
+
+G. For violations listed in subsections A through D above that are the second similar
+   violation within 2 years from the date the first similar violation was resolved, the
+   calculated penalty will be doubled.
+
+SECTION 3.150 Abatement of Nuisance as Last Resort (Step 4)
+Except in the case of summary abatement, abatement of a nuisance by the County shall
+only proceed if the owner of record or person in charge of the property has not
+satisfactorily abated the violation within 15 days of the Notice of Failure to
+Comply/Administrative Civil Penalties.
+
+Abatement of a nuisance by the County will only be initiated if all other remedies to
+correct the violation have failed.
+
+SECTION 3.160 Order to Abate Nuisances (Step 4)
+If, following 15 days after the Notice of Failure to Comply/Administrative Civil Penalties,
+any     nuisance    (illegal   dwellings      and   structures   are    subject     to    Section   3.100    (E))
+described     in the    Notice    has   not    been    removed    and    abated,         or cause   shown,    as
+specified in this Ordinance, why such nuisance should not be removed or abated, or
+where summary abatement is authorized, or where the terms of a written abatement
+agreement have been violated, in addition to the imposition of Administrative Civil
+Penalties, the Compliance Officer may cause the nuisance to be removed and abated,
+including disposal in an approved manner by:
+
+A.    Causing an Order to Abate Nuisance to be posted on                          the    premises   where    the
+      nuisance exists directing the removal of such nuisance.
+
+B. At the time of posting, the Compliance               Officer shall cause a copy of such notice to
+      be forwarded via First Class Mail and certified mail, retum receipt requested to the
+      owner of record or person in charge of the property or served by personal service.
+
+                                                           _           sug a Do ng                  LY 2- (63)
+Page 3-14
+
+C.    The Order to Abate Nuisanc es Shall Include:
+      The Notice shall be entitled " Order to Abate Nuisance” and shall contain:
+
+      1.    The street address or a description sufficient for identification of the property on
+            which the nuisance exists;
+
+            A statement that one or more          violations of this Ordinance exist at the property
+            with a general description of the violation(s) and the section(s) violated;
+
+            An order to abate the nui sance within 15 days from the date of the notice;
+
+            A statement that unless} the nuisance          is removed,   the County may abate the
+            nuisance and the cost of abatement, penalties, fees, and any County charges,
+            shall be charged to the owner of record or person in charge of the property and
+            be attached to the prope ty as a lien; and
+
+            Disclose the right to appeal the findings of the Order to Abate Nuisance and a
+            description of the time limits for requesting an appeal, as described in Section
+            3.210 Right to Appeal, to the owner of record or person in charge of the property
+
+     . Failure To Comply:     If follawing 15 days after the Order to Abate Nuisance, the
+       violation has not been not s atisfactorily abated, the violation will be abated pursuant
+       to Section 3.170 — Section 3 .190 and Subsection E below.
+
+     . Hearings Officer Order:           If the owner of record or person in charge of the property
+      does not file a written appeal within 15 days of the date when the Order to Abate
+      Nuisance is served or mailed, the Compliance Officer shall forward the Order to
+      Abate Nuisance along with a statement of the estimated abatement cost plus any
+      penalties, fees, and County charges to the Hearings Officer for review and issuance
+      of a written order. However, the Compliance Officer does have the discretion to
+      allow for additional time if t hey feel the owner of record or person in charge of the
+      property will abate the violat ion.
+
+      If the Hearings Officer affirms the Order to Abate Nuisance, the Hearings Officer
+      shall issue a written order          affirming the findings, abatement costs, penalties, fees,
+      and County charges or other information found in the Order to Abate Nuisance, the
+      Compliance Officer will proceed with abatement subject to Section 3.170 — Section
+      3.190 and the owner of ecord or person in charge of the property shall be
+      responsible for paying all a batement costs, penalties, fees, and County charges on
+      or before the date set by the Hearings Officer.
+
+      A copy of the Hearings Offi cer Order shail be sent to the owner of record or person
+      in charge of the property by certified mail
+
+     . Enforcement  _Of Hearings Officer Order: Abatement costs, penalties, fees and
+      county Charges are payable 2 on the effective date of the order and are a debt owed
+
+                                                                f3009-bl¢ 2-53)
+Chapter 3 - Administrative Enforcement
+July 14, 2009
+                                                                                              Page 3-15
+
+   to the County, under ORS 30.460, and may be collected in the same manner as any
+   other debt allowed by law. If abatement costs, penaities, fees, and County charges
+   are not paid within 60 days after payment is ordered, the County may file and record
+   the order in the County Clerk Lien Record. The cost of filing and releasing the lien
+   shall be added to the amount of the lien and the responsibility of the owner of record
+   or person in charge of the property.
+
+   The County may institute appropriate suit or legal action, in law or equity, in any
+   court of competent jurisdiction to enforce the provisions of any order of the Hearings
+   Officer, including, an action to obtain judgment for any civil penalties, fees, or County
+   charges imposed by such order.
+
+   The Compliance Officer shall notify the owner of record or person in charge of the
+   property that the abatement costs, penalties, fees, and associated County charges
+   have been assessed against the real property upon which the failure to comply
+   occurred, and has been entered in the County Clerk's Lien Record. The lien may be
+   enforced in the same manner as a judgment, or as a lien for street improvements,
+   and shail bear interest at the rate prescribed in ORS 82.010.
+
+SECTION 3.170      Abatement of Vehicular Nuisances (Step 4)
+
+A. Order to Abate Vehicular Nuisance: If, following 15 days after the Notice of Failure
+   to Comply/Administrative Civil Penalties, any vehicle which qualifies as a nuisance
+   under Chapter 2 but is not subject to Summary Abatement, the Compliance Officer
+   shall affix an Order to Abate Vehicular Nuisance notice to the abandoned vehicle. In
+   the case of an abandoned vehicle on private property, permission to enter the
+   property to affix the notice to the vehicle shall be obtained from the owner of record,
+   person in charge of the property or shall be authorized by Section 3.030, Right of
+   Entry; Inspection Warrants.
+
+   The Order to Abate Vehicular Nuisances Stal Include the following information:
+
+   1. That the vehicle will be subject to being impounded by the County if the vehicle is
+      not removed from the private property or public property within 15 days of the
+      date of the notice. If the vehicle is to remain on private property, it must be
+      moved and stored within an enclosed structure or covered by a device
+      specifically designed to protect the vehicle from the elements.
+
+   2.   The section of this Ordinance    which   has   been     violated    and   under which      the
+        vehicle will be removed.
+
+   3. The place where the vehicle will be impounded and the telephone number to find
+        out information about where the vehicle will be stored.
+
+                                                          Chapter 3 - Administrative Enforcement
+                           -3    LOF- l/YY                    ly 14, 2009
+                                                 A        53)
+Page 3-16
+
+     4. The vehicle, if impounded, will be subject to towing and storage charges, County
+            charges, and a    lien will be attached to the vehicle and its contents.
+
+     5.     The vehicle will be sold to satisfy the costs of towing,          storage,      and   County
+            charges if these costs are not paid by the owner.
+
+     6.     Disclose the owner's right to appeal the findings of the Order to Abate Vehicular
+            Nuisance and a description of the time limits          for requesting      an    appeal,   as
+            described in Section 3.210 Right to Appeal.
+
+B. Abatement Proceedings:   In the event the person responsible does not voluntarily
+   comply by removing the vehicle from the private property or the public right-of-way,
+     or by storing the vehicle within an enclosed structure, or underneath an approved
+     coverage device, within the specified time period, the Compliance Officer shall
+     institute abatement proceedings to have the abandoned vehicle towed from the
+     private property or the public right-of-way and impounded. If the vehicle is on private
+     property the vehicle shail be abated pursuant to Section 3.180, Nuisance Abatement
+     Warrants.
+
+     The Compliance Officer shall mail a notice to the registered owner of the vehicle and
+     to any lessors or security interest holders as shown in the state Motor Vehicle
+     Department records, and to the person responsible for creating the nuisance, if that
+     person is not the registered owner of the vehicle and the County has been able to
+     identify that person, that the vehicle has been impounded. The notice shal! be sent
+     by regular mail and by certified mail, return receipt requested, and be mailed within
+     48 hours of the impoundment.
+
+     The Impoundment Notice Shall Include the following information:
+
+     1.     The location where the vehicle will be stored.
+
+     2.     That the vehicle and its contents are subject to a lien for the payment of storage
+            and towing charges and an administrative fee of $100, and that the vehicle and
+            its contents will be sold if those charges and administrative fee are not paid.
+
+     3. That the vehicle will not be released until the owner provides proof that the
+        vehicle is currently licensed and registered, that the nuisance conditions will not
+            be resumed, and that all towing and storage fees and the $100 administrative fee
+            have been paid, and the County has authorized the release of the vehicle in
+            writing.
+
+     4.     Disclose the owner's right to request an appeal hearing to contest the validity of
+            the impoundment or the liability for towing charges and the administrative fee.
+            The Request for an appeal shall be made as described in Section 3.210, Right to
+            Appeal.
+
+Chapter 3 - Administrative Enforcement                      yy        y
+July 14, 2009                                                  lO         _ LWP?            153
+                                                                                                                  Page 3-17
+
+C.   Disposal of abandoned vehicles which have been impounded under this section
+     shall be carried out in accordance with the applicable provisions of Chapter 819 of
+     the Oregon Revised Statutes.               The County shail be entitled to recover the costs of
+     the nuisance       abatement,       including     the $100         administrative        fee,    in an   appropriate
+     action at law.
+
+D. Removal          of an   abandoned        vehicle       from   one     private   property         to another    private
+     property, or removal of an abandoned vehicle from private property onto a public
+     right-of-way, or removal of an abandoned vehicle from one location to another
+     location on a public right-of-way, after a notice has been affixed to the vehicle under
+     subsection (A) of this section, shall not prevent the County from proceeding with the
+     process to have the vehicle towed from a private property or the public right-of-way
+     and impounded under the provisions of Subsection (B) of this section, above.
+
+SECTION 3.180 Nuisance Abatement Warrants (Step 4)
+The Compliance Officer may request any Circuit Court Judge to issue a nuisance
+abatement warrant whenever entry onto private property is necessary to remove and
+abate any nuisance.
+
+A.   Grounds for Issuance of Nuisance Abatement Warrants;
+
+     1. Affidavit: A nuisance abatement warrant shall be issued only upon probable
+        cause, supported by affidavit, particularily describing the applicant's status in
+        applying for the warrant, the statute, ordinance or regulation requiring or
+        authorizing the removal and abatement of the nuisance, the building or property
+        to be entered, the basis upon which probable cause exists to remove or abate
+        the nuisance, including the existence of prior violations, and a statement of the
+        general types and estimated quantity of the items to be removed or conditions
+          abated.
+
+     2.   Probable Cause: Probable cause shall be deemed to exist if it is believed that a
+          nuisance violation exists, as defined in this Ordinance, with respect to the
+          designated property.
+
+B.   Procedure for Issuance of a Nuisance Abatement Warrant:
+
+     1.   Examination:        Before    issuing     a nuisance          abatement       warrant,       the Judge     may
+          examine the applicant and any other witness under oath and shall be satisfied of
+          the existence of grounds for granting such application.
+
+     2.   Issuance: If the Judge is satisfied that probable cause for the remova! and
+          abatement of any nuisance exists and that the other requirements for granting
+          the   application    are     satisfied,    the     Judge      shall   issue   the     warrant,      particularly
+          describing the person or persons authorized to execute the warrant, the property
+          to be entered, and a statement of the general types and estimated quantity of the
+
+                                  3.004 L102. [iiss cme
+Page 3-18
+
+            items to be removed or conditions abated. The warrant shall contain a direction
+            that it be executed on any day of the week between the hours of 8:00 a.m. and
+            6:00 p.m., or where the Judge has specially determined upon a showing that it
+            cannot be effectively executed between those hours, that it be executed at any
+            additional or other time of the day or night.
+
+     3.     Police Assistance:        In issuing a nuisance         abatement warrant, the Judge          may
+            authorize any peace officer, as defined in Oregon Revised Statutes, to enter the
+            described property to remove any person or obstacle and to assist the
+            Compliance Officer in any way necessary to enter the property and remove and
+            abate the nuisance.
+
+Cc. Execution of Nuisance Abatement Warrants
+
+     1.     Occupied Property:        Except as provided in subsection 2, below, of this section, in
+            executing a nuisance abatement warrant, the person authorized to execute the
+            warrant shall, before entry into the occupied premises, make a reasonable effort
+            to present the person's credentials, authority and purpose to an occupant or
+            person in possession of the property designated in the warrant and to show the
+            occupant or person in possession of the property the warrant or a copy thereof
+            upon request.
+
+     2.     Unoccupied     Property:          In   executing    a    nuisance   abatement       warrant    on
+            unoccupied    property,     the   person   authorized     to execute   the warrant     need    not
+            inform anyone of the person's authority and purpose, as prescribed in subsection
+            1 of this section, but may promptly enter the designated property if it is at the
+            time unoccupied or not in the possession of any person or at the time reasonably
+            believed to be in such condition. In such case a copy of the nuisance abatement
+            warrant shall be conspicuously posted on the property.
+
+     3.     Return: A nuisance abatement warrant must be executed within 10 days of its
+            issue and returned to the Judge by whom it was issued within 10 days from its
+            date of execution. After the expiration of the time prescribed by this subsection,
+            the warrant unless executed is void.
+
+D.   Disposal of Nuisance Items Removed:     The Compliance Officer may cause the
+     nuisance items that were removed, pursuant to the nuisance abatement warrant, to
+     be disposed of in an approved                 manner whenever the Compliance           Officer, in the
+     Compliance       Officer's sole discretion, finds that the fair and reasonable value of the
+     items at resale would          be less than the cost of storing and selling the items.                 In
+     making the above determination, the Compliance Officer may include in the costs of
+     sale the reasonable cost of removing the items to a place of storage, of storing the
+     items for resale, of holding the resale including reasonable staff allowances, and all
+     other reasonable and necessary expenses of holding the sale.
+
+river bone qcministrative Enforcement                          $3    Jp, a _ LY, fF    >    C    S3)
+                                                                                               Page 3-19
+
+SECTION         3.190   Abatement Cost (Step 4)
+
+A.     Responsibility for Costs
+       If more than one (1) person        is responsible for the creation or continuation of a
+       nuisance, they shall be jointly and severally liable for abating the nuisance or for all
+       costs incurred by the County in abating the nuisance.
+
+      An accurate record of the abatement costs shall be kept and shall include                        a
+      surcharge of 25% of the cost of the abatement for administrative overhead.
+
+      A Notice of Abatement Cost shall be forwarded via First Class Mail and certified
+       mail, return receipt requested to the owner of record or person in charge of the
+       property or served by personal service, to the owner of record or person in charge of
+     _ the property.    The notice shall contain:
+
+       1. The street address or a description sufficient for identification of the property on
+            which the nuisance exists;
+
+       2.   A statement that one or more violations of this Ordinance existed at the property
+            with a general description of the violation(s) and the section(s) violated;
+
+       3.   The date the violation was abated and actions taken to abate the violation;
+
+       4.   The total cost, including the administrative overhead, of the abatement;
+
+       5.   A statement that the cost as indicated will become a        lien against the property
+            unless paid within 60 days.
+
+       6.   Disclose the right to appeal the amount of abatement costs and a description of
+            the time limits for requesting an appeal, as described     in Section 3.210, Right to
+            Appeal, to the owner of record or person in charge of the property
+
+SECTION         3.200   Distribution of Administrative Penalties     (Step 4)
+All Administrative Civil Penalties, payments for abatement costs, fees, and other County
+charges collected under this Ordinance shail be deposited in the Wasco County General
+Fund.
+
+SECTION 3.210           Right to Appeal
+
+A.      Whenever an owner of record or person in charge of the property has been given
+       any Compliance Notice or Compliance Order pursuant to this Ordinance and the
+       owner of record or person in charge of the property believes the findings, penalties,
+       fees, County charges, or other information in the Compliance        Notice or Compliance
+
+                                                      2-     PES       Administrative Enforcement
+                                fog          - LV4
+Page 3-20
+
+       Order were     in error, the owner of record or person   in charge of the property may
+       appeal.
+
+       If an appeal hearing is sought, the owner of record or person in charge of the
+       property shall submit a written request to the Compliance Officer within 15 days of
+    the date of the Compliance Notice or Compliance Order.
+
+B. Appeals will be heard by a Hearings Officer appointed by the County Court.          The
+       person requesting an appeal shall be given the opportunity to present evidence to
+    the Hearings Officer. Following the appeal hearing, the Hearings Officer shall issue a
+    written determination.
+
+    If the person appealing the Compliance Notice or Compliance Order is unsatisfied
+    with the result of the appeal hearing, they may appeal the decision subject to
+    Section 3.230.    The request for an appeal shall be submitted in writing to the
+    Compliance Officer within 15 days of the issuance of the written determination
+    notice.
+
+C. The Wasco County Code Compliance and Nuisance Abatement Ordinance Appeals
+   Hearing Procedure (Section 3.260 Attachment A) shall govern any requested appeal
+       hearing.
+
+D. The County shall have the burden of proving by a preponderance of the evidence
+   the findings, abatement costs, penalties, fees, County charges or other information
+   in the Compliance Notice or Compliance Order were lawful pursuant to this
+   ordinance.
+
+       If the Hearings Officer determine(s) the findings, abatement     costs, penalties, fees,
+    County charges, or other information were lawful, the Hearings Officer shall enter a
+    written order affirming the findings, abatement costs, penalties, fees, County
+    charges or other information in the Compliance Notice or Compliance Order and the
+    owner of record or person in charge of the property shall be responsible for meeting
+    the requirements of the Compliance Notice or Compliance Order and paying all
+       abatement costs, penalties, fees, and County charges.
+
+       If the Hearings Officer determine(s) the findings, abatement costs, penalties, fees,
+       County charges or other information were not lawful, the owner of record or person
+       in charge of the property shall not be responsible for meeting the requirements of the
+       Compliance Notice or Compliance Order. If there is a lien, storage costs or other
+       payment for abatement costs, those shall be the responsibility of the County.
+
+    The Hearirigs Officer may modify the amount of the civil penalty based on the record
+       and testimony received at the appeal hearing and subject to Section 3.220(C).
+
+sree      soos    netrative Enforcement            /3    De YA) G- LFA     >   VA $3)
+                                                                                                  Page 3-21
+
+SECTION      3.220   Appeal Fees and Deposits
+
+A. To help defray the costs of processing the appeal, all appeals shall be accompanied
+   by an appeal fee of $100 established by the County Court, as well as a deposit in
+   the amount of any monetary penalty plus all County charges accrued to the date the
+     deposit is received. The appeal shall not be heard unless these are paid prior to the
+     end of the 15 days indicated in the Compliance Notice or Compliance Order.
+
+B.   Filing of an appeal shall cause the penalty to cease accruing on a daily basis as of
+     the date the appeal is filed with the Code Compliance Officer until 7 days after the
+     date of the appeal hearing decision.
+
+C. In the event that the appeal is upheld or partially upheld by the Hearings Officer:
+
+     -   If upheld completely the appeal fee and the deposit shall be refunded
+
+     -   If upheld partially: up to half of the appeal fee and only that part of the deposit not
+         used to cover remaining’ accrued penalties and County charges shall be
+         refunded.
+
+D. In the event the appeal is not upheld; the Hearings Officer shall issue a written order
+   affirming the findings, abatement costs, penalties, fees and County charges or other
+   information in the Compliance Notice or Compliance Order, and the abatement
+   costs, penalties, fees, plus all County charges shall immediately become due and
+     payable, and the deposit submitted with the appeal request will be applied toward
+     payment of those abatement costs, penalties, fees, and County charges.
+
+E. The penalty shall continue to accrue on any remaining’ violations or nuisances
+   beginning 7 days after the date of the Appeal Hearing decision until such time as the
+   owner of record or person in charge of the property submits proof to the Compliance
+     Officer of having abated the act or condition constituting the failure to comply.
+
+F. Enforcement Of Hearings Officer Order: Abatement costs, penalties, fees and
+   county Charges are payable on the effective date of the order and are a debt owed
+     to the County, under ORS 30.460, and may be collected in the same manner as any
+     other debt allowed by law. If penalties, fees, and County charges are not paid within
+     60 days after payment is ordered, the County may file and record the order in the
+     County Clerk Lien Record. The cost of filing and releasing the lien shall be added to
+     the amount of the lien and the responsibility of the owner of record or person in
+     charge of the property.
+
+     The County may institute appropriate suit or legal action, in law or equity, in any
+     court of competent jurisdiction to enforce the provisions of any order of the Hearings
+     Officer, including, an action to obtain judgment for any civil penalties, fees, or County
+     charges imposed by such order.
+
+' Includes all appealed violations and/or nuisances not upheld in the hearing
+
+                               J3      LOG       - D   MG >       Sate    3008   ative   Enforcement
+
+                                                                       $2)
+Page 3-22
+
+G. Nothing in this Section shall limit the authority of the Compliance Officer to initiate a
+    proceeding under this Ordinance.
+
+SECTION 3.230 Further Appeals
+All appeals of the Hearings Officer determination pursuant to Section 3.210, Right to
+Appeal, shall be by writ of review as authorized by ORS 34.010 - 34.100.
+
+SECTION 3.240 Restricting Issuance of Development Permits
+It is the County's policy, to the extent authorized by law, not to issue permits or approvals,
+nor to renew or extend permits and approvals, for development on any property on which
+there already exist uncorrected     violations.   This   restriction    shall   continue    until    such
+violations are corrected.
+
+It is also the County's policy not to issue permits or approvals, nor to renew or extend
+permits or approvals, for “accessory” structures, such as garages and outbuildings, on
+vacant property, on property on which there does not already exist a permitted primary
+residential or commercial use, and on property for which a permit or approval for a
+“primary” use is not sought simultaneously with the "accessory" use permit or approval.
+This restriction shall continue until the primary permitted use is established or a permit for
+it is sought.
+
+If review of Wasco   County Planning Department records and/or consultation with Code
+Compliance    staff reveals the existence of unresolved        code violations on the subject
+property, Planning staff shall not accept applications for requested permit(s) or
+approvals or renewals or extensions thereof, nor shall staff issue permits or approvals
+or renewals   or extensions    thereof.    Instead,   staff shall      promptly   consult     with    the
+Compliance Officer to determine whether the permit or approval, or the renewal                         or
+extension thereof, is being sought in order to correct the existing code violation(s).
+
+if the requested permit or approval, or renewal or extension thereof, is determined to be
+required for code compliance, the application shall be accepted, or the permit or
+approval shall be issued if all necessary conditions have been met.              Planning
+Department staff shall refer persons not allowed to apply for permits or approvals, or to
+whom issuance of permits or approvals or renewals or extensions thereof has been
+denied under this subparagraph, to the Compliance Officer to discuss required
+corrective action.
+
+SECTION 3.250 Recorded Notice of Violation
+If the Compliance Officer finds violations of this Ordinance on any property, the
+Compliance Officer may record with the County Clerk information regarding County
+code violations and the potential for liens to be placed on the property as a result of
+these violations. The document will notify a prospective buyer that the property is
+
+Sat ammerate extereme                             /3009- L253)
+                                                                                         Page 3-23
+
+tainted and can not legally be developed.          When    the violation is cured a Notice of
+Compliance will be recorded.
+
+SECTION       3.260 Attachments
+
+ATTACHMENT A -
+WASCO COUNTY CODE COMPIANCE AND NUISANCE ABATEMENT ORDINANCE
+APPEALS HEARING PROCEDURE
+
+A. Open the hearing (read the following)
+
+     1. The name of the appellant;
+
+     2. The location of nuisance;
+
+     3. The nature of the nuisance as determined by staff; and
+
+     4.   The nature of the appeal.
+
+B.    Rules of Evidence:
+
+     1.   No person shall present irrelevant, immaterial, or unduly repetitious
+          testimony or evidence;
+
+          Evidence received shall be of a quality that reasonable persons rely upon
+          in the conduct of their daily affairs; and
+
+          Testimony and evidence must be directed toward the criteria applicable to
+          the subject hearing.
+
+C.   Disclosure of Interest or Ex Parte Contact:
+
+     1. The Hearings Officers must disclose any personal or financial interest in the
+          matter. If the personal or financial interest could affect the decision, the Hearings
+          Officer(s) must disqualify themself;
+
+          The Hearings Officer(s) must report any significant ex parte or pre-hearing
+          contacts;
+
+          Any member of the audience may to challenge the right of the Hearings Officer(s)
+          to hear the matter; and
+
+          Any member of the audience may question the jurisdiction of the Hearings
+          Officer(s) to act on behalf of Wasco County in the matter.
+
+                                                 W/F>.      VestS
+                             f23009-
+Page 3-24
+
+D. Staff presents their report.
+
+     The Appellant or their Representative is allowed to testify (required to sign name and
+m
+
+     address).
+
+F.   Any person may testify for the Appellant (required to sign name and address).
+
+     Any person may testify against the Appellant (required to sign name and address).
+©
+
+     The Appellant or their Representative may rebut any testimony against them.
+x
+
+     The public hearing will close and the Hearings Officer(s) will deliberate.   The
+     Hearings Officer(s) may ask additional questions of staff or the Appellant during
+     deliberation.
+
+J.   Decision
+
+     1. The Hearings Officer(s) will make a decision; or
+
+     2.     The Hearings Officer(s) will move, second, discuss and vote to make a decision.
+            A majority vote is required to overturn the staffs determination.
+
+Soars, 200 Administrative Enforcement                22      0 OD G     D / 9 >         C 53)
+                                  ATTACHMENT B - CODE COMPLIANCE FLOWCHART                                                            Page 3-25
+
+   Day 1
+   Complaint Received
+
+                 ¥
+    Day 5
+    Property Researched               Day 30                              Day 55                                      Day 80
+    1" site inspection                2” Site visit                       3" Site visit                               4” Site Visit
+                                      No abatement observed               No abatement observed                       No abatement observed
+
+                                                                                          ¥                                           ¥
+                     yr                                                   Day 60                                      Day 85
+   If deemed necessary by                                 v               Notice of Failure to                        Order to Abate Nuisance
+   County staff, Summary              Day 35                              Comply/Civil Penalty is                     (if not appealed it must be
+   Abatement process is               Order to Correct is sent            posted and sent (15 day                     “affirmed” by Hearings
+   initiated at owner's               (15 Day Letter)                     expiration; if not appealed                 Officer) posted and sent
+   expense                                                                it must be “affirmed” by
+                                                                          Hearings Officer}
+                                                                          County charges wiil be
+                                                                          assessed to owner of                        Day 100
+                 ¥
+                                                                          tecord                                      5" Site Visit
+   Day 10                                             ¥                                                               No abatement observed
+   Notice of Violation Sent           Day 50                                                                          Abatement warrant
+                                                                                          ¥.
+   (15 Day Letter)                    Owner indicates violation is                                                    processed.
+                                      abated; OR                          Day 75                                      Abatement contractor
+                                      Awitten Abatement Plan              Owner indicates violation is                notified/hired
+                                      is prepared                         abated. If not, Penaity is
+                                                                          assessed.
+                      a
+   Day 25
+                                                                                              A                                           y
+   Owner indicates violation is
+   abated; OR                                         ¥                   Day 80                                       Day 110
+   Abatement Plan is                  Day 55                              4" Site inspection:                         Violation abated by
+   prepared                           3" Site inspection:                 Confirms abatement; OR                      contractor. Owner billed
+                                      Confirms abatement; OR              proceed to final column                     for abatement
+                                      proceed to next column
+
+                 ¥                                                                                                                        F
+                                                                                          q                           Day 110
+   Day 30
+                                                          a                                                           MWlegal Dwelling subject to
+   2" Site inspection:                                                    Day 80
+   Confirms abatement; OR             Day 55                              Violation is closed                         femoval by County
+   proceed to next column             Violation is closed.                If abated after initial 15 day
+                                      No further action                   period, owner must pay
+                                      No Civit Penalties                  Penalty and County
+                                                                          charges ordered by
+                                                                          Hearings Officer
+
+   Day 30                                                                                 ¥                           Day 170
+   Violation is closed.                                                   Day 95                                      Lien placed against
+   No further action                                                      Penalties are calculated                    property for abatement
+                                                                          daily, and assessed                         charges, penalties, County
+                                                                          monthly if unpaid                           charges
+                                                                          Penalties double after 180
+                                                                          Days
+
+NOTE:   ALL DATES ARE APPROXIMATE AND USED FOR                       y)                           Chapter 3 - Administrative Enforcement
+ILLUSTRATIVE PURPOSES ONLY. ACTUAL TIME FRAMES                                  July 14, 2009
+ARE CASE SPECIFIC AND MAY VARY.                                      LZ (Za) ¥—~ D VF >(C53                                                   )
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.5% of
+the word sequence, and on 71.3% of the figures. Dictionary-recognizable words: 97.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

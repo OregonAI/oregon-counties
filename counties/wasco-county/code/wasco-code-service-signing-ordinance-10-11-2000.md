@@ -1,0 +1,1446 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-service-signing-ordinance-10-11-2000
+title: 'Service Signing Ordinance 10-11-2000'
+doc_type: ordinance
+citation: 'Service Signing Ordinance 10-11-2000'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Misc/Service%20Signing%20Ordinance%2010-11-2000.pdf?t=202503260856070
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0cb4bcb5c1b1ebe13703e87637dd8cb706c3fb57c88805a6734c89e251a84050
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.952; figure agreement 0.314; dictionary ratio 0.953. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 368.942
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Service Signing Ordinance 10-11-2000 (Service Signing Ordinance 10-11-2000)
+
+## At a glance
+
+OCR-derived text of Service Signing Ordinance 10-11-2000. Not human-verified.
+
+## Full text
+
+FILED WASCO CTY
+                                                                                                                        THE DALLES op,
+                                           IN     THE      COUNTY          COURT       OF       THE     STATE       OF     OREGON
+                                                                                                                   fine    |                ay     EE    fap
+                                                                                                                   ler id              | sare             ‘og
+                                                       IN AND FOR THE COUNTY OF WASCO
+NH
+
+                                                                                                                  KARE           A.         LEE Ey i ow
+                                                                                                                                                     OM
+         IN       THE    MATTER        OF       ADOPTING           A   )
+                                                                                                                         : A, boca
+                                                                                                                          AW
+WY
+
+         SPECIFIC SERVICE SIGNING                                      )                        orpdiw             acWUNcY CLERK
+         ORDINANCE FOR WASCO COUNTY,                                   )
+fF
+
+         OREGON.                                                       }
+un
+
+         THE       COUNTY        COURT          OF    WASCO        COUNTY,          OREGON            DOES       ORDAIN         AS     FOLLOWS:
+oan oO
+
+         SECTION          I.      AUTHORITY
+
+                    The        following             procedures             and     requirements                  relating             to        the
+
+         placing          of     Specific             Service          Signing             within          the    right-of-way                    for
+ o
+
+10       public          roads        in    Wasco          County          is    authorized                by    ORS      368.942            to     368.950,
+
+W        and       furthermore              Section             2G-5       of    the       Manual          on    Uniform         Traffic                Control
+
+12       Devices,           attached              hereto         as    Exhibit             "A"       and    by    this         reference                made     a
+
+13       part       hereof,           authorizes                and    defines             how       the    signing            shall        be
+
+14       installed.
+
+15                  The    Department                 of    Public          Works          is    also       authorized                to    develop
+
+16       such       forme        and       procedures             as       are    necessary                for    the      implementation                       of
+
+17       this       Ordinance.                  Said       forms       are       attached             as    Exhibits            “B",         “C",        “D"
+
+18       and       "E"    and     by       this       reference             made       a    part       hereof.             Other           forms         may     be
+
+19       developed              and    used          as    the    need          arises.
+
+20       SECTION          II.         PURPOSE             AND    APPLICABILITY
+
+21                  The     purpose             of    this       Ordinance             is       to    control          the      use        of
+
+22       advertising              signs          on       public       roads       within             Wasco       County         while            still
+
+23       providing              the    necessary                directional                information             to      allow           drivers          to
+
+24       locate          visitor-oriented                       businesses.                 The       Ordinance            establishes
+
+25       standards              for    Specific             Service             Signing          erected          within         County
+
+26       rights~of-way.
+
+Page     1    -    ORDINANCE
+                 This       Ordinance              is    applicable                only          to     public         roads           outside            of
+
+       incorporated                city       limits.                Placement              of     signs        on     County               roads        within
+ nD
+
+           incorporated            city       limits           will        be     authorized                  only     by       regulations
+WwW
+
+       jointly         agreed           to    by     the       Wasco            County       Court            and    the        appropriate                City
+ eB
+
+       Council.
+ on
+
+       SECTION         III.         DEFINITIONS
+ DTD
+
+                 As    used        in    these          rules,            the     following              definitions                   shall         apply
+ oN
+
+       unless         the     context          indicates                  otherwise:
+
+                            “Advanced              Guide        Sign"            means       Specific               Service            Signing
+ o
+
+10                             located             in    advance            of     a     road          intersection.
+
+11                          "Applicant"                 means         a    person           applying            for        a    permit            for
+
+12                             Specific              Service              Signing.               The     Applicant               shall         be        either
+
+                               the       "Owner"           or    the            “Responsible              Operator"                   as     further
+13
+
+14                             defined             in    this        Ordinance.
+
+15                          “Specific              Service           Sign"         means           a    sign        with        the        name      of    a
+
+                               visitor-oriented                           business,              service,            or        activity,             together
+16
+                              with           directional                  information                  erected         in       advance             of    or   at
+17
+                               intersections                    on        the     County          road         system.
+18
+                            "Directional                 Information”                   means           the     necessary                  information
+19
+                              to        direct          the     motoring               public.
+20
+                            "Engineer"              means        the        Wasco           County        Director               of        Public         Works
+21
+                              or        designee           thereof.
+22
+                            “Intersection                  Guide           Sign"        means           Specific               Service         Signing
+23
+
+24                             located             where        two        or     more       County            roads           meet.
+
+25                          "Logo"           means       the     portion               of    the        sign        with        the
+
+26                            identification                     of        the     business              or     activity               on     it.
+
+Page   2    ~   ORDINANCE
+
+                                                                                       B00                             0274 (ae)
+                            "Owner"            means           a    holder           of     fee       title,              or    lessee.
+
+                           “Visitor-Oriented                             Business"               means           any       legal         gas,      food,
+i)
+
+                                 lodging,            or        camping              facility,               recreational,                   educational
+wo
+
+                                 or     entertaining                     activity,               or     a    unique             or    unusual
+-
+
+                                 commercial               or        nonprofit               activity,                 a    substantial              portion
+na
+
+                                 of     whose        income              or    visitors               are       derived              during        its     normal
+ a
+
+                                 business            season              from       motorists                not          residing          in     the
+ ~~
+
+                                 immediate            area           of       the     activity.
+ ao
+
+                           “Responsible                   Operator”                 means         a    person              or     entity          other       than
+wo
+
+10                               an    owner         who           operates           a     visitor-oriented                          business            and      who
+
+11                               has        authority               to    enter           into        an     agreement                relative           to
+
+12                              matters             covered              by    this        Ordinance.
+
+13                         “Road            Department"                  means        the     Wasco             County            Public          Works
+
+14                              Department.
+
+15     SECTION       IV.          CRITERIA            FOR           ELIGIBILITY
+
+16              1.         A    visitor-oriented                          business            must          be        located          within        8 miles
+
+17                         of     the        intersection                     where        the        visitor-oriented                       directional
+
+18                         signs         are     proposed                 to    be        installed.                      The     distance          will        be
+
+19                      Measured               as     vehicle                 distance            from          the        center        point       of       the
+
+20                         intersection                   to       the        nearest         point             of        the     intersection                of
+
+21                         the        driveway            of       the        business            and       a    public              highway.
+
+22              2.         Specific            Service               Signing              shall        not       be        used       for    any     business
+
+23                         if     it    is     easily              visible            and     identifiable                        from      the     traveled
+
+24                     way            the     last        300        feet       from        the        intersection                    or    road
+
+25                     approach                to     the          business.
+
+26     MITT
+Page   3   -   ORDINANCE
+
+                                                                                            13 200- 2374 C Xe)
+                3.         A     visitor-oriented                       business                  shall        have:
+
+                           A.      Continuous                   operation               at        least        6       hours         per     day,           5    days
+
+                                   a     week,        during            its        normal           business                  season.
+w
+
+                           B.      Licensing                  where         required.
+>
+
+                           Cc.     Adequate               parking            accommodations.
+wn
+
+                4.         If     applications                   are        received               for       any        one     intersection                      for
+an
+
+                           more         than     the          allowable                number           of     signs,           the        order           of
+“I
+
+                           Priority             shall           be    based            on    the        date           of     receipt         of       a        properly
+a
+
+                           completed             application.
+wo
+
+10              5.         Any     grant         of       a     new    or        renewed            application                      shall        entitle           the
+
+11                         Applicant             to       the        continuance                   of    its           Specific            Service
+
+12                         Signing             for    as        long        as    requirements                         of     this     Ordinance                  are
+
+                           met.
+13
+
+14              6.         Notwithstanding                       the        fact        that        a    visitor-oriented                          business
+
+15                         meets         all     of       the        other        eligibility                      requirements                   of       this
+
+16                         Ordinance,                an       application                   may     be       denied            if     it     is    determined
+
+17                         after         investigation                   by       the        Engineer                  that     adequate               direction
+
+                           to     the     business               cannot           be        given        by        a    reasonable                number           of
+18
+
+19                         allowable             Specific              Service               Signing.
+
+       SECTION       V._         SIGN     CQNSTRUCTION                  AND        COMPOSITION
+20
+                1.         The     Specific               Service            Signing,               consisting                  of     the        sign           panel
+21
+                           with        the      logos           and    directional                      information,                   shall           be
+22
+                           furnished             to       the        County        by        the        Applicant({s).
+23
+
+24              2.         Each        logo:
+
+25                         A.      Shall         be       24"        wide        and        18"     high.
+
+26     /Tf
+Page   4   -   ORDINANCE
+
+                                                                                                    D3 200- 0297¢                                                       eA
+                            B.     Shall         have        a    content            limited          to    the         identification               of
+  -
+
+                                   the        business            and     shall        not          include        promotional
+   no
+
+                                   advertising,                   as     determined              by    the     Engineer.
+   w
+
+                            Cc.    Shall        have     no        messages,              symbols           and        trademarks            which
+   -
+
+                                   resemble            any        official           traffic           control               device.
+   on
+
+                      3.    The    directional                   information              for       each      legend:
+   a
+
+                           A.      Shall        be    constructed                of       white        reflectorized                   material.
+   ~
+
+                            B.     Intersection                   Guide        Signs       shall           have        a     direction        arrow
+   oo
+
+                                   and     the       distance             to    the       facility            to       the     nearest
+       is)
+
+                                   one-quarter                   mile.
+   3
+i
+
+                           €.      Advanced           Guide            Signs     shall          have        directional                word
+—_
+   ~
+
+                                   information                   "AHEAD"        or     "NEXT          LEFT*        or        “NEXT     RIGHT”        as
+—_
+   tS]
+
+                                   may     be     required               instead          of    the        direction               arrow.
+   (es)
+bo
+
+                      4.   Each     sign        panel:
+—_
+   sf
+
+                           A.      Shall        conform            to    0.D.0.T.              Low     Speed/Low               Volume        Road
+—_
+   ow
+
+                                   Standards            as        depicted           in    Exhibits            "F"          and     "G".
+—_
+   DA
+
+                           B.      Shall        have     logos            and    directional                  information                  mounted
+Lond
+   SN
+
+                                   on    a blue         reflectorized                     panel        with        a       white
+   Oo
+_
+
+                                   reflectorized                   border.
+=
+   6
+
+                      5.   No     more     than       two         panels        shall          be     installed               at    any     sign
+   mo
+np
+
+                           post     location.
+nN
+   _
+
+                      é.   Design        of     the     sign           shall     be       approved           by        the     Engineer        before
+Li}
+   bd
+
+                           construction.
+i}
+   Ww
+
+             Mt
+mR
+   &
+
+             Mtl
+i)
+   wn
+
+             Md
+bo
+   an
+
+ Page        5   —   ORDINANCE
+
+                                                                                               C00. 037 [2e)
+                          The     sign        shall      be      constructed             by        a   manufacturer                   approved        by
+
+                          the     Road        Department            to     make     the       Specific              Service            Signing.
+ YP
+  WwW
+
+                          The     Engineer           may      reject        any     sign          constructed                 with      improper
+
+                          materials,            design         or    workmanship.
+  Ft
+
+                          The     Road        Department            will     furnish           the          posts        and         install        all
+  an
+
+                          signs         in    the    road      right-of-way.
+  no
+
+        SECTION     VI.          SIGN        LOCATION
+  one
+
+                          Specific            Service         Signs        are    only        for       use        in    areas         outside
+
+                          the     incorporated                city        limits.
+  ow
+
+                          Specific            Service         Signing        may       be     installed                 within         Urban
+  f=}
+
+                          Growth         Boundaries            only       with      the       written           approval               of    the
+  -_
+
+                          City     involved.
+  i)
+«ee
+
+                          Specific            Service         Signing        should           be       located           so     as     to    take
+  Ww
+
+                          advantage            of    natural         terrain,            to    have          the        least         impact
+  ff
+
+                          on    the      scenic       environment,                or     with          the    view        of     residences
+  nan
+
+                          and     business          on     the      adjacent           property.
+  ND
+
+                          Specific            Service         Signing        shall          not        be    installed               where     there
+
+                      may         be     conflict          with      traffic           control              devices,            or     where       any
+  Oo
+
+                      unsafe             condition            may    be     created           as       determined               by     the
+  Oo
+
+                      Engineer.
+  Oo
+
+                      Advanced               Guide       Signs       are     to     be      located           at        least        300,     but
+  e_
+
+                      not        more        than     600,       feet       in    advance              of    the        intersection,
+  NH
+es
+
+                      wherever               possible.
+  WwW
+
+        Mh
+  fF
+
+        Mtl
+  wn
+
+        {1/1
+te
+  a
+
+Page    6   -   ORDINANCE
+
+                                                                                         Dam 037 (ae)
+                      The     use    of    both      an       Advanced            Guide        Sign          and        an        Intersection
+
+                      Guide        Sign    for     the        same     business               at    the          same         intersection
+
+                      is    not     allowed.             The    use        of     an     Intersection                       Guide         Sign     or
+&
+
+                      an    Advanced         Guide        Sign        is     at    the        discretion                    of     the
+fF
+
+                      Engineer.
+wo
+
+                      There        shall     be    no     more        than        four        sign        post          locations            per
+Do
+
+                      intersection            direction               (including               both          Intersection                   and
+ny
+
+                      Advanced        Guide        Signs).
+aon
+
+                      The    Engineer         shall           determine            the        location                 of    all        Specific
+wo
+
+10                    Service        Signing.             This        determination                     shall           be       based      on        a
+
+11                    field        investigation,               the        criteria            of       this       Ordinance                and
+
+12                    traffic        engineering               principles.
+
+       SECTION     VII.      APPLICATION,
+                                       FEES                       AND       MAINTENANCE
+13
+                      Initial        application               and     installation:
+14
+                     A.      The     Applicant            must        file        an     application                    for        installation
+15
+                             of     its    Specific            Service            Signing           on       a    form           specified                by
+16
+                             Wasco        County.          The        application                  will          include            a    copy     of
+17
+                             the     proposed            legend        and        sign     design.
+18
+                     B.      The     first        year     annual           fee        must        be     submitted                 with     the
+19
+                             application.
+20
+                     c.      The     Engineer           will     determine               the        location                 of     the
+21
+                             Specific         Service           Signing            and     notify                the        Applicant            of
+22
+
+23                           the     location.
+
+24                           a)      The    Engineer's               determination                      of       the        sign        location
+
+25                                   is    final        and     not        subject        to        appeal.
+
+26     {TTTt
+Page   7   -   ORDINANCE
+
+                                                                                       rao 0374 (2)
+                             b)      If     the        Engineer           determines                  that        no    acceptable
+
+                                     location            exists           for     the        Specific               Service              Signing,
+NH
+
+                                     the     entire            annual           fee    will           be     refunded.
+&}
+
+                             c)      If     the       Applicant            does        not        approve              of        the     sign
+Ff
+nan
+
+                                     location,              the      Applicant               may       withdraw              the
+
+                                     application,                   in    which        case           50%    of        the        annual          fee
+a
+aN
+
+                                     will        be     refunded.
+
+                      D.     The     Applicant              shall         have        the        sign       constructed                     and
+
+                             delivered            to     the      Road       Department                    within           90     days       of
+ yp
+
+10                           notification                of    the        sign        location.                Failure                 to    provide
+
+11                           the     sign        within        90        days     will        be       considered                  a    withdrawal
+
+12                           of     the    application.
+
+13                    E.     The     Road        Department               shall        install              the        sign.
+
+14              2.    Fees    and     charges:
+
+15                    A.     The     annual           fee     for        each     Specific                 Service           Signing              shall
+
+16                           be     $75    per        business,            per        sign.
+
+17                    B.     The     anniversary               date        for        the     annual          permit               shail          be
+
+18                           January         1    of     each        year.
+
+19                    Cc.    An     additional              fee      of    $25        will       be        charged           when           temporary
+
+20                           removal         and       reinstallation                   of        signs        is       required              due       to
+
+21                           seasonal            nature        of        business           or     activity                 or     for       failure
+
+22                           to     submit        a    renewal            application                  on    time.
+
+23              3.   Sign     Maintenance:
+
+24                   A.      All     field        maintenance                of       the     Specific                 Service              Signing
+
+25                           will     be    done        only         by    Road        Department                 personnel.
+
+26     ATT
+Page   &   -   ORDINANCE
+
+                                                                                      Caw                              0394 (2¢)
+                   @                                                                      @
+
+ 1                 B.   In   the     case       of     missing              sign:
+
+ 2                      a)    The     Engineer             will        notify             the    Applicant(s)                 the        sign
+
+ 3                            is missing.
+
+ 4                      b)    When        the       Applicant(s)                  supply         the    Road       Department
+
+ 5                            with        a    new     sign,       the        Road         Department             will         install
+
+ 6                            the     new       sign       at     no     additional                expense             to    the
+
+ 7                            Applicant.
+
+ 8                      c)    If     the       Applicant(s)                  do     not        supply        a   new        sign,    there
+
+ 9                            will        be    no     refund          of     the         annual       fee.
+
+10                Cc.   In   the     case       of     a   damaged            sign:
+
+ll                      a)    The     Road          Department              will          remove       the       sign        and    store
+
+12                            it     in       the    nearest           Road         Department           Shop.
+
+13                      b)    The     Engineer             will        notify            the     Applicant(s)                 the    sign
+
+14                            is     damaged           and      where         it     is       located.
+
+15                      c}    When        the       Applicant(s)                  supply         the    Road       Department
+
+16                            with        a    new    sign,        the        Road         Department             will        install
+
+17                            the     new       sign       at    no     additional                expense          to        the
+
+18                            Applicant(s}.
+
+19                      a)    If    the        Applicant(s)                 do      not       supply     a       new        sign,    there
+
+20                            will        be    no    refund           of     the        annual        fee.
+
+21                D.    In   the     case       of    a    sign        which         has        deteriorated                 due    to
+
+22                      normal      weathering:
+
+23                      a)    The     Engineer             shall        make         a    determination                     that    the
+
+24                            sign        needs       upgrading               and        notify        the       Applicant{s).
+
+25     /Iti/
+26     MTtt
+Page   9 ~- ORDINANCE
+
+                                                                                   C3000. 037Y “%)
+                                    b)       The     Applicant(s)                          shall         provide                  the     Road          Department
+
+                                            with          a    new     sign           before             the        next           anniversary                      date,
+
+                                            or      within            90     days,           whichever                       is        later.
+&
+
+                                    c)      The      Road            Department               will             install                  the       new     sign           at
+any     f&
+
+                                            no      additional                  expense             to        the        Applicant(s).
+     wo
+
+                                    dj)      If     the        Applicant({s)                      fail        to     provide                  a    sign        the
+  Oo
+
+                                            permit             will        be     revoked              and         the            sign        removed.
+
+             SECTION       VIII.      SIGN        PERMIT             TERMINATION
+
+                      1.     The    sign      permit            may        be     revoked              and         the            sign        removed               for       any
+©
+
+10                           of    the     following                 reasons:
+
+11                           A.     If     the     visitor-oriented                           business                   fails            on       a    sufficient
+
+12                                  number         of         occasions               or     over         a     sufficient                        period        of        time
+
+13                                  to     provide             all     of       the         services,                   so        as     to       justify            a
+
+14                                  finding          by        the     Engineer               that            the        business                  is    not         in
+
+15                                  substantial                 compliance                   with         this           Ordinance.
+
+16                           B.     If     the     visitor-oriented                           business                   fails            during              its
+
+17                                  normal         business                season            to     open           for            business              for     more
+
+18                                  than      7    consecutive                   days         or         for       more            than           10
+
+19                                  cumulatively,                     during           any         one        month               period,              unless            the
+
+                                    Engineer             finds         that       closure                 for        such              period           was     beyond
+20
+
+21                                  the     control             of     the       owner            or      responsible                         operator,                  or
+
+22                                  that      the       closure             was        justified                   by        extenuating
+
+23                                  circumstances,
+
+24                           Cc.    Failure          to       notify            the        Engineer                of         seasonal                 closures,
+
+25                                  along         with        the      temporary                  removal                fee.
+
+26                           D.     Failure          to       pay      renewal               fees.
+
+Page         10   -   ORDINANCE
+
+                                                                                                         03000-0374 (2)
+                           E.      Failure              of    the       Applicant                  to     provide                the       Road       Department
+
+                                   with          a    new        sign    when           notified                of     the        need        by      the
+ dS
+
+                                   Engineer.
+Ww
+
+                           F,      If    Wasco              County       Road           Department                   elects            to     discontinue
+ &
+
+                                   the        program,             in    which           case           prorated                 sign        fees      paid
+ mn
+
+                                   within             the     current             year        will         be        refunded.
+ 2)
+
+                           If     due    to          fire,        accident              or    similar                cause,            a     visitor—
+ i
+
+                           oriented              business           becomes              inoperable                    for        an       extended
+ ee
+
+                           period        of          time,        exceeding              7    days         but         not        more        than          90
+ en
+
+                           days,        its          Specific           Service              Signing             shall            be       temporarily
+ —
+
+                           removed,              but       the     business              shall            not        lose         its        priority,             nor
+
+12                         be   required               to     reapply             prior        to         the        normal            time        for       a
+
+13                         renewal           application.                     Further,                  extension                 may       be     granted          on
+
+14                         good     cause             shown.            However,              failure                of     the        owner          or
+
+15                         responsible                 operator              to    proceed                with         necessary                 repairs           as
+
+16                         rapidly           as       possible           shall           cause            loss         of    the           right       to
+
+17                         continued                 placement           of       the        Specific                Service               Signing           and
+
+18                         require           a       new     application.
+
+19     SECTION       IX.        ILLEGAL               SIGNS
+
+                1.     No       business               or     advertising                    signs         shall            be     allowed             on        public
+20
+                           road     right-of-ways,                       outside              of        incorporated                       city       limits,
+21
+
+22                         except        as          permitted           by       this        Ordinance.
+
+                           Signs        in       existence              on    October               11,         2000        are        not       in    violation
+23
+
+24                         of   this         Ordinance              until          October                11,        2003.
+
+25     Mitt
+26     Mtl
+Page   11   -   ORDINANCE
+
+                                                                                                        QRoee- O37                                                      (ae)
+                   3.           The        replacement               of    existing           signs         in    public            road     right-of~
+
+                                ways        after        the     adoption           of     this       Ordinance                is    a    violation
+BW
+
+                                of    this        Ordinance.
+WO
+
+                   4,           30    days        after        the        installation               of     a    new     Specific            Service
+-
+
+                                Signing,           all     other           signs     by       that         business            within        any        public
+ao
+
+                                road        right~of-way                  become     a     violation              of     the        Ordinance.
+ oan oO
+
+          SECTION         X.         SAVINGS        CLAUSE
+
+                   If     any        section        or     part           thereof        of    this         Ordinance               shall        be     held
+
+          illegal,           unconstitutional,                        or    void,        this        shall        not     be        construed            to
+ oso
+
+10        render        void         any    other         provision            or    requirement                  of     this        Ordinance.
+
+11        SECTION         XI.         ENFORCEMENT
+
+12                 This         Ordinance           may        be     enforced           in    any        manner         authorized               by     state
+
+13        or   local         law,       including              ORS        Chapters         368       and        374.
+
+          SECTION         XII.         ADOPTION
+14
+
+15                 Since         many       of     the     advertising               and       business                signs        now     in
+
+16        existence            on     public        roads           within         Wasco       County            have     existed            for       over    a
+
+          decade,         it     does       not     seem        necessary            to       declare            that     their           removal
+17
+          requires           the      immediate            adoption            of    this        Ordinance               for        the
+18
+          preservation                of    the     public            peace,        health           and        safety.             Therefore            an
+19
+          emergency             ig    not     declared              to     exist     and       this        Ordinance                shall        take
+20
+
+21        effect        90     days        after     its        adoption.
+
+22                 DATE        OF     FIRST       HEARING:                 September           13,        2000
+
+23                 DATE OF SECOND HEARING:                                 October 11, 2000
+
+24        A/T Tf
+25        Att
+26        Mit
+Page      12   -   ORDINANCE
+
+                                                                                              O4 no0- 0 297                                             “ae
+                         Regularly       passed        and    adopted      by   a   unanimous         vote     of   all   members
+
+            of   the          County    Court     of    the       County   of   Wasco,       State     of    Oregon,      this
+LH
+
+            11th         day    of   October,      2000.
+WO
+
+                                                                                WASC         ‘OUNTY    COURT
+ Be
+ om
+ Om
+ ny
+ an
+ wo
+
+                                                                                LR       #                          oe Med Fe
+                                                                                Dan    Ericksen,        €ounty       Commissioner
+ o
+
+        APPROVED’AS                  TO FORM:
+                     _
+12     Pa
+            a                                                 .
+        Eric             J.    Nisley
+13
+        Wasco             County       District        Attorney
+14      ATTEST:
+
+18
+16          /
+        Katen
+                               pun CW
+                          LeBreton
+
+17      Wasco             County Clerk
+
+18
+
+19
+20
+
+21
+
+22
+
+23
+
+24
+25
+26
+
+Page    13       -       ORDINANCE
+
+                                                                                2 0t0- 037Y ‘2e)
+                                                                    EXHIBIT          "A"
+os
+                       2G-5 SPECIFIC SERVICE SIGNING                      | et (e)
+
+     2G-5.1    Application of Specific Service Signs
+        Specific service signs provide travelers with business identification and
+     directional information for essential motorist services. The signs may be
+     used on any class of highway and are intended for use primarily on areas
+     rural in character. The use of specific service signs should be based on a
+     determination of motorist need for this type of signing.
+        Specific service signs, if used, shall carry word legends for one (or two in              1-161 (c}
+                                                                                                  Rev. 5
+     remote rural areas, see Section 2G-5.5) of the following services, GAS,
+     FOOD,     LODGING,        OR    CAMPING,        along   with    an    appropriate
+     directional legend such as NEXT       RIGHT,    SECOND     RIGHT or
+     directional arrows, the exit number where applicable, and one or more
+     separately attached business logos. The signs shall have white reflectorized
+     uppercase letters, numbers, arrows, and borders on a blue background.
+     The signs may be illuminated. Typical specific service signs are shown in
+     Figure 2-47. The color and size of logos on a sign are specified in Sections                 11-161 (c)
+                                                                                                  Rev. 5
+     2G-5.2 and 2G-5.3.
+        The number of signs shall be limited to one for each type of service
+     along an approach to an interchange or intersection. The number of logos
+     permitted on a sign is specified in Sections 2G-5.5 and 2G-5.6.
+        In the direction of traffic, successive specific service signs shall be those
+     of CAMPING, LODGING, FOOD, and GAS in that order. The signs
+     should be located so as to take advantage of natural terrain, to have the
+     least impact on the scenic environment, and to avoid visual conflict with
+     other signs within the highway right-of-way. Unprotected sign supports
+     located within the clear zone shall be of a breakaway type of design.
+     Typical sign locations are shown in Figure 2-48.
+
+     2G-5.2   LOGOS
+       A business logo, which may consist of the business identification
+     symbol, name, brand, trademark, or combination, shall be shown on a
+     separate panel which is attached to the specific service sign. Logos should                  -161 (c
+                                                                                                  Rev. 5
+     have a blue background with a white legend and border. The principle
+     legend should be at least equal in height to the directional legend on the
+     sign. Where business identification symbols or trademarks are used alone
+     for a logo, the border may be omitted, the symbol or trademark shall be
+     reproduced in the colors and general shape consistent with customary use,
+     and any integral legend shall be in proportionate size.
+       Messages, symbols, and trademarks which resemble any official traffic
+     contro! device shall not be used.
+
+                                           2G-1   P rc00- o37               2)
+                                                                                Rev.       3/89
+2G-5.3 Sibi Logos and Signs                                         @
+   Each logo, including its border, when attached to a specific service sign,
+shall be contained within a rectangular background area which shall not                                                &
+exceed the dimensions shown in Table II-4 for the applicable class of
+highway and location. Category 1 sizes are for use on expressways where
+access to crossroads is provided by at-grade intersections. Category 2 sizes
+are intended as alternates for signing at-grade intersections located
+between interchanges on expressways. Category 2 sizes shall be used only
+in conformance with the State signing policy specified in Section 2G-5.8.
+
+                             Table II-4 Logo Sizes
+
+                                                                                             FOOD
+                                                  GAS                           LODGING         CAMPING
+
+Class of Highway                       Width             Height                    Width            Height
+
+Freeway (Section 2F-1)........           48"                  36"                   60”               36"
+Expressways (Section 2E-1)
+  Interchanges..............-            48"                  36”                   60”               36”
+  Intersections—Category 1 ...           36"                  24"                   36"               24"
+  Intersections—Category 2 ...           48”                  36*                   60"               36"
+Conventional Roadsand Ramps              24”                  18"                   24"               18”           Wetet (c}
+
+   Sign sizes must be fixed primarily in terms of the amount and height of                                              Pan
+legend and the number and size of logos attached to the sign. The vertical                                              & #3
+and horizontal spacing between logos shall not exceed 8 inches and 12
+inches, respectively. Reference shall be made to Sections 2A-19, 2E-12,
+and 2F-12 for information on borders and on interline and edge spacing.
+
+2G-5.4 Size of Lettering
+   All letters and numerals on specific service signs, other than on the
+logos, shall conform to the sizes specified in Table II-5. Letter sizes
+specified for Expressway Intersections, Category 2, shall be used only in
+
+     Table tf-5—Letter and Numeral Sizes for Specific Service Signs
+
+                              Freeways                         Expressways                          Ramps and
+                                               Interchanges                  Intersections          Conve ational
+                                                              ——       oo       —_                    Fighways
+                                                               Category 1 Category 2
+
+Services ...........22005-       10°               10"                  6"                10°            4"
+Action Message .........-        10"               10”                  6"                10”            4"
+Exit Legends
+   Words ..........06--6-        10°               10”
+   Numeral ..............        10”               10”
+   Letter... .......60005.       10”               10”
+
+Rev. 3/86   |                              2G-2                (P2,000-C 394                             (ax)
+conjunction with Category 2 logo sizes given in Table II-4. Arrow details
+are provided in the publication ‘‘Standard Highway Signs.”’ *
+
+2G-5.5   Signing at Interchanges
+  When    used on freeways or at interchanges on expressways, a separate
+specific service sign shall be used for each type of service for which logos
+are displayed. Exceptions may be made at remote rural intersections. The
+specific service signs shall be erected between the previous interchange and
+800 feet in advance of the exit direction sign at the interchange from which
+the services are available. There should be at least 800 feet spacing between
+the signs. Excessive spacing is not desirable. Specific service signs should
+not be erected at an interchange where the motorist cannot conveniently
+reenter the freeway or expressway and continue in the same direction of
+travel.
+   At single-exit interchanges, the name of the type of service followed by
+the exit number shall be displayed on one line above the logos. At
+unnumbered     interchanges, the directional legend NEXT           RIGHT     (LEFT)
+shall be substituted for the exit number. The GAS specific service signs
+should be limited to six logos and the FOOD, LODGING,                      and             It- 164 («
+                                                                                           Rev. 5
+CAMPING specific service signs should be limited to four logos each.
+   At double-exit interchanges, the specific service signs should consist of
+two sections, one for each exit. The top section shall display the logos for
+the first exit and the lower section shall display the logos for the second
+exit, The name of the type of service followed by the exit number shall be
+displayed in a line above the logos in each section. At unnumbered
+interchanges, the legends NEXT RIGHT (LEFT) and SECOND RIGHT
+(LEFT) shall be substituted for the exit numbers. Where a type of motorist
+service is to be signed for at only one exit, one section of the specific
+service sign may be omitted, or a single-exit interchange sign may be used.
+The number of logos on the sign (total of both sections) should be limited                 M-161 (
+                                                                                           Rev. 5
+to six for GAS and four each for FOOD, LODGING, and CAMPING.
+   In remote rural areas, where not more than two qualified facilities are
+available for each of two or more types of services, logos for two types of
+services may be displayed on the same sign. Not more than two logos for
+each type of service shall be displayed in combination on a sign. The name
+of each type of service shall be displayed above its respective logo(s), and
+the exit number shall be displayed above the names of the types of
+services. At unnumbered interchanges, the legend NEXT RIGHT (LEFT)
+shall be substituted for the exit number. Logos should not be combined on
+a sign when it is anticipated that additional service will become available in
+the near future. When it becomes necessary to display a third logo for a
+type of service displayed in combination, the logos involved shall then be
+displayed as required at single- or double-exit interchanges.
+  * Available from the Superintendent of Documents,   U.S. Government Printing Office,
+Washington, D.C. 20402.                       .   3.000 037                 , ie)
+
+                                        2G-                                  Rev.   3/86
+             At single-exit interchanges, exit ramp signs Mall be installed along the
+           ramp or at the ramp terminal for service facilities which have business
+           logos displayed along the main roadway except that logos for facilities
+           visible from the ramp terminal may be omitted. Logos on ramp signs shall
+           be duplicates of the corresponding logos installed along the main
+       :   roadway, but reduced in size. The reduced size logos may also be installed
+cose       along the crossroad. Ramp signs should include distances to the service           W161 (ce)
+           facilities. Directions shall be indicated by arrows. The minimum letter              :
+           height should conform to Table IJ-5, except that any legend on a symbol
+           shall be proportional to the size of the symbol. Ramp signing may be used
+           on ramps and crossroads at double-exit interchanges.
+
+           2G-5.6    Signing at Intersections
+              When specific service signs are used on conventional roads and at
+           intersections on expressways, they should be erected between the previous
+           interchange or intersection and 300 feet in advance of the intersection
+           from which the services are available. The spacing between signs should be
+           determined on the basis of an engineering s study. Signs similar to exit ramp
+           signs may be provided on the crossroad. Logos should not be displayed for
+           a type of service for which a qualified facility is visible from a point on the
+           traveled way 300 feet from the intersection.
+              Each specific service sign should be limited to four logos. Not more than
+                                                                                            f° -;
+           four logos for each type of service should be displayed along each | &
+           approach to the intersection. A maximum of two logos for each of two             ae
+           different types of services may be combined on the same sign. The name of       Heh (c)
+           each type of service shall be displayed above its logo(s), together with an
+           appropriate legend such as NEXT RIGHT (LEFT) or a directional arrow.
+
+           2G-5.7    Guidelines for Specific Service Signing
+              Use of specific service signing should conform to the following
+           guidelines:
+              1. Eligible service facilities shall comply with laws concerning the
+           provisions of public accommodations without regard to race, religion,
+           color, age, sex, or national origin, and laws concerning the licensing and
+           approval of service facilities.
+              2. Distances to eligible services should not exceed 3 miles in either
+           direction, except that, if within the 3 miles limit, services of the type being
+           considered are not available, the limit of eligibility may be extended in 3
+           mile increments until one or more services of the type being considered, or
+           15 miles, whichever comes first, are reached.
+             3. The use of GAS signs inchiding:
+                (1) vehicle services including fuel, oil, tire repair, and water;
+                (2) restroom facilities and drinking water;
+
+           Rev. 3/86                            2G-4       /. gouo- 0374 c oe)
+    (3) continuous operation at least 16 hours per day, 7 days per week,
+for freeways and expressways, and continuous operation at least 12 hours
+per day, 7 days per week, for conventional roads; and
+    (4) telephone.
+
+   4. The use of FOOD signs including continuous                                  operations    to serve
+three meals a day, 7 days a week and a telephone.
+
+       GAS — EXIT 44                                gam|         LODGING — EXIT 44 nag
+
+  Ld
+  |IL
+  poe poe pa                                                     ba] oo
+                                               %” BORDER
+                                    TT                            Se
+                                     |     i       TIN’S
+                                    Ta             TEL            =     TYPICAL   LODGING   BUSINESS    SIGN
+                                                                  5%”
+
+                                    at |           so”     ——+
+
+                                SINGLE EXIT INTERCHANGE
+
+      GAS — EXIT 211A
+
+       GAS EXIT 211B
+
+                                            Note
+                                            OIRECTIONAL
+                                            ARROWS MAY
+                                            BE USED WHEN
+                                            APPROPRIATE
+
+                                                             Fel a
+                                         INTERSECTION
+
+                     Figure 2-47.        Typical Specific Service Signs
+
+                                             2G-5                                                Rev.    3/86
+                                           THE TRAVEL DISTANCE
+                                           TO BE SHOWN ON SIGNS                                                      a
+                                           SHOULD BE MEASURED                                                   k-
+                                           FROM THIS POINT                                                      q        :
+
+                                                                                         IF A LOOP IS TO BE
+                                                                                         SIGNED, THE TRAVEL
+                                                       CAMPING                           DISTANCE TO BE SHOWN
+                                                                                         ON SIGNS SHOULD BE
+                                                                                         MEASURED FROM HERE
+                                                         EXIT RAMP SIGNS (AS REQUIRED)
+
+    TRAVEL DISTANCE FOR                                      GAS — EXIT 44               GAS   — EXIT 44
+    SIGN PRIORITY SHOULD                                cnet mens meas               prcapcrarcss
+                                                                                     t       tt    H
+    ALWAYS BE MEASURED                                  i 4.4L.                      bide       sb
+    FROM THIS POINT                                     e-    nec      4ec4
+                                                        L.-J           4d
+                  EXIT 44
+
+           METROPOLIS                                  FOOD — EXIT 44                    FOOD — EXIT 44
+              UTOPIA                                   a
+                                                       Le          L
+                                                       mere
+                                                       a
+
+                                                      LODGING — EXIT 44
+
+                                                      PTE
+                                                      uw--!
+                                                      mun
+                                              LINE
+
+                                                      L--ii
+                                              ROW
+
+                                                     CAMPING — EXIT 44
+                                                     ene         ne
+                  EXIT 44                            Lee         be
+                  3                                  moose
+                                                     rn os |
+           METROPOLIS
+              UTOPIA
+            EXIT TMILE
+
+:                           Figure 2-48.     Typicai Signing for interchanges
+
+      5. The use of LODGING          signs including adequate       sleeping
+    accommodations, and a telephone.
+      6. The   use of CAMPING        signs including     adequate   parking
+    accommodations, modern sanitary facilities, and drinking water.
+
+    2G-5.8   Signing Policy
+       Each agency with highway jurisdiction that elects to use specific service
+    signs should establish a signing policy which includes, as a minimum, the
+    Provisions of Section 2G-5.7 and the following criteria:
+       1. Selection of eligible businesses.
+       2. Distances to eligible services.                                                  %a)
+                                                                             iy a 600-2ob BI
+
+    Rev.   3/86                                      2G-6
+  3. Wise      of logos and legends contoM@ng                    to the requirements       of
+Tables II-4 and II-5.
+   4, Removal or covering of logos                during   off    seasons    for   business
+operating on a seasonal basis.
+   §. The circumstances, if any, in which specific service signs may be used
+outside rural areas.
+  6. Determination      of   the   costs     to    businesses      for   initial   permits,
+installations, annual maintenance, removal, etc., of logos.
+
+                                                           Paxp00- 0274 ‘Qe )
+                                           2G-7                                    Rev.   3/86
+                                                                 EXHIBIT “B”
+
+DATE:
+
+TO:
+
+FROM:       WASCO COUNTY PUBLIC WORKS
+            2705 E. Second
+            The Dalles, Oregon 97058
+
+RE:         SPECIFIC SERVICE SIGN PERMIT #
+
+             LOCATION(S):
+
+Enclosed is your approved permit for Business Guide Sign Placement. Please
+review the permit. ALL RENEWAL FEES ARE DUE AND PAYABLE ON
+JANUARY 1ST OF EACH YEAR.
+
+Please let us know if you have any comments or suggestions regarding the
+Specific Service Signing Program.
+
+Enclosure
+
+                                                        [)Geoo- ra) 0874 a)
+                                    sco        COUNTY ROAD RiGHT-oF-wa                           EXHIBIT “C”
+                      SPECIFIC SERVICE SIGNING PLACEMENT PERMIT/APPLICATION
+                       (One sign request per blank permit. Make additional copies as necessary.)
+
+PERMIT NO:                                ROAD NAME:                                                   ROAD NO:
+
+Applicant must be the owner or person having legal right to represent the firm or business applying for the
+Specific Service Signing Placement Permit.
+
+BUSINESS NAME:
+
+MAILING ADDRESS:
+
+CITY:                                                     STATE:                                     ZIP:
+
+STREET ADDRESS/LOCATION OF BUSINESS:
+
+TAX DESCRIPTION:
+TOWNSHIP.                       RANGE.                  EAST, W.M.       SECTION                    TAX LOT.
+
+Briefly describe the nature of your business or company:
+
+BUSINESS METHOD OF OPERATION:
+SEASONAL OPERATION: Y/N    (circle)   From                                                  To
+YEAR-AROUND OPERATION: Y / N (circle)
+
+ADDRESS & ROAD FOR REQUESTED SIGN LOCATION
+
+NEAREST INTERSECTING ROAD
+
+DISTANCE & DIRECTION FROM INTERSECTING ROAD
+
+PROPOSED SIGN SKETCH ATTACHED:                    Y / N     (circle)
+
+SIGN VISIBLE FROM:         North          South            East         West.
+
+This application is made pursuant to Wasco County Specific Service Signing Ordinance and O.R.S. Chapter #368. The
+applicant agrees to save and hoid harmless the County for any and all fiability of whatever kind or nature arising or to
+arise by reason of issuance of this Specific Service Signing Permit. Applicant is to have the sign constructed to County
+standards and delivered to the Road Department within 90 days of notification of the sign location.         Failure to provide the
+sign within the 90 days will be considered a withdrawal of the application.
+
+All field maintenance to be performed by Road Department personnel only.                         Adjustments or
+maintenance not permitted by applicant.
+
+All expense of replacement due to damage, vandalism, or deterioration shall be borne by the applicant.           Road Department
+will install new sign supplied by applicant at no additional cost if provided under Ordinance guidelines.
+
+APPLICANT'S SIGNATURE AND DATE                             TITLE
+
+FORM TO BE RETURNED TO:            WASCO COUNTY PUBLIC WORKS
+                                   2705 E. Second Street
+                                   The Dalles, Oregon 97058
+
+FEES MUST BE SUBMITTED WITH APPLICATION:                  $75.00 per sign application.   All checks are to be made payable to
+“W asco County Public Works”.
+                                                                                         ~ O00 <4 304                     _)
+                                                        EXHIBIT “D”
+
+         THIS PORTION OF APPLICATION FOR DEPARTMENT USE ONLY
+
+DATE APPLICATION RECEIVED:                      FEE PAID: $
+
+BUSINESS LOCATED ON:                                       MILE POST:
+
+CLOSEST INTERSECTION:
+
+APPROXIMATE MILEAGE FROM INTERSECTION TO BUSINESS:
+
+APPROVED FOR
+
+INTERSECTION GUIDE SIGN / ADVANCED GUIDE SIGN   (circle type)
+
+DATE APPROVED:
+
+LOCATION/ROAD:                                             MILE POST:
+
+APPROVED SKETCH DETAILS:
+
+LOGO/SIGN PREVIEW
+
+DATE RECEIVED:
+
+DATE APPROVED:
+
+SIGN RECEIPT/PLACEMENT
+
+DATE SIGN TO BE PROVIDED TO ROAD DEPARTMENT
+(NLT 90 DAYS AFTER PERMIT APPROVAL):
+
+DATE SIGN RECEIVED BY ROAD DEPARTMENT:
+
+DATE SIGN POSTED BY MAINTENANCE:
+
+APPLICATION DENIAL
+
+REASON FOR DENIAL OF APPLICATION:
+
+REFUND TO BE PROVIDED TO APPLICATION: $
+
+DATE OF DENIAL LETTER TO APPLICANT:
+
+                                                3006-02 (ar)
+                                                   EXHIBIT “E”
+
+         SPECIFIC SERVICE SIGN PERMIT SKETCH(ES)
+                                       LOCATION:
+Date:
+
+BS #:
+
+ BS #:
+
+ BS #:
+
+                                          f/000- DBI (20 )
+                                                         @                         EXHIBIT   «FQ
+                        @
+
+                              ADVANCE QFF-INTERSTATE
+                               (LOW SPEED/LOW VOLUME)
+
+                                                                        |
+                                                                        =
+         :                                       42°
+
+     h
+                                            LODGING                         |£€
+                                     RIGHT 1/4 MILE} *
+
+                               “|                  24         g*            i
+
+                                                 36"           |_
+
+                                           CAMPING                 |=
+                                        NEXT       RIGHT}
+
+ae                                                                 Z : ne a                             a
+
+4                              |                               \                               .
+                                                                                                        ws
+                                                                                                        vv
+                                     | 6         2a          e |
+Ke
+
+                                    Sign Background: Blue, Reflective             Sheeting          &
+                                    Sign Legend; White, Ref lective
+
+             OREGON           DEPARTMENT                OF         TRANSPORTATION
+             Approved   By:    S.T.E.          Date: 3/94          Publication        Date: 37 98
+                                                                                                   im    449C€
+                                                                                  eee
+                                                                                e                      EXHIBIT           "“G"
+
+                       OFF-INTERSTATE                                               INTERSECTION
+                                         LOW       SPEED/LOW                               VOLUME
+
+                                                              4'-0"
+
+                                                                        CAMPING) =
+
+                                                                                              cc 5 Paar
+                                                                                cS
+
+                                                                                                  wn
+
+                                                                                                       ~
+
+                                                                                                           a4
+                                                                                                           >
+
+                                                                                                                     °
+                                                                                                                     <
+                                                                          3/4 MI.
+                                               3 Radius      Le ciysh borde                            xi8* Logo
+
+                   OFF-INTERSTATE                                COMBINATION                                         ADVANCE
+                                         LOW         SPEED/LOW                              VOLUME
+
+                                                                 5-0"                                      {
+
+                                                                                                               =
+                                            RIGHT                 1/4 MILE                                     #c
+                                                                                                               >
+
+                                           FOOD                      LODGING                                   |<<
+                             °                                                                                                         SA \
+SIGNST DPG.F 13
+
+                                                                                                               24'xI8* Logo            >
+                                                                                                                                       NY)
+                                                                                                                                       D
+                                 LM                Ae             eg                                           x                        :
+                                          3 Radius                              I" Flush    border     |                               8
+
+                                    Ve                         Myr aVyt                                3/2"                       SN          |
+                                                     Vert.   spacer       bar     is Yo" wide
+
+                  OREGON              DEPARTMENT                            OF             TRANSPORTATION
+                  Approved       By: 0.T.C.                  Date:        1/92             |Publication            Date:        3/98
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.2% of
+the word sequence, and on 31.4% of the figures. Dictionary-recognizable words: 95.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

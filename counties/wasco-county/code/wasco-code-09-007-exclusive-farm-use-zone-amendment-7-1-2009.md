@@ -1,0 +1,4181 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-09-007-exclusive-farm-use-zone-amendment-7-1-2009
+title: '09-007 Exclusive Farm Use Zone Amendment 7-1-2009'
+doc_type: ordinance
+citation: '09-007 Exclusive Farm Use Zone Amendment 7-1-2009'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-007%20Exclusive%20Farm%20Use%20Zone%20Amendment%207-1-2009.pdf?t=202503260855090
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2995dfa6d58da72340cda64ab746a990c903f31366e49742ab95428d844c42c4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.991; figure agreement 0.713; dictionary ratio 0.971. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 105.900
+    - ORS 195.120
+    - ORS 195.300
+    - ORS 197.015
+    - ORS 197.610
+    - ORS 197.646
+    - ORS 197.660
+    - ORS 197.732
+    - ORS 197.763
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.236
+    - ORS 215.247
+    - ORS 215.275
+    - ORS 215.283
+    - ORS 215.296
+    - ORS 215.416
+    - ORS 215.441
+    - ORS 30.936
+    - ORS 309.845
+    - ORS 315.141
+    - ORS 321.267
+    - ORS 390.800
+    - ORS 390.825
+    - ORS 433.735
+    - ORS 443.400
+    - ORS 443.480
+    - ORS 443.705
+    - ORS 454.695
+    - ORS 455.315
+    - ORS 459.245
+    - ORS 459A.725
+    - ORS 468B.095
+    - ORS 469.300
+    - ORS 469.430
+    - ORS 497.248
+    - ORS 517.750
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 537.130
+    - ORS 540.505
+    - ORS 541.615
+    - ORS 565.210
+    - ORS 624.010
+    - ORS 92.010
+    - OAR 340-093-0050
+    - OAR 660-011-0060
+    - OAR 660-033-0130
+    - OAR 660-034-0035
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# 09-007 Exclusive Farm Use Zone Amendment 7-1-2009 (09-007 Exclusive Farm Use Zone Amendment 7-1-2009)
+
+## At a glance
+
+OCR-derived text of 09-007 Exclusive Farm Use Zone Amendment 7-1-2009. Not human-verified.
+
+## Full text
+
+FILED
+                                                                      WASCO COUNTY
+
+                                                                    2001 JUL -2   P 2 28
+
+                                                                  KAREN LEBRETON COATS
+                                                                       COUNTY CLERK
+
+                      IN THE COUNTY COURT OF THE STATE OF OREGON
+
+                             IN AND FOR THE COUNTY OF WASCO
+
+     IN THE MATTER OF THE WASCO COUNTY PLANNING)
+     & DEVELOPMENT DEPARTMENT'S REQUEST TO       )
+     APPROVE THE PROPOSED POST-
+     ACKNOWLEDGEMENT LEGISLATIVE AMENDMENTS
+     TO UPDATE THE EXCLUSIVE FARM USE ZONE AND            =) ORDINANCE
+     ASSOCIATED CHAPTERS TO CREATE CONSISTENCY            ) #09-007
+     WITH STATE REGULATIONS AND MAKE OTHER                )
+     AMENDMENTS APPROPRIATE FOR                           )
+     WASCO COUNTY. (FILE NUMBER PLALEG-08-12-             )
+     0002)
+
+            NOW   ON THIS DAY, the above-entitled matter having come on regularly for
+
+     consideration, said day being one duly set in term for the transaction of public business
+
+     and a majority of the Court being present; and
+
+            WHEREAS, the Wasco County Exclusive Farm Use zone is at least five
+
+     legislative sessions out of date and is no longer consistent with state regulations; and it
+
+     has been approximately ten years since the last significant update to the Exclusive
+
+     Farm Use zone and there are numerous other local issues that can be resolved with an
+
+     amendment to this zone; and
+
+            WHEREAS     The Wasco County Planning & Development Department was
+
+10   directed by the Wasco County Court on 29 January 2009 per Section 9.010(A) of the
+
+ll   Wasco County Land Use & Development Ordinance to initiate a Post-Acknowledgement
+
+12   Plan Amendment process for a legislative text amendment to the Land Use and
+
+                                                                                            p88
+     Page 1 - ORDER
+
+                                                         byes bab
+       Development Ordinance to update the Exclusive Farm Use Zone and associated
+
+  2.   chapters to create consistency with state regulations and make other amendments
+
+  3.   appropriate for Wasco County; and
+
+ 4            WHEREAS:      The Wasco County Planning & Development Department sent
+
+  5    notification to DLCD pursuant to ORS    197.610 on 19 February 2009 and all affected
+
+  6    property owners pursuant to Measure 56 on 2 March 2009; and
+
+  7           WHEREAS:      That on 3 March 2009, at the hour of 3:00 PM at the Gorge
+
+  8    Discovery Center downstairs classroom the Wasco County Planning Department held a
+
+  9    legally notified public workshop with the Wasco County Planning Commission and the
+
+10     Wasco County Court on the above matter to review Agricultural Resource Group
+
+11.    recommendations, back ground information, and listen to public comments for the
+
+12     purpose of identifying preferred options and the need for any additional information prior
+
+13     to the Planning Commission hearing; and
+
+14            WHEREAS:      That on 7 April 2009, at the hour of 3:00 PM at the Gorge Discover
+
+15     Center downstairs classroom, the Wasco County Planning Commission met to conduct
+
+16     a legally notified public hearing on the above matter.   The Commission reviewed the
+
+17     record, heard the Staff recommendation and all relevant testimony from parties,
+
+18     deliberated and, on a vote of 5 to 0 (2 Commissioners Absent) elevated the request for
+
+19     a Post-Acknowledgement Plan Amendment with a recommendation of approval to the
+
+20     Wasco County Court with additional amendments; and
+
+21            WHEREAS:      That on 17 June 2009 at the hour of 11:00 AM in the Wasco County
+
+22.    Courtroom, Room 202, of the Wasco County Courthouse the Wasco County Court met
+
+23     to conduct a legally notified public hearing on the above matter. The County Court
+
+       Page 2 - ORDER
+
+                                                                     [7009-0867                     98
+     reviewed the record, heard the Staff recommendation and all relevant testimony from
+
+     the parties, deliberated and, on a vote of 3 — 0 approved the recommendation by the
+
+     Wasco County Planning Commission on the above matter with additional amendments,
+
+     as laid out in Attachment A, to be signed at the next scheduled County Court meeting,
+
+     1 July 2009; and
+wa
+
+            NOW THEREFORE        IT IS HEREBY ORDERED:      That the request by the Wasco
+
+     County Planning Department for a Post-Acknowledgement Plan Amendment for
+~l
+
+     legislative amendments to the Land Use and Development Ordinance to update the
+oo
+
+     Exclusive Farm Use Zone and associated chapters to create consistency with state
+
+10   regulations and make other amendments appropriate for Wasco County is approved.
+
+11          SIGNED this 1st day of July, 2009.
+
+     Approved as to Form:                         WASCO    COUNTY COURT
+
+                                                  Dan Erickseh, Jtdge
+     ExieT. Nisley
+     Wasco County District Attorney
+                                                      Aipaok
+                                                  Sherry Holliday, Commissioner
+
+                                                  Bill Lennox, Commissioner
+
+     Page 3 - ORDER
+
+                                                             Ln 00 4 -OD67 3a, 88
+                             ATTACHMENT A
+                            PLALEG-08-12-0002
+                 Amendments to EFU Zone & Related Chapters
+
+         Final Updated Versions of the Following Chapters of the
+                     Land Use and Development Ordinance
+
+Title Page:   This has been updated to reflect a new amendment date for the ordinance.
+
+Chapter 1: This includes numerous additions related to the EFU zone.
+
+Chapter 3 - Section 3.210:    This includes all of amendments within the Exclusive Farm
+Use Zone.
+
+Chapter 4: All of the parking and loading criteria are being taken from this chapter and
+included in Chapter 20 — Site Plan Review.
+
+Chapter 20: All of the parking and loading criteria are being brought to this chapter
+from Chapter 4. Additionally the review criteria associated with Home Occupations to
+Host Commercial Events are located in this Chapter.
+
+Misc: The following zones are being changed to reflect the relocation of the parking
+and loading criteria from Chapter 4 to Chapter 20. Each zone currently includes a
+reference to Chapter 4 which has been changed to Chapter 20.
+These Zones are not included as part of Attachment A.
+
+   -AR Zone: Section D(S) — Chapter 4 parking reference
+   -F-1 Zone: Section H(5) — Chapter 4 parking reference
+   -F-2 Zone: Section I(4)(c)(1)}- Chapter 4 parking reference
+   -F-F Zone: Section D(8) — Chapter4 parking reference
+   -R-R(5) Zone: Section D(7): Chapter 4 parking reference
+   -R-R(10) Zone: Section E(7): Chapter 4 parking reference
+   -R-R(2):   Section D(7) — Chapter 4 parking reference
+   -R-C: Section B & D(7) — Chapter4 parking and loading reference
+   -R-I: Section B & D(7) — Chapter4 parking and loading reference
+   -TVR: Section D(7) — Chapter 4 parking reference
+   -TVC: Section E(6) —- Chapter 4 parking reference
+   -TVM1: Section E(6) — Chapter 4 parking reference
+   -TVM2:     Section E(6)— Chapter4 parking reference
+   -TVRR: Section D(7) — Chapter 4 parking reference
+   -TVAG: Section D(6) — Chapter 4 parking reference
+   -WAMR2: Section D(7) — Chapter 4 parking reference
+   -WAMRS: Section D(7) — Chapter 4 parking reference
+   -WAMC2: Section E(9) — Chapter 4 parking reference
+   -WAMN2: Section D(9) — Chapter 4 parking reference
+
+                                                           (73007-0867 $38
+                                    EFU Related Definitions Only
+
+AUM - Animal Unit Month - Unit of measure of dry forage to graze a 900 - 1000 pound
+cow and calf for thirty (30) days as prescribed by the NRCS Rangeland Specialist.
+
+Accepted Farming Practice - A mode of operation common to farms and ranches of a
+similar nature necessary for the operation of such farms and ranches, with the intent to
+obtain a profit in money, and customarily utilized in conjunction with farm use.
+
+Agricultural Land (Per OAR 660-33-020(1)(a) - Means lands classified by the US Natural
+Resource Conservation Service as predominantly Class I-VI in Eastem Oregon; land in
+other soil classes that is suitable for farm use as defined in ORS 215.203 taking into
+consideration soil fertility; suitability for grazing; climatic conditions; existing and future
+availability of water for farm irrigation purposes; existing land use pattems; technological
+and energy inputs required; and accepted farming practices; land that is necessary to
+permit farm practices to be undertaken on adjacent or nearby agricultural lands; and
+land in capability classes other than [ - VI that is adjacent to or intermingled with lands in
+capability classes | ~ VI within a farm unit shall be inventoried as agricultural lands even
+though this land may not be cropped or grazed. Agricultural land does not include land
+within acknowledged urban growth boundaries or land within acknowledged exception
+areas for Goal 3 or 4.
+
+Agricultural Purposes - The predominant and gainful use of land for the following
+purposes: the growing of hay, grain, seed, row crops, horticultural crops, livestock, poultry
+and produce.
+
+Agricultural     Structure     - In any zone     a building or structure   may    be considered      in
+conjunction    with farm     use,   as defined   in this Chapter or ORS    215.203   subject to the
+following:
+
+    All buildings and structures
+
+    a.   The lot or parcel is enrolled in a farm deferral program with the County Assessor,
+
+    b. The owner provides a farm management plan that is reviewed and approved by the
+         Planning Department;
+
+    Agricultural Exempt Buildings Only
+
+    c.   The owner submits a signed floor plan showing           that only farm   related   uses will
+         occupy the building space; and
+
+    d.   The   owner will file a restrictive covenant     in the deed   records of Wasco     County
+         agreeing the it will be used solely as will be solely used as an agricultural building
+         as defined by ORS 455.315(2).
+
+                                                                                            Page 1 of 9
+
+                                                             b2ws-0267                                    S38
+Boarding of Horses       - The boarding of horses for profit in specified zones other than the
+Exclusive Farm Use zone shall include the following:
+
+    a. The stabling, feeding and grooming for a fee, or the renting of stalls for and the care
+       of horses not belonging to the owner of the property; and,
+
+    b. Related facilities, such as training arenas, corrals and exercise tracks.
+
+         The boarding of horses for profit does not include the following:
+
+    a. The mere pasturage of horses or the boarding of horses not owned by the property
+         owner for the purpose of breeding with the owner's stock;
+
+    b. The incidental stabling of not more than four (4) horses;
+
+    c.   The boarding of horses for friends or guests where no charge is made; and
+
+    d. Equestrian activities when the raising, feeding, training or grooming of horses is a
+       farm use by the property owner of the land qualifying for farm assessment under
+       regulations of the State Department of Revenue.
+
+Campground - A campground is an area devoted to ovemight temporary use for
+vacation, recreational or emergency purposes, but not for residential purposes.
+Overnight temporary       use    in the same   campground        by a camper    or camper's    vehicle
+shail not exceed a total of 30 days during any consecutive 6 month period.
+
+Commercial       Agricultural Enterprise - Consists of farm operations that will contribute
+in a substantial way to the area's existing agricultural economy;                 and   help maintain
+agricultural processors and established farm markets. When determining whether a
+farm is part of the commercial agricultural enterprise, not only what is produced, but
+how much and how it is marketed shall be considered. These are important factors
+because of the intent of Goal 3 to maintain the agricultural economy of the state.
+
+Compost - A mixture of decaying, organic matter, such as leaves and manure, used
+as fertilizer.
+
+    a.   Green Feedstocks — Materials low in: (1) Substances that pose a present or future
+         hazard to human        health or the environment; (2) Substances that are low in, and
+         unlikely to support, human pathogens.       Green feedstocks include but are not limited
+         to yard debris, animal manure, wood waste, vegetative food waste, produce waste,
+         vegetative   restaurant    waste,   vegetative   food    processor    byproducts   and   crop
+         residue.
+
+    b.   Non-Green Feedstocks — Materials high in:         (1) Substances that pose a present or
+         future hazard to human health or the environment; (2) Substances that are high in,
+
+                                                                  2009-0207                        bryB
+        and likely to support, human pathogens. Non-green feedstocks include but are not
+        limited to animal parts and byproducts, mixed materials containing animal parts or
+        byproducts, dead animals and municipal solid waste.
+
+   c.   Agricultural Composting - Composting as an agricultural operation conducted on
+        lands employed for farm use.
+
+   d.   Institutional Composting — The composting of green feedstocks generated from the
+        facility's own activities..     It may also include supplemental feedstocks.    Feedstocks
+        must be composted on-site, the compost produced must be utilized within the
+        contiguous boundaries of the institution and not offered for sale or use off-site.
+        Institutional composting includes but is not limited to parks, apartments,
+        universities, schools, hospitals, golf courses and industrial parks.
+
+   e.   Reload Facility — A facility or site that accepts and        reloads only yard debris and
+        wood waste for transport to another location.
+
+Date of Creation and Existence - Within the Exclusive Farm Use zone, when a lot,
+parcel or tract is reconfigured pursuant to applicable law after November 4, 1993 or July
+1, 2001, the effect of which is to qualify a lot, parcel or tract for the siting of a dwelling or
+a non-farm division respectively, the date of the reconfiguration is the date of creation or:
+existence. Reconfigured means any change in the boundary of the lot, parcel or tract. A
+property line adjustment which does not have the effect of qualifying an otherwise non-
+qualifying tot, parcel or tract for a dwelling or a non-farm division respectively, does not
+change the date of creation.
+
+Farm Management          Plan -       Shall include information applicable to the specific farm use
+from the following list: Proof that the parcel is enrolled in a farm deferral program with the
+Wasco County Assessor; written description of a current farm operation that identifies the
+number of acres of land in current production, type and number of acres planted to a
+specific crop; the number of animals grazing or being raised on the farm parcel; existing
+farm structures (including irrigation sprinklers) supporting the farm use; and any existing
+water rights. The plan shall include a description of the number of employees working the
+farm parcel, and their responsibilities.          The   plan shall include a map that shows the
+location of all farm activities including but not limited to registered fields (Farm Services
+Agency map), grazing areas and areas dedicated to farm structures.
+
+Farm    Unit - means the contiguous and             noncontiguous tracts in common       ownership
+used by the farm operator for farm use as defined in ORS 215.203.
+
+Farm Use - The current employment of land for the primary purpose of obtaining a profit
+in money by raising, harvesting and selling crops or the feeding, breeding, management
+and sale of, or the produce of, livestock, poultry, fur-bearing animals or honeybees or
+for dairying and the sale of dairy products or any other agricultural or horticultural use or
+animal husbandry or any combination thereof.
+
+                                                                                           Page 3 of 9
+
+                                                                  3.009-bae7 7%88
+Farm use includes the preparation, storage and disposal by marketing or otherwise of
+the products or by-products raised on such land for human or animal use. Farm use
+also includes the current employment of land for the primary purpose of obtaining a
+profit in money by stabling or training equines including but not limited to providing
+riding lessons, training clinics and schooling shows.
+Farm    use    also        includes    the propagation,   cultivation,     maintenance       and   harvesting   of
+aquatic, bird and animal species that are under the jurisdiction of the State Fish and
+Wildlife Commission,             to the extent allowed      by the rules adopted            by the commission.
+Farm    use also includes the on-site construction and maintenance                           of equipment and
+facilities used for the activities described in this subsection.
+
+Preparation of products or by-products includes but is not limited to the cleaning,
+treatment, sorting, or packaging of the products or by-products.       Products or by-
+products raised on such land" means that those products or by-products are raised on
+the farm operation where the preparation occurs or on other farm land provided the
+preparation is occurring only on land being used for the primary purpose of obtaining a
+profit in money from the farm use of the land.
+
+Farm use does not include the use of land subject to the provisions of ORS chapter
+321(Timber Taxation), except land used exclusively for growing cultured Christmas
+trees as defined below or land described in ORS 321.267 (3) or 321.824 (3).
+
+   Cultured Christmas trees” means trees:
+
+   a.   Grown         on    lands     used   exclusively for that purpose,        capable     of preparation    by
+        intensive cultivation methods such as plowing or tuming over the soil;
+
+   b.   Of a marketable species;
+
+   c.   Managed to produce trees meeting U.S. No. 2 or better standards for Christmas
+        trees as specified by the Agriculture Marketing Services of the United States
+        Department of Agriculture; and
+
+   d.   Evidencing periodic maintenance practices of shearing for Douglas fir and pine
+        species, weed and brush control and one or more of the following practices:
+        Basal pruning, fertilizing, insect and disease control, stump culture, soil
+        cultivation, irrigation.
+
+   Current employment of land for farm use includes:
+
+   a. Farmland, the operation or use of which is subject to any farm-related government
+        program;
+
+   b.   Land     lying fallow for one           year as a normal         and    regular requirement     of good
+        agricultural husbandry;
+
+                                                                               p> 109.0267              Page yi      g 9
+. Land   planted    in     orchards   or other   perennials,     other   than     land   specified    in
+  subparagraph (d) of this paragraph, priorto maturity;
+
+. Land not in an exclusive farm use zone which has not been eligible for
+  assessment at special farm use value in the year prior to planting the current
+  crop and has been planted in orchards, cultured Christmas trees or vineyards for
+  at least three years;
+
+. Wasteland,     in an exclusive farm       use zone,       dry or covered      with water,    neither
+  economically tillable nor grazeable, lying in or adjacent to and in common
+  ownership with a farm use land and which is not currently being used for any
+  economic farm use;
+
+  Except for land under a single family dwelling, land under buildings supporting
+  accepted farm practices, including the processing facilities allowed by ORS
+  215.213 (1)(x) and 215.283 (1)(u) and the processing of farm crops into biofuel
+  as commercial activities in conjunction with farm use under ORS 215.213 (2)(c)
+  and 215.283 (2)(a);
+
+. Water impoundments lying in or adjacent to and in common ownership with farm
+  use land;                     ;                        ;
+
+. Any land constituting a woodlot, not to exceed 20 acres, contiguous to and
+  owned by the owner of land specially valued for farm use even if the land
+  constituting the woodlot is not utilized in conjunction with farm use;
+
+  Land lying idle for no more than one year where the absence of farming activity is
+  due to the illness of the farmer or member of the farmer's immediate family. For
+  purposes of this paragraph, illness includes injury or infirmity whether or not such
+  illness results in death;
+
+  Any land described under ORS 321.267(3) or 321.824(3);
+
+. Land   used    for the     processing   of farm   crops     into biofuel,     as defined    in ORS
+  315.141, if:
+
+  (1) Only the crops of the landowner are being processed;
+
+  (2) The biofuel from all of the crops purchased for processing into biofuel is used
+     on the farm of the landowner; or
+
+  (3) The landowner is custom processing crops into biofuel from other landowners
+      in the area for their use or sale.
+
+                                                                                                  78 g
+                                                                                              Page 5 of 9
+
+                                                              O009-Loo7
+   Accepted Farming Practice
+   As used in this subsection, “accepted farming practice” means a mode of operation
+   that is common to farms of a similar nature, necessary for the operation of such
+   farms to obtain a profit in money, and customarily utilized in conjunction with farm
+   use.
+
+Golf Course - An area of land with highly maintained natural turf laid out for the game
+of golf with a series of 9 or more holes, each including a tee, a fairway, a putting green,
+and often one or more natural or artificial hazards.
+
+High    Value   Land   (Per   OAR    660-33-020(8)(a)         - Means     land    in a tract composed
+predominantly of soils that are:
+
+   a.   Irigated and classified prime, unique, Class | or Il; or
+
+   b.   Not irrigated and classified prime, unique, Class | or Il.
+
+In addition to that land described         above,   high value farmland,          if in Eastem    Oregon,
+includes tracts growing specified perennials as demonstrated by the most recent aerial
+photography of the Agricultural Stabilization and Conservation Service of the U.S.
+Department of Agriculture taken prior to November 4, 1993. "Specified perennials” means
+perennials grown for market or research purposes including, but not limited to, nursery
+stock, berries, fruits, nuts, Christmas trees, or vineyards, but not including seed crops, hay,
+pasture or alfalfa. (added 12/96)
+
+Hunting Preserve - Pursuant to ORS 497.248 Subsections (1) - (4). The Oregon
+Department of Fish and Wildlife Commission issues a private hunting preserve license if
+the preserve contains not more than 1,280 acres and is on one continuous tract of land
+owned by the applicant or leased by the applicant for a period of at least five years.
+
+Hunting, fishing or shooting preserve               - Shall    comply     with    provisions   of Oregon
+Administrative Rule 635, Division 47.
+
+Irrigated   - means    watered     by an   artificial or controlled      means,     such   as sprinklers,
+furrows, ditches, or spreader dikes. An area or tract is “irrigated” if it is currently
+watered, or has established rights to use water for irrigation, including such tracts that
+receive water for irrigation from a water or irrigation district or other provider. For the
+purposes of this division, an area or tract within a water or irrigation district that was
+once inigated shall continue to be considered "irrigated" even if the irrigation water was
+removed or transferred to another tract.
+
+Medical     Hardship   — Means      a temporary     circumstance        caused    by serious     illness or
+infirmity, not to exceed two years in duration, and authorized by a licensed                      medical
+practitioner (Medical Doctor, Physicians Assistant or Nurse Practitioner).
+
+                                                                                                  Page 6 of 9
+
+                                                                   TOR           O#- 0267             /O¥       88
+Mobile Home for Storage — Mobile homes may not be used as storage buildings in any
+zones.
+
+Recreational Vehicle or Camping Vehicle - A vacation trailer or other unit with or without
+motive power which is designed for human occupancy and to be used temporarily for
+recreational or emergency purposes, but not for residential purposes, and is identified as a
+recreational vehicle by the manufacturer. A recreational or camping          vehicle shall be
+considered a dwelling unit if any of the following are true:
+
+   a.   It is connected to a sewer system (including septic tank) except for the purpose of
+        emptying the holding tanks; after such time it must be disconnected;
+
+   b.   It is connected to water or electrical lines except for purposes of charging the
+        batteries or filling water tanks; after such time it must be disconnected;
+
+        NOTE: Allowances can be made for subsections a and b above if in the opinion
+        of the Compliance Officer evidence suggests that the use of the RV is occasional
+        and temporary for the purpose of accommodating visitors
+
+   c.   It is occupied for more than 60 days, on the same property, in any consecutive 12
+        month period; or
+
+   d.   It is parked on property that is without a legally placed dwelling for more than 30
+        days during any 6 month period.
+
+Review Types -
+   a. Type | (Ministerial/Nondiscretionary)
+      These procedures are decided by the Director, or the Director's designee without
+        public notice or public hearing.   They do not require interpretation or the exercise
+        of policy or legal judgment in evaluating approval standards. Type | does not
+        qualify as a “land use decision” under Oregon Revised Statute (ORS)
+        197.015(11).
+
+   b. Type II (Administrative/Discretionary)
+      These procedures are decided by the Director or the Director's designee with
+        notice, as established by Chapter 2, and appeal period established by ORS
+        215.416(11).   They do require interpretation or the exercise of policy or legal
+        judgment in evaluating approval standards and qualify as a land use decision
+        under ORS 197.015(11). An appeal of a Type Il decision becomes a Type Iil
+        review.
+
+   c. Type Ill (Quasi Judicial/Planning Commission or County Court)
+
+        Planning Commission
+        These procedures are initially heard and decided solely by the Planning
+        Commission or on appeal from the Planning Director with the hearings process,
+
+                                                         TF Q067 tov                   1% 88
+        notice and appeal period governed by ORS 197.763.               They do require
+        interpretation or the exercise of policy or legal judgment in evaluating approval
+        standards and qualify as a land use decision under ORS             197.015(11).
+
+        County Court
+        These procedures are initially heard and decided solely by the County Court or
+        on appeal from the Planning Commission with the hearings process, notice and
+        appeal period governed by ORS 197.763. They do require interpretation or the
+        exercise of policy or legal judgment in evaluating approval standards and qualify
+        as a land use decision under ORS 197.015(11).
+
+   d. Type IV (Legislative/County Court)
+      These procedures are heard and decided solely by the County Court after an
+      initial hearing and recommendation is made by the Planning Commission. The
+        hearings    process,   notice   and   appeal   period    are   governed   by ORS       197.763.
+        They do require substantia! interpretation or the exercise of policy or legal
+        judgment and qualify as a land use decision under ORS 197.015(11).
+
+Shooting    Course     - Any   lot(s) or parcel(s) where        target shooting   (excluding     hunting
+preserves) is conducted on a commercial basis.
+
+Solid Waste - All putrescible and non-putrescible waste, including, but not limited to,
+garbage, rubbish, refuse, ashes, waste paper and cardboard, grass clippings,
+composts, sewer sludge, residential, commercial, and industrial appliances, equipment
+and furniture, discarded or inoperable vehicles, vehicle parts or vehicle tires, manure,
+vegetable or animal solid and semisolid waste and dead animals. The term Solid Waste
+does not include:
+
+   a.   Materials    used   for fertilizer or for other    productive     purposes   on   land    in the
+        growing and harvesting of crops or the raising of fowl or animals;
+
+   b.   Septic tank and cesspool pumping or chemical toilet waste;
+
+   c.   Reusable beverage containers as defined in ORS 459A.725; and
+
+   d.   Source separated principal recyclable materials as defined in ORS Chapter 459
+        and the Rules promulgated thereunder, which have been purchased or
+        exchanged for fair market value.
+
+Tract - One or more contiguous lots or parcels in the same ownership.
+
+Utility Facilities Necessary for Public Service - Facilities for providing communication,
+water, sewers or transportation and facilities accessory to energy facilities.
+
+                                                            773 069-Loe9                         a8
+Utility Facility Service Lines — Utility lines and accessory facilities or structures that end
+at the point where the utility service is received by the customer and that are located on
+One or more of the following:
+
+   a. A public right of way;
+
+   b. Land immediately adjacent to a public right of way, provided the written consent of
+        all adjacent property owners has been obtained; or
+
+   c.   The property to be served by the utility.
+
+Yurt - A round, domed shelter of cloth or canvas on a collapsible frame.
+
+                                                                                     Page 9 of 9
+
+                                                       DB009 Lotz /3%8%
+                                                                                                        Page 3.210-1
+
+SECTION 3.210                  EXCLUSIVE FARM USE ZONE
+
+A.   Purpose
+     The purpose          of    the   Exclusive   Farm     Use   Zone     is   to   preserve      and     maintain
+     agricultural lands for farm use consistent with historical, existing and future needs,
+     including economic needs that pertain to the production of agricultural products. And
+     to permit the establishment of only those uses that are compatible with agricultural
+     activities consistent with the applicable Statutory and Administrative Rule provisions
+     of ORS Chapter 215 and OAR Chapter 660, Division 33.
+
+     Uses,    buildings        or structures   hereafter   erected,     structurally   altered,     enlarged       or
+     moved and land hereafter used in the Exclusive Farm Use zone shall comply with
+     the following regulations. If these regulations are preempted by mandatory ORS’s
+     or OAR’s those shall be applied directly pursuant to ORS                   197.646.
+
+B.   Uses Permitted Without Review
+     The following uses may be allowed on lands designated Exclusive Farm Use without
+     review.
+
+     FARM/FOREST USES
+
+     1.   Farm use as defined by Section 1.090, Definitions and ORS 215.203 that is non-
+          discretionary.
+
+     2.   Propagation and harvesting of a forest product.
+
+     NATURAL RESOURCE
+
+     3.   Creation   of, restoration       of or enhancement          of wetlands       that do     not include
+          development as defined by Section 22.030 in a FEMA designated Flood Zone.                                    If
+          the project is located wholly or partially within a FEMA designated Flood Zone
+          and includes structural development it shall be subject to Section D(2) below.
+
+     MINERAL, AGGREGATE, SOIL & GAS
+
+     4.   Operations for the exploration for minerals as defined                    by ORS      517.750.        Any
+          activities or construction relating to such operations shall not be a basis for an
+          exception under ORS 197.732(1)(a) or (b).
+
+     5.   Operations for the exploration for and production of geothermal! resources as
+          defined by ORS 522.005, and oil and gas as defined by ORS 520.005 including
+          the placement and operation of compressors, separators and other customary
+          production  equipment    for an individual well adjacent to the wellhead.
+          (Processing of said resources is a conditional use.)
+
+                                                                      Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                                   009-lot 7                                158 8
+Page 3.210-2
+
+    TRANSPORTATION                FACILITIES
+
+    6.    Climbing and passing lanes within a highway right of way existing as of July 1,
+          1987.
+
+    7.    Reconstruction or modification of public roads and highways, including the
+          placement of utility facilities overhead and in the subsurface of public roads and
+          highways along the public right-of-way, but not including additional travel lanes,
+          where no removal or displacement of buildings would occur and not resulting in
+          any new land parcels.
+
+    8.    Temporary public road and highway detours that will be abandoned and restored
+          to original condition when no longer needed.
+
+    9.    Minor betterment of existing public roads and highway related facilities such as
+          maintenance yards, weigh stations and rest areas within right of way existing as
+          of July 1, 1987, and contiguous public owned property utilized to support the
+          operation and maintenance of public roads and highways.
+
+     UTILITY/DISPOSAL FACILITIES
+
+     10. Utility facility service        lines:   Utility facility service   lines are   utility lines and
+          accessory facilities or structures that end at the point where the utility service is
+          received by the customer and that are located on one or more of the following:
+
+          a. A public right of way;
+
+          b. Land     immediately       adjacent to a public right of way,         provided   the written
+                consent of all adjacent property owners has been obtained; or
+
+          c.    The property to be served by the utility.
+
+     11. Transport of biosolids to tract of land for application. Pursuant to ORS 215.247 if
+         biosolids are transported by vehicle to a tract on which the biosolids will be
+         applied to the land under a license, permit or approval issued by the Department
+         of Environmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or
+         468B.055 or in compliance with rules adopted under ORS 468B.095, the
+         transport and the land application are allowed outright.
+
+          The application of biosolids which do not meet these criteria is subject to Section
+          D(2) below.
+
+     12. Irrigation canals, delivery lines and those structures and accessory operational
+         facilities associated with a district as defined in ORS 540.505.
+
+Section 3.210 - "A-1” Exclusive Farm Use Zone
+July 22, 2009                                                                 )     d           /S x
+                                                                                           Page 3.210-3
+
+     COMMERCIAL USES
+
+     13.An outdoor gathering as defined in ORS 433.735 or other gathering of fewer
+        than 3,000 persons that is not anticipated to continue for more than 120 hours in
+        any three month period.
+
+     14.Minor Home occupation that:
+
+        a.   Is carried on within a lawfully established dwelling only by members of the
+             family who reside in the dwelling;
+
+        b. Does not serve clients or customers on-site;
+
+        c.   Does not produce odor, dust, glare, flashing lights or noise;
+
+        d.   Does not occupy more than 25 percent of the floor area of the dwelling; and
+
+        e.   Does not include the on-premises display or sale of stock in trade.
+
+        Any Home      Occupation that exceeds these standards is Major and subject to
+        Section E(26) below.
+
+C.   Uses Permitted Subject to Property Development Standards
+     The following uses and activities may be allowed subject to a Type I Review on a
+     legal parcel designated   Exclusive Farm Use subject to the Subsection             F - Property
+     Development Standards, Chapter 10 - Fire Safety Standards and any other listed
+     standards.
+
+     1. Agricultural Structure: Buildings and structures other than dwellings customarily
+        provided in conjunction with farm use subject to meeting the definition in Section
+        1.090, Definitions.
+
+     2. Accessory Structure: Buildings and structures accessory to a legally established
+        dwelling not provided in conjunction with farm use subject to meeting the
+        definition in Section 1.090, Definitions.
+
+     3. A replacement dwelling to be used in conjunction with farm use if the existing
+        dwelling has been listed in a county inventory as an historic property and is listed
+        on the National Register of Historic Places. The application shall include a Farm
+        Management Plan documenting how the replacement dwelling will be used in
+        conjunction with a farm use.
+
+D.   Uses Permitted Subject to Standards
+     The following uses and activities may be allowed subject to a Type Il Review on a
+     legal parcel designated Exclusive Farm Use subject to the Subsection F - Property
+     Development Standards, H — Agricultural Protection, Chapter 10 - Fire Safety
+     Standards, as well as any other listed, referenced or applicable standards.
+
+                                                           Section 3.210 - “A-1" Exclusive Farm Use Zone
+                                                                                            July 22, 2009
+
+                                                                009- eb                    =/b% a4
+Page 3.210-4
+
+    FARM USES
+
+    1.   Farm use as defined by Section 1.090, Definitions and ORS 215.203 that is
+         discretionary.
+
+    2.   Land application of reclaimed water, agricultural process or industrial process
+         water or biosolids for agricultural horticultural or silvicultural production, or for
+         irrigation in connection with a use allowed in an exclusive farm use zone, subject
+         to the issuance of a license, permit or other approval by the Department of
+         Environmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or
+         468B.055, or in compliance with rules adopted under ORS 468B.095, and must
+         be reviewed subject to Section J(11), Additional Standards below.
+
+    COMMERCIAL USES RELATED TO FARM USE
+
+    3. A winery subject to Section J(6), Additional Standards below and the applicable
+       provisions of Chapter 20, Site Plan Review:
+
+    4.   A facility for the processing of farm crops or the production of biofuel as defined
+         in ORS 315.141 subject to the applicable provisions of Chapter 20, Site Plan
+         Review following:
+
+         a.    The farm on which the processing facility is located must provide at least one-
+               quarter of the farm crops processed at the facility.
+
+         b. The building established for the processing facility shall not exceed 10,000
+            square feet of floor area exclusive of the floor area designated for the
+            preparation, storage or other farm use or devote more than 10,000 square
+            feet to the processing activities within another building supporting farm use.
+
+         c. A processing facility shall comply with all applicable siting standards but the
+            standards shall not be applied in a manner that prohibits the siting of the
+            processing facility.   No division of a lot or parcel shall be approved to
+               separate a processing facility from the farm operation on which it is located.
+
+    5.   Farm     stands     subject     to Section    J(12),   Additional   Standards     below    and     the
+         applicable provisions of Chapter 20, Site Plan Review:
+
+    RESIDENTIAL USES
+
+    6.   Earm Dwelling: One single family dwelling customarily provided in conjunction
+         with farm use, subject to Section J(5), Additional Standards below.
+
+    7. Accessory Farm Dwelling(s):; An accessory farm dwelling is a single family
+       dwelling occupied by a person or persons principally engaged in the farm use of
+       the land and whose seasonal or year-round assistance in the management of the
+       farm use such as planting, harvesting, marketing or caring for livestock, is or will be
+         required     by the farm       operator.     Accessory    farm   dwelling   includes   all types    of
+
+says
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+                                                                    Py 009-bee7                       (78
+                                                                                            Page 3.210-5
+
+     residential structures allowed by applicable state building code. Accessory farm
+     dwellings are also subject to Section J(2), Additional Standards below.
+
+8.   Relative Farm Dwelling:     A single family dwelling on property used for farm use,
+     to be occupied by a relative of the farm operator or farm operator's spouse and
+     located on the same lot or parcel as the farm operator's dwelling, subject to the
+     following standards:
+
+     a.   The   relative is a child, parent,      stepparent,  grandchild, grandparent,
+          stepgrandparent, sibling, stepsibling, niece, nephew or first cousin of the farm
+          operator or the farm operator's spouse;
+
+     b.   The farm operator does, or will require the assistance of the relative in the
+          management of the farm use;
+
+     c. The    farm   operator   shall   continue   to   play   the   predominant        role    in the
+          management and farm use of the farm. A farm operator is a person who
+          operates a farm, doing the work and making the day-to-day decisions about
+          such things as planting, harvesting, feeding and marketing; and
+
+     d. The farm operator shall submit a farm management plan documenting how
+        the relative dwelling is necessary for maintaining the farm use.
+
+9.   Lot of Record Dwelling: One single family dwelling on a lot or tract of record less
+     than 80 acres, which does not otherwise qualify for a dwelling Subject to Section
+     E(5) (Non-Farm Dwelling) below and also subject to Section J(4), Additional
+     Standards below.
+
+10.Alteration, restoration relocation, or replacement of a lawfully                       established
+    dwelling subject to Section J(3), Additional Standards below.
+
+NATURAL RESOURCE
+
+11. Creation, restoration of or enhancement of wetlands that includes development
+    as defined by Section 22.030 in a FEMA designated floodplain subject to Section
+    3.740, Flood Hazard Overlay and Chapter 22, Flood Damage Prevention.
+
+UTILITY/ENERGY FACILITIES
+
+     Pursuant to Section 4.070, General Exceptions to Building Height Requirements,
+     these uses do not require a variance if they exceed 35 feet in height.
+
+12. Utility facilities "necessary" for public service, including wetland waste treatment
+     systems, but not including commercial utility facilities for the purpose of
+     generating electrical power for public use by sale, or transmission towers over
+     200 feet in height, subject to Section J(8), Additional Standards                below and the
+     applicable provisions of Chapter 20, Site Pian Review.
+
+                                                            Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                            007 bee? /e g2
+Page 3.210-6
+
+    13.A Transmission Facility under 200 feet in height subject to J(8)(a)(1) — (6) below
+          and the applicable Subject to Standards criteria of Chapter 19.
+
+    14.A        Wind _ Facility,     Wind        Energy      Conversion      System      (WECS)       or     Wind
+          Measurement        Device pursuant to the applicable Subject to Standards criteria of
+          Chapter 19.
+
+    15.A Hydroelectric Facility pursuant to the applicable Subject to Standards criteria of
+        Chapter 19.
+
+     PARKS/PUBLIC/QUASI-PUBLIC FACILITIES
+
+     16.Public or private schools,              including all buildings essential to the operation of a
+          schoo!, except that no such use may be authorized within three miles of an urban
+          growth boundary, unless an exception is approved pursuant to ORS                        197.732 and
+          OAR 660, Division 4, and further that no such use may be authorized on high
+          value farmland. This use is subject to the applicable standards of Chapter 20,
+          Site Plan Review.
+
+     17.Model Aircraft take-off and landing sites including such buildings or facilities as
+          may     be   reasonably      necessary,         subject   to the   following    standards    and     the
+          applicable standards of Chapter 20, Site Plan Review:
+
+          a.    Buildings and facilities shall not be more than 500 square feet in floor area or
+                placed on a permanent foundation               unless the building or facility pre-existed
+                the use.
+
+          b. The site shall not include an aggregate surface or hard surface area unless
+                the surface pre-existed the use.
+
+          c.    “Model aircraft” means a small-scale version of an airplane, glider, helicopter,
+                dirigible or balloon that is used or intended to be used for flight and controlled
+                by radio, lines or design by a person on the ground.
+
+     18.Churches and cemeteries in conjunction with churches consistent with ORS
+        215.441, except that no such use may be authorized within three miles of an
+        urban growth boundary, unless an exception is approved pursuant to ORS
+        197.732 and OAR 660 Division 4, and further that no such use may be
+        authorized on high value farmland. Existing facilities wholly within a farm zone
+        may be maintained, enhanced or expanded on the same tract. This use is
+          subject to the applicable standards of Chapter 20, Site Plan Review.
+
+     MISCELLANEOUS USES
+
+     19. On-site filming and related accessory uses may be conducted provided the use
+         does not exceed 45 days, subject to Section J(15), Additional Standards below.
+         On-site filming in excess of 45 days is a conditional use.
+
+Section 3.210 - “A-1" Exclusive Farm Use Zone
+July 22, 2009                                                       yyHO0F-              DEZ 7             / Vy gy g
+                                                                                                          Page 3.210-7
+
+E. Conditional Uses
+   The following uses and activities may be allowed subject to a Type Il or Type Ill
+   Review on a legal parcel designated Exclusive Farm Use subject to Subsection F -
+   Property Development Standards, H — Agricultural Protection, Chapter 5 —
+   Conditional Use Review, Chapter 10 - Fire Safety Standards as well as any other
+   listed, referenced, or applicable standards.
+
+   FARM/FOREST USES
+
+   1.   Propagation,      cultivation,        maintenance,      and     harvesting      of   aquatic      or     insect
+        species that are not under the jurisdiction of the State Fish and Wildlife
+        Commission or insect species. Insect species shall not include any species
+        under quarantine by the State Department of Agriculture or the United States
+        Department of Agriculture. Notice of all applications under this shall shell be sent
+        to the State     Department           of Agriculture   at least 20 calendar days              prior to any
+        administrative decision or initial public hearing on the application.
+
+   2.   Primary processing of forest products, subject to the following:
+
+        a.   Such facility does not seriously interfere with accepted farming practices and
+             is compatible with farm uses as defined.
+
+        b. Such facility may be approved for a one-year period which is renewable.
+
+        c. The facility is intended to be only portable or temporary in nature.
+
+        d. The primary processing of a forest product, as used in this section, means
+             the use of a portable chipper or stud mill or other similar methods                               of initial
+             treatment    of a forest product            in order to enable          its shipment to market.
+             Forest products as used in this section means                      timber grown         upon a        tract
+             where the primary processing facility is located.
+
+   COMMERCIAL USES RELATED TO FARM USE
+
+   3.   Commercial       activities in conjunction with farm use as defined in ORS                         215.203,
+        including the processing of farm crops into biofuel not otherwise allowed in the
+        definition   of farm     use     or     by   Section   D(4)    above,     subject     to   Section        J(16),
+        Additional Standards           below and the applicable standards of Chapter 20, Site
+        Plan Review.
+
+   4.   Farm ranch recreation including but not limited to hunting preserves, fishing, fly
+        fishing and tying clinics, trap and skeet range, archery range, ranch skills,
+        horsemanship, equine eventing, habitat improvement, wildlife viewing, and
+        outdoor schools        in conjunction with a commercial               farming operation subject to
+        Section J(7), Additional Standards                 below      and   Sections     20.010      — 20.090          of
+        Chapter 20, Site Plan Review.
+
+                                                                        Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                                            J300t-t0e9 Ady B
+                                                                                                          July 22, 2009
+Page 3.210-8
+
+          In season fee hunting shal! not be included in Farm Ranch Recreation unless it
+          includes lodging or is part of a larger farm ranch recreation operation.
+
+     RESIDENTIAL USES
+
+     5.   Non-Farm Dwelling: One single family dwelling not provided in conjunction with
+          farm use, subject to Section J(1), Additional Standards, below.
+
+     6.   A temporary medical hardship dwelling for the term of hardship suffered by the
+          existing resident or relative subject to Section 8.070, Temporary Use of a Mobile
+          Home (Family Hardship):
+
+     7.   Residential home which means a                     residential treatment or training or adult foster
+          home     in    an     existing       dwelling     licensed        by    or    under         the   authority       of    the
+          department,         as defined        in ORS      443.400,        under      ORS          443.400      to 443.825,           a
+          residential facility registered under ORS 443.480 to 443.500 or an adult foster
+          home    licensed          under    ORS       443.705    to 443.825           that provides            residential      care
+          alone or in conjunction with treatment or training or a combination thereof for five
+          or fewer individuals who need not be related (or as further defined in ORS
+          197.660) subject to the applicable standards of Chapter 20, Site Plan Review.
+
+     ENERGY/UTILITY/SOLID WASTE                           DISPOSAL FACILITIES
+
+     8.   Commercial          utility facilities (Wind,          Hydroelectric or Other) for the purpose of
+          generating         power for public use by sale.              This use is subject to the applicable
+          provisions of Chapter 19, Standards for Energy Facilities and Commercial
+          Energy Facilities and Chapter 20, Site Plan Review. A wind power generation
+          facility shall also be subject to Section J(17), Additional Standards below
+
+     9. Transmission towers greater than 200 feet in height and transmission facilities
+          pursuant      to    the    applicable        provisions    of Chapter              19,     Standards       for   Energy
+          Facilities and Commercial Energy Facilities.
+
+     10.A site for disposal of solid waste approved by a city or county governing body
+          and for which a permit has been granted                       by the Department of Environmental
+          Quality under ORS                 459.245,      including the equipment,                   facilities, and       building
+          necessary for its operation, except that such uses are prohibited on high value
+          farmland subject to the applicable provisions of Chapter 20, Site Plan Review.
+
+     11.Composting            facilities (excluding        non-green        feedstocks) for which                 a permit has
+          been   granted        by DEQ         under ORS         459.245         and    OAR          340-96-020       subject to
+          Section J(10), Additional Standards                       below        and   the         applicable     provisions          of
+          Chapter 20, Site Plan Review.
+
+     MINERAL/AGGREGATE/GEOTHERMAL USES
+
+     12.Aggregate:   Operations                 conducted for the mining, crushing or stockpiling of
+        mineral, aggregate and                  other subsurface resources subject to Section J(9),
+
+Section 3.210 - “A-1" Exclusive Farm Use Zone                                                                                    gy
+July 22, 2009                                                          if               a              7 oD / oy
+                                                                                        Page 3.210-9
+
+   Additional Standards below, Section 3.800, Mineral & Aggregate Overlay and the
+   applicable provisions of Chapter 20, Site Plan Review.
+
+13.Processing, as defined by ORS        517.750, of aggregate into asphalt or Portland
+   cement, except that asphalt production shall not be permitted within two miles of
+   a producing orchard or vineyard,         which is planted as of the date that the
+   application for asphalt production       is filed, and subject to WCLUDO Section
+   3.800, Mineral and Aggregate Overlay and the applicable provisions of Chapter
+   20, Site Plan Review.
+
+14. Processing of other mineral resources and other subsurface resources.
+
+15. Mining and processing of geothermal resources as defined in ORS 522.005 and
+    oil and gas as defined by ORS 520.005 not otherwise permitted in Section B(5)
+    above and the applicable provisions of Chapter 20, Site Plan Review.
+
+TRANSPORTATION
+
+16.Personal use airports for airplanes and helicopter pads, including associated
+   hangars, maintenance and service facilities. A personal-use airport, means an
+   airstrip restricted, except for aircraft emergencies, to use by the owner, and, on
+   an   infrequent   and   occasional   basis,   by invited   guests,     and    by commercial
+   aviation activities in connection with agricultural operations. No aircraft may be
+   based on a personal-use airport other than those owned or controlled by the
+   owner of the airstrip. Exceptions to the activities permitted under this definition
+   may be granted through waiver action by the Oregon Department of Aviation in
+   specific instances. A personal-use airport lawfully existing as of September 13,
+   1975, shall continue to be permitted subject to any applicable rules of the
+   Oregon Department of Aviation.
+
+17.Construction of additional passing and travel lanes requiring the acquisition of
+   right of way, but not resulting in the creation of new land parcels.
+
+18.Reconstruction_or modification of public roads and highways involving the
+   removal or displacement of structures but not resulting in the creation of new
+   land parcels.
+
+19. Improvement of public roads and highway related facilities such as maintenance
+    yards, weigh stations, and rest areas, where additional property or right of way is
+    required, but not resulting in the creation of new land parcels.
+
+20.Roads, highways and other transportation facilities              and     improvements          not
+   otherwise allowed by this ordinance subject to:
+
+   a. Adoption of an exception to the goal related to agricultural lands and to any
+      other applicable goal with which the facility or improvement does not comply;
+      or
+
+                                                        Section 3.210 - "A-1" Exclusive Farm Use Zone
+                                                                                         July 22, 2009
+
+                                        fae         0267                  gn0y88
+Page 3.210-10
+
+          b. ORS 215.296 for those uses identified by rule of the Land Conservation and
+             Development Commission as provided in section 3, chapter 529, Oregon
+             Laws 1993.
+
+     PARKS/PUBLIC/QUASI-PUBLIC FACILITIES
+
+     21.Fire service facilities providing rural fire protection                          services     subject       to the
+         applicable standards of Chapter 20, Site Plan Review.
+
+     22.Community centers owned by a government agency or a nonprofit organization
+        and operated primarily by and for residents of the local rural community subject
+        to the applicable standards of Chapter 20, Site Plan Review.
+
+          A community center authorized under this section                               may   provide services to
+          veterans, including but not limited to emergency                               and   transitional shelter,
+          preparation and service of meals,                   vocational and educational counseling and
+          referral     to   local,    state    or federal    agencies       providing     medical,     mental       health,
+         disability income replacement and substance abuse services, only in a facility
+        ‘that is in existence on January 1, 2006. The services may not include direct
+          delivery of medical,           mental    health, disability income            replacement or substance
+          abuse services.
+
+     23.Parks and playgrounds A public park includes only the uses specified under
+        OAR 660-034-0035 or 660-034-0040 whichever is applicable and may only be
+        established subject to the applicable provisions of Chapter 20, Site Plan Review
+        and ORS 195.120,
+
+     24. Expansion of existing county fairgrounds and _ activities directly relating to county
+          fairgrounds governed by county fair boards established pursuant to ORS
+          565.210 subject to the applicable provisions of Chapter 20, Site Plan Review.
+
+     25.Any      gathering       subject to review          _by a county      planning     commission        under the
+          provisions of ORS            433.76.      These gatherings and any part of which is held in
+          open       spaces     are    those    of more     than    3,000     persons     which      continue    or can
+          reasonably be expected to continue for more than 120 hours within any three-
+          month period           subject      to the   applicable    provisions         of Chapter     20,   Site     Plan
+          Review.
+
+     COMMERCIAL USES
+
+     26.Major Home occupation subject to the applicable provisions of Chapter 20, Site
+        Plan Review. Construction of a structure that would not otherwise be allowed in
+          the zone is not permitted.
+
+     27.Home Occupation with Room and Board or (Bed and Breakfast) arrangements in
+          an existing residence, but may not be sited adjacent to or on high value lands
+          within two (2) miles of the National Scenic Area Boundary subject to the
+          applicable provisions of Chapter 20, Site Plan Review and the following.
+
+Section 3.210 - “A-1" Exclusive Farm Use Zone
+July 22, 2009                                               L3004-02.6                         7        A    %       a        gy
+                                                                                         Page 3.210-11
+
+   a.   Room and board arrangements shall:
+
+        (1) Not exceed accommodations        for five    unrelated      persons         beyond      the
+            inhabitants of the house; and
+
+        (2) Include month to month rental with food contract.
+
+   b.   Bed and breakfast arrangements shall:
+
+        (1) Not exceed five rooms;
+
+        (2) Limit occupation by guests to no more than 30 consecutive days; and
+
+        (3) Only allow breakfast to be served to guests and no other meals.
+
+28.Home Occupation to Host Commercial Events:            The commercial events are
+   associated with a farm use, lawfully approved winery, bed and breakfast or farm
+   ranch recreation and includes weddings, receptions, parties, bicycle races
+   confined to the subject parcel(s) and other small-scale gatherings hosted for a
+   fee that are incidental and subordinate to the primary use of the parcel. The use
+   is subject to the applicable provisions of Chapter 20, Site Plan Review.
+   Construction of a structure that would not otherwise be allowed in the zone is not
+   permitted.
+
+   If the commercial event is in conjunction with a farm use, the applicant shall
+   submit a Farm Management Plan which includes documentation that the
+   property is capable of meeting the Farm Dwelling income test in Section J(5)(b)
+   below.
+
+29.Doq Kennels, except that such uses are prohibited on high value                        farmland,
+   subject to the applicable provisions of Chapter 20, Site Plan Review.
+
+30.Private parks, playgrounds, and campgrounds, as defined in Section 1.090,
+    Definitions, except that such uses are prohibited on high value farmland, subject
+   to Section J(14) Additional Standards      below and the applicable provisions of
+   Chapter 20, Site Plan Review.
+
+31.Golf courses: A 9 or 18 hole regulation golf course or a combination 9 and 18
+    hole regulation golf course except that such uses are prohibited on high value
+    farmland, subject to Section J(13), Additional Standards below and the
+    applicable provisions of Chapter 20, Site Plan Review.
+
+32.Operations for the extraction and_bottling           of   water     subject     to    applicable
+   provisions of Chapter 20, Site Plan Review.
+
+33.On-site filming if the activity exceeds 45 days on any site within a one-year
+    period or involves the erection of sets that would remain in place for longer than
+
+                                                        Section 3.210 - “A-1" Exclusive Farm Use Zone
+                                                                                           duly 22, 2000
+
+                                            L009. DIC?                                  BY by LB
+Page 3.210-42
+
+           45 days. These activities may include administrative or security functions and
+           may include the use of campers, trailers, or similar temporary facilities. This use
+           is also subject to Section J(15), Additional Standards                     below and the applicable
+           provisions of Chapter 20, Site Plan Review.
+
+F.   Property Development Standards
+     Property development standards are designed to preserve and protect the character
+     and        integrity        of     agricultural   lands,     and   minimize   potential      conflicts     between
+     agricultural operations and adjoining property owners.    A variance subject to
+     WCLUDO Chapter 6, or Chapter 7 may be utilized to alleviate an exceptional or
+     extraordinary circumstances that would otherwise preclude the parcel from being
+     utilized.      A variance to these standards is not to be used to achieve a preferential
+     siting that could otherwise be achieved by adherence to these prescribed standards.
+
+     1. Setbacks
+
+           a.    Property Line
+
+                 (1)All dwellings (farm and non farm) and accessory structures _not_in
+                    conjunction with farm use, shall comply with the following property line
+                     setback requirements:
+
+                     (a) If adjacent            land   is being     used   for perennial       or annual      crops,   the
+                            setback shall be a minimum of 200 feet from the property line.
+
+                     (b) If adjacent land is being used for grazing, is zoned Exclusive Farm Use
+                            and has never been cultivated or is zoned F-1 or F-2, the setback shall
+                            be a minimum of 100 feet from the property line.
+
+                     (c) If the adjacent land is not in agricultural production and not designated
+                            Exclusive Farm Use, F-1 or F-2, the setback shall be a minimum                             25
+                            Feet from the property line.
+
+                     (d) If any of the setbacks listed above                 conflict with the Sensitive Wildlife
+                            Habitat Overlay the following               shall apply and        no variance      shall be
+                            required:
+
+                            i.        The structure shall be set back a minimum of 25 feet from the road
+                                      right of way or easement;
+
+                            ii. The structure shall be located within 300 feet of the road right of
+                                way or easement pursuant Section 3.920(F)(2), Siting Standards;
+                                      and
+
+                            iii. As part of the application the applicant shall document how they
+                                 are siting the structure(s) to minimize       impacts to adjacent
+                                      agricultural uses to the greatest extent practicable.
+
+Section 3210 - "Ae" Exclusive Farm Use Zone                     /3009-         Dae         7               y) SHE ra
+                                                                                 Page 3.210-13
+
+  (2) Farm structures shall be set back a minimum of 25 feet from the property
+      line.
+
+   (3) Additions, modifications or relocation of existing structures shall comply
+       with all EFU setback standards. Any proposal that cannot meet these
+       standards is subject to the following:
+
+      (a) Dwellings:    The proposed addition modification or relocation shall not
+         result in     nonconformity or greater nonconformity           to property        line
+         setbacks      or resource buffer requirements unless           the addition        will
+         extend a structure further away from and perpendicular to the property
+         line or resource. Any proposal that would place a relocated dwelling or
+         extend an existing dwelling into or further toward the property line or
+         resource, or expand an existing dwelling parallel into a setback or
+         buffer shall also be subject to Chapters 6 & 7, Variances and any other
+         applicable review criteria.
+
+      (b) Farm & Non-Farm       buildings and structures:      The proposed addition,
+         modification or relocation shall not result in nonconformity or greater
+         nonconformity     to   property  line  setbacks    or  resource   buffer
+         requirements.    if the building or structure currently conforms to all
+         setback standards and the proposal would result in non-conformity a
+         Chapter 6 or 7 variance will be required. {f the building or structure
+         currently does not conform to all setback standards and the proposal
+         would increase the non-conformity it shall be subject to the applicable
+         provisions of Chapter 13, Nonconforming Uses, Buildings and Lots.
+
+   (4) Property line setbacks do not apply to fences, signs, roads, or retaining
+      walls less than four (4) feet in height.
+
+      Front yard (road) property line setbacks do not apply to parking areas for
+      farm related uses.     However,    parking areas for farm related uses must
+      meet side and rear yard property line setbacks.
+
+b. Waterways:
+
+   (1) Resource Buffers: All bottoms of foundations of permanent structures, or
+       similar permanent fixtures shall be setback from the high water line or
+      mark, along all streams, lakes rivers, or wetlands.
+
+      (a) A minimum distance of one hundred (100) feet when measured
+         horizontally at a right angle for all waterbodies designated as fish
+         bearing by any federal, state or local inventory.
+
+      (b) A minimum distance of fifty (50) feet when measured horizontally at a
+         right angle for all waterbodies designated as non fish bearing by any
+         federal, state or local inventory.
+
+                                                  Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                    PR0e b2e7                                  a» 8
+                                                                                   July 22, 2009
+Page 3.210-14
+
+                   (c)A     minimum        distance            of    twenty         five     (25)   feet   when   measured
+                       horizontally      at      a     right        angle     for      all    waterbodies     (seasonal   or
+                       permanent) not identified on any federal, state or local inventory.
+
+                   (d) If the proposal          does     not meet these standards                     it shall be subject to
+                       Section (a)(3), Additions or Modifications to Existing Structures, above.
+
+                   (e) The following uses are not required to meet the waterway setbacks,
+                       however they must be sited, designed and constructed to minimize
+                       intrusion into the riparian area to the greatest extent possible:
+
+                       {i) Fences;
+
+                       (ii) Streets, roads, and paths;
+
+                       (iii) Drainage facilities, utilities, and irrigation pumps;
+
+                       (iv)Water-related and water-dependent uses such as docks and
+                           bridges;
+
+                       (v) Forest practices regulated by the Oregon Forest Practices Act;
+
+                       (vi)Agricultural activities and farming practices, not including the
+                           construction of buildings, structures or impervious surfaces; and
+
+                       (vii)Replacement of existing structures with structures in the same
+                          location that do not disturb additional riparian surface area.
+
+                (2) Floodplain:    Any development including but not limited to buildings,
+                    structures or excavation, proposed within a FEMA designated flood zone
+                    shall be subject to Section 3.740, Flood Hazard Overlay and Chapter 22,
+                    Flood Damage Prevention.
+
+          c.    Irrigation Ditches:
+                All dwellings and structures shall be located outside of the easement of any
+                irrigation or water district.          In the absence of an easement, all dwellings and
+                structures shall be located a minimum of 25 feet from the centerline of
+                irrigation ditches and pipelines which continue past the subject parcel to
+                provide water to other property owners. Substandard setbacks must receive
+                prior approval from the affected irrigation district. These setbacks do not
+                apply to fences and signs.
+
+          d.    Wasco County Fairground
+
+                (1) Front Yard - No structure other than a fence or sign shall be located closer
+                    than ten (10) feet from the rights-of-way of a public road.
+
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+July 22, 2009                                                         P3004-                   0207               a 7483
+                                                                                            Page 3.210-15
+
+           (2) Side Yard - No structure other than a fence or sign shall be located closer
+               than seven (7) feet for buildings not exceeding two and one-half (2 & 1/2)
+               stories in height; for buildings exceeding two and one-half stories in height,
+               such side yard shall be increased three (3) feet in width for every story or
+               portion thereof that such buildings' height exceeds two and one-half stories.
+
+           (3) Rear Yard - No structure other than a fence shall be located closer than ten
+               (10) feet from the rear yard property line.
+
+           (4) RV_Spaces — RV spaces are subject to the setback                     requirements         of
+               Chapter 17, Recreational Vehicle Parks.
+
+           (5) Existing & Replacement Structures — All lawfully established                  structures
+               which do not conform to current setback standards shall be allowed to be
+               expanded, or replaced and expanded into the required setback as long as
+               the expansion does not encroach upon the required setback more than
+               the existing structure.
+
+2.   Height:     Except for those uses allowed by Section 4.070, General Exception to
+     Building    Height Requirements, no building or structure shall exceed a height of
+     35 feet. Height is measured from average grade.
+
+3. Vision Clearance - Vision clearance on comer properties shall be a minimum of
+   thirty (30) feet.
+
+4.   Signs:
+
+     a.    Permanent signs shall not project beyond the property line.
+
+     b. Signs shall not be illuminated or capable of movement.
+
+           Permanent signs shall describe only uses permitted and conducted on the
+           property on which the sign is located.
+
+          . Size and Height of Permanent Signs:
+
+           (1) Freestanding signs shall be limited to twelve square feet in area and 8
+               feet in height measured from natural grade.
+
+           (2) Signs on buildings are permitted in a ratio of one square foot of sign area
+               to each linear foot of building frontage but in no event shall exceed                    32
+               square feet and shall not project above the building.
+
+           Number of permanent signs:
+
+           (1) Freestanding signs shall be limited to one at the entrance of the property.
+                Up to one additional    sign may    be placed     in each    direction of vehicular
+
+                                                             Section 3.210 - "A-1" Exclusive Farm Use Zone
+                                                                                              July 22, 2009
+
+                                                   f3009-(olg =                                  > 88
+Page 3.210-16
+
+                   traffic running parallel to the property if they are more than 750 feet from
+                   the entrance of the property.
+
+                (2) Signs on buildings shall be limited to one per building and only allowed on
+                    buildings conducting the use being advertised.
+
+          f.    Temporary signs such as signs advertising the sale or rental of the premise
+                are permitted provided the sign is erected no closer than ten feet from the
+                public road right-of-way.
+
+     5.   Lighting: Outdoor lighting shall be sited, limited in intensity, shielded and hooded
+          in a manner that prevents the lighting from projecting onto adjacent properties,
+          roadways and waterways. Shielding and hooding materials shall be composed
+          of nonreflective, opaque materials.
+
+     6.   Parking - Off street parking shall be provided in accordance with Chapter 20.
+
+     7.   New Driveways:          Ail new driveways and increases or changes of use for existing
+          driveways which access a public road shall obtain a Road Approach Permit from
+          the appropriate jurisdiction, either the Wasco County Public Works Department
+          or the Oregon Dept. of Transportation.
+
+G. Property Size Standards
+   Subdivisions and Series Partitions pursuant to ORS             92.010 - 92.190, and 92.305-
+     92.495: Subdivisions are prohibited in the Exclusive Farm Use Zone.                   Series
+     Partitions for non-farm uses are prohibited in the Exclusive Farm Use Zone.
+
+     1.   Farm Divisions:
+
+          a. 40 Acre: There shall be a 40 acre minimum land division for farm parcels in
+             the A-1(40) zone.
+
+          b. 80 Acre: There shall be a 80 acre minimum land division for farm parcels in
+             the A-1(160) zone to allow for land divisions around higher value per acre
+                crops.    All proposed farm parcels at least 80 acres but less than 160 acres
+                shall meet the following standards:
+
+                (1) A farm management plan shail be submitted with the application. The
+                   farm management plan shall also include an evaluation of the following:
+
+                    (a) The property size shall be large enough to keep commercial farms and
+                         ranches in the area successful and not contribute to their decline. This
+                         evaluation shall include the potential negative impacts such as
+                         increasing traffic on farm to market roads or adding practices or uses
+                         that would conflict with existing accepted farming practices on adjacent
+                         farms.
+
+                   (b) Determine the nature of this type of commercial agricultural enterprise
+
+Section 3.210 - "A-1° Exclusive Farm Use Zone
+July 22, 2008                                            f3004-        §367            any          8S
+                                                                                                 Page 3.210-17
+
+         in the county, or within the surrounding area.
+
+(2) The proposed farm parcel or parcels have been planted in a higher value
+   per acre crop adequate to meet the income requirement in (3) below;
+
+(3) Income Test
+
+   The     proposed     farm     parcel     or   parcels    are         each     capable     of producing
+   $250,000 in gross annual income (2009 dollars adjusted for inflation at an
+   annual rate of *2.375%) from the sale of farm products.
+
+   Capability of producing the gross annual income described above shall be
+   shown in one of two ways.
+
+   (a) Documentation           of actual gross income                   received during the last two
+         years or three of the last five years.
+
+   (b) Documentation           that the current amount                   of acreage        planted on the
+         proposed     farm     parcel   or parcels are each                capable of producing            the
+         gross income described above. This documentation shall be prepared
+         by a professional with the credentials to make such a determination
+         such as a representative of the Oregon Department of Agriculture or
+         Oregon State Extension Office. The documentation shall include the
+         following:
+
+         (i) Identify the type(s) and size(s) of viable farms that comprise this
+            commercial         agricultural      enterprise        in    the     county,    or   within    the
+            surrounding area            which      meet       or        exceed      the    gross     income
+            described above.
+
+         (ii) Identify soils, topography, land forms, slopes, solar access,
+              irrigation, rainfall, sunlight of viable farms that comprise this type of
+            commercial         enterprise        and   compare             those     to    the     proposed
+            property.
+
+         (iif)ls there an identified industry with infrastructure for this fype of
+              commercial enterprise within the county or surrounding area? If so,
+               how will this operation contribute to that enterprise? If not, will it be
+              viable on its own?
+
+   Approval of a request to divide agricultural land to the 80-acre minimum
+   does not necessarily guarantee a farm dwelling. Any subsequent request
+   for a farm dwelling will have to meet applicable standards set forth in
+   Section D(5), Farm Dwelling above.
+
+   *It is the intention of the Wasco      County Court to reevaluate the validity of this inflationary
+   adjustment percentage by 2014.
+
+                                                           Section 3.210 - "A-1" Exclusive Farm Use Zone
+                                                                                             July 22, 2009
+
+                                                 (3009-0309                                 © 30 4 8%
+Page 3.210-18
+
+          c.    160 Acre:    There shall be a 160 acre minimum    land division for all parcels in
+                the Exclusive Farm Use Zone that are not within the A-1(40) zone and cannot
+                meet the 80 acre minimum test in b above.
+
+     2.   Non-Farm Divisions (Part of Parcel)
+
+          a.    Non-Farm Dwelling & Non-Farm Use Divisions
+
+                (1) A one time division of land to create:
+
+                   (a) Up to two new parcels no less than 2 acres in size and no greater than
+                        20 acres in size, each to contain a dwelling not provided in conjunction
+                       with farm use, only if the dwelling has been authorized in accordance
+                       with Section E(5), Non-Farm Dwelling above; or
+
+                   (b)A parcel to contain a nonfarm use, except dwellings, listed in Section
+                      (E), Conditional Uses above, unless otherwise precluded by statute.
+                       The parcel shall be the minimum size needed to accommodate               the
+                       use in a manner consistent with other provisions of law;
+
+                (2) The parcel(s) are divided from a lot or parcel that was !awfully created in
+                   its current configuration prior to July 1, 2001.   This       date applies to
+                   properties even if they were created after July 1, 2001       pursuant to this
+                   section;
+
+                (3) The parcel(s) are divided from a !ot or parcel that exceeds 160 acres and
+                   which will continue to meet or exceed 160 acres after the division;
+
+                (4) The parcel(s) are generally unsuitable for the production of farm crops
+                    and livestock or merchantable tree species considering the terrain,
+                    adverse soil or land conditions, drainage or flooding, vegetation, location
+                    and size of the tract. A parcel may not be considered unsuitable based
+                    solely on size or location if the parcel can reasonably be put to farm or
+                    forest use in conjunction with other land; and
+
+                (5) The parcels for the nonfarm      dwellings are not located in the “A-1(40)”
+                    zone.
+
+                (6) The non-farm parcels shall be disqualified       from   special   assessment
+                    pursuant to Section J(1)(g) below.
+
+                (7) The non-farm parcels do not have established water rights for irrigation.
+
+          b. Park and Open Space Divisions: A land division for the purpose of allowing a
+                provider of public parks or open space, or a not-for-profit land conservation
+                organization, to purchase at least one of the resulting parcels subject to the
+                following:
+
+Section 3.210 - “A-1" Exclusive Farm Use Zone
+July 22, 2009                                           004        _ 0 Ye    7           oA a CR
+                                                                                                  Page 3.210-19
+
+             (1) A parcel created       by the land division that already contains a dwelling is
+                large enough to support continued residential use of the parcel; and
+
+             (2) A parcel     created    pursuant   to this subsection       that does       not contain          a
+                 dwelling:
+
+                (a) Is not eligible for siting a dwelling, except as may be authorized under
+                    ORS      195.120;
+
+                (b) May not be considered in approving or denying an application for siting
+                    any other dwelling;
+
+                (c) May not be considered in approving a redesignation or rezoning of
+                    forestlands except for a redesignation or rezoning to allow a public
+                    park, open space or other natural resource use; and
+
+                (d) May      not be smaller than 25 acres unless the purpose                     of the land
+                    division is:
+
+                    (i) To facilitate the creation of a wildlife or pedestrian corridor or the
+                        implementation of a wildlife habitat protection plan; or
+
+                    (ii) To allow a transaction in which at least one party is a public park or
+                         open space provider, or a_ not-for-profit land conservation
+                         organization, that has cumulative ownership of at least 2,000 acres
+                          of open space or park property.
+
+H. Agricultural    Protection:     The    uses   listed   in Section   D,   Uses     Allowed      Subject      to
+   Standards and E, Conditional Uses must meet the following standards:
+
+   1.   Farm-Forest       Management      Easement:       The landowner is required to sign and
+        record in the deed records for the county a document binding the landowner, and
+        the landowner’s successors in interest, prohibiting them from pursuing a claim for
+        relief or case of action alleging injury from farming or forest practices for which
+        no action or claim is allowed under ORS 30.936 or 30.937.
+
+   2.   Protection for Generally Accepted Farming and Forestry Practices - Complaint
+        and Mediation Process: The landowner will receive a copy of this document.
+
+   Challenging Soil Class Rating
+
+   1. Lotof Record: For the purposes of approving a Lot of Record application under
+      Section D(9) above, the soil class, soil rating or other soil designation of a
+      specific lot or parcel may be changed if the property owner:
+
+        a.   Submits a statement of agreement from the Natural Resources Conservation
+             Service of the United States Department of Agriculture that the soil class, soil
+
+                                                                  Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                                                                                      g
+                                                                                                    July 22, 2009
+
+                                                             J3004- 0367                           2398
+Page 3.210-20
+
+                rating or other soil designation should be adjusted based on new information,
+                or
+
+         b.     Submits the following:
+
+                (1) Report from a soils scientist whose credentials are acceptable to the State
+                    Department of Agriculture that the soil class, soil rating or other soil
+                   designation should be changed; and
+
+                (2) Statement     from the State       Department   of Agriculture that the Director of
+                   Agriculture or the director's designee has reviewed the report described in
+                   subparagraph (1) above of this section and finds the analysis in the report
+                   to be soundly and scientifically based.
+
+    2.   All Other: The soil class or soil rating or other soil designation of a specific lot or
+         parcel on lands other than Lot of Record as specified above, or High Value soils
+         as specified by NRCS, may be changed if the property owner:
+
+         a.     Submits a report to the Wasco County Planning Department from an
+                accredited soils scieritist, certified by ARCPACS that the soil class, soil rating
+                or other soil designation should be changed and the rationale for the soil
+                class change. The report will include the following technical data:
+
+                (1) Copy of the most current National Cooperative Soil Survey map(s) for the
+                   specified area;
+
+                (2) Methods used by the Soil Scientist;
+
+                (3) Level of order of survey used in field survey, scale, type of maps, number
+                    of sample locations and observation points all confirming or disagreeing
+                   with the NRCS mapping units;
+
+                (4) Methods used for observations              (backhoe,    auger,    shovel,   etc.)   and
+                    methods used for documentation;
+
+                (5) Notation of any limitations encountered;
+
+                (6) Results, findings and decisions;
+
+                (7) Overview of geology, parent material, and related factors;
+
+                (8) Description of landforms, topography, confirming relationship of landforms
+                   to soil mapping units;
+
+                (9) Description     of on-site   and     adjacent   hydrology,   including   surface    and
+                   subsurface features;
+
+                (10)Description of revised soil mapping units;
+
+Se oon
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+                                                                $3009 -beb7                     335-88
+                                                                                                   Page 3.210-21
+
+          b.   Acquires Wasco County Planning Department administrative approval of soils
+               class change, in conjunction with land use application request.
+
+J.   Additional Standards
+
+     1.   Non-Farm Dwelling:
+
+          a. The parcel is not within the A-1(40) Zone.
+
+          b. There is no other dwelling on the parcel;
+
+          c.   The     site shall   have   appropriate   physical   characteristics     such    as adequate
+               drainage, proper sanitation and water facilities to accommodate a residence
+               or other non-farm use;
+
+          d.   Criteria for Farmland within the EFU Zone:
+
+               The dwelling is situated upon a lot or parcel, or a portion of a lot or parcel,
+               that is generally unsuitable land for the production of farm crops and
+               livestock, considering the terrain, adverse soil or land conditions, drainage
+               and flooding, vegetation, jocation and size of the tract. A lot or parcel shall
+               not be considered unsuitable solely because of size or location if it can
+               reasonably be put to farm or forest use in conjunction with other land.
+
+               A lot or parcel is not "generally unsuitable" simply because it is too small to
+                be farmed profitably by itself. If a iot or parcel can be sold, leased, rented or
+                otherwise managed as a part of a commercial farm or ranch, it is not
+                "generally unsuitable." A lot or parcel is presumed to be suitable if it is
+                composed predominantly of Class | - VI soils. Just because a lot or parcel is
+               unsuitable for one farm use does not mean             it is not suitable for another farm
+               use.
+
+               The term "generally unsuitable" is vague.  The following criteria define and
+               specify in clear, objective, measurable means what is generally unsuitable
+               land for agriculture in Wasco County.
+
+               (1) On parcels less than 80 acres that were created prior to January 1, 1993,
+                   and parcels created pursuant to the Non-Farm Division (Part of Parcel)
+                   provisions when the entire parcel is found to be generaily unsuitable.
+                   That is, over 50% of the parcel is a Class Vil or poorer soil as determined
+                   by the NRCS Soil Survey for Wasco County, and (one) 1 of the criterion
+                   listed in (3) below.
+
+               (2) On parcels at least 80 acres but less than 160 acres that were created
+                      prior to January 1, 1993, a portion of the parcel that is identified for the
+                      dwelling site is a Class VII soil or poorer as determined by the NRCS Soil
+                      Survey for Wasco County, and (one) 1 of the criterion listed in (3) below.
+
+                                                                    Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                            SL3004 - D567                            3¢n
+Page 3.210-22
+
+                (3) Generally Unsuitable Criteria:
+
+                   (a) predominantly greater than 40 % slope, or
+
+                   (b) produces less than 25 bushels per acre wheat or cereal grains                crop,
+                       or less than 1 ton per acre of alfalfa or other type of hay as per Farm
+                       Service Agency (FSA) registered field crop information. Averages shall
+                       be based on acres in production, or
+
+                   (c) never been cropped according to the ASCS          (FSA) aerial photos and
+                       records, and requires more than 5 acres per AUM based on the soil
+                       productivity as shown in the most up to date soils survey or on a field
+                       determination conducted by an authorized professional using Natural
+                       Resource Conservation RCS standards.
+
+          e.    Criteria for Forested land within the EFU zone
+
+                (1) If the parcel is unsuitable for agricultural use and is under forest
+                    assessment, the dwelling shall be situated upon generally unsuitable land
+                    for the production of merchantable tree species recognized by the Forest
+                   Practices Rules, considering the terrain, adverse soil or land conditions,
+                   drainage and flooding, vegetation, location and size of the parcel. If a lot
+                   or parcel is under forest assessment, the area is not "generally
+                   unsuitable" simply because it is too small to be managed for forest
+                   production profitably by itself. If a lot or parcel under forest assessment
+                   can be sold, leased, rented or otherwise managed as a part of a forestry
+                   operation, it is not "generally unsuitable".
+
+                (2) If a lot or parcel is under forest assessment,   it is presumed       unsuitable if it
+                   is composed        predominantly of soils capable of producing          less than 20
+                   cubic feet of wood fiber per acre per year and may qualify for a dwelling if
+                   it can be found that:
+
+                   (a) The dwelling is compatible; and
+
+                   (b) The dwelling does not seriously interfere with forest or farm uses on
+                       surrounding land and it must not force a significant change in forest
+                       practices or significantly increase the cost of those practices on the
+                       surrounding land; and
+
+          f.    Cumulative Impact: The dwelling will not materially alter the stability of the
+                overall land use pattern of the area.     In determining whether a proposed
+                nonfarm dwelling will alter the stability of the land use pattern in the area,
+                consideration shall be given to the cumulative impact of nonfarm dwellings on
+
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+July 22, 2009                                             $3004        - De           7             BS a 9
+                                                                                              Page 3.210-23
+
+     other lots or parcels in the area similarly situated by applying the following
+     standards:
+
+     (1) Identify a study area for the cumulative impacts analysis. The study area
+        shall include    at least 2000      acres     or a smaller area            not less than        1000
+        acres, if the smaller area is a distinct agricultural area based on
+        topography, soil types, land use pattern, or the type of farm or ranch
+        operations or practices that distinguish it from other, adjacent agricultural
+        areas. Findings shall describe the study area, its boundaries, the location
+        of the subject parcel within this area, why the selected area is
+        representative of the land use pattem surrounding the subject parcel and
+        is adequate      to conduct the analysis             required      by this standard.        Lands
+        zoned for rural residential or other urban or nonresource uses shall not be
+        included in the study area;
+
+     (2) Identify within the study area the broad types of farm uses (irrigated or
+         nonirigated crops, pasture or grazing lands), the number, location and
+        type of existing dwellings (farm, nonfarm, hardship, etc.), and the dwelling
+        development trends since 1993. Determine the potential number of
+        nonfarm/lot-of-record dwellings that could be approved under current
+        regulations, including identification of predominant soil classifications, the
+        parcels created     prior to January        1, 1993 and the parcels larger than the
+        minimum lot size that may be divided to create new parcels for nonfarm
+        dwellings. The findings shall describe the existing land use pattern of the
+        study area including the distribution and arrangement of existing uses and
+        the land use pattem that could result from approval of the possible
+        nonfarm dwellings;
+
+     (3) Determine      whether      approval    of    the     proposed           nonfarm/lot-of-record
+        dwellings together with existing nonfarm dwellings will materially alter the
+        stability of the land use pattern in the area. The stability of the land use
+        pattern will be materially altered if the cumulative effect of existing and
+        potential nonfarm dwellings will make it more difficult for the existing types
+        of farms in the area to continue operation due to diminished opportunities
+        to expand,      purchase     or lease   farmland,      acquire      water      rights or diminish
+        the   number     of tracts    or   acreage     in farm       use     in    a   manner    that    will
+        destabilize the overall character of the study area;
+
+     (4) In addition to (1) - (3), if the application involves the creation of a new
+         parcel for a nonfarm dwelling, consideration shall be given to whether
+        creation of the parcel will lead to creation of other nonfarm parcels, to the
+        detriment of agriculture in the area by applying (1) — (3) above.
+
+g.   Disqualification of Special Assessment:
+     The owner of the parcel shall provide evidence that:
+
+                                                              Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                      $5009-0007                                        Boy9B :
+Page 3.210-24
+
+                1. The County Assessor has been notified that the proposed non-farm parcel
+                   or parcel to contain the non-farm dwelling is no longer being used as
+                     farmland; and
+
+                2. A Request has been made in writing to the County Assessor to disqualify
+                   the parcel from special assessment; and
+
+                3.   Prior to receiving zoning approval on a building permit application or a
+                     final   plat map,   the    non-farm   parcel   has   been   disqualified   from   special
+                     assessment pursuant to ORS 215.236 and any additional tax imposed
+                     upon disqualification from special assessment have been paid; and
+
+                4.   Record on the Property Deed the following: This parcel (legal! description)
+                     has been disqualified from special assessment and may not re-qualify for
+                     special assessment unless, when combined with another contiguous lot or
+                     parcel, it constitutes a qualifying parcel by meeting the minimum lot size
+                     for commercial agriculture enterprises within the area.
+
+    2.   Accessory Farm Dwelling:
+
+         a. The accessory farm dwelling will be occupied by a person or persons who will
+            be principally engaged in the farm use of the land and whose seasonal or
+            year-round assistance in the management of the farm use, such as planting,
+            harvesting, marketing or caring for livestock, is or will be required by the farm
+            operator. The applicant shall submit a Farm Management Plan to provide
+            evidence of this;
+
+         b.     The accessory farm dwelling will be located:
+
+                (1) On the same lot or parcel as the dwelling of the primary farm dwelling; or
+
+                (2) On the same tract as the primary farm dwelling when the lot or parcel on
+                    which the accessory farm dwelling will be sited is consolidated into a
+                     single parcel with all other contiguous lots and parcels in the tract; or
+
+                (3) On a lot or parcel on which the primary farm dwelling is not located, when
+                    the accessory farm dwelling is limited to only a manufactured dwelling and
+                     a deed restriction is filed with the county clerk.          The deed restriction shall
+                     require the manufactured dwelling to be removed when the lot or parcel is
+                     conveyed to another party.        The manufactured dwelling may remain if it is
+                     reapproved under      these   rules; or
+
+                (4) On a lot or parcel on which the primary farm dwelling is not located, when
+                    the accessory farm dwelling is limited to only attached multi-unit
+                    residential structures allowed by the applicable state building code or
+                    similar types of farm fabor housing as existing farm labor housing on the
+                     ranch operation registered with the Dept. of Consumer & Business
+                     Services, Oregon Occupational Safety and Health Division under ORS
+
+sy
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                                    $3009- Coby                         3788
+                                                                                                   Page 3.210-25
+
+     658.750.          Accessory        farm     dwellings     approved           Section     H.     shall     be
+     removed,      demolished         or converted          to a nonresidential         use        when      farm
+     worker housing is no longer required; or
+
+ (5) On a lot or parcel on which the primary farm dwelling is not located, when
+     the accessory farm dwelling is located on a lot or parcel at least the size
+     of the applicable minimum lot size under Section G(1) below, Farm
+     Divisions and the lot or parcel complies                       with    the     gross     farm     income
+     requirements in subsection d below..
+
+. There is no other dwelling on the lands designated for exclusive farm use
+  owned by the farm operator that is vacant or currently occupied by persons
+  not working on the subject farm or ranch and that could reasonably be used
+  as an accessory farm dwelling;
+
+. In addition to the requirements in subsection a - c. of this section, the primary
+ farm dwelling to which the proposed dwelling would be accessory satisfies
+ the following;
+
+  (1) The principal farm dwelling is located on a farm or ranch operation that is
+     currently employed for farm use, as defined in Section 1.090 and ORS
+     215.203, and produced in the last two years or three of the last five years,
+     one (1) of the following:
+
+     (a) On land not identified as high-value farmland at least *$55,000 (2009
+         dollars adjusted for inflation at an annual rate of 2.375%) in gross
+         annual income from the sale of farm products.
+
+     (b) On     land     identified    as      high-value    farmland,      and      produced         at least
+            (*$110,000     (2009      dollars    adjusted     for inflation at an annual                  rate of
+            2.375%) in gross annual income
+
+     and,
+
+ (2) In determining the gross income, the cost of purchased livestock shall be
+     deducted from the total gross income attributed to the tract.
+
+. Wasco county shall not approve any proposed division of a lot or parcel for
+  an accessory farm dwelling approved pursuant to this section.
+
+  If it is determined that an accessory farm dwelling satisfies the requirements
+ Section D(6) above, One Single Family Dwelling Customarily Provided in
+ Conjunction with Farm Use, a parcel may be created consistent with the
+ minimum parcel size requirements in Section G(1), Farm Divisions; and
+
+  An accessory farm dwelling approved pursuant to this section cannot later be
+  used   to satisfy the requirements              for a dwelling       not provided         in conjunction
+
+                                                               Section 3.210 - “A-1" Exclusive Farm Use Zone
+                                                                                                 July 22, 2009
+
+                                                       P004-lsey                                      Bry88
+Page 3.210-26
+
+                with farm     use   pursuant to Section        E(5), One     Single      Family       Dwelling   Not
+                Provided in Conjunction with a Farm Use.
+
+                *It is the intention of the Wasco   County Court to reevaluate the validity of this inflationary
+                adjustment percentage by 2014.
+
+     3.   Alteration,       restoration,   relocation    or   replacement      of   a_   lawfully      established
+          dwelling:
+
+          a.    Has intact interior walls and roof structure;
+
+          b. Has indoor plumbing consisting of a kitchen sink, toilet, and bathing facilities
+             connected to a sanitary waste disposal system;
+
+          c.    Has interior wiring or interior lights;
+
+          d. Has a heating system;
+
+          e.    In the case of replacement, is removed, demolished or converted to a
+                permitted nonresidential use within 90 days of completion of the replacement
+                dwelling;
+
+          f.    If the dwelling to be replaced is located on a portion of the lot or parcel not
+                zoned for exclusive farm use, the applicant, as a condition of approval, shall
+                execute and record in the deed records for the county where the property is
+                located a deed restriction prohibiting the siting of a dwelling on that portion of
+                the lot or parcel; and
+
+          g.    Be subject to all applicable siting requirements.
+
+     4.   Lot of Record Dwelling:
+
+          a.    The lot or parcel on which the dwelling is to be sited was lawfully created prior
+                to January 1, 1985 and was acquired and owned continuously by the present
+                owner:
+
+                (1) Since before January 1, 1985; or
+
+                (2} By device or by intestate succession from a person who acquired and had
+                    owned continuously the lot or parcel since before January 1, 1985.
+
+          b. The tract upon which the dwelling is to be sited does not include another
+             dwelling;
+
+          c.    The lot or parcel on which the dwelling will be sited was part of a tract on
+                November 4, 1993, and no dwelling exists on another lot or parcel that was
+                part of that tract;
+
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+July 22, 2009                                                 009-            6367                3     Gn       88
+                                                                                            Page 3.210-27
+
+     d. The tract on which the dwelling is to be sited is not high value farmland as
+        defined in Section 1.090, Definitions.
+
+     e.   If the tract on which the dwelling is to be sited consists of more than one lot or
+          parcel, all lots and parcels within the tract shall be consolidated into a single
+          lot or parcel;
+
+     f.   The director or the director's designee shall notify the county assessor of any
+          decision to permit a lot of record dwelling;
+
+     g. As used     in this zone, “owner”      includes the wife, husband,          son, daughter,
+          mother,   father,   brother,   brother-in-law,   sister,      sister-in-law,      son-in-law,
+          daughter-in-law,    mother-in-law,   father-in-law,   aunt,      uncle   niece,      nephew,
+          stepparent, stepchild, grandparent or grandchild of the owner or a business
+          entity owned by any one or a combination of these family members; and
+
+     h. Land use approval for a lot of record dwelling may be transferred one time to
+          any other person, prior to issuance of building permit.
+
+5.   Farm Dwelling:
+
+     a.   Large Lot: a dwelling may be considered customarily provided in conjunction
+          with farm use subject to the following:
+
+          (1) The land on which the dwelling to be sited is not identified as high-value
+             farmland;
+
+          (2) The parcel on which the dwelling will be tocated is at least 160 acres;
+
+          (3) The subject tract is currently employed for farm use, as defined in Section
+             1.090 and ORS 215.203 as evidenced by a Farm Management Plan
+
+          (4) The dwelling will be occupied by an owner or a person or persons who will
+              be principally engaged in the farm use of the land, such as planting,
+              harvesting, marketing or caring for livestock, at a commercial scale. If the
+              owner is not principally engaged in the day to day farm operation, no
+              Accessory Farm Dwelling for farm help may be authorized pursuant to
+             Section D(7) above; and
+
+          (5) There is no other dwelling on the subject tract.
+
+     b.   Income Test (for Parcels Less than        160 acres) subject to the following and
+          Subsection 3 below:
+
+          (1) Meets either (a) or (b) below:
+
+                                                           Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                    /3007- 0269 Hy                                  9b
+Page 3.210-28
+
+                   (a) On    land   not identified       as high-value     farmland,       a dwelling   may   be
+                      considered customarily provided in conjunction with farm use if the
+                      subject tract is currently employed for farm use, as defined in Section
+                      1.090 and ORS 215.203, as evidenced by a Farm Management Plan,
+                      that produced at least at least *$55,000 (2009 dollars adjusted for
+                       inflation at an annual rate of 2.375%) in gross annual income of from
+                       the sale of farm products; or
+
+                   (b) On_land_       identified   as     high-value     farmland,     a    dwelling    may   be
+                       considered customarily provided in conjunction with farm use if the
+                       subject tract is currently employed for the farm use, as defined in
+                       Section 1.090 and ORS     215.203, as evidenced                            by a Farm
+                       Management Plan, that produced at least *$110,000                         (2009 dollars
+                       adjusted     for inflation at an      annual    rate of 2.375%)        in gross Annual
+                       income from the sale of farm products in the last two or three of the
+                       last five years; and
+
+                (2) In determining the gross income required by this subsection:
+
+                   (a) The cost of purchased livestock shall be deducted from the total gross
+                       income attributed to the farm or ranch operation;
+
+                   (b) Only gross income from land owned,                 not leased or rented, shall be
+                       counted; and
+
+                   (c) Gross farm income earned from a lot or parcel which has been used
+                       previously to qualify another lot or parcel for the construction or siting
+                       of a primary farm dwelling may not be used
+
+                (3) There is no other dwelling on lands designated for exclusive farm use
+                    pursuant to ORS Chapter 215 or for mixed farm/forest use pursuant to
+                   OAR 660-006-057 owned                by the farm or ranch operator or on the farm or
+                   ranch operation; and
+
+                (4) The dwelling will be occupied by a person or persons who                     produced     the
+                    commodities which grossed the income.
+
+                (5) Prior to issuance of zoning approval on a building permit application, a
+                    Notice of Decision shall be recorded in the deed records with the Wasco
+                    County Clerk for each lot or parcel subject to the application for the
+                    primary farm dwelling and shall preclude:
+
+                   (a) All future rights to construct a dwelling except for accessory farm
+                       dwellings, relative farm assistance dwellings, temporary hardship
+                       dwellings or replacement dwellings allowed by ORS Chapter 215; and
+
+                   (b) The use of any gross farm income eamed on the lots or parcels to
+                       qualify another lot or parcel for a primary farm dwelling.
+
+ae                                                             favorloey 4488
+Section 3.210 - "A-1” Exclusive Farm Use Zone
+                                                                                             Page 3.210-29
+
+          (6) The covenants, conditions and restrictions are irrevocable,                      unless        a
+              statement of release is signed by the Wasco County Judge;
+
+          (7) Enforcement     of    the   covenants,   conditions     and     restrictions      may     be
+               undertaken by the Dept. of Land Conservation & Development or Wasco
+               County;
+
+          (8) The Planning Director shall maintain a copy of the Notice of Decisions
+              filed in the County deed records pursuant to this section and a map or
+              other record depicting the lots and parcels subject to the covenants,
+              conditions and restrictions fited in the County deed records pursuant to
+               this section. The map or other record shall be readily available to the
+               public in the Planning Office.
+
+6.   Winery:
+
+     a.   The winery is a facility that produces wine with a maximum              annual production
+          of:
+
+          (1) Less than 50,000 gallons and it:
+
+               (a) Owns an on-site vineyard of at least 15 acres;
+
+               (b) Owns a contiguous vineyard of at least 15 acres;
+
+               (c) Has a fong-term contract for the purchase of ail of the grapes from at
+                   least 15 acres of a vineyard contiguous to the winery; or
+
+               (d) Obtains grapes from any combination of subparagraph (a), (b) or (c) of
+                  this paragraph; or
+
+          (2) At least 50,000 gallons and no more than 100,000 galions and that:
+
+               (a) Owns an on-site vineyard of at least 40 acres;
+
+               (b) Owns a contiguous vineyard of at least 40 acres;
+
+               (c) Has a long-term contract for the purchase of all of the grapes from at
+                   least 40 acres of a vineyard contiguous to the winery; or
+
+               (d) Obtains grapes from any combination of subparagraph (a), (b) or (c) of
+                  this paragraph.
+
+     b. The winery described in subsection (a){1} or (2) above shall allow only the
+        sale of:
+
+          (1) Wines produced in conjunction with the winery; and
+
+                                                            Section 3.210 - "A-1" Exclusive Farm Use Zone
+                                                                                              July 22, 2009
+
+                                                       fj} 00;-bae7 AZRS
+Page 3.210-30
+
+                (2) Items directly related to wine, the sales of which                                       are incidental to retail
+                       sale      of        wine       on-site.       Such      items         include         individually    portioned
+                       prepackaged foods prepared from an approved source by a commercial
+                       processor and nonperishable beverages or any items additionally allowed
+                       by a limited service restaurant defined in ORS 624.010.
+
+          c.    Prior to the               issuance         of zoning       approval     to establish          a winery     under this
+                section, the applicant shall show that vineyards, described in subsection
+                (aX(1) and (2) of this section, have been planted or that the contract has been
+                executed, as applicable.
+
+          d.    Siting Standards to limit conflicts with accepted farming or forest practices on
+                adjacent lands include:
+
+                (1) Establishment of a setback, not to exceed 100 feet, from all property lines
+                   for the winery and all public gathering places; and                                                                ;
+
+                (2) Provision of direct road access, intemal circulation and parking.
+
+          e.    If a     Home              Occupation          to   host     Commercial             Events     such    as   weddings,
+                receptions or parties is desired, that use must be applied for under Section
+                E(28). Failure to apply under Section E(28) for such a use will result in the
+                hosting of any such events to be considered a land use violation.
+
+     7.   Farm Ranch Recreation:
+
+          a. The         tract        or     parcel         is currently     employed          in    a commercial           agricultural
+                operation as defined in Section                            1.090 and ORS            215.203      as evidenced        by a
+                Farm Management Plan.
+
+                If the Farm                Ranch      Recreation        utilizes agricultural operations on a tract to
+                meet the commercial agricultural operation standards they will be required to
+                own and operate the tract.      If portions of the tract used to justify the
+                commercial                 agricultural        operation      are     sold    the      Farm      Ranch      Recreation
+                approval will automatically become void and the owner will cease to operate
+                within 60 days of selling the property.
+
+          b. The Farm Management                              Plan shall also include the Farm Ranch Recreation
+                proposal         including            the     number       of acres     devoted         to the     recreational      use,
+                proposed or existing buildings involved in the use, hours and days of operation,
+                and anticipated usage (number of visitors).           Additionally, it must be
+                demonstrated                 how    the      Farm    Recreation        activities      are     compatible     with    the
+                commercial farming operation.
+
+          c. The Farm Ranch Recreation proposal shall not be the primary use of the
+             tract, but shall be subordinate to the commercial agricultural operation in
+                scope,        scale and            impact,      however,       income        generated        from the farm       ranch
+
+Section 3.210 - “A-1" Exclusive Farm Use Zone
+July 22, 2009                                                                          J}009-                dse7              43 ay        4
+                                                                                          Page 3.210-31
+
+  recreation use does not have to be subordinate to income generated by the
+ commercial agricultural operation. Scope, scale and impact shall take into
+ consideration the number of acres/area devoted to the farm ranch recreation
+ use, anticipated usage of the use, days and hours of operation.
+
+. New   Farm    Ranch      Recreation       structures     shall    be   located    on   land    that     is
+  "generally   unsuitable"        as defined    in Section         J(1)(d),   Non-Farm      Dwelling,
+ where practicable.   If the proposal is to not locate Farm Ranch Recreation
+ structures on land that is “generally unsuitable’, the application shall explain
+ why and how the proposal best protects agricultural lands.
+
+. Recreational uses such as fly fishing and hunting off of the parcel or tract
+  shall be allowed.     However, the primary portion of the Farm Ranch
+  Recreation use, excluding lodging, shall occur on the parcel or tract.
+
+  Overnight    lodging    units    in new    or existing     structures       may   be   permitted        in
+ conjunction with the Farm Ranch Recreation operation. Lodging unit means
+ an individual guest room in a lodge, bunkhouse, cottage, cabin, tent or
+  licensed recreational vehicles used only for transient lodging and not for a
+  permanent residence.     No more than 10 lodging units are allowed.       No
+ kitchen facilities are permitted in individual lodging units. All overnight
+ facilities shall comply with Oregon Dept. of Environmental Quality and/or
+ Wasco County Health Dept. requirements for sanitary sewage disposal.
+
+. In addition to overnight lodging units a separate kitchen area, rest rooms,
+  storage or other shared indoor space shall be allowed.
+
+. Food services shall be incidental to the operation of the guest ranch and shall
+  be provided only for the guests of the farm ranch recreation, individuals
+  accompanying the guests and individuals attending a special event at the
+  farm ranch recreation site. The cost of meals, if any, provided to guests of the
+  farm ranch recreation, individuals accompanying the guests and individuals
+  attending a special event at the farm ranch recreation may be included in the
+ fee to visit or stay at the farm ranch recreation site. A farm ranch recreation
+ may not sell individual meals to an individual who is not a guest of the farm
+ ranch recreation, an individual accompanying a guest or an_ individual
+ attending a special event at the farm ranch recreation site. Kitchen facilities
+  associated with the farm ranch recreation shall comply with Oregon                            Dept. of
+  Environmental Quality and/or Wasco County Health Dept. requirements.
+
+. The Approving Authority shall place reasonable no-shooting buffers (setbacks
+  from property lines) for hunting preserves, with the ability to have a minimum
+  one foot (1’) buffer.
+
+  There shall be a two mile radius for public notification in the application of
+  public or private target or shooting courses. There shall be a one-half mile
+  radius for public notification in the application of a hunting preserve.
+
+                                                           Section 3.210 - "A-1" Exclusive Farm Use Zone
+                                                                                            July 22, 2009
+
+                                                         pAb07- F207                             YY 98
+Page 3.210-32
+
+     8.   Utility Facility:
+
+          a. A      utility facility is necessary for public service if the facility must be sited in an
+                 exclusive farm use zone in order to provide the service. To demonstrate that
+                 a   utility   facility   is   necessary,   an   applicant    must   show   that   reasonable
+                 alternatives have been considered and that the facility must be sited in an
+                 exclusive farm use zone due to one or more of the following factors:
+
+                 (1) Technical and engineering feasibility;
+
+                 (2) The proposed facility is locationally dependent.         A utility facility is
+                     locationally dependent if it must cross land in one or more areas zoned for
+                     exclusive farm use in order to achieve a reasonably direct route or to meet
+                     unique geographical needs that cannot be satisfied on other lands;
+
+                 (3) Lack of available urban and nonresource lands;
+
+                 (4) Availability of existing rights of way;
+
+                 (5) Public health and safety; and
+
+                 (6) Other requirements of state and federal agencies.
+
+          b. Costs associated with any of the factors listed in a. may be considered, but
+             cost alone may not be the only consideration in determining that a utility
+             facility is necessary for public service. Land costs shall not be included when
+             considering alternative locations for substantially similar utility facilities and
+             the siting of utility facilities that are not substantially similar.
+
+          c.     The owner of a utility facility approved under this section shall be responsible
+                 for restoring, as nearly as possible, to its former condition any agricultural
+                 land and associated improvements that are damaged or otherwise disturbed
+                 by the siting, maintenance, repair or reconstruction of the facility. Nothing in
+                 this subsection shali prevent the owner of the utility facility from requiring a
+                 bond or other security from a contractor                    or otherwise   imposing    on   a
+                 contractor the responsibility for restoration.
+
+          d.     The goveming body of the County or its designee shall impose clear and
+                 objective conditions on an application for utility facility siting to mitigate and
+                 minimize the impacts of the proposed facility, if any, on surrounding lands
+                 devoted to farm use in order to prevent a significant change in accepted farm
+                 practices or a significant increase in the cost of farm practices on surrounding
+                 farm lands.
+
+          e.     In addition to a. through d. of this section, the establishment or extension of a
+                 sewer system as defined by OAR 660-011-0060(1){f) in an exclusive farm
+                 use zone shall be subject to the provisions of OAR 660-011-0060.
+
+Section 3.210 - “A-1" Exclusive Farm Use Zone
+July 22, 2009                                                      £2009-t2e7                      Yso88
+                                                                                                 Page 3.210-33
+
+     f.   The provisions of a. through d. do not apply to interstate natural gas pipelines
+          and associated facilities authorized by an subject to regulation by the Federal
+          Energy Regulatory Commission.
+
+9.   Aggregate
+
+     a. A land use permit is not required for mining less then than 1,000 cubic yards
+        of material or excavation preparatory to mining of a surface area of less than
+        one acre.
+
+     b.   A land use permit for mining of aggregate shall be issued only for a site
+          included on an inventory in an acknowledged comprehensive plan.
+
+     c.   “Mining” includes ail or any part of the process of mining by the removal of
+          overburden and the extraction of natural mineral deposits thereby exposed by
+          any method including open-pit mining operations, auger mining operations,
+          processing, surface impacts of underground mining, production of surface
+          mining refuse and the construction of adjacent or off-site borrow pits except
+          those constructed for use as access roads.
+
+     d. “Mining” does not include excavations of sand, gravel, clay, rock or other
+        similar materials conducted by a landowner or tenant on the landowner or
+        tenant's property for the primary purpose of reconstruction or maintenance of
+        access roads and excavation or grading operations conducted in the process
+        of farming or cemetery operations, on-site road construction or other on-site
+        construction or nonsurface impacts of underground mines.
+
+10. Composting facilities:
+
+     a.   Composting operations and facilities allowed on land not defined as high-
+          value farmland shall be limited to the composting operations and facilities
+          allowed    by OAR       660-033-0130(29)(a)          or that require       a permit        from   the
+          Department of Environmental Quality under OAR 340-093-0050. Buildings
+          and facilities used in conjunction with the composting operation shall only be
+          those required for the operation of the subject facility. Onsite sales shall be
+          limited to bulk loads of at least one unit (7.5 cubic yards) in size that are
+          transported in one vehicle.
+
+     b. Composting        operations       and   facilities allowed    on    high-value      farmland       are
+          limited   to those    that     are   exempt   from   a permit     from     the   Department         of
+          Environmental        Quality     (DEQ)    under      OAR    340-093-0050,           only     require
+          approval of an Agricultural Compost Management Pian by the Oregon
+          Department of Agriculture, or require a permit from the DEQ under OAR 340-
+          093-0050 where the compost is applied primarily on the subject farm or used
+          to manage and dispose of by-products generated on the subject farm.
+          Excess compost may be sold to neighboring farm operations in the local area
+          and shall be limited to bulk loads of at least one unit (7.5 cubic yards) in size.
+          Buildings and facilities used in conjunction with the composting operation
+
+                                                                 Section 3.210 - “A-1" Exclusive Farm Use Zone
+                                                                                                   July 22, 2009
+
+                                                               PROOF B67 Ut 8
+Page 3.210-34
+
+                shall only be those required for the operation of the subject facility.
+
+     11.Land application of reclaimed           water,   agricultural   process   or industrial process
+        water or biosolids.
+
+          a. A determination by the Department of Environmental Quality, in conjunction
+                with the department's review of a license, permit or approval, that the
+                application rates and site management practices for the land application of
+                reclaimed water, agricultural or industrial process water or biosolids ensure
+                continued agricultural, horticultural or silvicultural production and do not
+                reduce the productivity of the tract.
+
+          b. The use of a tract of land on which the land application of reclaimed water,
+                agricultural or industrial process water or biosolids has occurred            under this
+                section may not be changed to allow a different use unless:
+
+                (1) The tract is included within an acknowledged urban growth boundary;
+
+                (2) The tract is rezoned to a zone other than an exclusive farm use zone;
+
+                (3) The different use of the tract is a farm use as defined in ORS 215.203; or
+
+                (4) The different use of the tract is a use allowed under:
+
+                   (a) ORS 215.213 (1}(c), (e) to (g), (kK), (m) to (q), (Ss) to (u), (x), (Z) or (aa);
+
+                   (b) ORS 215.213 (2)(a) to (c), (i), (m) or (p) to (r);
+
+                   (c) ORS 215.283 (1}(c), (e), (f), (k) to (0), (q) to (s), (u), (w) or (x); or
+
+                   (d) ORS 215.283 (2)(a), (j), (L) or (p) to (s).
+
+          ec. An evaluation of the alternatives to application and the reason for not using
+                these alternatives.
+
+          d.    The uses allowed under this section include:
+
+                (1) The treatment of reclaimed water, agricultural or industrial process water
+                    or biosolids that occurs as a result of the !and application;
+
+                (2) The establishment and use of facilities, including buildings, equipment,
+                   aerated and nonaerated water impoundments,              pumps and other irrigation
+                   equipment, that are accessory to and reasonably necessary for the land
+                   application to occur on the subject tract;
+
+                (3) The establishment and use of facilities, including buildings and
+                    equipment, that are not on the tract on which the land application occurs
+                    for the transport of reclaimed water, agricultural or industrial process water
+
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+July 22, 2009                                                      p ‘A009 ~ODd6 2              Y 79       98
+                                                                                          Page 3.210-35
+
+             or biosolids to the tract on which the land application occurs if the facilities
+             are located within:
+
+             (a) A public right of way; or
+
+             (b) Other land if the landowner provides written consent and the owner of
+                 the facility complies with ORS 215.275 (4); and
+
+          (4) The transport by vehicle of reclaimed water or agricultural or industria!
+              process water to a tract on which the water will be applied to land.
+
+   e.     Uses not allowed under this section include:
+
+          (1) The establishment and use of facilities, including buildings or equipment,
+             for the treatment     of reclaimed   water,   agricultural    or industrial      process
+             water or biosolids other than those treatment facilities related                   to the
+             treatment that occurs as a result of the land application; or
+
+          (2) The establishment and use of utility facility service lines allowed under
+             B(10) above.
+
+        f. A division of land for the land application of reclaimed water, agricultural or
+          industrial process water or biosolids shall not be allowed.
+
+12.Farm stands:
+
+   a. The structures are designed and used for sale of farm crops or livestock
+      grown on the farm operation, or grown on the farm operation and other farm
+          operations in the local agricultural area, including the sale of retail incidental
+          items, and fee-based activity to promote the sale of farm crops or livestock
+          sold at the farm stand, if the annual sales of the incidental items and fees
+          from promotional activity do not make      up more than 25 percent of the total
+          annual sales of the farm stand;
+
+   b.     The farm stand does not include structures designed for occupancy as a
+          residence or for activity other than the sale of farm crops and livestock and
+          does not include structures for banquets, public gatherings or public
+          entertainment;
+
+   c.     "Farm crops or livestock" includes both fresh and processed farm crops and
+          livestock grown on the farm operation, or grown on the farm operation and
+          other farm      operations   in the local agricultural area. As             used in this
+          subsection,     “processed   crops and livestock" includes jams,           syrups, apple
+          cider, animal    products and other similar farm crops and          livestock that have
+          been processed and converted        into another product but not prepared food
+          items; and
+
+                                                           Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                            3007-0367 yg rE
+Page 3.210-36
+
+         d.     "Local   agricultural      area"     includes    Oregon        or    an      adjacent   county    in
+                Washington.
+
+    13. Golf Courses
+
+         a.     A regulation 18 hole golf course is generally characterized by a site of about
+                120 to 150 acres of land, has a playable distance of 5,000 to 7,200 yards,
+                and a par of 64 to 73 strokes;
+
+         b. A regulation 9 hole golf course is generally characterized by a site of about
+                65 to 90 acres of land, has a playable distance of 2,500 to 3,600 yards, and a
+                par of 32 to 36 strokes;
+
+         c.     Non-regulation golf courses are not allowed uses within these areas. "Non-
+                regulation golf course" means a golf course or golf course-like development
+                that does not meet the definition of golf course in Section 1.090, including but
+                not limited to executive golf courses, Par 3 golf courses, pitch and putt golf
+                courses, miniature golf courses and driving ranges;
+
+         d. Accessory uses provided as part of a golf course shall be consistent with the
+            following standards:
+
+                (1)An accessory use to a golf course is a facility or improvement that is
+                   incidental to the operation of the golf course and is either necessary for
+                   the operation and maintenance of the golf course or that provides goods
+                   or services customarily provided to golfers at a golf course. An accessory
+                   use   or activity does          not   serve   the   needs        of the    non-golfing   public.
+                   Accessory uses to a golf course may include: Parking; maintenance
+                   buildings; cart storage and repair; practice range or driving range;
+                   clubhouse;      restrooms; lockers and showers; food and beverage service;
+                   pro shop; a practice or beginners course as part of an 18 hole or larger
+                   golf course; or golf tournament. Accessory uses to a golf course do not
+                   include: Sporting facilities unrelated to golfing such as tennis courts,
+                   swimming pools, and weight rooms; wholesale or retail operations
+                   oriented to the non-golfing public; or housing.
+
+                (2) Accessory uses shall be limited in size and orientation on the site to serve
+                    the needs of persons and their guests who patronize the golf course to
+                   golf. An accessory use that provides commercial services (e.g., pro shop,
+                   etc.) shall be located in the clubhouse rather than in separate buildings.
+
+                (3) Accessory uses may include one or more food and beverage service
+                    facilities in addition to food and beverage service facilities located in a
+                    clubhouse. Food and beverage service facilities must be part of and
+                   incidental to the operation of the golf course and must be limited in size
+                   and orientation on the site to serve only the needs of persons who
+                   patronize the golf course and their guests. Accessory food and beverage
+                   service facilities shall not be designed for or include structures for
+
+soni
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+
+                                                                  fre01-toeg Vine#
+                                                                                     Page 3.210-37
+
+           banquets, public gatherings or public entertainment.
+
+14. Private Parks, Playgrounds and Campgrounds
+
+   a.   The campground     is established on a site or is contiguous to lands with a park
+        or other outdoor natural amenity that is accessible for recreational use by the
+        occupants of the campground.
+
+   b.   Except on a lot or parcel contiguous to a lake or reservoir, private
+        campgrounds shall not be allowed within three miles of an urban growth
+        boundary unless an exception is approved pursuant to ORS 197.732 and
+        OAR chapter 660, division 4.
+
+   c. A campground shall be designed and integrated into the rural agricultural and
+      forest environment in a manner that protects the natural amenities of the site
+        and provides buffers of existing native trees and vegetation or other natural
+        features between campsites.
+
+   d.   Campgrounds shall not include intensively developed recreational uses such
+        as swimming pools, tennis courts, retail stores or gas stations.
+
+   e.   Campsites may be occupied by a tent, travel trailer, yurt or recreational
+        vehicle. Separate sewer, water or electric service hook-ups shall not be
+        provided to individual camp sites except that electrical             service    may     be
+        provided to yurts allowed for by subsection f below.
+
+   f.   No more than one-third or     a maximum of 10 campsites, whichever is smaller,
+        may include a yurt.    The yurt shall be located on the ground or on a wood
+        floor with no permanent foundation.
+
+        As used in this paragraph, “yurt’ means a round, domed shelter of cloth or
+        canvas on a collapsible frame with no plumbing, sewage disposal hookup or
+        internal cooking appliance.
+
+15. On Site Filming
+
+   a.   No filming shall occur without written permission of the landowner.
+
+   b.   Filming may be restricted during the hours between 10 p.m. and 8 a.m. if
+        nearby residents would be disturbed by noise, lights or any other filming
+        activity.
+
+   c.   Filming shall not create traffic hazards.
+
+   d. Prior to filming, written authorization shall be obtained from the applicable fire
+      department for the use of any fire-related activities, such as welding or cutting
+        equipment, pyrotechnical devices or related activities.
+
+                                                      Section 3.210 - "A-1” Exclusive Farm Use Zone
+
+                                                    [iptoi-loty op % 88
+Page 3.210-38
+
+          e. All federal,       state    and     county     aircraft     regulations       shall    apply.      It is the
+                responsibility of the applicant to be aware of all regulations.
+
+          f.    All structures shall be self-supporting.                Digging or construction of permanent
+                foundations will not be allowed.
+
+          g.    Weekly    garbage       pickup      shali   be    provided       and   any         garbage     or     debris
+                gathered daily.
+
+          h. Ail garbage, debris, sets, or other equipment or props must be removed and
+             properly disposed of within 24 hours of completion of filming.
+
+          i.    All food concessions shall obtain a permit from the Wasco                              County Health
+                Department.
+
+          j-    It is the responsibility of the applicant to provide proper sanitation, potable
+                water, off-road parking, and security.
+
+          k.    No mammals, fish, reptiles, or other animals                       shall be         released        into the
+                environment during or after filming.
+
+          I.    All animals shall be            tethered,    leashed       or caged        when      not     immediately
+                required for filming.
+
+     16. Commercial Activities in Conjunction with Farm Use - The processing, packaging,
+         treatment and wholesale distribution and storage of a product primarily derived
+         from farm activities on the premises. Also, retail sales of agricultural products,
+         supplies and services directly related to the production and harvesting of
+          agricultural products.        Such uses include the following:
+
+          -Storage, distribution and sale of feed,                     fertilizer, seed,     chemicals,        and     other
+          products used for commercial agriculture.
+
+          -Famm product receiving plants, including processing, packaging, and reshipment
+          facilities.(revised 2-89)
+
+          -Livestock feed or sales yards.
+
+          -Storage, repair, or sale of fencing, irrigation, pipe, pumps, and other commercial
+          farm-related equipment and implements.
+
+          -Farm equipment storage and repair facilities.
+
+          -Bulk storage and distribution facilities for fuels, pesticides, and fertilizers.
+
+          -Veterinanian clinic.
+
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+July 22, 2009                                                      $3004-0047                                C7}          4
+                                                                                                     Page 3.210-39
+
+  -Horticultural specialties such as nurseries or greenhouses for retail sales of plants
+  and products.
+
+  -Slaughtering of animals, including attendant retail and wholesale                               sales, which
+  may be conducted outside an enclosed building.
+
+  -Wineries for production from fruits,                 a portion of which are grown on the property,
+  including retail sales.
+
+  -And other such uses which may be construed as similar to the above listed uses.
+
+  The    Approving       Authority       shail    consider among         other relevant      criteria the     Land
+   Conservation and Development Commission decision No. 79-003.
+
+17.Wind Power Generation Facility: For purposes of this section a wind power
+   generation facility includes, but is not limited to, the following system
+  components:           all      wind      turbine     towers      and     concrete        pads,     permanent
+  meteorological towers and wind measurement devices, electrical cable collection
+  systems connecting wind turbine towers with the relevant power substation, new
+  or expanded          private     roads     (whether        temporary     or permanent)       constructed       to
+  serve the wind power generation facility, office and operation and maintenance
+  buildings, temporary lay-down areas and all other necessary appurtenances.
+
+  a.    For high-value farmland soils described in ORS 195.300(10), it must be found
+        that all of the following are satisfied:
+
+        (1) Reasonable alternatives have been considered                          to show that siting the
+            wind power generation facility or component                            thereof on high-value
+            farmland soils is necessary for the facility or                       component to function
+            properly or if a road system or turbine string must                   be placed on such soils
+           to achieve a reasonably direct route considering the following factors:
+
+            (a) Technical and engineering feasibility;
+
+           (b) Availability of existing rights of way; and
+
+           (c) The        long      term         environmental,      economic,        social       and      energy
+               consequences of siting the facility or component on alternative sites,
+               as determined under paragraph (2) of this subsection.
+
+        (2) The long-term environmental, economic, social and energy consequences
+           resulting      from     the     wind      power    generation     facility or    any    components
+           thereof at the proposed site with measures designed to reduce adverse
+           impacts are not significantly more adverse than would typically result from
+           the same proposal being located on other agricultural lands that do not
+           include high-value farmland soils.
+
+                                                                     Section 3.210 - “A-1" Exclusive Farm Use Zone
+
+                                                                D009 On07 G> y&E
+Page 3.210-40
+
+                (3) Costs associated with any of the factors listed in paragraph (1) of this
+                      subsection may be considered, but costs alone may not be the only
+                      consideration in determining that siting any component of a wind power
+                      generation facility on high-value farmland soils is necessary.
+
+                (4) The owner of a wind power generation facility approved under Section (a)
+                    above shall be responsible for restoring, as nearly as possible, to its
+                    former condition any agricultural land and associated improvements that
+                      are damaged or otherwise disturbed by the siting, maintenance, repair or
+                      reconstruction of the facility. Nothing in this subsection shall prevent the
+                      owner of the facility from requiring a bond or other security from a
+                      contractor or otherwise imposing on a contractor the responsibility for
+                      restoration.
+
+                (5) The criteria in Section (b), below are satisfied.
+
+          b.    For arable lands, meaning lands that are cultivated or suitable for cultivation,
+                including high-value farmland soils described in ORS 195.300(10), it must be
+                found that:
+
+                (1)    The proposed wind power facility will not create unnecessary negative
+                      impacts on agricultural operations conducted on the subject property.
+                      Negative impacts could include, but are not limited to, the unnecessary
+                      construction of roads, dividing a field or multiple fields in such a way that
+                      creates smail or isolated pieces of property that are more difficult to farm,
+                      and placing wind farm components such as meteorological towers on
+                      lands in a manner that could disrupt common and accepted farming
+                      practices; and
+
+                (2) The     presence     of     a   proposed   wind    power   facility   will   not   result   in
+                      unnecessary soil erosion or toss that could limit agricultural productivity on
+                      the subject property. This provision may be satisfied by the submittal and
+                      county approval of a soil and erosion control plan prepared by an
+                      adequately qualified individual, showing how unnecessary soil erosion will
+                      be avoided or remedied and how topsoil will be stripped, stockpiled and
+                      clearly marked. The approved plan shall be attached to the decision as a
+                      condition of approval; and
+
+                (3) Construction or maintenance activities will not result in unnecessary soil
+                    compaction that reduces the productivity of soil for crop production. This
+                    provision may be satisfied by the submittal and county approval of a plan
+                      prepared by an adequately qualified individual, showing how unnecessary
+                      soil compaction will be avoided or remedied in a timely manner through
+                      deep soil decompaction or other appropriate practices. The approved plan
+                      shail be attached to the decision as a condition of approval; and
+
+                (4) Construction or maintenance activities will not result in the unabated
+                    introduction or spread of noxious weeds and other undesirable weeds
+
+Section 3.210 - "A-1" Exclusive Farm Use Zone
+July 22, 2009                                                         $009-0967                    53488
+                                                                                             Page 3.210-41
+
+          species. This provision may be satisfied by the submittal and county
+          approval of a weed control plan prepared by an adequately qualified
+          individual that includes a long-term maintenance     agreement.  The
+          approved      plan    shall    be     attached   to the   decision     as    a condition        of
+          approval.
+
+c.   For nonarable       lands,       meaning     lands that are not suitable for cultivation,               it
+     must be found that the requirements of Subsection (b\4) above are satisfied.
+
+d.   In   the   event    that     a   wind    power    generation     facility   is   proposed       on      a
+     combination of arable and nonarable lands as described in Sections (6) and
+     (c) above, the approval criteria of Section (b) shall apply to the entire project.
+
+                                                               Section 3.210 - "A-1” Exclusive Farm Use Zone
+                                                                                                July 22, 2009
+
+                                                     f3009-boey                         SY¥3E
+                      DETAILED TABLE OF CONTENTS
+                  CHAPTER 4 SUPPLEMENTAL PROVISIONS
+
+SECTION   TITLE                                                   PAGE
+4.010     AUTHORIZATION OF SIMILAR USES                           41
+4.020     EXCEPTIONS                                              4-1
+4.030     IMPACT REVIEW                                           4-1
+4.040     EXEMPTIONS                                              “4
+4.050     MAINTENANCE OF OPEN SPACE                               4-2
+4.060     GENERAL EXCEPTIONS TO YARD REQUIREMENTS                 4-2
+4.070     GENERAL EXCEPTIONS TO BUILDING HEIGHT                   4-2
+          REQUIREMENTS
+4.080     PROJECTIONS INTO YARDS                                  4-2
+4.090     VISION CLEARANCE                                        4-3
+4.100     FENCES                                                  4-3
+4.110     THROUGH LOTS                                            4-3
+4. 120    EXTERIOR FINISHING OF MOBILE HOMES                      4-4
+4.130     DEVELOPMENT STANDARDS FOR GUESTHOUSES                   4-4
+
+                                            Chapter 4 - Supplemental Provisions
+
+                                (R009-loL 7 65 B
+(004-0307   SL 488
+                                                                                                     Page 4-1
+
+                           CHAPTER 4         SUPPLEMENTAL PROVISIONS
+
+ SECTION 4.010 Authorization of Similar Uses
+ The Director may permit in a particular zone a use not listed in this Ordinance, provided
+ the use is of the same general type as the uses permitted there by this Ordinance.                     The
+ decision of the Director may be reviewed by the Planning Commission on its own motion
+ or appealed to the Commission             pursuant to Section 2.060 (C10) of this Ordinance.
+ Notice of Administrative Action shall be given as prescribed by Section 2.080(A) of this
+ ordinance. Notice of a final decision shall be given as prescribed in Section 2.120(A) and
+ (B).
+
+ SECTION 4.020 Exceptions
+ The Director of Planning shall be authorized to grant exceptions to the provisions of this
+ Ordinance to any goverment agency that requests in writing an exception toa specific
+ requirement or procedure; provided that the following circumstances exist:
+
+- A. The proposed use is consistent with the purpose and intent of the Comprehensive
+     Pian and the Land Use and Development Ordinance; and,
+
+ B. The proposed use would serve an immediate public need; and,
+
+ C. There is inadequate time available for a review of the use through normal procedures,
+        and delays would impair project implementation or pose hazards to property or public
+        health, safety or welfare.
+
+ SECTION 4.030         Impact Review
+ To     ensure   that adequate       information   is available to determine    potential conflicts or
+ detrimental effects, the Director of Planning may require the submission of an impact
+ assessment, upon forms prescribed by the Director, before an exception shall be granted.
+
+ SECTION 4.040 Exemptions
+ Nothing in this Ordinance shail be deemed to apply to the construction, reconstruction, or
+ alteration by a goverment agency of road or highway systems, or to the use of materials
+ or sources within rights-of-way. In addition, maintenance rehabilitation, repair and minor
+ betterment activities, not considered to have land use impacts, by a govermmental agency
+ on public property or facilities, shall also be exempt from the provisions of this Ordinance.
+  Public works projects or land uses, authorized or approved by the County Court and
+ determined by the Director to be consistent with the long-term objectives of the
+ Comprehensive Pian, shall be exempt from the current provisions of this Ordinance.
+
+                                                                         Chapter 4, Supplemental Provisions
+                                                                                                July 22, 2009
+
+                                                          P3064-D54 79 SDSS
+Page 4-2
+
+SECTION 4.050 Maintenance of Open Space
+No lot area, yard, or other open space existing on or after the effective date of this
+Ordinance shall be reduced below the minimum required for it by this Ordinance, and no
+lot area, yard, off-street parking and loading area or other open space which is required
+by this Ordinance for one use shall be used as the required lot area, yard or other open
+space for another use. This section does not apply to area requirements reduced below
+the minimum as a result of the creation of cemetery lots. Any required yard shall not
+include any land dedicated, reserved or set aside for road, highway, street or other public
+purposes except as provided in this Ordinance.
+
+SECTION 4.060          General Exceptions to Yard Requirements
+The following exception to yard requirements is authorized for a lot in any zone:
+
+If there are buildings on both abutting lots which are within one hundred (100) feet of the
+intervening lot, and the buildings have front yards of less than the required depth for the
+zone, the depth of the front yard for the intervening lot need not exceed the average
+depth of the front yards of the abutting yards.
+
+SECTION 4.070          General Exceptions to Building Height Requirements
+Necessary       roof structures housing elevators, stairways, tanks, fans and ventilators and
+towers, steeples, flagpoles, smokestacks, silos, grain elevators, energy facilities and
+commercial energy facilities, water tanks and skylights and fire or parapet walls may be
+erected above the height limits of the zone in which they are located provided no usable
+floor space is provided in such structures above the required height limits. Transmission
+towers over 200 feet in height require a Conditional Use Permit.
+
+SECTION 4.080 Projections Into Yards
+Every part of a required yard shall be open from the ground to the sky unobstructed
+except for the following:
+
+A. Accessory buildings where permitted.
+
+B. Ordinary building projections such as comices, eaves, belt courses, sills or similar
+   architectural features may project into required side yards not more than eighteen (18)
+   inches or into front and rear yards not more than twenty-four (24) inches.
+
+C. Chimneys may project into any required yard not more than eighteen (18) inches.
+
+D. Uncovered baiconies or fire escapes may project into any required yard not more than
+   three (3) feet.
+
+Chapter 4, Supplemental Provisions
+July 22, 2009
+                                                    3009 “OL 7                      SVRSY
+                                                                                                              Page 4-3
+
+E.   Uncovered terraces, decks or platforms may project or extend into a required setback
+     not more than five (5) feet.        Such terraces, decks or platforms including guardrails or
+     fencing shall not extend thirty (30) inches above grade or ground level.
+
+SECTION 4.090        Vision Clearance
+A vision     clearance   area   shall     be maintained        on     the comers           of all property at the
+intersection of two streets or a street and a railroad.
+
+A. A vision clearance area shall consist of a triangular area, two sides of which are lot
+     lines   measured    from   the     comer   intersection        of the   street   lot lines for a distance
+     specified in the appropriate zone, or, where the lot lines have rounded comers, the lot
+     lines extended in a straight line to a point of intersection and so measured, and the
+     third side of which is a line across the comer of the lot joining the non-intersecting
+     ends of the other two sides.
+
+B. A vision clearance area shall contain no planting, fence, wall, structure, or temporary
+     Or permanent obstruction exceeding two and one-half (2 1/2) feet in height, measured
+     from the top of the curb or, where no curb exists, from the established street center
+     line grade, except that trees exceeding this height may                          be     located   in this area
+     removed to a height of eight (8) feet above the grade.
+
+C. The following measurements shall establish vision areas:
+
+     1.   In an agricultural or residential zone, the minimum distance shall be thirty (30) feet,
+          or, at intersections including an alley, ten (10) feet.
+
+     2.   In all other zones where yards are required, the minimum distance shall be fifteen
+          (15) feet or, at intersections including alley, ten (10) feet, except that when the
+          angle of intersection between streets, other than an alley, is less than thirty (30)
+          degrees, the distance shall be twenty-five (25) feet.
+
+SECTION 4.100         Fences
+No fence shall exceed six (6) feet in height or two and one-half (2 1/2) feet in a vision
+clearance area. Game fences designed to protect agricultural crops from game animals
+shall be included in the definition of fence (protective), however, they are exempt from the
+height limit.
+
+SECTION 4.110        Through Lots
+
+A. On through lots one hundred fifty (150) feet or less in depth, the height of a building
+     may be that permitted on either street on which the lot faces.
+
+                                                                                  Chapter 4, Supplemental Provisions
+                                                                                                         July 22, 2009
+
+                                                        306 GO2C7D                                     5G
+Page 4-4
+
+B. On through lots more than one hundred fifty (150) feet in depth, the height regulations
+    for the greater height shall not extend more than one hundred fifty (150) feet from that
+    street.
+
+C. Through lots having a frontage on two streets shall provide the required front yard on
+   each street.
+
+SECTION 4.120          Exterior Finishing of Mobile Homes
+
+A. All mobile homes located on any lot or parcel in Wasco County shail be skirted with
+   fire-proof, non-decaying and non-corroding materials or shall be provided with a
+    cement or concrete block exterior foundation.    if metal skirting is employed, it shall be
+    painted and formed in a pattem complementary to the siding of the mobile home.
+
+B. All awnings carports, ramadas, cabanas, and garages shall be painted and designed
+   in a style complementary to the design of the mobile home.
+
+C. Wheels shall be removed from all mobile homes at the time of installation on property.
+    In addition, tongues, and hitches shall be removed from all mobile homes wider than
+   ten (10) feet that are installed on any parcel of land, exclusive of licensed mobile
+   home parks. The Director of Planning may exempt certain mobile homes from the last
+   requirement when removal would damage the frame and weaken the structure.
+
+SECTION 4.130Development Standards for Guest Houses (Added 1-92)
+A guest house may be allowed as listed in specific zones (“F-F”, “R-R’, “R-R(10)’, “A-R”,
+“R-1", “R-2”, “R-3", “R-4”, and “R-C”) on a legally created lot or parcel on which a primary
+dwelling is situated, subject to the setback requirements of the underlying district, and the
+provisions of this section;
+
+A. Only one (1) guest house shall be allowed on a lot-of-record.
+
+B. The maximum floor area of a guest house, including all levels and basement fioor
+   areas shall not exceed six-hundred (600) square feet. Garage area shall not count
+   toward the total floor area.
+
+C. A guest house shall be located within one-hundred (100) feet of the primary dwelling
+   on the subject lot-of-record. This distance shall be measured from the closest portion
+    of each structure.
+
+D. Occupants of a guest house and the primary dwelling shall live together as one house
+     keeping unit, sharing one kitchen and one laundry facility, to be located in the primary
+
+sr
+Chapter 4, Supplemental Provisions
+
+                                                     (2009-2917
+                                                            VO 96
+                                                                                            Page 4-5
+
+ dwelling.   A guest house shall be permitted one (1) bathroom, but not a refrigerator or
+ freezer, range/stove/oven, or other cooking appliances.
+
+. All public water, electricity, natural gas and sewer services for the guest house shall
+  be extended   from the primary dwelling   service.   No   separate   meters for the guest
+  house   shail be allowed.   A separate telephone line for the guest house               may be
+ provided.
+
+. A guest house shall use the same septic system as the primary dwelling.                Approval
+ from the County Sanitarian shall be required.
+
+                                                                 Chapter 4, Supplemental Provisions
+                                                                                        July 22, 2009
+
+                                            [3007-0207 b/o, BE
+                          DETAILED TABLE OF CONTENTS
+         CHAPTER 19 STANDARDS FOR ENERGY FACILITIES
+                    AND COMMERCIAL ENERGY FACILITIES
+
+SECTION         TITLE                                                                     PAGE
+19.005          PURPOSES                                                                  19-1
+19.010          CLASSIFICATION OF ENERGY FACILITIES                                       19-1
+19.020          OTHER ENERGY FACILITIES                                                   19-4
+19.030          STANDARDS FOR APPROVAL                                                    19-1
+19.040          ADDITIONAL APPROVAL STANDARDS FOR                                         19-8
+                ENERGY FACILITIES AND COMMERCIAL
+                ENERGY FACILITIES
+19.050          CONDITIONS OF APPROVAL                                                    19-9
+
+                           Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+                                            007-0367               C2       OSS           July 22, 2009
+£3007- 0267   63   a gy
+                                                                                                         Page 19-1
+
+                 CHAPTER 19 STANDARDS FOR ENERGY FACILITIES
+                            AND COMMERCIAL ENERGY FACILITIES
+
+SECTION 19.005 Purposes
+This chapter describes how to apply for county approval of a proposed hydroelectric, wind
+energy, biomass, or geothermal facility. If outside of the A-1 zone county review authority
+shall be limited to facilities with a nominal rated electric capacity of 25 MW or less, or
+transmission   facilities carrying   230   kV or less.        If inside the A-1       Zone     county     review
+authority shall extend to the capacity allowed by ORS 469.300, or if the applicant or the
+County Court so desires for any reason, review authority shall be given to the Oregon
+Department of Energy who shall decide the matter. It also describes how the county will
+consider the energy, environmental, economic, and social consequences of a proposed
+energy facility. A use approved by the county under this chapter will protect the public
+health, safety, and general welfare, comply with the Statewide Planning Goals and
+Guidelines, and comply with the Wasco County Comprehensive Plan.
+
+SECTION     19.010   Classification of Energy Facilities
+
+A.   Permitted Subject to Standards.       A proposed energy facility shall be approved by the
+     Planning Director as a use permitted subject to standards if the proposed facility
+     complies with the applicable standards of subsection 19.030 (A) through (C) and
+     section 19.040, subject to the applicable conditions of section 19.050.
+
+B. Conditional Use.       A proposed energy facility that is not permitted subject to standards
+     may be approved by the Planning Commission as a conditional use if the proposed
+     facility complies with the applicable standards of subsection 19.030 (D) through (F)
+     and section 19.040, subject to the conditions of section 19.050 and other conditions
+     found necessary to fulfill the purpose of this chapter.
+
+SECTION     19.020   Other Energy Facilities
+
+Energy facilities and commercial energy facilities other than hydroelectric, wind energy,
+and transmission facilities are subject to the provisions of Chapter 5.
+
+SECTION     19.030   Standards for Approval
+
+A. A Hydroelectric        Facility as a Use     Permitted      Subject to Standards.              A proposed
+     hydroelectric facility is a use permitted       subject to standards          if it complies with part
+     19.030 (A)(1) and with part (AX2), or part (A)(3) below, and the applicable conditions
+     of Section 19.050.
+
+                                      Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+
+                                                 (A009- lobe bY BH"
+Page 19-2
+
+     1.     Location. The facility shall comply with subsection 19.040(A) through (D).
+
+    2.      Capacity       and    Source    of Water.        The      facility will comply         with   either subpart
+            19.030(A)(2)(a) or (b).
+                 The facility will produce 100 theoretical horsepower (thp) or less, or
+
+            b. The facility takes water from and retums water to a man-made water
+               conveyance system, without increasing the system's use of surface and ground
+                 waters.
+
+     3.     Other Small Scale Facilities.          A facility other than one in part 19.030(A2) with a
+            maximum        generating capacity of       5 megawatts             (MW)       shall comply with all of the
+            following:
+
+                 Does      not   increase   the   maximum          surface          area   of an   impoundment      at an
+                 existing dam or diversion or does not impound more than two acre feet at a
+                 new impoundment or diversion.
+
+                 Does not change the prevailing regime of storage and release or impede fish
+                 management. Changes which improve fish management or existing adverse
+                 effects of the dam or diversion may be permitted.
+
+                 Does not require development of more than one mile of new vehicular access
+                 routes.
+
+                 Does      not require construction of a transmission line in a new right-of-way or
+                 easement that results in clearing of a right-of-way or easement with a length
+                 exceeding one mile or with an average cleared width exceeding 50 feet in the
+                 zone.
+
+                 Does not use a diversion or intake structure the height of which is more than
+                 twice the diameter of the penstock or ten feet, whichever is less.
+
+            f.   Does not increase naturally-occurring head by more than five percent.
+
+B. A Transmission                Facility as a use Permitted           Subject to Standards.              A transmission
+     facility is a Use permitted subject. to standards if it complies with part 19.030(B)(1) or
+     with parts (B)(2) and (BX 3), and the applicable conditions of section 19.050.
+
+     1.     Location and Height.
+
+                 The facility shall comply with subsections 19.040(B) and (C), and
+
+Chapter 19, Standards for Energy Facilities and Commercial         rgy Facilities
+July 22, 2009
+                                                                    07-0907                        65         48%
+        b. The      facility shall   result in clearing   of a right-of-way or easement                with an
+           average width not greater than 50 feet in the F-F and F-1 zones, or
+
+        c. The facility shall not increase the extent to which the right-of-way or easement
+           is in an area listed in parts 19.040(A\1)} through (3), except as permitted by
+           part 19.040(A}(4).
+
+        d. The facility is less than 200 feet.
+
+   2.   Existing Use. The facility shall be built in or adjoining an existing public road or
+        utility right-of-way or easement, and
+
+   3. Width.        The facility will not increase the average width of the clearing for the
+        existing right-of-way or easement          by more than      50%     nor resuit in clearing of a
+        right-of-way or easement with an average width greater than 125 feet, whichever is
+        less, and
+
+C. A Wind Facility as a Use Permitted Subject to Standards. A proposed wind facility is a
+   use permitted subject to standards if it complies with parts 19.030(C)(1) through (8). A
+   wind measurement device is a use permitted subject to standards if it complies with
+   subpart 19.030(C)(3)(b) and parts (C)(5), (C)\(7) and (C)(8). In addition, a WECS and
+   a wind measurement device are subject to the standards of subsection 19.040(A)
+   through (C) and the applicable conditions of section 19.050.
+
+   1.   WECS       Height.   The total WECS     shall not exceed 200 feet.
+
+   2.   Density.     No more than two WECS         shall be on the same site and under the same
+        ownership or management.
+
+   3.   Setbacks.
+
+        a. A WECS shall be setback from all adjoining property lines as described in (1)
+           and (2) below. An easement that complies with ORS 105.900 through .915
+           may be substituted for required setbacks. The setback shall be measured from
+           the center point of the tower or pedestal.
+
+           1.    A horizontal axis WECS       shall be setback at least five rotor diameters.
+
+           2.    A vertical WECS      shall be setback the total WECS         height.
+
+        b. The furthest horizontal extension of a WECS or wind measurement device
+           (including guy wires) shall not extend into yards required in the underlying
+           zones or be closer than twelve feet to any major structure, or right-of-way or
+
+                                                     Lier- 030") bi 38"
+                                         Chapter 19, wr    for Energy Facilities and Commercial Energy Facilities
+Page 19-4
+
+                  easement for above-ground telephone, electrical transmission and distribution
+                  lines.
+
+    4.      Minimum       Height.      The    lowest   point in the sweep       of   a WECS     blade shall be a
+            minimum       height above         the tallest current or foreseeable            obstruction within a
+            horizontal,    500      foot   radius of   a WECS      or a radius       of 10   rotor diameters   (for
+            horizontal axis) and 5 WECS heights (for vertical axis), whichever is greater, as
+            described in (a), (b), and (c) below. The radius shall be measured from the center
+            point of the tower.
+
+            a.    At least 30 feet for a horizontal axis WECS on a               site without site-specific wind
+                  direction data or representative off-site data.
+
+            b. At least 30 feet above current or foreseeable obstructions within 45 degrees of                        |
+               the direction(s) of prevailing wind for a horizontal axis WECS on a site with                          |
+                   site-specific wind direction data or representative off-site data.
+
+            c. Atleast six feet for a vertical axis WECS.
+
+    5.      Public Access.          Public access to a vertical axis WECS              shall be limited using (c)
+            below. Public access to a horizontal axis WECS                     shall be limited using one or a
+            combination of the following methods:
+
+            a.     Removal of tower climbing fixtures to 12 feet from the ground,
+
+            b.     Installation of a locking, anti-climb device on the tower, or
+
+            c.     Installation of a protective fence at lease six feet tall with a locking gate.
+
+         . Visual Effects. Except when the applicant demonstrates that such measures will
+           significantly interfere with wind access over the life of the WECS, a WECS shall be
+           sited to reduce visual impacts using means including, but not limited to, the
+            following:
+
+            a.    Setting the WECS against a visual backdrop that, because of color, texture or
+                  topography, helps the WECS blend into its surrounding environment.
+
+                 . Using non-reflective materials and colors that blend into the background unless
+                   otherwise required by the Federal Aviation Administration or Oregon State
+                   Aeronautics Division.
+
+                 . No advertising shall be placed on the WECS. Advertising does not include the
+                   manufacturer's label or other signs required by law.
+
+Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+July 22, 2009                                                >    D04-         DIL
+                                                                                       7       b7         88
+                                                                                                         Page 19-5
+
+        d. Setting the WECS          back from scenic highways and zones containing any of the
+             protected areas listed in subsections 19.040(A) and (B).
+
+   7.   Notice.  The following        signs   shall    be clearly visible on       the WECS         tower     and
+        accessory facilities.
+
+        a.   "No Trespassing" signs shall be attached to any perimeter fence.
+
+        b. "Danger" signs shall be posted at the height of five feet on WECS towers and
+             accessory structures.
+
+        c. A-sign shall be posted on the tower showing an emergency telephone number.
+
+        d. The manual electrical and/or overspeed shutdown disconnect switch(es) shall
+           be clearly labeled.
+
+   8.   Guy Wires. All guy wires shall be sheathed              in a bright orange or yellow covering
+        from three to eight feet above the ground.
+
+D. Conditional Use Standards for a Hydroelectric Facility.               A hydroelectric facility shall be
+   approved if it complies with the following standards and section 19.040, subject to the
+   conditions of section 19.050.
+
+   1.   Fish, Wildlife,    and   Plant Resources.         The   facility shall not have          a significant
+        adverse effect on endangered or threatened fish, wildlife, or plant species or their
+        critical habitats or on other significant habitats identified in the comprehensive
+        plan.
+
+   2. Visual Effects.       The facility considers visual effects by means including, but not
+        limited to, the following.
+
+        a.   Using materials and colors that blend with the background.
+
+        b. Setting development back from the edge of public arterial rights-of-way,
+           viewpoints,  and   other significant visual   resources    identified in the
+           comprehensive plan, and setting accessory facilities back from Class | and II
+             streams.
+
+        c.   Retaining    or planting vegetation       to obscure    views of the development                from
+             significant viewpoints identified in the comprehensive plan.
+
+   3.   Water Use. Use of water for the facility is not detrimental to the public interest or
+        contrary to the achievement of an integrated, coordinated program for water
+        management.     A Water Resources Department or Water Policy Review Board
+
+                                        Chapter 300:        for Energy Facilities and Commercial Energy Facilities
+                                                                                                      July 22, 2009
+                                                      AO0G-0207                   OS 0-89
+Page 19-6
+
+            decision to grant or approve use of the amount of water proposed for the use shall
+            be conclusive proof that the facility complies                     with this standard,     unless      the
+            approval has expired.
+
+E. Conditional Use Standards for a Transmission Facility. A transmission facility shall be
+   approved if it complies with the following standards and section 19.040, subject to the
+    conditions of section 19.050.
+
+    1.      Use of Existing Routes. The development uses available developed or approved
+            road and utility rights-of-way or easements that can accommodate the proposed
+            facility.   New routes are permitted if more adverse energy, environment, economic,
+            and social consequences would result from                          using   an   existing   route     than
+            development of other rights-of-way or easements.
+
+    2. Visual Effects. The facility considers visual effects by means including but not
+       limited to the following.
+
+                 Avoiding ridgelines, scenic areas, unique or significant                     views    and     vistas,
+                 hilltops, or other high or visuaily prominent areas.
+
+                 Building the facilities near the edge of contiguous timber areas or in swales,
+                 dips, and depressions that provide a backdrop for or obscure the facility to the
+                 extent these features are available between the ends of the facility.
+
+                 Using materials and colors that blend with the background                      unless otherwise
+                 required by the Federal Aviation Administration or Oregon                     State Aeronautics
+                 Division.
+
+                 Setting development back from the edge of public arterial rights-of-way, Class |
+                 and Il streams, viewpoints, and other significant visual resources identified in
+                 the comprehensive plan and retaining or planting vegetation to obscure views
+                 of the development from those areas.
+
+    3.      In-Stream Towers.       A transmission tower may be permitted in a Class | or II stream
+            if it complies with (a) and (b) below.
+
+            a. Adjoining towers and conductors cannot safely and economically support the
+               transmission line(s) that span the stream without an in-stream tower.
+
+            b. The transmission        line cannot be safely and economically placed                    under the
+                 water or streambed.
+
+F. Conditional Use Standards for Wind                     Facilities.    A wind energy conversion system
+    (WECS) shall be approved if it complies with parts 19.030(C)(6), (C)(7), (C)(8) and the
+
+Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+July 22, 2009
+                                                         (3009-            03¢7               OF             8%
+                                                                                                           Page 19-7
+
+standards in (F)(1) through (6) below. In addition, a WECS is subject to the standards
+in section 19.040 and the applicable conditions of section 19.050.
+
+1.   Setbacks.   WECS    shall comply with subparts (a), (b) and (c) below.
+
+     a. WECS shall comply with the requirements of subparts 19.030(C)(3)(a) and (b).
+
+     b. A WECS tower or pedestal shail be setback as described in (1) and (2) below
+        from the edge of a public arterial right-of-way and property lines of downwind
+        lots. An easement that complies with ORS 105.900 through .915 may be
+        substituted for required setbacks. The setback shall be measured from the
+        center point of the tower or pedestal.
+
+        (1) A horizontal axis WECS shall be setback at least five rotor diameters or 100
+            feet, whichever is greater.
+
+        (2) A vertical axis WECS       shall be setback at least the total WECS              height.
+
+     c. A WECS      shall be set back from lots in residential zones and significant visual
+        resources    identified   in   the   comprehensive         plan    one    quarter      mile         or   as
+        described in (1) and (2) below, whichever is less.
+
+        (1) At least 20 rotor diameters for a horizontal axis WECS.
+
+        (2) At least 10 WECS      heights for a vertical axis WECS.
+
+2.   Minimum Height.
+
+     a. A horizontal axis WECS shall comply with subpart 19.030(C)(4)(b).                      However, a
+        WECS     in a windfarm is not an obstruction to other WECS                on-site.
+
+     b. A vertical axis WECS shall comply with subpart (D)(3\d)(3).
+
+3.   Public Access.       Public access to WECS shall be limited using one or a
+     combination of the methods contained in section 19.030(C)(5) and a protective
+     fence at least six feet tall enclosing the site.
+
+4.   Wind Resources. The site shall have site-specific data documenting wind speed
+     and direction or off-site data from within the same topoclimatological zone as the
+     proposed site.
+
+5.   Fish, Wildlife, and Plant Resources.         The facility shall not have a significant
+     adverse effect on endangered species or their critical habitats or on other
+     significant habitats identified in the comprehensive plans.
+
+                                  Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+                                                                                                      ly    22, 2009
+
+                                                  H007-Oa-7                      70          788
+Page 19-8
+
+     6.     Bonding. An applicant who is not the owner of the proposed site shall post a bond
+            or an alternative acceptable to the county which is sufficient to guarantee removal
+            and disposal of the wind farm components and restoration of the land in case of
+            noncompliance with the provisions of the ordinance.
+
+SECTION          19.040       Additional Approval Standards                        for     Energy        Facilities    and
+                              Commercial Energy Facilities
+
+A. Protected Areas.            An energy facility may               not be sited in the areas listed in part
+     19.040(A)(1) through (3) unless the facility complies with part (A)(4) below.
+
+     1.     National parks, national monuments,               national wildlife refuges, BLM                  Outstanding
+            Natural Areas, BLM Areas of Critical Environmental Concem, Federal Research
+            Natural Areas, U.S. Forest Service Special Interest Areas, Wilderness areas under
+            the Federal Wilderness Act and areas recommended for designation as wilderness
+            areas pursuant to section 603 of the Federal Land Policy Management Act of
+            1976, Federally designated Wild and Scenic Rivers or any rivers recommended for
+            designation by the National Park Service.
+
+            State of Oregon parks, waysides, refuges, wildlife management areas, and natural
+            area preserves, scenic waterways and adjacent lands designated pursuant to ORS
+            309.845, wild fish streams designated by the Oregon Department of Fish and
+            Wildlife, and experimental areas established by the Rangeland Resources
+            Programs, School of Agricultural, OSU.
+
+            Areas which the comprehensive plan designates as not suitable for a given type
+            and size of energy facility, because the area contains significant open space,
+            mineral resources, fish and wildlife habitat, scenic views and sites, waterbodies,
+            wilderness,    cultural,    geologic,       historic,     botanical,         research,       or   recreational
+            resources that cannot be protected from the adverse consequences of the facility.
+
+            Exceptions.  An energy facility may be permitted in an area listed in parts
+            19.040(AX1) through (3) above if it complies with at least one of the following
+            exceptions, and it will be compatible with adjacent uses and resources.                             However,
+            a hydroelectric dam or diversion is not permitted in a scenic waterway or adjacent
+            lands designated pursuant to ORS 390.825.
+
+            a. Accessory Use. A proposed energy facility is accessory to a permitted use.
+
+            b. Authority    Granted       by   Management.             The     public      agency        responsible    for
+                designation or management of a protected area in which an energy facility is
+
+Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+July 22, 2009                                                       (3009-0009                       W        d- 88
+                                                                                                                Page 19-9
+
+              proposed     has     authorized   the application         or approved          the   proposed     facility.
+              However, this is not an exception for areas listed in part 19.040 (A)(3).
+
+        c.    Substantially Equivalent Substitute.           The applicant provides resources equal or
+              better in quantity and quality to those adversely affected by the energy facility.
+
+        d.    Comprehensive         Plan   Designation.      The      comprehensive            plan designates       the
+              site for an energy facility of the scale and type proposed.
+
+B. Conditionally Protected Areas. An energy facility or commercial energy facility in an
+   area which the comprehensive plan designates as conditionally suitable for the scale
+   and type of facility proposed shall comply with the conditions provided for the facility in
+   the comprehensive plan.
+
+C. F-1 Zone. A transmission facility that results in a clearing with an average width
+   greater than 50 feet, a hydroelectric facility on a site where the average slope of the
+   land within 200 feet of the edge of the project area exceeds 20 percent or uses an
+   impoundment containing not more than 1000 acre feet, and a wind facility on a site
+   which occupies not more than 50 acres on land zoned F-1 shall comply with parts
+   19.040(C\1) through (4), except a facility that is accessory to a permitted use.
+
+   1.   The    facility is sited on land that is generally unsuited                      for forest use,      or use of
+        predominant forest areas            is warranted          for the safe, economical,             and    efficient
+        operation of the facility;
+
+   2. Will not significantly affect forest uses on the site or surrounding iand;
+
+   3. Will not alter the stability of the land use pattern in the area; and
+
+   4,   Will be consistent with forest policies of the comprehensive plan.
+
+D. Compliance       with     the    Comprehensive         Pian.        The    facility     shall   comply     with   the
+   applicable policies of the comprehensive plan.
+
+SECTION 19.050           Conditions of Approval
+Approval of an energy facility shall be subject to the following conditions. In addition, the
+approval authority may require an energy facility that is approved as a conditional use to
+comply with other conditions as necessary to fulfill the purpose of this chapter.
+
+A. Coordination
+
+   1. Continuing         Notice.     The   applicant shall provide the county with a copy of all
+        applications for, or notices of, state or federal permits,                       licenses, exemptions,         or
+
+                                           Chapter 19, Vs          for Energy Facilities and Commercial Energy Facilities
+
+                                                            3009-0309 7, 89
+Page 19-10
+
+          variances     in conjunction with the construction and                 licensing of the facility and
+          proposed significant changes to the facility. The applicant shall make a good faith
+          effort to provide the copy at the earliest possible time.
+
+     2.   State and Federal Authority.            The applicant should demonstrate that all necessary
+          state and federal permits,              licenses, exemptions, variances, or authority are
+          approved before initiating construction of the facility.
+
+     3.   Other Terms & Conditions. The terms and conditions of the following authorities
+          satisfy substantially similar standards and conditions of this chapter and supersede
+          inconsistent county conditions.
+
+          a. A dredge and fill permit is granted by the Division of State Lands under ORS
+             541.615;
+
+          b.    The proposed action is a forest operation that complies with the                        Forest
+                Practices Act under ORS 526 - 527 and the Rules of Forest Practices;
+
+          c. Written approval of development within the Oregon Scenic Waterways System
+             is granted by the Department of Transportation under ORS 390.800, the
+             Energy Facility Siting Council under ORS 469.430-469.570, or the Water
+             Resources Department under ORS 537.130 through 537.450;
+
+          d. Written approval of the Department of Environmental Quality when air or water
+             quality discharge permits, exemptions, or variances are granted; or
+
+          e. The facility complies with substantially similar standards of the special districts
+             listed in section (F)(4) below.
+
+     4.   Consistency       with    Service      Districts     and     Special   Purpose    Agencies.     The
+          development       shall comply with the hazardous                or solid waste, flood, surface, or
+          groundwater, soil conservation, or resource management program(s) adopted by
+          the appropriate emergency management          authority, drainage district, soil
+          conservation agency, or resource management agency(ies).
+
+B. Environmental Protection Overlay Districts. An energy facility or commercial energy
+   facility in the following overlay, combining, or floating districts shall comply with
+     applicable terms of those districts:
+
+     1. The Flood Hazard Overlay district,
+
+     2. The Geologic Hazard Overlay district,
+
+     3.   The Mineral Resources Overlay district,
+
+Chapter 19, Standards for Energy Facilities and Commercial Epergy Facilities
+July 22, 2009                                                3009-vo]                   7 4     ye SE
+                                                                                                       Page 19-11
+
+       The Cultural, Historic and Archaeological Overlay district,
+
+       The Sensitive Wildlife Habitat district,
+
+       The Columbia Gorge Overlay district,
+
+       The Airport Impact Overlay district, and
+
+       The Natural Areas Overlay district.
+
+. Protection of Water Quality.
+
+  1. The    development shall comply with the water quality standards for dissolved
+       oxygen   and   temperature     adopted   by the Oregon      Environmental Quality
+       Commission (EQC) and codified in OAR 340-41 and shall not increase turbidity.
+       Water quality effects of forest operations shall comply with the Oregon Rules for
+       Forest Practices (ORFP) and the Forest Practices Act.
+
+       To the extent not inconsistent with EQC and ORFP                    rules, the Planning Director
+       may allow these standards to be exceeded for a specified short time when
+       necessary to accommodate essential construction, emergency, or other permitted
+       uses and actions.
+
+. Protection    of Water    Bodies     and    Wetlands.         The     development         will   incorporate
+  mitigation and conditions to protect Class | and Class II streams and wetlands and the
+  banks and vegetation along those streams and wetlands affected.
+
+. Soil Protection.     Development shall not cause a significant increase in erosion or
+  sedimentation based on the topography, use and soil classification of the site and
+  access to it. Practices to reduce or avoid erosion and sedimentation include but are
+  not limited to the following.
+
+  1.   Structures and access avoid areas of steep slopes where                     high cuts and fills are
+       required and shall use natural contours.
+
+       The smallest practical area of land is to be exposed for the shortest practical time
+       during development.
+
+       Measures are used such as seeding and sodding, temporary use of straw or fabric
+       cover, aggregate cover, diversions authorized by state permit, sediment basins,
+       and filters.
+
+                                     Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+                                                                                                             2009
+                                                             e7                   TYAS
+                                                   (4004 -lo
+Page 19-12
+
+F.   Health and Safety.
+
+     1.   Drinking Water.       No water sources shall be used for consumption unless approved
+          in writing by the Oregon State Health Division.
+
+          Toilets.    Field toilets approved        by the county sanitarian or Oregon     Department of
+          Environmenta! Quality shall be available at construction sites in the vicinity and
+          upstream of Class | or Class II streams or other water supplies.
+
+          Grounding.      All structures which may be charged with lightning shall be grounded
+          according to the Oregon State Electrical Specialty Code.
+
+          Electrical Safety.      Transmission lines associated with the facility shall not generate
+          an electrical field greater than 9 kV per meter measured at grade and shall comply
+          with the National Electrical Safety Code, based on a written decision by the Public
+          Utility Commissioner.
+
+          Air Safety.      Any structure that is more than 200 feet above grade or exceeds
+          airport imaginary surfaces defined in                OAR: 738, shall comply with the air hazard
+          rules of the Oregon State Aeronautics Division (OSAD) and Federal                       Aviation
+          Administration (FFA), based on a written action by those agencies.
+
+          Communications. The proposed facility shall not unduly reduce or interfere with
+          electromagnetic communication signals. If undue reduction or interference occurs,
+          the applicant shall return reception levels to pre-facility levels.
+
+          Noise. Construction and operation of the proposed facility shall comply with the
+          noise regulations of the Oregon Department of Environmental Quality (DEQ) in
+          OAR 340-35, based on a written decision by DEQ.           In addition, a wind farm
+          application shall identify noise sensitive property(ies) and arnbient noise levels
+          prior to construction.
+
+          Public Roads.     Mud and other debris from related construction, road wear from
+          related vehicles, or facility operation shall not create a hazard on public roads and
+          highways.      Mud and debris that fall onto a county road should be removed by the
+          applicant as soon as possible.
+
+G, Fish and Wildlife.
+
+     1. The applicant shall consult with the Oregon Department of Fish and Wildlife
+        (ODFW) concerning the facility and shall provide information as requested to
+        ODFW. The development shall be subject to ODFW recommendations that are
+          consistent with the county decision regarding the facility.
+
+Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+
+                                                           fHi04-p207                7Sy 88%
+duly 22, 2009
+                                                                                                 Page 19-13
+
+2. A transmission line sited adjacent to wetlands or water bodies identified as critical
+   bird habitat in the comprehensive plan shall comply with (a), (b), or (c) below:
+
+   a. The line is lower than the level of surrounding treetops.
+
+   b. The line is at least 50 feet from the edge of the nearest wetland or water body.
+
+   c. The line is separated from the nearest wetland or water body by topography or
+      substantial vegetation, does not use static or lightning wires, does use marker
+      balls or flags on the line, or is perpendicular to the prevailing winds.
+
+                                          bir try 205,88
+                              Chapter 19, Standards for Energy Facilities and Commercial Energy Facilities
+                   DETAILED TABLE OF CONTENTS
+                   CHAPTER 20 SITE PLAN REVIEW
+
+SECTION   TITLE                                         PAGE
+20.010    PURPOSE                                       20-1
+20. 020   APPROVAL, REJECTION AND MODIFICATION          20-1
+20.030    CONTENTS OF THE SITE PLAN                     20-1
+20.040    APPROVAL STANDARDS                            20-2
+20.050    OFF-STREET PARKING                            20-3
+20.060    PUBLIC PARKING AREA                           20-5
+20.070    OFF-STREET LOADING                            20-6
+20.080    GENERAL PROVISIONS-OFF-STREET PARKING         20-6
+          AND LOADING
+20.090    HOME OCCUPATIONS                              20-7
+20.100    HOME OCCUPATION TO HOST COMMERCIAL EVENTS     20-8
+
+                                                 57   op se"
+                           [404-0204
+                                                                                                           Page 20-1
+
+                                        CHAPTER 20         SITE PLAN REVIEW
+
+SECTION 20.010               Purpose
+The purpose of the Site Plan Review procedure is to enable the Approving Authority to
+review development proposals for conformity with the provisions of this ordinance and to
+allow the imposition of such conditions on the development or projects as are necessary
+to bring it into conformity with the Comprehensive Plan and surrounding development.
+
+SECTION 20.020 Approval, Rejection and Modification
+Any such site plan may be approved, rejected and modified, or approved subject to
+conditions. Any such site plan, after approval, shall be amended through the same
+procedure as in the initial approval of such site plan; except, that minor alterations or
+modification to a previously approved site plan may be approved by the Planning Director;
+provided that, in the judgment of the Planning Director, such modifications or alterations
+do not represent deviations of a substantial nature.
+
+SECTION 20.030 Contents of the Site Plan
+The Site Plan shall clearly indicate the following information:
+
+A.   Lot dimensions.
+
+B. Location,         size,    height,    of all existing    or   proposed   buildings   and    structures,      and
+     illustrating the buildings and parking facilities on abutting properties.
+
+C. Location,         size and dimension          of all yards and      setbacks   and   all spaces       between
+     buildings.
+
+D. Walls and fences:             Location, height and materials.
+
+E.   Off-street parking:
+
+     1.   Location, dimensions and method of improvement of all driveways and parking
+          areas consistent with Sections 20.050 & 20.080.
+
+     2.   Number of spaces consistent with Section 20.050 & 20.080 and internal circulation
+          pattern.
+
+     3.   Size and location of existing and proposed curb openings.
+
+F. Access:           Pedestrian, vehicular, service; and definitions of all points of ingress and
+   egress.
+
+                                                           V300y-000q 7-88
+                                                                                        Chapter 20, Site Plan Review
+                                                                                                        July 22, 2009
+Page 20-2
+
+G. Signs:         Location, size, height, material and method of illumination.
+
+H.   Loading:        Location,    dimensions,      number         of spaces,      internal circulation and      access
+     from public right-of-way consistent with 20.070 & 20.080.
+
+I.   Lighting:      General nature, location and hooding devices (not including interior building
+     lighting).
+
+J.   The location, dirnensions and methods of improvement for all property to be dedicated
+     to general public purposes or to public utilities.
+
+K. A detailed plan for tandscaping,                if determined           necessary by the Planning Director
+   which shall clearly illustrate:
+
+     1.     Plants and     tree    species,     their   initial    sizes    and    other      proposed     landscaping
+            materials.
+
+     2. The        location and    dimensions       of all areas to be devoted                  to landscaping,    and
+            location of automatic sprinkler systems.
+
+L.   Outdoor storage and activities, if permitted                   in the zone,      showing type, location and
+     height of screening devices.
+
+M. Drainage and grading plan.
+
+N. Identification        of proposed      trash     storage        locations,     including     proposed     enclosure
+     design construction and access for pick-up purposes.
+
+O. Location of existing utility poles.
+
+P. Such data as may be required by the Planning Director to act on the application.
+
+SECTION 20.040 Approval Standards
+Upon completion of the Site Plan Review, the Approving Authority shall approve, approve
+with conditions, or disapprove the site plan.    In approving the plan, the Approving
+Authority shall find that:
+
+A. All provisions of this ordinance and other applicable ordinances are complied with.
+
+B. Elements of the site plan are arranged so that:
+
+     1. Traffic congestion is avoided.
+
+Chapter 20, Site Pian Review
+July 22, 2009
+
+                                                          (3-0907                              79 n 88
+                                                                                                        Page 20-3
+
+     2.   Pedestrian and vehicular safety and welfare are protected.
+
+     3. Significant features and public amenities are preserved and maintained.
+
+     4. There will be minimal adverse effect on surrounding property.
+
+C.   Proposed lighting is arranged to direct light away from adjoining properties.
+
+D.   Proposed signs      will   not   interfere   with    traffic or limit visibility by size,    location     or
+     illumination.
+
+SECTION 20.050        Off-Street Parking
+At the time of erection of a new structure or at the time of enlargement or change in use
+of an existing structure, off-street parking spaces shall be provided in accordance with this
+Section. In an existing use, the parking space shall not be eliminated if elimination would
+result in less space than is required by this Section. Where square feet are specified the
+area measured shall be the gross floor area necessary to the functioning of the particular
+use of the property but shall exclude space devoted to off-street parking or loading.
+Where employees are specified, persons counted shall be those working on the premises
+during the largest shift at peak season, including proprietors.
+
+The following are the uses and minimum standards provided for off-street parking:
+
+A.   Residential
+
+     1.   Single-family dwelling:     One (1) space per dwelling unit.
+
+     2.   Residential hotel, rooming or boarding house: Four (4) spaces per five (5) guest
+          accommodations, plus one (1) space per two (2) employees.
+
+     3.   Two family or multi-family dwellings:          Three (3) spaces per two (2) dwelling units.
+
+B. Commercial Residential
+
+1.   Motel:   One (1) space per guest room plus one (1) space for owner or manager.
+
+2.   Club or Lodge: One (1) space per five (5) seats, or one (1) space for each fifty (50)
+     square feet of floor area used for assembly, whichever is greater.
+
+C. institutional
+
+     1. Welfare or correctional institutions:            One (1) space per five (5) beds for patients or
+
+                                                                                     Chapter 20, Site Plan Review
+
+                                                         f23004- foe]                 SO oe
+Page 20-4
+
+            inmates, plus one (1) space per employee.
+
+     2.     Convalescent hospital, nursing home, sanitarium, rest home for the aged:          One (1)
+            space per five (5) beds for patients or residents, plus one (1) space per employee.
+
+     3.     Hospital:   Three (3) spaces per two (2) beds.
+
+D.   Places of Public Assembly
+
+     1. Church:         One (1) space for four (4) seats or every eight (8) feet of bench length in
+            the main auditorium.
+
+            Library, reading room, museum, art gallery:      One (1) space per four hundred (400)
+            square feet of floor area plus one (1) space per two employees.
+
+          . Pre-school, nursery, kindergarten:       Two   (2) spaces   per teacher,   plus off-street
+            loading and unloading facility.
+
+            Elementary or junior high school: One (1) space per classroom plus one (1) space
+            per administrative employee or one (1) space per four (4) seats or every eight (8)
+            feet of bench length in the main auditorium, whichever is greater.
+
+            High School: One (1) space per classroom plus one (1) space per administrative
+            employee plus one (1) space for each six (6) students or one (1) space per four (4)
+            seats or eight (8) feet of bench length in the main auditorium, whichever is greater.
+
+            Other auditorium, meeting room:        One (1) space per four (4) seats or every eight
+            (8) feet of bench length.
+
+E.   Commercial Amusement
+
+     1. Stadium, arena, theater: One (1) space per four (4) seats or every eight (8) feet of
+        bench length or equivalent capacity if no seating is provided.
+
+     2.     Bowling alley:     Five (5) spaces per alley plus one (1) space per two (2) employees.
+
+     3.     Dance hall, skating rink:    One (1) space per one hundred (100) square feet of floor
+            area plus one (1) space per two (2) employees.
+
+F.   Commercial
+
+     1.     Retail store except as provided in subsection (2):     One (1) space per two hundred
+            (200) square feet of floor area plus one (1) space per employee.
+
+Chapter 20, Site Plan Review
+July 22, 2009
+
+                                                       P004-2209                   8/4 9%
+                                                                                        Page 20-5
+
+     2. Service or repair shop, retail store handling exclusively in bulk merchandise such
+        as automobiles and furniture: One (1) space per six hundred (600) square feet of
+          floor area plus one (1) space per employee.
+
+     3.   Bank, office (except medical and dental): One (1) space per six hundred (600)
+          square feet of floor area plus one (1) space per employee.
+
+     4,   Medical and dental clinic: One (1) space per three hundred (300) square feet of
+          floor area plus one (1) space for every four (4) seats.
+
+     5.   Eating and drinking establishment: One (1) space per two hundred (200) square
+          feet of floor area, plus one (1) space for every four seats.
+
+     6.   Mortuaries:   One (1) space per four (4) seats or every (8) feet of bench length in
+          chapels.
+
+G. Industral
+
+     1.   Storage warehouse,    manufacturing establishment, rail or trucking freight terminal:
+          One (1) space per employee.
+
+     2.   Wholesale establishment: One (1) space per employee          plus one (1) space    per
+          seven hundred (700) square feet of patron serving area.
+
+SECTION 20.060 Public Parking Area
+Every parcel of land hereafter used as a public parking area or an automobile or trailer
+sales area shall be developed as follows:
+
+A.   Such areas shall be surfaced with permanent paving; they shall have bumper rails or
+     curbs and be enclosed by a sturdy wall, fence or evergreen hedge not less than thirty
+     (30) inches in height nor more than six (6) feet in height. Such wall, fence or hedge
+     shall not enclose any required front yard or required side yard on the street side of a
+     corner lot.   Any such required front or side yard shall be properly maintained.   Where
+     such public parking area abuts or lies within an "A" and "R"” zone, the required wall,
+     fence or hedge shall not be less than six (6) feet in height on the sides or rear yards
+     abutting or within such "A" or "R" zone.
+
+B. Where a public parking area or automobile or trailer sales area is illuminated, the
+   lights shall be fixed so as to reflect away from adjoining premises in residential zones.
+
+                                                                         £     oy ee
+                                              P004-0967
+Page 20-6
+
+SECTION 20.070                Off-Street Loading
+
+A.   Schools:      A driveway designed for continuous forward flow of passenger vehicles for
+     the purpose of loading and unloading children shall be located on the site of any
+     school having a capacity greater than twenty-five (25) students.
+
+B.   Merchandise, materials or supplies: Buildings or structures to be built or substantially
+     altered to receive and distribute materials or merchandise by truck shall provide and
+     maintain off-street loading berths in sufficient numbers and size to adequately handle
+     the needs of the particular use. If loading space has been provided in connection with
+     an     existing    use     or is added   to an    existing   use,   the   loading   space   shall   not   be
+     eliminated        if elimination would    result in less space than is required to adequately
+     handle the needs of the particular use.                Off-street parking      areas   used to fulfill the
+     requirements of this Ordinance shall not be used for loading and unloading operations
+     except during periods of the day when not required to take care of parking needs.
+
+SECTION 20.080             General Provisions - Off-Street Parking and Loading
+
+A. The provisions and maintenance of off-street parking and loading spaces are
+   continuing obligations of the property owner. No buildirig permit shall be issued until
+   plans are presented that show property that is and will remain available for exclusive
+     use of off-street parking and loading space. The subsequent use of property for which
+     the building permit is issued shall be conditional upon the unqualified continuance and
+     availability of the amount of parking and loading space required by this Ordinance.
+     Should the owner or occupant of a lot or buildirig change the use to which the lot or
+     building is put, thereby increasing off-street parking or loading requirements, it shall be
+     unlawful and a violation of this Ordinance to begin or maintain such altered use until
+     the required increase in off-street parking or loading is provided.
+
+B.   Requirements for types of buildings and uses not specifically listed herein shall be
+     determined by the Director of Planning based upon the requirements of comparable
+     uses listed herein.
+
+C. In the event several              uses   occupy    a single structure or parcel of land, the total
+     requirements for off-street parking shall be the sum of the requirements of the several
+     uses computed separately.
+
+D. Owners of two or more uses, structures or parcels of land may agree to utilize jointly
+     the same parking and loading spaces when the hours of operation do not overlap.
+
+E. Off-street parking spaces shall be located on the same or abutting lot with the building
+     or use they are intended to serve.
+
+Chapter 20, Site Plan Review
+July 22, 2009
+
+                                                           Pos. 0207                             $3488
+                                                                                                  Page 20-7
+
+F.    Required       parking   spaces   shall be available for the parking   of operable     passenger
+      automobiles of residents, customers, patrons and employees only, and shall not be
+      used for storage of vehicles or materials or for the parking of trucks used in
+      conducting the business or use.
+
+      Plans       shall be submitted     in sufficient detail so that they may     be   reviewed      and
+      approved by the appropriate reviewing authority.
+
+      Design requirements for parking iots:
+
+      1. Areas used for standing and maneuvering of vehicles shall have a durable and
+           dustless, but not necessarily paved, surface maintained adequately for all weather
+           use.
+
+      2.   Except for parking to serve residential uses, parking and loading areas adjacent to
+           or within residential zones or adjacent to residential uses shall be designed to
+           minimize disturbance of residents.
+
+      3. Access aisles shail be of sufficient width for all vehicle tuming and maneuvering.
+
+      4.   Groups of more than four (4) parking spaces shall be served by a driveway so that
+           no backing movement or other maneuvering will be required within a street.
+
+      5.   Lighting of the parking area shall be deflected from a residential zone.
+
+      Required parking spaces shall be improved and available for use by the time the use
+      to be served by the parking space is ready for occupancy.
+
+SECTION 20.090 Home Occupations
+Home occupations, as defined in Section 1.090 shall be subject to Sections 2.040 ~
+20.080 as well as the following criteria:
+
+A. Will be operated by a resident of the property on which the business is located;
+
+      Will employ no more than five full or part-time persons.
+
+     . Will be operated substantially in the dwelling or other buildings normally associated
+       with uses permitted in the zone in which the property is located.
+
+     . Will not interfere with existing uses on nearby land or with other uses permitted in the
+      zone in which the property is located;
+
+      Will have retail sales only as an activity incidental or secondary to the primary home
+
+                                                                               Chapter 20, Site Pian Review
+
+                                                   P3004-0007                  £4488
+Page 20-8
+
+     occupation use;
+
+F.   Will not display, or create outside the structure, any extemal evidence of the operation
+     of the home occupation other than one non-animated, non-illuminated name plate, on
+     premises, and in conformance with the size restrictions of the underlying zone;
+
+G. The home occupation shall not unreasonably interfere with other uses permitted in
+     the zone in which the property is located.
+
+H. Construction of a structure that would          not otherwise    be allowed       in the zone is not
+   permitted.
+
+I.   Will be reviewed annuaily by the Approving Authority. The approval shall continue if
+     the home occupation continues to comply with the requirements of this section.
+
+On High Value Lands in the Exclusive Farm Use Zone (Not Applicable to Section 20.100)
+
+J.   Home       occupations    may   only   be authorized   in existing     dwelling    and    structures
+     accessory to an existing dwelling.
+
+K. Home occupations may not be authorized in structures accessory to resource use.
+
+L. A home occupation iocated on high-value farmland may employ only residents of
+     the home.
+
+Section 20.100          Home Occupation to Host Commercial Events (Exclusive Farm Use
+Zone only)
+
+The section is not intended to apply to events hosted at such public gathering places as
+churches, community centers, grange halls, or schools, or similar structures; or to
+events hosted by non-profit organizations for charitable purposes. Nor is this Ordinance
+intended to apply to events           covered   by the State’s     Mass    Gathering     Statute (ORS
+433.735 - 433.770).
+
+In addition to meeting Sections 20.010 — 20.090              above,       home     occupations   to host
+commercial events must meet the following criteria:
+
+A.   Frequency of Events:     This shall be determined through               the    review    process   to
+     minimize the potential impact to the local agricultural region.
+
+B. Maximum Number of Guests: Shall be based on the capacity of the site, but shall
+   not include more than 300 guests at any one event.
+
+Chapter 20, Site Plan Review
+July 22, 2009
+
+                                                  Y.00- foc,                           Bh 54
+                                                                                                      Page 20-9
+
+Cc. Duration of Event: This shail be determined based on the potential impact to
+    adjacent properties but no event shall take place outside the hours of 7:00 am —
+   10:00 pm.
+
+D. Noise: It is unlawful for any person to make, continue, or cause to be made or
+   continued, any noise, which unreasonably annoys, disturbs, injures or endangers
+   the comfort,       repose,   health,   peace,   or safety   of a reasonable        person     of normal
+   sensitivities present in the area. Factors to consider in evaluating whether a noise is
+   loud, disturbing, or excessive for the purposes of this section, shall include, but not
+   be limited to the following:
+
+          The volume of the noise;
+          The intensity of the noise;
+          The duration of the noise;
+          Whether the noise is recurrent, intermittent, or constant;
+          The time of day or night the noise occurs;
+          Whether the nature of the noise is usual or unusual;
+          Whether the origin of the noise is natural or unnatural;
+          The nature and zoning of the area within which the noise emanates and where it
+          is received;
+   e      Whether the noise is produced by a commercial or noncommercial activity.
+
+   Noise shall be considered excessive and in violation of this Section if it meets one of
+   the following criteria:
+
+   1. The noise is plainly audible from within any closed dwelling unit that is not the
+          source of the sound; or
+
+   2.     The sound    peak pressure level of the noise, as measured           on the A scale, shall
+          not exceed sixty (60) dB(A) during the hours of 7:00 a.m. until 10:00 p.m. as
+          measured at any of the complainant's property lines within a residential district or
+          near a residential area.
+
+   Parking:      At least 200 square feet of parking space shall be required for each
+   vehicle. Parking areas may be developed using paving blocks, gravel, or other
+   pervious surfaces; asphalt, concrete and other imperious materials shall be
+   prohibited.
+
+G. Fire     &   Emergency       Vehicle    Access:    Shall    comply   with   Fire     &      Life   Safety
+   Requirements for Fire Department Access and Water Supplies.
+
+H. Catering: Operator shall ensure that only caterers licensed in the States of Oregon
+   or Washington are contracted to provide food; caterers shall be bonded.
+
+                                                                               Chapter 20, Site Plan Review
+
+                                                   /009- 0207 864_ 3¢
+                                                                                                July 22, 2009
+Page 20-10
+
+I.   Alcohol:      Operator shall comply with all requirements of the Oregon           Liquor Control
+     Commission (OLCC), if alcohol is served during an event.
+
+J. Toilet_facilities shall be portable with available hand-sanitizing or hand-washing
+   facilities. Use of the dwelling’s on-site septic facilities is not allowed for an event,
+     except by residents or over-night guests of the facility.
+
+K. Sign: One temporary sign may be allowed in addition any other sign allowed as part
+   of a prior approval. The sign shall not exceed eight (8) square feet in size and shall
+   be placed on private property on the day of the event and shall be removed within
+   24 hours after the event.
+
+L.   Contents of the Site Plan: In addition to the requirements of Section 20.030 above,
+     the applicant shall submit a written narrative and site plan addressing the following
+     issue:
+
+     1.   Designated area and existing structures to be used for the events
+
+     2.   Number of events anticipated per season
+
+          Frequency of events
+
+          Maximum number of guests intend to serve
+
+          Noise
+
+          Infrastructure — How will you provide electricity and utilities to the event?
+
+          Parking & Circulation — Need to         provide   one   (10’   x 20’)   parking   space   per
+          vehicle; estimate 3 people per car.
+
+          Traffic and Access
+
+          Environmental Health Aspects
+
+          a.    How will food be provided? Where will it be served?
+
+          b.    What is your domestic water source?
+
+          c.    Indicate how many portable toilets will be provided,         as well as how     hand-
+                sanitizing or hand-washing facilities will be provided.
+
+          10. Safety & Insurance
+
+Chapter 20, Site Plan Review
+July 22, 2009
+
+                                                3007-007                               87 88
+                                                                                       Page 20-11
+
+      11.Are alcoholic beverages   being served?   If so, are OLCC     requirements being
+          met?
+
+M. Expiration of Approval: Land use approvals for home occupations to host
+   commercial events shall not be valid for more than four years from the original date
+   of approval. Landowners must reapply for the use after a land use approval expires.
+
+                                                                     Chapter 20, Site Plan Review
+
+                                    [3009-207                            BS LET
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.1% of
+the word sequence, and on 71.3% of the figures. Dictionary-recognizable words: 97.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

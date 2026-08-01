@@ -1,0 +1,4162 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-personnel-ordinance-3-16-1988
+title: 'Personnel Ordinance 3-16-1988'
+doc_type: ordinance
+citation: 'Personnel Ordinance 3-16-1988'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Personnel/Personnel%20Ordinance%203-16-1988.pdf?t=202503260856000
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8bf2ed8d006c685ab601a08c3d9b014391ffb1596a8a480599ac18a1b216161d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.966; figure agreement 0.216; dictionary ratio 0.958. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 173.160
+    - ORS 242.706
+    - ORS 242.716
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Personnel Ordinance 3-16-1988 (Personnel Ordinance 3-16-1988)
+
+## At a glance
+
+OCR-derived text of Personnel Ordinance 3-16-1988. Not human-verified.
+
+## Full text
+
+Be
+  Oo
+  fF
+  a
+  D9won
+    ow
+
+               WASCO    COUNTY
+  a)
+oy
+
+            PERSONNEL    ORDINANCE
+>   +>
+    -
+    o2 Se
+    i
+    Oo)
+    i:
+    ©;
+
+                         Adopted:    March   16,   1988
+    Oo
+    >
+ oo
+>
+> ©
+2
+b>
+
+Page
+
+               PeY- O93                ~ .
+ ;                                                Har (7
+ 2
+
+ 3
+ 4
+
+ 5
+ 6           GENERAL   TABLE   OF CONTENTS
+
+    7
+        Chapter   81 - Introductory     Matter
+
+    §   Chapter   82 - General    Provisions
+
+    9   Chapter   83 - Employee    Responsibilities
+
+10      Chapter   84 - Selection
+
+1       Chapter   85 - Compensation
+
+"2      Chapter   86 — Attendance
+
+is      Chapter   87 - Employee    Relations
+
+4       Chapter   88 - Separation
+
+18      Chapter   89 - Procedure
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+Page
+
+                                 DEP   A-ALSGR   7153
+                                 IN ‘HE       COUNTY     COURT       OF THE       STATE       OF UREGON
+
+                                              IN AND    FOR    THE       COUNTY    OF WASCO
+
+               IN THE MATTER OF AN AMENDED                WASCO)                   ORDINANCE
+               COUNTY PERSONNEL ORDINANCE.                           )
+
+                       THE   COUNTY    COURT     OF WASCO       COUNTY,       OREGON,          DOES     ORDAINAS FOLLOWS:
+ &
+
+                              CHAPTER        81 — INTRODUCTORY             MATTER
+ aon      HR
+
+                              81.010    - Short Title
+       oO
+
+                              81.020    - Purpose
+                              81.030    - Interpretation
+   oOo
+
+                              81.040    - Repealer
+                              81.050    - Severability
+                              81.060    - Editorial Revision
+                              81.070    - Distribution
+                              81.090    - Effective           Date
+                              81.100 - Ordinance Revision
+ 6
+
+                              81.500 - Definitions
+10                            81.510 - Anniversary Date
+                              81.520 — Appointing Authority
+11                            81.530    - Appointment
+                              81.540    ~ Civil Service              Commission
+12                            81.550    - Civil Service              Rules
+                              81.560    - Class or Classification
+13                            81.570    -     Class Plan
+                              81.580    -     Classified Service
+ 14                           81.590    —     County Court
+                              81.600    -     The Columbia Basin             Nursing          Home
+ 15                           81.610    -     Department
+                              81.620    - Discrimination
+ 16                           81.630    -     Excluded Service
+                              81.640    —     Full-time Employees
+ 17                           81.650    ~-    Holidays
+                              81.660    -     Monthly Pay Period
+ 18                           81.670    - Overtime
+                              81.680    -     Part-time Employees
+19                            81.690    -     Personnel Action
+                              81.700    -—    Reclassification
+20                            81.710    -     Regularly Employed
+                              81.720    -     Salary Range
+a1                            81.730 - Salary Range Adjustment
+                              81.740    - Seasonal        Employee
+22                            81.750 — Steps
+                              81.760 - Transfer
+23                            81.770    - Unclassified           Service
+                              81.780    - Workday or Work Week
+24
+25                     81,010.    SHORT        TITLE.     This       Ordinance        shall      be     known   as   the   Wasco
+
+26             County Personnel         Ordinance,
+
+Page           1   -   PERSONNEL         ORDINANCE
+
+                                                                     Der      - OIG       S      11.4
+                     81.020.              PURPOSE.         This        Ordinance        is intended to implement                    and
+  =
+
+            give effect          to the Wasco County Civil                            Service Act,            to regulate          County
+  HB
+
+            personnel          administration                 insofar         as the same may not be controlled
+  WO
+
+            by   the     provisions              of    that     Act     or    the    statutes         of this       State,    to    set
+  BP
+
+            forth those personnel                        policies        adopted by the County Court,                        and to
+     ao
+
+            establish         an efficient                and economical              County       service.
+     fo
+
+                     81.030.              INTERPRETATION.                This       Ordinance         shall    be    liberally         con~
+      on
+
+            strued       to    effect           the purposes            set     forth     above.
+
+                     81.040.              REPEALER,           Any personnel             action taken prior                to the
+      ow
+
+            effective          date of this Ordinance                         shall be governed by the rules                        in
+      BD
+
+            effect       at the           time    of     such     action       and    shall      not    be    affected       by the
+      &*§
+
+            adoption          of this Ordinance.                       Except       as herein provided,               all prior
+      NH
+eet
+
+            Orders of this Court concerning                                  employment       conditions            and compensation
+      WYO
+
+            are hereby repealed,                         This repeal includes but is not limited to the
+      FBP
+
+            Orders       and Resolutions                  of this        Court upon such               subjects       dated:
+      aA
+
+                               (1)        May    2,     1962;     April       11,    1964;    April      15,     1964;
+     DTD
+
+                     February 10, 1965; September 7, 1966; October 5, 1966;
+                     August 22, 1967; December 27, 1967; and September 11, 1968;
+     NN
+
+                     relating             to the Columbia Basin Nursing Home.
+                           (2) May 3, 1963; and August 18, 1968; relating to the
+     Oo
+
+                     Wasco County Road Department;
+                           (3) February 10, 1965; relating to the Wasco County
+     BO
+
+                     Courthouse Employees;
+                           (4) October 11, 1967; relating to all Wasco County employees.
+     OC
+NO
+     +e
+ND
+
+                       81.050.            SEVERABILITY.                The    provisions         of    this     Ordinance        are
+  HO
+ND
+
+            severable.               If    any        section,        sentence,         clause     or phrase         of   this     Ordinance
+  WO
+NB
+
+            is adjudged              to be invalid by a Court of competent                                    jurisdiction,         that
+  FPF
+NR
+
+            decision          shall        not    affect         the    validity         of the       remaining       portions         of
+  nA
+DN
+
+            this     Ordinance.
+  oOo
+DO
+
+Page         2   -     PERSONNEL                 ORDINANCE
+
+                                                                       PYF -D/GFZ                ayy
+                  81.060.            EDITORIAL REVISION,                The District Attorney may at any
+
+       time direct                such changes         regarding        currently maintained                 copies       of this
+ bw
+
+       Ordinance             as     the    legislative        counsel     is authorized           to perform             regarding
+ WwW
+
+       acts       of    the       legislature,         pursuant     to ORS       173.160,     provided             that    such
+ Rp
+
+       editorial             revision be directed by written memorandum                                 filed with the
+ an
+
+       Clerk,          but     subject       to    disapproval      by the       County     Court       at    its    next
+ A
+ oN
+
+       regular          meeting           thereof     following     such     filing.
+
+                  81.070.            DISTRIBUTION.            The Clerk shall          file and retain the
+
+       original          of this Ordinance,                 together with all amendments                      thereto        and
+ po
+
+10     memoranda             of editorial            revision.      He shall maintain               in looseleaf
+
+11     form one or more copies                        of all provisions           in effect at any time,
+
+12     reflecting             amendments           and editorial         revisions,       and make           the    same
+
+13     available              for public inspection at his office during the regular
+
+14     office          hours        thereof.         In addition        he shall distribute               at least one
+
+15     copy,       together           with     all    replacement        pages    necessary         to keep         the     same
+
+16     in current              condition,          to the     following:
+
+17                            (1)    the    County     Court,     the    District      Attorney,          the      Law
+                  Library,           and each judicial officer within the County;
+18                      (2)          each department head not enumerated above;
+                        (3)          each person or organization recognized by the County
+19                Court as a bargaining agent for persons employed in the County
+                  service;
+20                      (4) the Civil Service Commission; and
+                        (5) any other person requesting the same, upon payment of
+21                such fee therefore as may be set by the County Court from time
+                  to time.
+22
+23                81.090,            EFFECTIVE        DATE.      This Ordinance           shall become              effective
+
+24     on                                                     , 1988.      Amendments        thereto,           unless       other-
+
+25     wise       specified,              shall     take   effect   when     filed with           the    Clerk.           Editorial
+
+26     revisions              shall       become     effective,     unless       disapproved            by the       County
+
+Page    3     ~   PERSONNEL                ORDINANCE
+
+                                                                DEF       - O79 S         ( tr}
+ 1     Court,      on the        first       judicial day               following the first regular meeting                            of
+
+ 2     the County Court after the directing memorandum is filed with the Clerk.
+ 3               81.100.         ORDINANCE REVISIONS.                      The Wasco County Personnel                      Ordinance
+
+ 4     shall be reviewed by a Committee                                 designated by the Wasco                County Court                at
+
+ 5     least once          every      three        (3)     years.
+
+ 6               81.500.         DEFINITIONS.               The     following definitions                   shall    apply
+
+ 7     whenever          the indicated             term is used in this Ordinance.                            Words used
+
+ 8     in the       present       tense       include        the        future.      Words     used     in    the    singular
+
+ 9     include       the plural             and words        used in the plural                include        the singular.
+
+10     Masculine words                include       the     feminine.             The word     "Shall"        is mandatory
+
+11     and not directory.
+
+12               81.510.         ANNIVERSARY              DATE.         Except     as otherwise         specifically                pro-
+
+13     vided       in this Ordinance,                    a person        shall be deemed employed                   in the
+
+14     County       service upon the date he first reports                                   for work therein              if it
+
+15     is   the     first       day    of    a monthly            pay    period,     otherwise         upon    the       first       day
+
+16     of   the     next    monthly          pay    period,         and    such     date     shall     be    used    for       all
+
+17     longevity          computations.
+
+18               81.520.         APPOINTING AUTHORITY.                      That person authorized                   to appoint
+
+19     an employee          to the County                 service within            a department.
+
+20               81.530.         APPOINTMENT.               Any     means     of    selecting         and    employing          a
+
+21     person       in    the    County       service.
+
+22                81.540.        CIVIL       SERVICE COMMISSION.                    That body designated                  to
+
+23     administer           the Civil         Service Act.
+
+24                81.550.        CIVIL       SERVICE        RULES.         The     rules     duly     adopted       by    the
+
+25     Wasco County Civil                   Service        Conmission pursuant                to the requirements
+
+26     of the Civil             Service Act.
+
+Page    4   —~    PERSONNEL            ORDINANCE
+
+                                                                   PEF       -O/P      3      (lst)
+                  81.560.         CLASS       OR CLASSIFICATION.            A group of positions              in the
+
+         County        classified           service     sufficiently       alike in duties,            authority and
+  WD
+
+         responsibilities               that    the same qualifications               may reasonably be
+  WO
+
+         required        for,     and the same schedule              of pay can be equitably                applied
+  fF
+
+         to all positions               in the group.
+   oo
+
+                  81.570.         CLASS       PLAN.      ‘The written description of a class,                    con-
+   8D
+
+         taining        a title,        statements        of duties,        authority        and responsibilities
+   wan
+
+         and the desired minimm                       qualifications        for the class.
+
+                  81.580.         CLASSIFIED           SERVICE.      See Section 82.013.
+   oO
+
+  10              81.590.         COUNTY       COURT.      The    County     Court     of Wasco     County,      Oregon.
+
+  11              81.600.         THE       COLUMBIA     BASIN    NURSING     HOME.
+
+  12              81.610.         DEPARTMENT.            See Sections        82.100~150.
+
+13                81.620.         DISCRIMINATION.             See Section 84.310.
+
+  14              81.630.         EXCLUDED        SERVICE.        See Section         82.011.
+
+  15              81.640.         FULL-TIME EMPLOYEES.                A person employed within                a depart-
+
+  16     ment     of    County        service     to work     substantially           that    number     of hours
+
+  17     determined           to constitute            full-time     employment within            that department.
+
+ 18      For the purpose               of determining whether               an employee         is within     the clas-
+
+ 19      sified        service        and    within     the purview        of the     Civil     Service    Commission
+
+ 20      Rules,        part-time        employees        regularly     employed        to work     not    less   than
+
+ 21      one-half        of     the    hours    determined         to constitute        full-time        employment
+
+ 22      in the department                  shall be considered            full-time      employees.
+
+ 23               81.650.         HOLIDAYS.            See Sections        86.110-130.
+
+ 24               81.660.         MONTHLY       PAY     PERIOD.      See    Section     85.410.
+
+ 25               81.670.         OVERTIME.            See Sections        85,.510-515.
+
+ 26      /T/t1
+ Page     5   -   PERSONNEL                 ORDINANCE
+
+                                                         PEF -OVIZ (1
+               81.680.          PART-TIME      EMPLOYEES.          A person       employed        within     the   County
+
+       service     who     is not regularly employed to work within                               a department
+BBWS
+
+       substantially            that number of hours              determined to constitute                  full-time
+ W
+
+       employment within              that department.
+ fF
+
+               81.690. PERSONNEL ACTION.                     Any action taken with reference to
+ o
+
+       appointment,           compensation,           promotion,         transfer,     layoff,       dismissal
+
+       or any other           action affecting            status     of employment.
+ nN
+
+               81.700.          RECLASSIFICATION.            A change in class               allocation ofan
+ wo
+
+       individual         position upon the basis                 of significant         changes          in the kinds,
+ wo
+
+10     difficulty        or     responsibility           of the work        performed        in    such    position.
+
+11             81.710.          REGULARLY      EMPLOYED.          A substantially            continuous,         routinely
+
+12     repeated or usual,                course      of scheduled employment              in the County            service.
+
+13             81.720. - SALARY             RANGE.       A series of increasing               salary steps          fixed
+
+14     within     the compensation             plan of the County              and applicable             to one or
+
+15     more positions within                 the County      service.
+
+16              81.730.         SALARY RANGE ADJUSTMENT.                   See Section 85.310.
+
+17              81.740.         SEASONAL      EMPLOYEE,          A person      employed       within       the   County
+
+18     service     for a fixed term               less    than     six     (6) months.
+
+19              81.750.         STEPS.       A particular          salary     level    fixed within          a salary
+
+20     range     provided        by   the    compensation          plan    of the     County.
+
+21              81.760.         TRANSFER.         See Section        84.810.
+
+22              81.770.         UNCLASSIFIED          SERVICE.       See    Section      82.012.
+
+23              81.780.         WORKDAY OR WORK WEEK.                A calendar day or calendar week.
+
+24     Provided,         that    such     day or week may commence                or end at a time other
+
+25     than midnight            when departmental           shifts designated pursuant                     to Section
+
+26     86.030     so     specify.
+
+Page   6   -    PERSONNEL             ORDINANCE
+
+                                                            PEF          - e793       (la)
+                                 CHAPTER         82 - GENERAL    PROVISIONS
+
+                                 82.010     - Categories        of Positions
+                                 82.011     - Excluded        Service
+                                 82.012 - Unclassified Service
+ eo)
+
+                                 82.013 - Classified Service
+                                 82.100     - Departments        of     County    Service
+ ~
+
+                                 82.110 - Administered Departments
+ ee 92 Se
+
+                                 82.120 —- Supervised Departments
+                               82.130       -    Elected Departments
+                               82.140       -    Supported Departments
+ >)
+
+                             . 82,145       —-   Multi-agency Departments
+                               82.150       -    Assisted Departments
+ i
+
+                               82.200       -    Civil Service Rules
+ [oi
+
+                                 82.300     - Local Budget        Laws
+                                 82.510     - Part-time        Employment        Benefits
+                                 82.520 - Seasonal Employment Benefits
+                                 82.530 — Full-time Employment
+10
+11                     82.010.          CATEGORIES      OF    POSITIONS        IN COUNTY     SERVICE.        Positions    in
+
+12          the service            of the County are divided                   into the following           categories:
+
+13          the       exempt      service,         the unclassified        service;        and     the   classified
+
+14          service.
+
+15                     82.011.          THE EXCLUDED         SERVICE.      The Ordinance            shall not apply to
+
+16          persons         in    the     excluded     service    of     the    County.      The     excluded   service
+
+17          shall       include:
+
+18                             (1) any officer chosen                 by popular       election or appointed
+                       to   fill a vacancy caused by                  the death,       resignation or removal
+19                     of any   such officer;
+                             (2) any person appointed to a position to serve without
+20                     compensation from the County other than reimbursement for his
+                       expense incurred in such position;
+21                           (3) any person employed jointly by the County and by
+                       another governmental unit or body for their mutual benefit;
+22                           (4) any person providing services to the County as an
+                       independent contractor;
+23                           (5) any official reporter, bailiff or crier, subject to
+                       appointment by any Court or Judge or Justice thereof;
+24                           (6) any deputy district attorney;
+                             (7) any doctor or intern employed by, in or at the Columbia
+25                     Basin Nursing Home or any other home maintained by the County
+                       for the detention or care of juveniles;
+26
+
+Page        7     -    PERSONNEL             ORDINANCE
+
+                                                                         &-~     df
+                                                                  PE                  73   (tet)
+                        (8) any person holding a position subject to the juris-
+                  diction of the Civil Service Conmission created by ORS 242.706,
+                  or any chief examiner appointed under ORS 242.716; and
+                        (9) any temporary employee.
+Ww
+
+                   82.012.         THE UNCLASSIFIED           SERVICE.         Except where         specifically
+an
+ &
+
+       provided         otherwise,           this   Ordinance         shall    apply       to persons    in the
+
+       unclassified               service     of the County.            The unclassified            service     shall
+(o>)
+
+       include:
+
+                         (1) any person contracted with to perform manual labor,
+                   skilled or unskilled, in the construction, maintenance and repair
+                   of County property; provided, however, that electrical workers,
+                   members of road and bridge crews and laborers permanently
+10                 employed shall be considered within the classified service
+                   unless        otherwise provided by the Civil                        Service Act or the
+11                 rules     of     the    Civil    Service    Commission;
+                         (2) any nurse, superintendent or other executive officer,
+12                 employed by Columbia Basin Nursing Home, or any home maintained
+                   by the County for the detention or care of juveniles;
+13                          (3)     any    assistant to the County Court;
+                            (4)     any    roadmaster of the County; and
+14                          (5)     any part-time          or seasonal        employee.
+
+15                 82.013.          THE    CLASSIFIED       SERVICE.        This        Ordinance    shall    apply     to
+
+16     all persons within                   the classified           service,       except where        such application
+
+17     is specifically                prohibited by the terms                 of the Civil          Service Act.         The
+
+18     classified            service        shall    include        all offices          and positions       in the County
+
+19     service which                are not covered by Sections                    82.011    or 82.012 of this
+
+20     Ordinance.
+
+21                 82.100.          DEPARTMENTS       OF    COUNTY     SERVICE.           Persons   within     the    County
+
+22     service may within one or more                         of the        following departments             and
+
+23     divisions            of     County    government,           described       in    Sections    82.110    - 82.140,
+
+24     and        persons         employed    therein       shall     act     subject      to the    direction
+
+25     of        the   indicated          department       head.
+
+26     /T/T1
+Page   8     -     PERSONNEL              ORDINANCE
+
+                                                                    PIF - 2/93
+               82.110.         ADMINISTERED          DEPARTMENTS.              Employees      serving within the
+
+       following     departments             administered           directly by the County Court are
+
+       responsible        to the County Judge who                    shall be considered the department
+ Ww
+
+       head and appointing              authority          of:
+ He
+
+                     (1)       the Parks and Cemeteries                    Department;
+ oO
+
+                     (2)       the   Planning        and    Development           Department;
+                     (3)       the Veterans'          Service Department;
+ Oo
+
+                     (4)       the   County        Buildings        Maintenance        Department;
+                     (5)       the Emergency Management Services Department;
+ Ny
+
+                     (6)       the Commmity Corrections Department.
+ ao
+
+               82.120.         SUPERVISED DEPARTMENTS.                     Employees        serving within the
+ =)
+
+10     Columbia     Basin       Nursing       Home    and        County    Road    Department,           administered
+
+11     indirectly by the County Court,                           are responsible        to a supervisor who
+
+12     shall be considered              the department              head and appointing              authority.           But,
+
+13     the County        Court       shall    be    considered           the   appointing         authority       of the
+
+14     Columbia     Basin       Nursing       Home    Administrator             and   the    County       Roadmaster.
+
+15             82.130.         ELECTED DEPARTMENTS.                  Employees        serving within the fol-
+
+16     lowing    departments           are    responsible           to    an elected        official       who    shall    be
+
+17     considered        the    department          head    and     appointing        authority          of:
+
+18                   (1)       the Assessor's          Department              (Assessor) ;
+                     (2)       the    Clerk's Department (Clerk);
+19                   (3)       the    Sheriff's Department (Sheriff);
+                     (4)       the    Surveyor's Department (Surveyor);
+20                   (5)       the    Treasurer's Department (Treasurer); and
+                     (6)       the    County Court's Department (County Judge).
+21
+
+22             82.140.         SUPPORTED       DEPARTMENTS.               Employees     serving          with    the    fol-
+
+23     lowing     departments          are    responsible           to an official           of    the    State    of
+
+24     Oregon who        shall be considered                the department            head    and appointing
+
+25     authority:
+
+26     ///11
+Page   9   -    PERSONNEL            ORDINANCE
+                                          (1)    the Juvenile's Department (Circuit Court Judge);
+        -—
+
+                                          (2)    the District Attorney's Department (District Attorney) ;
+                                          (3)    the Watermaster's Department (Watermaster); and
+        YH
+
+                                          (4)    the Extension Service's Department (Agents).
+        WO
+
+                                  82.145.        MULTI-AGENCY            DEPARTMENTS.          Employees           serving within the
+         Fh
+
+                      following           departments           administered          indirectly by joint agreement with
+         oN
+
+                      the County           Court     and other           affected      agencies          are    responsible        to a
+         DBD
+
+                      supervisor           who shall be considered                    the Department Head                 and appointing
+          nN
+
+                      authority,           but     the     County      Judge    and other          responsible          officials     from
+          wa
+
+                      the   affected            agencies         shall    be considered            the    appointing          authority        of:
+          po
+
+                                        (1) Wasco-Sherman                 Public      Health       Department           (Public    Health
+          CE
+
+                                  Administrator) ;
+                                        (2) Museum Department (Commission Chairman); and
+          -*
+
+                                        (3) Mid-Columbia Center for Living (Center for Living
+                                  Administrator) .
+eet
+                 KH
+
+                                  82.150.         ASSISTED DEPARTMENTS.                    Employees may be assigned to
+              WO
+
+                      assist        one     or more        agencies,        authorities,           boards,        bureaus,       cammissions,
+           HP
+
+                      committees,               divisions,        or departments            upon a loaned basis                and in so
+       HEX
+
+                      serving        shall act under                  the direction         thereof but remain                responsible
+   DBD
+
+                      to their        regular        department            head.      If    such    employee        has    no other
+NH
+
+                      appointing            authority           the    County      Judge    shall    be deemed          the    appointing
+      WO
+NOOO
+
+                      authority.
+   Oo
+
+                                  82.200.         CIVIL        SERVICE     RULES.      All     personnel          actions      relating        to
+CD
+
+                      employees           within         the    classified         service     of the          County    shall    conform       to
+ND
+=e
+
+                      the rules           of the Civil            Service Commission                insofar as the same may be
+ND
+HO
+
+                      made binding by the Civil                          Service     Act.
+WO
+NR
+
+                                  82.300.         LOCAL BUDGET LAW.                 The County shall provide                   sufficient
+ &
+NR
+
+                      funds        for the operation                  of the compensation                plan herein provided             in
+wo
+SN
+
+                      salary        range        adequate        to attract         competent       employees           to the    County
+Oo
+DO
+
+ Page                  10     -     PERSONNEL              ORDINANCE
+
+                                                                                   PEF -BIP 3B (és!)
+           service but at all times                         in compliance with the provisions                                   of the
+   Fe
+
+           Local       Budget        Law.        In preparation             of departmental                  budgets,           each
+   LF
+
+           department              head     shall include            sufficient              funds to provide               for rea-
+   WO
+
+           sonably           foreseeable          salary       increases           and expenditures                  resulting          from
+   FP
+
+           appointments              and promotions.                 NO SALARY INCREASE SHALL OCCUR UNLESS                                      THE
+   oO
+
+           APPOINTING              AUTHORITY          CERTIFIES       THAT     SUFFICIENT              FUNDS        ARE    AVAILABLE        TO
+   oO
+
+           COVER       THE     COST       OF    THE    INCREASE       AND    THAT        NO    DEFICIENCY            WILL       THEREBY     BE
+   won
+
+           CREATED.            The    County          Court    shall       provide           funds     required           to cover       the
+
+           costs        of adjusting             salary ranges             in a manner consistent with sound
+    ow
+
+           budgetary           administration.                 All    increases              are   subject          to    the
+ mt
+CO
+
+           availability              of budgeted            funds.
+mek
+KF
+
+                       82.510.         PART-TIME EMPLOYMENT BENEFITS,                                At the conclusion                  of six
+      NH
+mmm
+
+           (6)    months           of employment            within     the     County          Service,         a part-time
+   WO
+
+           employee           shall       receive       the    sick    leave         benefit          prorated           on the basis
+RF
+
+           of    that        employee's          average       monthly        hours          expressed         as    a percentage           of
+       a
+mmm
+
+           the     regular          full-time          hours    per month            of that          department            (162.5      hours
+   DBD
+
+           for     Courthouse             and    Annex      Departments,             173.33        hours       for       Sheriff's,
+NN
+
+           Road        and Nursing             Home    Departments).               The       average        monthly        hours       shall     be
+    DW
+mlm
+
+           calculated              over     the preceding            six     (6)    month period               and recalculated
+OBO
+
+           each        six    (6)    month       period       thereafter.
+ DOD
+OND
+
+                       At’ the conclusion of one (1) year of employment with the County
+ND
+KF
+
+           Service,           a part-time             employee       shall receive                 the vacation benefit
+HH
+ND
+
+           prorated           on    the     basis      of   that     employee's              average        monthly        hours
+DD
+WO
+
+           expressed           as a percentage                of the regular                 full-time         hours       per month
+ FP
+BH
+
+           of    that        department           (162.5      hours    for         Courthouse          and     Annex       Departments,
+oO
+bh
+
+           173.33        hours        for      Sheriff's,       Road        and Nursing              Home    Departments).                The
+Dn
+No
+
+Page        11     -     PERSONNEL              ORDINANCE
+
+                                                                            PSF          ~    O/ P3          (1)
+       average         monthly          hours        shall      be calculated           over        the prior           one        (1)          year
+
+       period,             Accrual        of vacation benefits                   for part-time                 employees               shall
+
+       be    at the         rate       of each monthly                percentage         of       full-time          employment                   after
+w&
+
+       one     (1)     calendar           year times            1/12 of the annual                  rate       as defined                  in
+fp
+
+       Article         86.211.
+na
+
+                EXAMPLE:
+OD
+
+                   60 hours        divided           into      162.5     (Full-time           hours        per month)              =       .37
+ NY
+
+                   .37 times           allowed        sick      leave     or vacation              for any           full-time
+                   employee        per     approved            charts     or contracts.
+ wo
+
+                   The same formula shall work                           for employees on 8 hour                        shifts
+ Oo
+
+                    (173.33 hours per month and                          2080 hours per year).
+10
+11                 HEALTH,        DENTAL       AND     LIFE      INSURANCE,             Benefits           under       the        FLEX
+
+12     Insurance            Plan        for part-time            personnel         shall          be calculated               as       a
+
+13     percentage            of     full-time          employment          applied to the amount                        allocated by
+
+14     Wasco         County        for paid          insurance         coverage.             If    the     part-time              employee
+
+15     participates               in    the     FLEX     Program,         they will make                  up   the     difference                     for
+
+16     coverage.             If     the    employee            declines        coverage,           the     County's           share             will
+
+17     be    dropped.             All     of    the     same     rules     shall        apply       regarding           enrollments
+
+18     and    changes.
+
+19                 82.520.          SEASONAL          EMPLOYMENT          BENEFITS.               Each     seasonal           employee
+
+20     whose         term    exceeds           six     (6)     months     shall     become          entitled           to     receive
+
+21     proportionate                vacation          and      sick     leave    benefits           camputed           in the              same
+
+22     manner         as    though        he were            a full-time        employee.             No       seasonal           employee
+
+23     shall         become        entitled          to vacation          or    sick     leave        by reason              of    seasonal
+
+24     employment            in     the    County            service     unless     he has          been        so    employed                  for
+
+25     two     separate            terms       totalling         at least         six    (6)       months        within           a period of
+
+26     two     (2)     calendar           years.
+
+Page    12     -      PERSONNEL                ORDINANCE
+
+                                                                  PEF      -O1F          3         (ty)
+                   82.530.         FULL-TIME             EMPLOYMENT.            Each department head              shall      file
+
+       with        the    Clerk        a statement              of    the   number    of    hours    worked      per month
+ BL
+
+       constituting               regular           full-time          employment       within      his   department,          which
+ ©
+
+       in no event            shall be              less    than 162.5 hours               per month.        From time to time
+ F&F
+
+       he may amend               such statement                 as conditions          require.
+an
+
+                           CHAPTER            83    - EMPLOYEE          RESPONSIBILITIES
+ (=)
+
+                           83.010 - Assignment of Duties
+                           83.020 - Confidentiality
+                           83.030        - Acceptance of Gratuities
+                           83.040        - Inconsistent Employment
+                           83.050        - Appearance
+                           83.060        - Political Activities
+10                         83.070        -     Physical Examination
+                           83.080        -     Conduct
+11                         83.090        -     Reporting Injury or Accident
+                           83.100        ~-    Attendance
+12
+
+13                 83.010.         ASSIGNMENT              OF    DUTIES.        Each department           head    shall      be
+
+14     responsible               for    the        assignment          of tasks       to employees        within       his
+
+15     department.                He may delegate                    authority       and divide responsibility                 at
+
+16     his discretion.                   Each employee                 shall perform the tasks               assigned to him
+
+17     and     shall       do so in an attentive,                           competent      and efficient manner.                  Pro-
+
+18     vided,        however,           that        the department             head    in delegating         authority         and
+
+19     assigning           responsibility                  for tasks          to persons       within     the    classified
+
+20     service           shall     comply with              the rules          of the Civil         Service      Commission
+
+21     applicable            thereto.
+
+22                 83.020.         CONFIDENTIALITY.                     Each    department        head may       fix    reasonable
+
+23     conditions            for       the release              of information          contained         in the records            of
+
+24     his    department.                No        person       in the       County    service      shall    reveal      any
+
+25     information            acquired              in   his     capacity       as    a County      employee      otherwise
+
+26     //111
+Page    13     -     PERSONNEL                ORDINANCE
+
+                                                                       DEF       ~-OIG     3     tha}
+       than        in    accordance           with        the     directions            of his    department           head     or as
+
+       otherwise           provided           by     law.
+
+                   83.030.         ACCEPTANCE               OF    GRATUITIES,             No person        in the        County        service
+ WH
+
+       shall        solicit        or     accept          any gift          or     gratuity      from any        person        or    group
+ fe
+
+       which        is,    has been,            or foreseeably may be,                         the subject of such County
+ nan
+
+       employee's            official           duty.            Provided          that this       section        shall       not be
+
+       construed           to prohibit               accepting              unsolicited         donations         to a department
+ NY
+
+       or departmental                   fund when             the gift          is of a value           less     than    $50.00.
+ Aa
+
+                   83.040.         INCONSISTENT EMPLOYMENT.                              No person         in the County service
+ Huo
+
+10     shall        accept       employment               or     compensation            outside     the     County       service           with-
+
+11     out     first       disclosing               the     same       to his         department     head       or     appointing
+
+12     authority.             No    person           shall        accept         or    agree    to accept         employment           or
+
+13     compensation               outside           the     County          service      when     the department              head     or
+
+14     appointing            authority              has reasonably determined                       that        such action           is
+
+15     inconsistent              with         the    good        of    such      service       or may      appear       to bring           the
+
+16     department            into        disrepute.
+
+17                 83.050.         APPEARANCE.                   Each person within the County                          service        shall
+
+18     endeavor           to present               a neat        and    clean         appearance     while        on    the    job.         Per-
+
+19     sons        serving        within           the    following           departments          may     be required          to pro-
+
+20     cure,        wear     and maintain                 uniforms           prescribed by the department                       head:
+
+21                         (1)     the        Sheriff's           Department;            and
+                           (2)     the Columbia                  Basin Nursing            Home's     Department.
+22
+23                 83.060.         POLITICAL ACTIVITY.                           No person        in the County           service may
+
+24     be     coerced,           commanded           or     required          to      influence     or give          money,         service
+
+25     or other valuable                      thing to aid or promote                          any political           committee           or to
+
+26     aid     or promote               the    nomination              or    election      of any person               to public
+
+Page    14     -        PERSONNEL             ORDINANCE
+
+                                                                       PEF            -O/F9 3      {t.4)
+       office.           No person            in the County             service    shall solicit money,              influence,
+
+       service          or other           valuable          thing to aid or promote               any political
+ bw
+
+       committee             or     the     nomination          or election       of any person          to public       office
+ Ww
+
+       while       on    the        job     during      working     hours.
+ fF
+
+                   83.070.           PHYSICAL          EXAMINATION,         As a condition of obtaining or
+ wm
+
+       continuing             employment            in the County          service,        any person may be required
+ i>)
+
+       by the department                     head or appointing              authority       to obtain and undergo
+
+       a physical             and/or         psychological          examination        from a licensed            physician
+
+       of    the     person's             choice       and    to make     the    results     thereof      available       to
+
+10     said        department             head    or appointing           authority.         Provided,      however,        that
+
+il     no    such       person        shall       be    required        to do    so at his        own   expense     after      he
+
+12     has been          inducted            into      the classified           service,     except      as a condition
+
+13     connected with                 absence          fram employment.
+
+14                 83.080.           CONDUCT.           No person        employed     in the       County    service      shall
+
+15     engage        in any willful                  failure      of good conduct tending                to injure       the
+
+16     County        service,             including but not              limited to:
+
+17                           (1)     incompetency;
+                             (2)     inefficiency;
+18                           (3)     inattention to or dereliction of duty;
+                             (4)     dishonesty;
+19                           (5)     intemperance;
+                             (6)     immoral        conduct;
+20                           (7)     insubordination;              or
+                             (8)     discourteous             treatment of the public                 or of fellow
+21                 employees.
+
+22                 83.090.           REPORTING          INJURY     OR ACCIDENT.            Each    employee    shall      report
+
+23     to his department                     head any         incident     resulting        in injury or accident               to
+
+24     himself          or    another         when      such     incident       is duty-connected           or occurs
+
+25     during        duty          hours.        The    department        head    should     immediately          file   the
+
+26     Claim with              the Payroll             Clerk.      Whenever       there     is a question on a claim
+
+Page
+        15     -    PERSONNEL                ORDINANCE
+
+                                                                   P&F-           0/93        { Ut)
+       the Department            head           shall notify          the District Attorney                  and the employee
+
+       shall        cooperate with the District Attorney                              in such investigation                    as he
+ NW
+
+       shall        undertake        or     cause          to be made.
+ DO
+
+                   83.100.      ATTENDANCE.                  Each person within the classified and
+ FR
+
+       unclassified            service           shall       report      for work     promptly         at    the    time,      and
+ an
+
+       remain        working     during              the    period,      designated      by his        department            head    or
+ i=)
+
+       appointing            authority.               In    the   case    of   absence      due   to    illness         or    injury,
+
+       the    employee         shall        make       all    reasonable        effort      to notify         the department
+
+       in advance            of his        absence.           Except      in   case   of absence            due    to   illness          or
+
+10     injury,        the department head may require                            the giving of advance notice
+
+11     and   obtaining          of     approval.              Where      the   absence      is claimed            to be due         to
+
+12     illness        or     injury,        the       department         head may     require      the       absent      employee
+
+13     to    furnish         satisfactory              supporting         evidence     of    cause.
+
+14                         CHAPTER         84    -    SELECTION
+
+15                         84.010      — Appointment               to Classified         Service
+                           84.020      - Interviews and Inspection of Examination Papers
+16                         84.030      - Additional Tests
+                           84.110      - Filling Vacancies in Unclassified Service
+17                         84.210      - Applications                 to Law Enforcement Agencies
+                           84.310      - Discrimination                  Prohibited
+18                         84.320      - Nepotism             Prohibited
+                           84,510      -    Classification Plan
+19                         84.520      -    Classified Service Classifications
+                           84.525      -    Unclassified Service Procedure
+20                         84.530      -    Use of Class Titles
+                           84.610      -    Creation of New Positions
+21                         84.615      -    New Positions in Classified Service
+                           84.650      -    Unfilled Positions
+22                         84.660      —    Underfilled Positions
+                           84.710      -    Probationary Period
+23                         84.720      -    Dismissal or Demotion During Probation
+                           84.810      -    Transfers
+24                         84.820      -    Transfers Within Departments
+                           84.830      -    Transfers Between Departments
+25                         84.840      -    Transfers in the Classified Service
+                           84.910      —    Pramtions
+26                         84.950      —    Demotions
+
+Page    16     -    PERSONNEL              ORDINANCE
+
+                                                                  “PEL ~ 379 3 (t1)
+                      84.955         - Voluntary           Demotions
+                       84.960        - Demotions           During           Probation
+bd
+
+                 84.010.      APPOINTMENT            TO    CLASSIFIED              SERVICE.          All    applications        for,
+Ww
+
+       appointments          to,     and promotions               or transfers               within    the    classified
+&
+
+       service      shall     be made         in accordance with the rules                            of the Civil        Service
+on
+
+       Commission          as the same may be made binding by the Civil                                       Service Act.
+fo)
+
+                 84.020.      INTERVIEWS            AND    INSPECTION              OF   EXAMINATION          PAPERS.      Prior
+
+       to making       any    appointment or promotion within the classified                                           service,
+
+       the   appointing        authority            may    require           candidates         to    come    before     him and
+
+10     may   inspect        their examination papers.
+
+11               84.030.      ADDITIONAL            TESTS.         In his          discretion,         the    appointing
+
+12     authority may prepare,                  administer              and consider            such additional           tests
+
+13     as he      deems     necessary         to    supplement              information         received       from     the
+
+14     Civil      Service Commission                in making           appointments            or promotions within
+
+15     the classified              service.
+
+16               84.110.      FILLING         VACANCIES           IN    THE    UNCLASSIFIED            SERVICE.         Prior
+
+17     to making      any     appointment            to,     or    promotion            or    transfer       within,     the
+
+18     unclassified          service,         the appointing                 authority may            administer        such
+
+19     tests,      require         the   applicant         to provide              such      information,       conduct
+
+20     such investigation,                and conduct             such interviews               as the appointing
+
+21     authority       in his        discretion may deem advisable.
+
+22               84.210.      APPLICATIONS            TO     LAW       ENFORCEMENT            AGENCIES.        Any     person
+
+23     applying      for     appointment            within        the       Sheriff's         Department,       the     District
+
+24     Attorney's          Department,         or    the     Community             Correction's            Department     shall        be
+
+25     deemed      to give     continuing            consent           to    the    department         head    to    investigate
+
+26     police      records         concerning        the applicant                 and members         of his immediate
+
+Page   17    ~    PERSONNEL              ORDINANCE
+
+                                                          PEF -~7/9 2                   (hy)
+       family and               such     applicant may be required                   to submit         to fingerprinting
+
+       and photographing                      as a condition           of   such    employment.
+
+                   84.310.           DISCRIMINATION PROHIBITED.                      ‘The County is an equal
+ W
+
+       opportunity                 employer         as the     same     is defined      by Federal           Law    and will
+ &
+
+       permit           no employment              discrimination           based    upon     race,     creed,       color,
+ non
+
+       sex,        national          origin,         mental     or physical handicap.
+ OD
+
+                     (1) No question in any form of application                                         or in any test
+ NN
+
+               shall be so framed as to elicit any information                                          concerning the
+               political or religious opinions or affiliations                                          of any applicant
+ So
+
+               for employment in the County service, nor shall any inquiry be
+               made concerning such opinions or affiliations and all disclosures
+ Ho
+
+               thereof shall be discounted.
+10                   (2) No discrimination shall be exercised, threatened or
+               promised by any person in the County service against or in favor
+11                 of any applicant,                  candidate,         or employee because                of his/her
+                   race       or religious or political opinions or                             affiliations.
+12                             (3) No person applying for employment                            in the County            service
+                   shall be rejected solely because of age.  The provisions of this
+13                 subsection shall not apply to those whose duties are classified
+                   as  the regular duties of police officers or fire fighters.
+14                        (4) No person applying for employment in the County service
+                   shall be rejected solely because of the applicant's sex.
+15
+16                 84.320.           NEPOTISM         PROHIBITED.            No person        shall    be    appointed         to,
+
+17     promoted              to,    or   transferred           to     a position      in the     County       service      in
+
+18     which        his       duties         would    be     subject     to or responsible             for    the    super-
+
+19     vision           or    review         of    a person     related       as    closely     as    first     cousin,
+
+20     whether            the      relationship            is by blood        or through        marriage,          and   shall
+
+21     include            the      cases      of    sisters-in-law           or brothers-in-law.                This     sub-
+
+22     section            shall        not    apply    to occasional           or part-time           employees.
+
+23                 84.510.             CLASSIFICATION           PLANS.        The    Civil     Service       Commission         shall
+
+24     classify              all positions within                   the classified           service    and the County
+
+25     Court        shall          adopt      a classification              plan    grouping     all     such      positions
+
+26     into classes                 based         upon the determinations              of the Commission.                 In
+
+Page    18     -        PERSONNEL                 ORDINANCE
+
+                                                                P&F-3/9-%                (1)
+       addition,             the County Court may adopt                      and utilize             such groupings within
+
+       the unclassified                 service        for similar positions                    and may        adopt a clas-
+bw
+
+       sification             plan     for    such     service        or parts           thereof       utilizing      the
+W
+
+       classifications                 of the Civil            Service Commission or other qualified
+—&
+
+       persons          for    that     purpose.
+ non
+
+                  84.520.           CLASSIFIED         SERVICE        CLASSIFICATIONS.                  Requests      for       amend-
+ (=)
+
+       ment       of    the    classification               plan,     for    allocation          of     new positions,            for
+
+       reclassification                 of existing            positions,           for specifications               and for
+
+       minimum          qualifications               statements,           shall     be made         and   processed        in
+
+10     accordance             with     Civil        Service     Rules       as to all          positions        within      the
+
+11     classified             service.         Such requests               may be initiated by any appointing
+
+12     authority             or by     the County           Court.
+
+13                84.525.           UNCLASSIFIED            SERVICE        PROCEDURE.           As to any position                in the
+
+14     unclassified             service,            requests        listed    in     Section         84.520     shall      be
+
+15     directed          to    the     County        Court.         The    County        Court may         adopt    such pro~
+
+16     cedure          for    the     processing        of     such       requests        as   appears       most    expedient
+
+17     in the          particular           case.
+
+18                84.530.            USE OF CLASS           TITLES.         The class title adopted by the Civil
+
+19     Service          Commission           shall     be     the    official        title      of     every    position         within
+
+20     the classified                 service        for the purpose           of personnel                actions    and shall be
+
+21     used       on    all    payrolls,            budget     documents           and    official         records    and       reports
+
+22     relating          to the position.                   Any other working title desired                          and
+
+23     authorized             to be used by the appointing                          authority may be used                  as a
+
+24     designation             of     any    position         for purposes           of    internal         administration          or
+
+25     in contact with                 the public.
+
+26     MHL
+Page    19    -        PERSONNEL             ORDINANCE
+
+                                                                DEF - A793                     71,))
+                      84,610.          CREATION         OF NEW        POSITIONS.           No    new position          in the        County
+
+            service      shall         be    created       without          the    specific       approval       of    the    County
+  HK
+
+            Court.       When         an appointing             authority          desires       to establish          a new
+  OO
+
+            position,         he      shall       direct       such    request       to the       County       Court     accompanied
+  FP
+
+            by:
+  wo
+
+                               (1)     the appointing                authority's          certification          that no
+      DTD
+
+                      expenditure            of    additional          departmental             funds    will    result;        or
+                            (2) the appointing authority's certification that sufficient
+      nN
+
+                      funds are available within the departmental budget to cover the
+                      cost of the increase without creating                                 a deficiency,             specifying
+      wo
+
+                      the source of such funds; or
+                               (3)     the appointing                authority's          statement of facts              justifying
+      po
+
+                      such    action         and    the    consequent             transfer       of contingency           funds.
+mts
+      O&
+
+                      84.615          NEW     POSITIONS         IN    THE    CLASSIFIED          SERVICE.        Whenever        an
+mh
+      F
+
+            appointing          authority wishes                 to establish             a new position          in the
+mh
+      DHS
+
+            Classified          Service,           he/she       shall       request       to do    so,     in writing,          to the
+      WO
+
+            County      Court.          The       Personnel          Department          shall    draw    up    a new     job
+mmm
+      FR
+
+            description              from     information            supplied       by the       requesting       department,
+      wo
+
+            submit      it to the Wage                  and Classification                Committee       and to Civil           Service
+      BD
+
+            and return          it to County Court                    for final approval.
+me
+      ON
+
+                      84.650.          UNFILLED          POSITIONS.           No    appointing          authority        shall       be
+me
+
+            required         to expend            budgeted       funds       nor    to    fill    any vacant          position           when,
+      HO
+ORD
+
+            in his      judgment,             such action            is unnecessary             to the performance              of
+      3D
+
+            County      business.
+      +e
+RD
+
+                      84.660.          UNDERFILLED             POSITIONS.           An appointing           authority may
+RD
+      HO
+
+            temporarily              appoint       to    any    vacant       position        in the      County        service       a
+BD
+      BO
+
+            person      not     then        qualified          for    such position             classification           whenever:
+      B&F
+NR
+
+                               (1)     there       are no available                qualified       candidates;           or
+      om
+Bb
+
+                               (2)     the     position's            duties       can be temporarily             adjusted        to
+                      the persons             qualifications;               and if
+      nD
+BRB
+
+Page         20   -     PERSONNEL                 ORDINANCE
+                                  (3)     in the        case       of positions          within       the     classified           service,
+                    the Civil              Service         Commission has been previously                            consulted        and
+                    authorizes                  such    action;          and
+ND
+
+                          (4)             the person temporarily appointed receives only                                           that
+                    pay rate              for which the person is qualified.
+ WO
+
+                    84,710.               PROBATIONARY              PERIOD.           Each    person     appointed           or promoted
+ PF
+
+        to a position                     in the County                 service       shall serve a probationary period
+ mn
+
+        of    six      (6)        months,          except          that       person    appointed        to a position              in the
+ (>>)
+
+        criminal           division               of    the    Sheriff's             Department       shall        serve     a probationary
+
+        period        of one              (1)     year.        Completion             of a probationary              period        does    not
+
+        Ime@an an automatic                       pay increase,
+
+10                  84,720.               DISMISSAL           OR    DEMOTION          DURING    PROBATION.            At     any    time
+
+11      during        the probationary period                                 the appointing          authority may remove                     or
+
+12      demote        an      employee             whose       work       does       not meet    required           standards.            No
+
+13      prior        approval              is required              for       such action but if the employee                        is
+
+14      serving         within             the     classified             service       the    appointing           authority
+
+15      shall provide                     to the employee                 and to the Civil              Service       Commission           a
+
+16      written         report             of     the     action         and    the    reasons    therefore,               in accordance
+
+17      with Civil                 Service         Rules.           In the case of an employee                       serving        in a
+
+18      position             in the             classified upon promotion                      fram another           such position
+
+19      who    is     demoted              to     the     former         position,       the    action        is    subject
+
+20      to review             by the             Commission;             in    all    other    cases,       the     appointing
+
+21      authority's                 decision            is non-reviewable                except       for     absence        of good
+
+22      faith or violation                         of Section             84.310.
+
+23                  84.810.               TRANSFERS.               An    employee       may be    transferred               from one
+
+24      position             to         another        in the       same       service       having     the    same        salary    range
+
+25      within        or      without             the     department,            whenever       the     transfer       is     for    the
+
+26      i)
+Page    21      -     PERSONNEL                   ORDINANCE
+
+                                                                              DEE ~O/F3               (14)
+ 1     good of the County                       service.        Such transfers         are to be distinguished
+
+ 2     from:
+
+ 3                          (1)     transfer          to a position           in a class having          a higher
+                   salary     range         - this       constitutes          promotion;
+ 4                          (2) transfer to a position in a class having                                 a lower
+                   salary      range - this constitutes demotion;
+ 5                          (3) transfer from a position                        in one service to a position
+                   within      a different service - this                       constitutes a new appointment.
+ 6
+ 7                 84.820.          TRANSFERS           WITHIN       DEPARTMENT.       ‘The appointing          authority,
+
+ 8     at any time,                for     the good of the service,                  may reassign        an employee         to
+
+ 9     another position within the same department.
+10                 84.830.          TRANSFERS           BETWEEN        DEPARTMENTS,        ‘Transfers     may occur
+
+11     between        departments                only    with     the    consent     of the     employee       and both
+
+12     appointing            authorities.
+
+13                 84.840.          TRANSFERS IN THE CLASSIFIED SERVICE.                           An employee within
+14     the     classified               service       shall     be     the   subject    of transfer,       as provided
+
+15     in Sections                84.820        and   84.830,        only    in accordance       with    the    rules   of
+
+16     the Civil Service Commission and shall be entitled to ten days notice
+
+17     of involuntary                    transfers.
+
+18                 84.910,          PROMOTIONS.             Promotions         shall occur within the classified
+
+19     service        only         in accordance with                  the rules of the Civil            Service    Com-
+
+20     mission.             Promotions            shall occur within the unclassified                       service in
+
+21     the     same manner                in which new appointments                   are made within that          service.
+
+22                 84.950.          DEMOTIONS.             An appointing power may involuntarily demte
+
+23     an employee                who     has    fulfilled        his    probationary       requirements         only     for     a
+
+24     cause        listed         in Section           89.250       and after providing          the employee with a
+
+25     written         statement            of particulars              alleged      to constitute       the grounds
+
+26     for disciplinary                    action.         If    the    demoted      employee    holds     a position
+
+Page    22     -     PERSONNEL                  ORDINANCE
+
+                                                                 PIE         ~O/93      754
+           in the      classified               service,          the    appointing      authority      must    comply with
+
+           applicable          Civil        Service          Rules       and his action        is subject       to review
+
+           in accordance          with           the Civil          Service Act.
+ BH
+
+                     84.955.      VOLUNTARY                 DEMOTIONS.           Any   employee      in the    County    service
+ KR
+ on
+
+           may request          demotion              from a position             in one class        to a position       in
+     one
+
+           a class      of     lower        rank.           All    such requests         shall be in writing,            and if
+  Oo
+
+           the   demotion        is     within             the    classified        service   are     subject    to Civil
+
+           Service Conmission                    approval.              Such requests        shall be granted whenever
+
+           the applicant          is qualified and the demotion would not result                                       in the
+ K=)
+
+10         layoff of another                    employee,
+
+11                   84.960.      DEMOTIONS                 DURING       PROBATION.       An employee         in the    clas~
+
+12         sified      service        who        is demoted             during    a probationary        period which he
+
+ 13        is serving          upon promotion                    from another position            in the classified
+
+ 14        service      shall be reinstated                        in his        former position unless misconduct
+
+ 15        or delinquency              is       the       reason     for   the     failure    to qualify       in his    pro-
+
+ 16        bationary         position.
+
+ 17                          CHAPTER            85    ~    COMPENSATION
+
+18                           85.010         -    Maintenance of Compensation Plan
+                             85.020         -    Rates of Pay
+ 19                          85.030         -    Entrance Salary
+                             85.040         -    Salary Increases
+20                           85.050         -    Eligibility for Salary Increases
+                             85.055         -    Difference Between Steps
+21                           85.070         —    Nursing Home Aides
+                             85.075         -    Limited-step Ranges
+22                           85.080 - Exceptional Increases
+                             85.110 - Salary Rate Upon Promotion
+23                           85.120 ~ Salary Rate Upon Demotion
+                             85.130         - Salary             Rate    Upon    Transfer
+24                           85.210         - Computing Eligibility                     for Salary      Increase
+                             85.220         - Part-time Employees
+25                           85.225         - Seasonal Employees
+                             85.310         - Salary Range Adjustments
+26                           85.320         - Effect of Salary                   Range Adjustments
+
+Page       23    -    PERSONNEL                 ORDINANCE
+
+                                                                        VEG -O193             (iy)
+                        85.330     - Costs of Salary Range Adjustments
+                        85.410     - Monthly Pay Period
+                        85.430     — Emergency               Draw
+                        85.435     - Monthly Pay Draw
+                         85.450    - Anniversary               Date
+ w&
+
+                        85.460     - Pay        for Partial           Month
+                         85.470    - Hourly           Rates
+ &
+
+                        85.480     -    Daily Rates
+                        85.510     —    Overtime.
+ nm
+
+                        85.515     —-   Split Shifts
+                        85.520     =    Authorization for Overtime
+ DD
+
+                        85.550     -    Eligibility for Overtime
+                        85.560     -    Overtime Compensation
+ NN
+
+                        85.570     -    Overtime Compensation Rate
+ Oo
+
+                   85.010.      MAINTENANCE           OF     COMPENSATION           PLAN.       The    County    Court   shall
+ uo
+
+10     maintain        a plan     for     the    compensation              of all       persons       within    the   County
+
+11     service        whose salaries            are     not    set    by    statute.           The plan      shall    include,
+
+12     for each        class,     a mininum            and    a maximum          rate    and    such    intermediate       rates
+
+13     as are considered                necessary          or equitable.             The ranges         shall reflect:
+
+14     the   relative          responsibilities               of    the    class,       availability         of personnel
+
+15     and prevailing            rates     of pay.
+
+16                 85.020.      RATES     OF    PAY.         Each    employee        shall      be paid      at one    of the
+
+17     rates        in the     salary range            for the class             in which he is employed.
+
+18                 85.030.      ENTRANCE        SALARY.            Normally       an employee          shall    be appointed
+
+19     or reinstated            at the entrance               rate    for the class             in which he is
+
+20     employed.             Exceptions        to this        policy       may    be made       by    the   County    Court,
+
+21     upon request            of the appointing               authority,           when    justified by the qual-
+
+22     ifications            and experience            of the employee,              the availability            of qual-
+
+23     ified candidates            for the position,                  and the resulting                salary relation-
+
+24     ships with other            similar        positions.
+
+25                 85.040.      SALARY     INCREASES.               Salary       increases        are not automatic but
+
+26     shall be based            upon     satisfactory              service       (and recommendation             of the
+
+Page   24      -    PERSONNEL           ORDINANCE
+
+                                                        PEF
+                                                          - 0/43                    (&))
+       appointing            authority).                   Such        increases          may    be granted               by the       County
+
+       Court when            the appointing                      authority has recommended                             increase based upon
+HK
+
+       high        standard of work performance.
+CO
+
+                   85.050.         ELIGIBILITY                   FOR SALARY          INCREASE.              The employee               shall
+BP
+
+       advance        to     the       second        step         upon       completing          twelve          (12)      months       of
+oO
+
+       satisfactory               service           in         a class.           Thereafter,          advancement               to the
+DBD
+
+       third        step     of    the        salary            range      may     occur    after          one     (1)     additional          year
+ nN
+
+       of satisfactory                  service within                      the classification.                        Thereafter,
+ wo
+
+       advancement            to       the     fourth            step may occur             after          one     (1)     additional          year
+ oS
+
+       of     satisfactory              service            within           the    classification.                  Thereafter,
+ ©
+
+       advancement            to       the     fifth            step may          occur    after       two       (2)      additional         years
+ =
+
+       of satisfactory                  service within the classification.                                          Thereafter,
+no
+—_
+
+13     advancement            to       the     sixth            step may occur             after       two       (2)      additional         years
+
+14     of satisfactory                  service within the classification.
+
+15                 85.055.         DIFFERENCE                  BETWEEN        STEPS.        ‘There         shall be a difference
+
+16     of    approximately                   five        (5)     percent          between       each       salary         step within          the
+
+17     normal        six step range.
+
+18                 85.070.         NURSING           HOME AIDES,                   Persons       employed           within        the    County
+
+19     service        as Nursing               Home Aides                  shall be considered                   to be within            a
+
+20     multi-step            range       regardless                   of    the    number       of    steps      provided             within
+
+21     that        range.
+
+22                 85.075,         LIMITED-STEP                   RANGES.           The    compensation                  plan    may provide
+
+23     for     less    than        six        steps        within           a particular             range.            In positions          to
+
+24     which        such     ranges           apply,            the    advancement          to higher             steps         may    occur      after
+
+25     such        periods        of    satisfactory                   service       within          the    step         as may be       fixed
+
+26     for that particular                      range.
+
+Page   25      -     PERSONNEL                ORDINANCE
+
+                                                                  PEE         -OLG               f Ad)
+                       85.080.      EXCEPTIONAL            INCREASES.            When exceptional              circumstances
+
+           justify        such action,             and upon request of the appointing                           authority,              the
+ HO
+
+           County        Court     reserves         the    right       to approve           exceptions        to the        general
+ WO
+
+           rules        of eligibility             for salary          increases.
+ fF
+
+                       85.110.      SALARY         RATE    UPON    PROMOTION,               When     an employee           is promoted
+ TO
+
+           to or otherwise               appointed         to    a position           in a class        having        a higher
+     DOD
+
+           salary        range,     he     shall     not    enter       said     range       at the     entrance           level    rate
+     nN
+
+           if    such     rate     would      be    lower       than    the     salary       rate     he was     receiving          before
+     wo
+
+           the     promotion        occurred.             Such    an employee           shall        enter    at the        rate    he
+     ow
+
+           was    receiving         in     his     former       position        or    shall    be placed         at    a rate        step
+mt
+     ©
+
+           in the        new     range     which would           provide        the    rate    equivalent         to       a one-
+     KF
+
+           step increase.                (The advancement               to a higher           step may occur after                   such
+mm
+     HO
+
+           period        of satisfactory             service within the step as may be fixed for that
+     WO
+
+           particular            range.)
+     F&F
+
+                       85.120.      SALARY         RATE    UPON    DEMOTION,            If an employee            is demoted             or
+     an
+lm
+
+           reclassified            to a position            or class with a lower                     salary     range       for
+     TD
+lm
+
+           reasons        which     do     not     reflect       discredit           upon    his     employment         record,         his
+me
+     NY
+
+           salary rate may remain                    the same          if it is within the salary range                            of
+me
+     oO
+
+           the     lower       class     or position.             Demotion           occurring        during     probation           shall
+me
+ DO
+
+           normally        result        in   a corresponding               reduction         of     salary     rate.        Demotion
+ 3D
+NR
+
+           for     cause       shall     normally         result       in     a corresponding           reduction           in     salary
+ ~~
+RN
+
+           rate.
+ BPH
+BR
+
+                       85.130.      SALARY         RATE    UPON    TRANSFER.            When        an employee         is trans-
+RO
+ BW
+
+           ferred        his rate        of pay remains            the        same.
+ f&
+BD
+
+                       85.210.      COMPUTING         ELIGIBILITY
+                                                                FOR                   SALARY        INCREASE.         In    computing
+ an
+DS
+
+26         an employee's            eligibility             for salary          increase        and subject           to Section
+
+Page        26     -     PERSONNEL            ORDINANCE
+
+                                                                PEF         -0793             77.)
+        85.450,           the period           shall be measured           from the date of his pranotion,
+
+        reclassification                  or    appointment        to his    position.            Transfers          shall        not
+Bb
+
+        affect            such computation.
+ WH
+
+                    85.220.         PART-TIME EMPLOYEES.                Part-time          employees who are not
+ DP
+
+        regularly           employed more              than 81.25      hours    a month within                a department
+ oan
+
+        shall        receive        such compensation              for their service as may be
+ [~))
+
+        individually               fixed by the appointing authority with the approval                                           of the
+
+        County        Court.         Part-time          employees      who    are    regularly          employed        more       than
+
+        81.25        hours        a month within          a department         shall be eligible                 for salary
+
+10      rate        increase        but the eligibility periods between                           salary       rate     steps
+
+11      shall        be    pro-rated.
+
+12                  85.225.         SEASONAL       EMPLOYEES.          Seasonal          employees       shall       receive        such
+
+13      compensation               for    their    services        as may be        individually             fixed     by    the
+
+14      appointing            authority          with    the    approval     of the        County       Court.
+
+15                  85.310.         SALARY       RANGE ADJUSTMENTS.             The compensation                 plan is
+
+16      intended            to provide          reasonably       competitive         ranges       of    pay    for     each
+
+17      classification               of    County       service.       The   County        Court       may    annually
+
+18      review        the     compensation             plan's    achievement         of    this    goal.         The    County
+
+19      Court may make               adjustments          in a salary range or ranges                        as it deems
+
+20      necessary            to    attract       and hold       competent      personnel          and    to    provide           equity
+
+21      between           the various           classifications.             Such salary range                adjustments           are
+
+22      to be        distinguished              from    salary     increases        for    individual          employees           as
+
+23      they        are    not     intended       to give       recognition         to    length       or quality           of
+
+24      service           but are        to be based upon prevailing                     rates of pay          for the
+
+25      various           classes        of work       within    the   County       service.
+
+26      /t/t/
+Page    27      -     PERSONNEL                ORDINANCE
+
+                                                         DYE       ~a/G.2           (hy)
+ 1                 85.320.           EFFECT     OF    SALARY        RANGE     ADJUSTMENTS.            The       salary     rate     of    an
+
+ 2     employee           whose        salary       range     is    adjusted       shall      normally          be adjusted         the
+
+ 3     same number of steps                     that the revised range is adjusted                               and all
+
+ 4     employees              so affected           shall receive            the adjustment uniformly.                       Such
+
+ 5     adjustments              will not change               an employee's            eligibility          for anniversary
+
+ 6     salary        increases           as    provided        in    Sections       85.040-075,            85.210-225.
+
+                   85.330.           COSTS     OF    SALARY        RANGE    ADJUSTMENTS.             Funds       necessary         to
+
+ 8     cover        the       costs     of adjusting           salary        ranges      shall     be provided           by the
+
+ 9     County        Court        in    a manner          consistent        with      sound    budget       administration.
+
+10                 85.410.           MONTHLY        PAY PERIOD.            All monthly         salaried          employees         shall
+
+11     be paid           upon     the    basis       of    a monthly         pay period        beginning          upon     the     first
+
+12     day of each calendar month                           and ending upon the last day of that
+
+13     calendar month.                   All hourly           salaried employees               shall be paid upon the
+
+14     basis        of a monthly              pay period beginning on the 26th day of each
+
+15     calendar           month        and    ending       upon     the     25th   day    of the      following          calendar
+
+16     month.            It    shall     be    the    County's        policy       to pay      each      employee        on or
+
+17     about        the       last     judicial       day     of each        calendar month           that       compensation,
+
+18     less        authorized           and    required        deductions,          which      he has       earned       in the
+
+19     current           monthly        pay    period.
+
+20                 85.430.           EMERGENCY        DRAW.         Upon     recommendation           of    the    department
+
+21     head        and    under        circumstances           of    an emergency           nature,        the    County      Court
+
+22     may     authorize              the County Clerk to pay an employee                            a sum of money
+
+23     representing               an    advance       upon     wages       which      he has       already       earned.
+
+24                 85.435.           MONTHLY        PAY DRAW.         Each     employee          shall     be    entitled        to one
+
+25     pay    draw        each month.               This    pay     draw may       be made         on the       15th   day    of
+
+26     each month              or the         first business          day after the 15th day of the
+
+Page    28     -     PERSONNEL                ORDINANCE
+
+                                                              DEY         ~-O79.3          (tal)
+  1      month.         Each    employee        may     request       a draw up to no more                   than    the     net
+
+         amount     earned by the employee                     on the date the draw is requested.
+ bd
+
+                  85.450.        ANNIVERSARY DATE.                   For the purpose                of computing eligi-
+ WW
+
+         bility     for       salary     rate       increases,        each       person    appointed,          pramoted           or
+ &
+
+         reclassified            into    a position           or    classification             or    salary    range       shall        be
+ nm
+
+         deemed     to have        been       so on date           such    action     occurred,         if    it was       the     next
+ OD
+ ao
+
+         succeeding           monthly     pay period.
+  nN
+
+                  85.460.         PAY FOR PARTIAL MONTH.                        In computing          a partial month's
+
+         pay,     the    amount       paid    to     salaried        personnel        for working            less    than        a full
+ Ke)
+
+10       month     shall       be determined            on the basis             of pro-rating the number of
+
+11       days     worked       with     the    number        of work       days,     including         holidays,        in that
+
+12       month.
+
+13                85.470.         HOURLY       RATES.         Hourly       rates     of pay         shall    be used        for
+
+14       those positions              within        the County        service where             conditions          of employ-
+
+15       ment may        warrant.
+
+16                85.480.         DAILY RATES.               Daily rates           shall be used only where                      con-
+
+17       ditions        of employment           warrant.
+
+18                85.510.         OVERTIME,            Overtime       shall        be considered            as periods           worked
+
+19       in the     employee's           regular        position          in    excess    of    the work       week     or workday
+
+20       regularly         scheduled          for     that    position.            Periods      of less       than     one~half
+
+21       hour may        be    disregarded.             Work       performed        on holidays         which       fall     within
+
+22       the department's               regular work           schedule          shall not be considered                    as
+
+23       overtime        work,     except       that     employees             working    on    such holidays              shall       be
+
+24       granted        time     off equal          to the time worked unless otherwise provided                                       for
+
+25       by     Union    Contract.
+
+26       M1111
+Page||   29      - PERSONNEL              ORDINANCE
+
+                                                              PYF -OVAS                   (4)
+                                                 85.515.             SPLIT SHIFTS.             All work performed                 in one day after              12
+
+                                         hours        from the time            the employee           initially         reports         for work will be
+        KH
+
+                                         considered            overtime,
+        WO
+
+                                                 85.520.             AUTHORIZATION            FOR OVERTIME.             A department            head may
+        FP
+
+                                         authorize           overtime       when in his judgment,                   work in excess              of the        standard
+         oO
+
+                                         work week or workday                      is required.            Time worked,           beyond       the standard
+         Do
+
+                                         work    week        or workday            will     not be considered              overtime          unless     it has        been
+          won
+
+                                         specifically            authorized by the department head.
+
+                                                 85.550.             ELIGIBILITY            FOR OVERTIME.            The     eligibility         of positions
+          ow
+
+                                         within        the classified               service     for overtime compensation                       shall be deter-
+           OwOeULlUlUNTOOlUlUlCUrelCUD
+
+                                         mined by the County Court.                           Exceptions          to the rules regarding
+
+                                         eligibility            for    overtime            compensation        may be approved                by the     County
+
+                                         Court       when,      in    their        judgment,        circumstances            warrant         making     such    an
+
+                                         exception.
+oY
+                    Rh
+
+                                                     85.560.         OVERTIME COMPENSATION.                    Compensation             for overtime worked
+                 OR
+
+                                         will normally be in the                          form of compensatory               time off.          The department
+
+                                         head may        authorize           cash compensation when he deems the use of compen-
+              NN
+
+                                         satory time            off to be impracticable.                       Except        for overtime             earned     in
+           oO
+
+                                         the     last month           of any        fiscal year,           compensatory           time off and cash
+        YO
+
+                                         compensation            must       be provided         within        the    fiscal       year       in which     it has
+     CO
+
+                                         been     earned        for    overtime           worked.      When       an employee           is    terminated,         he
+—-~e
+
+                                         shall        receive        cash    compensation            for    any     overtime        accrued.
+    HH
+ oe
+
+                                                     85.570.         OVERTIME        COMPENSATION           RATE.       An    employee         shall     be    com
+WwW
+
+                                         pensated        for     authorized               overtime    at the        rate     of   one    and    one-half         for
+&-
+ >
+
+                                         each    hour        worked.          In    computing        cash     compensation,             the    conversion
+ ana
+| >
+
+                                         /TT/
+[*.)
+ie)
+
+ Page                                     30     -     PERSONNEL             ORDINANCE
+
+                                                                                               PEE          - O/ GF 3        (G1)
+       table        furnished      by the Civil       Service     Commission may be used to convert
+
+       monthly,          weekly    or   daily salaries         into hourly amounts.
+
+                          CHAPTER       86 ~ ATTENDANCE
+ WH
+
+                          86.010 —      Normal     Hours    of Work
+ ee
+
+                          86.020 —      Departmental Designations
+                          86.030-       Designation of Departmental              Shifts
+ Oo
+
+                          86.110 -      Holidays
+                          86.120 -      Weekend Holidays
+ AD
+
+                          86.140 -      Holiday Compensation
+                          86.211 -      Paid Vacation Leave
+ NF
+
+                          86.215 -      Vacation Accrual
+                          86.230 -      Scheduling Vacation Leave
+ oOo
+
+                          86.240 -      Accumulation of Vacation Credits
+                          86.250 -      Transfer Credits and Terminal Vacation                  Pay
+ oO
+
+                          86.310 -      Sick Leave
+10                        86.320 —-     Verification of         Tllness or Injury
+                          86.330 -      Family Death
+11                        86.340 -      Paid Sick Leave
+                          86.350 -      Absence Paid by State           Accident    Insurance        Fund
+12                        86.360 —      Sick Leave Without Pay
+                          86.370 -      Sick Leave Compensation
+13                        86.410 -      Computation of Longevity
+                          86.430 -      Transfer from Part-time to Full-time                  Employment
+14                        86.440 -      Date of Employment
+                          86.510 -      Temporary Interruption of Employment
+15                        86.520 -      Longevity Following           Re-employment       or Re-
+                                       instatement
+16                        86.610    - Jury and Witness Leave of Absence
+                          86.620    - Military Leave with Pay
+17                        86.630    — Educational Leave
+                          86.640    - Military Leave Without Pay
+18                        86.650    - Other Leaves of Absence Without Pay
+
+19                 86.010.     NORMAL      HOURS    OF WORK.      The   regular    hours    of work     each    day
+
+20     shall        be   consecutive       except    for    interruptions    for    rest     and meal       periods,
+
+21     or    for     instances      where     a different      practice may be in effect.               The
+
+22     nommal workday             shall    consist of a seven and one~half                 (7 1/2)    hour day
+
+23     for employees          who work in the Courthouse,                excepting    the     Sheriff's
+
+24     Department,           and eight       (8)   hours    for all other employees,           exclusive       of
+
+25     meal periods.              However,     in the event       the County elects          to schedule       four
+
+26     (4)    consecutive          days of ten       (10)    hours work per day as the regular work-
+
+Page    31     -     PERSONNEL          ORDINANCE
+
+                                                     PE -o793             (GI)
+       week       in    any     department           or     departments,             regular    hours     of work         shall    be
+
+       scheduled          within             such department(s)                consistent       with     such weekly
+OH}
+
+       schedules.
+BD
+
+                  86.020.             DEPARTMENTAL           DESIGNATIONS.              Any    department          head may       file
+ee
+
+       with       the County Clerk                   a designation of office                   hours     for his department,
+ on
+
+       unless          disapproved             by the       County   Court           as applicable        to that         department.
+ Oo
+
+                  86.030.             DESIGNATION           OF DEPARTMENT SHIFTS.                     Except where continuous
+ ony
+
+       operations              are         involved,      and insofar as consistent with the normal
+
+       operations             of the department                 in which they work,                   all employees         shall
+ ©
+
+10     be scheduled                 to work on a regular                  shift and each              shift    shall have a
+
+11     regular          starting             and quitting         time.         Changes        in regular work schedules
+
+12     may    be made,              provided         that    employees          are given       notice        of   such    schedule
+
+13     changes,          except             for emergency         situations,           and for the duration of the
+
+14     seventy~two                  (72)     hours     in advance.             (An emergency           situation      shall       be
+
+15     deemed          to be one where                 the County reasonably believes                         that   immediate
+
+16     action on its part                      is necessary          if serious public or private                         injury or
+
+17     damage          is to be             limited or avoided.)
+
+18                86.110.             HOLIDAYS.           The   following days             are holidays            for persons
+
+19     employed          in the County                 service:
+
+20                            (1)     New Years Day - January 1
+                              (2)     Lincoln's Birthday - The First Monday in                                 February
+21                            (3)     Washington's Birthday - The Third Monday                                 in February
+                              (4)     Memorial Day - The Last Monday in May
+22                            (5)     Independence           Day - July          4
+                              (6)     Labor Day         ~ The First Monday                in    September
+23                            (7)     Veteran's         Day - November 11
+                            (8)       Thanksgiving Day - The Fourth Thursday in November
+24                          (9)       Christmas Day ~- December 25
+                          (10)        Floating Holiday ~ An eligible employee's floating
+25                holiday            each contract year shall                    be scheduled           by mutual         agreement
+                  between            the employee and his/her                    supervisor.
+26
+
+Page    32    -        PERSONNEL               ORDINANCE
+
+                                                                PL         -     ae)           (Ul)
+                          86.120.             WEEKEND         HOLIDAYS.           Whenever    a holiday          shall       fall    on
+
+              Sunday,           the          succeeding        Monday     shall      be observed       as    the       holiday.           When-
+    HD
+
+              ever        a holiday             shall        fall    on Saturday,          the preceding          Friday       shall       be
+    WO
+
+              observed            as     the     holiday.            However,       where    continuous          operations          are
+    fF
+
+              involved,            should         a day        of holiday          observance    fall       on    an employee's
+    oO
+
+              regularly            scheduled            workday,        in    lieu    of observance          of    the holiday             on
+    ODO
+
+              that        date,         another        day     off may       be    scheduled    for    the       employee       as his/her
+    NN
+
+              holiday.
+     woe
+
+                          86.140,              HOLIDAY        COMPENSATION.           Each    regular       full-time          employee          who
+     pow
+
+              works        his     last         regularly           scheduled       day before    and       his    first       regularly
+  OS
+met
+
+              scheduled            day         after     any    of the       above    holidays    shall          be eligible          for
+     *
+
+              holiday           pay.           However,        an employee's          failure    to work          on    such prior          or
+     HO
+
+              next        following             scheduled           workday       shall    be excused       if due       to one       of the
+     WHO
+
+              following:
+eee
+         FP
+
+                                       (1)     jury    selection;
+     wan
+
+                                       (2)     scheduled        vacation;
+                                       (3)     bona     fide    injury       or illness.        The County will
+BOBO
+
+                          not    normally             require        a signed       statement    from       a licensed
+                          physician as verification of the injury or illness                                            the first
+     NY
+
+                          time an employee fails to satisfy the "day before"                                            or "day
+                          after" requirements of this section because of an injury
+   OD
+
+                          or illness.   However, unless specifically excused from doing
+OO
+
+                          so by the employee's supervisor or department head, such
+DO
+
+                          a statement will be required in all subsequent instances
+                          where the employee fails to satisfy these requirements
+OND
+ CO
+
+                          because of injury or illness;
+                                (4) any other verified reason excused by the County.
+NO
+Fe
+
+                          Employees             who    are     on    layoff       or unpaid    leave    of       absence       are    not
+ND
+HO
+
+              eligible            for         holiday     pay       for holidays          occurring    during          the    layoff       or
+WO
+BD
+
+              leave.
+ BP
+BR
+
+                          An eligible             full-time employee                 shall receive          one day's pay for
+ mw
+NHN
+
+              each        of the         holidays         listed       above       where    no work    is    performed.
+mon
+BS
+
+Page           33     -     PERSONNEL                  ORDINANCE
+
+                                                                         DYE -I/9 3% 7b,)
+     1               Should    an employee            be   on authorized            leave when           a holiday     occurs,
+
+         such holiday           shall     not be charged               against       such     leave.
+ DS
+
+                     Subject     to the exception provided                        for continuous           operations         in
+ WD
+
+         Section           86.120,     if an employee performs                    work on a scheduled holiday
+ fF
+
+         the employee            shall    be compensated               as follows:
+ nan
+
+                     The    employee's         regular       hourly        rate    times    the     number      of hours
+ oO
+ ao
+
+         for the holiday               (7.5 hours           for Courthouse and Annex Employees;
+  nN
+
+         8 hours           for Sheriff's,           Road and Nursing Home Employees),                           plus one
+
+     9   and     one-half        times        the   employee's         regular       hourly       rate      for only     those
+
+10       hours        the    employee     actually           works.
+
+11                   86.211.         PAID VACATION LEAVE.                   Regular        full-time       employees who have
+
+12       at least one            (1)    year of continuous                  employment with the County                   shall be
+
+13       entitled           to annual         paid vacation           in accordance with the following
+
+14       schedule:
+
+15       LENGTH        OF    EMPLOYMENT                    AMOUNT     OF    VACATION              HOURS/ MONTH
+                                                                                                   8 hrs.        7.5    hrs.
+16
+               1 to 4 years                                  10 workdays                           6.67                6.25
+17             4 years                                       11 workdays                           7.33                6.875
+           5 years                                           12 workdays                           8.00                7.5
+18             6 years                                       13    workdays                        8.67                8.125
+               7 years                                       14 workdays                           9.33                8.75
+19             8 years                                       15    workdays                       10.00                9.375
+               9 years                                       16 workdays                          10.67              10.00
+20        10 years                                           17 workdays                          11.33              10.625
+          12 years                                           18 workdays                          12.00              11.25
+21        14     years                                       19    workdays                       12.67              11.875
+          15 years                                           20 workdays                          13.33              12.5
+22
+
+23                   For    purposes     of     this       Article,        a workday        shall    be defined         as     seven
+
+24       and one-half            (7    1/2)     hours       for    employees        assigned        to    the   Courthouse         or
+
+25       its Annexes            and eight           (8)    hours    for all other employees.
+
+26       /T1TT
+Page      34     -     PERSONNEL          ORDINANCE
+
+                                                              PIS - B93                    cap
+               Continuous                employment           for    the      purpose          of accumulating              vacation
+
+       leave       credit          shall be service unbroken by separation                                       from employment
+ Hw
+
+       with the County.                       Periods        of excused absence of less than one                                   (1)    month
+ WO
+
+       shall       be included                as continuous             employment.               Layoffs        of one       (1) month
+ BR
+
+       or more,           or     leave        of    absence        of one        (1)    month      or more,           including
+ oO
+
+       absences           due      to    sick       leave,       will     not    be     counted         as    part     of   continuous
+ Oo
+
+       employment               for     accrual       purposes,           but     employees         returning           from any          such
+ NY
+
+       leave        and     from        layoff       status        within       one      (1)     year    of     the    layoff       shall        be
+ a
+
+       entitled            to credit            for service prior to the leave or layoff.
+ Ho
+
+10                 86.215.             VACATION ACCRUAL.                  After the             first anniversary date vac-
+
+11     ation will be accrued on the basis                                     of 1/12 annual rate per month.
+
+12                 86.230.             SCHEDULING VACATION LEAVE.                              Employees        shall be permitted
+
+13     to    request            a split        or    single        vacation.            Whenever         possible,           consistent
+
+14     with        the     judgment           of the department                 head as to the needs                     and require-
+
+15     ments        for vacation                relief,       employees may schedule their vacation
+
+16     times.             Subject to such requirements,                                vacation time            shall be scheduled
+
+17     as between               employees           on the basis              of seniority,             provided,           however,        each
+
+18     employee            will        be permitted           to     exercise           seniority        only     once       a year.         The
+
+19     County            shall     have       the    final determination of vacation                                  times based on
+
+20     operations               and     the     availability             of     vacation         relief,
+
+21                 86.240.             ACCUMULATION           OF    VACATION            CREDITS.             Sheriff's       Department
+
+22     employees,               see OPEU           Contract.            For     all other         employees,           maximum
+
+23     accumulation                   of vacation          leave        shall be twenty-five                    (25)     workdays,          or
+
+24     computed            to     hours       by    location,           187.5     hours         for Courthouse              and    Annex
+
+25     employees,                200    hours       for    all      other       employees.          An        employee       who     is    about
+
+26     to     lose        vacation        credit          because        of accrual             limitations            and who,          because
+
+Page    35     -     PERSONNEL                 ORDINANCE
+
+                                                                    PES         - O79      A      (t))
+       of County            insistence,            has been unable            to schedule and take                   sufficient
+
+       amounts           of vacation             in the      current year           in order to avoid exceeding
+
+       such maximum                   accrual,     may,      by notifying his           supervisor           at least thirty
+ &}
+
+       (30)        days     in advance,            absent         himself    to prevent         loss of this vacation
+ eh
+
+       time.         In such instances,                     such action taken by the employee                         shall not
+ ao
+
+       constitute               a basis      for disciplinary               action or loss of pay.
+ oOo
+
+                   86.250.             TRANSFER      CREDITS        AND    TERMINAL     VACATION           PAY.     Accumulated
+ on
+
+       paid vacation                   days to which          an employee           is entitled        shall:
+
+                         (1)           be assumed by a new appointing authority whenever an
+ ©
+
+                   employee            is transferred to or appointed to another department;
+10                       (2)           be paid to an employee in the fom of cash compensation
+                   upon his expiration from the County service; and
+11                       (3) be paid to the heirs of the deceased employee                                            in the
+                   same manner that salary due to him is paid.
+12
+
+13                 86.310.              SICK LEAVE.          Persons        regularly employed              full-time         in the
+
+14     County        service             shall be excused            from attendance            at work when unable                     to
+
+15     perform their                    duties     by reason of:
+
+16                              (1)     illness;
+                                (2) injury;
+17                              (3)     necessary medical or dental care;
+                                (4)     quarantine - exposure to contagious                          disease        which    will
+18                 endanger             the health of the employee                   if he continues               to work or
+                   the     health of those who associate with him;
+19                           (5) serious illness in the employee's immediate                                        family,        which
+                   shall        be defined          to include            the employee's mother,                  father,     spouse,
+20                 sister,            brother,      children        and     grandparents,        or any           relative
+                   residing             in the employee's            immediate        household.            This does not
+21                 provide extended household                        or child care.  A maximm of three
+                   (3) days' absence shall be                        allowed for each such serious illness.
+22
+
+23                 86.320.              VERIFICATION         OF    ILLNESS     OR    INJURY.         Certification            by    an
+
+24     attending            physician or practitioner                        showing    sufficient disability                      to
+
+25     require            the         employee's         absence    from his        duties     may    be    required        of an
+
+26     employee            after         three     (3)     days    absence     as    a precondition               to receipt
+
+Page    36     -     PERSONNEL               ORDINANCE
+
+                                                                  PFE - O/ PF 3 (6))
+ 1     of compensable                sick leave.                If the certification does                        not show such
+
+       disability,            sick        leave        shall     not be paid               and    the    employee       will        be
+WD
+
+       subject        to disciplinary                   action.
+ WO
+
+               86.330.              FAMILY DEATH.                Regular           full-time employees                  shall be
+ FF
+
+       allowed up to ‘three                   (3)       days      leave with pay (22                    1/2 hours pay             for
+ wo
+
+       employees         who        work     in the       Courthouse,               excepting           the   Sheriff's           Depart-
+ Oo
+
+       ment,       and 24 hours pay                    for other            employees)            in any year         for scheduled
+ vs
+
+       work     time     lost when necessary                          to arrange           for and/or attend a funeral
+ on
+
+       of a member            of the employee's                       immediate        family.           Funeral        leave       shall not
+ Oo
+
+10     be    cumulative             from year           to year.
+
+11                 Inmediate          family        for purpose              of this Section                shall mean the
+
+12     employee's            mother,         father,           spouse,        sister,            brother,     child         and   grand-
+
+13     parents,         and     any        relative        residing           in    the employee's               immediate          house-
+
+14     hold.
+
+15                 86.340.          PAID SICK LEAVE.                    After       an employee has completed                            six     (6)
+
+16     full months             of employment,                  he shall be credited with                         forty-eight              (48)
+
+17     hours        of accrued             sick leave,            unless       he works            in the Courthouse,                    in
+
+18     which         event     he     shall       be    credited            with     forty-five           (45)    hours       of accrued
+
+19     sick        leave.       Thereafter,               the     employee           shall        continue       to    accrue        sick
+
+20     leave         at the rate of eight                       (8)    hours       per month            (seven    and one-half
+
+21      (7    1/2)     hours         per month           if he works            in the           Courthouse)          for    each        full
+
+22     calendar month                 of active           employment.                Sick leave           is provided by the
+
+23     County         to cover            "sickness"           and     is    not     to be used           as a supplement                 for
+
+24     vacation.              Sick        leave may be taken only                      for the purposes                 specified              in
+
+25     Section         86.310         hereof.            Except        as provided               in Section       88.410          below,         no
+
+26     compensation                 for    accrued        sick        leave        shall     be provided          for       any    employee
+
+Page    37     ~     PERSONNEL               ORDINANCE
+
+                                                                  PFF-OVFA                         (tA)
+           upon his death or termination of employment,                                                  for whatever reason.                           Sick
+     —_
+
+           leave       shall        not    accrue        during          any     period           of    layoff        or     leave     of     absence,
+ ND
+
+           except        for     a leave         of absence              required            by the       County           for    job-related
+ WD
+
+           educational              or training purposes.
+     RF
+
+                       In the event an employee                           suffers           fram       "sickness"            and is unable
+     oo
+
+           to perform           his       duties,        he     shall          notify        his       supervisor           of his       expected
+     DOD
+
+           absence and the nature and expected                                        length thereof prior                        to the       start
+     nr
+
+           of his regular                 work     shift.
+     wo
+
+                       86.350.         ABSENCE         PAID         BY    STATE       ACCIDENT           INSURANCE            FUND.          When       an
+     po
+
+           ‘injury occurs              in the course                 of employment,                    the injured            employee may
+     (=)
+iy
+
+           utilize        accrued          sick leave               to receive              the difference between payments
+     -_
+—
+
+           received           under       Workmen's            Compensation                 and    his     regular           salary.          In    such
+ie)
+_—
+
+ 13        instances,            prorated          charges           will       be made           against        the       employee's
+
+ 14        accrued        sick        leave.
+
+ 15                    86.360.         SICK       LEAVE       WITHOUT           PAY.         Upon       application              by   an employee
+
+16         and    recommendation                  of   the      appointing              authority,              the    County         Court        may
+
+17         authorize           sick       leave        absence without pay not to exceed one year's                                                 dur-
+
+18         ation.         Such        sick       leave without pay shall not be granted until                                                 all
+
+19         accrued        sick        leave       with       pay     has       been     exhausted.               The        appointing
+
+20         authority may require                        an employee              to submit               a certificate                from an
+
+21         attending           or     examining          physician,               as a condition                 to recommending                   or
+
+22         continuing            the      leave.         In the           event        of    a failure           or        refusal      to    supply
+
+23         such        certificate,              or if        the    certificate              does        not    clearly          show       suffi-
+
+24         cient        disability            to preclude                the    employee               from performance                of duties,
+
+25         such        sick    leave         shall      be     cancelled           and       the       employees            service         terminated.
+
+26         /t1
+Page||      38     -    PERSONNEL                ORDINANCE
+
+                                                                     Wek           ~p7 92                775)
+                        86.370.      SICK LEAVE COMPENSATION.                          Accumulated           sick leave          shall
+  eK
+
+            be payable            at the employee's           regular         straight-time                 rate commencing
+  HB
+
+            with his/her            first        scheduled workday            absent because of illness or
+     WO
+
+            injury        and shall        continue     for the duration of the                           illness        or injury
+     BR
+
+            or until        the employee's            sick leave bank has been exhausted.                                   However,
+     ao
+
+            should an employee have more than three                                    (3)     instances          in a calendar
+     DOD
+
+            year when he/she misses work because                              of a nonhospitalized                       illness or
+     ny
+
+            injury within            subparagraphs            (1)        and/or     (2)       of Section          86.310,
+      wo
+
+            in   all      subsequent         instances      of absence             because          of    such     nonhospitalized
+      oO
+
+            illness        or injury within            that calendar               year,        sick leave payments                   may
+      OC
+ket
+
+            commence        on     the    second     scheduled workday                  of absence.
+      —&§
+
+                        86.410.      COMPUTATION OF LONGEVITY.                            In computing periods of
+bs
+      HB
+
+            continuous            County     service     for the           purpose           of vacation          and    sick    leave
+     WO
+oe
+
+            longevity,            all periods        of excused            absence           less   than     a month may be
+     KR
+
+            ignored.          Leaves        of    absence     of a month           or more          due     to    sick    leave       or
+     HN
+ek
+
+            other        authorized         leaves    of absence            shall be excluded                    from the com-
+     DBD
+et
+
+            putation but            shall not break continuity of service.                                       Transfer       of
+     NY
+ee
+
+            employees         from one           department         to    another         shall     transfer        accrued
+     Of
+we
+
+            vacation         and    sick     leave    days.          No    promotion,           demotion          or change          of
+     YO
+we
+
+            classification               shall     affect     the computations                  and all paid             sick or
+     COC
+NR
+
+            vacation         leave       shall be paid at the rate current when taken,
+     -*&
+KR
+
+                        86.430.      TRANSFER        FROM     PART-TIME           TO      FULL-TIME         EMPLOYMENT.              Any
+  OH
+WB
+
+            person        in the County            service who has accrued paid vacation or sick
+  WO
+KH
+
+            leave        credits     as a part-time            employee           and subsequently                 is appointed
+  F&F
+MO
+
+            to a full-time position                   in the County service                         shall be credited with
+  an
+ND
+
+ 26         M1111
+Page
+            39      -    PERSONNEL               ORDINANCE
+
+                                                                    PEF       ~ 0/93                (lel)
+              such proportionate                   accrual.         A seasonal employee who is subsequently
+    eK
+
+              employed       in a full-time position                       shall be similarly                credited.
+    LP
+
+                         86.440.       DATE        OF EMPLOYMENT.              For purposes           of computing            accrual
+      WD
+
+              of paid       vacation          and    sick        leave    days,     the date         of employment            for each
+      fe
+
+              person       in the County             service         shall be the date of his employment                             if
+      ao
+
+              occurring          on the       first day of a monthly pay period.                               Provided        that
+        oOo
+
+              when       a part-time          or    seasonal        employee        entitled         to vacation         or    sick
+        on
+
+              leave credits             is appointed              to a full-time position within                        the County
+
+              service his date                of employment              shall be his date of employment                         in such
+        po
+
+              position       and       for purposes              of computation            thereto      shall be added any
+        OC
+
+              accrued       sick       or vacation           days.
+        KF
+meeps
+
+                         86.510.        TEMPORARY           INTERRUPTION           OF    EMPLOYMENT.           Any     temporary
+        HB
+
+              interruption             of employment because                   of adverse weather               conditions,
+        WO
+
+              shortage       of supplies             or for other unexpected or unusual                               reasons,       which
+        BP
+
+              does not exceed                ten     (10)    days        shall not be considered                a layoff         if,      at
+        DH
+
+              the termination                of such conditions,                  employees          are to be returned to
+
+              employment.              Such interruptions                  of employment may be charged                        to accrued
+        Se
+
+              vacation        leave         or may     be    recorded        as    leave        without      pay.
+        WO
+
+                         86.520.        LONGEVITY           FOLLOWING        RE-EMPLOYMENT             OR    REINSTATEMENT,               An
+        YH
+OND
+
+              employee       who       is re-employed               following       a Civil          Service        Hearing,     a
+        OD
+
+              layoff,       or     a   separation           of    leave     without        pay,      shall    have     vacation        and
+        -B=
+OND
+
+              sick leave           credits          accrued during           the previous             employment        restored.              An
+ND
+        HO
+
+              employee       who       is    reinstated           within     one    year        of   a voluntary        separation
+ND
+        WO
+
+              may    have     all      or    a portion           of his     sick        leave     credits     restored         by the
+NO
+        FF
+
+              appointing           authority          and    the     County       Court.
+        on
+bh
+
+              ML
+      oO
+RDS
+
+Page           40    -     PERSONNEL               ORDINANCE
+
+                                                                         PEE       - O93              (L-)
+               86.610.                   JURY AND WITNESS                    LEAVE OF ABSENCE.                A person holding a
+
+       regular          full-time position                            in the County service               shall be credited
+ BH
+
+       a leave          of     absence               with       pay      for attendance:
+ WO
+
+                             (1) in                Court for          jury service, provided that the                      salary
+ FR
+
+               paid          to the                employees          for the period of absence shall                      be
+               reduced by the amount of money he receives                                                for jury service;
+ ao
+
+                              (2)        before            a Court,          legislative        conmittee,       or a judicial
+               or quasi~judicial body, as a witness in response to a subpoena
+ DO
+
+               or other direction by proper authority, provided that the salary
+               paid          to         the        employee         for      that    period     of absence       shall     be    reduced
+ nN
+
+               by the   amount of any witness fees he receives;
+                     (3) in Court in connection with the employees officially
+ on
+
+               assigned duties, including the time required to go to the Court
+               and to return to his place of work.
+ Ke)
+
+10              86.620.                  MILITARY              LEAVE WITH PAY.               A person employed within the
+
+11     County       service               upon           a regular           full-time       basis     who has     served       in    such
+
+12     capacity          for six                   (6)     months        or more      immediately preceding his appli-
+
+13     cation       for        military                   leave,       and who       is    a member     of the     National          Guard
+
+14     or   any     reserve                   components            of    the   armed       forces     of the    United      States,         is
+
+15     entitled          to         a    leave           of    absence        from his        duties    for    a period      not
+
+16     exceeding              fifteen               (15)       calendar days              in any calendar year.              Such leave
+
+17     shall       be    granted                   without         loss      of time,       pay or other         leave,     and without
+
+18     impairment              of merit                   ratings        or other         rights     or benefits        to which       he    is
+
+19     entitled.               Military                   leave       with    pay must        be granted       only when        an employee
+
+20     receives              bona        fide            orders       to active       or training        duty     for     a temporary
+
+21     period,          and         shall not be paid                        if the employee           does not return to his
+
+22     position              immediately                      following       the    expiration        of the     periods       for which
+
+23     he was       ordered                   to    duty.          Leave      with    pay     shall    not be     granted       to
+
+24     employees              entering                   the    military        service       for extended        and     indefinite
+
+25     periods          of active                   duty.
+
+26     WNT
+Page    4      -    PERSONNEL                            ORDINANCE
+
+                                                                              PEF -O7973
+                                                                                       (Uy)
+                86.630.             EDUCATIONAL            LEAVE.       An appointing            authority may require
+
+       an employee             to attend           designated educational or training courses.                                           When
+ Wb
+
+       So required,               the attending             employee        shall be reimbursed                    for all or part
+ WW
+
+       of the costs               and expenses             thereof.         An appointing           authority may auth-
+ Pp
+
+       orize         an employee            to attend designated educational                          or training courses
+ on
+
+       at his         own     expense.            For     such    educational           or training           purpose         an
+ TM
+
+       appointing             authority           may    grant      a leave       of absence        to       the     employee.
+ NN
+
+       The appointing                authority may grant                   no such leave of absence with pay
+ oa
+
+       exceeding            one     (1)     month unless            he has     first obtained                the approval            of
+ uo
+
+10     the County Court.                        The appointing           authority        shall grant               no leave of
+
+i      absence with               or without pay                 for a period longer than one                        (1)    month
+
+12     unless         he has        first        received        the   approval         of the     County           Court.
+
+13                  86.640.         MILITARY           LEAVE     OF ABSENCE        WITHOUT       PAY.         A person
+
+ 14    employed         within            the    County     service        upon    a regular         full-time             basis
+
+ 15    who has         served        in such capacity                  for six     (6) months           or more            immediately
+
+16     preceding            his     application            for military           leave     shall       be    entitled         to    a
+
+ 17    Military             leave    of absence without pay during a period of service with
+
+18     the     armed         forces        of    the     United     States.        He    shall,      upon       honorable
+
+19     discharge             from     such       service,        be returned        to a position                  in the     same       or
+
+20     similar         class        as     his    last     held     position,       at the         salary          rate     prevailing
+
+21     for such class,                    without        loss of seniority or employment                            rights.         If
+
+22     it is established                    that he is not physically qualified                               to perform
+
+23     the duties             of his            former position by reason of such service,                                   he shall
+
+24     be reinstated                in other work                that he is able to perform at the nearest
+
+25     appropriate                level     of     the    pay     of his     former       class.         Such       employees
+
+26     shall make             application               for reinstatement           and shall           report            for duty
+
+Page    42     —-     PERSONNEL                 ORDINANCE
+
+                                                                  PEE        O93             (by)
+       within        ninety        (90)     days   following        separation        from active        duty.    Failure
+
+       to comply may terminate military                          leave.       Where an employee            voluntarily
+
+       re-enlists,            or extends his period of military                        service,      his military
+ &
+
+       leave        shall     be    deemed       cancelled.
+ fF
+
+                86.650.            OTHER LEAVES         OF ABSENCE        WITHOUT      PAY.     In   instances
+ on
+
+       where        the County            service will not be seriously handicapped by the
+ a
+
+       temporary         absence           of   an employee,        the   County    Court,      upon     recommendation
+
+       of the appointing                   authority,     may authorize         a leave of absence without
+
+       pay   of      appropriate            duration.      All      requests     for    such     leave    must   be    in
+
+10     writing        and must            establish reasonable             justification         for approval of
+
+11     the     request.            Normally,       such    leave     of absence will           not   be approved
+
+12     for an employee               who has       accepted employment outside the County
+
+13     service,
+
+                        CHAPTER            87   ~- EMPLOYEE    RELATIONS
+14
+
+15                          87.010        - Educational       and    Training      Policy
+                            87.020        - Departmental       Training
+16                          87.030        - Educational       Leave
+                            87,040        - Tuition Aid
+17                          87.110 - Employee Representation, Generally
+                            87.120 - Formation of Bargaining Unit
+18                          87.130        - Excluded      Employees
+                            87.140        - Candidates      for Representative
+19                          87,150        - Election Procedure
+                            87.160        - Recognition of Representatives
+20                          87.170        - Withdrawal of Representative                 Recognition
+                            87.210        - Negotiations
+21                          87.220        - Agreements
+                            87.310 - Grievance Policy
+22                          87.320 - Grievance Procedure
+                            87.330 - Departmental Grievances
+23                          87.340 - Civil Service Commission
+
+24                 87.010.         EDUCATIONAL AND TRAINING                 POLICY.       It is the policy            of the
+
+25     County Court            to encourage           appointing          authorities         to familiarize new
+
+26     employees        with departmental                 functions,        to familiarize           employees with
+
+Page    43     -     PERSONNEL              ORDINANCE
+       the general            functions of County government                            and it is further            the policy
+
+       of    the     County        Court      to provide         assistance           to selected         employees        for
+ Bb
+
+       the purpose            of obtaining          advanced               education or training             and to assist
+ Ww
+
+       in the development                  of County personnel                     of superior ability and
+ &
+
+       potential.
+ nm
+
+                   87.020.         DEPARTMENTAL          TRAINING.                Appointing      authorities        are
+ i=)
+
+       encouraged            to    develop      departmental                training       programs,       conducted       either
+
+       during        or after          regular    working             hours,       or both.       Attendance        by employees
+
+       at training            sessions         conducted         after regular working hours                      shall be
+
+10     voluntary           unless       arrangements            for        such    training       includes    the    granting
+
+il     of an equal amount of compensatory                                   time off.
+
+12                 87.030.         EDUCATIONAL LEAVE,                      The appointing authority                is authorized
+
+13
+       to require            or permit employees                     to attend educational               or training courses
+
+14     and    for     that        purpose      to grant         educational            leaves      of   absence     as provided
+
+15     in Section            86.630,       within       the     limitations           of the       department's          budget.
+
+16     No    appointing            authority       shall        authorize           such     a leave      of absence,        paid    or
+
+17     unpaid,        in     excess      of    thirty         (30)     days       without     prior     approval      by the
+
+18     County Court.
+
+19                 87.040.         TUITION      AID.      Upon         approval        by the      County    Court,        tuition
+
+20     aid in the amount                   of a required              course       fee and necessary          travel        expenses
+
+21     may    be     authorized            to employees              who    successfully          complete    classes        when
+
+22     such training will be beneficial                                to the County.              Requests       for tuition
+
+23     aid mist be in writing                     and provide               sufficient        information         to permit        the
+
+24     County        Court        to review       the    request            and    determine       whether    or not        such
+
+25     action        would        be   in the     best    interest             of the       County      service    and     the
+
+26     availability               of   funds     therefore.                Where    grants,       scholarships        or    other
+
+Page    44     ~     PERSONNEL             ORDINANCE
+
+                                                              DEL -a/93                    (hi)
+        outside           sources          of funds are available,               the County Court will make pro-
+
+        visions           for     such grants,         but shall not permit               the duplication of funds
+HD
+
+        for any purpose                    nor permit the combination of income                     sources to exceed
+ WHO
+
+        the monthly               salary of the individual                 granted educational             assistance.
+ FR
+
+                87.110.               EMPLOYEE       REPRESENTATION,           GENERALLY.         Employees       shall
+ wo
+
+        have    the right to                 form,     join and participate             in organizations            of
+ DD
+
+        their own choice                    for the purpose         of representation             and collective
+ ony
+
+        bargaining              on matters           concerning employment             relations;        employees
+
+        shall        also have             the right to refrain            from joining and participating
+ ite)
+
+10      in the        activities             of employee        organizations.
+
+11                    (1)             Nothing in this ordinance shall be interpreted to
+                preclude              an individual in the County service from representing
+12              himself in individual personnel matters,
+                      (2) Employees shall not be interfered with, intimidated,
+                restrained, coerced or discriminated against in the application
+13
+                of these rights.
+14
+
+15                  87.120.           FORMATION        OF   BARGAINING         UNIT.    A bargaining         unit       may
+
+16      consist           of:
+
+17                              (1)   all eligible          employees       in the County         service;
+                                (2)   if    the    Civil    Service      Commission        determines      that     a
+18              bargaining unit of all employees within the County service is
+                inappropriate, then one bargaining unit composed of all employees
+19              within the classified service and one bargaining unit camposed
+                of        all     other      employees       within      the    County;     or
+20                              (3)    any other proposed bargaining unit which appears                                  to
+                    the    County          Court     to be appropriate           on the     basis   of    the   existence
+21                  of distinct             and homogeneous           group of employees.
+
+22                  87.130.           EXCLUDED EMPIOYEES.                No bargaining unit           shall     include per-
+
+23      sons occupying                  positions within            the County         service of an elected,                  pro-
+
+24      fessional,              management           or supervisory         nature.
+
+25                  87.140.            CANDIDATES          FOR REPRESENTATIVE.             A petitioning        candidate
+
+26      for employee                  representative          may   be    a person,       club,   organization,               or
+
+Page     45     ~     PERSONNEL               ORDINANCE
+
+                                                             PSF         -~OIF DR       (tH)
+                                 council         of organizations,               Petitions       for representative                  election         shall
+&
+
+                                 be submitted              in writing     and must include:
+HB
+
+                                                   (1) the identity of petitioning candidates;
+                                                   (2) the identity of bargaining units to be formed;
+WHO
+
+                                                   (3) acceptable evidence that at least thirty (30)
+                                             percent of the employees within the proposed bargaining
+ BP
+
+                                             unit    desire        to be represented        by    the petitioner;              and
+                                                     (4)    a statement that the petitioning candidate                                for
+ TH
+
+                                             representative           supports     the    constitution          of the        State
+                                             of Oregon and of the United States and pledges non-
+ OD
+
+                                             discrimination in regard to age, color, creed, political
+                                             affiliation, race, sex, mental or physical handicap.
+ NT
+ oOo
+
+                                             87.150.        ELECTION PROCEDURE.             All requests             for representative
+ wo
+
+                                 elections which               shall    include within the bargaining unit persons within
+pk
+     wULULUDNODlUlUCUrMeECUCOD
+
+                                 the     classified          service     shall    be processed              in accordance            with     applicable
+
+                                 Civil        Service Commission Rules.                   When    such requests              include within the
+meee
+
+                                 bargaining            unit employees both within                 and without          the classified                 ser-
+                                 vice,        the appropriate           Civil     Service Commission Rules                    shall be deemed
+     OR
+
+                                 applicable            and by this       reference        are incorporated herein.                      When the
+     nN
+
+                                 request        includes       only     persons    who     are    not employed          within         the     classified
+     ODO
+
+                                 service,           the request        shall be processed              in accordance with               Sections
+                                 89.310 through 89.370.
+     AON
+
+                                             87.160.        RECOGNITION     OF    REPRESENTATIVES.              When     a candidate             for
+     Oo
+Om
+
+                                 employee           representation        receives        a majority of the votes                     cast,     the
+     ODO
+NO
+
+                                 County Court              shall    recognize     and certify          that representative                    for that
+     Fe
+BRD
+
+                                 unit.         The     representative       shall        serve    without      discrimination                 as to
+   HO
+DO
+
+                                 menbership,            if the representative              is for all employees                 in the bargaining
+DO
+   WD
+
+                                 unit.
+   he
+BR
+
+                                             87.170.       WITHDRAWAL      OF    REPRESENTATIVE             RECOGNITION.             After      the
+   oo
+Db
+
+                                 recognized            representative       has    served        for   at    least     one     (1)     year,     the
+   ao
+ND
+
+Page                             46      -    PERSONNEL            ORDINANCE
+
+                                                                                     P&E ~ 0/73                 (Gh)
+                  representation                  may     be     challenged         by petition        requesting          a new election
+
+                  and     supplying           acceptable               evidence      that at least thirty                 (30)     percent        of
+    KTS
+
+                  the     employees           in the           bargaining        unit     desire      different          representation
+    CF
+
+                  or no       representation.
+     BR
+
+                             87.210.          NHGOTIATIONS.                   The County Court shall negotiate                          in good
+     oO
+
+                  faith       with     all        employee           representatives           on matters          concerning           employment
+     ODO
+
+                  relations,                Similarly,               appointing      authorities         shall      negotiate           in good
+      NS
+
+                  faith upon matters                      concerning employment relations within their depart-
+      wa
+
+                  ments.
+      po
+
+                             87.220.          AGREEMENTS.                Any    agreement       between       the    County        Court     and
+        OC
+
+                  recognized           representatives may be reduced to writing                                     in the        form of
+            FK*
+mmm
+
+                  a memorandum               of    agreement,            exchange       of    letters,       or    any    other     appro-
+         HO
+
+                  priate       form.
+      WO
+
+                             87.310.          GRIEVANCE POLICY.                     It is the policy of the County Court
+   BF
+
+                  to    assure       persons            employed         within     the      County    service       that        they may        have
+an
+
+                  their       complaints            considered            as    fairly       and rapidly
+me
+DOD
+
+                                                                                                                  as possible           without
+
+                  fear       of reprisal.                To     that purpose          individual        employees          are     encouraged
+NY
+wm
+
+                  to discuss           their        complaints            informally          with    their       immediate        supervisor.
+       OD
+me
+
+                             87.320.          GRIEVANCE              PROCEDURE.         If the       complaint       arises        under
+YO
+
+                  these       rules       or arises within administered or supervised departments,
+OND
+ OF
+
+                  and    after       presenting                any    grievances        to    the department             head,
+ND
+
+                                                                                                                                   an
+-»
+
+                  employee,          employees
+ND
+
+                                                           or    employee       representative
+HOH
+
+                                                                                                            may   present         any
+
+                  grievances           or     complaint              to the    County        Court    for    consideration.               ‘The
+WO
+BR
+
+                  complaint          or grievance                should be in writing
+ F&F
+
+                                                                                                      within       ten    (10)     days
+DN
+
+                  fram       occurrence,            and        should     be   so   framed      as    to include          all     items
+wm
+BN
+non
+
+                  necessary          to     assist         the       County    Court      in reaching         an equitable
+RD
+
+ Page             47     —    PERSONNEL                 ORDINANCE
+                         decision.            The County Court may uphold the original                        decision,          action
+                         or     failure       to    act which motivated           the    complaint     or may modify,
+        HO
+
+                         reverse       or     cancel     such       decision   or action.
+        OO}
+
+                                    87.330.        DEPARTMENTAL         GRIEVANCES.          Any employee,         employees,       or
+        fF
+
+                         recognized           representative may present                 a complaint or grievance                 to a
+         ao
+
+                         department           head     in whose       department     the matter       occurred.           If    the depart-
+         8
+
+                         ment       head    requests,         the    complaint    should      be   in writing       and    so    framed
+          won
+
+                         as to include             all items necessary            to assist the department head in
+
+                         reaching          an equitable         decision.        ‘The department head may decide whether
+          pw
+
+                         to uphold          the original            decision   action or failure            to act which motivated
+          ©
+
+                         the complaint or grievance                     or he may decide           to modify,       reverse       or cancel
+          &*
+
+                         such       decision       or action.
+                   KTH
+eee
+
+                                    87.340,        CIVIL      SERVICE    COMMISSION.          As   to grievances          or complaints
+               !}O
+
+                         against       the     Civil     Service       Commission       or   its   rules,    and    as    to matters
+            fF
+
+                         arising under the Civil                     Service Act,       complaints     or grievances may be
+         Ao
+
+                         directed          to the    commission         in accordance with its rules.
+      8D
+
+                                            CHAPTER      88    ~— SEPARATION
+   NS
+
+                                            88.010 - Reduction in Force
+OA
+
+                                            88.011 - Reassignment of Duties
+                                            88.012 - Order of Layoff
+   HO
+
+                                            88.110     - Suspension
+RD
+
+                                            88.115 - Investigative               Suspension
+OC
+
+                                            88.120     - Suspension         Review
+                                            88.210     —- Disciplinary Demotion               and Salary Reduction
+—*&
+RD
+
+                                            88.220     — Dismissal
+                                            88.230     - Immediately Effective                Dismissal
+ND
+HN
+
+                                            88.240     —- Departmental Hearing
+                                            88.310     - Method of Resignation
+WO
+RD
+
+                                            88.320     - Failure to Give           Notice
+                                            88.410     — Retirement
+BRD
+FF
+
+                                            88.420     - Police Officers
+                                            88.430 — Extended            Service
+wn
+BN
+
+                                            88.520 - Vacation            Pay on Termination
+oOo
+RB
+
+   Page                  48     -    PERSONNEL           ORDINANCE
+
+                                                                           PEE - 6793 (ey)
+ 1                  88.010.              REDUCTION       IN FORCE.         An appointing           authority may        layoff
+
+ 2       an employee                   for any of the       following reasons:
+
+ 3                               (1)    abolition of position;
+                                 (2)    shortage of funds or work;
+ 4                               (3)     a material change in duties;
+                              (4) changes in an organization unit or department; and
+ 5                           (5) any other reason which does not reflect discredit on
+                    the     service of the employee.
+ 6
+ 7                  88.011.             REASSIGNMENT        OF DUTIES.         The department             head may    reassign
+
+ 8       to any          other         employee,        holding    a position        in an appropriate           class,
+
+ 9       those       duties             formerly       performed    by the     laid off employee.
+
+10                  88.012.             ORDER OF LAYOFF,            (LAYOFF AND RECALL).                  In the event of a
+11       layoff          of employees                in a department,        selection       of employees        retained
+
+12       will be in accordance with the seniority within the affected job clas-
+13       sification(s)                  in that department,               so long as the senior employees
+
+14       possess          qualifications,                aptitude    and     ability    to perform           the work     equal
+
+15       to those           of     the     employees       laid    off.      Except    in unusual          circumstances,
+
+16       employees           shall         normally be given              at least two       (2)    weeks'     notice of
+17       layoff.
+
+18                  An    employee            displaced     from his        job by reason          of a layoff       shall
+
+19       be entitled               to displace           an employee        in an    equal    or    lower     job clas-
+
+20       sification,               provided          the displacing employee has greater                      seniority
+21       and possesses                  qualifications,           aptitude     and ability          to perform the
+29       work       equal        to     the    employee     he    displaces.
+
+23                  88.110.             SUSPENSION.         An appointing           authority       may    peremptorily
+
+24       suspend          any      subordinate           for cause        for a reasonable          period     not
+
+25       exceeding           thirty           (30)    days with     loss of salary or other compensation.
+
+26       Cause,          within         the meaning of this           Section,        shall consist of that
+Page|}   49     ~    PERSONNEL                ORDINANCE
+
+                                                                  EE O79               (bi)
+              conduct           listed    in    Section           89.220.        No person       within        the    classified
+
+              service           shall    be    suspended           except       upon written           charges       served     upon
+    HO
+
+              him and           filed with          the Civil        Service          Commission.
+    WO
+
+                         88.115.         INVESTIGATIVE              SUSPENSION.              Where the appointing               authority
+     ff
+
+              has reason           to believe             that cause may exist                 for disciplinary               suspension,
+        aon
+
+              demotion,           salary       reduction,           or dismissal,             he may
+        Dn
+
+                                                                                                         suspend       a subordinate,
+
+              with       pay,     pending       investigation                 of allegations.            No    such    suspension
+        won
+
+              shall       exceed        the    suspension periods permitted                           in Section       88.110.          In
+
+              the    event        that    the allegations                 appear       to be unfounded,              no entry
+        wow
+
+              regarding           suspension under this                       Section    shall be made or retained                      in
+              any    record        of    the    County,        except          upon    the    employee's           request.
+meeps
+
+                         88.120.         SUSPENSION REVIEW.                     No suspension pursuant                 to Section
+
+              88.110 or Section                 88.115       shall be           subject to review by the Civil                         Service
+      ©
+
+              Commission           or    any    other       tribunal.
+
+                         88.210.         DISCIPLINARY DEMOTION AND SALARY REDUCTION.                                        An appointing
+      ©:
+
+              authority           may    demote       an employee              for    cause    or may     reduce       the     salary        of
+     ©)
+
+              an employee           within          the    range     provided          for positions           of    that     class.         A
+
+              written           statement       of the reasons                 for such action           shall be           furnished        to
+     ©
+
+              the employee              and,    in the case of classified employees,                                 a copy filed with
+     ©
+
+              the    Civil        Service       Commission,              at    least    five    (5)     days       prior    to the
+NO
+    <>
+
+              effective           date of the action.
+NRO
+
+                                                                          Disciplinary demotions                    shall not be made
+
+              unless       the     employee          is    eligible           for employment           in the       lower     class    nor
+ND
+
+              when       such     action
+NO
+
+                                               will       cause     a person          in the    classified           service     to be
+
+              laid off.
+RO
+    —
+
+                         88.220.         DISMISSAL.           An appointing authority may dismiss                               any
+    2
+BR
+
+              subordinate           for       one    or more        of    those       causes    listed        in    Section     89.220.
+    [>
+RB
+
+Page          50     -    PERSONNEL                 ORDINANCE
+
+                                                                              PEF       - 8/73 (¢,)
+ 1     A written          statement of the cause                 for dismissal            shall be served upon the
+
+ 2     employee          and a copy        filed with the County Court or,                            in case of clas-
+ 3     sified       employees,          with     the Civil       Service       Commission.                  Such statement
+ 4     should normally be served                    and filed ten             (10)     working days prior to the
+
+ 5     effective          date     of    the    dismissal.
+
+ 6                88.230.         IMMEDIATE EFFECTIVE                DISMISSAL.         The appointing                authority
+ 7     may,       when    in his        judgment    the good of the service                     so requires,            suspend
+ 8     an employee            without      pay    during       the    notice period            required         by Section
+
+ 9     88.220.           Such period           of suspension may be with or without pay at the
+
+10     discretion of the                 appointing authority.
+
+11                88.240.         DEPARTMENTAL       HEARING.           No person        who        has      been   continuously
+
+12     employed          in the     County       service       for    five    (5)     or more         years     shall    be
+
+13     dismissed         by an appointing            authority unless                 the employee             has been
+14     afforded          a hearing        by the appointing             authority,            but this         Section shall
+
+15     not prevent            suspension pending hearing.
+
+16                88.310.         METHOD       OF RESIGNATION.           In order to resign                    in good
+17     standing,         an employee            shall give       at least           fourteen         (14)     calendar days
+18     written notice              to the appointing             authority.            The appointing               authority
+19     may    agree      to      a shorter       period    of notice.           Because         of     extenuating        cir-
+
+20     cumstances           with    the    approval       of    the    appointing        authority,             an employee
+
+21     may withdraw his resignation                       at any time within                  ten     (10)     days   after the
+22     effective         date      of    such    resignation;          in such        case,     time         not worked       shall
+
+23     be    treated        as    authorized       leave       of absence       without         pay.
+
+24                88.320.         FAILURE TO GIVE NOTICE.                    Willfull         failure         to give that
+25     notice       required        by Section       88.310          shall constitute               insubordination            and
+26     shall be cause              for peremptory          dismissal          from the service.
+Page   51     -    PERSONNEL             ORDINANCE
+                  88.410.         RETIREMENT.              The County     shall be a member                and participant
+
+       in the Public              Employees          Retirement        System.         Employees       shall be subject
+ND}
+
+       to the          laws     and    rules       administered        by the        Public    Employees         Retirement
+ WO
+
+       Board.           Upon     the    service       or    disability     retirement            of   an   employee,         the
+ Re
+
+       retiring          employee's              accumulated     sick    leave.       shall be reported            to the
+ oO
+
+       Public Employees                 Retirement          System,     and,     pursuant        to procedures          of
+ Oo
+
+       the PERS,             taken into account in determining the employee's retirement
+ ony
+
+       benefits.
+
+                 88.420.          POLICE          OFFICERS.      The    mandatory        retirement         age    for persons
+ ie)
+
+       employed within                 the criminal           department       of the Sheriff's             Office        shall be
+10
+11     age       60.
+
+12                88.430.         EXTENDED          SERVICE.      Upon    recommendation              of a department
+
+       head,       an employee              who applies        to the County Court may be granted per-
+13
+14     mission          to     continue          employment     past    the mandatory            retirement        age.
+
+15                88.520.         VACATION          PAY    ON TERMINATION.             Each     person     who    has   been
+
+16     employed          in     the    County       service     for one        (1)    year     or more     shall    receive
+
+17     vacation          pay     in accordance with              Section        86.215       at the rate current when
+
+18
+       terminated              for each          month's    employment         in the County          service      since the
+
+19     employee's              last    vacation       accrual.
+
+20                           CHAPTER        89    ~ PROCEDURE
+21                            89.010    - Records and Reports
+22                            89.020    - Classified Service Records
+                              89.030    - Reports to County Clerk
+23                            89.210 - Disciplinary Action
+                              89.220 - Causes for Disciplinary Action
+24                            89.230
+                              89.240
+                                        -
+                                        -
+                                             Types of Disciplinary
+                                             Suspension
+                                                                                 Action
+
+25                            89.250    -    Demotion
+                              89.260    -    Salary Reduction
+26                            89.270    -    Dismissal
+
+Page   52    ~     PERSONNEL                ORDINANCE
+
+                                                              PEF -0723                 (hI)
+                          89.280 - County Court                  Hearing
+                          89.290        -— Hearings Procedure
+                          89.310        - Representative Election                  Procedure
+                          89.320 - Notice of Election
+                          89.330 - Additional Candidates
+&
+
+                          89.340 - Eligible Voters
+                          89.350 - Supervision of Election
+&
+
+                          89.360        — Report of Election
+                          89.370        - Improper Election Practices
+non
+
+                          89.610        - Amendments to Ordinance
+ [=))
+
+                          89.010.          RECORDS     AND    REPORTS.           It is deemed          necessary       for    the
+
+        purposes      of this Ordinance to provide                         the preparation,             maintenance          and
+
+        use of certain records                     and reports.           It shall be the duty of each
+
+10      department          head     to    submit     to   the     County       Court,     the   Civil    Service       Com
+
+11      mission,      and/or         the County Clerk              those records           and reports         herein
+
+12      required.           It     shall    be the     duty      of each person            employed      within       the
+
+13      County      service        to     furnish     to   the     department          head    such    information          as he
+
+14      may   deem necessary               to the     preparation          of    such     reports.       All     such reports
+
+15      and records          are privileged and their                     inspection          is hereby        limited to the
+
+16      individuals          and officers of the County engaged                            in the administration               and
+
+17      enforcement          of    this     act.
+
+18                89.020.         CLASSIFIED         SERVICE       RECORDS.        Each       department       head    shall
+
+19      furnish      to the Civil            Service       Commission           that information          regarding
+
+20      classified          employees        which may        be    necessarily           required      by Civil
+
+21      Service Commission                 Rules,     upon    forms provided by the Commission.
+
+22                89.030.         REPORTS     TO     COUNTY      CLERK.         Each     department      head     shall
+
+23      furnish      to     the    County     Clerk,       upon     forms       provided      by him,     information
+
+24      concerning          every personnel            action occurring within his department.                                Each
+
+25      department          head     shall maintain           within      his department detailed                  records
+
+26      reflecting          the absence of any employee upon vacation                                 leave,     sick leave,
+Page    53    -    PERSONNEL              ORDINANCE
+
+                                                           PEG H— OV9F                 (U1)
+       military        leave,     educational         leave,   or other       authorized      or unauthorized
+
+       absence.         He shall         also maintain records           reflecting       authorized      overtime
+BD
+
+       worked;        provided,         that periods     of less than one-half hour may be dis-
+HY
+
+       regarded,             He shall,     monthly,     submit to the County Clerk,              upon forms
+eR
+
+       provided        by him,     a summary containing             the detailed accounting of the
+ao
+
+       foregoing         information,         as to each employee,            together with an accounting
+ Oo
+
+       of    the     accumulated         vacation     leave,     sick   leave,     and   overtime     which   that
+
+       employee        has accumulated.              As to overtime,         the monthly      report shall
+ on
+
+       instruct        the     Clerk,      subject    to approval       of the     County    Court,    whether
+ ie)
+
+       the employee            is to receive         compensatory       time off or a money compen-
+10
+       sation.         This     Section      shall not be construed              to prohibit    separate
+11
+       accounting within those departments                        authorized by the County Court.
+12
+                   89.210.      DISCIPLINARY ACTION,             All disciplinary           action    shall con~
+13
+       form to the following procedure                    except where Civil             Service Commission
+14
+       Rules        otherwise     specifically provide as to classified                      employees.
+15
+                   89.220.      CAUSES FOR DISCIPLINARY ACTION.                   Any person within the
+16
+       County        service,     holding non-elective             office,    may be subject          to dis-
+17
+       ciplinary        action      for:
+18
+                         (1)    incompetency;
+19                       (2)    inefficiency;
+                         (3)    inattention to or dereliction of duty;
+20                       (4)    dishonesty;
+                         (5)    intemperance;
+21                       (6)    immoral      conduct;
+                         (7)    insubordination;
+22                       (8)    discourteous         treatment     of the    public;
+                          (9) discourteous treatment of fellow employees;
+23                      (10) willful violation of the provisions of the Civil
+                   Service Act or of Civil Service Commission Rules adopted
+24                 pursuant     thereto;
+
+25
+       /TTtT
+26
+
+Page    54     -    PERSONNEL           ORDINANCE
+
+                                                        DEF -~F/IR               ik)
+                          (11)   willful        violation        of    the provisions        of    this
+                  Ordinance, including but not limited to:   Sections 83.010-
+                  83.100; Sections 84.310-84.320; Section 86.320; Section
+                  87.110(2); Section 88.320; and Section 89.010.
+ WH
+
+                  89.230.        TYPES      OF DISCIPLINARY ACTION.                 For a cause           specified
+ fe
+
+       in Section           89.220,       a department           head may initiate           and appointing
+ Oo
+
+       authority          may     impose:        suspension,           with   or without      pay;     demotion;
+ fod
+
+       reduction           in salary;          or dismissal           from the County        service.         In no event
+ won
+
+       shall the           investigative          suspension provided in Section                      88.115       be con-
+
+       sidered disciplinary                    action.
+ po
+
+10                89.240.        SUSPENSION.             No regular       full-time     employee who has
+
+11     completed          his probationary period                     shall be suspended without               furnishing
+
+12     to him a written                 statement of cause.
+
+13                89.250.        DEMOTION.         No     regular       full-time     employee        shall    be
+
+14     demoted       unless        he    has    been     furnished       with   a written         statement        of
+
+15     cause.        A copy        of which       shall     be    furnished       to the     County       Court,
+
+16     which copy           shall       contain the appointing                authority's         certification
+
+17     that       the employee           is eligible        for employment          in the lower class
+
+18     and that the              action will not cause a person in the classified                                  ser-
+
+19     vice to be           laid    off.
+
+20                89.260.        SALARY        REDUCTION.         No    regular     full-time        employee       who
+
+21     has completed             his probationary            period       shall be reduced            in salary
+
+22     for disciplinary                 reasons unless           he has been        furnished with a written
+
+23     statement           of the reasons           for such action,
+
+24                89.270.        DISMISSAL.            No regular        full-time     employee        who    has       cam
+
+25     pleted       his     probationary          period     shall       be   dismissed      from     the    County
+
+26     service       unless        he has been first              served with a written               statement of
+
+Page   55     ~     PERSONNEL            ORDINANCE
+
+                                                                 DPEIF - 0793         (ty)
+         cause and a copy            thereof has been                filed with the County             Court,          and when
+
+         applicable         the    provisions        of     Section      88.240    have    been      followed.
+  PB
+
+                  89.280.         COUNTY COURT HEARING.                  As to any person not included
+  WO
+
+        within      the classified            service,        action pursuant            to Sections          89.250,
+  FBP
+
+         89.260 and 89.270 may be appealed to the County Court                                       for hearing.
+  ox
+
+         Provided,        that written         request        for      such hearing       is   filed with          the
+  on
+
+         County Clerk no more                than ten        (10)      days after       such action would other-
+  won
+
+        wise become          effective.            The County Court shall                forthwith         schedule        a
+
+         hearing     to     consider        such    appeal       and    shall    cause    notice      thereof          to be
+  pw
+
+         served     upon     the    employee,        the     appointing         authority,      and the          District
+  ©
+
+        Attorney.
+   -&
+i
+
+                  89.290.         HEARINGS     PROCEDURE.              All hearings       held pursuant            to
+no
+
+ 13      Section     89.280        shall be conducted                informally     and unless         the employee
+
+14       requests     otherwise,            in private.           The    requesting       employee         may    appear       in
+
+15       person     and     by    counsel     or employee            representative.           The    District          Attorney
+
+16       shall     appear and advise               the County Court.              The department head shall
+
+17       appear     and offer        evidence        in support of his action.                    Any such hearing
+
+18       may   be postponed          from time         to    time      for the    convenience         of    the    Court       and
+
+19       parties.         The     County     Court may        submit      the    question      presented          to    a fact
+
+20       finding     referee,        mediator,         conciliator or arbitrator.                     The County Court
+
+21       shall,     in writing,        adopt or reject                 the report of any          fact       finding
+
+22      referee,      mediator,        conciliator            or arbitrator;            reversing      or,       with    the
+
+23       appointing         authority's        approval,          modifying       the    action      taken;       or
+
+24       sustaining         the    action     taken.        As      to all   persons      other      than     those      within
+
+25       the classified            service,        the County Court's decision                  shall be          final.
+
+26       Ltt
+Page      56     - PERSONNEL           ORDINANCE
+
+                                                             ‘P&E       ~O192           (lr)
+                    89.310.               REPRESENTATIVE             ELECTION     PROCEDURE.       When       the         County
+
+           Court       receives            a candidate's             petition     for employee      representative,
+   BO
+
+           conforming               to Section          87.140,       including within the Bargaining                           Unit
+   }O
+
+           only persons                  who are not employed within the classified                            service,            the
+   BP
+
+           County Court                  shall without undue delay conduct a representative
+   ot
+
+           election.
+   DOD
+
+                    89.320.               NOTICE OF ELECTION.                 The County Court          shall provide
+   nN
+
+           notice        of the election to employees within the Bargaining                                          Unit and
+   wo
+
+           to the appointing                     authorities          affected at least         fifteen            (15)     calendar
+   Ho
+
+           days    in advance               of the election.                 The notice    shall    include               the date
+CUD
+  —
+
+           when the election                     is to be held.
+SPhUmreE
+       —
+
+                       89.330.            ADDITIONAL          CANDIDATES.         The County Court will place
+_
+
+           the    names            of    additional       candidates          for representative             on the         election
+BO
+—_
+
+           ballot            if:
+Be
+—
+
+                                   (1)    such request          is received in writing             at least               five
+an
+—
+
+                       (5)     calendar          days in advance of the election;
+                                 (2) the         request shows acceptable evidence                      of    at     least
+ODO
+—
+
+                   ten  (10) percent representation within the Unit; and
+                          (3) the request otherwise complies with the provisions
+NY
+—
+
+                   of Section 87.140.
+ OBO
+_—
+
+                       89.340.            ELIGIBLE VOTERS.              Persons within the Bargaining Unit
+   Oo
+
+           who will be eligible                        to vote will be those regularly                   employed within
+DOD
+no
+
+           the County               service within the Bargaining Unit,                        and excluding                those
+KF
+no
+
+           employees               described       in Section          87.130     and on a pay status                30 calendar
+HBO
+no
+
+           days     prior           to the       date    of    the    election.      A roster      of    such        employees
+ BO
+no
+ F&F
+
+           will    be posted               by    the    County       Court    and copies    thereto          shall         be    fur-
+Bb
+
+           nished            to the affected             appointing          authorities    and to the candidates
+ on
+no
+
+           on the ballot                  five    (5)    days before          the election.
+aA
+dS
+
+Page        57     -         PERSONNEL            ORDINANCE
+
+                                                                       PIF -O792            (uy)
+                            89.350.         SUPERVISION           OF    ELECTION.            ‘The County        Court       shall      super-
+ &
+
+            vise        all     elections              held hereunder           and voting shall be by secret ballot
+ HN
+
+            and shall permit                       an opportunity             to vote        for any one of the candidates
+ WO
+
+            on    the         ballot,        or     for    no    representative.               The     District        Attorney         and
+ FR
+
+            parties            to     the    election may              be present        as observers during                     the election
+ aH
+
+            and at the                counting          of ballots.
+ D
+
+                            89.360.         REPORT OF ELECTION.                  The results of the election                           shall
+ oN
+
+            be reported                to    the       appointing         authorities          affected         and    to the         candi-
+
+            dates            listed       on the ballot.
+ wo
+
+                            89.370.         IMPROPER          ELECTION        PRACTICES.         Any     charge        of    improper
+_
+      ©
+
+            election            practices,              in violation of              Section         87.110,     must       be    filed       |
+      -_-
+>
+
+            with        the     County        Court        not     later      than     ten    (10)     calendar        days       following
+—_—
+  no
+
+ 13         the        date     of     the    election.             The      person,     persons,        candidates              or
+
+ 14         organizations,                   so charged will be given an opportunity                                   to answer
+
+ 15         the charges.                    If the County Court                 finds that improper                   election
+
+ 16         practices               were used,            it may invalidate              the election            and it may order
+
+ 17         a new election.
+
+ 18                     89.610.             AMENDMENTS           TO ORDINANCE,               Amendments         to this Ordinance
+
+ 19         may        be     adopted        at    any     regularly          scheduled        meeting         of the       County      Court
+
+ 20         and shall               be effective              immediately        upon adoption or upon                      such      later
+
+ 21         date as the amendment may                             specify.
+
+ 22                     This        Ordinance           being     necessary          for the     immediate            preservation
+
+ 23         of    the        public         peace,        health       and    safety,        an emergency         is declared
+
+ 24         to exist,               and     this       Ordinance        takes    effect March            16,     1988.
+
+25                      Regularly            passed        and adopted          by unanimous            vote of all members                   of
+
+26          the County               Court        of    the     County       of Wasco,        State     of     Oregon,       present      on
+
+Page        58     -        PERSONNEL              ORDINANCE
+
+                                                                          PEE O79                      (Uy)
+       this         day.
+
+                    DONE    AND      DATED        this   16th   day   of March,   1988.
+BH
+
+                                                                        WASCO COUNTY      COURT
+WO
+
+                                                                                  psn Ales
+ff
+oo
+
+                                                                           Lvk...Judge
+A
+ony
+K=)
+
+                                                                        Scott ‘MeRay,     County Commissioner
+10
+11     APP                 AS   TO    FORM:
+
+12     aa)
+       Bernard L. Smith                       ~
+13     Wasco County District Attorney
+
+14
+15     hon OK                                AG
+               en LeBréton
+16     Wasco        County        Clerk
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+Page    59      ~    PERSONNEL            ORDINANCE
+
+                                                                 PEL - 0773             (1)
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 96.6% of
+the word sequence, and on 21.6% of the figures. Dictionary-recognizable words: 95.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

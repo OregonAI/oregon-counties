@@ -1,0 +1,1455 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-exception-area-zoning-amendment-12-15-2004
+title: 'Exception Area Zoning Amendment 12-15-2004'
+doc_type: ordinance
+citation: 'Exception Area Zoning Amendment 12-15-2004'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2004/Exception%20Area%20Zoning%20Amendment%2012-15-2004.pdf?t=202503260855390
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1be2088cdfa0d82d0aaacf332d44060448828c55a33c57c48a50e7a9274d0391
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.990; figure agreement 0.643; dictionary ratio 0.966. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.247
+    - ORS 215.283
+    - ORS 215.427
+    - ORS 446.003
+    - OAR 660-004-0005
+    - OAR 660-004-0018
+    - OAR 660-033-0130
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Exception Area Zoning Amendment 12-15-2004 (Exception Area Zoning Amendment 12-15-2004)
+
+## At a glance
+
+OCR-derived text of Exception Area Zoning Amendment 12-15-2004. Not human-verified.
+
+## Full text
+
+FILED
+                                                                                                    WASCO COUNTY
+                            IN THE COUNTY COURT OF THE STATE OF OREGON
+                                                                                                   2004 DEC ib A & 50
+                                       IN AND FOR THE COUNTY OF WASCO
+                                                                                                           ON COATS
+                                                                                              CAREN LEBRETCLER
+                                                                                             ARE      OURTY    K
+     IN THE MATTER OF THE WASCO COUNTY                                      )
+     PLANNING COMMISSION’S RECOMMENDATION TO                                )
+     APPROVE THE PROPOSED ZONING TEXT AND MAP                               _)
+     AMENDMENTS TO BRING WASCO COUNTY                                       )
+     EXCEPTION AREA ZONING INTO COMPLIANCE                                  ) ORDINANCE
+     WITH OREGON LAND USE GOAL 14. (FILE                                    )
+     NUMBERS LUA-04-104 AND ZNC-04-103/REC-04-102)                          )
+
+             NOW     ON THIS DAY, the above-entitied matter having come on regularly for consideration,
+
+     said day being one duly set in term for the transaction of public business and a majority of the
+
+     Court being present; and
+
+             IT   APPEARING       TO    THE    COURT:          That    pursuant   to   the         Land   Conservation      and
+
+     Development Commission Periodic Review Task Number #7 for Wasco County, Wasco County's
+
+     Zoning Ordinances and Map are not consistent with State Land Use Goal 14 and are required to
+
+     be   updated;   and   pursuant    to   Measure     56,    Wasco     County    sent      notification    to   all   affected
+
+     landowners on October 12, 2004; and
+
+10
+
+11           IT FURTHER APPEARING TO THE COURT:                        That on Friday, November 5, 2004, the
+
+12   Wasco County Planning Commission postponed the hearing due to the lack of a quorum and
+
+13   rescheduled the hearing for Tuesday, November 16, 2004; and
+
+14
+
+15           IT FURTHER       APPEARING        TO     THE     COMMISSION:         That on Tuesday,            November       16,
+
+16   2004, the Wasco County Planning Commission met to conduct a legally notified public hearing on
+
+17   the above matter.     Following receipt and review of evidence, the Commission deliberated and, ona
+     Ordinance #ORD-04-103 (Goal 14-LUA-04-104/ZNC-04-103/REC-04-102)
+
+                                                                 SPgoot¢- 0 ¥32                                   (32)
+     December 15, 2004
+     vote of 5 to 0, voted to recommend approval of the request by the Wasco County Planning Office,
+
+     for zoning text and map amendments to bring Wasco County's exception area into compliance with
+
+     Goal 14 via Recommendation 04-102; and
+
+                         IT FURTHER APPEARING              TO THE COURT:               That the Wasco County Planning
+
+     Commission recommends, to the Wasco County Court, approval of the request for zoning text and
+
+     map amendments to bring Wasco County's exception area into compliance with Oregon Land Use
+
+     Goal      14; and
+
+10               IT FURTHER      APPEARING       TO THE        COURT:       That the Wasco       County Court met at the
+
+11   hour of 11:00 a.m. on Wednesday,             December       8, 2004,        in the Wasco   County Courtroom,      Room
+
+12   202,      of the Wasco    County      Courthouse,    in The    Dalles,       Oregon,   to review   the Wasco     County
+
+13   Planning Commission’s           Recommendation       to approve the request by the Wasco               County Planning
+
+14   Office,     for zoning   text   and   map   amendments        to    bring    Wasco     County’s    exception   area   into
+
+16   compliance with Oregon           Land Use Goal      14.   The members           of the Court were determined to be
+
+16   qualified to hear the matter; and
+
+7
+
+18               IT FURTHER APPEARING            TO THE COURT:             That the Court reviewed the record, heard
+
+19   the Staff recommendation and all relevant comments from the parties.                       The Court considered the
+
+20   matter, and based upon the testimony presented, the Court, being fully apprised in the premises,
+
+21   voted 3 to 0 to approve the request by the Wasco                   County Planning Department, for zoning text
+
+22   and    map     amendments       to bring Wasco      County’s exception          area into compliance       with Oregon
+23   Land Use Goal 14, as laid out in Attachment A; and
+
+24
+
+     Ordinance #ORD-04-103 (Goal 14-LUA-04-104/ZNC-04-103/REC-04-1 02)
+
+     December 15, 2004
+
+                                                                   Loc                - 0132 (32.)
+  1              NOW THEREFORE      IT IS HEREBY ORDERED:             That the request by the Wasco County
+
+  2   ‘Planning Office, for zoning text and map amendments       to bring Wasco        County's exception area
+
+  3   into compliance with Oregon Land Use Goal 14 is approved.
+
+  4
+  5              SIGNED this 15th day of December, 2004
+  6
+  7                                                          WASCE27       COUN        OURT
+  8                                                                    !           ;        ,]
+  9                                                                  Qu      As [oy              a
+10                                                           Dan Ericksen\ Judge”
+11.   Approved as to Form:                                                                 VA
+12           ;                                                                                    Myf,aff 4
+13      L.             ‘                                          {               mi
+
+154&                                                                  40)ONY Ac lidLO
+16    EricJ. Nisley                                          Sherry Holliday, Commissioner           \
+17    Wasco County District Attorney
+
+      P:\County Court\Order\2004\Ordinance Goal 14 update.doc
+
+      Ordinance #ORD-04-103 (Goal 14-LUA-04-104/ZNC-04-103/REC-04-102)
+
+                                                                      Pnovf-0 432. C32)
+      December 15, 2004
+                                                                            exhibit “A-|"
+
+RECOMMENDED                   FINDINGS
+Findings to support Planning Commission Recommendation to County Court for
+adoption of ordinance and comprehensive plan & zoning map amendments required
+under periodic review to implement Goal 14
+
+ Wasco County                                                                Page 1 of 14
+ Recommended Findings
+ Supporting Adoption of Goal 14 amendments required under Periodic Review
+
+                                                       P4004 0432 C32.)
+RECOMMENDED            FINDINGS
+
+Findings to support adoption of Ordinance Language necessary to ensure rural uses are
+permitted outside Urban Growth Boundaries and Unincorporated Communities
+
+Purpose
+The purpose of these findings is to support recommendation by the Planning Commission
+and adoption by the County Court of amendments to the County’s Land Use and
+Development Ordinance (LUDO) necessary to: 1) bring rural residential zones into
+compliance with Division 4 language implementing Goal 14; 2) bring rural industrial
+zoning into compliance with precepts of the Curry County case using unincorporated
+community limits on permissible industrial uses as a guideline for limitations on rural
+industrial uses outside an unincorporated community boundary; 3) bring rural
+commercial zoning into compliance with precepts of the Curry County case using
+unincorporated community limits on permissible commercial uses as a guideline for
+limitations on rural commercial uses outside an unincorporated community boundary; 4)
+bring the AR zone into compliance with Division 4 and precepts of the Curry County
+case related to commercial uses allowed in the zone; and 5) amend the zoning and
+comprehensive plan map as necessary to implement the new zones effectively.
+
+Procedural Background
+Goal 14 ordinance amendments were originally presented in October 2004. The concept
+of simplification of land use zoning combined with the explicit application of limits to
+ensure that permissible development is allowed to occur only to an extent that is rural in
+nature was presented to Planning Commission and County Court members along with
+members of the public. Comments were received and requests for information taken.
+Recommended amendments and findings represent the original proposal as amended to
+address input received at and since the workshop. This hearing has been noticed as a new
+hearing, however, the documents and slide show presented at the workshop are
+incorporated by reference and have been relied upon to prepare the current proposal.
+
+Compliance with Goal 14
+
+Rule Citation:
+
+        660-004-0040
+
+       Application of Goal 14 (Urbanization) to Rural Residential Areas
+
+Wasco County
+                                                                                 Page
+                                                                                   2 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under ob   Review
+
+                                                          Avof-O¥3>-C 32.)
+        (1) The purpose of this rule is to specify how Statewide Planning Goal 14,
+        Urbanization, applies to rural lands in acknowledged exception areas planned for
+        residential uses.
+
+        (2)(a@) This rule applies to lands that are not within an urban growth boundary,
+        that are planned and zoned primarily for residential uses, and for which an
+        exception to Statewide Planning Goal 3, (Agricultural Lands), Goal 4 (Forest
+        Lands), or both has been taken. Such lands are referred to in this rule as rural
+        residential areas.
+
+        (b) Sections (1) to (8) of this rule do not apply to the creation of a lot or parcel, or
+        to the development or use of one single-family home on such lot or parcel, where
+        the application for partition or subdivision was filed with the local government
+        and deemed to be complete in accordance with ORS 215.427(3) before the
+        effective date of Sections (1) to (8) of this rule.
+
+        (c) This rule does not apply to types of land listed in (A) through (H) ofthis
+        subsection:
+
+        (A) land inside an acknowledged urban growth boundary;
+
+        (B) land inside an acknowledged unincorporated community boundary
+        established pursuant to OAR Chapter 660, Division 022,
+
+        (C) land in an acknowledged urban reserve area established pursuant to OAR
+        Chapter 660, Division 021;
+
+        (D) land in an acknowledged destination resort established pursuant to
+        applicable land use statutes and goals;
+
+        (E) resource land, as defined in OAR 660-004-0005(2);
+
+        (F) nonresource land, as defined in OAR 660-004-0005(3);
+
+        (G) marginal land, as defined in ORS 197.247, 1991 Edition;
+
+        (FH) land planned and zoned primarily for rural industrial, commercial, or public
+        use.
+
+Findings & Conclusion:
+The County is applying the requirements of the appropriate Oregon Administrative Rule
+to appropriate rural exception areas.
+
+Wasco County                                                                        Page 3 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under ws)   Review
+
+                                                               004-0 32. (32)
+The proposed ordinance amendments protect development rights on existing legal lots,
+for existing legal uses, and permissible uses in existing legal structures. Residential zone
+changes are proposed to apply only to exception areas (non agricultural, non forest)
+outside Urban Growth Boundaries or Unincorporated Community Boundaries. The
+County has no urban reserve, marginal lands, or destination resorts nor does it have an
+adopted program for creating such areas. No Non resource land zones in the County
+(Seven Mile Hill) are impacted by the proposed rezone. None of the non. resource lands in
+the County allow residential parcel sizes less than 2 acres and zones applied in the non
+resource land areas would be found to comply with Division 4 limits if they were directly
+applied. Any additional communities or service centers that can qualify as an
+unincorporated community may plan for residential densities in accordance with the rural
+communities rule. This will require full consideration of existing community facilities
+and community facilities plans. Rural industrial and rural commercial zones will be
+limited in accordance with guidance provided by the rural communities rule discussed at
+the end of this document.
+
+Rule Citation:
+660-004-0040
+
+        (7)(a) The creation of any new lot or parcel smaller than two acres ina rural
+        residential area shall be considered an urban use. Such a lot or parcel may be
+        created only if an exception to Goal 14 is taken. This subsection shall not be
+        construed to imply that creation of new lots or parcels two acres or larger always
+        complies with Goal 14. The question of whether the creation of such lots or
+        parcels complies with Goal 14 depends upon compliance with all provisions of
+        this rule.
+
+        (b) Each local government must specify a minimum area for any new lot or parcel
+        that is to be created in a rural residential area. For the purposes of this rule, that
+        minimum area shall be referred to as the minimum lot size,
+
+        (c) If, on the effective date of this rule, a local government's land use regulations
+        specify a minimum lot size of two acres or more, the area of. any new lot or parcel
+        shall equal or exceed that minimum lot size which is already in effect.
+
+        (d) If, on the effective date of this rule, a local government's land use regulations
+        specify a minimum lot size smaller than two acres, the area of any new lot or
+        parcel created shall equal or exceed two acres.
+
+Findings & Conclusion:
+The proposed rural residential zone and agricultural residential zone comply with
+                                                                                        the
+limits on lot size for residential zones that pre existed the effective date of Division
+                                                                                           4
+residential zoning limits.
+
+Wasco County
+                                                                                      Page 4 of 14
+Recommended Findings
+
+                                                                           Prov 0432-032.»
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+The proposed RR — 2 zone consolidates pre existing residential zones allowing for
+minimum lot sizes less than 2 acres into a single rural residential zone that specifies a
+minimum lot size of 2 acres for any new parcels.        This zone is not intended for
+application in new exception areas but is proposed to be applied to all existing residential
+zones with minimum lot sizes less than 2 acres. The County’s RR-5 zone applies only in
+non resource land areas but is determined to include a rural density and rural lot size
+based on the guidance provided by Division 4.
+
+Changes proposed to apply to the agricultural residential zone will limit minimum lot size
+to 2 acres until such time as the area is included within an unincorporated community
+boundary.
+
+Rule Citation:
+660-004-0040 (7)
+
+         (e) A local government may authorize a planned unit development (PUD), specify
+         the size of lots or parcels by averaging density across a parent parcel, or allow
+         clustering of new dwellings in a rural residential area only if all conditions set
+        forth in paragraphs (7)(e)(A) through (7)(e)(H) are met:
+
+        (A) The number of new dwelling units to be clustered or developed as a PUD does
+        not exceed 10.
+
+        (B) The number of new lots or parcels to be created does not exceed 10,
+
+        (C) None of the new lots or parcels will be smaller than two acres.
+
+        (D) The development is not to be served by a new community sewer system.
+
+         (E) The development is not to be served by any new extension of a sewer system
+        from within an urban growth boundary or from within an unincorporated
+        community.
+
+        (F) The overall density of the development will not exceed one dwelling for each
+        unit of acreage specified in the local government's land use regulations on the
+        effective date of this rule as the minimum lot size for the area.
+
+         (G) Any group or cluster of two or more dwelling units will not force a significant
+         change in accepted farm or forest practices on nearby lands devoted to farm or
+        forest use and will not significantly increase the cost of accepted farm or forest
+        practices there.
+
+Wasco County                                                                            Page 5 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+
+                                                                           Lyo0/-0¥3a.(30.)
+         (H) For any open space or common area provided as a part of the cluster or
+        Planned unit development under this subsection, the owner shall submit proof of
+        nonrevocable deed restrictions recorded in the deed records. The deed
+        restrictions shall preclude all future rights to construct a dwelling on the lot,
+        parcel, or tract designated as open space or common area for as long as the lot,
+        parcel, or tract remains outside an urban growth boundary.
+
+        () Except as provided in subsection (e) of this section, a local government shall
+        not allow more than one permanent single-family dwelling to be placed on a lot
+        or parcel in a rural residential area. Where a medical hardship creates a need for
+        a@ second household to reside temporarily on a lot or parcel where one dwelling
+        already exists, a local government may authorize the temporary placement of a
+        manufactured dwelling or recreational vehicle.
+
+        (g) In rural residential areas, the establishment of a new mobile home park or
+        manufactured dwelling park as defined in ORS 446.003(32) shall be considered
+        an urban use if the density of manufactured dwellings in the park exceeds the
+        density for residential development set by this rule's requirements for minimum
+        lot and parcel sizes. Such a park may be established only if an exception to Goal
+        14 is taken.
+
+        (h) A local government may allow the creation of a new parcel or parcels smaller
+        than a minimum lot size required under subsections (a) through (d) of this section
+        without an exception to Goal 14 only if the conditions described in paragraphs
+        (A) through (D) of this subsection exist;
+
+        (A) The parcel to be divided has two or more permanent habitable dwellings on
+        it;
+
+        (B) The permanent habitable dwellings on the parcel to be divided were
+        established there before the effective date of this rule;
+
+        (C) Each new parcel created by the partition would have at least one of those
+        permanent habitable dwellings on it; and
+
+        (D) The partition would not create any vacant parcels on which a new dwelling
+        could be established.
+
+        (E) For purposes of this rule, "habitable dwelling" means a dwelling that meets
+        the criteria set forth in ORS 215.283(t)(A)-(1)(D).
+
+Wasco County                                                                     Page 6 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+                                                                           LAv0Y-0 $3 a(32>)
+Findings & Conclusion:
+The proposed Rural Residential 2 Acre Zone (RR-2), and Agricultural Recreation Zone
+as amended, comply with rural residential use limits in addition to minimum lot size
+requirements.
+
+Planned Unit Development standards are applied unless the land is brought into an
+unincorporated community boundary. The number of dwellings per lot is limited to one,
+mobile or manufactured home parks are allowed only subject to applicable limits to
+density, and minimum lot sizes for land divisions where both parcels include an existing
+legal habitable dwelling that existed prior to the effective date of Division 4 — 0040 are
+set.
+
+Rule Citation:
+660-004-0040 (7)
+
+        i) For rural residential areas designated after the effective date of this rule, the
+        affected county shall either:
+
+        (A) Require that any new lot or parcel have an area of at least ten acres, or
+
+        (B) Establish a minimum size of at least two acres for new lots or parcels in
+        accordance with the requirements for an exception to Goal 14 in OAR 660,
+        Division 014. The minimum lot size adopted by the county shall be consistent with
+        OAR 660-004-0018, "Planning and Zoning for Exception Areas."
+
+Findings & Conclusion:
+The County has an FF-10 and RR-10 zone. The most appropriate of these zones can be
+applied to new Goal 3 or Goal 4 exception areas. If a Goal 14 exception is successfully
+sought the RR-5 or RR-2 zones could potentially be applied though they are not primarily
+intended for application to new exception areas in Wasco County. The majority of the
+land base zoned RR-10 or FF-10 currently exists in non resource areas of the County.
+These zones are determined to be rural based on guidance provided by Division 4.
+
+Rule Citation:
+
+660-022-0030
+
+Planning and Zoning of Unincorporated Communities
+
+         (3) County plans and land use regulations may authorize only the following new
+        or expanded industrial uses in unincorporated communities:
+
+Wasco County                                                                        Page 7 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review Jp.
+
+                                                                           4004-0432 32»
+        (a) Uses authorized under Goals 3 and 4,
+
+        (b) Expansion of a use existing on the date of this rule;
+
+        (c) Small-scale, low impact uses;
+
+        (d) Uses that require proximity to rural resource, as defined in OAR 660-004-
+        0022(3)(a),
+
+        (e) New uses that will not exceed the capacity of water and sewer service
+        available to the site on the effective date of this rule, or, if such services are not
+        available to the site, the capacity of the site itself to provide water and absorb
+        sewage;
+
+        (11) For purposes of subsection (c) of section (3) of this rule, a small-scale, low
+        impact industrial use is one which takes place in an urban unincorporated
+        community in a building or buildings not exceeding 60,000 square feet of floor
+        space, or in any other type of unincorporated community in a building or
+        buildings not exceeding 40,000 square feet of floor space.
+
+Findings & Conclusion:
+
+The proposed Rural Industrial Zone limits permissible uses in accordance with guidance
+provided by Division 22 Unincorporated Communities.
+
+The Rural Industrial Zone applies a limitation on floor area that is less than that provided
+for inside an unincorporated community boundary (35,000 vs. 40,000). Though the
+unincorporated community rule is not directly applicable, this type of limitation has been
+found to be consistent with LCDC policy in the past and is the recommended approach
+by DLCD staff. The proposed Rural Industrial Zone also requires that permitted uses not
+require extension of urban services from within an urban growth boundary or community
+services from within an unincorporated community.
+
+Rule Citation:
+
+660-022-0030
+
+Planning and Zoning of Unincorporated Communities
+
+        (4) County plans and land use regulations may authorize only the following new
+        commercial uses in unincorporated communities:
+
+        (a) Uses authorized under Goals 3 and 4;
+
+Wasco County                                                                         Page 8 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+                                                                           4400-0 Y32-(32)
+        (b) Small-scale, low impact uses;
+
+        (c) Uses intended to serve the community and surrounding rural area or the
+        travel needs of people passing through the area.
+
+        (5) County plans and land use regulations may authorize hotels and motels in
+        unincorporated communities only if served by a community sewer system and only
+        as provided in subsections (a) through (c) of this section:
+
+        (a) Any number of new motel and hotel units may be allowed in resort
+        communities;
+
+        (b) New motels and hotels up to 35 units may be allowed in an urban
+        unincorporated community, rural service center, or rural community if the
+        unincorporated community is at least 10 miles from the urban growth boundary of
+        any city adjacent to Interstate Highway 5, regardless of its proximity to any other
+        UGB;
+
+        (c) New motels and hotels up to 100 units may be allowed in any urban
+        unincorporated community that is at least 10 mile from any urban growth
+        boundary.
+
+        (10) For purposes of subsection (b) of section (4) of this rule, a small-scale, low
+        impact commercial use is one which takes place in an urban unincorporated
+        community in a building or building not exceeding 8,000 square feet of floor
+        Space, or in any other type of unincorporated community in a building or
+        buildings not exceeding 4, 000 square feet of floor space,
+
+Findings & Conclusion:
+
+The proposed Rural Commercial Zone and Agricultural Recreational Zone, as amended,
+limit permissible uses in accordance with guidance provided by Division 22
+Unincorporated Communities.
+
+The Rural Commercial and Agricultural Recreational Zones apply a limitation on floor
+area that is less than that provided for inside an unincorporated community boundary
+(3,500 vs. 4,000 sq.ft.). Though the unincorporated community rule is not directly
+applicable, this type of limitation has been found to be consistent with LCDC policy in
+the past and is the recommended approach by DLCD staff. The proposed Rural
+Commercial Zone also requires that permitted uses not require extension of urban
+services from within an urban growth boundary or community services from within an
+unincorporated community.
+
+Wasco County                                                                      Page9 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+
+                                                                           {4004-0 Zral32,)
+It is also important to note that the Agricultural Recreation Zone continues to allow Dude
+Ranches and hunting and fishing lodges along with Youth/family camps. These uses have
+been determined to fall short of a purely commercial definition and to differ significantly
+from a hotel or motel use.     For the following reasons neither the 3,500 sq. ft. limit nor the
+35 unit limitation are applied:
+
+The sleeping facilities in a ranch, lodge, or camp are typically dormitory style and the
+facilities are not set up to accommodate overnight guests as much as they are to house
+campers who will typically eat and sleep in the same establishment while recreating in
+the rural atmosphere. These camps, lodges, or ranches must be located in a rural setting
+to feasibly draw campers to the locations and the campers typically stay for a number of
+days. Employees may be housed at the site and may stay for a number of weeks or
+months. This distinction is critical and must be allowed to provide valuable economic
+diversification and increased exposure to rural areas for individuals living in more urban
+areas.     Like all uses allowed in the Agricultural Recreation Zone, these uses will not be
+allowed to be created or expand in a manner that exceeds the demonstrated carrying
+capacity of available services (including transportation, water, and sewer or septic
+systems). The existing definition of youth and family camp distinguishes this use from
+that ofa hotel. The camp facilities are more self contained and are not set up to handle or
+located to draw and profit primarily form overnight guests. The Definition of Dude
+Ranch further clarifies the distinction by stating that an establishment offering overnight
+accommodation not in conjunction with recreational activities shall be deemed a hotel or
+campground.
+
+Compliance with Other Goals
+
+Goal 1 — Citizen Involvement
+      Goal 1 has been complied with by public notice and a public work session. The public
+      work shop with the Planning Commissioners, and County Court members present,
+      occurred prior to opening hearings and provided an opportunity to provide input and
+      ask questions or request additional information prior to initiation of the hearing
+      process. The public work session also provided the opportunity for word of mouth
+      news to travel through affected areas and comments and questions provided over the
+      phone following the work session have been addressed as well as possible either over
+      the phone on in this proposal.
+
+Goal 2 — Land Use Planning
+An adequate factual base for land use decision making has been assured in this process
+by:
+      1)   Applicable state laws were identified early on in the process,
+
+Wasco County
+                                                                                    Page 10 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+                                                                            ADOY- DFS -(32.)
+    2)   Related state laws that provide guidance as to the likely interpretation of the case
+         law in this matter were also identified and considered,
+    3)   All county exception areas were identified and the zoning of the various areas was
+         considered for compliance with applicable state laws,
+    4)   Distinctions, or the lack thereof, between various residential, commercial and
+         industrial zones (once brought into compliance with state law) were considered
+         and a simplified range of land use zones is recommended,
+    5)   Appropriate zone changes were identified based on existing zoning in most cases
+         and existing uses in limited cases where existing zoning alone does not provide
+         sufficient guidance as to the most similar and applicable zone to be applied, and
+    6)   County zoning and comprehensive plan maps are amended to apply the new
+         consolidated or amended zoning designations.
+
+Work session review of the proposal also generated the question of what uses can best be
+accommodated on smaller rural residential parcels. The table below provides a
+comparison of uses, lot dimensions and set backs between several rural residential zones
+that is considered when recommending uses for the RR-2 Zone:
+
+Summary Table - Residential Uses, Dimensions and Set Backs
+
+Wasco County
+                                                                                  Page 11 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments fequired under Periodic Review
+
+                                                                           Booy- 03232)
+                                                                                                  (
+                  FF-10                         RR-10                      RR-5                        RR-2                        R-1
+Permitted         Farm Use                      Farm Use                   Farm Use, provided      Farm Use, provided              Home Occupation
+                  Forest Use                    Forest Use                 animals kept safe and | animals kept safe and
+                  Public utilities              Public Utilities           sanitary                sanitary
+                  Conservation areas            Conservation areas         Forest Use                  Forest Use
+                  Energy Facilities Ch-19       Energy facilities Ch-19    Ag Produce Stands           Ag Produce Stands
+                  Ag Produce Stand              Ag Produce Stand           Home Occupation             Home Occupation
+                  Horses for profit             Horses for profit          Cemetery                    Cemetery
+                                                                           Public Energy
+                                                                           Facilities
+
+Conditional       Commercial activities w/    | Commercial activities w/   Pub and semi pub            Pub and semi pub            Hospital/school
+Uses              farm use                      farm use                   bidgs                       bldgs                       Parks
+                  Aggregate                     Aggregate                  Private schools             Private schools             Pub and semi public
+                  Parks                         Parks                      Parks                       Parks                       bidgs
+                  Home Occupations              Home Occupations           Golf courses                Golf courses                Golf courses
+                  Energy Facilities Ch- 19      Energy Facilities Ch- 19   Temporary office for      | Temporary office for | Public utility facilities
+                  PU Airports                   PU Airports                sale of lots                sale of lots           B&B
+                  Schools                       Schools                    PU Airports                 Mobile home parks
+                  Churches                      Churches                   Mobile home parks           RY parks
+                  Aquatic species               Aquatic species            RV parks                    Public utility facilities
+                  Solid waste disposal site   | Kennels                    Aggregate                   B&B
+                  Sanitary Landfill                                        Kennels                     Dude ranches
+                  Kennels                                                  Energy facilities Ch-19
+                                                                           B&B
+                                                                           Dude ranches
+Width             330                           330                        300                         125                         100
+Set Backs
+          Front | 25                            25                         25                          2                           25
+           Side | 25                             25                        15                          15                          15
+           Rear | 40                            40                         20                          20                          20
+Fire Standards { Yes                            Yes                        Yes                         Yes                         None
+Scenic            None                          Yes                        None                        None                        None
+Development
+Standards
+
+Goal 3 - Agricultural Lands
+The proposal does not conflict with Goal 3. it does not promote new non-farm uses on
+farm lands nor does it limit accepted farm practices on EFU ground.
+
+Goal 4 — Forest Land
+The Goal 4 analysis with respect to forest lands is the same as that set forth under Goal 3
+with respect to farm lands.
+
+Goal 6 - Air, Land, and Water Resources
+Limitation of permissible uses to those of a rural nature and extent does not conflict with
+Goal 6 since these limitations do not promote additional development beyond the
+
+Wasco County                                                                                                     Page 12 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+
+                                                                                                  Bo0Y-0 £32 3>)
+                                                                                           f:
+carrying capacity of existing services and are, if anything, complementary to objectives
+of air, land, and water resource protection.
+
+Goal 7 — Areas Subject to Natural Disasters and Hazards.
+Implementation of Goal 7 is not impeded by this proposal. This proposal does not
+encourage additional structural development in natural hazard areas. If development
+were to be proposed in an identified hazard area applicable regulations would still be
+applied regardless of the rural nature of the proposed use.
+
+Goal 8 — Recreation Needs
+Providing for recreation needs is important to the Wasco County economy. Enjoyment of
+fish and wildlife and other rural resources is an integral part of outdoor recreational
+experience.    Goal 14 interests represented by this proposal and Goal 8 interests are
+compatible.
+
+Goal 9 — Economy of the State
+Preservation of rural areas contributes to Oregon’s economic sustainability, particularly
+in less populated areas of the state. The proposal will result in greater clarity regarding
+the range of potential rural uses. It will also help make sure the these uses can be served
+affordably.    No incompatibility exists between the current Goal 14 proposal and Goal 9
+interests.
+
+Goal 10 ~ Housing
+This goal is not impacted by this proposal. The overlays apply only outside the Urban
+Growth Boundaries (UGB) and under Goal 10 housing needs are to be addressed chiefly
+by measures taken inside the UGB.
+
+Goal 11 — Public Facilities
+The proposal does not encourage new development or promote demand for public
+facilities outside the UGB. The proposal is not inconsistent with Goal 11 and in fact is
+compatible with Goal 11 as Goal 11 and 14 are mutually supportive.
+
+Goal 12 — Transportation
+Goal 12 response with respect to transportation impacts is the same as that set forth under
+Goal 11 with respect to public facilities.
+
+Goal 13 - Energy Conservation
+Goal 13 response with respect to impacts on energy conservation is the same as that set
+forth under Goal 11 with respect to public facilities.
+
+Goal 15 —- 19
+Not applicable
+
+Wasco County                                                                     Page 13 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review   f:
+                                                                            AobYy- 0 32. (32)
+Ordinance Citation
+CHAPTER      9 ZONE     CHANGE      AND    ORDINANCE        AMENDMENT
+
+SECTION 9.020 Criteria for Decision
+
+       The Approving Authority may grant a zone change only if the following circumstances
+       are found to exist:
+
+       A, The original zoning was the product of a mistake; or
+
+       B. It is established that:
+
+        1, The rezoning will conform with the Comprehensive Plan, and,
+
+       2. The site is suitable to the proposed zone;
+        3. There has been a conscious consideration of the public health,
+          safety and welfare in applying the specific zoning regulations.
+
+Findings & Conclusion:
+Ordinance amendments as proposed bring existing zones into compliance with Goal 14 rules
+and case law. All zones as proposed are consistent with the Comprehensive Plan framework.
+No text amendment to the Comprehensive Plan is required. Zones applied are selected based
+on existing zoning and suitability of proposed zoning to existing and future uses.
+
+Wasco County                                                                    Page 14 of 14
+Recommended Findings
+Supporting Adoption of Goal 14 amendments required under Periodic Review
+                                                                            a064- 0432-C32)
+                                                                                       Exhbrk ” Ae 2"
+
+Chapter 3 - Wasco County Land Use and Development
+Ordinance
+Section 3.230 — “A-R” Agricultural-Recreational zone; December
+16, 2004
+SECTION 3.230 "A-R" AGRICULTURAL-RECREATIONAL ZONE
+A. Purpose
+       The purpose of the "A-R" Agricultural-Recreational zone is to provide areas for
+       outdoor recreation and to allow controlled growth to continue in existing rural
+       communities and rural exception areas. Buildings and structures hereafter
+       erected, structurally altered, enlarged or moved and land hereafter used in the
+       "A-R" Agricultural-Recreationa!l zone shall comply with the following regulations:
+B. Permitted Uses
+       In the “A-R" Agricultural-Recreational zone, the following uses and activities and
+       their accessory buildings and uses are permitted subject to the general
+       provisions and exceptions set forth by this Ordinance:
+             1.   One single-family dwelling on any legally created parcel, including mobile
+                  homes at least eighteen (18) feet wide, subject to Section 4.160, provided
+                  proper sanitation approval is obtained.
+             2.   Accessory structures customarily provided in conjunction with the primary
+                  use.
+             3.   Any new commercial service, or retail use, permissible in this zone that
+                  will be located entirely within an existing, lawfully erected commercial
+                  building or structure. (CONSISTENT WITH CHAPER 4)
+             4.   Farm use, provided animals and fowl are properly caged or housed and
+                  proper sanitation is maintained.
+             5.   Forest uses, including the propagation and harvesting of forest products.
+             6.   Dude ranches and hunting and fishing lodges, including overnight
+                  facilities in accordance with Chapter 20, Site Plan Review and
+                  demonstrated not to require service by a new community sewer or
+                  extension of an existing sewer system from within an urban growth
+                  boundary or from within an unincorporated community.
+             7.   Public parks, recreation areas, preserves and community or
+                  neighborhood centers in accordance with Chapter 20, Site Plan Review.
+             8.   Water supply and treatment facility.
+             9.   Sewage disposal and treatment facility.
+             10, Recreational vehicles provided such vehicles are not attached to the land
+                 and proper sanitation is maintained.
+             11. Recreational vehicle parks in accordance with Chapter 17, with a density
+                  that meets or exceeds the minimum lot size for the zone, and that is
+
+Chapter 3 Wasco County Land Use and Development Ordinance
+Section 3.230                                                                       Page 1 of 4
+
+                                                         PA 00-0 30 32>
+                demonstrated not to require service by       a new community sewer or
+                extension of an existing sewer system from within an urban growth
+                boundary or from within an unincorporated community..
+           12. Mobile home parks in accordance with Chapter 16 with a density that
+               meets or exceeds the minimum lot size for the zone, and that is
+                demonstrated not to require service by a new community sewer or
+                extension of an existing sewer system from within an urban growth
+                boundary or from within an unincorporated community..
+          13. Subdivisions.
+          14. Agricultural Produce Stand in accordance with Chapter 20, Site Plan
+                Review. (Revised 1-92)
+           15. Youth/family camp demonstrated not to require service by a new
+               community sewer or extension of an existing sewer system from within an
+                urban growth boundary or from within an unincorporated community.
+                (Added 9/97).
+           16. Guest house subject to standards in Section 4.170.
+
+Cc. Uses Permitted Conditionally
+       In the "A-R" Agricultural-Recreational zone, the following uses and activities and
+       their accessory buildings and uses are permitted when authorized by the
+       Approving Authority upon satisfactory demonstration of compliance with the
+       standards of this Ordinance as required in Chapter 5 and this section:
+           1.   Exploration, mining and processing of aggregate and other mineral
+                resources or other subsurface resources.
+          2.    Airports.
+          3.    Auditoriums, outdoor stages and entertainment areas.
+                Small scale low impact retail commercial uses provided the following
+                conditions are met:
+                    a.      the use is in conjunction with the development of a, Subdivision,
+                            Mobile Home Park or Recreational Vehicle Park,
+                    b.      the use is designed to serve the residents and their quests of the
+                         development, and
+                    c.   the Approving Authority may require that the applicant submit a
+                         market analysis demonstrating the need for the proposed
+                         commercial development.
+                Golf courses (except commercial driving ranges, miniature courses or
+                similar courses operated as a business).
+                Energy facilities and commercial energy facilities subject to the provisions
+                of Chapter 19.
+                Utility facilities necessary for public service.
+                Home Occupations, subject to Chapter 20. (added 2-89)
+
+Chapter 3 - Wasco County Land Use and Development Ordinance
+Section 3.230
+                                                                                    Page 2 of 4
+                                                  3004-0 $32( 32)
+            9.   Bed and breakfast inns. (added 2-89)
+D. Property Development Standards
+   1.   Property Size - Minimum parcel size for residential lots in the AR zone outside an
+        unincorporated community boundary is 2 acres with a minimum fot width of 150
+        feet. Other uses shall be located on parcels determined to be sufficient to
+        support the proposed use based on the amount of area required for proper
+        sanitation, off-street parking, maintenance of setbacks and compatibility with
+        adjacent uses.
+        Structure Size — A size limitation is applicable to all small scale low impact
+        commercial uses. The total cumulative floor area of a commercial structure or
+        structures, built to accommodate or support any of the commercial uses listed in
+        the AR zone, shall not exceed 3,500 square feet in an exception area zoned AR
+        Setbacks
+                     a.     Front Yard - No structure other than a fence or sign shalt be
+                            located closer than twenty-five (25) feet from the right-of-way of a
+                            Public road except where forty percent (40%) of the frontage is
+                            developed with buildings having front yards with a variation of not
+                            more than ten (10) feet in depth, the average of such depth shall
+                            establish the front yard depth of the entire frontage.
+                     b.     Side Yard - No structure other than a fence shall be located closer
+                            than seven (7) feet from side property lines for interior lots and ten
+                            (10) feet from exterior side property lines for corner building sites.
+                            {revised 2-89)
+                     c.     Rear Yard - No structure other than a fence shall be located closer
+                            than seven (7) feet from the rear yard property line, (revised 2-89)
+        Vision Clearance - Vision clearance on corner properties shall be a minimum of
+        thirty (30) feet.
+        Height - Maximum height for ail structures shall be thirty-five (35) feet. Height is
+        measured from average grade.
+        Stream or Lake Setbacks - All structures, or similar permanent fixtures (except
+        hydroelectric facilities and docks) shall be set back from the high water line or
+        mark along all streams or lakes a minimum distance of fifty (50) feet when
+        measured horizontally at a right angle.
+        Signs - Signs shall not extend over a public right-of-way or project beyond the
+        property line.
+           a.    Signs shall not be illuminated or capable of movement.
+           b.    Signs shall be'limited to twelve (12) square feet in area and shall describe
+                 only uses permitted and conducted on the property which the sign is
+                 located.
+           c.    Signs advertising the sale or rental of the premise and temporary in
+                 nature are permitted provided the sign is erected no closer than ten (10)
+                 feet from the right-of-way of public road.
+   8.   Parking - Off street parking shall be provided in accordance with
+                                                                          Chapter 4.
+
+Chapter 3 - Wasco County Land Use and Development Ordinance
+Section 3.230
+                                                                                      Page 3 of 4
+
+                                                foo               ¢3 aC 32)
+   9.   Lighting - Outdoor lighting shall be sited, limited in intensity, shielded and hooded
+        in a manner that prevents the lighting from projecting onto adjacent properties,
+        roadways and waterways. The exterior of shielding and hooding materials shall
+        be composed of non_reflective, opaque materials.
+   10. New Driveways: All new driveways which access a public road shall obtain a
+       Road Approach Permit from the Wasco County Public Works Department.
+
+Chapter 3 - Wasco County Land Use and Development Ordinance
+
+                                         PA 00-0 43235)
+Section 3.230                                                                     Page 4 of 4
+                                                                                           Fx Wirt   “Alawf
+
+Chapter 3 - Wasco County Land Use and Development
+Ordinance
+Section 3.310 — “RR-2” Rural Residential 2 acre zone; December
+16, 2004
+
+SECTION            3.310 "RR-2" RURAL           RESIDENTIAL 2 ACRE ZONE
+A. Purpose
+              The purpose of the "RR-2" Rural Residential 2 acre zone is to provide for single-
+              family residential use plus related compatible uses such as schools and parks.
+              This zone is designed for those areas outside an Urban Growth Boundary or
+              acknowledged Unincorporated Community Boundary, subject to a resource land
+              goal exception prior to November 4, 2000, and not necessarily served by a public
+              water or public sewer system. Buildings or structures hereafter erected,
+              structurally altered, enlarged or moved and land hereafter used in the "RR-2"
+              Rural Residential 2 acre zone shall comply with the following regulations.
+B. Permitted Uses
+              In the "RR-2" Rural Residential zone the following uses and activities and their
+              accessory buildings and uses are permitted subject to the general provisions and
+              exceptions set forth by this Ordinance:
+       1.     One single-family dwelling on any legally created parcel including mobile homes
+              at least eighteen (18) feet wide subject to Section 4.160, provided proper
+              sanitation approval is obtained.
+      2.      Buildings accessory to a single-family dwelling such as garages, store-rooms,
+              woodsheds, laundry room, playhouse, greenhouse, hobby shop, animal or fow!
+              shelter or similar and related accessory uses.
+      3.      Farm uses, provided animals and fowl are properly caged or housed and proper
+              sanitation is maintained.
+              Forest uses, including the propagation and harvesting of forest products.
+  OONOAA SR
+
+              Agricultural Produce Stands in accordance with Chapter 20, Site Plan Review.
+              Home occupation, subject to chapter 20.
+              Cemetery.
+              Subdivisions in accordance with Chapter 21.
+              Guest house subject to standards in Section 4.170.
+C. Uses Permitted Conditionally
+              In the "R-2" Rural Residential_zone, the following uses and activities and their
+              accessory buildings and uses are permitted when authorized by the Approving
+              Authority upon satisfactory demonstration of compliance with the standards
+                                                                                             of
+              this Ordinance as_required in Chapter 5 and this section:
+
+Chapter 3 - Wasco County Land Use and Development Ordinance
+
+                                               facrtf-0f32( 225
+Section 3.310                                                                          Page 1 of 4
+    1.   Public and semi-public buildings, structures and uses essential to the physical,
+         social and economic welfare of an area, including but not limited to: fire stations,
+         schools, granges, community halls, churches and libraries.
+         Private schools or day nursery centers.
+         Parks, playgrounds and recreation areas and community or neighborhood
+         centers.
+   4.    Golf courses (except commercial driving ranges, miniature golf courses or similar
+         course operated as a business), country club, swimming club or tennis club.
+   5.    Temporary tract office for the sale of lots in subdivision in which the office is
+         located.
+         Utility Facility necessary for public service.
+         Bed and breakfast inns.
+         Dude ranches and hunting and fishing lodges, including overnight facilities in
+         accordance with Chapter 20, Site Plan Review and demonstrated not to require
+         service by a new community sewer or extension of an existing sewer system
+         from within an urban growth boundary or from within an unincorporated
+         community.
+D. Property Development Standards
+    1.   Property Size - The minimum property size is two (2) acres with a one hundred
+         twenty five (125) foot average lot width.
+   2,    Setbacks -
+             a.   Front Yard - No structure other than a fence or sign shall be located
+                  closer than twenty-five (25) feet from the right-of-way of a public road
+                  except where forty (40) percent of the frontage is developed with
+                  buildings having front yards with a variation of not more than ten (10) feet
+                  in depth, the average of such depth shall establish the front yard depth of
+                  the entire frontage.
+             b.   Side Yard - No structure other than a fence shall be located closer than
+                  fifteen (15) feet from side property lines for interior lots and twenty (20)
+                  feet from exterior side property lines for corner building sites.
+             c.   Rear Yard - No structure other than a fence shall be located closer than
+                  twenty (20) feet from the rear yard property line.           .
+   3.    Vision Clearance - Vision clearance on corner properties shall be a minimum of
+         thirty (30) feet.
+   4.    Height - Maximum       height for all dweilings shall be thirty-five (35) feet. Height is
+         measured from average grade. Detached accessory structures shall not exceed
+         a maximum        height of eighteen (18) feet. (Added 1-92)
+   5.    Stream Setbacks - All structures or similar permanent fixtures shall be setback
+         from the high water line or mark along all streams or lakes a minimum distance of
+         fifty (50) feet when measured horizontally at a right angle.
+   6.    Signs - Signs shall not extend over a public right-of-way or project beyond the
+         property line.
+
+Chapter 3 — Wasco County Land Use and Development Ordinance
+Section 3.310
+                                                                                        Page 2 of 4
+
+                   |                 |         Pp00%4-04 32-(32)
+           a.    Signs shall not be illuminated or capable of movement.
+            b.   Signs shall be limited to twelve (12) square feet in area and shall describe
+                 only uses permitted and conducted on the property which the sign is
+                 located.
+                 Signs advertising the sale or rental of the premise and temporary in
+                 nature are permitted provided the sign is erected no closer than ten (10)
+                 feet from the right-of-way of public road.
+   7,   Parking - Off street parking shall be provided in accordance with Chapter 4.
+        Fire Safety Standards (added 2-89) - All dwellings, and other structures as
+        specified, shall institute the following fire safety measures for protection of the
+        development and of surrounding areas:
+            a.   if the development includes a plumbed water system, at least one
+                 standpipe shall be placed a minimum of fifty (50) feet from the dwelling;
+                 and
+                 Separate power service independent of the dwelling shall be provided for
+                 the pump utilized in a. above, and shall be provided by a public utility. Any
+                 exception to this requirement shall be approved in writing by a state
+                 licensed fire engineer; and
+                 A minimum water flow equal to twenty (20) gallons per minute for fifty (50)
+                 minutes, for a total water capacity of one thousand (1,000) gallons shall
+                 be provided. This water source shall be available year-round, and must
+                 be usable by the rural fire protection provider (if applicable); and
+                 Any chimney or stovepipe on any structure for use with a woodstove or
+                 fireplace shall be screened to prevent discharge of sparks or other
+                 buming material; and
+                 Power and telephone should be located underground where practicable.
+                 Practicable is defined as ‘feasible in the circumstances’ by Blacks Law
+                 Dictionary. For the purposes of this section, practicable means whether
+                 the power lines can be physically put underground without undue
+                 hardship or difficulty because of circumstances in the land that are unique
+                 to this development. Cost alone does not allow for a determination that
+                 power lines cannot be located underground.) (added 6-98); and
+                 If a water supply, such as a swimming pool, pond, stream or lake, exists
+                 within one hundred (100) feet of the driveway or road at a reasonable
+                 grade, then access to within fifteen (15) feet of the water's edge should
+                 be provided for pumping units. Access shall be a minimum of twelve (12)
+                 feet in width, maximum twelve percent (12%) grade, with a fourteen (14)
+                 foot vertical clearance. The access road shall have a fifty thousand
+                 (50,000) pound carrying capacity. Access roads over one hundred fifty
+                 (150) feet in length shall provide a turn-around for vehicles. (added 6- 98)
+                 and
+                 Exterior roofing shall be of fire-resistant materials (added 6-98); and
+                 The owners of the dweiling and structures shall: maintain a primary fuel
+                 free break area surrounding all structures; clear and maintain a
+                 secondary fuel-free break area according to the chart below or to the
+
+Chapter 3 - Wasco County Land Use and Development Ordinance
+
+                                     £20040 32 C32
+Section 3.310                                                                       Page 3 of 4
+                   property boundaries whichever is the shortest distance. This break shall
+                   consist of removal of fire fuels from the ground, shrubs from under large
+                   trees, and tree limbs within five (5) feet of the ground (added 6-98); and
+
+             Size of fuel break safety zone by percent slope
+             % Slope              feet of primary zone           feet of secondary zone
+             0                    30                             ce)
+             10                   30                             50
+             20                   30                             78
+             25                   30                              100
+             40                   30                             150
+
+             i.    The owners of the dwelling and structures shall: maintain setbacks from
+                   ridgetops, cliffs and bluffs equal to those listed below or as far as the
+                   property size and configuration allows if the full setback cannot be
+                   accomplished. The steeper the slope, the greater the flame length, the
+                   hotter the flame front and the faster the rate of fire spread. This is
+                   primarily due to preheating of the vegetation upslope from the fire,
+                   increased draft of fresh air to the fire from below (added 6-98); and
+                   Setback from Major Slope Changes in Conjunction with Fuel Break Safety
+                   Zone (The definition of a major slope change is a change in slope 10% or
+                   greater.)
+
+             On a slope change Where the downhill slope is               Feet of Setback
+             10%                                                         50
+             20%                                                         75
+             25%                                                         4100
+             40%                                                         150
+
+    9.   Lighting - Outdoor lighting shall be sited, limited in intensity, shielded
+                                                                                      and hooded
+         in a manner that prevents the fighting from Projecting onto adjacent
+                                                                                    properties,
+         roadways and waterways. The exterior of shielding and hooding material
+                                                                                         s shalt
+         be composed of nonreflective, opaque materials.
+    10. New Driveways — All new driveways which access a Public road
+                                                                     shall obtain a
+         Road Approach Permit from the Wasco County Public Works Departm
+                                                                         ent.
+
+Chapter 3 — Wasco County Land Use and Development Ordina
+                                                         nce
+Section 3.310
+                                                                                    Page 4 of 4
+
+                                             S24 Doyo 3 2(32)
+                                                                                        Exbibik “A-y
+
+Chapter 3 - Wasco County Land Use and Development
+Ordinance
+Section 3.410 — “RC” Rural Commercial zone; December 16, 2004
+
+SECTION        3.410 "RC"     Rural Commercial!
+A. Purpose
+         The “RC” Rural Commercial Zone is intended to provide for a wide variety of
+         commercial housing and related activities. This designation is designed for
+         application in exception areas outside Urban Growth Boundaries of incorporated
+         cities and community boundaries of acknowledged unincorporated communities.
+         Buildings and structures hereafter erected, structurally altered, enlarged or moved
+         and land hereafter used in the "RC" Rural Commercial Zone shall make application
+         for a site plan review, and comply with the following regulations.
+
+B. Permitted Uses
+         In the "RC" Rural Commercial Zone, the following uses and activities and their
+         accessory buildings and uses are permitted subject to the general provisions and
+         exceptions set forth by this Ordinance:
+   Any new commercial service, or retail use, listed in section C of this zone that will be
+   located entirely within an existing, lawfully erected commercial building or structure,
+   demonstrating compliance with off-street and public parking and loading area
+   requirements in Chapter 4.
+
+   C. Uses Permitted Subject Site Plan Review
+         In the “RC” Rural Commercial Zone The following small scale low impact
+         commercial uses or any combination of these uses and their accessory uses are
+         permitted in a building or buildings not exceeding 3,500 sq. ft. of floor space when
+         authorized by the Approving Authority upon satisfactory demonstration of
+         compliance with the standards of this Ordinance as required in Chapter 20 (Site
+         Plan Review) and this Chapter:
+         Retail or service business.
+   >
+
+         Eating or drinking establishment.
+   wn
+
+         Offices.
+         Veterinary clinic and kennel entirely within an enclosed building.
+   oak
+
+         Studio.
+         Public garage, including usual automobile repairs and servicing enclosed within the
+         building that, when within fifty (50) feet of an “A-1” or “R” zone, there shall be no
+         openings in the building walls facing the boundaries of an “A-1” or “R” zone other
+         than stationary windows, except where such building walls abut streets or alleys.
+   7,    Residential use in the same building as an allowed use.
+
+Chapter 3 — Wasco County Land Use and Development Ordinance
+Section 3.410                                                                      Page 1 of 3
+
+                                             LA00¢ 0432-33)
+D. Uses Permitted Conditionally
+            In the "RC" Rural Commercial Zone, the following small scale low impact
+            commercial uses or any combination of these uses and activities and their
+            accessory building or buildings, not exceeding cumulative floor area of 3,500
+            square feet, are permitted when authorized by the Approving Authority upon
+            satisfactory demonstration of compliance with the standards of this Ordinance as
+            required in Chapter 5 and this section:
+        .   Automobile service stations.
+            Wind energy conversion system subject to the provisions of Chapter 19 (Standards
+  N
+
+            for Energy Facilities).
+            Utility facilities necessary for public service, except landfill.
+  w
+
+            Recreational Vehicle Park.
+  Oar
+
+            Church.
+            Place of public assembly, stadium, auditorium, recreation building or natatorium.
+            Public or semi public buildings.
+  ON
+
+            Commercial amusement establishments when enclosed in a building (stadium,
+            theatre, bowling alley, theatre).
+            Public or private school
+   10. Child care center
+   11. Parks, athletic fields, playgrounds or community centers owned by a governmental
+            or non profit agency or community organization
+   12. Medical center
+   13. Water supply or treatment facility.
+
+D. Property Development Standards
+   1.       Property Size - The minimum property size for development shall be determined
+            based on the amount of area required for proper sanitation, off-street parking,
+            maintenance of setbacks and compatibility with adjacent uses.
+            Setbacks
+               a.     Front Yard - No structure other than a fence or sign shall be located closer
+                      than twenty-five (25) feet from the right-of-way of a public road except
+                      where forty percent (40%) of the frontage is developed with buildings
+                      having front yards with a variation of ten (10) feet in depth shall establish
+                      the front yard depth of the entire frontage.
+               b.     Side Yard - Where the side of a (ot or parcel in a "C-1" zone abuts the side
+                      of an "A-1" or an "R" zone, there shall be a side yard of not less than seven
+                      (7) feet.   in all cases, on a corner lot or parcel, there shall be a side yard
+                      setback of ten (10) feet-from exterior side property lines for corner
+                                                                                            building
+                      sites. In other cases, a side yard for commercial buildings shall not be
+                      required.
+
+Chapter 3 - Wasco County Land Use and Development Ordinance
+Section 3.410
+                                                                                           Page 2 of 3
+
+                                                 J3O004- OY32.(32)
+           c.   Rear Yard - No structure other than a fence shail be located closer than
+                twenty (20) feet from the rear yard property line.
+      Vision Clearance - Vision clearance on corner properties shall be a minimum of
+      thirty (30) feet.
+      Height - Maximum height for all structures shall be thirty-five (35) feet. Height is
+      measured from average grade.
+      Stream Setbacks - All structures or similar permanent fixtures shall be set back
+      from the high water line or mark along all streams or lakes a minimum distance of
+      fifty (50) feet wnen measured horizontally at a right angle.
+      Signs - Except as is necessary for traffic safety, the following sign regulations shall
+      apply to all uses:
+      a.        Signs shail be limited to business identification and or goods and services
+                manufactured and or sold on the premises.
+      b.        No sign shall project above the building.
+      c.        Signs are permitted in a ratio of one square foot of sign area to each linear
+                foot of store frontage and shall be placed flat against the walls of the
+                buildings with the exception of athletic field scoreboards which shall be the
+                minimum size necessary for the intended purpose.
+      d.        Signs shall not be placed upon walls or surfaces abutting an "A-1" or an "R"
+                zone.
+      e.        Separate directional signs not to exceed an area of sixteen (16) square feet
+                are permitted on property of an Automobile Service Station or public
+                parking area, but must not project beyond the property line of such
+                establishment.
+      f.        Flashing, digital, electronic, and LED (light emitting diode) signs shall be
+                prohibited except as is necessary for athletic scoreboards.
+      g.        Signs capable of movement shall be prohibited.
+      h.        Signs advertising the sale or rental of the premise and temporary in nature
+                are permitted provided the sign is erected no closer than ten (10) feet from
+                the right-of-way of public road.
+
+      Parking - Off-street parking shall be provided in accordance with Chapter 4.
+      Lighting - Outdoor lighting shall be sited, limited in intensity, shielded and hooded
+      in a manner that prevents the lighting from projecting onto adjacent properties,
+      roadways and waterways. The exterior of shielding and hooding materials shall be
+      composed of nonreflective opaque materials.
+      New Driveways — All new driveways which access a public road shall obtain a
+      Road Approach Permit from the Wasco County Public Works Department.
+
+Chapter 3 - Wasco County Land Use and Development Ordinance
+Section 3.410
+
+                                            L000 32lao>
+                                                                                 Page 3 of 3
+                                                                                      a     heb t   " A-5"
+
+Chapter 3 - Wasco County Land Use and Development
+Ordinance
+Section 3.510 — “RI” Rural Industrial zone; December 16, 2004
+
+SECTION        3.510 "RI" RURAL         INDUSTRIAL ZONE
+A. Purpose
+The “RI” Rural Industrial Zone is intended to create, preserve, and enhance areas
+containing secondary manufacturing and related establishments and intense commercial
+uses with limited external impact. This designation is designed for application in
+exception areas outside Urban Growth Boundaries of incorporated cities and community
+boundaries of acknowledged unincorporated communities
+Buildings and structures hereafter erected, structurally altered, enlarged or moved and
+land hereafter used in the "RI" Rural Industrial Zone shail make application for a site
+plan review and comply with the following regulations.
+B. Permitted Uses
+In the "RI" Rural Industrial Zone, the following uses and activities and their accessory
+buildings and uses are permitted subject to the general provisions and exceptions set
+forth by this Ordinance:
+Any new industrial use listed in C of this zone, that will be located entirely within an
+existing, lawfully erected commercial or industrial building or structure_demonstrating
+compliance with off-street and public parking and loading area requirements in Chapter
+4.
+
+C. Uses Permitted Subject to Site Plan Review
+       in the “RI” zone, the following small scale low impact industrial uses and activities
+       and their accessory buildings and uses are permitted in a building or buildings
+       not exceeding 35,000 sq. ft. of floor space when authorized by the Approving
+       Authority upon satisfactory demonstration of compliance with the standards of
+       this Ordinance as required in Chapter 20 (Site Plan Review) and this Chapter:
+    1. Light manufacturing, compounding or assembly, reprocessing, recycling,
+       fabricating or packaging of products from previously prepared materials such as
+       cloth, plastic, paper, glass, leather, metal, stone, canvas, bone, cellophane, cork,
+          feather, fiber, shell, wax, wire, wood yards, and paint not employing a boiling
+          process,
+     2.   Assembly, rebuilding, repair and maintenance of motor vehicles, including
+          Painting and upholstery.
+     3.   Wood products manufacture but excluding paper and pulp manufacture and
+          planing and lumber mill.
+     4.   Retail or combination retail wholesale lumber and building materials yard, not
+          including concrete mix.
+
+Chapter 3 —- Wasco County Land Use and Development Ordinance
+Section 3.510                                                                      Page 1 of 4
+
+                                              LALO 3232)
+            Building, building maintenance, plumbing, electrical, heating, roofing, glass,
+            landscaping, painting or similar contractor's offices and equipment storage yard,
+            or storage and rental of equipment commonly used by contractors.
+            Welding, sheet metal or machine shop provided such use is wholly enclosed
+  @
+
+            within a building.
+            Transfer company and trucking companies.
+  SPOON
+
+            Laundry and cleaning service industries.
+            Circus, rodeo or like activity.
+          . Similar manufacturing, repairing, fabricating, processing, parking or storage uses
+            not listed above.
+          . Feed and seed store conducted wholly within a completely enclosed building
+       except that package material may be stored in an enclosed outside yard.
+   12. Energy facilities and commercial energy facilities subject to the provisions of
+           Chapter 19 (Standards for Energy Facilities).
+   13. One mobile home for watchman's quarters in conjunction with a permitted or
+           conditional use.
+
+D. Uses Permitted Conditionally
+           In the "RI" Rural Industrial zone, the following small scale low impact rural
+           commercial and industrial uses and activities and their accessory buildings and
+           uses may be permitted when authorized by the Approving Authority upon
+           satisfactory demonstration of compliance with the standards of this Ordinance as
+           required in Chapter 5 (Conditional Use Review), the applicable limit on
+           commercial (3,500 square feet) or industrial (35,000 square feet) floor area, and
+           this section:
+           Any use permitted subject to site plan review or conditionally in the Rural
+           Commercial zone.
+           Primary or value added processing and/or sale of raw material produced in the
+           rural vicinity of the proposal (NOTE: this type of activity is exempt from any small
+           scale low impact commercial or industrial size limitation but may be subject to
+           conditions imposed through the Conditional Use Review).
+           Junk yard or automotive wrecking yard, enclosed in a view obscuring fence or
+           wall.
+           Recreation areas and facilities, including but not limited to: golf courses.
+           Bulk storage of petroleum or gas.
+           Operations conducted for the exploration, mining and processing of aggregate
+           and other minerals as subsurface resources.
+   7.      Concrete batching plants and the manufacture and sale of concrete products.
+   8.      Campground as defined by OAR 660-033-0130
+D. Property Development Standards
+   1.      Property Size - The minimum property size shall be determined based on the
+          amount of area required for proper sanitation, off-street parking, loading,
+          maintenance of setbacks and compatibility with adjacent uses.
+          Setbacks
+
+Chapter 3 — Wasco County Land Use and Development Ordinance
+Section 3.510
+                                                                                     Page 2 of 4
+
+                                               — F400 0¥32.(32)
+              a.   Front Yard - No structure other than a fence or sign shall be located
+                   closer than twenty-five (25) feet from the right-of-way of a public road
+                   except where forty percent (40%) of the frontage is developed with
+                   buildings having front yards with a variation of ten (10) feet in depth shall
+                   establish the front yard depth of the entire frontage.
+              b.   Side Yards - Where the side or rear of a lot or parcel in an "M-1" zone
+                   abuts the an residential zone, there shall be a side or rear yard of not fess
+                   than fifty (50) feet. In all cases, on a corner lot or parcel, there shall be a
+                   side yard setback of at least ten (10) feet from exterior side property lines
+                   for corner building sites. Where the side of a lot or parcel in the “RI” zone
+                   abuts the side of an “A-1” zone, there shall be a side or rear lot setback of
+                   100 feet from the common     property line.   In other cases, a side yard shall
+                   not be required.
+              c.   Rear Yard - No structure other than a fence shall be located closer than
+                   twenty (20) feet from the rear yard property line unless a greater setback
+                   is required next to an adjoining agricultural or residential zone in 2.b.
+                   above.
+    .   Vision Clearance - Vision clearance on corner properties shall be a minimum of
+        thirty (30) feet.
+        Height - Maximum height for all structures shall be forty-five (45) feet. Height is
+        measured from average grade.
+        Stream Setback - All structures, or similar permanent fixtures (except
+        hydroelectric facilities) shall be set back from the high water line or mark along all
+        streams or lakes a minimum distance of fifty (50) feet when measured
+        horizontally at a right angle. Exception may be granted upon a demonstration
+        that the proposed use will not have an adverse effect on streams or lakes.
+        Signs - Except as is necessary for traffic safety, the following sign regulations
+        shall apply to all uses:
+        a.         Signs shall be limited to business identification and or goods and services
+                   manufactured and or sold on the premises .
+         b.        No sign shall project above the building.
+        Cc.        Signs are permitted in a ratio of one square foot of sign area to each
+                   linear foot of store frontage and shall be placed flat against the walls of
+                   the buildings with the exception of athletic field scoreboards which shall
+                   be the minimum size necessary for the intended purpose.
+        d.         Signs shall not be placed upon walls or surfaces abutting an "A-1" or an
+                   "R" zone.
+        e.         Separate directional signs not to exceed an area of sixteen (16) square
+                   feet are permitted on property of an Automobile Service Station or public
+                   parking area, but must not project beyond the property line of such
+                   establishment.
+        f.         Flashing, digital, electronic, and LED (light emitting diode) signs shall be
+                   Prohibited except as is necessary for athletic scoreboards.
+        g.         Signs capable of movement shall be prohibited.
+        h.         Signs advertising the sale or rental of the premise and temporary in
+                   nature are permitted provided the sign is erected no closer than ten (10)
+                   feet from the right-of-way of public road.
+
+Chapter 3 — Wasco County Land Use and Development Ordinance
+Section 3.510
+                                                                                       Page 3 of 4
+                                                (300Y-b0 226 335
+    7.   Parking - Off street parking shall be provided in accordance with Chapter 4.
+    8.   Lighting - Outdoor lighting shall be sited, limited in intensity, shielded and hooded
+         in a manner that prevents the lighting from projecting onto adjacent properties,
+         roadways waterways. The exterior of shielding and hooding materials shall be
+         composed of non reflective opaque materials.
+    9.   New Driveways — All new driveways which access a County road shall obtain a
+         Road Approach Permit from the Wasco County Public Works Department.
+    10. Outdoor Storage — Outdoor storage must be enclosed by a sight obscuring
+        fence, wall, or landscaping; all of which shall be maintained.
+
+Chapter 3 —- Wasco County Land Use and Development Ordinance
+Section 3.510
+                                                                                  Page 4 of 4
+
+                                           f300¢- Of33-(35)
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.0% of
+the word sequence, and on 64.3% of the figures. Dictionary-recognizable words: 96.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

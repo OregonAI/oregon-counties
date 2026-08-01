@@ -1,0 +1,309 @@
+Article 57.2
+                               Solar Siting Standards
+
+57.210 - Definition:
+
+Commercial Solar Systems: An assembly of equipment that converts sunlight into
+electricity and then stores or transmits that electricity. This includes photovoltaic
+modules, mounting and solar tracking equipment and foundations, electric cabling,
+inverters, collection systems, and other similar components. A commercial solar system
+may also include battery storage, on-site substations, access roads, offices, operation
+or maintenance buildings, staging areas, and all other necessary appurtenances. A
+“commercial solar system’ does not include net-metering systems as defined in ORS
+757.300, agricultural-related facilities, rooftop mounted solar, and other similar systems.
+57.220 —Purpose
+
+A. This chapter describes the requirements for establishing commercial solar systems
+   on lands zoned under the Klamath County Land Development Ordinance, including
+   Exclusive Farm Use, Forestry, Forestry/Range and Non-Resource Zones. The
+   requirements in this chapter supplement the provisions in the underlying base
+   zones.
+
+B.   The goais of this chapter are to:
+        1.   Minimize conflicts with agricultural lands in Klamath County and residential,
+             commercial and industrial areas within the Urban Growth Boundary;
+        2.   Protect resources identified in the Klamath County Comprehensive Plan;
+             Preserve the water rights within Klamath County;
+        we
+
+        4.   Avoid impacts on wildlife within Klamath County by requiring approved
+             mitigation plan within areas inventoried as fish and wildlife areas and habitats
+             within the Klamath County Comprehensive Plan,
+             Collaborate and coordinate with agencies and other stakeholders;
+      Oa
+
+             Encourage renewable energy production; and
+        7.   Protect the public health, safety and general welfare of the citizens of Klamath
+             County.
+
+57.225 - Review Process
+
+A.      The county shail process all applications for a commercial solar system subject
+        to the applicable provisions in Chapters 20 and 30.
+B.      Notwithstanding Section 57.225(A), for a commercial solar system application
+        that triggers review under Section 57.245(B), the county must provide notice
+        upon receipt of an application as follows:
+
+                                                                         Page 1 of 8 (9/6/2022)
+       1.     The notice must include, at a minimum:
+              (a) A description of the proposed commercial solar system;
+              (b) A description of the lots or parcels subject to the permit application;
+              (c) The dates, times and locations where public comments or public
+              testimony on the permit application can be submitted; and
+
+              (d) The contact information for the governing body of the county and the
+              applicant.
+
+       2.     The notice must be delivered to:
+              (a) The Oregon Department of Fish and Wildlife:
+              (b) The Oregon Department of Energy;
+              (c) The State Historic Preservation Office;
+              (d) The Oregon Department of Aviation;
+              (e) The United States Department of Defense; and
+              (f) Federally recognized Indian tribes that may be affected by the
+              application.
+
+C.     When the county receives an application for a commercial solar system that
+       triggers review under Section 57.245(B), the county and the applicant may agree
+       to jointly enter into a cost reimbursement agreement with one of the reviewing
+       state agencies or tribes listed below to assist in the review of the application. A
+       state agency or tribe must provide the county and applicant with a reasonable
+       cost estimate for the service and the county shall have the authority to administer
+       the cost reimbursement agreement.
+              1.        Oregon Department of Fish and Wildlife;
+              2.        Oregon Historic Preservation Office or any affected federally
+                        recognized Indian Tribe; and
+
+              3.        Oregon Department of Energy.
+57.230 - Application Requirements:
+
+     A. Application Requirements. An application for a commercial solar system shall
+        include the following unless waived by the director in writing:
+                   1.   Adescription of the proposed commercial solar system, a tentative
+                        construction schedule, the legal description of the property on
+                        which the system will be located, and identification of the general
+                        area for all components of the commercial solar system including a
+                        map showing the location of components and including:
+
+                                                                         Page 2 of 8 (9/6/2022)
+        a.    Evidence of an active utility transmission request or process
+              and description of same; and
+        b.    A proposed route and permitting for transmission lines
+              connecting the commercial solar system to the grid.
+
+2.   Identification of potential conflicts, if any, with:
+        a.    Accepted farming practices as defined in ORS 215.203(2)(c)
+              on adjacent lands.
+        b.    Accepted forest practices on adjacent lands.
+        c.    Other resource operations and practices on adjacent lands
+              including solar systems.
+
+3.   A draft water rights management plan if the commercial solar
+     system is proposed for land subject to a water right. The plan shall
+     include:
+         a. Identification of the water right for the subject property
+              including the certificate or permit number, the source of the
+              water right, the point of diversion or the point of
+              appropriation, the place of use, and the priority date.
+         b.   A description of applicant's or landowner’s proposal for
+              transferring or maintaining the water right during operation of
+              the commercial solar system
+        c.    Evidence of consultation of the water rights management
+              plan by the irrigation district if the subject property is located
+              within an irrigation district. Evidence of consultation shall be
+              either meeting minutes containing the date, list of attendees,
+              and topics discussed including outcomes and decisions or a
+              written position statement from the irrigation district.
+        d.    Evidence of consultation with the Watermaster if the subject
+              property is located outside of an irrigation district.   Evidence
+              of consultation shall be either meeting minutes containing
+              the date, list of attendees, and topics discussed including
+              outcomes and decisions or a written position statement from
+              the Watermaster.
+
+4.   A draft wildlife impact and mitigation plan that includes information
+     pertaining to the commercial solar system’s potential impacts and
+     measures to avoid impacts on inventoried fish and wildlife areas
+     and habitats within the County’s Comprehensive Plan. The draft
+     wildlife impact and mitigation plan shall include evidence of
+     consultation with Oregon Department of Fish and Wildlife.
+     Evidence of consultation shall be either meeting minutes containing
+     the date, list of attendees, and topics discussed including outcomes
+                                                            Page 3 of 8 (9/6/2022)
+  and decisions or a written position statement from the Oregon
+  Department of Fish and Wildlife.
+
+. Adraft fire protection and emergency response plan for
+  construction and operations. The plan shall be developed and
+  implemented in consultation with the applicable fire district or
+  department and/or land management agency to minimize the risk of
+  fire and respond appropriately to any fire or emergency that occurs
+  on site. In developing the plan, the applicant shall take into account
+  terrain, dry conditions, limited access, and water access.
+
+. Adraft noxious weed control plan developed in consultation with
+  Klamath County.
+
+. Adraft vegetation management plan.
+
+. Fora proposed commercial solar system on land adjacent to Public
+  right of way or residentially zoned land, a draft screening plan to
+  minimize the visibility of the commercial solar system from public
+  view.   The draft screening plan may propose screening using
+  landscaping, plants, fencing, or other suitable materials approved
+  by the Klamath County.
+
+. Adraft dismantling and decommissioning plan for all components of
+  the commercial solar system that describes the actions to restore
+ the site to a useful, nonhazardous condition.    The plan shall also
+ include:
+                    a. A detailed cost estimate for dismantling and
+                       decommissioning including the form of financial
+                       assurance. The cost estimate for dismantling
+                       and decommissioning shall be updated every
+                       five years with a current detailed cost estimate
+                       that may consider salvage value including a
+                       comparison of that estimate with present funds
+                       of the bond or other financial mechanism for
+                       dismantling, and a plan for assuring the
+                       availability of adequate funds for completion of
+                       dismantling or decommissioning.
+
+                    b. A description of restoration of the site that
+                       ensures:
+                           1. Dismantling and removal of all solar
+                              equipment and accessory equipment.
+                                                    Page 4 of 8 (9/6/2022)
+                                       All concrete pads and foundations shall
+                                       be removed to a depth of at least 3 feet
+                                       below the surface. If there is no
+                                       agricultural or other resource use of the
+                                       land, this requirement does not apply.
+                                     . Underground collection and
+                                       communication cables and conduit need
+                                       not be removed if the cables and
+                                       conduit are at a depth of a least 3 feet
+                                       below the surface grade and not
+                                       deemed to a be a hazard or could
+                                       interfere with agriculture use or other
+                                       resource use of the land. If there is no
+                                       agricultural or other resource use of the
+                                       land, this requirement does not apply.
+                                     . Access and services roads shall be
+                                       decommissioned by removing all the
+                                       gravel, tilling the roads to break up the
+                                       compacted soil, and the surface grade
+                                       restored unless a letter from the
+                                       landowner is submitted to Klamath
+                                       County indicating responsibility for and
+                                       maintaining the improvements for farm
+                                       use or other permitted uses in the
+                                       applicable zone.
+                                     . Revegetation of the site shall include
+                                       planting of native plant seed mix, or
+                                       planting of an agricultural crop, as
+                                       determined by the underlying
+                                       landowner, The plan shall state who is
+                                       responsible for the revegetation.
+                                     . Roads, fences, and other improvements
+                                       may be left in place if a letter from the
+                                       landowner is submitted to Klamath
+                                       County indicating responsibility for and
+                                       maintaining the improvements for farm
+                                       use or other permitted uses under the
+                                       applicable zone.
+
+57.240 — General Review Standards.
+
+                                                              Page 5 of 8 (9/6/2022)
+The following genera! review standards apply to the siting of a commercial solar
+system:
+
+1.   Setbacks:
+         i. No portion of the commercial solar system shall be located within 200
+            feet of a property zoned Residential or Rural Residential. This setback
+            does not apply to an aboveground or belowground collector line or
+            overhead or belowground transmission line necessary to interconnect
+            the commercial solar system to the grid.
+
+          ii.   No portion of the commercial solar system shall be located within 200
+                feet of an existing dwelling on an adjacent property. This setback does
+                not apply to an aboveground or below ground collector line or
+                overhead or below ground transmission line necessary to interconnect
+                the commercial solar system to the grid.
+
+2.   Ground Leveling: The applicant shall design the commercial solar system so
+     ground leveling is limited to those areas needed for effective solar collection
+     and preserving the natural ground contouring to the extent possible.
+
+3. Water Resource: The applicant shall construct and operate the commercial
+     solar system consistent with a county-approved water rights management
+     plan.
+
+4.   Wildlife Resource: The applicant shall design the commercial solar system to
+     reduce the likelihood of significant adverse effects on wildlife habitat and
+     mitigate for adverse effects under a county-approved wildlife impact and
+     mitigation plan.
+
+5.   Public Safety: The applicant shall design the commercial solar system to
+     exclude members of the public from hazardous areas within the site. The
+     applicant shall implement a county-approved fire protection and emergency
+     response pian.
+
+6. Airport Proximity: A commercial solar system in proximity to an airport shall
+   be designed consistent with applicable state and federal guidance for
+   evaluating solar technologies at airports.
+
+7.   Road Use Agreement: Where applicable, the Klamath County Road
+     Department shall require the applicant to enter into a road agreement with
+     Klamath County to ensure that construction traffic is mitigated and damage to
+
+                                                                    Page 6 of 8 (9/6/2022)
+            county roads that is caused by the construction of the commercial solar
+            system is repaired at applicant's expense
+
+      8.    Dismantling and Decommissioning. The applicant shall comply with a county-
+            approved dismantling and decommissioning plan and provide a financial
+            security acceptable to the County to cover the cost of dismantling and
+            uncompleted construction or decommissioning of the facility, and site
+            rehabilitation.   The amount of the security shall be no less 120% of the
+            accepted engineer's estimate.
+
+57.245 - Specific Review Standards
+
+In addition to the general review standards in Section 89.040, the following specific
+standards shall apply to a commercial solar system if applicable:
+A. The applicant shall demonstrate that the commercial solar system can be design,
+   operated and constructed consistent with the applicable provisions of OAR 660-033-
+   00130(38).
+   1. The county authorizes dual-use Commercial Solar Systems pursuant to OAR
+   660-033-0120(38)(g)(B). Dual-use Commercial Solar Systems subject to OAR 660-
+   033-0130(38)(g) may not exceed 20 acres and shall have a dual-use development
+   plan providing sufficient assurances that the approved dual-use continues for the life
+   of the Commercial Solar System.
+
+   The applicant shall demonstrate to the satisfaction of the county that the commercial
+   solar system meets the standards set forth in ORS 215.446(3).
+
+   57.250 - Annual Report
+
+   Annual Report shall be provided to Klamath County Planning Commission and
+   include the following information:
+           A.      Summary of operational status, statement of ownership, and representative
+                   photos of the system.
+                B. Success and failure of vegetation control practices (including noxious
+                   weeds).
+            C. Success and failure of the screening plan, if applicable.
+            D. Status of the decommissioning bond, and every five years an update on
+               the decommissioning estimate.
+            E. Any required wildlife monitoring reporting.
+
+                                                                         Page 7 of 8 (9/6/2022)
+57.260 - Amendments:
+
+The Commercial Solar System Approval shall be specific but slight modification from
+            the original approval may be made:
+                       A.   Increase the footprint of the solar system by 10% or less;
+                               however, no increase in the amount of solar arrays.
+
+                                                                  Page 8 of 8 (9/6/2022)

@@ -1,0 +1,477 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-0908-interchange-overlay-district-p
+title: 'Zoning-Ordinance-Section-0908-Interchange-Overlay-District-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-0908-Interchange-Overlay-District-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8501/Zoning-Ordinance-Section-0908-Interchange-Overlay-District-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 5fc91be182b02a41b4b2b5592bf92b25f415b2afd9ae7203e9d6a987ff36fcf2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.903; figure agreement 0.693; dictionary ratio 0.865. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 731-051-0200
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 90%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Zoning-Ordinance-Section-0908-Interchange-Overlay-District-PDF (Zoning-Ordinance-Section-0908-Interchange-Overlay-District-PDF)
+
+## At a glance
+
+OCR-derived text of Zoning-Ordinance-Section-0908-Interchange-Overlay-District-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                               FOR THE COUNTY OF YAMHILL
+
+                   SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approving Amendments to the Yamhill County               )
+Comprehensive Plan arid Yamhill County Zoning Ordinance                     )   Ordinance 838
+to Accommodate The Newberg-Dundee Transportation                          )
+Improvement Project, Docket G-01-09, and Declaring an Emergency           )
+
+         THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the
+Board) sat for the transaction of county business on June 17, 2009, Commissioners Leslie Lewis,
+Kathy George’and Mary P. Stern being present.
+
+          IT APPEARING TO THE BOARD that, in co-operation with the Oregon Department
+of Transportation and local municipalities, Yamhill County needs to revise its Comprehensive
+Plan and Zoning Ordinance with several amendments to accommodate the proposed Newberg-
+Dundee Bypass project, and
+
+           IT APPEARING TO THE BOARD that the Planning Commission heard this matter at
+ a duly noticed public hearing on May 7, 2009 and voted 7-0 to recommend approval, and the
+-Board held a duly noticed legislative public hearing on June 3, 2009, and, after hearing from
+ supporters (no opponenets being present) voted unanimously to approve the application, NOW,
+ THEREFORE,
+
+         IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as
+detailed in the Amendments to the Comprehensive Plan and Zoning Ordinance, attached as
+Exhibits "A" and “B”, and by this reference incorporated herein. This ordinance, being necessary
+for the health, safety, and welfare of the citizens of Yamhill County, and an emergency having
+been declared to exist, is effective upon passage.
+
+          DONE this 17" day of June, 2009, at McMinnville, Oregon.
+
+ATTEST:                                  YAMHILL COUNTY BOARD OF COMMISSIONERS
+REBEKAH STERN D               i                 el      (Vv (ous
+County Clerk               IEE:
+                             iy
+                                Fie                          LESLIE LEWIS
+                                         \ a
+                                            2    eh     Meas
+Denuty’Amer sitt       4       2           Cae ivr          ho,
+
+APPROVED AS TO FOR Wf oroseeeee®                      MU
+    OW         7                   ve"   Commissioner      \ MARY P, STERN
+                   a
+
+Rick Sanai, Assistant County Counsel
+
+                                                                        B.0-04-288
+Exhibit “A” — Yamhill County Comprehensive Plan Amendments
+
+The following amendments to the Yamhill County Comprehensive Plan (goals & policies) are
+hereby adopted for the Newberg-Dundee Bypass and interchange areas, The Summary under
+Section III.A (Transportation of the Comprehensive Plan) is hereby revised to read as follows:
+
+SUMMARY
+
+Yamhill County and ODOT have discussed ways to relieve traffic congestion on Oregon 99W
+through Newberg and Dundee for many years.
+
+A Southern Bypass is included in Newberg’s acknowledged Transportation System Plan and also
+is an element of Dundee’s adopted Transportation System Plan.
+
+ODOT initiated a tiered environmental impact statement to consider transportation alternatives
+for the Newberg-Dundee corridor. A Tier 1 Location Draft Environmental Impact Statement
+(LDEIS) was published in September 2002. The LDEIS evaluated eight Build Alternatives and
+a No Build Alternative.
+
+Following the public comment period arid public hearings on the LDEIS, the Project Oversight
+Steering Committee (which includes representatives of ODOT, the Federal Highway
+Administration, Yamhill County, and the Cities of Newberg, Dundee, Dayton and McMinnville)
+determined that a Bypass was needed to solve the region’s growing traffic congestion problem.
+
+The recommended four-lane Bypass (Modified Alternative 3J) extends for approximately 11
+miles from the Rex Hill area east of Newberg to the intersection of Oregon 99W and Oregon 18
+(McDougal Corner) near Dayton.
+
+The Bypass will function as a high-speed statewide expressway and freight route as defined in
+the Oregon Highway Plan.        The Bypass includes four associated interchanges at Dayton
+(directional), East Dundee (full movement), Oregon 219 (full movement) and East Newberg
+(directional). The Bypass and interchanges will be fully access controlled and no direct access
+will be allowed from private properties. The primary function of the Bypass is to provide for
+high-speed, through trips and to relieve congestion on Oregon 99W through the downtown areas
+of Newberg and Dundee,
+
+ODOT and Yamhill County completed the local Jand use process for the location of the Bypass
+(corridor width of about 300 feet) before the record of decision was issued on the Location Final
+Environmental Impact Statement in 2005. The specific Bypass alignment within the wider
+location corridor will be determined in the Tier 2 Design Environmental Impact Statement.
+
+Land use actions including goal exceptions were required for the portions of the Bypass located
+on rural lands, As part of the goal exception, Yamhill County adopted facility design and land
+use measures to minimize accessibility of rural lands from the proposed transportation facility
+and support continued rural use of surrounding lands. The new policies specific to the Bypass
+
+                                                                                “B.0.04-288
+were adopted concurrent with the goal exception to address the requirements of OAR 660-012-
+0070 of the Transportation Planning Rule. In addition, a new Interchange Area Overlay District
+was established and applied to implement the new plan policies.
+
+2.     Specific Policies for the Newherg-Dundee Bypass
+
+       The functions of the Newberg-Dundee Bypass are to accommodate and divert longer-
+       distance through trips around the Newberg-Dundee urban area and to serve regional trips
+       going to and from Newberg or Dundee (i¢., those trips with either an origin or
+       destination outside of the Newberg-Dundee urban area). The function of the planned
+       intermediate interchanges is to provide access between Newberg or Dundee and other
+       regions (¢.g., McMinnville, Portland or the coast).        It is not the function of the
+       interchanges to provide for or attract regional commercial or highway commercial
+       development in the vicinity of the interchanges.        In general, need for commercial
+       development should be accommodated in areas currently planned for commercial
+       development within Newberg and Dundee. Plan amendments and zone changes shall be
+       consistent with the function of the bypass and interchanges as set forth in this policy.
+
+       Yambill County will apply and maintain an Interchange Overlay District to for
+       unincorporated county lands that are within approximately. 4 to % mile of the
+       interchange ramps
+
+       Yamhill County will discourage expansion of urban growth boundaries toward the
+       interchanges to support continued rural use of lands surrounding the interchanges and to
+       protect the planned function and capacity of the Bypass and interchanges to serve
+       primarily longer-distance through trips.
+
+d,     Within the Interchange Overlay District, Yamhill County will permit all uses that are
+       permitted outright or that may be authorized as conditional uses in the underlying zoning
+       district(s).
+
+       Yamhill County will provide notice to ODOT of certain land use and development
+       applications within the boundaries of the Interchange Overlay District. ODOT may
+       request that an applicant submit a traffic impact study or access plan before a land use
+       application is accepted as complete by Yamhill County. Yamhill County zoning maps
+       shall clearly indicate on a parcel-specific basis if property is within the planned sight-of-
+       way for the Newberg Dundee Bypass or interchanges.
+
+       ODOT may coordinate with property owners/applicants on a voluntary basis to protect
+       the planned right-of-way for the bypass and interchange; and to assure that proposed
+       access points are located consistent with the anticipated access spacing standards for the
+       interchange.
+
+       Yamhill County will consider and may impose additional setback requirements or restrict
+       use of the planned right-of-way to low intensity uses such as agriculture, parking or
+          storage in the interim period before right-of-way for the Newberg-Dundee Bypass is
+          acquired by ODOT,
+
+ h.     The Newberg Dundee Bypass received final environmental approval of the corridor in
+ August 2005. The second tier of the environmental process is for approval of the design of
+ the facility and is expected to receive final approval in 2010 from the Federal Highway
+ Administration. The Oregon Department of Transportation received funding to construct
+ Phase 1 of the Newberg Dundee Bypass, which is a 2-lane facility from OR 219 near
+ Wynooski Road in Newberg, around the southern portions of Newberg and Dundee, and
+ reconnecting with OR 99W south of Dundee beyond Fulquartz Landing Road. This
+ approximate 6-mile segment of the Newberg Dundee Bypass can be considered a planned
+ facility. For purposes of compliance with the Transportation Planning Rule (OAR 660-012-
+ 060), other segments of the Bypass and associated interchanges (from Rex Hill to OR 219
+ and from Fulquartz Landing Road to Dayton) are not yet considered to be planned
+ transportation facilities and cannot be relied upon for providing additional planned capacity
+ until the Oregon Transportation Commission approves a financing plan for these segments of
+ the Bypass project,
+
+ i,       Yamhill County will coordinate with ODOT and the affected jurisdictions to further
+          explore and implement agreed upon elements of the Alternate Mode and Land Use
+          Components of the Newberg-Dundee Transportation Improvement Project.
+
+ j.       Yamhill County will coordinate with ODOT and the affected jurisdictions and property
+          owners to adopt Interchange Area Management Plans for each of the four interchanges,
+          coiisistent with the requirements of the 1999 Oregon Highway Plan and OAR 734-051-
+          0200(4). The interchange area management plans will address the following at a
+          minimum:    access management standards, road connections and local street circulation,
+          compatible land uses and bypass termini protection. The interchange area management
+          plans will be designed to protect the function and capacity of the interchanges for at least
+          a 20 to 25-year planning period.
+
+ k.       These policies for the Newberg-Dundee Bypass and the provisions of the Interchange
+          Overlay District shall be considered interim provisions that may be refined, revised or
+          replaced as needed based on the Tier 2 Design EIS and/or the adopted Interchange Area
+          Management Plans.
+
+ Ordinance 838 - Exhibit “B® — Amendments to the Yamhill County Zoning Ordinance
+
+ The following amendments to the Yamhill County Zoning Ordinance (Section 908.00 —
+_ Interchange Overlay District) are adopted for the Newberg-Dundee Bypass and interchange
+ areas,
+
+ 908.01 Purpose
+
+          The purpose of the Interchange Overlay District is to:
+
+                                                                                Ord. 838                 4
+              Protect the planned function and capacity of the Newberg-Dundee Bypass
+              (Bypass) as an “Expressway” as defined in the 1999 Oregon Highway Plan.
+              (OHP) by prohibiting direct private access to the Bypass and controlling access
+              and managing land uses in the vicinity of the interchanges. The primary function
+              of Expressways is to provide for interurban travel and connections to ports and
+              major recreation areas with minimal interruptions. A secondary function is to
+              provide for long distance intra-urban travel in metropolitan areas.
+
+              Protect land designated for agriculture and rural development (¢.g., exception
+              areas) on the Yamhill County Comprehensive Plan from development pressures
+              that could result from improved proximity, visibility, accessibility, and faster
+              travel times associated with the four interchanges to the Bypass.
+
+              Support continued rural use of lands surrounding the interchanges and protect the
+              planned function and capacity of the Bypass and interchanges to serve primarily
+              longer-distance through trips by retaining existing zoning within the Interchange
+              Overlay District and discouraging expansion of urban growth boundaries (UGBs)
+              toward the interchanges.
+
+              Assure coordination between Yamhill County and ODOT on Site Design Review
+              and access management within the Interchange Overlay District.
+
+              Provide the opportunity for Yamhill County to recommend additional setbacks for
+              voluntary use of the Bypass location corridor te for low intensity uses such as
+              agriculture, parking or storage.
+
+       ODOT will prepare interchange area management plans for each of the four interchanges
+       in partnership with Yamhill County, the affected cities and property owners. This
+       Interchange Overlay District is intended as an interim land use tool that may be refined,
+       revised or replaced as Interchange Area Management Plans are adopted for each of the
+       four interchanges as required by the OHP and OAR 731-051-0200,
+
+908.02 Area of Application of Interchange Overlay District
+
+       A.     The Interchange Overlay District shall apply to unincorporated lands within
+              approximately 4 mile (inside UGBs) to % mile (outside UGBs) of the end of the
+              ramps to the following four interchanges to the Bypass:
+
+                      Dayton Interchange
+                      East Dundee Interchange
+             NS
+
+                      Oregon 219 Interchange
+                      East Newberg Interchange
+
+              The Interchange Overlay District shall be combined with at least one (1)
+              underlying zoning district and may be combined with any zoning district pursuant
+              to this ordinance, All property within the Interchange Overlay District shall be
+
+                                                                          Ord, 838                 5
+              subject both fo the provisions of this section and to the underlying zoning district.
+              Nothing in this section shall be construed as a waiver or suspension of the
+              provisions of any underlying zoning district, or any other applicable overlay
+              district.
+
+              The general boundaries of the Interchange Overlay District are shown on Figure
+              908-1 and shall be delineated on a parcel-specific basis on the Official Zoning
+              Map.
+
+908.03        Interim Protection of Bypass Corridor through Site Design Review
+
+              Yamhill County shall maintain a parcel-specific map that illustrates the Bypass
+              corridor (about 300 feet wide) approved in the Record of Decision for the
+              Location Final Environmental Impact Statement.
+
+              In the interim period before construction of the Bypass, Yamhill County shat will
+              coordinate with affected property owners and ODOT in an effort to avoid
+              construction of permanent structures on the segments of the planned Bypass
+              under Yamhill County jurisdiction.
+
+              Site Design Review (see Section 1100 of this Ordinance) shall be required for
+              development that includes all or a portion of a parcel within the Bypass corridor
+              as described in A above. The County may waive the requirement for Site Design
+              Review if a review of building plans indicates the proposed development will be
+              located outside the Bypass corridor.
+
+              Through the Site Design Review process, ODOT may recommend and Yamhill
+              County may propose additional voluntary setbacks before the Bypass is
+              constructed.
+
+              The width of the Bypass corridor subject to Site Design Review shall be narrowed
+              when the Record of Decision is issued for the Design-level Environmental Impact
+              Statement.
+
+908.04 Permitted Uses
+
+         A.   All uses of land and water that are permitted in the underlying zoning district(s)
+              are also permitted in the Interchange Overlay District.
+
+              All uses of land and water in the Interchange Overlay District are subject to the
+              standards and limitations of the underlying zoning district(s), with the following
+              additional limitations:
+
+              1.      All development within the boundaries of the Interchange Overlay District
+                      is subject to Site Design Review as outlined in Section 1100.
+
+                                                                             Ord, 838                 6
+              2.       Through the Site Design Review process, ODOT may recommend, and
+                       Yamhill County may propose, that new development within the
+                       Interchange Overlay District maintain additional voluntary setbacks,
+
+              3,       Through the Site Design Review process, ODOT may recommend, and
+                       Yamhill County may require, that new development within the
+                       Interchange Overlay District locate access points to assure consistency
+                       with the anticipated access spacing standards for the interchanges.
+
+908.05 Conditional Uses
+
+         A.   All uses of land and water that are listed as conditional uses in the underlying
+              zoning district(s) may also be allowed in the Interchange Overlay District subject
+              to the following:
+
+               1.   Yamhill County shall notify ODOT when an application is submitted for a
+                    proposed conditional use within the Interchange Overlay District.
+
+              2.    During the 30-day completeness review, ODOT may request that the
+                    applicant prepare a traffic impact study or an access plan to provide additional
+                    information on how the proposed conditional use may impact the interchange.
+                    If additional information is requested in writing by ODOT during the 30-day
+                    completeness review, such information shall be required by Yamhill County
+                    before the application is accepted as complete.
+
+              The proposed conditional use shall be subject to the conditional use review
+              criteria and requirements as outlined in Section 1202 of this Zoning Ordinance.
+
+               In addition to the types of conditions of approval outlined in Section 1202.03 of
+               the Zoning Ordinance, ODOT may recommend, and the decision-making body
+               may impose conditions or mitigation to protect the function and capacity of the
+               interchange; and to assure that proposed access points are located consistent with
+              ‘the anticipated access spacing standards for the interchange.
+
+908.06        UGB Amendments within the Interchange Overlay District
+
+         A,   Three of the four interchanges to the Bypass (Dayton, East Dundee and East
+              Newberg) are located outside of acknowledged UGBs of the Cities of Dayton,
+              Dundee and Newberg, respectively, The Oregon 219 interchange will be located
+              inside the Newberg UGB.
+
+              Proposed amendments to UGBs are governed by the criteria in Statewide
+              Planning Goal 14 (Urbanization) and acknowledged UGB Management
+              Agreements between Yamhill County and the respective cities. A decision to
+              expand the UGB must be approved by the Yamhill County Board of
+              Commissioners and the respective City Council.
+
+                                                                              Ord. 838                 7
+The 1999 OHP (Action 1B.3) directs ODOT to avoid expansions of UGBs along
+Interstate and Statewide Highways and around interchanges unless ODOT and the
+appropriate local governments agree to an interchange area management plan to
+protect interchange operation.
+
+                                                        Ord. 838            8
+                                                              B.0-04-28F
+Tene ee eymondes Taira Fone
+                                   pusig Aepoag aGucyoi0zu pue       gy gf        b
+                       s9}110g ur}d AyuNoD [IYywWeA 03 3D0/qNS CAY   cal
+                                                      sa1oyog Utid
+                     aatsuayasdwog uoxieg jo Au 03 JOvIqns cay       r
+                                                                         =>
+                                           fsepunog yyaaig ueqin     -        a
+                                            Pe oagewoyy parypow +4)
+                                                                                      LIAPONP   INANTAOHICT   NOMVINOSSNV,
+                                                                                      sepung-biaqmeny
+root te agmenene ier Tore
+                                     pursig Aepono aBueya.ow,       0 2 ae                                —                     aN     wes   ae      ‘fex
+                 pue saiotiog Ueig Aung IIryUIe, o3 Joafqng cary         a   |-   ee      er      e000:   OS,   sts   05   20
+                                                    so1niieg Utid
+                     ansuayosdwog oapung jo Arp oF o!qng cory r      2
+                 s                      Asepunog yynoig ueqin       7]
+                                                                    a
+                     vf
+       a     a            i
+                                         Pe PaReEWOTY PIyIPOW       SS
+                 N
+   souusig AepAQysmoyog urjg dusuayaidwoD jo Aupquoyddy
+           aSuLYyIL9}U] JopuNgG sey              “7 - BOG 2ansiq
+                                          =
+                                                                                       eS
+                                                                                       _Aquno),
+                                                                                       \iywe,
+                                                                                                                                     Darou   Taney   NOMVLYOASNVEL   9
+                                                                                                                                     sepung-bieqman                  ZB
+Saree gmenses GTI                                    uryosaUy PUT      ge
+                              younsig Aepano 96! yoatgns cay
+                  gayaitod Weld AURED MIMW
+                                             EA OF                     aa?
+                                          zanl PLE
+                  yoursig Acpang a6ueto      OF yoaiqns         cay    fr
+             aatsuayosdwo: 9 Bs0qenon 50 AUD
+                                                                uEGN        7   ge
+                                       fucpunog       yunaig
+                                                                 p
+                                           re onnewouy Poy!PoW S
+                                                    Anpquonddy
+              N                    aausuayesdwo: JO
+              AvLRAQ/S9! noe Od Ud                       T
+     ssid
+                          108240                     "€ - 906    2NSL
+          gaunyriajul 61Z
+                    ek
+
+                                                                                     het
+                                                                                       SII op
+                                                                                           —
+
+                                                                                                   AA Hoday
+                                                                                                                   TAOS   INT   NOMNLROSSNVAL.
+                                                                                                gopunq-61 aqmMeN
+                                                                                                Toaromd       Nd
+                                                                                                                                          n
+eOE Ee sag eday Teng oe
+                                 yunsig AcyoAg oGucyouojuy pur    wy aga i
+                    SO1d110d Ur{g ALUNOD IIYUIL, O3JDeIGNS Cory   as!
+                 pUISIG ACpaAg aGucyoia3u] pur sooo ucId          r   P|     i
+               PAISUDYRIGWIOD GiogMoan jo AyD 03 yDoIqng cary
+               $                         Asepunog ynosg uegin
+             WV
+      3
+                   /—     a
+                                          Pr oanewany PoyIPoW
+               N
+  SIISI ALPIAQ/SHI
+                 Og ULTg Iatsuaysadu0D Jo <upqvoyddy
+          aBULYIIIIUT SIIGQAIN] ISEY             “fF - GONG 24NS1q
+                              Bore   =
+                                                                                       LION   ANUWSAONIIT   NOLLVIOaSNVAL,
+                                                                                 Zea   Japung-biaqman
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 90.3% of
+the word sequence, and on 69.3% of the figures. Dictionary-recognizable words: 86.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

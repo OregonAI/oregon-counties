@@ -1,0 +1,814 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-authorizing-iga-creating-quality-life-intergovernmental-agen
+title: 'Authorizing IGA Creating Quality Life Intergovernmental Agency 6-27-2001'
+doc_type: ordinance
+citation: 'Authorizing IGA Creating Quality Life Intergovernmental Agency 6-27-2001'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Misc/Authorizing%20IGA%20Creating%20Quality%20Life%20Intergovernmental%20Agency%206-27-2001.pdf?t=202503260855280
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d5de0386b5935552cc3e480836867b5ac9180ebd6fe89ba1f07a9450eff93a2f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.837; figure agreement 0.581; dictionary ratio 0.919. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 190.003
+    - ORS 190.010
+    - ORS 190.265
+    - ORS 192.610
+    - ORS 288.945
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 84%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Authorizing IGA Creating Quality Life Intergovernmental Agency 6-27-2001 (Authorizing IGA Creating Quality Life Intergovernmental Agency 6-27-2001)
+
+## At a glance
+
+OCR-derived text of Authorizing IGA Creating Quality Life Intergovernmental Agency 6-27-2001. Not human-verified.
+
+## Full text
+
+FILED WASCO        CTY
+                                                                         THE DALLES        OR.
+                     IN THE COUNTY COURT OF THE STATE OF OREGON
+                                                           Jun 27                      47 Pi OL
+                            IN AND FOR THE COUNTY OF WASCO
+ i]
+
+       IN THE MATTER OF AUTHORIZING AN)                         Kan 5 BERK
+ WD
+
+       INTERGOVERNMENTAL AGREEMENT)                   ORDINANCE         ;
+ HR
+
+       CREATING THE QUALITYLIFE         )
+       INTERGOVERNMENTAL AGENCY.         )
+ Dan
+
+              WHEREAS, Wasco County (“County”), a political subdivision of the State
+
+       of Oregon formed under the Oregon Constitution and ORS Chapter 203, is
+ ony
+
+       engaged in the provision of general local governmental services within Wasco
+ wo
+
+       County; and
+10
+              WHEREAS,     County operations require telecommunications capabilities for
+11
+       the efficient provision of local government services; and
+12
+13            WHEREAS,     the County further desires to promote economic growth and
+
+14     the expansion or addition of business and industry within its service territory and
+15     the Mid-Columbia Gorge community through the development of
+16     telecommunications infrastructure and related programs; and
+17
+              WHEREAS, the County intends to further its economy and efficiency by
+18
+       forming by Intergovernmental Agreement between Wasco County, a political
+19
+       subdivision of the State of Oregon formed under the Oregon Constitution and
+20
+at     ORS Chapter 203; the Northern Wasco County People’s Utility District, an
+
+22     Oregon People’s Utility District formed under ORS Chapter 261; the Port of
+23     The Dalles, an Oregon Municipal Corporation formed under ORS Chapter 777;
+24
+       and the City of The Dalles, Oregon, an Oregon Municipal Corporation (each of
+25
+       which is referred to herein individually as a “Party” and collectively as the
+26
+Page
+
+                                       frcol -0a/Y                                      (1)
+       “Parties”), an intergovernmental entity to be known as the Qualitylife
+
+       Intergovernmental Agency (“Qualitylife IGA”); and
+ nS
+
+              WHEREAS, the Parties intend to use any authority delegated to the
+w
+
+       Qualitylife IGA to further the economy and efficiency of each Party by the design,
+ fF
+
+       construction, ownership, operation and maintenance of a telecommunications
+ a
+ aA
+
+       network for the benefit of Wasco County and the Mid-Columbia Gorge
+ nN
+
+       community; and
+ oOo
+
+              WHEREAS,      each of the Parties has taken, or is expected to take in the
+ wo
+
+10     immediate future, all actions required under applicable acts, charters and law to
+
+11     authorize the execution and performance of the Agreement through which
+12     Qualitylife IGA will be created.
+13                                                                                 COUNTY.
+              NOW, THEREFORE, !T IS HEREBY ORDAINED BY WASCO
+14
+               1.     It is the intent of Wasco County to create the Qualitylife
+15
+               Intergovernmental Agency (“Qualitylife IGA’) pursuant to ORS 190.003
+16
+17            through ORS     190.265 by Intergovernmental Agreement, a copy of which
+
+18             is attached hereto as Exhibit A (‘Agreement’), between the following
+
+19             parties: Wasco County, a political subdivision of the State of Oregon
+20             formed under the Oregon Constitution and ORS Chapter 203; the
+21
+               Northern Wasco County People’s Utility District, an Oregon People’s Utility
+22
+               District formed under ORS Chapter 261; the Port of The Dalles, an
+23
+24             Oregon Municipal Corporation formed under ORS Chapter 777 (‘Port’);
+
+25             and the City of The Dalles, Oregon, an Oregon Municipal Corporation.
+
+26             2.     The effective date of the Agreement is July 16, 2001.
+Page
+
+                                                                cot-oot (nt)
+              3.     The public purposes for which the Qualitylife IGA is created are to
+
+              use the authority vested in the Qualitylife |GA to meet the
+ YL
+
+              telecommunications needs of each individual Party and to promote
+ WY
+
+              economic growth and the expansion or addition of business and industry
+ SF
+ oOo
+
+              within Wasco County and the Mid-Columbia Gorge community through the
+ DOD
+
+              development of an advanced telecommunications infrastructure and
+ NY
+
+              related programs.
+ aoa
+
+              4.     To carry out its public purposes, the Qualitylife GA shall have the
+  yp
+
+              powers, duties and functions set forth in the Agreement.
+ESE
+
+              5.     The creation of the Qualitylife IGA pursuant to an Agreement
+
+              substantially in the form of the Agreement attached hereto as Exhibit A is
+BH
+
+              hereby ratified and approved and the County Court is authorized to
+
+              execute and deliver on behalf of Wasco County an Agreement in
+Baur
+
+              substantially such form.
+
+              6.     Immediate action being necessary to carry out the Qualitylife IGA
+
+              public purposes on an economic and efficient basis, an emergency is
+Ge
+
+              declared to exist and this Ordinance shall take effect immediately upon its
+
+               execution by the County.
+6
+&§
+
+       fit
+Sb
+
+       TN
+&©
+
+       Aut
+one
+
+       Tlf
+
+       Milt
+i]
+a
+
+Page
+
+                                                      vol- Oot Cr
+              ADOPTED at a meeting of the County Court of Wasco County, Oregon
+
+       held on June 27th, 2001.
+ WH
+ Ee
+
+                                                n Mabrey, County Jyp6
+                                        MAT A
+ eH
+ DOD
+ NN
+
+                                             Scott McKay, County Commissiner
+ ao
+ wo
+
+                                                 Alboontk
+10                                           Dan Ericksen, County Commissioner
+
+11     ATTEST:
+12
+        Porn.             NMbide
+13
+       Kathy McBride
+14     Clerk of the Court
+
+15     APPROVED AS TO FORM:
+16
+17                          e
+
+       Eric   Jv Nisley
+18     Wasco County District Attorney
+
+19
+20
+21
+
+22
+23
+24
+25
+26
+Page
+                                                                                 FILED WASCO        CTY
+Ol-604%                                                   THE DALLES OR.
+ Dram                  INTERGOVERNMENTAL AGREEMENT CREATING         AH Gl
+                                              INTERGOVERNMENTAL              AGENCY        id 39
+   a                 THE   QUALITYLIFE
+
+                                                                                              ERE     oy
+            THIS INTERGOVERNMENTAL AGREEMENT CREATING THK QUART
+                                                              betw, DUNT
+     INTERGOVERNMENTAL AGENCY (Agency) is entered into by and
+                                                                                         undér Bes
+    parties: the Northern Wasco County People’s Utility District, an Oregon PUB ormed
+                                                                                       formed
+    Chapter 261 (“NWPUD”); the Port of The Dalles, an Oregon municipal corporation
+                                                                                       of Oregon
+    under ORS Chapter 777 (“Port”); Wasco County, a political subdivision of the State
+                                                                                 the City of The
+    formed under the Oregon Constitution and ORS Chapter 203 (“County”); and
+                                                                            is referred to herein
+    Dalles, Oregon, an Oregon municipal corporation (“City”) (each of which
+    individually as a “Party” and collectively as the “Parties”).
+
+                                                RECITALS:
+
+    A.      WHEREAS, the Parties hereto are authorized to enter into this Agreement creating an
+                                                                                                to
+           intergovernmental agency pursuant to their respective principal acts and ORS 190.003
+           190.265;
+
+    B.     WHEREAS, NWPUD           is a consumer-owned utility engaged in the generation, distribution
+           and sale of electric energy;
+
+    Cc.    WHEREAS, NWPUD requires telecommunications capabilities for the efficient
+                                                                                                l
+           management of electric load, conservation, acquisition and distribution of electrica
+           energy and other utility purposes;
+
+                                                                                        or
+    Dz.     WHEREAS, NWPUD further desires to promote economic growth and the expansion
+                                                                                          umbia Gorge
+           addition of business and industry within its service territory and the Mid-Col
+                                                                                             related
+           community through the development of telecommunications infrastructure and
+           programs;
+                                                                                    of port
+    E.     WHEREAS, the Port is engaged in the ownership, operation and maintenance
+           facilities in Wasco County;
+
+    F,     WHEREAS, the Port requires telecommunications capabilities for the efficient
+           management of Port facilities;
+
+                                                                                     the
+    G.     WHEREAS, the Port further desires to promote economic development through
+           development of telecommunications infrastructure and related programs;
+
+    H.      WHEREAS, the County is engaged in the provision of general local governmental
+            services within Wasco County;
+                                                                                       the
+    L       WHEREAS, the County operations require telecommunications capabilities for
+
+                                                              favel- cared Ly)
+     1 - AGREEMENT
+      efficient provision of local governmental services;
+
+      WHEREAS, the County further desires to promote economic and community
+                                                                                   the
+      development within Wasco County and the Mid-Columbia Gorge community through
+      development of telecommunications infrastructure and related programs;
+                                                                                  services
+      WHEREAS, the City is engaged in the provision of general local governmental
+      within Wasco County;
+
+                                                                           the efficient
+      WHEREAS, City operations require telecommunications capabilities for
+      provision of local governmental services;
+
+                                                                          development
+      WHEREAS, the City further desires to promote economic and community
+                                                                                   ment
+      within Wasco County and the Mid-Columbia Gorge community through the develop
+      of telecommunications infrastructure and related programs,
+
+                                                                           their respective
+      WHEREAS, the Parties intend to further the economy and efficiency of
+      units of local government by forming an intergovernmental agency;
+                                                                                               any or
+      WHEREAS, pursuant to ORS 190.010, an intergovernmental agency may perform
+                                                                                             , has
+      all functions and activities that a Party to an Agreement, or its officers or agencies
+      the authority to perform;
+
+                                                                                   ife
+      WHEREAS, the Parties intend to use any authority delegated to the Qualityl
+                                                                          y  and  efficien cy of
+      Intergovernmental Agency (as defined herein) to further the econom
+                                                                               nance of a
+      each Party by the design, construction, ownership, operation and mainte
+                                                                     and the Mid-Co  lumbia
+      telecommunications network for the benefit of Wasco County
+      Gorge community;
+                                                4
+                                                                                     acts,
+      WHEREAS, each of the Parties has taken all actions required under applicable
+      charters and law to authorize the execution and performance of this Agreement;
+
+                                                                              y, terms, and
+R.    WHEREAS, the Parties intend by this Agreement to set forth the authorit
+                                                                             will act;
+      conditions pursuant to which the Qualitylife Intergovernmental Agency
+
+NOW, THEREFORE,       THE PARTIES agree as follows:
+
+                                 ARTICLE 1
+                  QUALITYLIFE INTERGOVERNMENTAL                       AGENCY
+
+                                                                                 ife
+1.1   Qualitylife Intergovernmental Agency. There is hereby created the Qualityl
+                                                                                     The parties
+      Intergovernmental Agency (“Qualitylife Intergovernmental Agency”) “IGA”.
+      to the IGA are NWPUD, the Port, the County, and the City.
+
+2 - AGREEMENT
+
+                                                          fa00/- Cov/ tn)
+                           The effective date of this Agreement is                  , 2001.
+1.2    Effective Date.
+
+13.    General Powers.      The IGA shall have the following general powers:
+
+                                                                           such bylaws, rules,
+         1.3.1 To adopt, through action of its Board (as defined herein),
+                                                                           ent,
+regulations, and policies necessary to further the purposes of this Agreem
+
+                                                                             and maintain a
+        1.3.2    To study the best method to design, construct, own, operate
+                                                                          lumbia Gorge
+telecommunications network for the benefit of Wasco County and the Mid-Co
+Community;
+
+                                                                                                ORS
+        1.3.3.   To perform and exercise, pursuant to the principal acts of the Parties or by
+                                                                             or state or federal law
+190.003 to 190.265, all powers pursuant to applicable charter, ordinance,
+                                                                        construct, own, operate and
+which are necessary or desirable to efficiently and effectively design,
+                                                                             and the Mid-Columbia
+maintain a telecommunications network for the benefit of Wasco County
+Gorge community.
+
+                                                                                  s, or right of way
+        1.3.4    To purchase, own, hold, appropriate, and condemn land, facilitie
+                                                                       in furtherance of the
+either in its own name or in the name of the individual Parties hereto
+                                                                          network for the
+construction, ownership, operation or maintenance of a telecommunications
+benefit of Wasco County and the Mid-Columbia Gorge community.
+                                                                                        purpose of
+        1.3.5    To enter into agreements with other public or private entities for the
+                                                                      mmunications network in
+design, construction, ownership, operation or maintenance of a teleco
+Wasco County and the Mid-Columbia Gorge community.
+                                                                           other forms of
+        1.3.6 To issue, sell or otherwise dispose of bonds, securities, or
+                                                                        288.805 to ORS 288.945;
+indebtedness, including the power to issue revenue bonds under ORS
+
+        1.3.7    To adopt and implement an annual budget.     The adoption of an annual budget shall
+                                                                              work plan and an
+require unanimous vote of the Board. The Board shall provide for an annual
+                                                                              services to further
+estimate of expenses for the next fiscal year. Each Party may provide in-kind
+the purposes of the IGA as each Party deems necessary or desirable.      Such in-kind services shall
+                                                                se agreed.
+not be reimbursed from the IGA or other Parties, unless otherwi
+
+                                                                                              ry or
+         1.3.8  To hire and discharge employees, by majority vote of the Board, as is necessa
+                                                                        which such authorit may
+                                                                                           y
+desirable to economically and efficiently develop and operate the IGA
+be delegated to management of the IGA; and
+
+                                                                                              ual
+        13.9     To exercise all powers pursuant to the applicable acts or law of the individ
+                                                                         develop and operate the
+Parties which are necessary or desirable to economically and efficiently
+
+3 - AGREEMENT
+
+                                                           fv0!- OMY ee,
+        1.4     Meetings. Meetings of the IGA shall be conducted in accordance with the
+provisions of the Oregon Public Meetings Law, ORS 192.610 to 192.710.
+
+        1.5     Offices.   The principal offices of the IGA shail be located at NWPUD offices,
+2345 River Road, The Dalles, OR 97058.
+
+        1.6     Fiscal Year. The fiscal year for the agency shall be July 1 through June 30.
+
+        1.7   Start-Up Costs.      IGA shall reimburse NWPUD for all outside expenses, including
+                                                                                              of
+but not limited to legal and professional services, incurred in connection with the formation
+the IGA.
+
+        1.8   Several Liability.    Unless as otherwise expressly agreed in writing, there shall be no
+joint and several liability of the Parties either in contract or tort and all obligations of the IGA or
+                                                                                                   be
+the Parties shall be several only. Without limiting the foregoing, no Party to the IGA shall
+                                                                                    other wrongful
+liable for damages, debts or claims caused solely by the negligent act, omission or
+                                                                                               or
+act by the IGA or other Parties. The Party causing damage by its sole negligent act, omission
+wrongful act shall be individually liable.
+
+                                         ARTICLE IT
+                                GOVERNANCE AND MEMBERSHIP
+
+         2.1 Board of Directors. The IGA shall be governed by a Board of Directors (“Board”).
+                                                                                            one (1)
+The governing body of each Party shall appoint one (1) representative to the Board and
+                                                                                    only  during  the
+alternate representative. An alternate representative shall act in a Board capacity
+                                                                                        shall serve at
+absence of that Party’s representative. Representatives and alternate representatives
+                                                                                               body
+the pleasure of their respective governing bodies. In the event of a vacancy, the governing
+of the Party that appointed the departed representative shall appoint  a successor.
+
+                                                                                              its
+       2.2 Officers. After the effective date of this Agreement, the Board shall elect from
+                                                                                       “Officers”)
+membership a President, a Vice President, and a Secretary/Treasurer (collectively, the
+who shall serve a term consisting of the remainder of 2001 and the following calendar year.
+                                                                                    from its
+Thereafter, annually, at the beginning of each calendar year, the Board shall elect
+membership Officers who shall serve as a term of one (1) year. Officers shall serve at the
+pleasure of the Board or until their successor shall be appointed and take office.
+
+                 2.2.1 Duties of President. The President shall preside at all meetings of the IGA
+and shall submit such recommendations and information as she or he may determine appropriate
+                                                                                              of the
+to discuss at the IGA meeting. The President shall perform the duties and responsibilities
+IGA in accordance with the obligations and limitations set forth in this Agreement. The
+President shall not otherwise hold herself or himself out to have the authority to bind the
+members of the IGA to any financial or other obligations.
+
+4 - AGREEMENT
+
+                                                               Pavor- OY uy)
+                2.2.2 Duties of Vice President. The Vice President shall perform the duties of
+                                                                                    resignation or
+the President in the absence or the incapacity of the President. In the case of the
+                                                                                          until such
+the death of the President, the Vice President shall perform the duties of the President
+time as the Board shall elect a new President.
+
+                 2.2.3 Secretary/Treasurer. The Secretary/Treasurer shall keep the minutes and
+                                                                                     y/Treasurer.
+the official records of the IGA and perform such other duties required of a Secretar
+                                                                           or all funds of the IGA.
+The Secretary/Treasurer shall be responsible for the fiscal administration
+                                                                              act as co-signers of
+The Secretary/Treasurer and either the President or the Vice President shall
+                                                                             delegate the
+checks drawn upon the accounts of the IGA. The Secretary/Treasurer may
+                                                                                  need not be on the
+administrative functions of her or his office to another person or persons who
+Board.
+
+                2.2.4 Additional Duties. The Officers of the IGA shall perform such other
+                                                                             or other rules and
+duties and functions as may from time to time be required by the IGA bylaws,
+regulations.
+
+       2.3 Voting Rights. Except as otherwise expressly provided in this Agreement, the
+Board shall exercise its voting rights in the following manner:
+                                                                                           to
+                2.3.1 Manner of Acting. A majority vote of the Board shall be necessary
+                                                                              to decide financial
+decide any issue except that a unanimous vote of the Board shall be required
+                                                                            t to Section 2.3.3, for
+matters described in Section 2.3.2, for the addition of new members pursuan
+                                                                                   2.5.2, and
+the acceptance of or amendment to the scope of work pursuant to Sections 2.5.1 and
+for the dissolution of the IGA pursuant to Section 3.1;
+
+                2.3.2 Financial Matters. Any decision of IGA involving the procurement of
+                                                                                 obligation,
+goods or services outside the adopted budget, or the incurrence of any financial
+                                                                      indebtedness, exclusive of
+including the issuance or sale of bonds, securities or other forms of
+                                                                            of each individual
+expenditures within the budget, shall require the affirmative authorization
+                                                                              e or other binding
+Party to be bound, such authorization to be expressed by resolution, ordinanc
+                                                                               ing such actions
+commitment of the Party’s governing body. Parties not affirmatively authoriz
+                                                                                 the budget shall
+shall in no instances be liable. The procurement of goods and services outside
+                                                                                   onment of fees,
+be performed by resolution or separate agreement which specifies (1) the apporti
+                                                                                             such
+costs, or revenue derived from the functions and activities; and (2) the manner in which
+                                                                             may not involve
+revenue shall be accounted for. Such resolution or separate agreement may or
+                                                                                                for a
+the participation of the IGA; however, such participation of the IGA shall not create liability
+Party that has not affirmatively authorized such action;
+
+                 2.3.3.     NewMembers.     The Board may authorize a new Party to join the IGA
+only if approvedby a unanimous vote of the Board;
+
+         2.4   Insurance.    The IGA shall provide for adequate insurance to cover the directors,
+
+                                                            facot- bar,
+5 - AGREEMENT
+officers, employees, staff, agents and activities undertaken by the IGA.
+
+          2.5   Scope of Work.   A scope of work shall be presented for each specific task or
+                                                                                                The
+project, not previously approved and adopted in the budget, to be undertaken by the IGA.
+scope of the work shall contain a reasonably detailed description of the activities to be
+                                                                                                  of
+undertaken by IGA, a description of any necessary contractual arrangements, an itemization
+                                                                               in-kind services and
+the costs to be incurred in pursuing these activities, an allocation of costs,
+                                                                                                  e,
+ownership interest in the Project among the participating Parties, a plan for project governanc
+an estimate of the expected revenues from such activities and an allocation of such     revenues
+among the participating Parties.
+
+                2.5.1 Acceptance. Each scope of work shall be negotiated on a case-by-case
+basis and if approved by each Party shall be attached as an addendum to this Agreement.
+
+                  2.5.2   Amendments.   No change in a scope of work shall occur without each
+Party’s written consent.
+
+                                         ARTICLE Ill
+                                   TERM AND TERMINATION
+
+         3.1 Term. The term of this Agreement shall be perpetual unless, by a unanimous vote,
+the Parties act to dissolve the IGA.
+
+                 3.1.1. Dissolution. Upon dissolution, each Party to the IGA on the date of
+dissolution shall remain liable solely for its individual share of any IGA expenditure that has
+been specifically incurred by the Party in accordance with the terms of this Agreement or by
+other resolutions or separate agreements of the Party. Upon dissolution, the assets of the IGA
+shall be distributed to the members on the basis of the rights and obligations of each party to the
+assets held as of the date of the dissolution.
+
+        3.2 Voluntary Withdrawal by a Party. Any Party may elect to terminate their
+participation in this Agreement and withdraw from the IGA by giving written notice to the
+President and each member of the IGA. Withdrawal shall be effective forty-five (45) days from
+the date of notice. The withdrawing Party shall continue to pay its apportioned share of, or be
+responsible for, any debt attributable to that Party incurred prior to the Party’s written notice of
+withdrawal, and shall hold harmless the remaining Parties and the IGA for those financial
+responsibilities and obligations attributable solely to the withdrawing Party.
+
+ee   KF
+ee
+eR K
+eR   EK
+ee   EH
+
+ |                                                                2.00/- 0014
+                                                                                                       Ov)
+                                             ARTICLE IV
+                                        DISPUTE RESOLUTION
+
+        4.1   Dispute Resolution.       Ifa dispute arises between the Parties or between the IGA and
+the Parties regarding breach of this Agreement or interpretation of any term of this Agreement,
+the Parties shall first attempt to resolve the dispute by negotiation, followed by binding
+arbitration if negotiation fails to resolve the dispute.
+
+                 4.1.1   Negotiation.    The Board Member or other persons designated by each of
+the disputing Parties will negotiate on behalf of the Parties they represent.   The nature of the
+dispute shall be reduced to writing and shall be presented to each of the disputing Parties who
+shall then meet and attempt to resolve the issue. If the dispute is resolved at this step, there shall
+be a written determination of such resolution, signed by each disputing Party and ratified by the
+IGA which shall be binding upon the Parties.
+
+                 4.1.2   Binding Arbitration. If the dispute cannot be resolved by negotiation
+within forty-five (45) days, the parties shall submit the matter to binding arbitration. The Parties
+shall attempt to agree on an arbitrator. If they cannot agree upon an arbitrator within ten (10)
+days, the Parties shall submit the matter of determining an arbitrator to the Presiding Judge of the
+Wasco County Circuit Court. The common costs of the arbitration shall be borne equally by the
+Parties. Each Party must bear its individual costs and fees.
+
+                                              ARTICLE V
+                                             AMENDMENT
+
+        5.1   This Agreement may be amended by mutual written agreement of the Parties,
+signed by all of the Parties.
+
+                                            ARTICLE VI
+                                        GENERAL PROVISIONS
+
+        6.1   Merger. This Agreement embodies the entire agreement and understanding between
+the Parties relating to the formation of the IGA hereto and supersedes all prior agreements and
+understandings relating to the subject matter hereof.
+
+        6.2 Severability. In case any one or more of the provisions contained in this Agreement
+should be invalid, illegal, or unenforceable in any respect, the validity, legality, and
+enforceability of the remaining provisions contained herein shall not in any way be affected or
+impaired thereby.
+
+        6.3   Notice.    Any notice herein required or permitted to be given shall be given in
+writing, shall be effective when actually received, and may be given by hand delivery or by
+certified mail, first class postage prepaid, addressed to the Parties as follows:
+
+1 - AGREEMENT                                              heo ya Cant td
+ Dwight Langer, General Manager                          Scott Hege, Manager                              John Mabrey
+ Northern Wasco County People’s                          Port of The Dalles                               Wasco County Judge
+ Utility District                                        3636 Klindt Drive                                Wasco County
+                                                         The Dalles, OR 97058                             Courthouse
+ 2345 River Road
+The Dalles, OR 97058                                                                                      511 Washington
+                                                                                                          The Dalles, OR 97058
+
+Nolan Young
+City Manager
+City of The Dalles
+313 Court
+The Dalles, OR 97058.
+
+                                                                                               and
+        6.4 Counterparts. This Agreement may be executed in any number of counterparts
+                                                                                       t between
+by the parties on separate counterparts, any one of which shall constitute an agreemen
+and among the Parties.
+
+                                                                                     set
+        6.5 IN WITNESS WHEREOF, the Parties have executed this Agreement by the date
+forth opposite their names below.
+
+                   c
+
+Lgl                     fog pic                                Date:              Why                     ROO,”
+Dwight       Anger,    General       Manager                                            !                              oe
+                                                                                                                     Oe
+Northern Wasco County People’s
+Utility District
+                                                                                                                    UNDALWILSON gS   y
+                                                                                                             NOTARY PR
+STATE OF OREGON)                                                                                              COMeS DEC OR 20h
+                             ) ss.
+County of Wasco              )
+                                                              vy                    May                       , 2001, by
+         SIGNED OR ATTESTED                    before me this —    day of
+
+                                                        alu                 Xx,             WE
+                                                        Notary Public for Oregon
+                                                        My Commission Expires:                                (al
+
+  Apatt Nhowg.r                                                Date:    ay                       2,       20]
+Chairman                 ,                                                          ?                 ,
+Port of The Dalles
+   lieL-
+ Secretary         J
+ Port of TheDalles
+
+ STATE OF OREGON)
+                       ) ss.
+ County of Wasco       )
+
+        SIGNED OR ATTESTED before me this                  2. day of _ 7774 Va                          __, 2001, by
+Let(2        }¢p-9i5 _, Chairman, Port eee                                /
+                                                          Aden
+                                                  Notary Public for Oregon
+                                                  My Commission Expites: Vee: (2.5, fos
+
+                                                                                            DAL        a                “ti
+                                                                                                        OREGON
+ STATE OF OREGON)                                                                                       304935
+                       ) ss.                                                                            CHS.       200)   %
+                                                                                                        se eset!
+ County of Wasco       )
+
+        SIGNED OR ATTESTED before me this 2-day of ‘77/4 7                                                     , 2001, by
+
+                                                      le                                                            |
+iY 4 Lutte       te    , Secretary, Port of      The Da
+
+                                                 Notary Public for Oregon
+                                                 My Commission Expires:                           ore          30, }
+
+         LL. 2                     y                        Date:        Thee                 2,200 |
+                                                                                  ke              3.292
+                                                                             ~“Sefiolat SEAL
+        County Judge                                                           LINDA L WILSON
+                                                                     ik p. NOTARY   PUBLIC-OREGON
+                                                                            SOMN'SSION NC.204935
+ STATE OF OREGON)
+                       ) ss.
+County of Wasco        )
+
+        SIGNED OR ATTESTED             before me this      2.        day of ANAL                                        , 2001, by
+John Mabrey for Wasco County Court.               ~              .            y                    }
+                                                          wha           of             rf          >
+                                                 Notary Public for Oregon                                      ,
+                                                 My Commission Expires: /2/a3/¢/
+
+ 9 - AGREEMENT
+
+                                                                        favol — V4 (4)
+                  hal  Dons                   Date: Tiee       2    208     |
+ owe,
+Robb Van Cleave, Mayor
+                                                            A EICIAL SEAL
+City of The Dalles                                           DOA L WILSON
+                                                    r NUTARY PUBLIC! ORE     GON
+                                                           {AAMISSION NO.304935
+                                                   jmMISSIOH EXPIRES DEC 03, 2001
+
+STATE OF OREGON)
+                    ) ss.
+County of Wasco     )
+
+                                                 day of                             , 2001, by
+      SIGNED OR ATTESTED before me this
+Robb Van Cleave, Mayor, City of The Dalles.
+
+                                        Notary ee for Oregon
+                                                                  2fos
+                                                                 2/e3/0/
+                                        My Commission Expires: L2fesfet
+
+ ocaonetann                                      frvol- OME py)
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 83.7% of
+the word sequence, and on 58.1% of the figures. Dictionary-recognizable words: 91.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

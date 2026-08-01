@@ -1,0 +1,679 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-uniform-fee-schedule-12-20-1989
+title: 'Uniform Fee Schedule 12-20-1989'
+doc_type: ordinance
+citation: 'Uniform Fee Schedule 12-20-1989'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%2012-20-1989.pdf?t=202503260856120
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: e1a99ec718b98dc11faa3b03be1730c8ec9b4be8171c4d1339ee35eae70106a8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.876; figure agreement 0.651; dictionary ratio 0.861. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.035
+    - ORS 205.320
+    - ORS 92.090
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 88%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Uniform Fee Schedule 12-20-1989 (Uniform Fee Schedule 12-20-1989)
+
+## At a glance
+
+OCR-derived text of Uniform Fee Schedule 12-20-1989. Not human-verified.
+
+## Full text
+
+IN THE          COUNTY      COURT        OF    THE    STALE       OF    OREGON
+                                                                                                           Pi
+                                                     IN AND FOR THE COUNTY OF WASCO-                                    |
+            IN THE MATTER OF AMENDING                                )                             Pep FE  Mh ex TE es
+            WASCO COUNTY'S UNIFORM FEE                               )                          ORDINANCE
+            SCHEDULE FOR VARIOUS COUNTY                              )                              i     ee
+            DEPARTMENTS.                                             )
+ W
+
+            THE    COUNTY          COURT OF          WASCO      COUNTY,           OREGON       DOES     ORDAIN         AS FOLLOWS:
+ Be
+
+            Section         1.         PURPOSE
+ &Tt
+
+                    The      purpose           of    this      Ordinance           is    to amend          established          uniform
+ Oo
+
+       _ fees       to be          collected             by   the Wasco           County       Surveyor          and    Road
+ vn
+
+            Department;                the Wasco          County         Clerk;        the Wasco-Sherman                Public       Health
+ an
+
+            Department;                the Wasco          County         Treasurer/Tax            Collector;            and the Wasco
+ k=)
+
+10          County Community Corrections                                 Department           for performing             the    service
+
+11          required         or necessitated by ORS 92.090,                                   92.100,       192.410         to 192.500,
+
+12          205.340,         209.260,            271.230,           517.030,           517.220,       and 517.290 within Wasco
+
+13          County.
+
+14          Section         2,         AUTHORITY
+
+15                  This Ordinance                   is enacted pursuant                      to the authority granted to
+
+16          general         law Counties                 by   ORS    203.035           and by     Chapter         833    of    the    1979
+
+17          Oregon         Laws.
+
+18          Section         3,         FEE    SCHEDULE
+
+19                  The      following              fees      shall       be    charged        and    collected          by    the
+
+20          indicated            Department              before      the       filing,        recording,          or coping of
+
+21          subject documents                    shall be completed.
+
+22                   (A)     WASCO           COUNTY       SURVEYOR         AND     ROADMASTER
+
+23                               (1)    The    fee       for performing                the    services          set    for in ORS
+
+24                  209.260             shall       be    $10.00         for    the     filing       and    indexing          of a map
+
+25                  of a survey                 (no limit           on size        or number          of sheets).
+
+26          S111
+Page    {     = ORDINANCE
+
+                                                                PPI.              dxab (y)
+                      (2)     The   fee     for Blue Line Printing                        shall be $.30 per sq.                 ft.
+
+              ($1.00 minimum) .
+
+                      (3)     The   fee     for copies of documents                        shall be $.25 per              sheet.
+ Ww
+
+                      (4)     The   fee     for the Surveyor             to check partition                      plats    shall
+ BP
+
+              be $50.00.
+ on
+
+              (B)   WASCO       COUNTY       PLANNING       & DEVELOPMENT                  DEPARTMENT
+ (>>)
+
+                      (1)    The    fee     for copies       of documents                  shall be $.25 per              sheet.
+
+              (C)   WASCO       COUNTY       JUVENILE       DEPARTMENT
+
+                      (1)     The   fee     for    a copy    of    the       Wasco         County        Juvenile
+
+10            Detention Facility                  Policy    and Procedure Manual                         shall be $13.00
+
+11            (This         fee may be waived            for government                   agencies.)
+
+12            (D) WASCO COUNTY CLERK
+
+13                    (1)     The   fee for performing                 the    services             set     forth      in ORS
+
+14            92.090,         92.100      and 271.230        and 205.350                  shall be as follows:
+
+15                  For       approval       by    the   County        Court        of     any     plat,     the      County
+
+16                  Clerk       shall      collect       $10.00;
+
+17                  For recording             and indexing             any plat,                the County Clerk,          in
+
+18                  whose       office       the deeds       of the County                      are kept,       shall charge
+
+19                  as       follows:
+
+20                    (a)    For plats        containing          20 lots or less                   - $25.00
+
+21                    (b)     For   plats     containing          over       20         lots,     and    less    than
+
+22                          30 lots - $30.00
+
+23                    (c)    For    plats     containing          30    lots,            and     less    than    50
+
+24                          lots    - $35.00
+
+25                    (a)    For plats        containing          50    lots,            and     less    than    75
+
+26                          lots    -   $40.00
+
+Page    2- — ORDINANCE
+
+                                                   WEF        0°06                (9)
+ 1                    (e)     For plats          containing        75 lots,        and less         than     100
+
+ y)                          lots    - $45.00
+
+ 3                    (£) For plats containing over 100 lots - $75.00
+
+ 4                    (g)     For partition             plats     - $25.00
+
+ 5                    (2)     The     fee for performing                the     services      set     forth      in ORS
+
+ 6            271.230(2)             for the services            of the County              Surveyor       for marking
+
+              the    record upon               the    original     plat        shall   be    $15.00       to be
+
+ 8            collected by the County Clerk and paid to the County                                            Surveyor.
+
+ 9                    (3)     The     fee      for performing           the     services      set     forth      in ORS
+
+10            517.030         shall be $5.00 per page paid to the                             County       Clerk who
+
+11            shall         inmediately          pay over said sum to the County Treasurer.
+
+12                    (4)     The     fee      for a transcript           from the County Clerk                    lien
+
+13            docket         to Circuit or District Court                        shall be $10.00 which                  is set
+
+14            forth         in ORS     205.320(13).
+
+15                    (5)     The     fee      for performing           the     services      set     forth      in ORS
+
+16            517.220         shall be $5.00 per page.
+
+17                    (6)     The     fee      for performing           the     services      set     forth      in ORS
+
+18            517.290         shall       be    $5.00    per    page.
+
+19                    (7)     The     fee      for    performing        the     services      set     forth      in ORS
+
+20            471.210(3)            for     liquor      license     application             recommendation             shall
+
+21            be $25.00.
+
+22            (E)    THE      WASCO-SHERMAN             PUBLIC    HEALTH         DEPARTMENT
+
+23                    (1)     The    fees       for    performing        the     services         required       for    on-
+
+24            site     sewage disposal                 shall be those on Exhibit A attached
+
+25            hereto         and by this             reference     incorporated             herein.
+
+26                    (2)     The    fee       for    a records     search        shall      be    $.50    per     record.
+
+Page   3   = ORDINANCE
+
+                                                      PY?       - 0 fob           9)
+                                       (3)    The   fee     for copies of documents               shall be $.25 per sheet.
+  SPlUOOUUCUMDCOUUUlU
+
+                                       (4)    The   fees     for performing          the tests       and providing        the
+
+                                services       incidental         to the operation           of the Health Department
+
+                                shall be those on Exhibit                   B attached       hereto    and by this
+
+                                reference       incorporated herein,                 No person will be refused                 said
+     Uo
+
+                                services       because      of inability           to pay.
+     CO
+
+                                (F)    THE WASCO        COUNTY      SHERIFF'S       DEPARTMENT
+     nN
+
+                                       (1)    The   fee     for performing          a records       search and providing              a
+      oOo
+
+                                copy of a theft             report    shall be $5.00          per request.
+      op
+
+                                       (2)    The   fee     for performing          a records       search      and providing         a
+      CO
+
+                                copy of an accident report                   shall be $10.00          per request.
+      KX
+
+                                       (3)    The   fee     for taking       a complete        set of fingerprints             and
+eek
+      KH
+
+                                providing       an inked          set shall be $2.50 per request.
+      WO
+
+                                (G)    THE    WASCO     COUNTY     ASSESSOR'S        DEPARTMENT
+      BP
+
+                                       (1)    The     fee   for    copies    of documents          shall   be    $.25   per    sheet.
+      we
+
+                                       (2)    The   fee     for computer print outs                shall be $.25 per page,
+      TD
+
+                                or    $5.00    minimum.
+      NH
+
+                                       (3)    The     fee   for    Stock    Maps    shall    be    $1.00   per map.
+      BOB
+mm
+
+                                       (4)    The     fee   for State Ordered Maps                shall be $1.50 per map
+owe
+      HO
+
+                                plus     postage.
+      CO
+DR
+
+                                (H)    THE    WASCO     COUNTY      TREASURER/TAX        COLLECTOR'S         DEPARTMENT
+DD
+      -§
+
+                                       (1)    The     fee   for photocopies          shall be       $.25 per sheet.
+      HO
+WR
+
+                                       (2)    The     fee   for computer        copies       shall be $.50 per          sheet.
+      CO
+BH
+
+                                       (3)    The     fee   for Non-Sufficient           Funds      shall be $10.00           per
+      SP
+DN
+
+                                check.
+      ww
+BD
+
+                                       (4)    The     fee for certifying            true copies       shall be $5.00.
+      QO
+ND
+
+Page                    Ut   — ORDINANCE
+
+                                                                   P¥9- 7406 4
+                             (5)     The   fee for furnishing          a substitute         for a Tax Statement
+
+                  (Copy of Tax Statement                    or Tax Roll)        shall be $2.00        if Reference
+
+                 Number             is   furnished,       if not,    the fee shall be $3.00.
+ w
+
+                             (6)     The   fee     for stop payment        shall be $11.00.
+ SS
+
+                  (I)    THE         WASCO    COUNTY      JUDGE'S    OFFICE
+ on
+
+                             (1)     The   fee     for copies     of documents      shall     be   $.25   per    sheet.
+ i~))
+
+                  (J)    THE         WASCO    COUNTY      COMMUNITY    CORRECTION'S         DEPARTMENT
+
+                             (1)     The   fee     for monthly      Supervision     Fee     for Probation        shall
+
+                 be     $25.00           per month.
+
+10                           (2)     The   fee     for Persons ordered by the Courts                 to perform
+
+11               Community               Service     in Wasco     County    shall   bear     the   cost   of    their
+
+12               participation                in such program,
+
+13          Section     4,         ENACTMENT       PROVISIONS
+
+14                (1)    CONFORMANCE              WITH    LAW
+
+15               Except             as expressly         provided herein,        this Ordinance        shall     in no
+
+16          way be a substitute                   for or eliminate      the necessity         of conforming with
+
+17          any and all State and Federal Laws,                        rules     and regulations          including
+
+18          but not     limited to the payment                   of all other       fees required by law and
+
+19          other Ordinances which                   are now nor may be in the              future    in effect
+
+20          which relate             to the requirements            provided     in this     Ordinance.
+
+21                (2)    SEPARABILITY
+
+22               If any section,                   subsection,      sentence,     clause,     phrase or portion
+
+23          of this     Ordinance            is    for any reason held          invalid or unconstitutional
+
+24          by a Court of competent                   jurisdiction,        such portion       shall be deemed           a
+
+25          separate,         distinct        and independent provision,             and     such holdings        shall
+
+26          not affect             the validity of the remaining                portion of this Ordinance.
+Page    5     ~- ORDINANCE
+
+                                                         PEI
+                                                          - 606 | 9)
+                         (3)     EMERGENCY                 DECLARED
+
+                     This            Ordinance              being        immediately        necessary          to establish        uniform
+
+         fees        to be              collected            by    the     various        County     Departments          for performing
+Ww
+
+         the        services                     set     forth    but     not   limited      to ORS        92.090,       92.100,
+BS
+an
+
+         205.340,                209.260,                 271.230,        517.030,        517.220     and      517.290       within Wasco
+    oO
+
+         County,                an emergency                 is declared           to exist         and    this    Ordinance       shall
+ oO
+
+         take        effect                immediately             upon     passage.
+
+                     Regularly                     passed        and     adopted     by    a unanimous          vote    of    all members
+
+         of        the         County             Court     of    the     County     of Wasco,        State       of Oregon,       this
+
+10       20th        day         of        Decenber,             1989,
+
+11                                                                                         WASCO     COUNTY       COURT
+
+12                                                                                                   Wi .
+                                                                                            WMA Ain’               Ales
+13                                                                                         William        L.   Hulse,     County    Judge
+
+14
+15                                                                                         Scott McKay, ,County Commissioner
+                                                                                              JO ff      eng        fe
+16
+17                                                                                   on
+
+18       APPROVED                AS        TO      FORM:f        A
+
+19            Zz    - Se.       OR    pancetta   t a0)                    ykaN es
+
+         Bernard L. Smith
+20       Wasco County District Attorney
+
+21
+22
+23
+24
+25
+26
+Page     (2 - ORDINANCE
+
+                                                                          PEG avo 4,
+                                                       WASCO-SHERMAN
+                                      PUBLIC              HEALTH                 DEPARTMENT
+
+                                                  ON-SITE        SEWAGE        DISPOSAL       FEES
+
+a)   New   Site    Evaluation:
+                   (A) Single Family              Dwelling
+                             First Lotecscccccccccvecccsensccesecevecscevesessvessceces   0 9175.00
+                             Each Additional Lot Evaluated During Initial Visit...... «+++ S150.00
+                   (B)    Commercial         Facility       System
+                             For first 1000 Gallons Projected Sewage Flow.........esee6- -»$175.00
+                             Plus for each 500 gallons or part thereof above
+                             1000 GALLONS... rccescnccccsencceeenscsecerecesesesesessves 90.00
+                   (C)       Each fee paid entitles the applicant to as many site
+                             inspections on a single parcel or lot as are necessary
+                             to determine site suitability for a single system.   The
+                             applicant may request additional site inspections within
+                             90 days of the initial site evaluation, at no extra cost.
+                   (D)       Separate fees shall be required if site inspections                                         are to
+                             determine site suitability for more than one system                                         on a
+                             single parcel of land.
+b)    Construction          Installation          Permit:
+                   (A)       For     first     1000     gallon     projected          daily     sewage    flow
+                             Standard        On-Site      Systems..........              ce eees         sce   eens       e eens ~»S     75.00
+                             Alternative          System      other      than     listed      below: .           cee     eee eee .-S     75.00
+                             Aerobic System....... eee w eens eee eeeee oe eee rere        reccene veeeeS 95.00
+                             Capping Fill......... see eceees sees eeees Cenc      e een e teen ees «+S 95.00
+                             Evapotranspiration-Absorption........ occ c eee econ seeaes eeeeeS 95,00
+                             HOLGINg tank... reser crew cece vere sees vsccvsscesessveseseses® 95,00
+                             Pressure DIStribution....       cee cece eee n eee enenecncrecevsszessd 95,00
+                             REGUndant.. cs ccsccccccecsnvccccneeracseseessscesesesesstoene $ 95.00
+                             Tile Dewatering. ...ccccce cere ccc seen renee rec essevesesseesseed 95,00
+                             SANG FLICCr. ce cs ec ce cesses eee vececc ev esereseceeseverccees        2 0 S150, 00
+                   (B)       For systems with projected daily sewage flows greater than
+                             1000 gallons, the construction installation permit fee shall
+                             be equal to the fee required in (b) (A) plus $10 for each
+                             500 gallons or part thereof above 1000 gallons.
+                   (C)       Commercial         Facility        System,        Plan     Review:
+                             For first 1000 gallons projected daily flow. ....c.ceceeeeees $ 55.00
+                             Plus for each 500 gallons or part thereof above 1000, toa
+                             maximum sewage flow limit of 5000 gallons per day...........$ 10.00
+                   (D)       Construction~Installation                    Permit       Renewal....... se               e eee eens $ 75.00
+C)   Alteration          PELMit.....cccececevcevesvvves eeeeeee se                         ee eee cee ceeee vee eee «+S                  75.00
+a)    Repair      Permit:
+                   (A)    Single         family       dwelling........... etc eeeeneee see                        e cece eeeeee $ 25.00
+                   (B)       Commercial family.               ...The     appropriate          fee    identified          in
+                             (b) (A) (B)
+e)   Authorization           Notice:
+                             Tf field        visit     required. ..e cece cece cece ec ene renee ss ees ees ce 2919.00
+                             No field        visit     required.  cic ec cen      cccccnees soccer ese eee c eee ec 929400
+£)   Annual       Evaluation        of   Alternative          System      (Where       Required).....
+                                                                                              cee eceee eee e 0875.00
+g)    Annual      Evaluation        of    Large      System      (2501    to    5000     GPD)..... see eeee eee cence $75.00
+h)    Annual      Evaluation        of Temporary          Mobile       home.........00- occe were ec ee neces - -§50.00
+i)    Rural    Area      Variance        to Standard        Subsurface          Rules
+                   (A)       Site     Evaluation........... see
+                                                              e ewer ceveeee sd eeeecceeceene «- $175.00
+                             NOTE:   In the event there is on file a site evaluation                                          report
+                             for that parcel that is less than ninety days old, the                                           site
+                             evaluation fee shall be waived.
+                   (B)       Construction Installation Permit.. The appropriate fee
+                             identified in (b) (A) applies.
+j)     Sewage      Disposal         Service:
+                             Pumper       Truck       Inspection,        each     vehicle.........ceeeeseeeeeeS 25.00
+k)     Existing          system     evaluation         LrEPOrt..
+                                                            cee ee eee eeeceenes sere
+                                                                                  cero sereeneed                                       20400
+                                                                                              yo.         fy et bn            pms
+                                                ON-SI?                                                                                                                                        .
+                                      SEWAGE     DISP            FEES                                                                                                                       FEE
+
+                                      (a)      New   Sile     Evaluation:
+                                                                tA)     Single            Fumily         Owelling
+                                                                               Cirst         LOL         cic cccn cee eceeerne
+                                                                                                                            renee enensees sedan                                   eeoees   b150
+                                                                               Cuch        Additional            Lot       Cvaluated           During        Initial        Visit...            $125
+                                                                (8)      Commercial               Facilily           System
+                                                                               For        first      1000       Gallons          Projected         Daily          Sewage     Flow      ..   $150
+                                                                               Plus         For     Cach       500     Gallons       or     Part      Thereof           Above
+                                                                               LOOO         gallONS           wrccscsaccevvccccecccrrsssscassevcssee «.                                     $ 40
+                                                                (C)      fCach       Fee     paid        entitles          the     applicant          to as many            site
+                                                                         inspections                on    a    singlé       parcel        er    lot     as    are       necessary
+                                                                         to delermine site suitability for a single system.   The
+                                                                         applicant may request additional site inspections within
+                                                                         90    cays         of     the     initial         site     evaluation,              at    no     extra     cost.
+                                                                (0)      Separate fees shall be required if site inspections are
+                                                                         to determine site suilability for more than one system
+                                                                         on a single parcel of land,
+
+                                       {b)     Construction            Installation                Permit:
+                                                                (A)      For     First            1000     Gallons         Projected           Daily        Sewage        Flor:
+                                                                         Standard            On-Site           System       s.ccocccccsccsesensccesecssesece                                $ID
+                                                                                                                                                                                            ee
+                                                                         Alternative                System:
+WASCO-   SHERMAN         PUBLIC    HEALTH       DEK                      Aerobic            System            recessessrceeserereacessrseeseressssess                                       : 2
+                                                                         Capping Fill wecesccscnesaceencs aeeene
+         400     FAST    FIFTH    STREET                                 Cesspud] viscrscccvccccccvcccteccccvesescesecssesessnses                                                           $99
+                                                                         Evapotranspiration~AbSOrption ..cssceccasescensesessemes                                                           $95
+     THE       DALLES,    OREGON     97048                               Gray Water Waste Disposal SUMP ....scceeeeeereteaseesens $55
+                                                                         Holding Tank secccscccecccvccecscescrsevecsevecesseresae                                                           $ID
+                                                                         Pressure Distribution ....ccseceecccecceecececesesceense                                                           & ID
+                                                                         Redundatit ..sccccecceccecraeecete eet eeneneeneeeesesans                                                          6 ID
+
+                                                                         Seepage            Pit wo ..eeeeeeee eee eee Lecce eee neers eeenneesesee                                          & OD
+                                                                         Seepage            Trench .essccreeeeees see een ence eesetereceseeree                                             2 OD
+                                                                         Steep            Slope      ........ nS                                                                                  SD
+                                                                         Tile        Dewatering                ..sssesseeseees sec ceee eee reeseeseestece                                  9 ID
+
+                                                                (68)     For        syslems         with       projected           daily       sewage        flows        yreuter
+                                                                         than 1000 gallons, the construction installation permit
+                                                                         fee shail be equal to the fee required in (b)(A) plus
+                                                                         $10 for each 500 gallons or part thereof sbove 1000
+                                                                         gallons.
+
+                                                                (C)      Commercial                Facility          System,        Plan       Review:
+
+                                                                         for first 1000 gallons projected daily sewage flow                                                        .....    $ 55
+                                                                         Plus far wach 500 gallons er part thereof above
+                                                                         1000, to a maximum sewage flow limit of 5C00
+                                                                         gallons per day                      visccccscsssosescccsscessccesersvesesees                                      $ 10
+                                                                (0)      Construction-Installation                                Permit       Renewal:
+                                                                         If     Field        Visit        Required          ...ccccce
+                                                                                                                               cece ee cece eteeeseeesees                                   &     OS
+                                                                         No Field            Visit        Required          ...cecssvcusecvcvcrveves coseteee                               $15
+                                                                         NOTE:   Renewal of a permit may be granted to the
+                                                                         original permittee if un application for permit
+                                                                         renewal is filed prior to the original permit
+                                                                         expiration dale.
+
+                                      (c)      Alteration        Permit          .occecccccecoeccceccsccesccssscesscccecsesscecsececes                                                      $ 55
+
+                                       (d)     Repair       Permit:
+                                                                (A)      Single Family Dwelling                            cscccosesscccccecssccsesevereevas                                $ 20
+                                                                (8)      Commereial                Facility          ...    The     appropriate              fee
+                                                                         identified in (b)(A)(B)
+                                      (e)      Authorization            Notice;
+                                                                         If Field            Visit        Required          ,.cccssssecccccereessentasesseon                                § SS
+                                                                         No Field            Visit        Required          ...,.cccsesocesecacrscecceeseace                                PAS
+
+                                       (fF)    Annual       Evaluation         of Alternative                   System        (Where        Required)....... teeeneae                       $ 50.
+
+                                       (g)     Annual Evaluation of Large System                                 (2501 to 5000 GPD). .....sseeeees tices                                    $ 50
+
+                                       (h).    Annual       Evaluation         of     Temporary               Mobile       Home     ....cccssocccccccesueereseess                           $ 90
+
+                                       (i)     Rural     Area    Variance            to     Standard           Subsurface           Rules
+                                                                (A)      Site        Evaluation               ...ccceseesceeeseereseeceetecs seeeeeccee                                     $135
+                                                                         NOTE:   In the event there is on file a site evaluation
+                                                                         report for that parcel that is less than ninety days
+                                                                         old, the site evaluation fee shall be waived.
+                                                                (B}      Construction Installation Permit .,.                                         The     appropriate
+                                                                         fee identified in (b)(A) applies.
+
+                                       (j)     Sewage       Disposal      Service:
+                                                                         Pumper Truck                Inspection,             Each     Vehicle           ..... de eeee cesaece               $ 25
+
+                                                                                                                     DEG.                  OLOL                     fa,
+                                                        WASCO-SHERMAN PUBLIC HEALTH DEPARTMENT
+                                                                     400 East 5th Street
+IRS #93-6002315                                                                       Annex A                                                AFS Provider Numbers WSPHD
+                                                                        The Dalles, Oregon 97058                                             FP #320549
+                                                                                 296-4636                                                    Public Clinic #096685
+Pt. Name                                                                                                                                  Date
+Pt. Insurance Co.                                                                                                                         AFS #
+OFFICE VISITS ............ccscceeeccsserseessetccessecceusenencenensins                         LABORATORY ow                     rtessseeeeeeettteesseeereetesg sais seveaees 555
+     New Patient                                                                                Q     Urinalysis, Dip      slic
+Q Brief Service                                               90000        23.00                a Hematocrit                                                         a            OC«
+Q Intermediate Service                                       90015         44.82                a ae Citure                                                          a70R1      1175
+0 Cone eee                                                   90020         90.00                     Wet Mount/Nickersons                                            87210      10.50
+             .              '                                                                   Q) Pregnancy Test                                                    84702       13.75
+7 established Patient                                         90030          8.00               Q Venipuncture, routine                                              36415        3.50
+Q Brief Service                                               90040        11.75
+Q Limited Service                                             90050        15.50                IMIMUNIZATION/INJECTION                     ...........cccscasscsseossseseseuseveunes
+Q Intermediate Service                                        90060        20.00                Q DIP                                                              90701          7.00
+Q Comprehensive Exam                                          90080        33.50                Q DT, Td                                                           90702          7.00
+       (annual)                                                                                 a tt                                                               oe             er
+Tae        Pater         cae esuaeeeneeeenneateeeeuarneeseseaesucaueanteverssues                QO   MR R                                                             907087      7!700
+
+Q OB Brief
+       vw Service .                                           90000    ~=s_- 15.00              HIB
+                                                                                                Q Immune Globulin                                                     oun
+                                                                                                                                                                        7         ro.00
+Q OB Limited Service                                          90010        25.00                Q Rhogam                                                              90742       7.00
+Q OB Intermediate Serv.
+                    é                                         90015        50.50                O Mi Miscellaneous Ini.!nj. (list)
+                                                                                                                              (fi                                     90782       4225
+Q OB Ean Service                                              90017        67.00                Q TB Skin Test (PPD)                                                  86580       5.00
+0 OBEstablished
+      te Sree Patient                                         go040         1500                SUPPLIES - CONTRACEPTION
+                                                                                                              CONT         & MEDICATION
+                                                                                                                                 DICATION              soe
+                                                                                                                                          ........c0cece0es
+Q OB Limited Service                                          90050         25.00               Brand/T ype           Amt. Given                   Unit Price
+Q OB Intermed. Serv.                                          90060        50.50
+Q OB Extended Serv,                                           90070        67,00
+
+Q) Antepart
+     Antepartum C Care                                        5942
+                                                               9420       734,
+                                                                           34.00
+Q Postpartum Only                                             59430         55.00               CHARGES. ............cccccceeceeeseeeenseseeeeusecereeueaeeaeseeanaauees
+MATERNITY MANAGEMENT                  ............ccccccssssesceerersssceconees                                                                  Balance Forward
+Q Initial Needs Assess.                                      1000A          —-20.00                                                                 Today's Fees
+Q Ongoing CM (uN                                             1001A          60.00                                                                     % Payment
+GlGl High
+       igh Fisk
+             Ris CM (ull)
+                      U
+     High Risk GM (prt)
+                                                             10034 10000
+                                                             10044  50.00
+                                                                                                                                                   Ot
+                                                                                                                                                   Anh
+                                                                                                                                                      PaPai
+Q Nutritional Counseling                                     1005A          40.00                                                                                        —_—
+Q Home Services                                              1006A          60.00               DIAGNOSIS CODES ce ceeeeeaeeeaeeeeeseusneneeseceeteceerseeseeaeeeets
+Q Total Maternity Management (pkg)              1007A      430.00                               Q Contraception                                                        09.9
+MISCELLANEOUS .........c:ccccccsssessucesseceeeesnsesseecseerenes                               1 Family Planning                                                    V25,.09
+Q Handling Charge                                             99001          3.25               O Gynecological Exam                                                 V.72.3
+Q Dispensing Fee                                              90030          4.00               Q) Immunization                                                         V05
+Q Blood Pressure Check                                     donation          3.50               Q Postpartum Exam                                                     V24,2
+                                                                                                Q) Pregnancy                                                          V22.2
+WELL BABY .....c.cscsccssessseccesececesecsestsusassesesesecececcenens                          Q Prenatal Exam                                                       V2.2
+     New Patient                                                                                Q) Well Child                                                         V20.2
+Qi Initial Exam, 5-11 years                                  90752         25.75
+QQ) Initial Exam, 1-4 yrs                                     90753        25.75
+Q Initial Exam, under 1 yr                                   90754         20.75                AUTHORIZATION TO RELEASE INFORMATION ...........0...008
+    Established Patient                                                                         | here authorize WSPHD to release to the Insurance company named above
+            -                                                                                   any information acquired in the course of my exam or treatment. (if the patient is
+4 Bam, Aye ‘s                                                ore           oO                   a minor, signature of parent or guardian.)
+Q) Exam, under 1 yr                                          90764         21.00                Signed                                                        Date
+                                                                                                ASSIGNMENT OF INSURANCE BENEFITS
+                                                                                                | authorize payment of medical benefits to WSPHD or supplier for services
+                                                                                                described herein:
+                                                                                                Signed                                                        Date
+WSPHD 10/89-2
+                                                              P&7-a%06wy
+                                                                                                                     Insured or Authorized Person
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 87.6% of
+the word sequence, and on 65.1% of the figures. Dictionary-recognizable words: 86.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,614 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-creating-iga-for-mt-hood-economic-alliance-9-7-2005
+title: 'Creating IGA for Mt Hood Economic Alliance 9-7-2005'
+doc_type: ordinance
+citation: 'Creating IGA for Mt Hood Economic Alliance 9-7-2005'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Misc/Creating%20IGA%20for%20Mt%20Hood%20Economic%20Alliance%209-7-2005.pdf?t=202503260855360
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0bd5059efeaa2e0a344a0ac1873657f7d062cd55290bb68cc04292f966fd32dc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.967; figure agreement 0.312; dictionary ratio 0.946. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 190.003
+    - ORS 190.010
+    - ORS 190.265
+    - ORS 279.312
+    - ORS 285B.230
+    - ORS 30.260
+    - ORS 30.270
+    - ORS 30.282
+    - OAR 123-055-0100
+    - OAR 123-055-0620
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Creating IGA for Mt Hood Economic Alliance 9-7-2005 (Creating IGA for Mt Hood Economic Alliance 9-7-2005)
+
+## At a glance
+
+OCR-derived text of Creating IGA for Mt Hood Economic Alliance 9-7-2005. Not human-verified.
+
+## Full text
+
+FILED
+                     IN THE COUNTY COURT OF THE STATE OF AREGERUNTY
+                           IN AND FOR THE COUNTY OF WASMSCEP               IU    A E59
+BH
+
+       IN THE MATTER OF AUTHORIZING AN                  )       KAREN LEBRETON COATS
+ WwW
+
+       INTERGOVERNMENTAL AGREEMENT                      )   ORDI NWN            ELERK
+ F&F
+
+       CREATING THE MT HOCD ECONOMIC                    )
+       ALLIANCE.                                        )
+ nan
+
+             WHEREAS,      Wasco County (“County”), a political subdivision of the State
+ MN
+ on
+
+       of Oregon formed under the Oregon Constitution and ORS Chapter 203, is
+
+       engaged in the provision of general local governmental services within Wasco
+ o
+
+       County; and
+10
+             WHEREAS,      the County intends to further its economy and efficiency by
+11
+       forming by Intergovernmental Agreement between Wasco County, a political
+12
+
+13     subdivision of the State of Oregon formed under the Oregon Constitution and
+
+14     ORS Chapter 203; Hood River County, a political subdivision of the State of
+
+15     Oregon formed under the Oregon Constitution and ORS Chapter 203; and
+16
+       Clackamas County, a political subdivision of the State of Oregon formed under
+17
+       the Oregon Constitution and ORS Chapter 203 (each of which is referred to
+18
+       herein individually as “County” and collectively as the “Counties”), an
+19
+       intergovernmental entity to be known as the Mt Hood Economic Alliance; and
+20
+
+21            WHEREAS,     the Counties intend to use any authority delegated to the
+
+22     Mt Hood Economic Alliance Intergovernmental Agreement to further the
+23
+       economy of each County by meeting the requirements of the Oregon Regional
+24
+       and Rural Investment Programs on behalf of the Counties; and
+25
+
+26
+Page      1 - ORDINANCE
+
+                                             L305" 0/99 (0)
+     1         WHEREAS,        each of the Parties has taken, or is expected to take in the
+
+    2    immediate future, all actions required under applicable acts, charters and law to
+
+    3    authorize the execution and performance of the Agreement through which the
+
+    4    Mt Hood Economic Alliance will be created.
+
+    °           NOW, THEREFORE, IT IS HEREBY ORDAINED BY WASCO COUNTY:
+
+                1.     It is the intent of Wasco County to create the Mt Hood Economic
+
+    8          Alliance pursuant to ORS      190.003 through ORS    190.265 by
+
+    9           Intergovernmental Agreement, a copy of which is attached hereto as
+
+10              Exhibit A (“Agreement”), between the following parties: Wasco County, a
+
+1               political subdivision of the State of Oregon formed under the Oregon
+
+12              Constitution and ORS Chapter 203; Hood River County, a political
+
+8               subdivision of the State of Oregon formed under the Oregon Constitution
+
+.               and ORS Chapter 203; and Clackamas County, a political subdivision of
+
+16              the State of Oregon formed under the Oregon Constitution and ORS
+
+17              Chapter 203.
+
+18              2.     The effective date of the Agreement is September 7, 2005.
+
+19              3.     The public purposes for which the Mt Hood Economic Alliance is
+
+20              created is to meet the requirements of the Oregon Regional and Rural
+
+                investment Programs on behalf of the Counties of Clackamas, Hood River
+
+23              and Wasco.     The Alliance shall develop a regional strategy as provided by
+
+24              OAR 123-055-0100 through OAR 123-055-0620.            In addition, the Alliance
+
+25              shall act as administrative and fiscal entity for the Regional and Rural
+
+26              Investment Programs within the region.
+Page        2 - ORDINANCE
+
+                                                         L)9005- 49 (?)
+                4.     To carry out its public purposes, the Mt Hood Economic Alliance
+
+                shall have the powers, duties and functions as set forth in the Agreement.
+ bw
+
+                5.     The creation of the Mt Hood Economic Alliance pursuant to the
+ &
+ fF
+
+                Intergovernmental Agreement attached hereto as Exhibit A is hereby
+ a
+
+                ratified and approved and the County Court is authorized to execute and
+ oOo
+
+                deliver on behalf of Wasco County the Agreement.
+ on
+
+                6.     The Intergovernmental Agreement between Clackamas,
+
+                Hood River and Wasco Counties may be amended from time to time by an
+ o
+
+10              order or resolution by the Board of Commissioners/County Court of said
+
+1               Counties,
+12
+                7.     The provisions of this Ordinance, including Exhibit “A”, are
+13
+                severable.   If any provisions of this Ordinance are determined to be invalid
+14
+                by a Court of competent jurisdiction, such provision shall be considered a
+15
+16              separate, distinct and independent provision and the decision shall not
+
+17              affect the validity of the remaining portions hereof.
+
+18              8.     Immediate action being necessary to carry out the Mt Hood
+19              Economic Alliance public purposes on an economic and efficient basis, an
+20
+                emergency is declared to exist and this Ordinance shall take effect
+21
+                immediately upon its execution by the County.
+22
+                ADOPTED      on the 7" day of September, 2005 by a unanimous decision of
+23
+24     the County Court.
+
+25     Hut
+26     Mill
+Page          3 - ORDINANCE
+                                        WASCO COUNTY COURT
+LH
+WO
+ fF
+ na
+ aD
+ nN
+
+                                        Sherry Hollid&y, County Combbissioner
+ wo
+
+       ATTEST:
+ no
+
+10
+          Kast.         NBi      ba
+11     Kathy McBride’
+       Clerk of the Court
+12
+
+13     APPROVED AS TO FORM:
+
+14
+
+15
+       LED
+       SSrieT. Nisley
+       Wasco County District Attorney
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+Page       4 - ORDINANCE
+
+                                             L200             O14        Co)
+                                                                                                     ixh- br         A
+
+                                 INTERGOVERMENTAL           AGREEMENT
+                    Between Clackamas, Hood River and Wasco Counties to establish the
+                                   MT HOOD      ECONOMIC     ALLIANCE
+                                            as an ORS 190 entity
+
+     THIS AGREEMENT is made and entered into by and between Clackamas, Hood River and Wasco
+Counties, hereinafter referred to as the “Counties.”
+
+                                              WITNESSETH:
+
+     1. Pursuant to ORS 285B.230 through 285B.269, the Oregon Economic and Community
+Development Department has designated Clackamas, Hood River and Wasco Counties as a region with
+the purpose of developing and implementing a Regional Strategy including a Rural Action Plan.
+
+     2.    The Counties previously created the Mt Hood Economic Alliance (the “Alliance”) by means of an
+Intergovernmental Agreement effective January 1, 2004.
+
+     3. The Counties desire to create a new intergovernmental agreement pursuant to 190.010(5) to
+replace the informal structure previously created. The intergovernmental entity shall continue to be
+known as the Mt Hood Economic Alliance.
+
+     NOW, THEREFORE, IT IS HEREBY AGREED by Clackamas, Hood River and Wasco Counties as
+follows:
+
+I.   Mt Hood Economic Alliance
+
+    A. There is hereby created an intergovernmental entity pursuant to ORS 190.010(5) composed of
+Clackamas, Hood River and Wasco Counties, to be known as the Mt Hood Economic Alliance. The
+purpose of the Alliance is to meet the requirements of the Oregon Regional Investment and Rural
+Investment Fund programs on behalf of the three counties. The Alliance shall develop and implement a
+Regional Strategy as provided by OAR 123-055-0100 through 123-055-0620.         In addition, the Alliance
+shall act as the administrative and fiscal entity for the Regional Investment and Rural Investment
+Programs within the region.
+
+     B.    The previous structure created by means of the Intergovernmental Agreement in effect since
+January 1, 2004 and also known as the Mt Hood Economic Alliance is hereby abolished. The
+intergovernmental entity created in paragraph A shall sncceed and replace the prior structure. The new
+intergovernmental entity shall become the owuer of all the property and funds of the prior structure; shall
+assume all obligations, indebtedness, and legal rights and responsibilities of the prior structure. All of
+these assets and obligations shall become jointly and severally those of the parties to this Agreement.
+
+     C.    The Mt Hood Economic Alliance shall be represented by a Regional Investment Board (RIB).
+
+     D. Clackamas County shall return all Regional Investinent, Rural Investment and Revolving Loan
+Funds and all other property of the Alliance in its possession to the Alliance, immediately upon adoption
+of this Agreement. In addition, Clackamas County shall cooperate with the Alliance to ensure that all
+other applicable contracts, debts, and obligations are assigned to the Alliance.
+
+MHEA
+   ~ ORS        190 INTERGOVERNMENTAL         AGREEMENT      (617/05)       f7005-              0    9        1
+
+                                                                                                              C/o)
+TI.   Regional investment Board (RIB)
+
+       A     The Alliance shall be governed as follows:
+
+        1.   The RIB shall be composed of twelve members. Hood River and Wasco Counties shall each
+             appoint three (3) people plus one alternate to the RIB. Clackamas County shal! appoint six (6)
+             people plus one alternate to the RIB. Each County shal! undertake their best efforts to select
+             appointees that represent the private business sector, rural interests, and local government. Each
+             member's term shal! last two (2) years. In the event of a vacancy on the RIB, the appointing
+             County shall fill the vacancy within sixty (60) days. Altemate appointees shail serve a two year
+             term on the RIB. Any board representation by the Confederated Tribes of Warm Springs required
+             by law shall be from Wasco County.
+
+             Members of the RIB shall meet and elect a chair, vice-chair and secretary-treasurer each from a
+             different county. The chair, vice-chair and secretary-treasurer shall serve for one (1) year and are
+             eligible for re-election.   The chair shall have the authority to call and preside over RIB meetings.
+             The vice-chair may preside over such meetings in the absence of the chair.
+
+             Decisions of the RIB shall be made only at meeting of which all members are provided proper
+             notice as provided by Public Meeting Law. Each member shall have one vote. Alternates shall
+             vote in the absence of a voting member. A majority of the entire RIB including at least one
+             member from cach county is required for any decision to be effective.
+
+             The RIB may adopt bylaws for its operations. The bylaws shall only be amended by a vote of at
+             least five members of the RIB. At least one vote from each County is required for an amendment
+             to be effective.
+
+             The RIB shail be subject to the requirements of Oregon laws, including, without limitation, the
+      bate
+
+             Public Meetings Law, Public Records Law, Local Budget Law, public contracting laws, the
+             Oregon Government Ethics laws, and workers’ compensation laws of the State of Oregon.
+
+             The Alliance shall meet regularly as determined by the RIB. Special and emergency meetings
+             and executive sessions may be called, upon notice as provided in the Public Meetings laws, by the
+             chair or by any three members.
+
+             The RIB shall perform the following services for the Alhance:
+
+             Develop and implement the region’s Regional Strategy and Rural Action Plan approved by the
+             Govemior.
+
+             Determine the policies for awarding Regional Investment and Rural Investment Funds to
+             individual projects and activities based on State Statutes and Administrative Rules.
+
+             Approve funding for projects and activities and approve any amendments to contracts.
+      us
+
+             Serve as the administrative and fiscal entity for the Alliance’s Regional Investment, Rural
+             Investment and Revolving Loan Fund programs.
+
+             Serve as the public relations contact for the Alliance and RIB and market the Regional
+      wn
+
+             Investment and Rural Investment Programs in the region.
+
+MHE— AORS 190 INTERGOVERNMENTAL AGREEMENT (170s) f00s- O107
+                                                                                                        >,           2
+         Draft application forms and review applications from potential recipients of Regional
+                                                                                               Investment
+         and Rural Investment Funds.
+
+    7.   Draft appropriate documents to evidence awards from Regional Investment and Rural Investment
+         Funds. Provide for legal review of documents.
+
+    8.   Monitor recipients of Regional Investment and Rural Investment Funds for compliance
+                                                                                             with
+         contract terms.
+
+    9.   Determine what action to take if a recipient of Regional Investment or Rural Investment Funds
+         defaults in its obligations, Pursue such actions.
+
+    10. File and record documents as required.
+
+    11. Disburse Regional Investment and Rural Investment Funds to recipieuts in accordanc
+                                                                                           e with the
+         contracts.
+
+    12. Account for all Regional Investment and Rural Investment Funds in accordance
+                                                                                     with the contract
+        between the RIB and the Oregon Economic and Community Development Departmen
+                                                                                         t.
+    13. Prepare reports for the Oregon Economic and Community Development
+                                                                             Department in
+        accordance with the contract between the RIB and the Oregon Economic and
+                                                                                  Community
+        Development Department. Share reports with participating Counties.
+
+    14. Prepare reports for the Alliance as requested.
+
+    C. The RIB shail have the following powers and responsibilities in the performance
+                                                                                       of its duties as
+administrative and fiscal entity for the Alliance:
+
+         Enter into contracts for fiscal, professional and other services necessary to carry
+                                                                                             out this
+         Agreement.
+
+    2.   Adopt budgets for utilizing Regional Investment and Rural Investment Funds.
+
+    3.   Apply for, receive, distribute and expend monies in accordance with Oregon
+                                                                                    law.
+    4.   Create an Executive Commitiee and other sub-committees to assist it in carrying out
+                                                                                             its duties
+         under this Agreement.   However, sub-committees cannot reverse decisions made by the full RIB
+         or bind the full RIB without prior approval regarding a specific action, and must report all
+                                                                                                      of their
+         actions to the next meeting of the RIB.
+
+    5.   Enter in contracts with the Oregon Economic and C ‘community Development Departmen
+                                                                                            t.
+    6.   Comply with applicable Oregon law.
+
+      D. Debts, liabilities and obligations of the Alliance shall be, jointly and severally,
+                                                                                             the debts,
+liabilities and obligations of the Counties and shall be divided upon termination
+                                                                                      in accordance with Part
+IV below of this Agreement.
+
+MHEA
+   — ORS 190 INTERGOVERNMENTAL AGREEMENT (6/1705) Ps-                                   i) og      L ) >)        3
+HI. Dispute Resolution
+
+     A.   Any dispute between the parties arising from the terms or implementation of this Agreement,
+                                                                                                              or
+any claim by any party for breach or enforcement of this Agreement, shall be submitted
+                                                                                       first to mediation
+and then, if unresolved, to binding arbitration.
+
+     B.   In the event of a demand for arbitration, the parties shall agree upon an arbitrator or, if no
+agreement is reached within ten (10) days of the demand, each party shall select an arbitrator.
+                                                                                                       Each party
+shall be responsible for the costs of its arbitrator. Arbitrators, by majority vote, shall have
+                                                                                                  full authority
+to establish procedures, rule on evidence and objections and render an enforceable
+                                                                                         decision.
+
+IV. Termination
+
+    A. The Agreement shall continue until all parties mutually agree in writing to terminate it,
+                                                                                                 or Wasco
+County, Hood River County, or Clackamas County provides sixty-days written notice
+                                                                                      to the other two
+counties requesting withdrawal from the Agreement.
+
+     B.   Ifany county terminates their participation in this agreement, the other two
+                                                                                       counties agree to
+make a good faith effort to accomplish the goals and purposes of ORS Chapter 285B which
+                                                                                        establishes
+the legal authority for the Alliance.
+
+     C.   Upon termination, the Alliance shall return all funds and all assets purchased with Regional
+                                                                                                       and
+Rural Investment Funds to the Counties. Each County shall be entitled to a share of the Funds based
+                                                                                                    on
+the pro-rated share of its contribution to the Regional and Rural Investment Funds.        Any assets purchased
+with Regional Investment or Rural Investment Funds shall be valued at their
+                                                                            fair market value upon
+termination and divided-per pro-rated share among the Counties.        In the event of a dispute between the
+Counties as to the division of the assets of the RIB, thcy shall be sold, and the net proceeds,
+                                                                                                after
+subtracting the cost of sale, shall be divided per pro-rated share among the Counties.
+                                                                                             Any sale or
+disposition of the RIB assets shall be in accordance with Oregon laws. In the event the contract between
+the Board and the Oregon Economic and Community Development Department provides
+                                                                                          for the
+disposition of unobligated funds and assets purchased with Regional Investment or Rural Investmen
+                                                                                                   t
+Funds, the contract shall prevail over this provision.
+
+     D. Upon termination, the outstanding indebtedness, liabilities or continuing contractual
+                                                                                              obligations
+shall be divided per pro-rated share among the Counties.
+
+V.   Miscellaneous
+
+     A. No Third Party Beneficiaries. The counties are the only parties to this agreement and are the
+                                                                                                          only
+Parties entitled to enforce its terms. Nothing in this Agreement gives, is intended to
+                                                                                       give, or shall be
+construed to give or provide any benefit or ight, whether directly, indirectly or otherwise, to third
+                                                                                                       persons
+unless such third persons are individually identified by name herein and expressly described as intended
+beneficiaries of the terms of this agreement.
+
+     B. Records Maintenance and Access. The RIB shall maintain all records relating
+                                                                                      to this Agreement
+as to clearly document its performance hereunder. The counties and their duly authorized represent
+                                                                                                   atives
+shall have access to such records for the purpose of performing examinations and audits, and
+                                                                                             making
+excerpts and transcripts. Afi such records shall be retained by the RIB and kept accessibl
+                                                                                              e for a minimum
+of 3 years, except as required longer by law, following termination of this agreement,
+                                                                                           or until the
+conclusion of any audit, controversy or litigation arising out of or related to this agreement
+                                                                                               , whichever
+date is later,
+
+MHEA - ORS 190 INTERGOVERNMENTAL AGREEMENT (6:17:05)                         J00&               o/F
+                                                                                                        q (2)
+     C. Notices. All notices to the respective parties shall either be personally delivered or sent certified
+mail to the following addresses:
+
+Clackamas County:                     Hood River County:                    Wasco County:
+2051 Kaen Rd                          601 State Street                      511 Washington St Rm 302
+Oregon City, OR     97045             Hood River, OR 97031                  The Dalles, OR 97058-2237
+
+     D. All parties shall comply with all applicable federal, state and local laws; and rules and regulations
+on non-discrimination in employment because of race, color, ancestry, national origin, religion, sex,
+marital status, age, medical condition or handicap.
+
+    E. To the extent applicable, the provisions of ORS 279.312, 279.313, 279.314, 279.316, 279.320 and
+279.334 are incorporated by this reference as though fully sct forth.
+
+    F.   Subject to the limitations of liability for public bodies set forth in the Oregon Tort Claims
+                                                                                                       Act,
+ORS 30.260 to 30.300, and the Oregon Constitution, each party agrees to hold harmless, defend, and
+indemnify each other, including its officers, agents, and employees, against all claims, demands,
+                                                                                                     actions
+and suits (including all attorney fees and costs) arising from the indernnitor’s performance of this
+Agreement where the loss or claim is attributable to the negligent acts or omissions of
+                                                                                        that party.
+
+     G. Each party agrees to maintain insurance levels, or self-insurance in accordance with ORS 30.282,
+for the duration of this Agreement at levels necessary to protect against public body liability as specified
+in ORS 30.270.
+
+     H. This Agreement shall be subject to the constitutional debt limitation of Oregon Counties set forth
+in Article XI, Section 10 of the Oregon Constitution, and is contingent on funds being appropriat
+                                                                                                  ed
+therefore.
+
+     I   This Agreement may be amended from time to time by agreement in writing, signed by all
+parties,
+
+    J. ENTIRE AGREEMENT. THIS AGREEMENT CONSTITUTES THE ENTIRE AGREEME
+                                                                          NT
+BETWEEN THE PARTIES. NO WAIVER, CONSENT, MODIFICATION OR CHANGE OF
+                                                                       TERMS
+OF THIS AGREEMENT SHALL BIND ANY PARTY UNLESS IN WRITING AND SIGNED BY
+                                                                           ALL
+THREE PARTIES. SUCH WAIVER, CONSENT MODIFICATION OR CHANGE, IF
+                                                                  MADE, SHALL
+BE EFFECTIVE ONLY IN THE SPECIFIC INSTANCE AND FOR THE SPECIFIC PURPOSE
+GIVEN. THERE ARE NO UNDERSTAN DINGS, AGREEMENT, OR REPRESENTATIONS,
+                                                                        ORAL
+OR WRITTEN, NOT SPECIFIED HEREIN REGARDING THIS AGREEMENT. EACH PARTY, BY
+THE SIGNATURE OF ITS AUTHORIZED REPRESENTATIVE(S) BELOW, HEREBY
+ACKNOWLEDGES READING THIS AGREEMENT, UNDERSTANDING IT, AND AGREEING
+                                                                           TO
+BE BOUND BY ITS TERMS AND CONDITIONS.
+
+MHEA — ORS 190 INTERGOVERNMENTAL AGREEMENT (6/17/05)                      J         OS -WIFF
+                                                                                                                ue
+
+                                                                                                (/)
+Hood River County             Wasco County                         Clackamas County
+Board of Commissioners                         i                   Board of Commissioners
+
+Rodger Schock, Chair                                               Martha Schrader, Chair
+
+Carol York, Commissioner                                           Bill Kennemer, Commissioner
+
+Les Perkins, Commissioner                                          Larry Sowa, Commissioner
+
+                              APPRO’         AS TQ   FORM          APPROVED AS TO FORM
+Chuck Thomsen, Commissioner
+
+Maui Mever, Commissioner      Wasco County | Counsel               Clackamas County Counsel
+
+APPROVED AS TO FORM:          Date:                                Date:
+
+Hood River County Counsel
+
+Date:
+
+ MHEA — ORS 190 INTERGOVERNMENTAL      AGREEMENT       (6'17'05)     Z       00S- L/4F           ©
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 96.7% of
+the word sequence, and on 31.2% of the figures. Dictionary-recognizable words: 94.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,486 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-uniform-fee-schedule-10-7-1992
+title: 'Uniform Fee Schedule 10-7-1992'
+doc_type: ordinance
+citation: 'Uniform Fee Schedule 10-7-1992'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%2010-7-1992.pdf?t=202503260856120
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 414355ebaf377d024f5f28e142a4bafc738ba1c89071d3bfe004c7607dcb3d78
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.916; figure agreement 0.398; dictionary ratio 0.940. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.035
+    - ORS 205.320
+    - ORS 271.230
+    - ORS 92.090
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 92%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Uniform Fee Schedule 10-7-1992 (Uniform Fee Schedule 10-7-1992)
+
+## At a glance
+
+OCR-derived text of Uniform Fee Schedule 10-7-1992. Not human-verified.
+
+## Full text
+
+@.      ne     com        cour         oF    mm      sear               onscon
+
+                                                   IN AND FOR THE COUNTY OF wASCO                                  FILED ‘WS °°                       o7¥
+                                                                                                                   TRE Tt
+           IN THE MATTER OF AMENDING                                                                                               Py     ue   Te         FO
+           WASCO COUNTY'S UNIFORM FEE                                                      ORDINANCE                               Peper.
+  =
+
+           SCHEDULE FOR VARIOUS COUNTY
+           DEPARTMENTS.                                        )                                                    KAR on       2                  ce
+  HP
+
+                                                                                                                      COURTY             GLENS
+  WO
+
+           THE    COUNTY         COURT      OF WASCO        COUNTY,         OREGON        DOES     ORDAIN          AS FOLLOWS:
+  fF
+
+           Section        1.         PURPOSE
+  a
+
+                   The purpose              of this Ordinance                 is to amend established uniform
+  oO
+
+           fees    to be         collected          by     the Assessor's               Office,        the     Clerk's       Office;
+  nv
+
+           the    Wasco        County       Sheriff;         the     Tax    Collector        and           Treasurer's           Office;
+      wa
+
+           and    the Wasco            County       Surveyor         and    Roadmaster's               Office        for performing
+      o
+
+           the    service            required       or necessitated               by ORS         92.090,           92.100,       192.410
+
+           to    192.500,            205.340,       209.260,         271.230,           517.030,           517.220,        and     517.290
+
+           within        Wasco        County.
+
+           Section        2.         AUTHORITY
+
+                    This Ordinance                 is enacted pursuant                   to the authority granted                              to
+
+           general        law Counties              by ORS         203.035       and by Chapter                833 of the               1979
+pt
+
+           Oregon        Laws.
+we
+
+           Section        3.         FEE    SCHEDULE
+—
+
+                    The        following          fees     shall     be charged           and collected               by     the
+>
+
+            indicated Department before                            the     filing,       recording,            or coping of
+
+               subject documents               shall be completed.
+NO
+
+                    (A)        WASCO       COUNTY        SURVEYOR AND            ROADMASTER
+NYO
+
+                               (1)    The    fee    for performing                the    services            set    for    in ORS
+HO
+
+                    209.260           shall be $10.00               for the        filing and indexing of a map
+HMO
+
+                    of    a survey            (no limit       on     size        or number        of       sheets).
+NO
+
+                               (2)    The    fee     for    Blue     Line        Printing        shall        be    $.30     per        sq.         ft.
+ND
+
+                    ($1.00 minimum).
+no
+
+           \     - ORDINANCE
+Page
+
+                                                                                                       )
+                         (3)        The     fee for copies           of documents           shall be $.25 per              sheet.
+     1
+                         (4)        The     fee    for the Surveyor               to check partition              plats shall
+ 2
+                 be $50.
+ 3
+                         (5)        The     fee for the Surveyor to check                     subdivision plats
+ 4
+                 shall         be     $100.00      per plat plus             $5.00 per       lot.
+ 5
+                 (B)   WASCO           COUNTY       PLANNING       & DEVELOPMENT            DEPARTMENT
+ 6
+                         (1)        The     fee    for copies        of documents           shall be $.25 per sheet.
+     7
+                 (C)   WASCO           COUNTY       JUVENILE       DEPARTMENT
+ 8
+                         (1)        The     fee    for    a copy     of    the Wasco        County        Juvenile
+ 9
+                 Detention                Facility       Policy    and Procedure Manual                   shall be $25.00
+10
+                         (2)        The     fee    for copies         of documents          shall be $.25 per
+11
+                 page.              (This    fee may        be waived        for Government           agencies.)
+12
+                 (D) WASCO COUNTY CLERK
+13
+                         (1)        The     fee    for performing            the    services        set    forth     in ORS
+14
+                 92.090,            92.100        and 271.230         and 205.350           shall be as follows:
+15
+                         For approval               by the County Court of any plat,                         the County
+16
+                 Clerk         shall        collect        $10.00;
+17
+                         For        recording         and    indexing        any    plat,     the County          Clerk,    in
+18
+                 whose         office        the     deeds    of     the    County    are     kept,       shall    charge
+19
+                 as    follows:
+20
+                          (a)        For plats           containing        20 lots or less - $35.00
+21
+                         (b)         For plats           containing        over    20 lots     - $50.00
+22
+                          (c)        For more than one               sheet per plat - $5.00 per additional
+23
+                 sheet.
+24
+                          (d)        For partition plats                  ~ $35.00
+25
+         /Tttl
+26
+         27   ORDINANCE
+Page
+
+                                                                           f72- A736 «,
+                              (2)      The    fee     for performing        the    services     set        forth    in ORS
+
+                       271.230(2)            for     the     services    of the    County    Surveyor         for marking
+  NH
+
+                       the record upon the original                       plat shall be $15.00               to be
+  WD}
+
+                       collected by the County Clerk and paid to the County                                        Surveyor.
+     fF
+
+                               (3)     The    fee      for a transcript           from the County Clerk               lien
+     oO
+
+                       docket        to Circuit or District Court                    shall be $10.00 which                 is set
+     DO
+
+                       forth         in ORS        205.320(13).
+      NY
+
+                               (4)     The     fee     for performing       the     services     set       forth    in ORS
+      wa
+
+                       517.030         shall be $5.00 per page paid to the County                             Clerk who
+      ow
+
+                       shall         immediately pay over said               sum to the County Treasurer.
+
+                               (5)     The     fee     for performing       the services         set forth          in ORS
+      =
+
+                       517.220         shall be $5.00 per page.
+
+                               (6)     The     fee     for performing       the     services     set       forth     in ORS
+      BS
+
+                       517.290         shall be $5.00 per page.
+
+                               (7)     The     fee     for performing       the     services     set       forth     in ORS
+      QVDaak
+let
+
+                       471.210(3)             for     liquor    license application            recommendation              shall
+lt
+
+                       be $25.00.
+me
+
+                       (E)     THE     WASCO-SHERMAN            PUBLIC    HEALTH     DEPARTMENT
+we
+
+                               (1)     The     fee     for a records       search     shall be $.50 per record.
+     CA
+om
+
+                               (2)     The     fee     for    copies    of documents        shall     be    $.25     per     sheet.
+     &F
+SO
+
+                        (F)    THE     WASCO         COUNTY    SHERIFF'S    DEPARTMENT
+BDO
+     =
+
+                               (1)     The fee         for performing        a records       search        and providing               a
+DB
+     D
+
+                       copy of a crime report                     shall be $5.00 per request,                  plus    $.25        a
+BH
+  ©
+
+                       page.
+HD
+  ane
+
+               //TT1
+bw
+
+               //T/1
+So
+  a
+
+               2 = ORDINANCE
+Page
+
+                                                                              P92       - E036               w)
+                   (2)    The     fee    for performing         a records         search      and    providing     a
+
+            copy of an accident                  report   shall be $5.00 per request,                   plus     $.25
+
+            a page.
+ WH
+
+                   (3)    The     fee for taking a complete                   set of fingerprints           and
+ He
+
+            providing          an inked         set shall be $5.00 per request.
+ ono
+
+             (G)   THE    WASCO      COUNTY       ASSESSOR'S         DEPARTMENT
+ nD
+
+                   (1)    The     fee     for    copies   of   8.5     X 11    and    8.5     X 14 documents
+ won
+
+            shall be $.25 per sheet.
+
+                   (2)    The     fee     for copies      of 11 X 17 documents                 shall be $.50
+ po
+
+            per    sheet.
+10
+                   (3)    The     fee     for computer print outs                shall be $5.00 minimum
+il
+            and $.25 per page               thereafter.
+12
+                   (4)    The     fee for used Stock Maps                   shall be $3.00 per map.
+13
+                   (5)     The    fee     for new Stock Maps            shall be $5.00 per map.
+14
+                   (6)     The    fee     for State Ordered Maps                shall be $5.00 per map
+15
+            plus    postage.
+16
+                    (7)    The     fee for prints         of microfilm shall be $.25 per page.
+17
+             (H)   THE     WASCO        COUNTY    TREASURER/TAX         COLLECTOR'S           DEPARTMENT
+18
+                    (1)    The     fee    for photocopies            shall be $.25 per sheet.
+19
+                    (2)    The     fee    for computer         copies       shall be $.50 per           sheet.
+20
+                    (3)    The     fee    for Non-Sufficient            Funds        shall be $20.00 per
+21
+             check.
+22
+                    (4)    The     fee for certifying            true copies           shall be $5.00.
+23
+                    (5)    The     fee    for    furnishing      a substitute           for    a Tax    Statement
+24
+             (Copy of Tax Statement or Tax Roll)                            shall be $2.00           if Reference
+25
+             Number       is     furnished,        if not,     the    fee     shall    be   $3.00.
+26
+       44 ~ ORDINANCE
+Page
+
+                                                                      P92-bS3b6 wy
+                           (6)            The     fee    for    stop        payment     shall     be     $20.00.
+  KF
+
+                   (I)     THE            WASCO     COUNTY           JUDGE'S     OFFICE
+  HY
+
+                               (1)        The     fee    for    copies         of documents        shall           be    $.25    per    sheet.
+  WO
+
+                   (J)     THE            WASCO     COUNTY           HUMAN     RESOURCE/CIVIL            SERVICE           DEPARIMENT
+  F&F
+
+                               (1)        The     fee     for copies of documents                   shall be $.25 per sheet.
+  aon
+
+                   (K)     THE            WASCO     COUNTY           COMMUNITY       CORRECTION'S             DEPARTMENT
+      on
+
+                               (1)        The     fee     for monthly           Supervision         Fee       for       Probation        shall
+      nv
+
+                   be $25.00 per month.
+      wo
+
+                               (2)        The     fee     for Persons           ordered       by the         Courts        to perform
+      Oo
+
+                   Commmity                     Service     in Wasco           County     shall     bear       the       cost     of    their
+OS
+
+                   participation                        in such program.
+=
+
+           Section        4.         ENACTMENT             PROVISIONS
+GBS
+
+                   (1)     CONFORMANCE WITH LAW
+lll
+
+                   Except             as        expressly        provided        herein,        this     Ordinance              shall    in no
+
+           way be a substitute                           for or eliminate               the necessity              of conforming with
+QVaAaap
+
+           any    and     all         State        and     Federal           Laws,    rules     and regulations                  including
+
+           but not        limited to the payment                              of all other         fees required by law and
+
+           other    Ordinances                    which        are now nor may            be in        the    future           in effect
+
+           which relate                   to the requirements                   provided        in this Ordinance.
+CH
+NRO
+
+                    (2)        SEPARABILITY
+6
+
+                   If     any         section,            subsection,            sentence,        clause,          phrase        or portion
+ND
+&
+
+           of    this     Ordinance                 is    for    any     reason       held    invalid         or unconstitutional
+DS
+NS
+
+           by a Court                of     competent           jurisdiction,            such     portion           shall       be deemed        a
+GO
+KN
+
+           separate,            distinct                and independent provision,                      and    such holdings              shall
+DN
+&
+
+           not    affect             the        validity        of    the     remaining       portion         of        this    Ordinance.
+NO
+
+           /I111
+an
+DoS
+
+           5 - ORDINANCE
+Page
+
+                                                                                     P9I2-         plat                   “)
+                   (3)    EMERGENCY      DECLARED
+
+                   This    Ordinance      being       immediately     necessary     to    establish      unifom
+  HO
+
+           fees to be collected by the various                      County Departments          for performing
+  WO
+
+           the   services      set     forth     but not    limited     to ORS    92.090,      92.100,
+  FBP
+
+           205.340,        209.260,     271.230,       517.030,     517.220     and 517.290 within Wasco
+  Oo
+
+           County,        an emergency         is declared to exist and this Ordinance                   shall
+  Oo
+
+           take effect        immediately upon passage.
+
+                                                                  by a unanimous        vote   of all members
+  won
+
+                   Regularly      passed        and   adopted
+
+           of the County Court                of the County of Wasco,           State of Oregon,         this    7th
+      Oo
+
+           day   of October,          1992.
+eet
+
+                                                        _
+                                                                      C.E.    Filbin,    County Commissioner
+le
+oe
+
+            Befnard L.       Smith
+om
+
+           Wasco     County     District        Attorney
+Do
+DO
+~DO
+DN
+BD
+NHN
+wR
+
+           > — ORDINANCE
+Page
+
+                                                                   P92-eL36                     ty
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 91.6% of
+the word sequence, and on 39.8% of the figures. Dictionary-recognizable words: 94.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

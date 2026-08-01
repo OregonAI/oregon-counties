@@ -1,0 +1,657 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-comprehensive-plan-amendment-6-2-1993
+title: 'Comprehensive Plan Amendment 6-2-1993'
+doc_type: ordinance
+citation: 'Comprehensive Plan Amendment 6-2-1993'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Comprehensive%20Plan%20Amendment%206-2-1993.pdf?t=202503260855350
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ea7a015a3172315c5538e33bf3db08435a4f0b29b9dc3b16ef9bd34300abd9cf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.971; figure agreement 0.807; dictionary ratio 0.942. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Comprehensive Plan Amendment 6-2-1993 (Comprehensive Plan Amendment 6-2-1993)
+
+## At a glance
+
+OCR-derived text of Comprehensive Plan Amendment 6-2-1993. Not human-verified.
+
+## Full text
+
+IN THE COUNTY          COURT OF THE STATE OF OREGON
+
+                       IN AND FOR THE COUNTY             OF WASCO
+
+IN THE MATTER OF THE REQUEST OF JON
+JUSTESEN  FOR   A COMPREHENSIVE       PLAN
+AMENDMENT      FOR   ADDITION      OF   AN
+AGGREGATE SITE TO THE WASCO COUNTY                                 ORDINANCE
+COMPREHENSIVE       PLAN    AGGREGATE
+INVENTORY LIST (#CPA-92-102-WAMF2-H).
+
+       NOW ON THIS DAY, the above-entitled matter having come on regularly for
+consideration, said day being one duly set in term for the transaction of public business and
+a majority of the Court being present; and
+
+       If APPEARING       TO   THE    COURT:     That on September      14, 1992, the Wasco
+County Planning Commission voted 4-1 to deny Jon Justesen’s request for Comprehensive
+Plan Amendment #CPA-92-102-WAMEF2-H, for addition of an aggregate site to the county
+aggregate inventory list in the "M-2" Industrial zone; and
+
+        IT FURTHER APPEARING TO THE COURT:                  That on October 15, 1992, a
+petition for appeal of the Planning Commission’s denial of CPA-92-102 was received from
+Jon Justesen in a timely manner for such appeal; and
+
+       IT FURTHER      APPEARING       TO THE COURT:         That on December 2, 1992, at
+10:00 a.m., in the County Courtroom of the Wasco County Courthouse, The Dalles, Oregon,
+this Court met to conduct a quasi-judicial public hearing on the above matter.           The
+members of the Court were determined to be qualified to hear the matter.
+
+       IT FURTHER APPEARING TO THE COURT: That the Court took notice of the
+record of the Planning Commission, heard the Staff report and received all testimony and
+evidence from the parties and then closed the hearing for further input. The Court then
+announced it would deliberate, and based upon the evidence and testimony presented and
+upon the findings of the Planning Commission, and being fully apprised in the premises, the
+Court did vote 3-0 to remand to the Planning Commission for a new evidentiary hearing,
+the application by Jon Justesen for a Comprehensive Plan Amendment.
+
+[ORDINANCE - Page 1 of 3]
+CPA-92-102-WAMEF2-H - Justesen
+June 2, 1993
+
+                                                     $92 0r24f               (2)
+        IT FURTHER APPEARING TO THE COURT: That on February 8, 1993, the
+Wasco County Planning Commission held a public hearing, on remand, on Comprehensive
+Plan Amendment #CPA-92-102-WAMF2-H, a request from Jon Justesen for addition of an
+aggregate site to the Wasco County Comprehensive Plan Aggregate Inventory list for
+property in the "M-2" Industrial zone. The Commission opened the hearing, received
+testimony, and then continued the hearing to a date when the applicant could provide
+requested information on natural hazards.
+
+        IT FURTHER APPEARING TO THE COURT: That on April 5, 1993, at 6:00
+p.m., in the Wasco County Courthouse, The Dalles, Oregon, the Wasco County Planning
+Commission met to conduct a quasi-judicial public hearing on the above matter. Those
+members of the Commission present were determined to be qualified to hear the matter.
+The Commission heard the Staff Report and received testimony and evidence from the
+parties and then closed the hearing for further input. The Commission then continued to
+deliberate upon testimony received and based upon the evidence and testimony presented
+and upon the findings of fact and conclusions of law identified in the Staff Report
+(attachment A), the Planning Commission, being fully apprised in the premises,
+recommended, on a 6-0 vote, the request for approval for the addition of an aggregate site
+to the Wasco County Comprehensive Plan Aggregate Inventory list on an 81.31 acre parcel
+in the "M-2" Industrial zone.
+
+       IT FURTHER APPEARING TO THE COURT: That on May 19, 1993, at 1:30
+p.m. in the County Courtroom of the Wasco County Courthouse, The Dalles, Oregon this
+court met to conduct a quasi-judicial public hearing on the above matter. The members of
+the Court were determined to be qualified to hear the matter.    The Court heard the Staff
+Report and received testimony and evidence for the parties and the closed the hearing for
+further input. The Court deliberated upon testimony received and based upon the evidence
+and testimony, and upon the findings of fact and conclusions of law identified in the Staff
+Report (attachment A), the Court, being fully apprised in the premises, did approve,
+unanimously, the request for a Comprehensive Plan amendment for addition of an aggregate
+site to the Wasco County Comprehensive Plan aggregate inventory list.
+
+              NOW, THEREFORE:           Based upon the attached findings       of fact and
+conclusion of law and the Court being fully advised in the premises,
+
+        ITIS HEREBY ORDERED: That Comprehensive Plan Amendment #CPA-92-102-
+WAME?2 for Jon Justesen to add an aggregate site to the county aggregate inventory list in
+the "M-2" Industrial zone, on property described as Township 4 South, Range 13 East W.M.,
+Section 10, Tax Lot 2800, is   hereby issued.
+
+[ORDINANCE - Page 2 of 3]
+CPA-92-102-WAMF2-H - Justesen
+June 2, 1993
+
+                                                         V0, 0224 (12 )
+       Regularly passed and adopted by the County Court of the County of Wasco, State
+of Oregon.
+
+                          DATED   this 2nd day of June, 1993.
+
+                                              wesco         opin Bow
+                                                   Lfoy           YF   Lok
+                                                                        ae ete
+                                                                             m
+
+                                          Le           br       un
+
+                                          OUWea    (McKay, County Commissioner
+                                                  iosaenk
+                                              Chuck Filbin, County Commissioner
+AEP          AS TO FORM
+
+  KB/S tA
+Bernard Smith
+Wasco County District Attorney
+<3C:\wp51\notice\remandto.pc>
+
+[ORDINANCE - Page 3 of 3]
+CPA-92-102-WAMEF2-H - Justesen
+June 2, 1993
+
+                                                            (G2      0223F “_,
+ TO:                                                Wasco                    County                Planning                        Commission
+
+ FROM:                                              Wasco                   County                Planning                    & Economic                          Development                                   Office
+
+ HEARING                 DATE:                      February 8, 1993
+                                                    Continued to April                                                5,           1993
+
+ SUBJECT:                                           Comprehensive                                    Plan Amendment CPA-92-102-WAMF2-H
+                                                    AMENDED STAFF                                    REPORT April 5, 1993  (Amendments are
+                                                    in          bold                  type)
+ Ae Se AS ST SE   ED EN AD Se   nN GED PED LN GENS SO Ge OT SEED SRD GRAD Goth   Ge   NY SND NED SD GEN    GSH   AE ev) SD ND SG    uh Sy Gt    SGN SED SE   Sn    tA   Gee   SEND GEE <P   ld GND SL SOY       Eh   th Sh Go
+
+ APPLICANT:                                         Jon             Justesen
+
+ REQUEST:                                           To           obtain                   a      comprehensive                                 plan              amendment                         to            add            a
+                                                    mineral                           resource                   site          to         the        county                   inventory.
+
+ PRIOR             ACTIONS:                          +          Partition Plat 91-0010B,                                                          June 23,                      1991.
+                                                     *          Remand from County Court                                                          December                      2, 1993
+
+ LOCATION:                                          The  subject    property  is    located   in Tygh   Valley
+                                                    southwest    of   Highway   197.        The  property    is
+                                                    described as Township 4 South, Range 13 East W.M.,
+                                                    (Section 10), Tax Lot 2800.
+
+. COMPREHENSIVE                                PLAN                AND            ZONING                  DESIGNATIONS:                               The          property                         on           which
+                                                    the  extraction  is                                                proposed  is designated                                                                  Medium
+                                                    Industrial on the                                                  Comprehensive Plan map,                                                                  and is
+                                                    zoned                    "M -2"                  Medium                  Industrial.    It                                is  located  in
+                                                    the                     "Flood                    Hazard                    Zone"    and                                   Environmental
+                                                    Protection                                District                   1         (Flood            Hazard                   Overlay).
+
+ PROPERTY                    OWNER:                         Justesen                          Ranches
+
+ REGULATIONS:                                      Wasco                     County                Comprehensive Plan;
+                                                   Wasco                     County                Land Use and Development                                                         Ordinance
+
+ AUTHORITY:                                         Section                           2.060               A.          and            2.060               C.13.                 of             the                Wasco
+                                                    County                       Land          Use          and          Development                              Ordinance.
+
+ COMMENTS                :                          Letter  from                                adjacent                      property                       owner              (Dhone)                          dated
+                                                    February 6,                                 1993
+
+ EXHIBITS:                                          A.                  Application                              as      submitted.
+                                                    B.                  Notice sent                              to      affected agencies                                          and             adjacent
+                                                                        property                      owners.
+                                                    on                  Site             plan
+
+                                                                                                                                                             k                                              1
+
+                                                                                                                                          fas ore (n>
+Wasco       C.   Planning            &    Economic            Development               Office
+CPA~92-102~WAMF2-H
+April       5,   1993
+Page    2
+
+                               D.         Report         of    on-site           inspection                 by    DOGAMI
+
+FINDINGS         OF     FACT:
+
+A.      Characteristics                     of    Property
+
+        1.        Lot Size:                   81.31  acre previously  partitioned                                               parcel.
+                  Previously                owned by Mountain Fir Lumber Company.                                              26 acres
+                  of     the        81.31        acres    would          be    affected              by    this       application.
+
+        2.        Access:                Hwy.      197
+
+        3.        Land         Use:          Vacant.               Formerly           a        log        deck        for     the     Tygh
+                  Valley            Mountain            Fir    operation.
+
+        4.        Surrounding                    Land     Use:            Farm        use,           primarily                dry     land
+                  grazing            and     wheat        production              and      residential                  use     in    Tygh
+                  Valley.                 The      site       is    in    the        flood          plain        of     Tygh        Creek,
+                  and     the        White         River,          surrounded              by       rolling           hills.         There
+                  is     some        scattered            residential                 uses          abutting            the     parcel.
+
+        5.        Soils:    According to the Soil Survey of Wasco County, OR
+                  - Northern     Part, the subject    soils are classified  as
+                  Quincy loamy fine sand, wet with a capability unit rating
+                  of IIIw-1.    These soils are subject to flooding, and have
+                  a high water table.     Streamside vegetation is identified
+                  as   being   important   to   streambank  stabilization  and
+                  wildlife cover, especially shrubs and giant wildrye.
+
+        6.        Taxes:             Industrial               (vacant).
+
+        7.        Sewage            Disposal:             ‘Not      Applicable                 to     this       application.
+
+        8.        Water:                 Water      Rights           Permits              #6        6945     and        40955.         The
+                  applicant                 states        there           is     a      spring             and        well      on     the
+                  property.
+
+        9.        Fire         Protection:                Juniper              Flat     Fire          District.
+
+B.      Comprehensive                    Plan      Provisions             and        Analysis
+
+        1.        Before             an         amendment            can         be        granted,               the         proposed
+        amendment    shall  demonstrate compliance   with the State   of
+        Oregon Statewide Planning Goals where applicable,     or if not
+        applicable  explained why an exception    should be adopted as
+        provided in Statewide Goal #2 Part II.   Reason and facts shall
+
+                                                                                                    £93                     0a>¢ (72,)
+Wasco        C.    Planning             &    Economic        Development                Office
+CPA~-92-102~WAMF2-—-H
+April 5,           1993
+Page 3
+        be        given          why    an       exception        should           be   adopted          including:
+
+        a.          Why          the    proposed           use    should           be   provided          for;
+
+        b.          What          alternative             locations               within    the     area        could     be    used
+         for       the proposed use;
+        Cc.         Long-term   environmental,  economic,    social                                                and energy
+                    consequences to the locality,   the region or                                                the State of
+                    Oregon from not applying the Goal;    and
+
+        d.          How          the    proposal          would        be    compatible            with    adjacent            uses.
+
+        Goal        1    -       Citizen          Involvement
+
+                    To develop a citizen involvement program that insures the
+                    opportunity of citizens to be involved in all phases of
+                    the planning process
+
+        Finding:                  The       Wasco       County     Comprehensive                  Plan     was     adopted        by
+        Wasco County                     and acknowledged by LCDC August 25,  1983.    This
+        goal was met                    by the original acknowledgment process.     Current
+        public notice requirements were met regarding                                                      this     proposal.
+        The proposal is in compliance with Goal 1.
+
+        Goal        2    -       Land       Use    Planning
+
+                    To  establish  a  land use  planning  process  and policy
+                    framework as a basis for all decision and actions related
+                    to use of land and to assure an adequate factual base for
+                    such          decision          and     actions.
+
+        Finding:                 The    Wasco           County    Comprehensive                Plan        was     adopted        by
+        Wasco           County          and       acknowledged               by    LCDC     August        25,     1983.         This
+        goal was met by the original acknowledgment process. Current
+        public notice requirements were met regarding this proposal.
+        The proposal is in compliance with Goal 2.
+
+        Goal        3    -       Agriculture
+
+                    to       preserve             and    maintain            agricultural            lands.
+
+        Finding:   Not applicable.    The subject parcel  is zoned M-2
+        Medium Industrial.  This proposal does not affect agricultural
+        lands.
+
+        Goal        4.       -    Forest          Land
+                    To       conserve             forest     lands           by    maintaining            the     forest        land
+                    base          and       to    protect        the        states        forest     economy.
+
+                                                                                          (G30 22                  (/z )
+Wasco       C.    Planning      &     Economic      Development            Office
+CPA-92-102-WAMF2-H
+April       5,    1993
+Page    4
+
+        Finding:   Not  applicable.                     The  subject  parcel  is                    zoned    M-2
+        Industrial.    This proposal                     does not affect forest                    lands.
+
+        Goal 5 = Open                Spaces,     Scenic      and        Historic     Areas,       and    Natural
+        Resources.
+
+                   To conserve           open    space       and        protect     natural        and    scenic
+                   resources.
+
+        Finding:     Natural   Resources   - According   to   the inventory
+        compiled   by   the  Oregon   Natural  Heritage    Program,    Oregon
+        Natural Areas, Tygh Creek and the White River are identified
+        as    natural   areas.    ( Reference  # WC-20    "Tygh   Creek").
+        According   to the report,     the riparian   communities    of Tygh
+        Creek       and   the       White   River    are     “relatively            undisturbed,...          and
+        of substantial size.   Intact riparian communities of any size
+        are rare east of the Cascades."    Maintaining the integrity of
+        these communities is recommended by this document.   Conditions
+        requiring a 100 foot setback from both Tygh Creek and the
+        White River would help to maintain      the integrity of these
+        communities. A condition   of the DOGAMI inspection report page
+        3,       condition      4,     (dated    Feb.      17,     1993)     states       that    cattle    must
+        be excluded from the site until the site is reseeded and the
+        reclamation  approved by DOGAMI.  This  condition would also
+        assist to insure the integrity of the riparian community.
+
+        Additionally, Tygh Creek and the White River are listed in the
+        inventory of Natural Areas in the Wasco County Comprehensive
+        Plan,        table      12.5,       pages    52-6.         As     such     they    come     under    the
+        Environmental    Protection    District   overlay   zone    Division    7
+         ((Natural Areas).    This    overlay is designed to protect         the
+        identified natural value by allowing only uses which will not
+        permanently destroy the natural        value.    A condition of the
+        pending   conditional    use permit requiring a setback          of the
+        proposed excavation boundary of 100’ from high water of both
+        Tygh Creek and the White River would help to mitigate impacts
+        to   the   riparian    corridors.      Additionally     the    required
+        reclamation plan should indicate reseeding of the excavated
+        area with native grasses. With this condition made part of the
+        pending Conditional Use Permit application (CUP 92-128-WAMF2-
+        H) the proposal would comply with Goal 5.                 .
+
+        The proposed site is not within the county Big Game Winter
+        Range.   Through literature review (Wasco County Comprehensive
+        Plan),  there was no evidence of significant wildlife habitat
+        on the site, thus impact to sensitive wildlife habitat is not
+        anticipated.    Furthermore,  at  draft  time  no comment   was
+        received from the Oregon Dept. of Fish and Wildlife.
+
+                                                                                     (43 022¢ (/2,)
+Wasco       C.   Planning         &    Economic        Development       Office
+CPA-92-102-WAMF2-H
+April       5,   1993
+Page    5
+
+        Historic Resources - According to the Wasco County Historical
+        Landmarks Committee Inventory of Historic Landmarks there are
+        no significant landmarks affected by this proposal.
+
+        Open Space- Agricultural lands are considered open space in
+        Wasco County in accordance with Goal 5.        The proposed site is
+        zoned    M-2   (Industrial).       This    proposal    will  affect
+        approximately   26 acres    of land   zoned   as industrial   for a
+        limited time, after which time it will be reclaimed to a like
+        use.   As such the proposal complies with Goal 5.
+
+        Goal      6   - Air,          Water    and     Land    Resources       Quality
+
+                  To maintain            and   improve        the    quality       of   the    air,    water    and
+                  land     resources           of    the    state.
+
+        Finding:   @     Concerning land resource quality,         an approved
+        Dept. of Geology and Mineral Industries         (DOGAMI) reclamation
+        plan should be made part of the pending Conditional Use Permit
+        Application.         Said   reclamation    plan    is    required     to
+        restore/mitigate the land resource and shall be submitted to
+        the Wasco County Planning and Economic Development Office for
+        a consistency review prior to excavation.            According to the
+        Soil Survey of Wasco County, OR - Northern Part, the subject
+        soils are classified as Quincy loamy fine sand,             wet with a
+        capability unit rating of IIIw-1.       These soils are subject to
+        flooding,    and    have  a   high   water    table.    The    required
+        reclamation plan should address        anticipated affects       to the
+        ground water.     With the condition for a reclamation plan as a
+        requirement in the pending Conditional Use Permit application
+         (CUP 92-128-WAMF2-H),    the proposal will comply with Goal 6.
+
+        m It is evident     that  dust emissions   affecting   air are of
+        paramount concern.     A condition requiring a water source to
+        abate the dust emissions should be made part of the pending
+        Conditional  Use   Permit   Application  subject   to   the Oregon
+        Department of Environmental Quality.       With this requirement
+        affect on air quality should be minimized.         Subject to the
+        requirements   for    reclamation   and  DEQ   requirements    this
+        proposal is found to be consistent with Goal 6.
+
+        Goal      7   -   Areas        Subject       to    natural     Disasters         and     Hazards
+
+                  To protect            life     and      property     from    natural         disasters        and
+                  hazards.
+
+        Finding:           According           to    the    publication        "    Geologic          Hazards       of
+
+                                                                                   (93        002¢      (/2     )
+Wasco       C.   Planning           & Economic          Development            Office
+CPA~92-102-WAMF2~-H
+April       5,   1993
+Page    6
+
+        Parts  of           Northern  Hood River, Wasco,                         and Sherman   Counties,
+        Oregon,"           this proposal is not within a                         geologic hazards area.
+        The site is within the flood plain of both the White River and
+        Tygh  Creek  and  is  within  the  “ Flood  Hazard   Zone" and
+        Environmental Protection District 1 (Flood Hazard Overlay) of
+        Wasco County.   The purpose of the Flood Hazard                                        Overlay is        to
+        minimize public and private losses due to flood                                        conditions        in
+        these areas                 This includes methods of reducing flood                               losses
+        including:                  "Controlling  the alteration  of natural                               flood
+        Plains,   stream channels   ...which help accommodate or channel
+        flood waters    ;  and  Controlling filling,    grading,   dredging,
+        and   other   development   which   may   increase   flood   damage"
+        Chapter 22, Flood Damage Prevention       of the Wasco County Land
+        Use and Development Ordinance,      (Section 22.020).      According
+        to the Federal Emergency Management Agency (FEMA),        the County
+        flood insurance rates would not be affected by this proposal
+        (personal                 conversation           with         the      Land      Conservation           and
+        Development               staff,     Steve      Ohlman).
+
+        The Department of Geology and Mineral Industries                                         report of      on-
+        site inspection  of the subject property,   dated                                         February      17,
+        1993 (Exhibit               D) addresses a concern expressed by staff about
+        the potential                that this operation cause a relocation of the
+        White        River        channel.        The   DOGAMI    report        addresses        this   concern.
+        The      report           states      that      this     is       “unlikely"       and     goes    on    to
+        explain           why;      page     2,    paragraph          3   of   the    report   states..."the
+        maximum           depth of      the proposed excavation is 1’ higher than the
+        surface            of  the       normal  water  level  of  the  White  River.
+        Therefore,   if there were over topping of the riverbank,          the
+        excavation would not cause a relocation of that channel.          When
+        the water recedes, the course of the river will be unchanged."
+        The report identifies an area of 75’ along the river which is
+        experiencing    some erosion and recommends stabilizing this bank
+        with willow cuttings to further insure that there will be no
+        erosion   of  the   channel    that would   contribute   to potential
+        stream relocation.       The report goes on to state that by the
+        time  phase   two   of the proposed     operation   begins  this  bank
+        should be stabilized.       The DOGAMI report does not make this a
+        condition of their permit.    A condition for additional slope
+        stabilization of this area with willow cuttings as recommended
+        by DOGAMI should be made part of the pending CUP-92-128-WWMF2-
+        H.   With these conditions the proposal would be consistent
+        with     Goal        7.
+        Goal     -    8    Recreational             Needs
+
+                 To satisfy the recreational needs of the citizens of the
+                 state  and visitors  and to provide   for the  siting of
+                 necessary recreational facilities including destination
+
+                                                                                         (93 b224(e)
+Wasco    C.     Planning             &    Economic            Development           Office
+CPA-92-102-WAMF2-H
+April 5,        1993
+Page 7
+
+                 resorts.
+
+        Finding: Not applicable. The                                  application        is   for   an   industrial
+        use in an industrial zone.
+
+        Goal-        9   Economic           Development
+
+                 To provide adequate opportunities throughout the state
+                 for a variety of economic activities vital to the health,
+                 welfare, and prosperity of Oregon’s citizens.
+
+        Finding: This proposal is for the commercial sale of a mineral
+        resource.  It will provide material necessary for construction
+        projects.   As such, it can be seen as an opportunity vital to
+        the    welfare           and       prosperity            of    Oregon’s       citizens.      The   proposal
+        complies              with       Goal     9.
+
+        Goal     10       -    Housing
+
+                 To       provide           for         the     housing        needs     of    citizens     of   the
+                 state.
+
+        Finding:               Not       applicable.
+
+        Goal     11       -    Public           Facilities            and    Services
+
+                 To plan   and develop                            a timely,           orderly   and efficient
+                 arrangement of public                           facilities          and services to serve as
+                 a       framework              for     urban    and        rural    development
+
+        Finding:               Not       applicable.
+
+        Goal     12       -    Transportation
+
+                 To      provide           and        encourage         a   safe,    convenient      and   economic
+                 transportation                        systen.
+
+        Finding:               Not       applicable.
+
+        Goal     13       -    Energy           Conservation
+
+                 To       conserve              energy.
+
+        Finding:               Not       applicable.
+
+        Goal     14       -    Urbanization
+
+        Finding:               Not       applicable.
+
+                                                                                             Ja 02-24 (b>
+Wasco        C.   Planning       &        Economic      Development          Office
+CPA-92-102-WAMF2-H
+April        5,   1993
+Page     8
+
+Criterion           C.       There           is     substantial             proof         that     the    proposed
+amendment          will    not       be    detrimental         to     the    spirit        and   intentof         such
+goals.
+
+         Findings:   The discussion of the Goals and findings provide
+         substantial   proof that  the proposed amendment will   not be
+         detrimental to the spirit and intent of the Goals.    As such,
+         the proposal is in compliance with this criterion.
+
+Criterion          D.    A mistake          in    the   original        Comprehensive              Plan   occurred
+or changes in the character of the                             neighborhood               have   occurred        which
+warrant the proposed amendment.
+
+         Findings:    There is no indication that there was a mistake in
+         original Comprehensive Plan to warrant the proposed amendment.
+         A change in use has occurred in that the previous use was for
+         Mountain Fir Lumber Company operation as their log storage
+         deck.   Mountain Fir Lumber has moved their operation from this
+         site.   The   change  in   use  warrants  consideration  of  this
+         proposed amendment.      As such,  the proposal is in compliance
+         with this criterion.
+
+Criterion E.  There are factors which relate to the public need                                                    for
+healthful, safe and aesthetic surroundings and conditions.
+
+         Findings:   The factor which relates to public need is the need
+         for   a    construction  materials   within   a reasonable    haul
+         distance for the south county.     This proposal will fill that
+         need.   With a reclamation plan required as a condition of the
+         pending Conditional Use Permit Application the health, safety,
+         and aesthetic considerations     of this proposal    would comply
+         with this criterion.    Mining operations may be considered as
+         incompatible with surrounding residential use.       However,   the
+         residential uses have existed with past industrial operations.
+         The proposed use is consistent with the past use and with the
+         zone.   As such, surrounding residential uses are aware of the
+         industrial nature of this site.     With conditions imposed for
+         safety this proposal is consistent with      criterion E.
+
+Criterion           F.       There           is     proof      of      change         in     the     inventories
+originally          developed.
+
+         Findings:           The          previous       use    was     as    a     log     storage       deck     for
+         Mountain Fir Lumber. As                        such their is no proof of change, nor
+         reason  to assume   that                        there is a change    in the  original
+         inventory.
+
+Criterion G.  Public need and justification                                       for the amendment               must
+be established based on special studies or                                        other information
+
+                                                                                            £93 b224% (/o)
+Wasco       C.   Planning       &   Economic          Development                Office
+CPA-92-102-WAMF2-H
+April       5,   1993
+Page    9
+
+        Findings;             The applicant has stated that material from this
+        site would            in part be used for the Pacific Gas Transmission
+        Pipeline        Project.          The    project           is     described                and    documented               in
+        a   report  entitled  PGT-PG&E  Pipeline  Expansion    Project
+        available at the Wasco County Planning Office.   As such, the
+        proposal is in compliance with Criterion G.
+
+CONCLUSIONS:             1.         The   request  is  for   a  Comprehensive  Plan
+                                    Amendment to add    a mineral resource site to
+                                    the county inventory.
+
+                         2.         The  Comprehensive                        Plan  designation   for the
+                                    property on which                        the proposal   is located is
+                                    Medium       Industrial               Use,        and        the     zone     is        "M-2",
+                                    The   proposal             is        a      conditional                use         is        this
+                                    zone.
+
+                         3.         With    coordination                  and     consistency               with            DOGAMI
+                                    reclamation               plan            conditions,                  the         request
+                                    complies          with         the       State          of     Oregon         Statewide
+                                    Planning          Goals
+
+                         4.         The     request            is        found         to     be       consistent                with
+                                    the    spirit       and         intent        of        these        goals.
+
+                         5.         There       was    no   mistake              in     the        original        plan.
+
+                         6.         Public need will be met                            by     this       amendment               ina
+                                    safe aesthetic manner.
+
+                         7.         This    site      was     not        originally                identified               on    the
+                                    county       aggregate               inventory               list.      If     approved
+                                    through this process it will be added to the
+                                    county aggregate inventory list as a potential
+                                    site.
+
+RECOMMENDATION:                 Based  upon  the  above  findings of fact,   staff
+recommends that           the     application by Jon Justeson for a Comprehensive
+Plan amendment to allow placement                             of     a mineral              resource            site        on    the
+county  inventory be approved.
+
+<3C\wp51i\sr\cpa-m2.amd
+
+                                                                                                 (9% 024 (jz)
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.1% of
+the word sequence, and on 80.7% of the figures. Dictionary-recognizable words: 94.2%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

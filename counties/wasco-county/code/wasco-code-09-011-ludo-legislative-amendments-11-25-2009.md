@@ -1,0 +1,7013 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-09-011-ludo-legislative-amendments-11-25-2009
+title: '09-011 LUDO Legislative Amendments 11-25-2009'
+doc_type: ordinance
+citation: '09-011 LUDO Legislative Amendments 11-25-2009'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-011%20LUDO%20Legislative%20Amendments%2011-25-2009.pdf?t=202503260855090
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 56ec9312315ec1b8aa426a7cafa2640235d73c8a99aac879a30d1f085261467b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.992; figure agreement 0.808; dictionary ratio 0.974. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.015
+    - ORS 197.610
+    - ORS 197.763
+    - ORS 197.767
+    - ORS 209.250
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.416
+    - ORS 215.429
+    - ORS 315.141
+    - ORS 321.267
+    - ORS 371.055
+    - ORS 371.305
+    - ORS 433.735
+    - ORS 455.315
+    - ORS 459A.725
+    - ORS 497.248
+    - ORS 92.010
+    - ORS 92.060
+    - ORS 92.075
+    - ORS 92.180
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# 09-011 LUDO Legislative Amendments 11-25-2009 (09-011 LUDO Legislative Amendments 11-25-2009)
+
+## At a glance
+
+OCR-derived text of 09-011 LUDO Legislative Amendments 11-25-2009. Not human-verified.
+
+## Full text
+
+IN THE COUNTY COURT OF THE STATE OF OREGON
+
+                             IN AND FOR THE COUNTY OF WASCO
+
+     IN THE MATTER OF THE WASCO COUNTY PLANNING)
+     & DEVELOPMENT DEPARTMENT'S REQUEST TO       )
+     APPROVE THE PROPOSED POST-                  )
+     ACKNOWLEDGEMENT LEGISLATIVE AMENDMENTS
+     TO UPDATE THE WASCO COUNTY LAND USE AND     ) ORDINANCE
+     DEVELOPMENT ORDINANCE TO IMPLEMENT THE      ) No. 09-011
+     WASCO COUNTY TRANSPORTATION SYSTEM PLAN     _)
+     AND MAKE OTHER AMENDMENTS NECESSARY FOR
+     CONSISTENCY WITH STATE LAW AND OTHER
+     PORTIONS OF THE ORDINANCE AS WELL AS        )
+     INCREASE CLARITY (FILE NUMBER PLALEG-08-12-
+     0003)
+
+            NOW ON THIS DAY, the above-entitled matter having come on regularly for
+
+     consideration, said day being one duly set in term for the transaction of public business
+
+     and a majority of the Court being present; and
+
+            WHEREAS,     Wasco County does not have a Transportation System Plan and the
+
+     existing Wasco County rules, regulations and policies are not necessarily consistent
+
+     with the Oregon State Transportation Planning Rule, OAR 660, Division 12.      On
+
+     March 9, 2007, the Wasco County Planning & Development Department and Wasco
+
+     County Public Works Department applied for a Transportation and Growth Management
+
+10   Grant to pay for the process of conducting a long range planning process that will result
+
+11   in a Transportation System Pian and a Post Acknowledgement Plan Amendment
+
+     Page 1 - ORDINANCE
+                                                            20090454
+     process for a Legislative Text Amendment to the Comprehensive Plan and Land Use &
+
+     Development Ordinance to amend the transportation element and associated
+
+     regulations to become consistent with the Transportation Planning Rule, OAR 660,
+
+     Division 12.    On May 21, 2007, Wasco County received notification that it was awarded
+
+     $100,000 (with a 10% local match requirement) to hire a consulting firm to conduct this
+
+     process which is required to be completed by June 30, 2008.    On October 29, 2008, the
+
+     Wasco County Court entered into an Intergovernmental Agreement with the State of
+
+     Oregon that included an agreed upon statement of work.     In July of 2008, Wasco
+
+     County chose Kittelson and Associates, Inc. to conduction this long range planning
+
+10   project.
+
+11              WHEREAS, The Wasco County Planning & Development Department was
+
+12   directed by the Wasco County Court on January 7, 2009, per Section 9.010(A) of the
+
+13   Wasco County Land Use & Development Ordinance to initiate a Post-Acknowledgement
+
+14   Plan Amendment process for a legislative text amendment to the Land Use and
+
+15   Development Ordinance to update the Wasco County Land Use and Development
+
+16   Ordinance to implement the Wasco County Transportation System Plan and make other
+
+17   amendments necessary for consistency with state law and other portions of the
+
+18   Ordinance as well as increase clarity; and
+
+19              WHEREAS,   The Wasco County Planning & Development Department sent
+
+20   notification to the Department of Land Conservation and Development, pursuant to
+
+21   ORS 197.610, on August 13, 2009, and all property owners in the unincorporated
+
+22   portion of Wasco County outside of the National Scenic Area on September 15, 2009;
+
+23   and
+
+     Page 2 - ORDINANCE
+                                                              20096451
+           WHEREAS,     That on October 6, 2009, at the hour of 3:00 p.m. at the Columbia
+
+     River Gorge Discovery Center downstairs classroom the Wasco County Planning &
+
+     Department held a legally notified public workshop with the Wasco County Planning
+
+     Commission and the Wasco County Court on the above matter to review back ground
+
+     information and listen to public comments for the purpose of better understanding the
+
+     proposed amendments prior to the Planning Commission hearing; and
+
+           WHEREAS:         That on October 6, 2009, following the conclusion of the workshop,
+
+     the Wasco County Planning Commission met to conduct a legally notified public hearing
+
+     on the above matter.    The Commission reviewed the record, heard the Staff
+
+10   recommendation and all relevant testimony from parties, deliberated and voted to
+
+11   elevate the request for a Post-Acknowledgement Plan Amendment with a
+
+12   recommendation of approval to the Wasco County Court with additional amendments;
+
+13   and
+
+14         WHEREAS:         That on November 4, 2009, at the hour of 10:30 a.m. in the Wasco
+
+1S   County Courtroom, Room 202, of the Wasco County Courthouse the Wasco County
+
+16   Court met to conduct a legally notified public hearing on the above matter. The County
+
+17   Court reviewed the record, heard the Planning Commission recommendation and Staff
+
+18   recommendation and all relevant testimony from the parties, deliberated and, on a vote
+
+19   of 3— 0 approved the recommendation by the Wasco County Planning Commission on
+
+20   the above matter with additional amendments, as laid out in Attachment A, to be
+
+21   signed at the next scheduled County Court meeting, November 25, 2009; and
+
+22          NOW THEREFORE IT IS HEREBY ORDERED:                 That the request by the Wasco
+
+23   County Planning & Development Department for a Post-Acknowledgement Plan
+
+     Page 3 - ORDINANCE
+                                                                20090404
+ Amendment for a legislative text amendment to the Land Use and Development
+
+ Ordinance to update the Wasco County Land Use and Development Ordinance to
+
+ implement the Wasco County Transportation System Plan and make other amendments
+
+ necessary for consistency with state law and other portions of the Ordinance, as well as
+
+ increase clarity is approved.
+
+        SIGNED this 25th day of November, 2009.
+
+ Approved as to Form:
+                                               WASCO COUNTY COURT
+
+(Eicdtisley                                    Dan   FrickSen Judge
+    sco County District Attorney
+
+                                               Sherry HollisWay, Mu   coed
+
+                                        et                     Sete
+                                               Bill Lennox, Commissioner
+
+ Page 4 - ORDINANCE
+                                                         2009049:
+                                                                         foe
+                               ATTACHMENT A
+                              PLALEG-08-12-0003
+
+     Final Updated Versions of the Following Chapters of the
+              Land Use and Development Ordinance
+
+Title Page
+
+Chapter 1 - Definitions
+
+Chapter 2 - Development Approval Procedures
+
+Chapter 4 - Supplemental Provisions
+
+Chapter 5 - Conditional Use Review
+
+Chapter 9 - Zone Change & Ordinance Amendment
+
+Chapter 18 - Planned Unit Development
+
+Chapter 20 - Site Plan Review
+
+Chapter 21 - Land Divisions
+
+                                                200905
+                                                         Hee
+                                                         qr
+                                                               fer
+              WASCO COUNTY
+
+LAND USE AND DEVELOPMENT ORDINANCE
+                         ADOPTED
+                         June, 1985
+
+                        EFFECTIVE
+                         July, 1989
+                      January, 1992
+                        May, 1993
+                     September, 1993
+                      January, 1995
+                        April, 1995
+                     December, 1996
+                     September,      1997
+                        June, 1998
+                     September, 1999
+                    November 16, 1999
+                     January 19, 2000
+                     February 1, 2000
+                     February 2, 2004
+                     January 17, 2006
+                    November 22, 2006
+                     February 5, 2007
+                        July 8, 2009
+                       July 22, 2009
+                    December 16, 2009
+
+                   PREPARED BY THE
+      Wasco County Planning and Development Office
+
+                             STAFF
+          Todd R. Comett             Director of Planning
+          A. Gary Nychyk             Senior Planner
+           Brenda Jenkins            Planning Coordinator
+             Dawn M. Baird           Associate Planner
+         Jeanette Montour            Associate Planner
+            Benjamin Hoey            Planning Assistant
+           Keith Cleveland           Code Compliance Officer
+                                      DETAILED TABLE OF CONTENTS
+                             CHAPTER 1      INTRODUCTORY PROVISIONS
+
+SECTION                 TITLE                                         PAGE
+
+1.005                   AUTHORITY                                     1-1
+1.010                   TITLE                                         1-1
+1.020                   PURPOSE                                       1-1
+1.030                   SEVERABILITY                                  1-1
+1.040                   REPEAL                                        1-1
+1.050                   EFFECTIVE DATE
+1.060                   INTERPRETATION AND SCOPE                      1-2
+1.070                   COMPLIANCE REQUIRED                           1-2
+1.080                   EDITORIAL REVISION                            1-2
+1.090                   DEFINITIONS                                   1-2
+
+Chapter 1 = Introductory Provisions                        2609045»
+December 16, 2009
+                                                                                                             Page 1-1
+
+                            CHAPTER 1 INTRODUCTORY PROVISIONS
+
+SECTION 1.005 Authority
+This Ordinance is enacted pursuant                to   the    provisions       of Oregon     Revised       Statutes
+Chapters 92, 197, 203, and 215.
+
+SECTION 1.010 Title
+This Ordinance shall be known              as the Wasco          County        Land    Use   and    Development
+Ordinance.
+
+SECTION 1.020         Purpose
+The purposes of this Ordinance are:           To promote public health, safety, convenience, and
+genera!   welfare;     to   reduce   congestion        upon   the    streets     and    highways;     to   prevent
+excessive population density and the overcrowding of land; to provide for adequate air and
+light; to conserve natural resources and encourage the orderly growth of the County; to
+promote safety from fire and natural disaster; to assist in rendering adequate police and
+fire protection; to facilitate adequate and economic provision for public improvements, for
+recreation areas, and for public utilities and services; to conserve, stabilize, and protect
+property values; and to encourage the most appropriate use of land, all in accordance with
+the comprehensive plan for Wasco County.
+
+SECTION 1.030 Severability
+The   provisions     of this Ordinance     are severable.           If any section,      sentence,     clause,     or
+phrase of this Ordinance is adjudged to be invalid by a court of competent jurisdiction, that
+decision shall not affect the validity of the remaining portion of this Ordinance.       The
+Director, the Director's designee or other Approving Authority shall not approve a
+development or use of land that has been previously divided or otherwise developed in
+violation of this Ordinance, regardless of whether the applicant created the violation,
+unless the violation can be rectified as part of the development proposal.
+
+SECTION 1.040         Repeal
+The following ordinances, together with all amendments thereto are hereby repealed:
+
+"Wasco County Zoning Ordinance", adopted February 3, 1982.
+"Wasco    County     Subdivision     and   Land    Development         Ordinance",       adopted     February      3,
+1982.
+“Wasco County Mobile Home and Recreational Vehicle Park Ordinance”.
+
+                                                                                  Chapter 1 — Introductory Provisions
+                                                                                                   December 16, 2009
+Page 1-2
+
+SECTION 1.050 Effective Date
+This Ordinance shall become effective when filed with the Wasco County Clerk.
+Amendments hereto, unless otherwise specified, shall become effective when filed with
+the County Clerk.
+
+SECTION 1.060 Interpretation and Scope
+Interpretation: The provisions of this Ordinance shall be liberally construed to effect the
+purpose.     These provisions are declared to be the minimum requirements to fulfill
+objectives.   When conditions herein imposed are less restrictive than comparative
+provisions imposed by any other provision of this Ordinance by resolution of State Law or
+State Administration regulations, then the more restrictive shall govern.
+
+Scope:       This Ordinance            is enacted    to regulate and      restrict the location and     use of
+buildings, structures, and land for residence, trade, industry, and other land use activities;
+to regulate and limit the height, number of stories, and size of buildings and other
+structures hereafter erected or altered; to regulate and limit the density of population and
+to divide Wasco County into districts or zones of such number, shape and area as may be
+deemed best to carry out these regulations and to provide for the enforcement of these
+regulations.
+
+SECTION 1.070 Compliance Required
+No structure or premises in Wasco County shall hereafter be used or occupied and no part
+or structure or part thereof shall be erected, moved, reconstructed, extended, enlarged, or
+altered contrary to the provisions of this Ordinance.
+
+SECTION 1.080 Editorial Revision
+Editorial revision will be in compliance with the following procedures. The District Attomey
+may at any time direct such changes regarding currently maintained copies of this
+Ordinance and amendments as the Legislative Council is authorized to perform regarding
+acts of the Legislature, pursuant to Oregon Revised Statute 173.160, provided that such
+editorial revisions be directed by written memorandum filed with the County Clerk and with
+the Planning Department, but subject to disapproval by the Commission at next regular
+meeting thereafter.            Editorial revisions shall become effective, unless disapproved by the
+Commission,           on     the   first   regular   meeting   of   the   Commission    after   the   directing
+memorandum is              filed with the County Clerk.
+
+SECTION 1.090 Definitions
+For the purpose of this Ordinance, certain words and terms are defined as follows: Words
+used in the present tense include the future; words in the singular number include the
+plural, and words in the plural include the singular, the word “Building” includes the word
+"Structure"; the word "Shall" is mandatory and not directory.
+
+Chapter 1 — Introductory Provisions                                       9 0 G 9 0 4 3 %
+December   16, 2009
+                                                                                               Page 1-3
+
+AUM - Animal Unit Month - Unit of measure of dry forage to graze a 900 - 1000 pound
+cow and calf for thirty (30) days as prescribed by the NRCS Rangeland Specialist.
+
+Abandoned WECS - A WECS that does not generate energy during a period of twelve
+(12) consecutive months for reasons other than lack of wind, lack of demand for the
+electricity produced, repair, or modemization.
+
+Accepted    Farming      Practice - A mode of operation common     to farms and ranches of a
+similar nature necessary for the operation of such farms and ranches, with the intent to
+obtain a profit in money, and customarily utilized in conjunction with farm use.
+
+Access - A way or means of approach to provide pedestrian, bicycle, and/or motor
+vehicular entrances or exits to a property. Includes driveways and private accesses.
+
+Access easement - An easement recorded for the purpose of providing vehicle, bicycle,
+and/or pedestrian access from a public or private road to a parcel across intervening
+property under separate ownership from the parcel being provided access. See Private
+Easement Road.
+
+Accessory Structure -         A detached   structure, its footprint being less than 3/4 of the
+primary structures footprint, the use of which is customarily incidental to that of the primary
+structure or the primary use of the land and which is located on the same lot-of-record with
+the primary structure or use. Accessory structures shall not include agricultural exempt
+buildings. (Revised 1/92, 5/93)
+
+Accessory Use - A use customarily incidental and subordinate to the primary uses and
+located on the same lot-of-record. (Revised 1/92)
+
+Agricultural Land (Per OAR 660-33-020(1)(a) - Means lands classified by the US Natural
+Resource Conservation Service as predominantly Class I-VI in Eastern Oregon; land in
+other soil classes that is suitable for farm use as defined in ORS 215.203 taking into
+consideration soil fertility; suitability for grazing; climatic conditions; existing and future
+availability of water for farm irrigation purposes; existing land use patterns; technological
+and energy inputs required; and accepted farming practices; land that is necessary to
+permit farm practices to be undertaken on adjacent or nearby agricultural lands; and
+land in capability classes other than | - VI that is adjacent to or intermingled with lands in
+capability classes | - V! within a farm unit shall be inventoried as agricultural lands even
+though this land may not be cropped or grazed. Agricultural land does not include land
+within acknowledged       urban growth boundaries or land within acknowledged            exception
+areas for Goal 3 or 4.
+                                                     tan
+                                                           ert
+                                            (er)
+                                           ome)
+                                            t>
+
+                                                           |e!
+                                           [wel
+                                           Cc
+
+                                                                   Chapter 1 - Introductory Provisions
+                                                                                    December   16, 2009
+Page 1-4
+
+Agricultural Purposes - The predominant and gainful use of land for the following
+purposes: the growing of hay, grain, seed, row crops, horticultural crops, livestock, poultry
+and produce.
+
+Agricultural Structure — In any zone a building or structure may be considered in
+conjunction with farm use, as defined in this Chapter or ORS 215.203 subject to the
+following:
+
+    All buildings and structures
+
+    a.     The lot or parcel is enrolled in a farm deferral program with the County Assessor;
+
+     b.    The owner provides a farm management plan that is reviewed and approved by the
+           Planning Department;
+
+    Agricultural Exempt Buildings Only
+
+    c.     The owner submits a signed floor plan showing that only farm related uses will
+           occupy the building space; and
+
+    d.     The   owner will file a restrictive covenant         in the deed      records of Wasco      County
+           agreeing the it will be used solely as will be solely used as an agricultural building
+           as defined by ORS 455.315(2).
+
+Airport Approach           Area       -   A wedge-shaped     area described      by boundaries      where the
+inner edge of the Airport Approach Area coincides with each end of the runway and is two
+hundred and fifty (250) feet wide at each terminus.                 The Airport Approach Area expands
+outward uniformly to a width of seven hundred and fifty (750) feet at a horizontal distance
+of two thousand five hundred (2,500) feet from the terminus, with its centerline being the
+continuation of the centerline of the runway.
+
+Airport Clear Area - The Airport Clear Area coincides with the Airport Approach Area for
+a horizontal distance of one thousand two hundred (1,200) feet from the runway termini.
+
+Airport Hazard - Any structure, tree, or use of land which unreasonably obstructs the air
+space required for the safe flight of aircraft in landing or taking off at an airport or landing
+field, or is otherwise hazardous to such landing or taking off of aircraft.
+
+Airport Hazard Area - Any                   area   of land   upon   which   an   airport   hazard   might   be
+established if not prevented.
+
+Airport (Personal-Use) - Means pursuant OAR 660-33-130(7), an airstrip restricted,
+except for aircraft emergencies, to use by the owner, and on an infrequent and occasional
+basis, by invited guests, and by commercial aviation activities in connection with
+agricultural operations. No aircraft may be based on a personal use airport other than
+
+Chapter 1 — Introductory Provisions                                               noagdas.
+December16, 2009                                                            2080       0 AS a
+                                                                                                 Page 1-5
+
+those ‘owned or controlled by the owner of the airstrip. Exceptions to the activities
+permitted under this definition may be granted through waiver action by the Oregon
+Aeronautics Division in specific instances.     A personal use airport lawfully existing as of
+September 13, 1975 shall continue to be permitted subject to any applicable rules of the
+Oregon Aeronautics Division. (amended 12/96)
+
+Airport (Public) - A designated area for the take-off and landing of airplanes which is
+designed for public use by general aviation, and where aircraft service facilities are
+nomnally provided.
+
+All Weather Road - A road that has, depending upon design criteria, a six [to eight] or
+more inches of gravel base, smooth surface, that a two wheel drive vehicle can use all
+year round.   Confirmation of "all weather" to be made by the Wasco County Public Works
+Department.
+
+Alley - A secondary means of access to abutting property, if dedicated as a public way.
+
+Altered - A change, addition, or modification in structure; where the term "altered" is used
+in connection with a change of occupancy, it is intended to apply to changes of occupancy
+from one trade or use to another, or from one division or use to another.
+
+Apartment - A building or portion thereof designed for residential use and containing three
+or more dwelling units.
+
+Apartment House      - Three or more    household     units with walls or ceilings common             to
+another unit.
+
+Approach Road — That portion of any access, driveway or other facility that immediately
+abuts upon a public or county road and provides ingress to or egress from said public or
+county road.
+
+Approving Authority - The County Goveming Body or the body designated                            by the
+County Governing Body to administer all or part of this ordinance.
+
+Arterial Road or Street - A road or street used primarily to carry high levels of regional
+vehicular traffic at high speeds; connects the collector road system to freeways;
+provides connection to other cities and communities;          serves major traffic movements;
+access control may be provided through medians and/or channelization.                    The typical
+average daily traffic exceeds 2,000.
+
+Automobile    and Trailer Sales Area - An open area, other than a street, used for the
+display, sale, or rental of new or used motor vehicles or trailers and where no repair work
+is done except minor incidental repair of motor vehicles or trailers to be displayed, sold or
+rented on the premises.
+
+                                              SOSA.
+                                       2 6    } 9 uv A ad a          Chapter 1 — {ntroductory Provisions
+                                                                                      December   16, 2009
+Automobile Repair Garage - A building or portion thereof used for the care and repair of
+motor vehicles or where such vehicles are parked or stored for compensation, hire or sale.
+
+Automobile Service Station - Any premises used for supplying gasoline, oil, minor
+accessories, and services, excluding body and fender repair for automobiles at retail direct
+to the customer.
+
+Automobile Wrecking Yard - Any property where more than two vehicles not in running
+condition, or parts thereof, are:    wrecked, dismantled, disassembled, or substantially
+altered and are stored in the open and are not being restored to operation; or any land,
+building, or structure used for wrecking or storing of such motor vehicles or parts thereof
+for a period exceeding three (3) months. (Revised 1/92)
+
+Awning - An awning is defined as any accessory shade structure supported by posts or
+columns and partially supported by a mobile home.
+
+Basement - A portion of a building, partly underground, which is less than one-half of its
+height measured from finished floor to finished ceiling above the average grade of the
+adjoining ground, and not deemed a story unless the ceiling is six (6) feet or more above
+the ground.
+
+Batch Plant, Concrete or Asphalt - Means the storage, preparation, and manufacturing
+of concrete or asphalt including customary equipment and accessory buildings.    Also
+called Redi-Mix plant.
+
+Bed and Breakfast Inn - A single-family dwelling where lodging and a morning meal for
+guests only are offered for compensation, having no more than five (5) sleeping rooms for
+this purpose. An establishment where more than one (1) meal per day is offered shall not
+be deemed a bed and breakfast inn. An establishment with more than five (5) sleeping
+rooms shall be deemed a hotel. A bed and breakfast inn must be within the residence of
+the operator. (added 2/89)
+
+Bikeway - Any road, path, or way that is in some              manner specifically open to bicycle
+travel, regardless of whether            such facilities are designated     for the exclusive   use of
+bicycles or are shared with other transportation modes.
+
+Bike Lane       - A defined       portion of the roadway which   has been     designated   by striping,
+signing and pavement markings for the preferential or exclusive use of bicyclists.
+
+Blade - An element of a WECS             rotor which forms an aerodynamic surface or surfaces to
+convert movement of air into mechanical energy or torque.
+
+Chapter 1 — Introductory Provisions
+                                                                  20090454
+December 16, 2009
+                                                                                                 Page 1-7
+
+Block - An area of land within a subdivision which area may be entirely bounded by
+streets, highways or ways (except alleys), and the exterior boundary or boundaries of the
+subdivision.
+
+Boarding House - A building or premise where meals and lodging are offered for
+compensation for three (3) or more persons but not more than nine (9) persons; and
+having no more than five (5) sleeping rooms for this purpose.           An establishment where
+meals are served for compensation for more than nine (9) persons shall be deemed a
+restaurant. An establishment with more than five (5) sleeping rooms shall be deemed a
+hotel.
+
+Boarding of Horses       - The boarding of horses for profit in specified zones other than the
+Exclusive Farm Use zone shall include the following:
+
+    a.   The stabling, feeding and grooming for a fee, or the renting of stalls for and the care
+         of horses not belonging to the owner of the property; and,
+
+    b. Related facilities, such as training arenas, corrals and exercise tracks.
+
+         The boarding of horses for profit does not include the following:
+
+    a.   The mere pasturage of horses or the boarding of horses not owned by the property
+         owner for the purpose of breeding with the owner's stock;
+
+    b. The incidental stabling of not more than four (4) horses;
+
+    c. The boarding of horses for friends or guests where no charge is made; and
+
+    d.   Equestrian activities when the raising, feeding, training or grooming of horses is a
+         farm use by the property owner of the land qualifying for farm assessment under
+         regulations of the State Department of Revenue.
+
+Building - Any structure built for the support,        shelter,   or enclosure    of any     persons,
+animals, chattels, or property of any kind.
+
+Building Line - A line on a plat indicating the limit beyond which buildings or structures
+may not be erected.
+
+Business - Employment of one or more persons for the purpose of earning a                livelihood or
+a profit in money. (added 2/89)
+
+Cabana - A room enclosure erected or constructed adjacent to a mobile home for use as
+an addition to a mobile home.
+
+                                            206090452
+                                                                      Chapter 1 — Introductory Provisions
+                                                                                       December 16, 2009
+Page 1-8
+
+Campground            - A     campground       is an      area   devoted       to overnight      temporary      use   for
+vacation,      recreational        or    emergency        purposes,      but    not   for    residential      purposes.
+Overnight temporary             use     in the same       campground       by a camper or camper's               vehicle
+shall not exceed a total of 30 days during any consecutive 6 month period.
+
+Camp, Tourist, or Trailer Park - Any area or tract of land used or designed to
+accommodate more than two camping outfits (trailer, tent, tent trailer, recreational vehicle,
+pickup camper or other similar device used for camping), including cabins.
+
+Carport - A covered shelter for an automobile open on two or more sides.                                 A carport may
+be freestanding or partially supported by a dwelling unit or mobile home.
+
+Cellar - A story having more than one-half of its height below the average level of the
+adjoining ground and which has less than six (6) feet of its height above the average level
+of the adjoining ground.
+
+Cemetery - Land dedicated for burial purposes, including mortuary, crematory,
+mausoleum, and columbarium, when operated within the boundary of the cemetery.
+
+Church - A building, together with its accessory buildings and uses, where persons
+regularly assemble for public worship, and which building, together with its accessory
+buildings and uses, is maintained and controlled by a religious body organized to sustain
+public worship.
+
+Class | Stream - Waters which are valuable for domestic use, are important for angling or
+other recreation, and/or used by significant numbers of fish for spawning, rearing, or
+migration routes as designated by the Oregon Department of Forestry. Stream flows may
+be perennial or intermittent.
+
+Class II Stream - Any headwater streams or minor drainages that generally have limited
+or no direct value for angling or other recreation as designated by the Oregon Department
+of Forestry. They are used by only a few, if any, fish for spawning or rearing. Their
+principal value is their influence on water quality or quantity downstream in Class | waters.
+Stream flow may be perennial or intermittent.
+
+Clinic     - Single      or   multiple    offices   for    physicians,     surgeons,        dentists,     chiropractors,
+osteopaths, and other members of the healing arts, including a pharmacy in any such
+building.
+
+Club or Lodge - A building and facilities owned and operated for a social or recreational
+purpose, to which membership is required for participation, but is not operated primarily for
+profit or to render a service which is customarily carried on as a business.                            A club does not
+include a public rehabilitation facility of any kind.
+
+                                                                                 20690454
+Chapter 1 —- Introductory Provisions
+December 16, 2009
+                                                                                                           Page 1-9
+
+Collector Road     or Street (Major)        - A road used          primarily to serve traffic between
+neighborhoods and community facilities; principal carrier between arterials and local
+roads; provides some degree of access to adjacent properties, while maintaining
+circulation and mobility for all users; carries lower traffic volumes at slower speeds than
+arterials; typically has two or three lanes; bicycle facilities may be exclusive or shared
+roadways    depending    on   traffic volumes,      speeds,    and        extent   of bicycle travel.        The
+typical average daily traffic ranges from 500 to 2,000.
+
+Collector Road or Street (Minor) - A road used primarily to connect rural residential
+areas with arterials and major collector roads; has slower speeds to enhance safety;
+bicycle facilities may be exclusive or shared roadways depending on traffic volumes,
+speeds, and extent of bicycle travel.       The typical average daily traffic ranges from 250 to
+400.
+
+Commencement of Development - Authorized development has been commenced
+when the holder of the permit has physically altered the land or structure or changed the
+use thereof and such alteration or change is directed toward completion and is sufficient in
+terms of time, labor or money spent to demonstrate a good faith effort to complete the
+development.     In the case of development requiring a building permit, issuance of the
+building permit shall be conclusive evidence of commencing development.            Nothing
+herein, however, shall be deemed to extend the life of said building permit as provided by
+law. A development permit which would have expired but for issuance of a building permit
+shall expire automatically upon expiration of the building permit.         In the case of
+development authorized to be done in phases, each phase must be commenced within the
+time frame specified in the approval, or commenced within two years of completion of the
+prior phase if no time table is specified. The date of phase completion in the case of a
+structure or structures shall be the date of issuance of an occupancy permit by the Director
+for 80% or more of the structure or structures.
+
+Commercial - The use of land or structures for a business activity engaged primarily in the
+sale of goods or services. (added 2/89)
+
+Commercial Agricultural Enterprise - Consists of farm operations that will contribute
+in a substantial way to the area's existing agricultural economy; and help maintain
+agricultural processors and established farm markets. When determining whether a
+farm is part of the commercial agricultural enterprise, not only what is produced, but
+how much and how it is marketed shall be considered. These are important factors
+because of the intent of Goal 3 to maintain the agricultural economy of the state.
+
+Commercial     Energy    Facility   - An    electrical   power       generating      plant with     a nominal
+electrical generating capacity of more than 25,000 kilowatts or operates at more than 230
+kilovolts; including, but not limited to:    a thermal power plant, hydroelectric power plant,
+combustion turbine power plant, geothermal power plant, electric power trarismission
+facility, or a nuclear installation, including a power reactor, re-processing plant, waste
+
+                                              9nr             Am     sy
+                                              2 0   W J 0     4 Je             Chapter 1 — Introductory Provisions
+                                                                                                December   16, 2009
+Page 1-19
+
+disposal facility, and any facility handling a quantity of fissionable materials sufficient to
+form a critical mass. A commercial power generation facility includes related or supporting
+facilities including any structure adjacent to and associated with an energy facility,
+including associated transmission lines, reservoirs, intake structures, road and rail access,
+pipelines, office or industrial structures built in conjunction with and used as part of the
+energy facility. A commercial power generation facility does not include a portable power
+plant, the principal use of which is to supply power in emergency or for individual domestic
+use.
+
+Commercial Utility Facility - Any energy facility or commercial energy facility.
+
+Commission - The Wasco County Planning Commission.
+
+Common Area - Any area or space designed for joint use of tenants.
+
+Communication           Facility - A facility constructed for the purpose of transmitting telegraph,
+telephone, microwave, television, radio, and other similar signals.
+
+Community           Center     or     Hall   - A   building   and   facilities   owned   and   operated   by a
+governmental agency or non-profit community organization whose membership is open to
+any resident of the community in which the center or hall is located.
+
+Community Management - The person who owns or has charge, care or control of the
+mobile home development.
+
+Community Sanitary-Sewer System - A public or private system of underground pipes of
+sufficient capacity to carry domestic sewage from an area to connected treatment and
+disposal facilities, as approved by the Oregon Department of Environmental Quality.
+
+Community Water-Supply System - A public or private system of underground
+distribution pipes providing a continuous supply of potable water from a center source in
+quantities sufficient to meet domestic and fire protection needs for three (3) or more
+dwellings, as approved by the State of Oregon Department of Human Resources, Health
+Division.
+
+Compost - A mixture of decaying, organic matter, such as leaves and manure, used
+as fertilizer.
+
+       a.   Green Feedstocks — Materials low in: (1) Substances that pose a present or future
+            hazard to human health or the environment; (2) Substances that are low in, and
+            unlikely to support, human pathogens. Green feedstocks include but are not limited
+            to yard debris, animal manure, wood waste, vegetative food waste, produce waste,
+            vegetative restaurant waste, vegetative food processor byproducts and crop
+            residue.
+
+                                                                                               te
+
+Chapter 1 - Introductory Provisions
+                                                                                 20090454
+December 16, 2009
+                                                                                                             Page 1-11
+
+   b.   Non-Green Feedstocks — Materials high in: (1) Substances that pose a present or
+        future hazard to human health or the environment; (2) Substances that are high in,
+        and likely to support, human pathogens. Non-green feedstocks include but are not
+        limited to animal parts and byproducts, mixed materials containing animal parts or
+        byproducts, dead animals and municipal solid waste.
+
+   c.   Agricultural Composting — Composting                   as an agricultural operation conducted              on
+        lands employed for farm use.
+
+   d.   Institutional Composting — The composting of green feedstocks generated from the
+        facility's own activities. It may also include supplemental feedstocks. Feedstocks
+        must be composted on-site, the compost produced must be utilized within the
+        contiguous boundaries of the institution and not offered for sale or use off-site.
+        Institutional composting      includes but is not limited to parks,                           apartments,
+        universities, schools, hospitals, golf courses and industrial parks.
+
+   e.   Reload Facility — A facility or site that accepts and                  reloads only yard debris and
+        wood waste for transport to another location.
+
+Comprehensive Plan - The generalized, coordinated land use map and policy statement
+of the goveming body of Wasco County that interrelates all functional and natural systems
+and activities relative to the use of lands including, but not limited to sewer and water
+systems, transportation systems,          educational systems,            recreational facilities, and natural
+resources and air and water quality management programs.
+
+Condominium      - Property,   any        part     of which      is residential    in nature,     submitted      and
+approved in accordance with the provisions of Oregon Revised Statutes 91.500 to 91.671.
+
+Conduit - Any tunnel, canal, pipeline, aqueduct, flume, ditch or similar man-made water
+conveyance.
+
+Consultant Engineer - A professional engineer, registered in the State of Oregon, who is
+retained by and responsible to an applicant for the design and construction of subdivisions
+and required public or private improvements. Although a Civil Engineer is preferable, any
+engineer who is qualified to perform the work involved, and so certified, may be a
+consultant engineer.
+
+Contiguous     - Lots,   parcels     or     lots    and       parcels   that   have    a common          boundary.
+"Contiguous" includes, but is not limited to, lots, parcels, or lots and parcels separated only
+by an alley, street, or other right-of-way. (Revised 1/92)
+
+Corner Lot - A lot at least two adjacent sides of which abut streets other than alleys,
+provided the angle of intersection of the adjacent street does not exceed 135 degrees.
+
+                                                                 SOMA         ey
+                                                          2    G uy       4 vs     Chapter 1 — Introductory Provisions
+                                                                                                    December 16, 2009
+Page 1-12
+
+Corridor - The length and width of a right-of-way or tenancy containing or intended for a
+transmission facility and other uses in, or intended for, the same right-of-way.
+
+County - The County of Wasco, Oregon.
+
+County Governing Body - The County Goveming Body of Wasco County, Oregon.
+
+County Road - A public road which has been designated as a county road and formally
+accepted for maintenance by the Wasco County Governing Body. A county road shall not
+act as a dividing feature of a lot-of-record.
+
+County Road District - For purposes of improving county roads or public roads within the
+boundaries         of a city or drainage      district, county   road   districts may   be formed   from
+contiguous territory within the county. All road improvements are initiated through a
+petition process approved         by the County Goveming   Body. To fund the road
+improvements, county road districts may assess, levy and collect taxes on all taxable
+property within the district. See ORS 371.055.
+
+Court - An open, unoccupied space, other than a yard, on the same lot with a building and
+bounded on two sides by such building.
+
+Court Apartment - One to four multiple dwellings arranged around two or three sides of a
+court which opens into a street.
+
+Cross       Access     - A service    drive   providing    vehicular access     between    two   or more
+separate sites, so that the driver need not enter the public street system between sites.
+
+Cul-De-Sac - A street with oniy one outlet having sufficient space at the closed end to
+provide a vehicular tuming area.
+
+Cultural and Historic Sites - Sites having a record of historic activity                         that   is
+well-documented and have or have had an impact on the local community.
+
+Curb Line - The line dividing the roadway from the planting strip or footway.
+
+Dam - Any mari-made structure that impounds water.
+
+Date of Creation and Existence - Within the Exclusive Farm Use zone, when a lot,
+parcel or tract is reconfigured pursuant to applicable iaw after November 4, 1993 or July
+4, 2001, the effect of which is to qualify a lot, parcel or tract for the siting of a dwelling or
+a non-farm division respectively, the date of the reconfiguration is the date of creation or
+existence. Reconfigured mearis any change in the boundary of the lot, parcel or tract. A
+property line adjustment which does not have the effect of qualifying an otherwise non-
+qualifying lot, parcel or tract for a dwelling or a non-farm division respectively, does not
+change the date of creation.
+
+Chapter 1 — Introductory Provisions
+                                                                        2009045»
+December    16, 2009
+                                                                                                 Page 1-13
+
+Day Nursery - Any institution, establishment or place, other than a group day care home,
+in which are commonly received at one time, three or more children not of common
+parentage, under the age of six years, for a period or periods not exceeding twelve hours,
+for the purpose of being given board, care or training apart from their parents or guardians
+for compensation or reward. {revised 2/89)
+
+Design     - The design of any street or alley alignments, grade or width, alignment of
+width of easements and rights-of-way for drainage or irrigation purposes               and sanitary
+facilities, and lot area, width or layout.
+
+Development - Any man-made change to improved or unimproved reai estate,
+including but not limited to construction, installation or change of a building or other
+structure, change in use of a building or structure, land division, establishment, or
+termination of right of access, storage on the land, tree cutting, drilling, and site
+alteration such as that due to land surface mining, dredging, grading, construction of
+earthen berms, paving, improvements for use as parking, excavation or clearing.
+
+Developer - A subdivider, or if not creating a subdivision, a person who proposes to, or
+does develop the land, whether it be for public or private purposes.
+
+Director - Wasco County Planning Director or their designee.
+
+Diversion - Any structure that deflects a portion of the water from a stream channel.
+
+Double     Frontage   Lot - A lot having frontage on two parallel or approximately parallel
+streets.
+
+Drive-in - A business establishment so developed that its retail or service character is
+dependent on providing a driveway approach for parking space for motor vehicles so as to
+serve patrons while in the motor vehicle, or within a building on the same premises and
+devoted to the same purpose as the drive-in service. The term drive-in shall include any
+business establishment dispensing food or drink on a self-service basis          and for
+consumption outside the building.
+
+Driveway - A private access providing ingress and egress to and from within a single
+property, or portion of a single property to a public road, private road or private easement
+road.
+
+Driveway, Shared - When         land uses on two or more lots or parcels share one driveway.
+A Private    Easement    Road    must   be created   for any   new   shared    driveway       crossing
+another property.
+
+                                           20090454
+                                                        G +
+
+                                                                     Chapter 1 - Introductory Provisions
+                                                                                      December    16, 2009
+Page 1-14
+
+Dude        Ranch - A    business activity that provides meals, lodging or camping facilities, and
+recreation activities associated with farm use or animals. An establishment offering meals
+to individuals other than ovemight guests shall be deemed a restaurant. An establishment
+offering ovemight accommodations not in conjunction with recreational activities shall be
+deemed a hotel or campground. (added 2/89)
+
+Dwelling Types - For the purposes of this Ordinance, dwellings are separated                  into the
+following categories and herewith defined accordingly:
+
+    a.      Single Family Attached (Duplex) - Two (2) household units which share         a common
+            wall or ceiling, but no unit may have a ceiling common to another unit.
+
+    b.      Single Family Attached (Multiplex) - Three (3) or more household units which share
+            common walls, but no unit may have a ceiling common to another unit.         Otherwise
+            known as Townhouses or Row Houses.
+
+    c.      Single Family Detached - A single household unit whose                  construction     is
+            characterized by no common wall or ceiling with another unit.
+
+    d. Multiple Family - Three (3) or more household units with common walls or ceilings
+       common to another unit. Terms of differentiation for Multiple Family include:
+       Garden Low Rise, being walkup structures limited to a maximum of two stories;
+            Garden Medium Rise, being walkup structures limited to a maximum            of three (3)
+            stories; and High Rise, being elevator structures of multiple stories.
+
+Dwelling Unit - A lawfully established dwelling is a single-family dwelling which:
+
+    a.      Has intact exterior walls and roof structure;
+
+    b.      Has indoor plumbing consisting of a kitchen sink, toilet and bathing facilities
+            connected to a sanitary waste disposal system;
+
+    c.      Has interior wiring for interior lights; and
+
+    d.      Has a heating system.”
+
+Easement - A grant of the right to use a strip of land for specific purposes.        Includes but is
+not limited to access easements and utility easements.
+
+Endangered and Threatened Species - Those species of plants and animals listed or
+proposed for listing as of October 1, 1978, in 41 FED REG 24524. (June 16, 1976) and 50
+CFR Part 17, and its amendments and species listed or proposed for listing by the State of
+Oregon.
+
+                                                                  fr,    /
+Chapter 1 - Introductory Provisions                          9 tf} u 9 0 4
+December     16, 2009
+                                                                                            Page 1-15
+
+Energy Development - A building or construction operation making a significant change
+in the use or appearance of a structure or land for an energy facility; and the clearing,
+excavation, filling, grading, and road building in connection with the operation.
+
+Energy Facility - A hydroelectric, wind energy, biomass, geothermal or transmission
+facility with a nominal electric generating capacity of 25 MW or less or carrying 230 kV or
+less.
+
+Energy Facility Project Area - The proposed location of an energy facility, any structure
+adjacent to and associated with an energy facility, including associated transmission lines,
+reservoirs, intake structures, road and rail access, pipelines, barge basins, office or public
+buildings, and commercial and industrial structures proposed to be built in connection with
+the energy facility, and the area affected by the facility.
+
+Expando - Room or rooms that fold, collapse, or telescope into a mobile home.
+
+Family - One or two persons with their direct descendants and adopted children (and
+including domestic employees thereof), together with not more than five (5) persons not so
+related living together in a room or rooms comprising a single housekeeping unit. Every
+additional group of five (5) or less persons living in such housekeeping unit shall be
+considered as a separate family.
+
+Family Hardship     Dwelling   - A mobile home     or recreational vehicle used temporarily
+during a family hardship situation when an additional dwelling is allowed to house aged or
+infirm person or persons physically incapable of maintaining a complete separate
+residence apart from their family.
+
+Farm Management Plan - Shall include information applicable to the specific farm use
+from the following list: Proof that the parcel is enrolled in a farm deferral program with the
+Wasco County Assessor; written description of a current farm operation that identifies the
+number of acres of land in current production, type and number of acres planted to a
+specific crop; the number of animals grazing or being raised on the farm parcel, existing
+farm structures (including inigation sprinklers) supporting the farm use; and any existing
+water rights. The plan shall include a description of the number of employees working the
+farm parcel, and their responsibilities.     The plan shall include a map that shows the
+location of all farm activities including but not limited to registered fields (Farm Services
+Agency map), grazing areas and areas dedicated to farm structures.
+
+Farm Unit - means the contiguous and noncontiguous tracts in common                     ownership
+used by the farm operator for farm use as defined in ORS 215.203.
+
+Farm Use - The current employment of land for the primary purpose of obtaining a profit
+in money by raising, harvesting and selling crops or the feeding, breeding, management
+and sale of, or the produce of, livestock, poultry, fur-bearing animals or honeybees or
+
+                                            MPAAA
+                                            f       Ay MK
+                                        2 9 Uv J uv 4 J.           Chapter 1 - Introductory Provisions
+                                                                                    December 16, 2009
+Page 1-16
+
+for dairying and the sale of dairy products or any other agricultural or horticultural use or
+animal husbandry or any combination thereof.
+
+Farm use includes the preparation, storage and disposal by marketing or otherwise of
+the products or by-products raised on such land for human or animal use. Farm use
+also includes the current employment of land for the primary purpose of obtaining a
+profit in money               by stabling or training       equines    including        but not limited to providing
+riding lessons, training clinics and schooling shows.
+
+Farm        use   also        includes the    propagation,     cultivation,     maintenance        and   harvesting     of
+aquatic, bird and animal species that are under the jurisdiction of the State Fish and
+Wildlife Commission, to the extent allowed by the rules adopted by the commission.
+Farm use also includes the on-site construction and maintenance                                    of equipment       and
+facilities used for the activities described in this subsection.
+
+Preparation of products or by-products includes but is not limited to the cleaning,
+treatment, sorting, or packaging of the products or by-products.       Products or by-
+products raised on such land" means that those products or by-products are raised on
+the farm operation where the preparation occurs or on other farm land provided the
+preparation is occurring only on land being used for the primary purpose of obtaining a
+profit in money from the farm use of the land.
+
+Farm use does not include the use of land subject to the provisions of ORS chapter
+321(Timber Taxation), except land used exclusively for growing cultured Christmas
+trees as defined below or land described in ORS 321.267 (3) or 321.824 (3).
+
+     Cultured Christmas trees” means trees:
+
+    a.      Grown        on    lands   used   exclusively for that purpose,              capable   of preparation      by
+            intensive cultivation methods such as plowing or tuming over the soil;
+
+     b.     Of a marketable species;
+
+    c.      Managed           to produce trees meeting U.S. No. 2 or better standards for Christmas
+            trees as specified by the Agriculture Marketing Services of the United States
+            Department of Agriculture; and
+
+    d.      Evidencing periodic maintenance practices of shearing for Douglas fir and pine
+            species, weed and brush control and one or more of the following practices:
+            Basal pruning, fertilizing,            insect     and     disease        control,   stump    culture,     soil
+            cultivation, irrigation.
+
+                                                                                 a         NA:
+Chapter1 — Introductory Provisions                                            2) G Ww     wu 4 oO a.
+December     16, 2009
+                                                                                                             Page 1-17
+
+Current employment of land for farm use includes:
+
+a. Farmland, the operation or use of which is subject to any farm-related government
+    program;
+
+b.   Land   lying fallow for one          year as a normal         and    regular      requirement          of good
+     agricultural husbandry;
+
+c.   Land planted in orchards or other perennials, other                             than    land     specified     in
+     subparagraph (d) of this paragraph, prior to maturity;
+
+d.   Land   not   in     an   exclusive    famm   use     zone    which        has    not    been      eligible    for
+     assessment at special farm use value in the year prior to planting the current
+     crop and has been planted in orchards, cultured Christmas trees or vineyards for
+     at least three years;
+
+e.   Wasteland,        in an exclusive farm       use   zone,     dry or covered            with water,      neither
+     economically       tillable nor grazeable,         lying    in or adjacent to and                in common
+     ownership with a farm          use land and which           is not currently being              used   for any
+     economic farm use;
+
+f.   Except for land under a single family dwelling, land under buildings supporting
+     accepted farm practices, including the processing facilities allowed by ORS
+     215.213 (1)(x) and 215.283 (1)(u) and the processing of farm crops into biofuel
+     as commercial activities in conjunction with farm use under ORS                                215.213 (2)(c)
+     and 215,283 (2a);
+
+g. Water impoundments lying in or adjacent to and in common ownership with farm
+   use land;
+
+h. Any land constituting a woodlot, not to exceed 20 acres, contiguous to and
+   owned by the owner of land specially valued for farm use even if the land
+     constituting the woodlot is not utilized in conjunction with farm use;
+
+i.   Land lying idle for no more than one year where the absence of farming activity is
+     due to the illness of the farmer or member of the farmer's immediate family. For
+     purposes of this paragraph, illness includes injury or infirmity whether or not such
+     illness results in death;
+
+j.   Any land described under ORS 321.267(3) or 321.824(3);
+
+k.   Land used for the processing of farm crops into biofuel, as defined                                    in ORS
+     315.141, if:
+
+                                                        20090494
+                                                                         X
+                                                                          Ge
+
+                                                                                Chapter 1 - Introductory Provisions
+                                                                                                 December 16, 2009
+Page 1-18
+
+            (1) Only the crops of the landowner are being processed;
+
+            (2} The biofuel from all of the crops purchased for processing into biofuel is used
+                on the farm of the landowner, or
+
+            (3) The landowner is custom processing crops into biofuel from other landowners
+                in the area for their use or sale.
+
+    Accepted Farming Practice
+    As used in this subsection, “accepted farming practice’ means a mode of operation
+    that is common          to farms of a similar nature, necessary for the operation of such
+    farms to obtain a profit in money,       and customarily utilized in conjunction with farm
+    use.
+
+Fence, Protective - A fence at least six feet tall designed to restrict passage through the
+fence. A protective fence includes stockade, woven wood, chain link and others, but not
+split rail or primarily barbed wire.
+
+Fence, Site-Obscuring - A fence consisting of wood, metal, or masonry, or an evergreen
+hedge or other evergreen planting, arranged in such a way as to obstruct vision.
+
+Floor Area - The sum of the horizontal areas of each floor of a building, measured from
+the interior faces of the exterior walls.
+
+Flow - The volume of water passing through a hydroelectric facility during a given period.
+Flow is expressed in cubic feet per second.
+
+Foster Home - A home licensed by the State and providing shelter and food to not more
+than five (5) persons in addition to the primary owner or occupant of the home.
+
+Frontage       - All the property fronting on one (1) side of a street between    intersecting or
+intercepting streets, or between a street and a right-of-way, waterway and/or dead-end
+street shall determine only the boundary of the frontage on the side of the street which it
+intercepts.
+
+Future Street - A proposed right-of-way as may be designated by the Planning
+Commission, or such other agency or authority as provided for herein, which street is
+necessary for the future subdivision of property, shown on the subdivision plats and/or
+maps, but that the present dedication and construction of such street is not warranted.
+
+Garage,       Public - A structure in which     are provided facilities for the repair of motor
+vehicles,   including  body   and  fender  repair,  painting, rebuilding, reconditioning,
+uphoistering, or other vehicle maintenance repair, or where such vehicles are parked or
+stored.
+                                                                   pom
+                                                                                 qe
+                                                                   o>
+                                                                   CO
+                                                                  [oe
+
+                                                                                      t=
+                                                                  (we)
+                                                                  cS
+
+Chapter 1 - Introductory Provisions
+December 16, 2009
+                                                                                              Page 1-19
+
+Grade (Adjacent Ground Elevation) - The lowest point of elevation of the finished
+surface of the ground between the exterior wall of a building and a point five (5) feet
+distant from said wall, or the lowest point of elevation of the finished surface of the ground
+between the exterior wall of a building and the property line if it is less than five (5) feet
+distant from said wall.
+
+Golf Course - An area of land with highly maintained natural turf laid out for the game
+of golf with a series of 9 or more holes, each including a tee, a fairway, a putting green,
+and often one or more natural or artificial hazards.
+
+Gross Building Area - The total area taken on a horizontal plane at the mean grade level
+of the principal building, and all accessory buildings, exclusive of uncovered porches,
+terraces, steps, roof overhang and balconies.
+
+Group Day Care Home - A facility located in a single-family dwelling that is certified by the
+Children's Services Division to care for six (6) to twelve (12) children under the age of
+thirteen (13) at one time. A group day care home must be within the home of the care
+provider, and is considered a residential use in residential and commercial zones.            (added
+2/89)
+
+Group Home - A licensed home maintained and supervised by adults for the purpose of
+providing care, food and lodging for retarded adults, elderly persons, or children under the
+age of eighteen (18) years, unattended by parent(s) or guardian(s) where the number of
+unrelated persons living together as one household commonly exceeds five.
+
+Guest House - Living quarters within a separate structure, with no kitchen or kitchen
+facilities, located on the same lot-of-record with the primary dwelling, and occupied solely
+by members of the owner's family or temporary guests. Such quarters shall not be rented
+or otherwise used as a separate dwelling unit.         See Section 4.170 for "Guest House"
+development standards. (Revised 1/92)
+
+Guy Wire - A cable or wire used as a semi-flexible tension support between a guy anchor
+and a tower.
+
+Half Street - One-half of the right-of-way of a public way equally divided by the property or
+border line, dedicated to the public together with the total width, here, of the public way by
+all owners, at the time of the recording of any plat including such haif street or way.
+
+Head - The vertical distance from the highest water level of a dam, diversion, or intake for
+a hydroelectric facility to the elevation where water from the facility is discharged.       Head is
+expressed in feet.
+
+Health Officer - The Wasco-Sherman County District Health Unit Officer.
+
+                                                NAKA        a
+                                          20090454
+                                                                    Chapter 1 — Introductory Provisions
+                                                                                     December 16, 2009
+Page 1-20
+
+Height of Building - The vertical distance measured from the adjoining curb level to the
+highest point of the roof surface of a flat roof, to the deck line of a mansard roof, and to the
+mean height level between the eaves and ridge for a gable, hip or gambrel roof; provided,
+however, that where buildings are set back from the street line, the height of the building
+may be measured from the average elevation of the finished grade at the front of the
+building.
+
+High Value Land (Per OAR                 660-33-020(8)(a)    - Means    land   in   a tract   composed
+predominantly of soils that are:
+
+    a.      Irrigated and classified prime, unique, Class | or Il; or
+
+    b. Not irrigated and classified prime, unique, Class | or Il.
+
+In addition to that land described above, high value farmland, if in Eastem Oregon,
+includes tracts growing specified perennials as demonstrated by the most recent aerial
+photography of the Agricultural Stabilization and Conservation Service of the U.S.
+Department of Agriculture taken prior to November 4, 1993. "Specified perennials" means
+perennials grown for market or research purposes including, but not limited to, nursery
+stock, berries, fruits, nuts, Christmas trees, or vineyards, but not including seed crops, hay,
+pasture or alfalfa. (added 12/96)
+
+High Water Line or Mark - The highest water level a stream or lake reaches during
+normal seasonai run-off.
+
+Home Occupation - Any lawful activity carried on within a dwelling or other building
+normally associated with uses permitted in the zone and which said activity is secondary to
+the primary use of the property for residential purposes. (Revised 1/92)
+
+Horizontal Axis WECS              - A WECS   on which the rotor axis substantially is parallel to the
+ground.
+
+Horticulture - The cultivation of plants, garden crops, trees and/or nursery stock.
+
+Hospital, General - An institution providing health services, primarily for in-patients, and
+medical, psychiatric or surgical diagnosis and care of the sick or injured, including as an
+integral part of the institution such related facilities as laboratories, out-patient facilities,
+central service facilities, retail facilities, for the needs of patients, staff and doctors' offices,
+and residential facilities for staff and patients.
+
+Hospital, Mental - A hospital used exclusively for the treatment of persons suffering from
+nervous or mental disorders.
+
+Chapter 1 - Introductory Provisions
+December 16, 2009
+                                                                                                     Page 1-21
+
+Hotel - A building or portion thereof of more than five (5) sleeping rooms designed or used
+for occupancy of individuals who are lodged with or without meals, and in which no
+provision is made for cooking in any individual room or suite.
+
+Hunting Preserve - Pursuant to ORS 497.248 Subsections (1) - (4).                The Oregon
+Department of Fish and Wildlife Commission issues a private hunting preserve license if
+the preserve contains not more than 1,280 acres and is on one continuous tract of land
+owned by the applicant or leased by the applicant for a period of at least five years.
+
+Hunting, fishing or shooting preserve              - Shall   comply   with    provisions      of Oregon
+Administrative Rule 635, Division 47.
+
+Hydroelectric      Facility   - All aspects   of a project   necessary    for or related        to    power
+generation including, but not limited to, the generator, dams, diversions, impoundments,
+conduits, penstocks, fish ladders, navigation locks, fish screens, recreation facilities,
+transmission facilities and related buildings, structures and storage areas.
+
+immediate Family Member - Family member of the first degree of kinship or equivalent
+thereof.
+
+Industrial - The use of land or structures to treat, process, manufacture, or store materials
+or products. (added 2/89)
+
+Irrigated - means watered by an artificial or controlled means, such as sprinklers,
+furrows, ditches, or spreader dikes. An area or tract is “irrigated” if it is currently
+watered, or has established rights to use water for irrigation, including such tracts that
+receive water for irrigation from a water or irrigation district or other provider. For the
+purposes of this division, an area or tract within a water or irrigation district that was
+once irrigated shall continue to be considered “irrigated” even if the irrigation water was
+removed or transferred to another tract.
+
+Junk Yard - Any property where persons are engaged in breaking up,                          dismantling,
+sorting, distributing, buying or selling of any scrap, waste materials or junk.
+
+Kennel - The operation of any business or the participation in any activity in which five (5)
+dogs with permanent canine teeth, or which are more than six (6) months of age, are kept
+on the premises.
+
+Kilovolt (kV) - The unit of voltage of potential difference which equals 1,000 volts.
+
+Kitchen - A place where food is cooked or prepared as well as the place where the
+facilities and equipment used to cook, prepare and store food are located. (Added 1/92)
+
+                                                      20090454
+                                                                         Chapter 1 - Introductory Provisions
+                                                                                          December 16, 2009
+Page 1-22
+
+Landscaping - Improving the aesthetics of a piece of land by the grading, cleanng and
+use of natural or artificial material.
+
+Loading Space - An off-street space or berth on the same lot or parcel with a building or
+use, or contiguous to a group of buildings or uses, for the temporary parking of a vehicle
+while loading or unloading persons, merchandise or material, and which space or berth
+abuts upon a street, alley or other appropriate means of ingress and egress.
+
+Local Access Road — Public road over which the public has a right of use that is a matter
+of public record and was legally created at the time of dedication but that is not a county
+road, state highway or federal road. Local access roads are privately maintained.
+
+Local Road or Street - A road or street primarily used to provide direct access to
+adjacent land uses; characterized by short roadway distances, slow speeds, and low
+volumes; offers a high level of accessibility; serves passenger cars, pedestrians, and
+bicycles, but not through trucks. Local roads may be paved or unpaved.    The _ typical
+average daily traffic is less than 250.
+
+Lot - A unit of land that is created by a subdivision of land.
+
+Lot Area -The total horizontal area within the lot lines of a lot.
+
+Lot, Corner - A lot fronting on two (2) or more streets at their junction, said streets forming
+with each other an angle of forty-five (45) degrees up to and including one hundred
+thirty-five (135) degrees.
+
+Lot Depth - The perpendicular distance measured from the mid-point of the front lot line to
+the mid-point of the opposite lot line.
+
+Lot, Interior - A lot other than a comer lot.
+
+Lot Lines - The lines bounding a lot as defined herein.
+
+Lot Line, Front - in the case of an interior lot, a line separating the lot from the street; and
+in the case of a comer lot, a line separating the narrowest frontage of the lot from the
+street.
+
+Lot Line, Rear - The line dividing one lot from another and on the opposite side of the lot
+from the front lot line, and in the case of an irregular or triangular shaped lot, a line ten (10)
+feet in length within the lot parallel to and at the maximum distance frorn the front lot line.
+
+Lot Line, Side - In the case of an interior lot, a line separating one lot from the abutting lot
+or lots fronting on the same street, and in the case of a comer lot, a line separating one lot
+from the abutting lot or lots fronting on the same street.
+
+Chapter 1 - Introductory Provisions
+December 16, 2009
+                                                                                                            Page 1-23
+
+Lot, Through - An interior lot having frontage on two (2) streets.
+
+Lot Width - The horizontal distance between the side lot lines measured at right angles to
+the lot depth at a point midway between the front and rear lot lines.
+
+Manufacture - he processing or converting of raw, unfinished, or finished materials or
+products or any combination thereof into an article or substance of different character, or
+for use for a different character or purpose.         (added 2/89)
+
+Map - A final diagram, drawing or other writing concerning a land division.
+
+Medical      Hardship   — Means      a temporary       circumstance        caused     by serious       illness     or
+infirmity,   not to exceed   two years     in duration,         and   authorized    by a licensed          medical
+practitioner   (Medical Doctor, Physicians Assistant or Nurse Practitioner).
+
+Megawatt (MW) - The electrical unit of power which equals 1,000,000 watts.
+
+Metes and Bounds - The method used to describe a tract or tracts of land for the
+purposes of ownership or for building development, as contrasted with the description of a
+part of a properly approved and recorded subdivision plat by the lot number and block
+designation.
+
+Mobile Home -
+
+    a. A residential trailer, a structure constructed for movement on the public highways,
+         that has sleeping, cooking and plumbing facilities, that is intended for human
+         occupancy, is being used for residential purposes and was constructed before
+         January 1, 1962.
+
+    b.   A mobile house, a structure constructed for movement on the public highways, that
+         has sleeping, cooking and plumbing facilities, that is intended for human
+         occupancy, is being used for residential purposes and was constructed between
+         January 1, 1962, and June 15, 1976, and met the construction requirements of
+         Oregon mobile home law in effect at the time of construction.
+
+    c.   A_manufactured      home,    a   structure        constructed    for   movement        on   the     public
+         highways, that has sleeping, cooking and plumbing facilities, that is intended for
+         human occupancy, is being used for residential purposes and was constructed in
+         accordance with federal manufactured housing construction and safety standards
+         regulations in effect at the time of construction. (revised 2/89)
+
+Mobile Home Community - A mobile home development and related utilities and
+facilities, including the mobile homes and all of the people living within the development.
+
+                                                       2        poodoe
+                                                           o>
+
+                                                                                Chapter 1 - Introductory Provisions
+                                                                                                 December    16, 2009
+Page 1-24
+
+Mobile Home for Storage - Mobile homes may not be used as storage buildings in any
+zone.
+
+Mobile Home Lot - A parcel of land for the placement of a mobile home and the exclusive
+use of its occupants.
+
+Mobile Home             Park - Any place where four (4) or more mobile homes are located within
+five hundred (500) feet of one another on a                  lot, tract or parcel of land under the same
+ownership, the primary purpose of which is to rent space or keep space for rent to any
+person for a charge or fee paid or to be paid for the rental or use of facilities or to offer
+space free in connection with securing the trade or patronage of such person.
+
+Mobile Home Space - A plot or parcel of land within the mobile home park, designed to
+accommodate one (1) mobile home.
+
+Mobile Home Stand - That part of a mobile home space which has been reserved for the
+placement of the mobile home, appurtenant structures, or additions.
+
+Modular        Unit      - A fabricated,    transportable    building     unit,     other than    a mobile     home,
+designed to be incorporated at a building site into a structure to be used for residential
+and/or commercial, industrial, or agricultural purposes, with all of the following
+characteristics:
+
+    a.      Having an electrical meter base permanently attached to the structure.
+
+     b.     Designed and built to the specification of the State or County Building Code for
+            conventional structures in effect at the time of its construction.
+
+    c.      Having a permanent foundation.
+
+Motor Home              - A    self-propelled   recreation   vehicle    that      is not   used   as a permanent
+residence.
+
+Natural Areas - Land areas reserved from development or modification for the protection
+of animal species and other natural areas as identified in the Wasco County
+Comprehensive Plan.
+
+Neighborhood -                In relation to Nonconforming      Uses     a neighborhood           shall   include the
+surrounding            areas whose      use and    enjoyment of their property would                  be materially
+impacted as a result of the proposed alteration.
+
+Negotiate - Any activity preliminary to the execution of a binding agreement for the sale of
+land in a subdivision or partition, including but not limited to, advertising, solicitation, and
+promotion of such sale of land.
+
+Chapter 1 ~ Introductory Provisions
+December    16, 2009
+                                                                                                        Page 1-25
+
+Nonconforming Structure or Use - A lawful existing structure or use at the time this
+Ordinance or any amendment thereto becomes effective, which does not conform to the
+requirements of the zone in which it is located.
+
+Nursing Home - Any home or institution maintained or operating for the nursing and care
+of four (4) or more ill or infirm adults, not requiring hospital care or hospital facilities.
+
+Official Map - Specifically describes the location of streets, highways, public parks,
+drainage systems and other public installations, both existing and planned, in the
+community. Once land has been placed on the official map, the Ordinance so providing
+restricts any further construction with the planned rights-of-way. The Official Map helps to
+implement the comprehensive plan.
+
+Operational High Pool Elevation (EPD 6): The high pool elevation for Pine Hollow
+and Rock Creek Reservoirs shall be considered to be the approved operational outfall
+elevation determined by Oregon Water Resources Department.
+
+O.R.S. - The Oregon Revised Statutes.
+
+Owner     - The   individual,   firm,   association,   syndicate,   partnership,   or corporation       having
+sufficient proprietary interest in the land            sought to be subdivided         to commence          and
+maintain proceedings to subdivide the same under these regulations.
+
+(Legal) Parcel - A unit of land created as follows:
+
+    a. A lotinan existing, duly recorded subdivision; or
+
+    b.   A parcel in an existing, duly recorded major or minor land partition; or
+
+    c.   By deed or land sales contract priorto September 4, 1974.
+
+   A unit of land shall not be considered a separate parcel simply because the subject
+   tract of land;
+
+    a.   Is a unit of land created solely to establish a separate tax account;
+
+    b.   Lies in different counties;
+
+         Lies in different sections or government lots;
+   7)
+
+    d.   Lies in different land use or zoning designations; or
+
+         Is dissected by a public or private road.
+
+                                                              Veh    ap   aa
+                                                          2 9 Uu 9 u 4 eo “Chapter 1 ~ Introductory Provisions
+                                                                                             December    16, 2009
+Page 1-26
+
+Park (Model) Trailer - Means a vehicle built on a single chassis, mounted on wheels,
+designed to provide recreational, seasonal or temporary living quarters which may be
+connected to utilities necessary for operation of installed fixtures and appliances and with
+a gross trailer area not exceeding 400 square feet when in the setup mode. Sucha
+vehicle shall be referred to, and identified by the manufacturer or converter, as a
+recreational vehicle. (OAR-918-500-0005 (30))”
+
+Parking Lot, Private - Open off-street area used for temporary parking of more than three
+(3) automobiles, and available with or without charge, and with the permission of owner
+only.
+
+Parking Lot, Public - Open off-street area used for temporary parking of more than three
+(3) automobiles, and available for public use with or without charge.
+
+Parking Space - A minimum gross area available for the parking of a standard American
+automobile.
+
+Parkway - A parklike major thoroughfare with broad rights-of-way and wide median areas,
+designed and landscaped to furnish a safe and pleasing drive between parks, scenic
+areas and principal objectives.
+
+Partition - Either an act of partitioning land or an area or tract of land partitioned as
+defined in this section. (Revised 1/92)
+
+Partition      Land      - To divide an area or tract of land into two or three parcels within a
+calendar year when such area or tract of land exists as a unit or contiguous units of land
+under single ownership at the beginning of such year. “Partition land" does not include
+divisions of land resulting from the creation of cemetery lots; and "partition land" does not
+include any adjustment of a lot line by the relocation of a common                   boundary where any
+additional      parcel     is not created   and   where   the existing   parcel   reduced   in size by the
+adjustment is not reduced below the minimum lot size established by an applicable zoning
+ordinance.        "Partition land" does not include the sale of a lot in a recorded           subdivision,
+even though the lot may have been acquired prior to the sale with other contiguous lots or
+property by a single owner.
+
+Party - With respect to administrative actions, the following persons or entities only, who
+file a timely statement or request for hearing as provided by general provisions of this
+Ordinance, are hereby defined as a party:
+
+    a.      The applicant and all owners or contract purchasers of record, as shown in the files
+            of the Wasco County Assessor's Office, of the property which is the subject of the
+            application.
+
+                                                                         20096454
+                                                                           m    ag
+
+Chapter 1 - introductory Provisions
+December 16, 2009
+                                                                                             Page 1-27
+
+   b. All property owners of record, as provided in (a) above, within the notification area,
+      as described in section 2.080 A.2., of the property which is the subject of the
+        application.
+
+   c.   A Citizen Advisory Group pursuant to the Citizen Involvement Program              approved
+        pursuant to O.R.S. 197.160.
+
+   d.   Any affected unit of local govemment or public district or state or federal agency.
+
+   e.   Any other person, or his representative, who is specifically, personally or adversely
+        affected in the subject matter, as determined by the Approving Authority. (Revised
+        1/92)
+
+Pathway - A walkway conforming to Chapter 21 that is not within a street right-of-way.
+
+Pedestrian Way - A way or right-of-way for pedestrian traffic.
+
+Person - An individual, firm, partnership, corporation, company, association, syndicate, or
+any legal entity, and including any trustee, receiver, assignee, or other similar
+representative thereof.
+
+Place of Public Assembly - A structure which is designed to accommodate more than
+twenty-five (25) persons at one time for such purposes as deliberation, education, worship,
+shopping, entertainment or amusement.
+
+Planning Control Area - An area in a state of incomplete           development        within which
+special control is to be exercised over land partitioning.
+
+Plat - A special and final map, diagram or drawing of a subdivision, major or minor
+partition prepared from completed information, containing writings, descriptions, locations,
+specification, dedications, provisions, and information conceming a subdivision, being
+drawn to scale to geometrically represent defined land and setting forth all mathematical
+data necessary to the identification, location and perpetuation of the various land
+boundaries indicated thereon, without recourse to supplementary metes and bounds
+description for conveyances.
+
+Porch - Outside walking area, the floor of which is elevated more than eight (8) inches
+from the ground.
+
+Prevailing Wind Direction - Within 45 degrees of the direction from which wind flows for
+at least 20 percent of the year based on at least one year's site-specific recorded wind
+data.
+
+                                                               99009045"
+                                                                    Chapter 1 — {ntroductory Provisions
+                                                                                     December 16, 2009
+Page 1-28
+
+Private Easement Road - A minimum 30 foot wide private easement in any zone that
+provides ingress and egress to a public or private road for not more than three (3) units
+of land and serves not more than three (3) units of land.
+
+Private Road - A road in a resource zone (F-1, F-2, & A-1) whose primary purpose is to
+provide access for resource activities, that was accepted by the County Governing Body
+pursuant to Section 21.300 of this Ordinance or has been previously recognized                     by the
+County Governing Body and which is not public, but which intersects with an existing
+public road.
+
+Property       Line   Adjustment      - The   relocation of   a cornmon   property      line between   two
+abutting properties where an additional unit of land is not created and where the existing
+unit of land reduced in size by the adjustment complies with any additional zoning
+regulations.
+
+Public Road - A road over which the public has a right of use that is a matter of public
+record and was legally created at the time of dedication.
+
+Ramada        - A freestanding roof or shade structure installed above the roof of a mobile
+home that provides protection from rain, snow, sun or other forms of inclement weather.
+
+Recreational Vehicle or Camping Vehicle - A vacation trailer or other unit with or without
+motive power which is designed for human occupancy and to be used temporarily for
+recreational or emergency purposes, but not for residential purposes, and is identified as a
+recreational vehicle by the manufacturer. A recreational or camping                      vehicle shall be
+considered a dwelling unit if any of the following are true:
+
+     a.     It is connected to a sewer system (including septic tank) except for the purpose of
+            emptying the holding tanks; after such time it must be disconnected;
+
+     b.     It is connected to water or electrical lines except for purposes of charging the
+            batteries or filling water tanks; after such time it must be disconnected;
+
+            NOTE: Allowances can be made for subsections a and b above if in the opinion
+            of the Compliance Officer evidence suggests that the use of the RV is occasional
+            and temporary for the purpose of accommodating visitors
+
+     c.     It is occupied for more than 60 days, on the same property, in any consecutive 12
+            month period; or
+
+     d,     It is parked on property that is without a legally placed dwelling for more than 30
+            days during any 6 month period.
+                                                                     pane
+                                                                              Qa
+                                                                    aloe)
+
+                                                                     i]
+
+                                                                                   [=
+                                                                    o>
+
+                                                                     )
+                                                               wo
+
+Chapter 1 — Introductory Provisions
+December 16, 2009
+                                                                                                 Page 1-29
+
+Recreational Vehicle Park - A lot or tract where the primary land use is the parking, on a
+fee or other basis, occupied by motor homes, truck campers, travel trailers, or other
+recreational vehicles.
+
+Replat - The act of platting the lots, parcels and easements in a recorded subdivision or
+partition plat to achieve a reconfiguration of the existing subdivision or partition piat, or to
+increase or decrease the number of lots in a subdivision, or to correct an irregularity or
+error in the original plat. (Added 1/92)
+
+Reserved Open Space - Land areas reserved through                     public       dedication,    public
+ownership, easements, covenants, or other devices for                 public        use and      limited
+development.
+
+Residential Trailer - A portable residence that is transportable on public highways by
+permanently attached axles, the dimensions of which do not exceed thirty-two (32) feet in
+length, or eight (8) feet in width, or any equivalent dimension combination.
+
+Restaurant - A public establishment for the purpose of selling meals to customers.
+
+Retirement Center - A building or group of buildings containing separate dwelling units
+designed for and occupied principally (at least one occupant of each dwelling unit), by
+persons over the age of sixty (60) years, excluding convalescent and nursing care as a
+function of the center.
+
+Reversed Corner Lot - A comer lot where the street                 side     line   is   substantially    a
+continuation of the front lot line of the first lot to its rear.
+
+Review Types -
+
+   a. Type | (Ministerial/Nondiscretionary)
+       These procedures are decided by the Director, or the Director's designee without
+       public notice or public hearing. They do not require interpretation or the exercise
+       of policy or legal judgment in evaluating approval standards. Type | does not
+       qualify as a “land use decision” under Oregon            Revised Statute (ORS)
+       197.015(11).
+
+   b. Type Il (Administrative/Discretionary)
+       These procedures are decided by the Director or the Director's designee with
+       notice, as established by Chapter 2, and appeal period established by ORS
+       215.416(11).   They do require interpretation or the exercise of policy or legal
+       judgment in evaluating approval standards and qualify as a land use decision
+       under ORS     197.015(11).   An appeal    of a Type    Il decision      becomes       a Type     Ill
+       review.
+
+                                                        20690458
+                                                                     Chapter 1 — Introductory Provisions
+                                                                                      December 16, 2009
+Page 1-30
+
+      c.    Type Ill (Quasi Judicial/Planning Commission or County Governing Body)
+
+            Pianning Commission
+            These procedures are initially heard and decided solely by the Planning
+            Commission or on appeal from the Planning Director with the hearings process,
+            notice and appeal period governed by ORS             197.763.   They do require
+            interpretation or the exercise of policy or legal judgment in evaluating approval
+            standards and qualify as a land use decision under ORS 197.015(11).
+
+            County Governing Body
+            These procedures are initially heard and decided solely by the County Governing
+            Body or on appeal from the Planning Commission with the hearings process,
+            notice and appeal period governed by ORS             197.763.   They do require
+            interpretation or the exercise of policy or legal judgment in evaluating approval
+            standards and qualify as a land use decision under ORS 197.015(11).
+
+      d. Type IV (Legislative/County Governing Body)
+            These procedures are heard and decided solely by the County Goveming Body
+            after an initia! hearing and  recommendation       is made     by the Planning
+            Commission. The hearings process, notice and appeal period are govemed by
+            ORS 197.763. They do require substantial interpretation or the exercise of policy
+            or legal judgment and qualify as a land use decision under ORS 197.015(11).
+
+Right-of-Way - The area between boundary lines of a road, street or other easement.
+Right-of-way includes passageways such as freeways, pedestrian connections, alleys,
+and all streets. A right-of-way shall be dedicated or deeded to the public for public use
+and        under the control of a public agency,      or it shall be dedicated        or deeded   and
+privately owned.
+
+Road - The entire right-of-way of any public or private way that provides ingress to or
+egress from property by means of vehicles or other means or that provides travel between
+places by means of vehicles. "Road" includes, but is not limited to:
+
+      a.    Ways described as streets, highways, throughways, or alleys;
+
+      b.    Road related structures that are in the right-of-way such as tunnels,         culverts or
+            similar structures; and
+
+      c.    Structures that provide for continuity of the right-of-way such as bridges.
+
+Roadway - The portion or portions of a right-of-way developed for vehicular traffic.
+
+Rotor - 1)          A system of rotating aerodynamic elements and hub assembly attached to a
+shaft that converts the kinetic energy in the wind into mechanical energy; 2)                Rotating
+element in an electrical generator.
+
+                                                                     mtr      Aanm-
+Chapter 1 — Introductory Provisions                             2 9 u +) Y 4 ot
+December     16, 2009
+                                                                                               Page 1-31
+
+Rotor Diameter - Twice the distance from the center of rotation to the outermost point of
+the blade.
+
+Sale or Sell - Includes every disposition or transfer of land in a subdivision or partition or
+an interest or estate therein.
+
+School, Commercial - A building where instruction is given to pupils in arts, crafts, or
+trades, and operated as a commerciai enterprise, as distinguished from schools endowed
+and/or supported by taxation.
+
+School, Elementary - A school offering instruction to one (1) or more grades, between
+and including the fifth through the eighth, exclusively, or in combination with grades lower
+than the fifth.
+
+School,   High    - A school offering   instruction to one (1) or more     grades,     between      and
+including the ninth through the twelfth, or in combination with the seventh and eighth
+grades.
+
+School, Nursery - A school offering        instruction and   guided   activity to kindergarten        or
+pre-kindergarten classes.
+
+School, Primary - A school offering instruction to one (1) or more grades, between and
+including kindergarten through the fourth.
+
+School, Private or Parochial - A school under the control of and financed primarily by a
+religious or philanthropic and non-profit institution operating in conformance with relevant
+State Department of Education regulations.
+
+School, Public - A school under the control of and financed by legally constituted public
+school districts in the State of Oregon.
+
+Sectional Home - Defined the same as a modular home.
+
+Sensitive Wildlife Habitat - Land areas incorporated in wildlife preserves, refuges, or
+game management areas; land areas identified as winter range by the Wildlife
+Commission,      State of Oregon; and land areas providing habitat for rare or endangered
+species listed by the Wildlife Commission, State of Oregon, or by the Bureau of Sport
+Fisheries and Wildlife, United States Department of the Interior.
+
+Series partition/ Series partitioned lands - A series of partitions of land resulting in
+the creation of four or more parcels over a period of more than one calendar year.
+
+                                                                 2009645"
+                                                                  ney   er
+
+                                                                      Chapter 1 - introductory Provisions
+                                                                                       December 16, 2009
+Page 1-32
+
+Series Partitioner - Means any person who causes land to be series partitioned into a
+series partition, or who undertakes to develop a series partition, but does not include a
+public agency or officer authorized by law to make partitions.
+
+Sewage - Water-carried human or animal waste and kitchen, bath, or laundry waste, from
+a building, together with such groundwater infiltration and surface water as may be
+present.
+
+Shooting           Course    - Any     lot(s) or parcel(s) where         target shooting            (excluding     hunting
+preserves) is conducted on a commercial basis.
+
+Sidewalk - A pedestrian walkway with permanent surfacing.
+
+Sign        - An     identification,   description,   illustration,     or    device    which         is affixed     to   or
+represented, directly or indirectly, upon a building, structure, or land and which directs
+attention to a product, place, activity, person, institution or business. Each display surface
+of a sign other than two (2) surfaces parallel and back-to-back on the same structure shall
+be considered a sign.
+
+Sign, Advertising - A sign which directs attention to a business, product, activity, or
+service which is not necessarily conducted, sold or offered upon the premises where such
+a sign is located.
+
+Significant         Adverse      Effect   - A   consequence           of a facility    that     ireparably         reduces
+management            of or damages        a resource     listed as          a standard       and     identified    in the
+comprehensive plan and the Wasco County Land Use and Development ordinances.
+
+Significant Archaeological Sites - Sites possessing valuable artifacts or evidence of
+prehistoric cultures, including areas catalogued by the National Park Service, United
+States Department of the Interior, and areas identified by academic institutions.
+
+Significant Change - A change in an existing facility which increases the impact of the
+facility on abutting properties. This provision shall be interpreted broadly to invoke review
+of any potentially significant change.     However, a significant change shall not include
+ordinary and regular maintenance, actions such as research, monitoring, and impact
+mitigation that were authorized or required by law. Significant change shall not include
+other actions, such as reconducting, which may increase the useful life of the facility
+without increasing long-term, off-site impacts.
+
+Significant Interference With Wind Access - A ten (10) percent decrease in wind speed
+caused by an obstruction(s).
+
+Single-wide Mobile Home - One (1) complete living unit constructed on a single chassis.
+
+Slope - An incline in an oblique direction from the perpendicular.
+
+                                                                                LON       ARs
+Chapter 1 - Introductory Provisions                                     2 G G 3 U 4 ot
+December 16, 2009
+                                                                                                  Page 1-33
+
+Solid Waste - All putrescible and non-putrescible waste, including, but not limited to,
+garbage,   rubbish, refuse, ashes, waste paper and cardboard, grass clippings,
+composts, sewer sludge, residential, commercial, and industrial appliances, equipment
+and fumiture, discarded or inoperable vehicles, vehicle parts or vehicle tires, manure,
+vegetable or animal solid and semisolid waste and dead animals. The term Solid Waste
+does not include:
+
+   a.    Materials     used   for fertilizer or for other   productive   purposes   on     land    in the
+         growing and harvesting of crops or the raising of fowl or animals;
+
+   b.    Septic tank and cesspool pumping or chemical toilet waste;
+
+   c.    Reusable beverage containers as defined in ORS 459A.725; and
+
+   d. Source separated principal recyclable materials as defined in ORS Chapter 459
+      and the Rules promulgated thereunder, which have been purchased or
+      exchanged for fair market value.
+
+Special District - Any unit of local govemment other than city or county, authorized and
+regulated by statute. Special district includes, but is not limited to: water control districts,
+irrigation districts, port districts, regional air quality control authorities, fire districts, mass
+transit districts, and sanitary districts.
+
+Special Road         District — For the purposes of improving roads, special road districts may
+be formed from contiguous territory lying within the county and not incorporated within the
+limits of a city. Special road districts are governed by a board of commissioners, either
+appointed or elected. Special road districts have the following powers: to make contracts;
+to acquire, hold, receive and dispose of real and personal property; to sue and be sued; to
+exercise the power of eminent domain; to assess, levy and collect taxes on all taxable
+property within the district; and to do any other act necessary to carry out purposes of the
+special road district. See ORS 371.305.
+
+Stable, Private - A detached accessory building for the keeping of horses owned                    by the
+occupants of the premises and which are not kept for remuneration or profit.
+
+Story - That portion of a building included between the upper surface of any floor and the
+upper surface of the floor next above it, except the top story shall be that portion of a
+building included between the upper surface of the topmost floor and the ceiling or roof
+above.
+
+Story, Half - A story under a gable, hip or gambre! roof, the wall plates of which on at least
+two (2) opposite exterior walls are not more than two (2) feet above the floor of such story.
+
+                                                     2000C454
+                                                       fy a, A
+                                                               Chapter 1 - Introductory Provisions
+                                                                                         December 16, 2009
+Page 1-34
+
+Street - The entire width between the right-of-way lines of every way for vehicular and
+pedestrian traffic, and includes terms, "roads", "highways", "land", "place", “avenue”,
+"alley", and other similar designations.
+
+Street Plug or Reserve Strip - A narrow strip of land controlling access to a street or half
+street, title to which is dedicated to the County and the disposal of which land shall be
+placed within the jurisdiction of the County Goveming Body for disposal under conditions
+approved by the Commission.
+
+Structure - Anything constructed, erected or air inflated, permanent or temporary, which
+requires location on the ground. Among other things, structure includes buildings, walls,
+fences, billboards, poster panels and parking lots.                Retaining walls less than four (4) feet in
+height are not considered structures for the sake of general property line setbacks.
+
+Subdivide - To effect a subdivision, as applied to this Ordinance.
+
+Subdivider - Any person, as defined herein, who undertakes proceedings to effect a
+subdivision of land, including changes in street or lot lines, for the purpose of transfer of
+ownership of development.
+
+Subdivide Land - To divide an area or tract of land into four or more lots within a calendar
+year when such area or tract of land exists as a unit or contiguous units of land under a
+single ownership at the beginning of such year.
+
+Subdivision - Either an act of subdividing land or an area or tract of land subdivided as
+defined in this section.
+
+Swept Area - Area perpendicular to the wind velocity that a rotor will cover during one
+complete rotation.
+
+Tax Lot - An        identification number assigned              by the Oregon    Department of Revenue to
+delineate property ownership for the purpose of taxation.                 (Added 1/92)
+
+Tentative Plan Map for Minor Partition - A drawing or diagram prepared from completed
+information, in compliance with regulations and ordinances adopted pursuant to O.R.S.
+92.046,      and    regulations       of O.R.S.     209.205,     representing    defined     land,   setting    forth
+intentions     in   writing,    and     including    relative    mathematical     and      descriptive   data     for
+preparation of conveyances by metes and bounds descriptions.
+
+Theoretical Horsepower - The product of the flow used by a hydroelectric facility,
+expressed in cubic feet per second, multiplied by the head, expressed in feet, divided by
+8.8.
+
+Through Lot - Lot having frontage on two streets.
+
+                              -
+Chapter 1 — Introductory Provisions                                        2    va YOM       AR.
+December 16, 2009                                                               OG a] ud ot
+                                                                                                           Page 1-35
+
+Tiedowns - Strapping or cables attached to the mobile home and connected to anchors
+embedded in the ground, which secure a mobile home from damage                                   and movement
+during high winds.
+
+Total WECS Height - The height of a WECS              measured from ground level to the highest
+vertical extension of a WECS.
+
+Tourist Court - A group of attached or detached buildings containing separate rooms or
+living units for the temporary use of automobile travelers, having garage attached or
+parking space adjacent to every unit, including auto courts, motels, or motor cottages.
+
+Tract - One or more contiguous lots or parcels in the same ownership.
+
+Transmission         Facility   - The   conductors,   lines,   structures,          buildings,     corridor,    and
+construction staging and assembly areas associated with the transmission of electricity
+from major power sources to the regional power grid and from the regional power grid to
+the local power distribution system. Such a facility operates at a current of 230 kilovolts
+(230kV) or less. Such a facility does not include electric power substations, switching
+stations, or generating facilities.
+
+Travel Trailer - A recreation vehicle that is not used as a permanent residence, is
+transportable on public highways by permanently attached axles, and does not exceed
+thirty-two (32) feet in length, or eight (8) feet in width, or any equivalent dimension
+combination.
+
+Truck Camper - A recreation vehicle, camper, or canopy that fits onto the bed of a pickup
+or flat-bed truck, and that is not used as a permanent residence.
+
+Unique     Ecologic     Associations     - Land   areas   where    species          composition,       vegetative
+characteristics, or systems variations produce ecologic patterns of unusual and rare quality
+that cannot be observed elsewhere in Wasco County.
+
+Unique Geological Features - Fossil beds, formation type locations, and major structural
+features that cannot be observed elsewhere in the State of Oregon.
+
+Unit of Land - An area of contiguous land at least of sufficient size to meet minimum
+zoning requirements for use, coverage of an area, and to provide such yards and other
+open spaces as are required by this Ordinance; such property shall have frontage on a
+public street, or such other access approved by the Commission or Court under provisions
+of this ordinance.     A unit of land may be:
+
+   a. A single lot of record;
+
+    b.   A lot as defined herein;
+
+                                                      2009045                ‘d
+                                                                                  Chapter 1 — introductory Provisions
+                                                                                                   December 16, 2009
+Page 1-36
+
+    c. A parcel, as defined herein.
+
+Use - The purpose for which land or a building is arranged, designed or intended, or for
+which either land or a building is not or may be occupied or maintained.
+
+Use, Conditional - The term applied to use which may be permitted by the application for,
+the issuance of a Conditional Use Permit.
+
+Use Permit - A permit allowing a specific use.
+
+Use, Professional - The place of business of a person engaged in a profession such as
+accountant, architect, artist, attorney-at-law, professional engineer, land surveyor,
+insurance agent,         real estate broker,     landscape   architect, or practitioner of the human
+healing arts.
+
+Use, Prohibited - A use not allowed in a zoning district.
+
+Utility Facilities Necessary for Public Service - Facilities for providing communication,
+water, sewers or transportation and facilities accessory to energy facilities.
+
+Utility Facility Service Lines - Utility lines and accessory facilities or structures that end
+at the point where the utility service is received by the customer and that are located on
+one or more of the following:
+
+    a. A public right of way;
+
+     b.     Land immediately adjacent to a public right of way, provided the written consent of
+            all adjacent property owners has been obtained; or
+
+    c. The property to be served by the utility.
+
+Variance - A specific deviation from a part of this Ordinance.
+
+Vehicle       Site   - The    area    or place   used   for parking   occupied       residential   trailers or
+recreational vehicles, and may include sewer, water, gas or electrical hook-ups. Places
+used to store unoccupied recreational vehicles are not considered to be recreational
+vehicle sites.
+
+Vertical Axis WECS - A WECS which rotor axis is vertical.
+
+Veterinary Hospital - An institution providing overnight medical services for sick and
+injured animals, and including such related facilities as laboratories, X-ray, and boarding.
+
+                                                                        r        ,    Amy
+                                                                      20096454
+Chapter 1 — Introductory Provisions
+December 16, 2009
+                                                                                                 Page 1-37
+
+Veterinary Office - An office which provides medical services for sick and injured animals
+on an out-patient basis.
+
+Walkway - A sidewalk or pathway, including access ways, providing a pedestrian
+connection that is improved to County standards, or to other roadway authority
+standards, as applicable. See also, Access, Pathway, Sidewalk.
+
+Water Dependent Uses - Uses that absolutely require, and cannot exist without,
+access or proximity to, or siting within, a water body to fulfill their basic purpose. Water
+dependent uses include but are not limited to: docks, wharfs, piers, certain fish and
+wildlife structures, boat launch facilities and marinas. Dwellings, parking lots, spoil and
+dump sites, restaurants, trailer parks, resorts, and motels are not water dependent.
+
+Water Related Uses - Uses not directly dependent upon access to a water body, but
+whose presence facilitates public and private access to and enjoyment of a water body.
+Water related uses include but are not limited to: boardwalks, trails, observatories,
+decks, and interpretive aids. Dwellings, parking lots, spoil and dump sites, restaurants,
+trailer parks, resorts, and motels are not water related.
+
+Waterbody - A lake, wetland, or Class | or Class II stream.
+
+WECS (Wind Energy Conversion System) - A device that converts the kinetic energy in
+the wind into electric   energy.     The    WECS   includes   all parts    of the     system      except
+transmission lines.
+
+WECS    Site - The lot or lots upon which a WECS        is situated.      If abutting lots are used
+primarily for WECS, the WECS site encompasses all such abutting lots.
+
+WECS   Tower - Subsystem of        a WECS   that supports the rotor, or other collection device,
+above-ground.
+
+Wetland - Land areas, excluding those defined in ORS 197.767, where excess water is
+the dominant factor determining the nature of soil development and the types of plant and
+animal communities living at the soil surface.     Wetland soils retain sufficient moisture to
+support aquatic or semi-aquatic plant life. In marine and estuarine areas, wetlands are
+bounded at the lower extreme by extreme low water, in freshwater areas, by a depth of six
+feet. The areas below wetlands are submerged lands. (revised 2/89)
+
+Wind Energy Facility - A WECS or group of WECS including all parts of the system
+except transmission lines. Such a facility has a nominal electric generating capacity of 25
+MW or less.
+
+Wind Farm - A cluster or array of three or more electrical WECS               which are under the
+same ownership or management.
+
+                                                           ARG
+                                                      20696454
+                                                                       Chapter 1 ~ Introductory Provisions
+                                                                                        December 16, 2009
+Page 1-38
+
+Wind Measurement Device - An instrument for measuring wind speed and/or direction,
+including the tower or pole upon which it is mounted.
+
+Yard - An open space on a lot with a building and bounded on one (1) or more sides by
+such building, such space being unoccupied and unobstructed from the ground upward.
+
+Yard, Front - A yard between the front line of the main building (exclusive of steps), and
+the front property line. Front property line is that side of a lot or parcel where access is
+obtained from a street or road.
+
+Yard, Rear - An open, unoccupied space on the same lot with the main building, between
+the rear line of the main building (exclusive of steps, porches, and accessory buildings),
+and the rear line of the lot.
+
+Yard, Side - An open, unoccupied space on the same lot with the main building, between
+the side wall line of the main building and the side line of the lot.
+
+Youth/Family Camp - An area devoted to facilities and equipment for camp purposes for
+youths and adults, including swimming pools, tennis courts, recreational fields and facilities
+for meetings, conferences or retreats, including facilities for eating and           sleeping
+accommodations that are provided in connection with the camp (added 9/18/97).
+
+Yurt - A round, domed shelter of cloth or canvas on a collapsible frame.
+                                                           Hoe
+                                                           i)
+                                                           o>
+                                                      a>
+
+                                                           or
+                                                 w
+                                                 ©
+
+                                                                  i
+
+Chapter 1 - Introductory Provisions
+December 16, 2009
+                    DETAILED TABLE OF CONTENTS
+           CHAPTER 2 DEVELOPMENT APPROVAL PROCEDURES
+
+SECTION   TITLE
+2.010     PURPOSE
+2.020     REVIEW PROCESS
+2.030     COORDINATION OF DEVELOPMENT APPROVAL
+2.040     WHO MAY APPLY
+2.050     PRE-APPLICATION CONFERENCE
+2.060     APPLICATION
+2.070     FILING FEES
+2.080     NOTICE
+2.090     CONTENTS OF NOTICE
+2.100     ADMINISTRATIVE ACTION PROCEDURE OF
+          THE DIRECTOR
+2.110     THE DECISION OF THE DIRECTOR                             2-8
+2.120     NOTICE OF A DECISION BY THE DIRECTOR                     2-10
+2.125     TIME LIMITS FOR PERMITS AND EXTENSIONS                   2-10
+          OF TIME
+2.130     ESTABLISHMENT OF PARTY STATUS                            2-11
+2.140     HEARING PROCEDURE                                        2-12
+2.150     OFFICIAL NOTICE                                          2-14
+2.160     APPEAL FROM DECISION OF THE DIRECTOR                     2-14
+2.170     REVIEW OF A DECISION OF THE PLANNING                     2-16
+          COMMISSION
+2.180     REVIEW BY THE COUNTY GOVERNING BODY                      2-17
+2.190     GENERAL CONDUCT OF ALL HEARINGS;                         2-19
+          LEGISLATIVE, ADMINISTRATIVE OR
+          QUASI-JUDICIAL
+2,200     ADDITIONAL HEARING NOTIFICATION                          2-19
+          REQUREMENTS
+
+                        20600454      Chapter 2, Development Approval Procedures
+                                                               December   16, 2009
+                 CHAPTER 2 DEVELOPMENT APPROVAL PROCEDURES
+
+SECTION 2.010       Purpose
+The purpose of this Chapter is to establish procedures for approval of development
+required by this Ordinance, appeals from aggrieved persons and parties, and review of
+any decision by a higher authority.
+
+SECTION 2.020 Review Process
+An application for development approval required by Wasco County shall be processed
+by quasi-judicial public hearing or by Administrative Action, pursuant to applicable
+sections of this Ordinance. Quasi-judicial hearings shall be held on all applications for a
+permit or approval required by these regulations, provided that hearings shall not be held
+in those matters the Director has authority to act upon, unless the Director, under Section
+2.100(C), schedules a hearing before the Planning Commission or an appeal be taken.
+(Revised 5-93)
+
+SECTION 2.030       Coordination of Development Approval
+
+A.   The Director or the Director's designee shall be responsible for the coordination of a
+     development      application and   decision-making     procedures  and  shall approve
+     developments when proper application is made and the proposed development is in
+     compliance     with the provisions of this Ordinance          and the Wasco     County
+     Comprehensive Plan.         Before approving any development the Director or the
+     Director's designee shall be provided with information by the applicant sufficient to
+     establish full compliance with the requirements of this Ordinance. (Revised 5-93)
+
+B. The coordination of development application shall include the opportunity for the
+   applicant to apply for all permits necessary for a development project at one time.
+     The consolidated    procedure shall be subject to the time limitations set out in this
+     chapter.   (added 2-89)
+
+C. After an application has been submitted, no building permit for the proposed use shall
+   be issued until final action has been taken. Following final action on the application,
+   the issuance of a building permit shall be in conformance with the zoning regulations
+     of this Ordinance, and any conditions of development approval.
+
+SECTION 2.040 Who May Apply
+
+A.   Development request may be initiated by one or more of the following:
+
+                                             AaAF.   4   Ty
+                                        2 ) U J U4            = chapter 2, Development Approval Procedures
+                                                                                         December 16, 2009
+Page 2-2
+
+    1.     The owner of the property which is the subject of the application; or
+
+    2.     The purchaser of such property who submits a duly executed written contract, or
+           copy thereof, which has been recorded with the Wasco County Clerk; or
+
+    3.     The   purchaser      of such    property who     submits       a duly executed                      earnest   money
+           agreement stating the land use action proposed; or (Added 1-92)
+
+    4.     A lessee in possession of such property who submits written consent of the owner
+           to make such application; or
+
+    5.     Resolution of the County Governing Body Geurtor Commission; or
+
+    6.     County Road Department, (when dealing with land involving public works projects).
+
+           Any of the above may be represented by an agent                                          who        submits   written
+           authorization by his principal to make such application.
+
+SECTION 2.050 Pre-Application Conference
+An applicant shall request a pre-application confererice prior to submitting a request for a
+subdivision, planned unit development, conditional use, farm dwelling or site plan review
+for a home occupation. The purpose of the conference shall be to acquaint the applicant
+with the substantive and procedural requirements of the Ordinance, provide for an
+exchange of information regarding applicable elements of the Comprehensive Plan and
+development requirements, arrange such technical and design assistance as will aid the
+applicant, and to identify policies and regulations that create opportunities or pose
+significant constraints for the proposed development.                 (Revised 5-93)
+
+SECTION 2.060 Application
+Application for development approval shall be made                    pursuant to applicable sections of
+this Ordinance on forms provided by the Planning Director.
+
+An application shall be considered complete when it contains the information required by
+these regulations, and addresses the appropriate criteria for review and approval of the
+request and is accompanied by the required fee, unless waived by the County Goveming
+Body, pursuant to Section 2.070.
+
+A. The       Director   shall    have     the   authority   to   review      the          following            applications   for
+    Administrative Action, and shall follow the procedure provided by this Ordinance to
+    accomplish such review. Matters required by this Ordinance that are not subject to
+    other provisions of this Ordinance include, but are not limited to:
+                                                                                                     x8
+                                                                                                   res
+
+                                                                                                          {=
+                                                                                        en)
+                                                                                              a>
+                                                                                 ome)
+
+Chapter 2, Development Approval Procedures                             2,
+                                                                            cS
+
+December 16, 2009
+                                                                                               Page 2-3
+
+      . Conditional Use Review (Chapter 5)
+
+        Administrative Variances (Chapter 7)
+
+        Temporary Use Permits (Chapter 8)
+
+        Partition, Replat and Lot Line Adjustment    Approval,        except   as   provided   for in
+        section 2.060 B.10 (Chapter 21)
+
+        Site Plan Reviews   (Chapters 3 and 20)
+
+        Uses Permitted Subject to Standards (Chapter 3)
+
+      . Similar use.
+
+ 8.     Significance Determination for Aggregate Overlay (Chapter 3, Section 3.815)
+
+ 9.     Nonconforming Use Verification, Restoration, or Alteration (Chapter 13)
+
+. The following matters shall be heard by the Planning Commission,                     pursuant     to
+  Sections 2.080, 2.090, 2.130, 2.140, 2.150, and 2.190 of this Ordinance:
+
+ 1.     Recommendation to County Goveming Body          on a Legislative or Quasi-Judicial
+        Plan Amendment (Comprehensive Plan)
+
+        Recommendation to the County Goveming          Body      on    a Zone       Change     and/or
+        Ordinance Amendment (Chapter 9)
+
+        Subdivision (Chapter 21)
+
+        Planned Unit Development (Chapter 18)
+
+        Mobile Home Parks (Chapter 16)
+
+        Recreational Vehicle Parks (Chapter 17)
+
+        Division of Non-Resource Land in Designated Resource Areas (Chapter 10)
+
+        Variance (Chapter 6)
+
+        Private Road Approval (Chapter 21}
+
+ 10. Preliminary Partitions involving private or public road approval.
+
+                                                            20096454
+                                                          Chapter 2, Development Approval Procedures
+                                                                                   December 16, 2009
+Page 2-4
+
+     11.Recommendation           to the County     Governing   Body     on        public      road   dedications
+           (Chapter 21).
+
+     12. Revocation of Conditional Use Permits (Chapter 5)
+
+     13.Appeals of Decision of Director made pursuant to Section 2.060 (A) (1), (2), (3),
+        (4) & (5), and any ministerial action of the Director.
+
+     14.Matters which the Director elects not to review, pursuant to Section 2.060 (A)(1),
+           (2), (3), (4), (), (6), (7), and (8).
+     15.Recommendation           for implementation    of Aggregate       Overlay            zone    (Chapter   3,
+        Section 3.800)
+
+     16. Variances to floodplain standards (Chapter 22).
+
+SECTION 2.070          Filing Fees
+
+A. Any application filed with the Planning Department shall be accompanied by the
+   appropnate filing fee to reimburse the County for processing costs attendant upon the
+   application.
+
+B.   Fees shall not exceed the actual or average cost of providing the service.
+
+C. Any and all fees shall be established by County Governing Body Order, be separate
+     from this Ordinance, and may be revised whenever necessary.
+
+D. A filing fee may be waived by the County Governing Body for Governmental agencies
+    or nonprofit groups, or upon satisfactory showing that an applicant is without means
+     and is unable to pay the established fee.           Said waiver shall be approved                    by the
+     County Governing Body prior to submitting an application or appeal to the Planning
+     Office. FAX copies of a purchase order or check for payment of an application or
+     appeal are not acceptable. True payment must be paid prior to the expiration of an
+     appeal period, or prior to acceptance of an application.
+
+E. All fees received pursuant to this Section shall be deposited in the County General
+     Fund.
+
+F.   Fees are not transferable or refundable.
+                                                                                            Crt
+                                                                                       io
+
+                                                                                            {=<
+                                                                      Lote)
+
+                                                                                  a>
+                                                                      [aae)
+
+                                                                              >
+                                                                we
+
+Chapter 2, Development Approval Procedures
+December 16, 2009
+                                                                                                   Page 2-5
+
+SECTION 2.080          Notice
+
+Citizen and Agency Involvement. The County shall provide opportunities for public and
+agency input in the planning process. To ensure that there is a coordinated effort to
+permit land use projects, notice of applications for development approval shall be sent
+to interested agencies and departments such as County departments, sheriff and fire
+departments, school districts, utility companies, and the applicable city departments for
+those municipalities within Wasco County. Affected jurisdictions and agencies could
+include the Department of Environmental Quality, the Oregon Department of
+Transportation, Wasco County Transportation Network, and other applicable local, state
+or federal agencies.
+
+If the subject property is being considered for a comprehensive plan or zone change,
+notice of receipt of the application shall be provided to the Oregon Department of
+Transportation.
+
+A. At least twenty (20) days prior to the date of a quasi-judicial              public hearing     under
+   Section 2.060 (B), notice shall be sent to: (Revised 1-92)
+
+     1.    The applicant and all owners or contract       purchasers     of record     of the property
+           which is the subject of the application;
+
+     2.    All owners of property within one hundred feet (100’) if located wholly or in part
+           within an urban growth boundary, three hundred feet (300') if located outside an
+           Urban Growth Boundary and not within a farm, farm/forest or forest zone, and five
+           hundred (500) feet within a farm, farm/forest or forest zone. (Revised 1-92)
+
+     3.    The appropriate Citizen Advisory Group;
+
+     4.    Any affected governmental agency or public district within whose boundary the
+           subject property lies;
+
+     5.    The city within whose recognized Urban Growth Boundary the subject property lies
+           or whose facilities may be impacted;
+
+     6.    Other   persons   as may   be clearly and   necessarily affected      by the result of the
+           development request.
+
+B. Notice of Administrative Action for the use listed in Sections 2.060(A) (1) and (9), shail
+   be given as prescribed by subsection (A) (1) — (6) of this Section, with the exception
+     that notice be given at least ten (10) days prior to a decision. (Revised 1-92, 5-93, 9-
+     99)
+
+C.   Notice shall be given by publication in the official newspaper of Wasco County at least
+
+                                                ALTA      Amy
+                                                          t
+
+                                            2   VuUd    4 J.    Chapter 2, Development Approval Procedures
+                                                                                         December 16, 2009
+Page 2-6
+
+     fifteen (15) days prior to the date of a quasi-judicial public hearing, pursuant to Section
+     2.060 (B). An affidavit of publication shall be made part of the record. (Revised 1-92)
+
+D.   Notice of Review by the County Governing Body pursuant to Section 2.180 shall be
+     sent to all parties, posted in at least two (2) different public locations and published in
+     the official newspaper of Wasco County ten (10) days prior to the date set for the
+     hearing.    (Revised 1-92)
+
+E. An affidavit of all mailing notices shall be made part of the record.
+
+F.   Notice shall be sent to owners of a public use airport of any land use action within
+     5,000 feet of the side or end of a “visual airport" runway, or within 10,000 feet of an
+     “instrument airport” runway, unless the action involves structures less than thirty-five
+     (35) feet tall outside the runway approach surface.      (added 2-89)
+
+SECTION 2.090         Contents of Notice
+
+A.   Notice of a quasi-judicial hearing on any development request shall be filed with the
+     Director and also given pursuant to Section 2.080 and shall include the following
+     information:
+
+     1.    The date, time and place of hearing and the name of the hearing body;
+
+     2. The general location of the subject property and legal description;
+
+     3.    The legal owner of record of the property and the name of applicant seeking the
+           review;
+
+     4.    The present zoning of the subject property         and    applicable        Ordinances    and
+           sections that apply to the application at issue;
+
+     5.    The request and purpose of the proposal;
+
+     6.    That failure of an issue to be raised in a hearing, in person or by letter, or failure
+           to provide statements or evidence sufficient to afford the decision maker an
+           opportunity to respond to the issue precludes appeal to the board based on that
+           issue;
+
+     7.    The name of a local government representative to contact and                    the telephone
+           number where additional information may be obtained;
+
+     8.    That a copy of the application, all documents and evidence submitted by or on
+           behalf of the applicant and applicable criteria are available for inspection at no
+
+                                                                                       4
+                                                                    ye   ar
+                                                                                  Qi
+
+Chapter 2, Development Approval Procedures
+                                                                2 g Ody       4
+December 16, 2009
+                                                                                                 Page 2-7
+
+        cost and will be provided at reasonable cost;
+
+   9.   That a copy of the staff report will be available for inspection at no cost at least
+        seven days prior to the hearing and will be provided at reasonable cost; and
+
+   10.General     explanation of the requirements for submission of testimony and the
+        procedure for conduct of hearings.
+
+B. Notice of an Administrative Action on a conditional use permit shall be filed with the
+   Director and    also given   pursuant to Section 2.080,      and    shall include the following
+   information:   (Revised 1-92, 5-93)
+
+   1. The location, title of the request and the date such notice was sent;
+
+   2.   The general location of the subject property and legal description;
+
+   3. The legal owner of record and the name of applicant seeking review;
+
+   4.   The present    zoning   of the   subject   property   and     applicable   Ordinances       and
+        sections;
+
+   5.   The nature of the application;
+
+   6.   The deadline established for rendering a final decision;
+
+   7.   The deadline for filing comments on the request.
+
+SECTION 2.100      Administrative Action Procedure of the Director
+
+A. After accepting an application for Administrative Action pursuant to Section 2.060(A)
+   (1) - (9) of this Ordinance, the Director shall act on or cause a hearing to be held on
+   the application within the time requirements of O.R.S. 215.428(1). (Revised 2-89, 5-
+   93)
+
+   The Director shall not accept any application which he/she deems cannot be acted
+   upon initially in a rational manner within the time requirements of O.R.S. 215.428(1),
+   unless the applicant consents to a longer period for action. (Revised 5-93)
+
+B. Within such time period, the Director shall (Revised 5-93):
+
+   1.   Publish or otherwise file notice pursuant to Section 2.080;
+
+   2.   Prepare findings of fact and conclusions of law;
+
+                                    206064
+                                                   Gt
+
+                                                        sy    Chapter 2, Development Approval Procedures
+                                                                                       December 16, 2000
+Page 2-8
+
+           Prepare     a decision     to approve    or deny     the     request.        Approvals   may    include
+           conditions considered necessary to assure conformance with the Comprehensive
+           Plan pursuant to Section 2.110(D).
+
+     4.    Provide opportunity for and conclusion to all local appeals.                 (Added 5-93)
+
+C.   If the application does not meet the criteria or if written objections are received, or if
+     the applicant or the Director so desires for any reason, the Director may schedule any
+     application       made   under Section      2.060(A)     for public hearing           before the Planning
+     Commission, pursuant to Section 2.060 (B) (14), and the Commission shall decide the
+     matter, as if the matter were listed under Section 2.060 (B).                  (Revised 1-92)
+
+SECTION 2.110           The Decision of the Director
+
+A. A decision on an Administrative Action under Section 2.060(A) shall be rendered                              by
+   the Director within the time limitations of this Ordinance.
+
+B. In making a decision, the Director shall consider
+                                                   the following:
+
+     1. The burden of proof is placed upon the petitioner seeking an action pursuant to the
+           provisions of this Chapter.         Unless otherwise         provided for in this Chapter,        such
+           burden shall be to prove:
+
+           a.   The proposed action fully complies with the applicable map elements of the
+                relevant Comprehensive Plan and also the goals and policies of the applicable
+                plan.
+
+           b.   The proposed        action   is in accordance         with   the   applicable   criteria   of this
+                Ordinance.
+
+           Proof of change in a neighborhood or community or mistake in the planning or
+           zoning for the property under consideration are additional relevant factors.
+
+     3. Written comments from parties or other persons.
+
+C.   Inall cases, the Director shall enter findings and conclusions to justify his decision.
+
+D. The following limitations shall be applicable to conditional approvals:
+
+     1. Conditions shall be fulfilled within the time limitations set forth in the approval
+           thereof, or, if no specific time has been set forth, within a reasonable time.
+
+                                                                              .     3     wy
+Chapter 2, Development Approval Procedures                             2 0 +f 9 G 4 rs] i
+December    16, 2009
+                                                                                            Page 2-9
+
+   . Such conditions shall be reasonably conceived to fulfill public needs emanating
+     from the proposed land use as set forth in the application in the following respects:
+
+     a.   Protection of the public from the potentially deleterious effects of the proposed
+          use; or
+
+     b.   Fulfillment of the need   for public service demands     created    by the proposed
+          use.
+
+   . Changes or alterations of conditions shall be processed as a new Administrative
+     Action.
+
+   ._ The conditional approval may require the owner of the property to sign a contract
+      with the County for enforcement of the conditions.      Such contract shall be
+     executed within thirty (30) days after conditional approval        is granted,     provided,
+     however, that the Director may grant time extensions due to practical difficulty.
+     The Director shall have the authority to execute such contracts on behalf of the
+     County. If a contract is required by a conditional approval, no building permit shall
+     be issued for the use covered by the application until the executed contract is
+     recorded on the real property records of Wasco County and filed in the County
+     Journal.    Such contract shall not restrict the power of subsequent administrative
+     action, with or without conditions. Such contracts shall be enforceable against the
+     signing parties, their heirs, successors, and assigns by Wasco County by
+     appropriate action in law or suit in equity for the benefit of public health, safety and
+     welfare.
+
+   . Failure to fulfill any conditions of approval within the time limitations imposed may
+     be grounds for initiation of Administrative Action or revocation of approval by the
+     Director.
+
+   . A bond, in a form acceptable to the Director or, upon appeal or review, by the
+     Commission or County Goveming Body or a cash deposit from the property
+     owner(s) or contract purchaser(s) in such amount as will assure compliance with
+     the conditions imposed pursuant to this section may be required. Such bond or
+     deposit shall be posted at the same time the contract containing the conditions of
+     approval is filed with the Wasco County Clerk.
+
+. If an application is denied by the Director, and no higher authority reverses such
+  denial upon appeal, no new application for the sarne or substantially similar action
+  shall be filed   for at least twelve (12) months frorn the date of the final order of the
+  action denying the application.
+
+                                                ROCICAD#
+                                                 Nf, 7, eee
+
+                                                         Chapter 2, Development Approval Procedures
+                                                                                  December 16, 2009
+Page 2-10
+
+SECTION 2.120            Notice of a Decision by the Director
+
+A.   Notice of a decision by the Director pursuant to Section 2.060 (A) (1) - (9) shall be filed
+     in the records of the Director and also mailed to the applicant, the owner(s) or contract
+     purchasers of the subject property, and all parties within the required notification
+     areas, as described by Section 2.080. (Revised 1-92)
+
+B.   Notice of a decision shall contain:
+
+     1.     Identification of the application;
+
+     2.     The findings of fact and conclusions of law of the Director;
+
+     3.     Other information pertinent to the application, if any;
+
+     4.     The date of the filing of the decision of the Director;
+
+     5.     Notice that any party may appeal the decision within twelve (12) days from the
+            date such notice was sent by filing a timely statement with the Director.
+
+C. The decision of the Director pursuant to Section 2.060 (A)(1) - (9) shall be final unless
+     an appeal from an aggrieved person is received by the Director within ten (10) days
+     after the filing of a decision on an Administrative Action or uniess the Commission or
+     County Goveming Body on its own motion, orders review within ten (10) days after the
+     filing of the proposed decision.        (revised 2-89, 5-93, 9-99)
+
+SECTION 2.125           Time Limits for Permits and Extensions of Time
+
+A. Time Limits for Permits: A permit will become invalid without special action if:
+
+     1.     Development has not commenced within two (2) years of the date of approval;
+
+     2.     The use approved      is discontinued for any reason for one (1) continuous year or
+            more.
+
+B.   Extension of Time Request:     If an extension of time is required, the holder of the
+     approved permit must file an application which will be processed as an administrative
+     action.  A one time extension may be granted for a maximum of two (2) years.
+     Extensions shall be granted only upon findings that:
+
+     1.     Request     for an extension     of time   has   been   made   prior to expiration      of the
+            approved permit.
+
+                                                                          90096404
+                                                                             .   n   /   Lat   ag
+
+Chapter 2, Development Approval Procedures
+December     16, 2009
+                                                                                            Page 2-11
+
+   2.   There has been no change in circumstances or the law likely to necessitate
+        significant modification of the development approval or conditions of approval.
+
+   3.   The applicant has provided reasons that prevented the applicant from beginning
+        or continuing development within the approvai period.
+
+SECTION 2.130       Establishment of Party Status
+
+A. In order to have standing under this Chapter, a person shall be recognized as a party
+   by the Approving Authority.
+
+   Party status, when recognized by the Approving Authority, establishes the right of the
+   person to be heard, either orally or in writing and to pursue a review or appeal under
+   this Chapter.
+
+   A request for establishment of party status may be made at least ten (10) days before
+   the date set for a quasi-judicial public hearing by any person who files a written
+   statement regarding the application being considered.
+
+   Seven (7) or more days prior to the date set for a public hearing, the Director shall
+   mail the applicant any statements that have been filed and a copy of the staff report.
+
+   With respect to applications under Section 2.060 (B) of this Chapter, the Approving
+   Authority may authorize a person to have party status, at any time prior to the close of
+   a hearing, if that person is not otherwise a party, as defined by Section 1.090 of this
+   Ordinance.      (Revised 1-92)
+
+   A request for establishment of party status for an Administrative decision pursuant to
+   Section 2.060(A) of this Chapter shall be made by filing a written statement within a
+   ten (10) day notification period. Such statement shall include:
+
+   1.   The name, address and telephone number of the person filing the statement;
+
+   2.   How the person qualifies as a party; as defined in Section 1.090 of this Ordinance;
+        and
+
+   3.   Comments which the party wishes to make with respect to the application under
+        consideration.
+
+   Any party may appeal a decision of the Director relative to an Administrative Action.
+   In the conduct of a hearing, the Approving Authority shall establish the appellant as a
+   party or the appeal shall not be heard and the contested decision shall become final.
+
+                                                                narAawe
+                                                              g9goC40L
+                                                          Chapter 2, Development Approval Procedures
+                                                                                   December 16, 2009
+Page 2-12
+
+SECTION 2.140                 Hearing Procedure
+
+A.   In the conduct of a public hearing, the Approving Authority shall have the authority,
+     pursuant to Rules of Procedure approved by the County Governing Body, to:
+
+     1.     Determine who qualifies as a party.
+
+     2.     Regulate the course, sequence and decorum of the hearing.
+
+            Dispose of procedural requirements or similar matters.
+
+            Rule on offers of proof and relevancy of evidence and testimony.
+
+            Impose reasonable limitations on the number of witnesses heard and set
+            reasonable time limits for oral presentation, and rebuttal testimony. (Revised 1-92)
+
+            Take such other action appropriate for conduct commensurate with the nature of
+            the hearing.
+
+            Grant,         deny,   or   in      appropriate        cases,     attach     conditions         pursuant      to    Section
+            2.110(D) of this Chapter to the matter being heard.
+
+B.   Order        of Procedure:               Unless         otherwise     specified,    the Approving             Authority,    in the
+     conduct of a hearing, shall:
+
+     1.     Announce           the nature and              purpose       of the hearing        and   summarize         the rules for
+            conducting the hearing.
+
+     2.     Recognize parties.
+
+     3.     Ask      for     disclosure          of    any     potential     conflicts    of     interest     by     those      on   the
+            decision-making body.                     (added 2-89)
+
+     4. Ask parties to the hearing if there is a challenge to the ability of any member to
+            make an unbiased decision on the case.                           (added 2-89)
+
+     5.     Request the Director or his designee to present                              a summary of staff findings and
+            recommendation,             if any, and explain any graphic or pictorial displays which are
+            part of the staff report.
+
+     6. Allow the applicant to be heard first, on his own behalf or by representative.
+
+     7.     Allow parties or witnesses in favor of the applicant's proposal to be heard.
+
+Chapterter 22,, pars diial Approval I
+Chap                                              Proced
+                                             Procedures                                    9 Q g gy G AAm
+                                                                                                        5) 4
+                                                                                                    Page 2-13
+
+8.   Allow other parties or witnesses to be heard next in the same                    manner as in the
+     case of the applicant.
+
+9.   Upon failure of any party to appear, the Approving                     Authority    may      take   into
+     consideration written material submitted by such party.
+
+10.Allow only the proponent to offer rebuttal testimony.      The scope and extent of
+   rebuttal shall be limited to issues raised during testimony and shall not be used to
+   introduce new evidence. (Revised 1-92)
+
+11. Close the hearing to public testimony. Questions may be asked at this time by the
+    Approving Authority. Questions by the Director or his designee may be allowed by
+    the Approving Authority upon request.
+
+12.At the conclusion of the hearing, the Approving Authority shall either make a
+    decision and state findings which may incorporate findings proposed by any party,
+    or the Director, or may take the matter under advisement. The Approving Authority
+    may request proposed findings and conclusions from any party to the hearing.
+
+13.The Approving Authority, before finally adopting findings and conclusions, may
+   circulate the same in proposed form to the parties for written comment. All actions
+   taken by the Approving Authority pursuant to adopting findings and conclusions
+   shall be made a part of the record. The decision and findings and conclusions
+     which support the decision of the Approving Authority shall be final when signed by
+     the Approving Authority.      For the purpose of signing the decision and findings and
+     conclusions, the Approving Authority may be either the Chairman of the Planning
+     Commission or the Director of Planning.         (Revised 1-92)
+
+14. At the latest, the next regularly scheduled meeting shall be the time the Approving
+    Authority shall grant, deny or, in appropriate cases, pursuant to Section 2.110(D),
+    attach such conditions as may be necessary to carry out the Comprehensive Plan
+    in approving the proposal being heard. The Director may extend the deadline for
+    rendering a decision upon consent of the applicant.        The Director shall notify
+    parties of the decision by mail. (Revised 5-93)
+
+15. The Approving Authority shall render a decision, may affirm, reverse or modify the
+    action of a lesser authority, and may reasonably grant approval subject to the
+    conditions necessary to carry out the Comprehensive Plan pursuant to Section
+    2.110(D) of this Ordinance.
+
+     a.   For all cases    the Approving     Authority   shall    make    a decision      based     on the
+          record before it as justification for its decision.
+
+     b.   The   Director shall send    a notice of the Approving          Authority's decision to all
+
+                                                           2009045"
+                                                                 Chapter 2, Development Approval Procedures
+                                                                                          December 16, 2009
+Page 2-14
+
+               parties to the matter and a copy of such decision shall be filed in the records of
+               the Director.
+
+SECTION 2.150          Official Notice
+
+A. The Approving Authority may take official notice of the following:
+
+     1.     All facts which are judicially noticeable.   Judicially noticed facts shall be stated and
+            made part of the record.
+
+     2.     The Comprehensive Plan and other officially adopted plans, ordinances, rules and
+            regulations of Wasco County and comprehensive                    plans   and    implementing
+            regulations of cities within Wasco County.
+
+B.   Matters officially noticed need not be established by evidence and may be considered
+     by the Approving Authority in the determination of the application.
+
+SECTION 2.160          Appeal from Decision of the Director
+
+A. Any action taken by the Director or his designee in the interpretation, administration or
+     enforcement of this ordinance shall be subject to review by the Planning Commission,
+     pursuant to Section 2.060 (B13).          (Revised 1-92)
+
+B. Any party may appeal a decision of the Director relative to an Administrative Action.
+   In the conduct of a hearing, the Approving Authority shall establish the appellant as a
+   party or the appeal shall not be heard and the contested decision shall become final.
+
+C. The Approving Authority may review the action of the Director upon receipt of a Notice
+   of Appeal as prescribed in Section 2.160. For the purpose of this section, an appeal
+   shall be filed with the Director no later than twelve (12) days following the date of the
+   decision or action of the Director. The decision of the Director may also be reviewed
+   by the County Governing Body upon its own motion passed within twelve (12) days of
+   the written decision sought to be reviewed if no appeal is filed. County Governing
+   Body review shall be conducted pursuant to Section 2.180.
+
+D.   Every Notice of Appeal shall contain:
+
+     1. Areference to the application sought to be appealed.
+
+     2.     A statement as to how the petitioner qualifies as a party.
+
+     3.     The specific grounds relied upon in the petition request for review.
+
+                                                                             00454
+Chapter 2, Development Approval Procedures
+December 16, 2009                                                    9   0
+                                                                                      Cot
+                                                                                              Page 2-15
+
+  4. The date of the final decision of the action.
+
+  5. The required fee, unless wavered pursuant to Section 2.070.
+
+. At least twenty (20) days prior to the date of the Approving Authority meeting, the
+  Director shall give notice to all parties to the case as provided by Section 2.080 of the
+  time, date and place of the meeting. (Revised 1-92)
+
+. Members of the Approving Authority shall neither:
+
+  1.   Communicate, directly or indirectly, with any party or his              representatives in
+       connection with any issue involved except upon notice and               opportunity for all
+       parties to participate; nor
+
+  2.   Take notice of any communication, reports, staff memoranda, or other materials
+       prepared in connection with the particular case unless the parties are afforded an
+       opportunity to contest the material so noticed.
+
+. During the course of the review, the Director shail first present to the Approving
+  Authority the decision   and   the   reasons   for such   action.   The    appellant then      may
+  present its argument and may call witnesses to give additional relevant testimony.
+
+. Appeal of an administrative decision to the Planning Commission shall be “de novo";
+  i.e., conducted as a new hearing before the public. (Revised 5-93)
+
+  The review shall be accomplished in accordance with the Rules of Procedure adopted
+  by the County Goveming Body. The Approving Authority may continue its hearing
+  from time to time to gather additional evidence or to consider the application fully.
+  Unless otherwise provided by the Approving Authority no additional notice need be
+  given of continued hearings if the matter be continued to a certain date.
+
+. All evidence offered and not objected to may be received unless excluded by the
+  Approving Authority on its own motion. Evidence received at any hearing shall be of
+  the quality that reasonable persons rely upon in the conducting of their everyday
+  affairs.   Evidence shall be received and notice may be taken of those facts in a
+  manner similar to that provided for in contested cases before state administrative
+  agencies pursuant to Oregon Revised Statutes 183.450 except as otherwise provided
+  for herein.
+
+. The Approving Authority shall render a decision, may affirm, reverse or modify the
+  action of a lesser authority and may reasonably grant approval subject to conditions
+  necessary to carry out the Comprehensive Plan pursuant to Section 2.110(D).
+
+                                                       gogocde+
+                                                          RAS
+                                                            Chapter 2, Development Approval Procedures
+                                                                                     December 16, 2009
+Page 2-16
+
+     1.     For all cases the Approving Authority shall make a decision based on findings and
+            conclusions from the record before it as justification for its action.
+
+     2.     The Director shall send a copy of the Approving Authority's decision to all parties to
+            the matter and a copy of such decision shall be filed in the records of the Director.
+
+SECTION 2.170 Review of a Decision of the Planning Commission
+Twelve (12)-days from the date of a final decision of the Planning Commission,                         the
+decision       shall   become   effective    unless   review   is sought   pursuant   to   this   Section.
+(Revised 1-92)
+
+A.   Review of the decision of the Planning Commission:             (Revised 1-92)
+
+     1.     Shall be made by the County Governing Body Court, pursuant to Section 2.180,
+            upon any party filing a Notice of Review with the Director within twelve (12) days
+            from the date of the final decision sought to be reviewed; or (Revised 1-92)
+
+     2.     May be made by the County Goverming Body, pursuant to Section 2.180, on its
+            own motion passed within twelve (12) days from the date of the final decision
+            sought to be reviewed. (Revised 1-92)
+
+B.   Notice of the time and place of the review together with any Notice of Review filed
+     shall be mailed to parties at least ten (10) days prior to the date of review.
+
+C. Every Notice of Review shall contain:
+
+     1.     A reference to the decision sought to be reviewed;
+
+     2.     A statement as to how the petitioner qualifies as a party;
+
+          . The specific grounds relied upon in the petition request for review; and
+     ao
+
+     4.     The date of the decision sought to be reviewed.
+
+D. A Notice of Review shall be accompanied by a fee as set forth on the fee schedule
+   established by the County Governing Body.
+
+     1.     If the Court does not desire a transcript, the applicant or any party may request a
+            transcript. Any such transcript request shall be paid for by the person requesting it.
+             The estimated cost of the transcript shall be specified by the Director. Within five
+            (5) days of such estimate, the person filing the Notice of Review shall deposit the
+            estimated cost with the Director. Any deposit excess shall be returned to the
+            depositing person. Failure to comply with this subsection shall be a jurisdictional
+
+Chapter 2, Development Approval Procedures
+December 16, 2009                                                             2 Or
+                                                                                UU 9 Ure 4 . isoF
+                                                                                                a]
+                                                                                                 Page 2-17
+
+        defect.
+
+   2.   If atranscript is desired by the Court, the costs shall be borne by Wasco County.
+
+SECTION 2.180       Review by the County Governing Body
+
+A. Except as provided in Sections B. and C. below, appeal to the Governing Body of all
+   final decisions of the Planning Commission shall be confined to the record. The
+   record shail include:
+
+   1.   All materials received as evidence at any previous stage;
+
+   2.   Verbatim Record:
+
+        a.   For quasi-judicial plan amendments, unless waived by the Court, a verbatim
+             record of the hearing below, in the form of audio tapes, together with a
+             transcription thereof, or the minutes thereof if no verbatim record is available
+             due to mechanical failure or inadvertent error.
+
+        b.   In appeals of all other development     actions, unless waived        by the Court, a
+             verbatim   record   of the hearing   below   in the form    of audio tapes or the
+             minutes thereof if no verbatim record is available due to mechanical failure or
+             inadvertent error.    However, a party may prepare all or a portion of the
+             transcript for submission to the Court.
+
+   3.   The findings and conclusions supporting the action being appealed; and
+
+   4.   Oral and written argument from the parties as defined by Section 2.130, or their
+        representatives presented during the hearing or appeal but not including new
+        evidence.
+
+B. A party, or the Director, may request that the Court conduct a de novo or partial de
+   novo hearing on appeal. The party filing the petition for review must make such a
+   request as part of the petition. Any other party must make such a request no more
+   than seven (7) calendar days after the deadline for filing a petition for review has
+   expired. When practicable, the requesting party shall advise the other parties and
+   attempt to gain their consent. The request shall:
+
+   1.   Reference the name, case number and date of the decision;
+
+   2.   Contain the name and address of the requesting party;
+
+                                                             Chapter 2, Development Approval Procedures
+                                                                                      December    16, 2009
+Page 2-18
+
+    3.      Indicate the reasons for the request without addressing                     the merits of the land
+            use action; and
+
+    4.      Indicate any persons known to be opposed to the request.
+
+  . The request for a de novo hearing for appeal                    of a quasi-judicial plan amendment
+    shall be decided by the Court as a nonpublic                    hearing item, except that the Court
+    may make such provision for notice to the parties and may take such testimony as it
+    deems necessary to fully and fairly address significant procedural or substantive
+    issues raised.         The Court shall grant the request only upon findings that:
+
+    1.      Ade novo hearing is necessary to fully and properly evaluate a significant issue
+            relevant to the proposed development action;
+
+    2. The substantial rights of the parties will not be significantly prejudiced; and
+
+    3.      The request is not necessitated by improper or unreasonable conduct of the
+            requesting party or by a failure to present evidence that was available at the time
+            of the previous review.
+
+  . In conjunction with determining whether to conduct a de novo hearing for the appeal
+    of a quasi-judicial           plan   amendment,     the     Court   may     remand         the     matter to the
+    Planning Commission. The decision on whether to remand shall not be appealable.
+    Upon remand, the appealing party shall be entitled to return of the appeal fee less
+    actual costs incurred by the County.               Appeal from a decision on remand shall be
+    taken as any other appeal.
+
+  . Review by the County Governing Body upon appeal by a party shall be limited to the
+    grounds relied upon in the petition request for review.
+
+  . The       County      Goveming       Body   may   affirm,    reverse      or modify        the     action    of the
+    Planning Commission and may approve or deny the request, or grant approval
+    subject to conditions necessary to carry out the Comprehensive Plan as provided by
+    Section 2.110(D).
+
+    1.      For all cases the Approving Authority shall make                  a decision       based        on findings
+            and conclusions from the record before it, as justification for its action.
+
+    2.      The Director shall send a notice of the Approving Authority's decision to all
+            parties to the matter and a copy of such decisions shall be filed in the records of
+            the Director.
+
+  . Only those members of the County Governing Body reviewing the entire record may
+    act      on    the   matter   reviewed.     The   agreement         of at   least    two     (2)    members       is
+
+                                                                                           mA:
+Chapter 2, Development Approval Procedures                                      2 0 G 9 vu 4 e          f
+December     16, 2009
+                                                                                                                 Page 2-19
+
+      necessary to amend,         reverse, or remand the action of the Planning Commission.
+      Upon failure of at least two (2)              members       to     agree,     the    decision     of the      prior
+      Approving Authority shall stand.
+
+SECTION       2.190       General Conduct of All Hearings;                  Legislative, Administrative or
+                          Quasi-Judicial
+
+The following rules apply to the general conduct of the hearing:
+
+A.    No person    shail be disorderly,      abusive,       or disruptive of the orderly conduct of the
+      hearing.
+
+B.    No person shall testify without first receiving recognition from the Approving Authority
+      and stating full name and address.
+
+C. No person shall present irrelevant, immaterial, or unduly repetitious testimony or
+   evidence. Formal rules of evidence as used in courts of law shall not apply. Evidence
+   received at any hearing shall be of the quality that reasonable persons rely upon in the
+   conduct of their everyday affairs.
+
+D. Audience demonstrations such as applause, cheering, and display of signs, or other
+     conduct disruptive of the hearing shall not be permitted.
+
+E. The person in charge of the decision making body shall have the authority, at such
+   person's discretion, to inform, reprimand, or remove any person or persons for
+   violations of the above rules of conduct. Violations of the above rules of conduct shall
+   further be grounds for the immediate suspension of the hearing.
+
+SECTION 2.200 Additional Hearing Notification Requirements
+
+A.   Notice
+
+     1.   Notice   of a     legislative   hearing    will    be   sent     to     public    agencies      and      local
+          jurisdictions (including those providing transportation facilities and services) that
+          may be impacted by the proposed action. Affected agencies and jurisdictions
+          could include the Department of Environmental Quality, the Oregon Department
+          of Aviation, cities within Wasco County, and neighboring jurisdictions.
+
+     2.   Notice of a iegislative or quasi-judicial hearing for any proposal that includes a
+          new transportation facility or improvement, and where these facilities or
+          improvements include or may impact a collector or arterial street, will be sent to
+          the Oregon Department of Transportation and any special interest transportation
+
+                                                                                     20000434
+                                                                         Chapter 2, Development Approval Procedures
+                                                                                                      December 16, 2009
+Page 2-20
+
+            groups    as   appropriate.      Special   interest   transportation   groups   could      include
+            trucking organizations, bicycle and pedestrian interest groups, and public transit
+            providers.   Information that should be conveyed with the notice includes the
+            following:
+
+            a.   Project location
+
+            b. Proposed land use action
+
+            c.   Location of project access point(s)
+
+Chapter 2, Development Approval Procedures                                     9 0 G 9 5 4
+                                                                                             Qt
+                                                                                                  [a
+
+December 16, 2009
+                       DETAILED TABLE OF CONTENTS
+                   CHAPTER 4 SUPPLEMENTAL   PROVISIONS
+
+SECTION   TITLE                                                     PAGE
+
+4.010     AUTHORIZATION OF SIMILAR USES                             4-1
+4.020     EXCEPTIONS                                                4-1
+4.030     IMPACT REVIEW                                             4-1
+4.040     EXEMPTIONS                                                4-1
+4.050     MAINTENANCE OF OPEN SPACE                                 4-2
+4.060     GENERAL EXCEPTIONS TO YARD REQUIREMENTS                   4-2
+4.070     GENERAL EXCEPTIONS TO BUILDING HEIGHT                     4-2
+          REQUIREMENTS
+4.080     PROJECTIONS INTO YARDS                                    4-2
+4.090     VISION CLEARANCE                                          4-3
+4.100     FENCES                                                    4-3
+4.110     THROUGH    LOTS                                           4-3
+4. 120    EXTERIOR FINISHING OF MOBILE HOMES                        4-4
+4.130     DEVELOPMENT STANDARDS      FOR GUEST HOUSES               4-4
+4.140     TRAFFIC IMPACT ANALYSIS                                   4-5
+
+                                            20000454 #
+                                              Chapter 4 — Supplemental Provisions
+                                                               December   16, 2009
+                                                                                                              Page 4-1
+
+                          CHAPTER 4         SUPPLEMENTAL PROVISIONS
+
+SECTION 4.010 Authorization of Similar Uses
+The Director may permit in a particular zone a use not listed in this Ordinance, provided
+the use is of the same general type as the uses permitted there by this Ordinance. The
+decision of the Director may be reviewed by the Planning Commission on its own motion
+or appealed to the Commission pursuant to Section 2.060 (C10) of this Ordinance.
+Notice of Administrative Action shall be given as prescribed by Section 2.080(A) of this
+ordinance.      Notice of a final decision shall be given as prescribed in Section 2.120(A) and
+(B).
+
+SECTION 4.020 Exceptions
+The Director of Planning shall be authorized to grant exceptions to the provisions of this
+Ordinance to any government agency that requests in writing an exception to a specific
+requirement or procedure; provided that the following circumstances exist:
+
+A. The proposed use is consistent with the purpose and intent of the Comprehensive
+   Plan and the Land Use and Development Ordinance; and,
+
+B. The proposed use would serve an immediate public need; and,
+
+C. There is inadequate time available for a review of the use through normal procedures,
+       and delays would impair project implementation or pose hazards to property or public
+       health, safety or welfare.
+
+SECTION 4.030          Impact Review
+To     ensure   that   adequate     information    is available   to determine      potential        conflicts       or
+detrimental effects, the Director of Planning may require the submission of an impact
+assessment, upon forms prescribed by the Director, before an exception shall be granted.
+
+SECTION 4.040          Exemptions
+Nothing in this Ordinance shall be deemed to apply to the construction, reconstruction, or
+alteration by a government agency of road or highway systems, or to the use of materials
+or sources within rights-of-way.         In addition, maintenance rehabilitation, repair and minor
+betterment activities, not considered to have land use impacts, by               a governmental agency
+on public property or facilities, shall also be exempt from the provisions of this Ordinance.
+ Public works projects or land uses, authorized or approved by the County Governing
+Body and determined by the Director to be consistent with the long-term objectives of the
+Comprehensive Plan, shall be exempt from the current provisions of this Ordinance.
+
+                                                    BORA
+                                                       rd                  Chapterpter 4,4, Supplemental
+                                                                                                Supl       | Provisions
+                                                                                                                 Provisi
+                                                  2060    454                                        December 16, 2009
+Page 4-2
+
+SECTION 4.050 Maintenance of Open Space
+No lot area, yard, or other open space existing on or after the effective date of this
+Ordinance shall be reduced below the minimum required for it by this Ordinance, and no
+lot area, yard, off-street parking and loading area or other open space which is required
+by this Ordinance for one use shall be used as the required lot area, yard or other open
+space for another use. This section does not apply to area requirements reduced below
+the minimum as a               result of the creation of cemetery lots.     Any required yard shall not
+include any land dedicated, reserved or set aside for road, highway, street or other public
+purposes except as provided in this Ordinance.
+
+SECTION 4.060 General Exceptions to Yard Requirements
+The following exception to yard requirements is authorized for a lot in any zone:
+
+if there are buildings on both abutting lots which are within one hundred (100) feet of the
+intervening lot, and the buildings have front yards of less than the required depth for the
+zone, the depth of the front yard for the intervening lot need not exceed the average
+depth of the front yards of the abutting yards.
+
+SECTION 4.070 General Exceptions to Building Height Requirements
+Necessary roof structures housing elevators, stairways, tanks, fans and ventilators and
+towers, steeples, flagpoles, smokestacks, silos, grain elevators, energy facilities and
+commercial energy facilities, water tanks and skylights and fire or parapet walls may be
+erected above the height limits of the zone in which they are located provided no usable
+floor space is provided in such structures above the required height limits.                     Transmission
+towers over 200 feet in height require a Conditional Use Penmit.
+
+SECTION 4.080            Projections Into Yards
+Every part of a required yard shall be open from the ground to the sky unobstructed
+except for the following:
+
+A. Accessory buildings where permitted.
+
+B. Ordinary         building     projections such   as cornices,   eaves,   belt courses,        sills or similar
+     architectural features may project into required side yards not more than eighteen (18)
+     inches or into front and rear yards not more than twenty-four (24) inches.
+
+C. Chimneys may project into any required yard not more than eighteen (18) inches.
+
+D.   Uncovered balconies or fire escapes may project into any required yard not more than
+     three (3) feet.
+
+Chapter 4, Supplemental Provisions
+December 16, 2009                                                       2069645              4
+                                                                                  c >
+
+                                                                                        &T
+                                                                                                       Page 4-3
+
+E.     Uncovered terraces, decks or platforms may project or extend into a required setback
+     not more than five (5) feet. Such terraces, decks or platforms including guardrails or
+     fencing shall not extend thirty (30) inches above grade or ground level.
+
+SECTION 4.090 Vision Clearance
+A vision clearance area shall be maintained on                the    comers     of all property        at the
+intersection of two streets or a street and a railroad.
+
+A. A        vision clearance area shall consist of a triangular area, two sides of which are lot
+     lines measured from the comer intersection of the street lot lines for a distance
+     specified in the appropriate zone, or, where the lot lines have rounded comers, the lot
+     lines extended in a straight line to a point of intersection and so measured, and the
+     third side of which is a line across the comer of the lot joining the non-intersecting
+     ends of the other two sides.
+
+B. A vision clearance area shall contain no planting, fence, wall, structure, or temporary
+     or permanent obstruction exceeding two and one-half (2 1/2) feet in height, measured
+     from the top of the curb or, where no curb exists, from the established street center
+       line grade,    except that trees exceeding      this height    may     be located      in this area
+       removed to a height of eight (8) feet above the grade.
+
+C. The following measurements shail establish vision areas:
+
+       1.    In an agricultural or residential zone, the minimum distance shall be thirty (30) feet,
+             or, at intersections including an alley, ten (10) feet.
+
+     2.      In all other zones where yards are required, the minimum distance shall be fifteen
+             (15) feet or, at intersections including alley, ten (10) feet, except that when               the
+             angle of intersection between streets, other than an alley, is less than thirty (30)
+             degrees, the distance shall be twenty-five (25) feet.
+
+SECTION 4.100           Fences
+No fence shall exceed six (6) feet in height or two and one-half (2 1/2) feet in a vision
+clearance area. Game fences designed to protect agricultural crops from game animals
+shall be included in the definition of fence (protective), however, they are exempt from the
+height limit.
+
+SECTION 4.110           Through Lots
+
+A.   On through lots one hundred fifty (150) feet or less in depth, the height of a building
+     may be that permitted on either street on which the lot faces.
+
+                                                                            Chapter 4, Supplemental Provisions
+                                                                                            December   16, 2009
+Page 4-4
+
+B. On through lots more than one hundred fifty (150) feet in depth, the height regulations
+     for the greater height shall not extend more than one hundred fifty (150) feet from that
+     street.
+
+C. Through lots having a frontage on two streets shall provide the required front yard on
+   each street.
+
+SECTION 4.120          Exterior Finishing of Mobile Homes
+
+A. All mobile homes located on any lot or parcel in Wasco County shall be skirted with
+   fire-proof, non-decaying and non-corroding materials or shall be provided with a
+   cement or concrete block exterior foundation. If metal skirting is employed, it shall be
+     painted and formed in a pattern complementary to the siding of the mobile home.
+
+B. All awnings carports, ramadas, cabanas, and garages shall be painted and designed
+     in a style complementary to the design of the mobile home.
+
+C. Wheels shall be removed from all mobile homes at the time of installation on property.
+     In addition, tongues, and hitches shall be removed from all mobile homes wider than
+     ten (10) feet that are installed on any parcel of land, exclusive of licensed mobile
+     home parks. The Director of Planning may exempt certain mobile homes from the last
+     requirement when removal would damage the frame and weaken the structure.
+
+SECTION 4.130 Development Standards for Guest Houses (Added 1-92)
+A guest house may be allowed as listed in specific zones (“F-F’, “R-R’, “R-R(10)”, “A-R’,
+“R-1”, “R-2”, “R-3”, “R-4”, and “R-C”) on a legally created jot or parcel on which a primary
+dwelling is situated, subject to the setback requirements of the underlying district, and the
+provisions of this section;
+
+A.   Only one (1) guest house shall be allowed on a lot-of-record.
+
+B. The maximum           floor area of a guest house, including all levels and basement floor
+     areas shall not exceed          six-hundred (600) square feet.    Garage area shall not count
+     toward the total floor area.
+
+C. A guest house shall be located within one-hundred (100) feet of the primary dwelling
+   on the subject lot-of-record. This distance shall be measured from the closest portion
+     of each structure.
+
+D. Occupants of a guest house and the primary dwelling shall live together as one house
+   keeping unit, sharing one kitchen and one laundry facility, to be located in the primary
+
+Chapter 4, Supplemental Provisions                                2
+                                                                       Fate]
+                                                                      c>
+
+                                                                               cD
+                                                                                    pu
+                                                                                         wi
+                                                                               >
+
+December 16, 2009
+                                                                                          [<
+                                                                                                              Page 4-5
+
+     dwelling. A guest house shall be permitted one (1) bathroom, but not a refrigerator or
+     freezer, range/stove/oven, or other cooking appliances.
+
+E. All public water, electricity, natural gas and sewer services for the guest house shall
+   be extended from the primary dwelling service. No separate meters for the guest
+     house shall    be   allowed.      A separate       telephone       line for the guest          house    may   be
+     provided.
+
+F.   A guest house shall use the same septic system as the primary dwelling.                                Approval
+     from the County Sanitarian shall be required.
+
+SECTION 4.140        Traffic Impact Analysis (TIA)
+
+A.   Purpose - The purpose of this section of the code is to implement Section 660-
+     012-0045 (2) (e) of the State Transportation Planning Rule that requires the County
+     to adopt    a process     to apply conditions            to development           proposals      in order to
+     minimize    adverse     impacts    to   and   protect         transportation     facilities.   This    section
+     establishes the standards for when a proposal must be reviewed for potential traffic
+     impacts; when a Traffic Impact Analysis must be submitted with a development
+     application in order to determine whether conditions are needed to minimize
+     impacts to and protect transportation facilities; what must be in a Traffic Impact
+     Analysis; and who is qualified to prepare the Study.
+
+B.   Typical Average Daily Trips - The latest edition of the Trip Generation Report,
+     published by the Institute of Transportation Engineers (ITE), or a source deemed
+     acceptable to the City Engineer through the pre-application process (Section
+     4.140(D)(.3)) shall be used to gauge the trip generation potential of future
+     development.
+
+C.   When Required - A Traffic Impact Analysis shall be required to be submitted to the
+     County with a land use application when the following conditions apply:
+
+     1.   The development application involves one or more of the following actions:
+
+          a.   A change in zoning or a plan amendment designation; or
+
+          b.   Any proposed development or land use action that ODOT states may result
+               in operational or safety concems along a state highway; and
+
+          c.   The development shall cause one or more of the following effects, which
+               can be determined by field counts, site observation, traffic impact analysis
+               or study, field measurements, crash history, Institute of Transportation
+               Engineers Trip Generation manual; and information and studies provided
+
+                                                                                    Chapter 4, Supplemental Provisions
+                                                                                                     December 16, 2009
+                                        200964                ‘4
+                                                   oo
+
+                                                         q1
+Page 4-6
+
+                by the local reviewing jurisdiction and/or ODOT:
+
+                (1) An increase in site traffic volume generation by 200 Average                    Daily Trips
+                      (ADT) or more (or as required by the Wasco County Roadmaster); or
+
+                (2) An       increase    in intersection    traffic volume    by 50 Average        Daily Trips
+                      (ADT) or more (or as required by the Wasco County Roadmaster); or
+
+                (3) An increase in use of adjacent roads by vehicles exceeding the 20,000
+                      pound gross vehicle weights by 10 vehicles or more per day; or
+
+                (4) The location of the access driveway does not meet minimum intersection
+                    sight distance requirements, or is located where vehicles entering or
+                    leaving the property are restricted, or such vehicles queue or hesitate on
+                      the adjacent roadway, creating a safety hazard; or
+
+                (5) The location of the access driveway does not meet the access spacing
+                    standard of the roadway on which the driveway is located; or
+
+                (6) A change        in internal traffic patterns that may cause              safety problems,
+                      such     as back    up onto the      roadway   or traffic crashes      in the approach
+                      area.
+
+D. Traffic Impact Analysis Requirements
+
+     1.    Preparation - A Traffic Impact Analysis shall be prepared by a professional
+           engineer. The traffic analysis will be paid for by the applicant.
+
+           Transportation Planning Rule Compliance                   - See Section 9.059 Transportation
+           Planning Rule Compliance.
+
+            Pre-application Conference - The applicant will meet with the County
+           Roadmaster prior to submitting an application that requires a Traffic Impact
+           Analysis. ODOT will be invited to participate in the pre-application conference if
+           a proposal is expected to have impacts to a state transportation facility. The
+           objective of this meeting is to prepare a scope of the TIA, including the required
+           elements of the TIA and the level of analysis expected.
+
+E. Approval Criteria
+
+     1.    Criteria - When a Traffic Impact Analysis is required, approval                              of   the
+           development proposal requires satisfaction of the following criteria:
+
+           a.   The      Traffic   Impact    Analysis      was   prepared    by   a   registered   professional
+
+Chapter 4, Supplemental Provisions                                            &       AM
+December 16, 2009                                                       20695          45 ‘¢
+                                                                                                       Page 4-7
+
+               engineer in the State or Oregon; and
+
+          b.   If the      proposed   development   shall   cause   one   or more     of the    effects    in
+               Section C(1)(c), above, or other traffic hazard or negative impact to a
+               transportation facility, the Traffic Impact Analysis includes mitigation
+               measures that meet County's volume-to-capacity ratio of 0.85 and
+               satisfactory to the County Road Master, and ODOT when applicable; and
+
+          c. The proposed site design and traffic and circulation design and facilities, for
+             all transportation modes, including any mitigation measures, are designed
+               to:
+
+               (1) Have the least negative impact on all applicable transportation facilities;
+                     and
+
+               (2) Accommodate       and encourage non-motorized                vehicular      modes       of
+                   transportation to the extent practicable; and
+
+               (3) Make the most efficient use of land and public facilities as practicable;
+                   and
+
+               (4) Provide the most direct, safe and convenient routes practicable between
+                   on-site destinations, and between on-site and off-site destinations; and
+
+               (5) Otherwise comply with applicable          requirements     of the Wasco          County
+                   Land Development Ordinance.
+
+F.   Conditions of Approval.          The County may deny, approve, or approve the proposal
+     with appropriate conditions.
+
+     1.   Dedication of land for streets/roadways, transit facilities, sidewalks, bikeways,
+          paths, or accessways shall be required where the existing transportation system
+          will be impacted by or is inadequate to handle the additional burden caused by
+          the proposed        use.
+
+     2. Improvements such as paving, curbing, installation or contribution to traffic
+        signals, construction of sidewalks,  bikeways,     accessways,    paths,   or
+          streets/roadways that serve the proposed use where the existing transportation
+          system may be burdened by the proposed use may be required.
+
+                                                                            Chapter 4, Supplemental Provisions
+                                         2 0 C 9 o 4 y ‘€                                   December 16, 2009
+                       DETAILED TABLE OF CONTENTS
+                    CHAPTER 5 CONDITIONAL USE REVIEW
+
+SECTION   TITLE                                                    PAGE
+
+5.010     PURPOSE                                                  5-1
+5.020     AUTHORIZATION TO GRANT OR DENY                           5-1
+          CONDITIONAL USES, AND STANDARDS
+          AND CRITERIA USED
+5.030     CONDITIONS                                               5-2
+5.040     REVOCATION OF CONDITIONAL USE PERMIT                     5-3
+5.050     PRE-EXISTING USES CLASSIFIED AS                          5-3
+          CONDITIONAL USES IN THIS ORDINANCE
+5.060     CRITERIA FOR CERTAIN TRANSPORTATION                      5-4
+          FACILITIES AND IMPROVEMENTS
+
+                           2 Q r 9 n 4 9 ‘€    Chapter 5, Conditional Use Review
+                                                              December 16, 2009
+                                                                                                                Page 5-1
+
+                         CHAPTER 5         CONDITIONAL USE REVIEW
+
+SECTION 5.010       Purpose
+A conditional use is an activity which is basically similar to the uses permitted in a
+particular zone but which may not be entirely compatible with the permitted uses.
+Therefore, a conditional use must be approved through the Administrative Action
+procedure to ensure that the use is compatible with the permitted uses in a zone and
+consistent with the general and specific purposes of this Ordinance and the Wasco
+County Comprehensive Plan. Conditions of approval may be imposed to ensure that any
+use may be made compatible with surrounding uses and that non-resource uses
+permitted in resource areas do not interfere with accepted resource management
+practices.
+
+SECTION       5.020 Authorization to Grant_or             Deny     Conditional       Uses,    and Standards
+                  and Criteria Used
+Conditional uses listed in this Ordinance shall be permitted, enlarged or otherwise altered
+or denied upon authorization by Administrative Action in accordance with the procedures
+set forth in Chapter 2 of this Ordinance.   In judging whether or not a conditional use
+proposal shall be approved or denied, the Administrative Authority shall weigh the
+proposal's appropriateness and desirability or the public convenience or necessity to be
+served against any adverse conditions that would result from authorizing the particular
+development     at the   location   proposed,       and   to approve      such      use,   shall         find that the
+following criteria are either met, can be met by observance of conditions, or are not
+applicable.
+
+A. The proposal is consistent with the goals and objectives of the Comprehensive                                    Plan
+   and implementing Ordinances of the County.
+
+B. Taking     into accourit   location,   size,     design   and      operational     characteristics           of the
+   proposed use, the proposal is compatible with the surrounding area and development
+   of abutting properties by outright permitted uses.
+
+C. The proposed use will not exceed or significantly burden public facilities and services
+   available to the area, including, but not limited to: roads, fire and police protection,
+   sewer and water facilities, telephone and electrical service, or solid waste disposal
+   facilities.
+
+D. The proposed use will not unduly impair traffic flow or safety in the area.
+
+E. The effects of noise, dust and odor will be minimized during                                    all     phases     of
+   development and operation for the protection of adjoining properties.
+
+                                                  ARO         AR YG              Chapter 5, Conditional Use Review
+                                            2 u         9) U 4 vt                                   December
+                                                                                                           16, 2009
+  Page 5-2
+
+  F. The proposed use will not significantly reduce or impair sensitive wildlife habitat,
+     riparian vegetation along streambanks and will not subject areas to excessive soil
+        erosion.
+
+    . The proposed         use will not adversely affect the air, water, or land resource quality of
+      the area.
+
+        The   location and design of the site and structures for the proposed                           use will not
+        significantly detract from the visual character of the area.
+
+        The proposal will preserve areas of historic value, natural or cultural significance,
+        including archaeological sites, or assets of particular interest to the community.
+
+    . The proposed         use will not significantly increase the cost of accepted farm or forest
+        practices on surrounding          lands devoted      to or available for farm           and      forest use.
+        (Revised 1-92)
+
+        The   proposed      use   will not force    a significant    change    in accepted        farm     or forest
+        practices     on   surrounding     lands   devoted   to or available       for farm       or forest     use.
+        (Revised 1-92)
+
+  SECTION 5.030 Conditions
+  Such reasonable conditions as are necessary to ensure the compatibility of a conditional
+  use to surrounding permitted uses as are necessary to fulfill the general and specific
+  purposes of this Ordinance may be imposed in approving an application, pursuant to
+  Section 2.110(D). Such conditions may include, but are not limited to, the following:
+
+  A. Limiting the manner in which the use is conducted including restricting the time an
+        activity may take place and restraints to minimize such environmental effects as noise,
+        vibration, air pollution, glare, and odor.
+
+        Establishing a special yard or other open space or lot area or dimension.
+moo p
+
+        Limiting the height, size, or location of a building or other structure.
+
+        Designating the size, number, location, and nature of vehicle access points.
+
+        Increasing the amount of street dedication, roadway width or improvements within the
+        street right-of-way.
+
+        Limiting or otherwise         designating the number,        size, location,       height and     lighting of
+        signs.
+
+                                                                        gg             .
+  Chapter 5, Conditional Use Review                                 2 0 G 9 5 4 HY é
+  December 16, 2009                                                                    -
+                                                                                                    Page 5-3
+
+G. Limiting the location and intensity of outdoor lighting and requiring its shielding.
+
+H.   Requiring   diking,   screening,     landscaping    or another   facility to protect adjacent        or
+     nearby property and designating standards for its installation and maintenance.
+
+I.   Designating the size, height, location and materials for a fence.
+
+J.   Protecting and preserving existing trees, vegetation, water resources, wildlife habitat
+     or other significant natural, historic, or cultural resources.
+
+K. Other conditions to permit the development of the County in conformity with the intent
+     and purpose of the conditional classification of uses.
+
+SECTION 5.040        Revocation of Conditional Use Permit             (added 2-89)
+Noncompliance with any condition placed on a conditional use permit shall be grounds for
+revocation of the permit.       Revocation of a conditional use permit shall be considered                 a
+land use action and reviewed by the Planning Commission.                  The following procedures
+shall be completed at least twenty (20) days prior to the date of the revocation hearing:
+(Revised 1-92)
+
+A. A notice of violation pursuant to Section 15.090               shall be sent to the owner of the
+   property on which the conditional use takes place.
+
+B. Notice of public hearing pursuant to Section 2.080 shall be sent.
+
+     The opportunity for review of the Planning Commission decision, pursuant to Section
+     2.170 shall be available.
+
+SECTION 5.050 Pre-existing Uses Classified as Conditional Uses in this Ordinance.
+A use or structure existing prior to the affective date of this ordinance and classified in this
+ordinance as a conditional use in subject to the following restrictions:
+
+A. The use may continue as this ordinance defines and allows as though it had been
+     granted conditional use approval.    Any change or alteration to structures or area
+     related to the pre-existing use shall conform to the development standards of the
+     current zoning designation.        (Revised 1-92)
+
+B. If the use or structure is destroyed by fire, other casualty or natural disaster,
+   restoration or replacement shall be permitted, provided restoration or replacement is
+   commenced within one year from the occurrence of fire, casualty, or natural disaster.
+   Restoration shall substantially conform to the use as it existed prior to the fire,
+   casualty, or natural disaster. Beyond one year, a conditional use permit must be
+
+                                                             me            Chapter 5, Conditional Use Review
+                                              9G% O6 4oe                                  December 16, 2009
+Page 5-4
+
+     obtained,      as     required   by     Chapter   2 of this      ordinance,     prior to          restoration   or
+     replacement.
+
+SECTION 5.060 Criteria for Certain Transportation Facilities and Improvements.
+
+A.   Construction,         reconstruction,     or   widening    of   highways,     roads,        bridges     or   other
+     transportation facilities that are (1) not designated in the adopted Wasco County
+     Transportation System Plan (“TSP”) or (2) not designed and constructed as part of an
+     approved, active, development order are allowed in all zoning districts subject to the
+     Conditional Use Review provisions of this ordinance and satisfaction of all of the
+     following criteria:
+
+     1.    The project and its design are consistent with the County's adopted TSP and
+           consistent with the State Transportation Planning Rule, OAR 660-012 (‘the
+           TPR’).
+
+     2.    The project design is compatible with abutting land uses in regard to noise
+           generation and public safety and is consistent with the applicable zoning and
+           development standards and criteria for the abutting properties.
+
+     3.    The project design minimizes environmental impacts to identified wetlands,
+           wildlife habitat, air and water quality, cultural resources, and scenic qualities,
+           and a site with fewer environmental impacts is not reasonably available.
+
+     4.    The project preserves or improves the safety and function of the facility through
+           access management, traffic calming, or other design features.
+
+     5.    The project includes provisions for bicycle and pedestrian access and circulation
+           consistent with the comprehensive plan, the requirements of this ordinance, and
+           the TSP.
+
+B.   State transportation system facility or improvement projects.                 The Oregon Department
+     of Transportation (“ODOT”) shall provide a narrative statement with the application
+     demonstrating compliance with all of the criteria and standards in this Section. Where
+     applicable, an Environmental Impact Statement or Environmental Assessment may
+     be used to address one or more of these criteria.
+
+C.   Proposal inconsistent with TSP/TPR.                  If the County determines that the proposed use
+     or activity or its design is inconsistent with the TSP or TPR, then the applicant shall
+     apply for and obtain a plan and/or zoning amendment prior to or in conjunction with
+     conditional     use     permit   approval.     The     applicant shall choose      one           of the following
+     options:
+                                                                                            ot
+                                                                             lowe]
+
+                                                                             ho
+                                                                             i)
+                                                                             o>
+                                                                             o>
+
+                                                                                                 jx
+                                                                         a
+
+Chapter 5, Conditional Use Review
+December 16, 2009
+                                                                                                 Page 5-5
+
+. If the County's determination of inconsistency is made prior to a final decision on
+  the conditional use permit application, the applicant shall withdraw the conditional
+  use application; or
+
+. If the County's determination of inconsistency is made prior to a final decision on
+  the conditional use permit application, the applicant shall withdraw the conditional
+  permit application, apply for a plan/zone amendment, and re-apply for a
+  conditional use permit if and when the amendment is approved; or
+
+. If the County's determination of inconsistency is made prior to a final decision on
+  the conditional use permit application, the applicant shall submit a plan/zoning
+  amendment application for joint review and decision with the conditional use permit
+  application, along with a written waiver of the ORS 215.429 120/150-day period
+  within which to complete    all local reviews          and   appeals    once    the application      is
+  deemed complete; or
+
+. If the County's determination of inconsistency is part of a final decision on the
+  conditional use permit application, the applicant shall submit              a new conditional use
+  permit application, along with a plan/zoning amendment application for joint review
+  and decision.
+                                                     er
+                                                    Hm
+                                            Lo)
+                                            jote)
+
+                                                    co
+                                       cS
+
+                                                           =
+                                  ~e
+
+                                                                         Chapter 5, Conditional Use Review
+                                                                                         December 16, 2009
+                           DETAILED TABLE OF CONTENTS
+          CHAPTER 9 ZONE CHANGE AND ORDINANCE AMENDMENT
+
+SECTION   TITLE                                                             PAGE
+
+9.010     APPLICATION FOR ZONE CHANGE                                       9-1
+9.020     CRITERIA FOR DECISION                                            9-1
+9.030     TRANSPORATION         PLANNING RULE COMPLIANCE                   9-1
+
+9.040     CONDITIONS RELATIVE TO THE APPROVAL                              9-3
+          OF A ZONE CHANGE
+9.050     AMENDMENTS TO THE ZONING ORDINANCE                               9-3
+9.060     RECOMMENDATION ON ZONE CHANGE OR                                 9-3
+          AMENDMENT TO THE LAND USE
+          AND DEVELOPMENT ORDINANCE
+9.070     NOTICE OF PLANNING COMMISSION                                    9-4
+          RECOMMEDATION
+9.080     ACTION BY COUNTY GOVERNING          BODY                         9-4
+
+                      APANARY,           Chapter 9, Zone Change and Ordinance Amendment
+                  2   Ue   vOGd54                                     December    16, 2009
+                                                                                                    Page 9-1
+
+              CHAPTER 9      ZONE CHANGE AND ORDINANCE AMENDMENT
+
+SECTION 9.010       Application for Zone Change
+Application for a zone change may be initiated as follows:
+
+A. By resolution of the County Governing Body referring to the Commission a proposal
+   therefore;
+
+B. By a majority vote of the Planning              Commission   confirmed     by the Wasco        County
+   Governing Body;
+
+C.   By application filed with the Director of Planning upon forms prescribed by the Director
+     of Planning and signed by a property owner with the area of the proposed change,
+     and containing such information as may be required by the to establish the criteria for
+     the change (quasi-judicial only);
+
+D. By request of the Director of Planning, limited to changes required to implement the
+     Comprehensive Plan or to eliminate spot zoning.
+
+SECTION 9.020       Criteria for Decision
+The Approving Authority may grant a zone change only if the following circumstances are
+found to exist:
+
+A. The original zoning was the product of a mistake; or
+
+B. it is established that:
+
+     1.   The rezoning will conform with the Comprehensive Plan; and,
+
+     2. The site is suitable to the proposed zone; and
+
+     3.   There has been a conscious consideration of the public health, safety and welfare
+          in applying the specific zoning regulations.
+
+SECTION 9.030 Transportation Planning Rule Compliance
+
+A.   Review of Applications for Effect on Transportation             Facilities   - A proposed zone
+     change or land use regulation change, whether initiated by the County or by a
+     private interest, shall be reviewed to determine whether it significantly affects a
+     transportation facility, in accordance with Oregon Administrative Rule (OAR) 660-
+     012-0060 (the Transportation Planning Rule — “TPR”).        “Significant” means the
+
+                                                           Chapter 9, Zone Change and Ordinance Amendment
+
+                              2060C               Moos                                    December 16, 2009
+                                            pnw
+
+                                                  ws
+Page 9-2
+
+    proposal would:
+
+     1. Change the functional classification of an existing or planned                               transportation
+        facility (exclusive of correction of map errors in an adopted plan);
+
+     2. Change standards implementing a functional classification system; or
+
+     3. As     measured       at    the   end    of    the    planning    period   identified   in    the     adopted
+           transportation system plan:
+
+              Allow land uses or levels of development that would result in types or levels
+              of travel or access that are inconsistent with the functional classification of an
+              existing or planned transportation facility;
+
+              Reduce    the        performance        of an    existing   or planned     transportation            facility
+              below the minimum           acceptable performance standard                identified in the TSP;
+              or
+
+              Worsen the performance of an existing or planned transportation facility that
+              is otherwise   projected   to perform     below  the  minimum     acceptable
+              performance standard identified in the TSP or comprehensive plan.
+
+    B. Amendments That Affect Transportation Facilities - Amendments to the land use
+           regulations that significantly affect a transportation facility shall ensure that
+           allowed land uses are consistent with the function, capacity, and level of service
+           of the facility identified in the TSP.               This shall be accomplished            by one or a
+           combination of the following:
+
+           1. Adopting measures that demonstrate allowed land uses are consistent with
+              the   planned    function,          capacity,       and     performance      standards           of      the
+              transportation facility.
+
+              Amending the TSP or comprehensive plan to provide transportation facilities,
+              improvements or services adequate to support the proposed                                     land     uses
+              consistent with the requirements of Section -0060 of the TPR.
+
+              Altering land use designations, densities, or design requirements to reduce
+              demand for vehicle travel and meet travel needs through other modes of
+              transportation.
+
+              Amending the TSP to modify the planned furiction, capacity or performance
+              standards of the transportation facility.
+
+Chapter 9, Zone Change and Ordinance Amendment
+December 16, 2009                                                                       2060         C4 a.
+                                                                                                       Page 9-3
+
+        C. Traffic Impact Analysis - A Traffic Impact Analysis shall be submitted with a zone
+           change application pursuant to Section 4.140 Traffic Impact Analysis (TIA))
+
+  SECTION 9.040 Conditions Relative to the Approval of a Zone Change
+  Reasonable conditions may be imposed, pursuant to Section 2.110(D) as are necessary
+  to insure the compatibility of a zone change to surrounding uses and as are necessary to
+  fulfill the general and specific purposes of this Ordinance. Such conditions may include,
+  but are not limited to, the following:
+
+  A.    Special yards and spaces;
+
+        Fences and walls;
+moo @
+
+        Special parking and/or loading provisions;
+
+        Street dedication and improvements or bonds in lieu of improvements;
+
+        Control of points of vehicular ingress and egress;
+
+        Special provisions for signs;
+ m
+
+  G. Lighting, landscaping and maintenance of grounds;
+
+  H. Control of noise, vibration, odors, or other similar nuisances.
+
+  SECTION 9.050 Amendments to the Zoning Ordinance
+  Amendments to this Ordinance may be initiated as follows:
+
+  A. By resolution of the County Goverming Body referring a proposed amendment to the
+        Planning Commission for its consideration, report and recommendations;
+
+  B.    By a majority vote    of the    Planning   Commission     confirmed     by the Wasco         County
+        Goverming Body;
+
+  C.    By request of the Director of Planning           or the   District   Attorney   to    conform     the
+        Ordinance to changes in the State Law;
+
+  SECTION 9.060             Recommendation         on Zone Change or Amendment to the Land
+                       Use and Development Ordinance
+  After hearing, the Approving Authority shall recommend            that the proposed zone change
+  or amendment to the Zoning Ordinance be granted or denied.                  The Director of Planning
+
+                                                             Chapter 9, Zone Change and Ordinance Amendment
+                                              nA    ma                                       December 16, 2009
+                                              qe
+Page 9-4
+
+or his assistants shall reduce to writing the Commission's recommendations together with
+a bref statement of the facts and reasons upon which such recommendation is based.
+
+SECTION 9.070        Notice of Planning Commission Recommendation
+Within ten (10) days of the final Planning Commission hearing, the Director of Planning or
+his assistants shall give notice thereof to any persons who signed in and testified at the
+hearing and to such other persons as may have requested the same in wniting.
+
+SECTION 9.080 Action by County Governing Body
+Upon receipt of the Commission report, the County Goveming Body shall take such
+action as may appear appropriate to that body, or as it feels the public interest requires,
+provided that in no event shall the County Goveming Body act until at feast twenty (20)
+days after the Notice of Planning Commission Recommendation has been mailed.
+
+                                                                              OA      Awe
+Chapter 9, Zone Change and Ordinance Amendment                     2   0 +f   9   U   4   ed
+December 16, 2009
+                  DETAILED TABLE OF CONTENTS
+          CHAPTER 18    PLANNED UNIT DEVELOPMENT (PUD)
+
+SECTION   TITLE                                                      PAGE
+
+18.010    PURPOSE                                                    18-1
+18.020    DEFINITIONS                                                18-1
+18.030    APPLICATION OF PUD DISTRICT                                18-2
+18.040    CRITERIA FOR ZONE CHANGE TO APPLY                          18-2
+           PUD DISTRICT
+18.050    PUD PRELIMINARY DEVELOPMENT PLAN                           18-3
+          APPROVAL
+18.060    DEVELOPMENT STANDARDS FOR PRELIMINARY                      18-5
+          DEVELOPMENT PLAN
+18.070    MINIMUM SITE SIZE                                          18-6
+18.080    PERMITTED USES                                             18-6
+18.090    RESIDENTIAL DENSITY                                        18-7
+18.100    BUILDING SPACING                                           18-8
+18.110    OPEN SPACE                                                 18-8
+18.120    ENVIRONMENTAL DESIGN                                       18-10
+18.130    TRAFFIC CIRCULATION                                        18-11
+18.140    PERIMETER DESIGN                                           18-11
+18.150    DEVELOPMENT PHASING                                        18-12
+18.160    DURATION OF PUD PRELIMINARY DEVELOPMENT                    18-12
+          PLAN APPROVAL
+18.180    PUD FINAL DEVELOPMENT PLAN APPROVAL                        18-13
+18.190    EXPIRATION OF FINAL DEVELOPMENT                            18-15
+          PLAN APPROVAL
+18.200    AMENDMENTS TO APPROVED       PRELIMINARY AND               18-15
+          FINAL DEVELOPMENT PLANS
+18.210    GRANTING OF EXTENSIONS                                     18-16
+
+                                              Chapter 18, Planned Unit Development
+                                  at                             December 16, 2009
+                          9OG0CEL?
+                                                                                                                   Page 18-1
+
+                      CHAPTER 18               PLANNED       UNIT DEVELOPMENT (PUD)
+
+SECTION 18.010              Purpose
+The    purposes       of the    Planned        Unit Development          District are to provide          a means         of
+creating harmonious planned environments through the application of flexible and
+diversified land development standards; to encourage the application of new
+development techniques and technology which will result in superior living or
+development          arrangements;        to promote         the    efficient   use    of land     to facilitate     more
+economic provision of housing, circulation systems, utilities and their maintenance; to
+promote energy conservation and use of renewable energy resources; to preserve to
+the greatest extent possible significant landscape features and to utilize such features
+in a harmonious fashion; and to provide for more usable and suitably located open
+space and recreation facilities than would otherwise be provided under conventional
+land development procedures.
+
+SECTION 18.020 Definitions
+The following definitions apply only to this chapter:
+
+Gross Acreage: The acreage of the entire PUD, less the acreage devoted to streets,
+public or semi-public buildings, kindergarten or day-care centers, and commercial uses.
+
+Homeowners’ Association: A nonprofit corporation, membership in which is mandatory
+for owners of PUD residences, and which is responsible for maintaining common open
+space and private streets.
+
+Landscape Features: Natural features of the PUD site, including waterways, wetlands,
+rock outcroppings, forest areas and significant wildlife habitat areas.
+
+Net Acreage:         The acreage of the PUD devoted to residential use, including residential
+building sites, private open space and driveways.
+
+Open Space: Land not covered by buildings or structures, except minor recreational
+structures. Open Space does not include streets, driveways, parking lots, or loading
+areas. Landscaped roof areas devoted to recreational or leisure-time activities, freely
+accessible to residents, may be counted as open space at a value of fifty percent (50%)
+of actual roof area devoted to these uses.
+
+A. Common            Open      Space:          open     space      reserved     primarily     for the      leisure     and
+      recreational    use of all PUD            residents,      and owned       and    maintained      in common         by
+      them through a homeowner's association.
+
+B. Private Open          Space:         open    space     located immediately adjacent to an individual
+
+                                                                                      Chapter 18, Planned Unit Development
+                                                                                                         December 16, 2009
+                                                 20090451
+Page 18-2
+
+      dwelling             unit,    owned           and     maintained        by    the    owners     of the        dwelling    unit,   and
+      reserved exclusively for the use of the residents of the dwelling unit.
+
+C. Public Open Space: open space designed primarily for use by residents of a PUD,
+   dedicated in fee to a public agency, and maintained by the agency.
+
+SECTION               18.030        Application of PUD District
+
+A. The Planned Unit Development (PUD) District is an overlay which may be applied to
+   the following zoning classifications: FF, RR, AR, RC, R-1, R-2, R-3, R-4, RMH.
+
+B. In the case of a conflict between a provision of the underlying district and that of the
+      Planned Unit Development District, the provision of the PUD District shall apply.
+
+C. The PUD District may be applied through the Development Approval Process
+   subject to the provisions of Section 2.060(B) this Ordinance; provided that, if
+      initiated by the owner or contract purchaser of the subject property, or their
+      authorized representatives, application for a zone change to apply the PUD District
+      must           be    in conjunction                with   application        for PUD     preliminary          development         plan
+      approval.
+
+D. If the PUD District was applied as the result of the Development Approval Process
+   initiated by the owner or contract purchaser of the subject property, or by their
+      authorized representatives, in conjunction with an application for PUD preliminary
+      development plan approval, and subsequently the approved preliminary or final
+      development                  plan           becomes       void   as    provided       in Section        18.160(B)        or Section
+      18.190(B)              of this chapter;               the PUD         District will stand       until further Administrative
+      Action is taken.
+
+E. All development                          in the        PUD     District     requires      approval        of a    PUD       preliminary
+      development plan and final development plan as provided in this chapter.
+
+SECTION 18.040 Criteria for Zone Change to Apply PUD District
+The Approving Authority shall decide an application to apply the PUD District, initiated
+pursuant to Section 2.060(B) of this Ordinance, and shall approve the zone change if it
+finds:
+
+A. The criteria of Section 9.020 of Chapter 9 of this Ordinance have been met; and,
+
+B. Two or more of the following:
+
+      1.    The           subject     property            contains     significant        landscape     features       or open      space
+
+December 16,2009                                                                          20090451
+Chapter    18, PI:         d Unit         Dev l      t                                                   :
+                                                                                          Page 18-3
+
+        whose preservation requires planned unit development rather than conventional
+        lot-by-lot development;
+
+   2.   Pianned unit development of the subject property will promote increased energy
+        conservation or use of renewable energy resources;
+
+   3.   The subject property contains natural hazards, the avoidance of which requires
+        planned development of the property;
+
+   4.   Planned unit development of the subject property will produce more efficient use
+        of the land and provision of services than conventional lot-by-lot development.
+
+SECTION 18.050        PUD Preliminary Development Plan Approval
+Approval of   a PUD     preliminary development   plan is a development       request subject to
+Section 2.060(C) of this Ordinance.
+
+A. An application for PUD preliminary development            plan approval shall be initiated as
+   provided in Chapter 2 of this ordinance.
+
+B. The.PUD preliminary development plan shall consist of the following:
+
+   1.   Written documents
+
+           A legal description of the total site proposed for development, including a
+           statement of present and proposed ownership and present and proposed
+           zoning.
+
+           The names and addresses of all owners of adjacent property.
+
+           A statement of planning objectives to be achieved by the PUD through the
+           particular approach proposed by the applicant.      This statement should
+           include a description of the character of the proposed development and
+           adjacent areas, discussion of how the proposed development will relate to the
+           natural environment and significant landscape features of the site and
+           adjacent areas, and the rationale behind the assumptions and choices made
+           by the applicant.
+
+           A development       schedule indicating the approximate date when        construction
+           of the   PUD    or stages    of the   PUD   can    be   expected   to begin   and    be
+           completed.
+
+           A statement of the applicant's intentions with regard to the future selling or
+           leasing of all or portions of the PUD, such as land areas, dwelling units, etc.
+
+                                        ZOCBO4S A —— arene rennet ecomber 16,2009
+Page 18-4
+
+                 If common open space is to be deeded to a Homeowners’ Association,                      a
+                 declaration of covenants and restrictions that will govern the Association.
+
+                 Quantitative data for the following: total number and type of dwelling units;
+                 parcel sizes; proposed lot coverage of buildings and structures; approximate
+                 gross and net residential acreages; total amount of open space; amounts of
+                 private, common      and   public open    space; total area and types of
+                 non-residential construction; economic feasibility studies or market analysis
+                 where necessary.
+
+            h. Traffic Impact Analysis, pursuant to Section 4.140.
+
+     2.     Site Plan and Supporting Maps
+            A site plan and any maps necessary to show the major details of the proposed
+            PUD, containing the following minimum information:
+
+                 The existing site conditions, including contours at five (5) foot intervals, water
+                 courses, floodplains and other areas          subject to natural hazards,     significant
+                 landscape features, and forest cover.
+
+                 Proposed lot lines and layout design.
+
+                 The location and floor area size of all existing and proposed buildings,
+                 structures, and other improvements, including maximum heights, types of
+                 dwelling units, and non-residential structures, including commercial facilities.
+
+                 The location and size in acres or square feet of all areas to be conveyed,
+                 dedicated, or reserved as common or public open spaces or recreational
+                 areas, school sites, and similar public and semi-public uses.
+
+                 The existing and         proposed circulation system of arterial, collector, and local
+                 streets, including       off-street parking areas, service areas, loading areas, and
+                 major points of          access to public rights-of-way.      Notations of proposed
+                 ownership, public        or private, should be included where appropriate.
+
+                 The existing and proposed pedestrian circulation system, including its
+                 interrelationships with the vehicular circulation system indicating proposed
+                 treatments of points of conflict.
+
+             . The existing and proposed systems for providing sewage                   disposal,   water,
+               electricity, gas, fire protection and telephone services.
+
+            h. A general schematic landscape plan indicating the technique and materials to
+
+chapter   1, &   3008. Unit Development                                       9 0 C 9   0 4 5 1
+                                                                                                      Page 18-5
+
+           be used for private, common and public open spaces.
+
+           A preliminary subdivision or partition plan if the land is to be divided.
+
+           Information on land areas adjacent to the proposed PUD, including land
+           uses, zoning classifications, densities, circulating systems, public facilities,
+           and significant landscape features, to show the relationships between the
+           proposed development and the adjacent areas.
+
+           The proposed treatment of the perimeter of the PUD, including materials and
+           techniques to be used, such as screens, fences and walls.
+
+   3.   The Approving Authority shall decide on the PUD preliminary development plan
+        application as provided in Chapter 2 of this Ordinance; and shall approve the
+        preliminary development plan if it finds:
+
+           The proposed PUD is consistent with applicable Comprehensive Plan goals,
+           policies and map designations, and with the purpose set forth in Section
+           18.010 of this chapter.
+
+           The preliminary development plan meets the                      development        standards      of
+           Section 18.060 to Section 18.140 of this chapter.
+
+           If the     preliminary      development     plan     provides    for    phased     development,
+           pursuant     to   Section     18.150   of this     chapter,   that     each   phase    meets    the
+           standard of Section 18.150(C) and that the applicant has the capability to
+           obtain final development plan approval in the time limits imposed.
+
+           Exceptions from the standards of the underlying zone district or from the
+           quantitative requirements of Chapter 21 of this Ordinance are warranted by
+           amenities and other design features of the PUD furthering the purpose of
+           Section 18.010.
+
+           Any conditions or modifications imposed by the Approving Authority on the
+           preliminary development     plan   approval  are  necessary    to meet   the
+           requirements of Section 18.060 to Section 18.140, to further the purposes of
+           Section 18.010, or to comply with the Comprehensive Plan.
+
+SECTION 18.060 Development Standards for Preliminary Development Plan
+A PUD preliminary development plan must meet the Development Standards in Section
+18.070 through 18.140 of this Chapter.
+
+                                             99090454                      Chapter 18, Planned Unit Development
+                                                                                              December 16, 2009
+Page 18-6
+
+SECTION 18.070             Minimum Site Size
+The PUD site must be of such a size that at least four (4) dwelling units would be
+permitted by the underlying district.
+
+SECTION 18.080 Permitted Uses
+The following uses are permitted subject to the general standards of this chapter:
+
+A.   Residential Uses:
+
+     1.     Single-family dwellings or duplexes, and accessory buildings used as garages,
+            storerooms, woodsheds, hobby shops, laundries, playhouses, or similar and
+            related uses; provided, that there shall not be more than two buildings allowed as
+            accessory to any single-family dwelling or duplex and unattached structures shall
+            be located on the rear half of the lot.
+
+     2.     Multi-family dwellings,      including   townhouses,   row   houses,       apartments,             and
+            condominiums.
+
+B. Commercial Uses:
+   Retail commercial uses shall be permitted, except in the "FF" zone, if the Approving
+     Authority determines that they are designed to serve primarily the residents of the
+     PUD and their guests.     The Approving Authority may require that the applicant
+     submit     a market       analysis demonstrating    what the amount     of land           proposed         for
+     commercial use is needed for, and realistically can be supported in, commercial use
+     by the residents of the PUD and their guests.
+
+C. Other Uses:
+   If designed to serve primarily the residents of a PUD and their guests, the following
+   uses are permitted.     If designed to serve residents of adjacent areas as well, the
+   following uses may be permitted by the Approving Authority if it finds that such use
+   is consistent with the purposes of Section 18.010 of this Chapter and with the
+   underlying zone district.
+
+     1.     Public and semi-public buildings, including schools, churches,                             libraries,
+            community centers, fire stations, pump stations, and substations.
+
+     2.     Park, playground or golf course.
+
+     3.     Privately operated kindergartens or day nurseries.
+
+     4.     Home occupations.
+
+Chapter 18, Planned   Unit Development                                       2     0   C   9   0   4   5   4
+December 16, 2009
+                                                                                                  Page 18-7
+
+SECTION       18.090   Residential Density
+
+A. Basic Allowable Density:         Unless an increase in density is allowed by the Approving
+   Authority as provided in subsection (B) of this section, the number of dwelling units
+   shall not exceed the number that would be allowed on the gross acreage of the PUD
+   if dwelling units of same type were built at the minimum lot sizes specified by the
+   underlying zoning district. A preliminary development plan meets this standard if the
+   density ratio, computed     as provided in subsection (C) of this section, is less than or
+   equal to 1.00.
+
+ . The Approving Authority may permit an increase of up to twenty-five percent (25%)
+   in the allowable density if the proposed PUD is to be served by the community water
+   supply     and   sanitary sewer    systems,   and   the Approving     Authority finds that such
+   increase in density contributes to the purposes of Section 18.010, by providing one
+   or more of the following:
+
+        . Distinctiveness and excellence in design (up to five per cent (5%) increase).
+  =
+
+   2.     Additional common    open space, over that required by Section 18.110 (up to five
+          percent (5%) increase).
+
+   3.     Recreational amenities (up to five percent (5%) increase).
+
+   4.     Preservation of significant landscape features of the site, or avoidance of areas
+          with natural hazard site limitations, beyond what is required by Section 18.110
+          (up to five percent (5%) increase).
+
+   5.     Improvement of air, water or noise level qualities of the area (up to five percent
+          (5%) increase).
+
+   6.     Energy conservation or use of renewable energy resources (up to five percent
+          (5%) increase).
+
+   7.     Location of housing convenient to transportation facilities, commercial services,
+          employment opportunities, and      public facilities and services (up to five percent
+          (5%) increase).
+
+   A preliminary development          plan meets   such an increased         density standard        if the
+   Density Ratio, computed as provided in subsection (C) of this section, is less than or
+   equal to a number determined by increasing 1.00 by the percentage of the approved
+   density increase.
+
+                                       2 0 ¢ 9 0 4 i) 1                Chapter 18, Planned Unit Development
+                                                                                         December 16, 2009
+Page 18-8
+
+Cc. Density Ratio Computation:
+
+    1.      For each residential structure proposed on the preliminary PUD                                plan, determine
+            the minimum lot size specified for that structure by the underlying zone district.                                If
+            a proposed      residential      structure      is of a type   not   permitted       in the            underlying
+            district, for the purpose of calculating
+
+            Density Ratio, it will be assumed that the minimum                   lot size of such a structure is
+            that specified by the underlying district for a single-family dwelling multiplied by
+            the number of dwelling units in the structure.
+
+    2.      Add the specified minimum                lot sizes for all proposed      residential structures as
+            determined in (1) above.
+
+    3.      Divide this sum by the gross acreage of the proposed PUD.
+
+SECTION 18.100             Building Spacing
+
+A. A preliminary development plan shall provide for reasonable light, ventilation, and
+    visual and acoustic privacy for residences and other structures. Fences, insulation,
+    walks, barriers, and landscaping shall be used, as appropriate for the protection and
+    aesthetic enhancement of property and the privacy of its occupants, screening of
+    objectionable views, and reduction of noise. High-rise buildings shall be located
+    within a PUD in such a way as to avoid adverse impact on neighboring low-rise
+    buildings and          shall    not     invade    the   privacy   of the     occupants           of    such        low-rise
+    buildings.
+
+    If the Approving Authority determines that a preliminary development plan meets the
+    standards of subsection (A) of this section, it may waive the lot area, lot width, lot
+    coverage, setback and height requirements of the underlying zone district.
+
+    If the Approving Authority finds it necessary to meet the perimeter design standards
+    of Section        18.140,      it may    require a special setback from all or a portion of the
+    perimeter of the PUD.
+
+SECTION 18.110             Open Space
+
+A. At least sixty percent (60%) of the gross acreage of the PUD must be open space.
+    At least twenty-five percent (25%) of the total open space provided shall be private
+    and at least fifty percent (50%) of the total open space provided shall be common or
+    public. Not more than one-half of the common or public open space provided may
+
+Chapter 18, Planned   Unit Development                                               9   0   G   9    0    4   5   1
+December 16, 2009
+                                                                                                           Page 18-9
+
+  be areas covered with water.
+. Locations, shapes, sizes, and                 other    characteristics       of   open      spaces     shall     be
+ consistent with their proposed                uses and the purposes of the PUD.                       Unless the
+ Approving Authority requires
+
+ Otherwise to meet the Environmental Design Standards of Section 18.120, common
+ or public open space shall be distributed equitably throughout the PUD in relation to
+ the dwelling units of the residents they are intended to serve.
+
+. Open     spaces   shall     be    suitably    improved      for the      intended    use.      Open      spaces
+ containing    significant         landscape     features     may     be    left    unimproved     or    may       be
+ improved to assure protection of the features, subject to requirements imposed by
+ the Approving Authority pursuant to Section 18.120.
+
+. The development schedule required by Section 18.050(B)(1)(d) shall provide for
+  coordination of the improvement of open spaces with the construction of other
+  proposed site improvements.
+
+. The Approving Authority shall require that the applicant assure the permanence of
+  the common or public open space required by this section in one of the following
+ ways:
+
+ 1.   By conveying the open space to a public agency which will agree to maintain the
+      open space and any buildings, structures, or improvements which have been
+      placed on it; or
+
+ 2.   By   conveying        the    open    space    to    a   Homeowners’           Association,       subject      to
+      covenants running with the fand which restrict the common                            open space to the
+      uses specified in the final development plan, and which provide for the
+      maintenance of the common open space in a manner which assures its
+      continuing use for its intended purpose.
+
+. If the common      open         space    is to be deeded       to     a Homeowners’         Association, the
+ declaration of covenants            and    restrictions required       by Section      18.050(B)(1)(f) shall
+ include the following:
+
+ 1. The Homeowners’ Association must be set up before the homes are sold.                                        Prior
+      to such sale, the property owner assumes the responsibility of that                                    share
+      attributable to each unsold home defined in the Homeowners’ Association.
+
+ 2.   Membership must be mandatory for each home buyer and any successive buyer.
+
+ 3. The open space restrictions must be permanent, not just for a period of years.
+
+                                          20090457                             Haan eennes ecember 10,2008
+Page 18-10
+
+    4.     The association must be responsible for liability insurance, local taxes, and the
+           maintenance of recreational and other facilities.
+
+    5.     Residence owners must pay their pro rata share of the cost.                    The assessment
+           levied by the Association can become a lien on their property.
+
+    6. The association must be abie to adjust the assessment to meet changed needs.
+
+G. If the common open space is to be deeded to a Homeowners’ Association, the
+   Approving Authority shall require that one of the following enforcement methods be
+    provided by the applicant:
+
+    1.     Conveyance to the County of the legal right to develop the common open space
+           for uses not specified in the final development plan; or
+
+    2.     Inclusion in the conveyance of the common open space, a condition that the fee
+           title of the common open space shall vest in the County in the event of a
+           substantial         default   in the conditions     and   restrictions governing     the   use   and
+           maintenance of the common open spaces; or
+
+    3.     Inclusion in the conveyance of the common open space a condition that, in the
+           event a common open space is permitted to deteriorate or is not used and
+           maintained consistently with the final development plan, the County may, at its
+           own option, cause such maintenance to be done and assess the cost to
+           members of the association.
+
+SECTION          18.120        Environmental Design
+
+A. The preliminary development plan shall provide, to the greatest extent possible, for
+    the preservation of significant landscape features, historic sites, and landmarks and
+    for the    integration  of the    proposed   development     with the environmental
+    characteristics of the site and adjacent areas. The Approving Authority may require
+    that significant landscape features and historical sites be preserved as part of the
+    common or public open space of the project.
+
+    Excessive           site     clearing   of   topsoil,    trees   and   natural   features     before    the
+    commencement                 of construction operations shall be discouraged.             The Approving
+    Authority may require the applicant to submit a grading plan detailing proposed
+    excavation, earth-moving procedures, and other changes to the landscape, in order
+    to ensure preservation of the character of the area to be retained in open space.
+
+    Sites for residential and non-residential buildings shall be discouraged in areas of
+    natural hazards, such as floodplains, areas subject to landslides, areas with average
+
+Chapter 18, Planned Unit Development                                           9 0 Q 9 0 4 5 4
+December     16, 2009
+                                                                                                                         Page 18-11
+
+    slopes     greater       than      twenty-five      percent    (25%)         and     areas        with      unstable        soil
+    formations. The Approving Authority shall require that all floodplains be preserved
+    as permanent common or public open space, and may require that other natural
+    hazard areas be included in the common or public open space of the proposed
+    development        and        be left unimproved          or improved         to assure minimization of the
+    hazard.
+
+    All manufactured          slopes, other than those constructed in rock, shall be planted or
+    otherwise     protected          from   the   effects    of storm     runoff erosion,              and     shall     be    of a
+    character to cause the slope to blend with the surrounding terrain and development.
+     The applicant           shali     provide    for   maintenance         of     the     planting          until     growth      is
+    established.
+
+    The preliminary development plan shall promote the conservation of energy and use
+    of solar or other renewable energy resources through such factors as the location
+    and extent of site improvements, the orientation and exposure of buildings and
+    usable open spaces, the types of buildings, and the selection of building materials.
+
+SECTION       18.130     Traffic Circulation
+The location and number of points of access to the site, the interior circulation pattem
+of streets and pedestrian ways, the separations between                                pedestrians and moving and
+parked vehicles, and the arrangement of parking areas in relation to buildings and uses
+shall    be   designed       to      maximize     safety     and   convenience            and     be     compatible             with
+neighboring road systems, buildings and uses.
+
+SECTION       18.140     Perimeter Design
+
+A. The preliminary development plan shall minimize adverse impacts of proposed uses
+    and structures in the PUD                on existing and        anticipated          uses and        structures in the
+    adjacent area.
+
+    If topographical or other barriers do not provide reasonable privacy for existing uses
+    adjacent to the development, the Approving Authority shall require one or more of
+    the following:
+
+    1.   A special setback, or setbacks, of residential and non-residential structures shall
+         be located on the perimeter.
+
+    2.   Residential     and         non-residential        structures    located        on     the     perimeter         of the
+         development shall be               screened        by fencing,    landscaping,               or other       natural      or
+         man-made materials.
+
+                                                           90454
+                                                  2 6 G z) 0                            Chapter 18, Planned Unit Development
+                                                                                                           December 16, 2009
+Page 18-12
+
+SECTION        18.150      Development Phasing
+
+A. The applicant may provide in the preliminary development plan for development of
+   the project in up to three (3) phases.
+
+    In acting to approve the preliminary development plan, the Approving Authority may
+    require that development be completed in up to three (3) specific phases, if it finds
+    that     public     facilities   would   not   otherwise   be   adequate     to     serve   the    entire
+    development.
+
+  . If the preliminary development plan provides for phased development, each phase
+    shall provide for the same ratio of open space and/or recreational facilities to
+    dwelling units as the over-all project. Development of accessory commercial uses
+    shall be limited to the final phase.
+
+    The following time limitations shall be observed in phased development proposals:
+
+    1.     Phase 1--final development plan must be approved within twelve (12) months of
+           the date of preliminary plan approvai.
+
+    2.     Phase 2--final development plan must be approved                    within    twenty-four     (24)
+           months of the date of preliminary plan approval.
+
+    3.     Phase 3--final development plan must be approved within thirty-six (36) months
+           of the date of preliminary plan approval.
+
+SECTION        18.160      Duration of PUD Preliminary Development Plan Approval
+
+A. Approval of the preliminary development plan shall be valid for twelve (12) months
+    from the date of approval, provided that if an approved preliminary development
+    plan provides for phased development, the approval shall be valid for the time
+    specified for each phase, subject to the time limitations of Section 18.150(D) of this
+    Section.
+
+    If any time limit for obtaining final development plan approval is exceeded, the
+    approved preliminary development plan, or phase of the preliminary development
+    plan and any subsequent phase, shall be void. Any subsequent proposal by the
+    applicant for planned development of the subject property shall be deemed a new
+    development request.
+
+Chapter 18, Pianned   Unit Development
+December 16, 2009
+                                                                                                   Page 18-13
+
+SECTION         18.180   PUD Final Development Plan Approval
+Approval        of a PUD     final development     plan   is subject to Section        2.060(C)     of this
+Ordinance.
+
+A.   Within twelve (12) months of the date of approval of the preliminary development
+     plan, unless otherwise specified pursuant to Section 18.150 and 18.170 of this
+     Ordinance, the applicant shall submit a final development plan, prepared by an
+     Oregon registered engineer, and supporting documents to the Director.
+
+B. The final development plan shall include:
+
+     1. The site plan and maps submitted pursuant to Section 18.050(B)(2) in their final,
+          detailed form, and including reasonable assurance that an adequate,                     potable,
+          year-round water supply is available for the development.
+
+          The    documents       submitted    pursuant    to   Section   18.050(B)(1)       amended        to
+          incorporate      any   conditions   imposed     on   the   preliminary    development        plan
+          approval.
+
+          Final subdivision plat or partition map, if the land is to be divided.
+
+          Except as permitted by the Approving Authority pursuant to subsection (F) of this
+          section, documents     conveying  common     open   space to a Homeowners’
+          Association, including the restrictive covenants and conditions required by
+          Section 18.110(E) to (G).
+
+          Articles of Incorporation of the Homeowners' Association                 formed     to maintain
+          common open space and other common improvements.
+
+C. The Director shall require the applicant to enter into an agreement with the County
+   to complete all improvements required by the final development plan according to a
+   schedule set forth in the agreement.
+
+D. Agreement for Improvements:
+
+     1.   Before approval of the final development plan, the applicant shail either install
+          the improvements required by the preliminary plan approval and repair existing
+          streets and other public facilities damaged in the development of the PUD, or
+          shall execute and file with the Court an agreement between himself and the
+          County specifying the period within which required improvements and repairs will
+          be completed. The agreement may provide for the construction of the required
+          improvements in phases.       The agreement shall provide that if work is not
+          completed within the period specified, the County may complete the work and
+          recover the full cost and expense thereof from the applicant.
+
+                                          9 0 t] 9 0 4 5 4               Chapter 18, Planned Unit Development
+                                                                                            December 16, 2009
+Page 18-14
+
+     2.    An    applicant       may   request   an   extension   of time   for   completion    of   required
+           improvements.          Such request will be considered an application for Administrative
+           Action. Such extension shall be approved only if changed conditions for which
+           the applicant is not responsible have made it impossible for him/her to fulfill the
+           agreement within the original time limit(s).
+
+E.   Performance Bond:
+
+     1.    To assure full performance of the improvement agreement, an applicant shall file
+           one of the following:
+
+           a.    A surety bond executed by a surety company authorized to transact business
+                 in the State of Oregon on a form approved by the District Attorney; or
+
+           b. Cash deposit with the County Treasurer; or
+
+           c.    Certification    or letter of assurance      by a bank     or other    reputable     lending
+                 institution that money is being held to cover the cost of improvements and
+                 incidental expenses, and that said money will be released only upon the
+                 direction of the Director of Public Works. The bank certification or letter of
+                 assurance shall be approved by the District Attorney; or
+
+           d. Cash deposit with an escrow agent authorized to transact business in the
+                 State of Oregon subject to escrow instructions that require the escrow agent
+                 to release the money only upon the direction of the Director of Public Works.
+                 Escrow instructions shall be approved by the District Attomey.
+
+     2.    Such assurance of full and faithful performance shall be for a sum determined by
+           the County Roadmaster to be sufficient to cover the cost of the improvements
+           and    repairs that may       be required    prior to approval    of the final plan, including
+           related engineering, and may include an additional percentage as determined by
+           the County        Roadmaster to cover any inflationary costs which            may be incurred
+           during the construction period prior to the full and final completion of the project.
+
+     3.    If the applicant fails to carry out provisions of the improvement agreement and
+           the County has unreimbursed costs or expenses resulting from such failure, the
+           County shall call on the bond or cash deposit for reimbursement.                    If the amount
+           of the bond or cash deposit exceeds the cost and expense incurred, the
+           remainder shall be released. If the amount of the bond or cash deposit is less
+           than the cost arid expense incurred, the applicant shall be liable to the County
+           for the difference.
+
+Chapter 18, Planned Unit Development
+                                                                            20090454
+December     16, 2009
+                                                                                                 Page 18-15
+
+F. Action By the Approving Authority:
+     The        Approving   Authority shall take   action on the application for final approval          in
+     accordance with the procedures outlined in Chapter 2 of this Ordinance, and shall
+     approve the final development plan if:
+
+     1.    The applicant has submitted all information and documents required pursuant to
+           subsection (B), (C) and (D) of this section; and
+
+     2.    The final development plan is in substantial compliance with the approved
+           preliminary development plan and any conditions imposed by the Approving
+           Authority. Substantial compliance means that any differences between the final
+           and preliminary plan are "minor amendments" as defined in Section 18.200(A)(1)
+           of this chapter.
+
+G. Recording a Final Development Plans:
+     The approved final development plan shall be recorded in the County Clerk's office
+     within thirty (30) days of the date of approval.
+
+SECTION           18.190    Expiration of Final Development Plan Approval
+
+A.   If the Director determines that no substantial construction or development has
+     occurred within two (2) years of the date of approval of the final development plan
+     for a PUD, or for a phase thereof, the Director shall initiate an Administrative Action
+     to consider invalidating the final development plan approval.
+
+B. The Approving Authority shall invalidate such final development plan approval
+   unless it determines that the applicant was not responsible for the failure to
+   complete substantial construction, and that the applicant will be able to complete the
+   development within two (2) years.
+
+C.   If final development approval is invalidated, any subsequent proposal by the
+     applicant for planned development of the subject property shall be deemed a new
+     application for preliminary development plan approval.
+
+SECTION           18.200     Amendments     to Approved     Preliminary and Final Development
+                             Plans
+
+A.   Definitions:
+
+     1.    "Minor Amendment" means a change which:
+
+           a.    Does not increase residential densities;
+
+                                                   9 0 G 9 0 4 5 1    Chapter 18, Planned Unit Development
+                                                                                        December 16, 2009
+Page 18-16
+
+         b. Does not enlarge the boundaries of the approved plan;
+
+         c.   Does not change any use;
+
+         d.   Does not change the general location or amount of land devoted to a specific
+              land use, including open space;
+
+         e.   Does not eliminate the preservation of a significant landscape feature; and
+
+         f.   Includes only minor shifting of the location of buildings, proposed public or
+              private streets, pedestrian ways, utility easements, or common or public open
+              spaces.
+
+    2.   "Major Amendment" is any change which does not meet the definition of a "Minor
+         Amendment".
+
+B. A minor amendment to an approved preliminary or final development plan may be
+   approved ministerially by the Director.
+
+C. A major amendment to an approved preliminary or final development plan shall be
+   considered a new development request subject to the provisions of Chapter 2 of this
+   ordinance.
+
+SECTION 18.210           Granting of Extensions (Added 5-93)
+An applicant may request an extension of the validity of a planned unit development
+permit approval. Such request shall be considered an Administrative Action and shall
+be submitted to the Director prior to the expiration of such approval, in writing, stating
+the reason why an extension should be granted.
+
+The Director may grant an extension of up to twelve (12) months in the validity of the
+planned unit development permit approval if it is determined that unexpected conditions
+would prevent the applicant from commencing his operation within the original time
+limitation.
+
+Chapter 18, Planned Unit Development                            2 0 C   9 0 4 5   4
+December 16, 2009                                                                 wt
+                   DETAILED TABLE OF CONTENTS
+                   CHAPTER 20 SITE PLAN REVIEW
+
+SECTION   TITLE                                                 PAGE
+20.010    PURPOSE                                               20-1
+20. 020   APPROVAL, REJECTION AND MODIFICATION                  20-1
+20.030    CONTENTS OF THE SITE PLAN                             20-1
+20.040    APPROVAL STANDARDS                                    20-2
+20.050    OFF-STREET PARKING                                    20-3
+20.055    BICYCLE PARKING REQUIREMENTS                          20-5
+20.060    PUBLIC PARKING AREA                                   20-7
+20.070    OFF-STREET LOADING                                    20-7
+20.080    GENERAL PROVISIONS-OFF-STREET PARKING                 20-8
+          AND LOADING
+20.090    HOME OCCUPATIONS                                      20-9
+20.100    HOME OCCUPATION TO HOST COMMERCIAL EVENTS             20-100
+
+                             20690451
+                                                 Chapter 20, Site Plan Review
+                                                           December    16, 2009
+                                                                                                     Page 20-1
+
+                                    CHAPTER 20     SITE PLAN REVIEW
+
+SECTION 20.010 Purpose
+The purpose of the Site Plan Review procedure is to enable the Approving Authority to
+review development proposals for conformity with the provisions of this ordinance and to
+allow the imposition of such conditions on the development or projects as are necessary
+to bring it into conformity with the Comprehensive Plan and surrounding development.
+
+SECTION 20.020 Approval, Rejection and Modification
+Any such site plan may be approved, rejected and modified, or approved subject to
+conditions. Any such site plan, after approval, shall be amended through the same
+procedure as in the initial approval of such site plan; except, that minor alterations or
+modification to a previously approved site plan may be approved by the Planning Director;
+provided that, in the judgment of the Planning Director, such modifications or alterations
+do not represent deviations of a substantial nature.
+
+SECTION 20.030 Contents of the Site Pian
+The Site Plan shall clearly indicate the following information:
+
+A.   Lot dimensions.
+
+B. Location,     size,    height,    of all existing or proposed     buildings    and    structures,     and
+     illustrating the buildings and parking facilities on abutting properties.
+
+C.   Location, size      and    dimension   of all yards   and   setbacks   and    all spaces      between
+     buildings.
+
+D. Walls and fences:           Location, height and materials.
+
+E.   Off-street parking:
+
+     1.   Location, dimensions and method of improvement of all driveways and parking
+          areas consistent with Sections 20.050 & 20.080.
+
+     2.   Number of spaces consistent with Section 20.050 & 20.080 and internal circulation
+          pattern.
+
+     3.   Size and location of existing and proposed curb openings.
+
+F. Access:      Pedestrian, vehicular, service; and definitions of all points of ingress and
+   egress.
+
+                                                   2 0 6 g 0 4 5 4                Chapter 20, Site Plan Review
+                                                                                            December 16, 2009
+Page 20-2
+
+G. Signs:         Location, size, height, material and method of illumination.
+
+H. Loading:    Location, dimensions, number of spaces, internal circulation and                                         access
+    from public right-of-way consistent with 20.070 & 20.080.
+
+     Lighting:      General nature, location and hooding devices (not including interior building
+     lighting).
+
+ . The location, dimensions and methods of improvement for all property to be dedicated
+   to general public purposes or to public utilities.
+
+    A detailed plan for landscaping,            if determined          necessary           by the Planning              Director
+    which shall clearly illustrate:
+
+     1.     Plants and     tree   species,   their   initial   sizes        and    other       proposed         landscaping
+            materials.
+
+    2.      The location and dimensions of all areas                   to    be devoted          to landscaping,            and
+            location of automatic sprinkler systems.
+
+    Outdoor storage and activities, if permitted               in the zone,          showing        type, location and
+    height of screening devices.
+
+  . Drainage and grading plan.
+
+  . Identification of proposed trash storage locations,                           including      proposed           enclosure
+    design construction and access for pick-up purposes.
+
+    Location of existing utility poles.
+
+    Such data as may be required by the Planning Director to act on the application.
+
+SECTION 20.040 Approval Standards
+Upon completion of the Site Plan Review, the Approving Authority shall approve, approve
+with conditions, or disapprove the site plan.    In approving the plan, the Approving
+Authority shall find that:
+
+A. All provisions of this ordinance and other applicable ordinances are complied with.
+
+    Elements of the site plan are arranged so that:
+
+     1. Traffic congestion is avoided.
+
+Chapter 20, Site Plan Review                                                               9   0 CG 9   0   4   5   q
+December 16, 2009
+                                                                                                       Page 20-3
+
+     2.   Pedestrian and vehicular safety and welfare are protected.
+
+     3. Significant features and public amenities are preserved and maintained.
+
+     4. There will be minimal adverse effect on surrounding property.
+
+C.   Proposed lighting is arranged to direct light away from adjoining properties.
+
+D. Proposed          signs will not interfere with traffic or limit visibility by size,          location or
+     illumination.
+
+SECTION 20.050           Off-Street Parking
+At the time of erection of a new structure or at the time of enlargement or change in use
+of an existing structure, off-street parking spaces shall be provided in accordance with this
+Section. In an existing use, the parking space shall not be eliminated if elimination would
+result in less space than is required by this Section. Where square feet are specified the
+area measured shall be the gross floor area necessary to the functioning of the particular
+use of the property but shall exclude space devoted to off-street parking or loading.
+Where employees are specified, persons counted shall be those working on the premises
+during the largest shift at peak season, including proprietors.
+
+The following are the uses and minimum standards provided for off-street parking:
+
+A. Residential
+
+     1.   Single-family dwelling:    One (1) space per dwelling unit.
+
+     2.   Residential hotel, rooming or boarding house:                Four (4) spaces per five (5) guest
+          accommodations, plus one (1) space per two (2) employees.
+
+     3.   Two family or multi-family dwellings:     Three (3) spaces per two (2) dwelling units.
+
+B. Commercial Residential
+
+1.   Motel:   One (1) space per guest room plus one (1) space for owner or manager.
+
+2.   Club or Lodge:        One (1) space per five (5) seats, or one (1) space for each fifty (50)
+     square feet of floor area used for assembly, whichever is greater.
+
+C.   Institutional
+
+     1. Welfare or correctional institutions:      One (1) space per five (5) beds for patients or
+
+                                                   2   0   G   9   0   4   5   1    Chapter 20, Site Plan Review
+                                                                                              December 16, 2009
+Page 20-4
+
+            inmates, plus one (1) space per employee.
+
+     2.     Convalescent hospital, nursing home, sanitarium, rest home for the aged: One (1)
+            space per five (5) beds for patients or residents, plus one (1) space per employee.
+
+     3.     Hospital: Three (3) spaces per two (2) beds.
+
+D.   Places of Public Assembly
+
+     1. Church:      One (1) space for four (4) seats or every eight (8) feet of bench length in
+            the main auditorium.
+
+            Library, reading room, museum, art gallery: One (1) space per four hundred (400)
+            square feet of floor area plus one (1) space per two employees.
+
+            Pre-school,    nursery,   kindergarten:     Two   (2) spaces   per teacher;   plus off-street
+            loading and unloading facility.
+
+            Elementary or junior high school: One (1) space per classroom plus one (1) space
+            per administrative employee or one (1) space per four (4) seats or every eight (8)
+            feet of bench length in the main auditorium, whichever is greater.
+
+            High School: One (1) space per classroom plus one (1) space per administrative
+            employee plus one (1) space for each six (6) students or ore (1) space per four (4)
+            seats or eight (8) feet of bench length in the main auditorium, whichever is greater.
+
+            Other auditorium, meeting room:           One (1) space per four (4) seats or every eight
+            (8) feet of bench length.
+
+E.   Commercial Amusement
+
+     1.     Stadium, arena, theater:      One (1) space per four (4) seats or every eight (8) feet of
+            bench length or equivalent capacity if no seating is provided.
+
+     2.     Bowling alley: Five (5) spaces per alley plus one (1) space per two (2) employees.
+
+     3.     Dance hall, skating rink: One (1) space per one hundred (100) square feet of floor
+            area plus one (1) space per two (2) employees.
+
+F.   Commercial
+
+     1.     Retail store except as provided in subsection (2):        One (1) space per two hundred
+            (200) square feet of floor area plus one (1) space per employee.
+
+Chapter 20, Site Plan Review
+December     16, 2009
+
+                                                              20690454
+                                                                                             Page 20-5
+
+          Service or repair shop, retail store handling exclusively in bulk merchandise such
+          as automobiles and furniture: One (1) space per six hundred (600) square feet of
+          floor area plus one (1) space per employee.
+
+          Bank, office (except medical and dental): One (1) space per six hundred (600)
+          square feet of floor area plus one (1) space per employee.
+
+          Medical and dental clinic: One (1) space per three hundred (300) square feet of
+          floor area plus one (1) space for every four (4) seats.
+
+          Eating and drinking establishment: One (1) space per two hundred (200) square
+          feet of floor area, plus one (1) space for every four seats.
+
+          Mortuaries:   One (1) space per four (4) seats or every (8) feet of bench length in
+          chapels.
+
+G.   Industrial
+
+     1.   Storage warehouse,    manufacturing establishment, rail or trucking freight terminal:
+          One (1) space per employee.
+
+          Wholesale establishment:      One   (1) space per employee   plus one (1) space per
+          seven hundred (700) square feet of patron serving area.
+
+SECTION 20.055 BICYCLE PARKING REQUIREMENTS
+At the time of erection of a new structure or at the time of enlargement or change in use
+of an existing structure, bicycle parking shall be provided in accordance with the
+following standards:
+
+A. Number of Bicycle Parking Spaces - A minimum of two (2) bicycle parking spaces
+   per use is required for all uses with greater than 10 vehicle parking spaces. The
+   following additional standards apply to specific types of development:
+
+     1.   Multi-Family Residences - Every residential use of four (4) or more dwelling units
+          provides at least one (1) sheltered bicycle parking space for each dwelling unit.
+          Sheltered bicycle parking spaces may be located within a garage, storage shed,
+          basement, utility room or similar area. In those instances in which the residential
+          complex has no garage or other easily accessible storage unit, the bicycle
+          parking spaces may be sheltered from sun and precipitation under an eave,
+          overhang, an independent structure, or similar cover.
+
+     2.   Parking Lots - All public and commercial parking lots and parking structures
+          provide a minimum of one (1) bicycle parking space for every 10 motor vehicle
+
+                                                                          Chapter 20, Site Plan Review
+
+                                               2 0 C 9 0 4 5 4                      December 16, 2009
+Page 20-6
+
+            parking spaces.
+    3.      Schools - Elementary and middie schools,              both private and     public, provide one
+            (1) bicycle parking space for every 10 students and employees. High schools
+            provide one bicycle parking space for every 5 students and employees.    All
+            spaces   shall be sheltered         under an eave,    overhang,    independent     structure, or
+            similar cover.
+
+    4.      Colleges and trade schools provide one (1) bicycle parking space for every 10
+            motor vehicle      spaces       plus one   space   for every   dormitory   unit.   Fifty percent
+            (50%) of the bicycle parking spaces shall be sheltered under an eave, overhang,
+            independent structure, or similar cover.
+
+    5.      County Commercial           -   Within the County commercial         and employment zones
+            (Rural Commercial,  Rural Industrial,   Wamic    Commercial, Tygh Valley
+            Commercial, Tygh Valley Light Industrial/Commercial, Tygh Valley Medium
+            Industrial/Commercial), where the proposed use is commercial, bicycle parking
+            for customers shall be provided along the roadway at a rate of at least one (1)
+            space per use. Individual uses shall provide their own parking, or spaces may
+            be clustered to serve up to six (6) bicycles.              Bicycle parking spaces shail be
+            located in front of the stores along the roadway, either on the sidewalks or in
+            specially constructed areas such as pedestrian curb extensions.      Inverted "U”
+            style racks are recommended. Bicycle parking shail not interfere with pedestrian
+            passage, leaving a clear area of at least 36 inches between bicycles and other
+            existing and potential obstructions.    Customer spaces may or may not be
+            sheltered.  When provided, sheltered parking (within a building, or under an
+            eave, overhang, or similar structure shall be provided at a rate of one (1) space
+            per 10 employees, with a minimum of one space per store.
+
+    6.      Multiple Uses - For buildings with multiple uses (such as a commercial or mixed
+            use center), bicycle parking standards shall be calculated by using the total
+            number of motor vehicle parking spaces required for the entire development. A
+            minimum of one (1) bicycle parking space for every 10 motor vehicle parking
+            spaces is required.
+
+B. Exemptions - This Section does not apply to single family, two-family, and three-
+   family housing (attached, detached or manufactured housing), home occupations,
+   agriculture and livestock uses, or other developments with fewer than 10 vehicle
+   parking spaces.
+
+C. Location and Design - Bicycle parking shall be conveniently located with respect to
+    both the road right-of-way and at least one building entrance (e.g., no farther away
+    than the closest parking space). It should be incorporated whenever possible into
+    building design and coordinated with the design of street furniture when it is
+    provided.    Street furniture includes benches, street lights, planters and other
+
+Chapter 20, Site Plan Review
+December 16, 2000                                                      99090451
+                                                                                           Page 20-7
+
+   pedestrian amenities.
+ . Visibility and   Security - Bicycle   parking shall be visible to cyclists from       roadway
+   sidewalks or building entrances, so that it provides sufficient security from theft and
+   damage;
+
+ . Options for Storage - Bicycle parking requirements for long-term and employee
+   parking can be met by providing a bicycle storage room, bicycle lockers, racks, or
+   other secure storage space inside or outside of the building;
+
+F. Lighting - Bicycle parking shall be least as well lit as vehicle parking for security.
+
+G. Reserved Areas - Areas set aside for bicycle parking shall be clearly marked and
+   reserved for bicycle parking only.
+
+   Hazards - Bicycle parking shall not impede or create a hazard to pedestrians.
+   Parking areas shall be located to avoid conflict with vision clearance standards
+   (Section 4.090 Vision Clearance).
+
+SECTION 20.060       Public Parking Area
+Every parcel of land hereafter used as a public parking area or an automobile or trailer
+sales area shall be developed as follows:
+
+A. Such areas shall be surfaced with permanent paving; they shall have bumper rails or
+   curbs and be enclosed by a sturdy wall, fence or evergreen hedge not less than thirty
+   (30) inches in height nor more than six (6) feet in height. Such wall, fence or hedge
+   shall not enclose any required front yard or required side yard on the street side of a
+   comer lot. Any such required front or side yard shall be properly maintained. Where
+   such public parking area abuts or lies within an "A" and "R" zone, the required wall,
+   fence or hedge shall not be less than six (6) feet in height on the sides or rear yards
+   abutting or within such "A" or "R" zone.
+
+   Where a public parking area or automobile or trailer sales area is illuminated, the
+   lights shall be fixed so as to reflect away from adjoining premises in residential zones.
+
+SECTION 20.070      Off-Street Loading
+
+A. Schools: A driveway designed for continuous forward flow of passenger vehicles for
+   the purpose of loading and unloading children shall be located on the site of any
+   school having a capacity greater than twenty-five (25) students.
+
+   Merchandise, materials or supplies: Buildings or structures to be built or substantially
+   altered to receive and distribute materials or merchandise by truck shall provide and
+
+                                             2 0 0 9 0 4   F   4        Chapter 20, Site Plan Review
+                                                                                  December 16, 2009
+Page 20-8
+
+    maintain off-street loading berths in sufficient numbers and size to adequately handle
+    the needs of the particular use. If loading space has been provided in connection with
+    an existing use or is added to an existing use, the loading space shall not be
+    eliminated      if elimination     would   result in less space      than    is required         to adequately
+    handle the needs of the particular use. Off-street parking areas used to fulfill the
+    requirements of this Ordinance shall not be used for loading and unloading operations
+    except during periods of the day when not required to take care of parking needs.
+
+SECTION 20.080            General Provisions - Off-Street Parking and Loading
+
+A. The      provisions         and   maintenance    of   off-street   parking    and       loading     spaces     are
+    continuing obligations of the property owner.               No building permit shall be issued until
+    plans are presented that show property that is and will remain available for exclusive
+    use of off-street parking and loading space. The subsequent use of property for which
+    the building permit is issued shall be conditional upon the unqualified continuance and
+    availability of the amount of parking and loading space required by this Ordinance.
+    Should the owner or occupant of a lot or building change the use to which the lot or
+    building is put, thereby increasing off-street parking or loading requirements, it shall be
+    unlawful and a violation of this Ordinance to begin or maintain such altered use until
+    the required increase in off-street parking or loading is provided.
+
+  . Requirements for types of buildings and uses not specifically listed herein shall be
+    determined by the Director of Planning based upon the requirements of comparable
+    uses listed herein.
+
+  . In the event several uses occupy a single structure or parcel of land, the total
+    requirements for off-street parking shall be the sum of the requirements of the several
+    uses computed separately.
+
+  . Owners of two or more uses, structures or parcels of land may agree to utilize jointly
+    the same parking and loading spaces when the hours of operation do not overiap.
+
+  . Off-street parking spaces shall be located on the same or abutting lot with the building
+    or use they are intended to serve.
+
+  , Required parking spaces shall be available for the parking of operable passenger
+    automobiles of residents, customers, patrons and employees only, and shall not be
+    used     for storage         of vehicles   or materials     or for the      parking      of trucks     used     in
+    conducting the business or use.
+
+  . Plans shall be submitted in sufficient detail so                  that they     may       be     reviewed     and
+    approved by the appropriate reviewing authority.
+
+Chapter 20, Site Plan Review
+December 16, 2009                                                9 0 0 9 0 4 5         4
+                                                                                      Page 20-9
+
+H. Design requirements for parking lots:
+
+   1. Areas used for standing and maneuvering of vehicles shall have a durable and
+        dustless, but not necessarily paved, surface maintained adequately for all weather
+        use.
+
+   2.   Except for parking to serve residential uses, parking and loading areas adjacent to
+        or within residential zones or adjacent to residential uses shall be designed to
+        minimize disturbance of residents.
+
+   3. Access aisles shall be of sufficient width for all vehicle turning and maneuvering.
+
+   4.   Groups of more than four (4) parking spaces shall be served by a driveway so that
+        no backing movement or other maneuvering will be required within a street.
+
+   5.   Lighting of the parking area shall be deflected from a residential zone.
+
+   Required parking spaces shail be improved and available for use by the time the use
+   to be served by the parking space is ready for occupancy.
+
+SECTION 20.090 Home Occupations
+Home occupations, as defined in Section 1.090 shall be subject to Sections 2.040 —
+20.080 as well as the following criteria:
+
+A. Will be operated by a resident of the property on which the business is located;
+
+   Will employ no more than five full or part-time persons.
+
+ . Will be operated substantially in the dwelling or other buildings normally associated
+   with uses permitted in the zone in which the property is located.
+
+   Will not interfere with existing uses on nearby land or with other uses permitted in the
+   zonie in which the property is located;
+
+   Will have retail sales only as an activity incidental or secondary to the primary home
+   occupation use;
+
+   Will not display, or create outside the structure, any extemal evidence of the operation
+   of the home occupation other than one non-animated, non-illuminated name plate, on
+   premises, and in conformance with the size restrictions of the underlying zone;
+
+ . The home occupation shall not unreasonably interfere with other uses permitted in
+   the zone in which the property is located.
+
+                                              Q0C9045L — mrsscees
+Page 20-10
+
+H. Construction of a structure that would               not otherwise be allowed      in the zone is not
+   permitted.
+
+I.   Will be reviewed annually by the Approving Authority. The approval shall continue if
+     the home occupation continues to comply with the requirements of this section.
+
+On High Value Lands in the Exclusive Farm Use Zone (Not Applicable to Section 20.100)
+
+J.   Home     occupations       may   only    be    authorized   in existing   dwelling    and   structures
+     accessory to an existing dwelling.
+
+K.   Home occupations may not be authorized in structures accessory to resource use.
+
+L. A home occupation located on high-value farmland may employ only residents of
+     the home.
+
+Section 20.100          Home Occupation to Host Commercial Events (Exclusive Farm Use
+Zone only)                   '
+
+The section is not intended to apply to events hosted at such public gathering places as
+churches,      community       centers,    grange    halls, or schools,    or similar structures;     or to
+events hosted by non-profit organizations for charitable purposes. Nor is this Ordinance
+intended to apply to events               covered   by the State’s    Mass     Gathering    Statute (ORS
+433.735 - 433.770).
+
+In addition to meeting Sections 20.010 — 20.090                   above,     home   occupations to host
+commercial events must meet the following criteria:
+
+A. Frequency _of Events:     This shall be determined through                    the review      process to
+   minimize the potential impact to the local agricultural region.
+
+B. Maximum          Number of Guests: Shall be based on the capacity of the site, but shall
+     not include more than 300 guests at any one event.
+
+C.   Duration of Event: This shall be determined based on the potential impact to
+     adjacent properties but no event shall take place outside the hours of 7:00 am —
+     10:00 pm.
+
+D. Noise: It is unlawful for any person to make, continue, or cause to be made or
+   continued, any noise, which unreasonably annoys, disturbs, injures or endangers
+     the comfort, repose, health, peace, or safety of a reasonable person of normal
+     sensitivities present in the area. Factors to consider in evaluating whether a noise is
+
+Chapter 20, Site Plan Review
+December 16, 2009                                                          200 9045         4
+                                                                                             Page 20-11
+
+  loud, disturbing, or excessive for the purposes of this section, shall include, but not
+  be limited to the following:
+
+       The volume of the noise;
+       The intensity of the noise;
+       The duration of the noise;
+       Whether the noise is recurrent, intermittent, or constant;
+       The time of day or night the noise occurs;
+       Whether the nature of the noise is usual or unusual;
+       Whether the origin of the noise is natural or unnatural;
+       The nature and zoning of the area within which the noise emanates and where it
+       is received;
+  «    Whether the noise is produced by a commercial or noncommercial activity.
+
+ Noise shall be considered excessive and in violation of this Section if it meets one of
+ the following criteria:
+
+  1. The noise is plainly audible from within any closed dwelling unit that is not the
+     source of the sound; or
+
+  2.   The sound      peak pressure level of the noise, as measured       on the A scale, shall
+       not exceed sixty (60) dB(A) during the hours of 7:00 a.m. until 10:00 p.m. as
+       measured at any of the complainant’s property lines within a residential district or
+       near a residential area.
+
+. Parking: At least 200 square feet of parking space shall be required for each
+  vehicle. Parking areas may be developed using paving blocks, gravel, or other
+  pervious surfaces; asphalt, concrete and other imperious materials shall be
+  prohibited.
+
+. Fire & Emergency Vehicle Access:       Shall comply with Fire                  &    Life    Safety
+  Requirements for Fire Department Access and Water Supplies.
+
+. Catering:    Operator shali ensure that only caterers licensed in the States of Oregon
+  or Washington are contracted to provide food; caterers shall be bonded.
+
+  Alcohol: Operator shall comply with all requirements of the Oregon Liquor Control
+  Commission (OLCC), if alcohol is served during an event.
+
+. Toilet_facilities shall be portable with available hand-sanitizing or hand-washing
+  facilities. Use of the dwelling’s on-site septic facilities is not allowed for an event,
+  except by residents or over-night guests of the facility.
+
+                                                    2 0 G g ‘ 4 5     4   Chapter 20, Site Plan Review
+                                                                                    December 16, 2009
+Page 20-12
+
+K. Sign:         One temporary sign may be allowed in addition any other sign allowed as part
+     of a prior approval. The sign shali not exceed eight (8) square feet in size and shall
+     be placed on private property on the day of the event and shall be removed within
+     24 hours after the event.
+
+L.   Contents of the Site Plan:       In addition to the requirements of Section 20.030 above,
+     the applicant shall submit a written narrative and site plan addressing the following
+     issue:
+
+     1.     Designated area and existing structures to be used for the events
+
+     2.     Number of events anticipated per season
+
+            Frequency of events
+
+            Maximum number of guests intend to serve
+
+            Noise
+
+          . Infrastructure — How will you provide electricity and utilities to the event?
+
+          . Parking & Circulation ~ Need to        provide   one   (10°   x 20’)       parking   space   per
+            vehicle; estimate 3 people per car.
+
+          . Traffic and Access
+
+            Environmerital Health Aspects
+
+            a.   How will food be provided? Where will it be served?
+
+            b.   What is your domestic water source?
+
+            c.   Indicate how many portable toilets will be provided,         as well as how         hand-
+                 sanitizing or hand-washing facilities will be provided.
+
+            10. Safety & Insurance
+
+            11.Are alcoholic beverages being served? If so, are OLCC                   requirements being
+                met?
+
+M. Expiration of Approval: Land use approvals for home occupations to host
+   commercial events shail not be valid for more than four years from the original date
+     of approval.       Landowners must reapply for the use after a land use approval expires.
+
+                                                             ) 0 G g Q Ad          4
+Chapter 20, Site Plan Review
+December     16, 2009
+                                                                         Page 21-1
+
+                  DETAILED TABLE OF CONTENTS
+                    CHAPTER 21 LAND DIVISIONS
+
+SECTION   TITLE                                                    PAGE
+
+21.010    PURPOSE                                                  21-1
+21.020    DEFINITIONS                                              21-1
+21.030    BASIC PROVISIONS AND DESIGN STANDARDS                    21-1
+21.100    LAND PARTITIONING APPROVAL                               21-8
+21.110    AMENDMENTS TO PRELIMINARY PLANS AND                      21-15
+          FINAL PLATS OR MAPS
+21.115    PROPERTY LINE ADJUSTMENTS/REPLATS                        21-16
+21.120    PROPERTY LINE ADJUSTMENT/REPLAT APPROVAL                21-16
+          STANDARDS
+21.125    FINAL PROPERTY LINE ADJUSTMENT/REPLAT MAP                21-17
+          REQUIREMENTS
+21.130    SURVEY REQUIREMENTS     FOR PROPERTY LINE                21-17
+          ADJUSTMENTS/REPLATS
+21.200    PRELIMINARY SUBDIVISION PLAN APPROVAL                    21-18
+21.210    FINAL SUBDIVISION PLAT APPROVAL                          21-21
+21.300    PRIVATE ROAD APPROVAL AND PUBLIC ROAD OR                21-31
+          STREET DEDICATIONS
+21.400    IMPROVEMENTS                                            21-34
+21.410    PUBLIC STREETS AND ROADS                                 21-35
+21.420    PRIVATE ROADS                                           21-40
+21.430    ROADWAY IMPROVEMENT STANDARDS                            21-42
+21.440    ACCESS CONTROL                                          21-43
+21.450    PEDESTRIAN ACCESS AND CIRCULATION                       21-47
+21.460    PENALTY AND ENFORCEMENT ON VIOLATION                    21-50
+21.470    REPEAL AND TRANSFERRAL PROVISIONS                       21-50
+
+                                     ancora *         Chapter 21, Land Divisions
+                                                              December    16, 2009
+                                                                                                     Page 21-1
+
+                                 CHAPTER 21         LAND DIVISIONS
+
+As authorized by law, including Oregon Revised Statutes Chapters 92, 197, and 215,
+subdivisions, partitions, replats and property line adjustments and streets created for the
+purpose of partitioning land shall be approved in accordance with this Chapter. The
+Chapter applies to all land within the unincorporated territory of the County. A person
+desiring to subdivide land, to partition land, or to create a street or a private road shall
+submit preliminary plans and final documents for approval as provided in this Chapter and
+State statutes.
+
+SECTION 21.010         Purpose
+In accordance with the provisions of O.R.S. Chapters 92, 197, and 215, this Ordinance
+sets forth the minimum standards governing the approval of land development, including
+subdivisions partition, replats, and property line adjustments as necessary to carry out the
+Wasco County Comprehensive Plan and to promote the public health, safety and general
+welfare. The purpose of these provisions and regulations are to:
+
+A.   Encourage well planned subdivision and partition development to the end that good
+     livable neighborhoods with all needed amenities and community facilities may be
+     created.
+
+B.   Encourage development in harmony with the natural environment and within resource
+     carrying capacities.
+
+C. Safeguard the interest of the public, the applicant, and the future lot owner.
+
+D. Improve land records and boundary monumentation.
+
+E.   Insure   equitable   processing   of    subdivision    plats    and    partitioning       plans,     and
+     accomplish to the greatest extent possible             the     goals   and      objectives      of   the
+     Comprehensive Plan for Wasco County.
+
+     No person may subdivide or partition land within Wasco County except in accordance
+     with O.R.S. Chapter 92 and the provisions of this Ordinance.
+
+SECTION 21.020 Definitions
+The definitions set forth in Section        1.090    of this Ordinance      shall    be   utilized for the
+purposes of this chapter.
+
+SECTION       21.030   Basic Provisions and Design Standards
+
+A.   Compliance Required: No land within the unincorporated territory of Wasco County
+     shall be subdivided or partitioned, and no plat shall be filed or recorded until
+     submitted to and approved by the Approving Authority.
+                                                           900 90 454               Chapter 21, Land Divisions
+                                                                                            December 16, 2009
+Page 21-2
+
+B. Minimum Standards: The requirements and standards set forth in this chapter are the
+   minimum ones to which a subdivision or partition must conform before approval by the
+   Approving Authority.
+
+C. Conformity with the Comprehensive Plan: All divisions of land shall conform to and be
+   in harmony with the Wasco County Comprehensive Plan and Comprehensive Plan
+   Map of that portion of the County within which the subdivision and partition lies.
+
+D. Conformity with Zoning Chapter: All divisions of land, regardless of the number of lots
+   or parcels, shall comply with all specifications authorized by Chapter 3 of this
+   Ordinance.      lll lots created shall conform in all respects with the applicable
+   regulations of Chapter 3, including uses of land, lot size and dimensions, space for
+   off-street parking, landscaping and other requirements as may be set forth.
+
+E. Relation to Adjoining Street System:             A subdivision or partition shall provide for the
+     continuation of the principal streets existing in the adjoining subdivisions or of their
+     proper projection when the adjoining property is not subdivided, and such streets shall
+     be of a width not less than the minimum requirements for streets set forth in these
+     regulations.      Where the Approving Authority determines that topographic conditions
+     make       such   continuation   or   conformity   impractical,   exceptions   may   be   made   as
+     provided for in Section 21.450 of this Chapter.
+
+F.   Redevelopment Plan:
+
+     1.     In subdividing or partitioning tracts of land into large lots which at some future time
+            could be further divided, the Director may require that blocks and lots shall be of
+            such size and shape, be so divided into lots, and meet such building site
+            restrictions as will provide for extension and opening of streets at intervals which
+            will permit a subsequent division of any parcel into lots of a smaller size which shall
+            have the minimum lot frontage on a street.
+
+     2.     No lot in a platted subdivision shall be reduced in size from that shown on the
+            recorded plat if the newly created lot will have less than the minimum lot area for
+            the zone in which it is located.
+
+     3. Any lot in a platted subdivision may be enlarged to approximate more closely the
+            minimum lot area for the zone in which the lot is located, provided that no leftover
+            lot areas shall be less than the minimum lot area for the zone.
+
+     4.     Any person dividing tracts of land into large lots which at some future time could be
+            further divided and still meet the minimum lot size requirement of the zone in which
+            the land is located shall provide suitable road access to each created parcel so
+            that the future development of each parcel will provide access for redevelopment
+            parcels or lots.
+
+December 16,2008                                                       20090454
+                                                                                               Page 21-3
+
+G. Access: A unit of land shall be considered to have access by way of a public road or
+   street, private road, or private easement road, if the following criteria are satisfied:
+
+   1.   The unit of land abuts on the road or street.
+
+   2.   There is a legal right appurtenant to the unit of land to use the road or street for
+        ingress and egress. A legal right to use a private road or private easement road
+        may be evidenced by: (a) an express grant or reservation of an easement in a
+        document recorded with the County Clerk; (b) a decree or judgment issued by a
+        court of competent jurisdiction; (c) an order of the County Governing Body; or, (d)
+        an express easement set forth in a duly recorded plat.
+
+   3. The road or street provides actual physical access for the unit of land.
+
+H. Access Requirements for Land Divisions: —-Each unit of land shall be provided with
+   access by a public road meeting standards noted in Table 1 (Rural Public Roadway
+   Design Standards) & 2 (Urban Public Roadway Design                        Standards),    except    as
+   provided below and in Table 3 (Private Access Standards):
+
+   1.   Private Easement Road - In all zones a unit of land may have access by way of a
+        private easement road upon a finding that such road provides access for not more
+        than three (3) units of land, serves not more than three (3) units of land, and that
+        the easement is a minimum 30’ in width;
+
+        The requirements      of Section     21.300   are not applicable to a Private       Easement
+        Road.
+
+        If the private easement road could provide access for more than three (3) units of
+        land based on existing zoning, structural setbacks shall be established from the
+        potential right of way of the public or private road and not the right of way of the
+        private easement road.
+
+   2.   Private Road - In resource areas only (areas zoned F-1, F-2, and A-1), a unit of
+        land may have access by way of a private road upon findings of the Approving
+        Authority that:
+
+        a.   Such private road provides access for not more than ten (10) units of land and
+             serves not more than ten (10) units of land;
+
+        b.   Private road approval is obtained pursuant to Section 21.300;
+
+        c.   Private road   is constructed    to standards of Section       21.420 when     more than
+             three (3) units of land use roadway;
+
+        d.   The primary use of the road is to           provide   access    for resource    activities.
+             Conflicting uses shall be minimized;
+
+                                                                                 r 21, Land Divisions
+                                                           2 0 0 g 0 4 5 4 Chapte December 16, 2009
+Page 21-4
+
+            e.   When service to more than ten (10) units of land is possible, provision shall be
+                 made to serve the area by public road, including but not limited to: (a)
+                 dedication of right-of-way; (b) extension and improvement of the roadway to
+                 public road standards such that not more than ten (10) units of land may be
+                 served.
+
+            If the private road could provide access for more than ten (10) units of land based
+            on existing zoning, structural setbacks shall be established from the potential right
+            of way of the public road and not the right of way of the private road.
+
+I.   Alignment: As far as practical, streets other than minor streets shall be in alignment
+     with existing streets by continuations of the center lines thereof. Staggered street
+     alignment resulting in "T” intersections shall wherever practical leave a minimum
+     distance of 200 feet between the center lines of streets having approximately the
+     same        direction and otherwise shall not be less than one hundred        twenty-five (125)
+     feet.
+
+J.   Half Streets: Half streets, while generally not acceptable, may be approved where
+     essential to the reasonable development of the subdivision or partition when in
+     conformity with the requirements of this Ordinance and when           possible to require the
+     dedication of the other half when the adjoining property is subdivided. Whenever an
+     existing half street is adjacent to land to be subdivided, the remaining half of the street
+     shail be dedicated within such subdivision. Reserve strips and street plugs may be
+     required to insure the objectives of obtaining full width streets.
+
+K. Streets Adjacent to Railroads, Freeways and Parkways:               When a subdivision or
+   partition contains or is adjacent to a railroad, a parallel street may be required on each
+   side of such railroad. A land strip of not less than twenty-five (25) feet in width shall
+     be provided along a railroad right-of-way for screen planting or park purposes between
+     the railroad and residential lots. Parallel, local service streets shall be provided on
+     each side of a freeway or parkway either within or abutting their right-of-way. When
+     such parallel streets are less than eighty (80) feet from such freeway or parkway the
+     intervening property shall be used for only park or thoroughfare purposes. Streets
+     paralleling railroads, at those cross streets where        grade separations are proposed,
+     shall be located at a distance from the railroad that provides for such grade separation
+     structure.
+
+L.   Existing Streets:  Whenever existing streets adjacent to or within a tract are of
+     inadequate width, additional right-of-way shall be provided at the time of subdivision or
+     partitioning.
+
+M. Future         Extension   of Streets:   Where   necessary   to give   access   to or permit    a
+     satisfactory future subdivision or partitioning of adjoining land, streets shall be
+     extended to the boundary of the subdivision or partition and the resulting dead-end
+
+                                                                    9 0 G 9 0 4 5 4
+Chapter 21, Land Divisions
+December     16, 2009
+                                                                                      Page 21-5
+
+   streets may be approved without a tumaround. Reserve strips and street plugs may
+   be required to preserve the objectives of street extensions.
+
+- Alleys: The minimum width of alleys, when provided in residential biocks, shall be
+  twenty (20) feet. Alleys shall be provided in commercial and industrial districts and
+   shalt not be less than twenty (20) feet in width.      The comers of all alleys at their
+   intersection with streets and other alleys shall be rounded     and have a   radius of not
+   less than ten (10) feet.
+
+. Pedestrian Ways:        When desirable for public convenience, pedestrian ways may be
+  required to connect to cul-de-sacs or to pass through unusually long or oddly shaped
+  blocks.
+
+. Cul-De-Sacs:      In general, dead-end (cul-de-sac) streets are not desirable, but if
+  provided, shall terminate in a turnaround that is consistent with Chapter 10 and the
+  local fire department.
+
+. Street Intersections:
+
+  1.   All streets shall intersect at right angles (90 degrees) one to the other; where an
+       intersection at ninety (90) degrees cannot be secured by reason of physical
+       conditions of the site an angular intersection of not less than sixty (60) degrees
+       may be permitted.
+
+  2.   Property corners at street intersections shall be rounded and with a radius of not
+       less than ten (10) feet.
+
+  3.   Major thoroughfares intersections shali have roadway curb radii of not less than
+       twenty-five (25) feet; all other street intersections shall have roadway curb radii of
+       not less than twenty (20) feet.
+
+. Reserve Strips:    Reserve strips or street plugs dedicated to the County and controlling
+  the access to a street may be approved or required when necessary to:
+
+  1.   Prevent access to the street on a side where additional width is required to meet
+       the minimum right-of-way standards;
+
+  2.   Prevent access to abutting property at the end of a street in order to assure the
+       proper extension of the street pattem and the orderly development of land lying
+       beyond the street; or
+
+ 3.    Prevent the uncontrolled development of land.
+
+. Marginal Access Streets:     Where a subdivision or partition abuts or contains an
+  existing or proposed arterial street, the Approving Authority may require marginal
+  access streets, reverse frontage lots with suitable depth, screen planting contained in
+
+                                                 Q0GI0AE*               crater oie
+Page 21-6
+
+     a non-access       reservation along the rear or side property line, or other treatment
+     necessary for adequate protection of residential properties and to afford separation of
+     through and local traffic.
+
+T.   Utility Lines:    Easements for sewers, water mains, electrical lines, or other public
+     utilities shall be dedicated whenever necessary.    The easements shall be at least
+     twelve (12) feet wide and centered on lot lines where possible, except for utility pole
+     tieback easements which may be reduced to six feet in width.
+
+U. Water Courses: if a subdivision or partition is traversed by a water course such as a
+   drainage way, channel, or stream, there shall be provided a storm water easement or
+   drainage right-of-way conforming substantially with the lines of the water course, and
+     such further width as will be adequate for the purpose.       Streets or parkways parallel to
+     major water courses may be required.
+
+V. Environmental Hazards:          If a subdivision or partition contains known hazards resulting
+     from potential for flooding, land movement, high water tables, erosion, or similar
+     natural phenomena, the Approving Authority may require dedication of protective
+     easements for uses that would minimize aggravation of the environmental hazard.
+
+W. Blocks:       No block shall exceed twelve hundred (1200) feet in length between streets.
+     In blocks over eight hundred (800) feet in length there shall be a cross walkway of not
+     less than ten (10) feet in width, near the middle of the block. The width of blocks shall
+     be such as to allow two tiers of lots, except where in the opinion of the Approving
+     Authority a relatively short length of double frontage lots are unavoidable.
+
+X. Lots:
+
+     1.     Lot size, width, shape and orientation shall be appropriate for the location of the
+            subdivision and for the types of use permitted. Lot dimensions shall not include
+            part of existing or proposed streets. All lots shall be buildable, except a public
+            utility lot. Depth and width of utility lots shall be adequate to provide for standard
+            setbacks for service structures, and to furnish off-street parking facilities required
+            by the kind of use contemplated. In no other case shall the width or area be less
+            than that prescribed for the zone in which the lot is proposed.
+
+     2.     Each side lot line shall be at right angies to the adjacent street line or radial to a
+            curved street line, unless the Approving Authority determines that variation from
+            these requirements is necessitated by unusual circumstances such as topography
+            and site location.
+
+     3.     Lots with double frontage shall be avoided, except where the Approving Authority
+            determines that such lots are essential to provide separation or residential
+            development from major traffic arterials or adjacent non-residential activities, or to
+            overcome specific disadvantages of topography and orientation. A planting screen
+            easement at least ten (10) feet wide, across which there shall be no rights of
+
+seme means                                                          20090451
+                                                                                             Page 21-7
+
+          access, may be required along the line of lots abutting such a traffic arterial or
+          other incompatible use. Such area shall be considered the rear portion of the lot.
+
+     4.   Flag lots shall not be permitted, except when unusual circumstances exist. Such
+          circumstances may include characteristics of topography and site which affect
+          construction on the property or access to the property. Approval of the creation of
+          flag lots by the Approving Authority shall be based on specific findings indicating
+          what unusual circumstances exist.
+
+Y.   Public Open Space:
+     Elementary and high school sites, neighborhood       playgrounds,     parks and     recreation
+     areas shall be located in accordance to the development pattern of the County or the
+     County area. When such public school or recreation sites are within the area of an
+     approved subdivision they may be dedicated to the County or shall be reserved until
+     such time as the County is able to acquire them. Parks and recreation areas shall be
+     provided at the rate of one (1) acre of recreation area to every one hundred people.
+
+Z.   Subdivision Name: The name of any subdivision shall not duplicate or be so similar
+     as to be confused with the name of any existing subdivision or parcel or area within
+     the County.
+
+AA.Street Names:      Except for extensions of existing streets, no street name shall be used
+     which will duplicate or be confused with the names of existing streets.        Street names
+     and numbers shall conform to the established pattern in the surrounding area and, if
+     near a city, to the pattern in the city, and shall be subject to the approval of the
+     Approving Authority.
+
+BB.Sreet Signs:      All street and highway signs shall meet the County standards for such
+   signs.
+
+                                                      9, ¢) G 9 0 4 3) 4    Chapter 21, Land Divisions
+                                                                                    December 16, 2009
+Page 21-8
+
+SECTION 21.100            Land Partitioning Approval
+
+A. Approval of Preliminary Partition Plans:
+
+     1.     An application for preliminary partition plan approval shall be initiated as provided
+            in Section 2.060.A. of this Ordinance.
+
+    2.      A preliminary partition application, plan and supporting documentation shall include
+            the following:
+
+            a. A vicinity map        of such    scale to clearly locate the proposed           partitioning in
+               relation to adjacent subdivisions, partitions, roadways and other land parcels;
+
+               North point, scale and date;
+
+               A plan of the proposed partitioning, showing boundaries of the total contiguous
+               ownership, boundaries of each proposed tract, the number assigned to each
+               tract, acreage of each tract and location and name of existing and proposed
+               roads;
+
+               Private streets and all restrictions or reservations relating to private streets;
+
+               Name and address of the landowners, the applicant and the surveyor, if any,
+               employed to make necessary surveys and prepare the description of each tract
+               involved;
+
+               Proposed      means      and location of water supply and sewage disposal for each
+               tract;
+
+               Zoning classification of the land and Comprehensive Plan map designation;
+
+               Predominant natural features, such as water courses and their flows, marshes,
+               rock     outcroppings,     and   areas   subject   to   flooding,   sliding   or other   natural
+               hazards;
+
+               Any existing permanent structures;
+
+               Draft of proposed restrictions and covenants affecting the partitioned land;
+
+             . Legal description of the property being partitioned;
+
+               If not sewered and located in an “F-1", "F-2", or "A-1" zone, a statement signed
+               by an authorized         representative of the Department of Environmental               Quality,
+               State of Oregon, or County Sanitarian regarding the suitability of each parcel to
+               be partitioned for subsurface sewage disposal; or a signed statement shown on
+               the face of the final partition plan that no investigation has been made of the
+hepter   24, Land Divs
+December 16,2008                                                            20090451
+                                                                                                     Page 21-9
+
+             suitability   of   any   given   parcel    by   an   authorized   representative        of   the
+             Department of Environmental Quality, and that no warranty is made that any
+             parcel will be usable for subsurface sewage disposal;
+
+        m. If not sewered and located in an F-F or any other non-resource zone, a
+           statement signed by an authorized representative of the Department of
+           Environmental Quality approving each parcel to be partitioned for subsurface
+           sewage disposal; or a statement signed by the County Sanitarian or an officer
+           of a public sewer district or corporation warranting the availability of sewer
+            hook-ups for each parcel to be partitioned.
+   3.   Standards for approval of a preliminary partition plan.
+
+        a.   A decision on a preliminary partition plan application shall be made                    by the
+             Approving Authority as provided in Chapter 2 of this Ordinance.
+
+        b. The preliminary partition plan shall be approved if the Approving Authonty finds
+             that the information required by this subsection has been provided and if the
+             design and development standards of Section 21.030 of this chapter have
+             been met.
+
+   4.   The Approving Authority may require dedication or reservation of land and utility or
+        drainage easements; and may impose conditions promoting redevelopment of the
+        parcels if, in view of the zoning and comprehensive plan map designation, the
+        acreage of a parcel or parcels in contiguous ownership make additional partitioning
+        of the subject property feasible.
+
+   5.   Duration of approval for preliminary partition plan:      Approval of a preliminary
+        partition plan shall be valid for twenty-four (24) months from the date of tentative
+        approval. During such time, all conditions of approval shall be met and required
+        documentation shall be filed with the Director as an application for final approval,
+        and shall otherwise comply with the provisions of subsections (2) and (3) of this
+        section.
+
+B. Approval of Final Partition Plat:
+
+   1.   Within twenty-four (24) months from the date of preliminary partition approval, the
+        applicant shall initiate a request for final partition plat approval by filing with the
+        Director a final plat prepared in accordance to those standards specified in Section
+        21.100 of this Chapter.
+
+   2.   The approval of a final partition map           by the Director is a ministerial action.          The
+        Director shall grant final approval if he determines that:
+
+        a. the final plat and any supporting documents are in substantial conformance
+             with the approved preliminary partition pian;
+
+                                                       29 0 C 9 0 4 +) 4          Chapter 21, Land Divisions
+                                                                                          December    16, 2009
+Page 21-10
+
+          b. any conditions imposed by the Approving Authority have been met;
+
+          Substantial conformance means that any differences between the preliminary and
+          final plans are "minor amendments", as defined in Section 21.110(1} of this
+          Ordinance.
+
+     3.   All access easements created as part of land partitioning become effective when
+          the plat is recorded by the County Clerk. If an access easement is pre-existing or
+          if the access easement has been recorded with the County Clerk prior to the final
+          approval of the land partition, then the recorded Document Number shall appear
+          on the face of the plat.
+
+     4.   The granting of final plat approval shail not be affected by a change in the zone or
+          plan map designation of the subject property made after approval of the
+          preliminary partition plat.
+
+     5. After approval of the final partition plat, the Director and the County Surveyor shall
+        endorse their approval on the original plat. The original plat shall be recorded with
+          the County Clerk and a copy with the County Surveyor's Office.
+
+     6.   Pursuant to Oregon Revised Statute (O.R.S) 92.055(1) a parcel larger than ten
+          (10) acres is not required to be surveyed and monumented but shall comply with
+          the following:
+
+          a.   The approximate acreage of each unsurveyed parcel shall be shown.
+
+          b. Any unsurveyed parcel shall have the word “unsurveyed” placed in bold letters
+             adjacent to the parcel number on the plat at provided in (5) above.
+
+          c.   Unsurveyed parcels need not comply with O.R.S. 92.050(5), (7) and (8).
+
+     7.   Pursuant   to O.R.S.   92.095,   prior to recordation   of the final partition   map,   the
+          current years’ taxes must be paid in full.    (The tax year runs from July 1° through
+          June 30").
+
+     8.   if the property is zoned “A-1” Exclusive Farm Use, a statement shall appear on the
+          face of the partition plat stating that the land division is for commercial farm use.
+
+C.   Final Land Partition Plat Requirements:
+
+     1. Conformance to Preliminary plan.          The   plat shall substantially conform to the
+        preliminary plan as approved.
+
+     2.   Preparation of the Plat.
+
+          a. A plat shall be prepared      on 4 mill (minimum)      double   matte polyester film,
+
+December 16,2009                                                   20090454
+                                                                                                 Page 21-11
+
+       approved by the County Surveyor, on a standard 18” x 24” sheet, with archival
+       permanent black ink, in a format available at the Wasco County Surveyors
+       Office.
+
+  b. All signatures on the original must be in archival quality black ink.
+
+  c.   The lettering shall be a size or type to be clearly legible when copies are made.
+
+  d. A face sheet and index must be included for a plat with 3 or more sheets.
+
+. Compliance with ORS 209.250.              A plat shall comply with all requirements of ORS
+  209.250 including:
+
+  a.   Narrative
+
+  b.   Location of the survey by one-fourth section, Township and Range.
+
+       Date of the survey.
+
+       Scale and North Arrow.            The plat shall be drawn to a standard engineering
+       scale sufficient to depict the change, approved by the County Surveyor.
+
+       The distance and course of all lines traces or established, giving the basis of
+       bearing.
+
+       Measured    bearings      and     distances     used     as   a   basis   for   establishing      or
+       reestablishing lines or monuments separately indicated from those of record.
+
+       Monuments     set   and   their    relation   to older    monuments       found.      A   detailed
+       description of monuments found and set shall be included and all monuments
+       set shall be separately indicated from those found.
+
+       The surveyor’s seal and original signature.
+
+       The surveyor's business name and address.
+
+. Compliance with 92.050. A person shall not submit a plat of a partition for record
+  until all the requirements of ORS 209.250 and the plat requirements of the partition
+  have been met.
+
+  a.   The survey for the plat shall be done in a manner to achieve sufficient accuracy
+       that measurements may be taken between monuments within one-tenth of a
+       foot or one ten-thousandth of the distance shown on the plat, whichever is
+       greater.
+
+                                               2 0 C 9 0 4 i) 4                  Chapter 21, Land Divisions
+                                                                                         December 16, 2009
+Page 21-12
+
+         b.   The plat shall be made by professional land surveyor.
+
+         c.   The plat shall be of sufficient scale and lettering size, approved by the County
+              Surveyor, so that:
+
+              (1) The survey and mathematical information and all other details are clearly
+                    and legibly shown on the plat.
+
+              (2) Each lot or parcel is numbered consecutively.
+
+              (3) The lengths and courses of the boundaries of each lot or parcel are shown
+                    on the plat.
+
+              (4) Each street is named and shown on the plat.
+
+         d.   The locations and descriptions of all monuments found or set must be carefully
+              recorded upon the plat and the proper courses and distances of all boundary
+              lines, conforming to the Surveyor’s Certificate, must be show.
+
+         e. The location, dimensions and purpose of ail recorded and proposed public and
+            private easements must be shown on the plat along with the County Clerk’s
+            recording reference if the easement has been recorded with the County Clerk.
+              Private easements become effective upon the recording of the plat.
+
+         f.   The area of each lot or parcel must be shown on the plat, to the nearest one-
+              hundredth of an acre.
+
+         g.   In addition to showing bearings in degrees, minutes and seconds, and
+              distances in feet and hundredths of a foot, the following curve information must
+              be shown on the plat:
+
+              (1) Arc length
+
+              (2) Chord length
+
+              (3) Chord bearing
+
+              (4) Radius
+
+              (5) Central Angle
+
+         h.   The final plat may not be required to show any information or requirement that
+              is or may be subject to administrative change or variance by the county, or any
+              other information unless authorized by the County Surveyor.       Examples of
+              authorized information include:
+
+Chapter 21, Land Divisions                                              9     ’       a
+December 16, 2009                                                       aed 0 C 9 C a .   4
+                                                                                          Page 21-13
+
+          (1) Parcels located in an “A-1”, “F-1" or “F-2” zone shall contain the following
+             statement”    “No investigation has been made of the suitability of any given
+             parcel by an authorized representative of the Department of Environmental
+             Quality, and no warranty is made that any given parcel will be used for
+             subsurface sewage disposal.     If subsurface sewage disposal evaluations
+             have been completed, a copy shall be filed with the Wasco County
+             Planning Department.
+
+          (2) Parcels located in any other zone shall contain the following statement:
+              “The parcels have been approved for subsurface sewage disposal by an
+             authorized   representative   of the   Oregon   Department     of Environmental
+             Quality.”
+
+          (3) Planning Department File Number
+
+          (4) Tax lot Information
+
+          (5) Zoning classification and Comprehensive Plan Designation
+
+          (6) Table indicating the acreages of all existing and newly created parcels.
+
+          (7) Assessor Account Number for each existing property.
+
+5.   Monuments.
+
+     a.   The Initial Point of a plat must be on the exterior boundary of the plat and must
+          be marked with a monument meeting the specifications of ORS 92.060(1).
+          The location of the monument shall be with reference by survey to a known
+          comer, per ORS 92.060 and shown on the plat.
+
+     b. The exterior boundary and all parcel corners must be monumented                 per ORS
+        92.060.
+
+     c.   For partitions involving land in a flood plain, the provisions of Section 21.210(5)
+          shall apply.
+
+6.   Surveyors Certificate. The plat must include a Surveyors Certificate, together with
+     the seal and signature of the surveyor of record, to the effect that the surveyor has
+     correctly surveyed and marked with proper monument the lands represented,
+     including the initial point of the plat and its location, and accurately describing by
+     metes and bounds, or other description as approved by the County Surveyor, the
+     tract of land upon which the parcels are laid out.
+
+6.   Declaration.
+
+     a. The plat shall include a declaration, taken before a notary public, stating that
+                                                                          Chapter 21, Land Divisions
+
+                                                 906 9045        4                December16, 2009
+Page 21-14
+
+             the declarant has caused       the   plat to be   prepared   in accordance   with the
+             provisions of ORS 92.
+
+              Any dedication of land to public purposes or any public or private easements
+              create, or any other restrictions made, shall be included in the Declaration.
+
+              If the declarant is not the fee owner of the property, the fee owner and the
+              vendor under any instrument of sale shall also execute the Declaration for the
+              purpose of consenting to the property being partitioned.
+
+              If the plat contains any dedication or donation of land to public purposes, the
+              holder of any mortgage or trust deed shall also execute the Declaration
+
+              Notwithstanding the provisions of subsection a. to d., the fee owner, vendor or
+              the mortgage trust deed holder may record an affidavit consenting to the
+              declaration, pursuant to ORS 92.075(4).
+
+    8.   General Information.     No plat shall be approved unless:
+
+              Streets or Road for public use are dedicated without reservation or restriction
+              other than reversionary rights upon vacation.
+
+             All easements provided for public services, utilities, or access are shown on the
+             face of the plat along with the legal description and any limitations of the
+             easements. If it is a pre-existing easement or if the easement has been filed
+             with the County Clerk prior to the final approval of the land partition, then the
+             Recorders number shall appear on the face of the plat.
+
+              Names      and addresses of the partitioner, owner, mortgagee,      if any, and the
+              person preparing the plat are shown.
+
+              The names of any streets intersecting or within the parcels are shown.
+
+              Ail easements provided for public services, utilities, or access must be shown
+              on the face of the map along with the legal description and any limitations of
+             the easements.     If it is a pre-existing easement or if the easement has been
+             filed with the County Clerk prior to the final approval of the land partition, then
+             the Recorder's number shall appear on the face of the map.
+
+              Zoning classification and Comprehensive Plan Designation
+
+              Space for date and signatures of the following officials is made:
+
+              (1) Planning Director or designee
+
+              (2) County Surveyor
+Chapter 21, Land Divisions                                          9 6 a 9 0 4 5 4
+December 16, 2009
+                                                                                                      Page 21-15
+
+               (3) County Assessor
+
+               (4) County Tax Collector
+
+          h.   Any additional information made a condition of approval of the tentative plan is
+               shown.
+
+     9.   County Surveyor Fees: The partitioner shall pay a fee to the County Surveyor as
+          provided in O.R.S. 92.100{2) which is included in the cost at the time of the plat
+          application.
+
+SECTION 21.110           Amendments to Preliminary Plans and Final Plats or Maps
+
+A.   Definitions:
+
+      1. "Minor Amendment" means a change which:
+
+          a.   Does not change the number of parcels created by the subdivision or partition;
+
+          b.   Does not enlarge the boundaries of subdivided or partitioned area;
+
+          c.   Does not change the general location or amount of land devoted to a specific
+               land use; or
+
+          d.   Includes only minor shifting of the established lines, location of buildings,
+               proposed public or private streets, pedestrian ways, utility easements, parks or
+               other public open spaces.
+
+     2.   “Major Amendment" means any change which is not a minor amendment.
+
+B. Approval of Minor Amendments:        A minor amendment to an approved preliminary
+   subdivision or partition plan or to an approved final subdivision plat or final partition
+   map may be approved by the Director.
+
+C. Approval of Major Amendments:        Approval of a major amendment to an approved
+   preliminary subdivision or partition preliminary plan or to an approved final
+   subdivision plat or final partition plat shall be subject to the provisions of Section
+     2.060 of this Ordinance.
+
+                                                      2   0   C   9   0   4   a   4   Chapter 21, Land Divisions
+                                                                                              December 16, 2009
+Page 21-16
+
+SECTION 21.115           Property Line Adjustments/Replats
+The decision on a request for a Property Line Adjustment or Partition                           Replat shall be
+initiated as provided in Section 2.060.A. of this Ordinance.
+
+A. Preliminary      property line adjustment/replat map shall meet the same                          standards
+      required for preliminary partition approval, described in Section 21.100.A.
+
+     . The applicant(s) shall submit a signed             statement    explaining    the    purpose      of the
+       proposed property line adjustment.
+
+      The    applicant(s)      shall   submit   a copy   of the   property   deed.         No     property   line
+      adjustment may be approved unless all properties involved were lawfully created.
+
+SECTION 21.120 Property Line Adjustment/Replat Approval Standards
+The request for a property line adjustment or replat shall be approved by the Director if
+the following criteria are met;
+
+A.    The proposed property line adjustment/repiat will not result in the creation of any new
+      tax lot.
+
+      The proposal will not render any property unusable, nor shail the usefulness, utility or
+      viability of the property be reduced from the designated purpose statement of the
+      zoning district in which the property is located.
+
+      Property which presently conforms to the lot size requirements of the zoning district in
+      which it is located shall not become           nonconforming as a result of the property line
+      adjustment/replat.
+
+      Property line adjustments/replats shall result in greater conformity where it can be
+      achieved. Property line adjustments/replats to nonconforming property shall not result
+      in greater nonconformity, provided however, the Director may approve a reduction in
+      area which will result in greater nonconformity if the Director finds the proposal will
+      benefit the public interest.
+
+      Adjusted property lines may cross zoning district boundaries unless the adjustment
+      will increase the number of parcels or lots which could potentially be created, based
+      on the density requirements of the applicable zoning district.
+
+      The proposal will not cause any existing development to be placed in violation of the
+      property development standards of the zone, or force a violation of this ordinance.
+
+      Proposed      property     line adjustments/replats   which     have the net result of physically
+      relocating a parcel to a new location beyond an existing common                      boundary line or
+      which requires the creation of a private or public road will not be acted on, and must
+      be reviewed under Section 21.100 of the Wasco County Land Use and Development
+Chapter 21, Land Divisions
+December 16, 2009                                                            20090451
+                                                                                        Page 21-17
+
+     Ordinance.
+
+SECTION 21.125     Final Property Line Adjustment/Replat Map Requirements
+All final property line adjustment/replat map(s) shall meet the same standards required
+for final partition approval described in Section 21.100.C., Final Land Partition Map
+Requirements.
+
+SECTION 21.130      Survey Requirements for Property Line Adjustments/Replats
+
+A. An adjusted property line created by the relocation of a common boundary as
+   described in ORS 92.010 (7)(b) shall be surveyed and monumented in accordance
+   with ORS 92.060 (3). Said survey shall comply with ORS 209.250, and shall be filed
+   with the Wasco County Clerk. If all property affected by the property line adjustment
+   is greater or becomes greater than ten (10) acres the requirement of a survey and
+     monumentation will be waived.
+
+B.   Replats shall be reviewed in the same manner as property line adjustment requests,
+     with the exception that the requirements of ORS 92.180 - 92.190 shall apply.
+
+                                              20690451                  Chapter 21, Land Divisions
+                                                                                December 16, 2009
+Page 2 1-18
+
+SECTION 21.200           Preliminary Subdivision Plan Approval
+The approval of a preliminary subdivision plan is reviewed by the Planning Commission
+subject to the provisions of Section 2.060 (c) of this Ordinance.
+
+A.   Application for Preliminary Subdivision Plan Approval:
+
+     1. An     application for preliminary subdivision      plan   approval   shall    be    initiated   as
+           provided in Chapter 2 of this Ordinance.
+
+          The applicant shall file with the Director a preliminary subdivision plan, together
+          with improvement plans and other supplementary information required by
+          subsection (B) of this Section to demonstrate the design and objectives of the
+          subdivision.
+
+           The preliminary plan shall be clearly and legibly drawn.       It shall show all required
+           information to scale so that the Approving Authority may have an adequate
+           understanding of what is proposed.    Under ordinary circumstances, the scale of
+           the drawing is to be one (1) inch equals one hundred (100) feet, or one (1) inch
+           equals fifty (50) feet.
+
+B.   Information Required in the Preliminary Subdivision Plan:
+
+         . The proposed name of the subdivision or major partition.
+     _
+
+           North point, scale, date of application, and basis of bearing.
+
+           Names and addresses       of the   subdivider,   engineer,   surveyor,     land   planner     or
+           landscape architect.
+
+           The tract description according to the real estate records of Wasco County.
+
+           The boundary lines (accurate in scale) of the tract to be subdivided.
+
+           Contour lines may be required at intervals to be determined by the Director.
+
+           The names of adjacent subdivisions or the names of recorded owners of adjoining
+           parcels of unsubdivided land.
+
+           The location, width and names of all existing or plotted streets or other public ways
+           within or adjacent to the tract, existing permanent buildings, railroad rights-of-way
+           and other important features such as section lines, political subdivisions or
+           corporation lines and school district boundaries.
+
+           Existirig sewers, water mairis, culverts or underground utilities and improvements
+           within the tract or immediately adjacent thereto together with pipe sizes, grades
+           and locations indicated.
+
+Chapter 21, Land Divisions
+December 16, 2009                                                  90090451
+                                                                                                 Page 21-19
+
+10. Ail parcels of land intended to be dedicated for public use or reserved in the deeds
+    for the use of all property owners in the proposed subdivision, together with the
+   purpose of conditions or limitations of such reservation, if any.
+
+11. The location, names, width and approximate grades of all streets proposed or
+    existing in the subdivision, and the approximate widths and locations of proposed
+   easements for drainage, sewerage and public utilities.
+
+12. Typical cross-sections       of proposed       streets, showing    all improvements        proposed
+   within the street right-of-way at such scale to clearly show the details thereof.
+
+13. Approximate location of all areas subject to inundation or storm water overflow and
+    the location, width and direction of flow of all watercourses.
+
+14. Proposed lots, approximate lot dimensions, and lot numbers. Where lots are to be
+    used for purposes other than residential, it shall be indicated upon such lots.
+
+15. Parks, playgrounds,       recreation areas, parkways, and other open space for public
+   use.
+
+16.Locations of proposed tree plantings or other plantings.                  Appropriate information
+   clearly stating the map is a tentative plan.
+
+17.Proposed       source    of water     supply,   if any;    estimated   volume      to be available,
+   together with data regarding the location, type, and size of all storage facilities,
+   distribution lines, fire hydrants, and gate valves.
+
+18.If domestic water supply proposed by the developer includes the drilling of wells,
+    information on the feasibility of well drilling. Such information wilt be provided even
+   if the developer is not required by the Commission to drill the wells.
+
+19. The proposed method of sewage disposal.
+
+   a.     If to be served by a community sewer system, data regarding the location, type,
+          size, approximate grade, and capacity of all collection lines, feeder lines, trunk
+          lines, pumping stations, storage facilities, backflow prevention devices, and
+          gate valves. If treatment is to be accomplished by an existing municipal or
+          public sewage facility, a statement regarding the ability of the facility to
+          accommodate the projected increased load. If treatment is to be accomplished
+          by a new installation or privately owned treatment facility, a statement regarding
+          conformity   to   applicable    regulations    of   the   Oregon    State    Department        of
+          Environmental Quality.
+
+   b.     If to be served by a community collection and storage system, data regarding
+          the location, type, size, approximate grade, and capacity of all lines, holding
+                                                                                 Chapter 21, Land Divisions
+                                                             90090451                    December16, 2009
+Page 21-20
+
+               tanks, storage facilities, pumping facilities, and valves.
+
+          c.   If to be served by subsurface sewage disposal, a statement from an authorized
+               representative of the Department of Environmental Quality, State of Oregon, or
+               the County Sanitarian regarding the approval of each lot or parcel to be sold for
+               installation of septic tank facilities.
+
+     20.Information on the source of other public utilities; proposed deed               restrictions, if
+          any; and the irrigation district involved and provisions for delivering irrigation water
+          to the lots in the subdivision.
+
+     21. The location of any environmental hazard; area unsuitable for building purposes;
+         or land subject to mass movement, excessive erosion, or similar natural
+          phenomena.
+
+     22. Proposed building setback lines.
+
+     23. Vicinity sketch showing how the proposed streets and alleys may                     connect with
+         existing streets in neighboring subdivisions or undeveloped property.
+
+C.   Development Phasing:
+
+     1. A preliminary subdivision plan may provide for platting in as many as three (3)
+        phases. The preliminary plan must show each phase and be accompanied by
+        proposed time limitations for approval of the final plat for each phase.
+
+     2.   Time limitations for the various phases must meet the following requirements:
+
+          a.   Phase 1       final plat shall be approved within twelve (12) months of preliminary
+               approval.
+
+          b.   Phase 2 final plat shall        be   approved   within   twenty-four   (24)     months   of
+               preliminary approval.
+
+          c.   Phase 3 final plat shall be approved within thirty-six (36) months of preliminary
+               approval.
+
+D. Criteria for Approval of Preliminary Subdivision Plan:
+
+     1. A decision on the preliminary subdivision plan application shall be made by the
+          Approving Authority as provided in Chapter 2 of this Ordinance.
+
+     2.   The preliminary subdivision plan shall be approved if the Approving Authority finds
+          the following:
+
+          a. The information required by this Chapter has been provided;
+Chapter 21, Land Divisions                                       9 0 G g 0 4 5 4
+December 16, 2009
+                                                                                                                 Page 21-21
+
+          b.    The design and development standards of Section 21.030 of this Chapter have
+                been met; and
+
+          c.    If the preliminary plan provides for development                    in more than one phase, the
+                Approving Authority makes findings and conclusions that such phasing is
+                necessary due to the nature of the development, and that the applicant will be
+                able to comply with the proposed time limitations.
+
+E.   Duration of Preliminary Subdivision Plan Approval:
+
+     1. Approval         of a preliminary         subdivision     plan    shall    be valid for twenty-four (24)
+          months from the date of approval of the preliminary plan, provided that if the
+          approved preliminary plan provides for phased development, the approval shall be
+          valid for the time specified for each phase, subject to the limitations of Section
+          21.200(CX2) of this Ordinance.
+
+     2.   If any time limitation is exceeded, approval of the preliminary subdivision plan, and
+          any subsequent phases, shall be void. Any subsequent proposal by the applicant
+          for division of the property shail require a new development request.
+
+F, Granting of Extensions:                   Extensions of time may be allowed as outlined in Section
+   2.125.B.
+
+SECTION 21.210 Final Subdivision Plat Approval
+Approval of a final subdivision plat is reviewed by the Pianning Commission and subject
+to the provision of Section 2.060(2) of this Ordinance.
+
+A. Application for Final Subdivision Approval:
+
+     1.   Before     expiration       of the     validity   of the    preliminary         subdivision   plan     approval
+          obtained pursuant to Section 21.200 of this Ordinance, the applicant shall cause
+          an Oregon licensed land surveyor to survey the subdivision and to prepare a                                 final
+          plat, in conformance with the approved preliminary plan.
+
+     2.   The applicant shall initiate a request for final plat approval by filing with the Director
+          a final plat, an exact reproducible copy, other supporting documents as described
+          in subsections (B) to (F) of this Section, and the appropriate fees as established by
+          the County Goveming Body.
+
+B.   Einal Subdivision Plat Requirements:
+
+     1.   The    final   plat shall     be     prepared     in conformance         with all provisions         of Section
+          21.210.
+
+                                                                                      ,          Chapter 21, Land Divisions
+                                                                               Are                       December 16, 2009
+                                                                              om
+                                                                         co
+                                                                on)
+                                                                 +
+Page 21-22
+
+    2.   Prior to submission for final approval, the final subdivision plat shall be signed by
+         all persons who own land in the subdivision and the mortgagees, or by their
+         authorized representatives or any title-holder. The plat shall bear the signature
+         and seal of the licensed land surveyor responsible for its preparation and
+         certification that the plat has been correctly surveyed and properly monumented.
+         All signatures must be with black ink.
+
+C. Information Required in the Final Subdivision Plat:           The following information shall be
+    included on the final plat or in the supporting documents, and the plat shall otherwise
+    comply with O.R.S. 209.250:
+
+    1.   Name of Subdivision.
+
+    2.   North point, scale and date the plat was prepared.
+
+         Legal description of the subdivision boundaries, area of the subdivision in acres,
+         and the location of the subdivision by one-fourth section and Donation Land Claim,
+         Township and Range.
+
+         Names and addresses of the subdivider, owner, mortgagee, if any, and the person
+         Preparing the plat.
+
+         Subdivision         block and lot boundary lines and street right-of-way and center lines
+         with dimensions to the nearest 1/100th of a foot, bearings or deflection angles,
+         radii, arcs, points of curvature, chord bearings and distances, and tangent
+         bearings.   Subdivision boundaries, lot boundaries, and street bearings shall be
+         shown to the nearest thirty (30) seconds with basis of bearings.
+
+         Names and width of the portion of streets being dedicated, the width of any
+         existing right-of-way, and the width on each side of the center line. For streets on
+         curvature, curve data shall be based on the street center line. In addition to the
+         center line dimensions, the radius and central angle shall be indicated.
+
+         Easements denoted by fine dotted lines, clearly identified and, if already of record,
+         their recorded reference. If an easement is not of record, a certified copy of the
+         easement shall be provided. The width of the easement, its length and bearing,
+         and sufficient ties to locate the easement with respect to the subdivision must be
+         shown.     If the easement is being dedicated by the map, it shall be properly
+         referenced in the owner's declaration.
+
+         Locations and widths of drainage channels, railroad rights-of-way, reserve strips at
+         the end of stubbed streets or along the edge of partial width streets on the
+         boundary of the subdivision.
+
+         Numbering of blocks and lots, as follows:
+
+Chapter 21, Land Divisions                                     9 4] C 9 0 4 5 4
+December 16, 2009
+                                                                                                 Page 21-23
+
+   a.        Block numbers beginning with the number "1" and continuing consecutively
+             without omission or duplication throughout the subdivision. The numbers shall
+             be solid, of sufficient size and thickness to stand out and so placed as not to
+             obliterate any figure or lot numbers.     In an addition to a subdivision of the same
+             name,   numbers     shall   be   a continuation     of the    numbering    in the    original
+             subdivision.
+
+        b.     Lot numbers     beginning with the number "1" and numbered              consecutively in
+              each block.
+
+10. Ties to any city, county, or adjacent subdivision boundary lines.
+
+11. Zoning classification of the property within the subdivision.
+
+12. The course of all lines traced or established, giving the basis of bearing and the
+   distance and course to a section comer,               one-sixteenth corer or Donation Land
+   Claim corner in Township and Range.
+
+13. Space for date and signature of the County officials specified in subsection (K.) of
+    this Section.
+
+14.Any conditions           specified    by the Approving      Authority   upon   granting   preliminary
+   approval.
+
+15.A copy of the covenants, if any, that will be placed on the subdivision, including the
+    volume and page(s) of recording with Wasco County.
+
+16.A copy of all documents relating to establishment and maintenance of private
+   facilities, common areas and easements, including the volume and page(s) of
+   recording with Wasco County.
+
+17.A copy of all documents relating to additional requirements or restrictions required
+    by the County as a condition of approval.
+
+18.A declaration and acknowledged by all parties having any record title interest in the
+    land consenting to the preparation and recording of the plat.
+
+19.A     declaration signed        and    acknowledged      by ail parties having      any record title
+   interest in the land dedicating all land intended for public use and common
+   improvements, including but not limited to streets, roads, parks, sewage disposal
+   and water supply systems the donation of which was made a condition of the
+   approval of the tentative plan.
+
+20.A narrative per O.R.S. 209.250(2).
+
+21.All subdivisions outside the boundaries of an irrigation district, drainage district,
+
+                                                         DOCIOAE*                 rarer anger noose
+Page 21-24
+
+         water control district, or district improvement company must file a statement of
+         water rights. If a water right is appurtenant to the lands of the subdivision, the
+         statement of water nght and a copy of the subdivision plan must be submitted to
+         the Oregon          Water Resources       Department.     A copy of the acknowledgment from
+         the Water Resources Department must be submitted with the final subdivision plat.
+
+D. Survey Requirements for Final Plat:
+
+    1.   Format.      The plats shall be drawn with an archival quality black permanent ink,
+         approved       by the      County    Surveyor,    on   4 mil (minimum)   thick polyester       based
+         transparent drafting film, or an equivalent, matted on both sides, eighteen inches
+         by twenty-four inches (18"x24") in size. The quality of said drafting film and any
+         other drafting particulars will be subject to the County Surveyor's approval. No
+         diazo process may be used.
+
+    2.   Scale.     The plat shall be drawn to a standard engineering scale sufficient to depict
+         the subdivision of land approved by the County Surveyor.
+
+    3.   Survey Accuracy.            The     survey for the plat shall be done     in such a manner           to
+         achieve       sufficient       accuracy    that   measurements     may     be      taken     between
+         monuments within one-tenth of a foot or one ten-thousandth of the distance shown
+         on the plat, whichever is greater.
+
+    4.   Measurements.           The subdivision plat shall contain the following measurements:
+
+         a.   The boundary lines with distance and bearing of the exact location and width of
+              existing or recorded streets intersecting the boundary.
+
+         b.   The arc, length, chord length, chord bearing, radii, central angles, of curves.
+
+         c.   Block indications, lot numbers and lot lines with dimensions                        in feet   and
+              hundredths and bearings and angles to street and alley lines.
+
+         d.   The    area     of each      lot in either acres, to the nearest    1/100th    of an acre,      or
+              square feet.
+
+         e.   All measured bearings or angles and distances separately indicated from those
+              of record.
+
+         f.   All monuments          set and their relation to older monuments           found.     A detailed
+              description of monuments found and set shall be included and all monuments
+              set shall be separately indicated from those found.
+
+              Any additional information shall be typed or printed in narrative form.
+
+Chapter 21, Land Divisions                                              2 0 fi 9 0 4 5 4
+December 16, 2009
+                                                                                     Page 21-25
+
+5.   Monuments. The subdivision plat shall contain the location, material, and size of
+     all monuments which have been set. A monument shall be set at each of the
+     following locations.
+
+     a. The Initial Point, which must be on the exterior boundary of the plat and must
+        be marked with a monument meeting the specifications of ORS 92.060(1).
+          The location of the monument        shall be with reference by survey to a known
+          comer per ORS 92.060.
+
+     b.   The exterior boundary including every angle point or curve point along the
+          boundary lines.  Any exceptions shall be allowed only with approval of the
+          County Surveyor.        All monuments for the exterior boundaries of a subdivision
+          shall be set and referenced on the piat before the plat is offered for approval.
+
+     c. All lot corners, except lot comers of a cemetery. All monuments for the interior
+        boundaries of a subdivision shall be set and referenced on the plat before the
+        plat is offered for approval, unless the surveyor certifies the remaining
+        monuments will be set. If the interior monuments are not set prior to the
+          approval of the plat:
+
+          (1) The   person   performing the survey work shail, by affidavit, certify that the
+             interior monuments will be set by a date specified by him, such a date not
+             exceeding one year from the date of submission of the plat for approval.
+             The County Surveyor may extend the one year period and such extension
+             shall be in writing. The County Surveyor shall submit a written copy of the
+             extension to the Director.
+
+          (2) The subdivider shall fumish to the Wasco County Surveyor's Office a bond
+              or cash deposit, at the option of the Wasco County Surveyor's Office in the
+             amount equal to not more than 120 percent of the County Surveyor's
+             estimate of the cost to perform the work for the interior monumentation.
+
+          (3) Space will be provided on the face of the plat for endorsement of the
+              recording reference to the plat copy to be filed upon completion of such
+              interior monumentation.
+
+          (4) Upon compietion of the interior monumentation, the person performing the
+             survey shall indicate upon a copy of the plat that monumentation has been
+             completed.
+
+          (5) The County Surveyor shall check the interior monumentation, and, if the
+              conditions required on the tentative plan have been complied with, he shall
+              so certify on the plat copy and file it with the County Clerk.
+
+          (6) The County Clerk shall file the plat copy and reference the filing number on
+             the original plat.     The County Clerk shall advise the County Surveyor of
+
+                                                      QOC90AS1 creat Laneriion
+Page 21-26
+
+                   such number for notation on the plat previously filed with him.
+
+         d.   Flood Plain Monumentation for Subdivisions and Partitions.
+
+              For subdivisions and partitions         involving     land     in a flood   plain, the following
+              specifications shall apply:
+
+              (1) A standard Bench Mark shall be a minimum of thirty-six inches (36") in
+                 depth and eight inches (8") in diameter, constructed of concrete with a
+                 brass cap set in the center. The brass cap shall bear the name of the
+                   Bench     Mark, the year set and the agency or Registered                   Land Surveyor's
+                  license number. The Bench Mark shall be set at least thirty inches (30") in
+                  the ground in a stable, protected area of the partition or subdivision. The
+                   elevation established shall be 3rd order or higher.
+
+              (2) The Bench Mark location shail be indicated on the face of the Plat or Final
+                  Survey Map along with its name and elevation and the name, year, and
+                  elevation of the Bench Mark upon which the elevation is based.
+
+              (3) The level notes or a copy thereof shail be filed with the final map.
+
+                  Any exceptions      shall   be   allowed   only     with    the   approval    of the   County
+                  Surveyor.
+
+              (4) Field notes and closure copies to County Surveyor:
+
+                   (a) Copies of all lot closures, block closures and plat closures of the
+                       subdivision shall be furnished to the County Surveyor upon his request.
+
+                   (b) If the interior monuments are not set prior to the approval of the plat, the
+                       field notes or legible copies for the original survey of the subdivision
+                       shall be furnished to the County Surveyor upon his request.
+
+    6.   Surveyors Certificate. The plat must include a Surveyor’s Certificate, together with
+         the seal and signature of the surveyor of record, to the effect that the surveyor has
+         correctly surveyed and marked with proper monument the lands represented,
+         including the initial point of the plat and its location, and accurately describing by
+         metes or bounds, or other description as approved                    by the County Surveyor, the
+         tract of land upon which the parcels are laid out.
+
+    7.   Declaration
+
+         a.   The plat shall include a declaration, taken before a notary public, stating that
+              the declarant has caused the plat to be prepared in accordance with the
+              provisions of ORS 92.                                              4
+Chapter 21, Land Divisions
+                                                                               99¢9045
+December 16, 2009
+                                                                                           Page 21-27
+
+       Any dedication of land to public purposes or any public or private easements
+       created, or any other restrictions made, shall be included in the Declaration.
+
+       if the declarant is not the fee owner of the property, the fee owner and the
+       vendor under any instrument of sale shall also execute the Declaration for the
+       purpose of consenting to the property being partitioned.
+
+       If the plat contains any dedication or donation of land to public purposes, the
+       holder of any mortgage or trust deed shall also execute the Declaration.
+
+       Notwithstanding the provisions of subsections a. to d., the fee owner, vendor or
+       the mortgage   or trust deed       holder may   record an affidavit consenting to the
+       declaration, pursuant to ORS 92.075 (4).
+
+. Supplemental Information with Final Plat: The following data shall accompany the
+  final plat, if requested by the Director or County Surveyor:
+
+       A preliminary title report issued by a title insurance company in the name of the
+       owner of the land, showing         all parties whose    consent is necessary and their
+       interest in the premises.
+
+       Sheets and drawings showing the following:
+
+       (1) Traverse data including the coordinates of the boundary of the subdivision
+          and ties to section comers and donation             land claim comers, and showing
+          the error of closure, if any.
+
+       (2) The computation of all distances, angles, and courses shown on the final
+           map.
+
+       (3) Ties to existing monuments,        proposed   monuments,      adjacent     subdivision,
+           street comers, and state highway stationing.
+
+  c.   A copy of any dedication requiring separate documents.
+
+  d. A Plan and Profile on Federal Aid sheets showing the following:
+
+       (1) Widths of the proposed dedication throughout the length of the proposal.
+
+       (2) Centerline alignment showing P.C. and P.T.               stationing   on   all curves,
+           necessary curve data and bearings of tangents.
+
+       (3) Ground line and grade line profile on the centerline of the proposed street
+           or road.
+
+                                               20090451                    Chapter 21, Land Divisions
+                                                                                   December 16, 2009
+Page 21-28
+
+              (4) Vertical curve data showing P.I. elevations and stations, length of vertical
+                    curve and tangent grades.
+
+              (5) Proposed drainage structures, showing both size and type of structure.
+
+              (6) Earthwork distribution, i.e., volume of cuts and fills shown                 in appropriate
+                  haul distribution brackets.
+
+              (7) Provisions for waste or borrow areas if widened cuts or fills do not provide
+                  the desired balance of material.
+
+              (8) Toe of slope and top of cut lines showing the limits of the construction area
+                    within the dedication.
+
+              (9) Typical section of roadbed to be constructed.
+
+              (10)Sections       lines, fractional section lines and/or Donation         Land    Claim    lines
+                    tied to corner from which dedication description is prepared.
+
+              (11)Vicinity map         in the upper left hand comer of the first plan sheet showing
+                    roughly the relationships of the proposed             road to cities, state highways,
+                    county roads, or other well-defined topographical features.
+
+              (12)The        stamp     and   signature    of the   registered   Professional    Engineer     or
+                    qualified land surveyor preparing the plans.
+
+              Cross Sections
+
+              (1) Shall be platted on rolls of ten inch (10"), on standard cross-section paper.
+                  Computer cross-section print-outs may be submitted in lieu of platted
+                  cross-sections.
+
+              (2) Shall show proposed           widened     cuts or fill if these are needed     for material
+                  balance.
+
+              If sewer and/or water facilities are required as the condition of approval of the
+              Final Plat, the following may be required to be submitted with the Final Plat:
+
+              (1) Plans and profiles of proposed sanitary, and storm-water                      sewers,    with
+                  grades, pipe sizes and the location of manholes indicated.
+
+              (2) Plans and profiles of the proposed water distribution system showing pipe
+                  sizes and the location of valves and fire hydrants.
+
+              (3) Specification for the construction of all proposed sewer and water lines and
+                    other utilities.
+
+Chapter 21, Land Divisions
+December 16, 2009
+                                                                         2 0 0 9 0 4 5 1
+                                                                                                Page 21-29
+
+               (4) Grading plans and specifications as required for areas other than streets
+                   and ways.
+
+               (5) Planting    plans and specifications for street trees and other plantings in
+                   public areas.
+
+     7.   County Surveyor Fees: The subdivider shall pay a subdivision review fee to the
+          County Surveyor as provided in O.R.S. 92.100(2) which is included in the cost at
+          the time of application. In the event a second field and/or office check becomes
+          necessary because of substantial discrepancies found in the first check, the
+          County Surveyor may, at his discretion, charge a second fee or partial fee.
+
+E. Agreement for Improvements
+
+     4.   Before approval of the final subdivision plat, the applicant shall either install the
+          improvements required by the preliminary plan approval and repair existing streets
+          and other public facilities damaged in the development of the subdivision, or shall
+          execute and file with the County Governing Body an agreement between himself
+          and the County specifying the period within which          required improvements and
+          repairs will be completed.      The agreement may provide that if work is not
+          completed within the period specified, the County may complete the work and
+          recover the full cost and expense thereof from the applicant.
+
+     2.   An applicant may request an extension of time for completion of required
+          improvements. Such request will be considered an application for administrative
+          action. Such extension shall be approved only if changed conditions for which the
+          applicant is not responsible have made it impossible for him to fulfill the agreement
+          within the original time limit(s).
+
+F.   Performance Bond
+
+     4.   To assure full performance        of the   improvement   agreement,    an   applicant     shall
+          provide one of the following:
+
+          a.   A surety bond executed by a surety company authorized to transact business
+               in the State of Oregon on a form approved by the District Attorney; or
+
+          b.   cash deposit with the County Treasurer; or
+
+          ¢.   certification   or letter of assurance   by a bank    or other     reputable      lending
+               institution that money is being held to cover the cost of improvements and
+               incidental expenses, and that said money will be released only upon the
+               direction of the County Roadmaster.        The bank certification or letter of
+               assurance shall be approved by the District Attomey; or
+
+                                                         ) HT] C g 0 4 5 4      Chapter 21, Land Divisions
+                                                                                        December 16, 2009
+Page 21-30
+
+           d. cash deposit with an escrow agent authorized to transact business in the State
+              of Oregon subject to escrow instructions that require the escrow agent to
+              release the money only upon the direction of the County Roadmaster. Escrow
+              instructions shall be approved by the District Attorney.
+
+     2.    Such assurance shall be for a sum determined by a qualified licensed engineer or
+           in the case of survey monuments, a licensed land surveyor as sufficient to cover
+           the    costs        of included    improvements       and     repairs     or monuments        and   including
+           related County expenses; and
+
+     3.    Such assurance provides that:                 If the applicant fails to carry out provisions of the
+           agreement or the County has unreimbursed costs or expenses resulting from such
+           failure, the County shall call on the bond or cash deposit for reimbursement; if the
+           amount of the bond or cash deposit exceeds the cost and expense incurred by the
+           County, the County shall release the remainder; and if the amount of the bond or
+           cash deposit is less than the cost and expense incurred by the County, the
+           applicant shall be liable to the County for the difference.
+
+G. Parks,        Playgrounds, or Recreational Areas:                     The Approving Authority may require
+     parks, playgrounds, or recreational areas be provided in the final subdivision plan and
+     dedicated to the County in locations and of size indicated by the Comprehensive Plan
+     for the area in which the subdivision is located.
+
+H. Recreational Fund: Where no parks, playgrounds or recreational areas are required
+   by the Commission, the subdivider shall pay to the County a sum equal to six and
+   two-thirds percent (6 2/3%) of the assessed value of the land area, exclusive of
+     streets, within the subdivision.                 Such sum      shall be paid to the County Clerk prior to
+     recording of the final subdivision plan and such sum shall be held by him in a special
+     fund for acquisition and development of parks, playgrounds,                             and recreational areas
+     within the immediate area of the subdivision.
+
+|.   Development               Phasing:      !f the   preliminary      subdivision    plan   approval,     pursuant    to
+     Section 21.200 of this ordinance, provided for phasing of development, the applicant
+     may request final plat approval for an individual phase of the subdivision by filing with
+     the Director a final plat and supporting documents, as provided in subsections (A)
+     through (F) of this section, for that phase only.
+
+J.   Standards for Final Subdivision Plat Approval
+
+     1.    The Planning Commission shall grant final subdivision plat approval if they
+           determine that the final plat and supporting documents are in substantial
+           conformance with the approved preliminary plan, including any conditions imposed
+           by the Approving Authority.                Substantial conformance means that any differences
+           between            the preliminary and final plans are "minor amendments",                    as defined in
+           Section 21.110(A)(1) of this Ordinance.
+
+                        wet
+Chapter 21, Land Divisions
+                                                                                       2069045“
+December     16, 2009
+                                                                                                             Page 21-31
+
+     2.   The granting of final plat approval shail not be affected by a change in the zone or
+          plan     map     designation        of the     subject    property   made      after   approval     of the
+          preliminary subdivision plan.
+
+     3.   Approval of a final plat by the Approving Authority shali constitute an acceptance
+          by the public of the dedication of any street shown on the plat.                       Acceptance of a
+          street by approval of the final plat shall not constitute an acceptance to maintain
+          the street. Acceptance for maintenance of any street by virtue of approval of the
+          final plat shall be by a separate process of petitioning the County Governing Body
+          for acceptance of road maintenance. Approval of the final plat shall not act as an
+          acceptance by the public of any other land for public purposes.
+
+K.   Filing and Recording of Final Piat
+
+     1. After final plat approval, the applicant shall submit without delay the final plat for
+        signatures of the following County officials:
+
+          a.     Planning Commission Chairman;
+
+          b. County Surveyor;
+
+          c.     County Assessor;
+
+          d. An authorized representative of the Department of Environmental Quality, State
+                 of Oregon, or the County Sanitarian;
+
+          e.     County Tax Collector;
+
+          f.     County Commissioners;
+
+          g. County Clerk.
+
+     2.   The     final   plat   shall   be   recorded     within   thirty (30)   days    of the    date    that   the
+          signatures and approvals required by subsections (J) and (K) of this section were
+          obtained.
+
+SECTION 21.300        Private Road Approval Public Road Dedications
+Any person desiring to create a public or private road not part of a subdivision or land
+division shall make written application to the Director. Approval of a public or private road
+is reviewed by the County Governing Body. Public or private roads being created as part
+of a subdivision or land division shall be reviewed by the Planning Commission subject to
+the provisions of Section 2.060(B).
+
+                                                                                  m4
+                                                                    9009045                  Chapter 21, Land Divisions
+                                                                                                     December 16, 2009
+Page 21-32
+
+A. Application for Tentative Plan
+
+    1. An application for tentative plan approval for road or street dedication or private
+       road approval shall be initiated as provided in Chapter 2 of this Ordinance.
+
+           The applicant shall submit to the Director a written application of a Tentative Pian
+           prepared in accordance with subsection (B) of this section.
+
+          The Director shall distribute a copy of the Tentative Pian to                               the   County
+          Roadmaster and obtain his recommendation on the proposed action.
+
+B. Information Required on Tentative Plan: Tentative Plans shall include the following
+   information presented in the following form:
+
+    1.     The Tentative Plan shall be clearly and legibly drawn to an appropriate scale so
+          that the Approving        Authority     may   have     an   adequate        understanding    of what      is
+           proposed.
+
+          A vicinity map showing the proposal in relationship to other existing or proposed
+          streets.
+
+             Date, north point and scale
+
+           Name and address of applicant and the person preparing the Tentative Plan.
+
+          Appropriate identification of the drawing as a Tentative Plan.
+
+           Location of the proposed dedication or private road abutting the unit of land
+           proposed to be approved by the Section, Township and Range sufficient to define
+           its location and, if available, a centerline description or nght-of-way boundary
+           description.
+
+         . Zoning classification and Comprehensive Plan Map designation.
+
+           The names of adjacent subdivisions and the names of recorded owners of
+           adjoining lots, parcels or units of land and the amount of frontage each owner has
+           on the proposed dedication or on the private road.
+
+           Existing roads      or street(s)     intersecting    or meeting      the    proposed   dedication       or
+           private road.
+
+C. Approval of Road or Street Dedication
+
+    1, After considering the recommendation by the County Roadmaster, the Approving
+       Authority shall approve the Tentative Plan for road or street dedication and
+           recommend         to the County    Governing        Body the dedication        of a public road       if it
+
+Chapter 21, Land Divisions                                                       n          4
+December   16, 2009                                                       2 0    wv 9 0 4 5
+                                                                                                          Page 21-33
+
+        determines that:
+
+        a.   the information required by this section has been provided;
+
+        b.   the road or street is or will be improved           to meet all applicable standards of
+             these regulations; and
+
+        c.   dedication of the road or street to the public               is consistent      with     the goals,
+             policies and map of the Comprehensive Plan.
+
+        If Tentative Plan to dedicate a road or street is recommended                         to the County
+        Goveming     Body,        and    the   street to be dedicated     has   not   been    improved,         the
+        Approving Authority shall recommend conditional approval on improvements of the
+        road or street       to    the    improvement     standards     recommended          by     the    County
+        Roadmaster.
+
+D. Acceptance of Dedication by the County Goveming Body
+
+   1.   Before the County Governing Body may accept the dedication, the applicant must
+        have completed any improvements required as a condition of the approval of the
+        dedication or have complied with Section 21.210(F) of this Chapter.
+
+        Prior to acceptance by the County Goveming Body, the owner of the land to be
+        dedicated shall submit a preliminary title report issued by a title insurance
+        company in the name of the owner of the interest in the land.
+
+        Upon acceptance of the dedication by the County Governing Body, the owner of
+        the land to be dedicated shall prepare a warranty deed dedicating the land to the
+        public.
+
+        The County Governing Body shall indicate their approval of the dedication by an
+        order accepting the deed and              by recording such order with the recording of the
+        deed.
+
+        No   road or street will be accepted            for maintenance     as part of the county road
+        system unless it meets the standards of subsection (B) and (C) of this Section and
+        is ordered accepted by the County Goveming Body pursuant to law.
+
+E. Approval of a Private Road
+
+   1. The County Roadmaster shall determine if the private road meets the
+      improvement standards and shall submit his findings as a written recommendation
+        to the Approving Authority.
+
+        The Approving Authority shall approve a private road if it finds that the private road
+        meets the basic provisions and design standards of Section 21.030 and also the
+                                                                                      Chapter 21, Land Divisions
+
+                                                             2009 N45 4                           December16, 2009
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.2% of
+the word sequence, and on 80.8% of the figures. Dictionary-recognizable words: 97.4%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.
