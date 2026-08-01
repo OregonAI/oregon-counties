@@ -1,0 +1,153 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/umatilla-county
+id: umatilla-code-32-elections
+title: '32 Elections'
+doc_type: ordinance
+citation: '32 Elections'
+authority_level: county_ordinance
+issuing_body: 'Umatilla County Board of Commissioners'
+source_url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/32_Elections.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: aaa9a70db79219689b0cb73e7e35522d68cc2ee8d7626657a480842ff247b4c7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 250.195
+    - ORS 251.285
+    - ORS 260.005
+  related: []
+  supersedes: []
+tags: [umatilla-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Umatilla County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 32 Elections (32 Elections)
+
+## At a glance
+
+32 Elections — code of Umatilla County. 2 pages.
+
+## Full text
+
+3-11
+CHAPTER 32:  ELECTIONS
+Section
+32.01 Adoption and purpose
+32.02 Ballot titles and explanatory
+statements; filing requirements;
+decision to include; preparation
+32.03 Appeal procedure; filing of
+petition
+32.04 Arguments for or against measure
+32.05 Duties of Chief of Elections
+32.06 Judicial review
+§ 32.01  ADOPTION AND PURPOSE.
+In order for a county or local measure to be
+included in the State Voters Pamphlet, it must
+comply with ORS 251.285(2).
+(Ord. 87-14, passed 12-16-87; Am. Ord. 98-06,
+passed 9-16-98)
+§ 32.02  BALLOT TITLES AND
+EXPLANATORY STATEMENTS; FILING
+REQUIREMENTS; DECISION TO INCLUDE;
+PREPARATION.
+(A) The county or local service district shall
+file a measure, ballot title, explanatory statement
+and arguments with the Secretary of State not later
+than the 70th day before a general election or the
+68th day before a special election.
+(B) The decision to include the county or
+local measure, ballot title, explanatory statement
+and arguments in the State Voters Pamphlet shall
+be made by:
+(1) The county governing body for a
+county measure;
+(2) The council of a local service district
+with regard to any local district measure;
+(3) The chief petitioners of the initiative
+or referendum with regard to a county or local
+district measure initiated or referred by the people.
+(4) A political committee, as defined in
+ORS 260.005, that opposes a county or local
+service district measure.
+(Ord. 87-14, passed 12-16-87; Am. Ord. 98-06,
+passed 9-16-98)
+§ 32.03  APPEAL PROCEDURE; FILING OF
+PETITION.
+(A) Any person dissatisfied with the ballot
+title or explanatory statement filed with the Chief
+of Elections pursuant to this chapter may petition
+the Circuit Court of the State of Oregon for the
+county seeking a different title or statement and
+stating the reasons the title or statement filed with
+the Chief of Elections is insufficient, not concise,
+or unfair.
+(B) Any petition filed pursuant to division
+(A) challenging a ballot title must be filed not later
+than the 20th day after the title has been filed with
+the Chief of Elections.  Any petition challenging
+an explanatory statement must be filed not later the
+10th day after the explanatory statement has been
+filed with the Chief of Elections.
+(C) The review by the Circuit Court shall be
+the first and final review.  At the conclusion of its
+review, the court shall certify to the Chief of
+Elections a title for the measure or explanatory
+statement which meets the requirements of ORS
+251.285(2)(a) and (b).
+(Ord. 87-14, passed 12-16-87)
+§ 32.04  ARGUMENTS FOR OR AGAINST
+MEASURE.
+(A) No later than 75 days before the election,
+any person may file with the Chief of Elections for
+inclusion in the voter's pamphlet, argument either
+for or against the measure.  Any argument so
+submitted shall be in the form and content required
+in ORS Chapter 251 for arguments for or against
+statewide ballot measures.
+(B) At the time of filing the argument the
+person filing shall either pay a fee of $300 or file
+3-12
+a petition containing more than a number of
+signatures equal to 1,000 electors eligible to vote
+on the measure or 10% of the total of such electors,
+whichever is less.
+(C) Arguments filed under this section shall
+be forwarded to the Secretary of State for inclusion
+in the voter's pamphlet only in the event the county
+measure ballot title and explanatory statement also
+qualify for inclusion according to the terms of this
+chapter and state law.
+(Ord. 87-14, passed 12-16-87)
+§ 32.05  DUTIES OF CHIEF OF ELECTIONS.
+No later than 70 days before the election, the
+Chief of Elections shall issue an explanatory state-
+ment and arguments with the Secretary of State.
+The county shall pay to the Secretary of State the
+cost of including the county material in the voter's
+pamphlet as determined by the Secretary of State.
+(Ord. 87-14, passed 12-16-87)
+§ 32.06  JUDICIAL REVIEW.
+Judicial review of county and local service
+district measures shall be first and finally in
+Umatilla County Circuit Court.  A petition for
+judicial review must be filed not later than the
+seventh business day after a measure is filed with
+the county elections division.  The procedure for
+judicial review shall comply with ORS 250.195 or
+250.296.
+(Ord. 98-06, passed 9-16-98)

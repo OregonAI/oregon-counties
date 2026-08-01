@@ -1,0 +1,354 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-0501-agriculture-forestry-small-hol
+title: 'Zoning-Ordinance-Section-0501-Agriculture-Forestry-Small-Holding-District-AF-10-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-0501-Agriculture-Forestry-Small-Holding-District-AF-10-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8482/Zoning-Ordinance-Section-0501-Agriculture-Forestry-Small-Holding-District-AF-10-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 03a0b976eb2619021c4721992b55f3d94bf97032a2732f8b17dbd4e382f35e42
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.660
+    - ORS 624.010
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zoning-Ordinance-Section-0501-Agriculture-Forestry-Small-Holding-District-AF-10-PDF (Zoning-Ordinance-Section-0501-Agriculture-Forestry-Small-Holding-District-AF-10-PDF)
+
+## At a glance
+
+Zoning-Ordinance-Section-0501-Agriculture-Forestry-Small-Holding-District-AF-10-PDF — land use of Yamhill County. 6 pages.
+
+## Full text
+
+Yamhill County Zoning Ordinance   Page 501-1
+
+SECTION 500  RURAL RESIDENTIAL DISTRICTS
+
+501. AGRICULTURE/FORESTRY SMALL HOLDING DISTRICT (AF-10)  [Last amended 06/29/2023; Ord. 928]
+
+501.01 Purpose.
+
+The purpose of the AF-10 District is to provide for low density rural residential development on
+selected lands identified as Agricultural/Forestry Small Holding in the Comprehensive Plan; and, at
+the same time, to encourage small-scale or more intensive farm and forestry activities.  Within this
+District, no limitations shall be placed on farm and forestry uses of the scale, type and performance
+characteristics commonly found in the F-80, EF-20, -40 or -80 and AF-20, -40 or -80 Districts.  In
+areas immediately adjacent to urban centers, the AF-10 District is intended to be a transitional zone
+between F-80, EF-20, -40 or -80 and AF-20, -40 or -80 Districts and higher-density VLDR and LDR
+Districts or urban districts identified in city comprehensive plans. [Amended 12/05/02; Ord. 720]
+
+501.02 Permitted Uses.
+
+In the AF-10 District, the following uses shall be permitted subject to the standards and limitations set
+forth in subsection 501.06:
+
+A. Farm uses; [Amended 7/9/98; Ord. 648]
+
+B. Propagation and harvesting of forest products;
+
+C. The boarding of horses for profit, subject to Section 1101 for site design review;
+
+D. Principal dwelling;
+
+E. Park or open space which is publicly or privately owned, operated or maintained, including
+fishing and wildlife preserves but excluding hunting preserves;
+
+F. Subdivisions, subject to the land division requirements set forth in Ordinance 205;
+
+G. Residential Planned Unit Developments, subject to Section 903 of this Ordinance and the land
+division requirements set forth in Ordinance 205;
+
+H. Accessory uses;
+
+I. Operations conducted for the exploration of oil, natural gas or geothermal resources, subject to
+the Type A application procedure set forth in Section 1301;
+
+J. Temporary structures as may be required during construction of an authorized permanent
+structure.  Such temporary structure shall be removed upon final inspection of the permanent
+structure by the Building Inspector;
+
+K. Manufactured home storage and temporary sales offices for permitted uses, pursuant to the
+Type A application procedure set forth in Section 1301 and subject to Section 1009 for
+temporary permits;
+
+L. Signs, pursuant to the sign provisions set forth in Section 1006;
+
+Yamhill County Zoning Ordinance   Page 501-2
+M. Residential home; and [Added 3/19/98; Ord. 643]
+
+N. Accessory dwelling unit subject to the Type A application procedure set forth in Section 1301
+and the standards in Section 1014.      [Amended 06/29/23; Ord. 928]
+
+501.03 Conditional Uses.
+
+In the AF-10 District, pursuant to the Type B application procedure set forth in Section 1301, and
+subject to the conditional use review criteria listed in Section 1202, and any other applicable criteria
+established by this ordinance, the following uses may be allowed conditionally:
+
+A. Secondary dwelling, for persons engaged full-time in farm activities on the premises for at
+least six (6) months in each year, in conjunction with a principal dwelling on the same parcel,
+and provided that:
+
+1. The applicant demonstrates that the nature of the farm activities on the premises
+makes it necessary for the occupants of the secondary dwelling to reside there.
+
+2. The occupants of the secondary dwelling will perform work related to the
+management of the farm that the occupants of other dwellings on the property cannot
+perform.
+
+3. If the occupants of a secondary dwelling approved hereunder have no proprietary
+interest in the land, the dwelling shall be a manufactured home.  In such a case, if at
+any time the requirements of this Section can no longer be satisfied, the manufactured
+home shall be removed.
+
+B. One manufactured dwelling or recreational vehicle, or the temporary use of an existing
+building, in conjunction with as existing dwelling as a temporary use for the term of a
+hardship suffered by the existing resident or relative, as defined in ORS 215, of the resident,
+subject to the following:
+
+1. The resident or relative of the resident is aged, infirm, or for health-related reasons, is
+incapable of maintaining a complete separate residence.
+
+2. The permit for the manufactured dwelling for the term of hardship shall be valid for a
+period of two years or a shorter period as determined appropriate by the Director or
+hearings body.  A permit may be revoked by the Director at any time, if any of the
+reasons for which the permit was granted are no longer applicable, or if any imposed
+condition is violated.
+
+3. The permit for the temporary dwelling for the term of hardship shall be granted to the
+applicant only and shall not be deemed to run with the land.
+
+4. The temporary dwelling shall use the same subsurface sewage disposal system as the
+existing dwelling, if that disposal system is adequate to accommodate the additional
+dwelling.
+
+Yamhill County Zoning Ordinance   Page 501-3
+
+5. When a recreational vehicle is allowed to be used as a temporary structure the
+recreational vehicle site shall have services, inspected and approved by the building
+department which includes electricity, plumbing and connection to an approved septic
+system.
+
+6. Within three months of the end of the hardship, the manufactured dwelling shall be
+removed or demolished or, in the case of an existing building, the building shall be
+removed, demolished or returned to an allowed nonresidential use.  In the case of a
+recreational vehicle, within three months of the end of the hardship, it shall be
+removed, demolished or may remain on the property and used in accordance with
+Section 501.06(H). A temporary residence approved under this paragraph is not
+eligible for replacement. [Amended 07/29/04; Ord. 743]
+
+C. Home occupation, as defined by this ordinance, subject to the standards and limitations set
+forth in Section 1004;
+
+D. Mineral resource extraction, subject to the applicable criteria in Section 404;
+
+E. Extraction and development of oil, natural gas or geothermal resources, subject to the criteria
+specified in subsection 404.10;
+
+F. Personal use airports or helicopter pads, including associated hangars, maintenance and
+service facilities.  For the purpose of this section, a personal use airport is defined as an
+airstrip restricted, except for aircraft emergencies, to use by the owner or by his invited guests,
+on an infrequent and occasional basis, and by commercial aviation activities in connection
+with agricultural or forestry operations.  No aircraft may be based or stored at a personal use
+airport except those owned or controlled by the owner of the airstrip;
+
+G. Kindergarten, day nursery or day care facility in conjunction with a principal dwelling on the
+same parcel, subject to the standards for day care facilities set forth in Section 1008;
+
+H. Veterinary hospital;
+
+I. Kennel;
+
+J. Community or municipal water-supply system, except within acknowledged service
+boundaries;
+
+K. Community or municipal sewer system;
+
+L. Utility facility, subject to Section 1101 for Site Design Review;
+
+M. Public or private school, including all buildings essential to the operation of the school; and
+
+N. Church
+
+O. A church may offer overnight camping space on institution property to homeless persons
+living in vehicles provided there are three or fewer vehicles and campers have access to
+sanitary facilities including but not limited to toilet, hand washing and trash disposal facilities.
+ [Amended 12/05/02; Ord. 720]
+
+Yamhill County Zoning Ordinance   Page 501-4
+P. Winery, including production and wholesale and retail sale of wine, subject to Section 1101
+site design review and the following:
+
+1. A winery shall be permitted to conduct on-site marketing activities events such as
+festivals and group tastings that are directly related to promotion and sale of the wine
+produced on-site with an anticipated maximum of 750 daily visitors.  Only three such
+events may be conducted in one calendar year, and the events shall not exceed a
+duration of three days.  The frequency and duration of these events may be further
+limited through site design review approval based on the adequacy of public facilities.
+
+2. The winery shall allow only the sale of:
+
+(a) Wines produced in conjunction with the winery;
+
+(b) Items directly related to wine, the sales of which are incidental to the retail
+sale of wine on-site and do not exceed 25 percent of the total sales gross
+receipts of the retail facility.  Such items include those served by a limited
+service restaurant, as defined in ORS 624.010, and local agricultural products
+commonly sold in conjunction with wine; and
+
+(c) Wines not produced in conjunction with the winery, the sales of which are
+incidental to the sale of wine produced on-site; [Amended 12/05/02; Ord. 720]
+
+Q. Community Centers. [Added 09/02/04; Ord. 746]
+
+R. Residential facility as defined in ORS 197.660. [Added 09/02/04; Ord. 746]
+
+501.04 Prohibited Uses.
+
+Uses of land and water not specifically mentioned in this section are prohibited in the AF-10 District.
+
+501.05 Nonconforming Uses.
+
+Nonconforming uses found in the AF-10 District are subject to the nonconforming use provisions of
+Section 1205 as well as to any other applicable provisions of this ordinance.
+
+501.06 Standards and Limitations.
+
+In the AF-10 District, the following standards and limitations shall apply:
+
+A. Dwelling Density.
+
+1. Permitted Uses.
+
+(a) The overall dwelling density shall not exceed one (1) principal dwelling per
+ten (10) acres; and
+
+(b) Not more than one (1) principal dwelling shall be permitted on any parcel
+except in the case of a planned unit development.
+
+Yamhill County Zoning Ordinance   Page 501-5
+B. Parcel Size and Dimension.
+
+1. Newly-Created Parcels.
+
+Except as provided in Subsection 4 below, the minimum size of any newly-created
+parcel shall be ten (10) acres, except in the case of parcel size averaging the minimum
+parcel size shall be five (5) acres.
+
+2. Pre-existing Lots of Record. Any permitted or conditional use provided for in this
+District may be established on a substandard pre-existing lot of record, subject to the
+applicable requirements of this section.
+
+3. Depth-to-Width Ratio.  The maximum depth-to-width ratio for any newly-created
+parcel shall be 4:1.
+
+4. Division of Pre-existing Dwellings. A division of a lot or parcel may be allowed if:
+
+(a) At least two dwellings lawfully existed on the lot or parcel prior to November
+4, 1993;
+
+(b) Each dwelling complies with the criteria for a replacement dwelling under
+403.02(N);
+
+(c) Except for one lot or parcel, each lot or parcel created under this paragraph is
+between two and five acres in size; and
+
+(d) At least one dwelling is located on each lot or parcel created under this
+ paragraph.     [501.06(B)(4) added 09/02/04, Ord 746]
+
+C. Setbacks.
+
+The minimum setback for all yards shall be thirty (30) feet for all uses, except as follows:
+
+1. No dwelling shall be located within one hundred (100) feet of the property line of an
+existing extraction or mining operation nor less than two hundred (200) feet from an
+existing extraction operation;
+
+2. The minimum setback for a kennel and a veterinary hospital shall be fifty (50) feet;
+
+3. The minimum setback for signs shall be five (5) feet; and
+
+4. An accessory structure not more than fifteen (15) feet in height, at least sixty (60) feet
+from a road, and at least ten (10) feet from any dwelling may be located a minimum
+distance of three (3) feet from the property line in a side yard or rear yard.
+
+5. A swimming pool may be located in a required rear yard, provided it lies a minimum
+of five (5) feet from the rear property line.
+
+6. Fences, walls and hedges may be permitted in any required yard or along the edge of
+any yard, subject to the clear-vision area requirements of subsection 501.06(F).  [Amended 7/9/98; Ord. 648]
+
+Yamhill County Zoning Ordinance   Page 501-6
+D. Parcel Coverage.
+
+Not applicable, except that for any parcel of less than one (1) acre, the maximum parcel
+coverage shall be fifteen (15) percent.
+
+E. Access.
+
+Before a dwelling may be established on any parcel as provided in this section, the parcel shall
+have a legal, safe and passable means of access by abutting at least twenty (20) feet either
+directly upon a public road, or by a private easement which is at least thirty (30) feet in width
+for its entire length and which also abuts upon a public road for at least thirty (30) feet.
+Nothing in this section shall be construed to vary or waive the requirements for creation of
+new access contained in any Land Division Ordinance legally adopted by Yamhill County.
+
+F. Clear-Vision Areas.
+
+A clear-vision area shall be maintained on the corner of any parcel at the intersection of any
+two of the following: County roads; public roads; private roads serving four or more parcels;
+and railroads.  A clear-vision area shall contain no sight-obscuring structures or plantings
+exceeding thirty (30) inches in height within a triangle formed by the lot corner nearest the
+intersection, and the two points twenty (20) feet from this corner as measured along the parcel
+lines adjacent to the intersecting rights-of-way.  Trees exceeding this height may be located
+such that their branches extend into this triangle, provided they are maintained to allow at least
+twelve (12) feet of visual clearance within the triangle below the lowest hanging branches.
+
+G. Height.
+
+1. The maximum building height for any dwelling shall be thirty-five (35) feet;
+
+2. The maximum building height for all other structures shall be forty-five (45) feet; and
+
+3. Appurtenances usually required to be placed above the roof level and not intended for
+human occupancy such as spires, belfries, cupolas, antennas, water tanks, ventilators,
+chimneys and wind generators are not subject to the height limitations of this
+ordinance.
+
+H. Occupancy of Recreational Vehicles
+
+One (1) recreational vehicle shall be permitted to be parked on any parcel in conjunction with
+a principal dwelling, and may be used for the temporary accommodation of guests for a period
+of up to 30 days total in any year.  In no case shall any recreational vehicle be used as a
+principal dwelling or rented unless the necessary permits have been obtained.  [Amended 7/9/98; Ord. 648]
+
+I. Off-street Parking.
+
+1. In the AF-10 District, prior to establishment of any dwelling, sufficient area must be
+provided to allow for at least one (1) emergency vehicle turnaround; and
+
+2. Parking requirements for those uses which may generate traffic beyond what is
+normally expected in the AF-10 District shall be determined by the Director subject to
+the provisions of Section 1007.

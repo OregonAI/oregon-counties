@@ -1,0 +1,6158 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-water-supply-report-pdf
+title: 'Water-Supply-Report-PDF'
+doc_type: ordinance
+citation: 'Water-Supply-Report-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/2656/Water-Supply-Report-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e32e6d42584d81edfcae06d420bf5b1e5b8726876e17365c17d09902e31c0a62
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 690-086-0150
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Water-Supply-Report-PDF (Water-Supply-Report-PDF)
+
+## At a glance
+
+Water-Supply-Report-PDF — code of Yamhill County. 133 pages.
+
+## Full text
+
+Yamhill County
+Water Supply Analysis
+
+Presented to:
+Yamhill County Water Task Force
+
+FINAL
+April 7, 2008
+
+ Prepared by:
+
+ 1001 SW 5th Ave. Suite 1800
+ Portland, OR 97204
+ (503) 423-3700
+Table of Contents    Yamhill County Water Supply Analysis
+Final – April 7, 2008 i
+Table of Contents
+Executive Summary
+1.0 Background Information
+1.1 Introduction............................................................................................................................... .1 - 1
+1.2 Study Objectives ...................................................................................................................... 1-2
+1.3 General Approach .................................................................................................................... 1-2
+2.0 Water Demand Analysis
+2.1 Methodology.............................................................................................................................. 2-1
+2.2 Demand Forecast Results ...................................................................................................... 2-6
+3.0 Existing Water Supply
+3.1 Description of Water Supplies................................................................................................ 3-1
+3.2 Reliable Source Capacity........................................................................................................ 3-3
+3.3 Planned Water Supply Infrastructure Improvements.......................................................... 3-5
+3.4 Water Quality Issues................................................................................................................ 3-6
+4.0 Future Needs Analysis
+4.1 Water Rights Needs................................................................................................................. 4-1
+4.2 Water Supply Needs Based on Reliable Source Capacity ................................................ 4-5
+4.3 Summary of Needs Analysis .................................................................................................. 4-8
+5.0 Source of Supply Options
+5.1 Availability of Water Resources ............................................................................................. 5-1
+5.2 Managing Existing Supplies ................................................................................................... 5-3
+5.3 Local Source Options Review ................................................................................................ 5-4
+5.4 Regional and Sub-regional Source of Supply Options ..................................................... 5-16
+6.0 Evaluation of Supply Alternatives
+6.1 Evaluation Criteria.................................................................................................................... 6-1
+6.2 Comparison of Regional Source Options ............................................................................. 6-1
+6.3 Evaluation of Supply Alternatives and Transmission.......................................................... 6-5
+7.0 Recommended Supply Strategy
+7.1 Local versus Regional Options .............................................................................................. 7-1
+Table of Contents    Yamhill County Water Supply Analysis
+Final – April 7, 2008 ii
+8.0 Administrative and Governance Options
+8.1 Introduction............................................................................................................................... .8 - 1
+8.2 Ownership Options .................................................................................................................. 8-1
+8.3 Rate Setting Options................................................................................................................ 8-4
+8.4 Financing Options .................................................................................................................... 8-6
+8.5 Organizational Options............................................................................................................ 8-7
+8.6 Next Steps............................................................................................................................... 8-10
+9.0 References
+
+List of Tables
+
+Table 2-1 Summary of References U sed in the Demand Analysis....................................................... 2-1
+Table 2-2 Summary of Sources of Informa tion for Population and Water Use ................................... 2-2
+Table 2-3 Summary of Per Capita Use and Peaking Factors................................................................ 2-3
+Table 2-4 Growth Rates for Build-Out S cenarios for Population Projections...................................... 2-5
+Table 2-5 Summary Population Projecti ons with Build-Out Scenarios ............................................... 2-6
+Table 2-6 Summary of Water Demand Projections.............................................................................. 2-8
+
+Table 3-1 Summary of Water Rights Totals by Water Provider........................................................... 3-1
+Table 3-2 Source Supply Limiting Capacity ...................................................................................... .. 3-4
+Table 3-3 Summary of Planned Water Suppl y or Infrastructure Improvements .................................. 3-5
+
+Table 4-1 Summary of Water Rights Surplus/  Deficits for Maximum Day Demand........................... 4-3
+Table 4-2 Summary of Water System Capacity Su rplus/ Deficits for maximum Day Demand........... 4-6
+Table 4-3 Summary of Surplus/Deficiencies to Meet Projected Demands ........................................ 4-10
+
+Table 5-1 Water Availability Status fo r key Water Supply Tributaries ............................................... 5-2
+Table 5-2 Summary of Source of Supply Needs by Community ......................................................... 5-6
+Table 5-3 Local Options for Source of Supply Development ............................................................ 5-13
+Table 5-4 Summary of Potential Regional Water Source Options ..................................................... 5-19
+
+Table 6-1 Source Option Evaluation Criteria .................................................................................... ... 6-1
+Table 6-2 Evaluation of Regional Source Options ............................................................................... 6 -4
+Table 6-3 Additional Source Capacity Re quirements to 2050 by Subregion ....................................... 6-6
+Table 6-4 Evaluation of Supply Alternatives.................................................................................... .... 6-9
+Table 6-5 Summary of Planning Level Cost Esti mates for Supply Alternatives (in $ million) ......... 6-14
+Table 6-6 Summary of Average Unit Cost for Supply Alternatives................................................... 6-15
+
+Table 7-1 Recommendation for Regional Supply Development.......................................................... 7-1
+Table 7-2 Summary of Recommended Water S upply Strategy for Yamhill County ........................... 7-5
+Table 7-3 Planning Level Cost Range fo r Water Supply Strategy Components .................................. 7-6
+Table 7-4 Recommended Supply Strategy for Local and Regional Source Options............................ 7-6
+
+Table 8-1 Yamhill County Organization Options............................................................................... 8-1 1
+
+Table of Contents    Yamhill County Water Supply Analysis
+Final – April 7, 2008 iii
+List of Figures
+
+Figure 1-1 Illustration of Study Approach ............................................................................................. 1-3
+
+Figure 2-1 Projected Water Demands Using Three Build-out Scenarios ............................................ 2-12
+Figure 2-2 Relative Water Dema nds (Scenarios 2 and 3).................................................................... 2-13
+Figure 2-3 Net Increase in Wa ter Demand (Scenario 3)...................................................................... 2-14
+
+Figure 4-1 Water Rights Surplus/Deficits in 2050 (Scenario 3) ............................................................ 4-4
+Figure 4-2 Reliable Source Capacity Surplu s/Deficits in 2050 (Scenario 3)......................................... 4-7
+Figure 4-3 Comparison of Projected Water Demands to Reliable Source Capacity and Water Rights. 4-9
+
+Figure 5-1 General Location of Regional Source of Supply Options .................................................. 5-18
+
+Appendices
+
+Appendix A – Population and Demand Forecast Data
+Appendix B – Water Rights Data
+Appendix C – Demand Forecast Summary Tables
+Appendix D – Transmission Line Alignment from Yamhill County Intertie Study (1998)
+Appendix E – Cost Estimate Sheets and Assumptions
+Table of Contents    Yamhill County Water Supply Analysis
+Final – April 7, 2008 iv
+
+This page intentionally left blank.
+
+Section 1 – Background    Yamhill County Water Supply Analysis
+Final – April 7, 2008 1-1
+1.0 BACKGROUND INFORMATION
+1.1 Introduction
+Like many areas in Oregon, Yamhill County is anticipating significant growth over the next 50 years.
+More than half the county population, which totals over 90,000, is located in two main population centers
+– the cities of McMinnville and Newberg. The remaini ng population is largely dispersed within smaller
+cities and the unincorporated areas of the County. Paralleling the increase in population is a growth in
+demand for reliable water supply. The objective of this  study is to identify water supply options that can
+meet the increasing demands through year 2050.
+Recent planning efforts by the individual communities and by the County indicate that several of the
+communities will need additional source of water with in the next ten years. In addition, several
+communities including, Carlton, Amity, Newberg and Lafayette have had to implement at least one
+curtailment event in the past year. In response, Ya mhill County is being proactive in search of a more
+abundant and reliable supply for municipal water, and formed a Water Task Force comprised of members
+from all of the communities. The co mmunities have also met regularly over nearly two years to discuss
+and track water supply issues. The Water Task Forc e is comprised of representatives from the ten water
+providers in the County:
+• City of Amity • City of McMinnville (McMinnville Water and Light)
+• City of Carlton • City of Newberg
+• City of Dayton • City of Sheridan
+• City of Dundee • City of Yamhill
+• City of Lafayette • City of Willamina (portions within Yamhill County)
+The issues related to development of significant new water supply for the County are complex:
+• Major rivers and tributaries are fully appropriated during the low flow periods.
+• Population centers in the County are dispersed making potential transmission needs a challenge.
+• Storage options may be limited to locations along streams with existing surface water rights because
+of potential limits in issuance of new water rights.
+• Some existing groundwater systems have experienced  problems in declining yields, so opportunities
+for new groundwater supplies may be limited.
+• The equitable distribution of financial burden is a key issue, especially for several small communities
+in the County.
+Numerous studies have been conducted to aid this current study. Regional water supply planning has been
+undertaken since the early 1990’s. Two of the more significant regional studies include: (i) the Bureau of
+Reclamation study (1996) evaluating large reservoir/st orage options, and (ii) the Yamhill County intertie
+study (EES, 1998). Sources of supply considered by each  community have also been identified in water
+master plans.
+Within Yamhill County some of the potential sources of water include regional use of stored water in
+MacGuire Reservoir; developing water rights on the Willamette River; developing the proposed
+Sheridan/Willamina Reservoir; ground water (especially  along the Willamette River); and aquifer storage
+and recovery (ASR). Furthermore, in Yamhill Count y a significant portion of growth and development
+may occur in the urban-rural transition zones where agricultural lands currently exist. Opportunities for
+transferring water rights used for irrigation can be c onsidered for municipal use.  Water conservation and
+reuse also are important options to offset part of the demand increase.
+Section 1 – Background    Yamhill County Water Supply Analysis
+Final – April 7, 2008 1-2
+1.2 Study Objectives
+The objective of this study is to provide an analysis of future municipal water supply needs in Yamhill
+County and to develop recommended supply alternatives and a strategy to meet those needs to a 2050
+planning horizon. Elements of this study include:
+• Estimate the county’s future needs for water (municipal)
+• Identify the most viable long-term drinking water source(s)
+• Evaluate supply options and recommend a strategy and alternatives for further development
+• Discuss potential administrative options required for financing, governing and operation
+
+This report documents the findings from the analysis asso ciated with the elements listed above.  This first
+phase outlines recommended strategies based on the s ource options that will meet the County’s water
+supply needs over the next 40 years. This analysis examines the potential costs, environmental impacts,
+permitting limitations, capacities, relia bility, water quality, risks, and location (i.e., proximity to location
+of need) in developing recommended supply alternatives and strategy.
+The findings and recommendations in this “Phase 1” study will be further developed in “Phase 2” once
+funding is obtained by Yamhill County. The recommended strategy and supply alternatives will be further
+developed and refined with respect to the technical feasibility and the implementation considerations.
+1.3 General Approach
+The tasks for this project include:
+• Task 1—Water Needs Analysis:
+The objective of the first task is to estimate the futu re water demands of the study participants in Yamhill
+County using existing information.  The intent is to provide a “realistic” projection of demands consistent
+with existing planning efforts and appropriate for the planning level needs of this water supply study.
+• Task 2—Review Existing Water Resources:
+Task 2 identifies the existing and planned water s upply sources available to the study participants
+(referred to as “water providers”).
+• Task 3—Future Needs Analysis:
+The third task defines the future water supply needs of the County relative to available water rights and
+existing water supply infrastructure for the County as a whole, as well as the individual participating
+water providers.  HDR will present the findings of this  draft memo to the TAP at their February 28, 2007
+meeting as part of the 25% Progress Report.
+• Task 4—Source of Supply Options and Alternatives:
+Task 4 summarizes the source of supply deficiencies for the primary municipal water providers in
+Yamhill County (based on findings from Task 3); identif ies potential source of supply options to meet the
+project demands (including local and regional opti ons); identifies the evaluation criteria to select
+preferred alternatives; and develops sources altern atives (including transmission) based on the source
+options.
+• Task 5—Review of Governance and Administrative Options:
+Task 5 reviews in general terms the governance and ad ministrative options available to the participants
+with respect to a sub-regional or regional entity to administer the supply strategy(s) identified in the
+assessment.  The review will allow the participants to consider how to move forward with the
+recommended alternatives.
+Section 1 – Background    Yamhill County Water Supply Analysis
+Final – April 7, 2008 1-3
+Figure 1-1 illustrates the tasks and review/meeting periods  for the project. Throughout this process, the
+consulting team coordinated with the Water Task  Force and members of the Technical Advisory
+Committee (a subgroup of the Task Force).
+
+Task 1:
+Demand Projections
+Task 2:
+Review Existing Sources
+Task 3:
+Estimate Future Water
+Supply Needs
+Task 4:
+• Identify Potential
+Water Supply
+Alternatives
+• Identify Potential
+Conservation
+Measures
+• Develop Evaluation
+Criteria
+Task 5:
+Develop Governance /
+Administrative Options
+Task 7:
+• Finalize Evaluation
+• Prepare Report
+• Presentation to
+Commissioners and
+Task Force
+Task 4:
+• Develop and Evaluate
+Alternatives Against
+Criteria
+• Develop Cost
+Estimates
+25%
+Progress
+Review (TAC
+/ Task Force)
+50%
+Progress
+Review –
+TAC (Task
+Force)
+80%
+Progress
+Review
+(Task Force)
+Draft
+Report
+Final
+Report
+Final Report
+Presentation
+(Task Force /
+Commission
+ers)
+
+Figure 1-1. Illustration of Study Approach
+
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008
+
+This page left intentionally blank
+
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-1
+2.0 WATER DEMAND ANALYSIS
+The first step in this study is to develop a wa ter demand forecast based on population estimates and per
+capita water consumption rates provided by the in dividual water providers.  The demand forecast is
+developed for average day demand (ADD) and maxi mum (peak) day demands (MDD) through the year
+2050.  As requested by the TAP, a range of outcom es (high, medium and low estimates) is presented to
+account for the uncertainty inherent in long-range forecasting of this kind.
+The study participants for which population and wate r demand forecast data are developed include the
+members of the Water Task Force.  Water demands out side of the study participants are not considered,
+because they are assumed to be served by individual domestic/irrigation sources or private
+industrial/commercial sources.  It is assumed that any unincorporated areas/popul ation eventually served
+by the study participants is included in the population growth estimates for each community.
+The approach to forecast water demands is based on two primary elements: (i) population and (ii) per
+capita water use.  The two elements are multiplied to produce the forecast of water demand.  Several
+assumptions are needed within this approach, however, as described in Section 2.2.
+2.1 Methodology
+Whenever available, specific water master plan data  was used as the primary source of population, water
+demand data, and per capita water consumption.  When recent master plan information is not available,
+other sources are used as the basis for population est imates and per capita water use.  The following
+communities had recent (within 10 years) water master plans available for use in this analysis:
+• Dundee (2003)
+• McMinnville Water and Light (1996)
+• Newberg (2004)
+• Sheridan (2000/2002)
+• Yamhill (1996/1998)
+In addition, information from the county’s Transporta tion Plan were reviewed to augment or compare
+information in the master plans.  Finally, popula tion data from the U.S. Census and Portland State
+University Population Research Center were review ed and used as basis for population projections.  A
+summary of the references, plans and studies used in this analysis is presented in Table 2-1.
+
+Table 2-1.  Summary of References Used in the Demand Analysis
+Reference Information Provided
+U.S. Census (1990, 2000) Population for each study participant for years 1990 and 2000.  This
+information was used to determine a growth rate applied to the entire
+planning period for those communities without a recent water master plan.
+Portland State University Population Research Center
+Oregon Population Reports (2005 and 2006)
+Population estimates for each study participant for years 2005 and 2006.
+This information was used to compare population estimates in the water
+master plans.
+Yamhill County Transportation Plan (1994) Population estima tes for each study participant for years 1990, 1994, 2014.
+This information was used to compare population estimates in the water
+master plans.
+Yamhill County Comprehensive Plan (1996) Reviewed to ident ify any basis for growth constraints on population
+projections.
+Yamhill County Intertie Study (1998) Per capita water use (gallons per capita per day) for each study participant
+without a recent water master plan.  This study used pre-1998 water master
+plans as the source of per capita water use.  These values are considered
+the most reliable references for per capita water use  at this time.
+City of Newberg Water Distribution System Master Informati on for the following is available over the planning period of each
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-2
+Table 2-1.  Summary of References Used in the Demand Analysis
+Reference Information Provided
+Plan (2004)
+McMinnville Water and Light Water System Master
+Plan (1996)
+City of Sheridan Water Source/Supply Facility Plan
+(2000 [addendum 2002])
+City of Dundee Water System Master Plan (2003)
+City of Yamhill Water Master Plan (1996 [addendum
+1998])
+master plan:
+ Population projection
+ Average day and maximum day demand projections
+ Per capita water use
+This information is extrapolated over the planning period of this study (to
+2050).
+Survey data from study participants in response to
+Eric Abrams, McMinnville Water and Light (2006)
+Survey sheets included information on total number of service connections,
+peak water use and personnel contact information.
+
+Table 2-2 summarizes the sources of information used to estimate population and water use over the
+planning period of this study.
+
+Table 2-2.  Summary of Sources of Information for Population and Water Use
+Study
+Participant
+Population  Per Capita Use Peaking Factor Master Plan
+Study Period
+Notes
+Amity 1990-2000 Census (1) Intertie Study (3) Dundee as surrogate (4) NA
+Carlton 1990-2000 Census (1) Intertie Study (3) Dundee as surrogate (4) NA
+Dayton 1990-2000 Census (1) Intertie Study (3) Dundee as surrogate (4) NA
+Dundee Water Master Plan (2) Water Master Plan (2) Water Master Plan (4) 2003-2023 Build-out defined
+Lafayette Survey response Surv ey response Dundee as surrogate (4) NA Build-out defined
+McMinnville Water Master Plan (2) Water Master Plan (2) Water Master Plan (2) 1996-2025 Build-out defined
+Newberg  Water Master Plan (2) Water Master Plan (2) Water Master Plan (2) 2004-2025
+Sheridan Water Master Plan (2) Water Master Plan (2) Water Master Plan (2) 2002-2025 Build-out defined
+Willamina 1990-2000 Census (1) Intertie Study (3) Dundee as surrogate (4) NA
+Yamhill (City of) 1990-2000 Census (1) Intertie Study (3) Dundee as surrogate (4) NA Build-out defined
+Notes:
+(1) U.S. Census Data for population for years 1990 and 2000 were used to derive a growth rate applied to the
+entire planning period.
+(2) Water master plan developed for the community is used as the basis for population data, per capita water use
+and peaking factor to derive average day and maximum day demand (see Table 1).
+(3) Yamhill County Intertie Study (EES, 1998) was used as the basis for the per capita water use for these
+communities.
+(4) City of Dundee’s peaking factor was also applied for these communities because of their similar size in terms of
+population served by the water system.
+
+Population Estimate.  The key feature of the demand forecast is the population estimates for the study
+area.  Whenever available, population projections deve loped in existing water master plans are used for
+the individual study participants.  In those cases wher e a recent master plan is not available, the primary
+source of population data is taken from U.S. Census .  Data from Portland State University and Yamhill
+County Planning Department were also considered, but were determined not to provide any more recent
+or reliable information.
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-3
+Population Growth Rate.   By definition, the population growth rates are assumed to be annually
+compounding (geometric). In those cases where the U.S. census data is used for the population forecast, a
+growth rate is derived using the data from years 1990 and 2000 1.  For those communities with master
+plans, the population was projected using the growth rate from the last period developed in the master
+plan.
+Per Capita Use.   The per capita water consumption rate (gallons per capita per day) is based on
+information in the Yamhill County Intertie Study  (EES 1998), unless this information is available in a
+more recent water master plan for th e individual study pa rticipants.  The Intertie Study  is used as the
+default source for per capita use because the study has already been reviewed by the County.
+Water Demand.   The water demand forecast is expressed in terms of ADD and MDD.  Whenever
+available, ADD and MDD from existing water master plans are used and projected to 2050 using the
+same growth rate from the last period in the master plan.  For those cases where ADD is not available in a
+master plan, it is derived by multiplying the population for a given year by the per capita water use.  In
+turn, MDD is derived by multiplying ADD by a peaking f actor (typically on the order of 2.0).  Whenever
+available, the peaking factors derived in the master plans are used for each study participant.  If that
+information is not available, a surrogate is used.  In this case, the City of Dundee has a recent water
+master plan and the peaking factor of ~2.2 is app lied to all of the other communities that do not have a
+recent master plan, and which have similar populatio n. These include Amity, Carlton, Dayton, Willamina
+and Yamhill.
+Table 2-3  summarizes the per capita water use and peaki ng factor assumed for each study participant.
+The per capita water use assumed in this study ra nges from 135 gallons per capita per day (gpcd) for
+Newberg to 231 gpcd for McMinnville, with the aver age being 147 gpcd.  These per capita water use
+factors were not based on the same time period.
+The peaking factors ranged from 1.5 for Dayton to 2. 5 for McMinnville and Yamhill.  This is important
+for evaluating sources to meet the maximum day dema nds of the individual communities and the project
+as a whole.
+
+Table 2-3.  Summary of Per Capita Use and Peaking Factors
+Study Participant Per Capita Use
+(gallons per capita
+per day)
+Peaking Factor
+(MDD/ADD)
+Amity 147 2.2
+Carlton 182 2.2
+Dayton 150 1.5
+Dundee 143 2.2
+Lafayette 147 2.2
+McMinnville 231 2.5
+Newberg  135 2.1
+Sheridan 173 2.2
+Willamina 145 2.2
+Yamhill (City of) 140 2.5
+
+1 The formula to derive the growth rate is: r = [(b/a)1/n – 1], where:
+   r = the compound growth rate, expressed as a decimal
+b = population at the end of the overall time period (e.g. pop. in year 2000)
+a = population at the beginning of the period (e.g. pop. in year 1990)
+n = number of sub-periods (e.g. number of years between a and b)
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-4
+Build-Out.  Under Oregon’s land use laws, communities are required to maintain comprehensive plans
+which define urban growth boundaries (UGB) an d include density requirements for development.  A
+community reaches “build-out” when all available lots  within the UGB are developed.  If this occurs, a
+building moratorium may be initiated and population growth can be significantly reduced (or halted) from
+its projected growth rate.  Alternatively, a commun ity may decide to pursue expansion of its UGB to
+allow more development (and population growth) to continue to occur.
+If build-out or density requirements are disregarded the projections will conti nue to grow unbounded.
+Considering the constraints of land use planning, this is not necessarily a “realistic” result.  For this study,
+basic assumptions are used to reflect the lik ely “tapering” of growth over the long-term. The “low range”
+estimate assumes that UGB will limit the populatio n growth, while the “high range” estimate assumes
+that the UGB will be expanded to allow continued growth .  It is difficult to justify if and when the UGB
+will constrain growth and whether each community will allow expansion of the UGB.  Nevertheless,
+representing this situation is important to capture the potential range in water demands.
+At the time of this analysis, specific build-out info rmation was not available for all communities, with the
+exception of Dundee, Sheridan, Lafayette, McMinnv ille and Yamhill. For Dundee and Sheridan, build-
+out was not anticipated to be reached until after 2020.  In Lafayette, build-out was expected to be reached
+by ~2010.  Although the water system plan for Yamh ill indicated build-out would not be reached before
+2020, input from Yamhill staff for this study indicated  that the City of Yamhill was close to build-out
+(personal communication, Richard Howard) .  McMinnville indicated that the UGB would likely be
+expanded upon reaching its limits at approximately 2012.
+Taking this information into account, three diffe rent scenarios for the population projection are
+considered:
+• Scenario 1 – No build-out constraints:  assumes growth rates derived from the census data and
+water master plans continue unimpeded throu gh the entire planning period, unless information
+from master plans indicate explicitly that build-out is achieved within the planning period (i.e. for
+the cases of Dundee, Lafayette, Sheridan and Yamhill).
+• Scenario 2 - UGB expansion not allowed:   generally assumes that UGB constraints reduce the
+growth rates to half of the rate derived from the census da ta between 2015 and 2025, and further
+by half between 2025 and 2050 for communities with out explicit build-out information from the
+master plans.  This applies to Amity, Carlton, Dayton, McMinnville, Newberg and Willamina.  In
+this case, the UGB is not expanded within the plan ning period.  Exceptions to this description are
+shown in Table 2-4.
+• Scenario 3 – UGB expansion allowed:   generally assumes that UGB constraints reduce the
+growth rates to half of the rate derived from the census data between 2015 and 2025.  By 2025 it
+is assumed that a UGB expansion occurs and that  growth rates continue at the pre-2015 growth
+rates derived from the census data and master pl ans.  This applies to Amity, Carlton, Dayton,
+McMinnville, Newberg and Willamina.  Exceptions to this description are shown in Table 2-4.
+
+Table 2-4 summarizes the growth rates for each of the three scenarios over the planning period (through
+2050).  Predicting when UGB expansion might occur is  highly uncertain; therefore, the assumptions for
+their timing were based partly to make the analysis more convenient.
+Uncertainty.  In addition to the uncertain ty associated with reaching bu ild-out, water demand forecasting
+has inherent uncertainty due to the potential for varyi ng growth rates, changes in land use (e.g. impacts of
+Measure 37), changes in water use efficiency and ot her factors.  To account for this uncertainty, the
+baseline projections are adjusted to develop a “low” and “high” estimate of water demand.  The demands
+based on Build-out Scenario 1 is adjusted higher by 10%, while the demands based on the Build-out
+Scenario 3 is adjusted lower by 10%.  This provides a “demand projection band” for comparative
+purposes.
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-5
+Table 2-4. Growth Rates for Build-Out Scenarios for Population Projections
+Study
+Participant
+Scenario 1: No Build-out
+Constraints
+Scenario 2: UGB Expansion
+not Allowed
+Scenario 3: UGB Expansion
+Allowed
+Amity 2.3% (to 2050) 2.3% (to 2014)
+1.2% (2015-2025)
+0.6% (2026-2050)
+2.3% (to 2014)
+1.2% (2015-2025)
+2.3% (2026-2050)
+Carlton 1.6% (to 2050) 1.6% (to 2014)
+0.8% (2015-2025)
+0.4% (2026-2050)
+1.6% (to 2014)
+0.8% (2015-2025)
+1.6% (2026-2050)
+Dayton 3.3% (to 2050) 3.3% (to 2014)
+1.7% (2015-2025)
+0.83% (2026-2050)
+3.3% (to 2014)
+1.7% (2015-2025)
+3.3% (2026-2050)
+Dundee 4.0% (to 2015)
+3.3% (2016 to 2023)
+0% (2024-2050)
+Same as Scenario 1 4.0% (to 2015)
+3.3% (2016 to 2050)
+Lafayette 6.7% (to 2010)
+1.5% (2011 to 2015)
+0% (2015 to 2050)
+Same as Scenario 1 6.7% (to 2010)
+1.5% (2011 to 2050)
+McMinnville 3.1% (to 2050) 3.1% (to 2014)
+1.5% (2015-2025)
+0.78% (2026-2050)
+3.1% (to 2014)
+1.5% (2015-2025)
+3.1% (2026-2050)
+Newberg  2.0% (to 2020)
+1.7% (2021 to 2050)
+2.0% (to 2020)
+1.7% (2021 to 2025)
+0.85% (2026 to 2050)
+2.0% (to 2020)
+1.7% (2021 to 2025)
+2.0% (2026 to 2050)
+Sheridan 3.0% (to 2030)
+0% (2031 to 2050)
+Same as Scenario 1 3.0% (to 2030)
+1.5% (2031 to 2050)
+3.0% (2026-205)
+Willamina 0.5% (to 2050) 0.5% (to 2014)
+0.25% (2015-2025)
+0.12% (2026-2050)
+0.5% (to 2014)
+0.25% (2015-2025)
+0.5% (2026-2050)
+Yamhill (City of) 1.7% (to 2020)
+0% (2021 to 2050)
+1.7% (to 2015)
+0.85% (2016-2025)
+0.42% (2026-2050)
+1.7% (to 2015)
+0.85% (2016-2025)
+1.7% (2026-2050)
+
+Other Assumptions.  Several other assumptions used in the development of the population and water
+demand projections are worth noting:
+• Per capita water use assumes production demands (i.e. the values include unaccounted-for-water).
+• Per capita water use does not generally change for each study participant durin g the planning period
+(unless specifically developed in the water master plan).  The effect of water conservation and
+efficiency measures would be to reduce the per capita water use over time, and as such act as
+“additional” source of supply.  This is considered in the source of supply analysis.
+• Demands are primarily driven by residential u se.  Industrial/commercial use is not explicitly
+projected.  The individual water providers did not identify any large or significant projected non-
+residential use.
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-6
+2.2 Demand Forecast Results
+Appendix A  includes a detailed spreadsheet table of the population and water demand forecasting
+analysis based on the methods described above.  Th is section includes summary tables of the results.
+Table 2-5 summarizes the population projection data over the entire planning period for each of the water
+providers and unincorporated areas for each of the three build-out scenarios.  As Table 2-5  shows,
+McMinnville and Newberg are by far the largest popul ations served, followed by Sheridan, Lafayette,
+Dundee and Dayton.  The smaller communities include  Amity, Carlton, Willamina and Yamhill.  It
+should be noted that Willamina is not entirely inside Yamhill County, but its full service area is
+considered in this study.
+
+Table 2-5.  Summary Population Projections with Build-Out Scenarios
+  2010 2015 2025 2050
+Amity
+Scenario 1-No Buildout Constraint 1,859  2,085  2,623  4,654
+Scenario 2-UGB Expansion not Allowed 1,859  2,085  2,340  2,704
+Scenario 3-UGB Expansion Allowed 1,859  2,085  2,340  4,153
+Carlton
+Scenario 1-No Buildout Constraint 1,778  1,927  2,264  3,384
+Scenario 2-UGB Expansion not Allowed 1,778  1,927  2,089  2,312
+Scenario 3-UGB Expansion Allowed 1,778  1,927  2,089  3,124
+Dayton
+Scenario 1-No Buildout Constraint 2,942  3,467  4,815  10,940
+Scenario 2-UGB Expansion not Allowed 2,942  3,467  4,091  5,036
+Scenario 3-UGB Expansion Allowed 2,942  3,467  4,091  9,296
+Dundee
+Scenario 1-No Buildout Constraint 3,865  4,713  6,540  6,540
+Scenario 2-UGB Expansion not Allowed 3,865  4,713  6,540  6,540
+Scenario 3-UGB Expansion Allowed 3,865  4,713  6,540  14,832
+Lafayette
+Scenario 1-No Buildout Constraint 4,946  5,328  5,328  5,328
+Scenario 2-UGB Expansion not Allowed 4,946  5,328  5,328  5,328
+Scenario 3-UGB Expansion Allowed 4,946  5,328  6,184  8,972
+McMinnville
+Scenario 1-No Buildout Constraint 34,218  39,861  54,092  116,036
+Scenario 2-UGB Expansion not Allowed 34,218  39,861  46,489  56,385
+Scenario 3-UGB Expansion Allowed 34,218  39,861  46,489  99,725
+Newberg
+Scenario 1-No Buildout Constraint 22,953  25,406  30,545  46,186
+Scenario 2-UGB Expansion not Allowed 22,953  25,406  30,545  37,592
+Scenario 3-UGB Expansion Allowed 22,953  25,406  30,545  50,747
+Sheridan
+Scenario 1-No Buildout Constraint 7,600  8,810  11,839  13,725
+Scenario 2-UGB Expansion not Allowed 7,600  8,810  11,839  13,725
+Scenario 3-UGB Expansion Allowed 7,600  8,810  11,839  18,484
+Willamina
+Scenario 1-No Buildout Constraint 1,945  1,998  2,108  2,409
+Scenario 2-UGB Expansion not Allowed 1,945  1,998  2,052  2,122
+Scenario 3-UGB Expansion Allowed 1,945  1,998  2,052  2,346
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-7
+Table 2-5.  Summary Population Projections with Build-Out Scenarios
+  2010 2015 2025 2050
+Yamhill
+Scenario 1-No Buildout Constraint 1,984  2,158  2,348  2,348
+Scenario 2-UGB Expansion not Allowed 1,984  2,158  2,348  2,348
+Scenario 3-UGB Expansion Allowed 1,984  2,158  2,349  3,577
+Water Provider Total
+Scenario 1-No Buildout Constraint 84,091  95,755  122,502  211,550
+Scenario 2-UGB Expansion not Allowed 84,091  95,755  113,663  134,093
+Scenario 3-UGB Expansion Allowed 84,091  95,755  114,519  215,256
+Incorporated Yamhill County 28,131  30,056  34,311  47,774
+
+Table 2-6 includes a summary of the average daily demand pr ojections for each of the study participants
+based on the population and per capita water use presented in Tables 4 and 5.  Figure 2-1 shows the
+water demand projection for totals for ADD and MDD for all of the study participants, along with the low
+and high ranges.
+As Table 2-6  shows, McMinnville presents the largest cu rrent demands and the largest increase in
+demands to be met over the planning period.  Unde r the three build-out scenarios, the total project
+demand at 2050 is estimated to range from 24.4 to  40.7 mgd for ADD and 56.7 to 96.0 mgd for MDD.
+The net increase (from 2010 to 2050) for the project as a whole could range from 9.2 to 25.6 mgd for
+ADD and from 21.4 to 60.7 mgd for MDD.  Figure 2-2  shows the relative demands of each study
+participant spatially within the county for Scenarios 2 and 3.  Figure 2-3 shows the overall increase in
+demand for each study participant, and illustrates where the greatest increase in demand is occurring
+spatially for Scenario 3.  Both of these figures are u seful for visualizing potential sharing or water supply
+or development of regional supply for Yamhill County to serve the study participants.
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-8
+
+Table 2-6.  Summary of Water Demand Projections (in million gallons per day)
+  2010 2015 2025 2050
+Net Increase
+(2010-2050)
+  ADD MDD ADD MDD ADD MDD ADD MDD ADD MDD
+Amity
+Scenario 1 0.27 0.60 0.31 0.67 0.39 0.85 0.68 1.51 0.41 0.90
+Scenario 2 0.27 0.60 0.31 0.67 0.34 0.76 0.40 0.87 0.12 0.27
+Scenario 3 0.27 0.60 0.31 0.67 0.34 0.76 0.61 1.34 0.34 0.74
+Carlton
+Scenario 1 0.32 0.71 0.35 0.77 0.41 0.91 0.62 1.36 0.29 0.64
+Scenario 2 0.32 0.71 0.35 0.77 0.38 0.84 0.42 0.93 0.10 0.21
+Scenario 3 0.32 0.71 0.35 0.77 0.38 0.84 0.57 1.25 0.24 0.54
+Dayton
+Scenario 1 0.44 0.66 0.52 0.78 0.72 1.08 1.64 2.46 1.20 1.80
+Scenario 2 0.44 0.66 0.52 0.78 0.61 0.92 0.76 1.13 0.31 0.47
+Scenario 3 0.44 0.66 0.52 0.78 0.61 0.92 1.39 2.09 0.95 1.43
+Dundee
+Scenario 1 0.55 1.22 0.67 1.48 0.94 2.06 0.94 2.06 0.38 0.84
+Scenario 2 0.55 1.22 0.67 1.48 0.94 2.06 0.94 2.06 0.38 0.84
+Scenario 3 0.55 1.22 0.67 1.48 0.94 2.06 2.12 4.67 1.57 3.45
+Lafayette
+Scenario 1 0.73 1.60 0.78 1.72 0.78 1.72 0.78 1.72 0.06 0.12
+Scenario 2 0.73 1.60 0.78 1.72 0.78 1.72 0.78 1.72 0.06 0.12
+Scenario 3 0.73 1.60 0.78 1.72 0.91 2.00 1.32 2.90 0.59 1.30
+McMinnville
+Scenario 1 7.90 19.76 9.21 23.02 12.50 31.24 26.80 67.01 18.90 47.25
+Scenario 2 7.90 19.76 9.21 23.02 10.74 26.85 13.03 32.56 5.12 12.80
+Scenario 3 7.90 19.76 9.21 23.02 10.74 26.85 23.04 57.59 15.13 37.83
+Newberg
+Scenario 1 3.10 6.51 3.43 7.20 4.12 8.66 6.24 13.09 3.14 6.59
+Scenario 2 3.10 6.51 3.43 7.20 4.12 8.66 5.07 10.66 1.98 4.15
+Scenario 3 3.10 6.51 3.43 7.20 4.12 8.66 6.85 14.39 3.75 7.88
+Sheridan
+Scenario 1 1.31 2.89 1.52 3.35 1.77 3.89 2.37 5.22 1.06 2.33
+Scenario 2 1.31 2.89 1.52 3.35 1.77 3.89 2.37 5.22 1.06 2.33
+Scenario 3 1.31 2.89 1.52 3.35 1.90 4.19 3.20 7.04 1.88 4.14
+Willamina
+Scenario 1 0.28 0.62 0.29 0.64 0.31 0.67 0.35 0.77 0.07 0.15
+Scenario 2 0.28 0.62 0.29 0.64 0.30 0.65 0.31 0.68 0.03 0.06
+Scenario 3 0.28 0.62 0.29 0.64 0.30 0.65 0.34 0.75 0.06 0.13
+Yamhill
+Scenario 1 0.28 0.69 0.30 0.76 0.33 0.82 0.33 0.82 0.05 0.13
+Scenario 2 0.28 0.69 0.30 0.76 0.33 0.82 0.33 0.82 0.05 0.13
+Scenario 3 0.28 0.69 0.30 0.76 0.33 0.82 0.50 1.25 0.22 0.56
+Total
+Scenario 1 15.2 35.3 17.4 40.4 22.3 51.9 40.7 96.0 25.6 60.7
+Scenario 2 15.2 35.3 17.4 40.4 20.3 47.2 24.4 56.7 9.2 21.4
+Scenario 3 15.2 35.3 17.4 40.4 20.6 47.7 39.9 93.3 24.7 58.0
+Section 2 – Water Demand Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-9
+Figure 2-1.  Projected Water Demands Using Three Build-Out Scenarios
+0.00
+20.00
+40.00
+60.00
+80.00
+100.00
+120.00
+200
+0
+2002
+200
+4
+2006
+200
+8
+201
+0
+2012
+201
+4
+2016
+201
+8
+202
+0
+2022
+202
+4
+2026
+202
+8
+2030
+2032
+203
+4
+2036
+203
+8
+2040
+204
+2
+204
+4
+2046
+204
+8
+2050
+Year
+Water Demand, million gallons per day
+ADD Scenario 1 Total ADD Scenario 2 Total ADD Scenario 3 Total MDD Scenario 1 Total
+MDD Scenario 2 Total MDD Scenario 3 Total ADD High ADD Low
+MDD High MDD Low
+
+MDD Curves
+ADD Curves
+Section 2 – Water Demand Analysis Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-10
+
+Section 2 – Water Demand Analysis Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-11
+
+Section 2 – Water Demand Analysis Yamhill County Water Supply Analysis
+Final – April 7, 2008 2-12
+
+This page left intentionally blank
+
+Section 3 – Existing Water Supply    Yamhill County Water Supply Analysis
+Final – April 7, 2008 3-1
+3.0 EXISTING WATER SUPPLY
+3.1 Description of Water Supplies
+The ten water providers par ticipating in this study utilize surface water, springs and groundwater to meet
+the water demands of their service area.  The su rface water sources used include South Yamhill River,
+Willamina Creek, Panther Creek, Fall Creek, Turner Creek, Yamhill River, and the Nestucca River.
+Although none of the water providers currently uti lize the Willamette River,  Dundee currently holds
+water rights on the Willamette River.  Groundwater wells are screened in three different aquifer
+formations in the basin including the all uvial, Troutdale formation, and basalt unit. Figure 3-1 shows the
+general locations of the existing source of supplies and related infrastructure including groundwater wells,
+points of diversion, treatment plants and raw water reservoirs.
+Table 3-1 lists the water rights (totals) available for each water provider.   Attachment B (Table B-1)
+lists the detailed water rights.  The total certificat ed and permitted ground water and surface water rights
+available among all of the water provi ders is 71.3 mgd of instantaneous rights. The water rights are based
+on information included in the master plans or information provided by responses to the survey conducted
+by McMinnville Water and Light in June 2006.  Th e water rights information was then verified with
+Oregon Water Resources Department (OWRD) online da tabase.  When necessary,  staff from the water
+providers were contacted to confirm or request specifi c information not available in the master plans or
+survey responses.
+
+Table 3-1.  Summary of Water Rights Totals by Water Provider
+Water Provider Total
+Certificated
+(cfs)
+Total Permitted
+(cfs)
+Total
+Application
+(cfs)
+Total Claim
+(cfs)
+Total Storage
+(ac-ft)
+Amity SW – 1.11
+GW – 0.56
+SW – 1.0
+GW – 0.16 NA GW – 0.13 N/A
+Carlton SW – 0.5 SW – 5.01 NA NA 75
+Dayton SW – 0.25
+GW – 1.39 GW – 0.67 NA NA N/A
+Dundee SW – 0.807
+GW – 0.48
+SW – 4.0
+GW – 3.33 NA NA N/A
+Lafayette SW – 1.49
+GW – 0.60 GW – 1.41 SW – 0.4 GW – 0.4456 N/A
+McMinnville SW – 4.5 SW –27.8 NA NA 22,082
+Newberg SW – 8.00
+GW – 10.7 GW -- 20 NA SW – 0.5
+GW – 2.228 N/A
+Sheridan SW – 0.67 SW – 10.0
+GW – 0.612 NA NA 552
+Willamina SW –1.4 SW –2.6 NA NA 20
+Yamhill SW – 1.28 NA NA NA 60
+Combined Total SW – 20.01
+GW – 13.73
+SW – 50.41
+GW – 26.18 SW – 0.4 SW – 0.50
+GW – 2.80 22,789
+Notes:
+SW – surface water; GW – groundwater; cfs – cubic feet per second; ac-ft – acre feet; NA – not applicable
+
+Descriptions of existing sources and water supply infrastructure are summarized below for each water
+provider.  The information is used to assign reliabl e source capacities for the water needs analysis (supply
+minus demand).
+City of Amity.   Amity has both surface and groundwater source s.  Amity has four (4) wells with a total
+production capacity of 0.45 million gallons per day (m gd) (0.69 cubic feet per second [cfs]).  This
+Section 3 – Existing Water Supply    Yamhill County Water Supply Analysis
+Final – April 7, 2008 3-2
+capacity does not include one of the unused well (permit number G12189).  The surface water sources
+include South Yamhill River and springs.  The tota l production capacity from the surface sources is 1.27
+mgd (1.98 cfs), and does not include one of the unu sed spring sources.  The treatment plant has a
+treatment capacity of 0.576 mgd.  Amity did not indicate a source limitation due to groundwater yield or
+spring flows.
+City of Carlton.   Carlton has a surface water source on Pa nther Creek and Fall Creek with a total
+production capacity of 3.6 mgd (5.6 cfs).  The treatment  plant is direct filtration-pressure sand filter type
+with a capacity of 1.11 mgd.  The treatment plan t was recently constructe d in 2004 and Carlton has no
+plans for expansion in the near future.  Carlton noted that not all of their water rights are developable
+because of streamflow limitations.
+City of Dayton.   Dayton has a groundwater source using a we llfield of five (5) wells with a total
+production capacity of 0.95 mgd (1.47 cfs).  One of the sources (certificate number 49959) is not used
+without treatment.  The treatment plant uses multimedia filters and has a capacity of 2.1 mgd.  Dayton has
+observed declining water levels and reduced production capacity over the past few years.
+City of Dundee.   Dundee has existing groundwater sources, and has unused water rights on the
+Willamette River.  Dundee has nine (9) wells with a total current production capacity of 1.14 mgd (1.77
+cfs).  However, Dundee has observed decreased productio n of its active wells over the past few years.
+The City provides chlorination and no other tr eatment.  Besides the groundwater wells, Dundee
+historically used spring sources, but for unspecified reasons they have not been used for decades.  The
+majority of the wells have recorded declining production yields.
+City of Lafayette.  Lafayette has several groundwater and spri ng sources.  Lafayette currently has four (4)
+wells in operation with a total production capacity of 0.35 mgd (0.55 cfs).  The wells are screened in three
+different aquifer formations (basalt,  alluvial, and Troutdale formation).  Lafayette also uses water from
+springs with total production capacity of 0.05 mgd (0 .08 cfs).  Lafayette has some inactive groundwater
+and spring sources.  Water produced from all of the we lls are treated with chlorine prior to entering the
+distribution system.  In addition, the well in the Dayt on/Lafayette wellfield is also treated for manganese
+removal and the “watershed” wells are treated with soda ash and chlorine.  During winter months in
+normal rainfall years, the springs produce more water th an Lafayette can store.  Lafayette usually tries to
+rely on spring water from November through June to allow the wells to recover.  However, in the past, the
+wells have operated through the winter because of lack of rainfall.
+City of McMinnville (McMinnville Water and Light).   MWL has surface water sources which are
+impounded in reservoirs and then diverted to the Hask ins Creek Water Treatment Plant.  Raw water is
+supplied from the Yamhill River and Nestucca River b asins.  MWL has rights to instream flow of 12.61
+mgd (19.5 cfs) from Haskins Creek, 4.16 mgd (6.40 cfs) from Nestucca River, and 6.20 mgd (9.6 cfs)
+from Walker Creek for a total of 22.97 mgd.  Wa ter from the Yamhill River is impounded in Haskins
+Reservoir which is on Haskins Creek behind the Walter Link Dam.  Water from Nestucca River is
+impounded in McGuire Reservoir.  When needed, water from McGuire Reservoir is then diverted to the
+Haskins Reservoir through Idlewild Creek.  In the summer months, peak water demands are met by
+diverting water from storage.  The total water that  can be diverted from st orage is 250 million gallons
+(MG) from Haskins Reservoir and 3,248 MG in McGuir e Reservoir.  When or if built, Walker Creek
+Reservoir would have available storage right of 1, 466 MG under the existing permit.  Haskins Creek
+water treatment plant (WTP) is located downstream of  the Haskins Reservoir and has a capacity of 13.3
+mgd.  MWL did not note a source limitation due to available streamflow or storage.
+City of Newberg.  The City of Newberg currently has sever al spring and groundwater sources.  Newberg
+holds a total of 22.6 mgd of groundwater rights for wells and 5.5 mgd of water rights from the springs;
+however, the achievable wellfield capacity is less than  the groundwater rights due to well interference.
+There are six (6) wells in operation with a total produ ction capacity of approximately 6.0 mgd (9.28 cfs).
+The sum of the wells’ pumping capacity rates is greater  than 6.0 mgd, but a lowered aquifer level during
+Section 3 – Existing Water Supply    Yamhill County Water Supply Analysis
+Final – April 7, 2008 3-3
+the summer months reduces the wells’ combined capac ities.  The wells are screened in three different
+aquifer formations: basalt, alluvial, and Troutdale formations.  All water from the wells is delivered
+directly to an oxidation/filtration water treatment  plant that has a 5.6 mgd capacity.  The WTP has
+recently been expanded to capacity of 9.5 mgd.  Ne wberg also uses water from springs.  The production
+of the springs has been on the dec line with the most recent production rate being on the order of 0.17
+mgd.  Although the reason behind the spring produc tion decline is unknown, possible explanations
+include decreased rainfall or overpumping of wells located above the springs.
+City of Sheridan.  The City of Sheridan presently supplies water from two sources: the Stoney Mountain
+springs and the South Yamhill River.  Water from th e springs is the Sheridan’s primary water supply
+source, while the South Yamhill River is used as a secondary source during high demand periods.  The
+combined production capacity of surface water from both sources is 1.78 mgd.  A well is also located at
+the Stoney Mountain springs that has a production capac ity of 0.07 mgd.  Sheridan’s surface water source
+is treated through a conventional filter treatment plant with a capacity of 1.3 mgd.  The springs provide a
+high quality year-round water source although the yi eld can be variable depending on the season.
+Sheridan did not note a source limitation due to available streamflow or spring flow.
+City of Willamina.  The City of Willamina supplies only surface water from Willamina Creek.  In 2005,
+Willamina had a total production capacity of 0.53 mgd (1 .28 cfs).  Willamina also has a water right for
+Lady Creek but is not currently using the source.  The treatment plant has a capacity of 1.0 mgd (1.55
+cfs).  Willamina did not note a source limitation due to available streamflow.
+City of Yamhill.  City of Yamhill’s only source of water is surface water from Turner Creek.  Yamhill has
+two water right certificates from that source, totaling 0.83 mgd (1.28 cfs).  In addition, Yamhill has the
+right to store 30 acre-feet of water in the Turner Cr eek Reservoir and distribute it at whatever rate is
+needed.  Water is stored in the Turner Creek R eservoir behind the Turner Creek Dam during the summer
+only.  Yamhill’s treatment plant has a capacity of 0.648 mgd. Yamhill did not note a source limitation due
+to available streamflow in Turner Creek.
+3.2 Reliable Source Capacity
+The amount of water actually available in terms of re liable, high quality water is typically less than the
+permitted rights listed in Table 3-1.  Factors that affect the actual capacities include natural limits of the
+source, raw water quality, installed infrastructure and interference from multiple points of withdrawal.
+To quantify the need for additional or new water s upply, an estimate of “true” water availability is
+required.  Estimates can be derived from intervie ws with operational staff or through reviews of
+documented capacities in planning or engineering reports.
+
+The source of supply available to the water providers may be limited in terms of reliability of access to
+the source water.  For example, a “live” stream flow water right may allow diversions up to 1 cfs;
+however, the stream may have an 80% exceedance flow of less than 0.3 cfs – thus allowing the water
+provider to access their full right less than 40% of th e time.  For this study, the assumption is that
+infrastructure and water right limits are the primar y basis for source capacity, unless the water provider
+explicitly noted a source limitation due to available streamflow, spring flow or groundwater yield.
+
+Table 3-2 summarizes the reliable capacity with respect to  diversion (pump) capacity, treatment capacity,
+water rights capacity or source limitation.  In addition, Table 3-2 indicates which of these factors limits
+the existing source capacity for each water provider.  In general, the source of water does not limit the
+reliable capacity in that there is available water to meet the current treatment capacity or production
+capacity.  Six of the ten providers had treatment capac ity as the limiting factor.  The remaining four water
+providers were limited by the production capacity (we ll or diversion).  In all cases, the water providers’
+have some excess water rights to develop beyond their current infrastructure, although this does not imply
+that the existing water rights are adequate to meet fu ture demands or that there is available source of
+Section 3 – Existing Water Supply    Yamhill County Water Supply Analysis
+Final – April 7, 2008 3-4
+water to expand production or treatment capacity furt her.  Of course the reliable capacities can change
+over time (e.g. as infrastructure improvements occur), but for the purposes of this study, the current
+reliable capacities based on treatment or production cap acity are used to evaluate future water supply
+needs.  This evaluation is presented in Section 4.
+
+Table 3-2.   Source of Supply Limiting Capacity
+City Source Type
+and Capacity
+Treatment
+Capacity
+Source Limitations
+(Streamflow and
+Groundwater Yield)
+Available Water
+Rights
+Limiting
+Capacity
+Amity
+SW – 1.275 mgd
+(1.975 cfs)
+GW – 0.36 mgd
+( 0.56 cfs)
+0.576 mgd
+Not limited by source;
+1 abandoned well (G12189)
+and 1 abandoned spring
+(S5481)
+SW –  1.360 mgd
+(2.105 cfs)
+GW – 0.55 mgd
+(0.85 cfs)
+Treatment plant
+capacity
+Carlton SW – 3.6 mgd 1.11 mgd
+Streamflow limited below
+water right; source available
+to meet treatment capacity
+SW – 3.55 mgd
+(5.51 cfs)
+Storage – 75 ac-ft
+Treatment plant
+capacity
+Dayton GW – 0.95 mgd
+(660 gpm) 2.1 mgd
+Declining water levels in
+wells have reduced the
+amount of available water;
+source available to meet
+current well capacity
+SW – 0.16 mgd
+(0.25 cfs)
+GW – 1.33 mgd
+(2.06 cfs)
+Production well
+capacity
+Dundee GW – 1.14 mgd
+(1.77 cfs) No treatment
+Declining water levels in
+wells have reduced the
+amount of available water;
+source available to meet
+current well capacity.
+SW – 3.1 mgd
+(4.81 cfs)
+GW – 2.46 mgd
+(3.81 cfs)
+Production well
+capacity
+Lafayette
+SW – 0.05 mgd
+(0.08 cfs)
+GW – 0.35 mgd
+(0.55 cfs)
+N/A
+Groundwater requires
+“recovery”; source available
+to meet current well
+capacity.
+SW – 1.24 mgd
+(1.92 cfs)
+GW – 1.58 mgd
+(2.45 cfs)
+Production well
+and diversion
+capacity
+McMinnville
+SW – 20.84 mgd
+(32.3 cfs)
+
+13.3 mgd
+(2.06 cfs)  Not limited by source
+SW – 22.97 mgd
+(35.54 cfs)
+Storage – 18,887 ac-ft
+Treatment plant
+capacity
+Newberg
+GW – 6.0 mgd
+(9.3 cfs)
+SW – 0.17 mgd
+(0.26 cfs)
+5.6 mgd
+(8.7 cfs)
+Well interference limits
+available ground water
+production; declining spring
+production rate; source
+available to meet current
+treatment capacity.
+GW – 22.7 mgd
+(35.1 cfs)
+SW – 5.5 mgd
+(8.5 cfs)
+Treatment plant
+capacity
+Sheridan
+SW – 1.78 mgd
+(2.86 cfs)
+GW – 0.07 mgd
+(0.11 cfs)
+1.3 mgd
+Low summer flows for
+springs; source available to
+meet current treatment
+capacity.
+SW – 6.88 mgd
+(10.7 cfs)
+GW – 0.39 mgd
+(0.61 cfs)
+Storage – 276 ac-ft
+Treatment plant
+capacity
+Willamina SW -- 0.53 mgd
+(0.82 cfs) 1.0 mgd Not limited by source
+SW -- 2.58 mgd
+(4.00 cfs)
+Storage -- 20 ac-ft
+Diversion
+capacity
+Yamhill SW – 0.83 mgd
+(1.28 cfs)
+0.648 mgd
+(1.0 cfs) Not limited by source
+SW -- 0.83 mgd
+(1.28 cfs)
+Storage -- 60 ac-ft
+Treatment plant
+capacity
+Notes:
+SW – surface water; GW – groundwater; cfs – cubic feet per second; mgd – million gallons per day; ac-ft – acre feet; N/A - not applicable
+
+Section 3 – Existing Water Supply    Yamhill County Water Supply Analysis
+Final – April 7, 2008 3-5
+3.3 Planned Water Supply Infrastructure Improvements
+This section summarizes planned water supply and infrastructure improvements or expansions that have
+been documented in existing capital improvement plans or that have been identified through
+communication with staff for this project.  In most cases, the planned improvements have a timeline
+identified.  The paragraphs below provide additional descriptions for those water providers with known
+planned improvements.  This review has not identified specific planned water supply improvements for
+Carlton and Willamina.  Table 3-3 summarizes the planned improvements.  These improvements are
+considered in the source alternatives and supply strategy evaluation in Section 5.
+
+Table 3-3  Summary of Planned Water Supply or Infrastructure Improvements
+City Improvement
+Amity • Treatment plant expansion in 5 to 7 years.
+Carlton • No planned improvements identified at this time.
+Dayton • Treatment plant expansion within next 20 years.
+Dundee • Planning to construct a new reservoir of approximately 1.5 million gallons
+• No plans to build a treatment plant (in the near-term)
+Lafayette • Additional wells in Dayton/Lafayette wellfields.
+McMinnville
+• CIP recommends:
+o piping improvements, increased storage, and land acquisition by the City
+• MWL is deciding whether to upgrade the current treatment plant.
+• MWL is looking for another pressure zone to provide additional water.
+Newberg
+• CIP recommends
+o addition of two new pump stations
+o replacing aging pipes
+o addition of a new 1.5 million gallon reservoir to serve new development.
+• The treatment plant has been expanded to 9.5 mgd.
+Sheridan
+• CIP recommends:
+o upgrading the Stoney Mountain Transmission line and exploring the Stoney
+Mountain Springs
+o expanding the current Stoney Mountain sources
+o developing the Willamina Creek source.
+Willamina • No information available.
+Yamhill
+• City CIP recommends:
+o upsizing pipes to provide adequate fire flows
+o replacing undersized and aged pipes that are leaking
+o adding 1.0 mgd of capacity at the treatment plant
+o adding 1.0 million gallons of treated water storage capacity
+
+City of Amity.  Amity has plans to expand the treatment plant in the next 5 to 7 years (information was
+not available regarding the size of expansion).
+City of Dayton.  Dayton has plans to expand the treatment plant within the next 20 years (information was
+not available regarding the size of expansion).
+City of Dundee.  The City of Dundee is currently looking to expand their storage capacity by constructing
+a new finished water reservoir of approximately 1.5 MG.  There is not a firm date set for the design and
+construction of the reservoir.  The construction of a new reservoir as well as exploratory well drilling and
+distribution system improvements are noted in the City’s Capital Improvement Plan (CIP).  There are no
+plans to build a treatment plant at this time.
+Section 3 – Existing Water Supply    Yamhill County Water Supply Analysis
+Final – April 7, 2008 3-6
+City of Lafayette.  Lafayette is planning to construct two new wells in its Dayton Wellfield for potentially
+an additional 0.36 to 0.43 mgd (0.56 to 0.67 cfs).
+City of McMinnville (McMinnville Water and Light).  MWL’s CIP recommends distribution piping
+improvements, increased storage, and land acquisition.  MWL is currently in the process of deciding
+whether to upgrade or improve the current treatment plant to provide additional treatment for dissolved
+metals in the water, and a decision should be reached by March 2007.  MWL is also looking for another
+pressure zone that can provide an additional source of water.
+City of Newberg.  The City of Newberg has a Capital Improvement Plan included in the Newberg’s Water
+System Master Plan.  The CIP recommends the addition of two new pump stations to serve new
+development, replacement of aging pipes, and the addition of a new 1.5 MG reservoir to serve new
+development.  In addition, Newberg’s treatment plant was recently expanded to 9.5 mgd with a new
+membrane filtration unit.  The CIP was developed for the period 2010 to 2024.
+City of Sheridan.  The City of Sheridan has a Capital Improvement Plan included in the City’s Water
+System Master Plan.  The CIP is recommended in a three phase process:  The first phase is to upgrade the
+Stoney Mountain Transmission line and explore the Stoney Mountain Springs (listed to be completed in
+2000).  This phase involves upsizing transmission pipes and exploring the Stoney Mountain area for more
+spring supplies.  The second phase is to expand the current Stoney Mountain sources (listed to be
+completed in 2005).  This would be accomplished after the completion of phase one and involves drilling
+new wells, diverting water from the East and West Baltimore Creeks, and constructing new storage
+facilities.  The water treatment plant would also require upgrading to accommodate the new sources.  As
+of this study, the first two phases have not yet been completed.  The third phase is to develop the
+Willamina Creek source (listed to be completed in 2020).  This involves constructing an impoundment on
+Willamina Creek to supply water through build-out of Sheridan’s urban growth boundary.
+City of Yamhill.  The City of Yamhill has a Capital Improvement Plan that includes upsizing pipes to
+provide adequate fire flows, replacing undersized and aged pipes that are leaking, adding a new water
+treatment unit at the existing plant with a capacity of 1.0 mgd, and adding 1.0 MG of treated water storage
+capacity to provide water for peak demand periods.  No timeline was specified in the CIP.
+3.4 Water Quality Issues
+Water quality is an important consideration when reviewing water supply sources because of the potential
+for mixing sources among the water providers.  Not all of the water providers provide treatment nor use
+the same type of treatment processes.  In addition,  certain water uses requires that the water quality be
+known, e.g. certain types of industrial uses.  Mc Minnville and Newberg have source supply water quality
+issues, as described below. Specific water quality issu es for Amity, Carlton, Dayton, Dundee, Lafayette,
+and Willamina were not identified.
+McMinnville Water and Light.  MWL treats its water at the Haskins Creek Water Treatment Plant.  The
+treatment plant components include chemical feed, coagulation in a 570,000 gallon contact basin, mixed-
+media filtration in 4 filter beds with a total surface area of 1,728 square feet, disinfection with chlorine,
+and the addition of fluoride.  The treatment plant currently does not treat lead and manganese contained in
+the water, however MWL is looking at options to upgrade or expand the treatment plant to treat these
+dissolved metals.
+City of Newberg.   The City of Newberg has tested its wate r for lead, copper, and coliform bacteria, and
+has found low concentrations of each in its water.  All water used by Newberg is delivered directly to an
+oxidation/filtration water treatment plant that has a 5.6 mgd capacity.  The WTP is currently under
+expansion with an expanded capacity of 9.5 mgd.   Newberg currently treats its water for low
+concentrations of dissolved iron and manganese.
+
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-1
+4.0 FUTURE NEEDS ANALYSIS
+This section compares the future demand for water with  the available supplies (and water rights) for each
+provider.  The resulting unmet water needs (or wa ter supply deficits) are defined as the difference
+between the provider’s available water and project ed water demand.  A detailed description of the
+methods and assumptions used is provided in this section.
+4.1 Water Rights Needs
+Water rights needs were determined for each water provider by comparing the demand projections from
+Section 1 and existing permitted and certificated water rights (see Table 3-1 and Attachment B).  This
+comparison assumes the available water rights are full y developed or available.  The water rights are
+compared against maximum day demand (MDD) projections through 2050.  MDD is used as the primary
+basis for evaluating future needs because it is the limiting factor during the low flow/high demand periods
+(late summer/early fall) critical to evaluating adequacy  of water supply.  This comparison is conservative
+in nature because it does not account for finished water storage to meet peak demands.  The MDD
+comparison assumes that peak demands will be met through instantaneous production.
+Average day demands (ADD) are also compared to th e available water rights owned by each community.
+A deficit under comparison with ADD indicates a more critical water supply shortage.  Table C-1 in
+Appendix C shows water rights surplus and deficits co mpared against ADD for each provider through
+the planning period.
+Table 4-1  summarizes water rights surplus and deficits (values in parentheses) based on the MDD for
+each provider. Figure 4-1 shows graphically the surplus/deficit in 2050 with respect to water rights using
+Scenario 3 demands. County-wide, the ten water provide rs have total water rights of 78.21 mgd.  Under
+Scenario 1, demand is projected to come within ~ 10 mgd of total rights.  Scenario 2 is the most
+conservative with ~37 mgd in surplus, and Scenario 3 at ~22 mgd.  This ge neral pattern follows for
+individual providers as well.  Surplus under the thr ee scenarios are consistent for each water provider
+until about 2015, then begin to diverge.  In 2015, Sc enarios 2 and 3 assume a reduction in growth rate by
+half, while Scenario 1 continues at the same growth  rate to 2050.  In 2025, Scenario 2 assumes a further
+reduction in growth by half again while scenario three assumes a UGB expansion and growth rates occur
+at the same rate as 2015 levels.
+Most of the providers in the study group currently have enough water rights to meet their projected
+demands through the planning period (2050).  The exceptions are Dayton, Lafayette, McMinnville and
+Yamhill:
+• MWL only has water rights deficiencies under Scenar io 1, which is the most aggressive growth
+projection for these communities. Projections for MW L indicate a surplus until 2031, which grows to
+over 12 mgd in 2050 under Scenario 1 (no build-out constraints) conditions.  MWL will maintain a
+surplus of 6.9 mgd under Scenario 2 (UGB expans ion not allowed) and a surplus of 3.4 mgd under
+Scenario 3 (UGB expansion allowed).  Thus, MWL has available water rights (under the less
+aggressive demand scenarios) to potentially share regionally.  The need for MWL to pursue water
+rights depends significantly on how much growth is  allowed within their service area and whether
+MWL pursues a regional role in providing water.
+• Lafayette only has water rights deficiencies under Scen ario 1, which is the most aggressive growth
+projection for these communities.
+• Dayton has water rights deficiencies under the two more aggressive growth scenarios (Scenario 1 –
+no build-out constraints and Scenario 3 – UGB expa nsion allowed). Under Scenario 1, Dayton is
+projected to exceed its current water rights in 2035,  growing to a deficit of ~1.5 mgd in 2050.  Under
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-2
+Scenario 3 (UGB expansion allowed), Dayton’s de mands are projected to exceed available rights in
+2040 and growing to a deficit of almost 1.0 mgd in 2050.
+• Lafayette is projected to see a deficit by 2050 of 0. 07 mgd under Scenario 1.  Under Scenarios 2 and
+3, Lafayette will maintain a surplus through the planning period.
+• Dayton and Lafayette have the potential to share wate r rights (as they currently do with one of their
+groundwater rights).  However, by ~2040 under Scenario 1 and ~2047 under Scenario 3 the total
+demands between the two would exceed their combined  water rights.  At that point, the two water
+providers would have to consider adding new water rights or accessing water from other providers or
+sources.
+• Yamhill is projected to exceed its current water right s in 2021, growing to a deficit of ~0.5 mgd in
+2050 under Scenario 1.  Under Scenario 3, Yamh ill’s demands are projected to exceed available
+rights in 2026, growing to a deficit of 0.42 mgd in 2050.  Carlton, the closest provider to Yamhill, has
+surplus water rights adequate to offset the defic its of Yamhill under all of the scenarios considered.
+However, water availability limitations may preclude further developing those water rights.
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-3
+
+Table 4-1.  Summary of Water Rights Surplus/ Deficits for Maximum Day Demand
+(million gallons per day)
+  Total Water Rights 2010 2015 2025 2050
+Amity
+Scenario 1 1.91 1.31  1.24  1.06  0.40
+Scenario 2 1.91 1.31  1.24  1.15  1.04
+Scenario 3 1.91 1.31  1.24  1.15  0.57
+Carlton
+Scenario 1 3.55 2.84  2.78  2.64  2.19
+Scenario 2 3.55 2.84  2.78  2.71  2.62
+Scenario 3 3.55 2.84  2.78  2.71  2.30
+Dayton
+Scenario 1 2.14 1.17  1.00  0.55  (1.47)
+Scenario 2 2.14 1.17  1.00  0.79  0.48
+Scenario 3 2.14 1.17  1.00  0.79  (0.93)
+Dundee
+Scenario 1 5.56 4.34  4.08  3.50  3.50
+Scenario 2 5.56 4.34  4.08  3.50  3.50
+Scenario 3 5.56 4.34  4.08  3.50  0.89
+Lafayette
+Scenario 1 3.2 2.13  1.97  1.57  (0.07)
+Scenario 2 3.2 2.13  1.97  1.78  1.19
+Scenario 3 3.2 2.13  1.97  1.78  0.35
+McMinnville
+Scenario 1 22.97 8.21  6.51  2.51  (12.28)
+Scenario 2 22.97 8.20  6.85  6.85  6.85
+Scenario 3 22.97 8.20  6.50  3.36  3.36
+Newberg
+Scenario 1 28.2 21.69  21.00  19.54  15.11
+Scenario 2 28.2 21.69  21.00  19.54  17.54
+Scenario 3 28.2 21.69  21.00  19.54  13.81
+Sheridan
+Scenario 1 7.27 4.38  3.92  2.76  2.05
+Scenario 2 7.27 4.38  3.92  2.76  2.05
+Scenario 3 7.27 4.38  3.92  2.76  0.23
+Willamina
+Scenario 1 2.58 1.86  1.79  1.61  1.00
+Scenario 2 2.58 1.86  1.79  1.79  1.79
+Scenario 3 2.58 1.86  1.79  1.71  1.46
+Yamhill
+Scenario 1 0.83 0.14  0.07  (0.06) (0.53)
+Scenario 2 0.83 0.14  0.07  0.01  0.01
+Scenario 3 0.83 0.14  0.07  0.01  (0.42)
+Water Providers Total
+Scenario 1-MDD 78.21  48.07  44.34  35.70  9.90
+Scenario 2-MDD 78.21  48.05  44.68  40.90  37.07
+Scenario 3-MDD 78.21  48.05  44.33  37.32  21.64
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-4
+
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-5
+4.2 Water Supply Needs Based on Reliable Source Capacity
+Water supply needs are assessed for both the individual water providers and the sum total of all the water
+providers by comparing the reliable source capacity (see Section 3.2 and Table 3-2) to MDD.  As with
+the water rights comparison, the needs resulting from a comparison with reliabl source capacity are
+compared against the three demand scenarios discussed previously.
+Table 3-2 summarizes the reliable source capacity used for the comparison source pumping capacities
+and treatment capacities for each water provider.  Tr eatment plant capacities are the limiting factor for
+Amity, Carlton, McMinnville, Newberg, and Sheridan . Carlton and McMinnville have no treatment plant
+improvements/expansions planned; Dayton, Dundee,  Lafayette, Willamina and Yamhill are limited by
+their source pumping capacity.  Dundee and Lafayette  have source improvements planned, whereas
+Dayton, Willamina and Yamhill have no source improvements planned.
+Unlike water rights, reliable source capacity is projec ted to present more of a problem to meeting long-
+term MDD.  For all water providers except Carlt on and Yamhill, treatment capacity or source production
+capacity is a limiting factor for meeting M DD in the near-term ( 2010), as summarized in Table 4-2 .
+Figure 4-2 shows graphically the surplus/deficit in 2050 with respect to reliable source capacity using
+Scenario 3 demands. For all water providers combined, de ficits are projected to occur in 2010 and stay in
+a deficit through 2050 under all scenarios.
+To be clear, these deficits are based on MDD, which assumes that peak demands need to be met through
+instantaneous production.  The water provider may need to implement curtailment actions to reduce
+demands during peak demand periods, but under non-peak demand conditi ons may have adequate source
+capacity.  A deficit under comparison with ADD indicates a more critical water production shortage.  A
+deficit under MDD conditions does not necessarily mean that average day demands cannot be met.  Table
+C-2 in Appendix C  detail water system surplus and defic its for ADD for each provider through the
+planning period.
+Treatment plant limitations would prevent Amity, Newberg, MWL, Sheridan and Yamhill to meet
+maximum day demands.  With the exception of Mc Minnville and Sheridan, these water providers have
+capacity improvements planned over the next 20 year s.  McMinnville is determining whether to upgrade
+the treatment plant, and while Sheridan has planne d transmission and source improvements, there are no
+plans to improve their treatment system.  Dayton, D undee, Lafayette, and Willamina are limited by their
+source production or diversion capacity.  Of thes e, Dundee and Lafayette have plans to improve
+production capacities.  The surplus water rights for some  of the water providers indicates that there are
+opportunities for infrastructure improvements and expans ions to reduce or eliminate the source capacity
+deficiencies identified; however in many instances,  water availability limitati ons preclude developing
+these water rights further.
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-6
+
+Table 4-2.  Summary of Reliable Source Capacity Surplus/ Deficits for Maximum Day Demand
+(million gallons per day)
+
+Total Reliable
+Capacity 2010 2015 2025 2050
+Amity
+Scenario 1 0.576 (0.03) (0.10) (0.27) (0.93)
+Scenario 2 0.576 (0.03) (0.10) (0.18) (0.30)
+Scenario 3 0.576 (0.03) (0.10) (0.18) (0.77)
+Carlton
+Scenario 1 1.11 0.40  0.34  0.20  (0.25)
+Scenario 2 1.11 0.40  0.34  0.27  0.18
+Scenario 3 1.11 0.40  0.34  0.27  (0.14)
+Dayton
+Scenario 1 0.95 (0.02) (0.19) (0.64) (2.66)
+Scenario 2 0.95 (0.02) (0.19) (0.40) (0.71)
+Scenario 3 0.95 (0.02) (0.19) (0.40) (2.12)
+Dundee
+Scenario 1 1.14 (0.08) (0.34) (0.92) (0.92)
+Scenario 2 1.14 (0.08) (0.34) (0.92) (0.92)
+Scenario 3 1.14 (0.08) (0.34) (0.92) (3.53)
+Lafayette
+Scenario 1 0.4 (0.67) (0.83) (1.23) (2.87)
+Scenario 2 0.4 (0.67) (0.83) (1.02) (1.61)
+Scenario 3 0.4 (0.67) (0.83) (1.02) (2.45)
+McMinnville
+Scenario 1 13.3 (1.46) (3.16) (7.16) (21.95)
+Scenario 2 13.3 (1.47) (2.82) (2.82) (2.82)
+Scenario 3 13.3 (1.47) (3.17) (6.31) (6.31)
+Newberg
+Scenario 1 5.6 (0.91) (1.60) (3.06) (7.49)
+Scenario 2 5.6 (0.91) (1.60) (3.06) (5.06)
+Scenario 3 5.6 (0.91) (1.60) (3.06) (8.79)
+Sheridan
+Scenario 1 1.3 (1.59) (2.05) (3.21) (3.92)
+Scenario 2 1.3 (1.59) (2.05) (3.21) (3.92)
+Scenario 3 1.3 (1.59) (2.05) (3.21) (5.74)
+Willamina
+Scenario 1 0.53 (0.19) (0.26) (0.44) (1.05)
+Scenario 2 0.53 (0.19) (0.26) (0.26) (0.26)
+Scenario 3 0.53 (0.19) (0.26) (0.34) (0.59)
+Yamhill
+Scenario 1 0.83 0.14  0.07  (0.06) (0.53)
+Scenario 2 0.83 0.14  0.07  0.01  0.01
+Scenario 3 0.83 0.14  0.07  0.01  (0.42)
+Water Providers Total
+Scenario 1-MDD 25.74  (4.41) (8.13) (16.78) (42.57)
+Scenario 2-MDD 25.74  (4.42) (7.79) (11.58) (15.41)
+Scenario 3-MDD 25.74  (4.42) (8.14) (15.15) (30.84)
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-7
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-8
+4.3 Summary of Needs Analysis
+Figure 4-3  provides a graphical summary of demand pr ojections, water rights and reliable source
+capacity at the county level.  MDD projections are not  expected to exceed total water rights within the
+planning period, however MDD is expected to exceed reliable source capacities in 2010 or sooner.  Note
+that these results are for the combined  total needs of all the participati ng water providers.  Individually,
+most of the communities have some deficit in reliable source capacity even early in the planning period.
+
+Based on the geographic distribution of the water rights and reliable source capacity, consideration should
+be given to how surpluses can be distributed to tho se areas with supply deficits.  For illustration purposes,
+Scenario 3 demands are used to describe possi ble water rights and sour ce production management
+approaches for the participating water providers to meet their deficiencies in 2050 taking into
+consideration the planned improvements by each water provider.  The summary is presented in Table 4-3.
+For example, Lafayette-Dayton and Carlton-Yamhill ma y be able to share water rights to address their
+projected water rights deficiencies.  The cost of transmission and pumping vers us localized development
+of water supply for individual water providers is assessed in Section 5.
+
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-9
+
+Figure 4-3. Comparison of Projected Water Demands to Reliable Source Capacity and Water Rights
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2010 2015 2020 2025 2030 2035 2040 2045 2050
+Year
+Water Demand, million gallons per day
+ADD Scenario 1 Total ADD Scenario 2 Total ADD Scenario 3 Total MDD Scenario 1 Total
+MDD Scenario 2 Total MDD Scenario 3 Total Total Capacity Total Water Rights
+County-wide Water Rights (mgd)
+County-wide Water System Capacities
+MDD Curves
+ADD Curves
+
+Section 4 – Future Needs Analysis    Yamhill County Water Supply Analysis
+Final – April 7, 2008 4-10
+Table 4-3.  Summary of Surplus/Deficiencies* to Meet Projected Demands
+Water
+Provider
+2050 Water
+Rights Surplus
+(mgd)
+2050 Source Production
+Surplus (mgd)
+Current Developable
+Water Rights
+Amity 0.57 -0.77
+(treatment limited)
+SW – 0.085 mgd
+GW – 0.19 mgd
+Carlton 2.30 -0.14
+(treatment limited)
+SW – None
+GW – None
+Dayton -0.93 (deficit) -2.12
+(source capacity limited)
+SW – 0.16 mgd
+GW – 1.03 mgd
+Dundee 0.89 -3.53
+(source capacity limited)
+SW – 3.1 mgd
+GW – 1.32 mgd
+Lafayette 0.35 -2.45
+(source capacity limited)
+SW – 0.91 mgd
+GW – 1.89 mgd
+McMinnville 3.36 -6.31
+(treatment limited)
+SW – 2.13 mgd
+GW – NA
+Newberg 13.81 -8.79
+(treatment limited)
+SW – 16.7 mgd
+GW – 5.33 mgd
+Sheridan 0.23 -5.74
+(treatment limited)
+SW – 5.1 mgd
+GW – 0.32 mgd
+Willamina 1.46 -0.59
+(source capacity limited)
+SW – 2.05 mgd
+GW – NA
+Yamhill -0.42 -0.42
+(source capacity limited)
+SW – None
+GW – NA
+Notes:
+*The surplus and deficiencies presented in this table are based on Scenario 3 demands for illustration purposes.
+SW – surface water
+GW – groundwater
+Mgd – million gallons per day
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-1
+5.0 SOURCE OF SUPPLY OPTIONS
+This section discusses source of supply options availa ble to the water providers in Yamhill County.
+Source options considered include those that could be developed by the individual water providers (“local
+options”), as well as those that are regional in natu re (“regional options”).  In developing the potential
+supply options, primary consideration was given to the many existing studies that have been conducted
+for the area.
+The approach used in this assessment is to consider which water s upply deficits can be addressed through
+management of existing supplies (conservation, reuse, water rights transfers and interties) and where new
+sources are needed because of the scale of the defi cit.  While water conservation, reuse, and water
+transfers can offset or delay the need to devel op new sources, in many cases new sources of supply are
+needed.  New sources are generally linked to either expansion of surface water diversions or ground water
+withdrawals or creation of additional storage of off-peak season water.
+5.1 Availability of Water Resources
+One of the keys to the feasibility of a new source is th e availability of water.   Protecting threatened and
+endangered species, particularly those of anadromous  fish, and restoring impaired or contaminated
+sections of stream or ground water reserves are in dir ect competition with the need for water supply – and
+water availability.  State and federal designation for streams for aesthetic and other instream beneficial
+uses also affect the availability of water.
+5.1.1 Surface Water Availability
+The Yamhill County study area incl udes the Yamhill River basin wher e the North Yamhill and South
+Yamhill Rivers converge into the Yamhill River east of McMinnville and eventually drains into the
+Willamette River.  Some of the primary tributaries in the basin that are used currently for source of supply
+include Turner Creek, Fall Creek, Panther Creek and Haskins Creek on the North Yamhill branch, and
+Willamina Creek and Mill Creek on the South Yamhill branch.
+With the exception of MWL’s source of supply (transferred from adjacent basin), major surface water
+storage is not present in the Yamhill River basin.  Therefore, out-of-stream diversions are supplied by
+unregulated natural flow, and the Oregon Water R esources Department (OWRD) issues water rights
+based on the availability of natural flow.
+Table 5-1  summarizes the water availability informati on provided by OWRD’s Water Availability
+Reporting System (WARS) for the key tributaries in the County.  The WARS database essentially
+provides a determination on a particular point in th e stream whether water is available (on a monthly
+basis) for issuing new water rights based on estimat es of natural streamflow, consumptive uses, and
+instream flow requirements2.  Table 5-1 indicates that most of the tributaries in the study area do not have
+year-round water available for new water rights perm its (appropriations) for run-of-river diversions.
+Water is generally not available during the late summer  and early fall months.  For the most part, water is
+available for storage rights purposes.
+
+2 Instream rights help maintain streamflows for fish production by restricting the issuance of new water rights that are “junior”
+(later priority date) to the instream flow right.  Oregon water law does not require that the flows be maintained below the site
+prescribed, and the instream rights actually exceed the amount of water available in the stream.
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-2
+
+Table 5-1. Water Availability Status for Key Water Supply Tributaries
+50% Exceedence 80% Exceedence Waterbody
+Year-round
+Availability Months Not available
+Year-round
+Availability Months Not available
+Turner Cr. No May-November No April-November
+Panther Cr. Yes None No
+July-September,
+November
+Willamina Cr. No August-October No June-November
+Haskins Cr. No May-November No January, April-December
+S. Yamhill R. No July-October No June-October
+N. Yamhill R. No July-September No June-November
+Fall Cr. Yes None No April
+Yamhill R. No August-September No July-September
+Note: 50% exceedance means monthly streamflows that on average are exceeded 50% of the time.  Thus, 80%
+exceedance flow is a lower flow rate than a 50% exceedance flow.
+
+5.1.2 Ground Water Availability
+One of the principal aquifers in the area is hosted by  the Grande Ronde Basalt unit of the Columbia River
+Basalt Group (CRBG).  The majority of ground water flow within the CRBG is found within a series of
+interflow zones.  CRBG interflow zones can be a highly productive source of  ground water with wells
+commonly yielding several hundred gallons per minute.  However, as described later, CRBG aquifers
+have been prone to over-pumping, which has caused water level declines and reduced well yields in many
+areas.
+Ground water is also found in marine sediments, basi n fill sediments (such as the French Prairie near
+Dayton), and within younger alluvial  deposits along the Willamette River a nd other streams in the basin.
+The yield from sediment-hosted aquifers can vary greatly depending on the amount of coarse-grained
+sediments present.  In general, the yield from marine  sediments is low and not adequate for municipal
+supplies.  The yield from wells completed within th e basin-fill and younger alluvial deposits adjacent to
+rivers and streams can be relatively high (on the order of several hundred gpm); however these locations
+are generally within the flood plain or on land zoned for exclusive farm use (EFU).
+OWRD has defined several ground water limited areas within or near the Yamhill County study area that
+restrict the availability of ground water rights.  Ground water limited areas have been established in a
+number of areas underlain by CRBG aquifers.  The areas in Yamhill County include the Amity
+Hills/Walnut Hills area and Eola Hills area.  Heavy pumping from CRBG aquifers have caused significant
+water level declines in these areas.  Under State b asin programs, new ground water rights in these areas
+are restricted to a few designated uses.  Another f actor limiting the potential to develop new ground water
+rights is Division 9 of OAR-690-009, which are OWRD  rules governing well interference within surface
+water.  These rules restrict ground water development w ithin 1 mile of streams and tributaries that are not
+open to further appropriation.  For example, new ground water permits would not allow pumping during
+certain times of the year for wells located within one  mile of the streams or tributaries to the streams
+listed in Table 5-1, if those aquifers are hydraulically connected  to the streams (which most are) and if
+the proposed well production rate exceeds certain criteria.
+The Bureau of Reclamation (BOR) has concluded that ground water in Yamhill County has been so
+intensely developed that the potential for future deve lopment is limited to only a few areas (BOR, 1996).
+In some areas, increased pumping is causing water qua lity problems, as well as declining aquifer levels,
+especially in the CRBG aquifers.   According to  BOR (1996), “there is essentially no potential for
+additional ground water development except in the Newb erg area.”  Despite these limitations in ground
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-3
+water availability, several communities in the county c ontinue to rely on ground water as their primary
+source of supply, and look to ground water to meet their future water demands.
+5.2 Managing Existing Supplies
+5.2.1 Water Conservation
+In most cases, water conservation will not likely sav e enough water to eliminate the need for additional
+water completely, but can delay or offset the need for new sources.  Therefore, water conservation is
+assumed to be a “source option” to be implemented by each of the water providers to some degree,
+including meeting the minimum requirements.  Or egon State law (OAR 690-086) requires all water
+providers with service populations greater than 1,000 submit a Water Management and Conservation Plan
+(WMCP) when they apply for new water rights or for an extension of their existing right.  Most of the
+cities in Yamhill County have outdated WMCPs that are in need of revision.  In some cases, such as
+Lafayette, cities are operating on extensions to their WMCP in order to secure additional water rights.
+Other cities need revisions to their plans in order to make conservation an effective tool in water
+management.
+Conservation measures vary depending on the specific needs of the water provider, but Division 86 (OAR
+690-086-0150) requires certain components of water conservation, which include:
+• Full metering of systems
+• Meter testing and maintenance program
+• Annual water audit
+• Leak detection program if audit indicates loss >10%
+• Leak repair program if audit indicates loss >15%
+• Rate structure based on quantity of water metered
+• Public education program
+• Progress report on previous WMCP
+• Documentation of water use measurement and reporting
+• List of measures already implemented or required under contract
+Conservation programs can also lower revenue coming in to the cities; therefore, there is an implied
+disincentive to water conservation.  However, in addition to being required by law, conservation can
+eliminate nuisance shortages that typically occur in the dry summer months.  None of the cities conducts
+analysis on the effectiveness of their conservation programs, yet it is generally accepted that a well-
+implemented conservation program could reduce wate r consumption by approximately 5% to 10%.
+Greater reduction in water use would be continge nt on the customer base (i.e. percentage of
+commercial/industrial and residential accounts), the leve l of effort put forth on previous conservation
+measures and other considerations that vary widely between different water systems.
+Additional input from the water providers is needed  to identify specific conservation activities and to
+estimate the possible water savings.  Several cities have active conservation programs in effect. The
+following are some of the activities being implemente d by the water providers based on input received to
+date:
+• Newberg conducts public outreach programs and offers low flow fixture distribution to its customers.
+• Sheridan applies several conservation measures in cluding a water use measurement and recording
+program, variable rate structures, and retrofitting/ replacement of existing inefficient fixtures.  In
+addition, the Sheridan performs routine field insp ections of the water system and incorporates a
+program for the regular replacement of old pipes.
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-4
+• The City of Yamhill eliminated the need for a dditional water rights by conducting institutional
+irrigation audits on local schools and churches, thereby extending their current capacity past 2020.
+5.2.2 Water Reuse and Non-potable Source
+Besides conservation, reuse of wastewater or i ndustrial water and non-potab le use of source water
+provides another option to offsetting the need for new sources of supply.  As with water conservation,
+reuse is not likely to save enough water to eliminate the need for additional water completely.  However,
+reuse is also assumed to be a “source option” to be implemented by each of the water providers to some
+level.  Larger communities with more commercial or  industrial users may have more opportunities, but
+small communities may also be able to develop some limited reuse practices.
+Recycled municipal wastewater or commercial process is  the most widely discussed reuse option.  Use in
+wide-spread municipal application is often proven to be  too costly in terms of other alternatives, largely
+because of health restrictions associated with require ments to separate “grey water sources.”  In terms of
+costs and feasibility, a reuse program lends itself to  urban environments wher e large volumes of water
+usage and sales provide an economy of scale not typically available in more rural settings.
+Similar to reuse, non-potable source targets the use of non-treated (raw) water for commercial or
+industrial application, such as irrigation or process operations in which high-quality source water is not
+needed.  As with reuse, this option would be most economical in an environment with large water users
+and a relatively large percentage of commercial/industr ial customers.  Again, additional input from the
+water providers is needed to identify specific non-potable source opportunities.
+5.3 Local Source Options Review
+This section summarizes the “local” source of supply opt ions available to each of the water providers.
+Local options in this case, refer to those options that  can be developed individu ally by each provider to
+attempt to meet the water demands for their own service area.  Section 5.3 discusses the regional and sub-
+regional options available to the water providers.
+Table 5-2 summarizes the existing sources of supply in terms of water rights and reliable source capacity
+and notes when each provider would need new water rights or source infrastructure to meet their
+projected demands.  In terms of the reliable source capacity, an attempt was made to obtain information
+from each provider regarding whether water availab ility (resource limit) is limiting the ability to fully
+utilize the water right.  If the resource is limiting full use of the water right, then this is an indication that
+increasing production from that existing source is not likely feasible.
+Local source options available for each water provider were identified under the following six categories:
+• Surface water source – includes increasing diversion rate ( capacity) from existing points of diversion
+under existing water rights or developing a new wate r right under the same source (stream/spring).
+These options only consider streams/springs that ar e currently used as sources of supply.  It is
+assumed that available flows from other tributaries not already being used as a source are too low to
+be a practical municipal source of supply.
+• Ground water source  – includes construction of additiona l wells under existing water rights or
+developing a new water right within the same aquifer source. In general, it is assumed that only those
+water providers that are currently  using ground water as a munici pal source would pursue additional
+ground water supply.  In general, ground water levels have been d eclining in some areas and there
+appears to be an aquifer yield limitation that could limit addition of significantly more production
+from wells, especially in other areas within the ground water limited areas in the County.
+• Storage/reservoir – includes on-stream and off-stream storag e options for those water providers who
+already have a storage right or have noted plans for storage or conducted feasibility studies.  Analysis
+to identify other storage sites was not included in this scope.
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-5
+• Water conservation – water conservation is considered an option for each of the water providers.
+Specific activities have not been id entified, except to note those providers who have indicated that
+water management and conservation plans are being developed.  The rate of water savings is not
+estimated, but it is generally assumed at this point that water conservation alone will not fully address
+source deficiencies.
+• Water Reuse  – reuse is considered an option available for each of the water providers but specific
+opportunities have not been identified, unless specifica lly provided.  It is generally assumed at this
+point that, like conservation, water reuse alone will not fully address source deficiencies.
+• Intertie – identifies opportunities to connect water sy stems among one or more providers to share
+sources of supply.  Interties in this case refers to  sharing existing sources, and are distinguished from
+“transmission” associated with transporting regional water from diverse sources regionally.
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-6
+
+Table 5-2.  Summary of Source of Supply Needs by Community
+Community Permitted/
+Certificated Water
+Rights(1)
+Reliable Source
+Capacity(2)
+Likelihood of expanding
+water rights
+(new application)
+Year when MDD >
+available water rights
+or reliable capacity
+Comments
+Amity
+GW = 0.465 mgd
+SW = 1.360 mgd
+GW = 0.45 mgd (pumping)
+SW = 1.27 mgd (pumping)
+SW treatment = 0.576
+mgd
+ Not likely able to
+develop significant
+production from S.
+Yamhill River
+ No water rights deficit
+
+ Assumes that GW and SW sources are not
+limiting the water right due to resource
+limitation. One well and one spring source
+are not currently being used.
+Carlton
+SW = 3.557 mgd
+Storage = 75 ac-ft
+SW = 3.6 mgd (pumping)
+SW Treatment = 1.11 mgd
+ Not likely able to
+develop additional
+significant production
+from Panther Creek.
+ No water rights deficit
+
+ WTP may need to be expanded >2025 to
+meet demands.
+ Panther Creek Flows are limiting available
+water during late summer.
+ Fall Creek source is being developed in
+2007 (up to ~1.3 mgd)
+Dayton
+GW = 1.977 mgd
+SW = 0.161 mgd
+GW = 0.87 mgd (pumping)
+SW = .08 mgd (spring)
+GW treatment = 2.1 mgd
+ Not likely able to
+develop significant new
+ground water production
+from existing wells.
+
+ Water rights deficit
+beyond 2030
+ GW pumping capacity
+deficit by 2010
+ Recently constructed two new wells with
+Lafayette (shared).
+ New water rights will need to be secured
+over the long-term.
+ Declining water levels observed in active
+wells have reduced amount of usable
+capacity.
+ Existing spring supply cannot be expanded.
+Dundee
+GW = 2.463 mgd
+SW = 3.105 mgd
+(2.58 mgd from
+Willamette R.)
+GW = 1.14 mgd (pumping)
+SW = not used
+ Not likely able to
+develop significant new
+ground water
+production.
+
+ No water rights deficit
+ GW pumping capacity
+deficit by 2010
+ Decreasing production in active wells;
+spring sources are not used
+ New wells are not planned due to aquifer
+yield concerns.
+ Opportunity to develop rights on Willamette
+River.
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-7
+Table 5-2.  Summary of Source of Supply Needs by Community
+Community Permitted/
+Certificated Water
+Rights(1)
+Reliable Source
+Capacity(2)
+Likelihood of expanding
+water rights
+(new application)
+Year when MDD >
+available water rights
+or reliable capacity
+Comments
+Lafayette
+GW = 1.944 mgd
+SW = 0.963 mgd
+GW = 0.35 mgd (pumping)
+SW = 0.05 mgd (spring)
+ Not likely able to
+develop significant new
+ground water production
+from existing wells.
+ No water rights deficit
+ GW pumping capacity
+deficit by 2010
+ Recently constructed two new wells with
+Dayton (shared).  Two additional wells
+planned for summer 2007.
+ Production of springs and some wells drops
+significantly during late summer.
+ Springs used in the winter months to allow
+well recovery.  Not possible to expand
+spring.
+ Looking at possibility of ASR.
+ Additional supply needed after new wells
+are online.
+ New water rights will need to be secured
+over the long-term.
+McMinnville
+SW = 12.61 mgd
+(Haskins)
+SW = 4.134 mgd
+(Nestucca)
+SW = 6.20 mgd
+(Walker)
+Storage = 765 ac-ft
+(Haskins)
+Storage = 3,760 +
+6,040 ac-ft (McGuire)
+Storage = 4,500 ac-ft
+(Walker)
+SW Treatment plant =
+13.3 mgd
+ McGuire Res. recently
+expanded
+ Unlikely to expand
+reservoirs again within
+the planning period.
+ WR deficit beyond
+2030 (for instream
+rights); however,
+storage rights can
+address peak
+demands;
+ WTP capacity deficit
+by 2010
+ Assumes use of storage rights can be
+maximized.
+ Treatment plant needs to be expanded to
+meet demands through 2050
+ Opportunities to use available storage to
+serve region.
+ Currently only rely on stored water during
+peak season; fill reliability is high
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-8
+Table 5-2.  Summary of Source of Supply Needs by Community
+Community Permitted/
+Certificated Water
+Rights(1)
+Reliable Source
+Capacity(2)
+Likelihood of expanding
+water rights
+(new application)
+Year when MDD >
+available water rights
+or reliable capacity
+Comments
+Newberg
+GW = 19.832 mgd
+SW = 5.171 mgd
+GW = 6.0 mgd (pumping)
+SW = 0.17 mgd (springs)
+GW treatment = 9.6 mgd
+ Ground water yield
+expected to provide
+adequate production in
+the near term (for most
+recent new wells).
+ Not likely able to
+develop significant new
+ground water production
+from existing wells.
+ Springs production has
+been on the decline and
+is not expected to be a
+reliable future source.
+ No water rights deficit
+ GW pumping capacity
+deficit by 2010
+ WTP capacity deficit
+by 2030
+ Adequate water rights
+ Anticipated that new wells (under existing
+water rights) will produce 1,000 gpm each (5
+wells).
+ Well interference limits actual pumping
+capacity during summer.
+ Spring sources will no longer be available to
+City after 2007.
+ System expansions planned: water
+treatment plant expansions (2020 and
+2030); two wells added in 2010 and 2012
+Sheridan
+GW = 0.395 mgd
+SW = 6.890 mgd
+Storage = 276 ac-ft
+GW = 0.07 mgd (pumping)
+SW = 1.78 mgd (pumping)
+SW treatment = 1.3 mgd
+ Not likely able to
+develop significant
+production from
+Willamina Creek and
+other tributaries, except
+in conjunction with
+storage.
+ No water rights deficit
+ SW/GW pumping
+capacity deficit by
+2010
+ WTP capacity deficit
+by 2010
+ Springs provide year-round source; several
+tributary sources have low flows and limit
+water rights availability.
+ Planning a 60 MG off-line reservoir; WTP
+being developed for up to 2 mgd (will only
+utilize 1 mgd)
+ Pumping facilities and treatment plant
+needs to be expanded to meet demands
+through 2050.
+ No water is currently diverted from
+Willamina Cr and a reservoir study has
+recently been completed; reservoir could be
+used for regional purposes also.
+Willamina
+SW = 2.584 mgd
+Storage = 20 ac-ft
+(fish)
+SW = 0.53 mgd (pumping)
+SW treatment = 1.0 mgd
+ Not likely able to
+develop significant
+production from
+Willamina Creek
+ No water rights deficit
+ SW pumping capacity
+deficit by 2010;
+ WTP capacity deficit
+by 2025
+ Assumes that streamflows are not limiting
+existing water right due to resource
+limitation.
+ Not using Lady Creek source
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-9
+Table 5-2.  Summary of Source of Supply Needs by Community
+Community Permitted/
+Certificated Water
+Rights(1)
+Reliable Source
+Capacity(2)
+Likelihood of expanding
+water rights
+(new application)
+Year when MDD >
+available water rights
+or reliable capacity
+Comments
+Yamhill SW = 0.827 mgd
+Storage = 30 ac-ft
+SW = 0.827 mgd
+(pumping)
+SW treatment = 1.0 mgd
+ Not likely able to
+develop significant
+production from Turner
+Creek, except in
+conjunction with
+storage.
+ Water rights deficit by
+2020
+ SW pumping capacity
+deficit beyond 2020
+ WTP capacity beyond
+2030
+ Turner Creek is not currently limiting use of
+existing water rights.
+ Water is available according to WARS.
+ Potential to increase raw water storage (60
+ac-ft)
+
+Notes:
+(1) Only permitted and certificated water rights are included; claims are not included in the total water rights listed.
+(2) Reliable capacity is based on information provided by water providers and considers current production (pumping) capacity from the point of diversion or withdrawal, historical resource
+limitations (i.e. available streamflow or aquifer yield), or information from water use reports.
+GW – ground water; SW – surface water; mgd – million gallons per day, ac-ft – acre feet; WTP – water treatment plant
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-10
+The following paragraphs discuss the local sour ce options for each of the water providers.  Table 5-3
+summarizes the local source options for each water provider.
+Amity.  The reliable production capacities from both the ground water and surface water sources are near
+the permitted/certificated water rights that Amity owns.  The South Yamhill River does not appear to
+have water available for new surface water rights, based on a WARS analysis.  Amity may be able to
+develop local ground water wells in the future if not affected by the ground water limited areas or
+Division 9 surface water interference concerns.  Ho wever, Amity has no deficiency in water rights
+through the planning period based on the range of demand scenarios considered.  At this time, it appears
+that the treatment plant for the surface water source is the long-term limiting factor for source of supply.
+Expanding the treatment plant in the near-term will a ddress Amity’s source deficiencies.  An intertie or
+regional source can provide source reliability over the long-term.
+Carlton.  The reliable production capacity from Carlton’s surface water source at Panther and Fall Creeks
+is near their permitted water rights.  Water availability appears to be very limited for any new water rights
+on these tributaries based on WARS analysis.  However, Carlton has no deficiency in water rights through
+the planning period based on the range of demand scenarios considered.  Carlton has observed recently
+that the available water in Panther Creek in the summe r limits their ability to divert sufficient water to
+meet peak demands.  For this reason, the diversi on at Fall Creek is being improved to increase the
+diversion rate.  At this time, it appears that expans ion of the water treatment plant will allow Carlton to
+meet their long-term water demands, assuming that the surface water sources do not limit the available
+water for diversion.  For long-term planning, im provements to their storage capacity becomes an
+important option, because of recent flow limitations.  In addition, Carlton should consider options for
+interties with their closest water providers in cluding Yamhill, McMinnville and even source water
+provided through the Joint Water Commission (Yamhill does not have long-term source surplus).
+Dayton.  Production capacity from Dayton’s wells has di minished and additional source capacity will be
+needed. Dayton is currently working with Lafayette to develop additional shared wells in the Dayton-
+Lafayette wellfield over the next several years.  Da yton has attempted to rehabilitate existing wells with
+limited success. Further development of spring sources will not be possible without additional treatment.
+Additional water rights will need to be secured in th e long-term (beyond 2030) to meet the demands over
+the full planning period considered in this study.  However, with declining well yields (specifically during
+summer peak demand season) the ability to devel op significant long-term ground water sources may be
+limited.  Dayton should consider options for obtaining water supply be yond developing ground water
+sources with Lafayette.
+Dundee.  Dundee does not appear to need additional wa ter rights through the planning period based on
+the range of demand scenarios considered in this  study.  However, production capacity from Dundee’s
+wells needs to be increased or new wells drilled to meet near-term peak demands.  Dundee could attempt
+to further develop ground water sources to incr ease production within their existing water rights;
+however, declining water levels in the basalt aqui fer and increasing competition from new developments
+for limited ground water sources limits their ability to significantly increase production over the long-
+term.  Dundee does have a Willamette River water right and unused spring sources that can be developed.
+The need to construct a treatment plant is the primary constraint on this option.   Dundee could also look
+to develop an intertie with Newberg or share use of their treatment plant.
+Lafayette.  Lafayette does not appear to need additiona l water rights through the planning period based
+on the range of demand scenarios considered in this study.  Production capacity  from Lafayette’s wells
+has diminished and additional source capacity will be  needed.  Lafayette is currently working with
+Dayton to develop two additional shared wells in the Dayton-Lafayette well field during the summer of
+2007.  Further development of spring sources or insta llation of new wells in the watershed will not be
+possible.  Additional water rights will need to be s ecured in the long-term to meet demands over the full
+planning period considered in this study. However,  with declining well yields (specifically during
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-11
+summer peak demand season) the ability to devel op significant long-term ground water sources may be
+limited.  Lafayette should consider options for obtaining water supply beyond developing ground water
+sources with Dayton.  Lafayette is investigating opti ons for developing an AS R program, but is only in
+the evaluation stage.
+McMinnville.  MWL’s water rights are sufficient to meet the projected demands through the planning
+period based on the range of demand scenarios considered  in this study.  MWL has adequate run-of-river
+production capacity until the summer period when it relies on their stored water to meet the peak
+demands.  The limiting component of their system is the treatment plant capacity, and plans are in place
+to expand the plant by 2010 to 22 mgd. Based on th eir existing stored water rights, MWL has the ability
+to meet their local demands through the planning period.
+Of the participating water providers, MWL may have th e best ability to provide any significant quantities
+of water for regional use based on their size and av ailable sources and water rights.  Although MWL has
+water rights to develop Walker Reservoir, the design ation of Walker Creek as a Wild and Scenic river
+adds to the difficulties and challenges to constructing a new reservoir for regional use.  In the end, the
+ability of MWL to provide regional or sub-regional sour ce of water will depend on the needs of the other
+water providers (overall quantity) and the types of ag reements (administration, length of terms) open to
+interested parties.
+Newberg.  Newberg’s water rights are su fficient to meet the projected  demands through the planning
+period based on the range of demand scenarios considered  in this study.  In addition, Newberg recently
+completed an expansion to their water treatment plant.  However, production capacity from Newberg’s
+wells needs to be increased to meet near-term peak demands.  To address this need, Newberg has plans to
+develop two new wells in the near-term (2010 and 2012) , as well as expand its treatment plant to treat the
+iron that comes from these wells in the longer-term (2020 and 2030).  Although Newberg has the ground
+water rights to continue to devel op additional wells, it is not known how many additional wells can be
+installed and additional iron treatment will be need ed.  In addition, Newberg’s spring sources will no
+longer be available to the majority of the City af ter 2007.  Therefore, Newberg should consider options
+for developing other sources such as Willamette River source with Dundee.
+Sheridan.  Sheridan completed a comprehensive source/s upply study in year 2000 and identified several
+preferred options to meet their projected water demand s.  Sheridan has sufficient water rights through the
+planning period to meet the range of demand scenarios considered in this study.  New water rights from
+streams in and around Sheridan are generally not available during summer months.  Ground water appears
+to be limited in the area, but Sheridan can emphasize developing its surface water/storage rights to meet
+future demands.  The limiting component for Sheridan is its treatment plant capacity, and development of
+the surface water/storage options would require construction of a new treatment plant.  If the surface
+water/storage and treatment plant options can be de veloped, Sheridan should have adequate supply to
+meet demands through the planning period.  These f acilities could also serve sub-regional demands for
+neighboring water providers.
+Willamina.  Willamina does not appear to need additiona l water rights through the planning period based
+on the range of demand scenarios considered in  this study.  However, production capacity from
+Willamina’s diversion needs to be increased to m eet near-term peak demands.  This assumes that
+Willamina Creek has water available during peak demand periods.  Over the longer-term, Willamina
+would also need to expand its treatment plant.  Therefore, any source development from surface water
+could need a storage component, if water is not ava ilable during peak demand periods in the summer.
+There is no additional water available on Willamina Creek based on WARS analysis; however, Willamina
+has a water right on Lady Creek of 1 cfs that is not being used.  Willamina is also in close proximity to
+Sheridan and can potentially share a source of supply.
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-12
+Yamhill.  The production capacity from the surface water source is equal to the permitted/certificated
+water rights that Yamhill owns.  Yamhill is expected  to need additional water rights and diversion
+capacity some time after year 2020 based on the range  of demand scenarios considered in this study.
+However, Turner Creek does not appear to have wate r available for new surface water rights, based on a
+WARS analysis.  Yamhill is also expected to need  additional treatment plant capacity some time after
+year 2030.  Yamhill does own storage rights (30 ac-ft) that can be expanded to at least 60 ac-ft which
+could help meet peak demands.  The supply deficien cy for Yamhill is not significant (< 1 mgd through
+the planning period), so conserva tion and other reuse measures could have substantial benefits.  As
+discussed above, Carlton does not have source surplu s that Yamhill can use. Because of the limited
+options for local source development, Yamhill should  consider options for a sub-regional or regional
+source or look for other source options besides Turner Creek.
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-13
+
+Table 5-3. Local Options for Source of Supply Development
+Entity Surface Water Ground Water Stored Water/ Reservoir Water
+Conservation
+Reuse Intertie
+Amity  New surface water rights
+not likely available on S.
+Yamhill River
+ Treatment plant expansion
+ Potential local ground
+water well development
+(no indications of
+declining water levels)
+ No specific
+storage/reservoir site
+identified
+  No specific
+conservation
+activities
+identified
+
+ No specific reuse
+options identified
+ Amity-McMinnville
+ Amity-Sheridan
+
+Carlton  New surface water rights
+not likely available year-
+round on Panther Creek
+and Fall Creek
+ Improvements to increase
+diversion at Fall Creek
+ Treatment plant expansion
+ No existing ground water
+sources/rights
+ Expand existing
+reservoir and storage
+right (currently 75 ac-ft).
+ Dredge existing
+reservoir to improve
+storage capacity.
+ No specific
+conservation
+activities
+identified
+ WMCP-outdated,
+unspecified
+update
+ No specific reuse
+options identified
+ Carlton-Lafayette
+ Carlton-Yamhill
+ Carlton-McMinnville
+Dayton  Further development of
+existing spring sources not
+likely
+ Planned treatment plant
+expansion
+ New surface water rights
+not likely available
+ Currently developing two
+additional wells with
+Lafayete in the Dayton-
+Lafayette wellfield
+ Potential for rehabilitating
+existing wells not likely.
+ New large wells or new
+wellfields are unlikely in
+the future due to land
+use constraints
+(surrounded by EFU
+land)
+ New ground water rights
+not likely
+ No specific
+storage/reservoir site
+identified
+ Leak repair
+program
+ No other specific
+conservation
+activities
+identified
+ WMCP-outdated,
+unspecified
+update
+ No specific reuse
+options identified
+ Dayton-Lafayette:
+Currently shared
+wellfield with Lafayette
+(including treatment
+plant for wellfield)
+ Dayton-McMinnville
+Dundee  Develop Willamette River
+water right; requires
+treatment plant
+ Develop water rights for
+springs (production
+unknown); requires
+treatment plant
+ New surface water rights
+not likely available.
+ Potential for rehabilitating
+existing wells.
+ New large wells or new
+wellfields are unlikely in
+the future.
+ No specific
+storage/reservoir site
+identified
+ Potentially investigate
+ASR or aquifer
+recharge
+ No specific
+conservation
+activities
+identified
+ WMCP-draft,
+pending 2007
+ No specific reuse
+options identified
+ Dundee-Newberg
+(including potential to
+share treatment plant
+with Newberg)
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-14
+Table 5-3. Local Options for Source of Supply Development
+Entity Surface Water Ground Water Stored Water/ Reservoir Water
+Conservation
+Reuse Intertie
+Lafayette  Further development  of
+existing spring sources not
+likely
+ New surface water rights
+not likely available.
+
+ Currently developing two
+additional wells in the
+Dayton-Lafayette
+wellfield
+ Potential for rehabilitating
+existing wells not likely
+ New large wells or new
+wellfields are unlikely in
+the future
+ New ground water rights
+not likely
+ Investigating ASR for
+storage
+ No specific
+storage/reservoir site
+identified
+ Variable rate
+structure
+ No other specific
+conservation
+activities
+identified
+ WMCP-draft,
+pending May
+2007
+ No specific reuse
+options identified
+ Lafayette-Dayton:
+Currently shared
+wellfield with Dayton
+(including treatment
+plant for wellfield)
+McMinnville  New surface water rights
+not likely available (for
+direct diversion)
+ Treatment plant expansion
+ No existing ground water
+sources/rights
+
+ Develop Walker Creek
+Reservoir
+ Recently expanded
+McGuire Reservoir (not
+likely to expand again
+within planning period)
+ No specific
+conservation
+activities
+identified
+ WMCP-draft,
+pending May
+2007
+ No specific reuse
+options identified
+ Potential source for
+other water providers
+through interties
+(Carlton, Amity,
+Dayton, Lafayette,
+Sheridan)
+ Unlikely that other
+water providers will
+supply water to MWL
+Newberg  Further development  of
+existing spring sources not
+likely
+ Treatment plant
+expansions planned (2020
+and 2030) up to 15 mgd
+ New surface water rights
+not likely available
+ Plans to add two new
+wells to wellfield (2010
+and 2012)
+ Additional large wells or
+new wellfields may be
+limited in the future (well
+interference occurs)
+ No specific
+storage/reservoir site
+identified
+ Potentially investigate
+ASR or aquifer
+recharge
+ System metering,
+public education
+ No other specific
+conservation
+activities
+identified
+ WMCP-2002,
+update pending
+May 2007
+ Wastewater
+Reuse Facility
+with 1 mgd
+capacity in 2008,
+expandable to
+2mgd with no
+current
+implementation
+date established.
+ Newberg-Dundee:
+may also utilize
+Dundee’s Willamette
+River right; including
+potential to share their
+treatment plant with
+Dundee
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-15
+Table 5-3. Local Options for Source of Supply Development
+Entity Surface Water Ground Water Stored Water/ Reservoir Water
+Conservation
+Reuse Intertie
+Sheridan  Further develop existing
+spring sources and other
+small tributaries (within
+Stoney Mtn. watershed; to
+be developed in
+conjunction with storage)
+ New treatment plant
+needed as part of
+source/storage
+development (plans for  2
+mgd capacity by 2010)
+ Limited existing ground
+water sources/ rights
+ Limited ground water
+availability to expand or
+obtain new water rights.
+ Preferred site identified
+is Upper Willamina
+Creek Reservoir and
+Upper La Toutena Mary
+Impoundement
+ Other storage/ reservoir
+sites considered
+include: East Baltimore
+Creek and Lower La
+Toutena Mary
+ System metering,
+water audit, leak
+detection,
+variable rate
+structure, water
+use reporting
+ No other specific
+conservation
+activities
+identified
+ WMCP-draft,
+pending 2008
+ No specific reuse
+options identified
+ Potential source for
+other water providers
+through interties
+(Willamina, Grande
+Ronde Tribe, Amity)
+ Sheridan-McMinnville:
+Unlikely that other
+water providers will
+supply water to
+Sheridan, with
+exception of MWL
+Willamina  Develop additional
+pumping capacity at
+diversion from Willamina
+Creek
+ Develop diversion at Lady
+Creek
+ Treatment plant expansion
+ New surface water rights
+not likely available
+ No existing ground water
+sources/rights
+ Limited water availability
+to expand or obtain new
+water rights (based on
+Sheridan findings)
+ No specific
+storage/reservoir site
+identified
+ Potentially expand
+storage at existing site
+(available storage of
+20-ac-ft – used for fish
+purposes)
+ No specific
+conservation
+activities
+identified
+ WMCP-outdated,
+unspecified
+update
+ No specific reuse
+options identified
+ Willamina-Sheridan
+(including potential to
+share treatment plant
+with Sheridan)
+Yamhill  No additional water rights
+available on Turner Creek
+ Treatment plant expansion
+ No existing ground water
+sources/rights
+ Potentially expand
+storage at existing site
+(available storage of
+30-ac-ft)
+ Irrigation audits
+ No other specific
+conservation
+activities
+identified
+ WMCP-outdated,
+unspecified
+update
+ No specific reuse
+options identified
+ Yamhill-Carlton
+ Yamhill-Joint Water
+Commission(?)
+Notes:
+Ac-ft – acre feet; ASR – aquifer storage and recovery; Mgd – million gallons per day; WMCP – water management and conservation plan
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-16
+5.4 Regional and Sub-regional Source of Supply Options
+Regional source options include sources that have the potential to provide significant quantities of water
+to meet the projected demands for the County. With the exception of the Willamette River, the streams
+and tributaries in Yamhill County generally do not have  year-round water availability.  The other streams
+and tributaries do have stream flows available during th e winter season, which can be diverted for storage
+and used during peak demand periods.  Although gr ound water continues to be used throughout the
+County and some water providers ar e developing additional wells, obser ved declines in aquifer levels,
+designation of ground water limited areas in portions of  the County, land use compatibility concerns with
+Exclusive Farm Use (EFU) zoned land, and interferen ce concerns with surface water (Division 9) puts
+into question the extent to which regional ground water supplies can be developed.  Based on these
+constraints, the main regional options available to  Yamhill County include use of the Willamette River
+and developing storage reservoirs (in-stream or off-stream).
+The Polk County Water Needs Assessment  (EES, 2004) identified other regional sources.  With the
+exception of the Gorge Dam Reservoir, these alternativ es were reviewed, but not considered further in
+this study because of their distance from the Yamhill County water providers.
+5.4.1 Willamette River
+Possible methods for securing Willamette River water supply involves application for a new water right
+and associated point of diversion (POD), using Dundee’s water right and POD, and purchasing
+uncontracted water from the U.S. Army Corps of Engi neers (COE).  These options involve treatment and
+transmission of the finished water to areas with s upply deficiencies.  The location of the additional
+infrastructure should be similar under a ll of the Willamette scenarios.  Table 5-4 summarizes the features
+of the Willamette River options.
+One of the key issues with using Willamette River wate r is the water quality issues and level of treatment
+required.  Similar to the concerns raised in the Ci ty of Wilsonville’s use of the Willamette River, an
+expanded level of treatment may be necessary to a ddress social and political interests related to a
+diversion downstream of industrial and agricultural di scharges along the Willamette River.  In addition,
+the Willamette River is on the Oregon Department of Environmental Quality 303(d) list for temperature.
+Appropriation of water from the W illamette may be limited in accord ance with the Willamette River’s
+recently published Total Maximum Daily Load (TMDL).
+New water right on Willamette River.  This option involves the use of Willamette River under a point
+of diversion near Dayton, Dundee or Newberg, and in volves construction of an intake, treatment plant,
+transmission main and pumping.  Treatment can occur near the point of diversion in which case the
+treatment plant at Dayton or Newberg would have to  be modified and upgraded, while a new treatment
+plant would need to be constructed at Dundee.  Alte rnatively, the raw water can be delivered to a more
+central location for treatment such as McMinnville. An y expansions and modifications to a treatment
+plant can be done under staged improvements.
+Dundee currently has undeveloped rights of 4 cfs from the Willamette, and a new water right could be
+used in conjunction with Dundee’s rights.  In this case, the POD can remain at Dundee’s original POD
+and the new right can be located at the same location.   Alternatively, Dundee’s POD can be transferred to
+the location of the new water right POD.  Depe nding on how the new water right and Dundee’s water
+right are administered, a formal transfer of ownership may also be needed.  The transfer would require a
+formal public comment and administrative review.
+In addition, COE has storage rights on the Willamette, which may also be used in conjunction with a new
+water right, as discussed below.
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-17
+Uncontracted Storage from U.S. Corps of Engineers.  This option is similar to the new water right
+option, but instead of diverting natural flows from the Willamette River, the source of water is to
+purchase uncontracted storage from the COE.  Entering into an agreement with the COE to purchase a
+portion of that storage would greatly increase the re liability of supply without acquisition of new water
+rights.  This agreement may also be considered a more reliable source of supply than a newly acquired
+right with a junior priority date, since storage re leases are not considered as part of live, natural
+streamflow.  The COE reservoirs in the Willamette River basin contain about 1.6 million acre-feet of
+uncontracted storage.  As with the other Willamette River option, this option involves the creation of a
+treatment plant, transmission main and pumping.  It s hould be noted that stored water in federal reservoir
+projects is presently not available for municipal and industrial uses and OWRD must approve such a
+change in type of use.  There is a group of wate r providers discussing the possibility of gaining access to
+this stored water; however, it is not known when the stored water would be available to release and a long
+approval process is likely needed.
+5.4.2 Surface Water Storage
+Previous studies were reviewed to compile a represen tative list of storage options that could meet the
+regional source of supply needs of the County.  The three reservoir options identified include: Gorge
+Reservoir on Mill Creek, Upper Willamina Creek Reser voir, and MWL’s Walker Reservoir.  Another
+reservoir option includes the Buck Hollow Reservoi r on lower Willamina Creek.  However, for the
+purposes of this study, the issues and evaluation of this reservoir are similar to the Upper Willamina
+Creek Reservoir.  Table 5-4 summarizes the features of the storage options.
+With the exception of Walker Reservoir, the release d water could eventually be routed through South
+Yamhill River in conjunction with transmission mains to reach the various comm unities in the County.
+Potential barriers to developing additional storage include environmental concerns, securing additional
+storage rights, securing the necessary funding, and developing interagency agreements.
+Gorge Reservoir on Mill Creek.  The Gorge site is located on Mill Creek directly south of Highway 22.
+It is the most distant storage option for Yamhill County.  The BOR (1992) study evaluated a range of
+storage capacity for the Gorge Reservoir from 2,200 ac -ft to 21,900 ac-ft.  This storage option may be
+most applicable to serve the central and sout hern area communities (Willamina, Sheridan, Amity,
+McMinnville).  Transmission may be an issue for ser ving the other communities located to the north of
+McMinnville.
+Upper Willamina Creek Reservoir.  The Upper Willamina Creek Reservoir is located in the headwaters
+of Willamina Creek .  The Reservoir could provide a total of 7 00 to 10,000 ac-ft based on the study
+conducted by Sheridan.  This storage option may be  most applicable to serve communities along the
+South Yamhill River area.
+Walker Creek Reservoir.  MWL has a water right of 4,500 ac-ft for a reservoir on Walker Creek.
+Walker Creek is a tributary of Nestucca River and the dam site is located on Bureau of Land Management
+land.  Since released water would be routed thro ugh MWL’s system, this storage option is the most
+centrally located for regional distribution.
+Figure 5-1 shows the general location of these surface water sources.
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008   5-18
+
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-19
+5.4.3 Ground Water
+As discussed in Section 4, ground water availability in the basin is generally limited, and as a result it is
+expected that large regional wellfields are not likel y feasible.  Additional localized ground water wells
+may be possible as identified in Section 5.3  (including the Dayton-Lafayette and Newberg wellfields).
+However, large production wells applicable for use in a regional setting is not considered further.
+The Polk County Regional Water Needs Assessme nt (EES, 2004) and re gional ground water study
+performed for the Rickreal Community Water Association (GSI, 2004) identified one major ground water
+supply alternative centered around Se tnicker Well Field located in the alluvial deposits near the
+Willamette River.  This area is located in the vicini ty of Salem, OR, which is significantly distant from
+the Yamhill County water providers.  Consideration c ould be given to conducting a study to look for
+similar setting in Yamhill County.
+5.4.4 Aquifer Storage and Recovery
+Aquifer storage and recovery (ASR) involves the development of wells for injecting high quality treated
+water into a suitable aquifer during high flow periods  (typically winter months) and for then pumping the
+same wells and delivering the stored water to the water system during peak demand periods (e.g. summer
+months).  Raw water would be diverted from an intake  at one of the area’s streams, treated, and pumped
+to ASR wells during the winter season.  ASR functions  similarly to surface water storage to meet peak
+demands.  The key is to find the proper hydrogeologic conditions that allow storage of meaningful
+volumes of water without loss to springs or streams, a nd recovery of the water at meaningful rates.  In
+addition, access to treated surface water is necessary.  ASR is being applied with success at a number of
+locations in Oregon.  The feasibility of ASR in Yamh ill County is not known at this time; however, it is
+inferred that ASR might be feasible in locations wher e wells have good producti on (e.g. greater than 200
+gpm) and where the aquifer is large enough to hold e nough water to meet peak supply needs (e.g. 300
+gpm for 3 months = 39 million gallons).  ASR may be possible at locations in the Columbia River Basalt
+where ground water depletion has already been observe d (e.g. the ground water limited areas).  At this
+time, only Lafayette has plans to investigate ASR as a source option.
+Section 5 – Source of Supply Options    Yamhill County Water Supply Analysis
+Final – April 7, 2008 5-20
+
+Table 5-4. Summary of Potential Regional Water Source Options
+Source Option Description Comments
+Willamette River
+New Willamette
+River water right
+and Point of
+Diversion
+ Application for new water right on Willamette
+R. with diversion and intake near Dayton,
+Dundee or Newberg.
+ New water treatment plant (if located in
+Newberg, may expand existing WTP).
+ Booster stations and transmission line.
+ May use in conjunction with Dundee’s
+Willamette R. right to transfer to same POD
+as intake.
+  Water right will have junior priority date
+ Potential social/political issues with Willamette R.
+source.
+ Reduced flows in Willamette River which would
+impact water quality issues (e.g. TMDLs).
+ Dundee’s water rights is 4 cfs.
+
+Use of U.S. Corps
+of Engineers
+uncontracted
+storage
+ Purchase uncontracted storage from USACE
+ New water treatment plant (if located in
+Newberg, may expand existing WTP).
+ Booster stations and transmission line.
+ May use in conjunction with Dundee’s
+Willamette R. right to transfer to same POD
+as new intake.
+
+ Several dams are operated with uncontracted
+storage of 1.6 million acre-feet; Detroit Lake may
+be most appropriate option.
+ May be more reliable than new water right for
+natural stream flow.
+ Habitat impacts due to increased drawdown at
+COE reservoir(s)
+ Use of stored water for M&I use presently not
+allowed. Long approval process likely.
+Surface Storage
+Gorge Reservoir
+on Mill Creek
+ On-line reservoir located on Mill Creek in
+Polk County
+ Storage releases conveyed through Mill
+Creek and S. Yamhill River.
+ New point(s) of diversion and treatment plant
+can be constructed near Sheridan,
+McMinnville or Lafayette.
+ Booster stations and transmission line.
+ Can provide 4,600 ac-ft to 19,500 ac-ft depending
+on storage objectives.
+ Water rights have not been secured.
+ Habitat and wildlife impacts from construction of
+new reservoir.
+Upper Willamina
+Creek Reservoir
+
+(similar to Buck
+Hollow except
+located higher in
+the drainage basin)
+ On-line reservoir located on Willamina Creek
+ Storage releases conveyed through
+Willamina Creek and S. Yamhill River.
+ New point(s) of diversion and treatment plant
+can be constructed near Sheridan,
+McMinnville or Lafayette.
+ Booster stations and transmission line.
+ Can provide 700 ac-ft to 10,000 ac-ft depending on
+storage objectives.
+ Water rights have not been secured.
+ Habitat and wildlife impacts from construction of
+new reservoir.
+ No fatal flaws were identified by the City of
+Sheridan study (2004).
+Walker Reservoir  On-line reservoir located on Walker Creek
+ Storage releases conveyed through
+Willamina Creek and S. Yamhill River.
+ New point(s) of diversion and treatment plant
+can be constructed near Sheridan,
+McMinnville or Lafayette.
+ Booster stations and transmission line.
+ Water right permit has been secured for 4,500 ac-ft
+with natural flow diversion of 9.60 cfs (6.20 mgd).
+ Need to transfer place of use for existing water
+rights beyond McMinnville.
+
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-1
+6.0 EVALUATION OF SUPPLY ALTERNATIVES
+This section evaluates supply alternatives developed from the source options identified in Section 5.
+This section first defines evaluation criteria, and then applies those criteria to evaluate individual regional
+source options.  Supply alternatives are then developed based on the available source options and
+geographic distribution of demands.  The supply alternatives are developed based on estimates of actual
+flows and storage volumes available to meet source deficiencies and accounts for potential transmission
+needs on a planning level.  The same criteria are used to evaluate the supply alternatives.
+6.1 Evaluation Criteria
+The source of supply alternatives are evaluated using a set of criteria approved by the TAC.  Generally,
+evaluation criteria are derived from a set of policy obj ectives formulated by stakeholders, often including
+the public.  The policy objectives and evaluation criteri a generally reflect the issues important to the
+region and should be useful to policymakers in distingui shing among alternative resource futures.  In this
+case, evaluation criteria developed from similar studies conducted by several major water providers in the
+Portland metropolitan and Polk County areas were for use in the Yamhill County study.  The series of
+publicly-tested evaluation criteria adopted for this study include: water availability, environmental
+impacts, raw water quality, vulnerability to catast rophic events, ease of im plementation, treatment
+requirements, and capital and operating costs. A su mmary of these evaluation criteria is listed in Table 6-
+1.
+
+Table 6-1. Evaluation Criteria
+Criterion Description
+Water Availability Consideration of hy drology, water rights, and storage operation.
+Environmental Impacts Includes impacts to natural and human environments; planning-level subjective analysis of
+both natural and human environmental factors including:
+ Natural environment: fish, geotechnical and natural hazards, threatened and
+endangered species, wetlands, wildlife and habitat
+ Human environment: cultural resources, hazardous materials, land use, recreational
+resources, scenic resources
+Raw Water Quality Physical, inorganic, organic, and  microbiological constituents, DO, and nutrients were
+reviewed; aesthetic aspects considered; assessment of ability to protect watershed and
+resulting vulnerability of raw water quality
+Vulnerability to Catastrophic
+Events
+Vulnerability to volcanic, fire, slide, and spill events
+Ease of Implementation Implementability with respect to legal or permitting requirements; subjective assessment
+Treatment Requirements Treatment regime was developed based on raw water quality, used multiple barrier
+approach to exceed drinking water standards; all of the surface sources can readily be
+treated to meet or surpass safe drinking water standards
+Capital and Operating Costs Costs included intakes, raw water pipelines, treatment plants, pumping stations, finished
+water pipelines, and terminal reservoirs
+6.2 Comparison of Regional Source Options
+Based on the source options discussed in Section 5,  seven regional source options were selected to
+compare using the defined evaluation criteria. The seven regional source options include:
+• Option 1 – Individual Sources: existing and ex panded sources developed and managed by each
+individual provider, including smaller local s ources such as ground water well development and
+aquifer storage and recovery (no regional action)
+• Option 2 – McGuire Reservoir as regional source
+• Option 3 – McGuire Reservoir + Walker Reservoir
+• Option 4 – Willamette River natural flow
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-2
+• Option 5 – U.S. Corps of Engineers Stored Water (diverted from Willamette River)
+• Option 6 – Upper Willamina Creek Reservoir
+• Option 7 – Gorge (Mill Creek Reservoir
+It should be kept in mind that these comparisons are only for the source options themselves.  The ratings
+do not account for transmission issues to move water am ong the different service areas.  These issues are
+considered in the “alternatives” evaluation in Section 6.3 (and Table 6-4).
+The source options evaluation is presented in Table 6-2. Each regional source option was rated against
+the criteria under a simple qualitative assessment as bei ng “favorable”, “neutral”, or “unfavorable” in
+each category.  A given rating was determined by info rmation that was available in existing reports or
+plans and through subjective comparison among the various supply options.
+Several general conclusions can be made for the source options with respect to the evaluation criteria.
+Cost and ease of implementation are considered the most prohibitive factors for the storage-related
+options (Options 3-7).  However, the ultimate importance of cost and ease of implementation is taken into
+account under the alternatives evaluation, wher e transmission is also considered (see Section 6.3 ).
+Options where development of new storage is required (or purchase of stored water in the case of Option
+5 – U.S. Corps of Engineers Stored Water ) results in much greater complexity in terms of permitting,
+environmental impacts, and cost.
+The following are other key points considered in developing the ratings shown in Table 6-2:
+• Option 2 – McGuire Reservoir: water availability is considered unfavorable in relative terms since no
+new source of water would be developed for the region if this source option were the only one
+pursued. Vulnerability to catastrophic events is consid ered unfavorable for the McGuire Reservoir
+because the development of the other source optio ns would provide some other primary regional
+source as a redundancy.
+• Option 3 – McGuire Reservoir + Walker Reservoir:   provides favorable water availability, but the
+obvious obstacle of building the reservoir on the Wi ld and Scenic-designated Walker Creek presents
+high environmental impacts and a difficult implementation process.
+• Option 3 – McGuire Reservoir + Walker Reservoir; Option 6 – U pper Willamina Creek Reservoir;
+and Option 7- Gorge Reservoir:  provides high quality water, but receives unfavorable marks for
+environmental impacts, cost and ease of implementation criteria.
+• Option 4 – Willamette River natural flow and Option 5 – U.S. Corps of Engineers Stored Water:
+presents problems in regards to water quality.  Th e Willamette River has a TMDL for temperature,
+among other parameters, which may inhibit securing a dditional water rights.  Public perception of the
+Willamette River as a supply source is generally ne gative, although more recent developments such
+as the Wilsonville water treatment plant and Tuala tin Valley Water District’s interest in the
+Willamette River improves the perception.  If water rights to the Willamette River can be secured, the
+public will need to be reassured of its quality through an extensiv e treatment process, which could
+add to the overall cost for these options.
+• Option 5 – U.S. Corps of Engineers Stored Water:  Uncontracted water available from the COE
+reservoirs upstream on the Willamette River would pr ovide good water availa bility, but negotiations
+with COE, OWRD, ODFW and other agencies for municipal purposes could be a long process.  The
+cost for the water is highly uncertain, but could be  very restrictive also.  The uncontracted water
+purchased could be priced as if a new storage fac ility holding the same volume of water would be
+constructed.  The same negative public perception of using the Willamette River’s water would still
+need to be overcome.
+• Option 3 and Option 7:  compare similarly because they are both instream storage projects.
+Environmental impacts, ease of implementation and cost are rated unfavorably, but are not
+distinguished at this level of assessment.
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-3
+Table 6-2.  Evaluation of Regional Supply Options
+Option Description Water
+Availability
+Environmental
+Impacts
+Raw  Water
+Quality
+Vulnerability to
+Catastrophic
+Events
+Ease of
+Implementation Cost
+Option 1: Individual
+Sources
+Source: Existing and expanded sources developed and
+managed by each individual provider.
+Raw water/treatment:
+Individual intakes, wells and water
+treatment plants.
+Finished water/transmission: No transmission
+– o o o + o
+Option 2: McGuire
+Reservoir as
+Regional Source
+Source:  Stored water from McGuire Reservoir
+Raw water/treatment: Expand existing diversion at McGuire
+reservoir and expand MWL WTP into a regional treatment plant.
+Finished water/transmission: Finished water transmission from
+MWL regional treatment plant.
+– o + – o o
+Option 3: McGuire
+Reservoir + Walker
+Reservoir
+Source:
+  Stored water from McGuire and Walker Reservoirs
+Raw water/treatment: Expand existing diversion at McGuire
+reservoir and expand MWL WTP into a regional treatment plant.
+Finished water/transmission
+: Finished water transmission from
+MWL regional treatment plant.
++ – o o – –
+Option 4:
+Willamette River
+Natural Flow
+Source: Willamette River (natural flow only)
+Raw water/treatment: Point of diversion and intake near Dundee;
+new regional water treatment plant in the vicinity of Dundee.
+Finished water/transmission: Finished water transmission from
+Dundee regional WTP at Dundee.
+o o – o – –
+Option 5: U.S.
+Corps of Engineers
+Stored Water
+Source:
+ Willamette River (stored water releases) with
+supplemental natural flow diversion.
+Raw water/treatment:
+ Point of diversion and intake near Dundee;
+new regional water treatment plant in the vicinity of Dundee.
+Finished water/transmission: Finished water transmission from
+Dundee regional WTP at Dundee.
++ o – o – –
+Option 6: Upper
+Willamina Creek
+Reservoir
+Source:
+  Stored water releases from proposed Upper WIllamina
+Creek reservoir near Sheridan.
+Raw water/treatment:
+ Point of diversion at Willamina Creek with
+regional WTP near Sheridan.
+Finished water/transmission: Finished water transmission from
+regional WTP at Sheridan.
+o – + o – –
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-4
+Table 6-2.  Evaluation of Regional Supply Options
+Option Description Water
+Availability
+Environmental
+Impacts
+Raw  Water
+Quality
+Vulnerability to
+Catastrophic
+Events
+Ease of
+Implementation Cost
+Option 7: Gorge
+Reservoir on Mill
+Creek
+Source:
+  Stored water releases from proposed Gorge Reservoir
+on Mill Creek reservoir south of Willamina.
+Raw water/treatment:
+ Point of diversion at S. Yamhill River with
+regional WTP near Sheridan or McMinnville depending on are
+served.
+Finished water/transmission: Finished water transmission from a
+regional WTP at Sheridan or McMinnville.
+o – + o – –
+Notes:
+Ratings are assigned under a simple qualitative assessment as being “favorable”, “neutral”, or “unfavorable” in each category.  A given rating was determined by information that was available in
+existing reports or plans and through subjective comparison among the various supply options.
++ : favorable
+o : neutral
+- : unfavortable
+
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-5
+6.3 Evaluation of Supply Alternatives and Transmission
+Based on the geographic proximity of the communiti es in the County, several sub-regions become
+apparent when assessing the different supply options .  Implementation of th e various supply options
+identified in Section 6.2 may be better suited to these subregions ra ther than to all study participants as
+one large region.  The sub-regions are defined as follows:
+• City of McMinnville (MWL service area)
+• Dayton-Lafayette
+• Dundee-Newberg
+• Yamhill-Carlton
+• Sheridan-Willamina
+• Amity
+Based on the demand projections and needs analysis presented in Sections 2 and 4 , respectively, the
+capacity needs for each sub-region can be derived.  The need for additional source is to address the
+maximum day demands (MDD) during the high demand pe riod – typically the summer months.  Over the
+course of the year, the existing sources have the capacity to provide ~33, 000 ac-ft of water.  Table 6-3
+summarizes the additional source capacity needed by  each sub-region based on meeting the MDD in the
+year 2050.  The needs are calculated by subtrac ting the existing demands for each subregion from the
+source capacity currently available for that subregion.   There is a fairly wide range of source needs
+because of the range of assumptions used to derive the demand projections (see Section 2).
+
+Table 6-3.  Additional Source Capacity Requirements to 2050 by Subregion
+Subregion Needed Additional
+Source Capacity
+Based on MDD
+(cfs)
+Needed Additional
+Volume to meet peak
+demands
+(MDD over 90 days)
+(ac-ft)
+Annual Volume
+(2050 ADD over a year)
+(ac-ft)
+Additional Volume to
+meet ADD
+(ac-ft)
+McMinnville 4.4 - 34.0 800 – 6,100 7,400 – 16,200 None (surplus)
+Dayton-Lafayette 3.6 – 8.6 700 – 1,500 1,600 – 2,900 Up to 750
+Dundee-Newberg 3.1 – 12.9 600 – 2,300 6,700 – 10,100 None (surplus)
+Yamhill-Carlton 0 – 1.2 0 - 200 800 – 1,300 Up to 1,500
+Sheridan-Willamina 6.5 – 9.8 1,200 – 1,800 3,100 – 4,200 None (surplus)
+Amity 0.5 – 1.4 100 - 300 400 - 800 None (surplus)
+Total 17.7 – 59.7 3,200 – 10,700 20,000 – 32,600 None (surplus)
+
+6.3.1 Development of Supply Alternatives
+With the source options described and evaluated in Table 6-2, several source alternatives were defined
+based on meeting the demands of the region as a whole or in the subregions shown in Table 6-3.  Four
+“categories” of source alternatives were developed, as shown in Table 6-4:
+• McMinnville Water and Light Reservoir Alternatives (M WL): Source alternatives associated with the
+McMinnville Water and Light reservoirs includi ng McGuire Reservoir and the potential for
+constructing Walker Reservoir.
+o MWL-1 – Use of McGuire and Walker Reservoirs to serve the entire region.
+o MWL-2 – Use of McGuire Reservoir to serve McMinnville, Yamhill-Carlton.
+o MWL-3 – Use of McGuire Reservoir to serve McMinnville, Yamhill-Carlton, and
+Dayton-Lafayette.
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-6
+• Willamette River Alternatives (WIL): source altern atives associated with using a combination of
+Willamette River natural flows and stored wate r from existing COE reservoirs.  The COE reservoir
+water is used to the extent that the permitted natural flows would not be able to meet the demands.
+o WIL-1 – Use of Willamette River natural flows and COE stored water to serve the entire
+region
+o WIL-2 – Use of Willamette River natural flows and COE stored water to serve Dundee-
+Newberg.
+o WIL-3 – Use of Willamette River natural flows and COE stored water to serve Dundee-
+Newberg and Dayton-Lafayette.
+• Upper Willamina Creek Reservoir Alternatives  (UWC): source alternatives associate with
+constructing the Upper Willamina Creek Reservoir as documented in the feasibility study.
+o UWC-1 – Use of Upper Willamina Creek Reservoir to serve the entire region.
+o UWC-2 – Use of Upper Willamina Creek Reservoir to serve Sheridan-Willamina-Amity.
+• Gorge Creek Reservoir Alternatives (GRC): source alternatives associate with constructing the Gorge
+Creek Reservoir as documented in the feasibility study.
+o GRC-1 – Use of Gorge Creek Reservoir to serve the entire region.
+o GRC-2 – Use of Gorge Creek Reservoir to serve Sheridan-Willamina-Amity.
+Table 6-4  includes a conceptual description of the components of the alternatives including the
+intake/diversion and transmission needed to deliver th e raw water to the water treatment plant, as well as
+the treatment plant capacity and transmission needed to  deliver the finished water to the service areas.
+The transmission alignments are based on those deve loped in the Yamhill Count y Intertie Study (EES,
+1998).  Appendix D  includes a figure from the Intertie Study that shows the alignments.  The ratings
+against the evaluation criteria are based on similar c onsiderations from those used in the source options
+ratings; however, the transmission issues are include d in these ratings for environmental impacts,
+vulnerability to catastrophic events, ease of implementa tion, and cost.  Note, that the summary of cost
+estimates used as the basis for the cost rating is presented in Section 6.3.2 and Table 6-5.  Again it should
+be kept in mind that these ratings are given on a relative basis considering all of the alternatives.
+Furthermore, another criteria has been added to evaluate the source alternatives: Addresses Regional
+Needs.  This criteria accounts for the ability of the alternatives to meet the needs of the region as a whole.
+Essentially, this balances the impacts of the larger projects/alternatives against the benefits gained, or
+alternatively the impacts resulting from having to implement several of the smaller projects/alternatives to
+meet the total needs of the region.
+General conclusions from the evaluation screening include:
+• Generally, the alternatives that serve the entire region (MWL-1, UWC-1 and GRC-1) rate lower than
+the sub-regional alternatives primarily because of th e cost and ease of implementation factors.  The
+regional alternatives were rated lower than the othe r alternatives for these two factors because of the
+challenges of having to build new reservoirs as well as the significant amount of transmission needed.
+• Although the smaller sub-regional alternatives (MWL-2, WIL-2. UWC-2 and GRC-2) had more
+favorable ratings for most of the criteria, they ar e not able to completely address the entire needs of
+the region individually.  If these s ub-regional alternatives are developed individually in order to meet
+the total demands of the region, the combined impa cts to the environment and the total costs could
+ultimately be the same as if one of the larger regional alternatives were developed.
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-7
+• The WIL-3 alternative where the Willamette River di version and treatment plant would be used to
+serve Dundee, Newberg, Dayton, and Lafayette has the advantage of addressesing the needs of four
+of the major service areas in the region.  If the WIL-3 alternative is pursued, a smaller storage
+reservoir for Upper Willamina Creek Reservoir or Gorg e Reservoir could be deve loped.  In addition,
+the Yamhill-Carlton area would also need to consider developing some  intertie over the long-term to
+meet their needs.
+• As noted previously, the Upper Willamina Creek Reservoir and Gorge Reservoir compare similarly
+as source options.  The advantage of Gorge Reservoir is the ability to use S. Yamhill River to transmit
+water centrally to the other demand areas (McMinnville).   If the service areas are limited to Sheridan,
+Willamina and Amity, the Gorge Reservoir does not appear to have a distinct advantage over
+Willamina Creek.  A more detailed feasibility stud y is needed to compare the environmental and
+other feasibility issues to identify a preferred alternative between the two.
+• Although the regional source options can meet the l ong-term (2050) demands projected for Yamhill
+County, significant implementation and cost constr aints make their development challenging.  The
+smaller, sub-regional source alterna tives appear to provide more fa vorable opportunities to meet the
+needs of the area.  However, over the long-term additional (local) sources for other sub-regions not
+addressed by the smaller project(s) would need to be developed.
+• The cost and reliability of the Willamette Rive r option is directly dependent on how much
+uncontracted stored water can be released and the price per acre-foot that can be negotiated.
+
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-8
+Table 6-4. Evaluation of Supply Alternatives
+Alternative Additional Peak Rate(1)/
+Volume Needed(2)
+Raw Water Diversion and Transmission
+Components
+Treatment and Finished Water Transmission
+Components
+Water
+Availability
+Environmental
+Impacts
+Raw  Water
+Quality
+Vulnerability to
+Catastrophic
+Events
+Ease of
+Implementation Cost Addresses
+Regional Needs
+McMinnville Water and Light Reservoir Alternatives
+MWL-1: Regional  12-39 mgd (18-60 cfs)
+ 3,200-10,700 ac-ft
+Dam/Reservoir: 4,500 ac-ft (new for Walker Res.);
+includes McGuire raise
+Diversion Intake: New for Walker Reservoir; may
+need to upgrade capacity of Idlewood Diversion
+Raw water pipeline to WTP: Add 48-inch pipeline
+for additional 40 mgd capacity (1,000 ft)
+WTP: Expand existing WTP to 53 mgd (increase
+of 40 mgd from existing)
+Transmission Lines:
+ WTP to McMinnville: Add 9.8 miles @ 48-inch
+(40 mgd)
+ To Sheridan-Willamina
+ To Amity
+ To Yamhill-Carlton
+ To Dayton-Lafayette
+ To Dundee-Newberg
+
++ – o o – – –  +
+MWL-2: McMinnville-
+Yamhill-Carlton
+
+(Walker Creek
+Reservoir not
+constructed)
+ 5-28 mgd (8-43 cfs)
+ 1,500-6,700 ac-ft
+Dam/Reservoir: McGuire Res. only
+Diversion Intake: Existing only – may need to
+upgrade capacity
+Raw water pipeline to WTP: Add 42-inch pipeline
+for additional 28 mgd capacity (1,000 ft)
+WTP: Expand existing WTP to 41 mgd (increase
+of 28 mgd)
+Transmission Lines:
+ WTP to McMinnville: Add 9.8 miles @ 42-inch
+(28 mgd)
+ To Yamhill-Carlton
+
+o o o – o o – –
+MWL-3: McMinnville-
+Yamhill-Carlton-Dayton-
+Lafayette
+
+(Walker Creek
+Reservoir not
+constructed)
+ 5-28 mgd (8-44 cfs)
+ 1,500-7,800 ac-ft
+Dam/Reservoir: McGuire Res. only
+Diversion Intake: Existing only – may need to
+upgrade capacity
+Raw water pipeline to WTP: Add 42-inch pipeline
+for additional 28 mgd capacity (1,000 ft)
+WTP: Expand existing WTP to 41 mgd (increase
+of 28 mgd)
+Transmission Lines:
+ WTP to McMinnville: Add 9.8 miles @ 42-inch
+(28 mgd)
+ To Yamhill-Carlton
+ To Dayton-Lafayette
+
+o o o – o o –
+Willamette River Alternatives
+WIL-1: Regional
+
+(includes option to use
+COE Storage and/or
+natural stream flows)
+ 12-39 mgd (18-60 cfs)
+ 3,200-10,700 ac-ft
+Pump station/River intake: 40 mgd (build-out)
+WTP assumed at Dundee; 200-300 feet of lift to
+WTP
+Raw water pipeline to WTP:  5,000 ft @ 48- inch
+(40 mgd)
+
+WTP: 40 mgd (build-out)
+Transmission Lines:
+ To Sheridan-Willamina: 1, 4
+ To Amity: 6
+ To Yamhill-Carlton: 8, 10, 12
+ To Dayton-Lafayette: 7, 9
+ To Dundee-Newberg: 15, 16, 17, 18
+
++ – – o – – – – +
+WIL-2: Dundee-
+Newberg
+
+(includes option to use
+COE Storage and/or
+natural stream flows)
+
+ 2-8 mgd (3-13 cfs)
+ 600-2,300 ac-ft
+Pump station/River intake: 8 mgd
+Raw water pipeline to WTP: 5,000 ft @ 24- inch (8
+mgd)
+
+WTP: 8mgd
+Transmission Lines:
+ To Newberg: 18
++ o – o o – – – –
+WIL-3: Dundee-
+Newberg-Dayton-
+Lafayette
+
+(includes option to use
+COE Storage and/or
+natural stream flows)
+
+ 5-14 mgd (7-22 cfs)
+ 1,300-3,800 ac-ft
+Pump station/River intake: 14 mgd
+Raw water pipeline to WTP: 5,000 ft @ 30-inch
+(14 mgd)
+
+WTP: 14 mgd
+Transmission Lines:
+ To Newberg: 18
+ To Dundee-Lafayette: 15, 16, 17
++ o – o o – – –
+Notes: Ratings are assigned under a simple qualitative assessment as being favorable (+), neutral (o), or unfavorable (-) in each category.  A given rating was determined by information that was available in existing reports or plans and through subjective comparison among the various supply options.
+Section 6 – Evaluation of Regional Supply Alternatives    Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-9
+
+THIS PAGE LEFT INTENTIONALLY BLANK
+Section 6 – Evaluation of Regional Supply Alternatives    Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-10
+
+Table 6-4. Evaluation of Supply Alternatives
+Alternative Additional Peak Rate(1)/
+Volume Needed(2)
+Raw Water Diversion and Transmission
+Components
+Treatment and Finished Water Transmission
+Components
+Water
+Availability
+Environmental
+Impacts
+Raw  Water
+Quality
+Vulnerability to
+Catastrophic
+Events
+Ease of
+Implementation Cost Addresses
+Regional Needs
+Upper Willamina Creek Reservoir Alternatives
+UWC-1: Regional   12-39 mgd (18-60 cfs)
+ 3,200-10,700 ac-ft
+Dam/Reservoir: 10,000 ac-ft
+Pump station/Creek intake: 7 mgd
+Reservoir intake tower (to MWL): 32 mgd
+Raw water pipeline to WTP:
+ To Sheridan WTP: 44,000 ft @ 20-inch (7 mgd)
+ To MWL WTP: 40,000 ft @ 48-inch (32 mgd)
+
+WTP:
+ 7 mgd (at Sheridan)
++ 32 mgd (expanded at MWL)
+Transmission Lines:
+ To Sheridan-Willamina: 1, 4
+ To Amity: 6
+ To Yamhill-Carlton: 8, 10, 12
+ To Dayton-Lafayette: 7, 9
+ To Dundee-Newberg: 15, 16, 17, 18
+o – + o – – – +
+UWC-2: Sheridan-
+Willamina-Amity
+ 5-7 mgd (7-11 cfs)
+ 1,200-2,100 ac-ft
+Dam/Reservoir: 2,000 ac-ft
+Pump station/Creek intake: 7 mgd
+Raw water pipeline to WTP:
+ To Sheridan WTP: 44,000 ft @ 20-inch (7 mgd)
+WTP: 7 mgd
+Transmission Lines:
+ To Willamina: 1
+ To Amity: 5
+o – + o o + – –
+Mill Creek Gorge Reservoir Alternatives
+GRC-1: Regional   12-39 mgd (18-60 cfs)
+ 3,200-10,700 ac-ft
+Dam/Reservoir: 10,000 ac-ft
+Pump station/Creek intake: 40 mgd
+Raw water pipeline to WTP: Add 48-inch pipeline
+for additional 40 mgd capacity (5,000 ft)
+WTP: 40 mgd (build-out)
+Transmission Lines:
+ To Sheridan-Willamina: 1, 4
+ To Amity: 6
+ To Yamhill-Carlton: 8, 10, 12
+ To Dayton-Lafayette: 7, 9
+ To Dundee-Newberg: 15, 16, 17, 18
+o – + o – – – +
+GRC-2: Sheridan-
+Willamina-Amity
+ 5-7 mgd (7-11 cfs)
+ 1,200-2,100 ac-ft
+Dam/Reservoir: 2,000 ac-ft
+Pump station/Creek intake: 7 mgd
+Raw water pipeline to WTP:
+To Sheridan WTP: 10,000 ft @ 20-inch (7 mgd)
+WTP: 7 mgd
+Transmission Lines:
+ To Willamina: 1
+ To Amity: 5
+o – + o o + – –
+Notes:
+Ratings are assigned under a simple qualitative assessment as being favorable (+), neutral (o), or unfavorable (-) in each category.  A given rating was determined by information that was available in existing reports or plans and through subjective comparison among the various supply options.
+
+Ac-ft – acre feet
+Cfs – cubic feet per second
+Mgd – million gallons per day
+WTP – water treatment plant
+
+Transmission Details (Modified from Yamhill County Intertie Study, EES, 1998):
+ To Sheridan-Willamina: (1) 21,800 ft @ 10-inch; (4) 60,200 ft @ 24-inch
+ To Amity: (6) 27,400 ft @ 10-inch
+ To Yamhill-Carlton: (8) 3,000 ft @ 24-inch; (10) 20,500 ft @ 8-inch; (12) 15,300 ft @ 8-inch
+ To Dayton-Lafayette: (7) 14,200 ft @ 24-inch; (9) 12,800 ft @ 24-inch
+ To Dundee-Newberg: (15) 13,800 ft @ 24-inch; (16) 9,800 ft @ 24-inch; (17) 22,400 ft @ 24-inch; (18) 8,800 ft @ 24-in
+Section 6 – Evaluation of Regional Supply Alternatives    Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-11
+
+THIS PAGE LEFT INTENTIONALLY BLANK
+
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7 2008 6-12
+6.3.2 Summary of Cost Estimates
+Among the evaluation criteria, cost represents a key factor in the selection of the recommended
+alternative.  Preliminary cost estimates were generated for each supply alternative documenting the
+estimated capital costs for required diversion or ra w water storage, treatment, raw and finished water
+transmission and pumping.  Mitigation and permitting costs and general contingency costs were also
+estimated based on an assumed percen tage of the capital costs.  The cost estimates are summarized in
+Table 6-5 with details for each alternative provided in  Appendix E . For the purposes of this study, the
+capital costs were used as the basis for the cost ratings given in Table 6-4.
+A more convenient basis for comparing costs is to use averaged annual unit costs.  Table 6-6 summarizes
+the annualized cost for each alternative.  The to tal capital costs (including permitting, mitigation and
+contingency) is converted to annualized cost (assumi ng 40 year life and 5.5% interest).  This annualized
+cost is then divided by the average water used per year.  Operation and maintenance costs are also an
+important consideration, but are considered secondary to the initial capital costs.  Typically, O&M costs
+are on the order of 10 to 15 percent of annualized aver age unit costs (in dollars per acre-feet or hundred
+cubic feet).  The average unit costs per acre-foot ranges from approximately $1,100 to $2,000 (or $2.50 to
+$4.70 per ccf).
+One important consideration for the Willamette Rive r options (WIL-1 , WIL-2 and WIL-3) are the annual
+purchase costs for the stored water.  At this time, it is very difficult to estimate the unit price of water that
+the Corps of Engineers would assign to the uncontracted  waters in the Willamette Basin reservoirs.  The
+Corps is continuing to work with the State of Oregon to establish M&I water supply in the Willamette but
+there is still significant work remaining.  A general re view of pricing for stored water in other Pacific
+Northwest region reservoirs indicates wide variability .  Values ranged anywhere from $14/ac-ft to over
+$1,000/ac-ft.  For the purposes of this study, pricing fo r waters in the Willamette Basin is assumed to be
+on the order of $1,800 ac-ft or higher.
+The O&M costs for the Willamette River options w ould be considerably greater than the other
+alternatives because of the stored water purchase costs.  For example, assuming $1,800/ac-ft for the WIL-
+1 option, the annual purchase cost would be on the order of $19 million.  If the annual costs of purchasing
+Willamette River water is included the average annua l unit cost almost doubles for the Willamette River
+options.  The costs for these options increased dram atically to approximately $3,800 per acre-feet
+(~$8.80/ccf).  Of course, these costs would be lowe r as more natural streamflow from the Willamette
+River is used.
+
+Section 6 – Evaluation of Regional Supply Alternatives   Yamhill County Water Supply Analysis
+Final – April 7, 2008 6-13
+
+Table 6-5. Summary of Planning Level  Cost Estimates for Supply Alternatives (in $million)
+Supply Alternative Source
+Development
+Treatment Finished Water
+Transmission
+Capital Cost
+Subtotal
+Mitigation/
+Permitting
+Contingency Total
+MWL Reservoir Alternatives
+WL-1 Regional $20.9 $87.5 $27.4 $135.7 $61.8 $33.9 $230.7
+MWL-2 McMinnville-Yamhill-Carlton $0.18 $61.3 $10.9 $72.4 $32.6 $18.1 $123.0
+MWL-3 McMinnville-Yamhill-Carlton-
+Dayton-Lafayette $0.18 $61.3 $14.2 $75.6 $34.0 $27.4 $137.1
+Willamette River Alternatives
+WIL-1 Regional $1.04 $187.5 $17.0 $205.6 $92.5 $51.4 $349.5
+WIL-2 Dundee-Newberg $1.38 $37.5 $0.79 $39.7 $17.9 $9.92 $67.4
+WIL-3 Dundee- Newberg-Dayton-Lafayette $2.24 $65.6 $4.92 $72.8 $32.7 $18.2 $123.7
+Upper Willamina Creek Reservoir Alternatives
+UWC-1 Regional  $57.2 $80.9 $17.2 $155.3 $69.9 $38.8 $264.0
+UWC-2 Sheridan-Willamina-Amity $12.6 $10.9 $2.84 $26.4 $11.9 $6.59 $44.8
+Gorge Reservoir (Mill Creek) Alternatives
+GRC-1 Regional  $46.4 $62.5 $17.2 $126.2 $56.8 $31.5 $214.5
+GRC-2 Sheridan-Willamina-Amity $9.8 $10.9 $2.84 $23.6 $10.6 $5.9 $40.1
+Notes:
+Costs are presented in 2007 dollars
+Section 6 – Evaluation of Regional Supply Alternatives
+Final – April 7, 2008 6-14
+
+Table 6-6. Summary of Annual Average Unit Cost for Supply Alternatives
+Alternative Average Annual
+Capital Cost
+(Total)
+Stored Water Cost
+(COE Reservoirs)
+Acre-feet per year
+(at build-out)
+Hundred Cubic
+Feet (ccf)
+Annual Cost per
+Acre-Feet
+Annual Cost per
+CCF
+Annual cost per
+Ac-Ft with Stored
+Water
+MWL-1 $14.8 M N/A 10,700 4.66 M $1,344 $3.09 $1,344
+MWL-2 $7.7 M N/A 6,700 2.92 M $1,144 $2.63 $1,144
+MWL-3 $ 8.5 M N/A 7,800 3.40 M $1,095 $2.51 $1,095
+WIL-1 $21.8 M $19.3 M 10,700 4.66 M $,2035 $4.67 $3,835
+WIL-2 $ 4.2 M $ 4.1 M 2,300 1.00 M $1,827 $4.19 $3,627
+WIL-3 $ 7.7 M $ 6.8 M 3,800 1.65 M $,2029 $4.66 $3,829
+UWC-1 $ 16.5 M N/A 10,700 4.66 M $1,538 $3.53 $1,538
+UWC-2 $2.8 M N/A 2,100 0.91 M $1,330 $3.05 $1,330
+GRC-1 $13.4M N/A 10,700 4.66 M $1,249 $2.87 $1,249
+GRC-2 $2.5 M N/A 2,100 0.91 M $1,192 $2.73 $1,191
+Notes:
+Costs are presented in 2007 dollars
+M – Million
+CCF – hundred cubic feet
+Section 6 – Evaluation of Regional Supply Alternatives
+Final – April 7, 2008 6-15
+
+This page intentionally left blank.
+
+Section 7 – Recommended Supply Strategy    Yamhill County Water Supply Analysis
+Final – April 7, 2008 7-1
+7.0 RECOMMENDED SUPPLY STRATEGY
+The assessment of water needs and supply options in  Sections 2 through 6 demonstrate the need for
+additional water supply in the County.  The st udy assessment considered both local options and
+regional/sub-regional supply options.  This section integrates the findings to develop a recommended
+water supply strategy for the region for further c onsideration in Phase II of this study, where the
+alternatives can be further developed for technical feasibility for implementing the strategy.
+7.1 Local versus Regional Options
+Many factors need to be considered when eval uating whether a regional/sub-regional source or local
+source option should be pursued by a water provider.   The following factors are taken into account to
+recommend whether a water provider should consider regional options:
+• Geography and proximity to other communities –a particular community’s location is important to
+determining the feasibility of sh aring water sources among communiti es.  Water providers that are
+geographically isolated from other communities ar e recommended to develop or expand local water
+sources to the extent possible, and cities close to  each other are recommended to develop and share
+regional sources.
+• Magnitude of source deficiency size within the planning period – water availability from local sources
+may not be sufficient to address the deficiencies wi thin the planning period; thus requiring shared
+resources.
+• Extent of current usage of existing sources – encourage expansion of current sources when those
+sources are not fully utilized.
+• Limits of existing sources  – sources with limited or diminishing output, such as declining ground
+water levels or stream flows, are considered when recommending supply alte rnatives.  Diminishing
+supply output creates a greater need for the development of new sources.
+Using the factors above, each community was exam ined for the local and regional source options
+available.  It is assumed that each community  will continue pursue its local source options. Table 7-1
+notes whether the water provider should also deve lop a regional water supply option based on their
+current water supply situation, as discussed in previous sections.
+
+Table 7-1.  Recommendations for Regional Supply Development
+City Regional
+Option Description
+Amity
+Optional for
+reliability
+(long-term)
+ Local source of supply development/expansion recommended – Expand WTP
+ Based on available information, groundwater and surface water sources are not considered
+limitations to use of water rights.
+ WTP expansion will satisfy local water demands.
+ Intertie or regional options may be pursued in the long-term for reliability.
+Carlton
+Optional for
+reliability
+(long-term)
+ Local source of supply development/expansion recommended – Expand WTP (see also
+Yamhill for potentially sharing supply)
+ Based on available information, existing water rights and production capacity are adequate
+to meet future local water demands.
+ WTP expansion will satisfy local water demands through planning period.
+ Intertie or regional options may be pursued in the long-term for reliability.
+ Note: If SW sources are not limitations to use of water rights, Carlton can provide some
+excess source of supply to Yamhill (~2 mgd in 2050).
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  7-2
+Table 7-1.  Recommendations for Regional Supply Development
+City Regional
+Option Description
+Dayton Recommended
+(near-term)
+ Regional/shared source of supply recommended based on need – develop additional wells
+to the extent possible; option to use source from McMinnville or Lafayette.
+ Expansion with additional wells needs to be developed but may not be sufficient to meet
+near-term demands due to limitations on ability to expand existing well field.
+ Additional water rights need to be secured
+ Surface water rights may not be sufficient to meet long-term needs.
+Dundee
+Recommended
+as source
+(mid-term)
+ Regional/shared source of supply recommended based on available sources- expand
+additional wells to the extent possible and develop Willamette R. right (primarily to share
+with Newberg).
+ Expansion with additional wells need to be developed but may not be sufficient to meet
+near-term demands due to declining ground water levels.
+ Surface water rights (Willamette R.) can be developed and potentially shared with mutual
+benefit with Newberg (and others).
+Lafayette Recommended
+(near-term)
+ Regional/shared source of supply recommended based on available sources – expand
+additional wells to the extent possible (primarily share with Dayton); option to use source
+from McMinnville.
+ Expansion with additional wells needs to be developed but may not be sufficient to meet
+near-term demands due to limitations on ability to expand existing well field.
+ Additional water rights need to be secured.
+McMinnville
+Recommended
+as source
+(long-term)
+ Regional/shared source of supply recommended based on need and available sources –
+Expand WTP (primarily with Lafayette, Dayton; also potentially for region as a whole).
+ WTP expansion will satisfy local water demands (assuming use of storage rights can be
+maximized).
+ Development of Walker Creek Res. can serve as a regional source.
+Newberg Recommended
+(mid-term)
+ Regional/shared source of supply recommended based on need – expand additional wells
+to the extent possible (Option to use source from Dundee).
+ Expansion with additional wells needs to be developed.
+ WTP expansion needed over long-term.  Option may be to expand WTP at Newberg and
+transfer water right POD from Dundee to Newberg location.
+Sheridan
+Recommended
+as source
+(long-term)
+ Regional source of supply development/expansion recommended based on available
+source - expand SW source and WTP to the extent possible. (see Willamina also)
+ If SW sources (Willamina Cr) are not limitations to use of water rights, pumping capacity
+and WTP expansion will satisfy local water demands.
+ Note: if existing springs limit water rights availability for further development, proposed
+Upper Willamina Cr. Reservoir (700 to 10000 AF) may provide a regional source of supply
+for Sheridan, Willamina, and potentially more of the region.
+Willamina
+Optional for
+reliability
+(mid-term)
+ Local source of supply development/expansion recommended - expand SW source and
+WTP to the extent possible. (see Sheridan also)
+ If SW sources (Willamina Cr) are not limitations to use of water rights, pumping capacity
+and WTP expansion will satisfy local water demands.
+Yamhill Recommended
+(mid-term)
+ Regional/shared source of supply recommended based on need - expand SW source and
+WTP to the extent possible. (Option to use source from Carlton).
+ Expansion with SW pumping capacity needs to be developed but depends whether Turner
+Creek flows limit available water.
+ Additional water rights need to be secured (after 2020)
+ WTP expansion needed over long-term.
+ Note: Option may be to expand develop both Turner Creek (Yamhill) and Panther Creek
+(Carlton) water rights to meet the combined needs of the two communities.
+
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  7-3
+7.2 Recommendation for Water Supply Strategy
+Yamhill County is taking a long-term, strategic appr oach to meet the increasing demands for water as a
+result of significant growth occurring in the county. To that end, the County Board of Commissioners
+formed a Water Task Force comprised of representa tives from the ten cities in the county to study the
+water supply issues and the need to secure more reli able supply for municipal use. The mission statement
+of the Water Task Force is as follows:
+
+Mission Statement:  The mission of the Yamhill County Water Task Force is to work as a facilitating
+group to ensure adequate future water supply for its communities
+3.
+
+At the outset of the Water Task Force’s efforts, they identified possible strategies to accomplish the
+mission to include:
+
+• Raise awareness of the need for and support acquisition of additional water source(s) and treatment
+for the Yamhill-Chehalem basin.
+• Support the development of a county wide transmission system throughout the basin.
+• Ensure a locally driven and environmentally sound process.
+• Foster cooperation among members on current and future water needs.
+• Engage the state and federal governments in the process of reaching our goals.
+• Identify funding mechanisms for short, intermediate and long-term aspirations.
+
+This report documents Phase 1 of a water supply study to identify water supply alternatives to meet these
+needs. The recommended strategy and supply alternativ es from this report will be advanced in Phase 2 of
+the study, where more detailed technical feasibility and an implementation plan will be developed.
+It is prudent to continue to implement smaller, local source options to address immediate source of supply
+needs while pursuing the long-term security of a larger, more reliable source, which takes considerable
+time and funding to develop. Therefore, the recommended supply strategy includes elements of both local
+and regional source of supply development.
+Each of the regional supply alternatives evaluated has significant uncertainties.  None of the alternatives
+has a clear advantage over the others.  The storage alternatives provide positive benefits for reliability, but
+pose significant environmental impacts.  The Willamette River alternatives, while also providing positive
+benefits for reliability, could require significant cost for the uncontracted stored water to meet the
+streamflow and supply needs.  The regional use of MacGuire Reservoir limits the environmental impacts,
+but does not provide the same level of long-term reliability of supply because of McMinnville’s own
+long-term needs to meet their growth.
+Underlying these factors is the significant costs associated with developing a single, large regional source
+of supply and the network of transmission lines.  The cost of building Upper Willamina Creek Reservoir
+or Gorge Reservoir to a size capable of serving the entire region could be cost-prohibitive.  Cost
+advantages could exist over the Willamette River alternatives, if MacGuire Reservoir is used as a regional
+source in conjunction with Walker Reservoir or smaller design for Upper Willamina Creek Reservoir or
+Gorge Reservoir.
+For the Willamette River source, the timeline for gaining access to the uncontracted water is highly
+uncertain, but in the end the feasibility of using the Willamette River as a source comes down to what the
+price of stored water is determined to be, and how much natural streamflow will be made available.  In
+
+3 Note: It is not the intent of the Yamhill County Water Task Force to set up regional government for the basin or
+constitute a give-a-way program for or from any member. The intent is to facilitate efforts to determine how to best
+accomplish “synergy” - benefit from the strength of us all working to support each other to mutual benefit
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  7-4
+addition, it could also be cost prohibitive to rely solely on the Willamette River as the source for the
+region because of the potential enhanced treatment needed.
+Based on these issues, the following recommendations are made regarding regional supply development:
+• Develop the Upper Willamina Creek Reservoir or Gorge Reservoir to serve the Sheridan-Willamina-
+Amity sub-region.  Developing a smaller project may be more feasible at this time and can be utilized
+by the sub-region furthest from the other communities.  This also limits the extent of the
+environmental impact and is less cost-prohibitive to develop.
+• Develop short-term leasing options with MWL to meet immediate or short-term needs where
+possible.  A short-term leasing agreement will buy time while the larger regional alternatives are
+pursued.  Carlton, Yamhill, Dayton and Lafayette would continue to develop their local sources and
+use the MWL supply for peaking or emergency purposes in the short-term, while a long-term regional
+supply is further considered.
+o As part of the leasing option, interties need to be constructed between McMinnville-
+Carlton-Yamhill and McMinnville-Dayton-Lafayette to increase supply reliability.  These
+interties can also serve as the longer-term transmission infrastructure for a future regional
+source.
+o Interties and leasing options could be extended to Dundee and Newberg, as well.
+• Develop the Willamette River to a smaller degree to serve primarily the Dundee-Newberg and
+perhaps the Dayton-Lafayette area.  Depending on the feasibility of ASR, the Willamette River might
+also be used for this purpose to maximize use of the natural streamflow available.  Over the longer-
+term the Willamette River source can be expanded as needed once the initial infrastructure and
+governing issues are developed and functional.
+• Continue the development and management of local sources, including the appropriate levels of water
+conservation, as these sub-regional alternatives are advanced.
+The recommended water supply strategy is presented in terms of their near-term, mid-term, and long-term
+implementation as follows:
+• Near-term (less than 5 years)  – relatively easy to implement and relatively low cost; planning effort
+or action that would be implemented by the provider in any case, such as improving
+efficiency/production of existing infrastructure or implementing water conservation.
+• Mid-term (within 5-15 years)  – may require more extensive planning/studies or where new water
+rights applications are needed; or those projects that have gone through studies but require significant
+funding or time to construct.
+• Long-term (beyond 15 years) – more complex options that are larger/regional-scale projects to meet
+the demands further in the future.
+Using this time-scale, each community was examined fo r the local and regional source options available.
+Table 7-2 summarizes the timeline of the strategy conceptual ly for each water provider.  In all cases, it is
+recommended that each community should continue to pursue its local source options and implement the
+appropriate water conservation progra m to maximize use of existing supplies.  While the strategy is not
+based on the least cost option (based on the planni ng level capital costs), it provides a tiered supply
+development process that in the end provides source redundancy and prevents catastrophic vulnerability.
+
+Section 7 – Recommended Supply Strategy   Yamhill County Water Supply Analysis
+Final – April 7, 2008 7-5
+Table 7-2. Summary of Recommended Water Supply Strategy for Yamhill County
+Time
+Frame Supply Strategy
+Amity
+Carlton
+Dayton
+Dundee
+Lafayette
+McMinnville
+Newberg
+Sheridan
+Willamina
+Yamhill
+Continue local source development/
+rehabilitation (including ASR feasibility) ● ● ●  ● ● ● ● ● ●
+Develop/ enhance water conservation
+program (to extent practicable) ● ● ● ● ● ● ● ● ● ●
+Plan and design interties/transmission
+with MWL
+● ●  ● ●    ●
+Develop short-term leasing option with
+MWL (use of MacGuire Reservoir)  ● ● ● ● ● ●   ●
+Complete feasibility study for
+Willamette River diversion and WTP    ●   ●
+Within 5 yrs.
+Complete Feasibility Study for
+Upper Willamina Cr./ Gorge Reservoir ●       ● ●
+Construct interties/transmission with
+MWL (use of MacGuire Reservoir)  ● ●  ● ●    ●
+Planning and design for Willamette
+River diversion and WTP(1)  ○ ○ ● ○ ○ ●   ●
+5-15 yrs. Planning and design for Upper
+Willamina Cr./Gorge Reservoir ●       ● ●
+Construct Willamette River diversion
+and WTP(1)  ○ ○ ● ○ ○ ●   ●
+Beyond
+15 yrs. Construct Upper Willamina Cr./Gorge
+Reservoir ●       ● ●
+Notes:
+(1) Dundee and Newberg recommended to implement the Willamette River supply option; other water providers may participate in the regional
+use of the Willamette River source as their short-term leases with MWL end.
+● – City/provider recommended to implement the supply strategy component
+○ – Besides Dundee and Newberg this is optional for city/provider to implement the supply strategy component at this time – see Note (1)
+ASR – aquifer storage and recovery
+MWL – McMinnville Water and Light
+WTP – water treatment plant; possible location is near Dundee
+
+General costs to complete the proposed st udies and strategy components are shown in Table 7-3 on the
+following page. The range of costs shown should be considered “ball park” figures and is dependent on
+the specific supply alternatives pursued. Furthermore, detailed costs to implement this strategy for each
+entity/provider are not developed for this Phase 1 study because additional work on administrative and
+governance options would be needed to determine cost-sharing options.
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  7-6
+
+Table 7-3. Planning Level Costs Range for Water Supply Strategy Components
+Time
+Frame Supply Strategy Approximate Cost
+Range
+Continue local source development/ rehabilitation (including ASR feasibility) Specific to Entity (1)
+Develop/ enhance water conservation program Specific to Entity (1)
+Plan and design interties/transmission with MWL $1M - $3M (2)
+Develop short-term leasing option with MWL (use of MacGuire Reservoir) $50K-$150K
+Complete feasibility study for Willamette River diversion and WTP $1.5M - $3M (3)
+<5 yrs.
+Complete Feasibility Study for Upper Willamina Cr./ Gorge Reservoir $1M - $2M (3)
+Construct interties/transmission with MWL (use of MacGuire Reservoir) $11 - $27M (4)
+Planning and design for Willamette River diversion and WTP(1) $1.5M - $15M (2) 5-15 yrs.
+Planning and design for Upper Willamina Cr./Gorge Reservoir and WTP $2M - $13M (2)
+Construct Willamette River diversion and WTP(1) $40M - $200M (4) > 15 yrs. Construct Upper Willamina Cr./Gorge Reservoir $10M - $90M (4)
+Notes:
+Costs are presented in 2007 dollars
+M – million; K - thousand
+(1) Costs for local source development and water conservation programs were developed for this study. The costs are dependent on specific
+projects defined by each provider.
+(2) Engineering and design based on 10% of capital costs estimates from this study.
+(3) Feasibility study and Environmental Impact Study based on recent experience with preparing FS/EIS documents.
+(4) Construction costs based on capital cost estimates from this study.
+
+Based on the issues and considerations discussed above, Table 7-4 presents specific steps for near-term,
+mid-term, and long-term implementation for each water provider.
+
+Table 7-4.  Recommended Supply Strategy for Local and Regional Source Options
+(Note: regional source actions italicized)
+Entity Near-term
+(by 2012)
+Mid-term
+(by 2022)
+Long-term
+(beyond 2022)
+Amity  Implement water conservation
+measures
+ Expand WTP to meet demands
+(to minimum of 0.65 mgd)
+ Continue conservation measures
+ Expand WTP to meet demands (to
+minimum of 0.80 mgd)
+ Continue conservation measures
+ Expand WTP to meet demands
+(to minimum of 1.5 mgd)
+ May need to increase production
+capacity by 0.25 mgd
+Carlton  Implement water conservation
+measures
+ Improve diversion structure at Fall
+Creek
+ Investigate ASR, storage, intertie,
+and regional source options (for
+reliability)
+ Continue conservation measures
+ Develop storage reservoir to
+maximize existing storage right (75
+ac-ft)
+
+ Expand WTP to meet demands
+(to minimum of 1.5 mgd; unless
+coordinating with Yamhill)
+ Aggressive conservation (~20%)
+may eliminate the need for
+expansion
+Dayton  Implement water conservation
+measures
+ Develop additional wells in
+existing wellfield (Dayton-
+Lafayette)
+ Rehabilitate existing production
+wells to the extent possible
+ Investigate ASR, storage, intertie,
+and  regional source options
+ Develop short-term leasing
+agreement with MWL.
+ Continue conservation measures
+ Develop ASR, storage, or regional
+source options
+ Continue conservation measures
+ Implement ASR, storage, or
+regional source options
+ Secure additional water rights
+(up to additional 1.5 mgd by
+2050)
+ Expand WTP to meet demands
+(to minimum of 3.6 mgd)
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  7-7
+Table 7-4.  Recommended Supply Strategy for Local and Regional Source Options
+(Note: regional source actions italicized)
+Entity Near-term
+(by 2012)
+Mid-term
+(by 2022)
+Long-term
+(beyond 2022)
+Dundee  Implement water conservation
+measures
+ Rehabilitate existing production
+wells
+ Planning for Willamette River
+source
+ Investigate ASR, storage, intertie,
+and sub- regional source options
+with Newberg.
+ Develop short-term leasing
+agreement with MWL.
+ Continue conservation measures
+ Continue well rehabilitation
+ Develop ASR, storage, or regional
+source options: Work with Newberg
+to develop Willamette River right to
+the extent possible; construct WTP
+for full water right (or
+modify/expand Newberg’s existing
+WTP)
+ Continue conservation measures
+ Implement ASR, storage, or
+regional source options; expand
+WTP, if used as a sub-regional
+source with Newberg
+Lafayette  Implement water conservation
+measures
+ Develop additional wells in
+existing wellfield (Dayton-
+Lafayette)
+ Rehabilitate existing production
+wells, to the extent possible
+ Investigate ASR, storage, intertie,
+and sub-regional source options
+with Dayton.
+ Develop short-term leasing
+agreement with MWL.
+ Continue conservation measures
+ Continue well rehabilitation
+ Develop ASR, storage, or sub-
+regional source options with
+Dayton
+ Continue conservation measures
+ Implement ASR, storage, or sub-
+regional source options with
+Dayton McMinnville  Implement water conservation
+measures
+ Complete WTP expansion (to 22
+mgd)
+ Investigate lead as regional
+supplier role or providing short-
+term leasing options with nearby
+water providers.
+ Continue conservation measures
+ Investigate Walker Creek Reservoir
+ Implement regional supplier role, if
+feasible
+ Continue conservation measures
+ Expand WTP to meet demands
+(to minimum of 35 mgd; greater
+if regional)
+Newberg  Implement water conservation
+measures
+ Implement water reuse program
+ Develop additional wells in
+existing wellfield (Dayton-
+Lafayette)
+ Rehabilitate existing production
+wells to the extent possible
+ Investigate ASR, storage, intertie,
+and sub-regional source options
+with Dundee
+ Develop short-term leasing
+agreement with MWL.
+ Continue conservation measures
+ Continue well rehabilitation
+ Develop ASR, storage, or regional
+source options: work with Dundee
+to develop Willamette River right to
+the extent possible; construct WTP
+for full water right (or
+modify/expand existing WTP)
+ Continue conservation measures
+ Implement ASR, storage, or sub-
+regional source options with
+Dundee
+ Expand WTP to meet demands
+(to minimum of 15 mgd; greater
+if regional)
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  7-8
+Table 7-4.  Recommended Supply Strategy for Local and Regional Source Options
+(Note: regional source actions italicized)
+Entity Near-term
+(by 2012)
+Mid-term
+(by 2022)
+Long-term
+(beyond 2022)
+Sheridan  Implement water conservation
+measures
+ Expand WTP to meet demands
+(to minimum of 3.2 mgd)
+ Complete storage reservoir (60
+MG)
+ Investigate ASR, storage, intertie,
+and sub-regional source options
+with Willamina and Amity
+ Continue conservation measures
+ Expand WTP to meet demands (to
+minimum of 4.2 mgd)
+ Develop Upper Willamina Cr.
+Reservoir for sub-regional use
+ Continue conservation measures
+ Implement ASR, storage, or
+regional source option
+ Expand WTP to meet demands
+(to minimum of 6 mgd; greater if
+regional)
+Willamina  Implement water conservation
+measures
+ Increase diversion capacity
+ Coordinate with Sheridan to
+develop storage, treatment and
+intertie
+ Continue conservation measures
+ Work with Sheridan to develop
+Upper Willamina Cr. Reservoir for
+regional use (for reliability)
+ Continue conservation measures
+ Expand WTP to meet demands
+(to minimum of 1.5 unless
+coordinating with Sheridan)
+Yamhill  Implement water conservation
+measures
+ Investigate ASR, storage, intertie,
+and regional source options (for
+reliability)
+ Continue conservation measures
+ Develop intertie with Carlton
+ Continue conservation measures
+ Secure additional water rights
+(up to additional 1.5 mgd by
+2050)
+ Expand WTP to meet demands
+(to minimum of 1.5 unless
+coordinating with Carlton)
+
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008 8-1
+8.0 ADMINISTRATIVE AND GOVERNANCE OPTIONS
+8.1 Introduction
+Beyond the technical elements of the various water supply options, there are a variety of political and
+economic issues that also weigh heavily into the water supply strategy development. Whether a regional
+or combination of local and sub-regional supply approach is taken, the sharing of resources among the
+participants will likely drive the need for the formation of a new agency to organize and administer the
+operations and financing of a regional4 supply entity.  As such, the form of governance, financing and rate
+setting policies selected for that agency will have direct impacts on the range of functions and ability to
+establish a secure financial framework.  In bringing together the various supply entities, it is important to
+recognize their current form of governance.  In the case of Yamhill County, all of the participants in this
+study are members of the Water Task Force with a legal status as “city” with the exception of
+McMinnville Water and Light. The only other major entity in the County not involved in the study to-date
+is the Grande Ronde Tribe.
+Presented in this section is a review of the various options that could be used in the operation of the
+regional entity. The options are reviewed by componen t in order to allow the participants to develop a
+business model that meets their needs and objectives. Th e reader in reviewing the various options should
+keep in mind that there is no right or wrong busin ess model. Rather the model chosen needs to be
+developed to meet the needs of the participants . Given the number and diversity of the various
+participants, the final business model will most likel y be developed through a consensus process that
+attempts to best meet the majority of each participant’s needs and objectives.
+This section is organized by components that would make up the general framework in the development
+of a business model. These are: (i) ownership options and rights, (ii) rate setting, (iii) financing options
+and (iv) organization options. Each one of th ese major components is further broken down by
+subcomponent as required. A revi ew and discussion of the each option is provided including the
+advantages and disadvantages of each option to allow the reader to assess which option would best meet
+the needs and objectives of the participants based on their policy perspectives.
+In the development of the business model the reader should be aware that some options are mutually
+exclusive. An example is a decision with respect to financing. The financing method chosen may preclude
+certain options with respect to rate setting or may make certain organizational options non viable from a
+risk management standpoint. An attempt is made to identify these exclusions where possible, but the
+magnitude of the matrix would make the review overw helming and is best finalized in the consensus and
+implementation stage when the number of options being reviewed is more limited.
+8.2 Ownership Options
+The component piece of the business model dealing with ownership options has two subcomponents.
+These components include: (i) the demands of the partic ipants that the regional entity serve; and (ii) how
+ownership in the entity is defined and allowed. Th e options for serving demand are for the regional entity
+to serve all the demand needs of the participants or only new demands and current deficiencies. With
+respect to ownership participation, two options are available. The first option is that each participant owns
+a defined amount of capacity rights in the regional en tity. The second option is that the regional entity is
+charged with meeting the demand needs of the participan ts without regard to ownership rights. It should
+be noted that the two subcomponents are not mutually  exclusive to themselves,  but the option chosen
+could impact rates, financing and organizational options.
+
+4 Note: in this discussion the term “regional entity” refers to either smaller sub-regional entities that would administer shared
+resources among two or more water providers or a larger entity that would administer a shared resource for all of the providers.
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-2
+8.2.1 Demand Serving Options
+Presented in this section is a discussion of the options for serving the demands of the participants.
+Regional Entity Serves all Demands – This option would require the regi onal entity to be responsible to
+meet all the demand needs of the participants. Fr om a planning and operationa l standpoint, the regional
+entity would have the responsibility to meet the dema nd needs of the participants, not from an individual
+basis, but from the perspective of the participan ts as a whole. The system would be operated and
+developed in order to minimize overall system costs to the participants.
+• Advantages – The advantage to this option is that it allows the regional entity to operate and
+develop the system in a manner that minimize s the overall costs to the region and not just
+individual participants. From a regional economic standpoint, this results in the most efficient
+utilization of resources, since any current ex cess capacity would be utilized before the
+construction of new capacity and new capacity could be developed in a least cost manner.  With
+respect to operations, the system could be run in a manner that minimizes operating costs, since
+least cost resources would be utilized first to ser ve demand and the highest cost resources used
+last.
+• Disadvantages – The disadvantage to this option is that it would require the sale or development
+of a compensation plan to the participants who contribute their existing assets to the regional
+entity. This may not be financially advantageous  to participants who have developed low cost
+sources of supply. This option may also require the transfer of water rights that could impact the
+priority date of those water rights.
+• Impact on other Options – This option could impact the deci sion on ownership participation.
+While either option on ownership participati on discussed below could be implemented, the
+decision to have set capacity ownership w ould require mechanisms for compensation to
+participants with excess capacity. This option could also impact decisions on rates and financing.
+Regional Entity Serves New Dema nd and Current Deficiencies – This option would set a business
+model wherein the regional entity is charged with the development of new sources to meet the future and
+current deficiencies of the participants. From a planning standpoint, the regional entity would be
+responsible for the development of new sources only . This could be from the regional needs of the
+participants or from the individual needs of the participants.  Operationally, the regional entity would only
+be charged with the operation and maintenance of ne w facilities developed by the regional entity.  This
+option could also allow for the use of excess capacity in the short run through leasing or sale agreements
+to meet the current deficiencies of participants until such time as a regional source could be developed.
+• Advantages – The advantage to this option is that it only deals with the development of new
+capacity and each participant is allowed to use th eir existing capacity to serve the needs of their
+system. This eliminates any potential issues w ith respect to the compensation for existing assets
+and transfer of water rights. It also allows new resources to be operated and developed in the most
+economically efficient manner.
+• Disadvantages – The disadvantage to this option is  that it may not produce the most
+economically efficient utilization of resources within  the region. To the extent that participants
+currently have excess capacity, new capacity could be constructed before all existing capacity is
+fully utilized. This could also be true from an operation standpoint; since the system would most
+likely not be operated in a manner which minimize s the overall cost of operation to the region.
+This disadvantage could be minimized through the use of leasing agreements or short term
+surplus sales until such time as a regional source is developed.
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-3
+• Impact on other Options – This option could impact the deci sion on ownership participation.
+While either option on ownership participati on discussed below could be implemented, the
+decision to have set capacity ownership c ould require mechanisms for compensation to
+participants with excess capacity.
+8.2.2 Ownership Participation Options
+Presented in this section are the options for ownership participation in a new regional entity.
+Specific Ownership Percentages – This option would require each pa rticipant to own specific capacity
+amounts and rights in the regional entity. This option could be used for either of the demand serving
+options, but would be much easier if used for the new demand and current deficiency option.
+• Advantages – The advantage to this option is that the responsibility for planning is at the
+participant level. The regional entity provides th e platform for the development and operation of
+new facilities that takes advantage of economies of  scale. This results in the development of
+resources that serve the region and individual at the lowest cost, but s till maintains individual
+autonomy for planning.
+• Disadvantages – The disadvantage to this approach in that it can result in the development of
+excess capacity due to the requirements of one or more participants. Most agreements under this
+option allow one or more participants to re quire expansion even though there may still be
+capacity in the plant. Often times buy-back provi sions are put into the agreements which allow
+participants who did not initially invest in th e expansion to buy-back to their ownership
+percentage within a specified time period. This  results in an unstable planning horizon for the
+parties that trigger the expansion. These issues can be worked around, but require considerable
+consensus and compromise by the participants.
+• Impact on other Options – This option can have an impact  on the rate setting and financing
+options available to the participants.
+No Defined Ownership – This option would eliminate any capacity ownership rights in the regional
+entity and require the regional entity to serve the de mands of the participants. This would result in
+planning being done on a regional basis to serve the n eeds of the participants.  This option would work
+under both the demand serving options. This option woul d most likely be a necessity for the all demand
+serving option.
+• Advantages – The advantage to this option is that it puts the planning function responsibility with
+the regional entity. This could result in the greatest economic efficiency in the development of
+resources, since the development of new resources would be done to maximize the benefit to the
+region and not just meet the needs of individual participants.
+• Disadvantages – The disadvantage to this option is that it eliminates local control and relies on
+the regional entity to meet the needs of the individu al participants on a least cost basis. It also
+would most likely transfer the rate setting a nd financing aspects of the business model to the
+regional entity and potentially minimize (depending on the voting requirements and the
+organizational option) local control over those decisions.
+• Impact on other Options – This option could have an impact  on the rate setting, financing and
+organizational options available to the participants.
+
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-4
+8.3 Rate Setting Options
+This component of the business model has a multitude of subcomponents and is the most politically
+sensitive issue after the determination of the or ganizational structure. Furthermore, while the
+organizational options need to be decided at the c onception of the business model, the rate setting options
+continue through the life of the organization and therefore need to be thoroughly thought out and
+considered prior to implementation to assure th at any future disagreements are minimized. The
+subcomponents of the rate setting options that need to be considered are the items that are included in the
+rates, the basis for assessing rates to individual par ticipants and the collection and assessment of system
+development charges.
+8.3.1 Components in Rates
+This subcomponent of the rate setti ng options portion of the business model deals with which parts of the
+costs of operating a regional supply system are included  in the rate charged to the participants and which
+part of the rate is the sole responsibility of the partic ipant. The rate items that need to be considered are
+operation and maintenance expense, debt service, rene wals and replacements and possibly future capacity
+costs. Some of the items will be driven by the option taken with respect to financing. If it is the decision
+of the group to issue debt through the regional entity,  then the bond market will dictate that the regional
+entity collect rates equal to opera tion and maintenance expense, debt  service, renewal and replacements
+and be required to show financial sufficiency to finance future capital needs through rates, system
+development charges and/or new debt.
+As evidenced by the above discussion, the type of fina ncing options chosen will have a direct impact on
+the components that are included in the rates. In fa ct, the bond market will dictate to the regional entity
+the components that must be included in rates. To th e extent that the regional entity does not issue debt,
+then the components included in rates is more of a policy issue.  The options range from the minimum to
+the maximum. On the minimum spectrum is the collection of only operation and maintenance expense.
+Requirements for capital, for both renewal and replaceme nt and future capacity expansion, would be the
+responsibility of the individual participants based on  the percentage of capacity owned or some other
+formula. On the other end of the spectrum is the c oncept of the regional entity acting as an independent
+organization with its own financia l requirements and setting rates to meet those requirements.  An
+analogy to this option is that the participants woul d be very much like their current retail customers
+wherein a commodity is provided for at a price. The option of a position in the middle is also available
+wherein rates include operation and maintenance expense and an allowance for renewals and
+replacements.
+As can be seen, this issue tends to be very policy driven and is also highly dependent on all the other
+options in the business model. For ease in discussion at this preliminary level, the advantages and
+disadvantages will focus on the two extremes that are only operation and maintenance expense or all costs
+required to operate the regional entity as a standalone business.
+• Advantages – The advantage of only having a minimu m charge of operation and maintenance
+expenses is that it provides the minimum rate to the participants and allows each participant to
+determine for itself how to finance the other aspects of the rate components including debt
+service, renewals and replacements and new capaci ty expansion requirements.  This allows for
+more local control of financial planning options. The advantage of having the maximum charge is
+that it assures that adequate funding is availa ble to assure continued operation of the regional
+entity and if proper financial planning is undertaken  by the regional entity, assure the participants
+a predictable cash flow requirement under which they can plan for their local requirements.
+• Disadvantages – The disadvantage to the minimum charge approach is that there is no assurance
+that the participants can provide  the needed cash flow as it is re quired based on their own local
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-5
+conditions. This can result in decisions being ma de not based on the short and long term needs of
+the regional entity, but on the local cash flow ci rcumstances of the participants. The disadvantage
+to the maximum charge approach is that the decision process is no longer a local decision, but
+rather a regional decision. These expenses become  an operation and maintenance expense to the
+participant that must be paid before their own debt service and internal capital improvements.
+• Impact on other Options – As was discussed previously, the impact of rates on the other options
+in the business model is not so much that the rat es drive the other options, but more that the other
+options will drive the rate setting process and what is included in rates. The decisions made in the
+Ownership Options, Financing Options and Organi zation Options will have a direct bearing on
+the items that not only should, but also maybe required to be included in rates.
+8.3.2 Rate Setting Methods
+This subcomponent of the rate setting options portion of the business model deals with the method used to
+set rates for each individual participant. There ar e basically two options: (1) uniform rates for all
+participants with the possibility of adjustments for transmission and pumping costs or (2) cost of service
+rates based on the costs required to service each partic ipant and individual usage characteristics. Either
+option is viable and is really a policy decision.
+While other aspects of the business model may impact th e cost, their influence is minor. An example is
+the option to only include operation and maintenance expense in the rate. The general practice is to charge
+a uniform rate to all participants on a $/ccf basis, this can be modified as agreed to by the participants.
+• Advantages – The advantage to a single rate-setting concept is simplicity and ease of
+understanding. This is even true after adjustme nts for transmission and pumping costs.  Since
+rates tend to be a very controversial issue, simplic ity in the formula to set rates tends to minimize
+future disagreements. The advantage to cost of service-based rates is that they send the proper
+price signal to each participant as to the cost of wa ter. This allows the individual participants to
+make better- informed decisions as to the benefits  of investments within their local system. An
+example is the decision to build additional stor age or invest in conservations measures to
+minimize peaking charges. A cost of service-based  rate would allow the participant to determine
+if the construction of additional storage or conservation measures is the most economical
+option(s) vs. paying peaking charges. These price signals help to maximize the efficient use of
+resources.
+• Disadvantages – The disadvantage to the use of a single ra te-setting concept is the lack of price
+signals sent to individual participants as to the true economic cost of their usage patterns. This
+could result in choices that are not the most economical long run decisions.  The disadvantage to
+the use of cost of service-based rates is not on e of economics, but one of policy and perception
+issue. It is often hard for people to understand why they are paying different rates for the same
+commodity (water) due to the way in which they use the system. Given this tendency, costs of
+service-based rates tend to be considerably more controversial and require a far great expenditure
+of time and money to implement. This controve rsy and expense can be minimized by a very
+detailed agreement on methodology in the initial agreement.
+• Impact on other Options – The impact on this subcomponent to the overall all business models
+are minimal or non-existent.
+8.3.3 System Development Charges
+This subcomponent of the rate setting process deals w ith the assessment of system development charges.
+The two options are to have the individual partic ipants assess system development charges for the
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-6
+regional supply system or have the regional supp ly system assess a system development charge. The
+option chosen is highly dependent on the ownership options, rate components and financing option.
+• Advantages – The advantages and disadvantages of this option are highly correlated to the option
+on ownership participation and fina ncing. To the extent that specific ownership percentages and
+financing by the individual participant’s are the chosen options, then it is imperative that the
+individual participants collect the SDC. To the ex tent that a regional approach to ownership and
+financing is the given approach, then the regional en tity must be the party that set and collects the
+SDC. The advantage to individual collection unde r certain options is that it will allow the
+participants to operate their financial plans in a manner that reflects their cash flow needs. The
+advantage to the collection as a regional entity, un der certain organizational options, is that the
+regional entity can collect SDC based on growth and cash flow requirements.
+• Disadvantages – The disadvantage of trying to do something that is contrary to the ownership
+and financing options is that a disconnect will be created between the ownership and financing
+options and the collection of the SDC. The fi nancing option may well drive the basis for the
+collection and the assessment of the SDC. The di sadvantage to individual collection under certain
+options is that it will not allow the regional entity to operate its financial plan in a manner that
+reflects its cash flow needs. The disadvantage to the collection as a regional entity under certain
+options is that all local control is lost in the de termination of the amount to be charged, regardless
+of what can be charged, based on local policy.
+• Impact on other Options – The impact on this subcomponent to the overall all business models is
+not a driving factor, but the option is more influenced by the business model chosen.
+8.4 Financing Options
+This component of the business model is rather simple  compared to the other components of the business
+model. The options are for the individual participan ts to provide funds for the financing of capital
+improvements or for the regional entity to serve as the source of funding for capital improvements. The
+sources of funds for the regional entity would be rates, system development charges and debt. These same
+options would available to the indi vidual participants, but the combin ation of sources would be a policy
+decision of the local participant and not driven by decision of the regional entity.
+As can be seen, the options for financing will directly impact the decisions or be driven by the decisions
+on rate options, ownership options and risk management from an organizational option standpoint. The
+risk management and legal issues need to be th oroughly considered in determining which financing
+option to undertake.
+• Advantages – The advantage of individual financin g under various business model options are
+that the local participant’s can control the method used to finance capital improvements based on
+their particular circumstances in order to maximi ze the benefit to their customers. The advantage
+to using the regional entity as the financing vehi cle under various business model options is that
+the regional entity can minimize rates to all the pa rticipants by developing a long term financial
+plan that best meets the overall objectives of all the participants.
+• Disadvantages – The disadvantage of individual financing is the ability of the individual
+participants to obtain financing at the best possi ble rates. A financing backed by the collective
+financial capability of all the participants, as part of a regional entity, would most likely result in
+more favorable financing rates. The disadvantage to  this approach is the loss of local control in
+financing and the resulting costs becoming an ope rations and maintenance expense to the local
+participants. This could have the result, under various organization options, of subordinating the
+debt of the local participants to the debt of  the regional entity, resulting in increased borrowing
+costs to the local participant.
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-7
+• Impact on other Options – The impact on this component to the overall all business models can
+drastically effect the decisions made from the st andpoint of rates, SDCs, ownership participation
+and organizational options. This component has the ability to be the driving factor in the other
+business model components or can be the result of the decisions made in the other business model
+components.
+8.5 Organizational Options
+This component of the business model deals with the or ganizational options available to the participants
+in the formation of a regional entity. A discussion of the various items and policy issues to consider in
+choosing an organizational structure for formation of  a regional entity is provided. Next, a discussion of
+each of the regional entities is provided. Finally, a ma trix of the various issues and rights associated with
+each of the options for formation of a legal entity is  presented. The advantages and disadvantages of each
+entity, with respect to the various issues to consider, is provided as part of the discussion of the legal
+entities. The options available to the participants for formation of a regional entity are as follows:
+•  A water authority formed under ORS 450
+•  A water district formed under ORS 264
+•  A county service district formed under ORS 451
+•  A peoples utility district formed under ORS 261
+•  A intergovernmental agency formed under ORS 190
+In addition to these current legal entities, which can be  used to meet the needs of the participants under
+Oregon law, the participants should not preclude chang es in legislation and formation of a new type of
+entity or modification of the provisions under one the above entities in order to meet the policy needs and
+objectives of the participants. While this option would ta ke longer due to the need for legislative changes,
+the potential should not be ruled out at this stage.
+The other option that the participants may wish to cons ider is the formation of a legal entity with one of
+the options set forth in this section with only a portion of the members. The other nonparticipating
+members could then enter into a long-term contract with the regional entity for the provision of potable
+water. This option may allow of the formation of th e regional entity under current Oregon law and allow
+all the participants to meet their goals and objectives.
+8.5.1 Issues to Consider in Organizational Options
+In the determination of the best organizational option for the participants in the formation of a regional
+entity, a number of key items and policy decisions need  to be considered. As with the majority of the
+options available in the formation of a business model for the regional entity, th ere is no right or wrong
+answer with respect to the option chosen, but it  is a policy decision in the development of an
+organizational option which will meet the needs of the participants. The issues to consider include
+representation, voting rights of the members, financi ng available and financial liability to the individual
+participants and formational requirements.
+The issue of representation has to do with the repr esentatives of the regional entity and how those
+representatives are chosen. Each of the various orga nizational options has different requirements for
+election or appointment of representatives to th e regional entity and the method under which those
+representatives are selected. The policy issue becomes one  of local control by the individual participants
+in the regional entity versus non-local control by repr esentatives who are either appointed by issue of law
+or elected from the general area served by the regional entity.
+The issue of voting rights has to do with the basi s under which the regional entity conducts business
+setting rates, rules and regulations for the regional en tity. Under some of the organizational options the
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-8
+method for voting is driven by the requirements under stat e law. This issue has to do with local control of
+the regional entity. Under a number of the organizational options, voting is accomplished by a majority of
+the members and hence no recognition for size or inv estment is provided in the voting structure. Under
+other options, the participants can resolve this issu e such that voting can be by majority, by a super
+majority or by another mechanism such as percentage ownership in the entity.
+The issue with respect to financing and liability to th e participants has to do with the methods available
+for financing of infrastructure through the various or ganizational options and the subsequent liability to
+the individual participants. All of the organizational options allow the entity to issue revenue bonds as a
+financing vehicle for capital improvements. However, only certain of the organizational options allow the
+issuance of general obligation debt, which carries a much  lower interest rate, by vote of the people within
+the organization. The issue of liability and risk has to do with the responsibility of the participants in the
+event of a default on any debt issuance by the regional entity. Some of the organizational options allow
+the liability and risk to be minimized and only as speci fied in the terms and c onditions of the contracts
+between the regional entity and the participants. Ot her organizational options provide for joint and
+severable liability of the participants to any financing undertaken by the regional entity.
+This could result in a large financial risk being pass ed on to participants given a default by the regional
+entity and subsequent default by ot her participants. Additionally, this  joint and severable liability can
+cause problems with respect to the ability of the individua l participants to issue debt due to the fact that
+the financial markets may view the debt issued by th e individual participants as  subordinated to the debt
+issued by the regional entity and hence the debt of th e individual participants could be harder to find,
+come with more restrictive conveyance and/or carry a higher interest rates.
+The issue with formation requirements has to do with  the methods and requirements for formation of the
+various types of organizational options. The ability to  form the regional entity may be extremely difficult
+if a vote of the people is required for the formation.  Other options can be accomplished by ordinance of
+the various governmental entities to the regional entity or by a vote of the County Board of
+Commissioners.
+It appears that Oregon law allows these types of orga nizations to be party to the various organizational
+options as set forth in this discussion. The issue of taxation over the Tribe would have to be worked out as
+part of the agreement in formation and would be a contractual in- lieu payment as opposed to payment of
+taxes. It is also recommended that the participants have the regional entities authority validated by the
+court prior to final finalization.
+8.5.2 Water Authority formed under ORS 450
+A water authority is a legal orga nization under Oregon law. The main purpose of water authorities has to
+do with combinations of districts and cities that preclude the cities from taking over the assets and
+customers of the districts upon annexation. The st atutes allow for the formation of a wholesale water
+authority that would not impact the annexation issues at a retail level. However, it appears that the
+annexation statutes within the ORS 450 would require a city annexing into a districts service territory to
+continue to buy wholesale water from the ORS 450 authority to serve those customers.
+The representation for an ORS 450 is five (5) to sev en (7) members elected w ithin the boundaries of the
+ORS 450. These can be elected at large or by zones based on population.  Voting is by majority. The
+relationship between the participants and the water authority would be by contract for the sale of water.
+The approval for an ORS 450 is by the County Commission. The statute requires certain tests and
+documentation to be filed showing that the ORS 450 is in the best interest of the various entities.
+Additionally, the statutes allows for protests by e ffected parties which include other water purveyors,
+mainly cities which are not part of the water authority but have service areas continuous to a member of
+the regional entity.
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-9
+Oregon law also provides that a city or district may tr ansfer their water right to the water authority with
+no impact on the priority date. The authority may also  change the point of diversion of the water right
+with no impact on the priority date. Given the water supply options available to the regional entity, this
+may be a very beneficial advantage to the formation of a water authority.
+8.5.3 Water District formed under ORS 264
+This business model option would provide for the fo rmation of a water district under ORS 264.  The
+intent of the water district would be to hold and manage the assets of the regional entity and provide
+wholesale service to the various participants. This or ganizational option is very  similar to the options
+under ORS 450, however the annexation issues do not come into play. That is, if a city annexes the
+service area of one of the participants, not only would the distribution system be taken over by the city,
+the city would be under no  obligation to purchase water at a wholesal e level to serve the customers of the
+annexed area. The provisions under ORS 264 do not pr ovide for the transference of water rights to the
+entity and the ability to move the point of diversions of those water rights.
+The election of representatives for an ORS 264 is five (5) members at large for four (4) year terms. The
+relationship of the participants to the district would be  via contract.  The formation of a water district is
+approval by the County Commissioners or can be formed  by a petition requiring a vote of the people for
+formation. Furthermore, the statutes allow for the d ecision of the County Commissioners to be put to a
+vote of the people provided signature requirements are met per Oregon law.  With respect to financing
+aspects under ORS 264, the entity has the ability to pr ovide for independent financing either through
+revenue bonds or a vote of the people for issuance of general obligation bonds. From a liability and risk
+issue, the various participants would not be at risk fo r the debts of the district except to the extent that
+their contracts require them to pay all costs of th e district. The basic business relationship between the
+participants and the regional entity would be one of a pure contractual matter.
+8.5.4 County Service Distri ct formed under ORS 451
+A county service district is an entity that can provide potable water service to the areas within the county
+service district. It appears that the service territory could include  cities, districts, cooperatives,
+associations and the Tribe.
+The representatives of a county service district are the County Commissioners. Therefore, since all
+members of the county have the ability to elect these officials, all memb ers of the county service district
+would provide for election of representation. Voting is by majority rule of the County Commission.
+The formation of a county service district is by approval by the County Commissioners. The relationship
+between the participants and the county service district would be by contract.  With respect to financing, a
+county service district has the ability to issue revenue bonds as well as general obligation bonds as
+approved by a vote of the people. The debts of the county service districts are not liabilities of the various
+participants except to the extent that their contracts between the county service district and the
+participants require payment of all costs and expenses associated with the county service district.
+8.5.5 Peoples Utility Distri ct formed under ORS 261
+A Peoples Utility District is a legal entity that can prov ide potable water service to participants within the
+service area. It is unclear whether or not this can be solely a retail entity or can serve as a wholesale entity
+to the participants.  The representation of a Peoples U tility District is five (5) members elected by zone
+within the boundaries of the Peoples Utility District. The zones are formed by population area with the
+intent of equal population within each zone. Voting is by majority.
+The formation requirements for a Peoples Utility District are by vote of the people. The statutes require
+that a majority of the people voting approve the formation of the Peoples Utility District.  A Peoples
+Utility District has the ability to issue revenue bonds and general obligation bonds by a vote of the people.
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008  8-10
+The debt liabilities of the Peoples Utility District would not be debt liabilities of the participants. Rather,
+the liability would be through contract requirement s between the participants and the Peoples Utility
+District.
+8.5.6 Intergovernmental Agen cy formed under ORS 190
+An ORS 190 organization is an intergovernmental agen cy organization created by an intergovernmental
+agreement between the various participants. This  option provides the maximum flexibility in the
+formation of the business model. However, the risk factors associated with financing are the greatest
+under all of the organizational options.  The voting requirements and membership to an intergovernmental
+agency are determined by the parties to the interg overnmental agreement and would be part of the
+agreement forming the intergovernmental agency. Ex amples for voting requirements that are used other
+entities in the State of Oregon, includ e a majority, a majority of the members provided that an affirmative
+vote is received from each one of the members and based  on participation in the entity.  The formation of
+an intergovernmental agency is done by the developm ent of the agreement that  sets forth the basis under
+which the entity will operate and is approved by ordina nce by the various entities th at are participants to
+entity.
+The statutes allow for issuance of revenue bonds through the ORS 190. However, the ORS 190 has no
+taxing authority and cannot issue general obligatio n bonds. From a risk standpoint, the debts and
+liabilities of the ORS 190 are debts and liabilities of the entities. The statute requires that debt is a joint
+and severable liability of the parties unless otherwise specified in the formation of the organization. While
+different types of liability responsibilities could be pr ovided in the agreement, anything other than joint
+and severable liability may cause difficulty in the financia l markets. This is a concern to the extent that
+this could cause some problems with the debt issuan ce by the individual participants. This is due to the
+fact that debt from the intergovernmental agency could be considered an operation and maintenance
+expense to the various participants and is hence be  viewed as senior debt to the entities own debt. This
+could result in higher interest rates, more stringent  covenanted for issuance of debt by the individual
+participants and changes in the revenue stream pledge for the individual participants.
+8.5.7 Summary of the Options
+Presented in Table 8-1  is a summary of the various issues and the provisions under each one of the
+organizational options as presented in this subsection.
+8.6 Next Steps
+The discussion presented here was intended to serve as an informational resource in contrasting and
+comparing the various governance strategies availabl e in potentially creating a new regional (or sub-
+regional) supply agency. The essential elements include d components for ownership participation, rate
+setting practices, financing options and organizational options. This discussion was presented in a manner
+to allow the various participants to determine the impact of the various options on their operations.
+The next step in this process would be to narro w down the options and develop the framework of the
+business model. This is best done through a consensu s process of the various participants. Once the basic
+business model framework and principals have been de veloped, then the next phase of the process is the
+actual drafting of the agreements. It is best to fi rst provide for a conceptual  framework in the business
+model in order to help provide guidance in the detailed implementation phase, while assuring that an
+actual agreement can be developed which meets the needs and objectives of all the participants.
+
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 7, 2008 8-11
+Table 8-1. Yamhill County Organization Options
+Financing
+Organization Representation Voting
+Water
+Rights
+Transfer
+Required
+Formation
+Requirements Revenue
+Bonds
+General
+Obligation
+Bonds
+Risk
+Water Authority
+Under ORS 450
+5 o r 7 members
+at large or by
+population zone
+Majority
+vote
+No By vote of
+County
+Commissioners
+Yes Yes by Vote Limited to
+Contracts
+Water District
+Under ORS 264
+5 members at
+large
+Majority
+vote
+Yes By vote of
+County
+Commissioners
+Yes Yes by Vote Limited to
+Contracts
+County Service
+District Under
+ORS 451
+County
+Commissioners
+Majority
+vote
+Yes By majority vote
+of the people or
+by the County
+Commissioners
+Yes Yes by Vote Limited to
+Contracts
+People’s Utility
+District Under
+ORS 261
+5 members by
+population zone
+Majority
+vote
+Yes By a vote of the
+people
+Yes Yes by Vote Limited to
+Contracts
+Intergovenmental
+Agency Under
+ORS 190
+Open Open Yes By ordinance of
+members
+Yes No Joint and
+severable
+(1)
+(1) For cities this could extend to the General Fund
+Section 8 – Administrative and Governance Options   Yamhill County Water Supply Analysis
+Final – April 2008
+
+This page left intentionally blank
+
+Section 9 – References  Yamhill County Water Supply Analysis
+Final – April 2008 9-1
+9.0 REFERENCES
+
+Bookman-Edmonston Engineering, Inc. 1998. Water System Master Plan Addendum – City of Yamhill,
+Oregon. April.
+CH2M-Hilll. 2002. Water Management and Conservation Plan for the City of Newberg.  February.
+CH2M-Hilll. 2004. City of Newberg Water Distribution System Plan. December.
+Economic and Engineering Services, Inc. 1998. Intertie for Municipalities in Yamhill County Study.
+Prepared for Yamhill County. December.
+Economic and Engineering Services, Inc. 2005. Regional Water Supply Strategy – Final Report. Prepared
+for Polk County Water Providers. January.
+KPFF Consulting Engineers. 1996. Water Master Plan – City of Yamhill, Oregon. March.
+Mid-Willamette Valley Council of Governments. 1992. Summary of Findings and Recommendations –
+Water Resources Planning Study for Lincoln, Polk, and Yamhill Counties. December
+Murray, Smith and Associates. 1996. Water System Master Plan – McMinnville Water and Light. March.
+Murray, Smith and Associates. 2000. Water System Master Plan for City of Dundee. September.
+Murray, Smith and Associates. 2003. Water Source/Supply Facility Plan – City of Sheridan. February.
+Murray, Smith and Associates. 2004. Upper Willamina Creek Reservoir Feasibility Study. January.
+U.S. Bureau of Reclamation. 1996. Water Supply and Water Quality Streamflow Inteirm Study Report –
+Polk and Yamhill Counties and the Cities of Dallas, McMinnville and Newberg, Oregon. January.
+
+Appendix A
+
+Population and Demand Forecast Data
+Appendix A
+Population and Demand Worksheet
+Yamhill County Water Supply Analysis
+November 12, 2007
+Notes Notes
+1990-2000
+Census
+Growth Rate
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Amity-Census growth rate projections Population data extrapolated
+from 1990-2000 census linear growth rate 0.02579 1175 1205 1236 1266 1296 1327 1357 1387 1417 1448 1478 1508 1539 1569 1599 1630 1660 1690 1720 1751 1781 1811 1842 1872 1902 1933 1963
+compound growth rate 0.023207363 1175 1202.268652 1230.170137 1258.719142 1287.930694 1317.82017 1348.403301 1379.696186 1411.715297 1444.477486 1478 1512.300483 1547.396989 1583.307993 1620.052397 1657.649541 1696.1192 1735.481671 1775.757624 1816.968276 1859.135319 1902.280948 1946.427873 1991.599331 2037.8191 2085.111508 2133.501448
+ADD-calc from census
+ADD calcs derived from GPDC
+from Intertie study and census
+population estimates
+0.172725 0.176733492 0.18083501 0.185031714 0.189325812 0.193719565 0.198215285 0.202815339 0.207522149 0.21233819 0.217266 0.222308171 0.227467357 0.232746275 0.238147702 0.243674483 0.2493295 0.255115806 0.261036371 0.267094337 0.273292892 0.279635299 0.286124897 0.292765102 0.299559408 0.306511392 0.313624713
+MDD-calc from census ADD/MDD Ratio taken from
+the City of Dundee 2.219512195 0.383365244 0.39226214 0.40136551 0.410680145 0.420210949 0.429962937 0.439941243 0.450151119 0.46059794 0.471287203 0.482224537 0.493415697 0.504866574 0.516583196 0.52857173 0.540838486 0.5533899 0.566232642 0.579373408 0.592819137 0.606576906 0.620653957 0.635057699 0.649795713 0.664875759 0.680305772 0.696093875
+ADD*-from WMP data Not Available
+MDD-from WMP data Not Available
+GPCD-Calculated 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147
+GPCD-From City Master Plan
+GPCD-From Intertie Study 147
+Carlton Population data extrapolated
+from 1990-2000 census linear growth rate 0.02 1289 1312 1334 1357 1379 1402 1424 1447 1469 1492 1514 1537 1559 1582 1604 1627 1649 1672 1694 1717 1739 1762 1784 1807 1829 1852 1874
+compound growth rate 0.016218965 1289 1309.906246 1331.151571 1352.741472 1374.681539 1396.977452 1419.634981 1442.659991 1466.058444 1489.836395 1514 1538.555514 1563.509292 1588.867796 1614.637587 1640.825339 1667.4378 1694.481945 1721.964689 1749.893175 1778.274631 1807.116406 1836.425965 1866.210894 1896.478904 1927.23783 1958.495634
+ADD-calc from census
+ADD clacs derived from GPDC
+from Intertie study and census
+population estimates
+0.234598 0.238402937 0.242269586 0.246198948 0.25019204 0.254249896 0.258373566 0.262564118 0.266822637 0.271150224 0.275548 0.280017103 0.284558691 0.289173939 0.293864041 0.298630212 0.3034737 0.308395714 0.313397573 0.318480558 0.323645983 0.328895186 0.334229526 0.339650383 0.345159161 0.350757285 0.356446205
+MDD-calc from census ADD/MDD Ratio taken from
+the City of Dundee 2.219512195 0.520693122 0.529138226 0.5377203 0.546441567 0.555304284 0.564310745 0.573463282 0.582764263 0.592216096 0.601821229 0.611582146 0.621501376 0.631581485 0.641825084 0.652234823 0.662813397 0.6735635 0.684488048 0.695589736 0.706871482 0.718336206 0.729986876 0.741826508 0.753858167 0.766084966 0.778510072 0.7911367
+ADD*-from WMP data Not Available
+MDD-from WMP data Not Available
+GPCD-Calculated 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182
+GPCD-From City Master Plan
+GPCD-From Intertie Study 182
+Dayton Population data extrapolated
+from 1990-2000 census linear growth rate 0.04 1526 1585 1645 1704 1763 1823 1882 1941 2000 2060 2119 2178 2238 2297 2356 2416 2475 2534 2593 2653 2712 2771 2831 2890 2949 3009 3068
+compound growth rate 0.033374266 1526 1576.92913 1629.557983 1683.943285 1740.143657 1798.219675 1858.233938 1920.251132 1984.338105 2050.563933 2119 2189.72007 2262.800371 2338.319674 2416.359377 2497.003599 2580.3393 2666.456192 2755.447211 2847.40824 2942.438401 3040.640124 3142.119257 3246.985182 3355.350931 3467.333306 3583.053012
+ADD-calc from census
+ADD clacs derived from GPDC
+from Intertie study and census
+population estimates
+0.2289 0.23653937 0.244433697 0.252591493 0.261021549 0.269732951 0.278735091 0.28803767 0.297650716 0.30758459 0.31785 0.328458011 0.339420056 0.350747951 0.362453907 0.37455054 0.3870509 0.399968429 0.413317082 0.427111236 0.44136576 0.456096019 0.471317889 0.487047777 0.50330264 0.520099996 0.537457952
+MDD-calc from census ADD/MDD Ratio taken from
+the City of Dundee 2.219512195 0.508046341 0.525002015 0.542523572 0.560629899 0.57934051 0.598675575 0.618655933 0.639303121 0.660639393 0.682687748 0.705471951 0.72901656 0.753346953 0.778489355 0.804470866 0.831319491 0.8590642 0.887734805 0.917362303 0.947978597 0.979616687 1.012310675 1.046095802 1.081008481 1.117086346 1.154368284 1.192894478
+ADD*-from WMP data Not Available
+MDD-from WMP data Not Available
+GPCD-Calculated 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150
+GPCD-From City Master Plan
+GPCD-From Intertie Study 150
+Dundee
+Population data
+extrapolated from 1990-
+2000 census
+0.06 1663 1757 1850 1944 2037 2131 2224 2318 2411 2505 2598 2692 2785 2879 2972 3066 3159 3253 3346 3440 3533 3627 3720 3814 3907 4001 4094
+0.045621946 1663 1738.869296 1818.199897 1901.149714 1987.883863 2078.574993 2173.403628 2272.558531 2376.237073 2484.645632 2598 2716.525815 2840.459009 2970.046275 3105.545566 3247.226597 3395.3714 3550.274842 3712.245289 3881.605142 4058.691521 4243.856926 4437.469936 4639.915949 4851.597943 5072.937281 5304.374551
+Plan population values These Data provided in City's
+plan Build out at 6350 1663 2478 2598 2670 2770 2882 #REF! #REF! #REF! #REF! 3515 #REF! #REF! #REF! #REF! 4286 #REF! #REF! #REF!
+ADD-calc from census
+ADD clacs derived from GPDC
+from Intertie study and census
+population estimates.  These
+ADD calcs are used for
+reference only
+0.304329
+MDD-calc from census
+ADD*-from WMP data 0.042857143 ADD/MDD ratio: 0.241135 0.41 0.43 0.38 0.38 0.42 0.441857143 0.463714286 0.4855714 0.507428571 0.51 0.531857143 0.553714286 0.575571429 0.597428571 0.62 0.641857143 0.663714286 0.685571429
+MDD-from WMP data 0.043478261 2.219512195 0.91 0.95 0.69 0.81 0.92 0.968695652 1.017391304 1.066087 1.114782609 1.12 1.168695652 1.217391304 1.266086957 1.314782609 1.37 1.418695652 1.467391304 1.516086957
+GPCD-Calculated 165 166 142 137 146 #REF! #REF! #REF! #REF! 145 #REF! #REF! #REF! #REF! 145 #REF! #REF! #REF!
+GPCD-From City Master Plan 145
+GPCD-From Intertie Study 183
+Lafayette
+Population data
+extrapolated from 1990-
+2000 census
+0.10 1292 1421 1551 1680 1810 1939 2068 2198 2327 2457 2586 2715 2845 2974 3104 3233 3362 3492 3621 3751 3880 4009 4139 4268 4398 4527 4656
+0.071856388 1292 1384.838454 1484.347943 1591.007825 1705.331901 1827.870893 1959.215093 2099.997214 2250.895429 2412.636645 2586 2771.82062 2970.993639 3184.478511 3413.303635 3658.571307 3921.463 4203.245197 4505.275216 4829.008021 5176.003096 5547.931984 5946.586339 6373.886556 6831.891023 7322.806036 7848.99643
+Plan population values These Data provided by Diane
+Rinks 3060 3265.0232 3483.783192 3717.200321 3966.256643 4232 4295.467581 4359.88699 4425.2725 4491.638602 4559 4627.321349
+Growth Rates 0.07 0.01 0.01
+ADD-calc from census
+ADD clacs derived from GPDC
+from Intertie study and census
+population estimates
+MDD-calc from census ADD/MDD Ratio taken from
+the City of Dundee 2.219512195
+ADD*-from WMP data 0.45 0.48 0.51 0.55 0.58 0.62 0.63 0.64 0.65 0.66 0.67 0.68
+MDD-from WMP data 1.00 1.07 1.14 1.21 1.29 1.38 1.40 1.42 1.44 1.47 1.49 1.51
+GPCD-Calculated 147 147 147 147 147 147 147 147 147 147 147 147
+GPCD-From City Master Plan 147
+GPCD-From Intertie Study 126
+McMinnville
+Population data
+extrapolated from 1990-
+2000 census
+0.05 17894 18755 19615 20476 21336 22197 23057 23918 24778 25639 26499 27360 28220 29081 29941 30802 31662 32523 33383 34244 35104 35965 36825 37686 38546 39407 40267
+0.040045179 17894 18610.56843 19355.83198 20130.93973 20937.08682 21775.51621 22647.52065 23554.44467 24497.68662 25478.70086 26499 27560.1572 28663.80863 29811.65597 31005.46907 32247.08863 33538.429 34881.48146 36278.31663 37731.08831 39242.03649 40813.49087 42447.87441 44147.70714 45915.60998 47754.30879 49666.63864
+Plan population values These data provided from MSL
+WMP 17894 18615 19175 20070 20995 21646 22317.0796 23008.96433 23722.2992 24457.74921 25216 25997.619 26803.4658 27634.29139 28490.87003 29374 30284.569 31223.36479 32191.26249 33189.1642 34218 35278.76192 36372.40758 37499.95639 38662.45933 39861 41096.76545
+Growth Rates 0.03 0.03 0.03 0.03 0.03
+ADD-calc from census These ADD calcs are used for
+reference only
+MDD-calc from census
+ADD*-from WMP data 0.028346722 3 % ADD growth rate 5.2 5.98 6.9 7.12 7.34 7.56 7.80 7.97 8.22 8.47 8.74 9.01 9.21 9.49
+MDD-from WMP data 12.99 14.94 17.26 19.93 20.56 21.19 21.85 22.53 23.02 23.73
+ADD/MDD ratio 2.498076923 2.498327759 2.501449275 2.500627353 2.499457112
+GPCD-Calculated
+GPCD-From City Master Plan 240 237 235 233 231
+GPCD-From Intertie Study 253
+Newberg-1990-2000 census interpolation
+Population data
+extrapolated from 1990-
+2000 census
+0.04 13086 13584 14082 14579 15077 15575 16073 16571 17068 17566 18064 18562 19060 19557 20055 20553 21051 21549 22046 22544 23042 23540 24038 24535 25033 25531 26029
+0.032763072 13086 13514.73757 13957.52189 14414.81319 14887.08676 15374.83346 15878.56024 16398.79066 16936.06543 17490.94297 18064 18655.83214 19267.05452 19898.30242 20550.23195 21223.52068 21918.868 22636.9979 23378.6555 24144.61209 24935.66376 25752.63272 26596.36809 27467.74683 28367.6746 29297.08678 30256.94936
+Plan population values These data provided by
+Newberg WMP 14166 14406 14735 15371 15956 16831 17436 18029 18321 18735 18951 19421 20684 21947 23210 24102 24995 25887 26779 27671 28238.62923 28817.90252 29409.05874 30012.34165 30628 31250.75503
+Growth Rates 0.020513506 0.020332866
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data 2% ADD growth rate 0.021333333 2.3 2.42 2.47 2.46 2.58 2.59 2.44 2.57 2.8 2.98 3.15 3.27 3.39 3.51 3.63 3.75 3.826925648 3.905429311 3.985543359 4.067300827 4.15 4.234381395
+AMITY CARLTON DAYTON DUNDEE LAFAYETTE McMINNVILLE NEWBERG
+November 12, 2007 1
+Appendix A
+Population and Demand Worksheet
+Yamhill County Water Supply Analysis
+November 12, 2007
+Amity-Census growth rate projections
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Carlton
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Dayton
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Dundee
+Plan population values
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Lafayette
+Plan population values
+Growth Rates
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+McMinnville
+Plan population values
+Growth Rates
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+ADD/MDD ratio
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Newberg-1990-2000 census interpolation
+Plan population values
+Growth Rates
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050
+1993 2023 2054 2084 2114 2145 2175 2205 2236 2266 2296 2326 2357 2387 2417 2448 2478 2508 2539 2569 2599 2629 2660 2690 2720 2751 2781 2811 2842 2872 2902 2932 2963 2993
+2183.014391 2233.676399 2285.514138 2338.554895 2392.826588 2448.357784 2505.177712 2563.3163 2622.804093 2683.67246 2745.9534 2809.6798 2874.885018 2941.6035 3009.8704 3079.7215 3151.1938 3224.3246 3299.1527 3375.7174 3454.0589 3534.2185 3616.2383 3700.1617 3786.0327 3873.8965 3963.7995 4055.7888 4149.913 4246.2215 4344.7651 4445.5956 4548.7662 4654.331061
+0.320903115 0.328350431 0.335970578 0.34376757 0.351745508 0.359908594 0.368261124 0.3768075 0.385552202 0.394499852 0.4036552 0.4130229 0.422608098 0.4324157 0.4424509 0.4527191 0.4632255 0.4739757 0.4849755 0.4962305 0.5077467 0.5195301 0.531587 0.5439238 0.5565468 0.5694628 0.5826785 0.596201 0.6100372 0.6241946 0.6386805 0.6535026 0.6686686 0.684186666
+0.712248378 0.728777785 0.745690796 0.762996313 0.780703446 0.798821514 0.817360055 0.8363288 0.855737813 0.875597232 0.8959175 0.9167094 0.937983827 0.959752 0.9820253 1.0048155 1.0281346 1.0519949 1.0764089 1.1013895 1.1269499 1.1531034 1.1798639 1.2072454 1.2352624 1.2639296 1.2932621 1.3232753 1.353985 1.3854074 1.4175591 1.4504569 1.4841182 1.518560649
+147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147
+1897 1919 1942 1964 1987 2009 2032 2054 2077 2099 2122 2144 2167 2189 2212 2234 2257 2279 2302 2324 2347 2369 2392 2414 2437 2459 2482 2504 2527 2549 2572 2594 2617 2639
+1990.260407 2022.540371 2055.343884 2088.679435 2122.555655 2156.981312 2191.965317 2227.5167 2263.644744 2300.358719 2337.6682 2375.5827 2414.112211 2453.2666 2493.0561 2533.4909 2574.5815 2616.3385 2658.7728 2701.8953 2745.7173 2790.25 2835.505 2881.4939 2928.2288 2975.7216 3023.9847 3073.0306 3122.872 3173.5218 3224.993 3277.2991 3330.4535 3384.469964
+0.362227394 0.368102348 0.374072587 0.380139657 0.386305129 0.392570599 0.398937688 0.405408 0.411983343 0.418665287 0.4254556 0.4323561 0.439368422 0.4464945 0.4537362 0.4610953 0.4685738 0.4761736 0.4838966 0.491745 0.4997205 0.5078255 0.5160619 0.5244319 0.5329376 0.5415813 0.5503652 0.5592916 0.5683627 0.577581 0.5869487 0.5964684 0.6061425 0.615973533
+0.803968118 0.81700765 0.830258668 0.843724605 0.857408945 0.871315231 0.885447063 0.8998081 0.914402055 0.92923271 0.9443039 0.9596195 0.975183572 0.991 1.007073 1.0234067 1.0400053 1.0568731 1.0740145 1.0914339 1.1091358 1.1271249 1.1454057 1.163983 1.1828616 1.2020464 1.2215423 1.2413545 1.261488 1.281948 1.3027399 1.3238689 1.3453407 1.367160769
+182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182 182
+3127 3186 3246 3305 3364 3424 3483 3542 3602 3661 3720 3779 3839 3898 3957 4017 4076 4135 4195 4254 4313 4372 4432 4491 4550 4610 4669 4728 4788 4847 4906 4965 5025 5084
+3702.634777 3826.207497 3953.904365 4085.863022 4222.225703 4363.139388 4508.755964 4659.2324 4814.730849 4975.418959 5141.4699 5313.0627 5490.382273 5673.6198 5862.9727 6058.6451 6260.8479 6469.7991 6685.7239 6908.855 7139.433 7377.7063 7623.9319 7878.375 8141.31 8413.0202 8693.7986 8983.9478 9283.7804 9593.6198 9913.7998 10244.666 10586.574 10939.89295
+0.555395217 0.573931124 0.593085655 0.612879453 0.633333855 0.654470908 0.676313395 0.6988849 0.722209627 0.746312844 0.7712205 0.7969594 0.823557341 0.851043 0.8794459 0.9087968 0.9391272 0.9704699 1.0028586 1.0363283 1.0709149 1.106656 1.1435898 1.1817563 1.2211965 1.261953 1.3040698 1.3475922 1.3925671 1.439043 1.48707 1.5366998 1.5879861 1.640983942
+1.232706456 1.27384713 1.316360843 1.360293421 1.405692216 1.452606162 1.501085827 1.5511835 1.602953075 1.656450458 1.7117333 1.7688611 1.827895562 1.8889002 1.9519409 2.0170855 2.0844042 2.1539697 2.2258569 2.3001432 2.3769088 2.4562364 2.5382115 2.6229224 2.7104605 2.8009202 2.8943988 2.9909972 3.0908196 3.1939734 3.3005699 3.410724 3.5245545 3.642183871
+150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150
+4188 4281 4375 4468 4562 4655 4749 4842 4936 5029 5123 5216 5310 5403 5497 5590 5684 5777 5871 5964 6058 6151 6245 6338 6432 6525 6619 6712 6806 6899 6993 7086 7180 7273
+5546.370439 5799.406651 6063.986866 6340.637747 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350
+#REF! 5228 #REF! 5750 #REF! #REF! #REF! 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350 6350
+0.707428571 0.76 0.781857143 0.803714286 0.825571429 0.847428571 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92 0.92
+1.564782609 1.67 1.718695652 1.767391304 1.816086957 1.864782609 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03 2.03
+#REF! 145 #REF! 140 #REF! #REF! #REF! 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145
+4786 4915 5045 5174 5303 5433 5562 5692 5821 5950 6080 6209 6339 6468 6597 6727 6856 6986 7115 7244 7374 7503 7633 7762 7891 8021 8150 8280 8409 8538 8668 8797 8927 9056
+8412.996965 9017.524541 9665.491286 10360.01858 11104.4521 11902.37792 12757.63981 13674.358 14656.94769 15710.14301 16839.017 18049.008 19345.94463 20736.074 22226.094 23823.181 25535.028 27369.883 29336.584 31444.605 33704.101 36125.956 38721.837 41504.248 44486.593 47683.239 51109.584 54782.135 58718.581 62937.886 67460.375 72307.834 77503.614 83072.7438
+4696.666565 4767.050991 4838.4902 4911 4984.751349 5059.610266 5135.593382 5257 5291 5370.458031 5451.1093 5532.9718 5616.063678 5700.4034 5786.0097 5872.9015 5961.0983 6050.6196 6141.4853 6233.7156 6327.3309 6422.3521 6518.8003 6616.6969 6716.0637 6816.9228 6919.2965 7023.2076 7128.6792 7235.7347 7344.398 7454.6931 7566.6445 7680.277261
+0.015017583
+0.69 0.70 0.71 0.72 0.73 0.74 0.75 0.77 0.78 0.79 0.80 0.81 0.83 0.84 0.85 0.86 0.88 0.89 0.90 0.92 0.93 0.94 0.96 0.97 0.99 1.00 1.02 1.03 1.05 1.06 1.08 1.10 1.11 1.13
+1.53 1.56 1.58 1.60 1.63 1.65 1.68 1.72 1.73 1.75 1.78 1.81 1.83 1.86 1.89 1.92 1.94 1.97 2.00 2.03 2.06 2.10 2.13 2.16 2.19 2.22 2.26 2.29 2.33 2.36 2.40 2.43 2.47 2.51
+147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147 147
+41128 41988 42849 43709 44570 45430 46291 47151 48012 48872 49733 50593 51454 52314 53175 54035 54896 55756 56617 57477 58338 59198 60059 60919 61780 62640 63501 64361 65222 66082 66943 67803 68664 69524
+51655.54807 53724.10374 55875.49509 58113.03929 60440.18635 62860.52443 65377.78538 67995.85 70718.7565 73550.70176 76496.053 79559.351 82745.31934 86058.87 89505.113 93089.362 96817.142 100694.2 104726.52 108920.31 113282.04 117818.44 122536.5 127443.5 132547 137854.87 143375.29 149116.78 155088.19 161298.72 167757.96 174475.86 181462.77 188729.4811
+42370.84193 43684.41717 45038.71569 46435 47874.35852 49358.33323 50888.30711 52465.706 54092 55768.70466 57497.383 59279.645 61117.15237 63011.618 64964.806 66978.538 69054.69 71195.198 73402.055 75677.319 78023.109 80441.613 82935.084 85505.846 88156.294 90888.899 93706.208 96610.845 99605.518 102693.02 105876.22 109158.1 112541.7 116030.1856
+0.030997276
+9.79 10.09 10.40 10.63 10.96 11.30 11.65 12.01 12.33 12.72 13.11 13.52 13.93 14.37 14.81 15.27 15.74 16.23 16.74 17.25 17.79 18.34 18.91 19.50 20.10 20.72 21.37 22.03 22.71 23.41 24.14 24.89 25.66 26.45
+24.46 25.22 26.00 26.58 27.41 28.26 29.14 30.04 30.83 31.79 32.78 33.79 34.84 35.92 37.04 38.18 39.37 40.59 41.85 43.14 44.48 45.86 47.28 48.75 50.26 51.82 53.42 55.08 56.78 58.54 60.36 62.23 64.16 66.15
+2.500470367 2.500405515 2.50
+228
+229 228
+26527 27024 27522 28020 28518 29016 29513 30011 30509 31007 31505 32002 32500 32998 33496 33994 34491 34989 35487 35985 36483 36980 37478 37976 38474 38972 39469 39967 40465 40963 41461 41958 42456 42954
+31248.25998 32272.04899 33329.38046 34421.35337 35549.10266 36713.80049 37916.65739 39158.924 40441.89024 41766.89082 43135.302 44548.548 46008.09481 47515.461 49072.214 50679.97 52340.402 54055.234 55826.25 57655.289 59544.254 61495.106 63509.875 65590.654 67739.605 69958.963 72251.033 74618.199 77062.92 79587.738 82195.277 84888.247 87669.447 90541.76738
+31886.17245 32534.50973 33196.02957 33871 34435.84414 35010.10782 35593.94811 36187.525 36791 37404.53904 38028.31 38662.483 39307.23102 39962.732 40629.163 41306.709 41995.554 42695.885 43407.896 44131.781 44867.737 45615.967 46376.674 47150.067 47936.357 48735.76 49548.494 50374.781 51214.848 52068.924 52937.243 53820.042 54717.563 55630.05123
+0.016676335
+4.320478506 4.408326218 4.497960125 4.59 4.666544378 4.744365236 4.82348386 4.9039219 4.99 5.073214912 5.1578175 5.243831 5.331278921 5.4201851 5.5105739 5.6024701 5.6958988 5.7908855 5.8874562 5.9856374 6.0854559 6.186939 6.2901145 6.3950106 6.5016559 6.6100797 6.7203116 6.8323818 6.9463209 7.06216 7.179931 7.2996659 7.4213976 7.545159296
+November 12, 2007 2
+Appendix A
+Population and Demand Worksheet
+Yamhill County Water Supply Analysis
+November 12, 2007
+Notes Notes
+1990-2000
+Census
+Growth Rate
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+MDD-from WMP data 2% MDD growth rate 0.021319797 5.29 5.23 5.42 5.21 4.97 5.56 4.15 5.21 5.89 6.25 6.61 6.86 7.12 7.37 7.63 7.88 8.041646428 8.206608791 8.374955111 8.546754804 8.72 8.897302594
+ADD/MDD ratio 2.146718147 2.098412698 2.101333333 2.101204819
+GPCD-Calculated 136 136 135
+GPCD-From City Master Plan-from ADD 136
+GPCD-From Intertie Study 180
+Sheridan
+Population data
+extrapolated from 1990-
+2000 census
+0.04 3979 4137 4295 4454 4612 4770 4928 5086 5245 5403 5561 5719 5877 6036 6194 6352 6510 6668 6827 6985 7143 7301 7459 7618 7776 7934 8092
+0.034041325 3979 4114.450433 4254.511779 4399.340998 4549.100396 4703.957802 4864.086759 5029.666719 5200.883239 5377.928197 5561 5750.30381 5946.051772 6148.463254 6357.765092 6574.191841 6797.986 7029.398498 7268.688538 7516.124329 7771.983162 8036.551768 8310.126641 8593.014365 8885.531961 9188.007245 9500.779188
+Plan population values Build out at 13688 4615 4615 4800 4930 5330 5260 5655 5824.526515 5999.135123 6178.978176 6364.212594 6555 6751.6426 6954.184288 7162.801982 7377.677972 7599 7827.090175 8062.026662 8304.014959 8553.266732 8810 9074.263644
+Growth Rates 0.029978163 0.029998873 0.030015815 0.029995873
+ADD-calc from census These ADD calcs are used for
+reference only
+MDD-calc from census
+ADD*-from WMP data 0.028290766 0.769 0.838 0.875 0.874 0.844 1.018 1.05 1.08 1.11 1.15 1.162 1.20 1.23 1.27 1.31 1.329 1.37 1.41 1.45 1.50 1.523 1.57
+MDD-from WMP data 0.031828758 1.303 1.511 1.378 1.5 1.352 2.149 2.21 2.28 2.35 2.42 2.491 2.56 2.64 2.72 2.80 2.888 2.98 3.07 3.16 3.25 3.348 3.45
+1.694408322 1.803102625 1.574857143 1.71624714 1.601895735 2.111001965 2.143717728 2.173062453 2.198292843
+GPCD-Census Projection-from ADD 161 183
+GPCD-From City Master Plan 167 175 178 164 160 180 177 175 173
+GPCD-From Intertie Study 180
+Willamina
+Population data
+extrapolated from 1990-
+2000 census
+0.01 1748 1758 1767 1777 1786 1796 1806 1815 1825 1834 1844 1854 1863 1873 1882 1892 1902 1911 1921 1930 1940 1950 1959 1969 1978 1988 1998
+0.005360803 1748 1757.370683 1766.791601 1776.263022 1785.785218 1795.35846 1804.983023 1814.659181 1824.38721 1834.16739 1844 1853.88532 1863.823634 1873.815225 1883.860378 1893.959382 1904.1125 1914.320097 1924.582389 1934.899696 1945.272311 1955.700532 1966.184657 1976.724985 1987.321818 1997.975458 2008.686211
+Plan population values
+Growth Rates
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+ADD is calculated based
+on City of Dundee
+consumption data
+0.25346 0.254818749 0.256184782 0.257558138 0.258938857 0.260326977 0.261722538 0.263125581 0.264536146 0.265954272 0.26738 0.268813371 0.270254427 0.271703208 0.273159755 0.27462411 0.2760963 0.277576414 0.279064446 0.280560456 0.282064485 0.283576577 0.285096775 0.286625123 0.288161664 0.289706441 0.291259501
+MDD-from WMP data
+MDD is based on the ratio
+of ADD/MDD for the City of
+Dundee
+0.562557561 0.565573321 0.568605248 0.571653429 0.57471795 0.5777989 0.580896365 0.584010436 0.587141201 0.590288749 0.593453171 0.596634556 0.599832996 0.603048583 0.606281407 0.609531562 0.6127991 0.616084236 0.619386942 0.622707353 0.626045565 0.629401671 0.63277577 0.636167956 0.639578327 0.64300698 0.646454013
+GPCD-Calculated 145 145 145 145 145 145 145 145 145 145 145 145
+GPCD-From City Master Plan 145 This GPCD  is taken from
+Dundee WMP
+GPCD-From Intertie Study 125
+Yamhill City
+Population data
+extrapolated from 1990-
+2000 census
+-0.01 867 860 852 845 838 831 823 816 809 801 794 787 779 772 765 758 750 743 736 728 721 714 706 699 692 685 677
+-0.008756984 867 859.407695 851.8818757 844.4219599 837.0273704 829.6975353 822.4318873 815.2298646 808.0909098 801.0144708 794 787.0469548 780.1547974 773.3229944 766.5510174 759.8383425 753.18445 746.5888264 740.0509601 733.5703458 727.1464821 720.7788721 714.4670232 708.210447 702.0086596 695.8611811 689.7675359
+Plan population values
+these populations values are
+for population served,
+including those outside city
+limits
+1570 1585 1595 1622.065718 1649.590717 1677.582791 1706.049865 1735 1764.948121 1795.413181 1826.404103 1857.93 1890 1922.838846 1956.248269 1990.238183 2024.818672 2060 2096.670959 2133.994715 2171.982886 2210.647302
+Growth Rates 0.016969102 0.017261165 0.017375051 0.017801437
+ADD-calc from census
+MDD is based on the ratio
+of ADD/MDD for the City of
+Dundee
+MDD-calc from census 2.219512195
+ADD*-from WMP data 0.24 0.25 0.25 0.26 0.26 0.27 0.27 0.27 0.28 0.28 0.29 0.29 0.30 0.30 0.31
+MDD-from WMP data 0.61 0.62 0.63 0.64 0.65 0.66 0.67 0.69 0.70 0.71 0.72 0.73 0.75 0.76 0.77
+2.50 2.50 2.50
+GPCD-Calculated 140 140 140 140 140 140
+GPCD-From City Master Plan
+GPCD-From Intertie Study 156
+Yamhill County excludes cities)
+Yamhill population
+projections taken from PSU
+Population Research
+Center
+0.01 21586 21874 22165 22461 22760 23063 23371 23682 23998 24318 24642 24970 25303 25641 25982 26329 26680 27035 27395 27761 28131 28506 28886 29271 29661 30056 30457
+0.013328781
+Growth Rates
+WILLAMINA YAMHILL CITY YAMHILL COUNTYNEWBERG SHERIDAN
+November 12, 2007 3
+Appendix A
+Population and Demand Worksheet
+Yamhill County Water Supply Analysis
+November 12, 2007
+MDD-from WMP data
+ADD/MDD ratio
+GPCD-Calculated
+GPCD-From City Master Plan-from ADD
+GPCD-From Intertie Study
+Sheridan
+Plan population values
+Growth Rates
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Census Projection-from ADD
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Willamina
+Plan population values
+Growth Rates
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Yamhill City
+Plan population values
+Growth Rates
+ADD-calc from census
+MDD-calc from census
+ADD*-from WMP data
+MDD-from WMP data
+GPCD-Calculated
+GPCD-From City Master Plan
+GPCD-From Intertie Study
+Yamhill County excludes cities)
+Growth Rates
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050
+9.078210258 9.262796293 9.451135492 9.64 9.80075987 9.964200625 10.13036697 10.299304 10.48 10.65476799 10.83245 11.013096 11.19675413 11.383475 11.57331 11.76631 11.962529 12.16202 12.364838 12.571038 12.780677 12.993812 13.210501 13.430804 13.65478 13.882492 14.114001 14.349371 14.588666 14.831951 15.079294 15.330761 15.586422 15.84634658
+2.100217865 2.100200401 136
+136 136
+
+8250 8409 8567 8725 8883 9041 9200 9358 9516 9674 9832 9991 10149 10307 10465 10623 10782 10940 11098 11256 11414 11573 11731 11889 12047 12205 12364 12522 12680 12838 12996 13155 13313 13471
+9824.198302 10158.62703 10504.44016 10862.02522 11231.78296 11614.12773 12009.48803 12418.307 12841.04255 13278.16865 13730.175 14197.568 14680.87251 15180.629 15697.398 16231.758 16784.308 17355.668 17946.478 18557.4 19189.119 19842.342 20517.801 21216.255 21938.484 22685.299 23457.537 24256.062 25081.771 25935.588 26818.469 27731.406 28675.419 29651.56872
+9346.454106 9626.80916 9915.573707 10213 10519.27163 10834.72786 11159.64412 11494.304 11839 12194.03278 12559.712 12936.358 13324.29905 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688 13688
+0.02998841
+1.62 1.67 1.72 1.747 1.80 1.85 1.91 1.97 2.007 2.07 2.14 2.20 2.27 2.31 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30 2.30
+3.55 3.66 3.77 3.881 4.00 4.12 4.24 4.37 4.499 4.65 4.79 4.93 5.08 5.20 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18 5.18
+2.22152261 2.24165421 2.2524903 2.252490256
+169
+171 170 168 168
+2007 2017 2026 2036 2046 2055 2065 2074 2084 2094 2103 2113 2122 2132 2142 2151 2161 2170 2180 2190 2199 2209 2218 2228 2238 2247 2257 2266 2276 2286 2295 2305 2314 2324
+2019.454381 2030.280278 2041.16421 2052.106488 2063.107427 2074.167339 2085.286541 2096.4654 2107.704088 2119.003073 2130.3626 2141.7831 2153.264761 2164.808 2176.4131 2188.0804 2199.8103 2211.603 2223.459 2235.3785 2247.362 2259.4096 2271.5219 2283.699 2295.9415 2308.2496 2320.6237 2333.0641 2345.5712 2358.1453 2370.7869 2383.4962 2396.2736 2409.119588
+0.292820885 0.29439064 0.29596881 0.297555441 0.299150577 0.300754264 0.302366548 0.3039875 0.305617093 0.307255446 0.3089026 0.3105585 0.31222339 0.3138972 0.3155799 0.3172717 0.3189725 0.3206824 0.3224016 0.3241299 0.3258675 0.3276144 0.3293707 0.3311364 0.3329115 0.3346962 0.3364904 0.3382943 0.3401078 0.3419311 0.3437641 0.3456069 0.3474597 0.34932234
+0.649919526 0.653403616 0.656906384 0.66042793 0.663968354 0.667527757 0.671106242 0.6747039 0.678320864 0.681957209 0.685613 0.6892885 0.692983623 0.6966986 0.7004334 0.7041883 0.7079633 0.7117586 0.7155742 0.7194102 0.7232669 0.7271441 0.7310422 0.7349612 0.7389012 0.7428623 0.7468446 0.7508483 0.7548735 0.7589202 0.7629886 0.7670788 0.771191 0.775325194
+145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145 145
+670 663 655 648 641 633 626 619 612 604 597 590 582 575 568 560 553 546 539 531 524 517 509 502 495 487 480 473 466 458 451 444 436 429
+683.7272528 677.7398643 671.8049072 665.9219225 660.090455 654.3100535 648.580271 642.90066 637.2707933 631.6902232 626.15852 620.67526 615.2400188 609.85237 604.5119 599.2182 593.97086 588.76947 583.61362 578.50293 573.43699 568.41541 563.4378 558.50379 553.61298 548.765 543.95947 539.19603 534.4743 529.79391 525.15452 520.55575 515.99725 511.47867
+2250 2288.180504 2327.008898 2366.496175 2406.653516 2447.492291 2489.024064 2531.2606 2574.213842 2617.895968 2662.3193 2707.4965 2753.440353 2800.1638 2847.6801 2896.0027 2945.1453 2995.1218 3045.9464 3097.6334 3150.1975 3203.6535 3258.0167 3313.3023 3369.5261 3426.704 3484.8521 3543.987 3604.1253 3665.2841 3727.4807 3790.7328 3855.0581 3920.475044
+0.016969113
+0.32 0.32 0.33 0.33 0.34 0.34 0.35 0.35 0.36 0.37 0.37 0.38 0.38 0.39 0.40 0.40 0.41 0.42 0.43 0.43 0.44 0.45 0.46 0.46 0.47 0.48 0.49 0.50 0.50 0.51 0.52 0.53 0.54 0.55
+0.79 0.80 0.81 0.83 0.84 0.86 0.87 0.89 0.90 0.92 0.93 0.95 0.96 0.98 1.00 1.01 1.03 1.05 1.07 1.08 1.10 1.12 1.14 1.16 1.18 1.20 1.22 1.24 1.26 1.28 1.30 1.33 1.35 1.37
+2.50
+140 140 140 140
+30863 31274 31691 32113 32541 32975 33414 33860 34311 34768 35232 35702 36177 36660 37148 37643 38145 38653 39169 39691 40220 40756 41299 41850 42407 42973 43545 44126 44714 45310 45914 46526 47146 47774
+November 12, 2007 4
+
+Appendix B
+
+Water Rights Data
+ A-1
+Attachment A –  Water Rights List for Water Providers
+
+Table A-1. Summary of Permitted Water Capacity
+City-
+Permit/Certificate
+Number
+Type
+(Permit (P),
+Certificate
+(C),
+Application
+(A), Claim
+(CL)
+Priority
+Date Source  Operational Use
+(notes)
+    Rate
+(cfs)
+Rate
+(gpm)
+Storage
+(af)
+Amity
+GR431 CL 4/30/1931 GW 0.13 60
+82452/
+C
+3/6/1959 GW 0.45 202   Transfer 5674
+61988/
+C
+1/24/1939
+SW-South
+Yamhill
+River
+0.475 213   Transfer T2832
+42279
+C
+4/24/1970 GW 0.11 49
+G12189 P 2/3/1993 GW 0.16 72  Abandoned Well
+2341
+C
+8/7/1917 Spring 0.5 224
+3920
+C
+5/26/1922 Spring 0.13 58  Abandoned Spring
+S39599
+P
+5/16/1973
+SW-South
+Yamhill
+River
+1 449
+Total Certified    1.67
+Total Permit    1.16
+Total Claim      0.13
+Total Storage      0
+Carlton
+
+R5527 P 10/22/1969 Panther
+Creek   66
+R10900 P 11/30/1987 Panther
+Creek   9
+1868 C 8/12/1911 Panther
+Creek 0.5 224
+S32488
+P
+10/27/1967 Fall Creek 2 898
+S32489 P 10/27/1967 Panther
+Creek 2.5 1122
+S34661 P 10/22/1969 Panther
+Creek 0.5 224
+S50218 P 11/30/1987 Panther
+Creek 0.007 3  .07 cfs reported in
+client survey
+Total Certified    0.5
+Total Permit    5.007
+ A-2
+Table A-1. Summary of Permitted Water Capacity
+City-
+Permit/Certificate
+Number
+Type
+(Permit (P),
+Certificate
+(C),
+Application
+(A), Claim
+(CL)
+Priority
+Date Source  Operational Use
+(notes)
+    Rate
+(cfs)
+Rate
+(gpm)
+Storage
+(af)
+Total Claim       0
+Total Storage      75
+Dayton
+
+49856
+C
+2/16/1904 Spring 0.11 49
+35695
+C
+8/9/1960 GW 0.5 224  .67 cfs reported in
+client survey
+35696 C 8/9/1960 GW 0.5 224
+47233
+C
+3/13/1972 GW 0.17 76
+Comment in Survey-is
+this WR G5486?
+G5466 is from OWRD
+61750
+C
+4/14/1978 GW 0.2228 100
+G13838 P 9/27/1996 GW 0.668 300  9/8/2000-Limited to
+300 gpm per well
+49959
+C
+8/9/1960 Spring 0.14 63
+included in 49586
+source-unusable
+without different
+treatment
+Total Certified    1.643
+Total Permit    0.668
+Total Claim      0
+Total Storage      0
+Dundee
+29157
+C
+11/28/1958 GW 0.18 81  Well slowed down
+G6017
+P
+4/22/1974 GW 0.222 100  Well slowed down
+61759
+C
+3/24/1983 GW 0.3 135
+G11058
+P
+10/31/1988 GW 0.33 148  Well slowed down
+G12685 P 6/7/1991 GW 1.78 799  Well slowed down
+G12736 P 5/19/1995 GW 0.5 224  not in use
+G13035 P 5/19/1995 GW 0.5 224  not in use
+8781 C 6/20/1923 Spring 0.5 224  not in use
+C
+3/25/1929 Spring 0.05 22  not in use
+ A-3
+Table A-1. Summary of Permitted Water Capacity
+City-
+Permit/Certificate
+Number
+Type
+(Permit (P),
+Certificate
+(C),
+Application
+(A), Claim
+(CL)
+Priority
+Date Source  Operational Use
+(notes)
+    Rate
+(cfs)
+Rate
+(gpm)
+Storage
+(af)
+14654
+C
+6/8/1939 Spring 0.0067 3  not in use
+17145
+C
+11/7/1946
+SW-
+unnamed
+stream
+0.25 112  not in use
+S44462 P 7/24/1979 SW-
+Willamette 4 1795  not in use
+Total Certified    1.287
+Total Permit    7.332
+Total Claim      0
+Total Storage      0
+Lafayette
+
+GR1492 CL 12/31/1915 GW 0.4456 200
+39554 C 10/13/1967 GW 0.28 126   Transfer T8178
+39561
+C
+12/16/1968 GW 0.32 144   Transfer T8178
+G10399
+P
+4/10/1984 GW 0.25 112
+Abandoned in 1995-
+contanination/pumping
+sand/ ground
+subsided
+G10400 P 4/10/1984 GW 0.49 220  contamination/
+pumping sand
+G13839 P 9/27/1996 GW 0.668 300
+6135 C 3/14/1924 SW-Henry
+Creek 0.75 337
+16623
+C
+1/13/1937 Spring 0.66 296
+35699
+C
+4/23/1958 Spring 0.08 36
+LL 1019
+A
+10/4/2006
+SW-South
+Yamhill
+River
+0.43 193
+Total Certified    2.09
+Total Permit    1.408
+Total Claim      0.446
+Total Storage      0
+McMinnville
+Water & Light
+
+ A-4
+Table A-1. Summary of Permitted Water Capacity
+City-
+Permit/Certificate
+Number
+Type
+(Permit (P),
+Certificate
+(C),
+Application
+(A), Claim
+(CL)
+Priority
+Date Source  Operational Use
+(notes)
+    Rate
+(cfs)
+Rate
+(gpm)
+Storage
+(af)
+3367
+C
+7/8/1916
+SW-
+Haskins
+Creek
+4.5 2020
+R612
+P
+2/19/1927
+SW-
+Haskins
+Reservoir
+  410 Certification in
+Process
+S8881
+P
+5/18/1927
+Haskins
+Creek
+Reservoir
+  410 Certification in
+Process
+S14837
+P
+1/10/1941
+SW-
+Haskins
+Creek
+15 6732
+63659 C 11/23/1981 Haskins
+Reservoir   355
+63660 C 12/15/1981 Haskins
+Creek   355
+S27520
+P
+11/19/1958
+Nestucca
+River/
+McGuire
+Reservoir
+6.4 2873  Survey indicates 9.6
+cfs permit capacity
+R2652
+P
+12/24/1958
+Nestucca
+River/
+McGuire
+Reservoir
+  3,550
+R5561
+P
+12/2/1969
+Nestucca
+River/
+McGuire
+Reservoir
+  210
+S34803
+P
+12/2/1969 Nestucca
+River   210
+R13942
+P
+12/7/1988
+Walker
+Creek/
+McGuire
+Reservoir
+  6040
+S54038 P 12/7/1988 McGuire
+Reservoir   6040
+R2653
+P
+12/24/1958
+Walker
+Creek/
+McMinnville
+4b
+  4,500
+S27520
+P
+11/19/1958
+Nestucca
+River/
+Reservoir
+4C
+6.4 2873
+R13934
+P
+12/8/2003 Runoff   1.85
+Total Certified    4.5
+Total Permit    27.8
+ A-5
+Table A-1. Summary of Permitted Water Capacity
+City-
+Permit/Certificate
+Number
+Type
+(Permit (P),
+Certificate
+(C),
+Application
+(A), Claim
+(CL)
+Priority
+Date Source  Operational Use
+(notes)
+    Rate
+(cfs)
+Rate
+(gpm)
+Storage
+(af)
+Total Claim      0
+Total Storage      22,082
+Newberg
+2389 C 8/23/1911 Gardner
+Spring 4 1795  Primary
+2390
+C
+8/23/1911 Otis Spring
+Alternate to Gardner
+Spring-total use from
+both limited to 4.0 cfs
+5456 C 6/24/1919 Skeleton
+Spring 2 898  Primary
+5456 C 7/10/1923 Atkinson
+Spring 2 898  Primary
+6829 C 12/31/1894 Oliver
+Spring 0.005 2  Primary
+SW641
+CL
+11/30/1905 Snider
+Spring 0.5 224  Primary
+GR63
+CL
+9/30/1951 GW 2.228 1000  Primary
+GR-54
+
+5/31/1948 Well #2 2.2 987
+This claim does not
+belong to the City of
+Newberg.  OWRD
+Database indicates
+and irrigation right in
+Warren, OR.
+48100
+C
+7/20/1970 GW 2.68 1203  Primary
+82595
+C
+3/28/1980 GW 1.01 453  Primary
+68620
+C
+8/6/1970 GW 3 1346  Primary
+82600
+C
+6/23/1980 GW 4.01 1800  Primary
+G13876
+P
+5/3/1991 GW 20 8977  Primary
+Total Certified    18.705
+Total Permit    20
+Total Claim      2.728
+Total Storage      0
+Sheridan
+49612
+C
+9/11/1908 Springs 0.4 180
+ A-6
+Table A-1. Summary of Permitted Water Capacity
+City-
+Permit/Certificate
+Number
+Type
+(Permit (P),
+Certificate
+(C),
+Application
+(A), Claim
+(CL)
+Priority
+Date Source  Operational Use
+(notes)
+    Rate
+(cfs)
+Rate
+(gpm)
+Storage
+(af)
+G10739
+P
+11/24/1986 GW 0.5 224
+G13620
+P
+5/12/1998 GW 0.112 50
+R13686
+P
+10/8/2002 Springs   276 Facility under
+Construction
+47036
+C
+6/26/1930
+SW-
+Baltimore
+Creek
+0.2 90
+unable to obtain full
+permitted amount due
+to low flows
+S13862
+P
+4/13/1939
+SW-
+Willamina
+Creek
+6 2693  No water diverted
+from Willamina Creek
+34093
+C
+9/10/1962
+SW-
+unnamed
+Stream
+0.07 31
+S47044
+P
+5/29/1967
+SW-East
+Fork
+Baltimore
+Creek
+1.2 539
+0 usable capacity-
+Surface Water, no
+treatment available
+S46730
+P
+3/18/1976
+SW-
+unnamed
+Stream
+0.4 180  low summer flows, no
+storage
+S44595
+P
+1/30/1976
+SW-East
+Fork
+Willamina
+Creek
+2 898  low summer flows, no
+storage
+S44944
+P
+8/10/1976 Springs 0.22 99  .08 cfs usable, no
+storage
+S46744
+P
+2/24/1982
+SW-
+unnamed
+Stream
+0.18 81  Low summer flows
+S53949
+P
+10/8/2002
+SW-Stony
+Mountain
+Reservoit
+  276
+Being constructed
+under permit #
+R13686
+Total Certified    0.67
+Total Permit    10.612
+Total Claim      0
+Total Storage      552
+Willamina
+S14420/  P 6/10/1940 Willamina
+Creek 0.45 202  Domestic
+S15022 P 6/13/1941 Willamina
+Creek 0.7 314  Municipal
+41796 C 6/13/1941 Willamina
+Creek   20 Yes, fish storage
+ A-7
+Table A-1. Summary of Permitted Water Capacity
+City-
+Permit/Certificate
+Number
+Type
+(Permit (P),
+Certificate
+(C),
+Application
+(A), Claim
+(CL)
+Priority
+Date Source  Operational Use
+(notes)
+    Rate
+(cfs)
+Rate
+(gpm)
+Storage
+(af)
+67793 C 6/13/1941 Willamina
+Creek 0.2 90  Fish Pond fill
+1018 C 9/22/1909 Lady Creek 1 449  Municipal
+11706 C 2/15/1932 Willamina
+Creek 0.2 90  Municipal
+S23560 P 7/6/1955 Willamina
+Creek 1.45 651
+Total Certified    1.4
+Total Permit    2.6
+Total Claim      0
+Total Storage      20
+Yamhill
+R7245
+P
+1/30/1978 SW-Turner
+Creek   30
+This is a permit to
+construct a 30 AF in-
+channel storage
+reservoir
+10846 C 2/12/1919 SW-Turner
+Creek 0.65 292
+15427 C 3/27/1940 SW-Turner
+Creek 0.63 283
+S43032
+P
+1/30/1978
+Turner
+Creek
+Reservoir
+    30
+Total Certified    1.28
+Total Permit    0
+Total Claim    0
+Total Storage      60
+County Totals    114.636  22,789
+
+Appendix C
+
+Demand Forecast Summary Tables
+Appendix C
+Table C-1
+Average Day Demand
+Yamhill County Water Supply Analysis
+Table C-1.  Summary of Average Day Demand Projections with Build-Out Scenarios (in million gallons per day)
+ADD per capita (gpd) 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Amity
+Scenario 1 147 0.22 0.22 0.23 0.23 0.24 0.24 0.25 0.26 0.26 0.27 0.27 0.28 0.29 0.29 0.30 0.31 0.31 0.32 0.33 0.34 0.34 0.35 0.36 0.37
+Scenario 2 147 0.22 0.22 0.23 0.23 0.24 0.24 0.25 0.26 0.26 0.27 0.27 0.28 0.29 0.29 0.30 0.31 0.31 0.31 0.32 0.32 0.32 0.33 0.33 0.34
+Scenario 3 147 0.22 0.22 0.23 0.23 0.24 0.24 0.25 0.26 0.26 0.27 0.27 0.28 0.29 0.29 0.30 0.31 0.31 0.31 0.32 0.32 0.32 0.33 0.33 0.34
+Carlton
+Scenario 1 182 0.28 0.28 0.28 0.29 0.29 0.30 0.30 0.31 0.31 0.32 0.32 0.33 0.33 0.34 0.35 0.35 0.36 0.36 0.37 0.37 0.38 0.39 0.39 0.40
+Scenario 2 182 0.28 0.28 0.28 0.29 0.29 0.30 0.30 0.31 0.31 0.32 0.32 0.33 0.33 0.34 0.35 0.35 0.35 0.36 0.36 0.36 0.37 0.37 0.37 0.37
+Scenario 3 182 0.28 0.28 0.28 0.29 0.29 0.30 0.30 0.31 0.31 0.32 0.32 0.33 0.33 0.34 0.35 0.35 0.35 0.36 0.36 0.36 0.37 0.37 0.37 0.37
+Dayton
+Scenario 1 150 0.32 0.33 0.34 0.35 0.36 0.37 0.39 0.40 0.41 0.43 0.44 0.46 0.47 0.49 0.50 0.52 0.54 0.56 0.57 0.59 0.61 0.63 0.65 0.68
+Scenario 2 150 0.32 0.33 0.34 0.35 0.36 0.37 0.39 0.40 0.41 0.43 0.44 0.46 0.47 0.49 0.50 0.52 0.53 0.54 0.55 0.56 0.56 0.57 0.58 0.59
+Scenario 3 150 0.32 0.33 0.34 0.35 0.36 0.37 0.39 0.40 0.41 0.43 0.44 0.46 0.47 0.49 0.50 0.52 0.53 0.54 0.55 0.56 0.56 0.57 0.58 0.59
+Dundee
+Scenario 1 143 0.37 0.39 0.40 0.42 0.44 0.45 0.47 0.49 0.51 0.53 0.55 0.58 0.60 0.62 0.65 0.67 0.70 0.72 0.74 0.77 0.79 0.82 0.85 0.88
+Scenario 2 143 0.37 0.39 0.40 0.42 0.44 0.45 0.47 0.49 0.51 0.53 0.55 0.58 0.60 0.62 0.65 0.67 0.70 0.72 0.74 0.77 0.79 0.82 0.85 0.88
+Scenario 3 143 0.37 0.39 0.40 0.42 0.44 0.45 0.47 0.49 0.51 0.53 0.55 0.58 0.60 0.62 0.65 0.67 0.70 0.72 0.74 0.77 0.79 0.82 0.85 0.88
+Lafayette
+Scenario 1 147 0.38 0.41 0.43 0.46 0.49 0.53 0.56 0.60 0.64 0.68 0.73 0.74 0.75 0.76 0.77 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78
+Scenario 2 147 0.38 0.41 0.43 0.46 0.49 0.53 0.56 0.60 0.64 0.68 0.73 0.74 0.75 0.76 0.77 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78
+Scenario 3 147 0.38 0.41 0.43 0.46 0.49 0.53 0.56 0.60 0.64 0.68 0.73 0.74 0.75 0.76 0.77 0.78 0.80 0.81 0.82 0.83 0.84 0.86 0.87 0.88
+McMinnville
+Scenario 1 231 5.82 6.01 6.19 6.38 6.58 6.79 7.00 7.21 7.44 7.67 7.90 8.15 8.40 8.66 8.93 9.21 9.49 9.79 10.09 10.40 10.73 11.06 11.40 11.76
+Scenario 2 231 5.82 6.01 6.19 6.38 6.58 6.79 7.00 7.21 7.44 7.67 7.90 8.15 8.40 8.66 8.93 9.21 9.35 9.50 9.64 9.79 9.94 10.10 10.25 10.41
+Scenario 3 231 5.82 6.01 6.19 6.38 6.58 6.79 7.00 7.21 7.44 7.67 7.90 8.15 8.40 8.66 8.93 9.21 9.35 9.50 9.64 9.79 9.94 10.10 10.25 10.41
+Newberg
+Scenario 1 135 2.53 2.58 2.63 2.69 2.74 2.80 2.86 2.92 2.98 3.04 3.10 3.16 3.23 3.29 3.36 3.43 3.50 3.57 3.65 3.72 3.80 3.86 3.92 3.99
+Scenario 2 135 2.53 2.58 2.63 2.69 2.74 2.80 2.86 2.92 2.98 3.04 3.10 3.16 3.23 3.29 3.36 3.43 3.50 3.57 3.65 3.72 3.80 3.86 3.92 3.99
+Scenario 3 135 2.53 2.58 2.63 2.69 2.74 2.80 2.86 2.92 2.98 3.04 3.10 3.16 3.23 3.29 3.36 3.43 3.50 3.57 3.65 3.72 3.80 3.86 3.92 3.99
+Sheridan
+Scenario 1 173 0.98 1.01 1.04 1.07 1.10 1.13 1.17 1.20 1.24 1.28 1.31 1.35 1.39 1.44 1.48 1.52 1.57 1.62 1.67 1.72 1.77 1.82 1.87 1.93
+Scenario 2 173 0.98 1.01 1.04 1.07 1.10 1.13 1.17 1.20 1.24 1.28 1.31 1.35 1.39 1.44 1.48 1.52 1.57 1.62 1.67 1.72 1.77 1.82 1.87 1.93
+Scenario 3 173 0.98 1.01 1.04 1.07 1.10 1.13 1.17 1.20 1.24 1.28 1.31 1.35 1.39 1.44 1.48 1.52 1.57 1.62 1.67 1.72 1.77 1.82 1.87 1.93
+Willamina
+Scenario 1 145 0.27 0.27 0.27 0.27 0.27 0.27 0.28 0.28 0.28 0.28 0.28 0.28 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.30 0.30 0.30 0.30 0.30
+Scenario 2 145 0.27 0.27 0.27 0.27 0.27 0.27 0.28 0.28 0.28 0.28 0.28 0.28 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.30 0.30
+Scenario 3 145 0.27 0.27 0.27 0.27 0.27 0.27 0.28 0.28 0.28 0.28 0.28 0.28 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.29 0.30 0.30
+Yamhill
+Scenario 1 140 0.23 0.24 0.24 0.25 0.25 0.26 0.26 0.26 0.27 0.27 0.28 0.28 0.29 0.29 0.30 0.30 0.31 0.31 0.32 0.32 0.33 0.33 0.33 0.33
+Scenario 2 140 0.23 0.24 0.24 0.25 0.25 0.26 0.26 0.26 0.27 0.27 0.28 0.28 0.29 0.29 0.30 0.30 0.31 0.31 0.32 0.32 0.33 0.33 0.33 0.33
+Scenario 3 140 0.23 0.24 0.24 0.25 0.25 0.26 0.26 0.26 0.27 0.27 0.28 0.28 0.29 0.29 0.30 0.30 0.30 0.31 0.31 0.31 0.32 0.32 0.32 0.32
+ADD Scenario 1 Total 11.40 11.72 12.06 12.41 12.77 13.14 13.53 13.93 14.34 14.76 15.20 15.61 16.04 16.47 16.92 17.39 17.85 18.32 18.81 19.31 19.83 20.34 20.87 21.41
+ADD Scenario 2 Total 11.40 11.72 12.06 12.41 12.77 13.14 13.53 13.93 14.34 14.76 15.20 15.61 16.04 16.47 16.92 17.39 17.69 18.00 18.31 18.63 18.96 19.28 19.60 19.92
+ADD Scenario 3 Total 11.40 11.72 12.06 12.41 12.77 13.14 13.53 13.93 14.34 14.76 15.20 15.61 16.04 16.47 16.92 17.39 17.70 18.02 18.34 18.67 19.01 19.34 19.67 20.02
+Appendix C
+Table C-1
+Average Day Demand
+Yamhill County Water Supply Analysis
+2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050
+0.38 0.39 0.39 0.40 0.41 0.42 0.43 0.44 0.45 0.46 0.47 0.48 0.50 0.51 0.52 0.53 0.54 0.56 0.57 0.58 0.60 0.61 0.62 0.64 0.65 0.67 0.68
+0.34 0.34 0.35 0.35 0.35 0.35 0.35 0.36 0.36 0.36 0.36 0.36 0.37 0.37 0.37 0.37 0.38 0.38 0.38 0.38 0.38 0.39 0.39 0.39 0.39 0.40 0.40
+0.34 0.34 0.35 0.36 0.37 0.38 0.39 0.39 0.40 0.41 0.42 0.43 0.44 0.45 0.46 0.47 0.49 0.50 0.51 0.52 0.53 0.54 0.56 0.57 0.58 0.60 0.61
+0.41 0.41 0.42 0.43 0.43 0.44 0.45 0.45 0.46 0.47 0.48 0.48 0.49 0.50 0.51 0.52 0.52 0.53 0.54 0.55 0.56 0.57 0.58 0.59 0.60 0.61 0.62
+0.38 0.38 0.38 0.38 0.38 0.39 0.39 0.39 0.39 0.39 0.39 0.40 0.40 0.40 0.40 0.40 0.40 0.41 0.41 0.41 0.41 0.41 0.41 0.42 0.42 0.42 0.42
+0.38 0.38 0.39 0.39 0.40 0.41 0.41 0.42 0.43 0.43 0.44 0.45 0.45 0.46 0.47 0.48 0.48 0.49 0.50 0.51 0.52 0.52 0.53 0.54 0.55 0.56 0.57
+0.70 0.72 0.75 0.77 0.80 0.82 0.85 0.88 0.91 0.94 0.97 1.00 1.04 1.07 1.11 1.14 1.18 1.22 1.26 1.30 1.35 1.39 1.44 1.49 1.54 1.59 1.64
+0.60 0.61 0.62 0.62 0.63 0.63 0.64 0.65 0.65 0.66 0.66 0.67 0.67 0.68 0.68 0.69 0.70 0.70 0.71 0.71 0.72 0.72 0.73 0.74 0.74 0.75 0.76
+0.60 0.61 0.63 0.66 0.68 0.70 0.72 0.75 0.77 0.80 0.82 0.85 0.88 0.91 0.94 0.97 1.00 1.04 1.07 1.11 1.15 1.18 1.22 1.26 1.31 1.35 1.39
+0.91 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94
+0.91 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94 0.94
+0.91 0.94 0.97 1.00 1.03 1.07 1.10 1.14 1.18 1.22 1.26 1.30 1.34 1.39 1.43 1.48 1.53 1.58 1.63 1.69 1.74 1.80 1.86 1.92 1.99 2.05 2.12
+0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78
+0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78 0.78
+0.90 0.91 0.92 0.94 0.95 0.96 0.98 0.99 1.01 1.02 1.04 1.05 1.07 1.09 1.10 1.12 1.14 1.15 1.17 1.19 1.21 1.22 1.24 1.26 1.28 1.30 1.32
+12.12 12.50 12.88 13.28 13.69 14.12 14.56 15.01 15.47 15.95 16.45 16.96 17.48 18.02 18.58 19.16 19.75 20.36 21.00 21.65 22.32 23.01 23.72 24.46 25.22 26.00 26.80
+10.58 10.74 10.82 10.91 10.99 11.08 11.16 11.25 11.34 11.42 11.51 11.60 11.69 11.78 11.87 11.96 12.06 12.15 12.24 12.34 12.44 12.53 12.63 12.73 12.83 12.92 13.03
+10.58 10.74 11.07 11.42 11.77 12.13 12.51 12.90 13.30 13.71 14.13 14.57 15.02 15.49 15.97 16.47 16.98 17.50 18.04 18.60 19.18 19.78 20.39 21.02 21.67 22.34 23.04
+4.06 4.12 4.19 4.26 4.33 4.41 4.48 4.55 4.63 4.71 4.79 4.87 4.95 5.03 5.11 5.20 5.28 5.37 5.46 5.55 5.65 5.74 5.84 5.93 6.03 6.13 6.24
+4.06 4.12 4.16 4.19 4.23 4.26 4.30 4.33 4.37 4.41 4.44 4.48 4.52 4.56 4.59 4.63 4.67 4.71 4.75 4.79 4.83 4.87 4.91 4.95 4.99 5.03 5.07
+4.06 4.12 4.21 4.29 4.38 4.47 4.56 4.66 4.75 4.85 4.95 5.05 5.16 5.26 5.37 5.48 5.59 5.71 5.82 5.94 6.07 6.19 6.32 6.45 6.58 6.71 6.85
+1.99 2.05 2.11 2.17 2.24 2.31 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37
+1.99 2.05 2.11 2.17 2.24 2.31 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37 2.37
+1.99 2.05 2.11 2.17 2.24 2.31 2.37 2.41 2.45 2.48 2.52 2.56 2.60 2.64 2.67 2.71 2.76 2.80 2.84 2.88 2.92 2.97 3.01 3.06 3.10 3.15 3.20
+0.30 0.31 0.31 0.31 0.31 0.31 0.31 0.32 0.32 0.32 0.32 0.32 0.32 0.33 0.33 0.33 0.33 0.33 0.33 0.34 0.34 0.34 0.34 0.34 0.35 0.35 0.35
+0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.30 0.31 0.31 0.31 0.31 0.31 0.31 0.31
+0.30 0.30 0.30 0.30 0.30 0.30 0.31 0.31 0.31 0.31 0.31 0.31 0.32 0.32 0.32 0.32 0.32 0.32 0.33 0.33 0.33 0.33 0.33 0.33 0.34 0.34 0.34
+0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33
+0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33
+0.33 0.33 0.33 0.34 0.35 0.35 0.36 0.36 0.37 0.38 0.38 0.39 0.40 0.40 0.41 0.42 0.42 0.43 0.44 0.45 0.45 0.46 0.47 0.48 0.48 0.49 0.50
+21.97 22.54 23.10 23.67 24.27 24.87 25.50 26.07 26.66 27.27 27.89 28.54 29.20 29.88 30.58 31.30 32.04 32.80 33.59 34.40 35.23 36.08 36.96 37.87 38.80 39.76 40.75
+20.25 20.59 20.78 20.97 21.17 21.36 21.56 21.69 21.83 21.96 22.10 22.23 22.37 22.51 22.65 22.79 22.93 23.07 23.21 23.36 23.50 23.65 23.80 23.95 24.10 24.25 24.40
+20.36 20.72 21.28 21.87 22.46 23.08 23.71 24.33 24.96 25.61 26.28 26.97 27.68 28.40 29.15 29.92 30.71 31.52 32.35 33.21 34.09 35.00 35.93 36.89 37.88 38.90 39.94
+Appendix C
+Table C-2
+Maximum Day Demand
+Yamhill County Water Supply Analysis
+Table C-2.  Summary of Maximum Day Demand Projections with Build-Out Scenarios ( in million gallons per day)
+MDD per capita (gpd) 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Amity
+Scenario 1 323 0.48 0.49 0.50 0.51 0.52 0.54 0.55 0.56 0.57 0.59 0.60 0.62 0.63 0.64 0.66 0.67 0.69 0.71 0.72 0.74 0.76 0.77 0.79 0.81
+Scenario 2 323 0.48 0.49 0.50 0.51 0.52 0.54 0.55 0.56 0.57 0.59 0.60 0.62 0.63 0.64 0.66 0.67 0.68 0.69 0.70 0.71 0.71 0.72 0.73 0.74
+Scenario 3 323 0.48 0.49 0.50 0.51 0.52 0.54 0.55 0.56 0.57 0.59 0.60 0.62 0.63 0.64 0.66 0.67 0.68 0.69 0.70 0.71 0.71 0.72 0.73 0.74
+Carlton
+Scenario 1 400 0.61 0.62 0.63 0.64 0.65 0.66 0.67 0.68 0.69 0.70 0.71 0.72 0.74 0.75 0.76 0.77 0.78 0.80 0.81 0.82 0.84 0.85 0.86 0.88
+Scenario 2 400 0.61 0.62 0.63 0.64 0.65 0.66 0.67 0.68 0.69 0.70 0.71 0.72 0.74 0.75 0.76 0.77 0.78 0.78 0.79 0.80 0.80 0.81 0.82 0.82
+Scenario 3 400 0.61 0.62 0.63 0.64 0.65 0.66 0.67 0.68 0.69 0.70 0.71 0.72 0.74 0.75 0.76 0.77 0.78 0.78 0.79 0.80 0.80 0.81 0.82 0.82
+Dayton
+Scenario 1 225 0.48 0.49 0.51 0.53 0.54 0.56 0.58 0.60 0.62 0.64 0.66 0.68 0.71 0.73 0.75 0.78 0.81 0.83 0.86 0.89 0.92 0.95 0.98 1.01
+Scenario 2 225 0.48 0.49 0.51 0.53 0.54 0.56 0.58 0.60 0.62 0.64 0.66 0.68 0.71 0.73 0.75 0.78 0.79 0.81 0.82 0.83 0.85 0.86 0.88 0.89
+Scenario 3 225 0.48 0.49 0.51 0.53 0.54 0.56 0.58 0.60 0.62 0.64 0.66 0.68 0.71 0.73 0.75 0.78 0.79 0.81 0.82 0.83 0.85 0.86 0.88 0.89
+Dundee
+Scenario 1 315 0.82 0.85 0.88 0.92 0.96 1.00 1.04 1.08 1.12 1.17 1.22 1.27 1.32 1.37 1.43 1.48 1.53 1.58 1.64 1.69 1.75 1.80 1.86 1.93
+Scenario 2 315 0.82 0.85 0.88 0.92 0.96 1.00 1.04 1.08 1.12 1.17 1.22 1.27 1.32 1.37 1.43 1.48 1.53 1.58 1.64 1.69 1.75 1.80 1.86 1.93
+Scenario 3 315 0.82 0.85 0.88 0.92 0.96 1.00 1.04 1.08 1.12 1.17 1.22 1.27 1.32 1.37 1.43 1.48 1.53 1.58 1.64 1.69 1.75 1.80 1.86 1.93
+Lafayette
+Scenario 1 323 0.84 0.89 0.95 1.02 1.08 1.16 1.23 1.32 1.41 1.50 1.60 1.62 1.65 1.67 1.70 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72
+Scenario 2 323 0.84 0.89 0.95 1.02 1.08 1.16 1.23 1.32 1.41 1.50 1.60 1.62 1.65 1.67 1.70 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72
+Scenario 3 323 0.84 0.89 0.95 1.02 1.08 1.16 1.23 1.32 1.41 1.50 1.60 1.62 1.65 1.67 1.70 1.72 1.75 1.78 1.80 1.83 1.86 1.88 1.91 1.94
+McMinnville
+Scenario 1 578 14.56 15.01 15.48 15.96 16.45 16.96 17.49 18.03 18.59 19.17 19.76 20.37 21.01 21.66 22.33 23.02 23.73 24.47 25.23 26.01 26.82 27.65 28.50 29.39
+Scenario 2 578 14.56 15.01 15.48 15.96 16.45 16.96 17.49 18.03 18.59 19.17 19.76 20.37 21.01 21.66 22.33 23.02 23.38 23.74 24.11 24.48 24.86 25.25 25.64 26.03
+Scenario 3 578 14.56 15.01 15.48 15.96 16.45 16.96 17.49 18.03 18.59 19.17 19.76 20.37 21.01 21.66 22.33 23.02 23.38 23.74 24.11 24.48 24.86 25.25 25.64 26.03
+Newberg
+Scenario 1 284 5.31 5.42 5.53 5.64 5.76 5.88 6.00 6.12 6.25 6.38 6.51 6.64 6.78 6.92 7.06 7.20 7.35 7.50 7.65 7.81 7.97 8.11 8.24 8.38
+Scenario 2 284 5.31 5.42 5.53 5.64 5.76 5.88 6.00 6.12 6.25 6.38 6.51 6.64 6.78 6.92 7.06 7.20 7.35 7.50 7.65 7.81 7.97 8.11 8.24 8.38
+Scenario 3 284 5.31 5.42 5.53 5.64 5.76 5.88 6.00 6.12 6.25 6.38 6.51 6.64 6.78 6.92 7.06 7.20 7.35 7.50 7.65 7.81 7.97 8.11 8.24 8.38
+Sheridan
+Scenario 1 381 2.15 2.22 2.28 2.35 2.42 2.50 2.57 2.65 2.73 2.81 2.89 2.98 3.07 3.16 3.26 3.35 3.45 3.56 3.66 3.77 3.89 4.00 4.12 4.25
+Scenario 2 381 2.15 2.22 2.28 2.35 2.42 2.50 2.57 2.65 2.73 2.81 2.89 2.98 3.07 3.16 3.26 3.35 3.45 3.56 3.66 3.77 3.89 4.00 4.12 4.25
+Scenario 3 381 2.15 2.22 2.28 2.35 2.42 2.50 2.57 2.65 2.73 2.81 2.89 2.98 3.07 3.16 3.26 3.35 3.45 3.56 3.66 3.77 3.89 4.00 4.12 4.25
+Willamina
+Scenario 1 319 0.59 0.59 0.59 0.60 0.60 0.60 0.61 0.61 0.61 0.62 0.62 0.62 0.63 0.63 0.63 0.64 0.64 0.64 0.65 0.65 0.65 0.66 0.66 0.67
+Scenario 2 319 0.59 0.59 0.59 0.60 0.60 0.60 0.61 0.61 0.61 0.62 0.62 0.62 0.63 0.63 0.63 0.64 0.64 0.64 0.64 0.64 0.65 0.65 0.65 0.65
+Scenario 3 319 0.59 0.59 0.59 0.60 0.60 0.60 0.61 0.61 0.61 0.62 0.62 0.62 0.63 0.63 0.63 0.64 0.64 0.64 0.64 0.64 0.65 0.65 0.65 0.65
+Yamhill
+Scenario 1 350 0.59 0.60 0.61 0.62 0.63 0.64 0.65 0.66 0.67 0.68 0.69 0.71 0.72 0.73 0.74 0.76 0.77 0.78 0.79 0.81 0.82 0.82 0.82 0.82
+Scenario 2 350 0.59 0.60 0.61 0.62 0.63 0.64 0.65 0.66 0.67 0.68 0.69 0.71 0.72 0.73 0.74 0.76 0.77 0.78 0.79 0.81 0.82 0.82 0.82 0.82
+Scenario 3 350 0.59 0.60 0.61 0.62 0.63 0.64 0.65 0.66 0.67 0.68 0.69 0.71 0.72 0.73 0.74 0.76 0.76 0.77 0.77 0.78 0.79 0.79 0.80 0.81
+MDD Scenario 1 Total 26.42 27.18 27.97 28.78 29.62 30.49 31.38 32.31 33.26 34.25 35.27 36.24 37.23 38.26 39.31 40.40 41.48 42.60 43.74 44.92 46.13 47.34 48.58 49.85
+MDD Scenario 2 Total 26.42 27.18 27.97 28.78 29.62 30.49 31.38 32.31 33.26 34.25 35.27 36.24 37.23 38.26 39.31 40.40 41.10 41.81 42.53 43.27 44.02 44.75 45.48 46.24
+MDD Scenario 3 Total 26.42 27.18 27.97 28.78 29.62 30.49 31.38 32.31 33.26 34.25 35.27 36.24 37.23 38.26 39.31 40.40 41.12 41.85 42.59 43.35 44.12 44.88 45.65 46.44
+Appendix C
+Table C-2
+Maximum Day Demand
+Yamhill County Water Supply Analysis
+2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050
+0.83 0.85 0.87 0.89 0.91 0.93 0.95 0.97 1.00 1.02 1.04 1.07 1.09 1.12 1.14 1.17 1.20 1.22 1.25 1.28 1.31 1.34 1.37 1.41 1.44 1.47 1.51
+0.75 0.76 0.76 0.77 0.77 0.77 0.78 0.78 0.79 0.79 0.80 0.80 0.81 0.81 0.82 0.82 0.83 0.83 0.83 0.84 0.84 0.85 0.85 0.86 0.86 0.87 0.87
+0.75 0.76 0.77 0.79 0.81 0.83 0.85 0.87 0.89 0.91 0.93 0.95 0.97 1.00 1.02 1.04 1.07 1.09 1.12 1.14 1.17 1.20 1.23 1.25 1.28 1.31 1.34
+0.89 0.91 0.92 0.94 0.95 0.97 0.98 1.00 1.01 1.03 1.05 1.06 1.08 1.10 1.12 1.14 1.15 1.17 1.19 1.21 1.23 1.25 1.27 1.29 1.31 1.33 1.36
+0.83 0.84 0.84 0.84 0.85 0.85 0.85 0.86 0.86 0.86 0.87 0.87 0.87 0.88 0.88 0.89 0.89 0.89 0.90 0.90 0.90 0.91 0.91 0.91 0.92 0.92 0.93
+0.83 0.84 0.85 0.86 0.88 0.89 0.91 0.92 0.94 0.95 0.97 0.98 1.00 1.01 1.03 1.05 1.06 1.08 1.10 1.12 1.14 1.15 1.17 1.19 1.21 1.23 1.25
+1.05 1.08 1.12 1.16 1.20 1.24 1.28 1.32 1.36 1.41 1.46 1.50 1.55 1.61 1.66 1.72 1.77 1.83 1.89 1.96 2.02 2.09 2.16 2.23 2.31 2.38 2.46
+0.91 0.92 0.93 0.94 0.94 0.95 0.96 0.97 0.98 0.98 0.99 1.00 1.01 1.02 1.03 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.11 1.12 1.13
+0.91 0.92 0.95 0.98 1.02 1.05 1.08 1.12 1.16 1.20 1.24 1.28 1.32 1.37 1.41 1.46 1.51 1.56 1.61 1.66 1.72 1.78 1.83 1.90 1.96 2.02 2.09
+1.99 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06
+1.99 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06 2.06
+1.99 2.06 2.13 2.20 2.27 2.35 2.42 2.50 2.59 2.67 2.76 2.85 2.95 3.05 3.15 3.25 3.36 3.47 3.59 3.71 3.83 3.96 4.09 4.23 4.37 4.52 4.67
+1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72
+1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72 1.72
+1.97 2.00 2.03 2.06 2.09 2.12 2.15 2.19 2.22 2.25 2.29 2.32 2.36 2.39 2.43 2.46 2.50 2.54 2.58 2.61 2.65 2.69 2.73 2.77 2.82 2.86 2.90
+30.30 31.24 32.21 33.20 34.23 35.30 36.39 37.52 38.68 39.88 41.12 42.39 43.70 45.06 46.46 47.90 49.38 50.91 52.49 54.12 55.79 57.52 59.31 61.15 63.04 65.00 67.01
+26.44 26.85 27.06 27.27 27.48 27.69 27.90 28.12 28.34 28.56 28.78 29.00 29.23 29.45 29.68 29.91 30.14 30.38 30.61 30.85 31.09 31.33 31.57 31.82 32.06 32.31 32.56
+26.44 26.85 27.68 28.54 29.42 30.33 31.27 32.24 33.24 34.27 35.34 36.43 37.56 38.73 39.93 41.16 42.44 43.76 45.11 46.51 47.95 49.44 50.97 52.55 54.18 55.86 57.59
+8.52 8.66 8.80 8.95 9.10 9.25 9.41 9.56 9.72 9.88 10.05 10.22 10.39 10.56 10.74 10.92 11.10 11.28 11.47 11.66 11.86 12.05 12.26 12.46 12.67 12.88 13.09
+8.52 8.66 8.73 8.80 8.88 8.95 9.03 9.10 9.18 9.25 9.33 9.41 9.49 9.57 9.65 9.73 9.81 9.89 9.97 10.06 10.14 10.22 10.31 10.40 10.48 10.57 10.66
+8.52 8.66 8.84 9.02 9.20 9.39 9.58 9.78 9.98 10.19 10.40 10.61 10.83 11.05 11.28 11.51 11.74 11.98 12.23 12.48 12.74 13.00 13.26 13.54 13.81 14.10 14.39
+4.37 4.51 4.64 4.78 4.92 5.07 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22
+4.37 4.51 4.64 4.78 4.92 5.07 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22 5.22
+4.37 4.51 4.64 4.78 4.92 5.07 5.22 5.30 5.38 5.46 5.54 5.63 5.71 5.80 5.88 5.97 6.06 6.15 6.25 6.34 6.43 6.53 6.63 6.73 6.83 6.93 7.04
+0.67 0.67 0.68 0.68 0.68 0.69 0.69 0.69 0.70 0.70 0.71 0.71 0.71 0.72 0.72 0.72 0.73 0.73 0.74 0.74 0.74 0.75 0.75 0.76 0.76 0.76 0.77
+0.65 0.65 0.66 0.66 0.66 0.66 0.66 0.66 0.66 0.66 0.66 0.66 0.66 0.67 0.67 0.67 0.67 0.67 0.67 0.67 0.67 0.67 0.67 0.67 0.68 0.68 0.68
+0.65 0.65 0.66 0.66 0.67 0.67 0.67 0.68 0.68 0.68 0.69 0.69 0.69 0.70 0.70 0.71 0.71 0.71 0.72 0.72 0.72 0.73 0.73 0.74 0.74 0.74 0.75
+0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82
+0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82
+0.82 0.82 0.84 0.85 0.86 0.88 0.89 0.91 0.92 0.94 0.96 0.97 0.99 1.01 1.02 1.04 1.06 1.08 1.09 1.11 1.13 1.15 1.17 1.19 1.21 1.23 1.25
+51.17 52.52 53.84 55.20 56.60 58.04 59.52 60.89 62.30 63.75 65.24 66.78 68.36 69.99 71.66 73.38 75.16 76.98 78.86 80.79 82.79 84.83 86.94 89.12 91.35 93.65 96.02
+47.00 47.78 48.22 48.65 49.10 49.55 50.01 50.32 50.63 50.94 51.26 51.57 51.89 52.22 52.54 52.87 53.20 53.54 53.87 54.21 54.55 54.90 55.24 55.59 55.94 56.30 56.66
+47.24 48.06 49.38 50.74 52.14 53.59 55.07 56.51 58.00 59.53 61.10 62.72 64.38 66.09 67.85 69.66 71.51 73.43 75.39 77.41 79.49 81.63 83.83 86.09 88.41 90.81 93.27
+Appendix C
+Table C-3
+Population Forecast
+Yamhill County Water Supply Analysis
+Table C-3.  Summary Population Projections with Build-Out Scenarios
+2000-2010 2011-2015 2016-2020 2021-2025 2026-2050 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Amity
+Scenario 1 2.32% 2.32% 2.32% 2.32% 2.32% 1,478 1,512 1,547 1,583 1,620 1,658 1,696 1,735 1,776 1,817 1,859 1,902 1,946 1,992 2,038 2,085 2,134 2,183 2,234 2,286 2,339 2,393
+Scenario 2 2.32% 2.32% 1.16% 1.16% 0.58% 1,478 1,512 1,547 1,583 1,620 1,658 1,696 1,735 1,776 1,817 1,859 1,902 1,946 1,992 2,038 2,085 2,109 2,134 2,159 2,184 2,209 2,235
+Scenario 3 2.32% 2.32% 1.16% 1.16% 2.32% 1,478 1,512 1,547 1,583 1,620 1,658 1,696 1,735 1,776 1,817 1,859 1,902 1,946 1,992 2,038 2,085 2,109 2,134 2,159 2,184 2,209 2,235
+Carlton
+Scenario 1 1.62% 1.62% 1.62% 1.62% 1.62% 1,514 1,539 1,564 1,589 1,615 1,641 1,667 1,694 1,722 1,750 1,778 1,807 1,836 1,866 1,896 1,927 1,958 1,990 2,023 2,055 2,089 2,123
+Scenario 2 1.62% 1.62% 0.81% 0.81% 0.41% 1,514 1,539 1,564 1,589 1,615 1,641 1,667 1,694 1,722 1,750 1,778 1,807 1,836 1,866 1,896 1,927 1,943 1,959 1,975 1,991 2,007 2,023
+Scenario 3 1.62% 1.62% 0.81% 0.81% 1.62% 1,514 1,539 1,564 1,589 1,615 1,641 1,667 1,694 1,722 1,750 1,778 1,807 1,836 1,866 1,896 1,927 1,943 1,959 1,975 1,991 2,007 2,023
+Dayton
+Scenario 1 3.34% 3.34% 3.34% 3.34% 3.34% 2,119 2,190 2,263 2,338 2,416 2,497 2,580 2,666 2,755 2,847 2,942 3,041 3,142 3,247 3,355 3,467 3,583 3,703 3,826 3,954 4,086 4,222
+Scenario 2 3.34% 3.34% 1.67% 1.67% 0.83% 2,119 2,190 2,263 2,338 2,416 2,497 2,580 2,666 2,755 2,847 2,942 3,041 3,142 3,247 3,355 3,467 3,525 3,584 3,644 3,705 3,766 3,829
+Scenario 3 3.34% 3.34% 1.67% 1.67% 3.34% 2,119 2,190 2,263 2,338 2,416 2,497 2,580 2,666 2,755 2,847 2,942 3,041 3,142 3,247 3,355 3,467 3,525 3,584 3,644 3,705 3,766 3,829
+Dundee
+Scenario 1 4.05% 4.05% 3.33% 3.33% 0.00% 2,598 2,703 2,813 2,927 3,045 3,169 3,297 3,431 3,570 3,714 3,865 4,021 4,184 4,354 4,530 4,713 4,870 5,032 5,200 5,373 5,552 5,737
+Scenario 2 4.05% 4.05% 3.33% 3.33% 0.00% 2,598 2,703 2,813 2,927 3,045 3,169 3,297 3,431 3,570 3,714 3,865 4,021 4,184 4,354 4,530 4,713 4,870 5,032 5,200 5,373 5,552 5,737
+Scenario 3 4.05% 4.05% 3.33% 3.33% 3.33% 2,598 2,703 2,813 2,927 3,045 3,169 3,297 3,431 3,570 3,714 3,865 4,021 4,184 4,354 4,530 4,713 4,870 5,032 5,200 5,373 5,552 5,737
+Lafayette
+Scenario 1 6.70% 1.50% 0.00% 0.00% 0.00% 2,586 2,759 2,944 3,141 3,352 3,576 3,816 4,072 4,345 4,636 4,946 5,020 5,096 5,172 5,250 5,328 5,328 5,328 5,328 5,328 5,328 5,328
+Scenario 2 6.70% 1.50% 0.00% 0.00% 0.00% 2,586 2,759 2,944 3,141 3,352 3,576 3,816 4,072 4,345 4,636 4,946 5,020 5,096 5,172 5,250 5,328 5,328 5,328 5,328 5,328 5,328 5,328
+Scenario 3 6.70% 1.50% 1.50% 1.50% 1.50% 2,586 2,759 2,944 3,141 3,352 3,576 3,816 4,072 4,345 4,636 4,946 5,020 5,096 5,172 5,250 5,328 5,408 5,489 5,572 5,655 5,740 5,826
+McMinnville
+Scenario 1 3.10% 3.10% 3.10% 3.10% 3.10% 25,216 25,998 26,804 27,634 28,491 29,374 30,285 31,224 32,192 33,190 34,218 35,279 36,373 37,500 38,663 39,861 41,097 42,371 43,684 45,039 46,435 47,874
+Scenario 2 3.10% 3.10% 1.55% 1.55% 0.77% 25,216 25,998 26,804 27,634 28,491 29,374 30,285 31,224 32,192 33,190 34,218 35,279 36,373 37,500 38,663 39,861 40,479 41,106 41,744 42,391 43,048 43,715
+Scenario 3 3.10% 3.10% 1.55% 1.55% 3.10% 25,216 25,998 26,804 27,634 28,491 29,374 30,285 31,224 32,192 33,190 34,218 35,279 36,373 37,500 38,663 39,861 40,479 41,106 41,744 42,391 43,048 43,715
+Newberg
+Scenario 1 2.05% 2.05% 2.05% 1.67% 1.67% 18,735 19,119 19,512 19,912 20,320 20,737 21,162 21,597 22,040 22,492 22,953 23,424 23,904 24,395 24,895 25,406 25,927 26,459 27,002 27,556 28,121 28,590
+Scenario 2 2.05% 2.05% 2.05% 1.67% 0.83% 18,735 19,119 19,512 19,912 20,320 20,737 21,162 21,597 22,040 22,492 22,953 23,424 23,904 24,395 24,895 25,406 25,927 26,459 27,002 27,556 28,121 28,590
+Scenario 3 2.05% 2.05% 2.05% 1.67% 2.05% 18,735 19,119 19,512 19,912 20,320 20,737 21,162 21,597 22,040 22,492 22,953 23,424 23,904 24,395 24,895 25,406 25,927 26,459 27,002 27,556 28,121 28,590
+Sheridan
+Scenario 1 3.00% 3.00% 3.00% 0.00% 0.00% 5,655 5,825 5,999 6,179 6,365 6,556 6,752 6,955 7,163 7,378 7,600 7,827 8,062 8,304 8,553 8,810 9,074 9,346 9,627 9,915 10,213 10,519
+Scenario 2 3.00% 3.00% 3.00% 0.00% 0.00% 5,655 5,825 5,999 6,179 6,365 6,556 6,752 6,955 7,163 7,378 7,600 7,827 8,062 8,304 8,553 8,810 9,074 9,346 9,627 9,915 10,213 10,519
+Scenario 3 3.00% 3.00% 3.00% 3.00% 1.50% 5,655 5,825 5,999 6,179 6,365 6,556 6,752 6,955 7,163 7,378 7,600 7,827 8,062 8,304 8,553 8,810 9,074 9,346 9,627 9,915 10,213 10,519
+Willamina
+Scenario 1 0.54% 0.54% 0.54% 0.54% 0.54% 1,844 1,854 1,864 1,874 1,884 1,894 1,904 1,914 1,925 1,935 1,945 1,956 1,966 1,977 1,987 1,998 2,009 2,019 2,030 2,041 2,052 2,063
+Scenario 2 0.54% 0.54% 0.27% 0.27% 0.13% 1,844 1,854 1,864 1,874 1,884 1,894 1,904 1,914 1,925 1,935 1,945 1,956 1,966 1,977 1,987 1,998 2,003 2,009 2,014 2,019 2,025 2,030
+Scenario 3 0.54% 0.54% 0.27% 0.27% 0.54% 1,844 1,854 1,864 1,874 1,884 1,894 1,904 1,914 1,925 1,935 1,945 1,956 1,966 1,977 1,987 1,998 2,003 2,009 2,014 2,019 2,025 2,030
+Yamhill
+Scenario 1 1.70% 1.70% 1.70% 0.00% 0.00% 1,677 1,705 1,734 1,764 1,794 1,824 1,855 1,887 1,919 1,951 1,984 2,018 2,052 2,087 2,122 2,158 2,195 2,232 2,270 2,309 2,348 2,348
+Scenario 2 1.70% 1.70% 1.70% 0.00% 0.00% 1,677 1,705 1,734 1,764 1,794 1,824 1,855 1,887 1,919 1,951 1,984 2,018 2,052 2,087 2,122 2,158 2,195 2,232 2,270 2,309 2,348 2,348
+Scenario 3 1.70% 1.70% 0.85% 0.85% 1.70% 1,677 1,705 1,734 1,764 1,794 1,824 1,855 1,887 1,919 1,951 1,984 2,018 2,052 2,087 2,122 2,158 2,177 2,195 2,214 2,233 2,252 2,271
+Water Provider Total
+Scenario 1 63,422 65,204 67,043 68,942 70,902 72,926 75,016 77,175 79,405 81,710 84,091 86,296 88,563 90,893 93,290 95,755 98,176 100,665 103,224 105,856 108,562 111,197
+Scenario 2 63,422 65,204 67,043 68,942 70,902 72,926 75,016 77,175 79,405 81,710 84,091 86,296 88,563 90,893 93,290 95,755 97,455 99,190 100,962 102,770 104,617 106,354
+Scenario 3 63,422 65,204 67,043 68,942 70,902 72,926 75,016 77,175 79,405 81,710 84,091 86,296 88,563 90,893 93,290 95,755 97,516 99,314 101,149 103,021 104,932 106,775
+Incorporated Yamhill County 24,642 24,970 25,303 25,641 25,982 26,329 26,680 27,035 27,395 27,761 28,131 28,506 28,886 29,271 29,661 30,056 30,457 30,863 31,274 31,691 32,113 32,541
+Appendix C
+Table C-3
+Population Forecast
+Yamhill County Water Supply Analysis
+2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050
+2,448 2,505 2,563 2,623 2,684 2,746 2,810 2,875 2,942 3,010 3,080 3,151 3,224 3,299 3,376 3,454 3,534 3,616 3,700 3,786 3,874 3,964 4,056 4,150 4,246 4,345 4,446 4,549 4,654
+2,260 2,287 2,313 2,340 2,354 2,367 2,381 2,395 2,409 2,423 2,437 2,451 2,465 2,479 2,494 2,508 2,523 2,538 2,552 2,567 2,582 2,597 2,612 2,627 2,642 2,658 2,673 2,689 2,704
+2,260 2,287 2,313 2,340 2,394 2,450 2,507 2,565 2,625 2,685 2,748 2,812 2,877 2,944 3,012 3,082 3,153 3,226 3,301 3,378 3,456 3,537 3,619 3,703 3,789 3,876 3,966 4,058 4,153
+2,157 2,192 2,228 2,264 2,300 2,338 2,376 2,414 2,453 2,493 2,533 2,575 2,616 2,659 2,702 2,746 2,790 2,836 2,881 2,928 2,976 3,024 3,073 3,123 3,174 3,225 3,277 3,330 3,384
+2,039 2,056 2,073 2,089 2,098 2,106 2,115 2,123 2,132 2,141 2,149 2,158 2,167 2,176 2,184 2,193 2,202 2,211 2,220 2,229 2,238 2,247 2,256 2,265 2,275 2,284 2,293 2,302 2,312
+2,039 2,056 2,073 2,089 2,123 2,158 2,193 2,228 2,264 2,301 2,338 2,376 2,415 2,454 2,494 2,534 2,575 2,617 2,660 2,703 2,747 2,791 2,836 2,882 2,929 2,977 3,025 3,074 3,124
+4,363 4,509 4,659 4,815 4,975 5,141 5,313 5,490 5,674 5,863 6,059 6,261 6,470 6,686 6,909 7,139 7,378 7,624 7,878 8,141 8,413 8,694 8,984 9,284 9,594 9,914 10,245 10,587 10,940
+3,893 3,958 4,024 4,091 4,126 4,160 4,195 4,230 4,265 4,301 4,336 4,373 4,409 4,446 4,483 4,520 4,558 4,596 4,634 4,673 4,712 4,751 4,791 4,831 4,871 4,912 4,953 4,994 5,036
+3,893 3,958 4,024 4,091 4,228 4,369 4,515 4,666 4,821 4,982 5,148 5,320 5,498 5,681 5,871 6,067 6,269 6,479 6,695 6,918 7,149 7,388 7,634 7,889 8,152 8,424 8,706 8,996 9,296
+5,928 6,125 6,329 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540
+5,928 6,125 6,329 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540 6,540
+5,928 6,125 6,329 6,540 6,758 6,983 7,215 7,456 7,704 7,960 8,225 8,499 8,782 9,075 9,377 9,689 10,012 10,345 10,689 11,045 11,413 11,793 12,186 12,592 13,011 13,444 13,892 14,354 14,832
+5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328
+5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328 5,328
+5,914 6,002 6,092 6,184 6,276 6,371 6,466 6,563 6,662 6,761 6,863 6,966 7,070 7,176 7,284 7,393 7,504 7,617 7,731 7,847 7,964 8,084 8,205 8,328 8,453 8,580 8,708 8,839 8,972
+49,358 50,888 52,466 54,092 55,769 57,498 59,280 61,118 63,012 64,966 66,980 69,056 71,196 73,404 75,679 78,025 80,444 82,937 85,508 88,159 90,892 93,709 96,614 99,609 102,697 105,881 109,163 112,547 116,036
+44,392 45,081 45,779 46,489 46,849 47,212 47,578 47,947 48,318 48,693 49,070 49,450 49,834 50,220 50,609 51,001 51,396 51,795 52,196 52,601 53,008 53,419 53,833 54,250 54,671 55,094 55,521 55,952 56,385
+44,392 45,081 45,779 46,489 47,930 49,416 50,948 52,527 54,155 55,834 57,565 59,349 61,189 63,086 65,041 67,058 69,136 71,279 73,489 75,767 78,116 80,537 83,034 85,608 88,262 90,998 93,819 96,727 99,725
+29,067 29,551 30,044 30,545 31,055 31,572 32,099 32,634 33,178 33,732 34,294 34,866 35,448 36,039 36,640 37,251 37,872 38,504 39,146 39,798 40,462 41,137 41,823 42,520 43,229 43,950 44,683 45,428 46,186
+29,067 29,551 30,044 30,545 30,800 31,057 31,316 31,577 31,840 32,106 32,373 32,643 32,915 33,190 33,467 33,746 34,027 34,311 34,597 34,885 35,176 35,469 35,765 36,063 36,364 36,667 36,973 37,281 37,592
+29,067 29,551 30,044 30,545 31,172 31,811 32,464 33,130 33,809 34,503 35,211 35,933 36,670 37,422 38,190 38,973 39,773 40,589 41,421 42,271 43,138 44,023 44,926 45,848 46,788 47,748 48,727 49,727 50,747
+10,835 11,160 11,494 11,839 12,194 12,560 12,937 13,325 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725
+10,835 11,160 11,494 11,839 12,194 12,560 12,937 13,325 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725 13,725
+10,835 11,160 11,494 11,839 12,194 12,560 12,937 13,325 13,725 13,930 14,139 14,351 14,567 14,785 15,007 15,232 15,460 15,692 15,928 16,166 16,409 16,655 16,905 17,158 17,416 17,677 17,942 18,211 18,484
+2,074 2,085 2,096 2,108 2,119 2,130 2,142 2,153 2,165 2,176 2,188 2,200 2,212 2,223 2,235 2,247 2,259 2,272 2,284 2,296 2,308 2,321 2,333 2,346 2,358 2,371 2,383 2,396 2,409
+2,036 2,041 2,047 2,052 2,055 2,058 2,060 2,063 2,066 2,069 2,072 2,074 2,077 2,080 2,083 2,085 2,088 2,091 2,094 2,097 2,099 2,102 2,105 2,108 2,111 2,114 2,116 2,119 2,122
+2,036 2,041 2,047 2,052 2,063 2,074 2,085 2,097 2,108 2,119 2,130 2,142 2,153 2,165 2,176 2,188 2,200 2,212 2,224 2,235 2,247 2,259 2,272 2,284 2,296 2,308 2,321 2,333 2,346
+2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348
+2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348 2,348
+2,290 2,309 2,329 2,349 2,389 2,429 2,470 2,512 2,555 2,598 2,642 2,687 2,733 2,779 2,826 2,874 2,923 2,973 3,023 3,074 3,127 3,180 3,234 3,288 3,344 3,401 3,459 3,517 3,577
+113,906 116,692 119,556 122,502 125,313 128,202 131,172 134,226 137,365 140,181 143,075 146,049 149,107 152,250 155,482 158,803 162,218 165,729 169,339 173,050 176,866 180,790 184,824 188,973 193,239 197,626 202,138 206,778 211,550
+108,127 109,935 111,780 113,663 114,692 115,737 116,798 117,876 118,971 119,672 120,378 121,090 121,808 122,531 123,260 123,995 124,736 125,482 126,235 126,993 127,757 128,527 129,304 130,086 130,875 131,670 132,471 133,279 134,093
+108,654 110,571 112,525 114,519 117,528 120,620 123,800 127,068 130,427 133,675 137,010 140,436 143,954 147,567 151,278 155,090 159,006 163,028 167,161 171,405 175,766 180,247 184,850 189,580 194,440 199,433 204,565 209,837 215,256
+32,975 33,414 33,860 34,311 34,768 35,232 35,702 36,177 36,660 37,148 37,643 38,145 38,653 39,169 39,691 40,220 40,756 41,299 41,850 42,407 42,973 43,545 44,126 44,714 45,310 45,914 46,526 47,146 47,774
+
+Appendix D
+
+Transmission Line Alignment from Yamhill County Intertie Study
+(EES, 1998)
+
+Appendix E
+
+Cost Estimate Sheets and Assumptions
+Appendix E
+Cost Estimate
+Additional Peak Rate(1)/ Raw Water Diversion and Transmission
+Volume Needed(2) Components
+    12-39 mgd (18-60 cfs) Dam/Reservoir:  4,500 ac-ft (new for Walker Res.); includes McGuire raise WTP:  Expand existing WTP to 53 mgd (increase of 40 mgd from existing)
+    3,200-10,700 ac-ft Diversion Intake:  New for Walker Reservoir; may need to upgrade capacity of Idlewood Diversion Transmission Lines:
+Raw water pipeline to WTP:  Add 48-inch pipeline for additional 40 mgd capacity (1,000 ft)     WTP to McMinnville: Add 9.8 miles @ 48-inch (40 mgd)
+    To Sheridan-Willamina
+    To Amity
+    To Yamhill-Carlton
+    To Dayton-Lafayette
+    To Dundee-Newberg
+MWL-2: McMinnville-Yamhill-Carlton     5-28 mgd (8-43 cfs) Dam/Reservoir:  McGuire Res. only WTP:  Expand existing WTP to 41 mgd (increase of 28 mgd)
+    1,500-6,700 ac-ft Diversion Intake:  Existing only –  may need to upgrade capacity Transmission Lines:
+(Walker Creek Reservoir not constructed) Raw water pipeline to WTP:  Add 42-inch pipeline for additional 28 mgd capacity (1,000 ft)     WTP to McMinnville: Add 9.8 miles @ 42-inch (28 mgd)
+    To Yamhill-Carlton
+MWL-3: McMinnville-Yamhill-Carlton-Dayton-Lafayette     5-28 mgd (8-44 cfs) Dam/Reservoir:  McGuire Res. only WTP:  Expand existing WTP to 41 mgd (increase of 28 mgd)
+    1,500-7,800 ac-ft Diversion Intake:  Existing only –  may need to upgrade capacity Transmission Lines:
+(Walker Creek Reservoir not constructed) Raw water pipeline to WTP:  Add 42-inch pipeline for additional 28 mgd capacity (1,000 ft)     WTP to McMinnville: Add 9.8 miles @ 42-inch (28 mgd)
+    To Yamhill-Carlton
+    To Dayton-Lafayette
+WIL-1: Regional     12-39 mgd (18-60 cfs) Pump station/River intake : 40 mgd (build-out) WTP: 40 mgd (build-out)
+    3,200-10,700 ac-ft WTP assumed at Dundee; 200-300 feet of lift to WTP Transmission Lines:
+(includes option to use COE Storage and/or natural stream flows) Raw water pipeline to WTP:   5,000 ft @ 48- inch (40 mgd)     To Sheridan-Willamina: 1, 4
+    To Amity: 6
+    To Yamhill-Carlton: 8, 10, 12
+    To Dayton-Lafayette: 7, 9
+    To Dundee-Newberg: 15, 16, 17, 18
+WIL-2: Dundee-Newberg     2-8 mgd (3-13 cfs) Pump station/River intake:  8 mgd WTP: 8mgd
+    600-2,300 ac-ft Raw water pipeline to WTP: 5,000 ft @ 24- inch (8 mgd) Transmission Lines:
+(includes option to use COE Storage and/or natural stream flows)     To Newberg: 18
+WIL-3: Dundee-Newberg-Dayton-Lafayette     5-14 mgd (7-22 cfs) Pump station/River intake:  14 mgd WTP: 14 mgd
+    1,300-3,800 ac-ft Raw water pipeline to WTP: 5,000 ft @ 30-inch (14 mgd) Transmission Lines:
+(includes option to use COE Storage and/or natural stream flows)     To Newberg: 18
+    To Dundee-Lafayette: 15, 16, 17
+    12-39 mgd (18-60 cfs) Dam/Reservoir : 10,000 ac-ft WTP:
+    3,200-10,700 ac-ft Pump station/Creek intake:  7 mgd     7 mgd (at Dundee)
+Reservoir intake tower (to MWL):  32 mgd     + 32 mgd (expanded at MWL)
+Raw water pipeline to WTP: Transmission Lines:
+    To Sheridan WTP: 44,000 ft @ 20-inch (7 mgd)     To Sheridan-Willamina: 1, 4
+    To MWL WTP: 40,000 ft @ 48-inch (32 mgd)     To Amity: 6
+    To Yamhill-Carlton: 8, 10, 12
+    To Dayton-Lafayette: 7, 9
+    To Dundee-Newberg: 15, 16, 17, 18
+    5-7 mgd (7-11 cfs) Dam/Reservoir:  2,000 ac-ft WTP:  7 mgd
+    1,200-2,100 ac-ft Pump station/Creek intake:  7 mgd Transmission Lines:
+Raw water pipeline to WTP:     To Willamina: 1
+    To Sheridan WTP: 44,000 ft @ 20-inch (7 mgd)     To Amity: 5
+Transmission Details (Modified from Yamhill County Intertie Study, EES, 1998):
+To Sheridan-Willamina: (1) 21,800 ft @ 10-inch; (4) 60,200 ft @ 24-inch
+To Amity: (6) 27,400 ft @ 10-inch
+To Yamhill-Carlton: (8) 3,000 ft @ 24-inch; (10) 20,500 ft @ 8-inch; (12) 15,300 ft @ 8-inch
+To Dayton-Lafayette: (7) 14,200 ft @ 24-inch; (9) 12,800 ft @ 24-inch
+To Dundee-Newberg: (15) 13,800 ft @ 24-inch; (16) 9,800 ft @ 24-inch; (17) 22,400 ft @ 24-inch; (18) 8,800 ft @ 24-in
+Willamette River Alternatives
+Upper Willamina Creek Reservoir Alternatives
+UWC-1: Regional
+UWC-2: Sheridan-Willamina-Amity
+Alternative Treatment and Finished Water Transmission Components
+McMinnville Water and Light Reservoir Alternatives
+MWL-1: Regional
+Appendix E
+Cost Estimate
+MWL-1: Regional Alternative
+Project Type Description Unit $/Unit Qty. Total Total-Rounded Notes
+Source Development Costs
+Dam/ Reservoir Storage Increase 4,500 ac-ft for Walker Creek Acre Feet 4,500.00$     4500 $20,250,000 $20,250,000
+Value comes from Upper
+Willamina Creek Reservoir Study,
+Table 8-5
+Raw Water Pipeline 48-inch pipeline for additional 40 mgd Capacity LF $208.16 1000 $208,158 $208,000
+Diversion Intake-existing only-capacity upgrade MGD 10,000.00$   40 $400,000 $400,000
+Is capacity upgrade calculated at
+the same rate as new intake?
+Treatment Costs
+Expand WTP to 53 mgd Increase of 40 mgd to existing capacity MGD $1.75 40,000,000 $87,500,000.00 $87,500,000
+Transmission Costs
+WTP to McMinnville 51,750 ft @ 42" pipe LF $179.49 51,750 $9,288,582 $9,289,000
+Pump Stations (1) HP $1,700.00 500 $850,000 $850,000
+To Sheridan-Willamina 21,800 ft. @ 10" LF $43.63 21,800 $951,045 $951,000
+60,200 @ 24" LF $89.74 60,200 $5,402,634 $5,403,000
+Pump Station (2) HP $1,700.00 375 $637,500 $638,000
+To Amity 27,400 @ 10" LF $43.63 27,400 $1,195,350 $1,195,000
+Pump Stations (1) HP $1,700.00 35 $59,500 $60,000
+To Yamhill-Carlton 3,000 ft @ 24" LF $89.74 3,000 $269,234 $269,000
+20,500 ft @ 8" LF $34.90 20,500 $715,465 $715,000
+15,300 ft @ 8" LF $34.90 15,300 $533,981 $534,000
+Pump Stations (3) HP $1,700.00 75 $127,500 $128,000
+To Dayton-Lafeyette 14,200 ft @ 24" LF $89.74 14,200 $1,274,376 $1,274,000
+12,800 ft @ 24" LF $89.74 12,800 $1,148,733 $1,149,000
+Pump Stations (2) HP $1,700.00 0 $0 $0
+To Dundee-Newberg 13,800 ft @ 24" LF $89.74 13,800 $1,238,478 $1,238,000
+9,800 ft @ 24" LF $89.74 9,800 $879,499 $879,000
+22,400 ft @ 24" LF $89.74 22,400 $2,010,282 $2,010,000
+8,800 ft @ 24" LF $89.74 8,800 $789,754 $790,000
+Pump Stations (2) HP $1,700.00 0 $0 $0
+Summary Costs Total Costs
+Total Costs-
+Rounded
+Source Development $20,858,158 $20,858,000
+Treatment $87,500,000 $87,500,000
+Transmission $27,371,913 $27,372,000
+Mitigation/ Permitting Costs $61,078,532 $61,079,000
+Contingency $33,932,518 $33,933,000
+Total $230,741,121 $230,741,000
+Appendix E
+Cost Estimate
+MWL-2: McMinnville-
+Yamhill-Carlton
+Project Type Description Unit $/Unit Qty. Total Total-Rounded Notes
+Source Development Costs
+Raw Water Pipeline
+42-inch pipeline for additional 28 mgd
+Capacity (1,000 ft) Linear Foot $179.49 1000 $179,490 $179,000
+Treatment Costs
+Expand WTP to 41 mgd
+Increase of 28 mgd from existing
+capacity gallon $1.75 28000000 $61,250,000 $61,250,000
+Transmission Costs
+WTP to McMinnville 51,750 ft @ 42" pipe Linear Foot $179.49 51750 $9,288,582 $9,289,000
+To Yamhill-Carlton 3,000 ft @ 24" Linear Foot $89.74 3000 $269,234 $269,000
+20,500 ft @ 8" Linear Foot $34.90 20500 $715,465 $715,000
+15,300 ft @ 8" Linear Foot $34.90 15300 $533,981 $534,000
+Pump Stations (3) HP $1,700.00 75 $127,500 $128,000
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $179,490 $179,000
+Treatment Costs $61,250,000 $61,250,000
+Transmission Costs $10,934,763 $10,935,000
+Mitigation/ Permitting Costs $32,563,914 $32,564,000
+Contingency $18,091,063 $18,091,000
+Total $123,019,229 $123,019,000
+Appendix E
+Cost Estimate
+MWL-3: McMinnville-Yamhill-
+Carlton-Dayton-Lafayette
+Project Type Description Unit $/Unit Qty. Total Total-Rounded Notes
+Source Development Option
+Raw Water Pipeline 42-inch pipeline for additional 28 mgd Capacity (1,000 ft) Acre Feet $179 1000 $179,490 $179,000
+Treatment Costs $/Unit-Expanded
+Expand WTP to 41 mgd Increase of 28 mgd to existing capacity gallon $1.75 28000000 $61,250,000.00 $61,250,000
+Transmission Costs
+WTP to McMinnville 51,750 ft @ 42" pipe Linear Foot $179.49 51750 $9,288,582.07 $9,289,000
+Pump Stations (1) HP $1,700.00 500 $850,000 $850,000
+To Yamhill-Carlton 3,000 ft @ 24" Linear Foot $89.74 3000 $269,234.26 $269,000
+20,500 ft @ 8" Linear Foot $34.90 20500 $715,465.12 $715,000
+15,300 ft @ 8" Linear Foot $34.90 15300 $533,981.29 $534,000
+Pump Stations (3) HP $1,700.00 75 $127,500 $128,000
+To Dayton-Lafeyette 14,200 ft @ 24" Linear Foot $89.74 14200 $1,274,375.51 $1,274,000
+12,800 ft @ 24" Linear Foot $89.74 12800 $1,148,732.85 $1,149,000
+Pump Stations (2) HP $1,700.00 0 $0 $0
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $179,490 $179,000
+Treatment Costs $61,250,000.00 $61,250,000
+Transmission Costs $14,207,871.11 $14,208,000
+Mitigation/ Permitting Costs $34,036,812.28 $34,037,000
+Contingency $27,418,543.22 $27,419,000
+Total $137,092,716 $137,093,000
+Appendix E
+Cost Estimate
+WIL-1: Regional
+Project Type Description Unit $/Unit Qty. Total Total-Rounded Notes
+Source Development Costs
+WTP at Dundee-Pump Station/ River Intake: 40 MGD 40 mgd MGD 10,000.00$      40 $400,000 $400,000
+Intake Pump Station  200-300 ft of lift to the WTP (2500 HP) HP $1,700.00 2500 $4,250,000 $4,250,000
+Raw water pipeline to WTP 5,000' @ 48" Linear Foot 208.1579718 5000 $1,040,790 $1,041,000
+Treatment
+Expand WTP to 53 mgd 40 mgd from existing capacity gallon $3.75 40000000 $187,500,000 $187,500,000
+Transmission Costs
+To Sheridan-Willamina 21,800 ft. @ 10" Linear Foot $43.63 21800 $951,045 $951,000
+60,200 @ 24" Linear Foot $89.74 60200 $5,402,634 $5,403,000
+Pump Station (2) HP $1,700.00 250 $425,000 $425,000
+To Amity 27,400 @ 10" Linear Foot $43.63 27400 $1,195,350 $1,195,000
+Pump Stations (1) HP $1,700.00 35 $59,500 $60,000
+To Yamhill-Carlton 3,000 ft @ 24" Linear Foot $89.74 3000 $269,234 $269,000
+20,500 ft @ 8" Linear Foot $34.90 20500 $715,465 $715,000
+15,300 ft @ 8" Linear Foot $34.90 15300 $533,981 $534,000
+Pump Stations (3) HP $1,700.00 75 $127,500 $128,000
+To Dayton-Lafeyette 14,200 ft @ 24" Linear Foot $89.74 14200 $1,274,376 $1,274,000
+12,800 ft @ 24" Linear Foot $89.74 12800 $1,148,733 $1,149,000
+Pump Stations (2) HP $1,700.00 0 $0 $0
+To Dundee-Newberg 13,800 ft @ 24" Linear Foot $89.74 13800 $1,238,478 $1,238,000
+9,800 ft @ 24" Linear Foot $89.74 9800 $879,499 $879,000
+22,400 ft @ 24" Linear Foot $89.74 22400 $2,010,282 $2,010,000
+8,800 ft @ 24" Linear Foot $89.74 8800 $789,754 $790,000
+Pump Stations (4) HP $1,700.00 0 $0 $0
+COE Uncontracted Water Purchase storage ac-ft 1,800.00$        10700 $19,260,000 $19,260,000
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $1,040,790 $1,041,000
+Treatment Costs $187,500,000 $187,500,000
+Transmission Costs $17,020,831 $17,021,000
+COE Water $19,260,000 $19,260,000
+Mitigation/ Permitting Costs $92,502,729 $92,503,000
+Contingency $51,390,405 $51,390,000
+Total $349,454,756 $349,455,000
+Appendix E
+Cost Estimate
+WIL-2: Dundee-Newberg
+Project Type Description Unit $/Unit Qty. Total Notes
+Source Development Costs
+Pump Station Intake 8 mgd MGD 10,000.00$      8 $80,000 $80,000
+Intake Pump Station  200-300 ft of lift to the WTP; 500 HP HP $1,700.00 500 $850,000 $850,000
+Raw water pipeline to WTP 5,000' @ 24" Linear Foot 89.74475429 5000 $448,724 $449,000
+Treatment Costs
+WTP 8 MGD gallon $3.75 8000000 $37,500,000 $37,500,000
+Transmission Costs
+To Newberg 8,800 ft @ 24" Linear Foot $89.74 8800 $789,754 $790,000
+Pump Stations (1) HP $1,700.00 0 $0 $0
+COE Uncontracted Water Purchase storage ac-ft 1,800.00$        2300 $4,140,000 $4,140,000
+Summary Costs Total Costs
+Total Costs-
+Rounded
+Source Development Costs $1,378,724 $1,379,000
+Treatment Costs $37,500,000 $37,500,000
+Transmission Costs $789,754 $790,000
+COE Water $4,140,000 $4,140,000
+Mitigation/ Permitting Costs $17,850,815 $17,851,000
+Contingency $9,917,119 $9,917,000
+Total $67,436,412 $67,436,000
+Appendix E
+Cost Estimate
+WIL-3: Dundee-Newberg-
+Dayton-Lafayette
+Project Type Description Unit $/Unit Qty. Total Total-Rounded Notes
+Source Development Costs
+Pump Station/ River Intake: 14 MGD 14 mgd MGD 10,000.00$          14 $140,000 $140,000
+Intake Pump Station  200-300 ft of lift to the WTP; 900 HP HP $1,700.00 900 $1,530,000 $1,530,000
+Raw water pipeline to WTP 5,000' @ 30" Linear Foot 113.4273978 5000 $567,137 $567,000
+Treatment Costs Linear Foot $/Unit-New
+WTP 14 MGD gallon $3.75 14000000 $65,625,000 $65,625,000
+Transmission Costs
+To Newberg 8,800 ft @ 24" $89.74 8800 $789,754 $790,000
+Pump Stations (1) Ea. $1,700.00 0 $0 $0
+To Dundee-Newberg 13,800 ft @ 24" $89.74 13800 $1,238,478 $1,238,000
+9,800 ft @ 24" $89.74 9800 $879,499 $879,000
+22,400 ft @ 24" $89.74 22400 $2,010,282 $2,010,000
+Pump Stations (3) Ea. $1,700.00 0 $0 $0
+COE Uncontracted Water Purchase Storage ac-ft 1,800.00$            3800 $6,840,000 $6,840,000
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $2,237,137 $2,237,000
+Treatment Costs $65,625,000 $65,625,000
+Transmission Costs $4,918,013 $4,918,000
+COE Water $6,840,000 $6,840,000
+Mitigation/ Permitting Costs $32,751,067 $32,751,000
+Contingency $18,195,037 $18,195,000
+Total $123,726,254 $123,726,000
+Appendix E
+Cost Estimate
+UWC-1: Regional
+Project Type Description Unit $/Unit Qty. Total total-Rounded Notes
+Source Development Costs
+Dam/ Reservoir 10,000 acre feet af 4,500.00$          10000 $45,000,000 $45,000,000
+Pump Station/ Creek Intake 7 MGD; 100 HP HP $1,700.00 100 $170,000 $170,000
+Reservoir Intake Tower 32 MGD MGD 10,000.00$        32 $320,000 $320,000
+Raw water pipeline to Sheridan 44,000 ft. @ 20" Linear Foot 76.03$               44000 $3,345,485 $3,345,000
+Raw water pipeline to MWL WTP 40,000 ft @ 48" Linear Foot 208.16$             40000 $8,326,319 $8,326,000
+Treatment Costs Linear Foot
+Sheridan WTP 7 MGD gallon $1.25 7000000 $10,937,500 $10,938,000
+Expanded at MWL 32 MGD gallon $1.75 32000000 $70,000,000 $70,000,000
+Transmission Costs
+To Sheridan-Willamina 21,800 ft. @ 10" Linear Foot $43.63 21800 $951,045 $951,000
+60,200 @ 24" Linear Foot $89.74 60200 $5,402,634 $5,403,000
+Pump Station (2) HP $1,700.00 375 $637,500 $638,000
+To Amity 27,400 @ 10" Linear Foot $43.63 27400 $1,195,350 $1,195,000
+Pump Stations (1) HP $1,700.00 35 $59,500 $60,000
+To Yamhill-Carlton 3,000 ft @ 24" Linear Foot $89.74 3000 $269,234 $269,000
+20,500 ft @ 8" Linear Foot $34.90 20500 $715,465 $715,000
+15,300 ft @ 8" Linear Foot $34.90 15300 $533,981 $534,000
+Pump Stations (3) HP $1,700.00 75 $127,500 $128,000
+To Dayton-Lafeyette 14,200 ft @ 24" Linear Foot $89.74 14200 $1,274,376 $1,274,000
+12,800 ft @ 24" Linear Foot $89.74 12800 $1,148,733 $1,149,000
+Pump Stations (2) HP $1,700.00 0 $0 $0
+To Dundee-Newberg 13,800 ft @ 24" Linear Foot $89.74 13800 $1,238,478 $1,238,000
+9,800 ft @ 24" Linear Foot $89.74 9800 $879,499 $879,000
+22,400 ft @ 24" Linear Foot $89.74 22400 $2,010,282 $2,010,000
+8,800 ft @ 24" Linear Foot $89.74 8800 $789,754 $790,000
+Pump Stations (4) HP $1,700.00 0 $0 $0
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $57,161,804 $57,162,000
+Treatment Costs $80,937,500 $80,938,000
+Transmission Costs $17,233,331 $17,233,000
+Mitigation/ Permitting Costs $69,899,686 $69,900,000
+Contingency $38,833,159 $38,833,000
+Total $264,065,480 $264,065,000
+Appendix E
+Cost Estimate
+UWC-2: Sheridan-Willamina-Amity
+Project Type Description Unit $/Unit Qty. Total Total-Rounded Notes
+Source Development Costs
+Dam/ Reservoir 2,000 acre feet af 4,500.00$     2000 $9,000,000 $9,000,000
+Creek Intake 7 MGD MGD 10,000.00$   7 $70,000 $70,000
+Pump Station 7 MGD; 100 HP HP 1,700.00$     100 $170,000 $170,000
+Raw water pipeline to Sheridan 44,000 ft. @ 20" Linear Foot 76.03$          44000 $3,345,485 $3,345,000
+Treatment Costs
+Sheridan WTP 7 MGD gallon $1.25 7000000 $10,937,500 $10,938,000
+Transmission Costs
+To Willamina 21,800 ft. @ 10" Linear Foot $43.63 21800 $951,045 $951,000
+Pump Stations (1) HP $1,700.00 375 $637,500 $638,000
+To Amity 27,400 @ 10" Linear Foot $43.63 27400 $1,195,350 $1,195,000
+Pump Stations (1) HP $1,700.00 35 $59,500 $60,000
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $12,585,485 $12,585,000
+Treatment Costs $10,937,500 $10,938,000
+Transmission Costs $2,843,395 $2,843,000
+Mitigation/ Permitting Costs $11,864,871 $11,865,000
+Contingency $6,591,595 $6,592,000
+Total $44,822,847 $44,823,000
+Appendix E
+Cost Estimate
+GRC-1: Regional
+Project Type Description Unit $/Unit Qty. Total total-Rounded Notes
+Source Development Costs
+Dam/ Reservoir 10,000 acre feet af 4,500.00$          10000 $45,000,000 $45,000,000
+Diversion Intake 40 mgd MGD 10,000.00$        40 $400,000 $400,000
+Raw water pipeline to MWL WTP 5000 ft @ 48" Linear Foot 208.16$             5000 $1,040,790 $1,041,000
+Treatment Costs Linear Foot
+MWL WTP 40 MGD gallon $1.25 40000000 $62,500,000 $62,500,000
+Transmission Costs
+To Sheridan-Willamina 21,800 ft. @ 10" Linear Foot $43.63 21800 $951,045 $951,000
+60,200 @ 24" Linear Foot $89.74 60200 $5,402,634 $5,403,000
+Pump Station (2) HP $1,700.00 375 $637,500 $638,000
+To Amity 27,400 @ 10" Linear Foot $43.63 27400 $1,195,350 $1,195,000
+Pump Stations (1) HP $1,700.00 35 $59,500 $60,000
+To Yamhill-Carlton 3,000 ft @ 24" Linear Foot $89.74 3000 $269,234 $269,000
+20,500 ft @ 8" Linear Foot $34.90 20500 $715,465 $715,000
+15,300 ft @ 8" Linear Foot $34.90 15300 $533,981 $534,000
+Pump Stations (3) HP $1,700.00 75 $127,500 $128,000
+To Dayton-Lafeyette 14,200 ft @ 24" Linear Foot $89.74 14200 $1,274,376 $1,274,000
+12,800 ft @ 24" Linear Foot $89.74 12800 $1,148,733 $1,149,000
+Pump Stations (2) HP $1,700.00 0 $0 $0
+To Dundee-Newberg 13,800 ft @ 24" Linear Foot $89.74 13800 $1,238,478 $1,238,000
+9,800 ft @ 24" Linear Foot $89.74 9800 $879,499 $879,000
+22,400 ft @ 24" Linear Foot $89.74 22400 $2,010,282 $2,010,000
+8,800 ft @ 24" Linear Foot $89.74 8800 $789,754 $790,000
+Pump Stations (4) HP $1,700.00 0 $0 $0
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $46,440,790 $46,441,000
+Treatment Costs $62,500,000 $62,500,000
+Transmission Costs $17,233,331 $17,233,000
+Mitigation/ Permitting Costs $56,778,354 $56,778,000
+Contingency $31,543,530 $31,544,000
+Total $214,496,006 $214,496,000
+Appendix E
+Cost Estimate
+GRC-2: Sheridan-Willamina-Amity
+Project Type Description Unit $/Unit Qty. Total Total-Rounded Notes
+Source Development Costs
+Dam/ Reservoir 2,000 acre feet af 4,500.00$     2000 $9,000,000 $9,000,000
+Creek Intake 7 MGD MGD 10,000.00$   7 $70,000 $70,000
+Raw water pipeline to Sheridan 10,000 ft. @ 20" Linear Foot 76.03$          10000 $760,338 $760,000
+Treatment Costs
+Sheridan WTP 7 MGD gallon $1.25 7000000 $10,937,500 $10,938,000
+Transmission Costs
+To Willamina 21,800 ft. @ 10" Linear Foot $43.63 21800 $951,045 $951,000
+Pump Stations (1) HP $1,700.00 375 $637,500 $638,000
+To Amity 27,400 @ 10" Linear Foot $43.63 27400 $1,195,350 $1,195,000
+Pump Stations (1) HP $1,700.00 35 $59,500 $60,000
+Summary Costs Total Costs Total Costs-Rounded
+Source Development Costs $9,830,338 $9,830,000
+Treatment Costs $10,937,500 $10,938,000
+Transmission Costs $2,843,395 $2,843,000
+Mitigation/ Permitting Costs $10,625,055 $10,625,000
+Contingency $5,902,808 $5,903,000
+Total $40,139,096 $40,139,000

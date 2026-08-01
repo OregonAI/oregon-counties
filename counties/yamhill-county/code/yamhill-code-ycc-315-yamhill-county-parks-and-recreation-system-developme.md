@@ -1,0 +1,491 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-315-yamhill-county-parks-and-recreation-system-developme
+title: 'YCC-315-YAMHILL-COUNTY-PARKS-AND-RECREATION-SYSTEM-DEVELOPMENT-CHARGE-CODE-PDF'
+doc_type: ordinance
+citation: 'YCC-315-YAMHILL-COUNTY-PARKS-AND-RECREATION-SYSTEM-DEVELOPMENT-CHARGE-CODE-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/5179/YCC-315-YAMHILL-COUNTY-PARKS-AND-RECREATION-SYSTEM-DEVELOPMENT-CHARGE-CODE-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 51a41e3aabcbd8481a25724db96273d8ecd5c155ca3567319c73b1454b9e2631
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 223.297
+    - ORS 223.304
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-315-YAMHILL-COUNTY-PARKS-AND-RECREATION-SYSTEM-DEVELOPMENT-CHARGE-CODE-PDF (YCC-315-YAMHILL-COUNTY-PARKS-AND-RECREATION-SYSTEM-DEVELOPMENT-CHARGE-CODE-PDF)
+
+## At a glance
+
+YCC-315-YAMHILL-COUNTY-PARKS-AND-RECREATION-SYSTEM-DEVELOPMENT-CHARGE-CODE-PDF — code of Yamhill County. 25 pages.
+
+## Full text
+
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 1 of 9
+
+YAMHILL COUNTY CODE
+
+CHAPTER 3: REVENUE, FINANCE, AND PURCHASING
+
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code
+
+TABLE OF CONTENTS
+Section Title
+I. POLICY, PURPOSE, AND TITLE
+3.15.01.01 Policy
+3.15.01.02 Purpose
+3.15.01.03 Title
+II. RULES OF CONSTRUCTION AND DEFINITIONS
+3.15.02.01 Rules of Construction
+3.15.02.02 Definitions
+III. IMPOSITION OF SYSTEM DEVELOPMENT CHARGES
+3.15.03.01 Development Subject to Charges
+ 3.15.03.02 Rates of Char ges; Offset
+ 3.15.03.03 Payment of Charges
+ 3.15.03.04 Exemptions
+ 3.15.03.05 Credits
+ 3.15.03.06 Appeals and Review Hearings
+ 3.15.03.07 Review
+IV. RECEIPT AND EXPENDITURE OF SYSTEM DEVELOPMENT CHARGES
+3.15.04.01 Trust Account
+3.15.04.02 Use of System Development Charges
+3.15.04.03 Prohibited Uses of System Development Charges
+3.15.04.04 Authorized Capital Improvements
+3.15.04.05 Investment of Trust Account Revenues
+3.15.04.06 Refunds of System Development Charges
+3.15.04.07 Annual Accounting Report
+3.15.04.08 Challenge of Expenditures
+V. SEVERABILITY
+ 3.15.05.01 Severability
+
+LEGISLATIVE HISTORY
+
+EXHIBIT A: Yamhill County Parks and Recreation System Development Charges Methodology Report
+
+EXHIBIT B: Yamhill County Parks and Recreation Capital Improvement Plan (1994-1997)
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 2 of 9
+
+SECTION 1 - POLICY, PURPOSE, AND TITLE
+3.15.01.01 Policy.
+a) The Board recognizes that ORS 223.297 to 223.314 authorizes local governments to impose system
+development charges on new development for the purpose of providing a source of funding for certain capital
+facilities, including parks and recreation facilities, which will serve needs created by such development.
+b) The Board further recognizes that if system development charges are not imposed on future development, a
+burden will be placed on current residents of the County who will be faced with the choice of either paying
+increased taxes and/ or other fees in order to provide the additional parks and recreation facilities required to
+serve future development, or  experiencing reduced levels of service at such facilities as a result of
+overcrowding.
+c) Pursuant to the provisions of ORS 223.297 to 223.314, the Board finds it necessary to impose system
+development charges on new development for the purpose of providing a source of funding for parks and
+recreation capital facilities to serve new development.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.01.02 Purpose. ORS 223.304 requires that system development charges must be established by ordinance
+or resolution. The ordinance or resolution must set forth a methodology that considers the cost of projected capital
+improvements needed to increase the capacity of facil ities to meet the needs of future development and it must
+provide for a credit against the system development charge for the construction of a “ qualified public
+improvement”. This ordinance is enacted to comply with these requirements and to:
+a) Identify exemptions from the system development charge,
+b) Provide for appeals and review hearings,
+c) Provide for a periodic review of the system development charge methodology and rates,
+d) Establish a trust account,
+e) Outline authorized and prohibited uses of system development charge revenues,
+f) Provide for an annual accounting report, and
+g) Establish a procedure for challenging expenditures of system development charge revenues.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.01.03 Title. This ordinance may be cited as the “Yamhill County Parks and Recreation System Development
+Charge Ordinance”.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+SECTION 2 - RULES OF CONSTRUCTION AND DEFINITIONS
+3.15.02.01 Rules of Construction. For the purposes of administration and enforcement of this ordinance, unless
+otherwise stated in this ordinance, the following rules of construction shall apply:
+a) In case of any difference of meaning or implication between the text of this ordinance and any caption,
+illustration, summary table, or illustrative table, the text shall control.
+b) The word “shall” is always mandatory and not discretionary: the word “may” is permissive.
+c) Words used in the present tense shall include the future; words used in the singular shall include the plural
+and the plural the singular, unless the context clearly indicates the contrary; and use of the masculine gender
+shall include the feminine gender.
+d) The phrase “used for” includes “arranged for”, “designed for”, “maintained for”, or “occupied for”.
+e) Unless the context clearly indicates the contrary, where a regulation involves two or more items, conditions,
+provisions, or events connected by the conjunction “ and”, “or” or “either ... or ”, the conjunction shall be
+interpreted as follows:
+i) “And” indicates that all the connected terms, conditions, provisions or events shall apply.
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 3 of 9
+ii) “Or” indicates that the connected items, conditions, or provisions or events may apply singly or in
+any combination.
+iii) “Either ... or” indicates that the connected items, conditions, provisions or events shall apply singly
+but not in combination.
+f) The word “includes” shall not limit a term to the specific example, but is intended to extend its meaning to all
+other instances or circumstances of like kind or character.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.02.02 Definitions. As used in this ordinance, the terms defined in this section shall have  the defined
+meanings unless the context requires otherwise. The following definitions apply:
+a) “Applicant” shall mean the owner or other person who applies for a building permit or development permit
+within Yamhill County.
+b) “Building” shall mean any structure, either temporary or permanent, built for the support, shelter or enclosure
+of persons, chattels or property of any kind. This term shall include tents, trailers, mobile homes or any
+vehicles serving in any way the function of a building. This term shall not include temporary construction
+sheds or trailers erected to assist in construction and maintained during the term of a building permit.
+c) “Building Permit” shall mean an official document or certificate authorizing the construction or siting of any
+building. For purposes of this Ordinance, the term “ Building Permit” shall also include any construction,
+installation or placement permit which may be required f or those structures or buildings, such as a mobile
+home, that serve as dwelling units but do not require a building permit in order to be occupied.
+d) “Capital Improvements” shall mean public facilities or assets used for parks and recreation purposes.
+e) “Citizen or Other Interested Person” shall mean any person who is a legal resident of the Yamhill County
+as evidenced by registration as a voter in the County, or by other proof of residency; or a person who owns,
+occupies, or otherwise has an interest in real p roperty which is located within the County or is otherwise
+subject to the imposition of system development charges, as outlined in Section 3 of this ordinance.
+f) “County” shall mean Yamhill County, Oregon.
+g) “Credit” shall mean the amount of money by which the parks and recreation system development charge for
+a specific development may be reduced because of construction of eligible capital facilities as outlined in this
+ordinance.
+h) “Development” shall mean a building or other land construction, or making a change in the use of a structure
+or land, in a manner which increases the usage of any capital improvements or which will contribute to the
+need for additional or enlarged capital improvements.
+i) “Dwelling Unit ” shall mean a building or a portion of a building designed for residential occupancy,
+consisting of one or more rooms which are arranged, designed or used as living quarters for one family only.
+j) “Encumbered” shall mean monies committed by c ontract or purchase order in a manner that obligates the
+County to expend the encumbered amount upon delivery of goods, the rendering of services, or the
+conveyance of real property provided by a vendor, supplier, contractor or Owner.
+k) “Improvement Fee” shall mean a fee for costs associated with capital improvements to be constructed after
+the effective date of this ordinance. Notwithstanding anything in this ordinance to the contrary, it is an incurred
+charge or cost based upon the use of or the availabilit y for use of the systems and capital improvements
+required to provide services and facilities necessary to meet the routine obligations of the use and ownership
+of property, and to provide for the public health and safety upon development.
+l) “Owner” shall mean the person holding legal title to the real property upon which development is to occur.
+m) “Person” shall mean an individual, a corporation, a partnership, an incorporated association, or any other
+similar entity.
+n) “Qualified Public Improvement” shall mean a capital improvement that is:
+i) Required as a condition of development approval;
+ii) Identified in the capital improvement plan adopted pursuant to Section 3.15.04.04; and
+1. Not located on or contiguous to property that is the subject of development approval, or
+2. Located in whole or in part on or contiguous to property that is the  subject of development
+approval and required to be built larger or with greater capacity than is necessary for the
+particular development project to which the improvement fee is related.
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 4 of 9
+o) “System Development Charge” shall mean an improvement fee assessed or collected at the time of increased
+usage of a capital improvement or issuance of a development permit or building permit. System development
+charges are separate from and in addition to any applicable tax, assessment, fee in lieu of assessment, or other
+fee or charge provided by law or imposed as a condition of  development. In this ordinance, “SDC” refers to
+the system development charge.
+p) “Yamhill County Parks and Recreation System Development Charge Methodology Report” shall mean
+the report adopted pursuant to Section 3.15.03.02, as amended and  supplemented pursuant to Section
+3.15.03.07.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+SECTION 3 - IMPOSITION OF SYSTEM DEVELOPMENT CHARGES
+3.15.03.01 Development Subject to Charges. System development charges are imposed on all new residential
+development within the unincorporated area of Yamhill County and for  the change in use, alteration, expansion
+or replacement of a dwelling unit if such change in use, alteration, expansion or replacement results in an increase
+in the number of dwelling units compared to the present use of the development. The system development charges
+shall be paid  in addition to all other fees, charges and assessments due for development, and are intended to
+provide funds only for parks and recreation capital improvements necessitated by new development.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.03.02 Rates of Charges; Offset.
+a) The County hereby adopts and incorporates by reference the report attached as Exhibit “A” to this ordinance
+entitled “Yamhill County Parks and Recreation System Development Charges Methodology Report ”, dated
+March 9, 1994. Exhibit “A” is expressly made a part of this ordinance by reference.
+b) Based on the methodology report attached as Exhibit “A” , the County hereby adopts a system development
+charge at the following rates for the following types of dwelling units:
+
+TYPE OF DWELLING UNIT  SYSTEM DEVELOPMENT CHARGE PER UNIT
+ Single Family ........................................................................$403.68
+ Multi-Family (for each unit) .................................................$294.58
+ Mobile Home ........................................................................$338.22
+
+c) Upon request by the applicant made prior to issuance of the building permit, any system development charge
+imposed by this ordinance shall be reduced by the amount previously paid as a fee to the Park Trust Fund
+under Section 10.40.06.05 of the Yamhill County Land Division Ordinance, that was attributable to the parcel
+for which the applicant’s building permit or development permit has been issued.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.03.03 Payment of Charges. Except as may be provided elsewhere in this ordinance, applicants for building
+permits within Yamhill County shall pay the applicable system development charges prior to the issuance of the
+permit.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.03.04 Exemptions. The following development shall be exempt from payment of the parks  and recreation
+system development charges:
+a) Non-residential development.
+b) Alterations, expansion or replacement of an existing dwelling unit where no additional dwelling units are
+created.
+c) The construction of accessory buildings or structures which will not create additional dwelling units and which
+do not create additional demands on the County’s capital improvements.
+d) Development with vested rights, determined as follows:
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 5 of 9
+i) Any owner of land which was the subject of a building permit or development permit issued prior
+to the effective date of this ordinance may petition the County for a vested rights determination
+which would exempt the landowner from the provisions of this ordinance for the property subject
+to the permit. Such petition shall be evaluated by the County Counsel and a decision made by the
+Board of County Commissioners based on the following criteria:
+ii) The existence of a valid, unexpired permit issued by the County authorizing the specific
+development for which a determination is sought;
+iii) Substantial expenditures or obligations made or incurred in reliance  upon the authorizing
+governmental act;
+iv) Other factors that demonstrate it is highly inequitable to deny the owner the opportunity to
+complete the previously approved development under the conditions of approval by requiring the
+owner to comply with the requirements of this ordinance. For the purposes of this paragraph, the
+following factors shall be  considered in determining whether it is inequitable to deny the  owner
+the opportunity to complete the previously approved development:
+1. Whether the injury suffered by the owner outweighs the  public cost of allowing the
+development to go forward without payment of the system development charges required by
+this ordinance; and
+2. Whether the expenses or obligations for the development were made or incurred prior to the
+effective date of this Ordinance.
+e) Temporary placement of a manufactured dwelling authorized under the Yamhill County Zoning Ordinance
+as a conditional use where the placement is allowed in conjunction with an existing dwelling as a temporary
+use for the term of a hardship suffered by the existing resident or relative.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.03.05 Credits. The County shall grant a credit against the system development charges imposed pursuant to
+Sections 3.15.03.01 and 3.15.03.02 for the donation or construction of qualified public improvements.
+a) A qualified public improvement is land or a capital facility which is:
+i) Required as a condition of development approval;
+ii) Identified in the capital improvement plan adopted pursuant to Section 3.15.04.04; and
+1. Not located on or contiguous to property that is the subject of development approval, or
+2. Located in whole or in part on or contiguous to property that is the subject of development
+approval and required to be built larger or with greater capacity than is necessary for the
+particular development project to which the improvement fee is related.
+b) Prior to issuance of a building permit or development permit, the applicant shall submit to the Director of
+Planning and Development a proposed plan and esti mate of cost for contributions of qualified public
+improvements. The proposed plan and estimate shall include:
+i) a designation of the development for which the proposed plan is being submitted;
+ii) a legal description of any land proposed to be donated and a written  appraisal prepared in
+conformity with Section 3.15.03.05(c)(i);
+iii) a list of the contemplated capital improvements contained within the plan;
+iv) an estimate of proposed construction costs certified by a professional architect or engineer; and
+v) a proposed time schedule for completion of the proposed plan.
+c) The credit provided for construction of a qualified public improvement shall be only for the cost of that portion
+of such improvement that exceeds the minimum standard facility size or capacity needed to serve the particular
+development project or property. The applicant shall have the burden of demonstrating that a particular
+improvement qualifies for credit. The amount of credit to be applied shall be determined according to the
+following standards of valuation:
+i) The value of donated lands shall be based upon a written appraisal of fair market value by a
+qualified and professional appraiser based upon comparable sales of similar property between
+unrelated parties in a bargaining transaction; and
+ii) The cost of anticipated construction of qualified public improvements shall be based upon cost
+estimates certified by a professional architect or engineer.
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 6 of 9
+d) If a donation or construction of a qualified public improvement gives rise to a credit amount greater than the
+amount of the parks and recreation SDC that would otherwise be levied against the project receiving
+development approval, the excess credit may be applied against parks and recreation SDC ’s that accrue in
+subsequent phases of the original development project. Any excess credit must be used not later than ten years
+from the date the credit is given.
+e) The decision of the Director of Planning and Development as to whether to accept the proposed plan of
+contribution and the value of such contribution shall be in writing and issued within fifteen (15) working days
+of the review. A copy shall be provided to the applicant.
+f) Any applicant who submits a proposed plan pursuant to this Section and desires the immediate issuance of a
+building permit or development permit, shall pay the applicable system development charges. Said payment
+shall be deemed paid under “ protest” and sha ll not be construed as a waiver of any review rights. Any
+difference between the amount paid and the amount due, as determined by the Director of Planning and
+Development, shall be refunded to the applicant. In no event shall a refund by County under this subsection
+exceed the amount originally paid by the applicant.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.03.06 Appeals and Review Hearings.
+a) An applicant who is required to pay a system development charge shall have the right to request a hearing to
+review the denial of either of the following:
+i) A petition for vested rights pursuant to Section 3.15.03.04(d), or
+ii) A proposed credit for contribution of qualified public improvements  pursuant to Section
+3.15.03.05.
+b) Such hearing shall be requested by the applicant within thirty (30) days of the date of first receipt of the denial.
+Failure to request a hearing within the time provided shall be deemed a waiver of such right.
+c) The request for hearing shall be filed with the Board and shall contain the following:
+i) The name and address of the applicant;
+ii) The legal description of the property in question;
+iii) If issued, the date the building permit or development permit was issued;
+iv) A brief description of the nature of the development being undertaken pursuant to the building
+permit or development permit;
+v) If paid, the date the system development charges were paid; and
+vi) A statement of the reasons why the applicant is requesting the hearing.
+d) Upon receipt of such request, the County shall schedule a hearing before the Board at a regularly scheduled
+meeting or a special meeting called for the purpose of conducting the hearing and shall provide the applicant
+written notice of the time and place of the hearing. Such hearing shall be held within forty- five (45) days of
+the date the request for hearing was filed.
+e) Such hearing before the Board shall be conducted in a manner designed to obtain all information and evidence
+relevant to the requested hearing. Formal rules of civil procedures and evidence shall not be applicable;
+however, the hearing shall be conducted in a fair and impartial manner with each party having an opportunity
+to be heard and to present information and evidence.
+f) Any applicant who requests a hearing pursuant to this Section and desires the immediate issuance of a building
+permit or development permit shall pay prior to or at the time the request for hearing is filed the applicable
+system development charges pursuant to Section 3.15.03.02. Said payment shall be deemed paid under
+“protest” and shall not be construed as a waiver of any review rights.
+g) An applicant may request a hearing under this Section without paying the applicable system development
+charges, but no building permit or development permit shall be issued until such system development charges
+are paid in the amount initially calculated or the amount approved upon completion of the review provided in
+this Section.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.03.07 Review. This ordinance and the Yamhill County Parks and Recreation System  Development Charge
+Methodology Report shall be reviewed at least once every four years. The review shall consider new estimates of
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 7 of 9
+population and other socioeconomic data, changes in the  cost of construction and land acquisition, and
+adjustments to the assumptions, conclusions or findings set forth in the report adopted by Section 3.15.03.02. The
+purpose of this review is to evaluate  and revise, if necessary, the rates of the system development charges to
+assure that they do not exceed the reasonably anticipated costs of the County’s capital improvements. In the event
+the review of the ordinance or the report alters or changes the assumptions, conclusions and findings of the report,
+or alters or changes the amount of system development charges, the report adopted by reference in Section
+3.15.03.02 shall be amended and updated to reflect the assumptions, conclusions  and findings of such reviews
+and Section 3.15.03.02 shall be amended to adopt by reference such updated reports.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+SECTION 4 - RECEIPT AND EXPENDITURE OF SYSTEM DEVELOPMENT CHARGES
+3.15.04.01 Trust Account. The County hereby establishes a separate trust account in a fund to be designated as
+the “Parks and Recreation SDC Account ”, and which shall be maintained  separate and apart from all other
+accounts of the County. All parks and recreation system  development charge payments shall be deposited into
+this fund immediately upon receipt.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.04.02 Use of System Development Charges . The monies deposited into the trust  account shall be used
+solely for the purpose of providing capital improvements necessitated by development, including, but not limited
+to:
+a) design and construction plan preparation;
+b) permitting and fees;
+c) land and materials acquisition, including any costs of acquisition or condemnation;
+d) construction of improvements and structures;
+e) design and construction of new drainage facilities required by the construction of  capital improvements and
+structures;
+f) relocating utilities required by the construction of improvements and structures;
+g) landscaping;
+h) construction management and inspection;
+i) surveying, soils and material testing;
+j) acquisition of capital equipment;
+k) repayment of monies transferred or borrowed from any budgetary fund of the County which were used to
+fund any of the capital improvements as herein provided;
+l) payment of principal and interest, necessary reserves and costs of issuance under any bonds or other
+indebtedness issued by the County to fund capital improvements;
+m) direct costs of complying with the provisions of ORS 223.297 to 223.314, including the costs of developing
+system development charges methodologies, providing an annual accounting of system development charges
+expenditures or preparing a capital improvement plan.
+n) administrative costs associated with collection of system development charge revenues.
+o) any other costs directly attributable to the provision of capital improvements necessitated by development.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.04.03 Prohibited Uses of System Development Charges. Funds on deposit in system development charge
+trust accounts shall not be used for:
+a) any expenditure that would be classified as a routine maintenance or repair expense; or
+b) costs associated with the construction of administrative office facilities that are more than an incidental part
+of other capital improvements.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 8 of 9
+3.15.04.04 Authorized Capital Improvements.
+a) Any capital improvement being funded wholly or in part  with system development charges revenue shall be
+included in the County’s capital improvement program. The capital improvement program shall:
+i) list the specific capital improvement projects that may be funded with system development charges
+revenues;
+ii) provide the cost of each capital improvement project; and
+iii) provide the estimated timing of each capital improvement project.
+b) The capital improvement program in effect at the time of the adoption of this ordinance is attached to this
+ordinance as t he Exhibit “ B” entitled “Yamhill County Parks and Recreation Capital Improvement Plan
+(1994-1997).” The capital improvement plan may be amended from time to time by Board Order without the
+amendment of this ordinance. Any amendment of the capital  improvement program shall be consistent with
+the requirements of this ordinance.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.04.05 Investment of Trust Account Revenues . Any funds on deposit in the  system development charges
+trust account which are not immediately necessary for expenditure  shall be invested by the County as deemed
+appropriate by the county treasurer. All income  derived from such investments shall be deposited in the system
+development charges trust account and used as provided herein.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.04.06 Refunds of System Development Charges . System development charges  shall be refunded in
+accordance with the following requirements:
+a) An applicant or owner shall be eligible to apply for a refund if:
+i) The building permit or development permit has expired, and the development authorized by such
+permit has not been substantially completed; or
+ii) The system development charges have not been expended or encumbered prior to the end of the
+fiscal year immediately following the tenth anniversary of the date upon which such charges were
+paid. For the purposes of this Section, system development charges collected shall be deemed to
+be expended or encumbered on the basis of the first system development charges in shall be the
+first system development charges out.
+b) The application for refund shall be filed with the Director of Planning and Development and co ntain the
+following:
+i) The name and address of the applicant;
+ii) The location of the property which was the subject of the system development charges;
+iii) A notarized sworn statement that the petitioner is the then current owner of the property on behalf
+of which the system development charges were  paid, including proof of ownership, such as a
+certified copy of the latest recorded deed;
+iv) The date the system development charges were paid;
+v) A copy of the receipt of payment for the system development charges; and, if appropriate,
+vi) The date the building permit or development permit was issued and the date of expiration.
+c) The application shall be filed within ninety (90) days of the expiration of the building permit or development
+permit or within ninety (90) days of the end of the fiscal year following the tenth anniversary of the date upon
+which the system development charges were paid. Failure to timely apply for a refund of the  system
+development charges shall waive any right to a refund.
+d) Within thirty (30) days from the date of receipt of a petition for refund, the County will advise the petitioner
+of the status of the request for refund, and if such request is valid, the system development charges shall be
+returned to the petitioner.
+e) A building permit or development permit which is subsequently issued for a development on the same
+property which was the subject of a refund shall pay the systems development charges as required by Section
+3 of this ordinance.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+YAMHILL COUNTY CODE
+Chapter 3.15: Yamhill County Parks and Recreation System Development Charge Code Page 9 of 9
+3.15.04.07 Annual Accounting Report . The County shall prepare an annual report  accounting for system
+development charges, including the total amount of system development  charges revenue collected, and the
+capital improvement projects that were funded.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+3.15.04.08 Challenge of Expenditures. Any citizen or other interested person may challenge an expenditure of
+system development charges revenues.
+a) Such challenge shall be submitted, in writing, to the Director of Planning and Development for review within
+two years following the subject expenditure, and shall include the following information:
+i) The name and address of the citizen or other interested person challenging the expenditure;
+ii) The amount of the expenditure, the project, payee or purpose, and the approximate date on which
+it was made; and
+iii) The reason why the expenditure is being challenged.
+b) If the County determines that the expenditure was not made in accordance with the provisions of this
+ordinance and other relevant laws, a reimbursement of system development charges trust account revenues
+from other revenue sources shall be made within one year following the determination that the expenditures
+were not appropriate.
+c) The County shall make written notification of the results of the expenditure review to the citizen or other
+interested person who requested the review within ten (10) days of completion of the review.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+SECTION 5 - SEVERABILITY
+3.15.05.01 Severability. If any clause, section or provision of this ordinance shall be declared unconstitutional
+or invalid for any reason or cause, the remaining portion of said ordinance shall be in full force and effect and be
+valid as if such invalid portion thereof had not been incorporated herein.
+[ADOPTED VIA ORDINANCE NO. 593 eff 06/12/95]
+
+LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 573 on 06/08/1994, effective 06/13/1994
+ Repealed via Ordinance No. 593 on 06/07/1995, effective 06/12/1995
+
+Adopted via Ordinance No. 593 on 06/07/1995, effective 06/12/1995

@@ -1,0 +1,589 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/coos-county
+id: coos-code-article-5-animal-control
+title: 'Article 5 - Animal Control'
+doc_type: ordinance
+citation: 'Article 5 - Animal Control'
+authority_level: county_ordinance
+issuing_body: 'Coos County Board of Commissioners'
+source_url: https://co.coos.or.us/files/c3eb26039/article_5_-_animal_control.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: fb6f38df30edad3cb66df48ab1ecb3e96bbdbaf6f612ccf1fbba9eeedd67139f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 167.374
+    - ORS 609.015
+    - ORS 609.415
+    - ORS 609.420
+    - ORS 659A.143
+  related: []
+  supersedes: []
+tags: [coos-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Coos County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Article 5 - Animal Control (Article 5 - Animal Control)
+
+## At a glance
+
+Article 5 - Animal Control — code of Coos County. 12 pages.
+
+## Full text
+
+ARTICLE V - Page 1
+
+ARTICLE FIVE -- ANIMAL CONTROL
+
+DIVISION ONE – GENERAL PROVISIONS
+[Extensively revised by Ordinance 15-11-012L, Effective January 1,
+2016]
+
+SECTION 05.01.010  PURPOSE
+
+This Article shall be known as “Animal Control .” The purpose of
+the Animal Control Article is to provide rules and regulations
+governing the keeping, licensing, and control of dogs and other
+animals in Coos  County. Further, to reflect the needs and
+realities of animal control and animal welfare issues by creating
+ordinances that are enforceable, reflective of community
+expectations, and a practical tool in our efforts to hold animal
+Owners accountable to reasonable standards of responsibility for
+their animals, while protecting all citizens and animals of the
+County.
+
+SECTION 05.01.020  RELATIONSHIP TO STATE LAW
+
+Oregon Revised Statutes Chapter 609 shall apply in Coos County
+except where expressly superseded by this Article.  ORS 609.015(1)
+authorizes County ordinances to supersede the provisions of ORS
+Chapter 609.
+
+SECTION 05.01.030  COOPERATION WITH CITIES
+
+ (1) Nothing in this Article is intended to supersede any
+city ordinance enacted for the purpose of controlling
+dogs or other animals within the corporate limits of the
+city.
+ (2) The Board of Commissioners may enter into written
+agreements, with any incorporated city located within
+the County, relating to coordination and cooperation of
+efforts for the control of dogs or cats within the
+County.
+
+SECTION 05.01.040  DEFINITIONS
+
+As used in any Division of this Article, unless the context
+requires otherwise:
+
+(1) “Animal” means any nonhuman mammal, bird, reptile,
+amphibian, or fish.
+(2) “Animal-at-Large” means any of the following:
+(a)   A dog that is not physically restrained by leash,
+tether, or other physical control device and under
+the physical control of a capable person, unless in
+an enclosed area specifically designated for
+animals to be without a leash or on its Owner’s or
+ ARTICLE V - Page 2
+Keeper’s own property; or
+(b)  An animal that, even if physically restrained, is
+on public or private property where it is not
+authorized to be.
+(3) “Animal rescue entity” means an individual or
+organization, including but not limited to an animal
+control agency, humane society, animal shelter, animal
+sanctuary, animal foster home or boarding kennel not
+subject to ORS 167.374, but excluding a veterinary
+facility that keeps, houses, and maintains in its
+physical or legal custody 10 or more animals and that
+solicits or accepts donations in any form.
+(4) “Assistance Animal” means a dog or other animal that has
+been individually trained to do work or perform tasks
+for the benefit of an individual as defined in ORS
+659A.143(1)(a).
+ (5) "Board of Commissioners" means the governing body of
+Coos County.
+ (6) "Commercial Dog Kennel" means a place of business for
+the care of dogs or cats, or both, including but not
+limited to the boarding, grooming, breeding, training or
+selling of dogs or cats, or both.  The term is not
+intended to include an anim al hospital or a non-
+commercial kennel.
+ (7) "Dog or Cat Owner”, or "Dog or Cat Keeper" means:
+  (a) Any person, firm, association or corporation who is
+the licensed owner of a dog or cat, or who has a
+right of property in a dog or cat, or who harbors a
+dog or cat, or who has it in said person's care,
+possession, custody or control, or who knowingly
+permits a dog or cat to remain on any premises
+occupied by said person.  Except for purposes of
+Section 05.04.030, owner does not include
+veterinarians or commercial kennel operators
+temporarily maintaining dogs or cats, or both that
+are owned by other persons, on their premises for a
+period of not more than thirty (30) days.
+  (b) Any person, except a veterinarian or commercial
+kennel operator, who resides where a dog or cat is
+kept, harbored or cared for shall be presumed to be
+the owner of that dog or cat.  This presumption may
+be rebutted by proof that such person has no
+property right in the dog or cat, is not the
+licensed owner of the dog, is not harboring the dog
+or cat, and is not caring for the dog or cat.
+ (8) "Licensing Officer" means the Clerk for Coos County or
+any person the Clerk designates to issue licenses and
+receive fees required by this Article.
+ (9) "Neutered Dog or Cat" means a dog or cat made sterile by
+the removal of the ovaries and uterus, ovarian
+hysterectomy, in a female dog or cat; the removal of the
+male gonads in the male dog or cat, and any other method
+of neutering a dog or cat which is certified by a
+licensed veterinarian.
+
+ ARTICLE V - Page 3
+ (10) "Non-Commercial Dog Kennel" means an establishment or
+premises where five (5) or more dogs, over six (6)
+months of age, are kept or maintained for the hobby of
+the householder.  This term does not include an animal
+hospital.
+
+SECTION 05.01.050 ESTABLISHMENT OF DOG CONTROL DISTRICT
+
+The Board of Commissioners has declared Coos County a dog control
+district.  The Board of Commissioners are the supervisors of the
+Coos County Dog Control District, and will provide for
+administration and enforcement of a dog control program.
+
+ ARTICLE V - Page 4
+DIVISION TWO – LICENSES AND FEES
+
+SECTION 05.02.010  RESERVED
+
+SECTION 05.02.020  DOG LICENSES AND TAGS
+
+ (1) Dogs shall be licensed as provided for by ORS Chapter
+609, except that the fees to be charged for licenses and
+tags shall be the fees established by this Division,
+rather than the suggested fees set out in Chapter 609.
+Before issuance of a license, the owner must present a
+Rabies Vaccination Certificate or written statement from
+a licensed veterinarian stating that a rabies
+vaccination would be detrimental to the dog’s health.
+ (2) A license tag issued to the dog shall be securely
+attached and visible on the dog for which it is issued.
+ (3) Licenses shall be valid for a period of one (1) or three
+(3) years from the date of purchase, at the option of
+the owner/keeper, or until the, rabies vaccine
+expiration date, whichever first occurs.  A dog owner
+shall renew the dog license before it becomes delinquent
+for as long as he or she owns the dog. [24-06-003]
+ (4) If an identification tag is lost, the owner may obtain a
+duplicate identification tag upon satisfactory proof of
+loss and payment of the sum established in Section
+05.02.050.
+(5) No license fee shall be required for any dog that is an
+Assistance Animal. A license shall be issued for such
+dog upon proper proof of rabies vaccination and upon
+filing of an affidavit by the person showing such dog to
+fall within this exemption. Such affidavit shall be
+filed with and subject to approval by the Licensing
+Officer.
+ (6) Any person who fails to comply with any of subsections
+(1) through (5) commits a Class C violation.  [18-04-
+003L]
+
+SECTION 05.02.030  KENNEL LICENSE
+
+(1) Any person who is the Owner or Keeper of five (5) or
+more dogs over six (6) months of age may not operate a
+kennel without first obtaining a kennel license.
+(2) Any person who is the Owner or Keeper of a dog that has
+been classified as a dangerous dog is ineligible for a
+Kennel license.
+(3) Every person operating a kennel, whether commercial or
+non-commercial, shall procure a kennel license by paying
+to the licensing officer an annual license fee, as
+provided in Section 05.02.050.  Before issuance of a
+kennel license, owners of commercial kennels must
+present prior proof of a Rabies Vaccination Certificate
+only for dogs owned by the license applicant at the time
+application for the license is made.  Applicants for
+ ARTICLE V - Page 5
+non-commercial licenses must present prior proof of a
+Rabies Vaccination Certificate for all dogs
+owned by the applicant.
+ (4) Kennel licenses are in lieu of individual dog licenses
+and shall be valid for one (1) year from the date of
+issuance or until the expiration of the earliest rabies
+immunity, whichever occurs earlier.  Dogs licensed under
+this section must at all times be confined to the kennel
+premises so as not to be at large.  No dog that has been
+classified as a dangerous dog may be licensed under this
+section.
+ (5) A kennel operator, whether of a commercial or non-
+commercial kennel, shall renew the kennel license before
+the expiration of the license for as long as he or she
+operates the kennel.
+(6) Any person who fails to comply with any of subsections
+(1) through (5) commits a Class B violation.  [18-04-
+003L]
+ (7) A kennel license does not in any way exempt the holder
+from their responsibility of complying with any other
+provision of Coos County Code, zoning or permitting
+requirements, or other applicable law, unless
+specifically provided for by law.
+
+SECTION 05.02.040  ANIMAL RESCUE ENTITY
+
+ (1)  Any Animal Rescue Entity operating, in whole or in
+part, in Coos County shall obtain a certificate of
+registration from the Licensing Officer prior to
+beginning operations.
+ (2) The Animal Rescue Entity shall procure an Animal Rescue
+Entity certificate by paying to the Licensing Officer an
+annual license fee, as provided in Section 05.02.050.
+ (3) An animal rescue entity may not transfer a certificate
+of registration issued under this section to another
+person without the written consent of the Licensing
+Officer.
+ (4) Whenever a Coos County authorized representative is
+advised or has reason to believe that an animal rescue
+entity is operating without a certificate of
+registration, the representative may visit and conduct
+an on-site investigation of the premises of the
+suspected animal rescue entity. The purpose of the
+investigation is to determine whether the animal
+rescue entity is subject to the registration
+requirements of this section.
+ (5) Animal Rescue Entity License applicants must comply
+with ORS 609.415 and ORS 609.420 and all other
+applicable regulations and law. An Animal Rescue
+Entity License does not in any way exempt the holder
+from their responsibility of complying with any other
+provision of Coos County Code, zoning or permitting
+requirements, or other applicable law, unless
+specifically provided for by law.
+ ARTICLE V - Page 6
+(6) At any reasonable time, an authorized representative
+of Coos County, a law enforcement agency, or the
+United States Department of Agriculture may conduct an
+on-site investigation to determine whether the entity
+is in compliance with this section and Oregon law.
+(7) Any person who fails to comply with any of subsections
+(1) through (6) commits a Class B violation.  [18-04-
+003L]
+
+SECTION 05.02.050  LICENSES AND OTHER FEES
+
+(1) A dog license fee and other fees shall be due and
+payable upon the issuance of the license or redemption
+of an impounded animal.
+(2) The County Clerk shall keep a record of each Dog,
+Kennel, and Animal Rescue Entity license issued under
+this Article.
+(3) For a specific fee amount, refer to the Coos County Fee
+Schedule.
+ (4) In addition to any fees listed in the Coos County Fee
+Schedule, the following redemption fees may be applied:
+  (a) Actual cost of medical care fees, if required.
+  (b) Microchipping fees, if required.
+
+ ARTICLE V - Page 7
+DIVISION THREE – ANIMAL SHELTER OPERATIONS
+
+SECTION 05.03.010  RESERVED
+
+SECTION 05.03.020  REDEMPTION AND SALE
+
+ (1) Redemption of an impounded animal shall be made by
+exhibiting satisfactory proof of ownership and by paying
+the required fees and charges, as specified in Section
+05.02.050.
+ (2) An impounded animal shall be kept for a minimum of three
+(3) days if without a license and for at least five (5)
+days if it has a license,  before being sold or
+euthanized.
+ (3) An impounded animal may be sold, but for the following
+purposes only:
+  (a) As a pet; or
+  (b) To perform as a working animal provided such work
+does not by definition subject the animal to
+physical harm or inhumane conditions.  Acceptable
+work functions include but are not limited to
+assistance animals, livestock protection or
+control, guard, tracing or detection work and
+performing animals; or
+  (c) For use as a blood donor under the supervision of a
+licensed veterinarian.
+  The Animal Shelter shall refuse to sell an animal if the
+person making the sale reasonably believes that the
+animal will be used for any purpose other than those
+specified in this subsection (3).  Any person purchasing
+an animal shall be required to supply a driver’s license
+or other similar identification.  No more than two (2)
+animals may be sold to any one family or individual
+within a six (6) month period unless upon special
+application by the purchaser specifying the reason for
+purchasing that number of animals and the person making
+the sale reasonably believes that such animals will not
+be used for any purpose other than those specified in
+this subsection.
+ (4) No live animal shall be sold by the Animal Shelter for
+any of the follow purposes:
+  (a) Surgical or medical demonstration or vivisection.
+  (b) Biological or medical experimentation.
+  (c) Uses prohibited by local, state or federal law.
+  This subsection does not prohibit the selling of a live
+animal for uses allowed by Section 05.03.020(3)(c).
+ (5) Any dog sold by the Animal Shelter shall first receive a
+rabies vaccination, and shall be sold subject to
+licensing and fees at the time of purchase.
+ (6) The Animal Shelter may euthanize animals only in the
+following circumstances:
+  (a) An animal is sick or injured; or
+  (b) To prevent the number of animals at the Animal
+Shelter from exceeding the capacity of the Animal
+ ARTICLE V - Page 8
+Shelter; or
+  (c) There is insufficient food to feed all the animals
+at the Animal Shelter; or
+  (d) An animal is hazardous to humans or other animals;
+or
+  (e) An animal is specifically requested by the owner in
+writing to be euthanized.
+ (7) The Animal Shelter Operator or Animal Control Officer,
+and supervisor shall mutually agree when, if, and which
+animals in the care and custody of the Animal Shelter
+should be euthanized.  I f either the Animal Shelter
+Operator or Animal Control Officer, and  supervisor is
+unavailable, the Sheriff shall serve in their place.  An
+animal in the care and custody of the Animal Shelter may
+be euthanized by any method permitted under state law.
+ (8) Any animal given to the Animal Shelter by the owner for
+disposal shall be sold or euthanized pursuant to the
+provisions of this section.
+
+SECTION 05.03.030  SICK OR INJURED DOGS OR CATS
+
+ (1) Any sick or injured dog or cat found by an  Enforcement
+Officer or Animal Control Officer off the premises of
+the owner shall be delivered to its owner.  Any such dog
+or cat for which the owner is either unknown or cannot
+be reached after reasonable attempts to do so, shall be
+delivered by the Animal Control Officer  to a
+veterinarian for medical treatment.  Upon delivery to a
+veterinarian, the following procedures shall apply:
+  (a) When the dog is unlicensed and the owner is
+unknown, the veterinarian shall determine whether
+the dog is so severely injured or incurably
+crippled that the humane thing to do would be to
+destroy the dog.  If the determination is made to
+destroy the dog, the dog may be destroyed
+immediately.  If the veterinarian determines
+instead that the dog should be given treatment,
+such treatment may be given, provided, however, the
+dog may be destroyed if unclaimed by its owner
+within three (3) days after being delivered to the
+veterinarian.  This subsection applies to all cats
+whose owner is unknown.
+  (b) When the dog is licensed or the owner is known and
+cannot be reached, a veterinarian shall determine
+whether the dog is so severely injured or incurably
+crippled that the humane thing to do would be to
+destroy the dog.  If the determination is made to
+destroy the dog, the dog may be destroyed
+immediately.  If the veterinarian determines
+instead that the dog should be given treatment,
+such treatment may be given; provided, however,
+that the dog may be destroyed if unclaimed by its
+owner within five (5) days after being delivered to
+the veterinarian.  This subsection applies to all
+ ARTICLE V - Page 9
+cats whose owner is known.
+ (2) Any Enforcement Officer or Animal Control Officer may
+humanely destroy a dog or cat too s everely injured to
+move and not on the property of its owner, when the
+owner is either unknown or cannot be reached after
+reasonable attempts to do so.
+ (3) Arrangements for fees, selection of veterinarians,
+liability of veterinarians, etc., shall be determined by
+separate contracts between the Board of Commissioners
+and individual veterinarians.
+ (4) The owner shall be liable for any boarding, care and
+medical expenses incurred in accordance with this
+section.
+
+ ARTICLE V - Page 10
+DIVISION FOUR – ENFORCEMENT AND DANGEROUS DOGS
+
+SECTION 05.04.010  RESERVED
+
+SECTION 05.04.020  OFFICER ENFORCEMENT
+
+ (1)  Before entering onto private land, an Enforcement
+Officer or Animal Control Officer shall obtain consent
+of the person with authority to give consent, unless
+they have a warrant or warrant exception that authorizes
+entry.
+ (2)  If the owner or occupant is not willing or able to
+consent or cannot be found, an Enforcement Officer or
+Animal Control Officer shall obtain a warrant before
+entering onto private property.
+ (3)  An Enforcement Officer or Animal Control Officer in the
+course and scope of the officer’s duties has the
+privilege of entering onto private land only if there is
+probable cause to believe that there is imminently
+hazardous, unsafe, or dangerous circumstances requiring
+immediate action to avoid serious damage to property,
+serious injury or death.
+ (4)  Any Enforcement Officer or Animal Control Officer may
+impound an animal if there is probable cause to believe
+that a violation of this Article has occurred and the
+animal is the subject of that alleged violation. The
+Animal Shelter may hold said animal until the resolution
+of the violation, and the owner or keeper of the animal
+shall be responsible for the fees as provided in this
+Article.
+ (5) Any person who fails to surrender an animal to an
+Enforcement Officer or Animal Control Officer when
+presented with a warrant or order from the court or
+hearings officer or an  Enforcement Officer’s demand
+based on probable cause of a violation, commits a Class
+B violation.
+ (6) Any person who intentionally resists, uses or threatens
+the use of physical force, or otherwise puts the
+Enforcement Officer or Animal Control Officer at risk of
+physical injury commits a Class B violation.
+  [18-04-003L]
+
+SECTION 05.04.030  DOGS RUNNING AT LARGE
+
+ (1) No dog owner shall permit a dog to run at large.  As
+used in this section, "running at large" does not
+include:
+  (a) Use of a dog under the supervision of a person in
+order to legally hunt, chase trap, or tree
+wildlife;
+  (b) Use to control or protect livestock; or
+  (c) Use in other related agricultural activities.
+ (2) Any dog Owner or Keeper who permits a dog to run at
+ ARTICLE V - Page 11
+large commits a Class C violation. [18-04-003]
+
+SECTION 05.04.040  IDENTIFICATION OF DANGEROUS DOGS
+
+ (1)  The Owner or Keeper of a dog determined to be dangerous,
+pursuant to this section, shall have the dog identified
+by a microchip implant. A reasonable fee for
+microchipping shall be charged to the Owner or Keeper of
+a dangerous dog that is microchipped at the animal
+shelter prior to being released.  The dog may also be
+required to wear an identifying collar and ID tag as
+determined by Animal Control.
+ (2)  The Owner or Keeper of a dog determined to be dangerous,
+shall provide Animal Control with the address where said
+dog is kept, and shall immediately notify Animal Control
+if said dog is no longer kept at that address for more
+than twenty-four (24) hours due to the dog running away,
+being given away, sold, euthanized, or for any other
+reason, and provide Animal Control with the name,
+address, and phone number of any new Owner or written
+verification of euthanasia of said dog.
+ (3)  Failure to comply with Subsections (1) and (2) are a
+Class C violations.  [18-04-003L]
+
+SECTION 05.04.050  DANGEROUS DOGS – PENALTIES
+
+  (1)  Class C  violation dangerous behavior is established if
+a dog at large is found to menace, chase, display
+threatening or aggressive behavior or otherwise threaten
+or endanger the safety of any domestic animal or
+livestock, but does not cause physical injury.
+ (2)  Class B violation dangerous behavior is established if a
+dog at large is found to menace, chase, display
+threatening or aggressive behavior or otherwise threaten
+or endanger the safety of any person, or while confined
+bites any person and does not cause serious physical
+injury.
+ (3)  Class A violation dangerous behavior is established if a
+dog, while at large, bites or causes physical injury to
+any domestic animal or livestock, or bites any person.
+ (4)  Class A violation extremely dangerous behavior is
+established if:
+  (a)  A dog kills or mortally injures any domestic animal
+or livestock, unless the domestic animal or
+livestock is trespassing upon the property where
+the dog is authorized to be; or
+  (b)  A dog, whether or not confined, causes the serious
+injury or death of any person.  [18-04-003L]
+ (5)  The class of dangerous behavior may be mitigated if the
+Owner or Keeper establishes that the dog acted in
+response to being abused, tormented, or attacked, was
+directed toward a trespasser or there were similar
+mitigating or extenuating circumstances.
+
+ ARTICLE V - Page 12
+SECTION 05.04.060 DANGEROUS DOGS – FURTHER REQUIREMENTS
+
+ (1) In addition to the other requirements of this Animal
+Control Article, the Owner of a dog that has committed
+dangerous behavior as described herein shall comply with
+the following restrictions in addition to any other
+restrictions the court deems reasonable under the
+circumstances:
+  (a)  If the dog has engaged in Class C violation
+dangerous behavior, the dog shall be restricted by
+a physical device or structure that prevents the
+dog from reaching any public right -of-way or
+adjoining property whenever the dog is outside the
+Owner's home or when not on a leash off the Owner's
+property.
+  (b)  If the dog has engaged in Class B violation
+dangerous behavior the Owner shall confine the dog
+within a Secure Enclosure whenever the dog is not
+on a leash off the Owner's property or inside the
+home of the Owner.
+  (c) If the dog has engaged in Class A violation
+dangerous behavior the Owner shall confine the dog
+within a Secure Enclosure whenever the dog is not
+on a leash off the Owner's property or inside the
+home of the Owner and may also be required to post
+warning signs on the property where the dog is
+kept.
+  (d)  Any dog that has been found to have engaged in
+Class A violation extremely dangerous behavior may
+be euthanized. In addition, the court has the
+authority to suspend, for a period of time, the dog
+Owner's right to be the Owner of any dog in Coos
+County, including dogs currently owned by tha t
+person. [18-04-003L]
+  (2)  In addition to the normal licensing fees established in
+Section 5.02.050, there shall be an additional licensing
+and supervision fee for dogs that have been determined
+to have engaged in dangerous behavior. This additional
+fee shall first be payable at the time that
+determination is made, and renewals are due upon the
+anniversary of the determination.
+ (3)  A person whose dog has been classified as a dangerous
+dog, and who has complied with the restrictions imposed
+for at least one (1) year, may request in writing that
+the restrictions be lifted or reduced. Modifications to
+the restrictions or declassification of the dog may be
+made at the discretion of the Board of Commissioners
+upon consideration of proof of additional training,
+successful temperament testing, or other evidence that
+the dog’s dangerous behavior has been mitigated.

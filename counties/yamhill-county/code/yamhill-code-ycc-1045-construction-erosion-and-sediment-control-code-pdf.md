@@ -1,0 +1,227 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-1045-construction-erosion-and-sediment-control-code-pdf
+title: 'YCC-1045-CONSTRUCTION-EROSION-AND-SEDIMENT-CONTROL-CODE-PDF'
+doc_type: ordinance
+citation: 'YCC-1045-CONSTRUCTION-EROSION-AND-SEDIMENT-CONTROL-CODE-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8777/YCC-1045-CONSTRUCTION-EROSION-AND-SEDIMENT-CONTROL-CODE-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f411b3dd88e27cddfedb69d035eecc1c4c61205b5c34aff8f045d57eca082154
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 401.025
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-1045-CONSTRUCTION-EROSION-AND-SEDIMENT-CONTROL-CODE-PDF (YCC-1045-CONSTRUCTION-EROSION-AND-SEDIMENT-CONTROL-CODE-PDF)
+
+## At a glance
+
+YCC-1045-CONSTRUCTION-EROSION-AND-SEDIMENT-CONTROL-CODE-PDF — code of Yamhill County. 4 pages.
+
+## Full text
+
+Chapter 10.45: Construction Erosion and Sediment Control Code  Page 1 of 4
+
+TITLE 10: BUILDING AND DEVELOPMENT REGULATION
+
+Chapter 10.45: Yamhill County Construction Erosion and Sediment Control Code
+
+TABLE OF CONTENTS
+Section Title
+10.45.01 TITLE
+10.45.02 PURPOSE
+10.45.03 DEFINITIONS
+10.45.04 PERMIT(S) REQUIRED
+10.45.05 EXEMPTIONS
+10.45.06 EROSION PREVENTION AND SEDIMENT CONTROL PLAN
+10.45.07 PERMIT FEE
+10.45.08 CONSTRUCTION SITE DEPOSITS ON PUBLIC STREETS AND INTO STORM DRAINS
+10.45.09 MAINTENANCE
+10.45.10 FALSIFYING INFORMATION
+10.45.11 STOP WORK ORDERS
+10.45.12 ENFORCEMENT
+
+LEGISLATIVE HISTORY
+
+10.45.01 Title. This Chapter shall be known as the “Yamhill County Construction Erosion and Sediment Control
+Code.”
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.02 Purpose. The purpose of this Chapter is to minimize the amount of sediment reaching waterways,
+wetlands, and the public storm drainage and surface water system for the duration of construction site activities.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.03 Definitions. For the purposes of this Chapter, the following words shall have the following meanings:
+a) “Applicant” means the owner of real property or the owner ’s authorized agent. “Applicant” includes any
+person who would be required to obtain a County permit, but who neglects or otherwise fails to do so.
+b) “Authorized agent” means the developer, architect, contractor, engineer, builder, personal representative, or
+anyone designated by the owner to have control or supervision of a site involving construction site activity.
+c) “Board” means the Yamhill County Board of Commissioners.
+d) “Common plan of development ” means a contiguous construction project or projects where multiple
+separate and distinct construction activities may be taking place at different times on different sch edules but
+under one plan.
+Chapter 10.45: Construction Erosion and Sediment Control Code  Page 2 of 4
+e) “Construction site activity” means any ground disturbing activities at a location where a County permit is
+required.
+f) “County” means Yamhill County.
+g) “Director” means either the Director  of Public Works  or designee , or the Director of Planning and
+Development or designee.
+h) “Emergency” has the same meaning as found in ORS 401.025.
+i) “Erosion” means the wearing away of the ground surface, or the movement, detachment or dislocation and
+transport of sediment including soil particles by the action of water or wind.
+j) “Final stabilization” is determined by satisfying the following criteria: (1) there is no reasonable potential
+for discharge of a significant amount of construction related sediment or turbidity to surface waters; (2)
+construction materials and waste have been removed and disposed of properly. This includes any sediment
+that was being retained by temporary erosion and sediment controls; (3) all temporary erosion and sediment
+controls have been removed and disposed of properly, unless doing so conflicts with local requirements; (4)
+all ground disturbing activities have stopped and all stormwater discharges from construction activities that
+are authorized by this permit have ceased; (5) all disturbed or exposed areas of the site are covered by either
+final vegetative stabilization or permanent stabilization measures that covers at least 80% of the areas.
+However, temporary or permanent stabilization measures are not required for areas that are intended to be left
+unvegetated or unstabilized following construction (such as dirt access roads, utility pole pads, areas being
+used for storage of vehicles, equipment, or materials); provided, that measures are in place to eliminate or
+minimize erosion.
+k) “Ground disturbing activitie s” means any activity that exposes soil, including, but not limited to,
+construction, landscaping, removal of vegetation, stockpiling of soil or construction debris, grading,
+excavating, filling, clearing, trenching, drilling, transport or fill, or utility work, or working of land at a
+particular location.
+l) “Public storm drainage and surface water system ” means natural or manmade drainage courses for the
+conveyance of surface water.
+m) “Sediment” means finely divided loose material that can be suspended and transported in water or air and
+may originate from disturbed soil, landscaping, or construction activities or materials.
+n) “Storm event” means a storm event (as defined at 40 CFR 122.21(g)(7)(ii)) with greater than 0.1 inch of
+rainfall and at least 72 hours after the previously measurable storm event with greater than 0.1 inch of rainfall.
+o) “Stormwater management area” means an area designated as a stormwater management area by the
+Department of Environmental Quality under the County’s jurisdiction.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.04 Permit(s) Required.
+a) Subject to YCC 10.45.05, an erosion prevention and sediment control permit is  required inside a stormwater
+management area if construction site activity(ies) will expose at least one quarter of an acre (10,890 square
+feet) of soil, either in isolation or as part of a common plan of development.
+b) If construction site activities expose at least one acre (43,560 square feet) of soil, either in isolation or as part
+of a common plan of development, a 1200-C Construction Stormwater General Permit must be acquired from
+the Oregon Department of Environmental Quality and a copy the approved Stormwater Pollution Prevention
+Plan (SWPPP) and Erosion and Sediment Control Plan must be submitted to the C ounty before ground
+disturbing activities begin. 1200-C permit documents, resources, and forms are located on the Oregon DEQ
+website: 1200 Series Construction Stormwater Permits - General Use
+.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.05 Exemptions. The following activities are exempt from the permit required under YCC 10.45.04:
+a) Established (ongoing) farming, ranching, and silviculture activities such as plowing, seeding, cultivating,
+minor drainage, harvesting for the production of food, fiber, and forest products, or upland soil and water
+conservation practices;
+b) Maintenance (but not construction) of drainage ditches;
+c) Construction and maintenance of irrigation ditches;
+Chapter 10.45: Construction Erosion and Sediment Control Code  Page 3 of 4
+d) Construction and maintenance of farm or stock ponds;
+e) Construction and maintenance of farm and forest roads, in accordance with best management practices; and
+f) Maintenance of structures such as dams, dikes, and levees.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.06 Erosion Prevention and Sediment Control Plan
+a) An erosion prevention and sediment control plan is  required for all erosion prevention and sediment control
+permits. The plan must be submitted by the Applicant and approved by the Director for issuance of the erosion
+prevention and sediment control permit, prior to the issuance of a County permit and commencement of
+ground disturbing activities. The plan must contain protection techniques that will eliminate runoff siltation
+created from the construction activity both during and after construction. Site-specific considerations shall be
+incorporated.
+b) The erosion prevention and sediment control plan must include sizing criteria, performance criteria, design
+specifications, guidance on selection and placement of controls, and specifications for long- term operation
+and maintenance, including appropriate inspection intervals and a self-inspection checklist.
+c) The County may perform inspections to ensure compliance with this Chapter.
+d) The erosion prevention and sediment control plan shall be kept on site and available for review by inspectors.
+e) The erosion prevention and sediment control plan must include clear steps for project phase completion, final
+stabilization, and permit closure.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.07 Permit Fee. The County may establish a fee for review of plans and inspections required by this Chapter
+by order of the B oard. The Board  shall set the fee to recover the C ounty’s costs of providing an Applicant’s
+erosion prevention and sediment control permit, inspections, and plan review.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.08 Construction Site Deposits on Public Streets and Into Storm Drains. No person shall cause or allow
+visible and measurable erosion or sediment related to construction site activity inside a stormwater management
+area as defined herein to enter the public storm drainage and surface water system. Any person causing visible
+and measurable erosion or sediment shall immediately abate or remove it. The removal shall be accomplished by
+hand labor or approved mechanical means.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.09 Maintenance.
+a) The Applicant shall maintain all erosion and sediment control measures in proper functioning order for the
+duration of the ground disturbing activities or until at least 80% ground cover has been established.
+b) The Applicant shall inspect, maintain, adjust, repair, and r eplace erosion and sediment control measures as
+necessary within 24 hours following a storm event to ensure that the measures are functioning properly.
+c) During active ground disturbing activity, the Applicant  shall inspect and maintain erosion and sediment
+control measures weekly or within 24 hours of a storm event.
+d) The erosion prevention and sediment control plan must be maintained and updated as site conditions change,
+to prevent sediment or pollutant contaminated water from leaving the site.
+e) Permit finalization requires one of the following to be achieved:
+(i) Individual lots or phases of a qualifying common plan of development obtain individual erosion
+prevention and sediment control permit coverage prior to the issuance of County permit(s). The
+Director shall be notified of sale of individual lots or phases of a common plan of development no
+less than 14 calendar days prior to the date of closing. Until such time as an individual erosion
+prevention and sediment control permit is obtained, the lot or phases sold shall continue to be the
+responsibility of the overall development’s erosion prevention and sediment control permit; or
+(ii) Final stabilization.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+Chapter 10.45: Construction Erosion and Sediment Control Code  Page 4 of 4
+10.45.10 Falsifying Information . No person shall knowingly make any false statement, representation, or
+certification in any application, record, report, plan, or other document filed or required to be maintained pursuant
+to this Chapter.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.11 Stop Work Orders.
+a) In the event there is a violation of this Chapter, and it is necessary to obtain compliance with this Chapter, the
+Director may issue a stop work order requiring that all work, except work directly related to the elimination
+of the violation, be immediately and completely stopped. If the Director  issues a stop work order, the
+Applicant shall not resume work until such time as the Director gives specific approval in writing. The stop
+work order shall include:
+(i) The date of the stop work order;
+(ii) The erosion prevention and sediment control permit and/or permit number if applicable;
+(iii) The site address, legal description, or location applicable to the stop work order;
+(iv) A description of all violations; and
+(v) The conditions under which the work may resume.
+b) The stop work order shall be in writing and posted in a conspicuous location at the site. Other means of
+communication of the stop work order may be exercised in the discretion of the Director.
+c) No person may remove, obscure, mutilate or otherwise damage a stop work order.
+d) A stop work order shall be effective upon posting or upon verbal delivery under subsection (e) of this section.
+e) When an emergency condition exists, the Director may issue a stop work order verbally. A written stop work
+order shall be posted in a conspicuous location at the site within 24 hours of the verbal order.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+10.45.12 Enforcement.
+a) Violations of this Chapter shall be prosecuted in the name of Yamhill County as provided under the Yamhill
+County Code Enforcement Code, YCC 1.10.
+b) Violation of this ordinance shall be punishable, upon conviction, by a fine of not more than $500 for a
+noncontinuing offense and a fine of not more than $1,000 for a continuing offense.
+c) The provisions of this Chapter are in addition to and not in lieu of any other procedures and remedies provided
+by law including equitable relief and damages.
+[ADOPTED VIA ORDINANCE NO. 932 eff 06/12/24]
+
+LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 932 on 03/14/2024, effective 06/12/2024

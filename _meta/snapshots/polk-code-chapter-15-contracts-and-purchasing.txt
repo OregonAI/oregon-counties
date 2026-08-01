@@ -1,0 +1,1205 @@
+Polk County Code of Ordinances Chapter 15 – Page 1
+
+CHAPTER 15
+
+PUBLIC CONTRACTS AND PURCHASING
+
+15.105  ADMINISTRATION
+
+(1)  Enabling Clause. Polk County Code of Ordinances Chapter 15 shall be binding upon all officers and
+employees of Polk County and shall govern all purchasing and contracting by officers and employees
+of Polk County. The Polk County Board of Commission ers may delegate all powers or duties given
+or assigned by this chapter to employees, officials or agents through a Board order.
+
+(2)  Local Contract Review Board. The Polk County Board of Commissioners shall act as the Local
+Contract Review Board pursuant to the authority granted to that Board by ORS Chapter 279A.060.
+
+(3)  Preference to Polk County Goods and Services. For p urposes of awarding a public contract, a
+department shall give preference to goods or servic es that have been manufactured or produced in
+Polk County and immediate surrounding area if price, fitness, availability and quality are otherwise
+equal.
+
+(4)  Attorney General’s Rules Inapplicable.
+
+(a)  The Attorney General's Model Contract Rules adopted  under ORS 279A.065 do not apply to
+Polk County unless specifically referenced.
+
+(b)  Unless otherwise specified, this chapter shall also contain the procurement rules applicable to
+all County departments and divisions.
+
+(5)  Contract Signing Authority. Except as set out in this section, the Board of Commissioners, shall have
+the authority to enter into contracts on behalf of the department and the County.
+
+(a) Notwithstanding the above, for contracts not to  exceed $150,000.00, the County Administrative
+Officer and the Director of Public Works may enter into and sign contracts on behalf of the
+County.
+
+(b)  Notwithstanding the above, for contracts not to exceed $25,000.00 all elected heads of
+departments, and the directors of Administrative Services, Community Development, Behavioral
+Health, Community Corrections, Family and Community  Outreach and Information Services
+may enter into and sign contract on behalf of the County.
+
+(c)  All contracts executed pursuant to subsection (a) and (b) must be provided to the appropriate
+person within the Commissioner’s Office.
+
+(6)  All Contracts in Writing. All contracts to which Polk County is a party shall be in writing.
+
+15.110  DEFINITIONS
+
+As used in Polk County Code of Ordinances Chapter 1 5:
+
+(1)  "Bid" means a competitive offer, binding on the Bidder and submitted in response to an Invitation to
+Bid.
+
+(2)  "Board" means the Board of Commissioners of Polk Co unty, acting as the local Contract Review
+Board.
+
+Polk County Code of Ordinances Chapter 15 – Page 2
+
+(3)  “Commissioners" means the Polk County Board of Comm issioners.
+
+(4)  "Competitive Bid" means issuing an invitation to bid following the formal process for advertising, bid
+and bid opening.
+
+(5)  "Competitive Process" means the solicitation of competitive offers which follow the formal process
+for advertising, request for proposal, bid and bid opening, and applicable rules of the Board.
+
+(6)  "Competitive Quotes" means the solicitation of offers from competing vendors by advertisement or a
+request to vendors to make an offer. The solicitation and the offer may be in writing or oral.  Oral
+quotes shall be reduced to writing in the procureme nt file.
+
+(7)  "County" means the Polk County Board of Commissione rs or its public contracting officer(s).
+
+(8)  “Department” means a Polk County department such as , but not limited to, the Public Works
+Department or the Community Development Department.
+
+(9)  "Electronic Advertisement" means advertisement of a n Offer available electronically over the internet
+via (i) the World Wide Web, or (ii) telnet, provide d the County maintains an internet World Wide
+Web site that provides explicit instructions how an Entity can access the advertisement through the
+internet via a telnet application. The County may maintain the World Wide Web site directly or
+through any third party service provider.
+
+(10)  "Emergency" means that a substantial risk of loss, damage, interruption of services, or threat to the
+public health or safety has arisen from circumstances that could not have been reasonably foreseen.
+
+(11)  “Informal procurement” means any form of procuremen t outlined in this chapter that is not an
+invitation to bid or request for proposals.
+
+(12)  "Invitation to Bid" means the solicitation of competitive offers in which specification, price and
+delivery (or project completion) will be the predominant award criteria.
+
+(13)  ”Material and Service Contract” means an agreement in which the vendor agrees to supply all the
+purchaser's requirements that arise for an item or items within a specified time period. Also referred
+to as a Price Agreement.
+
+(14)  "Offer" means a bid, proposal, or quotation.
+
+(15)  "Offeror" means a person or firm submitting an offer.
+
+(16)  "Personal Property" means everything subject to ownership which is not real property, and which has
+exchangeable value.
+
+(17)  "Personal Services Contracts" means a contract that calls for specialized skills, knowledge and
+resources in the application of technical or scientific expertise, or the exercise of professional, ar tistic
+or management discretion or judgment. Qualifications and performance history, expertise, knowledge
+and creativity, and the ability to exercise sound professional judgment are typically the primary
+considerations when selecting a Personal Services Contractor, with price being secondary.
+
+(18)  "Proposal" means a competitive Offer, binding on the Proposer and submitted in response to a
+Request for Proposals.
+
+(19)  "Public Agency or Public Contracting Agency" means any agency of the federal government, State of
+Oregon or any political subdivision thereof authorized by law to enter into public contracts,
+municipality and any other public body created by intergovernmental agreement.
+
+Polk County Code of Ordinances Chapter 15 – Page 3
+
+(20)  “Public Contract” means any purchase, lease or sale  by a public agency of personal property, public
+improvements or services other than agreements whic h are for personal services.
+
+(21)  "Public Contracting Officer” means the person or pe rsons designated by the Commissioners to
+negotiate public contracts for the County.
+(22)  "Public Improvement" means a project for construction, reconstruction or major renovation on real
+property by or for a public agency. "Public Improvement" does not include emergency work, minor
+alterations, ordinary repair or maintenance necessary in order to preserve a public improvement.
+
+(23)  "Request for Proposal" means a solicitation of competitive proposals, or offers, to be used as a basis
+for making an acquisition, or entering into a contract when specification and price will not necessarily
+be the predominant award criteria.
+
+(24)  "Service Contract” means a contract that calls prim arily for a contractor's time and effort rather tha n
+for an end product
+
+(25)  "Solicitation document" means an invitation for bid s, a request for proposals, or a written request for
+quotations.
+
+(26)  "Telecommunications Systems" mean devices, components, facilities and applications that provide
+telecommunications services for the County and enable the aggregation and transmission of voice,
+video or data between and among County users. Telecommunications Systems may include gateway
+devices used to connect to private telecommunications networks or the Internet
+
+15.115 PROCUREMENT METHODS
+
+(1)  Competitive Bids; Exemptions. All contracts shall be based upon competitive bids or proposals
+except the following:
+
+(a)  Contracts otherwise allowed or required in ORS 279A.025 (Application of Contracting Code)
+279A.100 (Affirmative Action), , 279A.125 (Recycled  Materials), 279A.128 (In-State
+Preference),
+
+(b)  Contracts that are for personal services. Such contracts may include incidental materials such
+as written reports or opinions, architectural or engineering renderings, and other supplemental
+materials required for providing the services.
+
+(c)  Contracts that may be procured by an alternative method based on ORS 279A.050; 279A.055
+and 279A.070.
+
+(d)  The county may, in its discretion, let public contracts not to exceed $150,000 for the purchase
+of goods, materials, supplies, and services or for trade related projects, i.e., construction,
+maintenance, repair, or similar labor and materials contracts without competitive bidding, if
+the county has determined that the awarding of the contract without competitive bidding will
+result in cost savings and the contract is for a single project, and is not a component of or
+related to any other project.
+
+(2)  Exemptions for Contracts for Goods, Services, Construction and Maintenance Under Certain Dollar
+Amounts.
+
+(a)  When the amount of the contract does not exceed $15 ,000, the County may, but is not required
+to, obtain competitive quotes.
+
+(b)  When the amount of the contract is more than $15,00 0, but less than $150,000, , the County
+shall obtain a minimum of three competitive quotes. The County shall keep a written record of
+
+Polk County Code of Ordinances Chapter 15 – Page 4
+
+the source and amount of the quotes received. If three quotes are not available, a lesser number
+will suffice provided that a written record is made of the effort to obtain the quotes.
+
+(c)  When the contract is for a "public improvement" as defined in PCCC 15.110(23) or for "public
+works" as defined in ORS 279C.800, and the contract price exceeds $50,000, the County and
+the contractor shall comply with:
+
+(i)  The prevailing wage provisions of ORS 279C.800 to 2 79C.870, when applicable;
+
+(ii)  The performance bond requirements of PCCC 15.115(21 ) and ORS 279C.380;
+
+(iii)  The contractor registration requirements of ORS ch. 701; and
+
+(iv)  Any other law applicable to such a contract.
+
+(3)  Material and Service Contracts.
+
+(a)  Material and service contracts may be entered into without competitive bidding when it is in
+the best interests of the County to do so. The County may enter into material and service
+contracts whereby it is agreed to purchase goods or services for an anticipated need at a
+predetermined price provided the term of the contract, including renewals, does not exceed
+five years or $150,000.
+
+(b)  The County may also use the material and service contract entered into by another public
+contracting agency when a formal inter-agency agree ment exists between the two agencies.
+
+(4)  Equipment Repair and Overhaul. Contracts for equipment repair or overhaul may be let without
+competitive bidding, if:
+
+(a)  Service and/or parts required are unknown and the cost cannot be determined without
+extensive preliminary dismantling or testing; or
+
+(b)  Service and/or parts required are for sophisticated equipment for which specially trained
+personnel are required and such personnel are available from only one source.
+
+(5)  Emergency Contracts.
+
+(a)  The county may, at its discretion, let public contracts without formal competitive bidding if an
+emergency exists and requires prompt execution of a contract to remedy or respond to the
+condition.
+
+(b)  The Commission may adopt a resolution indicating the existence of the emergency and stating
+with specificity the emergency conditions necessitating the prompt execution of the contract.
+
+(c)  Any contract awarded under this exemption shall be awarded within 60 days following
+declaration of the emergency unless an extension is granted by the Board, but such declaration
+shall not be required prior to entering into the contract depending on the circumstances of the
+emergency.
+
+(d)  The Commissioners may waive requirements for perfor mance and payment bonds in the event
+of an emergency.
+
+Polk County Code of Ordinances Chapter 15 – Page 5
+
+15.120 SOLICITATION PROCESS
+
+(1)  Solicitation Methods.
+
+(a)  Request for Proposal. The county may, at its discretion, use request for proposal competitive
+procurement methods subject to the following conditions:
+
+(i)  Contractual requirements shall be stated clearly in the solicitation document.
+
+(ii)  Evaluation criteria to be applied in awarding the contract and the role of an evaluation
+committee (if any) shall be stated clearly in the solicitation document. Criteria used to
+identify the proposal that best meets the county needs may include but are not limited to
+cost, quality, service, compatibility, product reliability, operating efficiency and
+expansion potential.
+
+(iii)  The solicitation document shall clearly state all complaint processes and remedies
+available.
+
+(iv)  The solicitation document shall state the provisions made for vendors to comment on
+any specifications which they feel limit competition.
+
+(2)  Invitation to Bid. The County may use an Invitation to Bid if the County believes it will receive
+optimal value by selecting the lowest priced offer that meets the technical requirements of the
+County's specifications.
+
+(3)  Negotiations.
+
+(a)  When All Bids Exceed Estimate. The County may negotiate with the lowest responsible bidder
+or proposer submitting a responsive bid if all responsive bids from responsible bidders or
+proposers exceed the County's cost estimate. If a written cost estimate was not prepared prior
+to bidding, the amount budgeted for the public contract shall be deemed the cost estimate for
+the purposes of this subsection.
+
+(b)  Other Bids. The County may negotiate with a propose r to clarify its quote, bid or proposal or
+to effect modifications that will make the quote, bid or proposal acceptable or more
+advantageous to the County.
+
+(4)  Prequalification.
+
+(a)  The County, in its sole discretion, may require bidders or proposers to prequalify before being
+eligible to submit bids or proposals for a class of public contracts or for a particular public
+contract. The method used to prequalify bidders or proposers shall be determined by the
+Department letting the contract.
+
+(b)  The County shall, in response to the receipt of a prequalification application submitted under
+this section, notify the prospective bidder or prop oser whether the prospective bidder or
+proposer is qualified based on the standards identified by the County and ORS 279B.110(2),
+the type and nature of contracts that the prospective bidder or proposer is qualified to compete
+for and the time period for which the prequalification is valid. If the County does not
+prequalify a prospective bidder or proposer as to a ny contracts covered by the prequalification
+process, the notice must specify which of the Count y’s criteria and/or standards of
+responsibility listed in ORS 279B.110(2) the prospe ctive bidder or proposer failed to meet.
+Unless the reasons are specified, the prospective b idder or proposer shall be deemed to have
+been prequalified in accordance with the application.
+
+Polk County Code of Ordinances Chapter 15 – Page 6
+
+(c)  Disqualification. Disqualification of a previously prequalified bidder or proposer shall be in
+accordance with this chapter and the provisions of ORS 279B.120(3) regarding
+prequalification and disqualification.
+
+(5)  Product Prequalification.
+
+(a)  When it is impractical to create or reproduce speci fic design or performance specifications for
+a type of product to be purchased, the county may specify a list of approved or qualified
+products by reference to a particular manufacturer or seller in accordance with the following
+product prequalification procedure:
+
+(i)  The County shall make reasonable efforts to notify all known manufacturers and
+vendors of competitive products of its intention to accept applications for inclusion in
+its list of prequalified products. Notification shall include advertisement in a trade
+journal of state-wide distribution when possible. In lieu of advertising, the County may
+notify vendors and manufacturers appearing on the appropriate list maintained by the
+State of Oregon.
+
+(ii)  The County shall permit application for prequalification of similar products up to 15
+days prior to advertisement for bids on the product .
+
+(b)  If an application for inclusion in a list of prequalified products is denied, or an existing
+prequalification revoked, the County shall notify the applicant in writing. The applicant may
+appeal to the local Contract Review Board.
+
+(6)  Life Cycle Costing. In determining the lowest responsible bidder in the award of a contract, the
+county may use the concept of life cycle costing. As used in this section, life cycle costing means
+determining the cost of a product for its useful life.
+
+(a)  Prior to the time of writing specifications for the product, the public contracting agency shall
+identify those factors which will have cost implications over the life of the product.
+
+(b)  The Invitation to Bid shall set out clearly the factors and methodology to be used in life cycle
+cost adjustments.
+
+(c)  At or after the  bid opening, the results of life cycle costing adjustments shall be applied to the
+base bid, and the bidder whose total bid results in the lowest ownership cost, taking into
+account the life cycle costing adjustments, shall be considered the lowest responsible bidder.
+
+(7)  Advertisement. Advertisements of invitations for bids and requests for proposals shall be published
+as set forth herein, and any other time the County concludes that advertisement is desirable.
+
+(a)  An advertisement, other than for a public improvement contract estimated to cost more than
+$150,000, shall be deemed sufficient for the purposes of this chapter if it appears once in the
+Itemizer Observer or the Statesman Journal, or, if the Local Contract Review Board has
+authorized electronic advertisement, it appears electronically in a commercially reasonable
+manner. Nothing in this section shall be deemed to prevent a department from satisfying the
+advertisement requirements of applicable statutes a nd this ordinance by publishing an
+advertisement once in any newspaper of general circulation in the Polk County metropolitan
+area.
+
+(b)  An advertisement for a public improvement contract estimated to cost more than $150,000
+shall be deemed sufficient if it appears once in the Daily Journal of Commerce or a similar
+trade newspaper of general statewide circulation and once in the Itemizer Observer or
+Statesman Journal.
+
+Polk County Code of Ordinances Chapter 15 – Page 7
+
+(c)  A department may publish an advertisement more than once, and in addition to publication
+designed to satisfy the requirements of applicable statutes and this ordinance, may publish one
+or more advertisements in any local, regional, or national publication deemed by the
+department to be appropriate for the particular pro curement.
+
+(d)  A department shall give public notice at least seven (7) days before the solicitation closing
+date.
+
+(8)  Contents of Advertisements. All advertisements for offers or proposals shall state:
+
+(a)  The date after which bids will not be received, which shall not be less than seven (7) days after
+the date of the last publication of the advertisement;
+
+(b)  The date that prequalification applications must be filed if applicable and the class or classes
+of work for which bidders must be prequalified if prequalification is a requirement;
+
+(c)  A general description of the work to be done or the material or things to be purchased;
+
+(d)  The office where the specifications for the work, material or things may be reviewed;
+
+(e)  The name, title and address of the person designated to receive offers or proposals;
+
+(f)  The date, time and place that the County will open the bids;
+
+(g)  If the contract is for a public work subject to ORS 279C.800 to 279C.870 or the Davis- Bacon
+Act (40 U. S. C. 276a).
+
+(9)  Requirements for Bid or Proposal Documents and Bids ; Disclosure of First-tier Subcontractors.
+
+(a)  Bid or proposal documents for a public contract shall, at a minimum, include:
+
+(i)  A general description of the work to be done or the material or things to be purchased
+and performance expectations, including a statement that the contractor shall meet the
+highest applicable industry or business standards in providing the goods or services;
+
+(ii)  The office where the specifications for the work, material or things may be reviewed;
+
+(iii)  The date, time and place that prequalification applications must be filed if applicable
+and the class or classes of work for which bidders or proposers must be prequalified if
+prequalification is a requirement;
+
+(iv)  The date and time after which bids or proposals will not be received, which shall be at
+least seven (7) days after the date of the last publication of the advertisement;
+
+(v)  The place, name and title of the person designated for receipt of bids or proposals;
+
+(vi)  The date, time and place that the County will open the bids;
+
+(vii)  A statement that each bid or proposal must identify whether the bidder is a resident
+bidder, as defined in ORS 279A.120.
+
+(viii)  A description of the selection criteria to be utilized in evaluating bids or proposals and
+determining the successful bid or proposal.
+
+(ix)  A statement that the County may reject any bid not in compliance with all prescribed
+bidding procedures and requirements, and may reject for good cause any or all bids or
+proposals upon a finding of the County that it is in the public interest to do so;
+
+Polk County Code of Ordinances Chapter 15 – Page 8
+
+(x)  All contractual terms and conditions applicable to the bid or proposal and consequences
+for failure to perform the work to industry or business standards;
+
+(b)  All bids or proposals made to the County shall be:
+
+(i)  In writing;
+
+(ii)  Filed with the person designated for receipt of bid s; and
+
+(iii)  Bids, but not proposals, opened at the time designated in the advertisement.
+
+(c)  In addition to the requirements of subsections (a) and (b) of this section, bid or proposal
+documents for public improvement contracts shall also include:
+
+(i)  A statement that, if the contract is for a public work subject to ORS 279C.800 to
+279C.870 or the Davis-Bacon Act (40 U.S.C. 276a), n o bid will be received or
+considered unless the bid or proposal contains a statement that the provisions of ORS
+279C.838 or 279C.840 or 40 U.S.C. 276a are to be co mplied with;
+
+(ii)  Information addressing whether a contractor or subc ontractor must be licensed under
+ORS 468A.720;
+
+(iii)  A statement that no bid or proposal for a public improvement contract shall be received
+or considered unless the bidder or proposers are licensed by the Construction
+Contractors Board or the State Landscape Contractors Board;
+
+(iv)  A statement that every public improvement contract shall contain a condition that the
+contractor shall:
+
+(A)  Make payment promptly, as due, to all persons suppl ying to such contractor
+labor or material for the performance of the work provided for in such contract.
+
+(B)  Pay all contributions or amounts due the Industrial Accident Fund from such
+contractor or subcontractor incurred in the performance of the contract.
+
+(C)  Not permit any lien or claim to be filed or prosecuted against the state, county,
+school district, municipality, municipal corporation or subdivision thereof, on
+account of any labor or material furnished.
+
+(D)  Pay to the Department of Revenue all sums withheld from employees pursuant to
+ORS 316.167.
+
+(v)  In addition to the conditions specified in subsection (a) of this section, every public
+improvement contract shall contain a condition that the contractor shall demonstrate
+that an employee drug testing program is in place.
+
+(vi)  Within two working hours after the date and time of the deadline when the bids or
+proposals are due for a public improvement, a bidder shall submit to the County a
+disclosure of any first-tier subcontractor that:
+
+(A)  Will be furnishing labor or labor and materials in connection with the public
+improvement; and
+
+(B)  Whose contract value is equal to or greater than five percent of the total project
+bid or $15,000, whichever is larger, or $350,000, r egardless of the percentage of
+the total project bid.
+
+Polk County Code of Ordinances Chapter 15 – Page 9
+
+(vii)  The disclosure of first-tier subcontractors shall include:
+
+(A)  The name of each subcontractor;
+
+(B)  The category of work each subcontractor will perfor m; and
+
+(C)  The dollar value of each subcontract.
+
+(viii)  For each contract to which subsections (c) (vi) and (vii) applies, the County shall
+designate a deadline for submission of bids or prop osals that has a date on a Tuesday,
+Wednesday or Thursday and a time between 2 p.m. and 5 p.m., except that this
+subsection does not apply to public contracts for maintenance or construction of
+highways, bridges or other transportation facilities.
+
+(ix)  Subsections (c) (vi) and (vii) shall apply only to public improvements with an estimated
+contract value of more than $100,000.
+
+(10)  Offer Preparation.
+
+(a)  Instructions. An offeror or proposer shall submit and sign its offer or proposal in accordance
+with the solicitation document. An offeror or propo ser shall initial any alteration or erasure to
+an offer or proposal, if any, in accordance with the solicitation document.
+
+(b)  Documents. An offeror or proposer shall provide the County with all documents and
+descriptive literature required under the solicitation document.
+
+(11)  Method of Submitting Offers.
+
+(a)  Receipt. Bids must be submitted in writing. The County shall not open the offeror
+modification, but shall date and time stamp the offer and store it in a secure place until
+opening. If the County inadvertently opens an offer, proposal or a modification, prior to the
+opening, the County shall reseal and store the opened offer, proposal or modification for
+opening. The County shall document the resealing for the solicitation file (e.g. County
+inadvertently opened the offer or proposal due to i mproper identification of the offer).
+
+(b)  Timeliness. Offerors or proposers are responsible for ensuring their offers or proposals are
+timely. The County may decline to consider a late o ffer, even if the offer or proposal is late
+because of a delay in the County's internal handling of mail or documents or because the
+County's receiving equipment was unavailable.
+
+(c)  Completeness. Offerors or proposers are responsible  for ensuring their offers or proposals are
+received by the County in a complete, legible, ungarbled form. The County may decline to
+consider an offer that is incomplete, illegible, or garbled, even if the problem is caused by the
+County's hardware or software.
+
+(d)  Facsimile or electronic mail Submissions. Notwithstanding subsection (a), an offeror or
+proposer may submit its offer or proposal by facsimile or electronic mail only if expressly
+allowed under the solicitation document. The County shall not consider facsimile or electronic
+mail offers or proposals unless authorized by the solicitation document
+
+(12)  Bid and Proposal Opening.
+
+(a)  Bids shall be opened by the contracting officer as described in the solicitation documents.
+
+(b)  The County may open proposals at any time. There is  no requirement for proposals to be
+opened in public.
+
+Polk County Code of Ordinances Chapter 15 – Page 10
+
+(c)  Subject to any exemptions under Oregon public recor ds statutes, bids and proposals shall be
+available for public inspection only after the County has finished evaluating them.
+
+(13)  Retainage on Public Contracts. Retainage, if any, shall be determined on a case by case basis by the
+public contracting officer, shall be specified by contract between the parties and shall conform to th e
+requirements of ORS 279C.550 through 279C.570.
+
+(14)  Bid Evaluation
+
+(a)  Generally. Opened bids shall be evaluated in accordance with the evaluation criteria outlined
+in the bid documents applicable statutes and this Chapter. When a bid is determined to be
+unresponsive to the invitation for bids, it will not be evaluated further.
+
+(b)  Correction of Certain Errors. Arithmetic errors app arent on the face of a bid shall be corrected
+by the County before comparing bid prices. Discrepancies between a unit price and an
+extended total price for a bid item shall be resolved in favor of the unit price unless there is
+evidence apparent on the face of the bid establishing that the extended price is correct.
+
+(15)  Proposal Evaluation. Proposals shall be evaluated b ased upon the evaluation criteria established by
+the request for proposals. Changes in evaluation criteria shall be communicated to all proposers or
+prospective proposers by addendum. If evaluation criteria are changed after proposals have been
+submitted, all proposers shall have an opportunity to supplement their proposals or submit best and
+final offers after receipt of the addendum changing the evaluation criteria.
+
+(16)  Rejection of Bid or Proposal.
+
+(a)  The County may reject a bid or proposal if it finds:
+
+(i)  The person has not substantially complied with all prescribed bidding procedures and
+requirements.
+
+(ii)  If it is in the public interest to reject some or all of the bids or proposals.
+
+(iii)  The person has not met the standards of responsibility. In making a written
+determination whether a prospective bidder or propo ser has met the standards of
+responsibility, the County shall consider whether a prospective bidder or proposer has:
+
+(A)  Available the appropriate financial, material, equipment, facility and personnel
+resources and expertise, or ability to obtain the resources and expertise,
+necessary to indicate the capability of the prospective bidder or proposer to meet
+all contractual responsibilities;
+
+(B)  Current, necessary licenses;
+
+(C)  Liability and other insurance in amounts necessary to meet bid or proposal
+requirements;
+
+(D)  Workers compensation coverage pursuant to ORS 656.4 07 or 656.128;
+
+(E)  Made the first-tier subcontractor disclosure required by ORS 279C.370;
+
+(F)  A satisfactory record of performance. The County shall document the record of
+performance of a prospective bidder or proposer if the County finds the
+prospective bidder or proposer not to be responsibl e under this sub-
+subparagraph;
+
+Polk County Code of Ordinances Chapter 15 – Page 11
+
+(G)  A satisfactory record of integrity. The County shall document the record  of
+integrity of a prospective bidder or proposer if the County finds the prospective
+bidder or proposer not to be responsible under this sub-subparagraph;
+
+(H)  Qualified legally to contract with the County;
+
+(I)  Supplied all necessary information in connection with the inquiry concerning
+responsibility. If a prospective bidder or proposer  fails to promptly supply
+information requested by the County concerning responsibility, the County shall
+base the determination of responsibility upon any available information, or may
+find the prospective bidder or proposer not to be r esponsible; and
+
+(J)  Not been debarred by the County under ORS 279B.130.
+
+(b)  The County may make such investigation as is necessary to determine whether a person is
+qualified. If a bidder or prospective bidder fails to supply promptly information as requested
+by the public contracting officer pursuant to such investigation, such failure is grounds for
+disqualification.
+
+(17)  Irrevocability of Offers
+
+(a)  Bids. All bids received by the County for a particular public contract become binding offers
+when the first bid is opened, and remain irrevocable for 30 calendar days after opening unless
+a different period is specified in the invitation for bids.
+
+(b)  Proposals. All proposals received by the County for a particular contract shall become binding
+offers on the last date for the receipt of best and final offers or, if best and final offers are not
+invited or permitted, at the beginning of the County's final evaluation of proposals, and shall
+remain irrevocable for 60 calendar days thereafter unless a different period is specified in the
+request for proposals.
+
+(c)  Extensions by County. The County may request, orall y or in writing, that offerors extend, in
+writing, the time during which the County may accept their offer(s). If an offeror agrees to
+such extension, the offer shall be irrevocable, valid and binding on the offeror for the agreed
+upon extension.
+
+(18)  Cancellation. The County may cancel a procurement at any time before a contract is signed, if the
+County determines cancellation is in the County's best interests. If a procurement is canceled, the
+County shall not be liable for any costs incurred b y prospective offerors. If a procurement is canceled
+before bids or proposals are opened, the bids or proposals shall be returned to the bidders and
+proposers unopened, except that the County may open a bid or proposal to determine the identity and
+address of the bidder or proposer if the name and address are not shown on the outside of the
+envelope. If a procurement is canceled after bids or proposals are opened, the County shall retain the
+bids or proposals. The reason[s] for the cancellation shall be made part of the solicitation file.
+
+(19)  Contract Amendments. Any contract amendment, including change orders, extra work, field orders,
+or other change in the original specifications which increases the original contract price or alters the
+work to be performed, may be made with the contractor subject to the following conditions:
+
+(a)  The original contract, regardless of price, was awarded pursuant to these rules or ORS chapter
+279A, 279B or 279C, unit prices or bid alternatives were provided that established the cost for
+additional work, and a binding obligation exists on the parties covering the terms and
+conditions of the additional work; or
+
+(b)  The amount of the aggregate cost increase resulting from all amendments does not exceed 20%
+of the initial contract, or 25% of the initial contract when the initial contract is for a face
+amount not exceeding $150,000. Amendments made purs uant to subsection (1) of this section
+
+Polk County Code of Ordinances Chapter 15 – Page 12
+
+are not included in computing the aggregate amount under this section.
+
+(20)  Notice of Intent to Award. At least seven (7) days before the award of a public contract by bid or
+proposal, unless the department determines seven da ys is impractical, the department shall post or
+provide to each bidder or proposer notice of the department’s intent to award a contract. This section
+does not apply to a contract awarded for less than $150,000, an emergency procurement, a sole
+source procurement or a contract awarded under any exemption or alternative contracting method
+listed in this chapter.
+
+(21)  Performance Security Requirements.
+
+(a)  Public Improvements Contracts. Unless the contract review board waives the required
+performance bond, or in the event of an emergency, or unless the local contract review board
+exempts a contract or classes of contracts from the required performance bond pursuant to
+these rules, the contractor shall execute and deliver to the County a performance bond and a
+payment bond each in a sum equal to the contract price for all public improvement contracts in
+excess of $100,000, or in the case of contracts for highways, bridges or other transportation
+projects in excess of $50,000.
+
+(b)  Public Improvement Contracts Under $100,000. The Co unty may require a performance bond
+and/or a payment bond for public improvement contracts under $100,000, but the County shall
+not use such requirement to discourage competition.
+
+(c)  Other Public Contracts. The County may require performance security for other public
+contracts. Such requirements shall be expressly set forth in the solicitation document.
+
+(d)  Form of Security. The County may accept only the following forms of Bid or Proposal
+security:
+
+(i)  A surety bond from a surety company authorized to d o business in the State of Oregon;
+
+(ii)  An irrevocable letter of credit issued by an insured institution as defined in ORS
+706.008; or
+
+(iii)  A cashier’s check or certified check.
+
+(e)  Time for Submission. Upon the County's request, the apparent successful offeror must furnish
+the required performance bond and/or payment bond within 10 days. If the offeror fails to
+furnish the bond within the 10 day period, the County may reject the offer and award the
+contract to the next lowest responsive, responsible bidder or next highest-scoring responsive,
+responsible proposer, and, at the County's discretion, the offeror shall forfeit its bid or proposal
+security.
+
+15.125 PERSONAL SERVICES CONTRACTS
+
+(1)  Generally
+
+(a)  Personal service contracts are not public contracts subject to competitive bidding provisions of
+ORS Chapters 279A, 279B, 279C or this Chapter.
+
+(b)  A department may enter into a personal service contract with an independent contractor
+without competitive bidding when the department needs to have a personal service performed
+as provided in this section. Each department may establish screening and selection processes.
+
+Polk County Code of Ordinances Chapter 15 – Page 13
+
+(2)  Cost Analysis.
+
+(a)  No personal service contract exceeding $250,000 in total value shall be entered without
+competitive procurement unless a cost-benefit analysis is first performed to determine whether
+it is more cost efficient to perform the service in-house.
+
+(b)  A personal service shall not be procured unless the department can demonstrate, in writing, by
+means of a cost analysis that:
+
+(i)  The overall cost to procure the service(s) is less than the cost to perform the service(s)
+in-house; or
+
+(ii)  Performing the service(s) with existing county personnel or resources is not feasible.
+
+(c)  The cost benefit analysis shall be conducted pursuant to ORS 279B.030.
+
+(d)  A cost benefit analysis is not required for the following categories of services or contracts:
+
+(i)  Public improvement contracts;
+
+(ii)  Client services, including mental health and human services described in OAR 125-
+246-0110; or
+
+(iii)  Situations in which the county does not have the staff available or the necessary
+expertise to perform the service(s).
+
+(3)  Personal Services.
+
+(a)  The nature of the tasks to be performed, the needs of the department and the interests of the
+public form the basis for distinguishing between personal service contracts and public
+contracts. Hence, if the department requires goods or services for which the department has
+developed or is reasonably able to develop, respect ively, adequate design and/or performance
+specifications; and selecting a contractor on the basis of lowest price would be likely to meet
+the department's needs, then the tasks should be pe rformed pursuant to a public contract let in
+accordance with the competitive bidding provisions of this Chapter.
+
+(b)  Conversely, if a department is reasonably unable to develop adequate design and/or
+performance specifications but must instead have the assistance of the contractor's training,
+knowledge and expertise to develop a scope of work statement and selecting the contractor on
+the basis of lowest price would be unlikely to meet the department's needs, then the tasks
+would most appropriately be performed under a perso nal service contract. In determining
+whether its needs will be met through award of a personal service contract rather than a public
+contract, the department should consider whether selecting the contractor on the basis of
+qualifications rather than lowest price will result in the department obtaining the best value for
+its money.
+
+(c)  A personal service contract is not appropriate where price is or should be the primary selection
+criterion. A public contract, in contrast to a personal service contract, will be awarded
+primarily on the basis of price; criteria such a technical skill, creativity, artistic ability,
+performance history, and demonstrated ability to be taken into account during the selection
+process, will be of only secondary importance. Unless otherwise statutorily excepted, a public
+contract must be awarded based on either competitive bidding, or an alternative competitive
+process under this Chapter.
+
+Polk County Code of Ordinances Chapter 15 – Page 14
+
+(4)  Examples of Personal Service Contracts. Personal service contracts may include, but are not limited
+to the following:
+
+(a)  Contracts for services performed as an independent contractor in a professional capacity,
+including but not limited to the services of an accountant, attorney, architectural or land use
+planning consultant, physician or dentist, registered professional engineer, appraiser or
+surveyor, passenger aircraft pilot, aerial photographer, timber cruiser, information technology
+consultant or broadcaster;
+
+(b)  Contracts for services as an artist in the performing or fine arts, including but not limited to
+persons identified as photographer, film maker, painter, weaver, or sculptor;
+
+(c)  Contracts for services of a specialized creative and research-oriented, noncommercial nature;
+
+(d)  Contracts for services as a consultant;
+
+(e)  Contracts for educational and human custodial care services.
+
+(5)  Examples of Contracts Not for Personal Services. The following are not personal service contracts:
+
+(a)  Contracts, even though in a professional capacity, if predominately for a product e.g., a
+contract with a landscape architect to design a garden is for personal services, but a contract to
+design a garden and supply all the shrubs and trees is predominately for a tangible product;
+
+(b)  A service contract, including a contract with a temporary service or personnel agency, to
+supply labor which is of a type that can generally be done by any competent worker, e.g., data
+entry, key punch, janitorial, security guard, crowd management, crop spraying, laundry, and
+landscape maintenance service contracts;
+
+(c)  Contracts for trade-related activities considered to be labor and material contracts;
+
+(d)  Contracts for services of a trade-related activity, to accomplish routine, continuing and
+necessary functions, even though a specific license is required to engage in the activity.
+Examples are repair and/or maintenance of all types of equipment or structures.
+
+15.130 CONTRACTS EXEMPT FROM COMPETITIVE BIDDING
+
+(1)  Purchases Under Federal Contracts or from Federal A gencies.
+
+(a)  When the price of goods and services has been established by a contract with an agency of the
+federal government pursuant to a federal contract a ward, the County may purchase the goods
+and services in accordance with the federal contract without subsequent competitive bidding.
+In exercising this authority under this exemption, the County shall:
+
+(i)  Include in the contract file a letter or memoranda from the appropriate federal agency
+granting permission to purchase under the federal contract; and
+
+(ii)  Include in the contract file documentation showing the cost savings to be gained from
+anticipated purchases from the federal contract.
+
+(b)  Departments may also purchase equipment and supplies from federal government catalogues
+maintained by the United States Administrator of General Services without competitive
+bidding.
+
+Polk County Code of Ordinances Chapter 15 – Page 15
+
+(c)  Departments may purchase goods and equipment from the federal government under 10
+U.S.C. 381, the Electronic Government Act of 2002 o r other federal law that is similar, or
+section 211 of that Act.
+
+(d)  The County shall not contract pursuant to this provision if there is an existing state price
+agreement for the same item(s).
+
+(2)  Food Contracts. Procurement of food or food product s which are available at “lower than normal”
+prices.
+
+(3)  Purchases of Used Personal Property. The County may purchase used personal property for $100,000
+or less without competitive bidding if the department has determined that the direct purchase without
+competitive bidding will result in cost savings and if no violation of ORS 244.040 will result from the
+purchase. For purchases of used personal property over $100,000, three competitive quotes shall be
+obtained. If three quotes are not available, a written record must be made of the attempt to obtain
+quotes.
+
+(4)  Gasoline, Diesel Fuel, Heating Oil, Lubricants and Asphalts. The County is exempt from formal
+competitive bidding requirements for the purchase of gasoline, diesel fuel, heating oil, lubricants and
+asphalts if the county seeks competitive quotes from the majority of vendors in the area, makes its
+purchase from the least expensive source, and retains written justification for the purchase made.
+
+(5)  Cooperative Procurements. A department that chooses to participate in, sponsor, conduct or
+administer a Joint Cooperative Procurement, Permissive Cooperative Procurement or Interstate
+Cooperative Procurement may do so only in accordance with ORS 279A.210, 279A.215 or
+279A.220. If a department utilizes this exemption and the estimated value of the contract exceeds
+$250,000, the department shall follow the process set forth in ORS 279A.215(2) and (3).
+
+(6)  Hazardous Material Removal; Oil Cleanup.
+
+(a)  The County may enter into public contracts without competitive bidding, regardless of dollar
+amount, when ordered to clean up oil or hazardous waste pursuant to the authority granted the
+State Department of Environmental Quality (DEQ), under ORS chapter 466, and in particular,
+ORS 466.605 through 466.680. In exercising its authority under this exemption the County
+shall:
+
+(i)  To the extent reasonable under the circumstances, e ncourage competition by attempting
+to make informal solicitations or to obtain informal quotes from potential suppliers of
+goods or services;
+
+(ii)  Make written findings describing the circumstances requiring cleanup or a copy of the
+DEQ order ordering such cleanup; and
+
+(iii)  Record the measures taken under subsection (a) to e ncourage competition, the amount
+of the quotes or proposals obtained, if any, and the reason for selecting the contractor
+selected.
+
+(b)  The County shall not contract pursuant to this exemption in the absence of an order from DEQ
+to clean up a site with a time limitation that would not permit hiring a contractor under the
+usual competitive bidding procedures.
+
+(7)  Other Exempt Contracts. The County may, regardless of dollar value and without competitive
+bidding, enter into contracts for the direct purchase of the following goods or services:
+
+(a)  Advertising and Promotional Contracts.
+
+Polk County Code of Ordinances Chapter 15 – Page 16
+
+(b)  Ballots, Ballot Pages, and Ballot Cards. The County may enter into contracts for the printing
+of ballots, including ballot pages and labeling of ballot cards.
+
+(c)  Copyrighted Materials. The County may purchase copyrighted materials if there is only one
+known supplier available for such goods. Examples o f copyrighted materials covered by this
+exemption may include, but are not limited to, new adopted textbooks, workbooks, curriculum
+kits, reference materials, books, periodicals, audio and visual media, and non-mass- marketed
+software.
+
+(d)  Employee Benefit Insurance. The County may purchase insurance products including property,
+liability, workers compensation and employee benefit insurance or plans.
+
+(e)  Equipment Maintenance. Contracts for the purchase o f services, equipment, or supplies for the
+maintenance, repair or conversion of existing equipment are exempt if required for the
+efficient utilization of the equipment. Where practicable, competitive quotes shall be obtained.
+
+(f)  Investment Contracts. The County may contract for the purpose of the investment of public
+funds or the borrowing of funds pursuant to a resolution, statute, ordinance, or charter.
+
+(g)  Laboratory and Medical Supplies. The County may con tract for the following:
+
+(i)  Drugs, including 340B pharmacy drugs (government re gulated drugs), biologicals,
+blood fractions, and blood components;
+
+(ii)  Intravenous solutions and associated supplies for a dministration;
+
+(iii)  Microbiologicals, biochemicals, and diagnostic reagents;
+
+(iv)  Surgical dressings;
+
+(v)  Heart valves;
+
+(vi)  E.E.G., E.K.G, electrodes, charts, and associated supplies;
+
+(vii)  Sterilizing wraps;
+
+(viii)  Catheters, medical tubes, and associated supplies;
+
+(ix)  Surgical and orthopedic instruments;
+
+(x)  Hearing aids;
+
+(xi)  Pacemakers;
+
+(xii)  Dental supplies;
+
+(xiii)  Laboratory small package chemicals;
+
+(xiv)  Biology supplies; and
+
+(xv)  Therapeutic or cosmetic implants.
+
+(h)  Medical Purchasing Cooperatives. A department which is a member of a legally established
+purchasing cooperative may purchase hospital and medical supplies and equipment, as well as
+lab testing services and pharmacy services through the cooperative.
+
+Polk County Code of Ordinances Chapter 15 – Page 17
+
+(i)  Office Supplies. Consumable office supplies including, but not limited to copy paper, pens,
+copier toner, binders, etc.
+
+(j)  Pass-Through Grants. A grant under which the county passes through to another recipient all
+or a portion of the money or property received by the county from a federal or state agency,
+provided that:
+
+(i)  The county does not add or modify the original grant except as necessary to provide
+proper administration; and
+
+(ii)  The grant contains a clause substantially in the following form: “The recipient of grant
+funds, pursuant to this agreement with the County, shall assume sole liability for
+recipient’s breach of the conditions of the grant, and shall upon recipient’s breach of
+grant conditions that causes or requires the County to return funds to the grantor, hold
+harmless and indemnify the County for an amount equal to the funds which the County
+is required to pay to the grantor.
+
+(k)  Periodicals. The County may purchase subscriptions for periodicals, including journals,
+magazines, and similar publications without competitive bidding.
+
+(l)  Price Regulated Items. The County may contract for the direct purchase of goods or services
+where the rate or price for the goods or services being purchased is established by federal, state
+or local regulatory authority.
+
+(m)  The County may engage in cooperative procurements a s set forth in ORS 279A.200-225.
+
+(8)  Specific Exemptions
+
+(a)  Exemptions Requests. The Contract Review Board may exempt a particular contract or
+contracts from the bidding requirements of this chapter or ORS 279C.335 which are not
+otherwise exempted under these sections upon approval of the following findings:
+
+(i)  The nature of the project;
+
+(ii)  Estimated cost of the project;
+
+(iii)  A narrative description of the cost savings anticipated by the exemption from
+competitive bidding and the reasons competitive bidding would be inappropriate;
+
+(iv)  Proposed alternative contracting and purchasing practices to be employed;
+
+(v)  The estimated date by which it would be necessary to let the contract;
+
+(vi)  It is unlikely that such exemption will encourage favoritism in the awarding of public
+contracts or substantially diminish competition for public contracts; and
+
+(vii)  The awarding of public contracts pursuant to the exemption will result in substantial
+cost savings to the County. In making such finding, the board may consider the type,
+cost and amount of the contract, number of persons available to bid and such other
+factors as may be deemed appropriate.
+
+(viii)  Otherwise substantially promotes the public interest in a manner that could not
+practically be realized by complying with this chapter.
+
+(ix)  The Board may require such additional information as is deemed necessary to
+determine whether a specific contract is to be exempt from competitive bidding.
+
+Polk County Code of Ordinances Chapter 15 – Page 18
+
+(b)  Approval of Requests. Before final adoption of the findings required by this section exempting
+a contract for a public improvement from the requirement of competitive bidding, the County
+shall hold a public hearing pursuant to ORS 279C.33 5(5).
+
+15.135   DISPOSITION OF SURPLUS PERSONAL PROPERTY
+
+(1)  Sales of Surplus Personal Property.
+
+(a)   Prior to sale pursuant to this chapter, personal property must be declared surplus.  County
+department heads may declare property with an estimated value below $3,000.00 surplus.
+Property with an estimated value above $3,000.00 must be declared surplus by the Board of
+Commissioners.
+
+(b)  Surplus Personal property may be sold at auction if the County determines that the auction
+contemplated may result in a higher net return than if the property were sold by competitive
+written bid.
+
+(c)  The County may sell surplus personal property, including recyclable or reclaimed materials,
+without formal competitive bidding if it has determined that a negotiated sale will result in
+increased net revenue or the current market value p er item is deemed to be less than $15,000.
+The County may establish a selling price, schedule and advertise a sale date, and sell to the
+first qualified buyer meeting the sale terms.
+
+(d)  When the current value per item is deemed to exceed $15,000, the surplus personal property
+must be offered for competitive bid and be advertised, or be offered for sale at public auction
+in accordance with this Chapter. If no bids are rec eived or if a determination is made that the
+market value of the property exceeds the offer of the highest responsible bidder, all bids may
+be rejected and the county may negotiate a sale subject to the following conditions:
+
+(i)  An appraisal of the market value of the property is obtained and documented and the
+negotiated sale price exceeds the market value; or
+
+(ii)  The sale amount exceeds the highest bid received through the bidding or auction
+process.
+
+(e)  The County may sell surplus personal property through a commercially recognized third party
+liquidator if it has determined that a liquidation sale will result in increased net revenue.
+
+(2)  Donations of Personal Property.
+
+(a)  The County may donate or sell surplus personal prop erty of any value, without competitive
+bidding, including recyclable or reclaimed materials to another public agency, or any sheltered
+workshop, or nonprofit organization, after a determination has been made that the personal
+property is not needed for other county purposes.
+
+(b)  The County shall maintain a record of all transfers or donations sales authorized by this
+section.
+
+(3)  For the purposes of this section, the trade in or exchange of surplus County personal property to an
+equipment dealer in conjunction with a purchase fro m that dealer will not be considered a disposition
+of personal property nor subject to any requirements in this section.
+
+15.140 CONTRACTS REQUIRING MODIFIED PROCUREMENT PRO CEDURES
+
+Polk County Code of Ordinances Chapter 15 – Page 19
+
+(1)  Information and Telecommunication Systems Contracts .
+
+(a)  Contracts for acquisition of information technology and/or telecommunication system
+hardware and software may be let using alternate co mpetitive procurement methods subject to
+the following conditions:
+(i)  If the contract amount does not exceed $150,000, the County contracting agency shall,
+as a minimum, follow informal competitive procurement methods. Prior to selection of a
+vendor, reasonable efforts will be made to solicit proposals from three or more vendors.
+Justification of award shall be documented and beco me a public record of the county.
+(ii)  If the contract amount exceeds $150,000, the County may use the request for proposal
+process and shall solicit written proposals pursuant to this chapter. The County shall
+document the evaluation and award process, which will be part of the public record
+justifying the award.
+
+(iii)  If the amount of the contract is estimated to exceed $500,000, in addition to the
+requirements of subsections (1)(b) of this section, the County shall provide proposers
+the opportunity to review the evaluation of their proposal before final management
+review and selection.
+
+(b)  Telecommunications solicitation authorized in subsection (1) shall:
+
+(i)  State the contractual requirements in the solicitation document;
+
+(ii)  State the evaluation criteria to be applied in awarding the contract and the roles of any
+evaluation committee. Criteria that would be used to identify the proposal that best
+meets the County's needs may include, but are not limited to, cost, quality, service and
+support, compatibility and interconnectivity, product or system reliability, vendor
+viability and financial stability, operating efficiency, and expansion potential;
+
+(iii)  State the provisions made for vendors to comment on any specifications which they feel
+limit competition.
+
+(2)  Telecommunications Services and Equipment.
+
+(a)  In determining the appropriate procurement method for telecommunications services, the
+department will determine whether competition exists. In determining competition, the
+department may consider the following factors:
+
+(i)  The extent to which alternative providers exist in the relevant geographic and service
+market. The relevant market will vary from service category to service category and
+cannot be pre-determined in advance. For example, an alternative long distance
+provider might offer services in Portland, but not in Medford, or the rest of the state.
+
+(ii)  The extent to which alternative services offered are comparable or substitutable in
+technology, service provided, and performance. For example, if the department
+requirement is for digital services, analog services are not comparable or substitutable.
+
+(iii)  The extent to which alternative providers can respo nd to the department's interests in
+consistency and continuity of services throughout its service area, volume discounts,
+equitable service for all users, centralized management, and limiting the County's
+liability.
+
+(b)  Upon determination that competition does not exist for the relevant service and geological
+area, the department may proceed to secure the service on a sole source basis.
+
+(3)  Office Copier Purchases.
+
+Polk County Code of Ordinances Chapter 15 – Page 20
+
+(a)  The County may enter into multiple price agreements or material and service contracts for the
+purchase, rental or lease of office copying equipment. Except for this multiple award
+exemption, such agreements shall otherwise conform to the requirements of PCCO 15.115.
+
+(b)  In exercising this exemption the County shall fully consider the operating capabilities,
+limitations and cost of each brand or model and select the brand which will produce the best
+combination of performance and cost per copy for ea ch application.
+
+(4)  Specification of Particular Brand Names or Product.
+
+(a)  A brand name or equal specification may be used when the use of a brand name or equal
+specification is advantageous to the department, because the brand name describes the
+standard of quality, performance, functionality and other characteristics of the product needed
+by the department.
+
+(b)  The department is entitled to determine what constitutes a product that is equal or superior to
+the product specified, and any such determination is final.
+
+(c)  Nothing in this section may be construed as prohibiting a department from specifying one or
+more comparable products as examples of the quality, performance, functionality or other
+characteristics of the product needed by the depart ment.
+
+(d)  A brand name specification may be prepared and used only if the department determines for a
+solicitation or a class of solicitations, including for public improvements, that only the
+identified brand name specification will meet the needs of the department based on one or
+more of the following written findings:
+
+(i)  It is unlikely that such exemption will encourage favoritism in the awarding of public
+contracts or substantially diminish competition for public contracts;
+
+(ii)  The specification of a product by brand name or mar k, or the product of a particular
+manufacturer or seller, would result in substantial cost savings to the department;
+
+(iii)  There is only one manufacturer or seller of the pro duct of the quality, performance or
+functionality required; or
+
+(iv)  Efficient utilization of existing goods requires the acquisition of compatible goods or
+services.
+
+(5)  Purchasing From Sole Source, Single Seller.
+
+(a)  A department may purchase a particular product or s ervice available from only one source,
+after documenting the procurement file with finding s of current market research to support the
+determination that the product is available from only one seller or source. The department’s
+findings shall also include:
+
+(i)  A brief description of the contract or contracts to  be covered including contemplated
+future purchases;
+
+(ii)  Description of the product or service to be purchased; and
+
+(iii)  The reasons the department is seeking this procurement method, which shall include
+any of the following:
+
+(A)  Efficient utilization of existing goods requires the acquisition of compatible
+goods or services; or
+
+Polk County Code of Ordinances Chapter 15 – Page 21
+
+(B)  That the goods or services required for the exchange of software or data with
+other public or private entities are available from only one source; or
+
+(C)  The particular goods or services are for use in a pilot or an experimental project.
+
+(D)  Other findings that support the conclusion that the goods or services are
+available from only one source.
+
+(b)  If the department intends to make several purchases of the product or service from a sole
+source for a period not to exceed five years, it may so state in the solicitation file and in the
+solicitation document, if any. Such documentation shall be sufficient notice as to subsequent
+purchases.
+
+(6)  Single Manufacturer, Multiple Sellers.
+
+(a)  The County may specify a product or service available from only one manufacturer but
+available through multiple sellers, after documenting the procurement file with the County's
+information required in this subsection, and subjec t to the following:
+
+(i)  If the total purchase is $15,000 or more but does not exceed $150,000 and a comparable
+product or service is not available under an existing state requirements contract,
+competitive quotes shall be obtained and retained in the procurement file; or
+
+(ii)  If the amount of the purchase exceeds $150,000, the  product or service shall be
+obtained through competitive bidding.
+
+(b)  If the County intends to make several purchases of the product of a particular manufacturer or
+seller for a period not to exceed five years, it may so state in the solicitation file and in the
+solicitation document, if any. Such documentation shall be sufficient notice as to subsequent
+purchases. If the total purchase amount is estimated to exceed $150,000, this shall be stated in
+the advertisement for bids or proposals.
+
+15.145 APPEALS
+
+(1)  Procedure. The procedure for appeals from decisions of the public contracting officer shall be as
+follows:
+
+(a)  Notices of appeal shall be in writing addressed to the public contracting officer and must be
+submitted no later than 14 calendar days from the date of the challenged decision.
+
+(b)  Immediately upon receipt of written notice of appeal, the public contracting officer shall
+inform the Board.
+
+(c)  Upon receipt of notice of appeal, the Board shall notify the person appealing of the time and
+place of the hearing.
+
+(d)  The Board shall conduct a de novo hearing according to the provisions of ORS 279.045(3) and
+decide the appeal within 30 days after receiving the notification and shall set forth in writing
+the reasons for its decisions.

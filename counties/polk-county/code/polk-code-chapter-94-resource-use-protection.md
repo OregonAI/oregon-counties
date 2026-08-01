@@ -1,0 +1,182 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-94-resource-use-protection
+title: 'Chapter-94-Resource-Use-Protection'
+doc_type: ordinance
+citation: 'Chapter-94-Resource-Use-Protection'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3427/Chapter-94-Resource-Use-Protection
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 54920d4bdda3506aaec1cb1df33b3856bb8b94ee1e1b0b50da63b64d9226899a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 527.620
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-94-Resource-Use-Protection (Chapter-94-Resource-Use-Protection)
+
+## At a glance
+
+Chapter-94-Resource-Use-Protection — code of Polk County. 3 pages.
+
+## Full text
+
+CHAPTER 94
+
+ RESOURCE USE PROTECTION
+
+ 94.100  SHORT TITLE
+
+ This Ordinance may be cited as the Polk County Resource Use Protection Ordinance.
+
+ (1)  It is the purpose of this code sec tion to protect resource-based economically
+productive activities of Polk County in order to assure the continued health, safety, and prosperity of
+its residents. Resource uses sometimes offend, a nnoy, interfere with, or otherwise affect others
+located on or near resource lands. Polk County ha s concluded that persons located on or near
+resource lands must accept the conditions commonly associated with accepted resource uses.
+
+ (2) This code section is intended to limit the availability of remedies based on nuisance
+or trespass, complaint procedures, rights of action and claims for relief over which Polk County has
+jurisdiction, when they otherwise would either have an adverse impact on resource uses which Polk
+County seeks to protect, or would impair full use of the resource base within Polk County.
+
+ 94.120 DEFINITIONS
+
+ As used in PCC 94.100-94.180:
+
+ (1) "Facility" means any real or personal property, including appurtenances thereto and
+fixtures thereon, associated with a given use.
+
+ (2) "Farming practice" means the cultivati on, growing, harvesting, processing, or selling
+of plants or animals of any kind, which lawfully may be grown, possessed, and sold, including but
+not limited to fish, livestock, poultry, grapes, Christmas trees, and nursery stock.
+
+ (3) "Forest practice" has the meaning given that term by ORS 527.620.
+
+ (4) "Nonresource use" means any facility, activity, or other use of land which does not
+constitute a resource use, including but not limite d to residential use, and also including any
+aggregate mining use which is not conducted in accordance with a program complying with Goal 5.
+
+ (5) "Resource use" means any current or future generally accepted aggregate mining,
+farming, ranching, or forest practice or facility conducted in compliance with applicable Polk
+County Land Use Ordinances.
+
+ (6) "Generally accepted" means either:
+
+  (a) A practice or facility which is conducted or used in compliance with
+applicable federal and state laws; or
+
+  (b) If there is no applicable federal or state law, a practice or facility which an
+average person in Polk County who is  a grower or producer regularly
+involved in the same type of resource use would reasonably expect to occur
+or exist in a truly rural setting. Th e Polk County Board of Commissioners
+
+ 94-1
+m
+ay, as it deems necessary, establish resource user peer review boards
+consisting of five persons who regularly are involved in a resource use within
+the county, three of whom regularly are involved in the same type of resource
+use in question, to advise the Commission as to generally accepted practices
+or facilities with respect to that resource use.
+
+ (7) "Resource use" does not include:
+
+  (a) The willful growing of unlawful, in fested, infected, or diseased plants or
+animals.
+
+  (b) Trespass which involves actual physical intrusion onto the property of
+another by a person or by a person's animals.
+
+ 94.130 PROTECTING RESOURCE USES OUTSIDE UGB
+
+ (1)  No resource use occurring outside an  urban growth boundary (UGB) shall be
+declared to be a public or private nuisance or trespass, or support any complaint procedure, or give
+rise to a claim for relief in favor of, or to protect the interests of, nonresource uses or any persons or
+property associated therewith, to the extent that such right, proceeding or claim would arise under an
+ordinance or the inherent authority of Polk County.
+
+ (2) This section applies regardless of:
+
+  (a) The location of the purportedly affected nonresource use.
+
+  (b) Whether the nonresource use purportedly affected existed before or after the
+occurrence of the resource use.
+
+  (c) Whether the resource use or nonr esource use has undergone any change or
+interruption.
+
+  (d) Whether the resource use or nonresource use is located inside or outside an
+area designated as secondary resource lands.
+
+ 94.140 PROTECTING RESOURCE USES WITHIN UGB
+
+ (1)  No resource use occurring within an ur ban growth boundary (UGB) shall be declared
+to be a public or private nuisance or trespass, or support any complaint procedure, or give rise to a
+claim for relief in favor if, or to protect the interests of, nonresource uses or any persons or property
+associated therewith, to the extent that such  right, proceeding, or claim would arise under an
+ordinance or the inherent authority of Polk County.
+
+ (2) This section applies:
+
+  (a) Regardless of the location of the purportedly affected nonresource use.
+
+  (b) Only if the resource use predated the purportedly affected nonresource use.
+
+ 94-2
+
+ 94-3
+
+  (c) Only if the resource use has not si gnificantly increased in size or intensity
+after (A) the effective date of this Ordinance, or (B) the date on which the
+applicable urban growth boundary is changed to include the subject resource
+use within its limits, whichever date is  later. However, if the change is
+mandated by law, this section shall apply.
+
+ 94.150 CHANGE IN UGB
+
+ To the extent permissible under State law, if an urban growth boundary (UGB) is changed in
+such a way as to place a resource use either inside or outside such boundary, PCC 94.130 applies
+with respect to any conflict between a resource use and nonresource use.
+
+ 94.160 LAND USE DECISIONS
+
+ The fact that Polk County's comprehensive plan, zoning ordinances, and land use decisions
+may allow the siting, development, or support of any particular use does not negate the provisions of
+this code section intended to protect a resource use.
+
+ 94.170 COMPLAINTS BY NONRESOURCE USERS
+
+ Any persons engaged in a nonresource use are deemed on notice that Polk County will not
+act on complaints involving a resource use protected under this code section, wherever located, so
+long as such resource use complies with applicable provisions of federal and state laws and this code
+section.
+
+ 94.180 SEVERABILITY CLAUSE
+
+ If any portion of this code section is held invalid by a court of competent jurisdiction, such
+decision shall apply only with respect to the specific portion held invalid by the decision. It is the
+intent of Polk County that the remaining portions of this code section continue in full force and
+effect.
+
+Note: This ordinance was not adopted with code numbers or references. These have been
+supplied by Legal Counsel. Source:  Ordinance No. 92-36.

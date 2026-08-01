@@ -1,0 +1,173 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-152
+title: '152'
+doc_type: ordinance
+citation: '152'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4511/152
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 353530f4d40bef490089b3b037ac255e54d1a7323f1ddd64344776266e92d1b6
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 152 (152)
+
+## At a glance
+
+152 — land use of Polk County. 5 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 152 (2009 update).doc                            152-1
+CHAPTER 152
+
+UNINCORPORATED COMMUNITY INDUSTRIAL COMMERCIAL (UC-IC) ZONING
+DISTRICT
+
+152.010. Purpose and Intent
+152.020. Small-Scale, Low Impact Uses
+152.025 Industrial Mill Sites
+152.030. Standard Industrial Classifications
+152.040. Permitted Uses
+152.050. Uses Subject to Administrative Review
+152.060. Conditional Uses
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 152 (2009 update).doc                            152-2
+152.010.  PURPOSE AND INTENT.   The purpose of the Unincorporated Community Industrial
+Commercial (UC-IC) Zoning District is to implement the Comprehensive Plan policies related to
+both industrial and commercial development by providing for a mixture of commercial and
+manufacturing activities.  This zone is applied to designated lands within unincorporated
+communities.
+Commercial activities in this zone generally consist of uses which complement agricultural and
+forest activities in the surrounding area, uses which serve the needs of the surrounding community
+or the needs of the traveling public, or other uses which are small-scale and low impact.  Industrial
+activities in this zone generally consist of uses which complement agricultural and forest activities
+in the surrounding area, uses that require proximity to rural resources, or other uses which are
+small-scale and low impact.
+152.020.  SMALL-SCALE, LOW-IMPACT USES.   Commercial uses allowed in any UC-IC
+Zone which are listed under Section 147.040(C) or Section 147.060(C) shall be established in a
+building or buildings not to exceed 4,000 square feet of floor space.  The floor area calculation does
+not include outdoor storage areas.
+Except as provided in Section 152.025, an industrial use listed under Section 152.040(D) or Section
+152.060(C) or (D) shall be established in a building or buildings not to exceed 40,000 square feet of
+floor space.  The floor area calculation does not include outdoor storage areas.
+Establishment of a new commercial use or expansion of a commercial use listed under Section
+147.040(C) or Section 147.060(C) which would exceed the 4,000 square foot standard shall require
+a Comprehensive Plan Amendment as specified in Chapter 115 of the Zoning Ordinance.
+Except as provided in Section 152.025, the establishment of a new industrial use listed under
+Sections 152.040(D), 152.060(C), and 152.060(D) or expansion of an industrial use other than those
+listed under Section 152.040(B) which would exceed the 40,000 square foot standard shall require a
+Comprehensive Plan Amendment as specified in Chapter 115 of the Zoning Ordinance.
+152.025.  INDUSTRIAL MILL SITES .  A use sited on an abandoned or diminished industrial mill
+site that was engaged in the processing or manufacturing of wood products is not subject to the
+small-scale, low-impact building size limitation, provided that the use will be located only on the
+portion of the mill site that was zoned for industrial use on October 28, 1994.
+152.030.  STANDARD INDUSTRIAL CLASSIFICATIONS.   Standard Industrial Classification
+(SIC) code numbers for most of the uses in this zone are shown in parentheses after the listed use.
+The SIC codes are a coding system used by the federal government to identify specific industries.
+Two-digit codes are used most often in the Zoning Ordinance to describe general categories of uses.
+In some instances, more specific three and four-digit codes are used.  A copy of the SIC Manual is
+available for use at the Community Development Department and provides a more detailed
+description of the uses described in each general category.
+152.040.  PERMITTED USES.  The following uses and their accessory buildings and uses are
+permitted.  All uses under this Section are subject to the applicable standards as set forth in Chapter
+112 (Development Standards) and other general provisions and exceptions set forth by this
+ordinance.  No building, structure, or premises shall be used except for one or more of the following
+uses:
+(A) Commercial uses:
+(1) Any use permitted under Section 147.040.
+(B) Expansion of an existing industrial use which e xisted on December 5, 1994;
+(C) Industrial uses which require proximity to rura l resources:
+(1) Food and derivative products processing, includ ing grain elevators, storage (20);
+(2) Laboratories (feed and seed, soil testing) (873 4);
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 152 (2009 update).doc                            152-3
+(D) Industrial uses which are small-scale, low-impa ct:
+(1) Electronic and other electrical equipment and c omponents manufacturing (36);
+(2) Metal fabricated products manufacturing (34);
+(3) Printing, publishing and allied industries (27) ;
+(4) Measuring, analyzing, and controlling instrumen ts manufacturing (38);
+(5) Manufacturing of rubber products and miscellane ous plastics products (30);
+(6) Transportation equipment repair (37);
+(7) Computer and office equipment assembling (357);
+(8) Metal working equipment and machinery manufactu ring wholly within a building
+(354);
+(9) Public warehousing and storage (422);
+(10) Wholesale trade, non-durable goods (51);
+(11) Utilities - primary equipment and storage yard ; and
+(12) Well drilling pump repair facilities.
+ (E) Transportation Improvements
+[Amended by Ordinance 01-01]
+ (F) Wind energy systems utilizing a tower and mete orological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.  [Amended by Ordinance 09-
+06]
+152.050.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+(A)  Wind energy systems utilizing a tower and meteorological towers outside of an adopted
+urban growth boundary that are not commercial power generating facilities that would
+utilize a tower(s) that requires lighting or that requires modification to the height or type
+of construction standards described in Section 112.135(C)(1), as provided in Sections
+112.135 and 112.137.  [Amended by Ordinance 09-06]
+152.060.  CONDITIONAL USES.   When authorized under the procedure provided for conditional
+uses in this ordinance, the following uses will be permitted in any UC-IC Zone:
+(A) Commercial Uses:
+(1) Any use permitted in Section 147.060;
+(B) Industrial uses which require proximity to rura l resources:
+(1) Millwork, veneer, and wooden container manufact uring (243, 244).
+(C) Industrial uses which are small-scale, low-impa ct:
+(1) Chemicals, fertilizers, insecticides, paint and  allied products mixing and
+packaging (2875);
+(2) Furniture and fixtures manufacturing (25);
+(3) Paperboard containers and boxes assembly (265);
+(4) Sign construction and painting shop, contained wholly within a building;
+(5) Special industry machinery manufacturing, such as sawmill equipment (355);
+(6) Refrigeration and service industry machinery ma nufacturing (358);
+(7) Leather and leather products manufacture (31);
+(8) Textile products manufacture, including apparel  (22, 23); and
+(9) Asphalt batch plants.
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 152 (2009 update).doc                            152-4
+(D) Any other industrial use, where the buildings d o not exceed 40,000 square feet of floor
+space provided that:
+(1) The use is small in size and low impact; or
+(2) The use is significantly dependent upon a speci fic resource located on agricultural
+or forest land; and
+(3) The use will not have adverse impacts on surrou nding farm and forest activities;
+and
+(4)  The new use will not exceed the capacity of water and sewer service available to
+the site on December 5, 1994, or if such services are not available to the site, the
+capacity of the site itself to provide adequate water and absorb waste water.
+ (E) Wind energy systems utilizing a tower and mete orological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.
+[Amended by Ordinance 09-
+06]
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 152 (2009 update).doc                            152-5
+Appendix 1
+Fort Hill Unincorporated Community Industrial Properties Inventory
+May, 2005
+Num ber Tax Map ID Location Uses Size (acres ±)
+Bldg. Size (sq. ft.)
+1 6.7.16A.500  25225 Yamhill River Road  Automotive repair and towing  1.13 2,880 Building and 4,000 Building

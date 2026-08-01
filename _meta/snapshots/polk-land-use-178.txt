@@ -1,0 +1,590 @@
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-1
+CHAPTER 178
+FLOODPLAIN OVERLAY ZONE
+178.005. Statutory Authorization
+178.010. Purpose
+178.015. Definitions
+178.020. General Provisions
+178.030. Uses
+178.040. Prohibited Uses
+178.050. Development Permit Procedures and Requirem ents
+178.060. Conditional Use Permit Procedures and Requ irements
+178.070. Provisions for Flood Hazard Reduction
+178.080. Variance Procedure
+178.090. Warning and Disclaimer
+178.100. Map Revisions and Amendments
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-2
+178.005.  STATUTORY AUTHORIZATION.   The Legislature of the State of Oregon has in
+ORS 221.916 delegated the responsibility to local governmental units to adopt regulations
+designed to promote the public health, safety, and general welfare of is citizenry.  Therefore, the
+Board of Commissioners of Polk County, Oregon, does ordain as follows:
+178.010.  PURPOSE.   It is the purpose of the Floodplain Overlay Zone to regulate the use of
+those areas subject to periodic flooding and to permit and encourage the retention of open land
+uses that are compatible and harmonious in nature.  In advancing these principles and the general
+purposes of the Polk County Comprehensive Plan and Zoning Ordinance, the specific intent of
+this zone is:
+(A) To combine with present zoning requirements, ce rtain restrictions made necessary for
+the known floodplains to promote the general health, welfare and safety of the
+County.
+(B) To minimize the impact due to the establishment  of certain structures and land uses
+in areas unfit for human habitation because of danger of flooding, unsanitary
+conditions or other hazards.
+(C) To minimize danger to public health by protecti ng the water supply and promoting
+safe and sanitary drainage.
+(D) To reduce the financial burden imposed on the p ublic and governmental units by
+frequent and periodic flooding.
+(E) To permit certain uses which can be strategical ly located in the floodplain as herein
+defined and which will not cause danger to life and property at, above or below their
+locations within the floodplain.
+(F) To minimize the need for rescue and relief effo rts associated with flooding and
+generally undertaken at the expense of the general public.
+(G) To ensure that potential buyers are notified th at property is in the floodplain.
+(H) To ensure that those who occupy the areas withi n floodplains assume responsibility
+for their actions.
+(I) To minimize damage to public facilities and uti lities such as water and gas mains,
+electric, telephone and sewer lines, streets and bridges located in floodplains.
+178.015.  DEFINITIONS.   Unless specifically defined below, words or phrases used in this
+ordinance shall be interpreted so as to give them the meaning they have in common usage and to
+give this ordinance its most reasonable application.
+"APPEAL" means a request for a review of the Planning Director's or Building Official's
+interpretation of any provisions of this ordinance or a request for a variance.  Such an appeal
+shall be made to the Building Inspection Board of Appeals or to the Board of Commissioners.
+"BASE FLOOD" means the flood having a one percent chance of being equaled or exceeded in
+any given year, referred to as the '100-year flood.'  Designation on maps always includes the
+letters A or V.
+"BASEMENT" means any area of the building having its floor subgrade (below ground level) on
+all sides.
+"DEVELOPMENT" means any man-made change to improved or unimproved real estate,
+including but not limited to buildings or other structures, mining, dredging, filling, grading,
+paving, excavation or drilling operations or storage of equipment or materials located within
+floodplains.
+"FLOOD" or "FLOODING" means a general and temporary condition of partial or complete
+inundation of normally dry land areas from:
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-3
+(1) The overflow of inland or tidal waters and/or
+(2) The unusual and rapid accumulation of runoff of  surface waters from any
+source.
+"FLOOD INSURANCE RATE MAP (FIRM)" means the official map on which the Federal
+Insurance Administration has delineated floodplains (also known as Special Flood Hazard areas)
+applicable to the community.
+"FLOOD INSURANCE STUDY" means the official report provided by the Federal Insurance
+Administration that includes flood profiles, the Flood Boundary-Floodway Map, and the water
+surface elevation of the base flood.
+"FLOODPLAIN" means the land within a community subject to a one percent or greater chance
+of flooding in any given year.  This area is referred to on the Flood Insurance Rate Map as the
+"Special Flood Hazard Areas".  Designation on maps always includes the letters A or V.
+"FLOODWAY" means the channel of a river or other watercourse and the adjacent land areas
+that must be reserved in order to discharge the base flood without cumulatively increasing the
+water surface elevation more than one foot.  Floodways are determined by FEMA using a
+numerical model.  The floodway is an extremely hazardous area due to the velocity of flood
+waters which carry debris and potential projectiles, along with an elevated erosion potential.
+"LOWEST FLOOR" means the lowest floor of the lowest enclosed area (including basement).
+An unfinished or flood resistant enclosure, usable solely for parking of vehicles, building access
+or storage, in an area other than a basement area, is not considered a building's lowest floor,
+provided that such enclosure is not built so as to render the structure in violation of the applicable
+non-elevation design requirements of this ordinance found at Section 178.070 (B)(3).
+"MANUFACTURED HOME" means a structure, transportable in one or more sections, which is
+built on a permanent chassis and is designed for use with or without permanent foundation when
+connected to the required utilities.  For floodplain management purposes the term "manufactured
+home" also includes park trailers, travel trailers, and other similar vehicles placed on a site for
+greater than 180 consecutive days.
+"MANUFACTURED HOME PARK OR SUBDIVISION" means a parcel (or contiguous
+parcels) of land divided into two or more manufactured home lots for rent or sale.
+"NEW CONSTRUCTION" means structures for which the "start of construction" commenced on
+or after the effective date of this ordinance.
+“RECREATIONAL VEHICLE” means a vehicle which is:
+(a)  Built on a single chassis;
+(b)  400 square feet or less when measured at the largest horizontal projection;
+(c)  Designed to be self-propelled or permanently towable by a light duty truck; and
+(d)  Designed primarily not for use as a permanent dwelling but as temporary living
+quarters for recreational, camping, travel, or seasonal use.
+"START OF CONSTRUCTION" includes substantial improvement, and means the date the
+building permit was issued, provided the actual start of construction, repair, reconstruction,
+placement or other improvement was within 180 days of the permit date.  The actual start means
+either the first placement of permanent construction of a structure on a site, such as the pouring
+of slab or footings, the installation of piles, the construction of columns, or any work beyond the
+stage of excavation; or the placement of a manufactured home on a foundation.  Permanent
+construction does not include land preparation, such as clearing, grading and filling; nor does it
+include the installation of streets and/or walkways; nor does it include excavation for a basement,
+footings, piers, or foundation or the erection of temporary forms; nor does it include the
+installation on the property of accessory buildings, such as garages or sheds not occupied as
+dwelling units or not part of the main structure.  For a substantial improvement, the actual start of
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-4
+construction means the first alteration of any wall, ceiling, floor, or other structural part of a
+building, whether or not that alteration affects the external dimensions of the building.
+"STRUCTURE" means a walled and roofed building including a gas or liquid storage tank that is
+principally above ground.
+"SUBSTANTIAL IMPROVEMENT" means any repair, reconstruction, or improvement of a
+structure, the cost of which equals or exceeds 50 percent of the market value of the structure,
+either:
+(1) before the improvement or repair is started, or
+(2) if the structure has been damaged and is being restored, before the damage
+occurred.  For the purposes of this definition "substantial improvement" is
+considered to occur when the first alteration of any wall, ceiling, floor, or other
+structural part of the building commences, whether or not that alteration affects
+the external dimensions of the structure.
+The term does not, however, include either:
+(1) any project for improvement of a structure to c omply with existing state or
+local health, sanitary, or safety code specifications which have been identified
+by the local code enforcement official and which are the minimum necessary to
+assure safe living conditions, or
+(2) any alteration of a structure listed on the Nat ional Register of Historic Places or
+a State Inventory of Historic Places.
+“SUBSTANTIAL DAMAGE” means damage of any origin sustained by a structure whereby the
+cost of restoring the structure to its before damaged condition would equal or exceed 50 percent
+of the market value of the structure before the damage occurred.
+"VARIANCE" means a grant of relief from the requirements of this ordinance which permits
+construction in a manner that would otherwise be prohibited by this ordinance.
+"WATERCOURSE" means any natural or artificial channel in which a flow of water occurs
+either continually or intermittently which is identified as having a floodplain on the Polk County
+Flood Insurance Rate map.
+178.020.  GENERAL PROVISIONS.   The following regulations apply to all areas of special
+flood hazards within the jurisdiction of Polk County, Oregon.  The areas of special flood hazard
+identified by the Federal Insurance Administration in a scientific and engineering report entitled
+“The Flood Insurance Study for Polk County, Oregon, and Incorporated Areas” dated December
+19, 2006 and any revisions there to with accompanying Flood Insurance Rate Maps and any
+revisions there to are hereby adopted by reference and declared a part of this Ordinance.  The
+issue of the map most recently adopted by Polk County shall apply.  The Flood Insurance Rate
+Maps and Flood Insurance Study are on file at the Polk County Community Development
+Department, Polk County Courthouse, Dallas, Oregon.
+Proposed revisions to any portion of the Polk County FIRM by the Federal Emergency
+Management Agency (FEMA) that would result in changes to the location of floodplain
+boundaries shall constitute the initiation of a zone change proceeding by a government body
+subject to the standards for such proceedings as described in the Polk County Zoning Ordinance
+(PCZO).  A public hearing shall be held and notice of such hearing shall be given to all affected
+property owners as provided for by the PCZO.  Notice of such public hearing shall be provided to
+FEMA.
+As described in Section 178.100, the county or a private party may request that a map be revised
+through the issuance of a Letter of Map Revision (LOMR).  LOMR requests which would result
+in a change to floodplain boundaries, but not floodway boundaries, and LOMR requests which
+would remove from floodplains individual structures or parcels elevated by the placement of fill,
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-5
+shall constitute the initiation of a zone change proceeding subject to the standards for such
+proceedings as described in the PCZO.  A public hearing shall be held and notice of such hearing
+shall be given to all affected property owners as provided for by the PCZO.  Notice of such
+public hearing shall be provided to FEMA.
+Proposed amendments to the Polk County FIRM which change floodway boundaries only,
+including both revisions proposed by FEMA and revisions initiated through the LOMR process,
+shall not be considered a zone change proceeding, however, a public hearing shall be held and
+notice of such hearing shall be given to all affected property owners.  Notice of such public
+hearing shall be provided to FEMA.
+When base flood elevation data is not available, the Planning Director shall have the authority to
+determine the location of the boundaries of the floodplain where there appears to be a conflict
+between a mapped boundary and the actual field conditions, provided a record is maintained of
+any such determination.  In making such a determination, the Planning Director shall obtain,
+review, and reasonably utilize any base flood elevation and floodway data available from a
+federal, state or other source.  The person contesting the location of the boundary shall be given a
+reasonable opportunity to appeal the interpretation to the Board of Commissioners as provided by
+the Zoning Ordinance.
+178.030.  USES.   Within the Floodplain Overlay Zone, no uses or structures shall be established
+except as provided in the applicable underlying zone and in the provisions of this overlay zone.
+Except as provided herein, all uses and floodplain development shall be subject to the issuance of
+a development permit or a landuse permit as provided in Section 178.050 and Section 178.060.
+The following uses are exempt from the requirements of Chapter 178 of the Polk County Zoning
+Ordinance.  These activities may be conducted in a floodplain without obtaining a landuse permit
+or a development permit pursuant to Chapter 178 of the Zoning Ordinance.  Such activities must,
+however, conform to all other applicable provisions of the Polk County Zoning Ordinance and
+the activities shall not fall under the definition of “development”:
+(A) The placing by a public agency of signs, marker s, aids, etc. to serve the public;
+(B) Activities to protect, conserve, enhance and ma intain public recreational, scenic,
+historical, and natural uses of public lands, except that a substantial increase in the
+level of development of existing public recreational, scenic, historical, or natural uses
+on public lands shall require review by the Planning Director;
+(C) Agriculture as defined in ORS 215.203 (2);
+(D) The propagation of timber or the cutting of tim ber;
+(E) Uses legally existing on the effective date of this Ordinance; any change or
+intensification of such use not otherwise permitted in this section, however, shall
+require review as provided by this Ordinance.
+178.040.  PROHIBITED USES.   It shall be unlawful to erect, alter, maintain or establish in a
+floodplain overlay zone any building, use or occupancy not permitted or allowed in the foregoing
+provisions, except existing nonconforming uses, which may continue as provided by the Zoning
+Ordinance.
+(A) Subdivisions are not consistent with the purpos e and intent of this zone and are
+hereby prohibited.
+(B) Storage of Materials and Equipment.  Materials that are buoyant, flammable,
+obnoxious, toxic or otherwise injurious to persons or property if transported by flood
+waters are prohibited.  Storage of materials and equipment not having these
+characteristics is permissible with a landuse permit, only if the materials and
+equipment have low damage potential and are anchored or are readily removable
+from the area within the time available after forecasting and warning.
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-6
+(C) Residential (including the placement of manufac tured homes) and nonresidential
+structures shall not be constructed within the adopted regulatory floodway, with the
+exception of:
+(1) Accessory structures, such as garages or sheds not occupied as dwelling units
+or not part of the main structure.
+(2) Utility facilities necessary for public service , except commercial facilities for
+the purpose of generating power for public sale or use.
+Placement of such accessory structures or utility facilities in the floodway shall be
+subject to the landuse permit requirements of Section 178.060.
+178.050.  DEVELOPMENT PERMIT PROCEDURES AND REQUIREMENTS.
+A development permit shall be obtained from the Polk County Building Department before
+construction or structural development begins within any floodplain shown on the Polk County
+Flood Insurance Rate Map, excluding areas designated as floodways.  The development permit
+shall be for all structures, including manufactured homes, accessory buildings, and bridges for
+private use.
+The Building Official is responsible for review and approval of all development permits issued
+for structural development within floodplains identified on the Polk County Flood Insurance Rate
+Map.  Approval of the development permit shall be based upon:
+(A) Compliance with the standards for flood hazard reduction described in Section
+178.070.
+(B) Completion of a National Flood Insurance Progra m Elevation Certificate.  The
+Elevation Certificate must be completed by a land surveyor, engineer, or architect for
+all structural development in areas within floodplains where the base flood elevation
+has been established (zones AE and AH).  The Building Official will complete the
+Elevation Certificate for all structural development in all areas within floodplains
+where no base flood elevation has been established (zone A).
+A National Flood Insurance Program Floodproofing Certificate shall be completed by
+a registered professional engineer or architect for all nonresidential development as
+described in Section 178.070 (C)(3).
+(C)  Review to determine that all necessary permits have been obtained from those
+federal, state or local governmental agencies from which prior approval is required.
+178.060.  LANDUSE PERMIT PROCEDURES AND REQUIREMENTS.
+(A) A landuse permit shall be obtained from the Pol k County Community Development
+Department prior to commencement of the following types of development:
+(1) Located within floodplains established in Secti on 178.020 are areas designated
+as floodways.  Since the floodway is an extremely hazardous area due to the
+velocity of flood waters which carry debris, potential projectiles, and erosion
+potential, construction of residential structures (including the placement of
+manufactured homes) and nonresidential structures shall not be permitted
+within the adopted regulatory floodway subject to compliance with 178.060
+(B)(3), with the exception of:
+(a) Accessory structures, such as garages or sheds not occupied as dwelling
+units or not part of the main structure.
+(b) Utility facilities necessary for public service , except commercial facilities
+for the purpose of generating power for public sale or use.
+(c) The construction or substantial improvement of bridges, for public or
+private use.
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-7
+(d) Addition or substantial improvement of an exist ing structure.
+(2) Non-structural development within any floodplai n identified on the Polk
+County Flood Insurance Rate Map requires a landuse permit.  Non-structural
+development includes mining, dredging, filling, grading, paving, excavation or
+drilling operations or storage of equipment or materials.
+(3) Alteration of a watercourse which is identified  as having a floodplain as shown
+on the Polk County Flood Insurance Rate Map. (See Section 178.060 (B)(5)).
+(B) The Planning Director is responsible for review  and approval of all landuse permit
+applications submitted for development and uses described in this section.  The
+Planning Director shall determine that such development and uses meet the following
+requirements:
+(1) The necessary permits for the proposed developm ent have been obtained from
+those federal, state or local governmental agencies from which prior approval
+is required.
+(2) The proposed development will not adversely aff ect the flood carrying capacity
+of the floodplain.  For purposes of this ordinance "adversely affect" means that
+the cumulative effects of the proposed development when combined with all
+other existing and anticipated development will not increase the water surface
+elevation of the base flood more than one (1) foot at any point.
+(3) Development in the floodway requires compliance  with the following
+provisions:
+(a) Certification by a registered professional engi neer or architect
+demonstrating that encroachments, including fill, new construction,
+substantial improvements, and other development unless certification by
+a registered professional civil engineer is provided demonstrating
+through hydrologic and hydraulic analyses performed in accordance with
+standard engineering practice that encroachments shall not result in any
+increase in flood levels during the occurrence of the base flood discharge.
+(b) If the above section is satisfied, all new cons truction and substantial
+improvements as identified in Section 178.060 (A) shall comply with all
+applicable flood hazard reduction provisions of Section 178.070.
+(4) Non-structural development within any floodplai n identified on the Polk
+County Flood Insurance Rate Map.  Non-structural development includes
+mining, dredging, filling, grading, paving, excavation or drilling operations or
+storage of equipment or materials.  Approval of the landuse permit shall be
+based on the following provisions:
+(a) Such development shall be consistent with the n eed to minimize flood
+damage;
+(b) Such development shall have adequate drainage p rovided to reduce
+exposure to flood damage; and,
+(c) The cumulative effect of any proposed developme nt, when combined
+with all other existing and anticipated development, shall not increase the
+water surface elevation of the base flood more than one (1) foot at any
+point.
+(d) If located in the floodway, non-structural deve lopment shall meet the
+requirements of 178.060 (B)(3).
+(5) Alteration of a watercourse which is identified  as a floodplain as shown on the
+Polk County Flood Insurance Rate Map requires a landuse permit.  Prior to
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-8
+approving a landuse permit for the alteration of a watercourse, the Planning
+Director shall:
+(a) Notify adjacent communities, adjoining property  owners, and the
+Department of Land Conservation and Development prior to any
+alternation or relocation of a watercourse, and submit evidence of such
+notification to the Federal Insurance Administration.
+(b) Require that maintenance is provided within the  altered or relocated
+portion of said watercourse so that the flood carrying capacity is not
+diminished.
+(C) Notice upon an application for a landuse permit  under Section 178.060 shall be
+provided as required by Chapter 111.
+(D) Notice of the decision of the Planning Director  shall be given as provided in Section
+111.270.
+(E) Decisions of the Planning Director on landuse a pplications under Section 178.060
+shall be subject to the appeal provisions in Section 111.280 and the call of the Board
+of Commissioners as provided in Section 111.290.
+178.070.  PROVISIONS FOR FLOOD HAZARD REDUCTION .
+(A)  GENERAL STANDARDS.
+In all floodplains the following standards are required:
+(1) Anchoring.  All new construction and substantia l improvements shall be
+anchored to prevent floatation, collapse, or lateral movement of the structure.
+(a) All manufactured homes must likewise be anchore d to prevent flotation,
+collapse or lateral movement, and shall be installed using methods and
+practices that minimize flood damage.  Anchoring methods may include,
+but are not limited to, use of over-the-top or frame ties to ground anchors
+(reference FEMA's "Manufactured Home Installation in Flood Hazard
+Areas" guidebook for additional techniques).
+(2) Construction materials and methods.
+(a) All new construction and substantial improvemen ts shall be constructed
+with materials and utility equipment resistant to flood damage.
+(b) All new construction and substantial improvemen ts shall be constructed
+using methods and practices that minimize flood damage.
+(c) Electrical, heating, ventilation, plumbing, and  air-conditioning
+equipment and other service facilities shall be designed and/or otherwise
+elevated or located so as to prevent water from entering or accumulating
+within the components during conditions of flooding.
+(3) Utilities.
+(a) All new and replacement water supply systems sh all be designed to
+minimize or eliminate infiltration of flood waters into the systems.
+(b) All new and replacement sanitary sewage systems  shall be designed to
+minimize or eliminate infiltration of flood waters into the systems and
+discharge from the systems into flood waters; and
+(c) On-site waste disposal systems shall be located  to avoid impairment to
+them or contamination from them during flooding.  As used in this
+subsection the term "contamination" has the meaning given to it in the
+administrative rules for on-site waste disposal systems adopted by the
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-9
+Oregon Environmental Quality Commission and Department of
+Environmental Quality.
+(4) Subdivision Proposals and other Proposed Develo pment.
+(a) Shall be consistent with the need to minimize f lood damage;
+(b) Shall have public utilities and facilities such  as sewer, gas, electrical, and
+water systems located and constructed to minimize flood damage;
+(c) Shall have adequate drainage provided to reduce  exposure to flood
+damage; and,
+(d) Where base flood elevation data has not been pr ovided or is not available
+from another authoritative source, it shall be generated for other
+proposed development which contain at least 50 lots or 5 acres
+(whichever is less).
+(5) Elevation Certificates.  For all structural dev elopment within floodplains where
+no base flood elevation has been established (zone A), the Building Official
+shall complete a National Flood Insurance Program Elevation Certificate as
+part of the final inspection for all structures pursuant to Section 178.050 (B).
+The Building Official will verify the height differential between the lowest
+floor of each structure and the existing grade at the building site prior to the
+start of construction.  Failure to elevate the lowest habitable floor at least two
+feet above grade in these zones may result in higher flood insurance rates.
+(6) Crawlspace Construction.  When crawlspaces are constructed in a flood hazard
+area, at-grade crawlspaces are the preferred method of construction.  Below-
+grade crawlspaces are allowed, and not considered a basement, if all of the
+following standards are satisfied as found in Technical Bulletin 11-01,
+Crawlspace Construction for Buildings Located in Special Flood Hazard
+Areas :
+(a) The building must be designed and adequately an chored to resist
+flotation, collapse, and lateral movement of the structure resulting from
+hydrodynamic and hydrostatic loads, including the effects of buoyancy.
+Hydrostatic loads and the effects of buoyancy can usually be addressed
+through the required openings stated in Section (b) below.  Because of
+hydrodynamic loads, crawlspace construction is not allowed in areas
+with flood velocities greater than five (5) feet per second unless the
+design is reviewed by a qualified design professional, such as a
+registered architect or professional engineer.  Other types of foundations
+are recommended for these areas.
+(b) The crawlspace is an enclosed area below the ba se flood elevation (BFE)
+and, as such, must have openings that equalize hydrostatic pressures by
+allowing the automatic entry and exit of floodwaters.  The bottom of
+each flood vent opening can be no more than one (1) foot above the
+lowest adjacent exterior grade.
+(c) Portions of the building below the BFE must be constructed with
+materials resistant to flood damage.  This includes not only the
+foundation walls of the crawlspace used to elevate the building, but also
+any joists, insulation, or other materials that extend below the BFE.  The
+recommended construction practice is to elevate the bottom of joists and
+all insulation above BFE.
+(d) Any building utility systems within the crawlsp ace must be elevated
+above BFE or designed so that floodwaters cannot enter or accumulate
+within the system components during flood conditions.  Ductwork, in
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-10
+particular, must either be placed above the BFE or sealed from
+floodwaters.
+(e) The interior grade of a crawlspace below the BF E must not be more than
+two (2) feet below the lowest adjacent exterior grade.
+(f) The height of the below-grade crawlspace, measu red from the interior
+grade of the crawlspace to the top of the crawlspace foundation wall
+must not exceed four (4) feet at any point.  The height limitation is the
+maximum allowable unsupported wall height according to the
+engineering analyses and building code requirements for flood hazard
+areas.
+(g) There must be an adequate drainage system that removes floodwaters
+from the interior area of the crawlspace.  The enclosed area should be
+drained within a reasonable time after a flood event.  The type of
+drainage system will vary because of the site gradient and other drainage
+characteristics, such as soil types.  Possible options include natural
+drainage through porous, well-drained soils and drainage systems such
+as perforated pipes, drainage tiles or gravel or crushed stone drainage by
+gravity or mechanical means.
+(h) The velocity of floodwaters at the site should not exceed five (5) feet per
+second for any crawlspace.  For velocities in excess of five (5) feet per
+second, other foundation types should be used.
+ Note:  Structures that have below-grade crawlspace s may have higher flood
+insurance premiums than structures that have the preferred crawlspace
+construction with the interior elevation at or above the lowest adjacent grade,
+even when the crawlspace meets the requirements of this section and FEMA
+Bulletin 11-01.  If a below-grade crawlspace does not meet the requirements of
+this section and FEMA Bulletin 11-01, the structure may be rated as having a
+basement and would result in higher insurance premiums.
+(B) DWELLINGS AND MANUFACTURED HOMES.
+In all floodplains where base flood elevation data has been established (zones AE and AH)
+new construction and substantial improvement of any residential structure, location of a
+manufactured home on a lot or in a manufactured home park or park expansion approved
+after the date of this ordinance shall comply with the following requirements:
+(1) New construction and substantial improvement of  any residential structure
+shall have the lowest floor, including basement, elevated one (1) foot above the
+base flood elevation.
+(2) Manufactured homes shall be anchored in accorda nce with subsection 178.070
+(A)(1)(a).
+(3) Fully enclosed areas below the lowest floor tha t are subject to flooding are
+prohibited, or shall be designed to automatically equalize hydrostatic flood
+forces on exterior walls by allowing for the entry and exit of floodwaters.
+Designs for meeting this requirement must either be certified by a registered
+professional engineer or architect or must meet or exceed the following
+minimum criteria:
+(a) A minimum of two openings having a total net ar ea of not less than one
+square inch for every square foot of enclosed area subject to flooding
+shall be provided.
+(b) The bottom of all openings shall be no higher t han one foot above grade.
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-11
+(c) Openings may be equipped with screens, louvers,  or other coverings or
+devices provided that they permit the automatic entry and exit of
+floodwaters.
+(4) All manufactured homes to be placed or substant ially improved within zones
+where the base flood elevation has been determined (AE and AH) shall be
+elevated on a permanent foundation such that the lowest floor of the
+manufactured home is one foot above the base flood elevation and be securely
+anchored to an adequately anchored foundation system in accordance with the
+provisions of 178.070 (A)(1)(a).
+(5) Crawlspace Construction.  At-grade crawlspaces are the preferred method of
+construction within flood hazard areas.  However, below-grade crawlspaces are
+allowed subject to the standards found in Section 178.070 (A)(6).
+(C) Nonresidential Construction.
+New construction and substantial improvement of any commercial, industrial or other
+nonresidential structure shall either have the lowest floor, including basement elevated one
+foot above the base flood elevation in zones AH and AE; or, together with attendant utility
+and sanitary facilities, shall:
+(1) Be floodproofed so that below the base flood le vel the structure is watertight
+with walls substantially impermeable to the passage of water;
+(2) Have structural components capable of resisting  hydrostatic and hydrodynamic
+loads and effects of buoyancy; and
+(3) A registered professional engineer or architect  shall complete a National Flood
+Insurance Program Floodproofing Certificate showing that the design and
+methods of construction are in accordance with accepted standards of practice
+for meeting provisions of this subsection based on their development and/or
+review of the structural design, specifications and plans.  In zones AH and AE,
+this certificate shall include the specific elevation (in relation to mean sea
+level) to which structures are floodproofed.  Such certifications shall be
+provided to the Building Official as set forth in Section 178.050 (B).
+(4) Applicants floodproofing nonresidential buildin gs shall be notified that flood
+insurance premiums will be based on rates that are one foot below the
+floodproofed level (e.g. a building constructed to the base flood level will be
+rated as one foot below that level).
+(5) Crawlspace Construction.  At-grade crawlspaces are the preferred method of
+construction within flood hazard areas.  However, below-grade crawlspaces are
+allowed subject to the standards found in Section 178.070 (A)(6).
+(D) Accessory Structures.  Detached accessory struc tures such as sheds, small garages,
+garden buildings, etc., may be allowed within floodplains subject to approval of a
+development permit (or a landuse permit if located in a floodway).  The criteria in
+Section 178.050 or Section 178.060 shall be used in considering approval of the
+permit.  In addition, all the following standards must be met.  Accessory structures:
+(1) shall not be used for human habitation;
+(2) shall be designed to have low flood damage pote ntial;
+(3) shall be constructed and placed on a building s ite so as to offer minimum
+resistance to the flow of floodwaters;
+(4) shall be less that 300 square feet or $3000 ass essed value; and
+(5) shall meet the general standards for anchoring,  construction materials and
+methods, and utilities as set forth in Section 178.070 (A).
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-12
+(E) Recreational Vehicles.  Recreational vehicles p laced on sites within the floodplain
+must either:
+(1) be on the site for fewer than 180 consecutive d ays,
+(2) be fully licensed and ready for highway use, or  meet the requirements for a
+manufactured home.
+A recreational vehicle is ready for highway use if it is on its wheels or jacking
+system, is attached to the site only by quick disconnect type utilities and security
+devices and has no permanently attached additions.
+178.080.  VARIANCE PROCEDURE.   A variance may be granted for non-residential
+construction in very limited circumstances to allow a lesser degree of floodproofing than the
+requirements of Sections 178.070 (C).  The general standards required in Section 178.070 (A)
+may not be waived.  Consideration of a variance shall be in accordance with variance standards
+described in the current edition of the adopted Oregon Structural Specialty Code.  The Building
+Official may permit and authorize a variance after considering if all of the following criteria are
+met:
+(A) CONDITIONS FOR VARIANCES.
+(1) Variances shall not be issued within designated  floodways;
+(2) Variances shall only be issued for non-habitabl e structures;
+(3) Variances shall only be issued upon determinati on that the variance is the
+minimum necessary, considering the flood hazard, to afford relief;
+(4) There are unnecessary, unreasonable hardship or  practical difficulties, other
+than economic, which can be relieved only by modifying the literal
+requirements of the ordinance;
+(5) There are no other locations where the structur e could be located on the
+property which are not in the floodplain; and
+(6) Granting the variance will not result in increa sed flood heights, additional
+threats to public health or safety, extraordinary public expense, or create
+nuisances to the public.
+(B) NOTIFICATION TO APPLICANT. The County shall not ify the applicant in writing
+over the signature of the Building Official that issuance of a variance to construct a
+structure below the base flood elevation will result in increased flood insurance rates,
+and increased risks to life and property.
+(C) RECORD-KEEPING.  The County shall report all fl oodplain variances to FEMA,
+and maintain a record of all variance actions, including justification for granting a
+variance and the notification to applicant required in (B) above.
+(D) HISTORIC LANDMARKS.  A variance may be granted without regard for the
+requirements set forth in this section for the reconstruction, rehabilitation or
+restoration of structures listed on the National Register of Historic Places or State
+Inventory of Historic Places.
+(E) LIMITING VARIANCES.  The Building Official may impose such limitations,
+conditions and safeguards as are deemed appropriate so that the intent of this
+ordinance will be met, public safety and welfare secured, and substantial justice be
+done.  If the variance is granted the applicant shall exercise the rights granted in
+accordance with the terms and subject to all the conditions and limitations of the
+approval by the Building Official.  A violation of any such condition or limitation
+shall constitute a violation of this ordinance.
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\05-05-10 to current\CHAPTER 178.doc                 178-13
+(F) VARIANCE RIGHT MUST BE EXERCISED TO BE EFFECTIV E.  Variance
+granted under this ordinance shall be effective only when the exercise of the right
+granted thereunder shall be commenced within one year after the effective date of
+that variance, unless a longer period be specified or thereafter allowed by the
+Building Official.  In case such right has not been exercised, or extension obtained,
+the variance shall be void.  A written request for an extension of time filed with the
+director at least 30 days prior to the expiration of the application shall extend the
+running of the one year period until the Building Official has acted on said request.
+178.090.  WARNING AND DISCLAIMER.  The degree of flood protection required by this
+Ordinance is considered reasonable for regulatory purposes and is based on scientific and
+engineering consideration.  Larger floods can and will occur on rare occasions.  Flood heights
+may be increased by manmade or natural causes.  This Ordinance does not imply that lands
+outside floodplains or uses permitted within such areas will be free from flooding or flood
+damages.  This Ordinance shall not create a liability on the part of Polk County, any officer, or
+employee thereof or the Federal Insurance Administration, for any flood damages that might
+result from reliance on this Ordinance or any administrative decision lawfully made thereunder.
+178.100.  MAP REVISIONS AND AMENDMENTS.   FEMA has developed a map revision
+process under which the county or a private party may request that a map be revised through the
+issuance of a Letter of Map Revision (LOMR).  A LOMR may be issued for revisions that
+decrease the size of the floodplain including floodways.  LOMRs may also be issued to remove
+from floodplains individual structures or parcels elevated by the placement of fill or to remove
+from regulatory floodways structures or parcels inadvertently included in such floodways.
+LOMRs cannot be used to increase the size of floodplains including floodways.
+All LOMR requests must be submitted to the Planning Director for forwarding to FEMA.  The
+Planning Director shall review the request and shall indicate to FEMA whether the request is
+supported by Polk County.  Additional supporting materials must be submitted by the party
+requesting the LOMR.  Information regarding the types of additional data required is available
+from the Polk County Community Development Department.  LOMR requests which would
+result in a change to floodplain boundaries, but not floodway boundaries, and LOMR requests
+which would remove from floodplains individual structures or parcels elevated by the placement
+of fill, shall constitute the initiation of a zone change proceeding as described in Section 178.020.
+Individual property owners or lessees may also request from FEMA a determination as to
+whether one or more structures on one or more lots or parcels are located within floodplain
+boundaries.  If necessary, FEMA will issue a Letter of Map Amendment (LOMA) for structure(s)
+and/or lot(s) or parcel(s) found to be outside of floodplains.  This process is applicable only to
+requests for determinations based on topographic conditions that existed on the effective date of
+the Polk County FIRM that shows the structure or parcel of land to be within a floodplain.  All
+other requests for determinations shall be submitted as LOMRs.  More information regarding
+floodplain determinations is available from the Polk County Community Development
+Department.

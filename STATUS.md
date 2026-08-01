@@ -6,70 +6,70 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| ordinance | 1181 |
-| policy | 48 |
+| ordinance | 1547 |
+| policy | 74 |
 
-**Total: 1229**
+**Total: 1621**
 
 ## Source manifest
 
-1282 declared source(s) across 7 group(s) in `sources`.
+1710 declared source(s) across 13 group(s) in `sources`.
 
 ## Freshness (reverify every 180 days)
 
-1229 of 1229 document(s) overdue for re-verification.
+1621 of 1621 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
-| clackamas-code-appendixb | ordinance | never |
-| clackamas-code-foreward | ordinance | never |
-| clackamas-code-title10 | ordinance | never |
-| clackamas-code-title11 | ordinance | never |
-| clackamas-code-title2 | ordinance | never |
-| clackamas-code-title3 | ordinance | never |
-| clackamas-code-title4 | ordinance | never |
-| clackamas-code-title5 | ordinance | never |
-| clackamas-code-title6 | ordinance | never |
-| clackamas-code-title8 | ordinance | never |
-| clackamas-code-title9 | ordinance | never |
-| clackamas-land-use-zdo1001 | ordinance | never |
-| clackamas-land-use-zdo1002 | ordinance | never |
-| clackamas-land-use-zdo1003 | ordinance | never |
-| clackamas-land-use-zdo1004 | ordinance | never |
-| clackamas-land-use-zdo1005 | ordinance | never |
-| clackamas-land-use-zdo1006 | ordinance | never |
-| clackamas-land-use-zdo1007 | ordinance | never |
-| clackamas-land-use-zdo1009 | ordinance | never |
-| clackamas-land-use-zdo101 | ordinance | never |
-| clackamas-land-use-zdo1010 | ordinance | never |
-| clackamas-land-use-zdo1011 | ordinance | never |
-| clackamas-land-use-zdo1012 | ordinance | never |
-| clackamas-land-use-zdo1013 | ordinance | never |
-| clackamas-land-use-zdo1015 | ordinance | never |
-| clackamas-land-use-zdo1017 | ordinance | never |
-| clackamas-land-use-zdo102 | ordinance | never |
-| clackamas-land-use-zdo1021 | ordinance | never |
-| clackamas-land-use-zdo103 | ordinance | never |
-| clackamas-land-use-zdo106 | ordinance | never |
-| clackamas-land-use-zdo1102 | ordinance | never |
-| clackamas-land-use-zdo1103 | ordinance | never |
-| clackamas-land-use-zdo1105 | ordinance | never |
-| clackamas-land-use-zdo1107 | ordinance | never |
-| clackamas-land-use-zdo1202 | ordinance | never |
-| clackamas-land-use-zdo1203 | ordinance | never |
-| clackamas-land-use-zdo1204 | ordinance | never |
-| clackamas-land-use-zdo1205 | ordinance | never |
-| clackamas-land-use-zdo1206 | ordinance | never |
-| clackamas-land-use-zdo1307 | ordinance | never |
-| clackamas-land-use-zdo1308 | ordinance | never |
-| clackamas-land-use-zdo1309 | ordinance | never |
-| clackamas-land-use-zdo1310 | ordinance | never |
-| clackamas-land-use-zdo1311 | ordinance | never |
-| clackamas-land-use-zdo201 | ordinance | never |
-| clackamas-land-use-zdo202 | ordinance | never |
-| clackamas-land-use-zdo315 | ordinance | never |
-| clackamas-land-use-zdo316 | ordinance | never |
-| clackamas-land-use-zdo317 | ordinance | never |
-| clackamas-land-use-zdo401 | ordinance | never |
-| … | *1179 more* | |
+| benton-code-adpr | ordinance | never |
+| benton-code-amdeco | ordinance | never |
+| benton-code-becochcocobeor | ordinance | never |
+| benton-code-cd_comparative_tableor | ordinance | never |
+| benton-code-decobeco | ordinance | never |
+| benton-code-general_code_ch10buroal | ordinance | never |
+| benton-code-general_code_ch11becobuco | ordinance | never |
+| benton-code-general_code_ch12pa | ordinance | never |
+| benton-code-general_code_ch13soga | ordinance | never |
+| benton-code-general_code_ch14reofrove | ordinance | never |
+| benton-code-general_code_ch15conaarpa | ordinance | never |
+| benton-code-general_code_ch16cofa | ordinance | never |
+| benton-code-general_code_ch17satoad | ordinance | never |
+| benton-code-general_code_ch18smwoenpupl | ordinance | never |
+| benton-code-general_code_ch19amsearpl | ordinance | never |
+| benton-code-general_code_ch1gecoad | ordinance | never |
+| benton-code-general_code_ch20cafr | ordinance | never |
+| benton-code-general_code_ch21nuab | ordinance | never |
+| benton-code-general_code_ch22foha | ordinance | never |
+| benton-code-general_code_ch23sowama | ordinance | never |
+| benton-code-general_code_ch24inen | ordinance | never |
+| benton-code-general_code_ch25pulacopr | ordinance | never |
+| benton-code-general_code_ch26geinsy | ordinance | never |
+| benton-code-general_code_ch27nutr | ordinance | never |
+| benton-code-general_code_ch28ansc | ordinance | never |
+| benton-code-general_code_ch29pokiaubecocofa | ordinance | never |
+| benton-code-general_code_ch2coco | ordinance | never |
+| benton-code-general_code_ch30fapr | ordinance | never |
+| benton-code-general_code_ch31en | ordinance | never |
+| benton-code-general_code_ch32emprbeco | ordinance | never |
+| benton-code-general_code_ch33liliapre | ordinance | never |
+| benton-code-general_code_ch34prredecoreprva | ordinance | never |
+| benton-code-general_code_ch35redipuroim | ordinance | never |
+| benton-code-general_code_ch36ilnordi | ordinance | never |
+| benton-code-general_code_ch37ceinprpr | ordinance | never |
+| benton-code-general_code_ch38samamafupr | ordinance | never |
+| benton-code-general_code_ch39trlota | ordinance | never |
+| benton-code-general_code_ch3cico | ordinance | never |
+| benton-code-general_code_ch40vecarein | ordinance | never |
+| benton-code-general_code_ch41coprasclenprcp | ordinance | never |
+| benton-code-general_code_ch4elca | ordinance | never |
+| benton-code-general_code_ch5bame | ordinance | never |
+| benton-code-general_code_ch6vopa | ordinance | never |
+| benton-code-general_code_ch7road | ordinance | never |
+| benton-code-general_code_ch8acrepetafopr | ordinance | never |
+| benton-code-general_code_ch9anco | ordinance | never |
+| benton-code-horuchbecoor | ordinance | never |
+| benton-code-ladest | ordinance | never |
+| benton-code-nsozo | ordinance | never |
+| benton-code-ovzo | ordinance | never |
+| … | *1571 more* | |
 

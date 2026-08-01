@@ -1,0 +1,424 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/umatilla-county
+id: umatilla-code-101-crime-property
+title: '101 Crime Property'
+doc_type: ordinance
+citation: '101 Crime Property'
+authority_level: county_ordinance
+issuing_body: 'Umatilla County Board of Commissioners'
+source_url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/101_Crime_Property.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8f322a0fefc7e57410dcaf024bc2df6cf80ff52c9b878c1c34fa30f72ae59e8d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 105.550
+    - ORS 105.565
+    - ORS 105.580
+    - ORS 105.585
+    - ORS 161.405
+    - ORS 161.450
+    - ORS 163.160
+    - ORS 163.415
+    - ORS 163.465
+    - ORS 164.095
+    - ORS 164.135
+    - ORS 164.245
+    - ORS 164.315
+    - ORS 164.345
+    - ORS 164.805
+    - ORS 166.025
+    - ORS 166.065
+    - ORS 166.155
+    - ORS 166.220
+    - ORS 167.007
+    - ORS 167.117
+    - ORS 419C.680
+    - ORS 471.001
+    - ORS 475.005
+    - ORS 819.300
+    - ORS 93.740
+  related: []
+  supersedes: []
+tags: [umatilla-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Umatilla County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 101 Crime Property (101 Crime Property)
+
+## At a glance
+
+101 Crime Property — code of Umatilla County. 5 pages.
+
+## Full text
+
+101-1
+CHAPTER 101: CRIME PROPERTY
+Section
+101.01 Purpose
+101.02 Definitions
+101.03 Nuisance Declared
+101.04 Notice
+101.05 Abatement Proceedings
+101.06 Emergency Closures
+101.07 Closure Order, Civil Penalties
+and Costs
+101.08 Relocation Costs
+101.09 Relief From Closure Order
+101.10 Severability
+101.11 Other Remedies
+§101.01 PURPOSE.
+(1) The Umatilla County Board of
+Commissioners has determined that any real
+property employed as the site of repeated criminal
+activity or nuisance activity is a nuisance and
+detrimental to the civil peace of the county, and
+detrimental to the health, safety and welfare of the
+people of Umatilla County.
+(2) The Umatilla County Board of
+Commissioners has also determined that this
+chapter is necessary to preserve and protect the
+habitability of real property in Umatilla County,
+and the peaceable, safe, sanitary, and secure
+occupancy, and use of real property in Umatilla
+County.
+(3) Umatilla County has the authority to
+declare such real property a nuisance and regulate
+and abate the nuisance created by use of the real
+property pursuant to ORS 105.550 through
+105.600.
+(Ord. 2008-08, passed 5-21-08)
+§101.02 DEFINITIONS.
+As used in this chapter, except as the context
+otherwise requires:
+(1) COSTS.  Those costs actually incurred by the
+county for the physical securing of real property,
+court costs, and other expenses incurred in
+enforcing this chapter.
+(2) ENFORCEMENT OFFICER. The Sheriff of
+Umatilla County or his or her designee.
+(3)  OWNER.  Any person holding or claiming to
+hold any legal or equitable title or interest in real
+property, including, but not limited to, a mortgagee
+in possession, a vendee under a land sale contract,
+or a beneficiary under a deed of trust; any person
+having or claiming to have lawful care, custody, or
+control of real property; or any lien holder or
+holder of any security interest in the real property.
+(4) PERSON. Any natural person, association,
+partnership, or corporation, or other form of legal
+entity or entity in fact capable of owning or using
+property.
+(5) SPECIFIC CRIME PROPERTY. Any kind of
+real property which, upon request for execution of
+a search warrant, has been the subject of a
+determination by a court that probable cause does
+exist that possession, manufacture, or delivery of a
+controlled substance or precursor or related
+offenses as defined in ORS 475.005 or 475.940
+through 475.995 has occurred within the previous
+90 days, and the County or Sheriff's Office has
+determined that the search warrant was based on
+evidence of continuous or repeated nuisance
+activities at the property, or any kind of real
+property or within 400 feet of such real property
+upon which three or more separate factual incidents
+occur during  any 90 day period that involve any of
+101-2
+the below listed behaviors and that have been
+independently investigated by any law enforcement
+agency:
+(a) Crimes involving controlled substances as
+defined in ORS Chapter 475 and 475C;
+(b) Gambling or Lottery as defined by ORS
+167.117;
+(c) Prostitution as defined by ORS 167.007;
+(d) Harassment as defined by ORS 166.065,
+excluding provision 1(b);
+(e) Intimidation as defined by ORS 166.155,
+excluding provision 1(a);
+(f) Disorderly Conduct as defined by ORS
+166.025;
+(g) Unlawful use of a weapon as defined by
+ORS 166.220;
+(h) Noise disturbance as defined in Umatilla
+County Code of Ordinances Chapter 96;
+(i) Alcohol liquor violations as defined by
+ORS 471.001 through 471.482;
+(j) Assault as described by ORS 163.160
+through 163.185;
+(k) Sexual Abuse as defined by ORS 163.415
+to 163.427;
+(l) Public indecency as defined by ORS
+163.465;
+(m)Trespass as defined by ORS 164.245 to
+164.265;
+(n) Criminal mischief as defined by ORS
+164.345 to 164.365;
+(o) Theft by Receiving as defined by ORS
+164.095; or
+(p) Unauthorized Use of a Vehicle as defined
+by ORS 164.135  or Possession of a Stolen
+Vehicle as defined by ORS 819.300;.
+(q) Public Indecency as defined by ORS
+163.465;
+(r) Offensive littering as defined by ORS
+164.805;
+(s) Arson or related offenses as defined by
+ORS 164.315 through 164.335;
+(t)  Any attempt to commit (as defined by ORS
+161.405), or conspiracy to commit (as
+defined by ORS 161.450), any of the
+above activities, behaviors, or conduct;
+(u) Any violation of §96.01 through §96.05
+relating to noise control;
+(v) Curfew as defined by ORS 419C.680.
+(6) REAL PROPERTY .  Any real property,
+including but not limited to, lots, parcels, buildings,
+houses, rooms, structures, or any separate part or
+portion thereof, whether temporary or permanent,
+and whether or not on the ground itself and any
+conveyance or any part or portion thereof.
+(7) TENANT.  A residential tenant as defined by
+the Oregon Residential Landlord and Tenant Act,
+and any other person holding real property under
+the terms of a lease.
+ (Ord. 2008-08, passed 5-21-08; Ord. 2023-03,
+passed 5-4-2023)
+§101.03  NUISANCE DECLARED.
+(1) Any real property used or maintained as a
+Specified Crime Property within Umatilla County
+Oregon is declared to be a nuisance and shall be
+abated.
+(2) No owner or occupant shall use or maintain
+or allow the use or maintenance of real property as
+Specified Crime Property.
+(3) No owner or occupant shall use or occupy
+or allow or permit any person to use or occupy, by
+lease or otherwise, any real property during any
+period such property is subject to an order of
+closure pursuant to §101.07.
+(Ord. 2008-08, passed 5-21-08)
+§101.04  NOTICE.
+(1) When the Enforcement Officer has
+reasonable grounds to believe that real property is
+being used or maintained in violation of  §101.03,
+the Enforcement Officer may institute proceedings
+against the owner for the closure of the real
+101-3
+property and the imposition of civil penalties.
+(2) The Enforcement Officer shall provide
+preliminary notice of the institution of proceedings
+in the following manner:
+(a) The Enforcement Officer shall notify the
+owner in writing that the real property is
+believed to be a Specified Crime Property.
+The notice shall contain the following
+information:
+(1) The street address and legal
+description sufficient for identification
+of the property;
+(2) A statement the property is
+Specified Crime Property, along with
+specific findings supporting the
+determination. The findings shall
+contain a concise description of the
+conditions establishing a violation of
+this chapter.
+(b) A copy of the notice shall be served on the
+owner at least 10 days prior to filing of the
+complaint. Service of the notice shall be
+made by personal delivery or by mailing a
+copy of the notice by certified mail to the
+owner at the address as it appears on the
+tax rolls and the address as it appears on
+the last recorded instrument of
+conveyance, if different from the address
+specified on the tax rolls, and to the
+owner’s actual address, if known to be
+different than the above.
+(c) A copy of the notice shall be served on the
+occupant or occupants of the real property
+not less than 10 days prior to the filing of
+the complaint. Notice shall be made by
+mailing a copy of the notice by first class
+mail, or by personal delivery to the
+occupant or occupants of the real property.
+(d) A copy of the notice may be posted at the
+real property if 10 days has elapsed from
+the service or mailing of the notice to the
+owner, and no response has been received
+by the Enforcement Officer during that
+time.
+(e) The Enforcement Officer shall send a copy
+of the notice to the District Attorney of
+Umatilla County and the Umatilla County
+Counsel, as well as any other
+documentation supporting closure and
+imposition of civil penalties.
+(3) After notice has been given pursuant to this
+section, the County Commissioners may authorize
+the filing of a complaint in the Umatilla County
+Circuit Court to restrain and enjoin the nuisance.
+Nothing in this section shall limit the power of
+Umatilla County to enter into an agreement with
+the owner of the real property for voluntary
+abatement of the conditions giving rise to the
+violation.
+(Ord. 2008-08, passed 5-21-08)
+§101.05  ABATEMENT PROCEEDINGS.
+(1) An action shall be commenced by the filing
+of a complaint and prosecuting the action as
+provided in ORS 105.565 through 105.590.
+(2) If prior to the trial, the owner and the
+County enter into an agreement, stipulating to the
+abatement of the conditions giving rise to the
+complaint, the court upon motion by the County
+may stay proceedings for a period not to exceed 60
+days. The owner may thereafter petition the court
+for additional periods of time as may be necessary
+to complete the actions stipulated to in the
+agreement. If the owner is not diligently pursuing
+the actions stipulated in the agreement, the County
+may apply for release at any time prior to the end of
+the stay.
+(Ord. 2008-08, passed 5-21-08)
+101-4
+§101.06  EMERGENCY CLOSURES.
+If the Enforcement Officer determines real
+property is an immediate threat to the public safety
+and welfare by virtue of activity which would
+establish a violation of this chapter, the County
+may apply to the court for a preliminary injunction
+ordering closure of the real property. In such event,
+no preliminary notice required under §101.04 need
+be given.
+(Ord. 2008-08, passed 5-21-08)
+§101.07  CLOSURE ORDER, CIVIL
+PENALTIES AND COSTS.
+(1) If real property is determined to be a
+nuisance, the court may order closure of such
+property for a period of up to one year, and assess
+a civil penalty against the owner of up to $500 for
+a noncontinuing offense and up to $1,000 for a
+continuing offense upon finding the owner had
+knowledge of activities or conditions constituting
+the violation. A person shall be deemed to have
+knowledge at a date no later than the date notice is
+provided pursuant to §101.04. In establishing the
+amount of any civil penalty, the court may consider
+the following factors:
+(a) The actions taken by the owner to mitigate
+or correct the problem at the real property;
+(b) The financial condition of the owner;
+(c) Whether the problem at the real property
+was repeated or continuous;
+(d) The magnitude or gravity of the problem;
+(e) The economic or financial benefits
+accruing or likely to accrue to the owner as
+a result of the failure to correct conditions
+at the real property;
+(f) The cooperativeness of the owner with
+County;
+(g) The costs to the County of investigating
+and correcting or attempting to correct the
+condition;
+(h) Any other factors deemed material by the
+court.
+(2) No order of abatement as to that owner
+shall be entered if the court finds that the owner
+satisfied the conditions set forth in ORS
+105.580(3).
+(3) If an order of closure is granted, the County
+may physically secure the real property against use
+or occupancy if the owner fails to do so within the
+time specified by the order. All costs reasonably
+incurred by the County in such action shall be a
+lien upon the property as provided by law.
+(4) The County shall prepare a statement of
+costs, which shall be served on the owner and filed
+with the court. If no objection to the statement is
+filed as provided by law, the statement of costs
+shall be entered as part of the judgment, as a
+general judgment lien against the real property.
+(5) The lien shall have priority as set forth in
+ORS 105.585(1).
+(6) A notice of pendency of an action may be
+filed pursuant to ORS 93.740.
+(Ord. 2008-08, passed 5-21-08)
+§101.08  RELOCATION COSTS.
+(1) Except as provided in subsection 3 of this
+section, any tenant required to relocate by closure
+order is entitled to reasonable relocation costs, to
+be paid by the owner, if the tenant moved into the
+real property after either:
+(a) The owner received notice under §101.04;
+or
+(b) The owner was served with summons and
+complaint for a preliminary injunction
+under section §101.06.
+101-5
+(2) In any action to recover relocation costs,
+the tenant shall be entitled to reasonable attorney
+fees associated with the recovery.
+(3) A tenant shall not be entitled to relocation
+costs if:
+(a) The owner provided the tenant with a copy
+of the notice given to the owner under
+§101.04 or a copy of the complaint for a
+preliminary injunction filed pursuant to
+§101.06, before the tenant moved into the
+real property; or
+(b) The tenant took part in any of the behavior
+that constituted an incident on the real
+property as described in §101.02(5).
+(Ord. 2008-08, passed 5-21-08)
+§101.09  RELIEF FROM CLOSURE ORDER.
+(1) The owner of real property may obtain
+relief from a closure order if the owner:
+(a) Appears and pays all costs associated with
+the proceedings;
+(b) Files a bond, in the amount not less than
+the tax assessed value of the real property;
+and keeps such bond in force for a period
+of not less than 1 year; and
+(c) Enters into a stipulation with the County to
+immediately abate the conditions and to
+make every reasonable effort to prevent the
+same or similar conditions from occurring
+for a period of one year.
+(2) If the owner violates any term of the
+stipulation entered into according to subsection (1),
+the entire bond shall be forfeited.
+(3) Nothing in this section shall alter the
+abatement provisions of ORS 105.580 (4) and (5),
+where abatement was ordered on the basis of
+manufacture of a controlled substance.
+(Ord. 2008-08, passed 5-21-08)
+§101.10  SEVERABILITY.
+If any provision of this chapter is held to be
+invalid for any reason by a court of competent
+jurisdiction, the remainder shall not in any way be
+affected.
+(Ord. 2008-08, passed 5-21-08)
+§101.11  OTHER REMEDIES.
+Nothing in this chapter shall limit the authority
+of Umatilla County and its public officials from
+taking any other action to restrain or enjoin a
+nuisance which may be provided by state or local
+law.
+(Ord. 2008-08, passed 5-21-08)

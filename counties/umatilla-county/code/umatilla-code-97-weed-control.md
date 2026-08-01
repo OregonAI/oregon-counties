@@ -1,0 +1,188 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/umatilla-county
+id: umatilla-code-97-weed-control
+title: '97 Weed Control'
+doc_type: ordinance
+citation: '97 Weed Control'
+authority_level: county_ordinance
+issuing_body: 'Umatilla County Board of Commissioners'
+source_url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/97_Weed_Control.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2f9c0bea2585a54545a719df1161254f58a8c239f7d815b14cdd023a0a45f4db
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 570.505
+    - ORS 570.515
+    - ORS 570.530
+    - ORS 570.550
+  related: []
+  supersedes: []
+tags: [umatilla-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Umatilla County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 97 Weed Control (97 Weed Control)
+
+## At a glance
+
+97 Weed Control — code of Umatilla County. 2 pages.
+
+## Full text
+
+9-87
+Chapter 97
+WEED CONTROL
+Section
+97.01  Title
+97.02  Definitions
+97.03  Noncompliance
+97.04  Noxious Weed
+97.05  Notice to Owner
+97.06  Enforcement
+97.07  Judicial Enforcement
+97.08  Control Action
+§97.01  TITLE
+For reference purposes, this chapter may be
+known as the Weed Control Ordinance.
+(Ord. 2000-06, passed 5-17-2000)
+§97.02  DEFINITIONS
+Board - Umatilla County Weed Control
+Board.
+Commissioners - Umatilla County Board of
+Commissioners.
+
+District - Umatilla County Weed Control
+District
+Employee - Any employee or designee of the
+Umatilla County Weed Control Office, including
+Board members, supervisor, office staff, field
+inspectors and qualified volunteers.
+Noxious Weed  - A weed declared to be
+noxious by the Commissioners and adopted by
+order.
+Oregon State Law - The provisions of ORS
+570.505 through 570.600, including any
+amendments, and any other statutes that regulate
+and control Noxious Weeds.
+Owner - Owner includes any person, firm or
+corporation owning or occupying land with the
+Umatilla County Weed Control District.
+(Ord. 2000-06, passed 5-17-2000)
+§97.03  NONCOMPLIANCE
+It is the responsibility of the weed inspector
+and Employees to find out if any Noxious Weeds
+are being permitted to grow and produce bloom or
+seed within the District, contrary to the provisions
+of Oregon state law. Ongoing surveying and
+inventorying will be used to locate Noxious
+Weeds.
+(Ord. 2000-06, passed 5-17-2000)
+§97.04  NOXIOUS WEED
+(A)  A weed will be determined to be noxious
+by order of the Commissioners.  The decision will
+be made using all available current information.
+(B) One or more of the following
+characteristics may be considered noxious:
+1.  Plant spreads very rapidly and
+produces large quantities of seed;
+2. Difficulty in eradication, due to ability
+to grow from tiny pieces of root;
+3. Allelopathy, or ability to produce toxic
+chemicals in roots that suppress other
+plants;
+4.  No value to humans as food, livestock
+forage, wildlife forage, medicinal, and
+may be poisonous or harmful to
+humans or livestock;
+5.  Introduced species, not native to the
+area, with little or no natural biological
+enemies to limit growth.
+(C)  A notice of a list of Noxious Weeds will
+be published in the manner prescribed by Oregon
+State Law, prior to enforcement of the order.
+ (Ord. 2000-06, passed 5-17-2000)
+9-88
+§97.05  NOTICE TO OWNER
+(A)  When an Employee has documented, and
+has a complete file, that a Noxious Weed is present
+on land, a written notice pursuant to ORS 570.530
+will be served on the owner or occupant of the
+land.
+(B) The records of the Umatilla County
+Assessor may be a source of locating the name and
+the address of the Owner.
+(C)  If it appears that the occupant is not the
+title record holder of the land, notice will also be
+sent to the title record holder using the last known
+address determined by the Umatilla County
+Assessor.
+(D) The notice will be served as provided by
+law under ORS 570.530.
+(E) The notice will contain the information
+required by law, and also the following: (1)
+Property description; (2) Address of property; (3)
+Name of owner and occupant; (4) Location of
+Noxious Weeds on property; (5) Name of
+inspector; (6) Signature of Employee authoring
+notice; (7) Notice number.
+(F) Affidavit of service  or posting of notice
+will be completed by Employee.
+(G)  The time period for compliance by
+Owner will from 2 to 20 days, unless a seed set or
+dispersal is imminent, in which case 48 hours will
+be given to destroy Noxious Weed or prevent seed.
+(H) After the time period has elapsed,
+Employee will verify if action has been taken by
+Owner.
+(Ord. 2000-06, passed 5-17-2000)
+§97.06  ENFORCEMENT
+If the Owner fails to take action required of
+the notice, then enforcement action will be taken as
+provided by Oregon State Law, including judicial
+action by county district attorney, and
+abatement by Umatilla County or Oregon State
+Department of Agriculture.
+(Ord. 2000-06, passed 5-17-2000)
+§97.07  JUDICIAL ENFORCEMENT
+(A) Judicial enforcement of a violation will be
+conducted as provided by ORS Chapter 153.
+(B) Violation of ORS 570.515 to 570.600 is a
+Class A violation.
+(C) A fine up to $600.00 may also be assessed
+against any owner in violation of this Chapter or
+Oregon State Law.
+(Ord. 2000-06, passed 5-17-2000)
+§97.08  CONTROL ACTION
+(A) The decision to take control action will be
+made by the Commissioners.
+(B) The Commissioners may authorize an
+Employee to go on the land or premises and
+destroy the noxious weed or control the weed in
+such a manner to destroy all seeds of each noxious
+weed.
+ (C) Prior to taking control action, an
+Employee may notify the Owner of the intent the
+day or evening prior to control measures being
+undertaken.
+(D)  The cost of the control action will be
+filed and billed as set out in ORS 570.550 and
+570.555, or as otherwise provided by Oregon State
+Law, and if entered in the county lien docket, will
+constitute a first lien on the property (except for
+property taxes).
+(Ord. 2000-06, passed 5-17-2000)

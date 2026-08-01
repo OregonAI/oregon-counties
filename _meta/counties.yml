@@ -15,6 +15,15 @@
 #   population      Build order. Census POPESTIMATE2024, carried here rather than recalled,
 #                   because it is the denominator of every coverage claim this corpus makes.
 #
+#   deferred        Set where a county cannot be built for a reason that is OURS, not the
+#                   county's. Four counties sit behind Cloudflare managed challenges that
+#                   refuse an honestly-identified agent while serving a browser. Getting past
+#                   one means misrepresenting what we are, which this project does not do —
+#                   see AGENTS.md. They are scheduled LAST rather than dropped, because the
+#                   blocker is a commercial intermediary and may lift: registering with
+#                   Cloudflare's Verified Bots programme would unblock all four at once.
+#                   `deferred` is never evidence about what a county publishes.
+#
 # Ordered by population descending, which is also the build order.
 #
 # Sources: US Census co-est2024-alldata.csv (population, FIPS); the 36-county source survey
@@ -74,7 +83,9 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.co.marion.or.us
-  built: true
+  built: false
+  deferred: cloudflare-challenge
+  deferred_reason: 'codepublishing.com (General Code) returns HTTP 403 Cloudflare managed challenge to an honestly-identified agent'
 - slug: jackson-county
   name: Jackson County
   short_name: Jackson
@@ -105,6 +116,8 @@ counties:
   home_rule: general-law
   source_url: https://www.linncountyor.gov
   built: false
+  deferred: cloudflare-challenge
+  deferred_reason: 'linncountyor.gov returns HTTP 403 Cloudflare managed challenge on every path except robots.txt'
 - slug: douglas-county
   name: Douglas County
   short_name: Douglas
@@ -115,6 +128,8 @@ counties:
   home_rule: general-law
   source_url: https://www.douglascountyor.gov
   built: false
+  deferred: cloudflare-challenge
+  deferred_reason: 'douglascountyor.gov returns HTTP 403 Cloudflare managed challenge on every content path'
 - slug: yamhill-county
   name: Yamhill County
   short_name: Yamhill
@@ -124,7 +139,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.yamhillcounty.gov
-  built: false
+  built: true
 - slug: benton-county
   name: Benton County
   short_name: Benton
@@ -134,7 +149,7 @@ counties:
   governing_body: board
   home_rule: charter
   source_url: https://www.bentoncountyor.gov
-  built: false
+  built: true
 - slug: polk-county
   name: Polk County
   short_name: Polk
@@ -144,7 +159,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.polkcountyor.gov
-  built: false
+  built: true
 - slug: josephine-county
   name: Josephine County
   short_name: Josephine
@@ -155,6 +170,8 @@ counties:
   home_rule: charter
   source_url: https://www.josephinecounty.gov
   built: false
+  deferred: cloudflare-challenge
+  deferred_reason: 'code migrated to eCode360 (JO4733), which is Cloudflare-403 to an honestly-identified agent'
 - slug: umatilla-county
   name: Umatilla County
   short_name: Umatilla
@@ -164,7 +181,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://umatillacounty.gov
-  built: false
+  built: true
 - slug: klamath-county
   name: Klamath County
   short_name: Klamath
@@ -174,7 +191,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.klamathcounty.org
-  built: false
+  built: true
 - slug: coos-county
   name: Coos County
   short_name: Coos
@@ -184,7 +201,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://co.coos.or.us
-  built: false
+  built: true
 - slug: columbia-county
   name: Columbia County
   short_name: Columbia

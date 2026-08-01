@@ -1,0 +1,99 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-175
+title: '175'
+doc_type: ordinance
+citation: '175'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4470/175
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6a705f2cda33962f98050bdee8bede0a4d1fa234b8566ef531cc5c2be5c0a69f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 175 (175)
+
+## At a glance
+
+175 — land use of Polk County. 2 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 175 (2009 update).doc
+ 175-1
+CHAPTER 175
+MINERAL EXTRACTION (ME) ZONING DISTRICT
+175.010. Purpose
+175.020. Uses
+175.030. Uses Subject to Administrative Review
+175.040. Conditional Uses
+175.050. Standards
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 175 (2009 update).doc
+ 175-2
+175.010.  PURPOSE.   The purpose and intent of the ME, Mineral Extraction Zone, is to identify
+natural mineral deposits, to provide for the extraction of these minerals, to insure the
+compatibility of the mining operations with adjoining uses, and to insure an adequate use and re-
+use of these lands.
+175.020.  USES.   No building or structure or land shall be used, and no building or structure
+shall be erected, structurally altered, enlarged, or maintained, except for the following uses:
+(A) Extraction and processing of natural mineral de posits;
+(B) Timber raising and harvest;
+(C) Farm use;
+(D) Dwellings and accessory structures necessary to  carry out the above activities;
+(E) Wind energy systems, meteorological towers, and  photovoltaic systems that are not
+commercial power generating facilities, but not including wind energy systems
+utilizing a tower and meteorological towers that require tower lighting, are located in
+an adopted urban growth boundary, or that would require modification to the height
+or type of construction standards described in Section 112.135(C)(1).  Wind energy
+systems utilizing towers and meteorological towers are subject to standards listed in
+Sections 112.135 and 112.137. Roof-mounted, building-integrated, building-
+mounted and architectural wind energy systems that extend no more than an
+additional 5 feet above the highest ridge of the building’s roof or 15 feet above the
+highest eave, whichever is higher, and do not exceed the height limitation of the
+zone, are subject to the standards listed in Section 112.137. Photovoltaic systems are
+subject to the standards described in Section 112.138.
+[Amended by Ordinance 09-06]
+175.030.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+(A)  Wind energy systems utilizing a tower and meteorological towers outside of an
+adopted urban growth boundary that are not commercial power generating facilities
+that would utilize a tower(s) that requires lighting or that requires modification to the
+height or type of construction standards described in Section 112.135(C)(1), as
+provided in Sections 112.135 and 112.137.  [Amended by Ordinance 09-06]
+175.040.  CONDITIONAL USES.  The following uses may be approved, subject to compliance
+with the procedures and criteria under Chapter 119, applicable state and federal regulations, and
+other specific criteria as may be indicated:
+(A)  Wind energy systems utilizing a tower and meteorological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.  [Amended by Ordinance
+09-06]
+175.050.  STANDARDS.   Within any ME Zone, the following minimum standards apply to the
+location of processing facilities and the mining operation;
+(A) The minimum set forth in Section 120.420 of thi s ordinance.
+(B) All processing facilities shall be set back at least 100 feet from any public road or
+zone boundary;
+(C) A plan for the re-use of the property shall be submitted to and approved by the
+Hearings Officer.  This plan shall meet the standards of Section 120.445 of this
+Ordinance.

@@ -1,0 +1,306 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-general_code_ch17satoad
+title: 'CHAPTER 17 - SALE OF TOBACCO ADMINISTRATION'
+doc_type: ordinance
+citation: 'CHAPTER 17 - SALE OF TOBACCO ADMINISTRATION'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH17SATOAD&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: fba243e63407034195253cf528c0d2cfc0b79e7a3420534d276caaeb9887b52c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 333-015-0242
+    - OAR 333-015-0247
+    - OAR 333-015-0252
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CHAPTER 17 - SALE OF TOBACCO ADMINISTRATION (CHAPTER 17 - SALE OF TOBACCO ADMINISTRATION)
+
+## At a glance
+
+CHAPTER 17 - SALE OF TOBACCO ADMINISTRATION — code of Benton County. 21 sections.
+
+## Full text
+
+ ### CHAPTER 17 - SALE OF TOBACCO ADMINISTRATION
+
+ ### 17.005 - Definitions.
+
+As used in BCC Chapter 17 :
+(1)
+"Electronic smoking device" means any device that may be used to deliver any aerosolized or vaporized substance
+to the person inhaling from the device, including, but not limited to, an e-cigarette,
+e-cigar, e-pipe, vape pen, or e-hookah. Electronic smoking device includes any component,
+part, or accessory of the device, and also includes any substance that may be aerosolized
+or vaporized by such device, whether or not the substance contains nicotine. Electronic
+smoking device does not include "drugs," "devices," or "combination products," authorized
+for sale by the U.S. Food and Drug Administration, as those terms are defined in the
+Federal Food, Drug, and Cosmetic Act.
+(2)
+"License" means a license issued by the County for the retail sale of tobacco products.
+(3)
+"Licensee" means the holder of a valid license for the retail sale of tobacco products.
+(4)
+"Sale or Sell" means any transfer, exchange, barter, gift, offer for sale, or distribution for a
+commercial purpose, in any manner or by any means whatsoever.
+(5)
+"School" means any public or private elementary, middle, junior high or high school.
+(6)
+"Self Service Displays" means open displays of tobacco products and point-of-sale tobacco promotional products
+that the public has access to without the intervention of a store employee.
+(7)
+"Tobacco Product" means:
+(i)
+Any product containing, made of, or derived from tobacco or nicotine that is intended
+for human consumption or is likely to be consumed, whether inhaled, absorbed, or ingested
+by any other means, including but not limited to, a cigarette, a cigar, pipe tobacco,
+chewing tobacco, snuff, or snus;
+(ii)
+Any electronic smoking device and any substances that may be aerosolized or vaporized
+by such device, whether or not the substance contains nicotine; or
+(iii)
+Any component, part, or accessory of (i) or (ii), whether or not any of these contains
+tobacco or nicotine, including but not limited to filters, rolling papers, blunt or
+hemp wraps, hookahs, mouthpieces, and pipes.
+"Tobacco product" does not mean "drugs," "devices," or "combination products" authorized
+for sale by the U.S. Food and Drug Administration, as those terms are defined in the
+Federal Food, Drug, and Cosmetic Act.
+(8)
+"Vendor-assisted" means only a store employee has access to the tobacco product and assists the customer
+by supplying the tobacco product. The customer does not take physical possession of
+the tobacco product until after it is purchased.
+[Ord. 97-0129; Ord. 2016-0277; Ord. 2022-0310]
+
+ ### IDENTIFICATION
+
+ ### 17.010 - Identification Required.
+
+It shall be a violation of BCC Chapter 17 for a retailer to sell or permit to be sold any tobacco products to an individual
+under the age of 27 without requesting and examining photographic identification establishing
+the purchaser's age as 21 years or greater.
+[Ord. 97-0129; Ord. 2022-0310]
+
+ ### LICENSES
+
+ ### 17.015 - License Required.
+
+(1)
+It shall be a violation of BCC Chapter 17 for a retailer to sell any tobacco products unless that retailer holds and maintains
+a valid license from the County for each location in which tobacco products are sold.
+All such licenses shall be renewed annually on or before June 30.
+(2)
+No license may be issued to authorize tobacco retailing at a non-fixed location. For
+the purposes of this section, a non-fixed location means any retail business whose
+physical location is not permanent, including, but not limited to, any retail business
+that is operated from a kiosk, other transportable structure, or a motorized or non-motorized
+vehicle.
+(3)
+No license may be issued to authorize tobacco retailing at a temporary event. For
+example, a tobacco retail license will not be issued for use at a farmer's market
+or fair.
+(4)
+No license may be issued to authorize tobacco retailing at any location within 1,000
+feet of a school, as measured by the shortest distance traveled from any entrance
+of the proposed location for tobacco retailing to the parcel boundary of the school,
+provided, however, that the prohibition contained in this subsection (4) shall not
+apply to any tobacco retailer operating lawfully on the date immediately prior to
+this ordinance becoming effective.
+(5)
+No license may be issued to authorize tobacco retailing at a location which is within
+1,000 feet of a location occupied by another tobacco retailer, as measured by the
+shortest distance traveled from any entrance of the proposed location to any entrance
+of the existing location, provided, however, that the prohibition contained in this
+subsection (5) shall not apply to existing tobacco retailers operating lawfully on
+the date immediately prior to this ordinance becoming effective.
+(6)
+Any exemption granted to a tobacco retailer pursuant to this section shall cease to
+apply if the tobacco retailer fails to timely renew the tobacco retailer license pursuant
+to subsection (1).
+[Ord. 97-0129; Ord. 2016-0277]
+
+ ### 17.017 - License Renewal.
+
+Licensees shall renew licenses annually.
+[Ord. 97-0129]
+
+ ### 17.020 - License Fee.
+
+The fee for the license shall be established by the Benton County Board of Commissioners
+by order and shall be sufficient to fund the administration, implementation, and enforcement
+of BCC Chapter 17 . The fee for renewing tobacco licenses shall be determined by the Board by order
+and shall be sufficient to fund the administration, implementation, and enforcement
+of BCC Chapter 17 . No fees shall be collected in excess of what is necessary for administration, implementation,
+and enforcement of BCC Chapter 17 . No license is valid unless and until the fee is paid in full.
+[Ord. 97-0129]
+
+ ### 17.025 - Non-Transferability.
+
+A tobacco retail license is non-transferable, except a replacement license will be
+issued, without charge.
+[Ord. 97-0129; Ord. 2022-0310]
+
+ ### 17.026 - Display of License.
+
+Each license shall be prominently displayed in a publicly visible location at the
+licensed location.
+[Ord. 2016-0277]
+
+ ### SALES
+
+ ### 17.030 - Sales to Persons Under the Minimum Legal Age to Purchase Tobacco.
+
+It shall be a violation of BCC Chapter 17 for any tobacco retailer to sell, permit to be sold, or offer for sale any tobacco
+products to a person that is under 21 years of age.
+[Ord. 97-0129; Ord. 2022-0310]
+
+ ### 17.035 - Vendor-Assisted Sales.
+
+It shall be a violation of BCC Chapter 17 for any tobacco retailer to sell, permit to be sold, or offer for sale any tobacco
+product by means of self-service displays or any means other than vendor-assisted
+sales. This section does not apply if the location at which the tobacco products are
+sold is an establishment that prohibits persons under 21 years of age from entering
+the establishment.
+[Ord. 97-0129; Ord. 2022-0310]
+
+ ### 17.036 - Lawful Business Operation.
+
+It shall be a violation of BCC Chapter 17 for a licensee to violate any local, state, or federal law applicable to tobacco
+products or tobacco retailing in the course of tobacco retailing or in the operation
+of the business or maintenance of the location for which a license is issued.
+[Ord. 2016-0277]
+
+ ### 17.037 - Minimum Age for Persons Selling Tobacco.
+
+It shall be a violation of BCC Chapter 17 for persons under 18 years of age to engage in tobacco retail sales.
+[Ord. 2016-0277; Ord. 2022-0310]
+
+ ### 17.040 - Inspections.
+
+(1)
+The Health Department Director, or designee, shall have the authority to inspect for
+and investigate potential violations of BCC Chapter 17 in accordance with OAR 333-015-0242
+and OAR 333-015-0252, except as otherwise provided for in this chapter.
+(2)
+The Health Department Director, or designee, shall have the authority to conduct annual
+random, unannounced inspections of retailers to ensure compliance with, and to enforce,
+the minimum legal sales age law for tobacco in accordance with OAR 333-015-0247, except
+as otherwise provided for in this chapter.
+[Ord. 2022-0310]
+
+ ### 17.050 - Enforcement.
+
+(1)
+The Health Department Director, or designee, shall enforce the provisions of BCC Chapter 17 .
+(2)
+The Health Department Director may issue civil penalties, impose restrictions, and
+deny, suspend, or revoke a tobacco retail license based upon finding that a tobacco
+retailer is in violation of BCC Chapter 17 .
+[Ord. 2022-0310]
+
+ ### PENALTIES
+
+ ### 17.060 - Licensee Penalties.
+
+(1)
+Any licensee may be assessed a civil penalty not to exceed $5,000 for each violation
+of Section 17.036 . A licensee may be subject to multiple civil penalties at a single inspection if
+the County Health Department finds multiple violations.
+(2)
+Any licensee who violates any provision of BCC Chapter 17 shall be assessed civil penalties and/or have their license suspended or revoked
+as follows:
+(a)
+In the case of a first violation, the licensee shall be fined $1,000 and shall be
+notified in writing of penalties levied for further violations.
+(b)
+In the case of a second violation within a 60-month period of the first violation
+under subsection (a), the licensee shall be fined $2,000 and the license shall be
+suspended for 45 days. Tobacco retailers may not sell tobacco products and must remove
+all tobacco products from all retail areas while the license is suspended.
+(c)
+In the case of a third violation within a 60-month period of the first violation under
+subsection (a), the licensee shall be fined $3,500 and the license shall be revoked.
+The former licensee shall not be eligible to reapply for a license for a period of
+6 months from the date of revocation. Tobacco retailers may not sell tobacco products
+and must remove all tobacco products from all retail areas while the license is suspended.
+(d)
+In the case of a fourth, or any subsequent violation within a 60-month period of the
+first violation under subsection (a), the licensee shall be fined $5,000 and the license
+shall be revoked.
+(e)
+Failure to pay a fine levied under Section 17.060 within 30 days of the date the fine is levied shall result in the suspension of the
+licensee's license until the fine is paid.
+(f)
+Any new application for a license or renewal, during the period a license is suspended
+pursuant to Section 17.060 , shall be held in abeyance pending payment of the fine and termination of the suspension
+period. Any new application for a license, during the period a license is revoked
+pursuant to Section 17.060 , shall be denied.
+(3)
+Any retailer violating Section 17.015 shall be subject to a fine of $1,000 per day for each violation.
+(4)
+In the case of an illegal sale of a tobacco product during a minimum sale age inspection,
+the licensee may be assessed a civil penalty, license suspension or revocation without
+a remediation plan.
+(5)
+The County Health Department shall have the authority to impose penalties pursuant
+to Section 17.060 .
+(6)
+The Health Department Director, or designee, may enforce any provision of this chapter
+pursuant to Chapter 31 of the BCC.
+[Ord. 97-129; Ord. 99-0147; Ord. 2016-0277; formerly BCC 2.040 Ord. 2022-0310]
+
+ ### APPEALS
+
+ ### 17.070 - Notice and Hearing.
+
+(1)
+Prior to the suspension or revocation of a license pursuant to Section 17.060 , the County shall provide notice to the licensee. This notice shall be sufficient
+to apprise the licensee of:
+(a)
+The date of issuance of the notice;
+(b)
+The proposed penalty;
+(c)
+The reason for the proposed imposition of the penalty, and
+(d)
+Licensee's right to request a hearing regarding the proposed penalty and the request
+procedure in Section 17.070 (2).
+(2)
+To appeal, a licensee shall request a hearing as follows:
+(a)
+The request shall be in writing, directed to the Health Department Director, and must
+be accompanied by a non-refundable hearing fee, the amount of which fee shall be established
+by an order of the Board of Commissioners, and
+(b)
+The request must be received by the Health Department Director within 10 days of issuance
+of the notice.
+(3)
+If a hearing is properly requested pursuant to Section 17.070 , a hearing shall be conducted before a hearings officer designated by the Board.
+The hearings officer shall have full authority to set hearing dates and hearing procedures.
+All actions of the hearings officer are final and any penalties imposed by the hearings
+officer shall take effect immediately. For purposes of Section 17.060 (l)(d), a contested fine is levied as of the date the hearings officer imposes penalties.
+(4)
+Should the licensee fail to request a hearing within the time and in the manner set
+out in this section, licensee has waived the right to a hearing and the penalty shall
+be imposed at the expiration of the 10-day period established in section 17.070 (2)(b). For purposes of Section 17.060 (l)(d), a fine is levied as of the date of the expiration of this 10-day period.
+[Ord. 97-0129; formerly BCC 2.045 Ord. 2022-0310]

@@ -1,0 +1,2796 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/coos-county
+id: coos-code-article-7-environment-and-health
+title: 'Article 7 - Environment And Health'
+doc_type: ordinance
+citation: 'Article 7 - Environment And Health'
+authority_level: county_ordinance
+issuing_body: 'Coos County Board of Commissioners'
+source_url: https://co.coos.or.us/files/9796c4b16/article_7_-_environment_and_health.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8c08c41733fa1588f548c95f7f1841caa5725f7512819ca6be486eecc6c36e4a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 153.005
+    - ORS 153.008
+    - ORS 190.003
+    - ORS 203.030
+    - ORS 203.035
+    - ORS 30.270
+    - ORS 414.705
+    - ORS 430.610
+    - ORS 446.310
+    - ORS 446.325
+    - ORS 446.425
+    - ORS 448.100
+    - ORS 468.740
+    - ORS 527.620
+    - ORS 624.510
+    - OAR 333-029-0015
+    - OAR 333-030-0015
+    - OAR 333-031-0002
+  related: []
+  supersedes: []
+tags: [coos-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Coos County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Article 7 - Environment And Health (Article 7 - Environment And Health)
+
+## At a glance
+
+Article 7 - Environment And Health — code of Coos County. 54 pages.
+
+## Full text
+
+ARTICLE VII - Page 1
+ ARTICLE SEVEN -- ENVIRONMENT AND HEALTH
+
+DIVISION ONE - SOLID WASTE
+
+SECTION 07.01.010  RESERVED
+
+SECTION 07.01.020  RESERVED
+
+SECTION 07.01.030  PURPOSE AND POLICY
+
+The purpose of this Division is to protect the health, safety
+and welfare of the people of Coos County and, pursuant to the
+provisions of ORS Chapter 459 and ORS Chapter 203, to provide
+for a program relating to the collection, disposal, recovery
+and management of wastes and solid wastes within Coos County
+and to:
+ (1) Provide for safe and sanitary accumulation,
+collection, transportation, storage and disposal,
+including resource recovery of wastes and solid
+wastes.
+ (2) Prevent uncontrolled dumping of wastes and solid
+wastes on public and private property.
+ (3) Provide a planning implementation method for
+adequate waste and solid waste control, disposal
+and recovery.
+ (4) Be part of a program of control of waste and solid
+waste in cooperation with federal, state and local
+agencies responsible for the prevention, control
+or abatement of air, water and ground pollution.
+ (5) Provide for sanitary, efficient and economical
+ways of waste and solid waste collection, disposal
+and recovery.
+ (6) Provide minimum standards for collection of waste
+and solid waste and for disposal or recovery
+thereof.
+ (7) Provide for technologically and economically
+feasible resource recovery by and through the
+franchisee(s).
+
+SECTION 07.01.040  DEFINITIONS
+
+ (1) General Definitions.  In this Division, words used
+in the present tense include the future, the
+singular number includes the plural, the word
+"shall" and "will" are mandatory and not
+directory, where the masculine appears it shall
+include the feminine, and the term "this Division"
+will include amendments hereinafter adopted and
+made to this Division.
+
+ARTICLE VII - Page 2
+ (2) Specific Definitions.  As used in this Division,
+unless the context requires otherwise:
+  (a) "Advisory Committee" means the Solid Waste
+Advisory Committee whose members are
+appointed by the Coos County Board of
+Commissioners pursuant to a resolution of the
+Board.
+  (b) "Board" means the Board of Commissioners of
+Coos County.
+  (c) "Collection Vehicle" means any vehicle used
+to collect or transport waste or solid waste.
+  (d) "Collector" means a person authorized by Coos
+County, local governmental units or state
+agencies to collect, transfer or transport
+waste and solid waste within Coos County.
+  (e) "Combustible Waste" means all waste or solid
+waste capable of incineration  or burning.
+  (f) "Compensation" means type of consideration
+paid for service including but not limited to
+direct or indirect compensation by tenants,
+licensees or similar person.
+  (g) "Compost Pile" means a location bordered and
+confined by earth, metal, wood or other solid
+materials that is used for the controlled
+storage and decomposition of vegetable
+materials for use as a fertilizing agent in
+agricultural or garden sites.
+  (h) "County" means Coos County, Oregon.
+  (i) "County Disposal Site" means a waste or solid
+waste disposal site, of any kind, owned,
+leased to, or operated by the County.
+  (j) "Demolition and Construction Waste" means
+bulky, nonputrescible materials consisting
+of, but not limited to, nonsalvaged building
+demolition materials and land clearing
+debris.
+  (k) "Dispose" or "Disposal" means accumulation,
+storage, collection, transportation, disposal
+of or resource recovery from wastes or solid
+wastes.
+  (l) "Disposal Site" means land and facilities
+used for the disposal, handling or transfer
+of or resource recovery from solid wastes,
+including but not limited to dumps,
+landfills, resource recovery facilities,
+incinerators for solid waste or waste
+delivered by persons hauling their own solid
+wastes or for solid waste collection service,
+and composting plants; but the term does not
+include a facility subject to the permit
+requirements of ORS 468.740, a landfill site
+which is used by the owner or person in
+control of the premises to dispose of soil,
+rock, concrete or other similar
+nondecomposable material, unless the site is
+
+ARTICLE VII - Page 3
+used by the public either directly or through
+a solid waste collection service, or a site
+licensed pursuant to ORS Chapter 822.
+  (m) "Franchise" means a franchise to operate a
+waste or solid waste disposal site or
+resource recovery facility or collection
+service, including collection, transfer and
+transport, issued by the Board pursuant to
+this Division.
+  (n) "Hazardous Waste or Solid Waste" means waste
+or solid waste that is dedicated by ORS
+Chapter 459 or regulations of the
+Environmental Quality Commission thereunder
+or by the Board pursuant to Section 05.01.070
+to be hazardous.
+  (o) "Incinerator" means any combustion device
+specifically designed for the reduction, by
+burning, of solid, semi- solid or liquid
+wastes.
+  (p) "Industrial Waste" means waste or solid waste
+resulting from any process of industry or
+manufacturing or from the development or
+recovery of any natural resources.
+  (q) "Landfill" means a disposal site operated by
+means of compacting and covering waste or
+solid waste at specifically designated
+intervals but not necessarily each operating
+day.
+  (r) "Person" means any individual, firm,
+association, sole proprietorship,
+partnership, non- profit corporation,
+corporation, joint stock company,
+cooperative, joint venture or other private
+legal entity or any public agency or a
+municipal corporation.
+  (s) "Putrescible Material" means any organic
+material that can decompose and may give rise
+to four- smelling or offensive odors or
+products.
+  (t) "Regulations" means regulations adopted
+pursuant to this Division and promulgated by
+the Board by resolution or order, unless
+otherwise specified herein.
+  (u) "Resource Recovery" means the process of
+obtaining useful material or energy resources
+from solid waste and includes:
+   (A) "Energy recovery" means recovery in
+which all or a part of the solid waste
+materials are processed to utilize the
+heat content, or other forms of energy,
+of or from the material.
+   (B) "Material recovery" which means any
+process of obtaining from solid waste,
+by presegregation or otherwise,
+materials which still have useful
+
+ARTICLE VII - Page 4
+physical or chemical properties after
+serving a specific purpose and can,
+therefore, be reused or recycled for the
+same or other purpose.
+   (C) "Recycling" which means any process by
+which solid waste materials are
+transformed into new products in such a
+manner that the original products may
+lose their identities.
+   (D) "Reuse" which means the return of a
+commodity into the economic stream for
+use in the same line of application as
+before without change in its identity.
+  (v) "Rules" means rules promulgated by state
+agencies pursuant to Oregon Revised Statutes,
+as amended.
+  (w) "Salvage, Removal or Recycling Operations"
+means the practice of retrieving reclaimable
+materials including but not limited to paper,
+metal, bottles, rags and other waste objects
+for the purpose of resale, recycling or
+reuse.
+  (x) "Sanitary Landfill" means a disposal site
+regulated by the Environmental Quality
+Commission and operated by means of
+compacting and covering wastes or solid
+wastes, at least once each operating day.
+  (y) "Service" means the collection, storage,
+transportation, disposal of or resource
+recovery from waste and solid wastes.
+  (z) "Service Area" means the geographical area in
+which the operation of a waste or solid waste
+disposal site, resource recovery facility or
+collection or transfer service, made pursuant
+to this Division, can be economically, safely
+and effectively provided by a person.
+  (aa) "Solid Waste" means all putrescible and
+nonputrescible wastes, including but not
+limited to garbage, rubbish, refuse, ashes,
+waste paper and cardboard; commercial,
+demolition and construction wastes, discarded
+or abandoned vehicles or parts thereof;
+discarded home and industrial appliances;
+manure, vegetable or animal solid and semi-
+solid wastes, dead animals and other wastes,
+but the term does not include:
+   (A) Hazardous wastes.
+   (B) Materials used for fertilizer or for
+other productive purposes or which are
+salvageable as such materials are used
+on land in agricultural operations and
+the growing or harvesting of crops and
+the raising of fowls or animals or the
+practice of silviculture.
+  (bb) "Waste" means material that is no longer
+
+ARTICLE VII - Page 5
+useable by or that is no longer wanted by the
+source of the material, which material is to
+be disposed of or be resource recovered by
+another person.  However, the term "waste"
+shall not include any material which is the
+subject of a sales transaction by the source
+of the material for actual monetary
+consideration and involving materials for
+which a recognized market exists and which
+requires or involves no processing prior to
+such sale by the source.  A payment of merely
+nominal consideration to the source of
+material shall not exempt such material from
+the definition of the term "waste" if in fact
+the true consideration is merely the
+collection, transportation, disposal or
+recovery of the waste material.
+
+SECTION 07.01.050  ADMINISTRATION
+
+The Board of Commissioners shall be responsible for the
+administration and enforcement of this Division and may
+delegate the authority for the administration and enforcement
+of this Division to a person or persons.  In order to carry
+out the duties imposed by this Division, the Board or its
+designee(s) shall have the authority to administer oaths,
+certify to all official acts, subpoena and require the
+attendance of witnesses at public hearings before the Board;
+require the production of relevant documents at public
+hearings; swear witnesses; take testimony of any person by
+deposition; enter, or authorize personnel to enter, upon the
+premises of any person regulated by this Division to
+determine compliance with this Division and the regulations
+promulgated by the Board pursuant thereto.
+
+SECTION 07.01.060  SOLID WASTE ADVISORY COMMITTEE
+
+ (1) There is hereby created a nine member Solid Waste
+Advisory Committee, hereinafter called the
+"Advisory Committee", consisting of:
+  (a) Two persons holding solid waste collection,
+transport, disposal site or resource recovery
+facility franchises in the incorporated or
+unincorporated territory of Coos County or an
+employee or designee of such a franchise
+holder.
+  (b) Three citizens of Coos County, one of which
+shall be a representative of the recycling
+industry and one who is not  served by any
+collection franchise.
+  (c) Two persons representing the Cities of Coos
+Bay and North Bend.
+  (d) Two persons representing the Cities of
+
+ARTICLE VII - Page 6
+Coquille, Myrtle Point, Bandon, Lakeside and
+Powers.
+  (e) The Coos County Health Officer and/or
+designee and the Coos County Solid Waste
+Director shall be ex- officio members of the
+Advisory Committee but shall serve only an
+advisory role and shall have no voting rights
+regarding the business of the Advisory
+Committee.
+ (2) Members of the Advisory Committee shall be
+appointed by the Board with staggered terms as
+determined by the Board.  The Board shall seek the
+input of the franchise holders, City Councils and
+the public prior to making the appointments.
+ (3) Appointment to the Advisory Committee.  Members of
+the Advisory Committee shall be appointed by the
+Board for a term of three (3) years and shall
+serve until their successors are appointed and
+qualified; provided that in the first instance the
+terms of the initial members shall be staggered
+for one (1), two (2) and three (3) years.
+Vacancies shall be filed by the Board for the
+unexpired term.
+ (4) Meeting of Advisory Committee.  The Advisory
+Committee shall meet at such time as deemed
+necessary or as called by the Board.  The Chair or
+a majority of the members of the Advisory
+Committee shall have the power to call meetings.
+ (5) Duties of the Advisory Committee.  The Advisory
+Committee shall advise the Board on the
+interpretation, enforcement or amendment of this
+Division and any franchise issued hereunder.
+Additionally, the Advisory Committee shall advise
+the Board generally on the matter of collection,
+transfer, disposal, recycling or resource recovery
+of solid waste.
+ (6) Regional Solid Waste Advisory Committee.  If
+agreement is reached with one or more cities or
+counties pursuant to the terms of this Division
+for regional franchising for the collection,
+disposal or resource recovery of waste or solid
+waste, the Board may appoint one or more members
+of the Advisory Committee to serve on a Regional
+Committee established by such agreement to advise
+the Boards of City Councils in the affected
+counties or cities.
+
+SECTION 07.01.070  REGULATIONS
+
+ (1) The Board may promulgate reasonable regulations
+pertaining to such requirements as may be
+necessary from time to time to protect the public
+health, safety and welfare, to meet the rules of
+the Oregon State Environmental Quality Commission
+
+ARTICLE VII - Page 7
+or the United States Environmental Protection
+Agency and to effect the efficient administration
+of this Division.
+ (2) The regulations may concern collection, transfer,
+storage, accumulation, disposal, recycling and
+resource recovery of wastes and solid wastes,
+including, but not limited to, the following:
+  (a) Accumulation, storage, collection, transfer,
+disposal of or resource recovery from wastes
+or solid wastes to prevent;
+   (A) vector production and nuisance;
+   (B) conditions for transmission of disease
+to people or animals;
+   (C) air pollution by dust, fumes, gas,
+smoke, odors or particulate matter or
+any combination thereof;
+   (D) pollution of surface or underground
+waters; or
+   (E) hazards to service or disposal workers
+or to the public.
+  (b) Disposal site, with respect to adaptability
+of the site to the population served,
+topography and geology of the area,
+protection of ground and surface water, air
+pollution, accessibility, longevity, resource
+recovery, ultimate site use, standards of
+design, management and operation, regulation
+and limitation of resource recovery and
+protection of adjacent or nearby residents.
+  (c) Safe handling or management of hazardous
+wastes, solid wastes and wastes.
+  (d) Such other regulations deemed necessary by
+the Board to carry out the purpose of this
+Division and to protect public health, safety
+and welfare.
+  (e) Disposal of recovery of industrial wastes at
+County or franchised sites.
+ (3) Regulations adopted by the Board pursuant to this
+Division shall become a part of the terms of each
+franchise.  If necessary to meet an emergency, the
+regulations will become effective upon their
+adoption at a Board meeting called for such
+purpose provided that all members of the Board
+present concur in the declaration of the
+emergency.  Otherwise, such regulations shall be
+considered by the Board at a meeting, and notice
+of consideration and possible adoption of the
+regulations shall be given by mail to all
+franchisees that may be affected by the proposed
+regulations at least twenty (20) days prior to the
+time the regulations are to be considered.
+Additionally, the topic of the proposed
+regulations or a copy of the regulations, if
+prepared, will be posted on the bulletin board at
+the Courthouse in Coquille, and the Coos County
+
+ARTICLE VII - Page 8
+Annex in North Bend, not less than ten (10) days
+prior to the meeting to consider the regulations.
+ Except in cases of emergency any regulations so
+adopted will be effective not less than ten (10)
+days after their adoption, and the resolution or
+order adopting the regulations shall be posted at
+any affected disposal site or resource recovery
+facility not less than five (5) judicial days
+after adoption.  Removal of the regulations by
+vandalism or other cause shall not delay or
+invalidate the regulations.
+ (4) No regulations shall be adopted pursuant to this
+section which would have the effect of hindering
+fair and honest competition or placing
+unreasonable restraints on commerce.  Any person
+who believes that this Division or a regulation
+adopted pursuant to this Division has such an
+effect may present a protest to the Coos County
+Board of Commissioners.  The Coos County Board of
+Commissioners shall then promptly review the
+protest and conduct an administrative review for
+the purpose of determining whether the regulation
+may be in violation of any anti- trust laws.  The
+purpose of this procedure is to provide a prompt
+and expeditious resolution of any alleged anti-
+trust violations.
+
+SECTION 07.01.080  EXCEPTIONS TO ORDINANCE REGULATIONS
+
+ (1) Except as otherwise specifically provided herein,
+this Division shall not apply:
+  (a) Within the incorporated limits of any city
+except as may be agreed to by the city and
+the county pursuant to Section 07.01.150.
+  (b) As to terms and rates to be charged for
+collection service, to the federal
+government, any state or municipal
+government, including Coos County, or any
+agency thereof; nor to those who contract
+with the federal or state government or any
+agency thereof.  This exemption shall not
+apply to disposal on the disposal site owned
+or operated by the County or by a franchise
+issued under this Division.
+  (c) To recycling or resource recovery rights of
+the collector granted by Coos County which
+are in effect within forty- five (45) days of
+the adoption of this Division, and any
+renewal thereof; provided, however, that such
+salvage and resource recovery rights shall be
+limited to the salvage and recovery without
+restriction to weight or volume, of the
+following materials:
+   (A) cardboard;
+
+ARTICLE VII - Page 9
+   (B) ferrous metals;
+   (C) automobile bodies;
+   (D) white goods;
+   (E) glass; and
+   (F) such other wastes or solid wastes as
+agreed upon between the collector and
+the disposal site operator.
+  (d) To solid waste recycling operations of
+nonprofit public service organizations and
+nonprofit community based recycling centers
+in existence thirty (30) days prior to the
+date of adoption of this Division, provided
+that an application is made within one
+hundred twenty (120) days of the date of
+adoption of this Division and the applicant
+has established to the satisfaction of the
+Board, that the operation:
+   (A) Was in existence thirty (30) days prior
+to the adoption of Solid Waste Ordinance
+No. 1, adopted August 28, 1974;
+   (B) Is in existence as of the date of the
+application; and
+   (C) Does not constitute a nuisance or hazard
+to the public; and
+   (D) Is satisfactorily serving the public
+need and interest in disposing or
+recycling of solid waste.
+  (e) to all recycling or resale of materials by
+organizations, businesses, or private persons
+provided that they involve the following
+materials:
+   (A) Reconditionable household furnishings
+and appliances, or
+   (B) Personal effects such as clothing, tools
+and sporting goods.
+   and the operation does not constitute a
+nuisance or hazard to the public and is
+satisfactorily serving the public need and
+interest in disposing or recycling of such
+materials.
+  (f) to reuse or beverage containers or operations
+incident thereto under that portion of ORS
+Chapter 459, commonly referred to as the
+"bottle bill".
+  (g) to establishment or operation of an
+industrial solid waste disposal site under a
+permit by the Oregon Department of
+Environmental Quality and in compliance with
+that permit and all applicable statues, rules
+and regulations of other governmental units
+having jurisdiction and provided further that
+the Board may direct that all or part of such
+waste be delivered to a disposal site
+operated by the County or franchisee for
+disposal or recovery.
+
+ARTICLE VII - Page 10
+SECTION 07.01.090  PROHIBITIONS
+
+ (1) In areas defined by the Board to be franchised for
+solid waste collection, transfer or
+transportation, no person shall store, collect,
+transfer, or transport any waste or solid waste
+for compensation unless such person is franchised
+pursuant to the terms of this Division.
+ (2) Except as herein provided, no person may create or
+maintain a waste or solid waste disposal site.
+Any site licensed or permitted to operate by
+written license or permit from the Environmental
+Quality Commission (EQC), State of Oregon, may
+continue such operation until such permit or
+license is revoked or has expired, provided that
+the operator apply for a disposal franchise
+pursuant to the terms of this Division within
+thirty (30) days after the effective date of this
+Division.
+ (3) Except as provided herein, no person shall
+collect, transport or transfer solid waste or
+waste for compensation without a franchise, unless
+such operation was carried on by such person on
+the effective date of this Division and the person
+providing that service applies for franchise
+within thirty (30) days after the effective date
+of this Division.  Such person may continue
+operating within the area served on the effective
+date until final determination is made on a
+franchise for that service area.
+ (4) Except as herein provided, no land or facility
+shall be used within the County as a waste or a
+solid waste disposal site or operation without
+having first been duly authorized by the Board.
+ (5) Nothing in this section shall require a collector
+to remove any material, the storage, collection or
+transportation of which is prohibited by
+governmental agency order or regulation or which
+is hazardous to the collector or the collector's
+employees or which could be reasonably expected to
+cause damage to collection equipment or cause a
+hazard or nuisance to the public.
+ (6) No person shall intentionally deposit at the
+disposal site any material or substance which is
+not defined as solid waste by the terms of this
+Division unless permitted or authorized by the
+Board, in the case of County disposal sites, or
+the franchisee.
+ (7) Nothing in this section shall prohibit the storage
+of vegetable material in a compost pile for use in
+agricultural or residential purposes so long as
+the compost pile is not unsightly, produces no
+offensive odors, and does not create health
+hazard; and providing that the compost pile exists
+on land owned or occupied by the maker and user
+
+ARTICLE VII - Page 11
+thereof.
+ (8) Nothing in this section shall prohibit an
+individual from transporting and disposing of
+waste or solid waste generated by the person on
+the person's own property, or property rented or
+leased to or by that person, so long as such
+transportation and disposal does not result in a
+health hazard, create a nuisance, be unsightly or
+violate the rules of the Environmental Quality
+Commission.
+ (9) No person shall transport or carry refuse in or on
+a motor vehicle or trailer upon a public road
+within the jurisdiction of Coos County unless such
+refuse is:
+  (a) completely covered on the sides, top and
+bottom thereof and such cover is either a
+part of or securely fastened to the body of
+such motor vehicle or trailer; or
+  (b) such refuse itself is securely tied to the
+body of such motor or trailer; or otherwise
+contained in the body of the motor vehicle or
+trailer in such a way so that no piece,
+article or part of such refuse is likely to
+sift, leak or otherwise escape therefrom.
+
+SECTION 07.01.100  TRANSPORTING WASTE AND SOLID WASTE
+
+Any person, firm, corporation or entity of any kind
+transporting waste and solid waste for any purpose, whether
+public or private, must secure the waste or solid waste in
+such a manner that no waste or solid waste shall escape from
+the container in the vehicle in which it is transported, no
+health hazards occur as a result of such transportation and
+unpleasant odors and unsightly conditions are minimized.
+
+SECTION 07.01.110  SOLID WASTE ACCUMULATION PROHIBITED
+
+ (1) Except as otherwise provided in this section, it
+shall be unlawful for any person to store,
+deposit, maintain or display on private property,
+wastes or solid wastes that:
+  (a) are hazardous to the health or safety of the
+public; or
+  (b) create offensive odors; or
+  (c) create a condition of unsightliness; or
+  (d) create a fire hazard.
+  Storage, collection, maintenance or display of
+wastes or solid wastes in violation of this
+subsection shall be considered a public nuisance
+which may be abated pursuant to Section 07.01.430.
+[94-03-004L]
+ (2) This section shall not apply to:
+  (a) Areas within the limits of incorporated
+
+ARTICLE VII - Page 12
+cities, unless an agreement is duly entered
+into and executed between Coos County and the
+city, pursuant to ORS 190.003 through
+190.250.
+  (b) Disposal sites franchised pursuant to the
+provisions of this Division, provided that
+such disposal sites comply with this
+Division, and all rules and regulations
+adopted pursuant thereto.
+  (c) Agricultural operations and the growing or
+harvesting of crops and the raising of fowl
+or animals, or other agricultural practice or
+silviculture where:
+   (A) The accumulation of waste or solid waste
+is a necessary agricultural operation;
+   (B) The accumulation of waste or solid waste
+is conducted in such a manner as to
+create no fire, health or safety hazard
+to the public; and
+   (C) The accumulation of waste or solid waste
+is performed in conformance with the
+regulations enacted pursuant to this
+Division.
+
+SECTION 07.01.115  ABANDONED VEHICLES WITHIN URBAN
+ GROWTH AREAS
+[Adopted Section 115 of Article
+Seven, Division One on April 20,
+1994]
+
+ (1) No person shall store, or permit to be stored,
+more than two abandoned vehicles on any property
+located within an urban growth area designated by
+the Coos County Comprehensive Plan, unless such
+storage is authorized by the Coos County Zoning
+and Land Development Ordinance.
+ (2) As used in this section, "abandoned vehicle" means
+motor vehicle that is inoperable, and/or incapable
+of being licensed under the Oregon Vehicle Code,
+and stored outside of an enclosed garage or
+building.  As used in this section, "abandoned
+vehicle" includes vehicle parts.
+
+SECTION 07.01.120  SALVAGE, REMOVAL OR RECYCLING
+     OPERATIONS
+
+ (1) Except as otherwise permitted in Section
+07.01.080, salvage, removal or recycling
+operations in the unincorporated areas of Coos
+County shall be conducted only with the written
+authorization of the Board.  The Board may adopt
+such regulations as are deemed necessary to
+protect public health, safety and welfare and that
+
+ARTICLE VII - Page 13
+carry out the purposes of this Division.
+ (2) The Board may revoke authorization for salvage,
+removal or recycling operations when it finds that
+the operator
+  (a) has failed to follow the applicable
+provisions of state law, this Division, the
+rules of the Environmental Quality Commission
+or Environmental Protection Agency, or the
+regulations adopted under this Division; or
+  (b) is operating in such a manner so as to
+constitute a nuisance or a hazard to the
+public; or
+  (c) has ceased operation for a continuous period
+exceeding ninety (90) days, or is not
+carrying out service under this Division and
+applicable federal, state and local laws,
+rules and regulations and where the cessation
+of operation has not been the result of
+strikes of acts of God.
+ (3) Revocation of authorization to conduct a salvage,
+removal or recycling operation will be pursuant to
+Section 07.01.380
+ (4) No person shall recover solid waste from a County
+disposal site unless permitted to do so by
+contract with Coos County.
+
+SECTION 07.01.130  GRANTING FRANCHISE
+
+ (1) Separate franchises shall be issued for separate
+service areas.  Separate franchises may be issued
+for collection, including collection, transfer and
+  transport, a disposal site or a resource recovery
+   facility.
+ (2) Where the Board finds that a person is providing
+adequate collection service to a service area on
+the effective date of this Division and is
+qualified to provide the service under the terms
+of this Division, the Board shall grant a
+collection franchise to such person; provided,
+however, if there are two or more persons
+providing service in the service area:
+  (a) The qualified collector using proper
+collection vehicles and having a majority of
+service customers on the effective date of
+this Division shall be granted the franchise.
+  (b) (A) The person granted a franchise under
+Subsection 2(a) of this Section shall
+compensate the owner of other service or
+services rejected for the franchise at
+the fair market value of such business
+for customers served on the effective
+date of this Division and upon mutually
+agreeable terms and conditions.
+   (B) Nothing in this paragraph shall create
+
+ARTICLE VII - Page 14
+any liability on the part of the County,
+the Board or any agent or employee of
+either for any compensation of any kind
+whatsoever under this subsection.  Nor
+shall the County or any of its agents or
+employees be responsible for resolving
+disputes concerning the terms and
+conditions of compensation between the
+collector granted a franchise and the
+owner of other service or services
+rejected for the franchise.
+  (c) Subsection 2(a) and 2(b) of this Section do
+not apply to drop box or roll off box
+franchises.  Where the Board finds that two
+collectors with overlapping service have
+agreed to resolve the conflict by taking the
+service area and the other the franchise for
+existing customers and the Board further
+finds that such agreement conforms to the
+purposes stated in Section 07.01.030 and the
+standards stated in Section 07.01.160, it
+shall approve the agreement and issue
+appropriate franchises.
+
+SECTION 07.01.140  FRANCHISING ADJACENT TO CITIES
+
+Where collection service is not being provided on the
+effective date of this Division or the collector does not
+qualify for a franchise or the franchise has been revoked
+under Section 07.01.380, the County may grant a franchise for
+garbage and rubbish collection in a service area adjacent to
+the city to a person who is licensed or franchised by the
+city.
+
+SECTION 07.01.150  JOINT OR REGIONAL FRANCHISING
+
+The Board may enter into an agreement with any city, county
+or public agency for joint or regional franchising of
+collection, transfer, disposal or resource recovery services
+or sites and provide, by regulation, for matters pertaining
+to the modification and termination of franchises.
+
+SECTION 07.01.160  ALLOCATION OF SERVICE AREAS
+
+ (1) A franchise to provide collection of waste or
+solid waste in a portion of the County outside a
+city shall be granted only after a determination
+of need for the service.  If one person has been
+franchised to provide a particular type of
+collection, another person shall not be franchised
+to provide the same service in the same area,
+except as otherwise provided by this Division.
+
+ARTICLE VII - Page 15
+ (2) The determination of need is the responsibility of
+the Board which shall seek to gain the best
+balance of the following objectives:
+  (a) To provide the most effective service at the
+least cost;
+  (b) To avoid duplication of service routes that
+will cause inefficiency or excessive use of
+fuel;
+  (c) To provide service in areas of marginal
+return;
+  (d) To improve the franchisee's likelihood of
+making a reasonable profit and thereby
+encouraging investment in modern equipment;
+  (e) To cooperate with cities by recognizing their
+service arrangements; and
+  (f) To otherwise provide for the service in a
+manner appropriate to the public interest.
+
+SECTION 07.01.170  APPLICATION AND FRANCHISE
+     REQUIREMENTS
+
+ (1) An application for a franchise shall be under oath
+on a form provided by the Board.  A nonrefundable
+fee, as determined by the Board pursuant to
+Article Nine, Division One of the Coos County
+Code, for processing the application is required
+and must accompany the application.  In addition
+to information required on the form, the Board or
+its designee may require the filing of any
+additional information deemed necessary to insure
+compliance with this Division.  An application for
+a collection, transfer, or transport franchise
+shall state the types of service to be provided
+and shall supply information required to determine
+compliance with the applicable section of this
+Division.  Where a DEQ permit is required, an
+applicant for a disposal or resource recovery
+franchise shall file the required permit
+application with DEQ and furnish the County with a
+copy of the application.
+  [91-06-007L]
+ (2) General Requirements for Collection, Transfer,
+Disposal or Resource Recovery Franchises.  The
+applicant must show to the satisfaction of the
+Board that the applicant:
+  (a) Has available equipment, facilities and
+personnel to meet the standards established
+by this Division, applicable state and
+federal laws, and local, state and federal
+rules and regulations.
+  (b) Has good moral character, or if the applicant
+is not a natural person, that the principle
+partners, owners, shareholders or officers
+are of good moral character.  In determining
+
+ARTICLE VII - Page 16
+whether the applicant is of good moral
+character, the Board may consider evidence of
+conviction of crimes involving injury to
+persons or property, or crimes involving
+fraud or deception.
+  (c) Has sufficient personnel experienced in the
+operation of the service to be franchised,
+considering the type, duration, volume of
+waste or solid waste, weather conditions, and
+methods of operation to assure ability to
+comply with Chapter 459 Oregon Revised
+Statutes (ORS), the rules of the
+Environmental Quality Commission, applicable
+federal laws and regulations, the terms of
+this Division and the regulations of the
+Board of Commissioners.
+  (d) Has, as a condition of this franchise,
+submitted within ten (10) days after the
+grant of the franchise by the Board, but
+before issuance of the franchise, cash or a
+corporate surety bond, in the amount of five
+thousand ($5,000.00) dollars.
+  (e) In cases of emergency declared by the Board
+and concurred in by all members present and
+voting, where the public interest probably
+would suffer material injury by delay or
+other cause, the Board may extend the time
+for submission of the corporate surety bond
+for an additional period not to exceed thirty
+(30) days and issue a temporary franchise on
+presentation of a certificate of insurability
+by the franchisee.
+   (A) The corporate surety bond provided for
+in this subsection shall be issued by a
+company authorized and licensed to do
+business as a surety in the State of
+Oregon.
+   (B) If, during the term of the franchise,
+the surety corporation be insolvent, or
+revoke or otherwise cancel the surety
+obligation, the applicant, as a
+condition for the continuation of this
+franchise, must submit cash or a new
+corporate surety bond in the same amount
+as originally procured upon the grant of
+the franchise or an amount equal to the
+gross receipts actually accrued by the
+franchisee for the prior year, which
+ever is greater.  Such new corporate
+surety bond must be submitted to, and
+approved by the Board within thirty (30)
+days of such insolvency, revocation or
+cancellation of surety.  Such new
+corporate surety bond shall fulfill all
+the conditions of the original surety
+
+ARTICLE VII - Page 17
+obligation provided for by this
+Division.
+   (C) Said corporate surety bond shall be
+approved by the Board and shall
+guarantee the full and faithful
+performance of the franchisee for the
+term of the franchise, and shall
+specifically include:
+    (1) Payment for all wages, materials
+and supplies and insurance premiums
+necessary to fulfill the provisions
+of this Division and rules and
+regulations;
+    (2) Workers' compensation premiums;
+    (3) A provision that the franchisee,
+the franchisee's agents and
+servants, shall fully and
+faithfully comply with all the
+terms, conditions, provisions and
+requirements contained in this
+Division and rules and regulations;
+and
+    (4) that the franchisee shall hold Coos
+County harmless from any expense
+incurred through the failure of the
+franchisee, the franchisee's agents
+and servants to operate and
+maintain a service as required by
+this Division and rules and
+regulations, and shall provide for
+the payment of insurance premiums
+sufficient to insure the County for
+any loss which would subject the
+County to liability arising out of
+the operation of the service
+including any expense to which Coos
+County may be put to correct any
+condition or violation of this
+Division, rules or regulations, by
+Coos County's own labor and
+equipment, whenever the Board
+determines, after notice and public
+hearing, that it is necessary to
+correct any condition in violation
+of this Division or for any damages
+arising out of the negligence of
+the franchisee, the franchisee's
+agents or servants.
+   (D) Said corporate surety bond shall be in
+full force and effect for the term of
+the franchise;
+  (f) Has sufficient financial ability to meet the
+obligations imposed by this Division, rules
+and regulations in the disposal of any and
+all waste and solid waste proposed to be
+
+ARTICLE VII - Page 18
+disposed of by the applicant for the term of
+this franchise.  The person applying for a
+franchise pursuant to this Division shall
+submit to such financial investigation deemed
+necessary by the Board to determine the
+financial ability of the applicant.  Upon
+application for franchise and during the term
+of franchise and two (2) years thereafter,
+the Board may investigate, as a condition of
+the continued enjoyment of the franchise, any
+financial aspect of the applicant relevant to
+the franchised business and may also demand
+copies of any annual report, articles of
+incorporation, evidence of net worth or any
+other relevant financial data.  Such
+information is confidential and shall be
+returned to the franchisee on completion of
+investigation.
+  (g) Has obtained any and all necessary permits
+from state and federal regulatory agencies
+(e.g. Department of Environmental Quality)
+prior to operation.
+  (h) Intends and is able to comply with Sections
+07.01.330 and 07.01.340.
+ (3) The bond required by Subsection 2(b) of this
+Section may be waived:
+  (a) For a disposal franchise, if the applicant
+has demonstrated its capability to dispose of
+all waste or solid waste proposed to be
+disposed of by the applicant; or
+  (b) For a collection franchise, if the applicant
+has demonstrated by contract, franchise,
+permit or other evidence sufficient to the
+Board its capacity to provide for the
+disposal of all waste and solid waste
+collected by the applicant in the service
+area for which the applicant has applied; and
+  (c) In either case, met all other requirements of
+this Section.
+ (4) If the applicant is providing service on the
+effective date of this Division, and has filed an
+application within thirty (30) days thereafter,
+the applicant may continue service until the final
+decision regarding the application is made by the
+Board.
+ (5) During the application process, and at any time
+should a franchise be granted, any cumulative
+change in excess of ten (10) percent of ownership
+thereof, must be reported to the Board within
+thirty (30) days of such change of ownership.
+
+SECTION 07.01.180  DETERMINATION OF RATES
+
+ (1) The Board may approve and establish existing rates
+
+ARTICLE VII - Page 19
+filed by applicants for franchises if it finds
+that such rates are not demonstratively
+unreasonable and are not substantially higher than
+those charged generally in the County or other
+areas under similar service requirements and for
+the same or similar quality of service or it may
+establish a different rate schedule.  In
+determining whether rates are reasonable under
+this subsection, the Board shall give due
+consideration to the rate guidelines established
+by this section.
+ (2) The Board may establish uniform rates throughout
+the County, or may establish uniform rates within
+zones based upon the length of haul or other
+factors which may, in the option of the Board,
+justify establishment of rate differentials.
+ (3) When establishing rates for disposal sites, in
+addition to other factors specified in this
+section, the Board shall consider the type of
+site, the cost of operation of such site, whether
+or not the site is open to the public, the type of
+waste to be disposed of and cost of compliance
+with federal, state and local laws and regulations
+together with such other factors which may in the
+opinion of the Board affect the rates to be
+charged.  The Board may establish uniform rates
+for all disposal sites or may establish different
+rates based upon the factors specified in this
+section.
+ (4) Increases or decreases in rates approved under
+this section shall not be made by the Board unless
+the Board finds that the increase or decrease is
+based upon a change in the cost of doing business
+or change in the type or quality of service
+available or proposed.
+ (5) In determination of rates or proposed rate
+charges, the Board shall give due consideration
+to:  the investment in facilities and equipment;
+the services of management; local wage scales; the
+concentration of customers in the area serviced;
+methods of storage, collection, transportation,
+disposal or resource recovery; the length of haul
+to disposal facilities; the cost of disposal; a
+reasonable return to the owners of the business;
+projected revenues and expenses; the future
+service demands of the area or site which must be
+anticipated in equipment, facilities, personnel or
+land; extra charges for special pickups or pickups
+on days where service is not normally provided on
+a route; extra charges where the type or character
+of waste or solid waste, including not limited to
+wastes with peculiarly offensive odors, requires
+special handling or service and extra charges for
+providing janitorial services on the premises
+where service is provided.
+
+ARTICLE VII - Page 20
+ (6) The Board may require an investigation by the
+Advisory Committee of any proposed rate or rate
+increase or decrease.  For the purpose of making
+this investigation, the Advisory Committee, in
+cooperation with the Board of Commissioners or its
+designee, is authorized to hold public hearings
+and to take and receive testimony relevant to the
+considerations to be made by the Board in
+establishing a rate or in allowing or denying the
+rate increases or decreases under this Division.
+Upon completion of its investigation, the Advisory
+Committee shall make a report of the public
+hearing and shall make recommendations to the
+Board regarding the proposed rate.
+ (7) In establishing rates or in considering rate
+increases or decreases, the Board must find that
+the rates will be just, fair, reasonable and
+sufficient to provide proper service to the
+public.  The Board may consider the rates charged
+by other persons performing the same or similar
+service in the same or other areas.
+ (8) Where no rate has been established for a
+particular type of service, the Board may
+establish an interim rate until the Board makes a
+final determination on the rate for that type of
+service.  In establishing such a rate, the Board
+shall give due consideration to all of the factors
+established as guidelines for the Advisory
+Committee and Board in this section.
+
+SECTION 07.01.190  ISSUANCE OF FRANCHISES
+
+ (1) All applications for franchises shall be reviewed
+by the Solid Waste Director, the Health
+Department, the Planning Department, County
+Counsel and any other officer or County department
+designated by the Board.  Each officer or
+department shall make an investigation as within
+the interest of the department and report back to
+the Board of Commissioners within thirty (30)
+working days of receiving the application. [94-03-
+004L]
+ (2) Public Hearing.  Upon the filing of an
+application, the Board shall fix a time and place
+for a hearing thereon.  Notice of the hearing
+shall be given to the franchise applicant, current
+franchisee (if any) and all persons who have made
+application for a franchise under this Division
+for the particular area or site to be franchised
+at least twenty (20) days prior to the hearing.
+ (3) Due notice shall also be given to the general
+public by posting notice of the hearing on the
+bulletin board at the Coos County Courthouse and
+the Coos County Annex in North Bend not less than
+
+ARTICLE VII - Page 21
+twelve (12) days prior to the hearing.
+Additionally, notice will be given by two (2)
+insertions in a newspaper of general circulation
+with the County, not more than eleven (11) nor
+less than four (4) days prior to the date of the
+proposed hearing.  Any interested person may
+appear and be heard orally or by a written
+memorandum in support of or opposition to the
+issuance of a particular franchise or permit or
+recycling or reuse authorization.
+ (4) Upon the basis of the application, evidence
+submitted and results of any investigation, the
+Board shall make specific findings of fact on the
+following:
+  (a) qualifications of the applicant in light of
+the Division, statutes, rules and
+regulations;
+  (b) the service, equipment and facilities that
+are provided by the applicant; and
+  (c) conditions of service that should be imposed,
+including but not limited to frequency of
+collection and location of collection.
+ (5) On the basis of its findings, the Board shall
+grant, deny or modify the application by written
+order.  The order shall include specific findings
+of fact, and the Board may attach whatever
+conditions to the grant of franchise it finds
+necessary to meet the purposes of this Division
+and to protect public health, safety and welfare.
+ (6) The franchisee shall, unless otherwise specified
+by the Board, provide all labor, tools, services
+and equipment necessary for the conduct of the
+franchise.
+ (7) The franchisee shall commence operations on the
+date specified by the Board in the order.
+ (8) No oral representation by any member of the Board
+or Advisory Committee shall have any effect
+whatsoever.  All terms, conditions and other
+matters of the franchise shall be in writing and
+shall be made pursuant to a meeting of the Board.
+ (9) If the Board finds that the need for public
+services justifies action before a complete
+investigation and final determination can be made,
+it may issue a temporary certificate, valid for a
+stated period not to exceed six (6) months,
+entitling a person to operate a disposal site or
+resource recovery facility or both within a
+defined service area.
+ (10) If a request for reconsideration is filed with the
+Board pursuant to Section 07.01.210, the franchise
+granted shall be temporary only, pending a final
+determination under Section 07.01.210.
+
+SECTION 07.01.200  ACCEPTANCE OF FRANCHISE
+
+ARTICLE VII - Page 22
+
+The franchise applicant shall be allowed thirty (30) days
+after notice of the grant of a franchise to accept the terms
+and conditions of the franchise pursuant to this Division.
+The failure of the prospective franchisee to file an
+unconditional written acceptance of this grant of franchise
+shall be deemed by the County to be a rejection of the
+franchise and the rights and privileges granted by the
+franchise shall absolutely cease unless the period of time
+for acceptance shall be extended by the Board.  Such an
+extension shall be for not more than thirty (30) days.
+
+SECTION 07.01.210  APPEAL FROM ADVERSE DECISIONS OF
+THE  BOARD REGARDING AWARD OF
+FRANCHISES OR ESTABLISHMENT OF
+RATES
+
+ (1) If the order of the Board is adverse to an
+applicant in any respect, the applicant may
+request reconsideration by filing with the Board a
+written request for hearing within ten (10) days
+after the date of said order.
+ (2) Upon the filing of such request for
+reconsideration, the Board shall set a time and
+place for public hearing upon its order, which
+hearing shall not be more than thirty (30) days
+from the date of the request for hearing.  Notice
+of the hearing shall be given to the applicant by
+mail, not less than twenty (20) days before the
+date that is set for hearing.  Notice of the
+hearing shall also be posted on the bulletin board
+at the Courthouse in Coquille and the Coos County
+Annex in North Bend.  The applicant or franchisee
+may submit relevant evidence to the Board upon the
+Board's order.  Other interested persons or
+affected public agencies or private parties may
+offer oral or written testimony.  The Board may,
+following the public hearing, affirm, modify or
+rescind its prior order.
+
+SECTION 07.01.220  TERM OF FRANCHISE
+
+A franchise granted under this Division for collection,
+transfer, transportation or disposal shall be for a period of
+ten (10) years and shall be considered a continuing
+franchise.  On January 1st of each year, the franchise is,
+upon payment of the renewal fee specified in Section
+07.01.240 below, renewed for an additional ten (10) year term
+unless, at least thirty (30) days prior to January 1st of
+that year, one party notifies the other in writing of intent
+to terminate the franchise.  Upon the filing of such notice
+of termination, the franchisee shall have a franchise
+terminating on December 31 of the eleventh (11) year
+
+ARTICLE VII - Page 23
+following the date of notice of termination.  The parties may
+later extend the term of, or reinstate, the franchise,
+conditioning renewal upon mutual agreement.  Nothing in this
+section restricts the Board of Commissioners from suspending,
+modifying or revoking the franchise for cause as provided in
+this Ordinance.  Failure to pay the franchise renewal fee by
+January 1st of each year shall constitute cause for which the
+franchise may be immediately terminated.  However, the Board
+of Commissioners, in their sole discretion, may provide a ten
+(10) day notice and opportunity to pay the renewal fee prior
+to terminating a franchise for non- payment of said fee.  A
+franchise granted under this Division for a disposal site or
+resource recovery facility shall be for a term determined by
+the Board upon the basis of public need, the purposes of this
+Division, financing requirements, site or facility longevity
+and other factors as determined by the Board.  Nothing in
+this section shall permit the continued operation of a
+transfer, disposal or resource recovery facility which
+requires a Department of Environmental Quality permit beyond
+the term of such currently valid permit or any renewal
+thereof by the Department of Environmental Quality.  [93-02-
+002L]
+
+SECTION 07.01.230  TEMPORARY EXCLUSIVE AND JOINT
+SERVICE UNDER FRANCHISE
+
+If the Board finds that an applicant for a franchise cannot
+provide service to a single customer. a group or type of
+customer, or for a particular type or unusually large
+quantity of solid waste, the Board may issue a franchise for
+joint service with another person who can provide that
+service and may attach such conditions in the grant as are
+necessary for the protection of public health, safety and
+welfare; provided, however, that in all cases where the Board
+finds that the applicant is able to provide adequate service
+within a defined service area, it may issue an exclusive
+franchise for that are to a single applicant.
+
+SECTION 07.01.240  FRANCHISE FEES
+
+The Board shall collect:
+ (1) A fee as determined by the Board pursuant to
+Article Nine, Division One of the Coos County
+Code, for any collection, transfer or disposal
+site franchise.  [91-06-007L]
+ (2) The fees above shall be in addition to any rent
+that may be due on any property owned by the
+County and leased to a disposal site franchisee.
+ (3) The provisions of Subsection (1) and (2) of this
+Section will apply each time there is a transfer
+or renewal of a franchise.
+
+SECTION 07.01.250  USE OF FRANCHISE FEES
+
+ARTICLE VII - Page 24
+
+Fees collected pursuant to Sections 07.01.170 and 07.01.240
+of this Division shall be paid into the Waste Disposal Fund
+of the County.  Funds so collected may be used to offset the
+costs of administering this Division.  [99-10-007L]
+
+SECTION 07.01.260  ENFORCEMENT OF FRANCHISE PROVISIONS
+
+The Board of Commissioners or its designee shall, upon
+reasonable cause, make an investigation to determine if
+sufficient reason and cause to suspend, modify, revoke or
+refuse to renew a franchise as provided by this Division
+exists.  If there is sufficient evidence to constitute a
+violation of this Division, state or federal laws, or rules
+or regulations, the Board of Commissioners, on its own motion
+or on notification from the Board's designee or the Solid
+Waste Advisory Committee, shall proceed under Section
+07.01.390.
+
+SECTION 07.01.270  CANCELLATION OF FRANCHISE BY
+   FRANCHISEE
+
+ (1) The franchisee shall have the option to cancel and
+terminate this franchise during the franchise term
+or any renewal period upon sixty (60) days notice,
+subject to the "continuance of service" provisions
+of this Division, if any of the following
+conditions occur:
+  (a) Destruction of the franchisee's equipment or
+premises so as to render it impossible to
+continue service.
+  (b) In a disposal franchise, the premises or a
+portion of the premises is taken by the
+exercise of power of eminent domain or sold
+in lieu of the exercise of such authority so
+as to render the operation of the facility
+uneconomical, impractical or impossible.
+  (c) The service becomes subject to new or
+different governmental regulations which
+render the operation of the facility
+uneconomical, impractical or impossible.
+ (2) In considering one of the above reasons for
+termination of the franchise, the termination will
+only be effective after a hearing by the Board and
+upon written request by the franchisee.  Notice of
+the hearing will be provided by two (2)
+publications in a newspaper of general circulation
+not more than eleven (11) nor less than four (4)
+days prior to the hearing, along with posting at
+the Coos County Courthouse in Coquille and the
+Coos County Annex in North Bend and upon written
+notice posted not less than five (5) days prior to
+the
+
+ARTICLE VII - Page 25
+  date of the hearing to the Department of
+  Environmental Quality (DEQ).
+ (3) After the hearing, the Board may grant or deny the
+request.  An appeal from the Board's decision may
+be taken by the franchisee by writ of review,
+which appeal procedure is exclusive.
+ (4) Nothing in this Division shall require any person
+to provide service where a court or governmental
+agency having jurisdiction has ordered the
+curtailment or termination of such service whether
+for a limited time or permanently and during the
+duration of such order.
+
+SECTION 07.01.280  CANCELLATION OF A DISPOSAL
+FRANCHISE  BY COUNTY
+
+ (1) Any disposal franchise granted to a private
+operator to operate a County owned disposal site
+may be canceled at the option of the County upon
+sixty (60) days notice to the franchisee if any of
+the following conditions should occur:
+  (a) Should the franchisee's equipment or premises
+be destroyed so as to render it impossible to
+continue service.
+  (b) If the County, pursuant to its own motion or
+pursuant to the lawful order or regulation of
+any court or agency having jurisdiction there
+over, should issue new rules or regulations
+which render the operation of the facility
+impractical, impossible or uneconomical.
+  (c) If the County should, on its own motion,
+wholly or partially divert County disposal
+services from landfill or sanitary landfill
+to incinerator, energy recovery, or such
+other activities as the Board determines are
+not compatible with the landfill or sanitary
+landfill operation.
+
+SECTION 07.01.290  PREVENTING INTERRUPTION OF SERVICE
+
+ (1) The franchisee shall agree, and it is a condition
+of obtaining and holding the franchise, that
+whenever the Board finds that failure of service
+for any reason, including but not limited to acts
+of God or work stoppages, whether or not through
+the fault of the franchisee, would result in the
+creation of a health hazard or public or private
+nuisance, the Board shall, after reasonable
+notice, but not less than twenty- four (24) hours
+notice to the franchisee, or after a public
+hearing, if the franchisee requests a hearing
+within twenty-four (24) after receipt of notice,
+have the right to authorize another franchisee or
+
+ARTICLE VII - Page 26
+person or Coos County to provide service or use
+and operate the land, facilities and equipment of
+the franchisee through leasing or otherwise in the
+event of serious interruption of service to all or
+a class or group of customers for so long as such
+interruption continues.
+ (2) If the Board orders that another person or Coos
+County provide service or use or operate the land,
+facilities or equipment of the franchisee pursuant
+to Subsection (1) of this Section, the franchisee
+shall be liable for any expense, in excess of
+service receipts, incurred by such persons
+pursuant to said order and Coos County shall be
+entitled to any and all service receipts that may
+reasonably be apportioned to the time the County
+or other person operates the service.  The County
+may collect the service receipts from the user or
+the franchisee.
+
+SECTION 07.01.300  TRANSFER OF FRANCHISES
+
+ (1) A franchisee may transfer the franchise or any
+rights incidental thereto, or portion thereof, to
+other persons only upon written notice to, and
+approval by, the Board.
+ (2) The Board shall approve the transfer if it finds
+the transferee meets all applicable requirements
+as if the transferee were an applicant for a
+franchise.  The Board shall approve or disapprove
+any application for transfer of a franchise within
+a reasonable time.
+ (3) The Board may permit the franchise to be pledged
+as security for purchase of land, equipment or
+facilities needed to provide service or to finance
+purchase of a business providing service under
+this Division.
+ (4) The new franchisee will be responsible for fees
+assessed in Section 07.01.240.
+ (5) The Board may attach whatever conditions it deems
+appropriate to guarantee maintenance of service.
+
+SECTION 07.01.310  RATE PREFERENCE PROHIBITED
+
+ (1) No franchisee subject to rate regulation under
+this Division shall give any rate preference to
+any person, type of service or locality for the
+collection, transfer, disposal or resource
+recovery of any type of solid waste or waste.
+ (2) Nothing in this section is intended to prevent:
+  (a) The reasonable establishment of uniform
+classes of rates based upon length of haul,
+type of solid waste stored, collected,
+transported or disposed of or the number,
+
+ARTICLE VII - Page 27
+type and location of customers served or upon
+other factors as long as such rates are
+reasonably based upon costs of the particular
+service and are approved by the Board in the
+same manner as other rates.
+  (b) Any person from volunteering service at
+reduced cost for a charitable, community,
+civic or benevolent purpose.
+  (c) Reduced collection rates for fixed or low
+income persons as a class.
+
+SECTION 07.01.320  DEPARTMENT OF ENVIRONMENTAL QUALITY
+     (DEQ) PERMITS
+
+It will be the responsibility of the franchisee to determine
+and know whether permits from the Department of Environmental
+Quality (DEQ) or the Environmental Protection Agency are
+required for the franchisee's operation, whether it be for
+transfer, collection or disposal of waste and solid waste,
+and it will be the franchisee's responsibility to maintain,
+during this franchise, whatever permit may be required for
+the franchisee's operation and the franchisee shall comply
+with all rules and regulations of the Department of
+Environmental Quality (DEQ) and the Environmental Protection
+Agency as presently existing or as may be adopted or amended
+relating to the operation of the franchisee's service.
+
+SECTION 07.01.330  LIABILITY INSURANCE
+
+The franchisee, not at County expense, shall, during the term
+of the franchise, maintain comprehensive general liability
+insurance to the full extent of liability limitations set
+forth in ORS 30.270 and any amendments thereof.  The County
+shall be named as co-insured.  Prior to the commencement of
+operations, the County shall receive proof of insurance and
+it shall be a condition of such insurance that said insurance
+will not be terminated without thirty (30) days prior written
+notice to the Board and the insured.  Cancellation of
+insurance, without immediate replacement insurance with no
+loss or lapse of coverage, shall be cause for immediate
+termination of the franchise without recourse.
+
+SECTION 07.01.340  INDEMNITY
+
+The franchisee shall indemnify and hold the County harmless
+from and against all claims and demands for loss or damage
+arising out of or in connection with the service provided by
+the franchisee or by any other person claiming by, through or
+under the franchisee, including any accident or fire or any
+nuisance made or suffered.
+
+ARTICLE VII - Page 28
+
+SECTION 07.01.350 SPECIFIC REQUIREMENTS FOR COLLECTION,
+TRANSFER AND TRANSPORT FRANCHISES
+
+The holder of a franchise for collection or transfer:
+ (1) Shall not voluntarily discontinue service in any
+area covered by the franchise without giving at
+least ninety (90) days written notice of the
+proposed discontinuance of service to the Board
+and to any customer regularly utilizing the
+service.  No discontinuance of service to any area
+or portion thereof shall be made without written
+approval by the Board prior to the discontinuance
+during the term of the franchise.  This subsection
+shall not apply to any order of foreclosure or
+restriction of use by any public agency, public
+body or court having jurisdiction.  Nor shall this
+subsection prohibit a franchisee from refusing to
+provide service to a customer if the customer
+refuses to pay for the service or for other
+reasons that may be established by the Board by
+regulation, provided that in no event shall the
+holder of a franchise terminate such service
+without seven (7) days prior written notice to the
+customer of the intention to terminate service.  A
+franchisee who has discontinued service on the
+basis of a customer's refusal to pay for such
+service may demand that the customer pay in
+advance or make a reasonable deposit to guarantee
+payment for future services before reinstating
+such service.
+ (2) Shall provide required service, equipment and
+facilities, but not less than service, equipment
+and facilities commensurate with existing service
+provided within the service area defined in the
+franchise, within one (1) month from the date of
+issuance of the franchise unless the Board extends
+the time upon showing of reasonable grounds by the
+applicant.  Where an area is not receiving service
+on the date of the application for a franchise
+covering such area, the Board may order that
+service be provided at such time as it finds to be
+reasonable.
+ (3) May contract with another person to provide
+service within a service area after giving written
+notice to and obtaining approval of the Board of
+Commissioners or its designee.  The Board shall
+approve the contract unless it finds that the
+quality or extent of service would be jeopardized.
+ (4) May refuse service to a customer upon reasonable
+grounds where:
+  (a) Service of the particular location would
+jeopardize the safety of the driver, the
+collection vehicle or the motoring public;
+  (b) The customer has not provided reasonable
+
+ARTICLE VII - Page 29
+access, without hazard or risk to the person
+providing service, to the pickup point for
+the container storing solid waste;
+  (c) Where weather conditions, blocked road access
+or similar conditions prevent service to a
+particular customer; or
+  (d) In any case where service may be prohibited
+by safety rule or regulation of a federal,
+state or local agency.
+ (5) Shall empty containers with garbage at least once
+every seven (7) days, or once every fourteen (14)
+days if included in the collector's franchise;
+excepting as in Subsection (4) of this Section or
+where an act of God prevents such collection.
+ (6) Shall maintain a bill paying station within the
+County or a city therein, provide a telephone
+service or answering service so that the business
+may be reached by the public on weekdays,
+excepting holidays during the period from 8:00
+a.m. to 5:00 p.m.
+ (7) Shall, unless exempted, load and use a vehicle for
+collection in a manner that will prevent any
+escape of waste or solid waste while in transit.
+ (8) Shall respond to a request for service in the
+service area within a reasonable time and shall
+charge uniformly in the service area.
+ (9) Shall agree in the franchise to transport all
+collected waste and solid waste to a site, not the
+usual designated disposal site, upon order of the
+Board of Commissioners when:
+  (a) Necessary to comply with rules, regulations,
+or an order of a federal or state
+administrative agency;
+  (b) Necessary to comply with an order from a
+court of competent jurisdiction;
+  (c) The Board determines that the usual
+designated disposal site is not suitable or
+lacks sufficient capacity or other resources
+to process the type or quantity of waste
+generated by a significant construction,
+deconstruction, remediation, or other
+project. The order shall specify such terms
+and conditions of transport and disposal,
+including applicable franchise or other fees,
+as the Board finds reasonably necessary to
+protect the public health, safety, and
+welfare; or
+  (d) An emergency condition declared by the Board
+with all members present concurring where the
+emergency is the result of:
+   (A) Closure of the disposal site by order of
+the County Health Officer or other
+local, state or federal official having
+power to close the site to all users; or
+   (B) Damage to the site caused by man-made or
+
+ARTICLE VII - Page 30
+natural action resulting in closure to
+all users. [15-03-001L]
+
+SECTION 07.01.360  SPECIFIC REGULATIONS TO DISPOSAL
+     FRANCHISEES
+
+The holder of a disposal franchise:
+ (1) Shall not voluntarily discontinue service without
+giving at least ninety (90) days written notice of
+the proposed discontinuance of service to the
+Board and to any franchisee using the disposal
+site and further receiving the written approval of
+the Board prior to discontinuing said service.
+This paragraph shall not apply to any order for
+closure or restriction of use by any public
+agency, public body or court having jurisdiction.
+ (2) May contract with another person to operate the
+disposal site after giving written notice to and
+obtaining the written approval of the Board or its
+designee.  The Board shall approve the contract
+unless it finds that the quality or extent of
+service would be jeopardized.  In making its
+determination, the Board shall consult the Coos
+County Health Department.
+ (3) May refuse disposal service to any customer if the
+customer refuses to pay for the service.  A
+franchisee who has discontinued service for
+refusal of a customer to pay for such service may
+demand that the customer provide a reasonable
+deposit or advance payment to guarantee payment
+for future service prior to reinstating such
+service.
+ (4) Shall agree to terminate or suspend the franchise
+without penalty or cost to the County or any other
+person should the rules or regulations of a
+federal or state administrative agency or court of
+competent jurisdiction order the County or the
+franchisee to cease operation temporarily or
+permanently.
+
+SECTION 07.01.370  INSPECTION FOR COMPLIANCE
+
+The facilities of the franchisee shall be available for
+inspection by the County or its designee at reasonable times
+to determine whether the franchisee has complied and is
+complying with the provisions of this Division.
+
+SECTION 07.01.380  SUSPENSION, MODIFICATION,
+REVOCATION OR REFUSAL TO RENEW A
+FRANCHISE
+
+ (1) A franchise issued pursuant to this Division shall
+
+ARTICLE VII - Page 31
+be subject to suspension, modification, revocation
+or refusal to renew by the Board in accordance
+with the procedures contained herein for any of
+the following reasons:
+  (a) Violation of any or all terms and conditions
+of this Division or any applicable local,
+state or federal laws or regulations;
+  (b) Materially misrepresenting facts or
+information given in the application for the
+franchise; or
+  (c) Willfully refusing to provide adequate
+service as required by this Division.
+ (2) Except in cases where the Board, and all of its
+members present, deems an emergency to exist
+requiring an immediate suspension, modification,
+revocation or refusal to renew a franchise, the
+Board shall provide franchisee with thirty (30)
+days written notice of an alleged violation of the
+terms and conditions of this Division.  The
+franchisee will have this thirty (30) day period
+to correct the identified violation to the
+satisfaction of the Board.
+ (3) If the franchisee, after notice and opportunity to
+comply, does not correct the identified violation,
+the Board may, upon recommendation of the Advisory
+Committee or upon its own motion, initiate
+proceedings to suspend, modify, revoke or refuse
+to renew the franchise.
+ (4) To initiate proceedings, the Board shall:
+  (a) File the charges which are the basis for such
+action with the County Clerk setting forth
+with reasonable certainty the nature of such
+charges against the franchisee;
+  (b) Fix a time and place for hearing the charges;
+and
+  (c) Serve upon the franchisee and all other known
+interested parties, a copy of the charges as
+filed together with notice of time and place
+of the hearing at least ten (10) days prior
+to the date fixed for the hearing.
+ (5) In the case of immediate suspension, modification,
+revocation or refusal to renew, the Board shall:
+  (a) File with the County Clerk its order,
+including a statement of the charges set
+forth with reasonable certainty;
+  (b) Fix a time and place for a public hearing
+thereon within thirty (30) days of the date
+of the order; and
+  (c) Serve upon the franchisee and all other known
+interested parties a copy of the order as
+filed with notice of time and place of the
+hearing at least ten (10) days prior to the
+date fixed for hearing.
+  The Board may, following the hearing, affirm,
+amend or rescind its prior order and shall do so
+
+ARTICLE VII - Page 32
+within thirty (30) days of the public hearing.
+ (6) At any hearing authorized by this section, the
+franchisee shall have the right to appear and to
+defend against the charges and, if the franchisee
+so desires, to be represented by counsel.  The
+franchisee and other interested persons or
+affected public agencies or public bodies may
+submit oral or written evidence to the Board
+relevant to the charges or an emergency order
+adopted by the Board.  Subject to writ or review
+proceedings, the determination of the Board be
+final.
+ (7) If, at the hearing, the Board suspends, modifies,
+revokes or refuses to renew the franchise permit,
+the action shall not become effective until thirty
+(30) days after the date of the order; except that
+where the Board finds, and all members present
+concur, there is a serious immediate danger to the
+public health, welfare and convenience, the order
+will be effective immediately.  In the case of a
+hearing on an order of the Board pursuant to
+Subsection (2) or (5) of this Section, the Board
+may affirm, rescind or amend its prior order and
+shall do so within thirty (30) days of the
+hearing.  The order shall be effective as of the
+date stated herein.
+ (8) In lieu of immediate suspension, modification,
+revocation or refusal to renew a franchise
+pursuant to Subsection (2) or (5) of this Section,
+the Board may order compliance and make the
+suspension, modification, revocation or refusal to
+renew contingent upon compliance with the order of
+the Board within the time period stated therein.
+No public hearing shall be set until the stated
+time period for correction of the alleged
+violation has elapsed.
+ (9) Any notice required by this section shall be
+served either by personal delivery to the affected
+franchisee or to some person of suitable age of
+discretion at the place of business of the
+franchisee; or, if no person can be found at any
+such place of business, then by leaving such
+notice of hearing in a conspicuous place on the
+business premises and mailing a copy thereof to
+the franchisee at the address set forth in the
+franchise application or to any other address
+known to the Board to be more probable to provide
+actual notice of the franchisee.
+
+SECTION 07.01.390  DISPOSAL OF WASTE AT COUNTY
+     FACILITIES
+
+ (1) The County may issue a franchise, pursuant to the
+terms of this Division and this section for the
+
+ARTICLE VII - Page 33
+operation of County disposal sites.  The Board may
+operate disposal sites and disposal site services.
+ (2) In addition to the rules of the Environmental
+Quality Commission (EQC) and the terms of this
+Division, the Board may adopt regulations relating
+to waste and solid waste disposal at County sites
+including regulations relating to the disposal of
+certain types of solid waste, commercial solid
+waste equipment standards, private solid waste
+equipment standards and fees for type and quantity
+of waste and solid waste deposited.  If necessary
+to meet an emergency, the regulations will become
+effective upon their adoption at a Board meeting
+called for such purpose provided that all members
+of the Board present concur in the declaration of
+the emergency.  Otherwise, such regulations shall
+be considered by the Board at a meeting, and
+notice of consideration and possible adoption of
+the regulations shall be given by mail to all
+franchisees affected by the proposed regulations
+at least twenty (20) days prior to the time the
+regulations are to be considered.  Additionally,
+the topic of the proposed regulations or a copy of
+the regulations, if prepared, will be posted on
+the bulletin board at the Coos County Courthouse
+in Coquille and the Coos County Annex in North
+Bend not less than ten (10) days prior to the
+meeting to consider the regulations.  Except in
+cases of emergency, any regulations so adopted
+shall be effective not less than ten (10) days
+after their adoption, and the resolution or order
+adopting the regulations shall state the effective
+date.  A copy of the regulations shall be posted
+at any affected disposal site not less than five
+(5) judicial days after adoption.  Removal of the
+regulations by vandalism or other cause shall not
+delay or invalidate the regulations.
+ (3) The operation by the County of a disposal site or
+service shall conform to the rules of the
+Environmental Quality Commission (EQC) and such
+orders or regulations as may be made by the Board
+that specifically relate to the County operated
+services and sites.
+
+SECTION 07.01.400  PROHIBITION - COUNTY DISPOSAL SITES
+
+ (1) Unless changed or modified by action of the Board
+pursuant to the procedures established in Section
+07.01.070 or by ordinance amendment, it shall be
+unlawful to deposit the following at any County
+disposal site:
+  (a) Explosives or explosive devices;
+  (b) Human waste, except disposable diapers, and
+including septic tank contents, travel
+
+ARTICLE VII - Page 34
+vehicle holding tanks and any container
+containing such waste;
+  (c) Animal manure;
+  (d) Burning materials including burning barrels
+that have not been extinguished;
+  (e) Any waste declared "hazardous waste" by the
+Environmental Quality Commission (EQC) except
+that such waste may be deposited at disposal
+sites designated by the Board to receive such
+waste pursuant to the regulations and rules
+of the Environmental Quality Commission (EQC)
+and after written permission for such dumping
+is given by the Board of Commissioners or its
+designee;
+  (f) Any waste or solid waste prohibited by rule
+or permit of the Environmental Quality
+Commission (EQC) or any other federal, state
+or local agency having the power to issue
+such rules or regulations, or any waste or
+solid waste prohibited by regulations of the
+Board;
+  (g) Tree trunks and stumps;
+  (h) Dead animals, except those delivered for
+disposal by the Coos County Animal Shelter;
+  (i) Any industrial waste prohibited by
+regulations adopted by the Board: or
+  (j) Fish waste or waste materials from fish
+processing.
+ (2) All persons utilizing a County disposal site for
+the disposal of solid waste shall separate and
+distribute the solid waste within the County
+disposal site as directed by the County attendant
+at the site.
+ (3) No person shall place any abandoned or wrecked
+automobile or any part thereof at any county
+disposal site except in areas and in a manner
+designated by the county for that purpose.
+
+ (4) No person shall dismantle at a county disposal
+site any wrecked or abandoned automobile or any
+part thereof except that the wheels of such
+vehicles may be removed following placement of the
+vehicle in the designated area, except the county
+may by contract authorize the dismantling of
+automobiles at county disposal sites.
+
+SECTION 07.01.410  INCONSISTENT ORDINANCES OR EXERCISE
+OF LEGISLATIVE POWER BY OTHER
+PUBLIC AGENCIES
+
+The franchisee shall agree, and it is a condition of each
+franchise, that Coos County is in no way responsible for the
+legislative or ordinance making power of other public
+agencies which may regulate, terminate or in any way prohibit
+
+ARTICLE VII - Page 35
+the franchise and that Coos County shall not be liable by an
+act condemning or taking property by any governmental body
+other than Coos County, or any interference with the
+franchise by any public agency other than Coos County.
+
+SECTION 07.01.420  CONFORMITY WITH THE LAW
+
+This Division shall in no way be a substitute for, nor
+eliminate in any way, the necessity for conformance with any
+and all laws or rules of the State of Oregon or its agencies,
+or the federal government or any of its agencies, nor any
+ordinances or rules or regulations of Coos County.
+SECTION 07.01.430  ABATEMENT
+
+ (1) (a) The accumulation, storage, collection,
+transportation or disposal of solid wastes or
+wastes by any person in violation of this
+Division or regulations promulgated hereunder
+is a nuisance and the Board through the
+County Counsel or District Attorney may, in
+addition to other remedies provided by law,
+institute injunction, mandamus, abatement or
+other appropriate legal proceedings to
+temporarily or permanently enjoin or abate
+such storage, accumulation, collection,
+transportation or disposal.
+  (b) The provisions of this section are in
+addition to and not in lieu of any criminal
+prosecution or penalties as provided by this
+Division and state law.
+ (2) To determine whether there is reasonable cause to
+believe that a public nuisance exists on private
+property outside the limits of any city, the
+Board, or whoever it designates, may conduct an
+investigation for that purpose.  In conducting
+such an investigation, the Board, or whoever it
+designates, may administer oaths, subpoena the
+production of relevant documents, and take the
+testimony of any person.
+ (3) Whenever it appears there is reasonable cause to
+believe a public nuisance exists, the Board may
+order that a notice be issued and served upon the
+owner, tenant, occupant or person in possession of
+the premises where the nuisance is alleged or
+claimed to exist, requiring such person to appear
+before the Board at the time and place stated in
+the notice to show cause why a nuisance should not
+be declared to be existing on the premises.
+ (4) At the time and place described in said notice,
+the Board shall conduct a public hearing on the
+question of the existence of the alleged nuisance,
+and if the Board finds that a nuisance exists, it
+shall declare the existence of a nuisance by order
+entered in its journal, and may order a suit to be
+
+ARTICLE VII - Page 36
+brought in the name of the County to institute
+injunction, abatement or any other proceeding
+provided by law to prevent temporarily or
+permanently the existence of the nuisance.
+
+SECTION 07.01.440  RESERVED
+
+SECTION 07.01.450  RESTRAINING ORDERS
+
+Except as otherwise specifically provided in this Division,
+and in addition to all other authority granted to and
+inherent in the Board, the Board is hereby authorized to make
+and issue temporary restraining orders enjoining the alleged
+violation of any of the terms of this Division or franchises
+or regulations issued pursuant thereto, which order shall be
+directed to the alleged violator to immediately cease and
+desist from any act or acts described in said order until the
+Board determines whether or not a violation has occurred.
+Before issuing a temporary restraining order, the Board must
+have reasonable grounds to believe that the violation has
+occurred.  In no event shall the Board make or issue such an
+order without having first received a written complaint
+containing allegations of a violation of this Division.  The
+complaint shall specify the alleged violation in short and
+concise language sufficient to appraise the alleged violator
+of the act or acts to be enjoined.  The order shall direct
+the alleged violator to appear at a time and place stated in
+said order and show cause, if any there be, why the alleged
+violator should not be immediately enjoined from doing the
+act or acts specified in the order.  If the Board determines
+that the alleged violator has committed a violation of this
+Division, the Board may make and enter an order permanently
+enjoining further violations.
+
+ARTICLE VII - Page 37
+DIVISION TWO - PROTECTED RESOURCE ACTIVITY
+   [Adopted as Division Two of Article Seven on
+April 21, 1993]
+
+SECTION 07.02.010  SHORT TITLE
+
+This Division shall be known as "Protected Resource Activity
+Ordinance" and shall be so cited and pled.
+
+SECTION 07.02.020  PURPOSE
+
+It is the purpose of this Division to protect resource based
+industries of this county in order to ensure continued
+prosperity, health and safety in the county.  Continued
+urbanization gives rise to conflicts between resource
+activities and nonresource uses because resource activities
+often offend, annoy, interfere with or otherwise affect
+nonresource uses located on resource lands or near resource
+users.  This county has concluded that persons who locate in
+a resource area, along a resource area access, or near an
+existing resource use must accept the conditions commonly
+associated with living in that particular setting.  This
+Division is intended to protect, preserve and provide for the
+continuance of resource activities in the county.  Sections
+07.02.040 and 07.02.050 of this Division are intended to
+limit or restrict the availability of findings of nuisance
+and trespass, and complaint procedures, rights of action and
+claims for relief over which this county has jurisdiction
+where they would otherwise either have an adverse impact on
+resource activities which this county seeks to protect or
+they would limit full utilization of the resource base within
+the county.
+
+SECTION 07.02.030  DEFINITIONS
+
+ (1) "Facility" means any personal property or real
+property, including any appurtenances thereto and
+any fixtures thereon, associated with a given use
+or activity.
+ (2) "Farming practice" means cultivating, growing,
+harvesting, processing, or selling plants or
+animals of any kind, which may be lawfully grown,
+possessed or sold including, but not limited to,
+fish, poultry, grapes, Christmas trees, livestock,
+cranberries, dairy products and nursery stock.
+ (3) "Forest practice" has the meaning given the term
+in ORS 527.620.
+ (4) "Nonresource use" means any facility, activity or
+land use that is not a resource activity
+including, but not limited to, any residential use
+or dwelling.
+
+ARTICLE VII - Page 38
+ (5) "Protected resource activity" means any current or
+future generally accepted aggregate mining,
+farming, ranching or forest practice or facility
+that is conducted in compliance with applicable
+county land use ordinances and:
+  (a) Is conducted in compliance with applicable
+federal or state rules and regulations; or
+  (b) Is reasonably expected to occur or exist in a
+truly rural setting and is important to past,
+present or future operation of an aggregate
+mining activity, farming practice or forest
+practice that is conducted to obtain
+financial benefit.
+ (6) "Generally accepted" practices may need to be
+clarified.  The Coos County Commissioners may, as
+it deems necessary, establish resource user peer
+review boards consisting of five (5) persons who
+reguarly are involved in a resource use within the
+County, three of whom regularly are involved in
+the same type of resource use in question, to
+advise the County as to generally accepted
+practices or facilities with respect to that use.
+ (7) The term "protected resource activity" does not
+include:
+  (a) The growing of infested, infected or diseased
+crops, poultry or livestock.
+  (b) The physical condition of facilities that
+endanger public health or safety.
+  (c) A trespass that involves an actual physical
+invasion of the property of another by a
+person or by the person's animals.
+ (8) In order to be a "protected resource activity", an
+aggregate mining activity must be conducted
+pursuant to a program to implement Goal 5.
+
+SECTION 07.02.040  PROTECTION OUTSIDE URBAN GROWTH
+     BOUNDARY
+
+ (1) No protected resource activity occurring outside
+an urban growth boundary shall be declared to be a
+public or private nuisance or trespass or give
+rise to any county complaint procedure, right of
+action or claim for relief in favor of or to
+protect the interests of nonresource uses or any
+persons or property associated therewith.
+ (2) This section applies regardless of the location of
+the nonresource use.
+ (3) This section applies regardless of whether the
+nonresource use existed prior to the occurrence of
+the protected resource activity.
+ (4) This section applies regardless of whether the
+protected resource activity or the nonresource use
+has undergone any change or interruption.
+
+ARTICLE VII - Page 39
+SECTION 07.02.050  PROTECTION INSIDE URBAN GROWTH
+     BOUNDARY
+
+ (1) No protected resource activity occurring inside an
+urban growth boundary shall be declared or held to
+be a public or private nuisance or trespass or
+give rise to any county complaint procedure, right
+of action or claim for relief in favor of or to
+protect the interests of nonresource uses or any
+persons or property associated therewith.
+ (2) This section applies regardless of the location of
+the nonresource use.
+ (3) This section applies only where the protected
+resource activity in question predated the
+conflicting nonresource use.
+ (4) This section applies only where the protected
+resource activity in question has not
+significantly increased in size or intensity from
+the effective date of this Division or the date on
+which the applicable urban growth boundary is
+changed to include the subject protected resource
+activity within its limits, whichever is later.
+
+SECTION 07.02.060  CHANGE IN URBAN GROWTH BOUNDARY
+
+If an urban growth boundary is changed in such a way as to
+place the protected resource activity either inside or
+outside its limits, then Section 07.02.040 of this Division
+applies to any conflict between the protected resource
+activity and nonresource uses.
+
+SECTION 07.02.070  LAND USE DECISIONS
+
+The fact that this County's comprehensive plan, zoning
+ordinances or land use decisions allow the siting,
+development or support of any particular use does not in any
+way affect the provisions or the protection afforded a given
+protected resource activity under this Division.
+
+ARTICLE VII - Page 40
+DIVISION THREE - JEFFERSON BEHAVIORAL HEALTH
+     [Adopted as Division Three of Article VII
+          on May 28, 1997]
+
+SECTION 07.03.010  RATIFICATION OF FORMATION
+
+The Coos County Board of Commissioners hereby ratifies the
+formation of an intergovernmental entity pursuant to the
+terms of ORS Chapter 190.  The newly formed entity is to be
+called Jefferson Behavioral Health.  It is the intention of
+the Coos County Board of Commissioners to enter into an
+intergovernmental agreement with Curry, Douglas, Jackson,
+Josephine and Klamath Counties which will provide for the
+formation of the Jefferson Behavioral Health and set out the
+duties, powers, and functions of the entity.
+
+SECTION 07.03.020  EFFECTIVE DATE
+
+The effective date of the intergovernmental agreement for
+formation of Jefferson Behavioral Health is June 15, 1997.
+
+SECTION 07.03.030  PUBLIC PURPOSE
+
+The public purposes for which the intergovernmental entity is
+formed are as follows:
+ (1) To create an intergovernmental entity that will
+administer and provide mental health services on
+behalf of the parties to the agreement.
+ (2) To provide and promote accessibility to mental
+health benefits and continuity of care for all
+consumers through comprehensive community mental
+health programs.
+ (3) To preserve the integrity of community mental
+health programs while obtaining the economic
+benefits of cooperation among counties, the Mental
+Health and Developmental Disabilities Services
+Division of the Oregon Department of Human
+Resources ("Division"), and the Office of Medical
+Assistance Programs of the Oregon Department of
+Human Resources ("OMAP").
+ (4) To connect the Oregon Health Plan and community
+mental health programs in a manner that gives full
+force and effect to ORS 414.705 to 414.750 and ORS
+430.610 to 430.685.
+ (5) To administer regional Medicaid funds in ways that
+preserve and enhance local management and
+operation of community mental programs.
+ (6) To coordinate and integrate mental health services
+with physical health care services in the Service
+Area which is defined as the geographical area of
+the participating counties.
+
+ARTICLE VII - Page 41
+ (7) To promote accountability, continuity, and
+efficiency in the use, allocation, and investment
+of public funds for mental health services.
+ (8) To provide a regional management information
+system for planning and developing mental health
+services in the Service Area.
+ (9) To promote the involvement of county
+commissioners, local mental health advisory
+committees, consumers, and advocates in
+development and delivery of mental health
+services.
+
+SECTION 07.03.040  POWERS, DUTIES, AND FUNCTIONS
+
+Jefferson Behavioral Health shall have as its function the
+duty and power to do the following things:
+ (1) The provision and administration of mental health
+services together with ancillary services,
+including labor, goods personal services, and
+incidentals ("Services") within the Service Area.
+ Each party to the intergovernmental agreement
+forming Jefferson Behavioral Health, reserves
+exclusive control over these Services provided by
+its community health program within its county
+boundary other than Oregon Health Plan Services.
+However, Jefferson Behavioral Health may provide
+such Services pursuant to an agreement with a
+particular party.
+ (2) The power to enter into and administer the Oregon
+Health Plan Service Agreement, other contracts and
+subcontracts for Services, and employment
+contracts.
+ (3) Performance of any functions and activities that
+any party to the intergovernmental agreement
+forming Jefferson Behavioral Health has the
+authority to perform with respect to the provision
+for Services.
+ (4) Performance of all lawful acts that are necessary
+to fulfill the purposes set out above.
+
+ARTICLE VII - Page 42
+DIVISION FOUR - PUBLIC HEALTH INSPECTIONS; DELEGATION FROM
+   THE STATE HEALTH DIVISION [Adopted as Division
+   Four of Article VII on August 28, 1997]
+
+SECTION 07.04.010  RULES OF PROCEDURE
+
+The Rules of Procedure provided in the Administrative
+Procedures Act, ORS Ch. 183, are hereby adopted and approved
+for use in all hearings pursuant to the following Delegations
+of Authority, Responsibilities and Functions by the State
+Health Division.
+
+SECTION 07.04.020  TOURIST FACILITIES
+
+Coos County hereby adopts ORS Ch. 446, together with
+subsequent amendments, as it relates to the delegation of
+responsibilities of the Assistant Director for Health
+regarding Tourist Facilities, pursuant to ORS 446.425.
+
+SECTION 07.04.030  SWIMMING POOLS AND SPAS
+
+Coos County hereby adopts ORS Ch. 448, together with
+subsequent amendments, as it relates to the delegation of
+responsibilities of the Assistant Director for Health
+regarding Swimming Facilities, pursuant to ORS 448.100 with
+the exception of plan review duties for swimming pools and
+spas.
+
+SECTION 07.04.040  FOOD SERVICE FACILITIES
+
+Coos County hereby adopts ORS Ch. 624, together with
+subsequent amendments, as it relates to the delegation of
+responsibilities of the Assistant Director for Health
+regarding Restaurants and Bed & Breakfast Facilities,
+pursuant to ORS 624.510.
+
+SECTION 07.04.050  OREGON ADMINISTRATIVE RULES
+
+Coos County hereby adopts OAR 333-12-050, 333-12-055, 333-12-
+060, 333-12-065, together with subsequent amendments, as it
+relates to the delegation of responsibilities of the
+Assistant Director for Health as described in this division.
+
+SECTION 07.04.060  EFFECTIVE DATE OF DELEGATION
+
+The delegation of duties as described in this division shall
+be effective on the date as mutually agreed by the State and
+County or such other date as determined by the Coos County
+Board of Commissioners.
+
+ARTICLE VII - Page 43
+
+SECTION 07.04.070  ENFORCEMENT
+
+Any state laws or administrative rules and any county
+ordinance or county rules relating to public health
+inspections and the delegation of authority to Coos County,
+including but not limited to this division and any rules
+adopted by the County pursuant to this division, shall be
+enforceable through the provisions of Article Eleven,
+Division One of the Coos County Code and/or by any applicable
+enforcement provisions provided by state law or
+administrative rule.
+
+ARTICLE VII - Page 44
+DIVISION FIVE – ABATEMENT OF DANGEROUS BUILDINGS
+     [Adopted as Division Five of Article
+     Seven on July 26, 2004]
+
+SECTION 07.05.010   PURPOSE
+
+The purpose of this Division is to provide for the abatement
+of dangerous buildings, as defined herein, and will herein
+be referred to as “this Division”.
+
+SECTION 07.05.020  FINDINGS
+
+The Board of Commissioners finds that:
+(1) This Division will provide a just, equitable and
+practicable method whereby buildings or
+structures, as defined herein, endanger the life,
+limb, health, property, safety or welfare of the
+general public, or their occupants, may be
+required to be repaired, secured, vacated, or
+demolished.
+ (2)  The purpose of this Division is not to create or
+ otherwise establish or designate any particular
+class or group of persons who will or should be
+especially protected or benefited.
+(3) Coos County can only provide such assistance
+   with such an ordinance in place.
+(4) This Division would promote the public health,
+safety and welfare in Coos County, and is a matter
+of local concern.
+(5)  The provisions of this Division shall apply to all
+dangerous buildings, as herein defined, which are
+now in existence or which may hereafter become
+dangerous in this jurisdiction.
+
+SECTION 07.05.030  AUTHORITY OF COUNTY
+
+This Division is adopted under the authority granted to
+counties under ORS 203.035, which provides that a county may
+exercise authority within the county over matters of county
+concern to the fullest extent allowed by Constitutions and
+laws of the United States and this state, as fully as if each
+particular power comprised in that general authority were
+specifically listed in ORS 203.030 to 203.075.
+
+SECTION 07.05.040  DEFINITIONS
+
+For the purpose of this Division, certain terms, phrases,
+words, and their derivatives shall be construed as specified
+in either this Section or as specified in the Building Code,
+or the Housing Code.  Where terms are not defined, they
+shall have their ordinary accepted meanings within the
+context with which they are used.  Webster’s Third New
+International Dictionary of the English Language,
+unabridged, shall be construed as providing ordinary
+acceptable meanings.  Words used in the masculine gender
+
+ARTICLE VII - Page 45
+include the feminine.
+(1) “Authorized Representative” shall include health
+officer, fire marshal, any state building
+inspectors, the building official and their
+authorized inspection personnel.
+(2) “Building Official” means the person designated by
+the County Board of Commissioners under Coos
+County Code Section 11.01.100 to enforce this
+Division.
+(3)  “Building Code” means the Building Code adopted by
+the State of Oregon under ORS Chapter 455.
+(4) “Dangerous Building” means a building or structure
+as defined in Section 07.05.060 of this Division.
+A building or structure used for or accessory to a
+protected resource activity is not a “dangerous
+building” for purposes of this Division.
+(5) “Housing Code” means the Housing Code adopted by
+the State of Oregon in ORS Chapter 455.
+(6) “Protected Resource Activity” means a generally
+accepted aggregate mining, farming, ranching or
+forest practice or facility that is conducted in
+compliance with applicable county land use
+ordinances and Division Two, Article Seven of the
+Coos County Code.
+
+SECTION 07.05.050  APPLICATION
+
+The building official is authorized to enforce the
+provisions of this Division. All buildings or structures,
+which are required to be repaired under the provisions of
+this Division shall be subject to the Oregon State Building
+Code under ORS Chapter 455. The building official shall have
+the power to render interpretations of this Division in
+order to clarify the application of its provisions.  Such
+interpretations shall be in conformity with the intent and
+purpose of this Division. This Division shall not apply to a
+building or structure used for, or accessory to, a protected
+resource activity.
+(1) The building official or authorized representative
+may make such inspections and take such actions as
+may be required to enforce the provisions of this
+Division.
+(2) When it is necessary to make an inspection to
+enforce the provisions of this Division, or when
+the building official or the building official’s
+authorized representative has reason to believe
+that there exists in a building or upon a premises
+a condition which is contrary to or in violation
+of this Division which makes the building or
+premises unsafe, dangerous or hazardous, the
+building official or representative may enter the
+building or premises at reasonable times to
+inspect or to perform the duties imposed by this
+Division, provided that if such building or
+premises is occupied that credentials be presented
+
+ARTICLE VII - Page 46
+to the occupant and entry requested.  If such
+building or premises is unoccupied, the building
+official or representative shall first make a
+reasonable effort to locate the owner or other
+person having charge or control of the building or
+premises and request entry. If entry is refused,
+the building official or representative shall have
+recourse to the remedies provided by Oregon Law to
+secure entry.
+(3)  All buildings or portions thereof which are
+determined after inspection by the building
+official or authorized representative to be
+dangerous as defined in this Division are hereby
+declared to be public nuisances and shall be
+abated by repair, rehabilitation, demolition or
+removal in accordance with the procedures
+specified in Section 07.05.090 of this Division,
+and through the provisions of Article Eleven,
+Division One of the Coos County Code.
+(4) It shall be unlawful for any person, firm or
+corporation to erect, construct, enlarge, alter,
+repair, move, improve, remove, convert or
+demolish, equip, use, occupy, or maintain any
+building or structure or cause or permit the same
+to be done in violation of this Division.
+(5) All buildings or structures within the scope of
+this Division and all construction or work for
+which a permit is required shall be subject to all
+inspections, rules and regulations of the State
+Building Code under ORS Chapter 455.
+(6) All enforcement and appeals shall be processed in
+the manner prescribed under this Division and
+through Article Eleven, Division One of the Coos
+County Code.
+
+SECTION 07.05.060       DANGEROUS BUILDING OR STRUCTURE
+
+A building or structure defined in this Division may be
+declared to be dangerous under the following conditions:
+ (1) The building or structure, or any portion thereof,
+has been so damaged by fire as to become:
+(a)  An attractive nuisance to children;
+(b)  A harbor for vagrants, or criminals; or
+(c)  Is a place where a person or persons may
+resort thereto for the purpose of
+committing unlawful acts.
+(2) Whenever any portion of a building or structure
+remains on site after the demolition or
+destruction of the building or structure as to
+constitute such building or portion thereof an
+attractive nuisance to children or hazard to the
+public.
+
+ARTICLE VII - Page 47
+SECTION 07.05.070  ENFORCEMENT
+
+A building declared to be dangerous constitutes a public
+nuisance subject to abatement standards and procedures under
+this Division, and is a violation of law enforceable under
+the provisions of Article Eleven, Division One of the Coos
+County Code.
+
+SECTION 07.05.080     NOTICES AND ORDERS
+
+The building official shall issue a notice and order to the
+record owner of the building.  The notice shall be served
+personally or mailed by certified mail, postage prepaid,
+return receipt requested, to each such person at their
+address as it appears on the last equalized assessment roll
+of the county or as know to the building official, and
+posted on the property.  If no address of any such person so
+appears or is known to the building official, then a copy of
+the notice and order shall be so mailed, addressed to such
+person, at the address of the building involved in the
+proceedings. The failure of any such person to receive such
+notice shall not affect the validity of any enforcement
+proceedings taken under this Division.
+
+Proof of service of the notice and order shall be certified
+to at the time of service by a written declaration under
+penalty of perjury executed by the persons effecting
+service, declaring the time, date and manner in which
+service was made.  This declaration, together with any
+receipt card returned in acknowledgment of receipt by
+certified mail shall be affixed to the copy of the notice
+and order retained by the building official.
+
+The notice and order shall contain:
+(1) The street address and a legal description
+sufficient for identification of the premises upon
+which the building is located.
+(2) A statement that the building official has
+found the building to be dangerous with a brief
+description of the condition found to render the
+building dangerous under the provisions of this
+Division.
+(3)  A statement of the action required to be taken
+as determined by the building official.
+(4) A statement advising that if any required
+repair or demolition work (without removal also
+being required) is not completed within the time
+frame specified, the building official will seek
+enforcement as outlined in this Division and
+Article Eleven, Division One, of the Coos County
+Code.
+
+SECTION 07.05.090        ABATEMENT
+
+The following standards shall be followed by the building
+
+ARTICLE VII - Page 48
+official in ordering repair, removal, or demolition of a
+building or structure declared to be dangerous under this
+Division:
+(1) Any building declared a dangerous building under
+this Division shall be made to comply with one of
+the following:
+(a) The building shall be repaired in accordance
+with the current building code or other
+current code applicable to the type of
+substandard conditions requiring repair; or
+(b) The building shall be demolished at the
+option of the building owner; or
+(c) If the building does not constitute an
+immediate danger to the life, limb, property
+or safety of the public it may be vacated,
+secured and maintained against entry.
+(2) If the building or structure is in such condition
+as to make it immediately dangerous to the life
+limb, property or safety of the public, or its
+occupants, it shall be ordered to be vacated.
+
+SECTION 07.05.100       NOTICE TO VACATE
+
+Posting: Every notice to vacate shall in addition to being
+served notice under Section 07.05.080 of this Division shall
+be posted at or upon each exit of the building and shall be
+in substantially the following form:
+
+DO NOT ENTER        UNSAFE TO OCCUPY
+It is a misdemeanor to occupy this building, or to remove or
+deface this notice.
+
+Building Official of COOS COUNTY.
+Compliance: Whenever such notice is posted no
+person shall remain in or enter any building, except that
+entry may be made to repair, demolish or remove such
+building under permit.  No person shall remove or deface any
+such notice after it is posted until the required repairs,
+demolition or removal has been completed.
+
+ARTICLE VII - Page 49
+DIVISION SIX - LICENSING, INSPECTION AND ENFORCEMENT OF
+TOURIST FACILITIES
+  [Adopted as Division Six of Article Seven on
+          January 9, 2007]
+
+SECTION 07.06.010  PURPOSE
+
+The purpose of this division is to provide the regulatory
+framework for Coos County to implement the delegation of
+authority, responsibilities, and functions from the State of
+Oregon to Coos County for the licensing, inspection, and
+enforcement of tourist facilities within Coos County in
+accordance with OAR Ch. 333, Div. 12.
+
+SECTION 07.06.020  ENFORCEMENT
+
+(1) Unless otherwise stated, the authority of the
+County to enforce any provision under this
+division by citation for violation of County
+ordinance, shall be in addition to and not in lieu
+of, all other civil and criminal enforcement
+authority delegated to the County by law.
+(2) Pursuant to ORS 153.008(1)(c), the offense of any
+of the provisions of Section 07.06.040 shall
+constitute a Violation as set forth in Section
+07.06.050, and shall be enforceable by citation in
+accordance with Coos County Code Article Eleven,
+Division One.
+
+SECTION 07.06.030  DEFINITIONS
+
+(1) As used in this division, unless the context
+requires otherwise, all terms shall have the
+meanings set forth in ORS 446.310, OAR 333-012-
+0050(2), OAR 333-029-0015, OAR 333-030-0015, and
+OAR 333-031-0002, and as subsequently amended.
+(2) “Administrator” means the Public Health
+Administrator for the Coos County Health
+Department, or that person’s designee(s).
+(3) “Enforcement Officer” shall have the meaning set
+forth in ORS 153.005, and as subsequently amended.
+
+SECTION 07.06.040  CONDUCT RELATING TO TOURIST
+FACILITIES
+
+(1) Except as provided in ORS 446.325, no person shall
+establish, operate, manage or maintain a tourist
+facility within Coos County, without a license
+from the County.
+(2) No person shall construct, operate, use, manage,
+or maintain a tourist facility within Coos County
+in a manner that does not comply with the rules
+adopted by the Department of Human Services for
+the administration of ORS 446.310 to 446.350 and
+446.990.
+
+ARTICLE VII - Page 50
+
+(3) A person operating a tourist facility shall permit
+the Administrator and any Enforcement Officer
+access to all of the facility at any reasonable
+time for the purposes of conducting an inspection
+to determine whether the facility conforms with
+this Division, ORS 446.310 to 446.350, and the
+rules adopted pursuant thereto.
+(4) The owner or operator of a recreation park or
+organizational camp that does not provide for the
+safe disposal of sewage or other wastes shall post
+a notice in a conspicuous place stating that
+camping vehicles are permitted overnight only if
+the vehicle's waste holding tanks are used.
+(5) No person shall use kitchen or toilet facilities
+in a camping vehicle being operated on a highway
+or County Road, or parked overnight at a place
+where sanitary facilities are not provided unless
+the person makes provision whereby sewage and
+other waste materials can be held in watertight
+and sanitary containers of a type approved by the
+Department of Human Services.
+(6) No person shall empty a container described in
+subsection (5) of this Section except into a
+public sewerage system, or other conveyance
+approved by the Department of Human Services.
+(7) Except as specified under (4) of this Section,
+camping shall not be permitted at a tourist
+facility without toilet facilities approved by the
+Department of Human Services.
+(8) No person shall, when using a recreation park or
+organizational camp, create an unsanitary
+condition or deposit putrescible or nonputrescible
+waste any place other than in appropriate
+containers designated for such purposes.
+
+SECTION 07.06.050  PENALTIES
+
+(1) Offense of the following Sections of this
+ordinance shall constitute a Class A Violation:
+  (a) Sections 07.06.040(6), (7), and (8).
+(b) Section 07.06.040(2) as to compliance with
+any part of OARs 333-029-0075, 333-029-0076,
+333-029-0080, 333-029-0095, 333-029-0100,
+333-030-0080, 333-030-0090, 333-030-0100,
+333-030-0105, 333-030-0120, 333-030-0125,
+333-031-0004, 333-031-0005, 333-031-0006 and
+333-031-0110, and as subsequently amended.
+(2) Offense of the following Sections of this
+ordinance shall constitute a Class B Violation:
+(a) Sections 07.06.040(3) and (5).
+(b) Section 07.06.040(2) as to compliance with
+any part of OARs 333-029-0025, 333-029-0030,
+333-029-0050, 333-029-0060, 333-029-0065,
+333-029-0105, 333-029-0110, 333-030-0040,
+
+ARTICLE VII - Page 51
+333-030-0045,  333-030-0055,  333-030-0065,
+333-030-0070, 333-030-0085, 333-030-0095,
+333-030-0110, 333-030-0115, 333-031-0007,
+333-031-0008, 333-031-0012, 333-031-0018,
+333-031-0059, and 333-031-0066, and as
+subsequently amended.
+(3) Offense of the following Sections of this
+ordinance shall constitute a Class C Violation:
+(a) Sections 07.06.040(1) and (4).
+(b) Section 07.06.040(2) as to compliance with
+any part of OARs 333-029-0020, 333-029-0035,
+333-029-0040, 333-029-0045, 333-029-0070,
+333-029-0090, 333-030-0020, 333-030-0025,
+333-030-0035, 333-030-0050, 333-030-0060,
+333-030-0075, 333-031-0014, 333-031-0020,
+333-031-0060, 333-031-0062, 333-031-0064 and
+333-031-0068, and as subsequently amended.
+
+ARTICLE VII - Page 52
+DIVISION SEVEN - IMPLEMENTATION OF CITY OF BANDON MUNICIPAL
+CODE SECTION 8.08.150 WITHIN THE CITY OF BANDON URBAN GROWTH
+BOUNDARY [Adopted as Division Seven of Article Seven on
+February 1, 2021]
+
+SECTION 07.07.010 PURPOSE
+The purpose of this Division is to adopt Section 8.08.150 of
+the City of Bandon Municipal Code (BMC) within the City of
+Bandon’s urban growth boundary (Bandon UGB), and delegate
+enforcement and administration authority to the City of
+Bandon. The City of Bandon and the County share an interest
+in the heightened enforcement of Bandon’s noxious vegetation
+rules within the Bandon UGB.
+
+SECTION 07.07.020 ADOPTION OF MC 8.08.150
+County hereby adopts BMC 8.08.150, attached as Exhibit 1, as
+a material part of this Division, and applies its provisions
+to all areas within the Bandon UGB. A map of the current
+Bandon UGB is attached as Exhibit 2. Changes in the
+boundaries of the Bandon UGB shall not require modifications
+of this Division or Ordinance 20-10-008L. This Division
+shall apply at all times within the entirety of the Bandon
+UGB as configured at any given time.
+
+SECTION 07.07.030 DELEGATION OF AUTHORITY
+County transfers all authority needed to implement and
+enforce this Division to properties located within the
+Bandon UGB. The City of Bandon shall administer the
+enforcement of this Division within the Bandon UGB in the
+same manner as it does for properties located within the
+Bandon city limits. All terms contained in BMC 8.08.150, as
+attached, to the extent that they are ambiguous or require
+further definition, shall be interpreted by reference to the
+BMC.
+
+SECTION 07.07.040. LIMITATION ON COUNTY RESPONSIBILITY
+The County does not retain any obligation or responsibility
+of implementing or enforcing BMC 8.08.150 within Bandon’s
+urban growth boundary.
+
+ARTICLE VII - Page 53
+
+ARTICLE VII - Page 54

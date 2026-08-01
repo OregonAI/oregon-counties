@@ -1,0 +1,383 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-60-businesses-generally
+title: 'Chapter-60-Businesses-Generally'
+doc_type: ordinance
+citation: 'Chapter-60-Businesses-Generally'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3230/Chapter-60-Businesses-Generally
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ba1697bf0144adee75740abe7765d8dcc5f2f91d9d719c88deaa24de35c2d09d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.035
+    - ORS 203.065
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-60-Businesses-Generally (Chapter-60-Businesses-Generally)
+
+## At a glance
+
+Chapter-60-Businesses-Generally — code of Polk County. 7 pages.
+
+## Full text
+
+60-1
+ CHAPTER 60      1995
+
+ BUSINESS GENERALLY
+
+ 60.100  PURPOSE.
+
+ Junk and second-hand dealers may knowingly or  unknowingly be a conduit for the sale or
+purchase of stolen property. ORS 203.035 authorizes the regulation of junk and second-hand dealers
+by the County. The purpose of Chapter 60 is to provide for the peace, health, and safety of citizens
+of the County by among other things, regulating junk and second-hand dealers.
+
+ 60.110  DEFINITIONS.
+
+ As used in this chapter, unless the context requires otherwise:
+
+ (1) "Director" means the Director of the Community Development Department.
+
+ (2)  “Affected business” means an entertainment business, junk dealer, pawnbroker, and
+second-hand dealer, including any person renting or otherwise acquiring an area at an exposition for
+the purpose of engaging in entertainment, and any person dealing in junk or second-hand
+merchandise.
+
+ (3)  "Board" means the Board of Commissioners.
+
+ (4)  "Entertainment business" means any public  dance hall, circus, or traveling show or
+exhibition.
+
+ (5)  "Exposition" means any combination wher ein three or more individuals, firms, or
+corporations are gathered together for the purpose of engaging in the business of entertainment, the
+dealing in junk, or the dealing in second-hand merchandise.
+
+ (6)  "Licensed business” means any business licensed under this chapter.
+
+ (7)  "Public dance hall" means any building, r oom, hall, pavilion, tent or other place kept
+or maintained, or used for public dancing, or where anyone is given instruction in dancing for hire.
+
+ (8)  "Person" means any natural person, and any firm or corporation, including, but not
+limited to, persons renting or otherwise acquiring an area at an exposition or elsewhere for the
+purpose of providing entertainment, or dealing in junk, or dealing in second-hand merchandise.
+
+ (9) "Second hand dealer" or "Junk dealer" means any person engaged in the business of
+buying, trading, or otherwise acquiring or selling, trading, or otherwise disposing of used or second-
+hand goods and personal property items for the purpose of reselling any parts or portions of, or the
+salvageable materials from, such goods or items of personal property, or for the purpose of reselling
+such goods or items in the same condition as when  they were acquired, or after reconditioning or
+otherwise improving such goods or items, and any person engaged in a business which combines
+said purposes, except that second hand dealer or junk dealer shall not include:
+
+  (a) A person who conducts a single auc tion or sale on the premises where the
+goods have been stored or held by the owner of the goods;
+
+60-2
+
+  (b) A person engaged in the business of  selling at auction livestock, poultry, or
+other agricultural products, or any auction mart or auctioneer licensed by the
+State Board of Auctioneers;
+
+  (c)  Any business that is licensed by the State of Oregon as a Dealer or Wrecker
+of vehicles under the provisions of Chapter 481, Oregon Revised Statutes,
+and which business is conducted exclusively as such Dealer or Wrecker of
+vehicles.
+
+ (Licensing Procedures)
+
+ 60.210  LICENSE REQUIRED.
+
+ No person shall conduct or operate an affected business or advertise an affected business or
+advertise or otherwise hold out that he is conducting or operating an affected business in any area of
+the County outside the limits of an incorporated city, without first obtaining a license in the manner
+prescribed in this chapter. If any person conducts , operates, advertises, or holds out that he is
+conducting more than one kind of affected busine ss, licenses shall be obtained for each affected
+business.
+
+ 60.215  LICENSE APPLICATIONS.
+
+ Applications for all licenses required by this ch apter shall be made in writing to the Director.
+Each application shall state the name and address of the applicant, the license desired, the location to
+be used, if any, and a schedule of the days a nd hours during which the affected business will be
+conducted. Forms for all licenses and applications, therefore, shall be prepared and kept on file by
+the Director.
+
+ 60.220  SIGNATURE.
+ Each license issued shall bear the signature of the Director.
+ 60.225  INVESTIGATIONS.
+ Upon receipt of an application for a license, th e Director shall consult with the Sheriff and
+any other County officer deemed appropriate by th e Director. The Sheriff or other officer shall
+conduct such investigation as may be necessary to determine whether the applicant is able to comply
+with the terms of this chapter. Each officer charged with the duty of making an investigation shall
+make a report to the Director within ten days after receipt of the referral.
+
+ 60.230  REVIEWING APPLICATION.
+
+ In addition to the investigation required by Section 60.225, the Sheriff shall review the
+application and conduct whatever further investigation he deems necessary to determine whether the
+applicant has made adequate provision for:
+
+ (1) The safe and expeditious movement of  traffic going to and from the affected
+business, including provisions for parking, traffic control officers, lighting, and signs to eliminate
+unreasonable confusion, congestion, and hazard to traffic on the public highways; and
+
+60-3
+ (2) The orderly movement and accommodation of spectators and the control of
+disorderly persons or groups.
+
+ 60.235  ISSUANCE OR DENIAL.
+
+ (1) Upon submission of a completed application and payment of all required fees, the
+Director, in his discretion, may issue a 30-day temporary license.
+
+ (2) If it appears to the Director that the a pplicant has complied with this chapter and if no
+adverse reports from investigation officers have been received within ten days after referral to
+County officers, the Director shall issue the annual license.
+
+ (3) If the applicant has not complied with this  chapter, or if adverse reports have been
+received within the ten day period specified for investigations, the Director shall revoke the 30 day
+temporary license and shall refuse to issue the annual license. In such case, the Director shall send to
+the applicant a written notice of revocation/denial, together with reasons for same. The applicant,
+upon receipt of the written notice, is entitled to appeal to the Board. The Board shall proceed in the
+manner provided for appeals on franchise decisions under Sections 70.0706(5), (7) and (8), and
+70.0708.
+
+ 60.240  LICENSE FEES.
+
+ (1)  The license year for the purpose of fees  is the calendar year. All fees for licenses
+shall be paid in advance at the time application is made to the Director, except as provided by
+Section 60.430. Fees collected under this chapter are to be used to offset costs of administering this
+chapter and are non-refundable.
+
+ (2)  If the business activity of the affected  business is solely for charitable purposes, the
+license fee may be waived by the Director.
+
+ (3)  All license fees shall be prescribed by resolution of the Board.
+
+ 60.245  EXPIRATION OF LICENSES.
+
+ (1)  All annual licenses shall expire on the last day of the calendar year.
+
+ (2)  The Director shall mail to all annual license holders a statement of the time of
+expiration of the license held, and shall include in the mailing an application form for renewal of the
+license. The notice shall be mailed at least three weeks prior to the date of such expiration.
+
+ (3)  Failure to mail the notice or failure of  the licensee to receive the notice shall not
+excuse the licensee from obtaining a renewal of the license. Failure to send the notice or failure to
+receive the notice shall not be a defense in an action for operation without a license.
+
+ 60.250  LICENSE TRANSFER AND ASSIGNMENT.
+
+ Licenses are not transferable or assignable wit hout the approval of the Director. The Director
+shall process an application for transfer or assignment of a license in the same manner as provided in
+Section 60.225 for an application for a new license. If the Director determines that the application
+for transfer or assignment is not in compliance with this chapter, or if he has received adverse reports
+
+60-4
+from County officers, he shall refer the question to the Board, which shall deal with the matter in the
+same way as provided for the issuance of licenses in Section 60.235.
+
+ 60.255  CHANGE OF LOCATION.
+
+ The location of any licensed business may be changed if 10 days notice thereof is given to
+the Director, and the change of location is approved by the Board.
+
+ 60.260  LICENSE RENEWAL.
+
+ At any time 30 days or more before the end of  the calendar year, the Director may issue to a
+currently licensed business a license to continue to operate the same business during the succeeding
+year. Such renewal shall not be issued until all fees for the renewed license and identification
+certificates, if required of or requested by the licensed business, are paid.
+
+ 60.265  POSTING OF LICENSE.
+
+ A person conducting a licensed business shall k eep the license posted in a prominent place
+on the premises at all times.
+
+ 60.270  LICENSE REVOCATION.
+
+ (1) When any licensee fails to comply with any provisions of this chapter or any other
+applicable County ordinance or State or Federal laws and regulations, the Board, upon advice from
+the Director, may revoke any license granted  under this chapter in the manner provided for
+revocation of franchises under Section 70.0711.
+
+ (2) If a licensee is convicted for any violation of this chapter, or any other County
+ordinance or of any State or Federal law or regulation applicable to the licensed business, such
+conviction shall be sufficient ground for summary suspension or revocation of the license by order
+of the Board without notice and hearing.
+
+ 60.275  APPEALS.
+
+ Any person whose license is revoked may, within 30 days from the date of the order, appeal
+the decision to the Circuit Court. The burden of proof in the Circuit Court shall be upon the County.
+In the event of an appeal, the revocation shall be stayed until determination of the matter by the
+Circuit Court.
+
+(General Provisions)
+
+ 60.310  MINORS.
+
+ No person operating, maintaining, or engaging in  an affected business having a fixed place
+of business within the County who knows, or in the exercise of reasonable care should know, that
+one or more of the following conditions exists, shall permit any minor to:
+
+ (1) Possess, consume, or be upon the premises while under the influence of alcoholic
+liquor, narcotics or illegal and/or dangerous drugs;
+
+60-5
+ (2) Resort to the premises for purposes of truancy; or
+
+ (3) Engage in any game of chance upon the premises.
+
+ 60.320  NUISANCES.
+
+ No person operating, maintaining, or engaging in  an affected business having a fixed place
+of business within the County shall:
+
+ (1) Permit the unsightly (according to the Director) accumulation or spread of litter;
+
+ (2) Permit or encourage excessive noise, smoke, or odor upon the premises to the
+annoyance of the public (as determined by the Director) or adjacent property owners; or
+
+ (3) Fail or neglect to maintain order upon the premises.
+
+ 60.330  TRAFFIC HAZARDS.
+
+ No person operating, maintaining, or engaging in  an affected business having a fixed place
+of business within the County with access to a public road shall so conduct the affected business in a
+manner which creates a continuing or repeated hazard to traffic upon the road.
+
+ 60.340  LAWS AND REGULATIONS.
+
+ Every licensed business shall comply with all applicable Federal and State laws and
+regulations in addition to regulations impos ed on designated licensed businesses under the
+provisions of this chapter and other County ordinances.
+
+ 60.395  PENALTIES.
+
+ Any person who conducts or operates an affected business in violation of this chapter is
+punishable, upon conviction, as provided in ORS 203.065. A failure from day to day to comply with
+this chapter shall be a separate offense for each day.
+
+ 60.410  REGULATIONS FOR ENTERTAINMENT BUSINESSES.
+
+ (1) The operator of any entertainment business shall designate at least one person who
+shall be responsible for maintaining order on the premises of the entertainment business. If required
+by the Director, the person designated shall meet with the approval of the Sheriff of Polk County.
+
+ (2) During business hours, the entertainment business shall be open to inspection by the
+appropriate official for purposes of determining whether the entertainment business is in compliance
+with all laws, including fire safety regulations of  the State and any rural fire protection district
+having the premises within its jurisdiction.
+
+ (3) No gambling shall be allowed in connection with any entertainment business
+licensed under this ordinance.
+
+60-6
+ 60.420  REGULATIONS FOR SECOND HAND AND JUNK DEALERS.
+
+ (1) Every second hand dealer, junk dealer, and pawnbroker shall keep at his place of
+business, in duplicate, a record book in which sha ll be entered a dated, daily, true and complete
+account of all buying transactions. The information entered in the record book as to each item shall
+include:
+
+  (a) Date and time received;
+
+  (b) Form of identification presented;
+
+  (c) Name, address, phone number, driver's license number, and social security
+number of each person involved in the transaction;
+
+  (d) Complete description of each ite m involved in the transaction - including
+serial number or identification num ber, location, and wording of any
+engraving, specific setting;
+
+  (e) The number of pounds of any material  involved in the transaction that is
+customarily sold by weight;
+
+  (f) The signature of each person involved in the transaction; and
+
+(g) Identification of the pawn ticket receipt, if any.
+
+ (2) The record book required by this chapter shall be maintained and protected by the
+dealer. Information shall be recorded in ink and must be legible.
+
+ (3) Regarding items purchased by a dealer at a garage or yard sale, it is necessary to
+record the following information for all items valued at $100 or more: address where the item was
+purchased, general description of the item.
+
+ (4) Items purchased from an auction, estate sale, or mini storage warehouse sale are not
+subject to the provisions of this chapter.
+
+ (5) The record book shall, during all bus iness hours and at such other times as
+reasonably may be required by any law enforcem ent officer, be open to inspection by any law
+enforcement officer. The record book shall be kept safe and dry for 12 full calendar months after
+receipt of any item. When any dealer subject to this chapter discontinues business for more than 6
+consecutive months, said record book shall be delivered to the attention of the Director.
+
+ (6) Notwithstanding any other provision of th is chapter, within 15 days following any
+recorded transaction, the duplicate copy of the record book shall be submitted to the Sheriff by
+delivery to the Sheriff's Office. The Sheriff's Office will issue a receipt to verify compliance.
+
+ (7) Items may not be sold or redeemed in violation of any contrary Order by the Sheriff.
+If in the course of a criminal investigation the Sheriff suspects that property received by a dealer was
+not lawfully obtained by the seller or borrower, the Sheriff may issue a written Order requiring, as a
+condition of license,  that the dealer hold said property without alteration or change, and not allow
+sale or redemption for a period not to exceed 21 days.
+
+60-7
+
+ (8) No merchandise of a second hand deal er, junk dealer, or pawnbroker shall be
+displayed outside any building in such a way as to create a nuisance or constitute solid waste.
+
+ 60.450 SALE LIMITATIONS.
+
+ No property that is subject to this Chapter (e xcept items purchased at a garage sale) shall be
+sold for a period of fifteen calendar days after the date of purchase. The dealer shall maintain the
+purchased property in substantially the same form as purchased and shall not commingle the
+property to preclude identification during this fifteen-day holding period. The purchased property
+shall be located on the business premises during normal business hours during this holding period so
+that it can be inspected as deemed necessary. Notwithstanding this requirement, the Sheriff may
+authorize the sale or transfer of an item of purchased regulated property before the expiration of this
+period in cases in which the dealer shows that extreme financial hardship will result from holding
+property for the fifteen-day period.
+
+ 60.510  DESIGNATION OF HEARINGS OFFICER.
+
+ (1) The Board may designate a Hearings O fficer to receive recommendations from the
+Director and conduct any hearings under this chapter in lieu of a hearing before the Board. After
+hearing testimony and reviewing evidence, the Hearings Officer shall make findings and conclusions
+and submit a decision to the Board.
+
+ (2) A decision of the Hearings Officer unde r this section and chapter becomes final 15
+days after issuance unless the Director or the Board files written objection.
+
+ (Penalties)
+
+ 60.990  PENALTIES.
+
+ Violation of this chapter shall be punishable  upon conviction by a fine of not more than $500
+for a non-continuing violation and a fine of not more than $1,000 for a continuing offense. These
+penalties shall be in addition to any other remedies provided by law to Polk County. [Ord 95-8]

@@ -1,0 +1,85 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/klamath-county
+id: klamath-policies-non-union-hourly-2026-2027-salary-table
+title: 'Non-Union-Hourly-2026-2027-Salary-Table'
+doc_type: policy
+citation: 'Non-Union-Hourly-2026-2027-Salary-Table'
+authority_level: county_policy
+issuing_body: 'Klamath County Board of Commissioners'
+source_url: https://www.klamathcounty.org/DocumentCenter/View/63594/Non-Union-Hourly-2026-2027-Salary-Table
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 669f482d0a64d54c29b9a15a979cfebc3b7757349139757ed50684174d1311ed
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [klamath-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Klamath County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Non-Union-Hourly-2026-2027-Salary-Table (Non-Union-Hourly-2026-2027-Salary-Table)
+
+## At a glance
+
+Non-Union-Hourly-2026-2027-Salary-Table — policies of Klamath County. 1 pages.
+
+## Full text
+
+GRADE STEP 1
+STEP 2
+Merit
+STEP 3
+Merit
+STEP 4
+Merit
+STEP 5
+Merit
+STEP 6
+Merit
+STEP 7
+Merit
+UH11 14.87$         15.60$         16.24$         16.97$         17.77$         18.54$         19.37$
+UH12 15.64$         16.33$         17.09$         17.82$         18.63$         19.52$         20.38$
+UH13 16.42$         17.15$         17.92$         18.73$         19.58$         20.45$         21.38$
+UH14 17.21$         18.01$         18.81$         19.64$         20.51$         21.50$         22.42$
+UH15 18.12$         18.86$         19.72$         20.66$         21.58$         22.55$         23.55$
+UH16 19.03$         19.88$         20.78$         21.68$         22.65$         23.67$         24.79$
+UH17 19.97$         20.92$         21.79$         22.75$         23.85$         24.87$         26.00$
+UH18 20.98$         21.90$         22.85$         23.92$         24.94$         26.13$         27.30$
+UH19 21.98$         22.99$         24.03$         25.11$         26.25$         27.43$         28.66$
+UH20 23.07$         24.10$         25.19$         26.38$         27.54$         28.85$         30.10$
+UH21 24.24$         25.33$         26.50$         27.64$         28.93$         30.19$         31.59$
+UH22 25.47$         26.60$         27.85$         29.05$         30.42$         31.72$         33.14$
+UH23 26.71$         27.94$         29.18$         30.53$         31.89$         33.28$         34.83$
+UH24 28.06$         29.31$         30.65$         32.05$         33.50$         34.99$         36.57$
+UH25 29.50$         30.80$         32.21$         33.63$         35.16$         36.72$         38.40$
+UH26 30.93$         32.35$         33.81$         35.34$         36.91$         38.55$         40.31$
+UH27 32.51$         33.97$         35.50$         37.07$         38.76$         40.51$         42.34$
+UH28 34.10$         35.63$         37.26$         38.94$         40.68$         42.53$         44.44$
+UH29 35.83$         37.44$         39.13$         40.87$         42.72$         44.64$         46.68$
+UH30 37.69$         39.30$         41.12$         42.94$         44.88$         46.88$         48.99$
+UH31 39.54$         41.28$         43.12$         45.09$         47.09$         49.24$         51.44$
+UH32 41.48$         43.37$         45.27$         47.35$         49.45$         51.68$         54.01$
+UH33 43.55$         45.54$         47.56$         49.69$         51.95$         54.28$         56.69$
+UH34 45.74$         47.81$         49.95$         52.18$         54.56$         57.04$         59.56$
+UH35 48.05$         50.19$         52.47$         54.83$         57.29$         59.88$         62.56$
+UH36 50.44$         52.71$         55.05$         57.54$         60.14$         62.83$         65.65$
+NON-UNION
+Full-Time, Half-Time & Part-Time
+Hourly, FLSA Non- Exempt
+Effective July 1, 2026   2% COLA

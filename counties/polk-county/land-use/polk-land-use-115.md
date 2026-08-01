@@ -1,0 +1,187 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-115
+title: '115'
+doc_type: ordinance
+citation: '115'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4517/115
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 46c155caf1537e00a91c7b0e435f16cc532fcf8f4158b8d424a1f29405c4baf2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 115 (115)
+
+## At a glance
+
+115 — land use of Polk County. 4 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 115.doc                  115-1
+CHAPTER 115
+COMPREHENSIVE PLAN AMENDMENTS
+115.010. Purpose
+115.020. Definitions
+115.030. Procedures for Non-Legislative Plan Amendm ents
+115.040. Procedures for Legislative Plan Amendments .
+115.050. Criteria for Non-Legislative Plan Amendmen ts
+115.060. Criteria for Legislative Plan Amendments
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 115.doc                  115-2
+115.010.  PURPOSE.   To provide clear and objective criteria and procedures to receive and
+process a request for a comprehensive plan amendment.
+115.020.  DEFINITIONS.  A comprehensive plan amendment is any amendment to the Polk
+County Comprehensive Plan which deletes, supplements, or changes the text, land use map
+designations, or urban growth boundaries.
+(A) A non-legislative comprehensive plan amendment is a comprehensive plan
+amendment initiated by the affected property owners that includes either: (1) a
+change to the land use designation for one or more properties, (2) a text amendment
+that demonstrates why the building(s) for a specific commercial use defined by the
+Zoning Ordinance as “small-scale, low impact”, within an unincorporated
+community, should exceed 4,000 square feet in size; or (3) a text amendment that
+demonstrates why the building(s) for a specific industrial use defined by the Zoning
+Ordinance as “small-scale, low impact”, within an unincorporated community,
+should exceed 10,000 square feet in size;
+An amendment to an adopted urban growth boundary which is non-legislative in
+nature may be initiated by a property owner(s) who request inclusion in or exclusion
+from the urban growth boundary, subject to any applicable comprehensive plan or
+intergovernmental agreement pertaining to the urban growth boundary and
+urbanizable land.
+(B) A legislative comprehensive plan amendment is a ll comprehensive plan amendments
+other than non-legislative amendments, initiated by the Board of Commissioners or
+the Planning Commission.   A legislative amendment to an adopted urban growth
+boundary may be initiated by Polk County or by the affected city as specified by any
+applicable comprehensive plan or intergovernmental agreement pertaining to the
+urban growth boundary and urbanizable land.
+  [Amended be Ordinance #00-03, dated May5, 2000]
+115.030.  PROCEDURES FOR NON-LEGISLATIVE PLAN AMENDMENTS.   The
+application shall be processed as follows.
+(A) Property owners, or persons purchasing property  under contract, if they state in
+writing that they are purchasing the property under contract, may file a plan
+amendment petition.  The petition shall be in writing on forms provided by the
+Planning Director and shall be filed with the Planning Division not less than 45 days
+prior to the date of the hearing.  The petition shall contain the following information:
+(1) The present comprehensive plan designation;
+(2) The proposed comprehensive plan designation;
+(3) The street address, or where none exists, the l ocation of the property;
+(4) The legal description of the property sought to  be reclassified;
+(5) The names, addresses and zip codes of the owner (s) of the property sought to
+be reclassified; and
+(6) The signatures of the property owners for the a rea to be reclassified.
+(B) The Hearings Officer shall hold a public hearin g as prescribed in Chapter 111 on the
+complete petition for a plan amendment.  After concluding this hearing, the Hearings
+Officer shall prepare a report  setting forth a summary of facts and conditions
+involved in the plan amendment and submit the same, together with a
+recommendation to the Board of Commissioners.
+(C) The Board of Commissioners shall hold a public hearing on the proposed plan
+amendment as provided in Chapter 111.  Final decision by the Board of
+Commissioners shall not be effective until 21 days after mailing of the decision.
+Filing of an appeal to the Land Use Board of Appeals stays all proceedings by all
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 115.doc                  115-3
+parties in connection with the matter appealed until the appeal has been resolved.
+Any plan amendment or reclassification of property shall be by ordinance which shall
+be passed by the Board of Commissioners.  Any denial of a proposed plan
+amendment shall be by order.
+115.040.  PROCEDURES FOR LEGISLATIVE PLAN AMENDMENTS.
+(A) Legislative amendments may be initiated by the Board of Commissioners or Planning
+Commission.  An interested party may request that the Planning Commission or
+Board initiate a legislative amendment.  Legislative amendments shall only be
+initiated by the Board or Planning Commission after findings are made that the
+proposed change is in the public interest and will be of general public benefit.  In the
+case of a legislative amendment to an adopted urban growth boundary, the
+amendment may be initiated by Polk County or by the affected city as specified in
+any applicable comprehensive plan or intergovernmental agreement pertaining to the
+urban growth boundary and urbanizable land.
+(B) After a legislative amendment has been initiate d, the Planning Commission shall
+hold a public hearing as prescribed in Chapter 111 on the complete petition for plan
+amendment.  After concluding this hearing, the Planning Commission shall submit a
+recommendation to the Board of Commissioners.
+(C) The Board of Commissioners shall hold a public hearing on the proposed plan
+amendment as provided in Chapter 111.  Final decision by the Board of
+Commissioners shall not be effective until 21 days after mailing of the decision.
+Filing of an appeal to the Land Use Board of Appeals stays all proceedings by all
+parties in connection with the matter appealed until the appeal has been resolved.
+Any plan amendment or reclassification of property shall be by ordinance which shall
+be passed by the Board of Commissioners.  Any denial of a proposed plan
+amendment shall be by order.
+115.050.  CRITERIA FOR NON-LEGISLATIVE PLAN AMENDMENTS.   A non-
+legislative plan amendment may be approved provided that the request is based on substantive
+information providing a factual basis to support the change.  It is the applicant’s responsibility to
+provide the information necessary to determine if the request meets the pertinent criteria.
+(A) Amendments to the Comprehensive Plan Map must m eet one or more of the
+following criteria:
+(1) The Comprehensive Plan designation is erroneous  and the proposed
+amendment would correct the error; or
+(2) The Comprehensive Plan Designation is no longer  appropriate due to changing
+conditions in the surrounding area; and
+(3) The purpose of the Comprehensive Plan will be c arried out through approval of
+the proposed Plan Amendment based on the following:
+(a) Evidence that the proposal conforms to the inte nt of relevant goals and
+policies in the Comprehensive Plan and the purpose and intent of the
+proposed land use designation.
+(b) Compliance with Oregon Revised Statutes, statew ide planning goals and
+related administrative rules which applies to the particular property(s) or
+situations.  If an exception to one or more of the goals is necessary, the
+exception criteria in Oregon Administrative Rules, Chapter 660, Division
+4 shall apply; and
+(c) Compliance with the provisions of any applicabl e intergovernmental
+agreement pertaining to urban growth boundaries and urbanizable land.
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 115.doc                  115-4
+(B) Text amendments to the Comprehensive Plan demon strating why the building(s) for
+a specific commercial use defined by the Zoning Ordinance as “small-scale, low
+impact”, within an unincorporated community, should exceed 4,000 square feet in
+size must demonstrate compliance with the following criteria:
+(1) An analysis shows that the proposed use is inte nded to serve a market area
+consisting solely of the surrounding rural area and/or the travel needs of people
+passing through the area; and
+(2) The proposed use would rely upon a work force f rom the surrounding rural
+area.
+(C) Text amendments to the Comprehensive Plan demon strating why the building(s) for
+a specific industrial use defined by the Zoning Ordinance as “small-scale, low
+impact”, within an unincorporated community, should exceed 10,000 square feet in
+size must demonstrate compliance with the following criteria:
+(1) The proposed use is necessary to provide employ ment that does not exceed the
+total projected work force within the community and the surrounding rural
+area;
+(2) The proposed use would not rely upon a work for ce served by uses within an
+urban growth boundary; and
+(3) The determination of the work force of the comm unity and surrounding rural
+area considers the total projected industrial and commercial employment of the
+community and is coordinated with employment projections for nearby urban
+growth  boundaries.   [Amended by Ordinance #00-03, dated May 5, 2000]
+115.060.  CRITERIA FOR LEGISLATIVE PLAN AMENDMENTS.  A legislative plan
+amendment may be approved provided that the request is based on substantive information
+providing a factual basis to support the change.  In amending the Comprehensive Plan, Polk
+County shall demonstrate:
+(A) Compliance with Oregon Revised Statutes, and th e statewide planning goals and
+related administrative rules.  If an exception to one or more of the goals is necessary,
+Polk County shall adopt findings which address the exception criteria in Oregon
+Administrative Rules, Chapter 660, Division 4;
+(B) Conformance with the Comprehensive Plan goals, policies and intent, and any plan
+map amendment criteria in the plan;
+(C) That the proposed change is in the public inter est and will be of general public
+benefit; and
+(D) Compliance with the provisions of any applicabl e intergovernmental agreement
+pertaining to urban growth boundaries and urbanizable land.

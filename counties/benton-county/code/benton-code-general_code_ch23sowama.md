@@ -1,0 +1,952 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-general_code_ch23sowama
+title: 'CHAPTER 23 - SOLID WASTE MANAGEMENT'
+doc_type: ordinance
+citation: 'CHAPTER 23 - SOLID WASTE MANAGEMENT'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH23SOWAMA&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 2e8de5a89857cbf0f3936553de605fb73fe32c8eb63e3ffcfd87ba5d4d1de294
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 459.005
+    - ORS 459.386
+    - ORS 466.005
+    - ORS 822.110
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CHAPTER 23 - SOLID WASTE MANAGEMENT (CHAPTER 23 - SOLID WASTE MANAGEMENT)
+
+## At a glance
+
+CHAPTER 23 - SOLID WASTE MANAGEMENT — code of Benton County. 42 sections.
+
+## Full text
+
+ ### CHAPTER 23 - SOLID WASTE MANAGEMENT
+
+ ### ADMINISTRATION
+
+ ### 23.005 - Definitions.
+
+As used in BCC Chapter 23 :
+(1)
+"Council" means the County Solid Waste Advisory Council established pursuant to this section.
+(2)
+"Uncovered Load" means a load which is:
+(a)
+Not completely covered on all sides and on the top and bottom and such cover is either
+a part of or securely fastened to the body of the motor vehicle or trailer,
+(b)
+Not securely tied to the body of the motor vehicle or trailer so that no piece, article,
+item or part of such solid waste or recyclable material is not fastened to the body
+of the motor vehicle or trailer, or
+(c)
+Not contained in the body of the motor vehicle or trailer, in such a way as to prevent
+any part of the solid waste or recyclable material from being deposited upon any private
+or public property, road, right-of-way or driveway within the County.
+(3)
+"Department" means the Benton County Community Development Department.
+(4)
+"Discarded Vehicle" means any vehicle which does not have a lawfully affixed unexpired license plate
+and is inoperative, wrecked, dismantled or partially dismantled, abandoned or junked.
+A "discarded vehicle" is a form of "Solid Waste".
+(5)
+"Disposal Site" means land and facilities used for the disposal, handling or transfer of, or energy
+recovery, material recovery and recycling from solid wastes, including but not limited
+to dumps, landfills, sludge lagoons, sludge treatment facilities, disposal sites for
+septic tank pumping or cesspool cleaning service, transfer stations, energy recovery
+facilities, incinerators for solid waste delivered by the public or by a collection
+service, composting plants and land and facilities previously used for solid waste
+disposal at a land disposal site.
+(6)
+"Franchise" includes a franchise, certificate, contract or license issued by a local government
+unit authorizing a person to provide solid waste management services.
+(7)
+"Hazardous Waste" means any hazardous waste as defined by ORS 466.005 or wastes found by the franchisee
+to be hazardous to service workers, service equipment or facilities, or to the public.
+"Hazardous waste" shall also include "hazardous waste" as defined by other governmental
+units which have legislative or administrative jurisdiction.
+(8)
+"Holder" means a person to whom the Board has granted a franchise or permit.
+(9)
+"Landfill" means a facility for the disposal of solid waste involving the placement of solid
+waste on or beneath the land surface.
+(10)
+"Permit" means a limited license to provide only specified recycling or reuse services.
+(11)
+"Person" means any individual or other legal entity.
+(12)
+"Resource Recovery" means the process of obtaining useful material or energy resources from solid waste,
+including source separation and materials or energy recovery.
+(13)
+"Service" means the collection, transportation, and disposal of, or resource recovery from,
+solid waste. "Service area" is the geographic area in which service is provided.
+(14)
+"Solid Waste" means all useless or discarded putrescible and nonputrescible materials, including
+but not limited to garbage, rubbish, refuse, ashes, paper and cardboard, sewage sludge,
+septic tank and cesspool pumpings or other sludge, useless or discarded commercial,
+industrial, demolition and construction materials, discarded or abandoned vehicles
+or parts thereof, discarded home and industrial appliances, manure, vegetable or animal
+solid and semisolid materials, dead animals and infectious waste as defined in ORS
+459.386.
+(15)
+"Solid Waste Management" means the prevention or reduction of solid waste, management of the storage, collection,
+transportation, treatment, utilization, processing and final disposal of solid waste,
+recycling, reuse and material or energy recovery from solid waste and facilities necessary
+or convenient to such activities.
+(16)
+"Source Separation" means the separation of waste materials by the generator in preparation for recycling.
+(17)
+"Waste" means material that is no longer directly usable by the source, and which is to be
+disposed of or may be resource recovered by another person.
+(a)
+The fact some materials have value and may be recovered, reconditioned or resold,
+does not exempt such materials from the definition of "waste".
+(b)
+Separation of materials from other wastes by the source does not remove the materials
+from this definition.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 94-0108; Ord. 2000-0165; Ord. 2003-0183]
+
+ ### 23.010 - Purpose.
+
+In order to protect the health, safety and welfare of the people of Benton County
+and to provide a solid waste management program, it is declared to be the public policy
+of Benton County to regulate solid waste management to:
+(1)
+Provide for a coordinated solid waste management program and administration with cities
+within Benton County and with other counties or cities under existing and future regional
+programs.
+(2)
+Provide for cooperation and agreements between Benton County and cities and other
+counties involving joint or regional franchising of solid waste service.
+(3)
+Provide standards, regulations and franchising to ensure the safe and sanitary accumulation,
+storage, collection, transportation and disposal or resource recovery of solid wastes
+and ensure maintenance of solid waste collection, resource recovery and disposal service.
+(4)
+Encourage research, studies, surveys and demonstration projects to develop a safe,
+sanitary, efficient, and economical solid waste management system.
+(5)
+Provide research, development and promotion of and public education for technologically
+and economically feasible resource recovery including recycling and reuse, by and
+through the franchisees or permittees and other persons.
+(6)
+Eliminate duplication of service or routes to conserve energy and material resources,
+reduce air pollution, noise pollution, truck traffic, and increase efficiency, thereby
+minimizing consumer cost.
+(7)
+Encourage the use of the capabilities and expertise of private industry and encourage
+volunteer efforts in accomplishing the purposes of BCC Chapter 23 .
+(8)
+Provide equitable classes of collection rates to classes or users of solid waste services
+that are just, fair, reasonable, and adequate to provide necessary services to the
+public, justify investment in solid waste management systems and provide for equipment
+and systems modernization to meet environmental service requirements and technology.
+(9)
+Minimize the cost and burden of regulation, administration and enforcement.
+(10)
+Provide for public input in solid waste management.
+(11)
+Carry out the local government responsibility and authority for solid waste management
+under ORS 459, and carry out the mandate for waste reduction under Chapter 773, Oregon
+Laws, 1979.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2000-0165]
+
+ ### 23.015 - Administration.
+
+Administration under the supervision of the Board shall be by the Benton County Community
+Development Department under the Director or designate. The following persons and
+agencies shall assist the Department in carrying out its duties under BCC Chapter 23 : The Planning Commission(Planning, Zoning and Land Use); Health Department (Environmental
+Health); Solid Waste Advisory Council (Solid Waste Management Planning); Finance Department
+(Fiscal Management and Rates); Public Works Department (Public and Private Facilities);
+County Counsel, District Attorney and Sheriff (Enforcement).
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2000-0165]
+
+ ### 23.020 - Solid Waste Advisory Council Established.
+
+The Board shall create a County Solid Waste Advisory Council in accordance with Benton
+County Code sections 23.025 through 23.035 and may create a Regional Solid Waste Advisory Council or Committee in cooperation
+with cities and other counties.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2003-0183]
+
+ ### 23.025 - County Solid Waste Advisory Council Membership.
+
+(1)
+The Council shall consist of 10 voting members, and 3 ex-officio, not voting members,
+with specific membership details identified in the Solid Waste Advisory Council Bylaws.
+All members shall be appointed by the Board. The following persons may be appointed
+by the Board as ex officio members entitled to participate in proceedings of the Council,
+but not to vote: the Director of the Community Development Department or designate;
+a collection franchise holder; a disposal site franchise holder; a person holding
+a permit; or a person lawfully engaged in providing recycling or reuse service or
+the promotion or education for such service. The Board may appoint additional ex officio
+members as they see fit.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 95-0115; Ord. 2003-0183]
+
+ ### 23.030 - County Solid Waste Advisory Council Terms.
+
+Members shall serve at the pleasure of the Board. The Council shall select its own
+chairperson and vice chairperson.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 2003-0183]
+
+ ### 23.035 - County Solid Waste Advisory Council Duties.
+
+The Council shall assist the Board in planning and implementation of solid waste management.
+First priority shall be given to those areas assigned by the Board including maintenance
+of County roads in the vicinity of Coffin Butte and to recycling and reuse and matters
+related to those areas. The County Solid Waste Advisory Council shall provide input
+or recommendations to the Board on the use of the host surcharge.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2000-0165; Ord. 2003-0183]
+
+ ### FRANCHISES AND PERMITS
+
+ ### 23.105 - Franchise or Permit Required to Provide Service.
+
+No person shall solicit for service customers or provide service in Benton County,
+without first acquiring a franchise or permit under BCC Chapter 23 unless specifically exempted pursuant to this section. BCC Chapter 23 shall not apply within the limits of an incorporated city, except as may be provided
+through an agreement with the city.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035]
+
+ ### 23.110 - Exemptions to Requirement for Franchise or Permit.
+
+(1)
+The following persons or practices are exempted from the requirements of BCC Chapter 23 :
+(a)
+A private charitable organization which regularly engages in the collection and reuse
+of repairable or cleanable discards, such as the Salvation Army, St. Vincent DePaul,
+Goodwill, and similar organizations.
+(b)
+A religious, charitable, benevolent or fraternal organization, which organization
+is not organized for solid waste management purposes, and which is using the activity
+for fund raising, such as scouts and churches, and which collects and reuses or recycles
+totally source separated materials, or operates a collection center for totally source
+separated materials.
+(c)
+The collection, transportation or redemption of returnable beverage containers under
+the "Bottle Bill" (ORS Chapter 459).
+(d)
+A producer who transports and disposes of waste created as an incidental part of the
+regular operation of a licensed auto wrecking business or a janitorial service or
+a gardening or landscaping service, or a septic tank pumping or sludge collection
+or disposal service. "Janitorial service" does not include accumulation or collection
+of wastes produced by a property owner or occupant.
+(e)
+The transportation by a person of solid waste produced by the person to a disposal
+site or resource recovery site or market. In the case of non-owner occupied property,
+the exemption applies only to waste which is produced and transported by the occupant
+of the premises and not by the landlord or property owner or agent.
+(f)
+The collection by the County or other subordinate jurisdiction of leaves, street sweepings
+or similar wastes, and transportation to a disposal site, resource recovery site or
+market.
+(g)
+A person engaging in the practice or business of the purchase of totally source separated
+solid wastes for fair market value, provided, however, that the person shall obtain
+a certificate from the Department for this service prior to commencing business in
+the County. Application shall be on forms supplied by the Department, which shall
+require information sufficient to determine qualifications under this exemption. The
+application shall be accompanied by a certificate fee. A holder may obtain a certificate
+under this subsection.
+(h)
+A collection center for totally source separated materials operated by a nonprofit
+organization which was organized for 1 or more solid waste management purposes in
+addition to other purposes of the organization, provided that the operation has been
+continuous from January 16, 1981. This exemption terminates upon termination of collection
+center operations following January 16, 1981. The nonprofit corporate operator of
+an existing collection center shall apply for a permit from the County within 30 days
+after the effective date of BCC Chapter 23 .
+(2)
+The following disposal sites are exempted from the requirements of this ordinance.
+(a)
+A landfill which is used by the owner or person in control of the premises to dispose
+of rock, soil, concrete or other similar nondecomposable material, unless the site
+is used by the public either directly or through a collection service.
+(b)
+A portion of land or a facility specifically possessing a waste water discharge permit
+pursuant to ORS Chapter 468B and in compliance with all Oregon Environmental Quality
+Commission regulations on solid waste management.
+(c)
+Land on which solid wastes are used for fertilizer or for other productive purposes
+or which are salvageable as such materials are used on land in agricultural operations
+and the growing or harvesting of crops and the raising of animals. ORS 459.005(24)(b).
+(d)
+A facility authorized by a permit issued under ORS 466.005 to 466.385 to store, treat
+or dispose of both hazardous waste and solid waste.
+(e)
+A site operated by a wrecker issued a certificate under ORS 822.110.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2003-0183]
+
+ ### 23.115 - Additional Exemptions upon Application.
+
+In addition to the exemption listed above the Board may grant additional exemptions,
+as follows:
+(1)
+An applicant shall obtain an application for exemption from the Department. A completed
+application shall be filed with the Department.
+(2)
+Upon 20 days written notice to the applicant and affected franchisees or permittees,
+a public hearing shall be held before the Board.
+(3)
+The Department shall review the application and provide information and recommendations
+to the Board to assist it in reaching a determination.
+(4)
+At the conclusion of the hearing to consider the application, the Board shall make
+a decision, including written findings, based upon the following factors, among others:
+(a)
+The purpose stated in BCC 23.010 .
+(b)
+The ability of the existing franchise holders or exemption holders to provide the
+required service.
+(c)
+Unnecessary or unreasonable hardships or practical difficulties which can be relieved
+only by granting an exemption.
+(d)
+Whether the granting of an exemption will be materially detrimental or have a substantial
+negative impact on service, consumer rates, or the holder of the service area or service.
+(e)
+The ability of the applicant to secure the necessary equipment and personnel to provide
+the service.
+(5)
+The Board's decision shall be mailed to the applicant and affected holders by first
+class mail. The Board may attach any conditions or limitations to the granting or
+exercising of an exemption deemed necessary to carry out the purposes and policies
+of Chapter 23 . The Board also may impose additional conditions on an existing holder in this regard.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2000-0165]
+
+ ### APPLICATION AND QUALIFICATIONS
+
+ ### 23.205 - Applications Required for Franchises and Permits.
+
+Applications for franchises and permits shall be on forms provided by the Department.
+In addition to information required on the forms, the Department may require the filing
+of any additional information it deems necessary to ensure compliance with BCC Chapter 23 .
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035]
+
+ ### 23.210 - Collection Franchise Requirements.
+
+(1)
+An applicant for an original collection franchise or for a collection franchise transfer
+shall demonstrate to the satisfaction of the Board that the applicant:
+(a)
+Has a majority of the service accounts in the service area for which he has applied,
+as evidenced by a list of customers served; and
+(b)
+Has available collection vehicles, equipment, facilities and personnel sufficient
+to meet the standards established by BCC Chapter 23, ORS Chapter 459 and applicable
+administrative rules. If the applicant proposes to serve a service area which is wholly
+or in part under franchise to another person, or to replace such person upon expiration
+of the existing franchise, the applicant shall have available on the beginning date
+of the proposed franchise term collection vehicles, containers and other equipment
+equal to that presently used in service; and
+(c)
+Has sufficient experience to ensure compliance with BCC Chapter 23 . If the applicant does not have sufficient experience, the Board may require the
+applicant to submit a corporate surety bond, in the amount of not less than $500,000,
+guaranteeing full and faithful performance by the applicant of the duties and obligations
+of a franchisee under the provisions of BCC Chapter 23 and applicable federal, state
+and local laws and rules or regulations, and holding Benton County harmless from liability;
+and
+(d)
+Has in force, or intends to provide for, public liability insurance in the amount
+of not less than $2,500,000 for injury to a single person, or $10,000,000 for injury
+to a group of persons and property damage insurance in the amount of not less than
+$5,000,000, which shall be evidenced by a certificate of insurance or a letter of
+intent. Upon award of a franchise, any applicant providing only a letter of intent
+with the application shall provide a copy of a certificate of insurance prior to the
+effective date of the franchise. The certificate shall name Benton County as an additional
+insured. The Board may, by order, increase the minimum amount of required insurance
+to meet inflationary costs; and
+(e)
+When requesting a transfer of franchise, the applicant must submit, as part of the
+application, a letter from the current franchisee requesting the transfer.
+(2)
+If the applicant is not already serving the area proposed to be served, applicant
+shall show that:
+(a)
+The defined service area has not been franchised to another person; or
+(b)
+The defined service area is not being presently served by a holder pursuant to any
+schedule established as part of the franchise in accordance with BCC Chapter 23 ; or
+(c)
+The defined service area is not being adequately served by a holder and there is a
+substantial demand from customers within the area for a change of service to that
+area.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2003-0183]
+
+ ### 23.215 - Disposal Site Franchise Requirements.
+
+An applicant for an original disposal site franchise or franchise transfer shall demonstrate,
+to the satisfaction of the Board:
+(1)
+The type of disposal site and the transfer, disposal, processing or resource recovery
+method to be employed, together with any proposed special regulations dealing with
+hazardous wastes or concerning the types of waste that will be accepted at the disposal
+site; and
+(2)
+That the applicant has available land, equipment, management, facilities and personnel
+to meet the standards established by BCC Chapter 23, ORS Chapter 459 and applicable
+rules, and has insurance equal to that required for a collection franchise; and
+(3)
+That the applicant has sufficient experience to ensure compliance with BCC Chapter 23 .
+(a)
+If the applicant does not have sufficient experience, the Board may either deny the
+application or require the applicant to submit a corporate surety bond in the maximum
+amount of $10,000,000, which guarantees full and faithful performance by the applicant
+of the duties and obligations of a franchise holder under provisions of Chapter 23 , guarantees compliance with all applicable laws, and which holds Benton County harmless.
+(b)
+In determining whether or not a bond is required and the amount necessary, the Board
+shall give due consideration to the size and type of the site, the solid waste handling
+methods proposed, the population or type of customers to be served, alternative sites,
+availability of the bond, cost to the ratepayer, adjacent or nearby land uses, the
+potential danger of failure of service and such other factors as the Board deems relevant.
+(4)
+If the application is for a transfer of a disposal site franchise, the applicant must
+submit, as part of the application, a letter from the current holder requesting transfer.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035; Ord. 2003-0183]
+
+ ### 23.220 - Recycling or Reuse Franchise or Permit Requirements.
+
+The Board shall specify which of the collection franchise requirements, as set forth
+in BCC 23.210 , shall apply to specific permits. In addition:
+(1)
+The Board may include recycling or reuse service or the education or promotion of
+such service in a collection franchise.
+(2)
+In lieu of a franchise, the Board may issue a limited permit for specified service
+and subject to such terms and conditions as the Board may impose to carry out the
+policy, purpose and findings.
+(3)
+Issuance of a recycling or reuse franchise or permit by the Board is discretionary.
+The grounds for issuance shall be compliance with the requirements specified by the
+Board.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035]
+
+ ### 23.225 - Provisions in Addition to Development Code.
+
+The above franchise requirements are in addition to any provisions of the Benton County
+Development Code that may be applicable.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0002;
+Ord. 86-035]
+
+ ### 23.230 - Investigation and Findings for Franchise or Permit.
+
+(1)
+Generally applications shall be reviewed by the Department, which shall make such
+investigation as it deems appropriate. The Department shall give written notice of
+any application to affected holders. In addition, the following specific requirements
+apply where appropriate:
+(a)
+Collection Franchises. Upon the basis of the collection franchise application, evidence submitted and results
+of investigation, the Department shall make a finding on the qualifications of the
+applicant and shall determine whether additional areas should be included or additional
+service or equipment should be provided.
+(b)
+Disposal Site Franchises. Upon the basis of the disposal site application, evidence submitted, and results
+of any investigation, the Department shall make a finding on the qualifications of
+the applicant, whether additional service, land, equipment or facilities should be
+provided and what conditions of service should be imposed, including whether the site
+should be opened to the public and under what conditions, whether or not certain types
+of wastes, solid wastes or hazardous wastes should be excluded from the site or what
+types of wastes should be required to be accepted at the site, and shall make findings
+as to whether or not the site is economically feasible, whether or not the site may
+be integrated with existing private or County-owned or operated sites, and, further,
+whether the site complies with all rules and regulations adopted pursuant to BCC Chapter
+23 or ORS Chapter 459. The Board may impose any conditions deemed necessary to carry
+out the purposes and policy of this section.
+(2)
+On the basis of these findings, the Department shall recommend to the Board whether
+or not an application should be granted, denied, or be modified.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035]
+
+ ### 23.235 - Public Hearing on Franchise or Permit.
+
+(1)
+The Board shall conduct a public hearing to consider an application within 30 days
+of receipt of the Department's recommendation.
+(2)
+Notice shall be served on the applicant and any affected holder, and shall be published
+once in a newspaper of general circulation within the franchise area not more than
+10 nor fewer than 7 days preceding the hearing.
+(3)
+The Board's decision shall be supported by written findings. The determination of
+the Board after conclusion of the public hearing shall be final.
+(4)
+If the Board order rejects all or part of the application for a franchise or permit,
+the applicant may not submit another application for the same service area, or a portion
+thereof, or the same disposal site, for a period of 6 months, unless the Board finds
+that the public interest requires reconsideration within a shorter period of time.
+(5)
+Upon receipt of the order granting a franchise or permit, the applicant shall enter
+into a written franchise or permit with Benton County.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-023,
+Ord. 86-035; Ord. 2003-0183]
+
+ ### TERM; RENEWAL
+
+ ### 23.305 - Renewal of Franchise or Permit.
+
+(1)
+Renewal of any franchise or permit shall be based on an application filed with the
+Department. The procedure for review, renewal, approval and denial shall be as set
+forth above for the granting of the franchise or permit.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035]
+
+ ### 23.310 - Term of Franchise or Permit.
+
+(1)
+Unless the Board finds in writing that a longer or shorter term is required in the
+public interest:
+(a)
+The term of a collection franchise shall be 10 years.
+(b)
+The term of a disposal site franchise shall be determined by the Board upon recommendation
+of the Department. The recommendation shall be based upon site longevity, population
+to be served, and probable use, and shall not exceed 25 years.
+(c)
+The term of a permit shall be determined by the Board upon recommendation of the Department.
+The recommendation shall be based upon achieving the purposes in BCC 23.010 .
+(2)
+The Board or holder may reopen a franchise or permit during its term for a change
+in provisions, or for negotiation of an early renewal. The change or renewal shall
+require the mutual approval of both the Board and the holder.
+(3)
+The terms of a franchise or permit shall be binding upon a holder, its heirs, successors
+or assigns.
+(4)
+A franchise or permit granted pursuant to BCC Chapter 23 shall be inoperative unless the holder files with Benton County a written acceptance
+within 30 days of issuance. Upon the filing of such written acceptance, a franchise
+or permit and the written acceptance shall constitute a contract between Benton County
+and the holder, terminable only as provided by BCC Chapter 23 .
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-035]
+
+ ### 23.315 - Transfer of Pledge for Franchise or Permit.
+
+(1)
+A franchise or permit shall not be sold, transferred or assigned to another person
+without prior written approval of the Board.
+(2)
+A person desiring a franchise or permit transfer shall submit an application to the
+Solid Waste Advisory Council on forms provided by the Department. The Council shall
+review the application at a public meeting and forward a recommendation to the Board
+of Commissioners. The Board shall then hold a public hearing and vote to approve or
+deny the request.
+(3)
+A pledge of a holder to secure financing shall be considered to be a transfer of the
+franchise or permit and shall be reviewed for approval as a transfer.
+(4)
+The term of the transferred franchise or permit shall continue for the same period
+as the original franchise or permit.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035]
+
+ ### DUTIES AND RESPONSIBILITIES OF HOLDER
+
+ ### 23.405 - Hold Harmless.
+
+(1)
+The privileges granted to a holder are upon the express condition that the holder
+shall be liable for all damages or injuries to persons or property caused by the negligence
+or mismanagement of the holder or any of its employees while engaged in the business
+under the terms of the franchise or permit. Should Benton County, or any of its officers,
+agents or employees in the scope of their employment be sued for damages caused wholly
+or in part by the operations of a holder under the terms of the franchise or permit,
+the holder shall be notified in writing of such suit and it shall be the holder's
+duty to defend or settle the suit. Should judgment go against Benton County, its officers,
+agents or employees, the holder shall further indemnify the County for costs and attorney's
+fees. The record of judgment against Benton County, or any of its officers, agents
+or employees, in such a case shall conclusively entitle Benton County, its officers,
+agents or employees to recover against the holder.
+(2)
+The holder shall covenant to purchase an indemnity insurance policy with a company
+licensed to do business in the State of Oregon with limits of liability specified
+in BCC 23.210 (d) which policy shall name Benton County, its officers, agents and employees as the
+additional insured.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035]
+
+ ### 23.410 - Service to Be Provided by Holder.
+
+(1)
+A collection franchise holder shall provide for solid waste collection at least once
+weekly unless otherwise authorized by the Board or Department. In addition to serving
+regular customers, the holder shall pick up and haul away all solid waste at the request
+of any resident of Benton County in holder's service area. The Board may specify when
+remote, sparsely populated areas will be served and the service frequency. A holder
+shall not, without good cause, as determined by the Department, refuse to provide
+service to any person living or conducting business within its area in Benton County;
+except under 1 or more of the following conditions:
+(a)
+Upon nonpayment or incomplete payment of a billing for service within the time provided
+in the bill, provided that holder sends a written 10-day notice to the customer that
+service will be terminated unless full payment is made.
+(b)
+Upon refusal by a customer to pay any required advance payment for service, or, if
+provided in the rate schedule, a charge for reinstating service after discontinuance
+for nonpayment; or a charge for starting a new service. A holder may bill up to 3
+months in advance for service to reduce bad debt costs charged to ratepayers and to
+reduce administrative costs.
+(c)
+Where street or road access is blocked.
+(d)
+Where excessive weather conditions, as determined by a holder, render the providing
+of service hazardous to the persons actually providing the service or to the public.
+(e)
+Where collection is prevented by an act of God, public enemy or vandal.
+(f)
+Where a customer violates service standards in BCC 23.705 .
+(2)
+A holder shall, where applicable: provide, maintain and use adequate equipment to
+handle and dispose of or resource recover solid waste; handle collected solid wastes
+in a good and workmanlike manner; transport all liquids in a watertight, drip-proof
+container; and provide equipment that meets all applicable laws, codes, regulations
+and standards.
+(3)
+A holder shall resource recover collected wastes or dispose of them in a disposal
+site approved by the Department of Environmental Quality.
+(4)
+The Board may require a collection franchise holder to contract with a disposal site
+for the right to dispose of wastes collected during the term of the franchise, including
+renewals.
+(5)
+Equipment and work supplied by any holder shall meet the reasonable satisfaction of
+the Department. The Department shall not make any unreasonable or arbitrary demands
+upon the holder.
+(6)
+The permit holder shall comply with service conditions imposed by their permits.
+(7)
+A disposal site franchise holder shall supply disposal services covered by its permit
+to those persons who contract for disposal, handling, or recovery of solid wastes
+collected under a franchise, license or permit; to those local government units and
+public agencies located within Benton County for wastes generated by activities of
+such units or agencies; and, subject to limitation by the Board, members of the general
+public hauling wastes generated by such person and not collected from other persons.
+(8)
+All service under a franchise or permit shall be subject to applicable laws and regulations,
+and to permit conditions and decisions of administrative, legislative and judicial
+agencies having jurisdiction.
+(9)
+A disposal site franchise holder shall not discontinue required service without 90
+days written notice to the Board and to any collection franchise or permit holders
+having a contract to use the site. Board approval shall be obtained before such discontinuance.
+This paragraph does not apply to discontinuation of service pursuant to subsections
+1-8 of this section.
+(10)
+No holder is required to store, collect, transport, dispose of or resource recover
+any hazardous waste. A holder may engage in 1 or more of those activities apart from
+BCC Chapter 23 as long as such activity is in compliance with all applicable local, state, and federal
+laws.
+(11)
+Except as provided in subsection 8 above, where a governmental unit or agency is the
+landlord of any disposal site, the holder shall comply with all requirements imposed
+by such governmental unit or agency.
+(12)
+A holder may subcontract with another person to provide service upon obtaining written
+permission from Benton County; provided, however, that the holder remains responsible
+for service.
+(13)
+A holder shall make the payments as provided promptly as they become due.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035; Ord. 2003-0183]
+
+ ### 23.415 - Preventing Interruption of Service.
+
+Each holder shall agree in writing and it shall be a condition of the franchise or
+permit that whenever the Board determines that the failure of service, or threatened
+failure of service, would result in creation of an immediate and serious health hazard
+or serious public nuisance, the Board may, after a minimum of 24 hours written notice
+to the holder authorize County personnel or other persons to temporarily provide the
+service or to use and operate the land, facilities or equipment of the holder. The
+Board may authorize whatever expenses are necessary to operate such land, facilities
+or equipment consistent with BCC Chapter 23 . The Board shall return any seized property and business upon the abatement of the
+actual or threatened interruption of service.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035]
+
+ ### 23.420 - Fees.
+
+(1)
+The holder of any franchise or permit granted pursuant to BCC Chapter 23 shall pay the following fees:
+(a)
+Except as provided below, a collection franchise holder shall pay a fee not to exceed
+5% of the gross cash receipts from franchised collection service.
+(b)
+A disposal site franchise holder shall pay an annual franchise fee. The franchise
+fee shall be set by agreement.
+(c)
+A recycling or reuse permit holder shall pay an annual fee. The Board may waive this
+fee in order to promote reuse or recycling. Where recycling or reuse services are
+provided by a collection franchise, the collection franchise holder shall pay the
+same annual fee as for a recycling or reuse permit and such service shall not be included
+in the percentage of gross receipts established above for a collection franchise.
+(2)
+The collection franchise fee shall be computed and be payable to Benton County quarterly
+within 30 days from the end of the calendar quarter. The fee shall be accompanied
+by a sworn statement of gross receipts. Each collection franchisee shall maintain
+sufficient books and records to disclose the gross receipts from the service area
+and shall make such books and records available at reasonable times and places for
+audit by authorized personnel of Benton County. The Board may specify reasonable requirements
+for keeping such books and records.
+(3)
+Where reasonably required by the Board, the holder of a disposal site franchise or
+a permit shall maintain books and records disclosing gross receipts at the disposal
+site or under the permit, which books and records shall be available at reasonable
+times and places for audit by authorized personnel of Benton County, subject to the
+terms of the franchise agreement.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035; Ord. 2000-0165]
+
+ ### RATES
+
+ ### 23.505 - Rate Structure.
+
+(1)
+A holder may charge and collect reasonable compensation from persons to whom it furnishes
+services. The term "reasonable compensation" may be defined by the Board after a study
+and consideration of rates for similar service under similar conditions in other areas,
+and as affected by local conditions, and which allows a holder to earn a reasonable
+rate of return. This subsection shall not apply to disposal site franchise holders.
+
+ ### 23.510 - Procedure for Rate Change.
+
+(1)
+A holder shall provide the Board with a certified copy of its published rate schedule,
+setting out the rates for all its operations. A holder shall file with the Board a
+new or revised rate schedule at least 90 days prior to any contemplated change.
+(2)
+The schedule shall be examined by the Board in a public hearing. The Board may either
+approve or deny the rate change, or may request additional information from the holder.
+It shall be approved by the Board no less than 30 days before the effective date,
+unless the delay is caused by failure of the Board to meet or obtain a quorum to conduct
+business.
+(3)
+Notification of the decision of the Board shall be made to the holder by certified
+mail.
+(4)
+In the event of disapproval, a holder shall not put the new rate schedule into effect,
+but may file with the Board further information to justify the rate schedule changes.
+Upon the receipt of the new information, the Board shall determine whether it will
+rehear the request.
+(5)
+The Board may require annual statements and other records to be furnished to the Board
+to carry out the intentions of this section.
+(6)
+In the event of approval of a revised rate schedule, the revised rate schedule shall
+not apply to persons and groups who have an advance payment agreement with the franchisee
+or permittee until the normal expiration of the advance payment agreement.
+(7)
+The maximum approved rates in effect shall be subject to review and change only 1
+time in a calendar year beginning January 1st; provided:
+(a)
+Upon application and without prior notice, the Board may, by order, grant an interim
+or emergency rate for new, special or different service. The Board may specify the
+duration of the rate or continue it until final determination by the Board on the
+next overall rate adjustment.
+(b)
+In addition to an annual rate adjustment, a supplemental rate adjustment may be requested
+when the cost of service is increased due to compliance with governmental regulations;
+or when there is substantial increase in a single expense that was not anticipated
+at the time of the last rate adjustment; or when the total cost of service exceeds
+projected costs by 5% or more.
+(8)
+The Board shall support a decision to revise rates with findings of fact. In making
+its findings, the Board may consider rates charged by other persons performing the
+same or similar service. The Board shall give due consideration to current and projected
+revenue and expense; actual and overhead expense; the cost of acquiring and replacement
+of equipment; management costs; the cost of providing for future, added or different
+service; promotion and provision of source separation services; a reasonable return
+to holder for doing business; research and development; systems to avoid or recover
+the costs of bad debts; interest payments; and such other factors as the Board deems
+relevant.
+(9)
+Subsections 1 through 8 shall not apply to disposal site franchise holders or franchised
+waste haulers for Refuse Rate Index adjustments as approved by Board order.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035; Ord. 2000-0165; Ord. 2003-0183; Ord. 2013-0252]
+
+ ### 23.515 - Penalty Fee for Uncovered Loads.
+
+Disposal sites may apply a penalty fee for uncovered loads.
+[Ord. 2000-0165]
+
+ ### OVERSIGHT AND ENFORCEMENT
+
+ ### 23.605 - Accounting Records.
+
+The holder shall keep a complete and accurate set of books which shall reflect the
+gross receipts from service rendered inside Benton County outside the boundaries of
+incorporated cities. These books shall be balanced at least annually. A statement
+showing the basis for the quarterly fee payment shall be furnished to Benton County
+on each payment date. Benton County shall have the right to inspect the books and
+records of a holder at all reasonable times and places, and a holder shall render
+all reasonable assistance to Benton County, its officers, agents and employees when
+Benton County desires to audit or inspect the books and records. This section shall
+not apply to disposal site franchise holders.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035; Ord. 2000-0165]
+
+ ### 23.610 - Enforcement and Penalties.
+
+(1)
+If the holder fails to promptly comply with any duty imposed, then Benton County may,
+after written notice to the holder and a reasonable opportunity to comply, proceed
+to perform the duty at the cost of the holder, which shall immediately become liable
+to Benton County for all expenses incurred by Benton County in fulfilling the obligation.
+(2)
+The Board reserves the right to make further regulations as deemed necessary to protect
+the welfare of the public.
+(3)
+A holder shall at all times be subject to applicable laws of the State of Oregon.
+A violation of state law if found by the Board to be substantial and material to the
+policy of this ordinance, may be deemed by the Board as a breach of the franchise
+or permit.
+(4)
+A waiver by Benton County of a breach of any term of a franchise or permit or BCC
+Chapter 23 shall not operate as a waiver of a subsequent breach.
+(5)
+If a holder breaches in any of the terms or payments required under the terms of BCC
+Chapter 23 , and such default continues for a period of 10 days after receipt of written notification
+sent by certified mail by the Department, then Benton County may revoke the franchise
+or permit and the holder shall cease any solid waste service. This subsection shall
+not apply to disposal site franchise holders.
+(6)
+Where a breach occurs for reasons not within the control of holder, such as lack of
+specialized equipment, personnel or similar reasons, the Board shall give a holder
+reasonable opportunity to comply before revoking the franchise or permit. This subsection
+shall not apply to disposal site franchise holders.
+(7)
+Should a holder become insolvent, or acquire financial or legal encumbrances which
+materially affect its ability to comply with the terms of its permit or franchise
+or the requirements of BCC Chapter 23 , Benton County may revoke the franchise or permit, and any other agreements entered
+into concerning solid waste management.
+(8)
+Violation of BCC Chapter 23 shall be deemed to be a violation of County laws and is punishable upon conviction
+by a fine of not more than $500; provided, however, that each day of continued violation
+is a separate offense and is separately punishable, but may be joined in a single
+prosecution. In addition, Benton County shall have the right to pursue any other remedy
+provided to it in law or in equity.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035; Ord. 2000-0165]
+
+ ### 23.615 - Appeals.
+
+(1)
+An action of a holder under BCC Chapter 23 may be appealed to the Department.
+(2)
+An action of the Department under BCC Chapter 23 may be appealed to the Board.
+(3)
+Disputes arising under a collection franchise or permit or BCC Chapter 23 between Benton County and a holder or applicant shall be subject to judicial review
+in the Circuit Court of the State of Oregon for Benton County.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035; Ord. 2000-0165]
+
+ ### RESPONSIBILITIES OF SERVICE USERS
+
+ ### 23.705 - Public Responsibilities.
+
+(1)
+No person shall place hazardous wastes out for collection or disposal by the collection
+franchise holder nor place it into any solid waste container supplied by the holder
+without prior notice to, and written approval from, the holder. Prior to the notice
+to the collection franchise holder, a person wishing to have such wastes collected
+shall obtain the approval of the disposal site franchise holder. Where required, an
+additional approval shall be obtained from the local governmental unit having jurisdiction
+over the disposal site. This disposal approval shall be in writing, signed by the
+person designated by the disposal site or local government unit affected. Either the
+holder or the disposal site or the local government unit having jurisdiction of the
+disposal site may require written authorization from the Oregon Department of Environmental
+Quality for the handling of hazardous wastes. This subsection does not apply to household
+waste generated by a single family residential dwelling unit.
+(2)
+No person shall accumulate or store wastes in violation of the Benton County Nuisance
+Abatement Section or in violation of regulations of the Oregon Environmental Quality
+Commission.
+(3)
+A franchisee is not required to service an underground container unless the person
+responsible for it places the can above ground prior to collection.
+(4)
+No person shall, unless permitted by a holder, install or use any container of 1 yard
+or greater capacity for pickup by a holder, other than those supplied by a holder.
+The purpose of this subsection is to ensure safe equipment, sizes and weights and
+facilitate holders utilizing the most efficient collection equipment and methods.
+Rates for use of a holder's containers and drop boxes shall be included in the adopted
+rate schedule.
+(5)
+No person shall locate a solid waste container for residential collection service
+behind any locked or latched gate or inside of any structure unless authorized by
+the franchise holder. No person shall block the access to a receptacle.
+(6)
+Each customer shall provide safe and reasonable access to the solid waste or solid
+waste container to a holder's employees.
+(7)
+No container designed for mechanical pickup shall exceed safe loading weights or volumes
+as established by a holder to protect service workers, the customer, and collection
+equipment.
+(8)
+No unauthorized person shall utilize, or remove material from, a solid waste collection
+container without permission of the owner of the container. For purposes of this section,
+a holder is the "owner" of containers supplied by the holder.
+(9)
+No person shall remove solid waste disposed for collection and resource recovery except
+the disposer or a holder. This subsection does not apply to the purchase of materials
+for fair market value under a certificate issued pursuant to BCC 23.110 (3), or by a person exempt under BCC 23.110 (1) where placed out for collection by such person.
+(10)
+Where a customer requires a large volume or special type of service requiring substantial
+investment in equipment, a holder may require a contract with the customer to finance
+such equipment. The purpose of this subsection is to assure that any specialized equipment
+not become a charge against other ratepayers.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035; Ord. 2003-0183]
+
+ ### 23.710 - Ownership of Wastes.
+
+Unless exempted under this ordinance, solid waste placed out for collection by another
+person is the property of the holder designated by the Board to provide service for
+that area.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035]
+
+ ### 23.715 - Responsibility for Payment for Service.
+
+A person who receives service shall be responsible for payment for the service. The
+landlord of any premises shall be responsible for payment for service provided to
+that premises if the tenant does not pay for the service.
+[Ord. 1, adopted March 31, 1971; Ord. 23, adopted December 17, 1980; Ord. 85-0023;
+Ord. 86-0035]

@@ -1,0 +1,700 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-general_code_ch11becobuco
+title: 'CHAPTER 11 - BENTON COUNTY BUILDING CODE'
+doc_type: ordinance
+citation: 'CHAPTER 11 - BENTON COUNTY BUILDING CODE'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH11BECOBUCO&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: c332b0973efe3fbfcbea459f640450ea8484b7be7da313ff4a042636190155a1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 455.020
+    - ORS 455.690
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CHAPTER 11 - BENTON COUNTY BUILDING CODE (CHAPTER 11 - BENTON COUNTY BUILDING CODE)
+
+## At a glance
+
+CHAPTER 11 - BENTON COUNTY BUILDING CODE — code of Benton County. 68 sections.
+
+## Full text
+
+ ### CHAPTER 11 - BENTON COUNTY BUILDING CODE
+
+ ### ADMINISTRATION AND ENFORCEMENT
+
+ ### 11.000 - Jurisdiction.
+
+The Benton County Building Code shall apply in all areas of Benton County except to
+the extent which incorporated cities within the county have elected, Pursuant to ORS
+455.020, to administer all or part of the codes listed in the Benton County Code.
+[Ord. 97-0123]
+
+ ### 11.005 - Title.
+
+These regulations shall be known as the Benton County Building Code, may be cited
+as such and will be referred to herein as "this code."
+[Ord. 97-0123]
+
+ ### 11.010 - Purpose.
+
+The purpose of this code is to establish uniform performance standards providing reasonable
+safeguards for health, safety, welfare, comfort and security of the residents of this
+jurisdiction who are occupants and users of buildings and for the use of modern methods,
+devices, materials, techniques and practicable maximum energy conservation.
+[Ord. 97-0123]
+
+ ### 11.015 - Scope.
+
+This code shall apply to the construction, alteration, moving, demolition, repair,
+maintenance and work associated with any building or structure except those located
+in a public way.
+(1)
+Where, in any specific case, different sections of this code specify different materials,
+methods of construction or other requirements, the most restrictive shall govern.
+Where there is a conflict between a general requirement and a specific requirement,
+the specific requirement shall be applicable.
+(2)
+Where, in any specific case, there is a conflict between this code and Oregon Revised
+Statute, the statute shall govern.
+[Ord. 97-0123]
+
+ ### 11.020 - Definitions.
+
+For the purpose of this code, the following definition shall apply:
+(1)
+"Building Official" shall mean the Chief Building Official.
+[Ord. 97-0123]
+
+ ### 11.025 - Alternate Materials and Methods.
+
+The provisions of this code are not intended to prevent the use of any alternate material,
+design or method of construction not specifically prescribed by this code, provided
+such alternate has been approved and its use authorized by the building official.
+(1)
+The building official may approve any such alternate material, design or method, provided
+the building official finds that the proposed material, design or method complies
+with the provisions of this code and that it is, for the purpose intended, at least
+the equivalent of that prescribed in this code in suitability, strength, effectiveness,
+fire resistance, durability, safety and sanitation.
+(2)
+The building official shall require that evidence or proof be submitted to substantiate
+any claims that may be made regarding its use. The details of any approval of any
+alternate material, design or method shall be recorded and entered in the files of
+the agency.
+[Ord. 97-0123]
+
+ ### 11.030 - Modifications.
+
+When there are practical difficulties in carrying out the provisions of this code,
+the building official may grant modifications provided the building official finds
+that the modification is in conformance with the intent and purpose of this code and
+that said modification does not lessen any fire-protection requirements nor the structural
+integrity of the building involved. Any action granting modification shall be recorded
+in the files of the code enforcement agency.
+[Ord. 97-0123]
+
+ ### 11.035 - Tests.
+
+(1)
+Whenever there is insufficient evidence of compliance with the provisions of this
+code or that any material, method or design does not conform to the requirements of
+this code, the building official may require tests as proof of compliance to be made
+at no expense to this jurisdiction.
+(2)
+Test methods shall be as specified by this code or by other recognized test standards.
+If there are no recognized and accepted test methods for the proposed alternate, the
+building official shall determine test procedures.
+(3)
+All tests shall be made by an approved testing agency. Reports of such tests shall
+be retained by the building official for the period required for the retention of
+public records.
+[Ord. 97-0123]
+
+ ### 11.040 - Powers and Duties of Building Official.
+
+ ### 11.045 - General.
+
+(1)
+There is hereby established a code enforcement agency which shall be under the administrative
+and operational control of the building official.
+(2)
+The building official is authorized to enforce all the provisions of this code.
+(3)
+The building official shall have the power to render written and oral interpretations
+of this code and to adopt and enforce administrative procedures in order to clarify
+the application of its provisions. Such interpretations, rules, and regulations shall
+be in conformance with the intent and purpose of this code.
+[Ord. 97-0123]
+
+ ### 11.050 - Deputies.
+
+In accordance with prescribed procedures and with the approval of the appointing authority,
+the building official may appoint technical officers and inspectors and other employees
+to carry out the functions of the code enforcement agency.
+[Ord. 97-0123]
+
+ ### 11.055 - Right of Entry.
+
+When it may be necessary to inspect to enforce the provisions of this code, or the
+building official has reasonable cause to believe that there exists, in a building
+or upon a premises, a condition which is contrary to or in violation of this code,
+or which otherwise makes the building or premises unsafe, dangerous or hazardous,
+the building official may enter said building or premises at reasonable times to inspect
+or to perform the duties imposed by this code, provided that if such building or premises
+be occupied that credentials be presented to the occupant and entry requested. If
+such building or premises be unoccupied, the building official shall first make a
+reasonable effort to locate the owner or other person having charge or control of
+the building or premises and request entry. If entry is refused, the building official
+shall have recourse to the remedies provided by ORS to secure entry.
+[Ord. 97-0123]
+
+ ### 11.060 - Stop Work Orders.
+
+Whenever any work is being done contrary to the provisions of this code (or other
+pertinent laws or ordinances implemented through its enforcement), the building official
+may order the work stopped by notice in writing served on any person(s) engaged in
+the doing or causing of such work to be done. Such person(s) shall stop such work
+until specifically authorized by the building official to proceed thereafter.
+[Ord. 97-0123]
+
+ ### 11.065 - Authority to Disconnect Utilities in Emergencies.
+
+The building official or the building official's authorized representative shall have
+the authority to disconnect fuel-gas utility service, and/or other energy supplies
+to a building, structure, premises or equipment regulated by this code when necessary
+to eliminate an immediate hazard to life or property. The building official shall,
+whenever possible, notify the serving utility, the owner and occupant of the building,
+structure or premises of the decision to disconnect prior to taking such action, and
+shall notify such serving utility, owner and occupant of the building, structure or
+premises in writing of such disconnection within a reasonable time thereafter.
+[Ord. 97-0123]
+
+ ### 11.070 - Authority to Abate Hazardous Equipment.
+
+(1)
+When the building official ascertains that equipment, or any portion thereof, regulated
+by this code has become hazardous to life, health or property, the building official
+shall order the equipment either removed from its location or restored to a safe and/or
+sanitary condition, as appropriate. The notice shall be in writing and contain a fixed
+time limit for compliance. Persons shall not use the defective equipment after receiving
+the notice.
+(2)
+When equipment or an installation is to be disconnected, written notice of the disconnection
+(and causes therefor) shall be given within 24 hours to the involved utility, the
+owner and/or occupant of the building, structure or premises. When equipment is maintained
+in violation of this code and in violation of a notice issued pursuant to the provisions
+of this section, the building official may institute such action as he/she deems necessary
+to prevent, restrain, correct or abate the violation.
+[Ord. 97-0123]
+
+ ### 11.075 - Connection After Order to Disconnect.
+
+No person shall make a connection to or from an energy, fuel or power supply to any
+equipment regulated by this code which has been disconnected or ordered disconnected
+or discontinued by the building official until the building official specifically
+authorizes the reconnection and/or use of such equipment.
+[Ord. 97-0123]
+
+ ### 11.080 - Maintenance.
+
+All buildings and structures, both existing and new, and all parts thereof, shall
+be maintained in a safe and sanitary condition. All devices or safeguards which are
+required by this code shall be maintained in conformance with the code edition under
+which installed. The owner or the owner's designated agent shall be responsible for
+the maintenance of buildings and structures. To determine compliance with this section,
+the building official may cause a structure to be re-inspected.
+[Ord. 97-0123]
+
+ ### 11.085 - Occupancy Violations.
+
+Whenever any building, structure or equipment therein regulated by this code is used
+contrary to the provisions of this code, the building official may order such use
+discontinued and the structure (or portion thereof) vacated. All persons using the
+structure (or portion thereof) shall discontinue the use within the time prescribed
+by the building official in his notice and make the structure, or portion thereof,
+comply with the requirements of this code.
+[Ord. 97-0123]
+
+ ### 11.090 - Appeals.
+
+ ### 11.095 - Appeal Procedure.
+
+(1)
+Any person aggrieved by a decision of the building official made pursuant to the following
+specialty codes may appeal that decision to the following:
+(a)
+Electrical Specialty Code - appeals may be made to the State of Oregon, Building Codes
+Division, Chief Electrical Inspector.
+(b)
+Structural Specialty Code - appeals may be made to the State of Oregon, Building Codes
+Structures Board.
+(c)
+Mechanical Specialty Code - appeals may be made to the State of Oregon, Building Codes
+Structures Board.
+(d)
+Plumbing Specialty Code - appeals may be made to the State of Oregon, Building Codes
+Division.
+(e)
+One and Two Family Dwelling Specialty Code - appeals may be made to the State of Oregon,
+Building Codes Structures Board.
+(f)
+Manufactured Dwelling Code - appeals may be made to the State of Oregon, Manufactured
+Structures and Parks Advisory Board as per ORS 455.690.
+(g)
+Recreational Park and Organizational Camp Regulations - appeals may be made to the
+State of Oregon, Manufactured Structures and Parks Advisory Board as per ORS 455.690.
+(2)
+An appeal shall be in writing, shall describe the basis for the appeal and shall first
+be filed with the building official.
+[Ord. 97-0123]
+
+ ### 11.100 - Plans and Permits.
+
+(1)
+The building official shall neither recognize nor accept a permit application for
+the construction, reconstruction, alteration, or repair of a Group R-5 wheeled residential
+structure (commonly referred to as "tiny house on wheels") as defined by 2018 Oregon
+Reach Code R119.1.2. Placement of such structure is subject to the provisions of BCC
+Ch. 11.263 .
+
+ ### 11.105 - Issuance.
+
+(1)
+The application, plans, specifications, computations and other data filed by an applicant
+for a permit shall be reviewed by the building official. Such plans may be reviewed
+by other departments of this jurisdiction to verify compliance with any applicable
+laws under their jurisdiction. If the building official finds that the work described
+in application for a permit and the plans, specifications and other data filed therewith
+conform to the requirements of this code and other pertinent laws and ordinances,
+and that the fees have been paid, the building official shall issue a permit therefor
+to the applicant.
+(2)
+When the building official issues the permit where plans are required, the building
+official shall endorse in writing or stamp the plans and specifications APPROVED.
+Such approved plans and specifications shall not be changed, modified and altered
+without authorizations from the building official, and all work regulated by this
+code shall be done in accordance with the approved plans.
+(3)
+The building official may issue a permit for the construction of part of a building
+or structure before the entire plans and specifications for the whole building or
+structure have been submitted or approved, provided adequate information and detailed
+statements have been filed complying with all pertinent requirements of this code.
+The holder of a partial permit may proceed without assurance that the permit for the
+entire building or structure will be granted.
+[Ord. 97-0123]
+
+ ### 11.110 - Retention of Plans.
+
+One (1) set of approved plans, specifications and computations shall be retained by
+the building official for a period of not less than 90 days from date of completion
+of the work covered therein; and 1 set of approved plans and specifications shall
+be returned to the applicant. Said set shall be kept on the site of the building or
+work at all times during which the work authorized thereby is in progress.
+[Ord. 97-0123]
+
+ ### 11.115 - Validity of Permit.
+
+(1)
+The issuance or granting of a permit or approval of plans, specifications and computations
+shall not be construed to be a permit for, or an approval of, any violation of any
+of the provisions of this code or of any other ordinance of the jurisdiction or any
+other federal, state, or local law, statute, rule, regulation, or ordinance.
+(2)
+The issuance of a permit based on plans, specifications and other data shall not prevent
+the building official from thereafter requiring the correction of errors in said plans,
+specifications and other data, or from preventing building operations being carried
+on thereunder when in violation of this code or of any other ordinances of this jurisdiction.
+[Ord. 97-0123]
+
+ ### 11.120 - Expiration of Plan Reviews.
+
+Applications for which no permit is issued within 180 days following the date of the
+application shall expire by limitation, and plans and other data submitted for review
+may thereafter be returned to the applicant or destroyed by the building official.
+The building official may extend the time for action by the applicant for a period
+not to exceed 180 days on request by the applicant showing that circumstances beyond
+the control of the applicant have prevented action from being taken. No application
+shall be extended more than once. In order to renew action on an application after
+expiration, the applicant shall resubmit plans and pay a new plan review fee.
+[Ord. 97-0123]
+
+ ### 11.125 - Permit Expiration, Extension and Reinstatement.
+
+(1)
+Every permit issued by the building official under the provisions of this code shall
+expire by limitation and become null and void if the building or work authorized is
+not commenced within the time limitations set forth in this section.
+(2)
+Every permit issued by the building official shall expire by limitation and become
+null and void if the building or work authorized by such permit is not commenced within
+180 days from the date of such permit, or if the building or work authorized by such
+permit is suspended or abandoned at any time after the work is commenced for a period
+of 180 days. The work shall not be considered suspended or abandoned where the permittee
+has pursued activities deemed by the building official to indicate the intent to start
+and complete the project. The building official may require the permittee to document
+these activities.
+(3)
+Every permit issued by the building official shall expire by limitation and become
+null and void 6 months after the date of permit issuance. If the building or work
+authorized by such permit has not received final inspection approval prior to the
+permit expiration date, all work shall stop until a new permit is obtained for the
+value of the work remaining unfinished.
+(4)
+Exception. At the time of permit issuance, the building official may approve a period exceeding
+12 months for completion of work when the permittee can demonstrate that the complexity
+or size of the project makes completing the project within 12 months unreasonable.
+The permittee shall pay an extension fee.
+(5)
+Any permittee holding an unexpired permit may apply for an extension of the time within
+which work is to be completed under that permit when the permittee is unable to complete
+work within the time required by this section for good and satisfactory reasons. The
+building official may extend the time for action by the permittee for a period not
+to exceed 180 days, on written request by the permittee, showing that circumstances
+beyond the control of the permittee have prevented work from being completed. No permit
+shall be extended more than once.
+(6)
+Where a permit has expired, the permit can be reinstated and the work authorized by
+the original permit can be recommenced, provided the following are met:
+(a)
+The Building Code under which the original permit was issued and other laws which
+are enforced by the code enforcement agency have not been amended in any manner which
+affects the work authorized by the original permit.
+(b)
+No changes have been made or will be made in the original plans and specifications
+for such work.
+(c)
+The original permit expired less than 1 year from the request to reinstate.
+(7)
+The fee for a reinstated permit shall be ½ the amount required for a new permit or
+a permit reinstatement fee approved by the building official prior to expiration.
+Where the request for reinstatement does not comply with the preceding criteria, a
+new permit, at full permit fees, shall be required.
+[Ord. 97-0123]
+
+ ### 11.130 - Work Without a Permit/Investigation Fees.
+
+(1)
+Whenever any work for which a permit is required by this code has been commenced without
+first obtaining said permit, a special investigation shall be made before a permit
+may be issued for such work.
+(2)
+An investigation fee, in addition to the permit fee, may be collected whether or not
+a permit is then or subsequently issued. The payment of such investigation fee shall
+not exempt any person from compliance with all other provisions of this code nor from
+any penalty prescribed by law.
+[Ord. 97-0123]
+
+ ### 11.135 - Not Transferable.
+
+A permit issued to one person or firm is not transferable and shall not permit any
+other person or firm to perform any work thereunder.
+[Ord. 97-0123]
+
+ ### 11.140 - Suspension/Revocation.
+
+The building official may, in writing, suspend or revoke a permit issued under the
+provisions of this code whenever the permit is issued in error on the basis of information
+supplied being incorrect, or if its issuance (or activity thereunder) is in violation
+of any ordinance or regulation of any other provision of the County code.
+[Ord. 97-0123]
+
+ ### 11.145 - Inspections.
+
+(1)
+It shall be the duty of the permit holder or authorized agent to request all inspections
+that may be necessary or otherwise required in a timely manner, provide access to
+the site, and to provide all equipment as may be deemed necessary or appropriate by
+the building official. The permit holder shall not proceed with construction activity
+until authorized to do so by the building official. It shall be the duty of the permit
+holder to cause the work to remain accessible and exposed for inspection purposes.
+Any expense incurred by the permit holder to remove or replace any material required
+for proper inspection shall be the responsibility of the permit holder or his agent.
+(2)
+Work requiring a permit shall not be commenced until the permit holder or an agent
+of the permit holder has posted, or otherwise made available, an inspection record
+card such as to allow the building official to conveniently make the required entries
+thereon regarding inspection of the work. This card shall be maintained available
+by the permit holder until final approval has been granted by the building official.
+[Ord. 97-0123]
+
+ ### 11.150 - Structural Code.
+
+ ### 11.155 - Enforcement of State Code.
+
+The Oregon Structural Specialty Code, as adopted by OSR 918-460-010 through 918-460-015,
+except as modified in this code, is enforced as part of this code.
+[Ord. 97-0123]
+
+ ### 11.160 - Adoption of Fire Flow Requirements (OPTIONAL).
+
+Appendix
+Chapter 9 Division II
+of the 1996 edition of the Oregon Structural Specialty Code is adopted as part of
+this code with the following modifications:
+
+ ### 11.165 - Decreases.
+
+Fire-flow requirements may be modified downward by joint approval of the building
+official and the Chief of the Fire Department for isolated buildings or a group of
+buildings in rural areas or small communities where the development of full fire-flow
+requirements is impractical.
+[Ord. 97-0123]
+
+ ### 11.170 - Increases.
+
+Fire-flow requirements may be modified upward by joint approval of the building official
+and the Chief of the Fire Department where conditions indicated an unusual susceptibility
+to group fires or conflagrations. An upward modification shall not be more than twice
+that required for the building under construction.
+[Ord. 97-0123]
+
+ ### 11.175 - Required Fire Flow.
+
+No building shall be constructed, altered, enlarged, or repaired in a manner that
+by reason of size, type of construction, number of stories, occupancy, or any combination
+thereof creates a need for a fire flow in excess of 3000 gallons per minute (1.14
+m
+3
+/min) at 20 pounds per square inch residual pressure, or exceeds the available fire
+flow at the site of the structure, whichever is less.
+[Ord. 97-0123]
+
+ ### 11.180 - Fire Flow Requirements.
+
+Fire flow requirements in excess of 3000 gallons per minute (1.14 m
+3
+/min) for buildings protected with automatic sprinkler systems may be allowed by the
+building official and the Chief of the Fire Department when:
+(a)
+The greater flow is made available at the building site through the existing water
+distribution system; and,
+(b)
+Vehicle access as specified in Section 902.2.2 of the Uniform Fire Code is provided
+to all sides of the building.
+[Ord. 97-0123]
+
+ ### 11.185 - Adoption of Additional NFPA Standards (OPTIONAL).
+
+(1)
+National Fire Protection Association (NFPA) standard 20, Centrifugal Fire Pumps (1993
+Edition), is adopted as part of this code.
+(2)
+National Fire Protection Association (NFPA) standard 22, Water Tanks for Private Fire
+Protection (1996 Edition), is adopted as part of this code.
+(3)
+National Fire Protection Association (NFPA) standard 24, Private Fire Service Mains
+and Their Appurtenances (1995 Edition), is adopted as part of this code.
+[Ord. 97-0123]
+
+ ### 11.190 - Mechanical Code.
+
+ ### 11.195 - Enforcement of State Code.
+
+The Oregon Mechanical Specialty Code, as adopted by OAR 918-440-010 through 918-440-040,
+except as modified in this code, is enforced as part of this code.
+[Ord. 97-0123]
+
+ ### 11.200 - Process Piping.
+
+(1)
+Appendix Chapter 14 of the Uniform Mechanical Code, 1994 Edition, published by the International Conference
+of Building Officials, except as modified in the following paragraph, is adopted as
+part of this code.
+(2)
+Section 1401 of this Appendix chapter is modified to read as follows: The regulations
+of this chapter shall govern the installation of hazardous process piping in or in
+conjunction with a building or structure or located upon the premises.
+[Ord. 97-0123]
+
+ ### 11.205 - Plumbing Code.
+
+ ### 11.210 - Enforcement of State Code.
+
+The Oregon Plumbing Specialty Code, as adopted by 918-750-010, except as modified
+in this code, is enforced as part of this code.
+[Ord. 97-0123]
+
+ ### 11.215 - Electrical Code.
+
+ ### 11.220 - Enforcement of State Code.
+
+The Oregon Electrical Specialty Code, as adopted by OAR 918-290-010, except as modified
+in this code, is enforced as part of this code.
+[Ord. 97-0123]
+
+ ### 11.225 - One and Two Family Dwelling Code.
+
+ ### 11.230 - Enforcement of State Code.
+
+The Oregon One and Two Family Dwelling Specialty Code, as adopted by OAR 918-480-000
+through 918-480-010, except as modified in this code, is enforced as part of this
+code.
+[Ord. 97-0123]
+
+ ### 11.235 - Manufactured Dwelling Code.
+
+ ### 11.240 - Parks.
+
+ ### 11.245 - Enforcement of State Rules.
+
+The manufactured dwelling park and mobile home park rules adopted by OAR 918-600-005
+through 918-600-110, except as modified in this code, are enforced as part of this
+code.
+[Ord. 97-0123]
+
+ ### 11.250 - Manufactured Home Installations.
+
+ ### 11.255 - Enforcement of State Rules.
+
+The manufactured dwelling rules adopted by OAR 918-500-000 through 918-500-500 and
+OAR 918-520-010 through 918-520-020, except as modified in this code, are enforced
+as part of this code.
+[Ord. 97-0123]
+
+ ### 11.260 - Recreational Park and Organizational Camp Regulations.
+
+ ### 11.263 - Tiny Houses, R-5 Occupancy.
+
+Placement of Group R-5 wheeled residential structure, as defined by 2018 Oregon Reach
+Code R119.1.2, is subject to the standards regarding Occupancy of Recreational Vehicles
+in Chapter 91 of the Benton County Development Code.
+
+ ### 11.265 - Enforcement of State Rules.
+
+The recreational park and organizational camp rules adopted by OAR 918-650-000 through
+918-650-085, except as modified in this code, are enforced as part of this code.
+[Ord. 97-0123]
+
+ ### 11.270 - Dangerous Buildings Code.
+
+ ### 11.275 - Unsafe Buildings.
+
+(1)
+All buildings or structures regulated by this code which are structurally unsafe or
+not provided with adequate egress, or which constitute a fire hazard, or are otherwise
+dangerous to human life are, for the purpose of this section, unsafe. Any use of buildings
+or structures constituting a hazard to safety, health or public welfare by reason
+of inadequate maintenance, dilapidation, obsolescence, fire hazard, disaster, damage
+or abandonment is, for the purpose of this section, an unsafe use. Parapet walls,
+cornices, spires, towers, tanks, statuary and other appendages or structural members
+which are supported by, attached to, or a part of a building and which are in deteriorated
+condition or otherwise unable to sustain the design loads which are specified in this
+code, are hereby designated as unsafe building appendages.
+(2)
+All such unsafe buildings, structures or appendages are hereby declared to be public
+nuisances and shall be abated by repair, rehabilitation, demolition or removal in
+accordance with the procedures set forth in the Dangerous Buildings Code, or such
+alternate procedures as may have been or as may be adopted by this jurisdiction. As
+an alternative, the building official, or another employee or official of this jurisdiction
+as designated by the governing body, may institute any other appropriate action to
+prevent, restrain, correct or abate the violation.
+[Ord. 97-0123]
+
+ ### 11.280 - Adoption of Uniform Code for the Abatement of Dangerous Buildings.
+
+The 1994 ICBO Uniform Code for the Abatement of Dangerous Buildings is adopted as
+part hereof, except as modified by this jurisdiction in 11.295 .
+[Ord. 97-0123]
+
+ ### 11.285 - Supplementary Definitions.
+
+(1)
+"Board of Appeals" means Board of Appeals established by the Boards and Commissioners Chapter 11 , Section 11.090 and 11.095 .
+[Ord. 97-0123]
+
+ ### 11.290 - Deleted Provisions.
+
+The following Sections and Chapters of the Dangerous Building Code as adopted by subsection
+11.280 above are hereby deleted: Sections 205, 802, 906, 908, 909, 910, 911, and 912, and
+Chapters 5 and 6.
+[Ord. 97-0123]
+
+ ### 11.295 - Time Period for Appeal.
+
+Notwithstanding Section 401.2.5 of the Dangerous Building Code as adopted by subsection
+11.270 and 11.275 above, the time period for appeals from notices, orders, or actions of the building
+official shall be 10 days.
+[Ord. 97-0123]
+
+ ### 11.300 - Lien.
+
+Any assessment imposed pursuant to Chapter 9 of the Dangerous Building Code as adopted by subsection 11.280 above shall be deemed to be complete immediately upon its being placed on the assessment
+roll, and the several amounts assessed shall be payable, and the assessments shall
+be liens against the lots or parcels of land assessed, respectively. All such assessments
+remaining unpaid after 30 days from the date of recording on the assessment roll shall
+become delinquent and shall bear interest at the rate of 10% per annum from and after
+said date. The lien shall be enforced in the manner provided in ORS Chapter 223 and
+shall have priority over all such other liens and encumbrances of any character. Pursuant
+to Chapter 9 of the Dangerous Buildings Code as adopted by subsection 11.280 of this section, the Board of Commissioners as the legislative body of the County,
+elects to treat costs associated with the abatement of dangerous buildings as a routine
+obligation of property owners. Therefore, any municipal costs incurred in the abatement
+of any dangerous building shall be an assessment against the property where the building
+is located.
+[Ord. 97-0123]
+
+ ### 11.305 - Rules.
+
+The Building Official is authorized to promulgate additional administrative rules
+and regulations related to the efficient administration and enforcement of the Uniform
+Code for Building Conservation.
+[Ord. 97-0123]
+
+ ### 11.310 - Fees.
+
+(1)
+Fees charged under this code shall be as provided in Chapter 1 , BCC.
+(2)
+The building official may authorize the refunding of fees paid in accordance with
+the refund policy in effect in the jurisdiction.
+(3)
+The determination of value or valuation under any provisions of this code shall be
+made by the building official. The value to be used in computing the building permit
+and plan review fees shall be the total value of all construction work for which the
+permit is issued as well as all finish work, painting, roofing, electrical, plumbing,
+heating, air conditioning, elevators, fire-extinguishing systems and any other permanent
+equipment.
+[Ord. 97-0123]
+
+ ### 11.315 - Severability.
+
+If any section, paragraph, subdivision, clause, sentence, or provisions of this code
+shall be adjudged by any court of competent jurisdiction to be unconstitutional or
+invalid, such judgment shall not affect, impair, invalidate, or nullify the remainder
+of this code, but the effect thereof shall be confined to the section, paragraph,
+subdivision, clause, sentence or provision immediately involved in the controversy
+in which such judgment or decree shall be rendered, it being the intent of the governing
+body to enact the remainder of this code notwithstanding the parts to be declared
+unconstitutional and invalid.
+[Ord. 97-0123]
+
+ ### 11.320 - Penalties.
+
+The Building Official may enforce any provision of this chapter pursuant to Chapter 26 of the BCC. Any person violating any of the provisions herein for which a special
+penalty has not been expressly provided shall, upon conviction thereof, be punished
+by a fine not to exceed $1000 per violation. Each day that a violation exists is a
+separate offense.
+[Ord. 97-0123; Ord. 99-0147]

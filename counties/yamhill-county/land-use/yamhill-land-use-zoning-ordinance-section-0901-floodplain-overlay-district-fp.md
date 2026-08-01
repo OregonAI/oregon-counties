@@ -1,0 +1,515 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-0901-floodplain-overlay-district-fp
+title: 'Zoning-Ordinance-Section-0901-Floodplain-Overlay-District-FP-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-0901-Floodplain-Overlay-District-FP-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8494/Zoning-Ordinance-Section-0901-Floodplain-Overlay-District-FP-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c626ef43776bebba7062a684d923e5d377b3cd28781c495c369aa5d96d3a5af9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zoning-Ordinance-Section-0901-Floodplain-Overlay-District-FP-PDF (Zoning-Ordinance-Section-0901-Floodplain-Overlay-District-FP-PDF)
+
+## At a glance
+
+Zoning-Ordinance-Section-0901-Floodplain-Overlay-District-FP-PDF — land use of Yamhill County. 10 pages.
+
+## Full text
+
+This section and related information is available at
+www.co.yamhill.or.us/plan/planning/ordinance/zoning_toc.asp
+
+SECTION 900 B OVERLAY DISTRICTS
+
+901. FLOODPLAIN OVER LAY DISTRICT (FP)
+[Last Amended 10/17/2013; Ord.884]
+
+901.01 Purpose.
+
+The purpose of the FP Overlay District is to promote the public health, safety and general welfare, and
+to minimize public and private losses due to floo d damage by establishing methods and provisions
+designed to recognize such hazards.
+
+901.02 Area of Application
+
+A. The provisions of this section shall apply to  all areas of special flood hazards in the county
+identified as the FP Overlay District , and includes those areas of special flood hazard
+identified by the Federal Insurance Administra tion in a scientific and engineering report
+entitled AThe Flood Insurance Study for Yamhill County, Oregon and Incorporated Areas @
+dated March 2, 2010, with accompanying Flood Insurance Rate Map (FIRM), which study and
+map are hereby adopted by reference and declared  to be a part of this ordinance. The Flood
+Insurance Study and FIRM are on file at th e Yamhill County Department of Planning and
+Development, McMinnville, Oregon. [Amended 2/24/2010; Ord.851]
+
+B. The FP Overlay District shall be combined with at least one (1) underlying zoning district, and
+may be combined with any zoning district pursuant to this ordinance.  All property within the
+FP Overlay District shall be subject both to the provisions of this section and to the provisions
+of the underlying zoning district.  Nothing in th is section shall be construed as a waiver or
+suspension of the provisions of any underlying zoning district.
+
+901.03 Use of Other Base Flood Data.
+
+In areas of the FP Overlay District for which flood elevation data are not provided by the FIRM in
+accordance with subsection 901.02, th e applicant shall supply to the county other base flood elevation
+and floodway data or any other evidence availabl e from governmental or private sources that is
+identified by the county as data appropriate to de monstrate compliance with subsection 901.10 and the
+flood protection standards of this section.
+
+901.04 Floodplain Overlay District Use Provisions.
+
+All uses of land and water provided for in the underl ying zoning district may be permitted in the FP
+Overlay District, with the provisions that those uses shall require a floodplain development permit, and
+shall be subject to the provisions set forth in subsection 901.05 through 901.14.  The following uses
+shall not require a floodplain development permit unl ess the uses involve fill or are otherwise deter-
+mined to constitute construction or development:
+
+A. Residential uses such as lawns, ga rdens, parking areas and play areas.
+
+ Yamhill County Zoning Ordinance   Page 901-2
+B. Agricultural uses such as farming, pasture,  grazing, outdoor plant nurseries, horticulture,
+viticulture, truck farming, forestry so d farming and wild crop harvesting.  [Amended 2/24/2010;
+Ord.851]
+
+901.05 Floodplain Development Permit Application.
+
+Except as provided in subsection 901.04, a floodplain development permit shall be obtained before the
+start of any construction or development, incl uding manufactured homes, within the FP Overlay
+District.  In the event a variance is necessary for co nstruction within the floodplain, such application
+shall be processed in conjunction with the floodplain permit application, and sh all be subject to the
+provisions of subsection 901.18.
+
+A floodplain development permit may be authorized pursuant to the Type B application procedure set
+forth in Section 1301 and subject to compliance wi th the review criteria listed in subsections 901.06
+through 901.10.  In addition to the notification requirements of Section 1402, written notice of the
+request and action taken will be sent to the Or egon Department of Fish and Wildlife and the
+Department of Land Conservation a nd Development.  The following information shall be required to
+be provided by the applicant:
+
+A. Elevation in relation to mean sea level of the lowest floor (including basement) of all
+structures.
+
+B. Elevation, expressed in feet above mean sea level, to which an y structure has been
+floodproofed.
+
+C. Certification by a registered professional engineer or architect that the proposed floodproofing
+methods for any nonresidential structure meet the floodproofing criteria in subsection 901.08.
+
+D. Specific data regarding the extent to which any watercourse will be altered or relocated as a
+result of the proposed development.
+[Amended 2/24/2010; Ord.851]
+
+901.06 Floodplain Development Permit Criteria.
+
+Prior to issuance of a floodplain development permit, the applicant must demonstrate that:
+
+A. The proposed development conforms with the permit requirements and conditions of this
+section and the use provisions, standards and limita tions of the underlying zoning district and
+other overlay district. [Amended 2/24/2010; Ord.851]
+
+B. The proposed development, if located within the floodway, satisfies the provisions of
+subsection 901.09.
+
+C. The proposed development will not increase the water surface elevation of the base flood
+more than one (1) foot at any point.
+
+D. All applicable permits have been obtained fro m federal, state or local governmental agencies,
+and all applicable National Flood Insurance Program requirements have been satisfied.
+
+E. The proposed development is consistent with policies j. and k. of the Comprehensive Plan, as
+amended by ordinance 471.
+
+ Yamhill County Zoning Ordinance   Page 901-3
+
+For convenience, Policies j. and k. of the Comprehensive Plan, as amended by Ordinance 471
+are reprinted here.
+
+j. It is the policy of Yamhill County to protect riparian vegetation from damage that may
+result from land use applications for developm ent that is otherwise permitted outright or
+conditionally under county zoning regulations.  To  achieve this goal, Yamhill County will review
+land use applications for development in riparian ar eas in an effort to mitigate or prevent damage to
+riparian vegetation that might result from the deve lopment.  For purposes of this policy, "riparian
+areas" refers to areas within 100 feet measured horizontally from the ordinary high water line of
+streams identified as "Fish Habitat" in the co mprehensive plan inventory (Natural Resource
+Conservation Plan, Yamhill County, Oregon, Ma y 1979 -U.S.D.A. - Soil Conservation Services),
+that are not regulated under the Forest Practices Act. (Ord 471)
+
+k. It is county policy that land use manageme nt practices and nonstructural solutions to
+problems of erosion and flooding are preferred to  structural solutions.  Water erosion control
+structures, including riprap and fill, should be reviewed by the appropriate state permitting authority
+to insure that they are necessary, are designe d to incorporate vegetation where possible, and
+designed to minimize adverse impacts on water currents, erosion, and accretion patterns.
+
+901.07 Floodplain Overlay District General Standards.
+
+In all areas within the FP Overlay District the following standards shall apply:
+
+A. Manufactured Homes.
+
+1. Manufactured homes shall be anchored in  accordance with subsection 901.07 B.
+
+2. No manufactured home park or mobile hom e subdivision shall be developed in the FP
+Overlay District.
+
+B. Anchoring.
+
+1. All new construction and substantial improvements sha ll be anchored to prevent
+flotation, collapse or lateral movement of  the structure.  Except in the case of a
+manufactured home, elevation of a structure on fill above the base flood level shall be
+considered to satisfy the anchoring requirement.
+
+2. All manufactured homes shall be anchored to resist flotation, collapse or lateral
+movement by providing over-the-top and frame ties to ground anchors, subject to the
+following specifications:
+
+(a) Over-the-top ties shall be provided at each corner of the manufactured home,
+with two (2) additional ties per side at intermediate points, or with one (1)
+additional tie per side for manufactured homes less than fifty (50) feet in
+length.
+
+ Yamhill County Zoning Ordinance   Page 901-4
+(b) Frame ties shall be provide at each corner of the manufactured home, with
+five (5) additional ties per side at in termediate points, or with four (4)
+additional ties per side for manufactured home less than fifty (50) feet in
+length.
+
+(c) All components of the anchoring syst em shall be capable of withstanding a
+force of 4,800 pounds per square inch.
+
+(d) Any structure appurtenant to the manufactured home shall be similarly
+anchored.
+
+C. Construction Materials Me thods and Certification.
+
+1. All new construction and substantial im provements to existing structures shall be
+constructed with materials and utility equipment resistant to flood damage.
+
+2. All new construction and substantial improvements shall be  constructed using
+methods and practices that minimize flood damage.
+
+3. Electrical, heating, ventilation, plumbi ng, and air-conditioning equipment and other
+service facilities shall be designed and/or otherwise elevated or located so as to
+prevent water from entering or accumulating within the components during conditions
+of flooding.
+
+4. All new construction and s ubstantial improvements with fully enclosed areas below
+the floor and subject to flooding shall be  designed to automatically equalize the
+hydrostatic forces to exterior walls by a llowing entry and exit of floodwaters.  A
+minimum of two openings having a total net area of not less than one square inch for
+every square foot of floor area subject to the flooding shall be provided.  The bottom
+of all openings shall be no higher than one foot above grade, and may be equipped
+with screens, louvers, or other devices that  automatically permit entry and exit of
+floodwaters.
+
+5. All floodproofed nonresidential construction sh all include certification by a registered
+professional engineer or architect that the standards of this subsection subsection
+901.08 (A) are satisfied based on their devel opment and/or review of the structural
+design, specifications and plans.  Such certif ication shall be provided to the Yamhill
+County Planning Director.
+[Amended 2/24/2010; Ord.851; 10/17/13; Ord 884]
+
+D. Utilities and Services.
+
+1. All new and replacement water supply sy stems shall be designed to minimize or
+eliminate infiltration of flood waters into the system.
+
+2. New and replacement sanitary sewage sy stems shall be designed and located to
+minimize or eliminate flood water infiltr ation and contamination resulting from
+discharge of effluent consistent with th e requirements of the Oregon Department of
+Environmental Quality (DEQ).
+
+ Yamhill County Zoning Ordinance   Page 901-5
+3. On-site waste disposal systems shall be located to avoid impairment to them or
+contamination from them during flooding consistent with the DEQ.
+ [Amended 2/24/2010; Ord.851]
+
+E. Subdivision Proposals.
+No new subdivisions shall be allowed in fl oodway areas.  New subdivisions in flood fringe
+areas shall be subject to the following:
+
+1. All subdivision proposals shall be consistent  with the requirement to minimize flood
+damage.
+
+2. All subdivision proposals shall have public  utilities and facilities, such as sewer, gas,
+electrical and water systems, located and c onstructed to minimize or eliminate flood
+damage. [Amended 2/24/2010; Ord.851]
+
+3. All subdivision proposals shall have adequa te drainage provided to reduce exposure to
+flood damage.
+
+4. Base flood elevations in feet above mean sea level shall be provided for all
+subdivisions and other proposed developments  which contain at least 50 lots or 5
+acres, whichever is less, in the FP Overlay District.
+
+F. Fills and Levees.
+
+Except for approved relocation of a water course, no fill or levee shall extend into a floodway
+area.  Fills or levees in a flood fringe area shall be subject to the following:
+
+1. Fills shall consist only of  natural materials such as earth or soil aggregate and
+including sand, gravel and rock, concrete and metal.
+
+2. Any fill or levee must be shown to have a beneficial purpose and therefore to be no
+greater than is necessary to achieve that purpose, as demonstrated by a plan submitted
+by the owner showing the uses to which th e filled or diked land will be put and the
+final dimensions of the proposed fill.
+
+3. Such fill or levee shall be protected ag ainst erosion by vegetative cover, rip-rap,
+bulkheading or similar provisions.  No fill or levee shall cause additional flood waters
+on adjacent land.      [Amended 10/17/2013; Ord.884]
+
+901.08 Specified Standards for Areas Where Ba se Flood Elevation Data are Available.
+
+In the FP Overlay District where base flood eleva tion data have been provided, as set forth in
+subsection 901.02 or 901.03, the following standards shall apply:
+
+A. For any new residential construction and substa ntial improvement of any residential structure,
+the lowest floor level shall be a minimum of one  (1) foot above the base flood elevation.  New
+construction and substantial improvement of any commercial, industrial or other
+nonresidential structures and accompanying utility and sanitary facilities shall either have the
+lowest floor, including basement, elevated to th e level of the base flood elevation or together
+with attendant utility and sanitary facilities be subject to the following:
+[Amended
+10/17/2013; Ord.884]
+
+ Yamhill County Zoning Ordinance   Page 901-6
+
+1. Be floodproofed so that all portions of the structure below the base flood level are
+watertight, with walls that are substantially impermeable to the passage of water.
+
+2. Have structural components capable of resisting hydrostatic and hydrodynamic loads
+and effects of buoyancy.
+
+B. For the placement of a manufactured home th e bottom of the longitudinal chassis frame beam
+shall be one (1) foot above the base flood elevation, and the provisions of section 901.07(C)(4)
+shall be satisfied, if applicable.  In addition, the mobile home must be elevated on a permanent
+foundation and is subject to the anchoring requirements in subsection 901.07 (B). [Amended
+10/17/2013; Ord.884]
+
+C. Nonresidential structures that are elevated, not floodproofed, shall meet the same standards for
+space below the lowest floor as described in Section 901.07(C).  [Added 10/17/2013; Ord.884]
+
+ D. Recreational vehicles placed on sites are required to either:
+
+1. Be on the site for fewer than 180 consecutive days; or
+
+2. Be fully licensed and ready for highway use, on its wheels or jacking system, is
+attached to the site only by quick disc onnect type security devices, and has no
+permanently attached additions.
+[Amended 2/24/2010; Ord.851]
+
+901.09 Floodway or Watercourse  Development Provisions.
+
+A. The placement of any dwelling in the floodway shall be prohibited.
+
+B. Except those uses provided for in subsecti on 901.04, all development,  including substantial
+improvements, in the floodway shall be prohibited unless certification is provided by a
+registered professional engineer demonstrati ng through hydrologic and hydraulic analyses
+performed in conformance with standard engin eering practice that the proposal will not result
+in any increase in flood levels during the occurrence of the base flood discharge.
+  [Amended 10/17/2013; Ord.884]
+
+C. For any proposed alteration of a waterc ourse a floodplain development permit shall be
+required, and approval of the permit shall be subject to the following additional requirements:
+
+1. Adjacent communities, the State Department  of Land Conservation and Development,
+and other appropriate state and federal agencies shall be notified by the Director of
+any proposed alteration or relocation of  a watercourse, and evidence of such
+notification shall be submitted to the Federal Insurance Administration.
+
+2. All appropriate state and fede ral permits shall be obtained.
+
+3. It shall be the applicant's responsibility to  maintain the altered or relocated portion of
+said watercourse so that its flood carrying capacity is not diminished.
+ [Amended 10/17/2013; Ord.884]
+
+901.10 Review of Permits in Generalized Floodplain Areas.
+
+ Yamhill County Zoning Ordinance   Page 901-7
+Where specific flood elevation data are not ava ilable, pursuant to subsections 901.03 and 901.04,
+applications for floodplain develo pment permits shall be reviewed to ensure that the proposed
+development will be reasonably saf e from flooding or resistant to  flood damage.  In determining
+whether the proposed floodplain development is reas onably safe, historical data, high water marks,
+photographs of past flooding, etc. shall be utilized, where available.  In addition to the applicable
+requirements of this section, the following factors shall be considered when reviewing a floodplain
+development permit for any proposal in an area where specific flood elevation data are not available:
+
+A. The danger to life and property due to flooding or erosion damage.  [Amended 10/17/2013; Ord.884]
+
+B. The danger that materials may be swept onto other lands or downstream to the injury of
+others.
+
+C. The susceptibility of the proposed facility and its  contents to flood damage and the effect of
+such damage on the individual owner.  [Amended 10/17/2013; Ord.884]
+
+D. The availability of alternative locations for the proposed use which are not subject to flooding
+or erosion damage. The importance of the serv ices provided by the proposed facility to the
+community.
+
+E. The necessity to the facility of a waterfront lo cation, where applicable and the compatibility of
+the proposed use with existing and anticipated development.  [Amended 10/17/2013; Ord.884]
+
+F. The relationship of the proposed use to the Comprehensive Plan and any floodplain
+management program of the area.
+
+G. The safety of access to the property in times of flood for ordinary and emergency vehicles.
+
+H. The expected heights, velocity, duration, ra te of rise, and sediment transport of the flood
+waters and the effects of wave action, if applicable, expected at the site.   [Amended 10/17/2013;
+Ord.884]
+
+I. The cost of providing governmental services during and after flood conditions, including
+maintenance and repair of public utilities and facilities such as sewer, gas, electrical, and water
+systems, and streets and bridges.  [Added 10/17/2013; Ord.884]
+
+901.11 Conditions of Approval.
+
+In approving an application for a floodplain development permit, the decision-making body may
+impose such conditions as it deems appropriate to ensure  the intent of this section is carried out.  Such
+conditions shall be reasonably related to the applicab le criteria and standards set forth in subsections
+901.08 through 901.10.
+
+901.12 General Requirements.
+
+Any floodplain development permit authorized pursuan t to this ordinance shall be subject to the
+following additional requirements:
+
+A. An authorized floodplain development permit is not personal to the applicant and shall be
+deemed to run with the land, provided the su bsequent owner or developer adheres to the
+specific proposal originally approved and complies with conditions of approval.
+
+ Yamhill County Zoning Ordinance   Page 901-8
+B. A floodplain development permit involving cons truction shall become null and void 180 days
+from the date it is granted unless substantial c onstruction has taken place.  The Director may
+extend the permit for an additional 180 days if there have been no revisions to the FIRM or
+FIS, upon receipt of a written request for ex tension from the applicant demonstrating good
+cause for the delay and provided that the request  to extend the permit is received by the
+Director prior to the expiration date of the permit.  In the event that a permit expires prior to
+renewal, the Director may require a new application fee.
+[Amended 10/17/2013; Ord.884]
+
+C. Where base flood elevation data has been provided, as set forth in subsection 901.02 or
+901.03, the actual elevation (in relation to mean sea level) of the lowest floor, including base-
+ments, of all new or substantially improved structures must be obtained from the applicant and
+the elevation, together with information regard ing whether the structure contains a basement,
+must be recorded on the building permit and FEMA’s current Elevation Certificate form.
+
+[Amended 10/17/2013; Ord.884]
+
+D. For all new or substantially improved floodproof ed structures, the Planning Director must
+verify and record the actual elevation of the structure (in relation to mean sea level) and
+maintain the floodproofing certifications required in subsection 901.07(C)(5).
+
+E. All records pertaining the provisions of this sec tion are to be maintained for public inspection.
+
+901.13 Appeals.
+
+Appeal of any decision made pursuant to this sec tion shall be as provided in Section 1404 of this
+ordinance.
+
+901.14 Warning and Disclaimer of Liability.
+
+The degree of flood protection required by this or dinance is considered reasonable for regulatory
+purposes and is based on scientific and engineering methods of study.  Larger floods may occur on
+rare occasions.  Flood heights may be increased by  manmade or natural causes. This section does not
+imply that areas outside of the FP Overlay District or  uses permitted within such district will be free
+from flooding or flood damages.  This section shall not crate liability on the part of Yamhill County or
+any officer or employee thereof, for any flood damages that result from reliance on this Section or any
+decision lawfully made thereunder.
+
+901.15 Map Revisions.
+
+Floodplain/floodway maps may be revised in acco rdance with provisions of the National Flood
+Insurance Program outlined in th e Federal Register 44 CRF Part 70, upon approval of the Federal
+Emergency Management Agency.
+
+901.16 Denial of Flood Insurance Coverage.
+
+In the event that the county finds a violation of fl oodplain ordinance provisions or a violation of other
+National Flood Insurance Program requirements, a declaration shall be submitted to the Federal
+Emergency Management Agency, according to the pr ovisions of 44 CRF Part 70, notifying them of
+the violation(s), and resulting in the denial of floodplain insurance eligibility for the property in
+violation.
+
+ Yamhill County Zoning Ordinance   Page 901-9
+901.17 Rate Criteria and Notice.
+
+In the event that the lowest floor of proposed cons truction is not elevated at least two feet above the
+highest adjacent grade in floodplain areas where eleva tion data is not availabl e, higher insurance rates
+may result. [Amended 2/24/2010; Ord.851]
+
+Applicants floodproofing non-residential buildings ar e hereby notified that flood insurance premiums
+will be based on rates that are one foot below the floodproofed level.
+
+901.18 Floodplain Variance Criteria
+
+A variance to this Section may be authorized, pursuant to the Type B application procedure set forth in Section
+1301 and upon consideration of all technical evaluations, a ll relevant factors, applicable standards specified in
+other sections of this ordinance, and the factors specifically listed in subsection 901.10.
+
+901.19 Conditions for Variances
+
+A. Generally, the only condition under which a variance fro m the elevation standard may be issued is for
+new construction and substantial improvements to be  erected on a lot of one-half acre or less in size
+contiguous to and surrounded by lots with existi ng structures constructed below the base flood level,
+providing the factors listed in sub section 901.10 have been fully c onsidered. As the lot sizes increase,
+the technical justification required for issuing the variance increases.
+
+B. Variances may be issued for reconstruction, rehab ilitation, or restoration of structures listed on the
+National Register of Historic Places or the Statewid e Inventory of Historic Properties, without regard
+to the procedures set forth in this section.
+
+C. Variances shall not be issued within a designate d floodway if any increase in flood levels during the
+base flood discharge would result.
+
+D. Variances shall only be issued upon a determinati on that the variance is the minimum necessary,
+considering the flood hazard, to afford relief.
+
+E. Variances shall only be issued upon a showing of good and sufficient cause, a determination that
+failure to grant the variance would result in excepti onal hardship to the applicant, and a determination
+that the granting of a variance will not result in in creased flood heights, additional threats to public
+safety, extraordinary public expense, create nuisances, cause fraud on or victimization of the public, or
+conflict with existing local laws or ordinances.
+
+F. Variances as interpreted by the National Flood Insurance Program are based on the general zoning law
+principle that they pertain to a physical piece of pr operty, they are not personal in nature and do not
+pertain to the structure, its inhabitants, economic or financial circumstances. They primarily address
+small lots in densely populated residential neighborhoods. As such, variances from the flood
+elevations should be quite rare.
+
+G. Variances may be issued for nonreside ntial structures in very limited  circumstances to allow a lesser
+degree of floodproofing than watertight or dry-fl oodproofing, where it can be determined that such
+action will have low damage potential, complies with  all other variance criteria except  901.19 (A),
+and otherwise complies with subsection 901.07(B), (C) and (D).
+
+ Yamhill County Zoning Ordinance   Page 901-10
+H. Any applicant to whom a variance is granted shall be given written notice that the structure will be
+permitted to be built with a lowest floor elevation below the base flood elevation and that the cost of
+flood insurance will be commensurate with the incr eased risk resulting from the reduced lowest floor
+elevation.
+ [901.19 Added 10/17/2013; Ord.884]
+
+F:\Share\ZO\0901_884.doc

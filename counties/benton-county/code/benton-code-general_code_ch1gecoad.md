@@ -1,0 +1,146 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-general_code_ch1gecoad
+title: 'CHAPTER 1 - GENERAL CODE ADMINISTRATION'
+doc_type: ordinance
+citation: 'CHAPTER 1 - GENERAL CODE ADMINISTRATION'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH1GECOAD&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 7c951738bf5f4d80cd25be6f18da1c3f4040a9c07e5efb7cb8539c4eae33e805
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CHAPTER 1 - GENERAL CODE ADMINISTRATION (CHAPTER 1 - GENERAL CODE ADMINISTRATION)
+
+## At a glance
+
+CHAPTER 1 - GENERAL CODE ADMINISTRATION — code of Benton County. 10 sections.
+
+## Full text
+
+ ### CHAPTER 1 - GENERAL CODE ADMINISTRATION
+
+ ### 1.005 - Code Designated.
+
+All ordinances included in this and the following chapters shall be designated "The
+Benton County Code". When citing specific provisions of the Benton County Code, the
+letters "BCC" should precede the numerical designation.
+[Ord. 85-0002]
+
+ ### 1.010 - Definitions.
+
+As used in the BCC, unless the context clearly requires otherwise:
+(1)
+"Board" means the Benton County Board of Commissioners.
+(2)
+"Code" means the Benton County Code.
+(3)
+"County" means Benton County.
+(4)
+"Day" means the period of time between any midnight and the midnight following.
+(5)
+"ORS" means Oregon Revised Statutes.
+(6)
+"Peace Officer" means a member of the Benton County Sheriff's Department, State Police,
+Constable, Marshal, Municipal Policeman, or investigator of the Criminal Justice Division
+of the Department of Justice of the State of Oregon.
+(7)
+"Person" means an individual, corporation, association, firm, partnership, joint stock companies,
+or any other legal entity.
+(8)
+"Property" means both real and personal property.
+(9)
+"Signature or Subscription by Mark" means a mark when the signer or subscriber cannot
+write, and which may serve as a signature or subscription, but only when 2 witnesses
+sign their own names to such documents.
+(10)
+"State"
+means the State of Oregon.
+[Ord. 85-0002]
+
+ ### 1.015 - Rules of Construction.
+
+The following rules of construction shall be followed in interpretation of the provisions
+of the Benton County Code:
+(1)
+Computation of Time. The time in which an act shall be done or notice shall be given is computed consecutively
+by excluding the first day and including the last, unless the last falls on a County
+holiday or on Saturday or Sunday, in which case the last day will be the next regular
+County working day.
+(2)
+Gender. The masculine gender includes the feminine and neuter.
+(3)
+Number. The singular includes the plural, and the plural includes the singular.
+(4)
+Conjunctions. "Or" may be used as "and" where the sense requires it.
+(5)
+Shall, May. "Shall" is mandatory and "may" is permissive.
+(6)
+Tenses. The present tense includes the past and the future, and the future includes the present.
+[Ord. 85-0002]
+
+ ### 1.020 - Continuation of Existing Ordinances.
+
+Insofar as the provisions appearing in this Code are the same as those of ordinances
+existing at the time of the effective date of this Code, such provisions shall be
+considered continuations and not as new enactments.
+[Ord. 85-0002]
+
+ ### 1.025 - Effect of Repeal of Ordinances.
+
+The repeal of an ordinance shall not revive an ordinance in force before or at the
+time the ordinance repealed took effect. The repeal of an ordinance shall not affect
+a penalty incurred before the repeal took effect, nor a proceeding pending at the
+time of the repeal, for a violation committed under the ordinance repealed.
+[Ord. 85-0002]
+
+ ### 1.030 - Severability of Parts of Code.
+
+It is the intent of the Board of Commissioners that the sections of this Code are
+severable, and if any portion of this Code shall be declared unconstitutional or invalid
+by the valid judgment or decree of a court of competent jurisdiction, such shall not
+affect any of the remaining portion of this Code.
+[Ord. 85-0002]
+
+ ### 1.035 - Titles.
+
+The titles of the several chapters and sections of this Code are intended as mere
+catchwords to indicate the contents of the chapter or section and shall not be deemed
+as a part of the section, nor, unless expressly so provided, shall they be so deemed
+when chapters or sections, including the title, are amended or re-enacted.
+[Ord. 85-0002]
+
+ ### 1.040 - Fees.
+
+All fees authorized to be charged under the Benton County Code shall be set by order
+of the Board of Commissioners.
+[Ord. 85-0002]
+
+ ### 1.045 - Incorporation of Subsequent Ordinances into the Code.
+
+Following the effective date of this Code, all ordinances adopted by the Board of
+Commissioners shall be conformed by County Counsel to the structure and format of
+the Code and shall be inserted into the Code prior to the effective date of the new
+ordinance, at which time such ordinance shall become part of the Code.

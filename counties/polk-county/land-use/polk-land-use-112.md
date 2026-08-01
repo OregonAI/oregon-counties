@@ -1,0 +1,2374 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-112
+title: '112'
+doc_type: ordinance
+citation: '112'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4514/112
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6d7536fbb9e507c471ead212f226774ac22ec347d671ff4dcf417e089078409a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 734-051-0070
+    - OAR 734-051-0115
+    - OAR 734-051-0125
+    - OAR 734-051-0135
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 112 (112)
+
+## At a glance
+
+112 — land use of Polk County. 47 pages.
+
+## Full text
+
+112-1
+CHAPTER 112
+DEVELOPMENT STANDARDS
+LOT AREA, YARDS, HEIGHT RESTRICTIONS, AND ACCESS
+112.010. New Buildings to be on a Lot
+112.020. Lots Not to be Reduced below Minimum
+112.030. Lot or Yard Areas Not to be Separated from  the Lot Containing the
+Building
+112.040. Yard Areas Not to be Reduced
+112.050. Yards Apply Only to One Building
+112.060. Yards to be Unobstructed
+112.070. No Parking in Front Yard or Landscaped Are as
+112.080. Average Yard Setback Adjacent to a Street
+112.090. Stream Setback
+112.100. Front Yard Projections
+112.110. Side Yard Projections
+112.120. Rear Yard Projections
+112.125  Fences and Signs
+112.130.  Height and Other Exceptions
+112.135. Tower Standards
+112.137. Non-Commercial Wind Energy Systems and Met eorological Towers
+112.138. Non-Commercial Photovoltaic Systems
+112.140. Vision Clearance Area
+112.150. Lots Abutting a Partial Street
+112.160. Dwellings to be Accessible
+112.170. Minimum Street Width
+112.175. Access Onto Arterials
+FUTURE RIGHT-OF-WAY LINES
+112.180. Establishment, Alterations, or Elimination  of Future Right-of-Way Lines
+112.190. Setback Distances
+112.200. Amendment by Resolution
+OFF-STREET PARKING AND LOADING
+112.210. New and Existing Facilities to Provide Par king and Loading
+112.220. Diminution of Parking Area Prohibited
+112.230. Location
+112.240. Joint Use
+112.250. Off-Street Automobile Parking Requirements
+112.260. Off-Street Loading Requirements
+112.270. Parking and Loading Area Development Requi rements
+ACCESSORY STRUCTURES IN THE SR ZONE
+112.280. Application of Regulations Regarding Acces sory Structures
+112.290. Lot Coverage by All Accessory Structures
+112.300. Height Standards for Accessory Structures Except Fences and Signs
+112.310. Front Yards and Yards Adjacent to Streets With Accessory Structures
+112.320. Side Yards, Interior With Accessory Struct ures
+112.330. Rear Yards With Accessory Structures
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-2
+112.340. Accessory Structures Attached to the Main Building
+112.350. Fences and Signs -Location, Height and Den sity
+112.360. Measurement of Height of Fences and Signs
+112.370. Fences-Use of Hazardous Materials
+ZONE-SPECIFIC DEVELOPMENT STANDARDS
+112.390. Residential Zone Development Standards
+112.400. Commercial Zone Development Standards
+112.410. Industrial Zone Development Standards
+112.420. Public Zone Development Standards
+112.430. Resource Zone Development Standards
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-3
+112.010.  NEW BUILDINGS TO BE ON A LOT.   Every building erected shall be located on a
+lot as herein defined.
+112.020.  LOTS NOT TO BE REDUCED BELOW MINIMUM.   No lot or parcel of land held
+under separate ownership at the effective date of this ordinance (November 13, 1970) shall be
+separated in ownership or reduced in size below the minimum lot width or lot areas required by
+this ordinance, nor shall any lot or parcel of land held under separate ownership at the effective
+date of this ordinance, which has a width or an area less than required by this ordinance, be
+further reduced unless approved in accordance with this ordinance, including provisions and
+standards for the creation of new parcels in the zone.
+[Amended by Ordinance 91-8]
+112.030.  LOT OR YARD AREAS NOT TO BE SEPARATED FROM THE LOT
+CONTAINING THE BUILDING.   No portion of a lot necessary to provide the required area
+per dwelling unit shall be separated in ownership from the portion of the lot on which the
+building containing dwelling units is located.  No required yard or other open space around an
+existing building shall be separated in ownership from the portion of the lot upon which the
+building is located.
+112.040.  YARD AREAS NOT TO BE REDUCED.   No lot area shall be so reduced or
+diminished that the yards or other open space shall be smaller than prescribed by this ordinance,
+nor shall the number of dwelling units be increased in any manner except in conformity with the
+regulations herein established.
+112.050.  YARDS APPLY ONLY TO ONE BUILDING.   No required yard or other open
+space or required driveway provided around or for any building or structure for the purpose of
+complying with the provisions of this ordinance shall be considered as providing a yard or open
+space for any other building, or shall any yard or other required space on an adjoining lot be
+considered as providing a yard or open space on the lot whereon the building is to be erected.
+112.060.  YARDS TO BE UNOBSTRUCTED.   Every required front, side and rear yard shall
+be open and unobstructed by buildings or structures from the ground to the sky, except for those
+projections and accessory structures permitted by this ordinance.
+112.070.  NO PARKING IN FRONT YARD, YARDS ADJACENT TO A STREET, OR
+LANDSCAPED AREAS.   No parking shall be allowed exclusive of driveways within the
+required front yard area.  The side yard and rear yard areas may be used for parking of vehicles
+unless otherwise prohibited by this ordinance.
+The yard areas and driveways adjacent to a street shall not be used for the permanent storage of
+utility trailers, house or vacation trailers, boats or other similar vehicles.
+112.080.  AVERAGE YARD SETBACK ADJACENT TO A STREET (FRONT AND
+EXTERIOR SIDE YARDS).   Every building shall set back from the front lot line at least 20
+feet, except in the instance where the average depth of the other buildings on the same side of the
+street are between ten (10) and 20 feet, then the average depth may be used.  The average depth is
+the average of the distance from the closest part of the foundation of the existing buildings to the
+front property line  where the existing buildings are within 200 feet of the center of the proposed
+building, on the same side of the street, within the same block.
+If existing buildings are within ten (10) feet of the property line, then no less than 10 feet shall be
+used in figuring the average, or if existing buildings are more than 20 feet from the property line
+then the minimum requirement of 20 feet shall be used in figuring the average.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-4
+When, by this ordinance or any other ordinance, a greater setback or a front yard of greater depth
+is required than specified in this section, then such greater setback line or front yard depth shall
+apply.
+112.090  STREAM SETBACK.   To permit or afford better light, air, vision, stream pollution
+control, and to preserve the natural scenic amenities and vistas along the streams in all zones, the
+following setbacks shall apply:
+(A) All septic tank, septic tank drainfield, cesspo ol and pit privy disposal facilities shall be set
+back from the highwater line or mark along all streams a minimum of 100 feet measured at
+right angles to the highwater line or mark.  In those cases where practical difficulties
+preclude the location of these facilities at a distance of 100 feet and the County
+Environmental Health Department finds that a closer location will not endanger health by
+pollution of the stream, the Environmental Health Department may permit the location of
+these facilities closer to the stream, but in no event, may such facility be located closer to
+the stream than 50 feet.
+(B) All structures, buildings, or similar permanent  fixtures shall be set back from the mean
+highwater line or mark along all streams a minimum of 15 feet measured at right angles to
+the highwater line or mark excluding decks, patios, fences, and covered porches.  Where a
+stream represents a lot or parcel line the applicable setback shall be either this standard or
+the applicable setback for the zoning district as described in this chapter, whichever is
+greater.  For waterways identified on the Polk County Significant Resources Map,
+additional development setback standards pursuant to Chapter 182 of the PCZO are also
+applicable.  Additional setbacks may also be required, as determined by the State
+Department of Forestry, along riparian management areas subject to the provisions of the
+Oregon Forest Practices Act.
+112.100  FRONT YARD PROJECTIONS.   Planter boxes, chimneys and flues, steps, cornices,
+eaves, gutters, belt courses, leaders, sills, pilasters, lintels and other ornamental features of not
+more than 24 inches from main buildings, wind energy systems, uncovered porches, covered but
+unenclosed porches when not more than one story high and which do not extend more than 10
+feet beyond the front walls of the building, but in no case shall such projection come closer than
+ten (10) feet from the property line and the floor which are not more than four (4) feet above
+grade, are exempt from the front yard setback provisions and need not be included when
+determining the average setback.
+[Amended by Ordinance 09-06]
+112.110  SIDE YARD PROJECTIONS.
+(A) Cornices, eaves, gutters, and fire escapes when  not prohibited by any other code or
+ordinance, may project into a required side yard not more than one-third (1/3) of the
+width of the side yard, nor more than three (3) feet in any case.
+(B) Chimneys, flues, belt courses, leaders, sills, pilasters, lintels, wind energy systems,
+and ornamental features may project not more than one and one-half (1-1/2) feet into
+a required side yard, provided, however, chimneys and flues shall not exceed six (6)
+feet in width.  [Amended by Ordinance 09-06]
+(C) Uncovered decks and patios attached to the main  building when measured directly
+beneath the outside edge of the deck or patio may be extended to the side yard
+property line when they are three (3) feet or less in height from ground level.
+112.120.  REAR YARD PROJECTIONS.
+(A) Chimneys, flues, belt courses, leaders, sills, pilasters, lintels, gutters, wind energy
+systems, and other ornamental features, may project not more than one and one-half
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-5
+(1-1/2) feet into a required rear yard, provided, however, chimneys and flues shall not
+exceed six (6) feet in width.  [Amended by Ordinance 09-06]
+(B) A fire escape, balcony, outside stairway, corni ce or other unenclosed, unroofed
+projections may project nor more than five (5) feet into a required rear yard and set
+back at least six (6) feet from any property line.
+(C) Planter boxes, steps, uncovered porches, covere d but unenclosed porches including
+covered patios when not more than one (1) story high and the floor, which are not
+more than four (4) feet above grade and which shall not come closer than 14 feet
+from the rear lot line, are exempt from the minimum rear yard depth requirement.
+(See Accessory structures - Section 112.350.)
+(D) No permitted projection into a required rear ya rd shall extend within ten (10) feet of
+the centerline of an alley, or of a rear lot line if no alley exists, or within six (6) feet
+of an accessory building.
+(E) Uncovered decks and patios attached to the main  building when measured directly
+beneath the outside edge of the deck or patio may be extended to the rear yard
+property line when they are three (3) feet or less in height from ground level.
+112.125.  FENCES AND SIGNS. This section applies to all zones, except the SR zone. The
+setback and height standards for fences and signs in the SR zone are listed in Sections 112.310
+through 112.370.
+(A)  Fences may be placed within the setbacks of a zone, up to a property line, subject to the
+following requirements:
+(1)  The maximum height (as defined by Section 110.260) of any fence shall be six (6) feet
+when the fence is located at the property line. Within properties that are not located
+within an adopted urban growth boundary, the maximum height of a fence within a
+setback may be increased one (1) foot for each one (1) foot of distance from the
+property line.
+(2)  The fence shall not project across a property line.
+(3)  Fences in public zones are subject to the vision clearance requirements listed in Section
+112.140.
+(4)  Fences are subject to all other applicable development standards of the zone.
+(B)  Free-standing signs permitted under this ordinance may be placed within the setbacks of a
+zone, up to a property line, subject to the following requirements. This section does not
+apply to road signs and other signs designed for public safety.
+(1)  The maximum height (as defined by Section 110.260) of any sign within a setback shall
+be six (6) feet when the foundation of the sign is located at the property line. For
+properties which are not located within an adopted urban growth boundary, the
+maximum height for a sign within a setback may be increased one (1) foot for each one
+(1) foot of distance from the property line.
+(2)  A sign shall not project across a property line.
+(3)  Signs in public zones are subject to the vision clearance requirements of Section
+112.140.
+(4)  Illumination of signs employing lighting from outside of the sign shall be directional,
+and not direct light off of the subject property. The illumination of signs shall conform
+with all state and federal requirements.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-6
+(5)  Signs are subject to all other applicable development standards of the zone.
+(C)  Signs affixed to a building or structure shall be considered a part of the building or
+structure, and shall be subject to the setbacks for the building or structure to which it is
+affixed.
+(D)  Fences and signs that comply with the normal building setbacks of a zone shall be subject
+to height and all other applicable development standards of the zone.  [Amended by Ordinance 12-
+01]
+112.130.  HEIGHT AND OTHER EXCEPTIONS.
+(A)  Chimneys may exceed the maximum height of the zone in which they are located.
+(B) Communication towers, non-commercial wind energ y systems utilizing a tower, and
+meteorological towers, may exceed the height limits of the zone, but must meet provisions
+regulating such installation as provided in Section 112.135, and applicable provisions from
+the zoning district.
+[Amended by Ordinance 09-06]
+(B)  Ham (non-commercial) radio transmitting towers and antennas are not subject to the
+provisions of Section 112.135 and may exceed the height requirements for structures as
+required by the zone, and must meet all state and federal provisions regulating such
+facilities and comply with manufacturers installation requirements.
+(D) Steeples may exceed the maximum height of the z one in which they are located provided:
+(1) That they do not contain any habitable space
+(2) That they do not exceed 185 feet in height
+(3) That the Planning Director permits a greater he ight, as a conditional use, when they
+are within 185 feet of or are located within the SR zone.  [Amended by Ordinance 89-17]
+(E)  Replacement of an existing utility pole along or within the right-of-way used for electric,
+cable, telephone, etc., that is located along a right-of-way is permitted without land use
+review including the establishment of a pole that is suitable for use for wireless
+communication.  The multi-purpose monopole must not exceed the height of other existing
+poles along the adjacent utility corridor by more than twenty-five (25) feet.
+(F)  Co-location of a communications utility on an existing tower, with the exception of wind
+and meteorological towers, is not subject to the land use provisions of Section 112.135
+below, however, the applicant shall submit engineering documentation that the proposed
+facility complies with the emission standards for maximum permissible exposure as
+identified in 47 C.F.R. Section 1.1307(b), or as amended or replaced in Federal Register.
+The applicant shall obtain any other required local permit (electrical, building, etc.).
+[Amended by Ordinances 01-3 and 09-06]
+
+112.135.  TOWER STANDARDS.  The following standards apply to all new or replacement
+communication towers and all new or replacement non-commercial wind energy systems
+utilizing a tower and meteorological towers. The standards of this section are not applicable to
+roof-mounted, building-integrated, building-mounted and architectural wind energy systems that
+extend no more than an additional 5 feet above the highest ridge of the building’s roof or 15 feet
+above the highest eave, whichever is higher, and do not exceed the height limitation of the zone.
+The standards of this section are also not applicable to commercial power generating facilities.
+(A)  All new or replacement communication towers shall be reviewed through the
+administrative review process as a land use determination, unless otherwise provided for in
+the zoning district for the proposed location.  A utility provider shall be the applicant or co-
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-7
+applicant for any communication tower that is proposed in unincorporated Polk County, or
+a condition of approval shall be that the tower may not be constructed until such time as a
+utility provider is identified, and all other conditions have been met.  Public agencies are
+also subject to the standards of this section.  It is the intent of this section to provide for
+maximum compatibility between communication towers and the surrounding land uses.
+(B)  All new or replacement non-commercial wind energy systems utilizing a tower and
+meteorological towers are subject to the standards of this section and require a land use
+application only when required by the zoning district in which the tower would be located
+and as required in Section 112.135(C).
+(C)  All new or replacement communication towers, non-commercial wind energy systems
+utilizing a tower, and meteorological towers shall comply with the following standards:
+(1)  All communication towers shall be less than 180 feet in height. Wind energy systems
+utilizing a tower and meteorological towers outside of a UGB shall be 150 feet or
+less in height. Communication towers shall be a monopole type of construction
+unless otherwise provided. Wind and meteorological towers shall be a monopole,
+monopole with guy wires, lattice, or lattice with guy wires type of construction. An
+applicant may request modification of these height limitations or types of
+construction (e.g. a lattice communication tower) through a Land Use Determination
+review process.  Such height modification or type of construction shall include a
+demonstration for any modification requested.  Such justification shall include
+documentation showing:
+(a)  Coverage limitations,
+(b)  Type of system (e.g. broadcast, FM radio, television),
+(c)  Technical and engineering feasibility;
+(d)  Public safety; or
+(e)  Other requirements of local, state, and federal agencies.
+(2)  Within an Urban Growth Boundary (UGB) the following standards apply:
+(a)  A communication tower shall be 40-feet or less in height. An applicant may
+request a modification of this height limitation. Such height modification shall
+include a demonstration for any modification requested.  Such justification
+shall include documentation showing:
+1)  Coverage limitations demonstrating that the proposed height of the tower
+is needed in order to meet the service type and area coverage needs.
+Propagation maps stamped by a professional engineer that demonstrate
+service type and area coverage shall be provided for the 40-foot height,
+and each 20-foot interval to the proposed tower height;
+2)  Type of system (e.g. broadcast, FM radio, television);
+3)  Other requirements of local, state, and federal agencies; and
+4)  The location, size, design and functional characteristics of the tower are
+reasonably compatible with the existing conditions and vegetation at the
+proposed site. The tower must be designed and constructed with material
+to reduce visibility of the tower by:
+i.  A site-specific study of the tower site identifying a proposed stealth
+(i.e. camouflage) construction type that may include but is not
+limited to a tree, or flagpole (no external antennas).
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-8
+ii.  The proposed color and surfacing of the tower and associated
+fixtures.
+(b)  Wind energy systems utilizing a tower and meteorological towers that do not
+exceed 100 feet in height may be authorized under the procedure for and in
+accordance with the criteria provided for conditional uses in Chapter 119 of
+this ordinance.
+(3)  No lighting of towers and associated facilities is allowed, except as required by the
+Federal Aviation Administration or other federal or state agency. In coordination
+with the applicable federal or state agency, the applicant shall determine the
+maximum height of the tower that would not require lighting. If a proposed tower
+would require lighting, the applicant shall demonstrate that a tower height that
+requires lighting is necessary. Such justification shall include documentation
+showing:
+(a)  Coverage limitations,
+(b)  Type of system (e.g. broadcast, FM radio, television),
+(c)  Technical and engineering feasibility; and
+(d)  Other requirements of local, state, and federal agencies.
+If a tower height that requires lighting is justified, the applicant shall
+demonstrate how the lighting will be shielded from the ground.  Shielding of
+tower lighting onto nearby properties shall be installed as part of construction
+of the tower.
+(4)  The setbacks for a communication, wind, or meteorological tower shall be the
+setback otherwise allowed for all other structures in the zone; however, greater
+setbacks shall be required as follows:
+(a)  A communication tower shall be setback at least the height of the tower from
+an existing dwelling on adjacent property.
+(b)  A wind tower base shall be setback the height of the wind energy system from
+all property lines. A meteorological tower base shall be setback the height of
+the tower from all property lines.
+(c)  A tract (contiguous property under the same ownership) may be considered as a
+single parcel for purposes of setbacks.
+(5)  Equipment areas may be enclosed by a chain link fence or equivalent with or without
+slats for screening.
+(6)  Warning and safety signs, up to three square feet in area, are allowed.  All other signs
+are prohibited.
+(7)  If a tower is discontinued from operating as a communication, wind, or
+meteorological tower for a period of one year, the tower shall be removed.  The
+operator shall be responsible for removal of the tower and equipment facilities within
+six (6) months; however, equipment facilities accessory to wind energy systems or
+meteorological towers may be converted to accommodate an approved on-site use
+within six (6) months.  The property owner shall bear the ultimate responsibility for
+removal of facilities.  The property owner is responsible for removal of the tower and
+shall sign a document that is recorded in the deed history of the subject property with
+the Polk County Clerk recognizing such responsibility.  Nothing in this subsection
+shall prevent the owner of the property or Polk County from requiring a bond or
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-9
+other security from a communication tower operator or otherwise imposing on a
+communication tower operator the responsibility for removal and restoration.
+(8)  Upon receipt of an application for a tower, the Planning Director shall mail
+notification to the Independence State Airport and the Oregon Department of
+Aviation and provide at least ten (10) days to comment on the application.
+(D)  Additional Communication Tower Standards
+(1)  Whip antennae shall not exceed the height of the tower by more than twenty (20)
+feet.
+(2)  Directional / parabolic antennae shall not exceed seven (7) feet in diameter or width
+and a rectangular type antenna shall not exceed seven (7) feet in width and fifteen
+(15) feet in height when attached to a tower.
+(3)  The applicant shall identify all existing structures, or properties that have obtained
+approval for a tower or currently contain a communications antenna within two miles
+of the proposed tower location.  The applicant shall provide evidence that co-location
+at all existing or approved towers and structures within two miles is not feasible, and
+provide documentation for locating a new tower, based on either of the following:
+(a)  Lack of available co-location space; or
+(b)  Inability to meet service coverage area needs.
+(4)  The tower shall comply with all required State of Oregon and Federal licenses for
+communication tower facilities.  The application shall include a certification that the
+completed installation will comply with all Federal standards.  The applicant shall
+submit documentation demonstrating compliance with the radio frequency emission
+standards as set forth by the Federal Communications Commission (FCC).  If the
+calculated radio frequency emission level at any point is calculated at more than one-
+third the maximum radio frequency emission level permitted by the FCC, then the
+documentation shall be prepared by an Oregon registered professional engineer
+qualified to conduct radio frequency analyses.
+(5)  The applicant shall submit a site-specific study of the tower site identifying the
+proposed color and surfacing of the tower and associated fixtures.  Based on the
+existing conditions and vegetation at the proposed site, the tower must be constructed
+with material to reduce visibility of the tower by:
+(a)  Use of non-reflective materials that minimize glare and are colored similar to
+the sky or adjacent background.  A light gray shade is appropriate for blending
+the tower into the sky background.  Nothing in this subsection preempts the
+coloring requirements of the Federal Aviation Administration or the Oregon
+Department of Aviation.
+(b)  Use of non-reflective materials painted to match the existing or attached
+structure to blend into the surrounding environment, and
+(c)  Antenna and associated equipment shall be surfaced in a non-reflective
+material color to match the structure on which it is located.
+(6)  If access is obtained from a private road, the applicant shall be responsible as
+required by Oregon law for providing for improvements and maintenance to the
+private road that provides access to the subject property.  In general, the applicant is
+responsible for impacts to the private road as a result of activities conducted by the
+applicant.  The applicant shall maintain all necessary access easements and
+maintenance agreements for the private road as required by State law.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-10
+(7)  An Oregon registered professional engineer shall certify that the construction of the
+tower complies with building code structural standards.
+(8)  Prior to submission of an application, the applicant must notify and hold a meeting
+with area property owners as outlined in (a) and (b) below.  The applicant shall
+submit evidence of the notification and meeting with the application.  The applicant
+must provide evidence of the following:
+(a)  The applicant has mailed notification of the proposed tower to property owners
+that would otherwise be notified pursuant to Polk County Zoning Ordinance
+Section 111.350.  The notification shall state that the topic has been scheduled
+for discussion at a community meeting as described in (b) below.  The
+notification shall state the date, time, and location of the meeting.
+(b)  The applicant shall post the subject property as described in Polk County
+Zoning Ordinance Section 111.360 and hold a meeting with the community to
+allow for concerns regarding the proposed tower to be addressed.  Nothing in
+this subsection limits the applicant from providing additional opportunity for
+input from area property owners and residents.
+(9)  All new or replacement tower facilities under 100 feet in height shall provide for a
+minimum of two (2) users (the primary user and one co-location site).
+(10)  A Communication tower over 100 feet shall comply with the following:
+(a)  All new tower facilities shall provide space for a minimum of three (3) users
+(the primary user and 2 co-location sites),
+(b)  Prior to issuance of building permits for the tower, the applicant shall submit to
+the Building Official documentation from the Federal Aviation Administration
+and local or state agency with jurisdiction that the tower has been reviewed and
+is not determined to be a hazard if constructed as proposed.
+[Amended by Ordinances
+01-3 and 04-09]
+(E)  Additional Wind and Meteorological Tower Standards
+(1)  All new or replacement wind towers and meteorological towers shall be grey unless
+another color is required by state or federal law.
+(2)  All wind energy system components mounted to a wind tower and all meteorological
+tower components attached to the meteorological tower shall remain painted or
+finished the color or finish that was originally applied by the manufacturer.
+[Amended by Ordinance 09-06]
+112.137.  NON-COMMERCIAL WIND ENERGY SYSTEMS AND METEOROLOGICAL
+TOWERS.
+(A)  Roof-mounted, building-integrated, building-mounted or architectural wind energy systems
+may extend an additional 5 feet above the highest ridge of the building’s roof or 15 feet
+above the highest eave, whichever is higher, but may not exceed the height limitation of the
+zone. Roof-mounted, building-integrated, building-mounted or architectural wind energy
+systems that exceed these standards may be permitted as allowed in the zone and in
+accordance with this section and Section 112.135.
+(B)  Wind energy systems and meteorological towers shall comply with all applicable state
+construction and electrical codes, and the National Electrical Code. The applicant shall
+obtain all necessary building and electrical permits from the Polk County Building
+Division prior to installation or alteration of the wind energy system.  [Amended by Ordinance 09-
+06]
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-11
+112.138.  NON-COMMERCIAL PHOTOVOLTAIC SYSTEMS. All new or replacement
+photovoltaic systems, that are not commercial power generating facilities, shall be a permitted
+use in all zones. A land use application is not required to site a photovoltaic system. All new or
+replacement photovoltaic systems, that are not commercial power generating facilities, shall be
+subject to the following standards:
+(A)  Photovoltaic systems are subject to the setback requirements of the zone.
+(B)  All components of a photovoltaic system shall comply with the height restrictions of the
+zone. For installations mounted flush with a pitched roof, the height of the panels will not
+be calculated unless the panels will extend above the highest ridge of the roof.
+(C)  Photovoltaic systems may be mounted to an approved on-site structure or established as a
+free standing structure provided that the other requirements of this section are met.
+(D)  Photovoltaic systems shall comply with all applicable state construction and electrical
+codes, and the National Electrical Code. The applicant shall obtain all necessary building
+and electrical permits from the Polk County Building Division prior to installation or
+alteration of the photovoltaic system.
+[Amended by Ordinance 09-06]
+112.140.  VISION CLEARANCE AREA.   In the SR Zone or any public zone, the vision
+clearance area for corner lots at street intersections shall have a minimum of 30-foot legs along
+each street and for alley-street intersections in said zones, the vision clearance area shall have
+legs of a minimum of ten (10) feet along both alley and street.  The vision clearance area shall
+not contain any plantings, walls, structures, or temporary or permanent obstructions to vision
+exceeding 30 inches in height above the curb level, or street shoulder where there is no curb,
+except a supporting pillar or post not greater than 12 inches in diameter or 12 inches on the
+diagonal of a rectangular pillar or post; and further, excepting those posts or supporting members
+of street signs, street lights, and traffic control signs installed as directed by the department of
+public works, or any other sign erected for public safety.
+Vision clearance shall not be required at a height of seven (7) feet or more above the curb level,
+or seven (7) feet, six (6) inches above the shoulder of a street that does not have a curb.
+This section shall not be construed as waiving or altering any yard requirements or setback
+requirements that may be required by this or any other ordinance.
+112.150.  LOTS ABUTTING A PARTIAL STREET.   No building permit shall be issued for a
+building or structure on a lot which abuts a street dedicated to a portion only of its required width
+and is located on that side which has not yet been dedicated or condemned, unless the yards
+provided on such lot include both that portion of the lot lying within the required street and the
+required yards.  This provision shall not be construed as being in lieu of or waiving any
+subdivision or partitioning requirement of this or any other ordinance.
+112.160.  DWELLINGS TO BE ACCESSIBLE.   Every dwelling shall have access to a
+public road or to an easement.
+(A)  An easement that is designated as a future route of a preferred alternative public road
+in the Polk County Transportation Systems Plan providing access to a parcel created
+after July 10, 1998, shall be sixty (60) feet wide, unless an exception to the easement
+width has been granted pursuant to PCSO 91.800.
+(B)  An easement that is not designated as a future route of a preferred alternative public
+road in the Polk County Transportation Systems Plan that would provide access to
+two (2) or more parcels or to two (2) or more dwellings on parcels established after
+May 29, 2002 shall be at least 40 feet wide, unless an exception to the easement
+width has been granted pursuant to PCSO 91.800.  [Amended by Ordinance 02-01]
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-12
+112.170.  MINIMUM STREET WIDTH.   All street rights-of-way shall be not less than as set
+forth in the most recently adopted version of the Polk County Transportation Systems Plan.
+[Amended by Ordinance 09-08]
+112.175.  ACCESS ONTO ARTERIALS.
+(A)  The number of access points onto arterial road s from any development shall be
+minimized whenever possible through the use of driveways common to more than
+one development, and interior circulation design, including frontage or marginal
+access roads, which further this requirement.  Generally, no private or public road
+access will be permitted onto the rural portions of State Highways 18, 22, 51, 99W,
+221, and 223 unless the standards in Tables 9A-9D below are met:
+(B)   Access onto arterials will require the approv al, through the permit process, from the
+Oregon Department of Transportation.  The applicant(s) will need to follow ODOT's
+construction requirements for that portion of the access within state-owned right-of-
+way.
+(C)  Where property, such as a reverse frontage lot , is located abutting a county or public
+use road, and a state highway, the preferred access will be onto the county or public
+use road. [Amended by Ordinance 07-06]
+Table 9A
+Access Management Spacing Standards for
+Private and Public Approaches on Statewide Highways
+(1)(2)(3)(4)
+
+(OAR 734-051-0115)
+(Measurement is in Feet)*
+Posted Speed
+(5)
+ Rural Expressway **  Rural  Urban
+Expressway
+**
+***
+Urban
+***
+STA
+≥55  5280  1320  2640  1320
+50  5280  1100  2640  1100
+40 & 45  5280 990  2640 990
+30 & 35   770   720 (6)
+
+≤25   550   520 (6)
+
+NOTE: The numbers in superscript
+(1)
+refer to explanatory notes that follow Table 9C.
+* Measurement of the approach road spacing is from center to center on the same side of the roadway.
+** Spacing for Expressway at-grade intersections only. See the OHP for interchange spacing guidelines.
+***These standards also apply to Commercial Centers.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-13
+Table 9B
+Access Management Spacing Standards for
+Private and Public Approaches on Regional Highways
+(1)(2)(3)(4)
+
+(OAR 734-051-0115)
+(Measurement is in Feet)*
+Posted Speed
+(5)
+ Rural Expressway **  Rural Urban
+Expressway
+**
+***
+Urban
+***
+STA
+≥55  5280  990 2640  990
+50  5280  830 2640  830
+40 & 45  5280 750 2640 750
+30 & 35   600  425 (6)
+
+≤25   450  350 (6)
+
+NOTE: The numbers in superscript
+(1)
+refer to explanatory notes that follow Table 9C.
+* Measurement of the approach road spacing is from center to center on the same side of the roadway.
+** Spacing for Expressway at-grade intersections only. See the OHP for interchange spacing guidelines.
+***These standards also apply to Commercial Centers.
+
+Table 9C
+Access Management Spacing Standards for
+Private and Public Approaches on District Highways
+(1)(2)(3)(4)
+
+(OAR 734-051-0115)
+(Measurement is in Feet)*
+Posted Speed
+(5)
+ Rural Expressway **  Rural Urban
+Expressway
+**
+***
+Urban
+***
+STA
+≥55  5280  700 2640  700
+50  5280  550 2640  550
+40 & 45  5280 500 2640 500
+30 & 35   400  350 (6)
+
+≤25   400  350 (6)
+
+NOTE: The numbers in superscript
+(1)
+refer to explanatory notes that follow Table 9C.
+* Measurement of the approach road spacing is from center to center on the same side of the roadway.
+** Spacing for Expressway at-grade intersections only. See the OHP for interchange spacing guidelines.
+***These standards also apply to Commercial Centers.
+
+Notes on Tables 9A, 9B, and 9C:
+(1)
+These access management spacing standards are for unsignalized approaches only. Signal spacing standards
+supersede access management spacing standards for approaches.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-14
+(2)
+These access management spacing standards do not apply to approaches in existence prior to April 1, 2000 except
+as provided in OAR 734-051-0115(1)(c) and 734-051-0 125(1)(c).
+(3)
+For infill and redevelopment, see OAR 734-051-0135(4).
+(4)
+For deviations to the designated access management spacing standards see OAR 734-051-0135.
+(5)
+Posted (or Desirable) Speed: Posted speed can only be adjusted (up or down) after a speed study is conducted and
+that study determines the correct posted speed to be different than the current posted speed. In cases where actual
+speeds are suspected to be much higher than posted speeds, the Department reserves the right to adjust the access
+management spacing accordingly. A determination can be made to go to longer access management spacing
+standards as appropriate for a higher speed. A speed study will need to be conducted to determine the correct speed.
+(6)
+Minimum access management spacing for public road approaches is the existing city block spacing or the city
+block spacing as identified in the local comprehensive plan. Public road connections are preferred over private
+driveways and in STAs driveways are discouraged. However, where driveways are allowed and where land use
+patterns permit, the minimum access management spacing for driveways is 175 feet (55 meters) or mid-block if the
+current city block spacing is less than 350 feet (110 meters).
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-15
+Table 9D
+Minimum Spacing Standards Applicable to Non-Freeway Interchanges
+with Two-Lane Crossroads
+(OAR 734-051-0125)
+
+Notes:
+1) If the crossroad is a state highway, these distances may be superseded by the Access Management Spacing
+Standards, providing the distances are greater than the distances listed in the above table.
+2) No four-legged intersections may be placed between ramp terminals and the first major intersection.
+3) No application shall be accepted where an approach would be aligned opposite a freeway or expressway ramp
+terminal (OAR 734-051-0070(4)(a)).
+4) Use four-lane crossroad standards for urban and suburban locations that are documented to be widened in a
+Transportation System Plan or corridor plan.
+5) No at-grade intersections are allowed between interchanges less than 5 miles apart.
+B = Distance between the start and end of tapers
+C = Distance between nearest at-grade and ramp terminal intersections or the end/start of the taper section
+X = Distance to the first approach on the right; right in/right out only
+Y = Distance to first intersections where left turns are allowed
+Z = Distance between the last right in/right out approach road and the start of the taper for the on-ramp
+* Fully Developed Urban Interchange Management Area: Occurs when 85% or more of the parcels along the
+influence area are developed at urban densities and many have driveways connecting to the crossroad. See the
+definition in the 1999 Oregon Highway Plan.
+
+Highway Classification for State Highways in Polk County
+Classification Highway Segment
+OR-22 Willamina-Salem
+Highway
+MP 12.72 - 25.96
+(Marion/Polk County line)
+Statewide Expressways
+OR-18 Salmon River Highway MP 18.78 - 29.76
+(Polk/Yamhill County line)
+OR-22 Willamina-Salem
+Highway
+MP 0.00 to 12.72
+Statewide Freight
+Routes
+OR-18--Salmon River
+Highway--
+MP 14.90 to MP 18.78
+(Tillamook/Polk County Line)
+Freight Route on a
+Regional or District
+OR-99W Entire segment within Polk
+County
+Spacing Dimension  Category of
+Mainline
+Type of
+Area
+Speed of
+Mainline
+B  C  X  Y  Z
+Fully
+Developed
+Urban*
+45 mph
+(70 kph)
+2640 ft
+(800 m)
+1 mile
+(1.6 km)
+750 feet
+(230 m)
+1320 feet
+(400 m)
+750 feet
+(230 m)
+Urban  45 mph
+(70 kph)
+2640 ft
+(800 m)
+1 mile
+(1.6 km)
+1320 feet
+(400 m)
+1320 feet
+(400 m)
+990 feet
+(300 m)
+Expressways,
+Statewide,
+Regional and
+District
+Highways
+Rural  55 mph
+(90 kph)
+1 mile
+(1.6 km)
+2 miles
+(3.2 km)
+1320 feet
+(400 m)
+1320 feet
+(400 m)
+1320 feet
+(400 m)
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-16
+Highway
+OR-22 Three Rivers Highway Entire segment within Po lk
+County
+Regional Highways
+OR-221 Salem-Dayton
+Highway
+MP 9.26 to 10.98
+(Polk/Yamhill County Line)
+OR-221 Salem-Dayton
+Highway
+MP 0.00 to 9.26
+OR-223 Dallas-Rickreall
+Highway
+Entire segment within Polk
+County
+OR-223 Kings Valley
+Highway
+Entire segment within Polk
+County
+OR-51 Independence Highway Entire segment within Po lk
+County
+OR-194 Monmouth Highway Entire segment within Polk
+County
+District Highways
+OR-18B Willamina-Sheridan
+Highway
+Entire segment within Polk
+County
+
+112.180 ESTABLISHMENT, ALTERATIONS, OR ELIMINATION OF FUTURE
+RIGHT-OF-WAY LINES.   The governing body may establish, vary, modify, alter, or eliminate
+any future right-of-way line for any reason or purpose by resolution.  Polk County will require
+dedication or reservation for future dedication of right-of-way for transportation improvements,
+as identified in an adopted Corridor Refinement Plan in the adopted Polk County Transportation
+Systems Plan.
+(A) The dedication or reservation will be required at the time that a partition or
+subdivision is proposed on a particular property.  The dedication or reservation shall
+be for the property subject to the development proposal.
+ (B) For development activity other than in (a) abo ve, the property owner shall sign a
+Waiver of Remonstrance document for other development activity.  Polk County will
+require setbacks for new structures or additions to existing structures from the future
+road right-of-way identified in the adopted Transportation Systems Plan.  [Amended by
+Ordinance 01-10]
+112.190.  SETBACK DISTANCES.   An existing building or part thereof that extends into the
+front yard, side yard, or rear yard, shall be treated as a non-conforming building.  [Amended by
+Ordinance 93]
+(A)  To permit or afford better light, air and vision on the more heavily traveled streets
+and roads; to protect the arterial streets and highways and to permit the expansion of
+street areas for traveling purposes, or eventual widening of streets or roads; every
+building, or structure, exclusive of fences, signs, floodlight standards, and their
+supporting members shall set back from the streets or parts of streets or roads
+hereafter named, the number of feet set forth below, measured at right angles to the
+property line adjacent to the street or road right-of-way.  [Amended by Ordinance 12-01]
+PRINCIPAL
+ARTERIAL (STATE
+18,22)
+MINOR ARTERIAL
+(STATE 51,99,221,223)
+MAJOR & MINOR
+COLLECTOR
+(COUNTY)
+LOCAL ROADS
+(COUNTY)
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-17
+30 feet from existing
+R.O.W. for all
+commercial & industrial
+30 feet
+*(measured from 80 foot
+R.O.W.)
+30 feet
+*(measured from 60 foot
+R.O.W.)
+See zone listing
+30 feet from a 120 foot
+R.O.W. for all non-
+commercial & industrial
+
+* Indicates additional right of way may be required where existing is deficient.
+The above setback provisions are minimum requirements, and are to be considered as
+supplementary and additional to any such requirements contained in any other part of
+this ordinance;  provided, however, should a greater setback line or front yard be
+required along any portion of any street herein before named by any other section or
+provision of this ordinance, then such greater setback line or front yard area shall be
+the minimum permitted by this ordinance.
+(B) Required yard areas adjacent to a street shall be measured from the proposed future
+right-of-way line as set forth in this section. [Amended by Ordinance 90-14]
+112.200.  AMENDMENT BY RESOLUTION.   Future amendments to the road classification
+map shall be accomplished by resolution of the Board of Commissioners.  [Amended by Ordinance 90-14]
+112.210.  NEW AND EXISTING FACILITIES TO PROVIDE PARKING AND
+LOADING.   Off-street automobile parking areas and off-street loading areas as hereinafter set
+forth shall be provided and maintained.
+(A) For any new building or structure erected.
+(B) For additional seating capacity, floor area, gu est rooms, or dwelling units added to
+any existing building or structure.
+(C) When the use of the building or structure as se t forth in Section 112.250 is changed,
+which changed use would require additional parking areas and off-street loading
+areas under the provisions of this ordinance.
+112.220.  DIMINUTION OF PARKING AREA PROHIBITED.   Off-street parking and
+loading areas which existed on the effective date of this ordinance (November 13, 1970) or
+which subsequent thereto are provided for the purpose of complying with the provisions of this
+code shall be retained and maintained or the equivalent parking and loading areas provided.
+112.230.  LOCATION.   Off-street parking and loading areas shall be provided on the same lot
+with the main building or structure or use except that:
+(A) In the SR zone, automobile parking areas for dw ellings and other uses permitted in
+that zone may be located on another lot if such lot is within 200 feet of the lot
+containing the main building, structure or use;
+(B) In any other zone the parking area may be locat ed off the site of the main building,
+structure or use if it is within 500 feet of such site.
+112.240.  JOINT USE.   A parking area may be used for a loading area during those times when
+the parking area is not needed or used.  The automobile parking space provided by churches and
+schools may be made available as a public or private parking lot when the use thereof is not
+required by the church or school for which such parking was provided, regardless of the zone
+wherein located, provided the lot is developed as prescribed in this ordinance.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-18
+112.250.  OFF-STREET AUTOMOBILE PARKING REQUIREMENTS.  Off-street
+automobile parking shall be provided as required by Section 112.270 and approved by the
+Planning Director in the amounts not less than those listed below:
+
+USE   AMOUNT REQUIRED
+(A) 1, 2 and 3 family dwellings  1 space per dwelli ng unit
+
+(B)  Multi-family dwelling containing
+4 or more dwelling units located
+on the same lot
+ 3 spaces per 2 dwelling units (equal to 1.5 the
+number of units)
+
+(C) Residential hotel; rooming or
+boarding house
+ 4 spaces per 5 guest accommodations (equal to 8
+percent of the number of guest accommodations,
+plus 1 additional space for the owner or manager)
+
+(D) Fraternities, sororities, dormitories
+(off campus)
+ 1 space for every 4 student houses or beds
+
+(E) High rise apartments (3 stories or
+more)
+ 1 space per unit
+
+(F) Hotel  1 space per guest room or suite
+
+(G) Motel  1 space per guest room or suite, plus 1 additional
+space for the owner or manager
+
+(H) Club; lodge  Spaces sufficient to meet the comb ined minimum
+requirements of the daytime uses being conducted,
+such as hotel, restaurant, auditorium, etc.
+
+(I) Welfare or correctional  1 space per 5 beds for  institution patients or
+inmates
+
+(J) Convalescent hospital, nursing
+home, sanitarium, rest home,
+home for aged, group care facility
+
+ 1 space per 2 beds for patients or residents
+
+(K) Hospital  3 spaces per 2 beds (equal to 1.5 tim es the number
+of beds)
+
+(L) Church  1 space per 4 seats or every 8 feet of bench length
+in the main auditorium
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-19
+(M) Library; reading room  1 space per 400 sq. ft. of floor area, plus 1 space
+per 2 employees
+
+(N) Pre-school nursery; kindergarten  2 spaces per teacher, plus off-street student loading
+and unloading facility
+
+(O) Elementary or Junior High School   2 spaces per classroom, plus off-street student
+loading and unloading facility
+
+(P) High School  1 space per classroom, plus 1 spac e per
+administrative employee, plus 1 space for each 6
+students, plus off-street student loading and
+unloading facility
+
+(Q) College, commercial school for
+adults
+ 1 space for each 4 students enrolled in school
+
+(R) Other auditorium; meeting  1 space per 4 seats or 8 feet room of bench length
+
+(S) Parks - other than neighborhood
+parks or playgrounds, where a use
+is specifically listed herein, then
+the off-
+street parking requirements
+for that use shall apply
+ 1 space per 3 picnic tables, plus 5 spaces suffici ent
+parking for all activities within the park shall be
+provided when sufficient on-street parking is not
+available
+
+(T) Stadium; arena; theater  1 space per 4 seats or  8 feet of bench length
+
+(U) Bowling alley  5 spaces per alley, plus 1 space  per 2 employees
+
+(V) Dance hall; skating rink  1 space per 100 sq. f t. of gross floor area, plus 1
+space per 2 employees
+
+(W) Golf Course  4 spaces for each tee, plus 1 spac e per 200 sq. ft. of
+gross floor area of each building, plus 1 space per
+every 2 employees
+
+(X) Retail store, except as provided in
+paragraph (Y) of this subsection
+ 1 space per 200 sq. ft. of gross floor area, plus 1
+space per every 2 employees
+
+(Y) Service or repair shop store
+handling exclusively bulky
+merchandise such as automobiles
+and furniture
+ 1 space per 600 sq. ft. of gross floor area, plus 1
+space per every 2 employees
+
+(Z) Bank; office buildings (except
+medical and dental)
+ 1 space per 300 sq. ft. of gross floor area, plus 1
+space per 2 employees
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-20
+(AA) Medical and dental clinic  1 space per 300 sq.  ft. of gross floor area, plus 1
+space per 2 employees
+
+(BB) Eating or drinking establishments  1 space per  200 sq. ft. of gross floor area
+
+(CC) Mortuaries  1 space per 4 seats or 8 feet of b ench length in
+chapels
+
+(DD) Storage Warehouse;
+manufacturing establishment;  rail
+or trucking freight terminal
+ 0-49,999 sq. ft. of floor area
+:  1 space per 5,000 sq.
+ft. or 1 space per employee, whichever is greater
+
+   50,000-99,999 sq. ft. of floor area :  1 space per
+10,000 sq. ft. or 1 space per employee, whichever is
+greater
+
+   100,000 sq. ft. and over of floor area :  1 space per
+15,000 sq. ft. or 1 space per employee, whichever is
+greater
+
+(EE) Wholesale establishment  1 space per employee or 1,000 sq. ft. of gross floor
+area, whichever is greater, plus 1 space per 700sq.
+Ft. of patron-serving area
+
+(FF) Governmental Office Buildings  1 space per 600  sq. ft. of gross floor area, plus 1
+space per 2 employees
+
+(GG) When a parking requirement is
+stated in terms of employees, it
+means the maximum number of
+employees who will be at the site
+at one time, eith
+er on a single shift
+or an overlap of shifts
+
+112.260.  OFF-STREET LOADING AREA DEVELOPMENT REQUIREMENTS.   Off-
+street loading space shall be provided in the amounts listed below except that, in appropriate
+cases, the Hearings Officer or Planning Director may waive the requirements for loading space,
+after proceedings are had as for a conditional use as provided in Chapter 119, and when the
+Hearings Officer or Planning Director has determined that the use to which the building is to be
+put is of a kind not requiring the loading or unloading or delivery of merchandise or other
+property by commercial trucks or delivery vehicles; provided, however, whenever the use of such
+building is changed to another use, then such loading space as is required by this ordinance shall
+be provided.
+(A) A minimum loading space size of 12 feet wide, 2 0 feet long, and 14 feet high shall be
+required as follows:
+(1)  For multi-family dwellings with ten (10) or mo re dwelling units, 1 space;
+(2)  For buildings used entirely for office occupan cy, up to 2,000 square feet gross
+floor area, one (1) space; for each additional 40,000 square feet of gross floor
+area, or any portion thereof, one (1) space;
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-21
+(B) A minimum loading space size of 12 feet wide, 3 0 feet long and 14 feet high shall be
+required as follows:
+(1)  For all buildings except residential and those  used entirely for office use: Up to
+2,000 square feet gross floor area, one (1) space;
+(2)  For each additional 40,000 square feet of floo r area or any portion thereof, one
+(1) space.
+112.270.  PARKING AND LOADING AREA DEVELOPMENT REQUIREMENTS.   All
+parking and loading areas except those for single family dwellings shall be developed and
+maintained as follows:
+(A) Location or site:  The required yard areas adja cent to a street shall not be used for
+parking or loading areas and the yards shall be the same as is required for the main
+building in the district in which the parking area is to be located and such yard area
+adjacent to a street shall be landscaped with trees, shrubs, grass or evergreen ground
+cover and other complementary materials and maintained in a neat and well
+appearing manner.  The side and rear yards, other than those adjacent to a street, may
+be used for parking and loading areas when such areas have been developed and are
+maintained as required by this ordinance.
+(B) Surfacing:  Inside an adopted urban growth boun dary all driveways, parking and
+loading areas shall be paved with asphalt or concrete surfacing and shall be
+adequately designed, graded and drained as required by the director of public works
+except where existing.  When existing gravel lots inside the UGB are expanded in
+excess of 50 percent above the existing lot size they shall be paved. Outside of urban
+growth boundaries, gravel, asphalt or concrete may be used for surfacing based on
+the standard of: six (6) inches of one (1) inch minus gravel to three (3) inch minus; if
+three (3) inch minus is used the top two (2) inches shall be one (1) inch minus or an
+alternative as approved by the Director of Public Works.  A paved access apron to
+any paved access road is required regardless of the parking lot surface.
+[Amended by
+Ordinance 90-19]
+(C) Bumper guards or wheel barriers:  Bumper guards  or wheel barriers shall be so
+installed that no portion of a vehicle will project into a public right-of-way or over
+adjoining property.  The area beyond the wheel barriers or bumper guards shall be
+paved or covered with evergreen ground cover.
+(D) Size of parking spaces and driveways:  The park ing area, each parking space and all
+driveways shall be of sufficient size and all curves and corner of sufficient radius to
+permit the safe operation of a standard size automobile, to wit:
+(1) Parking space (See Appendix 1);
+(2) Maximum 12 percent grade for driveways;
+(3) Directional signs and pavement marking shall be  used to control vehicle
+movement in the parking lot;
+(4) One-way drives shall have an improved width of at least 12 feet, and the inside
+radius at the curb shall be 25 feet for any curves or corners and signs shall be
+erected indicating the one-way direction;
+(5) Two-way driveways shall have an improved width of at least 20 feet and the
+inside radius at the curb shall be 25 feet for any curves or corners.
+(E) Access:  All parking or loading areas shall be served with either separate ingress and
+egress driveways or with an adequate turn-around, which is always available and
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-22
+useable.  All entrances and exits onto a public right-of-way shall first have the
+approval of the Director of Public Works or County Engineer.
+(F) Fences, walls and hedges:
+(1) When the parking or loading area is within the SR zone such parking or
+loading area shall be screened from all obscuring ornamental fence, wall or
+compact evergreen hedge, except along an alley;
+(2) When the parking or loading area is adjacent to  the SR zone, there shall be a
+sight obscuring ornamental fence, wall, or compact evergreen hedge between
+the parking or loading area and the SR zone, except along an alley;
+(3) The ornamental fence or wall shall be erected a nd maintained at a height of at
+least four (4) feet but not more than seven (7) feet; a compact evergreen hedge
+shall be not less than three (3) feet at planting and capable of reaching a height
+of six (6) feet.  Fences, walls or hedges shall have the same setback
+requirements from all streets and the same vision clearance areas as required
+for a one (1) story building in the zone in which such parking or loading area is
+located.  In yard areas other those adjacent to a street, the fence wall or hedge
+may be located on the property line.
+(G) Lighting:  Any light used to illuminate a parki ng or loading area shall be so arranged
+as to be directed entirely onto the loading or parking area, shall be deflected away
+from any residential use and shall not cast a glare or reflection onto moving vehicles
+on public right-of-way.
+(H) Landscaping:  In every residential, commercial,  and industrial zone other than  the
+SR zone, there shall be provided a landscaped yard as set forth in the appropriate
+development standards sections of this chapter.  In addition to other landscape
+requirements every newly developed automobile off-street parking area or if any
+graveled or unimproved lot is paved, such lot shall have at least one (1) percent of
+the gross parking lot area devoted to landscaping.  The gross parking lot area, as used
+in this instance, is the outer boundaries of the specific area devoted to parking of
+automobiles exclusive of any buildings and/or other landscaping areas otherwise
+provided.
+(I) Plans and Permits:  Plans at a workable scale s hall be referred to the Director of
+Public Works or County Engineer for a recommendation prior to the issuance of a
+permit by the Building Official.
+(J) Loading spaces shall be marked for loading only .
+112.280.  APPLICATION OF REGULATIONS REGARDING ACCESSORY
+STRUCTURES.   The regulations regarding accessory structures  set forth in Sections 112.290
+through 112.370 shall apply to customary residential accessory buildings for private use, fences,
+or signs, in the Suburban Residential Zoning District. These regulations do not apply to accessory
+structures in the Acreage Residential Five Acre (AR-5) and Ten Acre (AR-10) Zones, or
+Agriculture and Forestry Ten Acre (AF-10) zone. The standards for fences and signs in all zones,
+except the SR zone, are listed in Section 112.125.  [Amended by Ordinance 12-01]
+112.290.  LOT COVERAGE BY ALL ACCESSORY STRUCTURES.  The lot coverage by
+all accessory structures shall not be more than 25 percent of rear yard area.
+112.300.  HEIGHT STANDARDS FOR DETACHED ACCESSORY STRUCTURES
+EXCEPT FENCES AND SIGNS.  The maximum height (as defined by Section 110.260) of any
+accessory structure, except fences and signs, shall be eight (8) feet plus the distance that the
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-23
+accessory structure is setback from the nearest property line. For the purposes of this section, the
+setback distance shall be rounded down to the nearest one foot increment. The maximum height
+for an accessory structure shall not exceed 35 feet. This section does not alter the required
+setbacks listed in Sections 112.310 through 112.330.  [Amended by Ordinance 12-01]
+112.310.  FRONT YARDS AND YARDS ADJACENT TO STREETS WITH ACCESSORY
+STRUCTURES.   Any accessory structure, except fences and signs, which has any portion
+extending above grade shall observe the yard requirements the same as the main building,
+otherwise all such structures shall be at or below grade. Fences and signs may be placed on the
+property line.  [Amended by Ordinance 12-01]
+112.320.  SIDE YARDS, INTERIOR WITH ACCESSORY STRUCTURES.   Accessory
+structures, except  fences, not attached to the main building located in an interior side yard shall
+be set back at least five (5) feet from any lot line. Fences may be placed on the property line.
+[Amended by Ordinance 12-01]
+112.330.  REAR YARDS WITH ACCESSORY STRUCTURES.  Within interior rear yards
+and portions of rear yards not abutting a street, an accessory structure may be placed on the
+property line except along an alley; all structures except fences shall be at least one (1) foot from
+the alley.  Note: The Building Code may require a setback from the property line.
+112.340.  ACCESSORY STRUCTURES ATTACHED TO THE MAIN BUILDING.
+Covered or enclosed accessory buildings which are attached to the main building shall be
+considered as a portion of the main building and shall observe the same requirements as the main
+building except for certain projections, as provided in Sections 112.100, 112.110, and 112.120.
+Accessory structures shall be considered as being attached to the main building when any portion
+of the accessory structure is located within four (4) feet of the main building.
+112.350.  FENCES AND SIGNS-LOCATION, HEIGHT AND DENSITY.   In any yard
+adjacent to a street and within ten (10) feet from the property line adjacent to such street, fences,
+walls, hedges, and signs may be up to 48 inches in height. That portion of a fence above 24
+inches shall be at least 75 percent open when measured at 90 degrees to the fence.  Fences and
+signs located in a yard area other than above described may be up to seven (7) feet in height.
+[Amended by Ordinance 12-01]
+112.360.  MEASUREMENT OF HEIGHT OF FENCES AND SIGNS.  All fences and signs
+along a public right-of-way will be measured from and along the sidewalk, or if no sidewalk
+exists, from and along the curb, or if no curb exists, from and along the finished shoulder grade
+of the right-of-way.  All other fences and signs will be measured from and along the finished
+grade of the property along the fence.  [Amended by Ordinance 12-01]
+112.370.  FENCES-USE OF HAZARDOUS MATERIALS.   Fences shall not be constructed
+of or contain any material which will do bodily harm, such as barbed wire, electric wire, (other
+than stock fences), broken glass, spikes, and any other hazardous or dangerous materials.
+112.390.  RESIDENTIAL ZONE DEVELOPMENT STANDARDS
+(A) Suburban Residential Zoning District (SR)
+(1) LOT AREA COVERAGE AND WIDTH.  The front buildin g line of every lot
+in an SR Zone shall have a minimum width of 60 feet.  Total lot coverage by a
+dwelling, main building and accessory building in combination shall not
+exceed 40 percent of the lot area.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-24
+(2) FRONT YARD.  Every building erected, constructe d, or altered in an SR Zone
+shall set back from the front lot line at least 20 feet, except in the instance
+where the average depth of the other buildings on the same side of the street are
+between ten (10) and 20 feet, then the average depth may be used.  The average
+depth is the average of the distance from the closest part of the foundation of
+the existing buildings to the front property line  where the existing buildings
+are within 200 feet of the center of the proposed building, on the same side of
+the street, within the same block.
+If existing buildings are within ten (10) feet of the property line, then no less
+than 10 feet shall be used in figuring the average, or if existing building are
+more than 20 feet from the property line then the minimum requirement of 20
+feet shall be used in figuring the average.
+When by this ordinance or any other ordinance a greater setback or a front yard
+of greater depth is required than specified in this section, then such greater
+setback line or front yard depth shall apply.
+(3) SIDE YARDS.  There shall be a side yard on each  side of the main building on
+every lot in an SR Zone in width not less than five (5) feet for a one-story
+building; not less than six (6) feet for a two and one-half (2-1/2) story building;
+provided, however, any side yard adjacent to a street shall conform to the
+setback set forth in Section 112.080.
+(4) REAR YARDS.  There shall be a rear yard on ever y lot in an SR Zone, which
+rear yard shall have a minimum depth of 24 feet for a one (1) story building, 30
+feet for a two (2) story building and 36 feet for a two and one-half (2-1/2) story
+building.  In the case of a corner lot, the minimum depth shall be 14 feet for a
+one (1) story building, 20 feet for a two (2) story building adjacent to either
+interior lot line; provided, however, any rear yard provided adjacent to a street
+shall conform to the setback set forth in Section 112.080.
+(5)  HEIGHT.  In the SR Zone, no buildings or structure shall exceed 35 feet or two
+and one-half (2-1/2) stories in height, except churches and public and semi-
+public buildings, where permitted, may be built to a height of 70 feet or six (6)
+stories, provided any such buildings set back from every street and lot line one
+(1) foot for each foot of height of the building in excess of 35 feet, in addition
+to other yard and setback requirements herein specified.
+(6)  MINIMUM SIZE FOR THE CREATION OF NEW PARCELS OR LOTS.
+The minimum size for newly created lots or parcels in the Suburban
+Residential Zone shall be as follows:
+(a)  1.00 acre within unincorporated communities, or
+(b)  2.00 acres outside urban growth boundaries and outside unincorporated
+community boundaries, or
+(c)  Within an urban growth boundary, the minimum size for newly created
+parcels or lots shall conform to the lot area requirements identified in the
+urban growth management agreement between Polk County and the
+affected City.
+Note:  Nothing in this section provides for an exemption from compliance with
+Polk County Subdivision Ordinance Section 91.350 which requires that each
+lot or parcel be of proper size to provide for adequate sub-surface sewage
+disposal facilities.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-25
+(B) Acreage Residential and Agriculture and Forestr y Zoning Districts (AR-5,  AR-10,
+and AF-10)
+(1)  LOT AREA.
+(a)  The minimum lot size in the AR-5 Zone shall be five (5) acres.
+(b)  The minimum lot size in the AR-10 and AF-10 Zones shall be ten (10)
+acres.
+(2) YARDS.
+(a) There shall be front, side, and rear yards of t he following depths for lots
+in the AR-5, AR-10, and AF-10 Zoning Districts:
+All buildings and structures
+Front Side Rear
+30 feet 20 feet 20 feet
+(b) Any side or rear yard adjacent to a street shal l meet the yard requirement
+for a front yard.
+(c) When by this ordinance or any other ordinance, a greater setback or front
+yard of greater depth is required by this section, the greater setback line
+or front yard depth shall apply.  If a lesser setback or yard is required, the
+provisions of this ordinance shall apply.
+(d) All structures are subject to any special setba ck lines, where specified on
+designated arterials or collectors, in addition to the above setbacks.
+(3) HEIGHT.  In the AR-5, AR-10, and AF-10 Zones, n o buildings or structure
+shall exceed 35 feet or two and one-half (2-1/2) stories in height, except
+churches and public and semi-public buildings, where permitted, may be built
+to a height of 70 feet or six (6) stories, provided any such buildings set back
+from every street and lot line one (1) foot for each foot of height of the building
+in excess of 35 feet, in addition to other yard and setback requirements herein
+specified.
+[Amended by Ordinance 04-01]
+ (C) Residential Multi-Family Zoning District (RM)
+(1) LOT AREA AND WIDTH.  In the RM zone the minimum  requirements for lot
+area shall be 6,000 square feet for a single-family dwelling.  The minimum lot
+area requirements for other residential uses shall be 5,000 square feet
+additional lot area computed as follows:
+(a) For the 1st through the 5th unit:
+(i) For each dwelling unit with one (1) or less bed rooms - 750 square
+feet;
+(ii) For each dwelling with two (2) bedrooms - 1,00 0 square feet;
+(iii) For each dwelling with three (3) or more bedr ooms - 1,200 square
+feet.
+(b) For the 6th dwelling unit and each succeeding d welling unit the
+following additional lot area shall be required:
+(i) For each dwelling unit with one (1) or less bed rooms:
+(A) One (1) story - 1,250 square feet
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-26
+(B) Two (2) story - 1,000 square feet
+(ii) For each dwelling with two (2) bedrooms:
+(A) One (1) story - 1,675 square feet
+(B) Two (2) story - 1,300 square feet
+(iii) For each dwelling with three (3) or more bedr ooms:
+(A) One (1) story - 2,150 square feet
+(B) Two (2) story - 1,700 square feet
+(c) No main building or group of buildings shall oc cupy more than 40
+percent of the lot area, and no detached accessory structure may occupy
+more than 25 percent of any side or rear yard, except that covered or
+enclosed parking structure limited to one story in height shall be
+excluded from these coverage provisions;
+(d) Every lot in the RM zone shall have a minimum w idth of 50 feet at the
+front building line.  The minimum lot area requirements for buildings
+other than dwellings shall be of an area not less than the sum of the area
+occupied by the building or buildings, and the area required for yards
+herein, or 5,000 square feet, whichever is greater.
+(e) Subdivision or partition proposals for property  located within an adopted
+Urban Growth Boundary shall conform to the lot area requirements of all
+urban growth management agreements adopted between Polk County and
+the participating city prior to granting of final approval.
+(2) FRONT YARDS.  In the RM zone, there shall be a minimum front yard of 20
+feet.  No parking shall be allowed in the required minimum front yard.
+(3) SIDE AND REAR YARD.
+(a) There shall be a side yard and a rear yard on e very lot in the RM zone,
+which yards shall have a minimum depth as follows:
+(i) One story - six (6) feet
+(ii) Two story - seven (7) feet
+(iii) Two and one-half (2 1/2) story - eight (8) fe et
+There shall be added to these minimum side yard and the rear yard
+requirements, one (1) foot for each multiple of 15 feet or portion thereof, that
+the length of the side of the building measures over 30 feet.  Notwithstanding
+Section 110.610, the rear yard in the RM zone shall be measured from the
+property line.
+(b) In lieu of subsection (a) of this section, side  and rear yards may be
+provided which will allow placement of portions of a main building with
+offsets and jogs at varying yard depths, provided the said yards shall
+conform to the following conditions:
+(i) The minimum yard depth for any continuous wall between offsets
+and jogs shall be computed and provided as in subsection (a) of
+this section for that portion of the wall between offsets and jogs,
+provided the total yard area equals that which would have been
+otherwise provided in said subsection (a) which area shall be
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-27
+determined by multiplying the length of the yard times the depth of
+the yard.
+(ii) The minimum yard depth for any portion of a bu ilding shall be six
+(6) feet for a one (1) story, seven (7) feet for a two (2) story, and
+eight (8) feet for a two and one-half (2 1/2) story building.
+(4) LANDSCAPED YARDS.
+(a) In the RM zone, the following landscaped yard s hall be provided for
+residential uses other than single and two (2) family dwellings:
+(i) For each dwelling unit with one (1) or less bed rooms - 300 square
+feet;
+(ii) For each dwelling with two (2) bedrooms - 400 square feet;
+(iii) For each dwelling with three (3) bedrooms - 5 00 square feet;
+(iv) For each dwelling with more than three (3) bed rooms - 500 square
+feet, plus 100 square feet for each additional bedroom in each unit.
+(b) In the RM zone all required yards adjacent to a  street shall be landscaped,
+save that portion devoted to off-street parking.  Such landscaping may be
+counted in fulfilling the requirements of subsection (a).
+(5) HEIGHT.  In the RM zone, no building or structu re shall exceed 35 feet or two
+and one-half (2 1/2) stories in height, except churches and public and semi-
+public buildings, where permitted, may be built to a height not to exceed 70
+feet or six stories, provided any such building sets back from every street and
+lot line one foot for each foot of height of the building in excess of 35 feet, in
+addition to other yard and setback requirements herein specified.
+(D) Limited Multi-Family Residential Zone (RL)
+(1) LOT AREA AND WIDTH.  In the RL zone the minimum  requirements for lot
+area shall be 6,000 square feet for a single-family dwelling.  The minimum lot
+area requirements for other residential uses shall be 5,000 square feet
+additional lot area computed as follows:
+(a) For the 1st through the 5th unit:
+(i) For each dwelling unit with one (1) or less bed rooms - 750 square
+feet;
+(ii) For each dwelling with two (2) bedrooms - 1,00 0 square feet;
+(iii) For each dwelling with three (3) or more bedr ooms - 1,200 square
+feet.
+(b) For the 6th dwelling unit and each succeeding d welling unit the
+following additional lot area shall be required:
+(i) For each dwelling unit with one (1) or less bed rooms, one (1) story
+- 1,250 square feet;
+(ii) For each dwelling unit with two (2) bedrooms, one (1) story -
+1,675 square feet;
+(iii) For each dwelling with three (3) or more bedr ooms, one (1) story -
+2,150 square feet;
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-28
+(c) No main building or group of buildings shall oc cupy more than 40
+percent of the lot area, and no detached accessory structure may occupy
+more than 25 percent of any side or rear yard, except that covered or
+enclosed parking structure limited to one story in height shall be
+excluded from these coverage provisions;
+(d) Every lot in the RL zone shall have a minimum w idth of 50 feet at the
+front building line.  The minimum lot area requirements for buildings
+other than dwellings shall be of an area not less than the sum of the area
+occupied by the building or buildings, and the area required for yards
+herein, or 5,000 square feet, whichever is greater.
+(e) Subdivision or partition proposals for property  located within an adopted
+Urban Growth Boundary shall conform to the lot area requirements of all
+urban growth management agreements adopted between Polk County and
+the participating city prior to granting of final approval.
+(2) FRONT YARDS.  In an RL zone, there shall be a m inimum front yard of 20
+feet.  No parking shall be allowed in the required minimum front yard.
+(3) SIDE AND REAR YARD.
+(a) There shall be a side yard and a rear yard on e very lot in the RL zone,
+which yards shall have a minimum depth of six (6) feet; provided there
+shall be added to the minimum side yard and rear yard requirements, one
+(1) foot for each multiple of 15 feet or portion thereof, that the length of
+the side of the building measures over 30 feet.  Notwithstanding Section
+110.610, the rear yard in an RL zone shall be measured from the property
+line.
+(b) In lieu of subsection (a) above, side and rear yards may be provided
+which allow placement of portions of a main building with offsets and
+jogs at varying yard depths, provided the said yards shall conform to the
+following conditions:
+(i) The minimum yard depth for any continuous wall between offsets
+and jogs shall be computed and provided as in (a) above for that
+portion of the wall between offsets and jogs; provided the total
+yard area equals that which would have otherwise been provided in
+(a) above, which area shall be determined by multiplying the length
+of the yard times the depth of the yard.
+(ii) The minimum yard depth for any portion of a bu ilding shall be 6
+feet.
+(c) Notwithstanding the provisions of subsections ( a) and (b) of this section,
+any side yard or rear yard adjacent to a street shall have a minimum yard
+depth of 20 feet.  No parking shall be allowed within ten (10) feet of the
+street property line; provided, however, in no case shall parking be
+allowed in a required rear yard abutting the parallel or approximately
+parallel street or a through lot.  For the purposes of this subsection,
+through lot shall be defined as a lot having frontage on two (2) parallel or
+approximately parallel street.
+(d) The yard depth between two (2) or more main bui ldings on the same lot
+shall be equal to that side yard depth measured to an assumed property
+line drawn between the buildings.  The yard depth between the assumed
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-29
+property line and the building shall not be less than as provided in (a)
+above.
+(4) LANDSCAPED YARDS.
+(a) In the RL zone, the following landscaped yard s hall be provided for
+residential uses other than single and two (2) family dwellings:
+(i) For each dwelling unit with one (1) or less bed rooms - 300 square
+feet;
+(ii) For each dwelling with two (2) bedrooms - 400 square feet;
+(iii) For each dwelling with three (3) bedrooms - 5 00 square feet;
+(iv) For each dwelling with more than three (3) bed rooms - 500 square
+feet, plus 100 square feet for each additional bedroom in each unit.
+(b) In the RL zone all required yards adjacent to a  street shall be landscaped,
+save that portion devoted to off-street parking.  Such landscaping may be
+counted in fulfilling the requirements of subsection (a) above.
+(5) HEIGHT.  In the RL zone, no building or structu re except a single-family
+dwelling on a separate deeded lot shall exceed one (1) story or 20 feet in
+height.  Single-family dwellings shall not exceed 35 feet or two and one-half
+(2-1/2) stories.  When approved by the Planning Director or Hearings Officer
+as a conditional use, churches and public and semi-public buildings, where
+permitted, may be built to a height not to exceed 70 feet or six (6) stories,
+provided any such building sets back from every street and lot line one (1) foot
+for each foot of height of the building in excess of 35 feet, in addition to other
+yard and setback requirements herein specified.
+(E) High Rise Apartment Residential Zone (RH)
+(1) LOT AREA AND WIDTH.  Where the building or stru cture or portion thereof
+to be erected, altered or enlarged is not to exceed 35 feet or two and one-half
+(2-1/2) stories, then the requirements for lot area and width in the RM zone set
+forth in the RM zone (Section 112.380) shall apply.  For buildings or structures
+exceeding 35 feet or two and one-half (2-1/2) stories the lot shall have a
+minimum lot area of 10,000 square feet.
+Subdivision or partition proposals for property located within an adopted
+Urban Growth Boundary shall conform to the lot area requirements of all urban
+growth management agreements adopted between Polk County and the
+participating city prior to granting of final approval.
+(2) FRONT YARDS.  In the RH zone, there shall be a minimum front yard of 20
+feet.  No parking shall be allowed in the required minimum front yard.
+(3) SIDE YARDS.  When the building or structure or portion thereof to be erected,
+altered, or enlarged is not to exceed 35 feet or two and one-half (2-1/2) stories,
+then the requirements for side yards set forth in the RM zone (Section 112.380
+(C)(3) shall apply.  For buildings and structures exceeding 35 feet or two and
+one-half (2-1/2) stories, each main building on each side shall have side yards,
+the minimum width of each shall be five (5) feet, which width shall be
+increased by 3 feet for each additional story above the first, but need not
+exceed 20 feet; provided, however, any side yard provided adjacent to a street
+shall have a minimum width of 20 feet, and there shall be no parking allowed
+with ten (10) feet of the street.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-30
+(4) REAR YARDS.  Where the building or structure or  portion thereof to be
+erected, altered, or enlarged is not to exceed 35 feet or two and one-half (2-1/2)
+stories, then the requirements for rear yards set forth in the RM zone (Section
+112.380 (C)(3)) shall apply.  For buildings and structures exceeding 35 feet or
+two and one-half (2-1/2) stories, there shall be a rear yard on every lot in an RH
+zone, which rear yard shall have a minimum depth of 20 feet for a one (1) story
+building, plus four (4) for each additional story above the first.  Where the rear
+yard abuts a street no parking shall be allowed in the area within ten (10) of the
+said street.
+(5) LANDSCAPED YARDS.  Where the building or struct ure or portion thereof
+to be erected, altered, or enlarged is not to exceed 35 feet or two and one-half
+(2-1/2) stories, then the requirements for landscaped yards in the RM zone
+(Section 112.380 (C)(3)) shall apply.  For buildings and structures exceeding
+35 feet or two and one-half stories (2-1/2) stories all required yards therefore
+adjacent to a street shall be landscaped, save that portion devoted to offstreet
+parking.
+(6) HEIGHT.  There shall be no restrictions on heig ht in an RH zone.   [Amended by
+Ordinance 00-12]
+112.400.  COMMERCIAL ZONE DEVELOPMENT STANDARDS
+(A) Commercial Office Zoning District (CO) & Uninco rporated Community Office
+Zoning District (UC-CO)
+(1) LOT AREA AND WIDTH.  Where the structure or bui lding to be erected,
+altered or enlarged is to be used for purposes enum erated in the RM Zone, then
+the restrictions for lot area and width in the RM Z one shall govern (Section
+112.380 (C)(1)).  All other types of main building or accessory buildings shall
+occupy no more than 60 percent of the lot area.
+(2) FRONT YARDS.  In the CO and UC-CO Zones there s hall be a minimum
+front yard of 20 feet, and no parking shall be allowed.
+(3) SIDE YARDS.  Where the structure or building or  portion thereof to be
+erected, altered or enlarged is to be used for purposes enumerated in the RM
+Zone, then the restrictions for side yards in the RM Zone (Section 112.380
+(C)(3)) shall govern.  For buildings and structures erected, altered, or enlarged
+for other than RM Zone purposes, side yards shall be provided as follows:
+(a) Main building:
+(i) One (1) story - five (5) feet
+(ii) Two (2) story - ten (10) feet
+(b) Between main building on one (1) lot:
+(i) One (1) story - ten (10) feet
+(ii) Two (2) story - fifteen (15) feet
+Provided, however, any side yard provided adjacent to a street shall have a
+minimum width of 20 feet, and no parking shall be within 10 feet of said street.
+In the UC-CO Zone, side yards adjacent to an Exclus ive Farm Use Zone, Farm
+Forest Zone, Farm Forest Overlay Zone, or Timber Conservation Zone shall be
+a minimum of 20 feet.  A variance to this standard may be granted, subject to
+the provisions of Chapter 122 (Variances) of the Zo ning Ordinance, subject to
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-31
+a showing that the proposed variance will not adver sely affect adjacent farm or
+forest uses.
+  (4) REAR YARD. Where the structure or building or  portion thereof to be erected,
+altered or enlarged is to be used for purposes enumerated in the RM Zone, then
+the restrictions for rear yards in the RM Zone (Section 112.380 (C)(3)) shall
+govern.  For buildings and structures erected, altered, or enlarged for other than
+RM Zone purposes, there shall be a rear yard provided on every lot of a
+minimum of 10 feet for one (1) story buildings and 14 feet for two (2) story
+buildings.  In case the rear yard provided for is adjacent to a street, the
+minimum depth shall be 20 feet and no parking shall be allowed within 10 feet
+of said street.  When a lot is used for other than residential purposes, and the
+rear yard abuts upon or is adjacent to premises used for residential purposes,
+then the rear yard shall be enclosed with an ornamental fence or wall not less
+than six (6) feet in height or an ornamental compact evergreen hedge not less
+than three (3) feet and capable of attaining a height of six (6) feet, but this
+provision shall not apply to a lot bordered upon an alley.
+In the UC-CO Zone, a rear yard adjacent to an Exclusive Farm Use Zone, Farm
+Forest Zone, Farm Forest Overlay Zone, or Timber Conservation Zone shall be
+a minimum of 20 feet. In the UC-CO Zone, side yards adjacent to an Exclusive
+Farm Use Zone, Farm Forest Zone, Farm Forest Overlay Zone, or Timber
+Conservation Zone shall be a minimum of 20 feet.  A variance to this standard
+may be granted, subject to the provisions of Chapter 122 (Variances) of the
+Zoning Ordinance, subject to a showing that the proposed variance will not
+adversely affect adjacent farm or forest uses
+HEIGHT.  Where the building or structure or portion thereof to be erected,
+altered or enlarged is to be used for purposes enumerated in the RM Zone, then
+the restrictions for height in the RM Zone shall govern.  For buildings and
+structures erected, altered or enlarged for other than said purposes shall not
+exceed two (2) stories or 35 feet in height.
+(B) Commercial Retail Zoning District (CR), Unincor porated Community Commercial
+Retail Zoning District (UC-CR), Eola Unincorporated Community Commercial
+Zoning District, and Rickreall Unincorporated Community Commercial Zoning
+District (Rickreall UC-C).
+(1) LOT AREA AND WIDTH.  Buildings or structures he reafter erected, altered,
+or enlarged and used wholly or partly for residential purposes in the CR, UC-
+CR, Eola UC-C, & Rickreall UC-C Zones shall comply with the lot area and
+width requirements of the RM Zone (Section 112.380 (C)(1)), otherwise no
+other lot area requirements exist.
+
+(2) FRONT YARD.  A landscaped yard three (3) feet i n depth shall be provided in
+the CR, UC-CR, Eola UC-C, and Rickreall UC-C Zones on every lot adjacent
+to a street, except that building or structures or any portion thereof used for
+residential purposes shall provide the front yard and landscaped yard as set
+forth in the RM Zone (Section 112.380 (C)(2)).
+(3) SIDE AND REAR YARDS.  In the CR, UC-CR, Eola UC -C, and Rickreall
+UC-C Zones, no side or rear yard is required except as herein provided, but if
+one is provided it shall be not less than three (3) feet in depth exclusive only of
+any alley.  A side or rear yard shall be provided in the CR, UC-CR, Eola UC-C,
+and Rickreall UC-C Zones when:
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-32
+(a) The lot abuts or is adjacent to a premises used  or is zoned for residential
+purposes.  The yard shall be not less than three (3) feet in depth.
+(b) The buildings or structures or portions thereof  on a lot are used for
+residential purposes in which circumstances side and rear yard
+restrictions in RM Zones shall apply.  In the case of subsection (a) of this
+section, the side and rear yard shall be contained by a wall or fence or
+ornamental compact evergreen hedge not less than three (3) feet high and
+capable of attaining a height of six (6) feet.
+(c) A landscaped yard three (3) feet in depth shall  be provided in all side and
+rear yards adjacent to a street.
+In the UC-CR, Eola UC-C, and Rickreall UC-C Zones, side and rear yards
+adjacent to an Exclusive Farm Use Zone, Farm Forest Zone, Farm Forest
+Overlay Zone, or Timber Conservation Zone shall be a minimum of 20 feet.  A
+variance to this standard may be granted, subject to the provisions of Chapter
+122 (Variances) of the Zoning Ordinance, subject to a showing that the
+proposed variance will not adversely affect adjacent farm or forest uses.
+(4) LANDSCAPED YARDS.  All yards shall be landscape d exclusive of through direct
+driveways, adjacent to every street, on every lot upon which a new non-residential
+structure is erected, or a graveled or unimproved lot is paved or a lot is newly
+developed for the outdoor sale or display of merchandise, goods or services.
+(5) HEIGHT.  Where the building or structure or por tion thereof to be erected, altered, or
+enlarged is to be used for residential purposes in the CR, UC-CR, Eola UC-C, or
+Rickreall UC-C Zones, the restrictions for height in the RM Zone (Section 112.380
+(C)(5)) shall govern.  Buildings and structures erected, altered or enlarged for other
+than residential purposes shall not exceed three (3) stories or 45 feet in height.
+(6) CONDITIONS IMPOSED WHERE ZONE CHANGES TO CR, UC -CR, Eola UC-
+C, or Rickreall UC-C ZONE ABUTS RESIDENTIAL ZONE.  In any zone change or
+reclassification of property to the CR, UC-CR, Eola UC-C, or Rickreall UC-C Zones
+where the territory proposed to be changed abuts upon a residential zone, or abuts
+upon a street or alley which would be the boundary line between the proposed CR,
+UC-CR, Eola UC-C, and Rickreall UC-C Zones and the residential zone, conditions
+to preserve neighborhood qualities may be imposed by the Board of Commissioners
+relating to:
+(a) Size and location of signs;
+(b) Size, type and location of outdoor lighting;
+(c) Landscaped areas;
+(d) Screening;
+(e) Building setbacks; and
+(f) Ingress and egress for commercial uses.
+If any of the above conditions are imposed, they shall be placed in the deed records
+of the County.
+(C)  Commercial General Zoning District (CG) & Unincorporated Community
+Commercial General Zoning District (UC-CG)
+(1) LOT AREA AND WIDTH.  Buildings or structures he reafter erected, altered
+or enlarged and used wholly or partly for residential purposes in the CG and
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-33
+UC-CG  Zones shall comply with the lot area requirements in the RM Zone
+(Section 112.380 (C)(1)), otherwise no other lot area requirements exist.
+(2) FRONT YARD.  A landscaped yard three (3) feet i n depth shall be provided in
+the CG and UC-CG Zones on every lot adjacent to a street, except that
+buildings or structures or any portion thereof used for residential purposes shall
+provide the front yard and landscaped yard as set forth in the RM Zone
+(Section 112.380 (C)(2)).
+(3) SIDE AND REAR YARDS.  In the CG and UC-CG Zones , no side or rear yard
+is required, except as herein provided, but if one is provided it shall be not less
+than three (3) feet in depth exclusive of any alley.  A side or rear yard shall be
+provided in the CG and UC-CG Zones when:
+(a) The lot abuts or is adjacent to a premises used  or is zoned for residential
+purposes.  The yard shall be not less than three (3) feet in depth.
+(b) The buildings or structures or portions thereof  on a lot are used for
+residential purposes, in which circumstances, side and rear yard
+restrictions in the RM Zone (Section 112.380 (C)(3)) shall apply.  In the
+case of subsection (a) of this section, the side and rear yard shall be
+contained by a wall or fence or ornamental compact evergreen hedge not
+less than three (3) feet high and capable of attaining a height of six (6)
+feet.
+(c) A landscaped yard three (3) feet in depth shall  be provided in all side and
+rear yards adjacent to a street.
+In the UC-CG Zone, side and rear yards adjacent to an Exclusive Farm Use
+Zone, Farm Forest Zone, Farm Forest Overlay Zone, o r Timber Conservation
+Zone shall be a minimum of 20 feet.  A variance to this standard may be
+granted, subject to the provisions of Chapter 122 ( Variances) of the Zoning
+Ordinance, subject to a showing that the proposed v ariance will not adversely
+affect adjacent farm or forest uses.
+(4) LANDSCAPED YARDS.  All yards shall be landscape d exclusive of through
+direct driveways, adjacent to every street, on every lot upon which a new non-
+residential structure is erected, or a graveled or unimproved lot is paved or a lot
+is newly developed for the outdoor sale or display of merchandise, goods or
+services.
+(5) HEIGHT.  Where the building or structure or por tion thereof to be erected,
+altered, or enlarged is to be used for residential purposes in the CG and UC-CG
+Zones, the restrictions for height in the RM Zone (Section 112.380 (C)(5))
+shall govern.  Buildings and structures erected, altered or enlarged for other
+than residential purposes shall not exceed six (6) stories or 70 feet in height.
+(6) CONDITIONS IMPOSED WHERE ZONE CHANGE TO CG OR U C-CG
+ZONE ABUTS RESIDENTIAL ZONE.  In any zone change or reclassification
+of property to the CG and UC-CG Zones where the territory proposed to be
+changed abuts upon a residential zone, or abuts upon a street or alley which
+would be the boundary line between the proposed CG and UC-CG Zones and
+the residential zone conditions to preserve neighborhood qualities may be
+imposed by the Board of Commissioners relating to:
+(a) Size and location of signs;
+(b) Size, type and location of outdoor lighting;
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-34
+(c) Landscaped areas;
+(d) Screening;
+(e) Building setbacks; and
+(f) Ingress and egress for commercial uses.
+If any of the above conditions are imposed they shall be placed in the deed
+records of the County.
+[Amended by Ordinance 00-03]
+(D) Rural Commercial Zoning District (R-COM)
+(1) LOT AREA The minimum lot area shall be adequate  to provide for an
+approved on site septic system, a potable water source, parking and other
+applicable development standards of this Chapter and other general provisions
+and exceptions set forth by this ordinance.
+(2) LOT WIDTH. The minimum average lot width shall be 100 feet. The
+minimum lot width at the street shall be 50 feet.
+(3) FRONT YARD. A landscaped yard three (3) feet in  depth shall be provided in
+the R-COM Zone on every lot adjacent to a street. Buildings or structures or
+any portion thereof used for residential purposes are exempt from these
+provisions.
+(4) REAR AND SIDE YARDS.  No side or rear yard is r equired except where a
+lot abuts a residential use or district, there shall be a yard not less than the rear
+yard required by the abutting residential district.
+(a) Corner lots shall have no sight obstruction bet ween three (3) feet and ten
+(10) feet in height measured from street grade within 30 feet in either
+direction from the street corner, as measured from the property line.
+(b) The minimum yards shall be increased where such  yard or setback abuts
+a street having insufficient right-of-way width to serve the area.  The
+right-of-way shall be determined according to the applicable
+transportation plan.
+(d)  A landscaped yard three (3) feet in depth shall be provided in all side and
+rear yards adjacent to a street.
+112.410  INDUSTRIAL ZONE DEVELOPMENT STANDARDS
+(A) Industrial Commercial Zoning District (IC), Uni ncorporated Community Industrial
+Commercial Zoning District (UC-IC), Eola Unincorporated Community Industrial
+Commercial Zoning District (Eola UC-IC), and Rickreall Unincorporated
+Community Industrial Commercial Zoning District (Rickreall UC-IC).
+(1) LOT AREA AND WIDTH.  Buildings or structures he reafter erected, altered
+or enlarged and used wholly or partly for residential purposes in the IC, UC-IC,
+Eola UC-IC, and Rickreall UC-IC Zones shall comply with the lot area
+requirements in the RM Zone (Section 112.380 (C)(1) otherwise no other lot
+area requirements exist.
+(2) FRONT YARD.  A landscaped yard three (3) feet i n depth shall be provided in
+the IC, UC-IC, Eola UC-IC, and Rickreall UC-IC Zones on every lot adjacent
+to a street, except that buildings or structures or any portion thereof used for
+residential purposes shall provide the front yard and landscaped yard as set
+forth in the RM Zone (Section 112.380 (C)(2)).
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-35
+(3) SIDE AND REAR YARDS.  In the IC, UC-IC, Eola UC -IC, and Rickreall UC-
+IC zones, no side or rear yard is required, except as herein provided, but if one
+is provided it shall be not less than three (3) feet in depth exclusive of any
+alley.  A side or rear yard shall be provided in the IC, UC-IC, Eola UC-IC, and
+Rickreall UC-IC Zones when:
+(a) The lot abuts or is adjacent to a premises used  or is zoned for residential
+purposes.  The yard shall be not less than three (3) feet in depth.
+(b) The buildings or structures or portions thereof  on a lot are used for
+residential purposes, in which circumstances, side and rear yard
+restrictions in the RM Zone (Section 112.380 (C)(3)) shall apply.  In the
+case of subsection (a) of this section, the side and rear yard shall be
+contained by a wall or fence or ornamental compact evergreen hedge not
+less than three (3) feet high and capable of attaining a height of six (6)
+feet.
+(c) A landscaped yard three (3) feet in depth shall  be provided in all side and
+rear yards adjacent to a street.
+In the UC-IC, Eola UC-IC, and Rickreall UC-IC Zones, side and rear yards
+adjacent to an Exclusive Farm Use Zone, Farm Forest Zone, Farm Forest
+Overlay Zone, or Timber Conservation Zone shall be a minimum of 20 feet.  A
+variance to this standard may be granted, subject to the provisions of Chapter
+122 (Variances) of the Zoning Ordinance, subject to a showing that the
+proposed variance will not adversely affect adjacent farm or forest uses.
+(4) LANDSCAPED YARD.  All yards shall be landscaped  exclusive of
+through direct driveways, adjacent to every street, on every lot upon
+which a new non-residential structure is erected, or a graveled or
+unimproved lot is paved or a lot is newly developed for the outdoor sale
+or display of merchandise, goods or services.
+(5) HEIGHT.  Where the building or structure or por tion thereof to be
+erected, altered, or enlarged is to be used for residential purposes in the
+IC, UC-IC, Eola UC-IC, and Rickreall UC-IC Zones, the restrictions for
+height in the RM Zone (Section 112.380 (C)(5)) shall govern.  Buildings
+and structures erected, altered or enlarged for other than residential
+purposes shall not exceed six (6) stories or 70 feet in height.
+(6) INDUSTRIAL PERFORMANCE STANDARDS.  The discharg e into
+the air of solids, liquids or gases in such quantities as to be detrimental to
+the public health, safety and welfare causing injury to human, plant or
+animal life or to property is prohibited in this industrial zone.  In the IC,
+UC-IC, Eola UC-IC, and Rickreall UC-IC Zones, no land or structure
+shall be used or occupied unless there is continuing compliance with the
+following standards:
+(a) Heat, glare and light:
+(i) Except for exterior lighting, operations produc ing heat or
+glare shall be conducted entirely within an enclosed building
+and shall not be discernible at or beyond the property line.
+(ii) Exterior lighting shall be directed away from and shall not
+reflect on adjacent properties.
+(b) Noise:
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-36
+(i)  The standards for noise emissions from industrial and
+commercial noise sources are as follows:
+Allowable Statistical Noise Levels at Any One Hour
+ 7:00 a.m. to 10:00 p.m
+ 10:00 p.m. to 7:00 a.m
+L50  55 Dba 50 Dba
+L10  60 Dba 55 Dba
+L01  75 Dba 60 Dba
+Notes:
+L
+50  is the level that may be exceeded 50 percent of th e time;
+cumulative 30 minutes/hour
+L10  is the level that may be exceeded 10 percent of th e time;
+cumulative 10 minutes/hour
+L01  is the level that may be exceeded 1 percent of the  time;
+cumulative 36 seconds/hour
+Dba means A-weighted decibels (decibels measured at  the
+frequency where the human ear is most sensitive.
+(ii) If the noise is not smooth and continuous, the  following
+corrections in decibels shall be added to or subtracted from
+the above items:
+(A) When in each one hour period, the noise source
+operates less than a total of (use only one factor):
+12 minutes add  5 decibels
+3 minutes add 10 decibels
+20 seconds add 15 decibels
+(B) Noise of an impulsive character (such as hammer ing,
+etc.) less 5 decibels.
+(C) Noise of periodic character (such as humming, s creech,
+etc.) less 5 decibels.
+(iii) Noise made by devices which are maintained an d utilized
+solely to serve as warning devices is excluded from these
+regulations.
+(iv) Noise created by highway vehicles, trains, wat ercraft and
+aircraft is excluded from these regulations.
+(v) Measurements:
+(A) Sound levels shall be measured with a sound lev el
+meter and octave band analyzer approved by the
+Department of Environmental Quality.
+(B) Measurements shall be made from at least three points
+along the property line or along a residential,
+commercial, or public zone boundary when such
+boundary is closer to the source than the property line.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-37
+(C) Measurements for alleged violations shall be ma de on
+at least three (3) non-consecutive days.
+(c) Sewage:
+Adequate provisions shall be provided for the disposal of sewage
+and waste materials and such provisions shall meet the
+requirements of the Department of Environmental Quality.
+(d) Vibration:
+No vibration, other than that caused by highway vehicles and
+trains, shall be permitted which shall endanger the health, welfare
+or safety of the public or so as to constitute a public nuisance.
+(B) Industrial Park Zoning District (IP) & Unincorp orated Community Industrial Park
+Zoning District (UC-IP)
+(1) FRONT YARD.  There shall be a front yard on eve ry lot in the IP and UC-IP
+Zones, which front yard shall have a minimum depth of 20 feet.  Any front
+yard provided adjacent to a street shall not be used for off-street parking or
+loading areas, except ingress and egress lanes.
+(2) REAR AND SIDE YARDS.  There shall be a rear and  side yard on every lot in
+the IP and UC-IP Zones, which rear and side yard shall have a minimum depth
+of 10 feet.  The minimum depth shall be increased one (1) foot for each
+additional foot of building height above 10 feet, except a rear or side yard is
+not required adjacent to a railroad right-of-way, siding or spur track; provided,
+however, any rear or side yard provided adjacent to a street shall have a
+minimum depth of 20 feet.
+In the UC-IP Zone, side and rear yards adjacent to an Exclusive Farm Use
+Zone, Farm Forest Zone, Farm Forest Overlay Zone, or Timber Conservation
+Zone shall be a minimum of 20 feet.  A variance to this standard may be
+granted, subject to the provisions of Chapter 122 (Variances) of the Zoning
+Ordinance, subject to a showing that the proposed variance will not adversely
+affect adjacent farm or forest uses.
+(3) OPEN STORAGE YARDS.
+(a) All yard areas, exclusive of those required to be landscaped as provided
+in Section 112.400 (B)(4), may be used for materials and equipment
+storage yards or areas and may be used for the purposes permitted in the
+IP and UC-IP Zones, provided such yard area is enclosed with an
+ornamental, sight-obscuring fence or wall placed at a height of six (6)
+feet or a compact evergreen hedge planted at three (3) feet and capable of
+obtaining a minimum height of six (6) feet.  Any fence, wall or hedge
+shall be located on the property at the required setback line in the same
+manner as if said fence or wall were a building.
+(b) If any material or equipment projects above the  six (6) feet screen, then a
+screen plan will be submitted to the Planning Director for approval.
+(c) The surface of such area shall be paved or grav eled and maintained at all
+times in a dust-free condition; except, that all automobile and truck
+parking and loading areas shall be paved, as provided in Section 112.220
+through 112.280.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-38
+(d) Any lighting maintained in conjunction with mat erial and equipment
+storage areas shall be so oriented as to not shine on or reflect into
+abutting properties or streets.
+(4) LANDSCAPED YARDS.  All required yard areas and all other yards not used
+for open storage as provided in Section 112.400 (B)(3), or paved parking and
+loading areas, shall be landscaped.
+(5) HEIGHT.  In the IP and UC-IP Zones, no building  or structure shall exceed 45
+feet in height.
+(6) VEHICLE ACCESS.  Access points to property from  a street shall be located
+to minimize traffic congestion, and maximum effort shall be made to avoid
+directing traffic into residential areas.  Before a street, other than an arterial,
+which is a boundary between a residential zone and the IP or UC-IP Zones, or a
+street which is within a residential zone, is used for any vehicular access to the
+IP or UC-IP Zone, such use of those streets must first have been approved by
+the Planning Director as a conditional use.  Access roads and access points will
+be used to the maximum extent possible to serve the greatest number of uses.
+All access roads and driveways shall be surfaced with asphalt concrete or
+comparable permanent surfacing.
+(7) INDUSTRIAL PERFORMANCE STANDARDS.  The industri al performance
+standards for the IP and UC-IP Zones shall be the same as set forth in Section
+112.400 (A)(6).
+(C) Light Industrial Zoning District (IL), Unincorp orated Community Light Industrial
+Zoning District (UC-IL), Eola Unincorporated Community Industrial Zoning District
+(Eola UC-I), and Rickreall Unincorporated Community Industrial Zoning District
+(Rickreall UC-I).
+(1) LOT AREA.  There are no minimum lot area requir ements for buildings in the
+IL, UC-IL, Eola UC-I, or Rickreall UC-I Zones.
+(2) FRONT YARD.  There shall be no front yard requi red in the IL, UC-IL, Eola
+UC-I, or Rickreall UC-I Zones.
+(3) SIDE YARDS.  No side yard shall be required in the IL, UC-IL, Eola UC-I, or
+Rickreall UC-I Zones, but if one is provided, it shall be at least three (3) feet
+provided, however, where the side of a lot in the IL, UC-IL, Eola UC-I, or
+Rickreall UC-I Zone abuts upon or is adjacent to the side of a lot in any
+residential zone, then there shall be a side yard the same as is required in such
+abutting residential zone, and said yard shall be contained by a wall or fence
+not less than six (6) feet in height or compact evergreen hedge not less than
+three (3) feet and capable of obtaining a height of six (6) feet.
+In the UC-IL, Eola UC-I, and Rickreall UC-I Zones, side yards adjacent to an
+Exclusive Farm Use Zone, Farm Forest Zone, Farm Forest Overlay Zone, or
+Timber Conservation Zone shall be a minimum of 20 feet.  A variance to this
+standard may be granted, subject to the provisions of Chapter 122 (Variances)
+of the Zoning Ordinance, subject to a showing that the proposed variance will
+not adversely affect adjacent farm or forest uses.
+(4) REAR YARD.  In the IL, UC-IL, Eola UC-I, or Ric kreall UC-I Zones, no rear
+yard is required, except as herein provided, but if one is provided it shall be not
+less than three (3) feet in depth exclusive of any alley.  A rear yard shall be
+provided in the IL, UC-IL, Eola UC-I, and Rickreall UC-I Zones when:
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-39
+(a) The lot abuts or is adjacent to a premises used  or is zoned for residential
+purposes.  The yard shall be not less than three (3) feet in depth.
+(b) The buildings or structures or portions thereof  on a lot are used for
+residential purposes, in which circumstances, side and rear yard
+restrictions in the RM Zone (Section 112.380 (C)(3)) shall apply.  In the
+case of subsection (a) of this section, the rear yard shall be contained by a
+wall or fence or ornamental compact evergreen hedge not less than three
+(3) feet high and capable of attaining a height of six (6) feet.
+(c) A landscaped yard three (3) feet in depth shall  be provided in all side and
+rear yards adjacent to a street.
+In the UC-IL, Eola UC-I, and Rickreall UC-I Zones, a rear yard adjacent to an
+Exclusive Farm Use Zone, Farm Forest Zone, Farm Forest Overlay Zone, or
+Timber Conservation Zone shall be a minimum of 20 feet.  A variance to this
+standard may be granted, subject to the provisions of Chapter 122 (Variances)
+of the Zoning Ordinance, subject to a showing that the proposed variance will
+not adversely affect adjacent farm or forest uses.
+(5) LANDSCAPED YARD.  All yards shall be landscaped  exclusive of through
+direct driveways, adjacent to every street, on every lot upon which a new non-
+residential structure is erected, or a graveled or unimproved lot is paved or a lot
+is newly developed for the outdoor sale or display of merchandise, goods or
+services.
+(6) HEIGHT.  In the IL, UC-IL, Eola UC-I, and Rickr eall UC-I Zones, no building
+or structure shall exceed 70 feet or six (6) stories in height.
+(7) INDUSTRIAL PERFORMANCE STANDARDS.  The discharg e into the air
+of solids, liquids or gases which are detrimental to the public health, safety and
+welfare by causing injury to human, plant or animal life or to property is
+prohibited in the IL, UC-IL, Eola UC-I, and Rickreall UC-I Zones.  In the IL,
+UC-IL, Eola UC-I, and Rickreall UC-I Zones no land or structure shall be used
+or occupied unless there is continuing compliance with the following
+standards:
+(a) Heat, glare and light:
+All operations and facilities producing heat, glare or light, including
+exterior lighting, shall be so directed or shielded by walls, fences, or
+evergreen plantings that such heat, glare or light is not reflected or
+directed onto adjacent properties or streets.
+(b) Noise:
+No noise or sound in the IL, UC-IL, Eola UC-I, and Rickreall UC-I
+Zones shall be of a nature which will constitute a nuisance and all uses in
+the IL, UC-IL, Eola UC-I, and Rickreall UC-I Zones within 150 feet of
+an IP or UC-IP Zone shall not exceed the limits prescribed for the IP or
+UC-IP Zone.
+(c) Sewage:
+Adequate provisions shall be provided for the disposal of sewage and
+waste materials and such provisions shall meet the requirements of the
+Department of Environmental Quality.
+(d) Vibration:
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-40
+No vibration, other than that caused by highway vehicles and trains, shall
+be permitted which is discernible without instruments at or beyond the
+property line for the use concerned.
+(D) Heavy Industrial Zoning District (IH) & Unincor porated Community Heavy
+Industrial Zoning District (UC-IH)
+(1) LOT AREA.  There are no minimum lot area requir ements for buildings in the
+IH or UC-IH Zones.
+(2) FRONT YARD.  There shall be no front yard requi red in the IH or UC-IH
+Zones.
+(3) SIDE YARDS.  No side yard shall be required in the IH or UC-IH Zones, but if
+one is provided, it shall be at least three (3) fee t; provided, however, where the
+side of a lot in the IH or UC-IH Zone abuts upon or  is adjacent to the side of a
+lot in any residential zone, then there shall be a side yard the same as is
+required in such abutting residential zone, and said yard shall be contained by a
+wall or fence not less than six (6) feet in height or compact evergreen hedge
+not less than three (3) feet and capable of obtaining a height of six (6) feet.
+In the UC-IH Zone, side yards adjacent to an Exclusive Farm Use Zone, Farm
+Forest Zone, Farm Forest Overlay Zone, or Timber Conservation Zone shall be
+a minimum of 20 feet.  A variance to this standard may be granted, subject to
+the provisions of Chapter 122 (Variances) of the Zoning Ordinance, subject to
+a showing that the proposed variance will not adversely affect adjacent farm or
+forest uses.
+(4) REAR YARD.  In the IH or UC-IH Zones, no rear y ard is required, except as
+herein provided, but if one is provided it shall be not less than three (3) feet in
+depth exclusive of any alley.  A rear yard shall be provided in the IH and UC-
+IH Zones when:
+(a) The lot abuts or is adjacent to a premises used  or is zoned for residential
+purposes.  The yard shall be not less than three (3) feet in depth.
+(b) The buildings or structures or portions thereof  on a lot are used for
+residential purposes, in which circumstances, side and rear yard
+restrictions in the RM Zone (Section 112.380 (C)(3)) shall apply.  In the
+case of subsection (a) of this section, the rear yard shall be contained by a
+wall or fence or ornamental compact evergreen hedge not less than three
+(3) feet high and capable of attaining a height of six (6) feet.
+(c) A landscaped yard three (3) feet in depth shall  be provided in all side and
+rear yards adjacent to a street.
+In the UC-IH Zone, a rear yard adjacent to an Exclu sive Farm Use Zone, Farm
+Forest Zone, Farm Forest Overlay Zone, or Timber Conservation Zone shall be
+a minimum of 20 feet.  A variance to this standard may be granted, subject to
+the provisions of Chapter 122 (Variances) of the Zo ning Ordinance, subject to
+a showing that the proposed variance will not adver sely affect adjacent farm or
+forest uses.
+(5) LANDSCAPED YARD.  All yards shall be landscaped  exclusive of through
+direct driveways, adjacent to every street, on every lot upon which a new non-
+residential structure is erected, or a graveled or unimproved lot is paved or a lot
+is newly developed for the outdoor sale or display of merchandise, goods or
+services.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-41
+(6) HEIGHT.  In the IH and UC-IH Zones, no building  or structure shall exceed 70
+feet or six (6) stories in height.
+(7) INDUSTRIAL PERFORMANCE STANDARDS.  The discharg e into the air
+of solids, liquids or gases which are detrimental to the public health, safety and
+welfare causing injury to human, plant or animal life or to property is
+prohibited in this industrial zone.  In the IH and UC-IH Zones, no land or
+structure shall be used or occupied unless their in continuing compliance with
+the following standards:
+(a) Heat, glare and light:
+All operations and facilities producing heat, glare or light, including
+exterior lighting, shall be so directed or shielded by walls, fences,
+evergreen plantings, that such heat, glare or light is not reflected or
+directed onto adjacent properties or streets.
+(b) Noise:
+No noise or sound in the IH and UC-IH Zones shall be of a nature which
+will constitute a nuisance and all uses in the IH and UC-IH Zones within
+150 feet of an IP or UC-IP Zone shall not exceed the limits prescribed for
+the IP or UC-IP Zone.
+(c) Sewage:
+Adequate provisions shall be provided for the disposal of sewage and
+waste materials and such provisions shall meet the requirements of the
+Department of Environmental Quality.
+(d) Vibration:
+No vibration other than that caused by highway vehicles and trains shall
+be permitted which is discernible without instruments at or beyond the
+property line for the use concerned.
+(E) Rural Industrial Zoning District (R-IND)
+(1) LOT AREA. The minimum lot area shall be adequat e to provide for an
+approved on site septic system, a potable water sou rce, parking and other
+applicable development standards of this Chapter an d other general provisions
+and exceptions set forth by this ordinance.
+(2) LOT WIDTH.  The minimum average lot width shall  be 100 feet. The
+minimum average lot width at the street shall be 50 feet.
+(3) LOT DEPTH. The minimum average lot depth shall be 100 feet.
+(4) FRONT YARD.  The minimum front yard shall be tw enty (20) feet for all
+structures.  A ten (10) foot wide landscaped area parallel to the front yard
+setback, excluding access/egress shall be established within the required front
+yard setback.  Vehicle maneuvering is permitted within the balance of the front
+yard setback, however, required off-street parking is expressly prohibited.
+(5) REAR AND SIDE YARDS.  No side or rear yard shal l be required, except
+where a lot abuts a residential use or district, there shall be a yard not less than
+the rear yard required by the abutting residential district.
+Corner lots shall have no sight obstruction between three (3) feet and ten (10)
+feet in height measured from street grade within 30 feet in either direction from
+the street corner, as measured from the property line.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-42
+The minimum yards shall be increased where such yard or setback abuts a
+street having insufficient right-of-way width to serve the area.  The
+right-of-way shall be determined according to the applicable transportation
+plan.
+The side or rear yard may be eliminated where a railroad service to the site is
+obtained at the edge of the lot.
+(6) HEIGHT.  No building or structure shall exceed seventy (70) feet in height
+unless authorized through a Variance.
+(7) LOT COVERAGE.  No lot shall be covered with str uctures in excess of sixty
+(60) percent of the total lot area.
+(8) ACCESS.  To facilitate access and egress, all l ots in this District shall abut or
+be within 250 feet of a public street, road or highway; or be located on a
+private road constructed to applicable private road standards.
+(9) OPEN STORAGE YARDS.
+(a) All yard areas, exclusive of those required to be landscaped may be used
+for materials and equipment storage yards or areas and may be used for
+the purposes permitted in the R-IND Zone, provided such yard area is
+enclosed with an ornamental, sight-obscuring fence or wall placed at a
+height of six (6) feet or a compact evergreen hedge planted at three (3)
+feet and capable of obtaining a minimum height of six (6) feet.  Any
+fence, wall or hedge shall be located on the property at the required
+setback line in the same manner as if said fence or wall were a building .
+(b) No material or equipment shall project above th e six (6) feet screen,
+unless authorized by a variance.
+(c) The surface of such area shall be paved or grav eled and maintained at all
+times in a dust-free condition; except, that all automobile and truck
+parking and loading areas shall be paved, as provided in Section 112.220
+through 112.280.
+(d) Any lighting maintained in conjunction with mat erial and equipment
+storage areas shall be so oriented as to not shine on or reflect into
+abutting properties or streets.
+(10) INDUSTRIAL PERFORMANCE STANDARDS.  The dischar ge into the air
+of solids, liquids or gases which are detrimental to the public health, safety and
+welfare causing injury to human, plant or animal life or to property is
+prohibited in this industrial zone.  In the R-IND Zone, no land or structure shall
+be used or occupied unless their in continuing compliance with the following
+standards:
+(a) Heat, glare and light:
+All operations and facilities producing heat, glare or light, including
+exterior lighting, shall be so directed or shielded by walls, fences,
+evergreen plantings, that such heat, glare or light is not reflected or
+directed onto adjacent properties or streets.
+(b) Noise:
+No noise or sound in the R-IND Zone shall be of a nature which will
+constitute a nuisance and all uses in the R-IND Zone within 150 feet of a
+residential Zone shall not exceed the limits prescribed for the IP Zone.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-43
+(c) Sewage:
+Adequate provisions shall be provided for the disposal of sewage and
+waste materials and such provisions shall meet the requirements of the
+Department of Environmental Quality.
+(d) Vibration:
+No vibration other than that caused by highway vehicles and trains shall
+be permitted which is discernible without instruments at or beyond the
+property line for the use concerned.  [Amended by Ordinance 00-03]
+112.420.  PUBLIC ZONE DEVELOPMENT STANDARDS
+(A) LOT AREA.  The minimum requirements in PC, PE a nd PP Zones for dwellings
+shall be the same lot area prescribed for dwellings in the RM Zone, and in PA, PH
+and PS Zones, the same lot area prescribed for dwellings in the PH Zone.  No main
+building, including dwellings, shall occupy more than 30 percent of the lot area in the
+PC, PE and PP Zones.
+(B) FRONT YARD.  There shall be a front yard on eve ry lot in all Public Zones, which
+front yard shall have a minimum depth of 20 feet, except the front yard for signs shall
+be three (3) feet. Signs may be placed within the three (3) foot setback subject to
+Section 112.125. No parking shall be permitted within the minimum front yard area.
+[Amended by Ordinance 12-01]
+(C) SIDE YARDS.  Where the side of a lot in any Pub lic Zone abuts upon the side of a
+lot in the SR, AR-5, AR-10, or AF-10 Zones, there shall be a minimum side yard of
+five (5) feet.  There shall be added to these minimum requirements, one (1) foot for
+each multiple of 15 feet or portion thereof, that the length of that side of the building
+measures over 30 feet; in addition, any side yard adjacent to a street shall be a
+minimum of 20 feet and no parking shall be permitted within 10 feet of the street
+property line. [Amended by Ordinance 04-01]
+ (D) REAR YARD.  In any Public Zone, there shall be  a rear yard which shall have a
+minimum depth of 20 feet, which depth shall be increased by four (4) feet for each
+additional story above the first.
+(E) HEIGHT.  No building or structure in a PC Zone shall exceed two and one-half
+stories or 35 feet.  No building or structure in all other Public Zones shall exceed six
+(6) stories or seventy feet, provided that in PE and PP Zones the buildings or
+structures shall set back from every street and lot line one (1) foot for each foot of
+height of the building in excess of 35 feet in addition to all other yard and setback
+requirements herein specified.
+112.430.  RESOURCE ZONE DEVELOPMENT STANDARDS
+(A) Exclusive Farm Use Zoning District (EFU)
+(1) YARDS
+(a) There shall be front, side and rear yards of th e following depths for lots
+in the Exclusive Farm Use Zoning District:
+All buildings and structures
+Front Side Rear
+30 feet 20 feet 20 feet
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-44
+(b) Any side or rear yard adjacent to a street shal l meet the yard requirement
+for a front yard.
+(c) When by this ordinance or any other ordinance, a greater setback or front
+yard of greater depth is required than is required by this section, the
+greater setback line or front yard depth shall apply.  If a lesser setback or
+yard is required, the provisions of this ordinance shall apply.
+(d) All structures are subject to any special setba ck lines, where specified on
+designated arterials or collectors, in addition to the above setbacks.
+(2) HEIGHT.  There shall be a height limitation of 100 feet in the Exclusive Farm
+Use Zoning District, except for those lands subject to the Airport Overlay zone
+or any structure which has received a conditional approval which limits the
+height of said structure.
+(B) Farm Forest Zoning District (FF)
+(1) YARDS
+(a) There shall be front, side and rear yards of th e following depths for lots
+in the Farm Forest Zoning District:
+All buildings and structures
+Front Side Rear
+30 feet 20 feet 20 feet
+(b) Any side or rear yard adjacent to a street shal l meet the yard requirement
+for a front yard.
+(c) When by this ordinance or any other ordinance, a greater setback or front
+yard of greater depth is required than is required by this section, the
+greater setback line or front yard depth shall apply.  If a lesser setback or
+yard is required, the provisions of this ordinance shall apply.
+(d) All structures are subject to any special setba ck lines, where specified on
+designated arterials or collectors, in addition to the above setbacks.
+(2)  HEIGHT.  There shall be a height limitation of 100 feet in the F/F zone, except
+for those lands subject to the Airport Overlay zone or any structure which has
+received a conditional use approval which limits the height of said structure.
+(C) Timber Conservation Zoning District (TC)
+(1) SETBACK REQUIREMENTS.
+(a) No structure or use shall be established in a m anner likely to cause
+contamination of a stream, lake or other body of water.
+(b) Front Yard.  Every building shall have a setbac k from the front property
+line or any lot line adjacent to a street or road, of at least 30 feet.
+(c) Side Yard. The minimum side yard requirements i n the TC Zoning
+District shall be 80 feet.
+(d) Rear Yard. The minimum rear yard requirements i n the TC Zoning
+District shall be 80 feet.
+Note:  When land divisions create parcels of less than 40 acres for conditional
+uses listed in Sections 177.030 (H) and (L) and 177.040 (A) through (P),
+provided that those uses have been approved pursuant to Section 177.050 of
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-45
+this Ordinance, required building setbacks for these parcels will be determined
+on a case-by-case basis through the conditional use process and may vary from
+those required under Section 177.050 based upon the specific use authorized
+by the Conditional Use Permit.
+(D) Mineral Extraction Zone (ME)
+(1) FRONT YARD.  The minimum front yard setback for  all structures in an ME
+Zone shall be 20 feet, unless by this ordinance or some other ordinance a
+greater setback is required.
+(2) SIDE YARD.  The minimum side yard requirement i n an ME Zone shall be ten
+(10) feet.
+(3)  REAR YARD.  The minimum rear yard required for any structure in the ME Zone
+shall be 24 feet.
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-46
+31-A, 31-B          1991 Uniform Building Code
+
+Table No. 31-A – Number of Accessible Parking Space s (Handicap)
+
+Minimum Required Number of Total
+Parking Spaces
+Accessible Space
+1-25 1
+26-50 2
+51-75 3
+76-100 4
+101-150 5
+151-200 6
+201-300 7
+301-400 8
+401-500 9
+501-999 2% of total spaces
+over 1,000 20 spaces plus 1 for every 100 spaces or
+fraction thereof, over 1000
+
+One in every eight accessible spaces, but not less than one, shall be served by an access aisle 96
+inches wide minimum and shall be designated van accessible.  The vertical clearance at such van
+spaces shall be 98 inches.  All such spaces may be grouped on one level of a parking structure.
+Table No. 31-B – Wheelchair Spaces Required in Asse mbly Areas
+Capacity of Seating in Assembly Area Number of Requ ired Wheelchair Spaces
+4 to 25 1
+26 to 50 2
+51 to 300 4
+301 to 500 6
+over 500 6, plus 1 for each 100 over 500
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\2-15-12 to current\CHAPTER 112 (2012 update).doc 112-47
+Appendix 1.
+
+NOTE:
+A.
+
+1) For one (1) row of stalls use “C” plus “D” as mi nimum bay width.
+2) Public alley width may be included as part of di mension “D”, but all parking stalls must be
+on private property, off the public right-of-way.
+3) For estimating available parking area, use 350 s q. ft. per vehicle for stall, aisle and access
+areas.
+4) The stall width for self-parking of long duratio n is 8.6’; for higher turnover self-parking is
+9.0’; and for supermarkets and similar facilities (shoppers with packages) is 9.5 – 10.0’.
+5) The minimum aisle width for two-way traffic and for emergency vehicle operations area is
+24’.  The minimum aisle width for emergency vehicle access (one way traffic) is 20’.
+6) Where appropriate bumper overhang area is provid ed (extruded curbs), “G” can be
+subtracted from “C” to determine stall depth.
+7) Dimensions of required recreational vehicle spac es are 10’ x 25’.
+B.  Areas used for required parking or maneuvering of vehicles shall have a durable,
+hard surface.  In all residential areas, a minimum of 2 ½ inches asphalt over 4 inches of
+aggregate base will be provided or 4 inches of Portland cement concrete.  In commercial
+and industrial areas, either 3 inches asphalt over 4 inches aggregate base or a single
+pavement of 5 inches of Portland cement concrete is required.  All required parking spaces
+shall be striped.
+A B C D E F G
+
+45
+8.5
+9.0
+9.5
+10.0
+17.5
+17.5
+17.5
+17.5
+13.0
+12.0
+11.0
+11.0
+12.0
+12.7
+13.4
+14.1
+48.0
+47.2
+46.0
+46.0
+2.0
+2.0
+2.0
+2.0
+
+60
+
+8.5
+9.0
+9.5
+10.0
+19.0
+19.0
+19.0
+19.0
+18.0
+16.0
+15.0
+14.0
+9.8
+10.4
+11.0
+11.6
+56.0
+54.0
+53.0
+52.0
+2.5
+2.5
+2.5
+2.5
+
+75
+8.5
+9.0
+9.5
+10.0
+19.5
+19.5
+19.5
+19.5
+25.5
+23.0
+22.0
+21.0
+8.8
+9.3
+9.8
+10.3
+64.0
+62.0
+61.0
+60.0
+2.5
+2.5
+2.5
+2.5
+
+90
+8.5
+9.0
+9.5
+10.0
+18.5
+18.5
+18.5
+18.5
+28.0
+26.0
+25.0
+24.0
+8.5
+9.0
+9.5
+10.0
+65.0
+63.0
+62.0
+61.0
+3.0
+3.0
+3.0
+3.0
+A Parking Angle
+B Stall Width
+C Stall Depth (no bumper overhang)
+D Aisle Width Between Stall Lines (5)
+E Stall Width Parallel to Aisle
+F Module Width (no bumper overhang)
+G Bumper Overhang
+G
+D E F
+ A
+B
+C

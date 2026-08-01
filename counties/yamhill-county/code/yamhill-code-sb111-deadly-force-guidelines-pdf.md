@@ -1,0 +1,592 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-sb111-deadly-force-guidelines-pdf
+title: 'SB111---Deadly-Force-Guidelines-PDF'
+doc_type: ordinance
+citation: 'SB111---Deadly-Force-Guidelines-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/4015/SB111---Deadly-Force-Guidelines-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 51d6d8d63035a4fdbb98163a46ab14222aabf6487f1de7399b2eb9cf025ba41e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# SB111---Deadly-Force-Guidelines-PDF (SB111---Deadly-Force-Guidelines-PDF)
+
+## At a glance
+
+SB111---Deadly-Force-Guidelines-PDF — code of Yamhill County. 7 pages.
+
+## Full text
+
+5.08 SB111 Officer Use of Deadly Force Investigative Guidelines 1 of 7
+Subject:
+SB111 – Officer Use of Deadly Force Investigation Guidelines
+Effective Date
+03-23-09
+Number
+5.08
+Notes:
+Guidelines SB 111 (2007) Planning Authority
+Review Date
+03-23-09
+No. Pages
+7
+Applies To:
+ Jack Crabtree
+Sheriff
+Applied Standards:
+
+Approved:
+
+I. PURPOSE
+This policy recognizes that the use of force by law
+enforcement officers requires constant evaluation.
+Even at its lowest level, the use of force is a serious
+responsibility. The purpose of  this policy is to provide
+Deputies of this Office with guidelines on reasonable
+use of force.
+II. POLICY
+The use of force by law enf orcement personnel is a
+matter of critical concern both to the public and the law
+enforcement community. Deputies are involved on a
+daily basis in numerous and varied human encounters
+and, when warranted, may us e force in carrying out
+their duties.
+Deputies must have an understanding of, and
+appreciation for, the limit ations on their authority;
+particularly with respect to overcoming resistance from
+those with whom they come in official contact.
+This Office recognizes and respects the value of all
+human life and dignity without prejudice to anyone. It is
+also understood that vesting deputies with the
+authority to use reasonable force and protect the
+public welfare requires a careful balancing of all
+human interests.
+Therefore, it is the policy of this Office that Deputies
+shall use only the amount of force which reasonably
+appears necessary, given the facts and circumstances
+perceived by the Deputy at the time of the event, to
+effectively bring an incident under control (affect
+arrest, overcome resistan ce, prevent escape, defend
+self / others). “Reasonableness” of the force must be
+judged from the perspective of a reasonable deputy on
+the scene at the time of the incident, and without the
+benefit of 20/20 hindsight.
+III. DEFINITIONS
+Administrative Investigator : Investigator assigned by
+the employer agency to condu ct the civil investigation
+of the incident.
+Criminal Investigator(s): Those investigators assigned
+by the venue agency(ies), the employer agency(ies),
+or the District Attorney's O ffice to conduct the criminal
+investigation of the incident.
+Employer Agency: The agency by which the involved
+law enforcement officer/public safety employee is
+employed.  (In many cases the venue agency will also
+be the employer agency.)
+Injured/Deceased: A person who is injured or killed by
+the actor(s).
+Internal Investigator : Investigator assigned by the
+employer agency to conduct the personnel
+investigation of the incident.
+Involved Officer(s):
+a. A law enforcement officer who uses or attempts to
+use deadly physical force on another person; and
+b. A law enforcement officer whose act is a
+"proximate cause" of a se rious physical injury or
+death to another person; or
+c. A person who intends that an act be a "proximate
+cause" of serious bodily injury or death to another
+person who is seriously injured or killed by
+another.
+d. A law enforcement officer whose official conduct
+was not a cause in fact of the death of a person,
+but whose official involvement in an incident in
+which the use of deadly physical force by a police
+
+5.08 SB111 Officer Use of Deadly Force Investigative Guidelines 2 of 7
+officer resulted in the death or serious physical
+injury of a person.
+Lead Investigator: The investigator assigned pursuant
+to the Major Crime Response Team protocol to head
+and direct the investigation.
+MCRT: Yamhill County Major Crime Response Team.
+Proximate Cause : A cause which, in a chronological
+and continuous sequence, produces a serious or fatal
+injury.
+Serious Physical Injury : "Serious physical injury"
+means physical injury which creates a substantial risk
+of death or which causes serious and protracted
+disfigurement, protracted impairment of health, or
+protracted loss or impairment of the function of any
+bodily organ.
+Weapon: When the term “weapon” is used throughout
+this investigative guideline, it generally refers to a
+firearm.  However, it is understood that in some
+situations instruments other than firearms may cause
+death or serious physical injury.  This may include, but
+is not limited to, vehicles, Tasers, batons or Asps, etc.
+IX.  OBJECTIVES
+A. The Criminal Investigation
+The District Attorney has ultimate authority for the
+prosecution of criminal cases, and specific shared
+responsibility with the Me dical Examiner in death
+investigations.
+B. Investigative Team Composition and
+Objective:
+1. The criminal investigation has investigative
+priority over an administrative or personnel
+investigation and should begin immediately
+after an incident has occurred.  The goal is to
+develop all available relevant information
+about the incident.  This information will be
+used in two ways:
+a) To determine the presence or absence of
+criminal liability on the part of all those
+involved in the inciden t.  Specifically, to
+determine whether the conduct involved is
+prohibited or authorized by criminal
+statutes.
+b) If criminal conduct does exist:
+(1) Determine the identity of the person(s)
+responsible for that conduct;
+(2) Determine the degree of the crime(s);
+(3) Determine the existence of any factual
+or legal defense to the crime; and
+(4) Determine the presence or absence of
+any factors which would mitigate or
+aggravate punishment for that crime.
+2. To provide factual information to the employer
+agency for its internal use.
+3. The investigative team will be comprised of
+criminal investigators in Yamhill County MCRT
+and such other investigators as they may
+deem appropriate.
+X. PROCEDURES
+A. Incident Scene Procedures:
+1. The initial responding law enforcement officer
+has several important duties to perform upon
+arrival at the scene.  See X E on page 5 of this
+policy, “Duties of Initial Responding Officer.”
+2 The initial responding supervisor, or any
+subsequent supervisor who assumes
+responsibility of the sce ne, shall ensure that
+the duties are completed.  See X F on page 6
+of this policy, “Responding Supervisor
+Checklist.”
+3. The Lead Investigator, as set forth in the
+MCRT protocol, is ultimately accountable to
+ensure the following procedures are
+completed: When the use of force by an officer
+results in death or serious physical injury, the
+following provisions apply:
+4. Upon the arrival of additional officers sufficient
+to manage the scene, each Involved Officer
+shall be relieved of their duties and the duties
+shall be reassigned to uninvolved personnel.
+5. As authorized by the Lead Investigator, and at
+the direction of the Involved Officer’s
+supervisor, the Superv isor of the Involved
+Officer shall, as soon as possible, assign an
+
+5.08 SB111 Officer Use of Deadly Force Investigative Guidelines 3 of 7
+officer to act as a companion to the Involved
+Officer.  The Assigned Officer shall be
+reminded that any communication between
+the Involved Officer and the Assigned Officer
+is not deemed confidential.
+6. If practical, obtain an initial statement from
+Involved Officers covering only that
+information necessary for public safety and
+scene management.  This statement may
+include, but need not be limited to, information
+necessary for public safety necessary to
+protect persons and property, possible
+witnesses, participants, location of weapons or
+other hazards, incident location(s), etc.  The
+initial statement is intended to provide a
+framework for the investigation and ensure the
+preservation of evidence. The following
+statements should preface any questions:
+a. “I am going to ask you some questions
+concerning public safety and scene
+management."
+b. "You are not required to answer my
+questions."
+7. As soon as practicable, each Involved Officer
+shall leave the scene and be offered an
+opportunity for a medical examination.  If the
+officer is not in need of medical treatment, the
+officer shall be taken to a private location.  The
+Supervisor shall see that the officer’s union
+representative is notified.  The Supervisor
+shall inquire of the Involved Officer if he/she
+wishes an attorney, family member, or another
+person be notified of the incident.
+8. As soon as practicable, the weapon(s) and
+any ammunition of any officer who fired their
+weapon or who was in the immediate vicinity
+where weapons were fired, shall be seized by
+investigators and replaced with a substitute
+weapon, if appropriate.
+9. As soon as practical, and after making every
+effort to obtain alternative personal clothing,
+the Involved Officer’s clothing of potential
+evidentiary value shall be collected by
+investigators.  Prior to the collection of the
+Involved Officer’s duty weapon and clothing,
+the Lead Investigator shall direct that
+photographs of the Involved Officer be taken.
+This should be done in a discrete way and in a
+private setting.
+10. The Lead Investigator shall see that the
+Involved Officer is requested to provide blood
+and urine as soon as possible.  This should be
+done in a discreet way and in a private setting.
+11.  The Lead Investigator shall direct the Involved
+Officer’s Supervisor to direct the Involved
+Officer to not discuss the incident with any
+individual, including other Involved Officers, or
+to review any media coverage of the incident.
+Nothing about this direction should preclude
+the Involved Officer from being able to engage
+in privileged communications, such as
+discussions with representing attorney, union
+representatives, spouse, clergy or medical or
+mental health professionals.
+12. The scene(s) must be secured immediately
+with a perimeter of sufficient distance to
+safeguard evidence.  In some circumstances,
+an inner and an outer perimeter may be
+appropriate.
+13. Access to the scene(s ), except as otherwise
+provided by this agreement, shall be limited to
+only those officials who must enter for criminal
+investigative purpose.
+14. A Crime Scene Log will be established as
+quickly as possible to identify all persons
+entering the scene(s), the time of their entry
+and exit, and the reason for entry.
+15. Except as necessary for scene investigation,
+upon completion of medical and fire
+suppression duties, medical and fire personnel
+shall be excluded from the scene.
+16. Unless exigent circumstances exist, no items
+shall be moved inside the scene(s), or
+removed from a scene, without approval of
+the, Lead Investigator unless absolutely
+necessary for public or officer safety or the
+preservation of evidence.  If removal without
+approval is necessary, the removal must be
+logged.  The log shall state the identity of the
+person removing the described object, the
+reason for removal, and the time of removal.
+The item should be photographed in its
+original location, and if possible, diagrammed
+prior to removal.
+17. Involved Officers or participant witnesses shall
+be separated as soon as practical after the
+
+5.08 SB111 Officer Use of Deadly Force Investigative Guidelines 4 of 7
+incident and should refrain from discussing the
+incident prior to interviews.
+18. Physical evidence at the scene should be
+video and still photographed, diagrammed,
+recorded, protected, and collected per MCRT
+protocol.
+B. Interview of Involved Officer:
+1. As used in this section “interview” refers to
+formal interview of the Involved Officer by
+assigned investigative personnel that occurs a
+reasonable time after the incident and after the
+officer has had an opportunity to consult with
+counsel if so desired.
+2. The interview of the Involved Officer(s) who
+used deadly force resulting in death or serious
+physical injury, shall occur after a reasonable
+period of time to prepare for the interview and
+taking into account the emotional and physical
+state of the officer(s).  The interview shall
+occur no sooner than 24 hours after the
+incident, unless this waiting period is waived
+by the officer or unless directed otherwise by
+the District Attorney.
+3. The waiting period does not include an initial
+on-scene conversation with the officer as set
+forth in Paragraph III, 2, C above.
+4. Once it has been determined that no evidence
+will be contaminated or destroyed, the
+Involved Officer(s) will be provided an
+opportunity for a “walk through” of the scene
+with a representative of their choosing.
+5. For at least 72 hours immediately following an
+incident in which the use of deadly physical
+force by a police officer resulted in death of a
+person or serious physical injury, a law
+enforcement agency may not return an
+Involved Officer to duties that might place the
+officer in a situation in which the officer has to
+use deadly force.
+6. Officer(s) involved in the use of deadly force
+resulting in death or serious physical injury
+shall immediately be placed on administrative
+leave until such time as sufficient information
+exists to determine the justification in the use
+of deadly physical force and that the officer(s)
+have had an opportunity to meet with a mental
+health professional with an outcome that no
+issues would preclude the officer(s) from
+performing the duties of a police officer.
+7. In the six months following a use of deadly
+physical force incident that results in death,
+the Agency shall offer each Involved Officer a
+minimum of two opportunities to meet with a
+mental health professional.  The officer shall
+be required to attend at least one session with
+a mental health professional.
+8. At agency expense, the Involved Officer(s)
+shall be scheduled for an appointment with a
+mental health professional for a counseling
+session with a follow-up session scheduled at
+date determined by the mental health
+professional.
+9. The sessions are not to be considered fitness
+for duty evaluations, and are to be considered
+privileged between the officer and the mental
+health professional.
+C. District Attorney:
+1. When an incident of the use of deadly physical
+force by an officer, and resulting in the death
+or serious physical injury, the agency shall as
+soon as practicable, notify the District
+Attorney, the Chief Deputy District Attorney, or
+an assigned senior member of the District
+Attorney’s Office.
+2. When a use of deadly physical force by an
+officer occurs, and death or serious physical
+injury results, the Dist rict Attorney, and/or a
+senior member of his staff will consult with the
+agency regarding the investigation to ensure
+that the investigation is done in accord with
+the elements of this plan.
+3. The District Attorney  has the sole statutory
+and constitutional duty to make a decision on
+whether to present a matter to a Grand Jury.
+4. Preliminary Hearings will not be used as a
+method of reviewing an officer’s use of deadly
+force.
+5. After a review of the information and evidence
+developed from the investigation, and after
+consulting with the investigating agency, the
+District Attorney sha ll make the decision on
+whether to present the case to a Grand Jury.
+
+5.08 SB111 Officer Use of Deadly Force Investigative Guidelines 5 of 7
+6. If the District Attorney decides to present a
+case to the Grand Jury, the District Attorney
+shall promptly notify the Agency, the Involved
+Officer(s), the Involved Officer’s representative
+and, when appropriate, the public.
+D. Reporting, Training and Outreach:
+1. Public outreach and education shall include
+the following:
+a. A copy of this plan, and each agency’s
+use of force policy, shall be posted on the
+Agency’s website or available on the
+Yamhill County website and readily
+available to the public.
+b. Citizen Academies, offered by any agency
+subject to this agreement, shall include a
+discussion on this plan and the agency’s
+use of force policy.
+c. The Yamhill County Sheriff’s Office shall
+have personnel assigned to respond to
+public inquiries about this plan and the
+Sheriff’s Office use of force policy.
+d. Each agency subject to this agreement
+shall have a designated individual
+responsible for responding to questions
+about that agency’s use of force policy.
+e. Once adopted, this plan shall be readily
+available to the public and each agency
+subject to this plan, shall provide copies of
+the plan to members of the public or the
+press upon request.
+2. Each law enforcement agency within Yamhill
+County shall provide a copy of this plan to
+every officer, incorporate the plan into agency
+policy documents and provide regular training
+to officers on the implementation and contents
+of the plan.
+3. Upon the conclusion of an investigation into
+the use of deadly force resulting in death or
+serious physical injury, and following the
+decision of the District Attorney as set forth in
+Paragraph IV, 3, above, the Agency shall
+complete the Attorney General’s report
+regarding the use of force and submit the
+report to the Attorney General.
+4. The Department of Public Safety Standards
+and Training requires 24 hours over a 3-year
+period of training from either the “firearms” or
+“use of force” subject areas. Each agency’s
+annual training must include education on the
+agency’s use of force policy, the MCRT
+protocol, and this plan.  Each agency shall
+have a written policy and system to monitor
+that these standards are met.
+E. Duties of the Initial Responding Officer
+Pending the arrival of investigative staff at the
+scene, certain tasks sh ould be undertaken by the
+Initial Responding Officer.  The quality of evidence
+collected or information obtained can be greatly
+enhanced if law enforcement personnel take
+prompt action rather than waiting for the arrival of
+the investigative personnel.
+Tasks which should be completed promptly, prior
+to arrival of investigative personnel:
+1. Emergency life-saving procedures take first
+priority.
+2. Take immediate steps to secure the scene,
+while controlling access to preserve evidence.
+3. As appropriate and consistent with agency
+training, note the position and physical
+condition (cocked, un-coc ked, bloody, etc) of
+any weapons at the scene.  If possible,
+preserve and/or leave in place any such
+evidence.  If officer or public safety is a
+concern, photograph the weapon in its place
+and sketch the location and secure the
+weapon.
+4. Protect and collect evidence in danger of
+being lost or destroyed, such as shoe
+impressions/prints or firearms evidence.
+Include the ambulance and emergency room
+as possible locations of evidence.
+Ambulances are routinely cleaned after each
+use; therefore, immediate attention for
+evidence collection will be necessary.
+5. Record transient detail such as vehicles in the
+area, lighting (natural or artificial), windows
+and blinds or curtains (open/closed), doors
+(locked or unlocked), weather, furniture moved
+for emergency medical teams, etc.
+
+5.08 SB111 Officer Use of Deadly Force Investigative Guidelines 6 of 7
+6. Initiate a Crime Scene Log of all persons
+entering the scene(s), the time of their entry
+and exit, and the reason for entry until
+relieved, and document all persons present at
+the scene through proper identification.
+7. Make a preliminary sketch of the scene
+without taking measurements.  If the scene or
+a portion thereof is outdoors, start sketching
+this area first to minimize inadvertent
+alteration.
+F. Responding Supervisor’s Checklist
+1. Life saving efforts is first priority.
+2. Identify and secure all scenes (original felony;
+escape/chase route; fatal scene; collision
+scene; suspect vehicle; employee's vehicle;
+hospital; etc.)  Establish generous perimeters.
+Prevent scene contamination.  Adjust
+boundaries as necessary.  Protect and collect
+physical evidence in imminent danger of being
+altered or destroyed.
+3. Prohibit entry into scene(s) except for
+authorized personnel.
+4. In the event of an officer’s use of deadly force
+resulting in a death or serious physical injury,
+a homicide or other qualifying incident,
+activate the MCRT.  Ensu re that notifications
+are made per agency procedures, and
+immediately notify the District Attorney, the
+Chief Deputy District Attorney or their
+designate.
+5. Request additional officers, as necessary.
+6. As appropriate, assign an officer to ride in the
+ambulance with any involved person, with
+recorder if possible, for the purpose of:
+a. Physical evidence protection, securing,
+recovery;
+b. Custody of arrestee;
+c. Spontaneous and other unsolicited
+statements;
+e. Dying declarations;
+e. Information to and from medical
+personnel;
+f. Identifying medical personnel.
+7. Protect sensitive investigative information; use
+caution on radio broadcasts. Use phone
+whenever possible.
+8.  If practical, obtain an initial statement from
+Involved Officers covering only that
+information necessary for public safety and
+scene management.  This statement may
+include, but need not be limited to, information
+necessary for public safety necessary to
+protect persons and property, possible
+witnesses, participants, location of weapons or
+other hazards, incident location(s), etc.  The
+initial statement is intended to provide a
+framework for the investigation and ensure the
+preservation of evidence.
+9. Disseminate information on outstanding
+suspects, vehicles, witnesses, etc.
+10. Collect perishable evidence.
+11. Ensure Crime Scene Log has been started,
+and is maintained, to record every entry and
+exit.
+12. In the event of an officer involved shooting, if
+the shooting officer(s) has retained possession
+of their weapon, leave in holster until such
+time as it is collected at the direction of the
+Lead Investigator.
+13. Check all firearms of all Witness Officers and
+seize as appropriate. Make notes on each.
+14. Locate, identify, and separate civilian
+witnesses.
+15. Determine what Responding/Scene Officer(s)
+have learned and what they have done.
+16. The Supervisor shall see that the officer’s
+union representative is notified.
+G. Criminal Investigation Notification
+1. You are advised that this investigation is
+criminal in nature.
+
+5.08 SB111 Officer Use of Deadly Force Investigative Guidelines 7 of 7
+2. A refusal to answer questions from the
+criminal investigations will not be a basis for
+disciplinary action against you.  You have a
+right to not participate in the interview, and the
+right to terminate the interview, without
+resulting discipline.
+______________  ___________
+Involved Employee Signature, Date/Time
+_____________________________________
+Signature of Officer Providing Notification
+
+(see MCRT Protocol
+)

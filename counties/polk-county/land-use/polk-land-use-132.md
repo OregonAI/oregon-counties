@@ -1,0 +1,127 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-132
+title: '132'
+doc_type: ordinance
+citation: '132'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4497/132
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6cd39b7aae371fc6b9dc49fbbae1d2044b4fe1ab6e13b505d1dfd945e404a594
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 132 (132)
+
+## At a glance
+
+132 — land use of Polk County. 3 pages.
+
+## Full text
+
+F:\Group\Commdev\Planning\Zoning Ordinance Current\4-9-14 to current\CHAPTER 132 (2014 update).doc                   132-1
+CHAPTER 132
+DUPLEX RESIDENTIAL (RD) ZONING DISTRICT
+132.010. Use
+132.020. Transitional Uses
+132.030. Uses Subject to Administrative Review
+132.040. Conditional Uses
+F:\Group\Commdev\Planning\Zoning Ordinance Current\4-9-14 to current\CHAPTER 132 (2014 update).doc                   132-2
+132.010.  USE.   Within any RD Duplex Residential zone, no building, structure or premises shall
+be used, arranged or designed to be used, erected, structurally altered or enlarged except for one
+or more of the following uses:
+(A) Any use permitted in RS zone;
+(B) Two (2) family dwelling unit in a single struct ure;
+(C) A private garage or parking area for not more t han 3 motor vehicles for each
+dwelling unit on the same lot with or within the dwelling to which it is accessory and
+in which garage no business or industry is conducted.
+(D) Wind energy systems, meteorological towers, and  photovoltaic systems that are not
+commercial power generating facilities, but not including wind energy systems
+utilizing a tower and meteorological towers that require tower lighting, are located in
+an adopted urban growth boundary, or that would require modification to the height
+or type of construction standards described in Section 112.135(C)(1).  Wind energy
+systems utilizing towers and meteorological towers are subject to standards listed in
+Sections 112.135 and 112.137. Roof-mounted, building-integrated, building-
+mounted and architectural wind energy systems that extend no more than an
+additional 5 feet above the highest ridge of the building’s roof or 15 feet above the
+highest eave, whichever is higher, and do not exceed the height limitation of the
+zone, are subject to the standards listed in Section 112.137. Photovoltaic systems are
+subject to the standards described in Section 112.138.
+[Amended by Ordinance 09-06]
+132.020.  TRANSITIONAL USES.   The regulations concerning transitional uses in an RD zone
+shall be the same as in an RS zone.
+132.030.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+ (A) Wind energy systems utilizing a tower and meteo rological towers outside of an
+adopted urban growth boundary that are not commercial power generating facilities
+that would utilize a tower(s) that requires lighting or that requires modification to the
+height or type of construction standards described in Section 112.135(C)(1), as
+provided in Sections 112.135 and 112.137
+.  [Amended by Ordinance 09-06]
+132.040.  CONDITIONAL USES.  When authorized under the procedure provided for
+conditional uses in this ordinance, the following uses will be permitted in a RD zone:
+(A) Public and semi-public uses, buildings and stru ctures:
+(1) Churches;
+(2) Community or neighborhood club buildings, swimm ing pools and other allied
+facilities, when erected by a non-profit community club for the improvement of
+the zone or social recreation of the members;
+(3) Communications tower, as provided in Section 11 2.135;
+[Amended by Ordinance 04-
+09]
+(4) Schools (elementary, junior high and high schoo l);
+(B) Dwellings:
+(1) Three (3) family dwellings in 1 building on a c orner lot of 8,000 square feet or
+more;
+(C) Miscellaneous uses:
+F:\Group\Commdev\Planning\Zoning Ordinance Current\4-9-14 to current\CHAPTER 132 (2014 update).doc                   132-3
+(1) Privately-operated kindergartens or day nurseri es, provided the residential
+character of the building is unchanged;
+(2) Beauty shop, where no assistants are employed;
+(3) Use of an accessory building for conducting a h ome occupation;
+(D) Planned development;
+(E) Boat, camper and trailer storage area or lot (s ee Specific Conditional Uses, Section
+120.030);
+(F) Temporary use of mobile homes during certain ha rdship conditions (see Specific
+Conditional Uses, Section 120.040);
+(G) Solid Waste Disposal Sites (see Specific Condit ional Uses, Section 120.310 -
+120.380);
+(H) Sand and Gravel Resource Sites (see Specific Co nditional Uses, Section 120.410 -
+120.460)
+(I) Conditional Home-Occupation (Other than those h ome occupations listed in Section
+110.270)(See Specific Conditional Uses, Section 120.075)
+(J) Wind energy systems utilizing a tower and meteo rological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.
+[Amended by Ordinance
+09-06]
+(K) Bed and Breakfast Facility. A Bed and Breakfast  Facility may be authorized within a
+single-family dwelling subject to the following standards:
+(1) The Bed and Breakfast Facility shall be operate d by a resident(s) of the
+dwelling in which the Bed and Breakfast Facility is located.
+(2) The number of guest bedrooms shall not exceed f ive.
+(3) The length of stay for any guest shall not exce ed 15 consecutive nights.
+(4) Food service may be provided only to overnight guests of the Bed and
+Breakfast Facility. Food service may include the service of meals other than
+breakfast. [Amended by Ordinance 14-04]

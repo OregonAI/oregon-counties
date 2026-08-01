@@ -1,0 +1,252 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-155500
+title: '155500'
+doc_type: ordinance
+citation: '155500'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4485/155500
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 92060257b37a24034ca75afaa78048934b2cd2d54794e6d54d32476e3c35af23
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 155500 (155500)
+
+## At a glance
+
+155500 — land use of Polk County. 6 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to c urrent\CHAPTER 155.500 (2016 update).doc              155.500-1
+
+CHAPTER 155.500
+
+RICKREALL UNINCORPORATED COMMUNITY INDUSTRIAL (Rickr eall UC-I)
+ZONING DISTRICT
+
+155.510. Purpose and Intent
+155.520. Small-Scale, Low-Impact Uses
+155.525. Industrial Mill Sites
+155.530. Standard Industrial Classifications
+155.540. Permitted Uses
+155.550. Uses Subject to Administrative Review
+155.560. Conditional Uses
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to c urrent\CHAPTER 155.500 (2016 update).doc              155.500-2
+
+155.510.  PURPOSE AND INTENT.   The purpose of the Rickreall Unincorporated Community
+Industrial (Rickreall UC-I) Zoning District is to implement the Comprehensive Plan policies
+related to industrial development by providing for industrial uses with limited off-site impacts
+such as noise, dust, or odor.  This zone is applied to designated industrial lands within the
+unincorporated community of Rickreall.
+Industrial activities in this zone generally consist of uses which complement agricultural and forest
+activities in the surrounding area, uses that require proximity to rural resources, or other uses
+which are small-scale and low impact.
+155.520.  SMALL-SCALE, LOW-IMPACT USES .  Except as provided in Section 155.525, a
+small-scale, low impact uses listed under Section 155.540(F) or Section 155.560(B) or (C) shall be
+established in a building or buildings not to exceed 40,000 square feet of floor space.  The floor
+area calculation does not include outdoor storage areas.
+Except as provided in Section 155.525, the establishment of a new industrial use listed under
+Section 155.540(F), Section 155.560(B), or Section 155.560(C) or expansion of an industrial use
+other than those listed under Section 155.540(A) which would exceed the 40,000 square foot
+standard shall require a Comprehensive Plan Amendment as specified in Chapter 115 of the
+Zoning Ordinance.
+155.525.  INDUSTRIAL MILL SITES.   A use sited on an abandoned or diminished industrial
+mill site that was engaged in the processing or manufacturing of wood products is not subject to
+the small-scale, low-impact building size limitation, provided that the use will be located only on
+the portion of the mill site that was zoned for industrial use on October 28, 1994.
+155.530.  STANDARD INDUSTRIAL CLASSIFICATIONS.   Standard Industrial
+Classification (SIC) code numbers for most of the uses in this zone are shown in parentheses after
+the listed use.  The SIC codes are a coding system used by the federal government to identify
+specific industries. Two-digit codes are used most often in the Zoning Ordinance to describe
+general categories of uses.  In some instances, more specific three and four-digit codes are used.
+A copy of the SIC Manual is available for use at the Community Development Department and
+provides a more detailed description of the uses described in each general category.
+155.540.  PERMITTED USES.   Within the Rickreall UC-I Zone, no building, structure, or
+premises shall be used, enlarged, or designed to be used, erected, structurally altered, or enlarged
+except for one or more the following uses:
+(A) Expansion of an existing industrial use which existed on December 5, 1994.
+(B)  Dwelling for a caretaker or watchman for the premises only (88).
+(C)  Ambulance service (8099).
+(D)  Fire stations.
+(E)  Industrial uses which require proximity to rural resources:
+(1)  Gardens, orchards, crop cultivation and timber raising and tree farm (01, 02);
+(2)  Greenhouses and outdoor plant nurseries (018, 526);
+(3)  Lumber and wood products processing, manufacturing and storage facilities
+(24);
+(4)  Food and kindred products manufacturing (20); and
+(5)  Millwork, veneer, and wooden container manufacturing (243, 244).
+(6) Farm product warehousing and storage (4221);
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to c urrent\CHAPTER 155.500 (2016 update).doc              155.500-3
+
+(7) Farm or forest products stand, designed and used for the sale of farm crops,
+special forest products and livestock grown on farms in the local agricultural
+area, including the retail sale of incidental items accounting for no more than 25
+percent of the total sales of the farm or forest stand.  Farm or forest products
+stands do not include structures designed for residential occupancy or to
+accommodate activities other than the sale of farm crops, special forest products
+and livestock, such as structures for banquets, public gatherings or
+entertainment;
+(8) Farm or forest implement and equipment sales;
+(9) Farm or forest related equipment, machinery or truck repair, including
+associated service parts facilities; and
+(10) Farm and forest supply.
+(F) Industrial uses which are small-scale, low-impact:
+(1)  Any use permitted under 154.540(C);
+(2)  Communications tower, as provided in PCZO 112.135 (48); [Amended by Ordinance 04-
+09]
+(3)  Business offices of the firm or operations;
+(4)  Restaurants (buildings not to exceed 4,000 square feet) (58);
+(5)  Public utilities (49);
+(6)  Parking lot, garage (commercial) when developed as prescribed in Chapter 112
+(7521);
+(7)  Tractor and heavy equipment sales and service (352);
+(8)  Motor vehicle body & painting facility (371);
+(9)  Truck stop facility (423);
+(10)  Wholesale trade (50);
+(11)  Appliance, office and electrical product equipment manufacturing (39);
+(12)  Professional, scientific and controlling equipment manufacturing (873);
+(13)  Rubber and allied products manufacturing (30);
+(14)  Food, grain, feed and derivative products processing facility;
+(15)  Meat processing and manufacturing facilities (021);
+(16)  Manufacturing of fabricated metal products (34);
+(17)  Building contractors (general, highway and street contractors, heavy
+construction contractors) (15, 16);
+(18)  Special trade construction contractors (17);
+(19)  Auction house or market;
+(20)  Motor freight depot (421);
+(21)  Industrial and commercial machinery and computer manufacturing facilities
+(355);
+(22)  Blacksmith;
+(23)  Welding, welding shop; and
+(24)  Machine shop.
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to c urrent\CHAPTER 155.500 (2016 update).doc              155.500-4
+
+(G) Wind energy systems, meteorological towers, and photovoltaic systems that are not
+commercial power generating facilities, but not including wind energy systems
+utilizing a tower and meteorological towers that require tower lighting, are located in
+an adopted urban growth boundary, or that would require modification to the height or
+type of construction standards described in Section 112.135(C)(1).  Wind energy
+systems utilizing towers and meteorological towers are subject to standards listed in
+Sections 112.135 and 112.137. Roof-mounted, building-integrated, building-mounted
+and architectural wind energy systems that extend no more than an additional 5 feet
+above the highest ridge of the building’s roof or 15 feet above the highest eave,
+whichever is higher, and do not exceed the height limitation of the zone, are subject to
+the standards listed in Section 112.137. Photovoltaic systems are subject to the
+standards described in Section 112.138.  [Amended by Ordinance 09-06]
+155.550.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+(A)  Wind energy systems utilizing a tower and meteorological towers outside of an
+adopted urban growth boundary that are not commercial power generating facilities
+that would utilize a tower(s) that requires lighting or that requires modification to the
+height or type of construction standards described in Section 112.135(C)(1), as
+provided in Sections 112.135 and 112.137.  [Amended by Ordinance 09-06]
+155.560.  CONDITIONAL USES.   When authorized under the procedure provided for
+conditional uses in this ordinance, the following uses will be permitted in the Rickreall UC-I
+Zone:
+(A) Industrial uses which require proximity to rural resources:
+(1)  Any use permitted under 154.560(B);
+(2)  Mining and quarrying of nonmetallic minerals, except fuels (14);
+(3) Sand and gravel resource processing sites, excluding quarries (see Sections
+120.410 to 120.460) (144);
+(4) Cement, clay, glass and stone products manufacturing facilities (32); and
+(5)  Livestock auctions and sales, including feed lots (0211).
+(B) Industrial uses which are small-scale, low-impact:
+(1)  Any use permitted under 154.560(C);
+(2) Kennels (boarding and raising of animals);
+(3) Cottage Industry Home Occupations;
+(4) Metals, primary, manufacturing facilities (33);
+(5) Manufacturing of fabricated metal products (34);
+(6) Machinery facilities;
+(7) Railroad equipment manufacture and repair (374);
+(8) Auto wrecking yard, perimeter fenced and landscaped;
+(9) Paper and allied products manufacturing facilities (265)(267);
+(10) Bulk fuel storage;
+(11) Petroleum, petroleum products, and storage facilities (29);
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to c urrent\CHAPTER 155.500 (2016 update).doc              155.500-5
+
+(12) Marijuana processing as defined in PCZO 110.371(B); [Amended by Ordinance 16-
+01]
+ (13) Marijuana wholesaling as defined in PCZO 110.371(C); [Amended by Ordinance
+16-01]
+(14) Marijuana testing laboratory as defined in PCZO 110.371(E); [Amended by
+Ordinance 16-01]
+
+(C) Any other industrial use, where the buildings do not exceed 40,000 square feet of floor
+space provided that:
+(1) The use is small in size and low impact; or
+(2) The use is significantly dependent upon a specific resource located on
+agricultural or forest land; and
+(3) The use will not have adverse impacts on surrounding farm and forest activities;
+and
+(4)  The new use will not exceed the capacity of water and sewer service available to
+the site on December 5, 1994, or if such services are not available to the site, the
+capacity of the site itself to provide adequate water and absorb waste water.
+(D) Wind energy systems utilizing a tower and meteorological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.  [Amended by
+Ordinance 09-06]
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to c urrent\CHAPTER 155.500 (2016 update).doc              155.500-6
+Appendix 1
+Rickreall – Derry Unincorporated Community Industrial Properties
+Building Size Inventory
+January 2001
+ # Tax Lot
+ Map# Acres Dwelling  Zone Owner Use Building Size sq. ft. Buildable
+1 1000 7.4.30 1.44  IL WEST HILLS MFG. Vacant  X
+5 802 7.4.31 9.91  IL DEMBOWSKI AL Dallas Coop Grain Storage Silos 432,000 Bushel Cap
+6 801 7.4.31 4  IL SIEBER RAYMOND A Dallas Equipment Repair 7,624
+7 1001 7.4.31 1  IL WESTERN FARM SERVICES, INC Seed Warehouse  & Office 3,456  2,318
+8 1600 7.5.25 1.6  IL BLESSING TONI JO Vacant  X
+9 1000 7.5.25D 0.82 1 IL HINCHCLIFF CHARLES E & NORA E  1930 dwelling
+10 1100 7.5.25D 0.71  IL HINCHCLIFF CHARLES E & NORA E  Red Mule Store 2,400
+11 300 7.5.25D 1 1 IL PENNA EDWARD & REBECCA 1881 dwelling (Historic  Registry)
+12 500 7.5.25D 1 1 IL GOINS MARSHALL & MADISON D 1917 dwelling
+13 700 7.5.25D 0.87  IL COUEY JOE E & LETA J Vacant  X
+14 800 7.5.25D 0.56 1 IL COUEY LETA J 1945 dwelling
+15 900 7.5.25D 0.56 1 IL COUEY LETA J 1920 dwelling
+16 100 7.5.25D 7.2  IL HOFF GWENDOLYN CLAIRE ET AL Burelbach Inds. /Warehs./Manf./Shop 21,040 / 12,700 / 1,200
+17 200 7.5.25D 1  IL POOLE JONATHAN W & MICHELLE  Industrial 1,728
+18 201 7.5.25D 3.01  IL PEGG WYATT Vacant  X
+19 400 7.5.25D 2  IL PEGG WYATT Western Interlock ~9,000?
+20 600 7.5.25D 5.49  IL IOTT KEN & JUDY ET AL Rickreall Mini Sto rage 40,248
+21 100 7.4.29C 0.82  IH WILLAMETTE GRASS SEED, LLC Warehouses 9,408 / 5,040 X
+22 101 7.4.31 1.36  IH MARX RONALD L ET AL Seed cleaning operat ion Part of building 9,505 X
+23 200 7.4.29C 1.52  IH AG WEST SUPPLY Farm equipment parking  X
+24 300 7.4.29C 1.56  IH WILLAMETTE GRASS SEED, LLC Machine shop /  warehouses / office/
+utility building
+14,640 / 17,252 / 1,896
+25 500 7.4.29C 9.56  IH POLK COUNTY FARMS CO-OP Showroom / Ware house / Machine
+shop / tanks/ office / storage
+6,710 / 11,675 / 6,912 /
+1,540 / 1,240 / 14,010
+
+26 600 7.4.29C 1.72  IH MARX RONALD L ET AL Seed Warehouses (4) 39, 908
+27 400 7.4.29C 2.67  IH S. PACIFIC / BURLINGHAM Grain warehouse 5,520
+This table was created using Polk County Tax Assessors Tax Maps.  Each tax lot should not be inferred to be a separate lawfully created lot or parcel.
+The deed to the subject property describes, in the legal description, how many lots or parcels comprise the subject property.  The legal status of the
+lots or parcels described in a deed can be determined by evaluating the land-use applications made through the Polk County Planning Division and
+the deed history of the subject property.

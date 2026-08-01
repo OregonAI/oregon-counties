@@ -1,0 +1,72 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/klamath-county
+id: klamath-policies-737-hourly-2026-2027-salary-table
+title: '737-Hourly-2026-2027-Salary-Table'
+doc_type: policy
+citation: '737-Hourly-2026-2027-Salary-Table'
+authority_level: county_policy
+issuing_body: 'Klamath County Board of Commissioners'
+source_url: https://www.klamathcounty.org/DocumentCenter/View/63589/737-Hourly-2026-2027-Salary-Table
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 39943d0515ea87c9514eeb69c2ee4b1cdf27309ffaabb264521508908905cccf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [klamath-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Klamath County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 737-Hourly-2026-2027-Salary-Table (737-Hourly-2026-2027-Salary-Table)
+
+## At a glance
+
+737-Hourly-2026-2027-Salary-Table — policies of Klamath County. 1 pages.
+
+## Full text
+
+GRADE STEP 1 STEP 2 STEP 3 STEP 4
+STEP 5
+Merit
+STEP 6
+Merit
+STEP 7
+Merit
+LH09 15.65$        16.27$        16.93$        17.61$        18.31$        19.04$        19.80$
+LH10 16.43$        17.10$        17.77$        18.48$        19.22$        19.98$        20.77$
+LH11 17.24$        17.94$        18.66$        19.40$        20.19$        20.99$        21.83$
+LH12 18.11$        18.82$        19.58$        20.36$        21.20$        22.04$        22.91$
+LH13 19.01$        19.76$        20.56$        21.37$        22.22$        23.12$        24.05$
+LH14 19.96$        20.75$        21.58$        22.45$        23.34$        24.27$        25.23$
+LH15 20.96$        21.80$        22.67$        23.57$        24.52$        25.50$        26.52$
+LH16 22.00$        22.86$        23.80$        24.77$        25.76$        26.78$        27.86$
+LH17 23.09$        24.02$        24.97$        25.97$        27.00$        28.08$        29.20$
+LH18 24.25$        25.21$        26.22$        27.27$        28.37$        29.51$        30.69$
+LH19 25.47$        26.49$        27.55$        28.64$        29.78$        30.97$        32.21$
+LH20 26.72$        27.80$        28.92$        30.08$        31.26$        32.52$        33.81$
+LH21 28.07$        29.19$        30.37$        31.58$        32.83$        34.15$        35.50$
+LH22 29.47$        30.66$        31.88$        33.15$        34.46$        35.83$        37.26$
+LH23 30.94$        32.18$        33.46$        34.78$        36.17$        37.62$        39.13$
+LH24 32.49$        33.78$        35.14$        36.56$        38.02$        39.54$        41.13$
+LH25 34.11$        35.47$        36.89$        38.37$        39.90$        41.50$        43.18$
+LH26 35.81$        37.24$        38.74$        40.28$        41.89$        43.55$        45.30$
+LH27 37.60$        39.11$        40.67$        42.30$        43.98$        45.75$        47.56$
+
+Full-Time and Half-Time
+Hourly, FLSA Non-Exempt
+Effective July 1, 2026     2% COLA

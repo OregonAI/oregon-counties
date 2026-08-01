@@ -1,0 +1,90 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-1009-temporary-use-permits-pdf
+title: 'Zoning-Ordinance-Section-1009-Temporary-Use-Permits-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-1009-Temporary-Use-Permits-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8510/Zoning-Ordinance-Section-1009-Temporary-Use-Permits-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 85c576e23a407dfd70f5f6233a528e31609c96f87fb88b88a368896c1eb1cbaf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zoning-Ordinance-Section-1009-Temporary-Use-Permits-PDF (Zoning-Ordinance-Section-1009-Temporary-Use-Permits-PDF)
+
+## At a glance
+
+Zoning-Ordinance-Section-1009-Temporary-Use-Permits-PDF — land use of Yamhill County. 2 pages.
+
+## Full text
+
+Zoning Ordinance
+Section 1009.00 - Temporary Use Permits
+
+1009.01  Standards and Requirements
+The following minimum requirements shall apply to temporary use permits:
+A.  A structure for which a temporary permit is issued shall be subject to the
+standards and limitations of the zoning district in which it is located.
+
+B.  The structure shall meet all applicable County Health and Sanitation
+requirements.
+
+C.  Temporary uses or activities shall comply with applicable State and Federal
+regulations and requirements.
+D.  In the event that the use or activity involves a temporary structure, such structure
+shall be removed upon expiration of the temporary use permit unless a new
+application is approved by the Director. In no case shall a temporary use permit
+be issued for a period exceeding nine (9) months, unless the permit is renewed
+pursuant to this ordinance; or is subject to Subsection
+1009.03 .
+1009.02  Conditions of Approval
+In issuing a temporary use permit, the Director may impose reasonable conditions as
+necessary to preserve the basic purpose and intent of the underlying zoning district. These
+conditions may include, but are not limited to, the following:
+A.  Increasing the required yard dimensions.
+B.  Requiring fencing, screening, or landscaping to protect adjacent or nearby
+property.
+C.  Limiting the number, size, location or lighting of signs.
+D.  Limiting the time for certain activities.
+E.  Limiting the total duration of the use.
+F.  Posting bonds or other financial assurances to guarantee compliance with
+conditions of approval.
+1009.03  Termination or Non-Renewal
+A.  If the applicant for a temporary activity or use fails to maintain compliance with
+conditions of approval, or if the activity or use is determined, upon appeal of the
+Director's decision, to be inconsistent with the provision of the applicable zoning
+District, such use may, upon 15 days notice by the Director, be terminated. Such
+an appeal may be made at any time during the duration of permit approval, and is
+not subject to other time limitations.
+B.  If the temporary use is determined to be incompatible with vicinity uses or
+otherwise unsatisfactory, and such conditions cannot be mitigated, the temporary
+activity or use may be denied renewal by the Director.
+C.  If at any time the Director determines that a temporary use is more permanent
+than temporary in nature, such use shall comply with all applicable provisions of
+this ordinance. [Amended 8/17/88, Ord. 468]
+
+Return to the top of the document
+Zoning Table of Contents
+Main Planning Page
