@@ -74,7 +74,7 @@ def discover_link_list(profile: dict, family: str, cfg: dict) -> list[dict]:
         if url in seen:
             continue
         seen.add(url)
-        name = urllib.parse.unquote(url.rsplit("/", 1)[-1])
+        name = _name_from_url(url)
         if fetch.looks_like_draft(name) or fetch.looks_like_draft(href):
             continue
         if cfg.get("exclude_re") and re.search(cfg["exclude_re"], url, re.I):
@@ -189,8 +189,12 @@ def run_discovery(slug: str, profiles: dict) -> int:
             continue
         for item in found:
             group["sources"].append({
-                "id": cfg["id_fn"](item) if callable(cfg.get("id_fn"))
-                      else f"{slug}-{family}-{_slugify(item['name'])}",
+                # A profile's own discover() may set `id` and `title` — it knows the
+                # county's identifiers (an ordinance number, a code chapter) and the
+                # generic slugifier only knows the filename. Filename-derived ids are the
+                # fallback, not the rule: `1616608184_35-752-ordinance-no-80-201-recorded-9-18-1980`
+                # is stable but says nothing, and a citation cannot be resolved to it.
+                "id": item.get("id") or f"{slug}-{family}-{_slugify(item['name'])}",
                 "url": item["url"],
                 "family": family,
                 "format": cfg.get("format", "pdf"),
@@ -200,6 +204,20 @@ def run_discovery(slug: str, profiles: dict) -> int:
             })
         print(f"  {family:<10} {len(found)} source(s)")
 
+    # IDS MUST BE UNIQUE, and this is checked here rather than at ingest because a collision
+    # at ingest is INVISIBLE: two sources with one id write the same file, the second
+    # silently overwrites the first, and the corpus ends up holding one document while the
+    # manifest claims two. Discovery is the only place the whole set is in hand at once.
+    dupes = {i: n for i, n in
+             __import__("collections").Counter(s["id"] for s in group["sources"]).items()
+             if n > 1}
+    if dupes:
+        print(f"\nABORT: {len(dupes)} duplicate source id(s) — nothing written.\n"
+              f"Each would silently overwrite the last at ingest:", file=sys.stderr)
+        for i, n in sorted(dupes.items(), key=lambda kv: -kv[1])[:8]:
+            print(f"  {n}x  {i}", file=sys.stderr)
+        return 1
+
     SOURCES.mkdir(parents=True, exist_ok=True)
     out = SOURCES / f"{slug}.yml"
     out.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=100),
@@ -208,13 +226,37 @@ def run_discovery(slug: str, profiles: dict) -> int:
     return 0
 
 
+# Trailing path segments that are an ACTION rather than a name. Drupal serves documents as
+# `/file/<real-name>/download`, so the last segment is the verb and the identifying part is
+# the one before it. Taking the last segment blindly gave every Multnomah document the id
+# `multnomah-code-download` — 20 sources colliding on one id, which the manifest happily
+# recorded because nothing downstream checks id uniqueness at discovery time.
+_ACTION_SEGMENTS = {"download", "view", "open", "file", "get", "inline", ""}
+
+
+def _name_from_url(url: str) -> str:
+    parts = [p for p in urllib.parse.urlsplit(url).path.split("/") if p]
+    while parts and parts[-1].lower() in _ACTION_SEGMENTS:
+        parts.pop()
+    return urllib.parse.unquote(parts[-1]) if parts else "document"
+
+
 def _slugify(name: str) -> str:
     stem = re.sub(r"\.[a-z0-9]{2,4}$", "", name, flags=re.I)
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", stem.lower())).strip("-")[:60]
 
 
 def _titleize(name: str) -> str:
-    return re.sub(r"\.[a-z0-9]{2,4}$", "", name, flags=re.I).replace("_", " ").strip()
+    # Names come out of href attributes, so HTML entities survive into them: Multnomah's
+    # `chapter_29a:_references_to_ors,_1990_code_&amp;_ordinances` would otherwise publish a
+    # title containing a literal `&amp;`.
+    import html
+    stem = html.unescape(re.sub(r"\.[a-z0-9]{2,4}$", "", name, flags=re.I))
+    stem = stem.replace("_", " ").strip()
+    # Title-case only when the source gave us no case information at all — a slug is
+    # lowercase by construction, but a real filename's capitalisation is the publisher's and
+    # is left alone.
+    return stem.title() if stem == stem.lower() else stem
 
 
 # ------------------------------------------------------------------ ingestion
