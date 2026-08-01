@@ -357,7 +357,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.co.wallowa.or.us
-  built: false
+  built: true
 - slug: harney-county
   name: Harney County
   short_name: Harney
@@ -399,7 +399,7 @@ counties:
   governing_body: county-court
   home_rule: general-law
   source_url: https://www.gilliamcountyor.gov
-  built: false
+  built: true
 - slug: wheeler-county
   name: Wheeler County
   short_name: Wheeler
@@ -410,3 +410,5 @@ counties:
   home_rule: general-law
   source_url: https://www.wheelercountyoregon.com
   built: false
+  deferred: cloud-container-opaque
+  deferred_reason: 'Publishes no codified code (measured none-found). Its resolutions, ordinances, court minutes and records-retention policy are all in Box.com shared folders, which render ZERO characters in headless Chromium after a 12s settle and a scroll — not a refusal, and not solvable by rendering. Older minutes require a records-request form by the county''s own statement, and its comprehensive plan is only in UO Scholars'' Bank.'

@@ -1,0 +1,123 @@
+group: gilliam
+title: Gilliam County sources
+county: gilliam-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: No AI-agent directive. Nothing to decide.
+  hosts:
+  - host: www.gilliamcountyor.gov
+    robots_url: https://www.gilliamcountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: 'Revize instance that SOFT-404s: returns HTTP 200 with a full page for any path. Status codes
+      carry no information here; pages must be validated against a known-absent control.'
+last_checked: '2026-07-31'
+upstream_signal: No feed. Court documents carry `?t=<timestamp>` cache-busters that change on re-upload,
+  so diffing the link set detects a replacement.
+sources:
+- id: gilliam-orders-6-1-2026-02-court-order-with-exhibit
+  url: https://www.gilliamcountyor.gov/_6.1%202026-02_Court%20Order%20with%20exhibit.pdf?t=202607081843100
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 6.1 2026-02 Court Order with exhibit
+  last_checked: '2026-07-31'
+- id: gilliam-orders-6-5-combined-r2026-08-initiate-proceedings-to-sell-property
+  url: https://www.gilliamcountyor.gov/_6.5%20Combined%20R2026-08%20Initiate%20proceedings%20to%20sell%20property.pdf?t=202607141153390
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 6.5 Combined R2026-08 Initiate proceedings to sell property
+  last_checked: '2026-07-31'
+- id: gilliam-orders-6-2-2023-02-economic-enhancement-fund-ordinance-fully-execut
+  url: https://www.gilliamcountyor.gov/_6.2%202023-02%20Economic%20Enhancement%20Fund%20Ordinance%20Fully%20Executed.pdf?t=202606102005480
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 6.2 2023-02 Economic Enhancement Fund Ordinance Fully Executed
+  last_checked: '2026-07-31'
+- id: gilliam-orders-7-7-r2026-04-salary-schedules-master
+  url: https://www.gilliamcountyor.gov/_7.7%20R2026-04%20Salary%20Schedules%20-%20MASTER.pdf?t=202604291921210
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 7.7 R2026-04 Salary Schedules - MASTER
+  last_checked: '2026-07-31'
+- id: gilliam-orders-7-2-combined-r2026-02-briefing-salary-schedules
+  url: https://www.gilliamcountyor.gov/7.2%20combined%20R2026-02%20Briefing%20-%20Salary%20Schedules.pdf?t=202602251630400
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 7.2 combined R2026-02 Briefing - Salary Schedules
+  last_checked: '2026-07-31'
+- id: gilliam-orders-6-8-r2025-16-terminating-dissolution-proceedings-port-of-arl
+  url: https://www.gilliamcountyor.gov/6.8%20R2025-16%20Terminating%20Dissolution%20Proceedings%20Port%20of%20Arlington.pdf?t=202602021917570
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 6.8 R2025-16 Terminating Dissolution Proceedings Port of Arlington
+  last_checked: '2026-07-31'
+- id: gilliam-orders-7-2-combined-r2025-14-11-05-25
+  url: https://www.gilliamcountyor.gov/7.2%20Combined%20R2025-14%2011.05.25.pdf?t=202602021836470
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 7.2 Combined R2025-14 11.05.25
+  last_checked: '2026-07-31'
+- id: gilliam-orders-7-3-combined-r2025-15-11-05-25
+  url: https://www.gilliamcountyor.gov/7.3%20Combined%20R2025-15%2011.05.25.pdf?t=202602021837190
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 7.3 Combined R2025-15 11.05.25
+  last_checked: '2026-07-31'
+- id: gilliam-orders-5-2-r2025-11-step-increases-date-change
+  url: https://www.gilliamcountyor.gov/5.2%20R2025-11%20Step%20Increases%20date%20change.pdf?t=202601291747310
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 5.2 R2025-11 Step Increases date change
+  last_checked: '2026-07-31'
+- id: gilliam-orders-6-2-r2025-10-surplus-equipment-combined
+  url: https://www.gilliamcountyor.gov/6.2%20-%20R2025-10%20surplus%20equipment%20combined.pdf?t=202601291720570
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 6.2 - R2025-10 surplus equipment combined
+  last_checked: '2026-07-31'
+- id: gilliam-orders-2023-02-economic-enhancement-fund-ordinance-fully-executed
+  url: https://www.gilliamcountyor.gov/2023-02%20Economic%20Enhancement%20Fund%20Ordinance%20Fully%20Executed.pdf?t=202601291705410
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 2023-02 Economic Enhancement Fund Ordinance Fully Executed
+  last_checked: '2026-07-31'
+- id: gilliam-orders-7-1-r2025-06-salary-schedules
+  url: https://www.gilliamcountyor.gov/7.1%20R2025-06%20Salary%20Schedules.pdf?t=202601291434280
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 7.1 R2025-06 Salary Schedules
+  last_checked: '2026-07-31'
+- id: gilliam-orders-6-1-r2025-04-combined
+  url: https://www.gilliamcountyor.gov/6.1%20R2025-04%20combined.pdf?t=202601271758280
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 6.1 R2025-04 combined
+  last_checked: '2026-07-31'
+- id: gilliam-land-use-1-31-2023-2023-application-base-form
+  url: https://www.gilliamcountyor.gov/Documents/Government/Offices/Planning/1.31.2023-2023%20Application%20base%20form.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 1.31.2023-2023 Application base form
+  last_checked: '2026-07-31'
+- id: gilliam-land-use-2022-signed-cwpp
+  url: https://www.gilliamcountyor.gov/Documents/Government/Offices/Planning/2022%20Signed%20CWPP.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 2022 Signed CWPP
+  last_checked: '2026-07-31'

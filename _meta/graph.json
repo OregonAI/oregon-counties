@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-counties",
- "n_nodes": 2695,
- "n_edges": 7635,
- "n_edges_external": 7635,
+ "n_nodes": 2710,
+ "n_edges": 7639,
+ "n_edges_external": 7639,
  "nodes": [
   {
    "id": "benton-code-adpr",
@@ -6141,6 +6141,84 @@
    "title": "Resolution No. 87-053",
    "doc_type": "ordinance",
    "path": "counties/deschutes-county/orders/deschutes-orders-resolution-87-053.md"
+  },
+  {
+   "id": "gilliam-land-use-1-31-2023-2023-application-base-form",
+   "title": "1.31.2023-2023 Application base form",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/land-use/gilliam-land-use-1-31-2023-2023-application-base-form.md"
+  },
+  {
+   "id": "gilliam-land-use-2022-signed-cwpp",
+   "title": "2022 Signed CWPP",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/land-use/gilliam-land-use-2022-signed-cwpp.md"
+  },
+  {
+   "id": "gilliam-orders-5-2-r2025-11-step-increases-date-change",
+   "title": "5.2 R2025-11 Step Increases date change",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-5-2-r2025-11-step-increases-date-change.md"
+  },
+  {
+   "id": "gilliam-orders-6-1-2026-02-court-order-with-exhibit",
+   "title": "6.1 2026-02 Court Order with exhibit",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-6-1-2026-02-court-order-with-exhibit.md"
+  },
+  {
+   "id": "gilliam-orders-6-1-r2025-04-combined",
+   "title": "6.1 R2025-04 combined",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-6-1-r2025-04-combined.md"
+  },
+  {
+   "id": "gilliam-orders-6-2-r2025-10-surplus-equipment-combined",
+   "title": "6.2 - R2025-10 surplus equipment combined",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-6-2-r2025-10-surplus-equipment-combined.md"
+  },
+  {
+   "id": "gilliam-orders-6-5-combined-r2026-08-initiate-proceedings-to-sell-property",
+   "title": "6.5 Combined R2026-08 Initiate proceedings to sell property",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-6-5-combined-r2026-08-initiate-proceedings-to-sell-property.md"
+  },
+  {
+   "id": "gilliam-orders-6-8-r2025-16-terminating-dissolution-proceedings-port-of-arl",
+   "title": "6.8 R2025-16 Terminating Dissolution Proceedings Port of Arlington",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-6-8-r2025-16-terminating-dissolution-proceedings-port-of-arl.md"
+  },
+  {
+   "id": "gilliam-orders-7-1-r2025-06-salary-schedules",
+   "title": "7.1 R2025-06 Salary Schedules",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-7-1-r2025-06-salary-schedules.md"
+  },
+  {
+   "id": "gilliam-orders-7-2-combined-r2025-14-11-05-25",
+   "title": "7.2 Combined R2025-14 11.05.25",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-7-2-combined-r2025-14-11-05-25.md"
+  },
+  {
+   "id": "gilliam-orders-7-2-combined-r2026-02-briefing-salary-schedules",
+   "title": "7.2 combined R2026-02 Briefing - Salary Schedules",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-7-2-combined-r2026-02-briefing-salary-schedules.md"
+  },
+  {
+   "id": "gilliam-orders-7-3-combined-r2025-15-11-05-25",
+   "title": "7.3 Combined R2025-15 11.05.25",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-7-3-combined-r2025-15-11-05-25.md"
+  },
+  {
+   "id": "gilliam-orders-7-7-r2026-04-salary-schedules-master",
+   "title": "7.7 R2026-04 Salary Schedules - MASTER",
+   "doc_type": "ordinance",
+   "path": "counties/gilliam-county/orders/gilliam-orders-7-7-r2026-04-salary-schedules-master.md"
   },
   {
    "id": "grant-land-use-2019-land-development-code-chapter-1-pdf",
@@ -14859,6 +14937,18 @@
    "title": "ZONING, PARTITION, & SUBDIVISION UNION COUNTY, OREGON",
    "doc_type": "ordinance",
    "path": "counties/union-county/land-use/union-land-use-zopasuuncoor.md"
+  },
+  {
+   "id": "wallowa-land-use-2024-onsite-fee-schedule",
+   "title": "2024-Onsite-Fee-Schedule",
+   "doc_type": "ordinance",
+   "path": "counties/wallowa-county/land-use/wallowa-land-use-2024-onsite-fee-schedule.md"
+  },
+  {
+   "id": "wallowa-land-use-application-pack-fillable",
+   "title": "Application Pack Fillable",
+   "doc_type": "ordinance",
+   "path": "counties/wallowa-county/land-use/wallowa-land-use-application-pack-fillable.md"
   },
   {
    "id": "wasco-code-1976-dog-licensing-policy",
@@ -27505,6 +27595,21 @@
    "from": "deschutes-orders-ordinance-pl-15",
    "type": "references_external",
    "to": "ORS 215.203"
+  },
+  {
+   "from": "gilliam-land-use-2022-signed-cwpp",
+   "type": "references_external",
+   "to": "ORS 476.510"
+  },
+  {
+   "from": "gilliam-orders-6-1-2026-02-court-order-with-exhibit",
+   "type": "references_external",
+   "to": "ORS 197.830"
+  },
+  {
+   "from": "gilliam-orders-6-1-2026-02-court-order-with-exhibit",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
   },
   {
    "from": "grant-land-use-2019-land-development-code-chapter-1-pdf",
@@ -49875,6 +49980,11 @@
    "from": "union-land-use-art9.00forezo",
    "type": "references_external",
    "to": "ORS 477.490"
+  },
+  {
+   "from": "wallowa-land-use-application-pack-fillable",
+   "type": "references_external",
+   "to": "ORS 358.920"
   },
   {
    "from": "wasco-code-1978-wasco-county-dog-ordinance",

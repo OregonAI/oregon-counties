@@ -1,0 +1,168 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/gilliam-county
+id: gilliam-orders-7-2-combined-r2026-02-briefing-salary-schedules
+title: '7.2 combined R2026-02 Briefing - Salary Schedules'
+doc_type: ordinance
+citation: '7.2 combined R2026-02 Briefing - Salary Schedules'
+authority_level: county_ordinance
+issuing_body: 'Gilliam County County Court'
+source_url: https://www.gilliamcountyor.gov/7.2%20combined%20R2026-02%20Briefing%20-%20Salary%20Schedules.pdf?t=202602251630400
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e476bee141a47ac695c3694569a5dee64cafb6f304a37eaa6dbdb33475d0e6ee
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [gilliam-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Gilliam County County Court at the source URL above. Verify at source before relying on it.
+
+# 7.2 combined R2026-02 Briefing - Salary Schedules (7.2 combined R2026-02 Briefing - Salary Schedules)
+
+## At a glance
+
+7.2 combined R2026-02 Briefing - Salary Schedules — orders of Gilliam County. 5 pages.
+
+## Full text
+
+TO
+DAY’S DATE: February 24, 2026
+M
+EETING DATE: March 4, 2026
+AGENDA ITE
+M BRIEFING
+Agenda Item 7.2
+   FROM: Brooklynn Griffith, Finance Director
+TI
+TLE OF AGENDA ITEM (No acronyms please): Consider Approval of Resolution R2026-02 –
+Represented & Non-Represented Salary Schedules
+S
+UMMARY: Recently the Custodian position moved from a non-represented to represented position. The
+amendment to the non-represented salary schedule is the removal of the hourly Custodian position. This
+position has been added to the represented salary schedule; the hourly rate remains the same.
+In
+ addition, the position of Emergency Coordinator has been modified to remove the duties and
+responsibilities of the Road and Weed Department Office Manager to be its own position. This position,
+Office Manager – Road/Weed Dept, falls in line with the current salaried positions of Deputy Clerk,
+Deputy Assessor, and Transportation Coordinator, as it historically had. This position is classified as
+regular, part-time, with an FTE of .60, and is a represented hourly position, approved at the January 21,
+2026, meeting. This position has been added to the represented salary schedule.
+S
+UGGESTED MOTION LANGUAGE:
+“I move to adopt Resolution No. R2026-02 {as presented/as amended}.”
+ATTACHMENTS:
+Resolution No. R2026-02 (4 pages)
+1 – RESOLUTION NO. R2026-02
+IN THE COUNTY COURT FOR GILLIAM COUNTY, OREGON
+R
+ESOLUTION NO. R2026-02
+A
+ RESOLUTION AMENDING FISCAL YEAR 2025-2026 NON-REPRESENTED AND
+REPRESENTED EMPLOYEE SALARY SCHEDULE AND SUPERSEDING
+RESOLUTION R2025-06 and R2025-09.
+W
+HEREAS, Gilliam County (“County”) adopted Resolution R2025-06 to
+implement FY2025-2026 salary schedules and adopted Resolution R2025-09 to amend
+FY2025-2026 non-represented salary schedule; and
+WHEREAS, the County would like to amend the non-represented and
+represented employee salary schedule;
+NO
+W, THEREFORE, the Gilliam County Court resolves as follows:
+1. F
+indings; Adoption.  Resolution No. R2026-02 (this “Resolution”) is hereby
+adopted. The Gilliam County Court (the “Court”) hereby approves and adopts
+amendments to the FY2025-2026 Salary Schedule for Represented and Non-
+Represented Employees attached hereto as Exhibit A (the “Schedule”) effective
+February 1, 2026.
+2. M
+iscellaneous.  This Resolution (which includes the Schedule) replaces
+and supersedes any existing and/or previously adopted salary schedules in their
+entirety.  This Resolution may be corrected by order of the Court to cure editorial and/or
+clerical errors.
+AD
+OPTED by the Gilliam County Court this 4th day of March, 2026.
+___
+________________________________
+Cris Patnode, County Judge
+A
+TTEST:
+___
+___________________________
+Anja Mundy, Recording Secretary
+EXHIBIT A – FY 2025-2026 Gilliam County Salary Schedule for Represented and Non-Represented Employees
+Exhibit A
+FY 2024-2025 Gilliam County Salary Schedule for
+Non-Represented and Represented Employees
+[a
+ttached]
+CPI 3.50%
+STEP A STEP B STEP C STEP D STEP E STEP F
+Yrs 0 -.99 Yrs 1.0 -1.99 Yrs 2.0 -3.99 Yrs 4.0 - 6.99 Yrs 7.0 - 9.99 Yrs 10.0+
+Base + CPI  A  @ + 2%  B  @ + 3% C @ +4% D @ +4% E @ +5%
+Position (Hourly) Ba Hourly Hourly Hourly Hourly Hourly Hourly
+DA Office Manager/Paralegal ## $33.14 $33.81 $34.82 $36.21 $37.66 $39.55
+Victims & Witness Assistance Director ## $30.67 $31.28 $32.22 $33.51 $34.85 $36.60
+Court Administrator - Justice Court ## $28.29 $28.86 $29.72 $30.91 $32.15 $33.75
+Office Manager - Road/Weed Depts ## $26.71 $27.25 $28.07 $29.19 $30.36 $31.87
+Docket Clerk - Justice Court ## $24.19 $24.67 $25.41 $26.43 $27.49 $28.86
+Custodian ## $22.32 $22.76 $23.45 $24.39 $25.36 $26.63
+Base
+Position (Salaried) Annual Annual Annual Annual Annual Annual
+Appraiser/Data Analyst/Deputy Tax Collector ## 68,940.64$   70,319.45$   72,429.03$ 75,326.19$   78,339.24$   82,256.20$
+Road Equipment Operator II ## 68,425.32$   69,793.82$   71,887.64$ 74,763.14$   77,753.67$   81,641.35$
+Shop Mechanic ## 67,525.81$   68,876.33$   70,942.62$ 73,780.32$   76,731.54$   80,568.11$
+Weed Control Assistant ## 58,843.92$   60,020.80$   61,821.43$ 64,294.28$   66,866.05$   70,209.36$
+Road Equipment Operator I
+Crusher Equipment Operator
+Deputy Clerk
+Deputy Assessor
+Transportation Coordinator
+Transportation Dispatcher ## 43,113.62$   43,975.90$   45,295.17$ 47,106.98$   48,991.26$   51,440.82$
+2025-26 Represented Salary Schedule (Effective Date: 02/01/2026)
+ ## 55,949.96$   57,068.96$   58,781.03$ 61,132.27$   63,577.56$   66,756.44$
+63,139.10$   66,296.05$
+ ##
+55,564.10$   56,675.38$   60,710.67$   58,375.64$
+CPI 3.50%
+STEP A STEP B STEP C STEP D STEP E STEP F
+Yrs 0 -.99 Yrs 1.0 -1.99 Yrs 2.0 -3.99 Yrs 4.0 - 6.99 Yrs 7.0 - 9.99 Yrs 10.0+
+Base + CPI  A  @ + 2%  B  @ + 3% C @ +4% D @ +4% E @ +5%
+Position (Hourly) Base Hourly Hourly Hourly Hourly Hourly Hourly
+Administrative Assistant 26.71 27.25 28.07 29.19 30.36 31.87
+Custodian # $22.32 $22.76 $23.45 $24.39 $25.36 $26.63
+Prevention Services Assistant
+Youth Librarian # $20.73 $21.14 $21.78 $22.65 $23.55 $24.73
+Public Transportation Driver
+Senior Cook # $18.96 $19.34 $19.92 $20.72 $21.55 $22.62
+Assistant Cook # $15.83 $16.15 $16.63 $17.30 $17.99 $18.89
+Position (Salaried) Base Annual Annual Annual Annual Annual Annual
+Roadmaster # $82,960.28 $84,619.49 $87,158.07 $90,644.40 $94,270.17 $98,983.68
+Finance Director
+Juvenile & Prevention Services Director # $75,229.09 $76,733.68 $79,035.69 $82,197.11 $85,485.00 $89,759.25
+Rock Crusher Supervisor # $73,695.81 $75,169.73 $77,424.82 $80,521.81 $83,742.68 $87,929.82
+Weed Control Officer # $68,940.64 $70,319.45 $72,429.03 $75,326.19 $78,339.24 $82,256.20
+Assistant Roadmaster # $68,425.32 $69,793.82 $71,887.64 $74,763.14 $77,753.67 $81,641.35
+Executive Assistant to the County Court
+Community Development/HR Coordinator
+Public Transportation Director
+ # $68,931.12 $70,309.75 $72,419.04 $75,315.80 $78,328.43 $82,244.85
+Senior & Family Services Director # $57,261.89 $58,407.13 $60,159.34 $62,565.71 $65,068.34 $68,321.76
+Facilities Director
+Library Director # $55,564.10 $56,675.38 $58,375.64 $60,710.67 $63,139.10 $66,296.05
+Public Health Administrator $6,210.00
+2025-26 Non-Represented Salary Schedule (Effective 02/01/2026)
