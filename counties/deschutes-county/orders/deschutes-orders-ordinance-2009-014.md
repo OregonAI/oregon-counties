@@ -33,7 +33,7 @@ relationships:
     - ORS 358.480
     - ORS 454.695
     - ORS 459.049
-    - ORS 46813.095
+    - ORS 468B.095
     - ORS 520.005
   related: []
   supersedes: []

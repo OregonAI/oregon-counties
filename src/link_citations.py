@@ -34,6 +34,8 @@ import pathlib
 import re
 import sys
 
+import yaml
+
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
 from corpus_toolkit import config as config_mod          # noqa: E402
@@ -55,14 +57,43 @@ MAX_REFS = 60
 FULLTEXT = re.compile(r"^## Full text\s*$(.*)", re.M | re.S)
 
 
-def citations(body: str) -> list[str]:
+# Citations the source PDF's own text layer renders as something that cannot exist, with the
+# reading verified off the rendered page by two independent OCR engines. Written by
+# `relayer_citations.py`; consulted here so the correction SURVIVES REGENERATION.
+#
+# This must be data rather than a one-time edit to the documents. `--check` is a CI gate that
+# recomputes this list from the verbatim text, so a correction applied by hand would be
+# reported as drift on the next run and reverted by the next real one — the fix would quietly
+# undo itself and CI would call the undoing correct.
+CORRECTIONS = ROOT / "_meta" / "citation-corrections.yml"
+
+
+def corrections() -> dict[str, dict[str, str]]:
+    if not CORRECTIONS.is_file():
+        return {}
+    data = yaml.safe_load(CORRECTIONS.read_text(encoding="utf-8")) or {}
+    return {d["document"]: {c["extracted"]: c["printed"] for c in d.get("citations") or []}
+            for d in data.get("documents") or []}
+
+
+def citations(body: str, fixes: dict[str, str] | None = None) -> list[str]:
     m = FULLTEXT.search(body)
     if not m:
         return []
     text = m.group(1)
-    refs = [f"ORS {n}" for n in sorted(set(ORS.findall(text)))]
-    refs += [f"OAR {n}" for n in sorted(set(OAR.findall(text)))]
-    return refs
+    fixes = fixes or {}
+
+    # Substitution, not addition: the impossible citation is not something the document ALSO
+    # points at, it is a misreading of the one it does point at. Keeping both would make the
+    # corpus assert an edge to a chapter that does not exist.
+    #
+    # Applied per scheme rather than to one merged list, so a corrected document keeps the
+    # same ORS-then-OAR ordering as every other document. Sorting the merged list instead
+    # interleaved the two — a diff that looked like citations had moved when only one line
+    # had changed.
+    ors = sorted({fixes.get(f"ORS {n}", f"ORS {n}") for n in ORS.findall(text)})
+    oar = sorted({fixes.get(f"OAR {n}", f"OAR {n}") for n in OAR.findall(text)})
+    return ors + oar
 
 
 def rewrite(path: pathlib.Path, refs: list[str]) -> bool:
@@ -88,11 +119,12 @@ def main() -> int:
     args = ap.parse_args()
 
     config = config_mod.load(ROOT / "_meta" / "corpus.yml")
+    fixes = corrections()
     changed, linked, total_refs, capped = [], 0, 0, []
 
     for path in content_files(config):
         body = path.read_text(encoding="utf-8")
-        refs = citations(body)
+        refs = citations(body, fixes.get(path.stem))
         if len(refs) > MAX_REFS:
             capped.append((path.name, len(refs)))
             refs = refs[:MAX_REFS]

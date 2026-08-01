@@ -34,7 +34,7 @@ relationships:
     - ORS 315.141
     - ORS 358.480
     - ORS 454.695
-    - ORS 46813.095
+    - ORS 468B.095
     - ORS 520.005
     - ORS 522.005
     - ORS 671.318

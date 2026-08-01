@@ -24,12 +24,12 @@ relationships:
   implements: []
   implemented_by: []
   references_external:
-    - ORS 27913.050
-    - ORS 27913.065
-    - ORS 27913.400
     - ORS 279A.025
+    - ORS 279B.050
     - ORS 279B.060
+    - ORS 279B.065
     - ORS 279B.075
+    - ORS 279B.400
     - ORS 279C.800
     - ORS 279C.850
   related: []
