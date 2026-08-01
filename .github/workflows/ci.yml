@@ -89,6 +89,12 @@ jobs:
       # a redline published as adopted law. See src/check_guardrails.py.
       - name: County guardrails
         run: python3 src/check_guardrails.py --verbose
+      # references_external is generated FROM each document's own Full text, so it goes
+      # stale the moment a document is re-ingested. Without this step the graph keeps
+      # asserting citations the text no longer makes — and it fails silently, because a
+      # stale edge resolves perfectly well to a real ORS section.
+      - name: Citation references must match the documents
+        run: python3 src/link_citations.py --check
       # Citation schemes are registered at IMPORT time, so nothing else in CI loads this
       # module — a syntax error or a bad pattern in it would ship green and only surface
       # when the MCP server failed to start.

@@ -66,8 +66,33 @@ def glance_of(body: str) -> str:
 
 
 def fulltext_of(body: str) -> str:
+    """The Full text section AS THE TOOLKIT SEES IT — deliberately the same regex."""
     m = re.search(r"^## Full text\s*$(.*?)(?=^## |\Z)", body, re.M | re.S)
     return m.group(1) if m else ""
+
+
+# Headings a document is allowed to carry after `## Full text`. Anything else starting `## `
+# at column zero is source text that escaped the ingester's guard.
+LEGIT_TRAILING = ("## Curator notes", "## Cross-references", "## Sources", "## Notes")
+
+
+def stray_headings(body: str) -> list[str]:
+    """Lines starting `## ` after the Full text marker that are not legitimate sections.
+
+    THIS CANNOT USE fulltext_of(), AND THAT IS THE WHOLE POINT. The failure being detected is
+    that a stray `## ` TERMINATES the Full text capture — so anything this check is looking
+    for has already fallen outside the section by the time the regex is done. Written against
+    fulltext_of() first, it passed on a document with an injected heading and reported the
+    corpus clean, which is precisely the silent-truncation bug it exists to catch, reproduced
+    inside its own detector.
+
+    Scanning raw from the marker to the end of the document is the only way to see it.
+    """
+    start = body.find("## Full text")
+    if start < 0:
+        return []
+    return [ln for ln in body[start:].splitlines()[1:]
+            if re.match(r"^## \S", ln) and not ln.startswith(LEGIT_TRAILING)]
 
 
 def check(verbose: bool = False) -> list[str]:
@@ -129,8 +154,7 @@ def check(verbose: bool = False) -> list[str]:
         # 0.70/0.90, so a stray '## ' late in a long document truncates the tail and still
         # scores above 90%, and the in-order line check passes because the surviving lines
         # are all still present and still in order.
-        ft = fulltext_of(body)
-        stray = [ln for ln in ft.splitlines() if re.match(r"^## \S", ln)]
+        stray = stray_headings(body)
         if stray:
             problems.append(
                 f"{rel}: {len(stray)} line(s) start with '## ' at column zero inside "
