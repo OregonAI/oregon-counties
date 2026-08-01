@@ -1,0 +1,1779 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-code-ttl-7-solid-waste
+title: 'Ttl 7: Solid Waste'
+doc_type: ordinance
+citation: 'Ttl 7: Solid Waste'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://ecode360.com/44304847
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: c6f85e3ed8d7141f237d6df797a706e931e3425d692419efd423e04565b0ec85
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 34.010
+    - ORS 459.005
+  related: []
+  supersedes: []
+tags: [clatsop-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ttl 7: Solid Waste (Ttl 7: Solid Waste)
+
+## At a glance
+
+Ttl 7: Solid Waste — code of Clatsop County. 31063 characters.
+
+## Full text
+
+Title 7: Solid Waste - Clatsop County, OR 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to content 
+ 
+ 
+ 
+ 
+ 
+ home 
+ Home 
+ 
+ 
+ 
+ 
+ code 
+ 
+ Code
+ 
+ 
+ 
+ 
+ 
+ 
+ Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ law 
+ Laws (0) 
+ 
+ 
+ 
+ 
+ 
+ New Laws (0) 
+ 
+ 
+ 
+ 
+ Law Ledger (0) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ help_center 
+ 
+ Help
+ 
+ 
+ 
+ 
+ 
+ 
+ Help 
+ 
+ 
+ 
+ 
+ About Us 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ ecode 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ search 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clatsop County, OR
+ 
+ chevron_right 
+ 
+ chevron_right 
+ Code of Ordinances 
+ chevron_right 
+ Title 7 Solid Waste 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Title 7
+ 
+ 
+Solid Waste 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 7.04
+ 
+ 
+SOLID WASTE CONTROL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.010
+ 
+ 
+Policy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.020
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.030
+ 
+ 
+Administration—Responsibility. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.040
+ 
+ 
+Administration—Authority. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.050
+ 
+ 
+Rules and regulations—Promulgation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.060
+ 
+ 
+Business recycling requirement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.070
+ 
+ 
+Franchise—Issuance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.080
+ 
+ 
+Exemptions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.090
+ 
+ 
+Compensation defined. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.100
+ 
+ 
+Franchise—Application form. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.110
+ 
+ 
+Franchise—Information required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.120
+ 
+ 
+Franchise—Requirements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.130
+ 
+ 
+Franchise—Application review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.140
+ 
+ 
+Franchise—Investigation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.150
+ 
+ 
+Franchise—Recommendation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.160
+ 
+ 
+Franchise—Final order. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.170
+ 
+ 
+Franchise—Term. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.180
+ 
+ 
+Franchise—Periodic review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.190
+ 
+ 
+Responsibility of franchise holder. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.200
+ 
+ 
+Franchise—Transfer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.210
+ 
+ 
+Franchise suspension, modification or revocation—Notice. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.220
+ 
+ 
+Franchise suspension, modification or revocation—Findings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.230
+ 
+ 
+Franchise suspension, modification or revocation—Compliance order. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.240
+ 
+ 
+Rates—Determination. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.250
+ 
+ 
+Rates—Consideration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.260
+ 
+ 
+Rates—Preferences prohibited. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.270
+ 
+ 
+Responsibility for payment of charges. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.280
+ 
+ 
+Recycling. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.290
+ 
+ 
+Franchise fees—Amount. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.300
+ 
+ 
+Franchise fees—Collection. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.310
+ 
+ 
+Franchise fees—Records maintenance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.320
+ 
+ 
+Franchise fees—Receipts misrepresentation unlawful. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.330
+ 
+ 
+Conformity with law. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.340
+ 
+ 
+Review of Board action. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 7.04
+ 
+ 
+SOLID WASTE CONTROL 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.010
+ 
+ 
+Policy. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ To protect the health, safety and welfare of the people of the County, the Board has determined the necessity of providing a coordinated Countywide program for the safe, economical and efficient collection, storage, transportation and disposal of wastes and solid wastes, and to ensure adequate standards of service for said collection, storage, transportation and disposal of wastes and solid wastes, and this chapter shall be liberally construed for the accomplishment of these purposes. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.020
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ In addition to the definitions provided in ORS 459.005 , and as used in this chapter, unless the context requires otherwise: "Collection vehicle" is any vehicle used to collect or transport waste or solid waste. "Franchise" means a sanitary service franchise issued by the Board. "Service area" means the unincorporated portion(s) of Clatsop County in which a hauler is permitted to operate. "Solid waste collection service" or "service" means service that provides for collection of solid waste or recyclables or both, as described in ORS 459 and 459A . ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.030
+ 
+ 
+Administration—Responsibility. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The County Manager under the authority of the Board shall be responsible for the administration and enforcement of this chapter. The County Manager may delegate any or all of the duties. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.040
+ 
+ 
+Administration—Authority. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The County Manager shall have authority to certify to all official acts, and require the attendance of witnesses at public hearings before the Board; produce relevant documents at public hearings; provide testimony, and enter or authorize personnel to enter upon the business premises of any person regulated by this chapter at reasonable times to determine compliance with this chapter and the rules and regulations promulgated by the Board. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.050
+ 
+ 
+Rules and regulations—Promulgation. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The Board shall promulgate reasonable rules and regulations pertaining to the administration of this chapter and for the collection, storage, transportation and disposal of waste and solid waste, including, but not limited to, the following: A.  Standards of service to be provided to the public; B.  Collection, storage, transportation and disposal of wastes and solid wastes to prevent: 1.  Vector production and sustenance, 2.  Conditions for transmission of diseases to people or animal, 3.  Air pollution by dust, fumes, gas, smoke, odors and particulate matter or any combination thereof, 4.  Fire hazards, 5.  Hazards to service or disposal workers or to the public; C.  Collection of waste and solid wastes to prevent vector nuisances and air and water pollution through frequency and regularity of collection and by proper design, construction, operation and maintenance of collection equipment; D.  Storage of wastes and solid wastes at the point of origin to eliminate conditions conductive to the creation of vector nuisances and air and water pollution through proper container construction and design and through waste and solid waste handling practices, including, but not limited to, container maintenance, as defined in the County's Solid Waste and Recycling Program Administrative Rules; E.  Construction, loading and operation of collection vehicles used in performing service that is consistent with industry standards and for the purposes of preventing the contents thereof from dropping, sifting, leaking or escaping onto public roads and highways; F.  Disposition at disposal sites, to the extent that no other regulatory or governmental body has jurisdiction over such matters and provided that they do not conflict with any other rules or regulations. The Board delegates to the County Manager the authority to modify, update or change these administrative rules as needed. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.060
+ 
+ 
+Business recycling requirement. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ All businesses within the County shall comply with waste prevention, recycling and composting requirements as set forth in the County's Solid Waste and Recycling Program Administrative Rules. For the purpose of this section, the term "business" shall mean any commercial or nonprofit entity, such as a store, office, manufacturing and industry facility, restaurant, warehouse, school, college, university, government, hospital and other similar entities doing business within the unincorporated county, but excludes businesses permitted in residences. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.070
+ 
+ 
+Franchise—Issuance. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Except as otherwise provided in this chapter, it is unlawful for any person to collect, store, transport or dispose of any waste or solid waste, or to offer or advertise to provide services to collect, store, transport or dispose of any waste or solid waste, in the unincorporated areas of the County for compensation unless first obtaining a franchise issued by the Board; or after issuance of a franchise, for the applicable franchisee to collect, store, transport or dispose of waste or solid waste in a service area not covered by the applicable franchise, except as otherwise provided by this chapter. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.080
+ 
+ 
+Exemptions. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Franchises shall not be required of: A.  Cities that collect, store, transport or dispose of waste or solid waste. B.  Federal or State agencies that collect, store, transport or dispose of waste or solid wastes or those who contract with such agencies to perform the service, but only insofar as the service is performed by or for the Federal or State agency. C.  Other persons, practices, processes, businesses or wastes exempted by a written resolution of the Board after receipt of a recommendation of the County Manager on the basis of findings made after public hearing that the same is not necessary to the implementation of the County or a regional solid waste management plan. D.  Persons transporting waste or solid waste collected outside the unincorporated areas of the County. E.  Any nonprofit or charitable individual or organization engaged in collection of recyclable materials for profit from customers within an urban growth boundary. The County Manager may require proof of nonprofit or charitable status in determining whether this exemption applies. F.  Persons collecting and transporting sewage sludge, septic tank and cesspool pumping or other sludge. G.  Persons collecting and transporting discarded or abandoned vehicles or parts thereof. H.  Persons collecting or transporting dead animals. I.  Persons collecting, storing, transporting, or disposing of waste or solid waste resulting from a disaster event pursuant to a contract with federal, state or local agencies issued during a state of emergency declared pursuant to Clatsop County Code, Section 1.04.070 . ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.090
+ 
+ 
+Compensation defined. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ As used in Sections 7.04.070 , "compensation" includes the flow of consideration from the person owning or possessing the waste or solid waste to the person collecting, storing, transporting or disposing of the same or the flow of consideration from the person collecting, storing, transporting or disposing of waste or solid waste to the person owning or possessing the same. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.100
+ 
+ 
+Franchise—Application form. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Applications for franchises shall be on forms provided by the County Manager. The applications shall be filed with the County to determine whether the applicant meets the requirements specified in Section 7.04.120 . ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.110
+ 
+ 
+Franchise—Information required. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Applicants for franchises shall state: A.  The types of service to be provided within a specified service area; B.  The rates to be charged for this service; C.  When the applicant already provides service to all or part of the area, a sworn and verified statement of all customers served within the area and a map showing service routes and boundaries. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.120
+ 
+ 
+Franchise—Requirements. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ A.  The applicant must show to the satisfaction of the Board the following: 1.  Has available equipment, facilities and personnel sufficient to meet the standards of equipment and service established by this chapter and ORS Chapter 459 , and regulations promulgated thereunder; 2.  Is registered with the State of Oregon Corporation Division Business Registry; and 3.  Has comprehensive general liability insurance, including, but not limited to, auto liability and workers compensation insurance, in the amounts of, and as established in the Solid Waste and Recycling Administrative Rules. B.  In addition to the foregoing requirements, the applicant must: 1.  Submit with an application for a franchise a sworn and verified statement of all disposal sites used, operated or otherwise patronized by the applicant, and a sworn declaration that applicant will dispose of all solid wastes at disposal sites approved by the Board and the Board shall approve all reasonably requested changes to the list of approved disposal sites that may be needed throughout the term of any franchise; 2.  Submit with an application a corporate surety bond, in an amount established by the Board that is consistent with industry standards, guaranteeing full and faithful performance by the applicant of the duties and obligations of a franchise holder under the provisions of this chapter; and 3.  Defend and indemnify the County, its officers, commissioners, employees and agents and hold them harmless for any claim in any venue, including appeals, resulting from the actions or inactions of the franchise holder regulated by this chapter; provided, however, that such obligation shall not apply to the extent such claim results from actions of the County. C.  An applicant for a franchise who is not already serving the area defined in said franchise must show to the satisfaction of the Board that he meets all of the requirements of Sections 7.04.100 through 7.04.120 , and that: 1.  The defined service area has not been certified to another; or 2.  The defined service area is not presently being served by the holder of a franchise; or 3.  The defined service area is not being adequately served, as determined by the Board after a public hearing and comment, by the holder of a franchise, and there is a substantial demand from customers within the area for a change of service to the area. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.130
+ 
+ 
+Franchise—Application review. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Applications for franchises shall be reviewed by the County Manager which shall make such investigation as it deems necessary and appropriate. Written notice shall be given by the County to any person who holds a franchise which includes any part of the area contained in the application of another. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.140
+ 
+ 
+Franchise—Investigation. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Upon the basis of the application, evidence submitted and results of any investigation by the County Manager, the County shall make a finding on the qualifications of the applicant under Section 7.04.120 , and whether additional areas should be included or additional service and equipment be provided. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.150
+ 
+ 
+Franchise—Recommendation. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ On the basis of its findings, the County Manager shall recommend to the Board whether or not the application should be granted, denied, or modified, and the Board shall issue an order granting, denying or amending the application. If the order of the Board is adverse to either the applicant or the holder of a franchise, it shall not become effective until 30 days after the date of said order. The franchise holder or applicant may request a public hearing before the Board upon the Board's order by filing a written request for hearing with the Board within 30 days after the date of said order. Upon the filing of said request of hearing, the Board shall set a time and place for a public hearing upon its order, which hearing shall be not more than 30 days from the date of filing of said request for hearing. The franchise holder or applicant may submit evidence to the Board relevant to the Board's order. The Board may, following the hearing, affirm or amend its prior order. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.160
+ 
+ 
+Franchise—Final order. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Subject to the provisions of Section 7.04.340 , the determination of the Board after conclusion of said public hearing shall be final. If the Board makes a final order rejecting all or part of an application for a franchise, the applicant may not submit another application for the same or a portion of the same service area for a period of six months unless the Board finds that the public interest requires reconsideration within a shorter period of time. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.170
+ 
+ 
+Franchise—Term. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The franchises shall be for an initial term of five years. On each yearly anniversary of the effective date of the franchise, the franchise term shall be automatically extended for one additional year, unless either the County or the franchise holder provides written notice of its intent not to extend, at least 30 days prior to such yearly anniversary. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.180
+ 
+ 
+Franchise—Periodic review. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ A.  Periodic Review Schedule. 1.  The County Manager shall conduct the initial periodic review of all franchises in each group commencing on the dates set forth below, and shall conduct similar periodic reviews of all such franchises commencing March 15th on a schedule deemed appropriate by the County Manager. 2.  The periodic reviews shall be completed not later than December 31st of the year in which the review is commenced. B.  Purpose of Periodic Review. Periodic review shall be conducted for the purpose of determining whether the franchises and the holders of such franchises are in compliance with the provisions of this chapter and all applicable rules, regulations and laws. Each franchise holder shall demonstrate compliance with all such requirements. C.  Information Submittals. The County Manager shall prepare a summary of information required to be submitted by each franchise holder, and may specify the forms for such submittals to assure that information necessary to determine compliance is available to the County Manager. D.  Effect of Noncompliance. If in the course of its review of franchises, the County Manager determine that the franchise or franchise holder being reviewed is not in compliance with the provisions of this chapter or applicable rules, regulations and laws then the County Manager shall advise the franchise holder in writing of such violation in the manner set, forth in Section 7.04.210 and direct that the compliance be achieved within a date certain determined by the County Manager. If the franchise holder fails to achieve compliance within the date specified, the County Manager shall report to the Board with a recommendation on whether the franchise should be suspended, modified or revoked. E.  Suspension, Modification and Revocation. The County Manager and board may initiate proceedings for suspension, modification or revocation under Sections 7.04.210 through 7.04.230 , inclusive, at any time, whether or not a periodic review is being conducted. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.190
+ 
+ 
+Responsibility of franchise holder. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ A.  The holder of a franchise: 1.  Shall provide required service and facilities consistent with the standards established by the County in the Solid Waste and Recycling Administrative Rules; 2.  Shall not discontinue service to the service area or any substantial portion thereof without giving not less than 90 days' written notice of the proposed discontinuance of service to the County and to customers and receiving the approval of the County prior to discontinuing said service; 3.  May contract with another person to provide service within the service area after giving 30 days' written notice to and obtaining the approval of the County. The County shall approve the contract unless it finds that the quality or extent of service would be jeopardized; 4.  May refuse collection service to any customer as provided for within the County's Solid Waste and Recycling Administrative Rules, or for other reasons as may be established by the Board; provided, however, in no event shall the holder of any franchise terminate said service without first notifying the customer in writing of the holder's intention to terminate service not less than seven calendar days prior to the date of termination of service. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.200
+ 
+ 
+Franchise—Transfer. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ A franchise holder may transfer a franchise or a portion of the service area only after written notice to and approval by the Board. A.  The Board shall approve the transfer if it finds that the transferee meets all applicable requirements of this chapter. B.  The Board shall approve or disapprove any application for transfer of franchise within 60 days after receipt of notice by the Board unless the Board finds that there is a substantial question of public health or safety involved and requires additional time for investigation and decision. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.210
+ 
+ 
+Franchise suspension, modification or revocation—Notice. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The County shall, upon reasonable cause, make investigations to determine if there is sufficient reason and cause to suspend, modify or revoke a franchise as provided in Section 7.04.220 . If, in the opinion of the County, there is sufficient evidence to constitute a violation of this chapter or ORS Chapter 459 or the rules and regulations promulgated thereunder, the County shall notify the holder of the franchise in writing of the alleged violation and what steps must be taken to cure the violation. If the holder of the franchise is unable to or refuses to cure the violation and follow the requirements of the County set forth in said notice, the County may recommend to the Board that the service franchise be suspended, modified or revoked. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.220
+ 
+ 
+Franchise suspension, modification or revocation—Findings. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The Board may suspend, modify or revoke a franchise upon finding that the holder thereof has: A.  Willfully violated this chapter or ORS Chapter 459 or the rules and regulations promulgated thereunder; or B.  Materially misrepresented statements in the application for a franchise; or C.  Willfully refused to provide adequate service in the defined service area after written notification and a reasonable opportunity to do so. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.230
+ 
+ 
+Franchise suspension, modification or revocation—Compliance order. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ In lieu of immediate suspension, modification, or revocation of a franchise, the Board may order compliance and make suspension, modification or revocation contingent upon compliance with the order within a time stated in said order. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.240
+ 
+ 
+Rates—Determination. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The Board shall approve and establish existing rates filed by all applicants under Sections 7.04.100 and 7.04.110 who meet the requirements of Section 7.04.120 , unless it finds that such rates are demonstrably unreasonable and are substantially higher than those charged generally in the County under similar service requirements and for the same or similar quality of service. In determining whether such rates are unreasonable under this section and Section 7.04.250 , the Board shall consider the length of haul, type of waste or solid waste collected, stored, or transported, the number, type and location of customers served, or such other factors as may, in the opinion of the Board, justifiably affect the rates charged. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.250
+ 
+ 
+Rates—Consideration. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Increases or decreases in the rates approved under Section 7.04.240 shall not be made by the Board unless the Board finds that the increase or decrease is based upon an increase or decrease in the cost of doing business or an increased cost of additional, better or more comprehensive service. In determination of a proposed rate change, the Board shall give due consideration to: A.  The investment in facilities and equipment, the services of management, local wage scales, the concentration of customers in the area served, methods of collection and transportation, the length of haul to disposal facilities, and the cost of disposal, reasonable return of the owners of the business and the future service demands of the area which must be anticipated in equipment facilities and personnel; B.  The Board may require an investigation of any proposed rate increase or decrease. For purposes of making its investigation, the County Manager is authorized to hold public hearings and to take and receive testimony relevant to the considerations to be made by the board in allowing or denying rate increases or decreases under this chapter. Upon completion of its investigation, the County Manager shall make report of the hearing and recommendation to the board regarding the proposed rate increases or decreases; C.  In considering rate increases or decreases, the Board must find that the rates will be just, fair, and provide a reasonable and sufficient rate of return for the franchise holder to provide proper service to the public. The Board may consider the rates charged by other persons performing the same or similar service in the same or other areas. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.260
+ 
+ 
+Rates—Preferences prohibited. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ A.  No franchise holder subject to rate regulation under this chapter shall give any rate preference to any person, locality or type of waste or solid waste, collected, stored, transported or disposed. B.  Nothing in this section is intended to prevent: 1.  The reasonable establishment of uniform classes of rates based upon length of haul, type of waste or solid waste collected, stored, transported or disposed of or the number, type and location of customers served, or upon other factors so long as such rates are reasonably based upon costs of the particular service and are approved by the Board in the same manner as other rates; 2.  Any person from volunteering service at reduced costs for a charitable, community, civic or benevolent purpose. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.270
+ 
+ 
+Responsibility for payment of charges. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The provisions of solid waste collection service to residential tenants is declared to be a benefit and service to the owners of such property, as well as the tenants. Any person who receives service shall be responsible for payment for such service. The landlord of any premises shall be responsible for payment for service provided to that premises if the tenant fails to pay for the service. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.280
+ 
+ 
+Recycling. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ A.  All holders of franchises shall offer to provide either on-route collection or a drop-off depot for source separated recyclable material from all customers consistent with the service standards established within the County's Solid Waste and Recycling Administrative Rules. This service shall include, but not be limited to, each of the materials required to be collected by Oregon Administrative Rules, together with any other materials which may be designated by the Department of Environmental Quality and as agreed on between the applicant and County to cover materials that provide for a maximum diversion from landfill and are recyclable based on available end-markets. B.  Each holder of a franchise shall provide notices to its customers that comply with all applicable requirements of the County's Solid Waste and Recycling Administrative Rules as well as all applicable Oregon Administrative Rules. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.290
+ 
+ 
+Franchise fees—Amount. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The Board shall collect, in the manner and at times hereinafter provided, from the holder of any franchise, an annual fee equal to 5% of the gross receipts from the area defined in said franchise. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.300
+ 
+ 
+Franchise fees—Collection. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ The annual fee shall be computed and collected at least on a quarterly basis, the quarterly periods to consist of the periods ending March 31st, June 30th, September 30th and December 31st. The fee shall be paid by the franchise holder not later than the last day of the month immediately following the end of the quarter. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.310
+ 
+ 
+Franchise fees—Records maintenance. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Every franchise holder shall maintain complete and accurate records as defined within the County's Solid Waste and Recycling Administrative Rules disclosing the gross receipts for services rendered for compensation pursuant to this chapter. All applicable books and records shall be open at reasonable times and places for review by authorized personnel of the County. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.320
+ 
+ 
+Franchise fees—Receipts misrepresentation unlawful. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Misrepresentation of gross receipts by an applicant or franchise holder as disclosed by review, shall constitute cause for denial or revocation of franchise, pursuant to Sections 7.04.210 through 7.04.230 . ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.330
+ 
+ 
+Conformity with law. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ This chapter, all amendments made thereto, and all rules and regulations adopted by the Board pursuant thereto shall be in no way a substitute for, nor in any way eliminate the necessity of conforming with all valid Federal and State statutes or laws or any rules or regulations adopted pursuant thereto, nor any ordinance enacted by the County or rule or regulation adopted pursuant to such ordinance. The provisions of this shall be construed to be an addition to the requirements imposed by all such statutes, laws, ordinances, rules or regulations. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 7.04.340
+ 
+ 
+Review of Board action. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ All decisions of the Board under this chapter shall be reviewable by the Circuit Court of the State of Oregon for the County under the provisions of ORS 34.010  —  34.100 which shall be the sole and exclusive remedy for reviewing any and all actions of the Board under this chapter. ( Ord. No. 24-04 , 1/24/2024 ) 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By using eCode360 you agree to be legally bound by the Terms of Use and Privacy Policy .

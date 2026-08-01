@@ -1,0 +1,241 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lincoln-county
+id: lincoln-land-use-traffic-analysis-methodology-pdf
+title: 'Traffic-Analysis-Methodology-PDF'
+doc_type: ordinance
+citation: 'Traffic-Analysis-Methodology-PDF'
+authority_level: county_ordinance
+issuing_body: 'Lincoln County Board of Commissioners'
+source_url: https://www.co.lincoln.or.us/DocumentCenter/View/1137/Traffic-Analysis-Methodology-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 08a59e216314c79ff9126da2416a5700fc9cf812e96841227818e31fc16eca03
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lincoln-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lincoln County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Traffic-Analysis-Methodology-PDF (Traffic-Analysis-Methodology-PDF)
+
+## At a glance
+
+Traffic-Analysis-Methodology-PDF — land use of Lincoln County. 5 pages.
+
+## Full text
+
+TECHNICAL  MEMORANDUM
+
+Lincoln County Transportation System Plan –
+Traffic Analysis Methodology
+PREPARED FOR: John deTar / ODOT Region 2 Planning
+Matt Spangler / Lincoln County Planning and Development Department
+Jim Buisman / Lincoln County Public Works Department
+PREPARED BY: Tim Newkirk / CH2M HILL
+CC: Larry Weymouth / CH2M HILL
+DATE: November 7, 2005
+
+This technical memorandum outlines the process for estimating the existing 30th highest
+hour traffic volumes, forecasting future traffic volumes, identifying background roadway
+projects and software assumptions for performing the traffic analysis for the Lincoln County
+Transportation System Plan.
+30th Highest Hour Traffic Volume Methodology
+There are 28 intersections that will be analyzed in this study.  Refer to Figure 4 from the
+Existing Conditions and Deficiencies for the Lincoln County Transportation System Plan memo for
+a map of the intersection locations. The intersections are listed in Table 1.
+TABLE 1
+Study Intersections
+No. Intersection Name Count Date
+1 OR 18 and Bear Creek Road August 6, 2005
+2 OR 18 and Slick Rock Road August 6, 2005
+3 US 101 and Immonen Road August 6, 2005
+4 OR 229 and Pikes Camp Road August 6, 2005
+5 OR 18 and North Bank Road  August 6, 2005
+6 OR 18 and Old Scenic Hwy 101    August 6, 2005
+7 US 101 and Gleneden Beach Road August 6, 2005
+8 US 101 and Lancer Street August 6, 2005
+9 Otter Crest Lookout and Otter Crest Loop August 13, 2005
+10 US 101 and Otter Crest Loop North August 13, 2005
+11 Otter Crest Loop and 1st Street August 13, 2005
+12 US 101 and Otter Crest Loop South August 13, 2005
+13 US 101 and North Beaver Creek Road  August 13, 2005
+14 US 101 and Wakonda Beach Road  August 13, 2005
+LINCOLN CO_METHODOLOGY MEMO_9-5-07.DOC 1
+TABLE 1
+Study Intersections
+No. Intersection Name Count Date
+15 US 101 and Yachats River Road August 13, 2005
+16 US 101 and Lori Lane August 13, 2005
+17 US 20 and Ollala Lake Road    August 13, 2005
+18 US 20 and Business 20 (east)  August 13, 2005
+19 US 20 and OR 229 August 13, 2005
+20 US 20 and Business 20 (west) August 13, 2005
+21 Business 20 (west) and Business 20 August 13, 2005
+22 OR 229 and Logsden Road  August 13, 2005
+23 US 101 and Salishan Drive Previous Study
+24 US 101 and Drift Creek Road Previous Study
+25 US 101 and Bay View Road Previous Study
+26 US 20 at Western Loop Previous Study
+27 US 101 and Siletz Highway Previous Study
+28 US 101 and Willow Drive Previous Study
+
+Turning movement counts for intersections 1 through 22, from Table 1, were taken on the
+6th or 13th (Saturdays) of August 2005, between 3 PM and 5 PM.  This reflected the month,
+day of the week, and time of day when the actual 30th highest hour traffic volume was
+recorded at three Lincoln County ATR sites on US 101 during the 2004 calendar year.  After
+consulting with ODOT’s Transportation Planning and Analysis Unit, it was determined that
+no seasonal adjustment would be needed for these traffic counts.  This was decided based
+on the following findings.
+The study intersections can be split into two categories for seasonal adjustment.
+1. The first category is study intersections with ATR stations on-site.  The available
+ATRs in Lincoln County (on US 101 and US 20) had August as the peak month of
+travel.  Because the count month and peak month are the same, the interpolation
+between the 6th and 13th to the 15th of the month would be the only adjustment
+factor applied.  This adjustment would be less than 1.01.
+2. The second category is study intersections without ATR stations on-site.  Using the
+2004 ATR characteristic table, representative ATR stations were found that also had
+August as the peak travel month.  Because the count month and peak month are the
+same, the interpolation between the 6th and 13th to the 15th of the month would be
+the only adjustment factor applied.  Again, this adjustment would be less than 1.01.
+The ATR station data indicates the peak travel month and count month are the same.
+Therefore, the original count data can be used without making any adjustments and
+LINCOLN CO_METHODOLOGY MEMO_9-5-07.DOC 2
+the difference will be less than 1 percent.  Also, rounding and balancing of turning
+movement counts would likely remove the small interpolation adjustment anyway.
+Turning movement counts for intersections 23 through 28, from Table 1, were collected and
+adjusted to the 30th Highest Hour as a part of the US 101 Existing Conditions Report.
+State Highway Mobility Standards
+State Highway Mobility Standards were developed for the 1999 Oregon Highway Plan
+(OHP) as a method to gauge reasonable and consistent standards for traffic flow along state
+highways.  These mobility standards consider the classification (e.g., freeway, district) and
+location (rural, urban) of each state highway.  Mobility standards are based on V/C ratios.
+County facilities do not fall under the same mobility standards as State facilities unless they
+are adopted as part of the TSP.
+Based on the functional designation of the state highways and local roadways evaluated
+with this study, three state mobility standards apply.  These are listed in Table 2 below.
+TABLE 2
+Mobility Standards Applicable to Operational Analysis
+Highway Highway Category Land Use Speed Limit
+Applicable V/C
+Ratio
+Inside Urban Growth Boundary
+ Statewide (NHS) Freight Routes Non-MPO ≤35 mph 0.80
+ Statewide (NHS) Non-Freight Routes
+and Regional or District Expressways Non-MPO ≤35 mph 0.85
+ Local Road, Arterial-Collector Non-MPO ≤35 mph 0.90
+Outside Urban Growth Boundary
+ Statewide (NHS) Freight Routes Rural Lands N/A 0.70
+ Statewide (NHS) Non-Freight Routes
+and Regional or District Expressways
+Rural Lands N/A 0.70
+ Local Road, Arterial-Collector Rural Lands N/A 0.75
+Source: Adopted Oregon Highway Plan Amendments, August 17, 2005.
+State mobility standards only apply to state highways; however the county does not have
+adopted standards for intersection performance.  For this evaluation, the state standard of a
+“District/Local Interest Road” with a speed < 45 mph is used – the applicable V/C ratio for
+this type of facility is 0.75.
+Although this project is not analyzing the future build conditions, before being
+implemented, alternatives would have to comply with the Highway Design Manual
+standards along ODOT facilities.
+Traffic Forecast Methodology
+The balanced 2005 30th Highest Hour volumes will be adjusted to future year 2025, using
+ODOT future volume tables published online, and balanced again.
+
+Baseline Projects
+LINCOLN CO_METHODOLOGY MEMO_9-5-07.DOC 3
+Through discussions with ODOT modeling staff, no future road projects are included within
+the ODOT transportation demand model1.  This does not signify that there are no
+expectations of constructing future transportation projects within the study area, but that
+there are no projects currently identified and funded that would influence the traffic
+forecasts in the area.
+A review of the Final 2006 - 2009 Statewide Transportation Improvement Program list of
+projects identified no projects that would influence the traffic forecasts or future traffic
+operations.  This does not signify that there are no expectations of constructing future
+transportation projects.
+Traffic Analysis Software and Input Assumptions
+Synchro software will be used for the intersection analysis.  The reported results will be the
+V/C ratios from the HCM report. Assumptions are listed in Table 3.
+TABLE 3
+Synchro Operations Parameters/Assumptions
+ Condition
+Arterial Intersection Parameters Existing (2005) Future Year (2025) No-Build
+Peak Hour Factor  From traffic count. 0.85 for local and collector street
+approaches;
+0.90 for minor arterial approaches;
+0.95 for major arterial approaches,
+unless better information is
+available, such as for a school or
+industrial use.
+Conflicting Bikes and Pedestrian per Hour  From traffic count, if not provided,
+assume 10 peds/bikes per
+approach.
+Same as Existing.
+Area Type  “Other” Same as Existing.
+Ideal Saturation Flow Rate (for all
+movements)
+1,800 passenger cars per hour
+green per lane
+Same as Existing.
+Lane Width  From As-builts, field visit or ODOT
+website, otherwise 12 feet.
+Same as Existing.
+Percent Heavy Vehicles  From traffic count, otherwise 5%. Same as Existing.
+Percent Grade  From As-builts, otherwise 0%. Same as Existing.
+Parking Maneuvers per Hour  From field visit, otherwise assume
+0.
+Same as Existing.
+Bus Blockages  From field visit, otherwise assume
+0.
+Same as Existing.
+Intersection signal phasing and coordination Current timing plan.  Optimize
+Intersection signal timing optimization limits Current timing plan. 60 seconds for a two-staged
+signal;
+90 seconds for a three-staged
+signal;
+120 seconds for a four- or more
+staged signal.
+Minimum Green time Current timing plan.   Same as Existing.
+Yellow and all-red time From timing plan, otherwise (Y) = 4 Same as Existing.
+
+1 Ibid.
+LINCOLN CO_METHODOLOGY MEMO_9-5-07.DOC 4
+TABLE 3
+Synchro Operations Parameters/Assumptions
+ Condition
+Arterial Intersection Parameters Existing (2005) Future Year (2025) No-Build
+seconds and (R) = 0 seconds.
+Right Turn on Red  Allow except where signed to not. Same as Existing.
+95th percentile vehicle queues calculated
+based on an average of 25 feet per vehicle
+and:
+For V/C < 0.70, use Synchro reports and/or
+the 2-minute rule;
+For V/C > 0.70, use SimTraffic report (the
+average of at least 5 runs of 1 hour length
+with 15-min peak divided out)2.
+No Same as Existing.
+Level of service goals  Highway V/C threshold from the
+Oregon Highway Plan (OHP).
+Highway No-Build V/C threshold
+from the Oregon Highway Plan
+(OHP).
+
+2 The simulation will be for one hour with the peak 15-minutes in the first 15 minutes.  The results from this simulation will be
+applied to signalized intersections.
+LINCOLN CO_METHODOLOGY MEMO_9-5-07.DOC 5

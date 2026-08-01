@@ -1,0 +1,149 @@
+group: crook
+title: Crook County sources
+county: crook-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: 'Same as Clatsop: ecode360.com serves the honest agent HTTP 200 and states no AI-agent directive.
+    The survey''s 403 was a thin-request artefact.'
+  hosts:
+  - host: ecode360.com
+    robots_url: https://ecode360.com/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: General Code storefront; 200 to the honest agent.
+  - host: crookcountyor.gov
+    robots_url: https://crookcountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: County site; handbook and comprehensive plan. Its own County Code page still links the DEAD
+      pre-migration vendor URL — not followed.
+last_checked: '2026-07-31'
+upstream_signal: No feed; re-hash each Title. New Titles appear as new TOC nodes.
+sources:
+- id: crook-code-ttl-1-general-provisions
+  url: https://ecode360.com/49959934
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 1: General Provisions'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-2-administration-and-personnel
+  url: https://ecode360.com/49960235
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 2: Administration and Personnel'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-3-revenue-and-finance
+  url: https://ecode360.com/49960411
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 3: Revenue and Finance'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-5-business-taxes-licenses-and-regulations
+  url: https://ecode360.com/49960808
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 5: Business Taxes, Licenses and Regulations'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-6-animal-control
+  url: https://ecode360.com/49961353
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 6: Animal Control'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-8-health-and-safety
+  url: https://ecode360.com/49961597
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 8: Health and Safety'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-9-public-peace-morals-and-welfare
+  url: https://ecode360.com/49962403
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 9: Public Peace, Morals and Welfare'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-10-vehicles-and-traffic
+  url: https://ecode360.com/49962518
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 10: Vehicles and Traffic'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-12-streets-sidewalks-and-public-places
+  url: https://ecode360.com/49962652
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 12: Streets, Sidewalks and Public Places'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-13-public-services
+  url: https://ecode360.com/49962883
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 13: Public Services'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-15-buildings-and-construction
+  url: https://ecode360.com/49963012
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 15: Buildings and Construction'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-16-environment
+  url: https://ecode360.com/49963163
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 16: Environment'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-17-subdivisions
+  url: https://ecode360.com/49963265
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 17: Subdivisions'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-18-zoning
+  url: https://ecode360.com/49964069
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 18: Zoning'
+  last_checked: '2026-07-31'
+- id: crook-code-ttl-ol-ordinance-list-and-disposition-table
+  url: https://ecode360.com/49959932
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl OL: Ordinance List and Disposition Table'
+  last_checked: '2026-07-31'
+- id: crook-policies-employee-handbook-110222-clean-copy
+  url: https://crookcountyor.gov/DocumentCenter/View/946/Employee-Handbook-110222-Clean-Copy
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Employee-Handbook-110222-Clean-Copy
+  last_checked: '2026-07-31'
+- id: crook-land-use-crook-county-comprehensive-plan
+  url: https://crookcountyor.gov/DocumentCenter/View/632/Crook-County-Comprehensive-Plan
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Crook-County-Comprehensive-Plan
+  last_checked: '2026-07-31'
+- id: crook-land-use-crook-county-comprehensive-plan-maps
+  url: https://crookcountyor.gov/DocumentCenter/View/631/Crook-County-Comprehensive-Plan-Maps
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Crook-County-Comprehensive-Plan-Maps
+  last_checked: '2026-07-31'

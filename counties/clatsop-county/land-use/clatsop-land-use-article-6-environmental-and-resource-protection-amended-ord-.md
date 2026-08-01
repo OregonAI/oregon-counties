@@ -1,0 +1,2072 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-land-use-article-6-environmental-and-resource-protection-amended-ord-
+title: 'ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16'
+doc_type: ordinance
+citation: 'ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://clatsopcounty.gov/DocumentCenter/View/3941/ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 167f1155cb17244a104e7497824e1c87d4327307c2b47023664475c74336f6ff
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 271.300
+    - OAR 141-085-0689
+    - OAR 141-085-0710
+  related: []
+  supersedes: []
+tags: [clatsop-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16 (ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16)
+
+## At a glance
+
+ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16 — land use of Clatsop County. 43 pages.
+
+## Full text
+
+Clatsop County Land and Water VI-1 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+ARTICLE 6.
+ENVIRONMENTAL AND RESOURCE PROTECTION
+
+SECTION 6.1000. SPECIAL SITE DEVELOPMENT FOR ENVIRONMENTAL
+PROTECTION [ORD. 25-08]
+Special requirements for environmental protection are specified in Article 4 of this
+document. In addition, in all areas of the County, sewer systems shall only be allowed in
+those areas outside an Urban Growth Boundary if compliant with Goal 11 and OAR
+660-011.
+
+SECTION 6.1050. ESTUARY BOUNDARIES [ORD. 25-08]
+Columbia River Estuary Shoreland and Aquatic Areas: Aquatic areas are below
+Mean Higher High Water, in the Columbia River upstream to the eastern boundary of
+Clatsop County, and in all tributary streams to the head of tide. Shorelands are all
+Coastal Shorelands adjacent to the Columbia River Estuary Aquatic Areas.
+
+Necanicum Estuary and Ecola Shoreland and Aquatic Areas: Aquatic areas are
+below Mean Higher High Water in the Necanicum River, Ecola Creek, and their
+respective tributary streams to the head of tide. Shorelands are all Coastal Shorelands
+adjacent to the Necanicum and Ecola Estuary Aquatic Areas.
+
+SECTION 6.2000. ALL ESTUARIES IMPACT ASSESSMENT AND RESOURCE
+CAPABILITY DETERMINATION [ORD. 25-08]
+Section 6.2010. Purpose
+The purpose of this section is to provide an assessment process for development
+alterations which could potentially alter the integrity of the estuarine ecosystem.
+
+Section 6.2011. Impact Assessment [ORD. 25-08]
+The impact assessment procedure is intended to be a comprehensive inventory and
+analysis of the impacts expected from a particular development proposal. The impact
+assessment will provide the information necessary to judge the capability of the
+resource to accommodate the identified impacts without altering the integrity of the
+resource.
+
+Section 6.2012. Applicability [ORD. 25-08]
+An Impact Assessment in accordance with the provisions of this section shall be
+required for the following uses and activities:
+(A) Dredging
+(B) Aquatic area fill
+(C) In-water structures
+(D) Riprap
+(E) Application of pesticides and herbicides
+(F) Water intake or withdrawal
+
+Clatsop County Land and Water VI-2 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+(G) Effluent discharges
+(H) In-water dredged material disposal
+(I) Expanded flowlane/thalweg disposal, for which a Goal 16 exception has been
+approved
+(J) Beach nourishment
+(K) Other non-residential uses or activities which may impact estuarine physical or
+biological resources identified in the Comprehensive Plan.
+(L) Any non-residential use or activity that requires a Resource Capability
+Determination
+
+Section 6.2013. Use of Impact Assessment [ORD. 25-08]
+The Impact Assessment shall be used to:
+(A) identify impacts to estuarine physical, biological, and social resource,
+(B) determine how impacts will be avoided, minimized, and mitigated, and
+(C) provide a factual base of information that will ensure that use and activity
+standards and resource capability standards are met
+
+Section 6.2014. Permissible Sources of Information to Prepare an Impact
+Assessment [ORD. 25-08]
+1) Information used in the Impact Assessment may include available data and
+analysis contained in:
+(A) Comprehensive Plan Inventories
+(B) environmental impact statements prepared for projects in the vicinity of the
+present development proposal; or
+(C) other published environmental and estuarine studies pertaining to the
+estuaries.
+2) Information to be included in an Impact Analysis: The Impact Assessment shall
+analyze the following, if applicable to the site and project:
+(A) Identify the aquatic zoning designations in which the use or activity will
+occur, and if applicable, adjacent zones where impacts to estuarine and
+coastal shoreland resources will occur.
+(B) Identify the purposes of each zone.
+(C) Aquatic and Shoreland life forms and habitat, including impacts to:
+i. habitat type and use (e.g. rearing, spawning, feeding/resting area,
+migration routes, flyways)
+ii. species present,
+iii. seasonal abundance,
+iv. sediment type and characteristics,
+v. vegetation
+(D) Water quality, including:
+i. increases in sedimentation and turbidity,
+ii. decreases in dissolved oxygen concentration,
+iii. changes in biological and chemical oxygen demand,
+iv. contaminated sediments,
+
+Clatsop County Land and Water VI-3 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+v. alteration of salinity regime,
+vi. disruption of naturally occurring water temperatures,
+vii. changes due to reduction, diversion or impoundment of water
+(E) Hydraulic characteristics, including:
+i. changes in water circulation patterns,
+ii. shoaling patterns,
+iii. potential of erosion or accretion in adjacent areas,
+iv. changes in the floodplain,
+v. decreases in flushing capacity or decreases in rate of water flow
+from reduction or diversion or impoundment of water sources
+(F) Air quality, including:
+i. quantities of emissions of particulates,
+ii. expected inorganic and organic airborne pollutants
+(G) The impact of the proposed project on navigation and public access to
+shoreline and aquatic areas.
+(H) Demonstration of need (i.e., a substantial public benefit and demonstration
+that the alteration will not interfere with public trust rights
+(I) Demonstration that non-water dependent uses will not preempt existing or
+future water-dependent uses in the area.
+(J) Forecasted climate change impacts on the resources described in this
+section.
+(K) A description of how the project’s impacts on the resources will interact
+with forecasted climate change impacts.
+(L) A description of whether or how the project will enhance or limit
+opportunities for the resources to migrate or adapt to forecasted climate
+change impacts.
+(M) Cumulative impact of the proposed development, on estuarine resources
+identified in the impact assessment.
+(N) Methods to minimize or eliminate preventable adverse impacts of the
+proposed alteration, based on items (A) through (L) above. Determination
+of need for mitigation and any mitigation proposed.
+(O) Impact Assessment Findings. Resulting from the analysis of the
+information presented in the Impact Assessment, one of the following
+findings shall be concluded:
+i. The proposed uses and activities comply with all Comprehensive
+Plan policies and standards and will not degrade or reduce
+estuarine resources.
+ii. The proposed uses and activities do not comply with specific
+Comprehensive Plan policies and standards. Estuarine resources
+will be degraded or diminished by the proposed development
+iii. Available information is insufficient to predicate and evaluate
+potential impacts. More information is needed before the project
+can be approved.
+
+Clatsop County Land and Water VI-4 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Section 6.2020. Resource Capability Determination [ORD. 25-08]
+1) Purpose:
+(A) Certain uses and activities in Natural and Conservation Aquatic zones are
+allowed only if determined to meet the resource capabilities of the area
+and if determined to be consistent with the purpose of the zone.
+(B) Uses and activities in the Aquatic Development zone are allowed only if
+determined to be consistent with the purpose of the zone.
+LAWDUC Article 4 identifies which uses and activities require a Resource
+Capability Determination in each of the estuary aquatic zones.
+2) Definition of Resource Capability. Resource capability is defined as the degree to
+which the natural resource can be physically, chemically, or biologically altered,
+or otherwise assimilate an external use and still function to achieve the purpose
+of the zone in which it is located.
+3) The applicant shall make resource capability determinations and the permit
+decision-maker shall also make findings that the requirements of this section are
+satisfied.
+4) A completed Resource Capability Determination shall include the following
+elements:
+(A) A complete Impact Assessment
+(B) A conclusion, based on the impact assessment, of the use or activity’s
+consistency with the purpose of the affected zone. The conclusion must
+be one of the following three conditions:
+i. The proposal is conditionally consistent with the purpose of the
+affected zone; or
+ii. The proposal is conditionally consistent with the purpose of the
+affected zone; or
+iii. The proposal is inconsistent with the purpose of the affected zone.
+(C) A determination of whether the use or activity is consistent with the
+resource capabilities of the affected zone. A use or activity is consistent
+with the resource capabilities of the area when either:
+i. Impacts on estuarine resources are not significant; or
+ii. Resources of the area will be able to assimilate the use and activity
+and their impacts and continue to function in a manner which:
+a. In Aquatic Natural designations, protects significant fish and
+wildlife habitats, natural biological productivity, and values
+for scientific research and education and the capacity of
+these resources and values to adapt to forecasted climate
+change impacts; or
+b. In the Aquatic Development Zone: this determination is not
+required.
+
+5) Resource Capability Administrative Provisions. When a conditional use requires
+a Resource Capability Determination, the following agencies will be notified:
+(A) Oregon Department of Fish and Wildlife,
+
+Clatsop County Land and Water VI-5 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+(B) Oregon Department of State Lands,
+(C) Oregon Department of Land Conservation and Development,
+(D) U.S. Fish and Wildlife Service,
+(E) National Marine Fisheries Service,
+(F) Environmental Protection Agency,
+(G) U.S. Army Corps of Engineers.
+Section 6.2030. Revocation of Permits [ORD. 25-08]
+1) Any conditions placed upon a development permit by this ordinance, the
+Planning Director, the Hearings Officer, the Planning Commission and/or the
+Board of Commissioners shall be strictly followed. In the event that the permit
+holder, or assignee, fails to comply with any condition the underlying
+development permit may be revoked or modified as set forth below.
+2) When the Community Development Director determines that one or more
+conditions have not been met the Director shall send written notice to the permit
+holder, or assignee, by regular mail. The notice shall identify the conditions that
+have not been met and shall provide 14 days to remedy the deficiency. The 14-
+day period shall begin from the date that the notice is issued.
+3) If the permit holder, or assignee, fails to remedy the deficiency within the time
+period set by Section 6.2030(2), the Community Development Director shall
+provide written notice to the permit holder that the development permit will be
+revoked. The notice shall provide the opportunity for the permittee to request, in
+writing, a hearing before the Hearings Officer in order to show cause why the
+permit should not be revoked. The request for a hearing must be filed within 14
+days of the date of the notice of intent to revoke. Appeals to the Hearings Office
+shall be handled as a Type III procedure.
+4) Hearings Officer Decision. The Hearings Officer may:
+(A) uphold the permit if all conditions have been met or no longer need to be
+met;
+(B) modify or add conditions to the permit; or
+(C) revoke the permit.
+5) Should a permittee fail to file a timely request for hearing, then the Community
+Development Director shall send written notice advising that the development
+permit has been revoked and that all activity and use must immediately cease. In
+order to continue the use or activity, the permittee shall be required to submit a
+new application and fee for review and approval.
+6) The provisions of Section 6.2030 shall apply to all development permits issued
+prior to the date of its enactment, as well as all development permits issued
+thereafter.
+
+SECTION 6.2040. ECOLA CREEK AND NECANICUM ESTUARINE STANDARDS
+[ORD. 25-08]
+1) The following uses and activities within the Ecola Creek and Necanicum River
+Estuaries are subject to the specific standards listed below.
+
+Clatsop County Land and Water VI-6 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Section 6.2050. Aquaculture [ORD. 25-08]
+1) Structures and activities associated with an aquaculture operation shall not
+interfere with navigation.
+2) Water diversion or other shoreline structures shall not interfere with public
+shoreline access. Public access to the facility shall be designed to address safety
+and security considerations.
+3) Water diversion structures or man-made spawning channels shall maintain
+minimum required stream flows for aquatic life in the adjacent stream.
+4) The applicant shall provide documentation that the potential impacts of
+introducing a new fish or shellfish species (or race within a species) will be
+monitored and evaluated in order to protect existing aquatic life in the stream and
+estuary.
+5) Water discharged from the facility shall meet all federal and state water quality
+standards, and any conditions attached to a waste discharge permit.
+6) Fill in support of aquaculture may be permitted if:
+(A) An estuarine location is required;
+(B) A public need is demonstrated;
+(C) No alternative upland locations exist for the portion of the use requiring fill’
+and
+(D) Adverse impacts are minimized as much as feasible.
+Section 6.2060. Boat Ramp [ORD. 25-08]
+1) Boat ramps requiring fill or dredging shall be evaluated under fill or dredging
+requirements.
+2) All state and federal permits shall be obtained and copies provided to the
+Community Development Department before any work begins on the project.
+3) Boat ramps shall not be located in marsh areas or tideflats.
+Section 6.2070. Dock/Moorage [ORD. 25-08]
+1) Community docks or moorages shall be given higher priority than private
+individual docks or moorages.
+2) When a private individual dock is proposed, the applicant must provide evidence
+that alternative moorage sites, such as nearby marinas, community docks,
+dryland storage or mooring buoys are not available, are impracticable or will not
+satisfy the need.
+3) Evidence shall be provided by the applicant that the size of the dock or moorage
+is the minimum necessary to fulfill the purpose.
+4) Covered or enclosed moorage shall not be allowed except in connection with a
+commercial or industrial use where such shelter is necessary for repair and
+maintenance of vessels and associated equipment, such as fishing nets, etc.
+5) Open pile piers or secured floats shall be used for dock construction.
+6) Placement of fill in aquatic areas to create a dock or moorage are not permitted.
+7) Piers and floats shall only extend beyond the dock or moorage to the minimum
+distance needed to assist navigational access. Conflicts with other water surface
+
+Clatsop County Land and Water VI-7 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+uses such as fishing or recreational boating shall be minimized.
+8) Floats in tidally-influenced areas shall be located such that they do not rest on
+the bottom at low water.
+Section 6.2080. Fill [ORD. 25-08]
+1) Fill shall be permitted for active restoration, aquaculture, placement of
+communications facilities, water dependent recreation facilities such as marinas,
+and flood control and erosion control structures.
+2) Fill shall be limited to the minimum quantity necessary to accomplish the
+proposed use.
+3) Fill shall be permitted only when the Impact Assessment required by 6.2011,
+verifies that negative impacts on the following will be avoided, minimized, and/or
+mitigated:
+(A) Navigation
+(B) Productive estuarine habitat
+(C) Water circulation and sedimentation patterns
+(D) Water quality
+(E) Recreation activities
+4) If a proposed use or activity would reduce or eliminate existing public access, the
+applicant shall provide an equivalent replacement public access.
+5) Aquatic areas shall not be used for sanitary landfills or the disposal of solid
+waste.
+6) Fill in intertidal or tidal marsh areas shall not be permitted.
+7) Fill in Shorelands and Aquatic areas designated Conservation shall only be
+allowed if consistent with the resource capabilities of the area and the purpose of
+the Conservation designation.
+8) Fill is not permitted in areas designated Natural.
+9) Fill shall only be permitted in areas where alteration has already occurred,
+including, but not limited to, the riprap bank of the Necanicum River in downtown
+Seaside.
+10) Piling shall be used instead of fill, unless an engineering feasibility study
+demonstrates that the use of fill is the only option.
+Section 6.2090. Land Transportation Facilities [ORD. 25-08]
+1) Land transportation facilities shall not be located in wetlands or aquatic areas
+except where bridge crossings on pilings are needed.
+2) Highways, railroads and bridges shall be designed and located to take advantage
+of the natural topography to minimize disruption of and impacts to the shoreline
+area. Causeways across aquatic areas shall not be permitted.
+3) The applicant shall provide an evaluation documenting the impacts to land use
+patterns and physical/visual access to the estuary caused by the proposed rail or
+highway facilities.
+4) Culverts shall be permitted only where bridges are not feasible, and shall be
+large enough to protect water quality, salinity regime and wildlife habitat.
+
+Clatsop County Land and Water VI-8 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Section 6.2100. Maintenance Dredging [ORD. 25-08]
+1) Dredging shall not occur in marshes, tide flats or other productive subtidal areas
+as determined by the state and federal permit process.
+2) Dredging shall be permitted in areas of the Necanicum River with lower
+productivity and only to the extent necessary to achieve minor navigational
+improvement.
+3) Dredging for uses and activities other than aquaculture, moorage, a small marina
+or restoration shall be limited to the main channel of the Necanicum River.
+Section 6.2110. Marinas [ORD. 25-08]
+1) Marina facilities shall be located only in areas of existing shoreline development
+on the Necanicum Rover where its location would not eliminate marsh areas, and
+where water depths are sufficient so that new dredging is not required.
+2) The applicant shall provide evidence to show that existing marina facilities are
+inadequate to meet the demand and that existing facilities cannot be expanded.
+3) Marina facilities shall be designed and constructed to minimize negative impacts
+on navigation, water quality, sedimentation rates and patterns, fish rearing or
+migration routes, important sediment-dwelling organisms, birds and other wildlife,
+tidal marshes and other important vegetative habitat. An impact assessment shall
+be required.
+4) Flushing and water circulation adequate to maintain ambient water quality shall
+be provided by design or artificial means. A calculated flushing time shall be
+presented as evidence that this standard has been met.
+5) The size of the proposed facility, including that portion occupying the water
+surface, shall be the minimum required to meet the need. In this regard, new
+facilities shall make maximum use of dry boat storage on existing uplands.
+6) Means for preventing contaminants from entering the water shall be provided.
+Equipment shall be available on-site for clean-up of accidental spills of
+contaminants. Sewage, storm drainage and fish waste shall not be discharged
+directly into the water.
+7) Marina facilities shall provide public access and recreational opportunities such
+as walkways, seating, and fishing areas. Public access and recreational
+opportunities shall be appropriately designed to address safety and security
+considerations.
+8) Covered or enclosed water moorage shall only be allowed in conjunction with
+maintenance, repair or construction activities.
+9) Fill in support of a marina may be permitted if:
+(A) An estuarine location is required;
+(B) A public need is demonstrated;
+(C) No alternative upland locations exist for the portion of the use requiring fill;
+and
+(D) The use is consistent with the resource capabilities of the area and the
+purposes of the management unit
+
+Clatsop County Land and Water VI-9 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Section 6.2120. Piling [ORD. 25-08]
+1) The applicant shall demonstrate that any adverse impacts on navigation,
+estuarine habitat and processes, water circulation and sedimentation patterns,
+water quality and recreation activities caused by the use of pilings have been or
+will be avoided, minimized and/or mitigated.
+2) Copies of all required state and federal permits are provided to the Community
+Development Department before installation of the pilings begins.
+3) The number of pilings shall be the minimum necessary to accomplish the
+proposed use.
+Section 6.2125. Public Access [ORD. 25-08]
+1) Standards in this subsection apply to all uses and activities in Columbia River
+Estuary shoreland and aquatic areas which directly or indirectly affect public
+access. “Public access” is used broadly here to include direct physical access to
+estuary aquatic areas (i.e., boat ramps), aesthetic access (i.e., viewing
+opportunities), and other facilities that provide some degree of public access to
+shorelands and aquatic areas.
+2) Projects to improve public access shall be designed to ensure that adjacent
+privately owned shoreland is protected from public encroachment or trespass.
+3) Clatsop County shall review proposals for the sale, exchange or transfer of
+publicly-owned lands that provide public access to estuarine waters using the
+provisions of ORS 271.300-271.360.
+4) Public access improvements shall minimize negative impacts to coastal
+shoreland cultural and natural resources. The County shall consult with
+appropriate state or federal agencies to implement this standard.
+5) New public developments shall provide public access to coastal shorelands
+unless public access is unsafe or would damage cultural or natural resources.
+Section 6.2130. Restoration/Resource Enhancement – Active [ORD. 25-08]
+1) An application for active restoration/resource enhancement should be
+accompanied by an explanation of the purpose of the project and the resource(s)
+to be restored or enhanced. The project shall be allowed only if consistent with
+the resource capabilities and purpose of the comprehensive plan designation of
+the area and the other adjacent uses.
+2) Fill in support of active restoration may be permitted if a public need is
+demonstrated.
+Section 6.2140. Shoreline Stabilization [ORD. 25-08]
+1) General Standards. All shoreline stabilization with the Necanicum River Estuary
+shall comply with the general standards below.
+(A) Riprap may be permitted for protection of uses existing as of October 7,
+1977, unique natural resources, historical and archaeological values; and
+public facilities subject to the standards in the section.
+(B) Preferred Methods. Proper management of existing stream side
+
+Clatsop County Land and Water VI-10 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+vegetation is the preferred method of stabilization followed by planting of
+vegetation. Where vegetative protection is inappropriate due to erosion
+rates, the use of the site or other factors, structural means such as riprap
+may be used as a last resort.
+(C) Placement of stabilization materials shall be reviewed based upon the
+following:
+i. effects on birds and wildlife habitat,
+ii. uses of lands and waters adjacent to the bank,
+iii. impacts to fishing areas,
+iv. impacts to aquatic habitat,
+v. relative effectiveness of the various structures,
+vi. engineering feasibility,
+vii. cost, and
+viii. erosion, flooding and sedimentation of adjacent areas.
+(D) Emergency repairs to shoreline stabilization facilities is permitted, subject
+to the standards imposed by the Oregon Department of State Lands and
+the U.S. Army Corps of Engineers.
+(E) Applications for shoreline stabilization shall be based on a demonstration
+of need, consistency with the intent of the comprehensive plan designation
+of the site, and the resource capabilities of the area. The application shall
+demonstrate how impacts shall be avoided, minimized and/or mitigated.
+2) Standards for Revegetation and Vegetation Management. In addition to the
+general standards in Section 6.2140(1), projects proposing revegetation and/or
+vegetation management activities shall comply with the following standards:
+(A) Plant species shall be selected to ensure suitable stabilization and habitat
+for wildlife. The applicant shall provide justification that the revegetation
+or vegetation management is required when the slope of the bank is
+greater than 2:1 (horizontal to vertical). Trees, shrubs and grasses native
+to the area are preferred.
+(B) The area to be revegetated should be protected from livestock grazing or
+other activities that would hinder plant growth.
+3) Standards for Riprap. In addition to the general standards in Section 6.2140(1),
+projects proposing the use of riprap shall comply with the following standards:
+(A) Engineering and construction best management practices shall be used in
+the placement of riprap, with regard to slope, size, composition and quality
+of material, excavation of the toe trench, placement of gravel fill blanket
+and operation of equipment in the water. Approved state or federal permits
+shall serve of evidence that this standard has been met.
+(B) Riprapped banks should be vegetated, when feasible, to create or
+enhance bird and wildlife habitat.
+(C) Shoreline protection measures shall not restrict existing public access to
+public shorelines.
+(D) Shoreline protection measures shall be designed to minimize their impacts
+on the aesthetic qualities of the shoreline.
+
+Clatsop County Land and Water VI-11 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+(E) Bankline protection shall not be used to increase land surface area.
+Where severe erosion has occurred, fill may be used to obtain the desired
+bank slope and restore the previous bankline. Any extension of the
+bankline into traditional aquatic areas shall be subject to the standards for
+fill. Disruption of tidal marsh, tidal flat and productive subtidal areas shall
+not be permitted.
+(F) Construction of shoreline protection measures shall be coordinated with
+state and federal agencies and local interests to minimize the impacts on
+aquatic resources and habitats. Relevant state and federal water quality
+standards shall be met.
+(G) Stream channelization should be avoided.
+(H) Use of fill material for shoreline protection shall be permitted for
+maintenance of man-made protective structures existing as of October 7,
+1977.
+(I) Flood and erosion control structures if:
+i. Required to protect a water-dependent use allowed in subsection
+(9)(B)-(D);
+ii. Land use management practices and non-structural solutions are
+inadequate to protect the use;
+iii. There are no alternative upland locations for the portion of the use
+being protected;
+iv. An estuarine location is required by the use;
+v. A public need is demonstrated; and
+vi. Adverse impacts, including impacts to water currents and erosion
+and accretion patterns, are avoided, minimized, and/or mitigated.
+Section 6.2150. Utilities [ORD. 25-08]
+1) Overhead transmission lines not interfere with migratory bird flyways and
+associated habitat or the significant habitat of residential waterfowl, birds of prey
+and other birds. In cases of serious conflict, utility facilities should be located
+underground.
+2) Applicants for utility facilities, including cable crossings, shall provide evidence as
+to why an aquatic site is needed, the alternative locations considered, and the
+relative impacts of each. Crossings shall avoid disrupting marsh areas, unless an
+engineering feasibility study demonstrates that the impact cannot be avoided.
+3) Utility facilities shall not be located on new land created by fill unless the utility is
+part of an otherwise approved project and an engineering feasibility study
+demonstrates that no other alternative exists.
+4) Above ground utility facilities shall be designed to optimize visual and other
+aesthetic impacts.
+5) Effluents from point-source discharges shall meet all applicable state and federal
+water and air quality standards. Monitoring shall be carried out to monitor the on-
+going impacts on the estuarine environment.
+6) After vegetative installation or maintenance is completed, banks shall be
+
+Clatsop County Land and Water VI-12 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+replanted with native species or otherwise protected against erosion. The pre-
+project bankline shall be maintained as closely as possible.
+7) Storm water shall be directed into existing natural drainages when possible, and
+shall be dispersed to several locations to minimize the impact on the estuary.
+When adjacent to salt marshes and/or areas designated Natural in the
+comprehensive plan, additional precautions shall be taken to ensure that
+contamination from oil, sediment or other pollutants does not occur. This
+standard may be met through the use of holding ponds, weirs, dry wells, or other
+means.
+
+SECTION 6.3000. COLUMBIA RIVER ESTUARY IMPACT ASSESSMENT AND
+RESOURCE CAPABILITY DETERMINATION
+Section 6.3010. Impact Assessment
+The purpose of this section is to provide an assessment process for development
+alterations which could potentially alter the estuarine ecosystem. Oregon Statewide
+Planning Goal 16, Estuarine Resources, requires that actions which would potentially
+alter the Columbia River estuarine ecosystem be preceded by an assessment of
+potential impacts. The Impact Assessment need not be lengthy and complex, but it
+should enable reviewers to gain a clear understanding of the impacts expected.
+Section 6.3020. Impact Assessment Requirements
+The following uses and activities, in addition to those so indicated in the aquatic zones,
+all require an Impact Assessment at the time a permit is reviewed:
+1) Dredging
+2) Aquatic area fill
+3) In-water structures
+4) Riprap
+5) New in-water log storage areas
+6) Application of pesticides and herbicides
+7) Water intake or withdrawal
+8) Effluent discharges
+9) In-water dredged material disposal
+10) Beach nourishment
+11) Other uses or activities which could affect estuarine physical or biological
+resources
+12) Uses or activities that require a Resource Capability Determination
+13) Expanded flowlane/thalweg disposal for which a Goal 16 exception has been
+approved. [ORD. 24-18]
+14) Shallow water placement of dredged material at sites designated in the
+comprehensive plan. [ORD. 25-05]
+15) Transfer sites for temporary storage of dredged material at sites designated in
+the comprehensive plan. [ORD. 25-05]
+16) Confined aquatic placement of dredged material at sites designated in the
+comprehensive plan. [ORD. 25-05]
+
+Clatsop County Land and Water VI-13 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+17) Shoreline placement of dredged material at sites designated in the
+comprehensive plan. [ORD. 25-05]
+
+SECTION 6.4000. COLUMBIA RIVER ESTUARY SHORELAND AND AQUATIC
+STANDARDS [ORD. 25-08]
+Section 6.4010. Purpose [ORD. 25-08]
+1) Columbia River Estuary shoreland and aquatic area standards are requirements
+which apply to development uses and activities proposed in one or more of the
+following management designations:
+(A) Marine Industrial Shorelands Zone (MI);
+(B) Conservation Shorelands Zone (CS);
+(C) Natural Shorelands Zone (NS);
+(D) Aquatic Development Zone (AD);
+(E) Aquatic Conservation One Zone (AC-1);
+(F) Aquatic Conservation Two Zone (AC-2);
+(G) Aquatic Natural Zone (AN);
+(H) All areas included in the Shorelands Overlay District (/SO).
+These standards are intended to protect the unique economic, social, and
+environmental values of the Columbia River Estuary.
+Section 6.4020. General Standard [ORD. 25-08]
+Proposed uses and activities in the Columbia River Estuary shoreland and aquatic
+areas shall only be approved when it is determined that such uses or activities are
+consistent with the purposes of the Columbia River Estuary management areas in which
+they are proposed and satisfy all applicable Comprehensive Plan policies and Columbia
+River Estuary Shoreland and Aquatic Activity and Use Standards. In addition, some
+uses and activities in the Columbia River Estuary which could potentially alter the
+estuarine ecosystem are also subject to an Impact Assessment and Resource
+Capability Determination, as specified in Section 6.2000.
+Section 6.4030. General Development Standards [ORD. 25-08]
+1) The standards in this subsection apply to all development activities and uses in
+Columbia River Estuary shoreland and aquatic areas, as specified below:
+(A) Non-water-dependent uses and activities shall not prohibit or create
+conflicts with existing, proposed or potential water-dependent uses or
+activities at adjacent sites zoned Marine Industrial.
+(B) Uses and activities will be designed and located to minimize or eliminate
+impacts to conflicts with adjacent uses (particularly adjacent historic or
+cultural resources). Measures such as landscaping, fencing, and/or other
+buffering techniques shall be used to protect the character or historic
+integrity of adjacent uses.
+(C) Waterfront Public Access shall be provided in compliance with the
+following:
+i. Waterfront access for the public, such as walkways, trails,
+
+Clatsop County Land and Water VI-14 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+waterfront seating or landscaped areas, shall be designed to
+address safety and security considerations.
+ii. Industrial and port facilities should designate public viewing points,
+for viewing waterfront and/or port operations in areas which would
+not interfere with operations, security, or the safety of the public or
+employees.
+iii. New dredging, filling or alteration of estuarine resources shall not
+be used to provide public access.
+(D) Joint use of parking, moorage and other commercial support facilities is
+encouraged where feasible and where consistent with local ordinance
+requirements.
+(E) Off-street parking may be located over an aquatic area only if the following
+conditions are met:
+i. Parking will be on an existing pile-supported structure; and
+ii. Suitable shoreland areas are not available; and
+iii. The amount of aquatic area committed to parking is the minimum
+required to provide required parking and drive aisles; and
+iv. The aquatic area is zoned Aquatic Development; and
+v. The parking area complies with the standards in Section 3.0050.
+(F) Maintenance, installation or replacement of riparian vegetation may be
+required to enhance visual attractiveness or assist in bank stabilization.
+(G) Dredging and filling and uses that will require dredging or filling in
+estuarine aquatic areas and significant Goal 17 wetlands may only be
+permitted if the following standards i through vi are met. Other uses which
+could alter the estuarine ecosystem may only be permitted if the following
+standards i through vi are met.
+i. The proposed use is required for navigation or other water-
+dependent use requiring an estuarine location, or if specifically
+allowed in the applicable aquatic zone; and
+ii. A need (i.e., a public benefit) is demonstrated; and
+iii. The proposed use does not interfere with public trust rights; and
+iv. Alternative upland locations do not exist; and
+v. Adverse impacts, are avoided, minimized or mitigated; and
+vi. Any reduction in estuarine resources’ capacity to adapt to climate
+change impacts is avoided, minimized or mitigated.
+Section 6.4040. Agriculture and Forestry [ORD. 25-08]
+1) Standards in this subsection are applicable to agricultural and forestry activities
+on Columbia River Estuary shorelands. Activities outside of the coastal
+shorelands boundary are not covered by this subsection. Certain activities
+associated with agriculture and forestry (i.e. dike maintenance and shipping
+facilities for agricultural and forest products, are covered under different
+subsections).
+2) Tillage and drainage practices should minimize sedimentation and control
+
+Clatsop County Land and Water VI-15 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+surface water runoff of animal wastes and excess fertilizers, herbicides and
+pesticides. Agriculture chemicals shall be applied to minimize the amount that is
+lost to the aquatic environment.
+3) A 50-foot buffer strip of permanent vegetation shall be maintained between
+cultivated or pasture areas and an undiked body of water, to filter surface runoff
+and reduce sedimentation.
+4) Feed lots or other confinement lots for livestock shall be:
+(A) Located at least 100 feet from streams or waterbodies;
+(B) Away from hillsides leading directly to streams;
+(C) Outside the 100-year floodplain;
+(D) Designed to control runoff through the use of diversion structures, settling
+ponds or other land management practices.
+4) Forest practices and forest road building will comply with rules established under
+the Oregon Forest Practices Act, administered by the Oregon Department of
+Forestry.
+5) In areas designated Development or identified for water-dependent uses,
+agricultural uses shall be undeveloped and low intensity to reserve these areas
+for intensive residential, commercial or industrial use, as appropriate.
+6) On lands zoned Conservation Shorelands, agriculture uses shall be low intensity
+and consistent with maintenance of the forest resource and recreational values of
+these lands.
+Section 6.4050. Airports [ORD. 25-08]
+To protect air safety and wildlife habitat, airports and associated facilities, including
+terminal stations for aircraft, passenger and cargo operations, runways, towers, and
+other structures and systems shall be located away from migratory bird flyways and
+habitat used by resident waterfowl and other birds.
+Section 6.4060. Aquaculture and Fisheries [ORD. 25-08]
+The standards in this subsection apply to all projects that could affect commercial or
+recreational fisheries or aquaculture in the Columbia River Estuary. This section is also
+applicable to the development of aquaculture facilities and to fisheries enhancement
+projects.
+1) Water diversion structures or man-made spawning channels shall maintain
+minimum stream flows for aquatic life in affected streams.
+2) Water discharged from aquaculture or hatchery facilities shall comply with state
+and federal water quality standards and any waste discharge permit conditions.
+3) Aquaculture facilities shall be located far enough from sanitary sewer outfalls to
+avoid potential health hazards.
+4) In-water construction activity in aquatic areas shall follow the recommendations
+of state and federal fisheries agencies with respect to project timing to avoid
+unnecessary impacts on migratory fish.
+5) Commercial fish drifts shall be protected from conflicting in-water activity,
+including dredging, in-water dredged material disposal, and aquatic area mining
+
+Clatsop County Land and Water VI-16 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+and mineral extraction.
+6) Prior to approval of in-water activities with the potential for affecting commercial
+fishing activities, the project sponsor shall notify the Oregon and Washington
+Department of Fish and Wildlife programs for Columbia River commercial
+fisheries.
+Section 6.4070. Commercial, Industrial and Residential Development [ORD. 25-02]
+[ORD. 25-08]
+1) The standards in this subsection are applicable to construction or expansion of
+residential, commercial or industrial facilities in shoreland and aquatic areas of
+the Columbia River Estuary. Within the context of this section:
+(A) Residential uses include single-unit, duplex/triplex/quadplex dwellings,
+cottage clusters, manufactured dwellings, and floating residences (subject
+to an exception to Oregon Statewide Planning Goal 16). Duck shacks,
+recreational vehicles, hotels, motels and bed and breakfast facilities are
+not considered residential structures for purposes of this section.
+(B) Commercial structures and uses include all retail or wholesale storage,
+service or sales facilities and uses, whether water- dependent, water-
+related, or non-dependent, non-related.
+(C) Industrial uses and activities include facilities for fabrication, assembly,
+and processing, whether water-dependent, water-related, or non-
+dependent, non-related.
+2) Sign placement shall not block views of water areas. Signs shall be placed on
+existing buildings whenever feasible. Off-premises outdoor advertising shall not
+be allowed in aquatic areas.
+3) Uses conducted in floating structures shall be located in areas protected from
+currents and wave action. The floats shall not rest on the bottom during low tidal
+cycles or low-flow periods.
+4) Where groundwater is or will be used as a water supply, the groundwater table
+shall not be lowered by drainage facilities, or be affected by saltwater intrusion
+due to groundwater mining.
+5) Fill in estuarine aquatic areas or in significant non-tidal wetlands in shoreland
+areas shall not be permitted for residential uses.
+6) Commercial or industrial developments with ship receiving facilities shall provide
+facilities for disposing of vessel solid wastes. Disposal of fish wastes associated
+with commercial or industrial development, shall comply with state and federal
+regulations.
+Section 6.4080. Estuarine Construction [ORD. 25-08]
+1) The standards in this subsection apply to over-the-water and in-water structures
+such as docks, bulkheads, moorages, piling and dolphin installation, shoreline
+stabilization, navigational structures, boat ramps, boat houses, jetties, pile dikes,
+breakwaters and other structures involving installation of piling or placement of
+riprap in Columbia River Estuary aquatic areas. This subsection not apply to
+
+Clatsop County Land and Water VI-17 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+structures located entirely on shorelands or uplands, but does apply to
+structures, such as boat ramps, that are in both aquatic and shoreland
+designations. Standards in this subsection also apply to excavation for creation
+of new water surface area.
+2) When land use management practices and vegetative shoreline stabilization are
+shown to be infeasible (in terms of cost, effectiveness or other factors), structural
+means may be approved subject to applicable policies, standards and
+comprehensive plan and zoning restrictions.
+3) Where structural shoreline stabilization is shown to be necessary because
+vegetative shoreline stabilization is not practicable, the choice for structural
+stabilization methods shall be made on a case by case basis. Factors to be
+considered when determining the appropriate structural method include, but are
+not limited to:
+(A) Hydraulic features;
+(B) Shoreland habitat;
+(C) Adjacent land and water uses;
+(D) Aquatic habitat;
+(E) Water quality;
+(F) Engineering feasibility;
+(G) Navigation;
+(H) Impacts on public shoreline access.
+3) Jetties, groins and breakwaters shall be constructed of clean, erosion-resistant
+materials from upland sources. In-stream gravels shall not be used, unless part
+of an approved mining project. Material size shall be appropriate for predicted
+wave, tide and current conditions.
+4) Where a jetty, groin, breakwater or other in-water structure is proposed for
+erosion or flood control, the applicant shall demonstrate that non-structural
+solutions, such as land use management practices, or other structural solutions,
+such as riprap, will not adequately address the problem.
+7) Proposals for bulkheads may be approved only if it is demonstrated that sloped
+riprap will not complete the project's objectives.
+8) Proposals for new bulkheads or for new riprap bankline slopes steeper than 1.5
+to 1 (horizontal to vertical) must demonstrate that adequate shallow areas will be
+available for juvenile fish shelter, or that the area is not typically used for juvenile
+fish shelter.
+9) Plant species utilized for vegetative stabilization shall be selected based on
+potential sediment containment and fish and wildlife habitat values. Trees, shrubs
+and grasses native to the region should be considered for vegetative
+stabilization; however, plant species and vegetation stabilization techniques
+approved by the Soil Conservation Service, the U.S. Army Corps of Engineers
+and other participating federal and state resource agencies are also appropriate.
+Stabilization of dike slopes must not include vegetation (particularly trees) which
+jeopardize the dike.
+10) Riprap bank protection must be appropriately designed with respect to slope,
+
+Clatsop County Land and Water VI-18 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+rock size, placement, underlying material and expected hydraulic conditions.
+Projects designed or signed and sealed by a licensed engineer shall meet this
+requirement.
+11) New shoreline stabilization projects shall not restrict existing public access to
+public shorelines.
+12) Shoreline stabilization shall not be used to increase land surface area. Where a
+breach has occurred, fill may be used to restore the previous bankline, provided
+the corrective action is initiated within one year of the date of the breach. Any
+other extension of the bankline into aquatic areas shall be subject to the policies
+and standards for fill.
+13) Structural shoreline stabilization measures shall be coordinated with and, if
+applicable, permitted by, state and federal agencies to minimize adverse effects
+on aquatic and shoreland resources and habitats.
+14) Bulkheads installed as a shoreland stabilization and protective measure shall be
+designed and constructed to minimize impacts (i.e. erosion, shoaling, reflection
+of wave energy or interferences with sediment transport in adjacent shoreline
+areas) resulting from their placement.
+15) Emergency maintenance, for the purpose of making repairs or for the purpose of
+preventing irreparable harm, injury or damage to persons, property or shoreline
+stabilization facilities is permitted, notwithstanding the other requirements in
+these standards. Emergency maintenance activities shall be subject to
+regulations imposed by the Corps of Engineers and the Department of State
+Lands.
+16) Revegetated shoreline areas shall be protected from excessive livestock grazing
+or other activities that would prevent development of stabilizing plant cover.
+17) The size and shape of a dock or pier shall be the minimum required for the
+intended use.
+18) Proposals for new docks and piers may be approved only after consideration of
+alternatives such as mooring buoys, dryland storage, and boat ramps.
+19) Individual single-user docks and piers are discouraged in favor of community
+moorage facilities common to several users and interests.
+20) Excavation of shorelands to create new estuarine aquatic surface area shall
+comply with the following provisions:
+(A) The new aquatic area shall be connected to adjacent water areas as the
+excavation is completed.
+(B) Excavation shall not result in channelization of the waterway.
+21) Sediments and materials removed by the excavation to create new estuarine
+water surface area shall be deposited on land in an appropriate manner.
+22) Water quality degradation due to excavation to create new estuarine water
+surface area shall be avoided, minimized, or mitigated. Adverse effects on water
+circulation and exchange, increase in erosion and shoaling conditions, and
+introduction of contaminants to adjacent aquatic areas shall be avoided,
+minimized or mitigated.
+
+Clatsop County Land and Water VI-19 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Section 6.4090. Deep-Water Navigation, Port and Industrial Development [ORD.
+25-08]
+1) The standards in this subsection apply to port and industrial development
+occurring in and over Columbia River estuarine waters, and on adjacent
+shorelands. This section also applies to navigation projects related to deep-draft
+maritime activities, such as channel, anchorage and turning basin development
+or expansion.
+2) New or expanded shoreland and aquatic area facilities for the storage or
+transmission of petroleum products must have on-site equipment for the
+containment of oil spills. A contingency plan for containment and clean-up of oil
+spills shall be provided with the permit application.
+5) New or expanded ports or ship receiving facilities shall provide facilities for
+collecting, handling and disposing of vessel wastes.
+6) Port or industrial development involving the following activities shall be subject to
+an impact assessment.
+(A) Dredging.
+(B) Aquatic area fill.
+(C) In-water structures.
+(D) Structural shoreline stabilization.
+(E) Water in-take pipes.
+(F) Effluent discharge.
+(G) In-water dredged material disposal.
+(H) Beach nourishment.
+(I) Other activity which could adversely affect estuarine resources.
+Section 6.4100. Land Transportation Systems [ORD. 25-08]
+1) Standards in this subsection are applicable to the maintenance and construction
+of railroads, roads and bridges in Columbia River Estuary shoreland and aquatic
+areas. Public, as well as private facilities are covered under this section. Forest
+roads, constructed in compliance with the standards contained in the Forest
+Practices Act, are excluded.
+2) New or relocated land transportation routes shall be designed and sited to:
+(A) Enhance or increase access to areas in the Marine Industrial zone when
+possible; and
+(B) Direct urban expansion toward areas identified as being suitable for
+development, consistent with Goal 14; and
+(C) Take maximum advantage of the natural topography and cause minimum
+shoreline disruption; and
+(D) Preserve or improve public estuary access where existing or potential
+access sites are identified; and
+(E) Avoid isolating high-intensity water-dependent waterfront use areas from
+water access.
+3) Maintenance and repair of roads and railroads and maintenance, repair and
+replacement of bridges shall be permitted regardless of the plan designation
+
+Clatsop County Land and Water VI-20 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+through which the road or railroad passes, provided:
+(A) The same alignment is maintained; and
+(B) The same width is maintained, except that necessary enlargements to
+meet current safety and engineering standards may be permitted; and
+(C) The number of travel lanes is not increased.
+4) Fill-supported causeways or bridge approach fills across significant non-tidal
+wetlands in shoreland areas shall not be permitted; bridge abutments may,
+however, be approved.
+5) Removal of riparian vegetation along transportation rights-of-way may be
+permitted to maintain clear vision.
+Section 6.4120. Marinas [ORD. 25-08]
+1) The standards in this subsection apply to development of new marinas and
+improvements to existing marinas in aquatic areas of the Columbia River
+Estuary. Also covered are adjacent shoreland support facilities that are in
+conjunction with or accessory to the marina. These provisions apply to both
+public and private marinas for either recreational, charter or commercial shallow
+draft vessels.
+2) New marinas may be approved only when existing marinas are inadequate with
+respect to location, support services or size; or cannot expand to meet area
+moorage needs.
+3) New marinas shall be located in or adjacent to areas of extensive boat usage,
+and in areas capable of providing necessary support services (including street
+access, upland parking, water, electricity and waste disposal).
+4) The feasibility of upland boat storage shall be evaluated concurrent with
+proposals for new or expanded marina facilities.
+6) New, expanded or renovated marinas shall be designed to assure adequate
+water circulation and flushing.
+7) New or expanded marinas shall provide facilities for collecting, handling and
+disposing of waste from vessels.
+8) Disposal of fish waste shall comply with federal and state regulations.
+9) Covered moorages may be permitted in marinas subject to the following
+requirements:
+(A) Information is provided on existing water quality and habitat conditions in
+the aquatic area proposed for the covered moorage; and
+(B) Data on existing aquatic vegetation, and an analysis of the proposed
+covered moorages' impact on aquatic vegetation are provided; and
+(C) Information is provided on light penetration, both with and without the
+proposed covered moorage; and
+(D) No more than 20% of the marina's aquatic surface is occupied by the
+covered moorage.
+10) New or expanded marina fuel docks shall maintain on-site equipment for the
+containment of spilled fuel. A contingency plan for containment and cleanup of
+accidental spills shall be provided.
+
+Clatsop County Land and Water VI-21 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+11) Floating docks in marinas shall be located such that they do not rest on the
+bottom during low tides.
+13) The size and shape of docks and piers in marinas shall be limited to that required
+for the intended use.
+14) Alternatives to new docks and piers, such as mooring buoys, dry land storage
+and launching ramps, shall be considered before new docks are permitted in a
+marina.
+Section 6.4130. Mining and Mineral Extraction [ORD. 25-08]
+1) Standards in this subsection are applicable to the extraction of sand, gravel,
+petroleum products and other minerals from both submerged lands under
+Columbia River Estuary aquatic areas and from shoreland areas. These
+standards are also applicable to outer continental shelf mineral development
+support facilities built in the estuary.
+2) Aquatic area mining and mineral extraction shall only occur in aquatic areas
+deeper than ten (10) feet below MLLW, where estuarine resource values are low,
+and when no feasible upland sources exist.
+3) Proposed mining and mineral extraction activities with potential impacts on
+estuary shoreland and aquatic areas shall provide the local government with
+copies of all required state and federal permits.
+4) Applicants proposing estuarine shoreland or aquatic area mining or mineral
+extraction shall demonstrate that the activity is sited, designed and operated to
+minimize adverse impacts on the following:
+(A) Significant fish and wildlife habitat; and
+(B) Hydraulic characteristics; and
+(C) Water quality.
+5) Petroleum extraction and drilling operations shall not be allowed in estuarine
+aquatic areas. Petroleum may, however, be extracted from beneath estuarine
+aquatic areas using equipment located on shorelands or uplands. Petroleum
+exploration activities, except for exploratory drilling, may be permitted in
+estuarine aquatic areas and in estuarine shoreland areas.
+6) Unless part of an approved fill project, spoils and other material removed from
+aquatic areas shall be subject to the Dredging and Dredged Material Disposal
+Standards in Section 6.4200.
+Section 6.4140. Recreation and Tourism [ORD. 25-08]
+1) Standards in this subsection are applicable to recreational and tourist-oriented
+facilities in Columbia River Estuary shoreland and aquatic areas.
+2) New or expanded recreation developments shall be designed to avoid, minimize
+or mitigate adverse effects on surface and groundwater quality. Adverse effects
+of storm run-off from parking lots shall be avoided, minimized, or mitigated.
+3) New or expanded recreational developments shall be designed and located to
+avoid, minimize or mitigate conflicts with and impacts to adjacent land uses.
+4) Structures developed for use as a duck shack may be permitted subject to the
+
+Clatsop County Land and Water VI-22 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+following requirements:
+(A) It may be used to store recreational equipment for hunting waterfowl;
+(B) A holding tank is provided so sewage is not disposed of directly into the
+river;
+(C) The duck shack will not exceed 500 square feet if constructed on a float,
+or 750 square feet if constructed on a pier; and
+(D) The duck shack shall not be occupied for more than fifteen (15) days of
+any consecutive thirty (30) day period.
+Section 6.4150. Restoration and Mitigation [ORD. 25-08]
+1) Standards in this subsection are applicable to estuarine restoration and
+mitigation projects in Columbia River Estuary aquatic areas and adjacent
+shorelands. The Comprehensive Plan shall designate and protect specific sites
+for mitigation which generally correspond to the types and quantify of aquatic
+area proposed for dredging or filling.
+2) Any fill activities in estuarine aquatic areas or dredging activities in intertidal and
+shallow- to medium-depth subtidal areas shall be mitigated through project
+design and/or compensatory mitigation (creation, restoration or enhancement of
+another area) to ensure that the integrity of the estuary ecosystem is maintained.
+3) Mitigation for fill in aquatic areas or dredging in intertidal and shallow- to medium-
+depth subtidal areas shall be implemented through the following mitigation
+actions:
+(A) Project Design Mitigation Actions
+i. Avoiding the impact altogether by not taking a certain action or
+parts of an action;
+ii. Minimizing impacts by limiting or reducing the scope of proposed
+activities;
+iii. Rectifying the impact by repairing, rehabilitating, or restoring the
+affected environment, including removal of wetland fills or
+rehabilitation of a resource use and/or extraction site when its
+economic life is terminated;
+iv. Reducing or eliminating the impact over time by preservation and
+maintenance operations;
+(B) Compensatory Mitigation Actions
+i. Creation, restoration or enhancement of an estuarine area to
+maintain the functional characteristics and processes of the
+estuary, such as its natural biological productivity, habitats, and
+species diversity, unique features and water quality.
+4) Any combination of the above actions may be required to implement mitigation
+requirements. The compensatory mitigation actions listed in part (B) shall only be
+considered when, after consideration of impact avoidance, reduction or
+rectification, there are still unavoidable impacts.
+
+Clatsop County Land and Water VI-23 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+5) Clatsop County will rely on the Department of State Lands to administer the
+provisions of OAR 141-085-0689 through OAR 141-085-0710 ORS requiring the
+mitigation of adverse impacts of filling in intertidal area, tidal marsh areas, and
+non-tidal wetlands.
+6) Section 5.4300. Mitigation Site Overlay District (MIT) establishes the inventory of
+mitigation sites, and the standards and procedures for reviewing use and
+development proposals at mitigation sites and adding and removing mitigation
+sites.
+Section 6.4160. Solid Waste Disposal [ORD. 25-08]
+1) The following standards apply to solid waste disposal in the Columbia River
+Estuary shoreland areas:
+(A) Disposal shall comply with state and federal waste disposal requirements.
+(B) Solid waste material shall not be deposited in aquatic areas.
+Section 6.4170. Utility [ORD. 25-08]
+1) Standards in this subsection are applicable to utility structures and uses in the
+Columbia River Estuary aquatic and shorelands areas.
+2) Routes for major overhead electrical and communication transmission lines shall
+be chosen to minimize interference with migratory bird flyways and significant
+habitat of waterfowl, birds of prey and other birds.
+3) Utilities shall not be located on new land unless part of an otherwise approved
+development project and no other alternative is feasible.
+4) Above-ground utilities shall be designed to minimize visual and other aesthetic
+impacts.
+5) Interference with public uses shall be minimized and public access to the estuary
+shall be preserved.
+6) After installation or maintenance of existing utility structures is completed,
+disturbed stream banks and aquatic and riparian vegetation shall be stabilized
+and restored.
+Section 6.4180. Bankline and Streambed Alteration [ORD. 25-08]
+1) Standards in this subsection are applicable to the alteration of a stream bank or
+streambed in the Columbia River Estuary, either within or outside of its normal
+high water boundary.
+2) Alterations to stream banks or streambeds shall:
+(A) Maintain stream surface area where feasible; and
+(B) Make maximum use of natural or existing deepwater channels; and
+(C) Avoid creation of undesirable hydraulic conditions; and
+(D) Avoid, minimize or mitigate impacts on estuarine aquatic and shorelands
+resources.
+3) Excavation activities in stream bankline areas resulting in expansion of existing
+aquatic area shall comply with standards regulating excavation of shorelands for
+the creation of new water surface area in Estuarine Construction, Section 6.4080.
+
+Clatsop County Land and Water VI-24 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Section 6.4190. Diking [ORD. 25-08]
+1) The standards in this subsection apply to the construction, maintenance and
+repair of flood control dikes in Columbia River Estuary shoreland and aquatic
+areas. The standards do not apply to dredged material containment dikes.
+2) Dike maintenance and repair may be allowed under any of the following
+circumstances:
+(A) Existing serviceable dikes, including those that allow some seasonal
+inundation, may be repaired.
+(B) Dikes that have been inadvertently breached may be repaired, subject to
+state and federal permit requirements, if the property has not reverted to
+estuarine habitat (as determined by U.S. Army Corps of Engineers and the
+Oregon Division of State Lands).
+(C) Dikes that have been inadvertently breached causing a reversion of area
+to estuarine habitat may be repaired, subject to state and federal permit
+requirements, if the repair is commenced within 26 months of the breach.
+(D) Dike repair projects that do not fit under (A), (B), or (C) above; that is
+projects where the property has reverted and more than 36 months have
+elapsed; must be reviewed as new dikes.
+3) Dike maintenance and repair are distinguished from new dike construction. To
+qualify as maintenance and repair, changes in the location, size, configuration,
+orientation and alignment of the dike must be limited to the minimum amount
+necessary to retain or restore its operation or function or to meet current
+engineering standards.
+4) Filling aquatic areas for dike maintenance may be allowed only if it can be clearly
+demonstrated that there are no feasible engineering alternatives which would
+avoid the use of aquatic area fill.
+5) The outside dike face shall be suitably protected from erosion during construction
+and maintenance operations. Shoreline stabilization standards shall be met.
+6) New dikes in aquatic areas may be permitted if one or more of the following
+standards are met;
+(A) As part of an approved fill project; or
+(B) As a temporary flood protection measure needed to promote public safety
+and welfare, subject to applicable U.S. Army Corps of Engineers, and
+Oregon Department of State Lands rules; or
+(C) Subject to an exception to Statewide Planning Goal 16.
+7) Dredging of subtidal estuarine areas as a source of fill material for dike
+maintenance, in all aquatic area designations, may be allowed pursuant to the
+standards of Section 6.4200. Dredging and Dredged Material Disposal
+Section 6.4200. Dredging and Dredged Material Disposal
+Standards in this subsection are applicable to all Columbia River Estuary estuarine
+dredging operations and to both estuarine shoreland and aquatic dredged material
+disposal.
+
+Clatsop County Land and Water VI-25 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Section 6.4205. Dredging Standards [ORD. 25-08]
+1) Dredging in estuarine aquatic areas, are subject to these standards, and shall be
+allowed only if:
+(A) Specifically allowed in the applicable aquatic zone and required for one or
+more of the following uses and activities:
+i. Navigation or navigational access;
+ii. A water-dependent use that requires an estuarine location;
+iii. A restoration project;
+iv. Mining or mineral extraction;
+v. Excavation necessary for approved bridge crossing support
+structures, or pipeline, cable, or utility crossing;
+vi. Obtaining fill material for dike maintenance where an exception to
+Statewide Planning Goal 16 has been approved;
+vii. Maintenance and installation of tidegates in existing functional
+dikes and tidegate drainage channels;
+viii. Aquaculture facilities;
+ix. Temporary alterations; and
+x. Incidental dredging for harvest of benthic species or removable in-
+water structures such as stakes or racks.
+2) When dredging is permitted, the dredging shall be the minimum necessary to
+accomplish the proposed use.
+3) Erosion, sedimentation, increased flood hazard, and other changes in circulation
+shall be avoided at the dredging and disposal site and in adjacent areas.
+4) The timing of dredging and dredged material disposal operations shall be
+coordinated with state and federal resource agencies, local governments, and
+private interests to protect estuarine aquatic and shoreland resources, minimize
+interference with commercial and recreational fishing, including snag removal
+from development drifts, and ensure proper flushing of sediment and other
+materials introduced into the water by the project.
+5) Sediment Analyzation and Testing shall be consistent with the most recent
+version of the Sediment Evaluation Framework for the Pacific Northwest.
+6) Adverse short-term effects of dredging and aquatic area disposal such as
+increased turbidity, release of organic and inorganic materials or toxic
+substances, depletion of dissolved oxygen, disruption of the food chain, loss of
+benthic productivity, disturbance of fish runs and impacts to important localized
+biological communities shall be minimized.
+7) Impacts on areas adjacent to the dredging site such as destabilization of fine
+textured sediments, erosion, siltation and other changes in circulation patterns
+shall be minimized.
+8) The effects of both initial and subsequent maintenance dredging, as well as
+dredging equipment marshaling and staging, shall be considered prior to
+approval of new projects or expansion of existing projects. Projects will not be
+approved unless disposal sites with adequate capacity to meet initial excavation
+dredging and at least five years of expected dredge disposal are available.
+
+Clatsop County Land and Water VI-26 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+9) Dredging for maintenance of existing tidegate drainage channels and drainage
+ways is limited to the amount necessary to maintain and restore flow capacity
+essential for the function of tidegates and to allow drainage and protection of
+agricultural and developed areas. Tidegate maintenance dredging does not
+include enlarging or extending the dimensions of, or changing the bottom
+elevations of, the affected tidegate drainage channel or drainage way as it
+existed prior to the accumulation of sediments.
+10) Dredging of subtidal estuarine areas as a source of fill material for dike
+maintenance, in all aquatic area designation, may be allowed upon the
+applicant's demonstration that:
+(A) Alternative methods of accomplishing dike maintenance are infeasible (i.e.
+dikes proposed for receiving dredged material are remote from upland
+sources of fill material and that land based heavy equipment access to the
+dike area is not possible);
+(B) Dredging in all cases will be limited to that necessary to maintain the
+dikes. Dredging as a source of fill material for dike maintenance does not
+include enlarging or changing the bottom contour of natural aquatic areas
+for navigation or any other aquatic area use;
+(C) Dredging will not disturb or excavate emergent vegetation, intertidal flats,
+or other adjacent intertidal estuarine resources;
+(D) Dredging as a source of fill material for dike maintenance will, in all cases:
+i. take place in subtidal aquatic areas and shall be limited to the
+deepest subtidal aquatic area accessible to float-mounted dredging
+equipment.
+ii. In narrow tributary areas of the estuary, dredging shall be limited to
+the deepest subtidal areas closest to the centerline of the
+waterway.
+iii. In reaches of the estuary exceeding 200 feet in width, dredging
+shall be limited to subtidal areas greater than 89 feet in distance
+from the waterward toe of the dikes.
+iv. The intent of this standard is to protect the dike structures from
+sloughing, maintain existing berms and shoal water immediately
+adjacent to dikes, and limit dredge excavations to subtidal areas
+below the level of effective light penetration.
+(E) Dredging will not be confined to localized areas of river bottom. All
+excavations as a source of fill material shall be linearly dispersed along
+the entire dike maintenance area. Dredging shall not alter the existing
+contour of the river bottom such that deep trenches and pockets capable
+of stranding or impeding estuarine life forms will be created.
+(F) Dredging operations shall be consistent with state and federal permit
+conditions, the requirements of local governments, and concerns of
+private interests, to ensure that project timing and dredging conditions
+protect estuarine resources (e.g. fish runs, spawning activity, benthic
+productivity, wildlife habitat, etc.).
+
+Clatsop County Land and Water VI-27 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+11) Dredging for mining and mineral extraction, including sand extraction, shall only
+be allowed in areas deeper than 10 feet below MLLW where the project sponsor
+demonstrates that mining and mineral extraction in aquatic areas is necessary
+because no feasible upland sites exist and that the project will not significantly
+impact estuarine resources. The estuary bottom at the project site shall be
+sloped so that sediments from areas shallower than 10 feet below MLLW and
+other areas not included in the project do not slough into the dredged area.
+Dredging as part of an approved dredging project which also provided fill for an
+approved fill project shall not be subject to this standard.
+12) When proposing dredging for sand extraction, the project sponsor shall first
+consider obtaining the material from a shoaled area within a federally authorized
+navigation channel that is currently shallower than its authorized depth. Said
+dredging shall be coordinated with the U.S. Army Corps of Engineers. The
+dredging depth shall not exceed the authorized channel depth plus any over-
+dredging that the Corps would normally perform while maintaining the site.
+
+Section 6.4207. Dredged Material Disposal Standards [ORD. 24-18] [ORD. 25-08]
+1) Dredged material disposal shall occur only at designated sites or at new sites
+which meet the requirements of the Dredged Material Disposal Site Selection
+Policies in Section 5.4500.
+2) In-water disposal of dredged materials, including flowlane disposal, expanded
+flowlane/thalweg disposal, shallow water placement, confined aquatic placement,
+shoreline placement, transfer sites for temporary storage of dredged material,
+beach nourishment, estuarine open-water disposal, ocean disposal, and agitation
+dredging, shall: [ORD. 25-05]
+(A) Demonstrate the need for the proposed action and that there are no
+feasible alternative disposal sites or methods that entail less damaging
+environmental impacts; and
+(B) Demonstrate that the dredged sediments meet state and federal sediment
+testing requirements and water quality standards (see Dredging Standard
+6); and
+(C) Not be permitted in the vicinity of a public water intake.
+3) In-water estuary disposal shall be coordinated with commercial fishing interests,
+including, the Oregon Department of Fish and Wildlife and the Washington
+Department of Fish and Wildlife.
+4) In-water disposal actions shall avoid impacts to commercial fishing through:
+(A) Disposal timing,
+(B) Gear placement,
+(C) Choice of disposal area within the drift, and
+(D) Disposal techniques to avoid snag placement.
+5) Flowlane disposal, expanded flowlane/thalweg disposal, shallow water
+placement, confined aquatic placement, shoreline placement, transfer sites for
+temporary storage of dredged material, estuarine open water disposal and
+agitation dredging shall be monitored to assure that estuarine sedimentation is
+
+Clatsop County Land and Water VI-28 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+consistent with the resource capabilities and purposes of affected adjacent
+natural and conservation designations. The monitoring program shall be
+established prior to undertaking disposal. The program shall be designed to both
+characterize baseline conditions prior to disposal and monitor the effects of the
+disposal. The primary goals of the monitoring are to determine if the disposal is
+resulting in measurable adverse impacts and to establish methods to minimize
+impacts. Monitoring shall include, at a minimum, physical measurements such a
+bathymetric changes and may include biological monitoring. Specific monitoring
+requirements shall be based on, at a minimum, sediment grain size at the
+dredging and disposal site, presence of contaminants, proximity to sensitive
+habitats and knowledge of resources and physical characteristics of the disposal
+site. [ORD. 25-05]
+6) Flowlane disposal shall be in zoned Aquatic Development that are identified as
+low in benthic productivity and where use of these areas shall not have adverse
+hydraulic effects. Use of flowlane disposal areas in the estuary shall be allowed
+only when no feasible alternative land or ocean disposal sites with less damaging
+environmental impacts can be identified and the biological and physical impacts
+of flowlane disposal are demonstrated to be insignificant. The feasibility and
+desirability of alternative sites shall take into account, at a minimum:
+(A) Operational constraints such as distance to the alternative sites;
+(B) Sediment characteristics at the dredging site;
+(C) Timing of the operation;
+(D) Environmental Protection Agency constraints on the use of designated
+ocean disposal sites;
+(E) The desirability of reserving some upland sites for potentially
+contaminated material.
+(F) Long term use of a flowlane disposal area may only be allowed if
+monitoring confirms that the impacts are not significant. Flowlane disposal
+is contingent upon demonstration that:
+i. Significant adverse effects due to changes in biological and
+physical estuarine properties will not result; and
+ii. Flowlane disposal areas are able to transport downstream without
+excessive shoaling, interference with recreational and commercial
+fishing operations, including the removal of snags from
+development drifts, undesirable hydraulic effects, or adverse effects
+on estuarine resources (fish runs, spawning activity, benthic
+productivity, wildlife habitat, etc.).
+7) Expanded flowlane/thalweg disposal may be permitted in Conservation Other
+Resources areas if an exception to Goal 16 has been approved. In areas where
+expanded flowlane/thalweg disposal may be allowed, the proposal shall be
+reviewed as a Type II Conditional Use using the standards in Sections 4.3730
+and 4.3750. When determining whether a proposal is within the expanded
+flowlane/thalweg disposal area covered by an approved Goal 16 exception, the
+Columbia River Estuary Thalweg map adopted by Ordinance 24-17 shall be
+
+Clatsop County Land and Water VI-29 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+consulted. It is important to note that the text descriptions and definition of
+“expanded flowlane/thalweg disposal” are the regulating boundaries of this
+exception area. Maps and GIS data layers used by the County are a
+representation of those boundaries. In cases where the informational thalweg
+map and the actual location conflict, the text descriptions and definition should be
+used to resolve any boundary confusion. [ORD. 24-18]
+8) Shallow water placement of dredged material may be conditionally permitted in
+Conservation Other Resources and Natural areas if an exception to Goal 16 has
+been approved. In areas designated Conservation Other Resources, the
+proposal shall be reviewed as a Type II Conditional Use using the standards in
+Sections 4.3740 and 4.3750. In areas designated Natural, the proposal shall be
+reviewed as a Type II Conditional Use using the standards in Sections 4.4640
+and 4.4650. [ORD. 25-05]
+9) Transfer sites for the temporary storage of dredged material may be conditionally
+permitted in areas designated Conservation Other Resources in an exception to
+Goal 16 has been approved. Transfer sites shall be reviewed as a Type II
+Conditional Use using the standards in Sections 4.3740 and 4.3750. [ORD. 25-
+05]
+10) Confined Aquatic Placement of dredged material may be conditionally permitted
+in areas designated Natural if an exception to Goal 16 has been approved.
+Confined Aquatic Placement sites shall be reviewed as a Type II Conditional Use
+using the standards in Sections 4.4640 and 4.4650. [ORD. 25-05]
+11) Shoreline placement of dredged material may be conditionally permitted in areas
+designated Natural if an exception to Goal 16 has been approved. Shoreline
+placement shall be reviewed as a Type II Conditional Use using the standards in
+Sections 4.4640 and 4.4650. [ORD. 25-05]
+12) Ocean disposal shall be conducted such that:
+(A) The amount of material deposited at a site is compatible with benthic
+productivity, other marine resources, and other uses of the area;
+(B) Interference with sport and commercial fishing is minimized;
+(C) Disposal is strictly confined to the sites designated by the U.S.
+Environmental Protection Agency; and
+(D) The disposal site does not shoal excessively or create dangerous wave
+and swell conditions.
+13) Beach nourishment shall only be conducted at sites identified in the Dredged
+Material Management Plan. New sites may be added to the Plan by amendment
+after an exception to Statewide Planning Goal 16 for the site has been approved.
+Beach nourishment shall be conducted such that:
+(A) The beach is not widened beyond its historical profile. The historical profile
+shall be defined as the widest beach profile that existed prior to June
+1986.
+(B) The material placed on the beach consists of sand of equal or greater
+grain size than the sand existing on the beach.
+(C) Placement and subsequent erosion of the materials does not adversely
+
+Clatsop County Land and Water VI-30 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+impact tidal marshes or productive intertidal and shallow subtidal areas.
+(D) Efforts are made to maintain a stable beach profile.
+(E) Dredged material is graded at a uniform slope and contoured to minimize
+juvenile fish stranding and hazards to beach users.
+(F) Use of beach nourishment sites shall be allowed only when no feasible
+land or ocean sites with less damaging environmental impacts can be
+identified. The feasibility and desirability of alternative sites shall take into
+account, at a minimum:
+i. Operational constraints such as distance to the alternative sites;
+ii. Sediment characteristics at the dredging site;
+iii. Timing of the operation;
+iv. Environmental Protection Agency constraints on the use of
+designated ocean disposal sites;
+v. The desirability of reserving some upland sites for potentially
+contaminated material.
+14) Except as noted below, land disposal and site preparation shall be conducted
+such that:
+(A) Surface runoff from disposal sites is controlled to protect water quality and
+prevent sedimentation of adjacent water bodies, wetlands, and drainage
+ways.
+(B) Disposal runoff water must enter the receiving waterway through a
+controlled outfall at a location with adequate circulation and flushing
+characteristics.
+(C) Underground springs and aquifers must be identified and protected;
+(D) Dikes are constructed according to accepted engineering standards and
+are adequate to support and contain the maximum potential height and
+volume of dredged materials at the site, and form a sufficiently large
+containment area to encourage proper ponding and to prevent the return
+of dredged materials into the waterway or estuary.
+(E) Containment ponds and outfall weirs shall be designed to maintain
+adequate standing water at all times to further encourage settling of
+dredged materials.
+(F) The dikes shall be constructed within the boundaries of the disposal site
+and shall be constructed of material obtained from within the site or other
+approved sources.
+(G) Clean dredged material placed on land disposal sites located directly
+adjacent to designated beach nourishment sites may be allowed to flow
+directly into the waterway without conforming to (A-F) of this Section,
+provided that all policies and standards for in-water disposal and beach
+nourishment are met and the dredged materials are not allowed to enter
+wetlands or the waterway in areas other than the designated beach
+nourishment site.
+15) Land disposal sites which are not intended for dredged material disposal or
+development use within a two-year period following disposal shall be revegetated
+
+Clatsop County Land and Water VI-31 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+as soon as site and weather conditions allow, unless habitat management plans
+agreed upon by resource management agencies specify that open sand areas
+should remain at the site. The applicant or project sponsor shall notify the county,
+state and federal permitting and resource management agencies when disposal
+is completed and shall coordinate revegetation with these agencies. The
+notification shall be sent to at least the following agencies:
+(A) the county,
+(B) U.S. Army Corps of Engineers,
+(C) Clatsop Soil and Water Conservation District,
+(D) Oregon Department of State Lands,
+(E) Oregon Department of Fish and Wildlife.
+16) Revegetation of a disposal site does not preclude future use of the sites for
+dredged material disposal.
+17) The disposal site design shall be reviewed to determine if wetlands or other
+habitats will form on the site during the period between disposal actions. The
+disposal permit may be conditioned to allow future disposal actions to fill the
+created wetlands or habitats.
+18) The final height and slope after each use of a land dredged material disposal site
+shall be such that:
+(A) The site does not enlarge itself by sloughing and erosion into adjacent
+areas;
+(B) Loss of materials from the site during storms and freshets is minimized;
+and
+(C) Interference with the view from nearby residences, scenic points, and
+parks does not occur.
+Section 6.4210. Filling of Aquatic Areas and Non-Tidal Wetlands [ORD. 25-08]
+1) This subsection applies to the placement of fill material in tidal wetlands and
+waters of the Columbia River Estuary. These standards also apply to fill in non-
+tidal wetlands in shoreland designations that are identified as "significant"
+wetlands under Statewide Planning Goal 17.
+2) Fill shall cover no more than the minimum necessary to accomplish the proposed
+use.
+3) Aquatic area fills using either dredged material or other easily erodible material
+shall be surrounded by appropriately stabilized dikes.
+4) Aquatic areas shall not be used for disposal of solid waste.
+5) Projects involving fill may be approved only if the following alternatives are
+examined and found to be infeasible:
+(A) Construct some or all of the project on pilings;
+(B) Conduct some or all of the proposed activity on existing uplands;
+(C) Relocate the project to an alternative site where adverse impacts are less
+significant.
+Section 6.4220. Riparian Vegetation Protection [ORD. 25-08]
+
+Clatsop County Land and Water VI-32 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+See Section 6.5000. Protection of Riparian Vegetation.
+Section 6.4230. Fish and Wildlife Habitat [ORD. 25-08]
+1) This subsection applies to uses and activities that may potentially impact fish or
+wildlife habitat in Columbia River Estuary aquatic and shoreland areas.
+2) Projects affecting endangered, threatened or sensitive species habitat, as
+identified by the US Fish and Wildlife Service or Oregon Department of Fish and
+Wildlife, shall be designed to minimize potential adverse impacts. This shall be
+accomplished by one or more of the following:
+(A) Soliciting and incorporating agency recommendations into local permit
+reviews;
+(B) Dedicating and setting aside undeveloped on-site areas for habitat;
+(C) Providing on- or off-site compensatory mitigation for lost or degraded
+habitat;
+(D) Retaining key habitat features (for example: roosting trees, riparian
+vegetation, feeding areas).
+3) In-water construction activity in aquatic areas shall follow the recommendations
+and regulations of state and federal fisheries agencies with respect to project
+timing to avoid unnecessary impacts on migratory fish.
+4) Uses and activities with the potential to adversely affect fish and wildlife habitat
+may be approved only if the following impact mitigation actions are incorporated
+into the project where feasible. These impact mitigation actions are listed from
+highest to lowest priority:
+(A) Avoiding the impact altogether by not taking a certain action or parts of an
+action;
+(B) Minimizing impacts by limiting or reducing the scope of proposed
+activities;
+(C) Rectifying the impact by repairing, rehabilitating, or restoring the affected
+environment, including removal of wetland fills or rehabilitation of a
+resource use and/or extraction site when its economic life is terminated;
+(D) Reducing or eliminating the impact over time by preservation and
+maintenance operations.
+5) Projects involving subtidal or intertidal aquatic area fill or intertidal aquatic
+dredging with the potential for adversely affecting aquatic habitat must provide
+compensatory mitigation, consistent with Mitigation and Restoration Standards
+(subsection 6.4150).
+Section 6.4240. Public Access to the Estuary and its Shoreline [ORD. 25-08]
+1) Standards in this subsection apply to all uses and activities in Columbia River
+Estuary shoreland and aquatic areas which directly or indirectly affect public
+access. "Public access" is used broadly here to include direct physical access to
+estuary aquatic areas (i.e., boat ramps), aesthetic access (i.e., viewing
+opportunities), and other facilities that provide some degree of public access to
+shorelands and aquatic areas.
+
+Clatsop County Land and Water VI-33 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+2) Projects to improve public access shall be designed to ensure that adjacent
+privately owned shoreland is protected from public encroachment or trespass.
+3) Clatsop County shall review proposals for the sale, exchange or transfer of
+publicly-owned lands that provide public access to estuarine waters using the
+provisions of ORS 271.300-271.360.
+4) Public access improvements shall minimize negative impacts to coastal
+shoreland cultural and natural resources. The County shall consult with
+appropriate state or federal agencies to implement this standard.
+5) New public developments shall provide public access to coastal shorelands,
+unless public access is unsafe or would damage cultural or natural resources.
+Section 6.4250. Significant Areas [ORD. 25-08]
+1) The standards in this subsection are intended to protect certain Columbia River
+shoreland and aquatic resources with estuary-wide significance. Significant
+shoreland and aquatic resources are identified as such in Goal 16: Estuarine
+Resources and Goal 17: Coastal Shorelands of the Comprehensive Plan.
+Significant aquatic resources are found in Natural Aquatic areas. This section
+applies only to activities and uses that potentially affect significant shoreland or
+aquatic resources. Other resources without estuary-wide significance are not
+covered by this section. Only those resources identified as significant under
+Statewide Planning Goal 17 are covered by these standards.
+2) Temporary removal of riparian vegetation may be permitted in conjunction with a
+water- dependent use where direct access to the water is required for
+construction or for a temporary use. Riparian vegetation removed for these
+reasons must be replaced upon project completion. Permanent removal of
+riparian vegetation may be approved for a water-dependent project.
+3) Permanent removal of riparian vegetation may be permitted along transportation
+rights- of-way for purposes of maintaining clear vision. Riparian vegetation that
+threatens the stability of flood control dikes may be removed.
+4) Public access to significant scenic areas shall be provided in a manner
+consistent with the preservation of the scenic area and other significant
+resources.
+5) Tidegated sloughs and drainage ditches identified as having significant aquatic
+habitat value, significant riparian vegetation, or other significant shoreland
+resource value may be maintained with respect to depth, but their bankline
+location and configuration may not be altered, unless part of an approved fill or
+shoreline stabilization project.
+6) Riparian vegetation may be removed as necessary for approved mitigation,
+restoration or creation projects.
+7) Timber may be harvested in the AN zone and adjacent riparian areas under the
+following conditions:
+(A) Any timber harvesting operations must be carried out in accordance with a
+harvest plan approved by the Oregon Department of Forestry; and
+(B) Selection of trees for harvest shall be done with consideration of retaining
+
+Clatsop County Land and Water VI-34 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+natural values.
+Section 6.4260. Water Quality Maintenance [ORD. 24-18] [ORD. 25-08]
+1) The standards in this subsection are intended to protect and enhance the quality
+of water in the Columbia River Estuary. Impacts on water quality in aquatic areas
+and in tidegated sloughs in shoreland areas are subject to these standards.
+2) Thermal effluents shall be cooled before they are returned to the estuary.
+3) The potential adverse impacts on water quality from dredging, fill, in-water
+dredged material disposal (including shoreline placement, shallow water
+placement, confined aquatic placement and transfer sites), expanded
+flowlane/thalweg disposal, water intake or withdrawal, and slip or marina
+development will be assessed during permit review. Parameters to be addressed
+include: [ORD. 25-05]
+(A) Turbidity
+(B) Dissolved oxygen
+(C) Biochemical oxygen demand
+(D) Contaminated sediments
+(E) Salinity
+(F) Water temperature
+(G) Flushing
+4) New point-source waste water discharges into the Columbia River will be
+controlled through the National Pollution Discharge Elimination System (NPDES)
+permit program.
+5) Estuarine aquatic area pesticide and herbicide application will be controlled by
+the Department of Environmental Quality, Oregon Department of Forestry and/or
+the Department of Agriculture.
+Section 6.4270. Water-Dependent and Water-Related Use Criteria [ORD. 25-08]
+1) Shoreland and aquatic zones must differentiate between water-dependent uses,
+water-related uses and non-water-dependent or non-water-related uses when
+establishing procedures and requirements for proposed uses. The level of
+development must be compatible with the purpose and characteristics of the
+shorelands and adjacent waters.
+2) Water-Dependent Uses: A use is water-dependent when it can only be
+accomplished on, in, or adjacent to water, or direct water access is required for
+any of the following:
+(A) Waterborne transportation such as navigation, moorage, fueling and
+servicing of ships or boats; terminal and transfer facilities; fish or other
+material receiving and shipping, or;
+(B) Recreation active recreation such as swimming, boating and fishing or
+passive recreation such as viewing and walking, or;
+(C) A source of water for energy production, cooling of industrial equipment or
+wastewater, other industrial processes, or aquaculture operations, or;
+(D) Marine research or education such as observation, sampling, recording
+
+Clatsop County Land and Water VI-35 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+information, conducting field experiments and teaching.
+2) Water-Related Uses: A use is water-related when it:
+(A) Provides goods and/or services that are directly associated with water-
+dependent uses, supplying materials to, or using products of water-
+dependent commercial and industrial uses; or offering services directly
+tied to the functions of water-dependent uses; and
+(B) If not located adjacent to water, would experience a public loss of quality
+in the goods and services offered. Evaluation of public loss of quality will
+involve subjective consideration of economic, social and environmental
+value.
+
+SECTION 6.5000. PROTECTION OF RIPARIAN VEGETATION
+Section 6.5005. Definitions
+The following definitions apply to this section.
+3) COASTAL SHORELANDS – Those are immediately adjacent to the ocean,
+estuaries, associated wetland and coastal lakes. The extent of shorelands shall
+include at least:
+(A) Areas subject to ocean flooding and lands within 100 feet of the ocean
+shore or within 50 feet of an estuary or coastal lake;
+(B) Adjacent areas of geologic instability where geologic instability is related
+or will impact a coastal water body;
+(C) Natural or human-made riparian resources, especially vegetation
+necessary to stabilize the shoreline and to maintain water quality and
+temperature necessary for the maintenance of fish habitat and spawning
+areas;
+(D) Areas of significant shoreland and wetland biological habitats whose
+habitat quality is primarily derived from or related to the association with
+coastal water areas;
+(E) Areas necessary for water-dependent and water-related uses including
+areas of recreational importance which utilize coastal water or riparian
+resources; areas appropriate for navigation and port facilities; dredged
+material disposal and mitigation sites, and areas having characteristics
+suitable for aquaculture;
+(F) Areas of exception aesthetic or scenic quality, where the quality is
+primarily derived from or related to the association with coastal water
+areas;
+(G) Coastal headlands;
+(H) Dikes and their associated inland toe drains; and
+(I) Locations of archaeological or historical importance associated with the
+estuary.
+4) RIPARIAN – of, pertaining to, or situated on the edge of the bank of a river or
+other body of water.
+5) SIGNIFICANT SHORELAND RESOURCES – Are described in subarea plans,
+and are included in the Coastal Shorelands boundaries. Significant shoreland
+
+Clatsop County Land and Water VI-36 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+resources include significant non-tidal wetlands, significant shoreland fish and
+wildlife habitat, significant riparian vegetation, exceptional aesthetic resources
+and coastal headlands.
+[ORD. 25-02]
+Section 6.5010. Purpose and Areas Included [ORD. 25-08]
+Riparian vegetation is important for maintaining water temperature and quality,
+providing bank stabilization, thus minimizing erosion, providing habitat for the feeding,
+breeding, and nesting of aquatic and terrestrial wildlife species, and protecting and
+buffering the aquatic ecosystem from human disturbances. This section establishes
+standards to protect riparian vegetation on lands not subject to the requirements of the
+Oregon Forest Practices Act.
+
+Section 6.5015. Areas of Riparian Vegetation [ORD. 25-08]
+1) Areas of riparian vegetation are established as follows:
+(A) Estuarine and Coastal Shoreland rivers and sloughs: a 50-foot-wide
+riparian vegetation shall be maintained, except where shown on the
+County's estuarine resource base maps.
+(B) Lakes, reservoirs, and river segments outside of Estuarine or Coastal
+Shoreland areas: a 50-foot-wide riparian vegetation zone shall be
+maintained. Where emergent wetland vegetation exists adjacent to a lake,
+reservoir, or river segment, the 50-foot buffer shall be measured from the
+landward extent of the emergent wetland area. If a shrub or forested
+wetland area exists adjacent to the lake, reservoir or river segment, the
+zone of riparian vegetation shall be the entire area of the shrub or forested
+wetland.
+(C) Measurements are taken horizontally and perpendicular from the mean
+higher high water line and from the ordinary high water line in non-
+estuarine areas.
+Section 6.5020. Development Standards [ORD. 25-02] [ORD. 25-08]
+1) All development, as defined by LAWDUC section 1.0500, shall be located
+outside of riparian vegetation areas defined in 6.5000 above, unless direct water
+access is required in conjunction with a water-dependent or water-related use or
+as otherwise allowed by this Ordinance.
+2) Because the zone of riparian vegetation is uniform in width it may in particular
+locations include pasture land, land managed for agricultural crops, landscaped
+area or unvegetated areas which do not function as riparian vegetation. The
+applicant is entitled to undertake an independent site investigation to establish
+the extent of riparian vegetation requiring protection.
+3) Exemptions from (1) and (2) above and from the applicable setback requirement
+for the front or rear yard that is opposite the riparian area may be granted without
+a variance for uses on:
+(A) Lots or parcels located in areas identified in the Comprehensive Plan's
+
+Clatsop County Land and Water VI-37 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+Goal 2 exception element as "built and committed" and which existed as
+of the date of adoption of this ordinance (September 30, 1980), and single
+family residential “lots of record” as defined and used in Section 1.0500 of
+this ordinance, when the building envelope created by applying the
+front/rear yard setback and the riparian setback is less than 45 feet deep.
+(B) Exemptions from the riparian setback shall be the minimum necessary to
+accommodate the proposed use, but in no case shall the front/rear yard
+opposite the riparian area be reduced to a width of less than ten feet.
+4) Vegetation within the riparian setback shall be maintained with the following
+exceptions:
+(A) The removal of dead, diseased or dying trees that pose and erosion or
+safety hazard.
+(B) Vegetation removal to provide direct water access to the Columbia River
+Estuary for an approved water-dependent or water-related use that meets
+the criteria in Section 6.4270.
+(C) Removal of vegetation necessary for the placement of structural shoreline
+stabilization.
+(D) Removal of noxious weeds and replacement of non-native vegetation with
+native vegetation. Replacement of non-native vegetation shall require the
+submittal of a planting plan identifying the following:
+i. Vegetation to be removed
+ii. Vegetation to be planted
+iii. Required actions that will be taken by the property owner or
+designee to ensure that the replacement vegetation will survive for
+a period of 5 years
+iv. Guarantee to replace any vegetation that dies during the five-year
+period
+(E) All vegetation removal and replacement shall be done by hand.
+5) As an alternative to compliance with the above standards, the applicant may
+undertake an independent site investigation to establish the extent of riparian
+vegetation requiring protection. The independent site investigation shall be
+conducted at the property owner’s expense. Based upon the findings of the
+investigation, the comprehensive plan shall be amended to revise the boundaries
+of inventoried riparian areas based upon the investigation findings.
+6) The requirements of this section shall not apply to actions covered by the Oregon
+Forest Practices Act.
+
+SECTION 6.6000. AGRICULTURAL AND TIMBERS STANDARDS WITHIN A GOAL 5
+WETLAND
+Section 6.6010. Standards for Low Intensity, Non-Structural Agricultural Uses
+within a Goal 5 Wetland
+1) No man-made forms of drainage to be employed.
+2) A 50-foot strip of natural vegetation shall be left along any year round standing or
+running water area.
+
+Clatsop County Land and Water VI-38 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+3) The number of animals to be grazed on a parcel and the times of year they will
+be on the parcel shall be set out in the permit. The applicant must show that the
+area has the carrying capacity for the number of animals proposed without major
+modifications to the parcel and without significantly affecting the integrity of the
+wetland area.
+Section 6.6020. Standards for Selective Harvesting of Timber Within a Goal 5
+Wetland
+1) Any harvesting of timber shall be according to a plan approved with the
+Conditional Use Permit.
+2) Selection of trees to harvest shall be done with consideration of retaining wetland
+values.
+3) Exemptions from (1) and (2) above and from the applicable setback requirement
+for the front or rear yard that is opposite the riparian area may be granted without
+a variance for uses on:
+(A) Lots located in areas identified in the Comprehensive Plan's Goal 2
+exception element as "built and committed" and which existed as of the
+date of adoption of this ordinance, and single-unit residential "lots of
+record" as defined and used in Chapter 884 Oregon Laws 1981 as
+amended, where the lot depth resulting from the riparian setback and the
+opposite front/rear yard setback is less than 45 feet. [ORD. 25-16]
+(B) Other lots in identified "built and committed" areas and other "lots of
+record" where the combination of setbacks required by this section result
+in a buildable lot depth of less than 45 feet.
+
+Exemptions from the riparian setback shall be the minimum necessary to
+accommodate the proposed use after the yard opposite the riparian area
+has been reduced to a width of no less than ten feet.
+
+SECTION 6.7000. DEVELOPMENT OF HISTORIC AND/OR ARCHEOLOGICAL
+SITES
+Section 6.7010. Development of Historic and/or Archeological Sites
+1) No development shall be allowed on land which has been identified as a
+historical- archeological site without review and approval by the Director and
+appropriate agencies. Development adjacent to lands identified as historical-
+archeological sites shall be subject to the Director's review and shall not
+adversely impact the adjacent historical- archeological site.
+2) The County shall work with the local Historical Advisory Committee and other
+organizations to identify and protect important local historical and archeological
+sites. Compatible uses and designs of uses should be encouraged for property
+adjacent to important historical or archeological sites.
+3) Clatsop County shall protect significant historical resources by:
+(A) encouraging those programs that make preservation economically
+
+Clatsop County Land and Water VI-39 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+possible;
+(B) implementing measures for preservation when possible;
+(C) recognizing such areas in public and private land use determinations
+subject to County review.
+Section 6.7020. Historic Site Protection
+The following regulations apply to historic structures and sites identified in the
+Comprehensive Plan as having potential conflicting uses (Tillamook Rock Lighthouse,
+the Morrison House, the Clatsop Plains Memorial Church, and the Westport Log
+Tunnel).
+1) The Community Development Director shall review, under Type II procedure, all
+building permit applications that propose the following changes to a historic
+building: exterior alterations (except painting), additions to the building, and
+construction of auxiliary buildings.
+2) The Community Development Director shall review under a Type II procedure, all
+proposed activities that may alter the character of historic sites.
+3) The Community Development Director shall notify the Clatsop County Historical
+Society and the State Historic Preservation Office of the proposed alterations.
+Comments received on the compatibility of a proposed alteration with the
+maintenance of a historic building or site's character shall be considered by the
+Community Development Director in making his determination.
+4) The Community Development Director shall consider the following criteria in
+conducting this review:
+(A) Compatibility of the proposed alteration with the site's historical character
+(B) Use of exterior material and details that are consistent with the building's
+historic character
+(C) The maintenance of the building's predominant architectural features.
+5) The Community Development Director shall review under a Type II procedure all
+demolition permits for historic buildings.
+6) The Community Development Director shall notify the Clatsop County Historical
+Society and the State Historical Preservation Office of the proposed demolition.
+7) The Community Development Director shall consider the following criteria in
+conducting his review of a demolition permit:
+(A) The state of repair of the building
+(B) The feasibility of restoring or moving the building
+(C) The interest of public or private individuals or groups in the structure
+8) The Community Development Director may approve the issuance of a demolition
+permit, or may deny an application based on adequate findings of fact that the
+demolition would be detrimental to the County's historical heritage. In order to
+obtain additional information, the Community Development Director may suspend
+the application for a demolition permit for a period not to exceed 120 days.
+During this period, the Community Development Director shall attempt to
+determine if public or private acquisition and restoration is feasible, or other
+alternatives are possible which could be carried out to prevent demolition of the
+
+Clatsop County Land and Water VI-40 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+structure. If, during this period a feasible alternative is found, the Community
+Development Director may extend the suspension of the application for a period
+not to exceed one year. If no significant activities are undertaken during the one-
+year period toward the acquisition of the structure, the suspension shall expire
+and the demolition permit shall be issued by the Building Official, subject to other
+pertinent requirements.
+Section 6.7030. Archeological Site Protection
+1) The Community Development Director and Building Official shall review building
+permits, excavation permits or other land use actions that may affect known
+archeological sites. If it is determined that a proposed building permit, excavation
+permit or other land use action may affect the integrity of an archeological site,
+the Community Development Director shall consult with the State Historic
+Preservation Office on appropriate measures to preserve or protect the site and
+its contents. No permit shall be issued until either the State Historic Preservation
+Office determines that the proposed activity will not adversely affect the
+archeological site, or the State Historic Preservation Office has developed a
+program for the preservation or excavation of the site.
+2) Indian cairns, graves and other significant archeological resources uncovered
+during construction or excavation shall be preserved intact until a plan for their
+excavation or reinternment has been developed by the State Historic
+Preservation Office.
+
+SECTION 6.8000. ROCK AND MINERAL RESOURCE USE
+Section 6.8010. Purpose. Development Standards - Extraction Area
+A development plan shall be submitted to the County Community Development
+Department for any activity allowed as a conditional use. The development plan shall
+provide the necessary documents, permits, and maps to demonstrate compliance with
+the following standards and requirements:
+1) Screening and Fencing.
+(A) An earthen berm and buffer of existing or planted trees or vegetation shall
+be maintained to fully screen the view of any mineral and aggregate
+activity and all related equipment from any public road, public park, or
+residence within 1000 feet. Where screening is shown to be impractical
+because of topography or other physical characteristics of the site, the
+screening requirements may be waived by the Community Development
+Director.
+(B) Sight obscuring fencing or approved barrier type shrubs shall be required
+to eliminate any safety hazards that use of the site may create. Fencing, if
+required, shall be sight obscuring and a minimum of six (6) feet high.
+2) Access.
+(A) All private access roads from mineral and aggregate sites to public roads
+shall be paved or graveled. If graveled, the access road shall be graded
+and maintained as needed to minimize dust.
+
+Clatsop County Land and Water VI-41 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+(B) Improvement or fees in lieu of improvements of public roads, County
+roads and state highways may be required when the Community
+Development Director or hearings body, in consultation with the
+appropriate road authority, determines that the increased traffic on the
+roads resulting from the surface mining activity will damage the sufficiently
+to warrant off-site improvement. If the fee in lieu of improvements is
+required, the amount of the fee shall reflect the applicant's pro-rata share
+of the actual total cost of the capital expenditure of the road construction
+or reconstruction project necessitated by and benefiting the surface mining
+operation. Discounts for taxes and fees already paid for such
+improvements, such as road taxes for vehicles and for property already
+dedicated or improved, shall be applied.
+(C) Any internal road at a mineral and aggregate site within 250 feet of a
+Sensitive Use shall be paved or graveled, and shall be maintained at all
+times to reduce noise and dust in accordance with County or DEQ
+standards specified in the ESEE analysis.
+(D) An effective vehicular barrier or gate shall be required at all access points
+to the site.
+3) Hours of Operation.
+(A) Blasting shall be restricted to the hours of 8:00 a.m. to 5:00 p.m. Monday
+through Friday. No blasting shall occur on Saturdays, Sundays, or any
+recognized legal holiday.
+(B) Mineral and aggregate extraction, drilling, processing and equipment
+operation located within 1000 feet of a Sensitive Use is restricted to the
+hours of 7:00 a.m. to 6:00 p.m. Monday through Friday, and 8:00 a.m. to
+5:00 p.m. Saturday. All other sites are limited to operating hours of 7:00
+a.m. to 10:00 p.m. Monday through Saturday. No operation shall occur on
+Sundays or recognized legal holidays.
+(C) An increase in operating time limits shall be granted for all activities except
+blasting if:
+1. There are no Sensitive Uses within 1000 feet of the mining site; or if
+2. There are Sensitive Uses within 1000 feet, the increased activity
+will not exceed noise standards established by the County or DEQ;
+and
+3. The operator shall notify the owners and occupants of all Sensitive
+Uses within 1000 feet by first class mail which is mailed at least 96
+hours prior to the date and approximate time of the activity for
+which the operator receives an exception.
+(D) The operating time limits may be waived in the case of an emergency as
+determined by the County governing body.
+4. Environmental Standards.
+(A) DEQ Standards. Mineral and aggregate extraction, processing and other
+operations shall conform to all applicable environmental standards of the
+County and State. Any crusher, asphalt, concrete, ready-mix or other
+
+Clatsop County Land and Water VI-42 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+machinery shall submit an approved DEQ permit(s) at the time of
+development plan application.
+(B) DOGAMI Standards. Mineral and aggregate extraction, processing, other
+operations and site reclamation shall conform to the requirements of the
+Department of Geology and Mineral Industries (DOGAMI).
+(C) Permits Required. Mining shall not commence until all applicable State
+and Federal permits, if any, are provided to the County.
+5) Equipment Removal. All surface mining equipment, machinery, vehicles,
+buildings, man- made debris and other material related to the mineral and
+aggregate activity shall be removed from the site within 30 days of completion of
+all mining, processing and reclamation, except for structures which are permitted
+uses in the underlying zone.
+6) Performance Agreement.
+(A) The operator of a mineral and aggregate site shall provide the County with
+annual notification of DOGAMI permits.
+(B) Mineral and aggregate operations shall be insured for $500,000.00
+against liability and tort arising from production activities or operations
+incidental thereto conducted or carried on by virtue of any law, ordinance
+or condition, and such insurance shall be kept in full force and effect
+during the period of such operations. a prepaid policy of such insurance
+which is effective for a period of one year shall be deposited with the
+County prior to commencing any mineral and aggregate operations. The
+owner or operator shall annually provide the County with evidence that the
+policy has been renewed.
+7) Significant Resource Area Protection. Conflicts between inventoried mineral and
+aggregate resource sites and significant fish and wildlife habitat, riparian areas
+and wetlands, and ecologically and scientifically significant natural areas and
+scenic areas protected by the Clatsop Plains Community Plan or other provision
+of the County Comprehensive Plan, shall be addressed in the application and
+findings for the conditional use.
+8) Site Reclamation. a reclamation plan shall be submitted concurrently with the
+development plan required in Section 5.4645. The reclamation plan shall include
+a schedule showing the planned order and sequence of reclamation, shall assure
+that the site will be restored or rehabilitated for the land uses anticipated after the
+quarry operation, and shall meet DOGAMI requirements.
+9) Water Management.
+(A) Surface water shall be managed in a manner which meets all applicable
+DEQ, DOGAMI, and ODFW water quality standards. Approval may be
+conditioned upon meeting such standards by a specified date. Discharge
+across public roads shall be prohibited. Existing natural drainages on the
+site shall not be changed in a manner which substantially interferes with
+drainage patterns on adjoining property, or which drains waste materials
+or waste water onto adjoining property or perennial streams. Where the
+mineral and aggregate operation abuts a lake, river, or perennial stream,
+
+Clatsop County Land and Water VI-43 April 23, 2026
+Development and Use Code      Ord. 25-08 and Ord. 25-16
+ARTICLE 6. ENVIRONMENAL AND
+RESOURCE PROTECTION
+all existing vegetation within 100 feet of the mean high water mark shall be
+retained unless otherwise authorized in accordance with the ESEE
+analysis and the development plan.
+(B) All water required for the mineral and aggregate operation, including dust
+control, landscaping and processing of material, shall be legally available
+and appropriated for such use. The applicant shall provide written
+documentation of water rights from the State Department of Water
+Resources and/or local water district prior to any site operation.
+10) Floodplain. Any quarry operation located wholly or in part in a Special Flood
+Hazard Area as shown on the Federal Insurance Rate Map (FIRM) shall receive
+approval in accordance with Section 5.1000 of this Ordinance prior to any site
+operation.

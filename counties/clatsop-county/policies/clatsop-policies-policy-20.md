@@ -1,0 +1,175 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-policies-policy-20
+title: 'Policy-20'
+doc_type: policy
+citation: 'Policy-20'
+authority_level: county_policy
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://clatsopcounty.gov/DocumentCenter/View/2270/Policy-20
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 77ef7bc4cf8c30b177760ff9353f21987c7dc600df4960faf724ab3041d00eb0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clatsop-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Policy-20 (Policy-20)
+
+## At a glance
+
+Policy-20 — policies of Clatsop County. 3 pages.
+
+## Full text
+
+09/21/2012  CLATSOP COUNTY Policy A20  Page 1
+ADMINISTRATIVE POLICY & PROCEDURE
+SUBJECT:  Tobacco-Free Campus
+
+Date: November 14, 2003 Revised:  September 21, 2012
+
+I. PURPOSE
+
+Clatsop County, mindful of its public leadership role and as a provider of health
+care and promoter of well-being of the community, is committed to providing a
+tobacco-free work environment to protect the health, welfare and comfort of
+County employees and visitors to buildings and grounds of County campuses.
+
+II. POLICY
+
+A.  Use of  tobacco products is prohibited on all County campuses owned
+or leased by Clatsop County and on any property defined as a County
+Campus.
+
+1. Tobacco Product means cigarettes, cigars, pipes and other
+smoking products, dip, chew, snuff, snus and any other smokeless
+tobacco product, and nicotine delivery devises such as electronic
+cigarettes, excluding FDA-approved nicotine replacement therapy
+products for the purpose of tobacco cessation.
+
+2. County Campus as defined in County Code Chapter 8.6 (Ordinance
+2012-07) means all land, buildings and parking lots at the County
+Service Building, 800 and 820 Exchange Street, Astoria, Oregon;
+the Boyington Building, 857 Commercial St., Astoria, Oregon; and
+the Public Works Building and shop, 1100 and 1196 Olney Avenue,
+Astoria, Oregon
+
+B. Use of tobacco products is prohibited on the county campus and within
+50 feet of any county facility.
+
+1. Tobacco Product means cigarettes, cigars, pipes and other
+smoking products, dip, chew, snuff, snus and any other smokeless
+tobacco product, and nicotine delivery devises such as electronic
+cigarettes, excluding FDA-approved nicotine replacement therapy
+products for the purpose of tobacco cessation.
+
+CLATSOP COUNTY ADMINISTRATIVE POLICY AND PROCEDURE NO. A-20
+09/21/2012  CLATSOP COUNTY Policy A20  Page 2
+ADMINISTRATIVE POLICY & PROCEDURE
+2. County facility means any enclosed space that is operated, owned,
+leased or rented by Clatsop County, as in Section VI of this policy.
+It includes buildings, portions of buildings, equipment, machinery
+and motor vehicles, owned, rented or leased by the County.
+
+C.  Signage will be visible upon entering any county property stating that
+tobacco use is prohibited.
+
+D.  Employees who choose to use tobacco must do so on their regularly
+scheduled breaks or meal periods.
+
+III. PROCEDURES AND GUIDELINES
+
+Employees are expected to exercise common courtesy and to respect the needs
+and sensitivities of coworkers and visitors with regard to our tobacco policy.
+
+Tobacco users have an obligation to keep tobacco-use areas litter-free.
+
+Every employee benefits from a tobacco-free workplace environment.  The
+success of this policy depends upon the thoughtfulness, consideration and
+cooperation of tobacco users and non-tobacco users. The enforcement of this
+policy is a responsibility of all Clatsop County employees.
+
+IV. VIOLATIONS
+A. Violations of this policy by employees will be handled in the same
+manner as other job performance issues.
+
+B. Any County employee who observes an employee acting in violation of
+this policy shall notify his/her supervisor or department head, who in
+turn shall notify the violator’s supervisor or department head of the
+violation.
+
+i. Upon notification or personal observation of a violation of this
+policy by a County employee, the supervisor or department
+head of the employee will address the issue with that employee
+following county policies.
+
+C. Violations of this policy by persons who are not County employees
+shall be reported to a department head or the Human Resources
+Director.
+
+i. The department head or the Human Resources Director is
+responsible for informing the violator of this policy.
+
+09/21/2012  CLATSOP COUNTY Policy A20  Page 3
+ADMINISTRATIVE POLICY & PROCEDURE
+D. County employees may approach and inform anyone who violates this
+policy.
+
+E.  Any other complaints regarding tobacco-use on County facilities
+should be directed to the appropriate Department Head or Supervisor.
+
+V. CESSATION SUPPORT
+
+A. The County shall provide tobacco cessation resource
+information to employees who request it.
+
+B.  Employees and visitors may contact the Health & Human
+Services Department for information regarding the effects of
+tobacco use; self-help materials and resources for cessation.
+Where possible, these materials may be available in display
+areas.
+
+C.  Employees may contact Human Resources regarding the
+availability of tobacco- related cessation support programs.
+
+VI.  * DEFINITION OF FACILITY LOCATIONS:
+
+• Public Works administration offices and Astoria shop, 1100 Olney Avenue,
+Astoria.
+
+• County Public Services Buildings 800 and 820, located at 800 and 820
+Exchange Streets, Astoria.
+
+• Community Corrections,  988 Commercial Street, Astoria.
+
+• County Courthouse, 749 Commercial Street, Astoria.
+
+• Sheriff’s Office,  355 Seventh Street, Astoria.
+
+• County Jail, 636 Duane Street, Astoria.
+
+• Marine Patrol boat slip
+
+• Columbia River sheriff’s substation and Public Works Svensen Shop,
+92435 Svensen Market Road.
+
+• Nehalem Valley sheriff’s substation and Public Works Jewell Shop, 79532
+Oregon Highway 202, Jewell.

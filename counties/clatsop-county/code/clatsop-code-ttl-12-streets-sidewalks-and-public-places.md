@@ -1,0 +1,2103 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-code-ttl-12-streets-sidewalks-and-public-places
+title: 'Ttl 12: Streets, Sidewalks and Public Places'
+doc_type: ordinance
+citation: 'Ttl 12: Streets, Sidewalks and Public Places'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://ecode360.com/44305165
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 61599237033a1358047fe55c2bb0a051bd678c1138ebcdecce98988e9d4e3880
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clatsop-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ttl 12: Streets, Sidewalks and Public Places (Ttl 12: Streets, Sidewalks and Public Places)
+
+## At a glance
+
+Ttl 12: Streets, Sidewalks and Public Places — code of Clatsop County. 8111 characters.
+
+## Full text
+
+Title 12: Streets, Sidewalks and Public Places - Clatsop County, OR 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to content 
+ 
+ 
+ 
+ 
+ 
+ home 
+ Home 
+ 
+ 
+ 
+ 
+ code 
+ 
+ Code
+ 
+ 
+ 
+ 
+ 
+ 
+ Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ law 
+ Laws (0) 
+ 
+ 
+ 
+ 
+ 
+ New Laws (0) 
+ 
+ 
+ 
+ 
+ Law Ledger (0) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ help_center 
+ 
+ Help
+ 
+ 
+ 
+ 
+ 
+ 
+ Help 
+ 
+ 
+ 
+ 
+ About Us 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ ecode 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ search 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clatsop County, OR
+ 
+ chevron_right 
+ 
+ chevron_right 
+ Code of Ordinances 
+ chevron_right 
+ Title 12 Streets, Sidewalks and Public Places 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Title 12
+ 
+ 
+Streets, Sidewalks and Public Places 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.04
+ 
+ 
+WAYS OF NECESSITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.04.010
+ 
+ 
+Removal of jurisdiction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.08
+ 
+ 
+RESTRICTING CERTAIN USES ON COUNTY ROADS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.010
+ 
+ 
+Authority of Director of Public Works. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.020
+ 
+ 
+Adoption of certain state standards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.030
+ 
+ 
+Certain County roads immediately affected—Inclusion of other roads—Removal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.040
+ 
+ 
+Signs to be posted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.050
+ 
+ 
+Permit requirements, procedure and fees. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.060
+ 
+ 
+Weighing of vehicles on roadway. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.070
+ 
+ 
+Fees. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.080
+ 
+ 
+Carrying permit in vehicle. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.090
+ 
+ 
+Exceptions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.08.100
+ 
+ 
+Penalties. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.12
+ 
+ 
+COUNTY ROAD EVENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.010
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.020
+ 
+ 
+Permits. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.030
+ 
+ 
+Application for permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.040
+ 
+ 
+Issuance or denial of permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.050
+ 
+ 
+Contents of permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.060
+ 
+ 
+Review procedure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.070
+ 
+ 
+Large events. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.080
+ 
+ 
+Termination or restriction of event. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.090
+ 
+ 
+Hold harmless. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.100
+ 
+ 
+Costs and expenses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.110
+ 
+ 
+Deposit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.120
+ 
+ 
+Compliance with laws. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.130
+ 
+ 
+Conditions in permits. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.12.140
+ 
+ 
+Penalty. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.16
+ 
+ 
+COUNTY ROAD NAMING AND RURAL ADDRESSING 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.010
+ 
+ 
+Findings and purpose. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.020
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.030
+ 
+ 
+Authority to assign and change address numbers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.040
+ 
+ 
+Procedures and standards for assigning new address numbers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.050
+ 
+ 
+Procedures and standards for changing existing address numbers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.060
+ 
+ 
+Property owner responsibility. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.070
+ 
+ 
+Authority to name roads. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.080
+ 
+ 
+Unnamed roads. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.090
+ 
+ 
+Procedures for naming new roads. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.100
+ 
+ 
+Procedures and standards for changing existing road names. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.110
+ 
+ 
+Road sign standards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.120
+ 
+ 
+Discretion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.130
+ 
+ 
+Fees. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.16.140
+ 
+ 
+Enforcement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.20
+ 
+ 
+ACCEPTANCE OF RIGHT-OF-WAY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.20.010
+ 
+ 
+Scope. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.20.020
+ 
+ 
+Submission of requests to dedicate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.20.030
+ 
+ 
+Acceptance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.24
+ 
+ 
+STANDARDS FOR ACCESS PERMITS AND OTHER ACTIVITIES OCCURRING IN PUBLIC ROADWAYS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.010
+ 
+ 
+Purpose. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.020
+ 
+ 
+Authority. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.030
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.040
+ 
+ 
+Interpretation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.045
+ 
+ 
+Commercial use in rights-of-way—Prohibited. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.050
+ 
+ 
+Work in rights-of-way—Permit required—Conditions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.060
+ 
+ 
+Exceptions to certain requirements—Interpretation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.070
+ 
+ 
+Signs, billboards, symbols, notices, advertisements or directional guides. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.080
+ 
+ 
+General requirement for approach permits. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.090
+ 
+ 
+Change in use of approach road—Permit required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.100
+ 
+ 
+Alteration and removal of vegetation in County road rights-of-way. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.110
+ 
+ 
+Review of permit applications. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.120
+ 
+ 
+Permit fees and classifications. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.130
+ 
+ 
+Allocation of costs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.140
+ 
+ 
+Liability and control. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.150
+ 
+ 
+Insurance and bond. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.160
+ 
+ 
+Effective period of permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.170
+ 
+ 
+Construction and location details. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.180
+ 
+ 
+Adoption of state standards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.190
+ 
+ 
+Removal, relocation and repair. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.200
+ 
+ 
+Other agencies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.24.210
+ 
+ 
+Violations—Removal or correction of installations—Prosecution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.28
+ 
+ 
+PARK RULES AND REGULATIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.010
+ 
+ 
+Purpose. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.020
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.030
+ 
+ 
+Park restrictions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.040
+ 
+ 
+Restricted areas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.050
+ 
+ 
+Overnight camping. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.060
+ 
+ 
+Concessions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.070
+ 
+ 
+Fees. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.28.080
+ 
+ 
+Enforcement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.32
+ 
+ 
+SPECIAL EVENTS IN COUNTY PARKS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.010
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.020
+ 
+ 
+Permit required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.030
+ 
+ 
+Application for permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.040
+ 
+ 
+Issuance or denial of permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.050
+ 
+ 
+Contents of permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.060
+ 
+ 
+Review procedure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.070
+ 
+ 
+Revocation of permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.080
+ 
+ 
+Indemnity and insurance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.090
+ 
+ 
+County cost. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.100
+ 
+ 
+Deposit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.110
+ 
+ 
+Compliance with laws. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.32.120
+ 
+ 
+Penalty. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 12.36
+ 
+ 
+SOCIAL GATHERINGS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.36.010
+ 
+ 
+Administration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.36.020
+ 
+ 
+Permits. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.36.030
+ 
+ 
+Permit process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.36.040
+ 
+ 
+Operation of social gatherings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 12.36.050
+ 
+ 
+Enforcement and penalties. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By using eCode360 you agree to be legally bound by the Terms of Use and Privacy Policy .

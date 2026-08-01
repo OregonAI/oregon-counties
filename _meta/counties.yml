@@ -211,7 +211,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.columbiacountyor.gov
-  built: false
+  built: true
 - slug: lincoln-county
   name: Lincoln County
   short_name: Lincoln
@@ -221,7 +221,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.co.lincoln.or.us
-  built: false
+  built: true
 - slug: clatsop-county
   name: Clatsop County
   short_name: Clatsop
@@ -231,7 +231,7 @@ counties:
   governing_body: board
   home_rule: charter
   source_url: https://clatsopcounty.gov
-  built: false
+  built: true
 - slug: malheur-county
   name: Malheur County
   short_name: Malheur
@@ -241,7 +241,7 @@ counties:
   governing_body: county-court
   home_rule: general-law
   source_url: https://www.malheurco.org
-  built: false
+  built: true
 - slug: crook-county
   name: Crook County
   short_name: Crook
@@ -251,7 +251,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://crookcountyor.gov
-  built: false
+  built: true
 - slug: tillamook-county
   name: Tillamook County
   short_name: Tillamook
@@ -271,7 +271,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.wascocountyor.gov
-  built: false
+  built: true
 - slug: union-county
   name: Union County
   short_name: Union
@@ -292,6 +292,8 @@ counties:
   home_rule: general-law
   source_url: https://www.jeffersoncountyor.gov
   built: false
+  deferred: cloudflare-challenge
+  deferred_reason: 'jeffco.net / the county''s eCode360 migration both return HTTP 403 Cloudflare managed challenge to an honestly-identified agent (re-checked 2026-08-01)'
 - slug: hood-river-county
   name: Hood River County
   short_name: Hood River

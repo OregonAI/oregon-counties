@@ -1,0 +1,216 @@
+group: malheur
+title: Malheur County sources
+county: malheur-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: 'The county''s own site states no AI-agent directive and serves the honest agent HTTP 200; those
+    families are taken. The CODE is a different matter: American Legal names ClaudeBot and GPTBot with
+    Disallow: / and Content-Signal: ai-train=no, AND returns 403 to the honest agent — so the block is
+    at the HTTP layer, not just in a directives file, and getting past it would mean misrepresenting what
+    we are. Code family recorded unavailable.'
+  hosts:
+  - host: www.malheurco.org
+    robots_url: https://www.malheurco.org/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: County's own WordPress site. 200 to the honest agent.
+  - host: codelibrary.amlegal.com
+    robots_url: https://codelibrary.amlegal.com/robots.txt
+    ai_block: true
+    content_signal: ai-train=no
+    notes: 'American Legal. Names ClaudeBot and GPTBot Disallow: /. Returns 403 to the honest agent —
+      NOT fetched, and not retried in disguise.'
+last_checked: '2026-07-31'
+upstream_signal: No feed. WordPress upload paths are dated by year/month, so a new document appears as
+  a new upload path in the relevant department page.
+sources:
+- id: malheur-land-use-planning-fees
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Planning/Documents/Planning-Fees.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Planning-Fees
+  last_checked: '2026-07-31'
+- id: malheur-land-use-comp-plan-1985-updated-goal-3-formatted
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Planning/Documents/Comp-Plan-1985-Updated-Goal-3-formatted.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Comp-Plan-1985-Updated-Goal-3-formatted
+  last_checked: '2026-07-31'
+- id: malheur-land-use-surveyors-list-2025-05-09
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Surveyor/SURVEYORS_List_2025-05-09.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: SURVEYORS List 2025-05-09
+  last_checked: '2026-07-31'
+- id: malheur-land-use-2026-schedule
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Planning/Documents/2026/2026-Schedule.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 2026-Schedule
+  last_checked: '2026-07-31'
+- id: malheur-land-use-2026-schedule-brh
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Planning/Documents/2026/2026-Schedule-BRH.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 2026-Schedule-BRH
+  last_checked: '2026-07-31'
+- id: malheur-land-use-members
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Planning/Documents/Members.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Members
+  last_checked: '2026-07-31'
+- id: malheur-land-use-complete-comp-plan-1
+  url: http://www.malheurco.org/wp-content/uploads/Complete-Comp.-Plan-1.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Complete-Comp.-Plan-1
+  last_checked: '2026-07-31'
+- id: malheur-land-use-campsite-removal-policy
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/PUBLIC_NOTICES/Campsite-Removal-Policy.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Campsite-Removal-Policy
+  last_checked: '2026-07-31'
+- id: malheur-land-use-ordinance-210-marijuana
+  url: http://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/Ordinance_210_Marijuana.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Ordinance 210 Marijuana
+  last_checked: '2026-07-31'
+- id: malheur-land-use-82349981810205
+  url: http://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/82349981810205.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: '82349981810205'
+  last_checked: '2026-07-31'
+- id: malheur-land-use-ordinance228
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/PUBLIC_NOTICES/Ordinance228.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Ordinance228
+  last_checked: '2026-07-31'
+- id: malheur-land-use-public-meetings-law-grievance-process
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/PUBLIC_NOTICES/PUBLIC-MEETINGS-LAW-GRIEVANCE-PROCESS.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: PUBLIC-MEETINGS-LAW-GRIEVANCE-PROCESS
+  last_checked: '2026-07-31'
+- id: malheur-land-use-veterans-preference
+  url: http://www.malheurco.org/wp-content/uploads/2016/06/Veterans-Preference.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Veterans-Preference
+  last_checked: '2026-07-31'
+- id: malheur-land-use-resident-applicant-preference-form
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Admin/Menu-Links/Resident-Applicant-Preference-Form.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Resident-Applicant-Preference-Form
+  last_checked: '2026-07-31'
+- id: malheur-land-use-policy-manual-july-2026
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/Policy_Manuals/Policy-Manual-JULY-2026.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Policy-Manual-JULY-2026
+  last_checked: '2026-07-31'
+- id: malheur-land-use-phone-guide-verge
+  url: https://www.malheurco.org/wp-content/uploads/Departments/IS/Phone_Guide_Verge.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Phone Guide Verge
+  last_checked: '2026-07-31'
+- id: malheur-policies-policy-manual-july-2026
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/Policy_Manuals/Policy-Manual-JULY-2026.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-Manual-JULY-2026
+  last_checked: '2026-07-31'
+- id: malheur-policies-022519-policy-and-information-manual
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/022519-POLICY-AND-INFORMATION-MANUAL.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 022519-POLICY-AND-INFORMATION-MANUAL
+  last_checked: '2026-07-31'
+- id: malheur-policies-complete-comp-plan-1
+  url: http://www.malheurco.org/wp-content/uploads/Complete-Comp.-Plan-1.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Complete-Comp.-Plan-1
+  last_checked: '2026-07-31'
+- id: malheur-policies-campsite-removal-policy
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/PUBLIC_NOTICES/Campsite-Removal-Policy.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Campsite-Removal-Policy
+  last_checked: '2026-07-31'
+- id: malheur-policies-ordinance-210-marijuana
+  url: http://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/Ordinance_210_Marijuana.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Ordinance 210 Marijuana
+  last_checked: '2026-07-31'
+- id: malheur-policies-82349981810205
+  url: http://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/82349981810205.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: '82349981810205'
+  last_checked: '2026-07-31'
+- id: malheur-policies-ordinance228
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/PUBLIC_NOTICES/Ordinance228.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Ordinance228
+  last_checked: '2026-07-31'
+- id: malheur-policies-public-meetings-law-grievance-process
+  url: https://www.malheurco.org/wp-content/uploads/Departments/CountyCourt/PUBLIC_NOTICES/PUBLIC-MEETINGS-LAW-GRIEVANCE-PROCESS.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: PUBLIC-MEETINGS-LAW-GRIEVANCE-PROCESS
+  last_checked: '2026-07-31'
+- id: malheur-policies-veterans-preference
+  url: http://www.malheurco.org/wp-content/uploads/2016/06/Veterans-Preference.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Veterans-Preference
+  last_checked: '2026-07-31'
+- id: malheur-policies-resident-applicant-preference-form
+  url: https://www.malheurco.org/wp-content/uploads/Departments/Admin/Menu-Links/Resident-Applicant-Preference-Form.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Resident-Applicant-Preference-Form
+  last_checked: '2026-07-31'
+- id: malheur-policies-phone-guide-verge
+  url: https://www.malheurco.org/wp-content/uploads/Departments/IS/Phone_Guide_Verge.pdf
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Phone Guide Verge
+  last_checked: '2026-07-31'

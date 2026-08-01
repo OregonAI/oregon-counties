@@ -1,0 +1,595 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-wasco-county-fee-ordinance-2018
+title: 'Wasco County Fee Ordinance 2018'
+doc_type: ordinance
+citation: 'Wasco County Fee Ordinance 2018'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/Wasco%20County%20Fee%20Ordinance%202018.pdf?t=202503260856160
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8c61d310373b2abe855ff365ec3e87cf251df7bd7dcea5e30064d718bbd4be24
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 106.045
+    - ORS 166.291
+    - ORS 18.930
+    - ORS 190.050
+    - ORS 205.236
+    - ORS 205.320
+    - ORS 205.327
+    - ORS 205.350
+    - ORS 209.260
+    - ORS 21.300
+    - ORS 215.416
+    - ORS 271.230
+    - ORS 368.326
+    - ORS 471.166
+    - ORS 92.100
+    - ORS 92.170
+    - ORS 92.176
+    - OAR 165-002-0020
+  related: []
+  supersedes: []
+tags: [wasco-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Wasco County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Wasco County Fee Ordinance 2018 (Wasco County Fee Ordinance 2018)
+
+## At a glance
+
+Wasco County Fee Ordinance 2018 — code of Wasco County. 13 pages.
+
+## Full text
+
+APPENDIX A: County Fee Schedule
+Fees Across All County Departments
+Service Description Fee Amount Applicable Statute
+Miscellaneous Copies/Printing/Transmission
+Black and white copies
+8.5” x 11” or 8.5” x 14”
+$0.25 per page County Ordinance
+Black and white copies
+11” x 17”
+$1.00 per page County Ordinance
+Color copies
+(any size listed above)
+$1.00 per page County Ordinance
+Providing content on media
+(zip disk, jump drive, CD, etc.)
+$15.00 per media plus
+actual costs of services
+County Ordinance
+Printing computer labels $40.00 plus actual printing
+and label cost
+County Ordinance
+Electronic transmission of documents
+(Fax, email, FTP, or similar transmission.
+If printing of copies is required to redact
+information or to get records into the
+appropriate form, subset, etc., copy fees
+and research time will also apply.)
+$5.00 per transmission plus
+actual costs of services
+
+County Ordinance
+Research and Professional Services Fees
+Basic Research Fee
+(Only upon availability of staff)
+$40.00 per hour, one hour
+minimum, unless specified by
+Department fee schedule
+County Ordinance
+Professional Services / Complex Analysis  See specific Department fee
+schedule
+County Ordinance
+Public Record Request Fees
+Certification of a Public Record
+(Birth certificates, licenses, etc.)
+$3.75 per record  ORS 205.320
+Public records request, general (Cost is request-dependent and is sum of
+research, copies, transmission, etc.)
+
+Administrative Services
+Service Description Fee Amount Applicable Statute
+FINANCE DEPARTMENT
+Placing a stop payment on a Wasco County
+issued check
+$33.00 per check County Ordinance
+Returned item (non-sufficient funds,
+closed account, etc.) deposited to Wasco
+County bank account
+$25.00 per check County Ordinance
+INFORMATION SERVICES DEPARTMENT
+Professional Services $120.00 per hour County Ordinance
+GIS Mapping : See Appendix C
+
+LEGAL SERVICES
+County Counsel Fees. Please contact
+Administrative Services for estimate.
+At current hourly rate County Ordinance
+
+Land-based and Civil Services
+Service Description Fee Amount Applicable Statute
+ASSESSMENT AND TAXATION DEPARTMENT
+Mapping changes and new plat  $540.00 base fee County Ordinance
+New lot created  $50.00 each County Ordinance
+New Right of Way created  $50.00 each  County Ordinance
+New map  $50.00 each County Ordinance
+Each new map affected  $50.00 each  County Ordinance
+Lot line adjustment  $250.00 each County Ordinance
+Calculation of farm/forest disqualifications
+(To be applied against penalty if the
+account is disqualified within 90 days)
+ $40.00 per hour, one hour
+minimum
+County Ordinance
+Manufactured structure change of
+ownership in the LOIS system
+ $55.00  County Ordinance
+Submission of completed change of
+ownership forms for review and
+processing
+
+ $25.00  County Ordinance
+CLERK’S OFFICE
+Land-based Recording Fees
+(All documents presented for recording must be “required or permitted by law to be recorded”)
+Deed and Mortgage Records
+Breakdown of fees:
+  County Clerk Fee
+  Surveyor’s Land Corner Restoration
+  Geographic Information Systems (GIS Fund)
+  Assessment & Taxation Fee
+  Oregon Land Information System Fund
+  Affordable Housing Alliance Tax
+$105.00 for the 1st page,
+$5.00 for each page after
+  $5.00 per page
+  $10.00 per document
+  $19.00 per document
+  $10.00 per document
+  $1.00 per document
+  $60.00 per document
+ORS 205.320 and
+County Ordinance
+Lien Records
+Breakdown of fees:
+  Statutory or County Clerk Lien Record
+  Assessment &Taxation & OLIS Fee
+  Affordable Housing Alliance Tax
+$76.00 for the 1st page,
+$5.00 for each page after
+  $5.00 per page
+  $11.00 per document
+  $60.00 per document
+ORS 205.320 and
+County Ordinance
+Subdivision and Subdivision Replat; Condominium ORS 205.320 and
+County Clerk Fee, 20 lots or less
+County Clerk Fee, 21 lots or more
+Surveyor Fee, Subdivision and
+  Subdivision Replat
+Surveyor Fee, Condominium
+Additional Pages
+Assessment & Taxation & OLIS fee
+GIS Fund
+$35.00
+$50.00
+$700.00 plus $65.00 per lot
+
+$750.00 plus $70.00 per unit
+$5.00 per page
+$11.00
+$19.00
+County Ordinance
+
+Land Corner Restoration Fund
+Affordable Housing Alliance Tax
+Tax Collector Approval
+Assessor Approval
+Copy Fees
+$10.00
+$20.00
+$10.00
+$10.00
+$2.50 per page
+Partition Plat, Replat, and Property Line Adjustment Plat ORS 205.320 and
+County Clerk Fee
+Surveyor Fee, Property Line Adjustment
+   Plat, Single-Parcel Partition Plat or Replat
+Additional Pages
+Assessment & Taxation & OLIS fee
+GIS Fund
+Land Corner Restoration Fund
+Affordable Housing Alliance Tax
+Tax Collector Approval
+Assessor Approval
+County Court Approval (if required)
+Copy Fees
+$35.00
+
+$480.00
+$5.00 per page
+$11.00
+$19.00
+$10.00
+$20.00
+$10.00
+$10.00
+$10.00
+$2.50 per page
+County Ordinance
+Non Standard Documents $20.00 per document ORS 205.327
+Documents Describing More Than One
+Transaction
+$5 per additional transaction
+or title
+ORS 205.236(4)
+Location of Record $3.75 location fee plus
+$0.25 per page
+ORS 205.320
+Mortgage Notice of Default (Attorney
+General Foreclosure Avoidance Mediation
+Fund)
+$100.00 (some exceptions
+apply)
+Senate Bill 1552
+Recording Image Subscription (download
+of images recorded in the Clerk’s office and
+provided on media)
+$0.25 per page/image plus
+cost of media if applicable
+County Ordinance
+Marriage Fees
+Marriage License $50.00 ORS 205.320 and
+ORS 106.045
+Civil Marriage Ceremony (in office, by
+appointment only)
+$110.00 Senate Bill 27
+Staff Witness for Ceremony $15.00 per staff member County Ordinance
+Certified Copy of Marriage License $7.75 ORS 205.320
+Time Waiver of 3-day Waiting Period $15.00 County Ordinance
+Certificate of Parental Consent for
+Marriage of a Minor
+$15.00 per minor County Ordinance
+Amending a Filed Marriage Record $25.00
+Domestic Partnership Declaration
+Registration $50.00 ORS 205.320
+Certification of Original Record $5.00 per record ORS 205.320
+Optional Additional Certified Copy $7.75 ORS 205.320
+Elections Reports
+Request for List of Electors $25.00 plus 2.5¢ per
+100 names
+OAR 165-002-0020
+Section 1
+
+PLANNING DEPARTMENT
+See Appendix B  County and ORS
+
+PUBLIC WORKS DEPARTMENT
+Petition for Road Vacation $500.00 County Ordinance
+Permit for Mass Gathering $500.00 County Ordinance
+Permit for Motor Vehicle Road Rally $1000.00 County Ordinance
+
+SURVEYOR’S OFFICE
+Survey Filing
+(Reviewed, filed and indexed)
+$185.00 plus $50 per page
+over 2 pages
+ORS 209.260
+Property Line Adjustment Survey Filing
+(Reviewed, filed and indexed)
+$250.00 plus $50.00 per page
+over 2 pages
+ORS 209.260
+Property Line Adjustment Plat Review
+(Reviewed, recorded, filed and indexed)
+$480.00 per plat ORS 92.100 and
+County Ordinance
+Single-Parcel Partition Plat, or Single Parcel
+Replat Review (Reviewed, recorded, filed
+and indexed)
+$480.00 per plat ORS 92.100 and
+County Ordinance
+Multiple-Parcel Partition Plat or Replat
+Review (Reviewed, recorded, filed and
+indexed)
+$625.00 per plat ORS 92.100 and
+County Ordinance
+Subdivision or Subdivision Replat Review
+(Reviewed, recorded, field-checked, filed
+and indexed)
+$700.00 per subdivision plus
+$65.00 per lot
+ORS 205.350 and
+County Ordinance
+Condominium Plat Review
+(Reviewed, recorded, field-checked, filed
+and indexed
+$750.00 per condominium,
+plus $70.00 per unit
+ORS 205.350 and
+County Ordinance
+Re-check or Re-design Review 50% of the original review
+fee
+County Ordinance
+Affidavit of Correction, Consent, Post-
+Monumentation, etc.
+$50.00 per affidavit recorded ORS 92.170 and
+County Ordinance
+Marking the Record Upon the Surveyor’s
+Copy of an Original Plat
+$15.00 per recorded
+document
+ORS 271.230 (2)
+and County
+Ordinance
+Research $75.00 per hour after the
+first hour
+County Ordinance
+Large Format Printing or Copying $1.00 per square foot, $2.00
+minimum
+County Ordinance
+
+Public Safety Services
+Service Description Fee Amount Applicable Statute
+COMMUNITY CORRECTIONS DEPARTMENT
+Community Service Work Program
+evaluation, placement, and monitoring
+$35.00 County Ordinance
+DNA Sample Draw $10.00 County Ordinance
+Drug Testing $15.00 per sample for in-lab
+tests
+$7.50 for instant tests
+County Ordinance
+Electronic Home Detention Program
+Placement
+$8.00 per day County Ordinance
+Inter-County Transfer Request $25.00 County Ordinance
+Interstate Compact $50.00 County Ordinance
+Probation/Post Prison/Parole Supervision $35.00 per month County Ordinance
+Travel Permit $5.00 each permit County Ordinance
+Treatment Program Intake $150.00 County Ordinance
+Program Curriculum Book $25.00
+Treatment Program Assessment
+
+$150.00 County Ordinance
+SHERIFF’S OFFICE
+Civil Fees Per Statute ORS 21.300
+Concealed Handgun License Per Statute ORS 166.291(5)(a)
+Fingerprinting $15.00 per card or $15.00 for
+electronic submission
+County Ordinance
+OLCC Liquor License (regular and special
+event)
+$25.00 per permit ORS 471.166 (7)
+Real Property Foreclosure Sheriff Sale $800.00 deposit (Applicants
+will be billed for actual costs
+and employee time.)
+ORS 18.930(5)
+Sheriff Incident Reports*
+(No charge for victim for first copy)
+1–24 pages: $15.00 per
+report
+25–49 pages: $20.00 per
+report
+50+ pages: $50.00 per report
+County Ordinance
+Videos
+
+$15.00 plus staff time* County Ordinance
+* Research/Staff Time – fee is based on salary and fringe benefits of the
+employee charged with the task (such as document research, retrieval,
+review or redaction), converted to an hourly rate. Time is charged in 15-
+minute increments with a 15-minute minimum. Call the Sheriff’s Office for
+an estimate when research or staff time is needed.
+County Ordinance
+YOUTH SERVICES DEPARTMENT
+Supervision
+Formal Probation at time of Adjudication $30.00 County Ordinance
+Formal Accountability Agreements $10.00 County Ordinance
+
+Drug Testing $15.00 per sample for in-lab
+tests
+$7.50 for instant tests
+County Ordinance
+Online Educational Classes $100.00 County Ordinance
+Processing Request for Expunction $60.00 County Ordinance
+
+Appendix B: Planning Department Fee Schedule
+Wasco County Planning Department Fees
+Consolidating multiple permits: Proposals that require more than one type of review may be
+consolidated. The consolidated fee includes the full fee of the primary or more expensive review
+process and 50% of the fee for each additional review process. Type I fees accompanying Type
+II-IV reviews will be waived. Please contact Wasco County Planning if you would like to view the
+fee waiver policies and procedures.
+
+Multi-department review: Several review procedures listed below require coordination with
+other County departments (e.g. partitions and property line adjustments). In these instances,
+the Planning fee includes the other applicable departments’ fees to provide customers with a
+convenient, one-time fee collection.
+
+Legal Fees: Processes, reviews, permits, et.al requiring legal review will be subject to County
+Counsel Fees charged at the current hourly rate.
+
+Type I - Ministerial Fee
+Address – New or Change $75
+Land Use Verification Letter (Not Involving Land Use
+Decision)
+$150
+Marijuana Production $1,000 + $76/hour after 10 hours
+Non-Structural Sign-Off  – MNN (e.g., LUCS) $90
+Structural Without Land Use Application – MNS  $276
+Telecommunications Tower - Collocation $1,600
+
+Type II - Administrative Fee
+Conditional Uses
+ Aggregate and Other Subsurface Resources $2,500
+ Dwelling, Non-Farm $2,000
+ Farm Ranch Recreation $1,600
+ Other $1,300
+ Power Generating Facility (EFSC approval and required review) $76/hr
+ Power Generating Facility (Commercial)                                              $5,000 + $1,000/tower
+ Power Generating Facility (Non-Commercial)                                     $1,600 + $1,000/tower
+Extension of Time for Land Use Approval $475
+Legal Parcel Determination                                                                          $500 + $76/hour after 5 hours
+LUDO Interpretation or Similar Use Determination $76/hr
+Major Modification of Approval (notice is required) $76/hr
+National Scenic Area (NSA)
+ Expedited (Used listed in Section 3.110 of Wasco County NSALUDO) $600
+ Expedited (Removal or Demolition) $300
+ Full Review (Fences and Accessory Structures Less Than 500 SQ) $1,000
+
+ Full Review $1,800
+Non-Conforming Use Review (verification, restoration or alteration) $1,000
+Partition, Property Line Adjustment, or Replat (not involving public or private
+roads)
+
+• Property Line Adjustment $2,134
+• Single Parcel Partition ORS 92.176 $2,134
+• Multiple Parcel Partition or Replat $2,279
+Site Plan Review (parking, loading, and home occupations) $600
+Subject to Standards
+ Aggregate Overlay Significant Determination $600
+ Dwelling (Accessory, Large Tract Forest, Lot-of-Record, Primary,
+Relative)
+$1,300
+ EPDs (Environmental Protection Districts) $650
+ Guest House $500
+ Marijuana Processing and/or Wholesale $2,000 + hourly rate of $76/hour after 20 hours
+ Other $650
+ Utility Facilities Necessary for Public Service $2,500
+Temporary Use Permit $700
+Temporary Use Permit Renewal (e.g., Medical Hardship Dwelling) $400
+Variance (Administrative) – Less Than 50% Deviation From Stated Standard $700
+
+Type III Action – Planning Commission Fee
+Appeal to Planning Commission: ORS 215.416(11)(b); full refund if upheld $250
+Mobile Home Park / RV Park $2,100
+Other Reviews Directed to Planning Commission by Ordinance $1,500
+Partition, Property Lind Adjustment, or Replat (involving public or private
+roads approvals)
+
+• Property Line Adjustment $2,534
+• Single Parcel Partition or Replat $2,534
+• Multiple Parcel Partition or Replat $2,679
+Planned Unit Development – Preliminary/Final Plat Review $3,604/$954
+Subdivision – Preliminary/Final Plat Review $4,104/$954
+Plus $65 per lot
+Variance – 50% or Greater Deviation From Stated Standard $1,000
+
+Type IV Action – Board
+of County
+Commissioners
+Fee
+Appeal to Board of Commissioners $1,200
+Goal Exception $1,700 + hourly rate of $76/hour after 20 hours
+Zone Change $1,700 + hourly rate of $76/hour after 20 hours
+Zone Change $1,700
+Open Space Lands Tax Assessment $900
+
+Road Dedication $900
+Road Naming/Re-Addressing (full fee + half fee for each address changed);                               $200
+not land use decision
+Subdivision Lot Line Vacation per ORS 368.326 $1,004
+
+Miscellaneous Fee
+Amendment to Land Use Application Request (after pre-notice; prior to
+approval)
+$350
+Complex Projects – As Determined by Planning Director (See Policy and
+Process)
+$76/hr
+Continuance/Extension Request of Planning Commission or Board Hearings $500
+LUBA Remand and Review $300
+Outdoor Mass Gathering
+ Less than 3000 people $2,500
+ 3,000 or more, or 120 hrs or more $4,500
+Pre-Application Conference - $250 of the $500 applies towards land use
+application if applied for within 90 days of conference.
+$500
+Research / Records Request $45/hr
+Withdrawal of Application - Refunds
+ Before completeness is determined 75%Total
+ After completeness is determined      50% Total
+ After Pre-Notice or Notice of Decision is mailed No Refund
+Withdrawal of Appeal After Received No Refund
+Worked Commenced Without Required Land Use Approval                                        Additional 50%
+                                                                                                      of Total Review Fee
+Worked Commenced in NSA Without Required Land Use Approval                         Additional 100%
+                                                                                                      of Total Review Fee
+
+Code Compliance Fee
+Administrative Overhead hourly rate $76/hr
+Appeal to Hearing’s Officer $100
+Continued Non-Compliance $50/month
+Recordation of Compliance Document $61
+Other compliance penalty charges exist as established in Compliance Ordinance (WCCCNAO)
+
+Appendix C: GIS Services
+GIS Services - Standard Labor Rate $60/Hour
+Map Prices - Custom Maps
+Size Price Additional Copies (ea)
+8.5 x 11 $7.00 $1.00
+11 x 17 $8.00 $1.50
+18 x 24 $12.00 $12.00
+24 x 36 $15.00 $15.00
+24 x 40 $25.00 $25.00
+36 x 48 $35.00 $35.00
+Maps which take longer than 15 minutes to make (excluding printing time) are charged
+at our shop rate
+ Available Data Layers (Fees allowed per ORS
+190.050)
+Layer Price Notes
+Extract of Assessor's
+Database $300.00 Table Schema
+Roads $50.00
+Taxlot Maps N/A See Also The Oregon Map
+Taxlots $1/parcel or $1,500 for
+entire County See Also Our Online Map
+Other Groups/Layers -
+$45.00 each Contains Notes
+Administrative Boundaries
+Columbia Gorge Urban
+Renewal District, City of
+The Dalles Watershed,
+School Districts, NWCPUD
+Subdivisions, Transition
+Lands Study Area, Wasco
+County Boundary
+
+Populated Places
+City Limits, Urban Growth
+Boundaries, Rural Service
+Centers See Also State Data
+Tax Codes Tax Codes
+ Zoning - Cities Zoning - Cities
+ Zoning - Environmental
+Protection Districts
+Zoning - Environmental
+Protection Districts
+ Zoning - Wasco County Zoning - Wasco County
+ We require payment in advance from companies we have not done business with in the past.
+Credit card payments get charged an additional amount (depending on how much the base
+purchase is) to match what the companies charge the County. Checks should be made out to
+Wasco County GIS, and sent with a note stating which layers are being requested. Send it to:
+    Wasco County IS Department
+    Attn: GIS
+    2705 E 2nd St, The Dalles, OR 97058

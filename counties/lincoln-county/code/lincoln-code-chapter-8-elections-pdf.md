@@ -1,0 +1,235 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lincoln-county
+id: lincoln-code-chapter-8-elections-pdf
+title: 'Chapter-8-Elections-PDF'
+doc_type: ordinance
+citation: 'Chapter-8-Elections-PDF'
+authority_level: county_ordinance
+issuing_body: 'Lincoln County Board of Commissioners'
+source_url: https://www.co.lincoln.or.us/DocumentCenter/View/244/Chapter-8-Elections-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ac7e0c2c2c207d944d1183656d1b0e73fc690ae3cd53b54fb832f007e7709ad9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 251.235
+    - ORS 251.285
+  related: []
+  supersedes: []
+tags: [lincoln-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lincoln County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-8-Elections-PDF (Chapter-8-Elections-PDF)
+
+## At a glance
+
+Chapter-8-Elections-PDF — code of Lincoln County. 5 pages.
+
+## Full text
+
+2018 LCC CHAPTER 8 -- PAGE 1
+
+CHAPTER 8
+
+Elections
+
+DETERMINING COMMUNITY OPINIONS
+8.005    Purpose
+8.010    Definitions
+8.015    Scope
+8.020    Ballot Questions
+8.025    Time Period for Submission of Questions
+8.030    Form of the Question
+8.035    Procedure by Board
+
+COUNTY MEASURES IN STATE VOTERS PAMPHLET
+8.105    Purpose
+8.110    County Measures Included in Pamphlet
+8.115    Preparation of Ballot Titles and Explanatory Statements
+8.120    Judicial Review of Ballot Titles and Explanatory Statements
+8.125    Arguments Favoring or Opposing Measures
+8.130    Filing of Material with Secretary of State
+
+ELECTION OF COUNTY COMMISSIONERS
+8.205  Purpose
+8.210  Method of Selecting the Elected Board of Commissioners
+
+2018 LCC CHAPTER 8 -- PAGE 2
+
+ DETERMINING COMMUNITY OPINIONS
+
+ 8.005  Purpose
+ The purpose of LCC 8.005 to 8.035  is to provide a procedure by which the Board may
+submit questions to the electorate for an advisory opinion.
+
+ 8.010  Definitions
+ (1) "Matters of county concern" means those issues deemed by a majority of the Board to be
+of significant interest to the people of Lincoln County.
+ (2) "Straw vote" means an unofficial vote to test the strength of opposing views to
+determine opinion on matters of county concern.
+ (3) "Ballot" means an election ballot of a regularly scheduled election.
+
+ 8.015  Scope
+ Any matters of county concern may, in the discretion of a majority of the Board, be put on
+the ballot for a straw vote.
+
+ 8.020  Ballot Questions
+ Any person, agency of government, or public interest group may submit a matter of county
+concern to the Board for a straw vote. Ultimate authority in determining whether a question will be
+placed on the ballot will be the Board.
+
+ 8.025  Time Period for Submission of Questions
+ Questions regarding matters of county concern, submitted to the Board for a straw vote,
+shall be submitted not less than 90 calendar days prior to the date of the next regularly scheduled
+election.
+
+ 8.030  Form of the Question
+ Any question regarding a matter of county concern submitted to the Board shall bear a title
+summarizing the question and the name and signature of the person submitting the question.
+
+ 8.035  Procedure by Board
+ (1) If the Board approves a question for a straw vote it shall give notice to the person sub-
+mitting the question.
+ (2) Within 10 days after the notice required by subsection (1) of this section, the person
+proposing the question shall post security in an amount approved by the Board to pay for all
+expenses of the straw vote.
+ (3) If security is posted, the Board shall forward the question to the clerk for inclusion in the
+next regularly scheduled election.
+2018 LCC CHAPTER 8 -- PAGE 3
+
+COUNTY MEASURES IN STATE VOTERS PAMPHLET
+
+ 8.105  Purpose
+ The purpose of LCC 8.105 to 8.130 is to allow inclusion of county measures, ballot titles
+and explanatory statements therefor, and arguments relating thereto in the state voters pamphlet in
+accordance with ORS 251.235 and these code provisions.  [1984 o.215 §1]
+
+ 8.110  County Measures Included in Pamphlet
+ A county measure shall qualify for and be subject to the provisions of LCC 8.105 to 8.130
+and ORS 251.285 only if:
+ (1) The measure is to be submitted to the electors at an election for which a state voters
+pamphlet is printed;
+ (2) All procedures set forth in LCC 8.105 to 8.130 relating to the preparation of the ballot
+title and to the explanatory statement for the measure have been completed on or before the 75th
+day before the election at which the measure is to be submitted to the electors;
+ (3) In the case of a measure proposed by initiative or referendum petition:
+ (a) All chief petitioners indicate their decision to include the measure, its ballot title,
+explanatory statement and arguments in the state voters pamphlet, by filing with the county clerk a
+statement of that decision, in such form as the cler k shall prescribe, at the time the prospective
+petition for the measure is filed with the clerk;
+ (b) A petition containing sufficient numbers of qualified signatures to require submission of
+the measure to the electors is filed with the clerk on or before the 90th day preceding the election at
+which the measure is to be submitted to the electors;
+ (4) In the case of a measure referred to the electors by the Board, the Board indicates its
+decision to include the measure, its ballot title, explanatory statement and ar guments in the state
+voters pamphlet, by filing with the clerk its order reflecting that decision on or before the 85th day
+preceding the election at which the measure is to be submitted to the electors; and
+ (5) In the case of any county meas ure supported or opposed by a political committee, as
+defined in ORS chapter 260, such committee indicates its decision in a statement signed by every
+committee director, as defined in ORS chapter 260, and files such statement with the clerk on or
+before the 80th day preceding the election at which the measure is to be submitted to the electors.
+
+[1984 o.215 §1]
+
+ 8.115  Preparation of Ballot Titles and Explanatory Statements
+ (1) In the case of a measure proposed by initiative or referendum petition, upon the filing of
+the prospective petition, the clerk shall convey two copies of the prospective petition to the district
+attorney, who shall, within five days after receiving it, prepare a ballot title and explanatory
+statement for the measure and return a copy of the prospective petition, together with the ballot title
+and explanatory statement to the clerk and to one of the chief petitioners.
+ (2) In the case of a measure referred to the electors by the Board which will be voted upon
+at an election for which there is a state voters pamphlet, the Board shall file with the clerk a ballot
+title and explanatory statement for the measure at the time it files the order described in LCC
+8.110(4).
+ (3) Ballot titles shall consist of:
+ (a) A caption of not more than 10 words by which the measure is commonly referred to;
+2018 LCC CHAPTER 8 -- PAGE 4
+
+ (b) A question of not more than 20 words which plainly states the purpose of the measure,
+and is phrased so that an affirmative response to the question corresponds to an affirmative vote on
+the measure; and
+ (c) A concise and impartial statement of not more than 75 words of the chief purpose of the
+measure.
+ (4) Explanatory statements shall be impartial, simple, and understandable, explaining the
+measure and its effect and shall not exceed 500 words.  [1984 o.215 §1]
+
+ 8.120  Judicial Review of Ballot Titles and Explanatory Statements
+ Within five days after the ballot title and explanatory statements are received by the clerk
+under LCC 8.115(1) or (2), any elector dissatisfied with the ballot title or explanatory statement or
+both may petition the Circuit Court of the State of Oregon for the County of Lincoln for review of
+the title or statement, and shall set forth the reasons why the title or statement does not conform to
+the requirements of LCC 8.105 to 8.130 or other applicable law.  If the court finds that the ballot
+title or explanatory statement complies with the requirements of LCC 8.105 to 8.130 and other
+applicable law, it shall enter an appropriate order to that effect.  If the court determi nes that the
+ballot title or explanatory statement does not comply with the requirements of LCC 8.105 to 8.130
+or other applicable law, the court shall prepare an alternative ballot title or explanatory statement.
+The title or statement so prepared shall s upersede and replace that of the district attorney for
+purposes of LCC 8.105 to 8.130.  The order of the Circuit Court shall not be appealable.
+  [1984 o.215
+§1]
+
+ 8.125  Arguments Favoring or Opposing Measures
+ (1) Arguments favoring or opposing a measure which qualifies for, and is subject to, LCC
+8.105 to 8.130 may be filed with the clerk on or before the 75th day preceding the election at which
+the measure is to be submitted to the electors by:
+ (a) Any elector eligible to vote on the measure, or any org anization eligible to file
+arguments under Oregon Law, upon payment to the clerk of a fee of $300 and the filing of a
+statement, in such form as the clerk shall prescribe, which identifies the name of the person or
+persons who submitted the argument, the name of the organization the person or persons represent,
+if any, and whether the argument supports or opposes the measure; or
+ (b) One thousand or more electors eligible to vote on the measure or 10 percent of the total
+of such electors, whichever is less, whose representative files with their argument a petition for its
+inclusion in the state voters pamphlet, in such form as the clerk shall prescribe or provide, which
+contains the qualified signatures of at least 1,000 such electors or 10 percent of the t otal electors
+eligible to vote on the measure, whichever is less.
+ (2) Prior to the circulation of a petition under subsection (1)(b) of this section, a prospective
+petition shall be filed with the clerk, in such form as the clerk shall prescribe or provide, which sets
+forth the text of the proposed argument and which identifies the name of the person or persons who
+submitted the argument, the name of the organization the person or persons represent, if any, and
+whether the argument supports or opposes the measure.  A copy of the contents of the prospective
+petition shall be attached to each signature sheet of the petition circulated among the electors.  The
+procedures for circulation of the petition shall be the same as the applicable procedures for
+circulation of initiative or referendum petitions, and the clerk shall verify the signatures on the
+petition in the same manner signatures are verified on referendum or initiative petitions.
+2018 LCC CHAPTER 8 -- PAGE 5
+
+Arguments shall be typewritten, and shall be prepared for printing on not more than 29.8 square
+inches of the state voters pamphlet and shall comply with all applicable laws and rules pertaining to
+arguments in the state voters pamphlet.
+  [1984 o.215 §1]
+
+ 8.130  Filing of Material with Secretary of State
+ On or before the 70th day preceding the election at which any measure which qualifies for
+and is subject to LCC 8.105 to 8.130 is to be submitted to the electors, the clerk shall file with the
+secretary of state the measure, ballot title, explanatory statements, and any arguments which have
+been filed and completed in accordance with the requirements of LCC 8.105 to 8.130 and of any
+other applicable law.  The county shall pay the secretary of state the cost of including the material in
+the state voters pamphlet.  [1984 o.215 §1]
+
+ELECTION OF COUNTY COMMISSIONERS
+
+ 8.205 Purpose
+ The purpose of LCC 8.205 through 8.210 is to establish the mode of selection of the elected
+Board of Commissioners. [2013 o.469 §2]
+
+ 8.210 Method of Selecting the Elected Board of Commissioners
+ The o ffices of Lincoln County Board of Commissioners shall be nonpartisan within the
+meaning of ORS Chapter 249 and any other state election laws and other applicable laws utilizing
+this designation of these offices. [2013 o.469 §2]
+
+ [Note: Approved by voters November 5, 2013]

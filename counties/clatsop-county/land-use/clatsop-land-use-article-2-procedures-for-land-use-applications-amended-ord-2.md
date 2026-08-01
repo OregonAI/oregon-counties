@@ -1,0 +1,2887 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2
+title: 'ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05'
+doc_type: ordinance
+citation: 'ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://clatsopcounty.gov/DocumentCenter/View/3920/ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: dec31ff3d5ce4922e605df364b4f18f536d9757aa2587c06782a91871caad6d1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.015
+    - ORS 197.493
+    - ORS 197.610
+    - ORS 197.620
+    - ORS 197.805
+    - ORS 197.830
+    - ORS 197.850
+    - ORS 205.232
+    - ORS 209.250
+    - ORS 215.427
+    - ORS 215.503
+    - ORS 244.020
+    - ORS 476.510
+    - ORS 92.010
+    - ORS 92.016
+    - ORS 92.050
+    - ORS 92.080
+    - ORS 92.095
+    - ORS 92.100
+    - ORS 92.122
+    - ORS 92.190
+    - OAR 660-012-0060
+    - OAR 734-051-1070
+  related: []
+  supersedes: []
+tags: [clatsop-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05 (ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05)
+
+## At a glance
+
+ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05 — land use of Clatsop County. 65 pages.
+
+## Full text
+
+Clatsop County Land and Water II-1 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+ARTICLE 2. PROCEDURES FOR LAND USE APPLICATIONS
+SECTION 2.0010. PURPOSE AND APPLICABILITY [ORD. 25-02]
+1) Purpose: The purpose of this Article is to establish standard decision-making
+procedures that enable the County, the applicant and the public to review
+applications and participate in the land use decision-making process in a timely
+and effective way. Table 2.1 provides a key for determining the review procedure
+and the decision-making body for specific application types.
+2) Applicability: Unless exempted in Section 2.0300, all land use development
+shall require a development permit or other land use approval. The land use
+permit applications and approvals included in Table 2.1 shall be reviewed and
+decided using the procedures contained in this chapter. All land use approvals
+are subject to the following:
+(A) The Community Development Director, or designee, shall be responsible
+for the coordination of land use and development applications and
+decision-making procedures.
+(B) The Director shall not issue a permit or land use approval for the
+improvement or use of land that has been partitioned, subdivided or
+otherwise developed in violation of this Ordinance, unless the permit or
+land use approval would resolve the violation.
+(C) The Building Official shall not issue a permit for the construction,
+reconstruction, or alteration of a structure or part of structure unless a land
+use permit or land use approval has been issued.
+(D) All new development shall comply with the provisions of this Ordinance
+and, where applicable, the Clatsop County Comprehensive Plan.
+3) Consistency with Oregon Revised Statutes: Applications processed under this
+Ordinance shall be consistent with Oregon Revised Statutes (ORS). The County
+shall follow ORS provisions in instances when the requirements of the County’s
+code would fail to comply with State requirements.
+
+SECTION 2.0020. GENERAL REQUIREMENTS [ORD. 25-02] [ORD. 26-05]
+The following requirements and procedures apply to all applications:
+1) Review Types: All land use and development permit applications shall be
+reviewed under one of the following review types:
+(A) Type I: Ministerial Review
+(B) Type II: Administrative Review
+(C) Type III: Quasi-judicial Review
+(D) Type IV: Legislative Review
+A complete list of applications and their associated review type is provided in
+Table 2.1. Detailed information on each review type is provided in Section
+2.0060.
+
+Clatsop County Land and Water II-2 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+TABLE 2.1: REVIEW TYPES
+  Review Authority
+Permit/Application Procedure
+Type
+Decision Appeal
+Agri-Tourism Event Renewal II Director Hearings Officer
+Section 2.0090(1)
+Appeal:
+Director/Hearings Officer
+Decision
+III Hearings Officer Board of
+Commissioners
+Section 2.0090(2)
+Appeal:
+Hearings Officer/Planning
+Commission Decision
+IV Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(3)
+Commercial Site Plan Review II Director Hearings Officer
+Section 2.0090(1)
+Comprehensive Plan Map/Text
+Amendment (Quasi-judicial)
+III Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(2)
+Comprehensive Plan Map/Text
+Amendment (Legislative)
+IV Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(3)
+Conditional Use Permit
+(no public hearing)
+II Director Hearings Officer
+Section 2.0090(1)
+Conditional Use Permit
+(public hearing)
+III Hearings Officer Board of
+Commissioners
+Section 2.0090(2)
+Destination Resort III Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(2)
+Development Permit I Director, or designee Circuit Court
+Expansion of Non-Conforming
+Use
+II Director Hearings Officer
+Section 2.0090(1)
+
+Clatsop County Land and Water II-3 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+TABLE 2.1: REVIEW TYPES
+  Review Authority
+Permit/Application Procedure
+Type
+Decision Appeal
+Extension of Approval I Director Hearings Officer
+Section 2.0090(1)
+Floodplain Development Permit I Director, or designee Hearings Officer
+Section 2.0090(1)
+Geologic Hazard Permit I Director, or designee Hearings Officer
+Section 2.0090(1)
+Goal Exception III/IV Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(2)
+Lot of Record Determination I Director Hearings Officer
+Section 2.0090(1)
+Modification, Major II Director Hearings Officer
+Section 2.0090(1)
+Modification, Minor I Director Hearings Officer
+Section 2.0090(1)
+Partition II Director Hearings Officer
+Section 2.0090(1)
+Planned Development  III Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(2)
+Property Line Adjustment I Director Hearings Officer
+Section 2.0090(1)
+Replacement Dwelling
+(Resource Zone)
+I Director Hearings Officer
+Section 2.0090(1)
+Sign Permit I Director, or designee Circuit Court
+Similar Use Determination III Board of Land Use Board of
+
+Clatsop County Land and Water II-4 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+TABLE 2.1: REVIEW TYPES
+  Review Authority
+Permit/Application Procedure
+Type
+Decision Appeal
+Commissioners Appeals
+Section 2.0090(2)
+Subdivision Approval III Planning Commission
+(no County roads
+proposed)
+Board of
+Commissioners
+(County roads
+proposed)
+Board of
+Commissioners (no
+County roads
+proposed)
+Land Use Board of
+Appeals (County roads
+proposed)
+Section 2.0090(2)
+Temporary Use I Director Hearings Officer
+Section 2.0090(1)
+Validation of a Unit of Land II Director Hearings Officer
+Section 2.0090(1)
+Variance III Hearings Officer Board of
+Commissioners
+Section 2.0090(2)
+Variance, Administrative II Director Hearings Officer
+Section 2.0090(1)
+Zoning Map Amendment (quasi-
+judicial)
+III Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(2)
+Zoning Map Amendment
+(legislative)
+IV Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(3)
+Zoning Text Amendment IV Board of
+Commissioners
+Land Use Board of
+Appeals
+Section 2.0090(3)
+Zoning Review I Director or designee Circuit Court
+
+Clatsop County Land and Water II-5 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+
+2) Consolidated Review: When an applicant applies for more than one type of
+land use approval or development permit for the same project, the applications
+shall be consolidated. Consolidated applications shall be processed according to
+the highest numbered review type, as established in Table 2.1.
+3) Deadlines and Time Limits: The following timeframes apply to review and
+approval of all applications and permits:
+(A) For all Type I, Type II and Type III applications:
+i. The County shall take final action within 150 days from the date
+the application is deemed complete. Final action shall include
+completion of all appeals to the Planning Commission and/or
+Board of Commissioners.
+ii. The 150-day period may be extended at the request of the
+applicant. The total of all extensions shall not be more than 215
+days, unless a dispute concerning the application will be
+mediated per ORS 215.427(10).
+(B) Computation of Time: Public notices, issuance of permits and notices of
+decision have prescribed timeframes during which comments can be
+provided or a decision can be appealed. When calculating the applicable
+time period, the day that a public notice, permit or notice of decision is
+issued is not included. The end date of the comment period or appeal
+period shall include the last day, unless it is a Saturday, Sunday or legal
+holiday. If the last day is a Saturday, Sunday or legal holiday, the time
+period shall be extended to the day that is not a Saturday, Sunday or legal
+holiday.
+
+EXAMPLE 1: A 10-day public notice is issued on Friday, June 24.
+The day the notice is issued is not included in the 10-day period.
+That means the 10-day period would end on Monday, July 4.
+Because July 4 is a legal holiday, the 10-day period would be
+extended to Tuesday, July 5.
+
+EXAMPLE 2: A Notice of Decision for a partition is issued on
+September 3.  The appeal period is 12 days.  The 12-day appeal
+period would begin on September 4 and would end on September
+15.
+(C) Application Fees: Fees shall be established by the Board of County
+Commissioners. All applications shall include the required filing fee at the
+time of submittal, unless a fee waiver has been granted by the Board of
+County Commissioners. Fee waivers must be approved by the Board of
+County Commissioners prior to the application being submitted.
+(D) Application Forms: Application forms provided by the County shall be
+used for all applications.
+
+Clatsop County Land and Water II-6 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+(E) Complete Applications: Following submittal of an application package to
+the Community Development Department, staff shall conduct a
+completeness review. Staff shall have 30 calendar days to determine if the
+application is complete. The 30-day period begins on the date that the
+application is submitted.
+
+If the application is deemed incomplete, the Director, or designee, shall
+notify the applicant in writing of exactly what information is missing. The
+applicant shall have 180 days from the date the application was submitted
+to:
+i. provide all of the missing information;
+ii. provide some of the missing information and written notice that no
+other information will be provided; or
+iii. provide written notice that none of the information will be provided
+
+On the 181st day after the application was submitted, the application will
+be deemed void if the applicant has been notified of the missing
+information and has not responded in accordance with subsections (E)(i-
+iii), above.
+(F) Modifications of Applications Under Review: This subsection shall
+apply if an applicant modifies an application after the County has deemed
+it complete but prior to a public hearing or issuance of a decision. Upon
+receipt of materials that modify an application, the Director shall evaluate
+the modifications, determine which of the two categories listed below
+describes the modification, and follow the related procedures. This
+decision is not a land use decision and is not appealable.
+i. Significant Modification. A significantly modified application greatly
+differs from the application that was deemed complete. Such
+differences may include the land use; size, height, and/or design of
+proposed structures; location of uses and structures on the site; or
+other such characteristics of the proposal. Substantial modifications
+may alter which approval criteria and development standards
+applied to the development proposal. The Director shall notify the
+applicant of this determination and take one of the following
+actions, at the direction of the applicant:
+a. Allow the applicant to withdraw the original application and
+submit the modified proposal as a new application.
+b. Reject the modifications and continue processing the original
+application. Rejecting a significant modification does not
+preclude the applicant from submitting other, different
+modifications.
+ii. Minor Modification. Minor modifications involve a limited number of
+changes from the original application and would not alter any
+approval criteria and development standards which apply to the
+
+Clatsop County Land and Water II-7 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+development proposal. The Director shall notify the applicant of this
+determination and take one of the following actions, at the direction
+of the applicant:
+a. Accept the modifications and proceed with the review of the
+modified application. The Director may repeat, at his or her
+discretion, any part of the public notice or referral process to
+provide appropriate opportunity for public review of the
+modifications. The applicant shall also extend the 150-day
+decision requirement in writing to a date that is sufficient to
+allow for additional review, public notice, or evaluation by the
+County.
+b. Reject the modifications and continue processing the original
+application. Rejecting a minor modification does not preclude
+the applicant from submitting other, different modifications.
+(G) Length of Approvals: Permit approvals shall be valid as noted below:
+i. Type I (Development, Floodplain and Sign Permits): 180 days
+ii. Type I (Temporary Use): 1 year
+iii. Type I (Extension of Approval): 1 year
+iv. Type I (Property Line Adjustment): 2 years
+v. Type I (Replacement Dwelling): 4 years, plus one 2-year
+extension; plus five 1-year extensions
+vi. Type I (Geologic Hazard Review): 5 years
+vii. Type I (Lot of Record Determination): No expiration unless
+property boundaries are changed
+viii. Type I (Modification, Minor): Remainder of original approval
+period [ORD. 26-05]
+ix. Type II (Administrative Variance): 18 months [ORD. 26-05]
+x. Type II (outside resource zones): 2 years; plus one 1-year
+extension
+xi. Type II (in resource zones): 4 years, plus one 2-year extension;
+plus five 1-year extensions
+xii. Type II: (Modification, Major): Remainder of original approval
+period [ORD. 26-05]
+xiii. Type III: 18 months [ORD. 26-05]
+xiv. Type IV: No expiration
+The extension of a permit under this subsection is not a land use decision
+as defined in ORS 197.015. [ORD. 23-02]
+(H) Effective Date of Permits: A decision on a Type II, III or IV request shall
+not become final until the appeal period has expired. If appealed, the
+decision shall not become final until all appeals have been completed and
+a final decision by the reviewing body has been issued.
+(I) Resubmittal of a Denied Application: If the County denies an
+application, and the denial is not reversed upon appeal, no new
+application for the same or substantially similar action shall be filed for at
+
+Clatsop County Land and Water II-8 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+least 60 days. The 60-day period shall be calculated beginning on the date
+that the final order denying the action was issued. Resubmittal of an
+application shall require payment of a new application fee.
+(J) State and Federal Permit Requirements: If any state or federal permit is
+required for a development or use, an applicant, prior to issuance of a
+development permit or action, shall provide a copy of the state or federal
+permit to the Planning Division. Nothing in this article shall relieve a use or
+development from compliance with other applicable laws.
+(K) Burden and Nature of Proof: The applicant shall bear the burden of
+proof that the proposal complies with the applicable standards. Evidence
+of mistake of adoption of the plan designation or development regulations
+or subsequent change in the affected area are relevant considerations.
+Failure to comply with any provision of this Article shall invalidate an
+action only if it prejudices the substantial rights of the person alleging the
+error. Persons alleging procedural error shall have the burden of proof as
+to whether the error occurred and whether the error has prejudiced the
+person’s substantial rights.
+
+Clatsop County Land and Water II-9 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.0300. DEVELOPMENT PERMIT REQUIREMENTS [ORD. 25-02]
+1) An application for a development permit shall consist of the following materials,
+plus any other materials specific to an application and as required by this
+Ordinance.
+(A) Application form signed by all owners
+(B) Proof that the property is exclusively owned by the applicant, or that the
+applicant has the consent of all owners to submit the application
+(C) Application fee or waiver approved by the Board of Commissioners
+(D) Legal description of the property
+(E) Site map drawn to scale, showing the information required by Section
+2.9410
+(F) Detailed description of the proposed development
+(G) For developments that will use potable water, sewer and/or on-site septic,
+the following shall be provided:
+i. Proof that a year-round source of potable water has been obtained
+pursuant to Section 3.0040.
+ii. Verification of septic approval or hook-up to a state approved sewer
+system.
+(H) Proof of legal access to the property:
+i. If access is taken directly from a State, County, or public road,
+documentation from the appropriate agency verifying legal access.
+ii. If access is taken from a private road or across property not in
+exclusive ownership of the applicant, proof of easement shall be
+provided.
+(I) Authorization from the local fire official.
+2) The following activities do not require a development permit. Exempt activities
+shall still comply with all other applicable requirements of the Ordinance,
+including, but not limited to, Sections 5.1000 and 5.3000.
+(A) Landscaping, gardening or other similar use of the land surface that does
+not involve the placement of a structure.
+(B) Fences 6 or less feet in height that are outside the clear vision area
+(Section 3.9530). An additional six inches in height is allowed for
+decorative finials, posts and gats, and does not require a development
+permit. Fences greater than 6 feet in height require a development permit
+and must meet applicable setback standards, unless a fence height
+variance has been approved. [ORD. 26-05]
+(C) Internal changes to a building or other structure that do not increase the
+building footprint and that do not require a building permit.
+(D) Residential accessory structures less than 200 square feet in area and
+less than 10 feet in height. No structures may be placed within the clear
+vision area (see Section 3.9530 - Clear Vision Area).
+(E) Temporary emergency measures necessary for the safety or protection of
+property in the event of a natural disaster or catastrophic event. If state,
+
+Clatsop County Land and Water II-10 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+federal or local permits are required for the activity, those permits must be
+obtained following installation of the temporary emergency measure.
+(F) Erection of a tent or similar portable structure for special events for a
+period of up to 30 days.
+(G) Farming, except in the F-80 zone.
+(H) Seasonal flower stands, selling flowers grown on the property where the
+stand is located. Seasonal flower stands shall not be larger than 10
+square feet in size or more than 10 feet in height.
+(I) Activities regulated by the Oregon Department of Forestry under the
+Oregon Forest Practices Act.
+(J) Recreational vehicles, campers, trailers, motor homes, and boats may be
+temporarily occupied by the property owners, their family or non-paying
+guests for up to 120 days each calendar year.  No more than three
+vehicles may be used for temporary occupancy on a property at any time.
+Vehicles shall be removed from the property at the end of each 120-day
+period.
+(K) Roads or utilities as defined in Section 1.5000.  The terms “roads” and
+“utilities” shall also include electrical power or gas distribution lines or
+telephone or television cable systems. These uses require a development
+permit in overlay zones and resource zones.
+(L) A recreational vehicle that is temporarily occupied as a residential dwelling
+when the existing dwelling has become uninhabitable due to damages
+from a natural disaster, including wildfire, earthquake, flooding or storms.
+The recreational vehicle shall not be used as a residential dwelling once
+one of the following has occurred:
+i. The dwelling has been repaired or replaced and an occupancy
+permit has been issued;
+ii. The County determines that the owner of the dwelling has not
+commenced completing the repairs or replacing the dwelling within
+180 days from the date the first building permit was issued; or
+iii. Five years after the date the dwelling first became uninhabitable.
+[ORD. 23-02; ORD. 24-01]
+iv. Under alter, restore, or replacement of a dwelling destroyed by
+wildfire, identified in an Executive Order issued by the Governor in
+accordance with the Emergency Conflagration Act (ORS 476.510-
+476.610) between August 1 and September 30, 2020, occupancy of
+a recreational vehicle under ORS 197.493(1)(b)(c) is extended to
+December 30, 2020. [ORD. 24-01]
+
+Clatsop County Land and Water II-11 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.0040. PRE-APPLICATION MEETING [ORD. 25-02]
+1) Purpose: The purpose of the meeting is to acquaint the applicant with the
+application process and the applicable elements of the Comprehensive Plan and
+Development Code.
+2) Applicability: A pre-application conference shall be required as follows:
+a. Type I: Pre-application meeting is not required
+b. Type II: Pre-application meeting is not required, unless the property is
+within the Special Flood Hazard Area
+c. Type III and Type IV: Pre-application meeting required
+3) Procedure: A pre-application meeting shall include the following steps:
+a. Prior to scheduling a pre-application meeting the applicant shall provide a
+copy of the proposed site plan, subdivision plat, a map showing all
+property that would be affected by a proposed map amendment, and/or
+specific proposed language if the application is for a text amendment.
+b. Upon receipt of the applicant’s materials, the County shall schedule a pre-
+application meeting and shall notify relevant outside agencies and
+departments.
+c. Following the meeting, the County shall provide the applicant with a
+written summary of the conference within 10 business days of the
+meeting. The summary shall include confirmation of the procedures to be
+used to process the application, a list of materials to be submitted and the
+criteria and standards that will be applied to the review of the application.
+SECTION 2.0050. APPLICANT-NEIGHBORHOOD MEETING [ORD. 17-02] [ORD. 25-
+02]
+The purpose of an applicant-neighborhood meeting is to encourage early and effective
+communication about proposed major developments.
+1) The applicant shall hold a neighborhood meeting before submitting a Type III
+application.
+2) Applicant-Neighborhood Meetings shall be conducted as follows:
+(A) Meetings may be held in-person or virtually.
+(B) In-person meetings shall be held on the subject project, if accessible.  If
+the subject property is not accessible, an accessible location that is within
+25 miles the subject property shall be chosen.
+(C) The applicant shall send mailed notice of the public meeting to the
+Community Development Department Director and all property owners
+within 300 feet of the subject property.
+(D) If any part of the subject property is within the boundaries of a
+neighborhood or community organization as defined by Section 1.0500,
+notice shall be sent to the organization.
+(E) The property owner list shall be provided by the county and shall be
+compiled from County Tax Assessor’s property owners of record.
+(F) The notice shall be sent a minimum of 10 days and no more than 30 days
+before the meeting, and shall include:
+
+Clatsop County Land and Water II-12 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+1) Date, time and location of the public meeting;
+2) For virtual meetings, a link to the meeting shall be provided
+3) A brief written description of the development proposal and
+proposed use(s);
+4) The location of the subject property, including address (if
+applicable), nearest cross streets and any other easily understood
+geographical references, and a map that shows the location of the
+subject property.
+5) Contact information for the applicant, including mailing address,
+telephone number, and email address
+(G) The applicant’s presentation at the neighborhood meeting shall include:
+1) A map depicting the location of the subject property proposed for
+development.
+2) A visual description of the project including a site plan, tentative
+subdivision plan and elevation drawings of any proposed
+structures, if applicable.
+3) A description of the proposed development including, but not
+limited to, sizes and heights of structures, proposed lot sizes, and
+number of units.
+4) The expected or anticipated impacts from the proposed
+development, including, but not limited to, traffic, storm drainage,
+and tree removal.
+5) Mitigation proposed by the applicant to alleviate the
+expected/anticipated impacts.
+6) Sign-in sheet for participants at in-person meetings.
+7) An opportunity for the public to provide comments.
+(H) The applicant shall take meeting notes and submit them with the
+application package.  The meeting notes shall include a summary of
+issues raised at the meeting and the applicant’s response.
+
+Clatsop County Land and Water II-13 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.0060. REVIEW TYPES [ORD. 25-02]
+An application for a permit or land use action shall be processed under either a Type I,
+II, III or IV procedure as shown in Table 2.1. Uses permitted outright in Article 4 require
+a zoning review prior to the issuance of building permits.
+1) Zoning Review: Uses permitted outright in a zone shall obtain a zoning review
+approval to verify required setbacks, maximum buildings heights, maximum lot
+coverage and additional permits or approvals required, if any.
+2) Type I Ministerial Review: Type I decisions are made by the Director, or
+designee, without public notice and without a public hearing. Type I applications
+involve permitted uses or developments governed by clear and objective
+approval criteria.
+3) Type II Administrative Review: Type II decisions are made by the Director, or
+designee, and require public notice and an opportunity to appeal to the Hearings
+Officer. involve uses or development for which review criteria are reasonably
+objective, requiring only limited discretion.
+4) Type III Quasi-Judicial: Type III decisions, with the exception of a quasi-judicial
+zone change, are made by the Planning Commission after a public hearing, with
+an opportunity to appeal to the Board of Commissioners. A decision on a quasi-
+judicial zone change is a Type III decision made by the Board of Commissioners
+on recommendation of the Planning Commission. Quasi-judicial decisions involve
+the exercise of discretion and judgment when applying applicable land use and
+development criteria, but implement established policy.
+5) Type IV Legislative: Type IV actions are reviewed by the Planning Commission,
+which makes a recommendation to the Board of Commissioners. The Board of
+Commissioners makes the final decision on a legislative proposal through the
+adoption of an ordinance. Legislative decisions involve the creation, broad-scale
+implementation, or revision of public policy. Changes to the comprehensive plan
+are legislative actions. Applications to the amend the County’s zoning and/or
+comprehensive plan maps are legislative when a large number of owners or
+entire class of property owners will be directly affected. Applications to amend
+the County’s zoning and/or comprehensive plan maps are quasi-judicial when the
+change would affect only a limited, specific number of properties. The provisions
+in Article 2 shall not limit the authority of the Board of Commissioners to initiate
+changes to overlay or zone designations or development requirements as part of
+a revision of the Comprehensive Plan or implementing ordinance.
+
+Clatsop County Land and Water II-14 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.0070. GENERAL NOTICING REQUIREMENTS [ORD. 25-02]
+1) The following general noticing requirements are in addition to the noticing
+requirements included in Section 2.0080:
+(A) The County shall provide notice to the Department of State Lands for
+development applications that are wholly or partially within an area
+mapped for hydric soils as identified on the Statewide Wetlands Inventory.
+(B) For applications for a comprehensive plan or zone change, notice shall be
+provided to the Oregon Department of Transportation (ODOT).
+(C) For applications for new or expanded development within 750 feet of a
+state highway, the County shall provide notice to ODOT.
+(D) The County shall provide notice of all comprehensive plan and zoning
+ordinance amendments to the Department of Land Conservation and
+Development (DLCD). Notice shall be provided at least 35 days prior to
+the first evidentiary hearing and will be consistent with ORS 197.610.
+(E) An affidavit or other formal certification of all mailing notices shall be made
+part of the record.
+(F) Addresses for a mailed notice shall be obtained from the County
+Assessor’s real property tax records.
+(G) Failure of a notified party to receive notification will not invalidate the
+procedure.
+
+Clatsop County Land and Water II-15 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.0080. PROCEDURES [ORD. 25-02]
+1) Type I: The following procedures apply to all Type I applications and approvals:
+(A) Public Notice: No notice is required for a Type I application.
+(B) Criteria and Decision: The Director’s review of a Type I application will
+determine whether minimum code requirements are met and whether any
+other land use permit or approval is required prior to issuance of a building
+permit.
+(C) Notice of Decision: Type I development approvals shall be decided by
+the Director, or designee, without public notice or hearing. Notice of a
+decision shall be provided to the applicant.
+(D) Effective Date: A Type I decision is final on the date it is issued by the
+Director or designee.
+(E) Appeals: A Type I decision can be appealed in accordance with Section
+2.0090(1).
+2) Type II:  The following procedures apply to all Type II applications and
+approvals:
+(A) Public Notice: The purpose of the notice is to give surrounding property
+owners and other interested people and agencies the opportunity to
+submit written comments on the application before the Director issues a
+decision.
+i. Notice of a Type II application shall be sent to the following parties:
+a. All owners of record of real property within 100 feet of the
+subject property if the subject property is within an Urban
+Growth Boundary (UGB)
+b. All owners of record of real property within 250 feet of the
+subject property if the subject property is outside a UGB and
+not a farm or forest zone
+c. All owners of record of real property within 750 feet of the
+subject property if the subject property is outside a UGB and in
+a farm or forest zone
+d. The applicant
+e. Any neighborhood or community organization whose
+boundaries include the subject property
+f. Any affected government agency or special district, including
+affected cities if the subject property is adjacent to or within
+the UGB
+g. Owners of a public use airport if the subject property is within
+10,000 feet of the airport perimeter
+h. All other persons or agencies that may be affected by the
+proposal
+ii. The notice shall contain the following information:
+a. A summary of the proposal and the relevant approval criteria
+b. The general location of the subject property and, when
+available, street address, legal description, or other easily
+
+Clatsop County Land and Water II-16 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+understandable reference to the location of the proposed
+development
+c. The name of the County staff person and contact information
+for submitting written comments
+d. The deadline for submitting written comments, which shall be
+at least 10 days prior to the decision date.
+iii. Disclosure statement indicating that if any person fails to address
+the relevant approval criteria with enough detail, they may not be
+able to appeal to the Land Use Board of Appeals or Circuit Court on
+that issue. Only comments on the relevant approval criteria are
+considered relevant evidence.
+iv. Statement that all evidence relied upon by the decision maker is
+public record and is available for public review. Copies of this
+evidence can be obtained at a reasonable cost from the County.
+v. Statement in capital letters: “NOTICE TO MORTGAGEE,
+LIENHOLDER, VENDOR OR SELLER: ORS CHAPTER 215
+REQUIRES THAT IF YOU RECEIVE THIS NOTICE, IT MUST BE
+PROMPTLY FORWARDED TO THE PURCHASER.”
+(B) Criteria and Decision:
+i. At the conclusion of the comment period, the Director shall review
+the comments received and prepare a decision approving,
+approving with conditions, or denying the application based on the
+applicable Ordinance criteria.
+(C) Notice of Decision:
+i. The Notice of Decision shall be provided to:
+a. the applicant
+b. all parties who provided comment on the application
+c. DLCD
+d. any affected agencies and County departments
+ii. An affidavit of mailed notice shall be prepared and made a part of
+the file. The affidavit shall show the date the notice was mailed and
+shall demonstrate that the notice was mailed to the parties above.
+iii. The Notice of Decision shall include the following information:
+a. A description of the applicant’s proposal and the County’s
+decision, including conditions of approval if applicable
+b. The street address or other easily understood geographic
+description of the subject property
+c. The date the decision shall become final, unless appealed
+d. Statement that any person who is adversely affected or who is
+entitled to written notice may appeal the decision by filing a
+written appeal within 12 days of the date the notice was mailed
+e. Statement that the decision will not become final until the 12-
+day appeal period has ended
+(D) Appeals: A Type II decision can be appealed in accordance with Section
+
+Clatsop County Land and Water II-17 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+2.0090(1).
+3) Type III:  The following procedures apply to all Type III applications and
+approvals:
+(A) Public Notice: The County shall provide notice of a public hearing on a
+quasi-judicial application at least 20 days prior to the first hearing date.  If
+two or more hearings are allowed, then notice shall be provided at least 10
+days prior to the first hearing. The Director, or designee, shall prepare an
+affidavit or formal certification stating the date that the notice was mailed,
+which shall be made part of the file.
+i. Notice of a public hearing shall be provided to the following parties:
+a. All owners of record of real property within 100 feet of the
+subject property if the subject property is within an Urban
+Growth Boundary (UGB)
+b. All owners of record of real property within 250 feet of the
+subject property if the subject property is outside a UGB and
+not a farm or forest zone
+c. All owners of record of real property within 750 feet of the
+subject property if the subject property is outside a UGB and in
+a farm or forest zone
+d. The applicant
+e. Any neighborhood or community organization whose
+boundaries include the subject property
+f. Any affected government agency or special district, including
+affected cities if the subject property is adjacent to or within
+the UGB
+g. Owners of a public use airport if the subject property is within
+10,000 feet of the airport perimeter
+h. All other persons or agencies that may be affected by the
+proposal
+ii. Notice of a public hearing shall include the following information:
+a. A summary of the proposal and the relevant approval criteria
+b. The general location of the subject property and, when
+available, street address, legal description, or other easily
+understandable reference to the location of the proposed use
+or development
+c. The date, time and location of scheduled hearing and the
+name of the hearing body
+d. The name of the County staff person and contact information
+for submitting written comments and obtaining additional
+information
+e. Disclosure statement indicating that if any person fails to
+address the relevant approval criteria with enough detail, they
+may not be able to appeal to the Land Use Board of Appeals
+or Circuit Court on that issue. Only comments on the relevant
+
+Clatsop County Land and Water II-18 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+approval criteria are considered relevant evidence.
+f. Statement that all evidence relied upon by the decision maker
+is public record and is available for public review. Copies of
+this evidence can be obtained at a reasonable cost from the
+County.
+g. Statement that a copy of the staff report will be available for
+inspection at no cost at least seven days prior to the hearing
+and paper copies will be provided at reasonable cost.
+h. A general explanation of the requirements for submission of
+testimony and the procedure for conduct of hearings.
+(B) Newspaper Notice: Notice of the public hearing shall be published in a
+newspaper of general circulation in the County at least ten (10) calendar
+days prior to the date of a quasi-judicial public hearing. An affidavit or
+other formal certification of publication shall be made part of the record.
+(C) Posting of Subject Property:
+i. The County shall prepare the notice to be posted on the subject
+property.
+ii. The County shall photograph the sign on the subject property and
+shall prepare an affidavit stating the date the sign was posted.
+iii. The County shall post the notice at least 20 days before the first
+scheduled public hearing. If two or more public hearings will be
+held, the sign shall be posted not less than 10 days prior to the first
+public hearing.
+iv. One sign shall be posted on each frontage of the subject property.
+The sign shall be placed in a location visible from a road or street
+abutting the property. If no road or street abuts the property, the
+notice shall be placed in a location that is generally visible to the
+public.
+v. If the subject property is located where the posting would not be
+visible to anyone other than adjacent property owners who received
+written notice, alternative locations visible to the public shall be
+determined by the Community Development Director.
+vi. Notices shall not be posted within the public right-of-way or on
+trees.
+(D) Notice of Decision:
+i. The Notice of Decision shall be provided to:
+a. the applicant
+b. all parties who provided comment on the application
+c. DLCD
+d. any affected agencies and County departments
+ii. An affidavit of mailed notice shall be prepared and made a part of
+the file. The affidavit shall show the date the notice was mailed and
+shall demonstrate that the notice was mailed to the parties above.
+iii. The Notice of Decision shall include the following information:
+
+Clatsop County Land and Water II-19 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+a. A description of the applicant’s proposal and the County’s
+decision, including conditions of approval if applicable
+b. The street address or other easily understood geographic
+description of the subject property
+c. Findings of fact which the hearing body used to establish
+compliance or noncompliance with the applicable review
+criteria
+d. The date the decision shall become final, unless appealed
+e. Statement that any person who is adversely affected or who is
+entitled to written notice may appeal the decision by filing a
+written appeal within 12 days of the date the notice was mailed
+f. Statement that the decision will not become final until he 12-
+day appeal period has ended
+g. Statement that persons entitled to appeal may appeal the
+decision to the Board of County Commissioners or to the Land
+Use Board of Appeals, as applicable.
+(E) Appeals: A Type III decision can be appealed in accordance with Section
+2.0090(2).
+(F) Conduct of the Public Hearing:
+i. Staff Report: At least seven days prior to the hearing, the
+Department shall provide a written report to the hearing body and
+shall make the report available to the public for inspection or
+purchase. The report shall detail the nature of the request and
+include findings based on the applicable review and approval
+criteria.
+ii. Application Materials: All application materials, documents or
+other evidence submitted by or on behalf of the applicant for any
+land use approval shall be provided and made available for public
+review.
+iii. Hearings Procedure: At the start of the hearing, the hearings
+officer or the chair of the Planning Commission, as applicable, shall
+state to those in attendance all of the following information and
+instructions:
+a. The approval criteria that apply to the application
+b. Testimony and evidence shall concern the approval criteria
+described in the staff report or any other criteria in the
+comprehensive plan or land use regulations that the person
+testifying believes to apply to the decision.
+c. Failure to raise an issue with sufficient detail to give the
+hearing body and the parties an opportunity to respond to the
+issue may preclude appeal to the State Land Use Board of
+Appeals.
+d. At the conclusion of the initial evidentiary haring, the hearing
+body shall deliberate and make a decision based on the facts
+
+Clatsop County Land and Water II-20 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+and arguments in the public record.
+e. Any participant may ask the hearing body for an opportunity to
+present additional relevant evidence or testimony that is within
+the scope of the hearing; if the hearing body grants the
+request, it will schedule a date to continue the hearing), or
+leave the record open for additional written evidence or
+testimony as provided in Subsection (H).
+(G) Procedural Rights. Applicants are entitled to an impartial review free
+from potential conflicts of interest and pre-hearing ex-parte (outside the
+hearing) communications.
+i. Ex Parte Communications: Prior to conducting the public hearing,
+members of the hearing body shall disclose all ex-parte
+communications.
+ii. No decision or action of a hearing body shall be invalid due to ex
+parte communications or bias resulting from ex parte
+communications with a member of the hearing body, if the member
+receiving the contact:
+a. States for the record the substance of any written or oral ex
+parte communications
+b. The hearing body allows the applicant to address the
+substance of the ex parte communication
+c. A communication between County staff and the hearing body
+shall not be considered ex parte communication
+iii. When a hearing body member has an actual conflict of interest, as
+defined in ORS 244.020(1), the member shall not participate in the
+hearing, except where State law provides otherwise.
+iv. Where the appearance of a conflict of interest is likely, the member
+of the hearing body shall individually disclose their relationship to
+the applicant in the public hearing and state whether they are
+capable of rendering a fair and impartial decision. If they are unable
+to render a fair and impartial decision, they shall be excused from
+the proceedings.
+v. Challenges to Impartiality: Except for Type IV hearings conducted
+by the governing body, a party to a hearing or a member of the
+hearing body may challenge the qualifications of a member of the
+hearing body to participate in the hearing. The challenging member
+shall provide an affidavit stating the facts relied upon to determine a
+person’s bias, prejudgment, personal interest, or other facts from
+which the challenger has concluded that a member of the hearing
+body cannot participate in an impartial manner. Except for good
+cause shown, challenge shall be delivered by personal service to
+the Community Development Director not less than 48 hours before
+the time set for the public hearing. The Director shall notify the
+person whose qualifications are challenged prior to the meeting.
+
+Clatsop County Land and Water II-21 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+The challenge shall be incorporated into the record of the hearing.
+vi. Disqualification: Except for Type IV hearings conducted by the
+governing body, no member of a hearing body shall participate in a
+discussion of the proposal or vote on the proposal when any of the
+following conditions exist:
+a. The member is unable to render a fair and impartial decision.
+A member unable to render a fair and impartial decision shall
+be excused from the proceedings.
+b. The majority of the hearing body members vote to disqualify a
+member.  The member subject to the motion shall not vote on
+the motion.
+c. A disqualified member shall be counted for purposes of
+forming a quorum.
+d. A member disqualified due to an actual conflict of interest shall
+abstain from voting on the proposal and shall physically leave
+the hearing body.
+(H) Presenting and Receiving Evidence:
+i. The hearing body may set reasonable time limits for oral
+presentations and may limit or exclude cumulative, repetitious,
+irrelevant or personally derogatory testimony or evidence.
+ii. No oral testimony shall be accepted after the close of the public
+hearing. Written testimony may be received after the close of the
+public hearing only as provided by Subsection (H)(iv).
+iii. Members of the hearing body may visit the property and the
+surrounding area and may use information obtained during the site
+visit to support their decision, if the information relied upon is
+disclosed at the beginning of the hearing and an opportunity is
+provided to dispute the evidence.
+iv. Prior to the conclusion of the initial evidentiary hearing, any
+participant may request an opportunity to present additional
+evidence or testimony regarding the application. The hearing body
+shall grant such request by continuing the public hearing or leaving
+the record open for additional written evidence or testimony
+pursuant to Subsection (I) below.
+v. A member of the hearing body who is absent during the
+presentation of evidence in a hearing shall not participate in the
+deliberations or final decision regarding the matter unless the
+member has reviewed the evidence received.
+(I) Continuance: All documents or evidence relied upon by the applicant
+shall be submitted to the County and shall be made available to the public.
+If additional documents or evidence are provided by any party, the hearing
+body may allow a continuance or leave the record open for at least seven
+days to allow the parties an opportunity to respond. Any continuance or
+extension of the record requested by the applicant shall result in a
+
+Clatsop County Land and Water II-22 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+corresponding extension of the time limitations of ORS 215.427.
+i. If the hearing body grants a continuance, the hearing shall be
+continued to a date, time and place certain at least seven days from
+the date of the first evidentiary hearing. An opportunity shall be
+provided at the continued hearing for persons to present and rebut
+new evidence and testimony. If new written evidence is submitted
+at the continued hearing, any person may request, prior to the
+conclusion of the continued hearing, that the record be left open for
+at least seven days to submit additional written evidence or
+testimony for the purpose of responding to the new written
+evidence.
+ii. If the hearing body leaves the record open for additional written
+evidence or testimony, the record shall be left open for at least
+seven days. Any participant may file a written request with the
+hearing body for an opportunity to respond to new evidence
+submitted during the period the record was left open. If such a
+request is filed, the hearing body shall reopen the record and any
+person may raise new issues which relate to the new evidence,
+testimony or criteria for decision-making which apply to the matter
+at issue.
+iii. A continuance or extension granted pursuant to this subsection
+shall be subject to the limitations of ORS 215.427 unless the
+continuance or extension is requested or agreed to by the
+applicant.
+iv. Unless waived by the applicant, the hearings body shall allow the
+applicant at least seven days after the record is closed to all other
+parties to submit final written arguments in support of the
+application. The applicant’s final submittal shall be considered part
+of the record, but shall not include any new evidence.
+(J) Record of the Public Hearing:
+i. The official public hearing record shall include all of the following
+information:
+a. All materials considered by the hearings body
+b. All materials submitted by the County Planning Official to the
+hearings body regarding the application
+c. The minutes of the hearing
+d. The final written decision
+e. Copies of all notices given as required by this section
+f. Correspondence regarding the application that the County
+mailed or received
+ii. The minutes of the meeting shall either be in hardcopy form or electronic.
+iii. All exhibits received and displayed shall be marked to provide
+identification and shall be part of the record.
+(K) Effective Date of Decision: Unless the conditions of approval specify
+
+Clatsop County Land and Water II-23 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+otherwise, a quasi-judicial decision becomes effective 12 days after the
+County mails the decision notice, unless the decision is appealed.
+4) Type IV:  The following procedures apply to all Type IV applications and
+approvals:
+(A) Public Notice: Notice of review and decision for Type IV approvals shall
+be done in accordance with the provisions of ORS 215.503. In addition,
+the following shall be required for Type IV decisions:
+i. Newspaper Notice: Notice of the public hearing shall be published
+in a newspaper of general circulation in the County at least 10 days
+prior to each public hearing.
+(B) Notice of Decision: Notice of decision shall be provided to persons who
+testified orally or in writing while the public record was open regarding the
+proposal. The notice shall include the following information:
+i. A summary of the decision
+ii. The date and number of the adopting ordinance
+iii. A summary of the requirements for appealing the decision to the
+Land Use Board of Appeals (ORS 197.830-845)
+iv. Notice of a Type IV decision shall be mailed within 20 days of the
+decision to:
+a. the applicant
+b. all participants of record
+c. The Department of Land Conservation and Development
+(C) Appeals: A Type IV decision can be appealed in accordance with Section
+2.0090(3).
+(D) Effective Date of Decision: A Type IV land use decision, if approved,
+shall take effect and shall become final as specified in the ordinance.  If
+the ordinance is not approved, the decision is considered final as of the
+date the notice of decision is issued.
+
+Clatsop County Land and Water II-24 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.0090. APPEALS [ORD. 25-02]
+1) Appeal of Type I or Type II Decision
+(A) Any party to the decision may appeal a Type I or Type II decision to the
+Hearings Officer, as specified in Table 2.1. Decisions that are not land use
+decisions as defined by ORS 197.015, may be appealed to the circuit
+court.
+(B) Notice of Appeal: Any person with standing may appeal a Type I or Type
+II decision to the Hearings Office by filing a Notice of Appeal according to
+the following procedures:
+i. Appeal Deadline: A Notice of Appeal must be filed by the aggrieved
+party within 12 days of the date the Notice of Decision was issued.
+ii. Content of Notice of Appeal: A Notice of Appeal shall be
+accompanied by the required filing fee, unless waived by the Board
+of Commissioners, and shall contain the following information:
+a. Identification of the decision being appealed and the date of
+the Notice of Decision
+b. The name and signature of each petitioner and a statement of
+the standing of the person(s) seeking review
+c. A statement explaining the specific grounds for appeal.
+(C) Appeal Authority: Appeal of a Type I or Type II land use decision shall
+be reviewed by the hearings officer. The hearings officer shall be the final
+decision-maker for the County on appeals of the final decision of the
+Director for Type I or II actions.
+(D) Appeal Process: All appeal hearings shall be conducted as public
+hearings in accordance with Section 2.0080(3). Public notice for appeal
+hearings shall be the same as public notice for Type III hearings in Section
+2.0080(3).
+(E) Review of the Final Decision: Review of the final decision of a Type I
+application shall be limited to the issues raised in the petition. Review of
+the final decision of Type II actions shall be a de novo hearing before the
+hearings officer. For an appeal of a Type II decision, the hearings officer
+may allow additional evidence, testimony or argument concerning any
+relevant standard, criterion, or issue.
+(F) Notice of Decision: A Notice of Decision on the appeal shall be provided
+in accordance with Section 2.0080(3)
+2) Appeal of a Type III Decision:
+(A) The following people have legal standing to appeal a Type III decision to
+the Board of County Commissioners:
+i. The applicant or owner of the subject property
+ii. Any other person who testified orally or in writing during the public
+hearing before the close of the public record.
+(B) Notice of Appeal: Any person with standing to appeal, as provided in
+subsection (A) may appeal a Type III decision by filing a Notice of Appeal
+according to the following procedures
+
+Clatsop County Land and Water II-25 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+i. Appeal Deadline: Notice of intent to appeal shall be filed by the
+aggrieved party within 12 days of the date the Notice of Decision
+was issued.
+ii. Content of Notice of Appeal: A Notice of Appeal shall be
+accompanied by the required filing fee, unless waived by the Board
+of Commissioners, and shall contain the following information:
+a. Identification of the decision being appealed and the date of
+the Notice of Decision
+b. The name and signature of each petitioner and a statement of
+the standing of the person(s) seeking review
+c. A statement explaining the specific grounds for appeal.
+(C) Appeal Authority: The appeal of a Type III decision shall require a de
+novo hearing before the Board of Commissioners. The Board of
+Commissioners may allow additional evidence, testimony or argument
+concerning any applicable standard, criterion, condition, or issue.
+(D) Appeal Process: All hearings on appeal shall be conducted as public
+hearings in accordance with Section 2.0080(3). Public notice for appeal
+hearings shall be the same as public notice for Type III quasi-judicial
+hearings in Section 2.0080(3).
+(E) Effective Date: The appeal decision shall be effective on the date the
+County issues the Notice of Decision. Appeals of Board of Commissioners
+decisions shall be filed with the State Land Use Board of Appeals,
+pursuant to ORS 197.805-197-860.
+3) Appeal of a Type IV Decision:
+(A) Appeal of a Type IV land use decision may be made to the State Land
+Use Board of Appeals in accordance with ORS 197.830-845.
+(B) Pursuant to ORS 197.620, a decision to not adopt a legislative
+amendment or a new land use regulation is not appealable unless the
+amendment is necessary to address the requirements of a new or
+amended goal, rule or statute.
+
+SECTION 2.1000. REMANDS [ORD. 25-02]
+1) When an application is remanded from an appellate body such as the Land Use
+Board of Appeals or Circuit Court, to the County for further proceedings, the For
+applications where the decision of the Board of Commissioners was appealed,
+the Board shall decide at a regular meeting as a non-public hearing item,
+whether the matter shall proceed before the Board or a subordinate review
+authority.
+2) Final action shall be taken on the remanded application within 90 days of the
+effective date of the remand order issued by the Land Use Board of Appeals.
+(A) The effective date of the final order is the last day for filing a petition for
+judicial review of a final order of the State Land Use Board of Appeals
+under ORS 197.850(3).
+(B) If judicial review of a final order is sought under ORS 197.830, the 90-day
+
+Clatsop County Land and Water II-26 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+period shall not begin until final resolution of the judicial review.
+(C) The 90-day period shall not begin until the applicant requests in writing
+that the County proceed with the application on remand.
+(D) The 90-day period can be extended at the request of applicant.
+(E) The 90-day period does not apply to a remand concerning a decision of
+the county making a change to an acknowledged comprehensive plan or a
+land use regulation that is submitted to DLCD under ORS 197.610.
+
+Clatsop County Land and Water II-27 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.4000. CONDITIONAL DEVELOPMENT AND USE [ORD. 25-02]
+Section 2.4010. General Purpose
+Although each zoning district is primarily intended for a predominate type of use and
+development, there may be cases when a use may be appropriate in a particular district
+depending upon all the circumstances of the individual case. For example, the location,
+nature of the proposed use, character of the surrounding development, traffic capacities
+of adjacent streets, and potential environmental impacts, all may indicate that the
+application needs to be individually reviewed. It is the intent of this section to provide a
+system of review to ensure that the use is compatible with its location and with this
+ordinance and the objectives of the comprehensive plan.
+Section 2.4020. Application for a Conditional Use [ORD. 25-02]
+If a use is classified as conditional in a zone, it is subject to approval under Sections
+2.4000 to 2.4050. An applicant for a conditional use shall provide facts and evidence
+and a site plan in compliance with Section 2.9400. The applicant shall also provide a
+detailed project description, including:
+1) Operating characteristics of the use
+2) Number of buildings and dimensions for each building
+3) Operating hours
+4) Number of employees
+5) Number and size of off-street parking spaces
+6) Proposed lighting and location
+7) Proposed signs, locations and dimensions
+8) Proposed fencing location and dimensions
+9) Proposed landscape buffer locations and plant specifications
+The purpose of these requirements is to ensure that the applicant has provided enough
+detailed information to allow the decision maker to reach a determination.
+Minor conditional uses are processed as a Type II application.  Major conditional uses
+are processed as a Type III application.
+Section 2.4030. Minor (Type II) and Major (Type III) Conditional Uses [ORD. 25-02]
+1) Conditional uses are listed in each zone as either a Type II (Minor Conditional
+Use) or Type III (Major Conditional Use). Type II conditional use applications
+shall be reviewed by the Community Development Director. Type III conditional
+uses shall be reviewed by the hearings officer.
+2) If a proposed application is for a non-water dependent use or an activity in the
+Marine Industrial Shorelands Zone, Section 4.1950 shall also apply
+
+Clatsop County Land and Water II-28 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+3) The decision maker shall approve, approve with conditions or deny an
+application for a new, enlarged or conditional use based on findings fact for each
+of the following criteria:
+(A) The proposed use complies with all applicable provisions, goals, or
+policies of the Comprehensive Plan.
+(B) The proposed use complies with all applicable requirements and
+standards of this Ordinance.
+(C) The subject property is suitable for the proposed use based upon the
+property’s size, shape, location, topography and natural features.
+(D) The subject property has, or will have, legal access at the time of
+occupancy.
+(E) There is, or will be at the time of occupancy, capacity within the roadway
+system to serve the project.
+(F) Adequate public facilities and services are, or will be, available to service
+the subject property at the time of occupancy. Adequate public facilities
+and services are demonstrated by providing a signed agency review form
+to the Land Use Planning Division prior to commencing construction.
+(G) The proposed development will not impact natural resources, including:
+a. Wetlands
+b. Coastal Shorelands as identified in Goal 17
+c. Streams, lakes, or rivers
+d. Aquatic areas
+e. Inventoried Goal 5 resources
+If impacts will occur, the applicant must provide information on the
+proposed mitigation.
+(H) The proposed development will not be impacted by natural hazards and
+will not increase risk to surrounding lands and buildings if the use will be
+constructed within a floodplain or geologic hazard area.
+(I) The proposed use is compatible with existing and projected uses on
+surrounding lands.
+(J) For properties designated in the Comprehensive Plan as Rural Agricultural
+Lands or Forest Lands, the decision maker must find that the use is
+consistent with the maintenance of peripheral and major big game habitat.
+To make this determination, the decision maker shall consider the
+cumulative effects to big game habitat from the proposed action and other
+existing and proposed development in the area.
+Section 2.4040. Conditions of Approval [ORD. 25-02]
+In addition to compliance with all applicable regulations and standards, the hearing body
+may impose conditions on its approval of the use to ensure the proposed use is
+compatible with other surrounding uses. These conditions may include, but are not
+limited to:
+1) Limiting the hours, days, place and manner of operation.
+2) Limiting operations that create environmental impacts such as noise, vibration,
+
+Clatsop County Land and Water II-29 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+air pollution, glare and odor, or requiring design features to minimize those
+impacts
+3) Requiring additional setback areas, open space or increased lot area, width or
+depth.
+4) Limiting the height, footprint or location of a building or other structure.
+5) Designating the size, number, location or surfacing of vehicle access points.
+6) Requiring right-of-way dedication, roadway widening or other improvements
+within the street right-of-way.
+7) Designating the size, location, screening, drainage, surfacing or other
+improvement for parking or truck loading areas.
+8) Limiting or designating the number, size, location, height or lighting of signs.
+9) Limiting the location and intensity of outdoor lighting.
+10) Requiring diking, screening, landscaping or other buffering to minimize or
+mitigate impacts to surrounding properties from the proposed use.
+11) Designating the size, height, location or materials for a fence.
+12) Requiring the protection of existing trees, vegetation, water resources, wildlife
+habitat or other significant natural resources inventoried in Goal 5 of the County’s
+comprehensive plan.
+13) Requiring public access (physical or visual) to natural, scenic and recreational
+resources identified in Goals 5, 16, 17 and 18 of the County’s comprehensive
+plan.
+14) Specifying other conditions needed to ensure the development is in compliance
+with all applicable codes.
+Section 2.4050. Expiration of Conditional Use Approvals [ORD. 25-02]
+1) A conditional use approval shall expire after two years unless the project is
+completed, is actively under development, or substantial construction has
+occurred as defined in Section 1.0500.
+2) A one-year extension may be granted by the original decision maker upon finding
+that:
+a) The applicant has demonstrated that the application is still in compliance
+with all applicable regulations and standards
+b) There are no changes to the project
+c) There are still adequate public facilities and services and roadway
+capacity to service the project
+3) An extension request shall be submitted in writing at least 30 days prior to the
+expiration of the approval.
+4) A five-year extension may be granted by the original decision maker for
+conditional use approvals for dike maintenance and related activities as such
+approvals normally correspond with parallel state and/or federal permits.
+5) A conditional use approval for a dwelling in the AF, EFU and F-80 zones shall
+expire after four years unless the project is completed, is actively under
+construction or substantial construction has occurred as defined in Section
+1.0500.
+
+Clatsop County Land and Water II-30 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+6) The original decision maker may grant a two-year extension for a conditional use
+dwelling in the AF, EFU and F-80 upon finding that:
+a) The applicant has demonstrated that the application is still in compliance
+with all applicable regulations and standards
+b) There are no changes to the project
+c) There are still adequate public facilities and services and roadway
+capacity to service the project
+7) An extension request must be submitted in writing at least 30 days prior to
+expiration of the approval.
+8) In addition to the two-year extension above, the original decision maker may
+approve no more than five additional one-year extensions of a conditional use
+approval for a dwelling in the EFU, F-80 or AF zones if:
+a) An extension request is submitted in writing prior to the expiration of an
+extension;
+b) The applicable residential development statute has not been amended
+following the approval of the permit; and
+c) An applicable rule or land use regulation has not been amended following
+the issuance of the permit, unless allowed by the county, which may
+require that the applicant comply with the amended rule or land use
+regulation.
+d) An extension of a permit under subsections (6-8) of this section is not a
+land use decision as defined in ORS 197.015. [ORD. 23-02]
+
+Clatsop County Land and Water II-31 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.5000. MODIFICATIONS TO APPROVED PLANS AND CONDITIONS OF
+APPROVAL [ORD. 26-05]
+Section 2.5010. Purpose
+The purpose of this section is to provide an efficient process for modifying land use
+decisions and approved development plans.
+
+Section 2.5020. Applicability
+1) This section applies to the following development applications which have been
+approved through the applicable provisions of this code:
+(A) Site plan review
+(B) Subdivisions and partitions
+(C) Conditional uses
+(D) Planned developments
+(E) Temporary use permits
+(F) Variances
+(G) Conditions of approval applied to any of the above application types
+2) This section does not apply to development code or comprehensive plan text or
+map amendments.
+3) Proposed modifications that meet the following are considered substantial and
+are not considered modifications. Proposals meeting the thresholds below are
+considered new proposals and shall require a new application, fee and review.
+(A) A request to further reduce a dimensional standard already reduced by an
+approved variance
+(B) An increase in the number of dwelling units in a Planned Development
+(C) Any modification not listed below as a Major or Minor Modification
+(D) A change to any application that was approved or condition of approval
+that was applied using a Type III procedure.
+
+Section 2.5030. Major Modifications
+1) Proposed modifications that meet the following thresholds are considered major:
+(A) A new use is proposed
+(B) A change is proposed to the approved use that would require additional
+parking or generate additional traffic
+(C) An increase in the number of dwelling units for projects that are not
+Planned Developments
+(D) A change in the type or location of access ways, drives or parking areas
+that affect off-site traffic
+(E) An increase in non-residential floor area by more than 25% of the
+approved area
+(F) A reduction of required open space that is more than 10% of the approved
+open space
+2) Procedure: The application shall be reviewed using the Type II review
+procedures in Section 2.0080(2).
+
+Clatsop County Land and Water II-32 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+(A) The applicant shall submit the following items:
+i. Major Modification application form
+ii. Required fee
+iii. Revised documents showing all proposed modifications
+iv. Documentation from a professional engineer describing impacts to
+off-site traffic and proposed solutions for changes to access ways,
+drives or parking that will affect off-site traffic
+v. Revised conditions of approval, if applicable
+
+Section 2.5040. Minor Modifications
+1) Any modification to an approved application not listed above shall be processed
+as a minor modification.
+2) Procedure: The application shall be reviewed using the Type I review procedures
+in Section 2.0080(1).
+(A) The applicant shall submit the following items:
+i. Minor Modification application form
+ii. Required fee
+iii. Revised documents showing all proposed modifications
+iv. Revised conditions of approval, if applicable
+SECTION 2.6000. DEVELOPMENTS AND USES OF THE SAME TYPE [ORD. 25-02]
+Section 2.6010. Determination of Nature of Unlisted Developments and Uses
+The Planning Commission shall examine the characteristics of uses not listed in any zone and
+shall determine in which zone the use should be allowed and whether it should be allowed as a
+permitted or conditional use. The Planning Commission shall base its decision on findings that
+the development is consistent with the purposes of the zoning classification and is similar to the
+types of development and use permitted or conditional in the zone. The decision shall be made
+under a Type III procedure except that notice shall only be provided in newspapers of general
+distribution.
+Section 2.6020. Record of Determination
+Unlisted uses for which the Planning Commission has made a determination as to
+appropriate zone and type similarity shall be maintained in the Land Use Planning
+Division, for future reference.
+
+Clatsop County Land and Water II-33 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.7000. COASTAL ZONE CONSISTENCY REVIEW
+Section 2.7010. Applicability
+This section applies to the following activities that directly affect the coastal zone:
+1) Actions requiring federal permits or licenses
+2) Federal activities and development projects
+3) Outer continental shelf activities
+4) Federal grants or financial assistance.
+Section 2.7020. Consistency Review Procedure for Activities Requiring State or
+Federal Permits or Licenses
+Applicants for activities in Clatsop County's coastal zone which require a state or federal
+permit or license shall submit to the Community Development Director a copy of the
+completed permit application, other supporting material provided to the permit granting
+agency and a set of findings which demonstrate that the development would be
+consistent with the applicable elements of the Comprehensive Plan and this Ordinance.
+If the activity requires a local permit, the applicant shall apply for the local permit under
+the established permit program. Approval of the permit shall constitute a ruling that the
+action is consistent with the applicable elements of the Comprehensive Plan and
+Ordinance. If the action does not require a local permit, the County may make an
+investigation to provide information on the project's conformance with the Plan and
+Ordinance standards and provisions. The investigation can be done administratively or
+through public hearings.
+The Community Development Director shall respond to the state or federal public permit
+granting agency within seven working days of the local actions. The response shall
+contain a statement of whether the permit is consistent with the applicable elements of
+the Comprehensive Plan, the reasons development is or is not consistent, standards
+and conditions which apply if the permit is granted, and the need for local permits for
+developments associated with the activity.
+Section 2.7030. Consistency Review Procedure for Federal Activities and
+Development Projects
+Federal activities in the Coastal Zone are not subject to the established local permit
+procedures. Federal activities which directly affect the coastal zone of the county must
+be consistent, to the maximum extent practicable, with the coastal zone management
+program. The coastal zone management programs include the County's
+Comprehensive Plan and this Ordinance. The federal consistency determination is
+reviewed by the Oregon Department of Land Conservation and Development.
+Consistency determinations for federal activities shall be reviewed for conformance with
+the mandatory enforceable policies of the County's Comprehensive Plan and
+Ordinance. The review may be done administratively or through public hearings. The
+
+Clatsop County Land and Water II-34 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+federal agency has the option of applying for a local permit to demonstrate consistency
+with the Plan and Ordinance.
+The Community Development Director shall communicate concurrence or disagreement
+with the consistency determination, and recommendations for conditions of project
+approval to the Oregon Department of Land Conservation and Development within 21
+days of receiving the notice for reviewing the federal consistency determination.
+Section 2.7040. Outer Continental Shelf Activities
+Federally licensed or permitted activities described in Outer Continental Shelf plans and
+which affect Clatsop County's coastal zone shall be conducted in a manner consistent
+with the coastal zone management program. The applicant's consistency certification is
+reviewed by the Department of Land Conservation and Development. The Community
+Development Director may review these activities for consistency with the Plan and
+Zoning Ordinance. The review may be done administratively or through public hearings.
+The Community Development Director may communicate concurrence or disagreement
+with the consistency certification to the Oregon Department of Land Conservation and
+Development within the time specified on the Oregon Department of Land Conservation
+and Development notice for the activities.
+Section 2.7050. Federal Grants and Financial Assistance
+Federal financial assistance of grants to state agencies, cities, counties, special
+purpose districts, or regional bodies, for activities which affect the coastal zone shall be
+granted only when the activities are consistent with the coastal zone management
+program. The Community Development Director may review the grants and financial
+assistance for consistency with the Plan and Ordinance. The review may be done
+administratively or through public hearings. The Community Development Director may
+communicate the review findings to the Intergovernmental Relations Division
+Clearinghouse within the time specified on the Clearinghouse notice.
+
+Clatsop County Land and Water II-35 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.8000. VARIANCE
+Section 2.8010. Purpose
+The purpose of a variance is to provide relief when a strict application of the zoning
+requirements would impose unnecessary hardships resulting from the size, shape, or
+dimensions of a site or the location of existing structures; or from geographic,
+topographic, or other factors listed below. [ORD. 26-05]
+
+Section 2.8020. Type III Variance Criteria [ORD. 25-02] [ORD. 26-05]
+1) A variance may be granted when the strict or literal application of a requirement
+of this code would impose unusual practical difficulty on the applicant. Practical
+difficulty may result from the size, shape, or dimensions of a site; the location of
+existing structures; geographic, topographic or other physical conditions on the
+site; or from street location or traffic conditions in the immediate vicinity. Undue
+hardship upon adjacent property owners may also be considered. The Hearings
+Officer may vary or adopt the strict application of any of the dimensional
+requirements of this Ordinance as allowed below.
+2) Variances will be processed under a Type III procedure pursuant to Section
+2.0080(3). An applicant may request a variance before or after the denial of a
+development permit.
+3) Criteria for Decision. A variance to the dimensional requirements of this code
+shall only be approved if all of the following criteria are met:
+(A) Unique circumstances apply to the property, which do not apply to other
+properties in the same zone or vicinity. The unique circumstances must
+result from lot size or shape; topography, geology, or other circumstances
+over which the applicant has no control. These circumstances must be
+such that the strict application of the requirements of this Ordinance would
+deprive the applicant of the reasonable use of the land and/or structure.
+(B) Approval of a variance shall not result in impacts to the neighborhood or
+community or be detrimental to public welfare or to public safety.
+(C) The variance will not allow any development or use which is not permitted
+by the Ordinance and would not grant the applicant any special privilege
+that is denied to other lands, structures or buildings in the area.
+(D) The variance request is not the result of a self-created hardship.
+(E) Economic considerations do not constitute grounds for granting a
+variance.
+(F) Approval of variances for other properties shall not be considered
+sufficient reason to approve a variance request.
+(G) The variance requested is the minimum variance necessary to make
+reasonable use of the property.
+(H) The variance request does not result from a code violation.
+Section 2.8020. Notification [ORD. 25-02]
+In addition to the notice required to be sent to property owners pursuant to Section
+2.0080(3), notice of variances to yard setbacks and height variances shall be sent to the
+
+Clatsop County Land and Water II-36 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+fire district in which the property is served for review and comment. If a response is not
+received by the Community Development Department within 20 days of the notice it will
+be assumed that the District has no concerns regarding the request.
+Section 2.8030. Type II administrative Variance Procedure [ORD. 26-05]
+1) An administrative variance is the process under which the Director may grant
+certain adjustments to specific LAWDUC requirements when the adjustment is
+within the limitations and conditions stated in Subsections (3) and (4), below. An
+administrative variance shall not be used to allow a use that is not permitted in
+the zone.
+2) Administrative variances will be processed under a Type II procedure pursuant to
+Section 2.0080(2). An applicant may request an administrative variance before or
+after the denial of a development permit.
+3) Criteria for Decision. An administrative variance to the dimensional requirements
+of this code shall only be approved if all of the following criteria are met:
+(A) There are unique circumstances associated with the property (i.e., parcel
+shape, steep slopes, etc…) that do not generally apply to other properties
+in the same zone or neighborhood or the variance would result in more
+efficient use of the site or protect a natural feature.
+(B) Approval of the variance would allow the property to be developed in a
+manner similar to other properties in the zone.
+(C) Strict or literal application of the code requirement9s) would prevent
+development.
+(D) The variance request is not based on economic considerations.
+(E) Approval of the variance would not result in negative impacts to the
+surrounding area.
+(F) The requested variance is the minimum needed to allow the proposed
+development.
+4) Administrative variances are only allowed for the following dimensional standards
+and are limited to the following maximum adjustments:
+(A) Lot size: 20%. Allowed only in the rural communities of Arch Cape, Miles
+Crossing/Jeffers Gardens, Knappa-Svensen, and Westport.
+(B) Lot width: 20%
+(C) Lot depth: 20% or a 1:3.6 width to depth ratio
+(D) Lot coverage: 20%
+(E) Building height: 20%; an administrative variance is not permitted for
+oceanfront lots
+(F) Parking: 20%
+(G) Fences and walls: 20%
+(H) Setbacks: 20%, with no setback of less than 5 feet
+i. Administrative variances are not allowed for:
+a. Side yard setback when the required setback is five feet or less
+b. Riparian vegetation buffers and setbacks
+c. Goal 16 shoreland overlay buffers
+
+Clatsop County Land and Water II-37 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Section 2.8040. Expiration/Extension
+Authorization of a Type II or Type III variance shall be void after 18 months unless
+substantial construction, as defined in Section 1.0050, has occurred.
+SECTION 2.8100. ZONE CHANGES
+Section 2.8110. Purpose
+This section provides the criteria for amending the boundaries of any base zone or
+overlay district delineated on the official Clatsop County “Comprehensive Plan/Zoning
+Map”. A change in a base zone or overlay district may be made according to the criteria
+set forth in Section 2.8120.
+
+The process for changing a base zone designation or overlay district that does not
+involve a change to the comprehensive plan or comprehensive plan designation shall
+be a Type III procedure. All changes involving comprehensive plan amendments or
+comprehensive plan designation shall be a Type IV procedure. Changes to a base zone
+or overlay district may be initiated by the governing body, Planning Commission, or by
+petition of a majority of property owners in the area proposed for change. Mailed notice
+of the hearing shall include the owners of property within (250) feet of the area
+proposed for change. If the change involves a Goal 5 resource, a Plan amendment
+must also be requested and the Goal 5 Administrative Rule used to justify the decision.
+Section 2.8120. Zone Change Criteria
+The governing body shall approve a non-legislative zone designation change if it finds
+compliance with Section 1.1040, and all of the following criteria:
+1) The proposed change is consistent with the policies of the Clatsop County
+Comprehensive Plan.
+2) The proposed change is consistent with the statewide planning goals (ORS 197).
+3) The property in the affected area will be provided with adequate public facilities
+and services including, but not limited to:
+(A) Parks, schools and recreational facilities
+(B) Police and fire protection and emergency medical service
+(C) Solid waste collection
+(D) Water and wastewater facilities
+4) The applicant shall demonstrate consistency with the Transportation Planning
+Rule, specifically by addressing whether the proposed amendment creates a
+significant effect on the transportation system pursuant to OAR 660-012-0060. If
+required, a Traffic Impact Study (TIS) shall be prepared in accordance with
+Section 2.9500.
+5) The proposed change will not result in over-intensive use of the land, will give
+reasonable consideration to the character of the area, and will be compatible with
+the overall zoning pattern.
+(6) The proposed change gives reasonable consideration to peculiar suitability of the
+property for particular uses.
+(7) The proposed change will encourage the most appropriate use of land
+
+Clatsop County Land and Water II-38 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+throughout Clatsop County.
+(8) The proposed change will not be detrimental to the health, safety and general
+welfare of Clatsop County.
+
+Section 2.8130. Effective Date of Zone Changes
+A change in a zone or special purpose district designation of an area shall take effect
+thirty (30) days after the date of approval, unless adopted by emergency clause.
+
+Clatsop County Land and Water II-39 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.8200. TEMPORARY USE PERMITS [ORD. 25-02]
+Section 2.8210. Purpose and Intent
+The temporary use permit section provides procedures and standards for land or
+structures which possess unique characteristics requiring special consideration for
+temporary usage. The provisions of this section are to apply when the proposed use
+does not qualify as a continuation of a non-conforming use.
+
+No temporary permit shall be granted which would have the effect of creating a
+permanent rezoning or result in a hardship when the use is not permitted to continue at
+the expiration of the permit periods. Further, no temporary permit may be granted which
+has the effect of conferring a special privilege for which other property within the same
+zone may not be equally eligible.
+Section 2.8230. Permitted Temporary Uses, Criteria and Limitations [ORD. 25-02]
+The following temporary uses may be permitted under a Type I procedure. A temporary
+use permit may be issued in any zone, subject to the General Standards of subsection
+2.8240 and subject to the condition provisions of subsection 2.8250.
+1) Temporary Structures. A use requiring a new temporary structure, such as
+temporary construction trailers or storage containers kept on-site during
+construction
+2) Seasonal sales of items such as Christmas trees, pumpkins and fireworks for a
+period not to exceed 90 days.
+3) Open Land Uses. Open land uses which do not involve structures or involve
+structures which create an improvement value to the combined land and
+structures of less than $1,000.
+4) Manufactured dwelling or recreational vehicle for a period not to exceed one
+year, used during the construction of a residential structure for which a building
+permit has been issued.
+5) Real estate office in a legally recorded subdivision.
+Section 2.8240. General Standards [ORD. 25-02]
+The following standards shall be utilized by the Community Development Director, or
+designee, to review an application for a temporary use permit:
+1) A proposed use shall be compatible with and will not negatively impact abutting
+properties and the surrounding community.
+2) The proposed use will not be impacted by permitted development of abutting
+properties and the surrounding vicinity.
+3) The following criteria shall also be considered:
+(A) The building height, lot coverage, and density;
+(B) The availability of public facilities and utilities;
+(C) The generation of traffic and the capacity of surrounding streets and
+roads;
+
+Clatsop County Land and Water II-40 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+(D) The creation of noise, vibration, odors, or other similar nuisances;
+(E) Impacts to Goal 5 inventoried resources and coastal resources identified
+in Goals 16-18.
+(F) No temporary use permit shall be granted which is inconsistent with the
+purpose and intent set forth in subsection 2.8210 or is inconsistent with
+the goals set forth in subsection 2.8220.
+Section 2.8250. Conditions [ORD. 25-02]
+1) Required Conditions. All temporary permits issued by the Community
+Development Director shall be subject to the following conditions:
+(A) Time Limit. Temporary permits shall be granted for no longer than a one
+(1) year period of time.
+(B) Temporary Permit Renewal. Temporary permits may be renewed up to
+four (4) times.
+2) Additional Conditions.
+(A) The Community Development Director may attach conditions to temporary
+use permits in addition to those conditions enumerated in the applicable
+paragraphs of subsection 2.8250(1). of this section. Those conditions may
+include, but are not limited to:
+1) Setbacks, special yards, and spaces;
+2) Screening, fences, and walls;
+3) Off-street parking and loading;
+Control of points of vehicular ingress and egress;
+4) Construction standards and maintenance.
+Section 2.8260. Revocation [ORD.25-02]
+1) Basis for Revocation. Except as provided in subsection (2), temporary use
+permits are automatically revoked and void without special action if:
+(A) The permit has not been exercised within six (6) months of the date of
+approval; or
+(B) The use approved by the temporary permit is discontinued for any reason
+for six (6) continuous months, or more; or
+(C) The applicant does not comply with the conditions imposed on a
+temporary permit does not adhere to the plan as approved.
+(D) Standing to Request Hearing. A hearing for revocation of a temporary
+permit may be requested of the Hearings Officer by an affected citizen or
+by an administrative officer of the County who is of the opinion that one or
+all of the basis for revocation as stated in subsection (1) exists. Requests
+for revocation hearings shall be accomplished by submitting a letter to the
+Hearings Officer stating the basis for requesting the hearing for
+revocation. The Hearings Officer shall then set a hearing for the
+revocation if it so determines a hearing is warranted.
+(E) Hearing Procedure. Public hearing, notification, and appeal procedures for
+revocation hearings by the Hearings Officer and the Board of
+Commissioners shall be held subject to Section 2.0080(3) of this
+
+Clatsop County Land and Water II-41 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Ordinance.
+
+Clatsop County Land and Water II-42 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.9000. SUBDIVISIONS, PARTITIONS AND PROPERTY LINE
+ADJUSTMENTS [ORD. 25-02]
+Section 2.9010. Purpose
+In accordance with the provisions of ORS 92 and 215, this section establishes the
+minimum standards to divide land, including subdivisions, partitions and property line
+adjustments. These standards are necessary to carry out the County's Comprehensive
+Plan and to promote the public health, safety and general welfare.
+Section 2.9020. Applicability. (Ord. 21-05)
+Whenever land owners wish to sell part of a lawfully established unit of land, or place a
+second home on a lawfully established unit of land that already has a home on it, a
+partition or subdivision is necessary. The following activities do not require approval of a
+subdivision or partition:
+1) A division of land resulting from a lien foreclosure of a recorded contract for the
+sale of real property;
+2) the creation of cemetery lots; or
+3) a property line adjustment.
+
+Land divisions can be in the form of partitions or subdivisions. No land shall be divided
+prior to approval and recording of a partition or subdivision.
+Oregon Revised Statutes (ORS) 92.025 states:
+1) A person may not sell a lot in a subdivision or a parcel in a partition until the plat
+of the subdivision or partition has been acknowledged and recorded with the
+recording officer of the county in which the lot or parcel is situated.
+2) A person may not sell a lot in a subdivision or a parcel in a partition by reference
+to or exhibition or other use of a plat of the subdivision or partition before the plat
+for the subdivision or partition has been so recorded. In negotiating to sell a lot in
+a subdivision or a parcel in a partition under ORS 92.016(1) and (2), a person
+may use the approved tentative plan for the subdivision or partition.
+
+Section 2.9021. Construction Across Property Lines [ORD. 25-02]
+Whenever abutting lawfully established units of land are in common ownership and the
+land owner wishes to build on or near the common property line(s), an approved
+restrictive covenant shall be recorded by the owner stating that the abutting units of land
+shall remain in common ownership until such time as the buildings and common
+property lines meet setback and building code requirements.  After recording the
+restrictive covenant, the exterior boundary of the combined units of land shall be used
+for applying the setback and building code requirements.  A recorded restrictive
+covenant is not required for a building that meets setback and building code
+requirements within the boundaries of a single unit of land abutting other units of land in
+common ownership.
+
+Clatsop County Land and Water II-43 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Section 2.9022. Definitions
+The following definitions apply to Section 2.9000:
+
+Partitions are divided into two types, minor and major, depending on road access. For
+the purposes of this Ordinance access ways shall be categorized as follows:
+Private road -- an improved travel surface placed within a private road easement or
+privately owned tract that is intended to provide access from a state, county, or public
+road to three or more lots, parcels, or units of land and which is maintained by private
+funds for the exclusive use of private parties.
+Public road -- an improved travel surface placed within a dedicated public right-of-way
+which is maintained by private funds.
+County road -- an improved travel surface placed within a dedicated public right-of-way
+which has been formally accepted by the county and is maintained by the county.
+Minor Partitions -- occur when a tract of land is divided into no more than three (3)
+parcels, including the parent parcel, in a calendar year when such tract of land existed
+at the beginning of the year and each parcel has a minimum of 25 feet of frontage on a
+state, county or public road and access to each parcel is taken from that frontage and
+within that parcel. A minor partition shall be processed by the Director under a Type II
+procedure as outlined in Section 2.9030 through 2.9080 of this Ordinance.
+Major Partitions -- occur when a tract of land is divided into no more than three (3)
+parcels, including the parent parcel, in a calendar year when such tract of land existed
+at the beginning of the year and any parcel has less than 25 feet of frontage on a state,
+county or public road. Any partition which requires the creation of a state, county or
+public or private road or the utilization of a private road is also considered a major
+partition. Both minor and major partitions shall be processed by the Director under a
+Type II procedure as outlined in Section 2.9050 through 2.9130.
+Property Line Adjustment -- is the relocation or elimination of all or a portion of the
+common property line between abutting properties that does not create an additional lot,
+parcel, or unit of land.
+Subdivisions -- occur when a tract of land is divided into four (4) or more lots, including
+the parent parcel, within a calendar year. A proposed subdivision for six (6) or less lots
+shall be processed by the Director under a Type II procedure. Any larger subdivision
+shall be processed by the Director under a Type III procedure. Section 2.9140 through
+2.9300 of this Ordinance pertains to the processing of subdivision requests.
+
+Clatsop County Land and Water II-44 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Section 2.9030. Processing Property Line Adjustments [ORD. 21-05; ORD. 25-02]
+Property line adjustments will be processed under a Type I procedure and include the
+following steps:
+1) Application Requirements: The applicant shall submit the following:
+a. a tentative property line adjustment plan,
+b. certificate from a land surveyor that abutting properties to be adjusted are
+lawfully established units of land,
+c. completed application and filing fee
+The tentative property line adjustment shall follow the process below, unless
+exempted by Section 2.9090.
+2) Review Procedure: The Director or designee shall review the proposed property
+line adjustment to ensure that each new parcel will meet the minimum lot size
+and dimension standards required by the zone in which the property is located.
+The proposed plan may be modified, if needed, to meet these standards. The
+Director shall apply conditions as required by Section 2.9070 and shall approve,
+conditionally approve, or deny the application.
+3) Expiration: Approval of a property line adjustment shall be valid for two years
+from the date of approval. The applicant must complete all conditions of approval
+within two years or the approval shall expire.
+
+An applicant may submit a written request to extend the expiration date by one
+year. The request must state that the facts upon which the approval was based
+have not changed to such an extent that a new application is required. The
+applicant must also provide a written statement that no other development
+approval would be affected by a one-year extension of the approval.
+
+If all conditions of approval for a property line adjustment have not been
+completed prior to expiration the approval shall be considered void.
+4) A property line adjustment deed shall contain the names of the parties, the
+description of the adjusted line, references to the original recorded documents
+and signatures of all parties with proper acknowledgement, and contain the
+words Property Line Adjustment.
+5) A property line adjustment survey must list the clerk’s recording instrument
+number of the corresponding property line adjustment deed(s) that conforms with
+ORS 92.190(4) before the permanent survey map is submitted for recording per
+ORS 209.250.
+6) The area between the old property line and the new property line is combined
+with the existing lawfully established unit of land on the same side of the new
+property line and is not a separate lawfully established unit of land.
+Section 2.9040. General Standards for Property Line Adjustments [ORD. 25-02]
+1) For all areas except those identified as a Resource Zone in Section 1.0500 of
+this Ordinance, all property which is the subject of a property line adjustment
+
+Clatsop County Land and Water II-45 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+shall be located within the same zone.
+2) For all areas except those zoned AF, F-80 and EFU:
+(A) Property line adjustments may be allowed between undersized lots or
+parcels in the above zones provided that the resulting lots or parcels
+satisfy the minimum width, depth, frontage, lot width/depth ratio, yard
+requirements of the zone and setbacks to existing structures are not
+reduced by the property line adjustment below the minimum setback
+requirements.
+(B) Property line adjustments may be allowed between undersized lots or
+parcels and lots or parcels that meet the minimum lot size provided the
+undersized lot meets the requirements in (1) above, and the resulting
+conforming lot or parcel if partitioned or subdivided would not result in a
+density greater than the zone(s) in which the property has been
+designated.
+3) For all areas zoned AF, F-80 and EFU the adjustment may be approved
+provided:
+(A) the remaining substandard parcel is not used as a basis for considering
+and approving a built upon or irrevocably committed exception, and
+(B) the substandard parcel is not permitted to have more than one non-farm
+or non-forest dwelling on it, and
+(C) it is determined that the parcel proposed for transfer can be better
+managed for resource use, and
+(D) the parcel proposed for transfer may not be used in calculating the lot size
+of a parcel or parcels for purposes of future land divisions.
+Section 2.9050. Processing Minor and Major Partitions (Ord. 21-05, Ord. 25-02)
+The processing of proposed minor and major partition requests shall be done using a
+Type II procedure and will include the following steps:
+1) The applicant shall submit a proposed partition plan, completed application and
+filing fee, to the Community Development Department. The proposed partition
+plan shall follow the process below, unless exempted by Section 2.9090.
+2) Review Procedure: The Director or designee shall evaluate the proposed
+partition plan to ensure that each new parcel will meet the minimum  lot size and
+dimension standards required by the zone in which the property is located When
+a partition is located within 750 feet of a state highway, the Community
+Development Director  or designee will notify the Oregon Department of
+Transportation (ODOT) of the application and will consider its comments in taking
+action on the partition request. The proposed plan may be modified, if needed, to
+meet these standards. The Director, through a Type II procedure in accordance
+with Section 2.1020, shall apply conditions as required by Section 2.9050 and
+shall approve, conditionally approve or deny the tentative plan.
+3) Expiration: Conditional approval of a partition plan shall be valid for two years
+from the date of approval. The applicant must complete all conditions of approval
+and submit a final partition plat within two years or the approval shall expire. The
+
+Clatsop County Land and Water II-46 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+final partition plat shall follow the format outlined in Section 2.9070.
+
+An applicant may submit a written request to extend the expiration date by one
+year. The request must state that the facts upon which the approval was based
+have not changed to such an extent that a new application is required. The
+applicant must also provide a written statement that no other development
+approval would be affected by a one-year extension of the approval.
+
+Any partition not completed prior to expiration of the tentative plan approval shall
+be considered void.
+4) The Director shall review the final partition plat to determine that it conforms with
+the proposed plan and any applicable conditions. Prior to recording of any
+partition plat, it must be approved by the County Surveyor.
+5) If the Director or the County Surveyor determines that the partition plat submitted
+does not conform to the proposed plan or applicable conditions, the applicant
+shall be allowed to make corrections prior to the expiration date.
+6) If the final partition plat conforms to the proposed plan and applicable conditions,
+the County Surveyor and the Director shall sign and date the final plat. The
+applicant will be notified that the plat is ready for recording in the County Clerk's
+Office.
+Section 2.9060. Appeal of Partitions or Property Line Adjustments (Ord. 25-02)
+Appeals of a decision approving or denying a property line adjustment or partition plat
+shall be processed according to the requirements of Section 2.0080 and 2.0090.
+Section 2.9070. General Standards for Minor and Major Partitions (Ord. 21-05, Ord.
+25-02)
+Section 2.9071. Purpose: Land within resource zones is evaluated by different
+standards than land in non-resource zones. This is because land divisions in resource
+zones are considered to be primarily for resource use in resource areas, not for
+development. Specific road improvement standards are not required except for cluster
+land divisions, which are evaluated as residential parcels since their purpose is for
+residential use. As a condition of approving residences as conditional uses in resource
+zones, road improvements will be required.
+1) Partitions within resource zones:
+(A) Minor Partitions shall meet the following standards:
+1) Road approach approval from the appropriate agency shall be
+provided.
+2) Clustering in resource zones shall be subject to the standards for
+partitioning of non-resource lands in (2) below as well as any other
+applicable standards.
+3) Comprehensive Plan Goal 4 (Forest Lands), Policy D, shall be
+applied to all AF and F-80 partitions.
+
+Clatsop County Land and Water II-47 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+(B) Major Partitions shall meet the following standards:
+1) Standards in Section 2.9070(1)(A)(1-3) above shall be met.
+(a)  If a County road is created, the right-of-way and travel
+surface shall meet the applicable standards in Table 3.2.
+The boundaries of the road right-of-way shall be surveyed
+and monumented. The Board of Commissioners must accept
+the County right-of-way.
+b) If a public road is created, the right-of-way and travel surface
+shall meet the applicable standards in Table 3.2 and the
+boundaries of the road right-of-way shall be surveyed and
+monumented.
+c) If a private road or easement is created or utilized, the
+easement and travel surface shall meet the applicable
+standards from Table 3.2. Easements which bind all involved
+property owners and which specify the perpetual, non-
+exclusive nature of the roadway easement shall be signed
+and recorded with the County Clerk.
+2) Partitions outside resource zones:
+(A) Minor Partitions shall meet the following standards:
+1) Road approach approval from the appropriate agency shall be
+provided.
+2) Except as set out in Section 2.9090(1) the boundaries of all parcels
+shall be surveyed and monumented.
+(B) Major Partitions shall meet the following standards
+1) Standards in 2.9070(2)(A)(1-2) above shall be met.
+(a) If a County Road is created, the right-of-way and travel
+surface shall meet the applicable standards in Table 3.2.
+The boundaries of the road right-of-way shall be surveyed
+and monumented. All such roads shall be improved at least
+to the County’s A-20 road standard. The Board of
+Commissioners must accept the County right-of-way.
+(b) If a public road is created, the right-of-way and travel surface
+shall meet the applicable standards in Table 3.2 and the
+boundaries of the road right-of-way shall be surveyed and
+monumented. The road shall be improved to the County's G-
+20 road standard at a minimum. An agreement shall be
+signed and recorded with the County Clerk outlining the
+responsibility of the private parties maintaining the road
+improvements. These maintenance responsibilities shall be
+enforced by the individual parties or the County at its
+discretion.
+(c) If a private road or easement is created, the entire road
+easement and travel surface shall meet the applicable
+standards in Table 3.2 and the boundaries of the road
+
+Clatsop County Land and Water II-48 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+easement shall be surveyed and monumented in its entirety.
+The road shall be improved to the County's G-14 road
+standard at a minimum and one vehicle turnout shall be
+provided for every 400’ of road and within 50' of each sight
+obscuring corner. If the travel surface width of the private
+road exceeds 20 feet no turnouts will be required.
+Easements which bind all involved property owners and
+which specify the perpetual, non-exclusive nature of the road
+way easement shall be signed and recorded with the County
+Clerk. An agreement shall also be signed and recorded with
+the County Clerk outlining the responsibilities of the private
+parties maintaining the road improvements. These
+maintenance responsibilities shall be enforced by the
+individual parties and not the County.
+(d) Any required road improvements shall meet the applicable
+road standards from Section 3.9800. Required road
+improvements shall be completed or bonded prior to the sale
+of any of the partitioned parcels. If the partitioning party
+intends to retain ownership of a partitioned parcel, required
+road improvements shall be completed prior to the issuance
+of any development permit involving the partitioned parcel.
+Road improvements must be completed to the extent
+necessary to provide legal access to the parcel proposed for
+sale or for second home placement. If the partitioning party
+has not completed required road improvements at the time
+of final partition approval, the partitioning party shall record a
+development restriction upon the involved parcels to require
+the completion of these improvements prior to the sale of the
+parcels or prior to the issuance of a development permit to
+the partitioning party; whichever comes first. The restriction
+will be removed upon completion of the improvements prior
+to the sale of the parcels or prior to the issuance of any
+development permit involving the partitioned parcel.
+(e) In areas where the parcel or lot has the potential to be
+further partitioned or subdivided, the County Engineer or
+Community Development Director shall require that roads be
+designed and located so as to facilitate the future division of
+land in a manner that accommodates smaller lot sizes and
+the extension of streets and utilities. The County Engineer or
+the Community Development Director may require a
+potential development plat showing the location of potential
+lots and the right-of-way improvements, including those
+identified in the County Transportation System Plan (TSP).
+The full right-of-way width shall be reserved on the initial
+
+Clatsop County Land and Water II-49 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+partition plan to ensure that future structures will not
+encroach into the ultimate right-of-way or easement area.
+Section 2.9080. Extent of Road Improvements (Ord. 21-05, Ord 25-02)
+1) Required access road improvements and recorded access easements shall be
+designed to provide access from the partitioned parcels to an existing public,
+county or state road.
+Section 2.9090. Exceptions to General Standards for Minor and Major Partitions
+and Property Line Adjustments (Ord. 21-05, Ord. 25-02)
+1) Surveys for Large Parcel Partitions and Property Line Adjustments.
+(A) When a partition is proposed which includes parcels that are greater than
+10 acres in size no survey of the parcel is required. However, a partition
+plat must still be submitted and approved. For a major partition the entire
+roadway being created shall be surveyed and monumented.
+(B) A property line adjustment created by the relocation of a common
+boundary as described in ORS 92.010(7)(b) shall be surveyed and
+monumented in accordance with Oregon law and it shall be filed with the
+County Surveyor.
+(C) No survey or monumentation is required for a property line adjustment
+when the abutting properties are each greater than 10 acres. Nothing in
+this subsection shall exempt Clatsop County from minimum area
+requirements established in the Clatsop County Comprehensive Plan and
+this Ordinance.
+(D) Altering Access to Improve Public Safety. If, in reviewing a partition
+application, the County Engineer or State Highway Engineer, determines
+that a consolidated, single access would better serve the public health,
+safety and welfare by reducing access points onto a public road, such a
+condition of approval shall be required. The area utilized for a
+consolidated access shall not be excluded from a parcel's lot area for the
+purpose of determining minimum lot size. A consolidated access shall
+serve a minimum of 3 parcels. If future partitions will use a consolidated
+access, major partition road standards will be applied. Access easements
+shall be provided for the involved parcels.
+(E) A shared common driveway may be utilized in a proposed minor partition
+if the following circumstances exist:
+(F) Each parcel has the required 25-foot minimum frontage on a state, county
+or public road.
+(G) Each parcel has an alternate means of access to the adjoining state,
+county or public road within its own boundaries.
+(H) The shared common driveway serves no more than three parcels.
+(I) Recorded access easements shall be provided for the subject parcels.
+
+Clatsop County Land and Water II-50 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Section 2.9100. Tentative Partition Plan Submission Requirements (Ord. 21-05,
+Ord. 25-02)
+An applicant for a minor or major partition shall submit a copy of the proposed plan for
+partitioning, which shall include the following information (except as otherwise provided
+herein, the following does not require a survey):
+1) A sketch of the original parcel of land (all contiguously owned land) on an 8 ½" x
+11" sheet of paper.
+2) The date, north arrow, and scale of the drawing.
+3) The amount of acreage in the original parcel and the acreage of the resulting
+parcels, and dimensions of all parcels.
+4) The location, names and widths of all roads and easements adjacent to and
+within the parcel to be partitioned.
+5) The existing use or uses of the property, including approximate locations of all
+structures on the property.
+6) The width and location of all easements for drainage or public utilities.
+7) The location of zoning boundaries on the property.
+8) Approximate location of physical features on the property, such as wetlands and
+streams.
+Section 2.9110. Submission of Final Partition Plat
+Prior to expiration of a partition approval, a final plat shall be submitted subject to the
+Standards of Section 2.9210.
+Section 2.9120. Submission and Review of Final Plat (Ord. 25-02)
+Once a final plat has been submitted, the Director shall have 10 days to determine
+whether the final plat conforms with the approved plan and with the applicable
+requirements of this Ordinance. If the Director determines that the final plat does not
+conform, the applicant shall be offered an opportunity to make corrections. When the
+plat is found to conform, it shall be signed and dated by the Director if all other
+conditions of approval have been fulfilled.
+Section 2.9130. Approval Signature for Final Partition Plat (Ord. 21-05, Ord. 25-02)
+Following review and approval of a final partition plat, the Director shall take the
+following actions:
+1) The Community Development Department shall notify the applicant that the
+approved partition plat has been signed by the Community Development
+Director.
+2) Obtain the approval signature of the County Surveyor certifying the plat complies
+with all applicable survey laws. If it is determined that there has been a failure to
+comply, the plat surveyor shall be notified and afforded an opportunity to make
+corrections. When the plat is found to conform, it shall be signed and dated by
+the County Surveyor.
+3) The County Surveyor shall notify the applicant that the approved partition plat
+has been signed. The applicant shall take the plat to the County Assessment and
+
+Clatsop County Land and Water II-51 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Taxation Office for review of payment of taxes. Assessment and Taxation shall
+notify the applicant that all taxes must be paid prior to recording the final plat with
+the County Clerk. The private surveyor shall provide a signature line on the final
+plat for the County Assessor/Tax Collector. Assessment and Taxation shall notify
+the applicant when the Plat is ready for recording.
+4) The applicant shall take the final partition plat to the County Clerk's Office for
+recording.
+Section 2.9140. Subdivisions (Ord. 21-05, Ord. 25-02)
+An application for a subdivision of six (6) or less lots shall be processed by the Director
+under a Type II procedure. Any larger subdivision shall be processed by a Type III
+procedure. A subdivision occurs when four (4) or more lots are created, including the
+parent parcel, within a calendar year.
+1) No one subdivision, contiguous group of subdivisions or planned development
+shall create greater than 30 lots within the same calendar year, (January 1-
+December 31), in the Rural Lands designation in the Clatsop Plains planning
+area.
+Section 2.9150. Preliminary Plat (Ord. 21-05, Ord. 25-02)
+An applicant for a subdivision shall submit one paper copy and one electronic (pdf) copy
+of the preliminary plat, together with improvement plans and other supplementary
+information required by this Ordinance to demonstrate compliance with the subdivision
+standards in this ordinance.
+Section 2.9160. Form and Scale of Preliminary Plat (Ord. 21-05, Ord. 25-02)
+The preliminary plat shall be clearly and legibly drawn. It shall show all pertinent
+information to scale so that the Commission may have an adequate understanding of
+what is proposed during the review process. Under ordinary circumstances, the scale of
+the drawing is to be 1” = 50’ or 1” = 100’, or for areas over 100 acres the scale shall be
+1” = 200’.
+Section 2.9170. Preliminary Plat Information (Ord. 21-05, Ord. 25-02)
+The Preliminary Plat of the proposed subdivision shall include the following information:
+1) Proposed name of subdivision. Subdivision plat names shall be subject to the
+approval of the County Surveyor or, in the case where there is no County
+Surveyor, the County Assessor. No tentative subdivision plan or subdivision plat
+of a subdivision shall be approved which bears a name similar to or pronounced
+the same as the name of any other subdivision in the same county, unless the
+land platted is contiguous to and platted by the same party that platted the
+subdivision bearing that name or unless the party files and records the consent of
+the party that platted the contiguous subdivision bearing that name. All
+subdivision plats must continue the lot numbers of the subdivision plat of the
+same name last filed. On or after January 1, 1992, any subdivision submitted for
+final approval shall not use block number or letters unless such subdivision is a
+
+Clatsop County Land and Water II-52 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+continued phase of a previously recorded subdivision, bearing the same name,
+that has previously used block numbers or letters.
+2) North arrow, scale, and date of the completed drawing, approximate acreage,
+and boundary lines.
+3) Appropriate identification clearly stating the map is a Preliminary Plat.
+4) Location of the subdivision by section, township, range, tax lot or lots and
+donation land claim sufficient to define the location and boundaries of the
+proposed subdivision.
+5) Names, addresses and zip codes of all owners, applicants, engineers and
+surveyors responsible for laying out the subdivision.
+6) Existing locations, widths, names of both opened and unopened streets within or
+adjacent to the subdivision, together with easements, or rights-of-way and other
+important features, such as section lines, corners, city boundary lines and
+monuments.
+7) A vicinity map showing the relationship of the proposed subdivision to
+surrounding development, streets, and sewer and water services, within one-
+quarter (1/4) mile of the exterior boundaries of the proposed development.
+8) Location of at least one (1) temporary bench mark within the plat boundaries.
+9) Contour lines related to the temporary bench mark or other datum approved by
+the County Engineer and having contour intervals together with the calculated
+degrees of slope as follows:
+(A) For slopes less than 10 percent: two-foot contours.
+(B) For slopes over 10 percent: five-foot contours.
+(C) Location of significant natural features such as rock outcroppings,
+marshes, wooded areas and isolated trees to be preserved or removed.
+(D) Location of any rare, threatened and endangered species (plant or animal)
+or habitat located on or within 1,000 feet of the proposed subdivision.
+(E) Location and direction of all water courses and/or bodies and the location
+of all areas subject to flooding.
+(F) Existing uses on the property, including location of all existing structures.
+(G) Location, width, name, approximate grade, and radii of curves of all
+proposed streets, their relationship of such streets to any projected or
+existing streets adjoining the proposed subdivision. The applicant shall
+submit documented preliminary approval, from the County Engineer, of
+the road design.
+(H) Location, width, and purpose of proposed easements and private roads for
+private use, where permitted, and all reservations or restrictions relating to
+such easements and private roads.
+(I) Proposed plan for draining surface water, including the location and type
+of drainage ways to carry surface water from the development without
+adversely affecting adjacent properties. If any filling is proposed, the
+drainage plan must demonstrate that adequate provisions have been
+made for the prevention of backup or ponding of surface water on
+adjacent properties as well as within the proposed development.
+
+Clatsop County Land and Water II-53 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+(J) Location, acreage and dimensions of lots and the proposed lot numbers.
+(K) Site, if any, allocated for a purpose other than single-unit dwellings. [ORD.
+25-16]
+(L) Location, acreage and dimensions of areas proposed for public use.
+(M) Location, acreage and dimensions of areas proposed for common open
+space (30% in the Rural Lands designation of the Clatsop Plains planning
+area).
+(N) Any subdivision may be platted in as many as three (3) phases. All phases
+must be submitted on the Preliminary Plat with proposed time limitations
+for the recording of the various phases. However, phasing must meet the
+following time limitations:
+(O) Phase I - shall be recorded within 12 months of preliminary approval.
+(P) Phase II - shall be recorded within 36 months of preliminary approval.
+(Q) Phase III - shall be recorded within 60 months of preliminary approval.
+
+The Planning staff shall review each phase prior to recording to make sure the
+phase, as recorded, is in accord with the preliminary approval given by the
+Planning Commission. Any submitted phase which does not coincide with the
+approval as given by the Planning Commission shall be referred to the Planning
+Commission for a hearing. At such hearing, the Commission shall have the
+authority to revoke, revise, amend or alter the prior approval. Notice shall be sent
+subject to Sections 2.0070 and 2.0080(3).
+
+For any subdivision which has an approved phasing plan as granted by the
+Commission under the preliminary plat approval, all parts of the subdivision shall
+fall under control of the various Ordinances in effect at the time of preliminary
+approval, unless state or local law shall determine that newer or current
+Ordinances or laws are to be followed.
+
+If any time limitation is exceeded, preliminary approval for the subdivision or any
+phase of the subdivision shall be void. The applicant shall submit any future
+proposals for development of the property to the Commission for approval.
+
+Agreement for improvements for each phase shall comply with this Ordinance
+prior to the final plat approval of such phase. If a bond is required, such bond
+shall be for a sum determined by the County Engineer to be sufficient to cover
+costs of construction for that phase.
+10) Technical documentation shall be supplied to the Commission by the subdivider
+at the time of submittal of the preliminary plat, addressing the following items:
+(A) An acceptable and approved method of sewage disposal for each
+proposed lot which meets the rules and regulations of the Oregon
+Department of Environmental Quality as administered by the
+Environmental Health Division of the County Public Health Department or
+its contract agent.
+
+Clatsop County Land and Water II-54 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+(B) An acceptable and approved method of water supply.
+(C) The nature and type of improvements proposed for the subdivision, and a
+timetable for their installation.
+(D) A description of community facilities which would serve the subdivision,
+and a timetable for the completion or installation of the facilities.
+(E) Where a surface or subsurface water problem may exist, as determined
+by the Department of Environmental Quality, Environmental Health
+Division of the County Public Health Department, or other qualified
+specialist, a complete report by an independent, qualified hydrologist or
+hydrogeologist or other qualified specialist shall be required prior to any
+hearing on the Preliminary Plat by the Commission. The cost for such
+study shall be paid by the applicant.
+(F) Applicants shall provide a list of any conditions, covenants and restrictions
+(CCRs) which are to be recorded.
+(G) A demonstration that lot size and use are in compliance with the
+applicable zone.
+(H) An access road improvement plan.
+(I) Recorded access easements shall be provided for access from the
+subdivision boundary to an existing public, county or state road if not
+abutting said roads.
+11) Compliance with the Clatsop County Comprehensive Plan and Land and Water
+Development and Use Code, and ORS 92 and 215.
+12) Notations indicating any limitations on rights-of-access to or from streets and lots
+or other parcels of land proposed by the developer or established by the Board.
+13) An estimate from the Clatsop County Assessor on taxes to be paid on a
+proposed subdivision before recording the final plat shall take place in
+accordance with ORS 92.095.
+14) If any federal or state permit or license is required to carry out the preliminary plat
+approval, approval shall be subject to a condition requiring the subdivision to
+comply with any applicable federal and state laws.
+15) In areas subject to the geologic hazard overlay zone, a grading plan prepared in
+conformance with Section 5.3000.
+Section 2.9180. Preliminary Plat Review (Ord. 21-05, Ord. 25-02)
+1) Upon receipt of a completed preliminary plat, the Planning Division shall set a
+date for a public hearing before the Planning Commission. Copies of the
+preliminary plat shall be furnished to all affected city, county, state and federal
+agencies and special districts for review and comment. Failure to provide written
+comment to the Planning Division within 15 working days of the date of the notice
+may be deemed a recommendation for approval unless an additional review
+period is requested by the jurisdiction and approved.
+2) The preliminary plat, supplementary information and recommendations of the
+Planning staff and other reviewing agencies shall be submitted to the
+Commission for review at a public hearing. The Commission shall review the plat
+
+Clatsop County Land and Water II-55 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+and other data submitted, taking action upon the proposal within 60 days from
+the date of the first hearing at which the request was heard.
+3) The Commission may approve, conditionally approve or disapprove the proposed
+subdivision. The Commission may attach conditions of approval necessary to
+ensure compliance with the provisions of this Ordinance. The Commission may
+require the developer to post a bond of an amount set by the County Engineer,
+for all improvements or construction within the proposed subdivision. The
+Commission may also require the subdivider to file a map within 30 days of the
+date of conditional approval showing the design approved by the Planning
+Commission.
+4) If the Commission has approved or conditionally approved a subdivision, it shall
+make specific findings indicating that sufficient water supply is available, that
+each lot has an approved sewage disposal site or will have access to an area for
+sewage disposal, and that an approved road system will provide access or will be
+constructed to provide access to each lot in the subdivision. In addition to those
+specific findings, the Commission shall make its findings in regard to the
+applicable standards as set forth in Section 2.9140 to and including Section
+2.9170 and Sections 3.9600 through 3.9720 of this Ordinance, and the road
+standards as set forth in Section 3.9800.
+5) Preliminary plat approval shall be binding on the Commission and the subdivider
+for the purpose of preparing the final plat, provided that there are no changes of
+the plan of the subdivision, and that it complies with all conditions as set forth by
+the Commission in its preliminary approval. Approval of preliminary plat shall be
+valid for two (2) years from the date of the approval of the preliminary plat.
+Section 2.9190. Granting of Extensions (Ord. 21-05, Ord. 25-02)
+1) The Community Development Director may grant an extension of up to 12
+months to the preliminary plat approval and of up to 12 months to any subdivision
+being developed in phases. The Director shall have the authority to attach
+conditions necessary to carry out the provisions of the Comprehensive Plan and
+this Ordinance but in no event shall more than two  extensions be granted by the
+Community Development Director. Any request for an extension shall be
+processed under a Type I procedure.
+2) An applicant who is developing a subdivision in phases may seek an extension of
+time from the Director on the phase then under development. The Director,
+based upon the facts presented by the applicant, may grant an extension of time
+of up to 12 months. This extension of time shall not affect any other phases not
+under development.
+3) Approval of an extension shall be noted on two copies of the preliminary plat,
+including any conditions imposed. One signed copy is to be given to the applicant
+while the other copy is retained in the Planning Division file.
+Section 2.9200. Submission of Final Plat (Ord. 21-05, Ord. 25-02)
+Within two years after approval of the preliminary plat, or within such time as set forth by
+
+Clatsop County Land and Water II-56 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+the Commission under the provisions of Section 2.9190(2) of this Ordinance, the
+subdivider shall have the land surveyed and a plat prepared which complies with the
+approved preliminary plat. Before approval by any County official, the final plat shall be
+approved and signed by all persons and must also have the signature and seal of the
+registered professional land surveyor responsible for laying out of the subdivision. All
+signatures must be made with archival quality black ink.
+Section 2.9210. Form and Scale of Final Plat (Ord. 21-05, Ord. 25-02)
+1) The final plat offered for approval and recording shall be made pursuant to the
+standards in Section 3.9730and shall be surveyed pursuant to ORS 92.
+2) At the time of filing the final plat, the surveyor who made the plat shall furnish the
+County Clerk and/or County Surveyor with an exact copy of the final plat offered
+for recording. This copy shall be made with archival quality black ink and shall
+have the characteristics of strength and permanency required by the County
+Clerk and County Surveyor, and shall have an affidavit that the tracing is an
+exact copy of the plat.
+3) The scale on the final plat will be 1” = 100’ or 1” = 50”. The scale may be
+increased or decreased if necessary to fit the legal sized 18" x 24" plat, but in all
+cases the scale shall be in multiples of ten.
+4) The applicant shall provide, at the applicant’s expense, up to 6 prints at the
+request of the Commission and/or Board.
+5) Pursuant to ORS 92.080 and notwithstanding ORS 205.232 and 205.234, all
+plats subdividing or partitioning land, and dedications of streets or roads or public
+parks and squares and other writing made a part of such subdivision or partition
+plats shall be made upon material that is 18 inches x 24 inches in size with an
+additional three-inch binding edge on the left side when required by the County
+Clerk or the County Surveyor, that is suitable for binding and copying purposes
+and that has such characteristics of strength and permanency as may be
+required by the County Surveyor. The lettering of the approvals, the declaration,
+the surveyor’s certificate, and all other information shall be of such a size or type
+as will be clearly legible, but no part shall come nearer any edge of the sheet
+than one inch. The subdivision or partition plat may be placed on as many sheets
+as necessary, but a face sheet and an index page shall be included for
+subdivision or partitions plats placed upon three or more sheets.
+6) In addition to standards and requirements of the Oregon Revised Statutes, the
+County Surveyor may set other requirements for surveys of final plats including
+but not limited to type of ink, how corrections are to be conducted, margins,
+scale, etc.
+Section 2.9220. Information on Final Plat (Ord. 21-05, Ord. 25-02)
+The information shown on the final plat shall conform to the requirements in ORS
+92.050 through 92.080 and shall also include the following:
+1) The name of the subdivision, the date the plat was prepared, the scale, north
+arrow, legend and existing features such as highways and railroads.
+
+Clatsop County Land and Water II-57 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+2) Legal description of the subdivision boundaries.
+3) Reference, by distance and bearings, to adjoining recorded surveys, if any, and
+referenced to a field book or map as follows:
+(A) Stakes, monuments or other evidence found on the ground and used to
+determine the boundaries of the subdivision.
+(B) Adjoining corners of adjoining subdivision.
+(C) Other monuments found or established in making the survey of the
+subdivision or required to be installed by provisions of this Ordinance.
+(D) Exact location and width of streets and easements intersecting the
+boundary of the subdivision.
+(E) Subdivision boundaries, lot or tract boundaries, and street right-of-way
+and centerlines with dimensions to the nearest 1/100th of a foot and
+bearings in degrees, minutes and seconds, pursuant to the requirements
+of ORS 92.
+(F) Names and width of the portion of streets being dedicated, the width of
+any existing right-of-way, and the width on each side of the center line. For
+streets on curvature, curve data shall be based on the street center line. In
+addition to the center line dimensions, the radius, central angle, long chord
+bearing and distance shall be indicated.
+(G) Easements denoted by fine dotted lines, clearly identified and, if already of
+record, there shall be written statement of the easement. The width of the
+easement, its length and bearing, and sufficient ties to locate the
+easement with respect to the subdivision must be shown. If the easement
+is being dedicated by the map, it shall be properly referenced in the
+owner's certificates of dedication.
+(H) Locations and widths of drainage channels, railroad rights-of-way, reserve
+strips at the end of stubbed streets or along the edge of partial width
+streets on the boundary of the subdivision.
+(I) Location of all permanent monuments within the proposed subdivision.
+(J) Ties to any city, county, or adjacent subdivision's boundary lines.
+(K) Acreage of each parcel to the nearest 1/100th of an acre.
+(L) Any conditions specified by the Commission or Board upon granting
+preliminary approval.
+(M) A statement of water rights noted on the subdivision plat or partition plat.
+(N) A copy of the acknowledgment from the State Water Resources Dept.
+under ORS 92.122, if the person offering the subdivision or partition plat
+for filing indicates on the statement of water rights that a water right is
+appurtenant to the subdivision or partition.
+Section 2.9230. Survey Requirements
+A complete and accurate survey of the land to be subdivided shall be made by a
+registered professional land surveyor licensed to practice in the State of Oregon, in
+accordance with ORS 92.
+
+Clatsop County Land and Water II-58 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Section 2.9240. Supplementary Information with Final Plat (Ord. 21-05, Ord. 25-02)
+1) Evidence of Title. The Commission shall require Evidence of Title
+accompanying the final plat by a letter or final plat report in the name of the
+subdivider. Such evidence shall indicate that the title company has issued a
+preliminary report for the same unit of land being subdivided and shall state that
+the final plat and certificates have been reviewed.
+2) Restrictive Covenants. A copy of any Restrictive Covenant(s) is to be filed with
+the final plat. On final plats showing areas which will be jointly owned or used by
+the various owners in the subdivision, a covenant document will be mandatory as
+part of the final plat. For other final plats, the covenants are optional with the
+subdivider.
+3) Improvement Plans. Improvement plans shall be submitted for various facilities
+that are to be constructed by the subdivider, including drainage plans, sewer
+plans, water plans, curb and gutter, sidewalk and street plans, and any other
+construction plans that may be required. These plans shall indicate design
+criteria, assumptions and computations for proper analysis in accordance with
+sound engineering practice. Where such plans are or would be the same as
+those included in the County's Standard Specifications, they may be submitted
+by reference to such Standard Specifications.
+4) Dedication of Land, Rights, Easements, and Facilities for Public Ownership, Use
+and Utility Purposes.
+(A) Land for property dedicated for public purposes may be provided to the
+county by any of the following methods:
+1) By dedication on the land subdivision plat;
+2) By dedication on the partition plat, provided that the county  indicates
+acceptance on the dedication of the face of the plat; or
+3) By a separate dedication or donation document on the form provided
+by the county.
+(B) All streets, pedestrian ways, drainage channels, easements and other
+rights-of-way shown on the final plat as intended for public use, shall be
+offered for dedication for public use at the time the final plat is filed.
+(C) Rights of access to and from streets, lots and parcels shown on the final
+plat shall not have final approval until such time as the County Engineer is
+satisfied that the required street improvements are completed in
+accordance with applicable standards and specifications. The applicant
+must petition separately to the Board for acceptance of any dedicated
+land, access rights or facilities. Acceptance of the final plat shall not be
+construed as approval of dedicated land rights, easements or other
+facilities.
+(D) Reserve Strips. The Board may require a reserve strip in areas of the
+subdivision in order to control access.
+(E) Drainage Plan. The final plat shall be accompanied by a drainage plan
+showing street grades, curbs, natural drainageways and other drainage
+works in sufficient detail to enable the engineer to determine the adequacy
+
+Clatsop County Land and Water II-59 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+of provisions for drainage and the disposal of surface and storm waters
+within the subdivision and other adjoining areas. Subsequent changes to
+the drainage plan may be approved by separate action by the Board after
+receiving the recommendation by the County Engineer.
+(F) Common Open Space. Maintenance of common open space shall be
+subject to Section 3.3060.
+(G) Road Standards. New roads shall comply with the following standards:
+1) If a County Road is created, the right-of-way and travel surface shall
+meet the standards from Table 3.2 and the boundaries of the road
+right-of-way shall be surveyed and monumented. The road shall be
+improved to a standard established by the Board of Commissioners. All
+such roads shall be improved at least to the County’s A-20 road
+standard.
+2) If a public road is created, the right-of-way and travel surface shall
+meet the standards from Table 3.2 and the boundaries of the road
+right-of-way shall be surveyed and monumented. The road shall be
+improved to the County’s A-20 road standard at a minimum for new
+subdivisions. Existing subdivisions may qualify to construct a G-20
+road if the existing roadways are not paved. An agreement shall be
+signed and recorded with the County Clerk outlining the responsibility
+of private parties maintaining the road improvements. These
+maintenance responsibilities shall be enforced by the individual parties
+or the County at its discretion.
+3) If a private road or easement is created, the entire road easement and
+travel surface shall meet the standards from Table 3.2 and the
+boundaries of the road easement shall be surveyed and monumented
+in its entirety. The road shall be improved to the County’s G-14 road
+standard at a minimum and one vehicle turnout shall be provided for
+every 400’ of road and within 50’ of each sight obscuring corner. If the
+travel surface width of the private road exceeds 20 feet no turnouts will
+be required. Easements which bind all involved property owners and
+which specify the perpetual non-exclusive nature of the road way
+easement shall be signed and recorded with the County Clerk. An
+agreement shall also be signed and recorded with the County Clerk
+outlining the responsibilities of the private parties maintaining the road
+improvements. These maintenance responsibilities shall be enforced
+by the individual parties and not by the County.
+4) Any required road improvements shall meet the applicable road
+standards in Section 3.9800. Required road improvements shall be
+completed or bonded prior to the sale of any of the subdivided lots.
+Section 2.9250. Agreement for Improvements (Ord. 21-05, Ord. 25-02)
+The subdivider shall improve or agree to improve lands dedicated for streets, alleys,
+pedestrian ways, drainage channels, easements and other rights-of-way to County
+
+Clatsop County Land and Water II-60 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+Standards as a condition preceding the acceptance and approval of the final plat.
+
+Before the Commission approval is certified on the final plat, the subdivider shall either
+install required improvements and repair existing streets and other public facilities
+damaged in the development of the subdivision; or shall execute and file with the Board
+an agreement between the subdivider and the County specifying the period within which
+required improvements and repairs shall be completed. The agreement shall provide
+that if the work is not completed within the period specified, the County may complete
+the work and recover the full cost and expense thereof from the subdivider.
+
+A performance bond, as provided in Section 2.9260 of this Ordinance, shall be required
+with such agreement. Provisions for the construction of the improvements in phases
+and for an extension of time under specified conditions may be made upon prior
+agreement by, or application to, the Commission or Board.
+Section 2.9260. Performance Bond (Ord. 21-05, Ord. 25-02)
+1) The subdivider shall file with the agreement to assure full and faithful
+performance thereof, one of the following:
+(A) A surety bond executed by a surety company authorized to conduct
+business in the State of Oregon on a form approved by the County
+Counsel.
+(B) In lieu of a surety bond, the subdivider may deposit with the County
+Treasurer cash money in an amount determined by the County Engineer,
+or file certification by a bank or other reputable lending institution that
+money is being held to cover the costs of the improvements and incidental
+expenses. Said money will only be released upon authorization of the
+County Engineer.
+(C) Such assurance of full and faithful performance shall be for a sum
+determined by the County Engineer as sufficient to cover the cost of the
+improvements and repairs that may be required prior to acceptance
+including related engineering, and shall include an additional 10 percent to
+cover any inflationary costs which may be incurred during the construction
+period to the full and final completion of the project.
+(D) If the subdivider fails to carry out provisions of the agreement and the
+County has unreimbursed costs and expenses resulting from failure, the
+County shall call on the bond or cash deposit for reimbursement. If the
+amount of the bond or cash deposit exceeds the cost and expense
+incurred, the remainder shall be released. If the amount of the bond or
+cash deposit is less than the cost and expense incurred, the subdivider
+shall be liable to the County for the difference.
+(E) If subdivision extensions are granted, the bond shall be revised.
+Section 2.9270. Final Plat Approval (Ord. 21-05, Ord. 25-02)
+Upon receipt of the final plat, the Community Development Director shall review the final
+
+Clatsop County Land and Water II-61 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+plat and supporting documents to determine that the plat conforms with the approved
+preliminary plat and all other applicable provisions of the law and this Ordinance.
+
+If the County Surveyor, Sanitarian, Engineer and the Community Development Director
+or the Commission determine that the final plat conforms fully with the approved
+preliminary plat and all applicable regulations and standards for final platting, the
+Community Development Director shall advise the Chairperson of the Commission. The
+Chairperson of the Commission may then have the plat signed in order of signatures
+listed below in this Ordinance, without further action by the Commission. If the final plat
+is not in such conformance, it shall be submitted to the Commission. When submitted to
+the Commission for review, approval of the final plat shall be by a majority of those
+present. If the plat is signed without further review by the Commission, the action shall
+be reported to the Commission at the next regular meeting. In the absence of the
+Chairperson, the duties and powers with respect to action of final plat shall revert to the
+Vice- Chairperson of the Commission.
+
+Approval of a final plat by the Board of Commissioners shall constitute an acceptance
+by the public of the dedication of any street or way shown on the plat. Acceptance of a
+street or way by approval of the final plat shall not constitute an acceptance to maintain
+the street or way. Acceptance of the maintenance of any street or way accepted by
+approval of the final plat, shall be by a separate process of petitioning the Board for
+acceptance of road maintenance. Approval of the final plat shall not act as an
+acceptance by the public of any other land for public purposes.
+Section 2.9280. Filing of Final Plat (Ord. 21-05, Ord. 25-02)
+The subdivider shall obtain signatures from the following County officials on the final
+plat. Signatures shall be obtained in the order listed:
+1) Community Development Director;
+2) County Surveyor, in accordance with the provisions of ORS 92.100;
+3) County Assessor;
+4) Board of Commissioners or its designee (upon consent of the Board);
+5) County Clerk.
+Section 2.9290. Time Limit for Recording of a Plat (Ord. 25-02)
+The final plat shall be recorded within 30 days of the date that the signatures and
+approvals as required in Section 2.9280 of this Ordinance have been obtained. If the
+final plat is not recorded within 30 days, it must be resubmitted to the Commission. The
+Commission may require revisions to the plat due to changed conditions within the
+general area of the subdivision.
+Section 2.9300. Partial Platting (Ord. 25-02)
+Individual phases of an approved preliminary plat may be recorded with the approval of
+the Commission and in the same manner as a final plat.
+
+Clatsop County Land and Water II-62 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.9400. SITE PLAN REVIEW (ORD. 25-02)
+Section 2.9410. Site Plan Requirements
+Before a permit can be issued for development, a site plan must be approved by the
+Community Development Director or designee. A site plan, drawn to scale, shall include
+the following Information:
+1) Residential Development:
+ (A) All property lines
+(B) All existing and proposed structures
+(C) distance of all existing and proposed structures from:
+ i. all property lines
+ ii. lakes, streams, rivers and/or wetlands
+(D) All waste water systems, including septic tanks, drain fields and holding
+tanks
+(E) Access roads, driveways, parking areas and easements
+(F) Erosion control plan and storm water drainage plan
+(G) Locations and types of outdoor lighting
+2) Non-Residential Development:
+(A) All property lines
+(B) All existing and proposed structures
+(C) Building dimensions and height
+(D) Driveways and road access points and dimensions
+(E) Parking calculation detailing the number of required parking spaces
+(F) Off-street parking spaces and dimensions of parking spaces
+(G) Loading areas and dimensions
+(H) Bicycle parking spaces
+(I) Pedestrian accessways and dimensions
+(J) Stormwater drainage plan
+(K) Landscaping
+(L) Existing trees greater than 6” in diameter measured 4.5’ above the ground
+(M) Fences
+(N) Existing and proposed signs and dimensions
+(O) Locations and types of outdoor lighting
+
+Clatsop County Land and Water II-63 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+SECTION 2.9500. TRANSPORTATION SYSTEM IMPACT REVIEW (ORD. 25-02)
+Purpose. The following section includes requirements for developments that have the potential
+to impact the county’s transportation system.
+Section 2.9510. Traffic Impact Analysis
+1) Purpose.
+The purpose of this section is to implement OAR Section 660-012-0060
+(Transportation Planning) that requires the County to adopt a process to apply
+conditions to development proposals in order to minimize adverse impacts to and
+protect transportation facilities. This section establishes:
+(A) the threshold for when a traffic impact analysis must be submitted for
+review;
+(B) the information that must be in a traffic impact analysis; and
+(C) who is qualified to prepare the analysis.
+2) Exemptions: No report is required is there are fewer than 200 trips per day
+generated during a weekday.
+3) When Required. A traffic impact analysis shall be required when the following
+conditions apply:
+(A) The road authority indicates in writing that the proposal may have
+operational or safety concerns along its facilities; or,
+(B) A traffic impact analysis is required by the Oregon Department of
+Transportation (ODOT) pursuant to OAR 734-051; or,
+(C) The development application involves one or more of the following
+actions:
+i. A change in zoning or a plan amendment designation; or
+ii. Change in use to a higher intensity of use; or
+iii. Safety impacts to or traffic volume increase in a residential or
+mixed-use area; or
+iv. Safety impacts to or traffic volume increase adjacent to key walking
+and biking routes, including but not limited to school routes and
+multimodal street improvements identified in the Transportation
+System Plan
+(D) The development will cause one or more of the following:
+i. An increase in site traffic volume generation by 200 Average Daily
+Trips (ADT) or more; or
+ii. An increase in peak hour volume of 20 trips or more; or
+iii. An increase in use of adjacent streets by vehicles exceeding the
+20,000 pound gross vehicle weights by 10 vehicles or more per
+day; or
+iv. Degradation of road or intersection level of service (LOS) below the
+minimum-required LOS
+4) Traffic Impact Analysis Requirements:
+(A) A traffic impact analysis shall be prepared by a professional engineer as
+defined in OAR 734-051-1070.
+
+Clatsop County Land and Water II-64 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+(B) The minimum requirements for a traffic impact analysis are:
+i. Vicinity map showing the location of the project in relation to the
+transportation system of the area;
+ii. Trip generation forecast using data from the most recent edition of
+the Institute of Transportation Engineers (ITE) Trip Generation
+Manual unless more appropriate data is available and approved by
+the County Engineer;
+iii. Trip distribution and assignment. Trip distribution assumptions are
+based on historical data, existing and future travel characteristics,
+and capacity constraints;
+iv. Safety analysis of the site accesses, including sight distance and
+operation characteristics;
+v. A complete description and plan of the proposed development and
+surrounding land uses;
+vi. Traffic signal progression analysis and interconnection if a new
+signal is proposed;
+vii. A response in the final report to any supplemental study issues
+identified by other affected jurisdictions;
+viii. Appropriate traffic calming techniques if the project distributes trips
+to a residential local road and is projected to increase the volumes
+on that road to a volume greater than 1,000 ADT;
+ix. Existing traffic volumes;
+x. Existing and future levels of service, average vehicle delay and
+volume/capacity rations (V/C) for all intersections within the study
+area for conditions with and without the proposed project;
+xi. Forecast traffic volumes with and without the development;
+xii. Analysis of right and left turn lane warrants (ODOT standards);
+xiii. Analysis of parking needs of the proposed development;
+xiv. If needed, warrant analysis for traffic control devices;
+xv. Findings and conclusions including a recommendation of
+suggested potential mitigation for off-site impacts and an evaluation
+of the effectiveness of those solutions.
+5) Mitigation:
+(A) The applicant shall be responsible for mitigating any safety or capacity
+problems that are caused by their proposed development.
+(B) If the County Engineer determines there are pre-existing safety
+deficiencies and/or capacity failures at relevant intersections or road
+frontages within the impact analysis area, then no additional development
+shall be allowed until a solution that accounts for the proposed project’s
+additional impacts is funded or built.
+
+Section 2.9520. Amendments Affecting the Transportation System (Ord. 25-02)
+1) Per OAR 660-012-0060, an application to change a comprehensive plan or
+zoning designation or to change a local land use regulation, shall be reviewed to
+
+Clatsop County Land and Water II-65 Date: April 22, 2026
+Development and Use Code                                                                   Codified to Ordinance 25-16 and Ordinance 26-05
+ARTICLE 2. PROCEDURES FOR LAND USE
+APPLICATIONS
+determine whether it would significantly affect a transportation facility. An
+amendment would significantly affect a transportation facility if it:
+(A) Changes the functional classification of an existing or planned
+transportation facility;
+(B) Changes standards implementing a functional classification system; or
+(C) Results in any of the following:
+i. Types or levels of travel or access that are inconsistent with the
+functional classification of an existing or planned transportation
+facility; or
+ii. Degradation of the performance of an existing or planned
+transportation facility such that it would not meet the performance
+standards in the TSP or comprehensive plan; or
+iii. Degradation of the performance of an existing or planned
+transportation facility that is otherwise projected not to meet the
+performance standards identified in the TSP or comprehensive
+plan.
+(D) Allows types or intensities of development that would result in levels of
+travel or access that are inconsistent with the functional classification of a
+transportation facility; or
+(E) Reduces the performance standards of the facility below the minimum
+acceptable level identified in the Transportation System Plan.
+2) Amendment applications that will significantly affect the transportation system
+shall be reviewed according to the standards in OAR 660-012-0060. Conditions
+of approval, as required by OAR 660-012-0060, shall be applied.
+3) Exemptions:
+An amendment may be approved, even if it would affect an existing
+transportation facility, if the amendment is exempted by OAR 660-012-0060(3),
+(9) or (10).

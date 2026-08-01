@@ -1,0 +1,176 @@
+Appendix I - Queuing Analysis
+Future Conditions (2027) 30th Highest Hour Queue Analysis
+Intersection Approach La ne Group Existing Storage
+(feet)
+Queue Length
+(feet)
+US 101 and Salishan Drive
+ Eastbound Left/Thru/Right -- 100
+ Westbound Left/Thru/Right -- 100
+ Northbound Left 250 100
+  Thru 1200 1320
+  Right 250 160
+ Southbound Left 250 170
+  Thru 1900 2010
+  Right 250 90
+US 101 and Drift Creek Road
+ Westbound Left/Right -- 40
+ Northbound Thru/Right -- --
+ Southbound Left 150 40
+  Thru -- --
+US 101 and Siletz Highway
+ Westbound Left/Right -- 70
+ Northbound Thru -- --
+  Right 250 0
+ Southbound Left 250 30
+  Thru -- --
+US 101 and Immonen Road
+ Westbound Left/Right -- 30
+ Northbound Thru -- --
+  Right 200 20
+ Southbound Left 200 20
+  Thru -- --
+US 101 and Gleneden Beach Road
+ Eastbound Left -- 90
+  Right 150 20
+ Northbound Left/Thru -- --
+ Southbound Thru -- --
+  Right 50 130
+US 101 and Lancer Street
+ Eastbound Left/Thru/Right -- 50
+ Westbound Left/Thru/Right -- 20
+ Northbound Left 250 20
+  Thru/Right -- --
+ Southbound Left 250 20
+  Thru/Right -- --
+US 101 and Willow Drive
+ Eastbound Left/Thru/Right -- 30
+Intersection Approach La ne Group Existing Storage
+(feet)
+Queue Length
+(feet)
+ Westbound Left/Thru -- 50
+  Right 100 80
+ Northbound Left 250 20
+  Thru/Right -- --
+ Southbound Left 250 70
+  Thru/Right -- --
+US 101 and Otter Crest Loop North
+ Eastbound Left/Right -- 70
+ Northbound Left/Thru -- 780
+ Southbound Thru/Right -- --
+US 101 and Otter Crest Loop South
+ Eastbound Right -- 70
+ Northbound Left 100 20
+  Thru -- --
+ Southbound Thru -- --
+US 101 and North Beaver Creek Road
+ Eastbound Left/Thru/Right -- 80
+ Westbound Left/Thru/Right -- 60
+ Northbound Left 250 10
+  Thru/Right -- --
+ Southbound Left 250 10
+  Thru/Right -- --
+US 101 and Bay View Road
+ Eastbound Left/Thru/Right -- 20
+ Westbound Left/Thru/Right -- 60
+ Northbound Left 150 10
+  Thru/Right -- --
+ Southbound Left 150 20
+  Thru/Right -- --
+US 101 and Wakonda Beach Road
+ Westbound Left/Right -- 20
+ Northbound Thru/Right -- --
+ Southbound Left/Thru -- 10
+US 101 and Yachats River Road
+ Westbound Left/Right -- 20
+ Northbound Thru/Right -- --
+ Southbound Left/Thru -- 10
+US 101 and Lori Lane
+ Westbound Left/Right -- 20
+ Northbound Thru/Right -- --
+ Southbound Left 100 10
+  Thru -- --
+US 20 and Western Loop
+ Eastbound Left/Thru -- 10
+Intersection Approach La ne Group Existing Storage
+(feet)
+Queue Length
+(feet)
+ Westbound Thru/Right -- --
+ Southbound Left 100 10
+  Right  10
+US 20 and Business 20 (west)
+ Eastbound Thru/Right -- --
+ Westbound Thru/Right -- --
+ Northbound Left/Right -- 240
+US 20 and OR 229
+ Eastbound Left 250 170
+  Thru -- --
+ Westbound Left 250 50
+  Thru -- --
+  Right 250 60
+ Northbound Thru/Right -- --
+ Southbound  Left/Thru/Right -- 330
+Business 20 (west) and Business 20
+ Eastbound Left/Thru -- 10
+ Westbound Thru/Right -- --
+ Southbound Left/Right -- 60
+US 20 and Olalla Lake Road
+ Eastbound Left 250 10
+  Thru -- --
+ Westbound Thru/Right -- --
+ Southbound Left/Right  10
+US 20 and Business 20 (east)
+ Westbound Left -- 30
+  Right -- 10
+ Northbound Thru -- --
+  Right 100 0
+ Southbound Left 100 10
+  Thru -- --
+OR 18 and Old Scenic Highway 101
+ Eastbound Left 200 90
+  Thru -- --
+ Westbound Thru -- --
+  Right 200 40
+ Southbound Left/Right -- 90
+OR 18 and Bear Creek Road
+ Eastbound Thru/Right -- --
+ Westbound Left/Thru -- 10
+ Northbound Left/Right -- 60
+OR 18 and North Bank Road
+ Eastbound Left/Thru -- 700
+ Westbound Thru/Right -- --
+Intersection Approach La ne Group Existing Storage
+(feet)
+Queue Length
+(feet)
+ Southeast bound Left/Right -- 40
+OR 18 and Slick Rock Road
+ Eastbound Thru/Right -- --
+ Westbound Left 100 10
+  Thru -- --
+ Northbound Left/Right -- 30
+OR 229 and Pikes Camp Road
+ Eastbound Left/Right -- 10
+ Northbound Left/Thru -- 0
+ Southbound Thru/Right -- --
+OR 229 and Logsden Road
+ Westbound Left/Right -- 300
+ Northbound Thru/Right -- --
+ Southbound Left/Thru -- 160
+Otter Crest Lookout and Otter Crest Loop
+ Eastbound Left/Thru/Right -- 40
+ Westbound Left/Thru/Right -- 60
+ Northbound Left/Thru/Right -- 40
+ Southbound Left/Thru/Right -- 70
+ Northwest bound Left/Thru/Right -- 30
+Otter Crest Loop and 1st Street
+ Eastbound Left/Thru/Right -- 30
+ Westbound Left/Thru/Right -- 10
+ Northbound Left/Thru/Right -- 10
+ Southbound Left/Thru/Right -- 0
+Note:
+Queue lengths not reported for free-flowing and uncontrolled movements.
+Queue lengths rounded up to the nearest ten feet.
+Existing storage for through-lanes displayed only when queue is expected to surpass the distance to the next intersection.

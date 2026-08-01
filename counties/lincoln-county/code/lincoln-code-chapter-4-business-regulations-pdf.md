@@ -1,0 +1,977 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lincoln-county
+id: lincoln-code-chapter-4-business-regulations-pdf
+title: 'Chapter-4-Business-Regulations-PDF'
+doc_type: ordinance
+citation: 'Chapter-4-Business-Regulations-PDF'
+authority_level: county_ordinance
+issuing_body: 'Lincoln County Board of Commissioners'
+source_url: https://www.co.lincoln.or.us/DocumentCenter/View/240/Chapter-4-Business-Regulations-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 77468cb889ccf8a02fe5c2510d8f84bbfed1e4c3f616e2f7461682216858d3b6
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.610
+    - ORS 203.035
+    - ORS 34.010
+    - ORS 433.763
+    - ORS 433.990
+    - OAR 333-039-0025
+    - OAR 333-039-0045
+    - OAR 333-039-0050
+  related: []
+  supersedes: []
+tags: [lincoln-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lincoln County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-4-Business-Regulations-PDF (Chapter-4-Business-Regulations-PDF)
+
+## At a glance
+
+Chapter-4-Business-Regulations-PDF — code of Lincoln County. 22 pages.
+
+## Full text
+
+2018 LCC CHAPTER 4 -- PAGE 1
+
+CHAPTER 4
+
+Business Regulation
+
+JUNK AND SECOND HAND DEALERS AND GARAGE SALES
+4.005    Findings and Purpose
+4.010    Definitions
+4.015    Licenses
+4.020    Application for License; Temporary License upon Application
+4.025    Issuance of License; Revocation of License
+4.030    Renewal of License
+4.035    Fees
+4.040    Records to be Kept; Transmittal to Sheriff
+4.045    Sale Postponed by Sheriff
+4.050    Articles to be Tagged
+4.055    Licensees Prohibited from Dealing with Intoxicated Persons
+4.060    Garage Sales Permitted
+4.065    Penalties
+
+LIQUOR LICENSES
+4.205    Definitions
+4.210    Fees
+
+CABLE TELEVISION
+4.330   Exercise of Cable Television Rate Regulation Authority
+
+SHORT TERM RENTAL OF DWELLING UNITS
+4.405   Findings and Purpose
+4.410   Applicability
+4.415  Definitions
+4.420  Licenses
+4.425  Application for License; Fee
+4.430   Issuance of License
+4.480  Operating Standards
+4.490   Complaint Procedure
+4.450  Denial, Revocation or Nonrenewal of a License; Hearing
+4.455  Nonliability of County
+4.460  Severability
+
+MASS GATHERINGS (SMALL, OUTDOOR AND EXTENDED)
+1
+4.505   Definitions
+4.510  SG, MG, and EMG Exclusions
+
+1 Pursuant to the authority granted under LCC 0.130, Counsel has provided titles and renumbered sections and parts
+of sections of Ordinance 495 to preclude conflicts with numbering already within the LCC.
+2018 LCC CHAPTER 4 -- PAGE 2
+
+4.515  SG, MG, and EMG Permit Required
+4.520  SG, MG, and EMG Permit Processing/When Hearings Are Required
+4.525  SG, MG, and EMG Departmental and Agency Notice
+4.530  SG, MG and EMG Approval Criteria
+4.535  SG, MG, and EMG Appeals
+4.440  SG, MG, and EMG Insurance
+4.445  SG, MG and EMG Sanitary Facilities and Food Preparation
+4.550  SG, MG and EMG Fire Protection Standards
+4.555  SG, MG, and EMG Medical Service
+4.560  SG, MG, and EMG Public Safety
+4.565  SG, MG, and EMG Parking Facilities
+4.570  SG, MG, and EMG Permit Display and Set Up and Clean Up Requirements
+4.575  SG, MG, and EMG Inspection of Premises
+4.580  SG, MG and EMG Restricted Hours of Operation
+4.585  SG, MG, and EMG Enforcement
+4.590  SG, MG, and EMG Intoxicating Liquor Prohibition
+4.595  SG, MG, and EMG Unlawful Controlled Substances Prohibition
+4.600  SG, MG, and EMG Compliance Required
+4.605  SG, MG and EMG Violation Enforcement
+4.610  Review of Ordinance # 495
+
+2018 LCC CHAPTER 4 -- PAGE 3
+
+JUNK AND SECOND HAND DEALERS AND GARAGE SALES
+
+ 4.005  Findings and Purpose
+ (1) The Board finds that:
+ (a) Junk and secondhand dealers may knowingly or unknowingly be a conduit for the sale or
+purchase of stolen property;
+ (b) Such business should be regulated by requiring a license issued by the Board;
+ (c) Licenses for junk and secondhand dealers should be denied, suspended, or revoked when
+the conduct of such business pre sents a threat to the peace, health, or safety of the people of the
+county; and
+ (d) ORS 203.035 authorizes the regulation of junk and secondhand dealers by the county.
+ (2) The purpose of LCC 4.005 to 4.065 is to provide for the peace, health, and safety of
+citizens of the county by regulating junk and secondhand dealers and garage sales. [1994 o. 349 §1]
+
+ 4.010  Definitions
+ As used in LCC 4.005 to 4.065, unless the context requires otherwise:
+ (1) "Garage sale" means a sale of secondhand articles or junk at a private residence where
+such sale does not occur more than twice each calendar year. "Garage sale" includes the sale of
+secondhand articles or junk by religious, charitable, fraternal, or other eleemosynary organizations,
+provided that such sales occur not more than six times each calendar year.
+ (2) "Junk" includes, but is not limited to, old rope, old iron, brass, copper, tin, lead, rags,
+empty bottles, paper bagging, scrap metals of all kinds, and other worn out or discarded material.
+ (3) "Junk dealer" means any person who owns and operates a junk shop, except for a person
+conducting a garage sale.
+ (4) "Junk shop" means any storeroom building, yard, enclosure, or other place where junk is
+sold or bought for profit or pleasure; provided how ever, that such definition sha ll not apply to
+automobile wreckers where automobiles are purchased and certificates of title furnished.
+ (5) "Secondhand articles" means any used personal property except books, including, but
+not limited to, used wearing apparel, tools, goods, wares, merchandise, or other articles and things
+usually found in a secondhand store.
+ (6) "Secondhand dealer" means any person who buys, sells, or otherwise deals in
+secondhand wearing apparel, tools, goods, wares, merchandise, or other articles and things usually
+found in a secondhand store, except books, or any person who goes from house to house or place to
+place within the county purchasing or soliciting the purchase of gold, silver, or other precious
+metals or jewelry. For purposes of this ordi nance, a secondhand dealer shall not include a person
+conducting a garage sale or a person whose business is the sale of art objects, fur niture, or other
+articles which have a value based on rarity or the time elapsed since the articles were produced.
+ (7) "Secondhand s tore" means any store, room building, yard, enclosure, or other place
+where secondhand articles are bought, sold, or traded for profit or pleasure.
+
+ 4.015  Licenses
+ (1) It shall be unlawful to operate or keep any secondhand store or junk shop without fi rst
+having obtained a license as provided in LCC 4.005 to 4.065.
+ (2) No license granted under the provisions of LCC 4.005 to 4.065 shall be assignable.
+2018 LCC CHAPTER 4 -- PAGE 4
+
+ 4.020  Application for License; Temporary License upon Application
+ (1) Application for a license shall be made upon forms provided by the Board.
+ (2) The application shall constitute a temporary license valid for thirty days. The
+application, or a copy thereof, shall be referred to the sheriff for investigation prior to issuance of a
+final license. If it appears to the sheriff that a final license should not be issued to the applicant, the
+sheriff shall notify the Board and shall set forth why, in his opinion, the applicant should be denied.
+
+ 4.025  Issuance of License; Revocation of License
+ (1) After receiving the report of the sheriff, the Board may grant a final license to applicant.
+ (2) Nothing in this chapter shall be construed to create a vested right in a person to the as-
+signment, renewal, or continuance of a license. The final authority on l icenses shall be the Board
+which may revoke, cancel, or refuse issuance or renewal of a license as follows:
+ (a) Fraud or misrepresentation in its procurement;
+ (b) Violation of any state or federal statute involving moral turpitude, where the cir -
+cumstances of the violation adversely re flect on applicant's or licensee's abil ity to engage in the
+occupation, profession, trade, or calling in a lawful manner; or
+ (c) Violation of federal or state law or county rule relating to the business or activity subject
+to the license and resulting from the conduct of such business or activity. Conviction of a crime or
+violation of this chapter is not required for revocation, non renewal, or refusal to issue a license.
+ (3) At any time the sheriff or district attorney may recommend the revocation of any license
+granted under LCC 4.005 to 4.065. The recommendation shall be in writing and include the reasons
+therefor.
+ (4) Whenever the Board refuses to issue, fails to renew, or revokes the license of any
+person, the Board shall afford the applicant or license holder an opportunity for a hearing at which
+witnesses and interested parties may be heard.
+ (5) Reapplication after revocation or suspension may be made at any time after revocation
+or suspension as provided in LCC 4.020.
+
+ 4.030  Renewal of License
+ Every license issued pursuant to LCC 4.005 to 4.065 shall expire January 15 of each year
+and may be renewed upon payment of the fees as set forth in LCC 4.035.
+
+ 4.035  Fees
+ The fee an annual license issued pursuant to LCC 4.015 shall be in an amount set by order
+of the Board of Commissioners.
+  [1993 o.313 § 7]
+
+ 4.040  Records to be Kept; Transmittal to Sheriff
+ (1) Except as provided in subsection (2) of this section, every licensee shall keep a record of
+articles offered for sale or stored upon the licensee's premises having a licensee purchase value of
+$20 or more. The records shall be open to inspection of the sheriff or deputies during normal
+business hours and contain the following:
+ (a) The day and hour an article was received, pledged, or purchased;
+ (b) The amount loaned or price paid;
+2018 LCC CHAPTER 4 -- PAGE 5
+
+ (c) A description of each article received, pledged, or purchased, including a number, word,
+or initial engraved on or attached to the article, and the style and number of settings;
+ (d) The printed name and signature of the person from whom the purchase was made;
+ (e) The address of the person from whom the purchase was made; and
+ (f) The identification number required by LCC 4.050.
+ (2) Licensees shall not be required to keep a record as provided in this section for the
+following:
+ (a) Property purchased from manufacturers or wholesalers having an established place of
+business, or secured from any person doing business and having an es tablished place of business;
+and
+ (b) Articles of the same or similar nature purchased in bulk, lots, or groups. As used in this
+subsection, "bulk, lots, or groups" means at least 12 articles.
+ (3) Transactions excluded from record keeping by subsection (2) of this section shall be
+accompanied by a bill of sale or other evidence of purchase which must be shown to the sheriff or
+his deputy upon request during normal business hours.
+
+ 4.045  Sale Postponed by Sheriff
+ If the sheriff has good cause to believe an article is stolen property, he may notify a licensee
+not to sell or otherwise dispose of any article received or purchased. In the event of such
+notification, the article shall not be sold or otherwise disposed of for 90 days after the date of the
+notice.
+
+ 4.050  Articles to be Tagged
+ Licensees shall affix to all articles subject to record keeping, pursuant to LCC 4.040, a tag
+upon which shall be written an identification number in legible characters.
+
+ 4.055  Licensees Prohibited from Dealing with Intoxicated Persons
+ Licensees shall no t receive or purchase property from persons under the influence of
+intoxicants.
+
+ 4.060  Garage Sales Permitted
+ Nothing in LCC 4.005 to 4.065 prohibits garage sales as defined in LCC 4.010
+
+ 4.065  Penalties
+ (1) Any person who operates any business in vi olation of LCC 4.005 to 4.065 shall, upon
+conviction, be punished pursuant to LCC chapter 10.
+ (2) A failure from day -to-day to comply with this chapter shall be a separate offense for
+each day.
+  [1982 o.171 §1; 1994 o.349 §2]
+
+2018 LCC CHAPTER 4 -- PAGE 6
+
+ENTERTAINMENT ASSEMBLIES
+
+[4.105 to 4.160 repealed by 2017 o. 495 § 3]
+
+LIQUOR LICENSES
+
+ 4.205  Definitions
+ "Liquor License" means a license issued by the Oregon State Liquor Control Commission
+for the manufacture, distribution, sale, fermentation, distillation, or rectifying of alcoholic liquor.
+
+ 4.210  Fees
+ Every applicant for a liquor license whose license is referred to Lincoln County for
+recommendation by the Oregon Liquor Control Commission shall pay a fee to the county clerk in
+an amount set by order of the Board of Commissioners.
+  [1993 o.313 § 9]
+
+CABLE TELEVISION
+
+ 4.330  Exercise of Cable Television Rate Regulation Authority
+ (1) In accordance with the requirements of 47 USC § 543(a)(3)(A) and 47 CFR §
+76.910(e)(1)(i), in exercising its regulatory authority over the ra tes of cable television operators,
+Lincoln County will follow the regulations adopted by the Federal Communications Commission
+pursuant to 47 USC § 543(b).
+ (2) In accordance with FCC Order number 94- 40, MM Docket number 92- 266, ¶ 62, the
+Lincoln County Board of Commissioners designates the Office of Lincoln County Legal Counsel as
+the Lincoln County Cable Administrator, and delegates authority to the Administrator to conduct
+cable rate regulation proceedings, and issue appropriate orders and determinations, in accordance
+with federal and state law and regulations.
+ (3) In accordance with the requirements of 47 USC § 543(a)(3)(C) and 47 CFR §
+76.910(e)(1)(ii), before exercising its regulatory authority over the rates of a cable television
+operator, the Administrator will first hold an open public meeting in accordance with the Oregon
+public meetings law, ORS 192.610 to 192.690, that will provide a reasonable opportunity for
+consideration of the views of interested parties, including, but not limited to, the cable operator and
+subscribers of the cable operator.
+ (4) A party aggrieved by a determination or order of the Administrator may appeal to the
+Board of Commissioners within 15 days of the issuance of the determination or order.  An appeal
+filed with the Board under this subsection will be heard de novo by the Board, but the review will
+be confined to the evidence and information on the record that was before the Administrator.  No
+further evidence or information, other than legal argument by written memorandum, will be
+received by the Board.  A party aggrieved by the Board's determination or order in an appeal under
+this subsection may appeal that determination or order to the FCC in accordance with 47 CFR §
+76.944.
+  [1994 o.330 §2; 1994 o.338 §1]
+
+2018 LCC CHAPTER 4 -- PAGE 7
+
+SHORT TERM RENTAL OF DWELLING UNITS
+
+4.405 Findings and Purpose
+(1)  The Lincoln County Board of Commissioners finds that:
+(a)  The growth in the number of short term rental of dwelling units within the County has
+been accompanied by increased problems of excessiv e noise, spilled garbage, shortages of
+parking, and overcrowded accommodations;
+(b)  The best way to regulate these impacts is to establish conditions for operation of these
+rentals and to implement a licensing program by the County to ensure compliance wi th those
+standards; and
+(c)  The conditions established herein will allow operation of such rentals in a manner that
+respects and protects the livability of the neighborhoods in which these rentals are located.
+(2)  The purpose of LCC 4.405 through 4.460 i s to provide for the peace, health, safety
+and livability of residents of, and visitors to, Lincoln County.  This is not a land use ordinance
+and is not made a part of Lincoln County Code Chapter 1, Land Use Planning.   [2016 o.487 § 2]
+
+4.410 Applicability
+ LCC 4.405 through 4.460 shall apply to the unincorporated areas of Lincoln County.  These
+provisions shall not apply to Bed and Breakfast Inns, Hotels, Lodges, Motels, Resorts, Recreational
+Vehicle Parks, Campgrounds, or other similar lodging units which are regulated by LCC Chapter 1.
+[2016 o.487 § 3]
+
+4.415 Definitions
+ For the purpose of LCC 4.405 through 4.460
+ (1) "Accessory structure or accessory use” means a structure or use incidental and
+subordinate to the main use of a property and located on the same lot as the main use.
+ (2)  “Contact Person” means:
+ (a) The owner(s) of the dwelling unit; or
+ (b) The agent of the owner(s), authorized to act for the owner(s) as designated on the license
+application.
+ (c) The contact person, whether the owner or an agent, must be located within Lincoln
+County, and cannot use the dwelling unit(s) licensed under this Chapter as the basis for compliance
+with this provision unless the owner or agent resides at that location.
+ (3)  “Dwelling Unit” means:
+  (a) A single unit providing complete, independent living facilities for one or more persons
+including permanent provisions for living, sleeping, eating, sanitation and only one cooking area.
+ (b) A "single family dwelling" means a structure of which all habitable portions thereof are
+connected structurally and comprise one dwelling unit, including but not limited to factory built
+dwellings, mobile homes and site built dwellings.
+ (c) A "two family dwelling" means a structure of which all habitable portions thereof are
+connected structurally and comprise two dwelling units including but not limited to factory built
+dwellings, mobile homes and site built dwellings.
+2018 LCC CHAPTER 4 -- PAGE 8
+
+ (d)  A "multi-family dwelling" means a structure of which all habitable portions thereof are
+connected structurally and comprise three or more dwelling units, including, but not limited to,
+factory built dwellings, mobile homes and site built dwellings.
+ (4) “License” means a short term rental license issued by Lincoln County and maintained in
+good standing by the Owner(s) or agent of the Owner(s) in accordance with the provisions of the
+Lincoln County Code.
+ (5) “Owner(s)” means the person or people, partnership, corporation, association, or other
+legally recognized person(s) or entity holding title to the dwelling unit in accordance with law.
+ (6) “Person" includes any natural person(s), firm, partnership, association, social or fraternal
+organization, corporation, business or any other group or combination acting as a unit.
+ (7) "Rental Agreement" means any agreement, whether or not in writing, granting the use of
+a dwelling unit to a person.  Use of a dwelling unit by a recorded owner or other person or persons
+without monetary consideration shall not be considered to be a rental under this chapter.
+ (8) "Rent" means the authorization of use of a dwelling unit granted to a person(s) in
+exchange for monetary consideration.
+ (9) "Renter" is a person who rents a short term rental.
+ (10) "Short Term Rental" means the renting of a dwelling unit (including any  accessory
+guest house on the same property) to any person(s) on a day to day basis or for a period of time of
+up to thirty (30) consecutive nights.
+ (11) "Sleeping Area" is a room or other space within a dwelling unit designed, intended or
+used for sleeping.  Roll out beds, fold out couches, or other temporary sleeping accommodations
+including tents and recreational vehicles shall not be considered a sleeping area, and may not be
+used to increase the allowed occupancy of a short term rental as provided in LCC 4.404 through
+4.460.  Determinations as to the number of sleeping areas within a dwelling unit are reserved to the
+Lincoln County Licensing Authority and all determinations are final.
+[2016 o.487 § 4; 2016 o.490 § 2]
+
+4.420 Licenses
+ (1) It shall be unlawful to rent any dwelling unit as a short term rental without obtaining and
+maintaining a current license as provided in LCC 4.405 through 4.460.  All dwelling unit owners
+shall obtain a license prior to using the dwelling unit as a short term rental.
+ (2) No license granted under the provisions of LCC 4.405 through 4.460 shall be assignable.
+ If the dwelling unit is sold or transferred by any means, a new license is required of the subsequent
+owner(s) who desire to continue short term rental operation; provided, however, that the Board of
+Commissioners may set a pro rata lower fee for the first year.  The subsequent owner(s) will be
+required to fill out a new application and agree in writing to comply with the requirements of this
+Chapter.
+ [2016 o.487 § 5]
+
+4.425 Application for License; Fee
+ (1) Applications for a license, renewal of a license, or license caused by a change in
+ownership shall be made upon forms provided by the County.
+ (2) Every license application, renewal license or license caused by a change in ownership
+shall be accompanied by annual fee(s) in amounts as set, and periodically reviewed and amended,
+by order of the Board of Commissioners.
+2018 LCC CHAPTER 4 -- PAGE 9
+
+ (3) Every application shall be processed by the Department or Office designated by the
+Lincoln County Board of Commissioners (hereafter County Licensing Authority).  Upon receipt of
+the completed application the County will review the application and certify that:
+ (a)  Based on a viewing of the property, the short term rental complies with standards found
+in LCC 4.440(1) in posting contact person information and providing that information to the local
+fire department and Lincoln County Sheriff’s Office.
+ (b) Determine the maximum occupancy for the short term rental as defined by LCC
+4.440(6).
+  (c) Receive and review the certified statement of the owner that the owner of the short term
+rental has met and will continue to comply with the requirements of this Chapter.
+ (d) Transient Room Tax Compliance Required.  Notwithstanding any other provision of this
+Chapter or the Lincoln County Code, and as a separate stand- alone requirement and criteria for
+holding a valid license, the owner shall provide a certified statement that the owner will comply
+with LCC Chapter 5.005 through 5.070 Transient Room T axes.  If the owner cannot demonstrate
+compliance with Chapter 5 Transient Room Taxes, or the County determines that the owner is not
+in compliance with the provisions of that Chapter, the license shall not be issued, or may be
+suspended or revoked, or may  be denied upon renewal, until such time as the noncompliance is
+resolved to County’s satisfaction.  Compliance includes, but is not limited to, failure to report,
+improper reporting, failure to collect or failure to remit required transient room taxes.  Any of these
+actions not timely made is also grounds for noncompliance.
+[2016 o.487 § 6]
+
+4.430 Issuance of License
+ (1) Authority to issue licenses rests with the Lincoln County Licensing Authority as
+designated by the Board of Commissioners.  In addition, an issued license is subject to revocation
+or refusal to renew the license for failure to meet, maintain or operate the short term dwelling in
+conformance with the requirements of this Chapter and the procedures as provided in LCC 4.425.
+ (2) Within sixty (60) days of receipt of a completed application, the payment of required
+fees, and the determination or certification of compliance with the requirements of LCC 4.440
+(Operational Standards) and LCC 4.425 (Application for License; Fee), a license shall be issued by
+the Lincoln County Licensing Authority to the owner which shall be good for one (1) year from the
+date of issuance.
+  (3) If an application for a permit or the renewal of a permit is denied, or a permit is
+revoked, cancelled or not renewed the owner may appeal denial or revocation or nonrenewal under
+LCC 4.450.  Unless and until a permit is finally revoked or not renewed as provided in this Chapter,
+a short term rental may continue to operate.
+[2016 o.487 § 7]
+
+4.440 Operating Standards
+ As used in LCC 4.405 through 4.460, all short term rentals shall comply with the following
+operating standards and conditions:
+ (1) Contact Person(s).  The name and phone number of the contact person(s) shall be
+posted, provided and updated in the following manner:
+ (a) If the short term rental has a sign identifying it as a short term rental, then the current
+name and phone number of the contact person shall either appear on the sign or otherwise be
+2018 LCC CHAPTER 4 -- PAGE 10
+
+conspicuously posted near the sign so that it is visible from t he street and from outside the front
+entrance of the short term rental.
+ (b) In addition, the owner shall provide the contact person’s name and phone number in
+writing to the local fire chief and the Lincoln County Sheriff’s Office.  The Sheriff’s Office shall
+supply this information to each property owner as shown on the Lincoln County Assessor’s records
+located within two hundred fifty feet (250') of the short term rental property.
+ (c) The owner shall update the posted notice and provide a new written notice to the local
+fire chief and Lincoln County Sheriff’s Office each time there is a change to the name or phone
+number of the contact person.  An additional fee, as set by the Board, shall accompany the new
+written notice provided to the Sheriff to off set costs of the Sheriff’s Office in supplying this new
+information to property owners in accordance with LCC 4.440(1)(c) above.
+  (d) The owner or contact person shall contact a renter by phone or in person or otherwise
+respond within a reasonable period of time which shall normally be within one hour, unless
+circumstances would require a lesser or greater time, upon receiving any complaint from a
+neighbor, the local fire department or the Sheriff’s Office concerning the conduct of a renter.
+  (2) Quiet Time.  In accordance with the requirements of LCC 2.2000 through 2.2045, the
+hours of 10:00 p.m. until 7:00 a.m. the next day are required quiet time.  Renters who violate this
+standard may be issued enforcement mechanisms available to the County under LCC  2.2045 and
+LCC Chapter 10.  In addition multiple violations of the quiet time requirements by short term
+dwelling renters may subject the licensee to revocation or nonrenewal of the license as provided in
+LCC 4.450.  The owner or contact person shall notify every renter, in writing, of the quiet times and
+that a renter may be subject to sanction and penalties under the County Code.
+  (3) Garbage Service.  The owner shall be required to maintain adequate garbage service,
+with required secure containers, fr om the franchised waste disposal service company serving its
+property.  The service must be at a level commensurate with the garbage generated at the dwelling,
+but no less than weekly service when the short term rental is being rented.  Owners shall notify all
+guests of the garbage services and requirements for the dwelling.
+ (4) Parking.  The owner must provide one (1) parking space for each approved sleeping area
+in a short term rental, plus one (1) additional parking space per unit.  For dwellings constructed on
+or after July 1, 2016,  all required parking shall be provided off street.  For dwellings constructed
+prior to July 1, 2016, off-street parking must be used if physically available.  If a sufficient number
+of off-street parking spaces are not available for the authorized number of vehicles, then on-street
+parking may be used unless otherwise prohibited.  Parking shall not, under any circumstances,
+hinder the path of any emergency vehicle.  Renters may be cited and fined under existing State or
+County law in the event they park illegally.  Repeated violations of prohibited parking by renters of
+the short term rental may be grounds for enforcement against the Owners under LCC 4.460.  The
+owner or contact person shall notify every renter in writing of the required off -street parking and
+other parking spaces available to serve the short term rental.
+ (5) House Number.  A house number, visible from the street, shall be installed and
+maintained by the Owners.
+ (6) Limits on Occupancy.  The maximum occupancy for a short term rental unit shall be
+calculated on the basis of an average of three (3) persons per sleeping area plus an additional two
+(2) persons.  For the purpose of maximum occupancy, those under two (2) years of age shall not be
+counted.  Accessory structures, tents and recreational vehicles and similar sleeping arrangements
+shall not be used to increase the number of people approved to occupy a short term rental.
+2018 LCC CHAPTER 4 -- PAGE 11
+
+Notwithstanding the forgoing, no more than 16 persons shall occupy the short term r ental unit at
+any one time.
+ Notwithstanding the foregoing limits, a dwelling built and operated as a short term rental
+unit on July 1, 2016, may be grandfathered in at a higher maximum occupancy level, not to exceed
+3 persons per sleeping area plus 2 additional persons, under the following conditions:
+ (a)  The owner applies for a higher occupancy limit in the initial application for a short term
+rental license, which application must be received no later than December 31, 2016.  No dwelling
+will be allow ed a higher occupancy limit unless the owner applies and qualifies during this
+application period.
+ (b) The owner provides proof (rental agreements, ads, or other reasonable evidence) that the
+unit has historically been rented and occupied by more than 16 persons.
+ (c) The property on which the dwelling unit is located can provide, within all applicable
+laws, off-street parking as required under LCC 4.440(4) above.  That requirement is one parking
+space per sleeping area, plus one more.
+ (d) For illustrative purposes, a dwelling with six sleeping areas may be allowed a maximum
+of 20 persons (three per sleeping area, plus two more) if a total of seven (7) lawful off -street
+parking spaces are provided.
+ (e) Review of the request for a higher occupancy limit shall be made by the County
+Licensing Authority which at its sole discretion shall make all determinations as to whether or not
+to grant, partially grant, or deny a request for higher occupancy.
+ (7) Notices to Renters.  The owner must provide to each renter and post in a prominent
+location in the dwelling, a list of rules including, but not limited to, rules on required quiet times,
+available garbage service, parking locations and limitations on occupancy.
+[2016 o.487 § 8]
+
+4.445  Complaint Procedure
+All complaints will initially proceed through the informal resolution process provided
+herein.  If the complaint is unresolved, then the more formal process shall be utilized as set forth
+below:
+(1)  Step One.  The complaining party shall attempt to communicate with the contact
+person designated on the license, communicated in writing to the neighbor, and posted at the
+short term dwelling.  The complainant shall describe the problem and the requested resolution.
+(2) Step Two.  The contact person shall promptly respond to the complainant and make
+reasonable efforts to remedy any situation that is out of compliance with the provisions of this
+Chapter.  If that resolves the matter, the complaint process terminates.
+(3)  Step Three.  If the response from the contac t person is not satisfactory to the
+complaining party or the contact person does not believe that the problem violates this Chapter,
+either party or both parties may next provide a written complaint to the Lincoln County Licensing
+Authority, with a copy of the written complaint provided to the other party by the complainant or
+the contact person.  The written complaint shall describe all efforts to resolve the problem.  The
+Licensing Authority shall then attempt to resolve the complaint with parties.  The L icensing
+Authority may use community mediation resources if it determines such resources are available
+and would help resolve the complaint.  If not mutually resolved by the parties, the Licensing
+Authority shall issue a written determination to both parties to resolve the problem.  If the
+Licensing Authority finds that a violation of this Chapter occurred, the Licensing Authority may
+undertake enforcement action as authorized in this Chapter and LCC Chapter 10.
+2018 LCC CHAPTER 4 -- PAGE 12
+
+(4)  Step Four.  Either party may appeal the determination of the Licensing Authority by
+filing a written appeal to the Board of Commissioners within thirty (30) days of the Authority’s
+determination.  The Board of Commissioners, or its designee, shall hold an informal hearing on
+the appeal and issue a final decision.
+(5)  This procedure is separate from but complimentary with the procedures used to
+revoke, cancel or deny renewal of a license, LCC, 4.450.
+ [2016 o.487 § 9]
+
+4.450 Denial, Revocation or Nonrenewal of a License; Hearing
+Owners of short term rental units who hold a valid license under this Chapter are required
+to comply with all applicable provisions of this Chapter and the Lincoln County Code.  In
+addition to the penalties for violation of any provision of LCC 4.405 through 4.460 punishable
+pursuant to LCC Chapter 10, failure to comply may subject the owner to revocation or
+nonrenewal of a License as provided for in this section.  Appeal of denial of a license is also
+governed under these provisions.
+(1) The following shall be grounds for considering revocation or nonrenewal of the
+license:
+(a)  Three or more violations of this chapter or other provisions of the Lincoln County
+Code related to the same short term rental within one (1) year.  Violations include, but are not
+limited to, comp laints identified in LCC 4.445 which reached step 4 and a final determination
+was made that the problem as unresolved violated provisions of this Chapter.  Violations may
+also be determined by the Licensing Authority for noncompliance with the provisions of this
+Chapter or other provisions of the Lincoln County Code.
+(2)  Denial of a license may be appealed under the procedures set forth below.
+(3)  The County shall conduct a hearing if it wishes to consider the revocation or
+nonrenewal of a short term re ntal license.  The County will also hold a hearing if an owner
+appeals denial of a license.  All hearings will be conducted by the Board of Commissioners or its
+designee.  The County shall give thirty (30) days written notice to all relevant parties of the  time,
+date and place of the hearing, that the short term rental permit may be revoked as a result of the
+hearing and of the allegations and violations upon which revocation will be considered.  At the
+hearing, each party shall have an opportunity to be he ard and present such witnesses, testimony
+and other evidence as that party deems relevant to the issues.  The procedure will be informal and
+no cross examination will be allowed.  The hearing may be continued at the discretion of the
+County.  At the conclusion of the hearing process, the Board of Commissioners or its designee
+shall consider the evidence and issue a written order revoking the license, or not renewing it, or
+denying the application as the situation warrants.
+[2016 o.487 § 10]
+
+4.455 Nonliability of County
+Neither the County nor any official or employee of the County, including the Lincoln
+County Licensing Authority shall be liable for any damages, claims from any owner or third party
+relating to enforcement of any provision of LCC 4.405 through 4.460.
+[2016 o.487 § 11]
+
+4.456 Delegation of Authority
+The Lincoln County Licensing Authority is delegated the authority and responsibility to
+adopt rules, procedures, forms and practices consistent with the overall intent of this Chapter, to
+implement, administer, and operate the licensing program for the County.  [2016 o.490 §3]
+2018 LCC CHAPTER 4 -- PAGE 13
+
+4.460 Severability
+Each section, sentence, clause, and phrase hereto is declared severable. If any section,
+sentence, clause, or phrase of this chapter is adjudged by a cour t of competent jurisdiction to be
+invalid, the decision shall not affect the validity of the remaining portions of this Chapter. [2016
+o.487 §12]
+
+2018 LCC CHAPTER 4 -- PAGE 14
+
+MASS GATHERINGS (SMALL, OUTDOOR AND EXTENDED)
+
+4.505 Definitions
+As used in LCC 4.505 to 4.605, unless the context requires otherwise:
+(1) “Assembly of Persons” means any gathering of any person, including but not limited
+to spectators, attendees, organizers, performers and participants on any given day.
+(2) “Board” means the Lincoln County Board of Commissioners, or its designee.
+(3) “Department” means the Lincoln County Planning Department.
+ (4) “Director” means the Director of Lincoln County Planning, or his or her designee.
+ (5) “Extended Outdoor Mass Gathering” (hereinafter “EMG”) means and includes an
+Assembly of Persons, including but not limited to spectators, for which the actual cumulative
+number is or is reasonably expected to be more than 3,000 persons for a period that continues to be
+for more than 120 hours, including set-up, placement, storage and removal or similar action of any
+equipment, materials, structures, vehicles, supplies and so forth, within any continuous three-month
+period, and that is primarily held in open spaces and not in any permanent structure within the
+unincorporated area of Linc oln County.  The duration begins on the earlier of when the first
+attendee can or is anticipated to arrive at the assembly and when the last attendee has left the
+assembly.
+ (6) “Hearings Body” means the following:
+ (a) For Outdoor Mass Gatherings, the Board;
+ (b) For EMGs, the County Planning Commission;
+ (c) For appeals of a decision of the County Planning Commission, the Board;
+ (d) For appeals of a decision of the Director or Board, the Lincoln County Circuit Court.
+ (7) “Organizer” includes any person who conducts, stages or sponsors a Small Gathering,
+Outdoor Mass Gathering or EMG, and the owner, lessee, or possessor of the real property upon
+which the Small Gathering, Outdoor Mass Gathering or EMG is to take place.
+ (8) Outdoor Mass Gathering” (hereinafter, “MG”) means and includes an assembly of
+persons, including but not limited to spectators, and whose number is or is reasonably anticipated to
+be more than 3,000 persons for a period that continues or can reasonably be expected to continue
+for more than 24 hours, but less than 120 hours, excluding set up, placement, storage and removal
+or similar action of any equipment, materials, structures, vehicles, supplies and so forth, within any
+continuous three -month period and which is primarily held in open spaces, but not in any
+permanent structure within the unincorporated area of Lincoln County.  The duration begins on the
+earlier of when the first attendee can or is anticipated to arrive at the assembly, and when the last
+attendee has left the assembly.
+ (9) “Permanent Structure” includes a stadium, an arena, an auditorium, a coliseum, a
+fairground, a commons, or other similar established places for assemblies and public gatherings.
+ (10) “Person” or “Persons” means any individual, firm, partnership, cor poration, joint
+venture, association, social club, fraternal organization, fraternity, sorority, non-profit organization,
+estate, trust, receiver, trustee, syndicate or other group, organization or combination acting as a unit.
+ (11) “Sheriff” means the Lincoln County Sheriff or his/her designee.
+ (12) “Small Gathering” (hereinafter, “SG”) means and includes an assembly of persons,
+including but not limited to spectators, whose actual cumulative number is or is reasonably
+anticipated to be less than 3,001 persons but more than 300 persons for a period that continues or
+can reasonably be expected to continue for more than 6 hours but not more than 120 hours,
+2018 LCC CHAPTER 4 -- PAGE 15
+
+including set-up, placement, storage and removal or similar action of any equipment, materials,
+structures, vehicles, supplies and so forth within any continuous three month period, and that is held
+primarily in open spaces and not in any permanent structure within the unincorporated area of
+Lincoln County.  The duration begins on the earlier of when the first attendee can or is anticipated
+to arrive at the assembly and when the last attendee has left the assembly.
+ (13)  “Spectator” means any person located within, alongside or near the SG, MG or EMG,
+whether or not that person pays a fee to participate in the SG, MG or EMG.
+ (14) “Sponsor” means any person that allows, promotes or causes an SG, MG or EMG.
+ (15) “Temporary Structure” includes stages, tents, trailers, chemical toilet facilities and
+other non-permanent structures customarily erected or sited for temporary use.
+ (16) “Traffic Control” means signs, warning markers and other regulatory devices meeting
+the standards of the Manual of Uniform Traffic Control Devices.
+
+4.510 SG, MG and EMG Exclusions
+(1) The r equirements in this Code for SG s, MGs an d EMGs shall not apply to any
+regularly scheduled religious service or religious organized activity that takes place on
+institutional property, regularly organized and supervised school district activity or program that
+takes place on school property, any activities at the Lincoln County Fairgrounds or Commons,
+any activity at a County park, or any activity of a municipal corporation or governmental agency.
+(2) The Director or Hearings Body, as applicable, may waive all or part of the permit
+requirements for certain limited SGs, upon a showing by the Organizer of good cause, when no
+significant public health, safety or welfare issues are involved or when the Director or Hearings
+Body determines that no County law enforcement or other County resources are nec essary.
+Notwithstanding the above, there shall be no waiver of fire protection standards (Section 4.550).
+
+4.515 SG, MG and EMG Permit Required
+(1) No Organizer shall hold, conduct advertise or otherwise promote a n SG, MG or EMG
+or allow an SG, MG or EMG t o be held on real property in the unincorporated areas of Lincoln
+County unless the Organizer obtains a permit to hold such an SG, MG or EMG.
+(2) No permit for an SG, MG or EMG shall be issued unless the landowner of the
+property that is the site of the SG, MG or EMG also signs the application.
+(3) All SGs and MGs are exempt from the requirements of Chapter 1 of the Lincoln
+County Code, except where noted.
+(4) One permit shall be required for each SG, MG or EMG.
+(5) A permit issued under these provisions does not entitle the SG, MG or EMG
+Organizer to construct any permanent physical alterations to or on the real property which is the
+site of the SG, MG or EMG.
+(6) The Organizer of a proposed SG, MG or EMG shall file an application with the
+Department at least 90 days prior to the SG, MG or EMG.
+(7) The application shall include the following:
+(a) Name and mailing address, email address and phone number of the Organizer (and of
+the Property Owner, Lessee, or Possessor, if different).
+(b) Legal description and address, if any, of the location of the proposed SG, MG or
+EMG.
+2018 LCC CHAPTER 4 -- PAGE 16
+
+(c) A map of the SG, MG or EMG showing access roads and assembling and disbanding
+points.
+(d) The date or dates of the proposed SG, MG or EMG.
+(e) The proposed starting and ending time(s) of the SG, MG or EMG.
+(f) The estimated number of persons, vehicles and animals that will be attending,
+participating in or viewing the SG, MG or EMG.
+(g) The nature of the proposed SG, MG or EMG.
+(h) A sketch, and other detailed information showing the type, number and location of all
+toilets, washing facilities, water supply, food preparation, food service facilities and solid waste
+collection locations.
+(i) The name and phone number of the contact person who shall be easily identified and
+who shall remain at the SG, MG or EMG site at all times.
+(j) Approval by the authorized representative of the rural fire protection district under
+ORS Chapter 478, or State Fire Marshal, or State Forester, as applicable.
+(k) A water supply plan showing compliance with OAR 333- 039-0010; a drainage plan
+showing compliance with OAR 333- 039-0020; a sewerage plan showing compliance with OAR
+333-039-0025; a refuse storage and disposal plan showing compliance with OAR 333- 039-0030;
+a food and sanitary food service plan showing compliance with OAR 333- 039-0035, an
+emergency medical facilities plan showing compliance with OAR 333 -039-0040; a fire
+protection plan showing compliance with OAR 333-039-0045; a security personnel plan showing
+compliance with OAR 333-039-0050; and a traffic plan showing compliance with OAR 333-039-
+0055.
+(l) A copy of the proposed participant entry form for the SG, MG or EMG, including a
+release agreement releasing Lincoln County, its officers, agents, employees or volunteers from
+liability for any or all injuries.
+(m) A signed indemnity agreement on a form provided by the County.
+(n) Information on whether alcohol will be part of the SG, MG or EMG, and if so, in
+what way, and what arrangements have been made for appropriate licensing.
+(o) Such other appropriat e information as the Director or Board may require in order to
+ensure compliance with the provisions of this chapter, as well as the rules of the Oregon
+Department of Human Services.
+(8) The application for an SG, MG or EMG shall be accompanied by the appr opriate fee
+pursuant to the County fee schedule. Except as provided in subsection (9) below, no rebate or
+refund of money paid for a permit shall be made.
+(9) Incomplete applications shall be denied and the application fee, less County costs,
+shall be returned to the permit applicant.
+(10) If the application is submitted fewer than 90 days prior to the event and the Director
+or Board accepts the application, the processing fee shall be double.
+(11) The Director shall furnish a copy of the SG, MG or EMG permit to the Sheriff and to
+any other jurisdiction with regulatory authority in which the SG, MG or EMG takes place.
+(12) If a permit for a proposed event under this Ordinance cannot be issued because the
+proposed event does not meet the definition of an SG, MG or EMG, the proposed event shall not
+be authorized unless it otherwise complies with Chapter 1 of the Lincoln County Code.
+(13) No more than one SG, MG, or EMG may be held at the same location within a three
+month period.
+2018 LCC CHAPTER 4 -- PAGE 17
+
+4.520 SG, MG and EMG Permit Processing/When Hearings Are Required
+(1) SG permits shall be processed administratively by the Director without a hearing.
+(2) No application for an MG permit shall be approved without review by the Board
+following a public hearing.
+(3) No application for an EMG permit shall be approved without review by the Planning
+Commission following a public hearing in accordance with ORS 433.763.
+(4) Public hearings shall be set at the discretion of the Director, but, in no case, earlier
+than 10 days from the date of the application.
+
+4.525 SG, MG and EMG Departmental and Agency Notice
+(1) The Director shall send notice of the application to the following officers at least 10
+calendar days prior to the administrative decision (for the SG) or hearing (for the MG or EMG ):
+Lincoln County Counsel (serving as Risk Manager), County Sheriff, the Director of Lincoln
+County Health and Human Services, the County Roadmaster, and the Chief of the Fire District, if
+there is one, in which the SG, MG or EMG is proposed, the State Fir e Marshal and the State
+Forester.
+(2) The Director shall publish notice of his or her administrative decision for an SG in a
+newspaper of general circulation in the County within 10 calendar days of the date of his or her
+decision.
+(3) The Director shall publish notice of the hearing for a n MG or EMG permit at least 10
+calendar days before the hearing in a newspaper of general circulation in the County.
+
+4.530 SG, MG and EMG Approval Criteria
+(1) An SG, MG or EMG permit shall be approved upon demonstrati on by the Organizer
+of compliance with or the ability to comply with the provisions of this chapter, as well as all
+health and safety rules adopted by the Oregon Department of Human Services, as applicable.
+(2) Each public official receiving notice of the application for an SG who wishes to
+comment on the application shall submit such comment in writing to the Director within 10 days
+of receiving notice of the application.  Each public official receiving notice of the application for
+an MG or EMG permit who wishes to comment on the application shall submit such comment in
+writing to the Hearings Body no later than the date and time for the hearing.
+(3) The comment from any public official regarding an SG, MG or EMG permit may
+include recommendations related to the official functions of the officer as to granting the permit
+and any recommended conditions that should be imposed.
+(4) The Director or Hearings Body shall consider the imposition of any suggested changes
+submitted by the public officials who received notice of the proposed gathering.
+(5) The Director or Hearings Body may consider and impose any reasonable condition on
+a permit under this chapter.
+
+4.535 SG, MG and EMG Appeals
+(1) When the County Planning Commission is the Hearings Body, any person who
+participated in the hearing before the Planning Commission shall be deemed a party and may
+appeal the decision to the Board.
+2018 LCC CHAPTER 4 -- PAGE 18
+
+(2) All SG decisions of the Director and MG decisions of the Board shall be reviewable
+only by the Lincoln County Circuit Court  for the State of Oregon only by writ of review under
+the provisions of ORS 34.010 to 34.100.
+(3) All EMG rulings of the Board are appealable to the Land Use Board of Appeals.
+
+4.540 SG, MG and EMG Insurance
+(1) If the Director, Board or Planning Commission, as applicable, determines that the SG,
+MG or EMG creates a potential for injury for persons or property, they may require Organizers to
+obtain a commercial general liability insurance policy in an amount commensurate with the risk,
+with single limit policy limits of not less than $2,000,000.
+(2) The insurance policy may not be cancelable and shall provide coverage against
+liability for death, injury or disability of any human or for damage to property arising out of the
+SG, MG or EMG.
+(3) The insurance policy must be an “occurrence” policy, or its equivalent, that provides
+for payment of claims made during the 180 day period after the scheduled termination of the SG,
+MG or EMG.
+(4) The Organizer shall furnish the Director with an insurance certificate and  a copy of
+the insurance policy naming the County as an additional insured under the policy, at least 14 days
+before the first day of the SG, MG or EMG.
+(5) The permit for a n SG, MG or EMG shall be voided by the Director if the Organizer
+does not file proof of the non- cancelable insurance required by this section with the Director at
+least 14 days before the first day of the SG, MG or EMG.
+(6) The Organizer must agree in writing to indemnify, defend and save and hold harmless
+the County, its commissioners, boards, officers, employees and agents, from all suits, actions ,
+damages or claims to which the County may be subjected to of any kind or nature whatsoever,
+resulting from, caused by, arising out of or as a consequence of such SG, MG, or EMG and the
+activities permitted in connection therewith.
+
+4.545 SG, MG and EMG Sanitary Facilities and Food Preparation
+(1) The County Environmental Health Division shall have the responsibility for
+approving all sanitation and related facilities required by the Director o r Hearings Body for an
+SG, MG or EMG permit to ensure that reasonable minimum standards have been or will be met
+by the Organizer, in accordance with the procedures outlined in this chapter and OAR 333-039.
+(a) Water. An adequate supply of water meeting st ate drinking water standards for
+chemicals and bacteria shall be provided.
+(b) Food Service Facilities. Food service facilities shall comply with the Oregon
+Department of Human Services regulations that pertain to the operation of temporary restaurants.
+All food service providers must be validly licensed.
+(2) Such approval of an SG, MG or EMG permit by the County Environmental Health
+Department shall indicate the number, type, and location, when appropriate, of the various
+sanitary facilities and shall include a description of the specific type of food preparation and food
+service facilities to be provided.
+
+2018 LCC CHAPTER 4 -- PAGE 19
+
+4.550 SG, MG and EMG Fire Protection Standards
+(1) No SG, MG or EMG permit shall be granted under this chapter unless the Organizer
+has shown that the authorized representative of the rural fire protection district under ORS
+Chapter 478 has approved the type, size, number and location of fire protection devices and
+equipment available at, in or near any location, including outdoor sites, buildings, tents, stadium
+or enclosure, during the course of an SG, MG or EMG for which a permit is required under this
+chapter.
+(2) If the site for which the permit is applied for is located outside a fire protection
+district, the Organizer must show approval from the Office of the State Fire Marshal, or State
+Forester, as applicable.
+
+4.555 SG, MG and EMG Medical Service
+(1) Sheriff shall have responsibility for approving plans as to medical service required for
+the SG, MG or EMG.
+
+4.560 SG, MG and EMG Public Safety
+(1) The Organizer must submit plans for public safety at the SG, MG or EMG
+demonstrating the following:
+(a) Adequate traffic control and crowd protection policing shall be contracted for or
+otherwise provided by Organizer.
+(A) There shall be provided one tra ffic control person for each 250 persons expected or
+reasonably expected to be in attendance at any time during the SG, MG or EMG.
+(B) Further, there shall be provided one crowd control person for each 100 persons
+expected or reasonably expected to be in attendance at any time during the SG, MG or EMG.
+(b) The Organizer shall submit the names and necessary background information as
+required by the Director or Hearings Officer for all traffic-control and crowd-control personnel to
+be utilized during the MG or EMG.
+(c) All such personnel must meet the following minimum standards in order to be
+approved as suitable:
+(A) Be at least 18 years of age;
+(B) Must have the physical capability to perform the traffic control and traffic control
+responsibilities;
+(C) Have training or experience acceptable to the County to conduct tr affic and or crowd
+control duties.
+(2) All of the traffic control and crowd control personnel must wear appropriate safety
+vests or jackets.
+(3) The required number of crowd control personnel m ust be on duty during the entire
+SG, MG or EMG unless a relief schedule has been planned and approved.
+(4) A relief schedule will be appr oved only when sufficient crowd control strength on
+duty has been maintained to meet the minimum strength standards set forth in this chapter.
+(5) It is the duty of the crowd control personnel to report any violations of the law to the
+Sheriff.
+
+2018 LCC CHAPTER 4 -- PAGE 20
+
+4.565 SG, MG and EMG Parking Facilities
+(1) Prior to or on the date of application for an SG, MG or EMG, the Organizer shall
+provide a scale drawing showing that adequate parking facilities have been made available within
+or adjacent to the location for which the permit is requested.
+(2) Such parking facilities shall provide parking space for one vehicle for every four
+persons expected or reasonably expected to attend.
+(3) Adequate ingress and egress shall be provided from such parking area to facilitate the
+movement of any vehicle at any time to or from the parking area of the SG, MG or EMG.
+(4) Should buses be used to transport the public to the SG, MG or EMG, it shall be shown
+that adequate parking is available at any site from which buses are scheduled to pick up persons
+to transport them to the SG, MG or EMG.
+
+4.570 SG, MG and EMG Permit Display and Set Up and Clean Up Requirements
+(1) The Organizer of an SG, MG or EMG shall have a copy of the permit available for
+inspection upon request.
+(2) Any permit for an SG, MG or EMG shall not be transferrable or assignable without
+the consent of the Director or Board.
+(3) Any permit for an SG, MG or EMG shall be kept posted in a conspicuous place upon
+the premises of such assembly.
+(4) All onsite activities required to prepare the assembly site must occur within 72 hours
+prior to the advertised time the assembly is scheduled to begin.  The  Director or Hearings Body
+may, upon a showing of necessity, allow preparation to begin more than 72 hours before the
+advertised time of the assembly but those activities are limited to set up only and not commercial
+vending, rehearsals or sound checks.  A ll of the facilities shall be in place at least 2 hours before
+the SG, MG or EMG begins.
+(5) The organizer must remove and repair all remaining residue, debris, or damage to
+property resulting from the assembly 72 hours after termination of the assembly.
+
+4.575 SG, MG and EMG Inspection of Premises
+(1) No SG, MG or EMG permit shall be granted unless the Organizer shall, in writing,
+upon the application for such permit, consent to allow the Director, law enforcement, public
+health and fire control officers t o come upon the premises for which the permit has been granted
+for the purpose of inspection and enforcement of the terms and conditions of the permit and this
+chapter and any other applicable laws or ordinances.
+(2) If any inspections reveal deficiencies in compliance with State or local law, the
+inspectors may return as often as needed until the deficiencies are cured.   If the deficiencies are
+not cured or cannot be cured, the Sheriff may suspend or terminate the SG, MG or EMG.
+
+4.580 SG, MG and EMG Restricted Hours of Operation
+(1) No SG, MG or EMG shall be conducted, including set -up, placement, storage,
+staging, removal or similar action of any equipment, materials, structures, vehicles, supplies and
+so forth, between the hours 1:00 A.M. and 9:00 A.M.
+(2) The gathering must comply with the Lincoln County Noise Ordinance (Lincoln
+County Code Sections 2.2000 to 2.2045).
+
+2018 LCC CHAPTER 4 -- PAGE 21
+
+4.585 SG, MG and EMG Enforcement
+(1) The Organizer shall provide a contact person who shall be easily identifiable with
+readily visible ID and who shall remain at the SG, MG or EMG site at all times.
+(2) If any Organizer of an SG, MG or EMG violates any provisions of this chapter, the
+Sheriff may immediately suspend, revoke or terminate any permit for an SG, MG or EMG and
+may seek any legal remedy available.
+(3) The SG, MG or EMG Organizer shall keep a reasonable count of persons and vehicles
+entering and leaving the SG, MG or EMG.
+(4) If, at any time during the SG, MG or EMG held under a valid permit, the number of
+persons or vehicles atte nding the SG, MG or EMG exceeds by 10% or more the number of
+persons or vehicles estimated in the permit application, the Sheriff has the authority to require the
+Organizer to limit further admissions until a sufficient number of individuals or vehicles ha ve
+left the site to bring the actual attendance down to the number estimated by the Organizer.
+(5) For any SG, MG or EMG held under a valid permit, the Sheriff has the authority to
+order the crowd to disburse and leave the SG, MG or EMG site if the Organiz er cannot maintain
+order and compliance with all applicable State and local laws or refuses or is unable to adhere to
+the terms and conditions of the permit.
+(6) In addition to the State law provisions in ORS Chapter 433, including ORS
+433.990(7), the County Counsel or District Attorney for Lincoln County may maintain an action
+in any court of general jurisdiction to restrain or enjoin any violation of this Ordinance.
+(7) If persons remain on site after the scheduled end of the permitted SG, MG or EMG, or
+if the Organizer fails to remove all debris or residue within 72 hours after termination of the SG,
+MG or EMG, or if the Organizer fails to remove all temporary structures within three weeks after
+the termination of the SG, MG or EMG, the County may issue c itations to the Organizer, all
+persons remaining at the site, and/or all persons who have left debris behind.
+(8) In addition to any other remedies provided, if the SG, MG or EMG site is not restored
+to its previous condition, or better, the County may arr ange for cleanup of the site, and then file
+an action for damages against the Organizer or successor landowner.
+
+4.590 SG, MG and EMG Intoxicating Liquor Prohibition
+(1) No Organizer, nor any person having charge or control thereof at any time when an
+SG, MG or EMG is being conducted shall permit any person to bring into such SG, MG or EMG
+or upon the premises thereof, any intoxicating liquor, nor permit intoxicating liquor to be
+consumed on the premises, and no person during such time shall take or carry onto such premises
+or drink thereon intoxicating liquor.
+(2) Subsection (1) of this section shall not apply to the sale and consumption of
+intoxicating liquor from a facility located on the premises of an SG, MG or EMG when validly
+licensed by the State.
+
+4.595 SG, MG and EMG Unlawful Controlled Substances Prohibition
+No firm, person, society, association or corporation conducting an SG, MG or EMG, nor
+any person having charge or control thereof at any time when an SG, MG or EMG is being
+conducted shall pe rmit any person to possess any controlled substances that are unlawful under
+Oregon law.
+
+2018 LCC CHAPTER 4 -- PAGE 22
+
+4.600 SG, MG and EMG Compliance Required
+Compliance with the terms and conditions of this chapter shall constitute minimum
+health, sanitation and safety provisions; and failure to comply with the terms and conditions of
+this chapter or state laws shall constitute a public nuisance and shall be subject to all criminal,
+civil and equitable remedies as such.
+
+4.605 SG, MG or EMG Violation Enforcement
+For an SG, MG or EMG , violation of this chapter is subject to enforcement pursuant to
+Chapter 10 of the Lincoln County Code, and other legal remedies available under the law.
+
+4.610 Review of Ordinance # 495
+Prior to December 31, 2018, the Lincoln County Board of Commissioner s shall review
+this Ordinance for possible amendments.
+[2017 o.495 §1]

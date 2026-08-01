@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-counties",
- "n_nodes": 1621,
- "n_edges": 4882,
- "n_edges_external": 4882,
+ "n_nodes": 1753,
+ "n_edges": 5694,
+ "n_edges_external": 5694,
  "nodes": [
   {
    "id": "benton-code-adpr",
@@ -929,6 +929,216 @@
    "path": "counties/clackamas-county/land-use/clackamas-land-use-zdo904.md"
   },
   {
+   "id": "clatsop-code-ttl-1-general-provisions",
+   "title": "Ttl 1: General Provisions",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-1-general-provisions.md"
+  },
+  {
+   "id": "clatsop-code-ttl-10-vehicles-and-traffic",
+   "title": "Ttl 10: Vehicles and Traffic",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-10-vehicles-and-traffic.md"
+  },
+  {
+   "id": "clatsop-code-ttl-12-streets-sidewalks-and-public-places",
+   "title": "Ttl 12: Streets, Sidewalks and Public Places",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-12-streets-sidewalks-and-public-places.md"
+  },
+  {
+   "id": "clatsop-code-ttl-15-buildings-and-construction",
+   "title": "Ttl 15: Buildings and Construction",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-15-buildings-and-construction.md"
+  },
+  {
+   "id": "clatsop-code-ttl-16-land-and-water-development-and-use",
+   "title": "Ttl 16: Land and Water Development and Use",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-16-land-and-water-development-and-use.md"
+  },
+  {
+   "id": "clatsop-code-ttl-2-administration-and-personnel",
+   "title": "Ttl 2: Administration and Personnel",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-2-administration-and-personnel.md"
+  },
+  {
+   "id": "clatsop-code-ttl-3-revenue-and-finance",
+   "title": "Ttl 3: Revenue and Finance",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-3-revenue-and-finance.md"
+  },
+  {
+   "id": "clatsop-code-ttl-5-business-regulations",
+   "title": "Ttl 5: Business Regulations",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-5-business-regulations.md"
+  },
+  {
+   "id": "clatsop-code-ttl-6-animals",
+   "title": "Ttl 6: Animals",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-6-animals.md"
+  },
+  {
+   "id": "clatsop-code-ttl-7-solid-waste",
+   "title": "Ttl 7: Solid Waste",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-7-solid-waste.md"
+  },
+  {
+   "id": "clatsop-code-ttl-8-health-and-safety",
+   "title": "Ttl 8: Health and Safety",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-8-health-and-safety.md"
+  },
+  {
+   "id": "clatsop-code-ttl-9-environmental-health-program",
+   "title": "Ttl 9: Environmental Health Program",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-9-environmental-health-program.md"
+  },
+  {
+   "id": "clatsop-code-ttl-cha-home-rule-charter-for-the-government-of-clatsop-coun",
+   "title": "Ttl CHA: Home Rule Charter for the Government of Clatsop County",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-cha-home-rule-charter-for-the-government-of-clatsop-coun.md"
+  },
+  {
+   "id": "clatsop-code-ttl-ol-ordinance-list-and-disposition-table",
+   "title": "Ttl OL: Ordinance List and Disposition Table",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/code/clatsop-code-ttl-ol-ordinance-list-and-disposition-table.md"
+  },
+  {
+   "id": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "title": "ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1.md"
+  },
+  {
+   "id": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "title": "ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2.md"
+  },
+  {
+   "id": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "title": "ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-article-3-structure-siting-and-development-standards-amended.md"
+  },
+  {
+   "id": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "title": "ARTICLE-4---Zone-Regulations-Amended-Ord-25-08-and-Ord-25-16",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16.md"
+  },
+  {
+   "id": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "title": "ARTICLE-5---Special-Districts-Amended-Ord-25-16",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-article-5-special-districts-amended-ord-25-16.md"
+  },
+  {
+   "id": "clatsop-land-use-article-6-environmental-and-resource-protection-amended-ord-",
+   "title": "ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-article-6-environmental-and-resource-protection-amended-ord-.md"
+  },
+  {
+   "id": "clatsop-land-use-lawduc-cover-and-table-of-contents",
+   "title": "LAWDUC-Cover-and-Table-of-Contents",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-lawduc-cover-and-table-of-contents.md"
+  },
+  {
+   "id": "clatsop-land-use-lawduc-lwduo-code-citation-cross-reference",
+   "title": "LAWDUC---LWDUO-Code-Citation-Cross-Reference",
+   "doc_type": "ordinance",
+   "path": "counties/clatsop-county/land-use/clatsop-land-use-lawduc-lwduo-code-citation-cross-reference.md"
+  },
+  {
+   "id": "clatsop-policies-policy-1",
+   "title": "Policy-1",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-1.md"
+  },
+  {
+   "id": "clatsop-policies-policy-15",
+   "title": "Policy-15",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-15.md"
+  },
+  {
+   "id": "clatsop-policies-policy-17",
+   "title": "Policy-17",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-17.md"
+  },
+  {
+   "id": "clatsop-policies-policy-2",
+   "title": "Policy-2",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-2.md"
+  },
+  {
+   "id": "clatsop-policies-policy-20",
+   "title": "Policy-20",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-20.md"
+  },
+  {
+   "id": "clatsop-policies-policy-28",
+   "title": "Policy-28",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-28.md"
+  },
+  {
+   "id": "clatsop-policies-policy-3",
+   "title": "Policy-3",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-3.md"
+  },
+  {
+   "id": "clatsop-policies-policy-34",
+   "title": "Policy-34",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-34.md"
+  },
+  {
+   "id": "clatsop-policies-policy-37",
+   "title": "Policy-37",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-37.md"
+  },
+  {
+   "id": "clatsop-policies-policy-7",
+   "title": "Policy-7",
+   "doc_type": "policy",
+   "path": "counties/clatsop-county/policies/clatsop-policies-policy-7.md"
+  },
+  {
+   "id": "columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25",
+   "title": "Columbia County FY26 Fee Increase EFF 9.1.25",
+   "doc_type": "ordinance",
+   "path": "counties/columbia-county/land-use/columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25.md"
+  },
+  {
+   "id": "columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance",
+   "title": "2019-5 Matter of Adopting the Columbia County Parking and Towing Ordinance",
+   "doc_type": "ordinance",
+   "path": "counties/columbia-county/orders/columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance.md"
+  },
+  {
+   "id": "columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l",
+   "title": "2019-6  Matter of Adopting the Columbia County Livestock at Large Nuisance Odinance",
+   "doc_type": "ordinance",
+   "path": "counties/columbia-county/orders/columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l.md"
+  },
+  {
    "id": "coos-code-article-1-general-administration",
    "title": "Article 1 - General Administration",
    "doc_type": "ordinance",
@@ -1107,6 +1317,114 @@
    "title": "Paid Leave Oregon Poster",
    "doc_type": "policy",
    "path": "counties/coos-county/policies/coos-policies-paid-leave-oregon-poster.md"
+  },
+  {
+   "id": "crook-code-ttl-1-general-provisions",
+   "title": "Ttl 1: General Provisions",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-1-general-provisions.md"
+  },
+  {
+   "id": "crook-code-ttl-10-vehicles-and-traffic",
+   "title": "Ttl 10: Vehicles and Traffic",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-10-vehicles-and-traffic.md"
+  },
+  {
+   "id": "crook-code-ttl-12-streets-sidewalks-and-public-places",
+   "title": "Ttl 12: Streets, Sidewalks and Public Places",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-12-streets-sidewalks-and-public-places.md"
+  },
+  {
+   "id": "crook-code-ttl-13-public-services",
+   "title": "Ttl 13: Public Services",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-13-public-services.md"
+  },
+  {
+   "id": "crook-code-ttl-15-buildings-and-construction",
+   "title": "Ttl 15: Buildings and Construction",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-15-buildings-and-construction.md"
+  },
+  {
+   "id": "crook-code-ttl-16-environment",
+   "title": "Ttl 16: Environment",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-16-environment.md"
+  },
+  {
+   "id": "crook-code-ttl-17-subdivisions",
+   "title": "Ttl 17: Subdivisions",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-17-subdivisions.md"
+  },
+  {
+   "id": "crook-code-ttl-18-zoning",
+   "title": "Ttl 18: Zoning",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-18-zoning.md"
+  },
+  {
+   "id": "crook-code-ttl-2-administration-and-personnel",
+   "title": "Ttl 2: Administration and Personnel",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-2-administration-and-personnel.md"
+  },
+  {
+   "id": "crook-code-ttl-3-revenue-and-finance",
+   "title": "Ttl 3: Revenue and Finance",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-3-revenue-and-finance.md"
+  },
+  {
+   "id": "crook-code-ttl-5-business-taxes-licenses-and-regulations",
+   "title": "Ttl 5: Business Taxes, Licenses and Regulations",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-5-business-taxes-licenses-and-regulations.md"
+  },
+  {
+   "id": "crook-code-ttl-6-animal-control",
+   "title": "Ttl 6: Animal Control",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-6-animal-control.md"
+  },
+  {
+   "id": "crook-code-ttl-8-health-and-safety",
+   "title": "Ttl 8: Health and Safety",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-8-health-and-safety.md"
+  },
+  {
+   "id": "crook-code-ttl-9-public-peace-morals-and-welfare",
+   "title": "Ttl 9: Public Peace, Morals and Welfare",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-9-public-peace-morals-and-welfare.md"
+  },
+  {
+   "id": "crook-code-ttl-ol-ordinance-list-and-disposition-table",
+   "title": "Ttl OL: Ordinance List and Disposition Table",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/code/crook-code-ttl-ol-ordinance-list-and-disposition-table.md"
+  },
+  {
+   "id": "crook-land-use-crook-county-comprehensive-plan-maps",
+   "title": "Crook-County-Comprehensive-Plan-Maps",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/land-use/crook-land-use-crook-county-comprehensive-plan-maps.md"
+  },
+  {
+   "id": "crook-land-use-crook-county-comprehensive-plan",
+   "title": "Crook-County-Comprehensive-Plan",
+   "doc_type": "ordinance",
+   "path": "counties/crook-county/land-use/crook-land-use-crook-county-comprehensive-plan.md"
+  },
+  {
+   "id": "crook-policies-employee-handbook-110222-clean-copy",
+   "title": "Employee-Handbook-110222-Clean-Copy",
+   "doc_type": "policy",
+   "path": "counties/crook-county/policies/crook-policies-employee-handbook-110222-clean-copy.md"
   },
   {
    "id": "deschutes-orders-ordinance-2000-003",
@@ -7271,6 +7589,222 @@
    "path": "counties/lane-county/land-use/lane-land-use-lc16-toc.md"
   },
   {
+   "id": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "title": "Chapter-1-Land-Use-Planning-Comprehensive-Plan-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-10-enforcement-pdf",
+   "title": "Chapter-10-Enforcement-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-10-enforcement-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "title": "Chapter-2-Environment-and-Health-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-2-environment-and-health-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-3-building-code-pdf",
+   "title": "Chapter-3-Building-Code-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-3-building-code-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-4-business-regulations-pdf",
+   "title": "Chapter-4-Business-Regulations-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-4-business-regulations-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-5-taxes-pdf",
+   "title": "Chapter-5-Taxes-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-5-taxes-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "title": "Chapter-6-Roads-and-Surveyor-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-6-roads-and-surveyor-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-7-general-administration-pdf",
+   "title": "Chapter-7-General-Administration-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-7-general-administration-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-8-elections-pdf",
+   "title": "Chapter-8-Elections-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-8-elections-pdf.md"
+  },
+  {
+   "id": "lincoln-code-chapter-9-parks-and-recreation-pdf",
+   "title": "Chapter-9-Parks-and-Recreation-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-chapter-9-parks-and-recreation-pdf.md"
+  },
+  {
+   "id": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "title": "Combined-Code-Chapters-0--10-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-combined-code-chapters-0-10-pdf.md"
+  },
+  {
+   "id": "lincoln-code-cover-chapter-index-and-codification-notes-pdf",
+   "title": "Cover-Chapter-Index-and-Codification-Notes-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/code/lincoln-code-cover-chapter-index-and-codification-notes-pdf.md"
+  },
+  {
+   "id": "lincoln-land-use-appendix-g-travel-demand-forecasting-methodology-pdf",
+   "title": "Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-appendix-g-travel-demand-forecasting-methodology-pdf.md"
+  },
+  {
+   "id": "lincoln-land-use-appendix-i-future-queuing-analysis-pdf",
+   "title": "Appendix-I-Future-Queuing-Analysis-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-appendix-i-future-queuing-analysis-pdf.md"
+  },
+  {
+   "id": "lincoln-land-use-appendix-j-preliminary-turn-and-signal-warrant-analyses-pdf",
+   "title": "Appendix-J-Preliminary-Turn-And-Signal-Warrant-Analyses-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-appendix-j-preliminary-turn-and-signal-warrant-analyses-pdf.md"
+  },
+  {
+   "id": "lincoln-land-use-appendix-k-measures-of-effectiveness-pdf",
+   "title": "Appendix-K-Measures-Of-Effectiveness-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-appendix-k-measures-of-effectiveness-pdf.md"
+  },
+  {
+   "id": "lincoln-land-use-appendix-s-tpr-compliance-checklist-pdf",
+   "title": "Appendix-S-Tpr-Compliance-Checklist-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-appendix-s-tpr-compliance-checklist-pdf.md"
+  },
+  {
+   "id": "lincoln-land-use-bayshore-dune-management-plan-background-report-february-201",
+   "title": "Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-bayshore-dune-management-plan-background-report-february-201.md"
+  },
+  {
+   "id": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "title": "Estuary-Management-Plan---September-1982-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-estuary-management-plan-september-1982-pdf.md"
+  },
+  {
+   "id": "lincoln-land-use-state-transportation-improvement-program-stip-project-descri",
+   "title": "State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-state-transportation-improvement-program-stip-project-descri.md"
+  },
+  {
+   "id": "lincoln-land-use-traffic-analysis-methodology-pdf",
+   "title": "Traffic-Analysis-Methodology-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/lincoln-county/land-use/lincoln-land-use-traffic-analysis-methodology-pdf.md"
+  },
+  {
+   "id": "lincoln-policies-lincoln-county-personnel-rules-pdf",
+   "title": "Lincoln-County-Personnel-Rules-PDF",
+   "doc_type": "policy",
+   "path": "counties/lincoln-county/policies/lincoln-policies-lincoln-county-personnel-rules-pdf.md"
+  },
+  {
+   "id": "malheur-land-use-2026-schedule-brh",
+   "title": "2026-Schedule-BRH",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-2026-schedule-brh.md"
+  },
+  {
+   "id": "malheur-land-use-comp-plan-1985-updated-goal-3-formatted",
+   "title": "Comp-Plan-1985-Updated-Goal-3-formatted",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-comp-plan-1985-updated-goal-3-formatted.md"
+  },
+  {
+   "id": "malheur-land-use-phone-guide-verge",
+   "title": "Phone Guide Verge",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-phone-guide-verge.md"
+  },
+  {
+   "id": "malheur-land-use-planning-fees",
+   "title": "Planning-Fees",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-planning-fees.md"
+  },
+  {
+   "id": "malheur-land-use-policy-manual-july-2026",
+   "title": "Policy-Manual-JULY-2026",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-policy-manual-july-2026.md"
+  },
+  {
+   "id": "malheur-land-use-public-meetings-law-grievance-process",
+   "title": "PUBLIC-MEETINGS-LAW-GRIEVANCE-PROCESS",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-public-meetings-law-grievance-process.md"
+  },
+  {
+   "id": "malheur-land-use-resident-applicant-preference-form",
+   "title": "Resident-Applicant-Preference-Form",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-resident-applicant-preference-form.md"
+  },
+  {
+   "id": "malheur-land-use-surveyors-list-2025-05-09",
+   "title": "SURVEYORS List 2025-05-09",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-surveyors-list-2025-05-09.md"
+  },
+  {
+   "id": "malheur-land-use-veterans-preference",
+   "title": "Veterans-Preference",
+   "doc_type": "ordinance",
+   "path": "counties/malheur-county/land-use/malheur-land-use-veterans-preference.md"
+  },
+  {
+   "id": "malheur-policies-phone-guide-verge",
+   "title": "Phone Guide Verge",
+   "doc_type": "policy",
+   "path": "counties/malheur-county/policies/malheur-policies-phone-guide-verge.md"
+  },
+  {
+   "id": "malheur-policies-policy-manual-july-2026",
+   "title": "Policy-Manual-JULY-2026",
+   "doc_type": "policy",
+   "path": "counties/malheur-county/policies/malheur-policies-policy-manual-july-2026.md"
+  },
+  {
+   "id": "malheur-policies-public-meetings-law-grievance-process",
+   "title": "PUBLIC-MEETINGS-LAW-GRIEVANCE-PROCESS",
+   "doc_type": "policy",
+   "path": "counties/malheur-county/policies/malheur-policies-public-meetings-law-grievance-process.md"
+  },
+  {
+   "id": "malheur-policies-resident-applicant-preference-form",
+   "title": "Resident-Applicant-Preference-Form",
+   "doc_type": "policy",
+   "path": "counties/malheur-county/policies/malheur-policies-resident-applicant-preference-form.md"
+  },
+  {
+   "id": "malheur-policies-veterans-preference",
+   "title": "Veterans-Preference",
+   "doc_type": "policy",
+   "path": "counties/malheur-county/policies/malheur-policies-veterans-preference.md"
+  },
+  {
    "id": "multnomah-code-chapter-1-general-provisions",
    "title": "Chapter 1: General Provisions",
    "doc_type": "ordinance",
@@ -8673,6 +9207,264 @@
    "title": "Umatilla County Development Code (rev. 2025-06-18)",
    "doc_type": "ordinance",
    "path": "counties/umatilla-county/land-use/umatilla-land-use-development-code-2025.md"
+  },
+  {
+   "id": "wasco-code-1976-dog-licensing-policy",
+   "title": "1976 Dog Licensing Policy",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-1976-dog-licensing-policy.md"
+  },
+  {
+   "id": "wasco-code-1978-wasco-county-dog-ordinance",
+   "title": "1978 Wasco County Dog Ordinance",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-1978-wasco-county-dog-ordinance.md"
+  },
+  {
+   "id": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "title": "2023 Fee Schedule Rates Incorporated SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-2023-fee-schedule-rates-incorporated-signed.md"
+  },
+  {
+   "id": "wasco-code-2023-wasco-county-title-vi-plan-signed",
+   "title": "2023 Wasco County Title VI Plan SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-2023-wasco-county-title-vi-plan-signed.md"
+  },
+  {
+   "id": "wasco-code-2025-wasco-county-title-vi-plan-signed",
+   "title": "2025 Wasco County Title VI Plan SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-2025-wasco-county-title-vi-plan-signed.md"
+  },
+  {
+   "id": "wasco-code-building-codes-ordinance-19-002-fully-executed",
+   "title": "Building Codes Ordinance 19-002 Fully Executed",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-building-codes-ordinance-19-002-fully-executed.md"
+  },
+  {
+   "id": "wasco-code-building-codes-ordinance-19-002",
+   "title": "Building Codes Ordinance 19-002",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-building-codes-ordinance-19-002.md"
+  },
+  {
+   "id": "wasco-code-operations-special-events-regulations",
+   "title": "Operations Special Events Regulations",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-operations-special-events-regulations.md"
+  },
+  {
+   "id": "wasco-code-ordinance-18-003-amdending-chapter-3-of-the-wasco-county-204",
+   "title": "Ordinance 18-003 Amdending Chapter 3 of the Wasco County 2040 Comprehensive Plan",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-18-003-amdending-chapter-3-of-the-wasco-county-204.md"
+  },
+  {
+   "id": "wasco-code-ordinance-19-001-amending-chapters-2-3-6-and-9",
+   "title": "Ordinance 19-001 Amending Chapters 2,3,6 and 9",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-19-001-amending-chapters-2-3-6-and-9.md"
+  },
+  {
+   "id": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "title": "Ordinance 19-003 Fee Schedule - Fully Executed",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-19-003-fee-schedule-fully-executed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-19-004-2040-updates-chapters-5-12-signed",
+   "title": "Ordinance 19-004 2040 Updates Chapters 5 & 12 - SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-19-004-2040-updates-chapters-5-12-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-19-005-2040-chapters-10-14-signed",
+   "title": "Ordinance 19-005 2040 Chapters 10 & 14 - SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-19-005-2040-chapters-10-14-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "title": "Ordinance 19-006 Fee Schedule -SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-19-006-fee-schedule-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-19-007-2040-chapters-5-7-11-13",
+   "title": "Ordinance 19-007 2040 Chapters 5,7,11 & 13",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-19-007-2040-chapters-5-7-11-13.md"
+  },
+  {
+   "id": "wasco-code-ordinance-19-008-approving-city-of-the-dalles-comp-plan-and-",
+   "title": "Ordinance 19-008 Approving City of The Dalles Comp Plan and LUDO",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-19-008-approving-city-of-the-dalles-comp-plan-and-.md"
+  },
+  {
+   "id": "wasco-code-ordinance-20-001-2040-chapters-4-5-8",
+   "title": "Ordinance 20-001 2040 Chapters 4,5 & 8",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-20-001-2040-chapters-4-5-8.md"
+  },
+  {
+   "id": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "title": "Ordinance 20-002 Amended Fee Schedule FINAL",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-20-002-amended-fee-schedule-final.md"
+  },
+  {
+   "id": "wasco-code-ordinance-20-004-2040-goal-exceptions-introduction-chapters",
+   "title": "Ordinance 20-004 2040 Goal Exceptions & Introduction Chapters",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-20-004-2040-goal-exceptions-introduction-chapters.md"
+  },
+  {
+   "id": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "title": "Ordinance 21-001 Amended Fee Schedule Complete SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "title": "Ordinance 21-001 Amended Fee Schedule Complete",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-21-001-amended-fee-schedule-complete.md"
+  },
+  {
+   "id": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "title": "Ordinance 22-001 Amended Fee Schedule SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-22-001-amended-fee-schedule-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-22-003-outdoor-mass-gathering-signed",
+   "title": "Ordinance 22-003 Outdoor Mass Gathering SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-22-003-outdoor-mass-gathering-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "title": "Ordinance 23-001 Amended Fee Schedule FILED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-23-001-amended-fee-schedule-filed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-24-001-nsa-ludo-update-07-17-24-signed",
+   "title": "Ordinance 24-001 NSA LUDO UPDATE 07.17.24 SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-24-001-nsa-ludo-update-07-17-24-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-24-002-legislative-amendments-comprehensive-plan-z",
+   "title": "Ordinance 24-002 Legislative Amendments Comprehensive Plan Zoning Map SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-24-002-legislative-amendments-comprehensive-plan-z.md"
+  },
+  {
+   "id": "wasco-code-ordinance-24-003-animal-services-code-final-signed",
+   "title": "Ordinance 24-003 Animal Services Code Final SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-24-003-animal-services-code-final-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-24-007-code-compliance-penalty-signed-1",
+   "title": "Ordinance 24-007 Code Compliance Penalty SIGNED 1",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-24-007-code-compliance-penalty-signed-1.md"
+  },
+  {
+   "id": "wasco-code-ordinance-25-001-ludo-signed",
+   "title": "Ordinance 25-001  LUDO signed",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-25-001-ludo-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-25-003-amended-fee-schedule",
+   "title": "Ordinance 25-003 Amended Fee Schedule.",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-25-003-amended-fee-schedule.md"
+  },
+  {
+   "id": "wasco-code-ordinance-26-001repeal-replace-ordinance-rev2-signed",
+   "title": "Ordinance 26-001Repeal & Replace Ordinance.rev2 signed",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-26-001repeal-replace-ordinance-rev2-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-26-002-nsa-ludo-signed",
+   "title": "Ordinance 26-002 NSA LUDO signed",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-26-002-nsa-ludo-signed.md"
+  },
+  {
+   "id": "wasco-code-ordinance-re-repeal-agriculture-and-forestry-practices-ordin",
+   "title": "Ordinance re Repeal Agriculture and Forestry Practices Ordinance",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance-re-repeal-agriculture-and-forestry-practices-ordin.md"
+  },
+  {
+   "id": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "title": "Ordinance16-002FeeSchedule-8-31-16 000",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-ordinance16-002feeschedule-8-31-16-000.md"
+  },
+  {
+   "id": "wasco-code-solid-waste-collection-and-disposal-ordinance-2-15-1989",
+   "title": "Solid Waste Collection and Disposal Ordinance - 2-15-1989",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-solid-waste-collection-and-disposal-ordinance-2-15-1989.md"
+  },
+  {
+   "id": "wasco-code-solid-waste-franchising-and-nuisance-abatement-4-15-1992",
+   "title": "Solid Waste Franchising and Nuisance Abatement 4-15-1992",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-solid-waste-franchising-and-nuisance-abatement-4-15-1992.md"
+  },
+  {
+   "id": "wasco-code-wasco-county-fee-ordinance-2018",
+   "title": "Wasco County Fee Ordinance 2018",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-wasco-county-fee-ordinance-2018.md"
+  },
+  {
+   "id": "wasco-code-wascoc-2",
+   "title": "WASCOC~2",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-wascoc-2.md"
+  },
+  {
+   "id": "wasco-code-wc-nsa-ludo-ordinance-21-003-signed",
+   "title": "WC NSA LUDO Ordinance 21-003 SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-wc-nsa-ludo-ordinance-21-003-signed.md"
+  },
+  {
+   "id": "wasco-code-wolf-depredation-compensation-application",
+   "title": "Wolf Depredation Compensation Application",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-wolf-depredation-compensation-application.md"
+  },
+  {
+   "id": "wasco-land-use-2025-wasco-county-title-vi-plan-signed",
+   "title": "2025 Wasco County Title VI Plan SIGNED",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/land-use/wasco-land-use-2025-wasco-county-title-vi-plan-signed.md"
+  },
+  {
+   "id": "wasco-land-use-operations-special-events-regulations",
+   "title": "Operations Special Events Regulations",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/land-use/wasco-land-use-operations-special-events-regulations.md"
+  },
+  {
+   "id": "wasco-land-use-wolf-depredation-compensation-application",
+   "title": "Wolf Depredation Compensation Application",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/land-use/wasco-land-use-wolf-depredation-compensation-application.md"
   },
   {
    "id": "washington-code-apxaenshpadior",
@@ -12403,6 +13195,1086 @@
    "to": "ORS 90.730"
   },
   {
+   "from": "clatsop-code-ttl-10-vehicles-and-traffic",
+   "type": "references_external",
+   "to": "ORS 368.016"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "ORS 153.005"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "ORS 205.125"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "ORS 445.058"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "ORS 455.020"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "ORS 455.060"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "ORS 455.148"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "ORS 455.153"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 166-150-0020"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-050-0100"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-305-0100"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-440-0010"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-460-0010"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-480-0005"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-500-0510"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-600-0005"
+  },
+  {
+   "from": "clatsop-code-ttl-15-buildings-and-construction",
+   "type": "references_external",
+   "to": "OAR 918-650-0005"
+  },
+  {
+   "from": "clatsop-code-ttl-3-revenue-and-finance",
+   "type": "references_external",
+   "to": "ORS 609.180"
+  },
+  {
+   "from": "clatsop-code-ttl-7-solid-waste",
+   "type": "references_external",
+   "to": "ORS 34.010"
+  },
+  {
+   "from": "clatsop-code-ttl-7-solid-waste",
+   "type": "references_external",
+   "to": "ORS 459.005"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 153.005"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 153.058"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 183.310"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 446.310"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 448.005"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 454.605"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 624.010"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "ORS 624.310"
+  },
+  {
+   "from": "clatsop-code-ttl-9-environmental-health-program",
+   "type": "references_external",
+   "to": "OAR 333-012-0050"
+  },
+  {
+   "from": "clatsop-code-ttl-ol-ordinance-list-and-disposition-table",
+   "type": "references_external",
+   "to": "ORS 609.170"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 195.060"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 197.360"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 274.005"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 30.930"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 308A.062"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 315.141"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 321.267"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 329A.250"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 329A.255"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 358.905"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 433.735"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 446.003"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 455.010"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 455.315"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 468.740"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 475A.210"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 475A.290"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 527.715"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 568.909"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 603.038"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 624.010"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 65.001"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 757.300"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 757.365"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 801.190"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 822.110"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "ORS 92.830"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "OAR 736-021-0030"
+  },
+  {
+   "from": "clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1",
+   "type": "references_external",
+   "to": "OAR 860-039-0010"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 197.493"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 197.620"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 197.805"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 197.830"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 197.850"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 205.232"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 209.250"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 215.427"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 244.020"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 476.510"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.016"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.050"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.080"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.095"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.122"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "ORS 92.190"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2",
+   "type": "references_external",
+   "to": "OAR 734-051-1070"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 100.023"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 181A.410"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 195.137"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 195.300"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 195.550"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.130"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.215"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.246"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.263"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.293"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.448"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.740"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.750"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 30.930"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 30.936"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 321.359"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 329A.440"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 368.001"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 390.770"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 401.165"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 433.750"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 448.119"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 454.695"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 455.055"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 459.245"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 468B.050"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 476.510"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 477.490"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 526.455"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 537.545"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 603.038"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 621.072"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 624.010"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 658.750"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 757.300"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 757.365"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 801.580"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 90.100"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "ORS 94.779"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 333-333-5250"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 340-096-0150"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 660-006-0040"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 660-011-0060"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 660-033-0020"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 660-033-0130"
+  },
+  {
+   "from": "clatsop-land-use-article-3-structure-siting-and-development-standards-amended",
+   "type": "references_external",
+   "to": "OAR 660-033-0135"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 195.120"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 195.300"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.435"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.625"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.660"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.713"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.719"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 197.770"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 215.306"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 215.783"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 30.936"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 329A.250"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 358.480"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 433.763"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 455.315"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 459.245"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 520.005"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 522.005"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 526.215"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 540.505"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 565.210"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 671.318"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 671.520"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 772.210"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "OAR 340-093-0050"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "OAR 660-006-0055"
+  },
+  {
+   "from": "clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16",
+   "type": "references_external",
+   "to": "OAR 660-012-0065"
+  },
+  {
+   "from": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 215.425"
+  },
+  {
+   "from": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 390.605"
+  },
+  {
+   "from": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 390.770"
+  },
+  {
+   "from": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 446.062"
+  },
+  {
+   "from": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 455.446"
+  },
+  {
+   "from": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 479.015"
+  },
+  {
+   "from": "clatsop-land-use-article-5-special-districts-amended-ord-25-16",
+   "type": "references_external",
+   "to": "ORS 917.195"
+  },
+  {
+   "from": "clatsop-land-use-article-6-environmental-and-resource-protection-amended-ord-",
+   "type": "references_external",
+   "to": "ORS 271.300"
+  },
+  {
+   "from": "clatsop-land-use-article-6-environmental-and-resource-protection-amended-ord-",
+   "type": "references_external",
+   "to": "OAR 141-085-0689"
+  },
+  {
+   "from": "clatsop-land-use-article-6-environmental-and-resource-protection-amended-ord-",
+   "type": "references_external",
+   "to": "OAR 141-085-0710"
+  },
+  {
+   "from": "clatsop-policies-policy-1",
+   "type": "references_external",
+   "to": "ORS 192.610"
+  },
+  {
+   "from": "clatsop-policies-policy-3",
+   "type": "references_external",
+   "to": "ORS 195.505"
+  },
+  {
+   "from": "clatsop-policies-policy-37",
+   "type": "references_external",
+   "to": "ORS 166.090"
+  },
+  {
+   "from": "clatsop-policies-policy-7",
+   "type": "references_external",
+   "to": "ORS 192.410"
+  },
+  {
+   "from": "clatsop-policies-policy-7",
+   "type": "references_external",
+   "to": "ORS 192.501"
+  },
+  {
+   "from": "clatsop-policies-policy-7",
+   "type": "references_external",
+   "to": "ORS 40.225"
+  },
+  {
+   "from": "clatsop-policies-policy-7",
+   "type": "references_external",
+   "to": "ORS 659A.200"
+  },
+  {
+   "from": "clatsop-policies-policy-7",
+   "type": "references_external",
+   "to": "ORS 659A.212"
+  },
+  {
+   "from": "clatsop-policies-policy-7",
+   "type": "references_external",
+   "to": "ORS 659A.215"
+  },
+  {
+   "from": "clatsop-policies-policy-7",
+   "type": "references_external",
+   "to": "ORS 9.490"
+  },
+  {
+   "from": "columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25",
+   "type": "references_external",
+   "to": "OAR 918-050-0110"
+  },
+  {
+   "from": "columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25",
+   "type": "references_external",
+   "to": "OAR 918-050-0160"
+  },
+  {
+   "from": "columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25",
+   "type": "references_external",
+   "to": "OAR 918-600-0030"
+  },
+  {
+   "from": "columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25",
+   "type": "references_external",
+   "to": "OAR 918-650-0030"
+  },
+  {
+   "from": "columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance",
+   "type": "references_external",
+   "to": "ORS 811.560"
+  },
+  {
+   "from": "columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance",
+   "type": "references_external",
+   "to": "ORS 819.160"
+  },
+  {
+   "from": "columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance",
+   "type": "references_external",
+   "to": "ORS 819.170"
+  },
+  {
+   "from": "columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance",
+   "type": "references_external",
+   "to": "ORS 819.180"
+  },
+  {
+   "from": "columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance",
+   "type": "references_external",
+   "to": "ORS 819.201"
+  },
+  {
+   "from": "columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l",
+   "type": "references_external",
+   "to": "ORS 165.405"
+  },
+  {
+   "from": "columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l",
+   "type": "references_external",
+   "to": "ORS 34.010"
+  },
+  {
+   "from": "columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l",
+   "type": "references_external",
+   "to": "ORS 604.010"
+  },
+  {
+   "from": "columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l",
+   "type": "references_external",
+   "to": "ORS 604.531"
+  },
+  {
    "from": "coos-code-article-1-general-administration",
    "type": "references_external",
    "to": "ORS 203.035"
@@ -13946,6 +15818,156 @@
    "from": "coos-policies-employee-handbook-updated-12-16-2025",
    "type": "references_external",
    "to": "OAR 839-009-0210"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 197.175"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 197.435"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 197.445"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 197.455"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 215.050"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 215.263"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 215.293"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 215.418"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 308.740"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 377.710"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 377.715"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "ORS 526.324"
+  },
+  {
+   "from": "crook-land-use-crook-county-comprehensive-plan",
+   "type": "references_external",
+   "to": "OAR 660-033-0020"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 153.008"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 192.501"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 279A.112"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 40.225"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 646A.622"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 659A.030"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 659A.200"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 659A.206"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 659A.212"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 659A.215"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 659A.820"
+  },
+  {
+   "from": "crook-policies-employee-handbook-110222-clean-copy",
+   "type": "references_external",
+   "to": "ORS 9.490"
   },
   {
    "from": "deschutes-orders-ordinance-2000-012",
@@ -26003,6 +28025,1571 @@
    "to": "OAR 340-093-0050"
   },
   {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 164.245"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 195.120"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 197.660"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 209.250"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.130"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.246"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.248"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.278"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.306"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.417"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.428"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.452"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 215.508"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 30.396"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 30.936"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 308A.365"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 308A.371"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 308A.718"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 321.359"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 368.001"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 390.180"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 433.763"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 446.003"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 454.695"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 455.010"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 455.055"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 459.245"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 468B.050"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 520.005"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 522.005"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 526.215"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 537.545"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 540.505"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 603.038"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 621.072"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 65.001"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 772.210"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 801.445"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "ORS 92.050"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0020"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0130"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0135"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "OAR 660-034-0035"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "OAR 660-034-0040"
+  },
+  {
+   "from": "lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf",
+   "type": "references_external",
+   "to": "OAR 736-018-0040"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 1.525"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 131.005"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 133.075"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 133.110"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 135.805"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 153.130"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 153.140"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 161.015"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 33.015"
+  },
+  {
+   "from": "lincoln-code-chapter-10-enforcement-pdf",
+   "type": "references_external",
+   "to": "ORS 459.108"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 133.005"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 133.455"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 164.365"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 204.635"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 426.460"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 433.355"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 446.425"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 448.100"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 459.005"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 459.015"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 459.055"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 459.410"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 459.860"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 468.700"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 468B.050"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.015"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.030"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.090"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.093"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.100"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.125"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.135"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.155"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.156"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.158"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.205"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.305"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.335"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 609.990"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 624.510"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 646.705"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 801.460"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 813.010"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "ORS 815.025"
+  },
+  {
+   "from": "lincoln-code-chapter-2-environment-and-health-pdf",
+   "type": "references_external",
+   "to": "OAR 333-019-0345"
+  },
+  {
+   "from": "lincoln-code-chapter-3-building-code-pdf",
+   "type": "references_external",
+   "to": "ORS 455.010"
+  },
+  {
+   "from": "lincoln-code-chapter-3-building-code-pdf",
+   "type": "references_external",
+   "to": "ORS 455.150"
+  },
+  {
+   "from": "lincoln-code-chapter-3-building-code-pdf",
+   "type": "references_external",
+   "to": "ORS 455.690"
+  },
+  {
+   "from": "lincoln-code-chapter-3-building-code-pdf",
+   "type": "references_external",
+   "to": "ORS 479.540"
+  },
+  {
+   "from": "lincoln-code-chapter-3-building-code-pdf",
+   "type": "references_external",
+   "to": "ORS 479.550"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "ORS 192.610"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "ORS 34.010"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "ORS 433.763"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "ORS 433.990"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "OAR 333-039-0025"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "OAR 333-039-0045"
+  },
+  {
+   "from": "lincoln-code-chapter-4-business-regulations-pdf",
+   "type": "references_external",
+   "to": "OAR 333-039-0050"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 305.220"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 305.620"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 311.555"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 311.560"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 312.100"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 312.120"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 312.122"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 312.125"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 312.180"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 312.200"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 314.400"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 475B.015"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 475B.345"
+  },
+  {
+   "from": "lincoln-code-chapter-5-taxes-pdf",
+   "type": "references_external",
+   "to": "ORS 475B.700"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 203.148"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 223.205"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 223.210"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 223.295"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 34.010"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 368.001"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 368.205"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 368.401"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 371.305"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 371.318"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 371.349"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 371.605"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 371.610"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 374.320"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 376.150"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 376.200"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 810.180"
+  },
+  {
+   "from": "lincoln-code-chapter-6-roads-and-surveyor-pdf",
+   "type": "references_external",
+   "to": "ORS 810.530"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 201.210"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.025"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.065"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.180"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.200"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.220"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.055"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.060"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.070"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.075"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.080"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.085"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 479.620"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 682.105"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 682.205"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 682.275"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 809.725"
+  },
+  {
+   "from": "lincoln-code-chapter-7-general-administration-pdf",
+   "type": "references_external",
+   "to": "ORS 823.180"
+  },
+  {
+   "from": "lincoln-code-chapter-8-elections-pdf",
+   "type": "references_external",
+   "to": "ORS 251.235"
+  },
+  {
+   "from": "lincoln-code-chapter-8-elections-pdf",
+   "type": "references_external",
+   "to": "ORS 251.285"
+  },
+  {
+   "from": "lincoln-code-chapter-9-parks-and-recreation-pdf",
+   "type": "references_external",
+   "to": "ORS 809.725"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 1.525"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 131.005"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 133.005"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 133.075"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 133.110"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 133.455"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 135.805"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 153.130"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 153.140"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 161.015"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 164.245"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 164.365"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 192.610"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 195.120"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 197.660"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 201.210"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 203.148"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 204.635"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 209.250"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.130"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.246"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.248"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.278"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.306"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.417"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.428"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.452"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 215.508"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 223.205"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 223.210"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 223.295"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 251.235"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 251.285"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.025"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.065"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.180"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.200"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.220"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.055"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.060"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.070"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.075"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.080"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.085"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 30.396"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 30.936"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 305.220"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 305.620"
+  },
+  {
+   "from": "lincoln-code-combined-code-chapters-0-10-pdf",
+   "type": "references_external",
+   "to": "ORS 308A.365"
+  },
+  {
+   "from": "lincoln-land-use-bayshore-dune-management-plan-background-report-february-201",
+   "type": "references_external",
+   "to": "OAR 660-015-0010"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 496.012"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 506.036"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 506.109"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 509.505"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 527.610"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 541.605"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 541.625"
+  },
+  {
+   "from": "lincoln-land-use-estuary-management-plan-september-1982-pdf",
+   "type": "references_external",
+   "to": "ORS 541.626"
+  },
+  {
+   "from": "lincoln-policies-lincoln-county-personnel-rules-pdf",
+   "type": "references_external",
+   "to": "ORS 652.750"
+  },
+  {
+   "from": "lincoln-policies-lincoln-county-personnel-rules-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.030"
+  },
+  {
+   "from": "lincoln-policies-lincoln-county-personnel-rules-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.272"
+  },
+  {
+   "from": "lincoln-policies-lincoln-county-personnel-rules-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.820"
+  },
+  {
+   "from": "malheur-land-use-comp-plan-1985-updated-goal-3-formatted",
+   "type": "references_external",
+   "to": "ORS 215.050"
+  },
+  {
+   "from": "malheur-land-use-comp-plan-1985-updated-goal-3-formatted",
+   "type": "references_external",
+   "to": "ORS 215.060"
+  },
+  {
+   "from": "malheur-land-use-comp-plan-1985-updated-goal-3-formatted",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 162.075"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 164.377"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.005"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.500"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.501"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.505"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 244.010"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 244.040"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 244.175"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 260.432"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 260.695"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 40.225"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 401.165"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 408.225"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 408.230"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 408.235"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 433.441"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 433.4420"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.030"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.082"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.112"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.159"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.199"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.203"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.212"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.215"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.272"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.309"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.820"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 806.060"
+  },
+  {
+   "from": "malheur-land-use-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 9.490"
+  },
+  {
+   "from": "malheur-land-use-veterans-preference",
+   "type": "references_external",
+   "to": "ORS 408.225"
+  },
+  {
+   "from": "malheur-land-use-veterans-preference",
+   "type": "references_external",
+   "to": "ORS 408.230"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 162.075"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 164.377"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.005"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.500"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.501"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 192.505"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 244.010"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 244.040"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 244.175"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 260.432"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 260.695"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 40.225"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 401.165"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 408.225"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 408.230"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 408.235"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 433.441"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 433.4420"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.030"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.082"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.112"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.159"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.199"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.203"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.212"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.215"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.272"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.309"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 659A.820"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 806.060"
+  },
+  {
+   "from": "malheur-policies-policy-manual-july-2026",
+   "type": "references_external",
+   "to": "ORS 9.490"
+  },
+  {
+   "from": "malheur-policies-veterans-preference",
+   "type": "references_external",
+   "to": "ORS 408.225"
+  },
+  {
+   "from": "malheur-policies-veterans-preference",
+   "type": "references_external",
+   "to": "ORS 408.230"
+  },
+  {
    "from": "multnomah-code-chapter-1-general-provisions",
    "type": "references_external",
    "to": "ORS 187.010"
@@ -30931,6 +34518,1271 @@
    "from": "umatilla-land-use-development-code-2025",
    "type": "references_external",
    "to": "ORS 443.705"
+  },
+  {
+   "from": "wasco-code-1978-wasco-county-dog-ordinance",
+   "type": "references_external",
+   "to": "ORS 133.060"
+  },
+  {
+   "from": "wasco-code-1978-wasco-county-dog-ordinance",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "OAR 918-050-0100"
+  },
+  {
+   "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
+   "type": "references_external",
+   "to": "OAR 918-600-0030"
+  },
+  {
+   "from": "wasco-code-building-codes-ordinance-19-002-fully-executed",
+   "type": "references_external",
+   "to": "ORS 190.030"
+  },
+  {
+   "from": "wasco-code-building-codes-ordinance-19-002-fully-executed",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "wasco-code-building-codes-ordinance-19-002-fully-executed",
+   "type": "references_external",
+   "to": "OAR 166-150-0020"
+  },
+  {
+   "from": "wasco-code-building-codes-ordinance-19-002",
+   "type": "references_external",
+   "to": "ORS 190.030"
+  },
+  {
+   "from": "wasco-code-building-codes-ordinance-19-002",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "wasco-code-building-codes-ordinance-19-002",
+   "type": "references_external",
+   "to": "OAR 166-150-0020"
+  },
+  {
+   "from": "wasco-code-operations-special-events-regulations",
+   "type": "references_external",
+   "to": "ORS 758.010"
+  },
+  {
+   "from": "wasco-code-ordinance-18-003-amdending-chapter-3-of-the-wasco-county-204",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-19-001-amending-chapters-2-3-6-and-9",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "ORS 92.176"
+  },
+  {
+   "from": "wasco-code-ordinance-19-003-fee-schedule-fully-executed",
+   "type": "references_external",
+   "to": "OAR 165-002-0020"
+  },
+  {
+   "from": "wasco-code-ordinance-19-004-2040-updates-chapters-5-12-signed",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-19-005-2040-chapters-10-14-signed",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance-19-006-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 92.176"
+  },
+  {
+   "from": "wasco-code-ordinance-19-007-2040-chapters-5-7-11-13",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-19-008-approving-city-of-the-dalles-comp-plan-and-",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-20-001-2040-chapters-4-5-8",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance-20-002-amended-fee-schedule-final",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance-20-004-2040-goal-exceptions-introduction-chapters",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance-21-001-amended-fee-schedule-complete",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance-22-001-amended-fee-schedule-signed",
+   "type": "references_external",
+   "to": "OAR 918-050-0100"
+  },
+  {
+   "from": "wasco-code-ordinance-22-003-outdoor-mass-gathering-signed",
+   "type": "references_external",
+   "to": "ORS 433.745"
+  },
+  {
+   "from": "wasco-code-ordinance-22-003-outdoor-mass-gathering-signed",
+   "type": "references_external",
+   "to": "ORS 433.770"
+  },
+  {
+   "from": "wasco-code-ordinance-22-003-outdoor-mass-gathering-signed",
+   "type": "references_external",
+   "to": "ORS 433.990"
+  },
+  {
+   "from": "wasco-code-ordinance-22-003-outdoor-mass-gathering-signed",
+   "type": "references_external",
+   "to": "OAR 333-255-0000"
+  },
+  {
+   "from": "wasco-code-ordinance-22-003-outdoor-mass-gathering-signed",
+   "type": "references_external",
+   "to": "OAR 340-071-0340"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "OAR 918-050-0100"
+  },
+  {
+   "from": "wasco-code-ordinance-23-001-amended-fee-schedule-filed",
+   "type": "references_external",
+   "to": "OAR 918-600-0030"
+  },
+  {
+   "from": "wasco-code-ordinance-24-001-nsa-ludo-update-07-17-24-signed",
+   "type": "references_external",
+   "to": "ORS 196.107"
+  },
+  {
+   "from": "wasco-code-ordinance-24-002-legislative-amendments-comprehensive-plan-z",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "wasco-code-ordinance-24-003-animal-services-code-final-signed",
+   "type": "references_external",
+   "to": "ORS 609.035"
+  },
+  {
+   "from": "wasco-code-ordinance-24-003-animal-services-code-final-signed",
+   "type": "references_external",
+   "to": "ORS 609.098"
+  },
+  {
+   "from": "wasco-code-ordinance-24-003-animal-services-code-final-signed",
+   "type": "references_external",
+   "to": "ORS 609.105"
+  },
+  {
+   "from": "wasco-code-ordinance-24-003-animal-services-code-final-signed",
+   "type": "references_external",
+   "to": "ORS 609.125"
+  },
+  {
+   "from": "wasco-code-ordinance-24-003-animal-services-code-final-signed",
+   "type": "references_external",
+   "to": "ORS 609.415"
+  },
+  {
+   "from": "wasco-code-ordinance-25-001-ludo-signed",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-ordinance-25-001-ludo-signed",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "wasco-code-ordinance-25-003-amended-fee-schedule",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance-25-003-amended-fee-schedule",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance-25-003-amended-fee-schedule",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance-26-001repeal-replace-ordinance-rev2-signed",
+   "type": "references_external",
+   "to": "ORS 203.148"
+  },
+  {
+   "from": "wasco-code-ordinance-26-001repeal-replace-ordinance-rev2-signed",
+   "type": "references_external",
+   "to": "ORS 205.130"
+  },
+  {
+   "from": "wasco-code-ordinance-26-001repeal-replace-ordinance-rev2-signed",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance-26-001repeal-replace-ordinance-rev2-signed",
+   "type": "references_external",
+   "to": "ORS 209.070"
+  },
+  {
+   "from": "wasco-code-ordinance-26-002-nsa-ludo-signed",
+   "type": "references_external",
+   "to": "ORS 196.107"
+  },
+  {
+   "from": "wasco-code-ordinance-re-repeal-agriculture-and-forestry-practices-ordin",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 192.440"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-ordinance16-002feeschedule-8-31-16-000",
+   "type": "references_external",
+   "to": "OAR 165-002-0020"
+  },
+  {
+   "from": "wasco-code-solid-waste-collection-and-disposal-ordinance-2-15-1989",
+   "type": "references_external",
+   "to": "ORS 173.160"
+  },
+  {
+   "from": "wasco-code-solid-waste-collection-and-disposal-ordinance-2-15-1989",
+   "type": "references_external",
+   "to": "ORS 433.730"
+  },
+  {
+   "from": "wasco-code-solid-waste-collection-and-disposal-ordinance-2-15-1989",
+   "type": "references_external",
+   "to": "ORS 459.040"
+  },
+  {
+   "from": "wasco-code-solid-waste-franchising-and-nuisance-abatement-4-15-1992",
+   "type": "references_external",
+   "to": "ORS 433.730"
+  },
+  {
+   "from": "wasco-code-solid-waste-franchising-and-nuisance-abatement-4-15-1992",
+   "type": "references_external",
+   "to": "ORS 459.040"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 106.045"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 166.291"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 18.930"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 190.050"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 205.236"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 21.300"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 368.326"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 471.166"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "ORS 92.176"
+  },
+  {
+   "from": "wasco-code-wasco-county-fee-ordinance-2018",
+   "type": "references_external",
+   "to": "OAR 165-002-0020"
+  },
+  {
+   "from": "wasco-code-wascoc-2",
+   "type": "references_external",
+   "to": "ORS 173.160"
+  },
+  {
+   "from": "wasco-code-wascoc-2",
+   "type": "references_external",
+   "to": "ORS 215.185"
+  },
+  {
+   "from": "wasco-code-wascoc-2",
+   "type": "references_external",
+   "to": "ORS 30.460"
+  },
+  {
+   "from": "wasco-code-wascoc-2",
+   "type": "references_external",
+   "to": "ORS 459.386"
+  },
+  {
+   "from": "wasco-code-wascoc-2",
+   "type": "references_external",
+   "to": "ORS 459A.725"
+  },
+  {
+   "from": "wasco-code-wascoc-2",
+   "type": "references_external",
+   "to": "ORS 466.005"
+  },
+  {
+   "from": "wasco-code-wascoc-2",
+   "type": "references_external",
+   "to": "ORS 82.010"
+  },
+  {
+   "from": "wasco-code-wc-nsa-ludo-ordinance-21-003-signed",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "wasco-code-wc-nsa-ludo-ordinance-21-003-signed",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "wasco-land-use-operations-special-events-regulations",
+   "type": "references_external",
+   "to": "ORS 758.010"
   },
   {
    "from": "washington-code-apxaenshpadior",

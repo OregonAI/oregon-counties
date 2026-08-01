@@ -1,0 +1,2249 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lincoln-county
+id: lincoln-land-use-bayshore-dune-management-plan-background-report-february-201
+title: 'Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF'
+doc_type: ordinance
+citation: 'Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF'
+authority_level: county_ordinance
+issuing_body: 'Lincoln County Board of Commissioners'
+source_url: https://www.co.lincoln.or.us/DocumentCenter/View/1076/Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d868d7d34f6693dab2f703c949910dbed8e38c7feebcf6ca6f23920e6347b188
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-015-0010
+  related: []
+  supersedes: []
+tags: [lincoln-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lincoln County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF (Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF)
+
+## At a glance
+
+Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF — land use of Lincoln County. 67 pages.
+
+## Full text
+
+BAYSHORE DUNE MANAGEMENT PLAN
+ BACKGROUND REPORT
+
+Prepared for
+Lincoln County
+225 West Olive Street
+Newport, Oregon
+By
+Terra Firma Geologic Services
+27766 Hunter Creek Road
+Gold Beach, OR 97444
+February 7, 2012
+
+Preparation of this document was funded partly through contributions of homeowners at
+Bayshore and partly through financial assistance provided by the Coastal Zone Management Act
+of 1972, as amended, administered by the Office of Ocean and Coastal Resource Management,
+National Oceanic and Atmospheric Administration, and the Ocean and Coastal Management
+Program, Department of Land Conservation and Development.
+
+LIMITATIONS
+This document was prepared for the Lincoln County Planning Department, Newport, Oregon
+following the DLCD document: Dune Management Planning; A Guide to Preparing a Dune
+Management Plan as Provided for in Statewide Planning Goal 18 and methodologies used to
+prepare other foredune management plan background reports.  The information contained in this
+document consists of published and unpublished data which we were able to locate and which
+was made available to us.  Important data was also gleaned from interviews with residents, utility
+district managers, agency representatives and others with experience at Bayshore.  Most of the
+fieldwork for this report was done on 5/9-12/2011.  Bayshore was visited on 1/26/2011, two
+weeks after an inundation event, and on 1/18/2012 during an inundation event.  It is possible that
+additional data exists that may allow alternative interpretations of dune dynamics and beach
+processes at Bayshore.  However, regardless of what additional information becomes available it
+is undeniable that homes and infrastructure are impacted by sand inundation multiple times a
+year, and portions of the spit have an elevated level of risk to be eroded by ocean waves during
+natural, infrequent, reoccurring climatic events.
+
+The ocean front residences in the southern part of Bayshore are located within a foredune on a
+sand spit adjacent to an uncontrolled outlet for Alsea River.  Because of that setting the beach
+adjacent to many of the residences has an elevated risk to be eroded by ocean waves during large
+wave erosion events.  The area has an abundance of sand available for transport and the location
+of the homes within the foredune makes them conducive to accumulation of wind transported
+sand during periods of accretion.  Preparation of this document does not imply that we condone
+the location of the residences in the southern part of Bayshore.  The document was prepared to
+enable the residents at Bayshore to proceed with implementation of a foredune management
+plan, as allowed under Statewide Planning Goal 18.  No warranties, either expressed or implied
+are provided.  This report is submitted with the limitation that damages related to ocean wave
+erosion, tsunamis or even deposition of wind transported sand is borne by the property owners
+and is an inherent risk of having property located in such a geologically active environment.
+
+Expires 6/30/2012
+Ron Sonnevil, CEG
+
+Erin Minster GIT 2164
+Staff Geologist
+
+ii
+
+TABLE OF CONTENTS
+
+I N T R O D U C T I O N           1
+
+SITE DESCRIPTION AND SETTING       1
+ Relationship of Foredune to Planning area      2
+
+PHYSICAL FACTORS AND PROCESSES       2
+ W i n d            2
+ Waves and Ocean Levels        3
+ B a y  O u t l e t  M i g r a t i o n          5
+ E l  N i n o           6
+ Ocean Flooding         7
+ T s u n a m i s           7
+
+EROSION AND BEACH HISTORY        8
+ Changes in Shoreline Location       10
+ Changes in Beach Profiles        11
+
+CURRENT BEACH TOPOGRAPHY       12
+ Availability of Sand for Grading       12
+ Changes in Sand Dune Elevations Since 2009     13
+
+H U M A N  F A C T O R S           1 3
+ Beachfront Protective Structures       13
+ Establishment of Vegetation and Home Construction    14
+ Trails Across Beach         14
+ Vacant Lots          15
+ Beach Access Areas         15
+ Sand Inundation Impacts        15
+
+C O N C L U S I O N S           1 6
+
+A C K N O W L E D G E M E N T S          1 7
+
+R E F E R E N C E S           1 7
+
+iii
+
+FIGURES
+
+Figure 1.  Location map         21
+Figure 2.  Overview showi ng setting of dune management planning area  22
+Figures 3A-B.  Management units in planning area      23-24
+Figure 4.  Geometric Foredune Erosion Model      25
+Figure 5A-B.  Erosion hazard zone s in planning area     26-27
+Figure 6.  Multivariate ENSO Index 1950-2011      28
+Figure 7A-B.  FEMA flood hazard zones at Bayshore     29-30
+Figure 8A-B.  Shoreline loca tions 1928-2011      31-32
+Figure 9A-B  Beach Profile locations        33-34
+Figure 10A-J.  Beach profile plots        35-44
+Figure 11A-H. Contour maps of management units 1-8     45-52
+Figure 12.  Location of traverse  with RTF-GPS       53
+Figure 13.  Elevation differences be tween 2009 and 2011 along traverse   54
+
+APPENDICES
+
+Appendix 1A-F. Oblique aerial photographs (2011) of management units   55-60
+Appendix 2. LIDAR description        61
+Appendix 3. Profiles           62
+Appendix 4. Shorelines         63
+
+iv
+
+INTRODUCTION
+Statewide Planning Goal 18: Beaches and Dunes (OAR 660-015-0010(3)) establishes
+requirements for foredune grading and management through a dune management plan (DLCD,
+2010).   Those requirements include “consideration of factors affecting the stability of the
+shoreline to be managed including sources of sand, ocean flooding, and patterns of accretion and
+erosion and effects of beachfront protective structures and jetties.” This report addresses those
+requirements and is intended to be used as a basis to prepare a dune management plan at
+Bayshore on Alsea Spit in Lincoln County, Oregon.  Bayshore was “committed to development”
+in the 1960’s and qualifies for foredune grading if other requirements of Goal 18 can be met.
+This report is organized into several sections including a general physical description of the area
+and its relationship to the littoral cell it is contained within, a discussion of physical factors
+influencing the site and a discussion of human factors.
+
+SITE DESCRIPTION AND SETTING
+The subject area is located in the northern part of the southern half of the Newport littoral cell, a
+27 mile long stretch of coastline that runs from Cape Perpetua to Yaquina Head (Figure 1).  The
+dune management planning area (Figure 2) extends from the southerly tip of Alsea Spit
+approximately 8,000 feet north to the northern edge of the Bayshore development, an
+unincorporated area of Lincoln County.  The inland extent of the plan area is located at the
+seaward edge of the foundations for the residences from the north edge of the plan area to beach
+access # 5, then jogs east and follows the inland boundary of NW Oceania Drive and NW Alsea
+Bay Drive to the south end of the plan area.  The planning area is divided into 8 management
+units (Figures 3A&B) that are referred to extensively in this report.
+
+The southern edge of the planning area is located at the mouth of the Alsea River, which has the
+largest watershed (466 miles
+2) within the Newport littoral cell.  No published literature was
+found regarding the sediment budget of the Newport littoral cell.  Obvious major sand sources
+within the littoral cell include the Alsea and Yaquina Rivers.  Smaller streams such as the
+Yachats River, Beaver Creek, Theil Creek and others contribute sediment to the littoral cell.
+Seacliffs are another source of sand within the Newport littoral cell.  Natural sand sinks include
+Alsea Bay, Yaquina Bay and areas offshore.  Prior to development of Alsea Spit an obvious sand
+sink consisted of the large dunes that began in the northern part of what was to become the
+Bayshore development but since the area was developed in the 1960’s sand has not been
+deposited in those dunes.  The Newport littoral cell is bounded to the north and south by
+headlands composed of Tertiary age basalt.  The seacliffs consist of Pleistocene age terrace
+sediments deposited over Tertiary age siltstone and sandstone.  Inland areas are underlain
+predominately by Tertiary age siltstones and sandstones (Schlicker and others, 1973).
+
+Relationship of Planning Area to the Foredune
+The shape and position of the foredune varies significantly within the planning area.  Throughout
+the entire planning area the foredune ranges from conditionally stable to active.  In the northern
+part of the planning area (management units 1, 2, 3 and 4) the foredune is distinct and well
+seaward of the homes.  A conditionally stable dune ridge that represents an older foredune exists
+to the east of the active foredune beginning in the middle of management unit 1 and extends to
+the clubhouse in management unit 4 where it is obscured by the clubhouse parking lot. This older
+dune ridge appears to be the active foredune in the late 1970’s through the 1980’s.  In
+management unit 5 the foredune ceases to be a distinct ridge that is seaward and separate from
+the homes but becomes a feature that includes the homes. The homes in the northern part of
+management unit 5 are located on the eastern part of the foredune and in the southern part they
+are located within the crest of the foredune.  The homes and NW Oceania Drive are essentially
+part of the foredune in management units 6 and 7.  The foredune ends at the south end of
+management unit 7.  Management unit 8 is adjacent to the mouth of the bay and although it lacks
+a foredune it is still subject to sand inundation.
+
+Three main beach environments were identified including an open sand beach containing
+driftwood and occasional scattered small clumps of European beach grass.  This area extends
+from the surf zone to an elevation of about 14 feet NAVD88 and, in the summer contains
+numerous small transverse dunes resulting from north winds.  The second area identified
+includes an area of numerous scattered hummocks containing European beach grass.  If accretion
+continues and the area is not subjected to another wave erosion event it appears that these
+hummock dunes will develop into another foredune, at least in management units 4-2 where they
+are best developed.  The foredune has a variable cover of European beach grass, ranging from
+conditionally stable to active.  Extensive portions of the foredune in the southern part of the area
+are bare sand due to grading or recent sand deposition.  The dune ridge that represents an older
+foredune in management units 1-4 is vegetated in European beach grass with scattered shrubs,
+shorepines, and spruce trees.  An oblique aerial photograph taken in May, 2011 is on the cover of
+this report and Appendix 1 is a series of oblique aerial photographs taken at the same time which
+show the individual management units.
+
+PHYSICAL FACTORS AND PROCESSES
+Wind
+The wind climate of the Oregon coast is bimodal (Hunter and others,1983).  In the summer the
+North Pacific High dominates the weather pattern resulting in dry conditions and north to
+northwest winds of moderate velocities commonly reaching 20 to 30 miles per hour.  In the
+winter the Aleutian Low dominates the atmospheric circulation resulting in frontal storms that
+pass over the coast with associated heavy rains and strong (30 to 50+ miles per hour) south to
+southwesterly winds.
+
+Both southerly and northerly winds influence sand movement and the dunes at Bayshore but the
+greatest changes and impacts are associated with the strong southerly winds in the winter.  It is
+not uncommon in the southern part of the planning area for sand accumulations of several feet to
+occur during individual storms.  Sand is deposited seaward of existing homes, against and on top
+of homes, in yards and driveways between homes and NW Oceania and NW Alsea Bay Drives,
+and on portions of NW Oceania Drive and NW Alsea Bay Drive.  Inundation occurs after a
+prolong period of strong northwesterly winds during summer months but impacts are generally
+not as severe as during winter storms with strong southerly or southwesterly winds.   It appears
+that an important function of the northerly winds is to transport sand along the open beach where
+it accumulates in the southern part of the spit and becomes accessible to the strong southerly
+winds which are more onshore in the southern most part of the planning area.  Another source of
+sand is the beach between Alsea Bay and Yachats.  Sand along that section of beach transported
+by southerly winds and swells ultimately makes it into Alsea Bay.  At low tides the sand is
+exposed to strong southerly winds and deposited on the beach at Alsea Spit.
+
+The orientation of the shoreline at Bayshore is not the same throughout the planning area.  In
+management unit 5 the shoreline straightens out and has a uniform north to northeast trend that
+extends past the north edge of the planning area (Figure 2).  Between management units 5 and 8
+the shoreline curves becoming oriented southeast and finally nearly east-west.  Where the beach
+faces southwest to south the strong southerly storm winds have a significant onshore component
+causing the sand to be deposited on and even inland of the structures.  Where the beach faces
+west the sand blown off the spit is deposited on the outer part of the foredune and on the beach
+seaward of the foredune.  North of management unit 4 the amount of sand deposited on the
+foredune is much less than farther to the south.
+
+Waves and Ocean Levels
+The beach is regularly shaped by ocean waves.  Winter storm waves remove sand from the beach
+to offshore bars and summer waves return that sand (Komar, 1998a).  Erosional changes
+associated with ocean waves are controlled by wave conditions, including wave height and wave
+period, and water level.
+
+Wave data (wave heights and periods) have been measured in the North Pacific using wave
+buoys and sensor arrays since the 1970’s.  Prior to the late 1990’s the 100-year extreme storm for
+the Pacific Northwest coast was projected to have a deep water significant wave height of 33 feet
+(Ruggiero and others, 1996).  That height was exceeded once during the 1997-98 winter, four
+times during the 1998-99 winter and again in January, 2000.   Analyses of these additional data
+for several wave buoys located offshore from the Pacific Northwest coast yield 100-year storm
+wave heights that ranged from 46 to 55 feet (Allan and Komar, 2001).
+
+Ocean water levels are controlled by the state of  the tide, storm surge a nd El Nino conditions.
+Water levels along the Oregon coast are consistent ly higher during the winter months due to
+storm surge, seasonal changes in ocean currents off the coast and water temperatures (Komar,
+1997). The combination of high tides, higher ocean levels and high waves that occurs during the
+winter months causes most of the erosion along the Oregon coast.
+
+Water levels and wave parameters for various conditions are typically incorporated into a
+geometric model (Figure 4) that calculates the erosional response of a beach with a specific
+geometry to sets of variables that represent various scenarios that may impact a given area.  The
+results of those calculations are used to delineate areas with different levels of beach erosion
+hazard, including areas with high, moderate and low hazard with the scenario for the high hazard
+having the greatest likelihood of occurring.  Witter and others (2007) calculated beach erosion
+hazard areas for the Bayshore area using the foredune erosion model of Komar and others
+(1999).  The wave and water level values used for different scenarios that were calculated are
+listed in Table 1 and the resulting hazard areas are shown in Figures 5A&B.  The high hazard
+scenario includes wave and water level conditions that approximate conditions which occurred in
+1997-1999.  The moderate hazard scenario includes a larger wave event analogous to the
+predicted “100-year event” combined with a sea level rise expected in a 100-year period.  The
+low hazard scenario combines the moderate hazard scenario with predicted subsidence expected
+to occur during a Cascadia subduction zone earthquake.  The beach geometry for the modeling
+was obtained from LIDAR data collected in 1998.  Appendix 2 contains a brief explanation of
+LIDAR.
+
+Hazard
+Zone
+Scenario
+Significant
+Wave
+Height
+Peak
+Spectral
+Wave
+Period
+Mean
+Higher
+High Tide
+Monthly
+Mean
+Water
+Level
+Storm
+Surge
+Sea
+Level
+Rise
+Regional
+Subsidence*
+Change
+in Water
+Elevation†
+ High 47.6 ft  17 s 7.5 ft  1.3 ft  3.3 ft  — — 12.1 ft
+ moderate 52.5 ft  20 s 7.5 ft 1.3 ft 5.6 ft  1.3 ft — 15.7 ft
+ Low 52.5 ft 20 s 7.5 ft 1.3 ft 5.6 ft 1.3 ft 3.3 ft 19.0 ft
+*Due to a Cascadia subduction zone earthquake.
+†Relative to NAVD88 datum.
+
+Table 1. Parameters used to model maximum potential erosion distance on dune-backed
+shorelines in southern Lincoln County, Oregon. Source: Witter and others (2007).
+
+Witter and others (2007) show that, in management units 1-4 at Bayshore, only the northernmost
+homes are in the high and moderate hazard areas and that only a few homes are within the low
+hazard area.  However, most of the homes in management units 5-8 are located in the high and
+moderate hazard areas.  It is noteworthy that erosion has historically threatened homes in those
+areas leading to installation of rip rap shore protection structures.  Importantly, the beach erosion
+model does not consider the presence of a shoreline protective structure such as rip rap.  The
+
+beach erosion hazard areas were defined using beach geometry obtained from LIDAR data
+collected in 1998 after the beach had adjusted to a major El Nino event.  Much of the beach has
+accreted since 1998 and the same modeling using current beach geometry is expected to result in
+some seaward shift of the hazard zone boundaries where accretion has been significant.
+
+However, when the beach erodes it will resume a profile configuration and elevation much more
+similar to the 1998 profile than the accreted profile that currently exists (Allan and Komar,
+2005).  Because of that the 1998 geometry should be used for determining hazard zone locations
+and, in our opinion, the hazard zones determined by Witter and others (2007) remain valid.
+
+The amount of foredune retreat predicted by the geometric model is based on the assumption that
+the beach junction angle will retreat inland along the slope of the profile until it reaches the total
+water level of the design storm (Location B or C on Figure 4).  This assumption has implications
+for the effectiveness of enlarging a foredune to protect inland properties from beach erosion.
+According to the model the beach will ultimately erode to the predicted location regardless of
+how much foredune exists.  Thus, one can argue that for conditions associated with a predicted
+50-100 year event, an enlarged foredune is not expected to provide long term protection to
+properties from erosion if a given beach completely erodes to the geometry predicted by the
+model.
+
+A problem with applying the model for conditions associated with a multi-decade design event is
+that the assumed extreme water levels and storm wave conditions are not sufficiently sustained
+for a beach to reach the maximum eroded state during a single storm event.  Thus, the modeled
+changes are expected to require a series of major storms and elevated water levels that repeat
+themselves throughout a season or even over multiple seasons.  The existence of a wider
+foredune can help to retard the erosion rate and provide some additional level of protection to
+properties by absorbing wave energy and providing additional sand to the beach as the dune
+erodes.
+
+Bay Outlet Migration
+The outlet of Alsea Bay is not controlled by jetties and migration of the Alsea Bay outlet is a
+process that has caused significant change to the beach at Alsea Spit.  Under normal conditions
+the outlet for Alsea Bay is located adjacent to the bedrock point on the south side of the bay.
+During El Nino conditions there is a stronger northward movement of sand along beaches in the
+Pacific Northwest (Komar, 1998b).  Sand movement during the 1982-83 El Nino was sufficient
+to create a large offshore sand bar on the south side of Alsea Bay that migrated north.  This
+diverted the outlet of the bay to the north which, in turn, eroded the offshore beach in front of the
+southern part of the spit.  Erosion of the offshore bars exposed the beach to direct wave attack
+(Komar, 1997).  These conditions resulted in erosion of the beach and dunes in front of the
+existing homes causing the loss of one home and threatening others.  The outlet channel
+
+remained deflected but migrated south, exposing the beach to wave attack during that process.
+In fall of 1985 outlet flow from Alsea Bay eroded the sand at the tip of the spit threatening the
+homes near the end of the spit.  This process will repeat itself and when it does the beach is
+expected to erode in a similar fashion, removing the accumulated sand and exposing the rip rap
+that was installed earlier.
+
+El Nino
+El Nino is a periodic atmospheric – oceanographic event that is initiated elsewhere in the Pacific
+Ocean but can affect the entire west coast of the United States and lead to heightened coastal
+erosion on the Oregon coastline.  El Nino is caused by a breakdown in the equatorial trade winds
+of the central and western Pacific Ocean (Wyrtki, 1975).  Normally the strong equatorial trade
+winds cause the sea level to be elevated in the western Pacific Ocean.  However, when the trade
+winds stop blowing the elevated warm waters of the western Pacific surge back toward North
+and South America.  Due to the rotation of the earth, currents are created that flow northerly and
+southerly away from the equator along the coasts of North and South America. This bulge of
+warm water has been detected on tide gages along the coast of Oregon. Tide gage measurements
+at Newport, Oregon indicate that during the El Nino event of 1982-83 the ocean surface was
+elevated 14 inches above the average winter sea level for several months (Komar, 1997).
+
+El Nino is a major disturbance of the meteorological and oceanographic conditions throughout
+the Pacific Ocean causing dislocation of the jet stream to the south which causes winter storms to
+cross the coast further to the south in California rather than over Oregon and Washington.  The
+passage of winter storms to the south of the normal track causes high winter waves to approach
+the Oregon coast from the southwest rather than from the west or northwest. The occurrence of
+the high winter storm waves from the southwest coincident with the bulge of high water created
+by the El Nino coastal currents results in a northward displacement of sand along Oregon’s
+beaches, resulting in more beach erosion at the southern part of a littoral cell than in the northern
+part.  Northward displacement of sand along Oregon’s beaches during an El Nino can also result
+in northward migration of stream and bay outlets.
+
+El Nino is a periodic phenomenon that has repeated itself many times.  The Multivariate ENSO
+Index (MEI) is commonly used to measure the strength of El Nino and La Nina events (Wolter
+and Timlin 1993, 1998).  Figure 6 shows a plot of the MEI from 1950 to June, 2011 (Wolter
+2011).  The two events that resulted in significant erosion at Alsea Spit were the strongest that
+have been measured since 1950, based on the MEI.  This data suggests that there may be a MEI
+threshold for major El Nino related impacts to occur at Bayshore.  The frequency of strong El
+Nino events has increased in the last few decades but recent research indicates that this
+occurrence is not anomalous when records are extended into the 1800’s (Wolter and Timlin,
+2011).  Future strong El Nino events will occur and when they do the risk for associated erosion
+events at Bayshore will be elevated.
+
+Ocean Flooding
+The Federal Emergency Management Agency (FEMA) has calculated elevations for flooding
+related to ocean waves and water levels for events with various frequencies.  These data are
+summarized in a county wide Flood Insurance Study (FIS) and shown in greater detail on Flood
+Insurance Rate Maps (FIRM) in a series of panels (FEMA, 2009 A-C).  Areas interpreted to be at
+risk of being flooded by events with 1 percent and 0.2 percent annual chances of occurring (i.e.
+100-year and 500-year flood events, respectively) are shown on the FIRM.  Coastal beach areas
+have a special flood hazard area related to calculated ocean wave runup designated as the
+velocity zone that has a specific base flood elevation (BFE) assigned to it.  Within the planning
+area the FEMA designated velocity zone elevation ranges between 24 and 34 feet (NAVD 88).
+Areas interpreted to be at risk of being impacted by shallow flooding by water with average
+depths of 1 to 3 feet are designated as being within the AO zone.  Hydraulic analyses give an
+average depth of one foot to the AO zone within the planning area.  The AE zone is used where
+the predicted flooding is just related to the water level in the bay.  Figures 7a and 7b show the
+FEMA designated VE, AO and AE zones within the management area.  Statewide Planning Goal
+18 requires that foredunes be graded no lower than 4 feet above the FEMA 100-year BFE
+resulting in minimum graded dune heights for the VE zone between 28 and 38 feet (NAVD 88).
+FIRM maps in portions of coastal Oregon have recently been updated and Lincoln County is
+scheduled to be updated in 2014 (FEMA, 2011).  Changes made to the BFE during the update
+will affect the minimum heights that dunes may be lowered to.
+
+Tsunamis
+Tsunamis periodically occur and represent a process that can cause change to the beach.
+Tsunamis with both distant and local sources are expected to impact the Oregon coast.  Tsunamis
+with distant sources such as Alaska and Japan have a large range in sizes and subsequent
+inundation amounts.  The 1964 tsunami generated from the great Alaska earthquake is the largest
+distant tsunami to historically impact this area.  No published documentation was found
+regarding the amount of runup and impacts that occurred at Bayshore from that tsunami.  An
+unverified hearsay account indicates that the 1964 tsunami washed over the foredune at
+Bayshore.  Large distant tsunamis are capable of eroding the beach at Bayshore.  The amount of
+erosion that occurs during a distant tsunami will depend on its source and when it occurs, but it is
+not likely to exceed the amount modeled for the high hazard scenario, particularly if a tsunami
+occurs when the beach is in an accreted state.
+
+A local tsunami generated during a large Cascadia Subduction Zone (CSZ) earthquake is
+predicted to impact all of the dune management area.  Modeling indicates that the maximum
+CSZ tsunami will inundate all of Alsea Spit including at least the southern half of the lower lying
+portions of the Bayshore Development (Priest, 1995).  Large local tsunamis generated by a
+
+continuous rupture on the CSZ (from California through Washington) are interpreted to have a
+recurrence interval of about 500 years with the last event occurring in 1700.  Recent research
+indicates that smaller tsunamis generated by CSZ events with shorter rupture lengths in southern
+Oregon and northern California are more frequent and have a recurrence interval closer to 250
+years (Priest and others, 2009).  Runup from a smaller CSZ tsunami in the Bayshore area has not
+been modeled.
+
+Tsunami inundation modeling for distant and local tsunamis is in the process of being revised for
+the entire Oregon Coast.  Where the new modeling has been done most of the inundation areas
+are significantly larger than earlier modeling indicated and this trend is likely to apply to the
+Bayshore area (Rob Witter, personal communication 2011).  A local tsunami resulting from a
+large CSZ earthquake is likely to overwhelm much of the Bayshore development and cause
+extensive damage to the beach and dwellings within the dune management area.
+
+A robust foredune can help provide protection from most distant tsunamis, similar to how it
+could provide protection during a large storm.  However, an extremely large distant tsunami or
+even a moderate local tsunami appears to have the potential to erode the beach at Bayshore.  A
+large local tsunami is expected to overwhelm the area resulting in major damage to properties
+and residences at Bayshore.
+
+EROSION AND BEACH HISTORY
+Stereo pairs of aerial photographs taken in 1939, 1967, 1972, 1985, 1986 and 1987 were studied
+with a stereoscope for this project to document changes.  A single aerial photograph taken in
+1952 was also studied as were digital ortho-photographs or ortho-images for the years 1977,
+1994, 2000, 2005, 2007 and 2009.  This section describes what is visible on the aerial
+photographs and what is available in the literature.
+
+Aerial photographs taken in 1939 show much of Alsea Spit as being a low lying expanse of bare
+sand.  There are scattered, isolated patches of vegetation consisting of either low trees or brush in
+the southern part of the spit but the majority of the spit consists of bare sand.  In 1939 the
+southern part of the spit contained a broad, relatively low lying foredune that narrows to the
+north where it is bounded to the west by a distinct erosion scarp.  Large dune ridges ramp up
+onto the forested slope to the north of the spit and it is obvious that those dunes were formed by
+wind from the south and southwest.   Those dunes come nearly to the foredune near the northern
+extent of what was to become the Bayshore development.
+
+A single aerial photograph taken in 1952 shows scattered low vegetation on the southern part of
+the spit and locally on the northwest part of the spit.  The areas that appear vegetated in the 1939
+photographs are larger and have more vegetation in 1952.  However, the general morphology of
+
+the spit appears similar to the 1939 photography.  A stereo pair was not available for the 1952
+photography so it is not possible to discern foredune height or width.  Cooper (1958) provides
+the first description of dune morphology on Alsea Spit and describes it as a “blunt spit bare of
+dunes”.
+
+Aerial photographs taken in 1967 show the project shortly after it was developed with only a few
+homes in place.  In 1967 much of the foredune appears to have been graded and consists of a
+relatively narrow area seaward of NW Oceania Drive.  The graded portion of the foredune
+appears to have been planted (in dune grass?) and other parts that were not apparently graded
+were covered with low vegetation.  Most of the few homes that existed seaward of NW Oceania
+Drive in 1967 were essentially notched into the foredune and many of those were located on the
+seaward edge of the foredune adjacent to the edge of the bare sand beach.  Lund (1972) describes
+Alsea spit as a low dune ridge near the beach with a low sandy grassy plain that slopes to Alsea
+Bay.  Stembridge (1975) describes Alsea Spit and the Bayshore development in the mid-1970’s
+and reports a significant amount of accretion occurring, mainly in the southern part of the
+development with the main foredune increasing in elevation at a rate of 0.5 foot/year.
+
+Aerial photographs taken in 1977 and 1980 show a significant seaward enlargement of the
+foredune, particularly in the southern half of the project area.  It is apparent on the aerial
+photographs that a small amount of seaward growth of the foredune occurred in the northern part
+of the development between 1967 and 1977.
+
+The 1982-83 El Nino resulted in significant changes at Bayshore (Jackson and Rosenfield, 1987;
+Komar, 1997).  Those changes, which are described in the previous section regarding outlet
+migration, resulted in placement of a large amount of rip rap to protect properties in the southern
+part of the Bayshore Development.  Records at Oregon Parks and Recreation Department
+(OPRD) indicate that in 1984 permits were issued for installation of rock rip rap extending from
+the northern edge of the Beach Club property (beach access 4) south around the end of the spit
+(Tony Stein written communication, 2011).
+
+Aerial photographs taken in 1984 and 1985 show a seaward enlargement of the vegetated dunes
+and an increase in vegetation on the dunes in management units 1-3, relative to 1977.  In
+management unit 4 and the northern part of management unit 5 the vegetated dunes do not
+enlarge seaward but the amount of vegetation cover increases dramatically between 1977 and
+1984-85.  Obvious erosion and landward retreat of the dunes begins in the southern part of
+management unit 5 and extends into management unit 7.  Rip rap is obvious in management
+units 5-8 on the photographs but not farther north.  The seaward edge of the foredune in
+management units 1-4 is a very distinct feature on the 1985 photography and appears to have
+been recently eroded.
+
+Aerial photographs taken in 1987 show a significant amount of recent sand deposition in the
+southern part of the planning area obscuring much of the rip rap.  In the northern part of the
+planning area the width of the vegetated dunes is similar to 1985 but the seaward edge of the
+dunes is not nearly as distinct as it is on the 1985 photographs.  In 1987 the beach has much
+more driftwood than in 1985 and there appears to be more sand, suggesting that the beach was
+accreting.
+
+The late 1980’s through the mid 1990’s were a period of recovery and accretion for the beach
+and dunes along Alsea Spit.  Komar (1998) reports that by 1997 the beach at Alsea Spit had fully
+recovered from the 1982-83 El Nino.  In 1997-98 the area was subjected to another strong El
+Nino immediately followed by a strong La Nina in the 1998-99 winter resulting in another period
+of erosion that threatened homes in the southern part of the planning area, some of which had
+reportedly been constructed seaward of the rip rap installed a decade earlier (Komar, 1998).
+Records at Oregon Parks and Recreation Department (OPRD) indicate that in 1999 several
+permits were issued for installation of additional rip rap at several locations in management units
+5, 6 and 7 (Tony Stein written communication, 2011).
+
+Aerial photographs taken in 2000 show the beach in management units 5-7 to locally have major
+erosion with several obvious areas of rip rap apparent.  The beach in front of management units 6
+and 7 is very narrow and eroded nearly to the rip rap.  The 2000 photography obviously records
+the erosion event that started during the 1997-98 El Nino.  In 2000 the foredune location in
+management units 1-4 is seaward of its location on the 1987 photographs and covered with
+scattered vegetation (except at the very north end of management unit 1 where it is similar to
+how it appeared in 1987).
+
+The ortho imagery from 2005-2009 lacks consistency and detail of the traditional aerial
+photography.  In some places such as management unit 1 the images document an obvious
+increase in vegetation during those years and seaward enlargement of the vegetated area.  In
+other areas the details are not obvious due to over exposure of the image and pixilation.
+Beginning in the late 1990’s LIDAR surveys became available and our documentation of change
+is done using that methodology which is described below.
+
+Changes in the Shoreline Location
+Figures 8A-B show the location of historic shorelines and the position of the shoreline as
+captured in 2011.  The shorelines were generated using various methods a description of which is
+contained in Appendix 4, however each can serve as a proxy for the location of the mean higher
+high water (MHHW) line.  The MHHW line is generally the average height of the highest high
+tides over a given interval of time.  The 1928 shoreline location is the eastern most and oldest of
+the available shorelines.  In management units 1 and 2 it is located very near and locally inland
+of the current foredune location.  The line then trends seaward through management units 3 and
+
+4 before migrating landward again in units 5, 6, and 7.  The next available shoreline is the 1967
+line which is located on average 100-200 feet west of the 1928 line through the middle of
+management unit 4 where it then trends seaward through the tip of the spit suggesting that the tip
+was much wider in 1967 than in 1928.  The 1997, 1998, and 2002 shorelines are derived from
+LIDAR data and bracket the El Nino erosion event that occurred during that time.  The 1997
+shoreline is generally west of the 1998 shoreline showing that indeed the beach underwent some
+amount of erosion during that time.  The erosion appears to be greatest in management units 4
+and 5 where the 1998 shoreline migrated to the east near and locally landward of the location of
+the shoreline in 1928.  This coincides with where many of the shore protection permits were
+issued in 1999 for lots within management unit 5.  The 2002 shoreline captures the subsequent
+accretion following the erosion event, especially in management units 5, 6, and 7.  The
+shorelines from 2007, 2008, 2010, 2011 in general show minor erosion relative to the 2007
+shoreline in the northern half of the planning area while the southern half including the tip shows
+general accretion.
+
+Changes in Beach Profiles
+Beach profiles are commonly used to compare and quantify changes over time on a section of
+beach.  Beach profiles at Bayshore have been measured using two methods: 1) surveying with a
+Real Time Kinematic Differential Global Positioning System (RTK-DGPS) unit and, 2) using
+elevation data acquired from LIDAR.  LIDAR data for the beach at Alsea Spit is available for the
+years 1997, 1998, 2002 and 2009.  Appendix 3 describes how profiles were generated using both
+methods.  For this report we show ten profiles to document change in the planning area.   Figures
+9A-B show the location of the profiles and Figures 10A-J show the profiles plotted.  The location
+of the Oregon Statutory Vegetation Line is shown on Figure 9 and on the x-axis of the plotted
+profiles (Figure 10).  The BFE and BFE + 4 feet is plotted on the Y-axis of the plots.   For all ten
+locations we generated profiles from the 1998, 2002 and 2009 LIDAR data.  Profiles 3, 5, 7,8
+and 9 were surveyed in May, 2011 with the RTK-DGPS and we show that data as well.  Profiles
+3, 5 and 8 have been monitored by DOGAMI and include the 1997 beach profile.  The 1997
+configuration was purposefully omitted from the other profiles to simplify them.
+
+The profiles show consistent trends.  In viewing the profiles it is important to keep in mind the
+timing of profile measurement relative to storm history.  The 1997 profiles were prepared from
+LIDAR data that was gathered before the 1997-98 El Nino event and the 1998 profiles were
+based on data collected after the 1997-98 El Nino.  Profiles 3, 5 and 8 clearly show erosion
+between 1997 and 1998, changes that are inferred to be related to the 1997-98 El Nino.  As
+previously discussed the Pacific Northwest was impacted by very large wave events several
+times in the winter of 1998-99 and once again in the winter of 2000.  Most of the 2002 profiles
+show some amount of landward retreat of the seaward edge of the dune system or erosion of the
+beach near the beach junction angle.  It is likely that most of the change between the 1998 and
+2002 profiles are due to the large wave events that occurred during the two winters after the 1998
+
+LIDAR data was collected.  The 2009 profiles essentially all show seaward growth of the
+foredune face relative to 2002 and many of them show an elevation increase of the foredune
+crest.  Profiles surveyed in 2011 show continued growth of the dune system both as a seaward
+migration of the foredune face and an elevation increase of the dune crest.
+
+Not all of the changes apparent on the profiles are related to natural events, some of the change is
+related to grading.  This apparently was the case on profile 7 where the dune was lowered about
+10 feet between 1998 and 2002 and on profile 9 where the dune was lowered by 4 feet between
+2002 and 2009.
+
+CURRENT BEACH TOPOGRAPHY
+Availability of  Sand for Grading
+The ability to grade the foredune is dependent on the elevation of the dune relative to the base
+flood elevation.  Goal 18 requires maintaining a foredune height that is 4 feet above the 100-year
+BFE for the velocity zone.  The most complete recent topographic data set for the foredune
+system at Bayshore is the 2009 LIDAR.  Figures 11A-H show LIDAR-derived contour maps of
+the planning area for each management unit.  On each figure there are up to three colors of
+contours.  The contour matching the BFE is shown as blue, the contours with values that exceed
+the base flood elevation by 4 feet are shown in red and all other contours are shown as grey.  The
+figures also show the footprints of the existing homes.  Three of the figures do not have any red
+contours because the elevation of the foredune in 2009 did not exceed the base flood elevation by
+4 feet in management units 1, 2 and 3.  The elevation of the foredune decreases to the north and
+in management units 1and 2 the vast majority of the foredune in 2009 was below the base flood
+elevation.
+
+The management units with the widest area of sand seaward of the homes that was available for
+grading, based on the 2009 topography, are management units 4 and 5.  The reasons for this are
+twofold: 1) areas within several of the management units had been graded prior to collection of
+the LIDAR data, and 2) the way sand is transported and deposited on the beach as discussed
+earlier.
+
+The 2011 survey of profile 3, located in management unit 3, shows the foredune crest to be 4 feet
+higher than it was in 2009 and essentially four feet above the base flood elevation (Figure 9C).
+The aerial photography taken in 2011 shows recent sand deposition along portions of the
+foredune along the entire management area and it is likely that the magnitude of change of the
+foredune crest in the northern management units between 2009 and 2011 is similar to the change
+at profile 3.  The topographic data collected in 2011 shows an overall increase in elevation of the
+dune crest in management units 4-7 (except where grading had lowered it below the 2009
+elevation).
+
+Changes in Sand Dune Elevations Since 2009
+A traverse made along the crest of the foredune from north to south using the RTK-DGPS
+beginning in the southern part of management unit 4 and ending in management unit 7.
+Elevation data was automatically collected every meter along the traverse.  The traverse was
+incorporated into the GIS and the elevation data was compared with elevations taken from the
+LIDAR digital elevation model at the same locations.  Figure 12 is plan view showing the
+location of the traverse and Figure 13 is a plot of the traverse showing elevations along it in 2009
+and 2011.  It is apparent from the traverse that elevations of portions of the traverse increased by
+1 to 9 feet.  Some areas remained the same or decreased in elevation and many of those are
+where grading had occurred.  Dune elevations in 2011 were only measured in one area north of
+the traverse and that was on profile 3, in management unit 3.  Profile 3 showed that the dune
+crest grew 4 feet in elevation between 2009 and 2011.  We expect that elsewhere in the northern
+part of the management area the foredune crest has grown in height on the order of 1 to 4+ feet.
+
+We also collected several hundred elevation points with the RTK-DGPS on the dune system in
+the southeast part of management unit 7.  That data, which is cumbersome to show, indicates
+several feet of vertical change.  Most of the change was positive indicating dune growth but
+some of the change was negative, indicating dune migration.  The maximum negative change
+measured was -3.65 feet, the maximum positive change was +8.96 feet and the average change
+measured was +3.77 feet.
+
+HUMAN FACTORS
+Human factors that influence the beach include installation of beachfront protective structures,
+establishment of stabilizing vegetation, construction of homes and development of trails for
+beach access and use.
+
+Beachfront Protective Structures
+Beachfront protection structures (aka shore protection structures), in the form of rip rap, exist in
+the southern half of the planning area.  Records at Oregon Parks and Recreation Department
+(OPRD) indicate permits were issued for installation of rock rip rap extending from the northern
+edge of the Beach Club property (approximate north edge of management unit 4) south around
+the end of the spit (Tony Stein written communication, 2011).  Permits were issued for riprap in
+1984 and 1999 with the 1999 permits being for repairs to the earlier rip rap that was damaged.
+The 1999 permits were issued for properties from the middle of management unit 5 into the
+northern part of management unit 7.
+Information regarding the location and height of the rip rap is highly variable.  There is very little
+documentation regarding much of the rip rap that was placed in 1984, especially in management
+unit 4.  The information that is available indicates that riprap placed in 1984 had a height above
+
+the beach ranging between 13 and 30 feet.  The 1999 permits state that riprap heights ranged
+from 18 to 30 feet.  The exact location of the rip rap relative to the existing homes is not
+consistently documented in the permit file.  A review of the permits indicates that the location of
+the rip rap varies from being 50 feet seaward of the homes to being directly beneath the seaward
+edge of the homes (Tony Stein, written communication, 2011).  The permit file is large and
+materials within it are not consistent.  Komar (1998) reports that some homes constructed
+between the mid 1980’s and the mid 1990’s were located seaward of the 1984 riprap.
+
+Review of the 1999 permits indicates that the repairs were made because the 1984 riprap was
+inadequate and not well constructed (Tony Stein, written communication, 2011).  Additional
+repairs are expected to be necessary when the area is once again subjected to ocean conditions
+that erode the foredune and expose or undermine the older rip.
+
+The existing rip rap is obviously not adversely affecting recent sand deposition at Bayshore since
+it has been completely buried for many years.  Sand accumulation rates at this site are so high
+that the riprap is not expected to be an adverse impact to future sand deposition when it
+ultimately becomes exposed in the next major erosion event.
+
+Establishment of Vegetation and Home Construction
+The establishment of European beach grass has led to major growth of the foredune system on
+Oregon’s beaches.  It is apparent on the older aerial photographs that, prior to development,
+blowing sand was not accumulating in significant amounts on Alsea Spit.  Instead, the sand was
+blowing off of the beach across the bare sand area and accumulating in a system of inland dunes
+in the northern part of the spit.  Establishment of European beach grass has helped retain much of
+the sand on the beach.  Construction of homes on the southern part of the spit has also resulted in
+significant sand deposition and retention.  Low lying areas on the leeward edges of homes are
+areas where sand is regularly deposited.  The homes constructed in the southern part of Bayshore
+do not have consistent elevations.  Many of the more recently constructed homes are at
+significantly higher elevations than homes which were constructed earlier because the dunes had
+grown in elevation in the period between when the older homes were constructed and when the
+newer homes were constructed.  This difference in elevation results in more sand being deposited
+on several of the older homes which are lower.  If sand was not removed by remedial grading
+many of the homes in management units 6 and 7 would, to a large extent, be buried by sand as a
+large dune develops.
+
+Trails Across Beach
+It is evident on the aerial photographs that an extensive informal social trail system exists at
+Bayshore.  Nearly every home has a trail that accesses the beach and locally there is a myriad of
+interconnected social trails (Appendix 1).  Although there are plenty of bare sand areas
+associated with the trails we did not identify areas where large erosion problems exist that are
+
+related to trail use, primarily due to the large amount of accretion that is occurring.  It is possible
+that vegetation damage related to trampling may be affecting colonization of the foredune where
+it is not completely vegetated.
+
+Vacant Lots
+Vacant lots exist in management units 1, 3, 4, 5 and 7.  The LIDAR data indicates that vacant
+lots in management unit 7 and the southern half of management unit 5 increased in elevation by
+several feet between 2002 and 2009.  The amount of change varies significantly, even on
+individual lots, ranging from no change to a gain of as much as 14 feet.  The two northern lots in
+management unit 5 show no significant elevation gain between 2002 and 2009 but the dune
+seaward of them showed significant growth.  This is inferred to be due to the orientation of the
+shoreline relative to the wind direction.  The vacant lots in management units 1, 3 and 4 did not
+experience change.
+
+The vacant lots which have accumulated significant sand in management units 5 and 7 are higher
+than surrounding areas and, during large wind events, wind transported sand is deposited on
+adjacent lower areas on their leeward sides.  This process has resulted in the build-up of large
+deposits of sand on adjacent areas.  Sand has also locally built up to a point where it can slough
+and fail onto adjacent lower lying portions of lots that have been cleared.
+
+Beach Access Areas
+There are 7 designated beach access locations in the planning area (Figure 3).  According to the
+Lincoln County Tax Assessors Maps the access areas range between 10 and about 22 feet in
+width.  Access 1, the northernmost, is shown to be about 22 feet wide, accesses 4, 6 and 7 are
+shown to be about 16 feet wide and the remainder have a width of about 10 feet.   The beach
+accesses function as trails across the dunes to the beach.  All of the accesses have been impacted
+by sand accumulations and growth of the foredune but the greatest impacts have been at the
+southern two accesses where sand has accumulated near NW Oceania Drive, particularly access
+6 which is bounded to the south by a vacant lot.  At least some of the access locations are likely
+routes for equipment for foredune grading.
+
+Sand Inundation Impacts
+Sand inundation has been an ongoing issue at Bayshore and it is referenced as far back as the
+mid-1970’s (USDA 1975).  However, discussions with residents and other individuals who have
+regularly visited or worked in the area indicate that the impacts have become more severe in the
+last few years.  Discussions with people who visited the area in the 1980’s report that sand
+inundation was an issue.   A photograph included in a draft dune management plan prepared
+sometime between the late 1980-s and mid 1990’s by Wilbur Ternyik shows a home partially
+buried by sand.  We have taken similar photographs of that same structure.
+
+Impacts include sand accumulation against structures (locally up to their roofs), burial of
+driveways, burial of front lawns and septic systems and burial of portions of Oceania Drive and
+Alsea Bay Drive.  Home access has been blocked, windows and garage doors damaged and walls
+are threatened by the load of the accumulated sand.  Accumulation of sand in the area between
+homes and Oceania Drive has buried water lines, water meters and fire hydrants.  Sand has
+accumulated within walls and on ceilings through vents which has reportedly resulted in collapse
+of a ceiling and damaged electrical wiring.  In many cases sand removed from driveways and the
+road surface of Oceania Drive has been piled along the shoulder of the road contributing to burial
+of the water system.  Sand that buries the water system inhibits emergency response making it
+impossible to access water valves and buried hydrants.  A dune management plan can help
+provide a mechanism to manage sand on the roads and improve emergency response capability.
+
+Accumulated sand has been removed through the remedial grading process and permitted by
+Lincoln County.  The Oregon Statutory Vegetation Line is located just seaward of the homes and
+Oregon State Parks and Recreation Department has issued numerous permits for disposal of sand
+on the beach seaward of the Vegetation Line.  Areas of recent grading are evident on the recent
+photography (Appendix 1) and it obvious from the aerial photography and the LIDAR data that
+remedial grading has been occurring for many years.
+
+CONCLUSIONS
+1. The planning area was “developed” prior to 1977 thus it does qualify for foredune
+grading.
+
+2. Inundation by wind blown sand at Bayshore has been a problem for many years and will
+continue.  Aerial photographs taken in 1939 and 1952 prior to development show large
+active sand dunes downwind.  The same processes that caused those dunes to develop
+exist today, the major difference is that sand is being deposited in the foredune rather
+than being transported across an open sand flat to inland dunes.
+
+3. Beachfront protective structures exist at the site.  These structures provide some level of
+protection to homes when the beach is subjected to a significant wave erosion event but
+they do not influence the deposition or erosion of sand by wind.
+
+4. The area will be subjected to future wave erosion events most likely in association with a
+strong El Nino.  Such erosion events will erode the foredune and likely expose the
+beachfront protective rip rap, possibly locally eroding it.  The area at greatest risk of
+impacts is located within management units 5-7.
+
+5. Northward outlet migration of Alsea Bay is likely to occur again during a very strong El
+Nino Event.  When that occurs portions of the beach are expected to be severely eroded
+by ocean waves, exposing the rip rap and resulting in placement of additional rip rap.
+
+6. A wider foredune has the potential to lower the risk for waves to erode all the way to the
+rip rap, depending on the severity of the wave event(s).  A dune management plan can
+provide the ability to help accomplish a wider foredune that can lower the risk of impacts
+if a dune with a sufficient width can be developed.
+
+7. Events that result in the erosion of the foredune will be followed by periods of accretion,
+foredune growth and, ultimately, future inundation problems.  Management of the
+foredune through a dune management plan earlier in the recovery process is expected to
+be more effective at reducing inundation impacts than implementing a program when
+impacts are severe.  However, a dune management plan will allow for a much more
+integrated approach to sand management to lessen impacts to the developments.
+
+ACKNOWLEDGEMENTS
+We are grateful to  Dr. Jonathon Allan of DOGAMI for providing copies of an extensive digital
+data set he has assembled, including DEMs of the gridded LIDAR data from 1997, 1998 and
+2002.  Dr. Allan also provided access to the RTK-DGPS and Laura Stimely of DOGAMI helped
+collect the topographic data.  Tony Stein of OPRD undertook the daunting task of the reviewing
+and trying to make sense of the extensive files regarding shore protection structures installed at
+Bayshore.  The staff of Lincoln County provided considerable support. Valerie Soilihi, Stewart
+Cowie and others at the Planning Department provided access to materials and a work space for
+viewing and scanning.  Eli Adam of Lincoln County provided GIS data.  Laren Woolley, through
+DLCD, helped to initiate this project, arranged for partial funding to Lincoln County and has
+provided support throughout it.  Don Best of Best Impressions Picture Company provided all of
+the aerial photographs.  Finally, we are grateful to the property owners at Bayshore for partial
+funding and encouragement.
+
+REFERENCES
+Allan, J. C. and P. D. Komar, 2002, Extreme stor ms on the Pacific Northwest Coast during the
+1997-98 El Nino and 2998-99 La Nina: Journal of Coastal Research, v. 18, no. 1, p. 175-193
+Allan, J.C. and R. Hart, 2005. A geographical in formation system (GIS) data set of beach
+morphodynamics derived from 1997, 1998, and 2002 LI DAR data for the central to northern
+Oregon coast, Oregon Department of Geology and Mineral Industries Open file report O-05-09.
+
+Allan, J.C. and P. D. Komar, 2005. Morphologies of Beaches and Dunes on the Oregon Coast,
+with Tests of the Geometric Dune-Erosion Mode l, Oregon Department of Geology and Mineral
+Industries Open file report O-05-08.
+Cooper, W. S., 1958, Coastal Sand Dunes of Oregon and Washington, Geological Society of
+America Memoir 72, 169p.
+
+Federal Emergency Management Agency (FEMA), 2009A.  Flood Insurance Study Number
+41041CV000A
+Federal Emergency Management Agency (FEM A), 2009B.  Flood Insurance Rate Map (FIRM)
+Community 41034 Panel 0662D
+Federal Emergency Management Agency (FEM A), 2009C.  Flood Insurance Rate Map (FIRM)
+Community 41034 Panel 0655D
+Federal Emergency Management Agency (FEMA), 2011, Flood Map Update Schedule,
+http://www.floodsmart.gov/floodsmart/pages/flooding_flood_risks/map_update_schedule.jsp
+
+Hunter, R. E., B. M. Richmond and T. R. Alpha , 1983.  Storm-controlled oblique dunes of the
+Oregon Coast, Geological Society of America Bulletin V. 94  p. 1450-1465.
+Jackson, P. L. and C. Rosenfield, 1987, Erosional Changes at Alsea Spit, Waldport, Oregon
+Oregon Geology, V. 49 No. 5  p. 55-59.
+Komar, P. D. , 1997, The Pacific Northwest Coast, Living with the Shores of Oregon and
+Washington: Duke University Press, Durham & London; 195 p.
+Komar, P. D., 1998a, Beach Processes and Sedimentation: Prentice Hall Inc., Englewood Cliffs;
+544 p.
+Komar, P. D., 1998b, El Nino and Coastal Erosion in the Pacific Northwest: Oregon Geology, V.
+60 No. 3  p. 57-65
+Komar, P. D. , W. G. McDougal,  J. J. Marra and P. Ruggier o, 1999, The rational analysis of
+setback distances – applications to the Oregon coast: Shore and Beach, v. 67, p. 41-49.
+LeFever, C and O. W. Swainson, 1928, Cape Perpetua to Alsea Bay, U.S. Doast and Geodetic
+Survey topographic sheet, Register No. 4413, surveyed May1 to August 25, 1928, 1:20,000 scale
+Lund, E.H. 1972 Coastal Landforms Between Yachats and Newport, Oregon,  The Ore Bin V.
+34, No. 5 p.73-91
+McCandless, D., 2009, National Shoreline Change Assessment Project-Oregon 1967 Shoreline.
+Coastal Monitoring & Analysis Program, Washington State Department of Ecology, Lacey,
+Washington.
+Northwest Association of Networked Ocean Observing Systems (NANOOS), 2001
+http://www.nanoos.org
+
+National Oceanic and Atmospheric Administration (NOAA), 2006, Coastal Services Center,
+Data web site: http://www.scs.noaa.gov/crs/tcm/
+Oregon Department of Land Conservation and Development (DLCD), 2010 Oregon’s statewide
+planning goals and guidelines: Department of Land Conservation and Land Conservation and
+Development, Salem, Oregon, 80 p.
+Priest, G. R., 1995, Tsunami Hazard Map of the Waldport Quadrangle, Lincoln County, Oregon,
+Oregon Department of Geology and Mineral Industries Open File Report O-93-31.
+Priest, G. R. and J. C. Allan, 2004, Evaluation of Coastal Erosion Hazard Zones Along Dune and
+Bluff Backed Shorelines in Lincoln County, Oregon: Cascade Head to Seal Rock, Technical
+Report to Lincoln County, Oregon Department of Geology and Mineral Industries Technical
+Report O-04-09.
+Priest, G.R. C. Goldfinger, K. Wang, R.Witter, Y. Zhang and A. M. Baptista, 2009, Confidence
+levels for tsunami-inundation limits in northern Oregon inferred from a 10,000 year history of
+great earthquakes at the Cascadia subduction zone,  Natural Hazards V.54, Number 1, pp 27-73.
+Ruggiero, P., P. D. Komar, W. G. McDougal and R. A. Beach, 1996, Extreme water levels, wave
+runup and coastal erosion: Proceedings of the 25
+th Conference on Coastal Engineering, ASCE,
+p.2793-2805.
+Schlicker H. G., R. J. Deacon, G. W. Olcott and J. D. Beaulieu, 1973.  Environmental geology of
+Lincoln County, Oregon, Oregon Department of Geology and Mineral Industries Bulletin 81,
+171 p.
+Stembridge, J.E. Jr. 1975, Recent shoreline changes of the Alsea sandspit, Lincoln County,
+Oregon, Ore Bin v. 37, No. 5 p. 77-82
+Ternyik, W. E. (undated) Bayshore Foredune Management Plan.  Draft management plan
+prepared for Bayshore Beach Club
+United States Department of Agriculture (USDA) Soil Conservation Service, 1975 Beaches and
+Dunes of the Oregon Coast Oregon Costal Conservation and Development Commission  March,
+1975
+Witter, R. C, J. C. Allan and G. R. Priest, 2007, Evaluation of Coastal Erosion Hazard Zones
+Along Dune and Bluff Backed Shorelines, Southern Lincoln County, Oregon: Seal Rock to Cape
+Perpetua, Oregon Department of Geology and Mineral Industries Technical Report O-07-03
+Wolter, K. and M. S. Timlin, 1993, Monitoring ENSO in COADS with a seasonally adjusted
+principle component index, Proceedings of the 17
+th Climate Diagnostics Workshop, Norman, OK,
+NOAA/NMC/CAC, NSSL, Oklahoma Clim. Surve y, CIMMS and the School of Meteorology,
+University of Oklahoma, p. 52-57
+Wolter, K. and M. S. Timlin, 1998, Measuring th e strength of ENSO ev ents – how does 1997/98
+rank?  Weather, V. 53 No. 9 p. 315-324
+
+Wolter, K. and M. S. Timlin, 2011, El Nino/Southern Oscillation behavior since 1871 as diagnosed
+in an extended multivariate ENSO index (MEI ex t.) International Journal of Climatology, Volume
+31, p. 1074-1087
+Wolter, K. 2011, Multivariate ENSO Index, http://www.esril.noaa.gov/psd/enso/mei/inex.html
+Wyrtki, K., 1975, Fluctuations of the dynamic topography in the Pacific Ocean: Journal of
+Physical Oceanography; v.5; p 450-459.
+Lincoln County
+Lane County Benton County
+Yaquina Head
+Cape Perpetua
+Newport
+Toledo
+Waldport
+Yachats
+Alsea R iver
+Yaquina River
+Newport Littoral Cell
+Bayshore Dune Management
+Planning Area
+State of Oregon
+Area
+of Detail
+Alsea Bay
+MU5
+MU3
+MU7
+MU4
+MU2
+MU6
+MU1
+MU8
+EXPLANATION
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 2,000
+Feet
+MU4
+ #
+ #
+ #
+ #
+ #
+BA4
+BA1
+BA2
+BA3MU3
+MU4
+MU2
+MU1
+EXPLANATION
+ # BEACH ACCESS
+STATUTORY VEGETATION LINE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+BA1
+ #
+ #
+ #
+Alsea Bay
+BA7
+BA5
+BA6MU5
+MU7
+MU6
+MU4
+MU8
+EXPLANATION
+ # BEACH ACCESS
+STATUTORY VEGETATION LINE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+BA1
+ #
+ #
+ #
+ #
+ #
+BA4
+BA1
+BA2
+BA3MU3
+MU4
+MU2
+MU1
+EXPLANATION
+ # BEACH ACCESS
+Coastal Erosion Hazard Zones-DOGAMI 2007
+Active hazard zone
+High hazard zone
+Moderate hazard zone
+Low hazard zone
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+BA1
+ #
+ #
+ #
+Alsea Bay
+BA7
+BA5
+BA6MU5
+MU7
+MU6
+MU4
+MU8
+EXPLANATION
+ # BEACH ACCESS
+Coastal Erosion Hazard Zones-DOGAMI 2007
+Active hazard zone
+High hazard zone
+Moderate hazard zone
+Low hazard zone
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+BA1
+1982-83 1997-98
+1
+31
+14
+±
+0 1,000
+Feet
+Legend
+Dune Management Plan Area
+FEMA Flood Hazard Zones
+with Base Flood Elevation/Depth
+AO
+AE
+VE
+14'
+24-34'
+Depth 1'
+29
+1
+±
+0 1,000
+Feet
+Legend
+Dune Management Plan Area
+FEMA Flood Hazard Zones
+with Base Flood Elevation/Depth
+AO
+AE
+VE
+14'
+24-34'
+Depth 1'
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+ #
+ #
+ #
+ #
+ #
+BA4
+BA1
+BA2
+BA3MU3
+MU2
+MU4
+MU1
+EXPLANATION
+ # BEACH ACCESS
+Shorelines (MHHW)
+1928 T-sheet
+1967 photo
+! !
+1997 lidar
+! !
+1998 lidar
+! !
+2002 lidar
+2007 GPS
+2008 GPS
+2010 GPS
+2011 GPS
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+BA1
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+! ! !
+!
+!
+!
+!
+! !
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+! !
+!
+!
+!
+!
+! !
+!
+!
+ #
+ #
+ #
+Alsea Bay
+BA7
+BA5
+BA6MU5
+MU7
+MU6
+MU4
+MU8
+EXPLANATION
+ # BEACH ACCESS
+Shorelines (MHHW)
+1928 T-sheet
+1967 photo
+! !
+1997 lidar
+! !
+1998 lidar
+! !
+2002 lidar
+2007 GPS
+2008 GPS
+2010 GPS
+2011 GPS
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+BA1
+2
+MU3
+MU4
+MU2
+MU1
+EXPLANATION
+BEACH PROFILES
+STATUTORY VEGETATION LINE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+7
+Alsea Bay
+5
+10
+9
+7
+MU5
+MU7
+MU6
+MU4
+MU8
+EXPLANATION
+BEACH PROFILES
+STATUTORY VEGETATION LINE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+7
+ELEVATION (NAVD88) FT
+PROFILE 1
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2002
+2009
+BFE
+BFE+4FT
+1998
+ELEVATION (NAVD88) FT
+PROFILE 2
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2002
+2009
+BFE
+BFE+4FT
+1998
+ELEVATION (NAVD88) FT
+PROFILE 3
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+NO DATA POINTS
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2011
+2002
+2009
+1998
+1997
+BFE
+BFE+4FT
+ELEVATION (NAVD88) FT
+PROFILE 4
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2002
+2009
+BFE
+BFE+4FT
+1998
+HORIZONTAL DISTANCE (FT)
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+PROFILE 5
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+ELEVATION (NAVD88) FT
+2011
+2002
+2009
+1998
+1997
+BFE
+BFE+4FT
+ELEVATION (NAVD88) FT
+PROFILE 6
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2002
+2009
+BFE
+BFE+4FT
+1998
+ELEVATION (NAVD88) FT
+PROFILE 7
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2011
+2002
+2009
+BFE
+BFE+4FT
+1998
+30
+40
+50
+100 200 300 400 500 600 700 800
+ELEVATION (FT), NAVD88
+HORIZONTAL DISTANCE (FT)
+PROFILE 8
+MHHW
+(7.61 FT)
+WE
+STATUTORY
+VEGETATION
+LINE
+2011
+2002
+2009
+1998
+1997
+BFE
+BFE+4FT
+ELEVATION (NAVD88) FT
+PROFILE 9
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2011
+2002
+2009
+BFE
+BFE+4FT
+1998
+ELEVATION (NAVD88) FT
+PROFILE 10
+HORIZONTAL DISTANCE (FT)
+MHHW
+(7.61 FT)
+STATUTORY
+VEGETATION
+LINE
+0
+10
+20
+30
+40
+50
+100 200 300 400 500 600 700 800
+W
+2002
+2009
+BFE
+BFE+4FT
+1998
+EXPLANATION
+Management Unit 1
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE = 31ft
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 250
+Feet
+EXPLANATION
+Management Unit 2
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE = 34
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 250
+Feet
+EXPLANATION
+Management Unit 3
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE = 32ft
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 300
+Feet
+EXPLANATION
+Management Unit 4
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE = 31ft
+4ft+ above BFE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 250
+Feet
+EXPLANATION
+Management Unit 5
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE= 31ft
+4ft+ above BFE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 300
+Feet
+8
+EXPLANATION
+Management Unit 6
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE = 29ft
+4ft+ above BFE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 250
+Feet
+5
+EXPLANATION
+Management Unit 7
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE = 24ft
+4ft+ above BFE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 250
+Feet
+Alsea Bay
+6
+EXPLANATION
+Management Unit 8
+2009 Lidar 1ft Contour Interval (NAVD88)
+Contour
+BFE = 14ft
+4ft+ above BFE
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 250
+Feet
+ #
+ #
+ #
+Alsea Bay
+BA7
+BA5
+BA6
+MU5
+MU6
+MU7
+MU4
+MU8
+EXPLANATION
+ # BEACH ACCESS
+Dune Crest Traverse
+Dune Management Plan
+Management Units
+Plan Area
+±
+0 500
+Feet
+MU4
+BA1
+MANAGEMENT UNIT 5MANAGEMENT
+UNIT 4
+RECENT
+GRADING
+MANAGEMENT UNIT 5
+MANAGEMENT UNIT 5 MANAGEMENT UNIT 6 MANAGEMENT UNIT 7
+020
+30
+40
+50
+100 200 300 400 500 600 700 800 900 1000
+ELEVATION (NAVD88) FT
+HORIZONTAL DISTANCE (FT)
+SN60
+1100
+2011
+2009
+BFE
+BFE+4FT
+110020
+30
+40
+50
+1200 1300 1400 1500 1600 1700 1800 1900 2000 2100
+ELEVATION (NAVD88) FT
+HORIZONTAL DISTANCE (FT)
+SN60
+2200
+2011
+2009
+BFE
+BFE+4FT
+220020
+30
+40
+50
+2300 2400 2500 2600 2700 2800 2900 3000 3100 3200
+ELEVATION (NAVD88) FT
+HORIZONTAL DISTANCE (FT)
+SN60
+3300
+2011
+2009
+BFE
+BFE+4FT
+APPENDIX 1A
+A
+B
+APPENDIX 1B
+A
+B
+APPENDIX 1C
+A
+B
+APPENDIX 1D
+A
+B
+APPENDIX 1E
+A
+B
+APPENDIX 1F
+A
+B
+
+APPENDIX 2
+Lidar Description
+LIDAR (Light Detection and Ranging) data consists of x, y, and z values of land topography that
+are derived using an airborne laser surveying system mounted on an aircraft at sufficient
+elevation and velocity to acquire a value of the surface elevation at spatial densities greater than
+one elevation measurement per square meter. The position of the aircraft is recorded by an
+onboard geodetic grade Global Positioning System (GPS) receiver, while an onboard inertial
+measuring unit provides three-dimensional aircraft orientation. The GPS data are then combined
+with signals collected concurrently by a nearby GPS base station, which allows for differential
+kinematic GPS post-processing to determine the aircraft’s flight trajectory to within 5 cm.  The
+collected data consists of a huge data set that is post-processed and reduced into a digital
+elevation model (DEM) that provides an elevation value for each m2 of area surveyed.  This data
+can then be used by Geographic Information Systems (GIS) software to generate representations
+of the DEM including, but not limited to, hillshade views, contour maps and slope profiles.  In
+some instances the LIDAR data is not processed to differentiate between the ground surface and
+the vegetation and in other cases it is.
+LIDAR data from two different sources were used in this project.  LIDAR data collected in 1997,
+1998 and 2002 was collected jointly by NASA/USGS/NOAA as part of two separate Airborne
+LiDAR Assessment of Coastal Erosion (ALACE) Projects to monitor portions of the US
+coastline.  The data is available from the NOAA Coastal Service Center.  We were provided
+DEMs generated by Dr. Allan who had downloaded the data and processed it.  The ALACE
+project data set does not differentiate between the ground surface and vegetation but because it is
+of the beach it essentially measures the ground surface.  The 1997 and 1998 LIDAR elevation
+points are known to be horizontally accurate to +/- 0.8 meters at an aircraft altitude of 700 meters
+and raw elevation measurements have been determined to be vertically accurate to within 15 cm.
+Processing steps (datum conversion, projection, grid interpolation, etc.) can introduce additional
+error factors that are discussed by Allen and Hart (2005).  The 2002 LIDAR elevation points are
+estimated to be horizontally accurate to +/- 0.8 meters at an aircraft altitude of 700 meters. Raw
+elevation measurements are estimated to be vertically accurate to within 15-20 cm.
+ The 2009 LIDAR data is from projects managed by the Oregon Department of Geology &
+Mineral Industries (DOGAMI), who contracted with Watershed Sciences, Inc. to collect high
+resolution topographic LiDAR data for multiple areas within the state of Oregon. The areas for
+LiDAR collection have been designed as part of a collaborative effort of state, federal, and local
+agencies in order to meet a wide range of project goals.  The 2009 data set consists of bare earth
+and unclassified points. The average pulse density is 8.61 points per square meter over terrestrial
+surfaces. Project specifications required the LiDAR foot print to fall within 0.15 and 0.40 meters.
+The final vertical accuracy value for the entire project is 0.11 ft (0.03 m) RMSE.  Additional
+information regarding this data can be obtained from the following report:
+ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/or/north_coast/NC_Data_Report_Delivery_Area_FINA
+L_compressed.pdf
+
+APPENDIX 3
+Profile Methods
+On May 10, 2011 numerous field data were collected with technical assistance provided by
+DOGAMI.  A backpack mounted Real Time Kinematic Differential Global Positioning System
+(RTK-DGPS) unit was used to survey 7 profiles on the beach within the Bayshore development.
+In addition to the profiles the area of major sand inundation on the southern tip of the spit and the
+area immediately seaward of the homes extending north approximately 3,200 feet were surveyed
+to quantify changes that have occurred since the 2009 LIDAR data set was collected.  The mean
+higher high water (MHHW) line was also surveyed at this time.  The RTK-DGPS system
+consists of a base station and radio transmitter setup at a known location that sends corrected
+GPS information to the backpack unit (NANOOS, 2011).  The elevation data is collected in the
+North American Vertical Datum of 1988 (NAVD88).  The data were downloaded and processed
+by DOGAMI and supplied to us as raw coordinates in a comma separated values (csv) file
+format.  The raw data was imported into surveying software where the individual cross sections
+and other transects were split out and exported as CAD drawing files.  The drawing files were
+imported into CAD software and were also converted to shapefiles for use in ArcMap GIS
+software.
+
+Additional profiles were generated from LIDAR (Light Detection and Ranging) data sets from
+1997, 1998, 2002, and 2009.  Digitial elevation models (DEM) for the 1997, 1998, and 2002
+LIDAR data sets were generated by DOGAMI for use in this project.  The data was originally
+collected through a partnership of federal agencies for the Airborne LIDAR Assessment of
+Coastal Erosion (ALACE) Project (ALACE, 1998 and 2002).  These data contain only first
+return data points and have not been further processed to remove returns from water or
+vegetation.   The 2009 LIDAR data set was collected by DOGAMI as part of a collaborative
+effort of state, federal, and local agencies in order to meet a wide range of project goals.  This
+data set includes bare earth and unclassified points.  The bare earth DEM was used in the
+generation of profiles for this project.
+
+All of the profiles were generated from the DEMs using ArcMap and its extensions and saved as
+shapefiles.  The attributes of the shapefiles were exported to Excel which was used to generate a
+series of files that could then be imported into CAD and viewed over-lapping in order to
+visualize temporal changes along each profile.  Figures 10A-J were then given a vertical
+exaggeration of 10-times in order to better see the morphological changes that have occurred.
+
+APPENDIX 4
+Shorelines
+Shorelines for various years are shown in Figures 8A-B.  The 1928 and 1967 shorelines are used
+as a proxy for the mean higher high water (MHHW) line which is the average of the higher high
+tides for each day observed over the National Tidal Datum Epoch.  When determining the
+shoreline from tide gauge data the nearest gauge is used to account for local variability of the
+tides.  The 1928 shoreline was digitized by NOAA from National Ocean Service (NOS) T-sheets
+where the surveyed shoreline represents the high water line as it existed at the time of the survey
+(LeFever and Swainson, 1928).  This can then be used as an approximation of the MHHW line.
+The 1967 shoreline was digitized by the Washington State Department of Ecology for use by the
+United States Geological Survey in order to compare historical shorelines to modern-day
+shoreline data obtained by LIDAR.  The approach used to generate the 1967 line was to scan,
+geo-reference, triangulate with ground points, ortho-rectify and mosaic individual aerial photos
+and to then digitize the wet-dry sand line that most closely corresponded to the MHHW given the
+tidal conditions at the time the photos were taken (McCandless, 2009).  The shorelines for 1997,
+1998, and 2002 were generated using LIDAR data, and local tide gauges were used to determine
+the elevation (NAVD88) of the MHHW line during those times (Allan and Hart, 2005).
+Recently, DOGAMI has begun mapping the MHHW line using a RTK-DGPS system.  The
+2007, 2008, 2010, and 2011 shorelines were generated using this system and provided to us by
+DOGAMI (Allan, unpublished data).  These shorelines represent the MHHW for the spring
+season in Lincoln County.

@@ -1,0 +1,232 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lincoln-county
+id: lincoln-land-use-appendix-k-measures-of-effectiveness-pdf
+title: 'Appendix-K-Measures-Of-Effectiveness-PDF'
+doc_type: ordinance
+citation: 'Appendix-K-Measures-Of-Effectiveness-PDF'
+authority_level: county_ordinance
+issuing_body: 'Lincoln County Board of Commissioners'
+source_url: https://www.co.lincoln.or.us/DocumentCenter/View/1175/Appendix-K-Measures-Of-Effectiveness-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 19afa86d61e06f88442bb93cad53698a32ae05079d3b83bc903f62b9922ea15f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lincoln-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lincoln County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Appendix-K-Measures-Of-Effectiveness-PDF (Appendix-K-Measures-Of-Effectiveness-PDF)
+
+## At a glance
+
+Appendix-K-Measures-Of-Effectiveness-PDF — land use of Lincoln County. 4 pages.
+
+## Full text
+
+TECHNICAL  MEMORANDUM
+
+Lincoln County Transportation System Plan:
+Evaluation Process and Measures of Effectiveness
+PREPARED FOR: John deTar, ODOT Region 2 Planning
+Matt Spangler, Lincoln County Planning and Development Department
+Jim Buisman, Lincoln County Public Works Department
+PREPARED BY: Darren Muldoon, CH2M HILL
+DATE: June 15, 2006
+
+The purpose of this memorandum is to propose (1) an evaluation process; (2) an evaluation
+scoring system; and (3) measures of effectiveness – for use in evaluating proposed
+improvements and developing the preferred alternative for the Lincoln County
+Transportation System Plan (TSP) (prepared for ODOT under agreement #23238, work
+order #40). This memorandum fulfills the requirements of Task 4.1 in the project scope.
+Evaluation Process
+The Transportation Planning Rule (TPR) direct TSPs to be based on an evaluation process to
+identify the impacts of potential projects and improvements for evaluating transportation
+system alternatives. According to the TPR, system alternatives should:
+• Provide types and levels of transportation facilities and services appropriate to serve
+land uses identified in the acknowledged comprehensive plan;
+• Be consistent with state and federal air quality, land use, and water quality
+standards;
+• Facilitate connections (minimize conflicts) between modes of transportation; and
+• Avoid principal reliance on any one mode of transportation/ reduce principal
+reliance on the automobile.
+For the Lincoln County TSP, the evaluation process will (1) guide the identification and
+evaluation of potential transportation improvements and projects that will provide for a
+safe, adequate, connected transportation system throughout Lincoln County for the next 20
+years, and (2) prioritize the recommended transportation improvements and projects.
+Proposed projects will address capacity improvements, safety improvements, intersection
+improvements, pedestrian and bicycle improvements, other roadway needs (parking and
+bridge improvements), and improvements to address other modes of transportation (air,
+rail, water, and public transportation).
+In developing and evaluating system alternatives, ODOT TSP guidelines state the following:
+• “Communities are advised to scale their analysis to a reasonable level based on the
+size of the community and the complexity of the transportation issues,” and;
+
+• “Smaller communities with less complex transportation issues may find an
+abbreviated analysis adequate to meet their needs.”
+Based on this understanding, the projects evaluated and recommended for the Lincoln
+County TSP are proposed to be evaluated by project type. Proposed project types are:
+• Safety (mostly county and state roadways)
+• Capacity (mostly county road/state hwy intersections)
+• Transit and TDM
+• Bicycle and Pedestrian
+• Intermodal and Freight (including air, water, rail, pipelines)
+
+The following summarizes key steps in the evaluation process:
+1. Identify potential improvements and projects;
+2. Evaluate potential improvements and projects within each project type (listed
+above);
+3. Determine which improvements and projects are not recommended, based on the
+proposed evaluation criteria (measures of effectiveness and scoring system,
+described below);
+4. Prioritize remaining improvements and projects;
+5. Include recommended improvements and projects in the TSP for County adoption.
+A general scoring system was developed to evaluate proposed improvements and projects.
+This scoring system and the general definitions are illustrated in Exhibit 1.
+EXHIBIT 1
+General Score Definitions
+Score General Score Definitions
++ Project addresses the goal an d meets the goal’s objectives
+0 Neither good, nor bad, or not applicable
+- Project does not address the goal or has an adverse impact on the goal’s
+objectives
+
+Measures of Effectiveness
+Proposed measures of effectiveness were developed for the evaluation process to identify
+and evaluate potential transportation improvements and projects (Exhibit 2). The analysis
+proposes ten measures to determine project priorities. These measures are:
+• Mobility
+• System Capacity
+• Safety
+• Accessibility
+
+• Coordination
+• Non-Motorized Users
+• Feasibility
+• Environment
+• Cost
+• Lifeline Routes
+Priorities for projects will be determined by assigning a priority number of 1 to 4, with 1
+meaning the highest priority and 4 meaning the lowest priority. The prioritized list of
+projects will make up the TSP to be adopted by the County.
+EXHIBIT 2
+TSP Measures of Effectiveness
+Measure and Goal Rating Project Criterion
++ Improves mobility and meets mobility standard
+0 Does not significantly improve or decrease mobility
+Mobility (v/c ratio):
+Provide a viable
+transportation system that
+meets state and local
+mobility standards
+- Decreases mobility and does not meet mobility standard
++  Provides additional capacity to the system and improves the
+operating conditions at deficient locations
+0 Does not significantly improve capacity of the system
+System Capacity: Provide
+a transportation system that
+maintains adequate levels
+of capacity.
+- Decreases capacity to levels below TSP guidelines
++ Improves safety for users
+0 Does not significantly change roadway/facility safety
+Safety: Provide a
+transportation system that
+maintains adequate safety
+levels for all users - Decreases safety or creatues unsafe conditions for users
++ Provides or improves new transportation options or
+connectivity to serve different types of users (i.e. bikes,
+pedestrians, freight, street connections)
+0 Does not significantly change transportation options or
+connectivity
+Accessibility: Develop a
+transportation system that
+will improve connectivity
+and transportation options,
+and thus support economic
+development
+- Limits the transportation options or connectivity of the system
++ Included as part of other local, county, regional or state
+policies or plans
+0 Not specifically mentioned in other policies or plans, but not
+out of compliance with such plans
+Coordination: Maintain a
+TSP that is consistent with
+the goals and objectives of
+the TPR and relevant state,
+regional, and local plans
+and policies.
+- Indirectly or specifically identified as being not in compliance
+with other plans and policies
++ Improves the transportation system for bicycle, pedestrian,
+and non-motorized users. The improvement is expected to
+serve moderate levels of non-motorized users (i.e. near
+schools, unincorporated urbanized areas)
+0 Does not significantly change existing non-motorized facilities.
+The improvement is not expected to serve many non-
+motorized users.
+Non-Motorized Uses:
+Provide non-motorized
+facilities to serve commuter
+and recreational users
+- Reduces some or key connectivity, safety, or aesthetics of
+existing non-motorized facilities.
+Feasibility: Identify
+reasonable transportation
++ The project has no barriers, or some barriers but they are not
+considered significant, or the project is already
+
+EXHIBIT 2
+TSP Measures of Effectiveness
+Measure and Goal Rating Project Criterion
+approved/funded
+0 The project has barriers, but the project is recommended in
+another adopted plan
+improvements and projects
+- The project is costly, would require right-of-way acquisition, or
+would have significant environmental impacts.
++ Enhances environmentally significant areas or social goals, or
+both
+0 No impact to environmentally significant areas or social goals,
+or both
+Environment or Social:
+Provide a transportation
+system that balances
+transportation services with
+the need to protect the
+environment, and  meet
+social goals.
+-  Adversely impacts environmentally significant areas or social
+goals, or both
+L The project cost is likely to be less than $100,000
+M The project cost is likely between $100,000 to $500,000
+Cost: Provide reasonably
+accurate cost estimate to
+base funding requests
+H The project cost is likely to be greater than $500,000
++ Creates a new lifeline route or improves the effectivness and
+connectity of an existing lifeline route
+0 Does not significantly change the quality or identification of a
+lifeline route
+Lifeline Routes: Provide
+links for county residents
+and through traffic in the
+event of an emergency
+- Removes key connectivity or adversely affects the
+effectiveness or connectivity of a lifeline route

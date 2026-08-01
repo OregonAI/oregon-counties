@@ -1,0 +1,7141 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-land-use-article-3-structure-siting-and-development-standards-amended
+title: 'ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16'
+doc_type: ordinance
+citation: 'ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://clatsopcounty.gov/DocumentCenter/View/3933/ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 173ae85e6341ba84fce36004a5dbab9679a787aea38a1abf6c22290c58556ecc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 100.023
+    - ORS 181A.410
+    - ORS 195.137
+    - ORS 195.300
+    - ORS 195.550
+    - ORS 197.015
+    - ORS 197.732
+    - ORS 215.130
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.215
+    - ORS 215.246
+    - ORS 215.263
+    - ORS 215.283
+    - ORS 215.293
+    - ORS 215.402
+    - ORS 215.416
+    - ORS 215.448
+    - ORS 215.740
+    - ORS 215.750
+    - ORS 215.780
+    - ORS 30.930
+    - ORS 30.936
+    - ORS 321.359
+    - ORS 329A.440
+    - ORS 368.001
+    - ORS 390.770
+    - ORS 401.165
+    - ORS 433.750
+    - ORS 448.119
+    - ORS 454.695
+    - ORS 455.055
+    - ORS 459.245
+    - ORS 468B.050
+    - ORS 476.510
+    - ORS 477.490
+    - ORS 526.455
+    - ORS 537.545
+    - ORS 603.038
+    - ORS 621.072
+    - ORS 624.010
+    - ORS 658.750
+    - ORS 757.300
+    - ORS 757.365
+    - ORS 801.580
+    - ORS 90.100
+    - ORS 94.779
+    - OAR 333-333-5250
+    - OAR 340-096-0150
+    - OAR 660-006-0025
+    - OAR 660-006-0040
+    - OAR 660-011-0060
+    - OAR 660-033-0020
+    - OAR 660-033-0120
+    - OAR 660-033-0130
+    - OAR 660-033-0135
+  related: []
+  supersedes: []
+tags: [clatsop-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16 (ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16)
+
+## At a glance
+
+ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16 — land use of Clatsop County. 159 pages.
+
+## Full text
+
+Clatsop County Land and Water III-1 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+ARTICLE 3.
+STRUCTURE SITING AND DEVELOPMENT STANDARDS
+SECTION 3.0000. SITE ORIENTED IMPROVEMENTS
+Section 3.0010. Calculating Average Grade and Building Height
+The height of a structure is measured by first finding the average grade of the
+undisturbed ground at the four corners of the proposed structure. To determine height:
+[ORD 25-02]
+A. When the height of a proposed building
+is within two feet of the maximum
+height limit allowed in the zone, the
+applicant shall submit plans that show
+the elevations of the undisturbed
+ground prior to construction. The
+elevations shall be measured at the
+four corners of the proposed structure
+(Figure 1). A permanently accessible
+control point shall be established
+outside of the building’s footprint.
+B. Photographs of the undisturbed site
+shall be required when the proposed
+structure is two feet or less below the
+maximum building height allowed in the
+zone. Photographs do not need to be
+professional or aerial photographs. Photographs shall show the undisturbed
+ground where the structure will be located prior to beginning construction.
+C. Prior to final inspections, a survey prepared by a licensed surveyor shall be
+submitted to the Community Development Department to verify the height of the
+structure (Figure 2). This requirement only applies when the structure is two feet
+or less below the minimum building height allowed in the zone.
+
+Figure 1: Calculating Average Grade
+Figure 2: Measuring Building Height
+
+Clatsop County Land and Water III-2 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.0020. Grading of Building Site.
+The grading of a building site shall conform to the standards contained in this
+Ordinance.
+Section 3.0030. Special Site Development for Environmental Protection
+Special requirements for environmental protection are specified in Article 6 of this
+document. Sewage systems shall be allowed in areas outside the Urban Growth
+Boundary only to alleviate a health hazard or water pollution problem identified by the
+Oregon Department of Environmental Quality.  [ORD 25-02]
+Section 3.0040. Water Improvement Standards
+All new development shall demonstrate a year-round supply of at least 250 gallons of
+water per day per unit by one of the following sources: [ORD 25-02]
+Source Proof
+Public or Community
+Water
+Written correspondence from the water district stating
+water service can be provided to the residential unit or
+can be provided if specific requirements are met
+Well/Groundwater 1. Well log data from a certified well driller verifying
+quantity
+2. Potability test from certified water lab.
+3. Recorded easement, if an easement is utilized
+4. If more than three dwelling units will utilize the
+well, the system must meet potable requirements
+of ORS 448.119 to 448.285.
+Surface Water 1. Permit from the State of Oregon Water Resources
+Department for domestic water right showing at
+least .005 CFS (2.25 gals/min).
+2. Potability test from certified water lab.
+Rainwater Catchment
+System
+Rainwater catchment system design approved by
+Clatsop County Building Codes for the required water
+supply
+
+Compliance with this standard does not ensure a year-round source of potable water.
+[ORD 25-02]
+Section 3.0050. Off-Street Parking Required
+Off-street parking and loading shall be provided as described in Sections 3.0050 to
+3.0120. Parking calculations at or above 0.5 will be rounded up to the nearest whole
+number, while decimals below 0.5 will be rounded down to the nearest whole number.
+The minimum standard for parking shall be one (1) parking space,  unless noted
+otherwise. [ORD. 23-07] [ORD. 25-02]
+
+Clatsop County Land and Water III-3 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+EXAMPLE: If a parking calculation would require 3.5 spaces, applicants
+shall be required to provide 4 parking spaces. If a parking calculation
+requires 3.4 spaces, an applicant shall be required to provide 3 parking
+spaces.
+Section 3.0060. Minimum Off-Street Parking Requirements
+Uses are allowed to provide up to 30% of the required number of parking spaces,
+except ADA-required spaces, as compact spaces. Compact spaces shall measure no
+less than 7 feet wide by 15 feet long and each compact space shall be clearly marked
+“Compact”. [ORD. 25-02]
+The minimum off-street parking space requirements are as follows: [ORD.23-07]
+1) Residential type of development and number of parking spaces. [ORD. 23-
+07, ORD. 24-14] [ORD. 25-16]
+KSF: 1,000 Square Feet
+GHFA: Gross Habitable Floor Area
+GLA: Gross Leasable Area
+
+Affordable Housing 1 space per dwelling unit.
+Cottage Cluster Development 1 space per cottage cluster dwelling
+Dwelling, Accessory 0 spaces per dwelling unit
+Dwelling, Attached 2 spaces per dwelling unit
+Dwelling, Detached 2 spaces per dwelling unit
+Dwelling, Duplex 1 space per dwelling unit
+Dwelling, Health Hardship 0 spaces per dwelling unit
+Dwelling, Multi-Unit 1 space per dwelling unit
+Dwelling, Quadplex 1 space per dwelling unit
+Dwelling, Triplex 1 space per dwelling unit
+Employee Housing 1 space per dwelling unit
+Family child care home. [ORD.
+23-04]
+No additional spaces other than the 2 parking
+spaces required for the dwelling unit. [ORD. 23-04]
+Manufactured Home Park 1 per mobile home site, plus 1 per site for guest
+parking at a convenient location
+Planned development As requested for each proposal
+Transient Lodging 1 space per guest room, plus 1 space per 2
+employees.
+2) Commercial type of development and number of parking spaces. [ORD. 23-
+07]
+KSF: 1,000 Square Feet
+
+Clatsop County Land and Water III-4 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+GHFA: Gross Habitable Floor Area
+GLA: Gross Leasable Area
+
+Auto, Boat, Trailer, RV sales 2.7 spaces per ksf GHFA interior sales area,
+1.5 spaces per service bay.
+Automobile Service Station 2 spaces per service bay.
+Convenience Store with Gas Pumps 8 spaces per ksf GHFA
+General Retail or Personal Service 3 spaces per ksf GHFA
+Retail or Discount Grocery 5 spaces per ksf GHFA
+Health/Fitness Club 4.5 spaces per ksf GHFA
+Home Improvement Stores 5 per ksf GHFA
+Food and Beverage
+Casual Restaurant  0.45 spaces per seat, plus 1 space per
+employee on largest shift
+Coffee Kiosk
+2 spaces. Drive-thru coffee kiosks are not
+intended for onsite consumption of products.
+Two spaces would allow for an ADA
+accessible space and space for the
+employee or manager
+Fast Food, with Drive-Thru 0.34 spaces per seat
+Fast Food, without Drive-Thru 0.5 spaces per seat
+Fine Dining 0.5 spaces per seat, plus 1 space per
+employee on largest shift
+Winery 15 spaces per ksf GHFA in tasting room
+Entertainment
+Event Center, Racetrack, Recreation
+Complex, Stadium, Theater, or similar
+use
+0.4 spaces per seat
+Professional/Medical
+Animal Hospital/Veterinary Clinic 3 spaces per ksf for GHFA
+Clinic  4 spaces per ksf GHFA
+General Office  3 spaces per ksf for GHFA
+Financial Institution 3.5 spaces per ksf GHFA
+Medical or Dental Office  3.5 spaces per ksf GHFA
+
+Clatsop County Land and Water III-5 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+3) Institutional, public and quasi-public type of development and number of
+parking spaces. [ORD. 23-07] [ORD. 25-16]
+KSF: 1,000 Square Feet
+GHFA: Gross Habitable Floor Area
+GLA: Gross Leasable Area
+
+Child care center [ORD. 23-04] Exempt from off-street parking
+requirements
+Congregate Care Facility 0.3 spaces per dwelling unit
+Elementary, Middle and High Schools .35 spaces per student
+Family Child Care Home 0 additional spaces beyond 2 spaces
+required for single-unit dwelling
+Golf course 8 per hole
+Hospital 3 spaces per 1,000 ksf GHFA
+Institutions of Higher Education Determined by parking study specific to
+subject institution
+Marina 0.5 spaces per berth
+Nursing Home 1 space per 3 beds
+Religious Institution or Assembly 0.5 spaces per seat
+Senior Housing, Assisted Living 0.4 spaces per dwelling unit
+
+4) Industrial type of development and number of parking spaces. [ORD. 23-07]
+KSF: 1,000 Square Feet
+GHFA: Gross Habitable Floor Area
+GLA: Gross Leasable Area
+
+Heavy Industrial 1 space per ksf GHFA
+Industrial Park 1.2 spaces per ksf GHFA
+Light Industrial 1 space per ksf GHFA
+Mini-Storage 0.25 per spaces ksf GHFA
+Specialty Trade, Contractor or General
+Contractor
+1.75 spaces per ksf of gross leasable floor
+area
+Trucking Terminal 1 space per employee on largest shoft
+Utility 2 spaces per ksf GHFA
+Warehouse 0.5 spaces per ksf GHFA
+5) Requirements for building or development not specifically listed herein shall be
+determined by the Community Development Director based upon the
+requirements of comparable uses listed.
+
+Clatsop County Land and Water III-6 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+6) The number of minimum required parking spaces may be reduced by up to 10%
+if:
+A. The proposal is located within a ¼ mile of an existing or planned transit
+route, and;
+B. Transit-related amenities such as transit stops, pull-outs, shelters, park-
+and-ride lots, transit-oriented development, and transit service on an
+adjacent street are present or will be provided by the applicant, or,
+C. Site has a minimum of two dedicated parking spaces for motorcycles.
+Section 3.0070. Off-Street Parking Restrictions
+1) Parking spaces in a public or private street, including an alley, shall not count
+towards the required off-street parking total. [ORD. 25-02]
+2) Required parking spaces may be located on land owned or leased by the
+business requiring the parking, provide the land is either adjacent to the business
+or within 500 feet of the property line of the business served by the parking.
+[ORD. 25-02]
+3) Except for industrial uses, required parking for commercial uses shall not be
+located in a required front or side yard setback area abutting a street, unless
+there is a 5 foot-wide foot sidewalk or landscaped buffer separating the parking
+from on street traffic. Required landscaped buffers shall comply with the clear
+vision area requirements of Section 3.1000(1)(B)(v)  [ORD 23.07] [ORD. 25-02]
+4) Required parking may be shared by two or more uses provided the operating
+hours of each use do not overlap by more than one hour. Applicants proposing
+shared parking shall provide a deed, lease, contract, or similar written instrument
+verifying the joint use. [ORD. 25-02]
+5) Required parking shall only be used for parking of operable vehicles of residents,
+customers and employees of the use served by the parking. Required parking
+shall not be used for the storage or display of vehicles or materials. [ORD. 25-02]
+Section 3.0080. Off-Street Parking Plan
+A plan showing the location of all required off-street parking and loading spaces, shall
+be included with the development permit application. The plan shall show the following:
+[ORD. 25-02]
+1) Individual parking spaces
+2) Drive aisles
+3) Location of connections to streets, alleys, and other properties to be served
+4) Required landscape buffers
+5) Grading, drainage, surfacing and sub-grading details
+6) Location of all structures being served by the parking
+7) Location of signage and bumper guards
+8) Sidewalks and pedestrian access ways
+
+Clatsop County Land and Water III-7 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+Section 3.0090. Off-Street Parking Construction
+Required parking spaces shall be improved and available for use at the time of final
+building inspection.
+Section 3.0100. Design Standards for Off-Street Parking
+1) The following standards shall apply to the design of off-street parking required for
+multi-unit, cottage cluster, and non-residential development: [ORD. 25-02]
+(A) Parking spaces shall be a minimum of 9 feet by 19 feet. Compact spaces
+shall measure no less than 7 feet wide by 15 feet long and each compact
+space shall be clearly marked “Compact”.
+(B) Drive aisles, parking spaces and turnarounds shall comply with the
+following standards:
+(A) Parking spaces shall be designed so that all vehicles enter the street
+in a forward manner.
+Figure 3: Example Off-Street Parking Plan
+
+Clatsop County Land and Water III-8 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(B) Parking spaces and drive aisles shall be marked and defined.
+(C) Two-way drive aisles shall be a minimum of 18 feet in width. One-
+way drive aisles shall be a minimum of 12 feet in width.
+(D) Driveways, drive aisles, and turnaround areas shall have a minimum
+vertical clearance of 12 feet for their entire length and width.
+(E) Connections to public or private streets shall have a minimum 20-foot
+clear vision area formed by the intersection of the driveway edges,
+the street right-of-way line, and a straight line joining those points
+(Figure 4). Development within the required clear vision area shall
+comply with the requirements of Section 3.9530.
+
+vi. Parking areas, drive aisles and turnarounds shall either be paved or
+be graveled to a two inch depth. The choice of materials is at the sole
+discretion of the property owner or developer of the project. [ORD.
+25-02]
+vii. Parking areas, drive aisles and turnarounds shall be maintained in
+the same condition as originally approved and constructed. [ORD.
+25-02]
+viii. Parking areas, drive aisles and turnarounds shall have on-site
+stormwater retention and erosion control measures designed in
+compliance with Section 3.2000. [ORD. 25-02]
+ix. Wheel stops or bumper guards shall be provided when parking
+spaces abut a property line or building. No parking space shall
+overhang a public right-of- way or other property line. [ORD. 25-02]
+x. When a parking area or driveway is adjacent to residential,
+agricultural or institutional uses, a site obscuring fence, wall or
+evergreen hedge shall be provided on the property line. Fences and
+walls shall be 6 feet in height. Evergreen hedges shall be a minimum
+of 18 inches above the finished grade of the parking (Figure 5). Such
+screening shall be maintained to the condition when original installed
+20’
+20’
+20’
+20’
+Figure 4
+DRIVEWAY
+
+Clatsop County Land and Water III-9 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+and protected from damage by vehicles using the parking area.
+[ORD. 25-02]
+xi. All exterior lighting shall comply with the standards of Chapter 8.20,
+Clatsop County Code. [ORD. 25-02]
+2) The following standards shall apply to single-unit, duplex, attached, triplex, and
+quadplex dwellings:
+(A) Parking spaces shall be a minimum of 9 feet by 19 feet.
+(B) Parking areas shall be designed to allow vehicles to enter the street in
+either a forward or reverse direction.
+(C) Parking spaces within an enclosed structure shall count towards the total
+amount of required off-street parking. [ORD. 25-02]
+Figure 5
+
+Clatsop County Land and Water III-10 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.0110. Bicycle Parking Requirements
+1) In rural communities, new multi-unit residential developments, cottage clusters,
+retail, office and institutional developments shall provide one bicycle parking
+space for every 10 required off-street parking spaces. [ORD. 25-02]
+2) All transit transfer and park and ride lots, whether located within a rural
+community or outside of a rural community, shall provide one bicycle parking
+space for every 10 off-street parking spaces. [ORD. 25-02]
+3) Bicycle parking facilities shall be placed within 100 feet of the main entrance of
+the site’s principal use. Bicycle parking areas shall not interfere with parking
+aisles, landscape areas, sidewalks or pedestrian ways. [ORD. 25-02]
+Section 3.0120. Loading Facilities
+1) The minimum area required for commercial and industrial loading spaces is as
+follows:
+(A) 250 sq.ft. for buildings of (5,000 to 20,000) sq.ft. of gross floor area.
+(B) 500 sq.ft. for buildings of (20,000 to 50,000) sq.ft. of gross floor area.
+(C) 750 sq.ft. for buildings in excess of (50,000) sq.ft. of gross floor area.
+2) The required loading area shall not be less than ten feet in width by twenty-five
+feet in length and shall have an unobstructed height of fourteen feet.
+3) If possible, required loading areas shall be screened from public view, from
+public streets and adjacent properties.
+4) Required loading facilities shall be installed prior to final building inspection and
+shall be permanently maintained as a condition of use.
+5) A driveway designed for continuous forward flow of passenger vehicles for the
+purpose of loading and unloading children shall be located on the site of a school
+having a capacity greater than twenty-five students.
+SECTION 3.0130. SIGN REQUIREMENTS.
+Purpose: These regulations are intended to promote scenic values; prevent unsafe
+driver distractions; provide orientation and directions; facilitate emergency response;
+and generally provide useful signs in appropriate areas.
+1) Sign placement:  No permanent sign or temporary sign in excess of six (6)
+square feet may be placed in or extend over a required non-street side yard or a
+street right-of-way, or within 10 feet of the front property line in a required front
+yard.  Temporary signs of no larger than six (6) square feet may feet may be
+placed in or extend over a required non-street side yard or a street right-of-way,
+or within 10 feet of the front property line in a required front yard. No sign may be
+located in a manner that will impair the use of an existing solar energy system on
+adjoining property.  A minimum of 8 feet above sidewalks and 15 feet above
+driveways shall be provided under free-standing signs.
+2) Sign lighting/Movement:  Any lighting of signs must be directed away from
+adjacent residential uses and so shielded, installed and aimed that the lighting
+does not project past the object being illuminated.  Illumination of billboards shall
+
+Clatsop County Land and Water III-11 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+be limited to commercial and industrial zoning districts.  Except for traffic control
+signs or traffic hazard warning signs, no sign shall include or be illuminated by a
+flashing, intermittent, revolving, rotating or moving light or move or have any
+animated or moving parts.
+3) Signs in any zone:  The following signs are permitted in any zoning district
+without   the need for a permit:
+(A) City limits signs and public notice signs.
+(B) Directional signs for public facilities.
+(C) Traffic control and safety signs.
+(D) Signs placed by the owner to restrict or limit trespassing, hunting or
+fishing.
+4) Signs in Residential zones:  In residential zones, signs shall be directed
+towards facing streets or located at needed points of vehicular access but no
+closer than 200 feet apart.   Signage shall be limited to activities occurring on the
+property upon which the sign is located as follows:
+(A) A single name plate not exceeding three (3) square feet.
+(B) A sign not exceeding thirty-two square feet pertaining to the or to a
+construction project, lease, rental, or sale of the property.
+(C) A sign not exceeding 90 square feet advertising a subdivision.
+(D) A sign not exceeding 150 square feet, identifying a multi-unit dwelling or
+motel.[ORD. 25-16]
+(E) A sign not exceeding 24 square feet identifying a non-residential use.
+(F) A sign not exceeding 24 square feet identifying a cottage industry.
+(G) A sign not exceeding 24 square feet directing traffic to places of interest to
+the public, such as tourist accommodations and recreation sites, which
+would otherwise be difficult to find.
+(H) A sign identifying a home occupation up to 6 square feet in size.
+(I) Signage not exceeding a total of two hundred (200) square feet identifying
+a mobile home park, recreational campground, primitive campground,
+commercial farm, or community identification.  Individual signs shall not
+exceed thirty-two (32) square feet in size.
+(J) A sign not exceeding 16 square feet for a bed & breakfast.
+
+The size limitations described in (B) through (J) above apply to each side of a single-
+sided or double-sided sign.
+
+5) Signs in Resource zones:  Except for the AF, F-80 and EFU zones signs are
+not permitted in resource zones. Individual signs may not exceed thirty-two (32)
+square feet and are limited as follows:
+(A) Signs pertaining to permitted uses in the zone.
+(B) Road identification signs.
+
+Clatsop County Land and Water III-12 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+6) Signs in Commercial and Industrial zones:  The following signs are permitted
+in Commercial and Industrial zones for activities occurring on the property upon
+which the sign is located:
+(A) Signage not exceeding 200 square feet for commercial establishments.
+Individual signs may not exceed thirty-two square feet, unless otherwise
+provided by these regulations.
+(B) Signage not exceeding sixty (60) square feet (including any signage in the
+canopy, windows or other display areas)  for retail or light industrial lease
+spaces in multi-tenant buildings.
+(C) A temporary sign not exceeding thirty-two square feet in area pertaining
+either to the lease, rental or sale of the property or to a construction
+project.
+7) Temporary (including campaign) signs: In residential, commercial and
+industrial zones signs placed for a period of not more than six consecutive
+months are allowed provided they meet the following standards:
+(A) The sign may not exceed thirty-two (32) square feet.
+(B) The sign may not be illuminated.
+(C) The sign shall be removed from the premises fifteen (15) days following
+the event being advertised or six months after first placement, whichever
+is earliest.
+8) Calculating Sign Area:  The structure supporting or appearing to support a
+freestanding sign need not be included in the area of the sign, unless that
+structural element is conveying information as part of the sign.  In calculating the
+square footage, the width shall be measured at the widest part of the sign,
+including any cut-outs, and the length shall be measured at the longest part of
+the sign, including any cut-outs. For multiple-sided signs (signs having 3 or more
+faces) the area size standard shall be applied to the cumulative total of all sides
+of the sign.
+9) Copy Area:  Copy is allowed only on the face of the sign.  Copy is prohibited in
+the ledger area of the sign, on the post of the sign, or other structure of the sign,
+except to the extent that the sign owner’s logo or other disclosure is required by
+law to be placed on the ledger, post or other structure of the sign.  For purposes
+of this Section, “copy” is defined as any text or image.
+
+10) Non-conforming signs:  Signs and sign structures not conforming to the
+requirements of this ordinance shall be subject to the following:
+(A) Text or images on the face of a legal non-conforming sign may be
+changed but the sign may not be expanded.
+(B) A legal non-conforming sign will be considered abandoned and
+discontinued if there is no text or image on the display surface for a period
+of six (6) consecutive months.
+11) Permit required:  Except as otherwise provided, a Type I development permit is
+required for the following activities:
+(A) Installation of a new permanent sign;
+
+Clatsop County Land and Water III-13 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(B) A Type 1 permit shall be required for an increase in the face of any
+permanent sign face by fifty (50) percent or more;
+(C) Expanding the text or images of any non-conforming sign.
+
+The Department shall review any proposed sign for conformance with the standards of
+this section and any requirements under the State building codes.
+
+Section 3.0140. General Exception to Yard Standards
+1) Cornices, eaves, canopies, sunshades, gutters, chimneys, flues, belt courses,
+leaders, sills, plasters, lintels, ornamental features, and other similar architectural
+features may project up to two feet into a required yard or into required open
+space. [ORD. 25-02]
+2) The following exceptions to the front yard setback requirement are applicable to
+all dwellings: [ORD. 25-02]
+(A) When there are dwellings on either side of the subject property that have
+front yard setbacks that are less than the minimum required, the front yard
+for a new dwelling shall not be less than the average front yard of the
+adjacent dwellings.
+(B) If there is only one dwelling on one abutting lot and that dwelling does not
+meet the minimum setback requirement, the front yard setback for a new
+dwelling can be calculated as halfway between the front setback of the
+adjacent dwelling and the minimum required front yard setback.
+3) In zones where front, side or rear setbacks are required, structures up to 2.5 feet
+(30 inches) in height may be located within that setback area.
+4) Requirements for fences within required setbacks:
+(A) Fences over 6 feet in height must adhere to the setback requirements of
+the zone.
+(B) Fences 6 feet or less in height may be placed on the property line, but
+shall not be placed within clear vision areas. [ORD. 25-02]
+Figure 6: Area Calculation and Placement of Signs
+
+Clatsop County Land and Water III-14 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+Section 3.0150. Oceanfront Setback [ORD. 25-02]
+1) For lots abutting the ocean shore, the oceanfront setback is based on the
+location of buildings on abutting lots, as detailed below.
+FIGURE 7: AVERAGE FRONT YARD SETBACK – TWO ADJACENT DWELLINGS
+In this example, the minimum front yard setback is 25’. However, because of the variety in
+existing setbacks of buildings on the same block, new development on Lot C may be located with a
+setback of only 20 feet, which is the average setback of Lots B and D.
+FIGURE 8: AVERAGE FRONT YARD SETBACK – ONE ADJACENT DWELLING
+In this example, the minimum front yard setback is 25’. However, because of the variety in existing
+setbacks of buildings on the same block, new development on Lot C may be located with a setback
+of only 20 feet, which is halfway between the 15’ building setback on Lot B and the minimum
+required setback of 25’.
+
+Clatsop County Land and Water III-15 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(A) For the Clatsop Plains Planning Area the oceanfront setback is the
+construction setback line described in Section 5.4020(3), also shown
+below.
+i. A line 570 feet landward of the Statutory Vegetation Line established and
+described by ORS 390.770, or the line of established upland shore
+vegetation, whichever is further inland,  for the area north of Surf Pines to
+the Columbia River South Jetty
+ii. The Pinehurst construction setback line described in Ordinance 92-20
+iii. The Surf Pines construction setback line described in Ordinance 83-17
+(B) For the Southwest Coastal Planning Area and elsewhere along the
+Clatsop County coast, the location and orientation of the Statutory
+Vegetation Line established and described by ORS 390.770, or the line of
+established upland shore vegetation, whichever is further inland.
+2) For the purpose of determining the oceanfront setback line, the term “building”
+refers to a permanent residential or commercial structure attached to a fixed
+foundation on a lot. The term “building” does not include accessory structures or
+uses.
+3) The oceanfront setback line shall be parallel to the reference lines established in
+Section 3.0150(1) and measurements from buildings shall be perpendicular to
+these reference lines.
+4) The setback of a building from these reference lines is measured from the most
+seaward point of the building’s foundation. A building’s foundation does not
+include decks, porches, beachfront protective structures, and similar unenclosed
+accessory structures. [ORD. 25-02]
+5) The oceanfront setback line for a parcel is determined as follows:
+(A) When there are legally constructed buildings within 200 feet of the north
+and south side lot lines of the subject property, the oceanfront setback line
+for the subject property is the average oceanfront setback of all legally
+constructed buildings within 200 feet.
+(B) If there are legally constructed buildings within 200 feet of the side lot lines
+in only one direction, either the north or  south, the oceanfront setback line
+for the subject property is that of the nearest building.
+(C) If there are no legally constructed buildings within 200 feet of the side lot
+lines, the oceanfront setback line for the subject property shall be
+established by the geotechnical report.
+6) The Director shall require a greater oceanfront setback when information in a
+geotechnical report prepared pursuant to Section 5.3000 indicates that a greater
+oceanfront setback is required to protect the proposed building from an identified
+coastal erosion hazard.
+
+ Figure 9: Construction Setback Line (north of Surf Pines to Columbia River South Jetty):
+
+Clatsop County Land and Water III-16 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+Section 3.0160. Application of Building Heights to Ocean Front Lots
+1) Building height restrictions applicable to ocean front lots are intended to apply to
+property immediately in land of the ocean beach. Partitions or property line
+adjustments may not be used to change an ocean front lot into a non-ocean front
+lot.
+Section 3.0170. Height Limitations for Non-habitable and Non-storage Structures
+1) Flag poles: No flag poles shall be greater than six inches in diameter and shall
+not exceed the maximum height allowed by the zone in which it is located by
+more than 10 feet. All such poles shall be placed so as to neither obstruct nor
+obscure the adjacent property owner's lines of vision. Such poles shall not
+display more than two flags at any one time.
+2) Windmills: Such structures shall not be any higher than 35 feet above either the
+average surrounding tree line or the highest structure within 250 feet of the
+Figure 10: Calculating Oceanfront Setback
+
+Clatsop County Land and Water III-17 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+windmill site. If no structure exists within 250 feet of the site of the windmill, the
+windmill shall not exceed 70 feet in height. A windmill shall be placed such that
+minimal impact on views from adjacent lots result. All such structures shall be
+subject to a Type II application procedure.
+
+Section 3.0180. Accessory Dwelling Units and Guesthouses. [ORD. 23-03] [ORD.
+25-02]
+Only one Accessory Dwelling Unit or one Guesthouse is permitted per lot or parcel
+under this section. [ORD. 23-03]
+1) The following standards shall apply to all accessory dwelling units (ADUs) within
+the AC-RCR, RC-MFR and RCR zones. [ORD. 23-03]
+(A) The lot or parcel shall be served by a State approved sanitary sewer.
+(B) The lot or parcel must have a primary dwelling unit.
+(C) The parcel shall not have more than one ADU or guesthouse (see
+“Guesthouse”)
+(D) ADUs shall comply with lot coverage and setback requirements applicable
+to the zone.
+(E) The ADU may be created through conversion of an existing structure, or
+construction of a new structure that is either attached to the primary
+dwelling or detached.
+(F) The maximum gross habitable floor area (GHFA) of the ADU is 900
+square feet. The floor area of any garage shall not be included in the total
+GHFA. [ORD. 23-03]
+2) The following standards shall apply to all accessory dwelling units (ADUs) on
+rural residential lands. [ORD.23-03] [ORD. 25-16]
+(A) The lot or parcel is not located within an area designated as an urban
+reserve as defined in ORS 195.137.
+(B) The lot or parcel is at least two acres in size.
+(C) The parcel must have a primary dwelling unit. A maximum of one ADU is
+permitted per lot or parcel. ADUs shall not be permitted in conjunction with
+a duplex or multi-unit dwelling.
+(D) The parcel shall not have more than one ADU or guesthouse (see
+“Guesthouse”).
+(E) ADUs shall not be permitted in conjunction with a duplex or multi-unit
+dwelling.
+(F) The primary dwelling on the lot or parcel has been declared a nuisance
+and is not subject to any pending action under ORS 195.550 to 195.600.
+(G) The primary dwelling is not subject to any code violations under Clatsop
+County Code or the Clatsop County Land and Water Development and
+Use Code.
+(H) The accessory dwelling unit will comply with all applicable laws and
+regulations relating to sanitation and wastewater disposal and treatment.
+(I) The accessory dwelling unit will comply with all applicable laws and
+regulations relating to water supply and quantity.
+
+Clatsop County Land and Water III-18 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(J) The accessory dwelling unit will be located no farther than 100 feet from
+the primary dwelling. This distance shall be measured from the closest
+portion of the exterior wall of both structures, not including roof structures
+such as eaves, gutters, canopies, and other similar architectural features.
+(K) ADUs shall comply with setback requirements applicable to the parcel
+containing the primary dwelling, including resource zone setbacks [ORD.
+24-01].
+(L) The ADU may be created through conversion of an existing structure, or
+construction of a new structure that is either attached to the primary
+dwelling or detached.
+(M) The maximum gross habitable floor area (GHFA) of the ADU is 900
+square feet. The floor area of any garage, utility rooms, or areas below the
+average level of the adjoining ground shall not be included in the total
+GHFA.
+(N) No portion of the lot or parcel is within a designated area of critical state
+concern.
+(O) The lot or parcel and ADU are served by a fire protection service provider
+with professionals who have received training and certifications described
+in ORS 181A.410.
+(P) The accessory dwelling unit has adequate access for firefighting
+equipment, safe evacuation and staged evacuation areas.
+(Q) Accessory dwelling units allowed under this section shall not be used for
+vacation occupancy, as defined in ORS 90.100. A restrictive covenant
+shall be recorded which prohibits the ADU from being used for vacation
+occupancy.
+(R) The County shall not approve a subdivision, partition, or other division of
+the lot or parcel that would place the primary dwelling on a different lot or
+parcel than the accessory dwelling unit. [ORD. 23-03]
+3) Accessory dwelling units on parcels containing a historic home as defined in
+Section 1.0500, shall comply with the following development standards. [ORD.
+23-03] [ORD. 25-16]
+(A) The lot or parcel is not located within an urban reserve as defined by ORS
+195.137.
+(B) The lot or parcel is at least two acres in size.
+(C) A historic home is sited on the lot or parcel.
+(D) The historic home is converted to an accessory dwelling unit within one
+year of the date a certificate of occupancy is issued for the new single-unit
+dwelling.
+(E) The accessory dwelling unit complies with all applicable laws and
+regulations relating to sanitation and wastewater disposal and treatment.
+(F) The accessory dwelling unit complies with all applicable laws and
+regulations relating to water supply.
+
+Clatsop County Land and Water III-19 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(G) The lot or parcel shall not be subdivided, partitioned or otherwise divided
+so that the new single-unit dwelling is situated on a different lot or parcel
+from the accessory dwelling unit.
+(H) The accessory dwelling unit may not be altered, renovated or remodeled
+so that the square footage of the accessory dwelling unit is more than
+120% of the historic home’s square footage at the time construction of the
+new single-unit dwelling commenced.
+(I) The accessory dwelling unit may not be rebuilt if the structure is lost to fire
+unless permitted under the provisions of 3.0180(B).
+(J) A second accessory dwelling unit may not be constructed on the same lot
+or parcel.
+(K) The accessory dwelling unit shall not be used as a short-term rental. The
+property owner shall record a restrictive covenant that prohibits the ADU
+from being used for vacation occupancy, as defined in ORS 90.100.
+[ORD. 23-03]
+4) The following standards shall apply to all guesthouses. [ORD.23-03]
+(A) The maximum gross habitable floor area (GHFA) is 900 square feet. The
+floor area of any garage, utility rooms, or areas below the average level of
+the adjoining ground shall not be included in the total GHFA.
+(B) Metering devices shall not be permitted.
+(C) Cooking Facilities shall not be permitted. (See definition of “Cooking
+Facilities” in Section 1.0500)
+(D) A maximum of one guesthouse is permitted per lot or parcel and must
+accompany a primary residence. [ORD. 23-03]
+Section 3.0190. Temporary Hardship Dwelling [ORD. 25-02]
+As used in this section, “hardship” means a medical hardship or hardship for the care of
+an aged or infirm person or persons. “Hardship” also includes a natural hazard event
+that has destroyed homes, caused residential evacuations, or both, and resulted in an
+Executive Order issued by the Governor declaring an emergency for all or parts of
+Oregon pursuant to ORS 401.165. A temporary residence approved under this section
+is not eligible for preplacement under ORS 215.283(1)(p).
+1. A temporary medical hardship dwelling, consisting of either one manufactured
+dwelling or one recreational vehicle, or the temporary residential use of an
+existing building, may be allowed on the same parcel as an existing dwelling,
+subject to the following conditions:
+(A) The caregiver is providing care for an existing resident on the property or
+the relative of an existing resident.  “Relative” shall be defined as “spouse,
+child, parent, stepparent, grandchild, grandparent, step-grandparent,
+sibling, stepsibling, niece, nephew or first cousin.”
+(B) The applicant shall submit certification from a physician verifying the
+hardship of the existing resident or relative of the resident.
+(C) The manufactured dwelling, recreational vehicle, or existing building shall
+be connected to the existing septic system and water supply on the
+
+Clatsop County Land and Water III-20 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+property. No new systems or hookups may be installed.
+2. For hardships based on a natural hazard event, the temporary residence is
+limited to a recreational vehicle or the temporary residential use of an existing
+building. A temporary natural hazard event hardship dwelling will not force a
+significant change in accepted farm or forest practices on surrounding land or
+significantly increase the cost of accepted farm or forest practices if the following
+criteria are met:
+(A) The temporary hardship dwelling is located within an existing building; or
+(B) The recreational vehicle is located within 100 feet of the primary
+residence; or
+(C) The temporary hardship dwelling is located more than 250 feet from
+adjacent lands planned and zoned for resource use under Goal 3:
+Agricultural Lands, Goal 4: Forest Lands, or both.
+3. A recreational vehicle used as a temporary hardship dwelling shall:
+(A) be fully licensed and ready for highway use;
+(B) remain on its wheels or jacking system;
+(C) be attached to the site only by quick disconnect type utilities and security
+devices, and
+(D) have no permanently attached additions.
+4. A permit for a temporary hardship dwelling is valid for two years. No public notice
+is required for renewals. The renewal application shall include verification that the
+temporary hardship still exists.
+5. The temporary hardship dwelling shall be vacated and disconnected from all
+utilities within 90 days from the time the hardship has ended.
+6. The temporary hardship dwelling must meet all other applicable standards in the
+zone.
+
+SECTION 3.0200. COTTAGE CLUSTER DEVELOPMENTS [ORD. 24-14]
+1) Maximum building footprint: 900 SF
+2) Minimum separation between structures: 10’ or as required by the applicable
+building codes
+3) Minimum number of cottages per courtyard: 4
+4) Maximum number of cottages per courtyard: 8
+5) Minimum common courtyard area: 150 SF/unit
+6) Each group of up to 8 cottage clusters must have its own common courtyard.
+7) Parking areas shall be separate from the common courtyard.
+
+SECTION 3.0210. EMPLOYEE HOUSING [ORD. 24-14]
+1) Housing must be located on the same parcel as the business; or
+2) Housing may be located on a separate commercially-zoned parcel within 1,000
+feet of the parcel where the business is located, if the employer provides transit
+to and from the business where the employees are employed.
+3) Employee housing shall be subordinate to the primary commercial use of the
+property.
+
+Clatsop County Land and Water III-21 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+4) Employee housing shall not be used as short-term rentals.
+SECTION 3.1000. NON-CONFORMING USES AND STRUCTURES
+Section 3.1010. Purpose
+The purpose of the non-conforming uses and structures provisions are to establish
+standards and procedures regulating the continuation, improvement and replacement of
+structures and uses which do not comply with this ordinance.
+Section 3.1020. Definitions.
+The following definitions are applicable to the provisions of Section 3.1000, Non-
+conforming Uses and Structures.
+ABANDONMENT: A non-conforming use shall be considered abandoned when the non-
+conforming use is discontinued for a period of one year. When a non-conforming use is
+determined to be abandoned, subsequent use of the property shall conform to this
+Ordinance. Abandonment does not apply to circumstances such as fire or other
+catastrophes outside of the owner’s control.
+
+Non-conforming uses are not considered interrupted or abandoned for any period while
+a federal, state or local emergency order temporarily limits or prohibits the use or the
+restoration or replacement of the use. [ORD. 24-05]
+ALTERATION. A change to a structure, not involving enlargement of the external
+dimensions of the structure.
+EXPANSION. Any increase in any external dimension of a Non-conforming structure.
+FLOATING RECREATIONAL CABIN: A moored floating structure used wholly or in part
+as a dwelling, not physically connected to any upland utility services except electricity,
+and is used only periodically or seasonally.
+FLOATING RESIDENCE: A dwelling unit which floats on a water body and is designed
+such that it does not come into contact with land except by ramp. Floating residences
+may also be referred to as floating homes or houseboats. A floating residence is not
+equivalent to a floating recreational cabin or other similar recreational structure
+designed for temporary use. It is also not equivalent to a boathouse, designed for
+storage of boats.
+INTERRUPTION: The discontinuance of any non-conforming use for a period of less
+than one year. [ORD. 24-05]
+LAWFULLY MOORED: To be lawfully moored, a floating recreational cabin or floating
+residence must be constructed upon or attached to piling or a dock by the owner or with
+the permission of the owner or lawful lessee of the piling or dock. If moored to piling or a
+dock, such piling or dock must have been installed or constructed and be maintained in
+compliance with all Federal, State and County requirements. If the floating recreational
+
+Clatsop County Land and Water III-22 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+cabin or floating residence is attached to the shore, such attachment must also be by or
+with the permission of the owner or lawful lessee of the area of attachment.
+NON-CONFORMING STRUCTURE: A building or structure that does not conform to
+one or more standards of the zoning district in which it is located, but which legally
+existed at the time the applicable section(s) of the zoning district took effect. [ORD. 24-
+05]
+NON-CONFORMING USE: A use which does not conform to the use regulations of the
+zoning district in which it is located, but which lawfully occupied a building or land at the
+time the applicable use regulation took effect. [ORD. 24-05]
+REAL MARKET VALUE: The value indicated in the Clatsop County Assessor’s records
+for an improvement or the value determined by an independent licensed appraiser.
+[ORD. 24-05]
+Section 3.1030. Continuance
+1) A non-conforming use legally established prior to the adoption date of this
+Ordinance may be continued at the level of use (e.g., hours of operation) existing
+on the date that the use became non-conforming.
+2) Under a Type I procedure, the County shall verify whether a use is a valid non-
+conforming use consistent with the standards in Section 3.1000 and ORS
+215.130. An application to verify a non-conforming use shall demonstrate all of
+the following:
+(A) The non-conforming use was lawfully established on or before the
+effective date of the zoning change that prohibited the use;
+(B) The non-conforming use has continued without abandonment or
+interruption for the 10-year period immediately preceding the date of
+application or the period from the date of the ordinance change prohibiting
+the use, whichever is less: and
+(C) Any alterations to the nature and extent of the non-conforming use were
+done in compliance with the applicable standards in Section 3.1000.
+(D) The applicant shall bear the burden of proof for establishing that the
+structure or use was lawfully established.
+(E) The applicant shall bear the burden of proof for establishing the level of
+use that existed at the time the use became non-conforming. [ORD.24-05]
+3) A non-conforming structure may continue within the building dimensions (height,
+width and length) in existence on the date that the structure became non-
+conforming. Additions, alterations and expansions to a non-conforming structure
+shall not increase the non-conformity of the structure. [ORD. 24-05]
+
+Section 3.1040. Abandonment or Interruption of Use
+If a non-conforming use is discontinued for a period of one year, the non-conforming
+use shall be considered abandoned. Subsequent use of the property shall conform to
+this Ordinance.
+
+Clatsop County Land and Water III-23 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+Non-conforming uses are not considered interrupted or abandoned for any period while
+a federal, state or local emergency order temporarily limits or prohibits the use or the
+restoration or replacement of the use. [ORD. 23-02]
+
+For purposes of determining whether abandonment or interruption has occurred, the
+following shall apply: [ORD. 24-05]
+
+1) Abandonment or interruption may be caused by ceasing the use or by changing
+the nature of the use for 365 continuous days, or longer. [ORD. 24-05]
+Section 3.1050. Alteration [ORD. 24-05]
+1) Through Type I procedures, alterations shall be permitted to a non-conforming
+structure, or to a structure containing a non-conforming use; and
+(A) Alteration of any such structure or use shall be permitted when necessary
+to comply with any lawful requirement for alteration in the structure or use.
+(B) Except as provided in ORS 215.215, the County shall not place conditions
+upon the continuation or alteration of a use described under this
+subsection when necessary to comply with state or local health or safety
+requirements, or to maintain in good repair the existing structure
+associated with the use.
+(C) A change of ownership or occupancy shall be permitted.
+2) If in a three-year period, alterations to a Non-conforming structure, or to a
+structure devoted to a Non-conforming use exceeds 75% of the market value of
+the structure, as indicated by the records of the County Assessor, the structure
+shall be brought into conformance with the requirements of the Ordinance. [Ord
+#17-02]
+Section 3.1060. Expansion [ORD. 24-05]
+1) Non-conforming structures containing a use permitted in the underlying zone
+may be expanded through a Type I procedure. The expansion of such a structure
+shall not increase the non-conformity of the structure and shall be in
+conformance with the requirements of this Ordinance. [ORD. 24-05]
+2) For non-conforming structures dedicated to a residential use and located in a
+zone not intended for residential uses, an expansion may be permitted through a
+Type I procedure. The expansion of such a structure shall not increase the noon-
+conformity of the structure and shall be in conformance with the requirements of
+this Ordinance, including setbacks, lot coverage, and other development
+standards as required by code. [ORD. 24-05]
+3) An expansion of a non-conforming use, or a change in the characteristics of a
+non-conforming use,(i.e. hours of operation or levels of service provided) may be
+approved, pursuant to a Type II procedure, where the following standards are
+met: [ORD. 24-05]
+(A) The floor area of a building(s) shall not be increased by more than 20%.
+
+Clatsop County Land and Water III-24 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(B) The land area covered by structures shall not be increased by more than
+10%.
+(C) The proposed expansion, or proposed change in characteristics of the use
+will have no greater adverse impact on neighboring areas than the existing
+use, considering:
+1. Comparison of the following factors:
+(a) Noise, vibration, dust, odor, fume, glare, or smoke
+detectable at the property line.
+(b) Numbers and kinds of vehicular trips to the site.
+(c) Amount and nature of outside storage, loading and parking.
+(d) Visual impact.
+(e) Hours of operation.
+(f) Effect on existing vegetation.
+(g) Effect on water drainage and water quality.
+(h) Service or other benefit to the area.
+(i) Other factors relating to conflicts or incompatibility with the
+character or needs of the area.
+2. The character and history of the use and of development in the
+surrounding area.
+3. An approval may be conditioned to mitigate any potential adverse
+impacts that have been identified by the review body. [ORD. 24-05]
+Section 3.1070. Changes to a Non-conforming Use [ORD. 24-05]
+1) A non-conforming use may only be changed to that of a conforming use. Where
+such a change is made, the use shall not thereafter be changed back to a non-
+conforming use. [ORD. 24-05]
+Section 3.1080. Replacement and Damage [ORD. 24-05]
+1) Non-conforming structures and uses.
+(A) If a non-conforming structure or a structure containing a non-conforming
+use is damaged or destroyed by fire, natural disaster or other catastrophe
+outside of the owner’s control, it may be reconstructed in conformance
+with the dimensional standards of the building prior to its destruction; and
+i. A building permit for its reconstruction shall be obtained within three
+years of the date of the damage.
+ii. If a building permit is not obtained within three years, the
+reconstruction shall be in conformance with the current
+requirements of this Ordinance. However, by a Type I procedure,
+the Community Development Director may grant a one-year
+extension of the three-year period. Requests to extend the three-
+year period must be submitted prior to the expiration of the three-
+year period, provided in writing, and shall explain why the extension
+is necessary and how the extension will be used to complete the
+project. [ORD. 24-05]
+
+Clatsop County Land and Water III-25 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(B) If a non-conforming structure or a structure devoted to a non-conforming
+use is damaged, destroyed or demolished by an action of the property
+owner or his authorized agent, to an extent amounting to 75% or more of
+its real market value, it shall be reconstructed in conformance with the
+current requirements of this Ordinance, unless approval of a variance is
+obtained as described in LAWDUC Section 2.8000. [ORD. 24-05]
+(C) If a non-conforming structure or a structure devoted to a non-conforming
+use is damaged by an action of the property owner or his authorized
+agent, to an extent amounting to less than 75% of its real market value, it
+may be reconstructed in conformance with the dimensional standards of
+the building prior to its destruction; and
+i. A building permit for its reconstruction shall be obtained within three
+years of the date of the damage, destruction or demolition.
+ii. If a building permit is not obtained within three years, the
+reconstruction shall be in conformance with the current
+requirements of this Ordinance. However, by a Type I procedure,
+the Community Development Director may grant a one-year
+extension of the three-year period. Requests to extend the three-
+year period must be submitted prior to the expiration of the three-
+year period, provided  in writing, and shall explain why the
+extension is necessary and how the extension will be used to
+complete the project. [ORD. 24-05]
+(D) The percentage of real market value loss shall be based on the real
+market value lost to damages compared to the real market value of the
+entire structure or building. Real market value shall be the value
+determined by the records of the County Assessor or the value
+determined by an independent licensed appraiser. [ORD. 24-05]
+(E) Non-conforming mobile home parks destroyed by natural disaster may be
+replaced subject to Section 3.4095. [ORD. 23-02]
+Section 3.1090. Completion [ORD. 24-05]
+A development that is lawfully under construction on the effective date of an ordinance
+that makes that use or structure Non-conforming may be completed. The use or
+structure may be used for the purpose for which it was designed, arranged or intended.
+Section 3.1100. Compliance with Other Requirements
+Notwithstanding the provisions of this section, alteration of a Non-conforming use or a
+Non- conforming structure shall be allowed if necessary to comply with state or local
+health or safety requirements.
+SECTION 3.2000. EROSION CONTROL AND GRADING REVIEW STANDARDS
+[ORD. 25-02]
+Section 3.2010. Purpose
+
+Clatsop County Land and Water III-26 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+The objective of this section is to manage development activities including clearing,
+grading, excavation and filling of the land, which can lead to soil erosion and the
+sedimentation of watercourses, wetlands, riparian areas, public and private roadways.
+The intent of this section is to protect the water quality of surface water, improve fish
+habitat, and preserve top soil by developing and implementing standards to help reduce
+soil erosion related to land disturbing activities. In addition, these standards are to serve
+as guidelines to educate the public on steps to take to reduce soil erosion.
+Section 3.2020. Definitions
+Certain terms used herein are defined below for the purposes of Section 3.2000.
+CLEARING: Any development activity that removes vegetative ground cover.
+EROSION/ SOIL EROSION:
+1) The wearing away of the land surface by running water, wind, ice, or other
+geologic agents, including such processes as gravitational creep.
+2) Detachment and movement of soil or rock fragments by water, wind, ice, or
+gravity.
+
+EXCAVATION: Any act by which organic matter, earth, sand, gravel, rock, or any other
+materials are cut into, dug, uncovered, removed, displaced, relocated, or bulldozed.
+FILL: Any human activity by which earth, sand, gravel, rock, or any other materials are
+deposited, placed, replaced, pushed, dumped, pulled, transported or moved to a new
+location, including the conditions resulting therefrom.
+GRADING: Excavation or fill or any combination thereof, including the conditions
+resulting from any excavation or fill such as clearing and stripping.
+LAND DISTURBING ACTIVITY: Any development activity which removes, disturbs or
+covers existing vegetative ground cover by physical means including, but not limited to,
+clearing, grading, stripping, excavation, or fill.
+ROADWAY: All travel surfaces used for ingress and egress of a site, recorded
+easements for access purposes or platted roads, developed or undeveloped; including
+but not limited to, driveways, easements, access points, private roads, public roads, and
+County roads.
+ROUTINE MAINTENANCE: Actions taken on a periodic basis to repair and/or improve
+the function of existing roadways including, but not limited to, patching, paving, grading
+of existing road surfaces and the addition of gravel, placement or replacement of signs,
+traffic delineators or site posts, and repair or replacement of existing guardrails. The
+construction of new roadways or improvements to existing roadways including, but not
+limited to, the creation of new travel lanes, turn lanes, or deceleration lanes, or the
+
+Clatsop County Land and Water III-27 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+addition of new pull-outs, roadside drainage ditches or guardrails; do not constitute
+routine maintenance.
+SEDIMENTATION: The depositing of solid material, both mineral and organic, that is in
+suspension, is being transported, or has been moved from its site of origin by air, water,
+or gravity.
+STRIPPING: Any activity that removes the vegetative surface cover including tree
+removal, clearing, and storage or removal of top soil.
+WATERCOURSE: Any established channel, bed or drainage way where water draining
+from a land area collects and/or flows on the ground surface including, but not limited to,
+bays, lakes, rivers, streams, wetlands, channels, gullies and other natural drainage
+ways.
+Section 3.2030. Erosion Control Plan and Grading Review [ORD. 25-02]
+1) Grading Review shall be required for all land disturbing activities that meet the
+following thresholds:
+(A) Disturbance on steep slopes (i.e., with a 20% or greater incline)
+(B) Proposed slopes greater than 3:1 and where the slopes will be greater
+than 6 feet in height
+(C) Construction of retaining walls greater than 30 inches in height
+(D) All commercial and industrial developments
+(E) Removal or fill greater than 30 cubic yards, including all fill that is
+imported, removed and/or relocated on the site
+(F) Grading activities that will disturb more than 3,000 square feet of area
+(G) Any new, realigned or relocated road or culvert of any proposed
+development
+(H) Ground disturbance in conjunction with a road approach or perform
+operations permit
+(I) Development that will occur within:
+i. 100 feet of a wellhead
+ii. 50 feet of a stream, river, lake or other water body
+iii. 50 feet of mapped or known wetlands
+iv. 10 feet of a primary or reserve septic drain field
+2) Information Required for Grading Review: An application for Grading Review
+shall contain the following information:
+(A) Site Map, drawn to scale and showing the location of the following:
+i. The development site in relation to the property boundaries
+ii. All internal or adjacent roadways and access easement
+iii. All existing and proposed structures greater than 200 square feet
+iv. Lakes, rivers, streams, wetlands, channels, ditches or other
+watercourses on or near the development site and the direction of
+surface water flow
+v. North arrow
+
+Clatsop County Land and Water III-28 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(B) Erosion Control Plan, drawn to scale and showing the following
+information:
+i. The location of existing vegetation adjacent to any watercourse.
+ii. Areas where vegetative cover will be retained and the type and
+location of measures taken to protect vegetation from damage.
+iii. Areas where vegetative cover will be removed and the location of
+temporary and permanent erosion control measures to be used.
+Examples of erosion control measures include, but not limited to:
+silt fencing, straw bales, construction entrances, inlet protection,
+graveling, mulching, seeding, and sodding.
+iv. North arrow
+v. Indication of slope steepness, by degree, percentage or ratio,
+including the grade of surface water flow.
+vi. The general slope or terrain characteristics of adjacent property.
+vii. Location of the construction access driveway(s) and vehicle parking
+area(s).
+viii. Location of soil stockpiles.
+ix. Location of existing and proposed buildings, including locations of
+downspouts.
+(C) Erosion Control Statement containing the following information:
+1. A schedule of land disturbance activities, project phasing and the
+time frame for placement of both temporary and permanent erosion
+and sediment control measures.
+ii. The name, address, email address and phone number of the
+person(s) responsible for placement, inspection and maintenance
+of the temporary and permanent erosion control measures.
+iii. A statement signed by the property owner and building contractor/
+developer certifying that any land clearing, construction, or
+development involving the movement of earth shall conform to the
+Erosion Control Plan as approved by the County Engineer.
+3) Grading Permit Review and Approval: The County Engineer, or designee, shall
+review each Grading Review application to ensure that the requirements of
+Section 3.2040 have been met. Applicants are responsible for ensuring that the
+erosion control plan is implemented and maintained before, during and after
+completion of the development activity.
+4) An Erosion Control Plan shall be required for all activities that require a
+development permit, even if a grading review is not required. The Erosion Control
+Plan shall contain the same information required in subsection (B), above.
+Section 3.2040. Design and Operation Standards and Requirements [ORD. 25-02]
+All land disturbing activities which are subject to Grading Review under Section
+3.2030(1) shall comply with the applicable standards and requirements in this section.
+1) Development Site Grading Requirements
+(A) For the purposes of this section, slopes are determined by measuring the
+
+Clatsop County Land and Water III-29 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+average slope from the highest to lowest point of the property.
+(B) The slope of cut surfaces shall be no steeper than one unit vertical in two
+units horizontal (50% slope) unless the applicant furnishes a soils
+engineering or engineering geology report stating that a cut at a steeper
+slope will be stable and not create a hazard to public or private property.
+(C) Fills shall conform to the provisions of this section unless otherwise
+recommended in an approved soils report. These provisions may be
+waived for fills not intended to support structures.
+i. Fill slopes shall not be constructed on natural slopes steeper than
+one unit vertical in two units horizontal (50% slope). The ground
+surface shall be prepared to receive fill by removing vegetation,
+noncomplying fill, topsoil, and other unsuitable materials.
+ii. Where existing slopes are steeper than one unit vertical in five units
+horizontal (20% slope) and the height is greater than five feet, fills
+shall be benched into sound bedrock or other competent material
+as determined by a soils engineer. The bench under the toe of a fill
+on these slopes shall be at least 10 feet wide.
+iii. The slope of fill surfaces shall be no steeper than is safe for the
+intended use and shall be no steeper than one unit vertical in two
+units horizontal.
+(D) Cut and fill slopes shall be set back from site boundaries in accordance
+with this section. Setback dimensions shall be horizontal distances
+measured perpendicular to the site boundary.
+i. The top of cut slopes shall not be made nearer to a site boundary
+line than one-fifth the vertical height of cut with a minimum of two
+feet and a maximum required setback of 10 feet.
+ii. The toe of fill slope shall not be made nearer to the site boundary
+line than one half the height of the slope with a minimum of two feet
+and a maximum required setback of 20 feet.
+(E) All retaining walls greater than 48 inches in height shall be designed by a
+registered professional engineer in the State of Oregon. Stamped
+engineered plans and calculations shall be submitted with the grading permit
+application.
+(F) As an alternative to the standards listed above, an applicant my submit a
+report by a qualified engineer or engineering geologist to demonstrate that
+the intent of this section has been satisfied. The County Engineer or
+designee shall use the report to establish setbacks and conditions of
+approval to ensure that the work will comply with the intent of this section.
+2) Development Site Erosion Control Requirements
+(A) It is the responsibility of the property owner, their contractor or their agent
+such to implement and maintain the erosion control measures identified in
+the approved Grading Review. Such measures shall be used to prevent
+movement of soil off the site and/or into a watercourse or roadway. These
+actions include, but are not limited to:
+
+Clatsop County Land and Water III-30 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+1. All areas adjacent to waterbodies shall have functioning erosion
+protection measures in place prior to land disturbing activities on
+the site.
+ii. All on-site erosion control measures shall be constructed and
+functional in accordance with the time schedule approved in the
+Erosion Control Plan and Erosion Control Statement.
+iii. All required local, state and federal permits and approvals shall be
+obtained prior to any land disturbance activity on the site. Copies of
+applicable state and federal permits shall be provided to the
+Community Development Department prior to beginning any land
+disturbance activities on the site.
+3) Erosion Control Standards: The following standards shall apply in order to
+prevent the movement of soil off of the site.
+(A) Erosion control measures shall be designed and maintained to ensure on-
+site activities do not impact other properties.
+(B) Vegetated buffers shall be designed to be of equal width to the uphill
+disturbed construction area draining into it. Vegetation along a
+watercourse shall be subject to the standards in Section 6.2000.
+(C) Permanent soil stabilization measures shall be completed within 30 days
+after completion of construction or within 30 days after development
+activity ceases on the site.
+(D) All temporary erosion and sediment control measures and/or materials
+shall be removed within 30 days after final site stabilization is achieved
+with permanent soil stabilization measures. Trapped sediment and other
+disturbed soils resulting from temporary sediment control measures shall
+be permanently stabilized to prevent further erosion and sedimentation.
+(E) Filter barriers, including filter fences, straw bales, or equivalent control
+measures shall be correctly installed to control off-site runoff, as specified
+in the “Clatsop County Erosion Control Guidance” document, as prepared
+by the Columbia River Estuary Study Taskforce (CREST, 2021).
+(F) Storm sewer inlets and culverts shall be protected by sediment traps or
+filter barriers.
+(G) Entry roads shall be constructed of gravel or equivalent surface approved
+by the County Engineer. The County Engineer shall determine whether
+entrance roads are of sufficient length, depth and width to prevent mud,
+dirt or other sediment from being tracked onto roadways. Any sediment
+reaching a roadway shall be removed by shoveling or street cleaning
+before the end of each workday and transported to a controlled sediment
+deposit area. Sediment flushing is prohibited.
+(H) No vegetation shall be removed unless it was identified for removal in the
+approved Grading Review.
+(I) Site clearing shall not occur prior to the land disturbance schedule
+identified in the approved Grading Review.
+
+Clatsop County Land and Water III-31 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(J) Disturbed areas shall be stabilized with temporary and/or permanent
+measures as specified in the approved Erosion Control Plan and Erosion
+Control Statement, following the end of active disturbance or
+redisturbance.
+(K) Appropriate temporary stabilization measures include seeding, mulching,
+sodding, and/or non-vegetative measures such as sediment blankets.
+(L) Appropriate permanent stabilization measures include seeding, mulching
+combined with seeding, sodding, landscaping, and non-vegetative
+measures such as paving, gravel, etc. In dune areas, planting of dune
+grass may be required.
+(M) Areas having slopes greater than 12 percent shall be stabilized with
+mulch, sod, mat or blanket in combination with seeding, or equivalent.
+(N) Roadway improvement projects resulting in disturbed slopes steeper than
+2:1 shall be stabilized with sod, mat or sediment blanket in conjunction
+with seeding, or equivalent.
+(O) Soil storage piles containing more than 10 cubic yards of material shall be
+covered with a sediment blanket, impervious cover, or shall incorporate
+hay or straw into the surface of the soil pile to stabilize it. The pile shall not
+be placed in a location with a downslope grade to a watercourse, unless
+the pile is at least 50 feet from the watercourse or unless the pile is
+contained by a sediment barrier at the toe of the slope.
+(P) Land disturbance activities in riparian areas shall comply with the
+applicable standards in Sections 5.1000, 5.4100, 6.4220, 6.4250 and/or
+6.5000, unless the County Engineer, in conjunction with the other
+appropriate state, federal and local agencies, determines that the
+development requires the disturbance in the proposed location. If
+disturbance activities are unavoidable, the following requirements shall be
+met:
+i. Construction activity shall not occur in the stream channel, other
+adjacent water body and/or riparian area unless authorized by the
+County Engineer and state and federal agencies having jurisdiction
+over the water body or riparian area. When construction crossings
+are necessary, additional state, federal and/or local permits may be
+required. The applicant shall demonstrate compliance with all
+applicable regulations and obtain all applicable permits for the
+project, prior to any land disturbing activity on the site.
+ii. The time and area of disturbance of stream channels and riparian
+areas shall adhere to those approved by the County Engineer and
+appropriate state and federal agencies. Instream work shall follow
+Oregon Department of Fish and Wildlife (ODFW) guidelines for
+timing of in-water work to protect fish and wildlife resources. An
+ODFW fish biologist shall be consulted and the applicant shall
+implement any recommendations from ODFW regarding erosion
+control and streambank restabilization, prior to the use of fords
+
+Clatsop County Land and Water III-32 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+across fish bearing streams. The stream channel, including bed
+and banks, shall be restabilized within 24 hours after channel
+disturbance is completed, interrupted or stopped.
+4) Guidance Adopted by Reference: The standards and specifications contained in
+the “Clatsop County Erosion Control Guidance” document prepared by the
+Columbia River Estuary Study Taskforce (CREST, 2021) cited in Section 3.2040
+is hereby incorporated into this section and made a part hereof by reference. The
+document shall be used for the purpose of delineating procedures and methods
+of installation, maintenance and operation of erosion and sediment control
+measures included in approved Erosion Control Plans. In the event of a conflict
+between the provisions of said guidance and this ordinance, the ordinance shall
+govern.
+5) Maintenance of Control Measures: All soil erosion and sediment control
+measures necessary to meet the requirements of this ordinance shall be
+maintained to ensure proper function. Maintenance shall include, but not be
+limited to, the following standards:
+(A) Erosion control and prevention measures shall be inspected periodically,
+with a frequency of no less than every 7 days; and
+(B) Erosion control and prevention measures shall be inspected every 24
+hours during storm events to ensure the measures are functioning
+properly; and
+(C) Any sediment build-up behind sediment barriers shall be removed and the
+sediment shall be placed in a controlled sediment area; and
+(D) Erosion and sediment control and prevention measures shall be repaired
+or replaced as frequently as necessary to ensure optimal functioning of
+the measures.
+6) Amendments of Plans: Amendments to an approved Erosion Control Plan shall
+be submitted to the Community Development Department and shall be
+processed in the same manner as the original plan.
+7) Responsibility:
+(A) It will be the responsibility of the applicant to comply with the approved
+Erosion Control Plan.
+(B) The applicant shall be responsible for damage to persons or property.
+
+SECTION 3.3000. CLUSTER DEVELOPMENT [ORD. 25-02]
+
+Section 3.3010. Purpose
+
+Clatsop County Land and Water III-33 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+The purpose of this section is to establish a process and standards through which
+cluster developments are allowed in appropriate rural residential zones and to preserve
+lands deemed appropriate for permanent open space. Cluster developments allow an
+alternative to traditional lot sizes and subdivision design. [ORD. 25-02]
+Section 3.3020. Procedures for Cluster Development [ORD. 25-02]
+Cluster developments are allowed in the specific rural residential and rural community
+zones identified in Article 4. A cluster development shall comply with the procedures
+and standards below.
+1) A pre-application meeting shall be required prior to an application being
+submitted.
+2) Cluster developments shall be created by either recording an approved partition
+plat or subdivision plat.
+3) For each cluster development approved under these regulations, the Community
+Development Director or designee shall include a written finding in the Notice of
+Decision addressing the following:
+(A) the number of lots or parcels allowed on the original parcel,
+(B) a legal description of the original parcel,
+(C) the number of lots or parcels resulting from the proposed partition, and
+(D) the number of lots or parcels, if any, that could be created in the future if
+the land were to be further partitioned or subdivided.
+Section 3.3030. Cluster Development Standards [ORD. 25-02]
+1) Standards for all Cluster Development: The following requirements apply to all
+cluster development:
+(A) The original parcel, lot, or tract of land to be developed shall be at least 4
+acres in size. Land divided by a road shall be considered contiguous. The
+area of the road shall be included in the total area of the original parcel.
+(B) The total number of residential units in the proposed cluster development
+shall not exceed the total number of dwelling units that would be allowed
+Figure 11: Traditional Subdivision vs. Cluster Development (Image: American Planning
+Association)
+
+Clatsop County Land and Water III-34 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+on the original parcel. This requirement does not apply to parcels within
+the Clatsop Plains Planning Area where density transfers are permitted.
+(C) No commercial or industrial uses shall be allowed.
+(D) The cluster development shall provide permanent open space that meets
+the requirements below:
+i. A minimum of 30% of the cluster development shall be designated
+as permanent open space.
+ii. Permanent open space shall not include public or private rights-of-
+way.
+iii. Permanent open space shall include wetlands, steep dunes, stream
+and resource zone buffers, water bodies, deflation plains, hazard
+areas, archaeological and historic sites, and other environmentally
+sensitive areas within the development if those features are
+present.
+iv. The owner shall record a non-revocable deed restriction with the
+Clatsop County Clerk that prohibits the construction of a residential
+dwelling on the designated open space until such time as the open
+space is added into an urban growth boundary or the County’s
+zoning requirements are changed.
+2) Additional Standards for Cluster Developments on Rural Residential Lands
+Outside the Clatsop Plains: The following standards apply to all cluster
+developments on rural residential lands outside the Clatsop Plains Planning
+Area. These standards are in addition to the standards in Section 3.3030(1).
+(A) The number of new dwellings units to be clustered shall not exceed 10;
+(B) The minimum size for new lots or shall be two acres;
+(C) The development shall not be served by a new community sewer system
+or by an extension of an existing sewer system, unless the new service or
+extension is authorized under OAR 660-011-0060;
+3) Additional Standards for Cluster Developments in the Clatsop Plains
+Planning Area
+(A) Vegetated buffers shall be provided along all property lines adjacent to
+arterial and collector roads.
+(B) Permanent open space shall physically align with and connect to
+permanent open space on abutting properties. Examples of how
+permanent open space can by physically aligned with and connect to
+permanent open space on abutting properties include: continuously
+following ridge tops, deflation plains or shorelands.
+(C) Streams and drainages which form a system of common open space shall
+be preserved.
+(D) Density transfer are prohibited in the North Clatsop Plains Sub-Area, per
+Ordinance 14-03.
+4) Maintenance of Permanent Open Space and Common Facilities
+
+Clatsop County Land and Water III-35 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(A) All permanent open space areas and other common facilities, such as
+streets, sidewalks and paths shall be owned and maintained by a non-
+profit corporation organized under the laws of the State of Oregon.
+(B) The non-profit corporation shall adopt articles of incorporation and by-
+laws and adopt and impose a declaration of covenants and restrictions on
+such common areas and facilities.
+(C) The non-profit corporation shall be created in such a manner that owners
+of property shall automatically be members and shall be subject to
+assessment levies to maintain said areas and facilities for the purposes
+intended.
+(D) The period of existence of such associations shall not be less than 20
+years, and it shall continue thereafter until a majority vote of the members
+shall terminate it.
+Section 3.3050. Density Transfer Standards for the Clatsop Plains Planning Area
+[ORD. 25-02]
+1) Transfer of residential development rights between sites in the Clatsop Plains
+Planning Area shall comply with the following:
+(A) The applicant shall have a pre-application meeting with County staff to
+discuss the proposed transfer.
+(B) The density transfer application shall include the following information:
+i. Sending Parcel Tax ID #
+ii. Number of residential units permitted on the sending parcels
+iii. Number of residential units to be transferred from the sending
+parcel
+iv. Zoning designation requested for the area on the sending parcel
+being used for the density transfer
+v. Receiving Parcel Tax ID #
+vi. Number of residential units permitted on the receiving parcel prior
+to the density transfer
+vii. Number of total residential units that would be allowed on the
+receiving parcel after the density transfer
+(C) Density shall not be transferred to a receiving parcel in the North Clatsop
+Plains Sub-Area, per Ordinance 14-03.
+(D) The area of land on the sending parcel that will be used to calculate the
+number of residential units to be transferred, shall be rezoned to one of
+the following designations:
+i. Open Space Parks and Recreation
+ii. Natural Uplands
+iii. Conservation Shorelands
+iv. Natural Shorelands
+The applicant shall file the rezoning request at the same time as the
+density transfer request is submitted
+
+Clatsop County Land and Water III-36 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(E) Following final approval of a density transfer the applicant shall record
+deed restrictions prohibiting any further development on the sending
+parcel unless the entire sending parcel has been included within an urban
+growth boundary.
+(F) The Community Development Department shall maintain copies of all
+deed restrictions.
+(G) The density transferred from the sending parcel shall not exceed the
+density allowed by the zoning designation of the sending parcel.
+(H) If a receiving parcel is not immediately identified for the density transfer,
+the unused density shall remain with the sending parcel. If ownership of
+the sending parcel changes prior to the density being transferred to a
+receiving parcel, the density shall remain with the sending parcel.
+(I) If a receiving site is not immediately identified for the density transfer, the
+applicant shall prepare a notarized affidavit identifying the sending site
+and number of credits that have not been assigned.  This affidavit shall be
+kept on file with the Community Development Department.
+(J) Unused density transfer credits may be assigned at a later time using the
+following process:
+i. The owner of the sending parcel that contains the unused credits
+shall notify the Community Development Department of the
+proposed transfer. The notification shall include the following:
+a. Sending parcel Tax ID #
+b. Receiving parcel Tax ID #
+c. Number of credits to be transferred
+d. Number of unused credits remaining on the sending parcel
+ii. The Community Development Department shall provide written
+verification to the applicant that the unused credits are available for
+the transfer and that the receiving site is in a location where density
+transfers are allowed.
+(K) Each new lot or parcel created through the use of a density transfer shall
+have a minimum size of one acre. Density transfers shall only be used in
+conjunction with an approved cluster development
+2) The Community Development Department shall maintain a record of all sending
+and receiving parcels.
+
+Clatsop County Land and Water III-37 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+SECTION 3.4000. MANUFACTURED DWELLINGS AND PREFABRICATED
+DWELLINGS [ORD. 25-02]
+SECTION 3.4010. MANUFACTURED DWELLING PARK DEVELOPMENT [ORD. 25-
+02]
+A manufactured dwelling park shall be built to state standards in effect at the time of
+construction and shall comply with the following additional standards.
+Section 3.4020. Permitted Uses [ORD. 25-02]
+No building, structure or land within the boundaries of a manufactured dwelling park
+shall be used for any purpose except for the uses permitted below:
+1) Manufactured dwellings and prefabricated dwellings for residential use.
+Residential accessory uses, including, but not limited to, cabanas, ramadas,
+patios, carports, or garages, and storage or washroom building are also
+permitted as a Type I use.
+2) Recreational vehicles for residential use, which are lawfully connected to water
+and electrical supply systems and a sewage disposal system.
+3) Private and public utilities.
+4) Community recreation facilities, including swimming pools, for residents of the
+park and guests only.
+5) A manufactured dwelling park may have one residence for the use of a caretaker
+or manager responsible for maintaining or operating the property.
+6) Occupied, abandoned or unoccupied manufactured dwellings may be abated if
+they constitute a menace to the public health, safety and welfare.
+Section 3.4030. Development Standards [ORD. 25-02]
+The following requirements shall apply to a new manufactured dwelling park or the
+expansion of an existing manufactured dwelling park outside of an urban growth
+boundary.
+1) Minimum Park Size: 4 acres
+2) Maximum Density: 8 manufactured dwellings per acre
+3) Setbacks: All structures shall comply with the following setbacks from the
+perimeter boundaries of the manufactured dwelling park:
+(A) Abutting residential zones: 30 feet
+(B) Abutting commercial or industrial zones: 15 feet
+(C) Abutting a public or private road: 25 feet
+(D) Accessory structures: 5 feet
+(E) Exemptions: Fences and signs may be placed within required setbacks
+4) Access to a Public Street - A manufactured dwelling park approved for 10 or
+more units shall have direct access to a public road.
+5) Service Buildings - Service buildings housing sanitation, laundry or recreational
+facilities shall be permanent structures, complying with all applicable County and
+State ordinances and statutes regulating building, electrical installations and
+plumbing and sanitation systems.
+6) Internal Vehicular Accessways: Internal vehicular accessways shall:
+
+Clatsop County Land and Water III-38 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(A) connect each manufactured dwelling space to a public or private street
+(B) have a minimum width of 20 feet if no parking is allowed or a minimum
+width of 30 feet if parking is allowed
+(C) be paved with a crushed rock base and asphalt or concrete surfacing
+7) Walkways: Walkways shall:
+(A) be provided from each manufactured dwelling space to all service
+buildings and recreational areas
+(B) be at least 3 feet wide
+(C) have a paved surface of concrete or asphalt
+(D) In rural communities, walkways shall comply with the requirements of
+Section 3.9560(4)(D)(1)
+8) Stormwater Drainage: The manufactured dwelling park shall provide
+stormwater drainage facilities consistent with the requirements of Section
+3.9720(3).
+9) Sewers: An existing sewer system within the park that does not meet current
+standards may remain in use provided it is maintained at a level that ensures the
+system functions as originally designed. Any new or replacement sewer facilities
+shall conform to all current requirements.
+10) Water Supply: An existing water supply system that does not meet current
+standards may remain in use provided it is maintained at a level that ensures the
+system functions as originally designed. Any new or replacement sewer facilities
+shall conform to all current requirements.
+Section 3.4040. Manufactured Dwelling Space Requirements [ORD. 25-02]
+The following requirements apply to all manufactured dwelling spaces in a new
+manufactured dwelling park or to new spaces in the expansion of an existing
+manufactured dwelling park:
+1) Minimum Space Area: 3,000 square feet
+2) Minimum Space Width: 40 feet
+3) Minimum Space Depth: 85 feet
+4) Setbacks: In addition to the perimeter setback requirements of Section
+3.4030(3), above, manufactured dwellings shall be setback a minimum of 10 feet
+from the edge of all accessways.
+5) Electrical: Each manufactured dwelling space shall have an approved electrical
+hookup.
+6) Sewage: Each manufactured dwelling space shall have a sewage connection.
+7) Water Supply: Each manufactured dwelling space shall comply with the
+requirements of Section 3.0040.
+8) Minimum space requirements between manufactured dwellings: 10 feet
+Section 3.4050. Application Requirements and Review Process [ORD. 25-02]
+An application for a new manufactured dwelling park or to expand an existing
+manufactured dwelling park shall be processed using the Type I procedure. The
+application shall include the following information:
+
+Clatsop County Land and Water III-39 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+1) the layout of the entire manufactured dwelling park, drawn to scale.
+2) location of adjacent existing and proposed public and private roads within four
+hundred (400) feet of the development site
+3) existing topographical lines at a 5-foot contour
+4) Boundaries and dimensions, drawn to scale, of the manufactured dwelling park.
+5) Location and dimensions of each manufactured dwelling space. Each space shall
+be designated by number, letter or name.
+6) Name of manufactured dwelling park and address.
+7) Scale and north arrow.
+8) Location and dimensions of each existing or proposed structure
+9) The proposed use of each structure
+10) Height of each structure
+11) Location and width of internal vehicular accessways
+12) Location and width of walkways
+13) Location, dimensions, details, and planting list for all off-street parking and
+loading facilities
+14) Location, dimensions, details, and planting list for all open space, landscaping,
+fences and walls.
+15) Lighting plan showing location of all outdoor lighting and specifications for fixture
+type(s) to demonstrate compliance with Chapter 8.20, Clatsop County Code
+16) Location and dimensions of recreation areas and buildings, and other amenities,
+if provided
+17) Location of all water, sewer and electrical systems and connections
+18) Location of fire hydrants.
+19) Development Permit Required: In addition to the Type I review process for the
+manufactured dwelling park, each structure within the park must obtain individual
+zoning review and permits prior to initiating construction. Approval of the park
+does not constitute approval of the dwelling and structures within the park.
+Section 3.4090. Improvement Requirements for Expansion of Existing Mobile
+Home Parks
+Section 3.4060. Replacement of a Manufactured Dwelling Park Destroyed by
+Natural Disaster [ORD. 23-02] [ORD. 25-02]
+Manufactured dwelling parks, including legal non-conforming parks, may be replaced if:
+1) The manufactured dwelling park was destroyed by a natural disaster that
+occurred on or after September 1, 2020, and resulted in the declaration of a state
+of emergency under ORS 401.165 or 401.309 for wildfire, floods, tsunamis,
+earthquakes or similar events, including disasters began by negligent or
+intentional acts;
+2) The replacement complies with Section 5.1000 and Section 5.3000, as
+applicable;
+SECTION 3.5000. RECREATION VEHICLE PARKS
+Section 3.5010. Purpose
+
+Clatsop County Land and Water III-40 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+The purpose of the regulations imposed upon recreation vehicle parks is to assure that
+each park provides safe and sanitary accommodations for the campers, travel trailers
+and other vehicles which are located temporarily in the park; that the support services
+provided tourists (utility conveniences and facilities) are adequate for the period of their
+stay in the park; and that the park does not permit the use of any of its accommodations
+for mobile home or recreational vehicles which are used for permanent occupancy.
+The scope of the park is to encompass additional recreation activities such as overnight
+tent camping and picnicking, and to only provide those in-park services and supplies
+required by the clientele.
+Section 3.5020. Standards and Requirements
+The following standards and requirements shall govern the application of a park in an
+area in which it is permitted:
+1) Duration of Occupancy
+No recreation vehicle shall remain the park for more than thirty (30) days in any
+sixty (60) day period. No habitable vehicle, which is not a recreation vehicle, shall
+be allowed in the park for any period with the exception of one mobile home unit
+for the exclusive use of the park manager and/or caretaker.
+2) Size, Density, Lot Dimension and Setbacks
+(A) Size. Minimum total acreage shall not be less than five (5) acres.
+(B) Density. Maximum recreational vehicle spaces per gross acre shall not
+exceed ten (10) spaces.
+(C) The minimum lot area for any recreation vehicle or travel trailer space
+shall not be less than 3,500 square feet.
+(D) The minimum lot width shall be forty (40) feet.
+(E) The minimum lot length shall be seventy (70) feet.
+(F) The minimum distance between recreation vehicles, and a public street,
+arterial or highway right-of-way shall be sixty (60) feet.
+(G) The minimum distance between recreation vehicles and all property lines
+shall be ten (10) feet.
+(H) The minimum distance between recreation vehicles and other like units
+shall be twenty- five (25) feet.
+(I) The minimum distance between recreation vehicles and public services
+buildings shall be twenty-five (25) feet.
+(J) No recreation vehicle site or structure shall be placed closer than 30 feet
+to perennial streams or lakes (high water mark) or other bodies of water.
+(K) The space provided for a recreation vehicle shall be covered with crushed
+gravel, or paved with asphalt, concrete or similar material and be designed
+to provide run-off of surface water. The part of the space which is not
+occupied by the recreation vehicle, or not part of an outdoor patio, need
+not be paved or covered with gravel provided the area is landscaped or
+otherwise treated to prevent dust.
+
+Clatsop County Land and Water III-41 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+3) Plot and Building Plans
+Seven (7) copies of the plans drawn to scale required by the Oregon State
+Health Division shall be submitted to the Clatsop County Community
+Development Office.
+4) Recreation Areas
+Recreation areas and facilities such as playgrounds, swimming pools and
+community buildings should be provided to the extent necessary to meet the
+anticipated needs of the clientele the recreation park is designed to serve.
+(A) A developed recreation area shall be provided which contains a minimum
+of 2,500 square feet or 200 square feet per site space, whichever is the
+greater.
+(B) Provide separate adult and tot recreation areas.
+(C) Playground areas shall be protected from main thoroughfares and parking
+areas.
+(D) Recreation areas shall be centrally located to the spaces they are to
+serve. At least one recreation area shall have a minimum size of five
+thousand (5,000) square feet and be of a shape that will make is usable
+for its intended purpose.
+5) Utilities and Sanitation
+(A) All facilities and service structures including each recreation vehicle/travel
+trailer space shall be provided with underground water and utilities.
+(B) Approved public drinking fountains are to be located in playground and
+service building area.
+(C) Recreation vehicles without bathroom facilities shall be parked within two
+hundred (200) feet of the park utility building.
+6) Lighting
+Lighting is required for all common walkways, toilet facilities, service buildings,
+service building areas and roadways.
+7) Access and Circulation
+(A) The recreation vehicle park shall be served by hard surfaced roads.
+(B) The recreation vehicle park shall not be located where it will have a
+hazardous entrance or exit onto a road or onto a road that has a
+hazardous intersection with a major arterial.
+(C) The amount of traffic generated by the recreation vehicle park shall not
+exceed the capability of roads serving the development.
+(D) Off highway entry (ingress and egress) shall be provided by the park
+owner in order to permit entrance/access, as well as parking, through the
+park toll booth without causing traffic stoppage or unsafe traffic movement
+on public roads.
+(E) Roadways within the park shall be hard surfaced to a width of twenty (20)
+feet if no parking is permitted on the roadway, and thirty (30) feet if parking
+is permitted on the roadway.
+
+Clatsop County Land and Water III-42 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(F) The first fifty (50) feet of access (for ingress and egress) measured from
+the street shall be hard surfaced to a width of thirty-six (36) feet and shall
+be connected to an existing street according to plans approved by the
+County Roadmaster and/or the Oregon State Highway Engineer.
+(G) Street grades shall not be in excess of eight (8) percent at any given point.
+8) Parking
+(A) The total number of parking spaces in the park, exclusive of parking
+provided for the use of the manager, employees or specialized additional
+parking, shall be equal to one 10' x 20' space per camping space. All
+parking spaces shall be covered with crushed gravel or paved with
+asphalt, concrete or similar material.
+(B) Additional parking areas for boats, trailers, etc. shall be conveniently
+located for supervision, but these specialized parking areas shall be
+separated from all other parking facilities. The ratio of one 10' x 20'
+additional parking space for every eight (8) camping spaces shall be
+observed.
+9) Walkways
+(A) A walkway system shall be provided and maintained which gives safe,
+convenient access to park spaces.
+(B) Common trails and walkways shall be provided to connect recreational
+vehicle sites to common areas, bathroom facilities, service buildings and
+natural amenities.
+(C) Common walkways shall be located through interior areas and be kept
+separated from vehicular traffic.
+10) Greenbelts, Natural Screening and Open Space
+(A) Ten (10) percent of the gross area of the recreation park must be reserved
+for open space. This open space is in addition to areas used for lots,
+roads, walkways, play areas and service areas.
+(B) A sight obscuring greenbelt buffer strip shall be required around all sides
+of the recreation park to a height of eight (8) feet above ground level. This
+buffer strip shall be composed of natural screening, plantings, or other
+screens of a material type, size and located as recommended by the
+Planning Commission.
+(C) Vegetative screening is to be provided between recreation park spaces,
+between spaces and service buildings, as well as between park and
+commercial activities, etc.
+SECTION 3.6000. BEACH FRONT MOTEL DEVELOPMENT
+Section 3.6010. Purpose
+The purpose of this section is to set forth standards by which resort motels can be
+placed in beach front areas without resulting in conflicts with the low intensity residential
+uses and the natural and recreational resources of the area.
+Section 3.6020. Development Standards
+
+Clatsop County Land and Water III-43 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+All beach front resort motel development in the TC zone shall comply with the following
+standards:
+1) Adequate off-street parking for guests and employees shall be provided
+consistent with parking standards of this Ordinance. The parking areas shall be
+screened from adjacent residential uses and shall be landscaped.
+2) A minimum of 25% of the property shall be retained in landscaping.
+3) Service areas, garbage disposal areas and other similar portions of the
+development shall be screened from view.
+4) The height of the development shall not exceed the average height of the
+residential uses of the area and no parts of the development shall block views of
+the ocean from residential uses in the area.
+5) The construction materials used in the development shall be similar in
+appearance to material used in neighboring residential dwellings.
+6) Exterior lighting for signs, parking area, walkways and other areas shall be lower
+intensity so as not to create a distraction to adjacent residential uses.
+7) Access to and from the development shall be by improved streets having a direct
+connection to major arterials and/or Highway 101.
+8) The development shall not block public access to ocean beaches unless an
+alternate, suitable access is provided as part of the development.
+9) Natural resources and features on or adjacent to the site prior to development
+shall be retained to the maximum extent possible.
+SECTION 3.7000. AMUSEMENT ESTABLISHMENT
+Amusement establishment - a commercial amusement establishment may be
+authorized after consideration of the following factors:
+1) Adequacy of access from principal street, together with the probably effect on
+traffic volumes of abutting and nearby streets;
+2) Adequacy of off-street parking;
+3) Adequacy of building and site design provisions to minimize glare from the
+building and site;
+4) Noise levels shall not exceed Department of Environmental Quality standards
+SECTION 3.8000. HOME OCCUPATION
+Section 3.8010. Purpose [ORD. 25-16]
+The purpose of this section is to establish standards by which limited small-scale
+business activities, hereafter referred to as Home Occupation, could operate in non-
+commercial and non- industrial zones. Special standards apply to ensure that home
+occupations will not be a detriment to the character and livability of the surrounding
+neighborhood. The standards ensure that the home occupation remains subordinate to
+
+Clatsop County Land and Water III-44 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+the residential use, and that the residential viability of the dwelling is maintained. The
+existence of a Home Occupation shall not be used as justification for a zone change.
+Section 3.8020. Home Occupation Standards [ORD. 26-15]
+The following limitations and requirements shall apply to all Home Occupations:
+1) Parking of 1 space per employee must be provided on the same tract of land.
+Parking spaces needed for employees of a home occupation shall be provided in
+defined areas of the property which are accessible, usable, designed and
+surfaced for that purpose.
+2) No more than two vehicles or trailers are to be used in the operation of the Home
+Occupation.
+3) No modification shall be made to the dwelling to establish or operate the Home
+Occupation that would cause it to resemble anything other than a dwelling.
+4) All materials, parts, tools and other equipment used in the operation of the Home
+Occupation shall be stored entirely within the dwelling or accessory building.
+5) The Home Occupation shall not involve operations or use of equipment or
+processes which would produce or cause the emission of gasses, dust, odors,
+vibration, electrical interference, smoke, noise, or light in a manner likely to cause
+offense to irritation to neighboring residents. The Home Occupation shall comply
+with the applicable federal, state and local regulations.
+6) No more than one unlighted sign with a maximum area of 6 square feet shall be
+used to identify the Home Occupation. No other form of identification or
+advertisement shall be used.
+7) Retail Sales shall be allowed provided the activity does not give the outward
+appearance of a retail business, such as signs other than those permitted under
+subsection (6) above, advertising the dwelling as a business location, generate
+noise or traffic that adversely affects neighbors, or cause other adverse off-site
+impacts.
+8) A Complaint from neighbors shall be cause for review of any Home Occupation
+conducted as a retail business. If Code Compliance determines that a violation of
+the conditions of approval for a home occupation has occurred, an annual report
+may be required.
+9) A Home Occupation in or adjacent to the AF, F-80 and EFU zones shall not
+involve activities which might disrupt or adversely impact forest use of the parcel
+or adjacent parcels. The Home Occupation shall also not involve activities
+sensitive to standard farm or forest management practices.
+10) Repair or assembly of any vehicles or engines is not allowed.
+11) Deliveries or pick-ups of supplies or products, associated with the home
+occupation, are allowed to occur between 8:00 a.m. and 6:00 p.m.
+12) No outside storage, display of goods or merchandise, or external evidence of a
+home occupation shall occur except as otherwise permitted in this section.
+13) The premises upon which the home occupation is conducted shall be the
+residence of the person conducting the home occupation.
+
+Clatsop County Land and Water III-45 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.8021. Standards for Type I Home Occupations [ORD. 25-16]
+In addition to the standards in Section 3.8020, the following standards shall also apply
+to all Type I Home Occupations:
+1) The Home Occupation shall be operated entirely within the principal dwelling
+2) A separate entrance to the home occupation is not allowed
+3) The dwelling shall not be altered in a manner that is not customarily used for
+residential buildings
+4) No mechanical equipment shall be used except that which is used normally for
+domestic or household purposes
+5) A maximum of 25% of the total dwelling floor area may be used for the Home
+Occupation
+6) Outdoor display is not permitted
+7) Not more than three non-resident employees or vehicles are allowed on the
+premises at any one time in conjunction with a Type I home occupation
+
+Section 3.8022. Standards for Type II Home Occupations [ORD. 25-16]
+In addition to the standards in Section 3.8020, the following standards shall also apply
+to all Type II Home Occupations:
+1) Not more than five non-resident employees or vehicles are allowed on the
+premises at any one time in conjunction with a Type II home occupation
+2) The Home Occupation shall be located in either:
+(A) The primary dwelling; or
+(B) Other buildings normally associated with uses permitted in the zone, such
+as accessory structures
+3) The Home Occupation shall not interfere with existing uses on adjacent land or
+with other uses permitted in the zone
+Section 3.8030. Bed & Breakfast Establishment Standards
+The following standards shall apply to all bed & breakfast establishments in order to
+preserve the character of the neighborhood or area in which it is to be located. Bed and
+breakfast establishments shall be allowed in the zones as permitted by this section and
+as defined by ORS 215.448 (Home Occupations). The regulations have been
+established to provide an alternative form of lodging for visitors who prefer a residential
+setting.
+1) Number of rental units
+(A) 1-5 unit establishment is subject to approval of a Type I development
+permit and Section 2.070 in the following zones: NC, TC and GC.
+(B) 1-5 unit establishment is subject to approval of a Type II conditional use
+permit and Section 5.000-5.030 in the following zones: RSA-SFR, RSA-
+MFR, CR, SFR-1, RA-1, RA-2, RA-5, RA-10, EFU, AF, F-80.
+2) Establishment shall be operated substantially in:
+(A) The dwelling unit, and historical resource buildings; and
+(B) It shall not unreasonably interfere with other uses permitted in the zone in
+which the property is located; and
+
+Clatsop County Land and Water III-46 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(C) Will employ not more than three full or part-time persons; and
+(D) The premises upon which the bed and breakfast establishment is
+conducted shall be the residence of the person conducting the
+establishment.
+3) (A) One off-street parking space shall be provided for each rental unit plus the
+  2 required spaces for the residence of the person conducting the
+  establishment. Off-street parking requirements are subject to the
+  standards in Section 3.0050-3.0120 (Off-Street Parking Required).
+(B) Additional parking shall be provided for employees subject to the
+standards in Section 3.0050-3.0120 (Off-Street Parking Required).
+(C) A reduction in the number of rental units may be required if the impacts of
+the parking area cannot be mitigated.
+4) Signing is limited to a six (6) square foot nameplate, non-illuminated (replaces
+Section 3.8020(6)).
+5) All Bed and breakfast establishments shall comply with the applicable state and
+local health, building and fire code requirements.
+6) Bed and breakfast establishments shall comply with the development standards
+of the base zone, and overlay zone where applicable.
+7) Any expansion of an existing building or alterations that increase the intensity of
+the establishment, may require, at the discretion of the Community Development
+Director, a Type II conditional use permit subject to Section 2.4000-2.4050, in the
+following zones:
+A. RSA-SFR, RSA-MFR, CR, SFR-1, RA-1, RA-2, RA-5, RA-10, EFU, AF, F-80.
+8) Residential structures may be remodeled for the development of a bed and
+breakfast establishment. However, structural alteration may not be made which
+prevent the structure from being used as a residence in the future. Internal or
+external changes which will make the dwelling appear less residential in nature
+or function are not allowed.
+9) An establishment in or adjacent to the AF, F-80 and EFU zones shall not involve
+activities which might disrupt or adversely impact farm or forest use of the parcel
+or adjacent parcels.
+10) Access to serve a bed and breakfast establishment shall be designed to meet the
+criteria within Standards Section 3.6520 and Section 3.9540 (Access Control)
+and the applicable standards within Section 3.9800 (Road Standard
+Specifications for Design and Construction).
+Section 3.8040. Bed & Breakfast Establishment Standards for Standard Sized
+Lots or Parcels
+Bed and breakfast establishments may be considered on parcels or lots that meet the
+minimum lot size in the following zones as provided by this section:
+Zone Standard
+RSA-SFR Conditional use permit
+
+Clatsop County Land and Water III-47 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Zone Standard
+RSA-MFR Conditional use permit
+CR Conditional use permit
+SFR-1 Conditional use permit
+RA-1 Conditional use permit
+RA-2 Conditional use permit
+RA-5 Conditional use permit
+RA-10 Conditional use permit
+CBR Not permitted
+NC Permitted use
+TC Permitted use
+GC Permitted use
+EFU Conditional use permit
+AF Conditional use permit
+F-80 Conditional use permit
+
+Section 3.8050. Bed & Breakfast Establishment Standards for Substandard Sized
+Lots or Parcels
+Bed & breakfast establishments may only be considered on parcels or lots that are less
+than the minimum lot size in the following circumstances:
+Zone Standard
+RSA-SFR Not permitted
+RSA-MFR Conditional use permit
+CR Conditional use permit
+SFR-1 Not permitted
+RA-1 Conditional use permit
+RA-2 Conditional use permit
+RA-5 Conditional use permit
+RA-10 Conditional use permit
+CBR Not permitted
+NC Conditional use permit
+TC Conditional use permit
+GC Conditional use permit
+
+Clatsop County Land and Water III-48 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Zone Standard
+EFU Conditional use permit
+AF Conditional use permit
+F-80 Conditional use permit
+
+SECTION 3.9000. FARM AND FOREST ZONE STANDARDS [ORD. 18-02]
+Section 3.9010. Farm, Forest and Natural Resource Uses
+1) A farm on which a processing facility is located must provide at least one-quarter
+of the farm crops processed at the facility. A farm may also be used for an
+establishment for the slaughter, processing or selling of poultry or poultry
+products pursuant to ORS 603.038. If a building is established or used for the
+processing facility or establishment, the farm operator may not devote more than
+10,000 square feet of floor area to the processing facility or establishment,
+exclusive of the floor area designated for preparation, storage or other farm use.
+A processing facility or establishment must comply with all applicable siting
+standards but the standards may not be applied in a manner that prohibits the
+siting of the processing facility or establishment. A county may not approve any
+division of a lot or parcel that separates a processing facility or establishment
+from the farm operation on which it is located.
+2) A facility for the primary processing of forest products shall not seriously interfere
+with accepted farming practices and shall be compatible with farm uses
+described in Section 1.0500. Such facility may be approved for a one-year period
+that is renewable and is intended to be only portable or temporary in nature. The
+primary processing of a forest product, as used in this Section, means the use of
+a portable chipper or stud mill or other similar methods of initial treatment of a
+forest product in order to enable its shipment to market. Forest products as used
+in this Section means timber grown upon a tract where the primary processing
+facility is located.
+Section 3.9020 Residential Uses
+1) To qualify for a relative farm help dwelling,
+(A) A dwelling shall be occupied by relatives whose assistance in the
+management and farm use of the existing commercial farming operation is
+required by the farm operator. However, farming of a marijuana crop may
+not be used to demonstrate compliance with the approval criteria for a
+relative farm help dwelling. The farm operator shall continue to play the
+predominant role in the management and farm use of the farm.
+(B) A relative farm help dwelling must be located on the same lot or parcel as
+the dwelling of the farm operator and must be on real property used for
+farm use.
+2) A temporary hardship dwelling is subject to the following:
+(A) One manufactured dwelling, or recreational vehicle, or the temporary
+
+Clatsop County Land and Water III-49 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+residential use of an existing building may be allowed in conjunction with
+an existing dwelling as a temporary use for the term of the hardship
+suffered by the existing resident or relative, subject to the following:
+1. The manufactured dwelling shall use the same subsurface sewage
+disposal system used by the existing dwelling, if that disposal
+system is adequate to accommodate the additional dwelling. If the
+manufactured home will use a public sanitary sewer system, such
+condition will not be required;
+2. The county shall review the permit authorizing such manufactured
+homes every two years; and
+3. Within three months of the end of the hardship, the manufactured
+dwelling or recreational vehicle shall be removed or demolished or,
+in the case of an existing building, the building shall be removed,
+demolished or returned to an allowed nonresidential use.
+(B) A temporary residence approved under this Section is not eligible for
+replacement under Section 4.3300(25). Department of Environmental
+Quality review and removal requirements also apply.
+(C) As used in this Section “hardship” means a medical hardship or hardship
+for the care of an aged or infirm person or persons.
+Section 3.9030. Commercial Uses [ORD. 25-16]
+1) Dog training classes or testing trials conducted outdoors, or in farm buildings that
+existed on January 1, 2013, are limited as follows:
+(A) The number of dogs participating in training does not exceed 10 per
+training class and the number of training classes to be held on-site does
+not exceed six per day; and
+(B) The number of dogs participating in a testing trial does not exceed 60 and
+the number of testing trials to be conducted on-site does not exceed four
+per calendar year.
+2) A farm stand structure may be approved if:
+(A) The structures are designed and used for sale of farm crops and livestock
+grown on the farm operation, or grown on the farm operation and other
+farm operations in the local agricultural area, including the sale of retail
+incidental items and fee-based activity to promote the sale of farm crops
+or livestock sold at the farm stand if the annual sales of the incidental
+items and fees from promotional activity do not make up more than 25
+percent of the total annual sales of the farm stand; and
+(B) The farm stand structure does not include structures designed for
+occupancy as a residence or for activities other than the sale of farm crops
+and livestock and does not include structures for banquets, public
+gatherings or public entertainment.
+(C) As used in this Section, "farm crops or livestock" includes both fresh and
+processed farm crops and livestock grown on the farm operation, or grown
+on the farm operation and other farm operations in the local agricultural
+
+Clatsop County Land and Water III-50 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+area.
+(D) As used in this Subsection, "processed farm crops and livestock" includes
+jams, syrups, apple cider, animal products and other similar farm crops
+and livestock that have been processed and converted into another
+product but not prepared food items.
+(E) As used in this Section, "local agricultural area" includes Oregon or an
+adjacent county in Washington, Idaho, Nevada or California that borders
+the Oregon county in which the farm stand is located.
+(F) A farm stand structure may not be used for the sale, or to promote the
+sale, of marijuana products or extracts.
+(G) Farm stand structure development standards
+1. Adequate off-street parking will be provided pursuant to provisions
+of Sections 3.0050-3.0090.
+2.  Roadways, driveway aprons, driveways and parking surfaces shall
+be surfaces that prevent dust, and may include paving, gravel,
+cinders, or bark/wood chips.
+3. All vehicle maneuvering will be conducted on site. No vehicle
+backing or maneuvering shall occur within adjacent roads, streets
+or highways.
+4. No farm stand structure, accessory structure or parking is permitted
+within the right-of-way.
+5. Approval is required from the County Public Works Department
+regarding adequate egress and access. All egress and access
+points shall be clearly marked.
+6. Vision clearance areas. No visual obstruction (e.g., sign, structure,
+solid fence, wall, planting or shrub vegetation) may exceed three
+(3) feet in height within “vision clearance areas” at street
+intersections.
+a) Service drives shall have a minimum clear-vision area
+formed by the intersection of the driveway centerline, the
+road right-of-way line, and a straight line joining said lines
+through points twenty (20) feet from their intersection.
+b) Height is measured from the top of the curb or, where no
+curb exists, from the established street center line grade.
+c) Trees exceeding three (3) feet in height may be located in
+this area, provided all branches and foliage are removed to a
+height of eight (8) feet above grade.
+7. All outdoor light fixtures shall be directed downward, and have full
+cutoff and full shielding to preserve views of the night sky and to
+minimize excessive light spillover onto adjacent properties, roads
+and highways.
+8. Signs are permitted consistent with Section 3.0130.
+(H) Permit approval is subject to compliance with the County On-site Septic
+Program or Department of Agriculture requirements and with the
+
+Clatsop County Land and Water III-51 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+development standards of this zone.
+(I) At the request of the County, the farm stand operator shall submit
+evidence of compliance with the annual sales requirement of subsection
+(A). This evidence shall consist of an IRS tax return transcript and any
+other information the County may require to document ongoing
+compliance with this section or any other condition of approval. [ORD. 25-
+16]
+3) A destination resort is not permitted on high-value farmland except that existing
+destination resorts may be expanded subject to Section 3.9080(3).
+4) Home occupations shall be subject to the following in addition to the
+requirements of Section 3.8000:
+(A) Be operated by a resident or employee of a resident of the property on
+which the business is located;
+(B) Employ on the site no more than five full-time or part-time persons;
+(C) Be operated substantially in:
+1. The dwelling; or
+2. Other buildings normally associated with uses permitted in the zone
+in which the property is located, except that such other buildings
+may not be utilized as bed and breakfast facilities or rental units
+unless they are legal residences.
+(D) Not unreasonably interfere with other uses permitted in the zone in which
+the property is located.
+(E) When a bed and breakfast facility is sited as a home occupation on the
+same tract as a winery established pursuant to Section 3.515 and is
+operated in association with the winery:
+1. The bed and breakfast facility may prepare and serve two meals
+per day to the registered guests of the bed and breakfast facility;
+and
+2. The meals may be served at the bed and breakfast facility or at the
+winery.
+(F) The decision maker may only approve a use allowed in OAR 660-033-
+0120 as a home occupation on farm land if:
+1. The scale and intensity of the use is no more intensive than the
+limitations and conditions otherwise specified for the use in OAR
+660-033-0120; and
+2. The use is accessory, incidental and subordinate to the primary
+residential use of a dwelling on the property. [ORD. 25-16]
+5) Commercial activities in conjunction with farm use may be approved when:
+(A) The commercial activity is either exclusively or primarily a customer or
+supplier of farm products;
+(B) The commercial activity is limited to providing products and services
+essential to the practice of agriculture by surrounding agricultural
+operations that are sufficiently important to justify the resulting loss of
+agricultural land to the commercial activity; or
+
+Clatsop County Land and Water III-52 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(C) The commercial activity significantly enhances the farming enterprises of
+the local agricultural community, of which the land housing the commercial
+activity is a part. Retail sales of products or services to the general public
+that take place on a parcel or tract that is different from the parcel or tract
+on which agricultural product is processed, such as a tasting room with no
+on-site winery, are not commercial activities in conjunction with farm use.
+6) Equine and Equine-Affiliated Therapeutic and Counseling Activities [ORD. 23-02]
+(A) The activities are conducted in existing buildings that were lawfully
+constructed on the property before January 1, 2019, or in new buildings
+that are accessory, incidental and subordinate to the farm use on the tract;
+and
+(B) All individuals conducting therapeutic or counseling activities are acting
+within the proper scope of any licenses required by the state.
+7) A farm product processing facility may be allowed on land zoned for exclusive
+farm use, only if the facility:
+(A) Uses less than 10,000 square feet for its processing area and complies
+with all applicable siting standards; or
+(B) Notwithstanding any applicable siting standard, uses less than 2,500
+square feet for its processing area. However, the County shall apply
+applicable standards and criteria pertaining to floodplains, geologic
+hazards, beach and dune hazards, airport safety, tsunami hazards and fire
+siting standards.
+(C) Siting standards may not be applied in a manner that prohibits the siting of
+a farm product processing facility. [ORD. 23-02]
+Section 3.9040. Mineral, Aggregate, Oil and Gas Uses
+1) Facilities that batch and blend mineral and aggregate into asphalt cement may
+not be authorized within two miles of a planted vineyard. Planted vineyard means
+one or more vineyards totaling 40 acres or more that are planted as of the date
+the application for batching and blending is filed.
+2) Mining, crushing or stockpiling of aggregate and other mineral and subsurface
+resources are subject to the following:
+(A) A land use permit is required for mining more than one thousand (1,000)
+cubic yards of martial or excavation preparatory to mining of a surface
+area of more than one (1) acre.
+(B) A land use permit for mining of aggregate shall be issued only for a site
+included on the mineral and aggregate inventory in an acknowledged
+Comprehensive Plan.
+Section 3.9050. Transportation Uses
+1) A personal-use airport, as used in this Section, prohibits aircraft other than those
+owned or controlled by the owner of the airstrip. Exceptions to the activities
+allowed under this definition may be granted through waiver action by the Oregon
+Department of Aviation in specific instances. A personal-use airport lawfully
+
+Clatsop County Land and Water III-53 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+existing as of September 13, 1975, shall continue to be allowed subject to any
+applicable rules of the Oregon Department of Aviation.
+Section 3.9060. Utility/Solid Waste Disposal Facilities
+1) Subject to the issuance of a license, permit or other approval by the Department
+of Environmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or
+468B.055, or in compliance with rules adopted under 468B.095, and with the
+requirements of ORS 215.246, 215.247, 215.249 and 215.251, the land
+application of reclaimed water, agricultural process or industrial process water or
+biosolids, or the onsite treatment of septage prior to the land application of
+biosolids, for agricultural, horticultural or silvicultural production, or for irrigation in
+connection with a use allowed in an exclusive farm use zone under this division
+is allowed. For the purposes of this section, onsite treatment of septage prior to
+the land application of biosolids is limited to treatment using facilities that are
+portable, temporary and transportable by truck trailer, as defined in ORS
+801.580, during a period of time which land application of biosolids is authorized
+under the license, permit or other approval.
+2) Utility facility service lines are utility lines and accessory facilities or structures
+that end at the point where the utility service is received by the customer and that
+are located on one or more of the following:
+(A) A public right of way;
+(B) Land immediately adjacent to a public right of way, provided the written
+consent of all adjacent property owners has been obtained; or
+(C) The property to be served by the utility.
+3) A utility facility that is necessary for public service.
+(A) A utility facility is necessary for public service if the facility must be sited in
+the exclusive farm use zone in order to provide the service.
+1. To demonstrate that a utility facility is necessary, an applicant must
+show that reasonable alternatives have been considered and that
+the facility must be sited in an exclusive farm use zone due to one
+or more of the following factors:
+a) Technical and engineering feasibility;
+b) The proposed facility is locationally-dependent. A utility
+facility is locationally-dependent if it must cross land in one
+or more areas zoned for exclusive farm use in order to
+achieve a reasonably direct route or to meet unique
+geographical needs that cannot be satisfied on other lands;
+c) Lack of available urban and nonresource lands;
+d) Availability of existing rights of way;
+e) Public health and safety; and
+f) Other requirements of state and federal agencies.
+2. Costs associated with any of the factors listed in Subsection (1 of
+this subsection may be considered, but cost alone may not be the
+only consideration in determining that a utility facility is necessary
+
+Clatsop County Land and Water III-54 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+for public service. Land costs shall not be included when
+considering alternative locations for substantially similar utility
+facilities and the siting of utility facilities that are not substantially
+similar.
+3. The owner of a utility facility approved under Subsection (A) shall
+be responsible for restoring, as nearly as possible, to its former
+condition any agricultural land and associated improvements that
+are damaged or otherwise disturbed by the siting, maintenance,
+repair or reconstruction of the facility. Nothing in this Subsection
+shall prevent the owner of the utility facility from requiring a bond or
+other security from a contractor or otherwise imposing on a
+contractor the responsibility for restoration.
+4. The county shall impose clear and objective conditions on an
+application for utility facility siting to mitigate and minimize the
+impacts of the proposed facility, if any, on surrounding lands
+devoted to farm use in order to prevent a significant change in
+accepted farm practices or a significant increase in the cost of farm
+practices on surrounding farmlands.
+5. Utility facilities necessary for public service may include on-site and
+off-site facilities for temporary workforce housing for workers
+constructing a utility facility. Such facilities must be removed or
+converted to an allowed use under the EFU Zone or other statute or
+rule when project construction is complete. Off-site facilities allowed
+under this Subsection are subject to Subsection S3.509 Conditional
+Use Review Criteria. Temporary workforce housing facilities not
+included in the initial approval may be considered through a minor
+amendment request. A minor amendment request shall have no
+effect on the original approval.
+6. In addition to the provisions of Section S3.5013)(A)1 through 4, the
+establishment or extension of a sewer system as defined by OAR
+660-011-0060(1)(f) shall be subject to the provisions of 660-011-
+0060.
+(B) An associated transmission line is necessary for public service upon
+demonstration that the associated transmission line meets either the
+following requirements of Subsection 1 or Subsection 2 of this Subsection.
+1. An applicant demonstrates that the entire route of the associated
+transmission line meets at least one of the following requirements:
+a) The associated transmission line is not located on high-value
+farmland, as defined in ORS 195.300, or on arable land;
+b) The associated transmission line is co-located with an
+existing transmission line;
+c) The associated transmission line parallels an existing
+transmission line corridor with the minimum separation
+necessary for safety; or
+
+Clatsop County Land and Water III-55 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+d) The associated transmission line is located within an existing
+right of way for a linear facility, such as a transmission line,
+road or railroad, that is located above the surface of the
+ground.
+2. After an evaluation of reasonable alternatives, an applicant
+demonstrates that the entire route of the associated transmission
+line meets, subject to Sections S3.5013)(B)3 and 4, two or more of
+the following criteria:
+a) Technical and engineering feasibility;
+b) The associated transmission line is locationally-dependent
+because the associated transmission line must cross high-
+value farmland, as defined in ORS 195.300, or arable land to
+achieve a reasonably direct route or to meet unique
+geographical needs that cannot be satisfied on other lands;
+c) Lack of an available existing right of way for a linear facility,
+such as a transmission line, road or railroad, that is located
+above the surface of the ground;
+d) Public health and safety; or
+e) Other requirements of state or federal agencies.
+3. As pertains to Subsection 2, the applicant shall demonstrate how
+the applicant will mitigate and minimize the impacts, if any, of the
+associated transmission line on surrounding lands devoted to farm
+use in order to prevent a significant change in accepted farm
+practices or a significant increase in the cost of farm practices on
+the surrounding farmland.
+4. The county may consider costs associated with any of the factors
+listed in Subsection 2, but consideration of cost may not be the only
+consideration in determining whether the associated transmission
+line is necessary for public service.
+4) Composting operations and facilities shall meet the performance and permitting
+requirements of the Department of Environmental Quality under OAR 340-093-
+0050 and 340-096-0060. Buildings and facilities used in conjunction with the
+composting operation shall only be those required for the operation of the subject
+facility. Onsite sales shall be limited to bulk loads of at least one unit (7.5 cubic
+yards) in size that are transported in one vehicle. This use is not permitted on
+high value farmland except that existing facilities on high value farmland may be
+expanded subject to Section S3.5013).
+(A) Compost facility operators must prepare, implement and maintain a site-
+specific Odor Minimization Plan that:
+1. Meets the requirements of OAR 340-096-0150;
+2. Identifies the distance of the proposed operation to the nearest
+residential zone;
+3. Includes a complaint response protocol;
+4. Is submitted to the DEQ with the required permit application; and
+
+Clatsop County Land and Water III-56 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+5. May be subject to annual review by the county to determine if any
+revisions are necessary.
+(B) Compost operations subject to Section S3.5014)(A) include:
+1. A new disposal site for composting that sells, or offers for sale,
+resulting product; or
+2. An existing disposal site for composting that sells, or offers for sale,
+resulting product that:
+3. Accepts as feedstock nonvegetative materials, including dead
+animals, meat, dairy products and mixed food waste (type 3
+feedstock); or
+4. Increases the permitted annual tonnage of feedstock used by the
+disposal site by an amount that requires a new land use approval.
+5) Solid waste disposal facilities shall meet the performance and permitting
+requirements of the Department of Environmental Quality under ORS 459.245,
+shall meet the requirements of Section 3.9090 and shall comply with the
+following requirements.
+(A) The facility shall be designed to minimize conflicts with existing and
+permitted uses allowed under plan designations for adjacent parcels as
+outlined in policies of the Comprehensive Plan.
+(B) The facility must be of a size and design to minimize noise or other
+detrimental effects when located adjacent to farm, forest and grazing
+dwellings(s) or a residential zone.
+(C) The facility shall be fenced when the site is located adjacent to dwelling(s)
+or a residential zone and landscaping, buffering and/or screening shall be
+provided.
+(D) The facility does not constitute an unnecessary fire hazard.  If located in a
+forested area, the county shall condition approval to ensure that minimum
+fire safety measures will be taken, which may include but are not limited to
+the following:
+1. The area surrounding the facility is kept free from litter and debris.
+2. Fencing will be installed around the facility, if deemed appropriate
+to protect adjacent farm crops or timber stand.
+3. If the proposed facility is located in a forested area, construction
+materials shall be fire resistant or treated with a fire retardant
+substance and the applicant will be required to remove forest fuels
+within 30 feet of structures.
+(E) The facility shall adequately protect fish and wildlife resources by meeting
+minimum Oregon State Department of Forestry regulations.
+(F) Access roads or easements for the facility shall be improved to the
+county’s Transportation System Plan standards and comply with grades
+recommended by the Public Works Director.
+(G) Road construction for the facility must be consistent with the intent and
+purposes set forth in the Oregon Forest Practices Act to minimize soil
+disturbance and help maintain water quality.
+
+Clatsop County Land and Water III-57 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(H) Hours of operation for the facility shall be limited to 8 am – 7 pm.
+(I) Comply with other conditions deemed necessary.
+Section 3.9070. Parks/Public/Quasi-Public
+1) Buildings and facilities associated with a site for the takeoff and landing of model
+aircraft shall not be more than 500 square feet in floor area or placed on a
+permanent foundation unless the building or facility preexisted the use approved
+under this Section. The site shall not include an aggregate surface or hard
+surface area unless the surface preexisted the use approved under this Section.
+An owner of property used for the purpose authorized in this Section may charge
+a person operating the use on the property rent for the property. An operator may
+charge users of the property a fee that does not exceed the operator’s cost to
+maintain the property, buildings and facilities. As used in this Section, "model
+aircraft" means a small-scale version of an airplane, glider, helicopter, dirigible or
+balloon that is used or intended to be used for flight and is controlled by radio,
+lines or design by a person on the ground.
+2) A living history museum shall be related to resource based activities and shall be
+owned and operated by a governmental agency or a local historical society. A
+living history museum may include limited commercial activities and facilities that
+are directly related to the use and enjoyment of the museum and located within
+authentic buildings of the depicted historic period or the museum administration
+building, if areas other than an exclusive farm use zone cannot accommodate the
+museum and related activities or if the museum administration buildings and
+parking lot are located within one quarter mile of an urban growth boundary.
+"Local historical society" means the local historical society, recognized as such
+by the county governing body and organized under ORS Chapter 65.
+3) A community center may provide services to veterans, including but not limited to
+emergency and transitional shelter, preparation and service of meals, vocational
+and educational counseling and referral to local, state or federal agencies
+providing medical, mental health, disability income replacement and substance
+abuse services, only in a facility that is in existence on January 1, 2006. The
+services may not include direct delivery of medical, mental health, disability
+income replacement or substance abuse services.
+4) Public parks may include:
+(A) All outdoor recreation uses allowed under ORS 215.213 or 215.283.
+(B) The following uses, if authorized in a local or park master plan that is
+adopted as part of the local comprehensive plan, or if authorized in a state
+park master plan that is adopted by OPRD:
+1. Campground areas: recreational vehicle sites; tent sites; camper
+cabins; yurts; teepees; covered wagons; group shelters; campfire
+program areas; camp stores;
+2. Day use areas: picnic shelters, barbecue areas, swimming areas
+(not swimming pools), open play fields, play structures;
+3. Recreational trails: walking, hiking, biking, horse, or motorized off-
+
+Clatsop County Land and Water III-58 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+road vehicle trails; trail staging areas;
+4. Boating and fishing facilities: launch ramps and landings, docks,
+moorage facilities, small boat storage, boating fuel stations, fish
+cleaning stations, boat sewage pumpout stations;
+5. Amenities related to park use intended only for park visitors and
+employees: laundry facilities; recreation shops; snack shops not
+exceeding 1500 square feet of floor area;
+6. Support facilities serving only the park lands wherein the facility is
+located: water supply facilities, sewage collection and treatment
+facilities, storm water management facilities, electrical and
+communication facilities, restrooms and showers, recycling and
+trash collection facilities, registration buildings, roads and bridges,
+parking areas and walkways;
+7. Park Maintenance and Management Facilities located within a park:
+maintenance shops and yards, fuel stations for park vehicles,
+storage for park equipment and supplies, administrative offices,
+staff lodging; and
+8. Natural and cultural resource interpretative, educational and
+informational facilities in state parks: interpretative centers,
+information/orientation centers, self-supporting interpretative and
+informational kiosks, natural history or cultural resource museums,
+natural history or cultural educational facilities, reconstructed
+historic structures for cultural resource interpretation, retail stores
+not exceeding 1500 square feet for sale of books and other
+materials that support park resource interpretation and education.
+(C) Visitor lodging and retreat facilities if authorized in a state park master
+plan that is adopted by OPRD: historic lodges, houses or inns and the
+following associated uses in a state park retreat area only:
+1.  Meeting halls not exceeding 2000 square feet of floor area;
+2. Dining halls (not restaurants).
+5) Schools formerly allowed pursuant to ORS 215.283(1)(a) that were established
+on or before January 1, 2009, may be expanded if:
+(A) The Conditional Use Review Criteria in Section 3.9090 are met; and
+(B) The expansion occurs on the tax lot on which the use was established, or
+on a tax lot that is contiguous to the tax lot on which the use was
+established and that was under the same ownership as of January 1,
+2025; and
+(C) The school is a public or private school for kindergarten through grade 12.
+[ORD. 25-16]
+6) A campground is an area devoted to overnight temporary use for vacation,
+recreation or emergency purposes, but not for residential purposes. Private
+Campgrounds are subject to the following:
+(A) Except on a lot or parcel contiguous to a lake or reservoir, private
+campgrounds shall not be allowed within three miles of an urban growth
+
+Clatsop County Land and Water III-59 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+boundary unless an exception is approved pursuant to ORS 197.732 and
+OAR chapter 660, division 4.
+(B) A campground shall be designed and integrated into the rural agricultural
+and forest environment in a manner that protects the natural amenities of
+the site and provides buffers of existing native trees and vegetation or
+other natural features between campsites.
+(C) Campgrounds shall not include intensively developed recreational uses
+such as swimming pools, tennis courts, retail stores or gas stations.
+(D) Overnight temporary use in the same campground by a camper or
+camper's vehicle shall not exceed a total of 30 days during any
+consecutive six-month period.
+(E) Campsites may be occupied by a tent, travel trailer, yurt or recreational
+vehicle.
+(F) Separate sewer, water or electric service hook-ups shall not be provided
+to individual camp sites except that electrical service may be provided to
+yurts allowed by Subsection (G).
+(G) A private campground may provide yurts for overnight camping. No more
+than one-third or a maximum of 10 campsites, whichever is smaller, may
+include a yurt. The yurt shall be located on the ground or on a wood floor
+with no permanent foundation.
+(H) Emergency campgrounds are subject to the following:
+1. Emergency campgrounds may be authorized when a wildfire
+identified in an Executive Order issued by the Governor in
+accordance with the Emergency Conflagration Act, ORS 476.510
+through 476.610, has destroyed homes or caused residential
+evacuations, or both within the county or an adjacent county.
+2. Commercial uses are limited to mobile commissary services scaled
+to meet the needs of campground occupants.
+3. The emergency campground must be removed or converted to an
+allowed use within 36 months from the date of the Governor’s
+Executive Order, The County may grant two additional 12-month
+extensions if the applicant demonstrated that the campground is
+necessary to support the natural hazard recovery efforts because
+adequate amounts of permanent housing are not reasonably
+available.
+4. The County shall process applications for emergency campgrounds
+and extensions using the process identified in ORS 215.416(11).
+5. Campsites may be occupied by a tent, travel trailer, yurt or
+recreational vehicle.
+6. Separate sewer hook-ups shall not be provided to individual camp
+sites.
+7. Campgrounds shall be located outside of flood, geological, or
+wildfire hazard areas identified in adopted comprehensive plans
+and land use regulations to the extent possible.
+
+Clatsop County Land and Water III-60 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+8. A plan for removing or converting the temporary campground to an
+allowed use at the end of the timeframe specified in subsection 93)
+shall be included in the application materials and be attached to the
+Notice of Decision as a condition of approval. The County may
+require that the removal plan includes a specific financial
+agreement in the form of a performance bond, letter of credit or
+other assurance acceptable to the County that is in an amount
+necessary to ensure that there are adequate funds available for
+removal or conversion activities to be completed.
+9. Compliance with Section 3.9090 shall be satisfied if the following
+criteria are met:
+a. The Governor has issued an Executive Order declaring an
+emergency for all or parts of Oregon pursuant to ORS
+401.165
+b. The subject property is not irrigated
+c. The subject property is not high-value farmland
+d. The number of proposed campsites does not exceed 12; or
+e. The number of proposed campsites does not exceed 36 and
+the campsites and other campground facilities are at least
+660 feet from adjacent lands planned and zoned for farm or
+forest use or both. [ORD. 25-16]
+7) Accessory uses provided as part of a golf course shall be limited consistent with
+the following standards:
+(A) An accessory use to a golf course is a facility or improvement that is
+incidental to the operation of the golf course and is either necessary for
+the operation and maintenance of the golf course or that provides goods
+or services customarily provided to golfers at a golf course. An accessory
+use or activity does not serve the needs of the non-golfing public.
+Accessory uses to a golf course may include: Parking; maintenance
+buildings; cart storage and repair; practice range or driving range;
+clubhouse; restrooms; lockers and showers; food and beverage service;
+pro shop; a practice or beginners course as part of an 18 hole or larger
+golf course; or golf tournament. Accessory uses to a golf course do not
+include: Sporting facilities unrelated to golfing such as tennis courts,
+swimming pools, and weight rooms; wholesale or retail operations
+oriented to the non-golfing public; or housing;
+(B) Accessory uses shall be limited in size and orientation on the site to serve
+the needs of persons and their guests who patronize the golf course to
+golf. An accessory use that provides commercial services (e.g., pro shop,
+etc.) shall be located in the clubhouse rather than in separate buildings;
+and
+(C) Accessory uses may include one or more food and beverage service
+facilities in addition to food and beverage service facilities located in a
+clubhouse. Food and beverage service facilities must be part of, and
+
+Clatsop County Land and Water III-61 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+incidental to, the operation of the golf course and must be limited in size
+and orientation on the site to serve only the needs of persons who
+patronize the golf course and their guests. Accessory food and beverage
+service facilities shall not be designed for or include structures for
+banquets, public gatherings or public entertainment.
+Section 3.9080. General Standards
+1) Three-mile setback. For uses subject to this Subsection:
+(A) No enclosed structure with a design capacity greater than 100 people, or
+group of structures with a total design capacity of greater than 100 people,
+shall be approved in connection with the use within three miles of an
+urban growth boundary, unless an exception is approved pursuant to ORS
+197.732 and OAR chapter 660, division 4, or unless the structure is
+described in a master plan adopted under the provisions of OAR chapter
+660, division 34.
+(B) Any enclosed structures or group of enclosed structures described in
+Subsection (A) within a tract must be separated by at least one-half mile.
+For purposes of this Subsection, “tract” means a tract that is in existence
+as of June 17, 2010.
+(C) Existing facilities wholly within a farm use zone may be maintained,
+enhanced or expanded on the same tract, subject to other requirements of
+law, but enclosed existing structures within a farm use zone within three
+miles of an urban growth boundary may not be expanded beyond the
+requirements of this ordinance.
+2) Single-unit dwelling deeds. The landowner shall sign and record in the deed
+records for the county a document binding the landowner, and the landowner's
+successors in interest, prohibiting them from pursuing a claim for relief or cause
+of action alleging injury from farming or forest practices for which no action or
+claim is allowed under ORS 30.936 or 30.937. [ORD. 25-16]
+3) Expansion standards. Existing facilities wholly within a farm use zone may be
+maintained, enhanced or expanded on the same tract, subject to other
+requirements of law. An existing golf course may be expanded consistent with
+the requirements of Section 3.9090 and Section 4.3300(22).
+Section 3.9090. Conditional Use Review Criteria [ORD. 25-16]
+These requirements, which are in addition to the requirements of Section 2.4000-
+2.4050, are designed to make a conditional use on farm and forest lands compatible
+with forest operations and agriculture lands. Conditional uses on farm and forest
+resource lands may be approved only where such uses:
+1) Will not force a significant change in accepted farm or forest practices on
+surrounding lands devoted to farm or forest use; and
+2) Will not significantly increase the cost of accepted farm or forest practices on
+surrounding lands devoted to farm or forest use.
+
+Clatsop County Land and Water III-62 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+3) For purposes of subsections (1) and (2), above, a determination of forcing a
+significant change in accepted farm or forest practices on surrounding lands
+devoted to farm and forest use or a determination of whether the use will
+significantly increase the cost of accepted farm or forest practices on surrounding
+lands devoted to farm or forest use requires:
+(A) Identification and description of the surrounding lands, the farm and forest
+operations on those lands, and the accepted farm practices on each farm
+operation and the accepted forest practices on each forest operation.
+(B) An assessment of the individual impacts to each farm and forest practice,
+and whether the proposed use is likely to have an important influence or
+effect on any of those practices; and
+(C) An assessment of whether all identified impacts of the proposed use,
+when considered together, could have a significant impact to any farm or
+forest operation in the surrounding area in a manner that is likely to have
+any important influence or effect on that operation.
+(D) For purposes of this subsection, examples of potential impacts for
+consideration may include, but are not limited to, traffic, water availability
+and delivery, introduction of weeds or pests, damage to crops or livestock,
+litter, trespass, reduction in crop yields or flooding.
+(E) For purposes of subsections (1) and (2), above, potential impacts to farm
+and forest practices or the cost of farm and forest practices, impacts
+relating to the construction or installation of the proposed use shall be
+deemed part of the use itself for the purpose of conducting a review under
+subsections (1) and 920.
+(F) In the consideration of potentially mitigating conditions of approval under
+ORS m215.296(2), the decision maker may not impose such a condition
+upon the owner of the affected farm or forest land or on such land itself,
+nor compel said owner to accept payment to compensate for the
+significant changes or significant increases in costs described in
+subsections (1) and (2). [ORD. 25-16]
+Section 3.9100. Dwellings in Conjunction with Farm Use [ORD. 25-16]
+1) Large Tract Standards. On land not identified as high-value farmland as defined
+in Section 1.0500, a dwelling may be considered customarily provided in
+conjunction with farm use if:
+(A) The parcel on which the dwelling will be located is at least 160 acres.
+(B) The subject tract is currently employed for farm use.
+(C) The dwelling will be occupied by a person or persons who will be
+principally engaged in the farm use of the subject tract, such as planting,
+harvesting, marketing or caring for livestock, at a commercial scale.
+(D) Except for seasonal farmworker housing approved prior to 2001, there is
+no other dwelling on the subject tract.
+2) Farm Income Standards (non-high value farmland). On land not identified as
+high-value farmland, a dwelling may be considered customarily provided in
+
+Clatsop County Land and Water III-63 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+conjunction with farm use if:
+(A) The subject tract is currently employed for the farm use on which, in each
+of the last two years or three of the last five years, or in an average of
+three of the last five years, the farm operator earned the lower of the
+following:
+1. At least $40,000 in gross annual income from the sale of farm
+products; or
+2. Gross annual income of at least the midpoint of the median income
+range of gross annual sales for farms in the county with gross
+annual sales of $10,000 or more according to the 1992 Census of
+Agriculture, Oregon; and
+(B) Except for seasonal farmworker housing approved prior to 2001, there is
+no other dwelling on lands designated for exclusive farm use pursuant to
+ORS Chapter 215 owned by the farm or ranch operator or on the farm or
+ranch operation;
+(C) The dwelling will be occupied by a person or persons who produced the
+commodities that grossed the income in Subsection (A); and
+(D) In determining the gross income required by Subsection (A):
+1. The cost of purchased livestock shall be deducted from the total
+gross income attributed to the farm or ranch operation;
+2. Only gross income earned from land owned, not leased or rented,
+shall be counted; and
+3. Gross farm income earned from a lot or parcel that has been used
+previously to qualify another lot or parcel for the construction or
+siting of a primary farm dwelling may not be used.
+4. The applicant shall submit to the County an IRS tax return
+transcript with any other information the County may require that
+demonstrates compliance with the gross farm income requirement,
+[ORD. 25-16]
+3) Farm Income Standards (high-value). On land identified as high-value farmland,
+a dwelling may be considered customarily provided in conjunction with farm use
+if:
+(A) The subject tract is currently employed for the farm use on which the farm
+operator earned at least $80,000 in gross annual income from the sale of
+farm products in each of the last two years or three of the last five years,
+or in an average of three of the last five years; and
+(B) Except for seasonal farmworker housing approved prior to 2001, there is
+no other dwelling on lands designated for exclusive farm use owned by
+the farm or ranch operator or on the farm or ranch operation; and
+(C) The dwelling will be occupied by a person or persons who produced the
+commodities that grossed the income in Subsection (A);
+(D) In determining the gross income required by Subsection (A):
+1. The cost of purchased livestock shall be deducted from the total
+gross income attributed to the farm or ranch operation;
+
+Clatsop County Land and Water III-64 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+2. Only gross income earned from land owned, not leased or rented,
+shall be counted; and
+3. Gross farm income earned from a lot or parcel that has been used
+previously to qualify another lot or parcel for the construction or
+siting of a primary farm dwelling may not be used.
+4. The applicant shall submit to the County an IRS tax return
+transcript with any other information the County may require that
+demonstrates compliance with the gross farm income requirement.
+[ORD. 25-16]
+4) Farm Capability Standards.
+(A) On land not identified as high-value farmland, a dwelling may be
+considered customarily provided in conjunction with farm use if:
+1. The subject tract is at least as large as the median size of those
+commercial farm or ranch tracts capable of generating at least
+$10,000 in annual gross sales that are located within a study area
+that includes all tracts wholly or partially within one mile from the
+perimeter of the subject tract;
+2. The subject tract is capable of producing at least the median level
+of annual gross sales of county indicator crops as the same
+commercial farm or ranch tracts used to calculate the tract size in
+Subsection 1;
+3. The subject tract is currently employed for a farm use at a level
+capable of producing the annual gross sales required in Subsection
+1;
+4. The subject lot or parcel on which the dwelling is proposed is not
+less than 10 acres;
+5. Except for seasonal farmworker housing approved prior to 2001,
+there is no other dwelling on the subject tract;
+6. The dwelling will be occupied by a person or persons who will be
+principally engaged in the farm use of the subject tract, such as
+planting, harvesting, marketing or caring for livestock, at a
+commercial scale; and
+7. If no farm use has been established at the time of application, land
+use approval shall be subject to a condition that no building permit
+may be issued prior to the establishment of the farm use required
+by Subsection 3.
+8. In determining the gross sales capability required by Subsection 3:
+a) The actual or potential cost of purchased livestock shall be
+deducted from the total gross sales attributed to the farm or
+ranch tract;
+b) Only actual or potential sales from land owned, not leased or
+rented, shall be counted; and
+c) actual or potential gross farm sales earned from a lot or
+parcel that has been used previously to qualify another lot or
+
+Clatsop County Land and Water III-65 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+parcel for the construction or siting of a primary farm
+dwelling may not be used.
+(B) In order to identify the commercial farm or ranch tracts to be used in
+Subsection 1, the potential gross sales capability of each tract in the study
+area, including the subject tract, must be determined, using the gross
+sales figures prepared by the county pursuant to OAR 660-033-
+0135(2)(c).
+5) Additional Farm Income Standards.
+(A) For the purpose of Subsections 2) or 3), noncontiguous lots or parcels
+zoned for farm use in the same county or contiguous counties may be
+used to meet the gross income requirements. Lots or parcels in eastern or
+western Oregon may not be used to qualify a dwelling in the other part of
+the state.
+(B) Prior to the final approval for a dwelling authorized by Subsections 2) and
+3)  that requires one or more contiguous or non-contiguous lots or parcels
+of a farm or ranch operation to comply with the gross farm income
+requirements, the applicant shall complete and record with the county
+clerk the covenants, conditions, and restrictions form provided by the
+county (Exhibit A to OAR Chapter 660 Division 33). The covenants,
+conditions and restrictions shall be recorded for each lot or parcel subject
+to the application for the primary farm dwelling and shall preclude:
+1. All future rights to construct a dwelling except for accessory farm
+dwellings, relative farm assistance dwellings, temporary hardship
+dwellings or replacement dwellings allowed by ORS Chapter 215;
+and
+2. The use of any gross farm income earned on the lots or parcels to
+qualify another lot or parcel for a primary farm dwelling.
+(C) The covenants, conditions and restrictions are irrevocable, unless a
+statement of release is signed by an authorized representative of the
+county or counties where the property subject to the covenants, conditions
+and restrictions is located;
+6) Commercial Dairy Farm Standards. A dwelling may be considered customarily
+provided in conjunction with a commercial dairy farm and capable of earning the
+gross annual income requirements by Subsections 2) or 3) above, subject to the
+following requirements:
+(A) The subject tract will be employed as a commercial dairy as defined in
+Subsection (G);
+(B) The dwelling is sited on the same lot or parcel as the buildings required by
+the commercial dairy;
+(C) Except for seasonal farmworker housing approved prior to 2001, there is
+no other dwelling on the subject tract;
+(D) The dwelling will be occupied by a person or persons who will be
+principally engaged in the operation of the commercial dairy farm, such as
+the feeding, milking or pasturing of the dairy animals or other farm use
+
+Clatsop County Land and Water III-66 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+activities necessary to the operation of the commercial dairy farm;
+(E) The building permits, if required, have been issued for and construction
+has begun for the buildings and animal waste facilities required for a
+commercial dairy farm; and
+(F) The Oregon Department of Agriculture has approved the following:
+1. A permit for a "confined animal feeding operation" under
+ORS 468B.050 and 468B.200 to 468B.230; and
+2. A Producer License for the sale of dairy products under
+ORS 621.072.
+(G) As used in this Section, "commercial dairy farm" is a dairy operation that
+owns a sufficient number of producing dairy animals capable of earning
+the gross annual income required by Subsections 2) or 3), whichever is
+applicable, from the sale of fluid milk.
+7) Relocated Farm Operations. A dwelling may be considered customarily provided
+in conjunction with farm use if:
+(A) Within the previous two years, the applicant owned and operated a
+different farm or ranch operation that earned the gross farm income in
+each of the last five years or four of the last seven years as required by
+Subsection 2) or 3), whichever is applicable;
+(B) The subject lot or parcel on which the dwelling will be located is:
+1. Currently employed for the farm use that produced in each of the
+last two years or three of the last five years, or in an average of
+three of the last five years the gross farm income required by
+Subsection 2) or 3), whichever is applicable; and
+2. At least the size of the applicable minimum lot size under Section
+4.3300;
+(C) Except for seasonal farmworker housing approved prior to 2001, there is
+no other dwelling on the subject tract;
+(D) The dwelling will be occupied by a person or persons who produced the
+commodities that grossed the income in Subsection (A); and
+(E) In determining the gross income required by Subsection (A) and
+Subsection (B):
+1. The cost of purchased livestock shall be deducted from the total
+gross income attributed to the tract; and
+2. Only gross income from land owned, not leased or rented, shall be
+counted.
+8) Farming of a marijuana crop, and the gross sales derived from selling a
+marijuana crop, may not be used to demonstrate compliance with the approval
+criteria for a primary farm dwelling.
+Section 3.9110. Accessory Farm Dwellings
+1) Accessory farm dwellings may be considered customarily provided in conjunction
+with farm use if each accessory farm dwelling meets all the following
+requirements:
+
+Clatsop County Land and Water III-67 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(A) The accessory farm dwelling will be occupied by a person or persons who
+will be principally engaged in the farm use of the land and whose seasonal
+or year-round assistance in the management of the farm use, such as
+planting, harvesting, marketing or caring for livestock, is or will be required
+by the farm operator;
+(B) The accessory farm dwelling will be located:
+1. On the same lot or parcel as the primary farm dwelling;
+2. On the same tract as the primary farm dwelling when the lot or
+parcel on which the accessory farm dwelling will be sited is
+consolidated into a single parcel with all other contiguous lots and
+parcels in the tract;
+3. On a lot or parcel on which the primary farm dwelling is not located,
+when the accessory farm dwelling is limited to only a manufactured
+dwelling with a deed restriction. The deed restriction shall be filed
+with the county clerk and require the manufactured dwelling to be
+removed when the lot or parcel is conveyed to another party. The
+manufactured dwelling may remain if it is reapproved under these
+provisions;
+4. On any lot or parcel, when the accessory farm dwelling is limited to
+only attached multi-unit residential structures allowed by the
+applicable state building code or similar types of farmworker
+housing as that existing on farm or ranch operations registered with
+the Department of Consumer and Business Services, Oregon
+Occupational Safety and Health Division under ORS 658.750. A
+county shall require all accessory farm dwellings approved under
+this Subsection to be removed, demolished or converted to a
+nonresidential use when farmworker housing is no longer required.
+“Farmworker housing” shall have the meaning set forth in 215.278
+and not the meaning in 315.163; or
+5. On a lot or parcel on which the primary farm dwelling is not located,
+when the accessory farm dwelling is located on a lot or parcel at
+least the size of the applicable minimum lot size under ORS
+215.780 and the lot or parcel complies with the gross farm income
+requirements in OAR 660-033-0135(3) or (4), whichever is
+applicable; and
+(C) There is no other dwelling on the lands designated for exclusive farm use
+owned by the farm operator that is vacant or currently occupied by
+persons not working on the subject farm or ranch and that could
+reasonably be used as an accessory farm dwelling.
+2) In addition to the requirements in Subsection 1), the primary farm dwelling to
+which the proposed dwelling would be accessory, meets one of the following:
+(A) On land not identified as high-value farmland, the primary farm dwelling is
+located on a farm or ranch operation that is currently employed for farm
+use, as defined in ORS 215.203, on which, in each of the last two years or
+
+Clatsop County Land and Water III-68 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+three of the last five years or in an average of three of the last five years,
+the farm operator earned the lower of the following:
+1. At least $40,000 in gross annual income from the sale of farm
+products. In determining the gross income, the cost of purchased
+livestock shall be deducted from the total gross income attributed to
+the tract; or
+2. Gross annual income of at least the midpoint of the median income
+range of gross annual sales for farms in the county with gross
+annual sales of $10,000 or more according to the 1992 Census of
+Agriculture, Oregon. In determining the gross income, the cost of
+purchased livestock shall be deducted from the total gross income
+attributed to the tract;
+(B) On land identified as high-value farmland, the primary farm dwelling is
+located on a farm or ranch operation that is currently employed for farm
+use, as defined in ORS 215.203, on which the farm operator earned at
+least $80,000 in gross annual income from the sale of farm products in
+each of the last two years or three of the last five years or in an average of
+three of the last five years. In determining the gross income, the cost of
+purchased livestock shall be deducted from the total gross income
+attributed to the tract; or
+(C) It is located on a commercial dairy farm as defined in Section
+3.9100(6)(g); and
+1. The building permits, if required, have been issued and
+construction has begun or been completed for the buildings and
+animal waste facilities required for a commercial dairy farm;
+2. The Oregon Department of Agriculture has approved a permit for a
+"confined animal feeding operation" under ORS 468B.050 and
+468B.200 to 468B.230; and
+3. A Producer License for the sale of dairy products under
+ORS 621.072.
+3) No division of a lot or parcel for an accessory farm dwelling shall be approved
+pursuant to this Subsection. If it is determined that an accessory farm dwelling
+satisfies the requirements of this ordinance, a parcel may be created consistent
+with the minimum parcel size requirements in Section 4.3300(1).
+4) An accessory farm dwelling approved pursuant to this Section cannot later be
+used to satisfy the requirements for a dwelling not provided in conjunction with
+farm use pursuant to Section 4.3300(23).
+5) For purposes of this Subsection, "accessory farm dwelling" includes all types of
+residential structures allowed by the applicable state building code.
+6) Farming of a marijuana crop shall not be used to demonstrate compliance with
+the approval criteria for an accessory farm dwelling.
+7) Accessory farm dwellings destroyed by a wildfire identified in an Executive Order
+issued by the Governor in accordance with the Emergency Conflagration Act,
+ORS 476.510 through 476.610, may be replaced. The temporary use of modular
+
+Clatsop County Land and Water III-69 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+structures, manufactured housing, fabric structures, tents and similar
+accommodations is allowed until replacement under this subsection occurs.
+[ORD. 25-16]
+8) The applicant shall submit to the County an IRS tax return transcript and  any
+other information the county may require to demonstrate compliance with the
+gross farm income requirements in subsections (2)(A) or (2)(B), as applicable.
+[ORD. 25-16]
+
+Section 3.9120. Lot of Record Dwellings [ORD. 25-16]
+1) A lot of record dwelling may be approved on a pre-existing lot or parcel if:
+(A) The lot or parcel on which the dwelling will be sited was lawfully created
+and was acquired and owned continuously by the present owner as
+defined in Subsection 5):
+1. Prior to January 1, 1985; or
+2. By devise or by intestate succession from a person who acquired
+and had owned continuously the lot or parcel prior to January 1,
+1985.
+(B) The tract on which the dwelling will be sited does not include a dwelling;
+(C) The lot or parcel on which the dwelling will be sited was part of a tract on
+November 4, 1993, no dwelling exists on another lot or parcel that was
+part of that tract;
+(D) The proposed dwelling is not prohibited by, and will comply with, the
+requirements of the acknowledged comprehensive plan and land use
+regulations and other provisions of law;
+(E) The lot or parcel on which the dwelling will be sited is not high-value
+farmland except as provided in Subsections 3) and 4); and
+(F) When the lot or parcel on which the dwelling will be sited lies within an
+area designated in the comprehensive plan as habitat of big game, the
+siting of the dwelling is consistent with the limitations on density upon
+which the acknowledged comprehensive plan and land use regulations
+intended to protect the habitat are based.
+2) When the lot or parcel on which the dwelling will be sited is part of a tract, the
+remaining portions of the tract are consolidated into a single lot or parcel when
+the dwelling is allowed;
+3) Notwithstanding the requirements of Section S3.5011)(E), a single-unit dwelling
+may be sited on high-value farmland if:
+(A) It meets the other requirements of Subsections 1) and 2);
+(B) The lot or parcel is protected as high-value farmland as defined in OAR
+660-033-0020(8)(a);
+(C) The county determines that:
+1. The lot or parcel cannot practicably be managed for farm use, by
+itself or in conjunction with other land, due to extraordinary
+circumstances inherent in the land or its physical setting that do not
+
+Clatsop County Land and Water III-70 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+apply generally to other land in the vicinity.
+a) For the purposes of this Section, this criterion asks whether
+the subject lot or parcel can be physically put to farm use
+without undue hardship or difficulty because of extraordinary
+circumstances inherent in the land or its physical setting.
+Neither size alone nor a parcel's limited economic potential
+demonstrates that a lot or parcel cannot be practicably
+managed for farm use.
+b) Examples of "extraordinary circumstances inherent in the
+land or its physical setting" include very steep slopes, deep
+ravines, rivers, streams, roads, railroad or utility lines or
+other similar natural or physical barriers that by themselves
+or in combination separate the subject lot or parcel from
+adjacent agricultural land and prevent it from being
+practicably managed for farm use by itself or together with
+adjacent or nearby farms.
+c) A lot or parcel that has been put to farm use despite the
+proximity of a natural barrier or since the placement of a
+physical barrier shall be presumed manageable for farm use;
+2. The dwelling will comply with the provisions of Section 3.9090; and
+3. The dwelling will not materially alter the stability of the overall land
+use pattern in the area by applying the standards set forth in
+Section 3.9130(2).
+4) Notwithstanding the requirements of Section S3.5011)(E), a single-unit dwelling
+may be sited on high-value farmland if:
+(A) It meets the other requirements of Subsections 1) and 2);
+(B) The tract on which the dwelling will be sited is:
+1. Identified in OAR 660-033-0020(8)(d);
+2. Not high-value farmland defined in subsection 1 of the High-Value
+Farmland definition in Section 1.0500; and
+3. Twenty-one acres or less in size; and
+(C) The tract is bordered on at least 67 percent of its perimeter by tracts that
+are smaller than 21 acres, and at least two such tracts had dwellings on
+January 1, 1993; or
+(D) The tract is not a flag lot and is bordered on at least 25 percent of its
+perimeter by tracts that are smaller than 21 acres, and at least four
+dwellings existed on January 1, 1993, within one-quarter mile of the center
+of the subject tract. Up to two of the four dwellings may lie within an urban
+growth boundary, but only if the subject tract abuts an urban growth
+boundary; or
+(E) The tract is a flag lot and is bordered on at least 25 percent of its
+perimeter by tracts that are smaller than 21 acres, and at least four
+dwellings existed on January 1, 1993, within one-quarter mile of the center
+of the subject tract and on the same side of the public road that provides
+
+Clatsop County Land and Water III-71 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+access to the subject tract. The governing body of a county must interpret
+the center of the subject tract as the geographic center of the flag lot if the
+applicant makes a written request for that interpretation and that
+interpretation does not cause the center to be located outside the flag lot.
+Up to two of the four dwellings may lie within an urban growth boundary,
+but only if the subject tract abuts an urban growth boundary:
+1. “Flag lot” means a tract containing a narrow strip or panhandle of
+land providing access from the public road to the rest of the tract.
+2. “Geographic center of the flag lot” means the point of intersection of
+two perpendicular lines of which the first line crosses the midpoint
+of the longest side of a flag lot, at a 90-degree angle to the side,
+and the second line crosses the midpoint of the longest adjacent
+side of the flag lot.
+5) For purposes of Subsection 1), “owner” includes the wife, husband, son,
+daughter, mother, father, brother, brother-in-law, sister, sister-in-law, son-in-law,
+daughter-in-law, mother-in-law, father-in-law, aunt, uncle, niece, nephew,
+stepparent, stepchild, grandparent or grandchild of the owner or a business entity
+owned by any one or a combination of these family members;
+6) The county assessor shall be notified that the governing body intends to allow
+the dwelling.
+7) An approved single-unit dwelling under this Section may be transferred by a
+person who has qualified under this Section to any other person after the
+effective date of the land use decision.
+8) The county shall provide notice of all applications for lot of record dwellings on
+high value farmland to the State Department of Agriculture.  Notice shall be
+provided in accordance with land use regulations and shall be mailed at least 20
+calendar days prior to the public hearing.
+Section 3.9130. Dwellings Not in Conjunction with Farm Use
+Non-farm dwelling. A non-farm dwelling is subject to the following requirements:
+1) The dwelling or activities associated with the dwelling will not force a significant
+change in or significantly increase the cost of accepted farming or forest
+practices on nearby lands devoted to farm or forest use;
+(A) The dwelling is situated upon a new parcel, or a portion of an existing lot
+or parcel, that is generally unsuitable land for the production of farm crops
+and livestock or merchantable tree species, considering the terrain,
+adverse soil or land conditions, drainage and flooding, vegetation, location
+and size of the tract. A  new parcel or portion of an existing lot or parcel
+shall not be considered unsuitable solely because of size or location if it
+can reasonably be put to farm or forest use in conjunction with other land;
+and
+(B) A new parcel or portion of an existing lot or parcel is not "generally
+unsuitable" simply because it is too small to be farmed profitably by itself.
+If a parcel or portion of a lot or parcel can be sold, leased, rented or
+
+Clatsop County Land and Water III-72 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+otherwise managed as a part of a commercial farm or ranch, then it is not
+"generally unsuitable." A new parcel or portion of an existing lot or parcel
+is presumed to be suitable if it is composed predominantly of Class I-IV
+soils. Just because a new parcel or portion of an existing lot or parcel is
+unsuitable for one farm use does not mean it is not suitable for another
+farm use; or
+(C) If the lot or parcel is under forest assessment, the dwelling shall be
+situated upon generally unsuitable land for the production of merchantable
+tree species recognized by the Forest Practices Rules, considering the
+terrain, adverse soil or land conditions, drainage and flooding, vegetation,
+location and size of the parcel. If a lot or parcel is under forest
+assessment, the area is not "generally unsuitable" simply because it is too
+small to be managed for forest production profitably by itself. If a lot or
+parcel under forest assessment can be sold, leased, rented or otherwise
+managed as a part of a forestry operation, it is not "generally unsuitable".
+If a lot or parcel is under forest assessment, it is presumed suitable if it is
+composed predominantly of soils capable of producing 50 cubic feet of
+wood fiber per acre per year. If a lot or parcel is under forest assessment,
+to be found compatible and not seriously interfere with forest uses on
+surrounding land it must not force a significant change in forest practices
+or significantly increase the cost of those practices on the surrounding
+land.
+2) The dwelling will not materially alter the stability of the overall land use pattern of
+the area. In determining whether a proposed nonfarm dwelling will alter the
+stability of the land use pattern in the area, a county shall consider the
+cumulative impact of nonfarm dwellings on other lots or parcels in the area
+similarly situated by applying the standards set forth in (A) through (C) below. If
+the application involves the creation of a new parcel for the nonfarm dwelling, a
+county shall consider whether creation of the parcel will lead to creation of other
+nonfarm parcels, to the detriment of agriculture in the area by applying the
+standards set forth in (A) through (C) below;
+(A) Identify a study area for the cumulative impacts analysis. The study area
+shall include at least 2,000 acres or a smaller area not less than 1,000
+acres, if the smaller area is a distinct agricultural area based on
+topography, soil types, land use pattern, or the type of farm or ranch
+operations or practices that distinguish it from other, adjacent agricultural
+areas. Findings shall describe the study area, its boundaries, the location
+of the subject parcel within this area, why the selected area is
+representative of the land use pattern surrounding the subject parcel and
+is adequate to conduct the analysis required by this standard. Lands
+zoned for rural residential or other urban or nonresource uses shall not be
+included in the study area;
+(B) Identify within the study area the broad types of farm uses (irrigated or
+non-irrigated crops, pasture or grazing lands), the number, location and
+
+Clatsop County Land and Water III-73 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+type of existing dwellings (farm, nonfarm, hardship, etc.), and the dwelling
+development trends since 1993. Determine the potential number of
+nonfarm/lot-of-record dwellings that could be approved under Sections
+3.9120(1) and 3.9130, including identification of predominant soil
+classifications, the parcels created prior to January 1, 1993 and the
+parcels larger than the minimum lot size that may be divided to create new
+parcels for nonfarm dwellings under ORS 215.263(4). The findings shall
+describe the existing land use pattern of the study area including the
+distribution and arrangement of existing uses and the land use pattern that
+could result from approval of the possible nonfarm dwellings under this
+Subsection; and
+(C) Determine whether approval of the proposed nonfarm/lot-of-record
+dwellings together with existing nonfarm dwellings will materially alter the
+stability of the land use pattern in the area. The stability of the land use
+pattern will be materially altered if the cumulative effect of existing and
+potential nonfarm dwellings will make it more difficult for the existing types
+of farms in the area to continue operation due to diminished opportunities
+to expand, purchase or lease farmland, acquire water rights or diminish
+the number of tracts or acreage in farm use in a manner that will
+destabilize the overall character of the study area; and
+3) If a single-unit dwelling is established on a lot or parcel as set forth in 3.9120 or
+3.9190(1) through (3), no additional dwelling may later be sited under the
+provisions of this Section. [ORD. 25-16]
+Section 3.9140. Alteration, Restoration or Replacement of a Lawfully-Established
+Dwelling [ORD. 23-02] [ORD. 25-16]
+1) A lawfully established dwelling may be altered, restored or replaced under ORS
+215.283 if the following standards are met:
+(A) The dwelling to be altered, restored or replaced has, or formerly had:
+1. Intact exterior walls and roof structure;
+2. Indoor plumbing consisting of a kitchen sink, toilet and bathing
+facilities connected to a sanitary waste disposal system;
+3. Interior wiring for interior lights; and
+4. A heating system
+(B) An application to alter, restore or replace a lawfully established dwelling
+must be submitted within three years following the date that the dwelling
+last had all of the features listed in subsection (A), above.
+(C) Construction of a replacement dwelling must begin no later than four years
+after the date of approval for the replacement dwelling.
+(D) In addition to the requirements of subsection (A), above, the dwelling to be
+replaced must meet one of the following conditions:
+
+Clatsop County Land and Water III-74 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+1. If the dwelling was eliminated due to destruction or demolition, the
+dwelling must have been assessed as a dwelling for purposes of ad
+valorem taxation prior to the destruction or demolition and had to
+have been assessed as a dwelling for at least five years before the
+date of the destruction or demolition or from the date the dwelling
+was constructed and became subject to tax assessment, whichever
+is later.
+2. If the dwelling was not eliminated due to destruction or demolition,
+the dwelling must have been assessed as a dwelling for purposes
+of ad valorem taxation for at least five years before the date the
+application to replace the dwelling was submitted or from the date
+the dwelling was constructed and became subject to property tax
+assessment, whichever is later.
+(E) For replacement of a lawfully established dwelling under this section, the
+following standards must be met:
+1. The dwelling to be replaced must be removed, demolished or
+converted to an allowable non-residential use within three months
+after the date a Certificate of Occupancy was issued for the
+replacement dwelling.
+2. The property owner shall record a statement in the Clatsop County
+deed records that the dwelling to be replaced has been removed,
+demolished or converted.
+3. If the dwelling to be replaced is located on a portion of the lot or
+parcel that is not zoned Exclusive Farm Use, the owner shall record
+a deed restriction in the Clatsop County deed records prohibiting
+the siting of another dwelling on that portion of the lot or parcel. The
+deed restriction shall be irrevocable unless state statutes regarding
+replacement dwellings have changed to allow the lawful siting of
+another dwelling. If the rules are changed, the Community
+Development Director, or designee, shall record a statement in the
+Clatsop County deed records verifying the change and releasing
+the deed restriction.
+4. The Community Development Director, or designee, shall maintain
+a record of the following:
+a. Lot and parcels for which dwelling to be replaced have been
+removed, demolished or converted
+b. Lots and parcels that do not qualify for the siting of a new
+dwelling under subsection (E)(3), above, including a copy of
+the recorded deed restriction
+(F) Replacement dwellings must comply with all of the following standards:
+1. Applicable building codes, plumbing codes, sanitation codes, and
+other requirements relating to health and safety or to siting at the
+time of construction
+2. The replacement dwelling may be sited on any part of the same lot
+
+Clatsop County Land and Water III-75 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+or parcel
+3. Applicable siting standards, including setbacks. Siting standards
+shall not be used to prohibit the siting of the replacement dwelling.
+(G) If an applicant is granted a deferred replacement permit under this section,
+the deferred replacement permit:
+1. Does not expire, but becomes void unless the dwelling to be
+replaced is removed or demolished within three months after the
+deferred replacement permit is used; and
+2. Shall not be transferred be sale or otherwise, except by the
+applicant to the spouse or child of the applicant.
+Section 3.9150. Wineries
+1) A winery may be established as a permitted use if the proposed winery will
+produce wine with a maximum annual production of:
+(A) Less than 50,000 gallons and the winery owner:
+1. Owns an on-site vineyard of at least 15 acres;
+2. Owns a contiguous vineyard of at least 15 acres;
+3. Has a long-term contract for the purchase of all of the grapes from
+at least 15 acres of a vineyard contiguous to the winery; or
+4. Obtains grapes from any combination of Subsection 1, 2, or 3; or
+(B) At least 50,000 gallons and the winery owner:
+1. Owns an on-site vineyard of at least 40 acres;
+2. Owns a contiguous vineyard of at least 40 acres;
+3. Has a long-term contract for the purchase of all of the grapes from
+at least 40 acres of a vineyard contiguous to the winery;
+4. Owns an on-site vineyard of at least 15 acres on a tract of at least
+40 acres and owns at least 40 additional acres of vineyards in
+Oregon that are located within 15 miles of the winery site; or
+5. Obtains grapes from any combination of Subsection 1, 2, 3 or 4.
+2) In addition to producing and distributing wine, a winery established under this
+Section may:
+(A) Market and sell wine produced in conjunction with the winery.
+(B) Conduct operations that are directly related to the sale or marketing of
+wine produced in conjunction with the winery, including:
+1. Wine tastings in a tasting room or other location on the premises
+occupied by the winery;
+2. Wine club activities;
+3. Winemaker luncheons and dinners;
+4. Winery and vineyard tours;
+5. Meetings or business activities with winery suppliers, distributors,
+wholesale customers and wine-industry members;
+6. Winery staff activities;
+7. Open house promotions of wine produced in conjunction with the
+winery; and
+
+Clatsop County Land and Water III-76 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+8. Similar activities conducted for the primary purpose of promoting
+wine produced in conjunction with the winery.
+(C) Market and sell items directly related to the sale or promotion of wine
+produced in conjunction with the winery, the marketing and sale of which
+is incidental to on-site retail sale of wine, including food and beverages:
+1. Required to be made available in conjunction with the consumption
+of wine on the premises by the Liquor Control Act or rules adopted
+under the Liquor Control Act; or
+2. Served in conjunction with an activity authorized by Section
+S3.5012)(B), (D), or (E).
+(D) Carry out agri-tourism or other commercial events on the tract occupied by
+the winery subject to subsection 5.
+(E) Host charitable activities for which the winery does not charge a facility
+rental fee.
+3) A winery may include on-site kitchen facilities licensed by the Oregon Health
+Authority under ORS 624.010 to 624.121 for the preparation of food and
+beverages described in Section S3.5012)(C). Food and beverage services
+authorized under Section S3.5012)(C) may not utilize menu options or meal
+services that cause the kitchen facilities to function as a café or other dining
+establishment open to the public.
+4) The gross income of the winery from the sale of incidental items or services
+provided pursuant to Section S3.5012)(C) to (E) may not exceed 25 percent of
+the gross income from the on-site retail sale of wine produced in conjunction with
+the winery. The gross income of a winery does not include income received by
+third parties unaffiliated with the winery. At the request of the county, the winery
+shall submit to the county a written statement that is prepared by a certified
+public accountant and certifies the compliance of the winery with this Subsection
+for the previous tax year.
+5) A winery may carry out up to 18 days of agri-tourism or other commercial events
+annually on the tract occupied by the winery. If a winery conducts agri-tourism or
+other commercial events authorized under this Section, the winery may not
+conduct agri-tourism or other commercial events or activities authorized by
+Section S3.5151) to 4). The requirements of the Agri-tourism permit must be met.
+6) A winery operating under this Section shall provide parking for all activities or
+uses of the lot, parcel or tract on which the winery is established.
+7) Events described in S3.5015) are subject to the requirements of Section
+S3.5158), Agri-Tourism and other Commercial Events or Activities Permit.
+8) Prior to the issuance of a permit to establish a winery under Section S3.5011),
+the applicant shall show that vineyards described in Section S3.5011) have been
+planted or that the contract has been executed, as applicable.
+9) Standards imposed on the siting of a winery shall be limited solely to each of the
+following for the sole purpose of limiting demonstrated conflicts with accepted
+farming or forest practices on adjacent lands:
+(A) Establishment of a setback of at least 100 feet from all property lines for
+
+Clatsop County Land and Water III-77 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+the winery and all public gathering places unless the local government
+grants an adjustment or variance allowing a setback of less than 100 feet;
+and
+(B) Provision of direct road access and internal circulation.
+10) In addition to a winery permitted in Sections S3.5011) to S3.5019), a winery may
+be established if:
+(A) The winery owns and is sited on a tract of 80 acres or more, at least 50
+acres of which is a vineyard;
+(B) The winery owns at least 80 additional acres of planted vineyards in
+Oregon that need not be contiguous to the acreage described in Section
+S3.50110)(A); and
+(C) The winery has produced annually, at the same or a different location, at
+least 150,000 gallons of wine in at least three of the five calendar years
+before the winery is established under this Subsection.
+11) In addition to producing and distributing wine, a winery described in Section
+S3.50110) may:
+(A) Market and sell wine produced in conjunction with the winery;
+(B) Conduct operations that are directly related to the sale or marketing of
+wine produced in conjunction with the winery, including:
+1. Wine tastings in a tasting room or other location on the premises
+occupied by the winery;
+2. Wine club activities;
+3. Winemaker luncheons and dinners;
+4. Winery and vineyard tours;
+5. Meetings or business activities with winery suppliers, distributors,
+wholesale customers and wine-industry members;
+6. Winery staff activities;
+7. Open house promotions of wine produced in conjunction with the
+winery; and
+8. Similar activities conducted for the primary purpose of promoting
+wine produced in conjunction with the winery;
+(C) Market and sell items directly related to the sale or promotion of wine
+produced in conjunction with the winery, the marketing and sale of which
+is incidental to retail sale of wine on-site, including food and beverages:
+1. Required to be made available in conjunction with the consumption
+of wine on the premises by the Liquor Control Act or rules adopted
+under the Liquor Control Act; or
+2. Served in conjunction with an activity authorized by Section
+S3.50111)(B)2, 4, or 5;
+(D) Provide services, including agri-tourism or other commercial events,
+hosted by the winery or patrons of the winery, at which wine produced in
+conjunction with the winery is featured, that:
+1. Are directly related to the sale or promotion of wine produced in
+conjunction with the winery;
+
+Clatsop County Land and Water III-78 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+2. Are incidental to the retail sale of wine on-site; and
+3. Are limited to 25 days or fewer in a calendar year; and
+4. Host charitable activities for which the winery does not charge a
+facility rental fee.
+12) Income requirements:
+(A) The gross income of the winery from the sale of incidental items pursuant
+to Section S3.50111)(C) and services provided pursuant to Section
+S3.50111)(D) may not exceed 25 percent of the gross income from the
+on-site retail sale of wine produced in conjunction with the winery.
+(B) At the request of a local government with land use jurisdiction over the site
+of a winery, the winery shall submit to the local government a written
+statement, prepared by a certified public accountant, that certifies
+compliance with Subsection (A) for the previous tax year.
+13) A winery permitted under Subsection 10):
+(A) Shall provide parking for all activities or uses of the lot, parcel or tract on
+which the winery is established.
+(B) May operate a restaurant, as defined in ORS 624.010, in which food is
+prepared for consumption on the premises of the winery.
+14) Permit requirements:
+(A) A winery shall obtain a permit if the winery operates a restaurant that is
+open to the public for more than 25 days in a calendar year or provides for
+agri-tourism or other commercial events authorized under Section
+S3.50111)(D) occurring on more than 25 days in a calendar year.
+(B) In addition to any other requirements, a local government may approve a
+permit application under this Subsection if the local government finds that
+the authorized activity:
+1. Complies with the standards described in Sections S3.5011) and
+2);
+2. Is incidental and subordinate to the retail sale of wine produced in
+conjunction with the winery; and
+3. Does not materially alter the stability of the land use pattern in the
+area.
+(C) If the local government issues a permit under this Subsection for agri-
+tourism or other commercial events, the local government shall review the
+permit at least once every five years and, if appropriate, may renew the
+permit.
+15) A person may not have a substantial ownership interest in more than one winery
+operating a restaurant, as permitted in Subsection 13).
+16) Prior to the issuance of a permit to establish a winery under Subsection 10), the
+applicant shall show that vineyards described in Subsection 10) have been
+planted.
+17) A winery operating under Subsection 10) shall provide for:
+(A) Establishment of a setback of at least 100 feet from all property lines for
+the winery and all public gathering places; and
+
+Clatsop County Land and Water III-79 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(B) Direct road access and internal circulation.
+18) A winery operating under Subsection S3.50110) may receive a permit to host
+outdoor concerts for which admission is charged, facility rentals or celebratory
+events if the winery received a permit in similar circumstances before August 2,
+2011.
+19) As used in this Section:
+(A) “Agri-tourism or other commercial events” includes outdoor concerts for
+which admission is charged, educational, cultural, health or lifestyle
+events, facility rentals, celebratory gatherings and other events at which
+the promotion of wine produced in conjunction with the winery is a
+secondary purpose of the event.
+(B) “On-site retail sale” includes the retail sale of wine in person at the winery
+site, through a wine club or over the Internet or telephone.
+Section 3.9160. Agri-Tourism and Other Commercial Events
+The following agri-tourism and other commercial events or activities that are related to
+and supportive of agriculture may be established:
+1) A single agri-tourism or other commercial event or activity on a tract in a calendar
+year that is personal to the applicant and is not transferred by, or transferable
+with, a conveyance of the tract, if the agri-tourism or other commercial event or
+activity meets any local standards that apply and:
+(A) The agri-tourism or other commercial event or activity is incidental and
+subordinate to existing farm use on the tract;
+(B) The duration of the agri-tourism or other commercial event or activity does
+not exceed 72 consecutive hours;
+(C) The maximum attendance at the agri-tourism or other commercial event or
+activity does not exceed 500 people;
+(D) The maximum number of motor vehicles parked at the site of the agri-
+tourism or other commercial event or activity does not exceed 250
+vehicles;
+(E) The agri-tourism or other commercial event or activity complies with the
+standards described in Sections S3.5011) and 2);
+(F) The agri-tourism or other commercial event or activity occurs outdoors, in
+temporary structures, or in existing permitted structures, subject to health
+and fire and life safety requirements; and
+(G) The agri-tourism or other commercial event or activity complies with
+conditions established for:
+1) Planned hours of operation;
+2) Access, egress and parking;
+3) A traffic management plan that identifies the projected number of
+vehicles and any anticipated use of public roads:
+4) Sanitation and solid waste; and]
+5) Must comply with the requirements in S3.5152).
+2) In the alternative to Subsections 1) and 3), the county may authorize, through an
+
+Clatsop County Land and Water III-80 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+expedited, single-event license, a single agri-tourism or other commercial event
+or activity on a tract in a calendar year by an expedited, single-event license that
+is personal to the applicant and is not transferred by, or transferable with, a
+conveyance of the tract. A decision concerning an expedited, single-event
+license is not a land use decision, as defined in ORS 197.015. To approve an
+expedited, single-event license, the governing body of a county or its designee
+must determine that the proposed agri-tourism or other commercial event or
+activity meets any local standards that apply, and the agri-tourism or other
+commercial event or activity:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not begin before 6 a.m. or end after 10 p.m.;
+(C) May not involve more than 100 attendees or 50 vehicles;
+(D) May not include the artificial amplification of music or voices before 8 a.m.
+or after 8 p.m.;
+(E) May not require or involve the construction or use of a new permanent
+structure in connection with the agri-tourism or other commercial event or
+activity;
+(F) Must be located on a tract of at least 10 acres unless the owners or
+residents of adjoining properties consent, in writing, to the location; and
+(G) Must comply with applicable health and fire and life safety requirements.
+3) In the alternative to Subsections 1) and 2), the county may authorize up to six
+agri-tourism or other commercial events or activities on a tract in a calendar year
+by a limited use permit that is personal to the applicant and is not transferred by,
+or transferable with, a conveyance of the tract. The agri-tourism or other
+commercial events or activities must meet any local standards that apply, and the
+agri-tourism or other commercial events or activities:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not, individually, exceed a duration of 72 consecutive hours;
+(C) May not require that a new permanent structure be built, used or occupied
+in connection with the agri-tourism or other commercial events or
+activities;
+(D) Must comply with the standards described in Sections S3.5011) and 2);
+(E) May not, in combination with other agri-tourism or other commercial
+events or activities authorized in the area, materially alter the stability of
+the land use pattern in the area; and
+(F) Must comply with conditions established for:
+1) The types of agri-tourism or other commercial events or activities
+that are authorized during each calendar year, including the
+number and duration of the agri-tourism or other commercial events
+and activities, the anticipated daily attendance and the hours of
+operation;
+2) The location of existing structures and the location of proposed
+temporary structures to be used in connection with the agri-tourism
+or other commercial events or activities;
+
+Clatsop County Land and Water III-81 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+3) The location of access and egress and parking facilities to be used
+in connection with the agri-tourism or other commercial events or
+activities;
+4) Traffic management, including the projected number of vehicles
+and any anticipated use of public roads; and
+5) Sanitation and solid waste
+6) Must comply with the requirements of S3.5158).
+(G) A permit authorized by this Subsection shall be valid for two calendar
+years. When considering an application for renewal, the county shall
+ensure compliance with the provisions of Subsection 3), any local
+standards that apply and conditions that apply to the permit or to the agri-
+tourism or other commercial events or activities authorized by the permit.
+4) In addition to Subsections 1) to 3), the county may authorize agri-tourism or other
+commercial events or activities that occur more frequently or for a longer period
+or that do not otherwise comply with Subsections 1) to 3) if the agri-tourism or
+other commercial events or activities comply with any local standards that apply
+and the agri-tourism or other commercial events or activities:
+(A) Are incidental and subordinate to existing commercial farm use of the tract
+and are necessary to support the commercial farm uses or the commercial
+agricultural enterprises in the area;
+(B) Comply with the requirements of S3.5153)(C), (D), (E), and (F);
+(C) Occur on a lot or parcel that complies with the acknowledged minimum lot
+or parcel size; and
+(D) Do not exceed 18 events or activities in a calendar year.
+5) A holder of a permit authorized by a county under Subsection 4) must request
+review of the permit at four-year intervals. Upon receipt of a request for review,
+the county shall:
+(A) Provide public notice and an opportunity for public comment as part of the
+review process; and
+(B) Limit its review to events and activities authorized by the permit,
+conformance with conditions of approval required by the permit and the
+standards established by Subsection 4).
+6) Temporary structures established in connection with agri-tourism or other
+commercial events or activities may be permitted. The temporary structures must
+be removed at the end of the agri-tourism or other event or activity. Alteration to
+the land in connection with an agri-tourism or other commercial event or activity
+including, but not limited to, grading, filling or paving, are not permitted.
+7) The authorizations provided by Section are in addition to other authorizations that
+may be provided by law, except that “outdoor mass gathering” and “other
+gathering,” as those terms are used in ORS 197.015 (10)(d), do not include agri-
+tourism or other commercial events and activities.
+8) Conditions of Approval. Agri-tourism and other commercial events permitted
+under Subsections 3 and 4 are subject to the following standards and criteria:
+(A) A permit application for an agri-tourism or other commercial event or
+
+Clatsop County Land and Water III-82 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+activity shall include the following:
+1) A description of the type of agri-tourism or commercial events or
+activities that are proposed, including the number and duration of
+the events and activities, the anticipated daily attendance and the
+hours of operation and, for events not held at wineries, how the
+agri-tourism and other commercial events or activities will be
+related to and supportive of agriculture and incidental and
+subordinate to the existing farm use of the tract.
+2) The types and locations of all existing and proposed temporary
+structures, access and egress, parking facilities, sanitation and
+solid waste facilities to be used in connection with the agri-tourism
+or other commercial events or activities;
+3) Authorization to allow inspection of the event premises. The
+applicant shall provide in writing a consent to allow law
+enforcement, public health, and fire control officers and code
+enforcement staff to come upon the premises for which the permit
+has been granted for the purposes of inspection and enforcement
+of the terms and conditions of the permit and the Exclusive Farm
+Use Zone and any other applicable laws or ordinances.
+(B) Approval Criteria.
+1) The area in which the agri-tourism or other commercial events or
+activities are located shall be setback at least 100 feet from the
+property line.
+2) No more than two agri-tourism or commercial events or activities
+may occur in one month.
+3) The maximum number of people shall not exceed 500 per calendar
+day.
+4) Notification of agri-tourism and other commercial events or
+activities.
+a) The property owner shall submit in writing the list of calendar
+days scheduled for all agri-tourism and other commercial
+events or activities by April 1 of the subject calendar year or
+within 30 days of new or renewed permits to County’s
+Planning Department and a list of all property owners within
+500 feet of the subject property, as notarized by a title
+company.
+b) The list of calendar dates for all agri-tourism, commercial
+events and activities may be amended by submitting the
+amended list to the Department at least 72 hours prior to any
+change in the date of approved dates.
+c) If notice pursuant to a) is not provided, the property owner
+shall provide notice by Registered Mail to the same list
+above at least 10 days prior to each agri-tourism and other
+commercial event or activity.
+
+Clatsop County Land and Water III-83 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+d) The notification shall include a contact person or persons for
+each agri-tourism and other commercial event or activity who
+shall be easily accessible and who shall remain on site at all
+times, including the person(s) contact information.
+5) Hours of Operation. No agri-tourism and other commercial event or
+activity may begin before 7:00 a.m. or end after 10:00 p.m.
+6) Overnight camping is prohibited.
+7) Noise Control:
+a) All noise, including the use of a sound producing device
+such as, but not limited to, loud speakers and public address
+systems, musical instruments that are amplified or
+unamplified, shall be in compliance with applicable state
+regulations.
+b) A standard sound level meter or equivalent, in good
+condition, that provides a weighted sound pressure level
+measured by use of a metering characteristic with an "A"
+frequency weighting network and reported as dBA shall be
+available on-site at all times during agri-tourism and other
+commercial events or activities.
+8) Transportation Management
+a) Roadways, driveway aprons, driveways and parking
+surfaces shall be surfaces that prevent dust, and may
+include paving, gravel, cinders, or bark/wood chips.
+b) Driveways extending from paved roads shall have a paved
+apron, requiring review and approval by the County Road
+Department.
+c) The parcel, lot or tract must have direct access from a public
+road or is accessed by an access easement or private road,
+whereby all underlying property owners and property owners
+taking access between the subject property and the public
+road consent in writing to the use of the road for agri-tourism
+and other commercial events or activities at the time of initial
+application.
+d) Adequate traffic control must be provided by the property
+owner and must include one traffic control person for each
+250 persons expected or reasonably expected to be in
+attendance at any time. All traffic control personnel shall be
+certified by the State of Oregon and shall comply with the
+current edition of the Manual of Uniform Traffic Control
+Devices.
+e) Adequate off-street parking will be provided pursuant to
+provisions of the County Off-Street Parking requirements in
+Section 3.0050-3.0090.
+9) Health and Safety Compliance
+
+Clatsop County Land and Water III-84 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+a) Sanitation facilities shall include, at a minimum, portable
+restroom facilities and stand-alone hand washing stations.
+b) All permanent and temporary structures and facilities are
+subject to fire, health and life safety requirements, and shall
+comply with all requirements of the County Building Code
+Division any other applicable federal, state and local laws.
+c) Compliance with the requirements of the Building Codes
+Division shall include meeting all building occupancy
+classification requirements of the State of Oregon adopted
+building code.
+9) A determination that an event or activity is “incidental and subordinate” requires
+consideration of any relevant circumstances, including the nature, intensity, and
+economic value of the respective farm and event uses, that bear on whether the
+existing farm use remains the predominate use of the tract. [ORD. 25-16]
+10) A determination that an event or activity is “necessary to support” either the
+commercial farm uses or commercial agricultural enterprises in the area means
+that the events are essential in order to maintain the existence of either the
+commercial farm or the commercial agricultural enterprises in the area. [ORD.
+25-16]
+Section 3.9170. Commercial Facilities for Generating Power
+1) Commercial Power Generating Facility.
+(A) Permanent features of a power generation facility shall not preclude more
+than:
+1. 12 acres from use as a commercial agricultural enterprise on high
+value farmland unless an exception is taken pursuant to ORS
+197.732 and OAR chapter 660, division 4; or
+2. 20 acres from use as a commercial agricultural enterprise on land
+other than high-value farmland unless an exception is taken
+pursuant to ORS 197.732 and OAR chapter 660, division 4.
+(B) A power generation facility may include on-site and off-site facilities for
+temporary workforce housing for workers constructing a power generation
+facility. Such facilities must be removed or converted to an allowed use
+under OAR 660-033-0130(19) or other statute or rule when project
+construction is complete. Temporary workforce housing facilities not
+included in the initial approval may be considered through a minor
+amendment request. A minor amendment request shall be subject to 660-
+033-0130(5) and shall have no effect on the original approval.
+2) Wind Power Generation Facility.
+(A) For purposes of this ordinance a wind power generation facility includes,
+but is not limited to, the following system components: all wind turbine
+towers and concrete pads, permanent meteorological towers and wind
+measurement devices, electrical cable collection systems connecting wind
+turbine towers with the relevant power substation, new or expanded
+
+Clatsop County Land and Water III-85 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+private roads (whether temporary or permanent) constructed to serve the
+wind power generation facility, office and operation and maintenance
+buildings, temporary lay-down areas and all other necessary
+appurtenances, including but not limited to on-site and off-site facilities for
+temporary workforce housing for workers constructing a wind power
+generation facility.
+1. Temporary workforce housing described in Section S3.5151)(B)
+must be removed or converted to an allowed use under OAR 660-
+033-0130(19) or other statute or rule when project construction is
+complete.
+2. Temporary workforce housing facilities not included in the initial
+approval may be considered through a minor amendment request
+filed after a decision to approve a power generation facility. A minor
+amendment request shall be subject to 660-033-0130(5) and shall
+have no effect on the original approval.
+(B) For wind power generation facility proposals on high-value farmland soils,
+as described at ORS 195.300(10), the governing body or its designate
+must find that all of the following are satisfied:
+1. Reasonable alternatives have been considered to show that siting
+the wind power generation facility or component thereof on high-
+value farmland soils is necessary for the facility or component to
+function properly or if a road system or turbine string must be
+placed on such soils to achieve a reasonably direct route
+considering the following factors:
+a) Technical and engineering feasibility;
+b) Availability of existing rights of way; and
+c) The long-term environmental, economic, social and energy
+consequences of siting the facility or component on
+alternative sites, as determined under Subsection 2;
+2. The long-term environmental, economic, social and energy
+consequences resulting from the wind power generation facility or
+any components thereof at the proposed site with measures
+designed to reduce adverse impacts are not significantly more
+adverse than would typically result from the same proposal being
+located on other agricultural lands that do not include high-value
+farmland soils;
+3. Costs associated with any of the factors listed in Subsection 1 may
+be considered, but costs alone may not be the only consideration in
+determining that siting any component of a wind power generation
+facility on high-value farmland soils is necessary;
+4. The owner of a wind power generation facility approved under
+Subsection (B) shall be responsible for restoring, as nearly as
+possible, to its former condition any agricultural land and
+associated improvements that are damaged or otherwise disturbed
+
+Clatsop County Land and Water III-86 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+by the siting, maintenance, repair or reconstruction of the facility.
+Nothing in this Subsection shall prevent the owner of the facility
+from requiring a bond or other security from a contractor or
+otherwise imposing on a contractor the responsibility for restoration;
+and
+5. The criteria of Subsection (C) are satisfied.
+(C) For wind power generation facility proposals on arable lands, meaning
+lands that are cultivated or suitable for cultivation, including high-value
+farmland soils described at ORS 195.300(10), the governing body or its
+designate must find that:
+1. The proposed wind power facility will not create unnecessary
+negative impacts on agricultural operations conducted on the
+subject property. Negative impacts could include, but are not limited
+to, the unnecessary construction of roads, dividing a field or
+multiple fields in such a way that creates small or isolated pieces of
+property that are more difficult to farm, and placing wind farm
+components such as meteorological towers on lands in a manner
+that could disrupt common and accepted farming practices;
+2. The presence of a proposed wind power facility will not result in
+unnecessary soil erosion or loss that could limit agricultural
+productivity on the subject property. This provision may be satisfied
+by the submittal and county approval of a soil and erosion control
+plan prepared by an adequately qualified individual, showing how
+unnecessary soil erosion will be avoided or remedied and how
+topsoil will be stripped, stockpiled and clearly marked. The
+approved plan shall be attached to the decision as a condition of
+approval;
+3. Construction or maintenance activities will not result in unnecessary
+soil compaction that reduces the productivity of soil for crop
+production. This provision may be satisfied by the submittal and
+county approval of a plan prepared by an adequately qualified
+individual, showing how unnecessary soil compaction will be
+avoided or remedied in a timely manner through deep soil
+decompaction or other appropriate practices. The approved plan
+shall be attached to the decision as a condition of approval; and
+4. Construction or maintenance activities will not result in the
+unabated introduction or spread of noxious weeds and other
+undesirable weeds species. This provision may be satisfied by the
+submittal and county approval of a weed control plan prepared by
+an adequately qualified individual that includes a long-term
+maintenance agreement. The approved plan shall be attached to
+the decision as a condition of approval.
+(D) For wind power generation facility proposals on non-arable lands,
+meaning lands that are not suitable for cultivation, the requirements of
+
+Clatsop County Land and Water III-87 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.9170(C)(4) are satisfied.
+(E) In the event that a wind power generation facility is proposed on a
+combination of arable and non-arable lands as described in
+Subsections (C) and (D), the approval criteria of Subsection (C) shall
+apply to the entire project.
+3) Photovoltaic Solar Power Generation Facility. A proposal to site a photovoltaic
+solar power generation facility shall be subject to the following definitions and
+provisions:
+(A) “Arable land” means land in a tract that is predominantly cultivated or, if
+not currently cultivated, predominantly comprised of arable soils.
+(B) “Arable soils” means soils that are suitable for cultivation as determined by
+the governing body or its designate based on substantial evidence in the
+record of a local land use application, but “arable soils” does not include
+high-value farmland soils described at ORS 195.300(10) unless otherwise
+stated.
+(C) “Non-arable land” means land in a tract that is predominantly not
+cultivated and predominantly comprised of non-arable soils.
+(D) “Non-arable soils” means soils that are not suitable for cultivation. Soils
+with an NRCS agricultural capability class V–VIII and no history of
+irrigation shall be considered non-arable in all cases. The governing body
+or its designate may determine other soils, including soils with a past
+history of irrigation, to be non-arable based on substantial evidence in the
+record of a local land use application.
+(E) “Photovoltaic solar power generation facility” includes, but is not limited to,
+an assembly of equipment that converts sunlight into electricity and then
+stores, transfers, or both, that electricity. This includes photovoltaic
+modules, mounting and solar tracking equipment, foundations, inverters,
+wiring, storage devices and other components. Photovoltaic solar power
+generation facilities also include electrical cable collection systems
+connecting the photovoltaic solar generation facility to a transmission line,
+all necessary grid integration equipment, new or expanded private roads
+constructed to serve the photovoltaic solar power generation facility,
+office, operation and maintenance buildings, staging areas and all other
+necessary appurtenances. For purposes of applying the acreage
+standards of this Section, a photovoltaic solar power generation facility
+includes all existing and proposed facilities on a single tract, as well as
+any existing and proposed facilities determined to be under common
+ownership on lands with fewer than 1320 feet of separation from the tract
+on which the new facility is proposed to be sited. Projects connected to the
+same parent company or individuals shall be considered to be in common
+ownership, regardless of the operating business structure. A photovoltaic
+solar power generation facility does not include a net metering project
+established consistent with ORS 757.300 and OAR chapter 860, division
+39 or a Feed-in-Tariff project established consistent with ORS 757.365
+
+Clatsop County Land and Water III-88 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+and OAR chapter 860, division 84.
+(F) For high-value farmland described at ORS 195.300(10), a photovoltaic
+solar power generation facility shall not preclude more than 12 acres from
+use as a commercial agricultural enterprise unless an exception is taken
+pursuant to ORS 197.732 and OAR chapter 660, division 4. The governing
+body or its designate must find that:
+1. The proposed photovoltaic solar power generation facility will not
+create unnecessary negative impacts on agricultural operations
+conducted on any portion of the subject property not occupied by
+project components. Negative impacts could include, but are not
+limited to, the unnecessary construction of roads dividing a field or
+multiple fields in such a way that creates small or isolated pieces of
+property that are more difficult to farm, and placing photovoltaic
+solar power generation facility project components on lands in a
+manner that could disrupt common and accepted farming practices;
+2. The presence of a photovoltaic solar power generation facility will
+not result in unnecessary soil erosion or loss that could limit
+agricultural productivity on the subject property. This provision may
+be satisfied by the submittal and county approval of a soil and
+erosion control plan prepared by an adequately qualified individual,
+showing how unnecessary soil erosion will be avoided or remedied
+and how topsoil will be stripped, stockpiled and clearly marked. The
+approved plan shall be attached to the decision as a condition of
+approval;
+3. Construction or maintenance activities will not result in unnecessary
+soil compaction that reduces the productivity of soil for crop
+production. This provision may be satisfied by the submittal and
+county approval of a plan prepared by an adequately qualified
+individual, showing how unnecessary soil compaction will be
+avoided or remedied in a timely manner through deep soil
+decompaction or other appropriate practices. The approved plan
+shall be attached to the decision as a condition of approval;
+4. Construction or maintenance activities will not result in the
+unabated introduction or spread of noxious weeds and other
+undesirable weed species. This provision may be satisfied by the
+submittal and county approval of a weed control plan prepared by
+an adequately qualified individual that includes a long-term
+maintenance agreement. The approved plan shall be attached to
+the decision as a condition of approval;
+5. The project is not located on high-value farmland soils unless it can
+be demonstrated that:
+a) Non high-value farmland soils are not available on the
+subject tract;
+b) Siting the project on non-high-value farmland soils present
+
+Clatsop County Land and Water III-89 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+on the subject tract would significantly reduce the project’s
+ability to operate successfully; or
+c) The proposed site is better suited to allow continuation of an
+existing commercial farm or ranching operation on the
+subject tract than other possible sites also located on the
+subject tract, including those comprised of non-high-value
+farmland soils; and
+6. A study area consisting of lands zoned for exclusive farm use
+located within one mile measured from the center of the proposed
+project shall be established and:
+a) If fewer than 48 acres of photovoltaic solar power generation
+facilities have been constructed or received land use
+approvals and obtained building permits within the study
+area, no further action is necessary.
+b) When at least 48 acres of photovoltaic solar power
+generation have been constructed or received land use
+approvals and obtained building permits, either as a single
+project or as multiple facilities within the study area, the local
+government or its designate must find that the photovoltaic
+solar energy generation facility will not materially alter the
+stability of the overall land use pattern of the area. The
+stability of the land use pattern will be materially altered if the
+overall effect of existing and potential photovoltaic solar
+energy generation facilities will make it more difficult for the
+existing farms and ranches in the area to continue operation
+due to diminished opportunities to expand, purchase or
+lease farmland or acquire water rights, or will reduce the
+number of tracts or acreage in farm use in a manner that will
+destabilize the overall character of the study area.
+(G) For arable lands, a photovoltaic solar power generation facility shall not
+preclude more than 20 acres from use as a commercial agricultural
+enterprise unless an exception is taken pursuant to ORS 197.732 and
+OAR chapter 660, division 4. The governing body or its designate must
+find that:
+1. The project is not located on high-value farmland soils or arable
+soils unless it can be demonstrated that:
+a) Non-arable soils are not available on the subject tract;
+b) Siting the project on non-arable soils present on the subject
+tract would significantly reduce the project’s ability to operate
+successfully; or
+c) The proposed site is better suited to allow continuation of an
+existing commercial farm or ranching operation on the
+subject tract than other possible sites also located on the
+subject tract, including those comprised of non-arable soils;
+
+Clatsop County Land and Water III-90 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+2. No more than 12 acres of the project will be sited on high-value
+farmland soils described at ORS 195.300(10) unless an exception
+is taken pursuant to 197.732 and OAR chapter 660, division 4;
+3. A study area consisting of lands zoned for exclusive farm use
+located within one mile measured from the center of the proposed
+project shall be established and:
+a) If fewer than 80 acres of photovoltaic solar power generation
+facilities have been constructed or received land use
+approvals and obtained building permits within the study
+area no further action is necessary.
+b) When at least 80 acres of photovoltaic solar power
+generation have been constructed or received land use
+approvals and obtained building permits, either as a single
+project or as multiple facilities, within the study area the local
+government or its designate must find that the photovoltaic
+solar energy generation facility will not materially alter the
+stability of the overall land use pattern of the area. The
+stability of the land use pattern will be materially altered if the
+overall effect of existing and potential photovoltaic solar
+energy generation facilities will make it more difficult for the
+existing farms and ranches in the area to continue operation
+due to diminished opportunities to expand, purchase or
+lease farmland, acquire water rights or diminish the number
+of tracts or acreage in farm use in a manner that will
+destabilize the overall character of the study area; and
+4. The requirements of Sections S3.5153)(F)1, 2, 3, and 4 are
+satisfied.
+(H) For non-arable lands, a photovoltaic solar power generation facility shall
+not preclude more than 320 acres from use as a commercial agricultural
+enterprise unless an exception is taken pursuant to ORS 197.732 and
+OAR chapter 660, division 4. The governing body or its designate must
+find that:
+1. The project is not located on high-value farmland soils or arable
+soils unless it can be demonstrated that:
+a) Siting the project on non-arable soils present on the subject
+tract would significantly reduce the project’s ability to operate
+successfully; or
+b) The proposed site is better suited to allow continuation of an
+existing commercial farm or ranching operation on the
+subject tract as compared to other possible sites also
+located on the subject tract, including sites that are
+comprised of non-arable soils;
+2. No more than 12 acres of the project will be sited on high-value
+farmland soils described at ORS 195.300(10);
+
+Clatsop County Land and Water III-91 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+3. No more than 20 acres of the project will be sited on arable soils
+unless an exception is taken pursuant to ORS 197.732 and
+OAR chapter 660, division 4;
+4. The requirements of Section S3.5153)(F)4 are satisfied;
+5. If a photovoltaic solar power generation facility is proposed to be
+developed on lands that contain a Goal 5 resource protected under
+the county's comprehensive plan, and the plan does not address
+conflicts between energy facility development and the resource, the
+applicant and the county, together with any state or federal agency
+responsible for protecting the resource or habitat supporting the
+resource, will cooperatively develop a specific resource
+management plan to mitigate potential development conflicts. If
+there is no program present to protect the listed Goal 5 resource(s)
+present in the local comprehensive plan or implementing
+ordinances and the applicant and the appropriate resource
+management agency(ies) cannot successfully agree on a
+cooperative resource management plan, the county is responsible
+for determining appropriate mitigation measures; and
+6. If a proposed photovoltaic solar power generation facility is located
+on lands where the potential exists for adverse effects to state or
+federal special status species (threatened, endangered, candidate,
+or sensitive), or to wildlife species of concern identified and mapped
+by the Oregon Department of Fish and Wildlife (including big game
+winter range and migration corridors, golden eagle and prairie
+falcon nest sites, and pigeon springs), the applicant shall conduct a
+site-specific assessment of the subject property in consultation with
+all appropriate state, federal, and tribal wildlife management
+agencies. A professional biologist shall conduct the site-specific
+assessment by using methodologies accepted by the appropriate
+wildlife management agency and shall determine whether adverse
+effects to special status species or wildlife species of concern are
+anticipated. Based on the results of the biologist’s report, the site
+shall be designed to avoid adverse effects to state or federal
+special status species or to wildlife species of concern as described
+above. If the applicant’s site-specific assessment shows that
+adverse effects cannot be avoided, the applicant and the
+appropriate wildlife management agency will cooperatively develop
+an agreement for project-specific mitigation to offset the potential
+adverse effects of the facility. Where the applicant and the resource
+management agency cannot agree on what mitigation will be
+carried out, the county is responsible for determining appropriate
+mitigation, if any, required for the facility.
+
+7. The provisions of Section S3.5153)(H)6 are repealed on January 1,
+
+Clatsop County Land and Water III-92 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+2022.
+(I) The project owner shall sign and record in the deed records for the county
+a document binding the project owner and the project owner's successors
+in interest, prohibiting them from pursuing a claim for relief or cause of
+action alleging injury from farming or forest practices as defined in ORS
+30.930(2) and (4).
+(J) Nothing in this Section shall prevent the county from requiring a bond or
+other security from a developer or otherwise imposing on a developer the
+responsibility for retiring the photovoltaic solar power generation facility.
+Section 3.9170A. Outdoor Mass Gatherings [ORD 23-02]
+1) An application for an outdoor mass gathering for which the County decides that a
+land use permit is required, or for any gathering of more than 3,000 persons, any
+part of which is held outdoor and which continues, or can reasonably be
+expected to continue, for a period exceeding that allowable for an outdoor mass
+gathering, shall be allowed by the County if:
+(A) The applicant has complied or can comply with the requirements for an
+outdoor mass gathering permit set out in ORS 433.750 and 433.755;
+(B) Permits required by the applicable land use regulations have been
+granted; and
+(C) The proposed gathering:
+1. Is compatible with existing land uses; and
+2. Does not materially alter the stability of the overall land use pattern
+of the area. [ORD 23-02]
+2)  A hearings officer, county planning commission or other person or body that the
+county designates may make findings and approve or deny an application for a
+permit under this section. A decision granting or denying a permit under this
+section may be appealed to the County government body as provided in ORS
+215.402 to 215.438. [ORD 23-02]
+3) Notwithstanding Section 3.9170A(1), the County may not require a permit under
+ORS 433.750 for events otherwise permitted under ORS 215.213(11),
+215.283(4), 215.449, 215.451 or 215.452. [ORD 23-02]
+4) The County may not require a land use permit for a gathering of 3,000 people or
+fewer, any part of which is held outdoors. [ORD 23-02]
+
+SECTION 3.9180. FOREST ZONE STANDARDS. [ORD. 18-02]
+Section 3.9190. Residential Uses
+1) A large tract forest dwelling authorized under ORS 215.740 may be allowed on
+land zoned for forest use if it is sited on a tract that does not include a dwelling
+and complies with other provisions of law, including the following:
+(A) The tract is at least 160 contiguous acres or 200 acres in one ownership
+that are not contiguous but are in the same county or adjacent counties
+and zoned for forest use. A deed restriction shall be filed pursuant to
+
+Clatsop County Land and Water III-93 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+subsection (C) for all tracts that are used to meet the acreage
+requirements of this subsection.
+(B) A tract shall not be considered to consist of less than 160 acres because it
+is crossed by a public road or a waterway.
+(C) Where one or more lots or parcels are required to meet minimum acreage
+requirements:
+1. The applicant shall provide evidence that the covenants, conditions
+and restrictions form adopted as "Exhibit A" in OAR chapter 660,
+division 6 has been recorded with the county clerk of the county or
+counties where the property subject to the covenants, conditions
+and restrictions is located.
+2. The covenants, conditions and restrictions are irrevocable, unless a
+statement of release is signed by an authorized representative of
+the county or counties where the property subject to the covenants,
+conditions and restrictions is located.
+2) Lot of Record Dwelling.
+(A) The lot or parcel on which the dwelling will be sited was lawfully created
+and was acquired and owned continuously by the present owner as
+defined in paragraph (D):
+1. Since prior to January 1, 1985; or
+2. By devise or by intestate succession from a person who acquired
+and had owned continuously the lot or parcel since prior to January
+1, 1985.
+(B) The tract on which the dwelling will be sited does not include a dwelling;
+(C) The lot or parcel on which the dwelling will be sited was part of a tract on
+November 4, 1993, no dwelling exists on another lot or parcel that was
+part of that tract.
+(D) For purposes of this subsection, “owner" includes the wife, husband, son,
+daughter, mother, father, brother, brother-in-law, sister, sister-in-law, son-
+in-law, daughter-in-law, mother-in-law, father-in-law, aunt, uncle, niece,
+nephew, stepparent, stepchild, grandparent or grandchild of the owner or
+a business entity owned by any one or combination of these family
+members.
+(E) The dwelling must be located on a tract that is composed of soils not
+capable of producing 5,000 cubic feet per year of commercial tree species
+and is located within 1,500 feet of a public road as defined under ORS
+368.001 that provides or will provide access to the subject tract. The road
+shall be maintained and either paved or surfaced with rock and shall not
+be:
+1. A United States Bureau of Land Management road; or
+2. A United States Forest Service road unless the road is paved to a
+minimum width of 18 feet, there is at least one defined lane in each
+direction and a maintenance agreement exists between the United
+States Forest Service and landowners adjacent to the road, a local
+
+Clatsop County Land and Water III-94 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+government or a state agency.
+(F) When the lot or parcel on which the dwelling will be sited lies within an
+area designated in an acknowledged comprehensive plan as habitat of big
+game, the siting of the dwelling shall be consistent with the limitations on
+density upon which the acknowledged comprehensive plan and land use
+regulations intended to protect the habitat are based; and
+(G) When the lot or parcel on which the dwelling will be sited is part of a tract,
+the remaining portions of the tract shall be consolidated into a single lot or
+parcel when the dwelling is allowed.
+3) A  single unit “template” dwelling authorized under ORS 215.750 on a lot or
+parcel located within a forest zone if the lot or parcel is predominantly composed
+of soils that are:
+(A) Capable of producing zero to 49 cubic feet per acre per year of wood fiber
+if:
+1. All or part of at least three other lots or parcels that existed on
+January 1, 1993, are within a 160 acre square centered on the
+center of the subject tract; and
+2. At least three dwellings existed on January 1, 1993 and continue to
+exist on the other lots or parcels.
+(B) Capable of producing 50 to 85 cubic feet per acre per year of wood fiber if:
+1. All or part of at least seven other lots or parcels that existed on
+January 1, 1993, are within a 160 acre square centered on the
+center of the subject tract; and
+2. At least three dwellings existed on January 1, 1993 and continue to
+exist on the other lots or parcels.
+(C) Capable of producing more than 85 cubic feet per acre per year of wood
+fiber if:
+1. All or part of at least 11 other lots or parcels that existed on January
+1, 1993, are within a 160 acre square centered on the center of the
+subject tract; and
+2. At least three dwellings existed on January 1, 1993 and continue to
+exist on the other lots or parcels.
+(D) Lots or parcels within urban growth boundaries may not be used to satisfy
+eligibility requirements. [ORD 23-02]
+(E) A dwelling is in the 160-acre template if any part of the dwelling is in the
+160-acre template.
+(F) Except as provided by paragraph (G), if the subject tract abuts a road that
+existed on January 1, 1993, the measurement may be made by creating a
+160 acre rectangle that is one mile long and 1/4 mile wide centered on the
+center of the subject tract and that is to the maximum extent possible,
+aligned with the road.
+(G) The following applies where a tract 60 acres or larger abuts a road or
+perennial stream.
+1. The measurement shall be made in accordance with paragraph (F).
+
+Clatsop County Land and Water III-95 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+However, one of the three required dwellings shall be on the same
+side of the road or stream as the tract, and:
+a) Be located within a 160-acre rectangle that is one mile long
+and one-quarter mile wide centered on the center of the
+subject tract and that is, to the maximum extent possible
+aligned with the road or stream; or
+b) Be within one-quarter mile from the edge of the subject tract
+but not outside the length of the 160 acre rectangle, and on
+the same side of the road or stream as the tract.
+2. If a road crosses the tract on which the dwelling will be located, at
+least one of the three required dwellings must be on the same side
+of the road as the proposed dwelling. [ORD 23-02]
+(H) A proposed “template” dwelling under this ordinance is allowed only if
+[ORD 23-02]:
+1. It will comply with the requirements of an acknowledged
+comprehensive plan, acknowledged land use regulations, and other
+provisions of law; [ORD 23-02]
+2. It complies with the requirements of Sections 3.9240 and 3.9250;
+[ORD 23-02]
+3. No dwellings are allowed on other lots or parcels that make up the
+tract and deed restrictions established under Sections 1.1)(C) or
+4.3500(4) for the other lots or parcels that make up the tract are
+met; or [ORD 23-02]
+4. The tract on which the dwelling will be sited does not include a
+dwelling. [ORD 23-02]
+5. The lot or parcel on which the dwelling will be sited was lawfully
+established. [ORD 23-02]
+6. Any property line adjustment to the lot or parcel complied with the
+applicable property line adjustment provisions in Section 2.9000.
+[ORD 23-02]
+7. Any property line adjustment to the lot or parcel after January 1,
+2019, did not have the effect of qualifying the lot or parcel for the
+dwelling under this section; and
+8. If the lot or parcel on which the dwelling will be sited was part of a
+tract on January 1, 2019, no dwelling existed on the tract on that
+date, and no dwelling exists or has been approved on another lot or
+parcel that was part of the tract. [ORD 23-02]
+(I) Where other lots or parcels that make up a tract in Section 3.9190(3)(H):
+1. The applicant shall provide evidence that the covenants, conditions,
+and restrictions form adopted as “Exhibit A” in OAR Chapter 660,
+Division 6 has been recorded with the Clatsop County Clerk. [ORD
+23-02]
+
+Clatsop County Land and Water III-96 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+2. The covenants, conditions, and restrictions are irrevocable, unless
+a statement of release is signed by an authorized representative of
+the county. [ORD 23-02]
+(J) Prior to November 1, 2023, a county may allow the establishment of a
+single-unit dwelling on a lot or parcel that was part of a tract on January 1,
+2021, if:
+1. No more than one other dwelling exists or has been approved on
+another lot or parcel that was part of the tract; and
+2. The lot or parcel qualifies, notwithstanding ORS 215.750(5)(h), for
+a dwelling under ORS 215.750. [ORD 23-02]
+4) Alteration, restoration or replacement of a lawfully established dwelling, where:
+(A) The dwelling to be altered, restored, or replaced has, or formerly had:
+1. Intact exterior walls and roof structures;
+2. Indoor plumbing consisting of a kitchen sink, toilet and bathing
+facilities connected to a sanitary waste disposal system;
+3. Interior wiring for interior lights; and
+4. A heating system; and [ORD. 24-01]
+(B) Unless the value of the dwelling was eliminated as a result of destruction
+or demolition, was assessed as a dwelling for purposes of ad valorem
+taxation since the later of:
+1. Five years before the date of the application; or
+2. The date that the dwelling was erected upon or fixed to the land
+and became subject to property tax assessment; or [ORD. 24-01]
+(C) If the value of the dwelling was eliminated as a result of destruction or
+demolition, was assessed as a dwelling for purposes of ad valorem
+taxation prior  to the destruction or demolition and since the later of:
+1. Five years before the date of the destruction or demolition; or
+2. The date that the dwelling was erected upon or fixed to the land
+and became subject to property tax assessment. [ORD. 24-01]
+(D) For replacement of a lawfully established dwelling under this section:
+1. The dwelling to be replaced must be removed, demolished or
+converted to an allowable nonresidential use within three months
+after the date the replacement dwelling is certified for occupancy
+pursuant to ORS 455.055.
+2. The replacement dwelling:
+a) May be sited on any part of the same lot or parcel.
+b) Must comply with applicable siting standards. However, the
+standards may not be applied in a manner that prohibits the
+siting of the replacement dwelling.
+c) Must comply with the construction provisions of section
+R327 of the Oregon Residential Specialty Code, if:
+i. The dwelling is in an area identified as extreme or
+high wildfire risk on the statewide map of wildfire risk
+described in ORS 477.490; or
+
+Clatsop County Land and Water III-97 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+ii. No statewide map of wildfire risk has been adopted.
+[ORD. 24-01]
+(E)  An application under this section must be filed within three years following
+the date that the dwelling last possessed all the features listed under
+subsection (A) of this section. [ORD. 24-01]
+(F) Construction of a replacement dwelling approved under this subsection
+must commence no later than four years after the approval of the
+application under this section becomes final. [ORD. 24-01]
+5) A temporary hardship dwelling is subject to the following:
+(A) One manufactured dwelling, or recreational vehicle, or the temporary
+residential use of an existing building may be allowed in conjunction with
+an existing dwelling as a temporary use for the term of the hardship
+suffered by the existing resident or relative, subject to the following:
+1. The manufactured dwelling shall use the same subsurface sewage
+disposal system used by the existing dwelling, if that disposal
+system is adequate to accommodate the additional dwelling. If the
+manufactured home will use a public sanitary sewer system, such
+condition will not be required;
+2. The county shall review the permit authorizing such manufactured
+homes every two years; and
+3. Within three months of the end of the hardship, the manufactured
+dwelling or recreational vehicle shall be removed or demolished or,
+in the case of an existing building, the building shall be removed,
+demolished or returned to an allowed nonresidential use.
+(B) A temporary residence approved under this section is not eligible for
+replacement under Section 4.3500(18). Department of Environmental
+Quality review and removal requirements also apply.
+(C) As used in this section “hardship” means a medical hardship or hardship
+for the care of an aged or infirm person or persons.
+6) A new single-unit dwelling unit on a lot or parcel zoned for forest use may be
+approved provided: [ORD 23-02] [ORD. 25-16]
+(A) The new single-unit dwelling unit will be on a lot or parcel no smaller than
+the minimum size allowed under ORS 215.780;
+(B) The new single-unit dwelling unit will be on a lot or parcel that contains
+exactly one existing single-unit dwelling unit that was lawfully:
+1. In existence before November 4, 1993; or
+2. Approved under ORS 215.130(6), 215.705, 215.720, 215.750, or
+215.755;
+(C) The shortest distance between the new single-unit dwelling unit and the
+existing single-unit dwelling unit is not greater than 200 feet;
+(D) The lot or parcel is within a rural fire protection district organized under
+ORS chapter 478;
+
+Clatsop County Land and Water III-98 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(E) The new single-unit dwelling unit complies with the Oregon residential
+specialty code relating to wildfire hazard mitigation;
+(F) As a condition of approval of the new single-unit dwelling unit, in addition
+to the requirements of ORS 215.293, the property owner agrees to
+acknowledge and record in the deed records for the county in which the lot
+or parcel is located, one or more instruments containing irrevocable deed
+restrictions that:
+1. Prohibit the owner and the owner’s successors from partitioning the
+property to separate the new single-unit dwelling unit from the lot or
+parcel containing the existing single-unit dwelling unit; and
+2. Require that the owner and the owner’s successors manage the lot
+or parcel as a working forest under a written forest management
+plan, as defined in ORS 526.455, that is attached to the instrument;
+(G) The existing single-unit dwelling unit is occupied by the owner or a
+relative;
+(H) The new single-unit dwelling unit will be occupied by the owner or a
+relative; and
+(I) The owner or a relative occupies the new single-unit dwelling unit to allow
+the relative to assist in the harvesting, processing or replanting of forest
+products or in the management, operation, planning, acquisition or
+supervision of forest lots or parcels of the owner.
+(J) If a new single-unit dwelling unit is constructed under this section, a
+county may not allow the new or existing dwelling unit to be used for
+vacation occupancy as defined in ORS 90.100. [ORD 23-02]
+7) For single-unit dwellings, the landowner shall sign and record in the deed records
+for the county a document binding the landowner, and the landowner's
+successors in interest, prohibiting them from pursuing a claim for relief or cause
+of action alleging injury from farming or forest practices for which no action or
+claim is allowed under ORS 30.936 or 30.937.
+Section 3.9200. Commercial Uses
+1) A home occupation shall be subject to the requirements of Section 3.8000 and:
+(A) Shall be operated by a resident or employee of a resident of the property
+on which the business is located;
+(B) Shall employ on the site no more than five full-time or part-time persons at
+any given time;
+(C)  Shall be operated substantially in:
+1. The dwelling; or
+2. Other buildings normally associated with uses permitted in the zone
+in which the property is located, except that such other buildings
+may not be utilized as bed and breakfast facilities or rental units
+unless they are legal residences; and
+(A) Shall not unreasonably interfere with other uses permitted in the zone in
+
+Clatsop County Land and Water III-99 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+which the property is located.
+(B) The home occupation shall be accessory to an existing, permanent
+dwelling on the same parcel.
+(C) No materials or mechanical equipment shall be used which will be
+detrimental to the residential use of the property or adjoining residences
+because of vibration, noise, dust, smoke, odor, interference with radio or
+television reception, or other factors.
+(D) All off-street parking must be provided on the subject parcel where the
+home occupation is operated.
+1. Employees must use an approved off-street parking area.
+2. Customers visiting the home occupation must use an approved off-
+street parking area. No more than 5 vehicles from
+customers/visitors of the home occupation can be present at any
+given time on the subject parcel.
+(E) Retail sales shall be limited or accessory to a service.
+(F) Prohibited Home Occupations
+1. Retail sales or professional services, other than by appointment
+only.
+2. Auto or vehicle oriented activities (repair, painting, detailing,
+wrecking, transportation services, or similar activities).
+(G) Permitting.
+1. Home occupations shall be subject to a conditional use permit
+process, pursuant to Section 2.4000 and Section 3.8000, unless all
+of the requirements of 2 can be met.
+2. An in-home commercial activity is not considered a home
+occupation and does not require a land use permit where all of the
+following criteria can be met.  The in-home activity:
+a) Meets the criteria under Section 3.9200(5) (A) and (C).
+b) Is conducted within a dwelling only by residents of the
+dwelling.
+c) Does not occupy more than 25 percent of the combined floor
+area of the dwelling including attached garage and one
+accessory structure.
+d) Does not serve clients or customers on-site.
+e) Does not include the on-site advertisement, display or sale
+of stock in trade, other than vehicle or trailer signage.
+f) Does not include the outside storage of materials, equipment
+or products.
+2. A permanent facility for the primary processing of forest products may be
+permitted, where the facility is:
+(A) Located in a building or buildings that do not exceed 10,000 square feet in
+total floor area; or
+(B) Located in an outdoor area that 4oes not exceed one acre excluding
+laydown and storage yards; or
+
+Clatsop County Land and Water III-100 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(C) Located in a combination of indoor and outdoor areas described in
+Subsections (A) and (B); and
+(D) Adequately separated from the surrounding properties to reasonably
+mitigate noise, odor, and other impacts generated by the facility that
+adversely affect forest management and other existing uses, as
+determined by the governing body.
+3. Private seasonal accommodations for fee hunting operations are subject to the
+following requirements:
+(A) Accommodations are limited to no more than 15 guest rooms as that term
+is defined in the Oregon Structural Specialty Code;
+(B) Only minor incidental and accessory retail sales are permitted; and
+(C) Accommodations are occupied temporarily for the purpose of hunting
+during either or both game bird or big game hunting seasons authorized
+by the Oregon Fish and Wildlife Commission.
+4. Private accommodations for fishing occupied on a temporary basis are subject to
+the following requirements:
+(A) Accommodations limited to no more than 15 guest rooms as that term is
+defined in the Oregon Structural Specialty Code;
+(B) Only minor incidental and accessory retail sales are permitted;
+(C) Accommodations occupied temporarily for the purpose of fishing during
+fishing seasons authorized by the Oregon Fish and Wildlife Commission;
+and
+(D) Accommodations must be located within one-quarter mile of fish-bearing
+Class I waters.
+Section 3.9210.  Utility, Power Generation, Solid Waste Uses
+1) A Commercial Utility Facility for the purpose of generating power shall not
+preclude more than 10 acres from use as a commercial forest operation.
+2) Solid waste disposal facilities shall meet the performance and permitting
+requirements of the Department of Environmental Quality under ORS 459.245,
+the requirements of Section 3.9230 and shall comply with the following
+requirements.
+(A) The facility shall be designed to minimize conflicts with existing and
+permitted uses allowed under plan designations for adjacent parcels as
+outlined in policies of the Comprehensive Plan.
+(B) The facility must be of a size and design to minimize noise or other
+detrimental effects when located adjacent to farm, forest and grazing
+dwellings(s) or a residential zone.
+(C) The facility shall be fenced when the site is located adjacent to dwelling(s)
+or a residential zone and landscaping, buffering and/or screening shall be
+provided.
+(D) The facility does not constitute an unnecessary fire hazard.  If located in a
+forested area, the county shall condition approval to ensure that minimum
+fire safety measures will be taken, which may include but are not limited to
+
+Clatsop County Land and Water III-101 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+the following:
+1. The area surrounding the facility is kept free from litter and debris.
+2. Fencing will be installed around the facility, if deemed appropriate
+to protect adjacent farm crops or timber stand.
+3. If the proposed facility is located in a forested area, construction
+materials shall be fire resistant or treated with a fire retardant
+substance and the applicant will be required to remove forest fuels
+within [30 feet] of structures.
+(E) The facility shall adequately protect fish and wildlife resources by meeting
+minimum Oregon State Department of Forestry regulations.
+(F) Access roads or easements for the facility shall be improved to the
+county’s Transportation System Plan standards and comply with grades
+recommended by the Public Works Director.
+(G) Road construction for the facility must be consistent with the intent and
+purposes set forth in the Oregon Forest Practices Act to minimize soil
+disturbance and help maintain water quality.
+(H) Hours of operation for the facility shall be limited to 8 am – 7 pm.
+(I) Comply with other conditions deemed necessary.
+Section 3.9220.  Public and Quasi-public Uses
+1) Storage structures for emergency supplies are subject to the following
+requirements:
+(A) Areas within an urban growth boundary cannot reasonably accommodate
+the structures;
+(B) The structures are located outside tsunami inundation zones and
+consistent with evacuation maps prepared by Department of Geology and
+Mineral Industries (DOGAMI) or the local jurisdiction;
+(C) Sites where the structures could be co-located with an existing use
+approved under this subsection are given preference for consideration;
+(D) The structures are of a number and size no greater than necessary to
+accommodate the anticipated emergency needs of the population to be
+served;
+(E) The structures are managed by a local government entity for the single
+purpose of providing for the temporary emergency support needs of the
+public; and
+(F) Written notification has been provided to the County Office of Emergency
+Management of the application for the storage structures.
+2) Public parks may include:
+(A) All uses allowed under Statewide Planning Goal 4;
+(B) The following uses, if authorized in a local or park master plan that is
+adopted as part of the local comprehensive plan, or if authorized in a state
+park master plan that is adopted by OPRD:
+1. Campground areas: recreational vehicle sites; tent sites; camper
+cabins; yurts; teepees; covered wagons; group shelters; campfire
+
+Clatsop County Land and Water III-102 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+program areas; camp stores;
+2. Day use areas: picnic shelters, barbecue areas, swimming areas
+(not swimming pools), open play fields, play structures;
+3. Recreational trails: walking, hiking, biking, horse, or motorized off-
+road vehicle trails; trail staging areas;
+4. Boating and fishing facilities: launch ramps and landings, docks,
+moorage facilities, small boat storage, boating fuel stations, fish
+cleaning stations, boat sewage pumpout stations;
+5. Amenities related to park use intended only for park visitors and
+employees: laundry facilities; recreation shops; snack shops not
+exceeding 1500 square feet of floor area;
+6. Support facilities serving only the park lands wherein the facility is
+located: water supply facilities, sewage collection and treatment
+facilities, storm water management facilities, electrical and
+communication facilities, restrooms and showers, recycling and
+trash collection facilities, registration buildings, roads and bridges,
+parking areas and walkways;
+7. Park Maintenance and Management Facilities located within a park:
+maintenance shops and yards, fuel stations for park vehicles,
+storage for park equipment and supplies, administrative offices,
+staff lodging; and
+8. Natural and cultural resource interpretative, educational and
+informational facilities in state parks: interpretative centers,
+information/orientation centers, self-supporting interpretative and
+informational kiosks, natural history or cultural resource museums,
+natural history or cultural educational facilities, reconstructed
+historic structures for cultural resource interpretation, retail stores
+not exceeding 1500 square feet for sale of books and other
+materials that support park resource interpretation and education.
+(C) Visitor lodging and retreat facilities if authorized in a state park master
+plan that is adopted by OPRD: historic lodges, houses or inns and the
+following associated uses in a state park retreat area only:
+1. Meeting halls not exceeding 2000 square feet of floor area;
+2. Dining halls (not restaurants).
+3) Private Campgrounds and Campsites.
+(A) Campgrounds in private parks may be permitted, subject to the following:
+1. Except on a lot or parcel contiguous to a lake or reservoir,
+campgrounds shall not be allowed within three miles of an urban
+growth boundary unless an exception is approved pursuant to
+ORS 197.732 and OAR chapter 660, division 4.
+2. A campground shall be designed and integrated into the rural
+agricultural and forest environment in a manner that protects the
+natural amenities of the site and provides buffers of existing native
+trees and vegetation or other natural features between campsites.
+
+Clatsop County Land and Water III-103 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+3. Campgrounds authorized by this rule shall not include intensively
+developed recreational uses such as swimming pools, tennis
+courts, retail stores or gas stations.
+4. Overnight temporary use in the same campground by a camper or
+camper's vehicle shall not exceed a total of 30 days during any
+consecutive six-month period.
+(B) Campsites within campgrounds meeting the requirements of Section
+3.9220(3)(A)  and permitted pursuant to Section 3.9230 must comply with
+the following:
+1. Allowed uses include tent, travel trailer or recreational vehicle; yurts
+are also allowed uses, subject to Section 3.9220(B)(3).
+2. Separate sewer, water or electric service hook-ups shall not be
+provided to individual camp sites except that electrical service may
+be provided to yurts.
+3. No more than one-third or a maximum of 10 campsites, whichever
+is smaller, may include a yurt. The yurt shall be located on the
+ground or on a wood floor with no permanent foundation.
+Section 3.9230. Conditional Use Review Criteria
+A use authorized in a forest zone by Sections 4.3400 and 4.3500 may be allowed
+provided the following requirements or their equivalent are met. These requirements are
+designed to make the use compatible with forest operations and agriculture and to
+conserve values found on forest lands.
+1) The proposed use will not force a significant change in, or significantly increase
+the cost of, accepted farming or forest practices on agriculture or forest lands.
+2) The proposed use will not significantly increase fire hazard or significantly
+increase fire suppression costs or significantly increase risks to fire suppression
+personnel.
+3) A written statement recorded with the deed or written contract with the county or
+its equivalent is obtained from the land owner that recognizes the rights of
+adjacent and nearby land owners to conduct forest operations consistent with the
+Forest Practices Act and Rules for uses authorized in OAR 660-006-0025
+Subsection 5(c).
+4) The proposed use will be compatible with vicinity uses, and satisfies all relevant
+requirements of this ordinance and the following general criteria:
+(A) The use is consistent with those goals and policies of the Comprehensive
+Plan        which apply to the proposed use;
+(B) The parcel is suitable for the proposed use considering its size, shape,
+location, topography, existence of improvements and natural features;
+(C) The proposed use will not alter the character of the surrounding area in a
+manner which substantially limits, impairs or prevents the use of
+surrounding properties for the permitted uses listed in the underlying
+zoning district;
+
+Clatsop County Land and Water III-104 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(D) The proposed use is appropriate, considering the adequacy of public
+facilities and services existing or planned for the area affected by the use;
+and
+(E) The use is or can be made compatible with existing uses and other
+allowable uses in the area.
+Section 3.9240. Siting Standards for Dwellings and Structures
+The following siting criteria or their equivalent shall apply to all new dwellings and
+structures in forest zones. These criteria are designed to make such uses compatible
+with forest operations, to minimize wildfire hazards and risks and to conserve values
+found on forest lands. A governing body shall consider the criteria in this section
+together with the requirements of Section 3.9250 to identify the building site:
+1) Dwellings and structures shall be sited on the parcel so that:
+(A) They have the least impact on nearby or adjoining forest or agricultural
+lands;
+(B) The siting ensures that adverse impacts on forest operations and
+accepted farming practices on the tract will be minimized;
+(C) The amount of forest lands used to site access roads, service corridors,
+the dwelling and structures is minimized; and
+(D) The risks associated with wildfire are minimized.
+2) Siting criteria satisfying Subsection 1) may include setbacks from adjoining
+properties, clustering near or among existing structures, siting close to existing
+roads and siting on that portion of the parcel least suited for growing trees.
+3) The applicant shall provide evidence to the governing body that the domestic
+water supply is from a source authorized in accordance with the Water
+Resources Department's administrative rules for the appropriation of ground
+water or surface water and not from a Class II stream as defined in the Forest
+Practices rules (OAR chapter 629). For purposes of this section, evidence of a
+domestic water supply means:
+(A) Verification from a water purveyor that the use described in the application
+will be served by the purveyor under the purveyor's rights to appropriate
+water;
+(B) A water use permit issued by the Water Resources Department for the
+use described in the application; or
+(C) Verification from the Water Resources Department that a water use permit
+is not required for the use described in the application. If the proposed
+water supply is from a well and is exempt from permitting requirements
+under ORS 537.545, the applicant shall submit the well constructor's
+report to the county upon completion of the well.
+4) As a condition of approval, if road access to the dwelling is by a road owned and
+maintained by a private party or by the Oregon Department of Forestry, the U.S.
+Bureau of Land Management, or the U.S. Forest Service, then the applicant shall
+provide proof of a long-term road access use permit or agreement. The road use
+
+Clatsop County Land and Water III-105 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+permit may require the applicant to agree to accept responsibility for road
+maintenance.
+5) Approval of a dwelling shall be subject to the following requirements:
+(A) Approval of a dwelling requires the owner of the tract to plant a sufficient
+number of trees on the tract to demonstrate that the tract is reasonably
+expected to meet Department of Forestry stocking requirements at the
+time specified in department of Forestry administrative rules;
+(B) The planning department shall notify the county assessor of the above
+condition at the time the dwelling is approved;
+(C) Stocking survey report:
+1. If the lot or parcel is more than 10 acres in western Oregon or more
+than 30 acres in eastern Oregon, the property owner shall submit a
+stocking survey report to the county assessor and the assessor will
+verify that the minimum stocking requirements have been met by
+the time required by Department of Forestry rules;
+2. Upon notification by the assessor the Department of Forestry will
+determine whether the tract meets minimum stocking requirements
+of the Forest Practices Act. If that department determines that the
+tract does not meet those requirements, that department will notify
+the owner and the assessor that the land is not being managed as
+forest land. The assessor will then remove the forest land
+designation pursuant to ORS 321.359 and impose the additional
+tax; and
+(D) The county governing body or its designate shall require as a condition of
+approval of a single-unit dwelling under ORS 215.213, 215.383 or 215.284
+or otherwise in a farm or forest zone, that the landowner for the dwelling
+sign and record in the deed records for the county a document binding the
+landowner, and the landowner's successors in interest, prohibiting them
+from pursuing a claim for relief or cause of action alleging injury from
+farming or forest practices for which no action or claim is allowed under
+ORS 30.936 or 30.937. A governing body shall consider the criteria in this
+section together with the requirements of Section 3.9250 to identify the
+building site.
+Section 3.9250. Fire Protection Standards for Dwellings and Structures
+The following fire-siting standards or their equivalent shall apply to all new dwelling or
+structures in a forest zone:
+1) The dwelling shall be located upon a parcel within a fire protection district or shall
+be provided with residential fire protection by contract. If the dwelling is not within
+a fire protection district, the applicant shall provide evidence that the applicant
+has asked to be included within the nearest such district. If the governing body
+determines that inclusion within a fire protection district or contracting for
+residential fire protection is impracticable, the governing body may provide an
+
+Clatsop County Land and Water III-106 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+alternative means for protecting the dwelling from fire hazards that shall comply
+with the following:
+(A) The means selected may include a fire sprinkling system, onsite
+equipment and water storage or other methods that are reasonable, given
+the site conditions;
+(B) If a water supply is required for fire protection, it shall be a swimming pool,
+pond, lake, or similar body of water that at all times contains at least 4,000
+gallons or a stream that has a continuous year-round flow of at least one
+cubic foot per second;
+(C) The applicant shall provide verification from the Water Resources
+Department that any permits or registrations required for water diversion
+or storage have been obtained or that permits or registrations are not
+required for the use; and
+(D) Road access shall be provided to within 15 feet of the water's edge for
+firefighting pumping units. The road access shall accommodate the
+turnaround of firefighting equipment during the fire season. Permanent
+signs shall be posted along the access route to indicate the location of the
+emergency water source.
+2) Road access to the dwelling shall meet road design standards described in OAR
+660-006-0040.
+3) The owners of the dwellings and structures shall maintain a primary fuel-free
+break area surrounding all structures and clear and maintain a secondary fuel-
+free break area on land surrounding the dwelling that is owned or controlled by
+the owner in accordance with the provisions in "Recommended Fire Siting
+Standards for Dwellings and Structures and Fire Safety Design Standards for
+Roads" dated March 1, 1991, published by the Oregon Department of Forestry;
+and shall also demonstrate compliance with Table 3.1.
+4) The dwelling shall have a fire-retardant roof.
+5) The dwelling shall not be sited on a slope of greater than 40 percent.
+6) If the dwelling has a chimney or chimneys, each chimney shall have a spark
+arrester.
+Table 3.1.  Minimum Primary Safety Zone.
+
+Slope
+Feet of Primary
+Safety Zone
+Feet of Additional
+Primary Safety Zone
+Down Slope
+0% 30 0
+10% 30 50
+20% 30 75
+25% 30 100
+40% 30 150
+
+Clatsop County Land and Water III-107 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Figure 8. Example of Safety Zone Shape.
+
+SECTION 3.9300. YOUTH CAMPS
+1) The purpose of this section is to provide for the establishment of a youth camp
+that is generally self-contained and located on a parcel suitable to limit potential
+impacts on nearby and adjacent land and to be compatible with the forest
+environment.
+2) Changes to or expansions of youth camps established prior to the effective date
+of this section shall be subject to the provisions of ORS 215.130.
+3) An application for a proposed youth camp shall comply with the following:
+(A) The number of overnight camp participants that may be accommodated
+shall be determined by the governing body, or its designate, based on the
+size, topography, geographic features and any other characteristics of the
+proposed site for the youth camp. Except as provided by Section
+3.9300(3)(B) a youth camp shall not provide overnight accommodations
+for more than 350 youth camp participants, including staff.
+(B) The governing body, or its designated may allow up to eight (8) nights
+during the calendar year when the number of overnight participants may
+exceed the total number of overnight participants allowed undersection
+3.9300(3)(A).
+(C) Overnight stays for adult programs primarily for individuals over 21 years
+of age, not including staff, shall not exceed 10 percent of the total camper
+
+Clatsop County Land and Water III-108 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+nights offered by the youth camp.
+(D) The use will not force a significant change in, or significantly increase the
+cost of, accepted farming or forest practices on agriculture or forest lands.
+(E) A campground as described in Section 4.3500(20) shall not be established
+in conjunction with a youth camp.
+(F) A youth camp shall not be allowed in conjunction with an existing golf
+course.
+(G) A youth camp shall not interfere with the exercise of legally established
+water rights on adjacent properties.
+4) The youth camp shall be located on a lawful parcel that is:
+A. Suitable to provide a forested setting needed to ensure a primarily outdoor
+experience without depending upon the use or natural characteristics of
+adjacent and nearby public and private land. This determination shall be
+based on the size, topography, geographic features and any other
+characteristics of the proposed site for the youth camp, as well as, the
+number of overnight participants and type and number of proposed
+facilities. A youth camp shall be located on a parcel of at least 40 acres.
+B. Suitable to provide a protective buffer to separate the visual and audible
+aspects of youth camp activities from other nearby and adjacent lands.
+The buffers shall consist of forest vegetation, topographic or other natural
+features as well as structural setbacks from adjacent public and private
+lands, roads, and riparian areas. The structural setback from roads and
+adjacent public and private property shall be 250 feet unless the governing
+body, or its designate sets a different setback based upon the following
+criteria that may be applied on a case-by-case basis:
+1) The proposed setback will prevent conflicts with commercial
+resource management practices;
+2) The proposed setback will prevent a significant increase in safety
+hazards associated with vehicular traffic; and
+3) The proposed setback will provide an appropriate buffer from visual
+and audible aspects of youth camp activities from other nearby and
+adjacent resource lands.
+C. Suitable to provide for the establishment of sewage disposal facilities
+without requiring a sewer system as defined in OAR 660-011-0060(1)(f).
+Prior to granting final approval, the governing body or its designate shall
+verify that a proposed youth camp will not result in the need for a sewer
+system.
+5) A youth camp may provide the following facilities:
+A. Recreational facilities limited to passive improvements, such as open
+areas suitable for ball fields, volleyball courts, soccer fields, archery or
+shooting ranges, hiking and biking trails, horseback riding or swimming
+that can be provided in conjunction with the site's natural environment.
+Intensively developed facilities such as tennis courts, gymnasiums, and
+golf courses shall not be allowed. One swimming pool may be allowed if
+
+Clatsop County Land and Water III-109 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+no lake or other water feature suitable for aquatic recreation is located on
+the subject property or immediately available for youth camp use.
+B. Primary cooking and eating facilities shall be included in a single building.
+Except in sleeping quarters, the governing body, or its designate, may
+allow secondary cooking and eating facilities in one or more buildings
+designed to accommodate other youth camp activities. Food services shall
+be limited to the operation of the youth camp and shall be provided only
+for youth camp participants. The sale of individual meals may be offered
+only to family members or guardians of youth camp participants.
+C. Bathing and laundry facilities except that they shall not be provided in the
+same building as sleeping quarters.
+D. Up to three camp activity buildings, not including primary cooking and
+eating facilities.
+E. Sleeping quarters including cabins, tents or other structures. Sleeping
+quarters may include toilets, but, except for the caretaker's dwelling, shall
+not include kitchen facilities. Sleeping quarters shall be provided only for
+youth camp participants and shall not be offered as overnight
+accommodations for persons not participating in youth camp activities or
+as individual rentals.
+F. Covered areas that are not fully enclosed.
+G. Administrative, maintenance and storage buildings; permanent structure
+for administrative services, first aid, equipment and supply storage, and for
+use as an infirmary if necessary or requested by the applicant.
+H. An infirmary may provide sleeping quarters for the medical care provider
+(e.g. Doctor, Registered Nurse, Emergency Medical Technician, etc.).
+I. A caretaker's residence may be established in conjunction with a youth
+camp prior to or after June 14, 2000, if no other dwelling exists on the
+subject property.
+6) A proposed youth camp shall comply with the following fire safety requirements:
+A. The fire siting standards in Section 3.9250.
+B. A fire safety protection plan shall be developed for each youth camp that
+includes the following:
+1) Fire prevention measures;
+2) On site pre-suppression and suppression measures; and
+3) The establishment and maintenance of fire safe area(s) in which
+camp participants can gather in the event of a fire.
+C. Except as determined under paragraph (6)(D), a youth camp's on-site fire
+suppression capability shall include:
+1) A 1000 gallon mobile water supply that can access all areas of the
+camp;
+2) A 30 gallon-per-minute water pump and an adequate amount of
+hose and nozzles;
+3) A sufficient number of fire-fighting hand tools; and
+4) Trained personnel capable of operating all fire suppression
+
+Clatsop County Land and Water III-110 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+equipment at the camp during designated periods of fire danger.
+D. An equivalent level of fire suppression facilities may be determined by the
+governing body, or it’s designate. The equivalent capability shall be based
+on the Oregon Department of Forestry's (ODF) Wildfire Hazard Zone
+rating system, the response time of the effective wildfire suppression
+agencies, and consultation with ODF personnel if the camp is within an
+area protected by ODF and not served by a local structural fire protection
+provider.
+E. The provisions of paragraph (6)(C) may be waived by the governing body,
+or its designate, if the youth camp is located in an area served by a
+structural fire protection provider and that provider informs the governing
+body in writing that on-site fire suppression at the camp is not needed.
+7. The governing body, or its designate, shall require as a condition of approval of a
+youth   camp, that the land owner of the youth camp sign and record in the deed
+records for the county a document binding the land owner, or operator of the
+youth camp if different from the owner, and the land owner's or operator's
+successors in interest, prohibiting them from pursuing a claim for relief or cause
+of action alleging injury from farming or forest practices for which no action or
+claim is allowed under ORS 30.936 or 30.937.
+SECTION 3.9400. COMMUNICATION FACILITIES SITING STANDARDS
+Section 3.9410. Purpose
+To accommodate the increasing communications needs of Clatsop County residents,
+businesses, and visitors, while protecting the public health, safety and general welfare
+and visual environment of the County, these regulations are established to:
+1) Enhance the ability to provide communications services to County residents,
+businesses and visitors;
+2) Simplify the process for obtaining permits for Communication Facilities, while at
+the same time protecting the legitimate interests of County residents;
+3) Protect the County’s natural resources and visual environment from the potential
+adverse visual effects of Communication Facilities, through careful design and
+siting standards;
+4) Limit the number of towers needed to serve the County, by requiring facilities to
+be placed on existing buildings and structures where possible, and requiring co-
+location of wireless communication providers on existing and new towers.
+
+These standards shall be construed to be consistent with any federal or state standards
+regulating communication facilities which pre-empt or take precedence over the
+standards herein. In the event that either the federal or state government adopt
+mandatory or standards more stringent than those described herein, these standards
+shall be revised accordingly.
+Section 3.9415. Applicability
+All communication facilities towers or antennas located within Clatsop County, whether
+
+Clatsop County Land and Water III-111 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+upon private or public lands shall be subject to Section 3.9400.
+Only the following facilities shall be exempted from the application of this section:
+1) Pre-existing towers or antenna. Towers and antenna existing prior to the date of
+this ordinance shall not be required to meet the requirements of this section, so
+long as the pre-existing towers and antenna were in compliance with all
+applicable permitting requirements in effect at the time of installation and are
+currently in compliance with all other required approvals, permits and exceptions.
+2) Amateur (ham) and citizen band transmitters or radio stations, antennas and
+microwave dishes or receivers.
+3) Maintenance or repair. Maintenance, repair or reconstruction of a communication
+facility and related equipment, provided that there is no change in the height or
+any other dimension of the facility.
+4) Emergency Communication Facilities. Temporary communication facilities for
+emergency communications by public officials.
+Section 3.9420. Definitions
+The following definitions shall apply:
+ANTENNA: An exterior transmitting or receiving device used in telecommunications that
+radiates or captures radio frequency signals or electromagnetic waves, including but not
+limited to directional antenna, such as panels, microwave dishes, and satellite dishes
+and omni-directional antenna, such as whip antenna but not including satellite earth
+stations.
+ANTENNA, ATTACHED: An antenna mounted on an existing building, silo, smokestack,
+water tower, utility or power pole, or other support structure other than an antenna
+tower.
+ANTENNA, CONCEALED (STEALTH): An antenna with a support structure that
+screens or camouflages the presence of antennas and/or towers from public view, in a
+manner appropriate to the site’s context and surrounding environment. Examples of
+concealed antennas include manmade trees, clock towers, flag poles, light structures,
+and similar structures that camouflage or conceal the presence of antennas or towers.
+ANTENNA TOWER: A freestanding structure, including monopole, guyed and lattice
+towers, designed and constructed primarily to support antennas and transmitting and
+receiving equipment. The term includes microwave towers, common-carrier towers,
+cellular telephone towers, and the like. The term includes the structure and any support
+thereto.
+ANTENNA TOWER HEIGHT: The distance from the average grade at the antenna
+tower base to the highest point of the tower. Overall antenna tower height includes the
+base pad, mounting structures and panel antennas, but excludes lighting rods and whip
+antennas.
+
+Clatsop County Land and Water III-112 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+CO-LOCATION: Locating wireless communications equipment for more than one
+Communications Provider on a single structure.
+COMMUNICATION FACILITIES (SECTION 1.030): Communication lines and towers,
+antennas and microwave receivers.
+FACILITY (COMMUNICATION): The equipment, physical plant and portion of the
+property and/or building used to provide power and communication services, including
+but not limited to cables and wires, conduits, pedestals, antennas, towers, concealed
+structures, electronic devices, equipment buildings and cabinets, landscaping, fencing
+and screening, and parking areas.
+MICROCELL: A low power facility used to provide increased capacity to
+telecommunications demand areas or provide infill coverage in areas of weak reception,
+including a separate transmitting and receiving station serving the facility.
+UNREASONABLE ADVERSE IMPACT: The proposed project would produce an end
+result which is:
+1. out-of-character with the designated scenic, natural, historic, and cultural
+resources affected, including existing buildings, structures, and features within
+the designated resource area, and
+2. would diminish the scenic, natural, historic, and cultural value of the designated
+resource.
+Section 3.9425. Zoning/Where Permitted
+Communication Facilities are permitted as a principal or conditional use on a property
+as follows:
+
+Clatsop County Land and Water III-113 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Zoning District Attached
+Antennas
+Concealed
+(stealth)
+antennas
+Microcell
+Towers
+Antenna Towers-New
+Facilities
+CBR, CR, RSA-
+SFR, SFR-1 -- -- -- --
+RA-1, RA-2, RA-5,
+RSA-MFR, RC-
+MFR, KS-RCR,
+RCR, AC-RCR
+P P -- --
+F-80 P P(1) P(80' or less
+in height) 1
+CUP II (100' or less in
+height) 1
+CUP IIa (Towers > 100') 1
+AF, EFU P P(1) P(80' or less
+in height) 1
+CUP II (Towers < 200' in
+height)1
+CUP IIa (Towers >200' in
+height)1
+TC, NC P P
+P (60' or less
+in height)
+
+P(60' or less in height)
+CUP II (Towers >60')
+GC, RCC P P P(80' or less
+in height)
+P(80' or less in height)
+CUP II (Towers > 80')
+HI P P P(80' or less
+in height)
+P(100' or less in height)
+CUP II (Towers > 100')
+MI P P P(80' or less
+in height)
+P(80' or less in height)
+CUP II (Towers > 80')
+LI, RCI, RCC-LI P P P(80' or less
+in height)
+P(80' or less in height)
+CUP II (Towers > 80')
+QM, UGB -- -- -- --
+OPR, RM -- -- -- --
+LW -- -- -- --
+CS, NS, EAC -- -- -- --
+AD P P P (60' or less
+in height)
+RUII (Towers 60' or less in
+height)
+AC-2, AC-1, AN, NU -- -- -- --
+NAC-2, MR -- -- -- --
+
+P-   Permitted by Type I Administrative Review {Section 2.1010}
+CUP (II)-  Type II Conditional Use Permit Review {Section 2.1020, 2.4000-2.4050}
+CUP(IIa)-  Type II(a) Hearing’s Officer Conditional Use Permit Review {Section 2.1030, 2.4000-2.4050}
+RU(II)-   Type II Review Use Permit Review {Section 2.1020, 2.5000-2.5040)
+- -   Not Permitted
+Special Conditions
+(1): Project shall comply with Standards Section 3.9090 (Farm/Forest Zone Use Standards)
+
+Clatsop County Land and Water III-114 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.9430. Preferred Communication Facilities
+The order of preference for new permanent Communication Facilities is, from most
+preferred to least preferred.
+1) Co-location on existing Communication Facilities; (if not technically feasible,
+then;)
+2) Attached antennas (if not technically feasible, then;)
+3) Concealed antennas (if not technically feasible, then;)
+4) Microcell antenna towers (if not technically feasible; then;)
+5) New Communication Facilities tower.
+
+New Communication Facilities shall use the most preferred facility type where
+technically feasible. A lesser preferred facility type shall only be allowed if the applicant
+provides substantial evidence as outlined in Section 3.9450(5)(C),1)-7), or it can be
+demonstrated that the proposed facility will have a lesser visual impact than the use of
+more preferred facilities.
+Section 3.9435. Facilities on Residential Properties
+Communication Facilities may not be placed on properties or buildings zoned primarily
+for residential purposes, except as permitted by Section 3.9425 (Zoning/Where
+Permitted). This does not apply to buildings on farm and forest parcels containing
+dwelling units.
+Section 3.9440. Facilities at Scenic, Natural, Historic and Cultural Areas
+Communication Facilities may be located on a scenic, natural, historic and cultural site
+or structure subject to approval of a Type II(a) conditional use permit by the County
+Hearing’s Officer. Communication Facilities shall not create an unreasonable adverse
+impact toward the view from any public park, natural scenic vista, historical building,
+major scenic and view corridor or residential area. In determining the potential
+unreasonable adverse impact of the proposed facility upon designated scenic, natural,
+historic and cultural resources, the Hearing’s Officer shall consider the following factors:
+1) The extent to which the proposed communications facility is visible from the
+viewpoint(s) of the impacted designated resource;
+2) The type, number, height and proximity of existing structures and features, and
+background features within the same line of sight as the proposed facility;
+3) The amount of vegetative screening;
+4) The distance of the proposed facility from the impacted designated resource;
+5) The presence of reasonable alternatives that allow the facility to function
+consistently with its purpose.
+Section 3.9445. Communication Facilities Spacing
+Antenna towers over 60 feet in height shall be located at least 2,640 feet from other
+Communication Facilities over 60 feet in height. Alternative spacing requirements may
+only be approved under the Conditional Development and Use process in accordance
+with Section 2.4050 and where it is demonstrated that the location of the towers will
+
+Clatsop County Land and Water III-115 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+take advantage of an existing natural or artificial feature to conceal the facility or
+minimize its visual impacts.
+Section 3.9450. Requirements and Performance Standards
+All Communication Facilities must demonstrate compliance with the following standards
+prior to County approval.
+1) Antenna Tower and Equipment Setbacks.
+(A) Attached antennas. Attached antennas and other appurtenances may
+encroach up to 2 feet into the minimum building setbacks in the underlying
+zoning district, but shall not extend over property lines.
+(B) Concealed (stealth) antennas. Minimum setbacks for concealed antennas
+are the same as the minimum building setbacks in the underlying zone.
+(C) Communication Facilities, other than attached and concealed antennas.
+Minimum setbacks for Communication Facilities are as follows:
+1. From property lines or dedicated public right-of-way of properties
+zoned GC, TC, NC, HI, MI, LI, AF, F-80, EFU, TC, NC and AD
+when located adjacent to residential zoning- facilities shall be set
+back by a distance greater than or equal to two times the height of
+the structure.
+2. From property lines or dedicated public right-of-way of properties
+adjacent to the Oregon Department of Transportation’s Scenic
+Byways for Highway 101 (Pacific Coast Scenic Byway) and
+Highway 30 (All American Road) (Refer to Figure 11- Oregon
+Scenic Byways)- facilities shall be set back by a distance greater
+than or equal to two times the height of the structure.
+3. All Communication Facilities, other than attached and concealed
+antennas, not located adjacent to residential zoning or the Oregon
+Scenic Byways of Highway 101 or 30, shall comply with the
+minimum setback requirements of the underlying zoning district.
+4. Alternative setbacks may only be approved under the Conditional
+Development and Use process in accordance with Section 5.030
+and where it is demonstrated that the location of the proposed
+facility will take advantage of an existing natural or artificial feature
+to conceal the facility or minimize its visual impacts.
+(D) Guy wires and equipment buildings and cabinets. Minimum setbacks for
+guy wires and equipment buildings and cabinets are the same as the
+minimum building setbacks in the underlying zone.
+2) Equipment Design.
+(A) Attached antennas on a roof may extend up to 15 feet over the height of
+the building or structure, and may exceed the underlying zone height limit.
+Alternative height limits for attached antennas may only be approved
+under the Type I Administrative Review process (Section 2.015) and
+where it is demonstrated that the location of the antenna(s) will take
+
+Clatsop County Land and Water III-116 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+advantage of an existing natural or artificial feature to conceal the facility
+or minimize its visual impacts. Attached antennas on a roof shall be
+located as close to the center of the roof as possible. Attached antennas
+mounted on a building or structure wall shall be as flush to the wall as
+technically possible, and shall not project above the top of the wall.
+Attached antennas and equipment shall be located, painted and/or
+screened to be architecturally and visually compatible with the building or
+structure it is attached on.
+(B) Microcell antenna towers may contain up to three whip or panel antennas.
+Microcell antenna towers shall be painted or coated in a uniform non-
+reflective color that blends with the surrounding built and natural
+environment. The use of wood poles is further encouraged.
+(C) Communication Facility antenna towers shall be painted or coated in a
+uniform non- reflective metallic color or other color that blends with the
+surrounding built and natural environment, unless state or federal
+regulations require different colors.
+(D) Communication Facility antenna towers shall not be artificially lighted
+except as required by the FAA or other state or federal agency. If safety
+lighting is required by the FAA, the  use of red beacons is preferred to
+flashing strobe lights. Security lighting on the site may be mounted up to
+20 feet in height, and shall be directed towards the ground to reduce light
+pollution, prevent offsite light spillage, and avoid illuminating the tower.
+(E) Equipment buildings shall be compatible with the architectural style of the
+surrounding built environment considering exterior materials, roof form,
+scale, mass, color, texture and character. Equipment buildings shall be
+constructed with materials that are equal to or better than the materials of
+the principal use. Equipment cabinets shall be located, painted and/or
+screened to be architecturally and visually compatible with the surrounding
+built and natural environment.
+(F) Equipment shall not generate noise in excess of federal, state and local
+noise regulations. This does not apply to generators used in emergency
+situations where the regular power supply for a facility is temporarily
+interrupted.
+3) Site Design. All Communication Facilities shall be designed to blend into the
+surrounding environment to the greatest extent feasible. The following measures
+shall be implemented:
+(A) Screening and landscaping appropriate to the context of the site and in
+harmony with the character of the surrounding environment is required
+when any part of the Communication Facility is visible from a public right-
+of-way or adjacent properties. Fencing may be up to 8 feet in height.
+Natural materials shall be used for screening and fencing to the maximum
+extent possible. Wire fencing, if utilized, shall be screened from public
+view. If a facility fronts on a public street or abuts a residential zone, a
+combination of hedges and/or evergreen trees (at least 4 feet in height
+
+Clatsop County Land and Water III-117 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+when planted) shall be planted along the roadway or around the facility to
+provide a continuous visual screen.
+(B) Existing vegetation and grades on the site shall be preserved as much as
+possible.
+(C) Signage at the site is limited to non-illuminated warning and equipment
+identification signs. This does not apply to concealed antennas that are
+incorporated into freestanding signs. Signs shall be designed subject to
+the standards in Section 3.0130.
+(D) Communication Facilities shall not include staffed offices, long term
+vehicle storage or other outdoor storage, or other uses not needed to
+send, receive or relay transmissions.
+4) Radio Frequency Emission Standards. All existing and proposed
+Communication Facilities are prohibited from exceeding or causing other facilities
+to exceed the radio frequency emission standards specified by Part 1, Practice
+and Procedure, Title 47 of the Code of Federal Regulations, Section 1.1310,
+Radio Frequency Radiation Exposure Limits. A statement by a licensed
+professional engineer shall be provided demonstrating that the proposed facility
+complies with all FCC standards for radio emissions.
+5) Co-location Requirements for Communication Facilities.
+(A) Communication Facilities providers shall cooperate to achieve co-location
+of facilities and equipment. Communication Facilities providers shall not
+act to exclude other providers from co-locating on the same tower when
+co-location is structurally and technically possible. Competitive conflict
+shall not be considered an adequate reason to preclude co-location.
+(B) In addition to equipment proposed for the applicant’s use, proposed
+Communication Facilities shall be designed in all respects to
+accommodate both the applicant’s antenna and comparable antenna for at
+least two (2) additional users if the antenna tower is over 100 feet in height
+or for at least one (1) additional comparable antenna if the antenna tower
+is between 60 feet and 100 feet in height.
+(C) Availability of suitable existing towers or other structures for co-location.
+No new tower shall be permitted unless the applicant demonstrates that
+no existing tower or structure can accommodate the applicant’s proposed
+antenna by co-locating. Evidence submitted to demonstrate that no
+existing tower or structure can accommodate the applicant’s proposed
+antenna may consist of the following:
+1. No existing towers or structures are located within the geographic
+area required to meet the applicant’s engineering requirements.
+2. Existing towers or structures are not of sufficient height to meet the
+applicant’s engineering requirements.
+3. Existing towers or structures do not have sufficient structural
+strength to support the applicant’s proposed antenna and related
+equipment and cannot be reinforced to provide sufficient structural
+strength.
+
+Clatsop County Land and Water III-118 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+4. The applicant’s proposed antenna would cause electromagnetic
+interference with the antenna on the existing tower and structures,
+or the antenna on the existing towers and structures would cause
+interference with the applicant’s proposed antenna.
+5. The fees or costs required to share an existing tower or structure or
+to adapt an existing tower or structure for sharing are
+unreasonable. Costs below new tower development are presumed
+reasonable.
+6. Property owners or owners of existing towers or structures that are
+unwilling to accommodate the applicant’s needs.
+7. The applicant demonstrates that there are other limiting factors that
+render existing towers and structures unsuitable.
+6) Exceptions to Co-location.
+(A) The Community Development Director may reduce the required shared
+capacity described in Section 3.9450(5), if an antenna tower necessary to
+provide for such sharing dominates and adversely alters the areas visual
+character.
+(B) If conditions for approval of a Communication Facilities include co-
+location, and:
+1. The tower owner is not willing to provide space for other carriers
+when it would not impair the structural integrity of the tower or
+cause interference; or
+2. The tower owner modifies the structure in a way to make co-
+location impractical or impossible; then the development and
+building permit and any related administrative or conditional use
+review or variance may be revoked by the Board of County
+Commissioners after a notice and a hearing. If approval is revoked,
+the Communication Facilities shall be removed at the owner’s
+expense.
+7) Abandonment. Communication Facilities will be considered abandoned if they
+are unused by all providers at the facility for a period of 180 consecutive days.
+Determination of abandonment shall be made by the Community Development
+Director, who shall have the right to demand documentation from the facility
+owner regarding the tower or antenna usage. Upon determination of
+abandonment, the facility owner shall have 90 days to:
+(A) Reuse the facility, or transfer the facility to another owner who will reuse it;
+or
+(B) Remove the facility. If the facility is not reused or removed within 90 days
+of determination of abandonment County approval shall expire, and the
+County may remove the facility at the facility and/or property owner’s
+expense.
+8) Modification to Existing Facilities or Pre-existing Facilities.
+(A) Addition of equipment for co-location of additional Communication Facility
+providers on existing antenna towers and sites are not subject to the
+
+Clatsop County Land and Water III-119 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+conditional use review process, if the tower height remains unchanged.
+Addition of equipment for co-location of additional Communication Facility
+providers on existing legal nonconforming antenna towers is not
+considered a nonconforming use expansion, and is exempt from Section
+3.1000 (Nonconforming Uses), if the tower height remains unchanged.
+Minor modifications to an existing Communications Facility shall be
+subject to the Type I Administrative Review process as outlined in Section
+2.1010 (Type I Procedure). Proposed modifications or additions shall be
+submitted to the Community Development Director for approval if
+consistent with provisions of applicable communication facility siting
+standards.
+(B) Minor and Major Modifications; the following definitions shall apply:
+1. Minor modifications: The addition of equipment and no more than
+two (2) antenna arrays to any existing tower, so long as the addition
+of the antenna arrays add no more than twenty (20) feet in height to
+the facility. Minor modifications requested by the applicant may be
+approved under Section 2.1010 (Type I Procedure) if such changes
+are consistent with the purposes and general character of the
+original application.
+2. Major modifications: Major modifications are any that exceed the
+definition of minor modifications. Major modifications to towers
+allowed under these regulations shall be subject to conditional use
+review.
+9) Building Codes and Safety Standards. To insure the structural integrity of
+communication facilities, the owner of a facility shall insure that it is constructed,
+operated, and maintained in compliance with the standards contained in
+applicable local, state and federal building codes and the applicable standards
+for telecommunication facilities, as amended from time to time.
+Section 3.9455. Application Submittal Requirements
+1) Application Contents: Applications for administrative or conditional use review
+of proposed Communication Facilities, and additions or modifications to existing
+facilities, shall include the following:
+(A) A site plan showing the location and legal description of the site; on-site
+land uses and zoning; adjacent roadways; parking and access; areas of
+vegetation and landscaping to be added, retained, replaced or removed;
+setbacks from property lines; and the location of the facility, including all
+related improvements and equipment.
+(B) A vicinity map showing adjacent properties, land uses, zoning and
+roadways: within 500 feet of the proposed attached antenna site, proposed
+concealed (stealth) antenna, microcell antenna tower or a proposed
+Communication Facility tower.
+(C) Elevation drawings of the proposed facility showing all antennas, towers,
+structures, equipment buildings and cabinets, fencing, screening,
+
+Clatsop County Land and Water III-120 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+landscaping, lighting, and other improvements related to the facility,
+showing specific materials, placement and colors.
+(D) Photorealistic renderings (photo simulations) of the site after antenna tower
+construction, demonstrating the true impact of the antenna on the
+surrounding visual environment. The Community Development Director may
+request photorealistic renderings of the site from specific vantage points.
+This requirement does not apply to facilities permitted under the
+administrative review process, unless such information is requested by the
+Community Development Director.
+(E) A report describing the facility and the technical, economic and other
+reasons for its design and location, the need for the facility and its role in the
+network; and describing the capacity of the structure, including the number
+and type of antennas it can accommodate.
+(F) The FAA response to the Notice of Proposed Construction of Alteration
+(FAA Form 7460-1), if the facility is located near an airport or a flight path.
+(G) A statement from the applicant verifying that the request has been
+submitted to the Oregon State Aeronautics Division for a formal response.
+(H) A copy of the provider’s Federal Communication Commission (FCC) license
+verifying that the applicant is authorized by the licensing guidelines of the
+FCC.
+(I) A letter of intent to allow co-location on the antenna tower as provided in
+Section 3.9450(5)(Co-Location), if the Communication Facility is taller than
+60 feet.
+(J) A letter of intent to remove the facility at the expense of the facility and/or
+property owner if it is abandoned, as provided by Section
+3.9450(7)(Abandonment). The letter shall include a signed statement by the
+property owner consenting the County entry to the property to remove an
+abandoned facility.
+(K) Proof of ownership of the land upon which a Communication Facility is
+proposed to be constructed, or installed, or a copy of an appropriate
+easement, lease or rental agreement.
+(L) A statement by a licensed professional engineer shall be provided
+demonstrating that the proposed facility complies with all FCC standards for
+radio emissions.
+2) Copies. The Community Development Director may request additional copies of
+any submittal item for staff and agency review.
+3) Facility Inventory. The first application for a proposed Communication Facility
+by a provider shall include a detailed inventory of all the provider’s existing and
+approved facilities within Clatsop County, and all incorporated areas within the
+County.
+Section 3.9460. Application Review
+1) Administrative Type I Review. Applications for proposed Communications
+Facilities subject to administrative review shall be reviewed by the Community
+
+Clatsop County Land and Water III-121 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Development Director for conformity with the requirements of 3.9425
+(Zoning/Where Permitted) and 4.9450 (Requirements and Performance
+Standards) as well as the criteria identified in Section 2.1160 (Development
+Permit Decision). The Community Development Director shall render a decision
+to approve, approve with conditions or deny approval of the proposal within 45
+days of submittal of the application. Any decision to deny a request to place,
+construct or modify facilities shall be in writing and shall include specific reasons
+for the action. A decision by the Community Development Director may be
+appealed by the applicant within 10 days of the decision to the County Hearing’s
+Officer as specified in Section 2.2190 (Request for Review). The fee for Type I
+administrative review of a proposed Communication Facility shall be paid when
+the application is submitted. A Pre-application conference may be required at the
+discretion of the Community Development Director in accordance with Section
+2.1070 (Preapplication conference).
+2) Conditional Use Permit Review. Applications for proposed Communications
+Facilities subject to Type II (Section 2.1020) or Type II(a) (Section 2.1030)
+conditional use review shall be reviewed for conformity with the requirements of
+3.9425 (Zoning/Where Permitted) and 3.9450 (Requirements and Performance
+Standards) as well as the criteria set forth within Section 2.4000-2.4050
+(Conditional Use). The Community Development Director or Hearing’s Officer
+shall render a decision within 150 days of receipt of a complete application. Any
+decision to deny a request to place, construct or modify facilities shall be in
+writing and shall include specific reasons for the action. A decision by the
+Community Development Director or Hearing’s Officer may be appealed within
+10 days of the decision to the Board of County Commissioners as specified in
+Section 2.2190 (Request for Review). The fee for the conditional use review of a
+proposed Communication Facility shall be paid when the application is submitted.
+A Pre-application conference may be required at the discretion of the Community
+Development Director in accordance with Section 2.1070 (Pre-application
+conference).
+3) Technical Issues and Expert Review. Communications Facilities may involve
+complex technical issues that require review and input by independent experts.
+The Community Development Director may require the applicant to pay
+reasonable costs of a third party technical study for a proposed Communication
+Facility. Selection of expert(s) to review the proposal shall be the sole discretion
+of the County.
+4) Development and Building Permits. Development and/or building permits shall
+not be issued until the facility is approved through the administrative or
+conditional use review process.
+SECTION 3.9500. VEHICLE ACCESS CONTROL AND CIRCULATION
+Section 3.9510. Purpose [ORD. 21-05] [ORD. 25-02]
+The following access control standards are intended to promote safe access and egress
+to properties, while maintaining traffic operations in conformance with adopted
+
+Clatsop County Land and Water III-122 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+standards and as required by the Clatsop County Transportation System Plan (TSP).
+“Safety” for the purposes of this section, extends to all modes of transportation.
+Section 3.9520. Definitions [ORD. 25-02]
+The following definitions apply to this section.
+ACCESS. The place, way or means by which pedestrians, bicycles, and vehicles enter
+or leave property.
+ACCESS MANAGEMENT. The control of street (or highway) access for the purpose of
+improving the efficiency safety, and/or operation of the roadway; may include
+prohibiting, closing, or limiting direct vehicle access to a roadway from abutting
+properties, either with physical barriers (curbs, medians, etc.) or by land dedication or
+easement.
+CLEAR VISION AREA: Corner areas at intersection streets, railroads and/or driveways
+in which unobstructed vision of motor vehicle operators is maintained.
+FIRE EQUIPMENT ACCESS DRIVE. A road which complies with the requirements for
+fire apparatus access roads as described in the Uniform Fire Code.
+FLAG LOT. A lot that has access to a public right-of-way by means of a narrow strip of
+land.
+FRONTAGE ROAD. A public or private street that is parallel to an arterial road, and
+which provides access to abutting properties while separating them from the arterial
+street.
+SHARED DRIVEWAY. A driveway connecting two or more contiguous sites to the
+public street system.”
+Section 3.9530. Clear Vision Area [ORD. 21-05] [ORD. 25-02]
+1) A clear vision area shall be maintained on the corners of all property at the
+intersection of:
+(A) two streets
+(B) a street and an alley
+(C) a street and a driveway
+(D) a street and a railroad.
+2) Clear vision areas shall be delineated by using the following information:
+(A) A clear vision area is in the shape of a triangle and extends across the
+corner of a lot or parcel to the edge of the right-of-way as shown in
+Example 1.
+(B) Where the lot lines have rounded corners, the lot lines extend in a straight
+line to a point of intersection as shown in Example 2.
+(C) No fences, walls, vehicle parking, signs, buildings, or structures between a
+height of 2.5’ and 8’ shall be allowed within the clear vision area, as shown
+
+Clatsop County Land and Water III-123 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+in Example 3. Street signs, stop signs and other traffic control signs are
+exempt from this requirement.
+(D) Placement of light poles, utility poles and new trees should be avoided
+within vision clearance areas.
+(E) Existing trees must have all branches and foliage removed to a height of 8
+feet above the grade.
+(F) The following clear vision areas are required:
+
+Type of Intersection  Minimum Clear Area
+Intersection of Two
+Streets
+
+Agricultural Zones  30’
+Residential Zones 30’
+All Other Zones 15’
+Exception: If angle of
+the intersection is less
+than 30°
+25’
+Intersection of a Street
+and a Railroad
+25’
+Intersection of a Street
+and an Alley
+10’
+Intersection of a Street
+and a Driveway
+10’
+
+Clear Vision Area Example 1: Intersection of two streets. Minimum measurements
+shown for example only.  Refer to table in subsection (6) for required distances.
+
+Clatsop County Land and Water III-124 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+Clear Vision Area Example 2:
+Intersection of street and driveway and
+street and railroad with rounded lot
+corners. Minimum measurements
+shown for example only.  Refer to table
+in subsection (F) for required distances.
+Railroad
+Clear Vision Area Example 3: Walls, fences or other structures between the height of
+2.5’ and 8’ are not permitted in the clear vision area.
+Clear Vision Area
+Maximum height 2.5’ for walls or solid fences, trees,
+shrubs and other structures
+
+Clatsop County Land and Water III-125 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.9540. Access Control Standards [ORD. 21-05] [ORD. 25-16]
+1) Traffic Impact Study Requirements. The County or other agency with access
+jurisdiction may require a traffic impact study prepared by a qualified professional
+to determine access, circulation and other transportation requirements. (See,
+Section 2.9510 – Traffic Impact Study.)
+2) The County or other agency with access permit jurisdiction may require the
+closing or consolidation of existing curb cuts or other vehicle access points,
+recording of reciprocal access easements (i.e., for shared driveways),
+development of a frontage street, installation of traffic control devices, and/or
+other mitigation as a condition of granting an access permit, to ensure the safe
+and efficient operation of the street and highway system.
+3) Access Options. When vehicle access is required for development (i.e., for off-
+street parking, delivery, service, drive-through facilities, etc.), access shall be
+provided by one of the following methods (a minimum of 10 feet per lane is
+required). These methods are “options” to the developer/subdivider.
+(A) Option 1. Access is from an existing or proposed alley or mid-block lane.
+If a property has access to an alley or lane, direct access to a public street
+is not permitted.
+(B) Option 2. Access is from a private street or driveway connected to an
+adjoining property that has direct access to a public street (i.e., “shared
+driveway”). A public access easement covering the driveway shall be
+recorded in this case to assure access to the closest public street for all
+users of the private street/drive.
+(C) Option 3. Access is from a public street adjacent to the development
+parcel. If practicable, the owner/developer may be required to close or
+consolidate an existing access point as a condition of approving a new
+access. Street accesses shall comply with the access spacing standards
+in Subsection (6) below.
+(D) Access to and from off-street parking areas shall not permit backing onto a
+public street. Except that in limited situations where no alternative design
+is possible and sight distances are acceptable, parking areas having three
+or fewer spaces may allow for backing onto a collector or local street
+subject to the approval of the Public Works Director, County Engineer or
+designee.
+4) Subdivisions Fronting onto an Arterial Street. New residential land divisions
+fronting onto an arterial street shall be required to provide alleys or secondary
+(local or collector) streets for access to individual lots. When alleys or secondary
+streets cannot be constructed due to topographic or other physical constraints,
+access may be provided by consolidating driveways for clusters of two or more
+lots (e.g., includes flag lots and mid- block lanes).
+
+Clatsop County Land and Water III-126 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+5) Double-Frontage Lots. When a lot has frontage onto two or more streets,
+access shall be provided first from the street with the lowest classification. For
+example, access shall be provided from a local street before a collector or arterial
+street. Except for corner lots, the creation of new double-frontage lots shall be
+prohibited in the RSA-SFR, RSA-MFR, CR, SFR-1, RA-1, RA-5, or CBR Zones,
+unless topographic or physical constraints require the formation of such lots.
+When double-frontage lots are permitted in the RSA- SFR, RSA-MFR, CR, SFR-
+1, RA-1, RA-5, or CBR Zones, a landscape buffer with trees and/or shrubs and
+ground cover not less than 20 feet wide shall be provided between the back yard
+fence/wall and the sidewalk or street; maintenance shall be assured by the owner
+(i.e., through homeowner’s association, etc.).
+6) Reverse Frontage Lots. When a lot has frontage opposite that of the adjacent
+lots, access shall be provided from the street with the lowest classification.
+7) Access Spacing. The access spacing standards below shall apply to newly
+established public street intersections, private drives, and non-traversable
+medians unless the Public Works Director, County Engineer or designee
+determines that site and or road conditions make it impractical  to meet the
+access spacing standard.
+
+Access Spacing
+Functional
+Classification Posted Speed
+Minimum Spacing
+Between Driveways
+and/or Streets
+Minimum Spacing
+Between Traffic
+Signals
+Arterial
+35 mph or
+less 265 feet
+Per ODOT
+Standards
+40 mph 265 feet
+45 mph 265 feet
+50 mph 265 feet
+55 mph 265  feet
+Major
+Collector 25-35 mph 130 feet
+Minor
+Collector 25-35 mph 65 feet
+Local Street 25 mph Access to each lot
+permitted
+Subdivision
+(10+ lots) 25 mph Access to each lot
+permitted
+
+N/A
+
+Clatsop County Land and Water III-127 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Subdivision
+(4-9 lots) 20 mph
+Partition
+(> 3 ***) 20 mph
+Partition
+(1-3 lots) 15 mph
+
+8) Number of Access Points. For single-unit (detached and attached), two-unit,
+and three-unit housing types, one street access point is permitted per lot, when
+alley access cannot otherwise be provided; except that two access points may be
+permitted for two-unit and three-unit housing on corner lots (i.e., no more than
+one access per street), subject to the access spacing standards above. The
+number of street access points for multiple-unit, commercial, industrial, and
+public/institutional developments shall be minimized to protect the function,
+safety and operation of the street(s) and sidewalk(s) for all users. Shared access
+may be required, in conformance with Section 3.9540(9), below, in order to
+maintain the required access spacing, and minimize the number of access
+points. An additional access point may be allowed as determined by the Public
+Works Director, County Engineer or designee.
+9) Shared Driveways. The number of driveway and private street intersections with
+public streets shall be minimized by the use of shared driveways with adjoining
+lots where feasible. The County shall require shared driveways as a condition of
+land division or site design review, as applicable, for traffic safety and access
+management purposes in accordance with the following standards:
+(A) Shared driveways and frontage streets may be required to consolidate
+access onto a collector or arterial street. When shared driveways or
+frontage streets are required, they shall be stubbed to adjacent
+developable parcels to indicate future extension. “Stub” means that a
+driveway or street temporarily ends at the property line, but may be
+extended in the future as the adjacent parcel develops. “Developable”
+means that a parcel is either vacant or it is likely to receive additional
+development (i.e., due to infill or redevelopment potential).
+(B) Access easements (i.e., for the benefit of affected properties) shall be
+recorded for all shared driveways, including pathways, at the time of final
+plat approval or as a condition of site development approval.
+(C) Exception. Shared driveways are not required when existing development
+patterns or physical constraints (e.g., topography, parcel configuration,
+and similar conditions) prevent extending the street/driveway in the future.
+10) Street Connectivity and Formation of Blocks Required. In order to promote
+efficient vehicular and pedestrian circulation throughout the county, land divisions
+and large site developments, as determined by the Community Development
+Director, shall produce complete blocks bounded by a connecting network of
+public and/or private streets, in accordance with the following standards:
+
+Clatsop County Land and Water III-128 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(A) Block Length and Perimeter. No block shall be more than 1,000 feet in
+length between street corner lines unless it is adjacent to an arterial street.
+The recommended minimum length of blocks along an arterial street is
+1.800 feet. An exception to the above standard may be granted, as part of
+the applicable review process, when blocks are divided by one or more
+pathway(s); pathways shall be located to minimize out-of-direction travel
+by pedestrians and may be designed to accommodate bicycles; or where
+the site’s topography or the location of adjoining streets makes it
+impractical to meet the standard.
+(B) Street Standards. Public and private streets shall also conform to
+Sections 3.9800 – Transportation Improvements and Road Standard
+Specifications for Design and Construction, Section 3.9550 - Pedestrian
+and Bicycle Access and Circulation, Figures 3.1-3.5, and applicable
+Americans With Disabilities Act (ADA) of 1990 design standards.
+(C) Driveway Openings. Driveway openings or curb cuts shall be the
+minimum width necessary to provide the required number of vehicle travel
+lanes (12 feet for each travel lane). The following standards (i.e., as
+measured where the front property line meets the sidewalk or right-of-way)
+are required to provide adequate site access, minimize surface water
+runoff, and avoid conflicts between vehicles and pedestrians:
+1. Single-unit, two-unit, and three-unit uses shall have a minimum
+driveway width of 10 feet, and a maximum width of 24 feet.
+2. Multiple-unit uses with between 4 and 7 dwelling units shall have a
+minimum driveway width of 20 feet, and a maximum width of 24
+feet.
+3. Multiple-unit uses with more than 8 dwelling units, and off-street
+parking areas with 16 or more parking spaces, shall have a
+minimum driveway width of 24 feet, and a maximum width of 30
+feet. These dimensions may be increased if the Community
+Development Director determines that more than two lanes are
+required based on the number of trips generated or the need for
+turning lanes.
+4. Access widths for all other uses shall be based on 12 feet of width
+for every travel lane, except that driveways providing direct access
+to parking spaces shall conform to the parking area standards in
+Sections 3.9800 – Transportation Improvements and Road
+Standard Specifications for Design and Construction.
+
+Clatsop County Land and Water III-129 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+5. Driveway Aprons. Driveway aprons (when required) shall be
+constructed of concrete or asphalt and shall be installed between
+the street right-of-way and the private drive, as shown above.
+Driveway aprons shall conform to ADA standards for sidewalks and
+pathways, which require a continuous route of travel that is a
+minimum of 4 feet in width, with a cross slope not exceeding 2
+percent.
+11) Fire Access and Parking Area Turn-Arounds. A fire equipment access drive
+shall be provided for any portion of an exterior wall of the first story of a building
+that is located more than 150 feet from an existing public street or approved fire
+equipment access drive, or an alternative acceptable to the local Fire District and
+Public Works Director, County Engineer or designee.  Parking areas shall
+provide adequate aisles or turn-around areas for service and delivery vehicles so
+that all vehicles may enter the street in a forward manner. For requirements
+related to cul-de-sacs, please refer to Section 3.9620(10) - Cul-de-Sac.
+12) Vertical and Horizontal Clearances. Driveways, private streets, aisles, turn-
+around areas and ramps shall have a minimum vertical clearance of 13’ 6” for
+their entire length and width and horizontal clearance of no less than 20’.
+13) Vision Clearance. See Section 3.6530. Clear Vision Area.
+14) Vision Clearance. See Section 3.6530. Clear Vision Area.
+15) Construction. The following development and maintenance standards shall
+apply to all driveways and private streets, except that the standards do not apply
+to driveways serving one single-unit detached dwelling:
+(A) Surface Options. Driveways, parking areas, aisles, and turn-arounds may
+be paved with asphalt, concrete or comparable surfacing, or a durable
+non-paving material may be used to reduce surface water runoff and
+protect water quality. Paving surfaces shall be subject to review and
+approval by the Public Works Director, County Engineer or designee.
+(B) Surface Water Management. When a paved surface is used, all
+driveways, parking areas, aisles and turn-arounds shall have on-site
+collection or infiltration of surface waters to eliminate sheet flow of such
+waters onto public rights-of-way and abutting property. Surface water
+facilities shall be constructed in conformance with standards approved by
+the Public Works Director, County Engineer or designee.
+(C) Driveway Aprons. Driveway approaches or “aprons” are required to
+connect driveways to the public right-of-way when the existing roadway is
+constructed of asphalt or concrete. Driveway aprons  shall be paved with
+concrete or asphalt surfacing.
+SECTION 3.9550. PEDESTRIAN AND BICYCLE ACCESS AND CIRCULATION
+Section 3.9560. Purpose [ORD. 21-05] [ORD. 25-16]
+To ensure safe, direct and convenient pedestrian and bicycle circulation, all new
+development in rural communities, except single-unit detached housing (i.e., on
+individual lots), shall provide a continuous pedestrian and/or shared use pathway
+
+Clatsop County Land and Water III-130 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+system. (Pathways only provide for pedestrian circulation. Shared use pathways
+accommodate pedestrians and bicycles.) The system of pathways shall be designed
+based on the standards below:
+1) Continuous Pathways. The pathway system shall extend throughout the
+development site, and connect to all future phases of development, adjacent
+trails, public parks and open space areas whenever possible. The developer may
+also be required to connect or stub pathway(s) to adjacent streets and private
+property, in accordance with the provisions of Section 3.9540 - Access Control
+Standards, and Section 3.9800 - Transportation Improvements and Road
+Standard Specifications for Design and Construction
+2) Safe, Direct, and Convenient Pathways. Pathways within developments shall
+provide safe, reasonably direct and convenient connections between primary
+building entrances, and all adjacent streets based on the following definitions:
+(A) Reasonably direct. A route that does not deviate unnecessarily from a
+straight line or a route that does not involve a significant amount of out-of-
+direction travel for likely users.
+(B) Safe and convenient. Bicycle and pedestrian routes that are reasonably
+free from hazards and provide a reasonably direct route of travel between
+destinations.
+3) Connections Within Development. For all developments subject to Site Plan
+Review, pathways shall connect all building entrances to one another. In
+addition, pathways shall connect all parking areas, storage areas, recreational
+facilities and common areas (as applicable), and adjacent developments to the
+site.
+4) Street Connectivity. Shared use pathways (for pedestrians and bicycles) shall
+be provided at or near mid-block where the block length exceeds the length
+required by Section 3.9630. Pathways shall also be provided where cul-de-sacs
+or dead-end streets are planned, to connect the ends of the streets together, to
+other streets, and/or to other developments. Pathways used to comply with these
+standards shall conform to all of the following criteria:
+(A) Shared use pathways (i.e., for pedestrians and bicyclists) are no less than
+10-feet wide and located within a 14 foot right-of-way or easement that
+allows access for emergency vehicles;
+(B) If streets within a subdivision or neighborhood are lighted, pathways shall
+also be lighted;
+(C) Stairs or switchback paths using a narrower right-of-way/easement may
+be required in lieu of a shared use pathway where grades are steep;
+
+Clatsop County Land and Water III-131 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(D) The Community Development Director may determine, based upon facts
+in the record, that a pathway is impracticable due to: physical or
+topographic conditions (e.g., freeways, railroads, extremely steep slopes,
+sensitive lands, and similar physical constraints); buildings or other
+existing development on adjacent properties that physically prevent a
+connection now or in the future, considering the potential for
+redevelopment; and sites where the provisions of recorded leases,
+easements, covenants, restrictions, or other agreements recorded as of
+the effective date of this Code prohibit the pathway connection.
+1. Vehicle/Pathway Separation. Where pathways are parallel and
+adjacent to a driveway or street (public or private), they shall be
+raised 6 inches and curbed, or separated from the driveway/street
+by a 5-foot minimum strip with bollards, a landscape berm, r other
+physical barrier. If a raised path is used, the ends of the raised
+portions must be equipped with curb ramps.
+2. Housing/Pathway Separation. Pedestrian pathways shall be
+separated a minimum of 5 feet from all residential living areas on
+the ground floor, except at building entrances. Separation is
+measured from the pathway edge to the closest dwelling unit. The
+separation area shall be landscaped. No pathway/building
+separation is required for commercial, industrial, public, or
+institutional uses.
+3. Crosswalks. Where pathways cross a parking area, driveway, or
+street (“crosswalk”), they shall be clearly marked with contrasting
+paving materials, humps/raised crossings, or painted striping. An
+example of contrasting paving material is the use of a concrete
+crosswalk through an asphalt driveway. If painted striping is used, it
+should consist of thermo-plastic striping or similar type of durable
+application.
+4. Pathway Surface. Pedestrian pathway surfaces shall be concrete,
+asphalt, brick/masonry pavers, or other durable surface, at least 5
+feet wide, and shall conform to ADA requirements. Multi-use paths
+(i.e., for bicycles and pedestrians) shall be the same materials, at
+least 8 feet wide.
+5. Accessible routes. Pathways shall comply with the federal
+Americans With Disabilities Act (ADA), which requires accessible
+routes of travel from the parking spaces to the accessible entrance.
+The route shall be compliant with the following minimum standards:
+(a) Shall not contain curbs or stairs;
+(b) Must be at least 3 feet wide;
+(c) Is constructed with a firm, stable, slip resistant surface; and
+(d) The slope shall not be greater than 1:12 in the direction of
+travel.
+
+Clatsop County Land and Water III-132 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+SECTION 3.9570. FAMILY CHILD CARE HOMES [ORD. 23-04]
+The following standards shall apply to family child care homes, as defined in Section
+1.0500. Family Child care homes:
+1)  Are residential uses per ORS 329A.440 and shall not be regulated as home
+occupations.
+2) Shall not be prohibited by the governing documents of planned communities or
+condominiums, in accordance with the requirements of ORS 94.779 and ORS
+100.023.
+3) Shall not be subject to any condition that is more restrictive than conditions
+imposed on other residential dwellings in the same zone. [ORD. 23-04]
+SECTION 3.9600. SUBDIVISION DESIGN STANDARDS
+Section 3.9610 Principles of Acceptability
+All subdivisions shall conform to the Comprehensive Plan and to the requirements of
+state law and the standards established by this Ordinance. [ORD. 25-02]
+Section 3.9620. Streets (Ord. 21-05)
+1) General. The location, width, and grade of streets shall be considered in their
+relation to existing and planned streets, to topographical conditions, to public
+convenience and safety, and to the proposed use of the land to be served by the
+streets. Where location is not shown in a comprehensive development plan, the
+arrangement of streets in a subdivision shall either:
+(A) Provide for the continuation or appropriate projection of existing principal
+streets in surrounding areas; or
+(B) Conform to a plan for the neighborhood approved or adopted by the
+Planning Commission to meet a particular situation where topographical or
+other conditions make continuance or conformance to existing streets
+impractical.
+2) Minimum right-of-way and roadway widths. The width of streets and
+roadways shall be adequate to fulfill County specifications as provided in Section
+3.9800 of this Ordinance.
+3) Where existing conditions, such as the topography or the size or shape of land
+parcels, make it otherwise impractical to provide buildable lots, the Planning
+Commission, in coordination with the Public Works Director, County Engineer, or
+designee may accept a narrower right-of-way. If necessary, special slope
+easements may be required.
+4) Reserve strips. Reserve strips or street plugs controlling access to streets will
+not be approved unless necessary for the protection of the public welfare or of
+substantial property rights and in these cases they may be required. The control
+and disposal of the land comprising such strips shall be placed within the
+jurisdiction of the County under conditions approved by the Planning
+Commission.
+5) Alignment. Streets other than minor streets shall align with existing streets by
+extending the center lines of the existing streets. Staggered street alignment
+
+Clatsop County Land and Water III-133 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+resulting in "T" intersections shall leave a minimum distance of 200 feet between
+the center lines of streets having approximately the same direction and shall not
+be less than 125 feet.
+6) Future extension of streets. Where necessary to give access to or permit a
+satisfactory future subdivision or adjoining land, streets shall be extended to the
+boundary of the subdivision and the resulting dead-end streets may be approved
+without a turnaround. Reserve strips and street plugs may be required to
+preserve the objectives of street extensions.
+7) Intersection angles. Streets shall be laid out to intersect at angles as near to
+right angles as practical except where topography requires a lesser angle. In no
+case shall the acute angle be less than 60 degrees unless there is a special
+intersection design. The intersection of an arterial or collector street with another
+street shall have at least 100 feet of tangent adjacent to the intersection unless
+topography requires a lesser distance. Other streets, except alleys, shall have at
+least 50 feet of tangent adjacent to the intersection unless topography requires a
+lesser distance. Intersections which contain an acute angle of less than 80
+degrees or which include an arterial street shall have a minimum corner radius
+sufficient to allow for roadway radius of 20 feet and maintain a uniform width
+between the roadway and the right-of-way line.
+8) Existing streets. Whenever existing streets adjacent to or within a tract are of
+inadequate width, additional right-of-way shall be provided at the time of
+subdivision.
+9) Half streets. Half streets may be approved where essential to the reasonable
+development of the subdivision, when in conformity with the other requirements
+of these regulations, and when the Planning Commission finds it will be practical
+to require the dedication of the other half when the adjoining property is
+subdivided. Whenever a half street is adjacent to a tract to be subdivided, the
+other half of the street shall be platted within such tract. Reserve strips and street
+plugs may be required to preserve the objectives of half strips.
+10) Cul-de-sacs. The maximum length of a cul-de-sac shall be determined by the
+Public Works Director (or designee) and/or the appropriate Fire Chief or Marshal.
+Cul-de-sacs shall terminate with a turnaround.
+11) Street names. Except for extensions of existing streets, no street shall be used
+which will duplicate or be confused with the names of existing streets. Street
+names and numbers shall conform to the established pattern in the surrounding
+area and, if near a city, to the pattern in the city. Applications for new
+subdivisions shall include a list of street names pre-approved by the County
+Road Naming Review Committee.
+12) Grades and curves. Grades and curves shall be in accordance with Table 3.2 –
+Right-of-way and Improvement Standards Table. Where existing conditions,
+particularly topography, make it impractical to provide buildable lots, the County
+Engineer may accept steeper grades and sharper curves.
+13) Streets adjacent to railroad right-of-way. Wherever a proposed subdivision
+contains or is adjacent to a railroad right-of-way, provision may be required for a
+
+Clatsop County Land and Water III-134 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+street approximately parallel to and on each side of such right-of-way at a
+distance suitable for the appropriate use of the land between the streets and the
+railroad. The distance shall be determined with due consideration at cross streets
+of the minimum distance required for approach grades to a future grade
+separation and to provide sufficient depth to allow screen planting along the
+railroad right-of-way.
+14) Marginal access streets. Where a subdivision abuts or contains an existing or
+proposed arterial street, the Planning Commission may require marginal access
+streets, reverse frontage lots with suitable depth, screen planting contained in a
+non-access reservation along the rear or side property line, or other treatment
+necessary for adequate protection of residential properties and to afford
+separation of through and local traffic.
+15) Alleys. Alleys shall be provided in commercial and industrial districts, unless
+other permanent provisions for access to off-street parking and loading facilities
+are approved by the Planning Commission.
+Section 3.9630. Blocks [ORD. 21-05] [ORD. 25-02]
+1) General. The length, width, and shape of blocks shall take into account the need
+for adequate lot size and street width and shall recognize the limitations of the
+topography.
+2) Size. No block shall be more than 1,000 feet in length between street corner
+lines unless it is adjacent to an arterial street or unless the topography or the
+location of adjoining street justifies an exception. The recommended minimum
+length of blocks along an arterial street is 1,800 feet.
+3) Easements.
+(A) Utility lines. Easements for sewers, water mains, electric lines, or other
+public utilities shall be dedicated whenever necessary. The easements
+shall be at least 15 feet wide and centered on lot lines where possible.
+Electric lines or other similar utilities along with utility pole tieback
+easements may be reduced to six feet in width as appropriate for the
+particular utility.
+(B) Water courses. If a subdivision is traversed by a water course such as a
+drainage way, channel, or stream, a storm water easement or drainage
+right-of-way shall be provided. The easement or right-of-way shall
+substantially conform to the lines of the water course, and be of sufficient
+width for the purpose. Streets or parkways parallel to major water courses
+may be required.
+(C) Pedestrian ways. When desirable for public convenience, pedestrian
+pathways shall be required to connect to cul-de-sacs or to pass through
+unusually long or oddly shaped blocks in accordance with Section 3.9550.
+Section 3.9640. Lots [ORD. 21-05] [ORD. 25-02]
+1) Size and shape. Lot size, width, shape, and orientation shall be appropriate for
+the location of the subdivision and for the type of use contemplated.
+
+Clatsop County Land and Water III-135 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(A) Lot sizes shall conform to the zoning requirement. Depth and width of
+properties reserved or laid out for commercial and industrial purposes
+shall be adequate to provide for the off-street parking and service facilities
+required by the type of use contemplated.
+2) Access. Each lot shall abut upon a street other than an alley for a width of at
+least 25 feet.
+3) Through lots. Through lots shall be avoided except where it is essential to
+provide separation of residential development from traffic arteries or adjacent
+non-residential activities or to overcome specific disadvantages of topography
+and orientation. A landscape buffer at least 10 feet wide is required along the
+property line. Vehicular access through the landscape buffer is prohibited.
+4) Lot side lines. The side lines of lots shall run at right angles to the street upon
+which the lots face, unless impracticable due to slopes, environmentally-sensitive
+lands or other restrictions.
+Section 3.9650. General Soil Development
+Lot grading in areas subject to the Geologic Hazard Overlay zone shall conform to the
+standards of Section 5.3000.
+Section 3.9660. Building Lines
+If special building setback lines are to be established in the subdivision, they shall be
+shown on the subdivision plat.
+Section 3.9670. Future Re-Subdivision [ORD. 21-05] [ORD. 25-02]
+Where a partition or subdivision will create individual lots or parcels  with a lot area
+greater than or equal to two times the minimum lot area of the underlying zone(s),such
+lots or parcels shall have a lot area and lot width which will allow for their future
+partitioning or subdividing. The applicant shall demonstrate such lots or parcels could
+be further divided or replatted in the future to create lots or parcels that will meet the
+minimum required lot size and lot width requirements.  The design shall also ensure that
+the minimum right-of-way requirements in Table 3.2 can be provided after the replatting
+or repartitioning.
+Section 3.9680. Land for Public Purposes
+If the County has an interest in acquiring any portion of the proposed subdivision for a
+public purpose, or if the County has been advised of such interest by a school district or
+other public agency, and there is reasonable assurance that steps will be taken to
+acquire the land, then the Planning Commission may require that those portions of the
+subdivision be reserved for public acquisition, for a period not to exceed one year.
+SECTION 3.9690. SUBDIVISION IMPROVEMENTS
+Section 3.9700. Improvement Procedures [ORD. 25-02]
+
+Clatsop County Land and Water III-136 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+In addition to other requirements, improvements shall conform to the requirements of
+this ordinance and improvement standards or specifications adopted by the County and
+shall be installed in accordance with the following procedure:
+1) Work shall not be commenced until plans have been reviewed for adequacy and
+approved by the County. To the extent necessary for evaluation of the
+subdivision proposal, the plans may be required before approval of the final plat.
+All plans shall be prepared in accordance with requirements of the County.
+2) Work shall not be commenced until the County has been notified in advance, and
+if work has been discontinued for any reason it shall not be resumed until the
+County has been notified.
+3) Required improvements shall be inspected by and constructed to the satisfaction
+of the County. The County may require changes in typical sections and details if
+unusual conditions arising during construction warrant such change in the public
+interest.
+4) Underground utilities, sanitary sewers, and storm drains installed in streets by the
+subdivider shall be constructed prior to the surfacing of the streets. Stubs for
+service connections for underground utilities and sanitary sewers shall be placed
+to lengths that will avoid the need to disturb street improvements when service
+connections are made.
+5) An as-built drawing showing public improvements shall be filed with the County
+Engineer upon completion of the improvements.
+Section 3.9710. Specifications for Improvements [ORD. 21-05] [ORD. 25-02]
+The County Engineer shall prepare and submit to the Board of County Commissioners
+specifications to supplement the standards of this ordinance based on engineering
+standards appropriate for the improvements concerned. Specifications shall be
+prepared for the construction of the following (Figures 3.1-3.5):
+1) Streets including related improvements such as curbs, shoulders, median strips
+and sidewalks, and including suitable provisions for necessary slope easements.
+2) Drainage facilities.
+3) Sidewalks in pedestrian ways.
+4) Sewers and sewage disposal facilities.
+5) Public water supplies and water distribution systems.
+
+In absence of specifications prepared by the County Engineer, the latest edition of the
+Oregon Standards Specifications for Construction prepared by the Oregon Department
+of Transportation shall be used. Whenever these specifications refer to the State,
+consider that to mean Clatsop County, the appropriate County Department or
+appropriate County address.
+Section 3.9720. Improvement Requirements (Ord. 21-05)
+The following improvements shall be installed at the expense of the subdivider:
+
+Clatsop County Land and Water III-137 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+1) Water supply. Lots within a subdivision shall either be served by a public
+domestic water supply system conforming to State or County specifications or
+the lot size shall be increased to provide such separation of water sources and
+sewage disposal facilities as the County Sanitarian or Oregon Department of
+Environmental Quality considers adequate for soil and water conditions.
+2) Sewage. Lots within a subdivision either shall be served by a public sewage
+disposal system conforming to State or County specifications or the lot size shall
+be increased to provide sufficient area for a septic tank disposal system
+approved by the County Sanitarian as being adequate for soil and water
+conditions considering the nature of the water supply.
+3) Drainage. Grading shall be performed and drainage facilities installed
+conforming to County specifications as necessary to provide proper drainage
+within the subdivision. Drainage facilities in the subdivision shall be connected to
+drainage ways or storm sewers outside the subdivision. Dikes and pumping
+systems shall be installed if necessary to protect the subdivision against flooding
+or other inundation.
+4) Streets. Where streets are to be accepted into the County road system, the
+subdivider shall grade and improve streets in the subdivision and shall extend the
+streets to the paving line of existing intersecting streets with which such streets
+intersect in conformance with County specifications. Street improvements shall
+include related improvements such as curbs, shoulders, sidewalks and median
+strips to the extent these are required. All other streets shall be improved in
+accordance with minimum road standards as set forth in 3.9800.
+5) Pedestrian ways. A sidewalk in conformance with the standards of Section
+S5.034 shall be installed in the center of pedestrian ways.
+6) Underground utilities. Underground utilities shall be required.
+
+SECTION 3.9800.  TRANSPORTATION IMPROVEMENTS AND ROAD STANDARD
+SPECIFICATIONS FOR DESIGN AND CONSTRUCTION
+Section 3.9810. General Road and Access Policies (Ord. 21-05)
+1) Purpose. The establishment of the criteria to be used in Clatsop County for
+evaluating the appropriateness of proposed roads which are intended to provide
+access to lots or parcels. These criteria shall form the basis for determining what
+requirements are necessary to ensure that there will be adequate provisions
+available now, and in the future, to provide for the transportation needs of lots,
+parcels, or developments.
+
+The Clatsop County Road Standards are intended to provide access to new
+development in a manner which reduces construction cost, makes efficient use of
+land, allows emergency vehicle access while discouraging inappropriate traffic
+volumes and speeds, and which accommodates convenient pedestrian and
+bicycle circulation. The standards apply to County roads, dedicated roads and
+private roads.
+
+Clatsop County Land and Water III-138 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+The Road Standards to be applied are based on the density of the zone in which
+it will be built and shall be constructed to that standard. The Clatsop County
+Department of Community Development, Planning Commission or Board of
+County Commissioners will on a case by case basis consider possible future land
+divisions and whether or not the road being built should be private or dedicated.
+
+Where a partition is proposed in Major or Peripheral Big Game Range areas, the
+road shall be located to minimize its impact on big game range.
+2) Conditions of Development Approval. No development may occur unless
+required transportation facilities are in place or guaranteed, in conformance with
+the provisions of this document. Improvements required as a condition of
+development approval, when not voluntarily accepted by the applicant, shall be
+roughly proportional to the impact of development on public facilities and
+services. Findings in the development approval shall indicate how the required
+improvements are roughly proportional to the impact.
+3) Criteria. Roads in Clatsop County shall be designed, constructed, and
+maintained to:
+(A) Be capable of ensuring unrestricted travel to and from a property.
+(B) Provide adequate, safe, and legal access with minimum public cost.
+(C) Place the burden of the costs on the benefited person(s).
+(D) Provide access for fire protection, ambulance, police, mail, school bus,
+public transit, and garbage services.
+(E) Provide for drainage ways and utility services.
+(F) Be compatible with adjoining land use.
+(G) Minimize, with the constraints of reasonable engineering practices and
+costs, the creation of roads within lands designated for Exclusive Farm
+Use, Forest Resource, Open Space Reserve, Rural and Rural Service
+Areas designated by the Clatsop County Comprehensive Plan.
+(H) Ensure that the new road will minimize interference with forest
+management or harvesting practices.
+(I) Minimize within the constraints of reasonable engineering practices and
+costs the loss of productive agricultural or forest land, and be located on
+that portion of such land that is least suitable for timber or agricultural
+production, taking into consideration, but not limited to, the following:
+topography, soil capability or classification, erosion potential, and the size
+and resultant configuration of the affected tracts.
+(J) Minimize the loss of important wildlife habitat, such as sensitive deer and
+elk range, identified natural areas, and other significant natural features.
+(K) Facilitate safe and convenient pedestrian and bicycle trips to meet local
+travel needs in developed areas.
+(L) Streets within or adjacent to a development shall be improved in
+accordance with the Transportation System Plan and the provisions of this
+Section.
+
+Clatsop County Land and Water III-139 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+4) Standards, Generally:
+(A) The following are a variety of types or forms of access used to gain
+ingress and egress to property within Clatsop County:
+1. County roads
+2. Federal roads
+3. State highways
+4. Dedicated ways
+5. Flag lots
+6. Ways of necessity
+7. Public roads
+8. Private roads
+9. Prescriptive roads
+(B) Publicly dedicated and maintained roads provide superior access.
+(C) Flag lots may provide access, but can hinder future development of the
+surrounding area.
+(D) Private roads function best if they are designed to serve a predetermined,
+limited amount of development.
+(E) Paved roads are safer, less of a nuisance, and more economical to
+maintain than gravel roads.
+(F) Road requirements should support a complete transportation network, and
+not inhibit new land development innovations and concepts.
+(G) Dedicated ways or County roads shall be the ordinary standard
+recommended for subdivisions, except as may be dictated by natural
+hazards, topography, or other special circumstances.
+5) Standards, Specifically:
+(A) As far as is feasible, roads shall be in alignment with existing or
+appropriate projections of existing roads by continuation of their centerline.
+(B) When necessary to give access to, or permit a satisfactory future division
+of adjoining lands, rights-of-way or easements shall be extended to the
+boundary of a major partition, subdivision, or development. A temporary
+turnaround may be required for the resulting dead end road in accordance
+with Oregon Fire Code.
+(C) Frontage roads, or double frontage parcels or lots may be required by the
+County when a proposed parcel or lot would otherwise abut an arterial or
+collector road in order to effect separation of through and local traffic. In
+addition, screening or other treatments may be required along arterials
+and collectors in order to provide adequate noise and visual protection to
+adjacent properties.
+(D) Whenever a proposed division or development is intended to abut a public
+road, the County shall restrict or limit as to location and number, vehicular
+access points unless specifically exempted in any approval thereof.
+(E) Where a cut or fill road slope is outside the normal right-of-way, a slope
+easement shall be required of sufficient width to permit maintenance of the
+cut or fill and drainage structure.
+
+Clatsop County Land and Water III-140 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.9820. Improvement Plans (Ord. 21-05)
+The Improvement Plans will include, but not be limited, to the following:
+1) A plan view showing:
+(A) Dimensioning necessary to survey and relocate the roadway.
+(B) Right-of-way lines as shown on the final plat.
+(C) Proposed drainage structures, showing both size and type of structure.
+(D) Location of all existing and proposed utilities.
+(E) Location and dimensions of the pedestrian circulation system.
+(F) Location of bicycle parking.
+(G) Location and type of signs.
+(H) Toe of slope and top of cut lines showing the limits of the construction
+area within the dedication.
+(I) Section lines, fractional section lines and/or Donation Land Claim lines tie
+to corner from which dedication description is prepared.
+(J) Vicinity map on the first plan sheet showing roughly the relationships of
+the proposed road to cities, state highways, county roads, or other well
+defined topographical features.
+(K) The stamp and signature of the Registered Professional Engineer
+preparing the plans.
+2) A profile showing:
+(A) Centerline grades and vertical curves.
+(B) Curb profiles where curbs are required.
+(C) Super elevation transition diagrams for horizontal curves shall be shown if
+curbs are not required.
+3) Typical roadway cross-section showing:
+(A) Width and depth of base.
+(B) Width and depth of paving.
+(C) Curbs if required.
+(D) Side slopes.
+(E) Ditch section in cut areas.
+4) Detail plans of all bridges, stamped by a registered professional engineer.
+5) Detail plans of any drainage and irrigation structures, sewer lines, or other
+structures.
+6) Any other information required by the County Public Works Department.
+
+Section 3.9830. Public and County Road Standards (Ord. 21-05)
+1) Road Design:
+(A) The radius of curvature, grade and intersection curb return radius of
+streets shall conform to the minimum standards prescribed in Tables 3.2,
+3.3, and 3.4 of these standards.
+(B) Alignment of streets: Streets located on opposite sides of an intersecting
+street shall have their centerlines directly opposite each other where
+
+Clatsop County Land and Water III-141 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+possible; otherwise, the centerlines shall be separated by not less than
+125 feet.
+(C) Intersection angles: Street intersections shall be as near right angles as
+possible except where topography requires a lesser angle, but in no case
+shall the acute angle be less than 60 degrees.
+(D) Location of centerline: The centerline of the paving shall correspond to the
+centerline of the right-of-way where possible and practical.
+(E) Continuation of streets: Subdivision streets which constitute the
+continuation of streets in contiguous territory shall be aligned so that their
+centerlines coincide. Where straight-line continuations are not possible,
+such centerlines shall be continued by curves. New streets or the
+continuation of a street in contiguous territory may be required by the
+Planning Commission where such continuation is necessary to maintain
+the function of the street or a desirable existing or planned pattern of
+streets and blocks in the surrounding area. Any road or street which does
+not connect directly to a County maintained road, City maintained street or
+state highway will not be accepted for maintenance by the County.
+(F) Streets in Subdivision Adjoining Unsubdivided Land:
+1. Stubbed streets: Where a subdivision adjoins unsubdivided land,
+streets which may be necessary to assure the proper subdivision of
+the adjoining land or the continuation of the function of a major
+arterial or collector street shall be provided through to the boundary
+line of the subdivision.
+2. Half streets: Half streets proposed adjacent and parallel to the
+boundary line of the subdivision, while generally not acceptable,
+may be approved where essential to the reasonable development
+of the subdivision when in conformity with other requirements of
+this ordinance and when the Planning Commission finds it will be
+practical to require the dedication and improvement of the other half
+when the adjoining property is subdivided. Half streets shall not be
+permitted where lots would front on such streets.  Where half
+streets are provided, a performance bond may be required to insure
+all improvements until such time as the remaining half street on
+adjacent property is dedicated and improved. Whenever an existing
+half street is adjacent and parallel to the boundary line of a
+proposed subdivision, the subdivider shall dedicate and improve
+such additional right-of-way as may be necessary to meet the
+standards for the type of streets involved.
+(G) Subdivision roads: All roads not to be maintained by the County shall be
+posted with an approved sign stating roads are not County maintained.
+
+Clatsop County Land and Water III-142 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(H) Existing streets: Whenever existing streets adjacent to or within a tract are
+of inadequate width, additional right-of-way shall be provided at the time of
+the subdivision. When existing streets are to be used as access to the
+subdivision they shall be constructed as to provide reasonable access as
+determined by the County Public Works Director or County Engineer.
+(I) Cross Sections and Tables. All new arterials, collectors, and local streets
+must conform with design standards of Table 3.2 Road Right-of-Way and
+Improvement Standards.
+2) Improvement Plans: A complete set of Improvement Plans shall be submitted
+and approved by the Public Works Director County Engineer, or designee prior to
+the start of construction on any County maintained road, public way or
+subdivision road which is to become a public way.
+3) Surveying: All roads shall be located by a survey crew so as to ensure that the
+road is constructed in the location shown on the improvement plans. The
+construction of the road improvement shall be within 0.3’ more or less of the
+horizontal and vertical location shown on the improvement plans.
+4) Monumentation: Center line P.C. and P.T. points on horizontal curves shall be
+referenced with permanent monuments in accordance with the County
+Surveyor’s requirements.
+5) Standard Specifications: All roadway excavation, fill construction, subgrade
+preparation, aggregate bases, surfacing, prime coats and paving will be built in
+accordance with the current edition of the Oregon Department of Transportation “
+Oregon Standard Specifications for Construction”. Whenever these specifications
+refer to the State, consider that to mean the County of Clatsop, the appropriate
+County Department or appropriate County address. In case of discrepancy or
+conflict in the plans, standard specifications, supplemental standard
+specifications and special provisions, they shall govern in the following order:
+A. Special Provisions
+B. Plans specifically applicable to the project.
+C. Standard or general plans.
+D. Supplemental Standard Specifications.
+E. Standard Specifications.
+6) Testing: All testing except as herein noted, will conform to methods described in
+“A.A.S.H.T.O. Materials, Part 11, Tests”, current Edition. All lab costs for testing
+will be borne by the developer.
+7) Inspection: The County Public Works Department shall be notified 48 hours in
+advance of the time for subgrade inspection, 48 hours in advance of the time for
+base inspection and 48 hours in advance of the time for paving inspection. The
+subgrade is to be inspected before placing the base. The base is to be inspected
+before placing the pavement. If proper notification for inspection has not been
+given, the Clatsop County Public Works Department will not grant approval of the
+road for twelve months. In this way, the County can observe any deficiencies that
+may develop in the road and have them corrected before acceptance.
+8) Subgrade: All subgrades will be compacted in accordance with the Standard
+
+Clatsop County Land and Water III-143 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Specifications.
+9) Aggregate Base: Aggregates for aggregate base shall be gravel or rock,
+crushed or uncrushed, including sand, reasonably well graded from coarse to
+fine. The grading shall be in accordance with Table 02630-1 of the most current
+edition of the Oregon Department of Transportation Oregon Standard
+Specifications for Construction.
+10) Asphalt Prime Coat: For all roadway sections using an oil mat, an asphalt prime
+coat will be applied to the aggregate base in addition to the oil mat. The prime
+coat will be applied in accordance with Section 705 of the Standard
+Specifications. Application rate and type of oil will be as approved by the County
+Engineer. The aggregate shall be ¾ to ½ or as approved by the Public Works
+Director, County Engineer or designee and specified in Section 705.10 of the
+Standard Specifications. The aggregate shall be applied within the range of
+0.004 to 0.013 cubic yards/square yard. A three-day curing period will be
+required.
+11) Asphalt Penetration Macadam: Where any oil mat is required it shall be applied
+in accordance with the Standard Specifications. The bituminous material used in
+the first two spreads shall be as approved by the County Public Works Director.
+The bituminous material used in the seal coat may be as approved by the Public
+Works Director.
+12) Asphalt Concrete Pavement: Where asphalt concrete pavement is required it
+shall be done in accordance with the Standard Specifications. The asphalt
+cement shall be as approved by the Public Works Director, County Engineer or
+designee. The class of asphalt concrete shall be Level 2. Density testing shall be
+supplied for all asphalt concrete pavement.
+13) Where required Portland cement concrete curbs and sidewalks shall be
+constructed in accordance with Oregon Department of Transportation Standard
+Drawings and the Standard Specifications. The concrete shall be as specified in
+the Standard Specifications.
+14) Select Backfill: The curbs shall be backfilled in the areas shown on the plans
+with select backfill. This select backfill shall consist of materials with a maximum
+size of three inches. The material shall be compacted to at least 90 percent of its
+relative maximum density.
+15) Clearing: The right-of-way shall be cleared of all trees. However, in subdivisions
+where traffic safety would not be involved and a lesser requirement would not
+create a hazard, the right-of-way shall be cleared a minimum of forty-feet (40) or
+four-feet (4) beyond the edge of shoulder or curb line or the finished road. Also,
+in subdivision, the case of an individual tree which is considered an exceptional
+or stately tree, an allowance can be made to leave the tree within the above
+mentioned four (4) foot area. In some instances, consideration can also be given
+to allow the prism of the road to shift slightly toward one side of the right-of-way.
+Any change in the alignment should be done to provide a safe and aesthetic
+looking roadway.
+
+Clatsop County Land and Water III-144 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+16) Signs: Clatsop County has jurisdiction concerning the location of all signs on
+County maintained roads and public ways.
+
+When in the Public Works Director's opinion there may be a need for a change in
+the speed limit for a road, he shall request the Oregon State Speed Control
+Board to study the road in question. If the Speed Control Board issues an order
+to post a speed limit on the road, Clatsop County will furnish and install the
+speed limit signs at the County’s expense.
+
+Name signs for County maintained roads shall have reflective green background
+with reflective white letters.
+
+Signing at intersections will be paid for as follows:
+(A) Intersection of two County maintained roads:
+1. Stop signs - County
+2. Name signs - County
+(B) Intersection of a County maintained road and a public way:
+1. Stop signs - County
+2. Name signs - County
+(C) Intersection of two public ways:
+1. Stop signs - Others
+2. Name signs - Others
+(D) Intersection of two private ways:
+1. Stop signs - Others
+2. Name signs - Others
+(E) Intersection of private way and public way:
+1. Stop signs - Others
+2. Name signs - Others
+
+Clatsop County Road Department may furnish and install the signs which are
+referred to above as paid for by “others”. However, they shall be paid by “others”
+for the County’s expense.
+17) Drainage:
+(A) Size of culverts: The design and construction of all drainage facilities
+within a project shall be of sufficient size and quality to receive and
+transport, at a 25 year storm frequency of all surface drainage and natural
+drainage course waters coming to and passing through the project from the
+watershed or watersheds to which it is servient, when the lands located in
+such are at full planned development, according to the Comprehensive
+Framework Plan. The minimum diameter pipe to be used shall be 12
+inches.
+
+Clatsop County Land and Water III-145 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Prior to approval being granted for a project, it must be shown that the
+existing downstream facilities are adequate to receive and pass storm
+water runoff discharged through and from the proposed project from a 25
+year storm based on the present development plus any proposed
+developments of the lands of the watershed or watersheds to which the
+proposed project is servient.
+
+In those areas located in the 100-year floodplain, the design and
+construction of all drainage facilities shall be of sufficient size and quality to
+receive and transport the 100- year storm without raising the floodplain
+elevation. The drainage facilities may be designed to pass less than a 100-
+year storm provided retention or detention of the runoff is designed and
+that such retention or detention does not raise the floodplain upstream.
+(B) Drainage easements: When, due to topographical or other reason, all or
+any portion of the water collected in the project must be discharged at the
+boundary of the project, such that it is concentrated and must run across
+other private property before reaching a natural or existing drainage
+course, the developer shall make all necessary arrangements with the
+affected property owner or owners. Arrangements shall include, but are not
+limited to, a proper easement for drainage in favor of the public executed
+by the affected owner or owners and a method of transporting the water,
+i.e. ditch, sewer, etc., satisfactory to the County and said owner or owners.
+
+If it is necessary to carry water across portions of the land being developed
+hereunder, which are not to become public, and a satisfactory easement
+has not been provided in the official plat of the area, the developer shall
+prepare and cause to be executed a proper easement to the public for such
+purpose.
+(C) Connections to roadside ditches: Where drainage is to be connected to
+an existing roadside ditch, the ditch shall not be deepened so as to
+produce a finished ditch more than two (2) feet below the maximum of two
+(2) foot depth, the developer shall cause to be constructed a proper size
+storm sewer line in said roadside ditch.
+18) The County shall require that a maintenance agreement be recorded in the
+records of Clatsop County along with any map or plat creating a public road, and
+include the following terms:
+(A) That the agreement for maintenance shall be enforceable by a majority of
+persons served by the road.
+(B) That the owners of land served by the road, their successors, or assigns,
+shall maintain the road, either equally or in accordance with a specific
+formula.
+(C) All public road maintenance agreements shall be reviewed and approved
+by Public Works prior to recording. (Ord. 21-05)
+
+Clatsop County Land and Water III-146 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Section 3.9840. Private Road Minimum Requirements [ORD. 21-05] [ORD. 25-02]
+Table 3.4 and the following minimum requirements shall apply for any action relating to
+the approval of a private road:
+1) Private roads shall provide access to no more than 10 abutting lots or parcels. A
+private road may serve more than 10 lots or parcels when the parcels are within
+a planned development or subdivision and when such road is constructed to the
+standards for a public road, and is approved as a part of the planned
+development or subdivision. Under no circumstances shall a private road serve
+other roads or areas.
+
+Exemptions: Surf Pines, The Highlands at Gearhart, Christmas Tree Road and
+connecting private streets, and Castle Rock Estates are exempt from this
+requirement. These four areas are served by private roads and already exceed
+the 10-lot standard.
+2) Private roads shall not be approved if the road is presently needed, or is likely to
+be needed, for development of adjacent property, or to be utilized for public road
+purposes in the normal development of the area, or if the private road is intended
+to serve commercial, or industrial district uses. Private roads shall not be
+approved for commercial or industrial land divisions.
+3) The minimum easement for a private road shall be in accordance with Table 3.2
+– Right-of-way Improvement Standards Table. The minimum right-of-way width
+shall accommodate required cut and fill slopes, ditches, turnouts and cul-de-
+sacs.
+4) A lot or parcel abutting a railroad or limited access road right-of-way may require
+special consideration with respect to its access requirements.
+5) Guardrail is required on all bridges and for a distance of 40 feet along the
+approaches to all bridges. Guardrail is also required along any fill slope or natural
+ground slope below the road that is steeper than 1:1, over 10 feet high, and is
+within 10 feet horizontally of the edge of the traveled road surface. The guardrail
+materials must be approved as conforming to Oregon State Highway Standard
+Specifications.
+6) The County may require that the private road being considered be established as
+a dedicated way or County road and improved to the applicable standards, if it is
+determined by the County that the access and transportation needs of the public
+would be better served by such a change.
+
+The determination made by the County will include the following:
+(A) proximity of other roads being used for the same purpose,
+(B) topography of the parcel and contiguous parcels,
+(C) potential development as determined by the existing zoning or proposed
+zoning if the request involves a zone change,
+(D) safety factors such as visibility, frequency or road access points.
+
+Clatsop County Land and Water III-147 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+7) All private roads that are dead-end roads shall have a cul-de-sac or other
+suitable turnaround as determined by the local fire chief or State fire marshal.
+8) A private road shall directly connect only to a public, county or state road.
+9) The travel surface of the private road shall be constructed so as to ensure egress
+and ingress for the parcels served during normal climatic conditions:
+(A) Twelve (12) inches of pit run base course or equivalent. The grade of rock
+shall be approved by the County Road Department prior to construction.
+As an alternate, the depth of the base course containing 4 or 6-inch minus
+or jaw run may be less than 12 inches as determined on a case-by-case
+basis by the County Road Department.
+(B) Four inches of 3/4-inch minus top course.
+10) The County shall require that a maintenance agreement be recorded in the
+records of Clatsop County along with any map or plat creating a private road, and
+include the following terms:
+(A) That the agreement for maintenance shall be enforceable by a majority of
+persons served by the road.
+(B) That the owners of land served by the road, their successors, or assigns,
+shall maintain the road, either equally or in accordance with a specific
+formula.
+11) The County shall require that an easement over the private road for ingress and
+egress, including the right of maintenance, be conveyed to the properties served
+by the road.
+Section 3.9850. Minimum Construction Standards for Private Roads (Ord. 21-05)
+1) Fourteen (14) foot wide improved travel surface (see G-14 (Figure 3.1) standard
+cross-section).
+2) Turnouts shall be required at 800 feet maximum spacing, or at distances which
+ensure continuous visual contact between turnouts, and constructed to the
+following dimensional standards: 50 feet in length and seven (7) feet in width,
+with 25 foot tapers on each end back from its point of connection with the County
+or public road.
+3) Cut and fill slope requirements, and ditch lines as detailed on the G-14 standard
+cross section. The grade of the ditch slopes parallel to centerline shall be no less
+than 1% to provide for adequate drainage. The developer shall be required to
+provide all erosion control measures necessary to maintain the standard cross
+section and to eliminate any increase in any stream turbidity.
+4) The width of the road approach at its intersection with the County road, or other
+public road, shall equal 18 feet, and taper over a distance of 50 feet to the travel
+surface width back from its point of connection with the County or public road.
+5) The finished grade of the roadway shall not exceed 16 percent. Any finished
+grade in excess of 12% shall be asphalt or concrete.
+6) A suitable turnaround acceptable to the fire chief or State fire marshal shall be
+provided at the terminus of the private road or within 150 feet of its terminus.
+
+Clatsop County Land and Water III-148 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+7) All culverts, bridges and other waterway crossings serving two (2) or more
+parcels shall be constructed and maintained to carry American Association of
+State Highway and Transportation Officials (AASHTO) HS-20 loading. a typical
+acceptable type is 16 gauge, galvanized CMP for small cross drains and
+drainageway crossings. Twelve inch diameter culverts are the absolute minimum.
+Bridges and other large waterway crossings shall be certified by a professional
+registered engineer.
+8) All private road points of access to public roads shall include a landing area to
+extend 20 feet minimum beyond the shoulder of the public road on which the
+profile grade shall not exceed +/- three (3) percent. A greater landing area may
+be required to allow for future road improvements.
+9) Surveying: All roads shall be located by a surveyor so as to ensure that the road
+is constructed in the location shown on the improvement plans. The construction
+of the road improvement shall be within 0.3’ more or less of the horizontal and
+vertical location shown on the improvement plans.
+10) Inspection by the County is required for all private road improvements.  The
+County Public Works Department shall be notified 48 hours in advance of the
+time for subgrade inspection, 48 hours in advance of the time for base inspection
+and 48 hours in advance of the time for paving inspection. The subgrade is to be
+inspected before placing the base. The base is to be inspected before placing the
+pavement.
+
+Section 3.9860. Roadway Construction in Serial Partitions (Ord. 21-05)
+(1) This section applies to properties being developed through the use of sequential
+or serial partitions rather than through a typical subdivision process.
+(2) When developing parcels through a partition process the minimum road standard
+for the partition shall be based on Table 3.2 – Right-of-way and Improvement
+Standards Table for the number of proposed parcels including any potential
+parcels from planned or unplanned future divisions.  It shall also include any
+other properties utilizing the roadway.
+(3) If the intent of the development is to not develop future parcels the applicant may
+record a development restriction on any large parcels restricting their future
+division.  The applicant may then construct the roadway as applicable taking into
+account that those parcels may not be divided in the future.
+(4) Alternatively, an applicant may record a temporary development restriction on the
+larger parcel(s) with the condition that the full right of way or easement width
+shall be reserved on the initial partition.  Any required future road improvements
+shall be completed prior to the sale of those parcel(s) or the recording of any
+future partition(s).
+(5) All other roadway requirements shall be adhered to.
+
+Clatsop County Land and Water III-149 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+Clatsop County Land and Water III-150 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Table 3.2 - Right-of-Way and Improvement Standards Table
+Functional
+Road Class A.D.T
+Design
+Standard
+Typical
+Travel
+Width
+R-O-W
+Width(7)
+Surface
+Type
+Design
+Speed
+MPH
+Max.
+%
+Grade
+Min.
+Curve
+Radius
+Street
+Signs
+County Road Standards
+Resource
+Route
+300-
+1000 A-38 38 48-54 A.C..(6)/Oil 40 12 500 (1)
+Arterial >1000 A –38 38 80 A.C.(6) 45 12 750 (1)
+Major
+Collector
+300 –
+1000 A –28 28*** 60 A.C.(6) 40 12 500 (1)
+Minor
+Collector  A-28 28*** 60 A.C.(6) 40 12 500 (1)
+Local 60 –
+300 A –20 20 50 A.C.(6)/Oil 35 12 350 (1)
+Public and Private Road Standards
+Land Division
+(10+ lots) >60 A –20 20 50 A.C.(5) 25 12 250 (1)
+Land Division
+(7-9 lots)
+30 –
+60 A - 20 20 50 A.C.(5) 20 12** 150 (1)
+Partition Land
+Division
+(4-6
+lots/parcels***)
+<60 G - 20 20 50 Gravel 20 12** 150 (1)
+Land Division
+(1-3 lots) <30 G – 14(4) 14 25 Gravel 15 14* 50 (1)
+* If unavoidable conditions exist a grade of 2% greater than that shown may be allowed with A.C.
+paving or concrete.
+** If unavoidable conditions exist a grade of 4% greater than that shown may be allowed with A.C.
+paving  or concrete.
+*** May be reduced to 24 feet as specified in AASHTO if approved by the County Engineer.
+(1) One (1) approved street sign will be provided at each intersection for each named street.
+(2)     All dead-end streets will be terminated with a 50’ radius cul-de-sac or other approved
+turnaround acceptable to the fire chief or State fire marshal.
+(3) Drainage/slope easements may be required if roadway slopes extend beyond the right-of-way.
+(4)     G-14 roads require turn-outs at a maximum distance of 400 feet, or at a lesser interval that will
+maintain a continuous visual contact between each successive turn-out.
+(5) Minimum A.C. thickness is 3” nominally compacted ODOT ½” Level 2, or approved equal. Any
+roadway intended to be brought in to the County Road system will require 4” of AC.
+
+Clatsop County Land and Water III-151 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+
+(6) Minimum AC thickness is 4” nominally compacted ODOT ½” Level 2, or approved equal.
+(7) Easement width in the case of a private road.
+This space deliberately left blank.
+
+Clatsop County Land and Water III-152 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Figure 3.1
+
+This space deliberately left blank.
+
+Clatsop County Land and Water III-153 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Figure 3.2
+
+This space deliberately left blank.
+
+Clatsop County Land and Water III-154 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Figure 3.3
+
+This space deliberately left blank.
+
+Clatsop County Land and Water III-155 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Figure 3.4
+
+This space deliberately left blank.
+
+Clatsop County Land and Water III-156 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Figure 3.5
+
+This space deliberately left blank.
+
+Clatsop County Land and Water III-157 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+Table 3.3 - Road Improvement Policy Matrix
+ Resources Zones Non-Resource Zones
+ New Road Created
+or Existing Road
+Used
+New Road
+Created Existing Road Used
+1. Must a road be improved in
+conjunction with a partition?
+A. Private Road No Yes Yes (1)
+B. Public Road No Yes No
+C. County Road Yes (2) Yes No
+2. Minimum Road Standard
+Required?
+A. Private Road n/a G-14 G-14 (1)
+B. Public Road n/a G-20 G-20
+C. County Road (2) A-20(3) A-20
+(1)   If an existing private road provides access to a parcel, this road must be improved to at
+least an G-14 standard. See Table 3.2 Right-of-way and Improvement Standards.
+(2)   If a County road is created or utilized in a resource zone to provide access to a partitioned
+parcel, the Board of Commissioners shall establish minimum improvement standards and
+control the timing of the improvement.
+(3)   If a new portion of a County road is created to provide access to a non-resource zone
+partition, the Board of Commissioners shall set the improvement standards (the minimum
+improvement shall be an A-20 standard).
+
+Table 3.4- Minimum Road Standards for Private Roads
+Revision Class
+Maximum
+ # of
+Parcels
+to be
+Served
+Maximum
+Grade
+Travel
+Width
+Recommended
+Easement
+Width
+Design
+Speed
+Top
+Course
+Base
+Course
+A(4) Private Roads are not allowed within Class “A” Division except as noted
+B 10 16% (3)
+1(2) See
+Table
+3.2
+See Table 3.2 -- -- --
+C 10 16% (3)
+1(2) See
+Table
+3.2
+See Table 3.2 -- -- --
+
+Clatsop County Land and Water III-158 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+(1)  "A" - Within an Urban Growth Boundary or Rural Service Area Boundary.
+"B" - Zoned for 5 acres or smaller, excluding Class "A" divisions.
+"C" - Zoned for larger than 5 acres in size.
+(2)  Turnouts shall be provided intervisibly or at 800-foot intervals, whichever is less.
+(3)  Grades greater than 14% shall be asphalt or concrete.
+(4)  A private road is not permitted in an Urban Growth Boundary or Rural Service Area except that it
+ may be permitted outside UGBs or RSAs.
+Note:  See Sections 3.9840 and 3.9850 for complete standards.
+
+SECTION 3.9900. PSILOCYBIN USE STANDARDS [ORD. 24-20]
+1) Psilocybin Farm Use Standards
+(A) Psilocybin active cultivation shall only occur within an enclosed structure.
+(B) The farm use structure shall meet all applicable zoning requirements,
+including building setback, size and height.
+2) Psilocybin Manufacture Standards
+(A) Psilocybin product manufacturing shall be conducted within an enclosed
+structure.
+(B) Structures used for psilocybin manufacturing shall not exceed 2,500 s.f. in
+total floor space per parcel of land.
+(C) Setback requirements for the underlying zoning district for all structures
+associated with psilocybin uses.
+3) Psilocybin Service Center Standards
+(A) Operators of all psilocybin service centers shall maintain the necessary
+state licenses and provide a copy to the County.
+(B) Psilocybin service centers shall not be authorized as home occupations or
+as a commercial activity in conjunction with a farm use.
+4) General Use Standards
+(A) Separation Distances. Psilocybin farm uses, psilocybin manufacture, or
+psilocybin administration centers shall have a minimum 1000-foot setback
+from the property line of all public, private or parochial schools.
+(B) Hours of Operation. Hours of operation for psilocybin manufacturing and
+psilocybin service centers shall be no earlier than 6:00 am and no later
+than 10:00 pm, subject to the requirements of OAR 333-333-5250(3).
+(C) Notwithstanding ORS chapter 195, 196, 197, 197A, 215 and 227, the
+following are not permitted uses on land designated for exclusive farm
+use:
+i. A new dwelling used in conjunction with a psilocybin-producing
+fungi crop.
+ii. A farm stand, as described in ORS 215.213(1)(r) or 215.283(1)(o),
+used in conjunction with a psilocybin-producing fungi crop; and
+
+Clatsop County Land and Water III-159 Date: April 22, 2026
+Development and Use Code                           Ordinance 25-16
+ARTICLE 3. STRUCTURE SITING AND
+DEVELOPMENT STANDARDS
+iii. A commercial activity, as described in ORS 215.213(2)(c) or
+215.283(2)(a), carried on in conjunction with a psilocybin-producing
+fungi crop.
+5) The following chart denotes the review procedures for psilocybin related uses.
+
+District Psilocybin
+Farm Use
+Psilocybin
+Manufacture
+and
+Processing
+Psilocybin
+Service
+Centers
+Agriculture-Forestry (AF) Allowed - -
+Forest-80 (F-80) Allowed - -
+Exclusive Farm Use (EFU Allowed - -
+Heavy Industrial (HI) - Type II -
+Light Industrial (LI) - Type II -
+Rural Community Industrial (RCI) - Type II -
+Rural Community Commercial and Light
+Industrial (RCC-LI)
+- Type II -
+General Commercial (GC) - - Type II
+Rural Community Commercial (RCC) - - Type II
+Neighborhood Commercial (NC) - - Type II
+Tourist Commercial (TC) - - Type II
+Allowed as Defined Farm Use
+Type II – Reviewed as Type II Procedure

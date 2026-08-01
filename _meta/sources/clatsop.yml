@@ -1,0 +1,248 @@
+group: clatsop
+title: Clatsop County sources
+county: clatsop-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: ecode360.com serves HTTP 200 to the honest agent and states no AI-agent directive of its own.
+    The survey's recorded 403 for this county was a thin request without Accept headers, not a refusal
+    — re-checked before building.
+  hosts:
+  - host: ecode360.com
+    robots_url: https://ecode360.com/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: General Code storefront. 200 to the honest agent; the survey's 403 was a header artefact.
+  - host: clatsopcounty.gov
+    robots_url: https://clatsopcounty.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: County's own site; policies and land use. No named AI agents.
+last_checked: '2026-07-31'
+upstream_signal: No feed. eCode360 guids are stable across amendments, so content drift is caught by re-hashing
+  each Title; a new Title appears as a new TOC node.
+sources:
+- id: clatsop-code-ttl-cha-home-rule-charter-for-the-government-of-clatsop-coun
+  url: https://ecode360.com/44305821
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl CHA: Home Rule Charter for the Government of Clatsop County'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-1-general-provisions
+  url: https://ecode360.com/44303313
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 1: General Provisions'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-2-administration-and-personnel
+  url: https://ecode360.com/44303766
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 2: Administration and Personnel'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-3-revenue-and-finance
+  url: https://ecode360.com/44303873
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 3: Revenue and Finance'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-5-business-regulations
+  url: https://ecode360.com/44304283
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 5: Business Regulations'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-6-animals
+  url: https://ecode360.com/44304787
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 6: Animals'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-7-solid-waste
+  url: https://ecode360.com/44304847
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 7: Solid Waste'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-8-health-and-safety
+  url: https://ecode360.com/44304850
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 8: Health and Safety'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-9-environmental-health-program
+  url: https://ecode360.com/44305097
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 9: Environmental Health Program'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-10-vehicles-and-traffic
+  url: https://ecode360.com/44305139
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 10: Vehicles and Traffic'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-12-streets-sidewalks-and-public-places
+  url: https://ecode360.com/44305165
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 12: Streets, Sidewalks and Public Places'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-15-buildings-and-construction
+  url: https://ecode360.com/44305699
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 15: Buildings and Construction'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-16-land-and-water-development-and-use
+  url: https://ecode360.com/44305820
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl 16: Land and Water Development and Use'
+  last_checked: '2026-07-31'
+- id: clatsop-code-ttl-ol-ordinance-list-and-disposition-table
+  url: https://ecode360.com/44305946
+  family: code
+  format: html
+  sha256: ''
+  title: 'Ttl OL: Ordinance List and Disposition Table'
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-1
+  url: https://clatsopcounty.gov/DocumentCenter/View/2264/Policy-1
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-1
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-2
+  url: https://clatsopcounty.gov/DocumentCenter/View/2265/Policy-2
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-2
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-3
+  url: https://clatsopcounty.gov/DocumentCenter/View/2266/Policy-3
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-3
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-7
+  url: https://clatsopcounty.gov/DocumentCenter/View/2267/Policy-7
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-7
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-15
+  url: https://clatsopcounty.gov/DocumentCenter/View/2268/Policy-15
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-15
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-17
+  url: https://clatsopcounty.gov/DocumentCenter/View/2269/Policy-17
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-17
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-20
+  url: https://clatsopcounty.gov/DocumentCenter/View/2270/Policy-20
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-20
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-28
+  url: https://clatsopcounty.gov/DocumentCenter/View/2271/Policy-28
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-28
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-34
+  url: https://clatsopcounty.gov/DocumentCenter/View/2272/Policy-34
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-34
+  last_checked: '2026-07-31'
+- id: clatsop-policies-policy-37
+  url: https://clatsopcounty.gov/DocumentCenter/View/2273/Policy-37
+  family: policies
+  format: pdf
+  sha256: ''
+  title: Policy-37
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-lawduc-cover-and-table-of-contents
+  url: https://clatsopcounty.gov/DocumentCenter/View/3943/LAWDUC-Cover-and-Table-of-Contents
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LAWDUC-Cover-and-Table-of-Contents
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1
+  url: https://clatsopcounty.gov/DocumentCenter/View/3914/ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-article-2-procedures-for-land-use-applications-amended-ord-2
+  url: https://clatsopcounty.gov/DocumentCenter/View/3920/ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: ARTICLE-2---Procedures-for-Land-Use-Applications-Amended-Ord-25-16-and-Ord-26-05
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-article-3-structure-siting-and-development-standards-amended
+  url: https://clatsopcounty.gov/DocumentCenter/View/3933/ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: ARTICLE-3---Structure-Siting-and-Development-Standards-Amended-Ord-25-16
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-article-4-zone-regulations-amended-ord-25-08-and-ord-25-16
+  url: https://clatsopcounty.gov/DocumentCenter/View/3935/ARTICLE-4---Zone-Regulations-Amended-Ord-25-08-and-Ord-25-16
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: ARTICLE-4---Zone-Regulations-Amended-Ord-25-08-and-Ord-25-16
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-article-5-special-districts-amended-ord-25-16
+  url: https://clatsopcounty.gov/DocumentCenter/View/3937/ARTICLE-5---Special-Districts-Amended-Ord-25-16
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: ARTICLE-5---Special-Districts-Amended-Ord-25-16
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-article-6-environmental-and-resource-protection-amended-ord-
+  url: https://clatsopcounty.gov/DocumentCenter/View/3941/ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: ARTICLE-6---Environmental-and-Resource-Protection-Amended-Ord-25-08-and-Ord-25-16
+  last_checked: '2026-07-31'
+- id: clatsop-land-use-lawduc-lwduo-code-citation-cross-reference
+  url: https://clatsopcounty.gov/DocumentCenter/View/1976/LAWDUC---LWDUO-Code-Citation-Cross-Reference
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LAWDUC---LWDUO-Code-Citation-Cross-Reference
+  last_checked: '2026-07-31'
