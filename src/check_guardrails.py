@@ -41,10 +41,11 @@ ABSENCE_RE = re.compile(
     r"\b(?:does not (?:publish|have|maintain)|publishes no|has no|no such|none (?:is |are )?"
     r"published|not published|no (?:published )?(?:code|policy|ordinance|plan))\b", re.I)
 
-# Kept IDENTICAL to fetch.DRAFT_PATTERNS by importing it, so the discovery filter and the CI
-# gate can never drift apart and disagree about what a draft is.
+# Shared with the discovery filter via src/patterns.py so the two can never disagree about
+# what a draft is — WITHOUT importing src/fetch.py, which would drag httpx into a job that
+# only reads committed Markdown. That coupling broke the `generated` job once already.
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
-from src.fetch import DRAFT_PATTERNS  # noqa: E402
+from src.patterns import DRAFT_PATTERNS  # noqa: E402
 DRAFT_RE = re.compile("|".join(DRAFT_PATTERNS), re.I)
 
 # The survey family whose absence a claim in each subdirectory would be about.

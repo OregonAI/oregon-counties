@@ -8,3 +8,10 @@ PyYAML
 # honestly-identified agent and build their document lists client-side — never to get
 # past a host that refused one. See discover_js().
 playwright
+
+# src/fetch.py speaks HTTP/2. This is not a preference: codepublishing.com and
+# lake.county.codes challenge HTTP/1.1 requests and pass HTTP/2 ones with the SAME
+# User-Agent, so urllib (HTTP/1.1 only) was scored as a bot and refused. h2 is required
+# for httpx's http2=True and is not pulled in by httpx alone.
+httpx
+h2

@@ -244,28 +244,9 @@ def source_dates(snap: pathlib.Path, fresh: bool, doc_path: pathlib.Path) -> tup
     return retrieved, retrieved
 
 
-# Filenames that are DRAFTS sitting beside adopted text in the same directory. Measured in
-# five counties: Lane (APM `...Issue2REDLINE.pdf` next to `...CURRENT.pdf`), Clackamas
-# (`zdoproposed`), Lincoln, Baker (`-DRAFT`), Gilliam (a redline employee handbook NEWER and
-# LARGER than the adopted one, so "take the most recent" is actively wrong here).
-#
-# `draft`/`proposed` ARE ONLY DRAFT MARKERS IN A VERSION POSITION — at the start or end of a
-# name, or delimited — never mid-sentence. Multnomah adopts resolutions ABOUT proposals:
-# "Resolution Referring Charter Review Committee Proposed Amendments To The Voters" and
-# "Resolution Adopting ... For Inclusion In The Draft Environmental Impact Statement" are
-# adopted law whose SUBJECT is a proposal. A bare \bproposed\b flagged 17 such documents as
-# drafts. The word describes what the instrument is about; the position tells you whether it
-# describes the instrument.
-DRAFT_PATTERNS = (
-    r"redline",                      # unambiguous wherever it appears
-    r"\bissue\s*\d+\b",             # Lane's APM revision markers
-    r"zdoproposed",                  # Clackamas' proposed-amendment pages
-    # Trailing version marker. The optional extension group matters: without it
-    # `employee-handbook-DRAFT.pdf` slips through, because `.pdf` sits between the marker
-    # and the end of the string.
-    r"[-_.(\[]\s*(?:draft|proposed)\s*[-_.)\]]*\s*(?:\.[a-z0-9]{2,4})?$",
-    r"^\s*(?:draft|proposed)\s*[-_.]",                   # leading version marker
-)
+# Draft-filename patterns live in src/patterns.py, which imports nothing — so the CI
+# guardrail check can share them without pulling in this module's HTTP stack.
+from src.patterns import DRAFT_PATTERNS  # noqa: E402,F401
 
 
 def looks_like_draft(name: str) -> bool:
