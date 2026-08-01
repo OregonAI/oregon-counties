@@ -95,6 +95,16 @@ jobs:
       # stale edge resolves perfectly well to a real ORS section.
       - name: Citation references must match the documents
         run: python3 src/link_citations.py --check
+      # The disposition mirror decides whether an unresolved citation is reported as a gap
+      # or as "renumbered to X". Checked HERE, on every PR, rather than only on the weekly
+      # refresh: this file is small enough to hand-edit, and a hand-edited redirect is an
+      # assertion about the statute book that nothing else in CI would question.
+      #
+      # NOT a network-dependency in the ordinary sense — it fetches ERF's committed
+      # disposition catalog, which ERF's own CI gates against its snapshots, so this cannot
+      # pass against a file that has drifted from the source it was mined from.
+      - name: ORS disposition mirror must match upstream
+        run: python3 src/sync_dispositions.py --check
       # Citation schemes are registered at IMPORT time, so nothing else in CI loads this
       # module — a syntax error or a bad pattern in it would ship green and only surface
       # when the MCP server failed to start.
