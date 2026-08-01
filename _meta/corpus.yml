@@ -81,6 +81,20 @@ mcp:
   # authority basis without a second lookup — the two facts that make "what does this
   # ordinance mean" answerable differently for a charter county and a general-law one.
   extra_document_fields: ["authority_level", "effective_date", "source_version"]
+  # THE EDGE THIS CORPUS EXISTS FOR, made reachable through the tool agents actually call.
+  #
+  # authority_chain walks implements/implemented_by unconditionally. This corpus asserts
+  # NEITHER: it records citations as references_external, because a county ordinance citing
+  # ORS 215.203 is usually implementing it and *usually* is not a fact. So authority_chain
+  # returned an empty answer over 9,704 real edges, 79% of which resolve into ERF.
+  #
+  # Declaring them here returns them under `up_cites`, beside `up_implements` and never
+  # inside it. The naming is load-bearing: an agent reading `up_cites` learns this document
+  # CITES that law, which is what was measured. Reading it as an implementation claim would
+  # be a misreading of the data — see corpus-toolkit docs/mcp-interface-contract.md.
+  authority_relations:
+    up:
+      cites: [references_external]
 
 status:
   reverify_days: 180                 # county code moves far more slowly than state rule
