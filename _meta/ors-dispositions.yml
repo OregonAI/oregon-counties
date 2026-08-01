@@ -1,0 +1,1345 @@
+note: MIRRORED, NOT AUTHORED HERE. Pruned from executive-regulatory-frameworks' _meta/catalog/ors-disposition.yml
+  to the ORS sections this corpus actually cites. Regenerate with `python3 src/sync_dispositions.py`;
+  CI gates it with --check. 'renumbered' means the text still exists under `targets`; 'repealed' means
+  there is no text. Each row carries the verbatim `source_phrase` it was mined from, so a redirect can
+  be checked against the statute book without opening another repository. Non-authoritative — verify at
+  oregonlegislature.gov.
+source: https://raw.githubusercontent.com/OregonAI/executive-regulatory-frameworks/main/_meta/catalog/ors-disposition.yml
+n_renumbered: 155
+n_repealed: 137
+sections:
+- section: '109.550'
+  status: repealed
+  year: 1993
+- section: '133.045'
+  status: repealed
+  year: 1999
+- section: '133.075'
+  status: repealed
+  year: 1999
+- section: '15.120'
+  status: repealed
+  year: 1979
+- section: '153.110'
+  status: repealed
+  year: 1999
+- section: '153.130'
+  status: repealed
+  year: 1999
+- section: '153.140'
+  status: repealed
+  year: 1999
+- section: '153.145'
+  status: repealed
+  year: 2011
+- section: '153.220'
+  status: repealed
+  year: 1999
+- section: '153.630'
+  status: repealed
+  year: 2011
+- section: '165.405'
+  status: repealed
+  year: 1971
+- section: '166.280'
+  status: repealed
+  year: 2001
+- section: '167.054'
+  status: repealed
+  year: 2011
+- section: '169.530'
+  status: repealed
+  year: 2019
+- section: '18.470'
+  status: renumbered
+  year: 2003
+  targets:
+  - '31.600'
+  source_phrase: renumbered 31.600 in 2003
+- section: '18.475'
+  status: renumbered
+  year: 2003
+  targets:
+  - '31.620'
+  source_phrase: renumbered 31.620 in 2003
+- section: '18.537'
+  status: renumbered
+  year: 2003
+  targets:
+  - '31.730'
+  source_phrase: renumbered 31.730 in 2003
+- section: '18.540'
+  status: renumbered
+  year: 2003
+  targets:
+  - '31.735'
+  source_phrase: renumbered 31.735 in 2003
+- section: '181.555'
+  status: renumbered
+  year: 2015
+  targets:
+  - 181a.230
+  source_phrase: renumbered 181A.230 in 2015
+- section: '183.090'
+  status: renumbered
+  year: 2003
+  targets:
+  - '183.745'
+  source_phrase: renumbered 183.745 in 2003
+- section: '191.110'
+  status: repealed
+  year: 1977
+- section: '192.410'
+  status: renumbered
+  year: 2017
+  targets:
+  - '192.311'
+  source_phrase: renumbered 192.311 in 2017
+- section: '192.420'
+  status: renumbered
+  year: 2017
+  targets:
+  - '192.314'
+  source_phrase: renumbered 192.314 in 2017
+- section: '192.440'
+  status: renumbered
+  year: 2017
+  targets:
+  - '192.324'
+  source_phrase: renumbered 192.324 in 2017
+- section: '192.500'
+  status: repealed
+  year: 1987
+- section: '192.501'
+  status: renumbered
+  year: 2017
+  targets:
+  - '192.345'
+  source_phrase: renumbered 192.345 in 2017
+- section: '192.502'
+  status: renumbered
+  year: 2017
+  targets:
+  - '192.355'
+  source_phrase: renumbered 192.355 in 2017
+- section: '192.505'
+  status: renumbered
+  year: 2017
+  targets:
+  - '192.338'
+  source_phrase: renumbered 192.338 in 2017
+- section: '192.525'
+  status: repealed
+  year: 2003
+- section: '192.530'
+  status: repealed
+  year: 2003
+- section: '194.162'
+  status: repealed
+  year: 2013
+- section: '194.164'
+  status: repealed
+  year: 2013
+- section: '195.035'
+  status: repealed
+  year: 1995
+- section: '195.137'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.230
+  source_phrase: renumbered 197A.230 in 2023
+- section: '195.145'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.245
+  source_phrase: renumbered 197A.245 in 2023
+- section: '196.905'
+  status: renumbered
+  year: 2019
+  targets:
+  - '196.921'
+  source_phrase: renumbered 196.921 in 2019
+- section: '197.190'
+  status: renumbered
+  year: 1993
+  targets:
+  - '195.025'
+  source_phrase: renumbered 195.025 in 1993
+- section: '197.247'
+  status: repealed
+  year: 1993
+- section: '197.255'
+  status: renumbered
+  year: 1993
+  targets:
+  - '195.035'
+  source_phrase: renumbered 195.035 in 1993
+- section: '197.285'
+  status: repealed
+  year: 1981
+- section: '197.286'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.015
+  source_phrase: renumbered 197A.015 in 2023
+- section: '197.295'
+  status: renumbered
+  year: 2019
+  targets:
+  - '197.286'
+  source_phrase: renumbered 197.286 in 2019
+- section: '197.296'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.350
+  source_phrase: renumbered 197A.350 in 2023
+- section: '197.298'
+  status: renumbered
+  targets:
+  - 197a.350
+  - 197a.355
+  source_phrase: renumbered 197A.350 and 197A.355
+- section: '197.300'
+  status: repealed
+  year: 1979
+- section: '197.303'
+  status: renumbered
+  targets:
+  - 197a.348
+  source_phrase: renumbered 197A.348
+- section: '197.307'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.200
+  - 197a.400
+  source_phrase: renumbered 197A.200 and subsections (4) to (7) renumbered 197A.400 in 2023
+- section: '197.311'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.470
+  source_phrase: renumbered 197A.470 in 2023
+- section: '197.312'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.395
+  - 197a.425
+  source_phrase: renumbered 197A.395 and subsections (5) and (6) renumbered 197A.425 in 2023
+- section: '197.352'
+  status: renumbered
+  year: 2007
+  targets:
+  - '195.305'
+  source_phrase: renumbered 195.305 in 2007
+- section: '197.360'
+  status: renumbered
+  year: 2025
+  targets:
+  - 197a.142
+  source_phrase: renumbered 197A.142 in 2025
+- section: '197.365'
+  status: renumbered
+  year: 2025
+  targets:
+  - 197a.140
+  source_phrase: renumbered 197A.140 in 2025
+- section: '197.370'
+  status: repealed
+  year: 2025
+- section: '197.375'
+  status: repealed
+  year: 2025
+- section: '197.475'
+  status: renumbered
+  year: 2025
+  targets:
+  - 197a.431
+  source_phrase: renumbered 197A.431 in 2025
+- section: '197.480'
+  status: renumbered
+  year: 2025
+  targets:
+  - 197a.436
+  source_phrase: renumbered 197A.436 in 2025
+- section: '197.490'
+  status: renumbered
+  year: 2025
+  targets:
+  - 197a.438
+  source_phrase: renumbered 197A.438 in 2025
+- section: '197.640'
+  status: repealed
+  year: 1991
+- section: '197.675'
+  status: repealed
+  year: 2001
+- section: '197.726'
+  status: repealed
+  year: 2025
+- section: '197.763'
+  status: renumbered
+  year: 2021
+  targets:
+  - '197.797'
+  source_phrase: renumbered 197.797 in 2021
+- section: '197.764'
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.215
+  source_phrase: renumbered 197A.215 in 2023
+- section: '197.767'
+  status: repealed
+  year: 1989
+- section: 197a.320
+  status: renumbered
+  year: 2023
+  targets:
+  - 197a.285
+  source_phrase: renumbered 197A.285 in 2023
+- section: '203.077'
+  status: renumbered
+  year: 2021
+  targets:
+  - '195.500'
+  source_phrase: renumbered 195.500 in 2021
+- section: '203.081'
+  status: renumbered
+  year: 2021
+  targets:
+  - '195.510'
+  source_phrase: renumbered 195.510 in 2021
+- section: '203.082'
+  status: renumbered
+  year: 2021
+  targets:
+  - '195.520'
+  source_phrase: renumbered 195.520 in 2021
+- section: '203.113'
+  status: repealed
+  year: 1987
+- section: '205.340'
+  status: repealed
+  year: 1987
+- section: '206.020'
+  status: repealed
+  year: 2013
+- section: '21.410'
+  status: renumbered
+  year: 2011
+  targets:
+  - '21.300'
+  source_phrase: renumbered 21.300 in 2011
+- section: '21.480'
+  status: repealed
+  year: 2011
+- section: '21.580'
+  status: repealed
+  year: 2011
+- section: '215.035'
+  status: renumbered
+  year: 1993
+  targets:
+  - '244.135'
+  source_phrase: renumbered 244.135 in 1993
+- section: '215.055'
+  status: repealed
+  year: 1977
+- section: '215.180'
+  status: repealed
+  year: 1977
+- section: '215.428'
+  status: repealed
+  year: 1999
+- section: '215.508'
+  status: repealed
+  year: 1999
+- section: '215.800'
+  status: repealed
+  year: 2003
+- section: '215.806'
+  status: repealed
+  year: 2003
+- section: '215.808'
+  status: repealed
+  year: 2003
+- section: '215.990'
+  status: repealed
+  year: 1977
+- section: '221.340'
+  status: renumbered
+  year: 1999
+  targets:
+  - '221.333'
+  source_phrase: renumbered 221.333 in 1999
+- section: '223.220'
+  status: repealed
+  year: 1991
+- section: '223.305'
+  status: repealed
+  year: 1971
+- section: '23.450'
+  status: renumbered
+  year: 2003
+  targets:
+  - '18.532'
+  source_phrase: renumbered 18.532 in 2003
+- section: '244.135'
+  status: repealed
+  year: 2015
+- section: '251.358'
+  status: repealed
+  year: 2021
+- section: '253.135'
+  status: repealed
+  year: 2013
+- section: '255.095'
+  status: repealed
+  year: 2007
+- section: '273.705'
+  status: renumbered
+  year: 1989
+  targets:
+  - '390.235'
+  source_phrase: renumbered 390.235 in 1989
+- section: '275.100'
+  status: repealed
+  year: 2005
+- section: '279.011'
+  status: repealed
+  year: 2003
+- section: '279.015'
+  status: repealed
+  year: 2003
+- section: '279.029'
+  status: repealed
+  year: 2003
+- section: '279.045'
+  status: repealed
+  year: 2003
+- section: '279.049'
+  status: repealed
+  year: 2003
+- section: '279.051'
+  status: repealed
+  year: 2003
+- section: '279.055'
+  status: repealed
+  year: 2003
+- section: '279.065'
+  status: renumbered
+  targets:
+  - '279.025'
+  source_phrase: renumbered 279.025
+- section: '279.310'
+  status: repealed
+  year: 2003
+- section: '279.312'
+  status: repealed
+  year: 2003
+- section: '279.320'
+  status: repealed
+  year: 2003
+- section: '279.334'
+  status: repealed
+  year: 2003
+- section: '279.348'
+  status: repealed
+  year: 2003
+- section: '279.375'
+  status: repealed
+  year: 2003
+- section: '279.990'
+  status: repealed
+  year: 2003
+- section: '281.045'
+  status: renumbered
+  year: 2003
+  targets:
+  - '35.500'
+  source_phrase: renumbered 35.500 in 2003
+- section: '284.220'
+  status: repealed
+  year: 1989
+- section: '285.413'
+  status: renumbered
+  year: 1997
+  targets:
+  - 285b.059
+  source_phrase: renumbered 285B.059 in 1997
+- section: 285b.242
+  status: repealed
+  year: 2009
+- section: 285b.332
+  status: repealed
+  year: 2007
+- section: '287.074'
+  status: repealed
+  year: 2007
+- section: '287.502'
+  status: repealed
+  year: 1995
+- section: '288.165'
+  status: repealed
+  year: 2007
+- section: '288.805'
+  status: repealed
+  year: 2007
+- section: '288.945'
+  status: repealed
+  year: 2007
+- section: '294.085'
+  status: repealed
+  year: 2015
+- section: '294.336'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.414'
+  source_phrase: renumbered 294.414 in 2011
+- section: '294.352'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.388'
+  source_phrase: renumbered 294.388 in 2011
+- section: '294.391'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.403'
+  source_phrase: renumbered 294.403 in 2011
+- section: '294.401'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.426'
+  source_phrase: renumbered 294.426 in 2011
+- section: '294.435'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.456'
+  source_phrase: renumbered 294.456 in 2011
+- section: '294.450'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.463'
+  source_phrase: renumbered 294.463 in 2011
+- section: '294.455'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.481'
+  source_phrase: renumbered 294.481 in 2011
+- section: '294.460'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.468'
+  source_phrase: renumbered 294.468 in 2011
+- section: '294.480'
+  status: renumbered
+  year: 2011
+  targets:
+  - '294.471'
+  source_phrase: renumbered 294.471 in 2011
+- section: '30.270'
+  status: repealed
+  year: 2009
+- section: '30.670'
+  status: renumbered
+  year: 2001
+  targets:
+  - 659a.403
+  source_phrase: renumbered 659A.403 in 2001
+- section: '30.950'
+  status: renumbered
+  year: 2001
+  targets:
+  - '471.565'
+  source_phrase: renumbered 471.565 in 2001
+- section: '308.025'
+  status: renumbered
+  year: 1999
+  targets:
+  - 308a.733
+  source_phrase: renumbered 308A.733 in 1999
+- section: '308.221'
+  status: renumbered
+  year: 1997
+  targets:
+  - '310.147'
+  source_phrase: renumbered 310.147 in 1997
+- section: '308.370'
+  status: repealed
+  year: 1999
+- section: '308.740'
+  status: renumbered
+  year: 1999
+  targets:
+  - 308a.300
+  source_phrase: renumbered 308A.300 in 1999
+- section: '308.765'
+  status: renumbered
+  year: 1999
+  targets:
+  - 308a.315
+  source_phrase: renumbered 308A.315 in 1999
+- section: '308.792'
+  status: renumbered
+  year: 1999
+  targets:
+  - 308a.350
+  source_phrase: renumbered 308A.350 in 1999
+- section: '310.385'
+  status: repealed
+  year: 1981
+- section: '310.390'
+  status: repealed
+  year: 1997
+- section: '310.395'
+  status: renumbered
+  year: 1997
+  targets:
+  - '280.075'
+  source_phrase: renumbered 280.075 in 1997
+- section: '311.702'
+  status: repealed
+  year: 2024
+- section: '311.735'
+  status: repealed
+  year: 2024
+- section: '32.010'
+  status: repealed
+  year: 1981
+- section: '321.352'
+  status: repealed
+  year: 2003
+- section: '321.372'
+  status: repealed
+  year: 1999
+- section: 329a.440
+  status: renumbered
+  year: 2025
+  targets:
+  - '197.671'
+  source_phrase: renumbered 197.671 in 2025
+- section: '346.680'
+  status: repealed
+  year: 2013
+- section: '351.086'
+  status: repealed
+  year: 2015
+- section: '352.795'
+  status: renumbered
+  year: 2015
+  targets:
+  - '350.670'
+  source_phrase: renumbered 350.670 in 2015
+- section: '36.300'
+  status: repealed
+  year: 2003
+- section: '36.335'
+  status: repealed
+  year: 2003
+- section: '368.205'
+  status: repealed
+  year: 1981
+- section: '382.125'
+  status: repealed
+  year: 2007
+- section: '390.130'
+  status: repealed
+  year: 1989
+- section: '390.825'
+  status: repealed
+  year: 1989
+- section: '391.800'
+  status: repealed
+  year: 2020
+- section: '401.039'
+  status: renumbered
+  year: 2009
+  targets:
+  - '401.198'
+  source_phrase: renumbered 401.198 in 2009
+- section: '401.115'
+  status: renumbered
+  year: 2009
+  targets:
+  - '401.175'
+  source_phrase: renumbered 401.175 in 2009
+- section: '401.270'
+  status: renumbered
+  year: 2009
+  targets:
+  - '401.092'
+  source_phrase: renumbered 401.092 in 2009
+- section: '401.480'
+  status: renumbered
+  year: 2009
+  targets:
+  - '402.010'
+  source_phrase: renumbered 402.010 in 2009
+- section: '401.710'
+  status: renumbered
+  year: 2009
+  targets:
+  - '403.105'
+  source_phrase: renumbered 403.105 in 2009
+- section: '401.735'
+  status: repealed
+  year: 2009
+- section: '409.310'
+  status: repealed
+  year: 2011
+- section: '411.145'
+  status: renumbered
+  year: 2009
+  targets:
+  - '411.077'
+  source_phrase: renumbered 411.077 in 2009
+- section: '414.705'
+  status: repealed
+  year: 2011
+- section: '417.730'
+  status: repealed
+  year: 2012
+- section: '417.775'
+  status: repealed
+  year: 2012
+- section: '418.805'
+  status: renumbered
+  year: 1993
+  targets:
+  - 657a.250
+  source_phrase: renumbered 657A.250 in 1993
+- section: '418.817'
+  status: renumbered
+  year: 1993
+  targets:
+  - 657a.440
+  source_phrase: renumbered 657A.440 in 1993
+- section: '419.740'
+  status: repealed
+  year: 1993
+- section: '419.760'
+  status: repealed
+  year: 1993
+- section: 419a.044
+  status: repealed
+  year: 2001
+- section: '426.460'
+  status: renumbered
+  year: 1995
+  targets:
+  - '430.399'
+  source_phrase: renumbered 430.399 in 1995
+- section: '431.375'
+  status: repealed
+  year: 2015
+- section: '431.410'
+  status: repealed
+  year: 2015
+- section: '431.414'
+  status: renumbered
+  year: 2015
+  targets:
+  - '431.443'
+  source_phrase: renumbered 431.443 in 2015
+- section: '431.416'
+  status: renumbered
+  year: 2015
+  targets:
+  - '431.413'
+  source_phrase: renumbered 431.413 in 2015
+- section: '433.730'
+  status: repealed
+  year: 1971
+- section: '446.002'
+  status: repealed
+  year: 1975
+- section: '446.020'
+  status: repealed
+  year: 1953
+- section: '446.210'
+  status: repealed
+  year: 2017
+- section: '446.265'
+  status: renumbered
+  year: 2021
+  targets:
+  - '197.746'
+  source_phrase: renumbered 197.746 in 2021
+- section: '448.205'
+  status: repealed
+  year: 1981
+- section: '456.775'
+  status: renumbered
+  year: 1987
+  targets:
+  - '455.040'
+  source_phrase: renumbered 455.040 in 1987
+- section: '459.040'
+  status: repealed
+  year: 1971
+- section: '459.165'
+  status: renumbered
+  year: 1991
+  targets:
+  - 459a.005
+  source_phrase: renumbered 459A.005 in 1991
+- section: '459.192'
+  status: renumbered
+  year: 1991
+  targets:
+  - 459a.075
+  source_phrase: renumbered 459A.075 in 1991
+- section: '459.200'
+  status: renumbered
+  year: 1991
+  targets:
+  - 459a.085
+  source_phrase: renumbered 459A.085 in 1991
+- section: '459.410'
+  status: renumbered
+  targets:
+  - '466.005'
+  source_phrase: renumbered 466.005
+- section: '459.860'
+  status: renumbered
+  year: 1991
+  targets:
+  - 459a.725
+  source_phrase: renumbered 459A.725 in 1991
+- section: '46.045'
+  status: renumbered
+  year: 1997
+  targets:
+  - '3.136'
+  source_phrase: renumbered 3.136 in 1997
+- section: '468.205'
+  status: repealed
+  year: 1981
+- section: '468.500'
+  status: renumbered
+  year: 1991
+  targets:
+  - 468a.100
+  source_phrase: renumbered 468A.100 in 1991
+- section: '468.700'
+  status: renumbered
+  year: 1991
+  targets:
+  - 468b.005
+  source_phrase: renumbered 468B.005 in 1991
+- section: '468.740'
+  status: renumbered
+  year: 1991
+  targets:
+  - 468b.050
+  source_phrase: renumbered 468B.050 in 1991
+- section: '471.210'
+  status: renumbered
+  year: 1999
+  targets:
+  - '471.155'
+  source_phrase: renumbered 471.155 in 1999
+- section: '471.670'
+  status: repealed
+  year: 2011
+- section: '475.300'
+  status: renumbered
+  year: 2015
+  targets:
+  - 475b.400
+  source_phrase: renumbered 475B.400 in 2015
+- section: '475.302'
+  status: renumbered
+  year: 2015
+  targets:
+  - 475b.410
+  source_phrase: renumbered 475B.410 in 2015
+- section: '475.304'
+  status: renumbered
+  year: 2015
+  targets:
+  - 475b.420
+  source_phrase: renumbered 475B.420 in 2015
+- section: '475.314'
+  status: renumbered
+  year: 2015
+  targets:
+  - 475b.450
+  source_phrase: renumbered 475B.450 in 2015
+- section: '475.992'
+  status: renumbered
+  year: 2005
+  targets:
+  - '475.840'
+  source_phrase: renumbered 475.840 in 2005
+- section: 475b.005
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.001
+  source_phrase: renumbered 475C.001 in 2021
+- section: 475b.015
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.009
+  source_phrase: renumbered 475C.009 in 2021
+- section: 475b.070
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.065
+  source_phrase: renumbered 475C.065 in 2021
+- section: 475b.110
+  status: renumbered
+  year: 2017
+  targets:
+  - 475b.105
+  source_phrase: renumbered 475B.105 in 2017
+- section: 475b.301
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.305
+  source_phrase: renumbered 475C.305 in 2021
+- section: 475b.345
+  status: renumbered
+  year: 2017
+  targets:
+  - 475b.491
+  source_phrase: renumbered 475B.491 in 2017
+- section: 475b.400
+  status: renumbered
+  year: 2017
+  targets:
+  - 475b.785
+  source_phrase: renumbered 475B.785 in 2017
+- section: 475b.410
+  status: renumbered
+  year: 2017
+  targets:
+  - 475b.791
+  source_phrase: renumbered 475B.791 in 2017
+- section: 475b.420
+  status: renumbered
+  year: 2017
+  targets:
+  - 475b.810
+  source_phrase: renumbered 475B.810 in 2017
+- section: 475b.450
+  status: renumbered
+  year: 2017
+  targets:
+  - 475b.858
+  source_phrase: renumbered 475B.858 in 2017
+- section: 475b.479
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.445
+  source_phrase: renumbered 475C.445 in 2021
+- section: 475b.486
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.449
+  source_phrase: renumbered 475C.449 in 2021
+- section: 475b.526
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.489
+  source_phrase: renumbered 475C.489 in 2021
+- section: 475b.550
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.540
+  source_phrase: renumbered 475C.540 in 2021
+- section: 475b.600
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.600
+  source_phrase: renumbered 475C.600 in 2021
+- section: 475b.700
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.670
+  source_phrase: renumbered 475C.670 in 2021
+- section: 475b.858
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.833
+  source_phrase: renumbered 475C.833 in 2021
+- section: 475b.928
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.897
+  source_phrase: renumbered 475C.897 in 2021
+- section: 475b.968
+  status: renumbered
+  year: 2021
+  targets:
+  - 475c.950
+  source_phrase: renumbered 475C.950 in 2021
+- section: '476.310'
+  status: repealed
+  year: 2025
+- section: '477.020'
+  status: repealed
+  year: 1965
+- section: '477.090'
+  status: repealed
+  year: 2013
+- section: '477.490'
+  status: repealed
+  year: 2025
+- section: '477.505'
+  status: renumbered
+  year: 2025
+  targets:
+  - '477.508'
+  source_phrase: renumbered 477.508 in 2025
+- section: '479.130'
+  status: repealed
+  year: 2011
+- section: '480.110'
+  status: repealed
+  year: 2013
+- section: '481.345'
+  status: repealed
+  year: 1983
+- section: '483.138'
+  status: repealed
+  year: 1975
+- section: '483.502'
+  status: repealed
+  year: 1983
+- section: '488.705'
+  status: renumbered
+  year: 1989
+  targets:
+  - '830.700'
+  source_phrase: renumbered 830.700 in 1989
+- section: '541.605'
+  status: renumbered
+  year: 1989
+  targets:
+  - '196.800'
+  source_phrase: renumbered 196.670 and then 196.800 in 1989
+- section: '541.615'
+  status: renumbered
+  year: 1989
+  targets:
+  - '196.810'
+  source_phrase: renumbered 196.680 and then 196.810 in 1989
+- section: '541.625'
+  status: renumbered
+  year: 1989
+  targets:
+  - '196.825'
+  source_phrase: renumbered 196.695 and then 196.825 in 1989
+- section: '541.626'
+  status: renumbered
+  year: 1989
+  targets:
+  - '196.830'
+  source_phrase: renumbered 196.700 and then 196.830 in 1989
+- section: '541.695'
+  status: renumbered
+  year: 1989
+  targets:
+  - '196.905'
+  source_phrase: renumbered 196.770 and then 196.905 in 1989
+- section: '565.405'
+  status: repealed
+  year: 2013
+- section: '570.505'
+  status: renumbered
+  year: 2009
+  targets:
+  - '569.350'
+  source_phrase: renumbered 569.350 in 2009
+- section: '570.510'
+  status: renumbered
+  year: 2009
+  targets:
+  - '569.355'
+  source_phrase: renumbered 569.355 in 2009
+- section: '570.515'
+  status: renumbered
+  year: 2009
+  targets:
+  - '569.360'
+  source_phrase: renumbered 569.360 in 2009
+- section: '570.530'
+  status: renumbered
+  year: 2009
+  targets:
+  - '569.380'
+  source_phrase: renumbered 569.380 in 2009
+- section: '570.550'
+  status: renumbered
+  year: 2009
+  targets:
+  - '569.410'
+  source_phrase: renumbered 569.410 in 2009
+- section: '571.300'
+  status: renumbered
+  year: 2019
+  targets:
+  - '571.269'
+  source_phrase: renumbered 571.269 in 2019
+- section: '571.305'
+  status: renumbered
+  year: 2019
+  targets:
+  - '571.281'
+  source_phrase: renumbered 571.281 in 2019
+- section: '604.010'
+  status: repealed
+  year: 1967
+- section: '604.531'
+  status: repealed
+  year: 1981
+- section: '609.010'
+  status: repealed
+  year: 2005
+- section: '609.050'
+  status: repealed
+  year: 1977
+- section: '624.028'
+  status: renumbered
+  year: 2007
+  targets:
+  - '624.106'
+  source_phrase: renumbered 624.106 in 2007
+- section: '624.085'
+  status: renumbered
+  year: 2007
+  targets:
+  - '624.073'
+  source_phrase: renumbered 624.073 in 2007
+- section: '624.100'
+  status: renumbered
+  targets:
+  - '624.027'
+  source_phrase: renumbered as 624.027
+- section: 657a.250
+  status: renumbered
+  year: 2013
+  targets:
+  - 329a.250
+  source_phrase: renumbered 329A.250 in 2013
+- section: 657a.280
+  status: renumbered
+  year: 2013
+  targets:
+  - 329a.280
+  source_phrase: renumbered 329A.280 in 2013
+- section: 657a.330
+  status: renumbered
+  year: 2013
+  targets:
+  - 329a.330
+  source_phrase: renumbered 329A.330 in 2013
+- section: 657a.440
+  status: renumbered
+  year: 2013
+  targets:
+  - 329a.440
+  source_phrase: renumbered 329A.440 in 2013
+- section: '659.010'
+  status: repealed
+  year: 2001
+- section: '659.020'
+  status: renumbered
+  year: 2001
+  targets:
+  - 659a.006
+  source_phrase: renumbered 659A.006 in 2001
+- section: '659.029'
+  status: renumbered
+  year: 2001
+  targets:
+  - 659a.029
+  source_phrase: renumbered 659A.029 in 2001
+- section: '659.030'
+  status: renumbered
+  year: 2001
+  targets:
+  - 659a.030
+  source_phrase: renumbered 659A.030 in 2001
+- section: '659.033'
+  status: renumbered
+  year: 2001
+  targets:
+  - 659a.421
+  source_phrase: renumbered 659A.421 in 2001
+- section: '659.037'
+  status: renumbered
+  year: 2001
+  targets:
+  - 659a.409
+  source_phrase: renumbered 659A.409 in 2001
+- section: '659.040'
+  status: repealed
+  year: 2001
+- section: '659.045'
+  status: repealed
+  year: 2001
+- section: '659.050'
+  status: repealed
+  year: 2001
+- section: '659.095'
+  status: repealed
+  year: 2001
+- section: '659.121'
+  status: repealed
+  year: 2001
+- section: '659.425'
+  status: renumbered
+  year: 2001
+  targets:
+  - 659a.142
+  source_phrase: renumbered 659A.142 in 2001
+- section: '659.880'
+  status: renumbered
+  year: 2023
+  targets:
+  - '435.240'
+  source_phrase: renumbered 435.240 in 2023
+- section: 659a.100
+  status: renumbered
+  year: 2009
+  targets:
+  - 659a.122
+  source_phrase: renumbered 659A.122 in 2009
+- section: '682.015'
+  status: renumbered
+  year: 2003
+  targets:
+  - '682.051'
+  source_phrase: renumbered 682.051 in 2003
+- section: '682.043'
+  status: renumbered
+  year: 2005
+  targets:
+  - '682.027'
+  source_phrase: renumbered 682.027 in 2005
+- section: '682.205'
+  status: renumbered
+  year: 2003
+  targets:
+  - '682.062'
+  source_phrase: renumbered 682.062 in 2003
+- section: '682.225'
+  status: renumbered
+  year: 2003
+  targets:
+  - '682.068'
+  source_phrase: renumbered 682.068 in 2003
+- section: '682.275'
+  status: renumbered
+  year: 2003
+  targets:
+  - '682.031'
+  source_phrase: renumbered 682.031 in 2003
+- section: '682.285'
+  status: renumbered
+  year: 2003
+  targets:
+  - '682.079'
+  source_phrase: renumbered 682.079 in 2003
+- section: '682.325'
+  status: renumbered
+  year: 2003
+  targets:
+  - '682.043'
+  source_phrase: renumbered 682.043 in 2003
+- section: '701.055'
+  status: renumbered
+  year: 2007
+  targets:
+  - '701.026'
+  source_phrase: renumbered 701.026 in 2007
+- section: '722.210'
+  status: repealed
+  year: 1967
+- section: '801.235'
+  status: renumbered
+  year: 2007
+  targets:
+  - '801.387'
+  source_phrase: renumbered 801.387 in 2007
+- section: '819.130'
+  status: repealed
+  year: 1995
+- section: '823.180'
+  status: renumbered
+  year: 1995
+  targets:
+  - '682.205'
+  source_phrase: renumbered 682.205 in 1995
+- section: '823.990'
+  status: renumbered
+  year: 1995
+  targets:
+  - '682.991'
+  source_phrase: renumbered 682.991 in 1995
+- section: '830.905'
+  status: repealed
+  year: 1999
+- section: '830.935'
+  status: repealed
+  year: 1999
+- section: '91.500'
+  status: renumbered
+  targets:
+  - '94.004'
+  source_phrase: renumbered 94.004
+- section: '91.505'
+  status: renumbered
+  targets:
+  - '91.500'
+  source_phrase: renumbered 91.500
+- section: '91.555'
+  status: renumbered
+  targets:
+  - '91.531'
+  source_phrase: renumbered 91.531
+- section: '91.560'
+  status: renumbered
+  targets:
+  - '91.533'
+  source_phrase: renumbered 91.533
+- section: '92.110'
+  status: repealed
+  year: 1993
+- section: '92.122'
+  status: repealed
+  year: 1995
+- section: '93.320'
+  status: repealed
+  year: 2011
+- section: '93.330'
+  status: repealed
+  year: 2011

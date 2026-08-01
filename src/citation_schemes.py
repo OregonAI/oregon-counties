@@ -175,8 +175,79 @@ register_scheme(
 #
 # This is the failure the comment twelve lines above describes — config that reads as a
 # genuine "not found" — arriving through the id rather than through the sibling.
+# ---- dispositions: a citation that resolves to nothing is not automatically a gap --------
+#
+# 856 ORS citations in this corpus have no document in ERF, and 699 of them are not gaps:
+# 430 were RENUMBERED (the text still exists, and for 362 ERF holds the target right now) and
+# 269 were REPEALED (there is no text, which is a complete answer).
+#
+# Without this the tool says "holds no document with id ors-197.296" for a section sitting in
+# ERF as 197A.350. True, and it reads as "the corpus is incomplete" — the same misleading
+# shape that produced two false coverage-gap issues against ERF (#81, #90). County
+# comprehensive plans adopted before 2019 cite the numbers that were correct then.
+#
+# The map is mirrored by `src/sync_dispositions.py` and gated in CI. Loaded once: this runs
+# per query inside an MCP server.
+_DISPOSITIONS: dict | None = None
+
+
+def _dispositions() -> dict:
+    global _DISPOSITIONS
+    if _DISPOSITIONS is None:
+        path = pathlib.Path(__file__).resolve().parent.parent / "_meta/ors-dispositions.yml"
+        try:
+            data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+            _DISPOSITIONS = {r["section"]: r for r in data.get("sections") or []}
+        except FileNotFoundError:
+            # Absent mirror degrades to the old behaviour rather than breaking resolution.
+            _DISPOSITIONS = {}
+    return _DISPOSITIONS
+
+
+def _resolve_ors(m):
+    """ORS citation -> candidate ids, plus a note when the section moved or was repealed.
+
+    THE DIRECT ID IS ALWAYS FIRST. A disposition row only exists for a section ERF holds no
+    document for, so in practice the direct id cannot win — but ordering it first means that
+    if ERF later ingests the old number, the real document takes precedence over a redirect
+    without anyone having to remember to remove a row here.
+
+    A SPLIT RENUMBERING RETURNS BOTH TARGETS AND CHOOSES NEITHER. "renumbered 197A.350 and
+    197A.355" means the section became two; picking one would be inventing the answer, and
+    the note carries the statute book's own words so a reader can see why there are two.
+    """
+    num = m["num"].lower()
+    direct = f"ors-{num}"
+    row = _dispositions().get(num)
+    if not row:
+        return [direct]
+
+    cite = f"ORS {m['num']}"
+    phrase = row.get("source_phrase")
+    evidence = f' The statute book prints: "{phrase}".' if phrase else ""
+
+    if row.get("status") == "renumbered" and row.get("targets"):
+        targets = [f"ors-{t}" for t in row["targets"]]
+        pretty = " and ".join("ORS " + t.upper().replace("ORS-", "") for t in row["targets"])
+        when = f" in {row['year']}" if row.get("year") else ""
+        part = (" Only PART of the section moved, so the target is a partial destination."
+                if row.get("partial") else "")
+        return ([direct] + targets,
+                f"{cite} was renumbered to {pretty}{when}; resolved to the renumbered "
+                f"section(s) rather than reported missing. THE TEXT STILL EXISTS — this is a "
+                f"historical citation, not a gap in the sibling corpus.{part}{evidence}")
+
+    if row.get("status") == "repealed":
+        when = f" by {row['year']}" if row.get("year") else ""
+        return ([direct],
+                f"{cite} was repealed{when}. The sibling corpus holds no text for it because "
+                f"there is none — that is a complete answer, not a coverage gap.{evidence}")
+
+    return [direct]
+
+
 register_scheme("ors-section", r"ORS\s+(?P<num>\d+[A-Z]?\.\d{3,})",
-                resolver=lambda m: [f"ors-{m['num'].lower()}"],
+                resolver=_resolve_ors,
                 corpus="executive-regulatory-frameworks")
 register_scheme("oar-rule", r"OAR\s+(?P<num>\d{3}-\d{3}-\d{4})",
                 "oar-{num}", corpus="executive-regulatory-frameworks")
