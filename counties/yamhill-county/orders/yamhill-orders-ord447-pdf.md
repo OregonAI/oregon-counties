@@ -1,0 +1,1558 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord447-pdf
+title: 'ORD447-PDF'
+doc_type: ordinance
+citation: 'ORD447-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17697/ORD447-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: aec18cd45eea6bc74c5f914fc6573e576fdf3de241a29dd989ee79e4ec214ac9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.958; figure agreement 0.690; dictionary ratio 0.935. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD447-PDF (ORD447-PDF)
+
+## At a glance
+
+OCR-derived text of ORD447-PDF. Not human-verified.
+
+## Full text
+
+—\
+            on
+       |                                                                                                                 Lyiy             :
+~)
+ fi    '          IN     THE     BOARD           OF        COMMISSIONERS                 OF       THE    STATE      OF      OREGON
+                                                                                                               Of,              2
+                                                 FOR THE COUNTY OF YAMHILL.(,
+                         SITTING              FOR THE TRANSACTION                            OF COUNTY BUSINESS.
+In the Matter of an Ordinance
+                                                                                                                                     “y
+
+                                                                              SD
+Amending the Yamhill County
+Comprehensive                    Plan,           1974,            and
+
+                                                                              HS
+the        Official Zoning Map of
+
+                                                                              HS
+                                                                                                    “ genes
+the        Yamhill County  Zoning
+
+                                                                              HS
+Ordinance                No.     310,           1982,           as
+
+                                                                              SH
+Amended to Change the Compre-
+
+                                                                              HS
+hensive Plan Designation  and                                                            ORDINANCE            447
+
+                                                                              HS
+Zoning Designation on Tax
+
+                                                                              HS
+Lots        2315-5703,                   5704,            5705,
+
+                                                                              HS
+5706,            5707,         and       5708     From
+
+                                                                              SH
+Plan Designation Agriculture
+
+                                                                              SH
+Forestry/Small Holding   (AFSH)
+to Very Low Density Residen-                                                  SS
+tial  (VLDR) and Zone Designa-
+tion        From         AF-10           to    VLDR-5;
+                                                                              SS
+
+Taking a "Reasons"  Exception
+to Statewide Planning Goal 3;
+                                                                              SS
+
+and Declaring an Emergency
+
+                  THE     BOARD           OF     COMMISSIONERS                     OF    YAMHILL          COUNTY,           OREGON            (the
+Board)    sat for the transaction of county business  in                                                                    regular ses-
+sion on July 1, 1987,    Commissioners David E. Bishop,                                                                     Ted Lopuszyn-
+ski,   and Donald D. Porter being present.
+
+                  WHEREAS,               James            and     Robert       Miller,             dba    Willamette                Pacific
+Land Company,   have applied to the Department of Planning and Develop-
+ment in order to change the plan designation and zone map designation
+on Tax Lot 2315-5703,    5704, 5705, 5706,  5707,  and 5708 from Agricul-
+ture Forestry/Small Holding    (AFSH)/AF-10  to Very Low Density Residen-
+tial  (VLDR)/VLDR-5,  each parcel constituting approximately     10 acres;
+and
+
+              WHEREAS, on May 27,                                     1987,  the Newberg/Dundee Planning Advi-
+sory        Committee unanimously                                     recommended approval of the application;
+and
+
+                  WHEREAS,               on    June         4,        1987,    the       Yamhill          County         Planning              Commis-—
+sion        unanimously                   recommended                   approval             of    the    application;                and
+
+        WHEREAS, on June 24, 1987,   a public                                                           hearing was held in Room
+32 of the Yamhill County Courthouse    on the                                                           application  and at the
+conclusion of the public hearing the Board                                                              voted unanimously to
+grant the application   and direct the staff                                                            to prepare findings of
+fact and conclusionary   findings  in support                                                           of such approval;  and
+
+        WHEREAS,   staff has prepared findings of fact and conclusionary
+findings   for approval,   and based upon such findings attached hereto     as
+Exhibits   "A" and "B" and by this reference    incorporated  herein, it
+appears  appropriate    to grant the application of James and Robert
+Miller,  dba Willamette Pacific Land Company,     as set forth above;   and
+
+                  WHEREAS,               in     order            to    approve          this       request,         an      exception            must
+be taken to Statewide  Planning   Goal                                                  3,    and based    upon   the   findings
+for an exception  to Goal  3 included                                                   in    Exhibit   "B",   the   Board   finds
+that        it     would         be       appropriate                   to    take       such       an    exception:                NOW,       THERE-
+FORE,
+
+                          YAMHILL              COUNTY             BOARD       OF    COMMISSIONERS                ordains             as       follows:
+                  THE
+
+        Section 1.                            Based upon the findings of                                  fact and conclusionary
+findings attached                             hereto as Exhibits  "A" and                                 "B" and by this reference
+
+ORDINANCE                447         -   Page         1
+                                                                                                   rin    45     PACE    889
+
+incorporated            herein,      the       official     plan    map     of    the        Yamhill           County
+Comprehensive  Plan,   1974,  as amended                         is hereby   amended    to change
+the official  plan   designation  of Tax                         Lots  2315-5703,    5704,  5705,
+5706,  5707,  and 5708 as identified on the attached Exhibit                                                    "Ee" 5
+from  Agriculture  Forestry/Small Holding  (AFSH) to Very Low                                                   Den-
+sity Residential    (VLDR).
+
+         Section 2.     Based upon the findings          of fact and conclusionary
+findings   attached   hereto   as   Exhibits     "A" and    "B" and by this re-
+ference   incorporate d   herein,     the   official   zone    map of the Yamhill
+County   Zoning  Ordinance,     1982,    as  amended   is   hereby    amended to change
+the zone   designation     on Tax   Lots    2315-5703,     5704,   5705,   5706, 5IO7
+and 5708     as    identified             on    the     attached    Exhibit        "C",            from    AF-10         to
+VLDR-5.
+
+         Section 3.  Based upon the findings of fact and conclusionary
+findings   set forth in Exhibits   "A" and "B" and by this reference
+incorporated herein,    an exception is hereby taken to Statewide
+Planning Goal 3 pursuant to OAR 660-04-018(3)     (b); and that exception
+shall be incorporated     into and become part of the Yamhill County
+Comprehensive Plan.
+
+        Section 4. This ordinance being necessary    for the health,
+safety and welfare of the citizens   of Yamhill County,  and an emer-
+gency having been declared to exist,   shall become effective upon
+passage hereof.
+
+           DONE     at    McMinnville,                Oregon,    this     lst    day     of        July,       1987.
+
+ATTEST:                                          YAMHILL        COUNTY     BOARD        OF        COMMISSIONERS
+
+                                                 Chairman                  DAVID        E.        BISHOP
+                                                                           Date:             ele         1-87
+
+                                                        “ee Forrinarnpnale
+                                                 Commissioner           (/ TED/POPUSZYNSKI
+                                                                           Daté:             7-/         —&7
+
+                                                 Commissioner              DONALD            D.     PORTER
+                                                                           Date:                  7-32-37
+
+ORDINANCE         447     -   Page    2
+                                             EXHIBIT                             "A"
+
+ (Findings adopted by the Yamhill                                  County                         Board                      of            Commissioners
+in support of Ordinance   447)
+
+                      INTRODUCTION
+
+                      The     Proposal
+
+                      The      following                 report            presents                   the        justification                       for        a        Comprehensive                        Plan
+                      Amendment                   and          Zone        Change                for           approximately                        60     acres          of        land         located            on
+                      Bald      Peak         in        northern            Yamhill                County.                   The          property               has       been        owned             by     the
+                      Willamette                  Pacific                Land             Company                    (WPLC)                     since               1965.              The          specific
+                      proposal          is        to      change               the         Comprehensive                           Plan         designation                    for         the      property
+                      from       Agriculture                      and       Forestry                  Small              Holding           (AFSH)                   to    Very             Low       Density
+                      Residential                 (VLDR)                 and         to         rezone               the     property                    from            Agriculture/Forestry
+                      Small     Holding                District          (AF-10)               to Very           Low        Density             Residential                    (VLDR-5).
+
+                      Location
+
+                      The       subject                 site        is         located                on         Bald          Peak,                 the        highest               point             in     the
+                      Chehalem               Mountains,                   just        north            and           across             Bald        Peak            Road        from             Bald         Peak
+                      State          Park.                   The          site            is     located                   approximately                        8        miles         northwest                    of
+                      Newberg           and             12        miles          south           of        Hillsboro.                     The            property              is     just         south            of
+                      the Yamhill             County/Washington                                  County boundary.                              See Exhibit 1.
+
+                      Yamhill           County                 Assessor's                      records               identify             the            WPLC             site         as         Tax         Lots
+                      5703      to     5708,            Section             15,           Township               2       South,           Range            3        West.              The         site       is     a
+                      part      of     Sunrise                 Peaks           Subdivision                      which         is         divided            into         two         parts          by        Bald
+                      Peak       Road.                  The         western                    portion           is        approximately                        eighteen              (18)         acres            in
+                      size,     zoned              VLDR-5,                and         is        not        included                in     this           application.                       The         eastern
+                      section        is approximately                          60 acres in area and comprises                                              the subject site.
+
+                      History
+
+                      The      site          has         been            the         subject               of        a      previous                 plan           amendment                     and         zone
+
+                      change         application.
+
+                      In     1983,      the            applicants              submitted                   a     plan        amendment                         and       zone         change             to        the
+                      eounty          for         the        60      acre            subject               site.             The          request               was         approved                and            the
+                      property          was            rezoned            from             AF-20            to        AF-10.                   At        the        same        time,            exceptions
+                                               pmvengre   =a
+
+                      e
+                          YAMHILL
+
+                           LAFAYETTE   ©
+
+         :       Legend                                              LAN
+Se               Wh                                                  C| [S
+                                                                 O   imi.   2mi.   3mi.
+
+             c                                    Site Location
+     7                                     .                   Exhibit               1
+                                                                                                            rx              45 mce                         882
+
+1o    LCDC       Gozls             3        and          4    were         granted.               Following                 the        zone         change,             the
+property        was         subdivided                       into     six      (6)        10      acre           parcels.                The             subdivision
+was     named         Sunrise                 Peaks            and         received            final        plat       approval               on         March           27,
+1985.          The         applicants                    have        constructed                the         road        serving           the            subdivision
+and     have         completed                     the        required          improvements                       including              the            installation
+of utilities to each lot.                          See Exhibit 2.
+
+Sunrise      Peaks          was             platted            to     accommodate                      a    perceived              need            for      10        acre
+homesites        and         woodlot                 sites.                Since          development                  of        the     subdivision,                   the
+market     for        10     acre             lots           has     proven          to    be     very          soft         and       none         of      the         lots
+in the subdivision have sold.
+
+Reasons for the Request
+
+The reasons for the request include the following:
+
+1,        There is a demand for five acre view lots in the area.
+
+2.        Rezoning               the           property               to      VLDR-5              is        compatible                  with         surrounding
+          zoning           and          development                    patterns.                  The           site        is     bordered               on          three
+          sides by VLDR-5                          zoning.
+
+3.        The          site            is     already               committed              to     residential                 development                   and         the
+          provision           of            five     acre           homesites             would            be    more            efficient           use         of     the
+          land than the current ten acre lots.
+                   Fie   45) ioe   §&3
+
+                                                WELOTT_— RO; ROAD.
+                                               MELOTT_
+                                                  _—_
+                                                                     Ex,
+EXISTING   TREES
+                                     D
+                                     o   200                 400
+
+                          Existing       Lots
+                                   Exhibit                           2
+                                                                                                                      FILM                 45            Pace          & 14
+
+                                                                                                                                                                            CS
+n.     GENERAL              SITE         INFORMATION
+
+       Topography
+
+      The       subject            property                    is         located                   on          the          north               face      of         Bald            Peak.                    A
+       drainageway                which              crosses                   the        property                     in         a        northeasterly                   direction                    is      a
+       major      physical                feature                   of         the        site.                     The           topography                   which             results              from
+       these     “combined                     factors                    is         varied                    in       degree                   and       direction                       of        slope.
+       Elevations            on         the         site        range                from                1600          feet,               at     the      southwest                       corner             of
+       the      property,                to          1300                feet            in          the             northeastern                        portion                of         the          site.
+       Slopes     vary            from         less            than            10%            on         the          more             level        portions           of            the        site,         to
+       40%      and        greater             in      the           ravine              area              of        the          property.                 See        Exhibit                  3.            At
+       the      density               proposed,                     the          property                           contains                 sufficient               level                areas             ‘1o
+       accommodate                full development                               of 5 acre                     rural home                   sites on the property.
+
+       Soils
+
+      The       U.S.        Department                         of         Agriculture                          Soil          Conservation                       Service               soil           survey
+       information                identifies                   soils            for                the          project                site         as      being               composed                      of
+       the      Laurelwood                    series.                          Four            specific                     sub-categories                          related                to        slopes
+       are     identified               for         the         site.                 See            Exhibit                 4.             In     general,            the            Laurelwood
+      series       is        comprised                     of            well-drained                               soils          which               formed              in         mixed                  soil
+       materials            on        low           hills.                 In        a        typical                 soil            profile,           the         surface                 layer            of
+       silt     loam         is         dark          brown                    and            is         approximately                            11      inches                thick.                   The
+      subsoil         is          a       35-inch                   thick            layer                of         firm,             dark         brown            silty            clay           loam.
+       The      subsoil            is       underlain                     by         a         very                 firm,             dark         reddish-brown                           silty         clay
+       which          overlies                basalt                 bedrock.                              While                  the            soils         for         the              site             are
+       identified            as          being                 Laurelwood                            series,                 the            text          of         the             soil            survey
+       information                establishes.                           1200            feet                  as          the             upper           elevation                       limit             for
+       Laurelwood _ soils.                                 The             subject                       site,          as            discussed                in      the             topography
+     * section,            contains             elevations                           that            range                  from                1300       feet            to         1600              feet.
+       This      increased                  elevation                     has-a                     significant                       effect             upon          the           agricultural
+       capabilities               of          the              site.                     An               increase                    in         winter              and             late            spring
+       precipitation,                   a 2     to         4        degree               drop             in         average                annual          temperatures,                            and           a
+                  im,
+
+                                        - MELOTT_“ROAD__—
+              I
+
+         ra             aa)
+
+38-12%
+
+12-20%
+
+20-30%
+
+30%—>
+                                 Slope
+                              Exhibit                       3
+                    A
+                    foe
+                          i
+      is
+
+         ff.
+
+         oO
+              ay
+              200   400
+
+wae           Soils
+      . Exhibit       4
+                                                                                                                         FM                  AB yee                             fof
+
+    decreese            of     20            days            in     the       annual                     growing         season              are      experienced                          at      the
+    site.           As          a            result,              the        agricultural                      capabilities                 shown              for        the         specific
+    sub-categories                  listed below                        should           be revised              downward.
+
+    Laurelwood silt loam - LuC
+
+    Occurs         on         long,               broad            ridge           tops            of     the      Chehalem                      Mountains,                    with         slopes
+    ranging        from             3         to        12        percent.                     The        soil     has        a     moderate                    permeability,                       no
+    seasonal                 high                 water                 table,                 and             little          potential                   for                 shrink-swell
+    conditions.                     The            identified                  Agricultural                      Capability                  Unit         is         IM        e-2.               The
+    woodland group is 201.                                        This series comprises roughly 36%                                              of the site.
+
+    Laurelwood silt loam - LuD
+
+    Occurs         on        steeper                sloped                areas           in        the         Chehalem               Mountains                     (12-20%                slope)
+    with      similar                characteristics                               of         LuC.                Because                   of      the          steeper                   slopes,
+    erosion         potential                      is         greater               in         areas             unprotected                      during             rainy            periods.
+    Agricultural                Capability                          Unit            is         I         e-2.            The           woodland                      group            is          2o1.
+
+<   This series comprises approximately 2% of the site.
+
+    Laurelwood silt loam LuE
+
+    Oceurs         on         the            side            slopes           of         drainageways                   on        slopes           ranging                from              20       to
+    30%.            With                the         exception                      of          increased                erosion              hazard              on            unprotected
+    slopes,        characteristics                                are        similar                to     LuC          and        LuD.                   Due             to      increased
+    slope,     Agricultural                             Capability                  is        reduced             to      Unit          IV         e-2.               The         woodland
+    group is 201.               This series comprises approximately 25% of the property.
+
+    Laurelwood silt loam LuF -
+
+    The       profile                    of             this            soil,             which                 occurs            on             steep                                               of
+    drainageways,                       is         similar              to         the          other            Laurelwood                      series          soils.                     Slopes
+    range      from            30            to     60            percent               and        erosion          hazard             is        increased.                      Capability
+    unit      is         identified                          as         VI          e-5,                with       steep            slopes                severely                    limiting
+    agricultural                potential.                                   The          woodland                     group           is          2ol.                    This                 “series
+    comprises approximately 13% of the site.
+                                                                                                                         FILA        AD           PACE         858
+
+                            1.        Septic Tank Suitability
+
+                                      LuC - Slight limitations (3-12% slope)
+                                      LuD - Slight to Moderate limitation (12-20% slope)
+                                      LuE     - Moderate               limitations      to 25%           slope,     then    severe
+
+                                      LuF - Severe limitations
+
+                            2.        Residential Site Suitability
+
+                                      LuC - Slight limitations (3-12% slope)
+                                      LuD - Moderate limitations (12-20% slope)
+                                      LuE     - Severe            limitations        (20-30%         slope)
+                                      LuF - Severe limitation (30-60% slope)
+                                      Limitations                 on     steeper        slopes             are      based       on      potential              for     slide
+                                      hazard and moderate shrink-swell potential.
+
+PT       ane                3.        Roads and Streets
+
+               c                      LuC - Moderate limitations
+                                      LuD - Moderate limitations
+                                      LuE - Moderate limitations
+£25. a             ,                  LuF - Severe limitations
+                                      Limitations are the same as those identified for residential uses.
+
+                       C.   Vegetation
+
+                            The      site     is         divided       into    two      types            of      vegetation          areas,       based         primarily
+                            on     slope.           The      less      steep        areas      of        the     site    have       been      cleared          and     have
+                            been      used         for     cultivation         of     crops         in    previous         years.           The     steeper          ravine
+                            areas,          which           are        generally            -unsuitable            for      agricultural             uses,           remain
+                            wooded.            Trees          are       primarily       second                growth       Douglas         Fir.          The     forested
+                            areas have not been managed for timber production.
+                                                                                                               FILK            45               PACE              899
+
+D.   Publie Services
+
+     1.     Roads
+
+            The      site         fronts             on         Bald               Peak       Road:                  a     paved,               two         lane           minor
+            arterial.                Bald          Peak         Road               intersects           with         Highway               219         approximately
+            six     miles            southeast                 of        the        site.              Highway             219        provides                    access       to
+            Hillsboro,           to the north,                  and       Newberg,               to the south.
+
+            A      private            road         provides               access            into        the     site.            The            road         is      1850'     in
+            length          and            ends           with            a         cul-de-sac.                The         road            is      surfaced                 with
+            asphaltie concrete.
+
+            Water
+
+            Thé      site        lies        within            the        service            area        of        the     LA        Water             Co-op.                The
+            co-op          has         a      40,000            gallon              storage             reservoir              located             just             south      of
+            the     subject             property.                    A        six-inch           main         is located              in        Bald         Peak           Road
+            along         the        frontage             of        the        subject           property.                 A      second               six-inch             main
+            is     located            in      an     easement                      along         the     southern               boundary                of          the     site.
+            This      line        provides                water                service           to      the         rural       homesites                     on         Melott
+            Road,          below           the      subject              property.                 The        LA         Water        Co-op            has          indicated
+            that      it        has        sufficient                capacity               to         serve         the       proposed                 development.
+            Based          on         earlier             development                       plans,            W.P.L.C.               has         reserved                  water
+            service         connections                    with           the           Co-op          for      this       property.                    A          4"      water
+            line     was          installed                on        the            site     when             the         property               was           subdivided.
+            The      line         follows             the           road            right-of-way                   and,        according                  to            officials
+            of      the         LA         Water            Co-op,                  the      existing               water            line         is        capable            of
+            serving the additional homesites.
+
+            Sewer
+
+            The      property                is     proposed                  to     be     developed                at      rural          densities.                    Sewer
+            will     be          provided             by            individual               septic            tanks           and         drainfields.                      The
+            existing six lots have approved septic drainfield areas.
+
+                                                                                   10
+            Electrical
+
+            Electrical             service         is        provided              to     the      property                 by      P.G.E.               Existing
+            power lines are located along Bald Peak Road.
+
+            Telephone
+
+            Phone            service         is         provided              by         General             Telephone                   Company                from
+            underground              lines along Bald                   Peak       Road.
+
+           Schools
+
+           The      project           is     serviced              by        the        Newberg             Public           School            District          29J.
+           School bus service exists along Bald Peak Road.
+
+     1.    Police        |
+
+           The      Yamhill                County            Sheriff's             Department                    and        Oregon             State           Police
+           provide police              protection             in the Bald Peak                    area.
+
+     8.    Fire Protection
+
+           The      site       lies         within           the        service           area         of        the         Newberg                 Rural       Fire
+           District. _ Response                          time           is     approximately                         18-20         minutes             according
+           to     Assistant                Fire         Chief           Ken         Andrews.                         The         Gaston              Rural       Fire
+           District          has      a     mutual            aid       agreement                 with           the        Newberg                 district      and
+           will respond              when     needed.
+
+E.   Existing Land Use
+
+     1.    Site
+
+           The      site        is        currently             vacant              although,               in        the        past,         it      has      been
+           leased        for         very     limited              agricultural                 use.             A      variety           of         crops      have
+           been         cultivated           on        the     property,                including            wheat           and         potatoes.               Due
+           to     the        elevation            of     the        property,              the         suecess              of     these             agricultural
+
+                                                                         11
+                                                                                    rin 45 nce SOL
+
+endeavors            has        been          poor.           The            property            also         contains            an     unmaneged
+stand    of     mixed             second-growth                        timber.              An          old     farmhouse                whieh         had
+
+been located on the site has been razed.
+
+Surrounding Area
+
+Properties            to         the          west,         north,            and        east       of         the         subject            site     are
+zoned         VLDR-5                   and           have           been            developed                  for         rural         residential
+subdivisions.                    The          Mel          Vista         Ridge             Estates            subdivision                is        located
+immediately                to     the         east          and        downhill            from         the       site.        Most           of     these
+home      sites            are         in      the          three        to         five     acre             range          and        have          been
+developed with single-family homes.                                            See Exhibit 5.
+
+Bald    Peak          State            Park          is     located           to     the        southwest,                 across        Bald        Peak
+Road     from          the            site.           Immediately                   to     the     south             of     the        site,       zoning
+is    AF-20      and            the      land         is    used        to     grow         Christmas                 trees.            Further         to
+the     south          and             adjacent              to        the         land          used          for         tree        farming           is
+cropland        on         which            grain          is grown.                The      LA         Water             Co-op        reservoir         is
+located approximately                          1/3 mile south of the WPLC                                     site.
+
+                                                                  12
+                                                                    FILK     45       PACE   $62
+
+ Legend                                                                                            ZN
+  WW      PUBLIC WORKS
+NEBEE
+
+          UTILITIES                                                                                          800
+                                                                                               —
+          PARK,    RECREATION,     OPEN   SPACE
+
+          LA WATER CO OP BOUNDARY                            ;               e    °                      e
+          ar-10, acnicuture, rorestay,tonc.                              LXisting             Zoning
+          AF-20,    AGRICULTURE,     FORESTRY,    20   AC.               a                         —1e
+
+          VLDR-5,     VERY   LOW   DENSITY   RESIDENTIAL,        5 AC.                       Exhibit          5
+
+                                                       13
+                                                                                                                              Fily 45 toe
+
+Ul       EXCEPTION                         STATEMENT                   TO      STATEWIDE                       PLANNING                 GOALS                 3 AND             4
+
+In     1983,        exceptions                   to      Statewide                Planning               Goals            3    and      4        were             granted                to      allow
+the     site        to    be     rezoned ‘from                        AF-20         to        AF-10.                 Since           that        time         the        site            has      been
+subdivided                into         six        lots          and      substantial                     site         improvements                           have          been                 made.
+Publie         utilities             have          been             installed        to        serve            the           lots.          A         20         foot      wide                public
+road         has         been              constructed                 within             a     50            foot            wide          right-of-way                        which             also
+carries         underground                       electrical             service               and        water               lines         to     the            lots.                  Although
+these              improvements                        have          irrevocably                committed                       the     land            to         rural            residential
+use,     OAR             660-04-018                    (3)(b)        requires            that        a        new              exception               be         taken             to        change
+the      intensity               of         the         use          within         the         exception                      area.              Because                  the             original
+exception                was     a         "Reasons"                 exception                processed               under            OAR             660-04-020,                       the      new
+exception                must         also        be      a     "Reasons"                exception               processed                  under            the         same             section.
+
+The     four          factors              in     Goal          2     Part        Il(e)        which            are           required            to        be      addressed                    when
+taking         an        exception                are         listed          below.                 Each            of       the      four            factors             is        addressed
+in the following sections.                                The factors are:
+
+         °                "Reasons                justify             why         the          state           policy             embodied                   in      the            applicable
+                          goals should not apply."
+
+         °                "Areas                which           do      not        require                a      new             exception                   cannot                 reasonably
+                          accommodate                     the use."
+
+         °                "The              long              term            environmental,                          economic,                        social              and                 energy
+                          consequences                        resulting             from             the            use         at      the            proposed                     site          with
+                          measures                    designed           to       reduce                 adverse               impacts             are            not       significantly
+                          more             adverse              than          would            typically                  result        from                the      same                proposal
+                          being located in other areas requiring a Goal exception.”
+
+         °                "The         proposed                 uses        are      compatible                      with           other         adjacent                uses             or     will
+                          be          so         rendered               through                 measures                      designed                 to          reduce                     adverse
+                          impacts."
+
+                                                                                               14
+     A.   Reasons        justify           why             the         state          policy              embodied                      in         the     applicable                       goals
+          should     not apply.
+
+          Goals      3   and        4     should               not      apply         to         the        subject               property               for          the         following
+
+          reasons:
+
+          1        The land is irrevocably committed to rural residential use.
+
+                   In     1983,           the            property             was          rezoned                for            rural            residential                   use         when
+                   the     zoning              was         changed               from          ‘AF-20             to        AF-10.                  After             rezoning,                   the
+                   property              was         subdivided                    into        six        lots.              A      road            was         constructed                        to
+                   serve        the        lots            and          utilities              were         installed.                         Each            lot         is         serviced
+                   with        water            from             the        LA        Water               Co-op             and              electrical               service               from
+                   P.G.E.               Because                 the     property               is committed                        to         development                       and         is     no
+                   longer           available                   for.        resouree                 use,         an         exception                    to          the             resource
+                   goals is justified.
+
+                   There is a demand for additional 5 acre view lots in the area.
+es
+
+                   The         Chehalem                   Mountains                  in        Yamhill                 County                have         proven                 to         be       a
+                   popular              area        for         new         residential                  development                         on      5     acre            lots.                 The
+                   area        is         attractive                    for         its          easy            access                 to         both           Newberg                         and
+                   Hillsboro              and             for         its     excellent                   views.                    For             example,                     the             area
+                   surrounding                 Bald             Peak          near          the          subject             site,            is     over            1000             feet’         in
+                   elevation              which                provides             views            to         the         south             and        west              toward                 the
+                   Chehalem               Valley               and      views         to       the        north             and      east           toward             the            Tualatin
+                   Valley.                The             summit              of          Bald           Peak          is        approximately                         9         miles             to
+                   Newberg and 10 miles to Hillsboro.
+
+                   Residential                  development                          in          the            Chehalem                      Mountains                         has          been
+                   concentrated                     in     two          districts              of        five         acre         VLDR              zoning             which                total
+                   approximately                     1594            acres.           See           Exhibit            6.          From             1980         to         1986,           there
+                   have        been            41         residential                building               permits                or          mobile            home                  permits
+                   issued       in        the            two         districts.                During             that           same              time,         the            population
+                   in     Yamhill              County                 has      grown                by      1768            persons.                     Aceording                     to         the
+
+                                                                                          15
+                            enn   45 ace GUS
+
+                                                                 D
+                                                               —
+                                                  MELOTT~ “Ro; A
+                                                    foe
+Legend
+         EXISTING   TREES
+                                        o   200   400
+
+                              Existing Lots
+                                      Exhibit            2
+                                                                               Sj
+                                                                      WAPATO   @\ j
+  WASHINGTON      CO.
+      YAMHILL   CO.
+                                                               e
+                                                                   YAMHILL
+                                                                   LAFAYETTE    @
+                                                                                                                        |
+Legend
+INNS
+                                                                                                  ©
+Req        VLDR       VERY   LOW   DENSITY   RESIDENTIAL
+——|        COUNTY       LINE
+                                                                                                             2mi,
+                                                                                                  SS       ee |
+                                                                      VLDR/Topographic     Relationship
+                                                                                      te       Exhibit 6
+                  —                                        —                                                        |
+                                                                                                                                           Ar                     Or:
+                                                                                                                          rin             40) race                SU7
+Center                      for          Population                    Research                     at             Portland                State              University,
+Yamhill                     County              had      a        population                   of        55,322            in           1980          and       57,100           in
+JOR#.
+
+If     it    is        assumed                  that     new           construction                      on        VLDR             lots        in     the        Chehalem
+Mountains                         will      keep         pace            with             projected                  population                      growth            through
+the         year              2000,             there        will         be         need           for        additional                  lots         in     the           area.
+The          Center                  for         Population                Research                      projects               a        population                increase
+of      18,100               persons             in     Yamhill                County               between               1986            and        the      year           2000.
+Based              on             this      projected                  population                     increase                 and         the         permit                trend
+established                       from          1980         to        1986,             there        will          be    a         demand              for       416         new
+housing units in the area by the year                                                      2000.
+
+Even         if               a     more          conservative                      estimate                  of     population                  growth            is        used,
+the         demand                  for         housing            will         be        strong.                   If    it        is     assumed                that         the
+county             population                    grows            by      10,000               persons              between                1986        and        the        year
+2000,         230             new          housing           units         will           be     needed              in       the         Chehalem                Mountain
+area.                       For          purposes             of         further                calculations,                       a      more              conservative
+estimate                was used.
+
+                                                                    Table            1
+
+       DEMAND                       CALCULATIONS                           FOR            CHEHALEM                        MOUNTAIN
+
+ 41 lots developed                              1980-1986
+     1,768 total population growth                                         1980-1986                                       0.023           lots per person
+
+     0.023        x 10,000                (conservative                  estimate                of
+                        .     year         2000         population                  growth)                                230           additional            lots
+                                                                                                                    "
+
+Demand                      for          five         acre        lots         is         also           apparent               from             lot         sales           data.
+Based             on          1986         information                   from             the         Oregon              Multiple               Listings               Service
+for         Yamhill                      County          and           southwest                    Washington                      County,                 73%         of      all
+sales             of         rural          residential                  lots            involved                  parcels              less         than         10         acres
+in size.
+
+                                                                          17
+                                                                                                        FILR        a5             PACE      Su8
+
+                                                         Table      2
+                         RURAL                RESIDENTIAL                    SALES           - 1980
+           Yamhill            County            and     Southwest             Washington                    County
+
+           Parcel            Size                                       .               Number               Sold                            Percent
+
+          Less than                 10 acres                                                      16                                                    73%
+           10     to 20 acres                                                                      6                                                   27%
+
+The     table          demonstrates                    that     the          market               for       smaller                lots      is        stronger
+than     the           market            for     larger        lots.                The           developers                  of         Sunrise              Peaks
+Subdivision             have            also      found          this         to        be         true.          None              of      the             six         10
+acre lots have sold even with an aggressive                                                  marketing program.
+
+Extensive               newspaper                 advertising                     has        been                used          to          market                      the
+property           with           no         results.          According                     to         Sam         Gotter,                the          Realtor
+offering          the         property,               consumers                   think:          that           ten      acre              parcels                    are
+too     large           for         rural        residential                purposes.                       Based             on           Mr.         Gotter's
+lifetime            experience                   with         rural               residential                    and          farm               sales,                 he
+believes               that             individuals                seeking                    ten              acre                parcels                   desire
+productive              land           for     intensive           farm            use.                As        noted         in          Section                II     B
+of      this           application,                   elevation              and             soils           limit             the           agricultural
+productivity                 of        the      site.           For          these            reasons,                  the         site          is         better
+suited for five acre residential use than ten acre hobby farm use.
+
+There is a shortage of VLDR                                  land in relation to projected demand.
+
+There       are        currently               1594      acres          of        VLDR             land          located              in     two             zoning
+districts         in    the         Chehalem             Mountains                  between                 Newberg                 and      the            county
+line.       Based            on     a review            of    a Yamhill                 County                 development                       map          which
+plots     existing                houses         and         permits              issued           from            1980,             there             are             163
+housing         units             scattered            throughout                 the        two            VLDR          districts.                   If         it     is
+assumed           that            each         housing         unit          is     located                 on      a     five             acre             parcel,
+815     acres          are        developed             and     769          acres           are        vacant.                    The       769            vacant
+
+                                                              18
+                                                                                                                            K         45       PACE           gE9
+
+     acres         can        accommodate                        153       new           dwelling                units            assuming               1      dwelling
+
+     per     5     acres.                  With      the         projected                   demand             for         230        new         dwelling              units
+     in     the         Chehalem                Mountain                area            by        the         year          Zb6u6,         there             will        be      a
+
+     shortage            of      VLDR             land      needed             to        accommodate                            the     projected                   demand
+     for rural residential                      homesites.
+
+                                                                ‘Table         3
+                         CALCULATIONS                            - LAND                 REQUIREMENTS
+
+                                 163 units of existing development
+                               x 5 acre minimum                            lot size
+                                 815 developed acres
+
+                                 1594 acres of existing VLDR                                            land
+                                 -815 developed acres
+                                  769 vacant acres
+
+                                 769 vacant acres divided by                                        5     =      153 units
+fl
+     Need:                        230 units (See Table                             1)
+     Less:                       -153 units
+                                      77        ~+unit     shortage                  x        5     acre         lot            size       =       (385         acre
+                                  shortage) or 6 lots per year
+
+     Because             the       demand                for           lots        in         the         Chehalem                     Mountain                 area            is
+     primarily            based            on      the          elevation                and            views,         it       is     unlikely               that            the
+     area        will     ever         fully         meet            the       projected                  demand.                      Much         of        the         area
+     is     steeply            sloped             and           many           parcels                   do      not             have          views                of        the
+     valleys.           These areas will be the last to develop.
+
+     However,              the        subject            property               does              possess             the         qualities              that            make
+     it      attractive                for         rural             residential                    development.                               The             property
+     offers        excellent                views          of        the       Tualatin                  Valley             and        provides                adequate
+     buildable           land         area         for          11     five         acre            lots.             Because                the      property                  is
+     well         suited         to         meet           the          demand                    for         residential               property                    in        the
+     Chehalem             Mountains,               an exception                    should           be granted.
+
+                                                                        18
+                                                                                                                                                     cin 45 vce OL
+     Areas            which         do        not        require           a        new          exception                  cannot         reasonably                  accommodate
+     the     use.
+
+     Currently                1,554           acres           in     the            Chehalem                    Mountains                are        zoned             for     five       acre
+
+     development.                          As           demonstrated                       in     the          previous              section,             approximately                       769
+     acres           are       vacant.                   Based           on          the         demand                   ealeulations              for        rural         residential
+     view            lots,      the           demand                greatly                exceeds                  supply.              To          meet             the     projected
+     demand             an    exception                 is needed.
+
+     As         stated          previously,                        the         qualities                   that            make          the             area         desirable               for
+     residential               use            include              views             and         easy               access          to     Newberg                and         Hillsboro.
+     In      the        vicinity              surrounding                  Bald             Peak,              there             exist     excellent                  views         to        the
+     northeast                and          southwest                 for            most         properties                      over      1300           feet         in     elevation.
+     See         Exhibit              6.                The          following                   table               provides              zoning              information                    for
+     properties over 1300 feet in elevation.
+
+                                                                                      Table           4
+
+             ZONING             AND             DEVELOPMENT                            - PROPERTY                               ABOVE       1300 FEET                   MSL
+Gs
+
+                                    Zone                                                              Acreage                                        Existing Units
+
+                                    VLDR            5                                                 246.8                                                      42
+                                 AF-10                                                                    60                                                      0
+                                 AF-20                                                                693.6                                                      27
+
+     If    it      is        assumed            that          each             of     the        existing                   42     units       in        the      VLDR              5    zone
+     occupy             five        acre            lots,          only             36.5         additional                      acres     are            available            for        five
+     ‘acre         homesites                  above           1300             feet.                 The            36.5         acres     can            accommodate                    only
+     seven            more          homes.”                   As’ demonstrated                                 in         the     previous               section            there        is     a
+     strong demand                    for additional five acre view lots.
+
+     The        60       acres           of     AF-10              property                 included                 in     the      table          is     the        property           that
+     is the subject of this application.
+
+                                                                                                20
+                                                                                                                                                                           ft                         O4-
+                                                                                                                                                        FILE          A5              PACE            GF
+
+     The       693.6                 acres            of          AF-20                property                 above                 1300             feet       is            classified                   as
+     resource                 land        and              must            go         through             the        exception                     process                 if        needed                for
+     Geveclopment.                            An           €xcepiion                   to         the         resvuurce               goals            wes        grauled                       for        ihe
+     subject            60      acre           site        when             the        property               was      rezoned               from             AF-20              to        AF-10             in
+     1983.               It        is     more              appropriate                      to         encourage                rural            residential                        development
+     on land which is not designated for resource production.
+
+     The      long              term            environmental,                               economic,                 social               and             energy              consequences
+     resulting                from             the          use        at         the         proposed                 site           with             measures                  designed                    to
+     reduce             adverse                 impacts                    are         not          significantly                      more                 adverse                  than             would
+     typically                result            from                 the          same             proposal              being               located                  in         other                areas
+     requiring a Goal exception.
+
+     The      proposed                   change                 in      land            use         designation                   will        result             in         only             a        minor
+     change             from             what              is     currently                   approved                for         the         site.               The                property                is
+     eurrently                zoned            AF-10                 and        has         been         subdivided                   into        six         lots.              Approval                    of
+     the     request                    will          add            the          potential               for        five             additional                 lots.                     For             this
+     reason             the             environmental,                            economic,                   social          and            energy               impacts                        of        the
+     proposal           are minimal.
+
+     The      impacts                    of        rezoning                     the         subject             site         for         rural               residential                     use           are
+     less     than             the        impacts                 of        rezoning                other           properties                    on        Chehalem                      Mountain.
+     The      subject                   site          is        currently                   committed                   to         residential                   use             due             to        the
+     existing            subdivision                       and         site            improvements.                             All         other             land             in         the          area
+     that     could             be       rezoned                  to       meet             the     demand              for           new         VLDR           land                is    currently
+     zoned         AF-20                and        must              also         go        through            the      exception                      process.                      The          subject
+     site     is        currently                    zoned             AF-10,                 and         because                it      abuts               VLDR               land.             and        is
+     committed                  to       residential                   development,                       the        impacts                 of        rezoning                 it        for         VLDR
+     use are less than if AF-20 lands were rezoned.
+
+     Because             the            property                will         be        served            by     the         LA         Water                Co-op,              no         individual
+     wells     will            be       required                to     accommodate                            the      development.                            According                         to     John
+     Rehm          of        the        Oregon              Department                      of     Water            Resources,                     the        Bald          Peak             area          has
+
+     experienced                    water             problems                   in     the        past.             Due         to      the           elevation                 of         the         Bald
+     Peak          area,                groundwater                         recharge                    occurs           only            on            a_      perched,                      localized
+ot
+
+                                                                                                  21
+                                                                                                                                                rien           AD. race                 Gi;
+
+basis.               Because              the        property                    will        be             served           by          the         water             co-op,             the
+development                  of      the            property               will          not            contribute                  to        further               depletion              of
+groundwater                in the        area.
+
+The       proposal                will      place           a         small             additional                   burden              on          public           services              in
+the      area          and         additional               energy                use          for           the          increased                  number            of        homes.
+However,              the         services            are        adequate                    to         handle              the         growth             and        the        energy
+
+impact         is small.
+
+The      proposal             will        result           in        an        improved                     county          economy                  due         to     substantial
+capital         investments                    in     new            homes              on     the           site.            If        eleven            new         homes             with
+an      average             value          of        $100,000                   each           are           built          on      the             property,              the          total
+capital          investment                     is     over               $1        million.                         This           investment                      will         benefit
+local      construction                    firms           and            building             supply              stores.                    The         new          homes             will
+also      provide            new         tax         revenue               for      the           County.                   Based              on     the           1986      Yamhill
+County           mileage             rate            and        an         assessed                value             of       $1         million,              the         residences
+would           contribute                 $3,230                per             year             in         county                taxes             or         $18,400                 total
+property tax.
+
+The      proposed                uses       are        compatible                       with            other             adjacent              uses           or      will       be       so
+rendered through measures designed to reduce adverse impacts.
+
+The      site         is     surrounded                on            the         north,                east,         and           west         by        rural            residential
+use      and         VLDR-5              zoning.                To        the      south               is    a     small           Christmas                   tree        farm          and
+eropland.                  The      tree            farm        and            cropland                 abut         VLDR-5               land            to     the        east         and
+there          have         not          been         compatibility                          problems                  in         the      past.                    There          is      no
+Teason          to         believe         that            compatibility                          with           the         subject                property               would           be
+any different.
+
+                                                                                    22
+                                                                                                                                                         A     oe
+IV.       YAMHILL COUNTY COMPREHENSIVE PLAN                                                                                                FILH         “eed ace
+
+The    proposed        Comprehensive                 Plan         Amendment                           and            Zone             Change                is     in       conformance
+with      the     goals    and      policies               of     Section                B            "“Rurel               Area                  Development"                          of          the
+
+Yamhill          County    Comprehensive                        Plan.              The             goals                  and         policies                   for        this        section
+are    listed      below   followed           by      our         comment                    on        the            applicability                       of           each        goal             and
+policy.
+
+          Goal    1.       To      provide           an         adequate                amount                   of        land,             development                        areas               and
+                           sites        to     accommodate                         those               uses               which              are          customarily                         found
+                           in      rural            areas             or      require                      or             are          better                suited                to          rural
+                           locations,               without                 compromising                                  the          basic                goal            relating                 to
+                           urban containment and orderly urban development.
+
+                           Comment:                      The          subject            site              is        committed                       to          rural          residential
+                           use.          The         proposed                request                  will            decrease                    the            average              lot          size
+                           on     the        site        from          a     10        acre           minimum                         to      a    5        acre            minimum                  to
+                           allow         a        total          of         eleven                lots           on             the          site.                 Section                   III     of
+                           this         application                     demonstrates                                 that              there                is          a       need                for
+                           additional               five        acre         view             lots              in        the         Chehalem                         Mountains                    and
+                           that      the           current                 inventory                  of         lots            is         insufficient.                          Granting
+                           this     request              would              address               the            need            in         conformance                         with               Goal
+                           1.
+
+          Policy la.       Yamhill             County                 will        recognize                          the             lands             designated                       on          the
+                           plan         map         as          Agriculture/Forestry                                       Small              Holding                   (AFSH),                    Very
+                           Low       Density                Residential                      (VLDR)                       and          Low             Density                 Residential
+                           (LDR)             as       the             appropriate                          and             desired                 location                     for            rural
+                           residential               development,                        while                  at         the             same             time               encouraging
+                           opportunities                    for            small             scale                   or         intensive                        agricultural                       and
+                           forestry activities within these plan designated areas.
+
+                           Comment:                   The         proposed                   plan           map            designation                       is        VLDR.                  When
+                           the     property                is     developed,                      a        range                of         lot     sizes                will       be         made
+                           available                from              approximately                              three                 acres                to          approximately
+                           seven         acres.                   The         average                      lot            size             will        be         just          over               five
+
+                                                                                  23
+                                                                                                                                    FILK          45             PACE         Gid
+
+                   acres.              The            larger                   parcels        on         the          site               will          provide                the
+                   opportunity               for            small               scale        agricultural                      use,             but         as          stated
+                   in       Section             IJ         B         of         this        application,                      elevation                     and_         soils
+
+                    im Mt      the e                                                                      of          the           pro
+
+                   on        these              limitations,                          the      site             is             better                  suited                 for
+                   residential             use             than                agricultural              use,             especially                       considering
+                   the excellent views available from                                          the property.
+
+      Policy 1b.   All      proposed                 rural           area             developments                    shall               be          based             on      a
+
+                   reasonable             expectation                      of        the    demand              for           the        use          of    such             land
+                   or       facilities               within                a         reasonable            period                   of           time             and          no
+                   large-scale development shall be approved without:
+
+                   a.         the         submission                       and          approval               of         a         layout                 and          design
+                              concept,                 with               provision           for         the             staging                and             servicing
+                              of all phases of the development:
+
+                   b.         the         approval                 of          all     Federal           and          State               agencies                 relative
+                              to          any              applicable                   health,           safety                    and           environmental
+[iN
+
+                              controls; and
+
+                   ec         an       adequate                    demonstration                    of     the            financial                   capacity                and
+                              responsibility                          of             the      proponents                        to              complete’                     the
+                              development                          and          provide        for         operation                      and          maintenance
+                             ” services.
+
+                   Comment:                  It        has         been          demonstrated                   in. Section                      III        that         there
+                   is    a need        for           additional                  VLDR        land        in         the        Chehalem                     Mountains.
+                   This       request                for       a          Plan         Amendment                     and            Zone              Change                 only
+                   changes          the      land              use         designation              of     the            property                and            does         not
+                   constitute              approval                       of         the      development.                                      All          necessary
+                   information               required                     by         items         a,     b,          and            ¢          above             will         be
+                   provided when                     the property is subdivided.
+
+                                                                          24
+                                                                                                                                                                          O4AE
+                                                                                                                                    rin 40 mce GLO
+     Policy   le.    All proposed rura] area development                                                  and facilities:
+
+                     a.        shall           be          appropriately,                       if         not         uniquely,                 suited              to      the
+                               area        or sile proposed                            for development;
+
+                     b.        shall           not          be      located                in        any         natural                hazard               area,         such
+                               as         a             floodplain                 or         area          of          geologic                  hazard,                 steep
+                               slope,               severe             drainage                 problems                    or      soil         limitations                 for
+                               building or sub-surface sewage                                              disposal, if relevant;
+
+                    Ce         shall          be          furnished                with         adequate                   access          and          an      adequate
+                               individual                  or      community                         water             supply,             if     required;                 and
+                            - shall            not          be      justified                  solely            or         even         primarily                  on      ‘the.
+                               argument                    that             the         land         is     less            costly          than             alternative
+                               better               sites         or         that         Federal                or         State          aid          is      available
+                               in      the               form          of          subsidized                water                 supply              or       sewerage
+                               extensions from nearby urban centers.
+
+                     Comment:                      It     has      been             demonstrated                       that          the         subject             site      is
+SS
+
+                    appropriately                       suited         to         the     proposed                    use         due       to         its      elevation
+                    and     views,            the          availability                  of      public               water,             and       the          adequacy
+                    of      other         necessary                     public                services.                          While           the          site         does
+                    contain           some                 steep                 areas,           at         the                 proposed                   density           of
+                    development                          there              are _        sufficient                     areas              of            less             steep
+                     topography               to         accommodate                      rural           home             sites.          It     has          also       been
+                     demonstrated                        that       the             soils            are         generally                  suited              to          sub-
+                    surface         sewage                       disposal.                      While                 erosion               is          a _     potential
+                    problem            on                steeper              areas             of          the              site,          no              major           soil
+                    limitations                for         single                family           residences                       exist          in          the         areas
+                    "planned        for            homes.                    Aecess,            via          the           existing              road          and          Bald
+                     Peak      Road,           is        adequate                 for     the         level           of         development                    proposed.
+                     Water is available from                                the LA Water                    Co-operative.
+
+     Policy 1d.      No      proposed                      rural              area              development                          shall              require’              or
+                    substantially                   influence                    the       extension                    of         costly              services              and
+                    facilities         normally                        associated                    with             urban              centers,               such          as
+
+                                                                            25
+                                                                                                                                  rid          45 re                      GE
+              municipal               water                supply             and            sanitary             sewerage                        or         power,            gas
+              and        telephone’                        services,                    nor             shall          it           impose                     inordinate
+              additional                 net           costs            on         mobile,                centralized                         public               services,
+              such       as         police                 and         fire        protection,                    school                 busing               or         refuse
+
+              collection.
+
+              Comment:                         The         use        proposed                for       this      site            will        not            require           the
+              extension                  of           additional                    services.                          Water                   and_            electrical
+              facilities             exist             on         the         site            and         the         proposal                     will        result            in
+              fuller           and                  more              economical                        utilization                     of             the          existing
+              utilities.                       Sub-surface                    sewage                 disposal,                which                    is     suited            to
+
+              rural      areas,                 is     planned.                        The          level        of         development                            is     at     a
+              low      rural          density,                   (1     -unit           per         5      acres),                and          will           not        place
+
+              inordinate burden on existing rural services.
+
+Goal 2.       To       accommodate                          the        demand                 for        rural         residential                          development
+              at     very          low          densities               and        in        areas         which             are             not            amenable            to
+              integrated                  neighborhood                            designs,                 provided                      such                areas             are
+              suited          to      the            uses             intended                and         exhibit             high             amenity                   value,
+              and      such          developments                           do         not      pre-empt                    farm             or         forest           lands,
+              or generate inordinate service demands of their own.
+
+Policy 2a.    Yamhill                County                      will             continue                  to             recognize                          that             the
+              appropriate                  -        location                  of             very               low               density                     -residential
+              development                      is     in     designated                  large           areas             where              commitments                       to
+             “such            uses                  have              already                  been              made                   through                     existing
+              subdivision,                     partitioning,                      or          development                         and              by         virtue            of
+             “ elose        proximity                       to          existing                urban                 centers;                     or         in         small,
+              limited              areas               having.                unique                scenic,                locational                        and          other
+              suitable              site             qualities                where             the             anticipated                        magnitude                    or
+              density          of        development                         is    not         such         as        to      require                   more            than      a
+              very          basic               level             of          services,                   such              as_          single                local-road
+              access,                individual                         domestic                        wells               and                   sewage-disposal
+              systems, and possible rural fire protection.
+
+                                                                       26
+                                                                                                                                              Ar                    a4
+                                                                                                                              sy 3 residential
+                                                                                                                                       me GF
+             Comment:                     The          property                       is     committed                        to rural
+             development.                       The          substance                       of      the             request             is        whether            the
+             property         develops                 at        a      density               of      one            unit          per        five        acres           or
+             one     unit          per           ten                                         The                             is      well            suited              for
+             increased             densities                     due             to          the          excellent                   views               and         the
+             existing         utility            system.                              The          site         is         compatible                    with         the
+             surrounding             land          uses                and             is     surrounded                      on         three           sides           by
+             VLDR       zoning.                  Access,                    water,           sub-surface                      sewage               disposal           and
+
+             fire protection              are all adequate                                 for the additional density.
+
+Policy 2b.   Yamhill               County’                  will                 continue                  to              recognize                     that         the
+             appropriate                   location                         of              very               low                density                residential
+             development                   is          in            designated                      small                 holding             areas                where
+             reasonable                   opportunities                                for            agricultural                            and           forestry
+             activities             exist              and              where                 the          anticipated                        magnitude                  .or
+             density         of     development                             is    not        such          as        to      require               more         than           a
+             very       basic            level              of         services,                    such             as           a _ single             local-road
+             access,               individual                        domestic                        wells                  and               sewage-disposal
+             systems, and possibly rural fire protection.
+
+             Comment:                    The       policy                   is    satisfied               by         the          request           because              the
+             magnitude              of     the          proposed                       development                        will      not        cause            a    need
+             for     urban               level          -services.                            An           existing                 aecess               road            will
+             provide              access           to                the           development                             and _      individual                    septic
+             systems          will         be         provided.                             The       site            is      within               the     Newberg
+             Rural      Fire         District.                         In        addition,                the         range          of        acreages               that
+             will       be          provided                     in              the          development                           will            create               the
+             opportunity                   for               small                     scale              agriculture                         and           woodlot
+             operations.
+
+                                                                        27
+                                                                                                                                                                 FILK            45          PACE      918
+
+       Vv.      ZONE         CILANGE                 CRITERIA
+
+       Approval         of     a         request               to     change            ithe        Zoning                Map            designation               on        a        site      must         be
+       based         upon          the     following                   provisions                   of          Section                  1207          of        the         Yamhill                 County
+       Zoning        Ordinance:
+
+       A.       That         the         proposed                   amendment                  is    consistent                      with         the           goals        and            policies         of
+                the Comprehensive                           Plan.
+
+                Comment:                   See            Section            IV     above            for            a     discussion              of        the        goals            and         policies
+                of the Comprehensive                                 Plan.
+
+       B.       That         there             is         an         existing                demonstrable                          ‘need          for            the         particular                    uses
+                proposed                 for        the             property             once                 the         zone            is      changed,                   considering                    the
+                importance                of        such            uses      to        the         citizenry                 or      the        economy                of        the         area,         the
+                existing            market                demand              for            any         goods             or        services               which                such         uses         will
+                provide            and         the         presence                or        absence                    and        location                of      other              such          uses     or
+
+                similar uses in the area.
+
+                Comment:                   See            Section            III    for           discussion                  of      public           need.             The            need          exists
+                within             the         planning                    time              frame                  applicable                   to          the         Yamhill                     County
+                Comprehensive                         Plan             and          Zoning                    Ordinance.                          In            order            to          provide             a
+                reasonable                choice               of     VLDR              sites        to            meet            the      need,           the         request               should         be
+                granted            at     this            time.            There             is     insufficient                      acreage               currently                  zoned          VLDR
+                to     accommodate                         the         projected                    demand                 for           rural         residential                    homesites               in
+                the Chehalem                   Mountains north of Newberg.
+
+       C.       That          the         proposed                    amendment                          is         timely,               considering                    the            pattern              of
+                development                    in         the        area,         surrounding                           land         uses,           any         changes                which             may
+                have         occurred                in        the      neighborhood                          or         community                    to        warrant               the      proposed
+                amendment,                     and          the         availability                     of             utilities           and            services               to         serve          the
+                proposed uses or other potential uses in the proposed zoning district.
+
+                Comment:                        The             proposal                is        timely.                       All         services                necessary                   for         the
+                development                    of         the         property,                   including                   public             water,             currently                  exist         at
+                the site.
+Pano
+
+                                                                                                     28
+The     proposal              fits         the         pattern          of     land             use         in        the      area.                 Surrounding                 the
+site    to      the         north,          east,        and         west,              the         existing            VLDR-5              land            is        parcelized
+
+and developed                with single family homes.
+
+Thet         there          are       no         other           lends             in         the          County             already                zoned              for      the
+proposed              uses,          or,          if         there           are              such          lands,             that         they                 are          either
+
+unavailable or unsuitable due to location, size or other factors.
+
+Comment:                    While          there         are         other           lands            in        the         County         already                    zoned      for
+VLDR-5           development,                          the        availability                      of       such             land         in         the              Chehalem
+Mountains              is     limited.                    The         area              is      extremely                    desirable                for             residential
+development                 because              of     good         views              and          easy         access            to     both             Newberg             and
+Hillsboro.                  The       most.            desirable             properties                    are         those             above         1300             feet      in
+‘elevation.             Based          on        USGS            maps         and            maps          of     county             development                       patterns,
+there     are         246.8        acres          of     VLDR            land            above             1300        feet         MSL         in     the            Chehalem
+Mountains.                   The       development                       maps                 indicate                that      there            are             42      existing
+dwelling        units          within            the         VLDR            areas             above             1300         feet.             If     it        is     assumed
+that     each          unit          occupies                5   acres             of         land,         only             36.5        acres          are            available
+for     new      development.                            The         demand                   for        rural         homesites                in      the            area      far
+exceeds       the existing supply of VLDR                                     land.
+
+                                                                              29
+                                                                                                                                                  FILM      AS               PACE         920
+
+                                                                                                                                                          i; i
+VI          SUMMARY
+
+The      proposed          Comprehensive                   Plan        Amendment                          and        Zone           Change            for     this            site         will
+provide       additional              VLDR-5          zoned            homesites                     with            excellent               views.                The              site      is
+
+located        on      Bald          Peak       in     an         area            of        existing                 rural           residential                  development.
+Public       facilities          currently            serve            the         site         and             are         adequate                for           the          proposed
+development.                     The          existing             property                    is             committed                      to       rural              residential
+development            and       is     currently            subdivided                     into              six     10         acre         lots.               The          proposal
+makes        more          efficient          use     of      the        land           and              existing               utilities           by      increasing                     the
+density and providing a range of parcel sizes.
+
+It    has     been         demonstrated               that        the        existing                    supply            of       vacant            VLDR-5                   lands         in
+the     Chehalem             Mountains              north     of        Newberg                     is        limited            and         that        there           is         a     need
+for    additional            sites     to      meet         projected                  needs              to        the         Year         2000.                The          proposal
+complies            with       the          locational            policies                of             the         Rural             Lands             section                of         the
+Comprehensive               Plan.
+
+It    has    been      demonstrated                  that         an     exception                       to         Goal        3      and        Goal        4         is     justified
+to    inerease        the       density         from         AI-10           to        VLDR.                        The         proposal            complies                  with         the
+criteria       of      the      Yamhill              County            Zoning               Ordinance                       for        reviewing                  zone                  change
+requests.             Given           all      of     these            factors,                it         is         appropriate                   that           the          Planning
+Commission           and Board of Commissioners                                   approve                the request.
+
+                                                                                       30
+                                                                                          EXHIBIT B
+                      FINDINGS                 OF FACT                          AND              CONCLUSIONARY                                  FINDINGS
+                                        FOR             APPROVAL                                OF DOCKET                     PAZ-1-87
+
+As   The       applicants                 submitted                             a          report             to          Yamhill                    County               justifying                   the
+     requested         plan         amendment/zone                                         change             on     April               16,        1987.               The         information
+     contained          in         that            report                  is            incorporated                    by         this            reference                  and         provides
+     additional        findings                in            support                     of      the         request.                     A          copy         of          the         report         is
+     attached to the Ordinance                                    as Exhibit A.
+
+     The     applicant            has     requested                         a plan                   amendment/zone                            change             from          AFSH/AF-10
+     to     VLDR/VLDR-5                       on        approximately                                 60      acres.                The         property                 is     part            of     the
+     Sunrise         Peaks          Subdivision                            and             is        platted         into            6         parcels            of          approximately
+     10 acres        each.
+
+     In      1983,           the          Yamhill                          County                      Planning                 Commission                             and               Board          of
+     Commissioners                 approved                      a plan                  amendment                 and zone change                           from             an AFLH                plan
+     designation             and          AF-20                   zone                   to          the      present                AFSH/AF-10                          designation.
+     Exceptions              to      Goals              , 3            (Agricultural                          Lands)            and             4      (Forest                 Lands)                were
+     approved as part of the 1983 action.
+
+     Yamhill          County                  provided                          the              Department                         of         Land               Conservation                        and
+     Development                  (DLCD)                with               notice               of     the         1983        application                   in        accordance                    with
+     post-acknowledgement                               procedures.                                  DLCD           did       not         object            to     the          exception               to
+     the    resource              goals        or        to           the            rezoning                of     the        property               from              AF-20             to          AF-
+     10.
+
+5.   Based      on      the         1983                approval                         of      the         Plan         Amendment,                         Zone              Change,                and
+     Exception,          the            protection                          of                resource              land            is         not      at          issue                with         this
+     application.                  The         property                             is         zoned          AF-10             and            is      not         subject                 to        EFU
+     zoning     requirements.                                    By         the               action          taken            in         1983,         Yamhill                     County            and
+     DLCD            have _         recognized                              that                 the              subject                property                  is          appropriately
+     designated              for          rural                   residential                              development.                               The               focus              of         this
+     application             is         the             increase                          in         potential                development                         density                  from             1
+     dwelling/10             acres             to            1         dwelling/5                          acres         and             compatibility                        with         adjacent
+     uses      and       agricultural                             operations                          in      the         vicinity.                              Approval                  of         this
+     application              results                   in             a            potential                     increase                of          six          additional                        rural
+     residential         parcels                   at            the        summit                     of         Bald         Peak             in     an         area              of         existing
+     rural residential development.
+                                                                                                                                               FILM             45       pAb             Geo
+                                                                                                                                                                                                 ad
+ Yamhill         County                 provided                 notice              of      the            current            application                       in      accordance
+ with    County                procedures                  and        post-acknowledgement                                     referral               requirements.                           <A
+public          meeting                 was            held               before             a         neighborhood                        advisory                     group,              the
+ Newberg-Dundee                        PAC,          on May               27, 1987.               The         PAC            recommended                        approval                 of the
+request         by        unanimous                  vote.                 Primary                reasons           cited            by        the             PAC           in     support
+of their action were:                                                                                                                                      ,
+
+°        The         site         is     a      pocket               of      AF-10               land         which            abuts           VLDR-5                    zoning            and
+         smaller parcels on three sides.
+
+fo)      The             owner           of         the          Christmas                   tree           farm             operation                 adjacent                     to      the
+         southern                boundary                  of        the        site        testified              in        support            of             the      change             and
+         indicated                 that             the          minor               increase                in     density                would                 not              introduce
+         conflicts with his operation.
+
+°        The             subject             property                lies        to         the         north            and         downhill                   of       Bald             Peak
+         State             Park.                Development                           of         additional                  homesites                 at             this         location
+         will            not      conflict                 with            view            corridors                from            the         park.                    The             State
+         Parks             Division                  indicated                  that             the         proposal                did            not              conflict             with
+         their interests.
+
+°        There             will         be      a     need            for         additional                  5-acre            parcels               in         the          Chehalem
+         Mountains                     during             the        time            frame             of     the            County            Plan.                   The          subject
+         property                 provides                 the             most            appropriate                       location                for             VLDR            zoning
+         because                 of          the           surrounding                      pattern                of          development                            and           zoning;
+         adequacy                 of         facilities               to        accommodate                        the         density;               and             compatibility
+         with adjacent                       uses.
+
+The      Yamhill                County               Planning                   Commission                        conducted                a         public              hearing             to
+review          the            request               on         June            4,         1987.                   The         Planning                        Commission,                   by
+unanimous                vote,         recommended                          that          the      Board            of        Commissioners                            approve              the
+request.                 There           was         no          opposition                 presented                   to     the         plan                amendment/zone
+
+ehange.              A     neighboring                    Christmas                  tree        farmer            who         spoke           at      the            PAC          meeting
+also      testified                in         support                 of        the          change                at         the          Planning                     Commission
+hearing.             Findings                cited              by        the         Planning                    Commission                    in             support             of       the
+ decision        were              similar                to         the         Newberg-Dundee                               PAC              findings                 summarized
+ above.
+                                                                                                                                              rik 49 poe                                     ee)
+
+     On     May          26,         1987     DLCD              forwarded                   a letter          to       the         County            expressing               concerns
+     regarding                  the          adequacy                      of         the          findings               contained                        in.     the            original
+     submittal             (See             Exhibit             A).         The         letter              from        DLCD                  was          entered            into           the
+     record         of         the     proceedings                    at        the     Planning              Commission                       hearing.                  An       excerpt
+     from     the DLCD                  letter is highlighted below:
+
+     The       subject                 property                 is          within            an            exception                   area          and           is        currently
+     committed                  to     six         10         acre         lots.             The        proposal              is        to     change              the        plan       and
+     zoning         from             AF-10          to        VLDR-5               which           allows          a     density              of     one          dwelling             per         5
+     acres.               Because              the            proposal                allows            a     change               in         the      existing               level            of
+     development,                      the         requirements                         of        OAR              660-04-018                      apply.                 Since              the
+     proposal             states             that         the         original               exception                 was         a         "reasons"             exception                  (p.
+     14),     the         new          exception                must             also        be     a        "reasons"                 exception                 (OAR          660-004-
+     018 (3) (b)).
+
+9.   The      four        factors             in        Goal          2     Part        M(c)        which              must         be        addressed                when        taking
+     an exception are listed below.
+
+     °        "Reasons                  justify                why          the         state           policy           embodied                     in         the       applicable
+              goals should not apply."
+
+     °        “Areas                  which              do      not            require            a         new         exception                    cannot               reasonably
+              accommodate                      the use."
+
+     °        "The                   long-term                   environmental,                               economic,                        social              and             energy
+              consequences                          resulting                   from          the            use         at            the          proposed               site         with
+               Measures                 designed                 to         reduce                adverse              impacts                 are          not          significantly
+               more             adverse                 than          would             typically              result              from              the         same _ proposal
+              being located in other areas requiring a Goal exception."
+
+     °         "The            proposed                 uses          are        compatible                   with           other            adjacent              uses          or     will
+              be so rendered                       through                measures            designed             to reduce                 adverse             impacts."
+
+     Each of the four factors is addressed in the following findings.
+                                                                                                                                                                         FN AD pape                              wh’2 4
+
+10.   Reasons         justify            why                     the         state                 policy                  embodied                        in         the       applicable                      goals
+      should not apply.
+
+              In     1983,         Yamhill                       County                 approved                       a     plan           amendment                          and         zone            change
+              for     the         subject               property                       from             AFLH/AF-20                              to         the          current               AFSH/AF-10
+              designation.                             Therefore,                                this         property                      has                already              been                excepted
+              from          the         provisions                           of         Goals                 3         (Agricultural                            Lands)             and             4      (Forest
+              Lands),             and         it            is         irrelevant                       at            this        point               to             argue          that           the          state
+              policy        embodied                        in         Goals                 3     and            4        should           not             apply.                  "Reasons"                   cited
+              in     support              of            the             original                      exception                      included:                        impact             of         elevations
+              on           agricultural                                 productivity;                                      impact                         of             surrounding                            rural
+              residential                development                                    on              agricultural                        use                 of      the          property;                    and
+              need for parcels appropriate for small woodlot development.
+
+              The           use           proposed                                in              the                 current                   application,                             5-acre                 rural
+              residential                development,                                       is        targeted                       to         an          acknowledged                                exception
+              area.         The          amount                         of         land                 committed                          to             non-resource                        use         is      not
+              increased                 with                     approval                        of           this            application.                              The          type                of       use
+              proposed             for             the             property,                          rural             residential                        homesites,                    is        the          same
+              use that was approved with the original exception in 1983.
+
+              The          application                            represents                            an            increase                       in          potential                    development
+              density         from                 1         dwelling/10                              acres             to       1         dwelling/5                       acres.                 The          level
+              of      density                 proposed                        is            clearly                          rural              and              will         not             require             the
+              extension             of             urban                facilities                       and               services                   or             result         in        urban             level
+              development                     outside                   of         a         UGB.                 Facilities                are            in         place         and            adequately
+              sized to accommodate                                       the rural density of development proposed.
+
+11.   Areas        which      do        not            require                a new                     exception                     cannot                reasonably                    accommodate
+      the use.
+
+      a.      As      noted              in            the             applicant's                           April               16,         1987                    submittal                to          Yamhill
+              County,             there                are             two             distinct                   areas               of        existing                 VLDR-5                    zoning          on
+              Chehalem              Mountain.                           The             two             areas              are         mapped                   on      Exhibit               6         (page     16)
+              and      evaluated                       on         pages                18-21                 of        the        report.                  These              are        the            only     two
+              areas          in         the             vicinity                       of          the             site           which                    could             accommodate                          the
+              density of development proposed without a new exception.
+                                                                                                                                      SILK              A5              PACE        925
+
+From          1980            to         1986,            a     very            slow         growth                     period             in        Yamhill                      County,
+permits            were                 issued         for           construction                    of            41         new          residential                         units        in
+the two existing VLDR                                 Districts on Chehalem                                        Mountain.
+
+The      planning                  staff         completed                       a     detailed                    review             of           the         potential                  for
+development                   in         the     two            exiting              VLDR           Districts                       and        concluded                       that       the
+applicant                significantly                         overstated                    the              availability                         of          potential                   5-
+acre         development                       sites           in        the         two      areas.                The             County                  concluded                    that
+the     two         VLDR                 Districts              have           the         potential                    to     accommodate                               a     total       of
+90 homesites.
+
+One      of        the        factors                to        be         evaluated                in         a         review             of        alternative                      sites
+includes                 consideration                          of             increasing                         the               density                   of             uses          on
+nonresource                   land.                  The            subject            property                    is         nonresource                          land,           and      it
+is     the     only            property                   contiguous                   to         the             two          existing                     VLDR               Districts
+on     Chehalem                    Mountain                   which            has         already                 been             excepted                  from             Goals         3
+and      4.        All        other            properties                      adjacent             to             the         existing                     VLDR               Districts
+are designated AFLH                              and zoned AF-20.
+
+The      level           of        development                           proposed,            one             dwelling                    per           5     acres,               cannot
+be       reasonably                       accommodated                                inside                 an              urban’             growth                       boundary.
+Development                        at      a         rural           residential                  density                     within               an         urban                growth
+boundary                 complicates                            the            efficient                      and              orderly                      conversion                     of
+urbanizable                   lands             to            urban            densities.                          It         is      more                  appropriate                    to
+direct         rural               residential                      development                     to             suitable                locations,                          such        as
+the      Chehalem                       Mountains,                       which         lie        beyond                     the      reaches                      of        an       urban
+growth             boundary.                           It           is      critical               to             evaluate                     the            suitability                  of
+proposed                 rural             residential                      locations                    as              to          adequacy                           of         access,
+water,             suitability                   for                septic             drainfields,                           and          compatibility                               with
+agricultural and forestry operations in the vicinity.
+
+As      noted            in         the        applicant's                     submittal                     (See             Exhibit                A),           the            existing
+paved         road            which             was            constructed                   when                  the         property                     was              subdivided
+ean      accommodate                           the        modest                increase                in        density.                     A        four            inch        water
+line         (LA          Water                 Co-op),                   and          phone                  and             electricity                      cables                 were
+installed                in             conjunction                       with              the              road                  construction                              and         can
+accommodate                         the         level               of     development                            proposed.                          Septic                   approvals
+have          been             issued                for            the          existing                    six             lots         in            the             subdivision.
+                                                                                                                                   ata 4D ce 926
+               Finally,            the          area             proposed              for          rural             residential                       development                      is
+               surrounded                on      three            sides         by      a    large              district                of        VLDR                 zoning          and
+               existing            rural         residential                   development.                          Therefore,                     approval                   of      the
+               change         of      zoning               from          AF-10          to    VLDR-5                   will         not           introduce                   conflicts
+               or      compatibility                   problems                 with         agricultural                        and          forestry                  operations.
+
+               No      parties            in         the         local         proceeding                 on         this          request              have                 identified
+               specific         sites            that            can      more             reasonably                  accommodate                               the          proposed
+            use.               Therefore,                    the          applicant                 and          the             County                 have                 met       the
+               alternative               area          standard                of      "a      broad                 review              of         similar                  types       of
+               areas rather than a review of specific alternative sites."
+
+12.   The      long-term              environmental,                           economic,              social                and              energy               consequences
+      resulting        from          the         use         at         the      proposed             site            with              measures                   designed              to
+      reduce          adverse            impacts                 are      not          significantly                   more                  adverse               than             would
+      typically         result           from              the         same           proposal                 being             located                in         other             areas
+      requiring a Goal exception.
+
+               The      change            in     land        use         designation            from             AFSH              to        VLDR                will        result      in
+               only      a     minor             change             from             what      is     currently                    approved                      for         the      site.
+               The      property               has         been          subdivided            into            six     parcels                    and        a     paved             road,
+               utilities           and           water             lines             have       been                 installed.                    Approval                   of       the
+               change          will             add         the          potential             for             five           or            six         additional                   rural
+               residential homesites at this location.
+
+               Given          that             facilities               are          already          in         place                 to          accommodate                         the
+               development,                    the         environmental,                    economic,                  social                and        energy                impacts
+               associated             with            the         change             are      minimal.                        The             increase                  in     density
+               will result in more efficient utilization of existing facilities.
+
+               The      consequences                        of         rural         residential               use          at         this         location                  are      not
+               significantly                   more              adverse             than           would              typically                    result              from           the
+               rural         residential               development                     being         located                 in         other            areas               requiring
+               a     goal      exception.                        The          site     has          already             been             designated                      for         Rural
+                                                                                                                                                  oe AD me 927
+            Residential                      development                    and        the        land             was             removed                    from            the         resource
+            base’    in           1983.             Because                the      property                  will            be            served            by         the         LA      Water
+            Co-op,                no         individual                wells             will         be               required                       to      accommodate                          the
+            development.                            The          LA         Water            Co-op                obtains                   water             from             the        City      of
+            Hillsboro                  via         surface             water             supplies                  of         the            Trask             River.                Therefore,
+            the     development                           of     this           property              will              not            contribute                   to         depletion            of
+            groundwater                       resources                    in      the        area.                          Finally,                  no      improvements                         to
+            existing                   roads             will          be          required                       as          a             result             of             the         change.
+            According                   to      the           County              Engineer,               the            existing                     paved              road         that        was
+            eonstructed                       to         serve              the        existing                    Sunrise                       Peaks              Subdivision                   ean
+            accommodate                       the additional density.
+
+13.   The   proposed               uses            are         compatible                with             other               adjacent                      uses         or     will         be     so
+      rendered through measures designed to reduce adverse impacts.
+
+            The     subject                   property                is        bounded              by           VLDR                  zoning                and            existing            rural
+            residential                  development                       on      three             sides.                       The            extent             of         parcelization
+            and     development                          of     properties                adjacent                      to        the            60        acres         to     be        rezoned
+            from     AF-10               to VLDR-5                   is summarized                    below:
+
+            East      -            Four                  parcels                abut         the          eastern                       boundary                    of         the         subject
+            property.                        Pareel             sizes            range          from                   1.6                  to         4.21         acres,             with         an
+            average               size         of        2.73              acres.            Dwellings                        are            located               on         three        of      the
+            four     parcels.                      Adopted zoning to the east is VLDR-5.
+
+            West          -           Three              parcels                abut      the             western                       boundary                    of         the         subject
+            property.                    Parcel               sizes         range         from            3             to         7             acres,            with         an        average
+            size     of           5      acres.                  A         dwelling             is        located                      on        the         northern                 parcel.
+            Adopted zoning to the west is VLDR-5.
+
+            North             -          Four                  parcels            abut        the             northern                      boundary                    of      the        subject
+            property.                        Parcel            sizes        range          from               1        acre                  to        4.8              acres,            with      an
+            average               size         of        3.69              acres.            Dwellings                        are           located            on            two           of     the
+            parcels.              Adopted zoning to the north is VLDR-5.
+                                                                                                             FI              A5          PACE          928
+
+South      -     Two      20      acre           parcels            abut             the        southerly               property                 boundary.             A
+small      Christmas            tree         operation                   is     located                on     one             of     the         parcels            and
+the     other    property              is        leased            but         is        currently                fallow.                  There             are      no
+dwellings on the parcels.                         Adopted zoning to the south is AF-20.
+
+The      development                   proposed                    for              the         subject                 property                     is       clearly
+compatible              with           the             type              and              intensity                    of           rural              residential
+development             existing             adjacent               to         three             sides            of        the       property.                      Mr.
+Bob     Park,     the     owner             of        the         Christmas                tree         farm            abutting                 the       southern
+property        boundary,                   testified               in        support             of         the            change              at        both       the
+Planning        Advisory          Committee                       meeting                 and     Planning                    Commission                     hearing.
+Mr.     Park      indicated             that            the         Christmas                    tree             area             was          treated            with
+herbicide        and      sprayed                by         air     on         one         occasion.                         The         trees             are      now
+established        and          additional                   aerial            spraying                 is        not          anticipated.                         The
+existing         Christmas                   tree             farm                  is      bounded                     by’          extensive                     rural
+residential       development                     to         the         east             and      a         state            park          to         the        west.
+With      approval         of        the         subject             plan                amendment,                         two       additional                   rural
+residential        lots         will         abut            the          northern                boundary                     of         the             Christmas
+tree     operation.                    The             balance                 of          the          subject                    property                will       be
+separated        from          the          Christmas                tree                operation                by        the          existing            private
+road.
+                                                                                                         rik 49 ree G29
+                                                                                  PLAN      AMENDMENT
+              SKE TCH       MAP            FOR         COMPREHENSIVE
+                                                                 ORDINANCE           NO:     447
+                       EXHIBIT                   ng"     FOR
+                                                                                  ADOPTED          BY   THE
+                                                  PLAN        AMENDMENT
+              COMPREHE NSIVE
+                                      COUNTY             BOARD        OF     COMMISSIONERS
+                   YAMHILL
+                                                       JULY     1,    1987
+
+                                                 COMPREHENSIVE                PLAN       DESIGNATION
+              TO   CHANGE             THE
+                                                                                 Small     Holding"
+               FROM        "NAgriculture/Forestry
+                                 "Very            Low     Density          Residential"
+                       TO
+
+                                                              OFFICIAL        ZONING        MAP
+                      TO        CHANGE             THE
+
+                                      FROM             "AF-10"       TO    "VLDR-5"
+
+               SCALE:           1"     =     400!
+
+                                                                                              450
+
+                                                                                     5708
+
+                                                                                                              S7oT
+                                                                                                                          828.25
+
+                    ase Easemenys
+                                                                                                                            455
+   §. BALD
+
+                       qau-
+
+                                                                     of    Tax     Lot     No's:        2315-5703,5704>
+             applies        to        all        portions
+Change
+5705,5706,5707              &        5708.
+                                                                                                  of    Planning     &   Development.
+                                           Yamhill            © ounty      Department
+Sketch       prepared            by
+                                                                                                            rim 45 mace G30
+             SKETCH            MAP        FOR         COMPREHENSIVE               PLAN       AMENDMENT
+
+                         EXHIBIT                "c"     FOR       ORDINANCE            NO:     447
+
+                                                 PLAN         AMENDMENT           ADOPTED            BY   THE
+             COMPREHENSIVE
+
+                   YAMHILL                COUNTY        BOARD          OF      COMMISSIONERS
+
+                                                      JULY      1,      1987
+
+            TO     CHANGE             THE       COMPREHENSIVE                   PLAN     DESIGNATION
+
+              FROM        "“Agriculture/Forestry                                Small        Holding"
+
+                     TO             "Very       Low      Density             Residential"
+
+                     TO         CHANGE           THE     OFFICIAL               ZONING       MAP
+
+                                      FROM        "AF-10"              TO    "VLDR-5"
+
+            SCALE:             1"     =    400!
+
+                                                       668.557                                9460
+                                                                                                                       828.28
+                                                                                                                        455
+
+                                                             \O4 -S4
+
+Change   applies     to         all        portions             of     Tax     Lot     No's:         2315-5703,5704;,
+5705,5706,5707       &     5708.
+         prepared         by        Yamhill            County           Department            of     Planning    &   Development.
+Sketch
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.8% of
+the word sequence, and on 69.0% of the figures. Dictionary-recognizable words: 93.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

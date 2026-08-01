@@ -1,0 +1,554 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord510-pdf
+title: 'ORD510-PDF'
+doc_type: ordinance
+citation: 'ORD510-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17652/ORD510-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 1fb30a7fba97287a1f1b1783239c79c71e4cc1698dd4a45cacf7a20d4a8d3b0f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.978; figure agreement 0.843; dictionary ratio 0.946. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD510-PDF (ORD510-PDF)
+
+## At a glance
+
+OCR-derived text of ORD510-PDF. Not human-verified.
+
+## Full text
+
+IN    THE     BOARD       OF       COMMISSIONERS                     OF    THE   STATE       OF    OREGON
+
+Ga-      5/2                         FOR       THE        COUNTY.         OF        YAMHILL
+
+                SITTING        FOR       THE        TRANSACTION                 OF     COUNTY        BUSINESS
+
+In the Matter of an Ordinance                                   )
+Amending the Yamhill County                                     )
+Comprehensive           Plan       and        Plan              )
+Map (1974) to Change the                                        )
+Designation of Thirteen Acres                                   )
+of Tax Lot 3314-1000 From                                       )
+Agriculture/Forestry Large                                      )
+Holding to Agriculture/                                         )
+Forestry        Small       Holding,           and        to)
+Amend    the     Official          Zoning           Map         )         ORDINANCE            510
+From    EF-40        Exclusive           Farm       Use         )
+to AF-10        Agriculture/Forestry                            )
+Small    Holding        for     the          Same               )
+Parcel, Planning Docket                                         )
+PAZ-1-90, as Requested by the                                   )
+Yamhill County Planning Com-                                    )
+mission        and    Fred    and        Bland                  )
+Herring,        and    Declaring              an                )
+Emergency                                                       )
+      THE   BOARD   OF    COMMISSIONERS  OF  YAMHILL                                           COUNTY,   OREGON    (the
+Board),    sat  for    the   transaction  of  county                                           business   in   special
+session on July 25, 1990, Commissioners David                                                  E. Bishop,    Dennis L.
+Goecks,   and Ted Lopuszynski being present.
+
+        WHEREAS,        for     reasons             set     forth         in        Finding    A.1.     of   the   attached
+Exhibit  "A", the Yamhill County Planning Commission initiated an
+application for a plan amendment and zone change for a thirteen
+acre    portion        of    Tax     Lot       3314-1000;                 and
+
+     WHEREAS, a hearing was held on this matter before the Planning
+Commission   on   May 30,  1990   to consider   the application  and
+thereafter  voted unanimously   to recommend  to the Board that  the
+comprehensive plan and plan map, and official zoning map be amended
+as requested;   and
+
+        WHEREAS,        on    July       11,        1990,           the   Board         held    a public        hearing   on
+the    application;           and
+
+      WHEREAS,   the findings and   conclusions  attached hereto   as
+Exhibit   "A" and by this reference   incorporated herein provide a
+justification for approval of the application, including  the taking
+of an exception to Statewide Land Use Planning Goal 3; and
+
+ORDINANCE        510    -    Page        1
+                                                                                                 rie OO re¢.733
+         WHEREAS,                 the     attached         Exhibit         "A"     demonstrates               that     the
+proposed  amendment to the Yamhill  County Comprehensive  Plan  and
+Plan Map and the Official Zoning Map of Yamhill County are in the
+best interests of the citizens of Yamhill County;  Now Therefore,
+
+         THE    YAMHILL             COUNTY        BOARD    OF     COMMISSIONERS           ORDAINS       AS    FOLLOWS:
+
+         Section1.                  The    Yamhill        County    Comprehensive              Plan    and     Plan   Map
+(1974)        are    hereby             amended     as    specified       in the        attached       Exhibit        "B",
+made part of                      this  ordinance  by  reference, to   reflect   a plan
+designationof                     "Agriculture\Forestry Small Holding"   for the shaded
+area     of    Tax       Lot       3314-1000.
+
+      Section 2.  In adopting the plan                                    amendment specified in this
+ordinance,   the county  hereby  takes                                    an  exception  to  Statewide
+Planning Goal 3.
+
+      Section 3.   The  Official   Zoning  Map of Yamhill   County  is
+hereby amended as specified in the attached Exhibit "B", to reflect
+a zoning designation of    "Agriculture-Forestry,  10 Acres"   for the
+shaded        area       of       Tax     Lot     3314-1000.
+
+     Section               4.              The  findings            attached        as   Exhibit  "A"  and
+incorporated              herein           by reference           are hereby        adopted in support of
+this     ordinance.
+
+         Section          5.               This    ordinance        being        necessary       for    the     health,
+safety  and welfare  of the   citizens  of Yamhill   County, and an
+emergency having been declared to exist, is effective upon passage.
+
+         DONE       at    Newberg,              Oregon     this    25th     day    of    July,        1990.
+
+ATTEST                                              YAMHILL       COUNTY     BOARD       OF    COMMISSIONERS
+
+                                                     PY            Wee             St          thay
+                                                    Chairman                 DAVID       E.    BISHOP
+
+                                                            I.
+                                                    Commissioner             DENNIS
+                                                                                        ALY
+                                                                                          L.     GOECKS
+
+                                                    Commissione®             THD“LOPUSZYNSKI
+Assistant           (County             Counsel
+
+ORDINANCE           510       -    Page     2
+                                                                                                Fin OO ice 734
+                                                    EXHIBIT  "A"
+                                                   Ordinance 510
+
+DOCKET:                               PAZ-1-90
+
+APPLICANT:                            The    Yamhill    County      Planning         Commission         initiated
+                                      this    application      at        the   request     of    Fred    and   Bland
+                                      Herring,    the    property          owners.
+
+REQUEST:                              A Comprehensive Plan map amendment to                          change the
+                                      designation from Agriculture/Forestry                          Large Holding
+                                      (AFLH) to Agriculture/Forestry                      Small     Holding
+                                      (AFSH), and a zone change from                      EF-40     Exclusive      Farm
+                                      Use to AF-10 Agriculture/Forestry                         Small    Holding    for
+                                      approximately 13 acres.
+
+TAX   LOT:                            3314-1000
+
+LOCATION:                             North of and adjacent to Herring                      Lane,       approxi-
+                                      mately one-half mile west of Red                      Hills       Road.
+
+FINDINGS :
+
+A:    Background          Facts
+
+ds    The Yamhill County Planning                        Commission approved a zone change from
+EF-40 to AF-10   for approximately                       the westernmost   20 acres of the
+subject tax lot on April 5, 1990.                           The westernmost 20 acres was within
+an existing exception area, plan                         designated AFSH,    and the AF-10  zone
+was consistent with the Plan for                         that portion of the subject parcel.
+The exception area boundary runs                         through tax lot 3314-1000,     and the
+applicants desired a zone change for an additional 13 acres of the
+parcel that were outside the exception area and therefore could not                                                 be
+zoned AF-10 without a                   plan amendment.  The Planning Commission
+initiated this action                   to amend the comprehensive plan, at the request
+of the applicants.
+
+i    Property size:   The subject parcel is composed of                                           two tax lots
+under common ownership   (3314-1000 and 1090) that total                                          133.36 acres.
+The request pertains only to approximately 13 acres    in                                         the western
+portion       of   tax    lot     3314-1000        (Exhibit        B).
+
+3s     Access:           Herring        Lane
+
+4.    On-site        Land Use:   The subject 13 acres is used                               for livestock
+grazing,   and       it contains one dwelling and associated                                residential uses.
+The   remainder          of   the      subject    parcel      is    devoted       to     cultivated       crops,
+except       one   additional           homesite.
+
+EXHIBIT   "A" - Page              1
+ORDINANCE    510
+                                                                                                            atk BO ve               735
+Sis      Surrounding                 Land       Use:         Agriculture            and    rural        residential.
+
+6.   Surrounding Zoning:   Considering only the subject   13 acres, the
+surrounding zoning is north, AF-20;   east, EF-40; south, AF-10 and EF-
+40; and west, AF-10.
+
+Ts       Soils:            According             to     the        Soil    Survey     of       Yamhill        County,          the
+subject         13    acres          is       composed         of    Willakenzie           soil,        which          has    an
+agricultural capability class                                      of III or VI,           depending              on    slope
+steepness.  A majority of the                                      area is class           III.
+
+8.       Water:            Private             well
+
+9.       Sewage        Disposal:                 The     existing           dwelling           has     an    on-site          subsurface
+system.          Future          developments                  would       require        approval           of    on-site          systems
+by    the     County           Sanitarian.
+
+10.      Fire        Protection:                 Newberg            RFD
+
+11.      Taxes:            Farm       deferral
+
+B.      Oregon        Administrative                    Rule        Provisions        and       Analysis
+
+1.       Oregon Administrative Rule   (OAR) Chapter 660, Division                                                             4, explains
+the     requirements  for taking exceptions  to statewide goals.                                                              The subject
+property is considered                           agricultural land by virtue of its Class                                            III
+soil (see Finding A.7)                           and use of the land for grazing (Finding                                            A.4).
+The     property           is    not on the county inventory of                                      forestlands,  so Goal                   3,
+but     not Goal           4,    applies.  An exception to Goal                                      3 is required if the
+land     is    to     be       designated              for     any    use    other        than       exclusive           farm.        The
+AF-10       zone,      the       requested              designation,           is     not       an     exclusive             farm    use
+zone.
+
+2s       OAR     660-04-018                   outlines         the    optional        procedures              for       taking
+exceptions.   The first is to base the exception on "physical
+development"  and/or   “irrevocable commitment" of the property to non-
+agricultural use.    This type is intended to recognize and allow
+existing types of development.     The second is a "reasons"  exception,
+which       allows         a    jurisdiction                  to    zone    property           with     a non-agricultural
+designation if there are grounds  for the change. The latter path has
+been taken because the subject property is not physically developed or
+irrevocably committed to a nonfarm use.
+
+3.       OAR     660-04-022(1)                   deals         with       reasons     exceptions,                 and    states:
+         For     uses          not    specifically                  provided        for    in    subsequent              sections
+         of    this        rule       or       OAR     660,        Division    14,        the    reasons           shall
+         justify why the state                           policy           embodied        in    the     applicable             goals
+         should not apply.
+
+EXHIBIT   "A" - Page                      2
+ORDINANCE    510
+      3.1  In essence, the county                               needs       to    explain             why
+                                                                                                             rik OO 24736
+                                                                                                             the property
+should not be zoned EF-40.
+
+      3.2  The grounds relied upon by the property owners   is that the
+westernmost   33 acres of the subject parcel is not cultivated,   as is the
+remainder of the property,   and it is too steep and rocky to be valuable
+for    agricultural              production.              The    character             of       the    land,     with       thin
+rocky     soils       and       steep       slopes,       resembles             the    exception             area     to    the     west
+more    than      the      cultivated             farm    area       to    the    east.
+
+        3.3      The       boundary          of    an    exception          area       is       the    western        line     of    this
+proposed amendment  (Exhibit B).   The entire exception area boundary
+follows tax lot lines except where it runs through the subject tax lot.
+The border connects two property corners on the north and south sides
+of the subject property.    The boundary should have instead followed
+along the line                 between       the    cultivated             and    uncultivated                 portions        of    tax
+lot 3314-1000.
+
+      3.4  If             the change          is    approved, the land                       will still be able to
+support farm              activities          at    a level similar to                      what exists. This is
+because the AFSH Comprehensive Plan and                                         AF-10 zoning designations
+recognize agriculture as a primary use,                                         with a presumption that it                           is
+less    productive              ground       and    at    a    smaller          scale.
+
+        3.5      The       subsequent             sections       of       OAR    660-04-022             do     not    apply
+because       they        do    not       address       uses    in    non-exclusive                   farm     use    zones.
+
+4.      OAR     660-04-020(2)                states       that       justifications                   for    exceptions           based
+on    reasons        shall       address          the    following          four       factors:
+
+        (a)   ...the             facts and assumptions used as the basis for
+        determining              that a state policy embodied in a goal should                                               not
+        apply        to    specific          properties          or       situations             including           the    amount        of
+        land for the use being                          planned       and       why    the       use    requires           location
+        on resource land.
+
+        (b)  Areas which do not                          require          a new       exception             cannot     reasonably
+        accommodate the use.
+
+        (c)      The       long-term          environmental,                economic,             social,        and       energy
+        consequences              resulting             from    the       use    at    the       proposed        site...
+
+        (d@)     The proposed uses are compatible with other                                                 adjacent uses or
+        will     be so rendered through measures designed to                                                 reduce adverse
+        impacts.
+
+        These        factors          are    considered          in       findings          5    through        8 below.
+
+Se    The reasons relied upon to justify the exception                                                       assume that Goal
+3 is intended to protect agricultural   lands, and that                                                      those lands are
+defined in such a way in the goals that a quantity of                                                        land fits the
+
+EXHIBIT        "A"    -    Page       3
+ORDINANCE         510
+                                                                                              cur BO eb 137
+definition          that    is     not     truly        useful       for   farm       production.               Because       of
+specific  location, inaccuracies due to the scale of soil survey maps,
+or unique adjacent uses,   some areas that meet the definition of
+farmland neither contribute substantially to the agricultural economy
+nor are necessary for efficient use of adjacent agricultural   land.
+
+        5.1     In    the    case        of      the    subject       request,         much       of    the     property
+ostensibly          has    Willakenzie             soil       with    12   to    20    percent          slopes,        which       is
+Class    III land,  but the Soil Survey                              does not describe this soil type as
+being    rocky unless  it has slopes of                              greater than 20 percent.   Most of
+the   property        considered              in   this       request      is    in    fact       quite        rocky    and    the
+soils    are    very       thin.         This,         combined       with      unusual       alignment           of    the
+existing       exception           area       boundary,         results         in    land    not       suitable        for
+agricultural          production              on   a    scale    that      is    economically                viable.
+
+6.    Regarding factor   (b) above,  according to a study of exception
+areas  in the county conducted in 1986,     the density of development in
+lands zoned AF-10 was nearly one dwelling per ten acres.        This does not
+mean that there are no buildable parcels remaining,       due to pre-existing
+substandard parcels that have development rights,      but the supply of
+land suitable   for small,  part-time,  labor intensive   farm operations
+with a residence   is extremely limited.     See also finding C.4 of this
+report regarding alternative areas.
+
+Tee  The long-term environmental,  economic, social, and energy
+consequences of the proposed amendment would be negligible because                                                             the
+result       would    only       be    one       additional          dwelling         in    the    area.         The
+requested zone has a ten acre minimum lot size and the area affected                                                                is
+only about 13 acres.   The portion of the land not built upon will
+almost certainly remain in a use similar to what currently exists.
+
+8.      Regarding          factor         (d),     the    uses       permitted         in    the       AF-10     zone    are
+substantially similar to the existing uses in the area.    Adjacent
+(abutting)  parcels are currently in farm use, and uses are therefore
+not anticipated to change under the new designation.   The density of
+housing       allowed       in     the     area        will    increase.             However,          the     impact    of
+allowing what amounts to one additional dwelling on the                                                      subject parcel
+will not cause a significant adverse impact on adjacent                                                      uses.   The area
+in question is separated from neighboring  farm uses and                                                     borders  an
+existing AF-10, AFSH area.
+
+9.    OAR 660-04-018(3) provides rules governing                                            zoning       in     exception
+areas  justified by "reasons."   These provisions                                           state:
+
+        (a)   ...plan and zone designations must limit the uses and
+        activities to only those uses and activities which were justified
+        in    the    exception.
+
+        (b)  When a local government changes the types or intensities of
+        uses within an exception area approved as a "reasons" exception,                                                                a
+        new "reasons" exception is required.
+
+EXHIBIT   "A" - Page               4
+ORDINANCE    510
+                                                                                                    rin OO vaie738
+     9.1  Regarding the first of these                                     requirements,  permitted uses                                in
+the AF-10 zone are nearly identical to                                     those in the EF-40 Exclusive
+Farm Use zone,  the current designation                                    on the property.    The only
+substantive       differences                are       the    minimum          parcel        size       and    the    status           of
+dwelling approvals.                    Dwellings  do not need to be justified as
+customarily provided                   in conjunction with farm use in the AF-10 zone.
+Because the uses are                   the same,  there is no need to employ the Limited
+Use    overlay     zone      to       the    site.
+
+      9.2 Regarding the second requirement above,  this                                                       request        is    a
+first-time exception,  so the provision does not apply.
+
+C.     Ordinance       Provisions             and       Analysis
+
+1.      Section      1204      of      the    Yamhill          County          Zoning        Ordinance             (YCZO)        states
+that    exceptions        to      statewide             goals       are    subject           to    the       requirements              of
+the    Oregon    Administrative                   Rules       discussed          in     Section          B    of    this     report.
+There are no local review                         criteria          applicable           to       the    plan       amendment
+portion of this request.
+
+2a      The   zone     change          portion          of    the    subject          request           must       comply        with
+the standards          and     criteria            in       YCZO    Section        1208.02.              These       provisions
+ares
+
+        (a)   That      the       proposed change is consistent with                                         the    goals,
+        policies,       and       any other applicable provisions  of                                        the    Comprehensive
+        Plan.
+
+        (b)     That    there          is    an    existing          demonstrable                 need       for    the
+        particular uses allowed by the requested zone,   considering the
+        importance of such uses to the citizenry or the economy of the
+        area,  the existing market demand which such uses will satisfy,  and
+        the availability and location of other lands so zoned and their
+        suitability for the uses allowed by the zone.
+
+        (c)   That the proposed change is appropriate considering the
+        surrounding land uses,  the density and pattern of development in
+        the area,  any changes which may have occurred in the vicinity to
+        support the proposed amendment and the availability of utilities
+        and   services         likely         to       be    needed       by    the     anticipated                uses     in    the
+        proposed       district.
+
+        (d)   That other lands in the county                                    already designated for the
+        proposed use are either unavailable                                     or not as well-suited for the
+        anticipated          uses       due       to    location,          size,        or    other          factors.
+
+        (e)  That the amendment is consistent with the current                                                        Oregon
+        Administrative Rules  for exceptions, if applicable.
+
+        The findings regarding                         these       criteria        are       provided          in    subsections
+3    through 7 below.
+
+EXHIBIT   "A" - Page              5
+ORDINANCE    510
+                                                                                             ik DO vcd 739
+3     Regarding Comprehensive                        Plan goals and            policies,          Goals    II.A.1     and
+II.A.2 of the Plan text are,                         respectively:
+
+              To    conserve          Yamhill         County’s         farm    lands       for    the
+              production of crops and livestock and to ensure
+              that the conversion of farm land to urban use where
+              necessary and appropriate occurs  in an orderly and
+              economical manner;  and
+
+              To conserve Yamhill County’s  soil resources in a
+              manner reflecting their suitability for forestry,
+              agriculture and urban development and their
+              sustained             use   for       the    purposes         designated       on    the
+              County       plan       map.
+
+      3.1  The property is not being considered for urban development.
+The soil survey indicates    a sizable portion of the property has class
+III soil, which is to be preserved for farm use according to Policy A
+under Goal II.A.2.    An on-site investigation indicates,   however,  that
+most of the property is more rocky and steep than indicated by the
+survey.   The property will still be able to support livestock as it now
+is, and even greater production is possible because smaller operations
+can manage the herd more intensively.      In light of the suitability of
+the site for agriculture,    as addressed in the second goal above,   the
+small holding zone designation is appropriate to implement the intent
+of the Plan.
+
+4.     Regarding      the       need      for       the    proposed         change,      examination        of     data
+gathered     in    1986    by       the   county          is    useful.       The     subject      site    is    adjacent
+to the Chehalem Richland/Sunnycrest exception area,       and the Newberg-
+Dundee exception area is next to that.     According to the      "Exceptions
+Study Areas Dwelling Intensification Analysis"      (9-86),   the two
+exception areas contain 1531 acres of AF-10     zoning, which would permit
+153 dwellings  at buildout.   At the time of the study,      the areas
+contained  144 units,  or 94 percent of the allowed density.        Other AFSH-
+designated exception areas around Newberg are already built up to a
+density greater than one dwelling per 10 acres due to pre-existing
+substandard        lots.
+
+5.     Regarding      criterion              (c),     the       area   to    the    west    of    the    subject
+property is in a "built and committed"  exception area.  Properties to
+the north and south are in subdivisions of five to 10 acre parcels,
+although to the south many of the lots are in contiguous  ownerships.
+The density of development allowed by the proposed zone would not be
+out   of   character       with       the     lands        to    the   north       and   west.      Utilities        in
+the area are adequate to serve the potential  intensification of use.
+No significant changes  in the area since acknowledgement of the
+Comprehensive Plan have been identified that would have a bearing on
+this case.
+
+EXHIBIT   "A" - Page            6
+ORDINANCE    510
+                                                                               eux BO eck 740
+6.     The findings    in section C.4 of this report apply to criterion  (d),
+above,    as well.    Only the AFSH-designated areas around Newberg were
+considered,     so the location aspect of the requirement has been
+addressed.          Other       exception         areas   around      Newberg       are   mostly    unavailable
+because      they       are    already      built    to   near      the   maximum     density      permitted.
+
+T.    Regarding criterion (e), the OAR requirements   are addressed in
+section B of this report.    In addition, an exception to Goal 14 has not
+been addressed because one dwelling per ten acres and the AF-10     zone’s
+encouragement            of    farm   use     indicate       that    potential       uses   will    be    rural.
+
+CONCLUSIONS :
+
+1.    The request is for an amendment to the Yamhill County Comp-
+rehensive Plan map for approximately 13 acres  from Agriculture/Forestry
+Large Holding to Agriculture/forestry Small Holding,  and a zone change
+for the same property from EF-40 Exclusive Farm Use to AF-10
+Agriculture/            Forestry      Small       Holding.
+
+2.   The unique circumstances  of the subject                                site and zone         boundaries
+are such that reasons exist why the property                                 should not be         subject to
+Goal 3 requirements.
+
+3a   Areas that               do not require         a new exception cannot                 reasonably
+accommodate the               use because of         unavailability of land                 zoned
+appropriately.
+
+4.    The long-term environmental, economic,  social,and                                     energy
+consequences  of the proposal are negligible.
+
+5.     The    uses       allowed      by    the    proposed      change      are    compatible      with       other
+uses   in    the    vicinity.
+
+6.    The request is consistent with                          the    goals    and    policies      of    the
+Yamhill County Comprehensive Plan.
+
+EXHIBIT      "A"    -    Page    7
+ORDINANCE      510
+                                                                                                                           FILK
+
+                                                          EXHIBIT     B    FOR         ORDINANCE        510
+
+                                                            COMPREHENSIVE PLAN AND
+                                                              ZONE MAP AMENDMENT
+
+                                                  TO         CHANGE THE OFFICIAL MAPS:
+                                      Comprehensive          Plan designation from AFLH                        to   AFSH
+                                                           Zone     from    EF-40         to    AF-10
+
+                                                                     July     25,        1990
+
+                                                                                  AN
+1651.98!
+
+                                                    Tax    Lot    3314-1000
+
+                                                                                                                                  Road
+             This area
+
+                                                                                                                                  Hills
+             currently      AFSH
+             and AF-10
+
+                  \
+                                                                                                                                  Red
+
+                                                                    Herring            Lane
+           ———
+             1039. 10'                  J
+           The   map   amendments     apply    to    the    shaded         area        only
+
+           Map   prepared    by    Yamhill    County       Department            of     Planning        and   Development
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.8% of
+the word sequence, and on 84.3% of the figures. Dictionary-recognizable words: 94.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,2287 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord432-pdf
+title: 'ORD432-PDF'
+doc_type: ordinance
+citation: 'ORD432-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17721/ORD432-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: d4a4236d9164d573cce82f46936f7421650b4b8cd639701b57fc8c8a124cb75f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.974; figure agreement 0.667; dictionary ratio 0.945. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD432-PDF (ORD432-PDF)
+
+## At a glance
+
+OCR-derived text of ORD432-PDF. Not human-verified.
+
+## Full text
+
+Mb
+
+     Gb- 327                                          FOR        THE     COUNTY     OF     YAMHILL
+
+                               SITTING           FOR        THE       TRANSACTION          OF    COUNTY         ain
+                                                                                                                                      a]
+
+     In the Matter of an Ordinance                                                                                                           ee
+
+                                                                          SS
+     Amending the Yamhill County                                                                                                                   }
+     Comprehensive                  Plan,        1974,           to
+
+                                                                          SS
+     Allow an Expansion of the
+     Urban Growth Boundary of the
+
+                                                                          SS
+     City of Sheridan to Include
+     136 Acres Owned and Utilized                                                  ORDINANCE            NO.         432
+
+                                                                          HS
+     by the City of Sheridan for
+
+                                                                          SH
+     Sewage Treatment and Approxi-
+
+                                                                          HS
+     mately 181.5 Acres  Identified
+                                                                          SH
+     by the Federal Bureau of Pri-                                        HS
+     sons     to    Accommodate                  Construc-
+                                                                          HS
+
+     tion of a Federal Prison Com-
+                                                                          eS
+
+     plex,  Planning Docket G-7-86,
+                                                                          wwe
+
+     and Declaring   an Emergency
+
+             THE    BOARD           OF    COMMISSIONERS                   OF     YAMHILL        COUNTY,         OREGON         (the         Board),
+     on July 9, 1986,   sat for the transaction                                             of county business in special
+     session,  Commissioners   Donald D. Porter,                                            David E. Bishop and Ted
+     Lopuszynski being present.
+
+          WHEREAS, the City of Sheridan has applied to the Department of
+     Planningand Development  in order to expand its Urban Growth Boundary
+     to include a 136 acre parcel owned and utilized by the City of Sheri-
+     dan for sewage treatment and an approximately   181.5 acre parcel    iden-
+     tified by the Federal Bureau of Prisons to accommodate     construction
+     of a federal prison complex   (hereinafter "application");   and
+
+          WHEREAS,  pursuant to Rules                                     adopted July 26, 1986,  under authority
+     of Board Order 79-258,    a joint                                    session of the Planning Commissions   of
+     Yamhill County and the City of                                       Sheridan was held on April 16,  1986 to
+     consider   said application  at a                                    public hearing;  and
+
+             WHEREAS,              on    April        16,        1986,     both     planning            commissions            unanimously
+     recommended approval                         of the              application and recommended that                                     their
+     respective governing                         bodies              amend the Sheridan Comprehensive                                     Plan,
+     1980,        and    the        Yamhill           County           Comprehensive             Plan,         1974,      to   amend          the
+     urban        growth           boundary           as     requested;            and
+
+         WHEREAS, on May 22, June                                      17 and June 26, 1986,  the Board and the
+     Sheridan City Council held a                                      joint public hearing on the application;
+     and
+
+             WHEREAS,              on    June     26,        1986,        the     Board     and    the         Sheridan        City          Coun-
+     cil independently voted unanimously to grant the application                                                                          and
+     directed staff to prepare  findings of fact and conclusionary                                                                         findings
+     in support of such approval;  and
+
+          WHEREAS,    staff has prepared  findings of fact and conclusionary
+     findings   for approval    and based upon such findings   attached hereto as
+     Exhibit   "A",   and by this reference   incorporated herein,   it appears
+     appropriate    to grant the application of the City of Sheridan as set
+     forth above;     and
+
+          WHEREAS, in order to approve                                          this request,  an               exception must be
+     taken to Statewide Planning Goal                                           3 and based upon                the findings  for
+     an    exception               to    Goal     3     included           in     Exhibit        "A",         the    Board     finds          that
+     it    would        be     appropriate                  to    take     such     an    exception;                and
+
+     ORDINANCE               432
+     Page     1
+                                                                                                                  rin 44 ie 169
+       WHEREAS,  Statewide Planning Goal 14 requires   that the procedures
+and    requirements  of Goal 2 for goal exceptions   be followed when an
+Urban         Growth         Boundary             is    amended        to    include             rural            land,          and     the
+findings              set    forth          in    Exhibit        "A"    demonstrate                    compliance                  with     Goal
+14;    and
+
+     WHEREAS,   because a public need exists to provide a diversified
+employment    structure in the western portion of Yamhill County in
+order that the City of Sheridan,     the City of Willamina,  and other
+portions of Yamhill County can have a more stable economic base,
+and in order to replace    jobs lost in agricultural   and forest indus-
+tries,           an    amendment             to    the    Yamhill           County          Comprehensive                        Plan,      1974,
+and    an        amendment             of    the       Sheridan        Urban      Growth               Boundary              are       in   the
+best     interests                of    the       citizens        of    Yamhill             County,               NOW       THEREFORE,
+
+       THE        YAMHILL          COUNTY          BOARD     OF    COMMISSIONERS                       ORDAINS              AS     FOLLOWS:
+
+     Section 1. Based upon the findings of fact and conclusionary
+findings attached hereto as Exhibit    "A",and by this reference    in-
+corporated herein,   the Yamhill County Comprehensive Plan,   1974,    is
+hereby amended as follows:
+
+        (a)           To allow the expansion of the Urban Growth Boundary
+                      of the City of Sheridan to include a 136 acre par-
+                      cel owned and utilized by the City of Sheridan for
+                      sewage treatment,   and an approximately 181.5 acre
+                      parcel  identified by the Federal Bureau of Prisons
+                      to accommodate   construction of a federal prison
+                      complex as more particularly    identified on the
+                      attached map identified as Exhibit      "B" and incor-
+                      porated herein by this reference;     and
+
+        (b)           To    designate             the    parcels        referred             to        in     this          sec-
+                      tion    as       "Future          Urbanizable"             on        the    Yamhill               County
+                      Comprehensive                Plan    Map.
+
+     Section 2. That based upon the findings of fact and conclu-
+sionary findings    set forth in Exhibit    "A" and by this reference
+incorporated herein,    an exception    is hereby taken to Statewide
+Planning Goal 3 to allow inclusion of the subject parcels referred
+to above into said expanded Urban Growth Boundary and that said
+exception   shall be incorporated    into and become part of the Yamhill
+County Comprehensive Plan.
+
+     Section                3. This ordinance being necessary  for the                                                      health,   safety,
+and welfare                 of the citizens of Yamhill County,  and an                                                      emergency
+having been                 declared to exist, shall become effective                                                       upon passage
+hereof.
+
+       DONE           at    McMinnville,                Oregon     this        9th         day    of        July,           1986.
+
+ATTEST:                                                   YAMHILL           COUNTY          BOARD           OF                   SSIONERS
+
+                                                        ke         Nene)                          KR    [
+                                                          Chairman                          DONADD=b< PORTER
+                                                                                            Date:                 Sel            7,    CHF2.
+
+-                            othe                            Pes.            5        <<           c              [         =.
+Deputy           ELAINE       p                           Commissioner                      DAVID           E.,       BLSHOP
+                 i                                                                          pate: ae, 9 /PSL
+APPROVED               AS TO FORM BY:                         ae                                            7
+    WI                 hn Z.                                      [ed                  Loperapyrote
+J@HN     M.       GRAY                                    Commissioner//                    THD “LOPUSZY¥NSKI
+Yen}        lt    pond                                                                      Date:             Auten          var       1986
+                                                                                                            To          F         7
+
+ORDINANCE              432
+Page     2
+                                                                            EXHIBIT               "A"
+
+                                                                          Ordinance                   432
+
+I.     UGB AMENDMENT CRITERIA                                                                                                                        FILN         44         PACE                 i0
+
+The    City        of         Sheridan           and            Yamhill             County             have             adopted                      an      Intergovernmental
+Agreement            to         govern         the     management                         and     change                of       the            acknowledged                        Sheridan
+UGB.          This         section         contains                  findings            to     address             the          seven                    factors         for          a         UGB
+amendment               set       forth        in      the           Intergovernmental                            Agreement                          and          LCDC              Goal           14
+(Urbanization).                    It     was         and            is      the        intent         of         the        City               and          County               that            the
+criteria      of          the      Intergovernmental                               Agreement                 are         the           same                  as        the        Goal             14
+Criteria.
+
+Factor 1:               Demonstrated                       need              to         accommodate                      long-range                          urban               population
+                        growth requirements consistent with LCDC                                                         goals.
+
+Findings:               The City Council and Board find that:
+
+                        The        City        of      Sheridan                   and     western             Yamhill               County                       have        a      need           to
+                        provide           non-seasonal                       diversified                employment                              opportunities                     in            order
+                        to       have      a        more         stable             economic                base         and            to           replace             jobs          lost        in
+                        the       agricultural                  and          forestry            industries.                       The               loss         of     jobs              in     the
+                        agricultural                 and        forestry                industry             over            the            last           several               years            has
+                        eaused             economic                         distress,             out-migration,                                 contributed                        to            the
+                        deterioration                 of        existing                housing         stock,               increased                      the         demand                   upon
+                        public           and         private                charities,            and         has            caused                   wide-spread                        anxiety
+                        throughout               the           community.                       The         amendment                           of         the         Urban             Growth
+                        Boundary               and     the            proposed                federal         prison             project                    to     be        constructed
+                        and         operated               3;              that         location             provides                       a        feasible                option               for
+                        satisfying these demonstrated needs..                                                                           ;
+
+                        Further,           the         Bureau                of         Prisons         has         demonstrated                                 the     need               for        a
+                        federal!          correctional                       facility            in         the         northwestern                              region               of         the
+                        United            States.                         This      correctional                    facility                     will             primarily                     house
+                        federal           prisoners                   from          the         northwestern                       United                        States,           including
+                        Oregon.                 To     the                extent         that     there            is        a     federal                   need         for            housing
+                        these           prisoners               in          the         northwestern                    United                   States,                there              is,     to
+                        some            extent,            a     demonstrated                         need         for           this            type             of     facility                 for
+                        Yamhill            County               and          the         State         of         Oregon,                   since                federal          prisoners
+
+                                                                                         I~].
+                                                                                                                        FILM            Ag          PACE        171
+
+from       any          of         these         jurisdictions                     may         be         sent          to         such         a         federal
+fucility.
+
+The      present               population                    of         Sheridan               is        under-employed                             and _        the
+employment                   opportunities                   for         the         community's                      youth          are        negligible.
+The       federal                  prison              project                 should               stimulate                  the            local              and
+regional               economy                   and _            provide                 employment                          opportunities                       to
+accommodate                        the      projected                    long-range                      urban           population                       growth
+requirements                 of the city and the vicinity.
+
+The     City           Council             and         Board            of      Commissioners                          find        that         there            has
+been     a        major            restructuring                   of        the         economies                of     the            Sheridan                area
+and     the        western                Willamette                    Valley            in   that             the      growth                of        jobs      in
+and      related              to         agricultural                   and          forestry             activities                 will           be          slow
+compared               to     the         growth             of     jobs           in      those          sectors             in        the         1970s,         if
+there        is   any         growth             at        all.          As          a    result,          in     order            to         support            the
+same         or    a         growing            population,                    the        economy                must          diversify                 out      of
+its     dependence                  on      agricultural                      and         forestry              jobs.               The             new         jobs
+will be located               in urbanized                  areas.
+
+Findings          throughout                    this        document                     support          the          conclusion                   that         the
+
+UGB/Plan               Amendment                      is     needed                to      accommodate                        long-range                   urban
+population              growth             requirements,                       consistent                 with          LCDC               goals.                All
+those         findings              are         incorporated                       herein           by      reference.                          Additional
+findings include:
+
+The     Sheridan             Comprehensive                        Plan        and UGB               were         acknowledged                       by     LCDC
+in 1980.
+
+The     present              UGB          includes                1,241         acres;          approximately                        870         acres           are
+within the city limits.
+
+The     existing             UGB          was     designed               to        accommodate                    a projected                   year           2000
+population of 4,437 people.
+
+                                                              1-2
+                                                                                                                      rik 44 oe 172
+The      amount               and           location         of      land            included                within         the           acknowledged
+UGB          was     based              upon      assumptions                    of        continued                 growth             in     agriculture
+and wood products sectors.
+
+Expansion                of          the        sewage               treatment                        facilities               is       necessary             to
+accommodate                   the federal prison project.
+
+Sheridan             and                    Yamhill              County                experienced                          fairly             continuous
+population           growth                 between          1960          and         1980.                 From         1981          through            1983,
+the      recession                   and         downturn                 in         the         timber               and            wood           products
+industries           slowed                  population              growth;                and          in         1983,            both          Polk      and
+Yamhill Counties experienced reverse                                                 migration.
+
+Attempts            by         local          groups        to      attract                new         and         diversified               employment
+to     the     Sheridan                  area     have            been         unsuccessful                        except           for       the        federal
+prison project.
+
+In     1979,        manufacturing                       accounted                    for     34%              of     total           employment                in
+Polk         and     Yamhill                  Counties.                   In     this            economie                sector,             lumber          and
+wood         products              jobs       represented                 43%         of     manufacturing                          employment               and
+15% of total employment                                in the two counties.
+
+Reductions                in            these      manufacturing                           jobs,             basic          to        the           economic
+structure           of         the          region,         have          resulted               in      a         37%      decrease                in     total
+payrolls attributable                         to lumber             and        wood        products                employment.
+
+The          Bureau                of         Prisons             did          not          begin                  exploring                 options         for
+eonstruction                  of        a     federal            prison          in        the         Sheridan                  area         until        1983.
+Therefore,           the             land       needs          of       the       Bureau                were          not           considered             when
+the initial UGB                    was acknowledged                        in 1980.
+
+The      inmate               population               of    the        Bureau              of        Prisons            has         been          increasing
+at      an         unprecedented                       rate.                   The          present                 inmate              population             is
+approximately                      49%          over        the         combined                  rated             capacities                of      existing
+federal prisons.
+
+                                                             I-3
+                                                                                                                                          FILM         A4              Page      173
+
+            o   There           is         no      federal             correctional                      facility                   in         the           northwestern
+                United           States.                   Existing                   federal            correctional                           facilities                    closest
+                to    the        northwest                region           are         located            in            Pleasanton,                    California                 and
+                Englewood,                 California.
+
+            o   At      the      present             time,           650          inmates           sentenced                        in        federal                 courts      in
+                Oregon,              Washington              and            Idaho            are         housed                in          Bureau                 of          Prisons
+                facilities located elsewhere                               in the United States.
+
+            o   The          Bureau             projects     that            the        number                of         sentenced                    offenders                 from
+                the      Pacifie                Northwest             requiring               confinement                           will         increase                 to      700
+                inmates in 1995.
+
+Factor 2:       Need for housing, employment                                      opportunities and livability.
+
+Findings:       The City Council and Board find:
+
+                The     UGB          change         and Plan           Amendment                    is needed                  to increase                    employment
+                Opportunities,                    improve              income                stability,                      enhance                  livability,                 and
+                promote              the        maintenance                and        construction                      of     adequate                housing.                  The
+                findings         under            Factor         1     are            incorporated                  herein                by     reference.                      The
+                basie         plan          elements         for           housing            and         other                urban             services                are      in-
+                place;        this         UGB      change            and         Plan       Amendment                         addresses                the            structural
+                change          in         employment                opportunities                  in         the           area.               It     also             provides
+                for      a     major             improvement                     in     water           and             fire         services                in         the      city
+                while        providing            water     and fire flows                    to the          UGB            amendment                   area.
+
+                Without              an         expanded             and         diversified               job               base,             there         will             unused
+                service              capacity,             unused                housing,               and             deterioration                        of          existing
+                housing,                  and        inefficient                      use          of              existing                     urban                  facilities,
+                including schools and roads.
+
+                A     major                negative         effect               on         the         city's               livability                has             been       the
+                community's                     anxiety      over            its        future           as         a        result             of      the            economic
+                problems              besetting            the         agricultural                     and         forestry                    industries.                      This
+
+                                                                            1-4
+                                                                                                                              ue 44 ice 174
+change            to         the     Urban                 Growth          Boundary                   and           the       construction                      of    the
+proposed                 federal            prison              will            provide                   a         positive               focus              for     the
+city's future.
+
+A non-inelusive list of findings supported by the record include:
+
+The          acknowledged                        Sheridan                 Comprehensive                               Plan        was              based             upon
+projections                    of          eontinued                      population                          and         employment                            growth
+experienced during the 1970s.
+
+Since             1979,             employment                       in         the         wood                 products                   industries                has
+declined.
+
+In    order             to     remain            a         healthy         and        viable                  community,                   these             lost    jobs
+must be replaced.
+
+An      economy                    that     is             dependent                upon         a            narrow          range              of          industrial
+sectors            is         generally                more          susceptible                     to         economic                   disruption                than
+an      economy                    with          a _        diversified               industrial                      base.                 It         is      to     the
+Sheridan area's advantage                                    to diversify its industrial base.
+
+The      federal               prison            offers             economic                diversification                           in         the         form      of
+300      stable,               well-paying                   jobs         in        the      federal                   employment                           sector     of
+the      economy.                         The          addition            of         300        federal                  jobs        to         the          regional
+economy                 would         bring            a     total        employment                           increase          of         1.25%,             and     an
+annual payroll boost of 2.64%.
+
+Approximately                         37,559                 year-round                   housing                     units           are             located           in
+Yamhill                 and         Polk         Counties,                 of         which                   2,570        are         located                 in     the
+Sheridan-Willamina                              area.                 Approximately                              200          vacant                  houses          are
+located in the Sheridan-Willamina                                              area.
+
+As      of        August             of         1985,          37         houses            in        the             Sheridan-Willamina                             area
+were         in        government                    ownership                 as     a     result               of       foreclosure                       action     by
+the      U.S.            Farmers            Home               Administration                             or        Oregon's               Department                  of
+Veterans Affairs.
+
+                                                                1-5
+                                                                                                                                      FILK         A4           PACE        175
+
+Factor      3:   Orderly      and economic                       provision          of public               facilities and services.
+
+Findings:        The City Council and Board find:
+
+                 The      area             included             within          the         Sheridan                   UGB        can             be          served          with
+                 public       facilities                 and       services            in         an         ordely             and          economic                  fashion.
+                 The       City            property              included             in         this         UGB            Amendment                          is      already
+                 subject         to         existing             urban        activities                as         the       City            sewage                  treatment
+                 facility.
+
+                 Utilization                of      public              roads          which                are          currently                     operating              well
+                 below           design                 capacities               will              maximize                      the              existing                  public
+                 investment            in the local transportation network.
+
+                 Waste        water                from           the         prison             complex                  can          be          efficiently                 and
+                 economically                    conveyed               by      gravity                to         the      adjoining                    City           property
+                 and       treated                and           disposed              of         in          conjunction                      with             the          City's
+                 established                system.                   No      other              potential                location                provides                  access
+                 to     the      combination                     of        public          services               of      roads,              sewer             and         water
+                 available at this site.
+
+                 Adequate             water         supply            sources          are        available                to     accommodte                          both     the
+                 projected                 year         2010          population                  and             the        needs                of          the       federal
+                 correctional               complex.                  Implementation                         of     water             system             improvements
+                 will      upgrade                the          fire        protection                  system              for          all            city          residents.
+                 The      amendment                 to     the        urban         growth             boundary                 and     the            construction             of
+                 the      federal                 prison          provides                 the          City             with          an          opportunity                  to
+                 leverage             the         economic              development                     potential                of         the         prison          project
+                 to     secure         funding             for        infrastructure                    improvements.                              The         inmates          at
+                 the      federal                 prison           are         considered                     residents                 of             the           city      for
+                 purposes             of      the        state          gas      tax         allocation                   which              ean         be          used      for
+                 road improvements                        within the city.
+
+                 A non-inclusive list of findings supported by the record include:
+
+                                                                              1-6
+                                                                                                                                 eiuk 44 ce                            176
+Access        to         the        site        is         provided              from          Ballston               Road              (County),                 which
+is served by an overpass/interchange                                               at State Highway                              18.
+
+No      off-site               transportation                          modifications                      or        improvements                            will      be
+required to accommodate construction of the federal prison.
+
+Adjacent                 roads             are                  currently                operating                        well              below                 design
+capacities.                                                “                            —
+
+The         correctional                   facility                  complex             at          the            subject                location               would
+have no significant impact                                      on existing traffic conditions.
+
+Curran-McLeod                         Ine.,                 Consulting                   Engineers,                       have               completed                    a
+Water/Sewer                    Feasibility                     Plan        for     the            City         of         Sheridan.                     The         plan
+contains            a      summary                        of         infrastructure                      needs              to         accommodate                        a
+projected            population                  in            the     year        2010             of     4,190             people.                   This         plan
+is    the      blueprint               for            the            orderly        and           economic                   provision                 of         public
+facilities          and            services               for        sewer        and          water.                 Sewer                 and        water         are
+the only public services not readily available at the site.
+
+The         projected                total            water                system           demand                   in      the            year            2010       is
+1,365       gpm.               A     total            of        1,976        gpm         of         water            will        be         available              from
+developed                sources.                    In        addition           to        these          sources,                   an      intertie              with
+the     McMinnville                       water                 system           and          a          consortium                    of         local           water
+systems        may         provide             additional               sources          of water.
+
+Existing            transmission                           mains            from              the          water                 storage               reservoirs
+through            the     city           on         Bridge            Street           are          woefully                inadequate                     for     fire
+protection at the High School or downtown                                                           buildings.
+
+Construction                   of     a         14-inch                 main            from             the         reservoirs                   to        Ballston
+Road        will         improve               water             service           to       the          south            side         of     Sheridan               and
+will dramatically improve                                      fire flows in the downtown                                   area.
+
+                                                                     I-7
+                                                                                                                                                 FILK      Aq           PACE           177
+
+            o   Waste             water            from      the      prison           complex                     can        be        easily           and          efficiently
+                conveyed                by         gravity           to        the         City              property.                       Marginal                 costs            for
+                sewer             improvements                 would             increase               for         sites          more             distant            from            the
+                sewage            lagoons.
+
+            o   The      existing              sewage           lagoon               system             is     adequate                     to     accommodate                         the
+                existing           and         projected              needs           of        the          City.              Two               additional                lagoons,
+                a      2l-acre               primary           cell            and         an      8-acre                secondary                      cell,         would             be
+                constructed                   to     accommodate                       the         treatment                       and           disposal             of         prison
+                waste        waters.
+
+            o   It      is         projected                 that         80          acres              are         needed                      for       waste                  water
+                irrigation.                         Sufficient                 and         appropriate                        land               area           is          included
+                within            the         UGB          Amendment                   to        accommodate                                construction                    of      new
+                lagoons                 and           also           maintain                    opportunities                              for           future                  spray
+                irrigation of treated effluent.
+
+            o   Fire         protection               services                 from          the             Sheridan                  Rural            Fire          Protection
+                District will be adequate                             to service the federal prison complex.
+
+            o   Both         Sheridan               and       Willamina                schools                 are        currently                     operating                 below
+                design            capacities.                   An         inerease                in         student               enrollment                       will         result
+                in       a         more              efficient                 and          economic                      use               of          existing                 school
+                facilities.
+
+Factor 4:       Maximum                 efficiency              of        land        uses         within                and           on        the      fringe             of        the
+                existing urban area.
+
+Findings:       The City Council and Board find:
+
+                The          maximum                efficiency             of         land         uses            within              and         on     the          fringe            of
+                the      existing              urban          area         can        be        obtained                 as        a        result         of         the         urban
+                growth             boundary                amendment                  and          comprehensive                             plan         change.                  The
+                City's             sewage                 disposal             facilities                    and          the               federal             prison                 are
+                unique            land         uses          which             require             buffering                  from                other         urban              uses.
+                Part         of     the            City      land         is     already                committed                       to         urban             uses         as      a
+
+                                                                                1-8
+                                                                                                                     rid 44 nce 178
+sewage         treatment              facility.                  Expansion                    of     the         treatment                       facility        at
+the      same         location             is     both           efficient                and             economical.                            The           UGB
+amendment               will         maximize                land             use             efficiency                   by         maintaining                     a
+separation            between          urban           land         uses        to        the         north           of        Highway                 18      and
+the      public         facilities              land         uses          appropriate                      to         the           south              of      the
+highway.                The          City        sewage             treatment                       lagoon                 provides                a_        buffer
+between         the         prison         and        the     highway                    and        therefore                   provides                part     of
+the      buffering            area         that        would             otherwise                   have             to        be      accomodated
+within       the       prison          grounds.                    This         reduces                   the         prison's           needs                from
+200 to 180 acres.
+
+In    addition,                the          location               of          the             prison                 near             the              existing
+intersection            of         Ballston            Road              and         Highway                    18         provides                 adequate
+direet      access            to      the        prison            project               by         the         shortest             possible                  route
+and      without            congesting                roads         in        commercial                        and         residential                      areas.
+No    transportation                 system            improvements                           are     required                  to     accommodate
+the new land uses.                                                                                                                           .
+
+A non-inelusive list of findings supported by the record include:
+
+                                                                                                                                                                  L
+Despite         its     proximity                to     urban             development                           and         necessary                   support
+facilities            and          services,           the          site            is         effectively                      separated                     from
+concentrated                 urban          development                        by         the             major             barrier               of          State
+Highway         18.
+
+All        future              urban                  residential,                       commercial                             and                industrial
+development                 will      continue                to         be         directed                to         the           north              of      the
+Highway.
+
+The      UGB       extends           south        of    the        highway                only        to        encompass                    the        limited
+public         facility              and          institutional                      uses             of             the             City's              sewage
+lagoons and the correctional facility.
+
+                                                            oO
+                                                                                                                                   FILH         44       Pate           179
+Factor   5:   Environmental,                   energy,       economic              and social consequences.
+
+Findings:     The     Council        and Board               find:
+
+              Many           of           the             environmental,                      energy,                 economic                   and                 social
+              consequences                 have            been      set         forth         under           Factors              1     through                4      and
+              therefore             are             incorporated                 herein         by         reference.                          The              adverse
+              environmental                     consequences                     are         negligible               in      that             there             is      no
+              showing          of         any        long-term               adverse            impact                on       air           quality,                water
+              quality,        or     wildlife              habitat.               The         expansion               of      the         sewage                lagoons
+              for     disposal            of        sewage         effluent              in     accordance                   with            DEQ        standards
+              will have       positive              impacts         on the environment.
+
+              Development                  of        the         federal          prison            and        expansion                  of     the            sewage
+              lagoons        will         have        a     significant                and     positive           impact                on      the      economy
+              of      the         Sheridan                area,       region             and         state.                  The             project             offers
+              economie              diversification                   in         the         form         of      300            stable,              well-paying
+              jobs.          The          infusion           of      these         permanent                   jobs         will        provide             a         long-
+              term     boost to the economy.
+
+              Social        consequences                    of      this      change            are        also            positive.                  New             jobs,
+              increased             tax         revenues             and          economic                diversification                      will      make             a
+              valuable contribution to the city and county residents.
+
+              A non-inelusive list of findings supported by the record includes:
+
+              The        Oregon                Department                   of         Environmental                        Quality                (DEQ)                has
+              established                 noise            control           regulations                   for             new            sources               3+        a
+              previously             undeveloped                   site.               The          prison        must               adhere            to             these
+              regulations,                 which                 include           both             traffic                and            on-site                    prison
+              operations.
+
+              Some          temporary                air     quality          impacts               may        result            during            construétion
+              activities.                      No          long-range              impacts                to      particulate                        levels           are
+              anticipated                 during             facility             operation.                      The              facility             will             be
+              heated with natural gas and there will be no incinerators on-site.
+
+                                                                           I-10
+                                                                                                                      FIL 44 nce LED
+DEQ     water quality records indicate that:
+
+a.     The         South      Yamhill            River             can      be         treated              to        meet      safe         drinking
+       water standards.
+b.      No         harmful         concentrations                     of         chemicals                      are     likely         to         access
+       the Sheridan            River       intake            under         normal         circumstances.
+
+When         all     water          sources             identified                in     the              Water/Sewer                  Feasibility
+Plan       are      developed,             900         gpm           summer              withdrawals                      from         the            South
+Yamhill          River are not necessary.
+
+On-site          energy       requirements                    will       remain               the         same          regardless               of     the
+facility            location.                    Adequate                       supplies               of             natural          gas              and
+electricity           are     available                to     the         site.               The           proximity            of         the        site
+to     the       sewage        lagoons           and          an         improved               transportation                   system                 will
+minimize           energy costs associated with infrastructure improvements.
+
+Additional economic                   impacts of the project include:
+
+a.     A      project          budget             of          $48          million             is         estimated              for             facility
+       construction.
+b.     Forty-one             local      construction                     jobs          would               be         generated             in        1986,
+        144 in 1987, and 136 in 1988.
+e.     Construction                employment                  is        expected               to         generate             $6,991,600                in
+       local purchases over the entire construction period.
+d.     Local          purchases              of              materials                 throughout                       the      construction
+       period        total    $5,150,092.
+
+e.     An          annual          payroll         of          $7.5             million              is          estimated             once             the
+       facility becomes operational.
+f.     The          increased          level            of         spending              in          the          local       economy                   will
+       contribute             to      an         increase                  in      the          number                  of      indirect                and
+       induced jobs.
+
+                                                            I-11
+                                                                                                                                                                       rik           44 ce                     181
+
+                g.      Total         Oregon                  tax          receipts             which                   are         estimated                           to          be       paid         to
+                        the         State          during                  project         construction                                 are             $1,260,546.                              During
+                        the         operational                   phase,             total           income                       tax          receipts                      per           year         are
+                        estimated to be $530,439.
+
+            o   Net      quantified                    benefits              accruing                to        the                area             from                the          location              of
+                the      federal                prison            are         projected               to                be         in         the                range              of      $8.6         to
+                $10.48        million a year.
+
+            o   The      federal                prisons           in        other         communities                              had             a            neutral              or      positive
+                social impact on their community.
+
+Factor 6:       Retention             of          agricultural                     land         as        defined,                       with                   Class           I        being          the
+                highest priority for retention and Class VI the lowest priority.
+
+Findings:       The     Council and Board find:
+
+                Agriculture                is     an         important               component                          of        the          local              economy                    and        the
+                 Council            and          Board            are         committed                       to         the             retention                      of           agricultural
+                land.                An           exmaination                       of       land                  in             the              vicinity                    of          Sheridan,
+                Willamina             and          Grand               Ronde             indicates                  there                    are            no     lands                 within         the
+                urban         growth               boundaries                  suitable               for               the             proposed                       prison              complex.
+                There          are              also         no            sites         with             a         lower                     class                soil              that             could
+                accommodate                       the         prison           project.                       The             south                boundary                         line         of     the
+                prison        was          specifically                     drawn          to        avoid                   Class             I       soil.                 There               are     no
+                sites      outside               the         UGB             that         would               avoid                 Class                   I     through                  IV         soils.
+                Given         the         lack          of        alternatives                   sites                  that             could                   accommodate                            the
+                 use     combined                  with           the         factor            that               any             location                       outside                  the         UGB
+                 would         include                 Class           I     through             IV           soils,               this                is        the         best            site         to
+                 meet         the         needs          of         thre           Bureau             of           Prisons                    and                the         needs               of     the
+                city.               While              the        City             and          County                       would                 prefer                 to             retain          all
+                agricultural                     land               in             agricultural                              production,                               the                 statewide
+                planning             goals              implicitly                  provide                   for             a          "balancing"                           of           different
+                goal      objectives.                         The            economic                 benefits                          to         be            derived                  from          the
+
+                                                                                   I-12
+                                                                                                                  FILK            44           PACE             18?
+
+project              at        this         specific                location                clearly         outweigh                     the              economic
+and           public           loss             associated                  with            the          conversion                 of          agricultural
+land.
+
+The           City        land             is         already             partially               committed                 to       urban                  use       as
+sewage           treatment                      facilities.                     The         remaining                 City         land              is         needed
+for       expansion                    of             the          sewage               treatment                 facilities                    and              spray
+irrigation.
+
+A non-inelusive list of findings supported by the record include:
+
+The       bulk            of          the        area             included              within            the         UGB           Amendment                         is
+productive                agricultural                      land.               Approximately                    36         acres          of             the     City
+property is committed                                 to the sewage                   lagoons.
+
+Soils          are        predominantly                            SCS           Capability                 Class            II,         with               smaller
+pockets of Class I, III and IV soils.
+
+Approximately                        95%         of         the      land        within            the     existing               UGB               consists          of
+Class          I-IV       soils.                 It     would              be        virtually            impossible                to         expand              the
+Sheridan UGB                    and not impact Class I-IV soils.
+
+The       Water/Sewer                           Feasibility                Plan         identifies               that         approximately                           30
+acres          will        be         required                to          accommodate                     expansion                of          the          sewage
+lagoons and 80 acres reserved for spray irrigation of effluent.
+
+The       Bureau                of      Prisons               initially               identified            a     need             for          a         200-acre
+site.           Because               of        the         location            of     the        City      sewage                lagoons                  adjacent
+to      the      proposed                  prison            site,         an        assured         buffer            is    provided                      and     the
+amount           of       agricultural                      land          included           in     the         amended              UGB                  has     been
+reduced          by approximately                            20 acres.
+
+The       Yamhill               County                 Soil        and          Water             Conservation                    District,                 charged
+with      the         wise           management                      of     soil       and        water         resources,                has             reviewed
+this     Amendment                      and           commented                      that     the        removal             of      this           land          from
+the agricultural base would be acceptable.
+
+                                                                   I-13
+                                                                                                                                cil         A4              Pare         183
+
+Factor   7:   Compatibility                  of          proposed                 urban             uses               with         nearby                   agricultural
+              activities.
+
+Findings:     The Board and City Council find:
+
+              The      sewage              treatment              facilities                  and         the          fedeal            prison             project          are
+              compatible                   with            nearby              agricultural                           activities.                            The            City
+              currently             operates               a     sewage                 treatment                      facility            on          part          of      the
+              subject          property                   and         has              done          so          without                 interference                       with
+              agricultural                 activities.                       The              actual              prison              facilities                    will       be
+              surrounded             by      vacant             land         owned             by         the         Bureau          of         Prisons             as     part
+              of      the       buffer                  incorporated                    into          the              design              of          the           facility.
+              Because           of          this         buffer,             there             should              be          no          interference                     with
+              agricultural                activities.                   In         fact,            the          Bureau               of         Prisons                 prefers
+              to      abut      agricultural                    activities                because                of       compatibility                            compared
+              to      residential,                 commercial                     or      industrial                    uses.                   The          Bureau            of
+              Prisons         intends              to      lease            out         part         of          its      property                    for          continued
+              agricultural             use             until     actually                needed                 for      prison             facilities.                      The
+              UGB       lines         were             drawn       in        order            to     leave             parcels             outside                 the     UGB
+              large          enough              for      continued                    agricultural                    activity.                       The           specific
+              urban          uses          are         self-contained                    and          do         not           exhibit                characteristics
+              of      land      uses             which          typically               present                 compatibility                     problems                  with
+              agriculture,            most notably suburban residential development.
+
+              A non-inclusive list of findings supported by the record include:
+
+              The       sewage              lagoons              have             co-existed                    with           agricultural                        activities
+              for     many          years.              The      City         has         leased            undeveloped                     portions                of     their
+              ownership              for         agricultural                production                    with           no        harmful                  effects           on
+              either use.
+
+              The      UGB          Amendment                   was         drawn             with         consideration                    for        compatibility
+              with       agricultural                   uses.                Publie            facility                uses         of          the          prison          and
+
+                                                                         1-14
+                                                                                              FILK      4A     PACE     184
+
+sewage      lagoons               will       be        separated        from              agricultural            lands       by
+Ballston    Road          and      Greencrest            Cemetery        on        the        west      and    the     railroad
+on the east.
+
+Delineation         of     the         southern         boundary       for        the         UGB       was     based      upon
+avoidance      of         Class        I   soils,       and     also   provided                for      the    maintenance
+of   manageable              blocks          of        agricultural      parcels                (49.29        acres;      58.42
+acres) outside of the amended                          UGB.
+
+As    documented                  by       the        coexistence            of         the          State     prison       and
+agricultural             activities              in      Santiam        Pass,             correctional                facilities
+and agriculture are compatible                          uses.
+
+                                                      1-15
+I.     GOAL 2          EXCEPTION CRITERIA                                                                                                                       FIL          AA                 PACE         185
+
+LCDC         Goal     14        (Urbanization)                             states:               "In         the        case            of        a        change            of        a        boundary,                  a
+governing           body         proposing                        such               change             in         the        boundary                          separating                       urbanizable
+land    from          rural               land,             shall               follow           the          procedures                          and            requirements                                as_     set
+forth in the Land Use Planning Goal (Goal 2) for goal exceptions."
+
+The    purpose         of         this            section                  is        to        address             the        Exception                         Criteria                   set          forth          in
+Goal    2,     Part        Il    as        amended                     by        the           1983      Oregon                Legislature                            and     implemented                             by
+the Department                  of Land Conservation                                       and Development                              through OAR                          660-04-000.
+
+1.     Reasons         justify                why                 the            state           policy                embodied                        in        the          applicable                           goals
+should not apply.
+
+Findings:             The City Council and Board find:
+
+                      OAR                 660-04-010(1)(B)(i)                                  states              that        this               standard                   ean            be          satisfied
+                      by        compliance                        with               the       seven          factors                  of        Goal           14.          Goal                14      requires
+                      that            a     change                    of         the           urban          growth                   boundary                   shall           be             based              upon
+                      consideration                              of             seven            factors.                      The                    facts,            eonsideration,                               and
+                      conclusions                            regarding                         those           seven                    factors                   were                 presented                       in
+                      Section I of these findings.
+
+                      However,                        even            if        compliance                   with            Goal                14        by     consideration                              of      the
+                      seven                enumerated                            factors               did             not         satisfy                   this           standard,                        reasons
+                      justify                why                 the             state           policy                embodied                         in        the             applicable                        goal
+                      should not apply.
+
+                      In        this         case,                a        portion               of      the            land                to        be        included                   in          the          UGB
+                      consists                of             land               already           committed                            to         urban               uses         as             the              waste
+                      water                treatment                       facility,             for          the         City               of        Sheridan.                        An             exception
+                      to         Goal             3        has         already                 been          granted                   for            this       portion                   of         the          area.
+                      Goal            3      is            the        applicable                 goal          for           the            remainder                   of        the             area             since
+                      that                area              consists                  of        Class              I      through                      IV _       soils.                        The            policy
+                      embodied                        in         Goal            3        is    that         agricultural                         lands               should               be          preserved
+                      and         maintained                          for            farm        use.              Goal            3         also          embodies                a            state          policy
+
+                                                                                                      I-1
+                                                                                                                                     rin 44 ve 186
+for      the          conversion                           of         rural            agricultural                      land             to         urbanizable                         land
+based          upon                  the             consdieration                          of         five             specifie                    factors.                        Those
+factors          are             essentially                              the        same              as         the         factors                 required                 to          be
+considered under Goal                                      14 and Goal 2.
+
+There      are             two            primary                    reasons               why          the        Goal         3     eriteria                    of     retention
+of       agricultural                           land                 should                not          be         applied                     to          this          property.
+First,         there                 has             been             a         fundamental                       change              in            the       economy                      of
+Oregon,              and             in      Yamhill                       County                and          Sheridan                in            particular.                          The
+primary               industries                          of         agriculture                   and             forestry                    have          receded                     and
+are      never              expected                       to         rebound                to        their            former                 significance.                             The
+reduction                 of         jobs            in         this            primary                sector            of         the             economy               and             the
+forecast                  for             little                or          no         growth                 or          even                 further                  reduction,
+increases                  the              need                 for                diversification                       into             non-seasonal,                             non-
+forest-related                        activities.                               These             factors               were          not             a_      consideration
+when           the             urban                 growth                 boundary                    was             originally                   drawn,               but            the
+ehange           in            the         economy                         has        demonstrated                         the            need             for          additional
+urbanizable                     land            in        order             to        accommodate                         and         promote                      a     job         base
+that can no longer rely upon forestry and agriculture.
+
+Second,              the             site-specific                              features                of        this          property,                     such             as          its
+proximity                  to         the             sewage                    facilities                  and         the          interchange                         betweeen
+Highway               18         and             Ballston                       Road,            combined                 with             the             fact         that             this
+particular                 use            can         take                advantage                of         the         buffering                   created                  by        the
+sewage           lagoon                    and            the             highway                without                any         adverse                  environmental
+impact           makes                     this            site             uniquely               suitable                   for         conversion                      to          non-
+agricultural uses.
+
+As         discussed                            elsewhere,                             regarding                        alternative                          sites,                 strict
+application                     of          Goal                 3         would             preclude                    the          establishment                                 of         a
+federal              corectional                               facility               in         the          Sheridan                area.                            Given              the
+benefits              of         this                project                and            its         relationship                   to             state              and          local
+economic                   development                               policies               and             the         demand                  for         this          type             of
+facility             in         this            area                 as         a     matter                 of         federal                 policy,                failure             to
+modify            the                urban                 growth                    boundary                     would             have              the              effect              of
+defeating                 local,             regional                      and         federal                policy            but             would              have             little
+
+                                                                                I-2
+                                                                                                                                                      run         44         nce         18'7
+               impact on local, regional or national agricultural production.
+
+2.    Areas   which        do     not         require                a      new         exception                      cannot             reasonably                 accommodate
+the   use.
+
+Findings:      The     City Council and Board find:
+
+               No      areas                which             are         either            inside           an         urban             growth              boundary              or     are
+               in     an         area              which              has         already                   been             granted                  an      exception                  could
+               reasonably                   accommodate                          the         proposed                  uses.                  As      noted         elsewhere,              an
+               exception                    was         granted                 for         the        present                    sewage              treatment               facilities.
+               For         practical                   reasons,                  any             new         sewage                     treatment                 facilities             must
+               be      located                    adjacent                 to         the         existing                   facilities.                      The         City-owned
+               land         was              purchased                     for          the            purpose                    of          expanding                the         present
+               facilities                   and             for       the             purpose                of             spray              irrigation                should           that
+               become            a requirement                           in the future.
+
+               With             regard                 to          the          Bureau                 of         Prisons’                    facility,             the          Delphian
+               School,             located                    in      the         hills            northwest                       of         Sheridan,              was           initially
+               considered                    for             potential                 conversion                       to          a         prison          facility.                   This
+               school             is         located                 in          an         acknowledged                                exception                 area.                  After
+               eonsidering                    this            site,             the         Bureau                of          Prisons                concluded                that         the
+               Delphian                School                site        was          too        small        and             the         expense             to     renovate              the
+               building                to     meet                 prison             standards               was                 too         high.               There         were         no
+               other            sites             within             exception                     areas               or         the          existing             urban           growth
+               boundary                 that           met           the         Bureau                of     Prisons'                    requirements                    (200       acres,
+               relatively                         flat,                  with                a           willing                        seller,               buffered                   from
+               development,                        with             access              to         im proved                       roads             and          urban          facilities
+               and              services,                      relatively                        close             to               1-5              and           the           Portland
+               metropolitan                        area.)                   The             PADS              identified                       two          sites         within           the
+               MeMinnville                    Urban                 Growth              Boundary                   as         potential                sites.             Those           sites
+               are         outside                of         the         vicinity.                     For         purposes                     of         this     consideration,
+               the         vicninity                    is          considered                    the         Sheridan,                        Willamina                  and        Grand
+               Ronde            area.                  This         area          was            identified                  by         the        County          and       the         State
+               as     an        economically                         lagging                area,           and         so         designated.                      The         economic
+               lagging area does not include the city of McMinnville.
+
+                                                                                        1-3
+                                                                                                                                           rik          44 nee                   1&8
+
+In      addition,               PADS              failed             to             demonstrate                         that          the          particular                   sites
+
+could         more             reasonably                 accommodate                                 the         proposed                  use.              They            failed
+to      determine                     whether                there                   would             be             public           acceptance                        of       the
+facility,             a         key      criteria                   to          the          Bureau                     of      Prisons,                whether                   the
+site      would                 conform                 with               the             MeMinnville                         Com           prehensive                       Plan,
+whether              the         site         was            adequately                      buffered                        from           incompatible                        uses,
+particularly                    airport             and             residential                         uses,                and           whether                  the          site
+could          be.         acquired                for         the              proposed                    use.                PADS               also            failed          to
+provide              any         information                    on              the         cost             of         providing                  public            services
+to      the       proposed               sites            and            the          impact                 upon             other           elements                   of      the
+MeMinnville                     Comprehensive                             Plan.                   In         addition,                 a      letter               from          the
+McMinnville                     Planning                  Department                             demonstrates                          that             the         proposed
+sites          are             not      suitable                    for              the          federal                    prison              facility.                       The
+information                    provided            by        PADS                    that        the          MeMinnville                     sites           contain              no
+known           archaeological                       sites                is         not         persuasive                     in         light         of        the          fact
+that      the             Sheridan            site           also              did         not         have             any          known             archaeological
+sites         until            the      extensive                    examination                            of          the          site         was          undertaken
+by      the          Bureau             of         Prisons                     as      part             of             the         environmental                          impact
+study.
+
+In     light         of        the      above             information,                           even             if     it     were             determined                     that
+PADS           had             provided            sufficient                        information                        to      demonstrate                         that          the
+alternative                sites         in       McMinnville                          could             more                reasonably                 accommodate
+the       proposed                     use,           examination                                of          the              specific                 circumstances
+surrounding                    those          McMinnville                           sites         demonstrates                             that        they          are         not
+available and would not be suitable for the prison facility.
+
+Although              not            specifically               raised                 at         the         hearing,                 PADS              entered                into
+the      record                 information                   indicating                         that             they          considered                     a         site      in
+The       Dalles,                Oregon              as       an               alternative                    site.                  This          site            was        autside
+of      the      vicinity               in        that         it         is         not         in      or            adjacent              to        the          Sheridan,
+Willamina                 or         Grand         Ronde                 Urban               Growth                    Boundary                  and          outside            the
+Yamhill              County/State                       of      Oregon                      designated                        economic                  lagging               area,
+and      also             outside            of      Yamhill                        County.                      In      addition,                 PADS              provided
+even           less             information                     on                  this          site                 than           they             did          on _         the
+
+                                                                     I-4
+                                                                                                                                                   FILR- 44                       PACE     189
+                   McMinnville                    sites.                  Camp               Adair          was          first           mentioned                      in         rebuttal
+                   portion            of         the            hearing             by          opponents                of      the               Sheridan                  site,          and
+                   therefore               was            out      of     order           and         not     properly               before                the         Council              and
+                   Board.                 On     neither                The      Dalles              site     nor        the         Benton                County                 site     was
+                   there            specific                    information                   from           which              to            determine                      that           the
+                   alternative                  sites             would          more           reasonably                 accommodate                            the             proposed
+
+                   use.             Their            distance              from           1-5        and      the         Portland                  metropolitan                          area,
+                   along            with        the             other         factors            mentioned                    above,               also          preclude                 their
+                   consideration                 as an alternative                           site.
+
+3.     The      long-term             environmental,                           economic,                    social            and              energy              consequences
+resulting       from      the        use        at          the         proposed              site      with         measures                      designed                  to      reduce
+adverse        impacts      are           not         significantly                  more             adverse             than           would              typically                    result
+from     the    same       proposal              being                 located       in         areas        requiring               a         goal         exception                     other
+than the proposed site.
+
+Findings:          The City Council and Board find:
+
+                   The              long-term                      environmental,                           economic,                      social                  and               energy
+                   consequences                       resulting                from             the         correctional                       facility            use              at      the
+                   proposed                    site             are           thoroughly                    addressed                     in          the              Final               EIS.
+                   Alternative                  sites             identified             as      Sites         A         through               F      in         the         Final          EIS
+                   and Sites 4 and 5 identified by PADS                                                    were evaluated.
+
+                   The          topography                        of      Site       A          and          Site         B      presented                        problems                  for
+                   construction                      of         the       new            generation                 of         minimum-medium                                      security
+                   federal                correctional                    facilities.                       Clearance                    of         wooded                    areas          of
+                   Sites        A         and         B         would          have           resulted              in        significantly                      more               adverse
+                   environmental                          impacts.                    Economie                     costs         associated                       with               access,
+                   sewer            and        water            improvements                     to Sites           A     and        B        would          also            have         been
+                   significantly                      higher              than           anticipated                    costs            for          improvements                            to
+                   the subject site.
+
+                   Site         C         was         bordered                 by        a       number             of         residences                    and              additional
+                   development                         is          projected                  for           this          area.                        Buffering                         would
+                   consequently                      be         more       difficult             to         accomplish               at         Site         C         than          at     the
+
+                                                                                     II-5
+                                                                                                                                     FILM         44         PACE         180
+
+subject            site        south            of        the        highway.                   Economie                       ecosts       associated                   with
+construction                   of     new            sewerage                 and            water           lines,            and        improvements                     to
+access             roads,                 would                be          significantly                       higher                at          Site          C         than
+anticipated costs for comparable                                                 improvements                       to the subject site.
+
+Site         D      was         eliminated                          from         further             consideration                         because                 of     the
+environmental                             consequences                            associated                         with                 the            floodplain.
+Additionally,                    because                   of         the         abandonment                         of          the            Steel             Bridge,
+Site     D         is         relatively                  isolated               from           the            facilities                 and         services             of
+Willamina.
+
+Site         E     did         not             meet            the         Bureau's                minimum                     acreage                requirement.
+Additionally,                       the         site            did         not              have            eonvenient                     access                 to     the
+highway            and was not buffered from                                        the highway.
+
+Site         F          had         many                 similarities                   to      the            subject                site.                 However,
+economic                 costs            associated                   with         the         greater               distance                   to      the            waste
+water              facilities                   would                 have               been                higher              at          this            location.
+Additionally,                       Site             F          is         bisected                 by          a         drainage                    swale,              and
+development                    consequently                          would        have             resulted               in     more             environmental
+disturbance.
+
+Representatives                           of         PADS             submitted                    information                       on      two            additional
+sites        (#4         and         #5)        in        the         Sheridan               area            which             would         also           require          a
+goal      exception.                           Soils           on     Sites         4        and         5     are        less productive,                              based
+on      SCS             Soil         Capability                      Classifications,                        than          soils            on        the          subject
+site.             However,                     the        economic                 and          energy               consequences                        associated
+with          access            improvements                           and         the          marginal                  costs             associated                   with
+the      greater                distance                  to         the     waste              water               lagoons               are         significantly
+higher at Sites 4 and 5.
+
+The              long-term                      environmental,                               economic,                         social              and              energy
+consequences                    resulting                  from            the      prison               and        expanded                 sewage                lagoons
+at      the        proposed                    site,           with         implementation                           of         mitigation                   measures
+
+                                                                      11-6
+                                                                                                                                nut 44 ce TOL
+                specified           in         Section               IV      of      the         Final      EIS        are         not          significantly
+                more       adverse              than        would             typically           result        from         the         same           proposal
+                being located at Sites A, B, C, D, E or F.
+
+                The     primary            factors          which             make         use     of     the     proposed               site     preferable
+                are:
+
+                1.      Existing           access           is        adequate             and       no     off-site            improvements                       are
+                        required.              Minor traffic impacts on developed neighborhoods.
+
+                2.      Proximity               to         sewage                 lagoons;          efficient             and         economical                     to
+                        convey waste                 water by gravity to City property.
+
+                3.      Use         of         City        property                  for     buffer             reduces            the          amount               of
+                        productive agricultural land included in the UGB.
+
+                4.      Construction                  of    a         14"         water     line         from      City         reservoirs              to         this
+                       site         will        have             a        community-wide                    benefit             and             dramatically
+                        improve fire flows to the downtown                                         area.
+
+4.   The    proposed       uses          are     compatible                   with         other         adjacent         uses        or         will        be      so
+rendered    through    measures            designed         to reduce                adverse        impacts.
+
+Findings:       The      proposed              uses        of         the         federal         prison        and       sewage               lagoons             are
+                separated           from        urban            development                to     the     north       by       State           Highway             18.
+                The      site       is     separated                  from         agricultural            lands        to      the        east          by        the
+                railroad;           and         separated                   from         agricultural             lands         to        the       west             by
+                Greencrest           Cemetery and Ballston Road.
+
+                There         are        relatively              few         residences             located           adjacent             to      the            site.
+                Mitigation           measures              proposed                 to     minimize         the       impacts             of      the         prison
+                on nearby residents are presented in Section IV of the Final EIS.
+
+                                                                             11-7
+                                                                                                                        vn 44 mee 162
+Facilities             will             be       sited            to          minimize                     or         avoid              entirely           the
+disturbance                  of          Class             1_     soils.                      Additionally,                      the         Bureau           is
+committed               to        the        concept             of      a     leaseback                    arrangement                   to        continue
+agricultural                 activities               on         50-55          acres               of      the         undeveloped                      buffer
+area,
+
+The     UGB            line        was         drawn             to     maintain                    the         viability           of       agricultural
+parcels      to        the         south         of        the        site.              No         new         substandard                  parcels        are
+created      with this UGB                     amendment.
+
+Experience               at         the          State                correctional                   facility               at         Santiam             Pass
+indicates         that              farming                and         correctional                        facilities             are          compatible
+uses.
+
+The     sewage           lagoons              and          prison        uses            are        separated               from          incompatible
+urban development by the major barrier of Highway                                                                     18.
+
+The     Bureau           has        committed                    to     mitigation                   measures               which            will    reduce
+adverse                 impacts                       on               adjacent                          residential                     development.
+Additionally,                 the            Site          Design              Review                    process             will         provide            an
+opportunity for refinement                                 of these mitigation                             measures.
+
+Impacts       on             adjacent               agricultural                    uses            will         be         minimized               by      the
+presence          of         the         physical               barriers            of        the         railroad           on        the      east        and
+the     cemetery                   and         Ballston                Road              on         the         west.                  Leaseback             of
+undeveloped                       buffer              areas                  will              maintain                     productivity                    and
+compatibility                     with        agricultural                    operations                     to        the          south           of      the
+site.
+
+                                                                II-8
+                                                                                                                                               FILE      44          PACE      193
+IL CITY OF SHERIDAN                                      COMPREHENSIVE                           PLAN
+
+The     Land             Conservation                    and           Development              Commission                      (LCDC)          acknowledged                  that      the
+City          of         Sheridan                Comprehensive                        Plan       was            in        compliance                  with     the           Statewide
+Planning                Goals          in        July         of       1980.            The      Yamhill                  County         Comprehensive                       Plan       was
+acknowledged                     by LCDC                in June of 1980.
+
+A     change             of     the         acknowledged                   Urban         Growth            Boundary                   is considered            an       amendment
+to     both          the         City        and         County               Comprehensive                      Plans.               Therefore,             this       amendment
+has     been             reviewed                 for         consistency                with      the           goal           and     policy          direction             provided
+in the City of Sheridan and Yamhill                                              County          Comprehensive                        Plans.
+
+Each      goal             in        the     Sheridan                  Comprehensive                  Plan           is     supported            by      numerous                 policies
+which              provide             more             specific              direction           and           guidance               for       compliance                  with       the
+goal.               The          following               is        a     listing        of      each         goal           and        appropriate              policies,              with
+facts          and            conclusions                     provided             to         explain            why            the      UGB            change              and        Plan
+Amendment                       is     consistent                  with         the      goal         or     policy.                   Policies          contained                in    the
+Plan but not referenced here are not considered applicable to the Amendment.
+
+1.      CITIZEN INVOLVEMENT
+
+Goal     1:         To          maintain            a     Citizen              Involvement                 Program               that        ensures          the      opportunity
+                    for citizens to be involved in all phases of the planning process.
+
+Findings:                       The City Council and Board of Commissioners                                                            find:
+
+                                The         CIP         has            been      maintained                 and            followed            and       there          have           been
+                                numerous                 opportunities                    for      citizen                 involvement                  in     all          phases       of
+                                the         subject                UGB/Plan                  Amendment                      process,             consistent                 with        the
+                                Citizen           Involvement                  goal.
+
+                    o           Individual               notices              were        maiied           to        property             owners             within          300       feet
+                                of         the      site               boundaries             prior         to            the     Joint          Planning              Commission
+                                hearing and the Joint City Council/Board of Commissioners                                                                       hearing.
+
+                                                                                                III-1
+                                                                                                                                            ALK             44      PACE         154
+
+              Advaneed                 notices             of         all         public                 hearings                    were          published                 in         the
+              Sheridan         Sun and News                      Register.
+
+              Hearing notices were also posted at City Hall.
+
+              The      local           newspaper,                    the        Sheridan                  Sun,               provided             extensive                coverage
+              of the UGB/Plan                       Amendment                    hearings throughout the process.
+
+              An       extensive                    record,                    consisting                      of             ldo               exhibits,             has          been
+              eompiled            on this UGB/Plan                             Amendment.
+
+              Outside             of     the          land           use          hearings                     process,                   the      City            Council              and
+              Board          of         Commissioners                            held                public                  meetings              to            solicit          public
+              input on the proposed prison project.
+
+              The       Bureau                 of         Prisons                conducted                          a         parallel             effort             to          ensure
+              eitizen         involvement                       and            participation                            in     the         Environmental                         Impact
+              Statement                process.                  A         scoping               meeting                     was          held         on        November               14,
+              1986      to        define            the      issues              to        be        considered                      in     the         Draft         EIS         and      a
+              public         hearing            was        held            on     March                  18,            1986         to     receive               comments               on
+              the published               Draft EIS.
+
+              The      Bureau              has         responded                      to         all          public               comments                      received           with
+              publication of the Final EIS.
+
+              The        Sheridan-Willamina                                      Prison                   Task                  Force                  conducted                   well-
+              publicized,                 open               meetings                           as            a              component                      of        the _         site
+              identification                   and         evaluation                      process.                           Efforts             were            underway                in
+              the     summer              of        1985         to            identify              a     site              suitable            for        the      location            of
+              a     federal            prison         in        the            Sheridan-Willamina                                    area.              All        citizens             had
+              the      opportunity                    to        bring            sites               forward                   for         consideration                    at      that
+              time.
+
+Policy   1:   The      City            shall        employ                 a     variety                 of         methods                 of     informing                citizens
+              and      obtaining                their           opinions                   and           attitudes                    on         matters            relating             to
+              the planning process.
+
+                                                                                 II-2
+                                                                                                                                                                                       5
+
+                                                                                                                                                                            (San) t)
+                                                                                                                                       FILA        44       PACE           1!
+Findings:           The        City Council and Board of Commissioners                                                find:
+
+                    A          variety          of        methods,                  including              individual                  notice,             newspaper
+                    notice,            posted           notice,         and         extensive             media             publicity              and      coverage
+                    of      meetings              and      hearings               were          used      to         inform        citizens               and      obtain
+                    their        opinions            and         attitudes                on     matters              relating           to        the      land           use
+                    process.                This        multi-faceted                     approach             has        resulted            in    an      open           and
+                    informative land use process.
+
+2.   LAND        USE PLANNING
+
+Goal 1:     To      establish           a     land         use     planning                    process         and         policy         framework                   as         a
+            basis        for     all     decisions           and        actions                related         to     the        use      of       the      land           and
+            to assure an adequate factual base for such decisions and actions.
+
+Findings:           The Board and City Council find:
+
+                    The        Board        and      City        Council             have        used      the        poliey           framework                provided
+                    by         the          acknowledged                  Yamhill                  County                 and       City            of          Sheridan
+                    Comprehensive                    Plans         to     provide                the     basis            for     consideration                  of        the
+                    subject          UGB/Plan            Amendment.
+
+                    The factual base for this decision is provided by:
+
+                    The         acknowledged                     Comprehensive                         Plans         of         Sheridan            and          Yamhill
+                    County.
+
+                    The         Environmental                    Impact             Statement              prepared               by      Louis            Berger               &
+                    Associates on behalf of the Federal Bureau of Prisons.
+
+                    The        Urban        Growth         Boundary               and Comprehensive                         Plan       Amendment                  Report
+                    prepared             by        Benkendorf                 &       Associates                on        behalf          of        the         City            of
+                    Sheridan.
+
+                                                                                  IlI-3
+                                                                                                                                      rim 44 ice TOS
+            The      Water/Sewer                      Feasibility               Plan            prepared                 by      Curran-McLeod,                     Ince.,
+            Consulting Engineers, on behalf of the City of Sheridan.
+
+            Letters,         exhibits                and     testimony                    submitted                 at        public         hearings.                 The
+            hearing          record              consists               of          14D          exhibits,                    including             letters         from
+            several state agencies.
+
+            A     substantial              factual           base             has     been         compiled                     and         substantiates              the
+            decision          to        approve             the         UGB           Amendment                      and            Comprehensive                   Plan
+            Amendment.
+
+Policy 1:   The      City          shall        review             the         Comprehensive                             Land         Use          plan       and       all
+            supporting             documents                 at         least         every         five             years            to      ensure            that      a
+            factual          basis             for         planning                 decisions             is             maintained.                      All       plan
+            review          shall         be         undertaken                 consistent                with                the      Statewide                Citizen
+            Involvement Goal and with the City's Citizen Involvement Program.
+
+Findings:   The Board and City Council find:
+
+            Sheridan          Comprehensive                        Plan             and         Ordinances                    were          acknowledged                 by
+            LCDC       in 1980.
+
+            The      City          has         received                notification                from             DLCD               that         the      periodic
+            review process for Sheridan will begin in July of 1986.
+
+            The      City      has         received           a        grant          of        $3,900         from             LCDC           to     assist        with
+            the plan update process.
+                                                                                                                                                                              3
+            The      City          will        address            the          land         use      issues                   other         than      the        prison
+            and      the           sewage                  treatment                 facilities                during                 its      periodic             plan
+            review.
+
+            The      City          of     Sheridan            has             taken         a     conservative                       approach             with         this
+            UGB/Comprehensive                              Plan         Amendment.                         The                only          acreage         included
+            within      the         amended                 UGB          is     that            needed         to         accommodate                     the       site-
+            specific          requirements                        of          the          Bureau              of             Prisons          and          also         to
+
+                                                                         Tll-4
+                 accommodate                 an     area          needed             for           associated            expansion                   of         the     City's
+                 sewage          treatment              facilities.                 Given            the     pending             Comprehensive                               Plan
+                 Update          process,           the         City          Council               and          Commissioners                        find            that         a
+                 factual basis for planning decisions will be maintained.
+
+3.      AGRICULTURAL             LANDS
+
+Goal:       To   preserve         the        economic                 viability               of     agriculture               by          preserving                   prime
+            agricultural land for farming.
+
+Findings:        The City Council and Board find:
+
+                 Approximately                    95%        of         the         land            area          within             the         existing                   UGB
+                 consists of SCS Class I-IV soils.
+
+                 The     area      included             within          the        amended                 UGB      consists               of        predominantly
+                 Class      II     Amity            soils.               Smaller                   pockets         of          Class            I,        III         and         IV
+                 soils are also found on the site.
+
+                 Approximately                 36       acres           of         the         City        property             included                   within                the
+                 UGB      are     committed                to      the        existing              sewage          lagoons.                    The        balance                of
+                 the     approximately                    324          acres             included            within            the           UGB                has         most
+                 recently been farmed for wheat.
+
+                 Construction                 and          operation                     of         the          correctional                        complex                     and
+                 expansion             of         the      sewage                  lagoons                will      result             in            the          loss            of
+                 existing        and         potential            crop         production                  from         this         site.                Based             on     a
+                 worst-case             scenario,               280      acres                of     wheat         crops              will           be         displaced.
+                 Using      a     1985         wheat            yield         of     79.9           bushels         per         acre,            22,372               bushels
+                 of wheat        per year           would         be lost in crop production.
+
+                 The     value          of        22,372          bushels            is        estimated            at         $79,420.60,                       based            on
+                 the ASCS         1985 loan rate of $3.55 per bushel.
+
+                 The      worst-case                scenario             represents                   .77%          of         all         wheat                grown             in
+                 Yamhill         County        in 1985.
+
+                                                                             TH-5
+                                                                                                                           wk AA ice 188
+The         findings               of         Section                I,        Factors          4,        6         and           7        are         incorporated
+herein by reference.
+
+The        federal            government                        currently              pays          farmers                in        Yamhill               County          to
+       4
+keep eid acres of land fallow.
+
+According               the         1982             Preliminary                  Report             of        the          Census               of         Agriculture
+for        Yamhill             County,                    the        total            acres         of        wheat               harvested                   inereased
+from          36,962           acres                in        1978        to      39,936             acres            in         1982;           and         the         total
+bushels            of         wheat                harvested                    increased                from              1,466,415                   in         1978      to
+2,544,321           in 1982.
+
+The         ASCS              Production                       Adjustment                 Program                     alone                affected                a      30%
+reduction           in acreage planted to wheat                                          in 1985.
+
+The         Chairman                    of         the        Yamhill             County             Soil           and           Water               Conservation
+District            reviewed                        the         Draft            EIS          and         commented                           that,               although
+farmland                would            be         removed                    from      the         agricultural                      base,            the        effects
+would be acceptable.
+
+The        City     Council                  and          Board           of     Commissioners                       recognize                    that        the        UGB
+Amendment                     encompasses                       prime            agricultural                      land.              However,                    the     site
+exhibits                several                    locational                    factors                 and               characteristics                              which
+warrant            conversion                        of        the        agricultural                   soils         to         the          urban              uses      of
+the    Federal           Prison              and expanded                       sewage         lagoons,               most            notably:
+
+a.         Location            of            the         sewage            lagoons            adjacent                 to        the          proposed                  prison
+           site          provided                         opportunities                       for             efficient                       and             economic
+           disposal            of            prison             waste            waters.                      It      is         most             cost-effective
+           from          an         operational                       standpoint                to            maintain                  all           City         sewage
+           lagoons            at         the         same            location.                  Marginal                    costs             associated                 with
+           construction                       of          a     sewage                collection                    line          inerease                   in         direct
+           relation           to         the         distance              from         the          sewage                lagoons.                    The         subject
+           site,        therefore,                       is     the            most       efficient                  site             to      serve               from          a
+           sewage standpoint.
+
+                                                                      II-6
+                                                                                                       eux         44 -                     199
+Existing          transportation                           facilities               available                to         the          site       are
+adequate               to              accommodate                        the             proposed                 federal               _ prison
+
+development                     with          no      significant               affect             on         traffic              conditions.
+Traffic          to         and          from             the         facility            would          be         channeled                  onto
+existing          roadways                     of      Highway                 18         and          Ballston                Road/Bridge
+Street           and                  consequently                      would              not           disrupt                   residential
+neighborhoods.
+
+Construction                     of      a          new          14      ineh             waterline                from             the        City
+reservoirs                 to          the          federal             prison             on _         Ballston                Road _         will
+dramatically                    improve             fire        flows      to        the         downtown                area            and    the
+High      School.                     Therefore,                water      system                improvements                      needed         to
+accommodate                     the prison will benefit                         a much larger area.
+
+The       subject                site          offers            unique              opportunities                      for          buffering.
+
+The      sewage                 lagoons             provide           permanent                  buffering              on         the      north.
+The      City          and             Bureau             of      Prisons            have         negotiated                   a         property
+transfer          agreement                        which         will     result            in     a      smaller,                 contiguous
+prison      site                (181         acres)             and      also             maintain                opportunities                 for
+expansion             of         the         sewage             lagoons             and     land          disposal              of        treated
+efffuent.                  Major             physical           features             of     Greencrest                   Cemetery               and
+Ballston         Road             on     the         west        and      the        railroad            on       the         east        provide
+defined boundaries to urbanization.
+
+The      positive               impacts             which         will     result           from          the       development                   in
+terms       of        jobs             and          payrolls            will        offset          the           relatively                small-
+seale loss of agricultural jobs, products and income.
+
+The      size,        location,                and         parcelization                  all     reduce            the            amount         of
+prime     agricultural land needed for the UGB                                                   Amendment.
+
+                                                     II-7
+                                                                                                                                       cin             44 ice              260
+
+Policy 2:   Agricultural             land          conversion                 to     urban             uses           shall        be         done           only         when
+            adequate            public                 facilities              and          services                    are             available                   to      the
+            area(s) proposed for development.
+
+Findings:   The    City Council and Board find:
+
+            The             existing                   infrastructure                        of                  transportation,                              electrical,
+            telephone,              fire         protection,                  police             protection                      and          school                services
+            available         at      this        location          can             accommodate                            the     development                       of     the
+            federal prison complex.
+
+            Expansion           of         the         city's    sewer               and          water               systems                to         accommodate
+            development               of         the      prison         complex                  at        this        location                  is     feasible          and
+            cost-effective,                  and         will       be         done           in            conjunction                      with            the         prison
+            project.
+
+            Because            of          the          job-creating                      potential                   of         the           prison               project,
+            "...the         State      of         Oregon           is         prepared                 to        take            every             necessary               step
+            to secure funding for sewer and water services to the property."
+
+            Adequate                public              facilities                 and        services                      are              either                currently
+            available          or,          where           necessary,                     will             be        upgraded                    in         conjunction
+            with      the     development.                      The           City         has         an        opportunity                  to         leverage           the
+            jobs      potential            of      the      prison             to        secure             funding               of         sewer           and         water
+            improvements               to the property.
+
+Policy 3:   The    City        shall        encourage              Yamhill                 County                to        restrict           commercial                   and
+            residential              development                         outside                  the              Sheridan                    Urban                 Growth
+            Boundary.
+
+Findings:   The       Council              and          Board           find         that              this           policy            is         not         applicable
+            because           the          amendment                     of         the           UGB              will           bring                the          proposed
+            development                inside            the       UGB.                    The              expansion                   of         the         treatment
+            facilities         is      not             commercial                    or      residential,                        although                    the.        prison
+            facility has residential aspects.
+
+                                                                        TlI-8
+                                                                                                                                              rut 44 ine 204
+                   Sheridan                   and              Yamhill                County                    have                historically                      discouraged
+                   expansion             of the               UGB        south of Highway                          18 to accommodate                                  commercial
+                   or      residential                    development.                           This             UGB               amendment                     however,          is
+                   distinct from                   past amendments                       for two primary reasons.
+
+                   First,          only              public              facility/institutional                               land            uses          are          proposed
+                   south           of          the              highway;              associated                        commercial                     and_            residential
+                   development                      is        appropriately                  located               to         the        north         of         Highway          18
+                   within              the         existing                UGB.                 Second,                  the         Bureau                of         Prisons       is
+
+                   committed                  to         this       site        because              the          property               is    located                near     urban
+                   development                       and            facilities,                yet           is         buffered                 from                 encroaching
+                   development                           by          virtue             of           adjacent                       agricultural                  - uses          and
+                   restrictive zoning around the site.
+
+                   Approval              of        this         UGB        Amendment                   will         not         establish              a        precedent         for
+                   future urban expansion south of Highway                                                        18.
+
+4.   OPEN        SPACES,          SCENIC                 AND        HISTORIC                 AREAS,               AND          NATURAL                 RESOURCES
+
+Goal 1:     To     conserve                  open             spaces,           and          preserve               natural,                  scenic             and         cultural
+            resources.
+
+Findings:          The City Council and Board find:
+
+                   The          City          property               and        the      proposed                  prison            site        are            not     identified
+                   or designated                   as a significant                   open       space,            natural           or scenic              area.
+
+                   Prior          to         preparation                   of     the          EJS         for          the         proposed               prison            project,
+                   the          site          was             not        identified             as          a       significant                  cultural               resource.
+                   As       a      component                        of      the         EIS,         the           most             extensive                   archaeological
+                   survey          carried               out        in     Yamhill            County              within            40        years         was        conducted
+                   on-site.
+
+                                                                                   TI-9
+                                                                                                                                  cin 44 one 29
+                A     total          of             seven              prehistoric               archaeological                      sites           or           surface
+                concentrations                      of          artifacts          and       a      number              of          isolated              prehistoric
+                artifact           finds             were              observed             and          recorded                  within            the          project
+                boundaries.
+
+                Based         upon             the                  archaeological                survey,              the          cultural                resources
+                identified           on             the              subject         site         are       potentially                        significant                  and
+                should      be      conserved.                         The     Board         and         Council         recognize                   the     Bureau's
+                commitment                 to             avoid            disturbance              of      the          identified                  sites            as      a
+                method        to     ensure                   compliance             with        the      City's        open             space,        scenic              and
+                historic           areas                 and          natural            resources.                     Specific                  measures                   to
+                conserve            these                     sites        will       be          addressed                  in          the         zoning                 and
+                development           process.
+
+Goal 2:     To preserve significant historic landmarks, sites and structures.
+
+Findings:       The City Council and Board find:
+
+                Standing           structures                        within        the        project             area              include            the            Evans
+                house,      probably                     built         around         1900,         and      a         number              of        outbuildings.
+                One      outbuilding                     is         probably       contemporaneous                           with         the        construction
+                of    the        residence                     while         the      others            represent                 modern             construction.
+                No       architectural                         or      historical           significance                 is         attributed                   to        any
+                of the structures.
+
+                The      State       Historic                       Preservation             Office         (SHPO)                 reviewed                the        Draft
+
+                EIS     prepared               on             the     proposed           prison          project             and         stated            that            they
+                had "no comment"                         on the proposal.
+
+                Amendment                 of         the             UGB       and          Comprehensive                         Plan         and         subsequent
+                development                    of             the       site         will         not       impact.                 significant                  historic
+                landmarks,            sites                   and      structures,               except           as         noted              under            Goal             1
+                above; findings of Goal                               1 are incorporated by reference.
+
+                                                                             III-10
+                                                                                                                            FILM             44         Page           203
+
+Policy 2:   Efforts         shall          be        made            to      preserve               creeks        and         floodway                      areas         as
+            open      space.               These            areas          shall         be        maintained            to       provide                   a     natural
+            storm     water and drainage system.
+
+Findings:   The    City Council and Board find:
+
+            A      small      area              in     the           northeastern                  corner         of        the             181l-acre                 prison
+            site     lies      within                the        100-year                flood        hazard            area.                     The            proposed
+            correctional                complex                 will         be         sited        to      avoid            development                             within
+            this flood hazard                   area.
+
+            Expansion              of      the        City's           sewage             lagoons           can        be         accomplished                          with
+            construction                  of         flood             protection                  levees.                  No              structures                   are
+            proposed          in        connection                   with         the      sewage           lagoons,              so         that           the         City
+            property shall remain open space.
+
+            The      Bureau             intends            to        implement                a    stormwater                 management                          system
+            that      will         collect,             hold           and         slowly           release            runoff               so         as        to      not
+            adversely impact downstream                                     properties.
+
+            The      existing             drainage               swale            will        be         maintained              and             will           continue
+            to function as an improved,                                   natural drainage system.
+
+Policy 3:   Sheridan's              inventory                   of         historic               resources             shall               be          continually
+            updated          to         inelude              any           additional               qualifying              sites            or         structures.
+            Special         funding              sources             and          incentive              programs             for           restoration                  and
+            preservation shall be investigated.
+
+Findings:   The Council and Board find:
+
+            The      identified                 archaeological                     sites           are     considered                   as        additions               to
+            Sheridan's inventory of historic resources.
+
+            The      City          will         consider             funding             sources           and     incentive                     programs                for
+            preservation                  of         these           sites         when            the      property                   is        annexed                 and
+            rezoned,         consistent with the plan policy on historie resources.
+
+                                                                          TW-T1
+5.   FISH AND         WILDLIFE                   RESOURCES
+                                                                                                                              rit 44 ice 204
+
+Goal 1:     To     protect             and          enhance          the             fisheries            potential               and         the             associated
+            wildlife habitat of the South Yamhill                                      River.
+
+            The    area         included             within        the      UGB            Amendment                   does         not       abut            the     South
+            Yamhill       River            or the     associated           riparian          habitat            of the        river,
+
+            o      The         site         provides         habitat             for        various            animals            commonly                     found      in
+                   the         region.                On-site            habitat             evaluation                    revealed             that           the      site
+                   does         not          contain         potential                habitat            for         threatened                   or      endangered
+                   species of Oregon or the United States.
+
+            o      The         findings             under         this      goal,            Policy             3,         below,         are           incorporated
+                   herein by reference.
+
+            The       fish           and         wildlife         goal          emphasizes                    the      maintenance                       of         wildlife
+            habitat       in     and         around         the     South            Yamhill             River.              Although              the        Final      EIS
+            does      identify              wildlife        species             present            in     the         area          included              within         the
+            UGB       amendment,                    the     area         does        not         include            significant              vegetative               cover
+            for    wildlife           species.              The      UGB             change             and         Plan     Amendment,                       therefore,
+            is consistent with the City's fish and wildlife goal.
+
+Policy 3:          Ensure             that         land      uses         and          development                     does         not         degrade               water
+                   quality associated with fish and wildlife habitat.
+
+Findings:          The       City Council and Board find:
+
+            o      The       South           Yamhill         is    used         as     a    migratory                pathway            by        two         species     of
+                   anadromous                    finfish:          winter            steelhead                trout         and     coho           salmon.              The
+                   area         is         not     primary          habitat                and      is        not          used      as       a        spawning           or
+                   rearing ground.
+
+                                                                           TII-12
+                                                                                                                                  FILK            44       Pate         205
+            Steelhead              trout             enter              the         South           Yamhill               between                 December                and
+            April.           The             young          rear            for       two        years        in      the        upper             tributaries            and
+            move       downstream                     between                     March          and        May.            Coho         salmon                 enter      the
+            South      Yamhill                between                 September               and       November.                      The         young          rear     for
+            one year and move downstream                                              between           March and May.
+
+            In    1969,          the         Oregon              State            Game           Commission                 recommended                          minimum
+            flows          for           fish        life              at         Sheridan              to         the       Oregon                    State           Water
+            Resources Board in the "Willamette                                               Basin Comprehensive                              Study."
+
+            The      City          of         Sheridan                  withdraws                 approximately                    0.7            cubic         feet       per
+            second          (300         gpm)          of         the         2.0        cubic      feet        per         second            (900         gpm)          limit
+            to    which            it        holds          water               rights.             Under            present             conditions,                    water
+            flow at Sheridan is above recommended                                                      minimum              flows for fish life.
+
+            The      additional                 drain            of         1.3      cubie         feet        per        second              from          the         South
+            Yamhill              River              would               still         result           in      flows             above             the           minimum
+            required             for         fishlife.                   Historically,                 low         flows          have             been          recorded
+            which           were             below                the           recommended                     flows            for          fishlife.                   The
+            recurrence                  of      such             dry          periods             would         result            in      flows            below           the
+            minimum              regardless                  of         the         additional              draw         necessary                 for     the         prison
+            complex.                   Additionally,                     winter            steelhead               trout         and         coho         salmon           are
+            not      known              to      migrate                  through             this           portion         of         the         South          Yamhill
+            River during August,                        the critical low-flow                                month.
+
+Policy 4:   When       in         the         best          interest                of      the        community,                  support                the      Oregon
+            State      Department                           of          Fish          and         Wildlife               efforts             to        enhance             the
+            fishery potential of the South Yamhill River.
+
+Findings:   The     City     Council             and Board                    find:
+
+            Jim      Haxton,                 Fish      Biologist                    with      the           Oregon          Department                     of      Fish      &
+            Wildlife             (ODF&W),                    provided                    input         to      the          EIS          on         the          fisheries
+            issue.
+
+                                                                            I-13
+                                                                                                                              is         AA      ME          2G
+
+                 ODF&W              will         have           an     opportunity                to      participate                    in     the         City       of
+                 Sheridan plan update process during the summer                                                   of 1986.
+
+                 The     City        has        and      will        continue        to     cooperate             with            the     ODF&W              through
+                 the vehicle of the City's adopted plan policy.
+
+6.     WATER     RESOURCES
+
+Goal   1:   To   protect            Sheridan's                 water          quality            by      compliance                      with         State           and
+            Federal water quality standards.
+
+Findings:        The City Council and Board find:
+
+                 The     quality           of     the      water         must         not        exceed         the         Maximum              Primary              and
+                 Secondary            Contaminant                     Limits         set     by        EPA       and         the        State         of    Oregon.
+                 In    addition,                the       Maximum               Contaminant                     Level              (MCL)          for         normal
+                 organic chemicals                     and bacteria             must not be exceeded.
+
+                 Tests         on     the             City's         current          water            sources              indicate            there            is    no
+                 difficulty meeting these quality requirements provided:
+
+                 1.      South         Yamhill                 River          water         is        filtered         and          disinfected                  before
+                         use; and,
+
+                 2.      The        Stony         Mountain              Spring            water         sources             are         disinfected              before
+                         use.
+
+                 The        City's               water               resource              base          can           be           upgraded                 without
+                 compromising                    compliance                   with          State         and          Federal                water           quality
+                 standards.                     Specific             design       elements,                  notably              Granular                 Activated
+                 Carbon             filter            media,           will      be          included            in          the          design            of        any
+                 expanded              City              water           filtration               facility              to          assure                 continued
+                 compliance            with water                quality standards.
+
+Goal 3:     To assure an adequate and safe future water supply.
+
+Findings:        The City Council and Board find:
+
+                                                                         I-14
+                                                                                                                                 rik 44 nce 207
+            An     adequate                  and     safe        future            water                supply         is        assured,               as        summarized
+            in     the         following.               excerpt                  from              the          Feasibility                  Report:                           "While
+            water         resources                   within             economic                        means              are            not          abundant,                  the
+            demands                of         the       City,           the             FCI              and         potential                    and             realistically
+            probable               future            water            users             are             not         high         in         any         terms.                    The
+            sources            economically                        available                       to          the          City             of          Sheridan                  are
+            adequate           in quantity and quality for its future needs."
+
+            The      Curran-McLeod,                         Ine.        Feasibility                      Report             is        accepted                    and     adopted
+            as     the        factual              basis        and      action                plan            for     assuring                  an      adequate                 and
+            safe         water                supply,            and             the           report                and              recommendations                              are
+            incorporated herein by reference.
+
+Policy 1:   The      City          shall           support         the           upgrading                    and      maintenance                           of     the         water
+            system            as         a      vital           element                 to         the         continued                    well-being                    of       the
+            community.
+
+Findings:   The City Council and Board of Commissioners find:
+
+            Adequate               water            supply            sources                are         available               and         can             be         developed
+            to     accommodate                       both         the        projected                        year         2010            population                    and       the
+            needs        of        the         federal          prison.                  Implementation                               of     the         water                system
+            improvements                       detailed            in       the              Feasibility                Report                   will         upgrade              the
+            fire     protection                     system            for         all         city            residents.                     Finally,                   the      City
+            has     an        opportunity                  to      leverage                   the         economic                    development                       potential
+            of      the            prison            project                to          secure                  substantial                      funding                  of       the
+            infrastructure improvements.
+
+            A      number               of     improvements                      to          the         existing            City           of        Sheridan                  water
+            supply,            treatment,                       storage                  and_             distribution                       system                     will        be
+            required               to          accommodate                        construction                         of             the             federal                  prison.
+            Comparable                       improvements                   would             be         required                at        any        location                 within
+            or adjacent to the city.
+
+                                                                        I-15
+                                                                                                               i           AA we            208
+
+            The        Feasibility                 Report          documents                   needed                 improvements,                      and
+            attendant              costs,          associated           with         expanding                        and         upgrading              the
+            City's           water            supply,              treatment,                   storage                     and          distribution
+            facilities.
+
+            Existing         transmission                  mains        from             the             water          storage            reservoirs
+            through         the      city      on     Bridge        Street         are         woefully                inadequate               for     fire
+            protection at the High School or downtown                                          buildings.
+
+            The      water         system           improvements               detailed                  in     the        Feasibility            Report
+            are       supported              by       the       Fire          District                   and          will         improve              fire
+            protection.
+
+            The      City,         using      the      Feasibility            Report             for           base         cost        information,
+            will      submit          grant          requests           to         the          Intergovernmental                          Relations
+            Department,              Economic              Development               Department                       and         Farmers             Home
+            Administration            for funding of the water system costs.
+
+            The       findings            under       Goal         3,    above,                are            incorporated               herein           by
+            reference.
+
+Policy 2:   The       City         shall          investigate           and         promote                    the          conservation                 and
+            development              of     water          resources          to    ensure                   that     an      adequate                future
+            water       supply              will      be       available             to          Sheridan's                   citizens            at       a
+            reasonable        cost.
+
+Findings:   The City Council and Board find:
+
+            The      City     of     Sheridan         has     recently             adopted               a     new         schedule        of         water
+            fees, rates and charges designed to:
+
+            1.     Eliminate              deficit          management               of          the            drinking            water          supply
+                   budget;
+            2.     Encourage                water          conservation                  as          a         method              of      extending
+                   resources;         and
+            3.     Allow for the replacement                        of worn equipment.
+
+                                                             I-16
+                                                                                                                   FILK         A4       rACe          269
+
+The      rates            are         scheduled               for        periodic                increases                above          the         minimum
+so      that             the         supply             budget,                including                 a        reasonable                depreciation
+fund for equipment                       replacement,                     may be balanced.
+
+During          the              analysis                of      rates,                it         was             noted           that          substantial
+volumes          of            water          were            being            lost         by     high-volume                       industrial              users,
+principally because the rates provided no incentive to conserve.
+
+The      rates             were         adjusted                to            recover             the             many          dollars          lost         each
+month          by          an         unfair             subsidy               by          the       residential                 services               of      the
+large volume                   commercial                and industrial users.
+
+Within         the         scope            of         the     water                ordinance                is     the         ability         to      include
+special        provisions                   for         large-volume                        users.                The       purpose             of      this      is
+to    assure              that        the         City         can         recover                special            costs           associated                with
+high-volume                users.
+
+Extra       fees               may       be        assessed                   to      non-taxable                   users            such        as_         school
+districts,                Federal                 or          State                 government                      facilities                 and            other
+publicly            owned               installations.                              These             fees              offset           the           property
+taxes securing outstanding General Obligation Bonds.
+
+The      new         water             ordinance                promotes                    water            conservation                 by         virtue      of
+increased                 unit         costs.                   The            ordinance                     and          revised            rates            were
+designed            to          encourage                conservation                       by       major              users.              Conservation
+of      water             by         large         commercial,                         industrial                  and          institutional                 users
+provides             a         cost-effective                       method                  to     extend                 the        City's            resource
+base.
+
+The       findings                   under         Goal             3,         above,              are            incorporated                  herein           by
+reference.                     The     development                       of        water          resources                as     set       forth        in     the
+Curran-McLeod                         Report             constitute                 the          investigation                  and      promotion               of
+development                     of     water                 resources                to         ensure            adequate              future              water
+supplies.
+
+                                                              HALT
+                                                                                                                                   FILK            Ad         PACE         210
+Policy 3:   The           City             shall        coordinate                  the             use             of      the             South         Yamhill                    water
+            resource                       with          other               involved                      and                  concerned                     municipalities,
+            agencies and individuals.
+
+Findings:   The Board and City Council find:
+
+            The          City             of     Sheridan             presently                hold             a        900           gpm _ right-of-withdrawal
+            from              the        South         Yamhill             River.               The            present                 intake           structure                at     the
+            South              Yamhill                River      is        operating                 at        approximately                         one-third                   of     the
+            allowable                     capacity.                   It     will         be             necessary                     to      increase                   the         pump
+            capacity                 at        the      existing            river         intake                from              300        gpm         to      900            gpm       in
+            order              to         take         full     advantage                      of         the             2.0          cubie         feet            per         second
+            (cfs) withdrawal                          rights.
+
+            Other                   municipalities,                         agencies                      and              individuals                       involved                  and
+            concerned                      with        the      City's            use      of            the             South          Yamhill               River              include
+            the          State             Water          Resources                 Department,                            DEQ,              Yamhill             County                 and
+            individual                     property             owners              and             cities                with          water            rights                 on      the
+            South Yamhill                        River.
+
+            It      is             not         anticipated                 that          the             City's                 full         use        of       its            present
+            right             of         withdrawal             will        adversely                    impact                 others.                 The          exercise            of
+            water              rights            by     senior             right         holders                    has         not         occurred                 in     the        last
+            30      years                 to     an     extent             injurious                to     the             City's            water            rights.                  This
+            fact          is        notwithstanding                        very      dry            years                which           occurred               in         1967        and
+            1976-77.                       Comments              have             been          received                    from            the         Water             Resources
+            Department,                        DEQ,           Department                  of         Fish            and         Wildlife,              Yamhill                 County,
+            and individuals with water rights in the South Yamhill River.
+
+            During                 the         implementation                      phase             of         the             improvements                     specified                in
+            the      Curran-MeLeod                            Report,              the         City         will            continue               to        coordinate                 the
+            use          of         the        South          Yamhill             water              resources                    with         the           other              involved
+            and concerned                        municipalities,                  agencies                and            individuals.
+
+                                                                             II-18
+7.     AIR RESOURCES
+                                                                                                                              ‘aun 4h vce Zid
+Goal   1:   To   maintain         and,           when           and        where              feasible,              enhance             the      air        resources             of
+            the community.
+
+Findings:        The City Council and Board find:
+
+                 The     UGB          and        Plan        Amendments,                       and        the        subsequent             development                    of    the
+                 prison          complex                 and          expanded                  sewage                 lagoons              on         the         site,         will
+                 maintain the air resources of the community.
+
+                 Oregon's             air          pollution                 monitoring                     network                 includes                 61         sampling
+                 sites      for             particulates.                               Continuous                     air          quality             monitors                 are
+                 located         at         34         sites.              Because               Sheridan                is        somewhat                 distant             from
+                 the      existing               monitoring                  sites,             none            of      them              are      appropriate                    for
+                 determining                 background                      air         quality                for          the         site      included                within
+                 the UGB.
+
+                 Estimates             of        background                  air         quality            levels                were      obtained                from         the
+                 Oregon           Department                          of         Environmental                           Quality                 (DEQ)              and          are
+                 referenced             in         Table          11        of          the      Final           EIS.              The          data         in     Table          11
+                 indicates            that             background                  pollutant                concentrations                        at        the         Sheridan
+                 site      are         well             below              national              ambient                air          quality            standards                 for
+                 earbon     monoxide                   and      total suspended                      particulates.
+
+                 Anticipated                     air         quality                impacts                 of          the              prison             project              are
+                 discussed on page III-5 of the Final EIS.
+
+                 The      number                 of       additional                    vehicle            trips             generated                 by         the      prison
+                 project         is      considered                    too          small            to         have          a     discernible                   impact          on
+                 air quality.
+
+                 Some       temporary                     impacts                  to         particulate                levels             may             result         during
+                 construction                activities.                         No           lasting           impacts              to          particulate               levels
+
+                                                                             I-19
+                                                                                                                      FILA      AA             ince         212
+            are      anticipated                 during            facility            operation.                  The          facility                will       be
+            heated          with         natural            gas      and            there      will       be     no      incinerators                       on    the
+            site.
+
+Policy 2:   Discourage                  future         development                     that        would          lower          the             quality            of
+            Sheridan's air resources.
+
+Findings:   The     City     Council            and Board            find:
+
+            As      documented                  in     the         facts            referenced             under         Goal         1         above,            and
+            incorporated                 herein            by     reference,                future        development                 of         the         prison
+            complex          and         sewage             lagoons            on     the     site        included           within            the      UGB         is
+            not expected to have a discernible impact on air quality.
+
+            Therefore,             because             the         development                    will     not        lower       the            quality            of
+            Sheridan's             air        resources,             this            policy        has      no        bearing             on          the        UGB
+            change and Plan Amendment.
+
+Policy 3:   Request          assistance                from          the            Department              of     Environmental                            Quality
+            for      technical                 assistance                 in         evaluating             development                        which             may
+            adversely impact air resources.
+
+Findings:   The     City Council and Board find:
+
+            The      Air         Quality         Division            of        DEQ          had      an    opportunity                to        review            the
+            Draft          EIS      through                the      A-95             State        Clearinghouse                 Review                  process.
+            Comments               of     the        Air         Quality            Division        are        addressed         on        page             XI-259
+            of the Final EIS.
+
+            In      addition,             Benkendorf                 &          Associates                requested             assistance                       from
+            Maggie         Conley at DEQ                    as a component                    of the land use process.
+
+            City      staff             and      Bureau             of         Prisons            representatives                have                 requested
+            technical             assistance               from          DEQ          to      evaluate           air         quality            impacts            of
+            the proposal,               consistent              with the adopted                  plan policy.
+
+                                                                    I-20
+                                                                                                                                                                  OAD
+                                                                                                                        SILK          Ad          PACE            Forde?
+Policy 4:   Ensure            that            new          industry            be         located            in         areas             which              minimize
+            impacts           upon             the        air,     water            and      land        resources                    base,            as         well      as
+            upon surrounding land uses.
+
+Findings:   The City Council and Board find:
+
+            The      uses          in         the     expanded              UGB            area        are         public             facilities              and          not
+            industrial; therefore, this policy is not applicable.
+
+            To     the        extent            that        the      prison          can        be      considered                    a      "new            industry,"
+            its    location               will            minimize          impacts               upon            the         air,        water              and         land
+            resources              base,             as      well         as         upon         surrounding                        uses,            because               its
+            separation                  from          surrounding               land            uses         by         the          barriers                of      State
+            Highway            18,        the         railroad           right-of-way                  and         Ballston               Road/Greencrest
+            Cemetery.
+
+            The      location                 south         of     the         highway            and         with            easy           and         convenient
+            access       to        Ballston               Road     and      Highway               18     will       minimize                    the      amount             of
+            traffic           that              would             flow          through                commercial                         and_              residential
+            portions          of         the         town         were         the        facility           located             northwest                    of         town
+            as     proposed              by         the     opponents.                    The        location            south             of         the         highway
+            is     ideal            for             reducing             traffic            generated                    noise,              dust            and           air
+            pollution.
+
+            The     UGB         Amendment                    and      Plan          Amendment                 to        designate               the         site     south
+            of     Highway               18     for        development                of     the        prison           complex                 and         expanded
+            sewage            lagoons               will         ensure        minimal               impacts              upon            air,           water             and
+            land      resources                 base,        as      well       upon            surrounding                   uses.              This             specific
+            location               provides                  exeellent                opportunities                       for             separating                       and
+            buffering the impacts of the use.
+
+                                                                     Ill 21
+                                                                                                                                   FILE       Ag        PACE        214
+Policy 6:        Minimize noise levels whenever possible.
+
+Findings:        The City Council and Board of Commissioners find:
+
+                 Noise           levels            will          be             minimized               because               any             noise-producing
+                 equipment                  associated                  with              heating               systems,                 laundry,                prison
+                 industries,               waste          water              treatment,                 ete.,         will         be         housed           within
+                 enclosed             structures             and             is     not          expected              to          produce            discernible
+                 noise levels beyond the property boundaries.
+
+                 DEQ       ruies           prohibit         an        increase             of         more      than         10         dBA      by     any        new
+                 source      measured                at     any         adjoining               residence.                  All     new        noise        sources
+                 will     have        to     comply          with            the        DEQ       10     dBA         rule,         which         ensures           that
+                 noise levels will be minimized.
+
+                 The      location            of      the        prison            complex              and         expanded               sewage           lagoons
+                 south      of        the         highway         in        a      sparsely            settled         area         will       minimize             the
+                 impact of noise on existing residential uses.
+
+8    NATURAL          HAZARDS
+
+Goal 1:     To   minimize             danger          to         public            safety         and         welfare              from          flooding           and
+            improve        the         general              welfare                 by          reducing             economie                 loss          due      to
+            interruption         of         business         and            industry,            or      damage              to         homes         and         other
+            properties.
+
+Findings:        The City Council and Board of Commissioners                                                       find:
+
+                 The      UGB          change         and         Plan            Amendment,                  in     concert              with        subsequent
+                 development                 of     the     site,           will         minimize            danger           to        public        safety        and
+                 welfare          from _           flooding.                      All       buildings               and           exterior            circulation
+                 areas      associated                with            the         prison         complex             will          be      outside          of      the
+                 flood-prone                areas.               Additionally,                    a     stormwater                      management                 plan
+                 will be implemented                      at the time of development.
+
+                                                                            IlI-22
+                                                                                                                                   FILE            Ad           PACE              2i5
+
+            Part     of     the         land        included               within        the      UGB                 Amendment                    lies        within              the
+            100-year          floodplain                   of      the            South          Yamhill                    River.                 Only              a        small
+            portion         of          the         prison             site         area          is            impacted                 by         the              100-year
+            floodplain.
+
+            The      prison             complex                 will         be         sited         so             as     to      minimize                    or            avoid
+            development                  within             the             identified                 flood                hazard            area.                          As      a
+            component              of         the      site           planning             process,                   the        Bureau             will         design               a
+            stormwater                 management                      system            that         would                collect,           hold             and           slowly
+            release runoff so as to avoid impact on downstream                                                                    properties.
+
+            Expansion             of     the         City's           sewage             lagoons                is        contemplated                    to      the             east
+            of     the     existing             lagoons.                     The         lagoon             will            be     designed                    with           flood
+            protection levees and will not adversely affect the runoff.
+
+            The      findings              under                Section             I!1,               City                Goal         2,         Policy                2         are
+            incorporated herein by reference.
+
+Policy 2:   The      City         shall        designate                    areas         of     recognized                       flood        hazard                    on        the
+            plan    map.
+
+Findings:   The     City         Council             and         Board            find         that        the            area      of        recognized                      flood
+            hazard,          as           depicted                    in          HUD            flood                    hazard             maps,               will               be
+            appropriately                designated                    on         the      Sheridan                       Plan         Map          subsequent                      to
+            amendment of the Sheridan UGB.
+
+            A     portion         of     the        site        included             within            the            UGB         Amendment                      is          within
+            the 100-year flood hazard area.
+
+            Subsequent             to     approval               of        this     UGB          change                   and     Plan        Amendment,                           the
+            recognized                 flood         hazard                area         will          be             designated               in      a         floodplain
+            overlay on the Sheridan                             Comprehensive                     Plan Map.
+
+Policy 5:   The      City          shall            require                that         uses      vulnerable                      to         floods,             including
+            facilities            which              serve                 such          uses,             be             protected                against                    flood
+            damage at the time of initial construction.
+
+                                                                           III-23
+                                                                                                                                    rik 44 vce 248
+ Findings: .    The City Council                     and Board find:
+
+                After        annexation                        of         the      site,        application                   of      the         City's            Flood
+                Damage          Prevention                      Ordinance                will     ensure               that         uses      and       associated
+                facilities           are            protected                   against         flood         damage                  at      the            time       of
+                initial construction.
+
+                The      City         of        Sheridan                    has         adopted         a         Flood             Damage              Prevention
+                Ordinance            (Ordinance                      1980-2)            which     complies                with         the        provisions            of
+                Statewide        Planning                Goal         7 (Natural           Disasters          and Hazards).
+
+                The       Flood             Damage                        Prevention              Ordinance                        requires         that             uses
+                vulnerable            to        floods,                   including         facilities                 which          serve         such _           uses,
+                be      protected                   against                 flood          damage             at          the          time          of            initial
+                construction.
+
+                In      addition,               a          Flood                Control           and         Drainage                     Plan         is          under
+                consideration              to            reduce             flooding        problems               in     the         southeast               part      of
+                Sheridan.
+
+9.   ECONOMY          OF THE         CITY
+
+Goal 1:     To diversify and improve                           the City's economy.
+
+Findings:       The City Council and Board find that:
+
+                The      Final         EIS               and         the          Cost/Revenue                Analysis                 prepared               by       the
+                Economie             Development                            Department              contain               thorough                and         reliable
+                analyses        of     the          anticipated                   employment                and        economic              impacts           of      the
+                federal prison project.
+
+                As    documented                    in     a        letter        from     Gerald           Wood,             Senior         Economist               with
+                the     Economie             Development                          Department,                "...A        regional             economy               that
+                is     dependent                    upon              a         narrow          range             of          industrial            sectors              is
+                generally            more            susceptible                   to      economic                disruption                than         a     region
+
+                                                                                I-24
+                                                                                                                                                                                on
+                                                                                                                                       cin 44                      vice          PLT
+                with       a      diversified               industrial                 base...It            is            to      the             Sheridan                    area's
+                advantage         to diversify its industrial base."
+
+                The       findings             under         Section              I,      Goal             14,             Factors                1      and              2      are
+                incorporated herein by reference.
+
+            o   The       federal            prison        offers          economic                 diversification                          in        the         form           of
+                300      stable,         well-paying                jobs         in      the         federal                    employment                    sector              of
+                the      economy.                The         addition              of         300         federal                jobs        to         the         regional
+                economy           would         bring        a     total         employment                      increase               of            1.25%,         and          an
+                annual payroll boost of 2.64%.
+
+                Approval         of     the      UGB/Plan                Amendment,                   and         subsequent                      development                     of
+                a      federal        prison          on     the         site,          will        serve                 to     expand                and         diversify
+                local          employment                   opportunities                      and              stimulate                    the             local               and
+                regional          economy.                        Total          expenditures                         for         facility               construction
+                (estimated             at       $48         million)             would              have          a             significant                  and              direct
+                effect on the economy                       of the area.
+
+Goal 3:         To      encourage             desired        economic                  growth,            develop                 a     stable           community-
+                based           economy,              promote               greater                  employment                         opportunities                            for
+                Sheridan           citizens,               and      provide               efficient,                       orderly            and             convenient
+                economic development.
+
+Findings:       The City Council and the Board find:
+
+                The       proposed             federal            prison          complex                  is         desired            by            the         Sheridan
+                community,               the      City            Council              and          the          Yamhill                County                 Board              of
+                Commissioners.                    The            effort      to         provide             a         suitable           site           location                 for
+                the     Bureau          of     Prisons            was      spearheaded                    by          a        group     of            citizens                from
+                Sheridan,             Willamina             and         Grand           Ronde              known                 as     the            Three                  Cities
+                Development                  Corporation.                  The          proposal                has            been     endorsed               by             many
+                eivie          organizations,                including                  the          Chamber                      of         Commerce,                           the
+                Rotary,         the     Yamhill            County          Economie                  Develoment                        Committee                    and          the
+                Yamhill          County          Board             of      Realtors.                      Support                 for        the         project                 has
+                also      been         expressed             by         Senator           Mark            Hatfield,                    Representative                            Les
+
+                                                                        I-25
+AuCoin,          gubernatorial                                candidate                 Neil             Goldschmidt,                            the         mayor           of
+Willamina,               and             a             braod          spectrum                 of          citizens                    and             other         public
+officials.               The             prison                 project              and       the             amendment                          to        the       urban
+growth        boundary                       is         desired            by       a      large           segment                     of         the        population
+for economic growth reasons.
+
+When       constructed,                           it     is     anticipated                   that         200         of     the                 300       permanent
+positions           at         the                 federal             prison              complex                    will              come                from            the
+community.                     Because                        these        jobs         are         full-time,                permanent                        positions
+located        in        the         Sheridan                       community,                  the            prison             project                   will      be      a
+major         element                in                the      development                     of         a      stable                    community-based
+economy.
+
+In    addition           to        the             200         full-time                positions               that         are             expected                to      be
+filled      from              the             community,                        the         prison              project                     is         expected              to
+stimulate           the            service                    and     retail            elements                 of         the             economy.                       This
+multiplier           effect                       will          promote                 greater                employment                               opportunities
+for        Sheridan                      citizens.                                  The             efficiency,                         orderliness                        and
+eonvenience                   of             the             proposed                development                       have                  been             addressed
+elsewhere           and            the            findings            of        Section             I,     Factors                1,        2,      3       and      4      are
+incorporated herein by reference.
+
+In    1980,      the          Sheridan-Willamina                                    area        was            identified                    as        an      economic
+lagging area suitable for increased economic growth and activity.
+
+The       federal             prison                   represents               a       non-polluting                   job             source               that          will
+utilize       existing               energy,                    labor           market                   and      transportation                              resources
+and facilities.
+
+Given      the      fundamental                               shift    in       the        Sheridan               area            economy,                     the        City
+and      Yamhill              County                    have          underutilized                      human              and             natural            resource
+eapabilities              and                have              communicated                         a          commitment                           to         increased
+growth      and development.
+
+                                                                    I-26
+                                                                                                                                                                            OAD
+                                                                                                                                       ELK       Ad         ACE             219
+            te)   As       documented                    in         the         City         of         Sheridan                Water/Sewer                     Feasibility
+                  Plan,         the     City's          water              and        sewer            infrastructure                   can         be     expanded               in
+                  an orderly and efficient                               manner to accommodate                                  the federal prison.
+
+                  The          construction               and            operation                of     the        federal            prison            will     generate
+                  a    number          of        impacts             to     the        Sheridan              economy.                  The       employment                   and
+                  material             purchases                    for        construction                    of        the          facility            will         involve
+                  both         manpower                and          monetary               resourcesfrom                       northwestern                     Oregon.           In
+                  addition,             utilization                  of          these             resources                  will       generate                 increased
+                  spending and result in indirect employment.
+
+Policy 6:         The          City     shall           encourage                    economie                 development                     that        will         provide —
+                  employment                    to,     and          a     balance               between             a        broad          range         of     workers,
+                  including professional, skilled and unskilled labor.
+
+Findings:         The City Council and Board find:
+
+                  The      occupational                   structure                  of      the        workforce,                based         on        1980          Census
+                  information,                  is      illustrated                   in     Table             22        of      the          Final        EIS.              The
+                  largest         single              occupational                    category                for        the         Sheridan             census            tract
+                  is      operators,                   fabricators                     and             laborers                (24.9          percent).                      The
+                  largest             occupational                   category                 for            Yamhill             and          Polk         Counties               is
+                  technical            sales            and          administrative                      support               (25.6          and        27.0          percent
+                  respectively).                        The              larger            number             of      white             collar           jobs          at     the
+                  County          level           reflects               the      inclusion              of         more         populated               county             seats
+                  of     MeMinnville                   (Yamhill                Co.)        and         Dallas        (Polk            Co.).           Both        of        these
+                  cities        have        a         much          more         diversified                 economic                 base      than        the         largely
+                  rural         Sheridan               census             tract            with        its      preponderance                       of     lumber             and
+                  wood         products          businesses.
+
+                  It      is      estimated                    that            the          Bureau                 would              transfer             from             other
+                  facilities                approximately                         50              employees                     for           various             positions
+                  requiring special skills and training.
+
+                  The           remaining                     250           positions                   would                 include           basie             security,
+                  clerical,           maintenance-oriented,                                and similar positions.
+
+                                                                               I-27
+                                                                                                                                    uy 4A oe 220
+            The      federal                prison          is         expected                 to     stimulate              the        retail            and         service
+            sectors         of             the      local             economy.                       An         inerease            in     indirect,                  service-
+            sector      jobs                will      greatly                 improve                 employment                    prospects                   for         young
+            people in Sheridan.
+
+            Approval             of        the      UGB          change/Plan                     Amendment                   and         construction                   of     the
+            federal          prison                 complex                       will        provide                 new          direct             and _           indirect
+            employment                      opportunities                     for         a      broad           range         of         workers,                including
+            construction                           workers,                       correctional                            officers,                  administrators,
+            clerical workers and other support personnel.
+
+Policy 7:   The      City              shall         promote                      those              industries             that          are         non-polluting,
+            energy-efficient, and which utilize local labor and raw                                                                      materials.
+
+Findings:   The City Council and Board find:
+
+            The       federal                    prison               and          sewage                 lagoons            are          considered                        public
+            facility/institutional                                uses               rather                than              industrial                    uses               and,
+            therefore,                 this         policy                  does          not         apply.                  However,                    the          use _     is
+            otherwise consistent with this policy.
+
+            The      general                 design              of         the          prison           complex             will        be         of         residential
+            seale, similar to a college campus.
+
+            The      use,             relative              to          industrial                   operations,              will         be         non-polluting.
+            Discharge                 of         prison          waste              waters             will          be     governed                 by         the         City's
+            NPDES      discharge permit                                and established DEQ standards.
+
+            Federal          Prison                 Industries,                    Inc.          (trade              name       UNICOR),                        a _ wholly-
+            owned,      self-supporting                                government                     corporation               that            is        part         of      the
+            Bureau          of             Prisons,              would             establish               an         industrial           program                     at      the
+            institution                complex.                             The          industry               or        industries                 would             provide
+            training         for                 inmates               in     skills             that           are         transferable                   to         jobs       in
+            the   community                        while              also        producing                saleable           goods            and/or             services.
+            Federal          Prison                 Industries                    sell        their           goods           and         services                    only      to
+
+                                                                             IlI-28
+                                                                                                                                   FILS            44             Pace             y
+
+            other         federal            agencies               and,            therefore,                   do     not             compete                   with                 local
+            private         industry             or         other         government                          bodies     in        the         marketplace.                                A
+            few          examples                of         industrial                   training                programs                    at         other                 federal
+            institutions               are        computer                     services,                      auto      repair               and                 maintenance,
+            and         furniture            manufacture                       and            repair.                  Although                   at         this         time                a
+            decision           has         not         been         made             on            the         specific            industrial                    program                  to
+            be          established               at          the          facility,                     the          operation                   (like                those’              in
+            existence             at         other            Bureau                of             Prisons            facilities)                 would                  be            non-
+            polluting and no hazardous                                materials would be generated.
+
+            Depending                upon         the         industrial                     program                 established                  at         the          facility,
+            a     DEQ      Air         Contaminant                   Discharge                      Permit            could        be        required                  for             some
+            activities.
+
+            As      a     federal            agency,                the        Bureau                    of     Prisons            is        mandated                         to         use
+            energy-conserving equipment                                    and practices.
+
+            The         prison         project              will         have            a      significant               and’          positive                      impact              on
+            local          employment                         opportunities                          and              purchase                    of              local                 raw
+            materials.
+
+            Therefore,               the         Bureau             of         Prisons               project            should               be         promoted                        and
+            accommodated                       because              the         development                           represents                  a         non-polluting,
+            energy-efficient                          use          which                 will            utilize          local               labor                    and              raw
+            materials.                  The           Council             and                Board            recognize             that               it        is      difficult
+            to      accurately               project               what         percentage                       of     labor            and            raw            materials
+            purchases             will         come           directly               from                Sheridan.                  However,                          given              the
+            scale         of         the         project,                 it        is             reasonable                 to         assume                        that              the
+            construction                 and          operation                of            the         facility         will           have               a_        significant
+            and positive effect on the local economy.
+
+Policy 9:   The          City          shall            encourage                        industrial                   activities                  that                 will              not
+            deplete         the        energy               resources               of        the         area.           Energy                  conservation                          and
+            efficient            utilization                 of      energy                   resources                shall            be         a         consideration
+            in allowing new industrial development in the city.
+
+                                                                         II-29
+                                                                                                                                     FILK         44           PARE
+
+                                                                                                                                                                              tm)
+                                                                                                                                                                              oS
+                                                                                                                                                                              vo
+Findings:   The City Council and Board find:
+
+            The          federal                  prison            and             sewage                   lagoons                 are          considered                        public
+            facility/institutional                                  uses                 rather                   than              industrial                      uses              and,
+            therefore,                   this           policy            does             not             apply.                    However,                      the         use        is
+            otherwise consistent                             with this policy.
+
+            Portland                General                  Electric                (PGE)                 supplies              electric               power                  to       the
+            area.                  Full           3-phase                power                 is      available                    at          12,470             volts             along
+            Highway                18 and Ballston Road.
+
+            Existing                electric                 facilities                   are              adequate                  to          accommodate                            the
+            prison,            and           an       increase                 in        the         number               and            volume              of          users         will
+            result            in         a        more             efficient                        utilization                of          the          existing                    power
+            supply           base.
+
+            Northwest                    Natural             Gas          Company                     of         Salem,             Oregon             supplies                 natural
+            gas         to         the         city          of         Sheridan.                          To       utilize               the         system                  for      the
+            federal                prison,               a          4-inch                 main                  will          need              to           be           extended
+            approximately                      5,000 feet south of Monroe                                          Street to the site.
+
+            The         energy               consequences                      of        the         proposal             relate                more         to      the            ability
+            of    suppliers                  to       transport                 energy                to         the      site.                 Both          utilities               have
+            indicated               that          the        energy             demands                    of     the         Bureau             of     Prisons                can       be
+            served.
+
+            As      a        federal              agency,                the        Bureau                  of         Prisons             is     mandated                     to      use
+            energy-conserving                                practices.                              Architectural                         design                  and           energy
+            performance                      standards                  will        be         developed                 and         implemented                         to         ensure
+            energy            conservation                        and      to       encourage                      the        use         of      alternative                    energy
+            sources.
+
+            There            will         be        some            increase                   in     local             fossil           fuel         consumption                      due
+            to      vehicle                  trip            demands.                           However,                      the          site         is          located              in
+            proximity                to        several             attractive                       communities                     and          should             not        require
+            extensive                commuting                      patterns.                         Since             the         prison             will         be         located
+
+                                                                               I-30
+                                                                                                                                        run 44 supp 229
+                                                                                                                                                     ao
+             eloser             to     the             prisoners'                 homes          and        closer         to          the         federal             courts
+             than          prisons                   located            outside             the         Northwest,                    there              will      be       an
+             energy savings for visiting families and court-related trips.
+
+Policy 10:   Future             industrial                   growth               found     to         be     incompatible                        with         residential
+             use      shall            be             directed               away         from          existing            or         proposed                 areas       of
+             residential development.
+
+Findings:    The City Council and Board find:
+
+             The           federal                   prison            and          sewage             lagoons             are              considered                 public
+             facility/institutional                                 uses              rather                than           industrial                     uses            and,
+             therefore,                    this          policy              does         not      apply.                  However,                      the       use _     is
+             otherwise consistent                              with this policy.
+
+             The           adopted                    Sheridan                Comprehensive                        Plan          illustrates                    that       the
+             anticipated                    residential                 growth             pattern            for         the          City         is         north       and
+             west          of        the              existing           downtown                 area.               Development                         patterns          in
+             Sheridan                are             shaped            and         directed            by      topographical                       and          floodplain
+             constraints.
+
+             The           uses            of          the          sewage            lagoons               and       federal                 prison             are       not
+             compatible                    with              intense          urban        development.                          In         the     site         selection
+             process,                the             Bureau             and         the         Prison            Task           Force              attempted               to
+             identify                sites              which            were             isolated             from              existing                 or       planned
+             residential              development.
+
+             This      UGB             change                 and       Plan        Amendment                  will       not          significantly                   change
+             the      pattern                   of      growth           in        Sheridan.                 The      site            included                 within      the
+             UGB           is        the             logical         location             for      the        sewage              lagoons                and       federal
+             prison             because                 it      lies         in     close         proximity                to         urban              development,
+             yet      is        effectively                    separated              from         the        city        by          the         physical             barrier
+             of State Highway                           18.
+
+                                                                              I-31
+                                                                                                                                  rie 44 ince 22 4                     be
+
+Policy 12:   The       City            shall           encourage              industry           that        will         raise         the      wage             scale
+             in       the             community,                 and        provides              training            opportunities                   in          skills
+             that can be transferred to other job categories and opportunities.
+
+Findings:    The City Council and Board find:
+
+             The        federal                   prison         and          sewage              lagoons            are          considered                     public
+             facility/institutional                              uses             rather              than           industrial                 uses               and,
+             therefore,                 this            policy         does         not      apply.                   However,                 the         use        is
+             otherwise consistent with this policy.
+
+             Based           on        the         EIS       estimate          of     $7.5            million        annual             payroll,           average
+             annual income per worker would equal $25,000.
+
+             In       1979,            the             median          household            income              in        Yamhill              County               was
+             $16,873.00.
+
+             About           100         indirect               jobs        paying          $12,000             to        $18,000/year                  will         be
+             created with the prison project.
+
+             The       Bureau                of        Prisons         will       intensively              recruit              local         residents             and
+             will      provide                training            tailored           to      the         requirements                    of     various             job
+             categories.
+
+             Representatives                           of      the         Yamhill          County              Job         Training                 Center,           a
+             private          non-profit                    organization,            have         communicated                    a      commitment                   to
+             provide              a     two-year               training           program              designed            to      accommodate                      the
+             requirements                         to        qualilfy          for         Corrections                 Officer                 positions,              as
+             well       as            other            positions           that      will         be      available               with          the        federal
+             prison complex.
+
+             The       Bureau                of         Prisons         project           will         raise        the         wage          scale         in      the
+             community.                           Further,           the      Bureau             of      Prisons           will         provide            training
+             in     corrections,                       administrative                and          managerial                skills            that         can       be
+             transferred                 to            other         job       categories                outside             of         the          corrections
+             field.
+
+                                                                        IlI-32
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.4% of
+the word sequence, and on 66.7% of the figures. Dictionary-recognizable words: 94.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

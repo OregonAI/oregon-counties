@@ -1,0 +1,1084 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/curry-county
+id: curry-code-article-3-division-1
+title: 'Article 3 - Division 1'
+doc_type: ordinance
+citation: 'Article 3 - Division 1'
+authority_level: county_ordinance
+issuing_body: 'Curry County Board of Commissioners'
+source_url: https://www.currycountyor.gov/Article%203%20-%20Division%201.pdf?t=202407101004170
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 442b953f0dae4a0b7b0f29eddeadfdfeaf6386456fca0bc312437beb239eb197
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.982; figure agreement 0.892; dictionary ratio 0.975. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 368.031
+    - ORS 368.081
+    - ORS 368.251
+    - ORS 368.256
+    - ORS 368.261
+    - ORS 368.271
+    - ORS 368.276
+    - ORS 368.281
+    - ORS 368.942
+    - ORS 371.605
+    - ORS 509.585
+  related: []
+  supersedes: []
+tags: [curry-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Article 3 - Division 1 (Article 3 - Division 1)
+
+## At a glance
+
+OCR-derived text of Article 3 - Division 1. Not human-verified.
+
+## Full text
+
+ARTICLE THREE — ROADS
+
+                    DIVISION ONE:        CURRY COUNTY ROAD STANDARDS
+
+                       CHAPTERONE:           INTRODUCTORY PROVISIONS
+
+                                  SECTION 3.01.010       RESERVED
+
+                                  SECTION 3.01.020       PURPOSES
+
+The several purposes of this division are: a) to establish specifications and standards for the
+construction and reconstruction of all roads, driveways and bridges in Curry County; b) to
+delineate responsibilities of individuals and Curry County as to the maintenance of roads; and c)
+to promote public health, safety, convenience and general welfare.
+
+                                 SECTION 3.01.030__DEFINITIONS
+
+As used in this article, the masculine includes the feminine and neuter and the singular include
+the plural. The following words and phrases, unless the context otherwise requires, shall mean:
+
+(1)        “AASHTO” — American Association of State Highway and Transportation Officials.
+
+(2)        “ADT” — Average Daily Traffic on a given road.
+
+(3)      “Alley” — A street or highway primarily intended to provide access to the rear or side of
+lots or buildings in urban areas and not intended for through vehicular traffic.
+
+(4)      “Arterial Road” — Roads that link cities or large traffic generators. Travel speeds will be
+relatively high with minimum interference to through movement.
+
+(5)        “Avenue” — A wide street or main thoroughfare.     A means of approach to a given place,
+activity or goal.    “Avenue” may be used in immediate vicinity of any municipality.
+
+(6)        “ AWDS” — All-weather Drivable Surface:      A surface constructed of a minimum of two
+(2) inches of crushed aggregate placed on the required base aggregate to create a drivable
+surface.    An AWDS     may also be constructed of asphalt concrete or acceptable alternative surface
+treatments.
+
+(7)        “Base Aggregate” ~ A course of specified aggregate of planned thickness placed on the
+subgrade.
+
+(8)        “Board” or “Board of Commissioners” - The Curry County Board of Commissioners.
+(9)     “CCZO”    - Curry County Zoning Ordinance       - An ordinance designed to provide and
+coordinate regulations in Curry County governing the development and use of lands and to
+implement the Curry County Comprehensive Plan.
+
+(10)    “Collector Road” — A road supplementary to the arterial road system and used for both
+through traffic and access to abutting properties.
+
+(11)    “County” —~ The County of Curry, State of Oregon.
+
+(12)    “County Road” — A public road which has been accepted into the County road system by
+the County Board of Commissioners or designee by dedication or deed or grant of right-of-way
+and is maintained by the County.
+
+(13)    “Drive” —A scenic road, especially for leisure driving.
+
+(14)    “Driveway” — Means of egress and ingress from thoroughfare to structure. A short
+private road as regulated and administered by the County Community Development Department.
+
+(15)     “Driveway/Road Approach Permit” - A permit allowing construction or alteration of a
+facility which provides ingress to or egress from a County road (i.¢., a driveway, an intersecting
+road or street, a footpath, a bike path, widened vehicular access, etc.). The permit regulations
+apply to that portion of the facility which is or will be upon a County road right-of-way.
+
+(16)    “Easement” — A grant of one or more property rights by a property owner to or for use by
+the public or another person or entity.
+
+(17)    “Fog Coat” - An emulsified asphaltic surface treatment applied to existing asphalt
+concrete pavement surfaces to renew and seal the pavement surface. May be used with or
+without aggregate cover materials.
+
+(18)    “High Density Residential Road” — A road within an urban growth boundary providing
+direct access to abutting property which has a     lot size density sufficient to qualify for high
+density status based upon the standards established in the respective urban growth boundary
+agreements.
+
+(19)   “HMAC” — Hot Mix Asphalt Concrete - A hot mixture of asphalt cement; well graded,
+high quality aggregate; mineral filler and additives as required; plant mixed into a uniformly
+coated mass, hot laid on a prepared foundation, and compacted to a specified density.
+
+(20)    “Lane” — Designation for all private thoroughfares.       A limited passageway of course
+designated for vehicles.
+
+(21)   “Local Access Road” — A public road that is not a County road, State highway or Federal
+road. County has full jurisdiction, but no liability to maintain.
+(22)    “Local Road” — A public road that is not a city street, State highway or Federal road. A
+road connecting the local uses with the collector system. Property access is the main priority;
+through-traffic is not encouraged. All County roads not classified as arterials or collectors are
+the County’s local roads, including Resource/Industrial/Commercial, High density Residential
+and Residential.
+                County Road Examples: Townley Lane, Coy Creek Road, Eggers Road.
+
+(23)    “Loop” — Road whose beginning and ending points intersect on a common road.
+
+(24)    “Major Collector” — A road providing service to land uses that generate trips such as
+consolidated schools, shipping points, parks, mining and agricultural areas. This type of road
+links minor collectors with roads of higher classification.
+               County Road Examples: Airport Road, Cedar Valley Road, North Bank Chetco
+        River Road.
+
+(25)   “Major Road Improvement” - An improvement or alteration for which detailed plans and
+adherence thereto are deemed necessary by the Roadmaster.
+
+(26)     “Minor Arterial” — Roads that link cities or large traffic generators. Travel speeds will be
+relatively high with minimum interference to through movement. Jerry’s Flat Road is the only
+minor arterial within the County.
+
+(27)    “Minor Collector” ~ A road providing service to small communities. This type of road
+links locally important land uses that generate trips with rural destinations.
+               County Road Examples: Floras Lake Road, Nesika Road, Oceanview Drive.
+
+(28)   “Minor Road Improvement” - An improvement or alteration for which detailed plans are
+not deemed necessary by the Roadmaster.
+
+(29)    “Monument” — A permanent and fixed survey marker conforming to the requirements
+established by the State law and the regulations of Curry County.
+
+(30)    “Manual on Uniform Traffic Control! Devices” (MUTCD) - The MUTCD                 contains the
+national standards governing all traffic control devices.
+
+(31)    “ODOT” — Oregon Department of Transportation.
+
+(32)    “Place” — A public square or thoroughfare in a town. A short street, or court, a private
+residence terrace, or some similar variation from the ordinary street.
+
+(33)    “Prime Coat” — A penetration treatment to aggregate surfaces to coat and bind the
+material into a hard surface.
+
+(34)    “Principal Arterial” — Corridors with substantial interstate and statewide travel. Highway
+101 is the only principal arterial within the County.
+
+DIVISION ONE                                                                     a
+(35)    “Private Driveway” — A roadway which traverses and serves one lot or parcel                     as
+regulated and administered by the County Community Development Department.
+
+(36)    “Private Road” — A road which is owned, controlled and maintained by the persons it
+serves, providing the principal means of access to the abutting property, and not intended for use
+by the general public. Private roads are regulated by the Curry County Zoning Ordinance which
+is administered by the County Community Development Department.
+
+(37)    “Public Road” — A road over which the public has a right of use that is a matter of public
+record but which has not been accepted into the County road system per subsection (12) above.
+
+(38)     “Residential Road” — A road providing direct access to abutting property. Lot size and/or
+traffic volume indicate density of one or more lots per five acres, but less than four lots per acre.
+
+(39)        “Resource/Industrial/Commercial”     — A    road which   primarily   accesses   adjacent land,
+carries significant volumes of timber, mining or agricultural products and/or provides service to a
+large industrial or commercial facility.
+                 County Road Examples: McKenzie Road, Nesika Beach Dump Road, Boat Basin
+            Road.
+
+(40)   “Right-of-Way” — Land reserved, used, or to be used for a highway, street, alley,
+walkway, drainage facility or other public purpose related to a transportation or public utility
+improvement.
+
+(41)    “Road” - The entire right-of-way of any public or private way that provides ingress to or
+egress from property by means of vehicles or other means or that provides travel between places
+by means of vehicles. “Road” includes, but is not limited to:
+
+       a.   Ways described as streets, highways, throughways or alleys;
+
+       b.   Road related structures that are in a right-of-way, such as tunnels, culverts or similar
+            structures; and
+
+       c.   Structures that provide for continuity of the right-of-way, such as bridges.
+
+(42)        “Road Encroachment Permit” - A permit allowing private facilities of a diverse nature,
+such as fences, structures, gates, stock guards, signs and landscaping,           to be placed within a
+County road right-of-way.         The permit shall state whether the permitted use is temporary or
+permanent.
+
+(43)    “Road Improvement Permit” - A permit allowing alterations or improvements, such as
+grading, surfacing or oiling, of a County road by a person not associated with the County Road
+Department.
+
+a                                                                                SES
+DIVISION ONE                                                                        Page 4
+(44)    “Roadmaster” - The person designated by the County Board of Commissioners as being
+responsible for administration of the road activities of the County.
+
+(45)    “Roadway” - The portion of a road, including shoulders, for vehicular use.
+
+(46)    “Rural Road” — A road subject to low traffic volume, used as access to a remote area
+having density less than one lot per five acres.
+
+(47)    “Special Permit” - A permit allowing temporary use of a County road right-of-way for
+business operations or public events, such as log loading, an aircraft taxiway, scheduled public
+walks, runs and biking events.
+
+(48)    “Street” — A paved public way or thoroughfare, as in a city or town.
+
+(49)    ‘“Subgrade” — That portion of the graded earthwork roadbed on which base course
+surfacing is to be placed.
+
+(50)   “Tack Coat” — Application of liquid asphalt to an existing asphalt concrete to insure a
+thorough bond between courses.
+
+(51)    “Turnaround” — A road over 150’ in length must be terminated by a turnaround. See
+Exhibit “A” following the text of Division Four of Article Three for typical turnaround designs.
+Standards for Turnarounds outside of an Urban Growth Boundary are listed in Section 3.01.050
+subsection (7) of this division.
+
+(52)      “Utility Permit” — A permit allowing the placement and routine maintenance of public
+facilities, such as water and sewer lines, gas lines and transmission lines, within a County road
+right-of-way.
+
+(53)     “Variance” — An authorized deviation from specific requirement(s) set forth in this
+division.
+
+(54)    “Way or Court” — A course, route, passage, track or path of any kind.
+
+             SECTION 3.01.040       COMPLIANCE WITH DIVISION PROVISIONS
+
+        No road shall hereafter be constructed, reconstructed, enlarged or altered contrary to the
+provisions of this division.
+
+                               CHAPTER TWO:        COUNTY ROADS
+
+       SECTION 3.01.050_       CONSTRUCTION SPECIFICATIONS OF COUNTY ROADS
+
+(1)     RIGHT-OF-WAY — Right-of-ways shall be a minimum of 50 feet in width except that a
+lesser width not less than 40 feet is authorized when (a) specially permitted by the County Board
+of Commissioners and (b) the road meets the other standards set forth in this division as
+
+DIVISION ONE                                                 a                 7     Page 5
+otherwise provided. A wider than 50 foot right-of-way may be required, depending on variations
+or other engineering considerations. In no case shall the right-of-way be less than 40 feet.
+
+(2)    GRADES
+       (a) Minor Arterial:
+           8% to 10%                  Maximum Length       1200”
+           Under 8%                   Maximum Length       No Limit
+
+       (b) Major Collector:
+            8% to 12%                 Maximum Length       1200’
+           Under 8%                   Maximum Length       No Limit
+
+       (c) Minor Collector:
+           12% to 15%                 Maximum Length       800°
+            8% to less than 12%       Maximum Length       1500’
+           Under 8%                   Maximum Length       No Limit
+
+       The average grade for any mile of road length and for the roads entire length shall not
+ exceed 10% for the roads listed in (a), (b) and (c) above.
+
+       (d) Residential:
+           18% to 20%                 Maximum     Length   400’
+           16% to less than 18%       Maximum     Length   600’
+           12% to less than 16%       Maximum     Length   800’
+            8% to less than 12%       Maximum     Length   1500°
+           Under 8%                   Maximum     Length   No Limit
+
+       (e) Resource/Industrial/Commercial .
+           16% to 18%               Maximum Length         500’
+           12% to less than 16%       Maximum Length       800’
+            8% to less than 12%       Maximum Length       1500”
+           Under 8%                   Maximum Length       No Limit
+
+        The average grade for any mile of road length and for the roads entire length shall not
+ exceed 13.5% for the roads listed in (d) and (e) above.
+(3)       RURAL ROAD STANDARDS CHART
+
+                                                             €
+
+                                                          ROADBED
+
+         SHOULDER                                         SURFACE                                             SHOULDER
+
+                                                                          Ce           (HOT   MIX   ASPHALT      CONCRETE)    OR
+                                     AGCREGATE                                  AWDS   (ALL WEATHER      DRIVABLE     SURFACE)
+
+                                                 Minimum | Minimum | Minimum                                              ;
+      Functional Class            se              Surface   Surface | Shoulder                       A Base te         Moumem
+                                     YP           Depth | Width                 | Width |              ‘*88r°6
+       Minor Arterial             HMAC              4”                  26’             6”               12”                 10%
+      Major Collector             HMAC              4”                  26’             4’               12”                 12%
+      Minor Collector             HMAC              4”                  24’             2’               12”                 15%
+         Resource/
+         Industrial/              HMAC              4”                  24°             Pa               12”                 18%
+        Commercial
+      Residentahelt
+       dwelling units
+                                  AWDS              2”              * 20°               2’               12”                 20%
+       dwelling units
+        Residential      ;        AWDS              phi             *     16?           0’               12”                 20%
+
+4 or less dwelling units
+        Driveway                  AWDS              2          * 16’      0”       6”                                        20%
+      Turnarounds                                 See subsection (7) TURNAROUNDS below
+
+*     Inter-visible opposing turnouts required. On roads where 16 foot, 18 foot or 20 foot surfaces
+are allowed, inter-visible opposing turnouts that result in an area of road surface at least 50’ in
+length, not including entry and exit tapering, by 22’ in width, exclusive of shoulders, are
+mandatory. Turn-outs shall be sited at least one every 500 feet, and opposing inter-visible where
+curves prohibit visibility.
+
+Road Width with a Fire Hydrant:           Adjacent to fire hydrants, roads shall have a minimum driving
+surface of not less than 26’ in width, exclusive of shoulders, extending 20’ in either direction
+from the fire hydrant.
+
+Vertical Clearance:          All roads shall have a minimum vertical height clearance of not less than
+fourteen feet.
+
+DIVISION ONE
+Additional requirements, as stipulated by the rural fire protection district of the area in which the
+road is located, as well as the section entitled “Appendix D, Fire Apparatus Access Roads” of the
+Oregon Fire Code, may be required.
+
+The standards for urban roads are as outlined in the Curry County Zoning Ordinance for the
+respective Urban Growth Boundary.
+
+(4)     DRIVEWAYS. Approaches shall be limited to a 60-90 degree intersection angle with the
+public road. There shall be enough room at the approach for a vehicle to be at a 90 degree angle
+to the road. See Exhibit “B” following the text of Division Four of Article Three for Typical
+Design.
+
+Stopping sight distance shall be calculated for driveway entrances using the chart of Exhibit "C”
+following the text of Division Four of Article Three. The minimum stopping distance is
+calculated for wet road conditions using
+
+          v2
+
+   = 30(F+G)           where:
+
+       V = Velocity
+       F = Coefficient of friction
+       G = Grade in percent
+       D = Total stopping distance in feet (reaction plus braking)
+
+                                   MINIMUM SIGHT DISTANCE
+                                LEVEL ROADWAY (Wet Pavement)
+
+    Design Speed               Sight Distance (feet)
+         MPH                Stopping          Passing          Corner Intersection
+
+           20                 125               800                  210
+           25                 150               950
+           30                 200              1100                  310
+           35              225-250             1300
+           40              275-325             1500                  415
+            45             325-400             1650
+            50             400-475             1800                  515
+           55              450-550             1950
+            60             525-650             2100                  650
+           65              550-725             2300
+           70              625-850             2500
+
+               *See Exhibit "C” following the text of Division Four of Article Three
+
+(5)     HORIZONTAL CURVES The minimum radius for horizontal curves shall be 60 feet on
+Local Roads. The following formula shall be used to determine minimum curve radius on all
+other functional classes.
+
+DIVISION ONE                                     oo                    OO              Page 8
+                   v2
+       R   =     ——
+                 15(e+f)        here:
+                              where
+
+                  R = minimum radius (feet)
+                  V = design speed (MPH)
+                  e€ = maximum super elevation (range 0.04 to 0.10)
+                  f = maximum friction factor (range 0.10 to 0.17)
+
+(6)     VERTICAL CURVES            Vertical curves shall be used at all grade changes where the
+difference in grades is 2% or greater. Minimum length of vertical curve shall be 100 feet.
+
+(7)     TURNAROUNDS                 In any area outside of an Urban Growth Boundary, turnarounds shall
+be provided for emergency vehicle maneuvering at the end of any road over 150’ in length.
+Typical County turnarounds are shown in Exhibit “A” following the text of Division Four of
+Article Three.
+
+(8)     Minimum intersection spacing for roads of various functional classes shall be as noted in
+the following table:
+
+Functional Class             Public Road                            Private Driveway
+Intersection Type          | Type                 Spacing*          Type                   Spacing**
+Arterial Road/Hwy __| At-grade           1/4 mile          L/R turns                       500 ft.
+Collector Road        At-grade          250 ft.            L/R tums                        100 ft.
+Local Road            At-grade          250 ft.            L/R turns                       each lot
+Alley                 At-grade          250 ft.            L/R turns                       each lot
+* Between roads
+**Between driveways & intersections (measured from center to center)
+
+                               SECTION 3.01.060_       FACILITY PERMITS
+
+(1)     No person, partnership, association or corporation may place, build or construct on the
+right-of-way of any County maintained road any approach road, structure, pipeline, ditch, cable
+or wire, or any other facility, thing or appurtenance or change the manner of using any such
+approach road without first obtaining a permit from the County Roadmaster.
+
+(2)      The Curry County Road Department shall be given the power to investigate and issue the
+facility permit.
+
+(3)    The holder of a facility permit shall follow the regulations and rules set out in Article
+Three, Division Four of this code.
+                                     SECTION 3.01.070        SIGNS
+
+(1)     Curry County has jurisdiction concerning the type and location of all signs on County
+maintained roads and public ways.
+
+(2)     The Roadmaster may lawfully remove or destroy, without resort to legal proceedings, any
+advertisement, bill, notice, sign, picture, card, or poster placed in violation of ORS 368.942.
+
+(3) | When in the Roadmaster’s opinion there may be a need for a change in the speed limit for
+a road, he or she shall request the Oregon State Speed Control Board to study the road in
+question. If the Speed Control Board issues an order to post a speed limit on the road, Curry
+County will furnish and install the speed limit signs at the County’s expense.
+
+(4)     Name    signs   for all roads   shall   have   a retroreflectorized   green   background   with
+retroreflectorized white letters as specified in the Manual on Uniform Traffic Control Devices.
+
+(5)     Signing will be paid for by the County as follows:
+
+        (a)      Stop and name signs at intersections of two County maintained roads.
+
+        (b)    Regulatory and warning signs along County maintained roads.
+
+        (c)    The County     may,   at the Roadmaster’s     recommendation,     install signs for non-
+County maintained roads. Cost of the sign, installation and maintenance will be paid for by the
+person(s) requesting the sign. This person may include the Board or its delegated authority.
+
+SECTION 3.01.075        DELINEATION OF UTILITY LOCATIONS WITHIN COUNTY ROAD
+                                   RIGHTS-OF-WAY
+
+(1) _ Pole line locations shall have a minimum height above the traveled road surface of 18
+feet. This 18-foot standard applies whether the pole lines cross the roadway or are located
+parallel to the roadway.   Poles shall be located not less than 10 feet from the edge of pavement
+on paved-surfaced roads or the edge of gravel on gravel-surfaced roads. Wherever possible,
+poles shall be located along the tangent sections of roads and on the short radius side of curves.
+Poles to be located on the long radius side of curves will require additional approval by the
+Roadmaster and will be subject to special conditions.
+
+(2)     Buried cable or pipe depth shall be not less than 30 inches (36 inches for electrical) below
+the flow line of the roadside ditch. Where no ditch is present or where the proposed utility will
+be located a minimum of 5 feet from the ditch, the 30 inch (36 inch for electrical) bury depth
+shall be measured from the existing ground surface.
+
+(3)     Pedestals installed as part of a buried cable installation are to be located one foot from the
+right-of-way line unless permission is obtained from the Roadmaster to locate elsewhere. In no
+case shall the pedestals be located within the road maintenance operating area, including mowing
+operations, or nearer the pavement edge than any official highway sign in the same general
+location.
+
+See “Special Conditions for Underground          Utilities Within County Road Rights-of-Way”        in
+“Exhibit D, Permit Regulations & Classification”, following the text of Division Four of Article
+Three for additional requirements and details.
+
+       SECTION 3.01.080        ROAD HAZARDS, WEED CONTROL AND DRAINAGE
+
+(1)    ROAD HAZARDS.
+         (a)    No person, landowner or occupant of land shall obstruct road drains or waterways
+or create road hazards as set forth in ORS 368.251 and ORS 368.256.
+
+         (b) | The County Roadmaster may abate any road hazard following the procedures set
+forth in ORS 368.261 and ORS 368.271.
+
+       (c)     The Board may assess and recover costs from the person, landowner and occupant
+of the land responsible for the road hazard or the owner of the land that is the source of the
+hazard pursuant to the procedures in ORS 368.276 and ORS 368.281.
+
+(2)      WEED CONTROL.         The County Board of Commissioners through its Roadmaster shall
+endeavor to prevent the spread or seeding of any noxious weed as set forth in ORS Ch. 570 on
+any land owned by the County or constituting the right-of-way for any County road, drainage or
+irigation ditch, power or transmission line, or other purposes under their jurisdiction.
+
+ (3)     DRAINAGE
+         (a)    The purpose of highway drainage design is to prevent the accumulation and
+retention of water on and by the highway. Culverts, ditches and other drainage features shall be
+installed as needed to effectively remove water from the drivable surface under all types of
+weather conditions. Culverts shall be capable of supporting a single axle load of 32,000 pounds
+(Highway Loading H-20). Prior to submitting a development application and its related access
+feature where a stream crossing will be required, the applicant shall submit an Oregon
+Department of Fish and Wildlife (ODFW) determination to the Building Official indicating
+whether the stream crossing location is a fish habitat as required by ORS 509.585. If the ODFW
+determines that there is a potential for fish habitat or there is fish habitat in the stream crossing
+that will be impacted, fish passage shall be required consistent with Division 412 of the Oregon
+Administrative Rules (635-412-0005 through 635-412-0040).
+
+       (b)       Surface water shall be conveyed along rights-of-way by the most direct means
+considering ease of maintenance with minimum disturbance of natural conditions.
+
+        (c)    All drainage structures shall be sized for the following design flood frequencies.
+                    Drainage Facility                               Design Flood
+                    Bridge                                          100 year flood
+                    Culvert                                         25 year flood
+                    Low Water Bridges                               Optional
+                    Depressed Roadway                               25 year flood
+                    Channel Change                                  100 year flood
+                    Storm Sewer                                     10 year flood
+                    Ditches, Gutters, Inlets                        10 year flood
+
+      The design should be reviewed to ensure that backwater from the 100 year flood will not
+ cause extensive property damage or result in loss of a bridge.
+
+        (d)     The design of any water carrying system shall meet or exceed the design criteria
+set by the current ODOT Highway Division Hydraulics Manual.
+
+        Cross culverts shall be a minimum of 18 inches in diameter except:
+
+        A 12 inch cross culvert may be used to convey water from a catch basin to the closest
+natural drain if a grated inlet is used.
+
+       Connections to existing roadside culverts shall be at the same or greater capacity and
+must not inhibit the existing discharge of flow in any way.
+
+       SECTION 3.01.090              ROADWAY MATERIAL STANDARD SPECIFICATIONS
+
+        All roadway excavation, fill construction, subgrade preparation, aggregate bases,
+surfacing, prime coats and paving shall be built in accordance with the current edition of the
+ODOT Oregon Standard Specifications for Construction. Whenever these specifications refer to
+the State       or Agency,   consider   that to mean   the County    of Curry,      the appropriate   County
+Department, or appropriate County address.
+
+        In case of discrepancy or conflict in the plans, standard specifications, supplemental
+standards specifications and special provisions, they shall govern in the following manner:
+
+                Special Provisions
+       wrYwNe
+
+                Plans Specifically Applicable to the Project
+                Standard or General Plans
+                Supplemental Standard Specifications
+                Standard Specifications
+
+(1)     Subgrade. All subgrade shall be compacted in accordance with the Earthwork
+Compaction Requirements, Section 00330.43 of the Oregon Standard Specifications for
+Construction.
+
+(2)     Aggregate Base. Aggregates for aggregate base shall be crushed rock or pit run rock. Pit
+run materials, when used in place of crushed rock, shall be placed at 1.25 times the required
+
+DIVISION ONE                  7                :           a                                          Page 12
+depth of aggregate. Crushed rock shall meet the requirements of Section 02630 of the Oregon
+Standard Specifications for Construction. Pit run material shall meet the durability and sand
+equivalent         requirements      of    Section   02630    of   the    Oregon   Standard     Specifications       for
+Construction and shall have the gradation approved by the Curry County Road Department.                              See
+the following tables.
+
+(3)     Asphalt Concrete Pavement. Where asphalt concrete pavement is required it shall be hot
+mix asphalt concrete pavement done in accordance with Section 00744 of the Oregon Standard
+Specifications for Construction. The class and grade mix design shall be in the contract. See the
+following tables.
+
+                                  SECTION 3.01.100           GRADATION CHARTS
+
+(1)               BASE AGGREGATES
+                                               Table 02630-1
+                             Grading Requirements for Dense-Graded Aggregate
+                                              Separated Sizes
+      Sieve Size          2 1/2" -0         2”-0             1 1/2" -0      1"-0                           3/4” -0
+                                                Percent Passing (by Weight)
+           3"                 100
+       2 1/2"              95 - 100          100
+             2                -                  95 - 100                100
+        1 1/2”                -                     -               95 - 100               100
+       4 1/4"              55-75                    -                   -                   -
+             1”               -                  55 - 75                -               90 - 100              100
+          3/4"                -                     -                55 - 75                -             90 - 100
+          1/2”                -                     -                   -                55-75                 -
+          3/8"                -                     -                   -                   -               55 - 75
+          1/4"             30 - 45               30 - 45             35 - 50             40 - 55           40 - 60
+      No. 4'                  -                     -                   -                   -                  -
+       No. 10                 ?                      2                    2                 2                    2
+       '   Report percent passing sieve when no grading requirements are listed
+       2 Of the fraction passing the 1/4 inch sieve, 40 percent to 60 percent shall pass the No. 10
+       sieve
+
+        Fracture Of Base Aggregates - Fracture of base aggregates produced from rounded rock
+shall be determined according to AASHTO T 335. Provide at least one fractured face based on
+the following percentage of particles retained on the 1/4 inch sieve for the designated size:
+
+                                          Minimum Percent of Fractured Particles
+                                                 (by Weight of Material)
+
+                             Designated Size                       Retained on 1/4 inch Sieve
+
+                             1 1/2" - 0 and larger                                 50
+                             Smaller than 1 1/2" - 0                               70
+
+DIVISION ONE                                                                                                Page 13
+                                                                                            lity requirement.
+                                                      m            eet the following durabi
+                             ded base aggregate shall
+      Durability - Dense gra
+                                                                                     Requirements
+                                                     Test Method
+                  Test
+                                                                                    35.0% maximum
+                                                     AASHTO T 96
+        Abrasion
+        Degradation (coarse
+                            aggregate)
+                                                     ODOT TM 208                    30.0% maximum
+             Passing No. 20 sieve                                                     3.0" maximum
+                                                     ODOT TM 208
+         Sediment Height
+
+                      TE AGGREGATES*
+(2)    ASPHALT CONCRE
+                                                               1/2" ACP
+                                                          Control Points
+                                Sieve Size           (% passing by Weight)
+                                                         Min.                 Max.
+
+                                 3/4"                     100
+                                                           90                     100
+                                  1/2"                                             90
+                                                             -
+                                  3/8”                                               -
+                                                             -
+                                 No. 4                                              58
+                                                            28
+                                 No. 8                                            10.0
+                                                           2.0
+                                No. 200                                               6
+                                                               5
+                            Asphalt Cement                                                of the “Oregon
+                                         nt s   sha ll   co nf or m  with Section 00744
+                               le paveme
+        *Ageregate fo r flexib
+                              ns for Construction”
+        Standard Specificatio
+                                                                                         ues:
+                                         not  ex ce ed in g  the  following maximum. val
+                                 reg ate
+        Durability — Provide agg
+                                                                                           Aggregates
+                                                    Test Method                              Coarse
+                     Test                        ODOT        AASHTO
+                                                                T 96                          30.0%
+                  Abrasion
+                  Degradation                                                                    30.0%
+                                                 TM 208
+                      Passing No. 20 sieve                                                        3.0"
+                                                 TM 208
+                  Sediment Height
+                                                                                                    n the
+                                                   vid e   cru  she d agg reg ate with not less tha
+                       Fractured Faces - Pro                 in ed by AASHTO T 335
+                                                                                        as follows:
+                                 ctu red fac es as  de te rm
+           minimum number of fra
+                                                                              )
+                                         Percent of Fracture (by Welght
+                                           Material Retained                        Material Retained
+                                             on 1”, 3/4”, 1/2”                        on No. 8 sieve
+                                             and No. 4 Sleve                       {one fractured face)
+                   Type of Mix            (two fractured faces)
+                                                                                            75
+                                                    75
+                      All ACP
+                                                                                                                Page 14
+
+      DIVISION ONE
+                                       SECTION 3.01.110      MONUMENTATION
+
+(1)      The           County    and    its agents   shall monument   County   roads   in accordance   with   the
+following standards:
+
+        5/8 inch rebar on both R/W lines at point of curvature and point of tangency of curve.
+        5/8 inch rebar along R/W lines at 500 foot intervals or property lines.
+        Plastic caps branded “Curry Co. R/W” on rebar.
+        Rebar along utilized property should be approximately 6 inches below ground level.
+        Brass or aluminum caps shall be placed along R/W a minimum of once every mile. Two
+        brass or aluminum caps shall be used as basis of bearing when other monuments are not
+        available.
+        Initial roadway point shall be marked by a brass or aluminum cap.
+        All brass and aluminum caps shall be marked by a 4 inch by 4 inch by 4 foot treated
+        white wooden post or a metal post.
+
+(2)      Roads within a subdivision must be monumented in accordance with current applicable
+state and local laws relating to the platting of subdivisions.
+
+                         DEDICATION OF ROADS TO COUNTY ROAD SYSTEM
+
+                                 SECTION 3.01.130        ACCEPTANCE BY COUNTY
+
+(1)     TENTATIVE APPROVAL PRIOR TO CONSTRUCTION
+
+         (a)     The developer submits plans and letter to the Board of Commissioners of his
+intent to dedicate a road to the County. A complete set of Improvement Plans shall be submitted
+and approved, in writing, by the Board of Commissioners prior to the start of construction on any
+public, private or subdivision road which is to become a dedicated County road. The “Complete
+Set” refers to the following:
+
+                       Plan view of the proposed roadway
+              PwenNr
+
+                       Profile
+                       Description
+                       Typical cross-section
+
+          All plans shall be stamped by a registered engineer or surveyor licensed in the State of
+       Oregon.
+
+        (b)             A statement in writing must be obtained from the Chief of the Rural Fire
+Protection District of the area in which the road(s) is/are located, and submitted with the plans,
+verifying that the District’s large fire-fighting equipment can safely negotiate the road and serve
+all new parcels or lots. The statement shall also include an assessment of whether or not the
+access route proposed to each boundary of the subject property is safely negotiable.
+        (c)    The County Road Department reviews the Improvement Plans and makes
+ recommendations to the Board of Commissioners. The recommendations shall include any
+ special considerations which may be pertinent to acceptance or rejection of the road as a
+ dedicated County road.
+
+         (d)    The developer’s project is put on the agenda of a regular Board meeting for
+ consideration of his intent to dedicate the road to the County.    Upon submission of the
+ developer’s plans and letter of intent to dedicate the road, the Board will, within 30 days,
+ consider the application in a public meeting.
+
+          (e)    The Board will give a letter of intent to accept or deny the dedication of the road
+ project presented by the developer. If the dedication of the road is denied, and the plans and
+ specifications adhere to the “Curry County Road Standards” herein, the Board must give its
+ reasons for denial, in writing to the developer, within thirty (30) days from the date of the public
+ meeting.
+
+(2)     INSPECTION OF PROPOSED COUNTY ROADS
+
+         (a)     The inspection of the base and paving shall be coordinated in advance with the
+ Curry County Road Department to avoid scheduling conflicts. The base is to be inspected prior
+ to the placement of the pavement.
+
+         If proper notification for inspection has not been given, the Curry County Road
+ Department will not recommend granting acceptance of the road to the Board of Commissioners
+ for twelve (12) months. Any deficiencies that develop in the road shall be corrected before the
+ Road Department will recommend granting acceptance to the Board.
+
+         (b)    After acceptance by the Board of Commissioners, the contractor shall guarantee
+ construction of the road built under his supervision for a period of one year. Any defects within
+ that time period shall be corrected by the contractor, at his own expense.
+
+        (c)   All testing except as herein noted will conform to methods prescribed by the
+ Oregon Department of Transportation (ODOT) or the American Association of State Highway
+ and Transportation Officials (AASHTO).
+
+ (3)    | FINAL ACCEPTANCE.
+         A County governing body may initiate proceedings to accept a public road as a County
+road:
+
+         (a)    On its own action;   or
+
+         (b)    ‘Ifa person files with the governing body:
+
+                i)      A petition described in ORS 368.081; or
+                ii)     A written proposal to dedicate or donate land owned by that person for
+                        public road purposes.
+
+(4)     | MAINTENANCE.
+         After acceptance the County shall maintain such highway, road or street as a County
+road.
+
+                          CHAPTER THREE                  PUBLIC ROADS
+
+                        SECTION 3.01.140      PUBLIC ROAD STANDARDS
+
+        A public road will conform in all ways with the standards set for a County road, except
+for the following condition:
+
+               Roads shall be constructed with an all-weather drivable surface on residential
+roads.   See the Road Standards Chart in Section 3.01.050, subsection (3) for construction
+requirements.
+
+                               SECTION 3.01.150       DEDICATION
+
+(1)     By presenting to the Board of Commissioners a good and sufficient deed or dedication
+properly executed forever dedicating the land and granting such public road easement, and the
+deed is accepted by the Board of Commissioners and placed of record.
+
+(2)      Presenting to the Board of Commissioners, as provided by law, any map or plat of any
+town, addition or subdivision, dedicating to the use of the public for road purposes all streets,
+roads, and alleys shown thereon and the map or plat is approved and accepted by the Board and
+placed of record.
+
+                      SECTION 3.01.160_    LIABILITY FOR MAINTENANCE
+
+(1)      All public roads shall be maintained pursuant to a maintenance agreement to be recorded
+with the final plat in the official records of Curry County.   The recorded maintenance agreement
+shall include the following elements:
+
+         (a)    The maintenance agreement shall be binding on all owners of parcels within the
+plat or map, other properties served by the dedicated way, and all interests in such property
+thereafter acquired.   The owners shall maintain the road according to the terms of the
+maintenance agreement.
+
+         (b)    Any person who is party to the agreement, or any interested public body who
+believes the dedicated way is impassable to emergency vehicles, may file a written complaint
+with the County Board of Commissioners. The Board shall direct the County Roadmaster to
+investigate the complaint and submit a report to the Board.      This report shall contain an
+evaluation of the condition of the road and particularly whether the road's condition meets a
+                 ii)     A written proposal to dedicate or donate land owned by that person for
+                         public road purposes.
+
+(4)      | MAINTENANCE.
+          After acceptance the County shall maintain such highway, road or street as a County
+road.
+
+                          CHAPTER THREE                  PUBLIC ROADS
+
+                        SECTION 3.01.140      _PUBLIC ROAD STANDARDS
+
+        A public road will conform in all ways with the standards set for a County road, except
+for the following condition:
+
+                 Roads shall be constructed with an all-weather drivable surface on residential
+roads.     See the Road Standards Chart in Section 3.01.050, subsection (3) for construction
+requirements.
+
+                               SECTION 3.01.150        DEDICATION
+
+(1)     By presenting to the Board of Commissioners a good and sufficient deed or dedication
+properly executed forever dedicating the land and granting such public road easement, and the
+deed is accepted by the Board of Commissioners and placed of record.
+
+(2)     Presenting to the Board of Commissioners, as provided by law, any map or plat of any
+town, addition or subdivision, dedicating to the use of the public for road purposes all streets,
+roads, and alleys shown thereon and the map or plat is approved and accepted by the Board and
+placed of record.
+
+                       SECTION 3.01.160__LIABILITY FOR MAINTENANCE
+
+(1)       All public roads shall be maintained pursuant to a maintenance agreement to be recorded
+with the final plat in the official records of Curry County.   The recorded maintenance agreement
+shall include the following elements:
+
+         (a)   The maintenance agreement shall be binding on all owners of parcels within the
+plat or map, other properties served by the dedicated way, and all interests in such property
+thereafter acquired.   The owners shall maintain the road according to the terms of the
+maintenance agreement.
+
+        (b)    Any person who is party to the agreement, or any interested public body who
+believes the dedicated way is impassable to emergency vehicles, may file a written complaint
+with the County Board of Commissioners. The Board shail direct the County Roadmaster to
+investigate the complaint and submit a report to the Board.      This report shall contain an
+evaluation of the condition of the road and particularly whether the road's condition meets a
+minimum standard for maintenance of such roads. The report shall also set forth an estimation
+of the costs, including all likely administrative costs, necessary to bring the road up to a passable
+condition. The Board shall hold a public hearing at which interested parties may appear. Notice
+of the hearing shall be given to the property owners benefitted by the road.
+
+        (c)     When, in the opinion of the County Board of Commissioners, the road constitutes
+a hazard to public safety or is impassable to emergency vehicles, based upon the testimony at the
+hearing, the Board by its order may:
+
+              i)    Declare the owners in default of the maintenance agreement; and either
+
+           ii)      Direct the County Roadmaster to undertake the road work which, in the opinion
+                    of the Roadmaster, is necessary to bring the road up to a passable condition and
+                    allocate the costs as estimated by the Roadmaster pursuant to paragraph (b)
+                    above; or
+
+          tii)      Initiate proceedings to improve the road as provided in ORS 371.605 et. seq.
+
+       (d)     The County may collect the assessed costs from the owners either prior to or upon
+completion of the maintenance work.
+
+(2)    In no event shall the duties or liabilities of Curry County be greater than those provided
+in ORS 368.031.
+
+              SECTION 3.01.170       LOCAL ACCESS ROAD MAINTENANCE POLICY
+
+(1) — Ifthe County Board of Commissioners determines that a requested repair or maintenance
+project on a local access road is an emergency, it may authorize the expenditure of County funds
+for such a project if it concludes that:
+
+       (a) The public use of the road justifies the expenditure;
+
+       (b) There are County funds or resources available for the request; and
+
+        (c)        The expenditure of such funds or resources on the requested project will not
+jeopardize the maintenance or repair of County roads, which are the County's first priority.
+
+(2)    If the County Board of Commissioners determines that a requested repair or maintenance
+project on a local access road is not an emergency, it may authorize the expenditure of County
+funds for such a project if it concludes that:
+
+        (a)     At least 60% of the property owners, representing at least 60% of the property
+frontage along the road proposed to be repaired or maintained, sign a petition requesting the
+work be done. The petition shall contain a clause that the property owners agree to pay for all
+the materials used in the repair or maintenance; the County will provide all labor and equipment;
+       (b)   | The County Roadmaster has recommended such an expenditure; and
+
+       (c)     The public use of the road justifies the expenditure; and
+
+       (d)     There are County funds or resources available for the request; and
+
+        (e)    The expenditure of such funds or resources on the requested project will not
+jeopardize the maintenance or repair of County roads, which are the County's first priority.
+
+(3)    The intent of these policies is to provide a vehicle by which local access roads may be
+repaired or maintained without obligating the County for future work on these roads.
+
+(4)       If the Board authorizes County financial support for a non-emergency request, it shall
+enact an order or resolution authorizing the work to be a single project so as to minimize future
+obligations to the County and encourage the owners to seek alternate sources for maintenance,
+1.e., special road districts.
+
+      CHAPTER FOUR                  PRIVATE ROADS, DRIVEWAYS AND BRIDGES
+
+  SECTION 3.01.180       DEFINITION REGARDING PRIVATE ROADS, DRIVEWAYS AND
+                                       BRIDGES
+
+       A private road is any road in a privately owned and controlled right-of-way which is
+constructed, controlled, maintained and otherwise kept in a drivable condition by the efforts of
+the people it serves. A private road is not intended for use by the general public other than
+persons providing a public service to the lots or parcels served by the private road.
+
+       A private driveway is a roadway which traverses and serves one lot or parcel.
+
+       A private bridge is any bridge located on a private road or driveway.
+
+  SECTION 3.01.185       APPLICABILITY OF PRIVATE ROAD, DRIVEWAY AND BRIDGE
+                                      STANDARDS
+
+       Private road, driveway and bridge standards are regulated by the Curry County Zoning
+Ordinance which is administered by the County Community Development Department.
+
+                           CHAPTER FIVE                   VARIANCE
+
+                 SECTION 3.01.210       AUTHORIZATION FOR VARIANCES
+
+        The Roadmaster may grant variances, (as described herein), from the provisions of this
+division where it has been shown that due to unusual topographic conditions, unusual conditions
+related to the shape of the property or the location of a building on the property, or other
+conditions over which the applicant has no control, the literal interpretation of this division
+
+DIVISION ONE         _                 —                                       )        Page19
+would cause an undue hardship upon the applicant. In granting a variance the Roadmaster may
+attach conditions which he or she finds necessary to protect the best interests of the County,
+surrounding property or neighborhood and to otherwise achieve the purposes of this division.
+
+         SECTION 3.01.220        CIRCUMSTANCES FOR GRANTING A VARIANCE
+
+A variance may be granted only in the event that all the following circumstances exist.
+
+(1)     Exceptional or extraordinary circumstances apply to the property which do not apply
+generally to other properties in the same vicinity and result from lot size, shape, topography, or
+other circumstances over which the owner of the property has no control.
+
+(2)    The   variance   is necessary   for the preservation   of a property right of the applicant
+substantially the same as owners of other property in the vicinity of the subject property.
+
+(3)     The variance would not be materially detrimental to the purposes of this division, or to
+property in the vicinity of the subject property, or otherwise conflict with the objectives of any
+County plan or policy.
+
+(4)    The variance requested is the minimum variance which would alleviate the hardship.
+
+(5)    The applicant shall provide a written statement from the governing board of the fire
+protection district having responsibility for structural fire protection in the area where the new
+dwelling or structure is to be located which states that their fire-fighting vehicles and equipment
+can negotiate the proposed road and/or driveway.
+
+                          SECTION 3.01.230        FEASIBILITY REPORT
+
+        The applicant shall provide the Roadmaster a feasibility report on all requested variances.
+The Roadmaster shall contact all property owners abutting and using the road for which the
+variance has been requested and shall consider their comments regarding the requested variance.
+
+                        SECTION 3.01.240       APPEALS OF VARIANCES
+
+        The applicant shall have the right of appeal of a denied variance. An affected property
+owner who has commented to the Roadmaster shall have the right to appeal an approved
+variance. Appeals of variances under this division shall be to the Board of Commissioners.
+
+                    CHAPTER SIX                     GENERAL PROVISIONS
+
+        SECTION 3.01.260       PRE-EXISTING ROADS, DRIVEWAYS AND BRIDGES
+
+(1)      Substandard roads, driveways and bridges in existence on the effective date of adoption
+of this division shall be considered as nonconforming roads, driveways and bridges.
+
+(2)    Expansion of nonconforming roads, driveways and/or bridges shall be accomplished in
+
+DIVISIONONE        —™>                        _           -          :        7               Page20
+the following manner:
+
+        (a)    Upgrade the road, driveway or bridge to the minimum standard required by this
+division; or
+
+        (b)     Obtain an approved variance of the minimum standards as provided under
+Chapter Five of this division, except that a variance cannot be granted for the firefighting
+equipment access provisions of this division unless the agency providing fire protection concurs
+in the granting of the variance.
+
+        (c)     Expansion of a nonconforming road or driveway includes the creation of
+additional parcels or lots by partitioning or subdivision of land accessed by the road and/or the
+construction of new habitable structures on land accessed by the road or driveway.
+
+                           SECTION 3.01,.270      INTERPRETATION
+
+        The provisions of this division shall be held to be the minimum requirements fulfilling its
+objectives. Where the conditions imposed by a provision of this division are less restrictive than
+conditions imposed by any other provisions of this division or of any other ordinance, resolution,
+regulation or statute; the provisions which are more restrictive shall govern,
+
+                     SECTION 3.01.280       ABATEMENT AND PENALTY
+
+       Violations of the provisions of this division are subject to the following forms          of
+abatement or penalties.
+
+(1)     Ifa person builds or maintains a road, driveway or bridge in violation of this division or
+violates this ordinance in any way, the County, in addition to other remedies provided by law,
+may institute an injunction, mandamus, abatement, or other appropriate proceedings to prevent,
+temporarily or permanently enjoin, abate or remove the unlawful road, driveway or bridge.
+
+(2)     In addition to the provisions of subsection (1) above, any violation of this division may
+be punishable by citation under appropriate provisions of Article 10 of this ordinance.
+
+DIVISION ONE                                                                                Page 21
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.2% of
+the word sequence, and on 89.2% of the figures. Dictionary-recognizable words: 97.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,241 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ordinance234-pdf
+title: 'Ordinance234-PDF'
+doc_type: ordinance
+citation: 'Ordinance234-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/16942/Ordinance234-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1c7ce638f1f8bd08c9ced7b3c2d274ab337eea6629f379dadeda2bc41abebcd2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.175
+    - ORS 215.050
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance234-PDF (Ordinance234-PDF)
+
+## At a glance
+
+Ordinance234-PDF — orders of Yamhill County. 193 pages.
+
+## Full text
+
+N
+r,,1.i
+��::gf
+§�; :f :::!.oi:;j n
+diaa 2e ;,'I
+"'8"
+- I., � I <;ac� N ,.. r--
+lfl
+1
+.2
+!3
+i4
+9
+10
+11
+12
+13
+14
+.J5
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+IN THE BOARD OF COUNTY COMMISSIONERS
+OF THE STATE OF OREGON FOR THE COUNTY OF
+YAMHILL
+SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+In the Matter of Amendments )
+to the Yamhi·ll County Compre- )
+hensive Plan of 1974 and the )
+Yamhill County Zoning Ordin- )
+ance of 1976 in conformance )
+with Statewide Goals No. 3 )
+and No. 4, and taking Excep- )
+tion to Goals No. 3 and No. 4.)
+ORDINANCE NO. 234
+The Board of Commissioners of Yamhill County, Oregon
+(the Board), on the 23rd day of April, 1980, sat for the
+transaction of County business, in regular session, Commission­
+ers Ted Lopuszynski, Colin Armstrong, and John P. Macaulay being
+present.
+WHEREAS, the Board enacted the Yamhill County
+Comprehensive Plan, 1974, Ordinance No. 62, 1974, on the 25th
+day of September, 1974 (the Yamhill County Comprehensive Plan);
+and
+WHEREAS, the.Board enacted the.Yamhill County Zoning
+Ordinance, Ordinance No. 83, 1976, on the 11th day of February,
+. 1976 (the Yamhill County Zoning Ordinance); and
+WHEREAS, ORS 197.175 requires that the Plan be
+consistent with the statewide.planning goals of the Land
+Conservation and Development Commission (LCDC) Goals; and
+WHEREAS, pursuant to ORS 215.050 and 197.175, the
+Zoning Ordinance is designed to implement the adopted
+Comprehensive Plan and the Statewide Planning Goals of LCDC; and
+ORDINANCE NO. 234 -- Page l
+4/23/80
+.. ,
+N
+ff;!t (;;g�2l § ;;; ; '.j :::.-' s �� n
+=:;e oa a"'
+1;81:11 "'(C:: ,.,., N
+.. r-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+WHEREAS, the Board adopted revisions and amendments
+to the Plan and the Zoning Ordinance on June 27, 1979, and
+submitted the Plan, the Zoning Ordinance and the Land. Division
+Ordinance to LCDC for acknowledgment of compliance with the
+statewide goals; and
+WHEREAS; LCDC offered and the Board accepted a
+120-day continuance to make further revisions
+regarding
+compliance with statewide goals No. 3, No. 4, and No. 5 on
+November 9, 1979; and
+WHEREAS, Yamhill County Planning Staff, the Yamhill
+County Planning Commission; and the Board have reexamined the
+original 55 Exceptions Study areas and determined that the
+Plan Map and/or Zone Map designation whould be changed for
+certain acreages. NOW, THEREFORE,
+THE BOARD OF COMMISSIONERS FOR YAMHILL COUNTY ORDAINS
+AS FOLLOWS:
+Section 1. -- The official Zoning Map of the Yamhill
+County Zoning Ordinance is hereby amended as shown on the maps
+attached hereto as "Exhibit A -- Exceptions Statement II" and,
+by this reference, incorporated herein.
+Section 2. -- The map of the Yamhill County Comprehen­
+sive Plan is hereby amended as shown on the maps attached as
+"Exhibit A-, Exceptions Statement II."
+Section 3. -- An exception to LCDC's statewide planning
+goals No. 3 and No. 4 is hereby taken for the property not given
+Forest or Agriculture Protective Plan designations as "Exhibit A
+ORDINANCE NO. 234 -- Page 2
+4/23/80
+I I
+-..
+N
+r,,i.�
+;:: !! ti � -
+§ �! :f;:.-' £ l,u I ,.,
+::: .:e ca .2t °' E8� - I
+�oc "'I N .. r--
+"'
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+- Exceptions Statement II" and as justified in the
+Exceptions
+Statement ..
+Section 4. -- That Exhibit A be, and hereby is,
+adopted as justification and findings for the amendments,set
+forth in Sections 1 and 2 above.
+Section 5. -- This Ordinance being necessary for the
+health, safety and welfare of the people of Yamhill County, and
+the Board of Commissioners having declared an emergency to
+exist, it shall be effective upon the approval hereof.
+DATED this 23rd day of April, 1980, in McMinnville,
+Oregon.
+ATTEST:
+WANDA CATT, County Clerk
+by(ra..ti., ;,_; ...__ 0. Y'/.11A.M .....
+PATRICIA A. MULLEN,
+Deputy
+APPROVED AS TO FORM:
+• � .. -c;? .,- , ,• • ,-•-•
+Counsel
+YAMHILL COUNTY BOARD OF COMMISSIONERS:
+Chai LOPUSZYNSKI
+sioner JOHN P. MACAlJY
+"°
+Commissioner
+ORDINANCE NO. 234 -- Page 3
+4/23/80
+l.
+L
+l_
+EXHIBIT "A"
+to
+Ordinance No. 234
+April 23, 1980
+)
+Yamhill County Board of Commissioners
+Ted Lopuszynski, Chairman
+Colin Armstrong
+John Macaulay

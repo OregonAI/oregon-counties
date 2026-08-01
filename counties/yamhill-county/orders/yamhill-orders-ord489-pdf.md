@@ -1,0 +1,215 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord489-pdf
+title: 'ORD489-PDF'
+doc_type: ordinance
+citation: 'ORD489-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17676/ORD489-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: c921072b6cef2de76cce5f7abb2aca21d594fc2b1edf5f1d4331f42f278bb448
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.866; figure agreement 0.798; dictionary ratio 0.898. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 87%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD489-PDF (ORD489-PDF)
+
+## At a glance
+
+OCR-derived text of ORD489-PDF. Not human-verified.
+
+## Full text
+
+<
+
+       IN       THE    BOARD        OF    COUNTY        COMMISSIONERS                    OF    THE       STATE       OF    GREBON,                  7
+                                                                                                                                 es
+
+ 89- FEY                                      FOR THE COUNTY OF YAMHILL                                                                    a
+                      SITTING           FOR    THE   TRANSACTION                   GF    COUNTY          BUSINESS
+
+In    the  Matter              of  an Ordinance                             )
+to    Adjust   the             Zoning  Boundary                  of         )
+Tax     Lots          4531-100           and    4532-300                    }
+to Designate   the  Entire   Parcel      )
+AF-20   by  Authorizing    an Amend-      )                                                       GRDINANCE               NO.       489
+ment  to the  Yamhill   County   Zoning)
+Qrdinance              No.     310,       1982,      as                     )
+amended,   as  requested  by William                                        )
+M.  Champagne,   Planning   Docket                                          )
+Z-7-89.                                                                     )
+
+            THE       BOARD        OF    COMMISSIONERS                 OF        YAMHILL        COUNTY,            OREGON           (the
+Board)  on  the 28th   day  of June,   1989,   sat   for   the                                                    transaction                  of
+County  business    in special  session,     Commissioners                                                        Ted
+Lopuszynski,   Dave   Bishop,  and   Dennis   Goecks    being                                                     present.
+
+      WHEREAS,  Tax   Lots   4531-100     and   4532-300,     constituting     a 394
+acre   parcel, located     approximately       8 miles   southwest    of  the City
+of McMinnville,    on  the   north   side    of Eagle    Point   Rd.,   in Sections
+31 and   32 of Township     4 South,    Range    5 West,    is comprised     of
+mixed           EF-40        and    AF-20       zoning;          and
+
+       WHEREAS,    on  the 28th   day   of June,    1989,  a public    hearing    was
+held   before   the   Board  on  the   question   of whether    to grant    a
+zoning   boundary     adjustment    to  the  owner   of said  Tax   Lots,   4931i-
+100     and          4532-300,           pursuant          to    Section               303.01        (1)     of     the     Yamhill
+County            Zoning       Ordinance,            No.        310,            1982    as    amended;             and
+
+     WHEREAS  the entire   394  acre  parcel                                             was     Plan-designated
+Agriculture/Forestry   Large   Holding;   and
+
+      WHEREAS,     William   M.   Champagne    has applied     to the  Department
+of Planning    and   Development      for adjustment     of   the boundary   which
+would  result    in  the   parcel   being   zoned  AF-20    in its   entirety:   and
+
+            WHEREAS,   the subject  parcel   has  been   in                                          a     single        ownership
+since        the  adoption  of Ordinance   No.   310;  and
+
+      WHEREAS,   natice  of  the  requested  zone   change                                                        has  been sent
+to surrounding    property   owners  and  published    in a                                                       newspaper  of
+general   circulation;   and
+
+      WHEREAS,     the  proposed   adjustment    would   not    reduce     in area
+the  predominant      zoning   on the  subject   property     in   that    the AF-20
+District   now   consists    of 325   acres  of  the   parcel    and    the   proposed
+adjustment    will    result   in the  remaining    69 acres     being     zoned   AF-
+203; and
+
+      WHEREAS,   the                     proposed          boundary               adjustment               will     follow
+existing   property                      lines;
+
+       NOW   THEREFORE,       based    upon    and  for     the    reasons     set  forth
+above    and   in  the   attached      conclusionary         findings      for    approval,
+identified       as Exhibit      "A"   and   incorporated          herein    by this
+reference,
+       Section     1.    That    the Official       Zoning      map    of Yamhill       County
+be and     hereby     is amended     to designate        the     zoning    on Tax    Lot    4531-
+100   and   4532-300     as AF-20      in   its   entirety,       as set     forth    in   the
+attached     sketch     map,   labeled      Exhibit     "B"    and    incorporated       herein
+by this     reference.
+
+            Section   2.    This                Ordinance   being                      necessary   for   the    health,
+safety        and   welfare    of               the  citizens   of                     Yamhill   County,    and   an
+
+Page        1    -    ORDINANCE           NO.     489
+emergency   having         been     declared       to    exist,        shall     be    effective     upon
+passage   hereof.
+
+       DONE     this   28th    day    of   June,        1989,     at    McMinnville,          Oregon.
+
+ATTEST=:                                    YAMHILL        COUNTY        BOARD        OF   COMMISSIONERS
+
+                                                   Oa
+CHARLES                                     Chairman                    “(Ff           TED   LOPUSZYNSKI
+
+                                            Commissioner                               by      E.   BISHOP
+
+                                                    Iz,                        Att
+                                            Commissioner                                   DENNIS   GOECKS
+Pounty*’   Counsel
+
+a:z—7-89.ord
+
+Page   2   —   ORDINANCE      NO.    489
+                                        Exhibit    "A"
+
+ Des    The  applicant        has requested       to     change  the zoning    on the 394
+        acre   subject       property   from      an     EF-40/AF-20   mix  to   entirely
+        AF-20.
+
+ 2.     The  entire   394  acre subject   property                     is      pian      designated
+        Agriculiture/Forestry Large Holding.
+
+ 3.     Approximately         325 acres  of the property               are     zonec      AF-20    ene
+        the remaining         69 acres are zoned EF-40.
+
+ 4.     The    proposeé  zone alignment            follows existing property  lines
+        and    wili result   in a single          zoning district om the property.
+
+ 5      Notice   of   the   requested             zone change   has                  been   sent    to
+        surrounding   property   owners           and published  in             a      newspeper    of
+        general  circulation.                                      .
+
+Approval
+The    following        conclusionary    findings         can   be   made      for     approval     of
+the    request:
+
+i.      in thet     the  Comprehensive    Pian   Map  designation     for  the
+        entire   property   is  Agriculture/Forestry    Large   Holding,   and
+        because    this plen Cesignation applies     to both the FF-40 end
+        AF-20   Districts,   the proposed   adjustment   to make   the entire
+        property         zonec  AF-20   is  consistent          with     the     .    Comprehensive
+        Plan Map        designation   on the property.                          i
+
+2.      The    proposeé       zone   boundery      eciustment          will     mot      reduce     in
+        area      the    predominant     zoning          currently          existing        on     the
+        subject  property  in that  the AF-20  District  now applies   to
+        82%  of the property  and the proposed  adjustment  will  resuit
+        in the remainder  of the property aiso being zoned AF-20.
+
+3.      In that    the property will be rezoned    to entirely    AF-20, the
+        zone   bouncary   will foilow existing   property   iines   ané will
+        result   in a single zoning district   for the entire property.
+                                      EXHIBIT     "B"   FOR          ORDINANCE      NO:       489
+
+                                              ZONE MAP AMENDMENT
+                   ADOPTED           BY THE YAMHILL COUNTY BOARD                     OF COMMISSIONERS
+                                                  June 28, 1989
+
+                                      TO    CHANGE THE OFFICIAL                   ZONING MAP
+                                           FROM AF-20 AND EF-40                   TO AF-20
+
+                          Boas’                           7]
+                          100
+
+                                                                                          2950"
+      BBs
+
+                                                        33156
+
+                      2eag't                              \
+
+ Note:       Not   to    Exact       Scale
+
+Change      applies      to    the    total     portion         of    Tax   Lot    No.      4531-100,   4532-300
+Map     prepared    by    Yamhill       County     Planning            Department
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 86.6% of
+the word sequence, and on 79.8% of the figures. Dictionary-recognizable words: 89.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

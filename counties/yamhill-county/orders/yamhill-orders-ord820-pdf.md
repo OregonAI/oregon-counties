@@ -1,0 +1,327 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord820-pdf
+title: 'ORD820-PDF'
+doc_type: ordinance
+citation: 'ORD820-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17393/ORD820-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: bc650afae4e11b03315eac00d7611415fdd2d29b90eb2218ebbdf9ddf1fb3907
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.988; figure agreement 0.907; dictionary ratio 0.953. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.780
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD820-PDF (ORD820-PDF)
+
+## At a glance
+
+OCR-derived text of ORD820-PDF. Not human-verified.
+
+## Full text
+
+Vol 100
+                                                            2002
+                                                                                                         ‘O?   OCT 1g      Pas
+             BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                         FOR THE COUNTY OF YAMHILL
+
+                         SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a Comprehensive Plan amendment
+from Agriculture/Forestry Large Holding to Commercial Forestry;
+
+                                                                                   Ne Nee
+& a zone change from EF-80, Exclusive Farm use to F-80, Forestry.
+Docket PAZ-11-07, Tax Lots 5602-300, 301 and 302 , Applicant                                  Ordinance 820
+David Pratt Successor Trustee of the Cecil Gross Revocable
+Living Trust and the Delores Gross Revocable Living Trust,
+and Declaring an Emergency
+
+            THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the “Board”) sat
+for the transaction of county business on October 17, 2007, Commissioners                   Kathy George, Mary P. Stern
+and Leslie Lewis being present.
+
+            IT APPEARING TO THE BOARD                that    David Pratt Successor Trustee of the Cecil Gross
+Revocable    Living Trust   and the Delores       Gross Revocable          Living Trust      applied   for Approval     of a
+Comprehensive Plan amendment from Agriculture/Forestry Large Holding to Commercial Forestry; and a
+zone change from EF-20, Exclusive Farm use to F-80, Forestry, and
+
+           IT APPEARING TO THE BOARD that the matter was heard at a duly noticed public hearing
+before the Planning Commission, which unanimously recommended approval; and a public hearing was held
+before the Board on October 3, 2007. After hearing testimony from the applicant the Board voted 2 to 0
+(Commissioner Stern being excused) to approve the application. NOW, THEREFORE,
+
+        IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as detailed in the
+Findings for Approval, attached as Exhibit “A” and by this reference incorporated herein. This ordinance,
+being necessary for the health, safety, and welfare of the citizens of Yamhill County, and an emergency
+having been declared to exist, is effective upon passage.
+
+            DONE this 17” day of October, 2007, at McMinnville, Oregon.
+
+ATTEST:                                      YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+JAN COLEMAN
+County Clerk                    ¥                       we)                 KATHY GEORGE
+
+By:   vee         | ky      i                 :                       wh Sten
+Deputy Anne Britt                   os                sioner                MARY P. STERN
+
+APPROVED AS TO FO)
+                                                                       7    LESLIE LEWIS
+      NW OW
+Rick Sanai, Assistant County Counsel                 PALU\PrattPAZ-11-070rdFinds.wpd
+
+                                                                                                       B.0. 04-448
+                                                         Vol 100
+                                                         2003
+
+Docket PAZ-11-07
+Page 2
+
+DOCKET NO.:            PAZ-11-07
+
+REQUEST:                Approval of a Comprehensive Plan amendment from Agriculture/Forestry
+                        Large Holding to Commercial Forestry; a zone change from EF-80,
+                        Exclusive Farm use to F-80, Forestry.
+
+APPLICANT:              Catherine Wright representing David Pratt Successor Trustee of the Cecil
+                        Gross Revocable Living Trust and the Delores Gross Revocable Living
+Trust
+TAX LOTS:               5602-300, 301 and 302
+
+LOCATION:              27000 SW Deer Creek Park Road, Sheridan
+
+CRITERIA:               Sections 401, 402 and 1208.03 of the Yamhill County Zoning Ordinance.
+                        Comprehensive Plan policies may be applicable.
+
+FINDINGS:
+
+A, Background Facts
+
+1.      Lot Size: Approximately 472 acres.
+
+2.      Access: Deer Creek Park Road.
+
+3.      On-Site Land Use: Currently, the parcel is in timber production and contains two
+        residences and small outbuildings.
+
+4,      Surrounding Zoning: The surrounding area is zoned a mixture of EF-80, AF-80 and F-80
+        and is predominantly forested. One parcel to the east of the subject properties is zoned
+        PRO Parks, Recreation and Open Spaces. This property contains the Yamhill County Deer
+        Creek Park, Property to the west is owned by BLM, Bureau of Land Management.
+
+5.      Water: On-site well.
+
+6.      Sewage Disposal: An on-site subsurface system would be required for any residential use.
+
+7,      Soils: The Yamhill County Soil Survey indicates the predominant soil types are Peavine
+        and Willakenzie, mainly non-high value soils. A soil percentage detail can be found in the
+        file.
+
+8.      Fire Protection: Sheridan Rural Fire District.
+
+9.      Previous Actions: In 2005 Cecil Gross received approval under Measure 37 (2004), Docket
+
+                                                                                     0     OF -F4S
+                                                       Vol 100
+                                                       2004
+
+Docket PAZ-11-07
+Page 3
+
+        # M37-143-05. In 2006 the property was partitioned through Docket # P-51-06 and then in
+        2007 three applications for lot-line adjustments were approved through Docket #’s L-01-
+        07, L-20-07 and L-58-07.
+
+B.   Ordinance Provisions and Analysis
+
+1.      The approval of the requested zone change is based on the Board finding the request
+        complies with the review criteria found in Section 1208.03 of the Yamhill County Zoning
+        Ordinance, as follows:
+
+        Review Criteria for Amendments to or within Exclusive Farm Use and
+        Agricultural/Forestry Zones
+
+        A quasi-judicial zone change to (1) amend the designation of land from Exclusive Farm
+         Use, Agriculture/Forestry, or Forest to another of these zones, or (2) change the minimum
+        lot size of land designated Exclusive Farm Use or Agriculture/Forestry, may be
+        authorized, pursuant to Subsection 1208.01, provided that the request satisfies all
+        applicable requirements of this ordinance, and also provided that the applicant
+        demonstrates compliance with the following criteria:
+
+        A,      The proposed amendment shall comply with the goals, policies, and other
+                applicable provisions of the comprehensive plan.
+
+        B.      The proposed designation shall be appropriate for the existing or intended use of
+                the property.
+
+        C.      The proposed amendment shall result in an area of at least 160 contiguous acres
+                with the requested designation, including adjacent land.
+
+        D.      For proposed changes within or to an Exclusive Farm Use designation, the new
+                minimum lot size shall be appropriate to maintain the existing commercial
+                agricultural enterprise in the area.
+
+        E.      For proposed changes within or to an Agriculture/Forestry designation, the new
+                minimum lot size shall be shown to assure:
+
+                Ll.     The opportunity for economically efficient forest and agriculture practices
+                        typically occurring in the area; and
+
+                2.      The opportunity for the continuous growing and harvesting of forest tree
+                        species; and
+
+                3.      The conservation of other forest values found on forest lands.
+                                                Vol 100
+                                                2005
+
+Docket PAZ-11-07
+Page 4
+
+      F      Any amendment that would change the zone map designation to reduce the
+              minimum lot size on property within an Exclusive Farm Use or
+              Agriculture/Forestry district shall not be granted final approval by Yamhill county
+              until the amendment has been considered and approved by the Land Conservation
+              and Development Commission pursuant to ORS 215.780(2).         The following rules
+              shall apply:
+
+              1.     Conditional approval. Following receipt of an application for a zone
+                     change as otherwise provided by this ordinance, the county shall determine
+                     whether to grant or deny the application in accordance with criteria
+                     established in this section 1208.03. If the application is granted, the county
+                     shall enter an order of conditional approval, subject to final approval by
+                     the Land Conservation and Development Commission.
+
+              2.     Referral of Order of Conditional Approval. After conditional approval by
+                     Yamhill County, the application, county findings, order of conditional
+                     approval and a request for Commission action shall be referred to the
+                     Department of Land Conservation and Development.
+
+             3.      Final Approval. An amendment conditionally approved by Yamhill County
+                     shall not take effect until the county adopts an order or ordinance
+                     authorizing final approval after receipt of written confirmation of the
+                     county's conditional approval by the Land Conservation and Development
+                     Commission.                               [Amended by Ord. 618 12/30/96]
+
+      The above criteria are addressed in Findings B.2 through B.5 below.
+
+      Regarding criterion (A), applicable goals from the Yamhill County Comprehensive Land
+      Use Plan, Section II.A.1, Goal reads:
+
+             To conserve Yamhill County’s farm lands for the production of crops and livestock
+             and to ensure that the conservation of farm land to urban use where necessary and
+             appropriate occurs in an orderly and economical manner.
+
+      The majority of the subject parcel is in forest use and would remain in forest use regardless
+      of the proposed zone change. The proposed zone, F-80, would more accurately reflect the
+      existing uses on the subject parcel. The applicant is not proposing an urban use; the
+      minimum lot size is to remain 80 acres.
+
+      Section ILA.2, Goal reads:
+
+              To conserve Yamhill County's soil resources in a manner reflecting their suitability
+             for forestry, agriculture and urban development and their sustained use for the
+                                                  Vol 100
+                                                  2006
+
+Docket PAZ-11-07
+Page 5
+
+             purposes designated on the county plan map.
+
+      According to the Yamhill County Soil Survey, the parcels exhibit Class III, IV and VI soils.
+       The requested zone change will continue to preserve the County’s soil resources for their
+      suitability for forest use.
+
+      Section II.B.1, Goal reads:
+
+              To conserve and to manage efficiently the county’s forest and range resources,
+              thereby ensuring a sustained yield of forest products, adequate grazing areas for
+              domestic livestock, habitat for fish and wildlife, protection of forest soils and
+             watershed, and preservation of recreational opportunities.
+
+      The proposed zone change would conserve the county’s forest resources that currently exist
+      on the property.
+
+      Regarding criterion (B), as mentioned above, the subject parcels are currently in forest use;
+      the plan amendment and zone change from an exclusive farm zone to a forestry zone would
+      more accurately reflect the current use of the property.
+
+      Regarding criterion (C), the subject parcels are contiguous with several hundred acres of
+      property zoned F-80 and the parcels themselves comprise approximately 472 acres, well
+      over the required 160 contiguous acres, therefore, the request is consistent with criterion
+      (C).
+      Regarding criteria (D), (E) and (F), these criteria are not applicable since the request does
+      not include reducing the minimum lot size on the property. The applicant wishes to keep
+      the minimum lot size at 80 acres.
+
+CONCLUSIONS
+
+1.    The request is for approval of a Comprehensive Plan amendment from Agriculture/Forestry
+      Large Holding to Commercial Forestry; a zone change from EF-80, Exclusive Farm use to
+      F-80, Forestry. The total area proposed to be rezoned is approximately 472 acres.
+
+      The plan amendment and zone change is appropriate to reflect the forest uses on the
+      property.
+
+      The request complies with the criteria listed in Section 1208.03 of the Yamhill County
+      Zoning Ordinance and is consistent with the applicable goals found in Yamhill County’s
+      Comprehensive Plan.
+
+      The proposed designation is appropriate for the existing and intended use of the property.
+                                                    Vol 100
+                                                    2007
+
+Docket PAZ-11-07
+Page 6
+
+Decision:
+
+Based on the above findings and conclusions, the request by Catherine Wright representing David
+Pratt for a plan amendment from Agriculture/Forestry Large Holding to Commercial Forestry and
+a zone change from EF-80, Exclusive Farm use to F-80, Forestry on Tax Lots 5602-300, 301 and
+302 is recommended is hereby approved.
+
+                                                                                 B.0.04- 148
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.8% of
+the word sequence, and on 90.7% of the figures. Dictionary-recognizable words: 95.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

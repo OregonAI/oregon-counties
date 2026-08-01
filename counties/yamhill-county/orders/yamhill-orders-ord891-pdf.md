@@ -1,0 +1,852 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord891-pdf
+title: 'ORD891-PDF'
+doc_type: ordinance
+citation: 'ORD891-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17306/ORD891-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 9a023d03b8be9c883ca8dc8079d9ff049cbdfebb37cf0252b76b32363d793a8b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.984; figure agreement 0.872; dictionary ratio 0.955. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.203
+    - OAR 660-004-0018
+    - OAR 660-004-0028
+    - OAR 660-006-0025
+    - OAR 660-033-0120
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD891-PDF (ORD891-PDF)
+
+## At a glance
+
+OCR-derived text of ORD891-PDF. Not human-verified.
+
+## Full text
+
+Volume 117
+                                                        Page 1175
+                                                                     15 APR 30 P4515
+       BEFORE THE BOARD             OF COMMISSIONERS       OF THE STATE OF OREGON
+
+                               FOR THE COUNTY OF YAMHILL
+
+                SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of a Comprehensive Plan Amendment From                 )
+Agriculture/Forestry Large Holding to Agriculture/Forestry Small     )
+Holding, and a Zoning Map Amendment from EF-40 Exclusive             )    Ordinance 891
+Farm Use to AF-10 Agriculture/Forestry Small Holding on a 10.1- )
+Acre portion of Tax Lot 3315-3800 (Applicant Michael Kelley)    )
+Planning Docket PAZ-01-15, and Declaring an Emergency                )
+
+         THE   BOARD      OF    COMMISSIONERS        OF YAMHILL          COUNTY,     OREGON       (the
+Board) sat for the transaction of county business on April 30, 2015,          Commissioners     Allen
+Springer, Mary Starrett and Stan Primozich being present.
+
+         If APPEARING          TO   THE   BOARD    that Michael     Kelley   has   requested   a plan
+amendment    and zone change for an approximately       10.l-acre portion of Tax Lot 3315-3800
+(18840 NE Williamson Road); and
+
+        IT APPEARING TO THE BOARD that this matter came before the Planning
+Commision for public hearing on March 5, 2015 and that the Planning Commission voted 8-0 to
+recommend approval of the application by the Board of Commissioners; and
+
+         TT APPEARING TO THE BOARD             that this matter came before the Board on April 9,
+2015 for public hearing and that, following the hearing and deliberation, the Board voted 2-0 to
+tentatively approve the application pending the receipt of draft findings for approval from the
+applicant, NOW, THEREFORE
+
+         THE BOARD ORDAINS AS FOLLOWS:
+
+         Section 1.    The findings attached as Exhibit “A” and incorporated herein by reference
+are hereby adopted in support of this ordinance.
+
+         Section 2.    The Comprehensive Plan and Zoning Maps of Yamhill! County are hereby
+amended as specified in the attached Exhibit “B,” incorporated herein by this reference, to reflect
+a plan designation of “Agriculture/Forestry Small Holding,” and a zoning designation of “AF-10,
+Agriculture/Forestry Small Holding” for the approximately 10.1l-acre portion of Tax Lot 3315-
+3800 identified on the attached Exhibit “B” map.
+
+i
+
+if
+
+                                                                                      Ordinance 891
+                                                                                              Page |
+
+                                                                               BO.       1S— iF
+                                                                                          Volume 117
+                                                                                           Page 1176
+
+                                  ORDINANCE 891
+                                    EXHIBIT A
+                        FINDINGS IN SUPPORT OF APPROVAL
+
+DOCKET NO.:          PAZ-01-15
+
+REQUEST:             Approval of a Comprehensive Plan amendment from Agriculture/Forestry
+                     Large Holding to Agriculture/Forestry Small Holding and a zone change
+                    from EF-40, Exclusive Farm use to AF-10, Agriculture/Forestry Small
+                    Holding on a 10.1 acre portion of Tax Lot 3315-3800. This request
+                    includes an exception to Goal 3.
+
+APPLICANT:          Michael Kelley
+
+TAX LOT:             3315-3800
+
+LOCATION:            18840 NE Williamson Road, Newberg
+
+CRITERIA:           Sections 402, 501, and 1208.02 of the Yamhill County Zoning
+                    Ordinance.
+
+                    Yamhill County Comprehensive Plan policies I.B.1.D, I.B.1.H, I1.A.1.B,
+                    Goal IT.A.2 and Policy ILA.2.A
+
+                    OAR 660-04, Exception process for Goal 3.
+
+                    OAR 660-12-0060 Transportation Planning Rule.
+
+L    Background Facts:
+
+1.   Property size: The parcel is 37.5 acres.
+
+2.   Access: Williamson Road.
+
+3.   On-site Land Use: The Property has a single family dwelling located in the southwest
+     comer of the parcel, and the area surrounding the dwelling is generally forested with
+     Douglas fir and other tree species. Applicant refers to this portion of the Property as the
+     “Residential Area.” The northern and southeastern portion of the Property contains a
+     vineyard and additional plantable acreage. The Applicant refers to this area of the
+     Property as the “Farm Area.”
+
+4.   Surrounding Zoning and Land Use: The area to the east and west is zoned AF-10 and
+     predominantly comprises parcels of approximately 1.5 to 6 acres in size with rural
+     residences and wooded areas, The parcel to the north is also zoned AF-10 and is a
+     vineyard. The two parcels bordering the subject parcel to the south are zoned AF-40. One
+     parcel is approximately 24 acres and contains a dwelling with some vineyard and forested
+     areas, and the other parcel is 87 acres with a dwelling and is predominately forested.
+
+                                                                Ordinance 89] Exhibit A       Page 1
+                                                                     B.0,      1&-N4
+.   Volume   117
+    Page 1177
+
+                   Section 3.   This Ordinance being necessary for the health, safety and welfare of the
+      citizens of Yamhill       County,   and an emergency   having been   declared to exist, is effective
+      immediately.
+
+                   DONE this 30" day of April, 2015, at McMinnville, Oregon.
+
+      ATTEST:                                     YAMHILL COUNTY BOARD OF COMMISSIONERS
+                                                                   ]
+                                            de,                      f°
+      BRIAN VAN BERGEN pe                                     L eiplindt
+                                                                7”   ALLEN SPRINGER
+
+      Tit lothy S. Sadlo
+      Assistant County Counsel
+
+                                                                                           ORDINANCE 891
+                                                              Accepted by Yamhill County           Page 2
+                                                              Board of Commissioners on
+                                                              Ad           NS     by Board Order
+                                                              FomomatS
+                                                                    ~ NS
+                             Volume 117
+                              Page 1178
+                                            NCE NO. 891
+               EXHIBIT MAP FOR ORDINA
+                                             NE CHANGE
+              PLAN AMENDMENT AND ZO
+                                                        ISSIONERS
+                            L COUNTY BOARD OF COMM
+  ADOPTED BY THE YAMHIL
+                             APRIL 30, 2015
+                                                FROM
+                  FOR A PLAN AMENDMENT
+                                                 E HOLDING
+         AFLH,    AGRICUL TURE/FORESTRY LARG
+                                  TO
+                                        TRY SMALL H OLDING
+          AFSH, AGRICUL TURE/FORES
+                     AND A ZONE CHANGE FROM
+                     EF-40, EXCLUSIVE FARM USE
+                                   TO
+                                      ESTRY SMALL HOLDING
+          AF-10, AGRIC ULTURE/FOR
+
+                       “|
+                       is
+
+     NT)
+
+      3901
+
+      4.8 AC,                                                                                                        42 A
+                                                                                       S|
+                                  37,5 AC
+                                                                                       5 3000
+                       :5                             EF-A0
+
+                                                                                                    45 AC.
+
+                                                                                       Es
+      7ee         —
+                                                                                       a”
+                             :                                                              Po
+      neettntttnnttnner el
+                                                                                                            2800
+
+                                                                                            5               35 AC.
+
+                                                                                                        {
+                                                                                                    }
+                                                                    S178                        é                       gar
+                                        11.25 CH
+                                                              600
+
+                                                               OF TAX      LOT   3315-3800                  AS     HIGHLIGHTED
+            APPLIES              TO   A 10 ACRE    PORTION
+CHANGE
+                       LE - 1 INCH = 300 FEET
+ABOVE. APPROXIMATE SCA
+                                                                                    Bo.                       1S-       NA
+                                                               Volume 117
+                                                                Page 1179
+
+      Water: Provided by an existing on-site well.
+
+      Sewage Disposal: Provided by an existing on-site septic system.
+
+      Fire Protection: Newberg Rural Fire District.
+
+      Soils: The USDA Soil Map provided by Applicant show that the Residential Area is
+      composed mostly of Jory soils (JrD, JrE, JRF) that are rated agriculture Class III and IV
+      and VI. The maps indicate that the majority of soils in the Farm Area are Saum-Parrett
+      complex soil, which is considered farmland of statewide importance.
+
+      Taxes: The parcel has 18 acres in farm deferral, 17.5 acres in forest deferral, and two
+      acres at market value.
+
+10.   Previous Actions: In 2004, an application for a winery was approved through Docket C-
+      19-04/SDR-11-04. A request for removal of the property from the Yamhill County
+      Cultural Resources Inventory was granted in 1995 through Docket LCR-1-95.
+      Additionally, the property was reconfigured by a lot-line adjustment approved in 1998
+      through Docket L-44-98.
+
+il.   Floodplain: The property is not within the 100-year flood hazard area.
+
+12.   Fish and Wildlife: The property is not identified as critical fish or wildlife habitat.
+
+13.   Context of Land Use Application: Applicant purchased the Property approximately
+      fifteen years ago. At the time of purchase, the Property mostly consisted of an abandoned
+      orchard. Applicant developed a successful commercial vineyard on the Property,
+      constructed his home, and reforested several acres surrounding the dwelling.
+
+      Applicant testified that, due to medical issues, Applicant is no longer able to maintain the
+      vineyard on the Property. Applicant wishes to preserve the vineyard farm use of the
+      Property, and therefore sought a buyer who would maintain the vineyard. Applicant
+      located a prospective purchaser who owns a local winery and wishes to utilize and
+      expand the vineyard on the Property as a supply of wine grapes for this winery. The
+      prospective purchaser, however, does not wish to purchase the dwelling and surrounding
+      Residential Area of the Property. Applicant, for his part, wishes to continue to reside in
+      his existing dwelling and to preserve the surrounding forested area of the Property for
+      erosion control, wildlife habitat and aesthetics. Applicant and the prospective purchaser
+      therefore reached an agreement to put forward the instant land use application to the
+      County.
+
+      Given this context, the Board finds that Applicant’s proposed rezoning of the 10.1 acre
+      Residential Area of the Property is conducive to preservation of farmland and other
+      natural resources on the Property consistent with Oregon land use policy.
+
+                                                                   Ordinance 891 ExhibitA       Page 2
+                                                                                           Volume 117
+                                                                                            Page 1180
+i.     Zone Change and Plan Amendment Provisions and Analysis:
+
+Approval of a request for a zone change must be based on compliance with the standards and
+criteria in YCZO Section 1208.02. Each of these provisions is provided below and accompanied
+by analysis of Applicant’s compliance with the relevant standards and criteria. This section also
+discusses additional criteria identified in the record and explains why the Board concludes that
+these additional criteria are not relevant to Applicant’s proposal.
+
+1,     1208.02(A) The proposed change is consistent with the goals, policies, and any other
+       applicable provisions of the Comprehensive Plan.
+
+Regarding criterion (A) above, the Board concludes that Comprehensive Plan policies 1.B.1.D,
+and ILA.1.B , I.A.1.H, Goal II.A.2, and Policy II.A.2.a are applicable to Applicant’s request.
+These and other policies identified in the record are discussed below.
+
+       Policy LB.1.D.: No proposed rural area development shall require or substantially
+       influence the extension of costly services and facilities normally associated with urban
+       centers, such as municipal water supply and sanitary sewerage or power, gas and
+       telephone services, nor shall it impose inordinate additional net costs on mobile,
+       centralized public services, such as police and fire protection, school busing or refuse
+       collection.
+
+       The Board finds that Applicant does not propose any new development or facilities on the
+       Property other than expanded vineyard farm use. Therefore, to the extend this policy
+       applies to Applicant’s proposal, the proposal is consistent with the policy because neither
+       the Farm Area nor the Residential Area of the Property will require additional public
+       services. A well and septic system currently serve the existing dwelling. Other services
+       such as electricity, telephone, and emergency services already serve the existing residents
+       in the area. This criterion is therefore met.
+
+       Policy ILA.1.B: Yamhill County shall provide for the protection of farmland in large
+       blocks through minimum lot sizes of 20, 40, and 80 acres, as appropriate, on the
+       Comprehensive Plan and official zoning maps. Any proposal to reduce the minimum lot
+       size on a farm or farm/forest parcel shall be shown to be appropriate to maintain the
+       existing commercial agricultural enterprise in the area.
+
+       The Board concludes that this policy is applicable because Applicant proposes to reduce
+       the size of an EF-40 zoned parcel from 37.4 acres to 27.3 acres. The Board interprets this
+       policy to allow the reduction of EF-40 land on the Property because the rezoning is
+       intended to preserve the Farm Area as a viable commercial agricultural enterprise. The
+       record includes testimony the Property is more desirable as a commercial vineyard
+       without the dwelling and surrounding Residential Area. Furthermore, Applicant testified
+       that he is no longer able to maintain the vineyard because of his medical condition, and
+       that the proposed buyer intends to maintain and expand the vineyard. Applicant’s
+       proposal therefore ensures the maintenance of the existing commercial agricultural
+       enterprise on the Property and is therefore consistent with Policy ILA.1.B.
+
+                                                                 Ordinance 891 ExhibitA      Page 3
+Volume 117
+ Page 1181
+
+     Policy ILA.1.H.: No proposed rural area development shall substantially impair or
+     conflict with the use of farm or forest land, or be justified solely or even primarily on the
+     argument that the land is unsuitable for farming or forestry or, due to ownership, is not
+     currently part of an economic farming or forestry enterprise.
+
+     The Board finds that Applicant’s intent is to ensure continued farm use and the
+     preservation of other natural resources on the Property. Given this intent and the fact that
+     Applicant is not proposing any new development on the Property other than expanded
+     farm use, the Board concludes that the rezone will not substantially impair or conflict
+     with the current resource uses. This criterion is therefore met.
+
+     Goal I.A.2.: To Conserve Yamhill County’s soil resources in a manner reflecting their
+     suitability for forestry, agriculture and urban development and their sustained use for the
+     purposes designated on the county plan map.
+
+      Additionally, Policy ILA.2.A.. Yamhill County will continue to preserve those areas for
+     farin use which exhibit Class I through IV soils as identified in the Capability
+     Classification System of the U.S. Soil Conservation Service.
+
+     The Board finds that Applicant’s proposal conserves soil resources throughout the
+     Property by preserving agricultural use in the Farm Area and the existing woodland in the
+     Residential Area. The latter intent avoids soil erosion on the steep slopes in this part of
+     the Property.
+
+     The USDA soil map of the Property indicates that vast majority of the soils in the
+     Residential Area of the Property are Class VI, and therefore the Board finds that this area
+     of the Property is not subject to Policy IL.A.2.A.
+
+     According to the USDA map, the portions of the Residential Area that contain Class IIT
+     and IV soils ave under and immediately adjacent to the existing dwelling. The Board
+     therefore finds that this area of the Property is not available for farm use. As a result, the
+     Board interprets Policy IJ.A.2.A to be inapplicable to the Class IIT and IV soils in the
+     Residential Area of the Property because Applicant cannot “continue to preserve” these
+     areas for farm use.
+
+     For these reasons, the Board concludes that Applicant has demonstrated compliance with
+     Goal II.A.2 and Policy ILA.2.A to the extent that these provisions of the Comprehensive
+     Plan apply to Applicant’s proposal.
+
+     The Applicant’s application materials discuss an additional policy, Policy 1.B.1C.2,
+     which provides that:
+
+     All proposed rural area development and facilities: ...(2) Shall not be located in any
+     natural hazard area, such as a floodplain or area of geologic hazard, steep slope, severe
+     drainage problems or soil limitations for building or sub-surface sewage disposal, if
+     relevant;
+
+                                                                  Ordinance 891 Exhibit A     Page 4
+                           Volume 117
+                            Page 1182
+
+        The Board concludes that this policy is not applicable because Applicant does not
+        propose any new development or facilities on the Property other than expanded vineyard
+        farm use. Moreover, the Board finds that preservation of the forested Residential Area
+        through rural residential use will help prevent erosion of the steep slopes in this area of
+        the Property.
+
+2.      1208.02(B): There is an existing demonstrable need for the particular uses allowed by
+        the requested zone, considering the importance of such uses to the citizenry or the
+        economy of the area, the existing market demand which such uses will satisfy, and the
+        availability and location of other lands so zoned and their suitability for the uses allowed
+        by the zone.
+
+The Applicant is requesting AF-10 zoning for the 10.1 acre Residential Area of the Property. The
+remainder of the Property (the Farm Area) would remain in EFU zoning. As noted by the Friends
+of Yamhill County (“FYC”), Applicant must show the need for AF-10 zoning under YCZO
+1208.02B because that is the change in zoning that Applicant is requesting.
+
+Applicant states that he can no longer maintain the vineyard on the Property and that the
+vineyard is a more attractive farm business unit without the accompanying dwelling and
+Residential Area. Applicant explained that his proposed rezoning (and subsequent partition)
+ensures that there will be a buyer for the vineyard who will maintain the Farm Area of the
+Property in farm use, Testimony from the proposed buyer’s attorney corroborates Applicant’s
+statements.
+
+Applicant further testified that the rezoning (and subsequent partition) will allow Applicant to
+continue to reside in the home that he has built and enjoy the land that he has stewarded for the
+past fifteen years.
+
+The Board must interpret the YCZO to determine whether Applicant’s situation satisfies the
+“demonstrable need” standard of 1208.02B, The Board interprets YCZO 1208.02B to encompass
+Applicant’s particular situation. Applicant has shown an existing demonstrable need for AF-10
+zoning in the Residential Area of his Property in order to ensure the continuity of farm use on the
+Property and a reasonable retirement for himself. In reaching this conclusion, the Board finds it
+significant that the rezoning will not lead to new residential development and will facilitate the
+preservation of natural resources of the Property.
+
+As contemplated by YCZO 1208.02B, the Board finds that this interpretation fosters sustainable
+economic development, conservation of natural resources, and the well-being of the local
+citizenry. Through this interpretation, the Board does not intend to encourage rural residential
+development on land in agricultural use. For all of the reasons described above, this criterion is
+therefore met.
+
+3.      1208.02(C): The proposed change is appropriate considering the surrounding land uses,
+        the density and pattern of development in the area, any changes which may have
+        occurred in the vicinity to support the proposed amendment and the availability of
+        utilities and services likely to be needed by the anticipated uses in the proposed district.
+
+                                                                    Ordinance 891 ExhibitA      Page 5
+                                                                Volume 117
+                                                                 Page 1183
+
+Surrounding lands to the north, east, and west are zoned AF-10 and are generally small size rural
+residential lots similar to Applicant’s proposed 10.1 acre AF-10 parcel. Other than Tax Lots,
+3801, 3802, and 3803, these lands are part of code area 1.6 adopted in Exceptions Statement II.
+The areas to the east and west are generally parcels of approximately 1.5 to 6 acres in size with
+rural residences and wooded areas.
+
+Tax Lots 3801, 3802, and 3803 to the north of the Property were rezoned from EFU to AF-10
+and partitioned in 2004. Lots 3801 and 3802 are now small rural residential parcels. Lot 3803,
+which is north-adjacent to the Farm Area of Applicant’s Property, is approximately 24 acres and
+contains a vineyard. Applicant’s proposal is consistent with the County’s 2004 action on these
+parcels, and Applicant’s request that the Farm Area of the Property remain in EFU zoning
+provides additional assurance that farm use will continue on the Property.
+
+Two larger farm/forest parcels exist to the south of the Property (lots 600 and 701). The wooded
+area of Applicant’s Property abuts forested areas of these parcels. Applicant’s intent to preserve
+the wooded Residential Area of the Property through AF-10 zoning is consistent with the land
+use of these parcels, provides continuity in the landscape, and promotes conservation of natural
+resources.
+
+Regarding the availability of utilities and services in the area, the parcels in the surrounding area
+as well as the subject parcel have on-site wells and septic systems. Other services such as
+electricity, telephone, sheriff, and fire protection already serve the existing residents in the area.
+No extension of services is anticipated to be needed for the proposed application.
+
+For all of these reasons, the Board finds that Applicant’s proposed rezoning is appropriate given
+the land use and development characteristics of the surrounding area. Applicant has therefore
+demonstrated compliance with YCZO        1208.02C.
+
+4,      1208.02(D): Other lands in the county already designated for the proposed uses are
+        either unavailable or not as well-suited for the anticipated uses due to location, size, or
+        other factors.
+
+Under Applicant’s proposal, the Farm Area would continue in vineyard farm use and Applicant
+would continue to reside in his existing dwelling in the Residential Area of the Property. FYC
+asserts that the proposed rezoning is unjustified because other rural residential parcels are
+available for Applicant to purchase. The Board does not believe that YCZO        1208D requires
+Applicant to leave his home.
+
+The Board interprets this criterion to allow Applicant’s proposed rezoning because no other
+parcel is as well suited to Applicant’s residential use given Applicant’s history of stewardship of
+the Property and his personal attachment to his home and the surrounding land. The Board also
+finds it relevant that Applicant’s proposal does not cause any change in the actual land use
+pattern of the area because Applicant is not proposing any new development on the Property.
+The Board therefore concludes that Applicant has satisfied this criterion.
+
+3.      1208.02(E): The amendment is consistent with the current Oregon Administrative Rules
+       for exceptions, if applicable.
+
+                                                                    Ordinance 891 ExhibitA        Page 6
+                                                                                         Volume 117
+                                                                                          Page 1184
+
+Regarding this criterion (E), an exception to Goal 3 is required, as addressed in Section III of
+these findings below.
+
+FYC asserts that an exception to Goal 4 is also required for the County to approve Applicant’s
+proposal. The Board concludes that Goal 4 is not applicable to the Property for two reasons.
+First, the County applies EFU zoning to agricultural lands pursuant to Goal 3, Forestry (F)
+zoning to forest lands pursuant to Goal 4, and Agricultural-Forestry Large Holding (AFLH)
+zoning to lands subject to both goals. This is explained in Policies II.A.1.C and II.B.1E of the
+County’s Comprehensive Plan as follows:
+
+               Yamhill   County recognizes that certain areas of the county are
+               characterized by such a mixture of farm and forest use that the
+               agricultural lands and forest lands goals of this Plan are both
+               applicable. Farm and forest resources within these areas shall be
+               protected through mixed-use zoning that recognizes both types of
+               use. Any proposal to change the zoning designation of a parcel
+               from a farm or forest classification to a mixed-use zone shall
+               include a demonstration that the use of the parcel is such a mixture
+               that neither the farm nor forest land goals can be exclusively
+               applied.
+
+In applying EFU zoning to the Property, therefore, the County has determined that Goal 4 does
+not apply to the Property. This determination is consistent with state law, which provides that
+“lands inventoried as Goal 3 agricultural lands . . . are not required to [be] planned and zoned as
+forest lands.” OAR 660-06-0010(1).
+
+Second, the Board finds that the Residential Area of the Property is not suitable for commercial
+forest uses, and therefore concludes that the Property is not “forest land” under Goal 4. In
+adopting this finding, the Board accepts Michael Kelley’s testimony that commercial forestry is
+impractical on the Property due to the size and density of the woodland area, the buffer needed to
+prevent impacts to Bronson Creek, and the risk of hillside erosion. This criterion is therefore met.
+
+Il.   _ Goal Exception Provisions and Analysis:
+
+Oregon Administrative Rule (OAR) 660-04 contains the requirements for taking an exception to
+the goals. The Applicant has requested a “committed” exception. OAR 660-04-028 indicates that
+a committed exception may be taken when land is irrevocably committed to uses not allowed by
+the applicable goal because existing adjacent uses and other relevant factors make uses allowed
+by the goal impracticable. OAR 660-04-028(3) states in part that:         ,
+
+               it is the purpose of this rule to permit irrevocably committed
+               exceptions where justified so as to provide flexibility in the
+               application of broad resource protection goals. It shall not be
+               required that local governments demonstrate that every use
+               allowed by the applicable goal is “impossible.” For exceptions to
+               Goals 3 or 4, local governments are required to demonstrate that
+               only the following uses or activities are impracticable:
+
+                                                                   Ordinance 891 ExhibitA      Page 7
+     Volume 117
+      Page 1185
+
+                  (a) Farm use as defined in ORS 215.203;
+                  (b) Propagation or harvesting of a forest product as specified in
+                  OAR 660-033-0120; and
+                  (c) Forest operations or forest practices as specified in OAR 660-
+                  006-0025(2)(a).
+
+This section of the Board’s decision identifies each applicable criterion for this exception and
+provides the Board’s findings and related legal conclusions for these criteria. Following this
+discussion, we provide our findings and conclusions regarding the impracticability of the
+relevant uses under OAR 660-04-0028(1) and (3).
+
+i.        OAR 660-004-0028(2)(a): Characteristics of the exception area
+
+In order to characterize the exception area, we must first define the exception area. The
+Applicant requests an exception to Goal 3 for the 10.1 acre Residential Area of the Property.
+Under this proposal, the remainder of the property (the Farm Area) would continue to be zoned
+EFU and would remain subject to Goal 3. The Applicant therefore defines the proposed
+exception area as the 10.1 acre Residential Area.
+The Oregon Department of Land Conservation and Development (“DLCD”) and FYC both argue
+that we must look beyond the Residential Area and effectively treat the entire Property as an
+exception area because the Residential Area is part of a larger “farm unit.” The Board concludes
+that DLCD’s and FYC’s position is inconsistent with the plain text of DLCD rules.
+
+DCLD’s rules governing committed exceptions apply to “exception areas.” OAR 660-004-
+0028(1)(b) states that “[f]or the purposes of this rule, an ‘exception area’ is that area of land for
+which a ‘committed exception’ is taken.” Therefore, because Applicant is only seeking an
+exception (and associated rezoning) for the Residential Area of the Property, the Farm Area is
+not part of the “exception area” for purposes of OAR 660-004-0028.
+
+Moreover, the Board finds that the Residential Area of the Property is not part of the same farm
+unit as the Farm Area of the Property. Applicant’s testimony, as well as maps and soil data
+demonstrate that the Residential Area is physically distinct from the Farm Area. In addition, staff
+testified that the existing residence was not historically approved as a farm dwelling. The Board
+therefore concludes that is not appropriate to evaluate the Property as an integrated farm unit.
+
+Based on Applicant’s testimony, maps, and soil data, the Board finds that the Residential Area of
+the Property is characterized by a single family dwelling and steep, northern-facing, forested
+slopes with shallow soils. Bronson Creek runs through this this portion of the Property.
+
+The Board also reiterates its finding under YCZO 1202E above that the Residential Area is not
+suitable for commercial forestry use due to density of the woodland area, the buffer needed to
+prevent impacts to the local creek, and the risk of hillside erosion. For all of these reasons, this
+criterion is therefore met.
+
+2.        OAR 660-004-0028(2)(b): Characteristics of the adjacent lands
+
+                                                                    Ordinance 891 Exhibit A      Page 8
+                             Volume 117
+                              Page 1186
+
+As described above, the Board finds that the Farm Area of the Property adjacent to the
+Residential Area is currently in farm use as a vineyard. Applicant and the proposed buyer of the
+Farm Area intend to maintain and expand this vineyard as a supply of wine grapes for the
+prospective buyer’s local winery. The parcel that is north-adjacent to the Farm Area (not
+adjacent to the Residential Area), is similarly in vineyard use, but is zoned AF-10 pursuant to a
+2004 rezoning.
+
+The Board finds that the parcels east- and west- adjacent to the Residential Area are
+approximately 1.5 acres to 6 acres, zoned AF-10, and include single-family residences and
+wooded areas.
+
+The Board finds that the two parcels adjacent to the Property to the south, tax lots 600 and 701,
+are approximately 24 acres and 87 acres, respectively, and zoned as AF-40. Lot 600 includes a
+single-family residence and a small vineyard surrounded by a wooded area. Tax lot 701 mostly
+consists of a wooded area, and also contains a single family residence. For all of these reasons,
+this criterion is therefore met.
+
+3.      OAR 660-004-0028(2)(c): The relationship between the exception area and the lands
+        adjacent to it
+
+Based on the information described above under exception criteria (2)(a) and (b), the Board finds
+that the Residential Area of the Property is similar in size and rural residential character to the
+adjacent lands to the east and west. The woodland in the Residential Area of the Property also
+integrates with the AF-40 lands to the south. Applicant’s intent to preserve the woodland in the
+Residential Area ensures a continued buffer between Applicant’s existing residence and these
+southern properties.
+
+The Board also finds, based on Applicant’s testimony, maps, and soil data, that the Property’s
+soil and geography naturally divide the Property into the Residential Area and the Farm Area.
+The Board accepts Applicant’s testimony that Applicant and the prospective purchaser of the
+Farm Area have reached agreements to provide an access easement to the Residential Area and
+to share water from the well on the Residential Area. The Board therefore concludes that the
+rezoning of the Property as proposed will result in harmonious use of the Residential Area and
+the Farm Area. For all of these reasons, this criterion is therefore met.
+
+4.      OAR 660-004-0028(6)(a): Existing Adjacent Uses
+
+Regarding this criterion, the Board incorporates our findings regarding OAR 660-004-
+0028(2)(b). For clarity, the Board finds that west-adjacent lots 4300 and 4400 are in open space
+use in conjunction with the single family residence on Lot 4200. Lots 2900, 3000, and 3901 are
+also in rural residential use. A portion of the Lot 400 to the south is in farm use with the
+remainder in open space with a single family residence. Lot 701 is mostly forested land in open
+space and residential use. For all of these reasons, this criterion is therefore met.
+
+5.      OAR 660-004-0028 (6)(b): Existing Public Facilities and Services
+The Board finds that electricity, telephone, sheriff, and fire protection are provided to the
+Residential Area and surrounding properties. The Residential Area is served by an existing well
+and septic system. For all of these reasons, this criterion is therefore met.
+                                                                     Ordinance 891 ExhibitA     Page 9
+                                                                 Volume 117
+                                                                  Page 1187
+
+6.       OAR 660-004-0028(6)(c): Parcel size and ownership patterns of the exception area and
+         adjacent lands
+The Board incorporates its findings above regarding YCZO 1202C and OAR 660-004-
+0028(2)(b) and (c) above. The AF-10 zoned parcels that are adjacent to the Residential Area, as
+well as many other nearby parcels are part of code area 1.6 adopted under Exceptions Statement
+IL in 1980, These lands were subdivided/partitioned before adoption of the Statewide Planning
+Goals, and the lands were zoned AF-10 in 1980 pursuant to a committed exception.
+
+Although not adjacent to the Residential Area, the Board notes that Lots 3801, 3802, and 3803
+were partitioned in 2004 following approval of a committed exception and associated rezoning
+from EFU to AF-10, Lot 3801 is adjacent to the Farm Area of the property.
+
+The parcels adjacent to the Residential Area are generally in separate ownerships and developed
+with single family residences. The Board finds that this development pattern and the related road
+network and property boundaries make it impracticable to consolidate land for resource uses, and
+also to harvest the timber resources that remain on the Property, The Board further discusses
+impracticability below under OAR 660-06-0028(1) and (3). For all of these reasons, this criterion
+is therefore met.
+
+7.      OAR 660-004-0028(6)(d): Neighborhood and regional characteristics
+
+The Board incorporates its findings from YCZO 1202C, OAR 660-004-0028(2)(b) and (c), and
+OAR 660-004-0028(6)(c) above. The Property is within the Dundee Hills winegrowing area, and
+there are many successful vineyards in this area. The Board finds that the success of local
+vineyards and wineries promotes agricultural preservation, particularly on smaller parcels where
+other crops are impracticable, For all of these reasons, this criterion is therefore met.
+
+&.     OAR 660-004-0028 (6)(e): Natural or man-made features or other impediments
+       separating the exception area from adjacent resource land
+
+The Board incorporates its findings under OAR 660-004-0028(2)(c) above. As described in that
+section of this decision, the Residential Area is naturally separated from the Farm Area of the
+Property and the AF-40 lands to the south. Applicant’s proposed use of the Residential Area will
+ensure non-interference with resource uses on these adjacent parcels. For all of these reasons,
+this criterion is therefore met.
+
+9.      OAR 660-04-0028(6)(f): Physical development
+
+The Board incorporates its background findings in Part I above, as well as our findings under
+YCZO 1202E, OAR 660-004-0028(2)(b) and (c), and OAR 660-004-0028(6)(c). The Board
+further finds that the Residential Area is physically developed for rural residential use due to the
+existing dwelling and the character of the surrounding woodland. The Board finds that this
+residential development will not interfere with resources uses in the Farm Area of the Property
+and is also compatible with resource uses on the south-adjacent AF-40 zoned parcels. For all of
+these reasons, this criterion is therefore met.
+
+                                                                   Ordinance 891 ExhibitA     Page 10
+                                                                                             Volume 117
+                                                                                              Page 1188
+10.     OAR 660-04-0028(6)(g): Other relevant factors
+
+The Board finds it relevant that the purpose of Applicant’s proposal is to preserve and expand the
+existing farm use on the Property rather than to enable further non-resource development of the
+Property. Based on testimony from Applicant and the proposed buyer’s attorney, the Board finds
+that rezoning of the Residential Area of the Property will make long term continued farm use on
+the Property more likely due to the specific characteristics of the Property and Applicant’s
+personal situation.
+
+The Board also finds it relevant and appropriate that Applicant’s proposed partition will enable
+the Applicant to continue to reside in his existing dwelling and to preserve the woodland area of
+the Property for wildlife habitat, erosion control and aesthetics.
+
+FYC argues that the characteristics of the Property and Applicant’s intent in submitting the land
+use application are irrelevant under the criteria for a committed exception. The Oregon Court of
+Appeals and LUBA, however, have rejected this argument. See DECD y. Curry County, 151 Or
+App 7 (1997); Friends of Linn County y. Linn County, 38 Or LUBA 868, 876-77 (2000). The
+County therefore concludes that it is appropriate for the Board to consider this information.
+
+Finally, the Board concludes that it must consider the basic purpose of DLCD’s exception rules.
+OAR 660-04-0000 states that “[t]he intent of the exceptions process is to permit necessary
+flexibility in the application of the Statewide Planning Goals.” This purpose is reiterated in the
+committed exception rules at OAR 660-004-0028(3). The Board concludes that flexibility in the
+application of Goal 3 is particularly appropriate here given that Applicant’s proposed use of the
+Property furthers the purpose of Goal 3. For all of these reasons, this criterion is therefore met.
+
+il.     OAR 660-04-0028(1) and (3): Impracticability of farming and forestry uses
+
+For the reasons described throughout this Part III of the Board’s decision, the Board finds that
+farm use (ORS 215,203), propagation or harvesting of a forest product (OAR 660-033-0120) and
+forest operations and practices (OAR 660-006-0025(2)(a)) are all impracticable in the proposed
+exception area, which is the Residential Area of the Property. All of these uses would require
+logging of the woodland area of the Property. Based on testimony from Applicant and related
+evidence in the record, the Board finds that such logging is cost prohibitive, and also risks
+erosion onto the Property and adjacent parcels.
+
+Furthermore, the Board finds based on local maps and other evidence in the record that access
+for logging is impracticable given property boundaries and the local road network built for
+residential use. There is no access to the wooded area of the Property except through the Farm
+Area and residential portions of North Williamson Road. Transportation of timber across the
+Property could interfere with farming practices in the Farm Area of the Property and the adjacent
+vineyard on Lot 3803, and also disrupt nearby residential parcels.
+
+As described above, the Board finds that even ifthe Property could be practically logged, the
+Residential Area would not be suitable for farm use due to the steep, northern-facing slopes and
+shallow soils.
+
+Finally, the Board believes that the practicability of logging the property should be viewed in the
+context of Applicant’s proposal. Applicant’s proposed rezoning will serve to preserve the natural
+                                                                   Ordinance 891 Exhibit A      Page 11
+Volume 117
+ Page 1189
+
+   resources and farm use of the Property. This is a more practical and desirable outcome under
+   state and local land use policy than logging the Property and/or risking neglect of the productive
+   vineyard by blocking the sale of the Farm Area of the Property.
+
+   For all these reasons, the Board finds that Applicant’s proposal satisfies the impracticability
+   standard for a committed exception under OAR 660-004-0028.
+
+   IV.   _ Goal 12 (Transportation Planning Rule) Provisions and Analysis:
+
+                                                                     Ordinance 891 Exhibit   A   Page 12
+                       Volume 117
+                        Page 1190
+
+ 1.     The Transportation Planning Rule, OAR 660-12-060, provides as follows:
+
+        (1)     Amendments to functional plans, acknowledged comprehensive
+                plans, and land use regulations which significantly affect a
+                transportation facility shall assure that allowed land uses are
+                consistent with the identified function, capacity, and level of
+                service of the facility. This shall be accomplished by either:
+                (a)     Limiting allowed land uses to be consistent with the
+                        planned function, capacity and level of service of the
+                        transportation facility;
+                (b)   — Amending the TSP [Transportation System Plan] to provide
+                        transportation facilities adequate to support the proposed
+                        land uses consistent with the requirements of this division;
+                        or,
+                (c)  _ Altering land use designations, densities, or design
+                        requirements to reduce demand for automobile travel and
+                        meet travel needs through other modes.
+        (2)   — A plan or land use regulation amendment significantly affects a
+                transportation facility if it:
+                (a)     Changes the functional classification of an existing or
+                       planned transportation facility;
+                (b)     Changes standards implementing a functional
+                        classification system,
+                (c)     Allows types or levels of land uses which would result in
+                        levels of travel or access which are inconsistent with the
+                       Jinctional classification of a transportation facility; or
+                (d)     Would reduce the level of service of the facility below the
+                       minimum acceptable level identified in the TSP.
+
+Based on findings articulated throughout this decision, the Board concludes that the
+Transportation Planning Rule is not applicable because the proposed rezoning will not
+significantly affect a transportation facility. As described above, the Applicant does not propose
+any new development on the Property other than expansion of the vineyard farm use. Expansion
+of the vineyard will not appreciably increase traffic in the local area. For all of these reasons, the
+Transportation Planning Rule does not apply inthis case.
+
+Vv.     Response to Other Issues Raised
+
+The Board agrees with FYC that OAR 660-004-0018(2)(b)(B) is applicable to Applicant’s
+proposal. This rule requires that “[t]he rural uses, density, and public facilities and services will
+not commit adjacent or nearby resource land to uses not allowed by the applicable goal.” The
+Board finds that Applicant’s proposed exception will not commit other lands to uses not allowed
+under Goal 3 because Applicant does not propose any new development on the Property. As
+previously described, the purpose of Applicant’s proposal is to preserve farm use and other
+natural resources on the Property. The exception therefore will not increase density, create new
+
+                                                                   Ordinance 891 Exhibit A     Page 13
+                                                                  Volume 117
+                                                                   Page 119]
+
+land use uses, nor require additional public facilities or services. The Board therefore concludes
+that Applicant has demonstrated compliance with OAR 660-004-0018(2)(b)(B).
+
+CONCLUSIONS:
+
+1.     The request is for a Comprehensive Plan amendment and zone change from
+       Agriculture/Forestry Large Holding, EF-40 to Agriculture/Forestry Small Holding, AF-
+        10, including an exception to Goal 3,
+
+       The proposed zone change is consistent with all applicable Comprehensive Plan goals
+       and policies.
+
+       An exception to Goal 3 is justified because farming and forestry uses are impracticable in
+       the Residential Area of the Property, and the adjacent small residential lots, roads, and
+       uses contribute to the area being irrevocably committed to residential use.
+
+       The proposed change is consistent with the zone change criteria of Section 1208.02.
+
+       The proposed change complies with the Transportation Planning Rule.
+
+                                                                  Ordinance 891 Exhibit A    Page 14
+
+                                                                           4.0,      1&-NA
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.4% of
+the word sequence, and on 87.2% of the figures. Dictionary-recognizable words: 95.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

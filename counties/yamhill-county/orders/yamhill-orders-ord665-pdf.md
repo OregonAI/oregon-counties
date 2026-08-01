@@ -1,0 +1,640 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord665-pdf
+title: 'ORD665-PDF'
+doc_type: ordinance
+citation: 'ORD665-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17554/ORD665-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: f29b5961a47fb076889c3c1e64e4917d147ced38b2b624b7fd01846ab710e46f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.975; figure agreement 0.613; dictionary ratio 0.941. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD665-PDF (ORD665-PDF)
+
+## At a glance
+
+OCR-derived text of ORD665-PDF. Not human-verified.
+
+## Full text
+
+rua UG ace Zod                        a
+                                                                           99 JAN 14 P4349
+             IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                FOR THE COUNTY OF YAMHILL
+
+                SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of an Ordinance Amending                  )
+the Official Yamhill County Zoning Map                  )
+from EF-80, Exclusive Farm Use District, to             )
+VLDR-2.5, Vety Low Density Residential                  )       ORDINANCE 665
+District, and Approving a Floodplain                    )
+Development Permit on Tax Lot 5635-300;                 )
+Applicant Gerald Cannady; Docket                        )
+Z-02-98/FP-05-98; and Declaring an Emergency.           )
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business in special session on January 7, 1999, Commissioners Robert
+Johnstone, Thomas E. E. Bunn, and Ted Lopuszynski, being present.
+
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A. On October 13, 1998, Gerald Cannady filed an application to change the zoning designation from
+EF-80, Exclusive Farm Use District, to VLDR-2.5, Very Low Density Residential District, and for
+a floodplain development permit to allow construction of a single family residence on a 1.38 acre
+parcel known as tax lot 5635-300 in Docket No.Z-02-98/FP-05-98.
+
+B. On December 3, 1998, the Yamhill County Planning Commission held a public hearing on
+Planning Docket Z-02-98/FP-05-98, and recommended approval of the application with conditions.
+
+C. On January 7, 1999, the Board held a public hearing to consider Docket Z-02-98/FP-05-98, and
+at the conclusion of the hearing, the Board voted unanimously to approve the application with
+conditions.
+
+D. The Board has determined that adoption of this ordinance will be in the best interest of the citizens
+of Yamhill County, Now, Therefore,
+
+THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS                               AS FOLLOWS:
+
+Section 1.    The Official Yamhill County Zoning Map is hereby amended to change the zoning
+designation from EF-80, Exclusive Farm Use District, to VLDR-2.5, Very Low Density Residential
+District, as requested by Gerald Cannady in Docket No.Z-02-98, as provided and specified in the
+attached Exhibit "A", which is by this reference made a part of this ordinance.
+
+                                                                                       Ordinance 665
+                                                                                               Page 1°
+                                                                                     BO.   94-76
+                                                                                     O G v ee 252
+                                                                                 cur
+Section 2 The application by Gerald Cannady in Docket FP-05-98 for a floodplain development
+permit to allow construction ofa single family residence on tax lot 5635-300 is hereby approved with
+the following conditions:
+
+        1.     The structures shall comply with the standards listed in Section 901.07(B) and (C) of
+               the Yamhill County Zoning Ordinance.
+
+                The applicant shall provide certification by a registered professional engineer or
+                architect that Condition number 1 is satisfied, based on their review of the structural
+                design, specifications and plans prior to construction.
+
+               Removal of existing woody vegetation shall be minimal.
+
+               The lowest floor level must be at minimum one (1) foot above the base flood
+               elevation. (A flood elevation certificate shall be submitted to certify the elevation of
+               the structure.)
+
+                The applicant shall obtain proper building permits from Yamhill County.
+
+                The applicant shail obtain proper permits from Oregon Department of Transportation
+                for access to West Valley Hwy (Hwy 18 - Business Loop).
+
+                The applicant shall obtain proper permits from Oregon Division of State Lands for
+                easement or license, lease, or registration for the use of State designated wetland area.
+
+Section 3       Severability Clause. If any section or subsection contained in this ordinance is found
+to be invalid or unconstitutional by a court of competent jurisdiction, the remainder of this ordinance
+shall continue in full force and effect unless those parts, standing alone, are incapable of being
+executed in accordance with legislative intent.
+
+Section 4.      This ordinance being necessary for the health, safety, and welfare of the citizens of
+Yamhill County, and an emergency having been declared to exist, is effective upon passage.
+
+Mt
+iff
+
+                                                                                         Ordinance 625
+                                                                                                 Page 2
+                                                                    FILA   06     PACE   £03
+
+DONE at McMinnville, Oregon this 7th day of January, 1999.
+
+                                      YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                      Chairman        (HoBERT JOHNSTONE
+
+                                         TH hes vig     CL,   Bore
+                                      Commissioner       THOMAS   E.E. BUNN
+
+FORM APPROVED BY:
+
+2                vot                    “L             QALY
+JOHN C. PINKSTAFF //                  Contmissioner    (TED LOBUSZYNSKI
+Assistant County Counsel
+
+F: \ADMIN\PINKSTJ\LU\2-2-98    .WPD
+
+                                                                              Ordinance 625
+                                                                                      Page 3
+                                                                                                 er
+                                                                                                 TS
+                                        ORDINANCE 665
+
+                                                                                     i
+                                          EXHIBIT "A"
+
+PLANNING COMMISSION'S APPROVAL:                               December 3 1998
+
+BOARD OF COMMISSIONER'S APPROVAL:                             January 7, 1999
+
+DOCKET NO.:           Z-02-98/FP-05-98
+
+REQUEST:              Zone change from EF-80, Exclusive Farm Use District, to VLDR-2.5, Very
+                      Low Density Residential District, and approval of a floodplain development
+                      permit to allow construction of a single family residence on the property.
+
+APPLICANT:             Gerald Cannady
+
+OWNER:                Gerald, Mary and Terry Cannady, Ora and Katie Garver
+
+ TAX LOT:              5635-300
+
+LOCATION:             Between West Valley Highway (Hwy 18 - Business Loop) and the Yamhill
+                      River, on the east side of Sheridan within the Urban Growth Boundary.
+
+_ LOT SIZE:            1.38 acres
+
+_CRITERIA:            Sections 502, 901 and 1208 of the Yamhill County Zoning Ordinance; the
+                      Yamhill County Comprehensive Plan.
+FINDINGS:
+
+A. Background Facts
+
+ 1,    Parcel Size: 1.38 Acres,
+
+ 2.    Access: The parcels has frontage on West Valley Hwy (Hwy 18 - Business Loop).
+
+       On-Site Land Use: The property includes an upland area located adjacent to the highway with
+       a steep embankment sloping toward the river. A majority of the parcel is located within the
+       identified 100-year flood plain of South Yamhill River. The property is undeveloped but
+       contains the City of Sheridan's sewer trunk line which connects the north part of the city with
+       the sewage treatment pump station, and sewer lagoons, on the south side of the river. The
+       property is located within Yamhill County and is zoned Exclusive Farm Use (EF-80). On
+       August 25, 1998 the County and the Sheridan City Council approved an Urban Growth
+       Boundary amendment for the parcel which changed the comprehensive plan designation to
+
+                                                                                   Exhibit “A” - Page 1
+                                                                                        Ordinance 665
+                                                                                  gee           opr
+                                                                             rie OO ice BOO
+      residential.
+
+       Surrounding Land Use:    To the west are four small parcels, each containing a single family
+      home. To the north is an approximate 13-acre parcel containing a single family home and
+      accessory structure. To the east is a narrow, undeveloped parcel also located between the
+      highway and the river. The South Yamhill River lies to the south.
+
+       Surrounding Zoning:     All land directly adjacent to the property is within the County and
+      zoned EF-80.
+
+      Soils: The small size of the parcel and the small scale of soils maps makes it difficult to
+      classify the soils. However, the parcel appears to be made up of Stoney Land (SL) on the
+      terrace adjacent to the highway and Chehalem (CeC) soil on the sloping river bank.
+
+      Water: The application indicates that the lot will be served by city water. There appears to
+      be an agreement between the city and the applicant that his property will be connected to the
+      city water.
+
+      Sewage Disposal: The application indicates that there is no septic system on the parcel.
+      There seems to be an agreement between the city and the applicant that his property will be
+      connected to the city sewer.
+
+      Fire Protection: The parcel is served by the Sheridan Fire District.
+
+10.   Previous Actions: An approval by the City Council and the County Board Of Commissioners
+      to amend the comprehensive plan map to expand the UGB and establish the "Residential".
+      designation on the City's Comprehensive Plan, and taking an exception to Statewide Goal 3.
+      County Docket PAZ-04-98/City Docket 98-05-13.
+
+il.   Flood Insurance Rate Map (FIRM) No. 410249-0432C indicates the subject parcel is within
+      the 100-year floodplain of South Yamhill River. The base flood elevation is between 187' and
+      188'. The applicant did not submitted a report from a professional surveyor or engineer
+      regarding the elevation of the proposed dwelling or any calculations regarding possibility of
+      floodwater being elevated by the structure.
+
+B._ Ordinance Provisions and Analysis
+
+1.    A request for a quasi-judicial zone map change must comply with the standards and criteria
+      in Section 1208.02 of the Yamhill County Zoning Ordinance (YCZO), as follows:
+
+       (A)     That the proposed change is consistent with the goals, policies, and any other
+               applicable provisions of the Comprehensive Plan.
+
+      (B)      That there is an existing demonstrable need for the particular uses allowed by the
+               requested zone, considering the importance of such uses to the citizenry or the
+
+                                                                                Exhibit “A” - Page 2
+                                                                                        Ordinance 665
+                                                                                 FILR   bo    PACE   256
+
+              economy of the area, the existing market demand which such uses will satisfy, and
+              the availability and location of other lands so zoned and their suitability for the uses
+              allowed by the zone.
+
+      (C)     That the proposed change is appropriate considering the surrounding land uses, the
+              density and pattern of development in the area, any changes which may have
+              occurred in the vicinity to support the proposed amendment and the availability of
+              utilities and services likely to be needed by the anticipated uses in the proposed
+             district.                      .
+
+      (D)   — That other lands in the county already designated for the proposed use are either
+              unavailable or not as well-suited for the anticipated uses due to location, size, or
+              other factors.
+
+      (E)   — That the amendment is consistent with the current Oregon Administrative Rules for
+              exceptions, if applicable.
+
+      The Board finds that the application satisfies YCZO 1208.02(A).
+
+2.1   The Yamhill County Comprehensive Plan policies that may arguably be applicable include:
+
+              Policy (c) of Goal LA.1: Yamhill County will recognize the lands within established
+              urban growth boundaries as the appropriate and desired location for urban
+              development.
+
+      The Board finds that Policy ¢ of Goal I.A.1 is aspirational only and does not constitute a
+      mandatory approval criteria. The policy has already been implemented through the adoption
+      of the zoning ordinance, including the adoption of the urban growth boundary which includes
+      the subject property. And even if the policy applied, the Board finds that it is satisfied. The
+      parcel is 1.3.acres, which may be considered to be an urban scale of development. Since Tax
+      Lot 5635-300 is inside the urban growth boundary of Sheridan, the scale of the proposed
+      zone change complies with this policy. The zoning designation of VLDR-2.5, would be
+      consistent with the adjacent properties to the south, which are also zoned VLDR-2.5.
+
+              Policy b. of Goal LA.1: Yamhill County will seek to establish a general commitment
+              by all providers of urban services that no subdivision of lands in designated urban
+              areas on the Pian Map will be permitted without the provision of urban services
+              commensurate with the location, nature and scale of the proposed development,
+              recognizing the overall capital program for community services and the ultimate net
+              cost to the community of the services to be provided.
+
+      The Board finds that Policy b of Goal L.A.1 is aspirational only and does not constitute a
+      mandatory approval criteria. The policy is implemented through the adoption of the zoning
+      ordinance. And even if this policy could be directly applied, the Board finds that it would not
+      be applied in this case because only one residence will be placed on the parcel, and there is
+
+                                                                                   Exhibit “A” - Page 3
+                                                                                         Ordinance 665
+                                                                         cin OG vce 237
+no plan for subdividing of the parcel. Furthermore, even if the policy applied, the Board finds
+that it is satisfied because the city has agreed to provide city services to the parcel.
+
+The Board finds that the application satisfies YCZO 1208.02(B). Criterion (B), requires a
+finding that there is an existing demonstrable need for the use that would be allowed by the
+zone change, which in this case is additional residential lot. The Board finds that this proposal
+will create or promote one additional residential development which will ensure the City
+control over those facilities necessary to support urban uses. This property contains an
+especially critical component of the City's sanitary sewer system as this is the point where the
+sewage from the north side of the City is transported, beneath the river, to the pumping
+station and sewer lagoons.
+
+The Board finds that the application satisfies YCZO 1208.02(C). Regarding criterion (C),
+the surrounding area is residential in character and there are no known agricultural activities
+on adjacent properties, and based on the topographic and soil conditions, the adjacent land
+is not well suited for agriculture. Since the subject parcel would remain zoned for residential
+use, there would be no conflicts with surrounding uses. The proposed 1.3-acre lot size is
+consistent with the surrounding parcel sizes, which vary from .37 acres to almost 5 acres in
+size.   With no change in the land use or pattern, potential adjacent, or nearby, agricultural
+activities will be unaffected by this proposal. Half of the parcel is a steep riverbank which is
+unsuitable for farming. The tax lot is on a narrow strip of land between the West Valley
+Highway and the Yamhill River. To the west are four small residential lots lying between Tax
+Lot 300 and the City limits. The county originally suggested the city include these parcels in
+the previous UGB Amendment; however, the city staff rejected this option as two of the
+property owners were opposed to being included in the amendment. The parcel to the east
+is an even narrower strip of land between the road and the river. Lands on the south side of
+the river are in both the city and the county and are zoned (or designated) for residential use.
+The remainder of the parcel is less than 100 feet wide, and contains a sewer trunk line and
+three manholes. The parcel is also adjacent to a highly traveled road (West Valley Highway)
+which serves as a physical barrier between Tax Lot 300 and a larger farm parcel to the north,
+across Highway 18-B. These physical developments make Tax Lot 300 unavailable for
+farming.
+
+The Board finds that the application satisfies YCZO 1208.02(D). Criterion (D) requires an
+analysis of whether other residentially zoned lands are either unavailable or not as well suited
+for the development. The Board finds that this analysis should be limited to VLDR-2.5 zoned
+lands in the Sheridan area. The Board finds that there is a very limited amount of vacant
+VLDR-Z.5 zoned lands in the Sheridan area. The inventory of Sheridan area indicates that
+there are total of 13 parcels currently zoned VLDR-2.5. One of these is of sufficient size to
+make one additional parcel which would    be a total of 14 parcels.   Of these, seven parcels are
+currently vacant. However, the subject parcel has a unique situation having the city’s sewer
+line on the parcel.
+
+The Board finds that the application satisfies YCZO 1208.02(E), Regarding criterion (E), the
+parcel is an exception area, so Goals 3 and 4 do not apply and since the parcel is already
+
+                                                                              Exhibit “A” - Page 4
+                                                                                   Ordinance 665
+                                                                                  rite   66      “AGE   £o8
+
+         within the urban growth boundary Goal 14 does not apply.               No other Goals apply to this
+         request, and no exception is required.
+
+C,___   Floodplain Ordinance Provisions and_Analysis
+
+1.       Developments in the Floodplain Overlay zone are subject to the requirements of Section 901
+         of the Yamhill County Zoning Ordinance (YCZO). Prior to issuance of a floodplain
+         development permit, the applicant must demonstrate that:
+
+        A,      The proposed development conforms with the use provisions,                      standards and
+                limitations of the underlying zoning district and other overlay district.
+
+        B.      the proposed development, if located within the floodway, satisfies the provisions
+                of Subsection 901.09.
+
+                the proposed development will not increase the water surface elevation of the base
+                flood more than one (1) foot at any point.
+
+                All applicable permits            have   been   obtained from     Federal,     State or Local
+                governmental agencies, and all applicable National Flood Insurance Program
+                requirements have been satisfied.
+
+                The proposed development is consistent with policies j. and k. of the Comprehensive
+                Plan, as amended by Ordinance 471.
+
+                YCCP Section II(C)(1) policies j and k provide as follows:
+
+               ij       It is the policy of Yamhill County to protect riparian vegetation from damage
+                       that may result from land use applications for development that is otherwise
+                       permitted outright or conditionally under county zoning regulations. To
+                       achieve this goal, Yamhill County will review land use applications for
+                        development in riparian areas in an effort to mitigate or prevent damage to
+                        riparian vegetation that might result from the development. For purposes of
+                        this policy, “riparian areas" refers to areas within 100 feet measured
+                        horizontally from the ordinary high water line of streams identified as "Fish
+                        Habitat"     in     the   comprehensive     plan   inventory     (National      Resource
+                        Conservation Plan, Yamhill County, Oregon, May 1979 - USDA - Soil
+                        Conservation Services), that are not regulated under the Forest Practices
+                       Act.(Ord 471)
+
+                k.     It is county policy that land use management practices and nonstructural
+                       solutions to problems of erosion and flooding are preferred to structural
+                        solutions.        Water erosion control structures, including rip-rap and fill,
+                        should be reviewed by the appropriate state permitting authority to insure
+                        that they are necessary, are designed to incorporate vegetation where pos-
+
+                                                                                             Exhibit “A” - Page 5
+                                                                                                   Ordinance 665
+                                                                              cy
+                                                                       au     OG ue . BE.
+                                                                                      209
+
+                 sible, and designed to minimize adverse impacts on water currents, erosion
+                 and accretion patterns.
+
+Each of these criteria are considered, respectively, in Findings C.2 through C.6, below.
+
+The Board finds that the application satisfies YCZO Section 901(A). The request is for
+placement of a dwelling in VLDR- 2% zone. The use is permitted in this zoning district.
+
+The Board finds that the application satisfies YCZO       Section 901(B).    There is no plan to
+build the proposed structure in the floodway.
+
+The Board finds that it is feasible to satisfy YCZO Section 901(C) and that a condition will
+be imposed to assure compliance with this requirement. The applicant will be required to
+submit a letter or calculations from a registered professional engineer or architect stating that
+the proposal will not result in any increase in flood levels during the occurrence of the base
+flood discharge, and this requirement has been imposed as a condition of approval.
+
+The Board finds that it is feasible to satisfy YCZO Section 901{D) and that a condition will
+be imposed to assure compliance with this requirement. The applicant will be required to
+obtain all necessary permits prior to construction, and this requirement has been imposed as
+a condition of approval.
+
+The Board finds that the application satisfies YCZO Section 901(E). The South Yamhill
+River is shown on the Comprehensive Plan map as being fish habitat for anadromous fish and
+resident trout spawning and rearing. The applicant indicated that proposed residence will be
+located more than 100 feet from the edge of the river’s edge. Consequently, the request
+complies with the Plan policies. However, as a precaution, a condition of approval will
+require that there be no placement of fill or disturbance to existing vegetation within the 100-
+foot riparian area.
+
+Section 901.07(A, B, C & D) provides general standards relevant to the placement of
+residential structures.    These standards are:
+
+A,      Manufactured Homes.
+
+        i.      Manufactured homes shall be anchored in accordance with subsection
+                 901.07 B.
+
+B.      Anchoring.
+
+        L.      All new construction and substantial improvements shall be anchored to
+                prevent flotation, collapse or lateral movement of the structure. Except in
+                the case of a manufactured home, elevation of a structure on fill above the
+                 base flood level shall be considered to satisfy the anchoring requirement.
+
+                                                                             Exhibit “A” ~ Page 6
+                                                                                   Ordinance 665
+                                                             rie DO oe          £60
+
+      All manufactured homes shall be anchored to resist flotation, collapse or
+      lateral movement by providing over-the-top and frame ties to ground
+      anchors, subject to the following specifications:
+
+       a.     Over-the-top ties shall be provided at each corner of the manufa-
+              ctured home, with two (2) additional ties per side at intermediate
+              points, or with one (1) additional tie per side for manufactured homes
+              less than fifty (50) feet in length.
+
+       b.     Frame ties shail be provide at each corner of the manufactured
+              home, with five (5) additional ties per side at intermediate points, or
+               with four (4) additional ties per side for manufactured home less than
+              Jifty 60) feet in length.
+
+       c.     All components      of the anchoring system shall be capable          of
+              withstanding a force of 4,800 pounds per square inch.
+
+      d.      Any structure appurtenant to the manufactured home shall be
+              similarly anchored.
+
+Construction Materials Methods and Certification.
+
+i.     All new construction and substantial improvements to existing structures
+       shall be constructed with materials and utility equipment resistant to flood
+       damage.
+
+       All new construction and substantial improvements shall be constructed
+       using methods and practices that minimize flood damage.
+
+       Electrical, heating, ventilation, plumbing, and air-conditioning equipment
+       and other service facilities shall be designed and/or otherwise elevated or
+       located so as to prevent.water from entering or accumulating within the
+       components during conditions of flooding.
+
+       All new construction and substantial improvements with fully enclosed areas
+       below the floor and subject to flooding shall be designed to automatically
+       equalize the hydrostatic forces to exterior walls by allowing entry and exit of
+      floodwaters. A minimum of two openings having a total net area of not less
+       than one square inch for every square foot of floor area subject to the
+      flooding shall be provided. The bottom of all openings shall be no higher
+       than one foot above grade, and may be equipped with screens, louvers, or
+       other devices that automatically permit entry and exit of floodwaters.
+
+       All nonresidential construction shall include certification by a registered
+       professional engineer or architect that the standards of this subsection are
+
+                                                                  Exhibit “A” - Page 7
+                                                                        Ordinance 665
+                                                                  riLé   DG         TAGE      2o1
+
+                 satisfied based on their development and/or review of the structural design,
+                 specifications and plans.
+
+Dd.     Utilities and Services.
+
+        i        All new and replacement water supply systems shall be designed to minimize
+                 or eliminate infiltration of flood waters into the system.
+
+        2.       New and replacement sanitary sewage systems shall be designed and located
+                  to minimize or eliminate flood water infiltration and contamination resulting
+                 Jrom discharge of effluent consistent with the requirements of the State
+                 Department of Environmental Quality (DEQ).
+
+        3.       On-site waste disposal systems shall be located to avoid impairment to them °
+                 or contamination from them during flooding.
+
+The Board finds that the application satisfies YCZO 901.07 as follows. The building will not
+be in the floodway. The first finished floor will be required to be'a minimum of one foot
+above the base flood elevation. Prior to and during construction or placement of the
+residence,    the applicant will be required to meet all standards in YCZO Section 901.07 A,
+B, C and D and the Uniform Building Code. The height of the building and specifically the
+elevation of the first finished floor will be at the minimum amount required to elevate the
+livable space to be above the BFE, which conformsto the standards in (F). Compliance with
+all standards will be made conditions of approval.
+
+Section 901.08 contains specific standards for areas where the base flood elevation (BFE) has
+been determined. The BFE at the subject property is between 187' and 188' as depicted on
+FIRM map. The standards are:
+
+(A)     For any new residential construction and substantial improvement of any residential
+        structure, the lowest floor level shall be one foot above the base flood elevation.
+        New construction and substantial improvement of any commercial, industrial or
+        other nonresidential structures and accompanying utility and sanitary facilities shall
+       either have the lowest floor, including basement, elevated to the level of the base
+       flood elevation or be subject to the following:                    .
+
+        (D       Be floodproofed so that all portions of the structure below the base flood
+                 level are watertight, with walls that are substantially impermeable to the
+                 passage of water.
+
+      _ (2)      Have structural components capable of            resisting        hydrostatic      and
+                 hydrodynamic loads and effects of buoyancy.
+
+(B)     For the placement of a manufactured home the lowest floor level shall be one foot
+        above the base flood elevation, and the above basement provisions shall be satisfied,
+
+                                                                                  Exhibit “A” - Page 8
+                                                                              .            Ordinance 665
+                                                                                 rue UG ace 282
+
+              if applicable.   In addition, the mobile home must be elevated on a permanent
+              foundation.
+
+10.    The Board finds that the application satisfies YCZO 901.08 as follows. The lowest finished
+       floor of the dwelling will be required to be at an elevation of 189 feet, which meets the
+       requirement of being one foot. above the BFE. No basement is proposed.
+
+CONCLUSIONS        FOR APPROVAL:
+
+1.     The request is for a zone change from EF-80 to VLDR-2.5 and for placement of a dwelling
+       in the 100-year floodplain of South Yamhill River.
+
+2.     The zone change request complies with the applicable provisions of the Yamhill County
+       Comprehensive Plan Goals and Policies, is consistent with the County’s Plan Map designation
+       of Future Urbanizable Lands, and satisfies the requirements for a zone change under YCZO
+       1208.02.
+
+3.     The request is consistent. with the purpose of the floodplain overlay district, and, with
+       conditions, satisfies the requirements of YCZO sections 901.06, 901.07 and 901.08.
+
+DECISION:
+
+Based on the above findings, analysis, and conclusions, the Board approves the request by Gerald
+Catmady for a zone change from EF-80 to VLDR-2.5, and for placement of a dwelling in the 100-
+year floodplain of South Yamhill River on Tax Lot 5635-300, subject to the following conditions:
+
+       1.     The structures shall comply with the standards listed in Section 901 .07(B) and (C) of °
+              the Yamhill County Zoning Ordinance.
+
+       2.     The applicant shall provide certification by a registered professional engineer or
+               architect that Condition number 1 is satisfied, based on their review of the structural
+               design, specifications and plans prior to construction.
+
+       3,     Removal of existing woody vegetation shall be minimal.
+
+       4,     The lowest floor level must be at minimum one (1) foot above the base flood
+              elevation. (A flood elevation certificate shail be submitted to certify the elevation of
+              the structure.)
+
+       5.      The applicant shall obtain proper building permits from Yamhill County.
+
+       6.     The applicant shall obtain proper permits from Oregon Department of Transportation
+              for access to West Valley Hwy (Hwy 18 - Business Loop).
+
+                                                                                   Exhibit “A” - Page 9
+                                                                                         Ordinance 665
+                                                                        aux OB ace 263
+     7.    The applicant shall obtain proper permits from Oregon Division of State Lands for
+           easement or license, lease, or registration for the use of State designated wetland area.
+
+F:\ADMIN\PINKSTNLU\Z-2-98F.WPD
+
+                                                                                 Exhibit “A” - Page 10
+                                                                                        Ordinance 665
+                           FO R
+                             “B”  OR  DI NA NC E No. 665
+          EXHIBIT
+                                            T FROM
+              ZONING MAP AMENDMEN
+                                             RM ZONE
+                FE-80, EXCLUSIVE FA
+                                  TO
+               .5 ,  VE RY  LO  W    DE NS ITY RESIDENTIAL
+       VL DR-2
+
+                                                            ORDINANCE 665
+                                                             EXHIBIT “B”
+                                                  TA
+|           =      ne                        9   08:30:24
+“ADGN\DO CK ET S\ Z2 98EXHB.DGN Jan. 07, 199
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.5% of
+the word sequence, and on 61.3% of the figures. Dictionary-recognizable words: 94.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

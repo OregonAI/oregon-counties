@@ -1,0 +1,345 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord885-pdf
+title: 'ORD885-PDF'
+doc_type: ordinance
+citation: 'ORD885-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17309/ORD885-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: b4247c593eaabca7b158cda243067d4b8eaaee8dd4f0e078c3d9888a148d9548
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.884; dictionary ratio 0.948. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.780
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD885-PDF (ORD885-PDF)
+
+## At a glance
+
+OCR-derived text of ORD885-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                                  FOR THE COUNTY OF YAMHILL
+
+                                    SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+    In the Matter of Approval of a Zone Change from EF-20
+    Exclusive Farm Use, to AF-20 Agriculture/Forestry,                                          Ordinance 885
+
+                                                                                         eeee
+    Applicant Bryce Roberts, Tax Lot 5420-300, Planning
+    Docket Z-01-13, and Declaring an Emergency
+
+                     THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+    sat for the transaction of county business on October 24, 2013, Commissioners Kathy George and
+    Mary P. Stern being present, Commissioner Allen Springer excused.
+
+                     IT APPEARING TO THE BOARD that Bryce Roberts applied for a Zone Change from
+    EF-20, Exclusive Farm Use to AF-20, Agriculture/Forestry; and
+
+              IT APPEARING TO THE BOARD that the Planning Commission heard this matter at a
+    duly noticed public hearing on October 3, 2013, and voted unanimously to approve the application,
+    NOW, THEREFORE,
+
+              THE BOARD ORDAINS AS FOLLOWS: that the application is approved for the reasons
+    stated in the findings attached as Exhibit "A"and incorporated into this Ordinance by this reference.
+    The Yamhill County Zoning Map is amended as shown in Exhibit "B," also incorporated into this
+    ordinance by reference.               This ordinance, being necessary for the health, safety, and welfare of the
+    citizens of Yamhill                 County,   and an emergency having been declared to exist, is effective
+    immediately.
+
+                     DONE this 24th day of October, 2013, at McMinnville, Oregon.
+
+    ATTEST:                                         aa.) SMHILL COUNTY BOARD OF COMMISSIONERS
+                                                         a
+
+    BRIAN VAN BERGEN 3
+
+                                                                               Q
+                                                                                   ww)
+                                                                                            MARY P. STERN
+                                                        SS
+    APPROVED AS TO,FORM:                                           Unavailable for signature
+a         Vy
+           > ; is)                                     Commissioner                         ALLEN SPRINGER
+
+               Sadlo, Assistant County Counsel
+
+                                                                                                           B.0.13-b tt
+    F.AUsers\whitec\ORDS\Ord 885, wpd                                                                           Ordinance 885
+                              EXHIBIT A —- ORDINANCE 885
+                               FINDINGS FOR APPROVAL
+
+DOCKET NO.:                  Z-01-13
+
+REQUEST:                     Zone change from          EF-20,   Exclusive    Farm      use      to     AF-20,
+                             Agriculture/Forestry
+
+APPLICANT:                   Bryce Roberts
+
+TAX LOT:                     5420-300, Lot 22 of Amity Heights Subdivision
+
+LOCATION:                    North of property addressed 4047 SE Rice Lane, Amity
+
+CRITERIA:                    Sections 402, 403 and 1208.03 of the Yamhill County Zoning
+                             Ordinance; the Yamhill County Comprehensive Plan Goals and
+                             Policies.
+
+COMMENTS:                    Public Works - No response.
+                             SWCD - No response.
+                             Amity Rural Fire Department           - No conflicts.
+                             DLCD - No response.
+                             City of Amity- No conflicts.
+                             Water Master - No response.
+
+FINDINGS:
+
+     Background Facts:
+
+     Property size: Approximately 6.7 acres. The applicant also owns Lot 26 of Tax Lot
+     5420-300 just to the south of the subject lot.
+
+     Access: Amity Vineyards Road.
+
+     On-site Land Use: The subject parcel is vacant with no structures present.         The majority of
+     the property appears to have trees on it.
+
+     Surrounding   Land    Use:    The   area    contains   a mixture   of farm,     forestry        and   rural
+     residential uses on parcels of approximately 2 to 20 acres. To the northeast is a vineyard.
+     Approximately one quarter mile to the southwest is the city limits of Amity.
+
+     Surrounding Zoning:      Land to the east, northeast and south are zoned EF-20 and EF-80,
+     Exclusive    Farm    use.  Land to the west and northwest          is zoned   AF-20,
+     Agriculture/Forestry. To the west, across Amity Vineyards Road, is zoned PWS, Public
+     Works/Safety, and is owned by the city of Amity.
+
+     Water: The applicant is proposing to serve the property by city water.
+
+     Sewage Disposal: To be provided by an on-site septic system.
+                                                                               Exhibit   “A” - Page
+                                                                                     Ordinance 885
+                                                                                       Bo. (Boe
+Staff Report
+Docket Z-01-13 (Bryce Roberts)
+Page 2
+
+8.      Fire Protection: Amity Rural Fire District.
+
+9.      Soils: The Yamhill County Soil Survey Maps show the majority of the parcel is Yamhill
+        (YaC and YaF), high-value and non-high value farmland, respectively. The remainder of
+       the property is Steiwer (StF), non-high value farmland.
+
+10.     Taxes: The parcel is receiving farm deferral (includes Lot 26, which is in the same
+        ownership to the south).
+
+11.     Previous zoning: From. 1976 to 1993 the subject property was zoned AF-20.                           In response
+        to House Bill 3661 (1993), the property was rezoned to EF-20 Exclusive. Farm at the
+        direction of the staff of the Department of Land Conservation and Development. The
+        EF-20 zoning became effective on December 29, 1993.
+
+12,     Overlay Zones: None.
+
+B.      Zone Change and Plan Amendment Provisions and Analysis
+
+1.      The decision on the requested zone change is based on a determination that the request
+        complies with the review criteria found in Section 1208.03 of the Yamhill County Zoning
+        Ordinance, as follows:
+
+       Review Criteria for Amendments                 to      or     within   Exclusive        Farm          Use    and
+       Agricultural/Forestry Zones
+
+       A quasi-judicial zone change to (1) amend the designation of land from Exclusive Farm
+        Use, Agriculture/Forestry, or Forest to another of these zones, or (2) change the minimum
+       lot size of land designated Exclusive Farm Use or Agriculture/Forestry, may be
+       authorized,   pursuant    to   Subsection   1208.01,        provided   that   the    request     satisfies    all
+       applicable requirements of this ordinance, and also                    provided       that     the     applicant
+       demonstrates compliance with the following criteria:
+
+       A,      The proposed amendment shall comply with the                      goals,     policies,        and   other
+               applicable provisions of the comprehensive plan.
+
+       B.      The proposed designation shall be appropriate for the existing or intended use of
+               the property.
+
+        Cc     The proposed amendment shall result in an area of at least                   160 contiguous acres
+               with the requested designation, including adjacent land.
+
+       D.      For proposed changes within or to an Exclusive Farm                   Use designation, the new
+               minimum lot size shall be appropriate to maintain                     the existing commercial
+               agricultural enterprise in the area.
+                                                                                           Exhibit “A” - Page
+                                                                                                 Ordinance 8&5
+Staff Report
+Docket Z-01-13 (Bryce Roberts)
+Page 3
+
+      E.      For proposed changes within or to an Agriculture/Forestry designation, the new
+              minimum lot size shall be shown to assure:
+
+              1.     The opportunity for economically efficient forest and agriculture practices
+                     typically occurring in the area; and
+
+              2.     The opportunity for the continuous growing and harvesting of forest tree
+                     species; and
+
+              3.     The conservation of other forest values found on forest lands.
+
+      EF.    Any   amendment      that would   change   the zone    map     designation    to reduce         the
+              minimum    lot     size   on   property   within     an     Exclusive     Farm         Use      or
+             Agriculture/Forestry district shall not be granted final approval by Yamhill County
+              until the amendment has been considered and approved by the Land Conservation
+              and Development Commission pursuant to ORS 215.780(2).                  The following rules
+              shall apply:
+
+             L.      Conditional approval.   Following receipt of an application for a zone
+                     change as otherwise provided by this ordinance, the county shall determine
+                     whether to grant or deny the application in accordance with criteria
+                     established in this section 1208.03. If the application is granted, the
+                     county shall enter an order of conditional approval, subject to final
+                     approval by the Land Conservation and Development Commission.
+
+             2.      Referral of Order of Conditional Approval.           After conditional approval by
+                     Yamhill County, the application, county findings, order of conditional
+                     approval and a request for Commission action shall be referred to the
+                     Department of Land Conservation and Development.
+
+              3.     Final Approval.     An amendment conditionally approved by Yamhill
+                     County shall not take effect until the county adopts an order or ordinance
+                     authorizing final approval after receipt of written confirmation of the
+                     county's conditional approval by the Land Conservation and Development
+                     Commission.
+
+      The above criteria are addressed in Findings B.2 through B.5 below.
+
+2.    Regarding criterion (A), applicable goals from the Yamhill County Comprehensive Land
+      Use Plan, Section ILA.1, Goal reads:
+
+              To conserve Yamhill County's farm lands for the production of crops and livestock
+             and to ensure that the conversion of farm land to urban use where necessary and
+             appropriate occurs in an orderly and economical manner.
+
+                                                                                 Exhibit       “a”    -    Page
+                                                                                          Ordinance         885
+Staff Report
+Docket Z-01-13 (Bryce Roberts)
+Page 4
+
+        Section [1.A.2, Goal reads:
+
+                 To conserve Yamhill County’s soil resources in a manner reflecting their suitability
+                Jor forestry, agriculture and urban development and their sustained use for the
+                purposes designated on the county plan map.
+
+        Section .B.1, Goal reads:
+
+                To conserve and to manage efficiently the county's forest and range resources,
+                thereby ensuring a sustained yield of forest products, adequate grazing areas for
+                domestic livestock, habitat for fish and wildlife, protection of forest soils and
+                watershed, and preservation of recreational opportunities.
+
+        As shown by the 2011 aerial photo, the majority of the property is forested and the
+        applicant has stated the property is primarily made up of steep slopes and better suited for
+        forest uses. The proposed zone, AF-20, recognizes and allows both farming and forestry
+        uses.   This mixed use zoning would more accurately reflect the existing uses on the
+        subject property. The applicant is not proposing an urban use; the minimum lot size is to
+        remain 20 acres.
+
+        According to the Yamhill County Soil Survey, all of the property is capable of producing
+        timber. The timber yields of the soils vary from 70 to 125 cubic feet per acre per year. In
+        addition, approximately one third of the property is composed of high-value farmland. The
+        requested zone change will recognize the potential for farm and forestry uses on the land
+        and preserve the County’s soil resources for their suitability for farm and forest use.
+
+3,      Regarding criterion (B), as mentioned above, the subject parcel is a mixture of farm and
+        forest use; the zone change from an exclusive farm zone to an agriculture and forestry zone
+        would more accurately reflect the potential use of the property.
+
+4.      Regarding criterion (C), the subject area proposed for rezoning is approximately 6.7 acres.
+        The total contiguous area after the rezoning would be approximately 784 acres.                   This is
+        well over the 160-acres required; therefore, the request is consistent with criterion (C).
+
+5.      Regarding criteria (D), (E) and (F), the applicant wishes to keep the minimum lot size at 20
+        acres. The 20-acre minimum in the farm and forestry zone was approved by the Land
+        Conservation and Development Commission through the process passed by the Oregon
+        State Legislature (see HB 3661 passed in 1993).            Since the minimum       lot size is not
+        changing, the request satisfies criteria (D), (E) and (F).
+
+CONCLUSIONS FOR APPROVAL:
+
+lL.     The request is for      a     zone   change   from   Exclusive   Farm   use   EF-20     to       AF-20
+        Agriculture/Forestry.
+
+                                                                                 Exhibit      “A”    -     Page
+                                                                                        Ordinance           885
+Staff Report
+Docket Z-01-13 (Bryce Roberts)
+Page 5
+
+2.       The proposed zone change is consistent with Comprehensive Plan goals and policies.
+
+3.       The zone change is appropriate in that the parcel is a mixture of farm and forestry uses.
+         Neither the farm zone, nor the forestry zone alone would be appropriate for this area.
+
+4.       The proposed change is consistent with the zone change criteria of Section 1208.03.
+
+Based on the above findings and conclusions, the request by Bryce Roberts, for a zone change
+from EF-20, Exclusive Farm Use to AF-20, Agriculture/Forestry Use on Tax Lot 5420-300, Lot 22
+of Amity Heights Subdivision, is approved.
+
+                                                                              Exhibit    “A”   ~   Page
+                                                                                     Ordinance      aes
+                EXHIBIT MAP FOR ORDINANCE NO. #97
+                             ZONE CHANGE
+      ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                            OCTOBER 24, 2013
+                      FOR A ZONE CHANGE FROM
+                      EF-20, EXCLUSIVE FARM USE
+                                   TO
+                    AF-20, AGRICULTURE/FORESTRY
+
+                                                                    Bo. (B-oF4
+CHANGE APPLIES TO A 6.5 ACRE PORTION OF TAX LOT 5420-300 (Lot 22 of Amity Heights
+Subdivision) HIGHLIGHTED ABOVE.                    .             Bj hibed 3"
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 88.4% of the figures. Dictionary-recognizable words: 94.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

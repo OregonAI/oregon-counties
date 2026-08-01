@@ -34,25 +34,18 @@ PROFILE = {
     },
     "upstream_signal": "No feed; re-hash each PDF. New documents appear in the index.",
     "families": {
-        # MEASURED AND SKIPPED, on the same rule as Yamhill's ordinances. Curry's county
-        # code is a WELL-DEFINED SET of 65 documents, of which 5 extract (8%) — the rest are
-        # scanned images with no text layer. Ingesting the 8% would show an arbitrary slice
-        # of a countable whole under a healthy-looking document count, shaped by which
-        # chapters happened to be typed rather than photographed.
+        # RE-ENABLED 2026-08-01, for the same reason as Yamhill's orders.
         #
-        # Compare Wasco, which IS kept at 23%: that index is a mixed decades-deep archive
-        # with no defined denominator, so what extracts is useful rather than a misleading
-        # sample. The distinction is whether the corpus can be read as claiming coverage of
-        # a set it only partly holds.
+        # Curry's county code is a well-defined set of 65 documents of which only 5 extract
+        # (8%); the rest are scanned images. Publishing the 8% would have shown an arbitrary
+        # slice of a countable whole. With `ocr_recover.py` in place that trade-off is gone —
+        # the scans get a real attempt, and the two-engine gates decide per document.
         #
-        # NOT an absence at Curry County, which plainly publishes a full code. This is OCR.
-        "code": {
-            "skip": (
-                "92% of Curry's 65 county code documents are scanned images with no text "
-                "layer (only 5 extract). Ingesting the remainder would present an arbitrary "
-                "slice of a well-defined set under a healthy count. Needs OCR — a "
-                "corpus-wide capability decision — and is NOT an absence at Curry County."),
-        },
+        # Curry is the county whose malformed hrefs (`href= "..."` with a space, plus a root
+        # <base> tag) would silently drop every document under a strict regex, so the loose
+        # pattern below is load-bearing rather than defensive.
+        "code": {"listing_url": "https://www.currycountyor.gov/government/county_code.php",
+                 "link_re": _PDF, "format": "pdf"},
         "land-use": {"listing_url":
                      "https://www.currycountyor.gov/departments/community_development_department/index.php",
                      "link_re": _PDF, "format": "pdf"},

@@ -1,0 +1,7015 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord614-pdf
+title: 'ORD614-PDF'
+doc_type: ordinance
+citation: 'ORD614-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17583/ORD614-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 4706aba2172d8f19fd669398c272f0513240d5176f42848232ff181115440261
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.976; figure agreement 0.808; dictionary ratio 0.971. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.175
+    - ORS 197.610
+    - ORS 197.732
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.243
+    - ORS 215.253
+    - ORS 215.283
+    - ORS 215.296
+    - ORS 215.298
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD614-PDF (ORD614-PDF)
+
+## At a glance
+
+OCR-derived text of ORD614-PDF. Not human-verified.
+
+## Full text
+
+rt 60 1009577
+
+               SITTING FOR THE TRANSACTION OF COUNTY BUSINESS!
+                                                                                           eae    teen          IE    PELPY
+Tn the Matter of an Ordinance Amending                                                                  EBL
+the Yamhill County Comprehensive Plan
+(1974) to Change the Designation from
+
+                                                eee
+"Agriculture/Forestry Large Holding" to
+
+                                                     ee
+"Quarry", to Amend the Official Zoning
+Map from "AF-20 Agriculture/Forestry"                                   ORDINANCE 614
+
+                                                  Oe
+to "MR-2 Mineral Resource" on
+Approximately 80 Acres, Tax Lot
+5423-1202; Applicant C.C. Meisel Co.
+Inc.; Planning Docket PAZ-5-93;
+and Declaring an Emergency.
+
+         THE BOARD         OF COMMISSIONERS OF YAMHILL COUNTY, OREGON                                  (the Board)
+sat for the transaction of county business in special session on August 28, 1996,                 Commissioners
+Robert Johnstone, Thomas E. E. Bunn, and Dennis L. Goecks being present.
+
+       WHEREAS, on an application was made by C.C. Meisel Co. Inc. ("Applicant") to the
+Department of Planning and Development (Planning Docket PAZ-5-93) for a Comprehensive Plan
+Map amendment from "Agriculture/Forestry Large Holding" to "Quarry", and a zone change
+from "AF-20 Agriculture/Forestry" to "MR-2 Mineral Resource"on approximately 80 acres, tax
+lot 5423-1202 approximately three miles east of the city of Amity on the north side of Amity Road
+(State   Highway   153),    and more   particularly       described     on Exhibit   "B"    attached   hereto   and
+incorporated herein by this reference; and
+
+         WHEREAS,      on April 6, 1995 the Yamhill County Planning Commission held a public
+hearing to consider the application and continued the matter to May 4, 1995, at which time the
+Planning Commission voted unanimously to recommend denial of the application, and referred
+the matter to the Board of Commissioners;        and
+
+         WHEREAS,      on October 18, 1995, the Board held a public hearing on the application at
+which testimony and evidence was received and remanded the application back to the Planning
+Commission to consider additional information submitted by the applicant regarding the water
+issue; and
+
+       WHEREAS, on January 4, 1996, the Yamhill County Planning Commission held a public
+hearing on reconsideration and voted 4-3 in favor of recommending approval of the application
+and referred the matter to the Board of Commissioners;                and
+
+                                                                                                  W- 523
+                                                                                                 ORDINANCE 614
+                                                                                                         Page 1
+                                                   PAL   60   ced   577
+
+             IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+                              FOR THE COUNTY             OF YAMHILL
+                                                                             96 AUS 30 AN Hs a
+                                                                                    Ci AtH
+
+In the Matter of an Ordinance Amending
+the Yamhill County Comprehensive Plan
+(1974) to Change the Designation from
+"Agriculture/Forestry Large Holding" to
+"Quarry", to Amend the Official Zoning
+Map from "AF-20 Agriculture/Forestry"                         ORDINANCE 614
+to "MR-2 Mineral Resource" on
+Approximately 80 Acres, Tax Lot
+5423-1202; Applicant C.C. Meisel Co.
+Inc.; Planning Docket PAZ-5-93;
+and Declaring an Emergency.
+
+        THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business in special session on August 28, 1996,      Commissioners
+Robert Johnstone, Thomas E. E. Bunn, and Dennis L. Goecks being present.
+
+        WHEREAS, on an application was made by C.C. Meisel Co. Inc. ("Applicant") to the
+Department of Planning and Development (Planning Docket PAZ-5-93) for a Comprehensive Plan
+Map amendment from "Agriculture/Forestry Large Holding" to "Quarry", and a zone change
+from "AF-20 Agriculture/Forestry" to "MR-2 Mineral Resource"on approximately 80 acres, tax
+lot 5423-1202 approximately three miles east of the city of Amity on the north side of Amity Road
+(State Highway 153), and more particularly described on Exhibit "B" attached hereto and
+incorporated. herein by this reference; and
+
+       WHEREAS, on April 6, 1995 the Yamhill County Planning Commission held a public
+hearing to consider the application and continued the matter to May 4, 1995, at which time the
+Planning Commission voted unanimously to recommend denial of the application, and referred
+the matter to the Board of Commissioners;    and
+
+       WHEREAS, on October 18, 1995, the Board held a public hearing on the application at
+which testimony and evidence was received and remanded the application back to the Planning
+Commission to consider additional information submitted by the applicant regarding the water
+issue; and
+
+        WHEREAS,     on January 4, 1996, the Yamhill County Planning Commission held a public
+hearing on reconsideration and voted 4-3 in favor of recommending approval of the application
+and referred the matter to the Board of Commissioners; and
+
+                                                                                      W-583             Cy.
+                                                                                     ORDINANCE 614
+                                                                                               Page 1
+                                                                rx 60 4578
+         WHEREAS, on January 31, February 7, February 21, and April 3, 1996, the Board held
+public hearings on the application at which testimony and evidence was received and following
+the close of the hearing and the record, the Board deliberated and a voted unanimously to
+tentatively approve the application for the comprehensive plan amendment and zone change , and
+directed staff to prepare an ordinance and findings in support of approval; and
+
+        WHEREAS, the findings and conclusions attached hereto as Exhibit "A and incorporated
+herein by this reference provide a justification for approval of the application; and
+
+       WHEREAS, the attached Exhibit "A" demonstrates that the proposed amendment to the
+Yamhill County Comprehensive Plan, Plan Map, and Official Zoning Map of Yamhill County are
+in the best interests of the citizens of Yamhill county;   Now Therefore,
+
+         THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS AS FOLLOWS:
+
+         Section 1.        The Yamhill County Comprehensive Plan and Plan Map (1974) are hereby
+amended      as specified in the attached Exhibit "B", made part of this ordinance by reference, to
+reflect a plan designation of "Quarry" on the 80 acres known as tax lot 5423-1202 as more
+particularly described and shown in Exhibit "B”.
+
+        Section 2. The Official Zoning Map of Yamhill County is hereby amended as specified
+in the attached Exhibit "B" to reflect a zoning designation of " MR-2 Mineral Resource".
+
+          Section 3. The findings attached as Exhibit "A" and incorporated herein by reference are
+hereby adopted in support of this ordinance.
+
+        Section 4. This ordinance being necessary for the health, safety, and welfare of the citizens
+of Yamhill County, and an emergency having been declared to exist, is effective upon passage.
+
+         DONE at McMinnville, Oregon this 28th day of August, 1996.
+
+                                          YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                                Au
+                                                Lb t CO ina
+                                                   ak
+                                          Chain     J    ROBERT JOHNSTONE
+
+                                          Commissioner        DENNIS L. GOECKS
+
+  ae
+FORM APPROMED                    BY:
+                                          a                                  Ahir
+GE             5                   VA         | homir-        @.€.
+FON C. PINKSTALY                          Commissioner        THOMAS E. E. BUNN
+Assistant County Counsel
+: \ADMIN\ PINKSTI\LU\ 96 . 241
+
+                                                                                    ORDINANCE 614
+                                                                                               Page 2
+                                                        EXHIBIT            "A"                        FIL        60       aed        579
+
+                               YAMHILL            COUNTY            BOARD        OF    COMMISSIONERS
+
+                              FINDINGS            OF    FACT         AND       CONCLUSIONS              OF       LAW
+
+                                                                   PAZ-5-93_
+
+APPLICANT:                      €.     C.     Meisel           Co.,        Inc.
+
+REQUEST:                        A    Comprehensive                    Plan        map       amendment             from
+                                    "Agriculture/Forestry
+                                                      Large                                       Holding"                to    “Quarry”
+                                and         zone       change         from        “AF-20          Agriculture/Forestry”
+                                to     “MR-2           Mineral            Resource.”
+
+LOCATION:                       Tax         Lot    5423-1202.                    Approximately                   three          miles          east
+                                of     the        city        of     Amity        on     the      north          side          of    Amity
+                                Road         (State           Highway            153).                      '             .
+
+SUMMARY
+   OF DECISION:                                   The    decision                allows         one     use,          rock
+extraction               and    crushing,               consistent                with       the       requirements                      of
+agricultural                  and    forestry            uses.
+
+PROCEDURAL              HISTORY:              This       request               was     first       made          in       an
+application               submitted               by    C.     C.     Meiselin               1993       and       activated                   in
+the     Spring           of    1995.          At       that        time,         the     request            was       for       a
+comprehensive                  plan         amendment               and    a     zone       change          to    MR-1,             to    add       an
+additional               80    acres         to    an    adjacent                existing           40-acre               quarry.              The
+request           was     later        modified               to     change           the      zone     to       MR-2,          instead             of
+MR-1.         The        Yamhill          “County        Planning                Commission             held          a       hearing          on
+the     request           on    April         6,       1995.          A    seven-day              continuance                   was
+granted           in     order       to      address           questions               raised          about          water
+resources               impact       on      the       area.          David           Newton        and         Associates                was
+asked        by    the        applicant            to        study        these        questions.                 At          the     end      of
+the     seven-day              continuance,                   David        Newton           and    Associates                   indicated
+that     they          would        require            more         than       seven        days       to       properly             answer
+the     questions,              and         recommended               a    water         study         of       the       area.           on
+May     4,    1995,           the    Planning            Commission                   unanimously                voted          to
+recommend              denial        to      the       Board         of    Commissioners                    citing             the       lack       of
+
+                                                                                                            Exhibit             "A"       - Page         1
+                                                                                                            Ordinance
+                                                                                                                    614
+                                                                                                               auv 60 1580
+information                  on    the       water            issue,           but        indicated                 that        the          Commission
+would         entertain                another            review           of       the        application                     should
+additional               information                  on       the       water            issue           be    submitted.                        On
+May     12,        1995,          the       Yamhill            County           Planning                  Department                    granted
+applicant's                  request          for         a    120-day              delay         in       scheduling                    a    public
+hearing            before          the       Board            of    Commissioners                         in    order           to       conduct               a
+comprehensive                     hydrogeologic                     study.                On    October                 18,     1995,             the
+Board         of    Commissioners                     remanded                 the        application                    to     the          Planning
+Commission               to       consider            additional                     information                    submitted                 by        the
+applicant               regarding             the         water           issue           only.           ‘At       a    January              4,        1996
+hearing            on    reconsideration,                           the        Planning               Commission                    voted           4-3        in
+favor         of    recommending                     approval              of       the        application                     to       the       Board            of
+Commissioners,                     but       because               the     Commission                     procedurally                       needed            a
+vote     of        five       to       recommend               either           approval                  or    denial              of       an
+
+application,                  the       Planning               Commission                  sent           the       application                     back           to
+the     Board           of    Commissioners                        without            a    recommendation.                               Following
+hearings            on       January          31,         1996,          February               7,        1996          and     February                 21,
+1996,         the       Board          of    Commissioners                      closed            the          record           and          voted           3-0
+to    tentatively                  approve            a       comprehensive                     plan           amendment                 and         zone
+change         to       MR-2.           The      record             was        reopened               for        approximately                          one
+week     for        additional                written               testimony                  and        a final              decision                 was
+made     on        April          3,     1996        upon          another            3-0       vote           by       the     Board              of
+Commissioners                     to    approve               the    compreherisive                        plan          amendment                  and
+zone     change              to    MR-2.
+
+BACKGROUND:                   This          application                   is    a    proposal                  to       change           the
+comprehensive                     plan       and      zoning             designations                      to       allow           a    single              use,
+the     extraction                 and       crushing               ef     rock,           on        an    80-acre              parcel
+adjacent            to       an    existing               40-acre              quarry.                The        requested                   use        is
+consistent               with          the    existing               zoning                (AF~20)             and        is    further
+consistent               with          the      farm          and    forestry                  goals.               The        county's
+approval            does          not       permit            batching.                   Batching               of      the        rock          will         be
+done     on        the       adjoining               parcel          which            is       already              zoned           for       such           use.
+When     the        extraction                  is    complete,                 the        site           will          be     reclaimed                   for
+
+                                                                                                                         Exhibit               "A"       - Page         2
+                                                                                                                          Ordinance                  614
+                                                                                                       vax 80 1581
+tree     production                and          harvest,             including                  Christmas                 trees.                 We     find
+that     the     relevant                  physical                characteristics                        of        the        site         are       as
+follows:
+         1.      Lot        Size:               The       entire          parcel            is       80       acres.
+         2.      Access:                   Lafayette-Hopwell                        Highway                    (a    state             highway),
+Walnut        Hill        Road         (a       county             road),        and        a    private,                 paved             access
+road.
+
+         3.      On-Site               Land          Use:           The     subject              property                  is        in     the       Amity
+Hills.          The       property                is      on       south-facing                   and         easterly-facing
+slopes        with        an      elevation                   of    about        400        feet          above            sea         level          at
+Lafayette-Hopwell                          Highway.                 The     property                 slopes              up      to       over
+600     feet     ‘at      the      northwest                   corner        of     the          property.                       The        northern
+portion         of     the        land          is       in    a    fairly        narrow               valley              that           slopes            to
+the     east.          The        area          proposed             for     the        zone           change              is        pasture            land,
+scrub     brush           with         a     small            growth        of    managed                 trees            in        the
+midsection.                 There            is      an       untended           and        overgrown                    grape            patch         on
+the     southern            end        of       the       property.
+         4.      Land          Use         In     The         General        Area:               The          area         is        in    mixed            farm
+and     forest         use      with            several             existing            quarries                    in     the         area.            Tax
+Lot     5423-1300,                immediately                      adjacent         and          to       the        east            of     the
+northern         portion               of       the       subject           parcel,              contains                  a     quarry
+identified             in      the         county             inventory            as       the        Stephens                  Quarry,              Site
+No.     64.      This          quarry             is      operated           by     the          applicant                      (Cc.      C.     Meisel
+Co.,     Inc.).             Tax        Lot        5423-1402,                1500        and          5424-1001                   are           located
+
+approximately                  1,200            feet          to    the     east        of       the          subject                parcel           and
+are     identified                in       the       county          inventory                  as     the          Anderson                   "A"
+Quarry,         Site        No.        65.           A    Plan       Amendment                  and       a     zone           Change            was
+granted         for       expansion                  of       the    Anderson               "A"        quarry              in        1993
+(Docket:         PAZ-01-93).                         Tax       Lot     5423-2200                  is      located                across              Burch
+Hill     Road        to     south           of       the       subject           parcel              and        is        identified                   in    the
+county        inventory                as       the       Anderson           "B"        Quarry,                 Site           No.        66.         Farm
+uses     are     predominately                           livestock           in     the           immediate                    vicinity,                but
+orchards         and        field            crops            are    raised            in       the       general                area.               There
+
+                                                                                                                     Exhibit   "A" -                        Page   3
+                                                                                                                     Ordinance    614
+                                                                                                         wun 80 nc 4582
+are    several             dwellings             within              one-quarter                      mile         and     three           within
+approximately                   500       feet        of       the    proposed                   zone        change            area.
+          5.        Surrounding                 Zoning:               At         the        time        of     the        application,                   the
+zoning         was        as    follows:                  Most       adjacent                land        to        the     west,            southwest
+and    east         is      zoned         AF-20           Agriculture/Forestry.                                     Land        situated                to
+the    southeast,                across           Lafayette-Hopwell                                Highway,               is    zoned            EF-40,
+Exclusive             Farm       Use.           The        area       bordering                    the       north         is        zoned         AF-10,
+Agriculture/Forestry                            Small           Holding.                    The       quarry         site        to         the        east
+of    the      northern              portion              of    the       site          (the          Stephens             Quarry)               is
+zoned         MR-1,        Mineral             Resource.                  The         quarry            site        to     the        east
+ (Anderson            "A"       Quarry)              is    zoned          MR-2.              The        quarry            site        to     the
+southwest                 (Anderson            "B"        Quarry)           is         zoned          AF-20         and        carries             a    plan
+designation                 "Quarry."
+          6.        Soils:            Sheet           51       of    the         Yamhill              County         Soil        Survey
+indicates             that       the       soils           on       the     subject                property               are‘comprised                      of
+a mixture             of       soils,          the        most       predominate                       (75%)        being        Nekia
+ (Class        IV).            Other       soils           are       Shale            Rock,           Jory         and     Yamhill
+ (Class        VI     and       IV    due       to        slopes          of      over           20    percent).
+         7.         Site        History:                  The       existing                quarry           immediately                    to     the
+east      is    identified                 on     the          acknowledged                      county            inventory                of
+aggregate             sites          as    the        Stephens              site            (No.        64).         The        analysis                of
+the    site         during           the       inventory              process                during            the        early        1980s
+concluded             that       this          quarry           site        has         a    20-year               history            of
+-extraction               of    an    extremely                 high        quality                aggregate.                   In     1982,
+Yamhill         County's              original                 Task       Force             on     Goal        5    recommended                    that       a
+161l-acre           site        (inclusing                 the       existing                Stephens               Quarry            No.        64     and
+the     80     acres           presently              under          consideration),                           be        included            in        the
+Goal      5    inventory              and       the        Comprehensive                         Plan        Designation                    be
+amended         to        Quarry.              The        recommendation                         was      to       designate                the
+easterly            80     acres          of    the        161       acres             (the        proposed               80    acres            we
+consider             in    this       application)                    to         MR     zoning           designation.                        The
+Planning            Commission                 altered              the     Task            Force's            recommendation                          and
+changed         the        plan       designation                    and         the        zone        for        only        the     Stephens
+Quarry         (40        acres).
+
+                                                                           -4-                                      Exhibit            "A"         - Page         4
+                                                                                                                    Ordinance                614
+                                                                                                                 FX BO 44583
+APPROVAL         CRITERIA:                   The        Board           of     Commissioners!                     decision            to
+approve         the        current            request              is    based            upon     the       Board's            conclusion
+that    the      application                     and     information                      before        the       Board         demonstrate
+that    the      request               satisfies              all        of         the    approval              criteria         that
+apply     to     the        application,                     as     described                  more     specifically                  below.
+
+        A.       YAMHILL               COUNTY           ZONING           ORDINANCE               APPROVAL             CRITERIA
+
+        1.       Section               404--MINERAL                     RESOURCE               DISTRICT
+
+         (a)     Criterion:                      Section            404.03:               Permitted              Uses--MR-2 «
+
+                     In         the    MR-2       District,                   the        following           uses       shall         be
+
+                     permitted:
+
+                     A.          Quarry          or     mining           operations                for        the     extraction                   of
+
+                     rock,            clay,        soil,           sand            and    gravel;
+
+                     C.          Rock       crushing,               washing               or     screening;
+
+                     D.          Stockpiling                 of     rock            or    earth        products            in
+
+                     conjunction                    with          the    operation                of     the      mineral         resource
+
+                     business               on-site;
+
+                     G.          Storage           of    heavy           equipment                in    conjunction               with             the
+
+                     mineral            resource              business                   on-site
+
+        Finding:                  We    find          that         this            application              is    for      a    new
+Comprehensive                    Plan       designation                      (Quarry)           and     Zoning          District
+designation                (MR-2)           to     allow           use        of     the       subject           property         as       a
+quarry         for        the     extraction                 of     rock.                The     applicant            is       proposing                to
+extract         the        rock        on     the       subject              property.                 In    conjunction                with
+the    proposed             operation,                  we    find            that        the     applicant             may      have          a
+crusher,         heavy            equipment              and        several               employees              on   the       site.              We
+find    that         these            activities              presently                   occur        on    the      adjacent
+Stephens         Quarry               site,        but       may        move         to    the     proposed             site      in       the
+
+                                                                             -5-
+                                                                                                                 Exhibit   "A" pe                  Page.     5
+                                                                                                                 Ordinance    614
+                                                                                                         civ BO acc 1584
+future,            consistent                   with        appropriate                 setbacks.                   We    find          that        the
+screening               and         stockpiling                of     rock        will           also         be    part       of       the
+operation.                    We     find        that         no     batch        plant           will         be    operated                on     the
+site;         batching               will        be     done        on     the        existing                site       which          has        an
+approved            MR-1            designation                that        allows            batch            plants.              We    find           that
+no    caretaker                dwelling,                or     manufacturing                      (e.g.,            tiles,          concrete
+pipe)         will        be        allowed            on     the     site,            and       such         is    prohibited                by        a
+condition               of     approval                and     a     limited            use       overlay.                We       find           that
+all     of      the       proposed               uses         for     the        subject           property               are       explicitly
+permitted               under            Section            404.03.              We     conclude,                  therefore,                that
+this     approval                   criterion               has      been        met.                                                         -
+
+             (b)    Criterion:                        Section         404.06:                Standards                and      Limitations
+
+                        In         the    MR      District,               the     following                   standardsi
+                                                                                                                       and
+
+                        limitations                    shall         apply:
+
+                        A.          The       minimum          parcel            size        for        a     permitted             or
+
+                        conditional                    use        shall      be        five        (5)        acres.
+
+                        B.          The       maximum          building                height            of    any       residential
+
+                        structure                    shall     be        thirty         five           (35)        feet       and       the
+
+                        maximum               height          of     all     other            structures                 shall          be
+
+                        sixty             (60)        feet.
+
+                        Cc.         The       minimum             setbacks             for       all        yards        of    a
+
+                        residential                    dwelling             in        the    MR     District               shall         be
+
+                        thirty                (30)     feet.
+
+         Finding:                    We        find     that         the     size           of    the         subject          parcel              is
+80     acres,           which            is      greater            than     the        minimum               five~acre              parcel              size
+for     the        MR        District.                 We     further            find         from          the      application                   and
+
+                                                                            6-                                       Exhibit   "A" -                     Page   6
+                                                                                                                     Ordinance    614
+                                                                                                    cin 60 1585
+      accompanying           documents               that         there           are    no    residential                    or    other
+on,
+
+      structures        proposed               on    the       site         and       that,        therefore,                 none        of    the
+
+      other    standards           of     this           section            apply.            We     further             find       that        our
+      conditions        of    approval,                  and      the       limited           use        overlay          we       have
+      applied,      prohibit             caretaker                dwellings,                batch          plants         and
+      manufacturing.               We     find           that        these         are      the      types          of    structures
+      that    would     be    subject               to      the      height           restrictions                  and       setback
+      standards.            Because            these          uses        will        not     be     allowed             on    the        site,
+      we   conclude,         therefore,                  that        this         criterion              is    met.
+
+              (c)      Criterion:                   Section           404.07:               Operating               Standards
+
+                       A.     Operating                  Setbacks.
+
+                                  1.      Extraction                    shall         not     be     conducted                within
+                       twenty-five                   (25)      feet         of     any      zoning            district             boundary;
+
+                       and    shall            not       be    conducted                closer           than       five
+
+                       hundred            (500)          feet        from         any    dwelling              existing             at     the
+
+                       time       of     adoption              of       this       Ordinance.
+
+                                  2.      Processing                  activities               shall           not       be    conducted
+
+                       within           five        hundred               (500)       feet     of        any      LDR,        VLDR,        or
+
+                       AF-10           zoning         district              boundary;               or     within           two     hundred
+
+                       fifty           (250)        feet        of    any         other       zoning           district             boundary.
+
+                       In    no        case     shall          processing                and        other        processing-
+
+                       related           activities                  be     conducted              closer           than        five
+
+                       hundred            (500)          feet        from         any    dwelling              existing
+                                                                                                                      at                   the
+
+                       time       of     adoption              of       this       Ordinance.
+
+              Finding:            We     find        that         the       nearest           houses           to     the      subject
+      property        are    the        houses           of    Mr.        Hodgson           and      Mr.       Sly,       which           are
+      each    approximately               500         feet        from          the     edge        of     the      proposed
+
+                                                                           “7                                    Exhibit   "A" =                Page-7
+                                                                                                                 Ordinance    614
+                                                                                                        run 60 oc1586
+MR~2     zone          and    the        Huff    residence                   near        the      extreme            southern           tip          of
+the     site.           We    further           find        that          the       applicant             has        requested                  an
+MR-2     zoning             designation,               which          will          not         allow     any        batching           or
+manufacturing                 activities               on      the        subject               property.             Based        upon
+these         facts,         we     find       that       with        a      condition             of     approval              requiring
+extraction              activities              to     be      at     least           25        feet     from        the       property
+boundary            (except             adjacent          to     the         existing             quarry,           which         is    also
+zoned         MR)      or    500        feet    from        the       nearest               existing           residence,
+whichever              is    most        restrictive,                 that          the         standards            of    this        section
+can     be      met.         These        requirements                    are       formally             imposed           on    the
+applicant              as    conditions              or     approval                of      this       application               am     part
+of     the      program           to     meet     Goal         5.         We     conclude,               based        upon        such
+conditions,                 that        these     criteria                have        been        met.
+
+             (ad)   Criterion:                 Section           404.07:                 Operating,              Standards
+
+                       B.     Screening.
+
+                       Adequate            screening                with        indigenous               planting              shall
+
+                       be    preserved            or      established                      to    block        the     view        at
+
+                       the    site        from       any       public            road,           residential               zoning
+
+                       district           and     from         any        existing               dwelling            located
+
+                       within           one     thousand             (1,000)             feet      of     the        site       prior
+
+                       to    establishment                  of       the       MR     district.                Existing
+
+                       trees        and       other       natural               vegetation               shall        be
+
+                       preserved
+                               and                   maintained                  at        the    perimeter               of    the
+
+                       site        to    provide          screening.                       This        landscaping,
+
+                       fencing           for    safety           purposes,                  berms,        or        other
+
+                       similar           devices          shall           be     submitted               as     a    site       plan
+
+                       for    Commission               approval.
+
+                                                                       -8-                                    Exhibit           "A"         =    Page     8
+                                                                                                              Ordinance               614
+                                                                                                    run 60 vce1587
+         Pinding:              We    find,           from     an     inspection                of    the        maps,          including
+the     consolidated                USGS       topographic               map,        the       composite              photographs
+of    the     site       and       also       from     our     visit           to    the       site,          that      the
+northern           portion          of    the        subject        property              generally              slopes             gently
+from     the       west       to    the       east,     and        that        the       southern             portion           of       the
+property           slopes          from       north     to     south,           and       further              find     that
+existing           vegetation             provides            screening              in       the    many        areas          of       the
+property..           We       further          find     that        the        applicant             proposes              to       leave
+the     existing          screening              and     establish              berms          and       planted           screen
+buffers        of     fast         growing           indigenous            trees          around          the     edges             of    the
+subject        parcel          in    advance           of     extraction                 to    allow          time      for the
+plantings           to    create           effective           screening.                     The    applicant                 asks        for
+a    condition           of    approval              requiring            it    to       establish              such       screening
+within        the    buffer          area        around        the       perimeter              of       the     site.              We     find
+that     the       subject          property           is     visible           from          public          road      segments,
+including           Three          Trees       Lane,         Lafayette-Hopwell                       highway,              and       Burch
+Hill     Road,       from          three       zoning         districts              other          than        the     adjacent
+MR-1     zone        (AF-20         to    the        east,     west        and       southwest,                 AF-10          to    the
+
+north,        and    EF-40          to     the       southeast)            and       from       several              residences
+that     are       within          1,000        feet     of    the       property.                  We     interpret                this
+section        of    our       code       to     require           the     preservation                   of     existing
+vegetation           or       the    planting            of    new       vegetation                 to    create           a
+vegetative           barrier             between        the        site        and       public          roads,         residential
+zones       and     residences                within         1,000        feet       of       the    site.            We       do    not
+interpret           the       code       to    require         that        the       vegetative                 barrier
+completely           hide          the     site       from     the       view        of       these       other         locations
+or    screen        out       all evidence               of    the       use        of    the       MR    property              for       rock
+extraction.               We       further           find     that        such       a    requirement                 would          be
+unrealistic              and       impractical               given        the       variety          of       topography                 to    be
+expected           for    rock       extraction               sites        and       the       limited           ability             of
+vegetation           to       screen          all     impacts.             Accordingly,                   we     interpret                the
+code     to    require             that       some     vegetative               screening                be     maintained                or
+established              to    provide           a    reasonable               buffer          for       the     use       of       the       MR
+site.         We    further          interpret               the     screening                provision           to       provide
+
+                                                                   -9-                                   Exhibit   'A" -.Page                       9
+                                                                                                         Ordinance    614
+                                                                                                ru BO 1588
+practical            screening,                 but        not     to    require              screening           that        makes               the
+site    "invisible"                   from       long        distance               or      from     topographic                  vantage
+points.             We     find       that       the        applicant's                  proposal          meets            this
+requirement                of    the       code.            In     light          of     the    vegetation                  already
+established,                and       our       interpretation                      that       the       screening
+requirement                is    designated                 to     help        reduce          the       view     of        the     quarry
+activities               themselves                  (as    opposed            to      the     undeveloped                  land),            we
+find    that         the        applicant              need        not       establish              any    additional
+vegetative                screening             at     the        time       of     our       decision.            We        do,
+however,            find        that       additional               vegetation                 must       be     established
+prior        to     the     start          of    extraction                  activities,                 and     therefore                impose
+a    condition             of    approval              as    part         of      the       program        to     meet        Goal            5
+that    requires                the    preservation                     of     existing             vegetation               within               the
+outer        25     feet        of    the       subject            property                 (except       bordering               ‘the
+existing            quarry),           and       also        requires               that       vegetation               be    planted
+prior        to     the     quarry          operating               on       the       site.         We    further            find            that
+given        the     applicant's                 proposal               to     preserve             or    establish                the
+vegetative                screen       around              the     entire           perimeter             of     the        property
+(except.where                   bordering              the        adjacent             existing           quarry),            we        have
+been    able         to     adequately                 consider              the       locational               factors            relating
+to    the         screening,           and       that        no     additional                 site       plan         is    required.
+We    conclude,             based          upon        the        above        findings,              that       this        criterion
+has    been         met     and       that       the        imposition                 of     the     afore-discussed
+condition            of     approval             will        insure            appropriate                compliance.
+
+            (e)     Criterien:                  Section            404.07:               Operating             Standards
+
+                     c.          Environmental                     Standards,
+
+                     1.          All       excavation,                  including              blasting,           processing,
+
+                                 maintenance                 and         truck          traffic          shall     be        conducted
+
+                                 in    a    manner               that    minimizes                 the    adverse            effect               to
+
+                                 persons              and    activities                  on    adjoining           property                   due
+
+                                                                        -10-                                   Exhibit            "A"     - Page        10
+                                                                                                               Ordinance                614
+                                                                                                       run 60 61589
+                              to    noise,          dust,         odor,            vibration              or      surface          water
+
+                              pollution             or     erosion.
+
+                  2.          Any       mining       operation                   shall           not    exceed           Department
+
+                              of    Environmental                     Quality               noise       emission,              air
+
+                              contamination                    and      water           quality            standards.
+
+                              Additionally,                    appropriate                    federal          environmental
+
+                              quality             permits         shall            be       obtained           for       each      site.
+
+                  3.          Excavation                 which        results               in     ponding          shall       be       deep
+
+                              enough          to    prevent             stagnation                  and      development                 of
+
+                              mosquito-breeding                         areas           or       shall       be     backfilled
+
+                              with       a    material            that           will         not      impair        groundwater
+
+                              quality.
+
+         Finding:             We    find          that     the        applicant                  proposes           to    extract             the
+rock     from     the        subject          site        by     first           removing              and     storing            the
+topsoil        overburden               and       saving         it     in       berms           for      future         reclamation
+use,     and    then         extracting             the        rock         in     a    westwardly                direction              from
+the     existing            quarry       using       conventional                       mining          techniques.                  We
+find     that     the        applicant             has     proposed                to       work       with       the     Department
+of     Geology         and    Mineral             Industries                 ("DOGAMI")                and     the       Water
+Resources         Department                 to    assure         that           significant                 groundwater
+resources         encountered                 on    the        site,          if       any,        will      be     isolated             and
+protected.              We    find       that       material                may        be     weighed          at    the       existing
+scale     house         and    may       exit       the        site         along           the     existing             paved          access
+road     and     the        existing          county           and      state           road        network.              We      find
+that     prior         to    operations             on     the        subject               property,             the     applicant
+will     be    required            to    obtain           an     operating                  permit         and      reclamation
+Plan     approval            from       the       Oregon         Department                   of    Geology          and       Mineral
+Industries.                 This    plan          will     meet         all        the        necessary             requirements
+
+                                                                     -l1-                                 Exhibit           "A"      -    Page      11
+                                                                                                          Ordinance               614
+                                                                                             aux 80 1590
+       for     slopes        and     quarry           stability           and        will         establish                 a    plan       for
+ons,
+
+       reclaiming            the     site        for        farm/forest              purposes.
+                We     find       that     the        applicant           has        submitted               evidence               to      show
+       that     its     proposal           will        mitigate           the        impacts            of        its       operation.
+       With     regard        to     noise,           we     find       that       the     noise            sources              that       will          be
+       created         by    the     proposed              use     of    the       property             will        be          equipment
+       operation,            the    proposed               air-track            drill        and        blasting.                   We      find
+       that     the     applicant               is    proposing           to       use     measured                powder           charges
+       and     sequential            blasting,               which       meet        DEQ     noise           standards                 at       its
+       other        quarries.            With         regard        to    the        air-track               drilling,                 which          we
+       find     to     be    the     loudest           noise        source,           we         find       that        a       study       done          by
+       acoustical            engineers               with     regard          to     air-track               drilling               at      a
+       quarry        site     in    Washington                County          demonstrates                   that           DEQ     standards
+       can    be     met     at    the     site        by     the       proposed            rock        extraction                  use.             We
+       find     this        evidence          convinces             us    that         the        operation                 at     the      subject
+       property         can       meet     noise            standards.               We     further               find          that
+       specialized            mufflers               and     deflectors              are     available                  to       reduce
+       noise.          We    find       that         the     noise       impacts           will         be        further           mitigated
+       by    the     screening            from        adjacent           properties                   provided              by    the       face          of
+       the     quarry        and     berms           and    vegetation               that         the       applicant               will
+       construct            around        the        perimeter           of     the       site,         and        the          topography                of
+       the     site,        which        itself        screens           several            of        the    nearer              residences.
+       Although         we    find        evidence            in    the       record             from       Mr.     Duble           testifying
+       that     the     operation             will         have     difficulty                   in    complying                 with       DEQ
+       noise        standards,           we      find       that        his     calculations                      did       not     correctly
+       calculate            the    noise         level        increase             over      the        ambient                 level       because
+       they     did     not       take     into        account           the       existing             operation                 at     the
+       adjacent         Stephens           Quarry,            nor       did     he     consider              special              matters             or
+       deflection            devices          in      his     calculations.                       We    incorporate                    by
+       reference            our     findings           related           to     Goal        6,        below,        in          this     regard.
+       From     a    review        of     all        the     evidence           in     the        record,           we          find     that         the
+       proposed         operation             will         minimize           its      adverse              noise           effects             on
+       adjacent         properties.
+
+                                                                         -12-                                 Exhibit   "A" -                        Page      12
+                                                                                                              Ordinance    614
+                                                                                                          vu 80 cc4591
+         With       regard       to       air     emissions               and       dust       effects,             we      find        that
+the     private          access        road       to       the     existing           quarry             is    paved,            and       that
+the     applicant          proposes              to    water        the        interior             truck       paths            on     the
+site     with       an    existing           water          truck         as    needed          to       eliminate               dust.
+We     find     further         that       equipment               at     quarries             operated             by     the
+applicant           comply       with        DEQ       air        quality           standards,                and     that         its
+adjacent           Stephens          Quarry           operation              has     had       no    DEQ       citations                in
+the     last       eight    years.               Although           Mr.        Simons          testified              regarding
+the     possibility             of     air       pollution              problems,              we    find       his         testimony
+to     not    be    credible           for       the       reasons           set     forth          in    our       analysis               of
+Goal     6,    which       we     incorporate                 herein.               Based       upon          all     of     the
+testimony           in    the     record          regarding               dust       and       air       quality,            we        find
+that     the-proposed                operation              will        minimize            its      adverse             effects             on
+adjacent           properties.
+         With       regard        to      odor        impacts           of     the    operation,                we.        find       that
+the     rock       proposed          to    be     extracted               from       the       site       does        not        have        any
+odor,        and    that    the        extraction                 and     crushing             operations                associated
+with     the       extraction             will        not     create           any    odor          and       thereby            cause
+an     adverse       impact          on    adjoining               properties.
+         With. regard             to      vibration,               we     find       that       there          will         be     no
+significant              adverse          effects,            and       incorporate                 by    reference                our
+discussion           of    the       report           of    Dr.     Feves           and     our      analysis               under
+Goal     6.
+         With       regard        to      surface           water         pollution             or       erosion,            we        find
+that     the       applicant           has       a National               Pollutant             Discharge                Elimination
+System        permit       from        DEQ       at    the        adjacent           quarry,             and    that         it       has       a
+record        of    complying             with        those        permits.               We      incorporated                   our
+findings           and    conclusions                 on    this        issue        from       our       discussion                  of
+Goal     6,    below.           In     addition,             we     find        that        the      berms          and
+vegetative           screening             that        will        be     preserved             and       established
+around        the    perimeter             of     the       site        will        help       to    control             offsite
+surface        water       impacts.               For       all     these           reasons,             we    find         that        there
+will     be    minimal,           if      any,         adverse            impact           from      surface             pollution
+or     erosion       on    persons           or       activities               on    adjoining                property.
+
+                                                                   -13-                                  Exhibit            "A"        - Page       13
+                                                                                                         Ordinance                614
+                                                                                                                  ru 60 ice 1592
+         Based       upon        the      above          findings,                 we       conclude              that        the     criteria
+in    Environmental                 Standard             1 have             been        met.
+         We    find       that       the       applicant                has        a    record             of     compliance               with
+applicable           DEQ       permits          and        standards                   in       the       past     at     its       sites.
+We     find    that       operations                at     this          site          will          be     substantially                  the
+same     as    the     applicant's                  other          sites           (e.g.,             blasting,               crushing,
+etc.)     and,       therefore,                the       applicant's                    method              of    operation            at
+other     sites        would         be       effective                in     meeting                applicable               standards            at
+this     site.         Accordingly,                   we      find          that        the          applicant's               operation
+can     meet     applicable               DEQ       noise,             air     and          water           standards.                We    find
+further        that       DEQ       has       been       delegated                 authority                 to    enforce            these
+standards           and     that         no    federal             standards                    apply.            We    conclude,
+therefore,           that        Environmental                     Standard                 2    has       been        met.
+
+         We    find        further            that       the       applicant                    will       be     storing           .the
+topsoil        overburden                for    eventual                placement                    on     the    quarry            floor
+after     extraction                is    complete,                and        will          plant          the     area
+subsequently               for      farm/forest                   production.                        We     find       that     the
+applicant           will       be    required              by      DOGAMI              to       reserve           topsoil            for
+reclamation.                We      further           find         that        DOGAMI                will        require        a bond            for
+reclamation            and       that         DOGAMI          has        enforcement                      authority            to     ensure
+compliance.               We     find         that       the       applicant                    has       also     stated           that      it
+will     work       with       DOGAMI          and       the       Oregon              Water          Resources               Department
+to     look    for     opportunities                     to       create           recharge                basins        on     the        site,
+consistent           with        the      overall             use        of    the          site          for     farm/forest               uses.
+Other     than       the       potential              for         these        artificially                       created            recharge
+basins,        we     find       that         there        are         no     other             ponds        on    the        site     such
+that     water       stagnation                is     not         an     issue.                 We    conclude,               therefore,
+that     Environmental                   Standard             3    is       met.
+         Based       upon        all      of    the        above            findings,                 we     conclude           that        the
+Environmental               Standards                criteria               have        been          met.
+
+                                                                       -14-                                      Exhibit   "4" =             Page       14
+                                                                                                                 Ordinance    614
+                                                                                                                 rv 60 4593
+             (f)         Criterion:                   Section              404.07:              Operating                   Standards
+
+                          D.          Roadways.
+
+                          In        the    MR       District               for         all    mineral             resource                sites
+
+                          approved              by        the       Board,             all    access             to     a    mineral             resource
+
+                          site        shall           be       by     a    route         or     routes            approved              by          the
+
+                          Board           and        shall          be     constructed                and         maintained                   in     such          a
+
+                          manner           as        to    eliminate,                   as    far     as     practicable,                       noise            or
+
+                          dust        which           adversely                 affects         persons                 living            in        the
+
+                          vicinity,                  or    crops           or        livestock         being                raised         in        the
+                          vicinity.
+
+         Finding:                     We       find        that           the        access      to    the            subject           property
+will     be         through               the       private               access         road        currently                    serving            the
+existing                 quarry.               We     further              find         that     this        access                road        is     paved
+and. that                the    interior                  truck           paths         on    the     existing                site         will           be
+watered             as        needed           with        an       existing             water        truck             to    eliminate                   dust.
+We     further                find        as    is        discussed                  above     under         the            finding            for
+Environmental                        Standard              No.        1    that         the    proposed                operation                will           be
+designed                 in    a way           that        minimizes                  noise      and        dust            which       might
+otherwise                 adversely                 affect            persons            living         in        the        vicinity                or
+crops         or         livestock              being            raised           in     the     vicinity.                    We       find          that
+the     use         of        the     open          quarry            face        and        trees     and            berms         along            the
+perimeter                 of    the        site           to     reduce           noise        and     dust             impact          as      well           as
+the     use         of        water        devices               to       reduce         dust        are,         in        our     opinion,
+reasonable                    techniques                  to     reduce           the        off-site             noise           or    dust          impact
+of    the      operation.                      We     find          these         techniques                eliminate                  such          impacts
+as     far     as         practicable.                         We     do       not      agree       with          the        opponents                who
+claim         that            dust        and       other           impacts             cannot        be     adequately
+controlled.                     We        incorporate                     by    reference             our         discussion                   of     Goals
+11    and          12,        below,           and        hereby           approve            the     use         of        the     access
+described                 in    our        discussion                     of    those         goals         as        the     access            for        the
+
+                                                                                -15-                                   Exhibit            "A"        = Page             15
+                                                                                                                       Ordinance                614
+                                                                                            eux 60 ince 594
+proposed       use.       We     find          that        a    private,        paved        road          with        limited
+access     will        eliminate,              as     far       as    practicable,               adverse           effects
+from    truck      traffic         on     persons,                crops      and     livestock              in     the
+vicinity.          Based        upon      the         above,          we    conclude         that          this        criterion
+has    been    met.
+
+         (g)   Criterion:                Section               404.07:        Operating               Standards
+
+                z.        Site      Operation                   and       Safety.
+
+                All      excavation,                  processing             and     stockpiling                  of    mineral
+
+               _ resources          shall             take        place      under        conditions               which            will
+
+                provide          for          the     reclamation             of     the     site          for     future               uses
+
+                  and    will     protect                 the     safety      of     the     public.         .
+
+                  1.      Blasting              shall           be    restricted            to    the       hours            of     7    am
+                           6 pm,        Monday              through         Saturday.             No       blasting                shall
+
+                           eccur         on     Sundays              or    holidays.             In    the        event            the
+
+                           operator             cannot            comply      with         this       restriction                   due
+
+                           to    unforeseen                    circumstances,               the       operator           may
+
+                           exceed             the     limitations
+                                                                set                   forth           above;           provided
+
+                           that     in         no     event          shall    the     owner           or    operator                blast
+
+                           outside             the        restrictions              set     forth          above        more            than
+
+                           four         (4)         times       in    any    one     (1)     calendar              year.
+
+                  2.      Prior          to     a     blasting             operation,            the       operator                shall
+
+                          be     responsible                    for       notifying         adjacent             property
+
+                           owners         as         to     the      date    and     approximate                  time        of        the
+
+                          blasting              activity.
+
+                                                                  -16-                            Exhibit              "A"        - Page       16
+                                                                                                  Ordinance                  614
+                                                                                                    rua GO e595
+              Finding:               With        regard             to    the        first     part          of     this       criterion,
+os
+
+     we     find       that        the    applicant                 will        be    required           to,        prior          to
+     operations              on     the     expansion                site,           obtain        an    operating                 permit           and
+     reclamation               plan       approval              from       the        Oregon        Department                 of       Geology
+     and     Mineral           Industries                 to    provide              for    the     site          to     be    reclaimed
+     for     farm/forest                 purposes               (including             Christmas               trees)          that        we       have
+     determined               is    an    appropriate                    farm        and     forest          land        use       for     the
+     site.         We    find        that        appropriate                    bonds       will        be     required             as     part          of
+     the     reclamation                 permit           process          with        DOGAMI.               We     find       that        such          a
+     reclamation               plan        is    a    precondition                    to    obtaining               an      operating
+     permit         from       DOGAMI           and       that       consequently,                  no       excavation,                   +
+
+     processing              and     stockpiling                    on    the        expansion           site          will        take         place
+     prior        to    the        preparation                 of    such        reclamation                 plan.            We    further
+     find     that       DOGAMI            is    the       regulatory                 agency        with          the       greatest
+     expertise           regarding               such          reclamation                 plans        and       that        a; plan
+     prepared           for        its    approval              and       under         its       regulatory                requirements
+     will     protect              the     safety          of       the    public.             We       conclude              therefore,
+     that     this       criterion               has       been          met.
+              With       regard           to     the       blasting              requirements                  of      this        section,              we
+     find     that       the        applicant              has       agreed           to    comply           with        the       hours           of
+     restriction               and       prior        notice             requirements               of       these          approval
+     criteria.               These        requirements                    will        be     included             as     conditions                 of
+     approval           of     this       request              as    part        of     the    program              to      meet        Goal        5
+     and     will       apply        to     all       excavation,                    processing              and       stockpiling                  on
+     the     subject           parcel.               We    conclude              that       these        blasting              requirements
+     can     be    met       by     the     proposed                use    and        the     inclusion                of     conditions                 of
+     approval           in     this       decision,                 ensures           compliance.                   Accordingly,                    we
+     conclude           that        this        criteria             has        been       met.
+
+                                                                            -17-                                  Exhibit           "A"        -    Page      17
+                                                                                                                  Ordinance               614
+                                                                                rx 60 acc4596
+
+(h)   Criterion:      Section              404.07:                 Operating              Standards
+
+       F.    Land    Reclamation.
+
+            Any     parcel           or    site          used        as    a mineral              resource           site
+             for    which        a    reclamation                   plan        is    required           by        the
+            Department               of    Geology             and        Mineral          Industries
+
+             (DOGAMI)        shall             be    reclaimed              in       accordance               with        the
+
+             site    operation                 and       reclamation                 plan     on    file           with
+
+             and    approved              by    the          County.                                          -
+
+             The    approved              reclamation                 Plan       shall        be    implemented
+
+             in    accordance              with          a    schedule           contained              therein
+
+             showing        the       planned                order        and    sequence           of       said
+             reclamation.
+
+             The    approved              reclamation                 plan       shall        require             all
+
+             excavations              to       be    backfilled,                 contoured              or
+
+             terraced        or       put       to       a    use     shown          on     the    reclamation
+
+            Plan     which           is    compatible                 with       the       final        depth        and
+
+             slopes     within              the      excavation                 site.
+
+             The    approved              reclamation                 plan       shall        require
+
+             topsoil        to       be    saved             and     stored          in    such     a    manner            as
+
+             to    prevent           erosion,                and     that       said        topsoil          shall         be
+
+             replaced        to       at       least          the     depth          of     the    original
+
+             overburden,              or       to    a       depth        adequate           to    achieve           the
+
+             approved        reclamation                      use.
+
+                                                -18-                                  Exhibit           "A"       - Page        18
+                                                                                      Ordinance              614
+                        5.          The       approved               reclamation                     plan           may,     in       the    County’s
+
+                                    discretion,                     provide            for       reclamation                     of    portions               of
+
+                                    the       site         prior          to      total          exhaustion                  of       the    resource
+                                    found           on     the       site.
+
+        Binding:                    We    find,            as       discussed               in       the        previous              finding,
+that    the         applicant                 shall            obtain           approval               of       a    reclamation                 plan
+from    DOGAMI               prior        to        the        start       of         operations                    on     the    site.           We
+find    that            the     reclamation                     use       we      have          identified                  (farm/forest
+propagation)                   is    achievable                     at    the         site,          that           the     applicant             will
+stockpile               topsoil           as        required              to      meet          the     plan,              and    that       the        site
+can    be         contoured              or     terraced,                 in      compliance                    with        DOGAMI          rules        to
+meet    the         reclamation                     goals           we    have         established.                         We     find      that
+under        DOGAMI            rules,           reclamation                     can        be    sequenced,                  or       an    operator
+can    bond         a        larger       amount               of    acreage               as    a     site          is     enlarged             to
+ensure            reclamation.                      We     find          the      DOGAMI             rules           are     sufficient                 to
+meet     and        enforce              the        requirements                      of    this        section              and       conclude
+that    they            are     satisfied.
+
+            (i)     Criterion:                      Section              404.07:                Operating                  Standards
+
+                        G.          Performance                     Agreement.
+                        Pursuant               to        the    requirements                     of        this           Section          and    any
+
+                        conditions                  imposed              hereunder,                   the       applicant              shall           enter
+
+                        into        a performance                        agreement                with          the        County,          using            the
+
+                        applicant’s                  performance                      agreement                 with        DOGAMI          as     a
+
+                        minimum           standard.                      Should            the       Board           find         that      the
+
+                        DOGAMI           performance                     agreement                for       a       specific           site        is
+
+                        inadequate,                      the    Board           shall           modify              it     accordingly.
+
+        Finding:                    We    find            that       this         requirement                       clearly           contemplates
+a   performance                 agreement                  at       the    time            that        the          applicant              enters
+into     a        performance                 agreement                  with         DOGAMI,           which              will       be    at    the
+
+                                                                               -19-                                       Exhibit   "A" -               Page       19
+                                                                                                                          Ordinance    614
+                                                                                        FILA   60         ne LOOT
+
+time    an    operating                permit        is     issued.                We     have       reviewed          DOGAMI's
+rules     and    find           that     the        bonding           requirements                   of    that     agency               are
+sufficient            to    meet        the     requirements                    for        this      site.        We    have             also
+imposed       additional                performance               guarantees.                     Accordingly,                we
+conclude        that        this        criterion              has     been         met.
+
+        (3)      Criterion:                   404.08             Application                   for     Zone      Change         to           MR
+District
+
+                 In        addition            to    the       Type       C    application                 Procedure            set
+
+                 forth            in    Section           1301,          and       subject           to    the    amendment
+
+                 review              criteria            listed          in    Section            1207,         application                   for
+
+                 an        MR     zone    shall           contain:
+
+                 A.             The     documentation,                    as       applicable,               required           for           any
+
+                                application               for     a      site       design           review       as    set             forth
+                                in     Section           1101;
+
+                 B.             ‘Plans    showing              the       location,              area,        dimensions,
+
+                                acreage         and       legal        description                   of    the    parcel                to    be
+
+                                developed            or     used,         together              with       north       point,
+
+                                scale,        date        of     application,                   and       all    intended                uses,
+
+                                including            estimates                of    the        total       volume       of      the
+
+                                resource            to    be    mined          and        initial          contours           for            the
+
+                                proposed            site.
+
+                 c.             Provisions               for     landscaping                   and    screen-planting                         of
+
+                                all    parts         of     the       site;
+
+                                                                  -20-                                    Exhibit       "A"         -        Page   20
+                                                                                                          Ordinance           614
+                                                                                                    run 80 xc4598
+                       D.         Provisions                   for        preventing               the        collection                    and
+
+                                  stagnation                   of        water       at      all      stages              of     the
+                                  operation;
+
+                       E.         Pians,           profiles                   and    cross-sections                        of        all        access
+                                  roads;            and
+
+                       F.         Plans           for        the         reclamation               of     the            site.
+
+                       G.         All       plans         prepared                  and    submitted                     shall        be        prepared
+                                  at    a     scale           no         smaller          than        one          (1)     inch            to        two
+
+                                  hundred               (200)        feet,           with        five         (5)         foot        contours,
+
+                                  and        such       information                    shall        be        furnished                   for         a
+
+                                  distance              beyond                the    site        sufficient                     to    determine
+
+                                  the        impact            of        the      operation              on    adjacent                   and
+                                  surrounding                   lands.
+
+           Finding:               We    find         that           the        requirements                   of     this            criteria               are
+procedural              requirements                    relating                to     the      process              used            in
+considering                 evidence           and        evaluating                   the       information                     submitted
+about        an    application.                      These           requirements                   are        designed                   to     allow
+us    to     adequately                consider              the          application               against                the        applicable
+approval           ‘criteria.                We      find           the        process          and       hearings                   held        before
+the    Planning              Commission                 and         us     followed             the       relevant                   Type        Cc
+application                 procedures.                   We        interpret              the      application                       submission
+requirements                 to    allow           latitude                in       submittal             requirements                          to
+reflect           different             situations,                      as     long       as      the        information                       in        the
+record        is       sufficient              for        us        to     properly             evaluate                 the         proposal.
+In    this        instance,             for        example,                where          the      subject                site        will            be
+excavated              except          for     an       outer            perimeter,                and        where            access            to        the
+site       has     access          through              an      existing              road         used        for         an        existing
+quarry,           we    find       that        there            is       no     need       for      the        full            complement                   of
+
+                                                                           -2}-                                    Exhibit "A" - Page                             21
+                                                                                                                   Ordinance 614
+                                                                                            FILM     60        ace 1599
+
+detailed             site       plans     that           might          be      otherwise               needed          for    an
+application                 involving           a    variety              of      uses       on     a    property.                 We-    find
+that     for         this       application               the       maps          and       plans        that       have       been
+submitted,                in    combination               with          the       narrative              descriptions                    of    the
+proposed         activity,               hearing              testimony                and     our        site      visit,          have
+given     us         sufficient           information                     to      evaluate              the    proposal             before
+us     against            the     applicable              approval                criteria.                  Accordingly,                 we
+find     that         these        submissions                 are        sufficient               to        meet       the    applicable
+documentation                   requirements                  of    Section                1101,        and    the       additional
+documentation                   requirements                  of    this          criterion.                  We     find      that           this
+is   particularly                  true       since           we    interpret                our        code       to    refer          ‘to
+plans     in‘a            broad     sense           to    include               narrative               discussions                as     well
+as   drawings.                  Based     upon           the       above,          we       find        and    conclude              that
+adequate         site           information               has       been          provided              to    evaluate:the                    site,
+roads     for         the       site,     reclamation                     and      landscaping.
+                                                                                              and                        screening
+around         the        perimeter           of     the       site.            Accordingly,                  we    conclude              that
+this     criterion               has     been        met.
+
+         (k)          Criterion:               404.09               MR         Zone        Change        Criteria
+
+                      Approval           of    a     zone          change             to    the    MR        District          shall           be
+
+                     based         upon       satisfactory                      compliance               with        the
+
+                      requirements                  set       forth          in    subsection                 404.08          and        the
+
+                      amendment           review              criteria             listed          in        Section          1207;           and
+                      the       following            criteria:
+
+                     A.           That    a    sufficient                    quality           and       quantity             of    mineral
+
+                                 resource            exists             at      the        proposed           site       to    fulfill              a
+
+                                 market        need.
+
+                     B.          That     approval                 of     the      zone        change          will        not      cause
+
+                                 immediate               or    long-term                   land    use        conflicts              that
+
+                                 cannot        be        satisfactorily                      mitigated.                  If    conflicts
+
+                                                                        -22-                                  Exhibit          "A"        = Page        22
+                                                                                                              Ordinance             614°
+                                                                                                    run 60 1609
+                                are    identified,                  findings                shall        be    made           concerning
+
+                                the    economic,               social,             environmental                     and        energy
+                                consequences               of       allowing                the     MR       use;        and     a
+
+                                determination                  shall         be        made        that        the       benefits               to
+
+                                the    public            outweigh            the        detriments                  suffered               as       a
+
+                                result        of     said       conflict.
+
+        Finding:                We    have        concluded                that        the     application                    complied
+with    the     requirements                  of     Subsection               404.08'in                  our        previous
+finding        and       incorporate               that        finding             herein           by       reference.                  .We
+have    also        made        extensive               findings            related            to:the           market           need           in
+our    findings           directed            to     Section               1208.02,            below.               We    incorporate
+those        findings           herein        by     reference.                    We       find        that        the       reference
+in    this     criterion              to     compliance               with         the       amendment               reyiew
+criteria        in       Section           1207      should           actually               be     a    reference                  to
+Sections        1207        and       1208,        since        zone         district               boundary              changes               can
+be    made     through           both        legislative                   (covered            by       1207)        and        quasi-~
+judicial            (covered          by     1208)        boundary                change          procedures.                   We
+further        find       that        the     applicant               has         complied              with        the         °
+requirements               in    1208,        as     demonstrated                      by    our        findings              for        that
+criterion,           discussed              below.             We     find,            additionally,                     that        the
+criteria        in       subsections               “A”    and        “B”    of ‘this              criterion               are
+adequately            addressed             by     the     findings                we       have        made        with        regard              to
+Statewide           Planning           Goal        5,     below.             We        incorporate                  those           findings
+herein,        as    though           fully        set     forth.             We         further             find        that        the        rock
+resource        on       this        site     is     extremely               important                  to    the        immediate                  and
+long-term           well-being               of    the     residents                   of    Yamhill            county.                  We     find
+that    it     is    essential              to     preserve                high        quality           rock        resources                  for
+the    present           and     future           use     of    county             residents.                   We       find        that
+this    site        provides           extremely               important                benefits              to     the        citizens
+of    the     county        and       protecting               the         health,            safety           and       welfare               of
+resources           of    the        county        by     providing                a    ready           supply           of     rock           for       a
+variety        of    purposes,               including              home          and       highway           construction.                             We
+further        find,        consistent               with       our         conflict               identification                        and
+
+                                                                    -23-                                      Exhibit           "A"           - Page         23
+                                                                                                              Ordinance                  614
+                                                                                                rut 6O esc A601
+ESEE    analysis,            below,        that       the        conflicts                 at    the        site             are    minimal
+and    can     be    mitigated           to     avoid           significant                 adverse                 effects             on
+existing        and       future      land          uses        in     the       general             area           of       the    proposed
+use.     Accordingly,               we     conclude              that         the      benefits                 to       the       public
+outweigh        the       detriments            that         may       accompany                the        proposed                use.
+Based    on     all       these     factors,            we       conclude              that          this           criterion                    has
+been    met.
+
+        2.      Section           1007--OFF-STREET                         PARKING          AND        LOADING
+
+        Criterjon:                1007.01           Purpose            and       Scope                                                  .
+
+                    The     off-street              parking            and       loading             requirements                           of     this
+
+                    section        shall        apply           to     those          uses        specifically                      listed
+
+                    in     this    section.             <A      dwelling              which          is’    not          a     duplex              or
+
+                    multi-family               dwelling               shall        not      be       subject                 to    the
+
+                    requirements               of    this          section;            however,                 a    minimum                 off-
+
+                    street        parking           area        sufficient                 to     accommodate                      two            (2)
+
+                    cars     shall       be     provided               for       each       such           dwelling.                        The
+
+                    requirements               for     any         use      not       specifically                       listed              in
+
+                     this    Section          but      which           may       require              off-street                   parking
+
+                    and     loading           facilities               shall          be    determined                       by    the
+
+                    Director        based           upon        the        requirements                    for        comparable
+
+                    ‘uses    listed        herein.               At        the      time        of     construction                          of     a
+
+                    new     building           or    structure,                  or    at       the        time          of
+
+                    enlargement            or       change            in     use      of    an        existing                building                  or
+
+                    structure            within        any         zoning           district,               off-street
+
+                    parking        spaces           shall        be        provided             as     specified                   herein,
+
+                     unless       greater           requirements                    are     otherwise                    established.
+
+                    Where     square           feet        are        specified,                 the       area          measured
+
+                    shall     be     the       gross         floor           area      of        the       building                or
+
+                     structure        primary              to        the     functioning                   of        the      particular
+
+                                                                 -24-                                      Exhibit: "A" -                         Page       24
+                                                                                                           Ordinance   614
+                                                                                                 rux 60 cc 1602
+                   use       of        the     parcel,           but       shall           exclude              space           devoted            to
+
+                      off-street               parking           or       loading.
+
+          Finding:               We     find        that       the        intent           of    the        Off-Street                  Parking
+ and     Loading        requirements                  of       the        code        is    to     assure              that          when
+ property         is    used           (particularly                  dwellings                 and        structures),                      its    use
+ is    designed         in       a way         that        includes             sufficient                  provision                  for        the
+ onsite        parking           and     loading            needs          that        can       be        reasonably                  expected
+ to     accompany           that        use.         We     find          that       the        provisions                  of
+ Section         1007       of    the        code     focus           on       dwellings               and       structures,                      and
+ do     not    specifically                  address           nonstructural                     uses           such        as       the      quarry
+ use     proposed           by    the        applicant.                   We     find,          however,               that          under
+ Section         1007.01,             the      Director              is    to     determine                 the        appropriate
+ standards            for    uses        not        specifically                  listed              in    the        code.            We        find
+ that     this     quarry             operation             is    such          an     unlisted                 use,        and
+ consequently               make        the        following              determination                     and        findings
+. regarding        the       appropriate                  parking              and      loading             requirements                      for
+ this     proposal,              which         we    make        following                 consideration                        of     the        other
+ uses     listed        in       Section            1007.         Since           the       quarry              use        is    not
+ specifically               listed            in    Section            1007,         this        determination                         and        these
+ findings         are       sufficient               to     address             all        the     code's              parking               and
+ loading         requirements                  applicable                 to    this        application.
+          We     find       that        the        existing           Stephens              Quarry              site        is       adjacent
+ to    the     proposed           use        and     has       sufficient                  space           to    meet           the     off-
+ street        parking           and     loading            needs          of     both          the        existing              quarry            and
+ the     80-acre        use       proposed            in       this        application.                         We     find          that         the
+ applicant's            existing               quarry          has        sufficient               space             to     meet        the
+ parking        and     loading              needs        of     the       trucks,              equipment,                  stockpiles,
+ crusher,         truck          loading,            weighing              and       maneuvering                     areas           needed         for
+ the     operation           of       the      proposed           use.            We       find,           from        a    review            of    the
+ maps     and     photographs                  of    the       site        in     the       record              and        from       our         site
+ visit,        that     the       existing            quarry              has     large          areas           adjacent               to        the
+ access        road     to       the     site        that        are       available               for          use        for       parking
+ and     for     loading,             and      find       that        such        areas          are        large           enough            to
+
+                                                                      -25-                                      Exhibit               "A"     -    Page   25
+                                                                                                                Ordinance                   614
+                                                                                                  rer GO ace 1603
+provide        needed            parking           and        loading            room        for       the    proposed             use.          We
+find     and        conclude’            that      these           areas         are       sufficient              size       and        space.
+         We        further          find        that         the     access           road        to    the     existing                site     is
+paved,        and     that          the     applicant                has        proposed           to    rock       portions              of
+the     site        for     all       weather            use,        as      the      quarry           develops.              We        find
+that     the        applicant              will        also        moisten            the     interior             truck         paths         as
+needed        to     control             dust,         control            water         flow       to    comply            with         DEQ
+requirements,                  and       insure          that        any        artificial              lighting            is     directed
+away     from        residences.                   We        find       that         these        measures          address              the
+issues        covered            by      the      design           requirements                   of    Section            1007.02B             in
+a    manner         appropriate                 for      the       proposed            use        at    this       site.            :
+         We     find        that         there          is    no     specific              number        of     off-street
+parking         or    loading              that        should           be      required           at    the       site.           Given
+the     demonstrated                  ability            of     the       adjacent            site       to     meet         its        needs
+in    the     past,         and       the       great         amount            of    space        available,;'we                   find
+that     there        is       easily           sufficient                space        to     accommodate                  the     needs         of
+the     operation,               its       employees,                and        the    vehicles              that      may       enter         and
+leave        the     site.            We    further             find         that      since           the     subject           property
+is     adjacent           to     the       rock        extraction                area        on    the       existing            quarry
+site,        that     it       is     appropriate                  to     allow        parking           and       loading
+requirements                to      be     met     at        the     existing              quarry,           and      in     fact        to
+allow        the     location              of     the        areas         in    which        these          requirements                 are
+met     to    change           over        time        as     the       location             of    the       activities              changes
+on    the     site.            Based        on     these           factors            we     conclude           that        this
+criterion            has       been        met.
+
+         3.         Section           1101--SITE                DESIGN           REVIEW
+
+         Finding:                Although              opponents                to    the     application                  argue         that
+this     section            of      the     code         is     an      applicable                approval          criterion,                 we
+find     that        Section             1101.01             provides            that        Section           1101        “shall         apply
+to    all     development                  in     all        Commercial,               Industrial,                 and      Public
+Facilities            Districts,                  all        development                in    the       PRO     District,                and
+all     other        uses        as      may      be     required               by    this        ordinance            in     the        AF-10,
+
+                                                                        -26-                                 Exhibit   "A" -= Page                    26
+                                                                                                             Ordinance    614
+                                                                                 rx 60 eA B04
+VLDR   and     LDR      Districts.”                    The     application                 beforeus             is        not        for
+development            in    any       one    of       those         named       Districts,               consequently                      we
+find   that       Section          1101       is       not     an     approval             criterion            applicable                      to
+this   application.
+
+       4.      Section            1207--LEGISLATIVE                        AMENDMENTS
+
+       Finding:              Although             opponents               argue          that     this       section             of        the
+code   is    an       applicable             approval              criterion,              we     find       that
+Section       1207      pertains             to    Legislative                  amendments              to     the        code.             The
+application            before          us    is    a     quasi-judicial                    amendment            to        the        code,
+proposed
+       ‘by             the       applicant             and     processed                 under     Section            1208.                We
+further       find      that       Section             404.09         of       the       code     should        refer            to        both
+Section       1207      and       1208       as    potential               applicable              amendment               -review
+criteria,         and       so    interpret              our       code..        We       find,        consequently,                       that
+Section      1207       is       not    an    approval               criterion             applicable                to    this
+application.
+
+       5.      Section            -1208--QUASI-JUDICIAL                          ZONE       DISTRICT            BOUNDARY
+CHANGES
+
+       (a)        Criterion:                Section           1208.01:               General           Requirements
+
+                  A    quasi-judicial                    zone       map        change       is     processed               as
+
+                  follows:
+
+                  A.         An    amendment                 may    be     initiated              by     the    Board,               the
+
+                             Commission,                 or    by     application                 of    an     owner            of     land,
+
+                  B.         An    application                 for        such       a    change        by     an     owner           of
+
+                             land       shali          be     made        in    accordance              with         the        Type        C
+
+                             application                procedure.
+
+                                                                   -27-                                Exhibit   "A" -                     Page      27
+                                                                                                       Ordinance    614
+                                                                                     rx 60 aceL605
+
+                Cc.             Such         amendments                shail     be     made               only    by      the    Board,
+
+                                after         review            and        recommendation                    by     the     Commission,
+
+                                and         after        public            hearings             have        been     held        by     both
+
+                                 the        Commission               and     Board,             pursuant            to     Section           1402
+
+                                of     this         Ordinance.
+
+                Dz              Approval             for        a    boundary         change                shall        include
+
+                                findings             satisfying                the     criteria               in     1208.02            or
+                                1208.03             as     appropriate,                and           addressing             applicable
+
+                                Comprehensive                       Plan     goals      and           policies.
+
+                E.              Changes             to        the    applicable                 zoning        maps         shall        be
+
+                                made         and     become           effective                 upon        filing        with         the
+
+                                County             Clerk.
+
+        Finding:                We     find         that        the        requirements                 for       this      criterion
+are    procedural               requirements                    relating         to     the            county's
+consideration               of        quasi-judicial                       zoning     district                map        changes.             We
+find    that    the         application                   was        initiated          by           the     land        owner        in
+accordance           with            Type     C procedures,                   and     that            our     decision            is       being
+made    following               properly             noticed               Planning             commission               and     Board
+hearings       on         the        matter.             We     further         find            that        these        Findings            and
+Conclusions               address            the     approval               criteria             applicable               to     the
+application,               including                the        criteria         in     1208.02               and     the       applicable
+Comprehensive               Plan.goals                   and        policies.           We           conclude,            therefore,
+that    this    criterion                    has     been           met.                    ,
+
+        (b)    Criterion:                     Section               1208.02          Review             Criteria
+
+                    (1)         <A    quasi-judicial                       change      to        a    zoning         map       may     be
+
+                authorized,                    pursuant                to    Subsection                 1208.01,           provided
+
+                that            the     request                satisfies         all            applicable               requirements
+
+                                                                      -28-                                   Exhibit   "A" ~                 Page   28
+                                                                                                             Ordinance    614
+                                                                                                 FILW     60         vxte 1606
+
+                of     this        ordinance,                  and         also         provided                that        the       applicant
+
+                demonstrates                     compliance                  with           the         following               criteria,
+
+                except            as   provided                in      Subsection                       1208.03.
+
+        Finding:            We     find          that        this          Findings                document                fully
+addresses       and     demonstrates                        compliance                  with            the     approval              criteria
+that    are   applicable                to       the        requested                  zoning            map        change,           including
+the    criteria        in    this           Section             1208.03.                    We     further             find       that
+Subsection        1208.03              does        not       apply           to        this        application                   because
+this    request        does        not        involve             a    change               to     an     Exclusive                Farm       Use,
+
+Agriculture/Forestry                        or     Forest             zone,            nor       does          it     involve           a    change
+in    the   minimum         lot        size        or       land.            Based            on        all     these           factors,            we
+
+conclude,       therefore,                  that        this          criterion                  has      been         met.
+
+                (2)         A.         The       proposed              change               is     consistent                   with        the
+
+                goals,            policies               and      any        other            applicable                   provisions               of
+
+                the     Comprehensive                        Plan.
+
+        Finding:            In     these           Findings,                 we        have        addressed                compliance
+with    the   applicable                provisions                    of     the        comprehensive                       plan.            We
+incorporate           all        our     findings               related                to     the county's
+comprehensive           plan           as     though            fully            sét         forth            herein,           and     conclude
+that    those     provisions                  are        met.          Based            upon            all     our        findings            we
+conclude      that      this           criterion                has         been        met.
+
+                (3)         B.',       There           is    an       existing,                   demonstrable                    need       for
+
+                the     particular                      uses        allowed             by        the         requested            zone,
+
+                considering                      the     importance                    of        such         uses     to       the
+
+                citizenry                or       the       economy               of    the         area,            the    existing
+
+                market            demand            which           such          uses           will         satisfy,            and       the
+
+                availability                      and       location               of        other            lands        so     zoned        and
+
+                their            suitability                 for           the     uses            allowed            by    the        zone.
+
+                                                                      -29-                                      Exhibit "A" -                     Page   29
+                                                                                                                Ordinance  614
+                                                                                                            riux 60 oxcc1B07
+
+         Finding:                  We    find         that        the    subject              property            provides          one        of
+the     few        sites          in    the     county            with     rock          of    sufficient               quality           to
+meet     federal              highway           standards               and     requirements.                      We    find       that
+there         is    a    long          lead     time        necessary               for       obtaining            approval             of     new
+sites     and           additional              time        necessary               after        approval           to     prepare             a
+site     for        extraction.                     We     further         find          that       the     costs        to       run     a
+quarry         are       enormous,              and        operators            and       lenders           require           a
+
+significant                  rock       reserve            to     insure        an       adequate           amortization
+period         for       the       expensive               equipment            and       costs.            We     find       that        these
+are     operational                    characteristics                   of     the       rock        industry           that       ereate
+a     significant                 lead       time         for     opening           up    a    quarry          site      and       that        the
+industry.           must          anticipate               site     development                  in    order        to     be      able        to
+continuously                  meet       existing               market         need.           We     find        that     the
+applicant               is    the       largest            producer            of    rock        in    the        county          and     that
+the     applicant                 has    only         a    small        amount           of    rock       at      existing          sites
+to     meet        existing             market            need.         Because           of     the      operational
+‘requirements                 of       the     rock        industry            described              above,        we     find         that
+this     site           is    needed           now.         We     find        this       is     particularly                 true        given
+the     significant                    growth         in     the    county           and       the     significant                 increase
+ in    production                 that       the      applicant            has       experienced                  over     the       last
+few     years.               We    find        that        to     provide           continuity               in    servicing              the
+existing            and       demonstrated                  market         need          for     rock,         this      site        is
+needed         now.
+         We        find       that       rock         resources            are        important             to     the     county.                 We
+have     recognized                    that        importance             in    our       comprehensive                  plan.            We
+also     recognize                 and.find               that     rock        resources              are      used       for      road        and
+construction                  projects,               forest        uses,           residential                uses      and
+agricultural                  uses,           and     are       critical            to    the       growth         of    the       county
+in     terms        of       jobs,           infrastructure,                   homes          and     transportation.                         We
+find     that           protection              of,        and     provision              for,        the      appropriate
+development                  of    rock        resources            therefor              is    very         important             to     the
+well-being               of       county        residents               and     to       the     county           economy.
+
+                                                                        -30-                                Exhibit   "A" -                   Page      30
+                                                                                                            Ordinance    614
+                                                                                         x           60 oc4608
+         We     find       that.        the     applicant                has       expended               significant                  effort
+to    locate         alternative                rock         sites        in       the        county         that          are        already
+zoned        for     mineral            extraction,                but        that        no     available                 site        so       zoned
+has     been       found        with       the        high        quantity              of     quality            rock        that          this
+site     has,        or    the         immediate             ability            to      prepare            and        use     the          site.
+We     further         find        that        the     siting            of     rock          quarries            is       difficult               and
+that     there        are       increasing               conflicts                 in     the        rural        areas           of       the
+county        because           of      the     growth            the     county              has     experienced.                         Based
+on    our     experience                with        other         rock        quarries,               we     anticipate                    that
+our     decision           in      this        matter            will     be       appealed               and     that           it    may       be
+years        before        all         legal        actions             are     finally              decided.               We        find       that
+this     is     further            support            for        conclusion               that        approval              of        the       site
+is    needed         now    to         meet     existing               market           demands.                 We    further                find
+that     the       applicant's                 main      alternate                 quarry,            the        Starr        Quarry,              has
+only     a     few    years'            supply         left.             We     further              find.        that ‘preparations
+for     mining        the       80-acre              site        will     begin           immediately                  as     an
+expansion            of    the         adjacent          Stephens               Quarry.               To     allow          for        a
+continuous             supply,           we      find        that        the       site         is    needed           now.
+         Based        upon         the     above,            we     find        that          there         is    a    demonstrated
+need     for       additional              high        quality            rock           in    the        county           such        as       the
+rock     that        would         be    made         available               by     our       approval               of    this
+application.                We         conclude,             therefore,                 that         this        criterion                 has
+been     met.
+
+                     (4)         CC.      The       proposed             change           is     appropriate                     considering
+
+                     the      surrounding                land           uses,        the       density            and       pattern               of
+
+                     development                 in     the       area,         any       changes               which       may        have
+
+                     occurred             in     the     vicinity               to       support            the       proposed
+
+                     amendment                and     the        availability                  of     utilities                  and
+
+                     services             likely            to    be     needed           by        the     anticipated                    uses        in
+
+                     the    proposed                 district.
+
+                                                                        31-                                  Exhibit              "A"       =    Page       31
+                                                                                                             Ordinance                  614
+                                                                                                  rik 60 xc:4609
+         Finding:                     We     incorporate                      herein              by     reference               our       definition
+
+of     "surrounding                    land"            set         forth           in       our       discussion                of       ORS     215.296,
+and    find        that           this           definition                   is        appropriate                 for        the        "area"
+referred           to        in       this        standard.                     We       find          that     the        area           surrounding
+the    subject               property                 is    used          for           rural          residences,                   for        farming
+and     forestry                 uses,           and       for       other              quarry           operations.                      We     find     that
+these        uses           are       low        density             and        rural             in     nature           and       that         the
+proposed           use           is    of        the       same          type           as    presently               exists              in     the     mix
+of    uses        on        surrounding                    lands.               We       further              find        that        the        existing
+Stephens           Quarry              has        been          actively                 used          for     more        than           20     years,
+
+and     is    part           of       the        existing                pattern              of       development                   in    the     area.
+We    further               find       that           many          of    the           residential                 uses         have          been
+established                  during              the       period             of        time        that       the        Stephens               Quarry
+has    been         in       operation,                    and       find           that          the     density              on     surrounding
+lands        has        developed                 with          knowledge                    of     the       nearby           quarry
+operations                  as    part           of     the         land        use          pattern           in     the        area.
+         We       further              find           that        the         utilities                  needed           for       operation             of
+the     site       are           presently                 available                    at    the        existing              site        and     can     be
+easily        extended.                      We        incorporate                      by    reference               our        findings
+related           to        Goals          11]    and         12,        below.
+             We     find          that           this        is      a    request                 for     additional                  mining            area
+adjacent           to        an       existing              mining              and          processing               site.               We     find     that
+the    existing                  quarry           is       part          of     the          pattern           of     use        in       the
+surrounding                  area.               We     find         that           the       use        that        is    proposed               on     the
+subject           property                  is    a     use         that        is       already              part        of     the       pattern             in
+the    area         and,          therefore,                    the       use           is    appropriate                   in      the         area.      We
+find     that           a    quarry: .use                  is       appropriate                     in    an    area           of     existing
+quarries.                   We     find          that       the          siting              of     quarries              is     becoming
+increasingly                     difficult                 as       the       number              of     potential               conflicts
+increase           with           the        county's                growth.                   In      light        of     our         finding           that
+there        is     a       need       for        this          rock          in        the       county,           we      find          that     an     area
+adjacent            to       an       existing              quarry                 is    a     factor          that        leads           us     to
+conclude            that          the        new        quarry             is       appropriately                     sited.               We     find
+that     such           request              is       an     appropriate                      way        to    create            additional               rock
+
+                                                                                -32-                                      Exhibit   "A" =                 Page      32
+                                                                                                                          Ordinance    614
+                                                                                                         run 60 ce 1640
+
+availability               for      the        county      in    an     area        already               exposed           to
+potential          quarry           impacts.             We     find        and     conclude                  that        the
+application              before          us     is    appropriate                given         the        surrounding                   land
+uses        (which       include           an    existing         quarry),               density               and        development
+in    the      area,       and      conclude,             therefore,               that        this           criterion               has
+been     met.
+
+                   (5)         D.        Other        lands      in     the        County         already                 designated
+
+                     for      the     proposed            uses    are        either            unavailable                      or    not     as
+                     well-suited                for      the    anticipated                uses           due        to    location,
+
+                     size      or     other          factors.
+
+         Finding:              We     find       that      the    applicant                operates                  other           sites
+and     has     searched            for        alternative,             comparable                sites              in    the        county
+but     has     been       unable          to     find     any    that           are      as     well          suited            for
+development              as    this        site.          Other        sites        do     not           have        high        quality
+rock,       have       insufficient                  quantity          to    make         the     project                 feasible,               or
+contain         more       conflicting                uses      than        this       site.              We    recognize                   that
+this     site        does      have        some       nearby      homes.               But       we       find        that           the
+residences             are     all       approximately                 500        feet     from           the       boundaries                of
+the     subject          property,              and     that,     as        discussed                elsewhere                  in     these
+findings,          the        impacts           on    these      residences                can           be    mitigated.                    We
+find,         further,         that        other         sites    designated                    for       rock        extraction                   in
+the     county         are     already           being         used     for        rock        extraction,                      and     that
+the     issue      before           us     is    the      need        for    a     new     and           continuing                  supply
+of     rock.       We        find     that       we     cannot         obtain          such          a    new        and        continuing
+supply         from      areas        already           designated               because             of       the     inherently
+consumptive              nature           of    rock      extraction;               we     find           that        we    must
+
+continually              look        for       new    sites      to     meet        the        county's               ongoing               need
+for     rock.          Por     all        these       reasons,          we       conclude                that        this        criterion
+has     been     met.
+
+                                                                 -33-                                     Exhibit               "A"        - Page       33
+                                                                                                          Ordinance                   614
+                                                                                        FILE        60        nce LBL
+                          (6)         #.      The       amendment            is    consistent                   with        the       current
+
+                          Oregon           Administrative                   Rules        (QAR’s)              for       exceptions,                if
+
+                          applicable.                                                      ,
+
+              Finding:                We     address          the     relevance                of     an      exception               to     this
+     application                in    our     finding           for     Statewide               Planning                Goals         2,     3    and
+     4,   below,          and        conclude           that     no     exception               is       needed           for     the
+     proposed         use.            Based        upon       that      finding,               which          we     incorporate
+     herein,         we    conclude               that       this     criterion                has       been        met.
+
+              6.      APPROVAL               CRITERIA           FOR     A    CONDITIONAL                   USE       IN     THE       AF-20
+     DISTRICT
+
+              We     find        that        the       proposed         use       is    not         being          requested                under        a
+     conditional                use        application           and,        therefore,                  find        and      tonclude
+     that     the     conditional                  use       standards            do    not         apply          in     this        matter.
+     However,         the        use        requested           by    the      applicant                 is     approvable                  in    the
+     AF-20     zone        through            a    conditional               use       request.                 In      the      event           the
+on
+
+     conditional                use        standard          would,         for    any         reason,             be     deemed            to
+     apply,         and    further,               to    demonstrate               that         the       use       could         be    approved
+     under     existing               zoning,           we    make      the       following                findings              related           to
+     Sections         403.04,               403.07,          1201     and      1202       of        thé       Yamhill            County
+     zoning        Ordinance.
+
+              (a)         Criterion:                   403.04         Conditional                   Uses
+
+                          The        following           uses        are     allowed            in        the
+                          Agriculture/Forestry                          District               upon        conditional                     use
+
+                          approval.                Approval           of      these       uses           is     subject           to        the
+
+                          Conditional                  Use     criteria           and     requirements                      of
+
+                          Section            1202       of     this     ordinance               and        any       other        provisions
+
+                          set        forth        below.         Applications                   shall           be      reviewed             under
+
+                          the        Type     B    procedure            of     Section               1301:
+
+                                                                        34.                                     Exhibit   "A" -                   Page       34
+                                                                                                                Ordinance    614
+                                                                                              OL2
+                                                                                    eux 60 ag
+                 H.          The       following              mineral,              aggregate,              oil,        and         gas
+
+                             uses,          subject           to     the       standards           of       Section            404:
+
+                 2.          Operations                 conducted              for    mining,              crushing            or
+
+                             stockpiling                 of    aggregate              and     other          mineral,                and
+
+                             other          subsurface               resources              subject              to    ORS     215.298,
+
+         Finding:            We     find         that     Section              403.04H.2.              of    the        code         allows
+extraction            operations                such     as    that        proposed-by                 the        applicant               as    a
+conditional            use    in       the       AF-20        District.               We     find          further           that         the
+code     makes        approval          of       such     a    conditional                  use    subject              to
+compliance            with    the       conditional                  use       criteria           and       requirements                   of
+Section        1202,     the        standards             of       Section           404,     and          the        standards            of
+Section        403.07.            We    find       that        compliance                 with     these              additional
+criteria,        requirements                    and     standards              is    demonstrated                     elsewhere               in
+these     findings.               We    further           find           that       the     Type       C    application
+‘procedure       under        which             this     application                 has     been          considered                meets
+and    exceeds         the    Type          B    application.procedure                            that       is        required            for
+a    conditional         use        review,             and    that         following             the       Type        C    procedure
+is    sufficient         to       comply          with        the        requirement              to       follow           a Type         B
+procedure.             Consequently,                    based        upon       the       findings           referred                to
+above,     which        we     incorporate                herein,              we    conclude              that        this
+criterion        has     been          met.
+
+         (b)     Criterion:                     403.07         Additional                 Standards               for       Approval
+of    Conditional            Uses
+
+                 A.          In     the         Agriculture/Forestry                         District,                prior          to
+
+                             establishment                    of a conditional                      use,          the       applicant
+
+                             may       be       required            to    demonstrate              compliance                  with        the
+
+                             following                 criteria           in    addition.           to      other
+
+                             requirements                 of       this        ordinance:
+
+                                                                   -35-                                Exhibit               "A"      « Page        35
+                                                                                                       Ordinance                   614
+                                                                                                     tux 60 ac B13
+                     i.          The       use    will       not       force         significant                 change        in
+
+                                 accepted              farming         practices               on    surrounding               lands
+
+                                 devoted          to       farm     or      forest         use.
+
+                  2.             The       use    will       not       significantly                  increase               the     cost
+
+                                 of    accepted             farming           practices              on     lands          devoted          to
+
+                                 farm       or    forest          use.
+
+         Finding:                We    incorporate                by     reference              our        findings,           analysis
+and     conclusions               related             to    ORS     215.296,              as    though           fully        set     forth
+herein.         .We       find        that       this       provision              in     our       code       is     exactly         the
+same     as    the        state        statute,             which        we      have      found          to     be    satisfied             by
+the     proposed           use.            Accordingly,                we     find        and       conclude           that         this
+standard         is       met.
+
+1202.          CONDUSEITIO
+                       CRITERIA ANDNAL
+                                    REQUIREMENTS
+
+         (c)              iterion:               1202.01          Purpose                                                                              a
+
+                  The       puxpose              of    a    conditional                  use    is    to       provide         for
+
+                 “those           uses        which         possess           unique           and    special
+
+                  characteristics                          making        impractical                 their          inclusion          as
+
+                  outright                 permitted          uses          in     the     underlying                 zoning
+
+                  district.                  Such          uses     shall          not     be       incompatible               with        the
+
+                  type           of    uses       permitted              in      surrounding                areas.            Location
+
+                  and       operation                 of    designated              conditional                  uses        shall     be
+
+                  subject              to    review          and       authorized               only        by      issuance          of     a
+                  conditional                    use       permit.
+
+         Finding:                We    find       that       this        Purpose           section             is     intended         to
+introduce         and       explain              the       context          of     the     conditional                 use     criteria
+and     requirements                  in    Section          1202.            We    further           find          that      the
+
+                                                                    -36-                              Exhibit           "A"        - Page         36
+                                                                                                      Ordinance               614
+                                                                                     mur 60 occ 644
+
+Purpose            section          does      not     create          any        substantive                  requirements                      that
+are     not        elsewhere             present          in    the       code.            We     find        that        the        code            has
+already            identified,               in     the    specific              uses       listed            as     conditional
+uses     in        each     district,               those       uses        that        “possess            unique          and
+special            characteristics                   making          impractical                  their         inclusion                 as
+outright            permitted             uses       in    the       underlying                  zoning         district.”                      We
+find     that        the       compatibility                   of    a conditional                    use       with       the         type           of
+uses     permitted                in     surrounding                areas        is     assured            by      compliance                   with
+the     conditional                 use      review        criteria              of     Section            1202.02,              the
+findings            for     which          are      discussed             below.            We'also             find       that            the
+additional               approval            criteria           applicable                 to     a   conditional                    use
+sufficieritly               address           locational               and       operational                  issues        associated
+with     the        conditional               use.         We       find        that       we     have        addressed                all           of
+the     approval            criteria              applicable              to     approval             of      the     proposed                  use
+of    the         subject       property             elsewhere              in       these        findings,               and        have
+found        that         these        criteria           have       been        met.            In   summary,             we        find
+that     this        Purpose             section          does       not        establish             any       independent,
+substantive                approval           criteria              for     a    conditional                  use.         We        further
+find,        based         upon        our    findings              for     the       conditional                  use     approval
+criteria            discussed              elsewhere,               which        we     incorporate                  herein,               that
+this     criterion,                 to    the       extent          that        it    may       be    an      approval
+criterion,               has    been         met.
+
+            (d)      1202.02                 Review         Criteria
+
+            (1)      Criterion:                   1202.02
+
+                     A     conditional               use       may     be       authorized,                 subject             to        the
+
+                     Type       B      application              procedure               set       forth         in       Section               1301,
+
+                     upon         adequate           demonstration                    by        the   applicant                 that           the
+                     proposed              use      will       be     compatible                 with       vicinity             uses,               and
+
+                     satisfies               all     relevant              requirements                  of        this    ordinance
+
+                     and       the        following            general            criteria;
+
+                                                                     -37-                               Exhibit            “A"        =     Page           37
+                                                                                                        Ordinance                614
+                                                                                              FILM 60 ave1615
+
+        Finding:                We     find,       as       we     discussed           in     our       finding           for
+Section           403.04        and       which        we     incorporate              herein           by    reference,                  that
+the    Type        C procedure              under           which      this        application                was        considered,
+also    meets        the        requirements                  for     the    type        B    procedure              required              for
+conditional              use     review.               We     further         find       that       all       other           relevant
+requirements               of    the       ordinance               have     been       addressed              and        found        to       be
+met    elsewhere            in       these        findings,            including              an    adequate
+demonstration               that          the     proposed            use    will        be       compatible              with        uses
+in    the     vicinity               (which       is    found         in    the       findings            for
+Section           1202.02F.            below).              We     conclude,           therefore,               that          this
+criterion           has     been          met.
+
+            (2)     Criterion:                   1202.02A
+
+                    A.          The       use     is     listed        as    a     conditional                use        in     the
+
+                                underlying              zoning         district;
+
+        Finding:                We     find,       as       discussed            in    the        findings           for
+Section           403.04H.2.,              which        we       incorporate             herein,             that        the
+proposed           rock     extraction                 and       processing             is    a    conditional                  use       in
+the    AF-20        gone.            We    conclude,               therefore,            that       this        criterion                 has
+been    met.
+
+            (3)     Criterion:                   1202.02B
+
+                    B.          The       use     is    consistent                with       those        goals          and
+
+                                Policies           of        the     Comprehensive                 Plan       which           apply        to
+
+                                the       proposed            use;
+
+        Finding:                We     find       that        compliance              with        the     applicable                 goals
+and    policies            of    the       Comprehensive                   Plan       are     discussed              below           in
+this    Findings            document.                  Based         upon    those           findings,           which           we
+incorporate              herein,           we     conclude            that       this        criterion              is    met.
+
+                                                                    -38-                             Exhibit             "A"     ~    Page          38
+                                                                                                     Ordinance                 614
+                                                                                                      FILK     60        ace    L616
+
+            (4)         Qriterion:                     1202.02c
+
+                        Cc.           The       parcel        is     suitable             for     the        proposed           use
+
+                                      considering                 its     size,          shape,        location,               topography,
+
+                                      existence              of     improvements                and     natural            features;
+
+            Finding:                  We     find       that       the     subject             parcel         is    an     80-acre
+parcel            immediately                   adjacent           to     an     existing            40-acre            quarry         which
+is    owned            by     the       applicant             and       which         already         contains             the
+improvements                      (e.g.,         access           road,        power)          needed         to    operate            the
+subject            parcel.                 We    find,        as     is    more          fully       discussed             in    the     ESEE
+and     associated                    findings,              that       the      parcel         contains            a    significant
+quantity               of     high         quality           rock       that        will       provide         an       important
+source            of    supply             of    rock        to    meet        the       current        and        expected            future
+demand            that        will         occur        as    the       county           grows.         We’ find           that        there
+are     a    number              of     nearby          residences               whose         owners         have       expressed
+concern            about          this          application.                   We     find,       however,              that     these
+parcels            are        relatively                limited           in     number         and     are        already            located
+near        one        or     two       quarries             that       currently              operate         in       the     vicinity.
+We     further              find,          from       the     maps        and       photographs               of    the        site
+submitted               by       the       applicant              and     from        our      site     visit,           that     the        site
+contains               a partial                tree     and       shrub         border         that         the    applicant
+proposes               to     retain            and     supplement               with         additional            trees        and     earth
+berms,            that        will         help       screen         the       site        from      surrounding
+properties.                      We     further          find        from        those         same     sources            that        the
+topography                  of    the        site       also       acts        to     screen         the      property           and     the
+operations                  that        will       be    conducted               on      it    from     some         surrounding
+parcels.                We       find        that       the       site's         screening            potential,                the     fact
+of    the         existing              quarry          adjacent           to       the       site    and      another           existing
+quarry            nearby           to      the      southeast,             and        the      significant               quantity            and
+quality            of       the       rock       resource            present,             combine            to-make           this     site       a
+suitable               one       for        rock      extraction.                   We    conclude,            therefore,               that
+this        criterion                 has       been     met.
+
+                                                                          -39-                               Exhibit   "A" -             Page          39
+                                                                                                             Ordinance    614
+                                                                                                rt GO occ1617
+
+         (5)     Criterion:                       1202.02D
+
+                  D.           The       proposed               use       will       not        alter        the       character                  of
+
+                               the       surrounding                    area        in    a     manner          which
+
+                              substantially                       limits,            impairs           or       prevents                the       use
+                              of     surrounding                     properties                 for    the       permitted                   uses
+
+                               listed             in     the      underlying                  zoning        district;
+
+         Finding:             We     find          that         for      the        purposes.of                 this        subsection
+that     the    surrounding                   area         is     the         impact          area     considered                     in.     the
+ESEE     analysis            and     findings                for        ORS     215.296,              below.              We      further
+find     that     character                  of    that         area       will          not     be    altered              in        any
+significant             way     as       a    result            of      the     approval              of    this          application.
+We     find    that      the       surrounding                    area         contains           Stephens                Quarry             and
+that     in    the      general              vicinity             there         are       two     quarries.                     In      our       ESEE
+findings        and      our       findings                for       the       operating              standards                 for         the
+Mineral        Resource            District                  (Section           404.07           of    the       code)            we
+conclude        that         the     potential                  impacts             on    the     surrounding                     properties
+will     be    mitigated             by       screening                 and     other           mitigating                measures                such
+that     the    ultimate             impact             on      adjacent             properties                 will        be        minimal.
+We     also    find      that        a       significant                  factor           in    analyzing                the
+characteristics                 of       the        area        is      that        the       properties               in       the
+surrounding             area       are        already              in    an     area          that     contains                 an      existing
+quarry.         We      find,        as       a    consequence,                     that        approval             of     the         proposed
+use     will    not      substantially                       change            the       character              of    the         area         since
+the     character            already              includes              quarry           use.         Based          upon         the        above,
+and     the    findings            for        the       ESEE         and       compliance              with          the        approval
+criteria        for      Section              404,        which          we     incorporate                 herein,               we        find
+that     the    proposed             use          will       not        alter        the        character              of       the
+surrounding             area       and        further             find         that       the     proposed                use         will        not
+substantially                limit           impair          or      prevent             the     use       of    the        surrounding
+properties             for    the        uses          permitted               in     the       underlying                zone          because
+the     effects         of    the        proposed               use      will        be       mitigated              in     a     way        that
+
+                                                                        -40-                               Exhibit              "A"     - Page           40
+                                                                                                           Ordinance                  614
+                                                                                                     ri 60 cc1648
+makes     the        effect           on    the        surrounding                    properties                 minimal.               For     the
+preceding            reasons,              we     conclude               that         this      criterion                  has     been        met.
+
+         (6)         Criterion:                   1202.02E
+
+                    Ez.          The       proposed                use     is       appropriate,                  considering                  the
+
+                                 adequacy               of      public           facilities                and     services
+
+                                 existing               or      planned             for      the      area        affected              by     the
+
+                                 use;       and
+
+         Finding:                We     incorporate                  by        reference              our        findings              related
+to    statewide                Goals       11     and        12,     below.               We     find        that          electrical
+power     is        already           present              on      the     adjacent              site        and       that        no     other
+public         facilities               will          be     needed            for       the     operation                 of     the     quarry
+since     the        limited            water          needs         can         be      supplied            by     onsite             wells
+(under         statutory               exception),                  or     a     water         truck         and       a    water         storage
+tank.          We    find        that       septic              systems             similar           to     those          used         by
+residences                in    the     area          or     porta-~potties                    will        adequately                  serve        the
+sanitary            needs        of     the       employees                on       the      site.           We     further              find
+that     access            to    the       existing                quarry           is    by     a    private              access         road
+which     is        paved        and       designed                for     heavy          truck        use,         and          that     the
+access         road        connects              to    Walnut            Hill         Road      which            access           is
+appropriate                under        the       county's                comprehensive                    plan        and        zoning
+standards.                 Based        upon          the       above,           we      find        that        the       public
+facilities                and    services               are        adequate              for     the       proposed               use,        and
+that     the        proposed            use       is,        therefore,                  appropriate                given          the
+available            services.                   We     conclude,                therefore,                that        this        criterion
+has     been        met.
+
+         (6)         Criterion:                   1202.02F
+
+                     F.          The       use        is     or     can        be     made       compatible                  with        existing
+
+                                 uses           and     other            allowable              uses        in     the      area.
+
+                                                                          -4]-                               Exhibit   "A" -                   Page       :41
+                                                                                                             Ordinance    614
+                                                                                                              rk 60 ecc1619
+
+         Finding:               We    find        that       for        the     purposes                 of     this          criterion
+the     relevant          area        for       consideration                      is    the     area           1,000          feet        beyond
+the     subject        property,                which        is     also        the          area        determined                 to     be    the
+impact        area     for       our       ESEE        for     the       proposed              use        of       the        site,
+discussed           under        our        findings             for     Goal           5.     We        find        that       this        area
+includes        property              zoned          AF-10,         AF-20,              EF-40,           and       MR.         We     find
+that     our    ESEE        analysis              concluded              that           the    only           uses        allowed           in
+these     zones        which          potentially                 conflict               with        the        proposed              quarry
+use     are    three        groups           of      uses,        the        dwelling            group,              the       park        group
+and     the    habitat           group.              We    incorporate                   by    reference                  our       ESEE
+findings,           below.            We     find         further            that        the     general                 conflicts
+identified           in     the       ESEE        are      conflicts                involving                 noise,           vibration,
+dust,     water        and       visual           impacts.               In     the          ESEE        we     concluded                that
+the     impacts        of       the    proposed              operation                  are    not        sybstantial,                     and
+conditions           we     impose           substantially                     reduce          the         impacts             of     the
+proposed        use       on     existing              and     potential                 uses        in       the        impact          area.
+We     further       conclude              that        the     benefits                 of    the        proposed              use
+outweigh        the       adverse            impacts.               We        find       that        the        compatibility
+test     of    the     present             criterion              is     related              but        not       identical               to    the
+balancing           test        under        Goal         5 which            was        used        in    the        ESEE.            We
+interpret           “compatible”                as      used       in      this         section            to       mean        capable           of
+existing         together             where          no    conflict             prevents                 use       of     property              for
+an    allowed        use.            Under        this        interpretation,                        we       find        that        the
+proposed         use       is    or    can        be      made      compatible                 with           existing              uses        and
+other     allowed           uses        in      the       area.          This           finding            is      based        upon        our
+conclusions            discussed                in     the       ESEE        and        in    our        findings
+demonstrating               compliance                 with       the        operating               standards                 of
+Section        404.07           of    the       code,        and        our        findings              that        the proposed
+mitigation           measures               and      conditions                of       approval              of     the       proposed
+use     will     ensure          a minimal                level         of     adverse              impacts              on    adjoining
+property.            Based           upon       these         findings              and       conclusions,                     which        we
+incorporate            herein,             we     find       that        uses           in    the        various              zones        are
+capable        of    existing              together            and       that           no    conflict               from        the
+
+                                                                    -42-                                   Exhibit   "A" -                   Page      42
+                                                                                                           Ordinance    614
+                                                                    rx 60 wo 1620
+proposed      use    prevents        use     of    property         in      the    surrounding            area
+that   are    allowed    under         existing           zoning.           Accordingly,            we    conclude
+that   this    criterion        has     been       met.
+
+       (e)     Criterion:            1202.03           Conditions           of    Approval
+
+               In    approving         an    application            for      a    conditional            use,     the
+
+               decision-making               body       may     impose       conditions            to    protect
+
+               the    area     surrounding              the     proposed          use   and    to       preserve
+
+               the    basic     purpose           and     intent       of    the    underlying            zoning
+
+               district.            These        conditions         may      include,         but       are     not
+
+               limited        to,     the    following:
+
+               A.      Increasing            the       required        parcel       area      or    yard
+
+                       dimensions;
+
+               B.      Limiting            the    height,        size,       or    location         of
+
+                       buildings            and    structures;
+
+              ic.      Controlling               the    location         and      number      of    vehicle
+
+                       access       points;
+
+               D.      Increasing            the       road     width;
+
+               E.      Increasing            the       number     of     required        off-street
+
+                       parking         or    loading           spaces;
+
+               F.      Limiting         the       number,        size,       location         or
+
+                       lighting         of       signs;
+
+                                                        -43-                        Exhibit   "A" -              Page   43
+                                                                                    Ordinance    614
+                                                                                             vn BO A624
+                   G.          Requiring             fencing,               screening,          or       landscaping              to
+
+                            Protect             adjacent               or    nearby       property;
+
+                   H.          Prescribing              exterior              finish         for       buildings           or
+
+                               additions             thereto;
+
+                   I.          Designating              areas           and    prescribing               improvements                  for
+
+                               open       space;        and
+
+                   J.          Prescribing              a        time       limit    within            which       to     fulfill
+
+                               any     established                 conditions.
+
+                   Such        conditions            'may        be     set    forth       in      a    formal          affidavit
+
+                   executed           by     the       applicant              and     Yamhill           County.            Said
+
+                affidavit                 shall       be     recorded           in     the      deed       and      mortgage
+
+                records              of     Yamhill          County.
+
+         Finding:           We       find       that        this        provision          of      the     code         allows         us
+to   attach    conditions                  to    a    conditional               use       approval.                We     find       that
+we   have    appended            conditions                 to     our       approval         consistent                with     this
+section.       We        further           find       that         specific          types         of    conditions
+suggested      in        this        section          are        not        required       and         that    the
+imposition          of    such        conditions                  is    discretionary.                   We    have        used        our
+discretion          to    impose           conditions                  related       to    certain            aspects           of     the
+operation          (e.g.,        reclamation                 and        screening)            which       we       find
+important      to        protect           the       surrounding               area.          This       section           also
+allows,      but        does     not       require,              affidavits            for      conditions.                 Because
+of   the    applicant's               good       standing               in    the    community,               we    find        that
+formal      affidavits               for     the      conditions               are     not      necessary.
+
+                                                                   -44-                            Exhibit   "A" ~.Page                      44
+                                                                                                   Ordinance    614
+                                                                                                              ik GO rccAB22
+
+             (£)        Criterion:                   1202.05              General           Requirements
+
+                        Any       conditional                   use       authorized                 pursuant           to     this
+
+                          ordinance             shall           be     subject             to    the       following            additional
+
+                          requirements:
+
+                        A.         A     conditional                   use       shall          be    subject           to     the
+                                   standards               of         the       zoning          district           in    which        it        is
+
+                                     located             except           as       these        standards           have        been
+
+                                   modified               in     authorizing                    the    conditional                 use&.         No
+
+                                   modification                      of     a    zoning          district           standard               shall
+
+                                   have            the    effect            of      rezoning           the       property.
+
+            Finding:               We        incorporate                  by     reference             our       discussion                of    the
+AF-20           additional               approval               standards,                above.            We     find       that        because
+we     are       not       approving                a dwelling,                  the      dwelling-related                      standards
+of     the       AF-20         zone          (e.g.,        height,               setbacks,             etc.)        do       not     apply.
+We     further’            find        that         the    use         that         is    proposed            is    permitted
+conditional                  use        in    the        AF-20         zone,          subject          to     the       standards               of
+Section             404      of    the        code        and        the        additional             standards              of
+Section 403.07 of the code.                                            with regard to the latter,                                    we
+incorporate                  our       findings            related               to      ORS     215.296,           and       accordingly,
+conclude             that         the        additional                standards                are    met.         With        regard           to
+the     former,              we    incorporate                   our        findings             related           to    the       standards
+of     Section             404,        above,            and,        accordingly,                    conclude           that       the      404
+standards               are       met.         We        find        that        we      are     not       permitting              any
+dwellings               and,       therefore,                   the       dwelling-related                       standards            of
+Section             403.11         of        the     code        do       not       apply.            We    find        that       the      parcel
+is     80       acres        in    size        and        therefore                exceeds            the     minimum           parcel           size
+of     20       acres.            We     find        that        we       are      not      creating             any     new       parcels
+and,        therefore,                 the      lot       line         adjustment                and       depth-to-width
+standards               do     not       apply.            We        find        that       the       proposed           use       does         not
+have        a      "yard,"         a     term        in    our         code        that         is    associated              with
+
+                                                                            ~45.                             Exhibit   "A" -                    Page    45
+                                                                                                             Ordinance    614
+                                                                                                    aun 60 1623
+dwellings                or        other    structures                  that          we     are    not       permitting                  on    the
+site.          Accordingly,                      we     find       that          the       yard     setback             provisions                  do
+not     apply.                We     find        that        the       parcel          coverage             is     not     applicable
+because         the           parcel        is        greater           than          one     acre       in       size.            We     find
+that     the        paved            access           road        meets          all       the     access          requirements.
+Because         the           road        does        not        serve       a    dwelling              for       the     proposed              use,
+we     find     that           there         is       no     minimum             width        standard.                 However,               we
+find     from            our        view    of        the        site    that          the       road       has     adequate                 width
+for     the     proposed                  use,        is     appropriately                    constructed                 for       heavy
+quarry         use,           has     adequate               vertical             clearance,
+                                                                                          -has                      adequate
+turnaround                area        at    the        Stephens              Quarry,             has     adequate                 turnouts,
+
+and     is     rdélatively                 flat        and        does       not       exceed          the        grade           standard.
+We     find     that           the        80~acre            parcel          does          not     have       a    corner           where           any
+type     of     road               intersection                  occurs,          and        therefore,             the           clear-vision
+area     standards                   do    not        apply.            We       find        that      no     structures                  in
+excess         of        4-1/2        stories               (45    feet)          are        requested             as     part          of     the
+proposed            use        and,        therefore,                  the       height          standards              are        met.         We
+find     that         no       accessory               structures,                    swimming           pools,           kennels,
+trailers            or        manufactured                   dwellings                are     permitted             as     part           of    the
+proposed            use.             We    find        that        the       berms           and    perimeter              vegetation,
+that     we     have           required               as     a    condition,                 are    permitted              along             the
+edge     of     the           AF-20        zone.             For       all       these        reasons,             we     conclude              that
+the     accessory                   use    standards               of    this          section           are       met.            We
+incorporate                   our     findings               related             to    parking           and       loading              areas,
+above,         and,           based        on     those           findings,                conclude           that        the       off-street
+
+parking         standards                  are        met.         Based          on       all     these          findings              and
+conclusions,                   we     find        that           the    standards                and     limitations                    of     the
+AF-20         zone        are        met    by        the        proposed             use.
+
+         B.           YAMHILL              COUNTY            COMPREHENSIVE                    PLAN       CRITERIA
+
+         1.           Section              I.B~-RURAL                  AREA       DEVELOPMENT,                    GOAL        1    AND
+POLICIES            b,        c,     AND    d
+
+                                                                         -46-                                 Exhibit   "A" -                   Page      46
+                                                                                                              Ordinance    614
+                                                                                                             FILM    60        ce        1624
+             (a)      Qriterion:                         Goal      1 Goal            Statement
+
+                          To       provide           an    adequate               amount            of       land,        development
+
+                      areas              and        sites         to    accommodate                      those       uses       which             are
+
+                      customarily                        found         in    rural           areas           or     require             or       are
+                      better              suited            to     rural            locations,                without           compromising
+
+                          the       basic           goal        relating               to    urban           containment                 and
+
+                      orderly                 urban        development.
+
+         Finding:                    We       find        that         extraction                  of       rock     resources,                   because
+of     the         location              of    the        resource               and        because            it    is    a    land             use
+which         potentially                     conflicts                with       typical               urban        uses,          is       a    rural
+use.          We     incorporate                     herein            by    reference                  our       findings              related              to
+Goals         11,     12,           and       14,        below.             We      further             find        that       there             is     a
+shortage             of        extraction                 sites         in       the        county,           and     that          additional
+sites         are     needed              to       meet      current              and        projected               demand             for       rock.
+We     find,         therefore,                     that     by        creating              an     additional                 sour¢e             of        rock
+the     proposed                   use    will           meet      this          goal        by     providing              land          to
+accommodate                    a    use       customarily                   found           in,     and       better           suited             to,
+rural         locations.                      We     further            find        that           because           it    is       a    rural              use,
+it     does         not        conflict              with        any        policy           of     maintaining                 urban             uses           in
+urban         areas.                We    conclude,                therefore,                     that       this     criterion                   is        met.
+
+             (b)      Criterion:                         Policy         b
+
+                      All           proposed              rural         area         developments                    shall          be       based           on
+
+                      a        reasonable                 expectation                   of        the       demands        for          the       use        of
+
+                      such           land           or    facilities                 within             a    reasonable                 period              of
+
+                          time       and       no        large-scale                 development                    shall       be       approved
+                      without:
+
+                                                                             -47-                                   Exhibit   "A" -                         Page      47
+                                                                                                                    Ordinance    614
+                                                                                      rua 60 rsc1625
+                    1)          The      submission                  and       approval             of    a    layout          and       design
+
+                                concept,              with       provision                for       the       staging          and
+
+                                servicing              of       all       phases          of    the       development;
+
+                    2)          The      approval               of    all       federal             and       state        agencies
+
+                                relative              in    any       applicable                health,              safety         and
+
+                                environmental                    controls;                and
+
+                    3)         An     adequate              demonstration                      of the          financial
+                                capacity            and         responsibility                      of     the      proponents                 to
+
+                               complete               the       development                and       provide             for      operation
+
+                               and       maintenance                   services.
+
+        Finding:               We      interpret                the       language             of    this          comprehensive
+plan    policy           related           to    “rural              area       developments"                      to    apply        to
+‘residential-type                   developments                     on     rural         lands.              This       policy          was
+adopted        to    apply          to     subdivision-type                          developments                   on     rural         lands
+so    that     they       would          be     completed                 once       they       were          started.              The     term
+“rural        area developments"                           in    this          policy          is    not       intended             to     apply
+to    rock     quarries             like        the        one       that       is    the       subject             of     this
+application.               However,               in       the       event        this         policy          would        be      deemed
+to    apply     in       this       matter,            we       make        the      following                findings.
+         We    find       that        in      our      findings                for    Section             1208.02B             of     the
+zoning        ordinance,              we      discussed                in      detail          the       demand          for     the       rock
+resource        that       will          be     supplied              by       the    subject             property.                 We
+incorporate              those        findings,                 herein.              We   find,           as       we    discussed              in
+our    findings           for       Section            404.08,              that      the       applicant                has     provided
+sufficient           information                 to        allow          us    to    evaluate                the       compliance              of
+the    proposed           use       with        the        applicable                approval             criteria,               including
+this     criterion.                 We     further              find,          as discussed                   in     our    findings
+for    Section           404.07,           that        there          are       sufficient                 safeguards               in     the
+requirements              of     our       code        and       the        conditions               of       approval           we
+impose,        to    assure           compliance                 with          all    applicable                   governmental
+
+                                                                      ~48-                                Exhibit   "A" ~                  Page      48
+                                                                                                          Ordinance    614
+                                                                              etx 60 1626
+requirements               (including           federal           and      state        health,               safety              and
+environmental              controls)            and     financial               performance                   by        the
+applicant.            We     further        find        that       the        applicant,                C.        C.     Meisel,              is
+the    largest        producer        of        rock     in       the      county         and          is     a        long-time
+employer       in     the     county.            We     further            find        that.      C.        C.     Meisel              has
+spent    considerable               sums        to    provide            information                   related               to
+groundwater           and     rock    on        the     site.            We     find      these             to      be       adequate
+demonstrations               of    financial            capability               and      responsibility                            for       the
+proposed       use.          We    conclude,            therefore,               that        this           criterion                  has
+been    met.
+
+        (c)‘    Criterion:                Policy         c
+
+                All        proposed         rural        area         development                 and            facilities:
+
+                 1)          Shall    be        appropriately,                   if     not       uniquely,                    suited             to
+
+                             the    area        or     site       proposed             for     development;
+
+                 2)          Shall    not        be     located            in    any      natural                 hazard            area,
+
+                             such    as     a    floodplain                or    area        of        geologic                hazard,
+
+                             steep     slope,           severe           drainage            problems                   or     soil
+
+                             limitations               for    building             sub-surface                         sewage
+
+                             disposal,           if     relevant;
+
+                 3)          Shall    be        furnished               with     adequate               access                and       an
+
+                             adequate           individual               or     community                   water        supply,              if
+
+                             required;           and     shall           not     be     justified                      solely           or
+
+                             even    primarily               on      the      argument            that             the        land       is
+
+                             less    costly            than       alternative                better                sites          or      that
+
+           “seem             federal        or       state        aid      is    available                   in        the     form          of
+                             subsidized               water       supply          or    sewage               extensions                   from
+
+                             nearby        urban        centers.
+
+                                                              -49-                                Exhibit   "A" -                        Page          49
+                                                                                                  Ordinance    614
+                                                                                                      vn GO exe 627
+
+         Finding:                  As    with          our    previous             findings,                 we      interpret                  the
+term        "rural           area       development"                   in    this        policy            to     apply         to      rural
+residential                  developments,                   and       find       and       conclude              that         this      policy
+does     not           apply       to    the       proposal             before           us.          However,             in    the            event
+the     policy           would          be    deemed          to       apply,          we      make        the       following
+findings.
+         We        find       that       in       our    findings                for     Sections               1208.02B              and        D,       we
+found        that        the       subject             site       can       satisfy            a     demonstrated                need            for
+rock     in        the       county.              We    have       also          concluded             in       our       findings               that
+the     location              of    the       subject             property             next          to‘an        existing              quarry
+site     makes           this       site          appropriate                for       the          proposed             development.
+We    further            find       that          access          to    the       subject             property             will        be        from
+the     existing              private             driveway             on    the       adjacent              existing             quarry.
+We    incorporate                  herein          our       findings             under             Goals       11       and    12.             We
+find     that           the    necessary                access          and       services             are.          already         provided
+to    the         adjacent          quarry             and    that          these        services               may       be    used            by    the
+proposed               quarry,          or    easily          extended             to       the       proposed             quarry.                   We
+find     that           the    subject             property             is       not     located             in      a    natural               hazard
+area,        and        that       the       proposed             use       of    the       subject             property              does           not
+involve            the       building             of    structures                or     the         need       for       subsurface
+sewage            disposal.              We       find       that       adequate               water         for         the    proposed
+use     can        beavailable                    from       an    on-site             well          (under          statutory
+exemption)               or    that          adequate             water          can     be         trucked          in    and        stored              on
+site.             We    further          find          that       the       proposed                site     does         not    have            any
+of    the         limiting          factors             listed          in       part         (2)     of     this         standard.                   We
+conclude,               therefore,                that       the       elements             of       this       criterion               are          met.
+
+            (4)         Criterion:                 Policy d
+
+                        No    proposed             rural          area       development                    shall         require               or
+
+                        substantially                   influence                the     extension                of      costly
+
+                        services             and       facilities                normally             associated                with            urban
+
+                        centers,             such       as    municipal                 water         supply             and    sanitary
+
+                        sewerage             or    power,          gas       and        telephone               services,               nor
+
+                                                                        -50-                                 Exhibit             "A"        -    Page          50
+                                                                                                             Ordinance                 614
+                                                                                            ru 60 cc1628
+                         Shall          it      impose           inordinate                additional                 net       costs        on
+
+                         mobile,             centralized                   public           services,               such        as     police       and
+                         fire       protection,                   school           busing              or    refuse            collection,
+
+             Consistent                 with        our         findings           above,             we      interpret              the
+     comprehensive                 plan         term        "rural          area        development"                      not    to        apply    to
+     the    proposed           use        under            consideration.                        However,             in       the     event       this
+     policy        would       be       deemed             to    apply,          we     make           the     following               findings.
+
+             Finding:               We       find          that       the    proposed                 use      will        allow           for
+     expansion           of    the        existing               quarry.              We     find           that      the       existing
+     quarry        has     been         in      use        for    over       20       years            and     the        services           to    the
+     existing         quarry            are       already             in    place.               We     find        that        the        proposed
+     use    will      not      require              the         extension             of     any        urban         services              and    will
+     not    create         any      appreciable                   demand           on       other           mobile,            centralized
+     public         services.                We     incorporate                  by     reference                  our     findings              under
+     state-wide            Goals          11,       12,         and    14    in       this        regard.                We     conclude,
+on
+
+     therefore,            that         this        criterion               is     met.
+
+              2.         Section             I.F--Economic                   Development,                      Goal        1    and
+     Policies         a,and         b
+
+              (a)        Criterion:                    Goal       Statement
+
+                         To    maintain                a    rate       and       pattern               of     economic           growth
+
+                         sufficient                   to    prevent          recurring                  high         levels          of
+
+                         unemployment                      and    under-employment                            in     the       county,
+
+                         balance              the      real       property                 tax        base     of        the    various
+
+                         cities,             and       strengthen                local           economic             bases.
+
+             Finding:                In      our       findings             for       Section                1208.02B,           we        concluded
+     that    approval              of     this         application                 would          allow            the     subject
+     property         to      be    mined           for         its    high        quality              rock,         which           is    needed
+
+                                                                            -51-                                    Exhibit   "A" -—               Page   51
+                                                                                                                    Ordinance    614
+                                                                                              ain 60 cc1629
+to    support         development                in     the     area.             We     incorporate                         these
+findings        herein            by      reference.                We      find        that        such           support              of
+development               contributes             to     the        support             of        economic              development
+that     is    the        intent          of    this     policy.                 We     further               find           that       although
+this     site     is       currently             needed,            it      will        provide               a    supply              of        rock
+into     the     future           and      thereby           assist          in       providing                   employment                     for
+the     applicant's               workers         in     the        future            and,         therefore,                     contribute
+to     economic           growth          and    employment                 in    the         county.                  We     conclude,
+therefore,            that        this         criterion            has      been        met.
+
+         (b)      Criterion:                    Policy         a.                                        ,                                  -
+
+                  Yamhill              County          will,        in      cooperation                      with       the        cities,
+
+                     the       local       chambers            of     commerce                and       affiliated
+
+                  industrial                   Promotion            groups,             and        State           agencies
+
+                  concerned                with        State        and      regional               economic                  development,
+
+                  encourage                a    diversified                 employment                  base,               the
+
+                  strengthening                   of     trade            centers,                and        the       attraction                     of
+
+                  both           capital         and     labor            intensive                enterprises,
+
+                  consistent                   with     the     needs            of     each        community                     and           the
+
+                  county             as    a    whole.
+
+         Finding:               We      find     that        this        policy          requires                  the        county              to
+"encourage"               certain          actions,            but        that         "encouraging"                         action              does
+not     create        a    mandatory             approval             criterion                   that        must           be    met           for       us
+to     approve        the        application.                  We        further          find,              however,               that          even
+if     this    were        a    mandatory              approval             criterion,                  that,           as        discussed
+under     the        findings             above        for     the        Economic                Development                     Goal
+Statement         and          statewide          Goal         9,     below,            approval                  of    this
+application               will         foster     economic                growth             in    the        area,           which              will
+allow     the     economic                benefits            intended             by    this           policy.                   We
+incorporate               these         findings         herein             by     reference.                      We        conclude,
+
+                                                                     -§2-                                    Exhibit   "A" -                      Page          52
+                                                                                                             Ordinance    614
+                                                                                                                         rin 60 61630
+       therefore,                    that           this           criterion                      is        not     applicable,                     but        that         in        the
+rama
+
+       event         it        is        deemed               to    apply,                  it        is     met.
+
+                    (c)         Criterion:                          Policy                  b
+
+                                b.                Yamhill           County                  will            encourage              economic                   development
+
+                                projects                      which           do       not            conflict               with        the        predominant
+
+                                 timber                 and        agricultural                             character              of     the        county.
+
+                Finding:                           We     find          that           this             policy           requires               the           County         to
+        "encourage"                      certain               action,                 but            that         "encouraging"                     action            does
+       not     create                a    mandatory                      approval                     criterion               that        must           be     met         for        us
+       to     approve                the           application.                             We        further            find,           however,               as      is        more
+        fully        discussed                      in        our        findings                     for         Statewide              Planning               Goals             3
+        and    4,         that           approval                  of     this              application                      will        not        conflict                with
+        farm    or         forest                  practices,                     and           consequently                   with           the        timber             and
+        agricultural                      character                      of       the           county.                 In    addition,                  we     find         that
+       the     proposed                   use            is    an        interim                  use            that    will        use        a    gradually
+        increasing                   area.                We       find           that            significant                  portions                   of    the         site
+       will     remain                   available                  on        a    decreasing                       basis           for       timber            and
+        agricultural                      uses,               such        as       the            managed               tree        stand           in        the     middle
+       ‘of    the         80-acre                  site.            We        further                      find     that        the       site            shall        be
+        reclaimed               to        farm/forest                         uses              upon             completion              of     the           rock
+        extraction                   and           that        this           will              ensure             that       the        site        will
+        contribute                   to           the     agricultural                            and            timber       economy.                    We    conclude,
+        therefore,                   that           this           criterion                      is        not     applicable                  to        the
+        application,                      but            that       even           if            it        is,     it    has        been        met.
+
+                    3.              Section               I.H--Industrial                                   Development,                  Goal            1    and
+        Policies               a,        b,        c,     e,       g,     and           I
+                As         a     general                  matter,                 we        interpret                   the     Goal           Statement                of        this
+
+        section            of        the           Comprehensive                            Plan            to     apply        only           to     industrial
+        uses    within                   the            urban           areas           of        the            county.            We     find           that        the         use
+        before            us        is        a    natural               resource                      use        that       has     been           requested                    to    be
+
+                                                                                                  -53-                                    Exhibit               "A"     - Page              53
+                                                                                                                                          Ordinance                   614
+                                                                                                   Fuk 60 1634
+
+located                 in     a natural               resource            district              included             in    Section           400        of
+the    Zoning                  Ordinance.                    As    such,        we     find        and      conclude          that        these
+goals           and          policies             are        not    applicable               to       the    present          application.
+However,                 in       the     event          they       would         be    deemed             applicable,             we     make
+the     following                      findings              for    the     Goal        Statement                and       policies           a,     b,
+c,    e,        g       and       i.
+
+            (a)              Goal       Statement
+
+                             To     concentrate                   industries            of       similar          types,          service
+
+                             needs,          and       performance                characteristics                      within
+
+                             designated                areas        of     each        of     the       existing            urban        centers;
+
+                             to     encourage                adequate            land       for       new    industrial
+
+                             development                 within           urban        growth           boundaries;               to
+
+                             encourage               the       relocation              of    existing             industries              from
+
+                             undesirable                 locations              in     order          to    eliminate             land        use
+
+                             conflicts;                 to     attract          new     industries                in       accordance               with
+
+                              the      need       to     achieve           a more           balanced             local       property               tax
+
+                             and       employment                 base,     while           maintaining                a    high       standard
+
+                             of     environmental                   quality;            and        to      protect          the    stability
+
+                             ‘and      functional                 aspect        of     industrial                areas       by    protecting
+
+                             them       from       incompatible                   uses.
+
+            Finding:                    We     find          that     the        first       portion             of    this       goal        does
+not    apply                 to     this       application                 because,              as      we discussed               in    our
+findings                 for        the      Rural           Area     Development                  Goal,         the       proposed           quarry
+use        is       a    rural          use,       and         concentration                  in      an    urban          center        is        not
+an    appropriate                       consideration                     for     this        application.
+            We          find        that       the       second           portion           of     this      goal          involves
+“encouraging"                          actions               (which       does       not      create         a    mandatory              approval
+criterion),                       and     also          involves           development                  within         urban       growth
+boundaries                     which         is    not         relevant           to    this          application.                 We     find,
+
+                                                                            -54-                                 Exhibit   "A" -                   Page       54
+                                                                                                                 Ordinance    614
+                                                                                              run 60 cc 1632
+therefore,              that       the       second         portion           of        the     goal        is       not     applicable
+to     this    application.
+         We    find          that       the     third        portion            of       this        goal         also       involves
+"encouraging"                  actions,          which           does        not        create         a    mandatory                 approval
+criterion.                We      find       that      even        if      this         were     a     mandatory                approval
+criterion            it      would       not     apply           to     this        application                  because              this
+portion        of       the       goal        involves            relocation              of     existing                  industries
+from     undesirable                locations               to     avoid        land          use      conflicts.                     Since        we
+have        found,        in      our     findings            for       Rural           Development                  Policy           c     and
+our     findings             for    Section            1202.02,              which        we     incorporate                    by
+reference            herein,            that     the        subject           property               is     a    very        appropriate
+location           ‘for      the    proposed            use,          this         is    not     an        undesirable
+location.               We     find,         therefore,               that     the        third            portion           of       the        goal
+is    not     applicable                to     this     application,                     but     in        the       event        it        is
+deemed        to     be      applicable,               it    is       met.                                  :
+         We    make          the    following               findings              for     the        fourth           portion               of    the
+goal,        involving             the       attraction               of     new        industry            while          maintaining
+a    high     standard             of    environmental                     quality,             in     the        event         it        is
+deemed        to     apply.             We     have     concluded                  in    our     findings                for      the
+Economic           Development                 Goal     Statement              and        for        statewide               Goal           9,
+that     the       proposed             use     of     the       subject            property               will       foster
+economic           growth          consistent               with        the        intent        of        this       portion               of    the
+goal.         We     also         concluded            in    our        findings               for     Section             404.07C               and
+for     the    Goal          Statement           and        the       policies            of     the        Air,       Water              and
+Land     Resources                Quality        Goal        of       the     Comprehensive                       Plan,         and         our
+findings           for       statewide           Goal        6,       that     with           the      methods             of     operation
+proposed           by     the      applicant            and       the        conditions                of       approval              that        we
+will     impose           on      the    use     of     the        property,              adverse                impacts          on
+environmental                  quality          will        be    minimal,               if     any.            We    conclude,
+therefore,              that       this       portion            of     the    criterion                   has       been       met.
+         The       fifth          portion        of     the        goal       involves               the        protection                  of
+industrial              areas       from        incompatible                  uses.             We     find          that       if        this     is
+deemed        to     be      an    applicable               criterion,                  that     it        would       be       met,
+since,        as     is      discussed           in     the        findings              relating               to    the       program            we
+
+                                                                      -55-                                  Exhibit             "A"       - Page        55
+                                                                                                            Ordinance                 614
+                                                                                                   FILE 60 te L633
+
+are    adopting             under            our       Statewide              Planning            Goal        5    analysis,                we     are
+approving            the        use         of    the       subject           property            ina         way     that           provides
+some    protection                   for         the    proposed              use,     but        also        some        protection
+for    surrounding,                      potentially                impacted           uses.            We        conclude,
+therefore,             that          this         portion           of    the        criterion            is       met        to     the
+extent         that        it       is      applicable.
+
+         (b)         Criterion:                    Policy           a
+
+                     Heavy           industrial                uses        with       seasonal
+                                                                                             or                    high        nuisance
+
+                     characteristics                          will       be     encouraged               to       locate            or ~
+
+                     relocate                only       in     or       immediately               adjacent               to    urban         areas
+
+                     where           all         required           services           are        available,                  well         removed
+
+                     and        shielded               from     existing              or     projected               residential
+
+                     development;                      and     conversely,                  that    prime           heavy
+
+                     industrial                   sites        will       be     identified               and       protected                from
+
+                     encroachment                      of     other       urban        uses        pending            acquisition
+
+                     and        development.
+
+        Finding:                    We      find       that     the        first       portion            of       this        policy
+involves         "encouraging"                         actions,           which        does        not        create           a mandatory
+approval         criterion.                       We    find        that        even        if    this        were        a    mandatory
+approval         criterion                   it    would        not       apply        to        this     application,
+because         this        portion               of    the     policy           involves            location                 or
+relocation             of       heavy            industrial              uses        with        high     nuisance
+characteristics                      to      urban          areas        or     adjacent           to     urban           areas            well
+removed         from        residential                     development.                   We     have        found,           in     our
+findings         for        Rural            Development                 Policy        c     and    our           findings            for
+statewide            Goals            11,        12,    and     14,       that        the        proposed            use       is     a     rural
+use    and      is     in       a    very         appropriate                 location.             We        have        also        found         in
+our    findings             that            with       the     methods           of    operation                  proposed            by     the
+applicant             and       the         conditions              of     approval              that     we       will            impose         the
+proposed         use        will            have       only     minimal              adverse            impacts           on
+
+                                                                         ~56-                             Exhibit   "A" -                    Page        56
+                                                                                                          Ordinance    614
+                                                                                                                FILM        60     cc L634
+
+        surrounding               properties,              that        this        use     will        not        create           the
+        nuisance         to       which        this       portion           of     the     policy           is         directed.               We
+        conclude,            therefore,              that       the       first      portion               of     the        policy           is     not
+        a   mandatory             approval           criteria,              but     to     the       extent             that        it    is
+        deemed         applicable              to    this       application,                   it     is    met.
+                We      find       that        the     second          portion            of    the        policy             involves             the
+        protection            of       heavy        industrial              uses     from           encroachment                   of     other
+        urban        uses.         We     find       that       our       approval             does        provide               protection
+        for    the      site       as    part        of    the       balancing             that        we       have         done        in    our
+        Goal     5     analysis          and        the    program           to     protect            the        resource               that        we
+        have    developed,               as     discussed              in    our     ESEE           findings                and. findings
+        for    compliance               with        the    Statewide               Planning            Goals.                We    conclude,
+        therefore,            that       the        second        portion           of     the       policy             has       been        met.
+
+                 (c)         Griterion:                Policyb
+
+                             To    the       greatest            extent          possible,             industrial                  areas           will
+comm,
+
+                             be    located            within         urban         growth           boundaries.                     Those
+
+                             industrial              areas         located          outside            urban            growth
+
+                             boundaries               will      be     compatible               with         the        industrial
+
+                             development               goal       and       will     be        located            where           they        can     be
+
+                             adequately              served          by     necessary               major         utility              lines,
+
+                             including              electric           power        substations                   and         transmission
+
+                             lines,           trunk       sewer        lines,            trunk        water            lines,          and     where
+
+                             appropriate,                 trunk        gas       lines.
+
+                Finding:                We     find,       as     we      discuss          in       our     findings                for       the
+        Rural        Development               Goal,        that       the       proposed            use         is     a    rural        use,        and
+        appropriate               at    its     proposed             rural         location.                In         our       other
+        findings,            we    have        found       that        the       proposed            use        meets            the
+        Industrial            Development                 Goal       and     applicable                policies.                 and     we
+        incorporate               these        findings           herein.            We        also        incorporate                   by
+
+                                                                            -ST-                                 Exhibit   "A" -                    Page    57
+                                                                                                                 Ordinance    614
+                                                                                               rua 60 eA B35
+reference        our     findings              under          Goals           11    and        14    herein.             Based           on
+all     these    findings,              we     conclude                that        this        criterion              has     been        met.
+
+         (d)     Criterion:                  Policy           c
+
+                 Industrial              uses          which           are     incompatible                    with      surrounding
+
+                 residential                 or       commercial               development                 and        cannot            bear
+
+                 the     cost       of       abating              their        incompatible                    characteristics,
+
+                 whether           related             to    performance                   or       appearance,               will        be
+
+                 encouraged               to      locate           or     relocate              only       within            urban
+
+                . centers,          where             contact           with        residential                 development                    is,
+
+                 or     will      be     at       a    minimum,              and         where       all       services             are
+
+                 immediately                 available.
+
+         Finding:           We     find        that         this        policy            involves             "encouraging"
+actions,        which       does        not       create           a mandatory                  approval              criterion.
+We    find     that    even        if    this          were        a    mandatory               approval              criterion                it
+would     not    apply       to     this          application                  because,              as    we     have        found,
+the     incompatible             characteristics                        of     the       proposed              operation                will
+be    mitigated        by    the        applicant                 by    virtue            of    the       applicant's
+methods        of'‘operation             and          our     conditions                  of    approval.               We
+conclude,        therefore,              that          this        criterion               is       not    a    mandatory
+approval        criterion,              but       it    is        met     in       the     event          it     is    deemed
+applicable.
+
+         (e)     Criterion:              _ Policy            d
+
+                 Industrial              uses          which           are     compatible                 with        surrounding
+
+                 residential                 development                  and       are        willing           to    bear         the
+
+                 cost       of    maintaining                     high       performance                  characteristics
+
+                 and     attractive                   site        and     building              layout          and     design,
+
+                 will       be     encouraged                 to       locate        or        relocate           in     designated
+
+                                                                   -58-                               Exhibit               "A"     - Page           58
+                                                                                                       Ordinance                  614
+                                                                                                   aux 60 :cc4636
+                      industrial             parks        and          that       such        parks           and    their               staged
+
+                  development                  will      be       subject               to    planned           unit        development
+                  agreements.
+
+         Finding:             We     find       that        this         policy              involves           "encouraging"
+actions,         which        does        not      create          a     mandatory                 approval           criterion.
+We     conclude,         therefore,                that       this           is    not        a    mandatory               approval
+criterion.
+
+         (f)      Criterion                   Policy          e
+
+                  Industrial                 uses       will       be        located              so    that        adequate               buffer
+
+                  space         is      provided           between                incompatible                  land        uses.
+
+         Finding:             In     our      findings             for        Section              1202.02,           we        found           that
+the     proposed         use       is     compatible               with           uses        in       the     surrounding                    area.
+Consequently,             we       find       that       this           criterion                 is    not     applicable                    to
+the    proposed          use.           However,            in     our         findings                relating            to    buffers,
+discussed         in     our       findings             for       the        Operating                 Standards            of
+Section         404.07        and       in    our       ESEE       analysis,                  we       concluded            that           the
+buffers         that     will        be      provided             by     the       proposed              use        will        be
+adequate         to    minimize              the     impact             of    the        proposed              use    on
+surrounding            properties.                   Based         upon           these           findings,           we        find          that
+even     if     this     criterion              is      applicable                 to        the       proposed        use,              it     has
+been     met.         Based        upon       these         findings,               we        conclude              that        this.
+criterion         is    met.                                                                                                         :
+
+         (f)      Criterion:                  Policy          g
+
+                  Agricultural,                    forestry              and       mineral              resource-oriented
+
+                  industry              will       be    accommodated                        in    areas        close           to        the
+
+                  resources               utilized,               provided               that          such     industrial                    uses
+
+                  are     compatible                 with         any        nearby           urban          development,                     city
+
+                                                                   -59-                                  Exhibit   "A" =                      Page     59
+                                                                                                         Ordinance    614
+                                                                                       rue 60 4637
+
+                       water           supply          and     sewerage           are     not        required,              and      waste
+
+                       discharges                  constitute             no     threat         to    the        environment,
+
+        Finding:                   We       find       that       this      proposed           use        is     for     the
+extraction               of    a       mineral          resource,               which     by       necessity             is    located
+at   the         source        of       the        resource.              We     further           find        that      the      proposed
+extraction               does          not       require          on-site         public           water         or    sewerage,             and
+that    there           will           be     no      waste       discharges             threatening                  the
+environment.                   We       incorporate                 our     findings           under           statewide
+Goals       6,     11,        12       and       14    herein.            We     also     find        that        there         is    no
+nearby           urban        development,                   although            there        is     some        nearby        rural
+residential                 use        with        which       we    have        found        in     our       findings           for
+Section           1202.02F              that          the    proposed            use     will        be     compatible.                 We
+conclude,              therefore,                  that       this       criterion            has     been        met.
+
+           (g)         Criterion:                     Policyi
+
+                       Industrial                  development              will        utilize            the    transportation
+
+                       system           in       an    efficient            and    safe        manner            and     reduce
+
+                       energy           consumption                 by    identifying                for       industrial
+
+                       development                    areas       with      alternative               transportation
+
+                       opportunities,                       and     by     locating           employment               opportunities
+
+                       close           to    public           transportation                  and,        where        appropriate,
+
+                       in     community                areas.
+
+        Finding:                   We        find      that       the      location           of     this        proposed            use     is
+largely           dictated              by       the      location          and    availability                   of     the      mineral
+resource           that           it    will          extract         consistent              with        our     findings
+related           to     policy             g,     above.           We    also     find        that         the       Comprehensive
+Plan    Goal           for     Mineral                and    Aggregate            Resources               requires            the
+protection               of    mineral                resource           sites.          In    making            the     necessary
+balance           between              these          goals       and     policies,            we     give        the       higher
+priority           to       locating               mineral           extraction           sites           at     the     best        suited
+
+                                                                         -60-                              Exhibit   "A" -                 Page    60
+                                                                                                           Ordinance    614
+                                                                                                 rir 60 xe 1638
+sites,            as    long       as       such        a    location                  does        not        result           in    an     unsafe
+transportation                     situation.                      We       find        this          balance            is     met       for        this
+property               because             the    site           is        well        suited            for     the       proposed              use        and
+has    no         significant                traffic               safety              problems               associated                 with        it.
+We     incorporate                 our       findings                  under           Goal        12,        below,           in     support              of
+this       finding.                We       further              find           that        opponents               in     the        application
+attempted               to       show       that        the        truck           access             to      Walnut           Hill       Road        was
+unsafe           by     using          a    videotape.                      We     find          that         the     tape          is    not
+persuasive                  for    a       number           of     reasons.                  First,            the       video           itself
+seems        to        have       been       taken           with           a    magnified                 lens       and       the       "near
+miss"           is     difficult             to     judge.                  Second,              we      have       reviewed              maps        at
+the     area'‘and                actually           visited                 the        site.             We    find        that          the     Walnut
+Hill       access            point          has     a       broad           paved           surface            and       provides               an
+adequate               view       for       turning.                   Third,           the        access           has        been       in     use        for
+a    number            of    years          serving              the        existing               quarry           and        can       continue               to
+be    used           for     the       existing              quarry.                   We    were          not      presented               with           any
+evidence,               other          than       the        video,               that       the         existing              use       has     caused
+unsafe            traffic          conditions.                         For        all       these          reasons,             we       find        the
+transportation                     access           to       be        safe.            We       conclude,               therefore,                  that
+this       criterion               has       been           met.
+
+           4.           Section             II.A--Agricultural                                Lands,           Goal        1    and       Policies               a
+and    h     and        Goal       2,       Policies               a       and     b
+
+            (a)         Criterion:                  Goal           1       Goal        Statement
+
+                        To       conserve           Yamhill                 County’s               farmlands               for        the
+                        production                 of       crops           and         livestock              and        to     ensure          that
+
+                           the    conversion                  of       farmland               to      urban          use       where           necessary
+
+                        and       appropriate                    occurs            in       an     orderly             and      economical
+
+                        manner.
+
+           Finding:                We       find,           as        is    discussed                 in      our      findings                for     the
+Statewide               Planning             Goals,              that           the      subject              property              primarily
+
+                                                                                “61-                                 Exhibit   "A" -                   Page          61
+                                                                                                                     Ordinance    614
+                                                                                               FILM       60        ng         1639
+
+contains            Class        IV,        V     and      VI       farmland             and        is     currently                 being         used
+for     unmanaged              pasture,               an      untended              grape           patch           and        some       timber
+production.                 We      further              find        that         while         the        proposed                 use     of     the
+subject         property               will          require             that       the     property                 be        used       ona
+declining            basis          for         the      production                 of    crops            or       livestock               as
+mining         is    developed                  on     site,         it       will       not        prevent               such       uses         on
+adjacent            lands.             We       find       that          the      topsoil             will          be     saved          and
+reused         as    part        of        the       reclamation                  of     the        property               to       farm/forest
+uses.         We     also        find           that       the       rock         which         will           be    extracted                   from
+the     site        will       be      available                for       uses         that         support               and       foster
+agricultural                uses,           including                the       production                  of       crops           and      -
+livestock.                We     find,            too,         as    we       have       discussed                  in     our       other
+findings,            that        this           site       is       well       suited           for        the       proposed               mineral
+use.      We        find,        in        balancing                the       other       goals            and       policies               of     the
+Comprehensive                  Plan         with         this        goal,          that        this           goal        does        not
+prohibit            the     use        of        farmland            for       rock       uses            because              that       would          be
+inconsistent                with           state         statute.                 Rather,             the       goal           requires            us       to
+conserve            farmland;               that         is,        not       needlessly                  waste           or    convert
+farmland            without            appropriate                   reasons.               We        find          that         the      rock         on
+the     site        is     significant                   and        in    balancing                 the        need        for        rock        and
+the     need        to     conserve               farmland,               we      conclude                that        in       this
+particular               instance,               the       balance              favors          protection                     of    the         rock
+resource.                Our     balancing                 decision               is     aided            by     our       findings               and
+conclusions               that         the        rock         use       is    an      interim             use        and        that       the         site
+will     be     fully          reclaimed                 to     farm/forest                 uses.               We        further            find
+that     the        proposed               use       does       not        convert          agricultural                         land       to     urban
+uses,     as        we    have         concluded                that          the      rock         use        is     a    rural          use.           For
+these     reasons,               we        conclude             that          this       criterion                  is     met.
+
+         (b)         Policy            a
+
+                     Yamhill               County           will         provide           for           the    preservation                      of
+
+                     farmlands                   through            appropriate                 zoning,                  recognizing
+
+                     comparative                      economic             returns             to        agriculture                  and
+
+                                                                           -62-                                 Exhibit"A"  - Page                            62
+                                                                                                                ORdinance  614
+                                                                                                              rit 60 scc1 640
+
+                  alternative                   uses,            changing               ownership               patterns               and
+
+                  management                   practices,                   changing            market               conditions                  for
+
+                  agricultural                    produce,                  and     various               public        financial
+
+                  incentives.
+
+        Finding:                We       find     that           this        policy            is        implemented               through
+the    zoning         district             designations                      for        farmland               in     the        county            and
+the    zoning         requirements                 regulating                      the        use        of    such     land,               and        that
+therefore         this          criterion              is        not        directly            applicable                   to    an
+individual            application                 such           as     the        one        before          ‘us.      We        find           also
+that    elements            of       these        zoning              ordinance                requirements                      have        been
+considered            as    part          of    our     evaluation                      of     this           application,                   and
+that    we      have       found          that     those              requirements                       have        been        met        to     the
+extent       that        they        are       applicable.                     We       conclude,                therefore,                  that
+this    criterion,               to       the     extent              that         it     is        applicable               to    this
+application,               has       been       met.
+
+         (c)      Policy             h
+
+                  No       proposed             rural            area        development                      shall         substantially
+
+                  impair             or     conflict              with         the        use        of       farm     or        forest            land,
+
+                    or     be     justified              solely               or    even        primarily                   on    the
+
+                    argument               that       the        land         is    unsuitable                   for        farming               or
+
+                    forestry
+                           or,                    due        to        ownership,                   is    not        currently               part         of
+
+                    an     economic              farming               or     forestry               enterprise.
+
+        Finding:                 Consistent              with           our        findings                above,           we    interpret
+“yural         area      development"                  in        the        Comprehensive                       Plan        to    refer            to
+residential-type                     developments                      on     rural           land.             Accordingly,                      we
+conclude         that       this           policy           is    not         applicable.                       However,               in    the
+event     it     would          be       deemed        applicable,                       we    make           the      following
+findings.
+
+                                                                        -63-                                    Exhibit   "A" -                        Page    63
+                                                                                                                Ordinance    614
+                                                                                           run 60 1644
+        We         find     that          in     our       findings                for    Statewide                    Planning            Goals             3
+and    4,     we     found           that        the       proposed                use    will            not         significantly
+adversely            effect            farm          or    forest            uses.          We        conclude               that        because
+the    proposed             use        will          not        have     a     significant                      adverse           effect           on
+farm    or         forest        uses,           that           it   will          not     impair               or     conflict            with
+farm    or         forest        uses           as    contemplated                   by     this               criterion.                We
+further            found        in     our       ESEE           analysis            and     in        our        findings             for
+Section            1208.02           that        the       subject             property               is        well        suited         for      a
+quarry            given     the        location                 of   the       adjacent               existing               quarry           and        the
+high    quality             and        quantity                 of    rock,         and     the           ability            to     mitigate
+any    adverse             impacts              on    surrounding                   properties.                        We     incorporate
+this    analysis                hereiri.              We        further            find     that               the     site       will        be
+fully        reclaimed               to     farm/forest                  uses.             We        find        that        these          reasons
+for    choosing             to       approve              the        application                 do       not         rely     on     the
+unsuitability                   or     nonuse             of'    the     property                for           farming.             We
+conclude,            therefore,                  that           this     criterion                   is        met.
+
+            (D)      Goal         2,      Policies               a    and      b
+
+                     2.         To     conserve                 Yamhill            County's               soil         resources              in     a
+
+                     manner            reflecting                    their         suitability                       for     forestry,
+
+                     agriculture                     and        urban        development                       and     their        sustained
+
+                     use        for       the        purposes            designated                   on        the        county        plan       map.
+
+            Policy         a.
+                     Yamhill              County            will        continue                to    preserve                those         areas
+
+                     for        farm           use     which           exhibit            Class            I    through             IV soils             as
+
+                     identified                  in        the       Capability             Classification.                          System             of
+
+                      the       U.S.         Soil          Conservation                   Service.
+
+                                                                            -64-                                     Exhibit         "A"      »     Page         64
+                                                                                                                     Ordinance             614
+                                                                                   rie BO rxce4642
+         Policy            b.
+
+                      Yamhill             County           will       continue            to    support                ASCS        soil
+
+                      conservation                   measures            and       SWCD        best        management
+
+                      practices                designed           to     protect           and        improve            forest               and
+
+                      agricultural                    land       productivity                  and        to.    prevent
+
+                      unnecessary                   losses        through            excavation,                  stripping,
+
+                      erosion             and       sedimentation.
+
+         Finding:                We       find       this        goal        and    policy            statements                   are
+designed
+       to                  conserve             county           soil        resources              for         the     proposed
+designation                on    the        county's             Comprehensive                  Plan            map,     to        preserve
+areas       of    farm          use       which        exhibit           soil       classifications                           I    through
+Iv,     and      to    support              soil       conservation                 measures               and         the        best
+Management             practices                to     protect           and       improve            forest            agricultural
+
+land     productivity.                         We     find       that        these       goals           and      policies                  must     be
+read     in      conjunction                   with       the     other         goals          and       policies                 of     our
+comprehensive                   plan       which,           among        other        things,              direct            us        to
+protect          significant                   mineral           and     aggregate              resources.                        We     further
+find     that         these          goal       statements               and       policies              must          also        he       read     in
+conjunction                with       state          law        which        permits           mineral            and        aggregate
+uses     to      occur          on    farm          and     forest           lands.            We     find        that            in     our       ESEE
+analysis          below,             we    have        balanced              competing              interests                of        soil
+resources             and       the       uses       of.those            soil       resources                   support                (e.g.,
+forestry          and       agricultural),                       with        the    need        to       preserve                 and       protect
+rock     resources               where          they        are       located.             We        find        that        our         ESEE
+balancing             analysis              leads          us    to    the      conclusion                 that         at        this
+particular             site,          the       rock        resource            should          be       protected.                      We
+
+further          find       that          in    protecting               the       rock        resource,                we        have
+required          the       county's                soil        resources           be     conserved                   and        protected
+so    the     site         shall          be     reclaimed              to     farm/forest                 uses.             We        have
+
+required          topsoil             to       be    saved        in     a     manner          that        the         site        can        be
+reclaimed             to    farm/forest                   uses.          We     find       that          the      reclamation                      plan
+for    the       site       is       feasible             and     appropriate.                      We      find        that           the
+
+                                                                        -65-                               Exhibit   "A" -                      Page      65
+                                                                                                           Ordinance    614
+                                                                                                 rium 60 rc1643
+
+reclamation             plan        that           we     require              (banking                topsoil        and
+redistribution                 of    the           topsoil              over      the        quarry           site        for
+farm/forest             uses)        is        a    best           management                practice              and     is     a    practice
+
+that    continues              to'support                     soil       conservation                    measures              and     prevents
+
+unnecessary             loss        to        the        excavation               stripping                  that     might           be
+
+associated          with           the proposed                     rock         use        on     this       site.            For     all
+these    reasons,              we    find           that           the     goal            statements              and     policies                  are
+
+met.
+        5.     Section               II.B--Forest                         Lands,            generally,               including
+Policies      c,        d,     and        e
+        (a)    Criterion:                          Goal        Statement                                                                   .
+
+                   To        conserve              and        to     manage            efficiently                  the     county's
+               forest               and        range           resources,                   thereby           ensuring            a
+               sustained                      yield           of     forest        products,                  adequate            grazing
+
+               areas               for        domestic               livestock,                   habitat           for     fish.      and
+                   wildlife,                  protection                  of     forest            soils       and        watershed,                  and
+
+               preservation                          of       recreational                   opportunities.
+
+        Policies              c,    d,        and        e.
+
+               c.             Yamhill              County            will        encourage                afforestation                        of
+               margin               agricultural                        lands      in            the    county.
+               d.             Yamhill              County            will        provide               for    the     preservation                         of
+               forest               lands               through           appropriate                    zoning,          and     provide
+
+                   for        maintenance                     of     commercial-sized                         forest            units           in     an
+                   80-acre           minimum                  lot        size.
+
+                   e.         Yamhill               County           recognizes                   that       areas        of     the           county
+                   are        characterized                        by     such         a    mixture           of     farm        and           forest
+                   use        that        the           agricultural                   lands           and    forest            lands           goals
+
+                   of        this        Plan           are    both         applicable.                      Farm        and     forest
+
+                                                                          -66-                                Exhibit   "A" -                       Page        66
+                                                                                                              Ordinance    614
+                                                                                             rx 60 icc 644
+
+                  resources                within           these          areas        Shall           be     protected                      through
+                  mixed-use                zoning           that        recognizes                    both        types      of           use.
+                  Any       proposal                to     change          the     zoning              designation                of           a
+                  parcel             from       a    farm        or     forest          classification                       to           a
+                  mixed-use                zone          shall        include           a    demonstration                       that              the
+                  use       of       the    parcel              is    such        a mixture                  that     neither                  the
+                  farm          nor       forest           land       goals        can       be        exclusively                applied.
+
+          Finding:              We    find          that        the     county's             forest            lands         goal
+ statement        and       the       identified                 policies              require              the      county           conserve
+ and    efficiently              manage             the     county's              forest              range        resources                   to
+ ensure        sustained             yield          of     forest          products,                  adequate           grazing
+ areas,        habitat,          and       protection                 of     forest          soils            and     watershed                     and
+ recreation           opportunities.                        In addition,                    we        find     that         the       policies
+ "encourage"           forestation                   of     marginal              agricultural                      land,        provides
+ the    county        to    preserve                forest           lands        through              appropriate                zoning,
+ provides        for       the       maintenance                 of     commercial-size                           forest         units
+ through        80-acre          minimum             lot        size,        and       provides               for     the        protection
+ areas     characterized                   by       a mixture              of     farm       and        forest           uses             through
+ mixed-use        zoning             which          recognizes               both       types           of     uses.
+          We    find       that       the       proposed              use       does        not        change         the        zoning
+ designation           of       a parcel             from        farm        or    forest              to     a mixed-use                      zone.
+ We    find     that       these          goal       statements                 and     policies               must         be    read
+’ together       with       our       other          goal        statements                 and        policies             in    the
+ comprehensive              plan,           including                those        which           require            the              ;
+ preservation              of    significant                    mineral           and       aggregate                resources.                      We
+ incorporate           by       reference                herein         our       ESEE       findings                and     findings
+ made     with    regard             to    the       underlying                 Goal        4.         We     find        that            in       our
+ balancing        and       competing                uses        for       this        particular                   site,        the
+ balance        weighs          in     favor         of     protecting                 the        mineral            and     aggregate
+ resource.            We    further              find       that        the       mineral              and        aggregate
+ resource        uses       is       an     interim             use     and       that       we        have         required
+ conservation              of    soil        and          the    reclamation                     of    the        site      to    farm
+ forest        uses    which          will          contribute               to    a     sustained                  yield        of           forest
+
+                                                                      -67-                                   Exhibit   "A" -                       Page   67
+                                                                                                             Ordinance    614
+                                                                                                             run 60 ncc4 645
+products,                potentially                   provide              grazing               areas          for     livestock,
+habitat,                water         shed,           and       recreational                      opportunities.                      We        further
+find          that       the         site        is       80    acres           in        size        and    will        remain           80     acres
+in    size           after           it     is      reclaimed                  for        farm/forest                 uses.          We     further
+find          that       the         required              reclamation                     plan        encourages              reforestation
+of    this           particular                  parcel.                 For        all     these           reasons,           we     find        and
+conclude                that         this        goal          statement                  and     policies             are     met.
+
+              6.         Section               II.C--Water                  Resources,                  Goal          1 and     Policies               a,    h
+and       i
+
+              (a)        Criterion:                    Goal          Statement
+
+                           To    conserve              and       to       manage            efficiently
+                                                                                                     our                        water
+
+                         resourcesin                       order           to       sustain            and       enhance            the     quantity
+
+                         and         quality           of       flows           for        all        consumptive              and        non-
+
+                         consumptive                   uses,             and         to    abate        flood,           erosion            and
+
+                         sedimentation                         problems.
+
+              Finding:                We       incorporate                  by        reference              herein           our     findings
+with          regard            to    Statewide                 Goals           5     and        6,    below.           We     find         that       the
+proposed                use      will          not     have          a    significant                   adverse           effect            on    water
+quality              and        quantity,              and,          therefore,                   our       decision           to     approve           the
+proposed                use      will          conserve              and        efficiently                  manage           water         resources
+in    a       manner            that       sustains              and        enhances                  the    quality           and        quantity
+of    water             resources.                    We       are       persuaded                by    the        testimony              that     the
+proposed                use      can       be       developed               without               significant                 adverse            effects
+on    water             quantity               or     quality.                  We        find        that       water        will        not     be
+wasted             by    the         proposed              use       and        that        the        development              on        the     site
+for       rock          extraction                  can        occur        while           at        the    same       time         safeguarding
+water          resources.                      We     have       placed               conditions                 on    our     approval
+(e.g.,              advanced              air-track              drilling)                  which           will       assure         that
+groundwater                     resources              will          be     protected.                      We     further           find        that
+the       reclamation                     of     the       site          may        include            groundwater              recharge
+
+                                                                                -68-                                  Exhibit         "A"        - Page          68
+                                                                                                                      Ordinance            614
+                                                                                                   rex 60 rcclB46
+
+areas        which           will        serve         to    enhance               groundwater                      resources.                   We
+further            find       that        erosion            and        sanitation                   controls               are            in    place        at
+the     existing              quarry           and      will        be        required               to       accompany
+                                                                                                                      the
+proposed            use       on     the        adjoining               80      acres.               We       further         find               that
+reclamation                  of     the     site        is        required,               including                  banking                and
+redistribution                     of     topsoil            and        replanting                   the           site     for        farm/forest
+uses.             For     all      these         reasons,               we      find          and        conclude            that               this       goal
+statement               is    met.
+
+            (b)         Criterion:                  Policy          a
+
+                    ‘ Yamhill             County            will        cooperate                  with            federal            and        state
+
+                        agencies,               the     cities           of         the       county,               and     the        local            soil
+
+                        and       water        conservation                    district                  to    identify,                    conserve
+
+                        and       develop           water          resources                  on     a       long-range,                    multiple-
+
+                        use       basis        in     response                to     need,           with           full     consideration
+
+                        given        to     the       benefits,                 costs,             potential                uses            and        the
+
+                        carrying            capacity               of    the         resource.                                    ‘
+
+         Finding:                  We     find        that        the        focus            of     this           policy            is        the
+governmental                  coordination                   and        cooperation                      in    the        protection                    of
+water       resources.                    We     incorporate                   our        Goal           6    and     ESEE            findings
+herein.             We       find,        that        this        policy             does          not        apply        directly                   to
+individual               applications,                      but     rather               it    applies               through                provisions
+of    the     zoning              ordinance             which           address               water           resource                protection.
+We    find         that       we     have        considered                  such         protection                  in     our            ESEE
+analysis            and       our       findings             for        the        Section               404.07           operating
+standards.                   We    further            find        that         we     have          worked            closely                   with
+state       agencies,                particularly                   DOGAMI            and          the        Water        Resources
+Department,                  in    identifying                and        protecting                      water        resources                   at       this
+site.         We        further           find        that        our        approval               considers                and            protects
+the     long-range                 use     of       water         resources                   in    the        surrounding                       area.
+We    further            find        that        the        proposed               use        will           not     have     a        significant
+
+                                                                         -69-                                       Exhibit   "A" -                        Page    69
+                                                                                                                    Ordinance    614
+                                                                                                       run 60 cc 647
+adverse         affect              on    watet         resources
+                                                              in the                             surrounding                  area           and,
+therefore,                will       not    effect            the       carrying             capacity                 of    the        resource.
+We    conclude,                therefore,               that      this         criterion                is     not         directly
+applicable                to       the    application                 before          us,        but      that         the       criterion's
+objectives                have       been        met.
+
+         (c)          Criterion:                  Policy          h
+
+                      Yamhill             County           will       encourage              the       prudent               use       of     all
+
+                      county             resources             and      support             the        development                 of        water
+
+                      conservation                     techniques               and     practices.
+
+        Finding:                    We    find        that       the        first       portion              of       this       policy,
+because         it        merely          “encourages”                 an      action,            is     not      a    mandatory
+approval             criterion.                  We     find      further             that         the       applicant,                  in
+recognition                of       the    water            issues          that      relate            to     the         application,
+has    provided                a    special           study.            Based         on     this         study,            we     have
+conditioned                the       proposed              use    with          special            techniques                 to       protect
+the    water          resource.                  We     have      discussed                 this        issue          more        fully            in
+our     findings               for       Goal     6,       below,           and     incorporate                   those           findings
+herein.              We    find          that     the        applicant's                investigations                        relating               to
+water     reserves,                  and        its     proposal             to    protect              the       supply           and        avoid
+any     impacts            on       surrounding               properties,                   represents                 a     reasonable
+conservation                   technique              and     prudent             use       of     the       water.              We      further
+find     that         reclamation                 of       the    site         may      include              water           recharge
+areas     which            we       find    to        be     a beneficial                   water         conservation                       and
+protection                technique.                  We     conclude,             therefore,                  that         this
+criterion,                to       the    extent           that       it     is    applicable                  to      the       application
+before         us,        has       been    met.
+
+         (a)          Criterion:                  Policy          i
+
+                      Where          conflicting                 uses        are      identified                  or       intended,                in
+
+                      specific             proposals              or        programs,              the        economic,                social,
+
+                                                                        -70-                                 Exhibit             "A"        - Page        70
+                                                                                                             Ordinance.                614
+                                                                                                                        FW BO nce                        B48
+ae
+
+                            environmental                    and      energy               consequences             of        the
+
+                            conflicting                   uses     shall           be       determined             and     used           as    a
+
+                            basis        for        decision-making.
+
+                Einding:                We     find        that       our        ESEE        analysis           considered                 the
+     consequences                  of    conflicting                  uses         in       relation          to    the        proposal              for
+     the     subject             property,              and      that       the            ESEE    analysis             served           as     the
+     basis           for    our     program             to    balance              the       uses       and     allow          our       approval
+     of    the        application                 with       conditions.                     We     incorporate                an    ESEE
+     analysis              herein.             We    conclude,              therefore,                  that       this        criterion                 has
+     been       met.
+
+                7.          Section            II.D--Fish              and        Wildlife,              Goal       1    and        Policies               a,
+     b,    c,    andd
+
+                Goal       Statement:
+
+                To     conserve               the    fish        and    wildlife                  habitat          of     Yamhill              County
+
+                with        a    view        to     maintaining                  an        optimum       ecological                 balance,
+
+                enhancing               the       sport       fishing             and        hunting          resource              of     the
+                county,            and       protecting               endangered                  species.
+
+                (a)         Criterion:                  Policies            a,        b,     c    andd
+
+                            a)      Yamhill             County         will           cooperate           with          the     Oregon              Fish
+
+                            and     Wildlife              Department,                      the    Yamhill          County           cities,              the
+                            U.S.        Agricultural                  Stabilization                     and    Conservation
+                            Service,              the     Bureau        of        Reclamation,                 and       the        soil        and
+                            water        conservation                  districts                  of    the    region           to       identify,
+                            conserve,               and      protect         fish            and       wildiife          habitat;
+                            determine               areas        of    critical                  imbalance          and        threats              to
+                           particular                species;           and           formulate           and       implement
+
+                                                                            -T|-                               Exhibit              "A"        - Page           71
+                                                                                                               Ordinance                  614
+                                                                             FIR BO is                 B49
+measures           for         the      improvement                of     existing           habitat           and
+the     creation             of      new     habitat           where           needed.
+
+b})     Yamhill           County           will        recognize               the     need       to     conserve
+and protect               fish and wildlife habitat                                    in its plan
+implementation                    measures;             and         the       following           will     be
+considered              in      any     public          or     private               land    use
+
+determination                   subject           to    county            review;           the    impact            of
+harvesting              forested             areas          where            there     is    no    forest
+
+management              plan         for     regeneration                     of     the    forest        Iands;
+
+the     filling           or      drainage             of     swamps           or     marshes;           the
+damming           of    rivers          and       streams;              the        location        and
+
+construction                 of      highways           and         utility           transmission
+lines;        and       any       other       land          development                activities              which
+significantly                   interfere              with         the       vegetation           or     soil
+
+cover        or    drainage             patterns             in      critical              habitat        areas.
+
+c)     All        identified               sensitive               wildlife            areas       will        be
+classified              as      exclusive              agriculture,                   forest       land        or
+
+open     space.              No      major      land          use       change,            including           but
+
+not    limited            to      road       construction                     and     recreational
+developments                 will       be    permitted                 without            approval        of
+measures           to    limit          undesirable                  impacts           on    sensitive
+wildlife           areas.
+
+d)     Habitat            of      all      species           indicated                as    endangered,
+
+threatened,              or       vulnerable                will        be     preserved.               Nesting
+sites     of       endangered                bird       species               will     be    protected              and
+buffered           from        conflicting                  uses.
+
+                                              -72-                                   Exhibit   "A" -             Page     72
+                                                                                     Ordinance    614
+                                                                                                       rig     60 c1650
+         Finding:                  We     find       that        this           goal       statement                requires
+conservation                  of    fish        and       wildlife                  habitat           with     a view           to
+maintaining               an       optimum           ecological                     balance,           enhancing               sport
+fishing           and     hunting              resources,                 and        protecting               endangered                 species.
+We     find       that        the       proposed            uses          on        the    site        for     which           there            are     no
+specific           identified                  fish       and        wildlife              habitat.                 We    find        that
+there        is    anecdotal                 evidence            from           the       opponents            that           bluebirds
+have     been          seen        in     the       general           area.               However,            we     also       find            that
+there        is    a    letter            in    the       file         from          the     State           Fish        and    Wildlife
+Agency        indicating                  that       this        is       the        "type        of".habitat                  used         by
+bluebird           species,               but       that        the       letter           states            there        is    no       evidence
+that     the       ‘bluebird              actually              uses        this          particular                site.           We      find
+the     state          agency           comments            to       be        in    the     nature           of     an       expert
+opinion           and     are       persuaded               that          just        because            that        is       the     "type            of"
+habitat           used        by    bluebirds,                  that        bluebirds                 are     not        necessarily
+present           on    the        site.            Furthermore,                     in    the        Goal      5    balancing                  we
+performed              related            to    rock        resource                 and     potential               conflicting                     uses
+(including              wildlife               and       habitat            uses),           we       have     determined                   that
+the     potential              adverse              effects            on       wildlife              habitat            are    minimal                and
+that     the       proper           decision               is    to       balance            in       favor         of    protecting                   the
+rock     resource.                  We       incorporate                  our        ESEE        findings            below          which            more
+fully     discuss              this          issue.             We     find          that        there        are        no    endangered
+species.on              this        site        nor       any        sport           fishing           on     this        site.             We        find
+that     there           is    hunting              in    the        general              area,        but     that           there         are
+also     residences                  in      the     area        which              limit        hunting            opportunities.
+We    also        find        that        the       site        will        be       used        for     rock        extraction                  on     an
+increasing              basis           which        means           the        site        is    available               on    a     declining
+basis        for       hunting            or    habitat              purposes.                   We     further           find        that            the
+site     is       required              to     be     returned              to       farm/forest                uses          which         provide
+opportunities                  for        habitat           and        hunting.                  For     all        these       reasons,                we
+find     and       conclude               that       this        goal           statement               is    met.
+         We       find        that        policies              a,     b,       c    and     d    of     the        fish       and       wildlife
+portion           of    our        comprehensive                     plan           require           the     county           to     cooperate
+with     various              governmental                  entities                 to     conserve               and    protect               fish
+
+                                                                          -73-                               Exhibit            "A"         ~    Page        73
+                                                                                                             Ordinance                614
+                                                                                                    FILM        60      PACE 1651
+
+and     wildlife                habitat             and       determine               areas         of       critical               imbalance
+for     particular                   species             and        to    address             improvement                    of     existing
+habitat            and      creation                of    new        habitat.                 We     find        that         we        have
+received              input          from       the       State           Fish        and       Wildlife                Department                      with
+regard           to     our       decision.                   As     stated           above,            we      have         balanced                   that
+input        and        considered                  it    as        part       of     our       analysis                in    which            we        have
+determined                 that        the      balance              tips        in      favor          of      protecting                   the         rock
+resource.                  We     find         that       any        reclamation                   requirements                     that           we        have
+imposed            provide             opportunities                      for       improvement                  of      the        habitat                  and
+creation              of    new        habitat            based           on     the       farm/forest                   uses           to     which
+the     site          must        be      reclaimed.                                                                                               «
+            We     find         that       these          policies               also         require            us      to        consider                  the
+impact           of     harvesting                  forested              areas          where          there           is    no        forest
+management                 plan.           While          trees           on     the       site         may      be      harvested                      in
+anticipation                    of     development                   of     the       site         for       the proposed                      rock
+use,        we     find         that        our      reclamation                    plan        required                return           the
+property              to     farm         or    forest              uses,        including                 the       propagation                        and
+harvesting                 of     trees.             We        find       that        we      have         considered                   this            in     our
+decision.                  We     further             find          that       the       area        of      the        proposed               use           does
+not     involve             the        drainage               or     filling             of     swamps           or      marshes,                  the
+damming            of      rivers           and       streams,              or      the       construction                    of        any
+development                 to       be     critical                to    the       habitat             area.
+            We    -find         that       the       policies               also         require             that        sensitive
+wildlife              areas          will       be       classified                 as     exclusive                 agriculture,
+forest            land       or      open        space.              However,              we      find         that         the        proposed
+use     is       not       located             on    any           identified,                sensitive                 wildlife               map           or
+inventoried                  as      such.               We        further          fina        that         the        policies               under
+this        goal        statement                require             the       habitat             of      all        species                indicated
+as     endangered,                   threatened                 or       vulnerable                will         be      preserved                      and
+buffered              from        conflicting                   uses.            We       find       that        this         property                   is
+not     identified                   in     any       county             plan       document               or      is    habitat               for           any
+type        of     threatened                  or     endangered                 species.                  accordingly,                       we        find
+that        this        policy            is     not      applicable                  to      the       proposed                  use    as            there
+is     no        identified               habitat              on     the      proposed              site.
+
+                                                                            -74-                                     Exhibit   "A" ~.                    Page        74
+                                                                                                                     Ordinance    614
+                                                                                             ek 60 rce4652
+         8.             Section           II.E--Open                    Space,        generally
+
+         Finding:                   We     find       that          the        opponents              to    the     proposed             use
+generally               indicate              that        the       open        space        requirements                  of     the
+county's            comprehensive                     plan          are       applicable               to    the         proposed            use.
+We     find        to    the        extent          that           any       parcel         in    the       county         is
+undeveloped,                   it    can       be     argued             that        it     serves          as     open     space,            and,
+therefore,                it    can       be       further              argued        as     a    general           matter,             open
+space         is    implicated                 by     any          development               action.               However,             we    find
+that     the        proposed              use        is       not       on    a site         that          has     been     identified
+for     open        ‘space          preservation                    by       the     county           in    its     land        use
+regulations.                    Accordingly,                       we    find        and     conclude              that     the         open
+space     goal           and        policies              do       not       apply.          In       the    event         they         would        be
+deemed         to       apply,           we    make           the       following            findings.
+         We        find        that       the       proposed                 use     will        maintain           open        space
+because            no    structures                 will           be    developed               and       because         the         site     will
+be    reclaimed                to     farm/forest                   uses        in    the        future.            We     further             find
+that     in        our     ESEE          analysis,                 we    have        balanced              open     space         resource
+as    part         of    our        analysis,                 and       incorporate               that           finding        and
+analysis            herein.               We       further              find        that     our       decision            on     the
+proposed            use        prevents             the        construction                  of       any    permanent
+structures               on     the       site        and          requires           the        site       to     be     returned            to
+farm/forest                uses          which        are          consistent               to    open       space         and         improve
+the     potential               for       recreation                    in     the    rural           environment.                 We
+further            find        that       after           the       proposed               rock       extraction            is
+completed,               the        site       will           be    available               for       inclusion            into         an    open
+space     network,                  if    that           is    appropriate                  for       the        site.      We         further
+find     that           the     decision              we       have          made     on     the       proposed            use         has    no
+effect         on       the     type          of    special              assessment               incentive               program
+designed            to     secure             and     preserve                the     elements              of     an     open         space
+network.                For     all       these           reasons,              we    find        that       ta     the     extent            the
+open     space           goal        statements                    and       policies            in    the        comprehensive                 plan
+are     applicable,                  they          are        met       by     the    proposed              use.
+
+                                                                             -75-                            Exhibit            "A".     - Page           75
+                                                                                                             Ordinance             614
+                                                                                                    un GO excc1 653
+         9.                 Section          II.F--~Mineral                       and    Aggregate             Resources
+
+             (a)            Criterion:                  Goal        1    Goal        Statement
+
+                            To    protect           mineral              deposits             from        urban        encroachment,
+
+                            provided             that        such        deposits             are       not    located            on     land
+                            identified              for        urban          and       rural        residential                 development
+
+                            by    the       Comprehensive                     Plan       and       Plan       Map;        to     ensure       that
+
+                            all       extraction               of mineral                resources’              takes         Place        under
+
+                       _ conditions                 which           foster           compatibility                   with        existing
+
+                            surrounding                 land        uses;          and       to    provide           for        the
+
+                            restoration                 of     extraction                 sites         for      future          agriculture,
+                            open       space,           recreation                 or     other         appropriate               uses.
+
+         Finding:                      We    find        that           the       first       portion          of      this       goal
+statement                   is    intended              to     protect             mineral           deposits             in     rural       areas
+from     the            encroachment                    of     urban          uses       except           where        the       mineral
+deposits                are       located           on       land        identified                for      urban         and     rural
+residential                      development.                     We     find        that         the     subject          property           is
+currently                   ‘zoned         AF-20.            We     find          that       while        this       zoning           district
+permits‘certain                            rural        residential                  use,         such      residential
+development                      is    very        restricted                 and,       therefore,               the      zone        is    not
+identified                   for       residential                 development.                      We     find       that       the       AF-20
+is     identified                     by    the     county              as    a    residential                resource            district,
+not     as         a    rural          residential                 district.                  We     find,        consequently,                 that
+the     subject                  property           is       not        intended             by    this       goal        statement           to     be
+given         special                 protection               for       residential                 uses.           To    the        contrary,
+we     find            that       this        is    a    natural               resource             zone.     where        the        proposed
+rock     extraction                        use     is    permitted.                     We    further            find        that
+Policies                c    and       d    under        this           goal       address           more        specifically                the
+compatibility                         between           mineral              resource             and     adjoining              residential
+use,     and            that          those        policies              and       our       findings            for      them        show    how
+
+                                                                              -76-                             Exhibit   "A" -                Page        76
+                                                                                                               Ordinance    614
+                                                                                                          rik 60 4064654
+
+this    goal         is    implemented                     and        met        for       the       subject             property           by
+means      of    a     balancing             of       the        protection                      for      mineral           aggregate              and
+rural      residential                uses        on        adjoining                     property.
+        We      find       that       the        second               portion              of       this       goal        statement
+‘relates        to     the      regulation                  of       mineral               resource              extraction                to
+foster         compatibility                with            existing                  surrounding                   uses.            As    we    have
+discussed            in    our        findings              regarding                     compatibility                    under          code
+Section         1202,        which         we     incorporate                         herein             by    reference,                 the
+methods         of     operation            proposed                     by      the       applicant,                 in    combination
+with    the      conditions                of     approval                    that         we       will..impose                as    part        of
+this    decision,               will       result               in       only         a    minimal             impact           on    the
+surrounding               properties,                 and        that          with            such       a    minimal            impact,          we
+find    that         our     approval             fosters                 compatibility.
+        Finally,             as      is    discussed                     more         fully          in       the     findings             for     code
+Section         404,       we     find      that            ‘the         site         will          be    reclaimed              for
+farm/forest               use     following                 the          extraction                  activities,                 and       that
+specific         plans          for       such        reclamation                         will       be       submitted              to    and
+approved         by       DOGAMI          prior            to    the          start            of    the       operation              on    the
+subject         site.           We      find      that           this            is       an     appropriate                use       for       the
+property         following                completion                     of    the         extraction.
+        Based          upon       the      above            findings,                     we    conclude              that       this
+criterion            has     been         met.
+
+         (b)         Criterion:                  Policy              a
+
+                     Mineral          and        aggregate                    resources                  will       be     recognized              as    a
+
+                     nonrenewable                 resource                    important                  to     the      growth           and
+
+                     development                 of        the       county               and       of    the       surrounding
+
+                     region.
+
+        Finding:                We    find        that           in       1982            the       County,           pursuant             to
+Statewide            Planning             Goal        5,        conducted                  an       assessment              of       the    mineral
+and    aggregate             resources                in        the       County               and       adopted           an    inventory              of
+significant               resource          sites               and       a program                  for       protecting                 those
+
+                                                                          -7]-                                   Exhibit   "A" -                  Page       77
+                                                                                                                 Ordinance    614
+                                                                                rue 60 cc B55
+sites.            We     further         find         that        as    part     of        these            findings            we        have
+supplemented                  that      previous             assessment              and         are        amending            the
+Comprehensive                  Plan      to       add      the        subject        property                onto        the      inventory
+of    significant                 mineral          and       aggregate           sites            and        are        also     adopting
+a    program            for    the      allowing             the       extraction                of     rock        from        this           site
+in    a way        that        balances            the       need       for     the        rock         with        the     protection
+of    surrounding                 properties.                   We     find     that         mineral              and      aggregate
+resources              play       a    vital       role         in     the     growth            and        development                   of    the
+county           and     the      region,          and      that        there         is     a    need           for     the
+protection               of    these         sites         to     insure        that         such           nonrenewable
+resources              are     available              to     support           the     growth               and     development.
+Based       upon         these         findings,             we       conclude         that            this       criterion               has
+been       met.
+
+           (c)         Criterion:                 Policy          b
+
+                        Yamhill         County           will         continue          to       cooperate                with       State
+
+                       and     federal            agencies             within         the        region            to    identify
+
+                        lands         that     are,        can,        or     should         be        utilized            for        sources
+
+                       or     processing              of     mineral           aggregates;                    will       determine
+                       present          and       future          needs;        and        will         formulate               and
+
+                       “implement            necessary                measures         for            the    protection                   of     such
+
+                       sources          or     sites;           and     sites         that        are         found        to    be
+
+                        compatible             with         the       Plan     goals         will           be    recognized
+
+                        through         appropriate                   Plan     designations                      and      zone
+
+                       districts             on    the       Plan       and     zone         maps.
+
+           Finding:               We    find       that         the     county         in        1982         conducted               a    Goal         5
+analysis           that        assessed            the       lands          available                 for     mineral           aggregate
+sources           and       production,               and       adopted         an     inventory                  of      such        sites
+and    a    program            to      protect          those          sites     in        the         comprehensive                      plan
+and     zoning           ordinance.                We      also        find     that         the        process            we     have           gone
+through           for       the       subject         property,               culminating                   in    these          findings,
+
+                                                                       -78-                                 Exhibit   "A" -                    Page         78
+                                                                                                            Ordinance    614
+                                                                                              Fit 60 cc B56
+
+supplements            that       earlier           process,                 and       further            assesses               the     need
+for    mineral         and       aggregate            resources,                    the       availability,                      and
+appropriate            measures           to     insure               that        needed           sites        are        given
+reasonable            protection.                We      further              find        in       the     process               to     review
+this     proposed           use     and     develop               a    program            to       meet        Goal        5,     we     have
+asked     for     comments           and       used       relevant                  information                 and        advice
+supplied         by    appropriate               governmental                       agencies.                  Based        upon         these
+findings,         we       conclude         that         this          criterion                is    met.
+
+         (d)      Criterion:                Policy            c
+
+                . Areas          designated              by       the        Comprehensive                     Plan        for        urban
+
+                  and       rural        residential                   development                   or    other           conflicting
+
+                  uses        will       continue             to       be     protected                from       incompatible
+
+                  mining          activities               through                appropriate’                  zoning           and        review
+
+                  measures.
+
+         Finding:            We     find,        as      is       discussed               more           fully        in        the     ESEE
+
+analysis         and discussion                  of consistency with the Statewide                                                                    =
+Planning         Goals,          which      is      incorporated                       herein,            that        although               some
+lands     in     the       surrounding              area          are        zoned        for        potential                  rural
+residential            development,                 that          these           lands         will       be     protected                  from
+incompatible               mining        activities                   by     virtue           of     the       mitigation
+measures         proposed           by    the       applicant                 for        the       operation               of     the        site
+and     the     conditions           of     approval                  that        we     will        impose           as        part        of    our
+approval.             We    further         find         that          the        adjacent            AF-10           rural
+residential            zone       pernits           mineral                resource:            extraction                 subject               to
+the     criteria           established              in    Section                  404    of       the     code,           which            we
+have     concluded            are    met       by     the         proposed               use.         We       find        that         our
+zoning         ordinance          standards,              which              we     have        previously                 addressed                  in
+the     finding,           provide        appropriate                      review         and        protection
+reclamations               for    protecting               areas             designated                  for     rural
+residential            development.                   Accordingly,                       we     find       that        our            zoning
+
+                                                                      “79-                                 Exhibit               "A" = Page                79
+                                                                                                           Ordinance                  614
+                                                                                                 rox 60 acc 4657
+
+ordinance            properly           implements                  this        plan       policy.            Based          upon        all
+these        factors,            we    conclude            that          this        criterion          has       been        met.
+
+            (e)      Criterion:                   Policy       a
+
+                     Areas           designated           by        the        Comprehensive                Plan       for        mineral
+                     resources               will       continue               to    be    protected             from
+
+                     incompatible                  urban       and           rural        residential              development
+
+                     and        other        conflicting                 uses         through         appropriate                 zoning
+
+                     and        review        measures.                  If     such       development              is       approved,
+
+                   _ adequate           setbacks              and        use        limitations             will       be     applied
+
+                     to     the       development                  to    minimize           conflicts              with       adjacent
+
+                     future           mining           operations.
+
+         Finding:                We    find        that       by        approving           this       application                 we
+allow        extraction               and     processing                 of     rock.           We    find       that        this
+extraction            must           occur        pursuant              to     the       standards          of    the        MR-2
+district            and     protect           such       uses           from         incompatible             adjacent              uses.
+We     further        find,           however,           as     is       more         fully      discussed              in    the        ESEE
+analysis            that        is    part        of    these           findings,           and       which       we      incorporate
+herein,            that     with       the        methods           of       operation           that       will       be     a    part         of
+the     proposed            operation              and     the          conditions              of    approval           that        we
+will     impose            as    part        of    our     approval                 of    the    application,                 any
+conflicts            between           the        proposed              operation           and       adjacent           rural
+residential                uses       will        be    minimized.                   We    further           find       that        as    part
+of    our         program        to    meet        Goal       5,        we     have       imposed       limitations                  on
+future            residential           uses           that    will            minimize          conflicts             with         future
+mining            operations.               We     conclude,                 therefore,              that     this’      criterion
+has     been        met.
+
+                                                                        -80-                           Exhibit   "A" -                   Page        80
+                                                                                                       Ordinance    614
+                                                                                 rex 60 ce 658
+            (f)      Criterion:                   Policy e
+
+                     Where        a     property              has        been      identified                 as       having
+
+                     important               mineral           and         aggregate                 resources               and     is
+
+                     identified                  as    farm         or    forest            land        in     the       Comprehensive
+
+                     Plan,        and        conflicts               exist        between               competing               uses,
+                     consideration                     of     the        economic,               social,           environmental
+
+                     and     energy              consequences                   shall           be    a part           of      the
+
+                     aggregate               site        designation                and          zoning           process.
+
+        Finding:              We        find          that     the        subject               property           is        identified               as
+farm/forest                land       in     the       Comprehensive                    Plan,          and        has        important
+mineral            resources            which          conflict             with        a       Limited           number           of
+competing            uses.            We.    further           find         that        the          analysis            that        is
+required            by    this        policy           is     included            as        a    part        of    these           findings
+in    the         discussion            of       compliance               with      the          Statewide               Planning
+Goal    5,         which     we       incorporate               herein.                 We       conclude,               therefore,
+that    this         criterion               is       met.
+
+            (g)      Criterion:                   Goal        Statement             2
+
+                     To     ensure           that        irreparable                environmental                        damage           or     the
+
+                     creation               of    safety        hazards             does             not     result            from       mining,
+
+                     quarrying               or       extractive                activities;                  and        to    ensure           that
+
+                     reclamation                  of    mining,             quarrying                 and     extraction                  sites
+
+                     is     accomplished                     according             to       an       approved            reclamation
+                     plan.
+
+        Finding:              We        find          that     this         policy              is    implemented                  through
+the    provisions             of       the        Mineral            Resource               District              of     our       zoning
+ordinance,               particularly                  in     the        operating               standards               requirements
+of    Section            404.07.             We       further            find     that           in    our        findings              above
+relating            to    that        section,               which        we     incorporate                  herein,              we     have
+
+                                                                         -81-                                Exhibit   "A" -                   Page        81
+                                                                                                             Ordinance    614
+                                                                                                sux 60 ec1659
+concluded            that        with         the        methods             of    operation              proposed              by      the
+applicant.                 We        further         find          that        program          to    meet           Goal        5    and        the
+conditions             of       approval             we       will        impose         with        our        approval              of       the
+application,                the        mineral            resource                district           operating                 standards
+can     and        will     be        met.          We    incorporate                   our     findings              under           Goals           6
+and     7,     below.            We         find     that          no    significant                 environmental                      impacts
+will     be        created,            no     safety            hazards            will        be    created,              and        the        site
+will     be        properly            reclaimed.                   We       conclude,              therefore,                 that         this
+criterion            is     met.
+
+             (h)     Criterion:                     Policya                                                ,                               .
+
+                     All        requests             for       mining,             quarrying,                  and    extractive
+
+                     operations                will           be    required              to    prepare              and       submit
+
+                     detailed               pians         of       the       site       operation               and       plans         for
+
+                     reclamation                    to    ensure             proper        continued                 operation                 and
+
+                     final            closure            of     the      development.                     Approval               of        the
+
+                     request            may         occur          only        after       the       posting              of    all
+
+                     necessary                performance                    bonds       and        submittal              of        all
+
+                     applicable                plans.
+
+         Finding:                We     incorporate                     by     reference             herein           our        findings
+under         Sections           1007         and        404.08          above.            We       find        that       site
+operation            or     reclamation                   plan,          including              the       extensive                  narrative
+text,        have     been           submitted.                    We    further           find       that           on    review              of     the
+proposed            use,        we     have        applied              conditions              of        épération             witch            we
+find     will        ensure            proper            continued                operation           of        the       proposed               use.
+We     further            find       that      we        have       required             specific               reclamation                    and
+conditions            which            we     find        to       be    sufficient                 for        the    purposes                 of
+final         closure           of     the     proposed                 use.        We     incorporate                    our        findings
+with     regard            to    Section             404.07,             above,          and        conclude              that        the
+appropriate                performance                   bonds          will       be    provided               for       the        site.
+
+                                                                         -82-                                  Exhibit           "A"           - Page       82
+                                                                                                               Ordinance               614
+                                                                                             run 60 vxceL660
+Based     on     all       these         factors,        we       find         that      the        requirements              of    this
+policy         are    met.
+
+         (i)         Criterion:                Policy        b
+
+                     Yamhill        County            will       cooperate              with        State        regulatory
+
+                     agencies            in    support           of      the     reclamation                or    restoration
+
+                     of    all     lands        subject           to      mining,            quarrying,               and
+
+                     extractive               activities;              and       assurance              will      be    required
+
+                     at    the     outset        of     the       development                 by     the     posting
+                                                                                                                   of
+
+                 ' adequate          performance                  bonds.
+
+        Finding:              We    find        that     this          policy           is    implemented               through
+the    Mineral            Resource            District           zoning          requirements,                   and    that
+Section         404.07F           covers        requirements                   for      land        reclamation,
+including            requirements               for     coordination                  with          DOGAMI's           required
+reclamation               plan,     and        that     Section             404.07G           covers         requirements
+for    performance                agreements.                We       find       that        we     have     concluded             in
+our     findings           for     these        sections              above,         that         the      relevant          approval
+criteria         are       met.      We        further           find       that      the         county         has    fully
+cooperated’ with,                  and        been     greatly            assisted            by,       state         regulation
+agencies,            including            DOGAMI        and       the       Water        Resources               Department.
+We    find      that       this     cooperation                  has      supported               our      operational             and
+reclamation               decisions            regarding              the      proposed             use.         We    conclude,
+therefore,            that        this        criterion           is      met.
+
+         (j)         Criterion:                Policy        c
+
+                     All     requests           for     operations                 within           any     stream          bed    will
+
+                     require        the        approval           of      appropriate                governmental
+
+                     agencies.
+
+                                                                  -83-                              Exhibit   "A" -                Page    83
+                                                                                                    Ordinance    614
+                                                                                                rier 60 nc A BOA
+           Finding:                  We    find       that        there         are        no    stream           beds            on      the
+subject           property,                and     that,          therefore                this       criterion                    is     not
+applicable                 to    this          application.
+
+           (k)         Criterion:                  Policy d
+
+                       Operating                standards           adopted                for       mineral            resource                sites
+
+                       will          be    designed           to    the         greatest              extent            possible                to
+
+                       protect             air     and       water        quality,                soil      resources                     and
+
+                       natural             vegetation              from         deterioration                     or        irreparable
+
+                      . environmental                   damage.
+
+           Finding:                  We    find       that        this        policy            does       not     directly                    apply
+to    an    individual                    application,              but         generally               requires                  the         county
+to    adopt           operating                standards,           which             it    has       done        in        Section             404       of
+its    code.               We    find,          therefore,           that            this        criterion                   is     not
+‘applicable                to    this          application.                   In     the        event       this            standard                is
+deemed           to    apply,             we     find      that     this           policy            was    met         through                the
+adoption              of    the       standards              in    Section             404.07              (particularly
+Section           404.07C)                of    the     zoning           ordinance,                  which        establish                    the
+operating              standards                that       apply         to     uses        in       the    mineral                 resource
+district.                  We    incorporate                 our     findings               under          Goal         6.          We        find
+that       appropriate                    operational              and        reclamation                  standards                     have       been
+imposed.               We       find       that       these        standards                can       be    met         and         that        we
+have       conditioned                    the     proposed          use         to     ensure           compliance                       with
+operational                 and       reclamation                 standards.                    We     conclude,                   therefore,
+that       if     this          is    deemed          an     approval              criterion,                it        is     met.
+
+           10.         Section             II.G--Ecologically                          and        Scientifically
+Significant                 Natural             Areas,        generally
+
+           Findings:                  Opponents              to    the        proposed               use     argue            that            the
+
+county's              comprehensive                   plan        criteria             for        ecologically                          and
+scientifically                       significant              natural              areas          apply.           We             find        that       the
+
+                                                                         -84-                                Exhibit   "A" -                         Page      84
+                                                                                                             Ordinance    614
+                                                                                                     aux 60 :1662
+site        is     not        designated             either         as    an       ecologically              or
+scientifically                      significant                 natural        area.           Accordingly,               we      find
+and     conclude               that       this       goal        statement           and       policies           do     not      apply.
+In    the         event        they       are       deemed        to     apply,          we    incorporate               our     Goal           5
+findings            herein              and    conclude           that        the    standards             are     met.
+
+            11.         Section           II.H--Outstanding                        Scenic       Views        and       Sites,
+generally
+
+            Findings:                   Opponents           to    the     proposed             use    argue         that        the
+county's            comprehensive                    policies            related          to    outstanding               scenic
+views        and        sites           apply       to     the    proposed           use.        We       find      that        the        site
+in    which         the        proposed             use     will       occur        is    not    an       identified              scenic
+resource            in        the       county.           We     further           find       that    the     approval
+criteria            of        Section          404       requires         review          of    the       site      be     screened.
+We    have         found        that          the    site        can     be    adequately             screened,              and
+incorporate                   our       screening           analysis           herein.           We       also     have         required
+a    condition                for       berming          and     planting           along       the       perimeter             of        the
+proposed            use.            For       all    these         reasons,          we       find    and     conclude                   that            x
+this        goal        statement              and       policies         are       not       applicable,              but      in        the
+event        they         are       deemed          applicable,               the    county          has     taken
+appropriate                   steps       to     protect           the    scenic          views       for        future
+generations.
+
+            12.         Section           III.A--Transportation,                              Goal    1     and     Policies               b,
+c,     d,    e,     j     and       o
+
+            (a)         Criterion:                  Gdal        Statement
+
+                         To    provide           and       encourage           an    efficient,              safe,         convenient
+
+                         and    economic                 transportation              and        communication                  system,
+
+                         including              road,       rail,        waterways,             public            transit         and
+
+                         air,       to    serve           the    needs        of    existing          and     projected                   urban
+
+                                                                       -85-                               Exhibit         "A"        «    Page      85
+                                                                                                          Ordinance             614
+                                                                                                                  ris BO rcc4BG3
+
+                   and     rural               development                     within           the    county,            as     well       as     to
+
+                   accommodate                   the           regional              movement              of    people          and       goods
+
+                   and      the       transfer                  of       energy,              recognizing               the      economic,
+
+                   social            and        energy              impacts              of     the    various            modes        of
+                   transportation.
+
+        Finding:                We    incorporate                        herein           our       findings            and     conclusions
+related       to    Goals            11        and     12.              We     find       that        the       proposed          use       of    the
+subject       property               will        have           a minimal                 effecton               transportation                   and
+communication               systems.                   We       find           that       the       quarry         on     the     subject
+property       will        be        adjacent                  to       an     existing             quarry         use,        and     will       use
+the    private           drive        and        county                 and     state          roads        that        the      existing
+operation          currently               uses           with           no     problems              of    safety         or
+convenience.               We        further               find          that        the       proposed            quarry,            like       the
+existing       quarry,               will        have           no       need         for      any     additional
+communication              systems.                   We        find           that       the       transportation                    and
+communications                  systems              to      be         used        by    the       proposed            quarry         are
+efficient,              safe,        and        convenient                    given           the     nature        and        scope        of    the
+proposed       use        of     the’ property,                          and        that       the     goal        does        not     require
+more    for    an        individual                   application.                        We     conclude,              therefore,               that
+this    criterion               is    met.
+
+        (b)        Policies               b,     c,       d,        e
+
+                   b)      All        transportation-related                                        decisions             will        be    made
+
+                   in     consideration                         of       land         use      impacts           including             but       not
+
+                   limited            to        adjacent                 land         use      patterns,            both         existing
+                   and     planned,                   and       their           designated                 uses     and        densities.
+
+                   c)       Yamhill              County                 will        cooperate              and     establish               close
+                   liaison            with            the       State           Department                 of     Transportation,
+                   the     cities               of     the          county,              the     Tri-County               Metropolitan
+
+                   Transportation                          District                 of     Oregon           (Tri-Met}),              the
+
+                                                                             -86-                               Exhibit   “A" =              Page       86
+                                                                                                                Ordinance    614
+                                                                      nur 60 cl B64
+ Southern         Pacific          Railroad,            the     Federal          Aviation
+ Administration,                  Federal         Highway        Administration,                         and
+ private      utility             companies         operating              in    the        county,            in
+
+  respect     to       matters       relating             to    the    location,                 design         and
+ programming            of       roads,     railroads,               public          transit
+ facilities,            airports,            transmission              lines,          pipelines,
+  waterways,           energy       corridors            and     communication
+
+ facilities            to    guide        and     accommodate              the       emerging
+ development            patterns           of     the    county.
+
+‘d)      Yamhill        County        will,        in     cooperation                with        the        State
+ Highway      Division             and     the     cities        of    the       county,
+  establish..a          comprehensive               list        of    recommended                    road
+ improvements               throughout            the    county,           establish                 a
+  suitable        review          mechanism         for        arriving          at     and          amending
+ priorities            on    a    continuing            basis        and    work        towards              the
+
+  creation        of    an       on-going         capital        improvement                    program
+
+  closely     coordinated                 with     all     agencies             of    government
+
+ responsible,               including            cities        for    road       location,
+
+  construction,              finance        and     maintenance.
+
+  e)     Yamhill        County        will        cooperate           with       and        support            the
+
+ State      Highway          Division,            the    Mid-Willamette                     Valley
+
+  Council     of Governments,                     and     any    other          county           or
+ regional         transportation                  agency        in    an     effort             to
+
+  establish        a    viable        and       productive            regional              ,
+
+  transportation                 planning         process        and       operations                    system
+ geared      to    identifying,                 prioritizing               and       resolving               both
+
+ present      and       future        transportation                  needs,           with           special
+  reference        to       our    county         and     regional           network.
+
+                                           -87-                            Exhibit              "A"       ~ Page      87
+                                                                           Ordinance                  614
+                                                                                                        rux 60 moe 1665
+         Finding:                We        find        the           opponents              to        the     proposed               use        argue
+that     policies              b,     c,     d     and           e    are       applicable                   to    our        decision.                    With
+regard        toa      policy         b,     we        find           that        we       are        not     making            a
+transportation-related                                 decision.                      Rather,           we        are        approving                a
+single        proposed              use.           We        find          that        a    transportation-related
+decision            would        be        a decision                     to    build           a highway,                   bridge            or
+similar           facility.                 In     the           event          this        is        deemed           to     be     a
+transportation-related                                 decision,                  we       find        that         an       adequate                supply
+of     high       quality           rock          is    necessary                     to    provide               and        encourage                an
+efficient,               safe,        convenient                      and       economic               transportation                          system.
+We     also       find        that     we        have            considered                 land        use         impacts              for -
+adjacent            ‘land      use     patterns,                      both        existing              and        planned               densities
+in     the    area.            We     find         that              there        are       rural            densities               and        the
+proposed            use       will         provide               no       change           in     the        pattern            of       the        use      in
+the     surrounding                 area.              We        find          that        we     have        considered                  these
+factors           in     our     decision               and,              therefore,                  this        policy            is    met.
+         Policy           c    requires                us        to       cooperate               and        establish               a     liaison
+with     various              entities             related                 to     programming                     and        designing                roads.
+We     find       that        nothing             in    our           decision              involves                the       design,
+programming               or        location            of           roads        and,          therefore,                   determine                that
+this     policy           is     not        applicable.
+         Policy           d    requires                the           county           to    cooperate                  with         other
+entities            to    establish                a     list             of    recommended                   road           improvements.
+We     find       that        the     road         improvements                        are        adequate                for       the        proposed
+use.         We     find       that         nothing                  in    our        approval               of     the       proposed                use
+changes           or     affects            any        list           of       recommended                   road         improvements
+throughout               the     county.
+         We       find        that         policy            e       requires              the        county           to     cooperate                   and
+support           various            governmental                         entities               in    an     effort            to establish
+regional            transportation                       planning                 processes.                      We      find       that            in    this
+manner        we       have         approved             a       single           use       that            does        not        implicate               or
+affect        the        transportation                          planning              process,                   including
+identification,                      prioritization,                            or     resolution                   of       transportation
+needs.            We     find        that        the         only          way        our        approval               of    the        proposed
+
+                                                                               _88-                                Exhibit               "A"        - Page        88
+                                                                                                                   Ordinance                   614
+                                                                                                            FILM 60 race 1666
+
+use    affects             this          policy           in    any       way      is        that       the       rock      from         the          site
+will    be         available              to     provide             raw      materials                 for       transportation
+facilities            that           are       needed           in    the         future.
+
+         (c)         Criterion:                   Policy j
+
+                     Yamhill              County           will       require                new       development               to:
+
+                     1)             Limit        access           points           on        highways             designated                    as
+
+                                    arterials              when       aiternative                      access          points         are
+
+                                    feasible.                                                                                               -
+
+                     2)             Provide           a    frontage               setback              requirement               of      50          feet
+
+                                    from        the       public          right-of-way                      of    all      designated
+
+                                    arterials              within           the       county            for       commercial                    and
+
+                                    industrial                 development;                   and
+
+                     3)             Minimize              direct          access             points           onto        arterial               right-
+                                    of-ways           by       encouraging                   the       utilization               of      common
+
+                                    driveways.
+
+               *
+        Finding:                    We     find       that        access           for        the       proposed            use        of        the
+subject            property              will     be       through            an      existing               private            road        with
+access         onto        Walnut           Hill          Road,       which             is    a       county       road         but      not          an
+arterial.             We        find        that          applicant               has        not       requested            access               on    the
+south     side            of    the       property              to    the         Burch           Hill       Road.          We     find              that
+the    applicant                has       limited              its    access             points             to    an      existing               access
+point     used        by        the       Stephens              Quarry.               We      find          that       this      access
+point     is        safe,           convenient                 and    efficient,                      and     incorporate                our
+findings            with        regard           to       Goals       11        and      12       in     support           of    this
+conclusion.                    We     find       to       the     extent           that           a    frontage            setback
+requirement                of       50     feet       would          be     deemed            to       apply         on    the     southern
+
+                                                                           -89-                                  Exhibit          "A"           - Page       89
+                                                                                                                 Ordinance              614
+                                                                                                            rita 60 esc 667
+portion             of    the        property                which              abuts       Burch       Hill        Road,         we       hereby
+require             that        as    a     condition                    of      approval.              Because            we     find              that
+direct             access           points         are         minimized                   and     access          is     limited            in       an
+intelligent                   and     safe         way,            that          the       provisions              of     this       criterion
+are     met.
+
+             (d)         Criterion                      Policy              o
+
+                         All        transportation-related                                      decisions           will        be     made           in
+                         support            of         the     efficient                   and     economic             movement             of
+
+                         people,           goods,              and          services              throughout              the     region,                 and
+                         will        be    based              on       the       location             and     adequacy            of
+
+                         facilities                for         such             goods       and       services.
+
+         Finding:                    Consistent                    with          our       findings           in    policy           b,     above,
+we     find         that       the        decision                 that          we     are      making        to       approve            the
+proposed                rock       use     is      not         a       transportation-related                              decision.                      In
+the     event            that        approval                of        the       rock       use       would        be     deemed           to        be       a
+transportation~related                                   decision,                    we    find       that        rock     materials                     in
+Yamhill             County           move        most          efficiently                      and    economically                  by     truck.
+We    find          that       the        location                 and          adequacy          of    transportation
+facilitjes                to       move      product                   by       truck       from       this        proposed            use           are
+excellent.                    We     incorporate                       our       findings             with     regard           to.Goals                  11
+and     12         in    support           of      this            conclusion.                    Accordingly,                  to     the           extent
+that     this            criterion                is     applicable,                       it    is    met.
+
+         13.             Section           IV.A--Public                          Facilities             and        Services,               Goal           1
+and     Policies               b,     c,     j,         and        o
+
+             (a)         Criterion:                    Goal            Statement
+
+                         To    development                     a       timely,             orderly          and     efficient
+
+                         arrangement                    of     public             services             and     facilities                  to        serve
+
+                                                                                                                        Exhibit      "A"        -    Page         90
+                                                                                 -90-                                   Ordinance         614
+                                                                                                 FL 80 oc BES
+                        ag     a     framework             for       urban            and     rural        development,
+
+                         including             public           lands           and     buildings,               parks         and
+
+                        recreation                 areas        and       facilities,                 schools,           police           and
+
+                        fire        protection,                 domestic               water     supply,            sanitary              and
+
+                         storm          sewerage           and       other            drainage         facilities,               and
+
+                        power,           gas       and     telephone                  services.
+
+         Finding:                   We       incorporate              our        findings             related        to        Goals       11
+and     12,        below.               We    find       that        the        proposed             use: will       not        require
+the    extension                   of    any       public        services               or     facilities,               and          «
+
+consequently                   will          not    affect           the        timely,         orderly            and     efficient
+arrangement                   of    such       services.                  We     find         that     the       services            to    he
+used     at        the        site       are       adequate           and        appropriate                for     the        nature       and
+scope         of    the        proposed             use.         We       conclude,             therefore,               to     the       extent
+that     it        is        applicable,             that        this           criterion             is    met.
+
+         (b)            Criterion:                  Policies              b,     c,     j
+
+                        b)         Public          facilities                  and     services            for     rural        areas       will
+
+                        be     provided             and       maintained                at     levels        appropriate                  for
+                        Fural           use    only.
+
+                        c)         In    recognition                 of        the     necessity            to    promote            the
+
+                        conservation                 of       energy,            Yamhill         County            will        assume       a
+                        demonstrative                    role        through            the     application                of    energy
+
+                        conserving                 practices              that         will     support            the     development
+
+                        and        operation             of     an    efficient                arrangement                of    public
+                        Facilities                 and     services              within         the        county.
+
+                        j)         Yamhill          County           will        cooperate             with        other        interested
+                        agencies              to    identify,               acquire            and/or        reserve            in    advance
+                        through              appropriate              open           space      zoning           designations
+
+                                                                                                      Exhibit       "A" - Page 91
+                                                                          “91-                        Ordinance          614
+                                                                                                     rx 60: cc 669
+
+                       suitable                watershed                  areas     and       reservoir                 sites      to       serve
+                       the       domestic                water            needs     of       the     emerging              urban           and
+                   rural             development                     areas         of     the       county.
+
+        Finding:                  Opponents                    to    the proposed                  use        argue        that
+policies          b,        ¢    and       j    are        applicable.                   Policy           b provides              that
+public       facilities                    for       rural           areas         will       be     provided              and    maintained
+for    rural       level             use        only.               We     incorporate               our       findings           with
+regard       to    Goals             11,        12       and        14.      We     find          this        is    a    rural         use        and
+that    only       rural             level           services               and     public           facilities                 are
+proposed.               Accordingly,                       we       conclude            to    the     extent             this     criteria
+is    applicable,                 it       is       met.
+        Policy              c    requires                the        county         to     assume          a    demonstrative                      role
+in    the    application                       of    energy               conserving              practices.                We        interpret
+this    provision                 to    mean             that        when         the    county           is       pursuing            a    land
+use    action               (e.g.,      building                    or     constructing               a bridge              or     relocating
+a    highway)           that         the        county              project         be       used     to       demonstrate                  energy
+conserving              practices.                       Because            we     find       that        the       county            is    not
+undertaking                 a project                in        this        matter,           we     find       that        the    policy                is
+not    applicable.
+         Policy             j    provides                that        the     county           will        cooperate              with
+interestedagencies                              to       identify,                acquire          and/or           preserve
+watershed          areas             and        reservoir                  sites.            We    find        that        the    proposed
+use    may    be        reclaimed                   as     a    groundwater                  recharge              area     if     that           use
+is    consistent                 with          farm/forest                  uses.            We     find       that        the     area           is
+predominantly                    zoned          for        agricultural                   uses       and       the        limited
+dwellings          permitted                    in       these            areas     are        served          primarily               by        wells.
+We    have     found             that          the       proposed            use        will        not       significantly                      affect
+groundwater                 resources                in        the        area     and       have     provided              specific
+conditions              to       ensure             that        groundwater                  resources              are     protected.
+For    all     these             reasons,                we     find        that        the       extent           that     this
+criterion              is       applicable,                    it     is    met.
+
+                                                                                                                        Exhibit "A" ~ Page 92
+                                                                            -92.                                        Ordinance          614
+         (c)     Criterion:                      Policy        o                                       FILM     60        race 1670
+
+                 Groundwater                     supplies           will       be        protected                   from        critical
+
+                 draw-downs                  or     disrupted                flows        occasioned                      by     surrounding
+
+                 land            use     development
+                                                   ‘or                       activities,                       such       as     mining        and
+
+                 logging                where      municipal                  watersheds                      exist;        surface           water
+                 supplies                will      be       protected            from              unusual             increases              in
+
+                     turbidity              and     sedimentation                    cased               by     farming,               logging,
+
+                 mining,               excavation              or       grading;                  and     both         ground           water
+
+                 and        surface              water        supplies           will              be     protected               from
+                 contamination                      by      subsurface               sewage                   disposal           systems,
+
+                 sewage            lagoons,              sanitary              landfill                  sites         and       other
+
+                 sources               of    pollution.
+        Finding:                Based        on    the        evidence           in       the            record,            we    find        that
+groundwater            supplies              will        be    protected                 in        both         quality            (e.g.,
+turbidity        sedimentation                     contamination)                        and           quantity                (e.g.,
+critical        draw-downs                  or    disrupted               flows).                  We     also         find       that
+surface        water        quality              and     quantity             will        not            be     significantly
+affected        by    the         proposed             use.         We       incorporate                       our     findings           and
+analysis        in    Goal         6,       below        in    support           of       these                findings.                 We
+further        find        that        policy          refers           to    significant                       problems               with
+water        quality            (e.g.,       critical              draw-downs                     or     unusual            in
+turbidity).                We     are       persuaded              that       water               impacts,             if      ariy,     would
+be    minor     and        nonsignificant.                         We    have        further                   conditioned               our
+approval        in     a    manner           that        protects             water               quality            and       water
+
+quantity.            Accordingly,                  we       find        and     conclude                  that         this       standard
+is    met.                                                                                    ‘
+
+        14.      Section               IV.B--Parks                 and       Recreation,                       generally
+        Finding:                Opponents              argue        generally                     that         the     goal       statements
+and    policies            of     the       parks        and       recreation                     portion            of     the        county's
+comprehensive               plan         apply         to     the       proposed                  use.          We     find       that        this
+part    of     the     comprehensive                     plan       states           a    general                goal          that      the
+                                                                                                                     Exhibit "A" - Page               93
+                                                                    -93-                                             Ordinance 614
+                                                                                                         rica 60 ace 67
+
+county             should        provide              adequate               recreational                 opportunities                   to       meet
+existing                and     projected              needs         and          to     cooperate             to     identify            these
+opportunities                    in       the       development                    for      the     benefit           of    the     citizens
+of    the          county.            We       find         that     the          proposed              use    we     have       approved               is
+neutral              with       regard           to    recreation                   opportunities.                     We       find      that          it
+is     not         on    any     identified                  park        plan,           open       space        or    scenic           resource
+inventory,                nor        has       it     been         identified                 as    a needed           recreation
+resource                for     urban          or     rural        populations                     in    the     county.            We        find
+that        because             it     is      private         property,                    access        to    the        site     could              be
+presently                denied           to     any       person,            by       fencing           or    other        means.                We
+find        that         approval              of     the     proposed                 use     will       not       change        the,
+possibility                   that        individuals                could             be     denied          access        to    the         site
+for     recreational                      purposes.                We        further            find      that        nothing            in       the
+reclamation                   plan        that        we     have        ordered              prohibits             the     site         for
+being           used      in     the        future           for     recreational                       opportunities.                    For          all
+these           reasons,             we     find       and     conclude                  that       this       goal        statement               and
+policies                are    met.
+
+            15.          Section            V.A--Air,              Water,              and     Land       Resources              Quality,
+Goal        1      and    Policies               a,    b,     and        c
+
+             (a)         Griterien:                   Goal     1     Goal           Statement
+
+                         fo     conserve              and     to     protect                natural           resources,            including’
+
+                         air,        water,           soil     and           vegetation                 and     wildlife,              from
+
+                         pollution               or    deterioration                         which       would        dangerously
+
+                         alter         the       ecological                  balance,              be    detrimental               to     human
+
+                         health,            or      compromise                the        beauty          and     tranquillity                     of
+                         the     natural              environment.
+
+            Finding:                 We     find       that         in       our       findings           under        Goals        5,        6
+and     7       in      our     ESEE        analysis           for           the       proposed           site,        we       have
+evaluated                the     potential                  impact           of     the       proposed           use       on    the
+
+                                                                                                                      Exhibit "A" - Page                     94
+                                                                             -94.                                     Ordinance 614
+                                                                                                        run 60 ascc1 6°72
+
+environment,                and      found       that     the           impact          would        be       minor     and       could
+be     largely        mitigated             by    the     methods                 of    operation              proposed           by    the
+‘applicant           and       the    conditions              of        approval              that      we     will     impose          on
+the     use.         We     incorporate            these           findings                 herein        by     reference.
+Based     upon        these          findings,           we       conclude              that        this       criterion           has
+been     met.
+
+         (b)         Criterion:               Policya
+
+                     Yamhill          County       will           cooperate                 with.the           State        Department
+
+                     of     Environmental                Quality                 in     enforcing             state     and       federal
+
+                     regulations              designed                 to    achieve             high      air    quality.
+
+         Finding:               We    incorporate                 herein              our     findings           related          to
+Goal     6.      We        find      that     section             404.07C              of     our       zoning        ordinance
+requires         that          all    mining       operations                     comply          with        state     and       federal
+air     quality           standards.             ‘In     our       findings                 for     this       Section         above,
+we     found     that          the    proposed           mining              operation              can       comply        with       these
+standards.                We    further          find     that              we    will        continue           to    monitor
+compliance            with        these       standards                 as       part       of    our      continuing
+responsibility                  for    enforcing              the           requirements                 of    our     ordinances,
+and     have     the        power      and       obligation                  to       force       compliance            with       the
+standards            if     the      applicant           should              fail        to      comply.          We    find       that
+DOGAMI         has    adequate            enforcement                   power          and       will     have        appropriate
+performance               agreements.
+                                    to                 ensure               compliance              with        its    operating
+permit         and    reclamation                plan.            We        further           find       that     DEQ       has
+adequate         enforcement                authority              to        require             compliance            of     quality
+standards.                Based       upon       these        findings,                  we      conclude         that        this
+criterion            has       been    met.
+
+         (c)          riterijion:             Policy          b
+
+                     Yamhill          County       will,           in        making           land       use     decisions
+
+                     relative          to     industrial                    or    other          uses      likely        to    pose       a
+                                                                                                               Exhibit "A" - Page              95
+                                                                   -95-                                        Ordinance 614
+                                                                                                           aux 60 e463
+                     threat                   to       air     quality,                consider              proximity              of    the
+
+                     proposed                      use        to    residential                      areas        and        meteorological
+
+                     factors                   such          as     seasonal                prevailing                  wind       direction           and
+
+                     velocity.
+
+        Finding:                        We     incorporate                     by      reference                 herein           findings        with
+regard        to     Goal               6,     below.               We     find            that        the       only        potential           air
+quality         issue               at       the        site        is    dust.                 We     further           find       that
+applicant            has            a    paved            access           road,            has        a    water        truck        available             to
+moisten         quarry                  surfaces,                  uses        water            bars        on    its        crushing
+equipment,                and           has        a    DEQ        air    quality                permit           with        which        it”
+maintains            compliance.                             We     find        that            these        reclamations                 are
+adequate            to        protect                  nearby           residences                   from        air     quality          problems
+regardless                of        the        nature              of    prevailing                    winds.            For       all    these
+reasons,            we        find            that        the       proposed                use        will       not’       pose     a   threat         to
+air    quality.
+
+         (d)         Griterion:                           Policy           c
+
+                      Yamhill                  County              will        cooperate                   with        the    State       Department
+
+                     af        Environmental                            Quality             in        implementing                 noise        control
+
+                     regulations.
+
+        Finding:                        We     find           that        opponents                  argue        that        policy        c    is
+applicable                to        this           proposed              use.              We     find        policy          c    requires           the
+county         to    cooperate                         with        DEQ     in        implementing                   noise          control
+regulations.                        In        our        findings,              we         have        previously                 determined           that
+noise        generated                       from        the       site        will         be       within         DEQ        standards.              We
+incorporate                   these            findings                 herein             by     reference.                  We    find        that     we
+have     a     condition                      of       approval            of        the        proposed            use        upon       continued
+compliance                with               DEQ's           standards               which            we     find       and       conclude        can        be
+met    by      the        proposed                     use.         We     find            that        through           applying           DEQ
+standards                on     a       continuing                   basis,            the           county       cooperates               and
+
+                                                                                                                              Exhibit "A" - Page                  96
+                                                                                                                              Ordinance 614
+                                                                                    -96-
+                                                                                   FILR      60         ape        O74
+
+continues            to    cooperate             with       DEQ       in     implementing                     noise
+regulations.                   Accordingly,                we    find       that          this      standard               is       met       to
+the     extent        that        it      is    applicable.
+
+         16.         Section           VII.A--Citizen                  Involvement,                     generally
+
+         Finding:               We     find      that       the       opponents              argue            that        the       citizen
+involvement               portion          of    the       county's          comprehensive                         plan        is
+applicable            in       this       matter.           We    incorporate                    our      findings              herein
+with     regard           to    Statewide             Goals       1    and       2,       below,              We    find        that          the
+county         has    had       numerous             hearings          before             the     Planning                Commission
+and     Board        of    Commissioners,                   and       that       all        interested                  citizens              have
+been     allowed           numerous             opportunities                to       participate                    in    the
+process.             Accordingly,                we    conclude             to     the       extent            that        it       is
+applicable,               that       the       citizen          involvement                 policies               and     provisions
+of    the      comprehensive                   plan    are       satisfied.
+
+         17.         Section           VII.B--Review                  and    Update,              generally
+
+         Finding:               We     find      that       the       opponents              argue            that        the       reviewed
+and     update        provisions                of    the       comprehensive                    plan         policy           are
+applicable-in                  this       matter.           We    find       that           this        is     not        a periodic
+review         or    major        undertaking               and       updating              of    the         comprehensive
+plan.          We    find       that       our       comprehensive                 plan          and      zoning           ordinance
+allow       for      amendment             in    response             to    specific              applications.                          We
+find     that        we    have        reviewed            the    proposed                use      in     light           of    the
+changing            needs        for      aggregate             supply        in      the        county            and     changing
+conditions            in       the     area.          We    further           find          that        we     have        coordinated
+the     planning           efforts             with    the       governmental                    regulatory                agencies.
+We    find      our       actions          in    this       matter          to     be       consistent                  with        review
+and     update        of       the     comprehensive                  plan       with        respect               to     changing
+needs       and      conditions.                 Accordingly,                we        conclude               that        this
+provision            is    met       to    the       extent       that        it       is    applicable.
+
+                                                                                                              Exhibit."A" - Page                     97
+                                                                                                              Ordinance 614
+
+                                                                  -97-
+                                                                                                           rik 60 ec 675
+
+         3.          Statewide                      Planning              Goals        Approval              Criteria
+        We          find          that          in       order        to       approve            the      application                  before             us
+we    must          amend          our          Comprehensive                       Plan        to     add     this        site         to    the
+County        Goal            5    significant                       resource             inventory                of    mineral             and
+aggregate                sites,                and       conduct           an       ESEE        analysis            and       prepare             a
+program             to    protect                   the       site.            The     determination                     of    the
+significance                      of       the          site,        the       ESEE       analysis             and       our       rationale                 and
+decision             on       the          program              are       discussed               below.            We     find         that          this
+discussion                 includes                     findings           relating               to    the        compliance                of       the
+proposed             use          with          the       Statewide                 Planning            Goals,           and       that       these
+findings             are          sufficient-
+                                            to                        demonstrate                    compliance               with       the          goals
+for    the          purposes                   of       the     comprehensive                     plan       amendment.                  We        further
+find    that             our       analysis                   of     each       goal         is       intended           to    be       an    analysis
+of    each          goal          on       a    stand-alone                    basis         for       the     purpose             of    the
+comprehensive                      plan             ‘amendment,                as     well        as    an     analysis             of       the        goal
+as    required                in       the          Goal’5           process.
+
+              iC.                      F                      NE                       GGREGATE              RESOQURC
+
+                         The       Goal             5    resource              under         consideration                    is     immediately
+-adjacent            and          west          of       an     existing              MR~1        zone,        known          as    Stephens
+Quarry.              The          site          is       located           approximately                     three         miles         east           of
+the    city          of       Amity             on       the       north        side        of       Amity         Road        (State
+Highway         .153).                 The          site        is     identified                 as    Tax        Lot     5423-1202                  and       is
+an    80-acre              rectangular                        trapezoid,               approximately                      1,000         feet          in
+width       and          approximately                          3,600          feet        in     length.               The    site          is
+approximately                      ten          miles           southeast              of       the     city        of     McMinnville.
+The    expansion                   area             is    80       acres         in    size          and      is    graphically
+depicted             on       the          map          attached           as        "Exhibit           B"     to       these        findings.
+
+AMPACT        AREA            FOR          THE          MINERAL           AND       AGGREGATE              RESOURCE
+                         We       find          that          it     is    necessary                 and     appropriate                 to
+establish                an       impact                area       around           the      site.           We     have        reviewed                maps
+of    the     site            and          surrounding                    area        and       reviewed            the       materials                 of
+the    record              in      determining                       the       impact           area.          In       addition,              our         view
+of    the     site            provided                   us     with       a    realistic               basis           upon       which           to
+gauge       the          potential                      range        of     impacts             from       the      operation.                    When
+                                                                                                                          Exhibit "A" - Page                       98
+                                                                                                                          Ordinance 614
+                                                                                          run 60 nee B76
+establishing                  the     impact              area,        we    have        kept        in       mind        that        the
+proposed            80-acre          site           is     immediately               adjacent                 to    the        existing
+Stephens            Quarry,          an        approved               mining        site,       where              batching               and
+processing               is       permitted.                Based           on    the     topography                  of       the        site       and
+the    type         of    use       that         will       be        present        on       the        site,        we       have
+determined               that       an     impact           area        of       1,000        feet        from        the       outside
+perimeter            of       the    80-acre               parcel           is    appropriate.                      Our        reasons           for
+establishing                  an    impact            area        of    this        size       are        set        forth       below.
+                     A    primary              reason           for     adopting              the        1,000~-foot             impact
+area     is     related             to     the        potential              noise        impacts              from        a    rock        mining
+and    crushing               operation..                  As     discussed              below           in    these           findings,              we
+incorporate               our       reasoning               with        regard           to    the        objections                  raised          by
+the    opponents                  related           to     noise.             Part       of    the        evidence              we        rely       on
+to    reach         that          conclusion               is     the       report        of    Van           Goolik/Oliver
+Associates.                   We    find         that'a           rock       drill,           one        of    the        noisiest
+pieces         of    equipment                 used        on     a    quarry        site,           did       not        meet        DEQ
+standards            at       a    residence               located           approximately                     300        feet        from       the
+drill         (at    a    different                 site)         without           buffering                 or     other       noise
+reduction            devices.                  We     find        that        the    same       study              indicates               that       a
+residence            located              at     1,300          feet        away     easily              met       DEQ     standards.
+We    note      that          there        was        a    reduction              over        the        1,000        foot       difference
+in    the      range          of    15db         in       the     L-10        sound       level,              and     an       18db
+reduction            in       the    range            of    the        L-50       rating            in    the        study.               While       we
+do    not      assume             that     these           reductions               are       proportional,                     we        find
+that     1,000           feet       of distance                   reduces           noise           impacts           substantially.
+We    also      find          that        noise           impacts           from     an       unmuffled               or       unblocked
+source         at    300          feet     might           be     outside           DEQ       standards.                   While           we     find
+that    there            are       muffling               and     blocking           noise-reduction                           strategies
+that     the        applicant              can        use       at     the       proposed            site,           we    determine
+that     the        impact          area,           based         on    noise        considerations,                           should           be
+
+greater         than          300        feet,        and       we     conclude           that           1,000           feet        is
+appropriate                in      this        instance.
+                     In       addition              to     the        noise       considerations,                         testimony
+related         to       water           impacts           of     concern           to    the        opponents                 also
+
+                                                                                                                    Exhibit "A" - Page                     99
+                                                                         -99-                                       Ordinance 614
+                                                                                                           FILH       60         ate 1B77
+
+supports         our       determination                     that        the    appropriate                      impact           zone             for
+the     proposed           use     is       1,000        feet.            We    find           that        the        Newton               report,
+which     we     find       persuasive                  in     this       regard,              indicates                  that         the
+Hodgson         residence             to        the     north            (approximately                    500        feet        from             the
+boundary         of    the       80-acre              parcel)            should           be    protected                  by     the
+500-foot         distance              for       adverse            water       effects,               if       any,        related                 to
+the     quarry.            We    find           that     the        same       report           indicates                  that            the      Sly
+well,     also        approximately                     500     feet          from        the     perimeter                     edge         of     the
+80-acre         quarry          site,           appears         to       be    hydrologically                         isolated                    from
+the     quarry.            We    find,           based         on    the       Newton           report,               which            we         find
+credible         and       persuasive,                  that        the       wells        to     the        south          of         Burch
+Hill     and     Amity          Roads           appear         to    be       hydrologically                      separated                       from
+the     quarry        area       by     a       ground         water          divide.             From          these            facts,             we
+find     that     potential                 hydrological                   impacts,              if    any,           from        the
+proposed         site       will        be       limited            to    a    distance               of     less          than            500      feet
+from     the     perimeter              of       the     80-acre              parcel.             To       be     conservative                           for
+purposes         of    defining                 an     impact        area,       we        have        doubled              this
+distance.             We    note        that          the      impact          area        of     1,000           feet           will
+include         numerous          wells               (e.g.,        Huff,       Sly,           Hodgson)               in        the        area,
+and     will     also        include             the     Breeding              spring,            to       the        west        of         the
+site.      We     find          that        the        impact        area       we        have        chosen              serves             as     an
+appropriate            area        for          our     analysis              because           it     is       of        sufficient
+size     to.allow           us    to        discuss            and       consider              the     potential                  impacts
+that     have     been          raised           in     the     hearing           and          thereby            allow-us                   to
+analyze         both       conflicting                  uses        from       the        impacts            related              to
+developing            the       Goal        5    resource,               and    to        protect            the          resource
+itself         from    encroachment                     of     future          conflicting                   uses.               Based             on
+the     evidence           in    the        record,            we     find      that           1,000         feet          will
+accomplish            both       of     these           purposes              with        regard           to     the           water
+impacts.
+                  Finally,              the          report         of    the     geophysicist,                           Dr.     Michael
+Feves,     which           we    find           persuasive,                indicates              that           to       avoid
+vibrations            that       would           fracture            weathered                 basalt             (which              is     similar
+in     strength        to       gypsum           wallboard               used        in    housing),                  a    scaled
+
+                                                                                                                  Exhibit             "A"     - Page           100
+                                                                     -100-                                        Ordinance                 614
+                                                                                                          rik 60 4678
+
+distance         must          be    used.            We          find        that          using           the     scaled           distance
+established              by     Dr.        Feves,             a    blast           using             100        pounds         of    explosive
+per    delay        should            be      at    least            100       feet           from          the     ground           water
+source      or      by     analogy,                the        gypsum           wallboard                    source,            to    avoid
+damage.          We      find        that          houses            in       the       area          are        located
+significantly                  farther             from           the     site          than          100        feet.          We       also         find
+that    ground           vibration                 diminishes                  with          distance.                   For        the        purpose
+of    establishing                  an     impact             area,           we       will          use        1,000      feet,           ten        times
+the    distance            indicated                by        Dr.        Feves          as       a    sufficient                distance                  to
+dissipate           blasting               impacts.                  Again,             we       do       not      find        that        blasting
+impacts        will        travel             1,000           feet.            However,                   for      the     purposes                  of
+establishing               an       impact          area,            we       believe                it     is     appropriate                  to
+include        a distance                  that          is       substantially                       greater            than        the        reach
+of    the   potential                 impacts.                    Based        on       all          these         factors,              we         find
+that    the      impact             area        for       the        proposed                use           is     1,000        feet        from           the
+outside        perimeter                 of    the        80-acre              parcel                under         consideration                      in
+this    matter.                We    have          attached               a    map          as       "Exhibit            B"     to       show         the
+location         of      the        impact          area.
+
+QUALITY        OF     THE       MINERAL             AND           AGGREGATE                 RESOURCES
+                    We     find          that       extensive                  test          drilling               has        occurred               on
+the    site.        »We        further             find           that        rock          samples              have      been          evaluated
+from    the      adjacent                Stephens                 Quarry           area          and        from        the     80       acre
+proposed         ‘site.             We     find       that           based             on    these              rock     quality               tests,
+the    rock      from          the       hasalt           deposit              on       site          has        been         found        to        exceed
+the    requirements                   of      the     Oregon              Department                      of     Transportation                       for
+construction               purposes.                  We          further              find          that        the     test        drillings
+conducted           throughout                 the        site           had       a    penetration                     rate        of     less           than
+one    foot      per       minute,             and        we        find       that          this           shows         the       hardness               of
+the    rock.          We       also        find       that           cuttings                 from          the     test        drillings
+throughout            the       site          show        a       blue-gray                 color           which         is    a     prime
+indicator           of     quality              rock.               We     find         that          these            facts        are
+confirmed           by     a    certified                 engineering                       geologist.
+
+                                                                                                                       Exhibit           "A"    -. Page         101
+                                                                          -101-                                        Ordinance              614
+                                                                                             ix 60 rc 1679
+                    We    find       that          the       opponents             attempted               to        establish              an
+argument        that       only       the          rock        around         a particular                    monitoring                   well
+(MW-4)        was    high       quality             and        the     rest        of    the        site          did      not        have
+quality        rock.           We    find          that        this       theory         is     incorrect                  and        in
+direct        contradiction                to       the        rock       drilling            evidence                 and      by
+evidence        presented             by       a    certified                engineering                 geologist.                       Both
+the     geologist          and       the       rock          driller          concluded              that            @rilling
+confirmed           the    lateral             extent           of     the        rock       throughout                   the     property
+and     the    high       quality          throughout                  the        proposed           site.                We     further
+find     that       the    applicant,                   one     of     the        largest           rock          producers                in     the
+county,        and       having       experience                    with      numerous              rock          sites         in the
+county,        found       the       rock          on     site       to      be    of    the        highest               quality.
+Because        of    the       applicant's                   experience,                we     find        this           testimony               to
+be    persuasive.               We    further                find      that        applicant's                    competitors                   in
+the     rock    business             in     the         county         testified              to     the          quality             of    the
+rock     from       the    proposed                site.             We      find       the     evidence                  presented               by
+the     geologist,             applicant,                 competitors,                  and     the        rock           driller           to       be
+persuasive           and       we    find          that        high       quality            rock        is       located             at     the
+site.
+                    Our    examination                    of    the       quality            factor           requires                a
+consideration              of       the     relative                value         of    this        resource                 site
+compared        with       other          examples              of     the        same       resource                at      least         within
+Yamhill‘ county.                    Testimony                provided             to    us    at     our          public          hearings
+consistently              indicated                that        the     rock        at    this        quarry               site        is     the
+best     in    the       county.            We      find        this         testimony              to     be        persuasive.
+While       there        are    other          sites           in     the     county          that         may         have       good
+quality        rock,       we       find       that          this      particular               resource                  is     of       very
+high     quality          and       the     relative                value         of    the     site            is     high          in
+comparison           to    other          mineral              and     aggregate               resources                  in    the
+county.         We       find       that       we        are    not        required            to     do      a      detailed
+statistical              ranking          of       quality            test        scores        of       the         proposed
+80-acre        site       as    compared                to     other         rock       resources                 in      the     county.
+We    are     required          to    provide                general          consideration                       of      the
+resource's            relative            value           by     looking           at    the        quality               of     the       rock
+
+                                                                                                              Exhibit           "A"       - Page       102
+                                                                     -102-                                    Ordinance 614
+                                                                                                      rin 60 ac 1680
+os,
+
+      from    the      proposed              80-acre             site       and        determining                   that          is    of    high
+      quality         compared           to       other          resources                 in    the       county.                 Our    analysis
+      of   quality          factor            (including               testimony                 that          we    received             about           the
+      quality         of    the       rock        and       the       fact       that           this       site          sits       adjacent              to
+      an   existing             high     quality                quarry),             together              with          the       fact       that
+      there      are       excellent              roads          and       transportation                       links          that       serve
+      this    proposed               site,        leads          us    to       find        and       conclude                that       the
+      proposed         80-acre           expansion                   site       is     a    superior                quality             choice.
+
+      QUANTITY         OF       THE    MATERIAL                 AND    AGGREGATE                 RESOURCE
+                           We    find        that       a       certified              engineering                   geologist                has
+      estimated,            based        on       borings             throughout                 the       80-acre             expansion
+      area,      that       there        are       approximately                       8    million             cubic          yards          of     rock
+      available            for       extraction                 on    the       site.            We       find       this          to    be
+      persuasive            and       credible              evidence.                  Even          if    a    significant                   portion
+      of   the      rock        on    the        site       would          need        to       be    preserved                in       situ        in
+      order      to    protect           ground             water          resources,                 we       still          find       that        the
+      site     is     significant                 in    terms          of       the        quantity             of       rock       available.
+      Testimony            from       the        Department                of    Geology              and       Mineral             Industries
+      indicated            that       even        with          mining          restrictions                    related             to
+      protection            of       ground        water             resources,                 there          is    still          a    large
+      quantity         of       rock     available                   for    extraction                    on    the        site.
+
+      BIGNIFICANCE               DETERMINATION                       FOR    MINERAL              AND       AGGREGATE                RESOURCES
+                           Based       on.our           review             of    the        facts          in       the       record          and        our
+      analysis         of       the    site's           close          proximity                 to       the       market          areas           in
+      Yamhill         county           (its       location),                the        high          quality             of    the       rock
+      (among        the     best        in       Yamhill             County),              and       the       large          quantity             of
+      resource             (approximately                   8    million             cubic           yards          at     the       site),          we
+      find    and      conclude              that       this          site        is       significant                   and       important              and
+      must    be      included              in    the       County's             plan           inventory.                    We     amend         the
+      County's          inventory                list       to       add    the        entire             80~acre             site       as    a high
+      quality         and       large        quantity                mineral           and       aggregate                 resource             site
+      that     is     significant.
+
+                                                                                                                          Exhibit "A" - Page                    103
+                                                                            -103-                                         Ordinance 614
+                                                                                                              rx 60 nce ABSA |
+
+IDENTIFICATION                   OF        CONFLICTING                   USES           FOR       MINERAL          AND     AGGREGATE
+RESOURCE
+                     As     part           of       the       process              to    be       followed           under        statewide
+planning         Goal           5,     we       must          identify               uses         which       may     conflict               with
+the     inventoried                   80-acre                resource              site.           Conflicting              uses            are
+those        which,         if        allowed,                could          negatively                impact         the       Goal          5
+resource         site.                In       order          to    effectively                    discuss           whether            an
+existing         or       potential                     use     will         conflict              with       the     Goal        5     mineral
+and     aggregate               use,           it       is    necessary                 to     evaluate            whether            effects
+from     the     mineral               and          aggregate                use        would        adversely             affect             uses       in
+the     area     and,           conversely,                     whether              effects           from        uses      in       the,        area
+will     adversely               affect                 the     resource                use.         The      entire         80-acre
+parcel,         and       most         of       the          property              in    the       surrounding              area,             is
+zoned        AF-20,         a        farm/forest                   use       zone        within          Yamhill           County.                 To
+the     north,           portions
+                                -of                      the       general              area       are     zoned         AF-10,             an
+agricultural/forestry                                   small       holding              district.                 Immediately                    to    the
+east     of     the       site         is       existing                Stephens               Quarry         which        is     zoned            MR-1.
+To    the     southeast                of       the          site       is     a     quarry          generally             referred                to    as
+the     Anderson            Quarry,                 which          is    zoned           MR-2.           To     the      south          of        the
+site     is     property               zoned             EF-40,          an        exclusive              farm       use     district.                   We
+find     that        the        site           and       land       within              the       impact        area       encompasses
+four     zones);          the        AF-20              zone,       the        AF-10           zone,       the       EF-40        zone,            and
+
+the     MR     zones.            We        find          that       we       are        required           to      examine            the         uses
+allowed         in       each         of       these          zones          to      determine             if      conflicts                will
+arise        between            and        among             the    allowable                  uses      and       the     mineral                and
+aggregate            use.
+         Goal        5    resource                  extraction                 sites           are     generally             accompanied
+by    some      degree           of        noise,             dust,          vibration,                and      site       alteration.
+We     find     that        for        a use             allowed             in      any       existing            zones        within             the
+impact        area        to     be        a    conflicting                    use,          it    must       be     demonstrated                      that
+such     use     is       or     could              be       sited       on        the       property           within          the         impact
+area     and,        if     sited,              would           adversely                affect          or     be    adversely
+affected         by       the         Goal          5    mineral             and        aggregate             use.
+
+                                                                                                                     Exhibit          "A"    - Page        104
+                                                                             -104-                                   Ordinance          614
+                                                                                          rin 60 nec B82
+           In    the        four        zones        within           the        impact        area,        we    find       that          the
+county          code        describes           numerous                 permitted             uses      and      conditional
+uses.           The    AF-20            zone    lists            24      permitted             uses      and      27     conditional
+uses.           The    AF-10            zone    lists            12      permitted             uses      and      13    conditional
+uses.           The    EF-40            zone    lists            21:permitted                  uses.and           17     conditional
+uses.           Many        of    the        AF-10        uses        parallel            the     uses       listed          in       the
+AF-20       and       EF-40           zone.          The       MR     zones        lists         several          uses       as       well.
+We       find    that           the    permitted               uses        listed         in     these       zones          can       be
+grouped           into          associated            uses          which         have     similar           impacts             on       the
+mineral          and        aggregate           use        or       could         expect         similar          types          of
+effects           from          the    mineral            and       aggregate             use.                                        .
+                  . 1.           Mineral        and        Aggregate               and     Related             Uses.         The          MR
+zones       and       the        AF-10,        AF-20           and       EF-40      zones         provide           for      mineral
+and       aggregate              uses        and/or        geothermal               uses.          We       find       that       these
+uses,       with       the        exception               of    the        geothermal             uses,          are     the      same
+uses       that       are        proposed            on    the        80-acre           site      for       which        Goal         5
+protection                 is    requested.                We       find         that     the     mineral           and      aggregate
+uses,       if     allowed              in    adjoining               zones,        would         create          the       same
+impacts          that           wouldbe         generated                  by     the     proposed           use       on    the
+80-acre          parcel           at     issue.            In       addition,             we     find       that       geothermal
+uses       also       have        similar            types          of     conflicts,             including              noise,            dust,
+vibration;and                    alteration               of    the        landscape.                 Because          of    the
+similarity             of        the     effects           of       all     these         uses,        we    find        that         they
+could       exist           side       by     side        and       not     have        adverse          effects            on    each
+other.           Accordingly,                  we     conclude              that        they      are       not     conflicting
+uses.
+     .                2.         Farm        Uses.         The        Zoning        Ordinance               lists        numerous
+farm       uses       that        are        allowed           in     the        EF-40,        'AF-20,       AF-10          and       MR
+
+zones,          including              the     growing              of     crops,         raising           of     livestock,                  farm
+accessory             uses,            irrigation,              building            of     wineries,              horse          boarding,
+and       other       similar            farm        activities.                   We     find        that       these        farm
+activities             are        included            in       Sections            402.02,            402.03,           402.04,
+403.02,          403.03,              403.04,         404.03,              404.04,         501.02           and     501.03            of       the
+Yamhill          County           Zoning        Ordinance.
+
+                                                                                                             Exhibit "A" - Page                      105
+                                                                         -105-                               Ordinance 614
+                                                                                               mus 60 4683
+                    We    adopt       by     reference               herein        as     though          fully           set        forth
+our     findings          and    conclusions                with          regard        to    ORS        215.296.                   In
+those     findings,             we    conclude             that       the        proposed          use        will        not
+significantly                 increase          the    cost          of    accepted           farming              and     forest
+practices           on    surrounding              land,         and       will        not    force           significant
+changes        in    accepted           farming            or    forest           practices              on    surrounding
+land.         We    find       that     our      conclusion                regarding           the        lack        of     increase
+costs     and/or           forced       changes            in    accepted              farming           practices                  is
+significant              in    our    determination                   of     whether          or     not       there        are
+conflicts           between          the    proposed             mineral           and       aggregate              use     and           the
+farming        uses       of    adjoining             properties.                  We     find       that          significant
+increases           in    farming          costs       and       significantly                 forest              changes               and
+farming        practices             constitutes                a good           definition              of    a     "conflict"
+with     farm       uses       under       the    Goal          5 rule.            Because           there          will            be    no
+significant              increase          in    cost       or       forced        change           in    accepted                  farming
+practices,           we       find    and       conclude             that        farming       on        adjacent               ,
+properties           does       not     conflict            with          the     proposed           aggregate              use.
+                    We    have       divided          up    our       discussion              of     conflicts               for          farm
+uses     between          those        farm      uses       that          occur        actually           on       the     site           and
+those     farm       uses       that       occur       on       adjacent           properties.                     Our     analysis
+of     farm    uses       that       occur       on    the       site        are       contained              in     our
+discussionof statewide                           planning             Goal        3.      Discussion                 in    this
+particular           portion          of    the       findings              is    related          to     those           farm           uses
+which     exist,          or    could       exist,          on       adjacent           or    surrounding
+properties.
+                    4.        Dwellings,           Schools,               Churches           and     Related
+Structures.               We    find.that             the       EF-40,           AF-20       and     AF-10           zones           permit
+a variety           of    dwellings,             and       other          similar         types          of    noise
+sensitive           structures,              including               schools,            labor       camps,           home
+occupation,              subdivisions,                mobile          home        storage,           infrastructure                            for
+subdivisions,                 secondary          dwellings,                day     care,       cemeteries,                  and
+other     types          of    structures             and       uses       that        are    predominantly
+designed           for    human       habitation                or    human        use       and     may       be     noise
+sensitive           in    nature.           Wineries             are        included          in     this          group            to    the
+
+                                                                                                         Exhibit "Al" ~ Page                     106
+                                                                 -106-                                   Ordinance 614
+                                                                                                                rk GO cA B84
+extent          that         they        would          be     deemed          noise-sensitive                         due       to       human
+occupation                  (we     generally                do     not      find        conflicts               with           winery
+operations--e.g.                         crushing,                fermenting,                 bottling-~-and                     the       proposed
+rock       use).            We      find          that       home       occupations                  could            occur          in    any       of
+these        residences.                      These          uses       are       contained               in     Sections                 402.02,
+402.03,          402.04,                403.02,          403.03,             403.04,            404.02,               404.03,             501.02
+and     501.03            of      the        Yamhill           County          Zoning           Code.            We        find       that        there
+are     existing               dwellings                at     or      near       the       1,000-foot                 perimeter                of    the
+impact          area.             We     find          that       it    is     possible,                 although               unlikely,             for
+a    new     residence,                  school,             church,           cemetery              or.other               similar
+noise-sensitive                         use       to    be     constructed                  near         the     proposed                 site.
+This       is    particularly                      true        given         that        the        Oregon            Administrative
+Rules        state           that        property              zoned          for      agricultural                    use       may       not       have
+public          or    private                schools              (including             all        buildings               essential                to
+the     operation                 of     a-school),                 and      churches               and     cemeteries                    in
+conjunction                 with         churches,                allowed           on      property             within              three        miles
+of    an     urban           growth           boundary              unless          an      exception                 is    approved
+pursuant             to      ORS        197.732          and        OAR      660,        Division               4.         We    find          that
+this       property                is    within          three          niles          of     Amity's            Urban           Growth
+Boundary.                 We      find        that        it      is    possible               for       noise         from          the       rock
+use     to      interfere                with          this       group        of      noise~sensitive                          uses,          and    we
+conclude             that         existing              and       future          uses         in    this        category
+surrounding                  the        site       have        the      potential               to       conflict               with       the
+mineral          and         aggregate                 use     of      the     site,          and        visa         versa.
+                       4.         Utilities                  Facilities.                 We     find        that           utilities
+facilities,                  transmission                    lines,          transmission                   towers,              reservoirs,
+and     other         types             of    utility             uses       are       allowed             in        the     EF-40,            AF-10
+and    AF~20          zones.                 We    find        that       these          uses        are        found           in
+Sections             402.02,             402.04,             403.02,           403.04,              and     501.03              of    the
+Yamhill          County             Zoning             Ordinance.                 We     find        that            utility
+facilities,                  including                 transmission                 lines           of    various               types          and
+towers,          are         unmanned,                 fixed        facilities.                     We    find         that          these        types
+of     facilities                 are        not       used       for     human          habitation                   nor       are       they
+oriented             toward             general          public           use.           As     such,           we     find          that       these
+
+                                                                                                                     Exhibit "A" - Page                    107
+                                                                          -107-                                      Ordinance 614
+                                                                                                                  ay 60 1685
+uses     are       not        sensitive              to     the       potential                 impacts            generated                 by
+aggregate           sites,              including              noise,           dust,          vibration                and       traffic.
+We     further          find        that        these          types           of    static             uses       do       not       directly
+impact        aggregate                 use     in       any     negative                way       nor       do    they          require
+restrictions                  on    the       aggregate               use       to       protect             the       utility             use.
+Accordingly,                  we    conclude              that        the       uses          in    this          group          do    not
+conflict           with        the       mineral            and       aggregate                use       of       the       site.
+                    5.         Boads
+                                 and Highways.                                      We    find          that       the       EF-40,             AF-10
+and     AF-20        zones          provide              for     a    number             of    transportation                         uses,
+including           road           uses,        airports              and       aids          to    navigation.                       These          uses
+are     listed           in    Sections              402.02,           402.04,                403.02,             403.04          and       501.03.
+Under        our    discussions                     of    Goal        11       and       Goal       12       of    these          Findings,
+we     discuss          the        infrastructure                     and       transportation                         systems             in       the
+general         area.              We     incorporate                 that          discussion                herein             by
+reference.                We       find        it    extremely                 unlikely             at       the       proposed              site,
+because        of        its       remote           location           on       the       hill          and       adjacent             to       a    rock
+quarry,        could           be       used        for     road,          highway             transportation,                         and
+particularly                  for       airport           uses.            We       find       that          road       and       highway
+uses     allowed              in    the       EF-40         and       AF-20          zones          relate             to    construction
+and     modification                    of    public           roads           and       related             facilities.                     We      find
+that     these          are        uses       which        would           not       be       adversely                affected              by      the
+impacts        of       an     aggregate                 site        because             they       have          no    special
+requirements                  or    sensitivities                     that          could          be    adversely                affected                by
+an     aggregate              operation.                  We     further             find          that       these          construction
+and     road-related                    uses        have       characteristics                          similar             to    those             to
+the     aggregate              operations                  (e.g.,          traffic,                vibrations                and       noise),
+but     they       do     not       directly               impact          a    rock          use       in    any       negative                way.
+We     find     that          restrictions                  on       rock       resources                are       not       required                to
+protect         road          uses,          and     visa        versa.              We       find       that          the       provisions
+of     the    Yamhill              County           Ordinance              related             to       roads          and       highways
+within        EFU        land       must        be       consistent                 with        the      provisions                   of     ORS         215
+which        limit        the       uses        to       passing            lanes         within             existing             rights-of-
+way,     nontravel                 lanes        due       to     construction                      or    modification,
+temporary           detours              are        minor        betterments                   to       existing             highway-
+
+                                                                                                                   Exhibit "A" ~ Page 108
+                                                                       -108-                                       Ordinance           614
+                                                                                                  aux 60 B86
+related           facilities.                   We        find        that         there        are        no    existing               highway-
+related           facilities                  (e.g.,           weigh          stations,              rest        areas)              along          the
+roads        around          the        site.             We     find         no    evidence               of    any        rights-of-way
+that     encroach                upon     the        site           nor       do    we     have        any       evidence               of       any
+future        need          for     modifications                        or    future           detours              of     roads           in      the
+areas        on    the       site        or     within              the       impact           areas.            We        further            find
+that     the       topography                  of    the        site          and     the       topography                  of       the      impact
+area     physically                 prevents               the        use      of     the       area        for       airport              or
+airport-related                     uses.            We        further             find        that        aids       to        navigation
+are     similar             in    nature            to     utility             structures                  in    that           they       are
+static        structures                 that        are        not       designed              for        human           habitation.
+Based        on-our          analysis               of     these          types           of    uses,           we    find           that        they
+do    not     adversely                 affect            the       rock       use        nor     would          the        rock
+extraction              and       processing                   operations                 adversely               affect             this        group
+of    uses.            For       all     these            reasons,             we     conclude              that           the       uses          in
+this     group          do       not     conflict               with          the     rock        use       of       the        site.
+                                                     a)
+                       6.        Horse         Breeding,                 Boarding              and     Kennels.                  We     find            that
+                                                                                                                                                                      om
+these        uses       are        in    the        AF-10           and       AF~20         zones          in    Yamhill              County.
+We     find       that       these        uses            are       included              in    Sections               403.02,              403.04,
+501.02,           and       501.03.             We        find        that         these        types           of    uses           are
+generally              not       sensitive                to    noise          or     other           affects              potentially
+generated              by    a    rock         operation.                     We    have        concluded,                  based           on
+record        evidence              which           we     find          persuasive,                 that         noise          will         be
+within        DEQ       requirements,                      outside             vibration               will          not        be
+significant,                 and        that        noise           generated              by     the        site          will       be
+controlled               within          DEQ        standards.                     Because            these          are        the     main
+impacts           of    the       rock         operation,                 we       find        that        these           types        of
+impacts           will       not        affect            horse          breeding,              boarding,                  or     kennels,                and
+conclude           that          aggregate                use       is    not        in    conflict               with          these         uses.
+We     also       find       that        kennels,                in      particular,                  create           a    significant
+amount        of       noise.            Therefore,                   noise          is     not       of    particular                  concern
+with     a    kennel             operation.                    We     further             find        that        the       normal
+operation              of    a    horse         breeding                 and       kennel         operation,                     including
+feeding           and       exercising               the         animals,             and       other           activities,                   would
+
+                                                                                                                      Exhibit          "A"       - Page         109
+                                                                          -109-                                       Ordinance              614
+                                                                                                                rx 60 1: 4687
+     not     have     an       impact            on       the     rock           extraction                    operation           that        has       been
+     proposed.             Based        on        all          these            factors,              we       find      and      conclude           the
+     uses     in    this        group            do       not     conflict                     with       the     mineral           and    aggregate
+     uses     on    the        site.
+                          7.     Firearms                  Facilities.                          We     find       that       firearms
+     facilities            are     permitted                     in     the        AF-20             zone        (see       County        Code
+     Section        403.04).                 We       find        that           training                 facilities              are     places
+     where     firearms            are           discharged                     and      there            is    significant               noise          and
+     concussion            created               by       the     firing              of        the       guns.          Because          we     find
+     that     the     firearms               training                  facility                 would          have     these        types          of
+     impacts,         which        are           similar               to       the      potential                impacts           from       the       rock
+     operation,            we     find           and       conclude                that          the       mineral           and     aggregate
+     operation            would        not        conflict                  with         the          firearms           training          facility
+     nor     would        the     firearms                 training                facility                conflict              with     the
+     mineral        and        aggregate                  use     ‘on       the       site.
+                          8.             i            =                          ses.            We       find       that        habitat-related
+     uses     are     permissible                     in       the      EF-40,                 AF-10       and       AF-20        zones.            We
+     find     that        these        are        uses           that           are      allowed               under        Sections           402.02,
+     402.04,         403.02,           403.04,                  and     501.02.                  We       find       that        these     habitat-
+     related        uses        include               wetlands,                  fish           and       wildlife           preserves,              and
+     related        habitat            uses.               While            we     find          that          the     reclamation              of       the
+     rock     site        may    provide                  habitat               values,              we     find       that       there        may       be
+     at     least     a    temporary                  conflict                  with           on-site          habitat           and     the
+     possibility               that     rock              extraction                  activities                  would          adversely
+     affect        adjacent            areas              which         can        be          used       for     habitat           uses       in    this
+     group.         Similarly,                   if       adjacent               areas           would          be      fully       protected              for
+     habitat,         this       might            restrict                  mineral              and       aggregate              operations.
+     The     primary           nature            of       the     conflict                     which       we     have       observed           would
+     be    noise      produced               from          the         operation                 which          might        conflict           with
+     habitat-related                   uses.               Accordingly,                         we     find       and       conclude           that
+     there     is     at       least         a    potential                     conflict               between           the      proposed           use
+     and     habitat~-related                     uses           in     this          group.
+                          9.                                      ts        a            fo}              urses.            We     find    that          the
+     group     of     uses        related                 to     parks,            golf          courses              and    destination
+
+                                                                                                                            Exhibit "A" - Page                 110
+yo
+
+                                                                                 -110-                                      Ordinance 614
+                                                                                              rit BO rcc4688
+
+resorts          are     permitted                in       the     EF~40,         AF-10           and       AF-20         zones.           We
+find     that       these            uses        are       allowed        in      Section              402.04,            403.02,
+403.04        and      501.02.               We       find       that     these          uses          are     primarily
+recreational                in       nature           and     that       the      potential                 impacts         from       a
+mineral          and      aggregate               operation               (including                  noise,        dust        and
+vibration)             could          potentially                  present          a    conflict              with        these       types
+of     recreational                  uses.            Wineries           are      included              in     this        group       to       the
+extent        they        are        considered              park-like              uses          (e.g.        picnicking) .
+While       we    find          that        it    is       unlikely          that        surrounding                  land       would          be
+developed           as      a    golf        course           or    destination                   resort,            it    is    possible
+park     uses       could            be    established               and       that          if       fully     protected,             for
+park     land,         could          be     an       adverse        effect             on    the       operation               of    the
+rock     quarry.                We    note        that        statewide             Goal          8    prohibits            destination
+resort        siting            within           24    air       miles       of     an       urban          growth         boundary             and
+that     the      city          of    Amnity's             boundary          is     approximately                     three          miles
+away.         For      these          reasons,              we     find      that        uses          in     this        group
+potentially               conflict               with       the     mineral             and       aggregate               operation
+that     is      proposed.
+                    10.          Forest-Related
+                                             Uses.                                  We find that these include
+harvesting             of       trees,           auxiliary           uses,          conservation                    uses,        and       such
+structural             uses          as     fire       towers,           processing                   uses,     forest           camps,
+scaling          and     weighing                stations,           and       research                and     experiment
+facilities             accessory                 to    forest        operations.                       We     find        that       these
+uses     are      set       out       in     Sections              402.02,          402.04,             403.02,            403.04,
+404.03        and       501.02..             We       find       that     these          uses          are     primarily              related
+to    the     growing            and       harvesting               of    timber.                 We    find        that        the
+growing          and     harvesting                   of    timber,          particularly                     the     harvésting,
+has     many      of     the         same        impacts           that      potentially                    accompany            mineral
+and     aggregate               operations,                  including            noise,              dust,     and        vibration.
+We     find      that       all       of     the       other        forestry             uses          must     be        accessory             to
+forestry          practices,                 including              harvesting,                   and       therefore            this
+group       of    uses          is    generally               subject          to       and       compatible               with       many       of
+the     same      types          of       operational               effects             as    mineral           and        aggregate
+operations.                 Because              we    find        that      the        types          of     affects           that       would
+
+                                                                                                               Exhibit "A" - Page                    111
+                                                                     -Ill-                                     Ordinance 614
+                                                                                                   rin 60 nce 1689
+
+     be    produced        by     the       forest         uses        in      this     group        and    the       rock        quarry
+a,
+
+     use    are     similar          in     nature,          we     find        and     conclude           the     forest          uses
+     in    this     group       would          not     adversely               affect        the     rock       extraction
+     operations,            nor      would        rock        extraction               operations           adversely              affect
+     the    forest        uses       in     this       group.
+                      As       set     forth         above,         most        of     the    existing            uses       are
+     potentially           allowed             uses     in     the       area         surrounding           the       site        as
+     determined           by    review          of     the     Yamhill              County      Zoning          Ordinance              are
+     uses     that    are       not       sensitive            to      the      typical         adverse           affects          of    a
+     quarry       operation             (e.g.,         noise,          dust,         vibration)            and,       therefore,
+     are    not     adversely             affected           by     the        rock     quarry        that        has     been
+     proposed,            Similarly,              because           the        uses     are    not        sensitive           to       the
+     potential        external              affects          of     the        rock     quarry        operation,              no
+     particular           limitation              on    the       quarry            operation         would        be     required
+     in    order     to    allow          these        other        uses        to     fully        and    properly
+     function.            Therefore,              we    conclude               as     specifically              set      forth
+     above,       that     most        of      the     uses       are       not       conflicting           uses.            However,
+     we    have     identified              the      group        of     uses        related         to    farm       dwellings,
+     group     of    uses       related           to    habitat,               and     the    group        of     uses       related
+     to    parks,     golf        courses            and     resorts            to     be    conflicting              uses.
+
+     ESEE     ANALYSIS
+                      Because             we    have       identified                conflicting            uses         (e.g.,
+     groups       related         to      residential               uses,           churches,         schools           and       day
+     care     centers;          parks,          playgrounds,                   golf     courses           and     other
+     recreational              uses;        and      habitat           uses),          we    will     proceed           to    a
+     consideration              of     the      ESEE       impacts             of    the     proposed           aggregate              site
+     and    the     conflicting                uses.         As     part        of     our    ESEE        analysis,           we       will
+     also     analyze          the     applicability                   and      requirements               of     the     statewide
+     planning        goals.
+
+                                                                                                           Exhibit  "A" - Page                112
+                                                                       -112-                               Ordinance 614
+                                                                                                            FILM         60        ate 1690
+
+            1.        ECONOMIC             CONSEQUENCES                  ANALYSIS.
+
+                      a.        Impacts           on    the       Resource                 of    Allowing                Conflicting
+                                Uses.
+
+                       If       any     one       of    the       conflicting                    uses       in       the       groups
+identified                 above           (hereinafter                referred                 to    as    the          Farm        Dwelling
+group,           the       Habitat          group        and       the        Parks             group)          is       allowed           in    close
+proximity              to       the     Goal       5 mineral                 and        aggregate               resource,                 we    find
+it    could           potentially                 have       a significant                       adverse             economic              effect
+on    the        resource.                 For     example,              if       a     farm         dwelling,                resort,           camp
+ground,           habitat             preserve           or       other           noise-sensitive                         use        in    the
+three        conflict                groups        were       located                 adjacent             to      the        quarry,           we
+find     that          this          may    require           a    change               in      quarry          operations                 to    allow
+the    two        uses          to    co-exist.               At       best,            the      cost       of       mining           and
+processing,                 and,        therefore,                the        cost          of    the       final          product,              would
+be    increased                 because           of    the       additional                    cost       and       expense              necessary
+to    reduce           adverse             effects           on    the        conflicting                   use.              Compliance
+with     applicable                   environmental                    regulations,                     such         as       noise
+regulations,                    might       also        be    rendered                  more         difficult                at     the       site.
+We    find        it       likely          that        the    unrestricted                       allowance                of       uses        within
+the    conflicting                    use     groups          near           or       on     the      extraction                   area        would
+result           in    a    significant                 shrinking                 of       the       area       within             which        quarry
+activities                 take       place,           and    a consequent                       loss       of       a    significant
+portion           of       the       resource.               We    find,              that       it    would             be    extremely
+difficult,                 if    not       impossible,                 to     design             an    extraction                    plan       which
+would        allow          fullest           utilization                    of       the       resource             on       that        portion
+of    the        proposed             quarry           site       if     conflicting                   uses          were          allowed           to
+locate           in    close          proximity              to    the        site.              As     set        forthin                our
+discussion                 of    Goal        6,    which          we     incorporate                   herein             by       reference,
+we    find        that          protection              of    groundwater                       might       cause             operational
+restrictions                    on    the      rock       resource,                   which          could         have         economic
+effects           related             to    reductions                  in    the          amount          of      material               that
+could        be       extracted.                  As    set       forth            in      our       discussion                 of    Goal       9,
+
+                                                                                                                     Exhibit "A" - Page                   113
+                                                                         -113-                                       Ordinance 614
+                                                                                                               rit 60 roc D BOL
+oo,
+
+      which       we     incorporate                       herein            by        reference,              we     find        that          the
+      impacts          of     conflicting                       uses         potentially                    could         have        a    significant
+      adverse          economic             effect                on       the         quarry          site,        and        potentially                  the
+      County        could         lose           a    valuable                and           important              source         of       aggregate
+      material.
+
+                            b.        Impacts               on        Conflicting                    Uses      of     Allowing                 the
+                                      Resource                  Use.
+
+                            We    find,              with         regard               to      impacts         on’ conflicting                        uses
+      generally,              that         these            impacts                will         be     significantly                      reduced           or
+      eliminated              due      to        the        particular                      methods           of     extraction                 used
+      (e.g.,        controlled                   blasting,                   advanced                drilling             to     protect
+      groundwater,                an@       the            use        of     berms             and     vegetative                screens)                 and        the
+      topographic                features                  of     the        site.                                         ;
+                            More       specifically,                          with             respect         to     dust        impacts,                 we
+      find     that         extraction                     and        processing                  operations               and        associated
+      vehicle          movement             will            not        have            significant                  impacts           on       conflicting
+      uses     because:                   (1)        equipment                on        the       site        will        have        DEQ       permits,
+      which       mandate             the        control               of     dust             from     quarrying                activities;
+      (2)     the       company            has         a    water            truck             which        can      be    used           to    reduce
+      dust     impacts;               and        (3)        the        access               road       to     the     processing                 area           is
+      paved       ahd       maintained                     to     reduce               road       dust        emissions                from      traffic
+      to    and        from      the       site.                 In    addition,                  we     find        that        agricultural                        and
+      residential                uses           in     the        general                area        have      co-existed                  with           the
+      Stephens           Quarry            operation                   without                 any     significant                dust          problems.
+                             With      respect                  to     noise             impacts,             we     find        that          noise
+      levels        at       nearby             existing               residences                    will      comply            with          DEQ        noise
+      standards.                 We     find           that           DEQ         standards              are        appropriate                 standards
+      by    which        to      judge           noise            impacts                on     the     potential                conflicting                    uses
+      in    the     three           conflict                groups                as     the         regulations                are       designed              to
+      protect           noise         sensitive                   properties,                        including            places           of        human
+      habitation.                   Our         analysis                of       the        noise           impacts            requires              us    to
+      consider              conflicting                    evidence                in       the       record.             We     find          that
+
+                                                                                                                                Exhibit "A" - Page 114
+                                                                                       -114-                                    Ordinance            614         ~
+                                                                                                              rx 60  ce L692
+opponents             to       the          site          hired        Mr.        Duble,            a    noise   consultant.
+Mr.     Duble         prepared                   a    report           and,         in     testimony                     before        us,
+indicated             that             it    would           be     difficult,                  while              not     impossible,                   under
+DEQ     noise         standards                      on     the     80-acre               direction                 area.            However,                we
+find       that       under             questioning                    at     the         hearing,                 Mr.     Duble         admitted
+that       he    failed                to    take           into       consideration                         existing             the        MR-1        zone
+immediately                adjacent                   to     the       proposed                80-acre              expansion                area        and
+the     types         of       uses          that           are     permitted                  as       right,            in    that         zone,
+including             crushers,                      batch        plants,             rock          drills,               and     other
+equipment.                 We          have          reviewed            the       DEQ         noise           regulations                   and
+understand                that          the          ambient           noise          level             from        which         the              .
+degradation                standards                      which        Mr.        Duble         feared              would         be     violated
+must       include             a       consideration                     of       existing               noise            sources            in     the
+area.           We    find             that          Mr.     Duble           failed            to       consider               existing                zoning
+on    an    adjacent                   piece          of     property,                and       the           existing            uses        on        that
+property,             when             determining                  the       ambient               statistical                   noise           level            in
+the     area         and       in       reaching              his        conclusion                     that         the       L-10      or       L-50
+levels          would          be       increased                 by     more         than          10dba            in    one       hour.              We
+further          find          that          a       rock     drill           located               on        the        extreme         western
+edge       of    the       existing                   Stephens               Quarry            and       a     rock        drill         located              .on
+the     extreme            eastern                   edge     of       the        proposed               80-acre               parcel         under
+consideration                      in       this           land     use       decision                  would            produce         the           same
+level       of       noise.                 Accordingly,                     we     find        that           the        rock       drill             located
+on    the       Stephens                Quarry              site       would          necessarily                        increase            the
+ambient          statistical                         level         for       the      purpose                 of     judging            the       noise            to
+be     allowed            by       a    rock          drill         on       the      proposed                 80-acre            expansion
+site.           We    find             that          Mr.     Duble's              calculations                       also       did      not        take
+into       consideration                         special            matters               or    deflection                     devices            that
+could       be       used          to       reduce           noise.               Because               Mr.         Duble        failed           to
+consider             these             matters,              we     do       not      consider                 his        testimony
+persuasive.                    C.C.          Meisel           provided                a    study              from        an    acoustical
+engineer             to    another                   C.C.     Meisel              property               specifically                    listing                  the
+noise       produced                   by    a       rock     drill           and         providing                  us    with         information,
+which       we       find          persuasive,                    that        the         noise          produced               by      the        rock
+
+                                                                                                                           Exhibit       "A"       ~ Page           115
+                                                                                                                           Ordinance          614
+                                                                              -115-
+                                                                                               FILA        60     ne 1693
+om,
+
+      drill     exceeded             DEQ     limits            at      a       house         located             300     feet          away,          but
+      would     be      significantly                   below          DEQ          requirements                  to     a    house            located
+      further        away.           We    find         this        information                     supports             C.C.          Meisel's
+      statements           and       meets       DEQ         noise             standards.                  We     find        those
+      statements           credible.                 We      further                find      that         even         though           he     found
+      fault     with       the       application,                   Mr.          Duble        suggested                 several             other
+      alternatives              such       as    screens,                  berms            and     special             buffers,               which
+      would     decrease             the     level           of     noise              from       activities                 on     the        proposed
+      expansion           area.
+                          Based       on     all        of     these             factors,             we    find         and        conclude
+      that     while       noise          conflicts               are          possible,              there           will        be     no.
+      significant             noise        impact            from          activities                 at    the         quarry           site             on
+      the    groups        of      conflicting                 uses            we      have       identified.
+                          With       respect            to     vibration                    impacts,             we     find        that        the
+      report       of     geophysicist                  Michael                Feves,         which         we         find       to     be
+      credible          and     persuasive,                  concludes                  that        ground            vibrations                from
+      quarry       blasting           can       be      controlled                     through         the        careful              calculation
+      of    distance          and     powder            charges                to      protect         on-site               water
+      resources.              In     addition,               we     find            that      typical             quarry            blasting                   at
+      a    distance        of      500     feet         produces                 vibrations                similar            to       an
+      individual           walking.              We       find         this            is    the      professional                     judgment                 of
+      a    registered           engineer             who       has         significant                 experience                   in      quarry
+      operations.               We    find         it     to      be       a     persuasive                position.
+      Accordingly,              we    find       that          vibration                    from      the        quarry           site         will            not
+      produce        significant                conflicts                  with         the       groups          of     conflicting                       uses
+      we    have     identified.
+                          With       respect            to     traffic                 concerns            expressed                by      the
+      opponents,           we      incorporate                 our         findings               under          Goals         11      and          12,
+      below.         We    find       and       conclude               that            traffic         concerns               will          not           be    a
+      source       of     significant                conflict.
+                          With       respect            to     water             quality            and         quantity            impacts,                   we
+      incorporate             by     reference               our       analysis                under            Goal     6    below.                 We        are
+      persuaded           that       the     quarry            operation                    can     occur         without              significant
+      adverse        impact          on    the       water          resources                  of     the        area,        both          ground
+
+                                                                                                                       Exhibit           "A"    - Page              116
+                                                                               -116-                                    Ordinance             614
+      and     surface          water,           and       find       and        conclude              that          water             issues            do     not
+      present        a    significant                   conflict              for      the       existing                uses          in     the         area
+      or    the    potential              uses           from       the       three         conflict                groups             that         could
+      be     located          in    the       general             area.
+                          With          respect           to      site        alteration               and          visual             impacts,                we
+      find     that       the       topography                 and       location               of    the       site           reduce              and
+      minimize           the       visual          impact           of    the         site.           The       northerly                    portion             of
+      the     site       is    below           the      crest        on       the      ridge          to     the         west          and         is     below
+      the     crest       on       the    site          to     the       south.             We       find       that           the      site            is
+      buffered           on    the       east        by      the     existing               quarry           and         by       a    hill.              While
+      the     site       can       be    seen,          we     find       that         other          quarries                 exist          in        the
+      area     and       also       can       be     seen.           We       further            find        that            the       closest
+      residences              to    the       proposed             quarry             argued          that          their             property
+      values       would           decrease             because           of      the       quarry.                 We       find       that            these
+      residences              already           are       located             near         the       existing                Stephens               Quarry
+      and     that       the       expansion              area       does         not       present             a       significantly
+      different           situation                from        existing               conditions.                       We     find          this         to     be
+      particularly                 true       given          that        batch         plants          are          a    permitted                  and
+one
+
+      existing           use       at    the       Stephens              Quarry,            but       are       not          allowed               on     the
+      proposed           80    acres.              Based          upon        the      above          findings,                   we    conclude
+      that     the       aggregate              site         will        have         no    significant                      adverse               impact
+      on    conflicting                 uses       due       to     site        alteration                 or       visual             impacts.
+                          We       find       that,          as    discussed                above,           there             are      significant
+      factors        that          reduce          or     eliminate              noise,              dust,          vibration,                     traffic,
+      water       quality,              water        quantity,                site         alteration                   and       visual
+      impacts,           such       that        the       rock       use        would           not    result                in       any
+      significant              loss       of       economic              or     property              value             or     any      significant
+      increased           financial                burden           on    any         uses        in, the           area          due        to
+      operations              at    the       proposed              80-acre            site.           We       conclude.that                           the
+      evidence           before          us     demonstrates                    that        the       Goal          5    resource                  site        can
+      be    developed              without           significant                  adverse             economic                 effects              on
+      existing           or    potential                uses        adjacent               to    the       proposed                   use.
+
+                                                                                                                             Exhibit         "A"        - Page        117
+                                                                              -117-                                          Ordinance            614
+                                                                                                   FILK     60        sce 1695
+
+                    2.        SOCIAL             CONSEQUENCES                   ANALYSIS.
+                    a.        Impacts                on    the     Resource            of     Allowing
+                              Conflicting                    Uses.
+
+                    We       find          that       social         impacts           on     the         resource             could           be
+created          through           the          placement            of    restrictions                    on    the       operation
+(e.g.       those         related               to    noise        or     water        concerns)                in    order           to
+reduce        its        impacts            on       adjoining            uses.          We    find         that        these
+restrictions                 could          result           in    modifications                   to      the       operation                 that
+could       potentially                    increase           the       cost      of     aggregate               extraction.                        We
+find     that       the       most          probable              social         impact        of         fully       allowing
+conflicting              uses          near          the     resource            site        would         be    to     prevent                or
+limit       the     site's             use.           If     conflicting               uses        were         allowed             near        the
+resource          site,           it       is    possible            that        the     resource               could          not        be    used
+because          existing              regulations                 controlling                the         operation             of        the
+site,       particularly                    noise          standards,             might        be         difficult             to        meet        at
+the     site.          We     find          that          this     would         result        in         the     increase                in
+price       of    aggregate                 materials              or     the     loss        of     at     least          a    portion              of
+a    high    quality              and       quantity              aggregate             source.             We       find       that
+aggregate           materials                   have       high      social        utility                for     constructing
+infrastructure                    as       well       as     residential,                commercial                  and       industrial
+facilities.                  We    find           that       an     increase            in    the         price       of       or     decrease
+in    the    supply           of       a    high          quality         and     quantity                source        such          as       that
+at    the    proposed              site          would        have        the     negative                social           impact          of
+increasing             the        prices             of    homes,         highways            and         other       products                 which
+depend       on     aggregate                   materials.                This     would            limit         the       county
+citizens'           ability                to     afford          these         products           and      consequently
+reduce       their           standard                of    living.
+
+                    b.        Impacts                on    Conflicting             Uses        of         Allowing             the
+                              Resource                Use.
+
+                    In       considering                   the     social         impacts            on     conflicting                    uses,
+we    refer       to        and     incorporate                   our     discussion                under         the       Economic
+prong       of    this        ESEE          analysis.                In     addition,               we     find        that          if    the
+
+                                                                                                                Exhibit "A" = Page 118
+                                                                        -118-                                   Ordinance           614
+                                                                                            “run BO vx1696
+impacts        associated              with          the    proposed                  rock        operation                are       not
+properly        controlled,                 there          could          be      a    social                impact        on       residences
+near     the    mineral           and       aggregate                resource.                    We         further           find        that        it
+is   possible          to    have        an      impact          on       the         habitat               and     parks           groups
+described           above.            For     example,               it      is       possible                that        the       quarry
+could     adversely              affect          a    future          park            or    habitat                preserve.                This
+could     create           adverse          social          consequences.                          However,                given           the
+nature     of       the     site,        its         location,               its       surrounding                    uses          and     its
+topographic            features,              we      find       these            social           effects                to    be     highly
+unlikely.                                              ;                                                :
+                    With     regard           to      the       primary               potential                   social         impact
+(adverse        effect           on    the       dwelling             group),               we     find            that        there        are
+several        dwellings              located          within             the         1,000-foot                    impact          area
+around     the       perimeter              of       the    proposed                  site.            However,                we     further
+find     that       evidence           in     the      record             shows            that        noise,             dust,
+vibration,           and     other           impacts            will         not       cause           significant                   adverse
+impacts        on    nearby           residential                uses.                We     find            that     the        record
+demonstrates               through          credible             and         persuasive                      evidence           that        DEQ
+noise     standards,              which          are       designed               to       protect                residences               and
+human     health,           can       and     will         be    met         by       the        operation                at     all
+residences            in    the       area.           We     further               find          that         steps        can       and        will
+be   taken      to         significantly                   reduce            noise           and       dust          from        the
+operation.           | We    further             find       that          the         access            road         to    the        site        is
+paved,     which           virtually             eliminates                  dust          from        this          source.               We     find
+that     persuasive              evidence             demonstrates                     that        vibration                   will        not
+cause     significant                 problems.                 We     find           that        persuasive                    evidence
+demonstrates               that       there          will       be     no       significant                       problems            with
+water     quality           or    quantity.
+                    Based        on     all      these          facts,            we        find            and     conclude              that
+
+there     would        be    very           limited          adverse               social              impacts            on     conflicting
+uses     from       protecting               the      site       as       a Goal             5    resource                site.
+
+                                                                                                                    Exhibit "A" - Page                      119
+                                                                     “119-                                          Crdinance 614
+                                                                                                                       FILE        60         PAGE 1697
+
+                         3.        ENVIRONMENTAL                     CONSEQUENCES                     ANALYSIS.
+os
+
+                                       a.         Impacts           on    the         Resource             of           Allowing
+                                                  Conflicting                 Uses.                                :
+                         We       find           that     the       identified                  conflicting                        uses        would           not
+     have     an    adverse             environmental                     impact            on     the            aggregate                   resource
+     unless        the    conflicting                     uses       were        allowed              in          close            proximity                to
+     the     resource             site.             In    this       event,            the       impacts                  on       the        resource
+     would     be    severe                 in    that        the    resource               could          not            be       used        or        its      use
+     would     be    severely                    restricted              due     to        increased                    difficulties                       with
+     environmental                 compliance                  due       to     the        proximity                    of     conflicting
+     uses.                                                                                                    ,
+                         We       incorporate                  by    reference                  our    discussion                           under          the
+     Economic
+            and                   Social           prongs           of    our         ESEE       analysis                     and       conclude               that
+     the     conflicting                use        groups           generally               would          not            have          a
+     significantly                 negative               environmental                      effect               on      the       proposed                use.
+
+                         b.        Impacts               on    Conflicting                  Uses         of        Allowing                   the
+                                   Resource               Use.
+
+                         We       find           that     typical             rock         operations                    may        have
+     environmental                  impacts              on    conflicting                  uses         located                   nearby.                 These
+     impacts        may       include              noise,           dust,        vibration                 or           water           effects
+     associated           with          the        operations.                   With           regard             to         noise,           we        find
+     that     DEQ    standards                    can     be       met    at     the         site        and            that        these
+
+     standards           will          serve         to       protect:          conflicting                       uses.             With            regard         to
+     dust     impacts,             we        find        that       the       paved          access               road         and          the
+     availability                 of    a        water        truck        for        dust       suppression                        greatly                reduce
+     dust     concerns.                 We        further           find        that        the       existing                     Stephens                Quarry
+     has     operated,             and           will     continue              to     operate,                   without                significant
+     dust     problems             to        uses        in    the       area.             As    explained                     below,               we     find
+     the     testimony             of        opponent's              consultant,                   Mr.            Simons,                is     not
+
+     credible        on       the       dust            issue.           With         regard          to          vibration,                    we        find
+     that     expert          information                     in    the       record            convinces                     us    that            vibration
+     will     not    be       a    significant                     problem            at     the      site.                   We    further                find
+     that     mandatory                reclamation                  of    the         site       will             be      used          to      enhance
+
+                                                                                                                             Exhibit          "A"        - Page      120
+                                                                              -120-                                          Ordinance            614
+                                                                                                 FILS           60     ee        1698
+
+ environmental                  values             at    these          sites         upon           completion                  of
+ operations.
+                        During             the     hearing             process,            concerns                  were        raised
+ regarding              water            quality         and       quantity               issues.                We    find           that       these
+  are     significant                    environmental                  issues            that         were          addressed              in       great
+ detail         during              this        process.               Consistent                with           our    analysis                 of
+  statewide             Goal         6,     which        we       incorporate                  herein            by    reference,                    we
+  find       that       the         arguments            made          by    the      opponents                  and     their
+  consultant,                 Mr.        Allison,            are       not       persuasive.                     We    are        persuaded                by
+ the      evidence             presented                by    Mr       Newton         and        Mr.        Bruce,           the       Oregon
+ Water        Resources                  Department,               and       the      Oregon               Department                 of    Geology
+  and     Mineral             Industries                with       regard            to    the         environmental                       impacts
+ of     the     proposed                 use      on    water          quality            and        quantity               in    the       area.
+  Based       on    the        persuasive                and       credible               analysis               presented                 by    these
+ parties,           we        find         arid    conclude             that         there           will        not     be       any
+  substantial                 adverse             environmental                     effect           on     water           resource
+ quality           or     quantity                that       is    caused            by    the         proposed              use.           We       find
+‘ that       the    water            resources               in    the        area        will         continue              to       be
+  available             to     conflicting                   uses,          such      as: dwellings,                     without                any
+  significant -loss                        of     quality          or       quantity.
+
+                        ‘4.         ENERGY         CONSEQUENCES                     ANALYSIS.
+
+                                     a.         Impacts           on    the         Resource               of    Allowing
+                                                Conflicting                 Uses,
+                        Allowing                noise,        dust          or      vibration               sensitive                 uses       too
+ Close        to    the        site         could        alter          the         manner,            location              and       extent             of
+  extraction              activities                   and    could           result            in     a    greater              use       of    energy
+ by     the     operator.                   In     addition,                allowing             conflicting                     uses        near         the
+ resource           site            would         limit       the       amount            of     the        resource               recoverable,
+ potentially                  creating             greater             energy         impacts,                  especially                 the       use
+  of     fuel      by     haul            trucks,        as       aggregate               material               would           be     required
+
+  to    be    brought               to     the     market          area          from      more            distant           locations.
+
+                                                                                                                       Exhibit "A" - Page                       121
+                                                                            -121-                                      Ordinance 614
+                                                                                                          run 60 icc L699
+
+                                   b.            Impacts              on    Conflicting                  Uses     of       Allowing           the
+                                                 Resource              Use.
+                       We    find               that       allowing              the      aggregate             use        on    the        site
+would       not        increase                  or       decrease              energy         consumption                 for     the
+identified                 conflicting                     uses.            Therefore,               we    conclude              there        are           no
+identified                 energy               impacts           on       the     conflicting              uses.
+                       Our       discussion                     of     the       ESEE      consequences                    has     focused              on
+allowing           conflicting                        uses        of       property            which       adjoins              and     surrounds
+the    proposed              resource                     site.            We     recognize              that     if       any     of       the        uses
+listed        as       allowable                     uses        in    the       EF-40,         AF-10:          and    AF~20           portions
+of    the    County               Zoning              Ordinance                 were      allowed          on     the       site,           those
+uses    would              cause            a    conflict,                 and     vice        versa.           We     have        chosen              to
+focus       our        analysis                  on       the     more          probable            situation,              where           uses        may
+locate       near           the        resource                 site,           thereby         creating              conflict              between
+the    use     and          the        resources.                      However,            we       recognize              that        to    fully
+discuss        the          issue,               we       must        also        look     at       the    possibility                  of
+conflicting                 uses            that          would        negatively                impact         Goal        5    resource
+(and    vice           versa)               if       those        conflicting                  resources              were        located              on
+the    Goal        5       resource.                      We     first          note      that       with        regard          to     Goal           3,
+Goal    5    and           Goal         6       issues,           we       have         made    extensive              findings
+regarding              the        on-site                 conflicts              between            the    mineral              and     aggregate
+resource           and       other               resource              uses        such        as    farming,              wildlife
+habitat,
+       and water.                                    We     incorporate                  our    analysis              under        those
+provisions                 herein               by    reference.                   We     have       identified                 group        uses
+allowed        in          the     County's                    EF-40,           AF~10      and       AF-20        zones          which         we
+find    would              conflict                  with       the        mineral         and       aggregate               resource               (and
+vice    versa)              if     the           use       were        directly            on       top    of     the        resource.                      We
+believe        that          the            economic,                 social,            and    environmental                     and       energy
+effect        of       such        a        location              of       conflicting               uses        upon       the        resource
+site    be     virtually                        the       same        as    those         we    have       discussed                  for
+identified                 conflicting                     resources               on     adjoining              property.                  For
+example,           a       location                  of     any       conflicting                resource             on     the       Goal        5
+resource            (e.g.,              a       dwelling)              would            have     adverse          economic               impacts
+(the    Goal           5    resource                  probably               could        not       be    used),           adverse            social
+
+                                                                                                                      Exhibit "A" - Page                     122
+                                                                                -122-                                 Ordinance 614
+                                                                                             ux 60 vxce’L 700
+impacts            (the       Goal       5    resource                could            probably           not       be       used),           adverse
+environmental                  resources                 (the         Goal         5    resource              could          not       be     used),
+and     adverse           energy             consequences                    (the           Goal     5    site          could          not         be
+used     and       rock        would          travel             from        more           distant           sites          consuming                  more
+fossil        fuel).
+                     Similarly,                   there          would           be     obvious           difficulties                       and
+conflicts            between             the        conflicting                    uses       if     our          decision             was         to
+fully        allow        a    resource                use       when        the        conflicting                 use          was     located
+upon     that        resource                use.           For       example,               adverse              economic             impacts               to
+a conflicting                  use       on       the       site           (such        as    a dwelling)                    could           include
+prohibition               of       further             use       or    removal               of     the       use       from        the gite.
+Adverse           social           impacts             could          include               prohibition                 of       further            use
+of    the.    site,           the     removal               from       the         site,           and    the       consequences                        of
+relocating            a conflicting                         use       to     a different                  area.              Similarly,
+there        would        be       potential                environmental                     consequences                       such        as     noise
+immediately               adjacent                to    a    use        located              on     top       of an          extraction
+site.         Finally,               there          would         be       potential                energy          consequences
+accompanying                  the     removal               of    a    conflicting                   use          from       a     fully
+allowed           resource            site.
+                     Because             there          are       no        specific               conflicting                   uses        on     the
+site,        we     chose          not       to     emphasize                this           portion           of    our          ESEE
+analysis.             However,                we       believe             that         the        Goal       5    rule          requires               us
+to    address         this           possibility.                      We        find        that        we       have       not       been
+presented            with          any       “use-on-resource"                              conflicts,              except             those
+identified            and          discussed                below.               In     our        decision,              we      have         avoided
+any     future        problems                by       protecting                  the       mineral              and     aggregate
+through           this        process             from        future             conflicting                  on-site              uses.
+                     We       find       that          as    part           of     our       analysis,              we       must        address
+the     applicability                    and        requirements                       of    other        statewide                 planning
+goals        and     their           economic,               social,               environmental,                       and        energy
+consequences                  as     part         of    our       analysis.                   We     address              each         of      these
+goals        individually                    below.              We     note           that        our    discussion                    of     the
+statewide            goals           has      two       purposes.                      First,        because              we       are       granting
+a    comprehensive                   plan         change,             we     must           address           the       goals.               Our
+
+                                                                                                                        Exhibit "A" - Page 123
+                                                                           -123-                                        Ordinance            614
+                                                                                                FILK        60         race         701
+analysis        and    discussion                  below         is    for       this       purpose.                     Second,            as
+part    of     the    Goal         5    balancing             process,            we       must            take        the      goals            into
+consideration.                   Our     discussion,                  below,          is    intended                   to      accomplish
+both    purposes.
+
+GOAL 1
+                 Goal        1     requires             the      development                of         a    citizen
+involvement           program            that        ensures           the       opportunity                      for         citizens            to
+be    involved        in    all         phases          of    the      planning             process.                     We     find        that
+Yamhill        county       has         an    acknowledged                  Comprehensive                        Plan          and        Zoning
+Ordinance        and       that         these        documents              provide             specific                 mechanisms
+for    citizen        involvement                   for      a group          and       individual                     basis.              We
+find    that     in    this            particular               land       use    case,           there            were         numerous
+hearings        before           the     Yamhill             County         Planning              Commission                    and
+several       hearings             before          the       County         Board          of     Commissioners.                            We
+find    that     public            notice          was       provided            and       significant                        numbers            of
+individuals           participated                   in      the      process          both            in    support                of     the
+-application          and         in    opposition               to    the       application                     with          both
+written        and    oral         testimony.                 We      find       that       the            procedures                 followed
+were     in    compliance               with       Yamhill            County's             acknowledged                        land        use
+regulations           and        that        such       regulations               provided                  ample             opportunity
+for    citizen        involvement                  in     all      phases         of       this            application                    and,
+accordingly,           we        conclude            that        our       decision             complies                 with
+statewide        Goal        1.
+
+GOAL2
+                 Goal        2     requires             that       land       use      planning                  process              and
+policy        framework            be    established                  as     a basis            for         all        decision             and
+actions        related           to     land       use       and      also       requires                  that        there          is    an
+adequate        factual            basis          for     decisions              and       actions                in      the       land         use
+planning        process.                We    find        that        Yamhill           County              has        an
+acknowledged           Comprehensive                      Plan        and     Zoning            Ordinance                     which        guides
+the    planning        process               in    the       county.             We     find           that        we         are
+permitting           one     specific              use       under         our    plan          and         ordinance--rock
+
+                                                                                                                 Exhibit            "A"    - Page       124
+                                                                   -124-                                         Ordinance 614
+                                                                                                                      rin BO vcc1702
+
+extraction              and    related              crushing                   activities--and                         no    others.                As
+set     forth       in       these        findings,                  we        find           that        the    requirements                      of     the
+County's           Comprehensive                    Plan            and        Zoning              Ordinance               have     been
+satisfied           by       the    proposed                      application.                      As     further           set         forth           in
+these        findings,             we    find           that         the          proposed               application                complies
+with     the       statewide             planning                   goals            and       also        complies            with
+applicable              provisions                 of     state              statutes               which        have        been
+identified              to    apply        in       this            particular                     case.         We        incorporate                  by
+reference           all       of    our        findings                  on       these            matters        herein.                    Because
+we     find     that         the    decision                      complies            with          all     of        the     statewide
+planning           goals,          we     find          that         an        exception                 under         statewide                  Goal        2
+is    not     required.                 For        all            these        reasons,               we    conclude               that           our
+approval           in    this       matter              complies                  with         statewide               Goal        2.
+
+                                                              1
+GOAL     3                                                                                                        ;
+                    The       purpose              of     Goal           3     is     to       preserve               and    maintain
+agricultural                 lands.           We        find         that            farm          uses     under           the     goal
+include         those         set       forth            in        ORS       215.203,               but     that           counties               may
+,authorize          nonfarm             uses        defined                  by      LCDC          rule     when           such     uses           will
+not     have       significant                adverse                effects                  on    accepted               farm     or        forest
+practices.               We     find       that           the        provisions                     of     OAR        660-33-120
+specifically                 provide          mining,                crushing,                     processing,                or        stockpiling
+of    aggregate~-the                    uses        we            approve            in       this       matter--are                allowed
+uses     in     exclusive               farm        use            (EFU)          zones            subject            to    the     standards
+of    ORS      215.296.             We     have           extensive                   findings              with           regard            to
+ORS     215.296          in    these           findings,                     and      incorporate                 those            findings
+herein        by    reference              as       though               fully            set        forth.            We    have            also        made
+findings           with       regard           to       ORS         215.298               and        incorporate               those
+findings           herein          by    reference.
+                    We       find       that        the            property               for       which        the        use         is
+requested           is       presently              zoned            AF-20,               a    zoning           designation                   which
+permits         agricultural                  uses.                 We       find         much        of    the        adjacent               and
+surrounding              land       has        a    similar                  zoning            designation,                   again
+permitting              agricultural                    uses.                Based            on    our     analysis               of        the
+
+                                                                                                                       Exhibit "A" - Page                         125
+                                                                             -125-                                     Ordinance 614
+                                                                                                      ctx GO sce4'703
+record        presented                to     us    in     this       matter,              we     reach           the        conclusion
+that    the        proposed              land       use       action           is     consistent                  with         Goal       3     and
+satisfies              the     requirements                   of    Goal        3.         We     base          this         conclusion                   on
+the    following               findings             and       analysis.
+                       First,          as     set       forth        in    these           findings               and        incorporated
+herein        by       reference,              we       have       determined               that           the         proposed           use
+will    not        force          a    significant                 change            in    accepted               farm         or     forest
+practices              on     surrounding                lands         devoted             to     farm          or      forest           use        nor
+will    the        approved              land       use       act      significantly                        increase              the     cost            of
+accepted           farm        or      forest           practices              on     surrounding                      lands        devoted               to
+farm     or    forest             use.         Consistent                 with        this        analysis,                  we     find        that
+aggregate              mining,           crushing,              processing,                 stockpiling                      are      all       uses
+permitted              on    EFU       land        under        ORS       215.283(2}).                     We     find         that       when
+such    uses           will       not       cause        significant                  adverse              effects
+                                                                                                                 on
+surrounding                 farmlands,              as     we      have        found        to        be     the        case        in    this
+instance,              those          uses     are       permitted               in       EFU     zones.                We     have
+specifically                  found         that        the     proposed              use        complies               with
+ORS    215.296,               and      incorporate                 that        analysis               herein            by     reference.
+Because        we       have          concluded            that        there          are        no     significant                   adverse
+effects        on       accepted              farm       and       forest           practices,                  we      may,        consistent
+with    Goal           3,    permit           this       use.
+                       ‘Second,          we    find        that        the      MR-2            zone        which         we      have
+approved           generally                allows         only        those          uses        that          are       permitted                 in
+EFU    areas           under          state        statute.               We     further               find       that         we     have
+attached           a    condition              to       our     approval,                 implemented                   through           a
+limited        land          use       overlay,            which          prevents               the        property               from        being
+used     for       dwellings,                 hatch        plants          or       manufacturing                       uses        (e.g.,
+tile     or    concrete                products)              which        are        not        EFU        allowed            uses.            We
+interpret              Section           904       of     our       zoning           code        to     permit            the       use        of     a
+limited        land          use       overlay           when        establishing                     Goal         5    resource
+protection.                  We       find     that        the        farm      uses            allowed            under          the     new
+MR-2     zone          are     substantially                    the       same        as        the        farm        uses        allowed            in
+the    AF-20           zone,          with     the        exception              of       certain            uses         allowed              on
+farmlands              (e.g.,          dwellings,               schools,              churches,                  farm        worker
+
+                                                                                                                       Exhibit      "A"       - Page           126
+                                                                      ~126-                                            Ordinance         614
+                                                                                                     ron GO ruc: 704
+housing,           winery)           that       we      find          to    be       in    conflict              with        the        mineral
+and     aggregate              uses.          We     find         that          a    single          parcel         may        not           support
+both     conflicting                  farm      uses           (e.g.,           the       dwelling           group,            the       park
+group     and        the       habitat          group)            and       rock          uses       because            of     the
+potential            conflicts             between             the         uses.           Because           our        decision               is    to
+allow     mineral              and      aggregate              use,         we       find       that        we     would          not,         and
+could     not,          allow        uses        from'the              three          conflicting                  groups           on        the
+property.               We     therefore             find         that          as    a    practical               matter,              choosing
+to     allow       the       mineral          and       aggregate                   use    necessarily                  disallows               the
+other     uses          and       prevents           them         from          being          used:on           the     same           farm
+parcel.            Similarly,              we      find        that         other          uses        allowed           by       statute            on
+farmlands,              including             golf        courses,                  airport,           road        modifications,
+cannot        under          any     reasonable                set         of       circumstances                  be    expected               to
+be     allowed          on     this       particular                  parcel.              The       topography                of       the
+parcel        is     varied          and      it     is      inconceivable                      to     us    that        the        80~-acre
+parcel        could          be    used       for       road          transportation,                       airport,              or     a     golf
+course.         We      find       that       the       uses          that          are    allowed            in    the       AF-10,
+AF-20,        and       EF-40         zones,         but       are         not       allowed           in    the        MR~2        zone,
+either        directly             conflict             with          the       use       we    have        selected              for         this
+property           or     could         not     be      located             on       the       property            for       reasons            of
+topography.                  Accordingly,                 we      find          and       conclude           that        practical
+farm     uses :for             this       farmland             parcel               are    not        limited           by     the
+designation               of      the     property             as      MR-2.              Accordingly,                  we     find           the
+new     zoning          designation                we     have         applied             function              like        a-mineral
+and     aggregate              overlay          on      the       underlying                   EFU     zone        and       is
+consistent,               in      this     situation,                  with          the       farm     goal.            We       further
+find     that        the       zoning         which          we       have          approved           (MR-2)           allows               only
+uses     which          are       permitted             by     state            statute           in    EFU        zones,           including
+farm     use.           We     further          find         and       conclude                that     the        land       use
+approval           we     have       granted            is     consistent                  with        the       purpose            and
+intent        of     an      EFU      zone.
+                     Third,          we     find        that          the       existing             AF-20         zone~-an              EFU
+zone     in     Yamhill            County--permits                         the       proposed           use        as    a     conditional
+use.      We       also        find       that       Goal         3    recognizes                that        counties               may        allow
+
+                                                                                                                 Exhibit "A" ~ page 127
+                                                                       -127-                                     Ordinance             614
+                                                                                                          60        ace            108
+                                                                                              FILE
+
+such     uses           (defined         in        ORS        215.283,              including                  rock           extraction)                  on
+farmland           consistent                with         the       purpose              of     Goal           3.         In       our        findings,
+which        we    incorporate                 herein            by       reference,                  we       have           explained               our
+reasoning              why     the      proposed               land        use         action             complies                 with        the
+conditional                 use     criteria              in     the       underlying                     zone.               We     incorporate
+those        alternative                findings               herein             by     reference.                       That           the
+application                 could       have        proceeded                  as      a conditional                          use        on    EFU
+land,        consistent                with        the        existing              zone,            and       that           the        goal
+specifically                  recognizes                rock        extraction                  as        a    use        on        farmland,
+consistent              with        Goal       3,        is    convincing                 rationdle                   to        us       that        the
+proposed           land        use      action            is     consistent                   with            Goal        3     and       its
+command           to    preserve             and        maintain               agricultural                         lands.
+                       Fourth,          we     find           that        the       proposed                  mineral               and       aggregate
+use     of    the       property              is    an        interim             use.          We        find        that           consistent
+with     State          statute,             our        decision               requires               the          property               to     be
+reclaimed              to     specific             and        defined             uses        upon            completion                  of     the
+aggregate              extraction              on        site.            While          the         record           reflects                  that       the
+length        of       time       of    the        gravel           operation                 will            be     on       the        site        is
+dependent              on     market          forces,            it       is      clear         to        us        that        the       mineral
+and     aggregate              use      is     not--and               cannot             be--a            permanent                  use.
+Mineral           and       aggregate              mining           by      its        very          nature           is        extractive                 and
+consumptive                 and     cannot          continue                indefinitely                       on     a       single            parcel
+of     lands           Recognizing                 this,         we       have         required                that           the        property            be
+reclaimed              for     purposes             of        propagation                 and         harvesting                     of        forest
+product.               Our     reason          in        requiring                this        condition                    is       that
+propagation                 and     harvesting                 of      forest            product               is     a       specific               and
+outright           allowed             use     for        both         farm         and        forest               zones           under        a
+recent        Oregon           Supreme             Court         decision.                    The         required                  form        of
+reclamation                  (the      propagation                  and        harvesting                     of     farm/forest
+products)              is     intended             to     be     broad            enough             to       include               exclusive              use
+of    the      land         upon       reclamation                   for       growing               cultured                 Christmas               trees
+as    defined            in    State          statute,               an     outright                 permitted                     farm       use.         We
+find     from          the     testimony                 of    the        Oregon          Department                      of        Geology            and
+Mineral           Industries,                that         the        reclamation                     we       have         required              is
+
+                                                                                                                          Bhibit ‘AY TPage                   128
+                                                                          -128-                                           Exhibit "A"
+                                                                                                        FILK           60            ace. 106
+
+feasible           and        appropriate                  for     this          site,            to     be           particularly
+persuasive.                   We       find      that        sufficient                    top        soil            is        available,                   that
+the     top       soil        can        be    saved,           that        the        top        soil            can           be     replaced               on
+the    property,               and        upon        the       replacement                      of     top           soil,            the       site         can
+and    will        be     planted              for        propagation                  of       harvesting                       of        forest
+products,            including                 agricultural                     Christmas                trees.                       We    view         the
+extractive              mineral               and     aggregate                 use        as     an     interim                      use    between
+the     existing              potential               farm/forest                  uses           that            could               occur       on         the
+property           at     the          present            time,        and       the        future                farm/forest                     uses
+(outright            uses          on     the        EFU     zones)             which           we      have           required                  must
+occur        on    the        property               in    the     future.                                                                          .
+                   . We       find        that        the        interim           nature               of        the           rock        use         is
+highlighted               by       the        fact        that     significant                        portions                   of        the    property
+will     be       available               on     a declining                    basis            and     will               continue               to        be
+available            for       pastures,                  trees        and       other            farm            uses           until           that
+position           of     the          approved            site        is       prepared                for           mining.                Again,               we
+find     that        market              forces           will     dictate                 the        amount                of        land       that          is
+necessary            to       be       used      at       any     one       time           for        rock            extraction.
+However,           we     find           that        the     applicant's                    proposal                    is       to        prepare            only
+small        amounts           of        the     parcel,           as       needed,               for            rock           production.                       We
+find     that        this          leaves            the     remainder                 of        the     parcel                  available                   for
+farm     uses}            including              but       not     limited                 to,        the         pasture                  and     tree
+growing:           uses       on       the     property            at       the        present                   time.                We     find        that
+this     property              will           continue            to    be        available                      on     a       declining                basis
+until        the     mining              is    completed               on       the        property                   at        which         time
+reclamation               to       a     farm        or     forest          use        must           occur.                    As     such,            we     find
+that     the       proposed               mining           use     is       consistent                   with               ongoing               farm        uses
+and,     therefore,                    consistent               with        statewide                   Goal               3.
+                     Fifth,              the     opponents              have           argued            that               an        exception                from
+Goal     3    is     necessary                  in    this        instance.                      Consistent                      with         LUBA
+precedent,               we     find          and     conclude              a     land           use     action                      requires            an
+exception            only           if    the        proposed           use           is     not        potentially                          permitted
+in     exclusive              farm        use        zones        under           ORS        215.213                  and            ORS     215.283.
+As     explained              above,           we     specifically                     find            that           the        proposed                use           is
+
+                                                                                                                            Exhibit "A" ~ Page                         129
+                                                                        -129-                                :              Ordinance 614
+                                                                                                         run 60 ae L107
+       permitted           under          ORS        215.283         subject           to       standards                  which       we      have
+on,
+
+       concluded           are     met          in    this     case.            Accordingly,                     we        conclude            that      an
+       exception           is    not       required            in     this          matter.
+                           We     find      that        the     lot        size        of       this     parcel               (80      acres)
+       complies         with       the      minimum            suggested               in       Goal      3.          We     find        that       we
+       are     not     allowing            an        urban     use        nor       permitting               extension                 of
+       services.            We     further             find,         incorporating                  our          analysis              under
+       Goal     6,     that      we       have        considered               the     carrying              capacity               of      the     air,
+       land     and     water         resources               and     that          the     proposed              use        will        not
+       exceed        the    carrying                 capacity         of       such        resourcés.
+                           Based          independently                   on    each        of     these          reasons,               we,    find
+
+       and     conclude          that       the        proposed            use        is    consistent                     with     statewide
+       Goal     3,    that       the       requirements                   of    statewide              Goal            3    are     met        by   the
+       County's         approved            land        use     action,              and        that     Goal              3 weighs            in
+       favor     of     the      County's              decision            in       this        matter.
+
+       GOAL 4
+                           Goal       4    directs            the     conservation                  and          maintenance                   of   the
+ ans
+
+       state's         forest         land           base     and     the       state's            forest             economy.                 It
+       provides         for      the       conservation                   of    forest           land        to       make         economically
+       efficient           forest          practices,               and        to    assure         the          growing            and
+       harvesting.of               tree          species        as        the       leading         use          on        land     consistent
+       with     sound       management                 of     soil,        water,           air,        and       fish         and       wildlife
+       resources.               The       goal        also     provides               for       consideration                     of
+       recreational              opportunities                  and        agriculture.                      We       find         that        because
+       Yamhill        County's             AF-20        zone         is    a    combined            agricultural                       and      forest
+       zone,     we     must       address             Goal     4     as       part        of    our     approval                 process.
+                           We    find       that        mineral            and       aggregate               extraction                  and
+       processing           are       allowed           on     mixed           farm/forest               land              under       state
+       statute.            In    addition,              we     find        that        the       Goal        4    Administrative
+       Rule     also       allows          for        mining        and        processing               of       mineral            and
+       aggregate           resources                 under     standards               addressed                 below.             We      further
+       find     that       the    underlying                  zone        in    this        matter,              the        AF-20        zone       in
+       Yamhill        County,             also        allows        mineral            and       aggregate                  mining          and
+
+                                                                                                                           Exhibit       "A" ~ Page 130
+                                                                           -130-                                           Ordinance         614
+                                                                                                              ein BO vce 708
+processing            as       a    conditional                      use       and       that        the       zone,             because            it        is
+a    mixed     farm/forest                    zone,             permits             rock        mining          under             the        specific
+standards            of       ORS       215.296.                 We       incorporate                    by    reference                 herein               our
+discussion            of       the       AF-20          standards,                    which          we       find          are     met.            We
+incorporate               our       analysis                and          discussion                 of    Goal          3    herein           by
+reference.                In       accordance                   with       LUBA          precedent,                 a       county           land         use
+decision        requires                 an    exception                   to       a goal           only        if         the     use
+authorized            by       the       county             is       not       a use          potentially                    permitted                   in
+the     zone        (in       this       case,          a       farm/forest                   zone)           under          statute.
+Because        both           statute          and          regulation                   provide              for       the       use        that         we
+are     approving               (either            as       a    farm           zone       or       as    a     forest             zone),           and
+because        we     have          adopted             a       limited             use       overlay            to         prohibit
+dwellings,            batch             plants,             and          manufacturing                    uses,             we    conclude,
+based     on    the           findings             below,                that       the       proposed              use          meets        Goal            4's
+requirements                  concerning                the          use       of     forest             land       for          forest           uses
+and     that    Goal           4    mitigates                   in       favor        of      protecting                    the     site          for
+rock     extraction.
+                    We        find       that       the          proposed                use        will       not          have        any       effect
+on    accepted            farming             or    forest                practices                 on    agricultural                       or     forest
+lands.         We     incorporate                   herein                by     reference                our       discussion                    of
+ORS     215.296.               In       our     findings                  related             to     ORS       215.296,                 we
+concluded           that           there       would             be       no     significant                   increase                 in    cost            nor
+any    significant                   forced         change                in     any       accepted              farming                or    forest
+practice        on        surrounding                   lands.
+                    Although              the       Goal             4    Administrative                       Rule          does        not
+require        it,        in       the    event             it       would          be     deemed             necessary,                 we       adopt
+our    definition                  of    “surrounding                      lands"             for        agricultural                    uses            for
+the    purpose            of       our    discussion                      of     whether
+                                                                                       ‘or                    not       the       proposed                use
+would     force           a    significant                      change           in      or     a    significant                    increase                  in
+the    cost     of        accepted              farm            or       forest          practices               on         agricultural                      or
+forest        lands           under       the       regulation.
+
+                    We        find       that       from             our       view        of       the       property              and        from           the
+record,        that           there       are       trees                growing           to       the       east          of     the       80~acre
+site     (on    the           Sly       property)                and       the        southern                portion              of    the
+
+                                                                                                                             Exhibit "A" - Page 131
+                                                                           -131-                                             Ordinance             614
+                                                                                            uv 6O nce 709
+80-acre           site        itself.             We     find        that        these       consist               primarily                   of
+stands        of     Douglas            Fir       trees         of      various            heights           and        maturities.
+We     find       that        these         trees        have        coexisted              with        the        existing               mineral
+and     aggregate               extraction               and       processing               uses        on     the       adjoining
+site.         In     addition,               we     find        there           is    nothing           in     the       nature                of
+mineral           and      aggregate              extraction                 which         adversely               affects             forest
+operations               on     surrounding               properties.                      Our    view         of       the        site
+revealed            to     us     that       the       trees         to      the      south       of        the     proposed                   site
+and     those        on       the      southern           portion               of    the    80-acre               tax       lot       are
+healthy           and      growing,           and        we     find         that      the       adverse            effects
+associated               with       the      existing              mineral            and    aggregate                  extraction                   and
+processing,                noise        and       dust,         do      not      appear          to     have        had          any
+significant                adverse           effect           on     the        growing          of     these           trees.
+                     We       also       find      that         the       typical           effects               from       a     rock
+operation                (e.g.,        ndise,           dust,        vibration)              do        not     significantly
+increase            the       cost      of    forest            practices              which           in    and        of       themself
+create        many         of     the       same        impacts.                If    anything,              we      find          that         the
+internal            pathways            that       must         be      built         on    the        mineral           and        aggregate
+site     to       extract           the      rock        resource               may    assist           adjoining                  property
+owners         in    harvesting               timber            by      providing             alternative                    means             of
+access        for        this       purpose.              We       find         that       mineral            and       aggregate
+extraction‘is                   a use        with        similar             characteristics                       to    harvesting                   of
+trees        and     we       find      that       there           will         not    be    any        interference                      between
+these        two     uses.             We    have        given          considerable                   thought            into         what
+types        of     changes            or    what        types          of      increase           of       costs        could            be
+incurred            by     forest           practices              on     adjacent            lands,           and       we        are         unable
+to     think        of     any.         We    find        that          common         sense           dictates              that         mineral
+extraction               and      processing              uses          will         not    have        significant                    effects
+to     forest        uses         on    surrounding                  lands.
+                     We       find      that        rather           than          increasing                fire       hazards,                risks
+to     fire       personnel,                and        fire     suppressions                  costs,              the    proposed                   use
+will     decrease               these        hazards            and       risks.            We        find        that       until             an
+area     is       actually             stripped            for       mining,           it    will            remain          essentially
+in     its    present             condition.                  We      find       that       this        creates               no       increase
+
+                                                                                                                  Exhibit          "A" - Page 132
+                                                                        -132-                                      Ordinance             614
+                                                                                            FILK           60     ced         710
+
+in    fire     hazards,               fire       suppression                    costs,           or        risks        to        fire
+suppression             personnel                over           existing             conditions.                      More
+importantly,                we    find          that          once      land         is     stripped               for        rock
+extraction,             top       soil          and       vegetation                 are     removed               and        fire        hazards
+and    risks       are       greatly             reduced              because             less         flammable                  material                is
+available          on       the       site.              Our       view      of      the     existing                 operations                     and
+the    photos          in    the       record             demonstrate                 that         the          extracted                existing
+active       quarry          site          is    flat           rock       with       minimal               vegetation                   and
+provides          a significant                      nonvegetative                    buffers               between               vegetation
+outside        the      quarry.                 We       find        that       this        type           of    operation                is
+common       for       rock       extraction                    and     is      the       type         the       operators                have
+indicated          that          they       will          continue.                  Accordingly,                     we      find        the
+physical          attributes                of       a    quarry           tend       to     reduce              fire         hazard,                and
+thereby        help         reduce           fire         suppression                 costs            and       help         reduce            risk
+to    fire     suppression-personnel.                                      In     addition,                 we     find           that     the
+access       that       is       used       to       extract            the       rock       can           serve        as        access             for
+fire     fighting            purposes,                   ‘again       decreasing                 the        costs            of     fire
+suppression             and       the       risks             to     fire       suppression                     personnel.
+                   In       our.decision,                       we    list        conditions                    which         accompany                   our
+‘approval.             One       of    those             conditions               requires                 that       the         property                be
+reclaimed          to       allow          it    to       put        the     land          back        into        production                   the
+propagation,
+           and                    harvesting                    of     forest         products.                    We        find        that         this
+reclamation             plan          is     feasible.                  Particularly                       persuasive                in    this
+regard       is    the       testimony                   of     the     Department                 of       Geology               and     Mineral
+Industries             which          stated             that        sufficient              top           soil       was         available
+for    reclamation                of       this          type        and     that          the     reclamation                     would             be
+successful             as    demonstrated                       by    reclamation                     in     similar              situations.
+Because        the      area          can       be       reclaimed              to        forest           uses,         we       find         and
+conclude          that       the       mineral                and      aggregate             use           is    an        interim             use         and
+that     the      land       will          be    returned               to      forest           production                   on     a
+permanent          basis.              We       also           find     that         not     all           of    the         area        will         be
+stripped          at     once         for       mining             purposes            and       that           portions             of        the
+property          that       are       presently                   being        used        to        grow        forest            products
+May    continue             to    do       so    until             that       particular                   portion            of     the
+
+                                                                                                                        Exhibit "A" - Page 133
+                                                                       -133-                                            Ordinance              614
+                                                                                                                            Fuh GO ruc                    744 |
+
+property               is    cleared              for       extraction                     purposes.                   We     find       that        there
+is    an     interim              window              when        forest              uses        on       the        site       will       be
+interrupted,                  but        that          this        site              will        be    permanently                    returned             to
+forest        production                     uses.            These              findings              persuade               us      that       approval
+of    the     mineral               and          aggregate                  use       is     consistent                    with       conservation
+of     forest           lands           under          a     long-term                    planning              perspective.
+                        As    part           of       our     condition                     that       the        property             be      returned
+to    productive                  forest              (or     agricultural)                           uses,           we    require            that        the
+applicant               provide              a    written               statement                 to       be     recorded             with         the
+county,           prior           to     beginning                 extractions                        on     the       expansion               parcel,
+which        recognizes                  the          rights            of       adjacent              nearby              landowners               to
+conduct           forest            operations                    consistent                     with        the       Oregon           State        Forest
+Practices               Act       and        rules           enacted                 thereunder.
+                   ,    Goal        4    also          requires                  that        uses          on     forest           land        be
+consistent                  with        sound          management                     of     soil,           air,          water,        and        fish
+and     wildlife               resources.                     We        incorporate                    by       reference              herein             our
+findings               related           to       Goal        6        in       which        we       concluded               that        no
+significant                  adverse              effect           to           land,        air       or       water         resources              would
+occur.            We        further:find                    that            we       have        required              a     reclamation                  plan
+which       will            manage           soil          resources                  in     a    manner              that       allows          them       to
+be     replaced              on     the          site        to        return             the      site         to     forest           uses        through
+reclamation.                      We     further              find              that        the       reclamation                  condition               we
+have       attached               to     our          approval                  allows           groundwater                  recharge              areas
+to    be     established                     as       part        of        a    reclamation                     if    consistent                with
+return        of        the        land          to    forest               propagation.                        We     find        this        advances
+with       the         purposes              of       Goal        4.            We    find        these           reclamation
+requirements                   to       be       consistent                     with        Goal        4.        We        further          find         that
+air     and       water            resources                 on        the       site        will          be     protected,                 consistent
+with       the         needs        and          requirements                        of     maintaining                    productive               forest
+land.
+                        We        incorporate                 by        reference                 herein              our     discussion                  under
+Goal        5 below            related                to     fish           and       wildlife               resources.                  We      find
+that       there            are     no       identified                     fish          resources               on       the     site        that
+would        be        adversely                 affected               by       the        proposed              use.           We     further            find
+
+                                                                                                                                 Exhibit "A" — Page 134
+                                                                                 -134-                                           Ordinance          614
+                                                                                           nun 60 ccd 712
+that     operations                   on     the     site          will        not     affect             groundwater                      or
+surface        water          in        a    way     that          would         affect             downstream                   fisheries
+resources,              if    any,           due     to       the       operations                  of    the     use            that       we        have
+approved.               We    further              find        that          the      area          is    not     an         identified
+wildlife         habitat                area       and        no    specific               wildlife              resources                  are
+identified              by    the           Yamhill           County           Comprehensive                     Plan            or    any
+planning         documentation.                           However,               we    also          find        that            restoration
+and     reclamation                   of     the     site          to     forest           uses          will     provide                  habitat
+that     can     be      available                 for        wildlife              uses        in       the     future.
+                    We       incorporate                  our       analysis               under          Goal         3,        above,          with
+regard      to      Goal          4.         We     find       that          the      MR-2          zone        will         functian                 like
+a   mixed       farm/forest                    zone,          in    this         particular                   instance,                because
+the     sole     use         we       allow         in    the       MR-2         zone          (rock          extraction                   and
+crushing)           is       an       allowable               use       in     the     existing                 AF-20            zone       and        we
+have     conditioned                    our       approval              and      use       a    limited           use            overlay              to
+prevent        uses          which           would        not       be       allowed            in       the     AF-20            zone.               In
+addition,           we       find           that     the       rock          use      is       an    interim            use           that       will
+displace         forest               uses        and     a    declining               basis             until         it        must       be
+reclaimed           to       farm/forest                  uses.
+    4               For       all           these        reasons,              we     find          and       conclude                that       the
+land     use     action               we     have        taken          meets         the requirements                            conserving
+forest      lands            and        maintain              the       forest         lands             base     to         protect             the
+state's         forest            economy            consistent                  with          sound          management                   of     soil,
+water,      air,         and           fish       and     wildlife               resources.                     Because               we     find
+that     Goal       4    is       satisfied,                  we    find         that          it    mitigates                   in     favor          of
+protecting              the       site         from       mineral              and     aggregate                 use.
+
+GOAL5
+                    Goal          5     requires              the       conservation                     of     open         space          and
+protection              of    natural              resources.                    We    find          that        in         addition              to
+mineral         and      aggregate                 resource,                 the      only          other        potential                  Goal           5
+resources           on       the        site       or     in       the       area      are          groundwater                   and       open
+space.         We       find          that        there        are        no       identified                  fish         or    wildlife
+habitat,         no      identified                  outstanding                    scenic           views        or         sites,             no
+
+                                                                                                                       Exhibit "A" ~ Page 135
+                                                                         -135-                                         Ordinance                614
+                                                                                                                 FILM        60         mee     713
+ecological              or       scientific                 significant                     natural              areas         on       the     site          or
+ in    the    general             area          of       the     site,          nor         any       convincing                   evidence              that
+ any    such       resources                   exist        on       or    near           the        site.
+                       Opponents                to       the     application                     offered              testimony                in    an
+ attempt          to    establish                   that        bird       habitat               resources               were           on     site       or
+ in    the    area.              We    find          that        the       Oregon              Department                of        Fish        and
+Wildlife           provides                a    letter           indicating                    that        this         is     the        "type          of
+habitat"           that          would          be       used        by    western               bluebirds.                    However,              we
+ find    this          does       not          identify              the       site         or       area        around            the        site       as
+habitat           or    an       ecologically                    significant                     natural              area.             We     have
+reviewed           our       Comprehensive                       Plan,          background                   documents,                   and       land
+use     regulations                   and       find        that          they        have           no    reference                to        wildlife
+habitat           or    significant                      ecological                  areas           on    or     near         the        site.           We
+ find    that          there          is       no    evidence              supporting                     the     assertions                   and       we
+do     not     include            the          site        on    any       county              inventory                for        these
+purposes.               In       the       event          the        area       would            be       deemed         to        be     habitat             or
+ an    ecologically                   significant                    area,           or     in       the     event            it    is
+determined              that          the       county           should              have        discussed               these            matters             in
+the     Goal       5    balancing                   process,              we     find,           alternatively,                         that        we    do
+ not    have       adequate                location,                 quality              or     quantity               information                  about
+habitat           or    ecological                   areas           and       we,        therefore,                  "1-B"         the        resource
+
+by     placing          it       on    a       "potential                 inventory."                       In    the         event           this
+ alternative                analysis                is     required,                 the’        county          will         complete              the
+ Goal    5    process             for          these           resources              on       or     before            the        county's              next
+periodic           review.
+                       In    addition,                   some        opponents                 argue         that        the        area        had
+ outstanding                scenic             views        and       sites.                Each          member         of        the        County
+ Commission             made          a visit             to     the       site           and        we    were         able        to        assess
+views        of    the       site          as       well        as    from           the       site.             We     note        that        the
+‘Comprehensive                   Plan,          background                 documents                  and        land        use        regulations
+ of    the    County             do    not          list        this        area          as     a    scenic            view        or        scenic
+view     site.              We    further                find        that       in        large           part,         the        northerly
+portion           of    the       80-acre                parcel           is    below            the       elevation                of        the
+ Sanders          property,                adjacent              to       the        west,           and     slopes            downward               into
+
+                                                                                                                         Exhibit "A" - Page 136
+                                                                           -136-                                             Ordinance 614
+                                                                                                    ce GO vcd 714
+the       existing                quarry           area.              While        it    is    possible              at     this          time        to
+see       this       site          from        some          of       the     surrounding                 properties
+(considering                      that        vegetation                   has    not      yet       been       planted               along        the
+perimeter                of       the    80-acre               site),            the     site        clearly             does         not
+constitute                an       outstanding                    scenic          view.             The      southerly               portion            of
+the       80    acres             can    be        seen        from         hills        to    the        south,           but       we     find
+that       many          views          from        the        south          also       contain             a view         of        the
+existing             Anderson                 quarry           approximately                    1,200          feet        to    the        east.
+We,       accordingly,                   do        not       include             the     site        on      the     county            inventory
+for       scenic          views.               In       the       event          the     area        would          be     deemed           to     be
+habitat          or       an       ecologically                       significant              area,           or     in    the        evant          it
+is    determined                   that        the       county             should          have        discussed               these        matters
+in    the       Goal          5    balancing                 process,             we     find,          alternatively,                      that        we
+do    not       have          adequate              location,                quality           or       quantity            information
+about          habitat             or    ecological                    areas         and      we,       therefore,               ,"1-B"          the
+resource             by       placing              it    on       a    "potential              inventory."                      In     the       event
+this       alternative                   analysis                 is       required,           the        county           will        complete
+the       Goal       5    process              for       these             resources           on       or     before           the       ‘county's
+next       periodic                review.
+      i                  For       all        these          reasons,             we     conclude              that        the        pertinent
+Goal       5    resources                    for    our        analysis              are      the       rock        resource,               the
+
+ground          water             resource,              and          the    open        space          resource.
+                         We       incorporate                 our          discussion               above       in       which         we
+conclude             that          we    have           sufficient                 location             quality            and        quantity
+regarding                the       rock        resource                and       that       the      rock       resource               is
+significant.                       We    find           that          our    decision              protects              this         significant
+rock       resource.
+                         With          regard           to    groundwater,                    we     incorporate                 our        findings
+related          to       Goal          6,     below.                 We    find        that       we     have       general
+locational                information                    about             the    resource              which        allows            us    to       make
+a    determination                      that        the       resource               will      not        be    harmed.                However,
+we     find      that             we    lack        specific                data        with        regard          to     the        quality           and
+quantity             of       the       water           resource.                 Without            this       information,                     we     are
+unable          to       complete              the       Goal 5             process           and       list        the     resource               at
+
+                                                                                                                          Exhibit:"A".-               Page    137
+                                                                             -137-                                        Ordinance          614
+                                                                                                            FIL
+                                                                                                                  60 ATS
+this     site        as    a     "1-B"          resource.                   The        Goal        5    process                 will        be
+completed            on    or       before           the       date         of      the      county's                  next           periodic
+review,        or     sooner              if    the       necessary                 information                    becomes                 available.
+We    note     that        we       have,           using          locational                 information,                        specifically
+protected            the       groundwater                    resource,                including                  that          near
+Monitoring            Well          #4,        through             the      use        of     conditions.                         We        further
+note     that        the       general              information                   we     have          indicates                  that
+groundwater               on    most           of    the       80-acre              site         generally                   is       present          at
+depths       significantly                      below          the        elevation                at       which           rock           extraction
+will     occur.            Consistent                    with        our       findings:below,                             we     conclude             that
+we    have     taken           adequate              steps           to     insure           that           groundwater
+resources,            prior          to        their          full        consideration,                          are       not
+significantly                  adversely                 affected              by      the       proposed                  rock        use.
+               With        regard              to    open          space,           we      find        nothing                  in    the       record
+to     suggest        that          this        land          is     necessary               or        desirable
+                                                                                                               for                           open
+space.         Accordingly,                     we       do    not        include             it       on     the          inventory.                  In
+the     event        the       area        would          be       deemed           to      be     necessary                    or     desirable
+‘open    space        or       in    the        event           it    is       determined                   that           the        county
+should       have         discussed                 open       space           matters             in       the        Goal           5 balancing
+process,        we        find,           alternatively,                       that         we     have           locational
+information,               but       that           we     lack       data          to      allow           us     to       compoare              the
+site's       quality            with           other          potential                resources                  in       the        county,          and
+to     compare        the       resources'                    relative              abundance.                     Without                 this
+information,               we       are        unable          to     complete               the        Goal           5    process              for    the
+potential            open       space           resource              and         list       the        resource                  as       "1-B."
+The     Goal     5    process              for       open          space          will       be        completed                  by       the
+county's        next           periodic              review,              or      sooner           if       the        necessary
+information               becomes              available.                   We      further             find           that           if    the     site
+were     deemed           to    be    a        significant                  open         space          resource,                     our     approval
+of    the    rock         site       preserves                 open         space.               We     find           that           our     approval
+does     not    permit              any        permanent              structures                   which           would              interfere
+with     the     future             use        of    the       area         as      open         space.                We       further           find
+that     rock        extraction                 requires              open          space          during              the        extractive
+activity         (i.e.,             buildings                 and     fences             and       other           manmade                 structures
+
+                                                                                                                        Exhibit "A" - Page                    138
+                                                                          -138-                                         Ordinance 614
+                                                                                                    FIL#        60       ace. 716
+
+would         interfere               with          rock     extraction                  and       are        not     allowed             onsite).
+We     further            find        that          our     reclamation                  plan        requires              that         the     site
+be     returned               to    farm/forest                  production                  that        is     consistent               with
+open        space.              Accordingly,                 we    conclude                  that        our       program          to     achieve
+the     goal            does       not     foreclose              protection                  for        open        space         purposes.
+                         For       all     these           reasons,           we        find       that         we    have         analyzed
+and     balanced                Goal       5    uses,        identified                  significant                  resources,
+identified                conflicts,                 analyzed            the        ESEE       consequences                    of       our
+action            and     adopted              a program           to     achieve              the         goal,         all       as     required
+by     Goal        5.         Accordingly,                  we    conclude               the       goal         is    met      and        that       the
+goal        permits             and       encourages              the     action              we     have          taken       in       this
+case.
+
+GOAL6
+                         Statewide              planning           Goal         6 is          directedto maintain                               and
+improve            the         quality          of    air,        water         and          land        resources             of       the
+state.             With         regard          to    air        quality,               we    find         that       the      opponents
+attempted                to     make       a    case        that        the     applicant,                    C.C.       Meisel,           has
+failed            to     maintain              compliance               with        air       quality              standards.                  It
+offered            the        testimony,              both        oral        and        written,               of    Mr./Simons,                   an
+air     quality                consultant.                  We    find        Mr.        Simons'              testimony             to     be
+unpersuasive.                       Mr.        Simons        offered            a very             technical               analysis             in
+which        he         attempted              to    suggest            that        C.C.       Meisel              could       not       be     in
+compliance                with           its    air        quality        permit.                  However,              in    a    hearing
+before            us,     Mr.       Simons           was     directly               asked           several           times         whether              or
+not     any        DEQ        enforcement                  action        for        a    permit            violation               had     been
+
+pursued            against            C.C.          Meisel        since         1988.              Mr.        Simons          avoided           the
+question,                but       ultimately               admitted            that          there           had     been         no     DEQ
+enforcement                   action           against           C.C.     Meisel              since           1988.           We    find        this
+to     be     a    significant                  factor           which        detracts               from          the     credibility
+and     persuasiveness                         of    Mr.     Simons'            argument.                     We     find      that        C.c.
+Meisel            has     the       appropriate                  DEQ     air        quality              permits.              We       find        that
+C.C.        Meisel            operations              throughout                the          county           are     in      compliance
+with        those         permits              as    evidenced            by        the       lack         of      enforcement                 action
+
+                                                                                                                         Exhibit         "A"    - Page        139
+                                                                        7139-                                            Ordinance 614
+                                                                                                        FILM 60 se PTL
+by     DEQ     since         1988.          We     find          that      DEQ       certainly               has        the     ability          to
+take     enforcement                  actions           as       the     record            shows        DEQ        citations
+against         C.c.        Meisel          prior           to    1988.             However,            we        find       that
+c.C.     Meisel's               history           of    compliance                  with       DEQ      regulations                  since
+1988     persuades               us    that        C.C.          Meisel         operations                  are        conducted           and
+will     be     conducted              on     the       site       in      compliance                  with        DEQ       standards.
+We     further            find    that        DEQ       standards               are        designed               to    protect           human
+health         and     the       environment                 and        find        that       compliance                with        DEQ
+standards             provides          an        accurate             basis         for       us      to    determine               the       air
+quality         in     the       State        of       Oregon          will         be     maintained                  and     improved.
+                      We    find       that        protection                  of    water           resources               was     an
+aspect         of     this       particular                 application                  which         received               intense
+scrutiny             from       both    sides.               We    find         that        the        opponents              presented
+specialized                testimony              on    water           issues           through            Mr.        Allison        and
+that     the        applicant           presented                 expert            testimony               through           Mr.     Newton
+and     Mr.     Bruce.            We     find          that       the      State           Water        Resources
+Department,                through          Mr.        Norton,           and        the     State           Department               of
+Geology         and        Mineral           Industry             through            Mr.       Schnitzer,                also        provided
+us     with     significant                  information                 with        regard            to    water           resources.
+There         were     numerous             other           individuals                  who    testified                with        regard
+to     water        resources,              primarily              neighbors               ‘who        were        concerned              that
+there         would        be    an    adverse              effect         on       their       wells             and    water        supply
+if     the     proposed           application                    were      allowed             to      proceed.               After
+considering                all    of    the        evidence              presented                in    the        matter           and
+carefully             weighing          the        testimony,                  we    have       reached                the    conclusion
+that     the        proposed           application                 will         not        adversely               affect          water
+resources             in    the       area        because          most         extraction                  will        occur        above
+the     identified               location              of    water         resources,                  and        because          mining
+will     be     conducted              with        an       advanced            air-track               drill           program           to
+locate,         isolate           and       protect              water         resources.                   Accordingly,                  the
+proposed            application               is       consistent               with        the        statewide              goal        which
+requires            the     maintenance                 and       improvement                  of      water           resources           in
+the     state.             In    reaching              this       conclusion,                  the      most           persuasive
+
+                                                                                                                   Exhibit "A" - Page                 140
+                                                                       -140-                                       Ordinance 614
+                                                                                                                          rr 60 21718
+evidence            presented                  to        us     was        the         thorough              data      presented                 by
+Mr.       Newton         and        Mr.        Bruce,               of     David            Newton           and      Associates.
+                      We     find          that           after            initial               concerns             regarding              water
+resources             were          raised,               C.c.           Meisel             requested               additional               time            to
+do    a    water         study.                We        find        that          the       study           was      critiqued              by
+neighbors             and       critiqued                     by     state             agencies.                 We    further              find        that
+after       these          critiques,                     additional                     information                  was          sought         through
+a series            of     test           drills              on     the        site.              We       find      that          this     test
+drilling            established                         with        reasonable                   clarity            the        location
+ (although            not       the        quality                  or     quantity)                  of     the      water          bearing
+structure             on     the          proposed                  site        and         C.C.        Meisel         then          modified                its
+proposal
+       .to                  leave          the           water           bearing             structure                in       place.             We    find
+there       was       some          controversy                      with          regard             to     the      exactness              of        the
+data       and      the      amount             of            information                   provided.                 We       find       that
+hydrogeology                   is    not        an        exact            science.                   We     find      that          the     evidence
+developed             does          not        have            exact          quality,                quantity             and        location
+data.          Nonetheless,                         it    gives            us      a     reasonable                 understanding                      of     the
+lecation            of     water           resources                     on     the         proposed               site        and       surrounding
+‘area..       .We     further              find           that           the        representatives                         at      the     Water
+Resources             Department                        and     the        Department                   of       Geology            and     Mineral
+Industries               testified                      that        the       site          could           be     mined           without         harm           to
+water       resources                using               reasonable                    techniques.                    While          we     find        that
+state       agencies                cannot               provide              us       with’a           guarantee                  that     there
+would       be      no      adverse             affect                on      water          resources,                we          find     that        a
+guarantee             is     not          a proper                  basis           on      which           to    make         a    determination
+in     this      matter.                  As        a    county,              we       must        make          decisions               based         on
+reasonable                 information                    before              us.           On     balance,               the        information
+before         us     convinces                 us        that           the       mining             as'    proposed               by     C.c.        Meisel
+will       not      interfere                  with            water          resources                 and,        therefore,               will
+maintain            and        improve                  the     quality                of    the        water         resources              of        the
+state.           We      have        attached                   a     condition                  to     our        approval              which         will
+assist         the       County            in           monitoring                  the      activities                   on       site     to     ensure
+that       water         resources,                      which           we      have        determined                will           not    be
+
+                                                                                                                                   Exhibit "A" - Page 141
+                                                                                -141-                                              Ordinance           614
+                                                                                                ria 60                 4 719
+
+ adversely           affected             by    the     application,                  will        be     properly
+ safeguarded              while          operations           are        ongoing.
+                     We     find         that    many        of    the        neighbors,                including             Mr.           Sly,
+ Mr.     Moraru,          the      Wheeler           family        and        the     Sanders            family,             and        others
+ expressed           concern             that    wells        or       springs          serving              their          properties
+ would     be     interfered               with        or    adversely               affected            by       the       proposed
+ use.      We     listened               carefully           to    their         testimony,                  the       testimony                  of
+ their     expert,           Mr.        Allison,            the    testimony               of     Mr.        Newton          and >
+ Mr.     Bruce,       and       the       testimony           of       the      representatives                        of    state
+ agencies.            We     find         the    report           of     David        Newton            to    be       thorough              and
+ comprehensive.                    We     find       that     the        Newton         data       was        derived             after            a
+ significant              amount          of    test        drilling            and     after           many       hours          spent            on
+ the     site    assessing                the    conditions                on    the       site.             We    find
+ Mr.     Newton's          conclusion                was     that        the     proposed               quarry          is    in        a
+ discharge           area       and       water        has    historically                   and        normally             discharged
+ to     surface       systems             in    the     area       of      the       quarry.             We       find       that           the
+ opponents!           consultant,                Mr.        Allison,            had     not       physically                 been
+. present       on    the       site,          did     not    have         the       first-hand               benefit             of
+: drilling       knowledge,                and       did     not       even      have        an    initial              opinion
+ about     whether           or     not        the     area       in     which        the       quarry            is    located              is        a
+ point     where          groundwater                naturally             discharges              to        surface          systems.
+ He     later    offered            such        an     opinion           in     writing,           but        we       find       the
+ presentation              of      Mr.     Newton           and    Mr.        Brice        to     be     persuasive                 and           it
+ convinces           us    that          the    water        resources               site       will         be    maintained                     and
+ improved.            We     are         further        persuaded               by    the       testimony               of    the           State
+ Agency      representative                     who     determined               the       site         could          be                     ,
+ conditionally               mined         without           significant                adverse              affect          on     the
+ water      resources              in     the    area.
+                     With       regard          to     water       quality             issues,           we       find       that           the
+ neighbors           raised         a     series        of     arguments              that        activities                 on     the
+ site     would       adversely                affect        groundwater                quality.                  These       included
+ arguments           that       sedimentation                 would           get     into        the        aquifer,             that
+ chemicals           could         get     into        the    aquifer,               and     that        existing             and
+ proposed        mining            operations               would        not     protect           the        quality             of
+
+                                                                                                                  Exhibit         "A"       - Page         142
+                                                                   “142-                                          Ordinance         614
+                                                                                                      rux 60 v4 720
+       subsurface               water       and     surface              water.               We    find           that           there           have           been
+       some     difficulties                 at     the       site           with        regard           to       surface                  storm        water
+       @rainage          in      recent           months,          but        that         these          difficulties                           occurred
+       during       record            breaking           rains           and        unprecedented                           floods           in       Yamhill
+       County.           In      fact,       we     find          that        during            one       of       the        hearings                  on       this
+       land     use      application,                   we    received                briefings                from           our           emergency
+       managers          regarding                the    flood           of        historic           magnitude.                            We    find           and
+       conclude          that         under        these          extreme             situations,                    it       is        difficult                 to
+       control         all       storm       water           runoff.                We      find         it    significant                        that           DEQ
+       and    DOGAMI            visited           the    site        during              this       period                  and     that          DEQ           did
+       not     issue        a    storm       water           violation                notice,             although                  there             was
+       corrective               action       requested              by            DOGAMI        with          regard               to       reclamation
+       matters         at       the       existing           quarry.                We     further             find           it        significant
+       that     C.c.        Meisel          took        extraordinary                      steps          with          hay         bales             and
+       other     erosion              controlling                 devices             to      attempt              to        control              storm
+       water     during           extreme           flood          conditions.                                          ,               -
+                            We     further          find          that        although              the        opponents                     allege
+       contamination                  of    surface           water           on      the       existing                    Stephens              Quarry
+       site     near        the       weigh        station           from           existing              industrial.                       operations,
+eon,
+
+       water     tests           show       no     contamination.                          We      further                  find        that          the
+       applicant            has       a    closed        system              portable              dil        unit           that           is    available
+       for    use      for       equipment              on    the        site         and       will          protect               ground              water
+       and     surface           water           from     industrial                  contaminants.
+                            For       all    these           reasons,               we     find        and         conclude                  that        the
+       proposed          application                will          not        adversely              effect                  the     quality              or
+       quantity          of      water       resources                  in    the        area       and,           therefore,                     conclude
+       that     the      requirements                   of    Goal           6,     to     maintain                and        improve                 the
+       quality         of       water       resources              in        the      state,          have          been            satisfied.
+                            With          regard        to    the        quality              of    land           resources                     in     the
+       state,       we      find          that     the       proposed               site        will          be    reclaimed                     for
+       propagation               and       harvest           of    forest             products,                including                     Christmas
+       trees.          We       find       that     top       soil           will        be     saved          for           this           purpose              and
+       that     the      reclamation                to       productive                  forest           uses              (timber
+       production)               and       agricultural                  uses            (Christmas                tree            production)                    is
+
+                                                                                                                                  Exhibit         “A"       -    Page   143
+                                                                                                                                  Ordinance            614
+                                                                              “143-
+                                                                                                    aur 60 red724
+     feasible          and       appropriate                    for        the       site.           We     are       particularly
+     persuaded             by    the          testimony              of     the         Department               of       Geology          and
+     Mineral          Industries                   which        indicated                that        reclamation                  for      this         site
+     as    we    have       required                is    appropriate                    and        feasible.               We       find       and
+     conclude          that          reclamation                    will        provide             protection               for      land
+     resources             in    the          state.
+                           We     further             find          that        rock         resources               are     locationally
+     specific          and       they             constitute               an     important                land       resource             of     the
+     state.           We    find             that     this          particular                site        has        some       of    the       highest
+     quality          rock        in         Yamhill          County            and      it     is    close           to     market          area.
+     We     find      that        it         is    particularly                   appropriate                   to    protect           the
+     extraction             of       this          rock       resource               while          ensuring              that       reclamation
+     will       occur       to       a       series       of        forest/farm                 uses        in       the     future.              We
+     find       and    conclude                   that    this         use        of     land        and        reclamation                meets            the
+     highest          purposes                of    Goal        6    which           are      designed               to    maintain             and
+     improve          the       quality             of     land        resources                of    the         state.             For     all
+     these       reasons,                we       find     and       conclude                that     the        proposed             application
+     meets       the       requirements                    of       statewide                land     use        planning             Goal        6,        and
+     that       Goal       6 mitigates                   in     favor           of      the     proposed              use.
+om
+
+     GOAL7
+                           Goal          7    requires              that        life         and     property              be     protected
+     from       natural          disasters                 and       hazards.                 ‘We    find         that       there         are         no
+     identified             natural                hazards           on     this         site.             We     find       that       the       site
+     in    general          has          a    small        amount           of       soil       overburden                 which        overlies               a
+     significant                deposit             of     basalt           rock.             We. find            that       the      proposed
+     operation             will          be required                 to     have         a reclamation                     permit           from        the
+     Department             of       Geology             and        Mineral             Industries.                   We     find       that           part
+     of    this        reclamation                  permit           requires                stabilization                   of      overburden
+     and     control            of       the       heights            of    extraction                    faces       within          the        quarry.
+     We     find      that       these             are     adequate               safeguards                to       ensure          that       the
+     quarry        itself            will          not     become           a     hazard.             Although               we      see     evidence
+     of    undefined              surface             water           runoff            on    the      site,          we     see      no     evidence
+     that       the     proposed                  site     would           be     subject            to     stream           flooding              (there
+
+                                                                                                                            Exhibit         "A"    ~ Page          144
+                                                                                -144-                                        Ordinance           614
+                                                                                                        FILN         60         nce         122
+
+     are     no       streams           on       the    proposed              site),          erosion                    (steps         shall          be
+     taken           under        the       DOGAMI          regulations                 to    control                overburden                   and
+nm
+
+     erosion),               landslides                 (slope          control          by       DOGAMI             will           eliminate
+     Slide           potentials),                 earthquake                 potential,                weak          soils             or     any       other
+     specific              hazard.               Based        on    all       of      these        findings,                     we     conclude
+     that        the       proposed              application                 will       not       adversely                    affect          life          or
+     property              with       regard           to     natural             disasters              and         that             our     approval
+     protects              life       and        property           from          natural          disasters                     and        hazards.
+     Accordingly,                  our          decision           complies             with       Goal             7,     and         Goal       7     weighs
+     in     favor          of     protecting                the     site          for    mineral                   and     aggregate                  uses.
+
+     GOAL        9                                                                                             .
+                            Goal        9       requires           that       adequate             opportunities                            throughout
+     the     state          be     provided              for       a variety             of       economic                 activities                   vital
+     to     the       health,           welfare             and     prosperity                of       the          state's             citizens.
+     We     find       that        the          proposed           application                provides                    significant
+     benefit           to       the     economy             of     both       Yamhill             County                 and     the        State.               We
+     find        that       mineral              and     aggregate                resources              are             generally             scarce              in
+     Yamhill           County           and       that        rock          resources             of     the             quality            available
+     on     this       site        are          rare     in      the        county.           We       find              that         rock     is       an
+     essential              building              block          for        the     county'and                     state         economies                  as     it
+     is     necessary              for          infrastructure                    projects              (streets,                     roads,          sewers,
+     etc.)           and     is    an       essential              construction                   material                 in         the
+     residential,                  commercial                 and       industrial                sectors.                     We      find       that
+     rock        is    required                 for    base        purposes             for       all      types               of      buildings                 and
+     that        rock        is    incorporated                    in       construction                 through                 concrete,                  base
+     materials,                 access:-roads                 and       in    many       other           ways.                 We      find       that
+     rock        products             are        essential              to    a     healthy            growing                 economy            in        the
+     county           and       the     state.              We     further            find        that             this        particular                   site
+     has     a       large        quantity             of     high          quality          rock        material                     that     will          be
+     available              to     the          county        for       a    significant                 period                and,         therefore,
+     will        be    a     significant                 economic             asset          to    the             county.              We     find          that
+     c.C.        Meisel           has       a    work       force           and     payroll            that              are     important                  in
+     the     county,              and       preserving              a       stable       source            of            rock         supply          for        the
+
+                                                                                                                                Exhibit "A" — Page 145
+                                                                              -145-                                             Ordinance             614
+                                                                                                             cna BO 024723
+company           will       assist             in     protecting                  jobs       and       payroll           and        thereby
+aid     the       economy             of    the        county.               We      find         that        failureto               preserve
+high-quality                 rock          sites          that        are       favorably               situated              to     serve
+market        areas          can        ultimately                 lead         to    higher            prices          and
+undependable                 levels             of     supply.               We      find         that       this       could         directly
+or     indirectly                increase              the       costs          of    roads            in    the     county,             the
+affordability                    of     homes          in    the       county,             and         the     amount          of     tax
+revenue           that       must          be    used        to       purchase             road         construction                  and
+repair        materials.                    We       find        that        protecting                 this       particular                   site
+protects           a     resource               with        the       ability            to       serve        Yamhill             County            with
+quality           rock       material                that        is    important                  to    the       County's            eqonomic
+well-being.                  We        further            find        that         the     site         will       be     available                  for
+other        types          of    economic                uses        (e.g.,          agricultural                   and       forestry
+uses)        on    a    declining                basis           while          the      rock          operation              is    ongoing.
+We     further           find         that        once       the       rock          operation               has     been          completed
+at    the     site,          the        site         will        be    reclaimed                  in    a    manner           that        allows
+the     propagation                   and       harvesting                 of      forest/farm                 resources                 including
+timber        and       Christmas                trees.               We     find        that          this       site        will       remain
+available              to    assist             in     the        improvement                 of       the     economy             through
+forest        and        farm         uses        in      the      future.
+                       For       all       these          reasons,              we    find         and       conclude              that         Goal       9
+is    met     and       that          our       approval              of     the      site         will        have       a    positive
+effect        on       the       economy             of     the       county          dnd         state.           We     conclude               that
+Goal     9    strongly                supports              the       protection                  and       use    of     this        resource
+site     consistent                   with        our       decision.
+
+GOAL     11
+                       We    find          that        the       opponents               argue          that       Goal        11     has
+applicability                    in     this         matter.               Goal       11      generally              provides              that
+jurisdictions                    should          plan        and       develop             timely,             orderly             and
+efficiently                 arrangements                    of    public             facilities                and      services                to
+Serve        as    a     framework                for       urban          and       rural         development.                     We     do        not
+believe           that       the       proposed              use       requires               a    significant                 level            of
+public        services                and       we     do    not       believe             that         Goal       11     applies               to    our
+
+                                                                                                                     Exhibit         "A". - Page               146
+                                                                           -146-                                     Ordinance            614
+                                                                                                                FILE     60        sel            124
+
+decision.               Nonetheless,                   in    the          event          the      goal           would            be       deemed
+applicable,              we     make        the        following                  findings.
+                    We     find        that        the       proposed                  use       is        a    rural         use          fora
+number        of    reasons.                First           of    all,            rock        extraction                     is    a
+locationally               specific               use       and       rock          extraction                   must         occur             where
+the     resource           is    located.                   In    Yamhill                County,                we      find       that           rock
+resources           are        primarily               and       predominantly                         found            in    rural             areas.
+We     find       that     nearly           all        of    the          rock         extraction                      activities                 within
+the     county          are     located            outside                urban          growth                boundaries.                      We
+ further          find     that        this        particular                     operator                 normally               has       its
+crushing           and     processing                  operations                   at      the        point            of    gravel .
+extraction.                We        find     that          this          is      common          with            rock         operators                    in
+the     county.            We        find     that          some          of      the       product               that        will          be
+produced           from        the     site        will          be       used         in     the          urban         area,             but       we
+ find    that       where        the        material               is       ultimately                     used,         does          not,            in     and
+of     itself,          define         whether              the       activity                itself              is     urban             or     rural
+ in    nature.            For    example,               agriculture                      is      a rural                land       use          even
+though        most        food        is    consumed              by        urban           residents.                       Because              we        find
+“that    rock       resources               in     the       county               are       predominantly                         located
+outside           the     urban        areas           and       that          processing                      activities                  normally
+eccur        at    the     site        where           the       rock.is               located,                 we      find        and         conclude
+that     the       proposed            use        is    a    rural             development.
+                    We     find        that        the       adjacent                  site           is       presently               served               by
+electrical              power         and     that          no    changes                need          to       be      made       to       make            sure
+of     the    availability                  of     electrical                     service              to       the      proposed                 site.
+We     further           find    that         adequate                water            is     available                  on       the       site            from
+an     onsite       well        within            statutory                 exemption                  or       adequate               water             can
+be trucked to the site.
+                    We        find     that        the       proposed                  site         is         served         by       a    private,
+paved        access        road        which           connects                to      Walnut              Hill         Road.              We     find
+that     after          traveling             a    short          distance                  on    Walnut                Hill       Road
+ (approximately                 one-quarter                  of       a     mile)            access             is      gained             to     the
+Lafayette-Hopwell                      state           highway.                   We     find          the        opponents                 provided
+a     videotape           taken        with        a     telephoto                  lens         and           other         evidence                  and
+
+                                                                                                                         Exhibit            "At      -      Page    147
+
+                                                                          “147-                                          Ordinance               614
+                                                                                                                                     erry       WY45)
+                                                                                                                 FILM        60
+
+       tried       to     make           the       argument               that        access            from          the       paved           access            road
+come
+
+       to    Walnut          Hill         Road          was     not        safe.             We    also            find         neighbors                  raised
+       concerns           regarding                  school           bus       safety.                 Our       view          of     the        site          and
+       evidence           in        the       record           convinces                us       that        this          is     not          the     case.
+       We     find      that         the       intersection                     of      the       access              road        and          Walnut           Hill
+       Road     is      gated.                The       gate         is    set        back        from           the       road        a       significant
+       distance,             clearly               enough           to     allow            entering               or      exit        trucks              to    get
+       completely               off       the        road        in       the       event         the        gate          is     closed.                  We
+       further          find         that          the       access            point          itself             is     broad          and        paved          and
+       provides           an        adequate             and        safe        place            for        trucks           to      gauge            oncoming
+       traffic          on      Walnut             Hill        Road        and        safely            enter           Walnut             Hill        Road.
+       We     find      that         the       nearby            intersection                     with           the       state           highway              is
+       protected             by      a     stop         sign.             Accordingly,                      we     find         and        conclude              that
+       transportation                      infrastructure                       in      the       area           is     sufficient,                   for       the
+       proposed           rural           use.                                                                                             S
+                             Because               we     find        the       proposed                use        is      rural           use,        we       find
+       that     port-a-potties                          or     other           subsurface                   sewage           disposal                 is
+       adequate           to        serve          the       needs         of       the      employees                  who       will          be     on       site.
+       We     find      that         this          subsurface                  sewage            disposal               is      used           for
+       residents               in    the       general              area        and         is    sufficient                    for        the        purposes
+       of    the     proposed                 use.                                                      ‘
+                             We      find          that        transportation,                          water,             sewage              and
+       electricity                  are       the       facilities                  and      sérvices                 which          we        determine               to
+       be    suitable               and       appropriate                  for        the        needs           of     rural          uses           in    the
+       area.         We      further               find        that        adequate               levels              of     these             services              are
+       presently             available                  to     serve           the     proposed                  rural          use.            Based           on
+
+       all     these         factors,               we       find,         to       the      extent              that        it      is        applicable,
+       that     Goal           11    is       met       by     the        proposed               use,        and        the       goal          mitigates
+       in    favor        of        the       proposed            use.
+
+       GOAL     12
+                             Statewide                  Goal        12     requires               the        provision                 and
+       encouragement                     of    a     safe,        convenient                     and        economic              transportation
+       system.            We        find       that          rock         is    a     key        raw        material              that          is     used          to
+
+                                                                                                                                  Exhibit            "A"    -   Page        148
+                                                                                    -148-                                         Ordinance 614
+                                                                                               FAL GO 1726
+produce         transportation                  facilities                   such       as     roads,        railroads,
+sidewalks            and    bikeways.                We       find       that       protection               of     adequate
+supplies         of       rock     resources              significantly                      advances          the     county's
+ability         to    have        raw     material             available                for     construction                   of    these
+types     of     transportation                    systems.                  We    find        that     it     is     in       the    best
+interests            of    the     citizens              of    the       county           to    have      mineral              and
+aggregate            resources            available                to    assist           in    the     development                  of
+transportation                  systems.
+                     As    indicated            in       our       findings             of     Goal     11     above,           we     find
+that     the     proposed           use       is     a    rural          use       and       requires          a    rural           level
+of     facilities,               including           transportation                       facilities.                 We       find       that
+the     internal           access         road       to       the       site       is     a paved         road.            We       find
+that     where        the       access        road        intersects                Walnut          Hill       Road,           there        is
+a    large      paved       pad     that        allows             trucks          exiting          the      site      to       safely
+stop     and     view       oncoming            traffic.                 The       pad       also      allows         trucks
+entering         the       site     to     pull          completely                off       the      road     in     the       event
+the     gate     to       this     which        guards             the       private           access        road         is    closed.
+We     further        find        that     it      is     a    short          distance,               approximately                  one-
+‘quarter        mile,        from       the     access             road       to    the        intersection                of       the
+Lafayette/Hopwell                   state          highway.                  The    state          highway          provides
+transportation                  distribution                  to    other          roads        and     highways               in    the
+county.          We       further         find       that          the       existing           Stephens            Quarry           has
+been     in     use       for     a number           of       yers       and       that        truck      traffic              from       this
+use     has     been       safely         accommodated                   on       the     existing           road      network              in
+the     area.         We     find       that       the        use       we    have        approved           will      continue              to
+be    safely         and    economically                  served             by    the existing                transportation
+systems         in    the       county.            Based           on    these           factors,         we       find        and
+conclude         that       adequate            transportation                          facilities           are      in       place        for
+the     proposed           use     and     that          these          transportation                    facilities                are
+safe,     convenient               and     economic                for       the    proposed            use.          Accordingly,
+we     find     and       conclude         that          statewide                planning          Goal       12     is       satisfied
+and     that     Goal        12    weighs          in     favor          of       our     decision           to     protect           the
+proposed         gravel           site.
+
+                                                                    -149-                                           Exhibit   "A" -               Page   149
+                                                                                                                    Ordinance    614
+                                                                                                         rx 60 rce1727
+
+     GOAL     13
+on
+
+                          Goal       13     requires                the    County         to    analyze                any     energy
+      considerations                 for        the       proposed           land        use    with          an       eye     toward
+      conserving             energy.             We       find       that      the       proposed             site        is    immediately
+      adjacent          to     an    existing               site       which        is    zoned          and       planned           for
+      mineral        resource             use.            We    find       that         the    applicant                has     operated
+      crusher        and       batch        plants             under       permitted            uses          on       the     adjacent
+      site.        We     find       that        the        availability                 of    additional                rock        resource
+      immediately              adjacent              to     the      existing            batch       plant             and     processing
+      plant     site         will        reduce           the       amount         of    truck       transportation                       for
+      rock    resource              because            there         is    processing               capability                 immediately
+      adjacent.to              the       proposed              site.         We     find       that          reducing               truck
+      transportation                 saves           energy          because            rock     resources               are        moved       in
+      Yamhill        County          primarily                 by    truck.
+                          We      further             find      that       the      site       is    located             reasonably
+      close     to      the       McMinnville                  market        area        where       a       portion           of    the     rock
+      production             is     used.            We     find       that        locating          rock          sites        that        are
+      reasonably             close        to     a     major         market         area       in    the          county        reduces           the
+      amount       of     transportation                       necessary            to    move       rock          material           to     where
+      it   will      be      used        and,        therefore,              saves        energy.                 We    further            find
+      that    close          access         to       the       state       highway            provides             an    excellent
+      transportation                 facility               for      the     distribution                    of    rock        from       the
+      quarry.           We     find       that         the      state        highWay           tends          to       make     truck
+      transportation                 more        efficient                because         state          highways              are
+      generally           designed              for       more       efficient            travel             (e.g.,           fewer       stops,
+     ‘easier       curves,           etc.),            as      opposed         to       most    county             roads.            We     find
+      that    the       availability                   of      the     state        highway          will          help        reduce
+      energy       use       by     delivery              trucks.            We      find      that          nothing           has    been
+      brought        to      our     attention                 in    this      proceeding                that          would        lead     us      to
+      conclude          that        any     portion             of     the     activity             at       this       site        would
+      increase          the       need      for        energy          consumption              as       a    result           of    the
+      approval          that        we    have         granted.
+
+                                                                           -150-                                        Exhibit   "A" -                   Page   150
+                                                                                                                        Ordinance    614
+                                                                                                       FILR         60      race        728
+
+                        For        all       these           reasons,              we     find        and       conclude                that        the
+ requirements                    of     Goal        13       are    met           and     that        Goal          13      weighs           in     favor
+ of    our        decision              to       protect           the        mineral            and       resource               site.
+
+ GOAL      14
+                        Opponents                 argue        that           Goal        14     has       applicability                      to        this
+ proposed              use.           Goal         14    provides                 for     an     orderly             and         efficient
+ transition                 from        rural           to    urban           land        use.         As       we       have       previously
+ discussed              under           Goal        11       above,           we     find        that          the       proposed             land           use
+ is    a    rural           use,        typically              located               on    rural.              lands        in    Yamhill
+ County.               We     find          that        rock       extraction                  sites           in    the         county .
+ typically              require              large           acreages              and     that        a       large         size        parcel              is
+ not       consistent                 with        urban        uses.               We     further              find         that        in    Yamhill
+ County,           most          processing                  occurs           at     the       site        where            extraction                  takes
+ place,           and       in     Yamhill              County,              extraction               takes          place
+ predominantly                     in       rural        areas.               We     find        that          the       material              is       used
+ both        in    urban           and       rural           areas,           but       that      the          end       use      of     the
+
+- product          itself              is    not        determinative                     whether              the       use       is    rural           or
+ urban        in       nature.               Rather,           we        find        that        the       practice                in    Yamhill
+ County           is    that          rock         extraction                 and       processing                  sites         are        located
+ in    rural           areas          and        that        the    activity                   is ‘predominantly                        rural           in
+ character.                   Based          on     all       of    these            factors,              we       find         and     conclude
+ that       gravel            extraction                 and       processing                   activity               is    a    rural
+ resource              activity              and        nothing              in    this        process              or      in    our        decision
+ permits           a    change              in    any        use     from          rural         to    urban.                Accordingly,                     we
+ find       and        conclude              that        Goal           14    does        not     apply             in      this        matter.
+
+ STATUTORY              REQUIREMENTS                                :
+
+                        We       find        that        the       proposed               use     is       a     specific               use        listed
+ in    ORS        215.283(2)(b)                     and       that           mining,           crushing,                 stockpiling                    and
+ processing                 of     aggregate                 and    other            mineral           resources                  are        permitted
+ under        this          section              subject           to        the     requirements                    of      ORS        215.298.
+ We    find        that          ORS        215.298           requires               a permit              for       mining             more        than
+ 1,000        cubic           yards          of     material                 or    excavation                  preparatory                   to     mining
+
+                                                                             -151-                                       Exhibit             "A"        - Page     151
+                                                                                                                         Ordinance                614
+                                                                                                                               Fix 60 occt'729
+
+    of     a       surface             area          of     more        than          one       acre.            We        find           that         the
+    proposal                 before             us     is       for     permission                   to    extract                  rock          on        an
+    80-acre              parcel             and       a     permit              is    necessary.                    We         find          that           our
+    approval                 in      this        matter            is       a    permit             as    contemplated                        under
+    ORS        215.298.                    We    further              find           that       a    permit               may       be       granted                 only
+    for        a    site          included                on     an     inventory                   in    the       County's                  acknowledged
+    Comprehensive                          Plan.            We     find          that        as      part        of        our          decision,                    we
+    have           so    included                this           80-acre              parcel          on    Yamhill                  County's
+    Comprehensive                          Plan.            We     find          that        the         remaining                  provisions                       of
+    ORS        215.298               define           the        term           "mining"             and       do         not       have          any        direct
+    bearing              on       the       action              which           we    take.              Because               we       have           included
+    this           80~acre             site          on     the       Comprehensive                       Plan            inventory                and           because
+    we     are          granting                a permit              through              this          action,               we       conclude                 that
+    the        requirements                      of       ORS      215.298                are       satisfied.                                          .
+                               For         mining,              crushing,                 processing,                     and       stockpiling                       of
+    aggregate                  or      other          mineral            resources                   to    be       allowed                  on    EFU           land,
+    we     find          that          the       provisions                     of    ORS       215.296             must            be       addressed                    and
+    satisfied.                       Those           two        provisions                 provide             that            a    local          government
+    may        approve               the        mining,           processing,                       crushing               and          stockpiling                       use
+    only           where          it       finds          that        the        uses        will         not:
+                               (a)          Force           a    significant                    change           in        accepted                farm              or
+    forest              practices                on       surrounding                     lands          devoted               to        farm      or        forest
+    use;           or                                                                                                 ,
+                               (b)          Significantly                        increase                the     cost              of     accepted                   farm
+    or     forest              practices                  on     surrounding                    lands          devoted                  to    farm           or
+    forest              use.
+                               As      a    starting              point              in    our       analysis,                     we     incorporate
+    herein              our       findings                and      analysis                under          statewide                     Goals           3    and          4,
+    above.               We       find          that        the       statute              requires              a significant                              forced
+    change              in     accepted                farm       practices                  on      surrounding                        lands          or        a
+    significant                      increase               cost        of       accepted                farm       practices                     on
+    surrounding                      lands.               We     believe              that          the    use            of       the       word
+    "significant"                          in    the        statute              limits             rather          than            supplements                       the
+    farmland                 protection                   that        the        statute             affords.                      We     believe                that
+
+                                                                                     ~152-                                          Exhibit   "A" -                        Page   152
+_
+
+                                                                                                                                    Ordinance    614
+                                                                                                                   rus 60 »sc1'730
+ORS     215.296          recognizes                 that       not         every            increase            in    cost     or     forced
+change       in     accepted              farming             practices                 is       prohibited.                 Rather,           to
+be    significant,                 increased                 cost        or      forced           change           must,      by     itself
+or    cumulatively,                  cause          an       important              material,                 substantive,
+meaningful              or    serious              change           in     accepted               farming            practices            or
+increase           in    cost        of       accepted              farming             practices.
+                    We       do    not        limit          the     term          "surrounding                    lands"      to     the
+parcels        that          are     immediately                   adjacent                 to    the        80-acre         application
+site.        Rather,              surrounding                 lands           as    we       use       it     in     our     findings
+refers       to     those          lands           within           1,000          feet          of.the        outside         perimeter
+of    the    80-acre              parcel           under       question.                     In       determining             what,       would
+constitute              surrounding                 lands          for        purposes                of, analyzing            the
+requirements                 of    the        state          statute,              we       considered               various
+distances           from          the     perimeter                of      the      proposed                 80-acre         parcel
+(e.g.,       1,000           feet,        one-quarter                    mile           (1,320         feet),         two,    thousand
+feet,       and     one-half              mile           (2,640          feet        from         the        perimeter)        )     as     an
+appropriate              area        to       be    designed               "surrounding                      lands."          From        our
+review       of     the       topographical                    maps           of    the          area,        other        evidence,               and
+our     view      of     the       site,           we    find        that          best          definition            for
+surrounding              lands          in     this          particular                 instance              is     the     1,000         foot
+distance,           synonymous                 with          the     impact             area,          around         the     perimeter
+of    the    80-acre              parcel.               We    reach           this          conclusion               based     on     the
+following           factors.                                                            '                ,
+                    We       find       that        the       1,0000-foot                    perimeter takes                   in all              the
+different           zones          that        are       presentin the                           general           area,      including
+the     AF-20,          AF-10,          MR,        and       EF-40         zones.                We    further         find        that        the
+topography              of    the       -1,000-foot                perimeter                 area        is    similar         in     nature
+to    the    topography                 of     the       general              area,          including               property         within
+a    one-half           mile       perimeter.                  We        further             find        that        the     kinds        of
+agricultural/forestry                              uses.that               are      common             in     the     general         area
+are     found       within           the       1,000-foot                  impact            area/surrounding                      lands
+area.        For        example,              from       the       record           and          our     site        view,     we     find
+that     there          agricultural/forestry                                 uses          within           the     1,000-foot
+perimeter           of       the     site,          including                 Christmas                tree        production,
+
+                                                                         -153-                                       Exhibit         "A"       -    Page   153
+                                                                                                                     Ordinance             614
+                                                                                                            run 60 neh 734
+timber        production,                 pasture           land,        an        unattended                vineyard             on     a
+portion        of       the     80-acre              parcel       and         domestic                livestock             production.
+We     find    these           to    be     typical           uses        in       the       general           area.           We      note
+that     in    the        general           area       to     the       north           is    a       larger       vineyard              and       to
+the     east       are     filbert              and    cherry           orchards.                     Although          these          are
+outside        the        1,000-foot                 perimeter,               we    also          consider             them       to     be
+
+typical        of       the     types           of    farm       crops,            and       corresponding                   farm
+practices            which          could        be    used       within            the       impact           area/surrounding
+lands        area,        as    we    have           defined          that         term       for       this       particular
+application.                   Because           we     find      that         quarry             impacts          will        not       extend
+beyond        1,000        feet,          and        have     established                    this       distance             as     the
+impact        area,        we       further           reason          that         surrounding                 lands,          for
+purposes           of     analyzing              changes          to     accepted                 farming          and       forestry
+practices,              should        be        limited          to     those           areas          where       an       impact           from
+the     operation              could        occur.           We       find         and       conclude             that       this        should
+be    the     1,000-foot              perimeter.
+                     We       incorporate              by     reference                 herein          our       analysis             of
+conflicting               uses       and        our    analysis               of    Goal          4    in    these          findings.
+We     find    that           forest        practices             occur            in    the          general          area.           These
+practices            are       predominantly                  related              to    timber             production.                  We
+find     that        on    the       80-acre           parcel,           there           is       an    existing             stand           of
+managed        timber           and       on     the       parcels            to    the       south,           there         are
+standing           Douglas           Fir        trees       and       deciduous               trees.              We    find        that          to
+the     north        of    the       parcel           there       are         also       trees,             but    these          appear           to
+not     to    be     managed           or       dense       enough            for       intensive              commercial
+harvest.             We       find     that          the    appropriate                   forest            practices             in     the
+area     are       the     planting              and       growing            of    trees             for    commercial
+harvest.             As    we       have        previously              concluded                 with       regard          to     Goal          4,
+and     in    our       conflict            identification                     and       ESEE          analysis,             we     do       not
+believe        that        there           is    any       significant                  conflict             between           the
+accepted           forest           practices              and    the         mineral             and       aggregate             use        that
+we    have     approved              in     this       application.                      Because             we    find        no
+conflict,            we    also        find          that     allowing              the       mineral             and       aggregate
+use     to    occur        will        not       force        any       significant                    change          in    accepted
+
+                                                                      -154-                                   Exhibit   "A" -                     Page   154
+                                                                                                              Ordinance    614
+                                                                                             nix 60 ic 4732
+forest        practices              on     surrounding                 lands          nor       will       it     increase                the
+cost     of    accepted              forest           practices              on    surrounding                   lands.               We    find
+that     those          lands        will        still          be    available              for       the       planting              and
+harvesting              of     trees        in    the       event        that          the       landowners                 so     choose          to
+pursue        these          activities.                   We    find        that       the       mineral              and       aggregate
+activity           to     be      approved            on    the       80-acre           parcel           will          simply          have        no
+effect        on     forest          practices              on       surrounding                 lands.
+                    With          regard         to    farm          practices              on    surrounding                    lands,           we
+find     that       the        crops        we    have          listed        and       observed              in       the       area       are
+typical        of       the       crops      that          are       grown        or    could          be     grown           on
+surrounding               lands.            We    find          that     the        farm         practices              related             to
+these        crops        include           planting,                growing,           harvesting                 and        irrigation
+of    the     crops          as     well     as       grazing           and       raising           of      livestock.                     We
+have     analyzed              the     potential                impacts           of    the       proposed              use,       (e.g.,
+noise,        dust        and       vibration)              and       find        that       those          impacts              will       not
+cause        significant               conflicts                on    surrounding                 land uses.                     We
+incorporate               our       conflict           analysis              herein.              Because              we     find         that
+the     types        of      activities               that       will        occur          in    the       rock        operation                 do
+not     create          conflicts,               we    conclude              that       quarrying                activities                 are
+essentially               neutral           to    farm          practices.                  We    find        and       conclude,
+therefore,              that        the     rock       operation              will          not     force          a    significant
+change        in     accepted              farm       practices              on     surrounding                  lands           nor
+significantly                  increase           the       cost        of    accepted              farm         practices                 on
+surrounding               lands.            Our       determination                    with       regard           to        farm       and
+forest        practices              is     demonstrated                 to       us    most        clearly             by       the       fact
+that     there          is     an    existing              mineral           and       aggregate              operation,                   which
+has     processing                uses      including                batch        plants           immediately                   adjacent
+to     the    proposed              80-acre           parcel.            This          existing             operation                 is
+clearly        part          of     the     surrounding                 land       pattern              and      we      find         that
+landowners              in     the     area       are       still        able          to     raise         crops           and
+livestock           notwithstanding                        the       presence           of       the     mineral              and
+aggregate           use.            This      further            strengthens                  our       conclusion                 that          the
+proposed           use       will      not       adversely              affect          accepted              farm          or      forced
+practices            in      any     significant                 way.
+
+                                                                     -155-                                    Exhibit   "A" -— Page                     155
+                                                                                                              Ordinance    614
+                                                                                                   ue 60 sxc:4'733
+                    Neighbors                 brought           to     our         attention                  during           the    hearing
+their       concern               that       there       would         be      adverse              affects               on    the       water
+supply        in    the           area.           Because        we      find           that        a    standard               farming
+practice           is        irrigation,              we    believe                it     is       important               to    address
+this     issue.               We       incorporate              by     reference                   herein           our        findings
+under       Goal        6.         In       our    analysis            of      Goal          6,     we        found        that       the
+proposed           use        will          not    adversely             affect              the        quality            or    quantity              of
+groundwater                  or    surface          water         in     the        general              area.             Because          we
+have     reached              the       conclusion              that        there            will        be     no        adverse          affect
+on    the     groundwater                    from     the       proposed                operations,                   and       because          we
+have     conditioned                    the       operation            in      a    manner              that        will        protert
+groundwater              resources                 consistent               with          our       conclusion,                  we       find     and
+conclude           that           the       proposed        use        will         not           force        any        significant
+change        in    accepted                 farm     or    forest             practices                  on    surrounding                 land
+or    significantly                      increase          the       cost          of     accepted              farm           practices           on
+forest         land.
+                    Based              on    all    these        factors,                 we       find        and        conclude          that
+the     standards                 of    ORS       215.296        are        met         by     this           application.
+                    We        find          that     opponents              argue            that         several              sections          of
+ORS     197.175(2)                 are       applicable              approval                criteria                in    this       matter.
+ORS     197.175(2)                 concerns           procedural                   requiirements                    related           to    a
+local       government's                     adoption           of comprehensive                              plans        and       land       use
+regulations.                      We    do    not     believe            that'these                     are     approval              criteria
+for     this       decision,                  Nonetheless,                  we      find           that        we     have       exercised
+our     planning              and        zoning       responsibilities                             in     a    manner           that       are
+consistent              with           the    statutory              requirements                       of     ORS        197.175(2).
+                        Opponents                 also     argue         that           provisions                  of     ORS       197.610-
+625     are     applicable                   to    the     proposed                use.           ‘These        statutory
+provisions              are        post-acknowledgment                             procedures                  related           to
+amendment           of        local          land     use       regulations.                        We        find        these       are       not
+substantive                  approval             criteria           for       the        proposed              use.            Nonetheless,
+we     find     and          conclude             that     we    have          reached              our        decision              in
+compliance              with           the    post-acknowledgment                              procedures                  set       forth        in
+ORS     197.610~625,
+
+                                                                       -156-                                    Exhibit   "A" -                   Page      156
+                                                                                                                Ordinance    614
+                                                                                          rte BO xcc1734
+
+                    Opponents               argue       that          ORS      197.732             applies           as         a
+substantive               decision             criteria           in       this      matter.               This        statutory
+provision           relates            to      goal     exceptions.                      As    we     have       previously
+concluded           in        these       findings,              the       proposed            use       does        not            require                 a
+goal     exception              and,        therefore,                we      find       the       provisions                   of
+ORS     197.732           are       not     applicable.
+                    Opponents               also       argue          that        the     provisions                 of         ORS              215.203
+apply     to       this        proposed          use.            We     find        that       ORS       215.203                contains
+EFU    definitions,                   including             definitions                  of    "farm          use,"             "current
+employment,"                  "accepted            farm      practice,"                  and       other        terms.                   We           do
+not     find       this        section          to     provide             any      substantive                 approval                     .
+criteria.            In        any     event,          we    have          made       detailed             findings                  with
+regard        to    farm        uses        both       with       regard            to    the       provisions                      of           our
+Comprehensive                  Plan       and      Zoning         Ordinance               and       statewide                   goals                 and
+statutes.                                                                                                                   /
+                    Petitioners                 also        argue           that      ORS      215.243            is ‘applicable
+in    this     matter.                This      statutory               section             sets      out       general
+agricultural                  land     use      policies              which         we    do       not     find        to           be
+substantive               approval             criteria           that         are       applicable               to      this
+proposed           use.         In     any      event,           we     find        that       ORS       215.243                must              be
+read     together              with       provisions              of       ORS       215.283(2)               which
+specifically                  provides          that        the       use      we     have         approved            may           be
+permitted           on        EFU     lands,          when       substantive                  standards              are            met.               We
+have     addressed              all       applicable              substantive                  standards               and,
+accordingly,                  find     and      conclude              that        ORS       215.243,            to     the           extent
+that     it    has        a    substantive              applicability                     to       the     decision                  that              we
+have     made,       is        met..                                                                                                     ,
+                    Finally,              petitioners                 argue          that’ ORS           215.253                is
+applicable           approval               criteria             for        our     decision             in     this            matter.
+This     statutory              provision              generally               prevents              local        governments
+from     enacting              regulation              that       would           restrict            or      regulate                       farm
+practices           and        structures.                  We    have         made         significant                findings                        in
+this     matter,              which       we    incorporate                   herein          by     reference,                     to
+demonstrate               our       belief         that      the        proposed              use     will        not           have              a
+
+                                                                                                              Exhibit   ."A" -                              Page   157
+                                                                      -157-                                   Ordinance     614
+                                                                                              rua 60 vc 735
+     significant           adverse           effect             on     farm        practices                  or       farm          costs.
+     Because     we      find       that         the       proposed               use     will           not       create             any
+a,
+
+     significant           adverse           effects             on       farming             or     forest                activities,                     we
+     conclude       that        the      proposed               use       will      not         restrict                   or    regulate                   farm
+     structures          or     farm        practices                as     contemplated                      by       the       statute.                       We
+     find    that     the       decision           we       have          made      is        to     allow             a    use        (mineral
+     and    aggregate           mining           and       processing)                   which           is    recognized                   as         an
+     appropriate           use      on      EFU    lands             by     state         statute.                     We       find       that             our
+     decision       is     to      approve         permissible                     land         use,          not          to    restrict                  or
+     regulate       farm        structures                 or    farm          practices.                     In       the       event           any
+     portion     of      our       decision            would           be      deemed           a    restriction                      on
+     farmland,        we      further            find       that          in      protecting
+                                                                                           the                             mineral          and
+     aggregate        resource              on    the       site,           we     are        protection                    a    valuable
+     asset     necessary              for    the       current              and         future           health,                safety           and
+     welfare     of      our       citizens,               as    described                in        these          findings.                     For            all
+     these     reasons,            we    find      that          to       the      extent            it       is       deemed
+     applicable,           the      requirements                     of     ORS     215.253               are          met       by    the
+     proposed       application.                       ‘
+
+     PROGRAM     TO      MEET       THE      GOAL
+
+                      We      find       that      Goal          5     requires               the        county             to       develop                a
+     program     to      achieve            the    goal.               We      find       that           there             is    adequate
+     information           on      the      location,                quality             and        quantity                of       the        rock
+     resource,        and       that        we    have          determined                it        to    be       a       significant
+     resource.           As     such,        we    have          included                it     on       the       comprehensive                           plan
+     inventory,          identified               conflicting                     uses,         considered                      and    analyzed
+     the    economic,           social,           environmental                         and     energy              (ESEE)                  ,
+     consequences             of    the      conflicting                    uses,         the’ impacts                      between              Goal            5
+     resources        and       the      conflicting                   uses,            and     have          determined                   to
+     protect     the       resource              site       by        limiting            conflicting                       uses.           Under
+     the    program,          we    designate               mineral               and     aggregate                    extraction                     and
+     related     uses         which         are    allowed                on      the     site           subject                to    the
+     conditions          listed          below.             To        assist        us         in    reaching                   our
+     conclusions           and      the      resolution                   of      conflicts               we        identified,                       we
+
+                                                                          -158-                                            Exhibit              "A"         - Page    158
+                                                                                                                           Ordinance                  614
+                                                                                                                          ree GO cA 736
+     have     performed                an       analysis              of     the      ESEE      factors              and       discussed              each
+     factor        in    detail.                 Based          on        the    ESEE        analysis,               it     is      our     decision
+am
+
+     to    protect           the       mineral             and        aggregate              resource.                The        basic
+     elements           of    the          programs             for        protection               are    set        out        below.
+              A.         Based             on    the       ESEE           and      the    ESEEH      conclusions,                     the
+     requested           Goal          5    mineral             and        aggregate            resource              site          is
+     designated              for       protection                    (a     "3-C"        determination                    under          OAR      660-
+     16-010(1)_              in    the          Yamhill          County             Comprehensive                   Plan         text       and       map,
+     and     placed          on    the          Yamhill          County             rock       inventory.                  These           ESEE
+     findings           are       incorporated                   into           the      comprehensive                    plan        as    part         of
+     the     background                materials                thereto.
+              B.         A     limited            use       overlay              is      hereby       placed              on     the       80-acre
+     parcel        to    impose             the       following                 conditions:
+              1.         The       site          shall          be        reclaimed            to    support              the       propagation
+     of     forest       products.                    Reclamation                   shall       be    completed                  on      any     20
+     acre     portion             of       the    site          that         has      been      mined          but        has       been
+     inactive           for       more          than       10    years.               Reclamation               shall            conform           to
+     the     requirements                   of    the       Oregon              Department            of       Geology              and     Mineral
+     Industries.                  Groundwater                   recharge              areas         may    be       developed               if
+     consistent              with          the    reclamation                    of      the    site       for        the        propagation
+     of     forest       products.
+              2.         Extraction                   of    the           site      shall       be    accompanied                     by    advanced
+     air     track       drilling                to    identify                 and      delineate             substantial                  perched
+     zones.          The      methodologies                      for         the      advanced            air       track           drilling
+     program         will         be       developed             with           the      concurrence                of     the        Oregon
+     Department              of    Geology             and       Mineral              Industries               and        the       Oregon         Water
+     Resources           Department.                       Based           on    air      track       drilling                 data,        setbacks
+     shall     be       established,                   with           the       concurrence               of    the        Oregon
+
+     Department              of    Geology             and       Mineral              Industries               and        the       Oregon         Water
+     Resources           Department,                   to       protect             substantial                perched              zones         that
+     are     encountered.
+              3.         C.C.          Meisel           shall             preserve           existing           vegetation                  within
+     the     extraction                setback             area           along       the      border          of     the        quarry           and
+     shall     plant          vegetative                   screening                along       the       borders              of     the
+     expansion           site          prior          to    quarry              operations            on       the        site.            The
+     applicant           shall             work       with       the         Department              of    Geology               and       Mineral
+
+                                                                           7159-                                     Exhibit   "A" =                    Page   159
+                                                                                                                     Ordinance    614
+                                                                                                            FILE      60        oh            TST
+Industries               to        store          overburden               and       topsoil               in      berms        along              the
+edge        of    the         site         and       plant         the    berms           with        a     vegetative                   screen,           if
+appropriate.
+                        4.         No      asphalt            batch       plant,           concrete                  pipe       or       similar
+manufacturing,                      or         watchman's            hut       shall           be     allowed              on       the
+expansion               site.              Any       such      activities                 shall            be      confined              to        the
+MR-1        area        of     the         existing            Stephens              quarry.
+                        5.         The         setback         requirements,                     environmental                          standards,
+screening               standards                 and     operation               and      safety               standards                set        forth
+in     Section               404.07        of     the     Yamhill             County            zoning             ordinance              are
+hereby           imposed             as        conditions            of       approval.               |.                                       .
+                        6.         The         operator            shall       record            a written                 statement                 that
+it     recognizes                  the         rights         of    adjacent              landowners                  to       conduct              forest
+operations                   consistent                 with       the    Oregon           State            Forest             Practices                 Act
+and     the        rules           enacted              thereunder.                  The       written               and       recorded
+statement               shall           be       recorded           prior           to    the        beginning                 of       operations
+on     the       expansion                 site.                                                                                    “
+                        7.         The         applicant            shall           enter        into           an    agreement                    and
+provide            surety            acceptable                to    the       County            Counsel              which             assures
+conformance                   to     the         standards           set       forth            in    YCZO           Section             404.07,
+
+and     insurance                  acceptable                 to    the       County           Counsel               to    cover          damages
+to,     and       replacement                     of,     any       domestic              water            supplies             in       the        area
+which        are        caused             by     the     subject             mineral            resource                 operations.
+                                     a.         The      amount          of the surety                      shall          be       set       by     the
+County           Counsel,                 in    consultation                  with        the        Planning              Director,                 but
+in     no    event            shall            the      amount       of       the        surety            be      less        than       $500,000.
+
+The     surety               shall         be     in     effect          until           the     completion                    of       mineral
+resource            operations                    on     the       property.               The        County              shall          have        the
+ability            to        draw        against          the       surety           in    an        amount           necessary                to
+correct           any         violations                 of    YCZO       Section              404.07.                Disputes                arising
+with        respect            to       claims           against          the        surety           shall           be       resolved              by
+binding           arbitration                    pursuant            to       ORS        Chapter            36.
+                                    b.          The      amount          of    insurance                   shall          be    set       by        the
+County           Counsel,                 in    consultation                  with        the        Planning              Director,                 but
+
+                                                                          “100-                                      Ex hibit "A"614- Page 160
+                                                                                                                     ORdinance
+                                                                                                               ru 60 :1738
+in   no    event         shall           it       be    less          than       $1    million            per        claim           and
+$3   million            in    aggregate                 claims.
+                   8.         Upon           completion                 of      mineral           and      aggregate                 activities
+on   the        site,        the        site        shall          be     reclaimed                for     agricultural/forest
+uses,       including               the        propagation                   and      harvesting                of    timber.
+                   C.         With           regard          to      properties               within            the       impact               zone
+surrounding              the        80-acre             site:
+                                  1.         The       proposed              mineral          and        aggregate              use            is
+          defined            as     a        "resource             use"         under        Yamhill            County          Ordinance
+          No.     541        adopted              by    the        Board         of    Yamhill             County          Commissioners
+          on     November               4,     1992        by      Board         Order        No.        92-04.            The             .
+          activities                   included            within            "resource              use"        definition                     of     that
+          ordinance               shall            include           the       mineral            and     aggregate
+          extraction,                   stockpiling                   and       processing,               uses        that           approved
+          herein.
+                                   2.        The       ability            of     the        applicantto                   conduct               its
+           "resource              use"         in      the      80-acre              zone     shall         not       be       diminished
+          by     activities                  on     surrounding                  properties.                    Accordingly,
+          consistent                with          Ordinance               No.        541,     the        county           shall        take            no
+          enforcement                   action          against              the      resource            use        approved                  herein
+          based         on    complaints                   by      any       conflicting                 use,        as    identified                       in
+          these         findings,                 that        is      located           in    the        impact           area        after            the
+          date     of        this        approval.
+                                  3.         For       the      purposes              of     this        land        use       action,                we
+          interpret               the        term        "generally                  accepted"             as    that          term            is     used
+          in     Ordinance               No.        541,        to      include             any     mining           practice                  or
+          facility            which.is                 conducted                or    used        in     compliance              with
+          applicable                   state        and       federal            laws,        but,         for       purposes                  of
+          determining                   compliance,                  any        conflicting               use        listed           in        these
+          findings,               that         is      constructed                   after        the     date        of       our     approval
+          in     this        matter            will        be      excluded.                 By     this,        we       interpret                   our
+          ordinance               to     mean          that        future            uses     that        would           be    located                in
+          such     proximity                   to      the      approved              mineral            and     aggregate                     use,
+          and,     that           would           cause         the      mineral             and       aggregate               use     to           fall
+
+                                                                         -161-                                    Exhibit   "A" -                          Page   161
+                                                                                                                  Ordinance    614
+                                                                                              ry 60 rc                        739
+out     of    compliance              with        applicable                laws       or     regulations,                    shall
+not.    be    used        as    a basis           for     finding            that       any        practice              used        by
+the     mineral           and       aggregate           operation,                that        was        in    compliance
+with     applicable                 state        and    federal            laws        prior        to        the
+construction               of       the     building            or    use,        does        not       continue              to     be
+a   "generally             accepted"              practice.
+                    4.         It    is,     and       shall         be,     the       policy           of     the       county
+with     regard           to    the        80-acre        Goal        5    resource               site        that       we
+approve        herein,              that     noise,        dust,           vibration               and        other
+effects        of     the       mineral           and     aggregate               use        shall        not       be
+considered            a    nuisance              for    any        conflicting                use       as     defined              in
+these        findings,              that     is       constructed             within              the     impact          area
+after        the    date        of    this        approval.                The     county            shall           inform
+the     Oregon        Department                 of    Environmental                   Quality            of    the       policy
+and     shall       also        inform           any    regulatory                or     judicial              body       of       the
+policy        upon        request           of    the     applicant.
+                    5.         The    county           shall         notify        all        property              owners
+within        the        impact       zone        of    the        provisions                of    this        subpart              (c)
+through        means           reasonably              calculated             to       give        notice,            and
+which        may     include,              but    are     not        limited           to,        mailing           such
+notice,        posting              notice        in    the        Planning            Department's                   tax      lot
+file,        and/or        posting           notice           in     the     Assessor's                 Records.
+                    6.         The    county           shall         make     a    permanent                  notation             of
+the     applicability                 of     Ordinance               No.     541       and        the     Program             to
+Meet     the       Goal,        on    the        county's            Comprehensive                   Plan       maps,
+zoning        maps        and       records,           county         assessor's                  maps        and     records,
+and     any    other           county        records            reasonably              calculated                  to
+apprise        owners           and        future       purchasers                of    the        existence              of       the
+ordinance           and        program           to    meet        the     goal.
+
+                                                        -162-                                 Exhibit   "A" -                  Page       162
+                                                                                              Ordinance    614
+                                                                                       FILW        60     ace      740
+
+                       7.      Prior     to    the     issuance        of    building,              occupancy
+       or   similar     permit         for    any    of     the    uses     described              in   these
+come
+
+       findings    as        a conflicting           use,     the    property           owner(s)                shall
+       execute    an        "Affidavit        of    Mining/Resource              Use"         in    the         form
+       attached    hereto         as    Exhibit        C,    and    such     Affidavit              shall         be
+       recorded    in       the   real       property        records        of   the      county.
+
+                                                    -163-                         Exhibit   "A" ~                  Page   163
+                                                                                  Ordinance    614
+                                                   BETES Et       rin    80 ee TAL
+
+| :   1000"   0            1000"           2000’      3000"   =}        Approved Goal   5 Resource
+                                                                                  Campbell
+
+                  Seale:   1” =    1000°                      a         Impact Area
+                                                                        Exhibit     upY   =]   of   2
+
+                                                                        Ordinance     614
+                                  run GO vec 742
+         EXHIBIT "B" FOR ORDINANCE No. 614
+                              ZONING MAP AMENDMENT
+                            TO CHANGE THE ZONING MAP
+                                 DESIGNATION FROM
+                  "AF-20" AGRICULTURE/FORESTRY LARGE HOLDING
+                            TO "MR-2" MINERAL RESOURCE
+
+                                                                                          ‘
+                                                                                          !
+                        50
+
+                                                                            t             l
+                            sEzss45|       39   48       ww           AT!       aye   46 ,i       a       45                zo 44!      wo        43)         =
+
+                        :               1200                   :                              :                |)         1300
+                 ‘201                   40,74 aC.
+                 AIG    AC.
+
+                                       bw COR         :                                                                  5
+                                                                                                                         Rc                  $                 P
+                                       Uw. BRIOWELL Sia
+                                       CERT CLAIM
+
+                                                                                                                    es                                  16D
+*                                                                                                                         1403
+                                                                                                                          39.25   AC.
+
+                                                                                                                                                                   _
+        al                        3a                                                                                                             _
+         3
+        sl                        ql
+             i
+
+                                                                                                                         e324.
+                                                       e                                                                 Cras
+                                                       fess
+                                                                                                                                             FH
+                                                              ESTES
+                                                     Tae
+
+                                                                                                          49.44 AC,
+                                                                                                          prosiz6-2300 REF
+                                                                                                      B                                                       NOT TO SCALE
+
+                                                              AREA SUBJECT TO ZONE MAP AMENDMENT
+                                                              TAX LOT 5423-1202
+
+    PREPARED BY YAMHILL COUNTY DEPARTMENT OF PLANNING AND DEVELOPMENT
+
+                                                                                                                                                              ORDINANCE 614
+                                                                                                                                                              Exhibit "BY Page 2 of 2
+                                              EXHIBIT       "c"
+
+              AFFIDAVIT ACKNOWLEDGING                       MINING/RESOURCE                    USE
+
+                                                                              ur 60 el 148
+Type or print all property owners names
+
+TAwe the undersigned do hereby affirm:
+
+THAT IAwe are the owner(s) or contract purchase(s) of the property described as follows, to-wit:
+
+That the subject property is located near an area designated by Yamhill County for mining/resource
+uses. It is the county policy to protect mining operations from conflicting land uses in such designated
+areas. Accepted mining practices in this area may create inconveniences for the owners or occupants of
+this property. However, Yamhill County does not consider it the mining operator's responsibility to
+modify accepted practices to accommodate the owner or occupants of the above described property,
+with the exception of such operator's violation of state law.     However, with regard to state noise laws
+and regulations, a mining operation in compliance with noise standards prior to the construction of the
+new noise sensitive use referred to in this affidavit and within the defined impact zone of a protected
+Goal 5 mineral and aggregate resource shall be deemed by the undersigned to remain in compliance
+with state noise laws, requirements and standards..
+
+That this affidavit is to complete the requirements for approval by Yamhill County in Docket
+No.                   for the placement of a use on the above described property, and shall run with the
+land and is intended to, and hereby does, bind my/our heirs, assigns, lessees and successors.
+
+In Witness Whereof, the said party has executed this instrument this            day of                         ,
+19
+
+State of Oregon                                                        RECORDERS         USE    ONLY
+
+County of
+
+The foregoing instrument was affirmed before
+me this        day of   _-           ,19
+
+Notary Public
+My commission expires:
+
+Recorded pursuant to Yamhill County Zoning Ordinance No.
+                                                                                  Bane bit       wv        1       of   1
+310, 1982 (402.08, 403.08)
+                                                                                   rdinance            ;
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.6% of
+the word sequence, and on 80.8% of the figures. Dictionary-recognizable words: 97.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

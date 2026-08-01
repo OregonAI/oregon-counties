@@ -1,0 +1,3881 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord768-pdf
+title: 'ORD768-PDF'
+doc_type: ordinance
+citation: 'ORD768-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17448/ORD768-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: d1674d15b9feba9628ab21ee39d7bc233fd37ba4ebc416f37b15274eecaf6bc7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.944; figure agreement 0.823; dictionary ratio 0.924. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.247
+    - ORS 197.251
+    - ORS 197.298
+    - ORS 197.732
+    - OAR 660-012-0060
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 94%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD768-PDF (ORD768-PDF)
+
+## At a glance
+
+OCR-derived text of ORD768-PDF. Not human-verified.
+
+## Full text
+
+cua BA vce BL2_
+                                                                                                   JUN -9    A835
+            IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+                                  FOR THE COUNTY OF YAMHILL
+
+                  SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approving an Urban Growth
+Boundary Amendment for a 42 Acre Site to
+Allow a New High School, Tax Lots R4418-700
+and R4418-701, Applicant McMinnville School                           ORDINANCE 768
+District, as Remanded by Land Conservation and
+Development Commission Order 04-WKTASK-
+001646, and Declaring an Emergency
+
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for the
+transaction of county business   at 9:00 a.m. on June 1, 2005, in Room 32 of the courthouse, Commissioners
+Mary P. Stern, Leslie Lewis, and Kathy George being present.
+
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A.       On October 14, 2003, the McMinnville City Council adopted the “McMinnville Growth
+Management and Urbanization Plan” and appendices (MGMUP), as amended (ORD No. 4796) as part
+of the McMinnville Comprehensive Plan, Volume I. A dulynoticed public hearing before the McMinnville
+City Council for the purpose of taking testimony to consider these proposed amendments was conducted
+on May 10, 2005. Atthe conclusion of this hearing, the City Council found the amendments, as prepared
+by the McMinnville School District, appropriate and supportive of the City’s prior decision relative to
+inclusion of portions of the Northwest subarea to the McMinnville urban growth boundary. The Council
+also found the amendments responsive to recommendations made by DLCD to their Commission (LCDC)
+regarding this issue, and that these actions are consistent with the directives of the LCDC remand order
+no. 04-WKTASK-0001646.
+
+B.      At its regularly scheduled May 18, 2005 formal public hearing, the Board accepted evidence
+and testimony from involved parties, and voted unanimously to approve the application and directed
+that findings in support of the application be prepared for consideration, NOW THEREFORE,
+
+IT IS HEREBY ORDAINED BY THE BOARD that the application is approved as detailed in the
+“McMinnville Public Schools Plan Amendment, Zone Change and Annexation Request” dated
+February 24, 2005, the Crook letter dated 3/30/05, and the Winterowd memorandum dated 4/26/05,
+attached as findings for approval (Exhibit “A”) and by this reference incorporated herein. This
+ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill County, and an
+emergency having been declared to exist, is effective upon passage.
+
+                                                                                             Ordinance 768
+
+                                                                                Q.o.0s-384           Pave!
+                                                                              tun G2         sce B43
+DONE this 1 day of June, 2005, at McMinnville, Oregon.
+
+ATTEST                                    Toe               B        OF COMMISSIONERS
+JAN COLEMAN                     ye                         Ko
+                                          Ghair             MARY   P. STERN
+
+                                             heute      Norra
+                                               issioner ©  LESLIE LEWIS
+
+                                                  Sol     Her
+    Tes On
+RICK SANAI
+                                          Commissioner)     KATHY GEORGE
+
+Assistant County Counsel
+F:\Users\sanair\LU\MacHighSchoolOrd.wpd
+
+                                                                                                nty
+                                                                        Accepted by Yamhill Cou
+                                                                                              s   on
+                                                                        Board of Gommissioner
+                                                                        _   (a 5___ vy Board Order
+                                                                        4.05 - 384
+
+                                                                                    Ordinance 768
+                                                                                            Page 2
+                                                                  tiL4   84   ACE    614
+
+                 McMinnville Public Schools
+
+         Plan Amendment, Zone Change and
+                 Annexation Request
+
+                                    February 24, 2005
+
+Submitted on behalf of the McMinnville School District #40 by Winterbrook Planning
+                                                                    IN
+
+                                                                                    Cphiy ‘77°
+                                                                                     Buds 05-384
+               FILA   84   race   615
+
+                                                    uonesiyddy
+                                        DAITEIIEN
+Application Narrative
+                 ni                                                             , FIN 84 icc 648
+  Bor      bmi
+                            _ McMinnville Public Schools                              ce      aS   |
+      - Plan Amendment, Zone Change and Annexation Request
+                        Application Narrative        :
+                                            February 24,2005
+
+APPLICANT:
+   McMinnville Public Schools
+   McMinnville School District #40
+   1500 NE Baker Street
+   McMinnville, OR 97128
+   Contact: David Horner, Business Manager, 503-565-4022
+
+REPRESENTED BY:
+   Winterbrook Planning
+   310 SW Fourth Avenue, Suite       1100
+   Portland, OR 97204
+   Contact: Greg Winterowd, Principal, 503-827-4422
+
+LOCATION:
+   The proposed 42-acre high school site is located immediately outside the acknowledged
+   McMinnville Urban Growth Boundary (UGB) but within the adopted Northwest Activity
+   Center. The site fronts NW Hill Road between Baker Creek Road and Fox Hill Road, directly
+   west of the intersection of NW Wallace and Hill Roads. (See Map A, Vicinity Map.)
+
+LEGAL DESCRIPTION:
+   Most of Tax Lot 701 and a portion of Tax Lot 700 comprising 42 acres in Section 18, T4S,
+   R4W, WM. (R4418 00700 and 00701) See Appendix B, Property Map and Legal
+   Description.
+
+PROPOSAL:
+   A consolidated comprehensive plan amendment, annexation and zone change request to allow
+   future high school and associated parking and athletic field construction. This Narrative
+   addresses most requirements identified in the City’s Plan Amendment / Zone Change and           |
+   Annexation application forms. Signed and completed application forms are included in            |
+   Appendix A.
+
+                      McMinnville School District Application Narrative
+                      Prepared by Winterbrook Planning * February 24, 2005 « Page i
+                                           Table of Contents
+                                                                                       run BA -ace G17
+   Maps, Plans, Tables and Attachments                                                              iii
+   Appendices                                                                                       jii
+
+Partl.          Introduction                                                                           1
+   A.    Background and Organization                                                                    1
+         1.  Land Use History                                                                           1
+         2.     Land Use Applications                                                                   1
+         3.     West McMinnville Growth Trends                                                         2
+         4.     Report Organization                                                                    3
+   B.    Need for a Second High School Site                                                4
+   C.    Required High School Site Characteristics                                         7
+         Table 1. State Acreage Standards for High School of Approximately 1,800 Students_ 7
+   D.    Alternative Sites Evaluation Process                                                      10
+   E.    Proposed High School Site                                                                 10
+   F.    Surrounding Land Uses                                                                     11
+   G.    Summary of Key Issues                                                                     12
+         1.  Transportation Impacts and Proposed Mitigation Measures                               12
+         2.     Agricultural Land Impacts                                                          12
+         3.     Economic, Social, Environmental and Energy Consequences                            14
+Part Il.        Conformance with Applicable Statewide Planning Goals,
+Administrative Rules and Statutes                                                                  15
+   A.    Statewide Planning Goals 1, 2, and 14                                                     15
+         Goal 1 (Citizen Involvement)                                                              15
+         Goal 2 (Land Use Planning)                                                                15
+         Goal 14 (Urbanization)                                                                    21
+         Table 2: Agricultural Soil Classifications by Sub-Area and Tax Lot                        25
+   B.    Statewide Planning Goals 5 through 13                                                     28
+         Goal   5   (Natural Resources, Scenic and Historic Areas, and Open Spaces)                28
+         Goal   6   (Air, Water and Land Resources Quality)                                        28
+         Goal   7   (Areas Subject to Natural Disasters and Hazards)                               28
+         Goal   8   (Recreational Needs)                                                           28
+         Goal 9 (Economy of the State)                                                             28
+         Goal 10 (Housing)                                                                         29
+         Goal 11 (Public Facilities and Services)                                                  29
+         Goal 12 (Transportation)                                                                  29
+         Goal 13 (Energy Conservation)                                                             30
+Part Ill.       Compliance with City and County Comprehensive Plan
+Policies                                                                                          31
+   A.    Compliance with McMinnville Comprehensive Plan Goals and Policies                         31
+         Chapter Il:  Natural Resources                                                            31
+         Chapter Ill: Cultural, Historical & Educational Resources                                 32
+
+                          McMinnville School District Application Narrative
+                          Prepared by Winterbrook Planning + February 24, 2005 ¢ Page ii
+                                                                                                                            rus 4          “aE i8
+
+            jt                                                                              eN
+                Future Hi                                                   Fo)             Fyn
+                Schoal Site              t                if        fee                     a
+                                                    ]                                             yer
+                                                                           ii     —                 a   |
+
+            ;                                5                                    7               ane                  |
+                                         ty                                                                                         —
+                              war            “+                       :                iY                    L                  |             =
+
+                              =                  FEeay.               by                                    .                         aSe
+                                    BE                                 J                    at              it         [=             ae
+                                    fo                         Vs                                                gol                      a
+                ~—                       ——                                                                  i
+
+                              os                                                            |
+
+        2                            0                                            if               a                            __4       Miles
+
+  B®   High school
+ /\/ Streets
+  [_] 2003 Adopted UGB                                                                                                                N
+. [__] Acknowledged UGB
+  i    Acknowledged UGB Amendments
+                                                                                                                            W                     E
+
+Winterbrook Planning                                                                                                                  S
+ February 22, 2005
+                      —_                                                                   un BA ace 619
+        ,   Chapter IV:     Economy of McMinnville                                                   33
+            Ghapter-VI:     Transportation System                                                    34
+            Chapter VII: Community Facilities                                       37
+            Chapter IX: Urbanization                                                39
+            Chapter X: Citizen Involvement and Plan Amendment                       40
+       B.   Compliance with Yamhill County Comprehensive Plan Goals and Policies___ 41
+            Section |.   Urban Growth And Change And Economic Development           41
+            Section Il.     The Land and Water                                                       43
+            Section Ill.    Transportation, Communications and Public Utilities                      43
+            Section V.      Environmental Quality                                                    44
+
+ Maps, Plans, Tables and Attachments
+
+ A.    Northwest Activity Center Illustrative Plan (MGMUP                 Figure 8)
+ B.    Northwest Sub-Area Aerial Photo (MGMUP                 Figure 98)
+       Alternative Sites Analysis Map with District Facilities (Winterbrook)
+moo
+
+       Transit Corridor Buildable Lands (MGMUP                Figure 3)
+       Agricultural Soils — Alternative Sites Outside Exceptions Areas
+            1.   Southwest Sub-Area (MGMUP             Figure 95)
+            2.   Northwest Sub-Area (MGMUP             Figure 103)
+            3.   Grandhaven Sub-Area (MGMUP              Figure 111)
+       Northwest Sub-Area Development Constraints (MGMUP                       Figure 104)
+man
+
+      . Northwest Sub-Area Land Use Patterns (MGMUP                    Figure 99)
+       Northwest Sub-Area Utilities (MGMUP               Figure 102)
+       Northwest Sub-Area Proximity to Services (MGMUP Figure 105)
+
+ Appendices
+
+ Appendix A:               Owner’s Written Authorization (McMinnville Public Schools and Fox
+                           Ridge LLC) and Completed Application Forms
+ Appendix B:               Property Map and Legal Description
+ Appendix C:               Excerpts from McMinnville School District Facilities Capacity
+                           Assessment Study (DOWA, October 2004)
+ Appendix D:               Alternative Sites Analysis (Winterbrook Planning, February 2005)
+ Appendix E:               Transportation Impact Study (Lancaster Engineering, January and
+                           March 2005)
+
+                             McMinnville School District Application Narrative
+                             Prepared by Winterbrook Planning * February 24, 2005 « Page iii
+                                        Ol-Z
+
+                                          oo   ”
+
+                       aus    Gsodou.
+
+                       |
+                              z3 r
+                             W ' oe
+                         8
+                                        y Fs
+                                   i vim E
+                                                   rin SA oxce 620
+
+                         LSSMHLYEON
+8 °Old — NVid SAVELSNT
+                  YALNSD ALIALLOY
+                                                   Map A
+F] High Schoo! |
+                                                                                                                    ]
+                                                                                                     run 84 ee 6227
+              a t i v e     s
+                        Site Ana l y s i s   a p w i t h D i s t r i c t F a c i l i t i e s
+Map C: Altern                              M
+                                                                                             Ma pC
+                                                                           |
+
+                                                                                    i   High school
+                                                                                     \/ Streets
+                                                                                    [J 2003 Adopted UGB
+                                                                                        Acknowledged UGB
+                                                                                    |   Acknowledged UGB Amendments
+                                                                                        Floodplain
+                                                                                    (i School / College Properties
+                                                                                    [=] Potential sites inside UGB
+                                                                                    [a Potential Sites Outside UGB
+
+                                                                                |   Winterbrook Planning
+                                                   2                  4 Miles        February 21, 2005                |
+             2                  0
+TRANSIT CORRIDOR BUILDABLE LANDS                                                                                                                                             -
+      H                                                             Westside R
+[:
+tHl                                                                                                                            / Yi
+ti
+
+it
+                                                                    ar                       |
+                                                                                                                               f
+                                                                                                                                                    pS
+|                                                                           Lit                                                    \
+                                                                            yh
+          |
+          |                                                          [ray
+
+                                                                                                              sa
+                                                                    a
+
+                                                                    a:
+                                                                     |
+                                                                     2
+                                                                                                                          h
+                                                                       HO
+
+                                                                                                                          S|
+
+                                                                                                                                       CSS caer
+                                                                                                                                            a aE
+                                                                                            elarnnial
+                                                                                   — Ee Be big DE
+
+                                                                                                                                       (Sea e
+                                                                                                                            EPRAL
+                                                                                                                      iL isles (fal=a}
+                                                                                         4+4.| |
+
+                                                                                                                        ae e778
+                                                                                 etree
+
+                                                                                                                                   A
+                                                                                 EE RES TI
+
+                                                                                        Fee
+                                     [                                                           |
+                                                                                                              Cth
+                                                                                                                      (                                         ”
+                                     i                              a                                                                                     Py]           eb
+                                  H                                 | ay                                              Aa
+                                                                                                                      i]                                  bs Mez;                                       renee:                       |
+                                                                                                                                                                                                                            awecs a kien
+                                 H                             rs                                        —                                      '                   i                                   .    LEGEND                             |
+                                         Peavine Ri            H            a                                     '                                                 '
+                                                          po                                                  a                         _ =              _ |                                                 vf       Planned Transit Routes    |
+                       :                                                                                      i                             i                   j            .                              AJ        500 Foot Buffer           |
+              |
+              i
+                       Pe.
+                       !         “S
+                                                 |
+                                                 r                                                            3                                                                                   |.
+                                                                                                                                                                                                                 .                 i
+                                                                                                                                                                                                             uildable Land within 500 Feet of
+                                                                                                                                                                                                                                                     |
+                                                                                                                                                                                                                                                     |
+     ti             {                     “Shed                                                         eee                                                                                                  the Planned Transit Routes         |
+     i            [os      Qid           Btendan     Rd                                                       \            ~                H                   a            7                     __        28) Partially Vacant               |
+     if           i                      _                                  3                                                                                                                                S82 vacant                              '
+     ia           i|                        Es                                                                        ae
+                                                                                                                       \                                                                                     (J       Urban Growth Boundary
+
+                                                                                                                                                                                                                     1000     2000 Feet
+                                                                                                                                                                                                                                                ||
+
+                                                                                                                                                                                 I       Resi
+                                                                                                                                                                                     ;   sityor
+                              run 84 vce 624
+SOIL CLASSIFICATION      - FIG. 95                          Et E
+Southwest                                  iB
+
+            Peavine Rd
+
+                                                ._..| Flood Plain & Wetlands
+                                               {__] Subarea Boundary
+                                               {__] Urban Growth Boundary
+                                               [__] City Limits
+
+                                                                    1000   Feet   A
+  <=                    eresires
+
+SOIL CLASSIFICATION   - FIG. 103
+Northwest
+
+                                             Hill Rd
+
+                                                       Wi           Rd
+
+v4      Nel   er =
+
+|
+                                                         Class! {| Class IV
+                                                       | Class II !"”_] Class VI
+                                                         Class III      Class VII
+                                                        Flood Plain & Wetlands
+                                                   [-_] Subarea Boundary
+                                                   [__] Urban Growth Boundary
+                                                  -     Clty Limits
+
+                                                            400           800   Feet A
+                                                                                      N
+
+                                   “cityOF                                       C:
+                                   KMicMinnville                                190
+    %
+   B.
+
+                                                                    ==
+                | (som. CLASSIFICATION                                                   - FIG 111
+run 84 ie 626
+
+                    | | Grandhaven                        °
+                                                                    pe   Panther Creek
+                      LEGEND
+                      (i Class! {""! Class IV
+                |     [5] Class II ([_] Class VI
+                      [7"5 Class Ill E25) Class VIL                                      Hembree St
+                          Flood Plain & Wetlands
+                      {[] Subarea Boundary
+                      {—] Urban Growth Boundary
+                         ~. City Limits
+                             300     o         300       600 Feet
+                     Loz |
+                             |a      chin
+                                          CityOr     -
+                                                              nville
+                                                              nv
+ _                        _                           run 8A mee DOT
+ DEVELOPMENT CONSTRAINTS AND                                                                 Ce
+ OPPORTUNITIES - FIG. 104
+ Northwest
+
+                                                    Area of predominantly
+                                                    Class | soil to be avoided
+
+             Development of the subarea
+             may be limited to a density                                              REE
+             of 6 dwelling units per acre,
+             per McMinnville Policy 71.01.
+
+                                                                                   Hill Rd
+
+                                    Existing Wate                   Potential High
+                                       Reservoirs                    School Site
+
+               New water reservoirs will
+               be needed to serve property
+               to the west of the green line
+
+                                                                                 LEGEND
+                                                                         !       === Current Water Service Level
+                                                                             “| IEEE Slope (25% and Greater)
+                                                                                   ”] Westside Development
+                                                                                      Density Limit of 6 DU/Acre
+                                                                                      Flood Plain & Wetlands
+
+                                                                             F   |]   Urban Growth Boundary
+                                                                                 [3   chy Limits
+
+                                                                                       300         600 Feet   A
+                                                                                                               N
+                                                                                                                   C-
+
+                                                                                                               191
+es   =e   SS                    SS             Sa                                OST                          neta]
+                                                                                      =t4LH       BA race 628
+
+                                                                      - FIG. 99                                                                     |
+LAND USE PATTERNS
+                                                                                                                                                    L
+Northwest
+
+                     P e                                  al |                                        ro se
+                                                                 [New
+
+                   ee                         or                                                      —
+                                     —                       J   Far  Land ]
+                                                                 Farm tad
+                    Se
+
+                                                                                  Hill Rd
+
+                                                                                                      Elementary
+                                                                                                        School
+                                                             >
+                                                          ea               and
+                                                                                                                fanned Urba'
+                                                                                                                Residential
+                                                                                                               Development
+
+                         Rural       aan
+                                                                                                                           MEADOWS OR.
+ a               oe Residential      17]
+ ~               —_|Development
+                                 NT}
+                                                                                                   Cr          } Existing
+                                                                                                               psingle-Famity
+                                                                                                               ASingle-Family
+                                                                                                                                               |
+                                                                       ge Ridge     RA        -
+                                                                                                           EM          OIA
+                   Mone          |   )2)Cté<‘<‘—i‘s~s‘:;*é‘dS:SCSSN
+     _______—-    | Cemetery                                                         Hillside Manor
+                                                                                     Assisted Care
+
+                                                                                                               (= Flood Plain & Wetlands
+                                                                                                               [1 Subarea Boundary
+
+                                                           Single-Family                                       [J urban Growth Boundary
+                                                            Residential                                    {    ("J City Limits
+
+                                                                                                                     300                 600 Feet
+                                 run OA. race 629                                          :
+
+UTILITIES           - FIG. 102
+Northwest
+
+                                   Hill RN
+
+                                                   Existing Electrical Line
+
+                                                                                                          DR.
+                                                                                                          MEADOWS
+            Fox Ridge Rd
+
+              RD.
+
+                                                  LEGEND
+                                                  /\ Electrical Lines
+                                                  IN                          Water Main
+                                                  WN Sewer main
+                                                  © Utility Line Terminus
+                                                  7\! Average Distance to
+                                                       ‘Center of Subarea
+                                                                              Floodplain & Wetland
+                                                  ||                          Subarea Boundary
+                                                  I                           Urban Growth Boundary
+                                                  [] City Limits
+
+                                                                      200            400       Feet       A
+                                       SS         SSS                                                        N
+                                       ‘city of                                                       :   Gs
+                                       a      =
+                                      Misc                                                                188
+Ma
+
+                                    |
+
+        PROXIMITY TO SERVICES                              - FIG. 105 —
+630
+
+        Northwest                                                         |
+a
+
+                                                                              School - 1.6
+                                i
+      LEGEND
+              Commercial Properties
+      OU @
+
+              Floodplain & Wetlands
+              Subarea Boundary
+              Urban Growth Boundary
+              City Limit
+        L J
+      |
+      '
+  =
+
+                                                   I
+       1000          Q              4000   2000 Feet   A
+
+                                                       z
+                      g sIt a
+
+                                g
+      c6L
+
+                     i
+            x)
+         eG)     RI                                                                FILW 84 vce   634
+
+Note: This quasi-judicial comprehensive plan amendment, zone change and annexation
+proposal is closely tied to the City’s MGMUP amendment package. For this reason, this
+application incorporates by reference the 2003 McMinnville Growth Management and
+Urbanization Plan and supporting Appendices A — F.
+
+                                                                                                       aicaitmaiiabieaiis
+
+                      McMinnville School District Application Narrative
+                      Prepared by Winterbrook Planning * February 24, 2005 « Page iv
+                                                                                                stun OA ence 632
+
+Partl.       Introduction
+
+   A. Background and Organization
+
+         1. Land Use History
+         In the fall of 2003, the McMinnville City Council and the Yamhill County Board of
+         Commissioners County jointly approved a comprehensive plan and UGB amendment package
+         that allows for a high school on the subject 42-acre site. The site and neighboring properties are
+         designated “Activity Center” on the adopted McMinnville Plan Map. Map B, “Illustrative
+         Northwest Activity Center Map” shows a high school use on Tax Lot 701 (owned by
+         McMinnville Public Schools). Upon annexation to the City, McMinnville’s adopted
+         Neighborhood Activity Center Planned Development Ordinance would allow for the planned
+         high school through the master planning process.
+
+         However, the Northwest Activity Center designation has not yet been “acknowledged” (ie.,
+         approved) by the Land Conservation and Development Commission (LCDC) and therefore is
+         not binding.’ Until the UGB amendment is acknowledged by LCDC, the City cannot annex or
+         provide urban services to the high school site. In order to bring the 42-acre high school site into
+         the City Limits next year, the District must independently request UGB, comprehensive plan
+         and zoning map amendments at this time.
+
+         The acknowledged or LCDC-approved Yamhill Comprehensive Plan designation and zoning
+         for this future high school site are Agricultural and EF-80, respectively. Under the
+         acknowledged McMinnville Comprehensive Plan and Development Code, public school uses
+         are allowed in Residential zones through the conditional use process. Because the District
+         seeks annexation of this property next year, the District requests amendments to the
+         acknowledged comprehensive plans of both jurisdictions from the existing Agricultural to the
+         proposed Residential designation.
+
+         2. Land Use Applications
+         This consolidated land use application includes requests to:
+          1. Amend the McMinnville UGB to incorporate the subject 42-acre high school site.
+         2. Amend the Yamhill County and McMinnville Comprehensive Plan Maps for the subject
+             42-acre site from County Agricultural to City Residential.
+         3. Amend the acknowledged “Residential Land Needs Analysis” (May 22, 2001) to recognize
+             that:
+
+   "Tn 2004, 1000 Friends of Oregon and two other parties appealed the City’s “Periodic Review” and UGB amendment
+   package to LCDC. In September of 2004, LCDC approved portions of the City’s plan amendment package (e.g., the
+   Fox Ridge Road rural residential area was included within the UGB), and remanded other portions for further analysis
+   (notably, the three Activity Center UGB designations were not included). Thus, the City’s 2003 Periodic Review and
+   UGB amendment package — as it pertains to the future high school site — has not yet been approved by LCDC.
+
+                             McMinnville School District Application Narrative
+                             Prepared by Winterbrook Planning + February 24, 2005 « Page 1
+        BS     wi                  :    |                                       cun OA vate 633
+         a.   The District has determined that 42 buildable acres, rather than 32 buildable acres,
+              are needed to accommodate projected high school needs as described in this
+              application; and
+         b.   In 2002 and 2004, the District purchased two elementary school sites of
+              approximately 12 acres each (Hill Road and Linfield) within the acknowledged
+              UGB.
+4.   Annex the subject 42-acre future high school site to the City of McMinnville (subject to
+     voter approval).
+5.   Amend the City and County zoning maps from County EF-80 (Exclusive Farm Use) to City
+     R-4 (Multifamily Residential).
+
+3.   West McMinnville Growth Trends
+McMinnville Public Schools operates six elementary schools, two middle schools, and the
+McMinnville High School complex with a current student enrollment of 5,958. The District
+boundaries extend outside the McMinnville Urban Growth Boundary (UGB) to serve the
+City of Lafayette and surrounding rural areas.
+
+Within the McMinnville UGB, elementary and middle school attendance boundaries are
+based primarily on Oregon Highway 99W. Thus, the attendance areas for Duniway Middle
+School, and Columbus, Newby, Memorial and Grandhaven Elementary Schools are located
+west of Highway 99W; while the attendance areas for Cook Elementary School and (most of)
+Patton Middle School are located east of the highway. Wascher Elementary serves students
+in the Lafayette area northeast of McMinnville.
+
+The District’s student enrollment growth rate reflects the rapid growth experienced by cities
+of McMinnville and Lafayette. From 1990-2000, these communities grew by 48% and
+100%, respectively. From 2000-2003, McMinnville’s population growth was fueled by
+development approvals west of Highway 99W. Of the 822 homes or subdivision lots
+approved from 1999-2003, 811 were approved in the Newby, Memorial and Grandhaven
+Elementary School attendance areas. By 2003, McMinnville had a population of 28,510. By
+2023, McMinnville is expected to gain another 15,545 residents.
+
+Based on McMinnville’s adopted Comprehensive Plan, future residential growth also will be
+concentrated on the west side of town. The 2004 McMinnville Growth Management and
+Urbanization Plan (MGMUP) calls for four new “Activity Centers”, three of which are
+located west of Highway 99W — the Grandhaven, Northwest, and Southwest Activity
+Centers. (See Map A, Vicinity Map Showing Adopted Activity Centers.) Each of these
+activities will have commercial centers supported by higher density residential development
+and surrounded by single-family residential neighborhoods.
+
+From 1999 — 2003, District enrollment increased 6.7%, from 5,385 to 5,741 students.         By
+2008, the District is expected to grow another 8.4% to 6,222 students. Westside elementary
+schools that will feed into a future West High School also are at or over capacity. The
+
+                     McMinnville School District Application Narrative
+                     Prepared by Winterbrook Planning * February 24, 2005 ° Page 2
+roo                 ri                                                                       pun BA ce 634
+    highest growth rate (9.7%) is expected at the high school level.’ As of the date of this
+    application (February 2005), there are approximately 1,800 high school students enrolled in
+    McMinnville High School. However, as documented below, the McMinnville High School
+    (MHS) complex is outdated and in generally poor condition. Moreover, existing student
+    enrollment exceeds the capacity of existing high school students by some 200 students.
+
+    New high school facilities are needed in the short term. In the long-term, the District
+    estimates that high school attendance will increase by almost 40% by the Year 2023 — to
+    approximately 2,500 high school students. Due to poor structural and functional
+    considerations documented in Appendix C, the existing MHS complex will need to be
+    replaced in the next 4-8 years. Thus, there is an immediate need for a second high school
+    site.
+
+    To address school capacity needs in West McMinnville, the District has purchased two 12-
+    acre elementary school sites (the Hill Road site in 2002 and the Linfield site in 2004), one
+     16-acre middle school site (Grandhaven), and one 42-acre high school site (Hill Road,
+    purchased in 1996 and expanded in 2005). The vacant elementary and middle school sites
+    are located within the acknowledged UGB. The high school site is located within the
+    adopted 2003 McMinnville UGB, but just outside the acknowledged McMinnville UGB.
+    (See Map D, Alternative Sites Analysis Map with District Facilities.)
+
+    4. Report Organization
+    This narrative includes preliminary findings in support of amendments to the McMinnville
+    and Yamhill County Comprehensive Plan Maps, annexation to the City of McMinnville, and
+    a zone change from County EF-80 to City R-4. We anticipate that these findings will be
+    augmented or adjusted based on public testimony and agency comments received during the
+    public review process.
+
+    Excerpts from the McMinnville School District Facility and Capacity Assessment Report
+    (DOWA, September 2004) are included in Appendix C. According to the DOWA Report,
+    the main campus at McMinnville High School serves Grades 10-12 and has the capacity to
+    accommodate 1,226 students. The Adams Campus (a converted, nearby grade school) serves
+    the Freshman class and has an additional capacity of 358 students. Thus, the Grade 9-12
+
+2    McMinnville School District Enrollment Projections (Judith A. Barmack, Ph.D., March 2004).
+> McMinnville Public Schools conducted an extensive search for school sites within the existing UGB in 1996.
+Although the District was able to acquire elementary and middle school sites within the UGB, it was unable to find
+a suitable and available high school site. District officials approached City planners in 1996 and inquired as to the
+probable direction of UGB expansion. At the time, City planners were recommending that growth expand towards
+the west, utilizing Hill Road for arterial street access. Based on this information, and the anticipated need fora
+second high school site within the next 10 years, the District purchased a 32-acre property (Tax Lot 701) from the
+Mark Smith family. After considering the 2004 DOWA Report, District officials realized that the 32-acre site
+lacked adequate space for parking and athletic fields, and purchased 10 additional acres from the Smiths (Fox Ridge
+LLC) in 2005.
+
+                          McMinnville School District Application Narrative
+                          Prepared by Winterbrook Planning * February 24, 2005 * Page 3
+              | BO ins                                                          run 84 ice 635
+   capacity at both campuses is 1,584 students. At the time of this application, therefore, the
+   high school complex is 216 students over capacity.
+
+   Sections B-G below:
+        * explain why McMinnville needs a new high school on the west side of town;
+        " define siting characteristics required by a modern high school in this community;
+        * describe Winterbrook’s alternative sites evaluation process;
+        " analyze the characteristics of the site proposed for inclusion within the UGB; and
+        = discuss the key issues raised by this application.
+   Much of the information provides in this Introduction to this narrative is referenced later in
+   Parts II (Statewide Planning Goal Compliance) and III (McMinnville and Yamhill County
+   Comprehensive Plan Compliance).
+
+   Part II addresses applicable statewide planning goals, administrative rules and statutes. We
+   look first at Goals 1 (Citizen Involvement), 2 (Land Use Planning — including the Division
+   004 exceptions process), and Goal 14 (Urbanization — including ORS 197.298 priorities.)
+   We then address other applicable Goals, including Goals 5( Natural and Cultural Resources),
+   6 (Air, Land and Water Resources Quality), 8 (Parks and Recreation), 9 (Economy of the
+   State), 10 (Housing), 11 (Public Facilities and Services), 12 (Transportation, including
+   Division 012 requirements), and 13 (Energy Conservation ).
+
+   Part III addresses applicable goals and policies of the acknowledged McMinnville and
+   Yamhill Comprehensive Plans. Under the acknowledged plan policies, a change is required
+   from the County Agricultural plan designation (including a Goal 2, Part II reasons exception)
+   to a City Residential plan designation. Under the adopted (but not yet acknowledged) plan, a
+   high school are a recognized and allowed and encouraged, through the planned unit
+   development process, under both the Northwest Activity Center plan designation and zoning
+   district.
+
+B. Need for a Second High School Site
+In 2003-04, the District commissioned Dull Olson Weekes Architects, Inc. (DOWA) to perform
+a comprehensive facilities assessment. As noted in the 2004 McMinnville School District
+Facilities Capacity Assessment Study, the original McMinnville High School was constructed in
+1955 and is located northeast of Downtown McMinnville — just to the east of Highway 99W.
+Since its original construction the building has undergone 11 additions to accommodate the
+1,800 students now in attendance.
+
+The Facilities Capacity Assessment Study describes the condition of McMinnville High School
+(MHS) as follows:                                                ;
+
+       “Situated on several blocks, the McMinnville High School ...services grades 9
+       — 12. The average enrollment for 2003-2004 was 1713. The building is a
+
+                     McMinnville School District Application Narrative
+                     Prepared by Winterbrook Planning « February 24, 2005 * Page 4
+                                                                                          run GA ace G38
+
+          collection of years of additions and has a mix of materials and building
+          systems.    The layout is confusing and inefficient, both functionally and in
+          terms of building systems. The campus consists of the main building and
+          several site buildings, including Wortman Stadium.
+
+         The current capacity of McMinnville High School is 1,226 students. The core
+         facilities are very limiting. The administration is small. The counseling
+          center is down a hall, is small and not student friendly. The eating areas and
+         food service is very limiting for the current students. The art and drama
+         facilities are small and do not allow for full programs. The media center is
+          also small in research and support areas.”
+
+In addition to the main high school building, the MHS complex includes the Adams Campus — a
+converted 1915 elementary school. Adams Campus serves high school freshman and has a
+capacity of 358 students; however, the campus is inadequate to serve the existing freshman class.
+
+Both the Adams Campus and MHS have serious parking and circulation problems, with related
+neighborhood compatibility and safety concerns. To address deferred building maintenance,
+design and accessibility issues, the Facilities Capacity Assessment Study recommends over $3
+million in improvements to existing facilities. Even if the existing facility were to be upgraded,
+the immediate capacity problem would still need to be addressed.
+
+With approximately 1,800 high school students, the MHS complex has exceeded its capacity.
+With 10% growth anticipated over the next four years, serious over-crowding problems at the
+high school are imminent.’ For this reason, the District has decided to move ahead with this plan
+amendment and annexation application, rather than waiting another two years for the LCDC
+remand process to take its course.
+
+The District’s Long Range Facilities Task Force is considering three options to address the high
+school capacity problem:
+
+    1.   Hill Road Comprehensive High School Option. Build a new comprehensive High School
+         at Hill Road site large enough to enroll 2,200 students with all of the facilities that are
+         required. The District is investigating the concept of “schools within a school” and 42-
+
+* Projected student enrollment figures do not account for the possibility that substantial residential growth will occur
+on agricultural land within the McMinnville School District as a result of Measure 37 claims. See, for example,
+Yamhill County Docket #M37-1-04, which requests compensation for estate lot development on approximately 334
+acres of Exclusive Farm Use land adjacent to the McMinnville UGB, and immediately north and west of the
+District’s high school site.
+° The City of McMinnville has been involved in Periodic Review since 1994. Since that time, there has been a
+shortage of land within McMinnville’s acknowledged UGB for residential, commercial and public (including
+school) land uses. See McMinnville Growth Management and Urbanization Plan, Appendix B, Revised Buildable
+Lands Analysis (May 2003). Table 20 of Appendix B identifies a shortfall of 1,125 buildable acres within the
+existing (2003) McMinnville UGB. Table 20 served as the basis the City’s 2003 UGB amendment package.
+
+                          McMinnville School District Application Narrative
+                           Prepared by Winterbrook Planning « February 24, 2005 « Page 5
+          aes   wt}
+                                                                                      vu BA ee 637
+          acre site would accommodate this option. The Hill Road site would also include field
+          space for football, soccer, baseball, softball, tennis, track and general physical education.
+          Providing a sufficient number of off street parking spaces for students, visitors and staff
+          will require substantial parking area to fulfill all of our requirements. The 42-acre site
+          allows sufficient, but not excessive buildable land area.°
+
+          Co-Equal High School Option.         Build a new high school on Hill Road that would have
+          capacity for 1200 to1500 students. The new school could be built in phases with the
+          original construction of the core area and capacity for 800 students and then adding
+          additional gyms and classrooms over time. This option would still require the full 42
+          acres of useable space, because the need for athletic fields and parking would remain
+          largely the same. The current high school’s student enrollment capacity is about 1,200
+          without the use of Adams campus. This would allow the District to have two smaller
+          high schools of about equal size. With our middle and elementary schools using
+          Highway 99 as a divider it would be logical to follow this pattern with the two high
+          schools.
+
+      .   Reconstruction Option.      Reconstruct a new high school for 2,200 students on the site of
+          our present high school. In theory, this could occur either in the Baker Field track area or
+          on the foot print of the present high school. If high school construction occurred on the
+          Baker Field site, then most of the existing high school building would have to be torn
+          down to allow for playing fields. If the new high school were rebuilt over the existing
+          high school footprint, it would take several years to construct in sections, which would
+          seriously disrupt the educational process. Should this alternative-be selected, the Hill
+          Road site would be held as farm land until the enrollment was large enough to require a
+          second high school. This option has serious limitations in terms of transportation safety,
+          neighborhood compatibility, and logistics that would have adverse social and economic
+          consequences for the District, residential neighbors, and high school students and
+          teachers:
+              a. Location and placement of off street parking in the short- and long-term, and
+                   neighborhood construction and traffic impacts.
+              b. Impacts from construction staging, probable use of portables, and lack of short-
+                   term space for student instruction and sports programs during construction.
+
+Each of these options will require a new high school site — Options 1 and 2 in the short-term (i.e.,
+within the next 5 years) and Option 3 in the long-term (within the next 10-20 years).
+
+Conclusion:       The existing MHS complex is now over capacity.                 With a 10% increase in
+high school enrollment over the next four years, serious over-crowding problems are
+
+° A complete land use plan for current high school site has not been developed at this time. Whether the existing
+high school is demolished or remodeled, there will continue to be a need for a second high school that includes
+small learning communities. For the short term, the District is considering partnerships with the City, Chemeketa
+Community College, and Linfield College to use the existing site.
+
+                          McMinnville School District Application Narrative
+                          Prepared by Winterbrook Planning * February 24, 2005 * Page 6
+                                                                                           pun 4 eate woe
+
+imminent. McMinnville Public Schools needs to complete the planning and design process
+necessary to bring a second high school site into the City, and to allow for high school
+bonding and construction by 2008. This new high school site must be large enough to
+accommodate Options 1 and 2, must have adequate and available urban services, and must
+be located on the west side of town to serve planned population growth.
+
+C. Required High School Site Characteristics
+Based on discussions with the District’s architect in Portland, a modern high school with athletic
+fields and adequate parking will consume the entire 42-acre site. To substantiate this
+professional opinion, Winterbrook reviewed the most authoritative national source. The Council
+of Educational Facility Planners (CEFPI) publishes The Guide for Planning Educational
+Facilities. Winterbrook reviewed the latest edition of the Guide to determine typical size
+standards for senior high schools. The most common standard is 30 acres plus one acre per 100
+students.’ Thus, a new high school for 1,200 to 1,800 students typically requires 42- 48
+acres.
+
+The State of Oregon does not publish facilities siting standards.           However, a number of other
+states do. Table 1 below summarizes state size guidelines for an 1,800 student senior high
+school.   The minimum acreage standards below refer to net usable (i.e., buildable) acres.*
+
+    Table 1. State Acreage Standards for High School of Approximately 1,800 Students
+                  State                Recommended Minimum Net Usable Acre Standard
+     Alabama                      48 acres (30 acres plus 1 acre per 100 students)
+     Alaska                       38 acres (20 acres plus 1 acre per 100 students)
+     Arizona                      30 acres
+     California                   44.5 acres
+     Connecticut                  38 acres (20 acres plus 1 acre per 100 students)
+     Delaware                     48 acres (30 acres plus 1 acre per 100 students)
+     Georgia                      38 acres (20 acres plus 1 acre per 100 students)
+     Hawaii                       50 usable acres
+     Idaho                        48 acres (30 acres plus 1 acre per 100 students)
+     Illinois                     38 acres (20 acres plus 1 acre per 100 students)
+     Indiana                      38 acres (20 acres plus 1 acre per 100 students)
+     Kentucky                     28 acres (10 acres plus 1 acre per 100 students)
+     Maine                        43 acres (25 acres plus 1 acre per 100 students)
+
+7 “State Acreage Policies,” Council of Educational Facility Planners (September 2003).
+® The Guide to School Site Selection and Development (California Department of Education, 1999) underscores the
+  importance of the term “net usable acres” in the site selection process:
+      “The tables for determining site requirements are based on net usable acres. Land rendered useless
+     by cuts, easements, steep hills, gullies, creekbeds, large rock outcroppings, wetlands and marshland,
+     and land in flooding areas are not considered usable. On sites where such land is present, total gross
+     acres will necessarily exceed net usable acres.”
+
+                          McMinnville School District Application Narrative
+                          Prepared by Winterbrook Planning + February 24, 2005 « Page 7
+                                                                                                            oy
+                                                                                      rILA   84   PACE   6 a) Ce ‘|
+
+                  State                Recommended Minimum Net Usable Acre Standard
+    Minnesota                      35 acres
+    Mississippi                    33 acres (15 acres plus 1 acre per 100 students)
+    Missouri                       48 acres (30 acres plus 1 acre per 100 students)
+    New Hampshire                  33 acres (15 acres plus 1 acre per 100 students)
+    New York                       28 acres (10 acres plus 1 acre per 100 students)
+    North Carolina                 48 acres (30 acres plus 1 acre per 100 students)
+    Ohio                           53 acres (35 acres plus 1 acre per 100 students)
+    Oklahoma                       48 acres (30 acres plus 1 acre per 100 students)
+    Pennsylvania                   53 acres (35 acres plus 1 acre per 100 students)
+    Rhode Island                   48 acres (30 acres plus 1 acre per 100 students)
+     Utah                          48 acres (30 acres plus 1 acre per 100 students)
+    Virginia                       28 acres (10 acres plus 1 acre per 100 students)
+    Washington ,                   28 acres (10 acres plus 1 acre per 100 students)
+    West Virginia                  25 acres
+    Wyoming                        30 acres
+               Range                                      25-53 buildable acres
+              Median                                        38 buildable acres
+               Mode                                         48 buildable acres
+          Average (Mean)                                    40 buildable acres
+
+The McMinnville Public Schools Long Range Facilities Task Force (Facilities Task Force) also
+has been reviewing the siting requirements for a new high school. Based on discussions with
+David Horner, Business Manager for McMinnville Public Schools, plus review of Task Force
+minutes and school siting publications, we have developed the following high school siting
+criteria specific to conditions in McMinnville.
+
+The following criteria must be met for a suitable high school site; that is, if any of these
+criteria are not met, the site is deemed unsuitable for high school use.
+
+   1.   The site must be located on west side of Highway 99W to serve McMinnville’s
+        primary residential growth area.
+            a.      Existing high school on east side of Highway 99W and will serve students on east
+                    side of Highway 99W, reducing the need to cross high highway to reach high
+                    schools.
+            b.      District attendance at elementary and middle schools based need to avoid crossing
+                    Highway 99W for safety reasons.
+            c.      New growth concentrated on west side (especially Memorial and Grandhaven
+                    Elementary Schools).
+            d.      Minimizes vehicle miles traveled if located close to areas with residential growth
+                    activity and potential.
+            e.      Minimizes congestion on Highways 99W and 18.
+
+   2.   The site must have from 40-50 net buildable acres (i.e., after accounting for
+        easements, wetlands, floodplain and slope constraints).
+
+                          McMinnville School District Application Narrative
+                           Prepared by Winterbrook Planning * February 24, 2005 « Page 8
+             ON!                                                                           + wun 84 ece G40
+
+             a.   This range is consistent with the recommended high school site sizes found in
+                  Table 1.
+             b:   A 40-acre site would allow, minimally, for high school construction, parking and
+                  planned athletic fields.
+
+    3.   The site must be within or adjacent to the existing McMinnville UGB and — in the
+         case of agricultural land — is included in the adopted 2003 UGB?’ to:
+             a. Minimize sprawl and travel distance from residential growth areas; and
+             b. Ensure availability of urban services (sanitary sewer, water, and storm drainage).
+
+    4.   The site must have direct access to a collector or minor arterial street with existing
+         or planned transit access. This siting criteria is necessary to:
+             a. Minimize traffic on local residential streets and attendant adverse social
+                  consequences,
+             b.   Provide alternative transportation for high school students and staff, while
+             c.   Recognizing that a substantial number of high school students drive.
+
+    5.   The buildable area of the site must be comprised of slopes of 5% or less and have a
+         width of at least 600 feet.
+             a. A flat site is necessary for cost-effective building, parking and loading, and
+                 athletic field construction.
+             b. A width of at least 600 feet is necessary for a football field surrounded by a track
+                 and bleachers.
+
+    6.   Site must be located at least one mile from existing high school to minimize:
+             a.   Travel distance from residential areas; and
+             b.   Potential conflict between students in competing high schools.
+
+    7.   The site must meet the following land use compatibility and safety criteria:
+            a. Avoid direct access from Highway 99W and Highway 18 (Three Mile Lane) for
+                 traffic safety reasons; and
+            b. Avoid location adjacent to industrial land to reduce adverse health, safety, noise
+                 and pollution impacts. (Note that McMinnville’s industrial zones do not permit
+                 schools either outright or conditionally.)
+
+    8.   The site must be ready for high school construction within 2 years (i.e., by 2007) to
+         address existing capacity issues:
+
+° The adopted, but not yet acknowledged UGB includes several UGB expansion areas to meet identified needs.
+Beginning in North McMinnville and continuing counter-clockwise, the City expanded the UGB in the Grandhaven
+area, Northwest McMinnville (including the Fox Ridge Road and Redmond Hill exceptions areas), Southwest
+McMinnville, the Three Mile Lane area (including the Lawson Lane exception area), the Norton Lane area, and the
+Riverside South exceptions area. Only the above exceptions areas were acknowledged by LCDC in 2004. (See
+MGMUP Figure 6, UGB Expansion Proposal.)
+
+                         McMinnville School District Application Narrative
+                         Prepared by Winterbrook Planning + February 24, 2005 * Page 9
+          se ges       nat                                                                itn BA race GAL
+              a.   Necessary urban services (arterial or collector street access, sanitary sewer, water
+                   and storm drainage) must be reasonably available; and
+              b.   The site should be within or adjacent to the existing City Limits to ensure that
+                   annexation is feasible (subject to voter approval) within the next two years.
+
+D. Alternative Sites Evaluation Process
+In this Narrative and in Appendix D, Alternatives Sites Analysis, Winterbrook evaluated
+alternative sites based on:
+     «The school siting criteria determined in Section I.C (Goal 14 Need Factors 1-2);
+     = Agricultural land preservation priorities established by ORS 197.298, the Exceptions
+         Rule (OAR Chapter 660, Division 4) and Goal 14 Locational Factor 6 (agricultural soil
+         classification); and
+     = The public facilities, urbanization, ESEE consequences, and agricultural land
+         compatibility standards of goal 14, Factors 3-5 and 7.
+
+To identify and evaluate alternative sites, we looked first inside the acknowledged UGB,
+then at adjacent exceptions areas, and finally to agricultural land west of Highway 99W.
+(See Part II and Appendix D of this Narrative.)
+
+E. Proposed High School Site
+McMinnville Public Schools purchased Tax Lot 701 from Mark and Elisa Smith in 1996. Prior
+to purchase, City staff had examined UGB capacity and growth alternatives, and had indicated to
+the District that future UGB expansion would likely occur to the west."
+
+As aresult of the District’s facilities planning work, the DOWA,               the District’s architect
+determined that a larger site was needed to accommodate a comprehensive high school with the
+full range of needed athletic fields. As a result of this analysis, the District agreed to purchase 10
+additional acres from the Smiths in early 2005.
+
+The 42-acre site itself is well-suited for a high school and athletic field complex. It is flat (5% or
+less slope) and roughly trapezoidal in shape. It abuts the UGB to the east and lies a short
+distance from the Fox Ridge Road Exception Area (now within the acknowledged UGB) to the
+south. The site has direct access from NW Hill Road, a designated minor arterial and transit
+
+‘© At that time, and today, the City reasoned that expansion to the north and east was constrained by Baker Creek
+and the North and South Forks of Yamhill River. Expansion to the north, east and south was also limited by
+Highway 18 and by large, continuous tracts of agricultural land. In contrast, the UGB already extended westward
+along West 2"! Avenue, and there were no physical barriers (like rivers or major highways) separating the existing
+UGB from the relatively small blocks of agricultural land defined by the UGB on the east, the West Hills rural
+residential exceptions area to the west, the Fox Ridge Road rural residential exceptions area to the south, and Baker
+Creek to the north.
+
+                             McMinnville School District Application Narrative
+                             Prepared by Winterbrook Planning + February 24, 2005 * Page 10
+              omer                                                                    run          84 once 64?
+street, and from Wallace Road, a designated minor collector street.'’ The only physical
+constraint is the Star Mill Ditch that defines the site’s northern boundary and serves as an
+effective buffer from Class I agricultural land to the north.
+
+Like most EFU parcels surrounding the McMinnville UGB, the proposed high school site has
+primarily Class II and III agricultural soils, which qualify as “high value” farmland. However,
+land with lower quality agricultural soils often do not meet the District’s siting needs, because
+they frequently have relatively steep slopes or are located in areas with hydric soils associated
+with unbuildable wetlands, floodplains and riparian corridors,
+
+F. Surrounding Land Uses
+Several maps support the following discussion. Map B; Northwest Activity Center
+Illustrative Plan shows the high school site in relation to the neighborhood commercial center
+and planned higher density residential development in the area. Map J, Proximity to Services,
+shows the high school site as the central public facility available to Northwest Activity Center
+residents. Map H, Northwest Sub-Area Land Use Patterns, shows existing land uses in the
+immediate vicinity of the high school site. Finally, Map G, Northwest Sub-Area Development
+Constraints, shows areas with service and topographical constraints in near the subject site.
+
+        =   East — Across   NW Hill Road:     The eastern boundary of the site is NW Hill Road
+            and the acknowledged UGB. Going from north to south, a commercial center has
+            been approved by the City of McMinnville for the northeast corner of Hill and Baker
+            Creek Roads, with planned multi-family housing south of Baker Creek Road.
+            Immediately to the south of planned multi-family housing, across Hill Road from the
+            proposed high school, is a vacant elementary school site. Further to the south is a
+            planned and developing urban residential area. Wallace Road is a collector street that
+            can be extended to serve the high school site; east of Hill Road, Wallace Road is fully
+            developed with single-family homes on either side. South of Fox Ridge Road is
+            Hillside Manor, a retirement and assisted living community.
+
+        "   Southwest — Toward Fox Hill Road:           This area was included in the City’s 2003
+            UGB expansion. The 39-acre Mark and Elisa Smith property separates the Fox Ridge
+            Road area (which now forms the western extension of the acknowledged UGB) from
+            the site. The Smith property is irregularly-shaped, has two houses, and slopes
+            upwards to the south and west. Most of the Smith property is above the existing
+            water service level; so that a new reservoir is required to serve the southwest third of
+            the property. The Smith property is comprised primarily of II and II agricultural
+            soils, will an inclusion of Class IV soils.     However, the Class III and IV soils have
+            slopes of 7-12% and 12-20% respectively, which makes these areas unsuitable for
+            high school and athletic field construction. West of the Smith property is a small (13-
+
+"' See the Draft McMinnville Transportation Systems Plan and the McMinnville Transportation Master Plan, Figure
+21.
+
+                        McMinnville School District Application Narrative
+                        Prepared by Winterbrook Planning « February 24, 2005 « Page 11
+              a    way
+                                                                                      run 84 rc 649
+           acre) agricultural parcel with Class II, III and IV soils. Again, the Class III-IV soils
+           occur in areas with steeper slopes.
+
+       =   North — Towards the Baker Creek Agricultural Area: To the north, across the
+           Star Mill irrigation ditch, there is a small (about four acres) parcel with two homes
+           fronting Hill Road. There are also several large agricultural parcels that extend to and
+           across Baker Creek to Baker Creek Road. These parcels comprise approximately 327
+           acres, have primarily Class I and IJ agricultural soils to the north, and Class II and III
+           soils to the west. The tract is owned by Maralynn Abrams, who has owned the
+           property since 1968 and has filed a Measure 37 claim to allow large-lot residential
+           and commercial development on this property. The northern Abrams properties were
+           not included in the City’s 2003 UGB expansion, because they have Class I
+           agricultural soils and large, unbuildable floodplain areas.
+
+G. Summary of Key Issues
+This section summaries some of the key issues related to this land use proposal.
+
+   1. Transportation Impacts and Proposed Mitigation Measures
+   Lancaster Engineering conducted a Transportation Impact Study (TIS) in conformance with
+   OAR Chapter 660, Division 12. The study assesses the impacts of the new high school,
+   using the “worst case” scenario, assuming a student population of 1,800 students by the Year
+   2023. To minimize traffic impacts to Highway 99W and Highway 18, the attendance
+   boundaries for these two schools is divided by Highway 99W. The study concludes that the
+   existing transportation system shown on the Transportation Master Plan (1994) is adequate to
+   accommodate the proposed high school. Mitigation — in the form of right-of-way dedication,
+   street widening, sidewalk construction and related improvements ~ will be necessary.
+   Lancaster Engineering will supplement its preliminary report following consultations with
+   ODOT and other interested parties.
+
+   2. Agricultural Land Impacts
+   ORS 197.298 is entitled “Priority of land to be included within urban growth boundary.”
+   This statute states that “first priority” goes to land that is designated “urban reserve,” and
+   second priority goes to “exceptions areas.” McMinnville has no land within the urban
+   reserve category, but has several adjacent exceptions area (i.e., areas that are committed to
+   non-farm or non-forest use, usually because they are highly parcelized). Third priority goes
+   to “marginal lands”; however, McMinnville does not have land in this category either.
+   Finally, the lowest priority land for inclusion within a UGB is'land that is zoned for forestry
+   or agriculture. The McMinnville UGB is surrounded by high value farm land. Within this
+   broad category, land with poorer agricultural soils has a higher priority for inclusion that land
+   with better agricultural soils. Thus, Class I and II soils have a higher priority for inclusion
+   within a UGB   than Class III, IV or V   soils.
+
+                      McMinnville School District Application Narrative
+                     Prepared by Winterbrook Planning « February 24, 2005 ° Page 12
+ e           ..4           :       |                                                        FILM 84 ace          644
+
+     This statute also provides for “specific types of identified land needs [that] cannot be
+     reasonably accommodated on higher priority lands. Section I.C of the Introduction identifies
+     the siting requirements, or “specific needs” of a modern high school. For reasons stated in
+     Appendix D, Alternative Sites Analysis, there are no suitable sites within the acknowledged
+     UGB or within adjacent exceptions areas. Therefore, the District was forced to look at flat
+     sites with EFU zoning immediately outside the UGB. In the McMinnville area, poorer
+     agricultural soil classifications often do not meet the specific siting requirements of the
+     proposed high school. For example, Class Iw soils are indicative of hydric soils and
+     wetlands, and Class III and IV agricultural soils often are indicative of slopes greater than
+     10%. Thus, the siting needs of a high school (42 net buildable acres after subtracting for
+     slopes of greater than 5%, floodplains and wetlands) correlate positively with well-drained
+     and relatively flat agricultural soils. The goal, therefore, is to find a site that (a) meets the
+     District’s high school siting requirements, on (b) the lowest quality agricultural soils.
+
+     Appendix D identifies three areas on the west side of McMinnville, adjacent to the existing
+     UGB, with parcels (or clusters of parcels) of sufficient size, topographical, access and
+     serviceability characteristics to meet high school siting requirements:
+         =         The Grandhaven Sub-Area; and
+         =         The Northwest Sub-Area;
+         =         The Southwest Sub-Area.
+
+     Like most land surrounding the McMinnville UGB, each of these areas is comprised
+     primarily of relatively flat, high value farm land. At first glance, the Northwest Sub-Area is
+     the lowest priority for inclusion within the UGB, because of the large concentration (31% of
+     the sub-area) of Class J agricultural soils near Baker Creek. The other two sub-areas are
+     dominated (83% of each sub-area) by Class II agricultural soils.
+
+     However, the quality of agricultural soils within the Northwest Sub-Area decreases markedly
+     south of the Star Mill Ditch, where Class II and III soils predominate. As shown on
+     Appendix D, Table 15, Tax Lots 700 and 701 each are comprised primarily of Class II and III
+     agricultural soils. Although Class III or worse soils exist in each of sub-areas (17% in
+     Grandhaven, 36% in Northwest and 32% in Southwest), these soils generally do not meet the
+     District’s siting needs, because they are associated with wetlands, riparian corridors,
+     floodplains and slopes of greater than 5%."
+
+     In conclusion, the school district site has predominantly Class II and III soils and meets the
+     District’s high school siting requirements. The northern portion of the Northwest Sub-Area
+     is comprised of mostly Class I soils, and therefore is a lower priority for inclusion within the
+     UGB. The buildable (for the high school) portions of the Grandhaven and Southwestern
+     Sub-Areas are comprised almost completely of Class II agricultural soils. Therefore, the
+
+" For example, Tax Lot 700 begins to slope upwards, towards Fox Ridge Road, about midway through the site.
+Thus, the Class III soils in the northern portion of Tax Lot 700 generally have slopes of less than 5%, whereas the
+southern portion Class III and IV soils with slopes of 7-20%.
+
+                               McMinnville School District Application Narrative
+                               Prepared by Winterbrook Planning * February 24, 2005 » Page 13
+     Rte         sn. +                                                              FILM 84   PACE   B45
+
+District’s preferred choice for the new high school has the lowest quality agricultural soils
+available in the area, that also meet District high school siting standards.
+
+3.   Economic, Social, Environmental and Energy Consequences
+The economic and social consequences of not providing for a second high school site are
+highly negative. As noted in Section A, above, the existing high school is in poor condition,
+over-crowded and functionally inadequate. To make basic repairs to the existing school will
+cost an estimated $3 million. A properly-functioning high school is essential to the well-
+being of the community as a whole, because the level of education correlates positively with
+family income and employment, and negatively with crime and social dependency.
+Moreover, an educated population is essential to a functioning democratic society. During
+the City and County review of this application, the District will provide additional
+information regarding the positive social and economic consequences of constructing a new
+high school at this location.
+
+From a land use and energy conservation perspective, the new high school would be centrally
+located in the fastest growing area of the City — West McMinnville. Such a location, when
+combined with proximate higher density housing and planned transit service, provides a
+realistic option for students, teachers and visitors to walk, bicycle or ride the bus to
+participate in school activities and events. Vehicle miles traveled and public safety will
+increase substantially by using Highway 99W as the high school attendance boundary, thus
+reducing the need to cross this busy state highway to reach the school from students’ homes.
+
+From an environmental perspective, the site is free of Goal 5 natural resources and Goal 7
+natural hazards. The Star Mill Ditch is an irrigation facility that forms the northern boundary
+of the site and serves as an effective buffer from Class I agricultural land to the north. When
+compared with the Southwest and Grandhaven alternatives, the proposed site is relatively
+unconstrained by Goal 5 natural resources (wetlands and riparian corridors) and Goal 7 flood
+hazards.
+
+                    McMinnville School District Application Narrative
+                   Prepared by Winterbrook Planning * February 24, 2005 « Page 14
+            hed. noi”                                                                     Fuk B& occ BAG
+
+Part Il. Conformance with Applicable Statewide Planning Goals,
+Administrative Rules and Statutes
+
+  A. Statewide Planning Goals 1, 2, and 14
+
+     Goal 1 (Citizen Involvement)
+     Proposed Findings: The proposed plan and land use regulation amendments do not alter
+     McMinnville’s acknowledged Citizen Involvement Program. Consequently, compliance
+     with Goal | is established through compliance with McMinnville’s acknowledged Citizen
+     Involvement Program, as discussed in McMinnville Comprehensive Plan Goal 1 findings
+     below. The City and County will provide notice of the joint City-County- MUAMC public
+     hearing to review this matter.
+     Citizen involvement is also ensured through McMinnville Public Schools Long Range
+     Facility Task Force, which has carefully examined existing physical conditions at the MHS
+     complex, and alternatives for addressing the needs of existing and future high school
+     students. Winterbrook carefully reviewed the minutes of several Facilities Task Force
+     meeting during the preparation of this report. On February 9, 2005, Greg Winterowd met
+     with the Task Force to describe the UGB amendment process and to discuss alternative high
+     school configurations. As a result of this meeting, the Facilities Task Force indicated their
+     support for this application, provided that the application itself does not preclude full
+     discussion of options outlined in Section B of this Introduction.
+
+     Goal 2 (Land Use Planning)
+           “To establish a land use planning process and policy framework as a
+            basis for all decision and actions related to use of land and to assure an
+            adequate factual base for such decisions and actions.”
+
+     Proposed Findings: Goal 2, Part I requires the establishment of a comprehensive plan, a
+     need for “coordination” of government entities in planning, and the need for public hearings
+     and an opportunity for comment and review. Goal 2, Part II, with its associated
+     Administrative Rule, details the requirements for taking a Statewide Planning Goal
+     exception.
+
+     1.   Coordination
+
+     Proposed Findings: The City of McMinnville, Yamhill County and the McMinnville
+     School District have shown a high level of coordination in determining school siting needs
+     and in examining alternatives. As evidence of such coordination:
+
+                         McMinnville School District Application Narrative
+                         Prepared by Winterbrook Planning * February 24, 2005 » Page 15
+                                                                                     vw 84 nee B47
+     =    The McMinnville Residential Needs Analysis (2001) included specific reference to
+          the need for a 32-acre high school site. The Land Conservation and Development
+          Commission acknowledged this need when it approved the Residential Land Needs
+          Analysis in September 2004. This application proposes to amend this document to
+          provide for a 42-acre high school site, based on updated information from The Guidé
+         for Planning Educational Facilities, and the recommendations of DOWA, the District
+          architect.
+
+     =   The District coordinated closely with the City of McMinnville when the City
+         prepared and adopted the McMinnville Growth Management and Urbanization Plan
+         (MGMUP) in 2003. For example, the Northwest Activity Center Illustrative Plan
+         (MGMUP Figure 8), prominently shows the District’s 32-acre high school site.
+         Figure 105, Proximity to Services, shows the high school as the central public facility
+         in West McMinnville.                                                                        |
+
+     «   Finally, City planning officials have coordinated with District officials since the
+         beginning of the City’s Periodic Review process in 1994, City and County public
+         hearings regarding the Periodic Review and UGB amendment process have been held,            |
+         repeatedly, in District administrative offices. The District sought the City’s advice
+         when it purchased four school sites, three of which were located within the UGB, as a
+         result of the 1996 bond measure.
+
+     As part of this plan amendment review process, City and District representatives will
+     meet with ODOT and DLCD staff to better understand the need for a high school in West
+     McMinnville, and the alternative sites evaluation process that the District has undertaken
+     prior to submittal of this application.
+
+2.   Public Hearings/Opportunities for Comment and Review
+
+Proposed Findings: Notice of public hearing(s) before McMinnville and Yamhill County
+elected officials, and the McMinnville Urban Area Management Committee (MUAMC) will
+be provided in accordance with local and state law. This application, as well as the staff
+report regarding this matter have been made available for affected citizens and interested
+parties to consider well in advance of the scheduled public hearing(s).
+
+3.   Goal Exception
+
+Proposed Findings: Goal 14 requires that when amending an acknowledged UGB,
+McMinnville must follow the procedures and requirements for a goal exception. Oregon
+Administrative Rule 660-004-010 describes these procedures and requirements. OAR 660-
+04-10 and relevant findings are detailed below, followed by its associated Goal 14 findings.
+
+                    McMinnville School District Application Narrative
+                    Prepared by Winterbrook Planning + February 24, 2005 « Page 16
+                                                                                           Fin B4 race B48
+
+       “OAR. 660-04-10(1)(c)(B)        When       a    local     government     changes     an
+       established urban growth boundary it shall follow the procedures and
+       requirements set forth in Goal 2 "Land Use Planning," Part Il,
+       Exceptions. An established urban growth boundary is one which has been
+       acknowledged by the Commission under ORS 197.251. Revised findings
+       and reasons in support of an amendment to an established urban growth
+       boundary shall demonstrate compliance with the seven factors of Goal 14
+       and demonstrate that the following standards are met:
+       (i) Reasons justify why the state policy embodied in the applicable goals
+       should not apply (This factor can be satisfied by compliance with the
+       seven factors of Goal 14.);
+
+Proposed Findings:     Compliance with the seven factors of Goal 14 is addressed in
+proposed findings under Goal 14, below.
+
+       “(ii) Areas     which   do   not require       a new    exception   cannot   reasonably
+       accommodate the use;
+
+Proposed Findings: As documented in Appendix D, Winterbrook carefully analyzed
+alternative sites within the acknowledged McMinnville UGB and adjacent exceptions areas
+against the high school siting requirements found in Section IB, above.
+
+Within the acknowledged UGB, we identified two potential sites that warranted further
+evaluation against the District’s high school siting requirements: the Grandhaven South and
+West 2” Street sites. As noted in Appendix D, neither of these sites meets the District’s high
+school siting requirements. Moreover, this land is needed for other urban uses. As noted in
+MGMUP Table 20, in 2002 (before the 2003 UGB amendment package was approved by the
+City), McMinnville requires an additional 1,125 buildable acres outside the then-existing
+UGB.
+
+In 2004, LCDC approved the inclusion of three exceptions areas (Riverside South, Fox Ridge
+Road, and Redmond Hill Road), which together have 217 buildable acres.
+
+Appendix D also examined the potential for suitable high school sites within designated
+exceptions areas that remain outside the acknowledged UGB. There are six such exceptions
+areas adjacent to the McMinnville UGB. Going counter clockwise starting from the north,
+MGMUFP Figure 73 identifies the following exceptions areas:
+   =   Westside Road — 14 buildable acres;
+   =   Old Sheridan Road — 37 buildable acres;
+   =   Booth Bend Road — 13 buildable acres;
+   =   Lawson Lane — 11 buildable acres;
+   "   Riverside North — 36 buildable acres; and
+   =   Bunn’s Village — 126 buildable acres.
+
+                     McMinnville School District Application Narrative
+                     Prepared by Winterbrook Planning * February 24, 2005 « Page 17
+                Hie!                                                                     run     84 HACE B49
+
+    These six exceptions areas have a total of 237 buildable acres. Thus, even if all of these
+    exceptions areas were to be included within the UGB,” there would still be a need for some
+    671 acres of buildable agricultural land to meet identified needs — including the special siting
+    requirements for a high school. Thus, large areas of agricultural land will be needed to meet
+    demonstrated long-range population, employment and livability needs through the Year
+    2023.
+
+    By definition, exceptions areas are comprised of small parcels. After examining all parcels
+    within exceptions areas adjacent to the UGB, Winterbrook found no sites (i.e., contiguous
+    groups of parcels with at least 10 acres of buildable land) that meet the buildable area siting
+    requirement of the planned high school.
+
+    Therefore, Winterbrook extended its search to three agricultural sub-areas located adjacent to
+    the acknowledged UGB west of Highway 99W.
+
+             “(iii) The long-term environmental,        economic, social and energy
+              consequences resulting from the use at the proposed site with measures
+              designed to reduce adverse impacts are not significantly more adverse
+              than would typically result from the same proposal being located in areas
+              requiring a goal exception other than the proposed site; and
+
+    Proposed Findings: Appendix D evaluates three sub-areas against high school siting
+    requirements listed in Section I.B of this Narrative. The three sub-areas are comprised
+    primarily of flat, high value farm land; each has parcels of sufficient buildable area (40 acres)
+    for a modern high school; each is adjacent to the City Limits and the UGB, and each can be
+    provided with urban services in a timely manner. Land within each of the sub-areas was
+    included in the 2003 UGB under LCDC remand.
+
+    The long-term environmental consequences of constructing a high school on the proposed
+    high school site are somewhat positive when compared with the Southwest and Grandhaven
+    alternatives. All three sub-areas are bordered by riparian corridors: the Northwest Sub-Area
+    by Baker Creek, the Grandhaven Sub-Area by the North Yamhill River, and the Southwest
+    Sub-Area by Cozine Creek. Each of these streams has associated wetlands, riparian areas
+    and floodplains that are recognized as Goal 5 resources or Goal 7 flood hazard areas by
+    Yamhill County.
+
+    However, the subject 42-acre high school site does not have any designated Goal 5 or Goal 7
+    natural resources / hazards and therefore school construction would not have any adverse
+    impacts on significant Goal 5 natural resources. As noted in Appendix D, most of the parcels
+    in the Southwest and Grandhaven Sub-Areas have substantial unbuildable natural resource
+
+'° For a variety of reasons related to urban form, land use compatibility and service efficiency, the City of
+McMinnville opposes inclusion of these exceptions areas.
+
+                          McMinnville School District Application Narrative
+                          Prepared by Winterbrook Planning « February 24, 2005        Page 18
+                                                                                   rill   84   PACE   650
+
+and floodplain areas that could be adversely affected by high school construction and
+ongoing high school activities. In this sense, placement of a high school the subject property
+has minimal adverse environmental impacts when compared with most potential high school
+sites in the Grandhaven and Southwest Sub-Areas.
+
+The Star Mill Ditch defines the northern boundary of the site and is protected by a drainage
+easement. As noted in the Introduction, the Star Mill Ditch forms a natural boundary from
+large tracts of Class I agricultural soils to the north.
+
+The long-term economic consequences of constructing the high school on the subject site are
+positive, compared with other sub-areas under consideration. The District was able to
+purchase Tax Lot 701 in 1996 at a reasonable cost, and has negotiated the purchase of the
+northern portion of Tax Lot 701 at costs somewhat below market value for land within an
+adopted, but not yet acknowledged, UGB. Moreover, public infrastructure costs to the City
+are relatively low to serve the subject high school site, as documented in MGMUP Appendix
+C and in the Goal 14, Factor 3 discussion in Part II of this Narrative.
+
+As noted in the Section I.H.2 and in Appendix D, the subject 42-acre high school site is
+comprised of Class II and III soils, in roughly equal proportions, whereas the other potential
+sites are comprised primarily of Class I soils (Northwest Sub-Area north of the Star Mill
+Ditch), or Class II soils (the buildable portions of the Grandhaven and Southwest Sub-Areas).
+Thus, the impact on Yamhill County’s agricultural economy is marginally less for the subject
+property, because other potential sites that meet identified high school siting requirements
+have marginally more productive farm soils.
+
+The long-term social consequences of high school construction on the subject 42-acre site are
+positive when compared with other alternatives. As shown on the Northwest Activity Center
+Illustrative Plan (MGMUP Figure 8) and the Northwest Proximity to Services Map
+(MGMUP Figure 105), the proposed high school is centrally located within, and contributes
+substantially to the economic and social viability of the Northwest Activity Center. As noted
+on Figure 105, the proposed high school is the facilities center of West McMinnville, and
+will help define the neighborhood’s future identity. The high school grounds will provide
+permanent open space for nearby multiple family and higher density single family residents,
+and will provide a social and athletic center for the neighborhood as a whole. The proposed
+middle school will perform a similar function in the Grandhaven Sub-Area.
+
+By encouraging walkable neighborhoods and reducing travel distances for students, staff and
+visitors of the high school, the proposed west high school location has positive social
+consequences when compared with the southwest and north (Grandhaven) alternatives.
+
+The long-term energy conservation consequences for construction of a high school at the
+proposed location are positive when compared with construction in other sub-areas. A new
+west high school would provide a high quality facility within walking or biking distance to
+
+                  McMinnville School District Application Narrative
+                  Prepared by Winterbrook Planning + February 24, 2005 * Page 19
+                                                                                    Hun BA mce: B54.
+             BE
+
+the planned Northwest community, thus reducing reliance on single-occupancy vehicles. In
+contrast to the Grandhaven Sub-Area, both the Southwest and the Northwest Sub-Areas are
+located along a designated transit route, which will encourage transit use and associated
+energy conservation.
+
+Unlike the Grandhaven and Southwest alternatives, the proposed Northwest high school site
+is equidistant from existing and planned development in Southwest, North and West
+McMinnville. Those wishing to access a high school in Grandhaven would probably use
+Highway 99W, which is highly congested and would require more stop-and-go driving. The
+Grandhaven site is also located less than a mile from the existing McMinnville High School
+complex, meaning that most of the existing and future student population would use
+Highway 99W to reach both high schools.
+
+Moreover, the proposed high school site is readily accessible from the West 2" Street area
+(within the UGB) and from the large rural exceptions area located west of the McMinnville
+UGB, thus reducing vehicle miles traveled (and attendant costs) for those who drive to the
+facility.. In contrast, the Grandhaven and Southwest Sub-Areas are located in the northern
+and southwestern extremities of the UGB, and would require urban students, visitors and
+teaches to travel further to reach a high school facility.
+
+         “(iv) The proposed uses are compatible with other adjacent uses or will be
+          so rendered through measures designed to.reduce adverse impacts.
+
+Proposed Findings:     All three sub-areas are comprised of high value farm land that is
+actively being farmed. Agricultural land in all three areas supports wheat and orchard. uses.
+The Northwest and Southwest Sub-Areas are being farmed primarily for wheat, and the
+Grandhaven Sub-Area produces a combination of wheat, grass seed, and filbert orchard.
+
+The planned high school will be bordered on three sides by agricultural land. However,
+potential adverse impacts are mitigated by the following:                                       #
+
+    1.   The Star Mill Ditch and its protective easement separates the 42-acre high school site
+         from Class I and II farm land to the north. Two residences are located along Hill
+         Road immediately to the northeast of the site, which provides an additional buffer
+         from farm land to the north.
+
+   2.    The 42-acre site includes most of Tax Lot 701 and a portion of Tax Lot 700. Both of
+         these properties were originally owned by Mark and Elisa Smith, who own the 39-
+         acre parcel immediately to the south of the high school site, and immediately north
+         and east of the McMinnville UGB. The Smiths have signed a letter in support of this
+         application.           :
+
+                   McMinnville School District Application Narrative
+                   Prepared by Winterbrook Planning * February 24, 2005 « Page 20
+         ——                                                                                             run 84 vax 652
+
+    3.     A 16-inch water main and associated easement extends from the public water
+           reservoir located north of Fox Ridge Road, along the western and northern borders of
+           Tax Lots 700 and 701, to serve the NW                   Hill Road area.     Thus, the entire northern and
+           western border of the proposed high school site (the adjusted Tax Lot 701) is defined
+           by an urban water main and public utility easement.
+
+         . Tax Lot 200 has 13 acres and an existing residence. The parcel is located
+           immediately to the west of the Smith (Tax Lot 700) and District (Tax Lot 701)
+           parcels, and abuts the UGB to the south and west. This parcel is not part of a larger
+           farm unit, and is comprised of Class II, II and IV soils, with wetlands to the south.
+
+         . Beyond Tax Lots 200, 700 and 701 — to the north and west — lies the Abrams
+           properties, which together comprise some 337 acres. Mrs. Abrams purchased the
+           property in 1968, and appears to have a valid Measure 37 claim that is now under
+           consideration by the Yamhill County Board of Commissioners. Mrs. Abrams seeks a
+           combination of residential and commercial development on her property, which may
+           preclude continued agricultural use in the future.
+
+Goal 14 (Urbanization)
+          “To     provide     for   an    orderly Ly and   efficient   transition    rom   rural   to   urban
+           land   use.”
+
+Proposed Findings:              Goal 14 applies to amendments expanding McMinnville’s UGB
+which, by definition, convert rural land to urban or urbanizable land.                        Goal 14 also applies to
+amendments to McMinnville’s comprehensive plan and land use regulations that affect the
+conversion of urbanizable land within the UGB to urban uses.
+
+UGB amendments are governed not only by the seven UGB establishment factors set out in
+Goal 14, but also by the priorities for adding land to a UGB set out in ORS 197.298, and by
+the goal exception requirements of ORS 197.732/Goal 2, Part Il and OAR 660-04-010(1)(c)
+and 660-04-020. Goal 2, Part II (Exceptions) findings were addressed above. The seven
+Goal 14 factors, as well as ORS 197.298 requirements not addressed in Goal 2 findings, are
+addressed below.
+
+Factors 1 and 2 deal with “need”; Factors 3 and 4 with “location”.
+
+Factors 1 and 2
+          “(1) Demonstrated              need to accommodate            long range     urban population
+           growth requirements consistent with LCDC goals;”’
+          “(2) Need for housing, employment opportunities, and livability; ”
+
+Proposed Findings:   The acknowledged McMinnville Residential Land Needs Analysis
+(ECONorthwest, 2001) identifies a need for 32 acres of buildable land for a new high school:
+
+                          McMinnville School District Application Narrative
+                          Prepared by Winterbrook Planning + February 24, 2005 « Page 21
+   jays    ig      ee                                                                FILM     84      PACE   652
+
+          “With the exception of one future middle-school site, the District owns no
+          other undeveloped land within the current UGB. Therefore, 96 acres (48
+          Elementary School acres, 16 Middle School acres, and 32 High-School
+          acres)   of additional   vacant   residential    buildable   land   is needed          to
+          accommodate year 2020 District needs.”
+
+This application proposes two factual changes to this acknowledged document based on
+recent developments:
+     «first, the District purchased two additional elementary school sites comprised of 12
+         acres each (Hill Road in 2002 and Linfield in 2004); and
+    = second, the District has determined that 42, rather than 32 acres are needed for the
+        high school.
+Assuming that the high school site is included within the UGB, the text of the revised
+McMinnville Residential Land Needs Analysis should be amended to read read:
+
+          “The District owns one future middle-school site, two future elementary
+          schools sites, and one future high school site within the 2005 UGB.
+           Therefore, 24 Elementary School acres of additional vacant residential
+           buildable land is needed outside the acknowledged UGB to accommodate
+          year 2023 District needs.”
+
+The need for a second high school site — including its specific site requirements — is
+demonstrated in Sections I.B-C of this Narrative.
+
+Factor 3
+       “(3) Orderly and economic provision for public facilities and services;”
+
+Proposed Findings: As shown on Map I, Northwest Sub-Area Utilities (MGMUP Figure
+102), sanitary sewer lines are located beneath Hill Road and can readily be extended to serve
+the proposed high school use. Water service is available via an existing 16-inch water line
+that straddles the north and west property line of the high school site. NW Hill Road is a
+minor arterial street that provides primary access to the site; secondary access will be
+provided by the extension of NW Wallace Road. Thus, urban services are immediately
+available to serve the site.
+
+Factor 4
+          “(4) Maximum efficiency of land uses within          and on the fringe            of the
+           existing urban area,”
+
+Proposed Findings: As shown on Maps A (Northwest Activity Center Illustrative Plan), D
+(Transit Corridors), H (Northwest Utilities), and I (Northwest Proximity to Services),
+adopted MGMUP places the “potential high school” site in the center of the Northwest
+Activity Center. The MGMUP at pages 5-16 through 5-18 describes “Activity Centers” as a
+
+                     McMinnville School District Application Narrative
+                    Prepared by Winterbrook Planning « February 24, 2005 « Page 22
+     ~
+Hy
+                  ie oh I                                                              oe   &4    PACE   ba4
+
+         “cornerstone of the City’s urbanization plan.” Activity Centers are based on neighborhood
+         scale commercial and transit supportive development, and focus on retail, office, recreational,
+         civic and school uses. This “focus area” is surrounded by residential “support areas” where
+         housing densities are greater near the focus area, and gradually decrease as one moves
+         towards the edge of the Activity Center area. Each Activity Center was selected based its
+         location in relation to arterial streets and vacant, buildable land, and the “ability to foster the
+         development of a traditional, or complete, neighborhood.”
+
+         As noted on page 5-18 of the MGMUP, Activity Centers increase land use efficiency by
+         concentrating higher density housing around focus areas, thus encouraging a compact, .
+         energy-efficient and pedestrian-oriented neighborhood. By locating the proposed high school
+         near the center of the Northwest Activity Center, the District’s proposed plan amendment
+         furthers the land use efficiency measures call for the MGMUP.
+
+         Even in the absence of an acknowledged plan for the area, the proposed high school site
+         maximizes land use efficiency by serving existing and planned residential neighborhoods
+         within the acknowledged UGB, including the Fox Ridge Road and Redmond Hill exceptions
+         areas. As noted in Appendix D, the proposed high school site is the most centrally-located
+         (relative to the growing high school student population) and accessible (relative to arterial
+         and transit streets) of any of the five alternatives considered — including the two sites within
+         the existing UGB. The size and shape of the proposed high school site are conducive to
+         efficient land use, because the trapezoidal shape allows for efficient placement of the school
+         building(s), athletic fields and parking areas.
+
+         Factor 5
+                “(3) Environmental, energy, economic and social consequences/..]”
+
+         Proposed Findings: ESEE consequences of alternative sites are addressed in Goal 2
+         findings, above, and in Part I of this Narrative. The District will provide supplemental
+         findings that discuss the economic and social consequences of high school development
+         options under consideration by the Long Range Facilities Task Force.
+
+         -ORS 197.298 and Factor 6
+
+         ORS 197.298(1) requires that the following priorities be used in selecting land for inclusion
+         in a UGB (in order of higher to lower priority for inclusion):
+
+                “(1) Land designated as an urban reserve under ORS 197.298.
+                (2) Exception areas or nonresource land adjacent to the UGB.
+                (3) Land designated as marginal land under ORS 197.247.”
+
+         Proposed Findings: McMinnville has no “urban reserve” lands and Yamhill County has no
+         “marginal lands.” Appendix D examines exceptions areas adjacent to the UGB. Because
+
+                            McMinnville School District Application Narrative
+                           Prepared by Winterbrook Planning * February 24, 2005 « Page 23
+                          Eos       >                                                            rien G4 ince BBR
+     such exceptions areas are highly parcelized, there are no sites that meet the siting
+     requirements for a high school identified in Section I.C of this Narrative.
+
+              “(4)Land      designated for        agriculture     or forestry      in   an   acknowledged
+               comprehensive plan.
+
+     Goal 14, Factor 6, requires consideration of the following when determining the location of
+     land to bring into a UGB:
+
+              “Retention of agricultural land as defined; with Class I being the highest
+              priority for retention and Class VI the lowest priority; ”
+
+     In addition, ORS 197.298(2) requires that land of “lower capability as measured by the [U.S.
+     Natural Resources Conservation Service (NRCS) agricultural soil] capability classification
+     system or by cubic foot site class, whichever is appropriate for the current use,” be given
+     higher priority for inclusion in a UGB.
+
+     Proposed Findings: After determining that adjacent exceptions areas could not reasonably
+     accommodate the siting needs of a moder high school, Winterbrook analyzed farm land by
+     agricultural capability classification. As noted in the Part I of this Narrative, the proposed
+     high school site is comprised of Class II and IJ agricultural soils.
+
+     This statute also provides an exception to strict application of ORS 197.298 priorities for
+     “specific types of identified land needs [that] cannot be reasonably accommodated on higher
+     priority lands.” Sections I.B and C of this Narrative identify the need for, and siting
+     requirements of, a modern high school in McMinnville. These siting requirements are
+     “specific needs” within the meaning of this statute. For reasons stated in Appendix D,
+     Alternative Sites Analysis, there are no suitable sites within the acknowledged UGB or
+     within adjacent exceptions areas. Therefore, the District was forced to look at flat,
+     serviceable sites with agricultural zoning immediately outside the UGB. In the McMinnville
+     area, poorer agricultural soil classifications generally do not meet the specific siting
+     requirements of the proposed high school."*
+
+    Appendix D identifies three areas on the west side of McMinnville, adjacent to the existing
+    UGB, with parcels (or clusters of parcels) of sufficient size, topographical, access and
+    serviceability characteristics to meet high school siting requirements:
+          =   The North Grandhaven Sub-Area; and
+
+‘4 For example, Class IIIw soils are indicative of hydric soils and wetlands, and Class IV (and some Class III)
+agricultural soils are indicative of slopes greater than 5%. Thus, the siting needs of a high school (42 net buildable
+acres after subtracting for slopes of greater than 5%, floodplains and wetlands) correlate positively with well-
+drained and relatively flat agricultural soils. Such soils typically have a higher agricultural classification (i.e., Class
+I and II, and some Class III soils).
+
+                           McMinnville School District Application Narrative
+                           Prepared by Winterbrook Planning ° February 24, 2005 « Page 24
+                                                                                       run BA mee BOG
+         =   The Northwest Sub-Area;
+         =   The Southwest Sub-Area.
+
+Table 2 shows the distribution of agricultural soil types by sub-area and tax lots within each sub-
+area. Maps E.1-3 map agricultural land by NCRS soil agricultural soil classification within each
+sub-area. It is clear from these maps and from Table 2 that the North Grandview and Southwest
+Sub-Areas have predominantly Class II soils, except for wetland and riparian areas associated
+with the North Yamhill River and Cozine Creek, respectively. It is also clear that the Northwest
+Sub-Area is more varied, with Class J soils in the north (near Baker Creek), and Class II and III
+soils to the south, adjacent to the Fox Ridge rural residential exceptions area.               Class III and IV
+soils in the Southwest Sub-Area are marbled through several tax lots, whereas the Class 1V-V
+soils in the Grandview North Sub-Area are a result of the North Yamhill River ravine.
+
+Table 2: Agricultural Soil Classificatio ns b Sub-Area and Tax Lot
+Sub-Area                                                               - | Class             LIV = |C
+Tax Lots                                                               | Acres                    “| Acre
+North Grandview
+R4409 00100                        0                  20 (81%)                      0 (2%)               4 (17%)
+R4409 00101                        0                  111(83%)                       7 (5%)              16 (12%)
+North Grandview                    0                 131 (83%)                      7 (4%)              20 (13%)
+Total
+Northwest
+R4418 00700                        0                   9 (24%)                 29 (76%)                         0
+(Adjusted)
+R4418 00701                —    00%)      =      | -24(46%)               |    28 63%) |                    0=
+(Adjusted)      3              See                     ee          :            :        :
+R4418 01000                    32 (63%)              16.3 (32%)                 2.6 (5%)                        0
+R4418 01100                    22 (55%)                9 (23%)                  8 (21%)                         0
+Northwest Total                53 (31%)               56 (33%)                 62(36%)                      0
+Southwest
+R4430 00300                        0                  11 (71%)                      5 (29%)                     0
+R4430 01100                        0                  30 (92%)                      3 (8%)                      oO.
+R4430 01200                        0                  35 (94%)                      2 (6%)                      0
+ R4430 01400                       0                 43 (88%)                 ~ 6 (12%)                         0
+/R4430 01500                       0.              33 (67%)                     16 (33%)                        0
+“Southwest Total                   0                153 (83%)                   32 (17%)                        0
+
+    Like most land surrounding the McMinnville UGB, each of these areas is comprised
+    primarily of relatively flat, high value farm land. At first glance, the Northwest Sub-Area is
+    the lowest priority for inclusion within the UGB, because of the large concentration (31% of
+    the sub-area) of Class I agricultural soils located on either side of Baker Creek. The other
+    two sub-areas are dominated (83% of each sub-area) by Class II agricultural soils.
+
+                       McMinnville School District Application Narrative
+                      Prepared by Winterbrook Planning * February 24, 2005 * Page 25
+  1 BO           Nida                                         |                           rium 84 ee 657
+    However, the quality of agricultural soils within the Northwest Sub-Area decreases markedly
+    south of the‘Star Mill Ditch, where Class II and III soils predominate. As shown on
+    Appendix D, Table 15, Tax Lots 700 and 701 each are comprised primarily of Class III
+    agricultural soils. Although Class III or worse soils exist in each of sub-areas (17% in
+    Grandhaven, 36% in Northwest and 32% in Southwest), these soils usually do not meet the
+    District’s siting needs, because they are associated with wetlands, riparian corridors,
+    floodplains and / or slopes of greater than 5%.
+
+    In conclusion, the proposed school district site is comprised of Class II and III soils in
+    roughly equal proportion and meets the District’s high school siting requirements. The
+    northern portion of the Northwest Sub-Area also meets District siting requirements, but is
+    comprised of mostly Class I soils, and therefore is a lower priority for inclusion within the
+    UGB. The buildable (for the high school) portions of the Grandhaven and Southwestern
+    Sub-Areas are comprised almost completely of Class II agricultural soils, and therefore are
+    lower priority for inclusion within the UGB than the proposed school site. These sub-areas
+    are not as well suited for a high school as the proposed high school site, as documented in
+    Appendix D. Therefore, the District’s preferred choice for the new high school has the
+    lowest quality agricultural soils available outside the acknowledged UGB in West
+    McMinnville — that also meet District high school siting standards.
+
+    Factor 7
+              “(7) Compatibility of the proposed urban uses with nearby agricultural
+              activities.”
+
+    Proposed Findings: Each of the sub-areas under consideration as a potential high school
+    site abuts large tracts of agricultural land, and each potential parcel would abut agricultural
+    land on two or three sides.
+
+    The planned high school will be bordered on three sides by agricultural land. However, the
+    high school is reasonably compatible with nearby agricultural activities (primarily wheat and
+    grass seed production) in the short-term (until the City expands its UGB to the west), and
+    residential and commercial development in mid- to long-term (following acknowledgment of
+    the adopted UGB expansion). Potential adverse impacts on abutting agricultural land are
+    mitigated by the following:
+
+         1.   The site abuts an arterial street to the east, with urban and urbanizable land located
+              across NW Hill Road.       There are already impacts from urban development on farm
+              land to the West
+
+'S For example, Tax Lot 700 begins to slope upwards, towards Fox Ridge Road, about midway through the site.
+Thus, the Class III soils in the northern portion of Tax Lot 700 generally have slopes of less than 5%, whereas the
+southern portion Class III and IV soils with slopes of 7-20%.
+
+                          MeMinnville School District Application Narrative
+                         Prepared by Winterbrook Planning « February 24, 2005 ° Page 26
+   o OLE                                                                     riLa   84   wack     698.
+
+. The Star Mill Ditch and its protective easement separate the 42-acre high school site
+  from actively farmed Class I and II farm land to the north. Two residences are
+  located along Hill Road immediately to the northeast of the site, which provides an
+  additional buffer from farm land to the north.
+
+. The 42-acre high school site includes most of Tax Lot 701 and a portion of Tax Lot
+  700. Both of these properties were originally owned by Mark and Elisa Smith, who
+  own the 39-acre parcel (the remainder of Tax Lot 700) immediately to the south of
+  the high school site, and immediately north and east of the McMinnville UGB.              The
+  Smiths have signed a letter in support of this application. Both the District and the
+  Smith properties are farmed under contract with Mr. Clark Ellingson, who farms
+  several other agricultural properties in the McMinnville area. Mr. Ellingson was
+  aware that the District would eventually be converting its site to school use, so that
+  the loss of the school site was fully anticipated and will not have a substantial adverse
+  affect the profitability of his farming business. Immediately to the east of Tax Lot
+  700 are several hundred acres of rural residential exceptions area, with attendant
+  adverse impacts on the Smith property (Tax Lot 700).
+
+. Tax Lot 200 to the west has 13 acres and an existing residence. The parcel abuts both
+  the Smith (Tax Lot 700) and District (Tax Lot 701) parcels, and abuts the UGB to the
+  south and west. This parcel is not part of a larger farm unit, and is comprised of Class
+  Ii, I and IV soils, with wetlands to the south. Tax Lot 200 also abuts property
+  owned by the Abrams family to the west, which is the subject of a Measure 37 claim.
+  Location of high school athletic fields adjacent to this marginal agricultural site will
+  have a minimal adverse affect on its operations.
+
+. Beyond Tax Lots 200, 700 and 701 — to the north and west — lies the Abrams
+  properties, which together comprise some 337 acres. Mrs. Abrams purchased the
+  property in the 1960s, and appears to have a valid Measure 37 claim that is now under
+  consideration by the Yamhill County Board of Commissioners. Mrs. Abrams seeks a
+  combination of residential and commercial development on her property, which may
+  preclude continued agricultural use in the future. If Mrs. Abrams perfects her claim,
+  school will be bordered on two sides by developed land.
+
+  The high school is located in the center of the adopted, but yet to be acknowledged,
+  Northwest Activity Center. If it is not needed now, then this land eventually will be
+  needed to accommodate long-term population and employment growth in
+  McMinnville.
+
+. The NW Activity will receive water service via an existing 16-inch line and easement
+  that separates the adjusted Tax Lot 701 from agricultural land to the north and west.
+
+             McMinnville School District Application Narrative
+            Prepared by Winterbrook Planning » February 24, 2005 ° Page 27
+         Or ay                                                                   run O4 ce         69
+
+B. Statewide Planning Goals 5 through 13
+
+  Goal 5 (Natural Resources, Scenic and Historic Areas, and Open Spaces)
+        “To protect natural resources and conserve scenic and historic areas and
+         open spaces.”
+
+  Proposed Findings: There are no inventoried Goal 5 resources on the subject 43-acre high
+  school site. Goal 5 does not apply. However, Goal 5 would apply to other agriculturally
+  zoned sites in the area, which have significant wetlands and riparian corridors.
+
+  Goal 6 (Air, Water and Land Resources Quality)
+        “To maintain and improve the quality of the                    air,   water   and   land
+         resources of the state.”
+
+  Proposed Findings: Construction of a high school on this site must comply with
+  acknowledged Goal 6 policies in the McMinnville Comprehensive Plan. The Star Mill Ditch
+  is protected by a separate easement. By following applicable air, water and land resource
+  quality policies and regulations that apply within the City of McMinnville, Goal 6 will be
+  met.                                                             :
+
+  Goal 7 (Areas Subject to Natural Disasters and Hazards)
+        “To protect life and property from natural disasters and hazards.”
+
+  Proposed Findings: The subject 42-acre high school site has no Goal 7 hazard areas, as
+  documented in the McMinnville Buildable Lands Inventory. The same cannot be said of
+  other agricultural properties examined in Appendix D.
+
+  Goal 8 (Recreational Needs)
+        “To satisfy the recreational needs of the citizens of the state and visitors
+         and, where appropriate, to provide for the siting of necessary
+         recreational facilities including destination resorts.”
+
+  Proposed Findings: The high school athletic fields that eventually will be
+  constructed on the site will be available for recreational use by the public, consistent
+  with an intergovernmental agreement between the City and the District.
+
+  Goal 9 (Economy of the State)
+        “To provide adequate opportunities throughout the state for a variety of
+         economic activities vital to the health, welfare, and prosperity of
+         Oregon’s citizens.”
+
+  Proposed Findings: Construction and operation of a new high school on the subject
+  property will support the local and state economy by providing a more educated and
+  productive work force.
+
+                    McMinnville School District Application Narrative
+                    Prepared by Winterbrook Planning » February 24, 2005 ° Page 28
+                                                                                      un 84 oc 660
+Goal 10 (Housing)
+      “To provide for the housing needs of citizens of the state.”
+
+Proposed Findings: Goal 10 generally does not apply to this application. However, by
+providing needed educational services near existing and planned residential neighborhoods,
+the quality of life and the availability of services in these neighborhoods will be improved.
+
+Goal 11 (Public Facilities and Services)                                  ;
+      “To plan and develop a timely, orderly and efficient arrangement of
+       public facilities and services to serve as a framework for urban and
+       rural development.”
+
+Proposed Findings: As shown on Map I, Northwest Sub-Area Utilities (MGMUP Figure
+102), sanitary sewer lines are located beneath Hill Road and can readily be extended to serve
+the proposed high school use. Water service is available via an existing 16-inch water line
+that straddles the north and west property line of the high school site. NW Hill Road is a
+minor arterial street that provides primary access to the site; secondary access will be
+provided by the extension of NW Wallace Road. Thus, urban services are immediately
+available to serve the site, and can be extended to serve the site (and eventually the Northwest
+Activity Center) in an orderly and efficient manner
+
+Goal 12 (Transportation)
+        “To provide and encourage             a   safe,   convenient     and       economic
+         transportation system.”
+
+Proposed Findings: OAR Chapter 660, Division 12 (the Transportation Planning Rule, or
+TPR) interprets Statewide Planning Goal 12, Transportation. OAR 660-12-060 governs
+“Plan and Land Use Regulation Amendments.”
+
+We have considered the requirements of OAR 660-12-060(1) relative to plan and land use
+regulation amendments, specifically:
+    =   Whether proposed comprehensive plan and land use regulation amendments
+        significantly affect a transportation facility; and, if so,
+    «Whether allowed land uses are limited so as to be consistent with the identified
+       function, capacity and level of service of the facility.
+According to the Preliminary Transportation Impact Study (TIS) prepared by Lancaster
+Engineering:
+
+        “The proposed school site is located in a rapidly developing area of
+        McMinnville.       The site is located adjacent to Hill Road, which is an
+        Arterial, and Wallace Road, which is a Collector. Hill Road is also an
+         identified transit corridor. These facilities can offer excellent access to a
+
+                   McMinnville School District Application Narrative
+                  Prepared by Winterbrook Planning » February 24, 2005 « Page 29
+                                                                         rin OA race 661
+
+        school of this size, minimizing impacts to local residential streets. The
+       final traffic impact study will examine the study area in more detail and
+        identify any mitigation consistent with arterial and collector streets
+        necessary to accommodate the school, as well as expected roadway and
+        intersection configurations when the City’s larger UGB expansion is
+        acknowledged.
+
+       Based on preliminary analysis, the Comprehensive Plan amendment for
+       the new high school is consistent with the planned function, capacity, and
+       performance standards of Hill Road, Baker Creek Road, West 2"4 Street,
+       and Wallace Road as described in the Transportation Master Plan.”
+
+Goal 13 (Energy Conservation)
+       “To conserve energy.”
+
+Proposed Findings: The proposed plan amendment is adjacent to the existing UGB,
+maintaining a contiguous and energy-efficient urban growth form. The proposed high school
+site is centrally located relative to existing and planned residential growth, thus minimizing
+vehicle miles traveled for the student population, high school staff and visitors. Moreover,
+the site is central to the planned Northwest Activity Center, which provides for higher density
+residential development on three sides of the proposed high school. Finally, the site is
+located along a planned transit and bicycle street, thus reducing reliance on single occupancy
+vehicles to reach the school, with attendant energy conservation benefits. (See also ESEE
+discussion in Parts I and II of this Narrative.)
+
+                   McMinnville School District Application Narrative
+                   Prepared by Winterbrook Planning * February 24, 2005 ° Page 30
+                                :                                                    run BA vace 662
+
+Part Ill. Compliance with City and County Comprehensive                                  Plan Policies
+
+  A. Compliance with McMinnville Comprehensive Plan Goals and Policies
+
+     Chapter Il:    | Natural       Resources
+
+     GOAL II-1: TO PRESERVE THE QUALITY OF THE AIR, WATER AND LAND
+     RESOURCES WITHIN THE PLANNING AREA
+
+        Policy 1:    Urbanizable lands outside the city limits, but inside the Urban Growth
+                     Boundary, shall be retained, whenever possible, in agricultural use until
+                     such time as they are needed for urban development.
+
+     Proposed Findings:         The subject 42 acres is currently farmed under contract and will
+     continue to be farmed until high school construction commences (under Options 1 and 2) in
+     approximately 2008. If high school construction is delayed due to lack of funding or other
+     reasons, this amendment limits future uses of the site to school uses, so that other urban uses
+     cannot be developed on the site.
+
+        Policy 2:    The City of McMinnville shall continue to enforce appropriate development
+                     controls on lands with identified building constraints, including, but not
+                     limited to, excessive slope, limiting soil characteristics, and natural hazards.
+
+     Proposed Findings:         The subject 42-acre site is free of building constraints, Goal 5
+     resources and Goal 7 natural hazards.
+
+        Policy 6:     The City of McMinnville shall cooperate with the Oregon Department of
+                     Environmental Quality to insure that applications for air quality related
+                     permits are examined for compatibility with the City's comprehensive plan.
+
+     Proposed Findings:              No air quality related permits are necessary for this development.
+
+        Policy 8:    The City of McMinnville shall continue to seek the retention of high water
+                     quality standards as defined by federal, state, and local water quality codes,
+                     for all the water resources within the planning area.
+
+     Proposed Findings:          There are no inventoried water resources on the subject site. The
+     Star Mill Ditch is protected by an easement.
+
+        Policy 9:    The City of McMinnville shall continue to designate appropriate lands
+                     within its corporate limits as 'floodplain' to prevent flood induced property
+
+                        McMinnville School District Application Narrative
+                        Prepared by Winterbrook Planning * February 24, 2005 « Page 31
+   2S              nts                                                                  rin S4 race 662
+
+                          damages and to retain and protect natural drainage ways from
+                          encroachment by inappropriate uses.
+
+   Proposed Findings:         The site is not within a 100-year floodplain.              No development is
+   proposed with the irrigation ditch, which is protected by an easement.
+
+       Policy 11: The City of McMinnville shall cooperate with the City Water and Light
+                  Department, the Bureau of Land Management, and Yamhill County to
+                  insure that the land use development actions allowed in and around the
+                  municipal watershed do not lessen the water quality of the municipal water
+                  system below acceptable federal, state, and local standards.
+
+    Proposed Findings:
+
+       Policy 12: The City of McMinnville shall insure that the noise compatibility between
+                  different land uses is considered in future land use decisions and that noise
+                          control measures are required:
+
+Proposed Findings: This policy was considered in developing high school siting criteria.
+Under DEQ administrative rules, a high school is a “noise sensitive property”
+
+           “340-035-0010 (Definitions)
+           (38) ‘Noise Sensitive Property’ means real property normally used for
+            sleeping, or normally used as schools, churches, hospitals or public
+            libraries. Property used in industrial or agricultural activities is not Noise
+            Sensitive Property unless it meets the above criteria in more than an
+            incidental manner.”
+
+A primary reason why the District did not consider industrial land, or sites adjacent to industrial
+land, was potential noise impacts from industrial noise sources on the future high school.
+Location of a high school near industrial development could also have the unintended
+consequences of limiting industrial uses, or requiring costly noise mitigation, for existing and
+future employers in McMinnville.
+
+    Chapter Ill:         | Cultural, Historical & Educational Resources
+
+   GOAL II-1: TO PROVIDE CULTURAL AND SOCIAL SERVICES AND
+   FACILITIES COMMENSURATE WITH THE NEEDS OF OUR EXPANDING
+   POPULATION, PROPERLY LOCATED TO SERVICE THE COMMUNITY AND
+   TO PROVIDE POSITIVE IMPACTS ON SURROUNDING AREAS.
+
+       Policy 13: The City of McMinnville shall allow future community center type facilities,
+                  both public and private, to locate in appropriate areas based on impacts on
+
+                             McMinnville School District Application Narrative
+                            Prepared by Winterbrook Planning « February 24, 2005 * Page 32
+                                                                                       rin BA vce 64
+
+                   the surrounding land uses and the community as a whole, and the
+                   functions, land needs, and service area of the proposed facility.
+
+   Proposed Findings:           The District has coordinated closely with the City of McMinnville
+   to ensure that the proposed high school facility is appropriately located. (See discussion in
+   Part II of this Narrative, under Statewide Planning Goal 2.)
+
+       Policy 14: The City of McMinnville shall strive to insure that future public community
+                  facilities, where possible and appropriate, are consolidated by locating the
+                   new structures in close proximity to other public buildings. This will be
+                   done in order to realize financial benefits, centralize services, and positively
+                   impact future urban development.
+
+   Proposed Findings:           The proposed high school site is needed for a future high school at
+   this location, and is recognized in the City’s Northwest Activities Center Illustrative Plan. In
+   designing the high school facility, there may be an opportunity to allow for other public uses,
+   such as a fire station or District offices.
+
+   GOAL III-3: TO PROVIDE FOR THE EDUCATIONAL NEEDS OF
+   MCMINNVILLE THROUGH THE PROPER PLANNING, LOCATION, AND
+   ACQUISITION OF SCHOOL SITES AND FACILITIES.
+
+       Policy 18: The City of McMinnville shall cooperate with the McMinnville School
+                  District in the planning for future schools.
+
+       Policy 19: The location of future school sites shall be coordinated between the City and
+                  the School District.
+
+       Policy 20: The City of McMinnville shall encourage the joint purchase, maintenance,
+                  and usage of recreational facilities with the School District where
+                  acceptable to both parties.
+
+Proposed Findings:           Policies 18 —20 are addressed in the Part II, Goal 2 discussion. The
+school site is centrally located within the planned Northwest Activity Center and is shown
+prominently on adopted (but not yet acknowledged) MGMUP maps. As noted above, the
+District has an intergovernmental agreement (IGA) with the City of McMinnville to share park
+and school facilities.
+
+   Chapter IV:     Economy of McMinnville
+
+   GOAL IV-1: TO ENCOURAGE THE CONTINUED GROWTH AND
+   DIVERSIFICATION OF McMINNVILLE’S ECONOMY IN ORDER TO ENHANCE
+   THE GENERAL WELL-BEING OF THE COMMUNITY AND PROVIDE
+   EMPLOYMENT OPPORTUNITIES FOR ITS CITIZENS.
+
+                      McMinnville School District Application Narrative
+                      Prepared by Winterbrook Planning * February 24, 2005 « Page 33
+                                                                                        FLW   54 PACE   665
+
+   Proposed Findings: As noted in the Part II, Goal 9 discussion, the new high school will
+   provide the educational facilities necessary to meet the ever-changing needs of
+   McMinnville’s expanding work force.                                          ,
+
+   GOAL IV-4: TO PROMOTE THE DOWNTOWN AS A CULTURAL,
+   ADMINISTRATIVE, SERVICE AND RETAIL CENTER OF McMINNVILLE.
+
+   Proposed Findings: The proposal is to provide a suitable site for a second high school. The
+   existing high school requires extensive remodeling or demolition in order to meet the needs
+   of high school students who will live on the east side of Highway 99W, and in the Lafayette
+   area. The existing high school site will continue to be used by the District and will continue
+   to complement Downtown’s cultural, administrative and service functions.
+
+   GOAL IV-6: TO INSURE INDUSTRIAL DEVELOPMENT THAT MAXIMIZES
+   EFFICIENCY OF LAND USES, THAT IS APPROPRIATELY LOCATED IN
+   RELATION TO SURROUNDING LAND USES, AND THAT MEETS NECESSARY
+   ENVIRONMENTAL STANDARDS.
+
+       Policy 49: The City of McMinnville shall use its zoning and other regulatory methods
+                  to prevent encroachment into industrial areas by incompatible land uses.
+
+   Proposed Findings: The proposed high school, if located within or near an industrial area,
+   would violate this policy. As noted above, a high school is a noise sensitive use that could be
+   adversely affected by existing and allowable industrial activity.
+
+   Chapter VI:       Transportation System
+
+   GOAL VI-1: TO ENCOURAGE DEVELOPMENT OF A TRANSPORTATION
+   SYSTEM THAT PROVIDES FOR THE COORDINATED MOVEMENT OF PEOPLE
+   AND FREIGHT IN A SAFE AND EFFICIENT MANNER.
+
+      _Policy 105:    The City of McMinnville shall examine the impacts of transportation
+                      proposals involving bus and/or rail terminals on surrounding land uses.
+
+       Policy 105.5: The City of McMinnville shall take into account driving and walking
+                    distances to schools when reviewing the design of future residential
+                    developments. Preferred designs would make those distances less than one
+                    mile where possible
+
+Proposed Findings: As noted repeatedly in this Narrative, the proposed high school site is
+located within the adopted Northwest Activity Center, which takes into account driving and
+walking distances to schools. Even under the LCDC-acknowledged Comprehensive Plan, the
+proposed high school is centrally located relative to existing and planned residential development
+
+                       McMinnville School District Application Narrative
+                       Prepared by Winterbrook Planning + February 24, 2005 « Page 34
+                     oe           ae                                                       tLe   84   PACE   666
+
+in West McMinnville.            (See, for example, Map I, Northwest Sub-Area Proximity to Services
+(MGMUP Figure 105.)
+
+       Policy 106:        The City of McMinnville, through public and private efforts, shall
+                          encourage provision of facilities and services to meet the needs of the
+                          transportation disadvantaged.
+
+Proposed Findings: The proposed high school site is located along a planned transit street, and
+has both arterial and collector street access. The site allows for parking to be access directly
+from an extension of NW Wallace Road, and for parking to be designed to meet the needs of the
+transportation disadvantaged.
+
+       Policy 117:        The City of McMinnville shall endeavor to insure that the roadway
+                          network provides safe and easy access to every parcel.
+
+Proposed Findings: By locating the high school along an arterial street, and allowing for the
+extension of Wallace Road to serve the site and (eventually) land within the planned Northwest
+Activity Center west of NW Hill Road, this policy is met.
+
+       Policy 118:        The City of McMinnville shall encourage development of roads that
+                          include the following design factors:
+                          1. Minimal adverse effects on, and advantageous utilization of, natural
+                             features of the land.
+
+Proposed Findings: The existing arterial (NW Hill Road) and the proposed extension of NW
+Wallace Road, have no adverse impacts on natural land features.
+
+                          2.     Reduction in the amount of land necessary for streets with
+                                 continuance of safety, maintenance, and convenience standards.
+
+Proposed Findings: The District will dedicate sufficient, but not excessive land to allow for
+City safety, maintenance and convenience standards to be met.
+
+                     3.        Emphasis placed on existing and future needs of the area to be serviced.
+                                The function of the street and expected traffic volumes are important
+                               factors
+
+Proposed Findings: NW Hill and Wallace Roads are adequate to accommodate the needs of
+the proposed high school, as documented in Appendix E, Transportation Impact Study.
+
+                     4.        Consideration given to incorporating other modes of transportation
+                               (public transit, bike and footpaths).
+
+                           McMinnville School District Application Narrative
+                          Prepared by Winterbrook Planning * February 24, 2005 ° Page 35
+                  * KRG                                                                   cin SA. race   667
+Proposed Findings: In planning for NW Hill Road, the City considered the needs of the high
+school by making NW Hill Road a transit street with planned bicycle lanes and pedestrian
+facilities. *
+                       3.        Installation of bike lanes on major collector and arterial streets and bike
+                                 parking areas.
+
+Proposed Findings: Bike lanes are planned for NW Hill Street and will be provided along the
+extension of NW Wallace Road.
+
+                       6.        Installation of sidewalks on both sides of all streets and direct pedestrian
+                                 connections to all buildings and shopping centers.
+
+Proposed Findings: The District will assume responsibility for installing sidewalks along NW
+Hill and Wallace Road frontages.
+
+                       7.        Accommodation of buses operating on collector and arterial streets by
+                                 providing adequate radius curb return and bus stop areas.
+
+Proposed Findings: The property high school site has adequate space to allow for required
+right-of-way dedications, and to accommodate public transit service on NW Hill Road.
+
+         Policy 119:        The City of McMinnville shall encourage utilization of existing
+                            transportation corridors wherever possible before committing new lands.
+
+Proposed Findings: The proposed high school makes use of existing streets at access the
+school, including NW Wallace and Hill Roads.
+
+         Policy 120:        The City of McMinnville may require limited and/or shared access points
+                            along major and minor arterials, in order to facilitate safe access flows.
+
+         Policy 122:        The City of McMinnville shall encourage the following provisions for
+                            each of the three functional road classifications:
+                            I.     Major, minor arterials.
+                                   "   Access should be controlled, especially on heavy traffic-generating
+                                       developments                                                             |
+                                   "   Designs should minimize impacts on existing neighborhoods.               |
+                                   "   Sufficient street right-of-ways should be obtained prior to
+                                       development of adjacent lands.
+                                   "    On-street parking should be limited wherever necessary.
+                                   «   Landscaping should be encouraged along public rights-of-way.
+                                   "   Bike lanes should be installed on all arterials.
+
+                             McMinnville School District Application Narrative
+                             Prepared by Winterbrook Planning   February 24, 2005 « Page 36
+                         ws,                                                             cin BA vce BEE
+Proposed Findings: The high school site lends itself well to conformance with Policy 122, by
+allowing access to planned parking areas from the extension of NW Wallace Road, which allows
+for limited access on to NW Hill Road, a planned arterial street Bike lanes are planned for NW
+Hill Road consistent with this policy.
+
+       Policy 125.5:     The City of McMinnville shall implement a ring road around the City to
+                         reduce through traffic and truck traffic within existing neighborhoods.
+
+Proposed Findings:       NW Hill Road helps to implement the ring-road policy.
+
+       Policy 127:     The City of McMinnville shall encourage the provision of off-street
+                       parking where possible, to better utilize existing and future roadways and
+                       rights-of-way as transportation routes.                                   ‘
+
+Proposed Findings: The existing high school lacks sufficient parking to meet this policy.            The
+proposed high school site, at 42 acres, includes sufficient space for planned parking.
+
+       Policy 130:     The City of McMinnville shall encourage development of bikeways that
+                       connect residential areas to activity areas such as the downtown core,
+                       areas of work, schools, community facilities, and recreation facilities.
+
+Proposed Findings: Planned bikeways along NW Hill Road will connect the high school to
+nearby shopping, residential and recreational facilities within West McMinnville and the planned
+Northwest Activity Center.
+
+       Policy 132.10     The City of McMinnville shall require direct pedestrian connections to
+                         all buildings including shopping centers.
+
+Proposed Findings: Direct pedestrian access will be provided from main high school entrances
+to NW Hill Road and NW Wallace Road, as required by this policy.
+
+    Chapter Vil:     Community      Facilities
+
+    GOAL VII-1: TO PROVIDE NECESSARY PUBLIC AND PRIVATE FACILITIES
+    AND UTILITIES AT LEVELS COMMENSURATE WITH URBAN
+    DEVELOPMENT, EXTENDED IN A PHASED MANNER, AND PLANNED AND
+    PROVIDED IN ADVANCE OF OR CONCURRENT WITH DEVELOPMENT, IN
+    ORDER TO PROMOTE THE ORDERLY CONVERSION OF URBANIZABLE AND
+    FUTURE URBANIZABLE LAND TO URBAN LANDS WITHIN THE
+    McMINNVILLE URBAN GROWTH BOUNDARY.
+
+        Policy 136: The City of McMinnville shall insure that urban developments are
+                     connected to the municipal sewage system pursuant to applicable city,
+                     state, and federal regulations.
+
+                        McMinnville School District Application Narrative
+                        Prepared by Winterbrook Planning « February 24, 2005 ° Page 37
+                                                                                     FILH   84   PACE   669
+
+Proposed Findings: The proposed high school has direct access to sanitary sewer facilities
+located in NW Hill Road.
+
+       Policy   151:   The City of McMinnville shall evaluate major land use decisions, a
+                       including but not limited to urban growth boundary, comprehensive plan
+                       amendment, zone changes, and subdivisions using the criteria outlined
+                       below:
+                       ve Sufficient municipal water system supply, storage and distribution
+                          facilities, as determined by the City Water and Light Department, are
+                           available or can be made available, to fulfill peak demands and insure
+                          fire flow requirements and to meet emergency situation needs.
+                           Sufficient municipal sewage system facilities are available, or can be
+                           made available, to collect treat, and dispose of maximum flows of
+                           effluents.
+                           Sufficient water and sewer system personnel and resources, as
+                           determined by the Water and Light Department and City, respectively
+                           are available, or can be made available, for the maintenance and
+                           operation of the water and sewer systems.
+                           Federal, state and local water and waste water quality standards can
+                           be adhered to.
+                           Applicable policies of the Water and Light Department and the City
+                           relating to water and sewer systems, respectively, are adhered to.
+
+Proposed Findings:      See discussion under Part II, Goal 14, Factor 3 of this Narrative.
+
+    GOAL VII-3: TO PROVIDE FOR PARKS AND RECREATION FACILITIES, OPEN
+    SPACES, AND SCENIC AREAS FOR THE USE AND ENJOYMENT OF ALL
+    CITIZENS OF THE COMMUNITY.
+
+        Policy 161:    The City of McMinnville shall encourage the retention of open space and
+                       scenic areas throughout the community, especially at the entrances to the
+                       city.
+
+Proposed Findings: The proposed high school sites is of adequate size to accommodate a wide
+range of athletic fields which will serve as open space for the surrounding community. At this
+point, the high school site will serve as an “entrance to the City” from the northwest. In the long-
+term, the high school will be more central to the planned Northwest Activity Center.
+
+        Policy 162:     The City of McMinnville and School District 40 shall endeavor to jointly
+                       cooperate in the acquisition, development and maintenance of combined
+                       park and school sites wherever desired, feasible, and mutually agreeable
+                       to both parties.
+
+                        McMinnville School District Application Narrative
+                        Prepared by Winterbrook Planning * February 24, 2005 * Page 38
+            BA. wu                                                                       an Bowe BOO
+Proposed Findings:        See discussion in Part II, Goal 2 of this Narrative. City staff have
+coordinated closely with District staff in the acquisition of the proposed high school site, both in
+1996 and when the site was expanded in 2005. As noted above, the District has an IGA with the
+City for joint use of school and park recreational facilities.
+
+       Policy 168:      Distinctive natural features and areas shall be retained, wherever possible, in future
+                        urban developments.
+
+Proposed Findings: The proposed high school site is flat and has not distinct natural features,
+other than the Star Mill Ditch. This irrigation facility is protected by an easement and will not be
+disturbed by high school construction.
+
+       Policy 169:      Drainage ways in the City shall be preserved, where possible, for natural areas and o
+                        spaces and to provide natural storm run-off.
+
+Proposed Findings:        As noted above, the Star Mill Ditch will be preserved for its open space
+and buffering values.
+
+    Chapter IX:   _ Urbanization
+
+    GOAL IX-1:        TO PROVIDE ADEQUATE LANDS TO SERVICE THE NEEDS OF
+                      THE PROJECTED POPULATION TO THE YEAR 2000, AND TO
+                      INSURE THE CONVERSION OF THESE LANDS IN AN ORDERLY,
+                      TIMELY MANNER TO URBAN USES.
+
+    GOAL IX-2:        TO ESTABLISH A LAND USE PLANNING FRAMEWORK FOR
+                      APPLICATION OF THE GOALS, POLICIES, AND PROPOSALS                          OF
+                      THE McMINNVILLE COMPREHENSIVE PLAN.
+
+       Policy 181:      The City of McMinnville shall establish an urban growth boundary to
+                        separate rural lands from urbanizable and urban lands. Lands within the
+                        boundary shall be deemed necessary for urban development within the
+                        planning period, except those designated as reserve areas.
+
+Proposed Findings: Under this proposal, the UGB will continue to separate rural from
+urbanizable and urban lands. It is anticipated that the UGB will be further amended in this area
+prior to high school construction. As demonstrated in Sections I.B-C, there is an immediate need
+to include the site within the UGB, so that annexation may proceed later in 2005.
+
+        Policy 182:     Amendments to the Urban Growth Boundary may be considered
+                        periodically. The City of McMinnville and Yamhill County shall consider
+                        amendments to the boundary based on the following criteria:
+                        I. Demonstrated need to accommodate long-range urban population
+                            growth requirements consistent with LCDC goals.
+
+                         McMinnville School District Application Narrative
+                        Prepared by Winterbrook Planning « February 24, 2005 « Page 39
+                                                                                   run B4 rmce G74
+
+                      2, Need for housing, employment opportunities, and livability.
+                          Orderly and economic provision for public facilities and services.
+
+                     ye
+                      4. Maximum efficiency of land uses within and on the fringe of the
+                         existing urban area.
+                      5. The long term environmental, energy, economic, and social
+                         consequences of the locality, the region, and the state as the result of
+                         allowing urbanization and not preserving and maintaining the land
+                         for agricultural or forest uses, whichever is applicable.
+                      6. Retention of agricultural land as defined, with Class I being the
+                         highest priority for retention and Class IV the lowest priority.
+                          Compatibility of the proposed urban uses with other adjacent uses.
+                     N
+
+                      8 Demonstration that there are no alternative locations within the area
+                         which could better be used for the proposed uses.
+
+Proposed Findings: These eight factors are addressed in Part II, under the discussion of Goal
+14, Factors 1-7 and ORS 197.298 compliance.
+
+       Policy 186:    The City of McMinnville shall place planned development overlays on
+                      areas of special significance identified in Volume I of the McMinnville
+                      Comprehensive Plan. Those overlays shall set forth the specific
+                      conditions for development of the affected properties. Areas of
+                      significance identified in the plan shall include but not be limited to:
+                            Three Mile Lane (north and south.
+                     RWND
+
+                            Martin/Kauer Industrial Reserve Area.
+                            Barber property.
+                            West Hills area.
+                            Commercial areas at the northern and southern entrances to the city.
+                     AM
+
+                            New industrial areas, certain existing industrial areas.
+
+Proposed Findings: One (among several) of the reasons why the West 2” Street site was
+eliminated from consideration was limitations placed on water service in the West Hills area.
+(See Map F, Northwest Sub-Area Development Constraints.)
+
+   Chapter X:    _ Citizen Involvement and Plan Amendment
+
+   GOAL X-1: TO PROVIDE OPPORTUNITIES FOR CITIZEN INVOLVEMENT IN
+   THE LAND USE DECISION MAKING PROCESS ESTABLISHED FOR THE CITY
+   OF McMINNVILLE.
+
+       Policy 188: The City of McMinnville shall continue to provide opportunities for citizen
+                    involvement in all phases of the planning process. The opportunities will
+                    allow for review and comment by community residents and will be
+                    supplemented by the availability of information on planning requests and
+
+                       McMinnville School District Application Narrative
+                       Prepared by Winterbrook Planning * February 24, 2005 * Page 40
+             PO        wha!                                                                    =   84 ince B72
+
+                         the provision of feedback mechanisms to evaluate decisions and keep
+                         citizens informed.
+
+Proposed Findings: This Comprehensive Plan and UGB amendment must be approved by both
+the City and County, following public hearings in both jurisdictions. The amendment process
+will be consistent with Ordinance No. 4125 relative to citizen involvement. These procedures
+have been acknowledged by the Land Conservation & Development Commission as complying
+with Statewide Planning Goal 1.
+
+         Policy 189: The City of McMinnville shall establish procedure for amending the
+                         Comprehensive Plan, Volumes I and IL, and the implementation
+                         ordinances and measures in Volume I, which allow for citizen review
+                         and comment
+
+Proposed Findings: Ordinance No. 4125 includes such procedures.
+
+         Policy 190:      The City of McMinnville shall continue to engage citizens in community
+                         Advisory positions for input on the major elements of the comprehensive
+                         plan. An ongoing Citizens’ Advisory Committee, made up of
+                         representatives of all geographical areas of the City, shall hold public
+                         forums on major comprehensive plan text and map amendments and
+                          changes in the urban growth boundary and/or urban growth management
+                          agreement text.
+
+Proposed Findings: Ordinance No. 4125 provides for active engagement of the Citizens’
+Advisory Committee (CAC) in the comprehensive plan amendment process.
+
+B. Compliance with Yamhill County Comprehensive Plan Goals and
+   Policies
+
+The following narrative documents the conclusion that the proposed Comprehensive Plan and
+Zoning Map amendments and the UGB amendment are consistent with the applicable goals and
+policies of the Yamhill County Comprehensive Plan.
+
+    Section I.          Urban Growth And Change And Economic                    Development
+
+    A,    URBAN AREA DEVELOPMENT GOAL STATEMENT
+          1. To encourage the containment of growth within existing urban centers, provide for
+             the orderly, staged, diversified and compatible development of all of the cities of
+             Yamhill County, and assure an efficient transition from rural to urban land use.
+
+    Policies
+
+                              McMinnville School District Application Narrative
+                              Prepared by Winterbrook Planning * February 24, 2005 ° Page 41
+                                                                                     ru BA vce BIT"
+        a.    Yamhill County will, in cooperation with the cities and special districts of the
+              county, encourage urban growth to take the form of a series of compact, balanced
+              communities, each with its own business and community center and each related to
+              industrial areas and other centers of employment.
+
+        b.     Yamhill County will cooperate and coordinate with each of the cities in the
+               development of urban growth boundaries and will adopt an urban area growth
+               management agreement with each city which outlines a growth management plan
+              for unincorporated areas within the boundary and the means by which the
+               boundary can be modified.
+
+        ce. Yamhill County will recognize the lands within established urban growth
+         ‘boundaries as the appropriate and desired location for urban development.
+
+   2.   To encourage the containment of urban services and facilities and other public capital
+        improvements within existing urbanizing areas in order to achieve an orderly pattern
+        of urban growth.
+
+   Policies
+       a. Yamhill County will continue to seck full cooperation and coordination among the
+             cities, the school districts, other special-purpose districts of the county and the
+             county itself in jointly planning and programming all land use, urban services and
+            facilities and other public improvements having an impact on the rate and direction
+             of urban growth.
+
+Proposed Findings: Coordination and urbanization issues are addressed in Part IJ under Goal 2
+and 14 proposed findings. The MUAMC and County review of the proposed amendment
+package will further ensure compliance with the above goals and policies.
+
+   D.   CITY GROWTH AND DEVELOPMENT POLICIES
+        a. All urban growth boundaries in the county will be delineated as shown on the plan
+           map and no extension of urban land uses or city water and sewer services beyond
+           the designated urban growth boundaries will be undertaken without concurrent
+           amendments to both the respective city and county comprehensive plans.
+
+         b.   Yamhill County will encourage major land uses or functional areas and domestic
+              water supply and sanitary sewer service areas in the cities to develop progressively
+              outward and to be extended on a staged basis until they become coextensive with
+              and fully service the designated urban area.
+
+Proposed Findings: These polices are addressed in Parts I, II and III of this Narrative,
+especially under the Part I, Goal 2 and 14 discussion. Urban sanitary sewer and water lines abut
+
+                        McMinnville School District Application Narrative
+                        Prepared by Winterbrook Planning * February 24, 2005 * Page 42
+ ¥    py        eM      ot                                                                    SILA   84   PACE   G74
+
+the proposed high school site, and urban development has occurred across the NW Hill Road
+from the proposed high school site.
+
+     F.    ECONOMIC DEVELOPMENT              GOAL STATEMENT
+           1. To maintain a rate and pattern of economic growth sufficient to prevent recurring
+              high levels of unemployment and under-employment in the county, balance the real
+              property tax base of the various cities, and strengthen local economic bases. (92) R
+
+     Policies
+         a. Yamhill County will, in cooperation with the cities, the local chambers of
+              commerce and affiliated industrial promotion groups, and State agencies
+              concerned with State and regional economic development, encourage a diversified
+              employment base, the strengthening of trade centers, and the attraction of both
+              capital and labor intensive enterprises, consistent with the needs of each
+                community and the county as a whole.
+
+           b.   Yamhill County will encourage economic development projects which do not
+                conflict with the predominant timber and agricultural character of the county.
+
+     Proposed Findings: As noted above, the proposed high school will play a vital role in
+     educating McMinnville’s student population, which in turn will contribute to the
+     community’s economy and financial well-being.
+
+     Section Il.       The Land and Water
+
+     A,    AGRICULTURAL LANDS GOAL STATEMENT
+           1. To conserve Yamhill County's farm lands for the production of crops and livestock
+              and to ensure that the conversion of farm land to urban use where necessary and
+              appropriate occurs in an orderly and economical manner.
+
+     Policies
+         a. Yamhill County will provide for the preservation of farm lands through appropriate
+                zoning, recognizing comparative economic returns to agriculture and alternative
+                uses, changing ownership patterns and management practices, changing market
+                conditions for agricultural produce, and various public financial incentives.
+
+Proposed Findings:            The proposed UGB and Comprehensive Plan amendment will further
+these policies by recognizing the comparative economic returns for a high school when compared
+with continued agricultural use of the subject property. As noted above, the high school will
+contribute substantially to the economic development efforts of the broader community.
+
+     Section Ill.     | Transportation, Communications and Public Utilities
+
+     A,    TRANSPORTATION GOAL                   STATEMENT
+
+                             McMinnville School District Application Narrative
+                             Prepared by Winterbrook Planning * February 24, 2005 * Page 43
+                                                                                          84   PACE   67D
+                                                                                   FILA
+
+         1.   To provide and encourage an efficient, safe, convenient and economic
+              transportation and communication system, including road, rail, waterways, public
+              transit and air, to serve the needs of existing and projected urban and rural
+              development within the county, as well as to accommodate the regional movement
+              of people and goods and the transfer of energy, recognizing the economic, social
+              and energy impacts of the various modes of transportation.
+
+         e.   Yamhill County will cooperate with and support the State Highway Division, the
+              Mid-Willamette Valley Council of Governments, and any other county or regional
+              transportation agency in an effort to establish a viable and productive regional
+              transportation planning process and operations system geared to identifying,
+              prioritizing and resolving both present and future transportation needs, with
+              special reference to our county and regional network.
+
+Proposed Findings: The applicant’s transportation engineer has coordinated with Yamhill
+County and ODOT in the preparation of the TIS found in Appendix E.
+
+         k.   All county transportation-related decisions will be made in particular consideration
+              of energy efficiency and conservation.
+
+         o.   All transportation-related decisions will be made in support of the efficient and
+              economic movement of people, goods, and services throughout the region, and will
+              be based on the location and adequacy of facilities for such goods and services.
+
+Proposed Findings:       See discussion in Part II of this Narrative, under Goals 11-13 and Goal 14,
+Factor 3.
+
+    Section V.      _ Environmental Quality
+
+    A,   AIR, WATER AND LAND RESOURCES QUALITY GOAL STATEMENT
+         1.   To conserve and to protect natural resources, including air, water, soil and
+              vegetation and wildlife, from pollution or deterioration which would dangerously
+              alter the ecological balance, be detrimental to human health, or compromise the
+              beauty and tranquility of the natural environment.
+
+Proposed Findings: There are no Goal 5 resources on the subject 42-acre site. McMinnville
+Public Schools will comply with applicable state and federal environmental quality standards
+during the construction and maintenance of the high school.
+
+                        McMinnville School District Application Narrative
+                        Prepared by Winterbrook Planning + February 24, 2005 * Page 44
+                                                                        wn S4(ng08
+Map 1: Alternative Sites Analysis Map with District Facilities
+
+                                                        8     High school
+                                                        /\/   Streets
+                                                           2003 Adopted UGB
+                                                        [J Acknowledged UGB
+                                                        [|    Acknowledged UGB Amendments
+                                                         |    Floodplain
+                                                              School / College Properties
+                                                        |_| Potential sites inside UGB
+                                                        [==4 Potential Sites Outside UGB
+
+                                                         Winterbrook Planning
+                                              4 Miles    February           21, 2005
+        Ee)
+
+                                 RS
+                     ‘
+oe
+     |a:
+     SSS   _._ Baker Creek Raj ”   pied
+
+                                                                            aa
+                                                            Le
+                                                                                           Railroad
+
+                                                             (Bea PEERS!
+                                                                     gue E EE
+                                          41, Wallace Rd-
+
+                                                                         i SEM
+                                                                                     z=]
+                                                                              Oe mn EEE
+                                                                                    Hi
+
+                                                                                                      “LEGEND |
+                                                                                                              Planned Transit Rouies
+                                                                                                       £<F 500 Foot Buffer
+                                                                                                       Buildable Land within 500 Feet of
+                                                                                                       the Planned Transit Routes
+       os       idan   Ro —                                                                               “Partially Vacant
+                                                                                                        2     Vacant
+                                                                                                            , Urban Growth Boundary
+
+                                                                                                            4000       2000 Feet
+                                                                                                                                   a
+                          Fum ®Y   706
+                                                                 run 84 ce 7064.
+Map 3: Slopes by Soil Types
+
+                                                        Streets
+                                                        2003 Adopted UGB
+                                                   [_] Acknowledged UGB
+                                                   Slopes over 5%
+                                                        CaC: 7-12% Slope
+
+                       adSy                        (|   CaD: 12-20% Slope
+                                                   (ii]] DuD: 12-20% Slope
+                                                   |__| PaD: 4-20% Slope
+           Future Hi                                   [|] SuD: 5-20% Slope
+                                                        Te: Terrace Escarpments
+
+                                                   =
+           Scho
+                                                   (ii] WeD: 12-20%
+                                                           WeE: 20-30%
+                                                   (iii]]| WkD: 7-20%
+                                                   (| WID: 12-20%
+                                                   ~ = | WuC: 7-12%
+                                                   (i} WuD: 12-20%
+
+                                              ea
+      Fe
+                                                   “=| YaC: 7-12%
+                                                   [ii] YaD: 12-20%
+                                                   WN YaE: 20-30%
+                                                   (WW) YaF: 30-50%
+                                                   (| ¥YhD: 7-20%
+                                         il
+                                                   “]   Acknowledged UGB Amendm      nt
+                                                       Potential Sites Outside UGB
+                                                   [Ej Potential sites inside UGB
+
+                                                   Winterbrook Planning
+                                                                              N
+                                                   February 21, 2005
+
+                                                                          W
+                                                             6    Miles
+                                                             ria, SA: ce “107
+Map 4: Highways and Industrial Areas
+
+    Future Hi         .
+    Scho      i           Ke
+
+                                             [__] 2003 Adopted UGB
+                                                  Acknowledged UGB
+                                                  Acknowledged UGB Amendments
+                                                  High school
+                                                  Streets
+                                                  Potential sites inside UGB
+                                                  Potential Sites Outside UGB
+
+                                             Winterbrook Planning          N
+                                             February 21, 2005
+
+                  0            2   4 Miles
+                                                                       un 84 vce 708
+Map 5: Exceptions Areas and Development Patterns
+                                                       /\/   Streets
+                                                             2003 Adopted UGB
+                                                       [__] Acknowledged UGB
+                                                             Acknowledged UGB Amendments
+                                                       [ij Riverside-developed
+                                                       fl Riverside south
+                                    a                  (il Riverside-developed
+                                                       [i  Riverside-north
+                                                       (i  Oldsheridan-developed
+                      EN                               [il Old Sheridan Road
+                                                       [i  Boothbend-developed
+                                                           Booth Bend Road
+                                                       (Gj Bunnsvill-developed
+                                                       (9 Bunns Village
+
+                                                    Winterbrook Planning
+                                                    February 21, 2005
+
+                  @             /
+                           al
+
+             Cy
+
+     L                |
+         0             2                4   Miles
+                                                                   rin 84 mee 709
+INTRODUCTION
+The purpose of this Appendix is to identify sites within and adjacent to the McMinnville UGB
+that could potentially meet the McMinnville School District’s siting needs for a new high school.
+This alternative sites analysis supports findings of compliance with Statewide Planning Goals 2
+(Land Use Planning) and 14 (Urbanization) for the McMinnville School District’s application ts
+a UGB amendment for a new high school site.
+
+Data Sources
+2002 McMinnville Buildable Lands Analysis
+2004 McMinnville Growth Management Plan
+City of McMinnville GIS data layers.
+
+Alternative Sites Evaluation Process
+In the Application Narrative, Winterbrook evaluates alternative sites based on:
+     " The school siting requirements found in this document under “Siting Requirements”
+        below (Goal 14 Need Factors 1-2), and
+     " Agricultural land preservation priorities established by ORS 197.298, the Exceptions
+        Rule (OAR Chapter 660, Division 4) and Goal 14 Locational Factor 6 (agricultural soil
+        classification); and
+     " The public facilities, urbanization, ESEE consequences, and agricultural land
+        compatibility standards of Goal 14, Factors 3-5 and 7.
+
+This document considers alternatives sites (i.e., groups of parcels) within the acknowledged
+UGB, and alternative sub-areas outside the acknowledged UGB, that potentially could meet
+the District’s high schools siting requirements as described in Part I of the Application
+Narrative.
+
+McMinnville School District High School Siting Requirements
+The following requirements must be met for a suitable high school site; that is, if any of these
+requirements are not met a site is deemed unsuitable for high school use.
+
+   1.   The site must be located on west side of Highway 99W to serve McMinnville’s
+        primary residential growth area.
+           a. Existing high school on east side of Highway 99W.
+           b. District attendance at elementary and middle schools based need to avoid crossing
+                Highway 99W for safety reasons.
+           c. New growth concentrated on west side (especially Memorial and Grandhaven
+                Elementary Schools).
+           d. Minimizes vehicle miles traveled if located close to areas with residential growth
+                potential.
+           e. Minimizes congestion on Highways 99W and 18.
+
+   2.   The site must have approximately 40 net buildable acres (i.c., after accounting right-
+        of-way dedications, easements, wetlands, floodplain and slope constraints).
+
+                         Appendix D: Alternatives Sites Analysis
+                    Winterbrook Planning e February 2005 e Page 3
+                                                                                           run BA vce TO
+         aN         E>    ba     Raid
+
+              a.   This is consistent with the recommended high school site sizes found in Table 1
+                   of the Application Narrative.
+              b.   A 40-acre site would allow for high school construction and planned parking and
+                   athletic fields.
+
+         The site is within or adjacent to the existing McMinnville UGB and — in the case of
+         agricultural land — is included in the adopted (but not acknowledged) UGB' to:
+             a. Minimize sprawl and travel distance from residential growth areas; and
+             b.    Ensure availability of urban services (sanitary sewer, water, and storm drainage).
+
+         The site has direct access to a collector or minor arterial street with existing or
+         planned transit access. This siting requirements is necessary to:
+             a. Minimize traffic on local residential streets,
+             b. Provide alternative transportation for high school students and staff, while
+             c. Recognizing that a substantial number of high school students drive.
+
+         The buildable area of the site must be comprisedof slopes of 5% or less and have a
+         width of at least 600 feet.
+             a. A flat site is necessary for cost-effective building, parking and loading, and
+                 athletic field construction.
+             b. A width of at least 600 feet is necessary for a football field surrounded by a track
+                 and bleachers.
+
+         Site must be located at least one mile from the existing high school to minimize:
+              a.   Travel distance from residential areas; and
+             b.    Potential conflict between students at competing high schools.
+
+         Compatibility and Safety Requirements:
+             a. Avoid direct access to Highway 99W and Highway 18 for traffic safety
+                   reasons; and                                                 :
+             b.    Avoid location adjacent to industrial land to reduce adverse health, safety,
+                   noise and pollution impacts.
+
+         Timing: The site must be ready for high school construction within 2 years (i.e., by
+         2007) to address existing capacity issues:
+             a. Necessary urban services (arterial or collector street access, sanitary sewer, water
+                 and storm drainage) must be reasonably available; and
+             b. The site must be within or adjacent to the existing City Limits to ensure that
+                 annexation is feasible (subject to voter approval) within the next two years.
+
+" We considered two additional parcels abutting resources areas included within the 2003 UGB that otherwise meet
+the high school siting requirements, one parcel in the Northwest Sub-Area and one parcel in the Southwest Sub-
+Area. Both of these parcels meet the minimum buildable lot area requirement and are located along an arterial street
+(Hill Road).
+
+                              Appendix D: Alternatives Sites Analysis
+                         Winterbrook Planning e February 2005 e Page 4
+                                                                              run 84 rane C14
+
+IDENTIFY FEASIBLE SITES INSIDE THE ACKNOWLEDGED UGB
+
+Step 1:    Identify all contiguous parcels with 10 or more buildable acres (as defined by the City
+           of McMinnville’s 2002 Buildable Lands Inventory), to find sites of 40 or more
+           buildable acres within the Acknowledged UGB to address Siting Requirement 2.
+
+The McMinnville School District requires a site with approximately 40 buildable acres for a new
+high school. Winterbrook joined McMinnville’s 2002 Buildable Lands Inventory (BLI) data with
+the City’s parcel data layer to identify buildable parcels. Parcels with approved development
+applications since the 2002 BLI, identified by the City, were removed from the inventory.
+Winterbrook identified parcels with 10 or more available buildable acres to consider parcels that
+potentially could be consolidated to create a 40-acre or larger parcel. Identified sites that
+comprised a total of 40 or more buildable acres are shown on Map 1: Alternative Sites Analysis
+with District Facilities.
+
+As shown on Map 1, there are 2 sites (i.e.; combinations of parcels) within the acknowledged
+UGB with 40 or more acres. Both of these sites are west of Highway 99, meeting Siting
+Requirement 1. The two sites are detailed in Table 1 below.
+
+The two sites consist of:
+    e Four tax lots in North McMinnville along Grandhaven Road owned by Mr. Chegwn and
+       consisting of a total of 69 buildable acres. This site is identified as “Grandhaven South”
+       for the purposes of this analysis;
+    e Two tax lots to the West of Hill Road along West 2", owned by KHA Properties and Mr.
+       Howard, consisting of 78 total buildable acres. This site is identified as “West 2™” in this
+       analysis.
+
+Table 1: Sites with a0 Adjacent Buildable Acres,                acknowledged UGB
+Location, Tax Lots”              _ Owner                             _ Buildable Acres
+Grandhaven South
+R4409     04551                                Chegwyn                                 14
+R4409     04500                                Chegwyn                                 24
+R4409     04600                                Chegwyn                                 11
+R4410     02200                                Chegwyn                                 20
+North Total                                                                            69
+West 2"°
+R4524 00800              ——       “_KHA Properties                                     41
+/R441902500              ti‘ w#*#*SS~”CXWward                                          37
+‘West Total       —     oe                                                             78
+
+Step 2:    Determine arterial street and transit access for the potential sites to address Siting
+           Requirement 4.
+
+                           Appendix D: Alternatives Sites Analysis
+                      Winterbrook Planning e February 2005 e Page 5
+               me    by
+                                                                          sun BA one TA?(12 ~
+         |   dub    Ries   ¢ al   Wii
+ Potential sites must have direct access to a major collector or minor arterial street with planned
+ transit access per Siting Requirement 4. The draft McMinnville Transportation Systems Plan
+ classifies streets, while the 2003 McMinnville Growth Management and Urbanization Plan
+ (MGMUP) identifies transit corridors. Transit corridors were identified by the City and their
+ mapping is reproduced in Map 2.
+
+ Table 2 identifies the transportation facility characteristics of each of the sites. The Grandhaven
+ properties are served by Grandhaven Street, which is a minor collector. This site is outside of
+ designated transit corridors. The West 2" properties are served by Redmond Hill Road, which is
+ a local, unimproved road. The West 2" properties are outside of all marked transit corridors.
+
+ Table 2: Lis              aaa Access for Potential High School Sites
+Site      2.      =                     |   Street Access =              | Transit Corridor Access —
+ Grandhaven South                           Grandhaven Street —~ Minor     None
+                                            collector
+ West 2"°                                   Redmond Hill Road —Local,    | None
+                                            Unimproved
+
+ Step 3: Determine Slope and Width of subject sites, per Siting Requirement 5.
+
+ Siting requirement 5 addresses two physical characteristics of the site — slope and width.
+ Winterbrook used USGS topography and Yamhill County soil survey data to determine sloped
+ areas. Areas of greater than 5% slope are shown on Map 3: Slope by Soil Type. As shown on
+ Map 3 and Table 3 below, most of the Grandhaven South site is under 5% slope. However the
+ West 2" site consists primarily of slopes 5-30% or greater, as it is on a hill and interspersed with
+ meandering drainage ravines.
+
+ Both sites have significantly more than the 600’ width siting requirement.
+
+ Table 3: Slope and Width Determination for rons aL Hlgh School Sites
+Site     =.    =          | Area of 5% Slope or less = | Width
+ Grandhaven South                           Approximately 60 acres.        Over 2000°
+ West 27°                                   Approximately 15 acres.        Over 2000’
+
+ Step 4: Determine distance from existing high school per Siting Requirement 6.
+
+ Siting requirement 6 specifies that a site must be at least a mile from the existing high school in
+ order to minimize travel distance for students and reduce potential conflicts between students at
+ the two high schools. The Grandhaven South site is under a mile away from the existing high
+ school, at approximately 4,500 feet distance. The West 2” site is over a mile distant, located
+ approximately 10,100 feet from the existing high school. Map D shows the location of the two
+ sites relative to the existing high school.
+                                                                                               x
+
+ Table 4: Distance arenem Eiating High School
+| Site                                                      Distance from Existing High School _
+
+                                 Appendix D: Alternatives Sites Analysis
+                            Winterbrook Planning ¢ February 2005 e Page 6
+Be arr
+            hat
+            a
+                   os
+                  WG
+                                                                            FN, BA ce TP
+  Grandhaven South                                    ~4,500 feet, 0.85 miles
+  West 2™                                             ~10,100 feet, 1.91 miles
+
+  Step 5: Determine compatibility of the site with adjacent lands by identifying adjacent highways
+          or industrial lands, per Siting Requirement 7.
+
+  Siting Requirement 7 addresses compatibility of a school use with adjacent land uses. The school
+  district requires a site that is not adjacent to Highways 99 or 18, and not adjacent to land planned
+  for industrial uses. Map 4: Highways and Industrial Areas identifies highways and industrial
+  areas in McMinnville. As shown on Map 4 and Table 5, neither of the sites are adjacent to
+  Highways or industrial land.
+
+  Table 5: Compatibility withlAdigeont Lands
+ “Site”                           _| Adjacent to Highway 99 or 18 —
+  Grandhaven n South                No
+  West 2™                           No
+
+  Step 6: Determine feasibility of providing urban services and annexing the site within the next 5
+          years, per Siting Requirement 8.
+
+  Siting requirement 8 deals with how well and quickly the school district would be able to use the
+  site for school purposes, from a public services standpoint. The school district requires a site that
+  is suitable for construction and occupancy within the next 5 years, which requires immediate
+  annexation to the City. The Grandhaven South site is easily provided with urban services and
+  likely to be annexed if it would meet the requirements for siting a school. The West 2" site has
+  water service issues due to elevation. In order to serve the West 2" site with water,    anew
+  reservoir and pump station would have to be constructed. Due to these water service constraints,
+  the West 2” site is unlikely to meet 5 year occupancy requirement.
+
+  Table 6: reasiity for Development within 5 Years:
+                                   i Urban Services —                  en       ite
+  Grandhaven South                   Yes
+  West 2"                            Water service constraints         No
+
+  Summary of Potential Sites within the Acknowledged UGB
+  Table 7 describes how each of the potential sites meets or does not meet the siting requirements
+  in a matrix format. Cells with an “X” indicate the site meets the indicated requirement. As shown
+  in Table 7, the northern site meets 3 of the 5 siting requirements and the western site meets 2 of
+  the 5 siting requirements. Due to not meeting the siting requirements, neither of the potential
+  sites inside the UGB is suitable for siting a new high school.
+
+  As noted in Appendix E, Transportation Impact Study (TIS), development of the Grandhaven.
+  South site would have substantial adverse traffic impacts for which there is no practical
+
+                            Appendix D: Alternatives Sites Analysis
+                       Winterbrook Planning e February 2005 e Page 7
+   itPik        La. fins                                                         HLH     BA   once   Ui
+
+mitigation strategy. The Grandhaven South site also would require use of Highway 99W to
+reach a high school from most residential areas in McMinnville, which is not desirable from a
+traffic or safety standpoint.
+
+Table 7: Patontial Sites Summary Matrix
+‘Site                Arterial      : Transit   ae                            Compatibilit y Occupancy
+
+Grandhaven       |       -
+South
+West 2™                   =              -               -          x                x               -
+
+IDENTIFY FEASIBLE SITES WITHIN EXCEPTIONS AREAS
+
+Map 5: Exception Areas and Development shows available land within exceptions areas. There
+are no potential sites that contain 40 contiguous buildable acres within Exceptions areas and
+adjacent to the acknowledged UGB. Therefore, exceptions areas do not meet the identified siting
+needs of a new high school.
+
+IDENTIFY FEASIBLE SITES WITHIN OR ADJACENT                      TO THE COUNCIL-APPROVED
+UGB
+
+Step 1: Identify parcels with 10 or greater buildable acres within the adopted 2003 UGB       and
+        adjacent to the acknowledged UGB to address Siting Requirement 2.
+
+Winterbrook used the City’s parcel data layer to identify parcels of 10 acres or greater west of
+Highway 99W, adjacent to the acknowledged UGB and within the 2003 adopted UGB. These
+parcels are identified on Map 1.
+
+As shown on Map 1, there are three sub-areas within the Council-approved 2003 UGB and
+adjacent to the acknowledged UGB that total 40 or more acres among the adjacent parcels. All of
+these sub-areas are west of Highway 99W, meeting Siting Requirement 1. These three sub-areas
+consist of substantially more than 40 acres each. This allows for different combinations of tax
+lots to meet the 40+ acre school siting need. Where appropriate, this analysis will address the
+overall sub-area or individual tax lots in relation to siting requirements. The three sub-areas are
+detailed in Table 8 below.
+
+The Grandhaven North Sub-Area consists of about 160 buildable acres in two tax lots owned by
+Evergreen Agricultural and Evergreen Holdings. The sub-area is bordered to the north, west and
+east by the North Yamhill River, and to the south by the acknowledged UGB.
+
+                                Appendix D: Alternatives Sites Analysis
+                       Winterbrook Planning         e   February 2005   e   Page 8
+     \:   ange
+                 hae
+                 Lig 7   4   i i                                                      rink, BA vce. “25    iv
+
+ The Northwestern Sub-Area consists of about 170 buildable acres in four tax lots owned by Fox
+ Ridge LLC, the McMinnville School District, and the Abrams family. The site is bordered to the
+ east (Hill Road) and south by the Acknowledged UGB.
+
+ The Southwestern Sub-Area consists of about 185 buildable acres in 5 tax lots owned by
+ Evergreen Agricultural, the Martsolf family, and the Trent family. The site is bordered to the
+ north and east by the Acknowledged UGB, and to the west by Hill Road.
+
+ Table 8: Sites with 40+ Adjacent Buildable Acres, Adjacent to the Acknowledged
+ UGB                                            ;
+ Location, Tax Lots    =     Owner =                     Buildable Acres)
+ Grandhaven North
+ R440900100———                     sis     Evergreen Agricultural                          25
+ R4409 00101                                Evergreen Holdings                             133
+ Grandhaven North Total                                                                    158
+ Northwest
+ R4418 00700                                      Fox Ridge                              49 (39)
+ R4418 00701*                            McMinnville School District                     32 (42)
+ R4418 01000*                                    Abrams, M.                                 51
+/-R4418 01100                                  ~ Abrams, R.                                 39
+|Northwest Total                                                                           171
+ Southwest
+ R4430 00300                               Evergreen Agricultural                          13
+ R4430 01100                                       Martsolf                       d        32
+ R4430 01200                                   ~ Trent, C.                                 37
+ R4430 01400                                       Trent, J.                               49
+ R4430 01500                               Evergreen Agricultural        i                 49
+ Southwest Total                                       aes                   aa            185
+ * Tax Lot acreage following property line adjustment shown in parentheses.
+
+ Step 2: Determine transit access for the potential sites.
+
+ Potential sites must have direct access to a collector or minor arterial street with planned transit
+ access per Siting Requirement 4. The McMinnville Transportation Systems Plan identifies street
+ classifications, while the 2003 MGMUP         identifies transit corridors. Transit corridors are shown
+ on Map 2.
+
+ Table 9 identifies the transportation facility characteristics of each of the three sub-areas. The
+ Grandhaven North Sub-Area is accessed by three local streets - Hembry, McDonald, and Newby
+ —and Grandhaven Drive, a minor collector. There is no transit corridor identified on or adjacent
+ to this site. The Northwest Sub-Area lies adjacent to Hill Road, a minor arterial street. There is a
+ transit corridor associated with Hill Road, so this sub-area has transit corridor access. The
+ Southwest Sub-Area is adjacent to Old Sheridan Road and Hill Road — both minor arterials, but
+ none of the Southwest sub-area is within or adjacent to a transit corridor.
+
+                              Appendix D: Alternatives Sites Analysis
+                         Winterbrook Planning e February 2005 e Page 9
+                                                                                 ‘Hh   84      “ACE   116
+   Pa       ge BO wai
+
+ Table 9: Transportation Access for Potential High Schpol Sites
+/Sub-Area        ss =    | Street Access               -| Transit Corridor Access -
+Grandhaven North                 Hembry Street; McDonald           No
+                                 Street; Newby Street— All
+                                 Local Streets
+                                 Grandhaven Drive — Minor
+                                 Collector Street
+Northwest                        Hill Road — Minor Arterial        Yes
+Southwest                        Old Sheridan Road; Hill Road     | No
+                                 — Minor Arterial Streets
+
+Step 3: Determine Slope and Width of subject sites, per Siting Requirement 5.
+
+Winterbrook determined the area slopes of less than 5%, using USGS maps and Yamhill County
+Soil Survey information. Winterbrook also measured the width of potential school sites. As
+shown on Map 3 and Table 10, many of the tax lots within the study areas have some slopes.
+After accounting for slopes of 5% or greater, all of the sites continue to be large enough to
+accommodate school needs, however some tax lots are not large enough, individually, to meet
+high school acreage needs.
+
+Table 10: Slope and Width Determination for Potential High Schoo! sites
+‘Sub-Area, Tax Lots.           Area of5% Slopeorless.              Width —
+Grandhaven North
+R4409 00100                                      21.3                                   ~800”
+R4409 00101                                       115                                  ~1,400°
+Grandhaven North Total —                          136                                                       |
+Northwest
+| R4418 00700*                             35.8 (25.8)                                 ~500
+R4418 00701*                                 32 (42)                                    ~900’
+R4418 01000                                     51                                     ~1100’
+R4418 01100                                    35.3                                     ~600”
+Northwest Total                                   143
+Southwest
+R4430 00300                                      13.3                                  ~300°
+R4430 01100                                      IT                                    ~1,000°
+R4430 01200      |       -                       31.1         ;                        ~1,200°
+R4430 01400                                      46.9                        -          ~700’
+R4430 01500                                       “49                    -             ~1,100°
+Southwest Total                                   168
+* Buildable tax lot acreage following property line adjustment shown in parentheses.
+
+                           Appendix D: Alternatives Sites Analysis
+                     Winterbrook Planning e February 2005 e Page 10
+                                                                                  FILH   $4   Pack   (47
+ Mae
+   ay
+               BA ae
+
+Step 4: Determine distance from existing high school per Siting Requirement 6.
+
+All of the tax lots within the potential sites meet the 1-mile distance siting requirement. The
+relationship of the sites to the existing high school is shown in Map 1 and Table 11.
+
+Table 11: Distance from tExisting all School
+Sub-Area                        ==                | Distance from Existing High School —
+Grandhaven North                                    ~6,400 feet, 1.21 miles
+West                                                   ~7,800 feet, 1.48 miles
+Southwest                                              ~10,200 feet, 1.93 miles
+
+Step 5:   Determine compatibility of the site with adjacent lands by identifying adjacent
+          highways or industrial lands, per Siting Requirement 7.
+
+None of the potential sites are adjacent to Highways 99W or 18, or adjacent to industrially-
+planned land, as shown on Map 4 and Table 12. Thus, all potential sites meet this siting
+requirement.
+
+Table 12: Sompatinilty with Adjacent Lands
+Sub-Area                        |      Adjacent to Highway 99 or 18
+Grandhaven N orth                    No
+Northwest                            No
+Southwest                            No
+
+Step 6:    Determine feasibility of providing urban services and annexing the site within the next
+          5years, per Siting Requirement 8.
+
+All of the sub-areas are within the 2003 adopted UGB areas, and all are adjacent to the
+McMinnville City Limits along at least some portion of their borders. The City analyzed the
+serviceability of all of its approved UGB expansion areas in the 2003 MGMUP appendices. All
+of the sites can be served efficiently and may be annexed subject to voter approval.
+
+Table 13: ih         td for Pevelopment within 5 Years:
+Sub-Area -       :     ae           | Urban Services
+Grandhaven North                  Yes
+Northwest                         Yes
+Southwest                     . | Yes
+
+                           Appendix D: Alternatives Sites Analysis
+                     Winterbrook Planning e February 2005 e Page 11
+                          ab          |                                       run BA vce 148
+
+Summary of Potential Sites Adjacent to the Acknowledged UGB
+
+Table 14 describes how each of the potential sites meets or does not meet the siting requirements
+in a matrix format. Cells with an “X” indicate the sub-area meets the indicated requirement. All
+of the sites meet slope, wide, distance, compatibility and feasibility requirements. However, the
+Grandhaven North and the Southwest Sub-Areas lack transit access, failing that requirement. In
+addition, the Grandhaven North Sub-Area does not have minor arterial or major collector access,
+so the transportation system is underdeveloped to serve a high school in that location. Only the
+Northwest Sub-Area meets all of the siting requirements.
+
+Table 14; Potential Sites Summary Matrix
+                                                         One   Mile | Compatibility   | Feasible for -
+                                                           om- ~     | with              c
+
+Grandhaven
+North
+Northwest             x          x            x                x              x              x
+Southwest             x           -           x                x              o.4            x
+
+CONCLUSION
+
+This analysis found only one sub-area that meets all of the siting requirements — the Northwest
+Sub-Area. As noted in the Application Narrative, Tax Lot 700 (Smith) has slopes that are too
+steep for high school and athletic field construction. Tax Lots 1000 and 1100 have Class I
+agricultural soils.   Within the Northwest Sub-Area, only Tax Lot 701, as adjusted, meets all of
+the high school siting requiremenst.
+
+                            Appendix D: Alternatives Sites Analysis
+                      Winterbrook Planning e February 2005 e Page 12
+                     FILA   84   PACE   749
+
+                Appendix E
+Transportation Impact Study
+
+                                              q xipuaddy
+           yw bB       wna’                                                   ein    SAL -ace     720
+
+                                         MEMORANDUM
+
+engineering
+
+To:            Greg Winterowd, Winterbrook Planning
+
+From:          Todd E. Mobley, PE
+
+Date:          January 26, 2005
+
+Subject:       Hill Road UGB Expansion — Preliminary Transportation Report
+
+This memo identifies the transportation-related concerns and criteria related to the proposed 42-
+acre Urban Growth Boundary (UGB) expansion to facilitate the construction of a new high
+school in the McMinnville Public School District. We are currently in the process of completing a
+larger, more detailed traffic impact study that will address the transportation criteria in a more
+detail.
+
+Analysis Considerations
+
+The City of McMinnville does not have an acknowledged Transportation System Plan (TSP),
+although they do have a Transportation Master Plan that was adopted in 1994. This Master
+Plan shows the current and proposed transportation system.
+
+The 42-acre high school site is located outside of the McMinnville UGB that is acknowledged by
+LCDC, but within the Northwest Activity Center area UGB that has been adopted by the City of
+McMinnville and Yamhill County. This leads to two separate analysis tracks:
+
+      1.   To adequately address the Transportation Plan Rule (TPR) and other approval criteria, it
+           is essential that the current UGB and developable areas be examined in a long-term traf-
+           fic analysis. Then the traffic from development only on the proposed expansion area is
+           added and the incremental impacts of the expansion are examined and any necessary
+           mitigations are identified.
+
+           This analysis scenario must be done and is currently underway, but does not consider
+           traffic impacts from the Northwest Activity Center.
+
+      2.   In order to effectively plan for the future transportation system, the Northwest Activity
+           Center from the City’s adopted UGB cannot be ignored. As such, the larger traffic im-
+           pact study will examine buildout under the City’s adopted plan that has not yet been ac-
+           knowledged by LCDC. Since the high school is a part of that plan, this second scenario
+           will not identify an incremental impact from the high school, but will identify the general
+           long-term needs of the transportation system assuming the City’s plan will eventually be
+           acknowledged.
+
+Union Station, Suite 206 = 800 NW 6" Avenue = Portland, OR 97209 = Phone 503.248.0313 = Fax 503.248.9251
+                                                                             run 84 ce (24.
+
+Greg Winterowd
+January 26, 2005
+Page 2 of 2
+
+Existing Conditions
+
+The site of the proposed high school is adjacent to NW Hill Road, which is currently the western
+boundary of the McMinnville city limits and the UGB. Access to the site is planned via an ac-
+cess drive to Hill Road opposite the existing intersection of Wallace Road. Considering the cur-
+rent UGB, this access would simply be a driveway to serve the school site. However, as part of
+the larger plan, the access would be part of a collector-level roadway that would serve other
+planned land uses within the Northwest Activity Center.
+
+Hill Road is currently designated by the City of McMinnville as a Minor Arterial. Other surround-
+ing streets within the project study area are Wallace Road, which is a Minor Collector, and
+Baker Creek Road and West 2™ Street, which are both Minor Arterials. All other streets in the
+vicinity of the site are local streets.
+
+Based on recently conducted manual turning movement counts along Hill Road, the current Av-
+erage Daily Traffic (ADT) on Hill Road is estimated to be approximately 3,400 vehicles per day
+south of Baker Creek Road and approximately 3,700 vehicles per day north of West 2" Street.
+
+Trip Generation & Distribution
+
+In terms of vehicle trip generation, high schools are rather traffic intensive, although they also
+require large areas of land. In this case, the proposed site is approximately 42 acres in size,
+which is typical of modern high schools. It is expected that the new school would have a maxi-
+mum enrollment of 1,800 students.
+
+Based upon data for land-use code 530, High School, in the Seventh Edition of the manual Trip
+Generation, published by the Institute of Transportation Engineers (ITE), a school of this size
+would generate a total of 738 trips during the weekday morning peak hour, 252 trips during the
+evening peak hour, and a weekday total of 3,078 trips. This includes all traffic including student
+vehicles, buses, staff, and delivery vehicles. The site is located along an identified transit corri-
+dor, which could offer some reduction in trip generation.
+
+The McMinnville School District is quite large and includes the rural residential area west of the
+McMinnville city limits. Still, the majority of traffic is expected to be to and from the urban area,
+distributed primarily amongst Baker Creek Road, Wallace Road, and West 2™ Street. For the
+long-term scenarios that are examined for this proposal, the District expects to have two sepa-
+rate high schools. With this new facility on the west side of the City, and the existing school on
+the east side, the attendance boundary for the schools is expected to be drawn along Highway
+99W through McMinnville.
+
+An attendance boundary that follows the highway is consistent with current boundaries for ele-
+mentary schools, and is a logical boundary for the high schools as well. Moreover, this bound-
+ary will minimize high school-related traffic impacts at key intersections along Highway 99W
+                                                                              Fut: BA ine 729)
+ &
+Greg Winterowd
+January 26, 2005
+Page 3 of 3
+
+through town. The boundary will draw traffic from the side of town closest to the schools,
+greatly reducing the amount of traffic that must cross the highway. For this reason, operations
+along the highway could be somewhat improved with the proposed high school by reducing this
+cross traffic. Currently, the fastest growing portion of the City is to the west near the subject
+site, while the current high school is located east of Highway 99W.
+
+Future Conditions
+
+Existing traffic volumes will be the primary basis for the preparation of future-year traffic fore-
+casts. Historical and expected future growth is currently being researched through several
+sources including information gathered by the District, the Yamhill County Transportation Sys-
+tem Plan, the City of McMinnville Transportation Master Plan, and ODOT traffic volume data.
+
+As discussed previously, the detailed traffic impact study for the School District's proposed UGB
+expansion will identify potential mitigations considering the current UGB and the addition of only
+the subject site and will also consider the acknowledgement of the City’s larger UGB expansion.
+The transportation analysis for the larger element will be a planning-level analysis and is in-
+tended to identify important parameters such as eventual street configurations, potential right-of-
+way widths and general intersection treatments. This analysis is not intended to serve as a
+Transportation System Plan for the City, which will eventually be necessary for a more compre-
+hensive examination of the City’s transportation facilities considering the city-wide UGB expan-
+sion areas.
+
+Summary
+
+The proposed school site is located in a rapidly developing area of McMinnville. The site is lo-
+cated adjacent to Hill Road, which is an Arterial, and Wallace Road, which is a collector. Hill
+Road is also an identified transit corridor.   These facilities can offer excellent access to a school
+of this size, minimizing impacts to local residential streets. The final traffic impact study will ex-
+amine the study area in more detail and identify any mitigation consistent with arterial and col-
+lector streets necessary to accommodate the school, as well as expected roadway and intersec-
+tion configurations when the City’s larger UGB expansion is acknowledged.
+
+Based on preliminary analysis, the Comprehensive Plan amendment for the new high school is
+consistent with the planned function, capacity, and performance standards of Hill Road, Baker
+Creek Road, West 2™ Street, and Wallace Road as described in the Transportation Master
+Plan.
+
+                                                                                            G-0. 08-384
+2. March 30, 2005 letter        |
+   from Geoff Crook             |
+
+                   B.0-05-384
+                                                                                 rt OA a.               124
+    ‘Oregon                                     Department of Land Conservation and Development
+                                                                                  635 Capitol Street NE, Suite 150
+                                                                                        Salem, Oregon 97301-2524
+         Theodore R. Kulongoski, Governor
+                                                                                             Phone: (503) 373-0050
+                                                                          First Floor/Coastal Fax: (503) 378-6033
+                                                                   Second Floor/Director’s Office: (503) 378-5518
+March 30, 2005                                                      Web Address; See            wocegen.gow/LCD
+                                                                     Pao              Soa   NY   thes
+
+Genny Bond                                                            ;                                       Pa\
+City of McMinnville                                                        ag.               2905
+230 N.E. 2" Street                                                         Rot                                ==
+McMinnville, OR 97128                                                             count? PLANNING
+                                                                     Yau          3
+Ken Friday
+Yamhill County
+401 N.E. Evans Street
+McMinnville, Oregon 97128
+
+Re: McMinnville High School UGB Plan Amendment, Zone Change, and
+Annexation. City File UGB/ANX/CPA/ZC                  1-05, DLCD   File 001-05; Yamhill County
+File PA-01-05, DLCD File 005-05.
+
+The Department of Land Conservation and Development (DLCD) appteciates the
+opportunity to comment on this proposed UGB amendment, zone change and annexation.
+We respectfully request that this letter become part of the record for all the hearings on
+the above proceedings.
+
+The department supports this proposal. As this application makes clear, aspects of this
+proposal overlap with the city’s growth management and urbanization plan, and elements
+of the city’s periodic review. The amendment is mostly consistent with the city’s earlier
+planning work for a Northwest Neighborhood and Activity Center (NAC) in the same
+location where the school site is proposed, and the intent of the school district to study
+longer-term transportation needs in the future NAC is a positive step for planning for
+growth in this area.
+
+The department has the following comments on the submitted amendment:
+
+    1.   Transportation impacts: Information provided in the submittal is incomplete and
+         insufficient to address the transportation planning rule (OAR 660-012-0060). The
+         preliminary Transportation Impact Study (TIS), Appendix E of the submittal,
+         indicates a TIS is underway for the school site assuming the current location of
+         the acknowledged UGB boundary. Elsewhere in the application a completed TIS
+         is noted and referenced.’ The Goal 12 findings addressing transportation impacts
+         indicate that based on a “preliminary TIS” the proposed plan amendment is
+         consistent with the planned function, capacity, and performance standards of
+         nearby roadways that would serve the development. This conclusion cannot be
+         made when the preliminary report indicates the TIS is underway.
+
+' McMinnville School District Application, page 12.
+erDCD Comments
+      we BO wis                                                                             ra a               py 724 Jo
+ MeMinhyille High School PAPA-
+ Local file UGB/ANX/CPA/ZC         1-05
+
+           The department is encouraged that the proposal intends to include a larger traffic
+           impact study that will examine impacts from future buildout of the Northwest
+           Activity Center. This presents an opportunity to specifically identify the city’s
+           longer-range transportation needs in this area on which the high school facility
+           will depend. In considering future buildout of the Northwest NAC, the consultant
+           should take into account targeted land uses and densities in the city’s growth
+           management policies specific to this area, and not rely solely on land use
+           designations shown in the Northwest NAC illustrative plan (Figure 8 of the city’s
+           growth plan).
+
+           The department also recommends that the school district and city collaborate to
+           design a school site that is fully integrated with surrounding neighborhoods
+            existing and future), and that provides for local street connectivity and circulation
+           necessary to minimize traffic congestion, and ensure that the school acts as a true
+           activity “center” or “hub” to the NAC that will encourage efficient pedestrian,
+           bicycle, and vehicular travel.
+
+      2.   Projected student population: The preliminary TIS (Appendix E) assumes a high
+           school student population of 1,800 students by 2023, however the application
+           narrative indicates that the current student attendance is 1,800 students.?
+           Elsewhere in the report a projected student population of 2,500 is referenced for
+           the same planning horizon.’ These significant discrepancies in current and
+           projected student population should be clarified to support the findings provided
+           in the application.
+
+      3.   School siting standards: The application references school siting standards that are
+           out of date.” The most recent CEFPI standards are from 2004, and utilize a
+           different methodology than the acre per student method referenced in the school
+           district’s application.°
+
+      4.   Coordination: The application notes that a meeting with state agencies ODOT
+           and DLCD will occur as part of the amendment review process.’ It is unclear
+           when this meeting is planned to take place, however the department supports
+           coordination on this plan amendment to address the level and scope of
+           transportation analysis for the area, and to dovetail this effort with the city’s plan
+           for the Northwest NAC.
+
+ > This comment is based on the Commission’s Partial Approval and Remand Order #001645 and
+ department’s determination that the illustrative plans for the NAC’s are not internally consistent with the
+ plan policies for these same areas.
+ > McMinnville School District Application Narrative, page 4.
+ * Thid, page 3.
+ * Thid, page 7.
+ § Council on Educational F acility Planners Guide for Educational Facility Planning (2004 Edition).
+ 7 McMinnville School District Application Narrative, page 16.
+era        ae a
+McMinnville High School PAPA-
+                                                                                run 84 ree 725
+Local file UGB/ANX/CPA/ZC 1-05
+
+      5.     Correction:   The last sentence under Agricultural Land Impacts (application, page
+             12), incorrectly states that Class I and II soils are a higher priority for inclusion in
+             the UGB. This needs to be corrected pursuant to Goal 14 and ORS 197.298.
+
+Thanks again for the opportunity to comment on this proposed plan amendment. I can be
+reached at 503-373-0050 x289 if you have any questions regarding the comments in this
+letter.                                            ;
+
+Sincerely,
+
+Geoff Crook
+Regional Representative                                      :                                          |
+
+Cc:        — Eric   Jacobson, DLCD
+                    sur 84 se 126
+
+3. April 26, 2005
+  Memorandum from
+   Greg Winterowd
+
+                            2.0-05-384
+     “Sa          ae BO         wan                                                          un OA          ace 127
+                         MEMORANDUM
+                         To:          Genny Bond, City of McMinnville
+                                      Ken Friday, Yamhill County
+                         From:        Greg Winterowd
+                        Date:         Tuesday, April 26, 2005
+                         Re:          McMinnville High School UGB Plan Amendment, Zone Change,
+                                      and Annexation Proposal (City File UGB/ANX/CPA/ZC 1-05;
+                                      Yamhill County File PA-01-05, and DLCD Files 001-05 and 005-
+                                      05).
+
+        This memorandum responds to comments received from the Department of Land
+        Conservation and Development (DLCD) and to your request for additional information.
+        Please place this memorandum and attachments into the record of these proceedings.
+
+        DLCD March 30, 2004 Comments
+        Regional Representative Geoff Crook’s March 30, 2005 letter begins by expressing support
+        for the Hill Road Hill School plan and zoning map amendment proposal, and offers several
+        comments. We appreciate the thoughtfulness of Mr. Crook’s letter, and respond to each of his
+        comments in the order presented.
+
+             1.   We agree that the Lancaster Engineering Transportation Impact memorandum
+                  submitted as Appendix E to Winterbrook’s original submittal is inadequate to respond
+                  to Transportation Planning Rule (TPR) requirements. On April 20, 2005, Lancaster
+                  Engineering submitted a detailed Transportation Impact Study (TIS) that addresses
+                  OAR 660-012-0060 requirements. This study also considers the proposed 42-acre
+                  UGB expansion in relation to potential transportation impacts that could result from _
+                  planned development within the Northwest Activity Center.
+
+            2.     We agree that our February 24, 2004 application included inconsistent information
+                  regarding the projected capacity of the planned Hill Road high school.' As noted in
+                  the Hill Road High School TIS (Lancaster Engineering, April 2005), the maximum
+                  projected Year 2023 student population for the new high school is 1,400 students, with
+                  the remaining students attending a high school located at the existing high school site.
+                   The TIS considers the traffic implication of two possible attendance areas for the
+
+        ! These inconsistencies arose for two reasons; first, due to fact that the District’s Long-Range Facilities
+        Task Force was in the process of considering several alternatives; and second, because Winterbrook
+        intentionally over-stated Year 2023 high school population to make sure that high school impacts were not
+        under-stated. Over the last two months, the Facilities Task Force has narrowed the range of options.
+
+Winterbrook Planning
+310 SW Fourth Ave. Suite 1100 ™ Portland, Oregon 97204-2505
+504.827.4422 ® 50%. 827.4350 (fax)
+greg@winterbrookplanning.com
+                                                                                                 8
+                                                                                  Pitt BA ace 12
+
+                 proposed 1,400 student school: (1) limiting attendance to the area west of Highway
+                 99W and (2) drawing students from the entire district.
+
+            3.   We recognize that the Council of Education Facility Planners International (CEFPI)
+                 updated its high school siting guidelines in 2004. We note that Oregon has no state
+                 standards, and that CEFPI sets forth siting guidelines that vary based on school type
+                 and function. We have attached a memorandum from DOWA, the District’s architect,
+                 which further justifies the need for a flat site with at least 40 “usable” acres for the
+                 planned 1,400 student high school. Recently constructed high schools in Oregon and
+                 Washington typically have from 40-50 acres. DOWA has also provided a schematic
+                 site:plan showing that most of the 42 acres is required for athletic fields — a highly
+                 valued feature in McMinnville.
+
+            4.   Regarding state agency coordination, on April 6, I had a lengthy and productive
+                 conversation with Geoff Crook regarding this application and his March 30, 2005
+                 letter to the City. I have also spoken on two occasions with Dan Fricke of ODOT, and
+                 have forwarded the April 15 Lancaster Engineering TIS to him for review.
+
+        City Request for Additional Information
+        As requested, DOWA has provided a letter explaining why a flat site of at least 40 acres is
+        required for the proposed 1,400 student high school. DOWA has also provided a generalized
+        site plan showing a potential layout for the 42-acre Hill Road high school site. (Please see
+        attached documents.)
+
+        Thank you for your consideration.
+
+        Sincerely,
+
+        Gregory Winterowd
+        Principal
+
+        Attachments:     April 24, 2005 letter from Steven C. Olson, AIA, to Greg Winterowd
+                         Hill Road High School Site Plan (DOWA, April 2005)
+
+        Copy:            Ken Friday, Yamhill County
+                         Geoff Crook, DLCD
+                         David Horner, MPS
+
+Winterbrook Planning                                                                                        Page 2
+                                                                                                                                                                     un 84 we 729
+                                4      a       ha          het)
+                              putt!        o   fC)        Mes   exes
+                                      architects             ine.
+
+                                       April 25, 2005
+
+                                       Greg Winterowd
+                                       Winterbrook Planning
+                                       310 SW 4th Avenue
+                                        Portland, OR 97204
+
+                                        Re: High School Sites
+
+                                        Dear Greg,
+
+                                       This memo is in response to your request for background information on typical
+                                       requirements for size and topography of High School sites. With the multitude of uses
+                                       and components at a high school site the planning issues involved are very complex.
+                                       High schools have many necessary components that require a certain amount and type
+                                       of space. Each of these uses requires slope within certain parameters to function
+                                       properly. Relationship between components will determine the overall amount of slope
+                                       that can be allowed on a given site without adding substantial costs. On steep sites,
+                                       devices such as sloped banks (which require additional space) and retaining walls
+                                       (which are expensive and increase School District liability) would be needed between
+                                       these functional components.
+
+                                        The following is a list of required components and their relationship with site size and
+                                        slope needs of the overall high school site. (This is based on an average HS for 1400
+                                      | students; these numbers may vary slightly with larger or smaller facilities):
+
+                                                     1.   Building(s)
+                                                                a.     average of 200,000 — 250,000 s.f.
+                                                                b.     6 acres
+                                                                c.     Usually one footprint (out may be a cluster of structures) — 5%
+                                                                       maximum w/ daylight basement design
+
+                                                    2.    Student parking
+                                                              a. average of 400 parking stalls
+97204
+             | www.dowa.com
+
+                                                                 b.    5 acres
+                                                                c.     2% slope maximum
+OR
+PORTLAND,
+
+                                                    3.    Staff Parking
+                                                               a. average of 75 stalls
+                                                               b. 1 acres
+             F503 273 9192
+
+                                                               c. 2% slope maximum
+#200
+ST.
+WASHINGTON
+                 6950
+
+                                       AWFileO3\prajects\03040 MeMinnville SD Fac Plan\t-Project File\Ward Processing\t4 Development RaviewWinterrowd 04 25 05.doc
+                 226
+SW
+                 ¢: 503
+319
+
+                                                                                                                                                  ARCHITECTURE         +   INTERIORS   +   PLANNING
+a   el BB wn                                                                                                                 itn SA sce 130
+    Greg Winterowd
+    April 22, 2005
+    PAGE:     2
+
+                 4.    Visitor Parking/ ADA Parking
+                              a.    usually 12 stalls
+                              b.    .25 acres
+                             c.     2% slope maximum
+
+                 1.    Event Parking
+                           a. can vary usually 150 stalls
+                           b. 2 acres
+                           c. 2% slope maximum
+
+                 2.    Drop-off and pick-up zones
+                           a. 2 acres
+                           b. 2% slope maximum
+
+                 3.    Minimum of 2 baseball fields
+                              a.    6 acres
+                             b..    Using 300 feet foul lines
+                             c.     2% slope maximum
+
+                 4.    Minimum of 2 softball fields
+                          a. 4 acres
+                          b. Using 250 feet foul lines
+                          c. 2% slopes maximum
+
+                 5.    Average of 2 soccer/football practice fields
+                           a. 4 acres
+                           b. 14" slope per foot recommended slope from center of field
+
+                (oH           Field Events (long jump, discus, shot put, javelin, high jump, triple jump,
+                              pole vault)
+                              a. 2% slope maximum
+                              b. 1 acre
+
+                 7.    Stadium with track and soccer/football field
+                           a. 2% slope maximum
+                           b. 5 acres
+
+                 8.    Landscaping
+                              a.    Mandated by city/county requirements
+                              b.    2 acres
+
+                 9.    service and other access
+                           a. food service
+                           b. deliveries
+                           c. 1 acre 2% slope maximum.
+
+    These requirements along with code setbacks and required spacing around components
+    will generally require the need for a minimum 40 useable acres for a new 1400 student
+
+    \File03\projects\03046 McMinnville SD Fac Plan\1-Projact File\Word Processing\14 Development Review\Winterrowd 04 25 05.doc
+                 ao                                                                                                         “LH       GA ce   731.
+OY a   Gyeg Wifiterowd
+       April 22, 2005
+       PAGE:     3
+
+       high school. By “useable acres”, | mean land that is 5% or less slop and free of
+       floodplain or wetland constraints. As you know, approximately 2 acres of the 42 acre Hill
+       Road High School site is constrained by an irrigation ditch and small wetland area. Even
+       on relatively flat slopes of 5% or less, substantial grading would be required to create the
+       “flat” components (athletic fields, parking lots and building sites) described above. If the
+       site is odd shaped or has relatively moderate or steep slopes, the necessary acreage
+       increases for grading, retaining walls and for necessary ramps and stairs to travel safely
+       throughout the topography of the site. For these reasons, it is important that slopes of
+       high school sites be less than 5% to minimize grade change between components. Sites
+       of steeper slope become substantially more expensive to develop, create hazards for
+       users and are less practical.
+
+       For comparison the following information may be useful:
+
+       Recent New High Schools
+
+       Westview High School (Beaverton)
+              2000 students
+                    257,000 s.f.
+                    45 acres
+
+       Southridge HS (Beaverton)
+                    2000 students
+                    256,000 s.f.
+                    35 acres (with limited fields)
+
+       Summit HS (Bend)
+                    1550 students
+                    213,000 s.f.
+                    50 acres
+
+       Liberty HS (Hillsboro)
+                    1800 students
+                    292,000 s.f.
+                    49 acres
+
+       Camas HS (Camas, WA)
+                    1600 students
+                    215,000 s.f.
+                    52 acres
+
+       Parkrose HS (Portland)
+                    1000 students
+                    220,000 s.f.
+                   42 acres"
+
+       \\File03\projects\63040 McMinnville SD Fac Plan\1-Project Fiie\Word Processing\14 Development Review\Winterrowd 04 25 05.doc
+ » BO ih!                                                                                                                    A        ace “TOL
+ Greg Winterowd                .                                                                                   Sul       84   1     wow
+ April 22, 2005
+ PAGE:          4
+
+ Century HS (Hillsboro)
+        1800 students
+             270,000 s.f.
+             40 acres
+
+ If you should have any further questions please do not hesitate to contact me.
+
+ Sincerely,
+ Dull Olson Weekes Architects Inc.
+
+Steven C. Olson, AIA
+ Principal
+
+\FileO3\prajects\03046 McMinnville SD Fac Plan\1-Project FileWord Processing’14 Development ReviewWinterrowd 04 25 05.doc.
+                                                riLW   84     PAGE     733
+
+                                                            Wallace
+            Hill Road High School Site      :
+0200 feet   McMinnville School District   P Non         |
+
+                                                                      0. OS-3384
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 94.4% of
+the word sequence, and on 82.3% of the figures. Dictionary-recognizable words: 92.4%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

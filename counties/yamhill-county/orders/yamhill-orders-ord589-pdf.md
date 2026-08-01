@@ -1,0 +1,532 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord589-pdf
+title: 'ORD589-PDF'
+doc_type: ordinance
+citation: 'ORD589-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17607/ORD589-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 871b2566aee0cda682aca2bcab58c381a5938c50ef007e21f7aadef7dc29dd7a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.984; figure agreement 0.826; dictionary ratio 0.944. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD589-PDF (ORD589-PDF)
+
+## At a glance
+
+OCR-derived text of ORD589-PDF. Not human-verified.
+
+## Full text
+
+IN THE BOARD       OF COMMISSIONERS               OF THE STATE OF OREGON
+
+      95-2057                   FOR THE COUNTY         OF YAMHILL
+
+               SITTING FOR THE TRANSACTION                  OF COUNTY      BUSINESS
+
+In the Matter of an Ordinance Amending the
+Yamhill County Comprehensive Plan Map and
+
+                                                      eee
+Zoning Map to Change, on a 40 acre portion
+of Tax Lots 2533-300 and 2528-400, the Plan
+Map Designation from Agriculture/Forestry
+Large Holding to Public Assembly Institu-                      ORDINANCE 589
+
+                                                      eee
+tional and the Zone Map Designation from
+AF-20 to PAI; Imposing a Limited Use Over-
+
+                                                      ee
+lay District; Planning Docket PAZ-1-95;
+
+                                                      ee
+Applicant Yamhill Encampment Corp;
+Declaring an Emergency.
+                                                      Ne
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY,                             OREGON         ("the Board"), sat
+for the transaction of county    business   in special session on April    12,   1995,     Commissioners
+Dennis L. Goecks, Robert Johnstone and Thomas E. E. Bunn being present.
+
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A.     Yamhill Encampment Corp. ("Applicant") has applied to the Department of Planning and
+Development    for   a Comprehensive    Plan Map    amendment    from Agriculture/Forestry           Large
+Holding to Public Assembly Institutional and a zone map amendment from AF-20 to PAI on a
+40 acre portion of Tax Lots 2533-300 and 2528-400 identified on the attached Exhibit "B."
+
+B.      On March 2, 1995 the Yamhill County Planning Commission held a public hearing to
+consider the application. Following the hearing, the Planning Commission voted to recommend
+that the Board approve the application. On March 29, 1995 the Board held a public hearing on
+the application and voted to grant tentative approval to application including the imposition of
+a "limited use overlay district" to assure that future uses on the property were limited to those
+listed in Section 801.02(A), (F), (G), (HK), (), (D and (K) of the zoning ordinance.
+
+Cc.    The findings and conclusions attached hereto as Exhibit "A"               and by this reference
+incorporated herein provide a justification for the Board’s action of March 29, 1995 and
+demonstrate that the proposed amendments to the Comprehensive Plan Map and the Official
+Zoning Map    are in the best interests of the citizens of Yamhill County.       NOW       THEREFORE,
+
+THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS as follows:
+
+       Section 1. The Yamhill County Comprehensive Plan Map is hereby amended as specified
+in the attached Exhibit "B", made apart of this ordinance by reference, to reflect a plan map
+designation of "Public Assembly Institutional" for that 40 acre portion of Tax Lots 2528-400 and
+2533-300 identified on Exhibit "B".
+
+                                                                             ORDINANCE 589 - Page 1
+
+                                                                                                  GE -205~
+           Section 2.   The Official Zoning Map of Yamhill County is hereby amended as specified
+in the attached Exhibit "B", to reflect a zoning designation of PAI District for that 40 acre
+portion of Tax Lots 2528-400 and 2533-300 identified on Exhibit "B".
+
+        Section 3. The findings attached as Exhibits "A" incorporated herein by this reference
+are adopted in support of this ordinance.
+
+        Section 4. In adopting the plan amendment specified in Section 1, the county hereby
+takes an exception to Statewide Planning Goal 4 on the basis the property is physically developed
+as provided by OAR 660-04-018.
+
+           Section 5.   A “Limited Use Overlay District" is hereby established and imposed on that
+40 acre portion of Tax Lots 2528-400 and 2533-300 affected by the plan amendment and zone
+change as specified on Exhibit "B" to limit the use of the property to the following uses: (1)
+Any use providing for the public or private assembly of persons for religious, charitable,
+philanthropic, cultural, recreational or educational purposes, including churches, auditoriums,
+armories, youth centers, social halls, fairgrounds, group camps, schools, kindergartens, play-
+schools, day nurseries and daycare schools; (2) Dwelling for caretaker or watchman in
+conjunction with a permitted use; (3) Accessory uses; (4) Temporary structures as may be
+required during construction of an authorized permanent structure. Such temporary structures
+shall be removed upon final inspection of the permanent structure by the building inspector; (5)
+Community or municipal water supply system; (6) Community or municipal sewer system; (7)
+Signs as authorized in accordance with the the zoning ordinance.
+
+        Section 6. All sections, subsections and paragraphs of this ordinance are severable. If
+any section, subsection or paragraph is ruled invalid for any reason by the court of last resort,
+the other portions of this ordinance shall be unaffected.
+
+         Section 7. This ordinance being necessary for the health, safety, and welfare of the
+citizens of Yamhill County, and an emergency having been declared to exist, is effective upon
+passage.
+
+           DONE    at McMinnville, Oregon this 12th day of April, 1995.
+
+                                         YAMH.          UNTY BOARD        OF COMMISSIONERS
+
+                                         Chairman              DENNIS L. GOECKS
+
+                                            ba        KON ate
+                                         Commissioner   (ROBERT JOHNSTONE
+
+FORM APPROVED             BY:
+    SPILAD
+JOHN\M. GRAY, JR.
+                                         Thowor a6. b0-—
+                                         Commissioner          THOMAS E. E. BUNN
+Yamhill County Cou                                         :
+
+                                                                           ORDINANCE 589 - Page 2
+                                  EXHIBIT "A" TO ORDINANCE 589
+                                        Findings for Approval
+
+DATE OF PLANNING
+COMMISSION HEARING:                      March 2, 1995
+
+DATE OF BOARD OF
+COMMISSIONERS HEARING:                   March 29, 1995
+
+DATE OF ORDINANCE AND
+FINAL LAND USE DECISION:                 April 12, 1995
+DOCKET:                                  PAZ-1-95
+
+REQUEST:                                 Zone change and Comprehensive Plan amendment from
+                                         Agriculture/Forestry District (AF-20), Agriculture/Forestry Large
+                                         Holding to Public Assembly Institutional District (PAI), Public
+                                         Facilities and exception to Statewide Planning Goal 4 on 40 acres to
+                                         allow construction of a caretaker’s residence in an area currently
+                                         utilized for camp activities by Camp Yamhill.
+
+APPLICANT:                               Yamhill Encampment Corporation.
+
+TAX LOTS:                                2533-300, 400 and 2528-400
+
+LOCATION:                                South of and adjacent to Old Railroad Grade Road, at the
+                                         intersection of Old Railroad Grade and Oak Ridge Roads.
+
+FINDINGS FOR APPROVAL:
+
+A.    Background Facts:
+
+1.    Property size: Yamhill Encampment Corporation owns a total of 204 acres comprised of five tax lots
+      (2528-400, 2533-300, 400, 800, and 900). The proposed plan amendment and zone change applies to a
+      40 acre portion of Tax Lots 2528-400 and 2533-300.     (See Exhibit "B".)
+
+      Access:   Private road off of Oak Ridge Road, a gravel county road.
+
+      On-site Land Use: Camp Yamhill exists on a 204-acre tract under the ownership of the Yamhill
+      Encampment Corporation. A portion of this tract was zoned PAI under legislative action in 1976 in the
+      adoption of Ordinance 83, 1976. The 204 acre area is somewhat hilly and is bisected by the North
+      Yamhill River.   The property is wooded and brushy. The main camp compound is located within an
+      oxbow of the river. The area to be rezoned lies to the east across the river. The remaining portion of
+      the property is forested. The subject parcel is connected to the main compound by a small foot bridge.
+      The proposed area contains a man made lake used by Camp Yamhill for their camp and educational
+      related activities. The camp is used for summer camp programs by Camp Yamhill as well as Outdoor
+      School Programs by Washington County ESD, Boy and Girl Scouts of America, cancer society,
+      Oregon Lung Association and Oregon Premier Wrestling camp.        The area used for the lake and the
+      other activities is approximately 20 acres in size.
+
+      Surrounding Land Use: The subject site is surrounded by forested hills in alt directions and consists of
+      large parcels used for commercial forestry.
+
+      Surrounding Zoning:    Lands in all directions are zoned Agriculture/Forestry (AF-20).
+
+                                                                             Exhibit "A"   to Ordinance 589   - Page 1
+      Soils:   Sheet 6 of the Yamhill County Soil Survey indicates the area of the proposed zone change and
+      conditional use is composed of the following soils:                              :
+
+      Soil Type     (Symbol)      % Slope             %_of Property       Cuft/Ac/Yr
+
+      Chehalem (CeC)                 3-12                      45                —
+      Cove (Co)                      2-7                       20               ---
+      Hazelair (HcD)                 7-20                      20               40
+      Jory (RF)                      30-60                     10                155
+      Peavine (PeD)                  7-20                       5                160
+
+      Fire Protection:     Yambill Rural Fire District
+
+      Taxes:   All five tax lots are exempt from taxation.
+
+      Previous Actions:        Docket SDR-1-83/PUD-18-83 allowed a major renovation and addition of buildings
+      to Camp Yamhill.
+
+10.   Explanation of proposed development:        The request is to allow placement of a caretaker’s residence
+      next to the existing Jake.     The applicant indicated that the area around the lake is in need of increased
+      security. The proposal includes rezoning a 40-acre area approximately in the center of the 204 acres in
+      order to provide more security to the lake area.
+
+      Exception to Statewide Planning Goal 4
+
+      The request for a zone change to PAI on 40 acres will require taking an exception to Statewide
+      Planning Goal 4, Forest Lands. Goal 4 is:
+
+                  To conserve forest lands by maintaining the forest land base and to protect the state’s
+               forest economy by making possible economically efficient forest practices that assure
+                the continuous growing and harvesting of forest tree species as the leading use on
+               forest land consistent with sound management of soil, air, water, and fish and wildlife
+                resources and to provide for recreational opportunities and agriculture.
+
+      OAR 660-04-018 outlines the optional procedures for taking exceptions. The first is to base the
+      exception on “physical development" and/or "irrevocable commitment” of the property to non-
+      agricultural use. This type is intended to recognize and allow existing types of development and was
+      used in the original exception of the neighboring property. The second is a "reasons" exception, which
+      allows a jurisdiction to zone property with a non-forest designation if there are grounds for the change.
+      The first procedure was implemented in this case.
+
+      OAR 660-04-018 also requires that the county limit uses on exception sites that are physically
+      developed to uses which are the same as the existing types of land uses on the site, or rural uses.
+      Since other permitted uses in the PAI zone could be construed as not being “rural uses," the use of the
+      site should be limited to uses listed in Section 801.02 (A,F,G,H,LJ and K) of the Yamhill County
+      Zoning Ordinance, only.
+
+      QAR 660-04-025 outlines the requirements for exceptions for land physically developed in non-resource
+      uses. These criteria are:
+
+                  (1) A local government may adopt an exception to a goal when the Jand subject to the
+                  exception is physically developed to the extent that it is no longer available for uses
+                  allowed by the applicable goal.
+
+                                                                                 Exhibit "A"   cto Ordinance 589   - Page 2
+         (2) Whether and has been physically developed with uses not allowed by an applicable Goal,
+         will depend on the situation at the site of the exception. The exact nature and extent of the
+         areas found to be physically developed shall be clearly set forth in the justification for the
+         exception. The specific area(s) must be shown on a map or otherwise described and keyed to
+         the appropriate findings of fact. The findings of fact shall identify the extent and location of
+         the existing physical development on the land and can include information on structures, roads,
+         sewer and water facilities, and utility facilities. Uses allowed by the applicable goal(s) to
+         which an exception is being taken shall not be used to justify a physically developed exception.
+
+The reasons the applicant has relied upon to justify the exception are that the property in question has
+been used since 1954 as a camp facility. This change in zone reflects the existing long term use of a
+property that is already developed and irrevocably committed to a non-forest use. The subject parcel
+contains a 2-acre lake, a shelter building approximately 24’x 24’ in size and assorted areas for related
+camp activities.
+
+OAR 660, Division 12, is the "Transportation Planning Rule."        Certain land-use actions are subject to
+provisions of the rule. OAR 660-12-060 states:
+
+dd)      Amendments to functional plans, acknowledged comprehensive plans, and land use regulations
+         which significanily affect a transportation facility shall assure that allowed land uses are
+         consistent with the identified function, capacity, and level of service of the facility.     This shall
+         be accomplished by either:
+
+         (a)       Limiting allowed land uses to be consistent with planned function, capacity and level
+                   of service of the transportation facility;
+
+         (b)       Amending the TSP to provide transportation facilities adequate to support the
+                   proposed land uses consistent with the requirements of this division; or,
+
+         (c)       Altering land use designations, densities, or design requirements to reduce demand for
+                   automobile travel and meet travel needs through other modes.
+
+(2)      A plan or land use regulation amendment significantly affects a transportation facility if it:
+
+         (a)       Changes the functional classification of an existing or planned transportation facility;
+
+         (b)       Changes standards implementing a functional classification system;
+
+         (c)       Allows types or levels of land uses which would result in levels of travel or access
+                   which are inconsistent with the functional classification of a transportation facility; or
+
+         (G))      Would reduce the level of service of the facility below the minimum acceptable level
+                   identified in the TSP.
+
+GB)      Determinations under subsection (1) and (2) of this section shall be coordinated with affected
+         transportation facility and service providers and other affected local or state governments.
+
+The transportation planning rule does not apply to this request because the only new use permitted
+would be a caretakers residence. Staff did not solicit nor receive any comments from the Oregon
+Department of Transportation.
+
+Zone Change and Plan Amendment Provisions and Analysis
+
+This request is for a zone change to Public Assembly Institutional Zone (PAI) and Plan amendment to
+Public Facilities for 40 acres, in order to allow establishment of a caretakers residence to provide
+
+                                                                          Exhibit "A"   to Ordinance 589   - Page 3
+security for an established campground activity area. These activities meet the definition of a
+“campground", which is a permitted use in the PAT district.
+
+The Plan Amendment portion of the request is not subject to local review criteria.        The zone change
+portion of the request must comply with the standards and criteria in YCZO        Section 1208.02.         These
+provisions are:
+
+(a)      That the proposed change is consistent with the goals, policies, and any other applicable
+        provisions of the Comprehensive Plan.
+
+(b)      That there is an existing demonstrable need for the particular uses allowed by the requested
+        zone,   considering the importance of such uses to the citizenry or the economy        of the area,        the
+         existing market demand which such uses will satisfy, and the availability and location of other
+         lands so zoned and their suitability for the uses allowed by the zone.
+
+(co)    That the proposed change is appropriate considering the surrounding land uses, the density and
+        pattern of development in the area, any changes which may have occurred in the vicinity to
+        support the proposed amendment and the availability of utilities and services likely to be
+        needed by the anticipated uses in the proposed district.
+
+(a)      That other lands in the county already designated for the proposed use are either unavailable
+         or not as well-suited for the anticipated uses due to location, size, or other factors.
+
+(e)      That the amendment is consistent with the current Oregon Administrative Rules for exceptions,
+         if applicable.
+
+The findings regarding these criteria are provided in subsections C.3 through C.7 below.
+
+Regarding applicable Comprehensive Plan goals and policies, criteria (a) above, the area of the
+proposed zone change is identified as sensitive winter range for big game on the Critical Wildlife
+Habitat map (Natural Resource Conservation Plan, Yamhill County, Oregon, May 1979 - U.S.D.A.
+Soil Conservation Services).     Comprehensive Plan Goal II.D.1.f states:
+
+         In the Sensitive and Peripheral Big Game      Winter Range,   all proposed zone changes
+         and applications for partitions will be referred to the Oregon Department of Fish and
+         Wildlife for determination of conflicts with big game habitat requirements. In the
+         event the Department identifies and informs the county that site-specific habitat
+         conflicts exist, the county will not approve said zone changes without seeking
+         resolution of such conflicts.
+
+ODEW was sent a copy of the requested zone change their response will be included in the presentation
+of the staff report.
+
+Comprehensive Plan goats relating to forest lands, water resources and fish and wildlife habitat relate
+to the proposed campground.       Goal II.B, Forest Lands, Policy 1.a states:
+
+         Yamhill County will cooperate with federal and State agencies, large private timber
+         owners and small woodland owners to manage forest and grazing lands for the highest
+         aggregate economic, recreational and ecological benefits which these lands can
+         sustain, including timber production, livestock range, fish and wildlife habitat,
+         watershed protection,    erosion control and recreational use.
+
+The existing campground use complies with this policy because it allows recreational use while still
+preserving the timber production capabilities on the majority of the site. Wildlife habitat value can be
+maintained or enhanced if camping is restricted during winter and early spring and open campground
+
+                                                                          Exhibit "A"   to Ordinance 589     - Page 4
+areas are seeded to provide winter grazing for big game. Recreational use of the property will bring
+greater enjoyment and educational benefits than timber production alone.
+
+Comprehensive Plan Goal II.C, Water Resource, Policy 1.b states:
+
+          Yamhill County will continue participation in the FEMA National Flood Insurance
+         Program to prevent flood-caused loss of life and property, by identifying and mapping
+         the floodplains and floodways of the county, restricting land uses within the floodplains
+         to those which are open and undeveloped, including forestry, agriculture, wildlife
+         habitat and recreational areas and encouraging improved watershed management
+         practices and the construction of watershed storage projects for flood control.
+
+As shown on FIRM 4101249 0125 C, part of the subject property lies in the flood hazard area of the
+Yamhill River.       The applicant has indicated that the floodplain area along both sides of the river will
+remain undisturbed.
+
+Current plans do not include any development in the flood hazard area.         Provided there are no
+permanent buildings, the campground would not require a floodplain development permit, pursuant to
+Section 901.05 of the YCZO. The proposed campground complies with Comp Plan Policy II.C.1.a
+since it is an open, recreational use.
+
+Comprehensive Plan Goal II.B.1.j states:
+
+         It is the policy of Yamhill County to protect riparian vegetation from damage that may
+         result from land use applications for development that is otherwise permitted outright
+         or conditionally under county zoning regulations. To achieve this goal, Yamhill
+         County will review land use applications for development in riparian areas in an effort
+         to mitigate or prevent damage to riparian vegetation that might result from the
+         development.       For purposes of this policy,   "riparian areas" refers to areas within 100
+         feet measured horizontally from the ordinary high water line of streams identified as
+           "Fish Habitat" in the comprehensive plan inventory (Natural Resource Conservation
+         Plan, Yamhill County, Oregon, May 1979 - U.S.D.A, - Soil Conservation Services),
+          that are not regulated under the Forest Practices Act.
+
+The North Yamhill River, which runs through the proposed campground, is shown as a resident trout
+and anadromous fish spawning and rearing stream on the comprehensive plan map. In order to protect
+riparian vegetation and comply with Plan Policy II.B.1.j, development or removal of existing vegetation
+should be prohibited within 100 feet of the high-water line of the river. These concerns can be
+addressed in the Site Design Review Process.
+
+The proposed campground areas are on land identified as sensitive winter range for big game on the
+Critical Wildlife Habitat map (Natural Resource Conservation Plan, Yamhill County, Oregon, May
+1979 - U.S.D.A. Soil Conservation Services).         Comprehensive Plan Goal II.D, Fish and Wildlife,
+Policy 1.c states:
+
+         All identified sensitive wildlife areas will be classified as exclusive agriculture, forest
+         land or open space. No major land use change, including but not limited to road
+         construction and recreational developments will be permitted without approval
+         measures to limit undesirable impacts on sensitive wildlife areas.
+
+The major impediments to use of an area by big game are fencing or other barriers that prevent
+movement of animals, dogs that chase animals, and human disturbance. These potential impacts can be
+mitigated by requiring as a condition of approval that the area remain unfenced and that the
+campground not be used during the winter months when big game are in the area.               These concems can
+be addressed in the Site Design Review Process.
+
+                                                                            Exhibit "A"   to Ordinance 589   - Page 5
+4.      Regarding the need for the proposed uses, criteria (b), the applicant indicates that the property is
+        currently being used and has been used since 1954 as a recreational and educational area for Camp
+        Yamhill and Washington County ESD outdoor school program. The camp provides recreational and
+        educational opportunities not available elsewhere. Other areas in Yamhill County which are zoned PAI
+        are not currently available.   The applicant addressed the issue of availability and suitability of other
+        lands zoned PAI which would allow the proposed uses stating that the primary feature of this area is an
+        approximately 2 acre pond which provides recreational and educational facilities for Camp Yamhill and
+        Washington County ESD outdoor school programs. According to Washington County ESD, this is one
+        of the best sites for their program in the entire area.
+
+5.      Regarding criteria (c), the requested zone change is appropriate to the area because it is a natural
+        resource based recreational use.    The use has been in existence since 1954, and will not substantially
+        change the existing land use pattern or lead to the development of other non-resource uses on.
+        surrounding lands.   No new public utilities or services will be required - the property is currently
+        served by electricity, phone, a well and a septic system.    A new septic drainfield would be needed for
+        the caretaker’s residence.
+
+6.      Regarding criteria (d), the availability of other lands in the county which would allow the proposed uses
+        was discussed in Finding c.4 above.
+
+7.      Regarding criteria (e), the OAR requirements for an exception are addressed in Section B. of this
+        report.
+
+E.      Site Design Review Criteria and Analysis
+
+1,      Site design review is required for any development in a PAI district. The applicant has not submitted
+        any building or site design plans. Should the requested zone change be approved, a condition should
+        require approval of a site development plan prior to any development or construction.
+
+CONCLUSIONS:
+
+1.      The request contains two parts: first, an exception to Statewide Planning Goal 4 on 40 acres; second, a
+        zone change and Comprehensive Plan amendment from Agricultural/Forestry District (AF-20),
+        Agricultural Forestry Large Holding to Public Assembly Institutional (PAI), Public Facilities to allow
+        construction of a caretaker's residence in an area currently utilized for camp activities by Camp
+        Yamhill.
+
+2.      The request meets the requirements of Goal 2 Part II(a) for a “physically developed" exception because
+        a need has been shown for the recreational uses; there are no other exception areas in the county that
+        could reasonably accommodate the uses; the uses would have no significant adverse environmental,
+        economic, social or energy consequences; and the uses can be made compatible with surrounding
+        resource uses. A limited use overlay district is required.
+
+3.      The request can meet the requirements of Section 1208.02 for a zone change because, with conditions,
+        it can be consistent with Comprehensive Plan goals and policies; there is a demonstrated need for the
+        added security; the area is appropriate for the use; and there are no alternative locations that would not
+        require a zone change.
+
+DECISION:
+
+The application is approved as specified in the implementing ordinance.
+
+                                                                                  Exhibit "A"   to Ordinance 589   - Page 6
+                   EXHIBIT          "B" FOR      ORDINANCE            No.    589
+              COMPREHENSIVE      PLAN AND ZONING MAP AMENDMENT
+                  TO CHANGE      THE COMPREHENSIVE PLAN MAP
+                                DESIGNATION FROM
+                    “AGRICULTURE/FORESTRY LARGE HOLDING"
+                            TO "PUBLIC FACILITIES" AND
+      THE   ZONE   FROM "AF-20" AGRICULTURE/FORESTRY LARGE HOLDING
+              TO   "PAI" PUBLIC ASSEMBLY INSTITUTIONAL DISTRICT
+
+            2526-400
+
+                       AF-ZO
+
+            2533-400
+
+                               PAL ZONED
+                               AREA                           SSK “
+                                                               ececececacesenes |
+                           SOUTH                               SOROS SKK OTR
+                                                   LRXS       ee        See
+
+                                           eee
+                                                              AF-20
+
+                                       AREA SUBJECT ‘TO. COMPREHENSIVE
+NOT    TO SCALE                        PLAN AND ZONE MAP AMENDMENT
+
+PREPARED BY YAMHILL COUNTY DEPARTMENT               OF    PLANNING    AND   DEVELOPMENT
+MARTIN CHROUST-MASIN, ASSOCIATE PLANNER
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.4% of
+the word sequence, and on 82.6% of the figures. Dictionary-recognizable words: 94.4%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

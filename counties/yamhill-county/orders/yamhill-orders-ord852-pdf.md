@@ -1,0 +1,228 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord852-pdf
+title: 'ORD852-PDF'
+doc_type: ordinance
+citation: 'ORD852-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17323/ORD852-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: b0d33b0da51ab8b7e7f2a6eafd909fba87bea717df2003947fcb613e501ae8b2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.885; dictionary ratio 0.939. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD852-PDF (ORD852-PDF)
+
+## At a glance
+
+OCR-derived text of ORD852-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+                     FOR THE COUNTY OF YAMHILL
+          SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of a Comprehensive Plan Amendment from
+Very Low Density Residential to Light Industrial, a zone change
+From VLDR 2.5, Very Low Density Residential to LI, Light
+Industrial, for Lot 4 of Tax Lot 3324-7912, Applicant                                      ORDINANCE 852
+Far West Development Corporation, Docket PAZ-04-09, and
+Declaring an Emergency
+
+          THE BOARD           OF COMMISSIONERS                    OF YAMHILL          COUNTY,        OREGON
+(the “Board”) sat for the transaction of county business on March                                    10,    2010,
+Commissioners Mary P. Stern, Leslie Lewis and Kathy George being present.
+
+          IT APPEARING TO THE BOARD that Far West Development Corporation
+applied to the Yamhill County Department of Planning (Planning Docket PAZ-04-09) for
+a Comprehensive       Plan    amendment        from        Very     Low   Density      Residential    to    Light
+Industrial, a zone change from VLDR-2.5 Very Low Density Residential to LI Light
+Industrial, and
+
+          IT APPEARING TO THE BOARD that the matter was heard by the Yamhill
+County Planning Department at a duly noticed public hearing on February 4, 2010, which
+voted to recommend approval of the application; and the Board held a duly noticed public
+hearing March 3, 2010, at which the applicant appeared and testified, there being no
+opponents at that hearing, and the Board tentatively voted to approve the application,
+NOW, THEREFORE,
+
+          IT   IS   HEREBY      ORDAINED              BY      THE    BOARD,         that   the   application    is
+approved as detailed in the Findings for Approval, attached as Exhibit “A” and by this
+reference incorporated herein.      This ordinance, being necessary for the health, safety, and
+welfare of the citizens of Yamhill County, and an emergency having been declared to
+exist, is effective upon passage.
+
+          DONE this 10% day of March, 2010, at McMinnville, Oregon.
+
+ATTEST:                         vXAMBILL COUNTY BOARD OF COMMISSIONERS
+REBEKAH STERN                                              phy            leo                         _
+County Clerk                                                                  “THY GEORGE
+
+Byt4                                                       lk                                         one
+Dep ity ‘Anne Britt      4°      fsae”     G           issi                MARY P. STERN _
+
+APPROVED AS TO FORME                           Me          Be. NV Poses
+                                          C¥mmissioner’                   “LESLIE LEWIS
+
+                                                                                             B.o. 10-143
+          WA O07
+Rick Sanai, Assistant County Counsel
+
+                                       Bo. 10-143
+FINDINGS AND CONCLUSIONS for Ordinance 852, Exhibit “A”
+
+        The following findings of fact and conclusions of law are hereby adopted, and are
+based on substantial evidence in the record in this case:
+
+The Subject Property area currently consists of one lot of approximately 8.5 acres
+currently zone Very Low Density Residential (VLDR-2.5), The Application will re-zone
+the property as Light Industrial (LI) with specified restrictions and overlays. The purpose
+of the plan amendment and zone change is to eventually establish a storage lot for
+recreational vehicles.
+
+The property has an access developed off of Highway 99W. ODOT has submitted a letter
+of comment. The Oregon Department of Transportation has previously only allowed very
+limited access onto HWY 99W. In their letter of December 28, 2009, ODOT has noted
+that the deeded reservation of access may be restricted in a way that would prohibit
+issuance of an approach road permit for industrial use. However, there is another
+recreational vehicle storage facility that uses the anticipated access to Highway 99W.
+
+The topography of the property is relatively level with a slight slope to the north. The
+parcel is generally clear of vegetation.
+
+With notable exceptions, most of the surrounding area is rural residential in character.
+Most of the rural residential uses are located on parcels of one to 10 acres in size.
+Property to the north, west and southeast is zoned VLDR 2.5 Very Low Density
+Residential. The main exception to this is the one parcel to the north that is zoned HI
+Heavy Industrial. This 2.13 acre parcel had been used as a wrecking yard. Within the last
+five years the wrecking yard was closed and replaced by other uses. These uses included
+RV storage, a body building shop and a marine/boat supply. This Heavy Industrial zone
+does not have a limited use overlay which limits it to these uses so the property could
+revert back at any time to a more intensive Heavy Industrial use. Property adjacent to the
+northeast is zoned VLDR-1. A little further to the northeast is property that is zone Light
+Industrial. Land to the southwest is a mixture of VLDR-5                       and AF-10
+Agriculture/Forestry Small Holding. Further to the southwest is an area zoned RI
+Resource Industrial which has the Duck Pond Cellars winery.
+
+The Applicant indicated a desire to construct a caretakers cottage and covered storage.
+Any water needs for these structures will be obtained from the Hiland Community Water
+System water sources. Septic systems are the only option for sewage disposal in this area.
+
+Tn the year 2000, application was made to rezone the property from AF-10 to VLDR 2.5.
+The Board of Commissioners granted final approval of the zone change request. This was
+appealed to the Land Use Board of Appeals which ultimately affirmed the approval on
+September 30, 2002 (LUBA No. 2002-064). In 2003, a 6-lot subdivision was granted
+approval through Docket S-01-03. Later that year a conditional use approval was granted
+to establish the Hiland Community Water System (Docket C-13-04). In 2008, a four lot
+
+                                                                                B.0. 1-143
+      subdivision was approved by Yamhill County through Docket S-02-08. The final plat for
+      that subdivision has just been recorded. The subject parcel is Lot 4 of this subdivision.
+
+      One-half of the parcel is classified as Amity silt loam and the other half is Dayton silt
+      loam. While the property does contain soils that are rated as “high-value” agricultural
+      soils, in 1980 the property had an exception to the farm and forest preservation goals.
+
+      The property was found to be a committed exception in Code Area 1.8, adopted by
+      Exception’s Statement Il, April 23, 1980 and was plan designated VLDR Very Low
+      Density Residential.   The property is not on any county adopted fish and wildlife habitat
+      plan.
+
+      The cities of Newberg and Dundee both submitted written objections to the application.
+      Applicant held a meeting with the city planners for Newberg and Dundee to address these
+      objections. As part of this meeting, Applicant agreed to a restriction requiring a site
+      review to address issues that include, but are not limited to, landscaping, screening,
+      lighting, and access, and including a 30-foot wide vegetative buffer along Highway 99W
+      that includes blue spruces or other similar fast growing trees.
+
+10.   The subject property is located just outside of the Interchange Overlay District.
+
+ll.   The Planning Commission and the Board of Commissioners determined that the
+      Application complied with and satisfied the criteria of Yamhill County Comprehensive
+      Plan Section 1208.02, including the Yamhill County Revised Goals and Policies.
+
+12.   The Board of Commissioners determined that the applicant has provided adequate
+      justification to show there is an existing demonstrable need for recreational vehicle
+      storage in the area, that there is an excess supply of residential property in the area, and
+      that this zoning change adequately meets those needs.
+
+13,   The Board of Commissioners determined that no exception to Goal 14 is required
+      because there will be a limited use overlay prohibiting the construction of building area
+      greater than 35,000 square feet of floor area. Further, the Board of Commissioners
+      determined that a limited use overlay restricting the use of the property to recreational
+      vehicle storage is appropriate.
+
+14.   The Board of Commissioners and the Planning Commission determined that the
+      application satisfied Goal 12, the Transportation Planning Rule, and OAR 660-12-060
+      with regard to this application.
+
+15.   The Board of Commissioners and Planning Commission found that a limited use overlay
+      is appropriate. The Board of Commissioners determined that a limited use overlay with
+      the following restrictions is appropriate:
+
+      a.   The use shall be limited to the storage of recreational vehicles;
+b.   Construction of total enclosed building area greater than 35,000 square feet in floor
+     area shall be prohibited;
+c.   Prior to the storage of recreational vehicles, the owner shall obtain site design review
+     approval to address issues that include, but are not limited to, landscaping, screening,
+     lighting, and access. The site design review shall include a 30-foot wide vegetative
+     buffer along Highway 99W that includes blue spruces or similar fast-growing trees.
+
+END.
+
+                                                                                   Bo. 10-143
+                 EXHIBIT MAP FOR ORDINANCE NO. 852
+                          PLAN AMENDMENT
+     ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                             March 10, 2010
+           FOR A COMPREHENSIVE PLAN AMENDMENT FROM
+        VERY LOW DENSITY RESIDENTIAL TO LIGHT INDUSTRIAL
+  AND A ZONE CHANGE FROM VLDR 2.5 VERY LOW DENSITY RESIDENTIAL
+                       TO LI LIGHT INDUSTRIAL |
+             AND TO ADOPT A LIMITED USE OVERLAY ZONE
+
+CHANGE APPLIES TO THE ABOVE PORTION OF TAX LOT 3324-7912 AS IDENTIFIED ABOVE.
+APPROXIMATE SCALE - 1 INCH = 200 FEET
+
+                                                                       B.0. 10-143
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 88.5% of the figures. Dictionary-recognizable words: 93.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

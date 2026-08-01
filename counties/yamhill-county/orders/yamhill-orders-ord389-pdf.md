@@ -1,0 +1,399 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord389-pdf
+title: 'ORD389-PDF'
+doc_type: ordinance
+citation: 'ORD389-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17729/ORD389-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 989ab31e1f47cf2f7ba380e8059a0549f1eeab1aefd8ccd502ae0a91e58568b8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.924; figure agreement 0.735; dictionary ratio 0.911. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.010
+    - ORS 215.020
+    - ORS 215.223
+    - ORS 215.283
+    - ORS 215.406
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 92%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD389-PDF (ORD389-PDF)
+
+## At a glance
+
+OCR-derived text of ORD389-PDF. Not human-verified.
+
+## Full text
+
+ie   s 493                          FOR     THE          COUNTY             OF    YAMHILL                         34
+
+               SITTING           FOR     THE     TRANSACTION                      OF    COUNTY           BUSINESS
+                                                                                                                           C
+
+In     the Matter of an Ordinance
+
+                                                                           WS
+to     Implement Planning Commis-—
+sion      Resolution                  84-21     Authori-
+
+                                                                           SSS
+zing      an    Amendment               to     the       Yam-                          ORDINANCE              NO.              389
+hill      County          Zoning         Ordinance
+No.  310,           1982,  Requested                     by
+
+                                                                           ww
+Motorola            C & E,  Inc.
+
+             THE     BOARD    OF         COMMISSIONERS  OF                            YAMHILL  COUNTY,  OREGON   (the
+Board)        on     the   26th          day of September,                             1984,  sat  for the  transac-
+tion of County                   business,   in special  session, Commissioners David
+E. Bishop,  Ted                  Lopuszynski   and Robin J. Hamblet being present.
+
+             WHEREAS,            Motorola            C    &    E,     Inc.            has    applied            to    the           Yamhill
+County         Department of                  Planning and Development                                     to       change           the of-
+ficial         zoning on Tax                  Lot 2231-1800 from AF-20                                     to       PWS on           a 2.19
+acre      portion          of         said    tax        lot     as    more            fully        identified                  on    the
+attached Exhibit   "B",  to allow for                                             expansion              of     an    existing              ra-
+dio communications    facility;  and
+
+             WHEREAS,            on     the     second           day        of        August,        1984,           the        Yamhill
+County Planning Commission unanimously   recommended   said zone
+change based upon the reasons   set forth in the attached Planning
+Commission  Resolution 84-21 and the findings   of fact and conclu-
+sionary         findings               attached           thereto;                and
+
+             WHEREAS,            on     the     22nd          day     of         August,           1984,        the    Board              held
+a public hearing on the question of whether to grant said appli-
+cation and voted unanimously  to allow such amendment in conjunc-
+tion with the Comprehensive Plan map change  from Agriculture/
+Forestry Large Holding to Public Facilities
+
+             NOW THEREFORE,   based upon  and for                                            the reasons  set  forth
+in     the     attached Resolution,  findings  of                                            fact and  conclusionary
+findings,            IT     IS        HEREBY     ORDAINED              by         the       Yamhill           County            Board       of
+Commissioners                as        follows:
+
+             Section         1.         The     Official              Zoning            Map     of       the        Yamhill           County
+Zoning         Ordinance,               No.     310,          December,                1982,        be     and       hereby           is
+amended to change the official  zoning on Tax Lot 2231-1800  from
+AF-20 to PWS on a 2.19 acre portion of said tax lot as more
+particularly identified on the attached Exhibit  "B" incorporated
+herein         by    this        reference,               for       the          reasons           set     forth       in           the    at-
+tached  findings                      of fact and conclusionary  findings identified                                                             as
+Exhibit  "A" and                      incorporated herein by this reference.
+
+       Section 2.  This Ordinance being necessary   for the health,
+safety and welfare of the citizens of Yamhill   County,  and an
+emergency having been declared to exist shall be effective imme-
+diately upon passage hereof.
+
+             DONE     this            26th     day       of     September,                  1984     at       McMinnville,
+Oregon.
+
+ATTEST:                           .                                    YAMHILL               COUNTY           BOARD        OF        COMMISSIONERS
+
+                                                                                 aE8(
+                                                                       Commissioner/
+                                                                                                              ee
+                                                                                                              TED)     LOPUSZYNSKI
+
+                                                                                                                               J.    HAMBLET
+
+          VANCE      NO.
+                                                                       RESOLUTION
+
+In the Matter of an Amendment   to                                            the      )
+Yamhill County  Zoning Ordinance,                                             No.
+                                                                                             RESOLUTION           NO.. 84-21
+310,           1982,     as    requested                 by       Motorola
+C     &   E,     Ime.                                                                  )
+
+          THE         PLANNING        COMMISSION                   of       Yamhill        County,        Oregon,    on     the
+2nd day               of August,  1984,  sat for the transaction                                               of County busi-
+ness at               a regularly  scheduled  session.  Planning                                               Commissioners
+Treadway,               Schatz,           Miller,             Bennette,              Philpott        and       Weidemann     were
+present.
+
+          WHEREAS,            the     Yamhill             County             Board     of    Commissioners           adopted          the
+Yamhill               County     Zoning             Ordinance,                No.     310    in    December,        1982,      being
+the       Yamhill         County              Zoning          Ordinance              text    and     Official       Zoning        Map;
+and
+
+     WHEREAS,  ORS 215.020 provides   that a governing body may create
+a county planning commission and,     pursuant   to ORS 215.406,    may de-
+signate   the planning commission   to serve as a hearings officer with
+all  the power and duties of a hearings     officer   as prescribed    by
+ORS       215.010         and        215.402             to       215.422;           and
+
+          WHEREAS,  the Yamhill  County Board of Commissioners   created
+the       Yamhill  County Planning   Commission by adoption of an unnumbered
+Board           Order     on        the       6th    day          of    November,           1957     and       designated      that
+planning               commission  as the hearings body for petitions  for amend-
+ments  to              the Yamhill County  Zoning Ordinance, by adoption of Ordi-
+nance           No.     138    on     the          lst    day          of    June,     1977;       and
+
+     WHEREAS,     it appears    to the Planning Commission    that a petition
+submitted on behalf of Motorola C & E, Inc.,           has been filed with
+the Yamhill     County Department of Planning and Development,         pursuant
+to Section     1207 of Ordinance No.      310 to amend said Ordinance,      and
+change   the Official     Zoning Map designation     from Agriculture   Fores-—
+try Large    Holding    (AF-20)   to Public Works/Safety    (PWS)  for a parcel
+described    as being a 2.19 acre portion of a 6.6 acre tract;          and
+
+    WHEREAS,  the Planning Commission,    on the 2nd day of August,    1984,
+held public hearing   as required by ORS 215.223    and 215.416 on the
+proposed amendment   and voted to approve   the request based on the
+findings  and conclusions   attached hereto as Exhibit   "A" and by this
+reference made a part hereof;
+
+          NOW         THEREFORE,              IT    IS     HEREBY            RESOLVED        that        the    Official     Zoning
+Map be and hereby   is amended  to show the zoning designation on a
+2.9 acre portion of Yamhill    County Tax Lot 2231-1800   as Public Works/
+Safety  (PWS) as shown on the sketch plan attached    hereto as Exhibit
+"B" and by this reference made a part hereof.
+
+    This   resolution  shall  be in force and effect from and after the
+date the change    is properly recorded on the Official   Zoning Map.
+The Yamhill County Planning Director be and hereby      is directed and
+authorized   to amend said Official   Zoning Map in conformance with
+this           Ordinance.                                                                                              :
+
+     Such amendment   is to be done in conjunction with a Comprehensive
+Plan map change   from Agriculture   Forestry Large Holding to Public
+Facilities  recommended by the Planning Commission    to be approved
+by the Board of Commissioners     for the same area.
+
+          DONE         this     2nd       day       of     August,            1984
+
+          AYES:           Treadway,                 Schatz,             Miller,        Bennette,           Philpott,        Weidemann
+
+          NAYES:
+
+RESOLUTION               84-21            -    Page           l
+        ABSTENTIONS:
+
+        Approved     by       the       Chairman   on   the    2nd      day    of   August,     1984.
+
+ATTEST:                  Fa                                   YAMHILL         COUNTY    PLANNING        COMMISSION
+
+ rae,                /         ,                                     A ~/,     wt      Vis
+
+Mbt                Ne téalt                                      v
+‘Lym   Steiger                                                Dick      Sadler,      Chairman
+ Planning Direc
+
+ RESOLUTION        84-21            -   Paye   2
+                                                                              EXHIBIT            "A"
+
+Findings      of         Fact
+7
+      The         applicant’
+                           has                  requested                     a     plan        amendment/zone                       change           on    a    two
+      point nineteen   (2.19)                                acre portion of the six point   sixty                                                         (6.60)
+      acre  subject property                                  to allow for updating and  expansion                                                          of an
+      existing             communication                          facility.
+
+      The          subject              property                   was            purchased            by           the        applicant                   as     an
+      operating                 radio         communications                             site     in     1974.                There        is        currently
+      a     12"     by      10'        block     building                         used     for     housing                radio           equipment              and
+      2    antenna              poles          located                  on        the     subject            property.                         The    subject
+      property             fronts         Mountain                     Top        Road     and     has       ‘electric                power           provided
+      to     it.
+
+      The radio  communciations   facility will   consist                                                                           of     a    280        square
+      foot building  and a 160 foot high radio  tower.
+
+      The  applicant   has   indicated   that                                                      the  purpose   of   the    radio
+      communication  facility  is  to provide                                                     service   to police,    fire   and
+      medical               units         as         well               as         to     public             utilities,
+                                                                                                                      and                             private
+      businesses.      The  applicant   has operated    a similar   service  on  the
+      property     for  10 years   and indicates    that   there  is now  a need  to
+      update   and   expand   the facility  to  meet   the  communication   demands
+      of  today.
+
+      The  subject                    property  is                 presently                used       as       a     radio              communications
+      station and                     for pasture.
+
+      The  soils                on the subject                           property                are     Agricultural                           Class           III,
+      Laurelwood                 silt loam. _
+
+      The         adjacent             land     to           the        east        is     zoned       PWS          and        is-currently                     used
+      for radio communication                                          purposes.                 Other          zoning               in        the    area        is
+      predominantly AF-20.
+
+      Land          uses          on      nearby                   parcels                 include              radio               communication
+      facilities,                     rural     residential                             development                 and        farm        uses.            Those
+      properties  devoted                        to          farm            use        include        hay      and           pasture            production
+      and woodlots.
+
+      Although   there                    are     several                     PWS         zoned   sites in the County,  they
+      are  all devoted                     to    existing                     uses         and  are unavailable  for further
+      development.
+
+      State          law        provides         that              utility               facilities                 may        be     established                 in
+      any  area   zoned  for   exclusive   farm   use  (ORS  215.283). However,
+      the  County   Zoning   Ordinance   only   allows   for establishment  of a
+      utility   facility   within  the PWS  District.
+
+      The         following             public           agency               comments            have       been             received:
+
+      A.          County  Engineer                       -        No     conflicts                with        the             Road        Department's
+                  interests.                                                                                              ,
+
+      B.          County          Sanitarian                  -    No        conflicts             with       Environmental                           Health's
+                  interests.
+
+      C.          City     of      Newberg           -       No        conflicts                with      the        City's              interests.
+
+      D.          SWCD     -     No     conflicts                  with           the     District's                interests.
+
+      E.          Newberg    Fire               District                      -     No     conflicts                 with            the        District's
+                  interests.
+
+12.   The Newberg/Dundee                             PAC will   consider   the application                                                           at their
+      meeting of July 25,                            1984.  Their   recommendation  wili be                                                           reported
+      at     the         public         hearing.
+          lowing     conclusionary                findings            can    be     made         for-    approval        of    the
+     cation:                 :                                                                             f
+
+     The  facility          is consistent   with   the                      applicable             goals       and   policies
+     of  the County           Comprehensive   Plan   in                     that:
+
+     a.    All   necessary               services   and    utilities   are   currently  provided
+           to  the   site;               therefore,     the   proposed    radio   communication
+           facility         will         not     require        the     extension            of        urban    services         to
+           the     site;         and
+
+     be    The     amount         of    Agricultural             Class        III     land         being       taken     out    of
+           potential              production          is        very        small      considering                   that      the
+           applicant              only       proposes           construction                of     a    280     square        foot
+           building   and              a radio  tower;            therefore,                the remainder   of the
+           property   can              continue   to be           used  as it               is presently  without
+           interference.
+
+     There    is  an    existing,      demonstrable           need     for  the     proposed
+     amendment    considering     that    the     proposed    land    use  is    a  necessary
+     expansion     and    updating      of     an    existing      radio    communication
+     facility    on the    subject    property.         The  applicant      has    indicated
+     that   there    is   now  a   need     to    update    and    expand     the    existing
+     facility       to     meet        the     communication            demands        of        today,        and   approval
+     of   this     amendment            would     help      accommodate              such         an    expansion.
+
+     The sareauested          amendment       is    timely    in    that     the    existing
+     communication           facility    on     the   property     has    been     owned     ind
+     operated    by    the   applicant    for    10  years  and  in    order    to  keep  pé
+     with  changing        communication     technology,     the  existing      facility     now
+     needs  to    be    updated   and  expanded.        The  requested      amendment    wilt
+     allow   for     such   an expansion.
+
+4.   Although     there    are    other     PWS    zoned    sites    in   the    County.         Those
+     sites   are    devoted       to    existing      uses     and,     therefore,           are   got
+     available      for further         development.          Further,      in that        there    are
+     existing    radio    communication         facilities      nearby     and    on    the   subject
+     property     and    because       the   subject       property      abuts       an    existin.,
+     developed       PWS    zomed       site,     the    proposed        amendment           appcurs
+     compatible      with    surrounding         land     uses   and    serves       as   a logi
+      ite  for   expansion     of    the   existing      communication         facility.
+     a
+
+5.     n that   State     law   provides   that    Counties    may    allow   utility
+     4
+
+     facilities     and  other    associated   PWS   uses  within    exclusive    farm
+     use  areas,    and   because    the proposed     facility    falls   within   the
+     category    of  uses    that  State  law   provides    for,   no   exception    is
+     necessary       for         the     proposed        use.
+                                                                                                                           yraren
+          SKETCH               PLAN  FOR COMPREHENSIVE   PLAN
+                             EXHIBIT   "B" FOR ORDINANCE  NO,
+
+    "QO    CHANGE                   THE     COMPREHENSIVE                                    PLAN        MAP      DESIGNATION
+            FROM                   "Agricul            ture                      orestry—Large
+                                          TO      "Public                         Fa    ities"
+
+           ETCH                  PLAN      FOR     OFFICIAL                             ZONING           MAP      A
+                             EXHIBIT             "B"         FOR                 ORDINANCE               NO.      389
+                             TO     CHANGE             THE      OFPECTAL                        ZONING            MAD
+                                          EPROM         NAP                  PON        TO    Hh    Wo
+                                                                                                         "
+
+ADOPTED                     BY     THE    YAMHILL               COUNTY                       BOARD           OF   COMMTSS TONED:
+                                                 September                             26,    1984
+
+App li@ant:                               Motorola                           C     &    E,    Ine.
+Address:                                   1170   Chess    Drive
+                                           Forest    City,    CA 94404
+
+Telephone:                                 (415)         349-3111
+Tax       Lot               No.:          2231-1800
+Docket          Now:                      PA-137-84/2Z-252-84
+
+                                                                                                                         24
+Change          applies                    to     shaded                         portion            of       taxlot     2°31-1800
+
+°               |                        Bat
+                                          ! aa                          |,
+
+                    !                                               i
+                    i                                               '
+                        j                                           if
+                        }
+                                                                    j
+                                                                                                                        iS|
+                        i                                           i                                                         |
+                i                                                   j                                                     a
+                j                                              sI                                                         ca
+                                                                                                                          ine:
+                    i%|                                        :o
+
+                    i
+                i
+                |
+                    :                                               H                                          beales    14       =    100"
+                i                                                   }
+
+                    i                                           4
+                    f                                               i
+
+Sketch   prepared                           by         Yamhill                         County        Department            of         Planning
+and   Development.
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 92.4% of
+the word sequence, and on 73.5% of the figures. Dictionary-recognizable words: 91.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

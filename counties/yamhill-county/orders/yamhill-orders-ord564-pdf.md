@@ -1,0 +1,1568 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord564-pdf
+title: 'ORD564-PDF'
+doc_type: ordinance
+citation: 'ORD564-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17595/ORD564-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 2a52bd91a36cbad513ed7b3017cfeb2f9cce4bc47bc8dc3fd9a2c2bd31fe6c11
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.990; figure agreement 0.848; dictionary ratio 0.949. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.732
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD564-PDF (ORD564-PDF)
+
+## At a glance
+
+OCR-derived text of ORD564-PDF. Not human-verified.
+
+## Full text
+
+wef    if
+                                                                                                                                                           Sele
+
+                                                                                                                                an    ngs
+
+                                                                                                                     209                  :
+               IN        THE     BOARD           OF     COMMISSIONERS                  OF    THE     STATE          OFY GeEGGN
+
+ 93-5 6/                                         FOR THE COUNTY OF YAMHILL
+                         SITTING           FOR         THE     TRANSACTION              OF    COUNTY:          -BUSINESS
+
+ In the Matter of an Ordinance
+ Amending the Yamhill County
+
+                                                                                  SS
+ Comprehensive Plan (1974) to
+
+                                                                                  SS
+ Change the Designation of 30 Acres
+ from Agriculture/Forestry Large
+ Holding to Agriculture/Forestry
+
+                                                                                  SS
+ Small        Holding               and    to         Amend     the
+ Official            Zoning           Map        from        AF-20
+ Agriculture/Forestry                                 to AF-10                                           ORDINANCE                    564
+ Agriculture/Forestry Small Holding
+ and Taking an Exception from
+ Statewide Planning Goals 3 and 4
+ on     Tax    Lots            6401-100,               102     and    103,
+ Planning Docket PAZ-4-93,
+ Appliants Leo and Lorna Hammer;
+ and Declaring an Emergency.
+
+             THE         BOARD        OF     COMMISSIONERS                   OF        YAMHILL           COUNTY,                OREGON              (the
+ Board),            sat         for        the         transaction            of        county           business                    in       special
+ session.on December                              1,     1993,        Commissioners                  Debi          Owens,                 Dennis      L.
+ Goecks,            and        Ted    Lopuszynski                being        present.
+
+       WHEREAS,   on June 9, 1993, Leo and Lorna Hammer    ("Applicant")
+ applied   to   the    Department of  Planning  and  Development   for    a
+ Comprehensive     Plan Map amendment   from Agriculture/Forestry   Large
+ Holding            to        Agriculture/Forestry                         Small            Holding,           a    zone        change              from
+ AF-20         Agriculture/Forestry                              to        AF-10            Agriculture/Forestry                                Small
+ Holding,            and an exception to Statewide Planning                                                        Goals  3 and 4,                    on
+ Tax Lots            6401-100,  102 and 103, Planning Docket                                                       PAZ-4-93;   and
+
+       WHEREAS,   on August  5,  1993  the  Yamhill   County  Planning
+ Commission held a public hearing to consider the application and
+ thereafter failed to approve the zone change and did not recommend
+ approval   of the comprehensive   plan amendment   or exception,   and
+ referred            the        matter           to     the     Board        of        Commissioners;                 and
+
+          WHEREAS, on September 8, 1993, the                                                Board held a public hearing
+ on     the application  at which testimony                                                 and evidence was received,
+ and     the       matter            was     continued               to    September               22,    1993,            at        which          time
+ further           testimony               was         received           and that           following              the     close              of    the
+ hearing           and        the     record,            the    Board       deliberated                  and       a majority                  of    the
+  Board   voted to   tentatively   approve   the  application    for the
+_ comprehensive  plan   amendment,   zone  change  and   exception,  and
+  directed staff to prepare findings for denial; and on October 27,
+  1993 the Board directed staff to prepare an ordinance and findings
+  in support of approval; and
+
+ ORDINANCE                564
+ Page    1                .
+                                                                                                                                                      G3-P6/
+       WHEREAS,   the  findings  and   conclusions   attached                                           hereto  as
+ Exhibit   "A and   incorporated  herein   by  this reference                                           provide   a
+ justification for approval of the application,     including                                          the taking
+ of an exception to Statewide Land Use Planning Goal 3;                                                and
+
+       WHEREAS,    the  attached     Exhibit    "A"    demonstrates    that the
+ proposed exception and amendment to the Yamhill County Comprehen-
+ sive Plan,   Plan Map, and Official Zoning Map of Yamhill County are
+ in  the  best   interests   of  the   citizens     of  Yamhill   county;   Now
+ Therefore,
+
+            THE    YAMHILL         COUNTY     BOARD    OF    COMMISSIONERS             ORDAINS      AS   FOLLOWS:
+
+            Section         1.     The   Yamhill      County   Comprehensive                Plan   and   Plan    Map
+ (1974)       are     hereby        amended    as     specified     in     the       attached      Exhibit      "B",
+made part of                     this  ordinance  by  reference,  to  reflect  a plan
+designationof                    Agriculture/Forestry Small Holding on Tax Lots 6401-
+ 100,       102     and     103.
+
+      Section 2.  In adopting   the plan                                amendment  specified in this
+ordinance,   the county  hereby    takes                                an  exception   to  Statewide
+Planning Goal 3.
+
+      Section  3.   The Official   Zoning  Map of  Yamhill   County  is
+hereby amended as specified   in the attached Exhibit   "B" to reflect
+a zoning designation of "AF-10 Agriculture/Forestry Small Holding".
+
+      Section              4.      The findings attached                as Exhibit           "A" and     incorpo-
+rated  herein               by     reference  are hereby                adopted  in          support      of this
+ordinance.
+
+      Section  5.   This    ordinance   being   necessary   for the  health,
+safety,   and welfare    of   the  citizens   of    Yamhill  County,  and  an
+emergency having been declared to exist,         is effective upon passage.
+
+            DONE     at    McMinnville,         Oregon       this   lst        day    of     December,     1993.
+
+                                               YAMHI        Vi:     f      OARD       OF     COMMISSIONERS
+
+                                                                               eZee
+                                                                         DEBI        OWENS
+
+                                               Sos           eee         DENNIS        L.     GOECKS
+
+ GA         C.. es         TAFF               combos                    CTED     YOPUSZYNSKI
+ ssistant                 unty     Counsel
+
+ec\qlu93272.001
+
+ORDINANCE            564
+Page    2
+                                                     EXHIBIT         "A"
+
+                                         FINDINGS   IN SUPPORT                       OF
+                                               ORDINANCE    564
+
+Preliminary             Approval         by    Board       of     Commissioners:                   September           22,
+1993
+
+Final Adoption                 of    Ordinance        by     Board       of         Commissioners:               December
+1, 1993
+
+DOCKET:                                 PAZ-4-93
+
+REQUEST:                                Comprehensive  Plan Map                           Amendment  from Agri-
+                                        culture/Forestry Large                            Holding to Agricul-
+                                       ture/Forestry Small Holding and Zone Change
+                                       from AF-20 Agriculture/Forestry to AF-10
+                                       Agriculture/Forestry Small Holding,  and Ex-
+                                        ception       to     Goals         3    and       4.
+
+APPLICANTS         :                   Leo and Lorna Hammer are co-applicants with
+                                       Alvin and Sharon Phillber, and Paul and Tam-
+                                       ara Clemons
+
+TAX    LOT:                             6401-100,           102    and         103
+
+LOCATION:                              Approximately               two         miles       southwest        of    Hopewell
+                                        at    the    end     of    Jerusalem               Hill    Road.
+
+REVIEW        CRITERIA:                 Section       403,        501,         1204,       and    1208     of    the
+                                       Yamhill        County         Zoning            Ordinance.
+
+FINDINGS:
+
+A.        Background            Facts
+
+dive     Lot      Size:         Three        lots    that       total          30    acres.
+
+2.       Access:          Jerusalem            Hill    Road.
+
+3.    On-Site Land Use:  The majority                                    of         the property           is forested.
+There are some clear grass  areas but                                    no         farm use was           evident
+during the site visit.
+
+4.    Surrounding Land Use:    Surrounding property is a mixture     of
+farm and forestry use.    Land to the north,   east,  and west is in
+farm use which includes   orchards,   pasture and field crops.    East
+of the subject parcel the properties     are in small   farm and rural
+residential use.
+
+De        Surrounding               Zoning:         Adjacent        property               to    the   east      is    an
+area      zoned        AF-10        Agriculture/Forestry                       Small       Holding.         The       remain-
+
+Docket    PAZ-04-93        (Hammer)
+EXHIBIT     "A"    — Page 1
+Ordinance          564
+der    of the neighboring properties                                 are    zoned       in    a   mixture         of   AF-20
+and    EF-40 Exclusive Farm Use.
+
+6.       Soils:          Sheet          56    of     the    Yamhill        County       Soil       Survey        indicates
+the     following         soil          types:
+
+         Soil Name                       Symbol              Percentage                  Ag      Class
+         Woodburn                         WuC                      20                          Il
+         Woodburn                         WuB                      20                          II
+         Wapato                           We                       20                          III
+          Jory                               Jrc                      20                       III
+         Jory                                JxrD                     10                       III
+         Jory                                JxrE                     10                       Iv
+
+var   Water:   Lot  102 has an on-site well and lot 100 has a
+spring.    The Watermaster’s     comments indicated that there are a
+couple of water rights      for  domestic use in the area.          The new
+development   will  require    a water  right   if   surface   water   is used.
+Ground water is    exempt   for  domestic   use   up  to  15,000   gallons   per
+minute.
+
+8.    Sewage Disposal:     The existing dwelling has an on-site
+subsurface    system.  Future  developments would require approval                                                         of
+on-site   systems by the County Sanitarian.
+
+      The         Yamhill County Sanitarian reviewed the file and found
+that the          Jory series  soil type has high feasibility   (>75%)
+although          some slope  problems  may occur. E and  F slope   designa-
+tions      are     the    most          difficult           for     standard       septic          approvals.
+Woodburn   soils             have        a    +75%        feasibility        for    standard             septic        system
+approvals.
+
+9.        Fire     Protection:                  Amity       Rural     Fire    District             reviewed        the
+file      and     found      no     conflicts              with    their     interests.
+
+10.       Taxes:         Forest          deferral.
+
+11.       Previous        Actions:                  When    the     zoning    was       first         established         the
+area was          zoned     AF-10            Agriculture/Forestry                  Small Holding.   In 1978
+and 1979          these     three            parcels were created                  by partition dockets   P-
+828-78,         P-990-79,           and       P-1058-79.             In    1980    it    was       determined           that
+the     zoning      on    these          parcels           should     be    changed          to   AF-20      Agricul-
+ture/Forestry.
+
+Bs        Oregon        Administrative                    Rule    Provisions        and       Analysis.
+
+Lis      Goals      3    and       4.        Goal     3    defines        agricultural               land   as    that
+with an agricultural    Capability Class I through IV, as well as
+other lands   suitable  for farm use or necessary to permit    farm
+practices   on adjacent  lands.   Part of the subject property    is
+regarded          as agricultural land by virtue of its                                       Class II, III and
+IV soils          (see Finding A.6).  Since the land is                                       forested and zoned
+Agriculture/Forestry,   it can also reasonably                                           be       considered           forest
+land.   Goal 4 protects   forest uses.
+
+Docket     PAZ-04-93        (Hammer)
+EXHIBIT     "A"    - Page      2
+Ordinance         S6¥
+         An      exception                to         Goals        3     and        4,        the      statewide                   agriculture                  and
+forestry goals, is required by Oregon Administrative Rule (OAR)
+660-04-010 if the land is to be zone-designated for any use other
+than exclusive farm or forestry.  The AF-10 Agriculture/Forestry
+Small Holding zone, the requested zoning, is a rural residential
+zone.
+
+2.       Administrative                         Rules          Criteria.                       OAR     660-04             et       seq.
+
+      OAR           660-04          sets             forth        the        Interpretation                         of           Goal       2     Exception
+Process.
+
+2.1      OAR        660-04-000                  (Purpose)                   states             in     relevant                   part:
+
+         "(2)   An exception is a decision to exclude certain land from the
+         requirements of one or more applicable statewide goals.   ... The
+         documentation                  for     an     exception             must        be     set    forth        in       a    local
+         government’s comprehensive plan.   Such documentation must support
+         a conclusion that the standards for an exception have been met.
+         The conclusion shall be based on findings of fact supported by
+         substantial evidence in the record of the local proceeding and by
+         a statement of reasons which explain why the proposed use not
+         allowed by the applicable goal should be provided for ...".
+
+2.2   OAR           660-04-018  (Planning                                   and         Zoning         For         Exception                    Areas)
+provides            in pertinent part:
+
+         "(2) "Physically Developed" and “Irrevocably Committed" Exceptions
+         to goals other than Goals 11 and 14.   Plan and zone designations
+         shall       limit       uses          to:                                                                                                         :
+
+         "(a) Uses which are                         the     same       as       the     existing           types        of       land       use      on
+         the exception site;                         or
+
+         “(b)       Rural       uses      which         meet          the    following               requirements:
+
+         "(A) Rural uses are                          consistent             with        all        other     applicable                Goal
+         requirements;  and
+
+          "(B)      The     rural        uses        will     not       commit           adjacent            or    nearby          resource
+         land       to    nonresource                 use    as       defined           in    OAR     660-04-028;                 and
+
+          "(C)      The     rural        uses         are    compatible                 with        adjacent        or       nearby             uses.”
+
+2.3      OAR        660-04-025                   (Exception                   Criteria                For         Land           Physically
+Developed            to     Other             Uses)          provides                   in     pertinent                 part:
+
+         "660-04-025.                   (Exception            Requirements                     for    Land        Physically                Devel-
+         oped to Other                  Uses)
+
+          "(1)       A    local         government            may       adopt           an    exception            to    a       goal       when      the
+          land      subject        to     the         exception             is    physically                developed             to     the
+         extent          that     it     is     not     longer          available               for    uses        allowed             by       the
+         applicable             goal.
+
+         "(2)   Whether land has been physically developed with uses not
+         allowed by an applicable Goal, will depend on the situation at the
+         site of the exception.   The exact nature and extent of the areas
+         found to be physically developed shall be clearly set forth in the
+         justification for the exception.    The specific area(s) must be
+         shown on a map or otherwise described and keyed to the appropriate
+
+Docket     PAZ-04-93             (Hammer)
+EXHIBIT       "A"    -    Page      3
+Ordinance        $64
+         findings            of    fact.      The     findings           of   fact    shall        identify         the    extent
+         and location of the existing physical development on the land and
+         can include information on structures,    roads, sewer and water
+         facilities,  and utility facilities.   Uses allowed by the applica-
+         ble goal(s) to which an exception is being taken shall not be used
+         to justify a physically developed exception."
+
+2.4   OAR 660-04-028 (Exception Criteria For Land                                                               Irrevocably
+Committed to Other Uses)  provides as follows:
+
+         “660-04-028 Exception                      Requirements              for    Land     Irrevocably            Committed
+         To Other Uses.
+
+         "(1)   A local government may adopt an exception to a goal when the
+         land subject to the exception is irrevocably committed to uses not
+         allowed by the applicable goal because existing adjacent uses and
+         other relevant factors make uses allowed by the applicable goal
+         impracticable:
+
+         "(a)   A “committed exception" is an                                    exception taken              in accordance
+         with ORS 197.732(1)(b),   Goal 2 Part                                   II(b),  and with             the provisions
+         of this rule.
+
+         "“(b)          For the purposes              of this rule, and "exception area"                                  is    that
+         area         of land for which               a "committed exception" is taken.
+
+         "(c)   An "applicable goal", as used in this section, is                                                    a state-
+         wide planning goal or goal requirement that would apply                                                     to the
+         exception area if an exception were not taken.
+
+         "(2)   Whether land is irrevocably committed depends on the rela-
+         tionship between the exception area and the lands adjacent to it.
+         The findings for a committed exception therefore must address the
+         following:
+
+          "(a)         The      characteristics              of    the     exception         area;
+
+          "(b)         The      characteristics              of    the     adjacent         lands;
+
+          "(c)   The relationship                    between          the     exception           area    and   the       land
+          adjacent to it;
+
+          "(ad)        The      other      relevant         factors        set    forth      in    OAR    660-04-028(6)."
+
+         "(3)   Whether uses or activities allowed by an applicable goal are
+         impracticable as that term is used in ORS 197.732(1)(b),     in Goal
+         2, Part II(b), and in this rule shall be determined through
+         consideration of factors set forth in this rule.     Compliance with
+         this rule shall constitute compliance with the requirements of
+         Goal 2, Part II.    It is the purpose of this rule to permit irrevo-
+         cable         committed           exceptions         where        justified         so    as    to   provide
+         flexibility in the application of broad resource-protection                                                           goals.
+         It shall not be required that local governments demonstrate                                                           that
+         every use allowed by the applicable goal is "impossible".
+
+          "(4)         A conclusion           that an exception area is                           irrevocably         committed
+          shall        be supported           by findings of fact which                           address all         applica-
+         ble         factors       of   section       (6)     of    this      rule    and     by     a   statement         of
+         reasons           explaining         why    the      facts       support      the        conclusion         that       uses
+         allowed           by     the   applicable          goal      are     impracticable              in   the    exception
+         area.
+
+          "(5)   Findings of fact and                         a statement            of reasons that land
+          subject to an exception is                          irrevocably            committed need not be
+
+Docket     PAZ-04-93              (Hammer)
+EXHIBIT        "A™     -   Page     4
+Ordinance         $64
+         prepared for each individual parcel in the exception area.                                                        Lands
+         which are found to be irrevocably committed under this rule                                                       may
+         include physically developed lands.
+
+          "(6)   Findings of fact                       for   a   committed           exception       shall        address       the
+          following factors:
+
+          "(a)        Existing          adjacent         uses;
+
+          "(b)   Existing               public         facilities      and       services          (water     and       sewer
+          lines, etc.);
+
+          "(c)        Parcel        size     and       ownership      patterns          of   the     exception           area     and
+          adjacent           lands;
+
+         "(A)    Consideration of parcel size and ownership patterns under
+         subsection    (6)(c) of this rule shall include an analysis of how
+         the existing development pattern came about and whether findings
+         against the Goals were made at the time of partitioning or subdi-
+         vision.    Past land divisions made without application of the Goals
+         do not in themselves demonstrate irrevocable commitment of the
+         exception area.     Only if development  (e.g., physical improvements
+         such as roads and underground facilities) on the resulting parcels
+         or other factors make unsuitable their resource use or the re-
+         source use of nearby lands can the parcels be considered to be
+         irrevocably committed.      Resource and nonresource parcels created
+         pursuant to the applicable goals shall not be used       to justify a
+         committed exception for land adjoining those parcels.
+
+         "(B)   Existing parcel sizes and contiguous ownerships shall be
+         considered together in relation to the land’s actual use.        For
+         example,  several contiguous undeveloped parcels     (including parcels
+         separated only by a road or highway) under one ownership shall be
+         considered as one farm or forest operation.      The mere fact that
+         small parcels exist does not in itself constitute irrevocable
+         commitment.    Small parcels in separate ownerships are more likely
+         to be irrevocably committed if the parcels are developed,       clus-—
+         tered in a large group or clustered around a road designed to
+         serve these parcels.     Small parcels in separate ownerships are not
+         likely to be irrevocably committed if they stand alone amidst
+          larger          farm    or    forest         operations,         or    are    buffered          from     such
+         operations.
+
+          "(d)        Neighborhood             and      regional      characteristics;
+
+         "(e)   Natural or man-made features or other impediments separating
+         the exception area from adjacent resource land.    Such features or
+         impediments include but are not limited to roads, watercourses,
+         utility lines, easements,  or right-of-way that effectively impede
+         practicable resource use of all or part of the exception area.
+
+          "(£)        Physical          development           according          to    OAR   660-04-025;            and
+
+          "(g)        Other       relevant         factors.
+
+         "(7)   The evidence submitted to support any committed exception
+         shall, at a minimum,  include a current map, or aerial photograph
+         which shows the exception area and adjoining lands,   and any other
+         means needed to convey information about the factors set forth in
+         this        rule.        For    example,         a   local    government            may     use     tables,
+         charts,           summaries         or    narratives         to    supplement         the        maps     or    photos.
+         The      applicable            factors         set   forth    in       section      (6)     of     this    rule        shall
+         be      shown       on   the    map      or    aerial     photograph.
+
+Docket     PAZ-04-93              (Hammer)
+EXHIBIT        "A"    -    Page     5
+Ordinance        S64
+       "(8)        The   requirement     for   a map    or    aerial   photograph    in    section
+       (7)    of    this   rule   only   applies   to       the   following    committed    excep-
+      tions:
+
+      "“(a)        Those   adopted or amended          as    required by      a Continuance    Order
+      dated        after   the effective date          of    section (7)      of this rule;    and
+
+       "(b)  Those adopted or amended after the effective date                             of section
+       (7) of this rule by a jurisdiction with an acknowledged                             comprehen-
+       sive plan and land use regulations."
+
+2.5   OAR Chapter 660,   Division 4, explains the requirements      for
+taking exceptions   to statewide goals.      OAR 660-04-018  outlines
+the options   for taking exceptions.     The first is to base the
+exception on "physical development"      and/or  "irrevocable commit-—
+ment"  of the property to nonresource use.       This type of exception
+is intended to recognize and allow existing types of development.
+The second is a "reasons"     exception,  which allows   a jurisdiction
+to zone property with a non-agricultural designation if there          are
+sufficient grounds    for the change.
+
+2.6. OAR 660-04-020 and -022 detail the requirements                                         for     reasons
+exceptions.   Section 660-04-022(2) states:
+
+       For rural residential development,   the reasons   cannot
+       be based on market demand for housing,   except  as pro-
+       vided for in this section of the rule,   assumed continu-
+       ation of past urban and rural population distributions,
+       or housing types and cost characteristics.     A county
+       must show why,  based on the economic analysis   in the
+       plan,  there are reasons for the type and density of
+       housing planned which require this particular    location
+       on resource lands.
+
+      It is possible to justify a residential exception by deter-
+mining that the housing is needed to satisfy market demand
+generated by existing or planned rural industrial or commercial
+activity.
+
+      The applicant has stated the request would       fill a need for
+rural housing,   but the Yamhill County Comprehensive        Plan does    not
+contain an economic    analysis that would justify the proposed
+exception.   There are no commercial or industrial        uses   in the
+area other than commercial agriculture.       Consequently,      the Board
+finds that this request could only be approved       if it satisfies
+the requirements    for a "built" or "committed"    exception,      which
+are discussed in Findings B.4 to B.6,     below.
+
+2.7   The Board finds that the requirements    for taking a "devel-
+oped"  exception to Goals   3 and 4 cannot be satisfied,  but that
+the requirements   for taking a "committed"   exception to Goals   3
+and 4 have been satisfied,    for the reasons more fully described
+hereinbelow.
+
+2.8    Regarding the              requirements  for               physically  "developed"  excep-
+tions,   the subject              land consists of                three parcels  that total   30
+
+Docket  PAZ-04-93   (Hammer)
+EXHIBIT  "A"  - Page 6
+Ordinance     S64
+acres and currently supports one dwelling.                                               This dwelling was
+constructed in 1980, after adoption of the                                              Statewide  Planning
+Goals.          The       physically            developed       standards               prevent           the     county
+from including parcels that were developed after adoption of the
+Statewide Planning Goals.   Therefore the parcel with the dwelling
+cannot be considered physically developed.
+
+          The     applicant             stated       that     Tax    Lot         100    used        to    have     a    dwell-
+ing but it was removed in 1981.                                 Since the dwelling was not
+replaced within one year of its                                removal any future use of this
+parcel      comes             under     the     regulation          of   the       AF-20        zoning           ordinance.
+Because         the dwelling was removed,                           this     parcel            is    also        not    consid-
+ered to         be physically developed.
+
+2.9   The rules   for exceptions based on irrevocable     "commitment"
+require an analysis of the surrounding area.        An exception   area
+is adjacent to the east.      The exception area contains    five
+parcels of less than 12 acres that support      four dwellings.     The
+vacant parcel   in this exception area is adjacent to the subject
+parcels.   In addition to the exception area there are ten other
+parcels along Jerusalem Hill Road of less than ten acres.          All of
+these parcels   have dwellings existing on them.
+
+         While the parcel sizes to the east are of similar                                                        size to
+the     subject parcels, the lots to the west are larger.                                                         Parcels        to
+the     east vary in size from 50 to over 200 acres.
+
+          The     area         was     originally        zoned       for     rural         residential                 develop-
+ment.
+
+2.10 Parcelization and ownership in the area can be considered
+when evaluating an exception area.  In this case each of the
+parcels were approved for creation after adoption of the State-
+wide Planning Goals but while they were zoned  for rural residen-
+tial      development.                  After     the    parcels         were          created           the     zoning     was
+changed to the more restrictive AF-20 designation.                                                          Therefore the
+parcels were legally created without  findings being                                                        made against
+the goals.
+
+         Additionally,                  all   three      parcels           are     in    separate               ownerships.
+This     makes           it    unlikely       that      the    parcels            could     be       re-combined            and
+managed         as       part     of    larger     ownerships.
+
+      The adjacent exception area to the east, parcel size, and
+ownership pattern create a situation that irrevocably commit the
+subject parcels to a nonresource use.
+
+or    The requirements of OAR 660-04 for taking                                                 a        “committed"
+exception have been satisfied as follows:
+
+3.1   Exception Area.    The exception study area included in this
+Ordinance   includes  the property identified as such on Exhibit   "B"
+attached          hereto          and      incorporated         herein            by    this        reference.             For
+this      exception             area:
+
+Docket     PAZ-04-93            (Hammer)
+EXHIBIT     "A"      -   Page     7
+Ordinance         $64
+3.1.1         The           Board         finds       that        it     has       received         all     information
+necessary to                  consider the                   Planning Commission’s                          recommendation
+for approval                  of the study                   areas for an exception.
+
+3.1.2         The           Board         finds       that        proper           public      notice        has         been       given.
+
+3.1.3         The           Board         finds       that        the        proposed        exception             to        Statewide
+Planning Goals 3 (Agricultural Lands) and                                                      4 (Forest Lands) is
+consistent with OAR 660-04 which contains                                                      criteria for an excep-
+tion.
+
+3.2      OAR        660-04-000.
+
+     The Board finds                              that pursuant                    to OAR 660-04-000(2),   there                               is
+substantial evidence                              in the record                    that the standards  for  an
+exception               have        been        met     for       the        exception         area.         The         Board       also
+finds that                  the reasons               why the proposed use not allowed by                                            the
+applicable                  goal should               be provided are set forth herein.
+
+3.3      OAR        660-04-018.
+
+         The Board finds pursuant                                      to OAR 660-04-018(2), that                                  based       on
+the     findings contained in the                                      staff report, the plan and                                  zone
+designations                  will         limit        uses       to        the     following:
+
+3.3.1        Uses           which         are     the       same        as     the    existing            types         of    land       use
+on    the     exception                   site:        or
+
+3.3.2        Uses           which         are     rural          uses        which     are     limited            to:
+
+         (a)  Uses which                          are       consistent               with     all    other         applicable
+goal     requirements;
+
+            (b)         Rural         uses        which          will        not     commit     adjacent                or    nearby
+resource            land        to        nonresource               use;        and
+
+      (c)           Rural           uses        which        are        compatible           with         adjacent            or    nearby
+resource            uses.
+
+3.4      OAR        660-04-028.
+
+3.4.1        The        Board         finds        pursuant              to     OAR    660-04-028(1)                    that       the     land
+is irrevocably                      committed to other uses because existing adjacent
+uses and other                      relevant  factors make uses allowed by the applica-
+ble goal            impracticable,                      based the               relationship               between            exception
+area and            lands adjacent                      to it, as               shown by:
+
+            (A)     characteristics                         of    the        exception         area;
+
+            (B)     characteristics                         of     adjacent           lands;
+
+            (C)     relationship                      between           the     exception           area     and         adjacent
+lands;            and
+
+Docket       PAZ-04-93              (Hammer)
+EXHIBIT       "A"       -    Page     8
+Ordinance           S$Gé4
+            (D)         other     factors                listed        in     OAR    660-04-028(6).
+
+3.4.2   The Board                         finds that pursuant to OAR 660-04-028(4)   that
+the uses allowed                          by the applicable goals are impractica ble  in the
+exception                study        area          based        on    the        following        factors,     as        more
+fully        described                and          herein:
+
+            (A)         Existing              adjacent           uses;
+
+            (B)         Existing              public          facilities            and    services      (water           and        sewer
+lines,            etc.);
+
+      (C) Parcel    size and ownership patterns   of the exception area
+and adjacent    lands,   including how the pattern came about,    whether
+findings   against the goals were made at the     time  of subdivisio n,
+partition,   and existing parcel sizes and contiguous      ownerships ;
+
+            (D)         Neighborhood                    and    regional            characteristics;           and
+
+            (E)         Natural           or       man-made           features        or     other    impediments
+separating the exception area from adjacent resource land,
+including but not limited to roads, watercourses,   utility lines,
+easements  and rights-of-way that effectively impede practical
+resource use of all or part of the exception area.
+
+8.5         The         Department                 of    Land     Conservation               and    Development            submit-—
+ted     a    letter             dated          July       20,     1993,           stating     that    there     was        a     lack
+of documentation   addressing the requirements of OAR 660,   Division
+4, which  is needed to justify an exception.   The Board   finds  that
+the information contained in the staff report and the exhibits
+presented                at     the       August          5,     1993       Planning         Commission       hearing                and
+the hearing before the                                   Board on September 22,  1993, provided
+adequate  documentation                                  to address the applicable requirements                                        of
+OAR     660         Division              4    as       described           above.
+
+Cx          Ordinance             Provisions                    and    Analysis
+
+dee         Section             1204          of    the       Yamhill         County        Zoning    Ordinance             (YC2Z0)
+states  that exceptions  to statewide goals                                                   are subject only to                       the
+requirements  of the Oregon Administrative                                                    Rules discussed  in
+Section             B of this report.                            The plan amendment portion                          of    this
+request             is not subject to                           local review criteria.
+
+2.          The         zone     change             portion           of     the    subject        request    must         comply
+with        the         standards              and       criteria            in    YCZO    Section      1208.02.                These
+provisions                are:
+
+            (a)    That the proposed change is consistent with the
+            goals,    policies, and any other applicable provisions                                                             of
+            the Comprehensive Plan.
+
+            (b)          That     there             is    an     existing           demonstrable         need        for
+            the particular uses allowed by the requested zone,  con-
+            sidering the importance of such uses to the citizenry
+
+Docket       PAZ-O04-93           (Hammer)
+EXHIBIT           "A"    — Page       9
+Ordinance           SGY
+         or the economy of the area,   the existing market demand
+         which such uses will satisfy,    and the availability and
+         location of other lands  so zoned and their suitability
+         for the uses allowed by the zone.
+
+         (c)   That the proposed change   is appropriate consider-
+         ing the surrounding land uses,     the density and pattern
+         of development  in the area,  any changes which may have
+         occurred in the vicinity to support the proposed amend-
+         ment and the availability of utilities      and services
+         likely to be needed                                by    the       anticipated           uses     in     the
+         proposed district.
+
+         (d)   That other lands in the county already                                                      designated
+         for the proposed use are either unavailable                                                       or not as
+         well-suited for the anticipated uses due to                                                       location,
+         size,         or    other            factors.
+
+          (e)        That        the         amendment                is    consistent           with     the     current
+         Oregon           Administrative                         Rules        for    exceptions,           if     applica-
+         ble.
+
+         These         criteria               are       addressed,                respectively,            in     Findings       C.3
+through         C.7,        below.
+
+3.       The        Board        finds         that          the       application           satisfies            the     standards
+and criteria in                    YCZO Section 1208.02(a)                                 because it           is consistent
+with the goals,                    policies, and any other                                 applicable           provisions of
+the    Comprehensive                     Plan.
+
+3.1   Regarding Comprehensive                                         Plan     goals       and    policies,             Policy   (a)
+of Goal I.B.2 states:
+
+          “Yamhill County will                               continue to               recognize that the
+          appropriate location                               of very low               density residential
+         development  is in designated large areas where commit-
+         ments to such uses have already been made through
+         existing subdivisions,  partitioning, or development  and
+         by virtue of close proximity to existing urban centers;
+         or     in     small,            limited             areas          having        unique        scenic,         loca-
+          tional and other suitable site qualities where the
+          anticipated magnitude or density of development is                                                              not
+          such       as     to     require              more          than     a very       basic        level     of
+         services, such                       as single  local-road  access,                               individual
+         domestic wells                       and sewage disposal   systems,                               and possi-
+         ble        rural         fire        protection."
+
+3.2       The       request             is    in       an    area          that     has    existing        partitioning           and
+does     conform            to     the        intent             of    the     first       part     of    this     policy.
+Regarding the second portion of                                             the policy  (after the semicolon),
+the characteristics of the site                                             do not appear to be unique.    The
+property            does     provide               a    nice          rural       location,         but    it     is     not
+necessarily               unique,             and       other          locational           factors        attributable           to
+the    site         are     shared            with          other          properties        in     the    vicinity.
+
+Docket     PAZ-04-93             (Hammer)
+EXHIBIT       "A"    - Page        10
+Ordinance        $64
+4.       The      Board        finds        that     the    application       satisfies         the   standards
+and   criteria           in     YCZO        Section        1208.02(b)       based    on   the    evidence
+showing that there   is an existing demonstrable need for the
+particular uses allowed by the requested zone, considering the
+importance  of such uses to the citizenry or the economy of the
+area,  the existing market demand which such uses will satisfy,
+and the availability and location of other lands    so zoned and
+their suitability   for the uses allowed by the zone.
+
+4.1       Regarding           the         need     for    the    proposed    change,      the    applicant
+has stated there   is a need for rural homesites.       There was no
+additional  information    submitted by the applicant regarding this
+criterion.   A review of the area shows there are two exception
+areas within one mile of the subject parcels.        Both of these
+exception sites have    five parcels   that average ten acres each.
+Both areas contain one undeveloped      lot.   Based on this survey of
+rural development,   it is clear that property available       for rural
+residential development     is becoming more scarce.     Therefore,
+there is an existing demonstrable      need for additional    rural
+residential building    sites.
+
+5a     The Board finds                      that the application satisfies the standards
+and   criteria in YCZO                      Section 1208.02(c) based on the evidence
+showing that the proposed change        is appropriate considering the
+surrounding    land uses,   the density and pattern of development    in
+the area,   any changes which may have occurred in the vicinity to
+support the proposed      amendment  and the availability of utilities
+and services    likely to be needed by the anticipated uses in the
+proposed district.
+
+5.1   Regarding the density and pattern of development       for crite-
+rion  (c) above,  see also Section B of these   findings.     It appears
+that  10-acre  zoning in the vicinity  is in character    with  the lot
+size pattern existing    in the area.  The applicant   stated that
+there have been homes built on small acreages     in the immediate
+vicinity since   1974.  A search of county records    indicates    this
+is correct.
+
+5.2   Regarding availability of services,    the County Sanitarian
+indicated the soils   in the area appear to be suitable    for subsur-
+face sewage disposal.    The subject parcels    are in an area desig-
+nated as a "Groundwater Limited Area".     This designation    limits
+the   availability                   to    obtain        water    rights    for     irrigation.        The
+Watermaster   stated that domestic use of groundwater   is exempt
+from being required to obtain water rights.     This request by
+itself  should not have a significant  negative  impact on ground-
+water supply in the area.
+
+6.   The Board finds  that the application satisfies      the standards
+and criteria in YCZO Section   1208.02(d)   based on the evidence
+that other lands  in the county already designated     for the pro-
+posed use are either unavailable    or not as well-suited     for the
+anticipated uses due to location,     size, or other factors.
+
+Docket    PAZ-04-93           (Hammer)
+EXHIBIT     "A"    -   Page     11
+Ordinance      S64
+6.1    Finding C.4 sets forth the evidence that satisfies this
+criteria as well.   There is evidence that there is an inadequate
+supply of land available in the area to meet the demand for rural
+residences.
+
+7.    The Board finds that the application satisfies the standards
+and criteria in YCZO Section 1208.02(e) based on the evidence
+showing that the amendment is consistent with the current Oregon
+Administrative                  Rules         for       exceptions,                  if    applicable.               The    Board
+finds        that     the       OAR         requirements                 are     addressed          in        Section       B    of
+these        findings.                 An    exception              to       Goal     14    has    not        been    addressed
+because         one       dwelling            per       10-acres              indicates           that        potential          uses
+would        not     be    at     an        urban       scale,           and     therefore          Goal        14    does       not
+apply        and     no    exception               to     it    is       required.
+
+8.    Based on the foregoing, the Board concludes that the parcel
+sizes and ownership patterns of the subject parcels are more
+appropriate for an AF-10 Agriculture/Forestry Small Holding
+designation.
+
+DECISION:
+
+         Based        on    the         findings              above,          the     Board       approves           the     request
+by    Leo      and    Lorna            Hammer        for       an    amendment              to    the     Yamhill          County
+Comprehensive               Plan            map     for       Tax    Lots           6401-100,           102    and    103       which
+total 30 acres from Agriculture/Forestry Large Holding                                                                 to Agri-
+culture/Forestry Small Holding, and a zone change from                                                                 AF-20
+Agriculture/Forestry                          to     AF-10          Agriculture/Forestry                        Small        Holding,
+and     an     exception               to    Goals        3    and       4     for    the    same        property.
+
+q1u93272.002
+
+Docket       PAZ-04-93          (Hammer)
+EXHIBIT   "A"  — Page             12
+Ordinance    464
+                                                        EXHIBIT            "A"
+
+                                            FINDINGS IN SUPPORT OF
+                                                  ORDINANCE  564
+Preliminary            Approval             by    Board       of     Commissioners:                  September           22,
+1993
+
+Final Adoption                of     Ordinance           by     Board        of       Commissioners:               December
+ly 1993
+
+DOCKET:                                  PAZ-4-93
+
+REQUEST:                                 Comprehensive Plan Map Amendment  from Agri-
+                                         culture/Forestry Large Holding to Agricul-
+                                         ture/Forestry Small Holding and Zone Change
+                                         from AF-20 Agriculture/Forestry to AF-10
+                                         Agriculture/Forestry Small Holding, and Ex-
+                                         ception to Goals 3 and 4.
+
+APPLICANTS         :                     Leo and Lorna Hammer are co-applicants with
+                                         Alvin and Sharon Phillber, and Paul and Tam-
+                                         ara Clemons
+
+TAX    LOT:                              6401-100,             102    and        103
+
+LOCATION:                                Approximately                two        miles       southwest        of    Hopewell
+                                         at      the    end     of    Jerusalem              Hill    Road.
+
+REVIEW        CRITERIA:                  Section         403,        501,        1204,       and    1208     of    the
+                                         Yamhill         County          Zoning          Ordinance.
+
+FINDINGS :
+
+A.       Background             Facts
+
+Ls       Lot      Sizes         Three         lots      that       total         30    acres.
+
+2.       Access:           Jerusalem              Hill    Road.
+
+3.       On-Site          Land       Use:         The    majority            of       the    property        is     forested.
+There are some clear grass                              areas        but     no       farm    use    was     evident
+during the site visit.
+
+4.        Surrounding               Land      Use:       Surrounding                  property       is    a mixture            of
+farm      and     forestry           use.         Land    to       the      north,          east,    and     west     is       in
+farm use which                includes orchards, pasture and field crops.                                                 East
+of the subject                parcel the properties are in small farm and                                                rural
+residential            use.
+
+5.       Surrounding                Zoning:  Adjacent property                               to the east is an
+area     zoned AF-10                Agriculture/Forestry Small                               Holding.   The remain-
+
+Docket     PAZ-04-93          (Hammer)
+EXHIBIT     "A"    -   Page     1
+Ordinance          564
+der     of the neighboring properties                                     are    zoned        in    a mixture             of    AF-20
+and     EF-40 Exclusive Farm Use.
+
+6.       Soils:  Sheet                    56 of the              Yamhill        County        Soil        Survey         indicates
+the     following soil                    types:
+
+         Soil Name                            fs}     ol          Percentage                   Ag      Class
+         Woodburn                                WwuC                   20                           II
+         Woodburn                                 WuB                   20                           Ir
+         Wapato                                   We                    20                           III
+         Jory                                     Jrc                      20                        III
+         Jory                                     JxrD                     10                        TIL
+         Jory                                     JrE                      10                        IV
+
+7.       Water:              Lot        102       has     an    on-site     well     and       lot         100    has     a
+spring.   The Watermaster’s comments indicated that there are a
+couple of water rights for domestic use in the area.    The new
+development will require a water right if surface water is used.
+Ground      water            is     exempt           for       domestic     use     up    to       15,000         gallons           per
+minute.
+
+8.       Sewage          Disposal:                   The       existing     dwelling           has        an     on-site
+subsurface   system.                       Future developments would                               require         approval           of
+on-site  systems by                       the County Sanitarian.
+
+         The      Yamhill               County           Sanitarian        reviewed           the     file        and     found
+that the Jory                 series soil type has high feasibility (>75%)
+although some                 slope problems may occur.  E and F slope designa-
+tions are the                 most difficult for standard septic approvals.
+Woodburn soils                    have        a    +75%        feasibility         for    standard               septic        system
+approvals.
+
+9.       Fire Protection:   Amity Rural Fire District reviewed                                                                the
+file     and found no conflicts with their interests.
+
+10.      Taxes:              Forest           deferral.
+
+11.      Previous Actions:  When the zoning was first established the
+area     was zoned AF-10 Agriculture/Forestry Small Holding.   In 1978
+and     1979      these           three           parcels        were     created        by    partition                dockets       P-
+828-78,  P-990-79, and P-1058-79.    In 1980 it was                                                       determined that
+the zoning on these parcels   should be changed to                                                        AF-20 Agricul-
+ture/Forestry.
+B.       Oregon          Administrative                        Rule    Provisions         and       Analysis.
+
+Le    Goals 3 and 4. Goal 3 defines agricultural land as that
+with an agricultural Capability Class I through IV, as well as
+other lands suitable for farm use or necessary to permit farm
+practices on adjacent lands.   Part of the subject property is
+regarded          as     agricultural                     land    by    virtue      of    its        Class        II,     III       and
+IV soils  (see Finding                             A.6).         Since the land is forested and zoned
+Agriculture/Forestry,                              it can        also reasonably be considered forest
+land.       Goal         4    protects                  forest    uses.
+
+Docket    PAZ-04-93               (Hammer)
+EXHIBIT     "A"     -    Page       2
+Ordinance         SGY¥
+          An     exception              to     Goals        3   and     4,       the     statewide                agriculture          and
+forestry goals, is required by Oregon Administrative Rule (OAR)
+660-04-010 if the land is to be zone-designated for any use other
+than exclusive farm                           or forestry.                  The AF-10 Agriculture/Forestry
+Small Holding zone,                           the requested                 zoning,  is a rural residential
+zone.
+
+Dw        Administrative                      Rules        Criteria.               OAR     660-04           et     seq.
+
+          OAR         660-04          sets     forth        the      Interpretation                    of        Goal     2     Exception
+Process.
+
+2.1       OAR         660-04-000              (Purpose)           states           in    relevant                part:
+          "(2)   An exception is a decision to exclude certain land from the
+          requirements of one or more applicable statewide goals.   ... The
+          documentation for an exception must be set forth in a local
+          government’s               comprehensive          plan.        Such      documentation                 must    support
+          a conclusion that the standards for an exception have been met.
+          The conclusion shall be based on findings of fact supported by
+          substantial evidence in the record of the local proceeding and by
+          a statement of reasons which explain why the proposed use not
+          allowed by the applicable goal should be provided for ...".
+
+2.2   OAR             660-04-018  (Planning                       and       Zoning        For        Exception                Areas)
+provides              in pertinent part:
+          "(2)  "Physically Developed" and "Irrevocably Committed" Exceptions
+          to goals other than Goals 11 and 14.   Plan and zone designations
+          shall limit uses to:
+
+          "(a)        Uses    which     are    the    same      as    the    existing          types        of    land    use    on
+          the        exception        site;    or
+
+          "(b)        Rural    uses     which       meet    the      following          requirements:
+
+          "“(A) Rural uses are                 consistent            with    all       other    applicable              Goal
+          requirements;   and
+
+          "(B)        The    rural     uses    will    not      commit       adjacent          or    nearby        resource
+          land        to    nonresource        use    as    defined         in   OAR     660-04-028;              and
+
+          "(C)        The    rural     uses    are    compatible            with       adjacent       or     nearby       uses."
+
+2.3       OAR         660-04-025              (Exception             Criteria            For        Land         Physically
+Developed              to     Other      Uses)        provides              in     pertinent               part:
+
+          "660-04-025.                (Exception       Requirements              for     Land       Physically           Devel-
+          oped to Other               Uses)
+
+         "(1)   A local government may adopt an exception to a goal when                                                         the
+         land subject to the exception is physically developed to the
+         extent that it is not longer available for uses allowed by the
+         applicable goal.
+
+        "(2)   Whether land has been physically developed with uses not
+        allowed by an applicable Goal, will depend on the situation at the
+        site of the exception.   The exact nature and extent of the areas
+      . found to be physically developed shall be clearly set forth in the
+        justification for the exception.    The specific area(s) must be
+        shown on a map or otherwise described and keyed to the appropriate
+
+Docket     PAZ-04-93            (Hammer)
+EXHIBIT        "A"     - Page     3
+Ordinance
+         findings of fact.  The findings of fact shall identify the extent
+         and location of the existing physical development on the land and
+         can include             information         on structures,    roads, sewer and water
+         facilities,             and utility         facilities.    Uses allowed by the applica-
+         ble goal(s) to which an                     exception           is being taken                shall    not     be    used
+         to justify a physically                     developed           exception."
+
+2.4   OAR 660-04-028 (Exception Criteria For Land                                                             Irrevocably
+Committed to Other Uses) provides as follows:
+         "660-04-028 Exception                     Requirements           for    Land       Irrevocably          Committed
+         To Other Uses.
+
+         "(1)   A local government may adopt an exception to a goal when the
+         land subject to the exception is irrevocably committed to uses not
+         allowed by the applicable goal because existing adjacent uses and
+         other relevant factors make uses allowed by the applicable goal
+         impracticable:
+
+         "(a)   A “committed exception"  is an                                exception taken             in accordance
+         with ORS 197.732(1)(b),   Goal 2 Part                                II(b), and with             the provisions
+         of this rule.
+
+         "(b)          For the purposes             of this rule, and "exception area"                                 is    that
+         area        of land for which              a “committed exception"  is taken.
+
+         "(c)   An “applicable goal", as used in this section, is                                                a state-
+         wide planning goal or goal requirement that would apply                                                 to the
+         exception area if an exception were not taken.
+
+          “(2)       Whether           land   is   irrevocably           committed          depends       on    the     rela-
+         tionship between                 the exception area and the lands adjacent to                                        it.
+         The findings for                 a committed exception therefore must address                                        the
+         following:
+
+          "(a)        The   characteristics                of    the    exception          area;
+
+          “(b)        The   characteristics                of    the    adjacent        lands;
+
+         "(c)   The relationship                    between        the    exception             area    and    the     land
+         adjacent to it;
+
+          "(d)        The   other        relevant         factors       set    forth       in    OAR    660-04-028(6)."
+
+         "(3)  Whether                 uses or     activities allowed by an applicable goal are
+         impracticable                 as that     term is used in ORS 197.732(1)(b),  in Goal
+         2,      Part     II(b),        and   in   this     rule       shall    be    determined          through
+         consideration of factors set forth in this rule.    Compliance with
+         this rule shall constitute compliance with the requirements of
+         Goal 2, Part II.   It is the purpose of this rule to permit irrevo-
+         cable committed exceptions where justified so as to provide
+         flexibility in the application of broad resource-protection goals.
+         It shall not be required that local governments demonstrate that
+         every use allowed by the applicable goal is "impossible".
+
+         "(4)         A conclusion            that an exception area is                         irrevocably           committed
+         shall        be supported            by findings of fact which                         address all           applica-
+         ble      factors        of     section     (6)     of    this    rule       and    by     a   statement        of
+         reasons          explaining why the facts support the conclusion                                        that uses
+         allowed          by the applicable goal are impracticable in the                                        exception
+         area.
+
+         "(5)   Findings of fact and                        a statement          of reasons that land
+         subject to an exception is                         irrevocably          committed need not be
+
+Docket     PAZ-04-93             (Hammer)
+EXHIBIT        "A"    -   Page     4
+Ordinance
+      prepared for each individual parcel in the exception area.                                              Lands
+      which are found to be irrevocably committed under this rule                                             may
+      include physically developed lands.
+
+      "(6)   Findings of fact              for    a    committed         exception        shall     address      the
+      following factors:
+
+      "(a)     Existing     adjacent        uses;
+
+      "(b)   Existing       public        facilities          and   services           (water     and    sewer
+      lines, etc.);
+
+      "(c)   Parcel size        and       ownership          patterns      of    the     exception        area   and
+      adjacent lands;
+
+      "(A)    Consideration of parcel size and ownership patterns under
+      subsection    (6)(c) of this rule shall include an analysis of how
+      the existing development pattern came about and whether findings
+      against the Goals were made at the time of partitioning or subdi-
+      vision.    Past land divisions made without application of the Goals
+      do not in themselves demonstrate irrevocable commitment of the
+      exception area.      Only if development (e.g., physical improvements
+      such as roads and underground facilities)      on the resulting parcels
+      or other factors make unsuitable their resource use or the re-
+      source use of nearby lands can the parcels be considered to be
+      irrevocably committed.      Resource and nonresource parcels created
+      pursuant to the applicable goals shall not be used       to justify a
+      committed exception for land adjoining those parcels.
+
+      "(B)   Existing parcel sizes and contiguous ownerships shall be
+      considered together in relation to the land‘’s actual use.        For
+      example,   several contiguous undeveloped parcels     (including parcels
+      separated only by a road or highway) under one ownership shall be
+      considered as one farm or forest operation.       The mere fact that
+      small parcels exist does not in itself constitute irrevocable
+      commitment.     Small parcels in separate ownerships are more likely
+      to be irrevocably committed if the parcels are developed,        clus-
+      tered in a large group or clustered around a road designed to
+      serve these parcels.      Small parcels in separate ownerships are not
+      likely to be irrevocably committed if they stand alone amidst
+      larger farm or forest operations,      or are buffered from such
+      operations.
+
+      "(d)     Neighborhood         and    regional          characteristics;
+
+      “(e)  Natural        or man-made features or other impediments separating
+      the exception        area from adjacent resource land.  Such features or
+      impediments        include     but    are       not    limited      to    roads,     watercourses,
+      utility lines, easements,  or right-of-way that                                   effectively impede
+      practicable resource use of all or part of the                                    exception area.
+
+      "(£)     Physical     development           according         to    OAR    660-04-025;            and
+
+      "(g)     Other     relevant     factors.
+
+      "(7)     The   evidence       submitted          to    support      any    committed         exception
+      shall,    at   a   minimum,     include          a    current      map,    or     aerial     photograph
+      which shows the exception area and adjoining lands,   and any other
+      means needed to convey information about the factors set forth in
+      this rule.   For example,  a local government may use tables,
+      charts,  summaries or narratives to supplement the maps or photos.
+      The applicable factors set forth in section (6) of this rule shall
+      be shown on the map or aerial photograph.
+
+Docket PAZ-04-93  (Hammer)
+EXHIBIT "A" — Page 5
+Ordinance S64
+         "(8)  The requirement                            for a map or aerial photograph in section
+         (7) of this rule only                            applies to the following committed excep-
+         tions:
+
+         "“(a)        Those       adopted            or    amended       as    required       by    a    Continuance           Order
+         dated        after       the     effective             date     of    section      (7)     of    this    rule;        and
+
+         "(b)  Those adopted or amended after the effective date                                                        of section
+         (7) of this rule by a jurisdiction with an acknowledged                                                        comprehen-
+         sive plan and land use regulations."
+
+2.5      OAR        Chapter              660,        Division            4,     explains           the     requirements                 for
+taking        exceptions                  to     statewide               goals.            OAR     660-04-018              outlines
+the options   for taking exceptions. The first is to base the
+exception on "physical development"   and/or "irrevocable commit-
+ment"  of the property to nonresource use.   This type of exception
+is     intended            to     recognize                 and       allow         existing            types      of    development.
+The second is a "reasons" exception,  which allows a jurisdiction
+to zone property with a non-agricultural designation  if there are
+sufficient                grounds          for            the    change.
+
+2.6.     OAR        660-04-020                  and        -022       detail         the    requirements                  for        reasons
+exceptions.                 Section              660-04-022(2)                      states:
+
+         For        rural         residential                    development,               the         reasons         cannot
+         be based on market demand for housing,   except as pro-
+         vided for in this section of the rule,   assumed continu-
+         ation of past urban and rural population distributions,
+         or housing types and cost characteristics.     A county
+         must show why, based on the economic analysis    in the
+         plan,  there are reasons for the type and density of
+         housing planned which require this particular    location
+         on      resource                lands.
+
+         It      is       possible              to        justify        a residential                   exception             by     deter-
+mining        that         the       housing               is    needed         to     satisfy           market         demand
+generated             by    existing                 or     planned            rural       industrial              or     commercial
+activity.
+
+      The applicant has stated the request would fill a need for
+rural housing,   but the Yamhill County Comprehensive  Plan does not
+contain an economic   analysis that would justify the proposed
+exception.   There are no commercial or industrial uses    in the
+area other than commercial agriculture.    Consequently,   the Board
+finds that this request could only be approved if it satisfies
+the requirements for a "built" or "committed" exception, which
+are     discussed               in       Findings               B.4     to     B.6,     below.
+
+2.7      The        Board         finds          that           the     requirements                for     taking         a        "devel-
+oped" exception to Goals   3 and 4 cannot be satisfied, but that
+the requirements  for taking a "committed"  exception to Goals   3
+and 4 have been                      satisfied,                   for    the        reasons         more         fully     described
+hereinbelow.
+
+2.8      Regarding                the      requirements                       for     physically            "developed"                excep-
+tions,        the         subject              land        consists            of     three        parcels         that         total     30
+
+Docket     PAZ-04-93              (Hammer)
+EXHIBIT       "A"     -    Page      6
+Ordinance           S64
+acres and currently supports one dwelling.                                           This dwelling was
+constructed in 1980, after adoption of the                                          Statewide Planning
+Goals.   The physically developed standards                                         prevent the county
+from including parcels that were developed                                          after adoption of the
+Statewide            Planning Goals.   Therefore the parcel                                      with        the    dwelling
+cannot be            considered physically developed.
+
+      The applicant stated that Tax Lot 100 used to have a dwell-
+ing but it was removed in 1981.    Since the dwelling was not
+replaced within one year of its removal any future use of this
+parcel comes under the regulation                                    of the AF-20 zoning                      ordinance.
+Because the dwelling was removed,                                    this parcel is also                      not consid-
+ered to be physically developed.
+
+2.9   The rules for exceptions based on irrevocable   "commitment"
+require  an analysis of the surrounding area.   An exception area
+is adjacent to the east.    The exception area contains  five
+parcels         of       less     than        12    acres     that    support        four        dwellings.              The
+vacant parcel   in this exception area is adjacent to the subject
+parcels.    In addition to the exception area there are ten other
+parcels  along Jerusalem Hill Road of less than ten acres.   All of
+these parcels have dwellings existing on them.
+
+         While the parcel sizes to the east are of similar                                                     size to
+the     subject parcels,  the lots to the west are larger.                                                     Parcels         to
+the     east vary in size from 50 to over 200 acres.
+
+          The     area      was        originally           zoned     for    rural        residential               develop-
+ment.
+
+2.10 Parcelization and ownership in the area can be considered
+when evaluating an exception area.    In this case each of the
+parcels were approved for creation after adoption of the State-
+wide Planning Goals but while they were zoned for rural residen-
+tial development.   After the parcels were created the zoning was
+changed to the more restrictive AF-20 designation.     Therefore  the
+parcels were legally created without    findings being made against
+the goals.
+
+         Additionally,  all                        three parcels are in separate ownerships.
+This     makes it unlikely                         that the parcels could be re-combined and
+managed         as       part     of    larger        ownerships.
+
+      The adjacent exception area to the east, parcel size, and
+ownership pattern create a situation that irrevocably commit the
+subject parcels   to a nonresource use.
+
+3.       The      requirements                 of    OAR    660-04     for    taking         a     "committed"
+exception            have       been       satisfied         as    follows:
+
+3.1      Exception              Area.          The    exception        study       area      included              in   this
+Ordinance            includes           the        property       identified         as     such        on    Exhibit          "B"
+attached hereto and incorporated                                   herein     by     this        reference.              For
+this exception area:
+
+Docket     PAZ-04-93            (Hammer)
+EXHIBIT     "A"      -   Page     7
+Ordinance         $64
+3.1.1       The       Board        finds     that        it       has     received           all     information
+necessary to             consider the                  Planning Commission’s   recommendation
+for approval             of the study                  areas for an exception.
+
+3.1.2       The       Board        finds     that        proper           public        notice        has         been       given.
+
+3.1.3       The       Board        finds     that        the       proposed            exception            to        Statewide
+Planning Goals 3 (Agricultural Lands) and                                               4 (Forest Lands) is
+consistent with OAR 660-04 which contains                                               criteria for an excep-
+tion.
+
+3.2      OAR     660-04-000.
+
+         The     Board        finds        that        pursuant           to    OAR      660-04-000(2),                     there       is
+substantial evidence in the record that the standards  for an
+exception have been met for the exception area.   The Board also
+finds that the reasons why the proposed use not allowed by the
+applicable            goal        should     be        provided           are     set       forth     herein.
+
+3.3      OAR      660-04-018.
+
+         The Board finds pursuant                             to OAR 660-04-018(2), that                                    based       on
+the     findings contained in the                             staff report, the plan and                                    zone
+designations             will       limit        uses        to     the       following:
+
+3.3.1 Uses which                   are the same               as        the    existing            types     of        land       use
+on the exception                   site:  or
+
+3.3.2     Uses        which        are     rural        uses       which         are       limited         to:
+
+         (a)         Uses     which        are     consistent                 with     all    other         applicable
+goal     requirements;
+
+         (b)         Rural        uses     which        will        not       commit        adjacent             or    nearby
+resource          land       to    nonresource               use;        and
+
+         (c)     Rural        uses       which         are    compatible               with        adjacent            or    nearby
+resource         uses.
+3.4      OAR      660-04-028.
+
+3.4.1     The        Board        finds     pursuant              to     OAR     660-04-028(1)                   that       the     land
+is irrevocably                committed to other uses because existing adjacent
+uses and other                relevant  factors make uses allowed by the applica-
+ble     goal      impracticable,                  based        the       relationship               between            exception
+area     and      lands       adjacent            to    it,       as     shown       by:
+
+         (A)     characteristics                   of    the        exception              area;
+
+         (B)      characteristics                  of    adjacent               lands;
+
+         (C)      relationship              between            the       exception           area     and         adjacent
+lands;         and
+
+Docket  PAZ-04-93   (Hammer)
+EXHIBIT  "A"  - Page 8
+Ordinance        $G4
+         (D)         other         factors               listed       in     OAR       660-04-028(6).
+
+3.4.2   The Board                        finds that pursuant to OAR 660-04-028(4) that
+the uses allowed                         by the applicable goals are impracticable in the
+exception study                     area based on                     the        following            factors,            as        more
+fully described                     and herein:
+
+          (A)        Existing             adjacent              uses;
+
+          (B)        Existing             public              facilities           and        services             (water           and        sewer
+lines,      etc.);
+
+          (C)        Parcel          size          and        ownership           patterns            of     the       exception                area
+and    adjacent              lands,            including              how        the     pattern            came       about,         whether
+findings             against             the       goals        were       made        at     the     time        of    subdivision,
+partition,                 and     existing               parcel          sizes        and     contiguous               ownerships;
+
+          (D)        Neighborhood                    and       regional           characteristics;                      and
+
+          (E)        Natural             or    man-made              features            or    other         impediments
+separating the exception area from adjacent resource land,
+including but not limited to roads, watercourses,   utility lines,
+easements  and rights-of-way that effectively impede practical
+resource use of all or part of the exception area.
+
+8.5      The         Department                of        Land       Conservation               and        Development                submit-
+ted a letter dated July 20,                                         1993, stating that there was                                     a lack
+of documentation addressing                                         the requirements  of OAR 660,                                    Division
+4,    which          is     needed            to     justify          an     exception.                   The      Board        finds           that
+the    information                   contained                 in    the     staff          report          and     the        exhibits
+presented             at     the         August           5,     1993      Planning            Commission               hearing                and
+the    hearing              before            the        Board       on    September                22,     1993,       provided
+adequate documentation to address the applicable                                                                   requirements                  of
+OAR 660 Division 4 as described above.
+
+Cs       Ordinance                 Provisions                  and    Analysis
+
+1.    Section 1204 of the Yamhill County Zoning Ordinance (YCZ0O)
+states that exceptions to statewide goals are subject only to the
+requirements of the Oregon Administrative Rules discussed in
+Section          B    of     this         report.               The       plan     amendment                portion            of    this
+request          is        not     subject               to    local        review          criteria.
+
+2»       The         zone         change           portion           of     the        subject            request       must         comply
+with     the         standards                and        criteria           in    YCZO        Section             1208.02.                These
+provisions                 are:
+
+         (a)    That the proposed change is consistent with the
+         goals,    policies, and any other applicable provisions                                                                          of
+         the Comprehensive Plan.
+
+          (b)         That         there            is    an    existing               demonstrable                need        for
+         the particular uses allowed by the requested zone,  con-
+         sidering the importance of such uses to the citizenry
+
+Docket     PAZ-04-93               (Hammer)
+EXHIBIT        "A"    -—    Page     9
+Ordinance        S64
+         or the economy of the area, the existing market demand
+         which such uses will satisfy, and the availability and
+         location of other lands                                 so zoned and           their        suitability
+         for the uses allowed by                                 the zone.
+
+         (c)   That the proposed change is appropriate consider-
+         ing the surrounding land uses,   the density and pattern
+         of development  in the area,  any changes which may have
+         occurred in the vicinity to support the proposed amend-
+         ment and the                      availability of utilities                          and services
+         likely to be                      needed by the anticipated                          uses in the
+         proposed              district.
+
+         (d)   That other lands in the county already                                                 designated
+         for the proposed use are either unavailable                                                  or not as
+         well-suited for the anticipated uses due to                                                  location,
+         size,           or    other           factors.
+
+         (e)   That the amendment is consistent with the                                                    current
+         Oregon Administrative Rules for exceptions, if                                                     applica-
+         ble.
+
+      These criteria                           are    addressed,             respectively,            in    Findings    C.3
+through C.7,  below.
+
+3    The Board finds that the application satisfies the standards
+and criteria in YCZO Section 1208.02(a) because it is consistent
+with the goals, policies, and any other applicable provisions of
+the    Comprehensive                       Plan.
+
+3.1      Regarding Comprehensive                                 Plan    goals        and     policies,        Policy   (a)
+of    Goal I.B.2 states:
+
+          "Yamhill             County           will       continue           to   recognize         that     the
+         appropriate                      location of very               low density            residential
+         development                      is in designated               large areas            where commit-
+         ments to such uses have already been made through
+         existing subdivisions, partitioning,  or development and
+         by virtue of close proximity to existing urban centers;
+         or     in       small,            limited         areas       having        unique     scenic,        loca-
+         tional           and        other          suitable          site     qualities        where       the
+         anticipated magnitude   or density of development  is not
+         such as to require more than a very basic level of
+         services,  such as single local-road access,   individual
+         domestic wells and sewage disposal   systems,  and possi-
+         ble        rural          fire        protection."
+
+3.2      The        request               is   in    an    area       that     has    existing        partitioning       and
+does     conform              to     the       intent       of     the       first    part     of    this     policy.
+Regarding            the       second           portion          of    the     policy        (after     the    semicolon),
+the characteristics of the site do                                            not appear to           be    unique.     The
+property does provide a nice rural                                            location, but           it    is not
+necessarily               unique,              and     other       locational           factors       attributable       to
+the    site         are       shared           with       other       properties         in    the    vicinity.
+
+Docket    PAZ-04-93                (Hammer)
+EXHIBIT       "A"    -    Page       10
+Ordinance       $64
+4.       The    Board    finds            that     the       application             satisfies        the     standards
+and    criteria        in YCZO            Section         1208.02(b)            based      on   the    evidence
+showing        that    there         is    an     existing          demonstrable            need      for     the
+particular uses allowed by the requested zone,   considering the
+importance of such uses to the citizenry or the economy of the
+area,  the existing market demand which such uses will satisfy,
+and    the     availability               and     location          of    other       lands     so    zoned        and
+their     suitability               for    the     uses       allowed          by    the   zone.
+
+4.1   Regarding the need for the proposed change,      the applicant
+has stated there is a need for rural homesites.        There was no
+additional   information submitted by the applicant regarding this
+criterion.    A review of the area shows there are two exception
+areas within one mile of the subject parcels.       Both of these
+exception sites have five parcels     that average ten acres each.
+Both areas contain one undeveloped lot.      Based on this survey of
+rural development,    it is clear that property available     for rural
+residential development    is becoming more scarce.     Therefore,
+there is an           existing            demonstrable              need       for    additional            rural
+residential           building            sites.
+
+Bs       The    Board        finds        that     the       application             satisfies        the     standards
+and criteria           in YCZO Section 1208.02(c) based on the evidence
+showing that           the proposed change is appropriate considering the
+surrounding land uses,  the density and pattern of development   in
+the area,  any changes which may have occurred in the vicinity to
+support the proposed amendment   and the availability of utilities
+and services  likely to be needed by the anticipated uses in the
+proposed district.
+
+5.1      Regarding       the         density        and       pattern          of    development            for     crite-
+rion     (c) above, see                  also Section B of these findings.   It appears
+that     10-acre zoning                  in the vicinity is in character with the lot
+size     pattern       existing             in    the     area.          The    applicant          stated         that
+there     have    been        homes        built        on    small       acreages         in   the    immediate
+vicinity        since        1974.         A     search       of    county          records     indicates            this
+is    correct.
+
+5.2   Regarding availability of services,   the County Sanitarian
+indicated the soils   in the area appear to be suitable    for subsur-
+face sewage disposal.    The subject parcels are in an area desig-
+nated as a "Groundwater Limited Area".     This designation limits
+the availability to obtain water rights    for irrigation.    The
+Watermaster           stated         that        domestic          use    of    groundwater           is     exempt
+from being required to obtain water rights.  This request by
+itself should not have a significant negative impact on ground-
+water supply in the area.
+
+6.       The    Board        finds        that     the       application             satisfies        the     standards
+and criteria in YCZO Section 1208.02(d) based on the evidence
+that other lands in the county already designated for the pro-
+posed     use    are    either            unavailable              or    not    as    well-suited            for     the
+anticipated           uses         due    to     location,          size,       or    other     factors.
+
+Docket    PAZ-04-93      (Hammer)
+EXHIBIT   "A" - Page          11
+Ordinance    S64
+6.1         Finding       C.4      sets        forth       the        evidence       that       satisfies          this
+criteria as well.  There                         is       evidence           that there is an inadequate
+supply of land available                         in       the area           to meet the demand for rural
+residences.
+
+Vs      The Board finds                  that the application satisfies the standards
+and    criteria in YCZO                  Section 1208.02(e) based on the evidence
+showing that the amendment is consistent with the current Oregon
+Administrative  Rules for exceptions,   if applicable.   The Board
+finds that the OAR requirements   are addressed in Section B of
+these findings.   An exception to Goal    14 has not been addressed
+because one dwelling per 10-acres    indicates that potential uses
+would not be at an urban scale,   and therefore Goal 14 does not
+apply and no exception to it is required.
+
+8.       Based       on   the      foregoing,              the        Board    concludes             that    the    parcel
+sizes and ownership patterns of the subject parcels                                                     are more
+appropriate for an AF-10 Agriculture/Forestry Small                                                     Holding
+designation.
+
+DECISION:
+
+         Based       on   the      findings              above,        the    Board      approves           the    request
+by    Leo      and   Lorna        Hammer        for       an     amendment          to   the     Yamhill          County
+Comprehensive             Plan         map     for       Tax    Lots     6401-100,             102    and    103    which
+total 30 acres  from Agriculture/Forestry Large Holding                                                       to Agri-
+culture/Forestry Small Holding,   and a zone change from                                                      AF-20
+Agriculture/Forestry                      to    AF-10          Agriculture/Forestry                    Small       Holding,
+and    an      exception          to    Goals        3    and     4    for    the    same       property.
+
+q1u93272.002
+
+Docket      PAZ-04-93     (Hammer)
+EXHIBIT   "A"  - Page        12
+Ordinance    464
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.0% of
+the word sequence, and on 84.8% of the figures. Dictionary-recognizable words: 94.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

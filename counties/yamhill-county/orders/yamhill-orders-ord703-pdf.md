@@ -1,0 +1,2021 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord703-pdf
+title: 'ORD703-PDF'
+doc_type: ordinance
+citation: 'ORD703-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17534/ORD703-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 155958b3487240c39cf5e30dab751b23ea938276a5d71c8b62aa13bdab2746db
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.989; figure agreement 0.858; dictionary ratio 0.956. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.732
+    - ORS 215.203
+    - ORS 215.720
+    - ORS 92.017
+    - OAR 660-004-0018
+    - OAR 660-004-0020
+    - OAR 660-004-0025
+    - OAR 660-004-0028
+    - OAR 660-012-0060
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD703-PDF (ORD703-PDF)
+
+## At a glance
+
+OCR-derived text of ORD703-PDF. Not human-verified.
+
+## Full text
+
+ite    CL e208                    SUL 26 2001
+                IN THE BOARD OF COMMISSIONERS                        OF THE STATE OF OREGON
+
+                                     FOR THE COUNTY                 OF YAMHILL
+
+                    SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+Tn the Matter of an Application by
+Robert and Cheryl Krueger and John Macy
+
+                                                              eee
+for Approval of a Comprehensive Plan
+Amendment from Agriculture/Forestry
+
+                                                   eee
+Large Holding (AFLH) to Agriculture/
+
+                                                     ae ae ee
+Forestry Small Holding (AFSH), a Zone                               ORDINANCE 703
+Change from AF-20 to AF-10, and an
+Exception to Goal 3 (Agricultural Lands),
+and Goal 4 (Forest Lands) to Amend Rural
+Residential Exception Code Area 5.11 to
+Include Three Five-Acre Parcels, Tax Lots
+5414-3800, -3900, and -4000, Docket No.
+PAZ-02-01, and Declaring an Emergency
+
+        THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for the
+transaction of county business in formal session on July 26, 2001, Commissioners Leslie Lewis and Robert
+Johnstone being present.
+
+         WHEREAS on June 7, 2001, them Yamhill County Planning Commission approved 6-2 the
+application identified above, Planning Docket PAZ-02-01, as well as the attendant zoning change and
+Comprehensive Plan amendment contained in application PAZ-02-01, and;
+
+         WHEREAS on July 12, 2001, the Board held a duly noticed public hearing on the application. John
+PinkstaffEsq. of McEwan, Gisvold, Rankin, Carter & Streinz LLP, attorney for the applicants, spoke in favor
+of the application, as did applicant Robert Krueger. No persons offered evidence or spoke in opposition.
+After receiving evidence and considering testimony, the Board began deliberations, and;
+
+        WHEREAS       the   Board    concluded   its deliberations       and   voted   3-0   to affirm   the   Planning
+Commission’s decision. NOW,         THEREFORE:
+
+THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS AS FOLLOWS:
+
+The Yamhill County Comprehensive Plan Map, as amended, is hereby amended as specified in the attached
+Exhibit “B” map incorporated into this ordinance by reference; and the Yamhill County Planning
+Commission’s approved zoning change contained in application PAZ-02-01 is affirmed, for the reasons stated
+in the Findings for Approval attached and incorporated into this Board Order as Exhibit “A.” This ordinance
+being necessary for the health, safety, and welfare of the citizens of Yamhill County, and an emergency
+having been declared to exist, is effective upon passage.
+
+                                                                                                         Ordinance 703
+                                                                                                         .0.0/- 569
+7                                                                                                     ain CL nec 2209
+
+    DONE at McMinnville, Oregon this 26" day of July, 2001.
+
+    ATTEST:                                YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                           Wet avalibleby SteyeLites
+                                           Chairman                                THOMASE.E. BUNN
+
+                                                 a                  .         “ d     q           6
+                                                Mul                     / [Xk        | LO ja jawdod
+                                           Commtissioner                     “LESLIE LEWIS
+    FORM APPROVED BY:
+           «     a         é                               m4           si     4
+
+    Rick Sanai                             Commissioner             ,“       | ROBERT        JOHNSTONE
+    Assistant County Counsel                                    (
+
+    FAADMIN\SANARLU\KruegerOrdinance.wpd
+                                                                                       fuk 14 esre2260
+              FINDINGS FOR APPROVAL, PAZ-02-01, ORDINANCE No. 703
+
+A.      Background Facts.
+
+        This is an application for a comprehensive plan amendment from Agriculture/Forest
+Large Holding (AFLH) to Agriculture/Forest Smail Holding (AFSH) and a zone change from
+AF-20 to AF-10, and for an exception to Statewide Land Use Goals 3 and 4 on a 15-acre area
+comprised of three 5-acre parcels located in the Hillcrest Walnut Planting subdivision southeast
+of McMinnville. Rural residential dwellings are a permitted use in the AF-10 zone but are not in
+the AF-20 zone.
+
+        1       The subject property.
+
+        The subject property is located about 8 miles southeast of McMinnville.
+
+        11       Area Size.      15 acres
+
+        12      Parcels involved.
+
+         Lots 90, 91 and 92 are part of the Hillcrest Walnut Plantings subdivision. Each of the
+three lots is 330 x 660 square feet.
+
+        1.3     Separateowners.             2
+
+       The three lots have two separate ownerships: One lot, Lot 90 (Tax Lot 4000) is owned by
+Robert and Cheryl Krueger. The other two lots, Lots 91 and 92 (Tax Lots 3800 and 3900), are
+owned by John P. Macy.
+
+        14      Parcels developed.          2
+
+       Lot 92 is developed with a rural residential nonfarm/forest dwelling, a barn, and is served
+by a well, a septic system with a drainfield, and a long driveway. Lot 91 is developed with a
+single story pole building and workshop and a storage building, which have been used in
+connection with the residence on Lot 92. Lot 90 is not developed with any permanent buildings,
+but has a parking area and a temporary yurt.
+
+        1.5     Parcels developed prior to Statewide Planning Goals.              1
+
+        The rural residential dwelling on Lot 92 gained approval in 1973, before the adoption of
+the Statewide Planning Goals (SPG).             The barn on Lot 92 and the three buildings on Lot 91
+appear to have been allowed as agricultural buildings after the adoption of the SPGs.
+
+                                                                                           Ebb 8
+1 - Findings for Approval, PAZ-02-01
+        1.6     Subject Area Land Use.
+
+        Lots 90, 91 and 92 are in a north facing ravine. On the eastern slope of the ravine, Lot 90
+contains some fir and oak. Lot 91 is at the bottom of the ravine and there is a seasonal creek
+running from down from the south through the middle of Lot 91. Lot 92 slopes back up
+to the west the bottom the open ravine to the west contains a pasture which was previously used
+in conjunction with Lot 91 to the west. Lot 91 which contains a 49 x 55 square foot single story
+pole building and pasture. Lot 92 contains the rural residential dwelling nonfarm/forest use.
+There is no current farm use activity on Lots 90, 91 and 92.
+
+        2.      Access.
+
+        The subject property has access on Hillview Drive, which is a primary local dedicated
+public road within the Hillcrest Walnut Plantings subdivision. The road is graveled and runs
+from the east to west, connecting with Walnut Hill Road which in turn connects with State
+Highway 233 (Lafayette Hwy).
+
+        3.      Surrounding Land Use.
+
+        The subject properties are part of the western portion of Hillcrest Walnut Plantings
+Subdivision and are located on south side of Hillview Drive which is the local access road
+serving the subdivision. To the east is the majority of the subdivision which is included in an
+exception area known as Code Area 5.11, comprised of 74 lots the majority of which are 5 acre
+lots with rural residential dwellings and zoned AF-10. See, discussion of Code Area 5.11 in
+Findings A.10 below. Further to the northeast is another exception area, Woodland Heights
+Subdivision, Area Code 5.10, which is zoned VLDR-5.        The proposed exception area is part of
+the westerly 82 acre, 12 parcel, six dwelling portion of Hillcrest Walnut Plantings clustered at the
+western end of Hillview Drive, a main access road through the subdivision, and consisting of ten
+5-acre lots and two 15.6-acre lots. This area is not within Code Area 5.11. This area has one 5-
+acre parcel with a dwelling to the west (Lot 93), six 5-acre lots to the north [consisting of three
+separated tax lots, 2500, 2501 with a dwelling, and 2502 with a dwelling (Lot 51) and three
+consolidated tax lots on Lot 54 and two 15-acre lots with two dwellings (Lot 52 and Lot 53), All
+of these lots are a mixture of forest and pasture and have no farming activity. Two of the 15 acre
+lots were recently clear-cut. All of these lots exhibit the same characteristics (parcel size,
+development pattern, topography, soils, ownership pattern, etc.) as the lots included in Code Area
+5.11. As a result, it is fair to say that the proposed exception area is surrounded on three sides by
+5 acre developed rural residential lots.
+
+        To the south and further to the east are parcels of about 20 acres which contain rural
+residential, forest and smal! farm uses, which include livestock, Christmas trees, vineyards and
+orchards.
+
+2.- Findings for Approval, PAZ-02-01
+                                                                                                 un Td Pace 2262
+             4.       Surrounding Zoning
+
+             The surrounding zoning is shown on Exhibit 3. To the east and northeast is the Hillcrest
+    Walnut Planting subdivision which is Area Code 5.11 which is plan designated AFSH and zoned
+    AF-10, and the Woodland Heights subdivision which is Area Code 5.10 which is plan designated
+    VLDR and zoned VLDR-5.            To the west, northwest and south the parcels are zoned AFLH and
+    AF-20,
+
+             5.       Water Information
+
+             See data sheet obtained from the County for Township 5 S, Range 4 W, Sections 14 and
+    15.
+
+             6.       Floodplain
+
+.           According to Flood Insurance Rate Map 0485C, none of the parcels are in the 100 year
+    floodplain.
+
+             7.       Soils!
+
+            According to the soil maps and tables, the proposed exception area is Jory- Yamhill-Nekia
+    association (Well-drained gently sloping to very steep, clay loams over clay and silt loams over
+    silty clay; formed in basaltic colluvium):
+
+             Tax Lot 3800 is 100% Class If:               YhD 30% (Class WI)        (Yamhill silt loam,
+                                                                                    moderately shallow, 7-20 %
+                                                                                    slopes)
+                                                          SuD 70% (Class IN)        (Steiwer silty clay loam,
+                                                                                    basalt substratum; 5-20%
+                                                                                     slopes)
+
+             Tax Lot 3900 is 60% Class I:           -     YaB 60% (ClassHe-3) (Yamhill silt loam, 2-7%
+                                                                               slopes)                        ;
+                                 40% Class IE:            YaC 40% (Class Hle-2)        (Yamhill silt loam, 7-
+                                                                                               12% slopes)
+
+             Tax Lot 4000 is 70 % Class II:               JrE 70% (Class IMI-2)      (JJorey clay loam, 7-12%
+                                                                               slopes)
+                                                          YaC 30% (Class Mle-2)        (Yamhill silt loam, 7-
+                                                                                               12% slopes)
+
+              ‘See, 1974 Yamhill County Soils Survey, as modified by the 1985 Soil Interpretation.
+
+    3 - Findings for Approval, PAZ-02-01
+.                                                                                                rile   74     rugt     2bree   63
+         8.       Utility Facilities
+
+         Utility facilities are available or may be available to the subject parcels. On-site domestic
+water and subsurface sewage disposal systems can be made available to the property.                      An
+approved on-site subsurface sewage disposal system has been approved on Lot 90. Electrical
+service is available to the property.
+
+         9.       Habitat
+
+         The subject area is not within a Fish Habitat Area or a Critical Wildlife Habitat Area..
+
+         10.      Area History
+
+         10.1     Hillcrest Walnut Plantings Subdivision
+
+       The proposed exception area is part (Lots 90, 91 and 92) of the Hillcrest Walnut Plantings
+Subdivision that was platted in 1909. As such, the three 5-acre lots are considered pre-existing
+legal lots of record.
+
+         10.2     Adjacent Exception Area (Code Area 5.11)
+
+         Approval of this application would add 15 acres (the proposed exception area) to an
+existing exception area known as Code Area 5.11 comprised primarily of Hillcrest Walnut
+Plantings subdivision. Code Area 5.11 is plan designated Agriculture Forestry Small Holding
+(AFSH) and zoned AF-10, and contains approximately 600 acres comprised of 74 parcels which
+were predominantly 5 acre parcels.? The area was found to be committed to rural residential use
+based on a number of factors, including: the heavily subdivided development pattern which
+showed 32 dwellings on lots which were predominantly 5-acres in size’, the predominantly class
+
+       - 2 Of those parcels, 45 were 0-5.0, 17 were’5.1-10.0 acres, 8 were 1.1-20.0, 2 were 20.1-40.0 acres and 1
+was over 40 acres. (See, Exceptions Statement I, Code Area 5.11.)
+
+         °The existing subdivisions comprised 95 percent of the area, the development pattern which showed a total
+of 32 dwellings, with 26 dwellings on parcels 10 acres or less.   The intensity of development of the parcels in Area
+Code 5.11 were 34 parcels occupied by a dwelling out of a total of 74 parcels, and 55 total acres (including
+transportation uses and dwellings at one acre per dwelling unit) in Rural Residential Use out of a total acreage of
+600 acres.
+
+4 - Findings for Approval, PAZ-02-01
+                                                                                                   FILK     74       PACE 2264
+
+Il and IV soils‘, the steep topography, and the limited growing season which was even shorter
+due to pocket climates’.
+
+        Code Area 5.11 was initially adopted by the County in 1979, as part of an Exceptions
+Statement addressing 55 areas throughout the County which were plan-designated for small-
+holding as part of the County's general submittal for compliance acknowledgment.                          In 1979,
+LCDC required more detailed information to justify a committed exception to Goal 3 and 4° for
+22 of the Code Areas, including Code Area 5.11, and approved the rest. In response, the County
+adopted Exception Statement II in 1980, providing the necessary information to DLCD for the 22
+Code Areas, including Code Area 5.11, which it designated as Agriculture/Forestry Small
+Holding/AF-10. Code Area 5.11 was acknowledged by LCDC.’ Code Area 5.11 included nearly
+
+          4SCS Soil Classification showed: Class I-57 acres; Class [1-192 acres; Class IV-313 acres; Class VI-38
+acres; with Jory,-Yamhill-Nekia Association.
+
+         ST, ‘opography showed elevations between 200 and 743 feet, steeply rising ridges planted in old cherry and
+walnut trees, forested in fir and oak, and the growing season, which was limited by early fall and late spring frosts,
+subject to even shorter pocket climates due to steep ridges and ravines in the western half of the Code Area.
+
+          SDLCD indicated that although the additional information showed groupings of dwellings on small lots
+within some Code Areas, it also showed ownership patterns and that many large parcels in common ownership with
+other parcels in or adjacent to the contested Code Areas and there needed to be more information on existing uses
+and the farm/forest or nonfarm/forest nature of dwellings and explanation of why parts of certain agricultural and
+forest lands in common ownership are considered committed to nonfarm/forest uses. See, Exceptions Statement II.
+
+         "In the acknowledged Exceptions Statement II, the County made findings which provide context for the
+subject request. The findings describe the "Rural Residential Need" based upon a rural residential needs survey
+and found that an "overall rural residential need exists” and that "retention in small-holding plan designations found
+committed to rural residential uses (i.e., nonfarm/forest uses) will help meet this demand" and "will also satisfy
+Comprehensive plan policies concerning areas where small holdings are appropriate."
+
+         The Exceptions II findings also note that “to deny an exception for Code Areas overwhelmingly in
+         individual ownership of existing parcels less than 20 acres in size would be to saddle owners with
+         unnecessary paperwork and hardship and to skew market place options."
+
+         The findings address "Code Area Infill" including a spot analysis to determine ultimate nonfarm/forest
+         potential (or rural residential use), as well as "Soil Productivity", noting that:
+
+                  There are two other factors which must also be considered in evaluating productivity of small
+                  parcels. Firstly, the basic assumption underlying the system ... is that any patch of soil, no matter
+                  how small, can produce something. This assumes a high level of individual management. There
+                  are certain soils which require a very high level of management in order to realize an appreciable
+                  teturn. In areas containing such soils, as parcel size decreases, the ratio of return to outlay of cash
+                  and labor also decreases drastically.
+
+                  Secondly, there are relatively few crops or types of livestock which are practicably marketable in
+                  the County's agricultural stream of commerce at small volumes produced upon small parcels. For
+                  these two reasons, productivity of small parcels in area of such soils must be reevaluated. ***
+
+5 - Findings for Approval, PAZ-02-01
+                                                                                          FILK    rn     PDE 2265
+
+all of the Hillcrest Walnut Plantings subdivision, but, for reasons which are not entirely clear,
+Code Area 5.11 excluded 10 lots located within the western part of the subdivision, which were
+all clustered at the western end of Hillcrest Drive, a main access road through the subdivision.
+These 10 lots, which were left out of Code Area 5.11, consisted of 10 5-acre lots and two 15-acre
+lots, containing six nonfarm/forest dwellings, including the proposed exception area, consisting
+of three 5-acre lots with one nonfarm/forest dwelling. It appears that these ten excluded lots
+exhibited the same characteristics (parcel size, development pattern, topography, soils, ownership
+pattern, etc.) as the lots included in Code Area 5.11.5
+
+         10.3.    The proposed exception area
+
+         This application proposes the enlargement of Code Area 5.11 to include these three
+parcels based in part on the fact that these parcels have the same basic characteristics as parcels
+within Code Area 5.11. The same pattern of development which is present within the exception
+area Code Area 5.11 is reflected in the proposed 15 acre exception area.
+
+         At the same time, the characteristics of the proposed exception area are markedly
+different than the AF-20 parcels to the north, south and east of the Hillcrest Walnut Plantings
+subdivision consist larger parcels, consisting of 15-40 acre parcels which are in a mixture of
+forest and small farm use for pasture and livestock, and parcels larger than 40 acres used for field
+crops including grain and hay.
+
+         The three 5-acre parcels which are the subject of this application exhibited the same basic
+characteristics as the lots within the Code Area 5.11 exception area. This 15-acre area was
+located within the western part of the same Hillcrest Walnut Planting subdivision abutting the
+western boundary of the Code Area 5.11; had the same parcelization and development pattern’ of
+5-acre lot sizes with one out of the three lots having a dwelling (established before the adoption
+of the statewide goals); was connected to the exception area by an abutting improved local access
+road (Hillcrest Drive) which was one of two local subdivision roads serving the Hillcrest
+Planting subdivision; and, possessed the same soil types, topographic and growing season
+limitations which were found on the other subdivision lots in Code Area 5.11.
+
+                  Soil associates rated god-to-fair and more dependent upon high management levels are. . . Jory-
+                  Yamhill-Nekia      *         *        *
+
+                  Tt may not be reasonably be expected that owners of small parcels in these areas will untertake
+                  such management for an uncertain return.”
+
+         8 The reasons why this area may have been excluded from Code Area 5.11 and the changes which have
+occurred since the early 1980's which now justify taking a committed exception for these three lots with a
+nonfarm/forest dwelling, are discussed in Findings A.10.4 and B.2 below.
+
+         °The intensity of development of the parcels in the subject area are 1 out of 3 parcels occupied by a
+dwelling, and about 2 total acres (including transportation uses and dwellings at one acre per dwelling unit) in Rural
+Residential Use out of a total acreage of 15 acres.
+
+6 - Findings for Approval, PAZ-02-01
+                                                                             rin TA race 2266
+
+        10.4    Changes inside and outside existing exception area and since 1980
+
+        10.4.1 The subject property is at the west end of a cul-de-sac, Hillview Drive, which is a
+public dedicated and privately maintained road , which was created as part of the Hillcrest
+Walnut Plantings subdivision in 1909, Hillview Drive serves as a rural residential cul-de-sac for
+a total of 29 five-acre subdivision lots connecting with Walnut Hill Rd, the county road to the
+east.
+
+        10.4.2 In 1980, the County designated as an exception area the subdivision lots along
+Hillview Drive east of the subject property. Since 1980, the number of rural residential
+dwellings in the exception area with access on Hillview Drive has increased from 7 to 25
+dwellings, leaving only four remaining vacant lots.
+
+        10.4.3 Since 1980, the resulting increase in such dwellings inside the exception area has
+generated an increase in traffic on Hillview Drive from 66 trips per day to 248 trips per day.
+
+        10.4.4 There are six dwellings clustered at the western end of the Hillview Drive cul-de-
+sac and outside the 1980 exception area, which generate an additional 57 trips per day, bringing
+the total current traffic to 305 trips per day from all dwellings on Hillview Drive.
+
+        10.4.5 In 1980, Hillview Drive was a one lane road resembling a “cowpath"with blind
+corners and vertical curves. Since 1980, Hillview Drive has been improved to a 1.5 lane gravel
+road, and three or four years ago the neighbors formed the "Hillview Road Maintenance Assn.",
+through which members contribute monthly to pay for repairs and maintenance of the road,
+which is now passable in most any weather.
+
+       10.4.6   Since 1980, the parcel size and ownership pattern have changed outside the Code
+Area on Hillview Drive insofar as the there are now two owners of Lots 90 (Krueger) , 91 and 92
+(Macy) rather than a single owner (Sytsma). Regarding development pattern, since 1980, along
+Hillview Drive the number of nonfarm/forest dwellings outside Code Area 5.11 remains at five,
+and although there was at most only one new dwelling in this area, there were a number of
+improvements added to this area. Lot 93 added shed pole 1988. Lot 92 addition to barn in 1987,
+workshop in 1985 which was expanded in 1990, and a pole barn in 1992. Tax lot 2501 replaced
+an old house with a new double wide mobile home in 1989 and added a woodworking shop in
+1992. Lot 53 built an addition to mobile home for carport in 1983. Lot 52 added a pole barn in
+1998. Each new improvement added driveways and walkways to the already existing areas
+removed from resource use for dwellings, and drainfield areas, wells, and driveways to serve the
+nonfarm/forest dwellings.
+
+B.      Overview of Request
+
+        1.      A "developed exception" may be taken for the developed Lot 92.
+
+7 - Findings for Approval, PAZ-02-01
+                                                                                       run Lh ce2eBd
+        Lot 92 (tax lot 3800) is a 5-acre parcel which contains a rural residential dwelling
+together with a septic drainfield, replacement drainfield, water well, pole building and shop,
+extended driveway, and has been in nonfarm/forest use since it was constructed in the late 1970's.
+The County finds that Lot 92 is physically developed to the extent that it is no longer available
+for uses allowed by the applicable goal.
+
+         2.       A "committed exception" may be taken for Lots 90, 91 and 92
+
+        The County finds that Lots 90, 91 and 92 (tax lots 3800, 3900 and 4000) are irrevocably
+committed to uses not allowed by the applicable goal because existing adjacent uses and other
+relevant factors make uses allowed by the applicable goal impracticable, based on the totality of
+the circumstances, as follows:
+
+                  (1)      ‘The impact of the higher level of development in the adjacent exception
+                           area (Code Area 5.11) on Hillview Drive, resulting in a three-fold increase
+                           in population and traffic since 1980, has made it impractical to use the
+                           subject property at the western end of the cul-de-sac for a variety of
+                            accepted farm practices and forest operations.
+
+         The subject property is at the west end of a cul-de-sac, Hillview Drive, which, since 1909,
+has been a privately maintained dedicated public road serving as a rural residential cul-de-sac for
+a total of 29 five-acre subdivision lots in the Hillcrest Walnut Plantings subdivision, and
+providing access to Walnut Hill Rd, a county road to the east.° Since 1980, the number of rural
+residential dwellings in the exception area with access on Hillview Drive has increased from 7 to
+26 dwellings. The resulting increase in such dwellings in the exception area has generated an
+increase in traffic on Hillview Drive from an estimated 66 trips per day to about 248 trips per
+day. Including the six dwellings clustered at the western end of the Hillview Drive cul-de-sac
+and outside the 1980 exception area, which generate an estimated additional 57 trips per day, the
+total current traffic from all dwellings on Hillview Drive is approximately 305 trips per day. In
+1980, Hillview Drive was a one lane road resembling a "cowpath"with blind corners and vertical
+curves. Since 1980, Hillview Drive has been improved to a 1.5 lane gravel road by the owners of
+the lots and more recently, the Hillview Drive Road Association, which was created four years
+ago for the purpose of providing for the improvement, maintenance, and repair of the road.
+
+         For purposes of a committed exception analysis, the county may consider the lots in the adjacent
+exception area because those lots were created as part of the original Hillcrest Walnut Plantings subdivision in
+1909, and were not created pursuant to the SPGs. See, DLCD v. Yamhill County, 310r LUBA 488, 500 (1996) ("If
+findings were made that the adjacent exception areas were not created pursuant to the goals, development in those
+areas could be considered, under OAR 660-04-028(6)(c)(A), in determining if a committed exception were justified
+on the subject property.” Id. at n.15.) Likewise, the county may also consider the lots in the area outside or excluded
+from the exception area because they were created as part of the original Hillcrest Walnut Plantings lots    (Lots 93,
+51, 52, 53 and 54) or before the adoption of the SPGs.
+
+8 - Findings for Approval, PAZ-02-01
+                                                                                ria TL vce 2268
+        The increase in population and traffic since 1980 has made it impractical to use the
+subject property at the western end of this cul-de-sac for accepted farming practices and forest
+operations due to potential conflicts with residential users. A variety of farming, such as dairy
+farms, mushroom farms, Christmas tree farms, and grain and livestock operations will generate
+smoke, dust, odors, use aerial spraying viewed as noxious and hazardous, require use of the road
+to bring in large equipment, and operate at night. The increase in development means that
+complaints are more likely to be made against various forest practices required for reforestation,
+road construction and maintenance, harvesting, applicationof chemicals, and disposal of slash,
+resulting in noise, aerial spraying, slash burning, and use of large equipment to clear, cut and
+buck, and haul harvested timber. The potential resident complaints against such farm and forest
+ptactices is even greater due to a deed restriction prohibiting certain agricultural activities on lots
+within the subdivision. In 1980, when there were only seven dwellings on Hillview Drive west
+of the subject property, there was considerably less likelihood of such conflicts between farm/
+forest uses and residential uses. But now, after 20 years, the population and traffic has increased
+more than tripled, making the potential conflict between farm and forest uses and the residential
+uses, as a practical matter, make the use the subject property for farm or forest use impractical.
+The increase in population and traffic is also likely to be a disincentive to anyone who would
+otherwise consider engaging in such farm and forest practices on the subject property and for
+whom access is a fundamental consideration.
+
+                (2)     ‘Asa practical matter, there are no other economic farm use which
+                        could be employed on the property to avoid the impact upon and
+                        conflicts with the higher level of development on adjacent lands.
+
+         Besides livestock, grain and timber, which have such substantial conflicts with the more
+highly developed rural residential lots to the east, the other possible agricultural uses for which
+the soils on the property are suitable include orchards and berries, which may result in lower
+impact and fewer conflicts with and complaints from residents of the subdivision. However, as
+a practical matter, use of the property for orchards and berries is not viable due to certain factors.
+
+         First, there are several general limiting factors, including, topography which is highly
+erodible soil due to slopes, lack of water rights for commercial agricultural irrigation, the small
+tract size, the high level of management required for resource use, and the limited growing
+season due to early fall and late spring frosts, and even shorter pocket climates due to steep
+ridges and ravines.
+
+        Second, there are more specific factors. Apples, prunes, cherries, chestnuts and berries
+require irrigation, but since this property has no water rights for irrigation and the soils are
+marginal suitability for irrigation anyway, dryland farming is the most appropriate alternative.
+The slopes (north facing) are unsuitable for grapes. Hazelnuts require at least 100 acres due to
+specialized machinery for harvesting, mowing and spraying requirements. The remaining
+possible dryland uses include cherries, walnuts and peaches. However, there is no market for
+walnuts and cherries. There are no processors for peaches, and, to the extent that there may exist
+a small specialty market for peaches, it would be difficult to access, and even if possible, as a
+
+9 - Findings for Approval, PAZ-02-01
+                                                                            FILA   74.   PACE 2269
+
+practical matter peaches would not be feasible from an economic standpoint because of the time
+and expense of establishing an intensively managed producing peach orchard on such a small
+acreage, the substantial likelihood of a poor return on investment, and the uncertainties of a
+specialized agricultural commodities market. Therefore, there are no crops which might be
+grown on the subject property at small volumes which can be practicably marketable in the
+County's agricultural stream of commerce.
+
+        Finally, it may be suggested that in order to show that a farm use is impracticable one
+must show that a person cannot engage in any use, even one which is not an economic farm use,
+or in the words of the ORS 215.203 definition of "farm use", one “for the primary purpose of
+obtaining a profit in money." However, such an interpretation would be incorrect, because the
+practical effect would mean that the owner of the property could be forced to choose between
+engaging in economic farm use and foregoing the economic farm use and instead letting the land
+lay idle or using the land merely for a few horses, or other uses which are not an economic farm
+use, so as to reduce the impacts upon and therefore the conflicts with the rural residential uses in
+the surrounding area. This would be inconsistent with the statutory definition of "farm use"
+which requires there to be a "primary purpose of obtaining a profit in money." It is more
+consistent with the statutory scheme and purpose of preservation of agricultural lands for farm
+uses which make a substantial contribution to the agricultural economy, to presuppose that the
+kind of resource use found to be "impracticable" to qualify for a "committed" exception, must be
+"an economic farm use". Therefore, it would be incorrect to deny a committed exception merely
+because the owner could let their land lie fallow so as to avoid the generating the kind of impacts
+on and which an economic farm use will have on surrounding residential uses.
+
+        In conclusion, there are no crops which might be grown on the subject property at small
+volumes which can be practicably marketable in the County's agricultural stream of commerce.
+
+                (3)     The characteristics of the surrounding area and uses and their
+                        relationship with the proposed exception area renders the farm/forest
+                        uses on the proposed exception area impracticable.
+
+        The characteristics of the surrounding   area consist of similar five-acre lots along the road
+inside the exception area to the east (Code Area 5.11), the nine other 5-15 acre lots to the north
+and west clustered at the end of the cul-de-sac outside the exception area (Study Atea 65), and
+the larger 20-40 parcels to the south and further west. Study Area 65 was one of several areas
+which the County considered for additional exception lands in 1992. Characteristics which the
+proposed exception area shares in common with both Code Area 5.11 and Study Area 65 include
+the following: (1) All are part of the same subdivision; (2) Both use the same road, cul-de-sac,
+which serves as a common transportation corridor. Both, through the road association,
+comprised of owners inside both areas, have a common interest in the condition and use of the
+road. (3) Both have the same steep slopes and similar topography. (4) Both have the same parcel
+sizes and ownership pattern, in terms of having nearly all 5-acre lots. Code Area 5.11 has one
+15-acre lot and Study Area 65 has two 15-acre lots. (6) Both have the same type and level of use,
+
+10 - Findings for Approval, PAZ-02-01
+                                                                                   rus Ch ce2270
+ie., residential use with some small woodlots, a few small animals and nothing which would
+qualify as commercial timber or commercial agriculture.
+
+        Therefore, the characteristics which the proposed exception area has in common with
+Code Area suggest that both should have the same zoning. So why is Study Area 65 not part of
+Code Area 5.11? Was it a mistake? The reason is not clear, since the ownership pattern does not
+appear to be different. For example, in Study Area 65, there were four owners for the four
+15-acre parcels; whereas in Code Area 5.11, there were three owners for the five 15-acre parcels.
+The County could just as easily included Study Area 65 in Code Area 5.11, but, without
+explanation, it did not do so. By failing to include the proposed exception area, the situation
+involving imminent conflicts was allowed to occur. Therefore, it is reasonable to conclude that
+omission of the proposed area from Code Area 5.11 could have been a mistake.
+Hf County would have foreseen this problem, it would have been better to have included property
+in Code Area 5.11. In fact, that is the reason that County staff suggested in 1992 that Study Area
+65 be considered for a committed exception. Study Area 65 was not ultimately adopted. It is
+interesting to note that staff recommended against adoption because the study area only contained
+two dwellings which pre-existed the SPGs. One of those was Lot 92, part of the subject
+exception area in this case, so a strong argument can be made that this application, by containing
+one dwelling which pre-existed the SPG's on just three lots, should succeed where Study Area 62
+failed. Also, there was a lack of owner support for the larger Study Area 62, which is no longer
+the situation in this case. Moreover, the logic for an exception, at least to this property, still
+exists, and indeed is even stronger today because of the continued growth in Code Area 5.11.
+Since 1990, there have been seven more dwellings built along Hillview Drive. So whether it was
+a mistake, or merely an oversight, there are imminent unintended consequences, and the County
+can now take action to address and correct the problem.                                 .
+
+        Doing nothing exposes owners to imminent conflicts with commercial agricultural or
+commercial timber. The close relationship between the exception area sharing the same road will
+continue, and failure to address the problems will exacerbate the conflicts. On the other hand,
+correcting the problem will prevent future conflicts. To prevent the subject property from
+creating the same type of conflicts with the surrounding AF-20 lands, the conditions of approval
+could include a voluntary agreement to a condition that there be a deed restriction to assure no
+nuisance complaints, protecting future agricultural and forestry practices in Study Area 65 and
+the larger parcels to the south and further to the west. At the same time, approval of the
+exception will encourage the owners to engage in the type of small resource use on 5-acte lots
+which is more compatible with Code Area 5.11 to the east and with Study Area 65 to the west
+and north, rather than the type of accepted farm practices resulting from economic farm uses
+which generate complaints by surrounding residential dwelling owners.
+
+        The minimum change necessary is Lots 90, 91, and 92. Other lots in Study Area 65 could
+be considered for future inclusion, but there are factors which make the exception for Lots 90,
+91, and 92 more appropriate than the other lots at this point in time. First, these lots are closest
+to Code Area 5.11 and therefore have a greater likelihood of conflicts than lots further away from
+Code Area 5.11.    Second, these lots do not contain current farm use or fully stocked wood lot, so
+
+11 - Findings for Approval, PAZ-02-01
+                                                                               FILA   TA    mee Oe     14
+
+conversion will not remove land from or interfere with any ongoing agricultural or forest
+operation. Third, as a matter of logistics, these applicants do not control the other lots, and some
+of those other lot owners may wish to continue to remain in AF-20 zone. Fourth, each lot usually
+has certain unique features, and without a detailed factual analysis of each of the other lots, one
+cannot determine whether such other lots in Study Area 65 should also be considered for an
+exception area.
+
+         By comparison, there is nothing which suggests a close relationship between the proposed
+exception area and the larger parcels to the south and further to the west. If anything, inclusion
+of this property with the larger parcels in the AF-20 zone is an anomaly, since the smaller parcel
+size and ownership pattern makes it unlikely that such small parcels could ever be employed in
+commercial agriculture or timber operations.
+
+        Therefore, the application satisfies the requirements for a "irrevocably committed"
+exception.
+
+                4       Other Requirements
+
+       The County finds that the applicant has satisfied the other requirements for this
+comprehensive plan amendment/zone change.
+
+        The application demonstrates compliance with the Transportation Planning Rule because
+two additional dwellings will not significantly affect a transportation facility, as required by OAR
+660-012-0060.
+
+         The application, which requests a zone change to AF-10 to conform to the plan
+designation of AFSH (Agriculture Forestry Small Holding), satisfies the requirements under the
+zoning ordinance for a zone change. See, YCZO 1202.08. More specifically, the County finds
+that: (a) the proposed change is consistent with the comprehensive plan policies, (b) there is a
+demonstrable need for the use; (c) the proposed change is compatible with surrounding uses,
+density and pattern of development, and changes which have occurred; (d) there are no other
+lands as well suited for the use due to location. Use of the property for small resource use as
+provided in the AF-10 zone will be very well suited to the type of use which applicant Kruegers
+wish to make of the property, which is a homestead for their family which will fulfill their vision
+which is to design and implement an ecologically sound, cooperative, self-reliant and sustainable
+homestead that will be used as a practicum for future consultation with other small parcel owners
+in our community.
+
+C.      Applicable Criteria
+
+       To allow development for rural residential, the applicant is requesting a plan amendment
+and zone change for the three lots from AFLH/AF-20 to AFSH/AF-10. The plan amendment and
+zone change will require an exception to be taken to Statewide Goal 3 and 4 Applicant proposes
+
+12 - Findings for Approval, PAZ-02-01
+                                                                            pus UE eee 2272
+a "developed or committed" exception to Statewide Goal 3 and 4. This will require compliance
+with the following approval criteria:
+
+        1.      State Statutes and Administrative Rules
+
+        11      ORS   197.732 (Exceptions)
+
+        The proposed use seeks to add a 15 acre area to a "developed" or "irrevocably committed"
+exception area. A committed exception to Goals 3 and 4 is proposed under ORS 197.732, which
+provides in part:
+
+        "(1) A local government may adopt an exception to a goal if:
+
+                "(a) The land subject to the exception is physically developed to the extent that it
+                is no longer available for uses allowed by the applicable goal;
+                "(b) The land subject to the exception is irrevocably committed as described by
+                Land Conservation and Development Commission rule to uses not dllowed by the
+                applicable goal because existing adjacent uses and other relevant factors make
+                uses allowed by the applicable goal impracticable;
+
+        1.2.    OAR 660-004-0018 (Planning and Zoning for Exception Areas)
+        OAR 660-004-0018 explains the requirements for adoption of plan and zone designations
+for exceptions. "Physically developed" or "irrevocably committed" exceptions under OAR
+660-004-0025 and 660-004-0028 are intended to recognize and allow continuation of existing
+types of development in the exception area. OAR 660-004-0018 provides as follows:
+
+        (2) For "physically developed" and "irrevocably committed" exceptions to goals, plan,
+        and zone designations shall authorize a single numeric minimum lot size and shall limit
+        uses, density, and public facilities and services to those:
+        (a) Which are the same as the existing land uses on the exception site; or
+        (b) Which meet the following requirements:
+        (A) The rural uses, density, and public facilities and services will maintain the land as
+         "Rural Land" as defined by the goals and are consistent with all other applicable Goal
+        requirements; and
+        (B) The rural uses, density, and public facilities and services will not commit adjacent or
+        nearby resource land to nonresource use as defined in OAR 660-004-0028; and
+        (C) The rural uses, density, and public facilities and services are compatible with
+        adjacent or nearby resource uses.
+        (3) Uses, density, and public facilities and services not meeting section (2) of this rule
+        may be approved only under provisions for a reasons exception as outlined in section (4)
+        of the rule and OAR 660-004-0020 through 660-004-0022.
+
+        13      OAR 660-004-0025
+
+13 - Findings for Approval, PAZ-02-01
+:
+                                                                .                             FILE    rie   ee22 73
+
+            OAR 660-004-0025, which explains the exception requirements for land "physically
+developed" to other uses, provides as follows:
+
+             (1) A local government may adopt an exception to a goal when the land subject to the
+             exception is physically developed to the extent that it is no longer available for uses
+            allowed by the applicable goal.
+            (2) Whether land has been physically developed with uses not allowed by an applicable
+             Goal, will depend on the situation at the site of the exception. The exact nature and extent
+             of the areas found to be physically developed shall be clearly set forth in the justification
+            for the exception. The specific area(s) must be shown on a map or otherwise described
+          . and keyed to the appropriate findings of fact. The findings of fact shall identify the extent
+            and location of the existing physical development on the land and can include
+             information on structures, roads, sewer and water facilities, and utility facilities, Uses
+             allowed by the applicable goal(s) to which an exception is being taken shall not be used
+             to justify a physically developed exception.
+
+            14      OAR 660-004-0028 (Exception for Land Irrevocably Committed to Other
+                    Uses)
+
+            The framework for irrevocably committed exceptions set forth in OAR 660-004-0028.
+OAR 660-004-0028(1) allows a local government to adopt an exception to a statewide planning
+goal "when the land subject to the exception is irrevocably committed to uses not allowed by the
+applicable goal because existing adjacent uses and other relevant factors make uses allowed by
+the applicable goal impracticable[.]" OAR 660-004-0028(2) requires that a committed exception
+determination must address certain factors, particularly the characteristics of the exception area,
+i.e. the subject property, characteristics of the adjacent lands, and the relationship between the
+exception area and adjacent lands.'’ OAR 660-004-0028(3) requires that for an exception to
+Goal 3 (Agricultural Lands), the local government must demonstrate that "farm uses" as defined
+in ORS 215.203 are impracticable in the exception area. OAR 660-004-0028(4) requires that a
+committed exception must be supported by findings of fact addressing all applicable factors of
+
+            | OAR 660-004-0028(2) provides:
+            "Whether land is irrevocably committed depends on the relationship between the exception area [i.e. the
+            subject property] and the lands adjacent to it. The findings for a committed exception therefore must
+            address the following:
+
+                     "(a) The characteristics of the exception area;
+                     "(b) The characteristics of the adjacent lands;
+                     "(c) The relationship between the exception area and the lands adjacent to it; and
+                     "(d) The other relevant factors set forth in OAR 660-04-028(6)."
+
+    14 - Findings for Approval, PAZ-02-01
+                                                                                                uk   C4 ce
+                                                                                                         P2 74
+
+OAR 660-004-0028(6) and explain why those facts support the conclusion that the uses allowed
+by the applicable goal are impracticable in the exception area.”
+
+D.      Analysis.
+
+         This request for a plan amendment and zone change under Yamhill County Zoning
+Ordinance (YCZO), for a "developed and committed" exception under ORS 197.732(1)(c) and
+the implementing administrative rules, satisfies the applicable approval criteria for the reasons
+set forth below:
+
+        In addition to a plan amendment/ zone change , this application requests an Exception to
+Statewide Land Use Goal 3 (Agricultural Lands) and Goal 4 (Forest Lands).
+
+        1.       OAR 660-004-0025 (Exception Requirements for Land Physically Developed
+                 to Other Uses)
+
+                 The County finds that Lot 92 (tax lot 3800) is physically developed to the extent
+that it is no longer available for uses allowed by the applicable goal as required by 660-004-0025.
+The exact nature and extent of the area found to be physically developed, including the
+structures, roads, sewer and water facilities, and utility facilities is as follows:
+
+        2 OAR 660-004-0028(6) provides, in relevant part:
+        “Findings of fact for a committed exception shall address the following factors:
+
+        "(a) Existing adjacent uses;
+        "(b) Existing public facilities and services (water and sewer lines, etc.);
+        "(c) Parcel size and ownership patterns of the exception area and adjacent lands:
+        "(A) Consideration of parcel size and ownership patterns under subsection (6)(c) of this rule shall include
+        an analysis of how the existing development pattern came about and whether findings against the Goals
+        were made at the time of partitioning or subdivision. Past land divisions made without application of the
+        Goals do not in themselves demonstrate irrevocable commitment of the exception area. Only if
+        development (e.g., physical improvements such as roads and underground facilities) on the resulting
+        parcels or other factors make unsuitable their resource use or the resource use of nearby lands can the
+        parcels be considered to be irrevocably committed. Resource and nonresource parcels created pursuant to
+        the applicable goals shall not be used to justify a committed exception. * * *;
+         "(B) Existing parcel sizes and contiguous ownerships shall be considered together in relation to the land's
+        actual use. For example, several contiguous undeveloped parcels (including parcels separated only by a
+        road or highway) under one ownership shall be considered as one farm or forest operation. The mere fact
+        that small parcels exist does not in itself constitute irrevocable commitment. * * *;
+        "(d) Neighborhood and regional characteristics;
+        "(e) Natural or man-made features or other impediments separating the exception area from adjacent
+        resource land. * * *;
+         "(f) Physical development according to OAR 660-04-025; and
+         "(g) Other relevant factors."
+
+15 - Findings for Approval, PAZ-02-01
+                                                                                 FILK   Ti    PACE 22715
+
+        11.     Physically Developed:     Existing Features
+
+        Structures inside the proposed exception include a residence and barn on tax lot 3800, a
+pole building and a workshop on tax Jot 3900. Tax lot 4000 contains no structures.
+
+        1.2     Roads
+
+The proposed exception is bored on the north side by Hillview Drive. This is one of the main
+roads providing access to the Hilicrest Walnut Plantings subdivision. Hillview Drive is a primary
+local dedicated public road which is maintained by a private Road Maintenance Association
+comprised of owners of lots bordering Hillview Drive within the Hillcrest Walnut Plantings
+subdivision. Hilicrest Drive is graveled and runs from the east to west, connecting with Walnut
+Hill Road which in turn connects with State Highway 233 (Lafayette Hwy). Hillcrest Drive
+serves both subdivision lots within and without the existing exception area, Code Area 5.11. In
+addition to 29 lots inside Code Area 5.11, Hillcrest Drive provides direct access for a total of 10
+lots Gncluding the proposed exception area) in eight ownerships which have six (6) rural
+residential dwellings outside the western boundary of Code Area 5.11.
+
+        13      Sewer, Water and Utility Facilities:
+
+       Sewer service to the subject lots is provided by septic systems. Water is supplied by
+groundwater sources. Electricity and phone service are available in the area.
+
+        14      Area Physically Developed:
+
+        The surrounding area is physically developed.     To the east of the proposed exception area,
+inside Code Area 5.11, there are 26 out of the 29 five-acre lots along Hillview Drive which have
+rural residential dwellings. To the north and west of the proposed exception are, outside Code
+Area 5.11, there are seven (7) lots in six (6) ownerships which have five (5) rural residential
+dwellings, all of which were placed before the adoption of Code Area 5.11 in1980. Four of the
+lots are 5 acres in size, and three of the lots are 15 acres in size. All of these dwelling were placed
+prior to the 1980 adoption of Code Area 5.11, and none of the lots are used for any farm
+operations. The question of how much area is "developed" by a dwelling needs to be addressed.
+The assessor's office removes one acre around each dwelling from deferral. Certainly this is the
+minimum amount that should be considered to be "developed" by the presence of a dwelling.
+The next question is how much of a five, ten or fifteen acre parcel is "developed" with the
+presence of a dwelling, and will depend on many factors which include dwelling size, dwelling
+placement, driveway length, accessory uses and other improvement necessary for placement of a
+dwelling. As noted above the dwellings are not the only things present that can "develop" a
+parcel to a nonresource use. Roads and other improvements made to service a subdivision or
+group of parcels will also "develop" an area to a nonresource use. In this case, Hillview Drive
+provides access to the existing dwelling in the proposed exception area as well as the other five
+dwellings to the east and north, all of which dwellings were placed prior to the 1980 adoption of
+
+16 - Findings for Approval, PAZ-02-01
+                                                                               FILK   74    PACE 22716
+
+Code Area 5.11. Each of the six dwellings have parking and driveways to the dwellings and
+between accessory buildings, shop buildings, as well as areas occupied by septic system
+drainfields, drainfield replacement areas, and individual wells.
+
+        Hillview Drive is about one mile in length running west from Walnut Hill Road. In 1978,
+there were about eight dwellings along Hillview Drive and the road was a one lane heavily rutted
+“cow path." As more homes were built, there have been improvements made to Hillview Drive
+to make it acceptable for residential use, particularly in the section of Hillview Drive abutting the
+proposed exception area and the other seven lots with five dwellings to the east and north. Three
+to four years ago the Hillview Road Maintenance Association was formed, through which each
+property owner contributes (currently $150 per year) for monthly maintenance to the road. (Prior
+to the filing of this application, the Kruegers attended a meeting of the association and those
+present had no objection to the proposed zone change.) Therefore, since 1980, Hillview Drive
+has been significantly improved to make it acceptable for residential use.
+
+        As a result, the improvement of, and the surrounding rural residential development
+clustered along, Hillview Drive abutting the proposed exception area and the surrounding area,
+renders the proposed exception area developed because they effectively discourage or block
+recombination of the parcels in the proposed exception area with larger farm parcels outside of
+the proposed exception area.
+
+        To the south and above the proposed exception area is tax lot 700 and 702. The creek
+which runs through the exception area comes down from the south down from tax lot 700.
+Above the creek are Christmas trees, and above that a dwelling and steep forested acreage. There
+is no access from Hillview Drive to tax lots 700 and 702; instead those lots have access to
+Walnut Hill Road by way of Three Trees Lane. The existence of a dwelling on Lot 92 make the
+property too expensive to acquire and make use of the proposed exception area in combination
+with tax lots 700 and 702 impracticable.
+
+        2.      Irrevocably Committed. [OAR 660-004-0028 (Exception Requirements for
+                Land Irrevocably Committed to Other Uses)
+
+        The County finds that the application for a "irrevocably committed" exception on Lots 90,
+91, and 92 (tax lots 3800, 3900 and 4000) based on those lots being irrevocably committed to
+uses not allowed by the applicable goal because existing adjacent uses and other relevant factors
+make uses allowed by the applicable goal impracticable, and therefore satisfies the requirements
+of OAR 660-004-0028 as more fully explained below.
+
+        2.1     Characteristics of the Proposed Exception Area:
+
+        The proposed 15-acre exception area is a ravine the length of which slopes down from
+about 600 feet at its northwestern boundary to about 500 feet at Hillview Drive on its
+southeastern boundary. The sides of the ravine descend steeply down the western and eastern
+boundaries to a seasonal creek at the bottom of the ravine running from north to south. At the
+
+17 - Findings for Approval, PAZ-02-01
+                                                                                      FL W            sce OTT
+top of the ravine on the western boundary of the area is a rural residence which is served by a
+well and a septic drainfield and a barn (Lot 92 owned and occupied by John P. Macy) with
+pasture which slopes down to a seasonal creek which runs north down through the middle of Lot
+91. The seasonal creek contains willows and is wet all year. Lot 91 contains a pole building and
+pasture. On the eastern boundary of the area is Lot 90 (Krueger) with relatively steep ridges on
+its eastern slope which are forested in fir and oak, and an open atea which slopes down to the
+seasonal creek cutting through Lot 91.
+
+       2.2      Characteristics of Adjacent Lands
+
+        West of the proposed exception area the adjoining land slopes fairly steeply up to about
+860 feet and is forested with a mixture of fir and oak. North of the proposed exception area the
+adjoining land slopes fairly steeply down to about 200 feet and is forested with a mixture of fir
+and oak. The physically developed rural residential area bordering the subject area to the west
+and north, which contains 7 lots, 6 ownerships, 5 dwellings, together with the difference in
+topography of the proposed exception area and the areas to the north and west, make it extremely
+unlikely that adjoining owners would be interested in purchasing land in the proposed exception
+area to increase their holdings. East of the proposed exception area is the 600 acre subdivision,
+Code Area 5.11, comprised of primarily 5-acre lots, and served by the same subdivision access
+road, Hillview Drive, along which 25 out of 29 lots have rural residences.
+
+       2.3.     Relationship between Exception Area and Adjacent Land:
+
+        2.3.1   To the east is the 600 acre exception area known Code Area 5.11, which is
+comprised of the Hillcrest Walnut Plantings subdivision and zoned AF-10 Agriculture Forestry
+Small Holding, which allows small-scale or more intensive farm and forestry activities. The
+proposed exception area consists of three lots (90, 91 and 92) in the subdivision, which are
+directly served by Hillview Drive, one of the main subdivision access roads leading to Walnut
+Hill Road to the east. The proposed exception area is almost identical to uses and development
+on the lots in Code Area 5.11, which is comprised of rural residential development, with
+dwellings on 5-15 acre tracts, served by a improved subdivision roads, individual on-site wells
+and septic tanks, an not suitable for farming for profit given the soils, slopes, and parcel sizes.
+These include lots which have mostly owners who work away from home, rural residences with
+driveways, lawns, outbuildings, small gardens, a few dogs, one with 2 or 3 horses, one with a
+small cherry orchard, one with some Christmas trees, and one with a 100'x100" plot planted in
+grapes, one with a few chickens and ducks, and forested areas.
+
+        2.3.2 Land to the north and to the immediate east are part of the same subdivision as the
+subject lots, and also served by Hillview Drive. Land further to the east and south is in more
+extensive forest use which includes woodlots and Christmas trees. Considered as a single tract or
+as three separate lots, it is unlikely that the proposed exception area would be combined with the
+property to the south or west. This is due to the small 5-15 acre size, the existence a dwelling on
+Lot 92 , which make it too expensive for a farmer or forester to justify buying to combine with
+
+18 - Findings for Approval, PAZ-02-01
+                                                                                   FILH   Th    PACE 2218
+
+their property, and is also limited by the need for setbacks from the creek through Lot 9land the
+steeply sloping eastern side of Lot 90.
+
+        2.3.3.   The characteristics of the surrounding area and uses and their relationship with the
+proposed exception area renders the farm/forest uses on the proposed exception area
+impracticable.
+
+        The characteristics which the proposed exception area shares in common with both Code
+Area 5.11 and Study Area 65 include the following: (1) All are part of the same subdivision;
+(2) Both use the same road, cul-de-sac, which serves as a common transportation corridor. Both,
+through the road association, comprised of owners inside both areas,      have a common interest in
+the condition and use of the road. (3) Both have the same steep slopes and other topography.
+(4) Both have the same parcel sizes and ownership pattern, in terms of having nearly all 5-acre
+lots. Code Area 5,11 has one 15-acre lot and Study Area 65 has two 15-acre lots. (6) Both have
+the same type and level of use, i.e., residential use with some small woodlots, a few small
+animals and nothing which would qualify as commercial timber or commercial agriculture.
+
+        Therefore, the characteristics which the proposed exception area has in common with
+Code Area suggest that both should have the same zoning. So one may ask, why is Study Area 65
+not part of Code Area 5.11? Was it a mistake?   Applicants have researched this and found that
+the reason is not clear, since the ownership pattern does not appear to be different. For example,
+in Study Area 65, there were four owners for the four 15 acre parcels; whereas in Code Area
+5.11, there were three owners for the five 15 acre parcels. The County could just as easily
+included Study Area 65 in Code Area 5.11, but, without explanation, it did not do so. By failing
+to include the proposed exception area, the situation involving imminent conflicts was allowed to
+occur. Therefore, it is reasonable to conclude that omission of the proposed area from Code
+Area 5.11 could have been a mistake.
+
+        If County would have foreseen this problem, it would have been better to have included
+property in Code Area 5.11. In fact, that is the reason that County staff suggested in 1992 that
+Study Area 65 be considered for a committed exception. Although Study Area 65 was not
+ultimately adopted, the logic for an exception, at least to this property, still exists, and indeed is
+even stronger today because of the continued growth in Code Area 5.11. Since 1990, there have
+been seven more dwellings built along Hillview Drive. So whether it was a mistake, or merely
+an oversight, there are imminent unintended consequences, and the County can now take action
+to address and correct the problem.
+
+        Doing nothing exposes owners to imminent conflicts with commercial agricultural or
+commercial timber. The close relationship between the exception area sharing the same road will
+continue, and failure to address the problems will exacerbate the conflicts. On the other hand,
+correcting the problem will prevent future conflicts. To prevent the subject property from
+creating the same type of conflicts with the surrounding AF-20 lands, the conditions of approval
+could include a voluntary agreement to a condition that there be a deed restriction to assure no
+nuisance complaints, protecting future agricultural and forestry practices in Study Area 65 and
+
+19 - Findings for Approval, PAZ-02-01
+                                                                                    FILE   7A    cee      19
+
+the larger parcels to the south and further to the west. At the same time, approval of the
+exception will encourage the owners to engage in the type of small resource use on S-acre lots
+which is more compatible with Code Area 5.11 to the east and with Study Area 65 to the west
+and north, rather than the type of accepted farm practices resulting from economic farm uses
+which generate complaints by surrounding residential dwelling owners.
+
+        The minimum change necessary is Lots 90, 91, and 92. Other lots in Study Area 65 could
+be considered for future inclusion, but there are factors which make the exception for Lots 90,
+91, 92 more appropriate than the other lots at this point in time. First, these lots are closest to
+Code Area 5.11 and therefore have a greater likelihood of conflicts than lots further away from
+Code Area 5.11.     Second, these lots do not contain current farm use or fully stocked wood lot, so
+conversion will not remove land from or interfere with any ongoing agricultural or forest
+operation. Third, as a matter of logistics, these applicants do not control the other lots, and some
+of those other lot owners may wish to continue to remain in AF-20 zone. Fourth, each lot usually
+has certain unique features, and without a detailed factual analysis of each of the other lots, one
+cannot determine whether such other lots in Study Area 65 should also be considered for an
+exception area.
+
+         By comparison, there is nothing which suggests a close relationship between the proposed
+exception area and the larger parcels to the south and further to the west. If anything, inclusion of
+this property with the larger parcels in the AF-20 zone is an anomaly, since the smaller parcel
+size and ownership pattern makes it unlikely that such small parcels could ever be employed in
+commercial agriculture or timber operations.
+
+        2.4       Existing Adjacent Uses: See Finding A.3.
+
+        24.1      Existing Adjacent Uses in 1980
+
+        In 1980, the existing adjacent uses were as follows:
+
+        Parcel size and Ownership Pattern:
+
+                  Inside Code Area 5.11: There were 28 5-acre lots and one 15 acre lot inside Code
+                  Area on Hillview Drive.
+
+                  Qutside Code Area 5.11. There were three contiguous ownerships. ‘The first is
+                  Lots 92, 91 and 90 a 15 acre ownership (the proposed exception area). The
+                  second is on Lot 51, a 10 acre ownership which had been partitioned into tax lots
+                  5414-2501 and 2502. The third is Lot 54, a 15 acre ownership which had been
+                  partitioned into three lots. Thus there were ten 5-acre lots and two 15 acre lots for
+                  a total of 12 lots outside the Code Area on Hillview Drive.
+
+20 - Findings for Approval, PAZ-02-01
+7                                                                                            ix      TL v4ce2280
+         Development Pattern:
+
+                   Inside Code Area 5.11: Along Hillview Drive there were 7 nonfarm/forest
+                   dwellings inside Code Area 5.11 (Lots 61, 64, 65, 76, 77, 79, 80).
+
+                   Outside Code Area 5.11:Along Hillview Drive there were 5 nonfarm/forest
+                   dwellings outside Code Area 5.11. (Lots 52, 53, 92 and 93 and tax lots 5414-
+                   2501 and 2502). Each developed lot includes areas removed from resource use
+                   for garages, shop buildings, septic systems and drainfields, replacement
+                   drainfields, wells, and driveways, some of which are rather lengthy, to serve the
+                   dwellings."*
+
+         Road:      Hillview Drive was a one lane heavily rutted road running through Code Area
+                   5.11 and serving the original subdivision lots west of Code Area. During winter
+                   months, the western half of the road became nearly impassable due to its
+                   steepness and poor condition.
+
+         Use of property:
+
+                   Inside Code Area 5.11: Along Hillview Drive. The Exceptions Statement II
+                   describes the code area in general as having 76 parcels, occupied by 32 dwellings,
+                   26 of which dwellings were on 10 acres or less, of and area as a "steeply rising
+                   ridge planted in old cherry and walnut trees . . . growing season is limited by early
+                   fall and late spring frost [and] even shorter pocket climates occur due to steep
+                   tidges and ravines in the western half of the Code Area," noted its poor suitability
+                   for irrigation, and concluded that this area was committed to rural residential use
+                   "due to an evenly-distributed small parcelization pattern of individual ownerships
+                   on soils with marginal productivity potential due to soil quality and topographical
+                   constraints." These small resource parcels were forested and were used for
+                   woodlots, pasture for a small number of horses or sheep, fruits trees, landscaping
+                   and household gardens.
+
+                   Qutside Code Area 5.11. Uses outside Code Area 5.11 at the western end of
+                   Hillview Drive were         nonfarm/forest uses.   The owner of Lots 92, 91, and 90
+                   lived in the dwelling on Lot 92 and grazed a few horses and sheep on Lots 90 and
+
+         8 atthough planning records for Lot 52 were incomplete, it appears from the planning departments address
+maps that the dwelling on Lot 52 was in existence in 1985. For purposes of this analysis it is assumed that the
+dwelling on Lot 52 was established prior to 1980, although it does not make a significant difference for purposes of
+satisfying the approval criteria for this application. .
+
+          “The area occupied by these improvements appear to exceed the one acre which the assessor's office
+removes around each dwelling from farm deferral for property tax purposes, which would be the minimum amount
+that should be considered "developed" by each dwelling.
+
+21 - Findings for Approval, PAZ-02-01
+                                                                                 rua “TA ce 228L
+                91. The primary use of the other lots north of Hillview Drive was in woodlots of
+                fir and other tree species, and a few chickens and ducks.
+
+        Markets: According to OSU Horticulturist, Jeff Olsen, markets to some extent existed for
+        prunes, walnuts, cherries, and peaches in the 1980's. The "glory years” for prunes were
+        the 1940's through the 1980's. The market for walnuts, which had their heyday in the
+        1950's and 1960's, were dwindling. Cherries still had some processors in the valley.
+
+        2.4.2   Existing Adjacent Uses Since 1980
+
+        Since 1980, the following changes in the existing adjacent uses have occurred:
+
+        Parcel size and Ownership Pattern:
+
+                Inside Code Area 5.11: Since 1980, the parcel size and ownership pattern appear
+                to be the same inside the Code Area on Hillview Drive.
+
+                Qutside Code Area 5.11. Since 1980, the parcel size and ownership pattern have
+                changed outside the Code Area on Hillview Drive insofar as the there are now two
+                owners of Lots 90 (Krueger) , 91 and 92 (Macy) rather than a single owner
+                (Sytsma).
+
+        Development Pattern:
+
+                Inside Code Area 5.11: Since 1980, out of the 29 Lots along Hillview Drive inside
+                the Code Area, the number of nonfarm/forest dwellings has increased from seven
+                to 25. In addition to Lots 61, 64, 65, 76, 77, 79, 80 have been added Lots 55, 57,
+                58, 60, 62, 63, 64 66, 67, 68, 69,78, 82, 83, 84, 85, 86, 87, and 89.    Only four
+                vacant lots remain (Lots 56, 59, 81, and 88).
+
+                Qutside Code Area 5.11: Since 1980, along Hillview Drive the number of
+                nonfarm/forest dwellings outside Code Area 5.11 remains at five (Lots 52, 53, 92
+                and 93 and tax lots 5414-2501 and 2502). Although there was at most only one
+                new dwelling in this area, there were a number of improvements added to this
+                area,   Lot 93 added shed pole 1988.    Lot 92 addition to barn in 1987, workshop
+                in 1985 which was expanded in 1990, and a pole barn in 1992        Tax lot 2501
+                replaced an old house with a new double wide mobile home in 1989 and added a
+                woodworking shop in 1992. Lot 53 built an addition to mobile home for carport
+                in 1983. Lot 52 added a pole barn in 1998. Each new improvement added
+                driveways and walkways to the already existing areas removed from resource use
+                for dwellings, and drainfield areas, wells, and driveways to serve the
+                nonfarm/forest dwellings.
+
+22 « Findings for Approval, PAZ-02-01
+                                                                                      run CA rsce2282
+        Road: Since 1980, Hillview Drive has been substantially improved. Three or four years
+        ago the neighbors formed the "Hillview Road Maintenance Assn.", through which
+        members contribute monthly to maintenance of the road, and now the road is passable in
+        most any weather.
+
+        Markets: According to OSU Horticulturist, Jeff Olsen, there are no longer any markets
+        for prunes, walnuts, and cherries from small acreage, and the markets for peaches are
+        limited to specialty markets.
+
+        2.5,    Existing Public Facilities and Services:     See Findings A.8.
+
+        2.6     Parcel Size and Ownership Pattern, Proposed Exception Area/Adjacent
+                Land: See Findings A.1, A.3, and A.10.
+
+        Like the parcels in the proposed exception area, parcels to the north, the west, and to the
+east are all part of the Hillcrest Walnut Plantings subdivision, and are from 5 to 15 acres, The
+majority of parcels are 5 acres. In the proposed exception area there is one contiguous
+ownership, lots 91 and 92. The adjacent area has a similar ownership pattern. Land to the south
+and west of the subdivision contains larger parcels, nearly all 20 acres in size.
+
+        2.7     Neighborhood and Regional Characteristics:         See Findings A.10.
+
+        2.8     Natural and Man-Made Features/Impediments: See Findings A.10.
+
+        2.9     Physical Development:      See Findings A.1 and A.10.
+
+        2.10    Other Relevant Factors:
+
+        The proposed exception area contains 3 lots in two separate ownerships.       OAR 660-04-
+028(6)(c)(B) states that small parcels do not themselves constitute irrevocable commitment.
+However, smalf parcels in separate ownerships are more likely to be irrevocably committed if the
+parcels are developed, clustered in a large group or around a road designed to serve the parcels.
+The latter description fits the study area. The existence of this parcelization pattern severely
+limits the potential for resource uses. The greater the number of separate owners, especially if
+those ownerships are developed with dwellings, the lower chance that these parcels could be
+aggregated into a farm or forestry holding that could be used for resource use.
+
+        The lots in the subdivision, including the three 5-acre lots in the proposed exception are,
+contain a deed restriction which states:
+
+        "Said lots or tracts shall not be used for the purpose of raising, breeding, pasturing,
+        boarding, buying or selling of dogs, cats, mink, nutria, rodents, hogs, pigs, or piglets."
+
+23 - Findings for Approval, PAZ-02-01
+                                                                                              rig CL race2283
+
+        This restriction applies to Lots 90 and 92, as well as to 36 other lots in the Hillcrest
+Walnut Plantings subdivision.        These restrictions limit the possibility of establishing a farm use,
+and could discourage adjoining farmers from purchasing these lots to combine with their farms.
+
+        2.11     Resource Uses:
+
+        To determine the resource uses that could be established on the property the soils must be
+evaluated. The three main soil types in the proposed exception area are Yamhill, Jorey and
+Steiwer. These soil types have an agricultural rating of Class              H and IM. The Yamhill county Soil
+Survey lists the following agricultural uses for these soils:
+
+                 Yamhill: orchards, small grain, hay, and pasture
+
+                 Jorey: Orchards, berries, grain, hay, pasture, and timber
+
+                 Steiwer: Grain, hay and pasture,
+
+        As explained in Exception Statement II, the economics of farming and forestry on small
+parcels of 5-15 acres require high levels of management which it may not be reasonable to expect
+owners to undertake.’
+
+        'S As noted in Exceptions Statement II:
+                  "to deny an exception for Code Areas overwhelmingly in individual ownership of existing
+                parcels less than 20 acres in size would be to saddle owners with unnecessary paperwork and
+                hardship and to skew market place options."
+
+                There are two other factors which must also be considered in evaluating productivity of small
+                parcels. Firstly, the basic assumption underlying the system . . . is that any patch of soil, no matter
+                how small, can produce something. This assumes a high level of individual management. There
+                are certain soils which require a very high level of management in order to realize an appreciable
+                return. In areas containing such soils, as parcel size decreases, the ratio of return to outlay of cash
+                and labor also decreases drastically.
+
+                Secondly, there are relatively few crops or types of livestock which are practicably marketable in
+                the County's agricultural stream of commerce at small volumes produced upon small parcels. For
+                these two reasons, productivity of small parcels in area of such soils must be reevaluated. ***
+
+                Soil associates rated good-to-fair and more dependent upon high management levels are. . . Jory-
+                Yamhill-Nekia       *        *        *
+
+                It may not be reasonably be expected that owners of small parcels in these areas will untertake
+                such management for an uncertain return."
+
+24 - Findings for Approval, PAZ-02-01
+                                                                                    rik 14 ree 2284
+        2.11.1   Agricultural Uses
+
+         These soils depend upon a high management level. The type of farm products which can
+be grown is further limited by whether the land is irrigated or non-irrigated. The proposed
+exception area must be considered non-irrigated because there are no water rights for irrigation
+from the Department of Water Resources. Applicants reviewed the Yamhill County Soils
+Survey, obtained soils map and topographical maps and consulted with Oregon State University
+Extension Service in McMinnville regarding the types of agricultural products which are suitable
+with limited water availability. The principal dryland crops for these soils include winter wheat,
+gtass hay, grapes,.and Christmas trees. The principal dryland tree fruits and nuts for these soils
+are cherries, hazelnuts, walnuts and peaches.
+
+        Christmas tree farming is a possibility. There are Christmas trees on a larger parcel to the
+south of the subject property. Christmas trees require intensive management, including spraying.
+Other types of farming, such as dairy farms, mushroom farms, and grain and livestock operations
+are possibilities. However, conflicts with the surrounding residential uses is imminent due to the
+smoke, dust, odors, use of aerial spraying viewed as noxious and hazardous, use of the road to
+bring in large equipment, and operations at night.
+
+        The potential resident complaints against such farm and forest practices is even greater
+due to the deed restriction discussed above, prohibiting certain agricultural activities on lots
+within the subdivision.
+
+        In 1980, when there were only seven dwellings on Hillview Drive west of the subject
+property, there was considerably less likelihood of such conflicts between farm/ forest uses and
+residential uses. But now, after 20 years, the population and traffic has increased more than
+tripled, making the potential conflict between farm and forest uses and the residential uses, as a
+practical matter, make the use the subject property for farm or forest use impractical. The
+increase in population and traffic is also likely to be a disincentive to anyone who would
+otherwise consider engaging in such farm and forest practices on the subject property and for
+whom access is a fundamental consideration.
+
+        Besides livestock, grain and timber, which have such substantial conflicts with the more
+highly developed rural residential lots to the east, the other possible agricultural uses for which
+the soils on the property are suitable include orchards and berries, which may result in lower
+impact and fewer conflicts with and complaints from residents of the subdivision.       However, as a
+practical matter, use of the property for orchards and berries is not viable due to certain factors.
+
+         First, there are several general limiting factors, including, topography which is highly
+erodible soil due to slopes, lack of water rights for commercial agricultural irrigation, the small
+tract size, the high level of management required for resource use, and the limited growing
+season due to early fall and late spring frosts, and even shorter pocket climates due to steep
+ridges and ravines.
+
+25 - Findings for Approval, PAZ-02-01
+,                                                                                         rik Ch rane 2285
+        Second, there are more specific factors. Applicant conferred with OSU Extension Service
+regarding the possibilities of commercial farm use on the property.’ Apples, prunes, cherries,
+chestnuts and berries require irrigation, but since this property has no water rights for irrigation
+    and the soils are marginal suitability for irrigation anyway, dryland farming is the most
+appropriate alternative. The slopes (north facing) are unsuitable for grapes. Hazelnuts require at
+least 100 acres due to specialized machinery for harvesting, mowing and spraying requirements.
+The remaining possible dryland uses include cherries, walnuts and peaches. However, there is no
+    market for walnuts and cherries. There are no processors for peaches, and, to the extent that
+there may exist a small specialty market for peaches, it would be difficult to access, and even if
+possible, as a practical matter peaches would not be feasible from an economic standpoint
+because of the time and expense of establishing an intensively managed producing peach
+orchard on such a small acreage, the substantial likelihood of a poor return on investment, and
+the uncertainties of a specialized agricultural commodities market. Therefore, there are no crops
+which might be grown on the subject property at small volumes which can be practicably
+    marketable in the County's agricultural stream of commerce.
+
+         Finally, it may be suggested that in order to show that a farm use is impracticable one
+must show that a person cannot. engage in any use, even one which is not an economic farm use,
+or in the words of the ORS 215.203 definition of "farm use", one "for the primary purpose of
+obtaining a profit in money."!” However, such an interpretation would be incorrect, because the
+practical effect would mean that the owner of the property could be forced to choose between
+engaging in economic farm use and foregoing the economic farm use and instead letting the land
+lay idle or using the land merely for a few horses, or other uses which are not an economic farm
+use, so as to reduce the impacts upon and therefore the conflicts with the rural residential uses in
+the surrounding area. This would be inconsistent with the statutory definition of "farm use"
+
+         16        Rob Krueger has researched through the OSU Extension Service the potential uses of the property
+which is the subject of the proposed exception, and determined that commercial resource use of the property is
+impracticable due to a number of factors, including but not limited to the small tract size, existence of a dwelling,
+topography which is highly erodible soil due to slopes, lack of water rights for commercial agricultural irrigation,
+the need to protect the creek, the high level of management required for resource use, the limited growing season
+due to early fall and late spring frosts, and even shorter pocket climates due to steep ridges and ravines. There is
+insufficient acreage available for commercial field crops (such as winter wheat and grass hay) and hazelnuts, and
+the other possible agricultural products typically grown on these soil types (apples, prunes, cherries, chestnuts,
+would require irrigation, making dryland farming the only alternative. The slopes (north facing) are unsuitable for
+grapes. The highly erodible soil and the dwelling and the creek running through the middle of the property make
+the land unsuitable for Christmas trees and livestock pasture. The remaining possible dryland uses include
+cherries, walnuts and peaches. However, there is no market for walnuts and cherries, and although there is a
+possible specialty market for peaches, accessing the market is speculative, and even if possible, the time and
+expense of establishing an intensively managed producing peach orchard on the small amount of acreage available
+for orchard, with the uncertainties of a specialized agricultural commodities market for peaches, one make a poor
+return on the investment and would not make a substantial contribution to the agricultural economy in the area.
+
+            "The statutory scheme suggests that there is a requirement that it be for the primary purpose of obtaining a
+profit.     See definitions in ORS 215..203(2)(a) (“current employment"), (b) "accepted farming practice") both of
+    which consider making a profit in money and economic farm use.
+
+26 - Findings for Approval, PAZ-02-01
+                                                                                                    FILS    TL     neg   2280
+
+which requires there to be a "primary purpose of obtaining a profit in money". It is more
+consistent with the statutory scheme and purpose of preservation of agricultural lands for farm
+uses which make a substantial contribution to the agricultural economy, to presuppose that the
+kind of resource use found to be "impracticable" to qualify for a "committed" exception, must be
+“an economic farm use". Therefore, it would be incorrect to deny a committed exception merely
+because the owner could let their land lie fallow so as to avoid the generating the kind of impacts
+on and which an economic farm use will have on surrounding residential uses.
+
+         2.11.2 Timber.
+
+        According to Rob Tracey at the US Department of Agriculture and Soil and Water
+Conservation District, the most appropriate resource use of the property is forest.’* The soils”
+are suitable for growing douglas fir, as well as certain hardwoods. There is at most about five
+acres of suitable area on Lots 90 and 92 available for establishment of a woodlot. Most of the
+available acreage is on Lot 90. Lot 93 has no available area due to the ateas occupied by the
+rural residential dwelling, barn, driveways, drainfield, and the need for firebreak setbacks from
+those structures. Likewise, Lot 92 has a very limited amount of available acreage due to the need
+for setbacks from the three structures and the area of the creek. Applicants representative
+conferred with James Letournea, a professional forester in Yamhill County, regarding the amount
+of income which might generally be expected to be generated on a typical five-acre tract with
+these type of soils, It is estimated that the 5 acre tract would net about $57,250 after 50 years,
+based on the following calculations. Such information, such soils typically produce about 40,000
+board feet per acre. So five acres would produce about 200,000 board feet, and at $250 per 1000
+B.F., the owner would net $50,000 at the end of 50 years when the trees would be mature
+(200,000 B.F x $250/B.F = $50,000). In addition to the $50,000 net after 50 years, the owner
+would also receive some "thinning returns" at 20-25 years, which would net another $5,000, and
+again about 10 years later would receive more thinning returns for another $5,000, so the total
+would be about $60,000 after 50 years. The cost of planting five acres would be about $2,500 (at
+$1+/tree x 400 trees per acre x 5 acres = $2,500) which assumes planting upon sodded area so
+no land clearing is required before planting and spraying). $60,000 less $2,500 = $57,250 after
+50 years. After that there would be additional capital outlay for reforestation.
+
+       The long term net profit of $57,250 from growing trees on a five acre tract over 50 years
+(computes out to be about $1,000 per year) cannot, as a practical matter, be considered a level of
+resource use which requires the protection of an AF-20 zoning or disqualifies it from being zoned
+
+         8 atthough the lots are most suitable for forest use, the lots cannot qualify for a forest template dwelling
+because they were not predominantly devoted to forest use on January 1, 1993, and were part of a tract which
+included a dwelling   on November 4, 1993.     See, YCZO 402.03(0).
+
+         Yamhill and J ory soils on the proposed exception area are suitable for growing timber. Lot 90 is
+predominantly Jory soils and the rest of Lot 90 and all of Lot 91 are Yamhill soils. Yamhiil soils are capable of
+producing 125 cubic feet per acre per year of wood fiber from commercial tree species, and Jory soils155 cubic feet
+per acre per year.
+
+27 - Findings for Approval, PAZ-02-01
+                                                                                          FILE   rt     ne    028   1
+
+AF-10,    Indeed, such a level of resource use is, much like raising a small number of livestock,
+indicative of the type of small resource use which is more appropriate in the AF-10 small
+resource use zone. Although this level of long term investment in a five acre forest can provide
+supplemental income, it cannot provide a sufficient level of annual income for the tract to be
+considered more than a small-scale resource use. Stated another way, it must take more than the
+potential of growing timber on a 5-acre tract of timber to require as a matter of law protection
+under an Agriculture Forestry Large Holding plan designation. Otherwise, DLCD could not have
+acknowledged any of the forested five acre lots in Code Area 5.11 since the soils information
+indicates that the soils in Code Area 5.11 are suitable for timber, and the lots in the exception
+area are currently in forest use.
+
+         Although there is no specific size above which a tract will be considered too large to be
+considered ineligible for an exception for a rural residential dwelling, the state statutes adopted in
+1993, governing lot of record and forest template dwellings, does provide some guidance. In
+ORS 215.720(1)(a) the legislature changed the law to allow lot of record dwellings to be
+established on land zoned for forest use. One of the methods allows placement of a dwelling if
+the parcel is not capable of producing 5,000 cubic feet per year of commercial tree species wood
+fiber. It appears that the legislature did not believe that parcels that produce less than 5,000 cubic
+feet of timber yearly would be considered to substantially contribute to the timber industry.
+Because the most the proposed exception can produce is well below the 5,000 cubic feet of
+timber yearly” which is considered to substantially contribute to the timber industry, the County
+finds that the parcels in the area would not substantially contribute to the timber industry in the
+area.
+
+        Finally, as explained above, additional dwellings can generate complaints against the
+sight and sounds generated by accepted forest practices, and lead to nuisance complaints against
+such activities as clear cutting and log hauling from neighboring properties. Although the most
+appropriate use of the property is for growing commercial tree species, for managed timber
+operations, the increase in development means that complaints are more likely to be made against
+various forest practices, such as reforestation, road construction and maintenance, harvesting,
+application of chemicals, and disposal of slash, resulting in noise, aerial spraying, slash burning,
+and use of large equipment to clear, cut and buck, and haul harvested timber. Applicant's
+representative discussed the effect of houses on forest operations with Jim Letournea, a
+professional forester in Yamhill County. Forest operations are experiencing frequent complaints
+from neighbors against the noises and impacts of accepted forest practices, such as clear-cutting.
+
+        Applicants believe that accepted forest practices should not be hampered by such
+complaints, and in order to provide assurance that no nuisance claims will be made by the owner
+or occupant of the subject lots, will agree, as a condition to the approval of an exception, to
+
+         20 at most, five acres would produce about 750 cubic feet per year of commercial wood species (5 acres x
+150 cubic feet/acre/year = 750 cubic feet/ year).
+
+28 - Findings for Approval, PAZ-02-01
+                                                                                              PaL#    Th     ACE 2288
+
+voluntarily sign an affidavit”! under which the owner and occupants would recognize the right of
+surrounding properties to engage in accepted forest practices under acknowledging a declaratory
+statement to be recorded in the deed and mortgage records recognizing that accepted forest
+practices may create inconveniences and that it is not the timber operator's responsibility to
+modify such practices to accommodate the owner of occupant of the property with the exception
+of operator's violation of state law, including the state Forest Practices Act.
+
+         2.12     Rural vs. Urban Lot Sizes:
+
+        The proposed exception area is part of the Hillcrest Walnut Plantings subdivision platted
+in 1909, which created parcels of 5-15 acres, with the majority 5 acres in size. If this application
+is approved, it would allow one dwelling on each of the two vacant five acre lots (Lots 3900 and
+4000). This pattern is similar to that allowed immediately to the west and northwest, which is
+Code Area 5.11 exception land where the remainder of the Hillcrest Walnut Plantings
+subdivision is located.     In the AF-10 district, YCZO         501.06 authorizes establishment of a
+principal dwelling as a permitted use on a pre-existing lot of record, so each of the vacant 5- acre
+lots would qualify for a rural residential dwelling.” The AF-10 zoning that allows this parcel
+size has been adopted for Code Area 5.11 which contains mostly five acre parcels and is located
+immediately to the east of the proposed exception area and has been acknowledged by the Land
+Conservation and Development Commission as being rural rather than urban. Therefore, the
+County finds that allowing one dwelling per five acres is a rural, not an urban, scale of use.
+
+        2.13. . Conclusions.
+
+         During the hearing before the Planning Commission, there was the suggestion that the
+County should not allow the exception because the boundary line of existing exception area Code
+Area 5.11 should not be altered because "one must draw a line somewhere" and that line was
+drawn in 1980 and must not be changed. The Board finds that to the extent that Code Area 5.11
+boundary line immediately to the east of the subject property would be changed to include the
+three parcels which are the subject of this application, such a change is appropriate because it
+satisfies the requirements for a developed and committed exception for the reasons set forth in
+Findings B., D.1. and D.2.
+
+          2 The affidavit would be similar to the form affidavit required under YCZO 403.08(E), acknowledging a
+declaratory statement to be recorded in the deed and mortgage records to recognize that accepted agricultural
+operations may create inconveniences and that it is not the agricultural operator's responsibility to modify such
+practices to accommodate the owner of occupant of the property with the exception of operator's violation of state
+law.
+
+         22 The AF-10 zone allows creation of new lots at least 10 acres in size. The lots in this case are not new
+lots because they were created in 1909 and are recognized as pre-existing legal lots of record. See, YCZO 501.06
+B.1 and B.2.
+
+29 - Findings for Approval, PAZ-02-01
+                                                                                FILK   74.   ce    C289
+
+        More specifically, the Board is persuaded that the exception to allow the zoning to be
+changed to AF-10 is appropriate in light of the striking similarities between these parcels and the
+adjacent exception area along Hillview Drive which runs through the heart of the old 1909, 600+
+acre Hillcrest Walnut Planting subdivision which comprises Code Area 5.11, consisting of rows
+of 5 acre parcels with rural residential dwellings, and which terminates at the 3 subject parcels,
+two vacant and one with a residence. Given the same characteristics in terms of location, parcel
+size, development pattern, topography, mixture of trees and open space with no farming activity,
+the two vacant parcels, tax lots 4000 and 3900,   are "sandwiched" between the house on tax lot
+3800 and the adjacent houses in the exception‘area. on the south side of the Hillview Drive.
+Hillview Drive is a the main, indeed the only access road through this part of the subdivision cul-
+de-sac, with houses all clustered along the road inside the exception area, and clustered around
+Hillview Drive outside the exception area are five more rural residential dwellings, 3 on 5 acre
+parcels and 2 on 15 acre parcels, which were all part of the old 1909 subdivision and which are
+all served by the same subdivision road cul-de-sac
+
+         The Board finds that it is time to recognize that it is impractical to put these 3-Sacre
+parcels to resource use and change zoning from AF-20 to Rural Residential AF-10 because,
+either it was an oversight in 1980 to exclude these parcels from Code Area 5.11, or changes have
+occurred since 1980 which justify bringing them into the exception area now. In other words, as
+explained in the previous findings, either the parcels should have been included in the adjacent
+600 acre AF-10 exception area in 1980 or, in the alternative, the amount of development on the
+adjacent AF-10 land and the changes in agricultural economics which have occurred since 1980
+have made it impractical to make any economic farm or forest uses on the parcels without the
+farm and forest practices generating conflicts with the adjacent rural residential area.
+
+        The Board is persuaded that the similarities between the three parcels and the existing
+exception area outweigh any differences in characteristics. As explained in the Area History (see
+findings 10.2, which explains what code area 5.11 is, how it was created, and why it was
+approved), the 600 acre exception area had 74 parcels, predominantly 5 acres in size, with 32
+dwellings. The boundary lines of Code Area 5.11 were not based on a parcel by parcel analysis
+but instead reflected areas which exhibited similar soils, steep slopes with 200-700 ft. elevation,
+limited growing season in pocket climates. The three parcels have all of these same
+characteristics. The adoption of Code Area 5.11 recognized that an overall need exists for rural
+residential dwelling opportunities, that parcels under 20 acres in these situations which are not
+allowed to be used for a dwelling present a hardship for their owners because of the limited
+options in the market place based on lack of: (1) productivity given high level of management
+for return as parcel size decreases and in terms of ratio of return to outlay cash/labor,; and (2)
+practical marketability with uncertain returns. The Board finds that had owners of these parcels
+so requested to be included in the Code Area 5.11 in 1980, there would have been sufficient basis
+for allowing their inclusion in the Code Area 5.11 in 1980.
+
+        In the alternative, even if one finds that there was insufficient evidence in 1980 to include
+these parcels in the exception area, the Board finds that since 1980, changes occurring inside
+
+30 - Findings for Approval, PAZ-02-01
+                                                                                  re (4 vr2290
+existing exception area have resulted in a situation in which an exception and zone change is
+justified. (see findings 10.4) The Board is mindful that in 1992 these parcels were part of Study
+Area 65, which was a proposed by the planning staff to be an exception area consisting of 10
+parcels immediately west of Code Area 5,11, and which was ultimately not approved by the
+Board as an exception area in 1992. The history of Study Area 5.11 suggests that it was not
+included as an exception area because of a lack of support from the owners of the property,
+which was at least in part due to the fact that the majority of the parcels already had dwellings
+and that the owners were concerned that rezoning of their property would cause them to lose
+their forest or farm tax deferral.
+
+        The Board is further persuaded that conflicts with economic farm uses make farm use
+impracticable. Thus, even if it was not an oversight to have excluded these parcels from the
+exception area back in 1980, the level of development in code area 5.11 since 1980 provides
+compelling reason to add these three parcels now. This includes the threefold increases in
+population and traffic which generate actual and imminent conflicts with economic farm and
+forest uses make farm use impracticable.   The impact of the higher level of development in the
+adjacent exception area (Code Area 5.11) on Hillview Drive, resulting in a three-fold increase in
+population and traffic since 1980, has made it impractical to use the subject property at the
+western end of the cul-de-sac for a variety of accepted farm practices and forest operations.
+Applicants have conducted an exhaustive due diligence study of the possible resource uses and
+the impact of accepted farm and forest operations. The Board is persuaded that the few
+economic farm or forest uses are impractical. Christmas tree farming, which will produce
+marginal economic returns, requires aerial spraying, harvesting, hauling, and that traffic and
+noise from a Christmas tree farm immediately to the south has generated complaints from
+neighbors, making the potential conflicts from Christmas tree farming imminent and render the
+use impractical. The Board observes that other farm uses (e.g. dairy farms, mushroom farms, and
+grain and livestock operations) generate smoke, dust, odors, use aerial spraying viewed as
+noxious and hazardous, require use of the road to bring in large equipment, and operate at night,
+all accepted agricultural practices which also will result in potential and imminent conflicts
+which would render those uses impractical. Likewise, the use of the property for woodlot, using
+typical timber management practices, is impractical. About three to five acres of the property
+is suitable for commercial timber species timber, which would produce a modest but very long
+term payoff of about $57,000 over 50 years. A neighboring woodlot owner, John Altree would be
+interested in combining his forest tracts, but not with these parcels because they are two wet.
+However, even if these parcels were used for small tract woodlot, the increase in development
+within the adjacent Code Area 5.11 means that complaints ate more likely to be made against the
+forest practices associated with such use, including reforestation, road construction and
+maintenance, harvesting, application of chemicals, and disposal of slash, resulting in noise, aerial
+spraying, slash burning, and use of large equipment to clear, cut and buck, and haul harvested
+timber. The Board is persuaded that such complaints would be imminent because the neighbor,
+John Altree, reported that there were numerous complaints from residents along Hillview Drive
+when two small tract woodlots adjacent to his property were clear cut in recent years.
+
+31 - Findings for Approval, PAZ-02-01
+                                                                                     cILK   wel    PACE 2251
+
+         The Board finds that, as a practical matter, there are no other economic farm use which
+could be employed on the property to avoid the impact upon and conflicts with the higher level
+of development on adjacent lands. The applicant's due diligence study of resource uses showed
+that orchards and berries are not economically viable because it is unrealistic to expect to make
+much if any profit on such crops. The economic feasibility of one specialty crop, peaches, was
+researched by the applicant, Rob Krueger, and found not to be feasible due to risk in markets and
+uncertain returns. Mr. Krueger approached three banks which typically make farm loans, and
+none of them would extend credit to him for any farm use, including peaches because of the low
+ value of the security (small parcels), and uncertain returns.
+
+         The Board finds that the characteristics of the surrounding area and uses and their
+relationship with the proposed exception area renders the farm/forest uses on the proposed
+exception area impracticable. Hillview Drive has been converted from a “cowpath" to a well
+maintained graveled 1.5 lane road, maintained by the local road association. farm and forest
+activities will conflict more with the three- fold increase in vehicles on road.
+
+         The Board is also mindful that the subject parcels have never received farm or forest tax
+ deferral treatment, there have been no objections from any neighbor, and indeed, the road
+ association favors approval of the application, and both John Altree and Sam Hawkins, President
+ of the association, who favored approval of the application, stated that no other property of this
+ size along Hillview Drive is making any income from farming.
+
+         The Board finds that inclusion of the three parcels will not set a bad precedent or domino
+ effect. The requested change is the minimum change necessary, and approval will not be a basis
+ for bringing any other property into the exception area. The reasons for approving the exception
+_on these parcels are fact specific to these parcels.   Any other parcels which may apply for
+ inclusion in the future would be required to be justified on its own merits, based on the specific
+ circumstances relative to such parcels.
+
+Finally, the Board finds that the application is based on historical fact and not any notions of
+ equity or expectations of the applicants.   Applicants did not make any equity argument in this
+ case. The characteristics and changes in the area and the imminent conflicts all exist regardless
+ of who owns the parcels or when they were purchased. The lots are freely transferrable.
+
+         3.      Response to DLCD Comments
+
+        DLCD has written a letter commenting on the original application filed in this matter.
+ DLCD expressed concerns that there was no explanation of changes which had occurred since
+ 1080 when the existing exception area was adopted. This revised application discusses such
+ changes at Findings A.10. and C.2, which have resulted in a three fold increase in dwellings and
+ traffic on Hillview Drive, which is a cul-de-sac around which all of the affected dwellings are
+ clustered.
+
+         In its comment, DLCD also expressed the view that the adoption of the Code Area 5.11
+
+ 32 - Findings for Approval, PAZ-02-01
+                                                                                                ay      Ch      er 2292
+in1980 was a decision that the lots were not irrevocably committed.                   However, for the reasons
+discussed in A.10., and D.2.3 and D.2.4, our research reveals that it is not entirely clear why the
+subject property was excluded, and, indeed, it is more likely that it was a mistake or oversight™ ,
+the unintended consequences of which have now created a situation in which conflicts with
+residential uses within the exception area due to impacts from farm and forest practices on the
+subject property are imminent.
+
+         Although the May 7, 2001 letter from Michael Rupp of DLCD found shortcomings in
+initial application, and Applicant revised the application to address all of the points raised in the
+DLCD letter, DLCD did not submit additional written comments following applicant's submittal
+of its May 21, 2001 Revised Application. Applicant's attorney testified that he called Michael
+Rupp of DLCD who acknowledged there was more information to support the application and
+said DLCD would probably not submit another letter, but would probably leave this decision up
+to local decision makers.
+
+         It is very possible that a mistake or oversight was due to the fact that none of the Code Areas involved a
+parcel by parcel analysis, but rather the analysis was based on a broad overview of parcelization and development
+patterns in large blocks of land. In other words, the adoption of the original code area was far from an exact
+science, and too much should not be attributed to the precise location of a parcel or lot on one side of a line or the
+other. Moreover, given the similarities with the other parcels in Code Area 5.11, it is self evident that the subject
+property could have been included in the exception area if the County had been requested to do so.       Nevertheless,     i
+
+even if a mistake were not made in 1980, the occurrence of changes since 1980 provide adequate basis for taking a
+committed and exception over 20 years later.
+
+         Based on these fundamental similarities in relevant characteristics, it would have been more logical to have
+included these three 5-acre parcels within the Code Area 5.11 exception area than to have grouped them with the
+larger AF-20 zoned parcels.    However, in creation of the Code Area 5.11, which included about 600 total acres, the
+County must have necessarily drawn the Code Area 5.11 boundary lines between the exception area (AF-10) zone
+and Exclusive Farm Use (AF-20) areas with a broad brush, and as such, the exception area boundary lines are only a
+general approximation of a large number or blocks of parcels with common characteristics, i.e., instead of
+considering each individual patcel, and the boundary lines are generally straight lines which reflect only a general
+differentiation between large blocks of exception lands and exclusive farm use lands. Seen in this light, it would
+appear that the western boundary of Code Area 5.11 was drawn so that the majority of the boundary line would
+border the larger parcels of 15 or more acres in size, and this resulted in the exclusion of a handful of smaller 5-acre
+lots at the western fringe of the subdivision, such as Lots 90, 91 and 92, from Code Area 5.11. Thus, rather than
+being designated AFSH and AF-10, these three 5-acre parcels were lumped in with a group of the larger parcels to
+be designated AFLH and AF-20 designation. Viewed on a macro level, this is not to suggest that there was
+anything wrong with the general AFLH and AF-20 designation as far as it went, where there was no specific
+evidence that Lots 90, 91, and 92 should be more appropriately included in Area Code 5.11, rather than being
+included with a group of larger parcels primarily 15-20 acres in size. But viewed today on a micro level, the
+inclusion of these three 5-acre lots within the AFLH and AF-20 designation appears to be incongruous with the
+more detailed evidence demonstrating that these three lots more appropriately belong with the group of 5-acre
+parcels within Code Area 5.11 which they most resemble. The subject parcels are an integral part of Code Area
+5.11 and are also committed to nonresource rural residential use for the same reasons that Code Area 5.11 was
+acknowledged to be so committed.
+
+33 - Findings for Approval, PAZ-02-01
+,                                                                                     pur TL ee 22993
+            Finally, DLCD's comment points to the applicants’ acquisition of the property in spite of
+    the zoning restrictions.    However, under ORS 92.017,     these legal lots of record created in 1909
+    are lawfully created lots which remain discrete lots and, as such, are freely transferable, and
+    applicants acquired them believing the lots would be better suited for rural residential and small
+    scale resource use, than for agriculture/forest large holding,    As purchasers, applicants are proper
+    patties to file this application.   Moreover, facts are facts, and the facts which justify an
+    exception to be taken exist regardless of who files an application.
+
+            4.       OAR 660-0012-0060 (Transportation Planning Rule)
+
+            OAR 660-0012-0060(1) provides that amendments to functional plans, acknowledged
+    comprehensive plans, and land use regulations which significantly affect a transportation facility
+    shall assure that allowed land uses are consistent with the identified function, capacity, and
+    performance standards (e.g. level of service, volume to capacity ratio, etc.) of the facility.
+
+            The impact of two new residential dwellings upon the roads is addressed in a
+    memorandum from William Gille, Yamhill County Director of Public Works, dated May 14,
+    2001, in which he indicates that two additional homes might generate about 19 additional trips
+    per day, and that will not cause capacity or level of service related problems on Walnut Hill and
+    Starr Quarry Roads, or Hillview Drive. The County finds that the proposed use will be
+    consistent with current traffic levels and will not significantly affect a transportation facility, and
+    therefore satisfies OAR 660-0012-0060(1).
+
+            5.       Ordinance Provisions and Analysis
+
+            5.1.     YCZO      section 1204 (Exceptions to Statewide Goals)
+
+            YCZO Section states that exceptions to statewide goals are subject only to the
+    requirements of the Oregon Administrative Rules discussed above. Therefore, the Plan
+    Amendment portion of this request is not subject to local review criteria.
+
+            5.2.     YCZO section 1208.02 (Quasi-Judicial Zone Changes)
+
+            The proposed plan amendment and zone change is intended to add 15 acres to an existing
+    exception area, Code Area 5.11, which is 600 acres in size. The reasons for the plan amendment
+    and zone change are explained in the justification for a developed and committed exception. See
+    Findings A.10, B and D.
+
+            The need to add this property to the exception area was the result of a mistake or an
+    oversight in 1980 when the existing exception area was adopted. The three lots could have been
+    included in the original boundaries of Code Area 5.11 if the County had chosen to consider the
+    properties on the western boundary on a parcel by parcel basis. Although a parcel by parcel
+    consideration is not required under OAR 660-04-028(5), nothing prevents such a parcel by parcel
+    analysis being used to fine tune the boundaries of an existing exception area. The original
+
+    34 - Findings for Approval, PAZ-02-01
+                                                                                 run UL ce22d4
+exception area and its AFSH/AF-10 planning and zoning has been acknowledged to be in
+compliance with the goals and there is no requirement that the County reevaluate the need for the
+AF-10 zoning which is fulfilled by Area Code 5.11. The County finds that a minor amendment
+to Area Code 5.11 satisfies the same need that Area Code 5.11 fulfills because the addition of
+three 5-acre lots to the 600 acre exception area constitutes a will only expand the exception area
+by 2.5 %. Therefore, as a general matter, this limited addition to the exception area constitutes a
+minor amendment which is consistent with the justification for larger exception area and
+therefore satisfies the zone change requirements for the same reasons that adoption of the Code
+Area 5.11 satisfied those requirements.
+
+        Tn the alternative, changes have occurred in the surrounding area since 1980 which have
+rendered farm and forest use of the property impracticable, and, for the same reasons which
+justify a committed exception, the County finds that YCZO       1208.02 is satisfied. See Findings B
+and D,
+
+                §.2.1.   Y¥YCZO section 1208.02(A)
+
+        The County finds that the proposed change is consistent with the goals, policies and any
+other applicable provisions of the Comprehensive Plan as required by YCZO 1208.02(A) for the
+following reasons.
+
+        Policy L.B.1.c.: All proposed rural area development and facilities: ...(2) Shall not be
+        located in any natural hazard area, such as a floodplain or area of geologic hazard,
+        steep slope, severe drainage problems or soil limitations for building or sub-surface
+        sewage disposal, if relevant;
+
+     The property is not within the 100 year floodplain, as shown on FIRM 410249 0320 C.
+There are some slopes but there appears to be adequate area for construction of residences on
+each existing parcel. The sanitarian stated that no applications for septic systems have been
+made but also mentioned that the soils are generally good for septic systems.
+
+        Policy LB.1.d.: Ne proposed rural area development shall require or substantially
+        influence the extension of costly services and facilities normally associated with urban
+        centers, such as municipal water supply and sanitary sewerage or power, gas and
+        telephone services, nor shail it impose inordinate additional net costs on mobile,
+        centralized public services, such as police and fire protection, school busing or refuse
+        collection.
+
+   The proposed zone change would not require the extension of utilities or services to the area.
+Water and sewer would need to be provided by on-site systems.         Other services such as
+electricity, telephone, sheriff and fire protection already serve the existing residents in the area.
+
+        Policy 1.B.2.a.: Yamhill County will continue to recognize that the appropriate location
+        of very low density residential development is in designated large areas where
+
+35 - Findings for Approval, PAZ-02-01
+                                                                                 FILK   714   rch 0290
+
+       commitments to such uses have already been made through existing subdivision,
+       partitioning, or development and by virtue of close proximity to existing urban centers;
+       or in small, limited areas having unique scenic, locational and other suitable site
+       qualities where the anticipated magnitude or density of development is not such as to
+       require more than a very basic level of services, such as single local-road access,
+       individual domestic wells and sewage-disposal systems, and possible rural fire
+       protection.
+
+     The Hillcrest Walnut Plantings subdivision was platted December 6, 1909 and covers more
+than one half square mile. The subdivision itself does not commit the area to residential use.
+However, nearly all of this subdivision was excepted from Goal 3 in Exceptions Statement II
+(ESI) which was adopted by the Board of Commissioners April 23, 1980.          The subject property
+is part of the subdivision but was excluded from this rezoning, along with approximately 65 acres
+bordering to the north and west. The reasons for this exclusion are not entirely clear. At first
+glance it appears that the decision makers excluded all the 15 acre lots at the western end of this
+subdivision but that is not true since one 15 acre lot was included (Lot 55) in HSIE    The property
+is not near any urban centers. It is adjacent to a large area to the east which is committed to rural
+residential development. If approved, the magnitude of development would be two additional
+home sites. These, along with the existing residents in the area would not require more than a
+very basic level of services such as single local access roads and individual septic/water systems.
+
+       The Comprehensive Plan contains the following relevant policies:
+
+       SECTION I. THE LAND AND WATER
+       A. AGRICULTURAL LANDS
+       POLICIES
+
+       a. Yamhill County will continue to preserve those areas for farm use which exhibit Class
+       I through IV soils as identified in the Capability Classification System of the U.S. Soil
+       Conservation Service.
+
+       Il, FOREST LANDS
+       GOAL STATEMENT
+
+       1. To conserve and to manage efficiently the county's forest and range resources, thereby
+       ensuring a sustained yield of forest products, adequate grazing areas for domestic
+       livestock, habitat for fish and wildlife, protection of forest soils and watershed, and
+       preservation of recreational opportunities. (98)
+       POLICIES
+
+       e. Yamhill County recognizes that areas of the county are characterized by such a
+       mixture of farm and forest use that the agricultural lands and forest lands goals of this
+       Plan are both applicable. Farm and forest resources within these areas shall be
+       protected through mixed-use zoning that recognizes both types of use. Any proposal to
+
+36 - Findings for Approval, PAZ-02-01
+                                                                                   FILA   74   PACE 2296
+
+        change the zoning designation of a parcel from a farm or forest classification to a mixed-
+        use Zone shall include a demonstration that the use of the parcel is such a mixture that
+        neither the farm nor forest land goals can be exclusively applied. (565)
+
+        The county finds that the foregoing policies are not independent approval standards, but
+rather aspirational and are satisfied through approval of a reasons exception and a limited use
+overlay zone. That these are not independent approval criteria is evident from 1 the County's
+comprehensive plan which states:
+
+                 * * * Goals are general directives or achievements toward which the County
+        wishes to go in the future. Policies are more specific statements of action to move the
+        County toward attainment of the goals. These policies are used in daily decision-making
+        or in the development of ordinances by the County.
+
+                Implementation of the County goals and policies can occur several ways. Many
+        are implemented through county ordinance. Other goals and policies will apply to
+        individual issues or proposals put forth by both private and public sectors. Still others
+        will require action dependent upon the County's fiscal resources through time.
+
+                 Where certain goals and policies conflict with others, the final decision will
+        require a weighing of the merits in order to achieve a balanced decision. Through time,
+        the goals and policies are guides for consistent, reasonable and balanced land use
+        decisions. (See, Revised Comprehensive Plan, page 2.)
+
+        Second, the County finds that these YCCP provisions are implemented through the
+zoning ordinance, viz. YCZO 1208.02(E) which requires application of the OAR's where
+applicable, and that the OAR's (Goal 3 and 4 rules) address the same policy of preserving
+agriculture, and therefore, the YCCP provisions are not approval criteria but are implemented
+through the zoning ordinance and the OAR's.                         ‘
+
+        Third, the County can also find that even if any of its Agricultural and Forest
+Comprehensive Plan Goals and Policies were to be considered an independent approval standard,
+and even if these policies were not shown to be implemented through the zoning ordinance, it
+would nevertheless not apply in this case because Goal 3 and 4 exceptions are taken. YCZO
+Section 1204 provides that exceptions are subject only to the OARs and not subject to local
+review criteria and may be taken using the Type C procedure under YCZO seciton1301. Policy
+ILA.2.a. is intended to carry out goal 3 and 4. The taking of a goal 3 and 4 exception
+demonstrates compliance with the goals and therefore compliance with such a plan policy
+intended to carry out Goal 3 and 4. This interpretation is consistent with past practices insofar as
+the county has other areas of Class I through IV soils and mixed farm and forest lands for which
+exceptions have been taken and acknowledged by LCDC to be in compliance with the goals.
+Therefore, the County finds that it is reasonable to interpret this policy to authorize use of such
+lands where an exception is taken.
+
+37 - Findings for Approval, PAZ-02-01
+                                                                                     rin C4 nsce2297
+                5.2.2   YCZO section 1208.02(B)
+
+         The County finds that there is an existing, demonstrable need for the particular uses
+allowed by the requested zone, considering the importance of such uses to the citizenry or the
+economy of the area, the existing market demand which such uses will satisfy, and the
+availability and location of other lands so zoned and their suitability for the uses allowed by the
+zone, as required by YCZO     1208.02(B), for the following reasons.
+
+       First, the demonstrable need requirement is satisfied by a finding that the subject area is
+"developed" and "irrevocably committed" to rural residential use. See, Findings B and D.
+
+        Second, the subject parcels fulfill a need for rural residential uses which have adequate
+fire protection, will not generate inordinate service demands have single local road access,
+individual domestic wells and sewage disposal systems. The area has agricultural limitations due
+to topography and climate, and as part of an existing subdivision which is already within an
+exception area, and will fit well with the existing development pattern in the exception area. In
+this case, the subject area has a high amenity value for rural residential use, and is an area where
+such needs can be accomplished without compromising basic County goals of urban containment
+and orderly urban development.
+
+                5.2.3   YCZO section 1208.02(C)
+
+        The County finds that the requirements of YCZO 1208.02(C) are satisfied. The proposed
+change is appropriate considering the surrounding land uses, the density and pattern of
+development in the area, any changes which may have occurred in the vicinity to support the
+proposed amendment and the availability of utilities and services likely to be needed by the
+anticipated uses in the proposed district. The surrounding uses include the exception area to the
+west and the larger parcels in the AF-20 zone to the east. The fact that the parcels more closely
+resemble the exception lands than the AF-20 lands is discussed in Findings D.2 The use of this
+15 acre area for one existing and two additional 5-acre rural residential home sites is consistent
+with the changes which have occurred in the surrounding area. A.10, B.2.
+
+        The principal reason Kruegers purchased Lot 90 (Tax Lot 4000) in 2000 was to establish
+a homestead for their family which will fulfill their vision which is to design and implement an
+ecologically sound, cooperative, self-reliant and sustainable homestead that will be used as a
+practicum for future consultation with other small parcel owners in our community. The
+Kruegers plan to undertake a two to three-year process of design and implementation which is
+required to get their system going. Initially this would involve a detailed design of the property,
+followed by natural house construction, alternative energy system design and implementation,
+intensive garden design and implementation, water system design and implementation, forest
+species plantings, and design of wildlife areas. Once the system has been initiated, in
+approximately three years, they plan to start a non-profit organization focused on design
+consultation targeting people owning small properties in our community. Thus, making the best
+use of the property for activities which are compatible with the surrounding uses will avoid the
+
+38 - Findings for Approval, PAZ-02-01
+                                                                                           FILA   74   PACE 2258
+
+type of conflicts which have rendered the intense types of agricultural and forestry practices
+impractical.
+
+        No sewer or water services will be required because there is an on-site well and there will
+be a subsurface sewage disposal system installed. The property is currently served with electrical
+power by PGE, and within the Amity Fire District. Adequate roads are available to the property.
+See, Findings D.4. Adequate bus service is available to the property. Regarding criterion (C), the
+proposed change needs to be shown to be appropriate considering the surrounding land uses, the
+density and pattern of development in the area, any changes which may have occurred in the
+vicinity to support the proposed amendment and the availability of utilities and services likely to
+be needed by the anticipated uses in the proposed district. Surrounding land uses to the east are
+small residential lots. Somewhat larger residential lots exist to the north and west. Property to
+the south has some Christmas trees as farm use. The applicant points out that the property to the
+east was part of code area 5.11 in Exceptions Statement I. The application explains in detail
+why the subject parcel and use is very similar to that found in this exception area. Why the
+subject parcel and possibly some of the neighboring area to the north was not included in
+Exceptions Statement II is not clear. Staff agrees that the subject property and use is
+substantially the same as the neighboring rural residential property. In 1992 this area was again
+evaluated as part of study area 65. The purpose of that study was to determine if there was
+enough development prior to the Statewide Planning Goals (SPG) to justify certain areas as being
+built and committed to rural residential use. In the case of area 65 there were only a few lots
+developed prior to SPG and the response from residents of the area was not favorable to
+rezoning. Therefore, staff recommended against the entire area 65 being rezoned. Rezoning a
+portion of area 65 (which is essentially the applicant’s request) was not evaluated.
+
+       The main change which has occurred in the area is the development of the subdivision to
+the east. While this does not absolutely prevent the use of the subject propety for some type of
+farm use it does make it more difficult. The location of the property is near the end of an
+approximately 2 mile dead end gravel road. While this road has served the adjacent rural
+residents for a number of years, it appears to be less suited to serve commercial farm and forestry
+operations.
+
+     Regarding the availability of utilities and services in the area, the lots in the surrounding
+area have on-site systems for sewer and water hook-ups. Other services such as electricity,
+telephone, sheriff and fire protection already serve the existing residents in the area.
+
+                5.2.4   YCZO section 1208.02(D)
+
+         The County finds that other lands in the County already designated for the proposed uses
+are either unavailable or not as well-suited for the anticipated uses due to location, size or other
+factors as required by YCZO 1208.02(D).
+
+39 - Findings for Approval, PAZ-02-01
+yo
+
+                                                                                         FILK   T   sce   2299
+
+             As explained above, the original exception area and its AFSH/AF-10 planning and zoning
+     has been acknowledged to be in compliance with the goals and there is no requirement that the
+     County reevaluate the need for the AF-10 zoning which is fulfilled by Area Code 5.11.
+     Moreover, the original Code Area 5.11 could have included these parcels if there had been a
+     parcel by parcel analysis. The County finds that a minor amendment to Area Code 5.11 is
+     consistent with the justification for the original larger exception area and therefore addition of
+     three 5-acre lots satisfies this zone change requirement for the same reasons that adoption of the
+     Code Area 5.11 satisfied the requirements. The applicant has shown that other lands in the
+     county already designated for the proposed uses are either unavailable or not as well-suited for
+     the anticipated uses due to location, size, or other factors, as required by YCZO     1202.08(D). The
+     applicant states there are only four other vacant parcels in the AF-10 zone along Hillview Drive.
+     It is not known whether these lots are presently in the works for being developed or if they are
+     still available. Additionally, as indicated in the study from June of 1999, 36 parcels were
+     available and 28 could potentially be created.
+
+                     5.2.5   YCZO section 1208.02(E)
+
+            The County finds that the application satisfies YCZO section 1208.02(E) requirement that
+     the amendment is consistent with the OAR's for exceptions, if applicable. The OAR
+     requirements are addressed above.
+
+             Goal 14 is not applicable and no Goal 14 exception is required because the proposed use
+     will not require extension of urban services (sewer or water), and extension of such services will
+     be prohibited under the LUO conditions unless a Goal 14 exception is taken. Furthermore, the 5
+     acre minimum lot size will be considered a rural, not an urban, use under the Goal 14 rules.
+
+     E       Conclusion.
+
+            For the foregoing reasons, the County approves the application by Robert and Cheryl
+     Krueger and John P. Macy, for a plan amendment and zone change from AFLH/AF-20 to
+     AFSH/AF-10 and an exception to Statewide Land Use Planning Goals 3 and 4 for Tax Lots
+     5414-3800, 3900 and 4000.
+
+     40 - Findings for Approval, PAZ-02-01
+‘POCKETNO:            PAZ-O2-O1l                               ium TH 2300
+APPLICANT:          Reber and Cheryl                     Krucaer-
+TAX LOT NO: 5414-3800, 3900 and 4000
+                     Exhibit "BM...
+
+                                                                    sae              B           sate
+                                                                                     Fi
+                                                                                ne          9
+                                                                                0)        ) 9
+                                                                                UG
+
+                                                                       57                           58
+                                                               =                     +
+                                                                   4406                         4403
+                                                                   4Q5Ae.                 LT     4,554
+
+                                                                                if
+                                                                                Q
+
+                                      89                 88            87                              ad
+                                  a        A            AAP         a                           ccraia|
+                                                                      OZ.   4
+                                               NW.   CORNER,
+
+      SM   Corner                          Epriowen/Y              P4905 | 4404
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.9% of
+the word sequence, and on 85.8% of the figures. Dictionary-recognizable words: 95.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

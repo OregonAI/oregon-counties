@@ -1,0 +1,375 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord576-pdf
+title: 'ORD576-PDF'
+doc_type: ordinance
+citation: 'ORD576-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17600/ORD576-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 1454c95d52d345cd8493f96d2f6dd84719bdb124ef7113952ad52c728f568c8c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.951; figure agreement 0.913; dictionary ratio 0.940. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD576-PDF (ORD576-PDF)
+
+## At a glance
+
+OCR-derived text of ORD576-PDF. Not human-verified.
+
+## Full text
+
+.                                                              \.
+            GL-57F                               FOR THE COUNTY OF YAMHILL                                                          ~
+                    SITTING                FOR     THE       TRANSACTION                          OF COUNTY           BUSINESS
+
+In the Matter of an Ordinance
+Amending the Yamhill County
+Comprehensive Plan Map and
+
+                                                                                           ee
+Zoning Map,  to Change, on a
+2.25 Acre Portion of Tax Lot
+
+                                                                                 ee
+2322-3000               the     Plan        Map
+
+                                                                                     ee ee
+Designation                   From        "Public"                                                     ORDINANCE         576
+to     "Very        Low        Density            Residential"
+and    the         Zone        Map     Designation
+from        "PAI        Public         Assembly/
+
+                                                                                  ee
+Institutional"  to "VLDR-5 Very                                           Low
+Density Residential";   Docket
+PAZ-2-94;               Applicant                Laurie        Totten;
+and    Declaring                an        Emergency.
+
+         THE        BOARD            OF      COMMISSIONERS                      OF               YAMHILL         COUNTY,            OREGON            (the
+Board),            sat         for        the      transaction                   of               county        business                in     regular
+session            on     August             3,        1994,      Commissioners                            Dennis        L.         Goecks,            Ted
+Lopuszynski,                   and        Debi     Owens        being           present.
+
+      WHEREAS,     on   April  18,    1994,   Laurie     Totten   ("Applicant")
+applied   to   the    Department   of    Planning    and    Development   for   a
+Comprehensive Plan Map amendment from "Public"to "Very Low Density
+Residential"                   and     a     Zone        Map    amendment                         from     "PAI        Public           Assembly/
+Institutional"    to                       "VLDR-5 Very Low Density Residential"  on a
+2.25 acre portion                          of Tax Lot 2322-3000  identified on the attached
+Exhibit  "B";  and
+
+        WHEREAS,                on     June        2,     1994,       the        Yamhill                  County        Planning               Commis-
+sion        held          a     public              hearing           to          consider                      the     application                    and
+thereafter                voted           unanimously                to     recommend                      to     the     Board               that     the
+Comprehensive Plan Map                                 and     Official                         Zoning    Map     be    amended               to     grant
+the application;  and
+
+        WHEREAS,                on     July        13,       1994,        the              Board         held     a    public           hearing         on
+the    application                   and         voted        unanimously                         to     grant        tentative               approval
+to    the     application;                       and
+
+        WHEREAS,                 the         findings             and           conclusions                       attached               hereto         as
+Exhibit  "A"  and by this   reference incorporated  herein                                                                                   provide     a
+justification   for the approval of the application;   and
+
+        WHEREAS,                 the         attached             Exhibit                          "A"    demonstrates                       that      the
+proposed           amendment                to    the        Yamhill        ‘County                    Comprehensive                Plan       Map     and
+the Official Zoning Map of Yamhill County are in the                                                                       best              interests
+of the citizens of Yamhill County;  NOW THEREFORE,
+
+                                                                                                                                               P4-S/9
+                                                                                                                                    ORDINANCE   576
+                                                                                                                                            Page 1
+         THE         YAMHILL          COUNTY     BOARD        OF    COMMISSIONERS                   ORDAINS           as    follows:
+
+         Section            1.          The     Yamhill            County        Comprehensive                    Plan         Map     is
+hereby       amended             as    specified         in        the     attached            Exhibit           "B",       incorpo-
+rated  into this   ordinance by reference,   to  reflect    a plan  map
+designation  of  "Very Low Density  Residential"   for  the   2.25 acre
+portion of Tax Lot 2322-3000 identified on Exhibit     "B".
+
+         Section            2.          The     Official            Zoning          Map        of        Yamhill           County       is
+hereby amended as specified in the attached Exhibit "B", to reflect
+a zoning designation of VLDR-5 Very Low Density Residential on the
+2.25 acre portion of Tax Lot 2322-3000 identified on Exhibit    "B".
+
+         Section           3.         The     findings        attached           as    Exhibit             "A"    and       incorpo-
+rated     herein           by    this       reference         are         adopted         in    support          of     this    ordi-
+nance.
+
+         Section           4.          This     ordinance                being      necessary              for        the    health,
+safety,  and  welfare                         of  the citizens  of  Yamhill  County, and  an
+emergency having been                         declared to exist, is effective upon passage.
+
+         DONE        at    McMinnville,             Oregon              this     3rd      day       of     August,          1994.
+
+                                                  YAMHT                 COUNTY        BOARD         OF,    COMMISSIONERS
+
+                                                  Chairman                            DENNIS          L.    GOECKS
+
+               bel     Z
+                     Leh                            Ted                  Kouromyrroh.
+           FJAYNI                                 Commissioned/                       TEp)ZOPUSZYNSKI
+FORM APPR@VRD               BY:                      ayn                       (~
+
+ OHN    C. PINKSTAFF                              Cohmissioner                        DEBI      OWENS
+Assistant             County          Counsel                       i
+                                                                    li
+
+ec\qlu94215.002
+
+                                                                                                                      ORDINANCE        576
+                                                                                                                                Page     2
+                                                     EXHIBIT "A"
+
+                                             ORDINANCE NO. 576
+
+DOCKET:                              PAZ-2-04
+
+REQUEST:                             Comprehensive Plan map amendment from Public to Very Low Density
+                                     Residential and zone change from PAI Public Assembly/Institutional to
+                                     VLDR-5 Very Low Density Residential
+
+APPLICANT:                           Laurie Totten
+
+TAX LOT:                             A portion of 2822-3000
+
+LOCATION:                            North of and adjacent to the intersection of Bald Peak and Holly Hill
+                                     Roads
+
+REVIEW CRITERIA:                     Section 1208 of the Yamhill County Zoning Ordinance
+
+FINDINGS:
+
+A     Background Facts
+
+1.    Lot Size:     The tax lot is 2.25 acres.   The request involves about two acres.
+
+2.    Access:     Bald Peak Road, a county road.
+
+3.    On-Site Land Use: The property is wooded on the east and north sides, There is an old, unused
+      school house near the middle of the property. The portion of the parcel subject to this request
+      is triangular, bounded on the southwest by Bald Peak Road and on the east by Holly Hill Road.
+
+4.    Surrounding Land Use:          Surrounding property is a mixture of farm, forest, and rural residential
+      use. Land to the north, south, and west is in mixed farm and woodlot use with several of the
+      parcels containing dwellings. East of Holly Hill Road, the properties are in rural residential use,
+      with some of these lots containing small farms and woodlots.
+
+5.    Surrounding Zoning: Adjacent property to the east is an area zoned VLDR-5 Very Low Density
+      Residential. The remainder of the neighboring properties are zoned AF-20 Agriculture/Forestry.
+      There is other land up Bald Peak and Holly Hill Roads zoned VLDR-1 and VLDR-5 that is not
+      adjacent to the subject property (see map in Exhibit B).
+
+6.    Water:      The applicant indicated there is a community water line along the front of the property,
+      and a well.
+
+8.    Sewage Disposal: The applicant indicated there is a septic system on the property although there
+      are no county records showing this.
+
+9.    Fire Protection:     Newberg Rural Fire District.
+
+10.   Taxes:    Tract land (market value).
+
+11.   Previous Actions:      None.
+
+                                                                                         EXHIBIT
+                                                                                               "A° - Page 1
+                                                                                               Ordinance 576
+B.      Ordinance Provisions and Analysis
+
+1.      The subject request must comply with the standards and criteria in the Yamhill County Zoning
+Ordinance (YCZO), Section 1208.02. The provisions are as follows:
+
+        (a)     The proposed change is consistent with the goals, policies, and any other applicable
+                provisions of the Comprehensive Plan.
+
+        (b)     There is an existing demonstrable need for the particular uses allowed by the requested
+                zone, considering the importance of such uses to the citizenry or the economy of the area,
+                the existing market demand which such uses will satisfy, and the availability and location
+                of other lands so zoned and their suitability for the uses allowed by the zone.
+
+        (c)     The proposed change is appropriate considering the surrounding land uses, the density
+                and pattern of development in the area, any changes which may have occurred in the
+                vicinity to support the proposed amendment and the availability of utilities and services
+                likely to be needed by the anticipated uses in the proposed district.
+
+        (ad)    Other lands in the county already designated for the proposed use are either unavailable
+                or not as well-suited for the anticipated uses due to location, size, or other factors.
+
+        (e)     The   amendment     is   consistent   with   the   current   Oregon   Administrative   Rules   for
+                exceptions, if applicable.
+
+        These criteria are addressed, respectively, in Findings B.2 through B.6, below.
+
+2.      The Board finds that the proposed change is consistent with the goals, policies, and any other
+        applicable provisions of the Comprehensive Plan as required by YCZO 1208.02(a) as follows.
+
+        The request is for an amendment to the Yamhill County Comprehensive Plan map to change
+        about two acres from Public to Very Low Density Residential and a zone change for the same
+        property from PAI Public Assembly/Institutional to VLDR-5 Very Low Density Residential.
+
+        Regarding Comprehensive Plan goals and policies, Policy (a) of Goal I.B.2 states:
+
+                Yamhill County will continue to recognize that the appropriate location
+                of very low density residential development is in designated large areas
+                where commitments to such uses have already been made through
+                existing subdivisions, partitioning, or development and by virtue of close
+                proximity to existing urban centers; or in small, limited areas having
+                unique scenic, locational and other suitable site qualities where the
+                anticipated magnitude or density of development is not such as to require
+                more than a very basic level of services, such as single local-road access,
+                individual domestic wells and sewage disposal systems, and possible rural
+                fire protection.
+
+        The request is in an area that has existing small lots. There is an existing large exception area
+adjacent to the east. The request is consistent with the intent of this policy.
+
+3.      The Board finds that there is an existing demonstrable need for the particular uses allowed by the
+        requested zone, considering the importance of such uses to the citizenry or the economy of the
+        area, the existing market demand which such uses will satisfy, and the availability and location
+        of other lands so zoned and their suitability for the uses allowed by the zone, as required by YCZO
+        1208.02(b). The zone change would result in the improvement of a vacant, abandoned property.
+
+                                                                                          EXHIBIT"A" - Page2
+                                                                                               Ordinance 576
+4.       The Board finds that the proposed change is appropriate considering the surrounding land uses,
+the density and pattern of development in the area, any changes which may have occurred in the vicinity
+to support the proposed amendment and the availability of utilities and services likely to he needed by the
+anticipated uses in the proposed district, as required by YCZO 1208.02(c) as follows:
+
+         Regarding the density and pattern of development, see the findings in Section A above. Five-acre
+zoning in the vicinity is in character with the lot size pattern existing in the area. The amendment is
+appropriate, considering surrounding land uses and the pattern of development in the area.
+
+         Regarding availability of services, the subject parcels are in an area designated by the Oregon
+Department of Water Resources as a Groundwater Limited Area. This designation limits the availability
+to obtain water rights, but domestic use of groundwater is exempt from the water rights requirement.
+The property already has a well. The road system is adequate for an additional dwelling.          Power,
+telephone, and emergency services are provided in the area.
+
+5.       The Board finds that other lands in the county already designated for the proposed use are either
+unavailable or not as well-suited for the anticipated uses due to location, size, or other factors, as required
+by YCZO 1208.02(d) as follows.                                                     |
+
+         Because this land is already developed, it is well-suited to the proposed zoning.   Rezoning
+undeveloped property would be less preferable because such land is more likely to be used for farm or
+forest production. The property is well-suited for the proposed use.
+
+6.       The Board finds that the amendment is consistent with the current Oregon Administrative Rules
+for exceptions, if applicable, as required by YCZO 1208.02(e) as follows:
+
+        The property has already been excepted from statewide resource planning                goals, based upon
+physical development (a school).    Therefore, this does not need to be justified.   Zoning of exception areas
+is regulated, however.     Oregon Administrative Rules Section 660-04-018(2) states in relevant part:
+
+                 “Physically Developed" and “Irrevocably Committed" Exceptions to goals
+                 other than Goals 11 and 14. Plan and zone change designations shall
+                 limit uses to:
+
+                 (a)       Uses which are the same as the existing types of land use on the exception site;
+                           or
+
+                (b)        Rural uses which meet the following requirements:
+
+                       ,   (A)     The rural uses are consistent with all other applicable goal requirements;
+
+                           (B)     The   rural   uses will not commit   adjacent   or nearby    resource land   to
+                                   nonresource use as defined in OAR 660-04-020 through 660-04-022; and
+
+                           (C)     The rural uses are compatible with adjacent or nearby resource uses.
+
+This request must comply with subsection (b) of this rule. Regarding (A), there are no identified Goal 5
+resources on or near the site, and it is not in a designated natural hazard area as protected by Goal 6.
+Other statewide goals do not apply. Regarding (B), the property is adjacent to an existing exception area
+on the east side, and bounded by a well-travelled county road (Bald Peak Road) on another. The parcels
+on the north are smaller than 10 acres and either already have dwellings or are surrounded by residential
+development, so one additional dwelling should not commit this land to non-resource use. For these same
+reasons, the new residential use is compatible with nearby uses, as required in criterion (C).
+
+                                                                                        EXHIBIT "A" - Page 3
+                                                                                              Ordinance 576
+Therefore, the amendment is consistent with the Oregon Administrative Rule requirements for zoning of
+exception areas.
+
+DECISION:
+
+The Board hereby approves the request by Laurie Totten for a Comprehensive Plan map amendment and
+zone change for a portion of Tax Lot 2322-3000.
+
+H: \ADMIN\PINKSTI\LU94.215
+
+                                                                                EXHIBIT "A" - Page 4
+                                                                                      Ordinance 576
+                            “B" FOR        ORDINANCE         No, 576
+                EXHIBIT
+                                    ZONING MAP AMENDMENT
+         COMPREHENSIVE PLAN AND
+                                         IVE PLAN MAP
+             TO CHANGE THE COMPREHENS
+                        DESIGNATION FROM
+                              "PUBLIC"
+                                          DENTIAL” AND
+              TO "VERY LOW DE ITY RESI LY /INSTITUTIONAL.
+                              NS
+                                     ASSEMB
+       THE ZONE FROM “PAT” PUBLIC
+                                        ITY RESIDENTIAL
+            TO ‘VLDR-5" VERY LOW DENS
+
+                                                                HILL RD
+                                                                HOLLY
+
+                          NOT   TO 9CALE
+
+                                                                      E
+                                    AREA   SUBJECT TO COMPREHENSIV
+                                           AND ZONE MAP AM EN DM EN T
+                                    PLAN
+
+                                                    OF   PLANNING         AND   DEVELOPMENT
+           BY    YAMHLL    COUNTY    DEPARTMENT
+PREPARED
+                                                                    Exhibit       "B"
+                                                                    Ordinance           576
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.1% of
+the word sequence, and on 91.3% of the figures. Dictionary-recognizable words: 94.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,315 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord765-pdf
+title: 'ORD765-PDF'
+doc_type: ordinance
+citation: 'ORD765-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17446/ORD765-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: e787571e61620c72c55e10644cf7e6bbd7492cb01e0e8d318ae3ccf0458c11fb
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.973; figure agreement 0.852; dictionary ratio 0.923. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 183.482
+    - ORS 197.626
+    - ORS 197.633
+    - OAR 660-025-0090
+    - OAR 660-025-0160
+    - OAR 660-025-0175
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD765-PDF (ORD765-PDF)
+
+## At a glance
+
+OCR-derived text of ORD765-PDF. Not human-verified.
+
+## Full text
+
+run 82 ce A022
+                                                                                                       6            Gye
+
+                                                                                          05 MIR -9 P2234
+              IN THE     BOARD    OF   COMMISSIONERS            OF THE    STATE     OF    OREGON
+
+                                   FOR THE COUNTY              OF YAMHILL
+
+                    SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of an Amendment to the Newberg Urban Growth                       )
+Boundary to include a 181.7 Acre Parcel, Tax Lots 3221-4200,                    )
+3222-3300, 3400 and 3500, located between Fernwood and                          )
+Wilsonville Road, Newberg; applicant Chehalem Park and                          )        ORDINANCE 765
+Recreation District, Docket No. PA-01-03, Amending                              )
+Ordinance 765 to Conform to the Land Conservation and                           )
+and Development Commissioner’s Order 04-UGB AMEND-001649                        )
+
+         THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business on February 23, 2005, Commissioners Mary P. Stern, Leslie Lewis, and
+Kathy George and being present.
+
+         IT APPEARING TO THE BOARD that the Chehalem Park and Recreation District applied to the
+Department of Planning for an amendment to the city of Newberg’s Urban Growth Boundary to include 181.7
+acres between Fernwood and Wilsonville Road. Public hearings were held before the Newberg Urban Area
+Management Commission and Newberg City Council. The Board held a duly noticed public hearing on
+October 23, 2003, heard from the applicants and their supporters, as well as opponents, deliberated, and voted
+2-1 to approve the application, Ordinance 731. After review and mediation between the parties, the
+Commissioner of the Land Conservation and Development Commission issued Order 04-UGB AMEND-
+001649. The City of Newberg amended its approval to conform to this order, and the County wishes to do
+likewise. NOW, THEREFORE,
+
+       IT IS HEREBY ORDAINED BY THE BOARD that Ordinance 731 approving the application is
+amended to conform to the Land Conservation and Development Commission Commissioner’s Order 04-
+UGB AMEND-001649, attached as Exhibit “A” and by this reference incorporated.
+
+         DONE this 9" day of March, 2005, at- McMinnville, Oregon.
+
+ATTEST                                     YA          LL COUNTY BOARD OF COMMISSIONERS
+                                                                )   .
+
+                                                                       MARY P. STERN
+
+                                                mithissioner           LESLIE LEWIS
+
+APPROVED AS TO FORM!"                            ard.          har
+    A. f- ro         y                     Commissioney                KATHY GEORGE
+
+Rick Sanai
+Assistant County Counsel          F:\Users\sanair\LU\CPRDGolfOrdinance765.wpd                      Ordinance 765)
+
+                                                                                                B.0- O9-ISF
+                                                                                vty 82 -seeL024
+         HG
+         y
+                                         BEFORE THE
+             LAND CONSERVATION AND DEVELOPMENT COMMISSION
+                         OF THE STATE OF OREGON
+
+IN THE MATTER OF                                            )   COMMISSION'S
+THE APPEAL OF THE CITY OF                                   )   ORDER
+NEWBERG’S UGB AMENDMENT                                     )   04-UGB AMEND-001649
+                                                            )
+
+       This matter came before the Land Conservation and Development Commission
+(Commission) as a proposal, by stipulated agreement, to resolve two appeals of an order of the
+Department of Land Conservation and Development (department) that remanded an urban
+growth boundary (UGB) amendment submitted by the City of           Newberg (city). The
+Commission, having considered the stipulated agreement and the report of the director of the
+department on the stipulated agreement, now enters its:
+                                              Findings
+                                             Jurisdiction
+
+1.     The city is not in periodic review.
+
+2,     The city has a population of more than 2,500 within its UGB.
+
+3s     The UGB amendment submittal under appeal was for approximately 182 acres. -
+
+4.     The Commission has jurisdiction in this matter pursuant to ORS 197.626 and OAR
+
+       660-025-0175(1) which provide that a city with a population of 2,500 or more within
+
+       its urban growth boundary that amends the urban growth boundary to include more
+
+       than 50 acres must submit the amendment to the Commission in the manner provided
+
+       for periodic review.
+
+                                       Procedural History
+
+1.     On September 15, 2003, the City of Newberg City Council adopted by Ordinance No.
+
+       2003-2589 an amendment to the city’s UGB to accommodate a regional park and golf
+
+       course for applicant Chehalem Parks and Recreation District (Park District),
+
+                                                                                  B.0-
+                                                                                    05° (SF
+         a                                                                 run 82 -sceL025
+      and amendments to the city’s comprehensive plan recreation policies and land use
+      needs tables (Exhibit A).
+      On December 23, 2003, the Yamhill County Board of Commissioners adopted           .
+
+      Ordinance 731 approving the UGB amendment (Exhibit B).
+      On February 2, 2004, the City of Newberg City Council adopted Ordinance No. 2004-
+      2595 amending findings adopted in support of the UGB amendment (Exhibit C).
+      On February 10, 2004, the department received the city’s UGB and comprehensive
+      plan amendments submittal (DLCD File No. 2004-001 and Local File No. UGB-07-
+      03) (Exhibit D).
+      On March 2, 2004, the department received timely, valid objections from 1000 Friends
+
+      of Oregon and its affiliate Friends of Yamhill County, and Donn Alexander (1000
+
+      Friends) (Exhibit E).
+      On April 2, 2004 the department notified the city of its intent to conduct a review of
+      the UGB   amendment (Exhibit F).
+
+      On June 9, 2004, the department, based on its review of the submittal and objections
+
+      remanded the submittal to the city and Yamhill County.     (DLCD Order 001637)
+      (Exhibit G), DLCD Order 001637 required the city to amend its comprehensive plan
+      and the findings of fact for the proposed UGB amendment in specific ways in order to
+      comply with the statewide planning goals.
+      On June 30, 2004, the city appealed the department’s remand order to the Commission
+      (Exhibit H).
+      On June 30, 2004, 1000 Friends appealed the department’s remand order to the
+
+      Commission (Exhibit D.
+10.   On September 30, 2004, pursuant to ORS      197.633(3)(b)(B), the Commission extended
+
+      the time for taking action on this matter, finding that the appeal raised complex issues
+      of fact and law that made it unreasonable for the Commission to give the matter
+      adequate consideration within 90 days of the appeals. The Commission continued the
+      matter to its November 2004 meeting.
+I.    On October 12, 2004, the city, the Park District, 1000 Friends of Oregon, and the
+
+      department, entered into an Agreement to Mediate (Exhibit J).
+                                                3.                            run 82 vee 1026
+
+12.      On October 27, 2004, the parties met in Newberg, Oregon, to participate in mediation
+         to address mutual concerns regarding the UGB amendment.
+13.      On November 4, 2004, pursuant to ORS        197.633(3)(b)(A), the Commission extended
+
+         the time for taking action on this matter, finding that the appeal is appropriate for
+         mediation based on the October 12, 2004 agreement to mediate.       (Exhibits J and K).
+
+         The Commission continued the matter to its December 2004 meeting.
+14.      On December 10, 2004, the Commission considered the department’s            November 17,
+
+         2004 staff report and the stipulated agreement reached by the parties.
+
+                                             Conclusion
+         Based on the foregoing findings, the stipulated agreement, and the department’s report
+dated November 17, 2004, the Commission concludes that the amendment to the City of
+
+Newberg UGB will be in compliance with the statewide planning goals upon execution of the
+following order.
+
+                             THEREFORE, IT IS ORDERED THAT:
+
+1.    The adopted UGB amendment of 182 acres shall be reduced to 100 acres reflecting the
+
+      recent donation to the Park District of approximately 83 acres within the UGB for use as a
+
+      9-hole public golf course. The site remaining in the UGB includes one parcel identified as
+
+      Yamhill County tax lot 3221-4200 located south of Fernwood Road.
+
+2.    The city and Yamhill County shall amend their respective comprehensive plans to remove
+
+      three parcels from the UGB.   These parcels are identified as tax lots 3222-3300, 3400, and
+
+      3500.
+     Bogs                                                                     run 82 «4027
+     Yamhill County shall re-designate these parcels as Agriculture/Forestry Large Holding on
+
+     the comprehensive plan map and restore the zoning to EF-40 (Exclusive Farm-40 acre
+
+     minimum), applicable to tax lots 3222-3300, 3400, and EF-20 (Exclusive Farm-20 acre
+
+     minimum) applicable to tax lot 3222-3500.
+
+3.   The city shall amend its comprehensive plan Land Use Requirements table (Table IV-9) as
+
+     follows (additions in bold, deletions are in strikeout):
+
+                                             TABLE IV-9
+                                  LAND USE REQUIREMENTS
+                             TOTAL ACRES NEEDED BY CATEGORY
+                                         1990 — 2010
+       Use                 1990               2000              2010           In UGB as-of
+
+Residential               1,580               2,090             2,765            ;    2,030
+Commercial                 250                 309               381               333
+Industrial                 490         :       730              1,087            607 544
+Public                     223               ~ 299               375                180
+Parks                       44                 100               478             H8 301
+Unbuildable                462                 462    -          462               269
+                          3,049               3,990             5,548          3,557 3,657
+TOTAL
+* Totals are as of April 2003, plus 100 acres of Parks for a golf course regional park
+brought into the UGB in 2004 (file UGB-7-03), and plus 83 acres:of industrial and
+residential land donated for a golf course regional park in 2004. Rights-of-way are not
+included.
+
+4.   The city shall amend its comprehensive plan Park Area Standards table to replace “200
+
+     acre minimum”. with a service size range of “180 to 200 acres” under the “Regional Park”
+
+     classification.
+
+5.   The city shall submit amendments adopted by the city and county to comply with
+
+     conditions 1-4 of this order to the department within six (6) months of the date of this
+
+     order,
+                                                  5.                            un 82 +4028
+
+6.   Pursuant to OAR 660-025-0160(8)(c), these changes are final when adopted by the local
+
+     governments; no further review is necessary.      The failure of either the city or county to
+
+     adopt the required revisions by the date established in this order shall constitute failure to
+
+     comply with the remand order by the specified deadline, requiring the director to initiate a
+
+     hearing before the Commission according to the procedures in OAR 660-025-0090(5).
+
+         DATED THE 6TH DAY OF JANUARY, 2005.
+
+                                                         FOR THE COMMISSION:
+
+                                                         Lom                SRS
+                                                         Lane Shetterly, Director
+                                                         Department of Land
+                                                          Conservation and Development
+
+Copies of all exhibits are available for review at the Department of Land Conservation and
+Development’s office at 635 Capitol Street NE, Salem, Oregon.
+
+JUDICIAL REVIEW NOTICE: You may be entitled to judicial review of this order. Judicial review
+may be obtained by filing a petition for review within 60 days from the service of this final order.
+Judicial review is pursuant to the provision of ORS 183.482 and 197.650.
+
+LCDC Final Order 01-06-2005.doc
+
+                                                                                             B.0- 0S: (SF
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.3% of
+the word sequence, and on 85.2% of the figures. Dictionary-recognizable words: 92.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

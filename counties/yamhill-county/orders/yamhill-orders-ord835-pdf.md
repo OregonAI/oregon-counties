@@ -1,0 +1,384 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord835-pdf
+title: 'ORD835-PDF'
+doc_type: ordinance
+citation: 'ORD835-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17380/ORD835-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 18dbcc5c7bcd7d4809d2cdad84a6f68f791240a3697c6f517f942a06c756636d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.992; figure agreement 0.956; dictionary ratio 0.930. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-012-0060
+    - OAR 660-024-0070
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD835-PDF (ORD835-PDF)
+
+## At a glance
+
+OCR-derived text of ORD835-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+                                     FOR THE COUNTY OF YAMHILL
+
+                           SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+Approval of an Amendment to the McMinnville Urban           Growth Boundary (UGB)           )
+to Add Approximately 30-acres to Accommodate an Expansion of the                            )
+Evergreen Aviation Museum for the Construction of a Water Park and Lodge,                   )   Ordinance 835
+And Application of a Commercial Comprehensive Plan Designation to the Expansion             )
+Area, Tax Lots 4423-800 & 1300 And 4427-200, Applicant Group Mackenzie,                     )
+Docket PA-03-08, And Declaring an Emergency                                                 )
+          THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the “Board”) sat for
+the transaction of county business on October 29, 2008, Commissioners Mary P. Stern, Leslie Lewis and
+Kathy George being present.
+
+           IT APPEARING TO THE BOARD that Group Mackenzie, on behalf of Evergreen Vintage
+Aircraft and Evergreen Agricultura] Enterprises, requested an amendment to the McMinnville Urban Growth
+Boundary (UGB) to add approximately 30-acres of land (andde-annex another 30 acres) to accommodate an
+expansion of the existing Evergreen Aviation Museum complex for the future construction of a water park
+and overnight lodge, and
+
+          IT APPEARING TO THE BOARD that the matter was heard at a duly noticed joint public hearing
+of the McMinnville    City Council, McMinnville      Area Urban Management       Commission,    and the Yamhill
+County Board of Commissioners on October 7, 2008, and the Council and the Board voted           unanimously for
+approval. NOW, THEREFORE,
+
+          IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as detailed in the
+Findings for Approval, attached as Exhibit “A” and by this reference incorporated herein. This ordinance,
+being necessary for the health, safety, and welfare of the citizens of Yamhill County, and an emergency
+having been declared to exist, is effective upon passage,
+
+          DONE this 29" day of October, 2008, at McMinnville, Oregon.
+
+                                          YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                          Chair
+                                                    My           "MARY P. STERN
+
+                                              Mes.           k     kt £2 tet
+                                          Cothmissioner             LESLIE LEWIS
+
+                                             York ulyCJ KATHY GEORGE
+                                          Commoner
+
+                                                                      Evergreen Museum UGB - Ord, 835
+                                                                               B.o.   O87   139
+Exhibit “A”
+
+DOCKET NO.:                PA-03-08 (McMinnville File No. UGB-01-04/CPA-02-08)
+
+REQUEST:                   Approval of an amendment to the McMinnville Urban Growth Boundary (UGB) to
+add approximately 30-acres of land to accommodate an expansion of the existing Evergreen Aviation
+Museum complex for the future construction of a water park and overnight lodge, and application of a
+commercial comprehensive plan designation to the expansion area. The subject property is generally located
+west of the existing Evergreen Aviation Museum campus and north of Cumulus Avenue. Also requested is
+the removal of some 30-acres of land from the existing UGB south of Highway 18 and west of the
+McMinnville Municipal Airport; withdrawal (“de-annexation”) of this same land from the McMinnville city
+limits; and, amendment of the McMinnville and Yamhill County comprehensive plan maps to designate this
+withdrawn land from Industrial to Agricultural.
+
+APPLICANT:                 Group Mackenzie, on behalf of Evergreen Vintage Aircraft and Evergreen
+Agricultural Enterprises
+
+TAX LOT:                   4423-800 and 1300 and 4427-200
+
+LOCATION:                  Land to be added to the UGB is located north of Cumulus Avenue, west of the
+existing Evergreen Aviation Museum, and is further described as a portion of tax lots 4423-800 and 1300.
+Land to be withdrawn from the UGB is located south of Highway 18 and southeast of the Willamette Valley
+Medical Center and is further described as a portion of Tax Lot 4427-260,
+
+CRITERIA:
+
+        1.                 Oregon Administrative Rule 660-004-0010 (1)(c)(B) — Application of the Goal 2
+        Exception Process to Certain Goals;
+        2.              Oregon Administrative Rule 660-012-060 - Transportation Planning, Plan and Land
+        Use Regulation Amendments;
+        3.              Oregon Statewide Planning Goal 2 (Land Use Planning, Part Il - Exceptions), and
+        Goal 14 (Urbanization, Factors 1 — 7), and other goals including but not limited to 3, 9, 11, 12, and
+        14;
+        4.                 Oregon Revised Statute 197.298~ Priority of land to be included in the urban
+        growth boundary;
+        5.                 McMinnville Ordinance No, 4146 ~ McMinnville Urban Growth Boundary
+        Management Agreement, Section i — Urban Growth Boundary Amendment Policies (B); Section II —
+        Urban Growth Boundary Amendment Procedure (A);
+        6.            McMinnville Planned Development Ordinance No. 4131 (Three Mile Lane Planned
+        Development Overlay), as amended by Ordinance No. 4572; and
+        7.             The goals and policies of the Yamhill County and City of McMinnville
+        Comprehensive Plans.
+
+FINDINGS:
+
+Ay      Background Facts:
+
+1.      Instead of repeating what is listed in the City’s Findings, then entire City Findings, including the
+Subject Site description and Observations, are incorporated here by reference. This staff report will
+use the same reference names as found in the McMinnville Staff Report. The northern 30 acres
+
+                                                                     Evergreen Museum UGB - Ord. 835
+Docket PA-03-08 (McMinnville File No. UGB-01-08/CPA-02-08)
+Page 3
+proposed for inclusion in the McMinnville urban growth boundary (UGB) will be referred to as the
+“subject site” or “site”. The 30-acres proposed for exclusion from the UGB will be referred to as
+the “exclusion site”.
+
+2.      Water and sewer: City of McMinnville.
+
+3.      Surrounding Land Use and Zoning: South of the site, across Highway 18, is the Captain
+Michael King Smith Memorial. The existing museum complex is zoned Commercial, C-3 PD. The
+land in the County adjacent to the subject site and exclusion area is zoned EF-80 Exclusive Farm
+Use.
+
+4.      Fire Protection: McMinnville Rural Fire District
+
+5.      Soils: The Yamhill County Soil Survey shows that the majority of the subject site is made
+up of Amity (Am) and Woodburn (WuB) soils, which are rated as Class II high-value farmland.
+Approximately 5% is made up of Dayton Silt Loam (Dc) which is rated as Class Il high-value
+farmland. The exclusion site is made up of Woodbum (WuB) and Amity (Am) soils (Class I high-
+value farmland) with approximately 3% along the southern boundary of the exclusion site being
+terrace escarpments (Te) and rated as Class VI non-high value farmland.
+
+6.    Previous Actions: In November of 1998, the City Council approved a Comprehensive Plan
+amendment and zone change for the 32-acre site from Mixed Use-Agricultural Holding (AH) and
+county EF-40(80) to Commercial (C-3) to allow the AirVenture Museum.        The Council also
+approved a conceptual design for the AirVenture Museum, with conditions, through the planned
+unit development process. In May of 1999, the citizens of McMinnville voted overwhelmingly to
+annex the site to the City, specifically for the purpose of construction of the museum.(A portion of
+the site (6.2 acres) was already in the City. The May annexation included the remaining 23.8
+acres.) Also in 1999 an application was made to “trade” property from within the UGB with
+farmland in order to move the museum away from some unconsolidated fill, In 2004 an application
+was made to amend the McMinnville UGB to add approximately 34.58 acres of land to
+accommodate the proposed expansion of the existing Evergreen Aviation Museum complex.
+
+7.      Procedure: The McMinnville Urban Area Growth Management Agreement governs the
+procedures for processing a UGB amendment. The application will first go before the McMinnville
+Urban Area Management Commission (MUAMC) for a public hearing. The MUAMC will make
+findings and forward its decision to the McMinnville City Council and the Board of County
+Commissioners. The agreement states “Each governing body may then make a determination
+based upon the facts and record presented at the MUAMC hearing without holding an additional
+public hearing thereon.” ‘The agreement does not have a prohibition on these hearings being held
+together. In order to accommodate the applicant and interested parties, a joint hearing before the
+MUAMC, City Council and Board of Commissioners was held on October 7, 2008.
+
+                                                              Evergreen Museum UGB - Ord. 835
+Docket PA-03-08 (McMinnville File No. UGB-01-08/CPA-02-08)
+Page 4
+B.       Urban Area Growth Management Agreement Provisions
+
+1.       Criteria addressed in UGB amendment requests include the McMinnville Urban Area
+Growth Management Agreement, the statewide planning goals, and the city and county
+Comprehensive Plans. The review standards from the first three of these are detailed in the city's
+staff report, hereby incorporated into these Findings by this reference. Consideration of the
+Yamhill County Goals and Policies will be discussed below.
+
+            Even though the majority of the Yamhill County Goals and Policies are aspirational and
+            are not to be mistaken for, or treated as, approval criteria it is important that they be
+            considered. It is a fact that some of the goals and policies conflict with one another.
+            They are simply to be used as a guide to aid decision makers, For example, where goals
+            or policies conflict the decision makers need to weigh the evidence and decide which
+            goal or policy the request satisfies. Therefore,in each case, the MUAMC would need to
+            decide whether the subject site and exclusion site are more appropriate to be preserved
+            as farm land or it is better suited for urban development. The applicant has done a good
+            job of describing the proposed uses of an indoor waterpark and 75-room lodge on the
+            subject site. Based on the described uses, and the accessory uses required to support
+            them, approximately 30 acres of land will be needed to support those uses. .
+
+2.       The Yamhill County Comprehensive Plan, Section L.A., Goal 1, directs County:
+
+                    To encourage the containment of growth within existing urban
+                    centers, provide for the orderly, staged, diversified and
+                     compatible development of all of the cities of Yamhill County,
+                     and assure an efficient transition from rural to urban land
+                     use,
+         The applicant’s point to their response given to Goal IV No. 1 of McMinnville’s goals
+because it is very similar to that of the above goal. This response is found on the bottom of Page 57
+and the top of page 58 of the application. Part of the purpose of this goal is to avoid leapfrog
+development and assure that cities will grow in an orderly fashion. As indicated in the application,
+the Evergreen Aviation Museum is located on adjacent land located within the city limits. It was
+originally placed at this location for a number of reasons. Among those reasons were the fact that
+the property was near the McMinnville Airport and a major state highway. During the previous
+land use hearings to establish the facility it was indicated that there would be some planned
+expansion of the facility. Therefore, there was some thought given on the part of both the
+applicants and the decision-makers that this facility would expand onto nearby land. In this case
+the expansion is proposed to go towards McMinnville, The applicant states that, “This is a far more
+logical addition to the urban fabric of McMinnville because it does not require incorporation of
+lands at the periphery of the existing urban form.” Because this is expansion of an existing facility,
+the expansion is related to the existing museum, and that facility is not something that would be
+easy to relocate onto other property, the request satisfies Section LA, Goal 1 in that it provides
+orderly, staged, and compatible development.
+
+                                                                Evergreen Museum UGB - Ord. 835
+Docket PA-03-08 (McMinnville File No. UGB-01-08/CPA-02-08)
+Page 5
+            As for the 30-acre exclusion site, it is located at the edge of the “existing urban form”
+            and is in farm use. The reason for this proposed “trade” of land is explained in the
+            applicant’s narrative on Page 8 of the application. The second paragraph on this page
+            states:
+
+                      “Several important implication stem from a UGB exchange proposal as opposed
+                      to anet UGB expansion. First and foremost, the burden of proof does not
+                      include a clear demonstration that there is a need for more urban land because no
+                      additional urban land will be included within the boundary. OAR 660-024-0070
+                      stipulate that ‘a local government considering an exchange of land may rely on
+                      its acknowledged population forecast and land needs analysis, rather than adopt a
+                      new forecast and need analysis, provided the land added to the UGB is planned
+                      for the same uses.’ In terms of a quasi-judicial UGB expansion such as the one
+                      proposed here, no additional analysis of population and land needs is required,
+                      significantly reducing the scope of the ‘needs analysis.’”
+
+            The applicant has shown by substantial evidence in the Record that the lands to be
+            exchanged are similar. Certainly as far as the agricultural soil capability class the
+            parcels are nearly identical as each have a similar percentage of Class II soils.
+
+3.       The Yamhi}] County Comprehensive Plan, Section I, Goal 1, states:
+
+                      To conserve Yamhill County’s farm land for the production of
+                      crops and livestock and to ensure that the conversion of farm
+                      land to urban use where necessary and appropriate occurs in
+                      an orderly and economical manner.
+
+            The applicant maintains, and the Board finds, that the application preserves farm land in
+            that there is no net loss of farm land because their application is to “trade” land within
+            the UGB with that of the subject site. The soil suitability, aspect and slope of both
+            parcels are similar and the County does not object to the trade from the standpoint of
+            preserving land for farm use.
+
+4,       The Yamhill County Comprehensive Plan, Section II, Goal 2, Policy a. states:
+
+                      Yamhill County will continue to preserve those areas for farm use which exhibit
+                      Class I through IV soils as identified in the Capability Classification System of
+                      the U.S. Soil Conservation Service.
+
+            Both of the properties under review consist primarily of Woodburn silt loam (WuB) and
+            Amity (Am) soils. Both of these are identified as Class II soils by the SCS and are
+            classified as high-value farmland. The applicant does not dispute that both of these sites
+            can, and have been, utilized as farmland.       As noted above, the addition of the subject site
+            appears to provide the orderly development of property by providing needed area for
+
+                                                                    Evergreen Museum UGB ~ Ord. 835
+Docket PA-03-08 (McMinnville File No. UGB-01-08/CPA-02-08)
+Page 6
+            urban expansion adjacent to the City, where services are available or can be readily
+            extended, thereby avoiding leap-frog development or other land consumptive practices.
+
+5,              Both the City and the County have recognized that Three Mile Lane is a unique area
+of McMinnville which requires careful development consideration. Therefore, specific plan goals
+and policies have been adopted.
+
+          d.     The designated PUD area (along Three Mile Lane in McMinnville) will be retained
+Jor the time being in its present agricultural and limited commercial, industrial and public uses and
+ be designated for the uses shown on the plan map, and the area will be developed in accordance
+ with the general policies of this plan and the following principles set out in the recommendations of
+ the city and county planning commissions relative to Three Mile Lane land use policy:
+
+                    1) Both Yamhill County and the City of McMinnville recognize that residential,
+                    commercial and industrial development along Three Mile Lane is desirable if it
+                    is of good quality and design. Further, such development should be staged in
+                    accordance with need and be compatible with the traffic-carrying function of
+                    Three Mile Lane, and the design capacity of the sewer and water service
+                    extensions into the area, Therefore, both governing bodies will consider
+                    applications for zone changes to property within their jurisdiction provided that
+                    the planned unit development concept is utilized.
+
+            In 1996 both McMinnville and Yamhill County worked on a Corridor Refinement Plan
+            for Three Mile Lane. This plan was developed with the involvement of property owners
+            along Three Mile Lane, including significant involvement of Evergreen Aviation. The
+            City of McMinnville adopted the Corridor Refinement Plan for Three Mile Lane. The
+            applicant’s proposal would require some modifications to that plan. The City of
+            McMinnville’s staff report goes over these proposed amendments to McMinnville
+            Ordinance No. 4131 (as amended by Ordinance No. 4572) that would make the
+            amendment consistent with that plan. In addition, a referral was sent to the Oregon
+            Department of Transportation (ODOT). ODOT responded that they could not determine
+            specific mitigation measures given the lack of data available for the proposed use.
+            However, as detailed in the City’s staff report, the transportation planning rules under
+            OAR 660-012-0060 do not need to be applied to a UGB amendment if the land added is
+            not designated with a zone which would generate more vehicle trips than development
+            allowed by the zoning assigned prior to inclusion in the boundary. A zone change is not
+            part of this application. Therefore, at the time the property is rezoned, a more detailed
+            traffic analysis will be required, which may result in additional traffic mitigation
+            measures,
+
+6.           The Yamhill County Comprehensive Plan, Section 1, Goal 1, Economic
+Development directs the County:
+
+                    To maintain a rate and pattern of economic growth sufficient to prevent
+                    recurring high levels of unemployment and under-employment in the county,
+
+                                                                Evergreen Museum UGB - Ord. 835
+Docket PA-03-08 (McMinnville File No. UGB-01-08/CPA-02-08)
+Page 7
+                    balance the real property tax base of the various cities, and strengthen local
+                    economic bases.
+
+            The Board finds conversion of UGB land back to an agricultural designation is a
+            desirable action in this case. Certainly there are real economic benefits from agricultural
+            use of the property. The Board finds it is in the best interest of both the County and City
+            to have the conversion of industrially plan designated UGB land revert back to
+            agricultural use.
+
+CONCLUSION:
+
+1.     The request is to amend the McMinnville Urban Growth Boundary (UGB) to add
+approximately 30-acres of land to accommodate an expansion of the existing Evergreen Aviation
+Museum complex for the future construction of a water park and overnight lodge. Also requested is
+the removal of some 30-acres of land from the existing UGB south of Highway 18 and west of the
+McMinnville Municipal Airport; withdrawal (“de-annexation”) of this same land from the
+McMinnville city limits; and amendment of the McMinnville and Yamhill County comprehensive
+plan maps to designate this withdrawn land from Industrial to Agricultural.
+
+2.     The Board finds that the applicant has demonstrated that the request to add 30-acres of land
+to accommodate the expansion of the Evergreen Aviation Museum satisfies the Yamhill County
+Comprehensive Plan goals and policies.
+
+3.              The Board finds that the applicant has demonstrated that the request to withdraw 30-
+acres of land from the City limits and UGB satisfies the Yamhill County Comprehensive Plan goals
+and policies. The Yamhill County Comprehensive Plan Map shall be amended by designating the
+exclusion site as AFLH Agriculture/Forestry Large Holding,
+
+                                                                      EvergreenUGBOrdinance.      wod
+
+                                                                Evergreen Museum UGB - Ord. 835
+                                                                             B.6.   08-78 g
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.2% of
+the word sequence, and on 95.6% of the figures. Dictionary-recognizable words: 93.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

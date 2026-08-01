@@ -1,0 +1,340 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord886-pdf
+title: 'ORD886-PDF'
+doc_type: ordinance
+citation: 'ORD886-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17308/ORD886-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: e70b92532401d608254dfbf345cd628a9bb9db83a25d1f60b0614dc3354446ff
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.982; figure agreement 0.834; dictionary ratio 0.938. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.780
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD886-PDF (ORD886-PDF)
+
+## At a glance
+
+OCR-derived text of ORD886-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                                FOR THE COUNTY OF YAMHILL
+
+                               SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a Zone Change from EF-40                                 )
+Exclusive Farm Use, to AF-40 Agriculture/Forestry,                                    )   Ordinance 886
+Applicants Jay Alan Shue and Karen Marie Swenson,                                     )
+Tax Lots 4520-200 and 4520-300, Planning Docket Z-02-13                               )
+and Declaring an Emergency                                                            )
+           THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business on January 23, 2014, Commissioners Mary P. Stern, Allen
+Springer, and Kathy George being present.
+
+                IT APPEARING TO THE BOARD that Jay Alan Shue and Karen Marie Swenson applied.
+for a Zone Change from EF-40, Exclusive Farm Use, to AF-40, Agriculture/Forestry, and
+
+          IT APPEARING TO THE BOARD that the Planning Commission heard this matter at a
+duly noticed public hearing on January 2, 2014 and, hearing no objections and being satisfied that
+the approval standards were met, voted unanimously to approve the application, NOW,
+THEREFORE,                           ;
+
+                THE BOARD ORDAINS AS FOLLOWS: that the application is approved for the reasons
+stated in the findings attached as Exhibit "A" and incorporated into this Ordinance by this reference.
+The Yamhill County Zoning Map is amended as shown in Exhibit "B," also incorporated into this
+ordinance by reference.                    This ordinance, being necessary for the health, safety, and welfare of the
+citizens of Yamhill                   County, and an emergency having been declared to exist, is effective
+immediately.
+
+                DONE this 23rd day of January, 2014, at McMinnville, Oregon.
+
+ATTEST:                                                 yah   HILL COUNTY BOARD OF COMMISSIONERS
+
+BRIAN VAN BERGEN                                  cE
+County Clerk                                                                          MARY P. STERN
+
+                                                              uh
+Deputy ‘Anne. Britt                   ,                   i missioner                 CALLEN SPRINGER
+
+ee                      AS TO FORM:
+     ape                                                Commissiofer )         OO      KATHY GEORGE
+
+wl Sadlo, Assistant County Counsel
+
+                                                                                                    Bo. l4-4
+PAUserstsadlot\Land Usc\Ordinance886,wpd
+                               EXHIBIT A ~ ORDINANCE 886
+                                FINDINGS FOR APPROVAL
+
+DOCKET NO.:                   Z-02-13
+
+REQUEST:                      Zone      change   from         EF-40,     Exclusive   Farm   use   to   AF-40,
+                              Agriculture/Forestry
+
+APPLICANTS:                   Jay Alan Shue and Karen Marie Swenson
+
+TAX LOTS:                     4520-200 and 300
+
+LOCATION:                     20100 SW Peavine Road, McMinnville
+
+CRITERIA:                     Sections    402, 403      and     1208.03    of the Yamhill    County    Zoning
+                              Ordinance; the Yamhill County Comprehensive Plan Goals and
+                              Policies.
+
+COMMENTS:                     Public Works — No conflicts.
+                              SWCD - No response.
+                              McMinnville Rural Fire Department - No response.
+                              DLCD - No response.
+                              Water Master - No response.
+
+FINDINGS:
+
+A.   Background Facts:
+
+1.   Tract size: Tax Lot 4520-200          is approximately            8.6 acres and Tax    Lot 4520-300    is
+     approximately 40 acres.
+
+     Access: Peavine Road.
+
+     On-site Land Use:     Tax Lot 200 has several outbuildings with various livestock, a pasture,
+     fruit trees and forested areas. Tax Lot 300 has a dwelling, a barn and animal sheds. The
+     parcel is primarily forested with some pasture land and a pond for livestock, and is also
+     used to grow crops including hops.
+
+     Surrounding Land Use:        The area is predominately forested with some rural residences
+     and small farm uses.
+
+     Surrounding Zoning: Land to the east and west is zoned EF-40.                     Land to the north is
+     zoned AF-80 and to the south is zoned AF-40, Agriculture/Forestry.
+
+     Water:   On-site well.
+
+     Sewage Disposal:      There is currently a septic system serving the dwelling.
+
+     Fire Protection:    McMinnville Rural Fire District.
+
+                                                                                                  Bo. 4-4
+Exhibit A — Ordinance 886
+Findings for Approval
+Page 2
+
+         Soils:      The   Yamhill   County   Soil    Survey      Maps     show     the   majority    of the tract is
+         Willakenzie (WkD and WeE), high-value farmland.
+
+10.      Taxes: Tax Lot 200 is receiving farm deferral. Tax Lot 300, 38 acres is receiving forest
+         deferral, one acre is receiving farm deferral and one acre is at market value.
+
+11.      Overlay Zones: None.
+
+12.      Previous Actions: In 1983, a zone change application (Docket Z-247-83) was approved to
+         change Tax Lot 4520-300 from a mixture of AF-20 and EF-40 to AF-20. Then an
+         application for a partition (Docket #P-1374-84) of Tax Lot 4520-300 was approved which
+         created two 20 acre parcels. The property is one tax lot (4520-300), however, it is
+         comprised of two 20 acre parcels. In response to House Bill 3661 (1993), the property was
+         rezoned back to EF-40 Exclusive Farm at the direction of the staff of the Department of
+         Land Conservation and Development. The EF-40 zoning became effective on December
+         29, 1993.
+
+         Zone Change and Plan Amendment Provisions and Analysis
+iP
+
+         The decision on the requested zone change is based on a determination that the request
+         complies with the review criteria found in Section 1208.03 of the Yamhill County Zoning
+         Ordinance, as follows:
+
+         Review Criteria for Amendments                      to   er     within     Exclusive      Farm     Use    and
+         Agricultural/Forestry Zones
+
+         A quasi-judicial zone change to (1) amend the designation of land from Exclusive Farm
+          Use, Agriculture/Forestry, or Forest to another of these zones, or (2) change the minimum
+         lot size of land designated Exclusive Farm Use or Agriculture/Forestry, may be
+         authorized, pursuant to Subsection 1208.01, provided that the request satisfies all
+         applicable requirements of this ordinance, and also provided that the applicant
+         demonstrates compliance with the following criteria:
+
+         A,       The proposed       amendment       shall    comply      with    the goals,    policies,   and   other
+                  applicable provisions of the comprehensive plan.
+
+         B.       The proposed designation shall be appropriate for the existing or intended use of
+                  the property.
+
+         Cc       The proposed amendment shall result in an area of at least 160 contiguous acres
+                  with the requested designation, including adjacent land.
+
+         Dd.      For proposed changes within or to an Exclusive Farm Use designation, the new
+                  minimum lot size shall be appropriate to maintain the existing commercial
+                  agricultural enterprise in the area.
+Exhibit A — Ordinance 886
+Findings for Approval
+Page 3
+
+         EB.    For proposed changes within or to an Agriculture/Forestry designation, the new
+                minimum lot size shall be shown to assure:
+
+                f.      The opportunity for economically efficient forest and agriculture practices
+                        typically occurring in the area; and
+
+                Z.      The opportunity for the continuous growing and harvesting of forest tree
+                        species; and
+
+                3.      The conservation of other forest values found on forest lands.
+
+         EF.    Any   amendment    that would change    the zone   map   designation     to reduce   the
+                minimum      lot size on property within an Exclusive Farm                  Use or
+                Agriculture/Forestry district shall not be granted final approval by Yamhill County
+                until the amendment has been considered and approved by the Land Conservation
+                and Development Commission pursuant to ORS 215.780(2).           The following rules
+                shall apply:
+
+                Ll.     Conditional approval.    Following receipt of an application for a zone
+                        change as otherwise provided by this ordinance, the county shall determine
+                        whether to grant or deny the application in accordance with criteria
+                        established in this section 1208.03. If the application is granted, the
+                        county shall enter an order of conditional approval,           subject to final
+                        approval by the Land Conservation and Development Commission.
+
+                2.      Referral of Order of Conditional Approval. After conditional approval by
+                        Yamhill County, the application, county findings, order of conditional
+                        approval and a request for Commission action shall be referred to the
+                        Department of Land Conservation and Development.
+
+                3.      Final   Approval.   An   amendment    conditionally    approved    by   Yamhill
+                        County shall not take effect until the county adopts an order or ordinance
+                        authorizing final approval after receipt of written confirmation of the
+                        county's conditional approval by the Land Conservation and Development
+                        Commission.
+
+         The above criteria are addressed in Findings B.2 through B.5 below.
+
+         Regarding criterion (A), applicable goals from the Yamhill County Comprehensive Land
+         Use Plan, Section I1.A.1, Goal reads:
+
+                To conserve Yamhill County ’s farm lands for the production of crops and livestock
+                and to ensure that the conversion of farm land to urban use where necessary and
+                appropriate occurs in an orderly and economical manner.
+
+         Section II.A.2, Goal reads:
+Exhibit A — Ordinance 886
+Findings for Approval
+Page 4
+
+                   To conserve Yamhill County’   soil resources in a manner reflecting their suitability
+                   for forestry, agriculture and urban development and their sustained use for the
+                   purposes designated on the county plan map.
+
+         Section JI.B.1, Goal reads:
+
+                   To conserve and to manage efficiently the county’s forest and range resources,
+                   thereby ensuring a sustained yield of forest products, adequate grazing areas for
+                   domestic livestock, habitat for fish and wildlife, protection of forest soils and
+                   watershed, and preservation of recreational opportunities.
+
+         The zone change would be consistent with the current mixture of agriculture and forest
+         uses existing on the property. The proposed zone, AF-40, recognizes and allows both
+         farming and forestry uses. This mixed use zoning would more accurately reflect the
+         existing uses on the subject property. The applicant is not proposing an urban use; the
+         minimum lot size is to remain 40 acres.
+
+         According to the Yamhill County Soil Survey, all of the property is capable of producing
+         timber.    The timber yields of the soils vary from 145 to 160 cubic feet per acre per year.
+         In addition, the soils are also classified as high-value farmland. The requested zone change
+         will recognize the potential for farm and forestry uses on the land and preserve the
+         County’s soil resources for their suitability for farm and forest use.
+
+         Regarding criterion (B), as mentioned above, the subject parcel is a mixture of farm and
+         forest use; the zone change from an exclusive farm zone to an agriculture and forestry zone
+         would more accurately reflect the existing and potential use of the property.
+
+         Regarding criterion (C), the subject parcels proposed for rezoning are approximately 48.6
+         acres. The total contiguous area after the rezoning would be approximately 169.4 acres.
+         This is over the 160-acres required; therefore, the request is consistent with criterion (C).
+
+         Regarding criteria (D), (E) and (F):    the applicant wishes to keep the minimum lot size at
+         40 acres, The 40-acre minimum in the farm and forestry zone was approved by the Land
+         Conservation and Development Commission through the process passed by the Oregon
+         State Legislature (see HB 3661 passed in 1993). Since the minimum lot size is not
+         changing, criteria (D), (E) and (F) are not applicable.
+
+CONCLUSIONS FOR APPROVAL:
+
+1.       The request is for a Comprehensive Plan amendment and zone change from Exclusive
+         Farm use EF-40 to AF-40 Agriculture/Forestry.
+
+         The proposed zone change is consistent with Comprehensive Plan goals and policies.
+
+         The zone change is appropriate in that the parcel is a mixture of farm and forestry uses.
+         Neither the farm zone, nor the forestry zone alone would be appropriate for this area.
+Exhibit A ~ Ordinance 886
+Findings for Approval
+Page 5
+
+4.     The proposed change is consistent with the zone change criteria of Section 1208.03.
+
+Based on the above findings and conclusions, the request by Jay Alan Shue and Karen Marie
+Swenson, for a zone change from EF-40, Exclusive Farm Use to AF-40, Agriculture/Forestry Use
+on Tax Lots 4520-200 and 300, is approved.
+                  EXHIBIT B - MAP FOR ORDINANCE NO. 886
+                                ZONE CHANGE
+        ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                               JANUARY 23, 2014
+                         FOR A ZONE CHANGE FROM
+                         EF-40, EXCLUSIVE FARM USE
+                                      TO
+                       AF-40, AGRICULTURE/FORESTRY
+
+  300
+
+        | LEBOLD RD
+
+                      80a
+
+—®             SOC    ae Bac                  /   602
+
+CHANGE APPLIES TO TAX LOTS 4520-200 AND -300 AS HIGHLIGHTED ABOVE. APPROXIMATE
+SCALE - 1 INCH = 500 FEET
+
+                                                                    p.0.\4~4 |
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.2% of
+the word sequence, and on 83.4% of the figures. Dictionary-recognizable words: 93.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

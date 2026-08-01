@@ -1,0 +1,588 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord512-pdf
+title: 'ORD512-PDF'
+doc_type: ordinance
+citation: 'ORD512-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17653/ORD512-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: ecadb9ba830500543e49a52d586b13122947ec44fd9f7464fb0592ee24ca7466
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.970; figure agreement 0.584; dictionary ratio 0.935. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD512-PDF (ORD512-PDF)
+
+## At a glance
+
+OCR-derived text of ORD512-PDF. Not human-verified.
+
+## Full text
+
+nox 90                2201
+             IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+G9-SS2                           FOR THE COUNTY OF YAMHILL
+                SITTING FOR THE TRANSACTION OF COUNTY BUSINESS \_
+In The Matter of an Ordinance
+
+                                                                                                                                                         A
+                                                                  et Sine et Se ee”
+Amending the Zone Map of the
+Yamhill County Zoning Ordinance,
+No.  310, as amended, to Change
+the Zone Map Designation from
+AF-10 to VLDR 2.5 on Approximately                                                                         ORDINANCE       NO.     512
+
+                                                                  et eee ee Ne
+29.5 Acres Identified as Tax Lot
+3230-1000, Located Approximately
+1/2     Mile   Southwest        of    the     City
+of Newberg on the              South Side of
+Dayton Avenue, as              Requested by                       a
+Glen     and   Ruth    McCollister,            and
+                                                                  ee
+
+Declaring       an     Emergency
+
+      THE BOARD OF COMMISSIONERS                       OF     YAMHILL COUNTY,                                     OREGON (the
+Board), sat for the transaction                        of     county business                                     in McMinn-
+ville,       Oregon,     in    special        session,        on                          August      8,    1990,       Commis-
+sioners David £.              Bishop,       Dennis     L.     Goecks                            and     fed      Lopuszynski
+being present.
+
+         WHEREAS,       Gien    and     Ruth    McCollister                                 have      applied       to    the
+Department       of     Planning        and    Development                                 in   order       to    change    the
+zone map designation from AF-10 to                            VLDR                          2.5    on      Tax    Lot    3230-1000,
+an approximately 29.5 acre parcel;                            and
+
+         WHEREAS,       the    subject        parcel        has                       a    comprehensive            plan    map
+designation of "very low density residential", and is p..ct of
+Exception Code Area 1.8, which excepted "lands committed to rural
+residential use" from the application of statewide land use
+planning goal 3; and
+
+     WHEREAS, on July 12, 1990, the Yamhill County Planning
+Commission held a public hearin; on the application and
+thereafter voted unanimously to approve the application; and
+                                                                                                                                                     {
+                                                                                                                                             |
+      WHEREAS, the Yamhill County Zoning Ordinance provides                                                                      that    a        :
+decision of the Planning Commission to change a zone map                                                                                         i
+                                                                                                                                                 i
+designation is final if no appeal is taken to the Board of                                                                                       i
+                                                                                                                                                  i cs
+Commissioners within 15 days of the Planning Commission’s
+                                                                                                                                              :
+decision; and                                                                                                                                j
+
+      WHEREAS, no appeal of the Planning Commission’s decision to
+approve the application has been filed, and adoption of this
+ordinance by the Board will constitute a final land use decision
+by the county to approve the application; and
+
+ORDINANCE        512
+ Page    1
+                                                                                 sun OO           2202
+       WHEREAS, the Board finds that it is reasonable to require
+ "shadow platting” of this parcel to prevent conflicts related to
+ the possible future urbanization of the property, and hereby
+ directs that at the time of subdivision or partitioning of the
+ subject parcel,   che planning director shall impose a requirement
+ that the property be shadow platted; and
+
+          WHEREAS, on August             1, 1990, the             board held a public hearing
+ to     consider adopting an             ordinance to             implement the Planning
+ Commission’s          decision     on    this        matter;       and
+
+         WHEREAS,       the    findings     and        conclusions          attached        as    Exhibit
+ "A" support the board’s decision                           to   approve     the     subject
+ application; NOW THEREFORE,
+
+      THE      YAMHILii       COUNTY     BOARD        OF    COMMISSIONERS          ORDAIKS        AS
+ FOLLOWS :
+
+       SECTION 1.    ‘The Official Zoning Map of Yamhill County is
+ hereby  amended  as   specified in the attached Exhibit "B", which is
+ incorporated herein by reference, to reflect a zone designation
+ of Very Low Density Residential-2.5 for a parcel identified as
+  cax    lot   3230-1000.
+
+          SECTION      2.     The   findings          and    conclusions           attached        as   Exhibit
+ "A" and       incorporated herein               by    reference,          are     hereby        adopted    in
+ support       of this ordinance.
+
+       SECTION 3.  This                ordinance being necessary for the health,
+ safety anu welfare of                 the citizens of Yamhili County, and an
+ emergency having been                 declared to exist, is effective upon
+ passage.
+
+ ATTEST                                      YAMHILL             COUNTY    BOARD     OF     COMMISSIONERS
+
+                                             Chairman
+                                                      Wwe or FAO
+                                                        DAVID E. BISHOP
+
+                                             Commissioner
+                                                           ion             DENNIS     L.     GOECKS
+
+  FORM nericke, _—                               7,
+Vat     h 2
+ TIMOTHY S /{ SADLO
+                                                      feel
+                                             Commissioner                 “TED(ZOPUSZYNSKI
+  Asgistant//County           Counsel
+                                                                                                                  ~~:
+
+  ORDINANCE      512
+  Page 2
+                                                                                         nut 90 22203
+                                                           EXHIBIT  "A"
+                                                          ORDINANCE  512
+
+              DOCKET:                           Z-4-90
+
+              APPLICANT:                        Glen    and     Ruth   McCollister
+
+              REQUEST:                          The applicant has requested                   a zone change
+                                                from AF-10 to VLDR-2 1/2 in                   ai: area plan
+                                                designated VLDR.
+
+              LOCATION:                         Approximately          1/2    mile    southwest      of   the        City
+                                                of   Newberg      on   the    south    side    of   Dayton
+                                                Avenue.
+
+              TAX    LOT:                       3230-1000
+              REVIEW        CRITERIA:           Section 1209.01 of the Yamhill County Zoning
+                                  :             Ordinance and Oregon Administrative Rules
+                                                Chapter 660, Division 4.
+
+              FINDIN.S:
+    Le nero
+
+              A.     Background         Facts
+
+              1.      Parcel     Size:       29.5      acres.
+
+              2.      Access:       Dayton       Avenue,        a paved      county   roid.
+
+              3.   On~site Land Use:   The property is wooded.                                 There is a
+              drainage-way and floodplain at the south end of                                 the property.
+              There is a house and associated outbuildings at                                 the north end,
+              near    Dayton     Avenue.
+
+              4.    Surrounding Land Use:  There is a nursery to the east, while
+              the south and west are wooded.    There is a cemetery across Dayton
+              Avenue to the north.   There are other small-scale agricultural
+              uses in the vicinity.
+
+              5.    Surrounding Zoning:   North and east - VLDR 2 1/2; south and
+              west - AF-10.    The Newberg Urban Growth Boundary and city limits
+              are generally less than one-quarter mile east of the site.    The
+              UGB crosses a small portion of the southeast corner of the
+              property.
+
+              6.   Water:         On-site wells.  There is no                    water    district        or
+              association        currently serving the site.
+
+              7.    Sewage Disposal:  On~site subsurface systems will be
+              utilized.   Soils on the property consist of Aloha, Amity,                                       and
+ee
+cree cee
+
+              ORDINANCE 512
+              EXHIBIT "A" - Page         1
+eee
+                                                                                     rua 90 +2204
+Terrace Escarpments.    According to                              the soil survey of             Yamhill
+County, all of these soils present                                severe limitations             for septic
+and drainfield systems.
+
+8.        Other           Services:            Electric,      telephone,      fire   suppreesion,           law
+enforcement,                  and    emergency         medical    services     are   all     available       to
+the site.
+
+9.    The subject parcel is in Exception Code Area 1.8 (Newberg-
+Dundee).   According to Exceptions Statement II, adopted April 23,
+1980 as supplementary findings for the taking of an exception to
+statewide goals:    "The entire Newberg-Dundee study area is
+committed to rural residential development.    The entire area is
+located             in    a   rural      fire    district,       exhibits     good   roads,         has   fair
+or better water availability, and has mostly fair soil
+suitability for septic systems."   The findings also state that
+“Agricultural activity in this study area has been restricted to
+small family gardens and orchards and, given the extensive
+subdivision  and parcelization of this area and its close
+proximity to two urban areas, this rural residential settlement
+pattern will continue to dominate.    Thus, this area is committed
+to .ural residential development."
+
+B.      Ordinance              Provisions            and   Analysis
+
+1.    Section 1208.02 of the Yamhill County Zoning Ordinance
+provides criteria   for quasi-judicial review of requests for                                              zone
+boundary amendments.    These criteria are:
+
+          (a)            The proposed change                is consistent with the goals,
+                :        policies, and other                applicable provisions of the
+                         Comprehensive Plan;
+
+          (b)            There      is   an    existing,      demonstrable      need       for   the
+                         particular           uses    allowed    by   the   requested       zone,
+                         considering the importance of such uses to the
+                         citizenry or the economy of the area, the existing
+                         market demand which such uses will satisfy, and the
+                         availability and location of other lands so zoned and
+                         their suitability for the uses allowed by the zone;
+
+          (c)            The proposed change is appropriate considering the
+                         surrounding land uses, the density and pattern of
+                         development in the area, any changes which may have
+                         occurred in the vicinity to support the proposed
+                         amendment and the availability of utilities and
+
+     ORDINANCE 512
+     EXHIBIT "A" - Page             2
+                                                                                              ALE        50   »     2205
+                      services likely to be needed                     by    the        anticipated               uses     in
+                      the proposed district;
+
+             (d)      The    other lands in the county already designated for
+                      the    proposed uses are either unavailable or not as well
+                      suited     for    the    anticipated           uses    due        to     location,           size,
+                      or    other     factors.
+
+             (e)      The amendment is consistent with the                               current Oregon
+                      Administrative Rules for eaceptions,                               if applicable.
+
+     These       criteria     are     addressed       in        Findings     2 through              6,    below.
+
+     2.   Regarding   the Comprehensive Plan, the plan map designation
+     for the property is Very Low Density Residential, which allows
+     VLDR 2.5 zoning.    Regarding rural development Plan goals, Goal
+     I.B.1       states:
+
+                      To provide an adequate amount of land,
+                      development areas and sites to accommodate
+                      those uses which are customarily found in
+                      rural areas or require or are better suited
+                      to rural locations, without compromising the
+                      Fasic goal relating to urban containment and
+                      orderly urban development.
+
+     2.1     A     letter    from     the    Newberg        Planning        Director           indicates
+     concern regarding "orderly urban development" relating to the
+     subject request.   Specifically, it is stated that two and one-
+     half acre "development in this area will significantly deter
+     future conversion to urban densities by increasing service
+     costs."  However, Section 6.010(4) of the Yamhill County Land
+     Division Ordinance stipulates:
+
+                      If a tract is divided into lots of 20,000
+                      square feet or more, the Director may require
+                      an arrangement of lots and streets to permit
+                      a later re-division in conformity to the
+                      requirements contained in this ordinance.
+                      The location of lot lines and other details
+                      of the layout shall be such that further
+                      division of the parcels may readily take
+                      place without interfering with the orderly
+                      development of streets.   The Director may
+                      restrict the placement or location of
+                      structures,           easements,           facilities        or        other
+                      uses     that    may    cause        an    infringement           upon        the
+
+     ORDINANCE 512
+     EXHIBIT “Av - Page 3
+~~
+                                                                                             rik O0 162206
+                 use or development and improvement cf an
+                 existing or anticipated street or roadway.
+
+Consequently, any partitioning of the parcel will be required to
+be arranged so that orderly future urban development is
+accommodated.   This “shadow platting" will insure adequate access
+for streets and urban services, so later development costs should
+not be significantly affected.
+
+ 3.   Regarding the need for the proposed zone change, the subject
+property is within the Newberg-Dundee Exception Area, which
+encompasses over 800 acres of land.     A study in 1986 of the
+county's rural residential exception areas indicated that the
+portion of the Newberg-Dundee exception area zoned VLDR 2 1/2 was
+at 66 percent of the maximum number cf dwellings allowed
+considering density.    Because of building during subsequent
+years, that percentage is now probably higher.     When considering
+all the exception areas around Newberg and Dundee with VLDR 2 1/2
+zoning (code areas 1,3, 1.4, and 1.10}, the zone was over 60
+percent full.   Other exception areas are in a substantially
+different        location,           so    were    not    considered.
+
+4.    Regarding Criterion (c) above, the area surrounding the site
+ig currently used for small-acreage agricultural operations,    a
+cemetery,   and rural residences.  The zoning to the east is VLDR 2
+1/2, but the neighboring parcel has not yet been partitioned, so
+it is still approximately 16 acres.    Most of the area around the
+property, but not adjacent to it, is in parcels five acres or
+larger,     except       to    the        west    along    Hagey   Road    where          preverties         are
+typically two to five acres.  This neighborhood                                      is    within     one-
+quarter mile of the subject property.
+
+4.1   Water and sewage disposal facilities will need to be
+provided on-site.       There is no reasonable expectation that city
+water or sewer services will be extended to the area in the near
+future.    There is some concera about the soil suitability for on-
+site sewage disposal, but each potential lot would be required to
+have a favorable evaluation by the County Sanitarian prior to
+partitioning,     so this concern is addressed through normal
+channels.     Other services are currently available to the site.
+
+4.2   Regarding roads in the area, specifically Dayton Avenue, the
+Newberg Planning Director stated a concern regarding increased
+traffic.    He stated the street is designated a collector street,
+but   is   not   built        to   collector            street   standards,      and        he   assumes       an
+eventual     need    for       widening           and    improvement      of   the        road   at   city
+                                                                                                                    oa
+
+ORDINANCE 512
+EXHIBIT "A" ~ Page 4
+                                                                                    eux 50 2267
+
+                                                                                                          ga
+expense.     No data was presented regarding                         Dayton       Avenue’s       design
+
+                                                                                                          mmm
+capacity   or current traffic count.
+
+5.     The findings in Section B.2 of this report are relevant to
+
+                                                                                                          en
+Criterion (d) as well.     If 2 1/2 acre residential lots are
+considered a distinct type of use, i.e. not the same as one acre
+or five acre lots, the findings in Section B.2 indicate there was
+4 supply of 2 1/2 acre-zoned land in 1986, but that study simply
+
+                                                                                                          ne ee
+divided the total number of acres by the total number of dwelling
+units.    No assessment of availability was made at that time.
+
+                                                                                                           ee
+6.    Regarding      Oregon Administrative Rules,                         Section     660-04-018
+applies.    That     section is as follows:
+
+            "Planning        and Zoning         for Exception              Areas
+            660-04-018  (1)  Purpose.   This rule explains the
+            requirements for adoption of plan and zone designations
+            for exception areas.    Exceptions to one goal or portion
+            of one goal do not relieve a jurisdiction from
+            remaining goal requirements and do not authorize uses
+            or activities other than those recognized or justified
+            by 1 ¢ applicable exception.     Physically developed and
+            irrevocably committed exceptions under OAR 660-04-025
+            and 660-04-028 are intended to recognize and allow
+            continuation of existing types of development in the
+            exception area.   Adoption of plan and zoning provisions
+            which would allow changes in existing types of uses
+            requires application of standards outlined ia this
+            rule.
+
+            (2)   "Physically Developed" and "“Irrevocably Committed"
+            Exceptions to goals other than Goals 11 and 14.    Plan
+            and zone designations shall limit uses to:
+
+            (a)      Uses    which      are    the    same    as    the     existing      types     of
+                     land    use   on    the    exception          site;     or
+
+            (b)      Rural    uses      which    meet    the       following        requirements:
+
+                     (A)     The rural uses are consistent                         with   all    other
+
+                                                                                                                   >
+                                                                                                                  ~~
+                             applicable Goal requirements;                         and
+
+                                                                                                                   ar]
+                     (B)     The   rural       uses    will    not    commit        adjacent      or
+                             nearby resource land to nonresource                           use     as
+                             defined in OAR 660~-04~028; and
+
+ORDINANCE 512
+EXHIBIT "A" ~ Page    5
+                                                                      run 90 2208
+                    (C)        The rural     uses are       compatible      with   adjacent
+                               or nearby     resource       uses.
+
+              (¢)   Changes to plan or zone designations are allowed
+                    consistently with subsections  (a) or (b) of this
+                    section, or where the uses or zones are identified
+                    and authorized by specific related policies
+                    contained in the acknowledged plan.
+
+              (ad)  Uses not meeting the above requirements may be
+              approved only under provisions for a reason.; exception
+              as outlined in OAR 660~04-020 through 660-04-022.
+                                                Keke
+
+              (4)   Applicability of OAR 660-04-018.  This rule
+              applies only to plan and zoning designations and
+              exceptions adopted by local governments following                          the
+              effective        date   of   this    rule."
+
+6.1   With    respect     to    (a)   above,      there     is currently     little
+productive use of the land.                 Additional residences            will not cause
+a significant change in the                use of the majority of            the parcel.
+
+6.2   Regarding     (b)    above,      the     uses    allowed   in   the   requested    zone
+are rural.      The proposed use,   one dwelling per 2 1/2 acres,
+constitutes      "acreage homesites”,  which is a rural use.   The
+density proposed is a rural density.   In addition, the ability to
+obtain partitioning approval and development permits for a
+maximum density of one dwelling per 2.5 acres may be’ further
+limited by suitability for subsurface sewage disposal and the
+fact that a floodplain runs through a portion of the property.
+Although the applicants are not foreclosed from eventually
+providing community water to the property, community water is
+provided to rural homes and farms throughout the county.
+Community sewer is a more urban application, and it is not
+anticipated that the subject property will be served by community
+sewer unless it is annexed into Newberg or Dundee at some future
+date.   All other utilities available and likely to be utilized at
+the site are available generally throughout the county.
+
+6.3   Regarding (b)(A) of the cited administrative rule, no
+statewide land use planning goals are implicated in this
+approval.    The rural use proposed is consistent with the
+comprehensive plan and with all goal requirements to which
+exception has not been taken, and in particular Goal 14, as
+explained in these findings.
+
+QRDINANCE 512
+EXHIBIT “A" - Page 6
+                                                     mux 50 1.2209
+ 6.4   Regarding (b)(B) of the cited administrative rule, access to
+ the parcel is limited to Dayton Avenue, to the north and
+ therefore orients traffic and other residential impacts away from
+ the only "nearby" resource land to the south.          There is no
+ resource land  adjacent  to  (abutting)   the  parcel.    The exclusive
+ farm use land to the south of the parcel is buffered by existing
+ vegetation (forest) and by a creek and related floodplain.            The
+ requested zone  change  will  not  commit   adjacent   or   nearby resource
+ land to nonresource use.
+
+ 6.5   Regarding (b)(C) of the cited administrative rule, no
+ incompatibilities with farm use or other resource uses have been
+ identified.    As stated above, there is no adjacent resource land.
+ It appears that the nearest resource land is being used either as
+ a woodlot, or noncultivated forest land.    The findings in 6.4,
+ above, also support a finding that the rural use proposed for the
+ subject property is compatible with nearby resource uses.
+
+ ¢.      Conclusions:
+
+ 1.    The request. is consistent with the goals and policies of the
+ Comprehensive Plan in that approval of the zone change will not
+ com. :omise urban containment or orderly urban development.
+
+ 2.    Because of low avaiiability of land suitably zoned for          rural
+ residences on parcels approximately two and one-half acres,           there
+ is a need for more VLDR-2 1/2 zoning in the county.
+
+ 3.   The area in the vicinity of the request is characterized by
+ small-acreage ownerships with rural public services available.
+ The request is appropriate for the area.
+
+  4.    Other lands in the vicinity of Newberg and Dundee zoned
+  VLDR~2 1/2 are largely built upon and not available for further
+_ rural residential use.
+
+ 5.    The request is consistent with the Oregon Administrative
+ Rules that govern zoning of exception areas, because a rural
+ level of development is proposed, the area is plan designated for
+ residential uses, the development will not commit nearby resource
+ ‘land to nonresource use, and the proposed use is compatible with
+ nearby resource uses.
+
+      ORDINANCE 512
+      EXHIBIT "A" - Page 7
+                                                                                 FILK   50     2210
+
+                                                                                                              ‘
+                                                                                                                  4
+
+                                                                                                                  i
+                                       FXHIBIT B FOn ORDINANCE 512
+                                                                                                                                  canes
+                                            ZONE MAP   AMENDMENT
+
+                                                                                                                              4
+                                              August   1, 1990                                                        |
+
+                                                                                                                                   We
+                                  TO    CHANGE OFFICIAL ZONING        MAP                                             a7
+
+                                         FROM AF-10 TO VLDR-2}                                                        [
+                                                Docket PAZ-1-90                                                       |
+                                                                                                                      :
+                                                                                                                      i
+                                                                                                                      i
+                    ae
+
+                                                                                                                          {
+                                                                             A                                            :
+
+                                                                        i"=406'
+
+                                           Tax Lot 3230-1000                                                          i
+                                                                                                                      ia
+
+                                                                                                                  it
+                                                                                                                  iy.
+
+  Map   prepared   by   Yamhill        County    Department   of   Plantae       ane    Teel   peant,
+                                                                                                        |
+                                                                                                                  :
+
+NINANCE 512
+{IBIT "BY - Page    1
+
+                                                                                                              {
+                                                                                                        gee
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.0% of
+the word sequence, and on 58.4% of the figures. Dictionary-recognizable words: 93.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

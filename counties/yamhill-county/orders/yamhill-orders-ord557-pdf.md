@@ -1,0 +1,372 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord557-pdf
+title: 'ORD557-PDF'
+doc_type: ordinance
+citation: 'ORD557-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17622/ORD557-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 0a745a50d21cf3c2e7229e500b5941bf5a75e8f41069cadb350c916c762ac419
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.970; figure agreement 0.847; dictionary ratio 0.933. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD557-PDF (ORD557-PDF)
+
+## At a glance
+
+OCR-derived text of ORD557-PDF. Not human-verified.
+
+## Full text
+
+PAEHIELC             7     ne
+          IN    THE     BOARD              OF    COMMISSIONERS                         OF     THE       STATE            OF’‘OREGON~''         ':
+                                                                                                                            993      JUN 30 PH 2: Ho
+                                                                                                                                                  a
+                                            FOR THE COUNTY OF YAMHILL                                                       read     ST
+                SITTING              FOR        THE    TRANSACTION                      OF        COUNTY        BUSINESS,
+
+                                                                                                                                                          TY,
+In the Matter of an Ordinance
+
+                                                                               SS Sw
+Amending the Yamhill County
+Zoning Map           to Change, on a
+
+                                                                          ewww
+Portion of           Tax Lots 4306-1301                           and
+1500, the Zone Map Designation
+
+                                                                            SS
+from LDR-9000 (Low Density Resi-                                                              ORDINANCE                  557
+denital to VLDR-1 (Very Low
+Density        Residential/1                    Acre       Minimum
+Lot Size);  Docket Z2-3-93;
+Applicants  Stanley and Tandra                                   Hill;
+and Declaring an Emergency.
+
+        THE     BOARD         OF       ‘COMMISSIONERS                   OF             YAMHILL               COUNTY,            OREGON         (the
+Board),         sat  for the transaction  of  county   business                                                                    in   special
+session         on  June 30,  1993, Commissioners   Debi  Owens,                                                                     Dennis   L.
+Goecks,        and Ted Lopuszynski being present.
+
+      WHEREAS, on Stanley and Tandra Hill ("Applicants") applied to
+the Department of Planning and Development for a zone map amendment
+from LDR-9000 (Low Density Residential/9000 square foot minimum) to
+VLDR-1   (Very Low Density   Residential/1 Acre Minimum  Lot)   on a
+portion of 11.73 acres                             on parcels known                               as Tax Lots                  4306-1301           and
+1500 identified on the                             attached Exhibit                               "B"; and
+
+        WHEREAS,            on         June           3,     1993,                the             Yamhill            County            Planning
+Commission           held        a    public           hearing          to             consider               the        application               and
+thereafter           voted       unanimously                 to     approve                   the       requested               zone     change;
+and
+
+        WHEREAS,         on          June       30,     1993,       the            Board              held    a public               hearing        on
+the     application              and        voted          unanimously                       to        implement               the     Planning
+Commission’s           approval  of the                       zone change application                                              by amending
+the Official           Zoning Map from                       LDR-9000 to VLDR-1  (Very                                             Low Density
+Residential/1            acre          minimum             lot     size)               on         9   acres         of    the        11.73     acre
+parcels  known as                     Tax       Lots       4306-1301                    and           1500,     identified                on       the
+attached Exhibit                     "B";       and
+
+        WHEREAS,            the            findings          and        conclusions                           attached               hereto         as
+Exhibit        "A"    and        by         this       reference                   incorporated                     herein           provide          a
+justification            for          the       approval           of     the               application;                  and
+
+        WHEREAS,            the            attached          Exhibit                        "A"        demonstrates                    that        the
+proposed amendment to the Official Zoning Map of Yamhill County is
+in the best interests of the citizens of Yamhill County; NOW THERE-
+FORE,
+
+ORDINANCE      557     -—- Page        1
+         {HE       YAMHILL              COUNTY       BOARD   OF   COMMISSIONERS               ORDAINS           as    follows:
+
+         Section                1.          The   Official        Zoning    Map     of         Yamhill               County    is
+ hereby amended as specified in the attached Exhibit "B", to reflect
+ a zoning designation of VLDR-1 on a 9 acre portion known as Tax
+ Lots    4306-1301                   and     1500,    identified      on    Exhibit            "B".
+
+        Section            2.  The findings attached as Exhibit "A" and incorpo-
+ rated herein             by this reference are adopted in support of this ordi-
+ nance.
+
+       Section  3.   This    ordinance   being   necessary  for  the health,
+ safety,   and welfare    of   the  citizens   of   Yamhill  County,  and  an
+ emergency having been declared to exist, is effective upon passage.
+
+         DONE        at   McMinnville,                  Oregon     this    30th   day          of       June,        1993.
+
+ ATTEST                                               YAMHILL      COUNTY    BOARD            OF    COMMISSIONERS
+
+                                                             Rb: Qe ae
+                                                      Chairman               DEBI        O'        Ve
+                                                                             Date:                 E eso) ioe
+
+                                                             Oo
+                                                      Commissioner
+                                                                              A
+                                                                             DENNIS            L.       GOECKS
+                                o      Sf                                    Dates                  6f/rx°f/¢3
+                                     Ya"                 epee
+
+//sonn C.       PINKSTAFF                              Commissioner(/ TEDLOPUSZYNSKI
+  Yamhill       County Counsel                                        Date: Winwr 20,                                   /772
+                                                                                              U
+
+ ec\q1u93180.001
+
+ ORDINANCE         557    -—-        Page   2
+                                                      ORDINANCE         557
+                                                        Exhibit        "A"
+
+DOCKET :                     Z-3-93
+
+REQUEST:                     Zone change from LDR-9000 to VLDR-1 Very Low                                            Densi-
+                             ty Residential,  one-acre minimum lot size
+
+APPLICANT:                   Stanley            and     Tandra       Hill
+
+TAX    LOT:                  Portions            of     tax    lots     4306-1301           and        1500
+
+LOCATION:                    13430         Stoller           Road,    Lafayette
+
+COMPREHENSIVE               PLAN     DESIGNATION:
+
+                             VLDR         Very    Low        Density      Residential
+
+FINDINGS:
+
+A.     Background            Facts
+
+1.     Lot Size:   The combined                             area of the subject tax lots is 11.73
+acres.     The  request  applies                             to a portion  of this  lot totalling
+about nine acres.
+
+2.      Access:             Stoller         Road,           a county      road.
+
+3.    On-Site              Land Use:               The subject   portions  of the parcels                                   are
+covered with              underbrush             and trees.   There appears to be no farm                                   use
+existing       on         these     lots.             The     parcels        slope    down        to     the    east       into
+Henry     Creek.
+
+4.      Surrounding               Land      Use:            Land     adjacent        to    the     subject          parcels
+are   in various             farm    uses.            These uses include                  orchards, vegetables,
+and   pasture.              Land     to the           west is developed                   to an urban scale and
+is    inside        the     city     limits           of     Lafayette.
+
+53      Surrounding               Zoning:              Adjacent         land    to    the     south           and   west     is
+inside the Lafayette city limits and is zoned for urban                                                        uses.        All
+other property is zoned EF-40 Exclusive Farm Use.
+
+6.      Soils:            Sheet      27    of     the       Yamhill      County      Soil        Survey        indicates;
+60 percent of              the soils             on the        subject        nine acres are comprised                       of
+Woodburn silt              loam with             0 to 7        percent        slopes  (WuB), 30 percent                      of
+the soils are Amity silt loam with 0 to 2 percent slope (Am), and
+10 percent   are terrace escarpments (Te).    These soils have an
+agricultural class of II, II and VI respectively.
+
+Ts      Taxes:            Tract      land.
+
+8.      Water:            City      of     Lafayette.
+
+EXHIBIT       "A"     -    Page      1
+ORDINANCE           557
+9.    Previous Actions:  On tax lot 4306-1301,                                                              a partitioning was
+approved under Docket P-66-91, to separate the                                                             property into three
+parcels.
+
+B.      Ordinance                   Provisions                   and       Analysis
+
+1.    The request must comply with                                             the standards and criteria                            in the
+Yamhill   County  Zoning Ordinance                                              (YCZO)  Section  1208.02.                             These
+provisions              are:
+
+      (a)           That  the proposed change is consistent with the goals,
+policies,           and any other applicable provisions of the Comprehensive
+Plan.
+
+            (b)     That             there            is        an     existing               demonstrable            need         for     the
+particular               uses         allowed                   by     the     requested               zone,     considering               the
+importance               of         such     uses               to     the     citizenry              or   the    economy            of    the
+area,   the existing market demand which such uses will satisfy, and
+the   availability   and location  of other lands so zoned and their
+suitability    for the uses allowed by the zone.
+
+      (c)   That the proposed change is appropriate considering the
+surrounding    land uses, the density and pattern of development  in
+the area,   any changes which may have occurred   in the vicinity to
+support           the     proposed                amendment                  and        the     availability            of        utilities
+and services  likely                             to        be        needed        by     the        anticipated         uses        in    the
+proposed district.
+
+      (d)           That other lands in the county already designated                                                               for    the
+proposed           use are either unavailable or not as well-suited                                                                 for    the
+anticipated               uses         due        to       location,               size,        or    other      factors.
+
+      (e)  That                     the amendment is consistent with the current                                                     Oregon
+Administrative                      Rules for exceptions, if applicable.
+
+      These  criteria                            are        addressed,                  respectively,            in     Findings           C.2
+through C.6,   below.
+
+2     The  Board                      finds  that   the   proposed   change   satisfies   YCZO
+1208.02(a)   and                     is  consistent   with   the  goals,  policies,   and  any
+other        applicable               provisions                      of     the    Comprehensive                Plan        as    follows.
+
+      The  1976   Comprehensive  Plan Map  indicated   the land   is plan
+designated VLDR Very Low Density Residential.      The smallest minimum
+lot size   for VLDR is VLDR-1,    or one acre.   The present    zoning on
+the  subject    property  is LDR-9000  Low Density   Residential,    which
+allows a lot size of 9,000 square feet, which is a smaller lot size
+than allowed in the VLDR-1.
+
+        The Board finds that the                                           current zoning was a mistake because
+it    allows a lot size smaller                                            than allowed by the smallest zoning
+district           under            the      original                  VLDR        comprehensive               plan     designation.
+The     Board            finds             that            in        order         to     correct          the     mistake            it    is
+necessary           to            change         the       zoning            district           to    VLDR-1,      which           conforms
+to    the     VLDR        comprehensive                          plan        designation.
+
+EXHIBIT           "A"         -    Page      2
+ORDINANCE               557
+        Regarding           Comprehensive                Plan        goals       and     policies,           Plan    Section
+I.A,    “Urban        Area        Development,"                Policy           3.b    states:
+
+        "Yamhill County will continue to recognize that the appropri-
+        ate  location  of low-density  residential  development    is  in
+        areas where adequate access and services to satisfy the scale
+        and ultimate development can and will be provided.    Such areas
+        would generally be within, or contiguous with,   existing urban
+        centers,           but    may     also    be     in        selected           small    areas     having       unique
+        scenic   qualities   or,    where the need may be                                        demonstrated,    in
+        selected    outlying     areas   of  varying size                                        appropriate   site
+        qualities    and other supporting services."
+
+        The Board  finds                  that     the proposed                    zone   change  is            within  an
+area    plan  designated                   for     such use  and                    would   correct             a mapping
+mistake.        The        Board        identifies            no    conflict           with     Comprehensive              Plan
+policies.
+
+3.      The     Board            finds     that         the         proposed            change         satisfies           YCZO
+1208.02(b)          and     that        there     is    an     existing            demonstrable              need    for    the
+particular  uses    allowed                      by  the            requested  zone, considering                            the
+importance  of   such uses                       to the            citizenry  or the  economy  of                           the
+area, the existing market                         demand           which such uses will satisfy,                            and
+the availability and location of other                                            lands         so zoned and           their
+suitability for the uses allowed by the                                           zone,        as follows.
+
+      The Board                 finds  that the need relevant   to                                    this    request  is
+related   to the                 requirements  of the applicant.                                       The    applicants
+desire to pasture   livestock on the property.                                                  The present zoning
+does not allow livestock as a permitted use.                                                  The zoning requested
+allows  livestock in restricted numbers.
+
+4.    The  Board   finds  that  the                                 proposed            change  satisfies  YCZO
+1208.02(c)   and that the proposed                                 change is           appropriate considering
+the surrounding land uses, the density                                          and pattern of development
+in the area, any changes which may have                                         occurred in the vicinity to
+support   the proposed amendment   and the availability                                                      of utilities
+and  services  likely   to be needed  by the anticipated                                                      uses in the
+proposed district,    as follows.
+
+      As noted in Finding A.4, the surrounding property is predomi-
+nantly   in  farm    use.    Approval  of  this  zone   change  would  allow
+establishment     of   livestock   and farm uses   similar   to that of the
+surrounding               area.          Additionally,                    the     request         would        limit        the
+creation    of        parcels  to one acre or greater  instead  of                                              the  9,000
+square   foot         lot size presently on the subject parcel.                                                 Lessening
+the    ability            for     development             in        the     area        would     help        to     prevent
+conflicts       with        neighboring                farmers
+
+5.      The     Board            finds     that         the         proposed            change         satisfies           YCZO
+1208.02(d)  and that other lands in the county                                                  already designated
+for the proposed use are either unavailable or                                                  not as well-suited
+for    the    anticipated               uses     due     to        location,           size,     or    other        factors.
+
+        Regarding           criterion            (d),        see     Finding           B.3,     above.
+
+EXHIBIT       "A"     —    Page     3
+ORDINANCE           557
+6.    The  Board finds  that the  proposed change  satisfies YCZO
+1208.02(e), and that the amendment is consistent with the current
+Oregon Administrative Rules for exceptions, if applicable.
+
+No    exception           is     required.
+
+CONCLUSIONS :
+
+iL.     The       request             is       for    a       zone     change       from    LDR-9000      Low     Density
+Residential              to     VLDR-1          Very          Low     Density   Residential.
+
+2.      The       request             complies                with     the   Comprehensive         Plan        Goals     and
+Policies          and     is     consistent                   with     the   Plan    map.
+
+3.    The requested use is appropriate for the area considering the
+level of services needed and available, and considering surrounding
+development.
+
+DECISION:
+
+Based     on      the         above        findings,             analysis,      and        conclusions,         the    Board
+approves          the         request           for       a    zone    change       for    a portion      of     Tax    Lots
+5625-1301           and        1500.
+
+ec\qlu93176.001
+
+ EXHIBIT          "A"     -    Page        4
+ ORDINANCE              557
+                      EXHIBIT "B" FOR ORDINANCE        NO: 557
+
+                            ZONE MAP     AMENDMENT
+
+      ADOPTED    BY THE YAMHILL      COUNTY    BOARD    OF COMMISSIONERS
+
+                                   JUNE 30, 1993
+
+                    TO CHANGE     THE OFFICIAL ZONING      MAP
+
+                           FROM LDR-9000 TO VLDR-1
+
+Change applies to the shaded portion of tax lot no. 4306-1301 and 1500.
+Map prepared by the Yamhill County Department of Planning and Development
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.0% of
+the word sequence, and on 84.7% of the figures. Dictionary-recognizable words: 93.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

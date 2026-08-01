@@ -1,0 +1,924 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord559-pdf
+title: 'ORD559-PDF'
+doc_type: ordinance
+citation: 'ORD559-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17590/ORD559-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: b284df1fafda085ae1818bdc547f3ec7c65cb8bb4b35371d79844284aa43f1dc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.979; figure agreement 0.863; dictionary ratio 0.931. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.300
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD559-PDF (ORD559-PDF)
+
+## At a glance
+
+OCR-derived text of ORD559-PDF. Not human-verified.
+
+## Full text
+
+P
+                                                                                                  Vv
+                                                                                                  i?      BL   oe
+                                                                                                                     D |       clara,
+                IN THE BOARD OF COMMISSIONERS OF THE STATE OF                                            OREGON’ ||): 8EG0N
+                                                                                                       ‘93
+                                                                                                       90
+                                                                                                           DEC 10    Ay 3 &u
+         93-§90                          FOR THE COUNTY OF YAMHILL
+                                                                                               CHARI
+                     SITTING FOR THE TRANSACTION                             OF COUNTY BUSINES$§)})
+       In the Matter of an Ordinance
+       Amending the Yamhill County
+
+                                                                       See
+       Comprehensive         Plan      Map        to       change
+       the   plan    map    designation                from
+       "Very   Low     Density      Residential"                to
+       "Future Urbanizable" on
+       approximately 46.3 acres
+       Comprised of Tax Lots 3207-3700,
+       -3701, -3702, -3703; 3218AB-900
+       (in   initial       application)                and    Tax              ORDINANCE         559
+       Lots 3207-3400, -3500, -3600
+
+                                                                       aw
+       (added to application in course
+       of proceedings) to allow
+       an expansion of the City of
+       Newberg’s       Urban     Growth           Boundary;
+       Applicants       Bakke,      Anzalone,
+       Manning and Sessions;  Planning
+       Docket PA-1-93;  and Declaring
+       an Emergency.
+
+       THE BOARD OF        COMMISSIONERS OF YAMHILL COUNTY, OREGON ("the Board"),
+       sat for the         transaction of county business   in special  session on
+       December  8,        1993,  Commissioners Debi Owens,  Dennis  L. Goecks  and
+       Ted   Lopuszynski         being           present.
+
+       THE   BOARD    MAKES      THE     FOLLOWING             FINDINGS:
+
+      A.    P. Bakke,   F.  & C.  Anzalone,  R.    & K. Manning  and  A.   & V.
+      Sessions  ("Applicants")   have applied to the Department of Planning
+      and Development    for a Comprehensive    Plan Map amendment   from Very
+      Low Density   Residential   to Future  Urbanizable   on Tax Lots    3207-
+      3700,  3207-3701, 3207-3702,  3207-3703 and 3218AB-900 to allow an
+      expansion of the urban growth boundary of the City of Newberg onto
+      the named properties.     The application was filed simultaneously
+      with the City of Newberg under the provisions of the Newberg Urban
+      Area Growth Management Agreement, September 25, 1979.
+
+       B.    On June 15, 1993 the Newberg Urban                               Area Management Commission
+       ("NUMAC") held a public hearing on the                                 application at the Newberg
+       Public Library.    At the meeting,   the                               Newberg Planning  Director
+       proposed on behalf of the                           City of Newberg that Tax Lots 3207-1000,
+       3207-3400,  3207-3500 and                           3207-3600 be added the this  docket  item
+       for   consideration          of       a    similar           change    in   plan   map          designation     to
+       allow   the  City of            Newberg’s  UGB   to be  expanded                          to      also  include
+       those   properties.              NUMAC voted   to recommend   to                         the      Newberg  City
+       Council  and the Board of                            Commissioners          that   the      application         as
+       extended not be granted.
+                                                                                                                           |
+                                                                                                                           |
+                                                                                                                           |
+                                                                                                          ORDINANCE  559
+                                                                                                                  Page|
+
+BO,   9PF-F70
+Cc.  On September  8,  1993 the Board held a public   hearing on the
+ applicationas extended.   The Board received testimony and evidence
+but   did    not         reach   a   decision.         The     matter        was        continued          until
+September         29,     1993   prior   to   close     of    hearing.
+
+D.    On September 29,    1993 the Board re-opened the public hearing
+on the application as extended.         Commissioner Lopuszynski was not
+present.   After the hearing was closed,         Commissioner Goecks voted
+to  deny  the   application     as  extended.      The    motion   failed  with
+Commissioner    Goecks voting aye and Commissioner           Owens voting   no.
+Ordinance   353   governs   the    Procedure   for    the   Conduct   of  Board
+Meetings and the Transaction of County Business.             Sections 4.01 and
+4.03 of Ordinance     353 provide,    in material part,       as follows:
+
+      "4.01                 Decisions of      the   Board     shall     be   made        by    vote   on
+      a motion            of a member.
+
+      "4.03          If   a tie     vote    results,       the    item     voted   upon
+      shall   be      continued       to   the   next       regularly        scheduled
+      meeting    of     the    same    type.        o    8         The    continuance
+      provided      for     in   this    section      shall     be     only    for  the
+      purpose    of     discussion       and   vote     by    the    Board     and  the
+      presentation of further evidence or public comment shall
+      not    be         allowed."
+
+E.    On   October   6,    1993,   the   Board  met    in     regular     session.
+Commissioner Lopuszynski stated that he had reviewed the record of
+the  proceedings    and was     prepared   to vote   on the      application     as
+extended.      A vote   on    the  motion    to grant     the    application     as
+extended then took place, with Commissioners Owens and Lopuszynski
+voting   for the motion and Commissioner        Goecks voting         against   the
+motion.     Staff was directed to prepare        an ordinance       to implement
+the Board’s preliminary oral decision.
+
+F.    On December 6, 1993 the city adopted its ordinance implement-
+ing its decision to allow the application for the UGB amendment,          as
+extended,    less  the  inclusion   of Tax  Lot  3207-1000,   a 17.9   acre
+parcel    identified    in  the   proceedings   as   the  “park   district
+property."     The city directed that the NUAMC reconsider whether to
+include     Tax     Lot     3207-1000    within       the    UGB.     The    Board        takes       official
+notice of the adoption of the city’s ordinance and elects to delete
+Tax Lot   3207-1000   from this plan amendment   in order to adopt   an
+ordinance   consistent with the decision of the city.     This  county
+ordinance constitutes     the county’s final decision on the applica-
+tion as extended.
+
+G.    The findings and conclusions attached hereto as Exhibit   "A" is
+by this reference   incorporated herein.   The attached Exhibits    "A"
+demonstrates   that the proposed  amendments   to the  Yamhill County
+Comprehensive Plan Map are in the                      best    interests           of    the    citizens          of
+Yamhill County.   NOW THEREFORE,
+
+                                                                                                ORDINANCE     559
+                                                                                                           Page        |2
+THE    YAMHILL      COUNTY     BOARD     OF       COMMISSIONERS              ORDAINS           as    follows:
+
+         Section     1.        The     Yamhill        County         Comprehensive                   Plan    Map      is
+hereby   amended   to  reflect   a plan  map   designation   of   "Future
+Urbanizable" for the approximate 33.6 acres identified as Tax Lots
+3207-3700,   3207-3701,   3207-3702,  3207-3703   and 3218AB-900.     The
+purpose   of the  amendment                  is to allow an expansion     of                            the urban
+growth   boundary   of  the                  City  of  Newberg onto   the                              identified
+properties.
+
+      Section    2.    The  Yamhill  County   Comprehensive  Plan Map   is
+hereby   amended    to   reflect   a plan   map  designation   of “Future
+Urbanizable"    for the approximate 12.7 acres identified as Tax Lots
+3207-3400,    3207-3500 and 3207-3600.      The purpose of the amendment
+is to allow an expansion of the urban growth boundary of the City
+of Newberg onto the identified properties.
+
+         Section     3.    The       findings attached               as Exhibit               "A" is incorpo-
+rated     herein     by   this       reference and is                adopted in               support of this
+ordinance.          Exhibit      "B"    is    a    map    showing            the    location           of    the    tax
+lots     identified       in   Sections           1 and    2.
+
+      Section 4.   All sections,   subsections  and paragraphs of this
+ordinance   are severable.   If any section,   subsection or paragraph
+is ruled invalid    for any reason by the court of last resort,     the
+other portions of this ordinance shall be unaffected.
+
+      Section        5.   This    ordinance   being   necessary                               for  the       health,
+safety,   and       welfare    of   the  citizens   of   Yamhill                               County,        and  an
+emergency      having     been       declaredto exist,                 is     effective             upon    passage.
+
+        DONE   at   McMinnville,             Oregon       this      8th      day     of       December,       1993.
+
+ATTEST                                   YAMHILL          COUNTY           BOARD     OF       COMMISSIONERS
+
+                                             Dt. Oren
+                                                  =
+                                         Chairman                          DEBI     OWENS
+
+                                         Commissioner                      DENNIS        L.    GOECKS
+
+                                               Lal
+                                                LF ovary o ah:
+                                         Commissioner                 GED          LOPUSZYNSKI
+
+                                                                Accepted    by Yamhill    County                       |
+                                                                Board of Commissioners on
+                                                                  /2.-8-93          by Board Ordet
+                                                                aS         Sak                        ORDINANCE      559
+                                                                 473-870 |                                         Page3
+                                                   EXHIBIT "A" - Findings for Approval
+                                                                     ORDINANCE            559
+
+DATE     OF        BOARD
+HEARING:                           October          6,       1993
+
+DATE OF FINAL
+ADOPTION:                          December             8,     1993
+
+COUNTY         PLANNING
+DOCKET:                            PA-1-93
+
+REQUEST:                           Request to expand the urban growth boundary to include 33.5
+                                   acres on the northwest side of Newberg with related plan text
+                                   amendments addressing land supply.  In addition, the applicant
+                                   has  requested  a policy  amendment  to allow   use of on-site
+                                   sewage disposal for residential use in the City.     City staff
+                                   proposed inclusion of an additional 30.6 acres north of the
+                                   proposed area adjacent to the Crater Lane School site.    About
+                                   17.9      acres            (Tax    Lot        3207-1000)         was     deleted          from       city    staff's
+                                   recommendation   when                             the   City           adopted            its        implementing
+                                   ordinance on December                             6, 1993.
+
+TAX     LOT:                       APPLICANT:                  3207-3700,             -3701,       ~3702,        ~3703;       3218AB-900
+
+                                   STAFF          ADDITION           FOR        REVIEW:         3207-1000,           -3400,        -3500,       -3600
+
+                                   CITY      AND        COUNTY        DELETION            FROM     FINAL        ORDINANCE:              3207-1000
+
+CRITERIA:                          Newberg Urban Area Growth                               Management Agreement - Section VII;
+                                   Statewide Planning Goals;                                Yamhill County Comprehensive Plan
+
+APPLICANT:                         F.    &   C.     Anzalone,              R.    &   K.    Manning,        P.    Bakke,       A.    &    V.    Sessions
+
+YAMHILL COUNTY
+COMP PLAN:                         “Very          Low    Density           Residential"             to     "Future         Urbanizable"
+
+LOCATION:                          3201      Crater            Lane,        2408      Chehalem           Drive,       2310     Chehalem          Drive,
+                                   Newberg,             Oregon
+
+BACKGROUND:
+
+          On June          10,   1993,       the        Newberg        Urban         Area       Management           Commission          neciommendipil
+denial        of     a   request        to. amend            the     urban       growth         boundary        on   the     northwest          portion
+of Newberg.  The amendment would place about 64 acres of residential land inside
+the urban growth boundary.     The proposed urban growth boundary amendment was
+initiated by residents   in order to receive city water   service.   Because the
+proposed amendment creates an irregular UGB, and to facilitate the provision of
+sewer to the subject site and the proposed Crater Lane School site, the tax lots
+between the school site and the subject site have also been included in this
+request.
+       Current City policy does not allow development of new single- family homes
+on septic systems.    All new residential development in the City is required to
+hook to City services.      The applicants are requesting that  a City policy be
+developed to allow septic systems on existing lots of record.  To accomplish this
+policy change,   a new public facilities policy would need to be adopted by the
+city.
+                                                                                |
+       The Newberg Urban Area Management Commission   (NUAMC) denied this request
+at their June 15, 1993 meeting by a 5-0 vote.       Gnomic voiced concerns  about
+allowing new single-family homes to have septic systems and did not feel thatia
+need for LDR land was adequately shown.    On October 6, 1993 a majority of the
+
+                                                                                     Exhibit        "A"         -  Findings for Approval
+                                                                                                                Ordinance 559   - Page 1
+                                                                                           |
+Board voted                to approved the amendment.   On December 6, 1993 the City Council
+adopted its                enabling ordinance.   The city’s ordinance approved the amendment
+except         for       Tax       Lot     3207-1000,           a    17.9     acre     parcel         referred       to        throughout        the
+proceedings as the “park district property".   Consideration of the inclusion of
+Tax Lot 3207-1000 was remanded by the City to the NUMAC.  On December 8, 1993 the
+county adopted its ordinance.   The county’s ordinance also deleted Tax Lot 3207-
+1000  from the request and remanded the consideration  of that tax lot to NUMAC.
+The total amount of acres affected by this ordinance thus was reduced from about
+64.2     to     about            46.3.
+
+PROCESS:
+          The Newberg Urban Area Growth Management Agreement sets forth the criteria
+and    process for urban growth boundary amendments.   Section VII-1 of the agreement
+reads     as        follows:                                                                                                                       |
+                                                                                                                                                   |
+          Following the public hearing, the NUAMC shall make and forward its                                                                       |
+          findings   and  decision directly to  the  governing body  of each                                                                       |
+          jurisdiction which shall then make a determination based upon the                                                                        |
+          facts  and record presented at the NUAMC hearing and shall not be                                                                         |
+          required to hold a public hearing thereon.                                                                                                |
+                                                                                                                                                       |
+
+          Nothing included in this process requires or prohibits the City or                                                                        |
+          County from referring   the application to its respective Planning
+          Commissions for information.
+
+          If the governing bodies                         do not           concur     in their final decision within
+          sixty days of referral                          of the           matter      to them by the NUAMC, a joint
+          meeting              shall       be    held    to    resolve            differences.          If   agreement            cannot
+          be reached,                  procedures for                resolution         of     conflict       provided            within
+          ORS 197.300                  may be invoked.
+
+FINDINGS         FOR        APPROVAL:
+
+I.        SUMMARY
+
+       Four  property owners  requested expansion  of the existing  urban growth
+boundary to include their properties.   The acreage is located north of Columbia
+Dr. between Crater Lane and Chehalem Drive and abuts the existing urban growth
+boundary.   Most of the acreage also abuts the current City limits along Crater
+Lane.         The        application             notes    that        projected        housing        needs    for        the     City     are    not
+being met due to the unavailability of the Austin and Werth properties.        The
+application also notes that public facilities and services can be provided when
+development of Prospect Park II occurs.    Prospect Park II, a subdivision within
+the City adjacent to the subject site, has received preliminary plat approval and
+construction is scheduled for later this year.
+
+       Following                    analysis   of  the                  request,  staff  proposed  inclusion  of an
+additional 30.6                    acres to the north                 of the proposed UGB amendment (see Site Map -
+Reference            1).         The     additional       property           is    adjacent     to    the    Crater       Lane         School    site
+and includes property identified by the Park District for future park use.     The
+City has directed that the NUAMC reconsider whether to add this 17.9 acre parcel
+(Tax Lot 3207-1000) to the UGB.  The implementing ordinance adopted by the county
+does not change the plan designation of Tax Lot 3207-1000,    so this action will
+not     allow        a     UGB     expansion        onto       Tax     Lot        3207-1000.
+                                                                                                                                                           |
+it.       URBAN            GROWTH         BOUNDARY       AND        COMPREHENSIVE            PLAN    AMENDMENT        CRITERIA                             |
+                                                                                                                                                           |
+          A.               Urban       Area      Growth       Management            Agreement        Criteria
+
+          The        Newberg             Urban    Area    Growth           Management         Agreement       (UGMA)            sets     forth    the
+          procedure                and     criteria       for        UGB    amendments.             Section    VII        of     the     agreement
+
+                                                                                    Exhibit     "A"      —-— Findings for Approval
+                                                                                                         Ordinance 559   -— Page 2
+              states     that         decisions          shall     be     based    on     the     following                   factors:
+
+              1.        Demonstrated               need to accommodate long-range                                urban         population         growth
+                        requirements               consistent with LCDC goals.
+
+              2s        Need         for    housing,       employment         opportunities,                      and         livability.
+
+              3.        Orderly            and   economic        provision          for     public           facilities                and     service
+
+              4.        Maximum efficiency of                       land     uses         within           and      on        the     fringe      of   the
+                        existing urban area.
+
+              Bis       Environmental,                 energy,      economic         and     social              consequences.
+
+              6.        Retention of agricultural  land                              as defined, with Class                                 I being the
+                        highest priority for retention                              and Class VI the lowest                                 priority. |
+
+              7.        Compatibility               of    the      proposed        urban        uses        with         nearby             agricultural
+                        activities.
+
+              B.        Statewide            Planning       Goals
+
+              The proposal  must be consistent with the Statewide    Planning Goal 14 -
+              Urbanization,  other LCDC Statewide Planning goals, and address exception
+              criteria of OAR 660, Division 4, if appropriate.
+
+III.          FACTS
+
+A.            The  applicant's   property   consists   of                                 5 tax            lots          (7   lots   of   record)
+              totalling   approximately   33.6  acres.                                    These        5     tax          lots   are    described
+              further below:
+
+        Tax    Lot        Acreage                                   Use                                                             Owner
+
+      3218AB-900               4.3           single family residence,             filbert                  Manning,    R. & K.
+      3207-3700                9.8           orchard                                                       Bakke,   P.
+      3207-3701                4.9           filbert orchard                                               Sessions, A. & V.
+      3207-3702                4.9           filbert orchard                                               Anzalone.     F. & C.
+      3207-3703                9.9           filbert     orchard                                           Bakke,        P.                               i
+                                             filbert     orchard                                                                                          i
+
+B.            The applicants propose inclusion into the urban growth boundary to allow
+              for  annexation  to the City of Newberg     in order  to obtain City water
+              service.   In addition, the Manning property is expected to be subdivided
+              following annexation.    The 4.3 acre Manning property, tax lot 3218AB-900
+              and the southern portion of tax lot -3703 (approx. 5.2 acres) are proposed
+              for MDR designation.   The properties are located adjacent to the proposed
+              extension of Mountainview Drive west to Chehalem Drive.
+
+Cc.           The     owners         of    three    tax     lots,         3207-3400,            -3500        and         ~-3600,        did     not    join
+              with the other applicants in this application for an urban growth boundary
+              amendment.      These tax lots are located between the subject site and the
+              school site to the north.       In addition, the owner of tax lot -1000 to the
+              north   of  the    school site   was  approached but  chose  not   to  apply  for
+              inclusion   in the urban growth boundary at this time.         Tax lot -1000 is
+              currently being studied by the Chehalem Park and Recreation District for
+              development as a district park providing adult ballfields           and a senior
+              center.    Development of the senior center will require inclusion in the
+              urban growth boundary.       These four tax lots are described further below:
+
+                                                                                  Exhibit        “A"         -  Findings for Approval
+                                                                                                             Ordinance 559   -— Page 3
+       Tax    Lot          Acreage                            Use                                              Owner
+
+     3207-1000              17.9       crop   land                                            Crater,   A.
+     3207-3400               9.0       single    family     residence                         Reid, R. & Re
+     3207-3500                1.9      single    family     residence                         Pratt, D. & C.
+     3207-3600                1.9      single    family     residence,      orchard,          Crater, A.
+                                       barn
+
+D.           The parcels abut Chehalem Drive on the west and Crater Lane on the east.
+             Chehalem Drive is designated as a county arterial and Crater Lane    is a
+             local road under County jurisdiction. Both Chehalem Drive and Crater Lane
+             have 40 ft. rights-of-way.
+
+             The     surrounding        conditions          are     as    follows:
+
+             North:                 Rural residential VLDR land in agricultural use.
+             Souths                 Single family rural residential designated VLDR.
+             East:                  LDR  single  family residential and  vacant  land,  primarily
+                                    within the City limits.
+             West:                  Single family rural residential and agricultural use.
+
+             In May of 1993, the Newberg Planning Commission granted an extension for
+             the approval of Prospect Park II, a 15 lot subdivision between Main and
+             Chehalem.    Prospect  Park  II will be located    south    of an extension    of
+             Mountainview   Drive  on Tax   Lot  3218AB-500  (see   site    map).    With the
+             development of Prospect Park II in the summer of 1993,           water and sewer
+             services shall be extended to Crater Lane adjacent to a portion of the
+             site.                                                                           |
+
+             The     Comprehensive        Plan       includes       the    following         future     mix    of   housing   types
+             in     the    City:                                                                                                  |
+
+             Single Family                            45%
+             Multiple Family                          35%
+             Manufactured Housing                     20%
+
+             Need.
+
+             A.           Facts.
+
+             lie          Land in the City of Newberg is building out at lower than planned
+                          densities in the R-2 and R-3 zones.  The buildout densities planned
+                          for in the Transportation System Plan are 4.4 du/acre for R-1; 6:5
+                          du/acre  for R-2 and             15.6    du/acre for R-3 zones.                     The   Comprehensive
+                          Plan needs analysis             uses    the maximum densities of                    4.4   du/acres,  8.8
+                          du/acre and 21.8 du/acre for R-1, R-2 and R-3 zones, respectively.
+                          This revised needs analysis is based on the densities used in the
+                          Transportation        System Plan.  Because densities  are lower,  more                              land
+                          will be needed        than anticipated  in the R-2 and R-3  zones.
+
+             2.           There are      several  public             and quasi-public             institutions which own
+                          buildable     R-1 land.    This             land will not be            available for housing.
+                          Thus,  vacant R-1 land held by public    and quasi-public                                    institutions
+                          has been eliminated   from the buildable    land pool.
+
+             3.           Since the inventory of buildable  land was updated                                     in February of
+                          1992, 17 acres of that land have been built upon.                                     Hence,  this can
+                          be eliminated from the buildable land pool.
+
+             4.           The  buildable  land  calculation  has  been reexamined  and  a more
+                          realistic calculation has been conducted.    The calculation in the
+                          Comprehensive Plan was based on an assumption that additional units
+                          will be provided on lots over 15,000 sq. ft. in all three zones.   In
+
+                                                                           Exhibit     "A"      -  Findings for Approval
+                                                                                                Ordinance 559  -  Page 4
+            most cases, the placement of existing structures makes it impossible
+            for many 15,000 sq. ft. lots to partition.    Newberg has a history of
+            large lots with homes built in the middle of them, preventing the
+            lots from being partitioned without demolishing the house.       Hence,
+            the assumption has been changed, to assume that lots 20,000+ sq. ft.
+            have enough room to partition,    but lots under 20,000 sq.   ft. will
+            probably remain in large parcels.    Therefore, all lots under 20,000
+            sq. ft. were not considered buildable lots for calculations in all
+            three residential zones.
+
+B.          Calculation             of    need     for R-1/LDR
+
+1.          A    revised       buildable           lands        calculation            yields
+            buildable            land     in     lots     over    20,000        sq.     ft                    715        acres
+
+26          Subtract          the calculated               need       for R-1/LDR            land,
+            based        on   a density           of    4.4     du/acres:                     -           626           acres
+
+3.          The    surplus          R-1/LDR        acreage        in the       UGB:                           89        acres
+4,          Subtract          the      land      in public/quasi-public
+            ownership:                                                                        -               53        acres
+
+Sx          The        surplus      R-1/LDR        acreage        in    the    UGB:                           36        acres
+
+6.          Subtract          the      R-1/LDR         land     which    has     been        built
+            upon since the                Comprehensive Plan                  inventory
+            was calculated                (February 1992):                                                -                17     acres
+Tew         The    surplus          R-1/LDR        acreage        in    the    UGB:                           19        acres
+
+8.          The    deficit          of    R-2/MDR         and    R-3/HDR        land
+            based on densities                    used     in    the    Transportation
+            Systems Plan:                                                                                 101           acres
+
+c..         Conclusion            on     need.
+
+            There is a deficit of 101 acres of R-2/MDR and R-3/HDR land in the
+            UGB.    The 19 acres of R-1/LDR   land are not enough to providing
+            rezonings which will meet the deficit of higher density land. It is
+            imperative           that      the     City       provide     enough            R-2/MDR       and       R-3/HDR           land   to
+            meet the need calculated in the Comprehensive Plan.                                                     A    surplus        of   R-
+            1/LDR land provides opportunities for rezoning.
+
+In    the       City     of   Newberg,           two    property        owners         (the       Werth       family            and   Austin
+Industries)              control 314 of buildable R-1 land and 134                                        acres of buildable
+R-2 land as              identified in the Newberg Lands Inventory                                        June 1, 1993.
+
+The    availability              of      utilities         is    as    follows:
+
+Sewer:                              Sewer is not presently available to the properties at
+                                    this time.    A sewer  line  is planned to come up Lynn
+                                    Drive and Crater Lane at the time of the development of
+                                    the Garden   Grove  Subdivision  on tax  lot 3218AB-700.
+                                    This line will serve tax lots 3218AB-900 and 3207-3703.
+                                    A sewer pump station can be provided in a location near
+                                    the southwest corner of tax lot 3218AB-3202     to serve
+                                    land north of tax lot -3703.
+
+Water:                              Water service is planned to be available on Crater Lane
+                                    by the fall of 1993 through construction of the Prospect
+                                    Park II subdivision.    Water service can be provided to
+                                    the subject properties as part of a local improvement
+
+                                                                      Exhibit         "A"     -  Findings for Approval
+                                                                                              Ordinance 559  -  Page 5
+                                           district to construct a water line                                    on    Crater        Lane     across
+                                           the frontage of the properties.
+
+            Storm    Sewer:                A         drainage       ditch        crosses        tax       lot         ~3700        from     east      to
+                                           west.            Storm        systems       will    be     channelled              to     the     ditch,
+
+K.          The site generally slopes toward                              a drainage ditch which                        bisects tax lot|-
+            3700 in an east-west direction.                               No identified wetlands                        exist on the site
+            (see Reference 2).                                                                                                          i
+
+L.          The site consists primarily of WuB Woodburn silt loam soils with We Wapato
+            silty clay soils in the vicinity of the drainage ditch.    Woodburn soils
+            are identified as Class II soils by the SCS; Wapato soils are identified
+            as Class III.
+
+M.          Tax Lot 3207-1001 is an 18.6 acre site owned by the School District.          This
+            site   is intended to be developed     as an elementary   school   site.      With
+            passage of the school bond measure in May, plans are being developed for
+            construction of the school.     Two options are available for the provision
+            of sewer to the school site.    An individual pump providing service solely
+            to the school can be constructed so that waste water is pumped from the
+            school    site to the trunk  line that extends    north  from Main    Street     to
+            Foothills     Drive.  As  an  alternative,   a public   pump   station    can    be
+            constructed near the southwest corner of tax lot -3702 so that the subject
+            site,   in addition to the school site, can be served by sewer.        This pump
+            station will be financed through a local improvement district affecting
+            all    the    properties            in    the     subject       area.
+                                                                                                                                                          |
+            Water    service        can    be        provided       to    the     school      site        from        Foothills            Drive.         'A
+            second       connection        from        Crater       Lane        will    allow       the     system        to       be     looped.     |
+                                                                                                                                                          |
+Iv.         ANALYSIS                                                                                                                                      |
+
+       The proposed urban growth boundary amendment was primarily        initiated by
+Charlotte Anzalone in order to receive City water service for construction of a
+single   family  home  on a 5 acre tract.      Ms. Anzalone   worked  with the other
+applicants to compile the urban growth boundary application.      Ms. Antonia Crater,
+the owner of property to the north of the site adjacent to the school site, was
+approached by Don Clements of the Park District regarding participation in the
+proposed application.     Ms. Crater chose not to participate at this time although
+the Park District has an active proposal to purchase the Crater property north
+of the    school  site  for  development  of  a district  park   accommodating   adult
+ballfields and a senior center.
+
+       The proposed amendment creates an irregular UGB, especially in the vicinity
+of the   school  site.   The school  site abuts Chehalem Drive   and the proposed
+amendment would abut Chehalem Drive, but intervening properties would also leave
+a gap of rural land between the school site and the subject site.     To provide a
+more logical boundary that would facilitate the provision of sewer to the subject
+site       and    school,     the    tax        lots     in    between          the    school       and     subject           site         should     be
+included in the             UGB amendment.   Additionally, the 17.9 acre parcel north of the
+school which is              being planned by the Park District for park use should not be
+included in the             UGB without a reconsideration by NUAMC.    With these changes, an
+additional 12.7             acres is be included in the request.  This expanded UGB amendment
+proposal better             satisfies UGB policy F by better utilizing road rights-of-way as
+a    UGB    boundary.
+
+       Currently,   City policy does not allow development    of new single family
+homes on septic systems.    All new residential development is required to hook to
+City services.    Ms. Anzalone is requesting that a City policy be developed to
+allow septic systems on existing lots of record such as the subject properties.
+To accomplish this policy change,      a new urbanization policy would need to be
+adopted by the City.    To protect future urbanization of land where interim rural
+
+                                                                                Exhibit       "A"      -  Findings for Approval
+                                                                                                       Ordinance 559  -  Pagej6
+levels of development,  new policies should be enacted by the City.                                                                            The City
+Development Team has drafted policies that would protect development                                                                         potential.
+These   policies   were   adopted           by        ordinance             by     the           City        on     December           6,     1993.
+
+VI.     CONCLUSIONARY     FINDINGS               -—   PLAN         AMENDMENT                TO    ALLOW            EXPANSION           TO    UGB
+
+A.      Urban   Area   Growth     Management                     Agreement              Criteria
+
+        Criteria   1    Demonstrated need to accommodate long-range urban                                                                    population
+                        growth requirements consistent with LCDC goals.
+
+        Criteria   2    Need     for       housing,                employment                opportunities,                     and     livability
+
+                        Factors        1     and        2        state     that         a        need        for     the    amendment               must    be
+                        demonstrated.                       As     amended         by       staff,           the     UGB        amendment           results
+                        in the addition of 64.2 acres of land being added to the UGB.
+                        Approximately 17.9 acres are proposed as park land adjacent to
+                        the proposed   Crater Lane   school   site.    The  Park   District
+                        intends  to use this   property   for   adult  ball  fields.     The
+                        remaining 46.3 acres are proposed      for residential use with
+                        36.8 acres proposed for LDR and 9.5 acres proposed for MDR.
+                        The need to accommodate    long-range    urban population    growth
+                        requirements are addressed through the comprehensive plan and
+                        identified in Tables IvV-4 and IvV-5 of the projected housing
+                        needs;         however,                  these          needs            are       not      being        met         due     to    the
+                        unavailability of the Austin and Werth property.   This creates
+                        a shortage of available land.   The supply and demand analysis
+                        indicates            981        acres         of        buildable                land        will       be     needed         within
+                        the    UGB     through               the     year        2000.            With        the    unavailability                   of   the
+                        Austin       and Werth land,  314.2                                  acres           of LDR land and 134 acres
+                        of MDR       land are unavailable.                                    This           creates a shortage of 193
+                        acres     of       buildable                LDR     land        and        a shortage              of    125        acres     of   MDR
+                        land    within            the        UGB.         The    proposed                UGB       amendment           helps        address
+                        this     shortage.
+
+        Criteria   3    Orderly            and        economic              provision                   for         public           facilities            and
+                        service.
+
+                        Orderly  and  economic  provision  of  public    facilities and
+                        services is accomplished with the development of Prospect Park
+                        II this summer and the future development of the Crater Lane
+                        school site.   Water services will be brought to Crater Lane
+                        with the development of Prospect Park II.     Water can then be
+                        extended to the subject properties.    The site drains to the
+                        west and only the southern portion can be served by gravity
+                        sewer along Crater Lane.    Development of the school creates
+                        the opportunity  for construction of a sewage pump station to
+                        serve the northern portion of the site.                     |
+
+        Criteria   4   Maximum         efficiency                    of    land         uses           within         and       on     the     fringe       of
+                        the     existing              urban         area.                                                                                    i
+                                                                                       |
+                        Development within the UGB provides for maximum efficiency of
+                        land uses rather than allowing this area to develop in a rural
+                        residential   pattern in the county.    The more   intense urban
+                        pattern of development will better utilize costly streets and
+                        utilities   that  must be  improved  to  serve the   Crater Lane
+                        school site.
+
+        Criteria   5    Environmental,                      energy,         economic                   and       social         consequences.
+                                                                                                                                                             |
+                        The  site    consists                        primarily                   of    a       filbert           orchardno          with
+                        unique    features.                          The  trees                    are        old   and          are   in
+                                                                                                                                        of          need
+                                                                                                                                         ii
+                                                                            Exhibit                "A"           -  Findings for Approval
+                                                                                                                 Ordinance 559  -  Page.7
+                  replacement         for        a continued     harvest.
+
+                  Inclusion in the               UGB benefits the local economy by adding to
+                  the inventory of               available buildable land within the City.
+
+                  There are     no inventoried historical sites                             on     the    property        and
+                  no social     impacts from the UGB amendment.
+
+Criteria    6     Retention of agricultural                  land as defined, with Class I being
+                  the highest priority for                   retention  and Class VI the lowest
+                  priority.
+
+                  Although     the      site        consists     of     Class     II        and     III         soils,    the
+                  issue of agricultural preservation does not apply because this
+                  area is classified as VLDR on the county comprehensive plan
+                  and allows rural residential development.    With adoption of
+                  the county plan, an exception was granted to state wide
+
+                  Planning goals 3 and 4.  If the land                           remains           outside        the    UGB,
+                  agricultural land is not protected.
+
+Criteria    7     Compatibility  of   the  proposed                            urban        uses          with       nearby
+                  agricultural activities.
+
+                  This   surrounding                area  cannot be   classified                           as     strictly
+                  agricultural.    It              is rural residential due to                           the     many VLDR
+                  lots   and   homes        on    Chehalem     Drive.         Chehalem       Drive         also     creates
+                  a   buffer   from     agricultural            use     further        to    the     west.
+
+Statewide       Planning   Goals/Exceptions
+
+The proposal must be consistent    with the Statewide  Planning                                                  Goal  14 -
+Urbanization,  other LCDC Statewide Planning goals, and address                                                   exception
+eriteria of OAR 660, Division 4, if appropriate.
+
+Goal   2
+
+Exceptions to statewide planning goals are not required by this request
+because the site was granted an exception to agricultural     and resource
+goals  at the time the County comprehensive plan was acknowledged.       As
+noted previously, the area is designated for very low density residential
+VLDR use on the County comprehensive plan.  This designation by the county
+required the exception to agricultural goals.
+
+Goal _ 10
+
+Goal 10, the housing goal, is satisfied by the request in that additional
+land is available for housing opportunities in the community.    Currently
+the land supply is constrained by the fact that over 400 acres of land are
+not available for development and are being held by two separate property
+owners.   With the addition of 46.3 acres of residential property,     more
+land will be available for development.
+
+Goal _ 11
+
+Goal 11 is satisfied through the ability to serve the property with public
+facilities.   Water service is a available   from Crater Lane and a sewer
+pump station will need to be provided in the area to serve the school site
+and the subject site.
+
+Goal   12                                                                                                                   |
+
+                                                        Exhibit         "A"     -  Findings for Approval
+                                                                                Ordinance 559  -  Page.8
+        Goal 12 is currently being addressed by the City through the adoption of
+        the City’s transportation        system plan.     This   area of the City   is well
+        served     by   collector   streets   and  Chehalem    Drive,  which   is  a county
+        arterial.      The area is served by extensions of Mountainview and Foothills.
+        Both   are    identified  as collector    streets   in the City’s    transportation
+        plan.
+
+        Goal    14
+
+        Statewide Planning Goal 14 is satisfied through the request by compliance
+        with the UGB amendment criteria outlined in A above.     The criteria set
+        forth in the urban growth management agreement with the county includes
+        the same 7 factors that must be addressed to satisfy goal 14.
+
+        YAMHILL      COUNTY     COMPREHENSIVE    PLAN    POLICIES
+
+        Le       The   Yamhill     County   Comprehensive           Plan     Goals          and    Policies,            Section
+        I.A,    “Urban    Area    Development,"       contains        policies             regarding        urban        growth
+        that are aspirational,  but none that provide review criteria.                                              The Plan
+        policies in this section that staff has identified as relevant                                             are under
+        Goal 3, and include the following:                                                                                 :
+
+        (a)      Yamhill   County     will  continue   to recognize      that  the   appropriate
+                 location   of    medium-density     residential    development    is   in   areas
+                 having   a full     range   of  urban   services   and   amenities    within    or
+                 immediately     adjacent    to central    business    districts;    immediately
+                 adjacent   to public      traffic   generators,    such    as schools,    parks,
+                 hospitals,    and regional     or neighborhood      shopping   centers;    or   in
+                 selected small areas having unique scenic qualities and a location
+                 where community water  supply             and sewage-disposal                         systems,   adequate
+                 access by way  of  a road  of             collector or  higher                         status  and  other
+                 urban services necessary to            meet    the    needs          of   the    intended         residents
+                 can and will be provided.
+
+        (b)      Yamhill County       will continue to recognize the                         appropriate               location
+                 of low-density       residential development   is in                        areas where               adequate
+                 access   and    services   to   satisfy      the   scale        of    ultimate          development        can
+                 and will be provided.     Such areas would generally be within,    or
+                 contiguous with, existing urban centers, but may also be in selected
+                 small areas having unique scenic qualities or, where the need may be
+                 demonstrated,   in selected   outlying areas of varying  size having
+                 appropriate       site   qualities     and    other       supporting             services.                     |
+
+        2s     Regarding Policy (a) above, a portion of the request includes land
+        to be designated medium-density residential.     The property is not adjacent
+        to the central business district or other traffic generators, and although
+        it is not far from a proposed     school,  there is low-density designation
+        proposed for land between.   The proposed MDR land is adjacent to a planned
+        extension   of Mountainview Drive,   which is shown as a collector     on the
+        Newberg  Transportation System Plan.     Regarding the element  of the policy
+        that  requires  urban   services  be provided,  the issue  in this  case is'a
+        matter of timing.    Sewer service apparently can be provided to the area at
+        some unspecified   future time,   but it is not available now.
+
+        3.     Staff has not identified any issues relating to Policy                                              (b)   above
+        that  would  indicate a problem  with  the request  except  the                                             same   one
+        identified above regarding the timing of public sewer service.
+
+VIII.   CONCLUSION
+
+Based on      the criteria,   facts, and         conclusionary findings,                         the     Board     concludes
+that the      application,  as extended,          should be approved.
+
+                                                           Exhibit         "A"        -     Findings         for       Approval
+                                                                                      Ordinance           559      -     Page       9
+          Description:                      Tax Lots: 3207-3700,
+          UGB Amendment/Comp.   EXHIBIT B   -3701 ,-3702,-   3703;
+          Plan Text and Map     SITE MAP    3218AB-900; 3207-
+          Amendment                         -3400,-3500, -3600
+          File: UGB-1-93                    Location: Between Crater
+          Date: 6-6-93                      Lane and Chehalem Drive
+                                            Application By:
+                                              Anzalone, Manning
+                                              Bakke, Sessions
+Exhibit     "B"
+Ordinance         559
+            IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                 FOR THE COUNTY OF YAMHILL
+
+                 SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of an Order Terminating
+Proceedings to Reconsider a Prior
+Decision to Authorize an Amendment
+to the City of Newberg's Urban Growth                  BOARD ORDER 96- 606
+Boundary; Ordinance 559; Roth v.
+Yamhill County and City of Newberg,
+LUBA Nos. 93-222 and 93-223.
+
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON ("the Board") sat
+for the transaction of county business on September 11, 1996, commissioners Robert Johnstone,
+Thomas E. E. Bunn and Dennis L. Goecks being present.
+
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A.      On December 8, 1993 the Board adopted Ordinance 559, two days after the City of
+Newberg adopted its Ordinance 93-2365 on December 6, 1993. The ordinances were adopted
+under the procedure required by the Newberg Urban Area Management Agreement to allow an
+expansion of the urban growth boundary (UGB) of the City of Newberg. Under the ordinances,
+the following tax lots were included within the expanded UGB: 3207-3700, 3207-3701, 3207-
+3703, 3207-3400, 3207-3500, 3207-3600 and 3218AB.
+
+B.      Yamhill County Ordinance 559 and City of Newberg Ordinance 93-2365 were thereafter
+appealed to the Land Use Board Of Appeals (LUBA) by William Roth, an owner of property
+adjoining the parcels affected by the two ordinances. The appeals, identified as LUBA Nos. 93-
+222 (Ordinance 559) and 93-223 (Ordinance 93-2365), were later consolidated by LUBA into a
+single land use proceeding.
+
+C;      Following a stipulated delay to allow the parties to attempt to resolve the matter short of a
+final LUBA decision, the appeal was reactivated in 1996 and petitioner was directed to submit a
+brief in anticipation of oral argument. Both the city and the county declined to participate further
+in the appeal. Notice of the resurrection of the appeal was provided to owners of property
+affected by the UGB amendment.        Although at least one party retained legal counsel, no
+responsive brief was filed to petitioner's brief.
+
+Dz.    On May 20, 1996, LUBA issued a Final Opinion and Order invalidating Ordinances 559
+and 93-2365 and remanding the matter to the city and county for further proceedings.
+
+E;      On August 5, 1996 the City of Newberg held a public hearing to consider whether to take
+further action on the proposed UGB expansion after LUBA's invalidation of the two ordinances.
+
+                                                                                 BOARD ORDER 96- G06
+                                                                                               Page 1
+By resolution 96-1986, the city made the following determination:
+
+          ua      After review of the record, the City Council finds that there is not enough
+          evidence in the record to support a finding that there is a need to include these
+          parcels in the Urban Growth Boundary (UGB) in order to meet the need for
+          residential development for the City of Newberg.     When considering the entire
+          record, there has not been substantial evidence presented to the support the need
+          for these parcels to be included within the UGB.
+
+          "2.   Based upon the evidence and record, the request for the amendment to the
+          UGB as proposed is hereby denied."
+
+ F.       In order for the county to effectively take action to expand the city of Newberg's UGB,
+the city must first take independent action to authorize the expansion. Based on LUBA's         Final
+Opinion and Order in LUBA Nos. 93-222 and 93-223, and based on the city's determination in its
+Resolution 96-1986, a further determination by the county to allow expansion of the city's UGB
+would be irrelevant and inoperable.     NOW, THEREFORE,
+
+IT IS HEREBY ORDERED BY THE BOARD AS FOLLOWS:
+
+1.      All proceedings to reconsider Ordinance 559 are hereby terminated based on the May 20,
+1996 Final Opinion and Order in LUBA Nos. 93-222 and 93-223 and the August 5, 1996
+Resolution 96-1986 of the City of Newberg.
+
+2,        Based on the Final Opinion and Order in LUBA Nos. 93-222 and 93-223, Ordinance 559
+shall be given no further force or effect.
+
+DONE at McMinnville, Oregon on September 11, 1996.
+
+                                         YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                              Blut
+                                                Oph uiteeo
+                                         ROBERT JOHNGTDPNE, Chairman
+
+     ys                                   Tega                  CL.     Bu
+Depyff JAN NIE MITCHELL                  THOMAS E. E. BUNN, Commissioner
+
+FORM APPROVED BY:                            2                          Mab
+
+JOHN                  KS                 DENNIS L. GOECKS, Commissioner
+Yamhill ¢ unty “Teme
+
+                                                                                  BOARD ORDER 96- 606
+                                                                                                 Page 2
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.9% of
+the word sequence, and on 86.3% of the figures. Dictionary-recognizable words: 93.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

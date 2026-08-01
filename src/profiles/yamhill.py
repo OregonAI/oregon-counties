@@ -64,27 +64,21 @@ PROFILE = {
     "families": {
         "code": {"listing_url": "https://www.yamhillcounty.gov/1127/Yamhill-County-Code",
                  "link_re": _DC, "format": "pdf"},
-        # MEASURED AND SKIPPED. Yamhill publishes its adopted ordinances as SCANNED IMAGES:
-        # 338 of 360 (94%) extract to zero characters, confirmed by sampling four at random
-        # — 7 to 12 pages each, application/pdf, no text layer at all. They are photographs
-        # of signed instruments.
+        # RE-ENABLED 2026-08-01, AND THE ARGUMENT THAT CLOSED IT NO LONGER HOLDS.
         #
-        # Ingesting the 6% that happen to carry text would publish an arbitrary slice of the
-        # county's ordinance record while STATUS.md reported a healthy-looking count, which
-        # is worse than holding none: a reader asking what Yamhill has adopted would get a
-        # sample shaped by which documents were typed rather than scanned.
+        # This family was skipped because 338 of Yamhill's 360 adopted ordinances (94%) are
+        # scanned images with no text layer, and ingesting the 6% that happened to carry
+        # text would have published an arbitrary slice of the ordinance record — a sample
+        # shaped by which documents were typed rather than scanned — under a healthy-looking
+        # count. That reasoning was correct at the time and is now obsolete: `ocr_recover.py`
+        # exists, so the choice is no longer "6% or nothing".
         #
-        # This is not an absence at Yamhill and must never be reported as one. It is an OCR
-        # problem, and OCR is a deliberate capability decision for this corpus rather than
-        # something to bolt onto one county.
-        "orders": {
-            "skip": (
-                "94% of Yamhill's 360 adopted ordinances are scanned images with no text "
-                "layer (338 of 360 extract to 0 characters; sampled and confirmed). "
-                "Ingesting the remainder would publish an arbitrary slice of the ordinance "
-                "record under a healthy-looking count. Needs OCR, which is a corpus-wide "
-                "capability decision — NOT an absence at Yamhill County."),
-        },
+        # Ingest is expected to fail on most of these. That is the DESIGNED path: the
+        # extraction floor rejects them, they become OCR candidates, and the two-engine rule
+        # decides individually which are readable enough to promote. Whatever the gates
+        # refuse stays out and stays visible as a gap, rather than being silently absent.
+        "orders": {"listing_url": "https://www.yamhillcounty.gov/402/County-Ordinances",
+                   "link_re": _DC, "format": "pdf", "dedupe": "name-highest-id"},
         "policies": {"listing_url":
                      "https://www.yamhillcounty.gov/1528/County-Wide-Policies-and-Procedures",
                      "link_re": _DC, "format": "pdf"},

@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-counties",
- "n_nodes": 2929,
- "n_edges": 8658,
- "n_edges_external": 8658,
+ "n_nodes": 3335,
+ "n_edges": 9704,
+ "n_edges_external": 9704,
  "nodes": [
   {
    "id": "benton-code-adpr",
@@ -1473,6 +1473,372 @@
    "title": "Employee-Handbook-110222-Clean-Copy",
    "doc_type": "policy",
    "path": "counties/crook-county/policies/crook-policies-employee-handbook-110222-clean-copy.md"
+  },
+  {
+   "id": "curry-code-1-table-of-contents",
+   "title": "1. Table of Contents",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-1-table-of-contents.md"
+  },
+  {
+   "id": "curry-code-23-01-curry-county-code-article-six-division-eleven",
+   "title": "23-01 Curry County Code - Article Six - Division Eleven",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-23-01-curry-county-code-article-six-division-eleven.md"
+  },
+  {
+   "id": "curry-code-23-03-article-six-division-eleven-camping-regulations",
+   "title": "23-03 Article Six - Division Eleven - Camping Regulations",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-23-03-article-six-division-eleven-camping-regulations.md"
+  },
+  {
+   "id": "curry-code-23-05-restriction-on-the-sale-of-animals-in-retail-establish",
+   "title": "23-05 Restriction on the Sale of Animals in Retail Establishments",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-23-05-restriction-on-the-sale-of-animals-in-retail-establish.md"
+  },
+  {
+   "id": "curry-code-24-04-tlt-funding-allocation",
+   "title": "24-04 TLT Funding Allocation",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-24-04-tlt-funding-allocation.md"
+  },
+  {
+   "id": "curry-code-article-1-division-11",
+   "title": "Article 1 - Division 11",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-11.md"
+  },
+  {
+   "id": "curry-code-article-1-division-12",
+   "title": "Article 1 - Division 12",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-12.md"
+  },
+  {
+   "id": "curry-code-article-1-division-14",
+   "title": "Article 1 - Division 14",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-14.md"
+  },
+  {
+   "id": "curry-code-article-1-division-15",
+   "title": "Article 1 - Division 15",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-15.md"
+  },
+  {
+   "id": "curry-code-article-1-division-16",
+   "title": "Article 1 - Division 16",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-16.md"
+  },
+  {
+   "id": "curry-code-article-1-division-17",
+   "title": "Article 1 - Division 17",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-17.md"
+  },
+  {
+   "id": "curry-code-article-1-division-18",
+   "title": "Article 1 - Division 18",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-18.md"
+  },
+  {
+   "id": "curry-code-article-1-division-2",
+   "title": "Article 1 - Division 2",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-2.md"
+  },
+  {
+   "id": "curry-code-article-1-division-20",
+   "title": "Article 1 - Division 20",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-20.md"
+  },
+  {
+   "id": "curry-code-article-1-division-21",
+   "title": "Article 1 - Division 21",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-21.md"
+  },
+  {
+   "id": "curry-code-article-1-division-22",
+   "title": "Article 1 - Division 22",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-22.md"
+  },
+  {
+   "id": "curry-code-article-1-division-23",
+   "title": "Article 1 - Division 23",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-23.md"
+  },
+  {
+   "id": "curry-code-article-1-division-24",
+   "title": "Article 1 - Division 24",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-24.md"
+  },
+  {
+   "id": "curry-code-article-1-division-3",
+   "title": "Article 1 - Division 3",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-3.md"
+  },
+  {
+   "id": "curry-code-article-1-division-4",
+   "title": "Article 1 - Division 4",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-4.md"
+  },
+  {
+   "id": "curry-code-article-1-division-5",
+   "title": "Article 1 - Division 5",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-5.md"
+  },
+  {
+   "id": "curry-code-article-1-division-7",
+   "title": "Article 1 - Division 7",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-1-division-7.md"
+  },
+  {
+   "id": "curry-code-article-10-division-1",
+   "title": "Article 10 - Division 1",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-10-division-1.md"
+  },
+  {
+   "id": "curry-code-article-11",
+   "title": "Article 11",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-11.md"
+  },
+  {
+   "id": "curry-code-article-2-division-12",
+   "title": "Article 2 - Division 12",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-12.md"
+  },
+  {
+   "id": "curry-code-article-2-division-14",
+   "title": "Article 2 - Division 14",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-14.md"
+  },
+  {
+   "id": "curry-code-article-2-division-16",
+   "title": "Article 2 - Division 16",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-16.md"
+  },
+  {
+   "id": "curry-code-article-2-division-17",
+   "title": "Article 2 - Division 17",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-17.md"
+  },
+  {
+   "id": "curry-code-article-2-division-2",
+   "title": "Article 2 - Division 2",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-2.md"
+  },
+  {
+   "id": "curry-code-article-2-division-3",
+   "title": "Article 2 - Division 3",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-3.md"
+  },
+  {
+   "id": "curry-code-article-2-division-6",
+   "title": "Article 2 - Division 6",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-6.md"
+  },
+  {
+   "id": "curry-code-article-2-division-7",
+   "title": "Article 2 - Division 7",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-7.md"
+  },
+  {
+   "id": "curry-code-article-2-division-9",
+   "title": "Article 2 - Division 9",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-2-division-9.md"
+  },
+  {
+   "id": "curry-code-article-3-division-1",
+   "title": "Article 3 - Division 1",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-3-division-1.md"
+  },
+  {
+   "id": "curry-code-article-3-division-2",
+   "title": "Article 3 - Division 2",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-3-division-2.md"
+  },
+  {
+   "id": "curry-code-article-3-division-4",
+   "title": "Article 3 - Division 4",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-3-division-4.md"
+  },
+  {
+   "id": "curry-code-article-4-division-1",
+   "title": "Article 4 - Division 1",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-4-division-1.md"
+  },
+  {
+   "id": "curry-code-article-4-division-2",
+   "title": "Article 4 - Division 2",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-4-division-2.md"
+  },
+  {
+   "id": "curry-code-article-6-division-1",
+   "title": "Article 6 - Division 1",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-1.md"
+  },
+  {
+   "id": "curry-code-article-6-division-10",
+   "title": "Article 6 - Division 10",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-10.md"
+  },
+  {
+   "id": "curry-code-article-6-division-12",
+   "title": "Article 6 - Division 12",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-12.md"
+  },
+  {
+   "id": "curry-code-article-6-division-2",
+   "title": "Article 6 - Division 2",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-2.md"
+  },
+  {
+   "id": "curry-code-article-6-division-3",
+   "title": "Article 6 - Division 3",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-3.md"
+  },
+  {
+   "id": "curry-code-article-6-division-4",
+   "title": "Article 6 - Division 4",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-4.md"
+  },
+  {
+   "id": "curry-code-article-6-division-5",
+   "title": "Article 6 - Division 5",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-5.md"
+  },
+  {
+   "id": "curry-code-article-6-division-7",
+   "title": "Article 6 - Division 7",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-7.md"
+  },
+  {
+   "id": "curry-code-article-6-division-9",
+   "title": "Article 6 - Division 9",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-6-division-9.md"
+  },
+  {
+   "id": "curry-code-article-7-division-1",
+   "title": "Article 7 - Division 1",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-7-division-1.md"
+  },
+  {
+   "id": "curry-code-article-7-division-2",
+   "title": "Article 7 - Division 2",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-7-division-2.md"
+  },
+  {
+   "id": "curry-code-article-7-division-3",
+   "title": "Article 7 - Division 3",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-7-division-3.md"
+  },
+  {
+   "id": "curry-code-article-8-division-1",
+   "title": "Article 8 - Division 1",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-8-division-1.md"
+  },
+  {
+   "id": "curry-code-article-9-division-1",
+   "title": "Article 9 - Division 1",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-9-division-1.md"
+  },
+  {
+   "id": "curry-code-article-9-division-2",
+   "title": "Article 9 - Division 2",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-9-division-2.md"
+  },
+  {
+   "id": "curry-code-article-9-division-3",
+   "title": "Article 9 - Division 3",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-9-division-3.md"
+  },
+  {
+   "id": "curry-code-article-9-division-5",
+   "title": "Article 9 - Division 5",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-9-division-5.md"
+  },
+  {
+   "id": "curry-code-article-9-division-6",
+   "title": "Article 9 - Division 6",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-9-division-6.md"
+  },
+  {
+   "id": "curry-code-article-9-division-7",
+   "title": "Article 9 - Division 7",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-9-division-7.md"
+  },
+  {
+   "id": "curry-code-article-9-division-8",
+   "title": "Article 9 - Division 8",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-article-9-division-8.md"
+  },
+  {
+   "id": "curry-code-asa-04-14",
+   "title": "ASA 04-14",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-asa-04-14.md"
+  },
+  {
+   "id": "curry-code-curry-county-building-code-effective-april-3-2024",
+   "title": "Curry County Building Code -  Effective April 3, 2024",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-curry-county-building-code-effective-april-3-2024.md"
+  },
+  {
+   "id": "curry-code-fee-schedule-2026-approved",
+   "title": "Fee Schedule 2026 approved",
+   "doc_type": "ordinance",
+   "path": "counties/curry-county/code/curry-code-fee-schedule-2026-approved.md"
   },
   {
    "id": "curry-land-use-curry-county-housing-committee-members-list-7-9-21",
@@ -17573,6 +17939,2076 @@
    "path": "counties/yamhill-county/land-use/yamhill-land-use-zoning-ordinance-section-1400-administrative-provisions-ord-.md"
   },
   {
+   "id": "yamhill-orders-206-pdf",
+   "title": "206-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-206-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-850-pdf",
+   "title": "850-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-850-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-bo-25-15-pdf",
+   "title": "BO-25-15-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-bo-25-15-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-boc-areas-of-liaison-2026-27-pdf",
+   "title": "BOC-Areas-of-Liaison-2026-27--PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-boc-areas-of-liaison-2026-27-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-fy26-budget-book-pdf",
+   "title": "FY26-Budget-Book-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-fy26-budget-book-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord335-pdf",
+   "title": "ORD335-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord335-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord336-pdf",
+   "title": "ORD336-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord336-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord337-pdf",
+   "title": "ORD337-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord337-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord338-pdf",
+   "title": "ORD338-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord338-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord339-pdf",
+   "title": "ORD339-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord339-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord340-pdf",
+   "title": "ORD340-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord340-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord343-pdf",
+   "title": "ORD343-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord343-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord344-pdf",
+   "title": "ORD344-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord344-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord345-pdf",
+   "title": "ORD345-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord345-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord346-pdf",
+   "title": "ORD346-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord346-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord348-pdf",
+   "title": "ORD348-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord348-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord349-pdf",
+   "title": "ORD349--PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord349-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord350-pdf",
+   "title": "ORD350--PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord350-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord351-pdf",
+   "title": "ORD351--PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord351-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord352-pdf",
+   "title": "ORD352--PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord352-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord354-pdf",
+   "title": "ORD354-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord354-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord355-pdf",
+   "title": "ORD355-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord355-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord356-pdf",
+   "title": "ORD356-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord356-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord357-pdf",
+   "title": "ORD357-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord357-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord358-pdf",
+   "title": "ORD358-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord358-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord359-pdf",
+   "title": "ORD359-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord359-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord360-pdf",
+   "title": "ORD360-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord360-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord363-pdf",
+   "title": "ORD363-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord363-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord364-pdf",
+   "title": "ORD364-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord364-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord365-pdf",
+   "title": "ORD365-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord365-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord367-pdf",
+   "title": "ORD367-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord367-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord371-pdf",
+   "title": "ORD371-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord371-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord373-pdf",
+   "title": "ORD373-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord373-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord374-pdf",
+   "title": "ORD374-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord374-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord375-pdf",
+   "title": "ORD375-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord375-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord376-pdf",
+   "title": "ORD376-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord376-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord377-pdf",
+   "title": "ORD377-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord377-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord383-pdf",
+   "title": "ORD383-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord383-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord384-pdf",
+   "title": "ORD384-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord384-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord385-pdf",
+   "title": "ORD385-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord385-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord386-pdf",
+   "title": "ORD386-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord386-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord387-pdf",
+   "title": "ORD387-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord387-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord388-pdf",
+   "title": "ORD388-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord388-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord389-pdf",
+   "title": "ORD389-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord389-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord390-pdf",
+   "title": "ORD390-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord390-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord391-pdf",
+   "title": "ORD391-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord391-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord392-pdf",
+   "title": "ORD392-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord392-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord393-pdf",
+   "title": "ORD393-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord393-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord394-pdf",
+   "title": "ORD394-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord394-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord395-pdf",
+   "title": "ORD395-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord395-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord396-pdf",
+   "title": "ORD396-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord396-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord397-pdf",
+   "title": "ORD397-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord397-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord398-pdf",
+   "title": "ORD398-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord398-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord399-pdf",
+   "title": "ORD399-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord399-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord404-pdf",
+   "title": "ORD404-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord404-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord405-pdf",
+   "title": "ORD405-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord405-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord410-pdf",
+   "title": "ORD410-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord410-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord413-pdf",
+   "title": "ORD413-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord413-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord414-pdf",
+   "title": "ORD414-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord414-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord415-pdf",
+   "title": "ORD415-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord415-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord416-pdf",
+   "title": "ORD416-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord416-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord420-pdf",
+   "title": "ORD420-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord420-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord427-pdf",
+   "title": "ORD427-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord427-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord430-pdf",
+   "title": "ORD430-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord430-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord431-pdf",
+   "title": "ORD431-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord431-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord432-pdf",
+   "title": "ORD432-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord432-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord433-pdf",
+   "title": "ORD433-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord433-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord438-pdf",
+   "title": "ORD438-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord438-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord442-pdf",
+   "title": "ORD442-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord442-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord443-pdf",
+   "title": "ORD443-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord443-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord445-pdf",
+   "title": "ORD445-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord445-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord447-pdf",
+   "title": "ORD447-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord447-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord450-pdf",
+   "title": "ORD450-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord450-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord451-pdf",
+   "title": "ORD451-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord451-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord452-pdf",
+   "title": "ORD452-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord452-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord453-pdf",
+   "title": "ORD453-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord453-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord454-pdf",
+   "title": "ORD454-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord454-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord455-pdf",
+   "title": "ORD455-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord455-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord461-pdf",
+   "title": "ORD461-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord461-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord462-pdf",
+   "title": "ORD462-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord462-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord463-pdf",
+   "title": "ORD463-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord463-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord464-pdf",
+   "title": "ORD464-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord464-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord467-pdf",
+   "title": "ORD467-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord467-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord469-pdf",
+   "title": "ORD469-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord469-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord472-pdf",
+   "title": "ORD472-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord472-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord476-pdf",
+   "title": "ORD476-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord476-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord480-pdf",
+   "title": "ORD480-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord480-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord481-pdf",
+   "title": "ORD481-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord481-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord482-pdf",
+   "title": "ORD482-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord482-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord484-pdf",
+   "title": "ORD484-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord484-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord488-pdf",
+   "title": "ORD488-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord488-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord489-pdf",
+   "title": "ORD489-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord489-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord494-pdf",
+   "title": "ORD494-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord494-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord495-pdf",
+   "title": "ORD495-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord495-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord496-pdf",
+   "title": "ORD496-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord496-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord501-pdf",
+   "title": "ORD501-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord501-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord503-pdf",
+   "title": "ORD503-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord503-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord504-pdf",
+   "title": "ORD504-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord504-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord505-pdf",
+   "title": "ORD505-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord505-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord506-pdf",
+   "title": "ORD506-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord506-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord510-pdf",
+   "title": "ORD510-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord510-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord512-pdf",
+   "title": "ORD512-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord512-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord513-pdf",
+   "title": "ORD513-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord513-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord520-pdf",
+   "title": "ORD520-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord520-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord521-pdf",
+   "title": "ORD521-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord521-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord523-pdf",
+   "title": "ORD523-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord523-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord524-pdf",
+   "title": "ORD524-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord524-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord525-pdf",
+   "title": "ORD525-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord525-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord526-pdf",
+   "title": "ORD526-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord526-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord527-pdf",
+   "title": "ORD527-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord527-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord528-pdf",
+   "title": "ORD528-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord528-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord530-pdf",
+   "title": "ORD530-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord530-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord531-pdf",
+   "title": "ORD531-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord531-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord532-pdf",
+   "title": "ORD532-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord532-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord533-pdf",
+   "title": "ORD533-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord533-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord547-pdf",
+   "title": "ORD547-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord547-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord550-pdf",
+   "title": "ORD550-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord550-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord551-pdf",
+   "title": "ORD551-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord551-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord552-pdf",
+   "title": "ORD552-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord552-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord553-pdf",
+   "title": "ORD553-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord553-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord554-pdf",
+   "title": "ORD554-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord554-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord555-pdf",
+   "title": "ORD555-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord555-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord557-pdf",
+   "title": "ORD557-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord557-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord559-pdf",
+   "title": "ORD559-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord559-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord560-pdf",
+   "title": "ORD560-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord560-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord561-pdf",
+   "title": "ORD561-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord561-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord562-pdf",
+   "title": "ORD562-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord562-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord563-pdf",
+   "title": "ORD563-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord563-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord564-pdf",
+   "title": "ORD564-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord564-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord569-pdf",
+   "title": "ORD569-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord569-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord570-pdf",
+   "title": "ORD570-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord570-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord571-pdf",
+   "title": "ORD571-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord571-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord575-pdf",
+   "title": "ORD575-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord575-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord576-pdf",
+   "title": "ORD576-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord576-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord579-pdf",
+   "title": "ORD579-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord579-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord581-pdf",
+   "title": "ORD581-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord581-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord583-pdf",
+   "title": "ORD583-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord583-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord584-pdf",
+   "title": "ORD584-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord584-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord585-pdf",
+   "title": "ORD585-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord585-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord588-pdf",
+   "title": "ORD588-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord588-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord589-pdf",
+   "title": "ORD589-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord589-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord595-pdf",
+   "title": "ORD595-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord595-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord597-pdf",
+   "title": "ORD597-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord597-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord600-pdf",
+   "title": "ORD600-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord600-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord601-pdf",
+   "title": "ORD601-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord601-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord604-pdf",
+   "title": "ORD604-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord604-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord606-pdf",
+   "title": "ORD606-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord606-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord609-pdf",
+   "title": "ORD609-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord609-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord611-pdf",
+   "title": "ORD611-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord611-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord612-pdf",
+   "title": "ORD612-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord612-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord613-pdf",
+   "title": "ORD613-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord613-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord614-pdf",
+   "title": "ORD614-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord614-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord617-pdf",
+   "title": "ORD617-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord617-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord620-pdf",
+   "title": "ORD620-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord620-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord622-pdf",
+   "title": "ORD622-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord622-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord628-pdf",
+   "title": "ORD628-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord628-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord631-pdf",
+   "title": "ORD631-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord631-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord635-pdf",
+   "title": "ORD635-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord635-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord637-pdf",
+   "title": "ORD637-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord637-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord638-pdf",
+   "title": "ORD638-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord638-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord639-pdf",
+   "title": "ORD639-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord639-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord640-pdf",
+   "title": "ORD640-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord640-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord642-pdf",
+   "title": "ORD642-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord642-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord645-pdf",
+   "title": "ORD645-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord645-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord647-pdf",
+   "title": "ORD647-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord647-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord648-pdf",
+   "title": "ORD648-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord648-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord649-pdf",
+   "title": "ORD649-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord649-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord650-pdf",
+   "title": "ORD650-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord650-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord651-pdf",
+   "title": "ORD651-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord651-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord655-pdf",
+   "title": "ORD655-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord655-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord656-pdf",
+   "title": "ORD656-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord656-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord659-pdf",
+   "title": "ORD659-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord659-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord660-pdf",
+   "title": "ORD660-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord660-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord661-pdf",
+   "title": "ORD661-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord661-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord662-pdf",
+   "title": "ORD662-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord662-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord664-pdf",
+   "title": "ORD664-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord664-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord665-pdf",
+   "title": "ORD665-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord665-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord667-pdf",
+   "title": "ORD667-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord667-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord670-pdf",
+   "title": "ORD670-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord670-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord671-pdf",
+   "title": "ORD671-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord671-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord673-pdf",
+   "title": "ORD673-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord673-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord674-pdf",
+   "title": "ORD674-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord674-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord678-pdf",
+   "title": "ORD678-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord678-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord679-pdf",
+   "title": "ORD679-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord679-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord680-pdf",
+   "title": "ORD680-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord680-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord681-pdf",
+   "title": "ORD681-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord681-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord684-pdf",
+   "title": "ORD684-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord684-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord686-pdf",
+   "title": "ORD686-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord686-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord690-pdf",
+   "title": "ORD690-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord690-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord694-pdf",
+   "title": "ORD694-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord694-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord696-pdf",
+   "title": "ORD696-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord696-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord697-pdf",
+   "title": "ORD697-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord697-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord699-pdf",
+   "title": "ORD699-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord699-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord702-pdf",
+   "title": "ORD702-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord702-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord703-pdf",
+   "title": "ORD703-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord703-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord706-pdf",
+   "title": "ORD706-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord706-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord707-pdf",
+   "title": "ORD707-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord707-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord709-pdf",
+   "title": "ORD709-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord709-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord710-pdf",
+   "title": "ORD710-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord710-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord711-pdf",
+   "title": "ORD711-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord711-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord712-pdf",
+   "title": "ORD712-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord712-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord713-pdf",
+   "title": "ORD713-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord713-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord714-pdf",
+   "title": "ORD714-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord714-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord715-pdf",
+   "title": "ORD715-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord715-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord717-pdf",
+   "title": "ORD717-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord717-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord718-pdf",
+   "title": "ORD718-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord718-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord719-pdf",
+   "title": "ORD719-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord719-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord726-pdf",
+   "title": "ORD726-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord726-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord728-pdf",
+   "title": "ORD728-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord728-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord729-pdf",
+   "title": "ORD729-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord729-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord731-pdf",
+   "title": "ORD731-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord731-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord733-pdf",
+   "title": "ORD733-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord733-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord734-pdf",
+   "title": "ORD734-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord734-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord735-pdf",
+   "title": "ORD735-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord735-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord737-pdf",
+   "title": "ORD737-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord737-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord738-pdf",
+   "title": "-ORD738-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord738-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord739-pdf",
+   "title": "ORD739-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord739-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord740-pdf",
+   "title": "ORD740-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord740-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord745-pdf",
+   "title": "ORD745-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord745-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord747-pdf",
+   "title": "ORD747-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord747-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord752-pdf",
+   "title": "ORD752-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord752-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord753-pdf",
+   "title": "ORD753-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord753-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord756-pdf",
+   "title": "ORD756-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord756-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord757-pdf",
+   "title": "ORD757-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord757-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord758-pdf",
+   "title": "ORD758-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord758-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord760-pdf",
+   "title": "ORD760-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord760-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord764-pdf",
+   "title": "ORD764-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord764-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord765-pdf",
+   "title": "ORD765-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord765-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord767-pdf",
+   "title": "ORD767-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord767-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord768-pdf",
+   "title": "ORD768-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord768-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord769-pdf",
+   "title": "ORD769-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord769-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord772-pdf",
+   "title": "ORD772-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord772-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord773-pdf",
+   "title": "ORD773-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord773-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord774-pdf",
+   "title": "ORD774-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord774-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord775-pdf",
+   "title": "ORD775-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord775-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord777-pdf",
+   "title": "ORD777-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord777-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord779-pdf",
+   "title": "ORD779-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord779-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord780-pdf",
+   "title": "ORD780-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord780-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord781-pdf",
+   "title": "ORD781-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord781-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord782-pdf",
+   "title": "ORD782-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord782-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord784-pdf",
+   "title": "ORD784-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord784-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord785-pdf",
+   "title": "ORD785-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord785-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord786-pdf",
+   "title": "ORD786-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord786-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord790-pdf",
+   "title": "ORD790-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord790-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord791-pdf",
+   "title": "ORD791-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord791-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord792-pdf",
+   "title": "ORD792-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord792-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord793-pdf",
+   "title": "ORD793-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord793-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord794-pdf",
+   "title": "ORD794-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord794-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord795-pdf",
+   "title": "ORD795-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord795-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord797-pdf",
+   "title": "ORD797-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord797-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord798-pdf",
+   "title": "ORD798-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord798-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord799-pdf",
+   "title": "ORD799-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord799-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord800-pdf",
+   "title": "ORD800-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord800-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord801-pdf",
+   "title": "ORD801-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord801-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord802-pdf",
+   "title": "ORD802-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord802-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord803-pdf",
+   "title": "ORD803-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord803-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord804-pdf",
+   "title": "ORD804-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord804-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord805-pdf",
+   "title": "ORD805-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord805-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord806-pdf",
+   "title": "ORD806-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord806-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord807-pdf",
+   "title": "ORD807-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord807-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord808-pdf",
+   "title": "ORD808-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord808-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord809-pdf",
+   "title": "ORD809-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord809-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord811-pdf",
+   "title": "ORD811-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord811-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord812-pdf",
+   "title": "ORD812-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord812-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord813-pdf",
+   "title": "ORD813-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord813-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord814-pdf",
+   "title": "ORD814-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord814-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord815-pdf",
+   "title": "ORD815-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord815-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord816-pdf",
+   "title": "ORD816-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord816-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord817-pdf",
+   "title": "ORD817-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord817-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord818-pdf",
+   "title": "ORD818-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord818-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord819-pdf",
+   "title": "ORD819-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord819-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord820-pdf",
+   "title": "ORD820-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord820-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord821-pdf",
+   "title": "ORD821-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord821-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord824-pdf",
+   "title": "ORD824-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord824-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord825-pdf",
+   "title": "ORD825-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord825-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord826-pdf",
+   "title": "ORD826-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord826-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord827-pdf",
+   "title": "ORD827-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord827-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord829-pdf",
+   "title": "ORD829-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord829-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord830-pdf",
+   "title": "ORD830-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord830-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord831-pdf",
+   "title": "ORD831-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord831-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord833-pdf",
+   "title": "ORD833-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord833-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord834-pdf",
+   "title": "ORD834-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord834-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord835-pdf",
+   "title": "ORD835-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord835-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord837-pdf",
+   "title": "ORD837-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord837-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord839-pdf",
+   "title": "ORD839-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord839-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord841-pdf",
+   "title": "ORD841-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord841-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord842-pdf",
+   "title": "ORD842-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord842-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord844-pdf",
+   "title": "ORD844-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord844-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord845-pdf",
+   "title": "ORD845-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord845-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord846-pdf",
+   "title": "ORD846-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord846-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord847-pdf",
+   "title": "ORD847-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord847-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord852-pdf",
+   "title": "ORD852-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord852-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord853-pdf",
+   "title": "ORD853-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord853-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord854-pdf",
+   "title": "ORD854-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord854-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord855-pdf",
+   "title": "ORD855-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord855-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord856-pdf",
+   "title": "ORD856-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord856-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord857-pdf",
+   "title": "ORD857-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord857-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord858-pdf",
+   "title": "ORD858-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord858-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord861-pdf",
+   "title": "ORD861-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord861-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord862-pdf",
+   "title": "ORD862-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord862-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord863-pdf",
+   "title": "ORD863-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord863-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord864-pdf",
+   "title": "ORD864-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord864-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord870-pdf",
+   "title": "ORD870-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord870-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord871-pdf",
+   "title": "ORD871-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord871-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord872-pdf",
+   "title": "ORD872-pdf",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord872-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord876-pdf",
+   "title": "ORD876-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord876-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord885-pdf",
+   "title": "ORD885-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord885-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord886-pdf",
+   "title": "ORD886-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord886-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord890-pdf",
+   "title": "ORD890-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord890-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord891-pdf",
+   "title": "ORD891-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord891-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord892-pdf",
+   "title": "ORD892-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord892-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord893-pdf",
+   "title": "ORD893-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord893-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord894-pdf",
+   "title": "ORD894-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord894-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord898-pdf",
+   "title": "ORD898-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord898-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord899-pdf",
+   "title": "ORD899-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord899-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord901-pdf",
+   "title": "ORD901-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord901-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord902-pdf",
+   "title": "ORD902-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord902-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord937-pdf",
+   "title": "ORD937-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord937-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord938-pdf",
+   "title": "ORD938-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord938-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord940pdf",
+   "title": "ORD940PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord940pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord941-pdf",
+   "title": "ORD941-pdf",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord941-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord943-pdf",
+   "title": "ORD943-pdf",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord943-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord944-pdf",
+   "title": "ORD944-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord944-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord945-pdf",
+   "title": "ORD945-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord945-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord946-pdf",
+   "title": "ORD946-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord946-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord947-pdf",
+   "title": "ORD947-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord947-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord949-pdf",
+   "title": "ORD949-pdf",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord949-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord950-pdf",
+   "title": "ORD950-pdf",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord950-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord951-pdf",
+   "title": "ORD951-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord951-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ord952-pdf",
+   "title": "ORD952-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ord952-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-202-pdf",
+   "title": "Ordinance-202-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-202-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-205-pdf",
+   "title": "Ordinance-205-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-205-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-270-pdf",
+   "title": "Ordinance-270-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-270-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-29-pdf",
+   "title": "Ordinance-29-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-29-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "title": "Ordinance-83-and-Schedule-A-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-83-and-schedule-a-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-932-pdf",
+   "title": "Ordinance-932-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-932-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-933-pdf",
+   "title": "Ordinance-933-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-933-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-934-pdf",
+   "title": "Ordinance-934-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-934-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-935-pdf",
+   "title": "Ordinance-935-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-935-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance-936-pdf",
+   "title": "Ordinance-936-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance-936-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-ordinance234-pdf",
+   "title": "Ordinance234-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-ordinance234-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-rail-feasibility-study-pdf",
+   "title": "Rail-Feasibility-Study-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-rail-feasibility-study-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-water-executive-summary-pdf",
+   "title": "Water-Executive-Summary-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-water-executive-summary-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-water-supply-report-pdf",
+   "title": "Water-Supply-Report-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-water-supply-report-pdf.md"
+  },
+  {
+   "id": "yamhill-orders-yamhill-county-code-ordinance-directory-pdf",
+   "title": "Yamhill-County-Code-Ordinance-Directory-PDF",
+   "doc_type": "ordinance",
+   "path": "counties/yamhill-county/orders/yamhill-orders-yamhill-county-code-ordinance-directory-pdf.md"
+  },
+  {
    "id": "yamhill-policies-fy26-budget-book-pdf",
    "title": "FY26-Budget-Book-PDF",
    "doc_type": "policy",
@@ -23094,6 +25530,1291 @@
    "from": "crook-policies-employee-handbook-110222-clean-copy",
    "type": "references_external",
    "to": "ORS 9.490"
+  },
+  {
+   "from": "curry-code-23-01-curry-county-code-article-six-division-eleven",
+   "type": "references_external",
+   "to": "ORS 401.025"
+  },
+  {
+   "from": "curry-code-23-01-curry-county-code-article-six-division-eleven",
+   "type": "references_external",
+   "to": "ORS 401.305"
+  },
+  {
+   "from": "curry-code-23-01-curry-county-code-article-six-division-eleven",
+   "type": "references_external",
+   "to": "ORS 466.605"
+  },
+  {
+   "from": "curry-code-23-03-article-six-division-eleven-camping-regulations",
+   "type": "references_external",
+   "to": "ORS 195.500"
+  },
+  {
+   "from": "curry-code-23-05-restriction-on-the-sale-of-animals-in-retail-establish",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-24-04-tlt-funding-allocation",
+   "type": "references_external",
+   "to": "ORS 192.502"
+  },
+  {
+   "from": "curry-code-24-04-tlt-funding-allocation",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-24-04-tlt-funding-allocation",
+   "type": "references_external",
+   "to": "ORS 320.300"
+  },
+  {
+   "from": "curry-code-article-1-division-11",
+   "type": "references_external",
+   "to": "ORS 197.352"
+  },
+  {
+   "from": "curry-code-article-1-division-11",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-1-division-12",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-1-division-12",
+   "type": "references_external",
+   "to": "ORS 249.002"
+  },
+  {
+   "from": "curry-code-article-1-division-16",
+   "type": "references_external",
+   "to": "ORS 166.250"
+  },
+  {
+   "from": "curry-code-article-1-division-16",
+   "type": "references_external",
+   "to": "ORS 166.270"
+  },
+  {
+   "from": "curry-code-article-1-division-16",
+   "type": "references_external",
+   "to": "ORS 166.272"
+  },
+  {
+   "from": "curry-code-article-1-division-16",
+   "type": "references_external",
+   "to": "ORS 166.360"
+  },
+  {
+   "from": "curry-code-article-1-division-16",
+   "type": "references_external",
+   "to": "ORS 426.130"
+  },
+  {
+   "from": "curry-code-article-1-division-2",
+   "type": "references_external",
+   "to": "ORS 98.005"
+  },
+  {
+   "from": "curry-code-article-1-division-5",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 153.005"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 153.018"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 153.030"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 153.042"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 153.058"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 153.076"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 153.145"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 161.015"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 30.265"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 368.011"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 368.016"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 368.251"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 368.990"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 374.305"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 374.310"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 459.005"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 609.010"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 609.015"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 682.205"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "curry-code-article-10-division-1",
+   "type": "references_external",
+   "to": "OAR 333-260-0000"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 105.550"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 183.413"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 195.300"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 196.665"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 196.674"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 196.800"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 196.825"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.319"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.435"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.685"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 197.805"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 209.250"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.130"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.284"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.422"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.428"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.429"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.448"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.452"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 271.715"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 274.005"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 30.930"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 30.936"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 321.359"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 321.372"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 358.480"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 358.905"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 368.001"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 390.635"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 433.735"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 433.763"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 447.233"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 459.245"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 509.585"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 522.005"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 526.215"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 527.610"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 537.505"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 537.545"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 624.010"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 672.505"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 757.300"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 757.365"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 92.180"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 92.190"
+  },
+  {
+   "from": "curry-code-article-11",
+   "type": "references_external",
+   "to": "ORS 92.192"
+  },
+  {
+   "from": "curry-code-article-2-division-12",
+   "type": "references_external",
+   "to": "ORS 183.325"
+  },
+  {
+   "from": "curry-code-article-2-division-12",
+   "type": "references_external",
+   "to": "ORS 446.185"
+  },
+  {
+   "from": "curry-code-article-2-division-14",
+   "type": "references_external",
+   "to": "ORS 167.121"
+  },
+  {
+   "from": "curry-code-article-2-division-16",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-2-division-16",
+   "type": "references_external",
+   "to": "ORS 203.055"
+  },
+  {
+   "from": "curry-code-article-2-division-16",
+   "type": "references_external",
+   "to": "ORS 4758.110"
+  },
+  {
+   "from": "curry-code-article-2-division-16",
+   "type": "references_external",
+   "to": "ORS 4758.345"
+  },
+  {
+   "from": "curry-code-article-2-division-16",
+   "type": "references_external",
+   "to": "ORS 475B.110"
+  },
+  {
+   "from": "curry-code-article-2-division-16",
+   "type": "references_external",
+   "to": "ORS 475B.345"
+  },
+  {
+   "from": "curry-code-article-2-division-16",
+   "type": "references_external",
+   "to": "ORS 571.300"
+  },
+  {
+   "from": "curry-code-article-2-division-17",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 279.312"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 279.320"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 279.334"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 36.300"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 36.335"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 459.005"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 459.065"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 459.085"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 459.386"
+  },
+  {
+   "from": "curry-code-article-2-division-6",
+   "type": "references_external",
+   "to": "ORS 466.005"
+  },
+  {
+   "from": "curry-code-article-2-division-7",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-2-division-7",
+   "type": "references_external",
+   "to": "ORS 459.165"
+  },
+  {
+   "from": "curry-code-article-2-division-7",
+   "type": "references_external",
+   "to": "ORS 459.200"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.031"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.081"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.251"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.256"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.261"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.271"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.276"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.281"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 368.942"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 371.605"
+  },
+  {
+   "from": "curry-code-article-3-division-1",
+   "type": "references_external",
+   "to": "ORS 509.585"
+  },
+  {
+   "from": "curry-code-article-3-division-2",
+   "type": "references_external",
+   "to": "ORS 227.120"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 197.492"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 374.305"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 374.307"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 374.309"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 758.010"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 801.409"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 819.120"
+  },
+  {
+   "from": "curry-code-article-3-division-4",
+   "type": "references_external",
+   "to": "ORS 819.140"
+  },
+  {
+   "from": "curry-code-article-4-division-2",
+   "type": "references_external",
+   "to": "ORS 161.015"
+  },
+  {
+   "from": "curry-code-article-6-division-10",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-6-division-12",
+   "type": "references_external",
+   "to": "ORS 201.035"
+  },
+  {
+   "from": "curry-code-article-6-division-12",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "curry-code-article-6-division-12",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "curry-code-article-6-division-12",
+   "type": "references_external",
+   "to": "ORS 34.100"
+  },
+  {
+   "from": "curry-code-article-6-division-3",
+   "type": "references_external",
+   "to": "ORS 164.775"
+  },
+  {
+   "from": "curry-code-article-6-division-3",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-6-division-5",
+   "type": "references_external",
+   "to": "ORS 163.465"
+  },
+  {
+   "from": "curry-code-article-6-division-7",
+   "type": "references_external",
+   "to": "ORS 414.705"
+  },
+  {
+   "from": "curry-code-article-6-division-7",
+   "type": "references_external",
+   "to": "ORS 430.610"
+  },
+  {
+   "from": "curry-code-article-6-division-9",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-6-division-9",
+   "type": "references_external",
+   "to": "ORS 312.100"
+  },
+  {
+   "from": "curry-code-article-6-division-9",
+   "type": "references_external",
+   "to": "ORS 312.120"
+  },
+  {
+   "from": "curry-code-article-6-division-9",
+   "type": "references_external",
+   "to": "ORS 312.122"
+  },
+  {
+   "from": "curry-code-article-6-division-9",
+   "type": "references_external",
+   "to": "ORS 312.125"
+  },
+  {
+   "from": "curry-code-article-6-division-9",
+   "type": "references_external",
+   "to": "ORS 312.180"
+  },
+  {
+   "from": "curry-code-article-6-division-9",
+   "type": "references_external",
+   "to": "ORS 312.990"
+  },
+  {
+   "from": "curry-code-article-7-division-1",
+   "type": "references_external",
+   "to": "ORS 294.805"
+  },
+  {
+   "from": "curry-code-article-7-division-1",
+   "type": "references_external",
+   "to": "ORS 368.709"
+  },
+  {
+   "from": "curry-code-article-7-division-2",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-7-division-2",
+   "type": "references_external",
+   "to": "ORS 223.205"
+  },
+  {
+   "from": "curry-code-article-7-division-2",
+   "type": "references_external",
+   "to": "ORS 223.220"
+  },
+  {
+   "from": "curry-code-article-7-division-2",
+   "type": "references_external",
+   "to": "ORS 371.610"
+  },
+  {
+   "from": "curry-code-article-7-division-3",
+   "type": "references_external",
+   "to": "ORS 223.205"
+  },
+  {
+   "from": "curry-code-article-7-division-3",
+   "type": "references_external",
+   "to": "ORS 223.220"
+  },
+  {
+   "from": "curry-code-article-8-division-1",
+   "type": "references_external",
+   "to": "ORS 320.300"
+  },
+  {
+   "from": "curry-code-article-8-division-1",
+   "type": "references_external",
+   "to": "ORS 320.350"
+  },
+  {
+   "from": "curry-code-article-9-division-1",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-article-9-division-1",
+   "type": "references_external",
+   "to": "ORS 203.148"
+  },
+  {
+   "from": "curry-code-article-9-division-1",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "curry-code-article-9-division-1",
+   "type": "references_external",
+   "to": "ORS 209.260"
+  },
+  {
+   "from": "curry-code-article-9-division-1",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "curry-code-article-9-division-1",
+   "type": "references_external",
+   "to": "ORS 294.160"
+  },
+  {
+   "from": "curry-code-article-9-division-1",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "curry-code-article-9-division-5",
+   "type": "references_external",
+   "to": "ORS 209.070"
+  },
+  {
+   "from": "curry-code-article-9-division-8",
+   "type": "references_external",
+   "to": "ORS 205.323"
+  },
+  {
+   "from": "curry-code-article-9-division-8",
+   "type": "references_external",
+   "to": "ORS 205.350"
+  },
+  {
+   "from": "curry-code-article-9-division-8",
+   "type": "references_external",
+   "to": "ORS 92.090"
+  },
+  {
+   "from": "curry-code-article-9-division-8",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 162.075"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 163.732"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 163.735"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 171.562"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 171.725"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 171.778"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 174.109"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 174.111"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 174.116"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 174.117"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 180.230"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 183.440"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 183.605"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 183.745"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 183.750"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 192.410"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 192.610"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 199.410"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 203.036"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 221.485"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.020"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.025"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.042"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.045"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.050"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.055"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.060"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.120"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.160"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.177"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.205"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.209"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.211"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.215"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.217"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.218"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.260"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.280"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.282"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.290"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 244.350"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 260.005"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 292.495"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 293.708"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 30.866"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 352.002"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 352.054"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 441.525"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 659.309"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 682.017"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 682.025"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 682.027"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 682.031"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 682.043"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 682.062"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 682.079"
+  },
+  {
+   "from": "curry-code-asa-04-14",
+   "type": "references_external",
+   "to": "ORS 777.005"
+  },
+  {
+   "from": "curry-code-curry-county-building-code-effective-april-3-2024",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "curry-code-curry-county-building-code-effective-april-3-2024",
+   "type": "references_external",
+   "to": "ORS 455.320"
+  },
+  {
+   "from": "curry-code-curry-county-building-code-effective-april-3-2024",
+   "type": "references_external",
+   "to": "ORS 476.060"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 205.232"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 205.234"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 205.320"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 205.323"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 205.327"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 294.187"
+  },
+  {
+   "from": "curry-code-fee-schedule-2026-approved",
+   "type": "references_external",
+   "to": "ORS 609.162"
   },
   {
    "from": "curry-land-use-fee-schedule-2026-approved",
@@ -60834,6 +64555,3951 @@
    "from": "yamhill-land-use-zoning-ordinance-section-1400-administrative-provisions-ord-",
    "type": "references_external",
    "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-206-pdf",
+   "type": "references_external",
+   "to": "ORS 197.175"
+  },
+  {
+   "from": "yamhill-orders-206-pdf",
+   "type": "references_external",
+   "to": "ORS 215.110"
+  },
+  {
+   "from": "yamhill-orders-206-pdf",
+   "type": "references_external",
+   "to": "ORS 290.322"
+  },
+  {
+   "from": "yamhill-orders-206-pdf",
+   "type": "references_external",
+   "to": "ORS 390.130"
+  },
+  {
+   "from": "yamhill-orders-206-pdf",
+   "type": "references_external",
+   "to": "ORS 390.310"
+  },
+  {
+   "from": "yamhill-orders-206-pdf",
+   "type": "references_external",
+   "to": "ORS 447.140"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "ORS 197.230"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "ORS 527.630"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0100"
+  },
+  {
+   "from": "yamhill-orders-850-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0130"
+  },
+  {
+   "from": "yamhill-orders-bo-25-15-pdf",
+   "type": "references_external",
+   "to": "ORS 305.275"
+  },
+  {
+   "from": "yamhill-orders-bo-25-15-pdf",
+   "type": "references_external",
+   "to": "ORS 307.162"
+  },
+  {
+   "from": "yamhill-orders-bo-25-15-pdf",
+   "type": "references_external",
+   "to": "ORS 307.330"
+  },
+  {
+   "from": "yamhill-orders-bo-25-15-pdf",
+   "type": "references_external",
+   "to": "ORS 307.340"
+  },
+  {
+   "from": "yamhill-orders-bo-25-15-pdf",
+   "type": "references_external",
+   "to": "ORS 307.475"
+  },
+  {
+   "from": "yamhill-orders-bo-25-15-pdf",
+   "type": "references_external",
+   "to": "ORS 308.215"
+  },
+  {
+   "from": "yamhill-orders-fy26-budget-book-pdf",
+   "type": "references_external",
+   "to": "ORS 294.428"
+  },
+  {
+   "from": "yamhill-orders-fy26-budget-book-pdf",
+   "type": "references_external",
+   "to": "ORS 294.438"
+  },
+  {
+   "from": "yamhill-orders-fy26-budget-book-pdf",
+   "type": "references_external",
+   "to": "ORS 294.444"
+  },
+  {
+   "from": "yamhill-orders-fy26-budget-book-pdf",
+   "type": "references_external",
+   "to": "ORS 294.453"
+  },
+  {
+   "from": "yamhill-orders-fy26-budget-book-pdf",
+   "type": "references_external",
+   "to": "ORS 294.456"
+  },
+  {
+   "from": "yamhill-orders-fy26-budget-book-pdf",
+   "type": "references_external",
+   "to": "ORS 430.735"
+  },
+  {
+   "from": "yamhill-orders-fy26-budget-book-pdf",
+   "type": "references_external",
+   "to": "ORS 461.547"
+  },
+  {
+   "from": "yamhill-orders-ord335-pdf",
+   "type": "references_external",
+   "to": "ORS 215.060"
+  },
+  {
+   "from": "yamhill-orders-ord336-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord336-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord336-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord336-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord336-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord339-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord339-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord339-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord339-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord339-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord343-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord343-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord343-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord343-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord343-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord343-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord344-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord344-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord344-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord344-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord345-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord345-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord345-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord345-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord345-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord346-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord346-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord346-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord346-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord346-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord349-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord349-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord349-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord349-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord349-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord351-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord351-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord351-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord351-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord351-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord352-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord352-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord352-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord352-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord354-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord354-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord354-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord354-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord355-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord355-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord355-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord355-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord355-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord356-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord356-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord356-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord356-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord356-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord357-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord357-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord357-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord357-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord357-pdf",
+   "type": "references_external",
+   "to": "ORS 92.225"
+  },
+  {
+   "from": "yamhill-orders-ord358-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord358-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord358-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord358-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord358-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord358-pdf",
+   "type": "references_external",
+   "to": "ORS 92.225"
+  },
+  {
+   "from": "yamhill-orders-ord359-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord359-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord359-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord360-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord360-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord360-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord360-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord367-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord367-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord367-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord367-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord367-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord375-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord375-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord375-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord375-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord376-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord376-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord376-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord376-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord377-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord377-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord377-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord377-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord377-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord383-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord383-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord383-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord383-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord383-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord386-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord386-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord386-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord386-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord387-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord387-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord387-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord387-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord388-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord388-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord388-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord388-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord388-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord389-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord389-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord389-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord389-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord389-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord390-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord390-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord390-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord390-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord391-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord391-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord391-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord391-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord395-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord395-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord395-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord395-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord396-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ord396-pdf",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "yamhill-orders-ord396-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ord396-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord397-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ord397-pdf",
+   "type": "references_external",
+   "to": "ORS 471.223"
+  },
+  {
+   "from": "yamhill-orders-ord410-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ord445-pdf",
+   "type": "references_external",
+   "to": "ORS 215.110"
+  },
+  {
+   "from": "yamhill-orders-ord455-pdf",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "yamhill-orders-ord528-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord530-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ord530-pdf",
+   "type": "references_external",
+   "to": "ORS 215.452"
+  },
+  {
+   "from": "yamhill-orders-ord547-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord547-pdf",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "yamhill-orders-ord547-pdf",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "yamhill-orders-ord547-pdf",
+   "type": "references_external",
+   "to": "ORS 215.301"
+  },
+  {
+   "from": "yamhill-orders-ord552-pdf",
+   "type": "references_external",
+   "to": "ORS 215.301"
+  },
+  {
+   "from": "yamhill-orders-ord559-pdf",
+   "type": "references_external",
+   "to": "ORS 197.300"
+  },
+  {
+   "from": "yamhill-orders-ord560-pdf",
+   "type": "references_external",
+   "to": "ORS 197.250"
+  },
+  {
+   "from": "yamhill-orders-ord560-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord561-pdf",
+   "type": "references_external",
+   "to": "ORS 197.250"
+  },
+  {
+   "from": "yamhill-orders-ord561-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord562-pdf",
+   "type": "references_external",
+   "to": "ORS 197.250"
+  },
+  {
+   "from": "yamhill-orders-ord562-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord564-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord581-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord581-pdf",
+   "type": "references_external",
+   "to": "ORS 215.284"
+  },
+  {
+   "from": "yamhill-orders-ord581-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord595-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord597-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord597-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-ord600-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord600-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-ord606-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord609-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord609-pdf",
+   "type": "references_external",
+   "to": "ORS 459A.010"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 197.175"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 215.253"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "yamhill-orders-ord614-pdf",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "yamhill-orders-ord617-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord617-pdf",
+   "type": "references_external",
+   "to": "ORS 215.705"
+  },
+  {
+   "from": "yamhill-orders-ord617-pdf",
+   "type": "references_external",
+   "to": "ORS 215.720"
+  },
+  {
+   "from": "yamhill-orders-ord617-pdf",
+   "type": "references_external",
+   "to": "ORS 215.750"
+  },
+  {
+   "from": "yamhill-orders-ord617-pdf",
+   "type": "references_external",
+   "to": "ORS 527.610"
+  },
+  {
+   "from": "yamhill-orders-ord622-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord628-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord631-pdf",
+   "type": "references_external",
+   "to": "ORS 203.0450"
+  },
+  {
+   "from": "yamhill-orders-ord638-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord642-pdf",
+   "type": "references_external",
+   "to": "ORS 215.750"
+  },
+  {
+   "from": "yamhill-orders-ord642-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord648-pdf",
+   "type": "references_external",
+   "to": "ORS 215.130"
+  },
+  {
+   "from": "yamhill-orders-ord648-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord648-pdf",
+   "type": "references_external",
+   "to": "ORS 446.003"
+  },
+  {
+   "from": "yamhill-orders-ord648-pdf",
+   "type": "references_external",
+   "to": "ORS 657A.250"
+  },
+  {
+   "from": "yamhill-orders-ord650-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord650-pdf",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-ord650-pdf",
+   "type": "references_external",
+   "to": "ORS 215.422"
+  },
+  {
+   "from": "yamhill-orders-ord662-pdf",
+   "type": "references_external",
+   "to": "ORS 197.723"
+  },
+  {
+   "from": "yamhill-orders-ord662-pdf",
+   "type": "references_external",
+   "to": "ORS 197.835"
+  },
+  {
+   "from": "yamhill-orders-ord664-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord664-pdf",
+   "type": "references_external",
+   "to": "ORS 197.296"
+  },
+  {
+   "from": "yamhill-orders-ord670-pdf",
+   "type": "references_external",
+   "to": "ORS 836.616"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0018"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0020"
+  },
+  {
+   "from": "yamhill-orders-ord673-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord674-pdf",
+   "type": "references_external",
+   "to": "ORS 197.835"
+  },
+  {
+   "from": "yamhill-orders-ord678-pdf",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "yamhill-orders-ord678-pdf",
+   "type": "references_external",
+   "to": "ORS 197.247"
+  },
+  {
+   "from": "yamhill-orders-ord678-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord678-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord678-pdf",
+   "type": "references_external",
+   "to": "ORS 215.710"
+  },
+  {
+   "from": "yamhill-orders-ord678-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord678-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord679-pdf",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "yamhill-orders-ord679-pdf",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "ORS 197.132"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "ORS 197.243"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "ORS 197.707"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "ORS 197.712"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0018"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0022"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0620"
+  },
+  {
+   "from": "yamhill-orders-ord690-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord696-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord702-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0040"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "ORS 215.720"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "ORS 92.017"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0018"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord703-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord709-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord709-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ord709-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-ord709-pdf",
+   "type": "references_external",
+   "to": "ORS 215.316"
+  },
+  {
+   "from": "yamhill-orders-ord709-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord709-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0022"
+  },
+  {
+   "from": "yamhill-orders-ord710-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0018"
+  },
+  {
+   "from": "yamhill-orders-ord710-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord713-pdf",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "yamhill-orders-ord713-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord713-pdf",
+   "type": "references_external",
+   "to": "ORS 197.296"
+  },
+  {
+   "from": "yamhill-orders-ord713-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord713-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord713-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord729-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord729-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "ORS 197.247"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "ORS 215.710"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "OAR 660-021-0060"
+  },
+  {
+   "from": "yamhill-orders-ord731-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord734-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord734-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0022"
+  },
+  {
+   "from": "yamhill-orders-ord734-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord737-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord737-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord737-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord737-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0022"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "ORS 197.829"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0018"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord739-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 197.175"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 197.180"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 197.340"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.110"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.253"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.402"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.437"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 215.438"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 368.201"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "ORS 517.780"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0040"
+  },
+  {
+   "from": "yamhill-orders-ord745-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0180"
+  },
+  {
+   "from": "yamhill-orders-ord747-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0045"
+  },
+  {
+   "from": "yamhill-orders-ord747-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0070"
+  },
+  {
+   "from": "yamhill-orders-ord747-pdf",
+   "type": "references_external",
+   "to": "OAR 731-051-0200"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 105.682"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 215.800"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 291.296"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 517.780"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "ORS 541.605"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 340-035-0015"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 340-035-0035"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 340-208-0210"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0020"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0040"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0050"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0090"
+  },
+  {
+   "from": "yamhill-orders-ord752-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0180"
+  },
+  {
+   "from": "yamhill-orders-ord760-pdf",
+   "type": "references_external",
+   "to": "ORS 215.284"
+  },
+  {
+   "from": "yamhill-orders-ord760-pdf",
+   "type": "references_external",
+   "to": "ORS 215.700"
+  },
+  {
+   "from": "yamhill-orders-ord760-pdf",
+   "type": "references_external",
+   "to": "ORS 537.545"
+  },
+  {
+   "from": "yamhill-orders-ord760-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord760-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord764-pdf",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "yamhill-orders-ord764-pdf",
+   "type": "references_external",
+   "to": "ORS 197.615"
+  },
+  {
+   "from": "yamhill-orders-ord765-pdf",
+   "type": "references_external",
+   "to": "ORS 183.482"
+  },
+  {
+   "from": "yamhill-orders-ord765-pdf",
+   "type": "references_external",
+   "to": "ORS 197.626"
+  },
+  {
+   "from": "yamhill-orders-ord765-pdf",
+   "type": "references_external",
+   "to": "ORS 197.633"
+  },
+  {
+   "from": "yamhill-orders-ord765-pdf",
+   "type": "references_external",
+   "to": "OAR 660-025-0090"
+  },
+  {
+   "from": "yamhill-orders-ord765-pdf",
+   "type": "references_external",
+   "to": "OAR 660-025-0160"
+  },
+  {
+   "from": "yamhill-orders-ord765-pdf",
+   "type": "references_external",
+   "to": "OAR 660-025-0175"
+  },
+  {
+   "from": "yamhill-orders-ord767-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord767-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord767-pdf",
+   "type": "references_external",
+   "to": "ORS 215.710"
+  },
+  {
+   "from": "yamhill-orders-ord768-pdf",
+   "type": "references_external",
+   "to": "ORS 197.247"
+  },
+  {
+   "from": "yamhill-orders-ord768-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord768-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord768-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord768-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord772-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord772-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord772-pdf",
+   "type": "references_external",
+   "to": "ORS 215.710"
+  },
+  {
+   "from": "yamhill-orders-ord772-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord772-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0022"
+  },
+  {
+   "from": "yamhill-orders-ord773-pdf",
+   "type": "references_external",
+   "to": "ORS 197.230"
+  },
+  {
+   "from": "yamhill-orders-ord773-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-ord773-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord773-pdf",
+   "type": "references_external",
+   "to": "ORS 527.630"
+  },
+  {
+   "from": "yamhill-orders-ord773-pdf",
+   "type": "references_external",
+   "to": "ORS 527.755"
+  },
+  {
+   "from": "yamhill-orders-ord775-pdf",
+   "type": "references_external",
+   "to": "ORS 358.475"
+  },
+  {
+   "from": "yamhill-orders-ord780-pdf",
+   "type": "references_external",
+   "to": "ORS 162.075"
+  },
+  {
+   "from": "yamhill-orders-ord780-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord780-pdf",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "yamhill-orders-ord780-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord780-pdf",
+   "type": "references_external",
+   "to": "ORS 197.296"
+  },
+  {
+   "from": "yamhill-orders-ord780-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord780-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "ORS 162.075"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "ORS 197.251"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "ORS 197.296"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "ORS 215.110"
+  },
+  {
+   "from": "yamhill-orders-ord781-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 806.010"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 807.010"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 811.175"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 811.182"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 813.010"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 819.100"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 819.120"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 819.190"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 819.440"
+  },
+  {
+   "from": "yamhill-orders-ord782-pdf",
+   "type": "references_external",
+   "to": "ORS 98.830"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 806.010"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 807.010"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 809.720"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 811.175"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 811.182"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 813.010"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 819.100"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 819.120"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 819.190"
+  },
+  {
+   "from": "yamhill-orders-ord785-pdf",
+   "type": "references_external",
+   "to": "ORS 819.440"
+  },
+  {
+   "from": "yamhill-orders-ord786-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord786-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord786-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0040"
+  },
+  {
+   "from": "yamhill-orders-ord786-pdf",
+   "type": "references_external",
+   "to": "OAR 660-015-0000"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.340"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.435"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.445"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.455"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.615"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.712"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0015"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0018"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0022"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0030"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0040"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0065"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-014-0040"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-018-0020"
+  },
+  {
+   "from": "yamhill-orders-ord790-pdf",
+   "type": "references_external",
+   "to": "OAR 660-018-0040"
+  },
+  {
+   "from": "yamhill-orders-ord791-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord792-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord793-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord793-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord793-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord794-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord794-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord794-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord797-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord798-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord800-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord800-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord800-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord800-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "ORS 197.296"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "ORS 197.303"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "ORS 215.710"
+  },
+  {
+   "from": "yamhill-orders-ord803-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord804-pdf",
+   "type": "references_external",
+   "to": "ORS 107.298"
+  },
+  {
+   "from": "yamhill-orders-ord804-pdf",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "yamhill-orders-ord804-pdf",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "yamhill-orders-ord806-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord806-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord806-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord807-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord808-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord811-pdf",
+   "type": "references_external",
+   "to": "ORS 197.352"
+  },
+  {
+   "from": "yamhill-orders-ord812-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord813-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord814-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0025"
+  },
+  {
+   "from": "yamhill-orders-ord815-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord815-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord815-pdf",
+   "type": "references_external",
+   "to": "OAR 660-014-0040"
+  },
+  {
+   "from": "yamhill-orders-ord816-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord817-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord818-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord819-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord820-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord824-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord825-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord827-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord831-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord831-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord831-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord833-pdf",
+   "type": "references_external",
+   "to": "ORS 215.275"
+  },
+  {
+   "from": "yamhill-orders-ord834-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord834-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord834-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord835-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord835-pdf",
+   "type": "references_external",
+   "to": "OAR 660-024-0070"
+  },
+  {
+   "from": "yamhill-orders-ord837-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord837-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord837-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord837-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord839-pdf",
+   "type": "references_external",
+   "to": "ORS 197.352"
+  },
+  {
+   "from": "yamhill-orders-ord841-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord842-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord844-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord845-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord845-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord847-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord847-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord853-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord854-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord855-pdf",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "yamhill-orders-ord855-pdf",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-ord855-pdf",
+   "type": "references_external",
+   "to": "ORS 92.017"
+  },
+  {
+   "from": "yamhill-orders-ord856-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord857-pdf",
+   "type": "references_external",
+   "to": "OAR 660-022-0030"
+  },
+  {
+   "from": "yamhill-orders-ord858-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord858-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord858-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord864-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord871-pdf",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "yamhill-orders-ord871-pdf",
+   "type": "references_external",
+   "to": "ORS 215.296"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 195.120"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 197.435"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 197.465"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 197.660"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 197.665"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.263"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.275"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.284"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.306"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.427"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.448"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 215.783"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 30.930"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 308.370"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 308A.050"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 308A.315"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 315.141"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 321.267"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 321.352"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 418.205"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 443.400"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 443.480"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 443.705"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 459.049"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 468B.050"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 468B.200"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 520.005"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 522.005"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 526.215"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 527.610"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 527.715"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 540.505"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 621.072"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 624.010"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 657A.440"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 658.750"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 772.210"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "ORS 92.305"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "OAR 629-324-1043"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0030"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0130"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0135"
+  },
+  {
+   "from": "yamhill-orders-ord872-pdf",
+   "type": "references_external",
+   "to": "OAR 660-034-0035"
+  },
+  {
+   "from": "yamhill-orders-ord876-pdf",
+   "type": "references_external",
+   "to": "ORS 215.452"
+  },
+  {
+   "from": "yamhill-orders-ord885-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord886-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord890-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord890-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord891-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ord891-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0018"
+  },
+  {
+   "from": "yamhill-orders-ord891-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord891-pdf",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "yamhill-orders-ord891-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
+  },
+  {
+   "from": "yamhill-orders-ord892-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "ORS 197.615"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "ORS 197.830"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0022"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "OAR 660-011-0060"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0020"
+  },
+  {
+   "from": "yamhill-orders-ord894-pdf",
+   "type": "references_external",
+   "to": "OAR 660-023-0030"
+  },
+  {
+   "from": "yamhill-orders-ord898-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord899-pdf",
+   "type": "references_external",
+   "to": "ORS 195.036"
+  },
+  {
+   "from": "yamhill-orders-ord902-pdf",
+   "type": "references_external",
+   "to": "OAR 660-022-0010"
+  },
+  {
+   "from": "yamhill-orders-ord902-pdf",
+   "type": "references_external",
+   "to": "OAR 660-022-0030"
+  },
+  {
+   "from": "yamhill-orders-ord938-pdf",
+   "type": "references_external",
+   "to": "ORS 183.355"
+  },
+  {
+   "from": "yamhill-orders-ord938-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord938-pdf",
+   "type": "references_external",
+   "to": "ORS 455.020"
+  },
+  {
+   "from": "yamhill-orders-ord938-pdf",
+   "type": "references_external",
+   "to": "ORS 455.040"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 183.482"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 183.484"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 184.455"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 197A.025"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 215.412"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 227.160"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 293.316"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "ORS 426.327"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 125-145-0010"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 333-151-0050"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 340-071-0220"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-002-0010"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0010"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0020"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-004-0028"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-014-0030"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-015-0000"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0020"
+  },
+  {
+   "from": "yamhill-orders-ord943-pdf",
+   "type": "references_external",
+   "to": "OAR 660-033-0090"
+  },
+  {
+   "from": "yamhill-orders-ord945-pdf",
+   "type": "references_external",
+   "to": "ORS 197.830"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 192.610"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 442.015"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 677.100"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 682.015"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 682.025"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 682.031"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 682.036"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "ORS 682.062"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "OAR 333-255-0060"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "OAR 333-255-0070"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "OAR 333-260-0000"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "OAR 333-260-0020"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "OAR 411-054-0005"
+  },
+  {
+   "from": "yamhill-orders-ord946-pdf",
+   "type": "references_external",
+   "to": "OAR 847-035-0030"
+  },
+  {
+   "from": "yamhill-orders-ord947-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord949-pdf",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 205.130"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 205.340"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 209.070"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 271.230"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 517.030"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 517.210"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 517.290"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 92.090"
+  },
+  {
+   "from": "yamhill-orders-ord950-pdf",
+   "type": "references_external",
+   "to": "ORS 92.170"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 192.610"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 442.015"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 677.100"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 682.015"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 682.025"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 682.031"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 682.036"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "ORS 682.062"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "OAR 333-255-0060"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "OAR 333-255-0070"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "OAR 333-260-0000"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "OAR 333-260-0020"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "OAR 411-054-0005"
+  },
+  {
+   "from": "yamhill-orders-ord951-pdf",
+   "type": "references_external",
+   "to": "OAR 847-035-0030"
+  },
+  {
+   "from": "yamhill-orders-ord952-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ord952-pdf",
+   "type": "references_external",
+   "to": "ORS 223.230"
+  },
+  {
+   "from": "yamhill-orders-ord952-pdf",
+   "type": "references_external",
+   "to": "ORS 223.393"
+  },
+  {
+   "from": "yamhill-orders-ord952-pdf",
+   "type": "references_external",
+   "to": "ORS 223.505"
+  },
+  {
+   "from": "yamhill-orders-ord952-pdf",
+   "type": "references_external",
+   "to": "ORS 233.680"
+  },
+  {
+   "from": "yamhill-orders-ordinance-202-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ordinance-205-pdf",
+   "type": "references_external",
+   "to": "ORS 215.050"
+  },
+  {
+   "from": "yamhill-orders-ordinance-205-pdf",
+   "type": "references_external",
+   "to": "ORS 92.990"
+  },
+  {
+   "from": "yamhill-orders-ordinance-270-pdf",
+   "type": "references_external",
+   "to": "ORS 197.190"
+  },
+  {
+   "from": "yamhill-orders-ordinance-270-pdf",
+   "type": "references_external",
+   "to": "ORS 197.255"
+  },
+  {
+   "from": "yamhill-orders-ordinance-270-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ordinance-29-pdf",
+   "type": "references_external",
+   "to": "ORS 215.010"
+  },
+  {
+   "from": "yamhill-orders-ordinance-29-pdf",
+   "type": "references_external",
+   "to": "ORS 215.180"
+  },
+  {
+   "from": "yamhill-orders-ordinance-29-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ordinance-29-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 197.005"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 197.175"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 197.225"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 197.250"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 197.2503"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.055"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.110"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.130"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.263"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 215.990"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 308.740"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 446.210"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 522.005"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 528.005"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 586.210"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 92.044"
+  },
+  {
+   "from": "yamhill-orders-ordinance-83-and-schedule-a-pdf",
+   "type": "references_external",
+   "to": "ORS 92.046"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 135.805"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 153.005"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 153.018"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 153.025"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 153.042"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 153.080"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 153.992"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 203.065"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 205.125"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 205.126"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 30.460"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 368.251"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 368.256"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 368.942"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 401.025"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 454.640"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 456.775"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 459.085"
+  },
+  {
+   "from": "yamhill-orders-ordinance-932-pdf",
+   "type": "references_external",
+   "to": "ORS 467.100"
+  },
+  {
+   "from": "yamhill-orders-ordinance-933-pdf",
+   "type": "references_external",
+   "to": "ORS 192.640"
+  },
+  {
+   "from": "yamhill-orders-ordinance-933-pdf",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "yamhill-orders-ordinance-933-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ordinance-934-pdf",
+   "type": "references_external",
+   "to": "OAR 660-022-0010"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 190.010"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 200.005"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 200.055"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 200.065"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 200.075"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279.065"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279.100"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.055"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.065"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.100"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.105"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.110"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.120"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.128"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.200"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279A.220"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.055"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279B.085"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.100"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.107"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.110"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.120"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.307"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.330"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.332"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.335"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.355"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.412"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.440"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.445"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.450"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.505"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.510"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.515"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.520"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.525"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.530"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.540"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.550"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.580"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 279C.800"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 297C.320"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 297C.505"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 316.167"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 60.754"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 656.017"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 701.005"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 701.035"
+  },
+  {
+   "from": "yamhill-orders-ordinance-935-pdf",
+   "type": "references_external",
+   "to": "ORS 701.420"
+  },
+  {
+   "from": "yamhill-orders-ordinance-936-pdf",
+   "type": "references_external",
+   "to": "ORS 162.075"
+  },
+  {
+   "from": "yamhill-orders-ordinance-936-pdf",
+   "type": "references_external",
+   "to": "ORS 195.300"
+  },
+  {
+   "from": "yamhill-orders-ordinance-936-pdf",
+   "type": "references_external",
+   "to": "ORS 30.930"
+  },
+  {
+   "from": "yamhill-orders-ordinance-936-pdf",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "yamhill-orders-ordinance234-pdf",
+   "type": "references_external",
+   "to": "ORS 197.175"
+  },
+  {
+   "from": "yamhill-orders-ordinance234-pdf",
+   "type": "references_external",
+   "to": "ORS 215.050"
+  },
+  {
+   "from": "yamhill-orders-water-supply-report-pdf",
+   "type": "references_external",
+   "to": "OAR 690-086-0150"
   },
   {
    "from": "yamhill-policies-fy26-budget-book-pdf",

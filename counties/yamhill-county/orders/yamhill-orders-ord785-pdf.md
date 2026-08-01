@@ -1,0 +1,573 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord785-pdf
+title: 'ORD785-PDF'
+doc_type: ordinance
+citation: 'ORD785-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17433/ORD785-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 88846811aae752392d76d69cdc52b668fc6c49217db1f3ce40c2f0400e16db07
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.929; figure agreement 0.908; dictionary ratio 0.965. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 806.010
+    - ORS 807.010
+    - ORS 809.720
+    - ORS 811.175
+    - ORS 811.182
+    - ORS 813.010
+    - ORS 819.100
+    - ORS 819.120
+    - ORS 819.190
+    - ORS 819.440
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 93%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD785-PDF (ORD785-PDF)
+
+## At a glance
+
+OCR-derived text of ORD785-PDF. Not human-verified.
+
+## Full text
+
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                               FOR THE COUNTY OF YAMHILL
+
+                SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Repealing the Vehicle Tow Ordinance 782                 )
+and Adopting Ordinance 785 for the Yamhill County Sheriffs               )}    ORDINANCE 785
+Office to Provide Fair and Efficient Guidelines for Tows,                )
+and Declaring an Emergency                                               )
+
+        THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business on Wednesday, April 26, 2006, Commissioners Leslie
+Lewis, Kathy George. and Mary P. Stern being present.
+
+       IT APPEARING    TO THE BOARD that the Yamhill County Sheriffs Office adopted a Tow
+Ordinance 782 on April 12, 2006, which contained scrivener’s errors and outdated references.
+
+       NOW, THEREFORE, IT IS HEREBY ORDAINED BY THE BOARD:
+   The county repeals Towing Ordinance 782 in its entirety, replacing it with this ordinance. This
+ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill County, and
+an emergency having been declared to exist, is effective upon passage.
+
+DONE this 26" day of April, 2006, at McMinnville, Oregon.
+
+ATTEST                                 YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                        ne V
+                                             Veto (X BorasLESLIE LEWIS
+
+                                                 Hacks hater
+                                           dnissioner\/              G    KATHY GEORGE
+
+APPROVED AS TO FORM:
+   WL          (4                ~""Commissioner|                         MARY P. STERN
+Rick Sanai
+Assistant County Counsel               \\Yam-main\ddmin\Users\sanair\YCSO\TowPolicyRevised.wpd
+
+YCSO Towing Ordinance 785
+
+                                                                                          B.0. 06-283
+                                              Gambilt
+                                                 Crunty Shoriy's Office Poltey
+      Subject                                                                               Effective Date                Number
+                   Vehicle Tows, Inventories, Impounds and Releases | 11-01-05                                            5.14
+                                                                                            Revised/ Review Date        | No. Pages
+                                                                                            11-01-06                               Z
+                                                                                            Jack Crabtree
+                                                                                            Sheriff
+
+L               PURPOSE                                                 a vehicle is towed and impounded for evidentiary
+                                                                        purposes.
+The purpose of this policy is to provide deputies
+                                                                        Ordinance / Penalty Tow: a tow of any vehicle
+with guidelines for determining when and how a
+                                                                        impounded    for a violation         of law,     ordinance     or
+vehicle should be towed, inventoried, impounded,
+                                                                        under a court order.
+and/or released.
+                                                                        Abandoned / Hazard Vehicle Tow: the tow of any
+li.             POLICY                                                  vehicle which is deemed "Abandoned" under
+                                                                        applicable state law, county or other ordinance, or
+Vehicles         are   subject   to     towing,         inventories,
+impoundment and subsequent release for many                             which is impounded as a hazard or obstruction to
+and     varied    reasons   including     but not limited         to;
+                                                                        traffic under O.R.S.819.120.
+preserving evidential value in a criminal                     case,     Owner Request Tow, Non-Preference: the towing
+parking    and     ordinance   violations,                      and     and storage of privately owned vehicles, when the
+safeguarding property.                                                  operator, owner or person entitled to possession
+County Ordinance and          State               law      provides     of the vehicle specifically requests towing services
+authority to impound vehicles.                                          without    preference     for a particular towing
+                                                                        company and at their own expense.
+All impounded vehicles shail be inventoried as
+detailed within this policy, without exception. All                     Owner Request Tow, Preference: the towing and
+such inventories shall be conducted, at a                               storage of privately owned vehicles, when the
+minimum,     by completing the inventory and                            operator, owner, or person entitled to possession
+condition portion of the “Towed Vehicle Notice”                         of the vehicle specifically requests a preference
+form.                                                                   as to which company should provide the services
+                                                                        and at their own expense.
+A vehicle inventory is not a search. The searching
+of vehicles is detailed in policy 6.03 "Motor Vehicle                   Safekeeping / No Request Tow, Non-Preference:
+Searches’.                                                              Towing and storage of privately owned vehicles, in
+                                                                        which   the owner      or operator      cannot      or will not
+A vehicle inventory is an administrative measure                        indicate who they prefer to tow the vehicle (such
+designed to protect vehicles and their contents                         as vehicle accidents involving injury or death, and
+while in Sheriffs Office custody; to protect the                        the vehicle does not meet “Security Tow’
+agency against false claims of lost, stolen or                          requirements    or when      operator    has been
+damaged property; and to protect Sheriff's Office                       arrested).
+personnel and the public against injury or
+damaged property due to hazardous / dangerous                           impounded Vehicle: Any vehicle taken into Office
+materials or substances that may be in the                              custody, even temporarily, (including: evidence,
+                                                                        abandoned,    hazard,      ordinance,          subsequent      to
+vehicle.
+                                                                        arrest, safekeeping, etceteras) and stored by the
+It is the policy of this law enforcement agency to                      Office or for the Office may be considered
+conduct vehicle tows, inventories, impounds,                    and     “impounded”.
+releases only          in accordance      with the following
+procedures.                                                             IV.      TOWING IN GENERAL
+I.              DEFINITIONS                                             A.       Towing Agreements
+
+County Tow:            a tow of a vehicle owned              by the     Towing agreements / contracts shall be                         by
+County.                                                                 negotiation with the Sheriff's Office / County.
+
+Security / Evidence Tow: a tow of a vehicle in the                      B.       Procedures
+custody of the Sheriffs Office, which must be held                      Non-preference and preference tows should be
+in security storage. This most often occurs when                        requested directly by the Deputy contacting the
+                                                                        tow dispatch contractor 1-877-267-8699 (1-877-
+
+                                                                                                                         B.0.06°283
+                                   Yambill
+                                      Onunty Sheriff's Office Policy
+COP-TOWW). If the Deputy is unable to make                    Vi.      RECOVERED                       STOLEN
+direct contact with COP-TOWW the request can
+be made via our radio dispatch.                                        VEHICLES
+The tow dispatch contractor is responsible for                A        Recovered by an Outside Agency
+applying the “agreements / contracts” for all the
+                                                              Upon receiving a “locate” notification of the
+participating tow companies. This includes tow
+                                                              recovered stolen vehicle, records shall cause the
+rotations, tow lists, and area assignments.
+                                                              vehicle to be removed from any computer entry
+Lon         Paperwork                                         and the printout shall be forwarded to an on duty
+                                                              Deputy.
+Due to the time sensitive notifications required by
+statute it is imperative that reports and paperwork           The on duty Deputy shail immediately advise the
+for towed      vehicles   is completed    and   turned   in   victim of the status of the vehicle. If the victim is
+promptly.                                                     unavailable, the Deputy shall continue attempting
+                                                              contact with the victim. At the end of their shift, the
+Copies: White — Case report                                   Deputy shall pass the information to an on-coming
+            Green & Yellow ~ Records                          Supervisor or Deputy, who will make sure that the
+                                                              victim is contacted.
+            Pink — Tow Company
+            Gold -- Vehicie or operator                       After taking steps to contact the victim, the on duty
+Ordinance / Penalty tows: Deputies should                     Deputy will update the case file, investigate /
+complete the back portion of the Tow Notice and               follow-up as necessary and advise the original
+Inventory form, including the current amount of               investigating Deputy of his/her actions.
+the County processing fee.
+                                                              B.       Recovered for an Outside Agency
+V.          EVIDENCE TOW
+                                                              The Deputy shail confirm the stolen entry and
+A deputy may place a vehicle into evidence when               cause a “locate” notification to be sent to the
+additional investigation necessitates its retention.          primary agency. The Deputy shall process the
+In such instances, the vehicle must be towed to a             vehicle as evidence as requested by the primary
+secure county impound        storage lot.       The           agency, see section "Processing Stolen Vehicles"
+paperwork on the vehicle will then be processed               below for additional details.
+through the evidence system according to the
+office policy 4.10 "Evidence Control”. The deputy             A report shall be generated for the AOA and any
+shail visually accompany the vehicle to the lockup,           additional charges / crimes occurring in our
+                                                              jurisdiction.
+Tows as evidence may include but are not limited
+to, incidents involving:                                      An inventory shall be conducted as detailed in this
+                                                              policy and the vehicle shail be towed (unless
+1.        Stolen vehicle recoveries.                          impounded as evidence) as a non-preference
+2.        Vehicular assault or homicide.                      safekeeping tow at the owner’s expense.
+3.        Hit and run crashes.                                Cc.      Recovered      for   our   Agency     by   our
+4         Other such crimes where there is                             Agency
+          probable cause to believe that the vehicle
+          constitutes physical evidence to a crime.           The Deputy shail confirm       the stolen entry and
+                                                              cause records to remove        the vehicle from the
+Since space in secure impound storage is limited,
+                                                              computer system(s).
+it is the responsibility of the investigating deputy to
+process the vehicle as expeditiously as possible              The vehicle shail be processed for evidence. An
+so as to release or dispose of the vehicle as soon            inventory shall be conducted as detailed in this
+as possibie.                                                  policy and the vehicle shall be towed (unless
+                                                              impounded as evidence) as a non-preference
+The property officer shall make inquiries to the
+                                                              safekeeping tow at the owner's expense.
+investigating deputy of vehicies left in secure
+police storage for protracted periods of time, to             The Deputy shall file the appropriate follow-up
+ascertain the continuing status of the vehicle as             report(s) for the case file and advise the owner of
+evidence.                                                     the status.
+
+04/13/2006                                                                             5.14 Vehicle Tows, Inventories
+                                  Yambill County, Sherift's Office Policy
+D.        Processing Stolen Vehicles                          When       the   owner     or operator   of a vehicle    is
+                                                              injured, arrested        (not DUII, see ordinance tows),
+This agency shall be responsible for the
+                                                              or is incapable of making a decision about his
+evidentiary processing of any vehicle it recovers
+                                                              vehicle, a deputy may impound the vehicle for
+unless directed otherwise by the primary agency
+                                                              safekeeping at the tow company lot.
+or a supervisor. Generally recovered vehicles
+shall be processed for latent evidence at the                 In any case the vehicle will be inventoried as on
+scene unless the seriousness of the crime                     towed vehicle notice form.
+dictates impounding the vehicle as evidence and
+                                                              Owners / Operators physically              and   mentally
+processing the vehicie at a secure location.
+                                                              capable may choose one of                  the   following
+Outside processing assistance may be requested
+                                                              safekeeping alternatives:
+for more serious crimes or unique circumstances.
+                                                              1.     Leave the vehicle legally parked and locked at
+Outside agencies may request a “hold for
+                                                                     the scene.
+processing” so their experts can process the
+vehicle. An inventory of all vehicles recovered                      Request a preference or non-preference tow.
+shall be conducted prior to towing unless a “hold
+                                                                     Turn the vehicle over to some other person
+for search warrant’ is in effect.
+                                                                     present providing:
+E.        Vehicle Identification Number (VIN)
+                                                                         The owner or operator gives permission.
+          Alterations     i     Destruction   /
+          Discrepancies                                                  The person taking possession has a valid
+                                                                         operator's license.
+ORS 819.440 allows law enforcement to seize a
+vehicle “when a police officer discovers a vehicle                  c.   The person taking possession is not under
+or component, including a transmission, engine or                        the influence of intoxicants
+other severable portion of a vehicle which
+possesses or did possess an_ identification                   IX.        ABANDONED VEHICLES
+number,      from   which   the   vehicle    identification   Personnel who receive complaints of vehicles
+number assigned to the vehicle or component has               being abandoned should obtain all pertinent
+been    removed,      defaced,    covered,     altered   or   information including license number, description,
+destroyed the police officer may seize and hold it            location, and lapse of time involved.
+for identification and disposal as provided.”
+The purpose of this is to allow the agency to                 A.         Abandoned Procedures.
+inspect the questioned vehicle to ascertain its               1.         A check of stolen vehicle files will be
+status (stolen or not) and legal ownership in                            conducted. Both license number and VIN
+addition to investigating any applicable crimes                          numbers will be used when practical.
+which may include but is not limited to ORS                   2.         Verify that the vehicle is on a “public way”,
+164.135, 819.300, 819.310, 819.430.                                      and not private property.
+It is preferred that such investigations and                  3.         Complete and attach the 24-hour warning
+inspection be conducted at the scene whenever                            advisement      sticker   to   the    vehicle.
+possible. Any seizure and towing under 819.440                           Deputies will complete the top portion of a
+shail require a supervisors approval prior to the                        copy of the Towed Vehicle Notice only.
+tow.                                                                     No case number(s) are taken at this time.
+                                                              4,         The copy of the Towed Vehicle Notice will
+Vil.      COURT ORDERED TOWS                                             be placed in the abandoned tow box for
+                                                                         follow up. Each shift will check this box
+Court ordered tows or civil ordered tows shall be
+                                                                         daily for abandoned vehicles that have
+executed as detailed in the order and per statute.
+Ail such vehicles shall be inventoried as detailed                        surpassed the 24-hour grace period;a ~~
+                                                                         Deputy will follow up on the vehicle(s) as
+in this policy. The Deputy shall cause the proper
+report(s) to be filed and receipts to be issued.                         time allows.
+Records or the Civil Division shail make any                  5.         if the vehicle remains in violation of ORS
+necessary computer entries and process the                               819.100 after the 24-hour notice period,
+order as required.                                                       the vehicle shail be removed. The deputy
+                                                                         assigned fo remove the vehicle shall
+Vill.     SAFEKEEPING                                                    complete a 5 part Towed Vehicle Notice
+                                                                         form and call for a non-preference tow to
+
+04/43/2006                                                                                  5.14 Vehicle Tows, Inventories
+                                      Yembill
+                                         Qnunty Sheriff's Office Policy
+          have the vehicle removed. The Deputy                      4,     Complete an inventory of the contents of the
+          will generate a case number at the time of                       vehicle using the inventory portion of the
+          the tow.                                                         towing form.
+6.        The Deputy will conduct an inventory of                   5.     The deputy will make, or have made the
+          the vehicle. Abandoned and disabled                              appropriate computer entry and attach a copy
+          vehicles which interiors are not accessible
+                                                                           of the print out to the report.
+          due to being secured, shall have the
+          exterior inventoried     and the interior                 6.     The vehicle will be towed to the tow company
+          visually inventoried as completely as                            lot.
+          possible.
+7.        The vehicie will       be   towed     fo the   tow         B.         Disabled Procedure.
+          company lot.                                                     If a vehicle is disabled at the scene of an
+
+                                                                    ~~
+                                                                           accident or other incident and constitutes a
+B.    _   Private Property Tow Requests
+                                                                           hazard or obstruction to traffic, and the owner
+it is not uncommon for a private property owner fo                         or operator cannot or will not specifically
+contact the Sheriffs Office requesting that an                             request a preference or non-preference tow, it
+abandoned       vehicle     be    towed       from   private               is considered a hazard vehicle tow.
+property. ORS 819.100 makes abandoning a
+vehicle a class B traffic infraction and depending                  Xl.        =PENALTY/ORDIANCE
+on the circumstances, other charges may be                                     TOWS
+appropriate if a suspect can be developed. The
+ORS makes the registered owner liable for any                       A.         Procedures
+costs for the removal and storage of such
+abandoned vehicles. Abandoned vehicles on                           ORS 809.720, provides authority to tow vehicies
+private property may be towed at owner expense                      when the operator is in violation of one of the
+and are subject to the procedures detailed in ORS                   following; ORS 807.010 No Operator License \
+98.830 Deputies shall advise the property owner                     outside license restrictions, ORS 811.175 Driving
+of these requirements and it is then the property                   while suspended Infraction, ORS 811.182 Driving
+owners responsibility to have the vehicle removed                   while   suspended     \    Revoked   felony   or
+if desired. If the suspect vehicle is part of an                     misdemeanor,       ORS   806.010    Driving     uninsured,
+Office criminal investigation it can be removed                     and ORS 813.010 Driving Under the Influence of
+under Office authority as appropriate.                              Intoxicants. Yamhill County Ordinance 97-752
+                                                                    provides for administrative fees to cover the
+X.        HAZARD VEHICLE TOWS                                       administrative costs for impoundment of vehicle
+                                                                    under the Oregon vehicle code.
+ORS 819.120 provides authority to immediately
+                                                                     1.    In the absence of proof of insurance, the
+remove vehicles that constitute a hazard. The
+                                                                           Deputy shall make a reasonable attempt to
+Deputy will use the definitions described under
+                                                                           prove the lack of insurance prior to towing the
+ORS 819.120 combined with common sense and
+discretion to determine if a vehicle is a hazard.                          vehicle.
+
+A         Hazard procedures.                                         B..       Upon     towing    a   vehicle    the     Deputy
+                                                                               shall:
+The Deputy will make reasonable effort to contact
+the owner. Should the deputy not be able to
+contact the owner he shall:
+4,   Verify the |.D. number with the registration |.D.         |.   1...   Verify the VIN number          with     the   vehicle
+     number.                                                               registration information.
+2.   Request a non-preference tow and cause the                     2.     Complete a Towed Vehicle Notice, providing
+     vehicle to be towed.                                                  the Gold copy to the operator.
+3.   Complete a Towed Vehicle Notice and leave                       3.    Complete an inventory of the contents of the
+     the Gold copy of the Notice in or on the                              vehicle as on the tow notice form.
+     vehicle.
+                                                                    4,     The Deputy will have the vehicle entered into
+                                                                           LEDS as being towed as a penalty Tow and
+
+04/13/2006                                                                                       5.14 Vehicle Tows, Inventories
+                                         Yanbill County Sheriff's Office Policy
+       attach a copy of the print out to the report.                       inventory without a warrant or probable
+       The computer entry will show that there is a                        cause when:
+       HOLD on the vehicle until a release is                              The vehicle has been lawfully seized or
+       obtained from the Sheriff's Office.                                 impounded pursuant to the arrest of the
+                                                                           driver; when towing the vehicle for
+5.     Request a non-preference tow and cause the
+                                                                           violations of ordinance                  or other ifaw, or
+       vehicle to be towed to the Tow Company's lot.
+                                                                           for     related          enforcement            or    safety
+6.     The white copy of the Towed Vehicle Notice                          reasons      as defined               by state law, and /
+       form will be attached to the appropriate report,                    or,
+       infractions on a card report, crimes on an                          When an accident requires the tow of a
+       incident report. The Green and Yellow copies                        vehicle and the owner or operator is not
+       must     promptly   go   to records     division                    available,    such            as      death   and    serious
+       impounded vehicle box.                                              injury accident and,
+                                                                           When deputies conduct the inventory
+Lon             Claiming a Vehicle.
+                                                                           within the scope of this policy as an
+To claim a vehicle, which            has been towed            under       administrative procedure and,
+Penaity provisions, the owner must bring to the
+                                                                           Only when the impoundment does not
+Sheriffs Office:
+                                                                           involve a criminal investigative purpose.
+1.     Proof of ownership,       ie. vehicle registration or               Examination of the contents of a vehicle
+       title.    If the owner is not available to come to                  pursuant to a criminal investigation or with
+       the Sheriffs Office to recover the vehicle, the                     the intent of discovering evidence of a
+       owner may send a letter or fax that authorizes                      crime    is a search,              not an administrative
+       a specific person named in the letter to pick                       inventory.   Deputies shall be guided by
+       up the      vehicle.     Questions      regarding                   this agency's policy on vehicle searches
+       ownership or an authorization letter should be                      when engaged in these actions.
+       Staffed with a supervisor. That person is
+       required to have a valid driver's license.
+2.     Proof of insurance on the impounded vehicle.                        Scope of Inventory
+       Valid driver's license.                                             The contents of ail vehicles that are
+                                                                       =
+w@
+
+4.     Cash,       cashiers   check,         money     order,     or       lawfully seized and/or impounded by this
+       travelers      check    for     the    amount      of     the       agency shall be subject to inventory in
+       administrative fee.                                                 accordance with the provisions of section
+                                                                           XIL-A of this policy.
+5.     If the vehicle is being repossessed or
+       otherwise claimed by a legal lien holder, the                       An inventory should be conducted in the
+       proper legal paperwork and associated proof                         location at which the vehicle is seized
+       is required.                                                        unless limited by reasons of safety or
+                                                                           practicality. If so, it may be inventoried at
+Dd.      Release Receipt.                                                  a later time following impoundment.
+After the owner has provided the Sheriffs Office                           The owner or operator of the vehicle
+with the above          information,     the deputy     or office          shjould be asked to remove, if possible,
+member authorizing the release of the vehicle will                         all valuables from the vehicle prior to
+provide the owner with a receipt which when                                impoundment.        If such items cannot be
+shown to the tow company authorizes the release                            removed, they shall be inventoried before
+of the vehicle.    The owner of the vehicie is                             the     vehicle         is     removed,        and     when
+responsible for all towing and storage charges                             possible     the        owner/operator          should     be
+accrued by the towing company.                                             requested to verify the completeness of
+                                                                           the inventory by signature.
+Xll.            INVENTORY                                                  A vehicle inventory may extend to all
+                                                                           areas of the vehicle in which personal
+                PROCEDURES                                                 property or hazardous materials may
+A.              Legal Authority to Inventory                               reasonably         be        found,     including    but   not
+1.              Any authorized member of this agency                       limited to the passenger compartment,
+                may and should conduct a      vehicle                      trunk and glove compartment.
+
+04/13/2006                                                                                         5.14 Vehicle Tows, Inventories
+                                 Yamhill
+                                    County Sheriff's Office Policy
+5.        All closed containers found within the        Property in Custody form and a copy given to the
+          vehicle shall be opened for purposes of       owner of the property or to the owner/operator of
+          the    inventory.  Closed   and    locked     the vehicle.   If no owner or owner/operator is
+          containers shall not be forced open but       available, the receipt shall be left in a conspicuous
+          shail be logged on the impound report as      piace in or about the vehicle.                             .
+          such.    If a key or lock combination is
+                                                        1.           When property of        extraordinary value
+          available,   locked   containers   may   be
+                                                                     (jewelry or cash         for example)     is
+          opened and inventoried.
+                                                                     discovered,    and   the owner   is unable   to
+Cc.       Case Law                                                   take possession        of the item(s) that
+                                                                     property shall be      properly documented
+Case law in this area provides additional guidance
+to the deputy conducting a vehicle inventory. in
+                                                                     and entered into an evidence locker for
+                                                                     safekeeping.
+general:
+                                                        2.           Control and safekeeping of hazardous
+1.    Transparent containers visibly containing only                 materials shall be the responsibility of this
+      contraband may be opened and a portion of                      agency's designated authority.
+      the contents removed for testing.                 3.           Contraband and evidence discovered
+2.    Unlocked, open or accessible compartments                      during the course of a vehicle inventory
+      in the vehicle that may contain valuables or                   shall be deposited with the property /
+      dangerous items may be opened, such as the                     evidence       control   department — in
+      glove box and trunk.                                           accordance with procedures for control of
+                                                                     criminal evidence.
+3.    Opaque     containers that are labeled to
+      announce they contain only contraband may
+                                                        Xl.          HEARINGS
+      be opened.                                        A.       Tow Hearing Request.
+4.    Objects that announce by their design that        As required by ORS 819.190, any person
+      they contain valuables may be opened, such        receiving notice of a tow as detailed in ORS or
+      as purses,   briefcases, fanny packs, and coin    any other person who reasonably appears to have
+      pouches. These are not considered “opaque         an interest in the vehicle may request a hearing
+      containers”.                                      on the validity of the towing.
+                                                        1.    The request for a hearing must be submitted
+5.    Opaque containers that announce by their
+                                                              in writing to the Yamhill County Hearings
+      design, when interpreted through the deputy’s
+      training and experience, to reasonably be               Officer, not later than five (5) days after the
+                                                              mailing of the impoundment notice, excluding
+      believed to contain only contraband may be
+                                                              Saturdays,    Sundays,    and    holidays. The
+      opened, such as paperfold bindles, balloons,
+      and unique types of vials (not film canisters).         hearing request must include what grounds
+                                                              upon the tow is being contested.
+6.    Opaque containers that announce contraband        2.    The hearing date must be set within 72 hours
+      may be present but which cannot reasonably              from     the   date   the   request   was   received,
+      be said to contain only contraband items may            excluding Saturdays, Sundays, and holidays.
+      not be opened,       such as coolers, film        B.    —_—- Deputy Appearance.
+      canisters, matchboxes, and suitcases (even if
+      there is some evidence of contraband such         When a deputy has caused a vehicle to be towed
+      as an odor of marijuana). These items should      and has been notified of a validity hearing, the
+      be seized in an unopened state and a warrant      deputy is required to appear at the hearing. The
+      requested.                                        deputy may submit an affidavit to the hearing
+                                                        officer, in lieu of appearing in person, if approved
+D.       Property Control                               by the hearing officer prior to the hearing.        A
+All contents of the vehicle will be inventoried with    deputy appearing at a hearing shall conform to the
+the exception of vehicles towed pending the             same uniform requirements as in a grand jury
+issuance of a search warrant.       A copy of the       appearance,
+Towed Vehicle Notice and Inventory form shall be        Cc.          Tow Hearings Procedures
+provided to the vehicle owner / operator or left
+conspicuously with the vehicie. All items taken into
+custody during an inventory shail be listed on a
+
+04/13/2006                                                                            5.14 Vehicle Tows, Inventories
+                              Yamhill. Qountly, Sheriff's Office Poliey
+Tow hearing shall be conducted as detailed in         The Property / Evidence Control personne! shall
+ORS, specifically ORS 819.190 and any other           cause     unclaimed,   released,  vehicles  under
+applicable laws or regulations.                       agency control to be disposed of pursuant to
+                                                      Oregon      Revised Statutes after all required
+XIV. RELEASE                 OF        TOWED          notifications have been sent out and dacumented,
+     VEHICLES                                         or after having received a signed release under
+                                                      oath by the owner disclaiming further interest in
+Vehicles requiring a release by this agency           the vehicte.
+(evidence, ordinance / penalty tows) may. be
+processed    during   normal   records division
+business hours. Monday through Friday, 0800 to
+1700 hours excluding holidays.
+Owners     of vehicles towed     for other than
+evidentiary value will be directed to the tow
+company where the vehicle is stored, with the
+exception of Ordinance / Penalty Tows (see
+specific release details for such tows). Vehicle
+owners will be required to show some proof of
+ownership and pay the towing and storage costs.
+Under no circumstances will a vehicle towed as
+evidence be made available to the owner until
+approved by a supervisor and released by the
+appropriate prosecuting attorney.
+
+XV.     RECORDS PROCESSING
+A.      Notifications
+1.      Vehicles Towed as Evidence: The owner
+        of any vehicle towed as evidence will be
+        notified by the Property / Evidence
+        Control personnel.        As soon as the
+        evidence is cleared for release, the
+        evidence official will notify the owner of
+        the vehicle. The notice shall state that
+        the vehicle can now be released and shall
+        be sent certified mail.       The evidence
+        Official will notify the records section as
+        soon as the vehicle is cleared for release
+        fo owner.
+2.      All Others: The records personnel will
+        send written notification of all towed
+        vehicles in which a tow notice has been
+        completed to both the registered owner
+        and legal owner or lien holder as may be
+        required by ORS. (Refer to ORS 809.720
+        809.725, 819.180)
+
+XVI.    DISPOSITION        OF
+        UNCLAIMED VEHICLES
+Unless the vehicle is secured as evidence by
+YCSO it shall be the individual tow company's
+responsibility to process unclaimed vehicles in
+accordance with applicable state statute(s).
+
+                                                                                       B.0. 06-232
+04/13/2006                                                                  5.14 Vehicle Tows, Inventories
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 92.9% of
+the word sequence, and on 90.8% of the figures. Dictionary-recognizable words: 96.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,591 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord816-pdf
+title: 'ORD816-PDF'
+doc_type: ordinance
+citation: 'ORD816-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17397/ORD816-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 5b3b37d6128c1c15c0c86440d64d9f686dc3e4ced19ab724ad34601d1c4790ef
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.987; figure agreement 0.773; dictionary ratio 0.942. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-004-0028
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD816-PDF (ORD816-PDF)
+
+## At a glance
+
+OCR-derived text of ORD816-PDF. Not human-verified.
+
+## Full text
+
+Vol 100
+                                                                   1771
+                                                                                                      sen   ay
+            BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON                                        2
+
+                                   FOR THE COUNTY OF YAMHILL
+
+                          SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a Comprehensive Plan amendment                      )
+from Agriculture/Forestry Large Holding and Very Low Density                     )
+Residential to Industrial; a zone change from EF-80, Exclusive Farm              )
+use and VLDR-2.5, Very Low Density Residential to LI, Light                      )   Ordinance 816
+Industrial, Taking an Exception to Goal 3, & Approving Site Design               )
+Review, Docket PAZ-07-07/SDR-10-07, Tax Lot 5316-2401,                           )
+2900 and 3000, Applicant Oregon Truss, and Declaring an Emergency                )
+
+          THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the “Board”) sat
+for the transaction of county business on September 19, 2007, Commissioners Kathy George, Mary P. Stern
+and Leslie Lewis being present.
+
+          If APPEARING TO THE BOARD that Oregon Truss requested approval ofa Comprehensive Plan
+amendment from Agriculture/Forestry Large Holding and Very Low Density Residential to Industrial; a zone
+change from EF-80, Exclusive Farm use and VLDR-2.5, Very Low Density Residential to LI, Light
+Industrial, taking an exception to Goal 3. The applicants have also requested a Site Design Review in order
+to expand the existing truss manufacturing business.
+
+           IT APPEARING TO THE BOARD that the matter was heard at a duly noticed public hearing
+before the Planning Commission, which unanimously recommended approval; and a public hearing was held
+before the Board on September 5, 2007. After hearing testimony from the applicant the Board voted 3 to 0
+to approve the application. NOW, THEREFORE,
+
+        IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as detailed in the
+Findings for Approval, attached as Exhibit “A” and by this reference incorporated herein. This ordinance,
+being necessary for the health, safety, and welfare of the citizens of Yamhill County, and an emergency
+having been declared to exist, is effective upon passage. A map is attached as Exhibit “B”.
+
+          DONE this 19" day of September, 2007, at McMinnville, Oregon.
+
+ATTEST:                                    YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+JAN COLEMAN          ah                                   dee
+County Clerk              lyfe         \   ae                         (SATHY GEORGE
+BiLayhu                                       eee         p        Soc.
+Deputy Anne                        p       Commissioner                 MARY P. STERN
+
+APPROVED AS TO FORWE                        We fe.            bé      Mow«"
+      ae           Qn.                     Ch immissioner &             LESLIE LEWIS
+
+Rick Sanai, Assistant County Counsel
+
+                                                                        Ord.   816   Oregon   Truss              1
+                                                                                               B.0
+                                                                                                OF -884
+                                                       Vol 100
+                                                       1772
+
+Exhibit “A” Findings for Approval
+
+DOCKET NO.:                   PAZ-07-07/SDR-10-07
+
+REQUEST:                      Approval of a Comprehensive Plan amendment from
+                              Agriculture/Forestry Large Holding and Very Low Density
+                              Residential to Industrial; a zone change from EF-80, Exclusive Farm
+                              use and VLDR-2.5, Very Low Density Residential to LI, Light
+                              Industrial. An exception to Goal 3 is also required. The applicants
+                              have also requested a Site Design Review in order to expand the
+                              existing truss manufacturing business.
+
+APPLICANT:                    Oregon Truss
+
+TAX LOT:                      5316-2401, 2900 and 3000
+
+LOCATION:                     17900 and 18000 SE Wallace Road, Dayton
+
+CRITERIA:                     Sections 702, 1101 and 1208.02 of the Yamhill County Zoning
+                              Ordinance. Section 904, Limited Use Overlay may also be applied.
+                              Comprehensive Plan policies may be applicable. OAR 660-04,
+                              Exception Process. OAR 660-12-0060 Transportation Planning
+                              Rule.
+FINDINGS:
+
+       Background Facts:
+
+       Property size: A combined total of approximately 9.5 acres.
+
+       Access:   Wallace Road with a proposed access off of Fairview Road.
+
+       On-site Land Use and Zoning: Tax Lot 2900 is split zoned VLDR-2.5, Very Low Density
+       Residential and EF-80, Exclusive Farm use and contains a single family residence. Tax Lot
+       2401 is zoned VLDR-2.5 and is vacant. Tax Lot 3000 is split zoned VLDR-2.5          and LI,
+       Light Industrial and contains the truss manufacturing facility and a residence.
+
+       Surrounding Land Use and Zoning: The surrounding area is largely zoned VLDR-2.5 and
+       EF-80. There are a few parcels with residences and open flat parcels in farm use including
+       orchards and hay. There are a few parcels to the south of the subject property which are
+       zoned NC, Neighborhood Commercial and contain the Grand Island Store. A small parcel,
+       adjacent to the subject property is zoned PWS, Public Works Safety and contains a power
+       substation. To the north is an area zoned PALF, Public Airport/Landing Field.
+
+       Soils: The Yamhill County Soil Survey indicates the parcels are composed primarily of
+       Woodburn (WuB) and Amity (Am), Class II, prime farmland.
+
+                                                             Ord.   816   Oregon   Truss             2
+
+                                                                                           B.0-0%-R34
+                                                                       Vol 100
+                                                                       1773
+Findings      -   Docket   PAZ-07-07/SDR-10-07       (Oregon   Truss)
+
+        Water: An existing on-site well.
+
+        Sewage Disposal: On-site septic system.
+
+        Fire Protection: Dayton Fire District
+
+       Taxes: All three lots are taxed at market value.
+
+10.     Previous Actions: In 1980, Tax Lot 2401 was created through a partition, Docket P-1155-
+        80. Tax Lot 3000, a conditional use application was approved for a home occupation and
+        truss manufacturing business in 1981 (Docket C-470-81) and then again in 1983 (Docket
+        C-495-83). In 1984 an application for a plan amendment and zone change from VLDR-
+        2.5 to LI through Docket PA-144-84/Z-264-84 was approved. No previous actions on Tax
+        Lot 2900.
+
+ll.     Description of Proposal: This application has several parts in order to achieve the final end
+       result of one tract of land useable by Oregon Truss for expansion of its manufacturing
+       business. The first step is for an amendment to the Comprehensive Plan to change the
+       VLDR designation that is on 4.85 acres of the subject property (3.5 acres on Tax Lot 3000,
+        0.46 acres on Tax Lot 2401 and 0.89 acres on Tax Lot 2900) to Industrial. In addition, a
+        one acre portion of Tax Lot 2900 that is plan designated AFLH, Agriculture/Forestry Large
+        Holding, will also need to be amended to Industrial. Because of this change, an exception
+        to Goal 3, Agriculture Goal, is required. Also, the application involves changing the zone
+        on the said properties from VLDR-2.5 and EF-80 to LI. The last part of the application is
+        for site design review for Oregon Truss to expand operations to occupy and use the entire
+        9.5 acre tract.
+
+B.      Zone Change and Plan Amendment Provisions and Analysis
+
+Note: The applicant’s representative has done a thorough job of addressing most of the criteria.
+Where the criteria has adequately been addressed by the applicant, staff will simply point to that
+in the staff report instead of repeating the applicant’s justification.
+
+1.     The Plan Amendment portion of the request is not subject to local review criteria but shall
+       be consistent with the local Comprehensive Plan per Section 1208.02 (A) of the YCZO.
+
+       The zone change portion of the request must comply with the standards and criteria in
+       YCZO Section 1208.02. These provisions are:
+
+        (A)       The proposed change is consistent with the goals, policies, and any other
+                  applicable provisions of the Comprehensive Plan.
+
+                                                                Ord,      816   Oregon   Truss          3
+                                                                             Vol 100
+                                                                             1774
+
+Findings     -   Docket    PAZ-07-07/SDR-10-07      (Oregon   Truss)
+
+      (B)        There is an existing demonstrable need for the particular uses allowed by the
+                 requested zone, considering the importance of such uses to the citizenry or the
+                 economy of the area, the existing market demand which such uses will satisfy, and
+                 the availability and location of other lands so zoned and their suitability for the
+                 uses allowed by the zone.
+
+      (CQ)       The proposed change is appropriate considering the surrounding land uses, the
+                 density and pattern of development in the area, any changes which may have
+                 occurred in the vicinity to support the proposed amendment and the availability of
+                 utilities and services likely to be needed by the anticipated uses in the proposed
+                 district.
+
+      (DP)       Other lands in the county already designated for the proposed uses are either
+                 unavailable or not as well-suited for the anticipated uses due to location, size, or
+                 other factors.
+
+      (E)        The amendment is consistent with the current Oregon Administrative Rules for
+                 exceptions, if applicable.
+
+      Regarding criterion (A) above, the applicant has addressed the goals and policies starting at
+      the bottom of page 6 of the application, the entirety of which is incorporated into these
+      findings by this reference. Within the application the housing and economic goals have
+      been addressed due to the application involving converting residential land to industrial.
+      The Board finds that the loss of rural residential housing is, at most, two sites. These two
+      sites are currently non-conforming in regards to the lot sizes and both are situated between
+      commercially and industrially zoned properties which is less than ideal for rural residential
+      housing.
+
+      Industrial development Comprehensive Plan goals and policies which may be pertinent are:
+
+      Industrial Development Goal Statement H.1: To concentrate industries of similar types,
+      service needs, and performance characteristics within designated areas of each of the
+      existing urban centers; to encourage adequate land for new industrial development within
+      urban growth boundaries; to encourage the relocation of existing industries from
+      undesirable locations in order to eliminate land use conflicts; to attract new industries in
+      accordance with the need to achieve a more balanced local property tax and employment
+      base, while maintaining a high standard of environmental quality; and to protect the
+      stability and functional aspect of industrial areas by protecting them from incompatible
+      uses.
+
+      Policy LH.1.b: To the greatest extent possible, industrial areas will be located within
+      urban growth boundaries. Those industrial areas located outside urban growth
+      boundaries will be compatible with the industrial development goal and will be located
+      where they can be adequately served by necessary major utility lines, including electric
+
+                                                                Ord.   816   Oregon    Truss            4
+                                                                            Vol 100
+                                                                            1775
+Findings   -   Docket   PAZ-07-07/SDR~10-07        (Oregon   Truss)
+
+      power substations and transmission lines, trunk sewer lines, trunk water lines, and where
+      appropriate, trunk gas lines.
+
+      The above goal and policy both encourage the location of industrial uses within the urban
+      growth boundaries.    The Board finds that the truss business is well suited in its current
+      location with no problems of compatibility with neighboring properties and the subject
+      property has historically been identified and used as a commercial/industrial property for
+      decades. The use appears to be well suited for the location and has integrated well with
+      other uses in the area.
+
+      Policy LH.1.6 states in part that industrial uses -. . . will be located where they can be
+      adequately served by necessary major utility lines, including electric power substations
+      and transmission lines, trunk sewer lines, trunk water lines, and where appropriate, trunk
+      gas lines.
+
+      The purpose of this policy is to assure that industrial users which are expected to utilize
+      large amounts of water or electricity will be located within close proximity to places were
+      those utilities are located. In this case the light industrial use is not anticipated to require
+      major utility lines, or trunk sewer or water lines. The need is only anticipated to be basic
+      power, water and sewer services.
+
+      Policy ILA.2.a: Yamhill county will continue to preserve those areas for farm use which
+      exhibit Class I through IV soils as identified in the Capability Classification System of the
+      U.S. Soil Conservation Service.
+
+      The property has Class II soils, so the request would need to be weighed against other plan
+      policies to determine if the use complies with the intent of the Comprehensive Plan. It
+      should be noted that only one acre of the subject property is currently zoned for farm use,
+      EF-80, and protected by Goal 3, Agricultural Goal. Conversion of the additional one acre
+      of agricultural land on Tax Lot 2900 is addressed in Section C of these findings. The
+      remainder of the property is zoned for rural residential use.
+
+4,    Regarding the need for the proposed use, criterion (B), the applicant has addressed this
+      criterion on pages 9 through 11 of the application. Based on the evidence provided it the
+      Board finds there is an existing demonstrable need for the business in the area.
+
+      The availability and suitability of other LI zoned lands will be discussed in Finding B.6.
+
+5.    Regarding criterion (C), as indicated above, the subject parcels are within an area that has
+      historically been used for commercial and industrial operations. There are about a dozen
+      rural residential lots in the area, a store, a landing field for small planes, a small nursery, a
+      gas station, a utility facility and large farm parcels. The truss plant has been operating at the
+      current location since the 1980's and, according to the applicant, has never caused any
+      problems to neighboring properties. The business has been well maintained and the facility
+
+                                                               Ord.   816    Oregon   Truss               5
+                                                           Vol 100
+                                                           1776
+
+Findings
+Docket PAZ-07-07/SDR-10-07 (Oregon Truss)
+
+      is landscaped so you can hardly see it when driving along Wallace Road. No additional
+      utilities and services are likely to be needed by the proposed expansion. The proposed
+      expansion is minor in size and scope and there is no reason to believe this expansion will
+      change the compatible nature of the operation.
+
+      Regarding criteria (D), the applicant has indicated the requirements for suitability of other
+      available lands would need to be approximately 10 acres in size, flat, near suppliers and
+      markets and with good truck transportation routes. The applicant indicated they found no
+      other lands in the county that were properly zoned and suitable for the proposed use due to
+      the unique nature of the expansion. The request appears to comply with criterion (D).
+
+      Exception requirements, criterion (E), are addressed in section C of this report.
+
+      Goal Exception Requirements and Analysis
+a
+
+      A one acre portion of Tax Lot 2900 is currently protected as agricultural land under
+      Statewide Planning Goal 3. The applicant believes that perhaps an error was made in
+      mapping the EF-80 on to Tax Lot 2900 due to the fact that the site has never been farmed,
+      it is not in farm deferral, it historically has been used as a rural residential parcel and is
+      bordered on three sides by VLDR-2.5 zone. If this were the case the applicant would not
+      need to apply for an exception to Goal 3. After staff review, it appears the parcel has been
+      split zoned since 1976 when the county was initially zoned. An exception to Goal 3 must
+      be approved in order to rezone the area to LI.
+
+      Oregon Administrative Rule (OAR) 660-04 contains the requirements for taking goal
+      exceptions. The applicant has chosen to use the exception requirements for land
+      irrevocably committed to other uses found in OAR 660-04-028, which contains four
+      factors that must be addressed when taking an exception to a goal. They are:
+
+      (@      The characteristics of the exception area;
+
+      (b)     The characteristics of the adjacent lands;
+
+      (¢)     The relationship between the exception area and the lands adjacent to it; and
+
+      (d)     ‘The other relevant factors set forth in OAR 660-004-0028(6).
+
+      Regarding the above factors, the applicant has stated the site has never been farmed, is not
+      in farm deferral, historically has been used as a rural residential tract and is bordered on the
+      other three sides by VLDR-2.5 zoning. The shape and size of the property would make it
+      unsuitable for farming as well as its proximity to residential dwellings. It appears that
+      because of the size of the area to be rezoned and the non-resource zoning and the uses on
+
+                                                              Ord.   816   Oregon   Truss              6
+                                                       Vat 100
+                                                       4777
+
+Findings
+Docket PAZ-07-07/SDR-10-07 (Oregon Truss)
+
+       the surrounding properties this smal! parcel is committed to non-resource use. Regarding
+       relevant factors from OAR 660-004-0028(6), the expansion does not require additional
+       public facilities other than what is already existing in the area. The applicant has
+       thoroughly addressed this in the application starting on page 15 and his response is
+       incorporated herein in its entirety. The Board finds the one acre area proposed for the zone
+       change is justified as a committed exception area.
+
+Cc    Goal 12 (Transportation Rule) Provisions and Analysis
+
+The provisions of the Transportation Planning Rule, implementing Goal 12, must be addressed.
+OAR 660-12-060 contains the provisions that must be met:
+
+       (D)    Amendments to functional plans, acknowledged comprehensive plans, and land use
+               regulations which significantly affect a transportation facility shall assure that
+               allowed land uses are consistent with the identified function, capacity, and level of
+               service of the facility.
+
+       A portion of the subject tract is already zoned LI and is currently being used for a truss
+       manufacturing business. The proposed expansion should not change or amend the
+       functional plan of Wallace Road or Fairview Road. Therefore, it appears that the proposed
+       use is consistent with the identified function, capacity, and level of service of the local
+       roads. The proposal will be subject to the ODOT permitting process.
+
+       Limited Use Overlay Provisions
+e
+
+       OAR 660-04-18(3)(a) states that when a reasons exception is taken, plan and zone
+       designations must limit uses to only those that are justified in the exception.
+
+       Section 904.03 of the YCZO contains provisions for limited use overlays.            It states:
+
+       (A)     When the Limited Use Overlay District is applied, the uses permitted in the
+              underlying zone shall be limited to those specifically referenced in the ordinance
+              adopting the Limited Use Overlay District.
+
+       (B)     The Limited Use Overlay District may be used to require conditional use approval
+              for uses normally permitted outright.
+
+       (C)    Reasonable conditions may be imposed in the Limited Use Overlay District as are
+              necessary to assure compliance with the provisions of the Comprehensive Plan and
+              this ordinance.
+
+       (D)     Until the overlay has been removed or amended, the only permitted uses in an LU
+               district shall be those specifically referenced in the adopting ordinance.
+
+                                                                 Ord.   816   Oregon   Truss            7
+                                                       Vol 100
+                                                       1778
+
+Findings
+Docket PAZ-07-07/SDR-10-07 (Oregon Truss)
+
+       Since the LI Light Industrial use zone allows other industrial uses which have not been
+       evaluated to determine whether they are appropriate to the area, it is appropriate to apply
+       a Limited Use Overlay to limit uses on the rezoned area to a truss manufacturing facility
+       and other similar uses and includes a caretakers dwelling.
+
+       Site Design Review Criteria and Analysis
+3
+
+       Site design review is required for any development in a LI district. The applicant is
+       proposing to add three new pole type buildings to the western portions of Tax Lots 3000
+       and 2900 as well as a driveway to connect a new entrance on Fairview Road to the existing
+       entrance on Wallace Road. Section 1102.02 of the YCZO govems site design review.
+       Review of a site development plan shall be based upon consideration of the following:
+
+       ()     Characteristics of adjoining and surrounding uses;
+
+       (2)    Economic factors relating to the proposed use;
+
+       (3)    Traffic safety, internal circulation and parking;
+
+       (4)    Provisions for adequate noise and/or visual buffering from noncompatible uses;
+
+       (5)    Retention of existing natural features on site;
+
+       (6)    Problems that may arise due to development within potential hazard areas.
+
+       (7)    Comments and/or recommendations of adjacent and vicinity property owners
+              whose interests may be affected by the proposed use.
+
+       Regarding criterion (1), this has been more thoroughly addressed in Section B.5 below. It
+       appears the proposed use is compatible with surrounding uses.
+
+       Regarding criterion (2) above, there have been no identified economic issues that would
+       prevent the applicant from completing the proposed development.
+
+       Regarding criterion (3), the applicant has provided a site plan indicating the development
+       has adequate room for parking and internal circulation. The proposed expansion will
+       provide more area for parking. The property has existing access onto Wallace Road. The
+       Oregon Department of Transportation (ODOT) did not respond to the referral. The
+       applicant has a proposed access onto Fairview Road. This would allow improved internal
+       circulation of trucks allowing ingress and egress from both Wallace Road and Fairview
+       Road. The Public Works Director has stated this industrial development is subject to
+       Ordinance 787 and traffic information should be required.
+
+                                                                Ord.   816   Oregon   Truss          8
+                                                          Vol 700
+                                                          1779
+
+Findings
+Docket PAZ-07-07/SDR-10-07 (Oregon Truss)
+
+5.     Regarding criterion (4), the applicant has proposed additional landscaping along the
+       western and southern new boundaries. In addition to landscaping a security fence will be
+       constructed around the perimeter of the property. As noted above, the business has not
+       proven to be incompatible with the surrounding area and the expansion should not create
+       any additional noise beyond what is already existing.
+
+       Regarding consideration (5), there are no significant natural features on the site.
+
+       Regarding consideration (6), no potential hazard areas have been identified.
+
+       Regarding criterion (7) above, no written comments have been received from surrounding
+       property owners. The applicant has indicated they spoke with several neighbors regarding
+       the proposed expansion and they have received no adverse comments, in fact, most
+       neighbors are in favor of the proposal.
+
+CONCLUSIONS. The Board finds:
+
+1,     The request is for approval of a Comprehensive Plan map amendment from
+       Agriculture Forestry Large Holding and Very Low Density Residential to Industrial; a
+       zone change from EF-80 and VLDR-2.5 to LI Light Industrial; an Exception to Goal 3;
+       and Site Design Review to allow expansion of the existing truss manufacturing facility.
+
+2.     The request complies with the approval criteria for a zone change in Section 1208.02 of the
+       YCZO.
+
+3.     Exception requirements for land irrevocably committed to the use are justified, The area
+       proposed for the exception is irrevocably committed to uses not allowed by the applicable
+       goal because existing adjacent uses and other factors make uses allowed by the applicable
+       goal impracticable. The goal exception will result in minimal loss of resource land.
+
+4,     A Limited Use overlay is required to limit uses to those justified by the goal exception.
+
+5.     The proposed use complies with standards for site design review in section 1101.02.
+
+DECISION:
+
+      The request by Oregon Truss for a plan amendment, zone change, goal exception and site
+design review to allow a truss manufacturing business on Tax Lots 5316-2401, 2900 and 3000 is
+hereby approved with the following conditions:
+
+1.     A Limited Use Overlay shall be applied to limit the allowed uses to a truss manufacturing
+       facility and other similar uses and includes a caretakers dwelling.
+
+                                                               Ord.   816   Oregon   Truss         9
+                                                         Vol 100
+                                                         1780
+
+Findings
+Docket PAZ-07-07/SDR-10-07 (Oregon Truss)
+
+2.        All necessary building, septic, electrical and plumbing permits shall be obtained prior to
+          beginning construction.
+
+           The development shall substantially conform to the proposed site map submitted with the
+           application. (See enclosed) The applicant shall provide a landscape plan along the western
+          and southern new boundaries, which shall be reviewed and approved by the Planning
+          Director. The landscaping shall be installed prior to the proposed expansion.
+
+          The applicant shall make any improvements required by ODOT to upgrade the access.
+
+           Any sign for the business shall comply with Section 1006.04 of the Yamhill County
+          Zoning Ordinance.
+
+          This development is subject to the road improvement requirements of Ordinance 787.
+          Contact the Public Works department for specific requirements.
+
+\Wanrmain\AdminUsers\sanair\_LU\OregonTmuss.
+                                          wpd
+
+                                                                   Ord.   816   Oregon   Truss         10
+                                                                            Vol 100
+                                                                            1781
+
+                      EXHIBIT MAP FOR ORDINANCE NO.                _3/6
+            PLAN AMENDMENT AND ZONE CHANGE
+                                                      S
+  ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONER
+                                         September 5, 2007
+         FOR A COMPREHENSIVE PLAN AMENDMENT FROM
+                                                           ITY
+AGRICULTURE/FORESTRY LARGE HOLDING AND VERY LOW DENS
+                RESIDENTIAL TO INDUSTRIAL AND
+             TO CHANGE OFFICIAL ZONING MAP FROM
+    EF-80 EXCLUSIVE FARM USE AND VLDR-2.5 VERY LOW DENSITY
+                                           RESIDENTIAL
+                                                TO
+                                       LI LIGHT INDUSTRIAL
+
+                     B 2A0.                               EE       Ly
+                                                                      LI L.
+                                   |                 Yj                   Yj,
+         HO 89°31
+
+                                                                             9,978 CH
+                       Y///
+
+                     |
+                      LI
+
+                                                    acH                           =
+                                                                                        |e
+                     GZ
+                       UW
+                                                                2404      bos
+                                                          OY
+                                                          Y
+                                             Je
+                       =    2aee              400
+                                       men            Y yy     12B6427.64
+
+                                                    DESCRIBED AND HIGHLIGHTED
+CHANGE APPLIES TO TAX LOTS 5316-2401, 2900 AND 3000
+ABOVE
+                                                                             B.0. 08-884
+APPROXIMATE         SCALE - 1 INCH = 150 FEET
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.7% of
+the word sequence, and on 77.3% of the figures. Dictionary-recognizable words: 94.2%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

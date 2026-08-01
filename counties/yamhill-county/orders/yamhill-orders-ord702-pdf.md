@@ -1,0 +1,1927 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord702-pdf
+title: 'ORD702-PDF'
+doc_type: ordinance
+citation: 'ORD702-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17533/ORD702-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: aa3d45e49841ced2ab68f2025856852dc77aa46a24db28024ff7ae88d230905d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.979; figure agreement 0.867; dictionary ratio 0.932. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-004-0040
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD702-PDF (ORD702-PDF)
+
+## At a glance
+
+OCR-derived text of ORD702-PDF. Not human-verified.
+
+## Full text
+
+FILA   TA ae L854
+                                                 Ol JUN 29 P3559
+           IN THE BOARD OF COMMISSIONERS                            OF THE STATE OF OREGON
+
+                              FOR THE COUNTY OF YAMHILL
+
+                SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Reversing the Planning
+
+                                                      eye evenvwv
+Commission’s Denial of a Zone Change and
+Comprehensive Plan Amendment from AF-10
+
+                                                    wee
+Agriculture/Forestry to VLDR 2% Very Low
+Density Residential, Applicants Finis Carter,                           ORDINANCE 702
+Thomas W. Edwards and the Bruce Fowler and
+Beverly Fowler Living Trust, Docket Z-02-00;
+Tax Lots 3324-7902, 7903, 7904 and 7905.
+
+THE BOARD OF COMMISSIONERS              OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business in formal session on June 28, 2001, Commissioners Thomas
+E.E. Bunn, Leslie Lewis and Robert Johnstone being present.
+
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A. The applicants - Finis Carter, Thomas W. Edwards and the Bruce Fowler and Beverly Fowler
+Living Trust - requested a zone change from AF-10 to VLDR 2% on Tax Lots 3324-7902, 7903,
+7904 and 7905. The Planning Commission denied this request after a hearing on March 1, 2001.
+
+B. A public hearing was held by the Board of Commissioners on May 23, 2001. After hearing
+from the applicants and opponents, the Board duly deliberated and voted 3-0 to overturn the
+Planning Commission’s denial for the reasons set forth in Exhibit “A”, attached and hereby
+incorporated into this Ordinance by reference. NOW, THEREFORE:
+
+IT IS HEREBY ORDAINED BY THE BOARD that the Planning Commission’s denial of
+application Z-02-00 is reversed for the reasons stated in the Finding for Approval and attached
+and incorporated into this Ordinance as Exhibit “A”. The zoning on Tax Lots 3324-7902, 7903,
+7904 and 7905 is hereby changed from AF-10 to VLDR 2.
+
+DONE at McMinnville, Oregon this 28"      day of June, 2001.
+
+ATTEST                                YAMHILL COUNTY BOARD OF COMMISSIONERS
+                                       ar
+CHARLES STERN                             [how                       £.€. |
+County Clerk                          Chairman                         THOMAS E. E. BUNN
+
+                                                                                        ol 0.   mas
+                                                     (Mote
+                                                        WC ocd
+                                                  Commissioner
+                                                        “ LESLIE LEWIS
+                                                                            FILM   Th   eer   LGD
+
+                                                       (Ancaae
+RICK SANAI                    :                   Commissioner   Gi   JOHNSTONE
+Assistant County Counsel
+
+   F;\ADMINSANANLU\CaterEdwardsFowlerOrdinance.wpd
+
+FAADMIN\SANANLU\CaterEdwardsFowlerOrdinance.wpd
+                                                                         FILK    74    nee LOSS
+
+                                       Exhibit “A”
+                      FINDINGS FOR APPROVAL, ZONE CHANGE Z-02-00
+
+A. Background Facts
+
+          1. Lot size: A combined total of approximately 24.87 acres
+
+        2. Access: The property has three access points, with two developed off of Highway
+99W. The third access point is Hyland Drive. The road right-of-way for Hyland Drive is 60 feet
+in width and abuts the western boundary of the subject parcel. The end of Hyland Drive nearest
+the subject parcel is undeveloped and gated. Permission for the gate was granted by the Board of
+Commissioners to the Otter Creek Hyland Drive Road District by Board Order 00-796. The
+permission for placing this gate was granted with the condition that "...the permission granted by
+the Board is revocable at any future time." The Otter Creek Hyland Drive Road District has also
+made a request to the Board of Commissioners asking to vacate the last five feet of Hyland Drive
+nearest the subject property.
+
+          3. On-site Land Use:   The property is an odd shape, best described as a triangle with two
+ends trimmed off. Near the middle of the property is a 2.13 acre parcel, not part of this request,
+that is zoned for Heavy Industrial use. The subject property contains three existing dwellings.
+These dwellings are shown on the Assessors' map as Tax Lots 3324-7902, 7903 and 7904. These
+tax lots are for property identification only and are not recognized as separate parcels. The
+topography of the property is relatively level with a slight slope to the north. The parcel is
+generally clear. There are some oak trees along the property lines and scattered through out the
+parcel.
+
+         4. Surrounding Zoning and Land Use: With notable exceptions, most of the surrounding
+area is rural residential in character. Most of the rural residential uses are located on parcels of
+one to 10 acres in size. Property to the north, northwest and southeast is zoned VLDR 2.5 (Very
+Low Density Residential). Property adjacent to the northeast is zoned VLDR-1. A little further
+to the northeast is property that is zone Light Industrial. Land to the southwest is a mixture of
+VLDR-5 and AF/10 Agricultural/Forestry Small Holding.          Further to the southwest is an area
+zoned RI (Resource Industrial) which has the Duck Pond Cellars winery,          As noted above, near
+the middle of the property is ‘a 2.13 acre parcel, not part of this request, that is zoned for Heavy
+Industrial use. This parcel had been used as a wrecking yard. Within the last five years, the
+wrecking yard was closed and replaced by two other uses, These uses are RV storage and a body
+building gymnasium shop. This Heavy Industrial zone does not have a limited use overlay which
+limits it to these uses; so, the property could revert back at any time to a more intensive Heavy
+Industrial use.
+
+          5. Water:   On-site wells appear to be the only option.
+
+PAGE 1-FINDINGS REGARDING ZONE CHANGE Z-02-00
+
+                                                                                        B.0 4% DI- WV
+                                                                           aux 4 xc L007
+       6. Sewage Disposal:     Septic systems are the only option in this area.
+
+        7. Soils: Sheet 22 of the Yamhill County Soil Survey indicates the majority of the
+property is a mixture of Woodburn (WuB) and.Amity (Am) soils. Both of which are rated Class
+I for agricultural purposes.
+
+Previous Actions: Docket P-1243-81 allowed dividing off Tax Lot 3324-7900 in 1981. The 2.13
+acres that is zoned HI was divided in 1984 by Docket P-1336-83. A request to change the plan
+designation and zoning on the subject property to allow for LI (Light Industrial) use was denied
+in 1985 under Docket PAZ-126-83.      An application was made under Docket P-24-98 to divide the
+property in half but was later withdrawn.
+
+Exception: The property was found to be a committed exception in Code Area 1.8, adopted by
+Exception's Statement I, April 23, 1980 and was plan designated VLDR Very Low Density
+Residential.
+
+ Zone Change Provisions and Analysis
+
+  1. Approval of a request for a zone change must be based on compliance with the standards and
+criteria in YCZO 1208.02. These provisions are:
+
+        A. The proposed change is consistent with the goals, policies and any other applicable
+provisions of the Comprehensive Plan.
+
+        B. There is an existing, demonstrable need for the particular uses allowed by the
+requested zone, considering the importance of such uses to the citizenry or the economy of the
+area, the existing market demand which such uses will satisfy, and the availability and location
+of other lands so zoned and their suitability for the uses allowed by the zone.
+
+         C. The proposed change is appropriate considering the surrounding land uses, the
+density and pattern of development in the area, any changes which may have occurred in the
+vicinity to support the proposed amendment and the availability of utilities and services likely to
+be needed by the anticipated uses in the proposed district.
+
+        D. Other lands in the County already designated for the proposed uses are either
+unavailable or not as well-suited for the anticipated uses due to location, size or other factors.
+
+        E, The amendment is consistent with the current Oregon Administrative Rules        (OAR‘s)
+for exceptions, if applicable.
+
+ 2. Regarding criterion (A) above,
+
+PAGE 2-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                           FIL    ra    wee L038
+
+        A. Azone change to VLDR 2 1/2 is consistent with the Comprehensive Plan designation
+of Very Low Density Residential (VLDR). A property plan designated VLDR complies with the
+Comprehensive Plan Goals and Policies for rural residential use.
+
+                1). The applicants have satisfied Comprehensive Plan Goal I.B.2 which states:
+
+                Yamhill County will continue to recognize that the
+                appropriate location of very low density residential
+                development is in designated large areas where
+                conunitments to such uses have already been made through
+                existing subdivision, partitioning, or development
+                and by virtue of close proximity to existing urban
+                centers ...
+
+                        a. The subject property complies with the aforesaid goal, because it is part
+of a large exception area 1.8 zoned for residential use located between Newberg and Dundee,
+The County has previously concluded that a property plan designated VLDR complies with the
+Comprehensive Plan Goals. Furthermore, the subject property satisfies Goal 1.B.2
+in that it is part of the large exception, as the area is committed to residential use as there are
+certain subdivisions already resident in the area.
+
+                2). Since the subject property is zoned Agriculture/Forestry Small Holding 10, it
+has already had an exception taken to'Statewide Planning Goal 3, and thus an exception to Goal
+3 is not required for approval.
+
+                3). Since an exception to the Statewide planning goals 3 and 4 has already been
+taken associated with the subject property, exceptions to Goals 3 and 4 are not required for
+approval.
+
+                4). The applicants have satisfied Comprehensive Plan Policy 1.B.1.d which states:
+
+                No proposed rural development shall require or
+                substantially influence the extension of costly
+                services and facilities normally associated with
+                urban centers, such as municipal water, supply
+                and sanitary sewerage or power ...
+
+                       a. The subject property complies with the aforesaid policy in that the
+application has demonstrated that the subject property can provide sufficient water, septic, and
+storm water drainage to accommodate a total of nine (9) residences on the subject property
+(which is the maximum number of residences that can be sited on the subject property) without
+imposing any additional net costs on mobile or other centralized public services [this satisfaction
+
+ PAGE 3-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                              FILK   74   nop LO09
+
+by the application is set out in more detail regarding Criterion (C) set forth below].
+
+               5). The applicants have satisfied the summary in Section HI A of the
+               Comprehensive Plan which states:
+
+               A major concern of the County is to develop a
+               transportation system that will maintain and enhance
+               the quality of life enjoyed by its residents.
+
+                          a. The subject property complies with the aforesaid policy in that the
+application has demonstrated that with the existing access (es) on OR State Hwy 99W and the
+available access via Hyland Drive (which is a platted 60' County right of way), that the subject
+property will maintain the County transportation system and enhance the quality of life enjoyed
+by its residents.
+
+ 3. Regarding criteria (B) and (D) above,
+
+        A. Regarding the demonstrable need for VLDR 2 1/2 zoned property, the growth in
+Yamhill County over the past then (10) years has led to a tremendous market demand for VLDR
+2 1/2 zoned properties.
+
+                1). The applicants have shown that there is a demonstrable need for VLDR 2 1/2
+zoned property in the subject area, in that the applicants have shown:
+
+                a). Based on the testimony of Newberg realtor Marc Willcuts (both written and
+oral; Mr. Willcuts’ written evidence is attached to this Exhibit and hereby incorporated into these
+Findings by this reference), the applicants have shown:
+
+             1)). There are a tremendous number of prospective purchasers of VLDR 2 1/2 zoned
+property, with the majority of those prospective purchasers being residents of Yamhill County.
+The applicants have shown why VLDR 1 or 5 zoned parcels will not fit the needs of these
+prospective purchasers, and that there is an existing market demand for VLDR 2 1/2 zoned
+properties.
+
+                 2)). A large supply of available VLDR 2 1/2 zoned properties within the said
+exception area is necessary to maintain a healthy economy in the County, and 13 available
+parcels as set forth below in Section B is not nearly enough of a supply of VLDR 2 1/2 zoned
+parcels within the exception area to maintain a healthy economy and provide for the needs of the
+citizenry of the area.
+
+         B. Regarding the availability and location of other lands so zoned and their suitability
+for the uses allowed by the zone,
+
+PAGE 4-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                             FILK   4    ee    ABAD
+
+             1). "Available” as defined in this Ordinance means those properties that have no
+improvements on them and whose physical characteristics would allow building a residence on
+them.
+
+                2). Yamhill County Assessor's maps show a total of 59 vacant VLDR 2 1/2 zoned
+parcels within the said exception area, which is approximately 12 sq. miles in size, with "vacant"
+connoting those properties that have no improvements on them as those properties would
+tentatively be considered as “available” properties within the meaning of the said Ordinance.
+
+                        a). The applicant physically surveyed the aforesaid 59 "tentatively
+available" parcels within the exception area 1.8, and after completing the said physical survey,
+the applicant found that there were only a total of 23 VLDR 2 1/2 zoned vacant land parcels
+within the exception area, with those 23 properties then tentatively being considered as
+"available" properties; i.e. the 59 available properties as set forth on the assessor's map was
+overstated and incorrect.
+
+                1)). The applicants have shown that of the 23 "tentatively available" properties
+within the exception area, that a total of only thirteen (13) of those properties are to be
+considered as available within the meaning of the Ordinance, with the "available" properties set
+forth on attached Exhibit "A" (as only one of those available properties currently for sale) and the
+"ynavailable" properties set forth on attached Exhibit "B", with the specific reasons why each of
+the "unavailable" properties is considered as unavailable set forth on attached Exhibit "B".
+
+                      a)). Based upon the specific reasons set forth on Exhibit "B", the applicants
+have shown why each of the properties set forth on Exhibit "B" is either unavailable or not as
+well-suited for the anticipated VLDR 2 1/2 zoned uses due to location, size or other factors.
+
+                2)). The applicants have further shown that only 13 available VLDR 2 1/2 zoned
+properties out of hundreds of properties in the said exception area is not nearly a large enough
+number of properties to provide for the needs of the citizenry of the area and a healthy economy.
+
+              C. Regarding other lands in the County already designated for the proposed uses, the
+applicants:
+
+            1). Have shown that out of the hundreds of properties within the said exception area,
+there are only 13 VLDR 2 1/2 zoned properties which are currently available.
+
+        2).    Have shown that based on the reasons set forth on Exhibit "B" why the ten (10)
+"tentatively available" VLDR 2 1/2 zoned properties within the exception area are not as
+well-suited to the anticipated use of VLDR 2 1/2 zoning due to location or other factors and thus
+should be considered as unavailable properties.
+
+PAGE 5-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                            FILA    7   no   LOA
+
+ 4. Regarding criterion (C) above,
+
+         A. Regarding showing that the change is appropriate considering the surrounding land
+uses and the density and patter of development in the area and any changes which may have
+occutred in the area, the applicants have satisfied this condition in that the applicants have shown
+that (based on the testimony of planner Bill Campbell; Mr. Campbell’s written evidence, “HI-
+Zoned Property - 3324-7906" is attached and incorporated into these Findings by this reference):
+
+      1). The subject property already contains three (3) residences, and the zone change is an
+extension of an existing usage of the subject property.
+
+       2). The subject property adjoins lands already zoned VLDR and other rural residential
+lands, as the predominant nature of adjoining properties is rural residential, as the subject
+property will be a nice fit with the area. Specifically, property to the north, northwest and
+southeast is zoned VLDR 2.5 (Very Low Density Residential). Property adjacent to the northeast
+is zoned VLDR-1. A little further to the northeast is property that is zone Light Industrial. Land
+to the southwest is a mixture of VLDR-5 and AF/10 Agricultural/Forestry Small Holding.
+
+       3). The subject property is not prime agricultural or forest property because of its soil type,
+size, and topography, as the best usage for the subject property is rural residential.
+
+      4), The heavy industrial zoned property of approximately 2.13 acres that is resident in the
+middle of the subject property does not contain heavy industrial uses but rather uses that are
+really commercial in nature; i.e., a health and gymnasium club, an RV storage facility, and a
+masonry office, as the existing uses are compatible bordering rural residential property.
+
+         a). Furthermore, the characteristics and limitations of the heavy industrial zoned
+property are such that there is little likelihood that most permitted uses associated with heavy
+industrial zoned property can ever be implemented on the heavy industrial zoned property for the
+following reasons:
+
+             1)). There is inadequate access for heavy truck traffic necessary for heavy industrial
+                    uses.
+
+             2)). The said property is too close a proximity to rural residential development.
+
+             3)). There is no rail line to service the heavy industrial property.
+
+             4)).   The existence of wetlands and other constraints on site.
+
+      5). Based on the testimony of realtor Marc Willcuts, other rural residential developments
+have been constructed near the same type of usages that are presently in existence on the said
+
+PAGE 6-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                                FILK   7A    vee    B42
+
+ heavy industrial zoned property.
+
+          6). Based on the testimony of Bill Campbell, adequate screening, buffering, and berming
+ via elevation changes can effectively screen the heavy industrial property from the subject
+ property.
+
+ B. Regarding utilities and services, the Board of Commissioners has previously interpreted the
+ general question of availability of utilities and services likely to be needed by the anticipated uses
+ in the proposed district to mean that these uses are accessible or obtainable. The Board has not
+ previously interpreted that each and every service is already developed to the site, nor could this
+ be a reasonable interpretation. An example of this is the availability of on-site sewage disposal
+ systems (septic systems). If the Board interpreted that the availability of utilities meant that
+ sewage disposal needed to be provided by an installed system then a developer would be placed
+ in an impossible “Catch-22." The developer could not receive approval for the zone change
+ without the on-site sewage disposal systems being installed and yet they could not receive land
+ use approvals to install these on-site systems without having a zone change approved. Therefore,
+ the Board has previously interpreted that availability of utilities and services likely to be needed
+ by the anticipated uses in the proposed district to mean that the applicant demonstrate these uses
+ are accessible or obtainable.
+
+                 1). The Board specifically interprets the definition of “availability” as set forth in
+ said zoning ordinance regarding access, water, septic and storm water to be the following:
+
+                        a. As to access, “available” means the applicant is required to show that
+ the subject property can be accessed via an existing public road(s) that is platted and recorded as
+ a public right-of-way open to usage by members of the public. The opponents’ attorney
+ representing the Otter Creek Hylands Road District asserted that, “available” access means that
+ the applicant is required to show that there is an existing public road that is already constructed
+ pursuant to County standards that is already accessing the subject property.      This is contrary to
+ the Board’s previous interpretations regarding availability.
+
+The applicant is proposing to use Hyland Drive as the access for up to six additional residences,
+This has caused considerable concern on the part of the Otter Creek Hylands Road District who
+have a road association to maintain a portion of this road. In 2000, the Road District requested that
+the Board grant approval for them to place a gate at the eastern end of Hyland Drive. The Board
+granted this approval with the condition that it could be revoked at any time. The Road District
+has also applied to the Board to have them approve the vacation of the most easterly five feet of
+Hyland Drive. A January 22, 2001 memorandum from Dan Linscheid outlined why he did not
+believe that this road vacation would be found to be in the public interest. Although the above
+actions appear to have been made to prevent the use of Hyland Drive it is clear that this access is
+“available” for the proposed use. Hyland Drive is a 60-foot wide dedicated public road. The
+dedicated road abuts the western boundary of the subject parcel and, by virtue of this platting, was
+
+  PAGE 7-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                           FILA   71.   ag   LDA
+
+intended to be used as a future access for this parcel. Although this road right-of-way is available,
+this is not to say that there are no concerns with the use of this road. A memo from the Public
+Works Director received January 24, 2001 noted concerns with the road. The Public Works
+Director stated that, “Prior to allowing additional development to be served by this road, significant
+widening and strengthening should be required.” These concerns were noted in the staff report and
+were discussed at the public hearing. Improvements to the road, like other aspects of the proposed
+development, would be required to occur at the time of subdivision approval, not during the
+consideration of a zone change.
+
+Lastly, it should be noted that the actions of the Otter Creek Hylands Road District show that they
+agree with this interpretation. In the months prior to the land use approval they aggressively
+pursued trying to make the road unavailable by placing a gate at its eastern end and then by filing
+with the Board of Commissioners to have the last five feet of the road right-of-way vacated. Why
+pursue these actions if the road is already unavailable?
+
+Further Analysis
+
+            1)). Based on the testimony of transportation engineer Tom Lancaster (both written
+and oral; Mr. Lancaster’s written evidence is attached to this Exhibit and hereby incorporated into
+these Findings by this reference), the applicant has shown that:
+
+                a). There are two (2) existing accesses from OR State Hwy 99W to the subject
+property and that Hyland Dr is a public platted right of way that is available to access the west end
+of the subject property, and thus, there are available accesses to access the subject property.
+
+               b). There will be a maximum of three (3) residences which will access the subject
+property via OR State Hwy 99W and a maximum of six (6) residences which will access the
+subject property via Hyland Dr.
+
+                   1))). Since there are already three (3) residences accessing the subject property
+via OR State Hwy 99W, there will be no net increase in traffic on State Hwy 99W as a result of the
+said zone change, and thus no adverse impact on either Hwy 99W or the surrounding properties.
+
+                    2))). The zone change will generate 58 additional trips per day on Hyland Dr,
+with six (6) additional trips generated during the peak hour (approximately 1 each 10 minutes).
+The capacity of Hyland Dr is approximately 200 to 400 cars per hour; the actual number of trips
+generated by the existing residences using Hyland Dr is much less than the said capacity. Thus, the
+generation of six (6) additional trips per hour by the subject property will not have any adverse
+impact on either Hyland Dr or the surrounding properties.
+
+           b. As to water, "available" means the applicant is required to show that there the subject
+property can provide sufficient water for the maximum number of residences without adversely
+affecting the surrounding properties.
+
+  PAGE 8-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                           FILE   rat   ner 1544
+
+            1)). Based upon the testimony of EnviroLogic Resources hydrogeologist Tom
+Calabrese (both written and oral; Mr.Calabrese’s written evidence is attached to this Exhibit and
+hereby incorporated into these Findings by this reference), the applicant has shown that:
+
+                 a). Water for a maximum of nine (9) residences will be supplied by on site wells.
+
+                 b). Tom Calabrese performed a scientific analysis associated with ground water
+availability using a study area which includes the area of all properties which intersect a Jine that is
+1/4 mile area from the subject property boundaries, with this scientific analysis associated with
+ground water usage and recharge rates, with the study using a Marion County ordinance associated
+with the determination of the ground water availability associated with land development, with this
+said calculation analysis being a scientifically accepted analysis associated with determination of
+ground water availability associated with development. Tom Calabrese calculated a total amount
+of recharge used by the subject property for a total of nine (9) residences to be 81%. Any recharge
+rate calculated to be less than 90% means that the said property can provide sufficient water
+without adversely affecting the surrounding properties.
+
+                     1))). The said Marion County ordinance is relevant, appropriate, and
+scientifically accepted for ground water availability determination for this application because:    (1)
+The subject property conditions are similar to those of certain properties in Marion County, and (2)
+The said Marion County ordinance was developed and promulgated after several years of study and
+is a very restrictive ordinance from a development standpoint associated with ground water
+availability calculations.
+
+                c). Tom Calabrese also examined well logs from the State of OR Water Resources
+Department for all wells in the study area to determine if certain of the said wells had been
+deepened to further analyze the ground water availability of the subject property, with this
+examination also scientifically accepted as an additional method utilized to analyze ground water
+availability for development purposes, and determined the following:
+
+                   1))). Less than 10% of the wells in the area examined have been deepened
+which according to the said Marion County Ordinance indicates that there the said examination
+area has not experienced any declining water levels.
+
+                 d). Based upon the results of Tom Calabrese's scientific analysis and examination
+of the wells in the examination area, the subject property can provide water for nine (9) residences
+without adversely affecting the surrounding properties.
+
+          c. As to storm water, "available" means the applicant is required to show that there the
+subject property can manage storm water runoff for the maximum number of residences without
+adversely affecting the surrounding properties.
+
+  PAGE 9-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                                  ue Be    AE    &
+                                                                           aus     CL mcr 45
+            1)). Based upon the testimony of hydrogeologist Tom Calabrese,
+
+                a). The total amount of new impervious square footage regarding nine (9)
+residences and a new access road on the property which would be added by the development totals
+less than 2% of the entite subject property area, which is a very small amount of impervious area
+associated with the total subject property area.
+
+                b). The topography of the subject property area does not contain any severe slopes
+or elevation changes which would make storm water management difficult.
+
+                c). On site storm water associated with a total of nine (9) residences can be
+successfully managed on the subject property without adversely affecting surrounding properties.
+
+          d. As to septic, "available" means the applicant is required to show that there the subject
+property can accommodate on site septic disposal for the maximum number of residences without
+adversely affecting the surrounding properties.                      :
+
+             1)). Based on the testimony of sanitary engineer Martin Boatwright (both written and
+oral; Mr. Boatwright’s written evidence is attached to this Exhibit and hereby incorporated into
+these Findings by this reference),), the applicant has shown that:
+
+                a). Septic disposal will be accommodated on site.
+
+                 b). Martin Boatwright performed an on site inspection of the subject property and
+inspected the applicable soil maps associated with the subject property, the topography of the
+subject property, as well as the applicable ground cover and current uses of the subject property.
+
+                 c). The subject property contains Woodburn soils at the north end and the south
+end of the subject property, as Woodburn soils are good drainage soils and are suitable for on site
+septic disposal.
+
+                d). The topography of the subject property area does not contain any severe slopes
+or elevation changes which would make on site septic disposal difficult.
+
+                e). Based upon the existence of Woodburn soil on the property as well as certain
+technological advances in design of septic systems (such as sand filtration systems), on site septic
+systems can be designed and constructed so that the subject property will accommodate on site
+septic disposal for nine (9) residences.
+
+ 5. Regarding criterion (E) above,
+
+        A. The subject property is part of an exception area 1.8.that was excepted on April 23,
+
+  PAGE 10-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                                                                          aun OL
+
+                                                                                                  Ve
+                                                                                          eh
+                                                                                               \
+1980 as part of Yamhill County Ordinance #234; therefore, the subject property.is not subject to
+Goal 3 or Goal 4.
+
+        B. The said zone change application was submitted on September 27, 2000.
+
+        C. The effective date of Oregon Administrative Rule-660-004-0040 (the "Application of
+Goal 14 to Rural Residential Areas") was October 4, 2000; specifically, section (6) of the said
+OAR which states:
+
+              "After the effective date of this rule, a local government's requirements for
+minimum lot or parcel sizes in rural residential areas shall not be amended to allow a smaller
+minimum for any individual lot or parcel without taking an exception to Goal 14."
+
+            1). Since the zone change application for the subject property was submitted prior to the
+effective date of the said OAR, the said OAR 660-004-0040 is not applicable to this application,
+and thus, an exception to Goal 14 is not required.
+
+FAADMINSANANLU\CarterEdwardsFowlerFindings.wpa
+
+  PAGE 11-FINDINGS REGARDING ZONE CHANGE Z-02-00
+                          fun   TA oe) 47
+
+. TRANSPORTATION AND ACCESS
+           ANALYSIS
+                                                                                                             rin CL exce4 548
+     B ASTER ENGINEERING
+  MeeStudies      «   Planning   *   Safety
+
+               February 19, 2001
+
+               Michael G. Gunn
+               PO Box 1046
+               Newberg, OR 97132
+
+               Re: Carter, Edwards, Fowler Zone Change Application Z-02-00
+
+               Dear Mr. Gunn:
+
+                       As you requested, I have examined the potential traffic impacts of a plan
+               amendment and zone change for the Carter, Edwards, and Fowler property of ap-
+               proximately 25 acres on Highway 99W in Yamhill County. I understand that there
+               would be a maximum of seven parcels with residences, but the existing three residences
+               on the property would be replaced by three new ones so that there would be a net in-
+               crease of four residences. Four residential lots are proposed that would have access to
+               Hyland Drive, and three lots would have access to Highway 99W. I also understand
+               that Hyland Drive is a platted public roadway, and that if additional houses had access
+               to the roadway, improvements to Hyland Drive would probably be required ‘in order to
+               meet minimum Yamhill County roadway standards.
+
+                       The intent of my study was to analyze the traffic impdet of the proposed change
+               to VLDR 2.5 zoning and the development of seven residences and to determine whether
+               adequate transportation services are available.
+
+                         To estimate the number of trips that could be generated by the proposed residen-
+               tial lots, trip rates from the TRIP GENERATION handbook,                              Sixth Edition, published by
+               the Institute of Transportation Engineers, were used. Trip rates for ITE land-use cate-
+               gory 210, Single-Family Detached Housing, are based on the number of dwelling units.
+
+                         If four new          residential   lots were      to have      access    to Hyland       Drive,   they could
+               generate up to 38 trips per day. During the peak hour of the day there would be four
+               new trips generated by the four houses, an average of one car every 15 minutes. The
+               capacity of a narrow, winding, low-speed two-way roadway without shoulders such as
+               Hyland Drive is approximately 200 to 400 cars per hour, but the actual current peak-
+               hour volume on Hyland Drive is well below this capacity. The addition of four cars
+
+Unlon Station, Suite 206 * 800 N.W. 6th Avenue * Portland, OR 97209 » Phone (503) 248-0313 + FAX (503) 248-9251
+                                                                                     / 7
+
+                                            —
+1       .   .   *
+
+                                                                                       FALK   ral   PACE 4549
+    TEANGASTER ENGINEERING
+A
+
+                     Michael G. Gunn
+                     February 19, 2001
+                     Page 2
+
+                    _ during a one-hour period would have an insignificant impact on safety and congestion
+                      on Hyland Drive and would not cause the roadway to approach or exceed its capacity.
+
+                             There have been concerns expressed by existing residents regarding traffic
+                    speeds on Hyland Drive, The addition of four trips during the peak hour would not, in
+                    itself, result in a change in traffic speeds. Increased volumes can sometimes result in
+                    reduced speeds, but in this case the additional volumes would not be sufficient to pro-
+                    duce reduced speeds. If there are inappropriate speeds on the street, the installation of
+                    speed humps to encourage low speeds would be a suitable mitigation.
+
+                             The proposed three lots which would have access to Highway 99W would gen-
+                    erate about 29 trips per day, and about three trips during the peak hour. These are the
+                    same numbers of trips that are currently generated by the existing three houses that are
+                    on this tax lot. If the existing three houses are removed and three new houses are con-
+                    structed, there will be no net change to the trip generation or to the impact of traffic on
+                    Highway 99W.
+
+                             Based on the information available to me and on my analysis I have not found
+                     any significant negative traffic impact of the proposed land-use action, With improve-
+                     ments to the east end of Hyland Drive to meet County standards, adequate transporta-
+                     tion services would be available to serve the proposed land use.
+
+                              If you have any questions regarding this analysis, please let me know.
+
+                     Yours truly,
+
+                    Principal
+                                                                                                       | cg      cL nee 1850
+         ASTER ENGINEERING
+         Studies    ¢ Planning      *   Safety
+
+             u                                                FIRM PROFILE
+
+                          Lancaster Engineering was formed in 1983, and has been involved in a vari-
+                 ety of transportation planning, design, and operations projects in Oregon, Washing-
+                 ton, and California. The firm specializes in traffic signals, signing, striping, traffic
+                 control for light-rail systems, planning studies, geometric design, and traffic impact
+                 studies.
+
+                         Lancaster Engineering has also been involved in school safety studies, legal
+                 testimony, access contro] studies, and accident analysis projects. Clients of the firm
+                 have included transit agencies, public utility commissions, cities, counties, state
+                 highway departments, universities, school districts, port districts, law firms, and
+                 private developers.
+
+                         Members of the firm include Registered Professional Civil Engineers in
+                 Oregon, Washington, and Nevada, and registered Traffic Engineers in Oregon and
+                 California.
+
+                               Following are typical examples of projects in which ‘the firm has been in-
+                 volved:
+
+                     . A traffic safety and circulation study for Mt. Hood Community College in
+                               Gresham, Oregon.
+
+                               City-wide school crossing studies in Portland and Eugene, Oregon.
+
+                     e     Traffic signal preemption at 30 traffic signals on the light-rail transit system
+                           in Portland, Oregon.
+
+                     «     A     study of traffic safety and signal preemption on the light-rail system in
+                           San Jose, California.
+
+                    e      City-wide traffic and safety studies for several cities in Oregon.
+
+Union Station, Suite 206 * 800 N.W, 6th Avenue * Portland,OR 97209 + Phone (503) 248-0313 * FAX (503) 248-9251
+                                      a
+                                                                                 ~ FILK     rel ep      LOOL
+A.   ENGINEERING
+
+                   Plans and specifications for the installation of traffic signals in Albany, Bea-
+                   verton, Bend, Lake Oswego, Oregon City, Portland, Redmond, Roseburg,
+                   Salem, Sutherlin, Tigard, Tualatin, Vancouver, Washougal, Clark County,
+                   Multnomah County, and Washington County.
+
+                   A traffic access and circulation study for a proposed hotel and convention
+                   center in Salem, Oregon.
+
+                   Development of a proposed access control program for the Oregon Depart-
+                   ment of Transportation.
+
+                   Traffic   impact   studies   for numerous   residential,   commercial,   institutional,
+                   and industrial development projects in Oregon and Washington.
+
+                   Parking occupancy studies in Portland, Hillsboro and Depoe Bay, Oregon.
+
+                   Traffic studies for Indian tribe gaming facilities in Oregon and Washington.
+
+                   Traffic calming projects for several Oregon cities.
+                                         ee                                         ve
+
+                                                                                         FILE    TA    ce LOD   ;
+sASTER ENGINEERING
+
+                                                         Resume
+
+          F                                    TOM R. LANCASTER, PE
+                                                      Principal
+
+                       As the Principal of Lancaster Engineering since formation of the firm in
+              1983, Mr. Lancaster is in responsible charge of all projects produced by the firm.
+              He has directed projects involving traffic signal designs, light-rail transit preemp-
+              tion of traffic signals, signing and striping plans, construction traffic control plans,
+              traffic calming programs, parking studies, and traffic safety studies.
+
+                      Mr. Lancaster was previously Traffic Engineer for Lane County, Oregon,
+              for seven years. He was responsible for all aspects of traffic engineering on County
+              roads, including signing, striping, traffic signals, speed zoning, accident analysis,
+              intersection and arterial layouts, and community relations. Prior to his position with
+              Lane County, Mr. Lancaster was a traffic engineer with the Oregon Department of
+              Transportation for six years. His responsibilities included reviewing safety and traf-
+              fic operations aspects of design proposals for highway construction projects, evalu-
+              ating traffic signal systems for arterial streets, developing State standards for high-
+              way signing and striping, and the preparation of traffic studies for small cities.
+
+                      Mr. Lancaster received a BS degree in Civil Engineering from Oregon State
+              University and an MS degree in Transportation Engineering from the University of
+              California,   He   is   a member   of the Transportation   Research   Board,      the American
+              Society of Civil Engineers, the National Committee on Uniform Traffic Control
+              Devices Railroad Grade Crossing Subcommittee, and the Institute of Transportation
+              Engineers,
+
+                       He is a Past President of District 6 (comprising the 13 western states) of the
+              Institute of Transportation Engineers. He has been a guest lecturer at the Trans-
+              portation Research Institute at Oregon State University on the subjects of traffic en-
+              gineering fundamentals,         accident mitigation, and   uniform    traffic control   device
+              standards,
+
+                      Mr. Lancaster is a Registered Professional Civil Engineer in Oregon, Wash-
+              ington, and Nevada, and a registered Traffic Engineer in Oregon and California.
+              He is also a certified Professional Traffic Operations Engineer in Oregon.
+                                              a                                                        ~          vin PACE 1583
+
+       BASTER ENGINEERING
+      Studies     *   Planning   »   Safety
+
+               April 30, 2001
+               Michael G. Gunn
+               PO Box 1046
+               Newberg, OR 97132
+
+               Re: Carter, Edwards, Fowler Zone Change Application Z-02-00
+
+               Dear Mr. Gunn:                 ”
+
+                        As you requested, I have examined the potential traffic impacts of a plan
+               amendment and zone change for the Carter, Edwards, and Fowler property of ap-
+               proximately 25 acres on Highway 99W in Yamhill County. I understand that a maxi-
+               mum of seven residences are planned, but that the zoning code would allow up to none.
+               In either case, the existing three residences on the property would be replaced by three
+               new ones so that there would be a net increase of no more than six residences. Three
+               of the lots would have access to Highway 99W as they do now, and the remainder
+               would have access to Hyland Drive. I also understand that Hyland Drive is a platted
+               public roadway, and that if additional houses had access to the roadway, improvements
+               to Hyland Drive would probably be required by the Yamhill County Public Works De-
+             _ partment.
+
+                      The intent of my study was to analyze the traffic impact of the proposed change
+               to VLDR 2.5 zoning and the development of up to nine residences and to determine
+               whether adequate transportation services are available.
+
+                         To estimate the number of trips that could be generated by the proposed residen-
+               tial lots, trip rates from the TRIP GENERATION handbook, Sixth Edition, published by
+               the Institute of Transportation Engineers, were used.                         Trip rates for ITE land-use cate-
+               gory 210, Single-Family Detached Housing, are based on the number of dwelling units.
+
+                         If six new residential lots were to have access to Hyland Drive, they could gen-
+               erate up to 58 trips per day. During the peak hour of the day there would be six new
+               trips generated by four houses, an average of one car every ten minutes. The capacity
+               of a narrow, winding, low-speed two-way roadway without shoulders such as Hyland
+               Drive is approximately 200 to 400 cars per hour, but the actual current peak-hour vol-
+               ume on Hyland Drive is well below this capacity. The addition of six cars during a
+
+Union Station, Sulte 206 * 800 N.W. 6th Avenue * Portland, OR 97209 + Phone (503) 248-0313 * FAX (503) 248-9251
+                                         oe                                             |             |    /
+‘
+
+        ENGINEERING                                                                     FIL   Uh    PACE 1554
+    a
+
+            Michael G. Gunn
+            April 30, 2001
+            Page 2
+
+            one-hour period would have an insignificant impact on safety and congestion on Hyland
+            Drive and would not cause the roadway to approach or exceed its capacity.
+
+                     There have been concerns expressed by existing residents regarding traffic
+            speeds on Hyland Drive. The addition of six trips during the peak hour would not, in
+            itself, result in a change in traffic speeds. Increased volumes can sometimes result in
+            reduced speeds, but in this case the additional volumes would not be sufficient to pro-
+            duce reduced speeds. If there are inappropriate speeds on the street, the installation of
+            speed humps to encourage low speeds would be a suitable mitigation.
+
+                     The proposed three lots which would have access to Highway 99W would gen-
+            erate about 29 trips per day, and about three trips during the peak hour. These are the
+            same numbers of trips that are currently generated by the existing three houses that are
+            on this tax lot. If the existing three houses are removed and three new houses are con-
+            structed, there will be no net change to the trip generation or to the impact of traffic on
+            Highway 99W.
+
+                    Based on the information available to me and on my analysis I have not found
+            any significant negative traffic impact of the proposed land-use action. With certain
+            improvements to the east end of Hyland Drive to meet County standards, adequate
+          _ transportation services would be available to serve the proposed land use.
+                                                                                 io
+
+                           If you have any questions regarding this analysis, please let me know.
+
+            Yours truly,
+
+                  [                   —=——
+            Tom       R.          ster, PE
+            Principal
+                  n
+                      re Th ne A555
+              !
+
+SEPTIC ANALYSIS
+                                                                            »     ne CL nce 556
+                                                                          Boatwright         Engineering            Inc.
+                                                                            2613 12th ST SE, SALEM, OREGON 97302
+                                                                                 civil engineers © land surveyors
+
+                                                                            (603) 363-9225        (FAX) 363-1051
+
+                                                                  February 19, 2001
+
+ Michael G. Gunn P.C., Attorney at Law
+
+ FAX; (503) 537-0591
+RE:      ZONE CHANGE EDWARDS, CARTER, FOWLER Z-02-00
+
+ Dear Mr.   Gunn,
+
+           I was retained to determine if the subject property could provide sanitary septic service
+ for 7 residences. The information provided identified that the site will require an interceptor
+ drain and a capped fill for on site disposal of sewage effluent when considered earlier for an Auto
+ Dealership.
+
+          The use of the site for 7 dwellings, 2'4 acre parcel, would also require an interceptor drain
+ and a capped fill. On site disposal for the auto dealership proposal identified waste water from
+ 30 people day needs, say 15 gpd or 450 gallons per day of waste water, requiring a drain field of
+ 375. lineal feet, Seven single family dwellings, 3 bedrooms would generate 140 gpcd per
+ bedroom or 420 gallons per residence per day or 2940 gallons per day of waste water at design.
+ This would equate a drain field of 2450 LF of drain field at 1.2 gpd per lineal foot plus a 100%
+ replacement area,
+
+         1 am of the opinion it will be necessary to install a recirculating sand filter treatment
+ system prior to the drain field reducing the drain field size by 2/3 or to be equal to 2.33
+ residences a reasonable on site disposal,
+
+         A 7 residential recirculating sand filter would consist of individual septic tanks at each
+ house, a dilution dose tank of a volume equal to the daily sewage flow (3000 gallons) and a
+ recirculating sand filter size with a filter area equal to the daily flow of waste water at 5 gallons
+ per day per square foot of filter, say 600 square feet. D.E.Q. would require a permit to develop a
+ capped fill, the individual septic tanks gravity collector system and the recirculating sand filter
+ treatment system including the pumps and controls. DEQ has issued permits for similar
+ development in the last 2 years.
+                                                                     ny               Th eee 557
+Page 2
+
+         On site surge treatment and disposal is allowable with a public water system as long as
+the wells are at least 100 feet away from the drain field and up gradient.
+
+         In my opinion, on site sewage disposal on the subject property for 7 residences along with
+a private water system are both possible under current rules and regulations in effect in the State
+of Oregon.
+
+         Give me a call if you have any questions,
+
+                                                      Yours truly,
+
+                                                         NMA 4 bi
+                                                      Martin G. Boatwright P.E.
+“Martin Boatwright, P.E.,-L.S.                                                    ~      run    TL     cc 558
+
+             Martin Boatwright has extensive experience in a wide variety of fields of Civil Engineering and Land
+             Surveying. He has spent 40 years in Private Engineering Employment (Consulting Firms) in the State of
+             Oregon. As Principal Engineer of a private firm since 1962 all types of engineering investigations, reports,
+             designs and construction supervision projects have been completed under his direct supervision.
+
+EMPLOYMENT
+         ‘   Civil Engineer                                                                                  1960-present
+             BOATWRIGHT ENGINEERING, INC.                                                                   SALEM, OREGON
+             Principal Engineer
+
+             Drafter and Field Surveyor                                                                        1950-1960
+             BOATWRIGHT ENGINEERING                                                                       SALEM, OREGON
+             Assistant Drafter of engineering plans. Field survey of preliminary data, construction staking and property
+             boundaries. Quantities and calculations.
+
+EDUCATION    B.S. Civil Engineering                                                                             1957-1960
+             OREGON STATE UNIVERSITY                                                                  CORVALLIS, OREGON
+             Graduate School Courses: Advanced Fluid Mechanics and Pre-stressed Concreted
+             Undergraduate Work                                                                                  1956-1957
+             WILLAMETTE UNIVERSITY                                                                          SALEM,OREGON
+             CONTINUING EDUCATION
+             Pavement Design, Dam Safety
+
+             REGISTRATION:           Registered Professional Engineer, State of Oregon
+                                     Registered Professional Survey, State of Oregon
+
+             MEMBERSHIP:             Consulting Engineers of Oregon
+                                     Professional Engineers of Oregon
+                                     Marion County Building Code of Appeals
+                                     Tau Beta Pi, Engineering Honor Society
+                                     Sigma Tau, Engineering Honor Society.
+                                     Phi Kappi Phi, Honor Society             ‘
+
+SKILLS
+             .      Conducted and supervised many rural and urban water system analysis and prepared engineering
+                    feasibility studies, developed financial programs to cover construction and right of way costs along
+                    with the final plans, specifications and contract documents. Rights of ways and land acquisitions
+                    have been acquired under his supervision along with necessary County, Railroad and State
+                    Highway Permits.
+
+                    Many of these projects required developing new sources of supply, treatment facilities where
+                    necessary, pumping and control equipment, master plans of distribution system for sizing and
+                    configuration, inline storage, reservoir sites and capacity determinations. These projects range in
+                    cost from $25,000 to over $6,000,000 and in size from a few miles of pipe to in excess of 100 miles
+                    of pipe. These projects have required extensive engineering and judgement to allow service to
+                    large areas of low density population within acceptable economic limits.
+
+             .      Experienced with administering Grand      Fund Contracts from HUD,     Farms     Home    Administration,
+                    OEDD, EPA and DEQ.
+
+             .      Prepared countywide sewer and water plans for Polk, Yamhill, Columbia, Grant, Sherman                and
+                    Wheeler Counties.
+                                                                                4   mee     1559
+                                                                     FAL
+Investigated   and   designed   many   Sanitary   Sewer   Projects    varying   in size from    minor   lateral
+extensions to major trunk lines, treatment plan modifications and           complete      new treatment plant
+facitities.
+
+Participates in Land Use Matters including Master Plans, Zone Changes, Conditional Use Permits,
+Partitionings, Subdivisions and Planned Unit Developments on projects varying in size from a few
+acres, up to 700 acres with 1400 dwelling units.
+
+Called upon to represent various public agencies in the correction of storm damage severe enough
+to obtain Presidential Disaster Declarations.     Work supervised, engineered and cost accounted and
+controlled through the letting of contracts are as follows:
+
+1.     Land Slide Removal and Stabilization, Canyon City
+2.     Bridge Replacement (26) Oregon State Forestry, (8) Ashland, Oregon
+3,     Channel and Surface Debris Clearance:
+            City of Tillamook
+            City of Ashland
+             City of Manzanita
+             City of Corvallis
+       Dredging of Reservoir Storm Deposits, City of Ashland
+OE
+
+       Dam Emergency Repair, City of Tillamook
+       Bank Removement, Port of Tillamook and Bay City, Oregon
+NO
+
+       Structural Repair, Blimp Hanger Walls and Roof System, Port of Tillamook
+
+Recent design and construction supervision of:
+
+1.     5,000,000 gallon reservoir and new 20" and 12" supply lines; reconstruction of slow sand filters
+       1 and 2 with miscellaneous piping modifications to waste; and reconstruction of South 1*
+       Avenue for City of Stayton,
+
+2.     New 500,000 and 50,000 galion reservoirs; new spring collection system for springs 3 and 4;
+       Willamina Creek Waterline Extension for Grand Ronde Community Water Association.
+
+3.      Riemer Road Well Field development, 53,000 gallon reservoir, 3 wells with pump controls,
+        piping and housing, Perrydale Domestic Water Association.
+
+4.      Gravity collection sewer system duplex pump station and 14,000 lineal feet of pressure sewer
+        line for Fargo Interchange Service District, Marion County Public Works.
+
+5.   | Numerous irrigation and recreational dams and storage reservoirs.
+
+Experienced with projects requiring FEMA elevation certification.
+
+Regularly prepares DOGAMI permits.
+Experienced with wetlands inventories, permits for fill and removal, and mitigation.
+
+Works on water right matters; new applications for groundwater, surface water and stored water.
+                                                                       FILE         71 1560
+                                                                      Boatwright Engineering Inc.
+                                                                        2613 12th ST SE, SALEM, OREGON 97302
+                                                                             civil engineers © land surveyors
+
+                                                                        (503) 363-9225     (FAX) 363-1051
+
+ "                                                    May 11, 2001
+
+Michael G.     Gunn, P.C.
+P.O. Box 1046
+Newberg, Oregon 97132
+
+RE:     ON-SITE SEWAGE EFFLUENT DISPOSAL POTENTIAL 25 ACRE + SITE FACING
+        99W BETWEEN NEWBERG AND DUNDEE, OREGON
+
+Dear Mr.     Gunn,
+
+        As per your request I have inspected the acreage tract facing 99W in the east half of
+Section 24, T38, R3W, Willamette Meridian, Yamhill County, Oregon, within the David Rasey
+DLL No. 59 in Yamhill County,
+
+         The soil maps were inspected, topography of the site, type of vegetation and ground cover
+and 3 related housing units, a masonry company, fitness gym and RV storage lot to develop an
+understanding of the site natural features and uses of the land to date. Most of the site has a
+modest slope parallel to 99W downward from S SW to N NE with ground cover consisting of
+scattered oak trees largely free of brush and grass ground cover in untreed areas.
+
+        An interceptor drain had been constructed parallel the west property line, in the last 3
+years or so, 15 to 20 feet into this site.
+
+         At the south end of the property next to 99W and the northen end of the property north of
+Hylands Drive the natural ground was found to possess soils with the best drainage and greatest
+potential for on site sewage effluent disposal. The soils map identify the soils on site as
+Woodburn siit loam at the south end of the parcel, and covering some 6 acres at the north end of
+the parcel. Between the better soils are located Amity and Dayton silty loams with poorer natural
+drainage than Woodburn. The long term effect of the interceptor drain is unknown at the time,
+we do know that it is going to improve the soil ground water removal.
+
+        The amount of Woodburn soils available on site clearly identifies that soils exist that are
+suitable for on site effluent disposal. The final design must address the location of these more
+desirable soils and make them available to the individual residential tracts. Each residential unit
+                           ee                                       oe!      FAL   Ti    nce 564
+
+On Site Sewage Affluent Disposal
+Page 2
+
+will require 300 to 450 LF of drainfield.
+
+        In my opinion, an on site sewage affluent disposal system can be designed so that the
+subject parcel can accommodate 9 separate 2.5 acre residential parcels.
+  t
+
+                                                     Yours truly,
+
+                                                        Lenk. 4 WorbeQ
+                                                     Martin G. Boatwright, P.E.
+
+MGB/kv
+
+                    Lexporaas (24-07
+                        seu?   LH   A   vee   LO62
+
+WATER AND STORM WATER
+  ;    ANALYSIS
+                               Ne
+                                                                        EnviroLogic Resources, Inc.
+                                                                 Consulting Environmental & Water Resources Scientists
+
+              5
+70050001          _                                                                   au      TL nce L563
+
+Michael G. Gunn, P.C.
+201 North Meridian Street
+PO Box 1046
+Newberg, Oregon 97132
+                                                                                            VIA Hand Delivery
+Attention:        Michael G. Gunn
+                  Attorney at Law
+
+Subject:          Water Supply and Stormwater Management for Re-Zoning Application
+                  Carter, Edwards, Fowler/Chehalem Creek Properties
+                  Yamhill County, Oregon
+
+Dear Mr. Gunn:
+
+An application to change the zoning of a property from AF-10 to VLDR-2.5 has been submitted
+to Yamhill County for consideration.       As a result, questions regarding water supply and
+stormwater management have been raised. This letter presents information related to water
+matters at the Chehalem Creek Properties site southwest of Newberg in Yamhill County, Oregon.
+The subject property, and related area thereto, is located in Township 3 South, Range 3 West,
+Sections 24 and 25; and Township 3 South, Range 2 West, Section 19, Willamette baseline and
+meridian, and is shown on Figure 1. The property covers approximately 25 acres.
+
+EnviroLogic       Resources,    Inc.,   was   retained   by   Messrs.    Carter,   Edwards,     and    Fowler,     aka
+Chehalem Creek Properties, to provide an expert opinion regarding whether the property will
+support water supply and stormwater management for the total of seven residences that could be
+built under the proposed new zoning designation. Currently, there are three residences on the
+property. For purposes of evaluating water supply and stormwater matters, four new residences
+are considered added to the property.
+
+Ground water is an important source of water for populations in Yamhill and nearby counties. In
+response to pressures on the ground-water supply in rural residential areas, Marion County
+promulgated an ordinance (Chapter 181 of the Marion County Rural Zoning Ordinance) designed
+to guide the evaluation of ground-water availability in partition and subdivision applications. As
+such, this ordinance is a relevant and appropriate guidance for the evaluation presented in this
+letter. In the sections that follow, salient information about the subsurface hydrogeologic system
+will be discussed and calculations as used in the Marion County ordinance will be presented.
+
+The ground-water availability calculation is based on determining the amount of recharge the
+target aquifer receives, and comparing the recharge to the projected amount that will be
+consumptively used. The recharge is calculated for the Study Area, as defined in the ordinance
+(the area within %4-mile of the property boundary), from annual precipitation over the area.
+
+8948 SW Barbur Blvd #56, Portland, Oregon       97219-4047 (503)768-5121 fax (503)768-5122         www.h2ogeo.com
+                                                                   “EnviroLogic Resources, Inc.
+
+                                                                          FILA   vil   nor    Od
+Mr. Michael G. Gunn.
+February 21, 2001
+Page 2
+
+Usage is based on the number of parcels in Study Area and a rate set in the ordinance (525
+gallons per day), plus the amount of water withdrawals authorized by water rights and permits.
+
+Stormwater management will be addressed in terms of a projected amount of new impervious
+area as a result of complete development of the property under the proposed zoning change.
+
+REGIONAL HYDROGEOLOGY
+
+The Study Area (Figure 1) is located in the Willamette Valley, north of the Willamette River,
+southwest of the city of Newberg. The subject property is just south of Harvey Creek. The area
+is composed of lacustrine and fiuvial sediments and rocks of the Pleistocene. These geologic
+units generally consists of unconsolidated to semiconsolidated lacustrine clay, silt, sand, and
+gravel; and in places includes mudflow and fluvial deposits and discontinuous layers of peat.
+The unit includes older alluvium and related deposits of Piper (1942), Willamette Silt, alluvial
+silt, sand, and gravel that form terrace deposits of Wells and others (1983), and Gresham and
+Estacada Formations of Trimble (1963). Beneath the sedimentary unit is basalt of the Columbia
+River Basalt Group, which generally is the target aquifer for development of new water supply
+wells,
+
+The land surface elevation of the subject property ranges from 160 to 180 feet above mean sea
+level. The Oregon Climate Service reports a mean precipitation in McMinnville of 41.86 inches
+per year over the 1961-1990 period. Recharge to alluvial systems occurs by infiltration of
+precipitation, irrigation water, and septic systems. Columbia River Basalt aquifers are recharged
+by release of water from overlying saturated alluvial sediments to the basalt.
+
+Ground water occurs in the basalt of the Columbia River Basalt Group in semi-confined or
+confined conditions where it occurs below saturated alluvium. In upland areas, basalt aquifers
+can have perched or unconfined zones as well.       The tops and bottoms of the volcanic flows
+generally are more rubbly and/or vesicular and readily transmit water to wells.           Vertical
+migration of water through basalt can occur where fractures from columnar jointing are
+sufficiently dense and fully penetrating. The sedimentary units yield small to moderate quantities
+of water to some wells,
+
+GEOLOGY/HYDROGEOLOGY OF THE STUDY AREA
+
+Several soil types are present within the Study Area. The soil types covering the most area are
+those of the Amity silt loam series and Woodburn silt loam, which consist of somewhat poorly-
+drained to moderately well-drained soils that formed in old alluvium on valley terraces with 0 to
+3.percent slopes. A small area of Dayton silt loam, which consists of poorly-drained soils is
+present on the property in an area currently considered a wetland environment. Permeabilities of
+these soils range from 0.2 to 2.0 inches per hour (USDA, 1983).
+                                                                   ~EnviroLogic Resources, Inc.
+
+Mr. Michael G, Gun,                                                            Ye
+February 21,2001                                                         aus TL nec 569
+Page 3
+
+Lacustrine and fluvial sedimentary rocks of the Pleistocene time are present beneath the surface
+soil profile. Below the soils and the sedimentary unit is the Columbia River Basalt. This unit
+supplies most of the water to wells in the Study Area.
+
+Well logs of representative wells in the Study Area were retrieved from the GRID database from
+the Oregon Water Resources Department (WRD) website.                 A review of these well logs,
+summarized on Table 1 and presented in Appendix A, shows the principal hydrogeologic units
+from youngest to oldest, are: 1) a clay of variable thickness over the Study Area; and 2) basalt.
+The clay ranges from 0 feet to over 230 feet thick. Basalt boulders are sometimes found within
+this unit. At times clay is also found layered within the basalt layers.
+
+Basalts of the Columbia River Basalt Group occur below the clay and silt, where it is present.
+Wells drilled into the basalts encounter decomposed,      weathered, fractured, or broken zones
+alternating with harder layers. Identification of specific aquifer zones is not possible because of
+the variety of descriptors used and the variation in depths of where water is present. It is likely
+that ground water in the basalt aquifers occurs in a confined or semi-confined condition.
+
+There are 17 wells identified on parcels within the Study Area, including one on the subject
+property and one on the parcel inside of the subject property. Of these, none have been deepened
+since they were originally drilled according to WRD records. One well, which appears to have
+been a test well, has been abandoned. Guidance in the Marion County evaluation process
+suggests that when more than 10 percent of the wells in an area have been deepened, a potential
+problem with declining water levels may exist. Because, according to WRD records, none of the
+wells in the study area have been deepened, declining water levels do not appear to have been an
+historical problem in the Study Area.
+
+Several certificated or permitted water rights have been granted within the Study Area. Two
+permits (Hillview Acres Water District and Wilderness Canyon Water District) name a well as
+the source. These permits will allow for irrigation of 20 acres of land and domestic supply for 45
+households.   Many of these are for domestic use and/or name a surface water source for the
+water.   Information pertaining to water rights within the Study Area is presented in Appendix B.
+
+GROUND-WATER RECHARGE AND USAGE
+
+Recharge to the ground-water system occurs through direct infiltration of precipitation and
+irrigation water, and from effluent from septic systems. Recharge enters the Columbia River
+Basalt Group aquifer system by the release of water from storage in the saturated alluvial
+sediments,
+                                                                    ~EnviroLogic Resources, Inc.
+
+Mr. Michael G. Gunn.                                                          FIL   7A    nce   L566
+February 21, 2001
+Page 4
+
+The ground-water budget for the Study Area is evaluated by multiplying the mean annual
+precipitation by an average annual recharge rate. The result is then applied over the area of the
+Study Area to calculate the recharge from precipitation in acre-feet per year. Additionally,
+recharge from effluent from septic systems is calculated based on a per capita rate and the
+number of parcels in the Study Area (Snyder and others, 1994). These are added together to
+develop a volume of Total Recharge for the Study Area, Discharge is based on the number of
+parcels and an assumed consumption per parcel added to the permitted ground-water use in the
+Study Area. The ground-water budget calculations are presented on Table 2.
+
+In this analysis, 266.34 acre-feet of water recharges the aquifer from precipitation. Another
+10.40 acre-feet are estimated to recharge from septic effluent for a total recharge of 276.75 acre-
+feet. Irrigation recharge is not considered in these calculations, Discharge amounts to 223.60
+acre-feet, including permitted ground-water use and the new potential parcels in the proposed
+zone change. Total discharge is 81 percent of total recharge. If septic recharge is disregarded,
+the total discharge becomes 84 percent of precipitation recharge.
+
+These values are based on a recharge rate of 16% of annual precipitation (NGS, 1997).      While a
+number of factors can influence the average annual recharge rate (estimates range from 0.5% to
+16% in Marion County), 16% is considered by NGS to be a reliable estimate for the Columbia
+River Basalt Group when overlaid by a saturated alluvial aquifer. Site-specific hydrogeologic
+conditions may cause the average annual recharge rate in an area to deviate from this value, but
+collection of data to make this kind of analysis is unwarranted for this proposed zone change.
+
+Is there enough water to support the proposed zone change? Guidance from Marion County
+indicates that a proposed partition or subdivision may proceed if the amount of recharge used is
+less than 90 percent. Based on the scope of analysis included in this evaluation, EnviroLogic
+Resources believes that sufficient ground-water supplies are available without causing an adverse
+impact on surrounding properties. The proposed zone change adds four households to the Study
+Area, Long-term water-level trends are not declining in a nearby state observation well. No
+wells in the Study Area have been deepened, according to WRD records, indicating that there has
+not been an historic problem with water levels. While other areas of the County may have
+experienced water level declines as discussed by the City of Newberg, these conditions do not
+appear to predominate in the study based available records.
+
+In EnviroLogic Resources’ opinion, based on a reasonable degree of scientific certainty, this
+area will support a water supply for seven residences without adversely affecting the
+surrounding properties.
+                              —                                   ™~EnviroLogic Resources, Inc.
+
+Mr. Michael G. Gunn.                                                          FILA   7A   ct   LBT
+February 21, 2001
+Page 5
+
+STORMWATER MANAGEMENT
+
+Four new residences and a roadway may potentially be added to the property as a result of
+development in accordance with the proposed zone change. Each new residence may add up to
+2,500 square feet of new impervious area to the property, including a 16 feet by 30 feet driveway.
+This amounts to 10,000 square feet of new impervious area for residences. New roadway is
+assumed to be constructed for a linear distance of approximately 660 feet. If this road is assumed
+to be 16 feet wide, it will add another 10,000 square feet of impervious area to the property. The
+additional 20,000 square feet of impervious area amounts to less than 2 percent of the total
+property area. Stormwater runoff from this new impervious area can be sufficiently managed on
+the property, especially if Best Management Practices and low impact development concepts
+(Coffman and others, 1998) are applied. Stormwater can be adequately managed on the property
+with an eventual exit point to Harvey Creek without adverse impact to surrounding properties.
+
+In EnviroLogic Resources’ opinion, based on a reasonable degree of scientific certainty, this
+area will support a stormwater management system for seven residences without adverse
+impact to surrounding properties.
+
+CLOSING COMMENTS
+
+The information collected during the preparation of this evaluation describes the ground-water
+and stormwater conditions in the Study Area sufficiently to draw the conclusions presented
+within reasonable certainties. While the availability of new and more quantitative information
+could modify the calculations, collection of these data does not appear to be warranted.
+
+Please call me at (503)768-5121 if you have any questions or coniments.
+
+Sincerely,
+EnviroLogic,    Resolirces, Inc.
+
+Th           . Calabrese, R.G.
+Principal/Hydrogeologist
+
+ce:
+clients/chehalemereekproperties/mgg022101
+                                   water.doc
+                                                               ~E£nviroLogic Resources, Inc.
+
+Mr. Michael G. Gunn.                                                       an TA 4568
+February 21, 2001
+Page 6
+
+ATTACHMENTS
+
+Table 1       Local Well Inventory
+Table 2       Recharge Calculations
+Figure 1      Site Location
+Figure 2      Study Area
+Figure 3      Hydrograph for Well YAMH 2428
+Appendix A    Well Logs
+Appendix B    Water Rights
+Appendix C .. Resume for Thomas J. Calabrese, RG, CWRE
+
+REFERENCES
+
+Coffman, L.S., M.L. Clar, and N. Weinstein, 1998, New low impact design: site planning and
+       design techniques for stormwater management:  Proceedings         of the    1998 National
+       Planning Conference, AICPPress,
+       http://www.asu.edu/caed/proceedings98/coffmn/coffmn.
+                                                        html.
+
+Golder Associates, 1997, Review of NGS, Inc. Geohydrologic Study: Consultant report prepared
+       for the Marion County Planning Division, Salem, Oregon, August 14, 1997, 2 p.
+
+Gray, D.M., 1970, Handbook on the principles of hydrology:    Reprinted in 1973 by the Water
+       Information Center, Inc., Syosset, New York.
+
+Marion County Planning Division, 1999, A manual for completion of hydrogeology reviews and
+       studies in compliance with the Marion County Sensitive Groundwater Overlay Zone:
+       Marion County Planning Division, 9 p.
+
+Northwest Geological Services, Inc., 1997, Geologic and hydrogeologic study of the residential
+       acreage-zoned areas of Marion County underlain by the Columbia River Basalt and older
+       rocks: Consultant report prepared for the Marion County Community Development
+       Department, Salem, Oregon, May 1997, 51 p.
+
+Orzol, L.L., Wozniak, K.C., Meissner, T.R., and Lee, D.B., 2000, Ground-water and water-
+       chemistry data for the Willamette Basin, Oregon:       U.S.   Geological    Survey   Water
+       Resources Investigations Report 99-4036, 141p.
+
+Piper, A.M., 1942, Ground-water resources of the Willamette Valley, Oregon:       U.S. Geological
+        Survey Water Supply Paper 890, 194p.
+                                                                    EnviroLogic Resources, Inc.
+                                                                i   .     *     2
+
+Mr. Michael G. Gunn.                                                    rua   U4 nor     569
+February 21, 2001
+Page 7
+
+Snyder, D.T., Morgan, D.S., and McGrath, T.S., 1994, Estimation of ground-water recharge from
+       precipitation, runoff into drywells, and on-site waste disposal systems in the Portland
+       Basin, Oregon and Washington:     U.S. Geological Survey Water-Resources Investigations
+       Report 92-4010, 34 p.
+
+Trimble, D.E., 1963, Geology of Portland, Oregon, and adjacent areas: U.S. Geological Survey
+       Bulletin 1119, 110p., scale 1:62,500
+
+U.S. Department of Agriculture, 1971, Soil survey of Yamhill County area: U.S, Dept of
+       Agriculture Soil Conservation Service, prepared in cooperation with the Oregon
+       Agricultura Experiment Station.
+
+U.S. Geological Survey, 1986, Newberg, Oregon, 7.5' quadrangle:           U.S. Geological Survey
+       topographic map series, 1:24,000.
+
+Walker, G.W. and MacLeod, N.S., 1991, Geologic map of Oregon:             U.S. Geological Survey,
+       scale 1:500,000.
+
+Wells, R.E., Niem, A.R., MacLeod, N.S., Snavely, P.D., Jr., and Niem, W.A., 1983, Preliminary
+       geologic map of the west half of the Vancouver (Washington-Oregon) 1° by 2°
+       quadrangle, Oregon: U.S. Geological Survey Open-File Report 83-591, scale 1:250,000.
+
+Whiteman, K.J., Vaccaro, J.J., Gonthier, J.B., and Bauer, H.H., 1994, The hydrogeologic
+       framework and geochemistry of the.Columbia Plateau Aquifer System, Washington,
+       Oregon, and Idaho: U.S. Geological Survey Professional Paper 1413-B, 73 p.
+    oe”
+                                 EnviroLogic Resources, Inc.
+
+                                     rua TL nee L870
+
+              APPENDIX C
+
+RESUME for THOMAS J. CALABRESE, RG, CWRE
+                                  \
+                                      \
+                                                                                 En oc                  SS
+THOMAS J. CALABRESE, R.G.                                                                  FILE         a
+Principal/Hydrogeologist
+                                                                                                     TY /                 51
+CREDENTIALS/REGISTRA TIONS                                 variety of hydrogeologic and geophysical                              tools,
+                                                           including several ground-water model codes.
+A.B., Geology, Occidental College, 1981
+GradStudy, MineEng, Univ of Nev-Reno, 1981-1983            KEY PROJECTS
+Hydrogeology Studies, Wright St Univ, 1985
+Registered Geologist, Oregon G1784 and California 5391     Water       Resources         Evaluation         for         Agricultural
+Certified Water Rights Examiner No. 60488                  Concern      - Supervised        ground-water                management
+                                                           planning and basin development for a large alfalfa
+PROFESSIONAL AFFILIATIONS                                  and rice farm in Modoc County, California. Sited
+                                                           production wells capable of producing 5,000 to
+Association of Ground-Water Scientist and Engineers        10,000 gpm from volcanic aquifers, planned and
+American Society for Testing and Materials                 performed aquifer tests, and monitored the effects of
+Oregon Association of Environmental Professionals          iron-bacteria contamination problems on the specific
+Geological Society of America                              capacity of affected wells.
+Citizen Member - Tryon Creek Watershed Council
+Board Member — Oregon Water Resources Congress             Stormwater          Compliance         Evaluation            for     Utility
+                                                           Company        ~-    Reviewed          current         and         proposed
+SPECIALIZED EXPERTISE                                      stormwater regulations and compliance status for
+                                                           multiple sites in Oregon and Washington. Made
+Water-Resources Evaluations                                recommendations          for best       management                 practices
+        >      Water Supply and Water Quality              and     a strategy     for addressing            future        regulatory
+        >      Aquifer Testing and Modeling                changes.
+         >       Well Design and Construction
+         >       Geophysical Techniques                    Residential    Water    Seepage    Evaluation     -
+        >      Stormwater                                  Investigated hydrogeologic factors contributing to
+RI/FS and RD/RA related to:                                water seepeage into subgrade of a home in
+        >      Hydrocarbons                                Washington County, Oregon.
+        >      Wood Treating & MGPs
+        >      Solvents                                    Ground-Water Exploration and Development for
+Property Transfer/Redevelopment Assessments                Food-Processing  Industry  - Developed   and
+Litigation Support/Expert Witness                          implemented ‘sa     program                 consisting     of   a
+Strategic Planning/Environmental Management                hydrogeologic évaluation and                test-well drilling to
+Project Management                                         evaluate the availability of ground-water resources in
+                                                           Tillamook County, Oregon.
+EXPERIENCE           SUMMARY
+                                                           Ground-Water       Supply — Management — and
+                                                           Development for Agriculture - Managed and planned
+As Principal of EnviroLogic Resources, Inc., Mr.
+                                                           the ground-water exploration, development, and
+Calabrese is the lead investigator and project
+                                                           management program in basalt aquifers for a farm in
+manager for all work for this consulting practice. Mr.
+                                                           Eastern    Washington.         Prepared _ regional
+Calabrese has nearly 20 years of experience and is a
+                                                           hydrogeologic evaluations and site-specific data to
+technical leader in the collection and interpretation of
+                                                           support     water    rights    applications        and        protect the
+hydrogeological and chemical data to describe
+                                                           resource.
+ground-water flow and contaminant transport. He
+has conducted hydrogeological studies in several
+                                                           Expert Witness for Stormwater Matter - Reviewed
+western states for water resources exploration and
+                                                           hydrogeologic conditions and provided an opinion
+development     and    for ground-water       protection
+                                                           regarding partition conditions as they related to the
+programs.    Mr. Calabrese has been successful in
+                                                           installation of stormwater control structures in
+identifying reliable water supplies for agriculture,
+                                                           Ciackamas County, Oregon.
+property development, and mining companies using a
+:                                       vane                                              “saat?
+                                                                                                        EnviroLogic Resources
+THOMAS J. CALABRESE, RG, CWRE
+Principal/Hydrogeologist                                                                           run TE mcd 572
+Hydrogeologic Evaluation for Agricultural Property                 Dewatering Study at Power Generating Facility -
+- Performed a hydrogeologic study to make                          Designed      and      implemented       a modeling                study to
+recommendations on potential water supplies for an                 evaluate     design     parameters       for a new             dewatering
+agricultural property in Gilliam County, Oregon.                   system to be installed at a electrical generating station
+Conducted preliminary ground-water modeling to                     in Long Beach, California.
+evaluate potential pumping levels in Columbia River
+Basalt Group aquifers.                                             Wellhead      Protection           Analyses        —      Conducted       an
+                                                                   analysis of the risk to municipal water supply wells
+Aquifer Characterization for Agriculture - Performed               from a proposed new service stations in Clark
+aquifer testing of a confined groundwater system in                County, Washington. The analyses was made by
+volcanic aquifers featuring flowing geothermal wells               calibrating an analytical model of ground-water flow
+in   Harney   County,    Oregon,   as          part   of a water   and coupling conceptual contaminant transport
+resources evaluation.        »                                     scenarios to the calibrated model.
+
+Production-Well Maintenance Program for Property                   PUBLICATIONS/PRESENTATIONS
+Development - Prepared and implemented a well
+rehabilitation program to bring an unused well in                  Spreizer, G.M., T.J. Calabrese, and R.S. Weidner,                      1991,
+Keizer, Oregon, back into productive use. Conducted                           Assessing the Usability of Historical Water-
+ground-water sampling and           aquifer testing to                        Quality Data for Current and Future Applications:
+characterize     the resource      for potential    use                       ASTM Symposium on Ground Water and
+classifications.                                                              Vadose      Zone   Investigations,  San    Diego,
+                                                                              California, January 1991.
+ Water Resources Evaluation for Future Development                 Calabrese,     TJ.   and  M.R.    San  Miguel,   1993,
+Site - Developed and supervised a three-phase                                Environmental Firms Make a Difference: Job
+program of geophysical exploration, test drilling, and                       Training in Los Angeles: Ground Water Age
+well construction and testing to assess ground-water                          Magazine, October 1993.
+resources for a future residential development site in
+the Santa Ynez River Valley, Santa Barbara County,                 Calabrese,     T.J.,       1994,       Designing             Investigations,
+California,                                                                   Environmental Science for Lawyers, Lenders,
+                                                                              Corporate,     Government     & Real  Estate
+                                                                              Professionals: Short Course by Law Seminars
+Hydrogeology Review for Subdivision - Performed a
+                                                                              International, The Governor Hotel, Portland,
+Hydrogeology Review under a Marion County,                                    Oregon, July 21 and 22, 1994,
+Oregon, ordinance to support a subdivision and
+development of property in a Ground-Water Limited                  Calabrese, T.J., 1995, Hydrocarbon Investigations and
+Area,                                                                        Cleanup,    Fundamentals     of   Groundwater
+                                                                             Contamination and Remediation: Short Course by
+Water Resource Evaluations - Performed geophysical                           University of Wisconsin-Madison, Tropicana
+surveys, hydrologic mapping, test drilling, and                               Hotel, Las Vegas, Nevada, May 15-17, 1995.
+aquifer testing to locate and effectively utilize water
+resources for a placer mining operation in the                     Saar, R. and T.J. Calabrese, 1996, Quality Assurance for
+Northwestern Mojave Desert and a lode deposit in                            Environmental Investigations: Two-hour seminar
+                                                                              presented to the Port              of       Portland,   Portland,
+the Southeastern Mojave Desert, California.
+                                                                              Oregon, January 1996,
+
+Ground-Water      Resource    Development    —_for                 Calabrese, T.J. and L.E. Roberts, 1996, Managing Your
+Residential Supply - Conducted drilling and well                             Environmental Projects:     Presentation to the
+design in volcanic terrain to develop a deep ground-                         Washington      Public     Ports ~— Association
+water resource for use at a vacation home in Nevada                          Environmental        Committee,         Olympia,
+County, California.                                                          Washington, February 1996.
+                                                                                             %     }
+
+                                                                                En viroLogic Resources, Inc.
+                                                                            Consulting Environmental & Water Resources Scientists
+
+                                                                                                        FILR    TA      PACE 1973
+May 15, 2001
+ 10059.001
+
+Michael G. Gunn, P.C.
+ 201 North Meridian Street
+PO Box 1046
+Newberg, Oregon 97132
+                                                                                                           VIA Hand Delivery
+Attention:           Michael G. Gunn
+                     Attorney at Law
+
+Subject:             Water Supply and Stormwater Management for Re-Zoning Application
+               _     Supplemental Information
+                     Chehalem Creek Properties/Edwards, Carter, Fowler
+                     Yamhill County, Oregon
+                                    ’
+                                H
+Dear Mr. Gunn:
+
+I have conducted a supplemental analysis of water supply availability to reflect the possibility -
+of nine (9) new parcels being developed on the subject property. The original analysis
+considered         that seven new                 parcels,   four more    than the current             configuration,    would    be -
+developed under          a VLDR-2.5                  zoning.     The subject property, and related area thereto, is
+located in Township 3 South, Range 3 West, Sections 24 and 25; and Township 3 South,
+Range      2 West,      Section               19, Willamette        baseline   and    meridian.           The   property    covers
+approximately 25 acres.
+
+EnviroLogic Resources,                      Inc., was retained by Messrs.            Edwards,          Carter, and Fowlef,       aka
+-Chehalem Creek Properties, to provide an expert opinion regarding whether the property will
+support      water     supply               and    stormwater      management        undef       the    proposed     new    zoning
+designation. Currently, there are three residences on the property. For purposes of evaluating
+water supply and stormwater matters, six new residences are considered added to the property
+in this analysis.
+
+Ground water is an important source of water for populations in Yamhill and nearby counties.
+In response to pressures on the ground-water supply in rural residential areas, Marion County
+promulgated an ordinance (Chapter 181 of the Marion County Rural Zoning Ordinance)
+designed to guide the evaluation of ground-water availability in partition and subdivision
+applications. As such, this ordinance is a relevant and appropriate guidance for the evaluation
+presented in this letter.            :
+
+The ground-water availability calculation is based on determining the amount of recharge the
+target aquifer receives, and comparing the recharge to the projected amount that will be
+consumptively used.     The recharge is calculated for the Study Area, as defined in the
+
+8948 SW Barbur Blyd #56, Portland, Oregon                      97219-4047 (503)768-5121 fax (503) 768-5122
+www.h2ogeo.com                          :
+                                                                ry
+
+                       oe                                            ead
+                                                                      EnviroLogic Resources, Inc.
+
+Mr. Michael G. Gunn.                                                                         ;
+May 15, 2001                                                                 FILA   74   nce Lo7ld
+Page 2
+
+ordinance (the area within /4-mile of the property boundary), from annual precipitation over
+the area, Usage is based on the number of parcels in Study Area and a rate set in the
+ordinance (525 gallons per day), plus the amount of water withdrawals authorized by water
+"tights and permits.
+
+Stormwater management will be addressed in terms of a projected amount of new impervious
+area as a result of complete development of the property under the proposed zoning change.
+
+GROUND-WATER RECHARGE AND USAGE
+
+Recharge to the ground-water system occurs through direct infiltration of precipitation and
+irrigation water, and from effluent from septic systems. Recharge enters the Columbia River
+Basalt Group aquifer system by the release of water from storage in the saturated alluvial
+sediments and from infiltration of rainfall in uplands areas.
+
+The ground-water budget for the Study Area is evaluated by multiplying the mean annual
+precipitation by an average annual recharge rate. The result is then applied over the area of
+the Study Area to calculate the recharge from precipitation in acre-feet per year. Additionally, -
+recharge from effluent from septic systems is calculated based on a per capita rate and the
+number of parcels in the Study Area (Snyder and others, 1994). These are added together to
+develop a volume of Total Recharge for the Study Area. Discharge is based on the number of
+parcels and an assumed consumption per parcel added to the permitted ground-water use in
+the Study Area.                                                                      ‘
+
+Figure 1 shows a tax lot map with an outline of the Study Area used for the calculations. The
+Study Area includes the area of parcels that intersect a line Y%-mile from the property
+boundary. Precipitation recharge over the 477.2—acre area amounts to 266.34 acre-feet per
+year. Another 10.65 acre-feet per year recharges from water released from septic systems, for
+a total of 276.99 acre-feet of recharge.     Irrigation recharge is not considered in these
+calculations.
+
+Discharge amounts to 225.37 acre-feet, including permitted ground-water use and the new
+potential parcels in the proposed zone change. Total discharge is 81 percent of total recharge.
+If septic recharge is disregarded, the total discharge becomes 85 percent of precipitation
+recharge. The ground-water budget calculations are presented on Table 1.
+
+These values are based on a recharge rate of 16% of annual precipitation (NGS, 1997). While
+a number of factors can influence the average annual recharge rate (estimates range from 0.5%
+to 16%    in Marion County),   16%   is considered by NGS    to be a       reliable estimate for the
+Columbia River Basalt Group when overlaid by a saturated alluvial aquifer. Site-specific
+hydrogeologic conditions may cause the average annual recharge rate in an area to deviate
+                        —                                       weg         .
+                            7                                    EnviroLogic Resources, Inc.
+
+May 15 200 F Gunn.                                                      cin TL ee 879
+Page 3
+
+from this value, but collection of data to make this kind of analysis is unwarranted for this
+proposed zone change.
+
+‘Is there enough water to support the proposed zone change? Guidance from Marion County
+ indicates that a proposed partition or subdivision may proceed if the amount of recharge used
+ is less than 90 percent.      Based on the scope of analysis included in this evaluation,
+ EnviroLogic Resources believes that sufficient ground-water supplies are available without
+ causing an adverse impact on surrounding properties. The proposed zone change potentially
+ adds six households to the Study Area. Long-term water-level trends are not declining in a
+ nearby state observation well. No wells in the Study Area have been deepened, according to
+WROD records, indicating that there has not been an historic problem with water levels. While
+other areas of the County may have experienced water level declines as discussed by the City
+of Newberg, these conditions do not appear to predominate in the study area, based available
+records.                 !
+
+In EnviroLogic Resources’ opinion, based on a reasonable degree of scientific certainty,
+this area will support a water supply for nine residences without adversely affecting the
+surrounding properties.
+
+STORMWATER MANAGEMENT
+
+Six new residences and a roadway may potentially be added to the property as a result of
+development in accordance with the proposed zone change. Each new residence may add up
+to 2,500 square feet of new impervious area to the property, including a 16 feet by 30 feet
+driveway. This amounts to 15,000 square feet of new impervious area for residences. New
+roadway is assumed to be constructed for a linear distance of approximately 660 feet. If this
+road is assumed to be 16 feet wide, it will add another 10,000 square feet of impervious area
+to the property. _ The additional 25,000 square feet of impervious area amounts to
+approximately 2 percent of the total property area. Stormwater runoff from this new
+impervious area can be sufficiently managed on the property.    Stormwater can be adequately
+managed on the property with an eventual exit point to Harvey Creek without adverse impact
+to surrounding properties,
+
+In EnviroLogic Resources’ opinion, based on a reasonable degree of scientific certainty,
+this arca will support a stormwater management          system for nine residences without
+adverse impact to surrounding properties.
+
+CLOSING COMMENTS
+
+The information collected during the preparation of this evaluation describes the ground-water
+and stormwater conditions in the Study Area sufficiently to draw the conclusions presented
+                                     Natl”                                 oY
+                                     ~                                      ‘EnviroLogic Resources, Inc.
+
+      Mr. Michael G. Gunn.                                                                   mee
+      May 15, 2001                                                               FILa   7A   PACE 1576
+      Page 4
+
+      within reasonable scientific certainties. While the availability of new and more quantitative
+      information could modify the calculations, collection of these data does not appear to be
+      warranted.
+’ '
+
+      Please call me at (503)768-5121 if you have any questions or comments.
+
+      Sincerely,
+
+      cc:
+
+      clicnts/chehalemecreekproperties/mgg05 150 iwater.doc
+
+      ATTACHMENTS
+
+      Table 1               Ground-Water Recharge and Usage Calculations
+      Figure 1              Study Area
+                                 wt
+       None!
+
+                                       rue   U4 ce LOTT   |
+
+DEMONSTRABLE NEED AND AVAILABLE PROPERTIES
+                 ANALYSIS
+                          Neen                                                      we           TA     ct LOIS
+
+COLDWCLL                                                                                        RESIDENTIAL REAL ESTATE
+BANKGCR ©]                                                                                             2501 PORTLAND RD.
+                                                                                                        NEWBERG, OR 97132
+                                                                                                         BUS. (503) 538-0468
+PROFESSIONAL                                                                                             FAX (503) 537-0366
+     GROUP
+
+February     14, 2001
+
+Mr, Michael Gunn, Attorney
+P. O. Box 1046
+Newberg, OR 97132
+
+Re: Edwards, Carter, zone change
+
+Dear Sir,
+
+I have been a resident of Yamhill County since 1968. Lam a graduate of Newberg High School and
+George Fox University. I obtained my real estate license in 1983 and Brokers license in 1986. Currently I
+am a Designated Broker for Coldwell Banker Professional Group. 1 am also President of Coyote Homes
+Inc., a building and development company.
+
+Throughout the last several years, we have developed, built homes, sold lots and homes in the VLDR 2
+1/2 acre zone. We have found the greatest source of buyers for the VLDR 2 1/2 acre zoned property, tend
+to have the following characteristics: they are residents of Yarnhill County - approx. 60 % of the time.
+They are looking for a site which provides room for not only their home, but, outbuildings, shops, elbow
+room, ect,                                                                                                         ‘
+
+We have found that the VLDR 2 1/2 zone fills this need perfectly. The VLDR 1 zone tends to attract
+buyers interested in building estate type homes. They tend to have community water systems duc to the
+fact it is difficult to site a well and drain field, house and backup drain field on a one acre site.   Some
+recent examples of VLDR 1 acre developments are Aspen Estates and Red Hills Estates in the Newberg
+and Dundee area. These neighborhoods are upper end properties with no farm type animals and few
+detached garages or other outbuildings. VLDR 5 acre zoned land generally attracts buyers who are more
+than weekend farmer types, 5+ acre lots tend to require more time and larger equipment.
+
+The VLDR 2 1/2 zone is a perfect fit for the population intcrested in 4-H, FFA, ECT.         The sites are large
+enough for these uses, yet small enough to maintain on the weekends. Currently we are facing a shortage
+of VLDR 2 1/2 acre zoned property in the study arca, While the county map shows there are 59
+undeveloped lots in the study area, our site survey conducted February 10, 2001, shows there are 21
+undeveloped lots in the study area, but after personally examining the study arca, I have found a total of
+23.
+
+After examining the sites in the study area, realistically, there are only 13 vacant sites which could be
+available for homes. Of these 13 lots, it appears that only 1 is currently for sale, Accourding to the
+Realtors Multipte listing Service, in the last year, five parcels in the study area have been available for sale
+and have sold to buyers currently building or planning to build.
+
+As the above indicates, it appears there is a severe shortage of lend in the VLDR 2 1/2 acre zone in the
+study area. To maintain a healthy economic outlook, it is important to increase supply to a level which
+will be closer in meeting demand levels. As previously indicated, 60% of the VLDR 2 1/2 acre property
+
+                                      Each Office Is independently Owned And Operated                                  Hand
+                          eter!                                               er            FILE   7A      PACE 15 79
+
+buyers are local Yamhill County residents.    These people generally have smaller homes to sale during the
+move up process, Thus, the trickle down effect impacts more than just this type of zone. Currently the
+need for VLDR 2 1/2 acre zone far exceeds the supply.
+
+The subject site is a near perfect fit for being zoned VLDR 2 1/2. It adjoins this zone already so it will
+have no negative impact on surrounding properties. The property has not been utilized for several years.
+It is not prime agriculture land, because of its size, location and soil type. This zone change will actually
+conform the property into the current neighborhood.
+
+We find that when a property is developed in a similar manner as the surrounding properties, it stabilizes
+value and can even increase value. Development generally creates new improvements to higher code
+Jevels and eliminates the unknown aspect of “what will happen in that field?”
+
+Therefore, I believe this site meets the criteria for the proposed zone change and will have no negative
+effect on surrounding propertics.
+
+Marc Willcuts
+Broker
+                                                            a               vu TA er 580
+
+ VLDR 2 1/2 acre zoned land in study area considered as available inventory
+
+ 1)   Tax lot 3313 - 2501:            High water table, wetland vegetation, development
+                                      potential.
+2)    Tax lot 3313 - 2502:            High water table, wetland vegetation, development
+                                      potential.
+3)    Tax lot 3313 - 2900:            High waicr table, wetland vegetation, development
+                                      potential.
+4)    Tax lot 3313 - 3601:            High water table, wetland vegetation, development
+                                      potential.
+5)    Tax lot 3313 - 3602:            High water table, wetland vegetation, development
+                                      potential.
+
+6)    Tax lot 3323 - 600:             14,96 acres divided with stream.   Slopes, however
+                                      this site is buildable,
+1     Tax lot 3323 - 3100:            Buildable site.
+
+8)    Tax lot 3324 - 1405:            Buiidable site, owned by neighbor and used for
+                                      pasture.
+9)    Tax lot 3324AD - 1000:          Buildable, owned by neighbor and used for pasture.
+
+10)   Tax lot 3325   - 591;           Buildable 1.97 acre site,
+1D    Tax lot 3325   - 2200:          Buildable, limited access,
+12)   Tax lot 3325   - 2600:          Buildable, limited access.
+13)   Tax lot 3325   - 2601:          Buildabie, limited access.
+                      ee!                                  “—              rie CL mec
+                                                                                    L B84
+
+VLDR 2 1/2 acre zoned land in study area which should not be considered as
+                           available inventory
+
+1)    Tax lot 3230CB - 4000:         This lot is extremely steep, very small building pad
+                                     if any, Not typical VLDR 2 1/2. Property has been
+                                     for sale for 4 years.
+2)    Tax lot 3230CB - 4200:         This lot is extremely steep, stall building pad if any.
+                  .                  Not typical VLDR 2 1/2. Property has been for sale
+                                     for 4 years.
+3)    Tax lot 3230CB - 4500;         Sold - construction starting.
+
+4)    Tax lot 3323 - 3301:           Shop has been built, home construction to start soon,
+
+5)    Tax lot 3324 - 1401:           Recently partitioned and purchased.    Home to be
+                                     built soon.
+6)    Tax lot 3324 - 4600:           Recently developed.
+7)    Tax lot 3324 - 4602:           Recently developed.
+8)    Tax lot 3324 - 7600:           Recently partitioned and sold.   Home to be built.
+ 9)   Tax lot 3324 - 7601:           Recently partitioned and sold. Home to be built.
+10)   Tax lot 3219 - 800:            This lot is steep with level area appearing to be in
+                                     flood plain.
+    Me                         rue        TA vee 582
+
+HEAVY INDUSTRIAL ZONING PERMITTED USAGE
+                ANALYSIS
+                              a!                                            ~      sue TA no 1583
+
+    HI -Zoned Property - 3324-7906
+
+    Site Assessment for General Industrial Use:
+
+Highway Access- egress and ingress from US Hwy 99W by easement.
+Acreage:    2,13 acres
+    Water Service:         On-site well, 35gpin
+    Sewer Service:         On-site standard system, installed under County Permit, located and
+                           authorized by lease.
+
+Previous uses:                     Auto wrecking yard; non-contained operations dating from the
+                                    1960's.
+Present uses:              RV storage, Body Building Shop - exercise club.
+
+Heavy Industrial Developmental Constraints:
+
+e          Adequate access at two points to the transportation arterial, and ability to upgrade.
+           Access to the site is by easement, additional truck traffic would result in significant costs
+           in planning and implementation of elements for industrial related transport movements
+           fram the site onto the arterial.
+    .      Proximity to residential development is too close for noxious or persistent plant
+           emissions, proximity to Duck Pond Cellars precludes asphalt batch plants and size of
+           property limits other rock resource activities, allowed in the zone by Similar Use
+           provisions,
+.          No rail access, requires product, agricultural or otherwise to be handled too many time to
+           be efficient in terms of cost or energy.
+    .      Weilands and natural constraints exist on-site, Water usage and wastewater discharge
+           are issues of expansion for any change of use from the present use pattern of the property.
+           The industrial site is isolated, accessed by shared easement (single point), limited access to
+           the arterial, surrounded by property under separate and controlling ownership of the
+           access and wastewater easement. Plan designation to Rural Residential in the County
+           comprehensive plan speaks more broadly to the future use of the site as a local commercial
+           zone, or suburban homesite and park location.
+.          Area development is mixed - a dominant niche is provided by Duck Pond Cellars, a
+           successful Oregon Winery. A highway commercial development, generating truck traffic
+           by bulk sales of yard materials is located at the westerly end of the one-way corridor. A
+           light industrial area adjoins the parent tract to the east; it is presently in use as a small shop
+           with storage for old equipment.     Adjoining the LI zoned tract is the Someplace Else
+           Tavern, the surrounding area is in rural residential and storage facilities within the
+           additional area zoned LL. Economic use of the HI zoned property, in the future, would
+           best be served by a fit within the present development pattern of the sub area of its
+           location.
+.          Socio-economics - the communities of Newberg and Dundee have identified the need to
+           retain “separate identities” and to utilize the Hwy 99W corridor between them as the
+           vehicle for doing so, A major highway bypass is an identified need of the area. Major
+                  7                                           ne Th eA 84
+S9W improvements are under construction in Newberg, to expand lanes.for west bound
+highway traffic; not a matter of small concern. to those that purchased commercial
+property on the margins of the Newberg Couplet, the preferred alternative to the areas
+traffic congestion problem Its unlikely, given the level of modernization investment by
+ODOT, that a bypass, utiless developed as a toil limited access road is feasible in this
+planning cycle, The communities share a mutual growth management issue, the area is
+developing an increasing awareness of its proximity to other areas of development
+interests, wineries continue to open and expand, the measure is how it is helping other
+efforts at local valtie added processing of agricultural products. Industrial sitings in the
+area have met with substantial community opposition. The county was not supportive of
+the use of the Strategic Investment Plan, a state sponsored program, in developing a site
+specific request and application for consideration. New heavy industrial development of
+any natute would, in all probability, be opposed by the communities invested in the area.
+Conclusion; A poor site to use for any heavy industrial application. Key issues for
+                expansion or development to new uses will involve local, state and federal
+               agencies in permitting, especially for a rural HI designated site adjoining an
+               urbanized area. Local opposition, would in alf likelihood be high. The best
+               use of the site, may be in a local commercial designation, consistent with
+                present operations,
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.9% of
+the word sequence, and on 86.7% of the figures. Dictionary-recognizable words: 93.2%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

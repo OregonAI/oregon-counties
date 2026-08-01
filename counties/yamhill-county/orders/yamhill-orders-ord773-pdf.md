@@ -1,0 +1,494 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord773-pdf
+title: 'ORD773-PDF'
+doc_type: ordinance
+citation: 'ORD773-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17440/ORD773-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: dac4f0f4c8acc6d92c5d12f244509864b0d70b20bb5f874281d562b7202a1a1f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.945; figure agreement 0.571; dictionary ratio 0.919. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.230
+    - ORS 215.243
+    - ORS 215.780
+    - ORS 527.630
+    - ORS 527.755
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD773-PDF (ORD773-PDF)
+
+## At a glance
+
+OCR-derived text of ORD773-PDF. Not human-verified.
+
+## Full text
+
+zy       BS     Are   680
+                                                                                   ‘05   «AUG 17   :«~P4 04
+           IN THE BOARD OF COMMISSIONERS                  OF THE STATE OF OREGON
+
+                               FOR THE COUNTY OF YAMHILL
+
+                   SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approving a Zoning Change
+from EF-80 Exclusive Farm Use to AF-20 Agriculture
+
+                                                             eS
+Forestry Use on an 80 Acre Parcel, Tax Lot 2425-1000,              Ordinance 773
+
+                                                             we
+Docket Z-01-05, Applicant Gordon Dromgoole, and
+
+                                                             wes
+Declaring an Emergency
+
+                                                             we
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for the
+transaction of county business at 9:00 a.m. on August 17, 2005, in Room 32 of the courthouse,
+Commissioners Mary P. Stern, Leslie Lewis, and Kathy George being present.
+
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A. — The applicant requested approval of a zone change from EF-80 Exclusive Farm Use to AF-20
+Agriculture Forestry Use for an 80 acre parcel, tax lot 2425-1000. The application was heard at a
+duly noticed public hearing of the Yamhill County Planning Commission on June 2, 2005, which
+voted 7 to 1 to approve the application. The approval of this application was not appealed to the
+Board of Commissioners.
+NOW THEREFORE,
+
+         IT IS HEREBY ORDAINED BY THE BOARD that the application is approved as detailed.
+in the Findings for Approval, attached as Exhibit “A” and by this reference incorporated herein. This
+ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill County, and
+an emergency having been declared to exist, is effective upon passage. This is a preliminary
+approval; LCDC has to grant final approval for zone changes that reduce the minimum lot size in
+a farm or forest zone.
+
+DONE this 17" day of August, 2005, at McMinnville, Oregon.
+
+ATTEST                                                    YAMHILL COUNTY
+                                                    \ BOARD QF    COMMISSIONERS
+
+JAN COLEMAN
+County Clerk
+                                                     aoe
+                                                  Chair               MARY P. STERN
+
+                                                    ive M Mocsue’)
+                                                  Cémmissiond’        LESLIE LEWIS
+
+APPROVED AS TO FORM:                                 York, hu
+    AL         Z       F                          Commissioner         KATHY GEORGE
+
+RICK SANAI
+Assistant County Counsel
+                                                                                         B-0- 05-644
+                                                                                          Ordinance 773
+                                                                              FILM   89     PAGE    684
+
+DOCKET     NO:        Z-01-05
+
+REQUEST:              Zone change from EF-80 Exclusive Farm Use to AF-20 Agriculture Forestry
+                      Use.
+
+APPLICANT:            Gordon C. Dromgoole
+
+TAX LOTS:             2425-1000
+
+LOCATION:             The northern half of the northwest 1/4 of Section 25 in Township 2 South,
+                      Range 4 West
+
+CRITERIA:             Sections 402, 403 and 1208.04 and 1208.03(F) of the Yamhill County Zoning
+                      Ordinance; the Yamhill County Comprehensive Plan.
+
+A. Background Facts
+
+1.    Lot Size: The parcel is 80 acres.
+
+2.    Access: A private easement to Cove Orchard Road.
+
+3.    On-Site Land Use: A year 2000 air photo shows that the land is predominantly in forestry
+      use. The property has a ridge-line that runs approximately from the middle of the northern
+      property line to within close proximity of the southwest corner of the parcel. The more
+      mature trees appear to be on the eastern half of the property.
+
+4,    Surrounding Zoning: Property to the north, south and east is zoned EF-80 Exclusive Farm
+      use. Property to the west is zoned AF-20 Agriculture/Forestry. Property to the southwest
+      is zoned AF-80.
+
+5.    Surrounding Land Use: The land to the north, east and west is predominantly forested. Only
+      land to the south appears to exhibit a mixture of farm and forestry uses.
+
+6.    Water: The parcel presently has no water supply. An on-site system is the only option.
+
+Te    Sewage Disposal:   An on-site subsurface system would be required for any residential use.
+
+8.    Soils: The Yamhill County Soil Survey indicates the predominant soil types on the subject
+      parcels are Willakenzie silty clay loam (WkD, WeE and WeF), Peavine silty clay loam (PcC)
+      and shale (SH). These soils are rated as agriculture class I, IV, and VI. The Willakenzie
+      agricultural class II and IV soils make up approximately 51 acres of the parcel and are
+      classified as high value farmland. The Willakenzie soil types can produce 145 cubic feet
+      per acre per year of commercial tree species. Peavine soils produce 160 cubic feet per acre
+      per year of commercial tree species.
+
+                                                                                             Page 2
+                                                                                     Ordinance 773
+                                                                                          R.0. 08-614
+                                                                                 rin 83 we 682
+       Fire Protection: Yamhill Rural Fire District.
+
+10.    Taxes: The entire parcel is receiving forest deferral.
+
+11.    Other Factors: Until late 1993 the entire property was zoned AF-20. On November 4, 1993,
+       HB 3661 took effect and changed the minimum lot size in western Oregon to 80 acres.
+       Therefore, on that date even if a property was zoned AF-20 the county was required to
+       enforce an 80 acre minimum lot size.
+
+       For several years prior to HB 3661's passage, Yamhill County had been working on
+       justifying its farm and forest zone designations to the Department of Land Conservation and
+       Development.       Much of the effort was an attempt to maintain the AF-20 and EF-40
+       designations in the county. After the passage of HB 3661, Yamhill County, at the direction
+       of the Department of Land Conservation and Development, adopted new zoning for the
+       county on December 29, 1993. The new zoning for these parcels was designated as EF-80
+       Exclusive Farm Use. This EF-80 zoning was assigned despite the fact that the property was
+       in forest deferral and had not historically been used as farmland. The new zoning for the
+       county was appealed by 1000 Friends of Oregon. Their main argument was that the mixed
+       use Agriculture/Forestry zone should have had an 80 acre minimum lot size. The court case
+       dealing with this issue was settled, and on February 14, 1997 the county completed periodic
+       review. At that time the county enforced the new zoning. The applicant proposes to change
+       to AF-20 zoning designation. The reason for requesting the 20 acre minimum lot size rather
+       than a 40 or 80-acre minimum is that the applicant desires to divide the property into lot sizes
+       of 35 and 45 acres. One of the lots would remain in forestry use and the other would be sold
+       and planted as vineyard.
+
+B. Ordinance Provisions and Analysis
+
+il     This request complies with the review criteria found in Section 1208.04 of the Yamhill
+       County Zoning Ordinance, as follows:
+
+       Review Criteria for Amendments from Exclusive Farm Use to Agricultural/Forestry
+       Zones
+
+       Certain properties that were zoned Agriculture/Forestry prior to December 29, 1993 were
+       rezoned to Exclusive Farm Use as part of Periodic Review. (The rezoning became effective
+       on February 14, 1997.) When the Exclusive Farm Use designation does not adequately
+       reflect the mixed agricultural and forest use of the property, a quasi-judicial zone map
+       change back to Agricultural/Forestry may be authorized, pursuant to Subsection 1208.01,
+       and provided that the applicant demonstrates compliance with the following:
+
+       A,      The area to be rezoned consists primarily of foothill and ridgetop holdings above the
+               flat terrace and valley floor commercial agriculture areas, and below the contiguous
+                timberlands of the Coast Range.
+
+                                                                                                 Page 3
+                                                                                         Ordinance 773
+                                                                       na 85 oe BEY
+B.     At least 50% of each parcel that is proposed to be rezoned is forested.
+
+C.     At least 50% of each parcel that is proposed to be rezoned was designated
+       Agriculture/Forestry prior to December 29, 1993.
+
+D.      The area being rezoned contains such a mixture of agricultural and forest uses that
+        neither Goal 3 nor Goal 4 can be applied alone.
+
+E.      The proposed amendment shall result in an area of at least       160 contiguous acres
+        with the requested designation, including adjacent land.
+
+F.     Any amendment       that would reduce the minimum         lot size complies with the
+        requirements of Section 1208.03(F).
+
+The above criteria are addressed in Findings B.2 through B.7 below.
+
+Regarding the location of the tract as specified in criterion (A) above, the average elevation
+of the lots in question ranges from approximately 500' to 840' above sea level. The
+topography is uneven and includes some ridge tops (see “Hillshade Map” as attached Exhibit
+“C”), The request satisfies this criterion.
+
+Regarding criterion (B) above, the 1992 aerial photograph of the area shows that more than
+50% of each parcel within the subject tract is forested (see attached copy of 1992 air photo,
+attached as Exhibit “D”). The parcels also contain some cleared areas. The purpose section
+of the Agriculture/Forestry District states in part:
+
+       The purpose of the Agriculture/Forestry District is to identify and protect lands
+       designated as Agriculture/Forestry Large Holding on the Comprehensive Plan, that
+       are a mixture of agricultural and forest management operations, and other uses
+       which are compatible with such operations.
+
+Due to the mixed nature of the use of the properties, and the fact that the applicants are
+intending to use the property for a mixture of farm and forestry uses, it appears that the
+requested change would be appropriate. The request meets this criterion.
+
+Regarding criterion (C), the Official 1980 County Zoning Map, which was valid until
+December 29, 1993,     shows the subject tract to have more than 50% of land zoned AF-20
+Agriculture/Forestry use (see 1980-1993 zoning map attached as Exhibit “E”). As mentioned
+in Finding (A.11), this 80-acre tract was zoned as AF-20 Agriculture/Forestry until
+December 29, 1993. The request meets this criterion.
+
+Regarding criterion (D) the lot contains Class III and IV soils and are, therefore, considered
+agricultural land pursuant to Goal 3, however, they also contain more than 50% of forested
+area. The majority of the soils are capable of producing 145 to 160 cubic feet of wood fiber
+
+                                                                                         Page 4
+                                                                                 Ordinance 773
+                                                                              vue Oo        ce O&A
+per acre per year. Therefore, this parcel is not exclusively suitable for Goal 3 use or Goal 4
+use.
+
+Regarding criterion (E), the request involves approximately 80 acres to be rezoned to AF-20.
+Adjacent land to the west is zoned AF-20.       The applicant estimates that this area contains
+173 acres of land zoned AF-20. This acreage would result in an area of over 250 acres zoned
+AF-20. The amendment would therefore result in an area of more than 160 acres with the
+requested Agriculture/Forestry designation.
+
+Criterion (F) requires that when the minimum lot size is reduced the applicant is required to
+demonstrate that it satisfies the requirements of Section 1208.03(F). The request would
+reduce the minimum lot size on the property from 80 to 20 acres. Section 1208.03(F) states:
+
+       Any amendment that would change the zone map designation to reduce the minimum lot size
+       on property within an Exclusive Farm Use or Agriculture/Forestry district shall not be
+       granted final approval by Yamhill county until the amendment has been considered and
+       approved by the Land Conservation and Development Commission pursuant to ORS
+       215.780(2).   The following rules shall apply:
+
+       I.      Conditional approval. Following receipt of an application for a zone change as
+               otherwise provided by this ordinance, the county shall determine whether to grant
+               or deny the application in accordance with criteria established in this section
+               1208.03.   If the application is granted, the county shall enter an order of
+               conditional approval, subject to final approval by the Land Conservation and
+               Development Commission.
+
+       2,      Referral of Order of Conditional Approval. After conditional approval by Yamhill
+               County, the application, county findings, order of conditional approval and a
+               request for Commission action shall be referred to the Department of Land
+               Conservation and Development.
+
+       3       Final Approval. An amendment conditionally approved by Yamhill County shall
+               not take effect until the county adopts an order or ordinance authorizing final
+               approval after receipt of written confirmation of the county’s conditional approval
+               by the Land Conservation and Development Commission.
+
+This approval will be forwarded to the Land Conservation and Development Commission
+(LCDC) for final approval.
+
+LCDC and their staff, DLCD, required the above language to be adopted to make sure that
+Yamhill County did not, over time, reduce the minimum lot size in those areas that were
+mandated to be 80 acres. ORS 215.780 contains the provisions for minimum lot or parcel
+sizes. It states in part that:
+
+                                                                                            Page 5
+                                                                                    Ordinance 773
+          215.780 Minimum       lot or parcel sizes; land division to establish    a dwelling;
+          recordation. (1) Except as provided in subsection (2) of this section, the following
+          minimum lot or parcel sizes apply to all counties:
+                 (a) For land zoned for exclusive farm use and not designated rangeland, at
+                 least 80 acres;
+
+                 (b) For land zoned for exclusive farm use and designated rangeland, at least
+                 160 acres; and
+
+                 (c) For land designated forestland, at least 80 acres.
+
+          (2) A county may adopt a lower minimum lot or parcel size than that described in
+          subsection (1) of this section in any of the following circumstances:
+
+                 (a) By demonstrating to the Land Conservation and Development
+                 Commission that it can do so while continuing to meet the requirements of
+                 ORS 215.243 and 527.630 and the land use planning goals adopted under
+                 ORS 197.230.
+
+ORS 215.243 relates to the preservation of agricultural lands. ORS 215.243 states:
+
+215.243 Agricultural land use policy. The Legislative Assembly finds and declares that:
+(1) Open land used for agricultural use is an efficient means of conserving natural resources
+that constitute an important physical, social, aesthetic and economic asset to all of the
+people of this state, whether living in rural, urban or metropolitan areas of the state.
+
+ (2) The preservation of a maximum amount of the limited supply of agricultural land is
+ necessary to the conservation of the state's economic resources and the preservation of such
+ land in large blocks is necessary in maintaining the agricultural economy of the state and
+for the assurance of adequate, healthful and nutritious food for the people of this state and
+nation.
+(3) Expansion of urban development into rural areas is a matter of public concern because
+of the unnecessary increases in costs of community services, conflicts between farm and
+urban activities and the loss of open space and natural beauty around urban centers
+occurring as the result of such expansion.
+
+(4) Exclusive farm use zoning as provided by law, substantially limits alternatives to the use
+of rural land and, with the importance of rural lands to the public, justifies incentives and
+privileges offered to encourage owners of rural lands to hold such lands in exclusive farm
+use zones.
+
+ORS 527.630 relates to the preservation of forest land. ORS 527.630 states, in part:
+
+                                                                                          Page 6
+                                                                                  Ordinance 773
+                                                                                    vu 85              8 i
+          527.630 Policy; rules. (1) Forests make a vital contribution to Oregon by providing jobs,
+          products, tax base and other social and economic benefits, by helping to maintain forest tree
+          species, soil, air and water resources and by providinga habitat for wildlife and aquatic life.
+          Therefore, it is declared to be the public policy of the State of Oregon to encourage
+          economically efficient forest practices that ensure the continuous growing and harvesting
+          of forest tree species and the maintenance of forest land for such purposes as the leading use
+          on privately owned land, consistent with sound management of soil, air, water, fish and
+          wildlife resources and scenic resources within visually sensitive corridors as provided in
+          ORS 527.755 and to ensure the continuous benefits of those resources for future generations
+          of Oregonians.
+
+          The applicant has demonstrated that the proposed parcel size of 20 acres satisfies the above
+          statutes and the applicable statewide planning goals. One of the main intents of these statutes
+          is to assure that the resulting lot size is appropriate for the continuation of the commercial
+          farm and forest operations in the area. The applicant presented arguments to support a 20-
+          acre minimum lot size.
+
+        All of the materials and testimony submitted by the applicant are incorporated into these
+Findings by this reference.
+
+CONCLUSIONS:
+
+1         The request is for a zone change from EF-80 Exclusive Farm Use to AF-20 Agriculture
+          Forestry Use. Total area proposed to be rezoned is 80 acres.
+
+2s        The zone change to Agriculture/Forestry is appropriate to reflect the mixed uses on the
+          property.
+
+3:        The request complies with the criteria listed in Section 1208.4 of the Yamhill County Zoning
+          Ordinance.
+
+4.        The proposed AF-20 zoning designation is appropriate for the intended use of the property.
+
+5.        The proposed change will continue to allow the opportunity for growing and harvesting trees
+          while allowing a portion of property to be divided for farm use.
+
+                                                  - End -
+
+f:\Users\sanair\LU\Dromgoole-Ord.wpd
+
+                                                                                                   Page 7
+                                                                                           Ordinance 773
+                                                      cu 85 ser O87
+               EXHIBIT “B” MAP FOR ORDINANCE NO. 773
+     ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                            AUGUST 17, 2005
+              TO CHANGE OFFICIAL ZONING MAP FROM
+                      EF-80 EXCLUSIVE FARM USE
+                                  TO
+                  AF-20 AGRICULTURE/FORESTRY USE
+
+                                        40   cH
+
+      2425 - 1000
+         80 ac
+
+                                                                HD Of
+
+CHANGE APPLIES TO TAX LOT 2425-1000 DESCRIBED ABOVE
+
+APPROXIMATE SCALE - 1 INCH = 400 FEET
+
+                                                       Bd. 05-644
+                                                              y 1g"
+                                                          Orckenener 78
+                          oon      009 = WT   ‘woneyardrayuisquy 40 asnstur ‘suorssnuo ‘sroasa deur J0y a1qisuodad you st AjunoD
+    SOO~LIE               \N if)                         SU ‘sontAnse peywourur9A08 sy yoddns 0} jumoo amy <q paureyureu
+                                                SEPP SIO PUL TEP SID GunoD jrywreA ax Suisn poonposd som deur si,
+                         ae
+
+                                                                                                                                   “at
+                                                                                                                        0.08: 6a
+
+                                                                                                                                         775
+                                                                                                                                         Ql
+         sdysumoy,      ___]
+suo.jod yorser
+     SouT] 1OpXT}        LOS
+  sivai jo su
+            sioxey
+         sheauyiingy
+  speoyongng             7
+ speoyewaug            = 4 \
+   SOMWIE               vy”
+skeayStpy a1eig
+ speoy Aun09
+    sproy Ajuno)
+     ‘preg Ajunog
+              $2919
+        Oo naqrax”
+          1291 OOP = YOU] |
+0104 [RUOV 7661 Joquiajdag
+              «,, LIGIHXa
+                                        eee        SN
+
+                                                                                                                                                                                            «
+
+                                                                                                                                                                                                TOF
+                                                                                                                                                                                   oS 6tt
+                                        PRET
+
+                                                                                                                                                                                                Orabenonee
+                                ‘                              3                                                                                                                      Q
+                                    o7t-aN                     i                                                                                                                   @e
+                   .
+              gf
+              Ny
+              fe                                              k.
+                                              geen.
+                                              Bets             f
+                                            ee
+                            a                  =         oe
+                                                                            perer
+
+                                                                                                                                             \           33S
+                                                                                                                                                         dN
+                                                                                                                                                         /..
+                                                                                                            3                -                $
+                                                                                                            :
+                                                                                                            :                                                  dey] SUZ   £66 1-0861
+     .                                                             :                F;                  ‘                ot-4¥               i|                       «Ay, LIGIHXA
+ae                     Z                ae)
+         og                 2 —                         esooe |        ih           |    kt                                      Seal   ol
+                       be                                                                                                                    : é
+                                                                                                                                        oe        | ez
+                                                                                         be   b    2        dUW   33°
+                                        ;                                                         (0b       = 1
+                                    7                                                             O°. TTA               —_                                                     x
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 94.5% of
+the word sequence, and on 57.1% of the figures. Dictionary-recognizable words: 91.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

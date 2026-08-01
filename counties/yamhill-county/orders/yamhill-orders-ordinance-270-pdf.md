@@ -1,0 +1,588 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ordinance-270-pdf
+title: 'Ordinance-270-PDF'
+doc_type: ordinance
+citation: 'Ordinance-270-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/19113/Ordinance-270-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: e6f0d0a97502d4df2ef65a8f4fa65897d79839193893f3db4c64d279372cd0c7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.981; figure agreement 0.841; dictionary ratio 0.933. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.190
+    - ORS 197.255
+    - ORS 215.406
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance-270-PDF (Ordinance-270-PDF)
+
+## At a glance
+
+OCR-derived text of Ordinance-270-PDF. Not human-verified.
+
+## Full text
+
+:               ;                                 .                                                  k
+           IN     THE            BOARD        OF     COUNTY         COMMISSIONERS                   OF    THE        STATE     OF        OREGON
+                                                                                                                                          YAMIN
+     B/         RG      |                            FOR     THE     COUNTY         OF        YAMHILL
+
+An    Ordinance                   Adopting            an     Urban         Growth)
+Boundary, Adopting the City of Mc                                                        )                                                 .
+Minnville's Plan Designations Within                                                     )                                               aioe
+the       UGB,         Adopting               an     Urban         Growth                )                                                      .
+Boundary Management Agreement, Adopt-)                                                                   ORDINANCE            NO.        2°70
+ing the Comprehensive Plan of the      )
+City       of     McMinnville                       and     Repealing                    )
+Ordinance               No.        226.                                                  )
+       The Board of Commissioners of Yamhill County,    Oregon  (the
+Board)).on the 3rd day of June,   1981,   sat for the transaction of
+County business in regular session,     Commissioners Colin Armstrong,
+Ted: Lopuszynski and Robin J. Hamblet being present.
+
+            WHEREAS,                Yamhill                County         has     the        responsibility                  for     coordinating
+and       reviewing                all        planning             activities                affecting           land       uses         within            the
+County           pursuant                to     ORS        197.190         and     ORS        197.255;           and
+
+             WHEREAS, the Board adopted                                          an Urban Growth Boundary for the
+City       of McMinnville on September                                           19, 1979, by Ordinance No.  226; and
+
+            WHEREAS,                Ordinance No. 226 was subsequently appealed                                                            to        the
+Land       Use Board                of Appeals and the UGB invalidated; and
+
+            WHEREAS,                    the    City         has     reexamined                the    UGB        and    made         some            changes
+in    the        boundary                to    reflect             revised         land        use       assumptions;                and
+
+            WHEREAS,                    the     Yamhill            County         Planning           Commission               conducted                a
+public           hearing                and     review        of     the         McMinnville              Comprehensive                    Plan        on
+April           2nd,            April     16th        and     May         7th,     1981;        and
+
+       WHEREAS, the Board                                    held a public hearing on June 3rd,                                             1981           to
+evaluate the McMinnville                                     C omprehensive Plan for compliance                                             with           the
+statewide               planning                goals        and      for        consistency              with        the     Yamhill                County
+Comprehensive                      Plan;            NOW,     THEREFORE,
+
+                The     YAMHILL               COUNTY         BOARD         OF     COMMISSIONERS                  ORDAINS            AS     FOLLOWS:
+
+      SECTION 1. ~~ The Board and the City Council of McMinnville
+(the city)  have agreed upon and adopted an Urban Growth Boundary
+(UGB) for the City.    The Board adopted an Urban Growth Boundary for
+the       City         on        September            19,         1979,     by     Ordinance              No.        226.      Ordinance                   No.
+226 was subsequently invalidated by the Land Use Board of Appeals
+and is hereby repealed.    A revised UGB was adopted by the City on
+April  7, 1981 and is attached hereto as "Exhibit A" and,  by this
+reference made a part hereof,   based upon findings adopted by the
+City.
+
+ORDINANCE               NO,                   210           | —s« (6/3/81)                   -- Page       One
+           SECTION 2.           ~- The      Board and the City Council of the City of
+    McMinnville have            agreed      upon and adopted an Urban Growth Boundary
+    Management        Agreement        which      establishes           a     procedure          to    amend        the    UGB
+    and to manage growth within the UGB.    The Urban Growth                                            Boundary
+    Management Agreement is attached hereto as “Exhibit B"                                              and, by this
+    reference,  made a part of this Ordinance.
+
+              SECTION   3.      ~~    The Board hereby adopts the                          City of McMinnville
+    Plan    map,   a copy       of    which is attached hereto as                          “Exhibit C" and,  by
+    this reference,            incorporated herein for the area of Yamhill                                          County
+    which is within            the City's UGB and is outside the corporate                                          limits
+    of   McMinnville.           The    Planning         Director         is    hereby       authorized              and
+    directed to amend the Yamhill County Comprehensive                                           Plan accordingly.
+    Land which is within the City's UGB and outside of                                           the corporate
+    limits     of McMinnville           shall be designated   "Future                           Urbanizable              Land"
+    on the     Yamhill County           Comprehensive  Plan Map.
+
+           SECTION 4. --- The Board has reviewed and adopted by reference
+    hereto the McMinnville Comprehensive   Plan  (Volumes I, II and IIT) ,
+    based upon findings of fact and conclusions of law adopted by the
+    City.      Copies     of    the    Comprehensive             Plan       are     available          at     the    McMinn-~
+    ville Planning Department                  and      the   Yamhill          County       Department              of
+    Planning & Development.
+
+              SECTION     5.    --    The   Board       finds     that        the      McMinnville           Comprehensive
+    Plan is a coordinated,  integrated document in conformity with LCDC's
+    statewide planning goals and hereby recommends the Plan to LCDC for
+    acknowledgement of compliance.
+
+              APPROVED     this       3rd   day    of    June,     1981,          at     McMinnville,           Oregon.
+
+    ATTEST:
+    CHARLES     STERN,     County       Clerk                   YAMHILL        COUNTY       BOARD       OF     COMMISSIONERS:
+    By:
+                                                                                              “)
+                                                                                    ff      y/
+QeDirivee G11 abla
+/        er
+                                                                     Lele
+                                                                        4         a,
+                                                                                          liitedt y sol
+    PATRICIA     A.     MULLEN,       Deputy                    Chairman                              colup     Armstrong
+
+                                                                   Pod Liomtregpote
+                                                                                  orgy ki
+                                                                         MPRuy Lopuszyns
+                                                                Commissioner
+                                                                           j
+
+                                                                              281 bi
+                                                                  Ze AB f. Be Robin J. Hamblet
+                                                              Commis sLongr
+                                                                        & (eo
+
+    ORDINANCE     NO.           FIO                             (6/3/81)          -~     Page    Two
+                McMINNVILLE           URBAN     GROWTH       BOUNDARY      MANAGEMENT          AGREEMENT
+
+                                              SECTION    I    --   POLICIES
+
+INTRODUCTION
+
+The purpose     of this Agreement shall be to direct                                development within the
+McMinnville     Urban Growth Boundary at urban level                                densities in a phased
+and orderly     manner, and with the provision of an                                adequate level of urban
+services,     and    to   provide      a mechanism           for   Urban      Growth     Boundary         amendments.
+
+GENERAL POLICIES
+Lands within the McMinnville Urban Growth Boundary but outside the City limits
+shall be designated as FUL (Future Urbanizable Lands) on the County Compre-
+hensive Plan Map.    Until such time as FUL-designated lands are annexed into
+the City, the existing County zones shall apply.     Development of urban uses
+on lands designated as FUL shall be preceded by annexation of the land to the
+City of McMinnville.     The plan designation placed on the affected lands by
+the City of McMinnville, as it existsat the time of the proposed annexation
+or as it is amended prior to annexation, shall be used as the standard for
+determining the appropriateness of the proposed urban use.
+
+Agricultural uses shall               be   retained on FUL-designated lands until                                 annexation,
+and County zone changes               to   densities greater than 20-acre minimum                                 lot sizes
+shall be prohibited.
+
+"Urban level densities" shall be considered as (1) residential developments
+at City densities from single-family (R-l1) residential to multi-family (R-4)
+residential;        and   (2)    commercial,        industrial          and     public       uses    that     adhere      to
+the goals and development requirements of the McMinnville Comprehensive Plan.
+Development proposals shall comply with applicable City Comprehensive Plan
+and land development requirements, including subdivision and zoning standards.
+
+SPECIFIC     POLICIES
+
+The City and County agree to the application of the following policies and
+procedures regarding lands between the City limits and the Urban Growth
+Boundary:       :
+
+A.   All annexations shall follow the                        procedures         set    out    in    the     City    of
+     McMinnville Annexation Ordinance                        No. 4130.
+
+B.   Developments         at urban         densities      shall     not    occur       within       the     FUL    area
+     until    such    time      as   the    land   is    annexed     by       the    City.
+
+C.   "Phased and orderly development" shall be considered                                       the extension of
+     urban services and densities into areas in which the                                       following conditions
+     have been met: .
+                                                               -2-
+
+(1)      Sufficient        public           facilities             and     services,       including            but     not     limited
+         to    sewer,     water,        police       and       fire        services       are     available             within        three
+       (3) years.  An assessment of the need for community facilities                                                                and
+       schools as a result of the proposed development shall be made.                                                                 All
+       of the above shall be included in a formation of conclusionary                                                                judg-
+       ments either for or agianst the proposed land uSe action.
+
+(2)      Documentation shall be made on the availability and suitability of
+         other sites in the city limits and of other lands within the UGB,
+       but outside the city limits, for the proposed use.  Documentation
+       shall also be made on the cost effectiveness of extending services
+         to the proposed site in comparison to alternative sites and shall
+         include analysis of the developer's share of the cost.  These
+         findings shall be made to allow for the formation of conclusionary
+       judgments          either        for    or    against             the    proposed        land     use     action.
+
+(3)    Assurances          that        the    resulting             development           shall     be     compatible               with
+         future    urbanization               of    surrounding                land    areas,     including             necessary
+         future    utility           easement        agreements                and    waivers     of     remonstrance
+       against          annexation           and    assessments’                for    public      roadway            and    utility
+         improvements           as     conditions             of    approval.
+
+(4)    Assurances that no extension of urban land uses or city water and
+       sewer services beyond the designated Urban Growth Boundary shall
+       occur, with the exception of individual water hookups by established
+       policy      of     the McMinnville                 Water          and Light        Commission.
+
+The City shall annex any islands of non-incorporated                                                territory               within     a
+year of the annexation which created the island.
+
+The   designated          residential              area       west       of    Hill    Road     (beyond         the     limits        of
+the first        water service level and the service boundary                                            of the trunk sewer
+line that        is being extended to the corner of Hill Road                                            and West Second
+Street) shall not be allowed                         to develop                at an urban density until                        all other
+designated residential areas                         within the                Urban Growth Boundary are                        substan-
+tially        developed.         "Substantially                    developed"          shall     mean      that        75 percent            of
+the future residentially-designated land area outside the city limits, but
+within the UGB (excluding the designated West Hills area and the Three Mile
+Lane residential area) at the time of LCDC acknowledgement of the Urban
+Growth        Boundary,        is developed              or    under          development.                        ,
+
+The designated PUD Area along Three Mile Lane shall be                                                    designated for the
+uses shown on the McMinnville Comprehensive Plan Map.                                                     County land
+adjacent to Three Mile Lane shall remain in a resource                                                    zone.   In addition
+the   Area      shall     be    developed           in    accordance              with    the     following            principles:
+                                                                                                                                                  owt
+
+(1)    The      minimization            of    entrances              onto      Three     Mile    Lane;
+
+(2)    The      development            of    on-site          circulation             systems;
+
+(3)    The      provision        of     deep       setbacks,             landscaping,           buffer         strips,         sign
+         controls, and the setting of an                                 adequate        setback         line     from        the
+         existing right-of-way line; and
+
+(4)    The      provision         of    acceleration                 and       deceleration        lanes        and         left-turn
+                                                                -3-
+
+                  refuges when and where necessary and practicable                              in accordance with
+                  the State Highway Division's improvement project                              for Highway 18.
+
+ G.     Before          Yamhill   County     shall     create     any    special       district    for    the     provision
+        of utilities,  transportation, or other public facilities or services,
+        the matter shall be referred to the City for a recommendation.   The
+        County shall not act contrary                      to   such    recommendation         without     a unanimous
+        decision of the Board.
+
+H.      (1)      The City and County shall evaluate street and road development
+                 within the Urban Growth Boundary consistent with the City
+                 Comprehensive Plan according to the following criteria:
+
+                 (a)       The circumstances under which                  the    City will assume ownership
+                           or maintenance responsibility                  for    County roads within the
+                           corporate       limits;
+
+                  (b)      The conditions under which new public streets and                              roads    will
+                           be developed. within the Urban Growth Boundary;                                          .
+
+                  (c)      The conditions under which existing                     roads designated as future
+                           arterials in the City Comprehensive                     Plan will be improved; and
+
+                  (d)      The conditions under which County and other roads should meet
+                           City standards within the Urban Growth Boundary.   Roads should
+                           be compatible with City street alignments and extensions.   Upon
+                           annexation of property, roads adjacent to (and which serve)
+                           such property shall also be annexed.
+
+                 (e)       The City shall request surrender of jurisdication by the                                  County
+                           of all County roads pursuant to criteria H(1)(a) through                                  H(1) (d).
+
+        (2)      The County and City            shall cooperatively develop                    an implementation          policy
+                 to include, but not            be limited to, items listed                    in H(1).
+
+AIRPORT         MANAGEMENT        POLICY
+
+The City shall coordinate the McMinnville Airport Master Plan Update with the
+County, including joint review and adoption by both jurisdictions for areas
+within the FUL and the designated Area of Influence.
+
+URBAN         GROWTH     BOUNDARY    AMENDMENT        POLICIES
+
+A.    Lands outside the Urban Growth Boundary shall be considered "rural" and
+      shall be controlled by the County plan designations and zoning districts.
+      Upon   inclusion into the Urban Growth Boundary, rural lands shall be
+      considered "urbanizable" but shall not be developed at urban level
+      densities until annexation occurs.
+
+B.    Amendments
+             to the Urban                     Growth       Boundary     shall     be   based    upon     consideration        of:
+
+        (1)      Goals      and   policies     in    the    McMinnville         Comprehensive      Plan;
+
+        (2)      Goals      and   policies     in    the    Yamhill     County     Comprehensive         Plan;      and
+     (3)    LCDC    criteria        as    follows:
+
+            (a)     Demonstrated           need     to       accommodate        long-range           urban      population
+                    growth        requirements           consistent           with    LCDC     goals;
+
+            (b)     Need     for    housing,        employment           opportunities,              and    livability;
+
+            (c)     Orderly        and    economic           provision        for    public     facilities             and
+                    services;
+
+            (d)     Maximum        efficiency           of    land     uses    within    and        on   the    fringe         of
+                    the     existing       urban        area;
+
+            (e)     The     long-term       environmental,               energy,       economic          and    social
+                    consequences to the locality, the region and the state as
+                    the result of allowing urbanization and not preserving and
+                    maintaining the land for agricultural or forest uses, which-
+                    ever is applicable;
+
+            (f)     Retention of agricultural land as defined, with                                         Class       I being
+                    the highest priority for retention and Class IV                                         being       the
+                    lowest priority;
+
+            (g)     Compatibility           of    the        proposed        urban    uses     with      other     adjacent
+                    uses;     and
+
+            (h)     Demonstation that there are                         no    alternative locations                    within
+                    the area which could better                         be    used for the proposed                    use(s).
+
+McMINNVILLE       WATERSHED        AREA    OF    INFLUENCE           POLICY
+
+A.   The County shall provide notification to the City of all land use actions
+     that affect the water quality of the City within the Watershed Area of
+     Influence.
+
+                                          SECTION        II     -- POLICIES
+
+DEFINITIONS
+
+A.   Area of      Influence -        An area of land designated by                            the    City and County that
+     extends      outside the        Urban Growth Boundary wherein                            the    County shall give
+     the   City an    opportunity to              participate in land use actions to be                                      taken     by   :
+     the   County.     McMinnville'’s             Area of Influence is shown on Map #                                        A
+
+B.   Urban Growth Boundary - A line jointly adopted by the City and the County
+     that encircles the City and separates rural from urbanizable and urban land.
+     McMinnville's Urban Growth Boundary is shown on Map #_  8B
+
+C.   Watershed      Area     of    Influence        -    An     area    of    land    designated           by    the    City         and
+                                                                                —-5—
+
+        that encompasses lands outside the Urban Growth Boundary wherein                                                                          the
+        County shall give the City an opportunity to participate in land                                                                          use
+        actions to be taken by the County.  McMinnville's Watershed Area                                                                          of
+        Influence is shown on Map #    C     :
+
+D.      Concurrence                  and    Recommendation                 -    Actions           undertaken            by     the      City     or
+        County            concerning             certain           items       of mutual           interest            included          in    this
+        Agreement.
+
+        (1)         Where concurrence is required, the City and County shall agree upon
+                    a decision.   If agreement cannot be reached, the procedures set out
+                    under Item #6 of the Urban Growth Boundary Amendment Procedures of
+                    this Agreement shall be in effect.
+
+        (2)         Where        recommendationis                     required,              the     City    and        County          need    not
+                    agree        upon       a    decision.            The       right        to    object         to    any       item    referred
+                    to a jurisdiction for recommendation shall be waived after the
+                    stated referral deadline unless special arrangements are made with
+                    the other jurisdiction.   Each jurisdiction shall have standing to
+                    appeal the decision of the other governing body.
+
+TERMS         OF    THIS       AGREEMENT              AND    AMENDMENT              PROCEDURE
+
+A.   The           term of this agreement shall run from June 2, 1981 to                                                             June 2,          1982
+     and           may be extended thereafter by increments of one year.                                                              During          the
+        term        of     the       Agreement          or    extension,               the    Agreement            may       be    changed        by
+     mutual              consent           of    the    City        and    County.            This       Agreement            shall       be    automatically
+        renewed           at     the       end    of    such        term       or    extension           unless         either          the    City     or
+     the County requests revision of the Agreement by                                                           so notifying                  the other
+     party at least ninety days before the end of the                                                           current term                  or extension.
+
+RECOMMENDATION                   PROCEDURES
+
+A.   Annexation shall occur in accordance with the City Comprehensive Plan
+     and by the procedures set forth in the McMinnville Annexation Ordinance
+     No. 4130.   Prior to final action, the City shall forward the proposal
+     to the County Board of Commissioners for review and recommendation.
+
+B.   Prior           to     final          action,          land     use       actions        within        the        McMinnville             Area     of
+     Influence                 shall        be    forwarded           by       the     County       to    the      City       for       review        and
+     recommendation.                            Land    use    actions              shall     include,          but      not       be    limited        to,
+     the           following:
+
+        (1)        Plan        Map     Amendments;                                                                                                            '
+
+        (2)         Conditional                 Use    Permits:
+
+        (3)        Planned           Unit        Developments;
+
+        (4)         Subdivisions                 and    Partitions;
+
+        (5)        Public         Improvement                Projects;
+     (6)     Health        Hazards;
+
+     (7)     Special        Exceptions;
+
+     (8)     Zone     Changes;
+
+     (9)     Capital        Improvement              Program;       and
+
+     (10)    Major        Transportation              Improvements.
+
+C.   Prior to final action, land use actions within the McMinnville                                                Watershed
+     Area of Influence shall be forwarded by the County to the City                                                for review
+     and recommendation.
+
+D.   The    City    shall        continue        to    forward       proposed       land    use      actions     within          the
+     city limits           to    the    County        for     review      and    recommendation         prior     to    final
+     action.
+
+E.   Plan    text     amendments           to    the    McMinnville             Comprehensive         Plan     shall    be
+     forwarded to the County for review and recommendation.   Plan text amendments
+     to the Yamhill County Comprehensive Plan that affect land use actions
+     within the Urban Growth Boundary and Area of Influence shall be forwarded
+     to the City for review and recommendation.
+
+CONCURRENCE        PROCEDURE
+
+A.   Plan Map amendments to land outside the city limits and within the Urban
+     Growth Boundary may be initiated by the City or the County.     Such amend-
+     ments shall require concurrence by the City and the County prior to
+     adoption of said Plan Map changes.    In those cases where a plan amendment
+     is proposed simultaneously with an annexation, concurrence shall not be
+     required.   Instead, the plan amendment and annexation request shall be
+     referred        to    the    County        for    recommendation             prior    to   final     action       by       the    City.
+
+URBAN GROWTH BOUNDARY                  AMENDMENT PROCEDURE
+
+A.   Amendment of the Urban Growth Boundary may be initiated by the Yamhill
+     County Board of Commissioners, the McMinnville City; Council, or by an
+     individual owner(s) of property who request(s) inclusion in or exclusion
+     from the Urban Growth Boundary.   The proposal shall be treated as a
+     Plan Map amendment to both City and County Comprehensive Plans, thus
+     requiring concurrence of both governing bodies.
+
+     (1)     The    City        of McMinnville              and    Yamhill       County    do hereby         establish
+             the    McMinnville           Urban        Area       Management        Commission          (MUAMC)    as       a
+             hearings officer for amendments to the McMinnville Urban Growth
+             Boundary in accordance with ORS 215.406.  The MUAMC shall be composed
+             of the following members:      .
+
+             (a)      Commissioner              of    the    Yamhill       County    Board      of    Commissioners
+                      designated          by     the    Board;
+                                                   -7-
+
+      (b)     Mayor or Council person               of     the   City    of McMinnville         designated
+              by the City Council;
+
+      (c)     Member    of    the McMinnville            Planning        Commission     designated       by        the
+              City    Council;
+
+      (d)     Member    of    the    Yamhill      County     Planning       Commission       designated            by
+              the    Board    of    Commissioners;
+
+      (e)     Member    of the McMinnville Planning Advisory                          Committee      designated
+              by the    Board of County Commissioners;
+
+      (£)     Member    of the McMinnville                Citizens’      Advisory      Committee      designated
+              by the    City Council; and
+
+      (g)     Member-at-large chosen by the above MUAMC                            members     and   ratified
+              by the City Council and the County Board.
+
+(2)   The MUAMC shall          function in accordance with by-laws to be adopted by
+      the McMinnville          City Council and Yamhill County Board of Commissioners.
+      It shall be the          responsibility of the McMinnville Urban Area Management
+      Commission       to    hold    hearings,      make     findings       and    present     its   maps         to
+      City and County          governing         bodies     as   outlined     in    this   Agreement        and
+      the by-laws.
+
+(3)   Applications and maps shall be filed with the McMinnville Planning
+      Department which shall collect the joint fee and forward the Yamhill
+      County fee along with notice to the Yamhill County Department of
+      Planning and Development.   Applications must be complete prior to
+      processing for hearing by the McMinnville Urban Area Management
+      Commission.   The joint fee for individual amendments shall be the
+      sum of fees established from time to time by each governing body.
+
+(4)   Applications shall be accumulated and referred twice yearly to the
+      McMinnville Urban Area Management Commission for a Public Hearing
+      for which at least ten days advance public notice shall be given
+      by publication in a newspaper of general circulation in the County.
+
+(5)   Following the public hearing, the MUAMC shall make and forward its
+      findings and decision directly to the governing body of each
+      jurisdiction.  Each governing body may then make a determination
+      based upon the facts and record presented at the MUAMC hearing
+      without holding an additional public hearing thereon.   However,
+      nothing inthis process prohibits the City or County from referring
+      the application to its respective Planning Commissions for information.
+      A final decision shall be rendered by the governing bodies within     tf
+      sixty (60) days of receipt of MUAMC's deliberations and decision.
+
+(6)   If    the   governing        bodies   do    not     concur    in    their    final     decision,        a
+      joint meeting shall be scheduled to resolve differences. If agree-
+      ment cannot be reached by joint meeting(s), one governing body
+      shall appeal the other governing body's decision to the Land
+      Use Board of Appeals, or the appropriate appejlate body.
+APPROVALS
+
+Approved    by       the        Yamhill     County   Board    of    Commissioners          on   this        ard        day
+of   June                  >»    1981.
+
+Ordinance        #         270               .
+
+                                                                      LEZ             Mee
+                                                                                       LA              he
+                                                               Colin Armstrong,             Chairman          VA
+                                                               Yamhill       Board    of    Commissionéfrs
+
+Approved    by       the        City     of McMinnville      City    Council    on    this        2nd       day   of
+     June             »    1981.
+
+Ordinance    #            4146               .
+
+                                                               Donald       Porter,    Mayor
+                                                               City    of    McMinnville
+
+                                                                                                                             <$
+                             MAP   8   “URPAN   GeowTH          BOUNDARY "
+
+|
+    GAWKER   CAM@WwK   RD.
+
+                                                                      City      of      McMinnville
+                                                                               June     1961
+                                                       CG eww    Loeomenrs                     )
+
+                                                  °*   Urean      Gaowrn     Bouncany
+                         “WATERSHED               AREA   OF   INI   LUENCE ”
+
+Graves Pils   ease
+                     e
+
+                             ~~   /   ¢
+
+                            i} Bearing
+
+                                              .
+                                          4
+
+                                      r
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.1% of
+the word sequence, and on 84.1% of the figures. Dictionary-recognizable words: 93.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

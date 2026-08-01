@@ -1,0 +1,1248 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord581-pdf
+title: 'ORD581-PDF'
+doc_type: ordinance
+citation: 'ORD581-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17602/ORD581-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 042fb7a0436c5cb4fd8cd7a0916bb8243afa70f14f9a391a9d97775bf1511080
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.978; figure agreement 0.943; dictionary ratio 0.959. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.732
+    - ORS 215.284
+    - ORS 215.780
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD581-PDF (ORD581-PDF)
+
+## At a glance
+
+OCR-derived text of ORD581-PDF. Not human-verified.
+
+## Full text
+
+JL    IN     THE      BOARD        OF        COMMISSIONERS                                       OF     THE     STATE    OF        OREGON
+
+                Lo           WW. 99 3                      FOR THE COUNTY OF YAMHILL                                                             \         0?
+                                                                                                                                                     oe
+                                    SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+            /
+        f
+
+    a           In the Matter                 of. an: Ordinance
+
+                                                                                                   ne Net Se
+/               Amending           the:      Yamhill: County
+                Comprehensive                 Plan Map:and                   Zoning
+                 Map to Change                the Plan Map                   Desig-
+
+                                                                                                   ee Ne Ne Nee Ne Ne
+                nation’on               a.7.4:.    Acre:Parcel                   Known
+                as. Tax: Lot:5420-600.                        from     Agricul-
+                tural/Forestry                    Large        Holding               to
+                Public,’          andsthe          Zone.Map            from                   ~
+                EF-40 Exclusive Farm Use to PAI
+                Public. Assembly Institutional                                                                                             ORDINANCE            581
+
+                                                                                                   ee
+                and an Exception to Statewide
+
+                                                                                                   ee
+                Goal 3.for Establishment.  .of                                   a
+                Church Meeting House;: and
+                Denial of a. Request.for’a Parti-                                                  ee
+                                                                                                   ee
+                tion.of the 7.4 Acre Parcel into
+                Lots    of        1.7      and     5.7        acres;         Docket
+                                                                                                    ee
+
+                PAZ-5-94,               Applicant             Lee    Ruff            Stark
+                                                                                                    Nee Nee
+
+                Architects;                :and    Declaring                an
+                Emergency.                                              :
+
+                        THE         BOARD.OF             COMMISSIONERS                            OF                     YAMHILL           COUNTY,         OREGON
+                Board).           sat      for      the         transaction                       of                     county            business
+                                                                                                                                                                                 (the
+                                                                                                                                                                in        re
+                session on November    23,   1994 Commissioners                                                                        Dennis        L.
+                                                                                                                                                                               aular
+                                                                                                                                                           Goecks
+                Lopuszynski;, and: Debi):Owens: being present.                                                                                                                 °         Ted”
+
+                THE: BOARD MAKES THE FOLLOWING FINDINGS:
+                A.   Lee* Ruff  Starks Architects  ("Applicant") applied                                                                                               to   t
+                Department of. Planning and Development  for approvalof                                                                                               Plann: *
+                Docket ':PAZ-5-94, a Comprehensive Plan map amendment from Agricur
+                tural/Forestry Large Holding to Public,      a Zone Change  from EF   i-
+                Exclusive’ ..Farm  Use  to... PAI ‘Public Assembly/Institutional ,  ~40
+                exception: to:                    Statewide..Goal                         3       on                     Tax         Lot     5420-600-               to        allo
+                establishment.:of:a.church meeting      house,   and to partition’    a   ow
+                acre.:;parcel. into  lots:of  1.7  and 5.7  acres    on Tax Lot   5420-60    -
+                located    east: of*and-adjacent   to Highway   99W,    approximately   on!
+                quarter mile north of Amity,      and more particularly      identified   S~
+                the attached Exhibit “"B".                                                                                                                                               on
+                B.”  .On Septem:1,  ber
+                                      .1994 the Yamhill County Planning Commiss;
+                held a public hearing on the application and voted 8-1 to recomme, +
+                approval of the application for the comprehensive plan amendment”
+                zone change, Goal 3 exception, and partition.             :  *     ’
+
+                Cc.     On        September             18,     1994         Virginia                                   Cox    and     Robert        S.    Mapes               fileq
+                 a timely          appeal          to     the       Board.
+
+                                                                                                                                                          ORDINANCE                581
+                                                                                                                                             94-993                            “Mr              ©
+D.   The Board held a public hearing on September 28, 1994 at which
+time the Board received evidence, and the matter was then continued
+until October 5, 1994, at which time the Board received additional
+evidence,        and        following                close         of     the     hearing            and        close                of     the
+record,       the      Board            deliberated                 and       voted           unanimously                      to         grant
+tentative        approval              to     the    application                for     a comprehensive                         plan        map
+amendment,  zone change,   and exception to Statewide Goal 3,                                                                       subject
+to  preparation  of   necessary  findings    for approval;  and                                                                     further
+voted unanimously   to tentatively deny the partition request                                                                       subject
+to preparation of necessary findings      for denial;   and
+
+E.      The      attached               Exhibit             "A"         demonstrates                that        the             proposed
+amendment        to        the        Yamhill             County        Comprehensive                Plan            Map            and     the
+Official      Zoning            Map     of        Yamhill         County        are     in    the     best           interests               of
+the   citizens         of        Yamhill            County.             NOW   THEREFORE,
+
+THE   YAMHILL         COUNTY           BOARD         OF    COMMISSIONERS                ORDAINS            as        follows:
+
+      Section 1.                        The Yamhill County Comprehensive Plan Map is
+hereby amended as                     specified in the attached Exhibit "B", incorpo-
+rated     into        this        ordinance                by     reference,             to        reflect            a        plan         map
+designation           of        "Public"            for     the     7.4       acre      parcel        known               as        Tax     Lot
+5420-600.
+
+        Section        2.                   The     Official            Zoning        Map     of     Yamhill               County            is
+hereby amended as specified in the attached Exhibit "B", to reflect
+a zoning designation of “Public Assembly/Institutional"    ("PAI")
+on the 7.4 acre parcel    known as Tax Lot 5420-600   identified on
+Exhibit "B".
+
+        Section        3.               The          findings             attached            as      Exhibit                   "A"         and
+incorporated  herein                        by     this         reference         are        adopted            in        support            of
+this ordinance.
+
+      Section 4,                     In           adopting          the  plan            amendment               specified   in
+Section   1,  the                County            hereby          takes   an           exception                to  Statewide
+Planning      Goal         3.
+
+       Section 5.                       A "Limited Use Overlay"  is hereby imposed on
+Tax   Lot 5420-600                to    limit the use of the property to a church and
+accessory    uses,  subject  to conditions  set forth in the attached
+Exhibit   "A".   The official zoning map is hereby amended to reflect
+a "Limited Use Overlay"     district on the subject parcel.
+
+      Section 6.     The  Board    hereby  denies  the  request   by
+applicant for a partition of a 7.4 acre parcel into lots of 1.7 and
+5.7 acres on Tax Lot 5420-600   (Docket P-23-94), based on findings
+attached as Exhibit "A".
+
+      Section 7.      This ordinance being necessary for the health,
+safety,   and welfare   of the  citizens  of Yamhill County,  and  an
+emergency having been declared to exist, is effective upon passage.
+
+                                                                                                                ORDINANCE              581
+                                                                                                                                      Page    2
+         DONE       November   23,     1994   at   McMinnville,      Oregon.
+
+                                         YAMHILL     COUNTY   BOARD    OF    COMMISSIONERS
+
+                                              Ot
+                                         Chairman             DENNIS
+                                                                        Hh
+                                                                        L.     GOECKS
+
+                                         Commissioner~        TED-TOPUSZYNSKI
+FORM     APPROVED       BY:
+
+                               br.
+JOHN           PI                        Commissioner         DEBI    OWENS
+Assistant           Cointy      nsel
+
+cce\q1u94287.001
+
+                                                                                 ORDINANCE
+                                                                                         581
+                                                                                         Page   3
+                                                    EXHIBIT               "A"
+
+                                              ORDINANCE              581
+
+                                         Findings              for     Approval
+
+DATE OF PLANNING
+COMMISSION APPROVAL:                                                   September             1,    1994
+
+DATE OF PRELIMINARY
+BOARD OF COMMISSIONERS                      APPROVAL:                  October         5,     1994
+
+DATE OF ADOPTION
+OF IMPLEMENTING ORDINANCE:                                             November         23,        1994
+
+DOCKETS       :            PAZ-5-94/P~23-94
+
+REQUEST:                   Comprehensive                     Plan     map        amendment          from     Agricultur-
+                           al/Forestry Large Holding to Public and zone change
+                           from EF-40 Exclusive Farm Use to PAI Public Assem-
+                           bly/Institutional   for establishment  of  a church
+                           meeting house, and a partition to allow division of
+                           a    7.4-acre           parcel           into        lots   of     1.7    and     5.7     acres.
+
+APPLICANTS:                Lee       Ruff     Stark          Architects.
+
+TAX    LOTS:               5420-600.
+
+LOCATION:                  East of and              adjacent to Highway 99W,                               approximately
+                           one-quarter              mile north of Amity.
+
+FINDINGS :
+
+A.     Background          Facts
+
+1.      Lot       Size:        7.4    acres        (5.7        acres        after      partitioning).
+
+2.      Access:           Highway        99W,       a    state         highway,         near        the     site.
+
+3.      On-Site        Land      Use:        The    parcel           contains          a residence           and     associ-
+ated    outbuildings.   An aerial                             photo         shows      the        property      is       farmed
+with    a grass or grain crop.
+
+4.      Surrounding             Land        Use:        The         area        immediately          adjacent            to   the
+property          is      characterized                 by     farm         operations              that      consist            of
+vineyard,         grass,   and grain crops.    The Amity city  limit line  is
+less than         1000 feet to the south.   The area is in urban residential
+use.
+
+5.      Surrounding              Zoning:            All         surrounding                 land     is      zoned        EF-40
+Exclusive          Farm    Use.         Wooded          areas        in     the     vicinity         are     zoned        AF-20
+Agriculture/Forestry.
+
+                                                                                                   Exhibit    "A"    -    Page    1
+                                                                                                             Ordinance        581
+6.          Soils:   Sheet 50                of the        Yamhill              County Soil            Survey           indicates
+that        the soils on the                 subject        parcel             are composed            of the           following
+types:
+
+            Soil          e_(S          ol          %    Slope            % of      Property                        Ag    Class
+
+            Dayton (Dc)                             0-2                             40                              III
+            Woodburn (WuB)                          0-7                             40                              It
+            Amity (Am)                              0-2                             20                              II
+
+7.          Water:        The     application                  indicates            the    source            of     water       is    a
+well.
+
+8.          Sewage       Disposal:           The        existing          dwelling         has    an    on-site           subsur-
+face        system.       The     church        meeting                house     would    require            approval          of    an
+on-site system              by     the       County        Sanitarian               or    connection               to    the     city
+sewer system.
+
+9.          Fire     Protection:              Amity        Rural          Fire      District.
+
+10.         Taxes:        Farm     deferral.
+
+B.      Oregon        Administrative                    Rule       Provisions            and     Analysis.
+
+1.   Goal_3.                Goal  3 defines                        agricultural            land  as that with  an
+agricultural              Capability Class                     I    through IV,           as well as other lands
+suitable           for     farm     use        or       necessary              to   permit        farm            practices          on
+adjacent           lands.           All        of        the           subject      property            is        regarded           as
+agricultural land (and "resource land") by virtue of its Class II
+and III soils (see Finding A.6).       Under Oregon Administrative Rule,
+OAR 660-04-010,     an exception    to Goal   3 “Agricultural    Lands"     is
+required   if   resource   land  is   to be   Plan-designated    and    zone-
+designated    other   than  exclusive    farm  use  or  for  any    use   not
+permitted in an EFU zone under ORS Chapter 215.          This application
+is     to    change        the     comprehensive                       plan    to   Public        and        the        zoning       to
+PAI.          Therefore,          approval of the requested Plan designation and
+zone        designations          must be justified through the exceptions process.
+
+2.     OAR Chapter   660,   Division  4.   OAR Chapter   660,  Division    4,
+explains the requirements for taking exceptions to statewide goals.
+OAR   660-04-018   outlines   the options    for taking  exceptions.     The
+first    is to base   the  exception   on  "physical  development"   and/or
+“irrevocable commitment"       of the property to nonresource use.      This
+type of exception is intended to recognize and allow existing types
+of    development.                The     second          is       a    "reasons"         exception               which     allows
+a    jurisdiction           to    zone       property              with       a non-agricultural                   designation
+if there  are  sufficient grounds  for the change.    The  subject
+request relies on a "reasons" exception.   OAR 660-04-018(3),   ORS
+197.732(1)(c).
+2.1   OAR 660-04-020 and ~022 detail                                      the requirements                    for       "reasons"
+exceptions.    Section 660-04-022(1)                                      states:
+
+                                                                                                   Exhibit          "A" - Page 2
+                                                                                                                   Ordinance  581
+        “,..the  reasons  shall   justify why  the state   policy
+        embodied in the applicable goals should not apply.   Such
+        reasons include but are not limited to the following:
+
+        “(a)      There        is        a demonstrated                need         for    the        proposed            use
+        or activity, based on one or more of                                         the        requirements               of
+        Statewide Goals  3 to 19; and either
+
+        “(b)      A    resource            upon    which         the    proposed                use    or     activity
+        is  dependent  can                      be   reasonably  obtained only  at the
+        proposed exception                       site and the use or activity requires
+        a location           near         the resource.  An exception based                                        on this
+        subsection           must         include an analysis of the market                                        area to
+        be     served       by the         proposed        use     or activity.                   That        analysis
+        must     demonstrate                that    the    proposed                exception            site        is    the
+        only     one        within         that    market         area         at        which        the     resource
+        depended        upon         can        reasonably         be    obtained;                or
+
+        “(c)   The proposed use or activity has special features
+        or qualities that necessitate its location on or near the
+        proposed exception site."
+
+3.    OAR 660-04-022(1)(a).                           The Board finds that the requirements
+of OAR 660-04-022(1)(a) are                          satisfied based on substantial evidence
+that there is a demonstrated                          need for the proposed use or activity,
+based on one or more of the                            requirements of Statewide Goals   3 to
+19, as follows:
+
+3.1   The Board   finds that there is a demonstrated need for the
+proposed facility, based on Goal 8 (Recreational Needs) requirement
+that a local    government  "satisfy the recreational  needs of the
+citizens", and Goal 11 (Public Facilities and Services) requirement
+that the local government "plan and develop a timely, orderly, and
+efficient management of public facilities and                                                   services            to    serve    as
+a framework  for urban and rural development".
+
+3.2     Applicants            have        provided        a map        that        locates            the membership              for
+their    church.             The     map        indicates        over         60     families               live     inside       the
+city    limits        and     surrounding             area.        There            is     evidence           that        over    one
+half   of       the   families  identified  reside    outside   the   Amity   city
+limits.          An   adjoining  map  shows  the   closest    meeting   house    is
+located        inside   the City of McMinnville.      The McMinnville meeting
+house    is     a 5.5       acre         site    which     is    used     by        2 other            full        size    groups.
+The McMinnville meeting house is at capacity and there is insuffi-
+cient   space   there    for   the  Amity   ward    members,   which    creates
+scheduling and group identity problems for the Amity ward members.
+In order to allow the congregation’s          lay clergy an opportunity to
+provide   service within the ward,      church policy provides       that when
+congregations      reach   a  certain   size    within   certain    geographic
+boundaries,    the   wards   must  divide    into   separate  congregations.
+Other    communities                in     Yamhill        County        which            have     done        this        and    have
+their    own    meeting            houses        include        Newberg,            Dayton,           Yamhill,            Carlton,
+and     Willamina/Sheridan.                          Based         on         their             analysis             of     church
+membership,           the      most         logical        location                for     an     additional               meeting
+house is in           the     Amity         area.
+
+                                                                                                      Exhibit        "A" - Page 3
+                                                                                                                    Ordinance 581
+4.       OAR_660-04-022(1)(b)                      and           (c).          Applicants               submitted            evidence
+to    satisfy        OAR     660-04-022(c)                      and     therefore             it        was     unnecessary                  to
+rely  on  the              alternative   requirement  in  OAR  660-04-022(b).    The
+Board  finds              that there   is substantial  evidence   that the require-
+ments  of         OAR       660-04-022(1)(c)                      are          satisfied,                for     the        following
+reasons:
+
+4.1      The    proposed           use    or    activity                has     special        features               or    qualities
+that     necessitate               its    location               on      or         near     the        proposed            exception
+site.          Applicants           conducted               a     two         year      survey           of     all        properties
+over 2 acres  within  the city of Amity, and                                                   have  submitted                      a map
+showing their inventory of properties inside                                                   the Amity city                      limits
+and     UGB    (which        are    the        same).            To     be      suitable,               sites    need        to        be    at
+least 3 acres in size and preferably 4-5 acres in                                                         size.  Applicants
+personally interviewed property owners to gather                                                          information about
+the property and to determine   if the property was suitable       and
+available.   Applicants placed different    overlays   on the map to
+demonstrate that the parcels   are too   small,   unsuitable,  and/or
+unavailable.  Applicants explained they preferred and                                                                 searched for
+parcels within the city of Amity, and recognized that                                                                 "availabili-~
+ty" of land is not limited to whether it is for sale.    The survey
+found that every parcel of sufficient size within the city of Amity
+was either not available or not suitable     for the proposed use.
+Applicants           then     explored            land           outside             and     near        to     the        city’s           UGB
+and found all such land was resource land which would require that
+an exception be taken in order to enable it to be developed for the
+proposed   use.    Applicants     found                                        this  parcel   to   possess    the
+requisite   characteristics   for   the                                       development   and  to   be  better
+suited than other resource lands in                                           terms of size and closeness to
+the city.
+
+         The     Board       finds        that     the           scope          of     the    survey            was        reasonable
+and    was     not    unduly        limited.            The           Board         finds     that        the    proposed               site
+is    the     best        suited     available              parcel             within        the        Amity         area       for        the
+proposed         use.
+
+4.2      Applicants           have       submitted               a map         illustrating               the    membership                  of
+the     church       is    congregated            in     and          around         the     city        of Amity,           with           the
+majority        of    members        residing            outside               the     City        of    Amity.            The    survey
+of available   parcels  submitted  by applicants  showed that  this
+property is the only parcel in the market area suitable for the use
+and     available.             From        this        it        follows             that      the        proposed               use        has
+special        qualities           that        necessitate                    the     proposed            location.
+
+4.3      In    addition,           the    reasons               stated         in     the    OAR        cited     above          are        not
+limited        to those set forth in OAR 660-04-022(1)(a)-and (b) or (c).
+Another        reason why the applicable goals should not apply is the
+need for the facility location next to established traffic routes,
+together with the difficulty in farming the land profitably due to
+the small size of the holding.
+
+5.       OAR 660-04~020(2)                     OAR 660-04-020(2)                            lists  four           factors that
+must     be addressed when                     taking a "reasons"                           exception.             These are:
+
+                                                                                                          Exhibit       "A" -— Page 4
+                                                                                                                       Ordinance 581
+         “(a)              Reasons           justify        why        the     state          policy           embodied                  in       the
+         applicable                     goals        should            not     apply.
+
+         "(b) Areas                     which do not require                              a    new        exception                  cannot
+         reasonably                     accommodate the use.
+
+         "(c) The long-term environmental,     economic,  social,   and
+         energy   consequences  resulting    from   the  use   at   the
+         proposed  site with measures   designed   to reduce   adverse
+         impacts                  are        not     significantly                   more           adverse               than            would
+         typically result from                                   the same proposal                        being           located                     in
+         other areas requiring                                    a goal exception.
+
+         "(d) The proposed uses are compatible with other adjacent
+         uses or will be so rendered through measures designed to
+         reduce adverse impacts."
+
+         These              factors            are        addressed             below          in        paragraphs                  B.6              through
+B.9.
+
+6.        OAR 660-04-020 (2)(a).                                    The Board finds                       that        the requirements
+of     OAR 660-04-020(2)(a)   are                                  satisfied based                        upon        a valid justifi-
+cation             for  not              applying   the    policy   embodied  in  the                                                     applicable
+goals,             namely               the  policy     to   preserve   agricultural                                                      lands,   as
+follows:
+
+6.1      First,              there            is     a     need        to     site        a    church           to        serve               a       defined
+congregation                  in        the        Amity         area.          Second,              there          were            no        suitable,
+available   sites located                                  within the city UGB.    Third,    the                                                  majority
+of  the   church’s  Amity                                  area  congregation   reside    near,                                                    but  not
+within,            the       city        of    Amity;            thus,         approval             of     this        application                           will
+not     set        a       precedent               for    using         resource              land        for       churches                  outside               a
+city     to        primarily                  serve        city         residents.                   Fourth,              it        is        important
+for the county,   to the maximum extent possible,   to accommodate the
+free  exercise   of  religion,   a  constitutional    right  under   both
+federal   and  state   constitutions,   unless  there    are  overriding
+reasons            against              such        accommodation.                     Although                 this       constitutional
+right     does              not     require               that     the        county          approve               placement                     of        every
+proposed               church           at    any        location            desired,          it        does       favor           not           applying
+the     agricultural                         lands         goal        and      allowing                 placement                  of            a        church
+where     there              is     a        specific            defined           need       for        land        to    build                  a        church
+meeting    house  on resource  land   for    a congregation     which  resides
+primarily    in the unincorporated    area,    and where    the other    excep-
+tions requirements are satisfied.         Therefore,    the Board finds that
+there   is   a reasonable   basis   for    not   applying    Goal   3 in   this
+situation.
+
+6.2      An        additional                  reason            for     not       applying              the        policy           embodied                      in
+Goal     3 in          this        situation               is     that       the     proximity                 of    the        proposed                     site
+to  State    Highway   99W,  a  heavily   travelled   thoroughfare,     will
+maximize the efficient use of the transportation system, consistent
+with Goal 8 requirement that local government         "plan and develop a
+timely,   orderly,   and efficient   arrangement   of public   services    to
+serve         as       a    framework                for        urban        and     rural           development.                             Moreover,
+residents                  testified               that     as     the       city     of       Amity           grows           in    the              future,
+
+                                                                                                                     Exhibit              "A"          -    Page    5
+                                                                                                                                     Ordinance                 581
+they   anticipate               that         the        city’s           UGB     will          expand        and    will        eventually
+include         the     subject          parcel,               which           is     currently              within           1000     feet    of
+the    current          UGB.
+
+6.3     A further               reason            for not applying                             the policy in the goal    is
+that    the parcel               is not           highly productive                             farm land due to its size,
+topography             and      soils.             The        owner         of       the       parcel         testified              that     the
+parcel         is   not      capable           of        producing                  sufficient               income       to        cover     the
+property            taxes,        because                of        the     characteristics                         of    the         property
+(wetness).              In    addition,                 the        Dc    and        WuB    soil       types        which        occupy        the
+majority of the site are not well-suited to irrigation                                                                               and have
+lower crop yields than do other soil types are found on                                                                              adjacent
+parcels.
+
+7.    OAR 660-04-020(2)(b).    The Board finds that the proposed use
+complies with the requirements under OAR 660-04~020(2)(b) that the
+areas   which do  not  require    a new exception  cannot reasonably
+accommodate               the         use.              As     explained                  in     paragraph               B.5,         the     map
+showing parcels within the Amity city                                                     limits        and UGB           ("the city")
+shows that there are no parcels which                                                     do not        require           an exception
+inside the city that are both suitable and available.                                                                     All        suitable
+land outside  the city would require an exception   for                                                                   the        proposed
+use.
+
+8.    OAR 660-04-020(2)(c).                                     The Board finds that the proposed use
+satisfies the requirements                                    of OAR 660-04~-020(2)(c) that the long~
+term     environmental,                       economic,                    social,              and     energy            consequences
+resulting             from      the     use        at        the        proposed           site       with     measures              designed
+to reduce adverse impacts are not significantly more adverse than
+would  typically result  from the same  proposal  being located in
+other areas requiring a goal exception,  as follows:
+
+8.1   The characteristics  of each alternative   area   for which  an
+exception might be taken was described in applicants’ presentation
+detailing all properties in the study area.  Applicants limited the
+survey   to properties  in close  proximity to the    city  of Amity
+because         the     church’s              educational                   program             requires            location            of    the
+church within walking distance                                          of the schools.                      Applicants found no
+other  property  for which  an                                          exception might                       be taken  that was
+located         close        enough          to     be        within           walking           distance           of    the        schools.
+
+Opponents             claimed          there        was            one    parcel           available               outside           the     city
+(located near Whiteson,  north of Amity).    However,  its location
+three miles from Amity is too far to be within walking distance of
+the  schools  and  it is  therefore  unsuitable   for the  church’s
+educational             program.
+
+8.2  The typical advantages and disadvantages                                                           of    using           the    area     for
+a use not allowed by the goal include:
+
+         (a)        Advantages:                   Provides                a community-based                        use at a location
+        which          will      serve            people            both         outside          and        inside           the     city     of
+        Amity, resultingin increased community identity; shortens                                                                             the
+        commute,  Saves transportation  costs  and  driving  time                                                                             for
+        church            members,                 who             currently               drive         about            7         miles      to
+
+                                                                                                               Exhibit         "A" - Page 6
+                                                                                                                              Ordinance 581
+        McMinnville;                   and        reduces            impact          of     traffic           congestion                   on
+        roads.
+
+         (b)   Disadvantages:                                Removes          land         from  agricultural  use,
+         although   agricultural                             use has           not        proven  to be profitable
+        given   lower     crop   yields   than    surrounding     lands;   potential
+        complaints       regarding     farming    practices    on    nearby    farms;
+        reduction     of    privacy    of  neighboring     properties;     potential
+        traffic    hazards      on   Highway   99    access;   possible     problems
+        obtaining sufficient water due to water shortage experienced
+         by     city    residents,                     and     possible         adverse           impact           on        the     water
+         table.
+
+8.3      The     typical          positive              and        negative     consequences                  resulting                  from
+the use          at the           proposed               site        with      measures            designed                  to     reduce
+adverse         impacts          include:
+
+         (a)   Positive  consequences:   The  proposed   use   should  not
+         interfere with farming practices given Yamhill County Ordi-
+         nance No. 541 (the right to farm ordinance);      the conditions
+         imposed as part of the Limited Use Overlay ("LUO") will ensure
+         that the traffic    will  be reasonably   safe,  from a traffic
+         engineering standpoint, based on the "Analysis Report” dated
+         July,        1994       and        improvements               required            by    Oregon           Department               of
+         Transportation (ODOT) as                                  per letter dated September                                 15, 1994;
+         The LUO conditions   will                                  also ensure that no city                                  water or
+         sewer        will       be        extended           to     the    site,         and    that       the     water            table
+         will     not    be       adversely                  impacted.
+
+         (b)   Negative consequences:                                    The     proposed use will remove a
+         parcel   of  resource  land;                                  loss     of   privacy to  surrounding
+         landowners              is        likely        to    result.
+
+8.4   A detailed   evaluation                                  by   specific alternative   sites                                          was
+conducted.  Opponents claimed                                  there were other sites within the                                          UGB
+which     were   suitable  and  available  and which  have significantly
+fewer     adverse impacts,   and in support they showed a video of those
+sites.          Applicants             rebutted              with     specific            evidence          that        each        of    the
+sites     were        unsuitable                 and/or        unavailable:
+
+         (a)   One 2.75 acre site inside the UGB is too small because
+         1/3 of the land was not buildable due to neighborhood opposi-
+         tion and wetlands   issues; it also included buildings which
+         would        need       to        be    razed.
+
+         (b)      A    second              site        was     0.9     acre     parcel           inside           the        UGB     which
+         was smaller than needed, and had                                       been        used       as     a     "fill           site",
+         raising environmental concerns.
+
+         (c)      A third             is        a former       battery         plant        inside          the     UGB           which    is
+         less     than       1    acre           and     too       small.
+
+         (ad)     A fourth             is        a 10    acre        parcel     inside           the    UGB       which            was    not
+         available           because              it    was        currently         in    the     process              of        develop-
+         ment.
+
+                                                                                                        Exhibit          "A" -— Page 7
+                                                                                                                        Ordinance 581
+     (e) . A fifth parcel outside                                  the UGB is owned by a person not
+     interested   in  selling  and                                  located  in an  industrial  zone
+     unsuitable for the church.
+
+     (£)     Another            3/4   acre site,                 in Whiteson,               is unsuitable                    because
+     it    was      too         small,          too         distant           from     the         UGB         to     be      within
+     walking           distance            of     schools,             and      because            it     is        industrial-
+     zoned        and        surrounded                on        three        sides         by      industrial                     uses,
+     presenting              compatibility                  problems.
+
+8.5  The  consequences  of  the use at  the  chosen  site  are not
+significantly more adverse than would typically result    from the
+same proposal being located in areas requiring a goal exception
+other than the proposed site for the following reasons:
+
+     (a)     Productive               capability                 of     the     property           site         for         agricul-~
+     tural       use    is      limited,          compared             with     surrounding               property                 which
+     is    more        profitable.                See        findings           in    paragraph                B.6.
+
+     (b)     ‘There will              be no       adverse              impact        on the        ability            to     sustain
+     resource           uses  near the proposed   use.                                      Most of the                     use will
+     occur in           evenings and on weekends,    and                                    the accepted                    agricul-
+     tural practices                   in the surrounding area are protected   from
+     nuisance claims                   under Ordinance  541, the county’s right to
+     farm ordinance.
+
+     (c)   Due to minimal economic benefit from use of the land for
+     agricultural purposes,   the long term economic impact on the
+     general area caused by irreversible removal of the land from
+     the resource base likewise will be minimal.
+
+     (d)     Other           possible            impacts           include           the     following:
+
+             (1)   Although there could possibly be some effect on the
+             water table, testimony from opponents regarding the water
+             table   was  speculation,  not  supported  by  any expert
+             testimony or other documentary evidence.    The impact of
+             the proposed use will be the equivalent of 1 or 2 single
+             family residences, and the LUO conditions limit water use
+             to        that         amount.                 This        limitation               will          minimize                 the
+             impact,             if any, on the water table.        Additionally,     to the
+             extent             persons   residing    within    the    UGB   are  using   the
+             church,              the net water    use   should    not    increase   because
+             water           used     by        those        people       during            time        when        they          are     at
+             the church will be offset by a reduction in the amount of
+             water which would otherwise be used in their homes during
+             those           times.
+
+              (2)         There       may         be        an     impact        on        the      costs           to       special
+             service             districts.                      The     Amity        Rural         Fire            Department,
+             commented that there is no on-site water source for                                                                    fire
+             fighting; that the nearest acceptable hydrant is 1/4                                                                   mile
+             away and inside the city limits, and that any fire                                                                     loss
+             will         be’    greater          than           normal.             However,            the        fire          hazard
+             will         be     minimized              because           the        site     design            review             under
+
+                                                                                                    Exhibit           "A"    -—    Page       8
+                                                                                                                    Ordinance           581
+                 the     Limited            Use     Overlay            will         require              applicants           to
+                 provide            adequate         fire         protection                  measures               and     the
+                 building       will        meet     fire        safety           standards.
+
+                 (3)     The        costs     of    improving              roads        is    a possible               impact.
+                 This property is adjacent to a state highway and a state
+                 highway access permit from ODOT will be required.   Under
+                 LUO conditions, applicants are required to make necessary
+                 improvements               for    safe        site        access        from       a        traffic       engi-
+                 neering        standpoint.
+
+8.6   Comments     were   received  regarding   long-term   environmental
+consequences.      There were petitions stating that the signers oppose
+the  zone   change    from agriculture  to public  use based   on traffic
+hazards,   water,    loss of farm land, urban sprawl,    and availability
+of alternative  sites.  These claims were                                           rebutted adequately                       by
+applicants with the information described                                          in finding B.8.5.
+
+8.7   Applicants             state they intend                    to have an on-site   subsurface
+sewage disposal              system and have no                   intention of connecting to the
+city    sewer.         The     County        Sanitarian           completed              a DEQ          site    evaluation
+on September            1, 1994        which        found that there is                           a location            on the
+parcel which           contains        soils        suitable for on-site                           subsurface           sewage
+disposal.   The LUO conditions   will  prohibit   connection  with   the
+city  sewer  and  will  require  placement   of  an  approved   on-site
+subsurface  sewage disposal system.    See findings C.8.4.
+
+8.8    Applicants stated there is a well available on the property
+and that there is adequate water.    The LUO conditions will prohibit
+connection with city water, will require an adequate quantity and
+quality of water, and will limit the amount of water to be used to
+the   equivalent  of  1-2 single  family   households.   See findings
+c.8.4.
+
+8.9      Regarding       economic           consequences,              applicants                 have       stressed       that
+this     property       contains            soils        that    have        drainage              capability              which
+limits     the    farming           that    may     be    done        on    the     site.
+
+8.10     Long-term       social            consequences               are        difficult              to     measure       but
+applicants        testified          that     construction                 of the        facility             around       Amity
+would    enhance       the     feeling        of    community              for    the        church          since     members
+would    no   longer         have     to    travel        to    another           city       to    attend         services.
+
+8.11 Regarding energy consequences,   applicants testified that the
+selection  of  the church meeting   house   site near  the city and
+existing road access would reduce vehicular traffic and result in
+fuel conservation.
+
+9.    OAR 660-04-020 (2)  (d).   The Board finds that the proposed
+uses comply with the requirements of OAR 660-04-020(2)(d) that the
+proposed uses are compatible with other adjacent uses or will be so
+rendered      through         measures            designed        to       reduce        adverse              impacts.
+
+9.1  The Board finds                 that the proposed use will be                                  situated in such
+a manner  as  to be                  compatible  with  surrounding                                  uses,   including
+
+                                                                                                  Exhibit       "A" -— Page 9
+                                                                                                               Ordinance   581
+natural resources  and resource management or production practices
+in the surrounding   area.  First,   under YCZO §904.06    the use will
+require  a site design review   ("SDR")   pursuant to YCZO §1101,     and
+the  LUO  district requires  that   special   concerns  and   locational
+requirements               must be            addressed             in the site plan.     Second,    the
+Limited   Use              Overlay            District             authorizes  the  Board   to   impose
+reasonable           conditions               necessary            to    assure        compliance         with       the     plan
+and  the  ordinance,                       and  the               findings  below   impose                         reasonable
+conditions for that                      purpose.                See finding C.8.4.
+
+9.2     Specific            issues       raised        include           spraying         agricultural              chemicals
+or application of animal wastes,   and concerns of noise and dust
+created during hours of public activity.   However, the Board finds
+that the proposed activities at the site are generally weekend and
+evening         uses,            typically            not         the      hours         of     the      heaviest            farm
+activity.            They        also    note        that        the    majority         of    those     who       attend     the
+church        are        engaged        in    agricultural                activities            themselves            and     are
+used     to     these        conditions.                   Moreover,           the      right     to     farm       ordinance
+will     prevent             interference                  with         agricultural             practices             on     the
+adjacent         lands.
+
+        The         Board        finds        that         the     proposed            uses     and     activities            are
+compatible  with surrounding                                 agricultural  uses and  that                            the  site
+design requires the site plan                                to address the concerns and                            location-
+al     requirements.                    Therefore,               even     if     there         might     be        incompati-
+bilities        with        agriculture,              the        proposed        uses     and    activities            will    be
+rendered        compatible               with     adjacent              land     uses
+
+10.  OAR 660-04-018(3) provides                                   rules        governing zoning in exception
+areas justified by "reasons."                                     These        provisions state:
+
+         "(a)        ...    plan        and    zone        designations                must     limit     the       uses
+        and      activities              to     only        those        uses     and     activities               which
+        were        justified            in    the     exception.
+
+         "(b)        When         a     local        government                 changes         the      types        or
+        intensities of uses within an exception area approved                                                         as
+        a  "reasons"  exception,  a new  "reasons"  exception                                                         is
+        required."
+
+        Regarding                the     first        of     these         requirements,                there        are    uses
+permitted           in     the    PAI     zone       besides            churches.             Consequently           there     is
+a need to employ the Limited Use Overly zone in this request.       The
+overlay will ensure that the use permitted by the zone change will
+be limited to that requested by applicants.     This   requirement   is
+met because,  under the Limited Use Overlay District,    the only use
+allowed  by this   exception will  be the proposed   church   building
+herein applied for, with conditions to assure compliance with other
+applicable            requirements.                  See         finding        C.8.
+
+         The second requirement                            above        does    not     apply     until        a    change     of
+use    is requested.
+
+                                                                                                 Exhibit       "A" - Page 10
+                                                                                                               Ordinance 581
+Cc.    Ordinance                  Provisions                    and        Analysis.
+
+1.         Y¥CZO_     §1204.                   Section                     1204         of         the         Yamhill            County       Zoning
+Ordinance             (YCZO)              states                that            exceptions                to         statewide             goals     are
+subject          only        to    the        requirements                        of    the        Oregon            Administrative                Rules
+discussed             in  Section B  of  this                                            report.   Therefore   the   Plan
+Amendment            portion of this request                                            is not subject  to local   review
+criteria.
+
+2.         YCZO      §1208.02.                      The     zone           change            portion            of    the        subject     request
+must        comply            with            the          standards                    and         criteria                in     YCZ0O      Section
+1208.02.             These          provisions                    are:
+
+           "A.       That           the        proposed                     change            is         consistent               with      the
+           goals, policies,  and any                                            other        applicable                provisions            of
+           the Comprehensive Plan.
+
+           "B.       That          there            is     an     existing               demonstrable                   need        for     the
+           particular                   uses             allowed                by      the         requested                zone,         con-
+           sidering               the     importance                       of    such        uses         to     the    citizenry            or
+           the      economy             of    the         area,            the       existing             market        demand            which
+           such uses will satisfy, and the availability and location
+           of other lands   so zoned and their suitability for the
+           uses allowed by the zone.
+
+           "C.   That the proposed change is appropriate considering
+           the surrounding land uses,    the density and pattern of
+           development   in the   area, any changes   which may  have
+           occurred in the vicinity to                                                support the proposed amend-
+           ment  and  the availability                                                of  utilities  and  services
+           likely  to be needed                                       by        the      anticipated                    uses         in     the
+           proposed district.
+
+           "D.       That          other             lands            in        the     county            already            designated
+           for the proposed use are either                                                         unavailable                   or not as
+           well-suited for the anticipated                                                         uses due to                    location,
+           size,        or        other        factors.
+
+           "E.   That the amendment is consistent with                                                                      the current
+           Oregon Administrative Rules for exceptions,                                                                      if applica-
+           ble."
+
+      These criteria                                are     addressed,                   respectively,                       in    Findings          C.3
+through C.7, below.
+
+3.         Y¥C2O     §1208.02                  A.         The    Board               finds         that        the     proposed            change     is
+consistent              with            the          goals,                policies,                and         any     other             applicable
+provisions            of          the        Comprehensive                        Plan        as     required               by    YCZO      §1208.02
+A,    as    follows:
+
+3.1  There   are  two  relevant   Comprehensive                                                                        Plan          provisions.
+Comprehensive Plan Policy IV.A.1.i states:
+
+           "Yamhill  County  will                                 accommodate   the   location of   non-
+           profit,  institutional                                  organizations    as defined   by  the
+
+                                                                                                                       Exhibit       "A" -— Page 11
+                                                                                                                                     Ordinance 581
+        internal             revenue            code     in        the     designated           agriculture                   and
+        forestry small holding areas on the Plan Map, provided
+        such uses  are compatible with  such areas,  the  stated
+        goals and policies of the plan are fully complied with,
+        and      such            uses     are     established                   and     regulated        as     planned
+        unit         developments                under        the         zoning        ordinance.”
+
+Comprehensive                Plan        Policy         II.A.2.a               states:
+
+         "Yamhill            County        will        continue            to    preserve        those        areas           for
+         farm        use          which         exhibit            Class         I     through      IV        soils            as
+         identified                in the       Capability               Classification            System            of       the
+         U.S.        Soil         Conservation               Service."
+
+3.2  The Board finds that neither of these policies are independent
+approval  standards,  but  rather  are merely  aspirational and  are
+satisfied through approval of a reasons exception and a limited use
+overlay zone.   That these are not independent approval criteria is
+evident         from        the        county’s         plan        which         states:
+
+                     "“k     *     *     Goals         are     general                directives         or     achievements
+         toward which the County wishes to go in the future.    Policies
+         are more specific   statements  of action to move   the County
+         towards attainment of those goals.  These policies are used in
+         daily decision-making                           or        in     the     development        of        ordinances              by
+         the county.
+
+                     "Implementation   of                          the     County         goals  and policies   can
+         eccur         in  several  ways.                                Many  are         implemented  by  county
+         ordinance.                    Other     goals        and        policies        will     apply        to     individual
+         issues   or proposals   put  forth by both private   and public
+         sectors.    Still others will require action dependent upon the
+         county’s fiscal resources at the time.
+
+                     "Where            certain         goals        and        policies     conflict            with           others,
+         the     final             decision            will        require            weighing      of        the         merits       in
+         order        to     achieve            a balanced               decision.         Through        time,           the       goals
+         and      policies                are      guides               for      consistent,             reasonable,                  and
+         balanced            land use           decisions."                    Revised     Comprehensive                  Plan       page
+         2.
+
+Therefore,   the Board finds that if Policy II. A. 2. a. conflicts
+with  Policy    IV.    A. 1.  i., then   the    final  decision  requires    a
+weighing on the merits in order to achieve a balanced decision, and
+that,  in this      case,  Policy IV.  A.    1.   i. necessarily   outweighs
+Policy         II.    A.   2.  a   for   the   reasons   contained  in~findings   B.1
+through          B.10    above   in    support   of  the  reasons  exception  and  in
+finding         C.8 regarding the limited use overlay district.
+
+3.3    The            Board            also   finds   that even  if                         Policy   II.A.2.a   were
+otherwise            to be             considered   an independent                          approval  standard,    it
+would     nevertheless                   not     apply        in        this     case    because     a        Goal        3    reasons
+exception is taken.                       YCZO         Section           1204 provides that exceptions are
+subject only to the                       OARs         and not           subject to local review criteria
+and     may     be         taken        using      the        Type         C    procedure         under        YCZO            Section
+
+                                                                                                   Exhibit          "A" - Page 12
+                                                                                                                    Ordinance 581
+ 1301.    Policy       II.A.2.a            is     intended        to    carry         out     statewide             goal     3.
+ The taking of a goal 3 exception demonstrates compliance with goal
+ 3 and therefore   compliance with such a plan policy intended to
+ carry    out    goal         3.       This        interpretation               is     consistent              with        past
+ practices insofar as the county has other areas of Class I through
+ Iv soils for which exceptions have been taken and acknowledged by
+ LCDC to be in compliance with the statewide goals.                                                 Therefore,  the
+ Board  finds  that it  is reasonable  to  interpret                                               this  policy  to
+ authorize       use     of        Class     I    through    IV        soils         for    use     by    a    nonprofit
+ organization,          where         an     exception       is        taken.
+
+ 4.    Y¥CZO__§1208.02 B.   The  Board  finds  that  the application
+ satisfies the YCZO §1208.02 B requirement that there is an existing
+ demonstrable need for the particular uses allowed by the requested
+ zone, considering the importance of such uses to the citizenry or
+ the economy of the area, the existing market demand which such uses
+ will satisfy,  and the availability and location of other                                                         lands     so
+ zoned and their suitability   for the uses allowed by the                                                         zone,     as
+ follows:
+
+ 4.1     The    demonstrable               need        requirement          was        addressed              in    Finding
+ B.3.
+
+ 4.2   An       adequate  supply of   churches to  accommodate  the  free
+ exercise       of religion is important to the citizenry of the county.
+ A separate identity for the Amity                           area church members is important
+ to the precepts   under which the                           church provides   service to its
+ community,  making                 location in close  proximity                             to    the        Amity        area
+ important  for its                Amity area members.
+
+ 4.3   There  is         a     market demand for public                              assembly institutional
+ parcels   which             are  sufficiently large  (4                             to  5 acres)  for  this
+ proposed       church        meeting            house.
+
+  4.4  There are other lands in the Amity area (inside the UGB) which
+  were claimed by opponents to be available for the proposed use, but
+. the Board finds that such lands are not suitable for the proposed
+ use or not available                  for       the   reasons         stated         in    B.4,    B.7       and     B.8    of
+ these findings.
+
+ 5.      YCZO §1208.02 C.    The Board finds that the requirements    of
+ ¥CZO    §1208.02 C are satisfied.   The proposed change is appropriate
+ considering the surrounding land uses,    the density and pattern of
+ development in the area, any changes which may have occurred in the
+ vicinity to support the proposed amendment and the availability of
+ utilities  and services likely to’ be needed by the anticipated uses
+ in the proposed district,   as follows:
+
+ 5.1  The surrounding land uses are described in finding A.4.    The
+ Amity city limits   and UGB are located  1000 feet   to the south.
+ There are agricultural uses, including vineyard,   grass and grain
+ crops,  and wooded areas,                       to the     north, west               and     east.           The zoning
+ is EF-40   except for the                       wooded     areas which               are      AF-20.            The main
+ change     that has          occurred in the area that supports                                   the    application
+ is the     increase          in the number of church members.
+
+                                                                                             Exhibit      "A" - Page 13
+                                                                                                          Ordinance 581
+5.2   Opponents raised concerns regarding availability of utilities
+and  services    likely  to be  needed    by the  anticipated   use   of   the
+property.    An ODOT representative       recommended  a traffic    study to
+determine   the    level  of impact   the   use  will  have  on   the    state
+highway.   Applicants has provided the study which found that access
+was feasible    from an engineering standpoint.       An ODOT permit will
+be    required            for           access        to    the     state               highway.            See     finding           C.8.
+
+5.3        Another                concern            was      voiced               by         the     Amity         Fire        Chief         who
+indicated that there is no                                    close-by water source  for fire                                         protec-
+tion.   However, applicants                                   will be required to have water                                          on-site
+for       fire     protection.                       See     finding           C.8.
+
+5.4   Additional    concerns  regard water and sewer    service.   Appli-
+cants   propose   an  on-site   water well and  an   on-site   subsurface
+sewage disposal system, which will make extension of city services
+unnecessary.     Although the county sanitarian    initially stated the
+soils on the property are unsuitable for a septic system, a                                                                                later
+site evaluation on September 1, 1994 by the county sanitarian                                                                              found
+that       there        was        a    suitable            site    for        a    subsurface               sewage        system.            The
+approval           of        this         application               is     being               made    conditioned                  upon      the
+placement           of        a        subsurface            sewage        system.                   Applicants            have       studies
+to    demonstrate                  it would            only       need     to be              sized    for        the     equivalent           of
+1    or    2   residential                 dwellings.                   See        finding            C.8.4.
+
+6.         ¥CZO__§1208.02                       D.          The         Board            finds        that         the      application
+satisfies the YCZO §1208.02 D requirement that other lands      in the
+county already designated for the proposed use are either unavail-
+able   or not    as   well-suited   for the  anticipated  uses due  to
+location,  size,    or other factors.   Other sites within the UGB are
+not       available               or     not     as    well-suited                      due     to    size     and        other       factors
+for       the reasons   set forth in paragraph                                                 B.8 above.             No    other sites
+in        this  part  of   the  unincorporated                                                 areas   of           the     county   are
+designated              to        allow        the    requested            use           except       one     piece        of       industri-
+ally zoned property                             located about  3 miles north of                                           Amity   in the
+Whiteson area, south                            of Old station Road and Highway                                           99.   However,
+this parcel is not as well-suited for the proposed use because of
+its  industrial   zone,  and being  bordered  by  industrial  uses
+including a wrecking yard.
+
+7.         ¥CZO     §1208.02               E.         The    Board        finds               that    the    application                  satis-
+fies  the               YCZO            §1208.02   E   requirement    that  the  amendment                                                     is
+consistent                with            the  current    Oregon   Administrative   Rules                                                     for
+exceptions,               if           applicable.                The    OAR            requirements               are     addressed           in
+Section B of these findings.    The                                       Board finds that the proposed use
+has  been justified  and  approved                                         through the  "reasons" exception
+process          under            ORS     197.732(1)(c)                  and        OAR        660-004-018,              -020       and    -022.
+
+7.1        There        was        a suggestion               that        Statewide                  Goal     14    applies           to     this
+decision,   and that an                              exception to Goal    14 should be                                      taken.    The
+Board  finds   that Goal                              14 is  not  applicable   and that                                      no Goal    14
+exception   is required                              because   the proposed   use will                                      not  require
+extension          of        urban        services            (sewer           or water),              and        extension           of     such
+services  is prohibited                               under        the        LUO         conditions               unless       a     Goal     14
+exception is taken.
+
+                                                                                                              Exhibit       "A" - Page  14
+                                                                                                                            Ordinance  581
+      Furthermore, a majority of the church members reside outside
+of the city limits   and UGB and the church will primarily serve
+residents of the unincorporated area.    Therefore, the Board finds
+that    Goal         14    does     not     apply,           and        is    not        taking          a Goal        14    exception.
+
+8.       Limited            Use    Overlay         District                  YCZO        §904.           The     Board       finds       that
+the    uses         and     activities           in     the        specific               location             have        been     limited
+to those uses and activities                                      for which the reasons                                exception              has
+been taken under ORS 197.732                                      (1)(c), as follows:
+
+8.1      Under            ORS       197.732(1)(c)                      and         OAR         660-4-018(3),                  "reasons"
+exceptions  require  that                               permitted    uses                          be   limited               to  those
+justified by the exception                              taken.    The PAI                          zone permits               many uses
+that have not been addressed in this report or requested by                                                                                   the
+applicants.  The PAI zone lists the following as a permitted                                                                                  use
+subject         to        site     design        review:
+
+         “Any        use     providing           for     the           public            or    private           assembly          of
+         persons    for   religious,     charitable,   philanthropic,
+         cultural, recreational or educational purposes, including
+         churches,   auditoriums,   armories,   youth centers,  social
+         halls,  fairgrounds,  group camps, schools, kindergartens,
+         play-schools,    day                         nurseries                    and         day-care               schools."
+         (emphasis added)
+
+8.2      Because            the exception taken herein                                    does not address                    the other
+uses     allowed            in the PAI zone, the Board                                    finds that it is                    necessary
+to  limit  the permitted                              uses   and                   activities  in  this  specific
+location to the uses and                              activities                    for the church meeting house
+which         are     justified            and        approved                through              the    Comprehensive                  Plan
+reasons exceptions under ORS 197.732(1)(c) taken in this case.  The
+County is authorized to so limit the permitted uses and activities
+under YCZO Section 904, Limited Use Overlay District ("LUO"), and
+is     adopting            limitations,            more           particularly                     described            below,          which
+assure         compliance             with        the         standards                   required             to     be     met        for     a
+reasons         exception.
+
+8.3   The Board                  finds that the area                          of    application                  of    the    LUO       shall
+be the subject                   7.4 acre parcel.
+
+8.4      The        Board         finds     that        it        is     necessary                 for     the        allowable          uses
+and activities  for which this  exception has been justified  and
+approved to be limited to a church meeting house subject to the
+site plan review and procedures contained in Section 904 and this
+ordinance, and subject to the                                     following conditions, which shall                                            be
+satisfied as part of the site                                      plan review under YCZO §904.06:
+
+         (a)         There         shall    be     no        extension               of       city       water         or    city       sewer
+         to     serve        the     subject          parcel,                unless           an   exception            to    Statewide
+         Goal        14     (Urbanization)                   is        taken.
+
+         (b)         Placement of a subsurface sewage disposal system                                                             approved
+         and        permitted by the county sanitarian to serve the                                                               proposed
+         use        is required.
+
+                                                                                                           Exhibit          "A" — Page 15
+                                                                                                                            Ordinance 581
+         (c)          Development              of    an     adequate              quantity             and     quality                  of   water
+       to support                  the proposed use and activities                                            upon the                   site is
+       required.                    However,  the  amount of water                                            consumed                    by the
+       proposed              use         shall        not        exceed             the     equivalent                    of        2        single
+         family         dwellings,                  unless       the        applicants             can         demonstrate                      to    a
+       reasonable                 probability               through           expert        testimony                   that        a greater
+       amount of water use will not adversely                                                    affect            the        water           table
+       from which the water is to be taken.
+
+         (da)          Provisions               to        make        the         proposed             use         and         activities
+         satisfy            applicable               fire     protection                  standards                are        required.
+
+         (e)           Provisions               to        make        the         proposed             use          and        activities
+       reasonably safe from a traffic engineering standpoint based on
+       the   "Analysis Report"  dated   July,  1994  and  improvements
+       required by Oregon Department of Transportation   (ODOT) as per
+       letter dated September 15,   1994 are required.
+
+8.5      Based         on    the     findings              herein,            the        Board         finds        as        follows:
+
+         (a)   The permitted uses   and activities   will   be limited  to
+         those   uses and  activities   justified  and   approved  in  the
+         exception,  as                   required    by OAR  660-04-018(3)(a),                                                 that           is     a
+         church meeting                   house,   and accessory uses.
+
+         (b)          A review           has    been        made       of     all       districts             in        the    ordinance,
+         and it has been determined that none of those districts   limit
+         the uses and activities, as required by OAR 660-04-018(3)  (a).
+         The  PAI zone does not limit  the uses  and activities  to the
+         ones requested in this application.
+
+         (c)          The        location            proposed               in      the         underlying                    district               is
+         equally            or     better-suited                   than           any     other         location               permitting
+         such uses.   The                      suitability                  of the location                        of     the           proposed
+         use is discussed                       in findings                  B.8 and C.6.
+
+8.6  The          official   County  Zoning  Map will  be                                               amended                to        show        an
+"Limited          Use Overlay"   district on the subject                                                parcel.
+
+8.7   The Board    finds  that  a "site plan review"    under YCZO   §1101
+(also   known  as   "site design  review")  is required   to satisfy   the
+conditions    listed   in 8.4 above to address   the concerns  raised    in
+this proceeding,     and site design review approval is required to be
+obtained         by     applicants              before           the        county        may      issue           any        development
+permits         on     the       subject            property.
+
+D.    Partition.
+
+1.       The      minimum           parcel            size       in         the     PAI         zone     is        one         acre,           plus
+10,000          square            feet         for        each        dwelling.                   Applicants                        requested
+creation          of    a    5.7     acre           parcel       in     this            zone,     which            would            leave           the
+remaining parcel of 1.7 acres in the EF-40 zone.   DLCD raised the
+objection in a letter dated September 28, 1994 that because all or
+part of the parcel is zoned EFU, the partition, would create a new
+parcel          for     a    nonfarm            dwelling               in         violation             of     ORS            215.284(1),
+
+                                                                                                             Exhibit          "A" - Page  16
+                                                                                                                              Ordinance  581
+215.263(3) and (4), ORS 215.780, OAR 660-33-100(10) and OAR 660-33-
+130(4).
+        Although          applicants            have        proposed           changing              the     zone        first,
+then    approving         the     partition,           DLCD     argued          that       this        approach              would
+not    change the result, which                      is that        the     County          cannot           create          a new
+lot    for a nonfarm dwelling.
+
+        The   Board           finds    that     applicants           have       not    carried              their        burden
+of    proof   on    this        point,        and    therefore         there          is    a    lack            of    substan-
+tial     evidence         that         the    request         for    partition               complies                 with     the
+applicable         law.         The     request        for    partition           must          be     denied.
+
+2.    It is         therefore unnecessary to reach the issues   regarding
+compliance         with the partition approval  standards of the Yamhill
+County    Land      Division            Ordinance.
+
+CONCLUSIONS
+
+1.      The   reasons presented by applicants successfully                                                       justify       why
+the    land   need not be designated for agricultural use.
+
+2.       There are no other sites available                               to    accommodate                  the       use    that
+do    not also require a new exception.
+
+3.      The     long-term              environmental,               economic,              social,               and     energy
+consequences             of  the  proposed               uses   are not  significantly more
+adverse than            would result from               the same development at a different
+location.
+
+4.      The     proposed              uses     can     be     rendered            compatible                     with        other
+adjacent      uses.
+
+5.    The  request complies with  the   Oregon                                             Administrative                     Rule
+requirements for a "reasons" exception.
+
+6.      The amendment             is    consistent           with    the       Yamhill          County            Comprehen-
+sive    Plan.
+
+7.      There is a need for the uses requested considering                                                        the    demand
+and    the location of other lands appropriately zoned.
+
+8.      The amendment is appropriate considering                                       surrounding                    land    uses
+and    the pattern of development in the area.
+
+9.    The       request   complies with                       the   quasi-judicial zone  change
+standards        in Section 1208 of the                       Yamhill County Zoning Ordinance.
+
+10.     There      is     a     lack     of    substantial           evidence               that           the        partition
+request complies with the applicable state laws and                                                  regulations               and
+therefore the partition request must be denied.
+
+                                                                                             Exhibit             "A" ~ Page 17
+                                                                                                                 Ordinance 581
+DECISION:
+
+         The    application              for    a    comprehensive          plan      amendment           and     zone
+change  is allowed, an exception to Goal 3 is taken, and a limited
+use overlay is imposed on the subject property to limit the use of
+the property ‘to the church meeting house and accessory uses with
+conditions to ensure compliance with the ordinance, subject to the
+following conditions, which shall be made a part of the site plan
+review under YCZO §904.06:
+
+         (a)   There shall be no extension of city water or city sewer
+         to serve the subject parcel, unless an exception to Statewide
+         Goal     14    (Urbanization)                is   taken.
+
+         (b)     Placement         of     a subsurface             sewage   disposal         system       approved
+         and    permitted          by    the        county    sanitarian        to     serve       the    proposed
+         use    is     required.
+
+         (c)     Development             of    an    adequate        quantity        and    quality       of    water
+         to support the proposed use and activities upon the site is
+         required.     However,   the amount   of water  consumed   by the
+         proposed  use   shall  not exceed   the equivalent   of  2 single
+         family        dwellings,              unless        applicants       can          demonstrate           to         a
+         reasonable probability through expert testimony that use of a
+         greater amount of water will not adversely affect the water
+         table from which the water is to be taken.
+
+         (d)    Provisions  to    make the  proposed  use                                     and activities
+         satisfy applicable    fire protection standards                                     are required.
+
+         (e)         Provisions           to        make     the    proposed         use     and     activities
+         reasonably         safe        from    a traffic          engineering        standpoint          based        on
+         the   "Analysis Report"  dated  July,  1994  and                                         improvements
+         required by Oregon Department of Transportation                                         (ODOT) as per
+         letter dated September 15, 1994 are required.
+
+H:\ADMIN\PINKSTIJ\PAZ-5-94.SR
+
+                                                                                       Exhibit      "A"   -    Page    18
+                                                                                                    Ordinance         581
+                       EXHIBIT   "B" FOR ORDINANCE              NO: 581
+
+                         PLAN    AMENDMENT/ZONE             CHANGE
+
+                    ADOPTED     BY THE BOARD      OF COMMISSIONERS
+
+                                   NOVEMBER      23, 1994
+
+                  TO CHANGE      THE OFFICIAL PLAN DESIGNATION
+
+          FROM    AGRICULTURE/FORESTRY           LARGE HOLDING            TO PUBLIC
+
+              AND    THE ZONING     FROM    EF-40 EXCLUSIVE FARM             USE
+
+                     TO PAI PUBLIC     ASSEMBLY      INSTITUTIONAL
+
+                                                                AGS. S
+                                                                a ered
+
+Scale 1" = 400°
+
+Change applies to the total portion of Tax Lot 5420-600     -
+
+Map Prepared by the Yamhill County Department of Planning and Development
+
+                                                                          Exhibit   "B”
+                                                                          Ordinance     581
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.8% of
+the word sequence, and on 94.3% of the figures. Dictionary-recognizable words: 95.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

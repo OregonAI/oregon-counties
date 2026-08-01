@@ -1,0 +1,233 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/curry-county
+id: curry-code-article-1-division-24
+title: 'Article 1 - Division 24'
+doc_type: ordinance
+citation: 'Article 1 - Division 24'
+authority_level: county_ordinance
+issuing_body: 'Curry County Board of Commissioners'
+source_url: https://www.currycountyor.gov/Article%201%20-%20Division%2024.pdf?t=202407101004170
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: a35a4275d8b9aceefac4d0d9719a2b5dce158f56e2ad1731ba0ffe953168e760
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.989; figure agreement 0.842; dictionary ratio 0.971. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [curry-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Article 1 - Division 24 (Article 1 - Division 24)
+
+## At a glance
+
+OCR-derived text of Article 1 - Division 24. Not human-verified.
+
+## Full text
+
+FILEDIN CURRY COUNTY                          CJ:2020-6
+                                                             Renee’ Kolen, County Clerk       = 01/08/2020 9:23:24 AM
+                                                             Commissioners’ Joumal                           5 PAGES
+
+                    PIN THE BOARD OF COUNTY COMMISSIONERS
+
+                    IN AND FOR THE COUNTY OF CURRY, OREGON
+
+In the Matter of an Amendment                       )
+to the Curry County Code                            )
+Adding Article One, Division Twenty                 )      ORDINANCE           NO.        [       ~    |
+Four, Creating a Curry Amateur                      )
+Radio Emergency Service Group (CARES)               )
+
+       The Board of Commissioners for the County of Curry ordains as follows:
+
+SECTION 1: TITLE
+
+       This Ordinance shall be known as Ordinance           | 4    ~   | 4        , an ordinance
+amending the Curry County Code with respect to General Administration, Article One.
+
+SECTION 2: ADOPTION
+
+      Exhibit “A”, attached hereto and incorporated by reference, is adopted as an
+amendment and new Division Twenty Four .
+
+SECTION 3: SEVERANCE CLAUSE
+
+         If any section, subsection, provision, clause or paragraph of this Ordinance shall
+be adjudged or declared by any court of competent jurisdiction to be unconstitutional or
+invalid, such judgement shall not affect the validity of the remaining portions of the
+Ordinance; and it is hereby expressly declared that every other section, subsection,
+provision clause or paragraph of this Ordinance enacted, irrespective of the enactment
+or validity of the portion thereof declared to be unconstitutional or invalid, is valid.
+
+SECTION 4: EMERGENCY CLAUSE
+
+       The Board of Commissioners for the County of Curry deems this Ordinance
+necessary for the immediate preservation and protection of the public peace, health,
+safety and general welfare for Curry County and declares an emergency exits, and this
+Ordinance shall be effective upon adoption.
+
+           1. | Ordinance CARES Committee
+          DATED this__| ga                 dayof D €cem ber               , 2020.
+
+                                     BOARD OF CURRY COUNTY COMMISSIONERS
+
+                                     Christopher Paasch, (Position)
+
+                                  i          Boice, (Position)   2 - VF
+
+                                     Sué    Gold, (Position)     ~~~
+First Reading: /A-/8-/9
+Second Reading:           __-#~
+Emergency Adoption: /A-/A-/F
+Effective Date: /2- /B— /F
+
+Attest:
+
+ Dol T. Bowed
+Recording Secretary
+
+Reviewed.    as     re)
+
+John Huttl, Curry County Counsel
+
+            1. | Ordinance CARES Committee
+                                           “EXHIBIT A”
+
+                                           ARTICLE ONE
+
+DIVISION TWENTY FOUR                   Curry Amateur Radio Emergency Service Group (CARES)
+
+SECTION 1.24.010 Creation of Curry Amateur Radio Emergency Service Group
+(CARES) Committee
+
+        There is hereby established for Curry County a Curry Amateur Radio Emergency
+Services Group Committee (Committee/CARES).
+
+SECTION 1.24.020       Purpose
+
+       CARES shall exist to supplement and enhance emergency radio capabilities and
+communications in Curry County. CARES is primarily involved with systems commonly known
+as “HAM?” radio, but can include other systems as determined by the Committee.        In addition to
+regularly scheduled meetings described below, CARES will respond as directed in emergencies
+declared by Curry County, the State of Oregon or the Federal Government.
+SECTION 1.24.030 Powers and Duties of CARES
+
+       (1) CARES has powers and duties that include but are not limited to:
+       (A) Develop and recommend to Curry County Emergency Manager:
+            (i) Plans for the use of local, State and Federal resources to promote and enhance the
+       activities of the Curry Amateur Radio Emergency Service (CARES) for the benefit of the
+       public as a voluntary, non-commercial communications service.
+            (ii) Technical issues involving message format, security of message transmission,
+       Disaster Welfare Inquiry policies, and others, should be reviewed and expounded upon in
+       a detailed local operations plan.
+            (iii) An emergency traffic plan, with Welfare traffic, utilizing the National Traffic
+       System as one active component for traffic handling. Establish an operational liaison with
+       local and section nets, particularly for handling Welfare traffic in an emergency situation.
+       (B) Establish local communications networks run on a regular basis and periodically test
+those networks by conducting realistic drills.
+       (C) Manage and coordinate the training, organization, and emergency participation of
+interested volunteers working in support of the communities, agencies, or functions designated
+by the Emergency Manager.
+       (D) Establish viable working relationships with federal, state, county, city governmental
+and private agencies in the CARES jurisdictional area which need the services of CARES in
+emergencies.
+            (i) Determine what agencies are active in your area, evaluate each of their needs, and
+       which ones you are capable of meeting, and then prioritize these agencies and needs.
+            (ii) Discuss planning with Emergency Manager and counterparts in each of the
+       agencies. Ensure they are all aware of CARES group capabilities and limitations.
+            (iii) Develop detailed local operational plans with served agencies and partners in
+       local jurisdiction that set forth expectations during a disaster operation. Work jointly to
+       establish protocols for mutual trust and respect, and a coordination mechanism for the
+       good of the public and Amateur Radio. The goal is to foster an efficient and effective
+       Amateur Radio response overall.
+       (E) In times of disaster, and as directed by or in coordination with County Emergency
+Management, evaluate the communications needs of the jurisdiction and respond quickly to
+those needs. The Emergency Manager will assume authority and responsibility for coordinating
+emergency response and performance by CARES personnel under his or her jurisdiction.
+       (F) Work for growth in CARES program in order to make it a stronger, more valuable
+resource, able to meet more of the County’s needs.
+       (G) Set regular meeting times and locations.
+       (H) Create committee by-laws and amendments for committee by-laws, including setting
+training standards for members.
+       (1) Report regularly to the Curry County Board of Commissioners, as directed.
+SECTION 1.24.040         Membership
+
+       (1) Committee.      There shall be four (4) members on the Committee; three (3) appointed
+by the Board of Commissioners; the other who is the County Emergency Manager who serves as
+a member ex officio. Of the appointed members, one each shall be from the North County area,
+the South County area, and the Central County area. Term of appointment is four (2) years.
+Appointed members serve at the pleasure of the Board of Commissioners.
+        (2) Officers.
+               (A) Chair. The County Emergency Management Coordinator shall Chair the
+       Committee.       The County Assistant Emergency management Coordinator shall be Chair in
+       absence of the Emergency Management Coordinator.
+               (B) Vice Chair. Vice Chair shall be appointed at the first regular meeting of the
+       Committee. Vice Chair shall preside in absence of the Chair. The Vice-Chair shall not be
+       a County employee.
+               (C) Training Officer. Training Officer shall be responsible for organizing and
+       executing training and exercises per by-laws.
+               (D) Terms of Office. All officers other than chair shall serve a term of two (2)
+       years from date of election. Election of officers shall be by Committee membership
+       when there is a vacancy to be filled. Officers will be elected by simple majority of voting
+       members.
+               (E) Secretary.    The secretary shall be duly appointed County staff. Committee
+       records shall be retained by the County.
+       (3) Non-voting General At Large Membership.         The Committee may accept volunteers as
+non-voting Members at Large. Members at Large serve at the pleasure of the Committee.
+Members at Large may attend and comment at all Committee Meetings, unless otherwise
+directed by Committee or Chair. Qualifications for at-large membership shall be established by
+Committee by-laws.
+SECTION 1.24.050__Meetings
+
+       Meetings shall be held on a schedule to be established by the Committee.      Special
+meetings may be called by the Chair or by a majority of the Committee, or at the request of the
+Curry County Board of Commissioners.
+       Roberts Rules of Order (revised) shall guide any point of parliamentary procedure not
+contained in the bylaws. Failure to follow Roberts Rules of Order shall not invalidate any action
+by the Committee.
+SECTION     1.24.060 Sub Committees
+
+       The Committee may create subcommittees and task forces to perform such tasks as this
+Committee   may     designate.    Unless   authorized   by Order   of the Curry   County   Board   of
+Commissioners, all subcommittees shall consist of CARES members.
+SECTION     1.24.070 Adoption and Amendment
+
+       The bylaws and any amendments thereto, shall be adopted by a majority vote of the full
+Committee, after review and comment by Members at Large.           Written notices shall be given to
+the full CARES      membership     at least (5) five days prior to a vote as to any adoption or
+amendment of the bylaws.
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.9% of
+the word sequence, and on 84.2% of the figures. Dictionary-recognizable words: 97.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

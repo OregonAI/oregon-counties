@@ -1,0 +1,3343 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord790-pdf
+title: 'ORD790-PDF'
+doc_type: ordinance
+citation: 'ORD790-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17426/ORD790-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 009a9d9ee162a89a47a968a1cdd6d15781ca2674f6b8a2a3088b086fd64be072
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.996; figure agreement 0.910; dictionary ratio 0.961. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.340
+    - ORS 197.435
+    - ORS 197.445
+    - ORS 197.455
+    - ORS 197.610
+    - ORS 197.615
+    - ORS 197.712
+    - ORS 197.732
+    - ORS 197.763
+    - OAR 660-004-0010
+    - OAR 660-004-0015
+    - OAR 660-004-0018
+    - OAR 660-004-0020
+    - OAR 660-004-0022
+    - OAR 660-004-0030
+    - OAR 660-004-0040
+    - OAR 660-012-0060
+    - OAR 660-012-0065
+    - OAR 660-014-0040
+    - OAR 660-018-0020
+    - OAR 660-018-0040
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 100%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD790-PDF (ORD790-PDF)
+
+## At a glance
+
+OCR-derived text of ORD790-PDF. Not human-verified.
+
+## Full text
+
+Film 91
+                                                                                          0143
+                                                                   ‘06    AUG18 P4:23
+
+       BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                         FOR THE COUNTY OF YAMHILL
+
+           SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+Approval of a Comprehensive Plan amendment from
+Agriculture/Forestry Large Holding to Commercial and a
+
+                                                                  eee
+Zone Change from EF-80 Exclusive Farm Use to                             Ordinance 790
+Recreational Commercial (RC), Taking Exceptions to
+Planning Goals 3, 4 and 14, Docket PAZ-01-06,
+Applicant David Kahn and the Hazel B, Timmons Trust,
+
+                                                                  Nee
+Tax Lot 3333-320, and Declaring an Emergency
+
+         THE BOARD OF COMMISSIONERS              OF YAMHILL COUNTY, OREGON                  (the
+“Board”) sat for the transaction of county business on August      16, 2006, Commissioners
+Leslie Lewis, Kathy George and Mary P. Stern being present.
+
+          IT APPEARING TO THE BOARD that David Kahn and the Hazel B. Timmons
+Trust applied to the Yamhill County Department of Planning (Planning Docket PAZ-01-06)
+for a Comprehensive Plan amendment zone change and exceptions to Statewide Planning
+Goals 3; 4; and 14 and
+
+        If APPEARING TO THE BOARD that the matter was heard by the Yamhill
+County Planning Commission at duly noticed public hearings on March 2 and May 4, 2006,
+after which the Commission voted to recommend approving the application by a vote of 7-1;
+the Board held a duly noticed public hearing June 7, 2006. After due consideration of the
+Application and the objections presented, the Board tentatively voted 3-0 to approve the
+Application, NOW, THEREFORE,
+
+    IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as
+detailed in the Findings for Approval, attached as Exhibit “A” and by this reference
+incorporated herein, This ordinance, being necessary for the health, safety, and welfare of
+the citizens of Yamhill County, and an emergency having been declared to exist, is effective
+upon passage. A map of the area is appended as Exhibit “B”.
+
+lit
+
+if
+
+                                                                                           Bb. de- S64
+                                                                                  Ordinance 790
+                                                                                          Page|
+                                                                               Film 91
+                                                                                0144
+
+           DONE this 16th day of August, 2006, at McMinnville, Oregon.
+
+ATTEST                               YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+JAN COLEMAN                              [lobe         MX   Voara.
+       &                             Chaft                  CESLIE LEWIS
+
+                                             Nerd, Lhegr
+                                     Con{missioner |        KATHY    GEORGE
+
+         iVEDy    gt         :                                      —,..
+  4 vt.       a                      Commissioner’          MARY P. STERN
+Rick Sanai
+Assistant County Counsel
+
+                                                                              £.0.06-564
+                                                                              Ordinance 790
+                                                                                      Page
+                                                                                Film 91
+                                                                                  0145
+
+                             ORDINANCE       790 - FINDINGS
+
+I.        INTRODUCTION
+
+       This document supports Yamhill County Ordinance No. 790, which adopts
+exceptions to Statewide Planning Goals 3, 4 and 14, and approves related map
+amendments to the Yamhill County Comprehensive Plan ("YCCP" or "Plan") and
+Yamhill County Zoning Ordinance ("YCZO") affecting approximately 12 acres of
+property on a 65.86-acre parcel. This decision approves Plan map amendments from
+Agriculture/Forestry Large Holding to Commercial, and zoning map amendments
+from Exclusive Farm Use (EFU) to Recreational Commercial (RC) in order to allow
+the development of a luxury wine country hotel and associated facilities.
+
+Y.        APPLICANT
+
+        The application was submitted by David Kahn and the Hazel B. Timmons Trust
+(the "applicants”). The subject property is owned by the Hazel B. Timmons Trust.
+
+Il.       DESCRIPTION OF SITE AND PROPOSAL
+
+       The subject property is a 65.86-acre parcel located at 7209 NE Breyman
+Orchards Road near Dayton, Oregon (Tax Lot 320). The parcel is located in
+Section 33, Township 3 South, Range 3 West of the Willamette Meridian, in an area
+known as the Red Hills of Dundee. The property is an irregularly shaped parcel that
+includes land on both sides of a steeply sloped hill, and contains a vacant residence on
+the ridge at the top of the hill. The property includes fallow fields of open grass on
+the south side of the hill, and a forested area on the north side of the hill. Elevations
+on the property range from between approximately 700 feet and 900 feet above sea
+level.
+
+          The subject property is bounded on the north by forested lands and by the
+Timmons Quarry, which is adjacent to the northwest boundary of the property. The
+Domaine Drouhin vineyards and winery are located to the south. A bed and breakfast,
+known as Wine Country Farms, is located to the southwest across Breyman Orchards
+Road. Forest land is immediately adjacent to the eastern property line and there are
+vineyards further to the east. Vineyards and one winery are found west of the
+property.
+
+        According to the U.S. Department of Agricultural Soil Conservation Service
+State Soil Geographic Database, the dominant soil type in the area is "Jory" with a
+silty clay-loam surface texture. The soils are considered well-drained and the water
+
+Ordinance 790                                                                      Edyhe
+                                                                                            ente TPO
+                                                                                B.0. 06- SOF
+                                                                                 Film 91
+                                                                                  0146
+
+table is more than 6 feet deep. The soils fit within the Class C hydrologic group
+indicating slow infiltration rates. However, the high elevation of the property makes
+vineyards commercially impractical, and the property has not been used for any
+agricultural purposes for at least 10 years. The owners are not receiving any farm or
+forestry tax deferral for the property.
+
+       The applicants propose to develop a luxury wine country hotel on the southern
+portion of the parcel, on the ridge that is the highest part of the property in a location
+that is generally indicated on the conceptual site diagram prepared by OTAK and
+submitted by the applicants. The remainder of the 65-acre parcel will remain in EFU
+zoning. The property will be accessed from NE Breyman Orchards Road. Northeast
+Timmons Lane travels from the end of NE Breyman Orchards Road northeast across
+the parcel to the existing residence and pump house on the property.
+
+       The applicants' proposal is to develop a hotel modeled after certain high-end
+wine country hotels in Napa Valley — specifically, Auberge du Soleil, Calistoga Ranch
+and Meadowood.     The hotel will be relatively small, with approximately 50 rooms, a
+restaurant, a spa, and limited meeting facilities. The proposed hotel will support and
+enhance the Yamhill County economy by providing a unique luxury hotel in the heart
+of wine country that will allow wine country tourists to stay in Yamhill County rather
+than in Portland. In order to provide the requisite destination wine country experience
+similar to the identified Napa Valley hotels, the hotel must be located in a quiet and
+idyllic rural setting that affords privacy as well as expansive views of the surrounding
+wine country, and must also be in close proximity to wineries with tasting rooms.
+
+IV.       COUNTY PROCEDURES
+
+       The application was filed on January 20, 2006. An initial public hearing was
+held before the County Planning Commission on March 2, 2006, at which hearing the
+applicants, their representatives, and many interested individuals presented testimony
+to the Planning Commission. The hearing was continued until May 4, 2006 in order to
+allow all parties the opportunity to submit additional written materials. On April 24,
+2006, the applicant submitted a revised application narrative, together with additional
+supporting materials, which included detailed responses to issues raised by opponents
+and the Planning Commission.
+
+       The Planning Commission heard further testimony at its May 4, 2006 hearing.
+At the close of the public testimony, the Planning Commission held the record open
+until May 18, 2006 for all parties to submit additional evidence into the record, and
+until May 25, 2006 for all parties to submit responses to evidence submitted during the
+first open record period. The Planning Commission provided the applicant a final
+
+Ordinance 790                                ood                                       8/15/08
+                                                                                Film 91
+                                                                                 0147
+
+five-day period to provide final written argument, which the applicant submitted on
+May 30, 2006.
+
+          The Planning Commission considered all of the materials submitted during the
+open record period and deliberated to a decision at its meeting on June 1, 2006. At
+that meeting, the Planning Commission voted 7-1 in favor of recommending approval
+of the application.
+
+        The Board of Commissioners held a public hearing on June 7, 2006, and heard
+testimony from the applicants, the applicants' representatives, and interested members
+of the public. At the close of the public hearing, the Board held the record open until
+June 19, 2006 for all parties to submit additional evidence into the record, and until
+June 26, 2006 for all parties to submit responses to evidence submitted during the first
+open record period. Two items were submitted by email after the 5:00 p.m. deadline
+on June 26, 2006: an email from Jason Lett forwarding correspondence from
+Katherine Elstrom, and an email from Alan Campbell. Those two items were
+expressly excluded from the record by the Board. The Board provided the applicant a
+final three-day period to provide final written argument, which the applicant submitted
+on June 29, 2006.
+
+          The Board of Commissioners considered all of the materials submitted during
+the open record period and deliberated to a decision at its meeting on July 5, 2006. At
+that meeting, the Board of Commissioners voted 3-0 in favor of approving the
+application.
+
+Vv.       INCORPORATION OF STAFF REPORTS
+
+       The Board of Commissioners hereby adopts and incorporates by reference the
+county staff reports dated March 2, 2006, June 1, 2006 and July 5, 2006. In the event
+of a discrepancy between the incorporated staff reports and these findings, the express
+findings of the Board shall govern.
+
+VI.       APPLICABLE STANDARDS AND CRITERIA
+
+       This application involves amendments to acknowledged county comprehensive
+plan provisions and land use regulations, as well as exceptions to Statewide Planning
+Goals 3, 4 and 14. Under Oregon's land use statutes and goals, this application must
+be found to comply with a multitude of standards and criteria, including the following:
+
+          A.    Statutes
+
+                 1,    ORS 197.340(1) — Goals provided equal weight.
+
+Ordinance 790                               “                                        8/15/06
+                                                                               Film 94
+                                                                                0148
+
+                2.    ORS 197.610 and 197.615 ~ Post-acknowledgment amendment
+                      procedures.
+
+                3.    ORS 197.712(2)(g) — Economic development obligation to
+                      provide reasonable opportunities for economic development on
+                      lands outside urban growth boundaries.
+
+                4.    ORS 197.732 ~ Goal exception standards.
+
+                5.    ORS 197.763 — Notice and procedures for quasi-judicial
+                      hearings.
+
+          B.    Statewide Planning Goals
+
+                1.    Goal One — Citizen Involvement
+
+                2.    Goal Two — Land Use Planning
+
+                3.    Goal Three ~ Agricultural Lands
+
+                4,    Goal Four — Forest Lands
+
+                3,    Goal Five ~ Open Spaces, Scenic and Historic Areas and Natural
+                      Resources
+
+                6.    Goal Six = Air, Water and Land Resource Quality
+
+                7,    Goal Seven ~ Areas Subject to Natural Disasters and Hazards
+
+                8.    Goal Eight — Recreational Needs
+
+                9.    Goal Nine — Economic Development
+
+                10.   Goal Ten ~ Housing
+
+                11.   Goal Eleven ~ Public Facilities and Services
+
+                12.   Goal Twelve — Transportation
+
+                13.   Goal Thirteen — Energy Conservation
+
+                14.   Goal Fourteen — Urbanization
+
+Ordinance 790                               -                                        8/15/06
+                                                                                    Film 91
+                                                                                     0149
+
+          c.    State Agency Rules
+
+                1.    OAR Chapter 660, Division 4 — Interpretation of Goal 2
+                      Exception Process:
+
+                      OAR 660-004-000          Purpose
+
+                      OAR 660-004-005          Definitions
+
+                      OAR 660-004-0010         Application of the Goal 2 Exception
+                                               Process to Certain Goals
+
+                      OAR 660-004-0015         Inclusion as Part of the Plan
+
+                      OAR 660-004-0018         Planning and Zoning for Exception
+                                               Areas
+
+                      OAR 660-004-0020         Goal 2, Part II(c), Exception
+                                               Requirements
+
+                      OAR 660-004-0022         Reasons Necessary to Justify an
+                                               Exception Under Goal 2, Part II(c)
+
+                      OAR 660-004-0030         Notice and Adoption of an Exception
+
+                2.    OAR. Chapter-660, Division-12. —-Transportation Planning
+
+                      OAR 660-012-0060         Plan and Land Use Regulation
+                                               Amendments
+
+                      OAR 660-012-0065         Transportation Improvements on Rural
+                                               Lands
+
+                3.    OAR Chapter 660, Division 14 — Application of the Statewide
+                      Planning Goals to Newly Incorporated Cities and to Urban
+                      Development on Rural Lands:
+
+                      OAR 660-014-0040     — Establishment of New Urban
+                                             Development on Undeveloped Rural
+                                             Lands
+
+                4,    OAR Chapter 660, Division 18 ~ Plan and Land Use Regulation
+                      Amendment Review
+
+Ordinance 790                              -                                           8/15/06
+                                                                             Film 94
+                                                                              0150
+
+          D.    County Comprehensive Plan Provisions
+
+        The following Yamhill County Comprehensive Plan provisions are implicated
+by this application:
+
+                1.     Urban Growth and Change and Economic Development
+
+                       a.     Urban Area Development
+
+                       b.     Rural Area Development
+
+                       c.     Economic Development
+
+                       d.     Commercial Development
+
+                       The Land and Water
+
+                       a.     Agricultural Lands
+
+                       b.     Forest Lands
+
+                       C.     Water Resources
+
+                       Transportation, Communications and Public Utilities
+
+                       a.     Transportation
+
+                       Environmental Quality
+
+                       a.     Air, Water and Land Resource Quality
+
+          E.    ¥CZO    Provisions
+
+        The following Yamhill County Zoning Ordinance provisions are implicated by
+this application:
+
+                Section 1204 — Goal Exceptions
+
+                Section 1208 — Quasi-judicial Zone District Boundary Changes
+
+          F.    Overlapping Requirements, Exceptions, and Roadmap to
+                Findings.
+
+       The above-referenced land use standards and criteria require demonstration of
+compliance with a broad array of state and local provisions. It is not always easy to
+
+Ordinance 790                                  --                                *     8/15/06
+                                                                                     Film 914
+                                                                                      0151
+
+determine which specific statutory, goal, rule, plan and/or code provisions apply to a
+given proposal. Nor is it easy to resolve all of the inherent conflicts and interpretative
+issues that arise out of these frequently overlapping and occasionally inconsistent
+regulations.
+
+       The proposed map amendments comply with most of the provisions of the
+applicable goals and comprehensive plan provisions; however, the proposed
+amendments do not comply with certain other goal and plan policies that require
+"urban" levels of development to be located within urban growth boundaries and that
+prohibit development of agricultural lands. These departures from the requirements of
+Goals 3, 4 and 14, and from acknowledged comprehensive plan provisions
+implementing those goals, require the approval of "exceptions" to the goals.
+Exceptions are amendments to comprehensive plan provisions that set forth facts and
+reasons authorizing and justifying the necessary departures from the goals. In this
+instance, the applicant has requested "reasons" exceptions to Goals 3 and 4, and also
+an exception to Goal 14, The county's approval of these goal exceptions under the
+applicable state statutes and rules authorize the proposed amendments despite the fact
+that the amendments would otherwise conflict with the goals.
+
+       In these findings, applicable standards and criteria are set forth in bold-face
+headings and/or italicized type followed by the county's findings including facts,
+reasons and legal conclusions. These findings are organized so that the analysis
+begins with state law and proceeds to local law. Thus, the next section deals with
+state statutes and their implanting administrative rules, followed by.a section
+addressing the Statewide Planning Goals and their implementing administrative rules,
+and a section addressing the standards for goal exceptions.. Those sections are
+followed by sections addressing applicable standards and criteria from the county
+comprehensive plan and zoning ordinance. Often the same or similar criteria are
+found in more than one source. These findings attempt to minimize repetition and
+redundancy, using cross-references where possible and adding or repeating material
+only where necessary.
+
+VU.       STATE STATUTES
+
+          A.    ORS 197.610 and 197.615 — Postacknowledment Amendments
+
+        ORS 197.610(1) and OAR 660-018-0020 require the county to forward a
+proposal to amend its acknowledged comprehensive plan or land use regulations to the
+DLCD director at least 45 days prior to the initial hearing. The county sent the
+requisite notice of the proposed amendments to DLCD on January 20, 2006. DLCD
+participated in the proceedings and submitted three letters regarding the application.
+
+Ordinance 790                                -                                           8/15/08
+                                                                                  Film 91
+                                                                                    0152
+
+        After final approval and adoption of amendments to a comprehensive plan or
+land use regulation, ORS 197.615(1) and OAR 660-018-0040 require the county to
+submit a copy of the text of the amendment and supporting findings to DLCD within
+five business days after the final decision is adopted. The county must also provide
+notice of the adopted amendment to persons who participated in the local proceedings
+and requested in writing that they be provided such notice. The county will comply
+with these requirements upon final adoption of these findings.
+
+          B.    ORS 197.712(2)(g) — Economic Development Obligation
+
+         This statute requires the county to provide "reasonable opportunities to satisfy
+local and rural needs for residential and industrial development and other economic
+activities on appropriate lands outside urban growth boundaries, in a manner
+consistent with conservation of the state's agricultural and forest land bases." The fact
+that these amendments are consistent with this purpose is demonstrated by the
+findings addressing Goal 9 in Section VIILI of these findings, and by the findings
+justifying exceptions to Goals 3, 4 and 14 in Section IX below.
+
+          Cc.   ORS 197.732 — Goal Exceptions
+
+          The requirements established by ORS 197.732 for goal exceptions, as well as
+the identical requirements of Goal 2, Part Il and OAR 660 Divisions 4 and 14 are
+addressed in Section IX of these findings.
+
+          D.    ORS 197.763 — Quasi-Judicial Land Use Hearing Procedures
+
+       The county provided mailed notice of the application to all owners of record
+within 750 feet of the subject property more than ten days prior to the first evidentiary
+hearing on the application, as required by ORS 197.763(2)-(3). More than ten days
+prior to the hearing before the Board of Commissioners, the county provided notice to
+all owners of record within 750 feet of the subject property and to all interested parties
+identified during the initial evidentiary hearing. The county held three evidentiary
+hearings on the application — two before the Planning Commission on March 2, 2006
+and May 4, 2006, and another before the Board of Commissioners on June 7, 2006.
+
+       During the course of the proceedings, all documents and evidence submitted to
+the county by the applicant and other parties were available to the public for review at
+the County Planning Department offices, as required by ORS 197.763(4)(a). All
+county staff reports were available at least seven days prior to the hearing for which
+they were prepared, as required by ORS 197.763(4)(b). At the beginning of each
+public hearing, County Counsel made a statement identifying the applicable
+procedures and criteria, as required by ORS 197.763(5). Both the Planning
+
+Ordinance 790                               --                                        8/15/08
+                                                                                      Film 91
+                                                                                       0153
+
+Commission and the Board of Commissioners held the record open after the close of
+the hearings to allow parties the opportunity to provide new evidence and respond to
+new evidence, as provided by ORS 197.763(6).
+
+VII.      STATEWIDE       PLANNING GOALS
+
+          The Board finds that the requested amendments are consistent with all of the
+applicable Statewide Planning Goals, as addressed below.
+
+          A.     Goal 1 - Citizen Involvement
+
+       Goal 1 requires local government to develop a citizen involvement program to
+ensure the opportunity for citizens to be involved in all phases of the planning process.
+Because Goal 1 establishes a requirement for local government to develop a program,
+it is not directly applicable to this decision. However, the county's citizen
+involvement plan has been adopted by the county and acknowledged by the Land
+Conservation and Development Commission. The hearings and county evaluation
+process for this case has been governed by that acknowledged program. For this
+particular request, multiple public hearings have been held by the county. The Board
+finds that Goal 1 has been met generally by the county and specifically in this
+instance.
+
+          B.     Goal 2 - Land Use Planning
+
+          Part I of Goal 2 requires the establishment:-of the land-use-planning- and policy
+framework as a basis for all decisions and actions. Part II of Goal 2 relates to the
+exception process that must be followed when an applicant or local jurisdiction
+requests an exception to a Statewide Planning Goal. The first part of Goal 2 has been
+met by acknowledgement of the county's comprehensive plan by LCDC. With respect
+to part 2, findings regarding the applicable exception criteria are set forth in Section
+IX below.
+
+          C.     Goal 3 — Agricultural Lands
+
+          Goal 3 relates to the preservation of agricultural lands. The application
+requests map amendments that would allow commercial development on lands that are
+currently in an agriculture/forest plan map designation, and therefore an exception to
+Goal 3 is required. Findings addressing the applicable exception criteria are set forth
+in Section IX below.
+
+Ordinance 790                                  -                                          8/15/08
+                                                                                         Film 91
+                                                                                          0154
+
+          D.     Goal 4 — Forest Lands
+
+          Goal 4 relates to the preservation of forest lands. The application requests map
+amendments that would allow commercial development on lands that are currently in
+an agriculture/forest plan map designation. Yamhill County has interpreted that a
+Goal 4 exception is not required since the property is zoned for exclusive farm use
+(EFU). However, opponents have asserted that a Goal 4 exception is required, and
+findings in support of a Goal 4 exception are included in case it is determined that
+such an exception is required. Findings addressing the applicable exception criteria
+are set forth in Section IX below.
+
+          E.     Goal 5 — Open Spaces, Scenic and Historic Areas and Natural
+                 Resources
+
+       No Goal 5 natural resources (wetlands, riparian areas, wildlife habitat, etc.) are
+present on the subject property.
+
+          F.     Goal 6 — Air, Water and Land Resources Quality
+
+        Goal 6 addresses waste and process discharges from future development and
+requires local governments to determine that the future discharges, when combined
+with existing development, would not threaten to violate or violate applicable state or
+federal environmental quality statutes, rules and standards. The applicants have
+submitted evidence establishing that they will comply with any applicable state and
+federal environmental laws and regulations all down the line. Therefore, Goal 6 will
+be met.
+
+          G.     Goal 7— Area Subject to Natural Disasters and Hazards
+
+          No such areas have been identified on the site; therefore, Goal 7 is not
+applicable.
+
+          H.     Goal 8 — Recreational Needs
+
+          The area is not identified as a recreational resource by the county, and the
+application does not request approval as a destination resort; therefore, Goal 8 is not
+applicable.
+
+          I      Goal 9 — Economic Development
+
+        Goal 9 requires that local government provide adequate opportunities for a
+variety of economic activities vital to the health, welfare and prosperity of the citizens
+of Oregon. The new hotel will encourage economic development in Yamhill County
+
+Ordinance 790                                  -                                         8/15/06
+                                                                                              4
+                                                                                    Film 91
+                                                                                      0155
+
+by stimulating the vineyard, winery, and tourism industries in the County, and
+providing new employment opportunities at the hotel and restaurant. The construction
+of the hotel will also result in a number of temporary construction jobs that will
+benefit the county. The Board finds that the amendments are consistent with Goal 9.
+
+          J.     Goal 10 — Housing
+
+          Goal 10 relates to housing needs, and is not applicable to this application.
+
+          K.     Goal 11 - Public Facilities and Services
+
+        Goal 11 requires local governments to plan and develop a timely, orderly and
+efficient arrangement of public facilities and services to serve as a framework for
+urban and rural development. The applicants have established that necessary public
+services such as fire protection are available.     Water and waste treatment systems will
+be provided through private systems. The applicants have submitted substantial
+evidence in the form of testimony from Newton Consultants regarding the feasibility
+of providing water and from Environmental Management Systems regarding the
+feasibility of on-site wastewater treatment at the site. The Board's decision is
+conditioned upon the applicants' ability to obtain a permit for a well that will provide
+adequate water for the proposed use. The Board finds that the amendments are
+consistent with Goal 11.
+
+          L.     Goal 12 — Transportation
+
+        Goal 12 requires a safe, convenient, and economic transportation system. The
+traffic impact analysis (TIA) prepared by Lancaster Engineering dated April 2006
+demonstrates that the proposed map amendments will not have significant adverse
+impact on the county transportation plan nor will it prevent the county from meeting
+any of its citizens’ transportation needs.
+
+        Goal 12 is implemented by the Transportation Planning Rule (TPR), which is
+set forth at OAR Chapter 660, Division 12. The TPR creates specific requirements for
+compliance and coordination among affected units of local government for the
+preparation, adoption, refinement, implementation and amendment of transportation
+system plans and local comprehensive plans and land use regulations.
+
+        The TPR requires that any amendments to comprehensive plans or land use
+regulations that "significantly affect a transportation facility" must assure that the
+allowed land uses "are consistent with the identified function, capacity and
+performance standards of the facility.". An amendment "significantly affects" a
+transportation facility if it would: (1) change the functional classification of an
+
+Ordinance 790                                  --                                        8/15/06
+                                                                                         Film 914
+                                                                                          0156
+
+existing or planned transportation facility, (2) change standards implementing a
+functional classification system; (3) allow types land uses or levels of development
+that are inconsistent with the functional classification of an existing or planned
+transportation facility; (4) reduce the performance standards of an existing or planned
+facility below minimally acceptable levels identified in the local transportation system
+plan; or (5) worsen the performance of an existing or planned transportation facility
+that is otherwise projected to perform below the minimum acceptable performance
+standard identified in the TSP or comprehensive plan. OAR 660-012-0060(1).
+
+       For the proposed amendments to demonstrate compliance with the TPR, the
+Board must conclude that the traffic impacts from the proposed hotel are either within
+the performance standards of the impacted transportation facility or that adverse
+impacts are mitigated.
+
+        The Lancaster TIA considers whether any transportation facilities would be
+"significantly affected" by the proposed facility within the meaning of the TPR. The
+TIA concludes that traffic generated as a result of the proposed amendments:
+
+          ®     will not require the reclassification of an existing or planned roadway,
+
+          e     will not alter standards of a functional classification system,
+
+          e     will not create traffic volumes that are inconsistent with the current
+                roadway functional classification system, and
+
+          e     will not reduce the performance of the roadway system below acceptable
+                performance standards.
+
+          The Lancaster TIA considers the traffic impacts of a 50-unit hotel, and
+analyzes current and future operations of four intersections of Highway 99W that are
+likely to be utilized by traffic generated by the proposed hotel. The TIA concludes
+that the proposed hotel would generate approximately 44 trips during the Saturday
+peak hour, including hotel guests, visitors, employees, delivery services, and other
+traffic. The Saturday peak hour rate is 25 percent higher than the weekday evening
+peak hour rate based on occupied rooms.
+
+        The TIA finds that the study area intersections on Highway 99W are currently
+operating acceptably under ODOT operational standards. By 2025, as background
+traffic volumes continue to increase, the intersection of Highway 18 and Highway
+99W is expected to operate over capacity if the Newburg-Dundee Bypass is not
+constructed. However, even without considering the positive effects of the Bypass,
+the TIA concludes that the remaining three study area intersections will continue to
+
+Ordinance 790                                     ~~                                          8/15/08
+                                                                                Film 94
+                                                                                 0157
+
+operate well within ODOT standards and will have sufficient capacity to
+accommodate traffic from the proposed development. When the Bypass is
+constructed, the volume-to-capacity ratios for all four relevant intersections will drop
+to between 0.03 and 0.23, which is well below minimum applicable standards.
+However, because ODOT does not consider the Bypass to be a "planned facility"
+within the meaning of the new TPR, the Bypass cannot be considered for purposes of
+satisfying the TPR requirements. Therefore, regarding the intersection of Highway 18
+and Highway 99W, the TIA concludes that McDougall Road to the east, and Stoller
+Road and McDougall Road to the west, will offer alternative routes to access Highway
+99W and Highway 18, which alternative routes will have adequate capacity to
+accommodate traffic from the proposed development in 2025 without the Bypass in
+place.
+
+       The Board finds that Goal 12 and the TPR are satisfied. The Board of
+Commissioners expressly adopts and incorporates into its findings the Lancaster TIA
+dated April 2006, as well as the supplemental memoranda placed in the record by
+Lancaster dated May 18, 2006, June 7, 2006 and June 17, 2006. To the extent there is
+any discrepancy between the Lancaster materials adopted by the Board and these
+findings, the express findings of the Board shall govern.
+
+          M.     Goal 13 —- Energy Conservation
+
+          Goal 13 requires that land uses maximize conservation of all forms of energy
+based on sound economic principles. The goal is implemented by local plans and
+regulations that control location, orientation and density of development to minimize
+net energy consumption. As required by a condition of approval imposed by the
+Board, future site design review approval of the proposed hotel will require "green
+development" provisions, including steps designed to conserve energy, reduce vehicle
+trips, and conserve waste water and building materials.
+
+          N.     Goal 14 -- Urbanization
+
+          Compliance with the Goal 14 exception criteria is addressed below in Section
+IX.B of the findings, which conclude that the applicable exception criteria are
+satisfied.
+
+          QO.    Goal 15 ~ Willamette River Greenway
+
+          This Statewide Planning Goal is not applicable to this application.
+
+          P,     Goal 16 ~ Estuarine Resources
+
+Ordinance 790                                 --                                          18/15/06
+                                                                                        Film 91
+                                                                                          0158
+
+          This Statewide Planning Goal is not applicable in Yamhill County.
+
+          Q.     Goal 17 - Coastal Shorelands             |
+
+          This Statewide Planning Goal is not applicable in Yamhill County.
+
+          R.     Goal 18 — Beaches and Dunes
+
+          This Statewide Planning Goal is not applicable in Yamhill County.
+
+          S.     Goal 19 ~ Ocean Resources
+
+          This Statewide Planning Goal is not applicable in Yamhill County.
+
+        For the reasons stated above, the Board finds that the proposed amendments are
+consistent with all applicable Statewide Planning Goals.
+
+TX.       GOAL EXCEPTIONS
+
+          Goal exceptions are authorized under statewide planning statutes, goals and
+administrative rules in order to provide flexibility for situations in which a departure
+from the strict application of the goals is justified based on site-specific and project-
+specific conditions. Approval of a goal exception does not establish precedent for
+allowing future goal exceptions. Goal 2 defines the term "exception" as follows:
+
+          "Exception means a comprehensive plan provision, including an.amendment.to
+          an acknowledged comprehensive plan, that:
+
+          "(a)   Is applicable to specific properties or situations and does not establish a
+                 planning or zoning policy of general applicability;
+
+          "(b)   Does not comply with some or all goal requirements applicable to the
+                 subject properties or situations; and
+
+          "(c)   Complies with standards for an exception."
+
+          There are three types of exceptions:       (1) "developed" exceptions are justified
+where the property is physically developed to the point where resource use is no
+longer practicable; (2) "committed" exceptions are justified where the nature of nearby
+physical development makes resource use impracticable; and (3) "reasons" exceptions
+are justified where there is a need for development at the site in question and where
+the applicant establishes that reasons justify why the policy embodied in the applicable
+goals should not apply, the site compares favorably with other possible locations for
+
+Ordinance 790                                    Satad                                      8/15/06
+                                                                                         Film 91
+                                                                                          0159
+
+the proposed development, and the proposed use is compatible with other adjacent
+uses or can be made compatible through measures designed to reduce impacts.
+
+          A.     Application of OAR Chapter 660 Exception Criteria
+
+          The application requests "reasons" exceptions to Goals 3, 4 and 14. The
+general criteria for reasons exceptions are set forth in LCDC's administrative rules at
+OAR 660-004-0020. The rules then provide additional "reasons" that can justify an
+exception at OAR 660-004-0022, including criteria that must be applied to more
+specific types of uses. Then, where an exception to Goal 14 is required to allow
+"urban" levels of use on rural land, still another set of criteria are set forth at OAR
+660-014-0040. Thus, for an application that requires reasons exceptions to Goal 3 and
+Goal 4 along with an exception to Goal 14, the overlapping nature of these three sets
+of rules results in a particularly complex and Byzantine process even by "normal"
+exception rule standards.
+
+          The Board of Commissioners finds that the language of the exception rules,
+together with LUBA case law applying those rules, establish that where an exception
+to Goal 14 is required in conjunction with exceptions to Goal 3 or Goal 4, the
+exception criteria of OAR 660-014-0040 must be applied to the exclusion of the
+reasons exception criteria in OAR 660-004-0020 and 0022. The explanation for this
+conclusion is spelled out by LUBA in Caine v. Tillamook County, 25 Or LUBA 209
+(1993), which involved an exception to Goal 14 and Goal 4. In Caine, the question
+arose regarding which specific exception criteria should be applied, and LUBA
+explained as follows:
+
+          "We recognize that the parties do not argue that OAR 660-04-020 and
+          660-04-022 do not apply to the challenged decision. Further, it is
+          unclear whether the challenged decision applies the standards of OAR
+          660-04-020 and 660-04-022. However, we believe resolution of this
+          threshold issue is important to a useful disposition of this appeal.
+          Accordingly, we determine whether OAR 660-04-020 and 660-04-022
+          apply to the challenged decision.
+
+          "OAR 660-04-000(1) provides:
+
+                 '** * Except as provided for in OAR 660 Division 14,
+                 this Division interprets the exceptions process as it applies
+                 to state-wide Goals 3 to 19." (Emphasis supplied.)
+
+          "In addition, OAR 660-04-022(1) provides:
+
+Ordinance 790                                  -                                       8/15/06
+                                                                                     Film 91
+                                                                                      0760
+
+                'For uses not specifically provided for in * * * OAR 660,
+                Division 14, the reasons shall justify why the state policies
+                embodied in the applicable goals should not apply. Such
+                reasons include but are not limited to the following:
+                 ‘#4       tT (Emphasis supplied.)
+
+          "By its own terms, OAR 660-04-022 applies to a reasons exception to
+          applicable goals, only to the extent that OAR 660, Division 14 does not.
+          Further, nothing in OAR 660-04-020 and 660-04-022 suggests that
+          either of those rules were intended to impose additional standards to
+          those articulated by OAR 660, Division 14. Therefore, the question is
+          whether OAR 660, Division 14 applies to the proposal.
+
+          "OAR 660-14-000 states that Division 14:
+
+                 '* * * Specifies the satisfactory method of applying
+                 Statewide Planning Goals 2, 3, 4, 11 and 14 to the
+                 incorporation of new cities."
+
+          "OAR 660-14-040, the rule on the incorporation of new cities on
+          undeveloped rural land, includes provisions applicable to 'new urban
+          development on rural land.' OAR 660-14-040(2). Specifically, OAR
+          660-14-040(2) provides that:
+
+                 "A county can justify an exception to Goal 14 to allow
+                 new urban development on rural land. Reasons which can
+                justify why the policies in Goals 3, 4, 11 and 14 should not
+                apply can include but are not limited to [certain suggested
+                reasons]."
+
+          "The basic issue in this appeal proceeding is whether the county's
+          exceptions to Goals 4 and 14 are adequate. Moreover, there is no
+          dispute that the proposal will allow the placement of urban level
+          development on rural land. Accordingly, OAR 660-14-040 applies to
+          the challenged exceptions to Goals 4 and 14 and OAR 660-04-020 and
+          660-04-022 do not apply. Therefore, no purpose is served in reviewing
+          petitioner's challenges to the proposal's compliance with OAR 660-04-
+          020 and 660-04-022."   Caine, 25 Or LUBA at 219-220.
+
+        The situation reviewed by LUBA in the Caine decision is identical to the
+situation before the Board of Commissioners in this matter, in that exceptions to both
+
+Ordinance 790                                  -                                     8/15/06
+                                                                                   Film 91
+                                                                                     0161
+
+a resource goal and Goal 14 were required, and LUBA concluded that only the Goal
+14 exception criteria should be applied. LUBA also addressed the interplay between
+the Division 4 and Division 14 exception criteria in DLCD v. Umatilla County, 39 Or
+LUBA 715 (2001), where LUBA explained:
+
+          "Under this framework, determining which criteria apply requires that
+          the local government identify the character of the use for which a
+          reasons exception is proposed. If the proposed exception involves
+          circumstances or uses not governed by OAR 660-004-0022(2) through
+          (10) or OAR Chapter 660, division 14, then OAR 660-004-0022(1)(a)-
+          (c) provide the applicable criteria for determining whether reasons
+          justify the proposed exception. If, on the other hand, the proposed
+          exception is intended to allow urban development, then OAR 660-004-
+          0022(1) directs the county to OAR 660-014-0040. Conversely, if the
+          proposed exception is intended to allow rural residential development,
+          then OAR 660-004-0022(1) directs the county to OAR 660-004-
+          0022(2)." DLCD vy. Umatilla County, 39 Or LUBA at 721-22.
+
+        The present application involves an exception that would allow the
+development of a 50-unit hotel, which is an urban level of commercial use and not
+"rural" use. Under the express language of the applicable LCDC rules, and for the
+reasons expressed by LUBA in the above-quoted cases, the Board concludes that the
+criteria for reviewing the proposed exceptions to Goals 3, 4 and 14 are the Division 14
+rules at OAR 660-014-0040, and the reasons, exception criteria at OAR 660-004-0020
+and 0022 do not apply. However, as a precaution in the event that this decision is
+appealed and LUBA decides to reverse its prior decisions in Caine and DLCD v.
+Umatilla County, the Board also adopts findings that separately address the criteria of
+OAR 660-004-0020 and 0022 in Sections [X.C and D below.
+
+          B.     OAR 660-014-0040 — Reasons Justifying the Exceptions
+
+          As explained above, the applicable exception criteria are set forth in the
+Division 14 rules at OAR 660-014-0040, which is entitled "Establishment of New
+Urban Development on Undeveloped Rural Land." For the reasons stated below, the
+Board finds that the application satisfies these criteria, and that the applicant has
+thereby established that sufficient reasons exist under Goal 2 and the Division 14 niles
+to justify the necessary exceptions to Goals 3, 4 and 14.
+
+       OAR 660-014-0040(2) provides that one means by which a county can justify a
+Goal 14 exception is to provide reasons that justify why the policies in Goals 3, 4, 11
+and 14 should not apply, including findings that urban levels of facilities and services
+
+Ordinance 790                                  --                                       8/15/08
+                                                                                    Film 91
+                                                                                     0162
+
+are necessary to support an economic activity that is dependent upon an adjacent or
+nearby natural resource. However, the rule expressly states that this is not the only
+"reason" on which the county can justify an exception to the goals. Although
+proximity to a nearby natural resource is not an exclusive test for justifying exceptions
+under the Division 14 rules, for the reasons addressed in more detail below regarding
+the specific locational requirements of the proposed wine country hotel, the Board
+finds that this element of the rule is satisfied by the subject property's proximity to the
+county's wine country agricultural resources.
+
+        The proposed hotel will not create a permanent "urban population" on the
+subject property in the same way that expansion of an urban growth boundary would
+result in an urban population. The only significant development on the 65-acre
+property will be the hotel, which will only be temporarily inhabited by visiting hotel
+guests and hotel staff, and will also be subject to seasonal variations in levels of use.
+While the hotel will certainly increase the number of people on the property above
+current levels, it will not result in an “urban population" of the property within any
+rational meaning of that term, although the hotel will rely upon residents of urban
+population centers for its success. The hotel will provide urban levels of facilities and
+services on rural land within the meaning of Goal 14, and will allow development on
+land zoned for resource uses under Goals 3 and 4, and therefore exceptions to those
+goals are required.
+
+      The applicants’ proposed wine country hotel is targeted at a specific
+demographic of relatively more affluent "core" wine consumers, who are the most
+likely wine country tourists. As explained in the ECONorthwest analysis and
+materials cited therein, these more affluent tourists seek small hotels and resorts,
+which offer more privacy and a wider array of services and amenities, rather than bed
+and breakfast-type accommodations, In fact, according to the profile prepared for the
+Washington State Business and Tourism Office titled "Washington Wine Country
+Visitor Profile 2003," wine country tourists prefer hotels over B&Bs by a ten-to-one
+ratio. The specific demographic characteristics of wine country tourists and the types
+of accommodations and amenities they seek are addressed in detail in the April 24,
+2006 ECONorthwest analysis at pages 2-4. For such tourists, a vacation to wine
+country is typically an opportunity to get away from stressful jobs and noisy urban
+environments, and seek refuge in a quiet, relaxing, upscale environment where they
+can enjoy fine wines and food, and also pursue their interest in wine by visiting
+wineries with tasting rooms and related facilities. Wine country tourists are currently
+well-served by Napa Valley hotels such as Auberge du Soleil, Meadowood and
+Calistoga Ranch, which provide this type of wine country experience in a quiet rural
+atmosphere among vineyards and near wineries. As discussed in more detail below,
+
+Ordinance 790                                --                                          8/15/06
+                                                                                   Film 91
+                                                                                    0163
+
+ the applicants’ proposal is modeled after these hotels, which provide a very distinct
+ type of lodging product with distinct site-related characteristics.
+
+          As explained in the economic analysis and supplemental materials prepared by
+ ECONorthwest, despite the fact that Oregon (and Yamhill County in particular), is the
+ home to many internationally known wineries that produce world-class wines, Oregon
+ lacks a full-service "destination" hotel in the wine country area of the type found in
+ Napa Valley, such as Meadowood, Auberge du Soleil and Calistoga Ranch. The
+ proposed hotel will generate significant economic benefits to the County. At present,
+ wine country tourists who decide to visit Yamhill County on a vacation are far more
+ likely to stay in Portland than in Yamhill County, and must make at least a 60-mile
+ round trip drive in order to visit wineries. In addition to depriving Yamhill County of
+ tourist-related income, this situation also results in higher vehicle miles traveled and
+ carbon emissions. As stated in the ECONorthwest study, "millions of potential
+ tourism dollars are likely going unspent in Yamhill County because Oregon's wine
+ country is inconvenient and does not have adequate accommodations for wine country
+ tourists."
+
+         The-need for a hotel of this type in the wine country of Yamhill County was
+ recognized as early as 1988, when a report commissioned by Yamhill County
+ identified a “pressing need" for a lodging and dining establishment like the proposed
+ hotel designed to serve growing numbers of wine country tourists. That report is
+ dated August 22, 1988 and is titled "A Feasibility Study for Destination Resort
+ Development.” The study was.prepared by INTRA for the purposes of determining
+ the potential size and type of future destination resorts in Yamhill County, identifying
+ the target markets for such a resort, projecting the employment and economic impacts,
+ and developing siting criteria and identifying one or more appropriate sites for such
+ development in Yamhill County, (See INTRA Study, page 1-1). The 1988 study was
+ submitted into the record by the applicants on May 18, 2006 and is adopted and
+ incorporated by the Board as part of these findings.
+
+          As stated in the INTRA study, even as long ago as 1988 Yamhill County was
+ attempting to capitalize on the tourism benefits associated with its growing wine
+ industry by encouraging economic development associated with wine tasting and wine
+ country tourism. The study found that "the secret to establishing Yamhill County as
+ the wine-tasting capital of Oregon is the creation of attractive, visitor-oriented
+ facilities." (INTRA Study, page 4-11). The study noted that "as the local wine
+ industry gains momentum and as wine tasting in Yamhill County becomes a form of
+ recreation, there will be a pressing need for additional overnight accommodations and
+ dining opportunities in the County." (INTRA Study, page 2-2). The study also found
+ that "there is a growing need for additional facilities to serve the small meeting and
+
+” Ordinance 790                              aa                                       8/15/08
+                                                                                 Film 91
+                                                                                   0164
+
+conference market." (INTRA Study, page 4-20). The study concluded that the
+county's wine industry was a significant tourism amenity and that the county should
+attempt to meet the identified needs and economic opportunities presented by the
+growth of the wine industry by locating a small destination resort in the wine country
+area. One of the locations identified for the proposed resort was the Red Hills of
+Dundee, where the subject property is located. (INTRA Study, page 6-1).
+
+         Eighteen years later, the Board finds that the needs and economic opportunities
+identified by the 1988 study have still gone largely unmet. Although there has
+certainly been a proliferation of bed and breakfast establishments in the wine country
+area, there has been no development similar to the "destination" wine country hotel
+that was proposed in 1988. As discussed in more detail below, a hotel of this type will
+fill a particular niche of overnight accommodation need that has never been met by
+Yamhill County, which is the reason why so many visitors to Yamhill County's world-
+class wineries only make day trips to the county, staying at nicer hotels in Portland
+instead. The Board of Commissioners finds that this unfortunate situation creates one
+of the "reasons" that justifies the proposed exception. As stated in the testimony of
+Tim Harmon of Auberge du Soleil, and repeated by Commissioner Stern during
+deliberations, "Yamhill County wines are known as some of the finest wines in the
+world, and they deserve a world class resort that compliments and supports them."
+
+        The need identified by the 1988 study was also well-described in the oral and
+written testimony of many individuals who have appeared before the planning
+commission inthis matter. As explained.in.the correspondence from Dr. Eric. Fruits of
+ECONorthwest dated May 17, 2006, multiple parties, including opponents of the
+application, testified regarding the existing need for a hotel of this type in Yamhill
+County. One such individual is Jack Czarnecki, the owner and chef of the Joel Palmer
+House Restaurant in Dayton. Mr. Czarnecki is a nationally recognized and well-
+respected chef who is currently a director of Distinguished Restaurants of North
+America, a board member of the American Institute of Wine and Food, and a founding
+member of the Society of American Cuisine. Since opening in 1997, the Joel Palmer
+House has become nationally recognized as one of the best restaurants not just in
+Yamhill County, but in all of the Pacific Northwest. In his capacity as chef and
+proprietor of a nationally acclaimed restaurant in Dayton, Mr. Czarnecki has the
+opportunity to interact with hundreds of guests who travel to Yamhill County to
+experience the food and wine of the region. In correspondence to the planning
+commission dated May 17, 2006, Mr. Czarnecki testified as follows:
+
+          "We see many of the tourists who visit this county. Most of them
+          visiting from around the world as well as from around the country are
+          coming for the world class pinot noir produced here. These are travelers
+
+Ordinance 790                                 al                                       8/15/06
+                                                                                          Film 94
+                                                                                           0165
+
+          who frequently visit the wine growing areas of France, Spain, Germany,
+          Italy, and California. They are puzzled that we do not have a world
+          class facility for accommodating these individuals who spend hundreds
+          if not thousands of dollars annually on wine. Many of these visitors are
+          restaurateurs who carry the wines in their establishments. But where do
+          they stay? Indeed we have many fine B&Bs in the area, but that type of
+          accommodation is NOT acceptable for many of these guests who are
+          more comfortable with the amenities a small hotel provides. Amenities
+          are key here because these individuals are used to luxury
+          accommodations, not motel-type creature comforts. Any issue of Wine
+          Spectator will easily illustrate the types of small hotels prevalent in these
+          other wine areas. Thus, Yamhill County is ata COMPETITIVE
+          DISADVANTAGE when it comes to competing with those areas for
+          accommodations. Our own Yamhill County Visitors Association tried
+          to enact a room tax to use for promotion of our great county but was
+          turned down. Opponents averred that other methods could be used to
+          promote this area. Well, here is one of those methods - the building of a
+          small luxury hotel to strengthen the magnet of this area to attract more
+          tourists. It is a shame how many of these tourist come down for a day
+          because we do not have what they consider proper accommodations.
+          They are staying at the Vineyard Suites, The Heathman, The Benson,
+          etc. — all quality, UPSCALE, hotels an hour away!      They should be
+          staying here and spending their dollars here."
+
+          Similar testimony was provided by Paul Hart of Rex Hill Winery, who stated in
+correspondence dated May 18, 2006:
+
+          "Our winery is visited by more than 40,000 people each year and the two
+          most frequent non-wine questions we get from are visitors are where can
+          I eat and where can we sleep nearby. The first question is being
+          answered by the development of several first rate restaurants to which
+          we are proud to send our visitors. The answer to the second question is
+          much harder, especially if the guests are looking for first class
+          accommodations. Although the many local Bed and Breakfasts provide
+          a satisfying and comfortable experience for their guests, the few which
+          can provide truly first class experience are usually reserved,
+
+          "The result for many guests now is that they stay in a hotel in Portland and
+          commute to the Yamhill County wine country during the day."
+
+Ordinance 790                                   --                                        8/1 S/G8
+                                                                                 Film 91
+                                                                                  0166
+
+        The Board agrees with the above-quoted testimony and finds that this
+application provides Yamhill County with a significant and timely opportunity for
+economic development by providing a major boost to the county's wine industry in
+general, and the wine tourism industry in particular. The Board finds that approval of
+this application furthers economic development in Yamhill County, consistent with
+the requirements of Goal 9, which requires the county to provide adequate
+opportunities for a variety of economic activities vital to the health, welfare and
+prosperity of the citizens of Oregon. As addressed in more detail in the Board's
+findings below regarding the ESEE requirements, the new hotel will encourage
+economic development in Yamhill County by stimulating the vineyard, winery, and
+tourism industries in the County, and providing new employment opportunities at the
+hotel and restaurant. The construction of the proposed hotel will also result in a
+number of temporary construction jobs that will benefit the county.
+
+        The Board also finds that ORS 197.340(1) must be considered in this
+application. ORS 197.340(1) provides that local governments, as well as both DLCD
+and LCDC, "shall give the goals equal weight in any matter in which the goals are
+required to be applied." The Board finds this to mean that Goal 9 has as much weight
+as Goals 3, 4 or 14 in this proceeding.   The Board finds, based on substantial evidence
+in the whole record, that the economic development potential of this application for
+the county outweighs any concerns regarding Goals 3, 4 or 14. Specifically, the
+significant economic advantages associated with the proposed hotel outweigh
+concerns regarding the placement of an "urban" use on rural land, or the loss of 12
+acres of EFU-zoned land that is not commercially viable for agricultural production
+and has not been in agricultural production for at least ten years.
+
+        The Board also agrees with the evidence submitted by ECONorthwest and the
+applicants regarding the characteristics of the proposed hotel that are necessary to
+meet the needs of the identified wine country tourists — those characteristics are
+similar to a private country estate that will also provide a complete wine country
+experience, including a rural setting among vineyards and proximity to wineries with
+tasting rooms. This conclusion is consistent with the findings of the 1988 INTRA
+study, which identified the Red Hills of Dundee as a potential location for the .
+proposed wine country resort. It is also consistent with evidence submitted by the
+applicants regarding the three successful Napa Valley hotels that their proposal is
+modeled after. Based on this evidence, and as addressed in more detail below, the
+Board finds that the proposed hotel is entirely dependent upon critical locational
+factors, including proximity to wineries with on-site tasting rooms, vineyards, and
+other wine tourism opportunities, relative seclusion resulting from distance from
+major highways and population centers, and an idyllic rural setting with expansive
+views of the surrounding countryside and nearby vineyards. These locational
+
+Ordinance 790                                -~                                       8/15/08
+                                                                                    Film 91
+                                                                                     0167
+
+requirements, together with the identified need for a hotel of this kind in Yamhill
+County, the county's need to expand and diversify its economy and promote its
+growing wine industry, and other reasons contained in the materials submitted by the
+applicants and addressed in these findings, provide the reasons that justify the
+exceptions to Goals 3, 4 and 14 to allow siting of the proposed wine country hotel.
+Also, the Board finds that the subject property has not been in commercial agricultural
+use for at least 10 years, in part because elevations on the site are too high for quality
+grape production, that the current property owners have been unable to sell the
+property for agricultural purposes, and that the property is not in farm or forest tax
+deferral. Therefore, the removal of this 12 acres of land from agricultural zoning will
+not have any discernable impact on the county's agricultural economy.
+
+        Additional reasons supporting the development of the proposed hotel and the
+required goal exceptions are set forth in the applicants’ materials, including the
+analysis provided by ECONorthwest. The Board expressly adopts and incorporates as
+part of its findings the following materials submitted by the applicants: (1) the
+application narrative dated April 24, 2006; (2) the ECONorthwest analysis entitled
+"Characteristics of a Luxury Wine Country Hotel in Yamhill County, Oregon," dated
+April 24, 2006; (3) the alternatives analysis submitted by the applicants dated April
+24, 2006; (4) correspondence provided by Dr. Eric Fruits of ECONorthwest dated
+May 17, 2006, May 25, 2006 and June 19, 2006, together with all attachments
+including the 1988 INTRA study; (5) correspondence from Perkins Coie dated May
+18, 2006, together with its five attachments; and (6) correspondence from Perkins
+Coie dated June 19,2006, together with its six attachments. To the extent there is any
+discrepancy between the above-referenced materials adopted by the Board and these
+findings, the express findings of the Board shall govern.
+
+          "(3)   To approve an exception under section (2) of this rule, a county
+          must also show:
+
+          "(a)   That Goal 2, Part II(c)(1) and (c)(2) are met by showing that the
+                 proposed urban development cannot be reasonably accommodated
+                 in or through expansion of existing urban growth boundaries or by
+                 intensification of development in existing rural communities;
+
+          As explained above, the Board finds that the proposed development has
+specific locational requirements that cannot be reasonably accommodated in an urban
+area or an existing rural community. The type of hotel accommodations required to
+meet the needs of the targeted wine country tourists include characteristics similar to a
+private country estate, in a rural setting among vineyards. The Board agrees with the
+applicants' alternatives analysis, and finds that the proposed hotel requires at least 35
+
+Ordinance 790                                 --                                          8/15/08
+                                                                                        Film 94
+                                                                                          0168
+
+acres in a quiet and idyllic rural setting, which provides privacy, serenity, expansive
+views of the surrounding countryside, as well as close proximity to vineyards,
+wineries, wine tasting rooms and related uses that are compatible with a relaxing wine
+country "getaway" vacation. These necessary site characteristics are a fundamental
+part of the success of this type of hotel, as demonstrated by the success of the three
+Napa Valley hotels described by the applicants in their June 19, 2006 memorandum
+entitled "Characteristics of Napa Valley Hotels: Meadowood, Auberge du Soleil and
+Calistoga Ranch." As described in that memorandum and the accompanying aerial
+photographs and site descriptions, the specific type of hotel development being
+proposed precludes a location within an urban area:
+
+          "The type of facility being proposed by the applicant would be unique to
+          Oregon, and is modeled after three hotels that are in a very rare class of
+          their own, which cannot be compared to similarly sized hotels that are
+          located in cities. These are luxurious "getaway" hotels that are specifically
+          designed and located so as to provide guests with a beautiful and secluded
+          environment, where they can spend several days in the heart of wine
+          country, enjoying local wines as well as an excellent on-site restaurant, spa
+          facilities, and other amenities. These hotels are unique in their extremely
+          high standards of service, world-class amenities, and their idyllic rural
+          location amidst the vineyards and forests of Napa Valley. These
+          characteristics are also the necessary characteristics of the applicant's
+          proposal, which, like the three hotels considered in this memo, could never
+          succeed if located adjacent to a highway or in’a noisy urban environment.
+
+          "As shown on the attached photographs and tables, the applicant's proposed
+          site and development characteristics are neatly identical to those of
+          Meadowood, Auberge du Soleil, and Calistoga Ranch.        Each are located in
+          a beautiful and secluded rural setting with expansive views of the
+          countryside, in close proximity to vineyards and wineries, on a minimum of
+          33 acres, and each provide the types of amenities for guests that are
+          expected at hotels of this type.
+
+          "Many opponents of the application have argued that there is no reason the
+          proposed hotel could not be located in an urban area. While a run-of-the
+          mill 50-room hotel might be successful somewhere within the Newberg
+          UGB, the proposal is to create a hotel that is targeted at the same ‘core’ wine
+          tourist demographic as the three Napa Valley locations. Like Meadowood,
+          Auberge du Soleil, and Calistoga Ranch, the proposed use requires a serene
+          and secluded rural environment. As explained in the written testimony of
+          Tim Harmon, manager of Auberge du Soleil: 'a quiet rural setting among
+
+Ordinance 790                                  a                                          8/15/06
+                                                                                          Film 91
+                                                                                           0169
+
+          vineyards is a necessary element of success for a wine country hotel of this
+          type. This type of luxury resort requires seclusion, views, and ambiance
+          that simply could not be found in an urban environment.”
+
+          The subject property is unique in that it provides all of the necessary site-
+related requirements. The subject property is in the heart of Yamhill County's wine
+country, within 20 minutes’ driving time of more than 20 wineries, including
+approximately 12 nearby wineries with the desired vineyard setting and on-site tasting
+rooms, and within walking distance of two. At approximately 65 acres, it is large
+enough to meet the site size requirement. The property also provides a quiet rural
+setting with beautiful hilltop views of the countryside, and includes enough acreage to
+ensure that the hotel will be surrounded by landscaping, open space, and other
+resource-related uses that will be compatible with the needs of the hotel guests. Any
+site that did not include these features would not provide the necessary features to
+meet the required need and would not result in a successful project. Additionally, the
+Board finds that approving an exception for the subject property allows the proposed
+hotel to be developed without taking any viable agricultural uses out of production.
+
+       The Board also relies on the testimony placed in the record by ECONorthwest
+and by Tim Harmon of Auberge du Soleil. In correspondence dated May 25, 2006,
+Mr. Harmon explained:
+
+          "In my experiences with hotels of this type, the 35-acre site size identified
+          in the application is the minimum size that would be required to operate the
+          proposed hotel with associated restaurant, spa, meeting facilities and
+          grounds. A site of this size, which is consistent with our other properties, is
+          essential to create a low density project that is both environmentally
+          sensitive and that will have little or not impact to the surrounding area.
+
+          "Also, as I explained at the hearing, a quiet rural setting among vineyards is
+          a necessary element of success for a wine country hotel of this type. This
+          type of luxury resort requires seclusion, views, and ambiance that simply
+          could not be found in an urban environment. A luxury hotel simply will not
+          work if it is located in a town or city location."
+
+      This issue is also addressed in the correspondence from ECONorthwest dated
+May 18, 2006 and May 25, 2006, as well as their initial analysis dated April 24, 2006.
+The May 18, 2006 letter explains:
+
+          "The placement of existing luxury wine country hotels indicates that tourists
+          demand more isolated rural settings that foster a feeling of seclusion and
+          relaxation. For example, Auberge du Soleil and Meadowood are located on
+
+Ordinance 790                                   --                           —               8/15/86
+                                                                                       Film 91
+                                                                                        0170
+
+          private vineyard estates in rural locations; Calistoga Ranch is located in a
+          secluded canyon with an on-site vineyard. No 4- or 5-star wine country
+          hotels are located in urbanized areas.
+
+          "ECONorthwest notes in its report that nearly two-thirds of the B&B rooms
+          available in Yamhill County are located outside of urbanized areas. This is
+          a clear indicator that B&B tourists heavily favor non-urbanized settings for
+          their overnight visits to Yamhill County. The most widely cited exemplar
+          of luxury accommodations in Yamhill County, the Black Walnut Inn and
+          Vineyard, is in a ‘private and comfortable setting,' 'set amid vineyards,
+          orchards and acres of forest.
+
+          "(Tim] Harmon, CEO of Auberge Resorts testified on May 4, 2006, noted
+          that all of Auberge's properties were located outside of urban areas and that
+          a ‘city location defeats a resort.’ Indeed, he testified, 'If it would work in a
+          city, then we would do it.’ He admitted that rural areas have challenges of
+          their own, specifically higher building costs. However, the demand for
+          rural locations and the rates such demand can generate, makes rural luxury
+          development financially feasible.”
+
+          For the reasons described above, and additional reasons provided by the
+applicants and the materials submitted by ECONorthwest, the Board agrees that the
+proposed development could not be reasonably accommodated in or through
+expansion of existing UGBs, or in existing rural communities, which are generally
+located along busy state highways. The applicant has provided substantial evidence to
+support a finding that the specific requirements for the proposed luxury wine country
+hotel include certain features, amenities, views, and a location that would preclude an
+urban setting. The Board also adopts and incorporates by reference its findings in
+Sections IX.C and D below addressing the Division 4 exception rules as part of these
+findings addressing the Division 14 exception rules.
+
+          (b)    That Goal 2, Part H(c)(3) is met by showing that the long-term
+          environmental, economic, social and energy consequences resulting from
+          urban development at the proposed site with measures designed to reduce
+          adverse impacts are not significantly more adverse than would typically result
+         Jrom the same proposal being located on other undeveloped rural lands,
+          considering:
+
+          (A)    Whether the amount of land included within the boundaries of the
+                 proposed urban development is appropriate, and
+
+Ordinance 790                                   -                                            8/15/06
+                                                                                     Film 91
+                                                                                      0171
+
+          (B)   Whether urban development is limited by the air, water, energy and land
+                resources at or available to the proposed site, and whether urban
+                development at the proposed site will adversely affect the air, water,
+                energy and land resources of the surrounding area.
+
+          The Board finds that the long-term environmental, economic, social and energy
+consequences resulting from locating the hotel on the subject property will not be
+significantly more adverse than locating the hotel on other undeveloped rural lands.
+The Board notes that this rule does not create a particularly high standard, but simply
+requires a determination that the ESEE consequences resulting from the proposed
+hotel “are not significantly more adverse" than would result from the hotel being
+placed on another undeveloped rural lands.
+
+     The analysis required by this section of the rule is addressed in the applicants'
+ESEE analysis, which the Board adopts and incorporates as part of its findings.
+Specifically, the Board adopts and incorporates the following: (1) the applicants'
+alternatives analysis dated April 24, 2006; (2) the applicants’ revised ESEE analysis
+dated May 18, 2006; and (3) correspondence from Perkins Coie dated May 18, 2006
+and June 19, 2006, which provide additional analysis of the ESEE consequences
+arising out of specific alternative sites identified by opponents Sid Friedman of 1000
+Friends of Oregon and Kathy Miller. To the extent there is any discrepancy between
+the above-referenced materials adopted by the Board and these findings, the express
+findings of the Board shall govern.
+
+       As an initial matter, the Board finds that the alternative locations on resource
+land identified by project opponents Kathy Miller, in her letter dated May 2, 2006, and
+Sid Friedman of 1000 Friends of Oregon in his letter dated March 2, 2006 were not
+identified or described with sufficient specificity for the applicants or the Board to
+properly analyze the ESEE consequences associated with those properties as
+compared to the subject property. The Board agrees with the applicants’ statements in
+the May 18, 2006 revised ESEE analysis that "Ms. Miller has not provided sufficiently
+specific facts regarding why she believes [the sites] would have significantly fewer
+adverse impacts to require the applicant to provide a detailed evaluation," and that
+"Mr. Friedman has not provided detailed information explaining why the [sites] would
+have less adverse ESEE consequences than the subject property." Despite the lack of
+information provided by Ms. Miller, the applicants undertook their own investigation
+of the identified parcels, and submitted evaluations of those properties in
+correspondence to the Board dated June 19, 2006, which evaluations are adopted and
+incorporated by the Board as part of these findings. The Board also expressly adopts
+the applicants’ analysis regarding the sites referenced by Mr. Friedman in the revised
+ESEE analysis dated May 18, 2006.
+
+Ordinance 790                                --                                       8/15/06   ~
+                                                                                     Film 91
+                                                                                       0172
+
+        The Board finds that the ESEE impacts that will result from siting the proposed
+hotel on the subject property are not significantly more adverse than if the hotel were
+located on other undeveloped rural lands. As discussed above in the Board's findings
+regarding other subsections of the Goal 14 rule, the proposed wine country hotel is
+extremely dependent on certain critical locational factors, including proximity to
+wineries with on-site tasting rooms, vineyards, and other wine tourism opportunities,
+relative seclusion resulting from distance from major highways and population
+centers, and an idyllic rural setting with expansive views of the surrounding
+countryside and nearby vineyards. The applicants’ alternatives analysis and ESEE
+analysis reviewed the potential alternative sites based on three criteria that are
+essential to the viability of the proposed hotel: (1) minimum site size of 35 acres set
+among or adjacent to vineyards; (2) maximum 20-minute travel time from the highest
+concentration of vineyards and wineries with tourist amenities; and (3) accessible to
+improved local and regional transportation facilities while not negatively affected by
+noise or view of such facilities.
+
+       As explained in the applicants' ESEE analysis and the materials submitted by
+ECONorthwest, the ultimate success of the hotel, and the resulting economic benefits
+to Yamhill County and its residents, are entirely dependent on these characteristics,
+which are all present at the subject property. Therefore, the economic aspect of the
+ESEE analysis weighs heavily in favor of the subject property, rather than other
+undeveloped rural lands that do not provide the same necessary characteristics,
+including the alternative locations identified in the materials submitted by Kathy
+Miller and 1000 Friends of Oregon:
+
+        Evidence provided by ECONorthwest indicates that the proposed hotel will
+provide seasonal employment for a minimum of 50 employees using an approximate
+average of one staff person to support each hotel room. In addition, the hotel is
+intended to support convention and meeting facilities as well as banquet rooms for
+private events such as weddings in the off season. The proposed hotel is expected to
+facilitate sale and consumption of wines produced at local wineries and will also
+facilitate and extend the name recognition of Yamhill County wineries stimulating
+sales in other national and international markets. The Board finds that in other
+locations such as Napa Valley, California, such wine country hotels also support
+sightseeing, shopping in local shops and art galleries, antiquing, and dining at
+restaurants in nearby areas. Consequently, the proposed hotel will have a positive
+economic impact on nearby commercial and retail establishments. Also, the hotel will
+provide additional employment, which will make more money available in Yamhill
+County for commercial transactions generally.
+
+Ordinance 790                               ad                                        8/15/06
+                                                                                    Film 94
+                                                                                     0173
+
+        The economic effect of the hotel on Yamhill County local wineries will be very
+positive due to increased use of tasting rooms and increased exposure of the local
+product to the wine drinkers irrespective of the site selected. The interaction between
+hotel guests and the local wineries, and the resulting economic benefit derived from
+that interaction, are greater for the subject property than other potential locations in
+other parts of the county, because of the site's unique proximity to so many wineries.
+The targeted clientele of the hotel will include wine tourists from all over the country
+and the world, which will provide increased visibility, recognition and distribution of
+Yamhill County wines in the global marketplace. As noted at the hearing before the
+Board, the national and international wine-related press have been inquiring with the
+applicants about the status of the proposed hotel, and an article about the proposal has
+already been published in Wine Spectator magazine.
+
+          The Board finds that the hotel will provide significant economic benefits to
+Yamhill County, so long as it is successful. As described elsewhere in these findings,
+in order to be successful the hotel requires certain locational characteristics including
+a tural setting among vineyards with expansive views of the countryside, and
+proximity to vineyards and wineries with tasting rooms. As explained in the
+applicants’ revised ESEE analysis dated May 18, 2006 and the correspondence from
+Perkins Coie dated June 19, 2006, and as indicated on the maps submitted by the
+applicants on April 24, 2006 and May 18, 2006, the majority of alternative locations in
+rural areas identified by the opponents lack the requisite proximity to wineries with ~
+tasting rooms and other tourist facilities. In particular, the two properties owned by
+Sid Friedman of 1000 Friends of Oregon are too distant from Highway 99W and too
+remote from the identified concentration of wineries among vineyards with tasting
+rooms and other tourist facilities. Also, uncontroverted evidence in the record
+indicates that access to the Friedman properties is sub-standard, requiring travel on an
+unpaved gravel road used by logging trucks. As explained in the applicants’ materials,
+the alternative sites identified by Ms. Miller are also either located in areas that have
+no view, are too distant from wine country, or are otherwise located in areas that
+would be incompatible with or inappropriate for the proposed luxury hotel.
+
+        The Board accepts the applicants’ analysis of the relative environmental, social
+and energy consequences of siting the proposed hotel at the subject property rather
+than at other identified rural locations. The environmental, social and energy
+consequences related to the proposed site will not be significantly different from other
+potential locations on resource land. The amount of land proposed to be included
+within the boundaries of the proposed development is appropriate, because the
+applicant is requesting an exception only affecting an approximately 12-acre portion
+of the entire 65-acre site, which is the minimum amount of land required for the
+footprint of the hotel, and will allow the remainder of the subject property to remain in
+
+Ordinance 790                                 --                                         8/15/86
+                                                                                       Film 91
+                                                                                         o174
+
+EFU zoning and to be placed in agricultural use. The applicants propose to plant the
+southern portions of the property in grapes, which would enhance the wine country
+atmosphere and would also result in a net increase in the amount of land being put to
+agricultural use on the subject property.
+
+        The Board finds that the site is not limited by soil, air, water or energy capacity
+nor will the proposed use adversely affect air, water, energy and land resources of the
+surrounding area. The applicants have submitted substantial evidence regarding the
+feasibility of obtaining the necessary permits for water rights, which will include
+monitoring provisions designed to assure that a new well for the hotel will not
+adversely affect other water rights in the area. The Board is attaching a condition of
+approval requiring that the applicant must obtain a water right for the hotel within
+three years after any appeals of this decision are resolved; in the event such water right
+is not obtained, the applicants shall be required to initiate necessary map amendments
+to return the property to EFU zoning.
+
+          (c)     That Goal 2, Part Il(c)(4) is met by showing that the proposed urban
+          uses are compatible with adjacent uses or will be so rendered through
+          measures designed to reduce adverse impacts considering:
+
+          (A)   Whether urban development at the proposed site detracts from the
+                ability of existing cities and service districts to provide services; and
+
+          (B)    Whether the potential for continued resource management of land at
+                present levels surrounding and nearby the site proposed for urban
+                development is assured.
+
+        The Board finds that the proposed hotel will be compatible with adjacent uses,
+or will be rendered compatible through measures designed to reduce any adverse
+impacts. The proposed hotel will only require approximately 12 acres of the 65-acre
+property. As indicated on the applicant's proposed site plan, the hotel will be located
+toward the center of the parcel, away from surrounding adjacent uses, which will
+create buffers that will minimize external impacts. The Board is also imposing
+conditions of approval that will reduce potential impacts. The adjacent Timmons
+Quarry property to the northwest is being purchased by the developer of the proposed
+hotel, and the Board is attaching a condition of approval requiring that the site will no
+longer be used as a quarry. Property to the north is forested, but is not being managed
+for commercial forestry purposes. There are vineyards and wineries adjacent to the
+property on the south and west, and a bed and breakfast called Wine Country Farms is
+located to the southwest, across Breyman Orchards Road. The Board is attaching a
+condition of approval stating that it is not the responsibility of adjacent agricultural
+
+Ordinance 790                                 ial                                           8/15/06
+                                                                                     Film 91
+                                                                                      0175
+
+operators to modify their existing accepted practices to accommodate the hotel and/or
+its guests.
+
+        Regarding the compatibility of the proposed hotel with adjacent agricultural
+uses, the Board finds that the applicants’ proposed wine country hotel is targeted at a
+specific demographic of relatively more affluent "core" wine consumers, who are the
+most likely wine country tourists. As explained in the ECONorthwest analysis and
+materials cited therein, these more affluent tourists seek small hotels and resorts,
+which offer more privacy and a wider array of services and amenities, rather than bed
+and breakfast-type accommodations. In fact, according to the profile prepared for the
+Washington State Business and Tourism Office titled "Washington Wine Country
+Visitor Profile 2003," wine country tourists prefer hotels over B&Bs by a ten-to-one
+ratio. The specific demographic characteristics of wine country tourists and the types
+of accommodations and amenities they seek are addressed in detail in the April 24,
+2006 ECONorthwest analysis at pages 2-4. For such tourists, a vacation to wine
+country is typically an opportunity to get away from stressful jobs and noisy urban
+environments, and seek refuge in a quiet, relaxing, upscale environment where they
+can enjoy fine wines and food, and also pursue their interest in wine by visiting
+wineries with tasting rooms and related facilities.
+
+        As documented in the applicants’ submittals and elsewhere in these findings,
+the identified wine country tourists are seeking resort-hotel types of accommodations
+that include characteristics similar to a private country estate and also provide a
+complete wine country experience, including a setting among vineyards. and proximity.
+to wineries with vineyards and tasting rooms. The Board finds that guests using the
+hotel will expect to share the environment and atmosphere of the vineyards and wine
+country, and that agricultural practices associated with wine production will be
+accepted, and even welcomed, as part of the overall wine country experience. Guests
+in the targeted demographic will understand the wine industry, and will expect and
+accept the necessary agricultural practices associated with growing and harvesting
+grapes, which practices will actually enhance their overall wine country experience.
+
+          On this point, the Board also relies upon evidence submitted into the record on
+May 25, 2006 by Tim Harmon of Auberge du Soleil, which is one of the Napa Valley
+hotels the applicants’ proposal is modeled after. Auberge du Soleil is located
+immediately adjacent to the vineyards of Rutherford Ranch and Rutherford Hill, As
+stated by Mr. Harmon in his letter:
+
+          "I understand that several opponents of the project have argued that the
+          proposed hotel would be inherently incompatible with agricultural
+          practices on nearby vineyards, because the guests will be bothered by
+
+Ordinance 790                                 -                                           8/15/06
+                                                                                      Film 91
+                                                                                       0176
+
+          noise and activities required for those operations. However, guests at a
+          hotel of this type are typically looking for a legitimate wine country
+          experience, and to the extent there are agricultural activities going on,
+          for example, at the adjacent vineyards of Domaine Drouhin Oregon, it is
+          my experience that such activities will only enhance the experience of
+          the guests. For example, the Auberge du Soleil is directly adjacent to
+          two wineries, Rutherford Ranch and Rutherford Hill. The relationship
+          is mutually beneficial: we provide a place for their guests to stay and
+          we feature their wines at our restaurant while they provide our guests
+          with a nearby wine country experience."
+
+          The Board also relies on correspondence submitted on June 19, 2006 by the
+General Manager of Rutherford Ranch Winery, which explains that since 1985
+Auberge du Soleil has been operating immediately adjacent to Rutherford Ranch, and
+since that time there have been no conflicts between the hotel and winery operations,
+and that “it has been our experience that guests at a hotel of this type are specifically
+seeking the opportunity to interact with the wine country atmosphere, and the
+proximity to our winery and vineyards only serve to enhance that experience."
+
+        Several opponents have generally raised the possibility of conflicts between the
+hotel and agricultural practices, citing in particular noise cannons that are used in
+some vineyard operations to scare birds away from the vines. The Board notes that
+there has been no evidence put into the record regarding whether Domaine Drouhin or
+other nearby.vineyard owners actually use noise cannons on their-property, and
+therefore these alleged concerns are purely speculative. The Board also notes that, if
+such noise cannons are actually used on property near the proposed hotel, those
+devices are typically used only during relatively short periods of the year near harvest,
+and in any event do not create an inherent incompatibility with the hotel.
+
+       Regarding potential impacts from traffic, access to the site will be from the
+south on Breyman Orchards Road. As concluded in the TIA prepared by Lancaster
+Engineering, the proposed hotel will generate only approximately 44 trips during the
+peak hour on Saturday, and there are no resulting capacity issues on Breyman
+Orchards Road. The Board finds that traffic generated by the proposed hotel will be
+compatible with other uses to the south and west.
+
+        The Board finds that the proposed urban development on the subject property
+will have no impact on the ability of existing cities and service districts to provide
+services. Also, for the reasons stated above and in the materials adopted and
+incorporated as part of these findings, the Board finds that continued resource
+management of nearby land will not be affected by the proposed hotel. The proposed
+
+Ordinance 790                                  oad                                       8/15/08
+                                                                                      Film 91
+                                                                                        0177
+
+  map amendment and exceptions only apply to approximately 12 acres of the 65-acre
+. site, and there will be significant buffers between the hotel and adjacent agricultural
+uses. The nature of the proposed use is very low-impact with regard to adjacent uses,
+and will be sensitive to the needs of nearby vineyards due to the interests of the
+clientele, who are specifically seeking a "wine country" vacation. Also, as noted
+above, the Board is imposing a condition of approval requiring that it is not the
+responsibility of adjacent agricultural operators to modify their existing accepted
+practices to accommodate the hotel and/or its guests. In response to concerns raised
+by one of the opponents, hotel guests will obviously not be permitted to trespass onto
+any adjacent vineyard properties.                                              ,
+           (d)    That an appropriate level of public facilities and services are
+                  likely to be provided in a timely and efficient manner.
+
+           The applicants have established that any necessary public services are
+available. Water and waste treatment systems will be provided through private
+systems. The applicants have submitted substantial evidence in the form of testimony
+from Newton Consultants, Inc. regarding the feasibility of providing water and from
+Environmental Management Systems regarding the feasibility of on-site wastewater
+treatment at the site. The Board finds that testimony from water consultants Newton
+Consultants, Inc. supports a finding that it is feasible to provide appropriate levels of
+water for the proposed use in a timely and efficient manner. The Board adopts this
+finding of feasibility based on all of the oral testimony provided at the hearings by
+Newton Consulting representatives, as well.as.the written. submittals in-the record.
+from Newton Consulting dated April 20, 2006 and May 25, 2006. The Board is
+attaching conditions of approval requiring that the applicant must obtain a water right
+that can provide adequate water for the hotel within three years after any appeals of
+this decision are resolved; in the event such water right is not obtained, the applicants
+shall be required to initiate necessary map amendments to return the property to EFU
+zoning. The Board also finds that any other necessary public facilities and services,
+including fire protection, can also be readily provided.
+
+       The Board finds that OAR 660-014-0040(3)(e) is not applicable, because no
+urban growth boundary or establishment of a new city is proposed.
+
+          Cc.     OAR 660-004-0020(4) — Reasons Justifying the Exceptions
+
+        As explained above, the Board finds that by demonstrating compliance with the
+criteria of OAR Chapter 660, Division 14, the applicants have satisfied all applicable
+requirements and provided the necessary reasons to support approval of the requested
+exceptions to Goals 3, 4 and 14 under the provisions of the rules and LUBA's opinions
+
+ Ordinance 790                                  -                                       8/15/86
+                                                                                    Film 91
+                                                                                      0178
+
+in Caine and DLCD v. Umatilla County. However, in the event that LUBA elects to
+reverse its earlier decisions and conclude that the Division 4 rules must also be applied
+for purposes of obtaining exceptions to Goals 3 and 4, the Board includes the
+following findings.
+
+        OAR 660-004-0020(4) and Goal 2, Part II(c) establish 4 factors to be addressed
+when taking a "reasons" exception to a Statewide Planning Goal. Those factors and
+related findings are set out below. The Board also adopts and incorporates by
+reference the reasons set forth in its findings in Section IX.B above regarding the
+Division 14 rules as part of its findings addressing the Division 4 rules.
+
+          (a)   Reasons justify why the state policy embodied in the applicable
+                goals should not apply. The exception shall set forth the facts
+                and assumptions used as the basis for determining that a state
+                policy embodied in a goal should not apply to specific properties
+                or situations including the amount of land for the use being
+                planned and why the use requires a location on resource land.
+
+        The state policy contained in Goals 3 and 4 provide for the protection of
+agricultural and forested lands. Nevertheless, the Board finds that the specific
+locational requirements for a hotel of this type, as described in Section [X.B of these
+findings, do not provide the opportunity to site the hotel within an existing exception
+area or within an urban growth boundary. The proposal will further the economic
+development of Yamhill County, and will specifically bolster the county's burgeoning
+wine industry. The proposed hotel will also encourage the use of locally produced
+products and will generate new employment opportunities. The requested exception
+affects only approximately 12 acres of the 65-acre site, and that land has not been used
+for agricultural production in at least 10 years. The high elevation of the property
+precludes commercial vineyard uses. The proposed exception will not take any land
+that is currently in agricultural use out of production.
+
+        As explained in the economic analysis and supplemental materials prepared by
+ECONorthwest, despite the fact that Oregon (and Yamhill County in particular), is the
+home to many internationally known wineries that produce world-class wines, Oregon
+lacks a full-service "destination" hotel in the wine country area of the type found in —
+Napa Valley, such as Meadowood, Auberge du Soleil and Calistoga Ranch. The
+proposed hotel will generate significant economic benefits to the County. At present,
+wine country tourists who decide to visit Yamhill County on a vacation are far more
+likely to stay in Portland than in Yamhill County, and must make at least a 60-mile
+round trip drive in order to visit wineries. In addition to depriving Yamhill County of
+tourist-related income, this situation also results in higher vehicle miles traveled and
+
+Ordinance 790                                a                                         8/15/06
+                                                                                  Film 91
+                                                                                   0179
+
+carbon emissions. As stated in the ECONorthwest study, "millions of potential
+tourism dollars are likely going unspent in Yamhill County because Oregon's wine
+country is inconvenient and does not have adequate accommodations for wine country
+tourists."
+
+          The applicants’ proposed wine country hotel is targeted at a specific
+demographic of relatively more affluent "core" wine consumers, who are the most
+likely wine country tourists. As explained in the ECONorthwest analysis and
+materials cited therein, these more affluent tourists seek small hotels and resorts,
+which offer more privacy and a wider array of services and amenities, rather than bed
+and breakfast-type accommodations. In fact, according to the profile prepared for the
+Washington State Business and Tourism Office titled "Washington Wine Country
+Visitor Profile 2003," wine country tourists prefer hotels over B&Bs by a ten-to-one
+ratio. The specific demographic characteristics of wine country tourists and the types
+of accommodations and amenities they seek are addressed in detail in the April 24,
+2006 ECONorthwest analysis at pages 2-4. For such tourists, a vacation to wine
+country is typically an opportunity to get away from stressful jobs and noisy urban
+environments, and seek refuge in a quiet, relaxing, upscale environment where they
+can enjoy fine wines and food, and also pursue their interest in wine by visiting
+wineries with tasting rooms and related facilities. Wine country tourists are currently
+well-served by Napa Valley hotels such as Auberge du Soleil, Meadowood and
+Calistoga Ranch, which provide this type of wine country experience in a quiet rural
+atmosphere among vineyards and near wineries.
+
+      The type of hote! accommodations required to meet the needs of the identified
+wine country tourists include characteristics similar to a private country estate that will
+also provide a complete wine country experience, including a rural setting among
+vineyards and proximity to wineries with tasting rooms. The proposed hotel is
+entirely dependent upon critical locational factors, including proximity to wineries
+with on-site tasting rooms, vineyards, and other wine tourism opportunities, relative
+seclusion resulting from distance from major highways and population centers, and an
+idyllic rural setting with expansive views of the surrounding countryside and nearby
+vineyards. These locational requirements, together with the identified need for a hotel
+of this kind in Yamhill County, the county's need to expand and diversify its economy
+and promote its growing wine industry, and other reasons contained in the materials
+submitted by the applicants and addressed in these findings, provide the reasons that
+justify the exceptions to Goals 3, 4 and 14 to allow siting of the proposed wine
+country hotel. Also, the Board finds that the subject property has not been in © = >
+commercial agricultural use for at least 10 years, in part because elevations on the site
+are too high for quality grape production, that the current property owners have been
+unable to sell the property for agricultural purposes, and that the property is not in
+
+Ordinance 790                                 ad                                            8/15/06
+                                                                                        Film 91
+                                                                                         0180
+
+farm or forest tax deferral. Therefore, the removal of this 12 acres of land from
+agricultural zoning will not have any discernable impact on the county's agricultural
+economy.
+
+        Reasons supporting the development of the proposed hotel are set forth in the
+applicants’ materials, including the analysis provided by ECONorthwest. The Board
+expressly adopts and incorporates as part of its findings the following materials
+submitted by the applicants: (1) the application narrative dated April 24, 2006; (2) the
+ECONorthwest analysis titled "Characteristics of a Luxury Wine Country Hotel in
+Yamhill County, Oregon," dated April 24, 2006; (3) the alternatives analysis
+submitted by the applicants dated April 24, 2006; (4) correspondence provided by Dr.
+Eric Fruits of ECONorthwest dated May 17, 2006, May 25, 2006 and June 19, 2006,
+together with all attachments; (5) correspondence from Perkins Coie dated May 18,
+2006, together with its five attachments; and (6) correspondence from Perkins Coie
+dated June 19, 2006, together with its six attachments. To the extent there is any
+discrepancy between the above-referenced materials adopted by the Board and these
+findings, the express findings of the Board shall govern.
+
+          The Board finds that this application provides Yamhill County with a
+significant and timely opportunity for economic development and a major boost to the
+county's wine industry in general, and the wine tourism industry in particular; these
+economic advantages to the county outweigh the countervailing loss of a mere 12
+acres of EFU-zoned land that is not viable for agricultural production and has not been
+in agricultural production for at least ten years... The Board finds that the policies
+embedded in Goal 3 and Goal 4 regarding protection of farm and forest land should
+not apply to this proposed development, because it is a locationally dependent use that
+can only be sited in a rural setting, outside of urban growth boundaries. This
+locationally dependent use requires a minimum of 35 acres in an idyllic rural setting in
+Yamhill County's wine country, but away from major highways, with expansive views
+of the surrounding countryside and adjacent vineyards.
+
+          (6)   — Areas which do not require an exception cannot reasonably
+                  accommodate the use.
+
+          This portion of the rule requires consideration of possible alternative locations
+for the use that would not require a new exception; in other words, existing exception
+areas or other locations inside an existing UGB. The rule provides that "economic
+factors can be considered along with other relevant factors in determining that the use
+cannot reasonably be accommodated in other areas." Regarding the required scope of
+the alternatives analysis, OAR 660-004-0020(2)(b)(C) provides as follows:
+
+Ordinance 790                                  -                                        8/15/06
+                                                                                      Film 91
+                                                                                          0181
+
+          "Initially, a local government adopting an exception need assess only
+          whether those similar types of areas in the vicinity could not reasonably
+          accommodate the proposed use. Site specific comparisons are not
+          required of a local government taking an exception, unless another party
+          to the local proceeding can describe why there are specific sites that can
+          more reasonably accommodate the proposed use. A detailed evaluation
+          of specific alternative sites is thus not required unless such sites are
+          specifically described with facts to support the assertion that the sites are
+          more reasonable by another party during the local exceptions
+          proceeding."
+
+        Based on the requirements of this rule, the applicants prepared an alternatives
+analysis dated April 24, 2006, which provides a broad review of similar types of areas
+ranging from urban areas to exception areas, and applies certain specific locational
+and site-related criteria as part of the analysis. The alternatives analysis includes an
+attached table and maps that identify certain general and specific areas that were
+considered as part of the applicants’ review, and applies the wine country hotel siting
+criteria to those areas, concluding that none of those areas could reasonably
+accommodate the proposed use. The Board expressly adopts and incorporates the
+applicants’ alternatives analysis dated April 24, 2006 and the attached table and maps
+as part of the Board's findings under this criterion.
+
+        As required by the above-quoted portion of OAR 660-004-0040(2)(b)(C),
+where opponents of the project identified specific alternative sites with sufficient facts
+to support their assertion that those sites are more reasonable, the applicants provided
+a more detailed site-specific analysis. In addition to the April 24, 2006 alternatives
+analysis, the applicants provided responses regarding specific alternative sites in the
+ECONorthwest analysis titled "Characteristics of a Luxury Wine Country Hotel in
+Yamhill County, Oregon," dated Aprii 24, 2006, and correspondence from Perkins
+Coie dated May 18, 2006 and June 19, 2006. The Board expressly adopts and
+incorporates these documents, as well as the attached. maps and other documents, as
+part of the Board's findings. To the extent there is any discrepancy between the
+above-referenced materials adopted by the Board and these findings, the express
+findings of the Board shall govern.
+
+        The geographic area for the applicants' alternatives analysis includes lands east
+of Newberg to west of McMinnville, and south to Dayton and north to Yamhill. Land
+categories within this area were evaluated against specific siting criteria for the wine
+country hotel in order of the urbanization hierarchy: inside urban growth boundaries,
+in county-zoned Recreational Commercial lands, and exception areas. This analysis
+of alternative sites satisfies the underlying questions that must be addressed when
+
+Ordinance 790                                   -                                           8/15/06
+                                                                                Film 94
+                                                                                 0182
+
+concluding that "areas which do not require a new exception cannot reasonably
+accommodate the use." As required by OAR 660-004-0020 Goal 2, Part IIc),
+Exception Requirements (2)(b)(B)(i-iii), these questions are:
+
+          (1)     Can the proposed use be reasonably accommodated on nonresource
+                  land that would not require an exception, including increasing the
+                  density of uses on nonresource land?
+
+          (ii)    Can the proposed use be reasonably accommodated on resource land
+                  that is already irrevocably committed to nonresource uses?
+
+          (iti)   Can the proposed use be reasonably accommodated inside an urban
+                  growth boundary?
+
+        The Board finds that a wine country hotel is a distinct type of lodging product
+that has distinct site-related characteristics. This finding is based on evidence in the
+record established by the ECONorthwest study entitled "Characteristics of a Luxury
+Wine Country Hotel in Yamhill County, Oregon," together with other evidence in the
+record including but not limited to the applicants’ analyses of the site characteristics of
+Auberge du Soleil, Meadowood and Calistoga Ranch in Napa Valley, supplemental
+memoranda from ECONorthwest and the testimony of Tim Harmon of Auberge.
+Generally, lodging is dependent upon visibility from and easy access to highways as
+well as proximity to businesses. However, wine country hotels require more isolated
+rural settings that foster a feeling of seclusion and relaxation. As documented in the
+ECONorthwest study and other evidence in the record, the market for a wine country
+hotel consists of "core" wine consumers who seek accommodations within wine
+country that are sophisticated, private and luxurious. Furthermore, inherent in the
+definition of a wine country hotel is its setting within "wine country"; that is, a
+location among the very vineyards and wineries without which the wine country hotel
+would have no basis. In the same manner as a beach hotel must be located on or near
+the beach, a wine country hotel must be located in the midst of wine country.
+
+        Based upon the distinct and necessary characteristics of wine country hotels,
+the applicants applied a set of specific locational criteria for evaluation of the
+alternative areas within the lands hierarchy. These include: (1) a minimum site size
+of 35 acres set among or adjacent to vineyards; (2) maximum 20-minute travel time
+from the highest concentration of vineyards and wineries with tourist amenities in
+Yamhill County; and (3) accessible to improved local and regional transportation
+facilities while not being negatively affected by traffic noise or view of these
+facilities.
+
+Ordinance 790                                ia                                           8/15/06
+                                                                                     Film 91
+                                                                                      0183
+
+        Consistent with the facilities and amenities found in other wine country hotels
+such as Auberge du Soleil in Napa Valley, OTAK, Inc. submitted a conceptual
+development program and site plan for a wine country hotel that requires a minimum
+of 35 acres. This provides for the necessary acreage for the footprint of the facilities
+and the accessory estate-like setting and amenities. The second part of this criterion
+requires that the site be located among or adjacent to vineyards. Because a wine
+country hotel is wholly dependent upon its location among vineyards and wineries,
+this is a fundamental siting criterion that, by definition, must be met.
+
+        As provided in the ECONorthwest study and the applicants' alternatives
+analysis, close proximity to wineries is defined as being within a maximum 20-minute
+drive time. Accordingly, all areas within the land hierarchy were evaluated for drive
+time to a central point within the greatest concentration of wineries in Yamhill
+County, which is that area located between Dundee and Lafayette north of Highway
+99W. This area was identified as the most suitable subarea for a wine country hotel
+within the overall alternatives analysis area for two reasons.
+
+       First, as shown on the area maps attached to the applicants' April 24, 2006 and
+May 18, 2006 submittals, this area contains the greatest concentrationof wineries in
+Yamhill County: approximately 22 wineries, including 12 with tasting rooms. No
+other subarea in the county contains as many wineries in such close proximity to each
+other. This cluster provides a critical mass of winery tourist facilities that, in turn,
+creates the most viable market for a wine country hotel. As such, it is that area to
+which the siting.of a wine country hotel is most-reasonably focused.
+
+       Second, the geographic setting of these wineries and tasting rooms is
+predominantly the rustic, vineyard setting that patrons of a wine country hotel seek in
+their overall wine tourism experience.    Therefore, this subarea location is the most
+congruent with the needs of the core wine market.
+
+        Access to a wine country hotel must balance the competing needs of
+accessibility to regional and local facilities, while not suffering from the negative
+effects of these, such as noise and unattractive views.   In Yamhill County’s wine
+country, the vast majority of wine tourists, and consequently future patrons of a wine
+country hotel, approach this area from the east along Highway 99W. Accordingly,
+alternative sites within proximity to Highway 99W are the most reasonable for the
+siting of the wine country hotel, which is key for the success of a wine country hotel in
+addition to the environmental benefits conveyed by not increasing vehicle miles
+traveled. Local facilities should be improved or, if not improved, limited to short
+distances that do not impede travel to a luxury wine country hotel. Accessibility must
+be tempered by the need to limit exposure to the negative impacts of transportation
+
+Ordinance 790                                 ta                                           8/15/08
+                                                                                          Film 91
+                                                                                            0184
+
+ facilities. Therefore, sites must be located out of visual and audible distances of
+ transportation facilities as a means to preserve the fundamental bucolic setting of a
+ wine country hotel.
+
+           The table attached to the applicants’ alternatives analysis contains the detailed
+ analysis in which the wine country hotel siting criteria were applied generally to the
+ lands in the study area. Based on this analysis, the Board finds that there are no
+ alternative sites within the area that can "reasonably accommodate" the wine country
+ hotel.
+
+           Regarding other specific sites identified by opponents of the project, the
+ applicants provided responses to the extent that those sites were identified with
+ sufficiently specific facts to support a claim that those areas could accommodate the
+ proposed hotel. For example, in correspondence dated March 2, 2006, 1000 Friends
+ of Oregon generally identified the entire Newberg urban reserve area, which
+ comprises over 400 acres of land adjacent to the existing urban growth boundary. By
+ generally identifying over 400 acres of land, 1000 Friends of Oregon did not identify
+ any particular "site" with sufficiently specific facts to support the assertion that those
+ locations are more reasonable. Similarly, the March 2, 2006 1000 Friends of Oregon
+ correspondence also references several other large areas such as the "Southwest
+ Dundee Exception Area," the "Red Hills Road Exception Area," and the "Dundee
+ Riverside" without providing the requisite description of specific alternative sites with
+ facts to support their claim that those areas could reasonably accommodate the
+ proposed. hotel... The Board finds that .these-sites. were-not identified with sufficient
+ specificity by 1000 Friends to require detailed responses from the applicants or to
+ allow the Board to make site-specific findings regarding whether they could
+- reasonably accommodate the proposed use.
+
+         The same deficiencies exist regarding all 23 sites identified in correspondence
+ from Kathy Miller dated May 2, 2006. In that letter, Ms. Miller identifies 23
+ alternative sites by tax lot number and acreage, and generally states that those sites are
+ more reasonable because they are "not 94% high value farmland and can be accessed
+ by roads that are not sub-standard." However, the roads to the subject property are
+ also "not sub-standard," and Ms. Miller's general statements do not provide sufficient
+ facts on which the Board could find that the alternative sites are either more or less
+ reasonable than the subject property. The Board finds that these sites were not
+ identified with sufficient specificity by Ms. Miller to require detailed responses from
+ the applicants or to allow the Board to make site-specific findings regarding whether
+ they could reasonably accommodate the proposed use.
+
+ Ordinance 790                                  ~~                 .                      8/15/86
+                                                                                     Film 91
+                                                                                       0185
+
+          Nonetheless, in the event that LUBA finds that the opponents did specifically
+describe facts to support their assertions that the sites are more reasonable, the Board
+adopts the following findings regarding all of the specific alternative sites.
+
+          Dundee Riverside
+
+        As stated above, 1000 Friends of Oregon failed to provide a sufficiently
+detailed factual description of this area that would allow the Board to make site-
+specific findings regarding whether there are specific properties that could reasonably
+accommodate the proposed use. According to 1000 Friends of Oregon, this area
+consists of approximately 275 acres of land in the eastern portion of the City of
+Dundee between existing development and the Willamette River. The Board agrees
+with the applicants’ analysis that this area could not reasonably accommodate the
+proposed hotel for each of the following independent reasons: (a) as indicated by
+maps submitted into the record by the applicants, this area is directly in the path of the
+approved Newberg-Dundee bypass corridor, and would be either directly impacted by
+the construction of the bypass or would be rendered unsuitable for the proposed hotel
+due to the external impacts of the bypass, notably noise and view; (b) the area is
+within the UGB and is therefore designated to be developed at urban levels, which is
+not consistent with the specific locational criteria discussed above and in Section IX.B
+of these findings, which require a quiet rural setting; and (c) the area does not satisfy
+the wine country hotel siting criterion requiring a vineyard setting.
+
+          Newberg Urban Reserve Areas
+
+          As stated above, 1000 Friends of Oregon failed to provide a sufficiently
+detailed factual description of this area that would allow the Board to make site-
+specific findings regarding whether there are specific properties that could reasonably
+accommodate the proposed use. These areas total over 400 acres and are located to
+the north/east, south and west of the City of Newberg. The Board adopts and
+incorporates the analysis set forth in the table attached to the applicants alternatives
+analysis regarding these areas. Like the Dundee Riverside area addressed above, the
+south Newberg urban reserve area is directly in the path of the approved Newberg-
+Dundee bypass corridor, and is therefore unsuitable for the same reasons. Regarding
+the north and east urban reserve areas, the Board finds that these areas have been
+specifically identified as a high priority for future expansion of the Newberg UGB and
+future urban development, which is not consistent with the specific locational criteria
+discussed above and in Section IX.B of these findings that require a quiet rural setting;
+also, the areas to the north and east do not satisfy the wine country hotel siting
+criterion requiring a vineyard setting and also have relatively poor access to Highway
+99W. Regarding the west Newberg urban reserve area, it does not appear that 1000
+
+Ordinance 790   .                             -                                        8/15/86
+                                                                                          Film 94
+                                                                                           0186
+
+Friends of Oregon have actually identified this area as a potential alternative site,
+because their March 2, 2006 letter only identifies the former Urban Reserve Areas A-
+D, and does not include areas E and F, which are to the west.      Because this western
+area was not specifically identified by project opponents, the Board has no basis on
+which to make specific findings regarding the relative reasonableness of that area,
+except to adopt the analysis provided in the table attached to the applicants’
+alternatives analysis.
+
+          Austin Property
+
+          This property includes commercially zoned land within the City of Newberg
+near the railroad tracks. The Board finds that the property is within the UGB and is
+therefore designated to be developed at urban levels, which is not consistent with the
+specific locational criteria discussed above and in Section [X.B of these findings,
+which require a quiet rural setting. Specifically, the property is located in a busy
+commercial and industrial area near the railroad tracks, which would preclude
+successful development of the specific type of luxury wine country hotel being
+proposed. Also, the property does not satisfy the siting criterion requiring a vineyard
+setting. Finally, the Board notes that evidence in the record indicates that the Austin
+property is already being developed for another hotel use, and the property would
+therefore not be available for use by the applicants in any event.
+
+          Springbook Oaks
+
+          This is an area located in the eastern portion of the City of Newberg that is
+planned and designated as a live-work environment, with mixed residential and light
+industrial and office development. The Board finds that, based on evidence placed in
+the record by the applicants received from Newberg planning staff, most of the area
+described in the 1000 Friends of Oregon letter has already been developed in the
+manner planned by the city and therefore could not reasonably accommodate the
+proposed hotel. This evidence has not been disputed by any of the opponents in their
+subsequent evidentiary submittals. The Board further finds that for the same reasons
+expressed above regarding other urban sites identified by opponents, the urban
+location would preclude successful development of the specific type of luxury wine
+country hotel being proposed.
+
+          Red Hills Road Exception Area
+
+        As stated above, 1000 Friends of Oregon failed to provide a sufficiently
+detailed factual description of this area that would allow the Board to make site-
+specific findings regarding whether there are specific properties that could reasonably
+accommodate the proposed use. The area is simply described by 1000 Friends in their
+
+Ordinance 790                                  —                                          8/15/06
+                                                                                  Film 91
+                                                                                   0187
+
+March 2, 2006 letter as a 164-acre exception area in a rural setting within a 20-minute
+drive of "many wineries," concluding with the erroneous statement that "Red Hills
+Road provides access to the heart of wine country." However, the applicants provided
+a significantly more detailed analysis of this exception area in correspondence from
+Perkins Coie dated June 19, 2006, which explains that this location could not
+reasonably accommodate the proposed hotel based on the criteria applied in the
+alternatives analysis and other obvious shortcomings. The area is heavily parcelized,
+consisting primarily of parcels between three and seven acres. It is not located in a
+vineyard setting; rather, this exception area is primarily characterized by existing rural
+residential uses on smaller parcels. The property does not have a suitable view, and is
+not in sufficiently close proximity to the concentration of wineries identified by the
+applicant. Access to the heart of wine country from this area is indirect, and would
+need to be via Highway 240 to the north, because Red Hills Road is an unimproved
+gtavel road to the south. This evidence was not disputed by any of the opponents
+during the subsequent open record period, and therefore the Board accepts the
+evidence submitted by the applicants and rejects this as a viable alternative site.
+
+          Southwest Dundee Exception Area
+
+        As stated above, 1000 Friends of Oregon failed to provide a sufficiently
+detailed factual description of this area that would allow the Board to make site-
+specific findings regarding whether there are specific properties that could reasonably
+accommodate the proposed use. In fact, evidence submitted by the applicants in the
+ECONorthwest analysis. dated. April. 24, 2006 indicates that according to Dundee
+planning staff there is no exception area to the southwest of Dundee. In subsequent
+letters to the county that include specific responses to the ECONorthwest analysis,
+1000 Friends of Oregon has failed to provide any further statements or evidence
+regarding the existence of a "southwest Dundee exception area" or its relative
+suitability for the proposed use. Therefore, the Board accepts the evidence submitted
+by the applicants and rejects this as a viable alternative site.
+
+          Flying M Ranch
+
+          As indicated on the area maps attached to the applicants' April 24, 2006 and
+May 18, 2006 submittals, the Flying M Ranch is located a significant distance from
+the wine country area, in the far northwest portion of the maps. The Flying M Ranch
+is accessed by dirt and gravel roads and is an approximately 55-minute drive from the
+concentration of wineries in Yamhill County that were considered by the applicants.
+The Board notes that the 1988 INTRA study also specifically rejected the Flying M
+Ranch for further consideration as a potential resort site for the same reason,
+concluding that "the Flying M Ranch is a destination in its own right for residents and
+
+Ordinance 790                                 7                                          8/15/66
+                                                                                      Film 94
+                                                                                        0188
+
+visitors alike. However, its distance from the 99W/18 corridor makes it an unlikely
+base for visitors touring the Wine Country." (INTRA Study, page 4-17). Also, the
+Board concurs with the applicants' conclusion that the site does not provide the
+necessary vineyard setting or views required for the proposed hotel.
+
+          Riverwood Golf Course
+
+        Although this site was formerly zoned Recreation Commercial, it has been
+recently rezoned EFU and converted from a golf course to a filbert orchard. The
+Board finds that this property is not properly considered as part of the alternatives
+analysis under OAR 660-004-0020 for this reason. Also, separately and
+independently, the Board finds that because of the recent conversion to farm use, the
+property is not available for use as a hotel. Finally, the Board agrees with the
+statements in the applicants' alternatives analysis regarding the fact that the property
+does not provide the necessary vineyard setting or views required for the proposed
+hotel, and therefore could not reasonably accommodate the proposed use.
+
+          Miller Sites P,   Q and R
+
+        As stated above, Kathy Miller in her correspondence dated May 2, 2006 failed
+to provide a sufficiently detailed factual description of this area that would allow the
+Board to make site-specific findings regarding whether these properties could
+reasonably accommodate the proposed use. Nonetheless, as indicated on the maps
+attached to the applicants' May 18, 2006 submittal, many of the sites identified by Ms.
+Miller, including sites P, Q and R, are located north and west of Willamina,
+approximately one hour away from the heart of wine country. These properties are too
+far down Highway 99W, requiring significantly further travel from Portland and the
+county's wineries. Therefore, for the reasons stated in the applicants’ alternatives -
+analysis and correspondence from Perkins Coie dated May 18, 2006, the Board finds
+that these sites are too remote to reasonably accommodate the proposed hotel.
+
+          Miller Site A-6
+
+          As stated above, Ms. Miller in her correspondence dated May 2, 2006 failed to
+provide a sufficiently detailed factual description of this area that would allow the
+Board to make site-specific findings regatding whether this property could reasonably
+accommodate the proposed use. In contrast, in correspondence from Perkins Coie
+dated June 19, 2006, the applicants submitted the following detailed evidence into the
+record, which was not challenged by Ms. Miller or other opponents: "This property is
+located south of Highway 240 and can only be.accessed via Highway 240 and a
+narrow private road from the east (Herring Lane). It is traversed on the north side by
+BPA power transmission lines and towers. It is not located among vineyards and has
+
+Ordinance 790                                “             .                         8/15/06
+                                                                                 Film 91
+                                                                                  0189
+
+no appreciable view. The property is located adjacent to a lama farm and other
+agricultural uses. Access to the property is poor and it is beyond the 20-minute
+minimum travel time to the concentration of wineries identified by the applicant in the
+alternatives analysis. The area is also characterized by rural residential development
+that would be inconsistent with the proposed use." The Board accepts the detailed and
+uncontroverted evidence submitted by the applicants and finds that this property could
+not reasonably accommodate the use.
+
+          Miller Site I
+
+       As stated above, Ms. Miller in her correspondence dated May 2, 2006 failed to
+provide a sufficiently detailed factual description of this area that would allow the
+Board to make site-specific findings regarding whether this property could reasonably
+accommodate the proposed use. In contrast, in correspondence from Perkins Coie
+dated June 19, 2006, the applicants submitted the following detailed evidence into the
+record, which was not challenged by Ms. Miller or other opponents: "This site is
+located about half a mile up a gravel road beyond Lemelson Vineyards, and is too
+distant from the concentration of wineries identified by the applicant to reasonably
+accommodate the proposed hotel. Also, the property is heavily forested, is not set
+among Vineyards, and has no view. The area is characterized by nearby agricultural
+uses and forest. The environmental consequences of locating the hotel on this site
+would be more adverse due to the need to remove a significant amount of trees for
+development of the hotel.” The Board accepts the detailed and uncontroverted
+evidence submitted by.the applicants regarding this site in both their April 24, 2006
+and May 18, 2006 submittals, and finds that because of the lack of a vineyard setting,
+lack of requisite views, and lack of proximity to the winery concentration and
+Highway 99W, this property could not reasonably accommodate the proposed hotel
+use.
+
+        As concluded in the applicants’ alternative sites analysis and supplemental
+materials, there are no other exception areas or areas within urban growth boundaries
+that are of sufficient size and location to reasonably accommodate this type of use.
+The use requires at least 35 acres of relatively secluded property in a rural wine
+country area, among vineyards and away from major highways, with expansive views
+of the countryside. The Board finds that the applicants have considered both :
+urbanized and unincorporated portions of Yamhill County, and correctly concluded
+that no other parcels in Yamhill County that would not require an exception could
+reasonably accommodate the proposed luxury wine country hotel.
+
+          (c)    The long-term environmental, economic, social and energy
+                 consequences resulting from the use of the proposed site with
+
+Ordinance 790                                 --                                     8/15/86
+                                                                                     Film 91
+                                                                                      0190
+
+                 measures designed to reduce adverse impacts are not
+                 significantly more adverse than would typically result from the
+                 same proposal being located in other areas requiring a goal
+                 exception. The exception shall describe the characteristics of
+                 each alternative area considered by the jurisdiction for which an
+                 exception might be taken, the typical advantages and
+                 disadvantages of using the area for use not allowed by the goal
+                 and the typical positive and negative consequences resulting from
+                 the use at the proposed site with measures designed to reduce
+                 adverse impacts.
+
+          The analysis required by this section of the rule is provided above in Section
+IX.B of these findings addressing OAR 660-014-0040(3)(b), and in the ESEE analysis
+and supplemental detailed site information submitted by the applicants in
+correspondence from Perkins Coie. The Board notes that all this rule requires is a
+determination that the ESEE consequences resulting from the proposed hotel "are not
+significantly more adverse" than would result from the hotel being placed in another
+undeveloped rural area that would also require an exception. This rule does not create
+a particularly high standard. For the same reasons set forth in Section [X.B of these
+findings, the Board finds that the long-term ESEE consequences resulting from
+developing the hotel on the proposed site are not significantly more adverse than
+would result from the hotel being placed in another undeveloped rural area that would
+also require a goal exception, particularly with the stated conditions of approval and
+other identified measures designed to reduce adverse impacts.
+
+          (d)    The proposed uses are compatible with other adjacent uses or
+                 will be rendered through measures designed to reduce adverse
+                 impacts.   The exception shall describe how the proposed use will
+                 be compatible with the adjacent land uses. The exception shall
+                 demonstrate that the proposed use is situated in such a manner
+                 as to be compatible with surrounding natural resources and
+                 resource management or production practices.
+
+        The analysis required by this section of the rule is provided above in Section
+[X.B of these findings addressing OAR 660-014-0040(3)(c). For the same reasons set
+forth in Section [X.B of these findings, the Board finds that the proposed uses are
+compatible with other adjacent uses, particularly with the stated conditions of
+approval and other identified measures designed to reduce adverse impacts. The
+proposed hotel will be situated on only approximately 12 acres of the 65-acre site, and
+will be buffered from adjacent agricultural uses by open space and vineyards that will
+be planted by the applicants.
+
+Ordinance 790                                 cad                                        8/15/66
+                                                                                    Film 94
+                                                                                     0191
+
+          D.    OAR 660-004-0022
+
+       This administrative rule supplements OAR 660-004-0020 by providing
+examples of the types of reasons that may be relied upon to justify an exception to
+Goal 3 or Goal 4 for certain types of uses.
+
+          (a)   For uses not specifically provided for in subsequent sections of
+                660-004 or 660-014 the reasons shall justify why the state Policy
+                embodied in the applicable goal should not apply. Such reasons
+                include but are not limited to the following:
+
+                (1)     There is a demonstrated need for the proposed use or
+                activity based on one or more of the requirements of Statewide
+                Goals 3 to 19; and either
+
+                (2)   | A resource upon which the proposed use or activity is
+                dependent can be reasonably obtained only if the proposed
+                exception site and the use or activity requires a location near
+                the resource. An exception based on this subsection must
+                include an analysis of the market area to be served by the
+                proposed use or activity and must demonstrate that the
+                proposed exception site is the only one within that market area
+                at which the resource depended upon can reasonably be
+                obtained; or
+
+                (3)     The proposed use or activity has special features or
+                qualities that necessitate its location on or near the proposed
+                exception site.
+
+       The express language of this section of the rules states that it does not apply
+where, as here, the requested exception contemplates uses provided for under the
+Division 14 rules.    As explained above in Section IX.A of these findings, the Board
+finds that OAR 660-004-0022 does not apply where an "urban" use is requested that
+requires application of the Goal 14 rule at OAR 660-014-0040. However, the Board
+adopts the following findings in the event that LUBA decides to re-interpret the rules
+and reverse its prior decisions on this issue.
+
+        The demonstrated need for this proposed use is established above in Section
+IX.B of these findings, which are incorporated here by reference. Under OAR 660-
+004-0022(1), one example of a reason that can be relied upon to establish the
+justification for an exception is that the exception will enable a local government to
+meet one or more of its planning obligations. Such obligations can be found in both
+
+Ordinance 790                                 --                                         8/15/06
+                                                                                    Film 91
+                                                                                      0192
+
+the Statewide Planning Goals and in the county's acknowledged comprehensive plan.
+The Board finds that in Yamhill County, the requested exceptions for the proposed
+hotel are necessary to allow a use that has been identified as an essential means by
+which the county can meet its requirements under Statewide Planning Goal 9,
+"Economic Development," and implementing policies of the Yamhill County
+Comprehensive Plan, in order to achieve the county's goals of diversification and
+stabilization of the local economy.
+
+        The Board finds that ORS 197.340(1) requires that local governments, DLCD
+and LCDC, "shall give the goals equal weight in any matter in which the goals are
+required to be applied." The Board finds this to mean that Goal 9 has as much weight
+as Goals 3, 4 or 14 in this proceeding. The Board finds, based on substantial evidence
+in the whole record, that the economic development potential of this application for
+the county outweighs any concerns regarding inconsistencies with Goals 3, 4 or 14.
+Specifically, the significant economic advantages associated with the proposed hotel
+outweigh concerns regarding the placement of an "urban" use on rural land, or the loss
+of 12 acres of EFU-zoned land that is not viable for agricultural production and has
+not been in agricultural production for at least ten years.
+
+          As explained in the economic analysis and supplemental materials prepared by
+ECONorthwest, despite the fact that Oregon (and Yamhill County in particular), is the
+home to many internationally known wineries that produce world-class wines, Oregon
+lacks a full-service "destination" hotel in the wine country area of the type found in
+Napa Valley, such as Meadowood, Auberge du Soleil and Calistoga Ranch... The
+proposed hotel will generate significant economic benefits to the County. At present,
+wine country tourists who decide to visit Yamhill County on a vacation are far more
+likely to stay in Portland than in Yamhill County, and must make at least a 60-mile
+round trip drive in order to visit wineries. In addition to depriving Yamhill County of
+tourist-related income, this situation also results in higher vehicle miles traveled and
+carbon emissions. As stated in the ECONorthwest study, "millions of potential
+tourism dollars are likely going unspent in Yamhill County because Oregon's wine
+country is inconvenient and does not have adequate accommodations for wine country
+tourists."
+
+        The need for a hotel of this type in the wine country of Yamhill County was
+recognized as early as 1988, when the INTRA study commissioned by Yamhill
+County identified a "pressing need" for a lodging and dining establishment like the
+proposed hotel designed to serve growing numbers of wine country tourists. That
+study indicates that even as long ago as 1988 Yamhill County was attempting to
+capitalize on the tourism benefits associated with its growing wine industry by
+encouraging economic development associated with wine tasting and wine country
+
+Ordinance 790                               -                                          8/15/66
+                                                                                   Film 91
+                                                                                    0193
+
+tourism. The study found that "the secret to establishing Yamhill County as the wine-
+tasting capital of Oregon is the creation of attractive, visitor-oriented facilities."
+(INTRA Study, page 4-11). The study noted that "as the local wine industry gains
+momentum and as wine tasting in Yamhill County becomes a form of recreation, there
+will be a pressing need for additional overnight accommodations and dining
+opportunities in the County." (INTRA Study, page 2-2). The study also found that
+"there is a growing need for additional facilities to serve the small meeting and
+conference market." (INTRA Study, page 4-20). The study concluded that the
+county's wine industry was a significant tourism amenity and that the county should
+attempt to meet the identified needs and economic opportunities presented by the
+growth of the wine industry by locating a small destination resort in the wine country
+area. One of the locations identified for the proposed resort was the Red Hills of
+Dundee, where the subject property is located. (INTRA Study, page 6-1).
+
+      The Board finds that the needs and economic opportunities identified by the
+1988 study have still gone largely unmet. Although there has certainly been a
+proliferation of bed and breakfast establishments in the wine country area, there has
+been no development similar to the "destination" wine country hotel that was proposed
+in 1988. As discussed in more detail below, a hotel of this type will fill a particular
+niche of overnight accommodation need that has never been met by Yarnhill County,
+which is the reason why so many visitors to Yamhill County's world-class wineries
+only make day trips to the county, staying at nicer hotels in Portland instead. As stated
+in the testimony of Tim Harmon of Auberge du Soleil, and repeated by Commissioner
+Stern during deliberations, "Yamhill-County wines-are known as some of the finest
+wines in the world, and they deserve a world class resort that compliments and
+supports them." Additional testimony regarding the need for a hotel of this type is
+discussed above in Section [X.B of these findings, and in the ECONorthwest analysis
+dated April 24, 2006 and supplemental correspondence from ECONorthwest that has
+been adopted and incorporated by the Board.
+
+         The Board finds that there is an identified and unmet need for a hotel of this
+type in order for the county to meet its obligations under Goal 9 to provide
+opportunities for economic activities vital to the health, welfare and prosperity of its
+citizens. The need for this hotel is also supported by Yamhill County Comprehensive
+Plan Section 1.F, which relates to Economic Development and recognizes that
+economic diversification “results in a stronger, more stable local economy by
+increasing employment opportunities." The Economic Development Plan provisions
+require the county to “maintain a rate and pattern of economic growth sufficient to
+prevent recurring high levels of unemployment and under-employment in the county,
+balance the real property tax base of the various cities, and strengthen local economic
+bases." The Board finds that the Plan identifies a need to diversify the economy,
+
+                                                                                                 Yr
+
+Ordinance 790                               -                                          8/15/G8
+                                                                                    Film 94
+                                                                                     0194
+
+encourage economic growth and strengthen local economic bases. The proposed hotel
+responds to that need by furthering economic activity within the wine industry,
+stimulating additional tourism in Yamhill County, and strengthening the local
+economic base and the county's tax base. The proposed hotel will provide the county
+with an important vehicle, not otherwise available, to meet the identified economic
+needs and goals by providing diversification and strengthening the local economy.
+
+          Evidence provided by ECONorthwest indicates that the proposed hotel will
+provide seasonal employment for a minimum of 50 employees using an approximate
+average of one staff person to support each hotel room. In addition, the hotel is
+intended to support convention and meeting facilities as well as banquet rooms for
+private events such as weddings in the off season. The proposed hotel is expected to
+facilitate sale and consumption of wines produced at local wineries and will also
+facilitate and extend the name recognition of Yamhill County wineries stimulating
+sales in other national and international markets. The Board finds that in other wine-
+producing areas such as Napa Valley, California, wine country hotels also support
+sightseeing, shopping in local shops and art galleries, antiquing, and dining at
+restaurants in nearby areas. Consequently, the proposed hotel will have a positive
+economic impact on nearby commercial and retail establishments. Also, the hotel will
+provide additional employment, which will make more money available in Yamhill
+County for commercial transactions generally, and will also increase the county's
+overall tax base.
+
+        The.economic. effect of the-hotel.on Yamhill County local wineries. will be very
+positive due to increased use of tasting rooms and increased exposure of the local
+product to the wine drinkers irrespective of the site selected. The interaction between
+hotel guests and the local wineries and other local businesses will result in significant
+economic benefits to the county's wine tourism industry and also to the county as a
+whole. The targeted clientele of the hotel will include wine tourists from all over the
+country and the world, which will provide increased visibility, recognition and
+distribution of Yamhill County wines in the global marketplace. As noted at the
+hearing before the Board, the national and international wine-related press have been
+inquiring with the applicants about the status of the proposed hotel, and an article
+about the proposal has already been published in Wine Spectator magazine. The
+resulting economic benefit derived from the hotel will allow the county to meet its
+obligations under Goal 9 and Plan Policy 1.F to maintain economic growth and
+strengthen the local economic base.
+
+        The Board finds that, for the reasons explained above in Section LX.B of these
+findings, the proposed use or activity has special features and qualities that necessitate
+its location on or near the proposed exception site. The subject property is unique in
+
+Ordinance 790                                ad                                        8/15/66
+                                                                                 Film 91
+                                                                                  0195
+
+that it provides all of the necessary site-related requirements identified in the
+applicants' alternatives analysis. The subject property is in the heart of Yamhill
+County's wine country, within 20 minutes' driving time of more than 20 wineries,
+including approximately 12 nearby wineries with the desired vineyard setting and on-
+site tasting rooms, and within walking distance of two. At approximately 65 acres, it
+is large enough to meet the site size requirement. The property also provides a quiet
+rural setting with beautiful hilltop views of the countryside, and includes enough
+acreage to ensure that the hotel will be surrounded by landscaping, open space, and
+other resource-related uses that will be compatible with the needs of the hotel guests.
+Any site that did not include these features would not meet the required need and
+would not result in a successful project. Fortunately, the subject property also allows
+the proposed hotel to be developed without taking any viable agricultural uses out of
+production.
+
+         As explained above, and in the ECONorthwest analysis, the hotel will be a
+significant economic generator for the area and for the County in general. Its location
+is necessary for it to achieve its success, In order to attract visitors and "core" wine
+tourists, it must be located in a wine country location, on a parcel with sufficient size
+and views to provide a "destination" wine country experience.
+
+xX.       COMPREHENSIVE         PLAN POLICIES
+
+        The application complies with most, but not all, of the applicable Yamhill
+County Comprehensive Plan policies. However, the only Plan policies that are
+inconsistent with the map amendments are those policies that require "urban" levels of
+development to be located within urban growth boundaries and that prohibit
+development of agricultural lands. These departures from the county's acknowledged
+Plan provisions may be allowed based on the Board's approval of the requested goal
+exceptions. The county's approval of the requested goal exceptions under the
+applicable state statutes and rules authorize the proposed amendments despite the fact
+that the amendments would otherwise conflict with certain Plan policies. Therefore,
+as indicated below, the Board's decision approving the requested exceptions means
+that many otherwise applicable Plan policies are not relevant.
+
+          Plan Section   I— Urban Growth and Change and Economic Development
+
+          A.    Urban Area Development
+
+          Goal Statement 1: To encourage the containment of growth within existing
+          urban centers, provide for the orderly, staged, diversified and compatible
+          development of all of the cities of Yamhill County, and assure an efficient
+          transition from rural to urban land use.
+
+Ordinance 790                                --                           .           8/15/66
+                                                                                        Film 94
+                                                                                          0196
+
+          Policy A:   Yamhill County will, in cooperation with the cities and special
+          districts of the county, encourage urban growth to take the form of a series of
+          compact, balanced communities, each with its own business and community
+          center and each related to industrial areas and other centers of employment.
+
+          Policy C:   Yamhill County will recognize the lands within established urban
+          growth boundaries as the appropriate and desired location for urban
+          development.
+
+           Goal Statement 2: To encourage the containment of urban services and
+          facilities and other public capital improvements within existing urbanizing
+           areas in order to achieve an orderly pattern of urban growth.
+
+       These county goal statements and associated policies are intended to implement
+Goal 14 by requiring urban levels of development to occur within urban areas. The
+Board has adopted findings identifying the reasons why the policies and standards of
+Goal 14 should not apply to the present application, and explaining why the proposed
+development meets the applicable exception criteria. Therefore, these county goals
+and policies implementing Goal 14 are not relevant to this application.
+
+          B.     Rural Area Development
+
+          Goal Statement I: To provide an adequate amount of land, development areas
+          and sites to accommodate those uses which are customarily found in rural
+          areas or require oF aré better suited to rural locations, without compromising
+          the basic goal relating to urban containment and orderly urban development.
+
+        The Board finds that the application is consistent with this goal statement. As
+explained in the applicants' alternatives analysis and the ECONorthwest analysis, and
+as set forth in the Board's findings in Section [X.B above, the proposed hotel use can
+only be located in a rural setting, rather than an urban setting, and other sites that do
+not require exceptions cannot reasonably accommodate the proposed use. The
+development of a single hotel on 12 acres will not compromise the basic goal of
+providing a compact urban form and orderly urban development.
+
+          Policy B: All proposed rural area developments shall be based on a
+          reasonable expectation of the demand for the use of such land or facilities
+          within a reasonable period of time and no large-scale development shall be
+          approved without:
+
+                 1. The submission and approval of a layout and design concept, with
+                 provision for the staging and servicing of all phases of the development;
+
+Ordinance 790                                  --                                        8/15/68
+                                                                                   Film 91
+                                                                                    0197
+
+                2. The approval of all federal and state agencies relative in any
+                applicable health, safety and environmental controls; and
+
+                3. An adequate demonstration of the financial capacity and
+                responsibility of the proponents to complete the development and
+                provide for operation and maintenance services.
+
+       The Board finds that these policies will be addressed in conformance with
+applicable YCZO standards at the time of Site Design Review and actual development
+of the proposed hotel. For purposes of the map amendments and exceptions at issue in
+this proceeding, the applicant has submitted a proposed site plan that identifies the
+approximate location of the hotel and the area of the requested map amendments.
+Also, for the reasons explained in the ECONorthwest analysis and supplemental
+memoranda, and in the Board's findings in Section IX above, the requested exception
+is consistent with this policy because the proposed development is based on a
+reasonable expectation of the demand for a luxury wine country hotel in Yamhill
+County.
+
+         Policy C: All proposed rural area development and facilities:
+
+                1. Shall be appropriately, if not uniquely, suited to the area or site
+                proposed for development;
+
+                2. Shall not be located in any natural hazard area, such as a floodplain
+                o¥ area of geologic hazard, steep slope, severe drainage problems or
+                soil limitations for building or sub-surface sewage disposal, if relevant;
+
+                3. Shall be furnished with adequate access.and an adequate individual
+                or community water supply, if required; and shall not be justified solely
+                or even primarily on the argument that the land is less costly than
+                alternative better sites or that federal or state aid is available in the
+                form of subsidized water supply or sewerage extensions from nearby
+                urban centers.
+
+          The Board finds that the proposed development is consistent with these
+policies. For the reasons explained in Section IX of these findings regarding the
+specific locational requirements for the proposed hotel, the hotel is appropriately, if
+not uniquely, suited to the site proposed for development.      Also, the proposed hotel
+will not be located in a natural hazard area and has adequate access. The Board has
+found that water service for the hotel is feasible, and has conditioned its approval on
+the applicant's ability to provide adequate water supply and to obtain the necessary
+permit for a well within three years.
+
+Ordinance 790                                  -                   ,                         8/15/66
+                                                                                          Film 94
+                                                                                           0198
+
+          Policy D: No proposed rural area development shall require or substantially
+          influence the extension of costly services and facilities normally associated
+          with urban centers, such as municipal water supply and sanitary sewerage or
+          power, gas and telephone services, nor shall it impose inordinate additional
+          net costs on mobile, centralized public services, such as police and fire
+          protection, school busing or refuse collection.
+
+        The Board finds that for the reasons stated elsewhere in these findings, the
+proposed development does not require the extension of costly utilities to the site, and
+does not impose inordinate additional net costs on public services such as police and
+fire protection.
+
+          Cc.    Alternative Development
+
+       The Board finds that these policies are not applicable to the present application,
+and do not create mandatory approval criteria in any event.
+
+          D.     City Growth and Development
+
+        The Board finds that these policies apply to urban development within cities,
+annexation and urban reserve areas, and are therefore not applicable to the present
+application.
+
+          E.     Housing
+
+       The Board finds that these goals and policies relate to the provision of adequate
+housing in Yamhill County, and do not apply to the present application.
+
+          F.     Economic Development
+
+        The Plan indicates that the county has found that economic diversification
+generally results in a stronger and more stable local economy because it increases
+employment opportunities, and that high levels of unemployment have traditionally
+been a problem. The Plan also acknowledges that new industries have entered the
+county to help alleviate this situation.
+
+          Goal Statement: To maintain a rate and pattern of economic growth sufficient
+          to prevent recurring high levels of unemployment and under-employment in the
+          county, balance the real property tax base of the various cities, and strengthen
+          local economic bases.
+
+Ordinance 790                                  -                                          8/15/66
+                                                                                      Film 91
+                                                                                        0199
+
+          Policy A: Yamhill County will, in cooperation with the cities, local
+          chambers of commerce and affiliated industrial promotion grounds, and
+          State agencies concerned with the State and regional economic
+          development, encourage a diversified employment base, the
+          strengthening of trade centers, and the attraction of both capital and
+          labor intensive enterprises, consistent with the needs of each community
+          and the County as a whole.
+
+          The Board finds that the proposed hotel and accessory uses including the
+meeting facility, restaurant and spa will encourage a diversified employment base in
+the county. The proposed hotel will require the hiring of a minimum of 50 employees.
+It also will result in attraction of tourists and business oriented visitors to the area who
+are likely to patronize the local wineries and vineyards, as well as many other area
+businesses. The hotel will also support the Yamhill County wine industry by
+attracting a nationwide clientele of wine consumers who are seeking this type of wine
+country tourist experience. The Board adopts and incorporates by reference its
+findings in Section IX.B regarding the beneficial economic impacts of the hotel on the
+economy of the county.
+
+          Policy B:   Yamhill County will encourage economic development
+          projects which do not conflict with the predominant timber and
+          agricultural character of the county.
+
+        The approximately 65-acre property contains several areas formerly in
+agricultural use but which have not been in commercial agricultural use for at least 10
+years. Based on evidence in the record, the Board finds that elevations on the site are
+too high for quality grape production, the current property owners have been unable to
+sell the property for agricultural purposes, and the property is not in farm or forest tax
+deferral. The Board has adopted findings approving exceptions to Goals 3 and 4 for
+the subject property, and finding that the removal of this 12 acres of land from
+agricultural zoning will not have any discernable impact on the county's agricultural
+economy, The Board finds that the hotel will not conflict with the predominant timber
+and agricultural character of the county, and will further Plan policies regarding
+economic development and diversification of the county's economy.         The proposed
+hotel would provide overnight accommodations for tourists and meeting facilities that
+will allow larger groups of people to remain in the area, which would supplement and
+enhance the local vineyard industry and the county's growing wine tourism industry.
+The Board adopts and incorporates by reference its findings in Section IX.B regarding
+the beneficial economic impacts of the hotel on the economy of the county.
+
+Ordinance 790                                --                                          8/15/66
+                                                                                      Fitm 94
+                                                                                       0200
+
+          Policy C: Yamhill County will ensure citizen participation in economic
+          development planning through the continued involvement of the Yamhill
+          County Economic Development Committee.
+
+          Policy D: Yamhill County will develop an Overall Economic Development
+          Program which is consistent with the county comprehensive plan. This
+          program will be outlined in an updated Overall Economic Development Plan
+          which, upon completion, will be incorporated into the economic element of the
+          county comprehensive plan.
+
+        The Board finds that these policies create citizen involvement and planning
+requirements that do not create mandatory approval criteria for the county's review of
+quasi-judicial map amendment applications.
+
+          G.      Commercial Development
+
+          Goal Statement: To create an environment for commercial development which
+          will preserve and enhance the vitality of the central business districts, assure
+          safer, more convenient and attractive community and neighborhood
+          commercial centers, and protect prime commercial sites for use in advance of
+          need.
+
+          Policy C: Commercial uses unsuited to downtown areas will normally be
+          restricted to other areas within the urban growth boundary.
+
+          Policy E: Highway service and tourist commercial uses catering to the needs
+          of the traveling public will be encouraged to locate within existing urban
+          centers. Traditional central commercial uses will be encouraged to locate or
+          relocate only in existing town centers and the dispersal of such uses to
+          peripheral highway locations will be discouraged.
+
+          Policy G: Recreational commercial uses will be encouraged to locate within
+          urban growth boundaries or in compatible urban areas where their location
+          and space requirements can be most satisfactorily fulfilled.
+
+        The Board finds that these county goal statements and associated policies are
+not stated as mandatory approval criteria, but create aspirational goals directing the
+county to "encourage" commercial development to occur in urban areas; as such, these
+general planning policies designed to "encourage" growth in a certain location cannot
+be relied upon by the county as a means to deny the present quasi-judicial plan
+amendment application. The Board also finds that these policies are intended to
+implement Goal 14 by encouraging commercial development to occur in downtown
+
+Ordinance 790                                 cata                                    8/15/66
+                                                                                            Fim 91
+                                                                                              0201
+
+areas within urban growth boundaries.       The Board has adopted findings identifying
+specific reasons why the policies and standards of Goal 14 should not apply to the
+present application, and explaining why the proposed development meets the
+applicable exception criteria. Therefore, even if these county goals and policies
+contained mandatory approval criteria, they are not relevant to this application.
+
+          H.     Industrial Development
+
+          The Board finds that these goals and policies regarding industrial development
+do not apply to the present application.
+
+          Plan Section II ~ The Land and Water
+
+          A.     Agricultural Lands
+
+          Goal Statement 1: To conserve Yamhill County's farm lands for the
+          production of crops and livestock and to ensure that the conversion of farm
+          land to urban use where necessary and appropriate occurs in an orderly and
+          economical manner.
+
+          Goal Statement 2: To conserve Yamhill County's soil resources in a manner
+          reflecting their suitability for forestry, agriculture and urban development and
+          their sustained use for the purposes designated on the county plan map.
+
+       The Board finds that these goal statements and related implementing policies
+are intended to implement Goal 3 by generally prohibiting development of agricultural
+lands. The Board has adopted findings identifying specific reasons why the policies
+and standards of Goal 3 should not apply to the present application, and explaining
+why the proposed development meets the applicable exception criteria, Therefore,
+these county goals and policies implementing Goal 3 are not relevant to this
+application.
+
+          B.     Forest Lands
+
+          Goal Statement:   To conserve and manage efficiently the county's forest and
+          range resources, thereby ensuring a sustained yield of forest products,
+          adequate grazing areas for domestic livestock, habitat for fish and wildlife,
+          protection of forest soils and watershed, and preservation of recreational
+          opportunities.
+
+        The Board finds that these goal statements and related implementing policies
+are intended to implement Goal 4 by generally prohibiting development of forest
+
+Ordinance 790                                  _                                          8/15/88
+                                                                                        Film 94
+                                                                                         0202
+
+lands. The Board has adopted findings identifying specific reasons why the policies
+and standards of Goal 4 should not apply to the present application, and explaining
+why the proposed development meets the applicable exception criteria. Therefore,
+these county goals and policies implementing Goal 4 are no longer relevant to this
+application,
+
+          cC,    Water Resources
+
+          Goal Statement: To conserve and to manage efficiently our water resources in
+          order to sustain and enhance the quantity and quality of flows for all
+          consumptive and non-consumptive uses and to abate flood, erosion and
+          sedimentation problems.
+
+          Policy A:   Yamhill County will cooperate with federal and state agencies, the
+          cities of the county, and the local soil and water conservation district to
+         identify, conserve and develop water resources on a long-range, multiple-use
+         basis in response to need, with full consideration given to the benefits, costs,
+         potential uses and the carrying capacity of the resource.
+
+       The Board finds that Policy A creates a planning requirement that directs the
+county to cooperate with other public entities regarding the identification and
+conservation of water resources in response to need. This policy does not create a
+mandatory approval criterion for a quasi-judicial map amendment. Further, the Board
+has included conditions of approval requiring the applicants to obtain an adequate
+water supply for the hotel by obtaining the necessary permits from the Oregon Water
+Resources Department (OWRD) within three years. The state permitting process will
+require consideration of water availability and impacts of a new well on the carrying
+capacity of the groundwater resource. As explained in the opinion provided by
+Newton Consultants, OWRD ground water permits include conditions on ground
+water rights requiring the applicants to demonstrate that the project's wells have no
+measurable impact on surrounding wells.
+
+         Policy I: Where conflicting uses are identified or intended, in specific
+         proposals or programs, the economic, social, environmental and energy
+         consequences of the conflicting uses shall be determined as used as a basis for
+         decision-making.
+
+        Evidence in the record from Newton Consultants indicates that it is feasible for
+the applicants to obtain a permit for a new well in the marine sediments that can
+operate without interfering with other wells in the area. Extension of wells into the
+marine sediments, together with properly designed and constructed well seals, can be
+relied upon as a way to reduce potential for well interference to the satisfaction of
+
+Ordinance 790                                  aad                                      8/15/86
+                                                                                          Film 941
+                                                                                           0203
+
+OWRD.           The state permitting process will require consideration of water availability
+and impacts of a new well on the carrying capacity of the groundwater resource. As
+explained in the opinion provided by Newton Consultants, OWRD ground water
+permits typically include conditions on ground water rights requiring the applicants to
+demonstrate that the projects’ wells have no measurable impact on surrounding wells.
+Therefore, the Board finds that there is no direct evidence that the hotel will be a
+"conflicting use" with any other uses in the area within the meaning of Policy I.
+
+          D.        ‘Fish and Wildlife
+
+        The Board finds that these goals and policies regarding protection of fish and
+wildlife do not apply to the present application, because there is no identified fish or
+wildlife habitat on the subject property and the proposed development will not
+otherwise impact fish or wildlife habitat.
+
+          E.        Open Space
+
+        The county's goals and policies regarding open space require adoption of an
+inventory of significant open space and scenic resources as part of the county's Goal 5
+inventory. The subject property is not included on any inventory of significant
+resources under Goal 5, including open space. The Board finds that these goals and
+policies do not apply to the present application.
+
+          F,        Mineral and Aggregate Resources
+
+          G.        Ecologically and Scientifically Significant Natural Areas
+
+          H.        Outstanding Scenic Views and Sites
+
+          I.        Historic Areas, Sites, Structures and Objects and Cultural Areas
+
+          J.        Wild and Scenic Waterways
+
+       The goals and policies regarding these resources all relate to areas that are
+included on the county's inventory of significant resources under Goal 5. The 12 acres
+subject to this request do not include any resources on the county's Goal 5 inventory,
+and these sections of the Plan do not apply.
+
+          Plan Section UI — Transportation, Communication and Public Utilities
+
+          A.        Transportation
+
+Ordinance 790                                     od                :        ;             8/15/68
+                                                                                            Film 97
+                                                                                              0204
+
+       Goal Statement: To provide and encourage an efficient, safe, convenient and
+economic transportation and communication system, including road, rail, waterways,
+public transit and air, to serve the needs of existing and projected urban and rural
+development within the county, as well as to accommodate the regional movement of
+people and goods and the transfer of energy, recognizing the economic, social and
+energy impacts of the various modes of transportation.
+
+          Policy B: All transportation-related decisions will be made in consideration of
+          land use impacts including but not limited to adjacent land use patterns, both
+          existing and planned, and their designated uses and densities
+
+         Policy J: All county transportation-related decisions will be made in
+         particular consideration of energy efficiency and conservation.
+
+          Policy O: All transportation-related decisions will be made in support of the
+          efficient and economic movement of people, goods, and services throughout the
+          region, and will be based on the location and adequacy of facilities for such
+          goods and services.
+
+          The Board finds that for the reasons explained in Section VIILL of these
+findings regarding Goal 12 and the TPR, and for the reasons explained in the
+Lancaster TIA and supplemental memoranda adopted by the Board, the map
+amendments and exceptions are consistent with the county's goal to provide an
+efficient, safe, convenient and economic transportation and communication system,
+and with the relevant policies designed to implement the goal. Even without
+considering the eventual construction of the Newberg-Dundee Bypass, which has long
+been tomorrow's dream for the county but is now approaching reality, the intersections
+that would be impacted by the hotel will continue to operate acceptably. To the extent
+this decision is a “transportation-related decision" within the meaning of the above-
+quoted policies, the Board has considered the land use impacts associated with the
+development of the proposed hotel, including nearby land uses, and has also
+considered the energy efficiencies that will result from allowing individuals who
+would otherwise stay overnight in Portland and make day trips to Yamhill County's
+wine country to stay locally instead. As concluded in the Lancaster TIA, the proposed
+hotel will have no significant effect on efficient and economic transportation
+throughout the region, and will not significantly effect any transportation facilities
+within the meaning of the TPR.
+
+          Pian Section V — Environmental Quality
+
+          A.     Air, Water and Land Resource Quality
+
+Ordinance 790                                cad                                         8/15/66
+                                                                                       Film 94
+                                                                                        0205
+
+          Goal Statement 1: To conserve and to protect natural resources, including
+          air, water, soil and vegetation and wildlife, from pollution or deterioration
+          which would dangerously alter the ecological balance, be detrimental to
+          human health, or compromise the beauty and tranquility of the natural
+          environment
+
+          Goal Statement 2: To preserve and enhance the charm and amenity values of
+          the county, while accommodating change, through ensuring harmony between
+          urban development and the natural environment, at the same time cultivating
+          more attractive urban environments in which to live, work and play
+
+       The Board finds that the approval of the requested map amendments and
+exceptions is consistent with these two goal statements and implementing policies.
+There is not a sliver of evidence in the record to suggest that the proposed hotel would
+“dangerously alter the ecological balance." Nor is there substantial evidence in the
+record to support a finding that the hotel would otherwise be detrimental to human
+health or compromise the beauty and tranquility of the natural environment. In order
+to ensure environmental quality and promote sustainability, the Board has imposed a
+condition of approval requiring the applicants to include "green development"
+provisions, to be determined in the Site Design Review approval, including but limited
+to the following: (a) vehicle trip reduction; (b) energy conservation; (c) waste water
+reuse; and (d) building material conservation. The proposed hotel will provide
+harmonious development that does not detract from the beauty of the natural rural
+environment, but instead fits seamlessly.in its surroundings.
+
+XI.       ZONING ORDINANCE PROVISIONS
+
+          Pursuant to Section 1204 of the Yamhill County Zoning Ordinance ("YCZO"),
+this application was processed through a Type C Procedure as described in YCZO
+Section 1301.01.C. Under YCZO 1208.02, a quasi-judicial change to a zoning map
+may be authorized provided that the applicant demonstrates compliance with the
+following criteria:
+
+          A,     The proposed change is consistent with the goals, policies and
+                 any other applicable provisions of the Comprehensive Plan.
+
+       Compliance with all applicable goals, policies and provisions of the YCCP is
+addressed in Section X of these findings.
+
+          B.     There is an existing, demonstrable need for the particular uses
+                 allowed by the requested zone, considering the importance of
+                 such uses to the citizenry or the economy of the area, the existing
+
+Ordinance 790                                  -                                 .        8/15/66
+                                                                                      Film 91
+                                                                                        0206
+
+                 market demand which such uses will satisfy, and the availability
+                 and location of other lands so zoned and their suitability for the
+                 uses allowed by the zone.
+
+          The Board finds that substantial evidence in the record establishes that there is
+an existing demonstrable need for the particular use allowed by the requested zone.
+Detailed findings addressing the "need" criterion are set forth above in Section IX, and
+those findings are adopted and incorporated by reference. The use allowed by the
+requested zone, pursuant to an exception granted for applicable Goals, is a luxury
+wine country hotel. The analysis submitted by ECONorthwest demonstrates that the
+need exists for such a facility to serve Oregon's wine country. The Board has already
+adopted findings that the proposed use is important to the citizenry and the economy
+of the area. The use will generate an economic boost for Yamhill County by
+promoting the wine growing region and its vineyards and vendors, without creating
+undue traffic burdens, impact on water resources or withdrawing valuable land from
+agricultural production. The scale of the proposed hotel is consistent with the
+character of the Yamhill County wine country. The use not only benefits the economy
+but also the citizens of the state by promoting the wine growing industry and those
+citizens who work in the industry.
+
+         The ECONorthwest analysis also demonstrates that there is a significant
+existing market demand for the use. The market demand is not met by existing hotel
+facilities or bed and breakfast establishments. Notwithstanding that existing overnight
+accommodations.in.the.county: are.well run.and.-meet.a need, this kind-of facility
+represents an unfulfilled need given the explosive growth of the county's wine-related
+economy and wine tourism in general.
+
+          No other location is appropriate for this use. As explained in Section IX of
+these findings, and addressed in detail in the ECONorthwest analysis, the applicant
+has established that no other lands zoned RC are suitable for the use given either their
+location, size, or proximity to highways and urban areas. The subject property is
+appropriate for the use because of its reasonable access to State Highway 99, its
+proximity to vineyards and wineries, its views to the south and its distance from urban
+areas.
+
+          C.     The proposed change is appropriate considering the surrounding
+                 land uses, the density and pattern of development in the area, any
+                 changes which may have occurred in the vicinity to support the
+                 proposed amendment and the availability of utilities and services
+                 likely to be needed by the anticipated uses in the proposed
+                 district.
+
+Ordinance 790                                  -                                         8/15/68
+                                                                                       Film 91
+                                                                                        0207
+
+        The Board finds that the proposed zone change is appropriate considering the
+surrounding land uses. The surrounding land uses consist of a bed and breakfast, the
+pre-existing quarry, and several wineries and related vineyards. The Board has
+already adopted findings in Section IX.B that the proposed use will not have adverse
+external impacts that could affect the wineries and vineyards, and the Board has
+adopted a condition of approval requiring that existing agricultural uses shall not be
+required to modify their existing accepted practices to accommodate the hotel, and
+other conditions that will ensure compatibility with adjacent uses The proposed hotel
+is likely to be beneficial to the adjacent bed and breakfast because it will provide
+additional visibility to the area, and additional potential guests for the bed and
+breakfast. The Board finds that, for the reasons stated above in Section IX, the zone
+change is appropriate for the density and pattern of development in the area, based on
+the limited nature of the rezoning of the 65-acre parcel, the proposed location of the
+hotel on the site and its relatively small size, the extinguishing of the existing quarry
+use, and the reasons explained above regarding the locationally-specific nature of the
+proposed use. Also, the hotel will not introduce large-scale traffic demands, and
+proposes no public utilities. The Board has adopted findings regarding availability of
+utilities and services. The only public services necessary to support the use are public
+roads, sheriff services and fire service. The existing public road is appropriate for
+sheriff and fire services reaching the use.
+
+          D.    Other lands in the County already designated for the proposed
+                uses are either unavailable or not as well-suited for the
+                anticipated uses due to location, size or other factors.
+
+        Detailed findings addressing alternative locations are set forth above in Section
+IX of these findings. As previously stated, the proposed use has special features that
+necessitate location on the proposed site, which provides excellent access to the
+county's expanding wine industry. As explained in the ECONorthwest analysis and
+the applicants' separate alternatives analysis, there are no other areas in the county
+with zoning that would allow the proposed use that are sufficient size and location to
+accommodate this type of use. The use requires at least 35 acres in the wine country
+area, away from major highways, with expansive views of the countryside. The
+analyses submitted by the applicants consider both urbanized and unincorporated
+portions of Yamhill County, and correctly conclude that no other parcels in Yamhill
+County already designated for the proposed use would accommodate the proposed
+hotel.
+
+          E.    The amendment is consistent with the current Oregon
+                Administrative Rules (OARs) for exceptions, if applicable.
+
+Ordinance 790                                --                                       ‘8/15/68
+                                                                                      Film 91
+                                                                                       0208
+
+       Compliance with the applicable OARs governing exceptions is addressed in
+Section IX above.
+
+XII.      RESPONSES TO ISSUES RAISED BY OPPONENTS
+
+        The majority of issues raised by opponents that are relevant to applicable
+approval criteria are addressed in the findings set forth above. In addition to those
+findings, the Board adopts the following findings in response to specific issues raised
+by opponents.
+
+          A.     Lack of Precedential Effect
+
+        Several opponents suggest that if the Board of Commissioners approves this
+application and related goal exceptions, the decision will create precedent that will
+require the county to also approve future applications for development on farmland.
+However, the statute regarding exceptions expressly requires that approval of an
+exception does not establish precedent for future applications:
+
+                 "As used in this section, 'exception' means a comprehensive plan
+                 provision, including an amendment to an acknowledged
+                 comprehensive plan, that is applicable to specific properties or
+                 situations and does not establish a planning or zoning policy of
+                 general applicability." ORS 197.732(8)(a).
+
+          The Board finds that approval of one quasi-judicial land-use application cannot
+legally set a precedent for future land use approvals. LUBA has recognized that a
+local government cannot be bound by findings that were made in previous land use
+decisions. See, e.g., Jaffer et al. v. City of Monmouth, LUBA No. 2005-123, April 24,
+2006, at slip op. 8 (holding that a prior denial of a similar application on the same
+property did not create binding precedent in subsequent city decision).    In Femling v.
+Coos County, 34 Or LUBA 328 (1988), LUBA rejected arguments that the county
+could be bound by prior findings on another land use application, explaining that:
+
+                   "We held in Nelson v, Clackamas County, 19 Or LUBA 131, 140
+           (1990) that our system of land use adjudication ‘is incompatible with
+           giving preclusive effect to issues previously determined by a local
+           government tribunal in another proceeding.’ Similarly, the county is not
+           bound to resolve 'claims' made in one application consistently with
+           ‘claims’ in earlier applications Nelson, 19 Or LUBA at 136. In short,
+           nothing the county decided in the 1993 proceeding precludes or binds its
+           decision in this proceeding."
+
+Ordinance 790                                  --                                     8/15/@6
+                                                                                         Film 914
+                                                                                          0209
+
+          Exceptions to the Statewide Planning Goals are very difficult to obtain, and
+each application must stand or fall on its own specific factual situation. The Board's
+conclusion that the applicable approval criteria are satisfied regarding the present
+application does not create any precedent requiring that future exception applications
+must also be approved.
+
+          B.        Demand Exists for One Hotel
+
+        Concerns were raised by DLCD and other individuals regarding the approval of
+this application creating a “line at the door" of applicants attempting to site similar
+hotel projects by relying on the same or similar reasons for the exceptions as the
+applicants here. However, the Board finds that evidence in the record establishes that
+the county will only be able to support one hotel of the unique variety proposed by the
+applicants, and there is no economic basis to support a demand for a second hotel of
+this type. The Board believes there is an opportunity for one such development and
+more than one such development could not satisfy the applicable criteria because it
+would not be economically viable. A second similar hotel would not be justifiable
+economically as a coattail rider on the approval of this application.
+
+          C.        The Application Does Not Propose a "Destination Resort."
+
+        Several opponents argued that the application requested the siting of a "small
+destination resort," and therefore should be denied under the destination resort criteria
+of ORS         197.445 due to its location within 24 miles of the Metro UGB.   However, the
+application does not propose a destination resort pursuant to ORS 197.435-467. The
+site does not qualify as a destination resort location because it is not within the map of
+eligible lands adopted by Yamhill County pursuant to ORS 197.455. Also, the
+applicants' proposal is for map amendments affecting only approximately 12 acres of
+property, which is less than the 20-acre minimum established by ORS 197.445(7).
+Further, the applicant is not proposing to spend the amounts required for "recreational
+facilities" under the same statutory section. The Board finds that opponents have not
+explained why the county should be required to treat an application as a "destination
+resort" where the application does not fit within the statutory criteria for such a resort
+and the applicants have not requested treatment as a destination resort under the
+county's plan and the applicable statutes. See Doherty v. Morrow County, 44 Or
+LUBA 141 (2003).
+
+          D.        Compliance With Goal 14 Exception Criteria
+
+         Opponents express general disagreement with the premise that the county may
+approve an "urban" hotel use on rural land under the applicable goal exception
+criteria. However, the Board finds that this is precisely what the Goal 14 exception
+
+Ordinance 790                                    iota                 .                  8/15/66
+                                                                                     Film 94
+                                                                                      0210
+
+rules are designed to allow, so long as those criteria are satisfied. Opponents assert
+that the applicant may not be allowed to rely in part on a need for specific "rural"
+characteristics in order to satisfy the applicable criteria for a goal exception.
+However, the actual criteria set forth in the applicable state rules contain no such
+prohibition. Rather, the rules provide that the county may approve the requested
+exception if it finds that the proposed development cannot be "reasonably
+accommodated" within an urban area or through the expansion of a UGB. The
+applicant has submitted a significant amount of evidence on which the Board has
+adopted findings that the proposed use cannot be reasonably accommodated on urban
+land, or other land that would not require an exception, and that the applicable criteria
+for the requested exceptions are met.
+
+          DLCD and other opponents have identified certain hotels in Napa Valley and
+Sonoma Valley that are located in urban areas, and offered those hotels as evidence
+that a wine country hotel does not need to be located in a rural setting. However, as
+explained in the Board's findings in Section IX.B above, relying on the materials
+submitted by the applicants and ECONorthwest, the applicants are proposing a very
+distinct and unique type of luxury wine country hotel that cannot be duplicated in an
+urban area. Indeed, evidence in the record from ECONorthwest dated May 25, 2006
+addresses several of the other California hotels identified by opponents, and notes that
+one of those hotels, the Hotel Healdsburg, is regularly complained about by guests due
+to the noise of the surrounding urban area, and as a result the hotel provides earplugs
+in each room for its guests. As discussed in the ECONorthwest correspondence, other
+hotels identified by opponents can be readily distinguished from what is being
+proposed by applicants here based on level of service and amenities provided, as well
+as the overall environment. The proposed hotel is targeted at a distinct clientele of
+"core" wine consumers who will travel great distances in order to be able to enjoy a
+true wine country experience in Yamhill County. As described in more detail in
+Section IX.B of these findings, that experience cannot be found in an urban setting.
+
+          E.    Appropriateness of RC Zoning
+
+        Opponents assert that it is not clear from the YCZO list of allowed uses in the
+Recreational Commercial zone whether the proposed hotel would be an allowed use in
+that zone, because it is not clear what the "recreational" element of the proposed hotel
+will be. First, the Board notes that there is not currently a development application
+before the county for the proposed hotel, and this issue will be most appropriately
+determined at the time an actual development application is submitted, rather than
+during this map amendment process. The Board also notes that the applicant's
+tentative proposal includes recreational uses such as tennis courts, a swimming pool,
+and hiking trails on the property, and that the RC zone also expressly allows "any use
+
+Ordinance 790                               -                                        8/15/86
+                                                                                        Film 91
+                                                                                         0211
+
+not specifically listed as a permitted or conditional use in this district that is similar in
+character, scale and performance to the permitted uses specified in subsection
+601.02." YCZO 601.04. Such a use may be allowed as a "similar use," subject to the
+provisions of YCZO 1206.
+
+          F.    Site Size
+
+        Several opponents contend that because the applicants are requesting a rezone
+for only 12 acres of the entire 65-acre parcel, the applicants erroneously imposed a 35-
+acre minimum site size for purposes of the alternatives analysis. However, the Board
+finds that the basis for the 12-acre request is simply to minimize the amount of EFU
+land that is redesignated by only changing the map designations for the footprint of
+the hotel, parking, and access road to the property. The fact that the paved and
+constructed areas of the site plan only constitute 12 acres does not change the need for
+a minimum of 35 acres to site the hotel. The additional property is required for open
+space, views, and a proposed vineyard, which leaves land in agricultural production
+and contributes to the necessary ambiance of a luxury wine country hotel. The Board
+finds that the opponents' suggestion that this hotel could be successfully located on a
+12-acre site in an urban area is incorrect. The expected economic benefit to the
+county and its wine tourism industry will not occur if the hotel is not successful.
+
+          G.    Applicability of Goal 9
+
+         In correspondence dated June 7, 2006, DLCD raises concerns regarding the
+application of the exceptions criteria, noting that the applicant has based its proposal
+in part on the economic development elements of Goal 9, and asserting that there is no
+Goal 9 requirement that applies to this application. The Board disagrees with DLCD's
+apparent position that Goal 9 is essentially meaningless. Goal 9 expressly states that
+its purpose is "to provide adequate opportunities ... for a variety of economic
+activities vital to the health, welfare and prosperity of Oregon's citizens." The Board
+finds that Goal 9 is designed to encourage economic development, which will be one
+direct result of the proposed wine country hotel. The benefits of the proposed hotel on
+the Yamhill County economy are explained in the analysis and supplemental
+memoranda submitted by Eric Fruits of ECONorthwest, and the economic need for a
+hotel of this type has been well documented through evidence placed in the record
+before the Planning Commission and the Board. DLCD concedes that providing
+overnight lodging “may well be needed to support the economy of the county," and the
+Board agrees with this statement. The Board notes that ORS 197.340(1) provides that
+local governments, as well as both DLCD and LCDC, "shall give the goals equal
+weight in any matter in which the goals are required to be applied." Because the
+Statewide Planning Goals are intended to have equal weight, the county's need for
+
+Ordinance 790                                 a                                          8/15/86
+                                                                                        Film 91
+                                                                                         0212
+
+economic development can certainly provide a justification for exceptions under
+Goals 2 and 14, provided that all of the applicable criteria are met.
+
+XH.       CONCLUSION
+
+        Based on all of the findings set forth above and all of the evidence in the
+record, the Board of Commissioners approves the applications with a limited use
+overlay that contains the following conditions:
+
+CONDITIONS OF APPROVAL:
+
+       The Board attaches the following conditions of approval to its findings
+regarding Ordinance No. 790.
+
+        1.     Quarry rights will be terminated with final approval of the
+comprehensive plan and zoning map amendments and final approval of Site Design
+Review. Final approval shall be the date that all appeals are exhausted on the above
+land use applications.
+
+       2.    The applicant’s Site Design Review application shall include "green
+development" provisions, to be determined in the Site Design Review approval and
+shall include, but not be limited to, the following: (a) vehicle trip reduction; (b) energy
+conservation; (c) waste water reuse; and (d) building material conservation.
+
+       3.     The. Site Design Review. application shall include a construction
+management plan. The applicant shall coordinate with neighboring property owners
+during construction to minimize construction impacts on surrounding property owners.
+
+          4.    The approved use shall include a hotel operator with a demonstrated
+track record of successfully executing boutique "get-away" hotels. The hotel operator
+shall strive for a high rating by a rating group such as The Mobil Guide or The
+Michelin Guide.
+
+        5.    This exception approval shall be limited to the description of the use and
+the acreage proposed by the applicant at the June 7, 2006 public hearing.
+
+       6.   The Site Design Review shall be a Type "C" process before the Planning |
+Commission as described in Section 1301.01(C) of the Yamhill County Zoning
+Ordinance.
+
+        7.    During Site Design Review the applicant shall demonstrate that the well
+will provide an adequate quantity and quality of water for the proposed use.
+
+Ordinance 790                                -                                         8/15/68
+                                                                                       Film 91
+                                                                                        0213
+
+          8.    If the applicant does not receive a water right within three years of the
+final date that all appeals have been resolved on the zone change, the Planning
+Commission shall initiate a comprehensive plan amendment and zone change from
+RC Recreation Commercial to EF-80 Exclusive Farm Use pursuant to Section
+1208.01(A) of the Yamhill County Zoning Ordinance.
+
+          9.    The applicant shall waive their Measure 37 (2004) claim upon final
+approval of their comprehensive plan and zoning map amendment. Final approval
+shall be the date that all appeals are exhausted on the above land use application.
+
+        10.    Prior to issuance of development permits, the landowner shall sign an
+affidavit acknowledging the following declaratory statement and record it in the deed
+and mortgage records for Yamhill County: "The subject property is located in an area
+designated by Yamhill County for agricultural uses. It is the county policy to protect
+agricultural operations from conflicting land uses in such designated areas. Accepted
+agricultural practices in this area may create inconveniences for the owners,
+occupants, or guests of the proposed hotel. It is not the agricultural operator's
+responsibility to modify accepted practices to accommodate the owner, occupants or
+guests of the hotel, with the exception of such operator's violation of state law."
+
+          End
+
+                                                                               Ethibi Ag
+Ordinance 790                                 ad                               GA      8/15/66
+                                                                              Bo. 06             5b
+                                   EXHIBIT "B" FOR ORDINANCE No. 790                            Film 91
+                                                                                                 0214
+                            COMPREHENSIVE PLAN AMENDMENT FROM
+                     AGRICULTURE/FORESTRY LARGE HOLDING TO COMMERCIAL
+
+                          ZONE CHANGE FROM EF-80 EXCLUSIVE FARM USE
+                               TO RC RECREATION COMMERCIAL USE
+
+                          T.L. 3333-320
+
+                                                                                     fo                       :
+
+Legend
+                                                                                      ORDINANCE No.: 790
+-LZZZ] Area Subject to Amendment          Zs                                                   EXHIBIT "B"
+a      | Subject Parcel                   N    |                                      Zp. é. 06   -S6     4
+                                                   Prepared by Yamhill County Department of Planning and Development
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.6% of
+the word sequence, and on 91.0% of the figures. Dictionary-recognizable words: 96.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

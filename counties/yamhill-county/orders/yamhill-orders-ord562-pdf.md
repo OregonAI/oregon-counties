@@ -1,0 +1,2825 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord562-pdf
+title: 'ORD562-PDF'
+doc_type: ordinance
+citation: 'ORD562-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17593/ORD562-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: b11bf2b6eacae67c35aa55da03c52120fcdb1158cb255a37d5123f358017d0ff
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.984; figure agreement 0.846; dictionary ratio 0.951. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.250
+    - ORS 197.732
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD562-PDF (ORD562-PDF)
+
+## At a glance
+
+OCR-derived text of ORD562-PDF. Not human-verified.
+
+## Full text
+
+IN    THE         BOARD           OF     COMMISSIONERS                  OF    THE    STATE    OF     OREGON
+
+93-3/0                                              FOR THE COUNTY OF YAMHILL                                                   ae
+                        SITTING               FOR        THE     TRANSACTION              OF    COUNTY    BUSINESS         ~
+
+In the Matter of an Ordinance
+Amending the Yamhill County
+
+                                                                                    eS
+Comprehensive  Plan Map,
+and Zoning Map to Change,
+on Six Exception Study Areas
+(Areas           41,         43,       44,      54,        64    and        76)
+the     Plan           Map        Designation
+
+                                                                                    EO
+From        "Agricultural/Forestry                                     Large
+Holding"               to        "“Agriculture/Forestry
+Small Holding";                          to     Change the Zone
+Map Designation                          on     Four Such Areas                                 ORDINANCE       562
+from        "AF-20               Agriculture/Forestry"
+to     "AF-10           Agriculture/Forestry
+Small        Holding",                   and        on     the    Other
+Two Areas                   from "EF-40 Exclusive
+Farm Use"                   to "AF-10 Agriculture/
+Forestry               Small           Holding";                and
+Taking an Exception from LCDC
+Goals #3 and #4; Docket # G-2-92;
+and     Declaring                  an     Emergency.
+
+            THE        BOARD            OF      COMMISSIONERS                      OF    YAMHILL        COUNTY,        OREGON        (the
+Board),                sat for  the    transaction   of  county  business   in    special
+session               on November   10,   1993, Commissioners   Debi Owens,    Dennis L.
+Goecks,               and Ted Lopuszynski being present.
+
+      WHEREAS,     the Board enacted the Yamhill          County Comprehensive
+Plan,   1974,    Ordinance   No.  62,    1974,  on the 25th day of September
+1974   and    has   since   that   time     amended   the   Comprehensive  Plan
+numerous    times,    culminating     in its present     form as Ordinance  No.
+62, as amended,      including a Comprehensive Plan Map (the Comprehen-
+sive        Plan);               and
+
+            WHEREAS,               the        Board        enacted           the    Yamhill          County    Zoning     Ordinance
+No.  83,           1976, to               implement               the Comprehensive Plan, and amended the
+zoning            ordinance                numerous               times  culminating in its  present form
+known as Ordinance                             No. 310,               as    amended,          including       a Zoning     Map       (the
+zoning Ordinance);                              and
+
+      WHEREAS,   ORS 197.250 and 215.050 require that the Comprehen-
+sive Plan and Zoning Ordinance be in conformity with the statewide
+planning   Goals   adopted  by the Land Conservation and Development
+Commission    (LCDC);  and
+
+      WHEREAS, Statewide Planning                                                 Goal    3 requires          Yamhill County to
+either preserve the agricultural                                                  land    within the          County by placing
+it     within               an     agriculture                   protective              zone    and    plan    designation            or
+take        an        exception               to        Goal     3;        and
+
+ORDINANCE             562
+Page    1
+     WHEREAS,   Statewide Planning Goal 4 requires Yamhill County to
+inventory  forest lands within the County and either preserve them
+for forest uses or take an exception to Goal 4; and
+
+      WHEREAS,                  in the past the County has protected     substantial
+areas   of its                 rural  lands by designating  such land as   "Agricul-
+ture/Forestry                  Large Holding" on the Comprehensive Plan and "EF-40"
+or     "AF-20"           under        the     Zoning        Ordinance;           and
+
+      WHEREAS,  more  recently    the  County  identified  certain  rural
+areas   which  might   be  more     appropriately   designated   "Agricu-
+lture/Forestry   Small Holding" on the Comprehensive Plan and "AF-10"
+under the zoning ordinance,     and has conducted a study to determine
+whether and               to what extent such areas qualify for an exception to
+Goals 3 and                4 because such land is either  "physically developed"
+with,        or     "irrevocably                  committed"        to,    other        uses        not    allowed         by    the
+goals,        based on the factors                               identified in Oregon                      Administrative
+Rules,        Chapter 660, Division                             4 (OAR 660-04); and
+
+            WHEREAS,           the     Yamhill           County     Planning           Commission               held    properly
+advertised               public            hearings         to    consider         and       made         recommendations
+regarding a               total of 80 proposed exception areas   (including the
+areas which               are the subject of this ordinance)  on the following
+dates:   September     9,  1992,  September  17,  1993,   October    1, 1992,
+November  19,   1992,   January 21,  1993,  February 18,    1993, March    18,
+1993, April   15,   1993, May 20,   1993 and June 17,    1993;   and
+
+      WHEREAS,   on January  21,  1993,    February   18,  1993,   March 18,
+1993, April 15, 1993, May 20, 1993, and June 17, 1993, the Planning
+Commission    made  recommendations     to   the  Board   that   20   of the
+exception   study areas, be approved and the comprehensive plan and
+zoning        ordinance               be    amended         accordingly;           and
+
+      WHEREAS, on September 23, 1993, September 30, 1993 and October
+6,  1993,   the Board held  properly  advertised public  hearings  at
+which testimony and evidence was received concerning the exception
+study        areas       which        are     the     subject       of    this    ordinance,               and,         following
+the close of the hearing and the record, the Board deliberated and
+unanimously voted to tentatively approve the exception to the goals
+and the amendment  of the comprehensive   plan and zoning ordinance
+for 17 of the study areas,  including the study areas which are the
+subject           of     this        ordinance,           and     directed        staff        to     prepare            findings
+for     approval;              and
+
+      WHEREAS, the findings and conclusions contained in the Excep-
+tions Statement attached hereto as Exhibit "A", provide a justifi-
+cation   for  approval of the  comprehensive  plan  amendment, zone
+change            and     the         taking         of     an     exception           to      Statewide                Land     Use
+Planning            Goals        3    and     4    for    exception         study        areas            41,     43,     44,    54,
+64     and        76),      and        that        pursuant         thereto,           the     Comprehensive                    Plan
+designation                for        such        areas         should     be     changed            to         "Agriculture/
+Forestry               Small         Holding",            the     zoning        designation                of     such         areas
+should        be        changed        to     "AF-10       Agricultural/Forestry                          Small        Holding",
+and     an    exception               under        Oregon        Administrative              Rules,         Chapter            660,
+
+ORDINANCE          562
+Page    2
+Division                4     should       be     taken       for        such   areas       based          on     either         the          land
+being            "physically                developed"              or     "irrevocably            committed";                   and
+
+            WHEREAS,                 the        attached            Exhibit        "A"       demonstrates                       that           the
+proposed                amendments              to      the    Yamhill          County       Comprehensive                       Plan          and
+Zoning                Ordinance,            and      the      exceptions           taken         to        Goals       3        and       4    for
+such        purpose,             are       in     the    best       interests          of    the      citizens              of        Yamhill
+County;               NOW      THEREFORE,
+
+            THE         YAMHILL        COUNTY           BOARD       OF     COMMISSIONERS              ORDAINS              as    follows:
+
+            Section             1.     The      Yamhill         County          Comprehensive                   Plan   and        Plan         Map
+(1974) are hereby amended as specified in the attached Exhibit  "B",
+made a part of this ordinance by reference,   to reflect a plan map
+designation  of   "Agriculture/Forestry                                                  Small         Holding"                  for           the
+property identified on Exhibit "B".
+
+      Section 2.    In adopting                                   the plan amendment specified in this
+Ordinance,   the County hereby                                   takes an exception to Statewide Goals
+3   and          4.
+
+      Section 3.                            The  Official  Zoning Map of  Yamhill                                            County  is
+hereby amended as                          specified in the attached Exhibit  "B",                                          to reflect
+a      zoning                 designation               of      ""AF-10           Agricultural/Forestry                                   Small
+Holding"                for     the        property           identified          on     Exhibit            "B".
+
+       Section 4. The findings attached as Exhibit "A" and incorpo-
+rated herein by this reference are adopted in support of this ordi-
+nance.
+
+      Section 5.    This ordinance being necessary  for the health,
+safety,   and welfare   of the citizens  of Yamhill  County, and an
+emergency having been declared to exist, is effective upon passage.
+
+            DONE             wnas,McMinnville,
+                             at                               Oregon        this“7 %         aay      of        Yount                 +   1993.
+
+aarmag                8h              _                    a               ae               ARDoo
+                                                                                                OF
+        WARE
+
+             :                         awl sat
+
+                                                           Commissioner                 DENNIS         L.        GOECKS
+
+                                                              Led, Zopumzenyol
+                                                           Commissioner            (/ TED }QROSZYNSKI
+Assistant                   County        Counsel
+
+q1u93296.001
+
+ORDINANCE              562
+Page    3
+                                                            EXHIBIT                 "A"
+
+                                                      EXCEPTION               STATEMENT
+
+A.       BACKGROUND              FACTS
+
+         1.          Purpose           of    Proceedings
+
+         Statewide               Goals            3      and        4         have            been        adopted         by         the        Land
+Conservation and  Development  Commission to guide                                                                        planning                and
+zoning in the state.   The purpose of Goal 3 is to                                                                        preserve                and
+maintain        agricultural                  land          and         the        purpose           of    Goal    4    is     to    preserve
+land     for    forest           uses.            Much         of       the        rural         land       in    Yamhill           County         is
+classified as agricultural      land based on soils and other factors,
+and has been zoned EF-40 by the county.           Much of the land is also
+generally  suitable    and used     for both    agricultural   and   forestry
+uses,  and has been zoned AF-20.         In order   for the county to zone
+this  land  for uses    other  than    agriculture    or mixed   agricultur-
+al/forestry uses,    there must be an "exception"        to Goals   3 and 4,
+justifying            why        the        land        should               not        be     preserved           for        farm         use     or
+forest        use,     as     the       case          may      be.
+
+         The purpose of these proceedings is to study and identify land
+zoned     for agricultural and forestry use which may be more appropri-
+ately     designated for rural residential development.
+The     intent         of        the        County’s                exception                  process           was     to         make         land
+available         for residential   use in areas already characterized by
+such use,        to allow development of the remaining undeveloped parcels
+in areas         where  the existing   level of development  satisfies  the
+ "built"        or          "committed"                     exception                         requirements               as         described
+below.
+
+         2.          Procedure              for         taking           exceptions
+
+      There are three methods  recognized under the Oregon                                                                           Adminis-
+trative Rules   for taking an exception to the Goals.
+
+         The first method                          is     the           "reasons"                exception,             which            was      not
+used     in this case.
+
+      The second method is the "physically developed" exception (OAR
+660-04-025), which recognizes an exception if an area is physically
+developed to uses other than those allowed by the goal.     Physical
+development,                as         it     relates                   to         agricultural                   areas,            or         mixed
+agricultural/forestry                         areas,             would             be        lands        that    contain           houses         or
+other         improvements                   that           make             commercial                    agricultural                  use       or
+forestry        use         impractical.
+
+         The    third         method          for        justifying                      an    exception           to    the        statewide
+planning goals is based on "irrevocable commitment"                                                                      to     uses other
+than those   allowed by the goal  (OAR 660-04-028).                                                                           This  method
+considers            the    relationship                    of       an       area            with    surrounding              uses.
+
+         In     both          the           "developed"                      and         "committed"               exceptions,                    the
+exception            process            must            determine                   if        surrounding               uses         create         a
+
+Exhibit "A" -          Page      1
+Ordinance 562                    .
+situation that                 makes the          use     of    an    undeveloped          parcel        impractical
+for farming or                 forestry.
+
+         In 1992, Yamhill County Planning Department initiated a study
+of    areas of land currently zoned for exclusive farm use (either AF-
+20 Agriculture/Forestry   or EF-40  Exclusive Farm Use).    The County
+applied the "physically developed" and the "irrevocable commitment"
+exception procedures   to the study areas in question.   The specific
+criteria   listed under Oregon Administrative  Rules   660-04-025   and
+660-004-028 are more fully discussed below.
+
+          The        purpose         of    the   study        was    to    determine       if    areas     have     been
+developed       to    a point     that   commercial    farm   use    is    no    longer
+practical.         If an area is found to be inappropriate            for exclusive
+farm   use    zoning,    it   was    eligible   to be   recommended      for    a zone
+change     to    Agriculture/Forestry         Small   Holding     consistent       with
+statewide      planning    goals    and the county comprehensive          plan.     The
+planning      department     used    county   records   to  identify     owners      and
+interested             parties of one                 or more parcels in each study area.   From
+September              1992  to  June                  of   1993,  the Yamhill  County  Planning
+Commission             held hearings,                   and received evidence on 80 study areas
+and  voted  to  forward    20    of    the  study   areas  to  the Board    of
+Commissioners   for   a  zone     change    to  Agriculture/Forestry    Small
+Holding.    The   Yamhill     County     Board   of  Commissioners  met   and
+considered the study areas which had received the recommendation of
+approval from the Planning Commission,          and voted to approved 17 of
+the study areas    recommended      for approval by the Planning Commis-
+sion,  including  the  study areas  which                                      are   the        subject      of     this
+ordinance  (hereinafter "study areas").
+
+B.      Applicable               Criteria
+
+          1.          OAR      660-04       et   seq.
+
+      OAR            660-04         sets    forth       the    Interpretation          of       Goal   2   Exception
+Process.
+
+          1.1         OAR      660-04-000              (Purpose).             OAR    660-04-000            states     in
+relevant             part:
+
+                 "(2)  An exception is a decision to exclude certain land from
+          the requirements of one or more applicable statewide goals ... The
+          documentation   for  an  exception   must   be   set   forth   in   a local
+          government’s comprehensive plan.     Such documentation must support a
+          conclusion that the standards for an exception have been met.            The
+          conclusion shall be based on findings of fact supported by substan-
+          tial  evidence   in the  record   of  the  local    proceeding    and by    a
+          statement of reasons which explain why the proposed use not allowed
+          by the applicable goal should be provided for ... ."
+
+          1.2         OAR    660-04-018           (Planning          and    Zoning   For    Exception        Areas)    .
+OAR    660-04-018              provides          in    pertinent           part:
+                 "(2)  "Physically    Developed"  and                          "Irrevocably    Committed"
+          Exceptions  to goals   other than Goals    11                        and 14.    Plan   and zone
+          designations shall limit uses to:
+
+Exhibit        "A"    - Page    2
+Ordinance        562
+                  “(a)   Uses    which    are       the     same    as   the    existing        types     of        land    use
+      on    the    exception      site;        or
+
+                  “(b)   Rural    uses     which          meet     the   following           requirements:
+
+             "(A) Rural uses              are       consistent           with    all    other     applicable               Goal
+      requirements;   and
+
+             "(B) The  rural uses                         will  not  commit adjacent  or  nearby
+      resource land to nonresource                        use as defined in OAR 660-04-028; and
+
+                  “(C)   The     rural    uses        are        compatible       with       adjacent          or     nearby
+      uses."
+
+      2's         OAR 660-04-025                 (Exception Criteria For Land                                         Physically
+Developed         to Other Uses)                provides in pertinent part:
+             "660-04-025.               (Exception                 Requirements          for     Land     Physically
+      Developed to Other             Uses)
+
+             "(1)   A local government may adopt an exception to a goal when
+      the land subject to the exception is physically developed to the
+      extent   that  it is not   longer available  for uses  allowed by the
+      applicable goal.
+
+             "(2)  Whether   land  has   been   physically   developed   with   uses   not
+      allowed by an applicable Goal, will depend on the situation at the site of
+      the exception.     The exact   nature and extent     of the areas     found to be
+      physically developed shall be clearly set forth in the justification for
+      the exception.    The specific area(s) must be shown on a map or otherwise
+      described and keyed to the appropriate findings of fact.          The findings of
+      fact  shall  identify   the  extent   and   location  of the existing      physical
+      development on the land and can include information on structures, roads,
+      sewer and water facilities,     and utility facilities.      Uses allowed by the
+      applicable goal(s) to which an exception is being taken shall not be used
+      to justify a physically developed exception."
+
+      3.          OAR 660-04-028                (Exception Criteria For                                Land         Irrevocably
+Committed         to Other Uses)                provides as follows:
+             "660-04-028             Exception              Requirements               for     Land      Irrevocably
+      Committed To Other             Uses.
+
+             "(1)  A local government may adopt an exception to a goal                                                     when
+      the land subject to the exception is irrevocably committed to                                                        uses
+      not allowed by the applicable goal because existing adjacent                                                         uses
+      and other relevant factors make uses allowed by the applicable                                                       goal
+      impracticable:
+
+             "(a)  A “committed exception" is an exception taken                                               in accor-
+      dance  with  ORS  197.732(1)(b),  Goal 2 Part   II(b), and                                               with  the
+      provisions of this rule.
+
+                "(b)  For the purposes of this rule, and "exception area"                                                    is
+      that     area of land for which a "committed exception"  is taken.
+
+             "(c) An  "applicable  goal", as used  in this  section, is a
+      statewide planning goal or goal requirement that would apply to the
+      exception area if an exception were not taken.
+             "(2) Whether  land is irrevocably committed depends on the
+      relationship         between        the       exception.area              and    the     lands     adjacent            to
+      it.     The findings          for    a    committed           exception          therefore        must        address
+      the    following:
+
+Exhibit "A" -— Page        3
+Ordinance 562
+                  "(a)      The       characteristics          of   the     exception           area;
+
+                  “(b)      The       characteristics          of   the     adjacent         lands;
+
+             "(c)           The       relationship        between     the    exception           area    and     the    land
+      adjacent to           it;
+
+                  “(d)      The       other     relevant       factors          set     forth     in     OAR      660-04-
+      028(6)."
+
+             "(3)    Whether uses or activities allowed by an applicable goal
+      are impracticable as that term is used in ORS 197.732(1)(b), in Goal
+      2,  Part    II(b),   and  in  this rule  shall  be  determined   through
+      consideration of factors set forth in this rule.        Compliance with
+      this     rule       shall      constitute         compliance        with    the    requirements             of    Goal
+      2, Part II.   It is the purpose of this rule to permit irrevocable
+      committed exceptions where justified so as to provide flexibility in
+      the application of broad resource-protection goals.   It shall not be
+      required           that       local   governments        demonstrate            that      every     use     allowed
+      by    the    applicable           goal    is     "impossible".
+
+             "(4) A conclusion   that  an  exception  area  is  irrevocably
+      committed shall be supported by findings of fact which address all
+      applicable factors of   section (6) of this rule and by a statement
+      of reasons explaining why the facts support the conclusion that uses
+      allowed by the applicable goal are impracticable in the exception
+      area.
+
+              "(5)   Findings of fact and a statement of reasons that land
+      subject     to an   exception is  irrevocably   committed   need   not   be
+      prepared for each individual parcel in the exception area.           Lands
+      which are found to be irrevocably       committed  under  this   rule may
+      include physically developed lands.
+
+                "(6)   Findings of               fact    for   a committed            exception         shall     address
+      the     following factors:
+
+                  "(a)      Existing          adjacent     uses;
+
+                  "(b)    Existing            public     facilities       and     services        (water        and    sewer
+      lines,       etc.);
+
+                 "(c) Parcel size and                    ownership        patterns        of     the    exception
+      area     and adjacent lands:
+
+              "(A)     Consideration    of parcel   size    and  ownership  patterns
+      under subsection       (6)(c)   of this rule shall include an analysis of
+      how the existing development pattern came about and whether findings
+      against the Goals were made at the time of partitioning or subdivi-
+      sion.    Past land divisions made without application of the Goals do
+      not   in     themselves     demonstrate   irrevocable     commitment    of  the
+      exception area.        Only if development     (e.g., physical    improvements
+      such as roads and underground facilities)           on the resulting parcels
+      or other factors make unsuitable their resource use or the resource
+      use of nearby lands can the parcels be considered to be irrevocably
+      committed.      Resource and nonresource parcels created pursuant to the
+      applicable goals shall not be used to justify a committed exception
+      for land adjoining those parcels.
+
+             "(B)           Existing          parcel sizes      and   contiguous ownerships shall be
+      considered           together           in relation        to   the  land’s actual   use.  For
+      example,           several       contiguous        undeveloped        parcels          (including           parcels
+      separated only by a road or highway)      under one ownership shall be
+      considered  as one farm or forest operation.        The mere   fact that
+      small  parcels    exist  does  not  in  itself  constitute   irrevocable
+      commitment.    Small parcels in separate ownerships are more likely to
+
+Exhibit "A" - Page              4
+Ordinance 562
+         be    irrevocably            committed           if    the     parcels        are    developed,           clustered       in
+         a    large      group        or    clustered            around     a   road         designed       to     serve      these
+         parcels.   Small parcels in separate ownerships are not likely to                                                         be
+         irrevocably   committed  if they  stand alone amidst  larger farm                                                         or
+         forest operations,   or are buffered from such operations.
+
+                      "(d)      Neighborhood              and     regional        characteristics;
+
+                "(e)    Natural    or  man-made    features  or    other    impediments
+         separating the exception area from adjacent            resource   land.    Such
+         features    or  impediments    include   but   are not    limited    to roads,
+         watercourses,      utility   lines,    easements,   or    right-of-way     that
+         effectively impede practicable resource use of all or part of the
+         exception area.
+
+                      "“(£)     Physical         development              according           to    OAR    660-04-025;         and
+
+                      "(g)      Other        relevant           factors.
+
+                      "(7)      The         evidence            submitted          to        support         any         committed
+         exception            shall,        at   a   minimum,            include         a    current       map,     or     aerial
+         photograph            which        shows    the        exception       area         and    adjoining        lands,       and
+         any    other         means        needed    to        convey     information              about    the     factors       set
+         forth in this rule.  For example, a local government may use tables,
+         charts,  summaries or narratives to supplement the maps or photos.
+         The applicable factors set forth in section (6) of this rule shall
+         be shown on the map or aerial photograph.
+
+                 "(8)           The  requirement  for a map  or  aerial photograph  in
+         section    (7)          of this rule only applies to the following committed
+         exceptions:
+
+                      "“(a)     Those        adopted or amended                   as    required by           a Continuance
+         Order        dated     after        the effective date                   of    section  (7)          of this rule;
+         and
+
+                 "(b)    Those adopted or amended after the effective  date of
+         section     (7)  of this rule by a jurisdiction  with an acknowledged
+         comprehensive plan and land use regulations.
+
+Cc.      FINDINGS             AND      CONCLUSTONS
+
+         1.      Exception Study                          Areas  The            exception study                     areas included
+in    this     Ordinance include                          Exception             Study Areas 41,                     43, 44, 54, 64
+and 76,          as       more        particularly                      described             below.               For     said         study
+areas:
+
+      1.1  The Board  finds that  it has received  all information
+necessary to consider the Planning Commission’s recommendation for
+approval of the study areas for an exception.
+
+         1.2      The         Board         finds      that           proper      public            notice         has     been      given.
+
+      1.3  The Board finds that the proposed exception to Statewide
+Planning  Goals   3 (Agricultural  Lands)  and 4 (Forest  Lands)  is
+consistent with OAR 660-04 which contains criteria for an excep-
+tion.
+
+         2.       OAR
+                  660-04-000.
+
+Exhibit "A" - Page               5
+Ordinance 562
+     The Board finds that                      pursuant to                  OAR 660-04-000(2), there                           is
+substantial  evidence  in                      the  record                  that the   standards for                           an
+exception have been met for each study area,   as more particularly
+set forth in the Staff Report attached hereto and by this reference
+incorporated   herein, and   as set   forth in   the record  of  the
+proceedings which led to the adoption of this ordinance    (herein
+collectively referred to as "Staff Report"). The Board also finds
+that    the reasons why the               proposed use not allowed by the applicable
+goal    should be provided                are set forth in the Staff Report.
+
+        3s       OAR     _660-04-018.
+
+        The     Board     finds    pursuant               to     OAR        660-04-018(2),                that       based     on
+the    findings          contained        in        the        staff         report,             the     plan        and     zone
+designations            will   limit     uses        to        the      following:
+
+         3.1 Uses which are the                      same        as    the        existing            types     of   land     use
+on    the exception site:  or
+
+        3.2      Uses     which    are      rural          uses        which            are     limited       to:
+
+              (a) Uses            which  are   consistent                                     with      all      other
+        applicable goal           requirements;
+
+                 (b)     Rural    uses         which           will         not        commit         adjacent        or
+        nearby         resource    land        to    nonresource                    use;        and
+
+                 (c) Rural uses which                     are        compatible               with     adjacent       or
+        nearby      resource uses.
+
+        4.       OAR_    660-04-025.
+
+       4.1    The Board finds that pursuant to OAR 660-04-025(1)  that
+the land subject to the exception is physically developed to the
+extent     that  it is no longer   available for uses  allowed by the
+applicable goal based on the information contained in the staff
+report.
+
+        4.2      The     Board    finds        that        pursuant               to     OAR     660-04-025(2)               that
+the land within the study areas       has been physically developed to
+other   uses   not  allowed   by  the    applicable    goal  based on  the
+information contained     in the staff    report.    The Board finds  that
+the nature    and extent   of the  study   areas,   together with the map
+thereof,   is set forth in the staff report.         The Board finds that
+the    extent     and    location      of      the    existing               physical            development               on the
+land including            information on structures,                                   roads,   sewer,           and       water
+facilities  and            utilities  facilities,  is                                  set  forth   in           the       staff
+report.
+
+        5.       OAR     _660-04-028.
+
+        5.1.     The     Board    finds        pursuant                to    OAR        660-04-028(1)                that     the
+land     is     irrevocably         committed                   to      other           uses         because         existing
+adjacent        uses     and   other     relevant               factors            make        uses     allowed        by     the
+applicable         goal        impracticable,                   based             the      relationship               between
+
+Exhibit "A" - Page 6
+Ordinance 562
+exception            area        and     lands            adjacent              to     it,    as        shown        by:
+
+         (A)         characteristics                          of     the       exception            area;
+
+         (B)         characteristics                          of     adjacent           lands;
+
+         (C)         relationship                       between             the        exception               area        and     adjacent
+lands;         and
+
+         (D)         other         factors               listed           in    OAR      660-04-028(6).
+
+         5.2         The     Board            finds           that        pursuant           to     OAR        660-04-028(4)              that
+the uses allowed by the applicable goals  are impracticable in the
+exception study area based on the following factors as more   fully
+described and explained in the Staff Report:
+
+         (A)         Existing            adjacent                   uses;
+
+         (B)         Existing            public               facilities               and   services                (water       and    sewer
+lines,         etc.);
+
+         (C)         Parcel            size        and        ownership              patterns            of    the     exception          area
+and    adjacent             lands,            including                  how     the    pattern               came     about,       whether
+findings   against the goals were made                                                  at    the time of subdivision,
+partition,   and existing parcel sizes                                                 and    contiguous ownerships;
+
+         (D)         Neighborhood                       and    regional              characteristics;                      and
+
+         (E)         Natural             or             man-made                features            or         other         impediments
+separating              the            exception                    area         from        adjacent                resource            land,
+including            but         not     limited               to        roads,        watercourses,                  utility           lines,
+easements             and         rights-of-way                          that        effectively                 impede          practical
+resource         use        of     all        or        part        of    the     exception               area.
+
+D.       DECISTON
+
+      1.   The Staff Report and all exhibits for the study areas in
+question which were before    the Planning  Commission and Board of
+Commissioners during consideration thereof are hereby incorporated
+by    reference             as     part        of        this        decision.
+
+         2.          Based         on    the        record           of     the      public        hearing            on   this     matter,
+the Board concludes that the                                              case for an exception to Statewide
+Planning Goal 3 (Agricultural                                            Lands) and Goal 4 (Forest Lands) has
+bee substantiated.       Therefore,     the Board approves a comprehensive
+plan  amendment,    zone    change    and   the   taking   of an exception  to
+Statewide Land Use Planning Goals 3 and 4 for exception study areas
+41,  43,  44,   54,   64,    and   76,    and   that   pursuant  thereto,  the
+Comprehensive Plan designation for such areas should be changed                                                                             to
+"Agriculture/Forestry  Small Holding",  the zoning designation                                                                              of
+such areas           should be changed                              to "AF-10 Agricultural/Forestry Small
+Holding",            and  an  exception                              under  Oregon  Administrative Rules,
+Chapter         660,        Division                4     should           be     taken           for     such        areas       based     on
+either   the               land  being   "physically   developed"                                                or         "irrevocably
+committed",                as more   specifically  set  forth   in                                              the        Staff  Report
+
+Exhibit "A" — Page                 7
+Ordinance 562
+attached         hereto.
+
+QLU93295.002-a
+
+ Exhibit "A" - Page        8
+ Ordinance 562
+     The Board finds that                             pursuant to OAR 660-04-000(2),   there                                             is
+substantial  evidence  in                             the  record that the   standards   for                                             an
+exception        have        been     met        for        each        study        area,           as    more        particularly
+set    forth    in     the        Staff     Report           attached              hereto           and     by    this        reference
+incorporated   herein,   and  as  set  forth   in   the   record of   the
+proceedings  which   led to the  adoption   of this    ordinance (herein
+collectively referred to as "Staff Report").       The Board also finds
+that the reasons why the proposed use not allowed by the applicable
+goal    should        be     provided            are        set        forth        in    the       Staff         Report.
+
+        3.       OAR        _660-04-018.
+
+        The     Board        finds         pursuant               to    OAR        660-04-018(2),                  that        based     on
+the  findings               contained            in the                staff  report,                     the     plan        and      zone
+designations               will limit            uses to               the following:
+
+        3.1      Uses        which        are        the     same       as    the        existing           types        of    land     use
+on    the    exception             site:        or
+
+        3.2      Uses        which         are       rural         uses       which           are     limited           to:
+
+                 (a)         Uses         which             are         consistent                  with         all     other
+        applicable            goal         requirements;
+
+                 (b)        Rural         uses        which            will        not        commit        adjacent            or
+        nearby        resource             land        to    nonresource                  use;        and
+
+                 (c) Rural uses which                             are    compatible                 with        adjacent        or
+        nearby      resource uses.
+
+        4.       OAR_660-04-025.
+
+      4.1    The Board finds that pursuant to OAR 660-04-025(1) that
+the land subject to the exception is physically developed to the
+extent    that  it is no longer   available for uses allowed by the
+applicable goal based on the information contained in the staff
+report.
+
+        4.2      The        Board     finds            that        pursuant              to    OAR        660-04-025(2)               that
+the land within                   the study areas has been physically developed to
+other  uses  not                   allowed  by  the applicable  goal based  on  the
+information contained                       in the staff report.                                 The Board finds that
+the nature and extent                        of the study areas,                                together with the map
+thereof,        is     set        forth     in        the     staff           report.               The     Board        finds        that
+the    extent        and     location           of     the        existing          physical              development               on the
+land including               information on structures,                                       roads,   sewer,             and        water
+facilities  and               utilities  facilities, is                                       set  forth   in             the        staff
+report.
+
+        5-      OAR
+                 660-04-028.
+        5.1.     The        Board      finds           pursuant               to    OAR        660-04-028(1)                  that     the
+land  is        irrevocably  committed                                  to  other  uses  because existing
+adjacent       uses and other relevant                                  factors make uses allowed by the
+
+Exhibit "A" - Page            6
+Ordinance 562
+applicable  goal  impracticable, based  the                                                              relationship                 between
+exception area and lands adjacent to it, as                                                              shown by:
+
+         (A)         characteristics                          of     the        exception            area;
+
+         (B)         characteristics                          of     adjacent            lands;
+         (C)         relationship                       between            the         exception                area         and     adjacent
+lands;        and
+
+         (D)         other            factors            listed           in     OAR     660-04-028(6).
+
+         5.2         The     Board            finds           that        pursuant            to     OAR        660-04-028(4)                  that
+the    uses      allowed               by     the        applicable               goals            are     impracticable                  in    the
+exception            study        area           based         on        the     following                factors            as    more     fully
+described            and     explained                   in    the        Staff        Report:
+
+         (A)         Existing               adjacent               uses;
+
+         (B)         Existing               public            facilities               and     services               (water        and     sewer
+lines,         etc.);
+
+         (C)         Parcel            size       and         ownership           patterns                of    the         exception          area
+and    adjacent            lands,             including                  how     the     pattern               came        about,     whether
+findings         against               the        goals            were        made     at     the        time         of     subdivision,
+partition,             and       existing                parcel           sizes        and     contiguous                    ownerships;
+
+         (D)         Neighborhood                       and    regional               characteristics;                        and
+
+         (E)         Natural                or          man-made                features             or         other             impediments
+separating    the   exception   area    from   adjacent   resource    land,
+including  but not limited to roads,       watercourses,   utility lines,
+easements   and   rights-of-way    that   effectively   impede   practical
+resource         use       of     all        or         part       of     the     exception                area.
+
+D.       DECISTON
+
+         1.          The     Staff           Report            and        all    exhibits                for    the         study    areas       in
+question         which           were            before            the      Planning               Commission                and     Board       of
+Commissioners during                             consideration thereof                              are        hereby         incorporated
+by reference as part                             of this decision.
+
+        2.           Based on the record of the public                                               hearing on this matter,
+the    Board         concludes   that the case  for an                                               exception  to Statewide
+Planning         Goal        3    (Agricultural                         Lands)         and     Goal        4    (Forest            Lands)       has
+bee substantiated.       Therefore,    the Board approves      a comprehensive
+plan  amendment,    zone   change    and   the   taking   of an   exception  to
+Statewide Land Use Planning Goals 3 and 4 for exception study areas
+41,  43,  44,   54,   64,    and  76,    and   that   pursuant   thereto,   the
+Comprehensive                Plan           designation                   for    such        areas         should            be    changed       to
+“Agriculture/Forestry                               Small           Holding",                the         zoning            designation           of
+such     areas        should           be        changed            to     "AF-10       Agricultural/Forestry                               Small
+Holding",            and         an         exception                under            Oregon             Administrative                   Rules,
+Chapter         660,         Division               4     should           be     taken            for     such            areas     based       on
+either         the         land         being             "physically                   developed"                    or      "irrevocably
+
+Exhibit "A" - Page                7
+Ordinance 562
+committed",          as    more   specifically   set   forth   in   the   Staff   Report
+attached         hereto.
+
+QLU93295.002-a
+
+ Exhibit "A" - Page         8
+ Ordinance 562
+    DOCKET:                               G-2-92
+
+    GROUP    :                            B
+
+   AREA:                                  Area       41
+
+   MAP      NUMBER:                       3512
+
+    ISSUE:                                Possible Comprehensive Plan Map amendment
+                                          from Agriculture/Forestry Large Holding to
+                                          Agriculture/Forestry Small Holding and a zone
+                                          change from AF-20 Agriculture/Forestry Use                                                to
+                                          AF-10 Agriculture/Forestry Small Holding.
+
+    REVIEW        CRITERIA:               OAR    660-04-025                   and     660-04-028
+
+    COMMENTS        RECEIVED:
+
+             Yamhill County Sanitarian:                                   Mostly Chehalem and Cove                         soils        -
+             Less than 25% feasible for                                  standard or alternative
+             approvals.            Minimal           area          in     the    NE    portion        of    study     area         is
+             Willakenzie           [shallow              (Wk)          and    deep      (We)]    which        would        have
+             higher     suitability.
+
+    FINDINGS =:
+
+   A.            Background        Facts
+
+   “ls.      Area     Size:        83.6       acres
+
+    2.       Parcels     involved:               21       subdivision                 lots
+
+    3.       Separate         owners:           10
+
+    4.       Parcels     developed:                  7
+
+    5.       Parcels     developed              prior             to    Statewide           Planning        Goals:          5
+    6.       Land Use and Characteristics   of Study Area:    The study area
+             is bordered by Moores Valley Road to the north and Puddy
+             Gulch Road to the south and east.     The study area is part of
+             a valley that runs in an east/west direction.       A small
+             stream cuts through the middle of the study area and flows
+             from west to east.   The properties   are between two and 17
+             acres.  The majority of parcels appear to be fenced                                                      and used
+             to raise livestock which include horses, cattle and                                                      sheep.
+             The    dwellings        that        are          located           in    the    study     area     are    located
+             on the     higher       levels              of       land,       close     to    Puddy        Gulch     and
+             Moores     Valley       Roads.
+
+    7.       Surrounding           Land       Use:            A    few       small     parcels       exist      in    the
+             surrounding area but the majority are between 20 and 100
+             acres.    These parcels are in a mixture of farm and forest
+             use.   The farm uses are predominantly pasture  for livestock.
+
+Exhibit   "A" — Page           9
+Ordinance    562
+   Yamhill County          Planning            Department
+   Docket G-2-92,          Area 41
+   Page 2
+
+          The     livestock         include        horses,           cattle           and     sheep.             The     only
+          exception to this is a 99                          acre        parcel        east        of     the     study         area
+          that contains a hog farm.
+
+   8.     Well    Logs:          See     attached        data        sheet.
+
+          Fire     Protection:             Yamhill           Rural        Fire        Department
+
+   10.    Floodplain:  Flood Insurance Rate Maps 125C                                                and       130C
+          indicates the 100 year floodplain runs east                                                and       west through
+          the middle of the study area.   The width of                                               the       study area
+          varies from 500 to 800 feet.
+
+   11.    Development            Pattern:          All       of     the       parcels         in     the        study       area
+          were     created        as     part    of     the       Alder        View        Ranchettes             which        was
+          platted        February         19,    1969.            Only        two     of     the     dwellings              were
+          placed after adoption of the Statewide                                           Planning Goals.
+          Nonfarm dwellings were approved on tax                                           lots 2200 and 2900                        by
+          Dockets        C-38-90         and    C-29-88           respectively.                    Three         other       Lot
+          Size    Variances            were     denied        in     the       late         1970's        on     tax     lots
+          1400, 1800 and 2900 by Dockets PV-406-77, PV-34-75 and PV-
+          236-77 respectively.  The rural addressing map that was used
+          to gather preliminary information showed a residence on tax
+          lot 2100.  This is not used as a residence and the tax lot
+          should be considered undeveloped.   One of the two dwellings
+          on tax lot 1200 was approved in 1981 as a temporary mobile
+          home for         special        care     of    a relative,                  by     Docket        C-461-81/TS-
+          148-81.
+
+    12.   Ownership         Pattern:            There        are     five       sets         of    tax     lots        are      in
+          contiguous         ownerships.                The        first       set     is     tax        lots     2200,        2300
+          and 2400.  This is a combined ownership                                            of 14.35            acres.   The
+          second contiguous ownership is tax lots                                            2500 and            2600 that
+          combine for nine acres.   The next is tax lots 2700 and                                                            2800
+          that are also combined for nine acres.   Tax lots 1700,                                                            1800,
+          1900,     2000     and        2100    combine            for    a    total        ownership             of
+          approximately 14                acres.   The last and largest contiguous
+          ownership is tax                lots 1200 and 1300 that combine for 17.1
+          acres.
+
+          Administrative               Rule     Provisions               and    Analysis
+
+          Oregon Administrative Rule 660-04-025 lists requirements
+          that counties must follow if rural land is to be zoned for
+          uses    other      than        farming        or    forestry               (called         "taking           an
+          exception        to     the     Goals").            Generally,               in     order        to     zone       rural
+          land     for   residential             use,        it    must        be     "physically               developed"
+          or     "irrevocably            committed"           to     nonresource                  use.          For     Land
+          Physically         Developed           to     Other        Uses.           OAR      660-04-025(2)
+
+Exhibit   "A" - Page        10
+Ordinance    562
+  Yamhill County           Planning              Department
+  Docket G-2-92,           Area 41
+  Page 3
+
+        states:          Whether            land       has     been      physically             developed                with
+        uses      not     allowed           by    an    applicable             Goal,          will     depend            on    the
+        situation          at        the    site       of     the      exception.              The     exact        nature
+        and      extent        of     the    areas           found      to    be    physically               developed
+        shall      be     clearly           set     forth         in    the    justification                  for        the
+        exception.              The        specific           area(s)         must       be    shown         on    a map            or
+        otherwise described                       and keyed to the appropriate  findings                                                 of
+        fact.   The findings                      of fact shall identify the extent and
+        location          of     the       existing           physical         development              on        the     land
+        and can include information on structures,   roads, sewer and
+        water facilities,  and utility facilities.   Uses allowed by
+        the applicable goal(s)  to which an exception is being taken
+        shall not be used to justify a physically developed
+        exception.
+
+  2.    Existing          Features
+
+        Structures:                  As    indicated           on      the    attached          map,         five        of    the
+        parcels  have dwellings placed prior to adoption of the SPGs.
+        These dwellings  are scattered throughout the study area but
+        are all constructed relatively close to existing roadways.
+        Two of the dwellings are close to Puddy Gulch Road and three
+        are along Moores Valley Road.   Two other structures were
+        approved as nonfarm dwellings applying the SPGs.     One
+        additional             structure           was        allowed         for    a    hardship            on    tax        lot
+         1200.      These            are    all    along          Moores       Valley          Road     and        are        not
+        included          as     areas       that       are         "physically           developed."
+
+        Roads:   As indicated in finding A.6,  the study area is
+        bordered on three sides by two roadways.    Moores Valley Road
+        is a paved county road and borders the area to the north.
+        Puddy Gulch Road is a graveled county road that borders    the
+        area to the south and east.    Moores Valley Road is a well
+        traveled county roadway and this                                      helps to functionally
+        divide the parcels in this study                                      area from farmland to                            the
+        north.  Puddy Gulch Road is less                                      developed and less
+        traveled.              Although           buffering             the    study          area     from
+        neighboring farm uses it does not appear that                                                   it        would
+        interfere with contiguous farm management.
+
+        Sewer, Water and Utility Facilities:   All of the                                                         existing
+        dwellings have on-site wells and septic   systems.                                                         Electric
+        power      and     phone           service          are     available            in    the    area.
+
+   3.   Oregon      Administrative                     Rule       660-04-028(2)                and     (6)        list        the
+        exception requirements    for land irrevocably committed                                                              to
+        other uses.    These rules require consideration of the
+        following   factors:
+
+Exhibit   "A" - Page            11
+Ordinance    562
+  Yamhill County               Planning           Department
+  Docket G-2-92,               Area 41
+  Page 4
+
+        Characteristics                     of    the     Exception          Area:            As     stated        in    Finding
+        A.6,           the    area     is    bordered          on    three         sides        by    roads.            The     area
+        has        a    small     stream          flowing         from      the     west        to    the     east.            It        is
+        located near the middle of the study area.                                                    The 100-year
+        floodplain exists approximately 400 feet on                                                   either side of
+        this           stream     and       covers        about      70     percent           of     the     study       area.
+        The area contains small farm uses.  These                                                  farms consist of
+        pastureland for livestock such as horses,                                                  cattle and sheep.
+        These           farm     uses       are    on     contiguous          ownerships               of     between           two
+        to     17       acres.          Three        of    these      contiguous                ownerships              are     over
+        10 acres and the remaining seven are less.       The first of
+        these three contiguous    ownerships is in the northwest corner
+        of the study area.    It consists of tax lots 3512-2200,     2300,
+        and 2400,  and totals   14.35 acres.   The western tax lot
+        contains  a house that was placed via a nonfarm dwelling
+        approval.   This approval required the applicants     to
+        demonstrate the parcel was generally unsuitable      land for
+        farm use.    The nonfarm dwelling physically develops                                                           this
+        parcel.   The existing development and the fact that                                                            the
+        parcel was found to be unsuitable    for farm use makes   it
+        unlikely that this land would be combined with larger farm
+        acreages.   The next contiguous ownership is in the northeast
+        corner of the study area.    It consists   of tax lots  3512-1200
+        and 1300 which totals  17.1 acres.    This ownership has four
+        subdivision lots that could each be sold off separately.
+        This contiguous ownership is bounded to the north and east
+        by roads.   Moores Valley Road to the north is a paved county
+        roadway that is well traveled.   Puddy Gulch Road to the east
+        is     a       graveled        roadway          that     appears           to    provide           local        access
+        only.  Both of                  these roads present                       practical difficulties
+        with combining                  this ownership with                       larger blocks of
+        agricultural  land.  To the                              south and west the adjacent
+        parcels are between two to                               six acres and in separate
+        ownership.   These separate                              contiguous ownerships  also would
+        make combination of lots into larger commercial farms
+        unlikely.   The third and last contiguous ownership of over
+        ten acres is located in the southwest corner of the study
+        area.   It contains                       tax lots 3512-1700,  1800, 1900, 2000, and
+        2100 and totals   14                      acres.  A dwelling is located near the
+        middle           of    this     contiguous             ownership.                It     is    bordered           to     the
+        north by a stream and to the south by Puddy Gulch Road.    The
+        parcel adjacent east of this ownership  is 2.18 acres.  The
+        most reasonable direction to combine this ownership is to
+        the west.   The contiguous ownership is narrow and only abuts
+        the western   parcel by 225 feet. The physical                                                       attributes of
+        this contiguous ownership makes combination of                                                       this property
+        with           neighboring           commercial             farms     unlikely.
+
+        Characteristics                     of    Adjacent          Lands:          Adjacent           land     slopes              up
+        to     the       north        and    south        away      from     the        study        area.      There           are
+
+Exhibit   "A" - Page             12
+Ordinance    562
+  Yamhill County         Planning         Department
+  Docket G-2-92,         Area 41
+  Page 5
+
+        a few parcels            of less than ten acres but the majority of
+        adjacent lots            are 20 to 100 acres.   These properties are                               in
+        a mixture of farm and forestry use.   The main farm use
+        appears to be pasture for livestock.   The livestock  include
+        horses,  cattle, and sheep.  The main exception to this is a
+        99 acre hog farm to the east of the study area.
+
+        Relationship Between Exception Area and                              Adjacent Land:
+        Moores Valley Road and the sloping land                              to the north both
+        discourage        contiguous             farm    uses   with   properties           inside    the
+        study     area.   Puddy           Gulch Road borders the study area to the
+        south     and east but            does not separate the land from adjoining
+        farm uses.   The study                    area is       the only subdivision in the
+        immediate vicinity and                    as such       is surrounded by farm uses.
+        The farm uses in the study area are similar to those of
+        surrounding parcels but are being conducted on a smaller
+        scale.   Some of the properties south of the stream may be
+        suitable to be combined with other neighboring farm
+        operations.   Those parcels north of the                             stream would have              a
+        more difficult time being combined with                              farms because the              of
+        the practical   difficulties                     presented     by    the    stream     and
+        county roadway.
+
+        Existing        Adjacent         Uses:      See    Finding     A.7    and    B.2.
+
+        Existing        Public        Facilities         and    Services:      See    Finding        A.9
+        and B.2.
+
+        Parcel Size and Ownership Pattern,     Study Area/Adjacent Land:
+        There are three contiguous   ownerships    of over ten acres.
+        These ownerships  are 14,  14.35 and 17.1 acres.      The
+        remaining ownerships  are between two to 9.5 acres.       All of
+        these contiguous  ownerships   are less than the 20 acres
+        required for new parcel creation under the AF-20
+        Agriculture/Forestry zoning designation.    The parcels in
+        the study area were all created by the Alder View
+        Ranchettes, which was platted as a subdivision February 19,
+        1969.   This subdivision created 21                         parcels,  all of which are
+        included in the study area.    These                        21 subdivision lots are
+        in ten separate ownerships.
+
+        Parcels  in the surrounding                      area are generally between                  20    to
+        over 100 acres and part of                       larger commercial  farm and
+        forestry operations.
+
+        Neighborhood            and     Regional        Characteristics:            See   Findings
+        A.6,    A.7,     and     B.3.
+
+        Natural        and Man-Made Features/Impediments:                           As stated in
+        Finding        B.2, there are two county roadways                          that border the
+
+Exhibit "A" -    Page      13
+Ordinance 562             ;
+ Yamhill         County           Planning               Department
+ Docket        G-2-92,            Area            41
+ Page     6
+
+          study area on three sides.  While                                               these        do not completely
+          separate the study area from farm                                               uses,        they do provide a
+          buffer            and        in        some    cases        pose        practical            difficulties              with
+          contiguous                   farm        management           outside            of    the     study       area.            The
+          study area also contains a stream that                                                   flows from the                 west
+          to the east.   Several hundred feet on                                                   either side of                 this
+          stream            is    an         area       designated            as    being         in    the    100-year
+          floodplain.                        The zoning              ordinance discourages                       development                 in
+          the 100-year                       floodplain              and only allows it if                       there are
+          flood            mitigation                  standards            implemented.
+
+          Physical               Development:                    See    Finding            B.2     above.
+
+          Other Relevant Factors:  As noted under the Comments
+          Received from the Yamhill County Sanitarian, the majority of
+          the soil in this study area have an expected feasibility for
+          septic systems at less than 25 percent.   This includes not
+          only         standard                  but    alternative               septic        systems.          This          low
+          septic suitability should be considered when evaluating the
+          possibility of rezoning the land.    Additionally as noted
+          previously in the staff report, much of the study area is
+          within the 100-year floodplain.   This would likely create
+          problems with future development.
+
+ CONCLUSIONS
+
+ Ls       There            is adjacent                  commercial  farm use in the surrounding
+          area,            however due                  to the heavy level of traffic on Moores
+          Valley            Road,            the       study     area        is    functionally               divided           from
+          farm         uses       to         the       north.         Puddy        Gulch        Road     to    the    south           and
+          east         is much narrower and has less                                       of    an     impact       of    dividing
+          this         area from neighboring uses.
+
+ 2.       The        study        area            contains           five     residences               that    were       placed
+          prior to the adoption of the                                        Statewide Planning                     Goals.            Two
+          residences were placed after                                        the Goals.
+
+ 3.       The study area contains   21 parcels in 10 separate
+          ownerships.   The contiguous ownerships vary in size                                                                  from    two
+          to     17        acres.                The    minimum        lot        size     for     the    zone       is    20     acres.
+          None         of    these               parcels        or    contiguous            ownerships           in       the     study
+          area         is    above               the    minimum        lot        size.
+
+ 4.       The land use pattern may allow for the existing parcels  to
+          be recombined into existing commercial farm uses but the
+          existing parcelization and ownership pattern would likely
+          prevent combination of parcels.
+
+Exhibit        "A"     -    Page            14
+Ordinance            562           ;
+   Yamhill       County          Planning           Department
+   Docket       G-2-92,          Area        41
+   Page 7
+
+   5s      The       area contains soils                    that the county                  sanitarian    believes
+           has       low suitability for                    septic systems.
+
+   6.      The majority                 of    the    study       area     is    in    the     100-year
+           floodplain.
+
+   PLANNING          COMMISSION              ACTION
+
+           Because          of    the        many    reasons,       both        for    and     against    rezoning
+           this area,  the planning staff decided not to make a
+           recommendation  in this area.  The Planning Commission
+           reviewed the study area February 18,   1993, and decided that
+           due to the development prior to adoption of the Statewide
+           Planning Goals and the limited agricultural use the area
+           should          be    forwarded           to    the    Board        of    Commissioners        for
+           exception             to     the       goals.         This   motion         was     approved    by   a   vote
+           of    4    to    3.
+
+   BOARD    OF       COMMISSIONERS                 ACTION
+
+           September  23, 1993, the Board of Commissioners voted
+           unanimously to approve this area for exception to Statewide
+           Planning Goals  3 and 4 and change the zoning to AF-10
+           Agriculture/Forestry Small Holding.
+           ..-Share\kf\Area-41.bef
+
+Exhibit   "A" - Page              ‘15
+Ordinance    562
+  DOCKET:                             G-2-92
+
+  GROUP     :                         B
+
+  AREA:                               Area        43
+
+  MAP     NUMBER:                     3523        and    3524
+
+   ISSUE:                             Possible Comprehensive Plan Map                                amendment
+                                      from Agriculture/Forestry Large                                Holding to
+                                      Agriculture/Forestry Small Holding and a zone
+                                      change from EF-40 Exclusive Farm Use and AF-
+                                      20 Agriculture/Forestry Use to AF-10
+                                      Agriculture/Forestry Small Holding.
+
+  REVIEW         CRITERIA:            OAR     660-04-025           and       660-04-028
+
+   COMMENTS        RECEIVED:
+
+            Yamhill     County        Sanitarian:                Predominantly              shallow       and    deep
+           Willakenzie  soils -                  Generally good  (50-75%)   feasibility,                               but
+           be careful of steep                   slope designations   in this area.
+           Water      Resources           Department:             There       are     no    concerns        raised      by
+            the    potential         for     zone       change     regarding           the    groundwater
+            resource        within        these        areas.      Most       wells        penetrate       marine
+            sedimentary        rocks        which        generally           yield     water      poorly        to
+            wells, but quantities adequate for domestic supplies are
+            usually available.   In addition to the marine sediments,
+            underlying basalts are penetrated in some wells.   These also
+            appear     to    yield        water        poorly     to    moderately           to   wells.
+
+   FINDINGS :
+
+  A.            Background     Facts
+
+   Le      Area     Size:      215.8        acres
+
+   26       Parcels     involved:             25
+
+   3        Separate        owners:         25
+
+   4.       Parcels     developed:               20
+
+   5.       el          developed           prior        to     Statewide       Planning          Goals      (SPG):
+
+   6.       Land Use and Characteristics of                             Study       Area:       The land
+            slopes up, north of Meadow Lake                             Road.        This     section contains
+           moderate to steep slopes and uneven topography.                                            Land south
+           of Meadow Lake Road slopes down from the road at’                                          a more even
+            and    gentle rate.   Uses                  in the study area include small                              farms
+            and    rural residences.                    The farm uses include Christmas                              trees
+            and    pasture     for        cattle,        horses        and    goats.         There    are       some
+
+Exhibit   "A" - Page          16
+Ordinance    562
+  Yamhill County          Planning              Department
+  Docket G-2-92,          Area 43
+  Page 2
+
+         larger        evergreen              trees     and    scrub        oak    existing              in     the          study
+         area,  however                 they    do     not    appear        to    be    managed            as      a    timber
+         operation.
+
+   vi    Surrounding               Land       Use:      Adjacent        property              to     the      north           and
+         east     is    forested.               Land     to    the     south       along           the     valley             floor
+         is used for grain crops.   There are other farm uses in the
+         general area which include pasture for livestock,   Christmas
+         trees  and orchards.
+
+   8.    Well    Logs:             See       attached        data     sheet.
+
+   9.    Fire    Protection:                   Carlton        Rural     Fire       District
+
+   10.   Floodplain:  Flood Insurance Rate Maps  125C indicates that
+         although the southwest corner of the study area is near the
+         flood zone, none of the study area is in the 100- year
+         floodplain.
+
+   11.   Development               Pattern:            The    Robin     Hill       subdivision                  plat,          which
+         existed prior to adoption                            of the Statewide Planning Goals
+         was recognized in 1978 by                            Docket S-41-78,  created the
+         parcels  identified by tax                           lots 3523-1100  through 1308.   Tax
+         lots 3524-1300 and 1400 were divided from each other in 1972
+         by Docket P-153-72.   Tax lot 3523-1701 was created after
+         adoption of the SPGs by a retirement separation approved in
+         1977 under docket C-246-77/P-762-77.    Ten dwellings were
+         constructed in this study area prior to adoption of the
+         SPGs.   The following is a list of tax lots and approvals
+         granted after adoption of the SPGs.    Tax lots 3523-1100,
+         1200,  3524-1000 and 500 had dwellings   approved by                                                      lot        size
+         variance dockets PV-318-77A,  PV-318-77,   PV-554-81                                                      and        PVv-
+         559-81.  Tax lots                     3523-1600 and 1303 had dwellings                                        approved
+         by lot of record,                     dockets LOR-10-85 and LOR-18-83.                                         Tax lots
+         3523-100        and           1308    had     nonfarm       dwelling           approved              by       dockets
+         C-14-86        and        C-40-88.            Tax    lots     3523-1304              and       3524-1100              had
+         farm    dwellings               approved        by    dockets           FMP-199            (1983)         and        FD-2-
+         90.
+
+   12.   Ownership        Pattern:               Tax     lot       3524-500,           590,        and     600         are     the
+         only    tax     lots           in    contiguous           ownership.            A letter               from         the
+         planning director in 1981 indicated that these could                                                            not be
+         considered separate  "lots of record".   Together they                                                          account
+         for a total of approximately 10.6 acres.
+
+   B.    Administrative                  Rule    Provisions           and        Analysis
+
+   1.    Oregon        Administrative                 Rule     660-04-025              lists        requirements
+         that    counties              must     follow        if    rural        land    is        to    be     zoned          for
+         uses    other        than           farming     or    forestry           (called            "taking            an
+
+Exhibit  "A" =     Page           17
+Ordinance 562                 ,
+  Yamhill County          Planning              Department
+  Docket G-2-92,          Area 43
+  Page 3
+
+        exception to the Goals").                               Generally,          in order to zone rural
+        land for residential use,                             it must be           "physically developed"
+        or     "irrevocably               committed"           to     nonresource           use.              For     Land
+        Physically         Developed              to     Other        Uses.        OAR     660-04-025(2)
+        states:   Whether land has been physically developed with
+        uses not allowed by an applicable Goal, will depend on the
+        situation at the site of the exception.    The exact nature
+        and extent of the areas   found to be physically developed
+        shall     be     clearly           set     forth       in     the     justification               for        the
+        exception.             The        specific           area(s)        must    be     shown         on    a     map     or
+        otherwise described                      and keyed to the appropriate findings                                            of
+        fact.   The findings                     of fact shall identify the extent and
+        location of the existing physical development on the land
+        and can include information on structures,  roads, sewer and
+        water facilities, and utility facilities.   Uses allowed by
+        the applicable goal(s) to which an exception is being                                                          taken
+        shall not be used to justify a physically developed
+        exception.
+
+  20    Existing         Features
+
+        Structures:                  As indicated on the attached map, ten of the
+        parcels have                dwellings that were placed prior to adoption of
+        the     SPGs.          These        dwellings              were     not    clustered             in    any
+        particular location but are scattered throughout the study
+        area.    Ten other dwellings have been allowed by various
+        applications that made exceptions against the goals.
+
+        Roads:          There        are    two     county          roadways        that        intersect             the
+        study     area.             The    first       is    Meadow         Lake    Road,        a paved             county
+        road.  It travels  in an east/west direction and bisects  the
+        study area into north and south subareas.   The second road
+        is Old Soldiers Road which travels up from Meadow Lake Road,
+        close     to     the        eastern       side        of    the     northern        subarea.                 This
+        road     is     graveled           and    dead        ends     near       the    northern             end     of     the
+        study area.   The road was incorporated as part of the Robin
+        Hill Subdivision.    There is one other small private road
+        called Homestead Lane.    This roadway comes off of Meadow
+        Lake Road and is located near the southeast corner of the
+        study area.   This roadway provides access to parcels in the
+        southern         end        of    the    study        area.
+
+        Sewer,        Water         and    Utility          Facilities:             The     sewer         service            for
+        the area is provided by individual  septic systems.  Water to
+        the dwelling is available from groundwater supplies.
+        Electricity and phone service are generally available in the
+        area.
+
+  3.    Oregon        Administrative               Rule        660-04-028(2)              and      (6)        list     the
+        exception         requirements                 for     land       irrevocably           committed              to
+
+Exhibit   "A" - Page           18
+Ordinance    562
+   Yamhill     County      Planning         Department
+   Docket    G-2-92,       Area      43
+   Page 4
+
+         other uses.    These               rules       require       consideration              of     the
+         following   factors:
+
+         Characteristics   of the Exception Area: The northern subarea
+         of this  study are is characterized by moderated to steep
+         slopes going up from Meadow Lake Road.   The steep slopes and
+         uneven topography somewhat limits the farm use of the
+         property.   The existing farm uses are small, low intensity
+         operations which consist of pasture   for cattle, horses, and
+         goats.    The southern subarea slopes down at a more gentle
+         rate    from      Meadow         Lake    Road.         The    farm       uses     in    this      subarea
+         consist       of pasture and Christmas trees.                              This southern
+         subarea       contains  only one unbuilt parcel                            which is identified
+         by tax lot 3524-1100.  This property has a                                       farm dwelling
+         approval which would allow construction of                                       a residence.
+         With the present   lot configuration, no other dwellings could
+         be placed in this subarea if the property were rezoned.    The
+         entire  study area has a scattering of evergreen trees and
+         scrub oak but they do not appear to be managed as a timber
+         operation.
+
+         Characteristics              of    Adjacent         Lands:         Adjacent        property           to    the
+         north and east is forested.   The land along Meadow Lake Road
+         that is part of a valley has more intensive farm uses which
+         consist of pasture, Christmas trees, and orchards.
+
+         Relationship between Exception Area and Adjacent Land:   As
+         indicated in the soil information,  70 percent of the study
+         area consists of slopes between seven to 30 percent.
+         Neighboring land also has                        some steep slopes but it has                          a
+         significantly lower level                        of development.   There are
+         commercial           farm    uses       neighboring          the    study        area    but      these
+         are    on   the    valley         floor,       on   topography           dissimilar          to      that    of
+         the study area.               The largest ownership in the study area                                       is
+         30 acres and is              identified by tax lot 3523-1305.   This
+         property       has     a    gully       near     the   middle       of    this     holding           that
+         slopes to the south.     This parcel is bordered on the north,
+         east,  and west by parcels    in separate ownership of ten acres
+         or less.   To the south there is an agricultural holding of
+         90 acres.    This parcel  slopes gently to the south.   This
+         would be the most logical parcel to combine ownership with
+         the 30 acre property in the study area.  The difficulty                                                    with
+         this combination is Meadow Lake Road lies between these                                                    two
+         properties.   Meadow Lake Road is a well-traveled county road
+         that comes over a slight rise.   It would be dangerous  for
+         farm equipment to cross the road between these two parcels
+         if they were combined.  This coupled with the difference                                                    in
+         topography makes it very unlikely that these two parcels
+         could be combined.
+
+Exhibit   "A" - Page       19
+Ordinance    562
+   Yamhill County            Planning              Department
+   Docket G-2-92,            Area 43
+   Page 5
+
+         Existing        Adjacent             Uses:             See    Finding           A.7.
+
+         Existing        Public             Facilities            and       Services:            See      Finding      A.9
+         and B.2.
+
+         Parcel Size              and Ownership Pattern, Study Area/Adjacent Land:
+         All but one              of the parcels in the study area were created
+         prior to adoption of the SPGs.                                      The majority of the
+         properties were created by the                                     Robin Hill Subdivision.                          The
+         only parcel created after the goals was tax lot 3523-1701,
+         which was approved as a retirement separation.     Of the 25
+         parcels in the study area, all are in separate ownership.
+         The parcel sizes vary from one to 30 acres.    There is only
+         one parcel of 30 acres.    This 30 acres is surrounded by
+         smaller lots in separate ownership on the north, east, and
+         west.   The parcel south of the 30 acres is over 90 acres but
+         is not likely to be interested in combining this ownership
+         because of the county                        road        between           them and the difference
+         in topography on each                        lot.        Parcels           of over 20 acres were
+          usually       removed             from     consideration                  of     an   exception        but    this
+         parcel is bordered on three sides by smaller lots.    The
+         majority of the lots are between five to 15 acres.    The
+         southern subarea contains   eight lots. All of these are in
+         separate ownerships  and have dwellings either constructed or
+         approved.
+
+          Parcels       in       the    surrounding               area        are    characterized              by    large
+          holdings       that          vary        from    15     to    over        500     acres.
+
+         Neighborhood                 and    Regional            Characteristics:                    For    neighborhood
+          characteristics,                   see     Finding           A.7.         The     study      area     is    located
+          in   what     could          be    considered               the     foothills.             It    is   somewhat
+         of a      transitional   area between the valley                                        farmland        to    the
+         east      and commercial    timber to the west.
+
+         Natural and Man-Made Features/Impediments:  The study area
+         is bisected by two county roads that travel north/south and
+         east/west.  The northern subarea contains steep,  uneven
+         topography that limits resource use of the land.
+
+         Physical        Development:                     See     Finding           B.2.
+
+         Other      Relevant Factors:   As discussed above the steepness                                                       of
+         slope      and existing development create difficulties with
+         large      scale farm and forestry use in this area.
+
+   SMALL-SCALE        RESOURCE              LAND
+
+         The study area                 is over the               160 acre minimum required for
+         designation as                 Small-Scale               Resource.  The area does not
+
+Exhibit   "A" -       Page       20
+Ordinance    562             :
+   Yamhill County             Planning            Department
+   Docket G-2-92,             Area 43
+   Page    6
+
+           appear       to     contain           extensive         farm     or    forestry     operations.
+           Because of the low intensity of farm/forest use and size of
+           the study area, it will likely be suitable for designation
+           as small-scale resource land.
+
+   CONCLUSIONS
+
+   Le      The       study     area        has    all     of     the    parcels      in    separate    ownership.
+   2..     The study area contains                         ten parcels            that were developed with
+           residences prior to the                         adoption of            the Statewide Planning
+           Goals.
+
+   3.      The parcel  size of this study area varies                                       from    one acre to      a
+           30-acre parcel located near the center of                                        this    study area.
+
+   4.      The       majority        of     the     area        consists     of    steep     uneven    topography
+           that       makes     resource            use    of     the     property        difficult.
+
+   5;      Parcels in the northern                         subarea         were    created     by    the   Robin
+           Hill Subdivision.
+
+   PLANNING          COMMISSION            ACTION
+
+           On       February     18,        1993,       the      Planning        Commission        reviewed   this
+           study area.    They found that due to the number of separate
+           ownerships,   steep topography, and level of development,  this
+           area should be forward this area to the Board of
+           Commissioners   for exception to the statewide planning goals.
+           This action was supported by a 6 to 1 vote.
+
+   BOARD       OF    COMMISSIONERS               ACTION
+
+           On       September        23,     1993,        the     Board     of    Commissioners        reviewed
+           this study area and voted unanimously to allow exception to
+           the Statewide Planning Goals and change the zone to AF-10
+           Agriculture/Forestry Small Holding.
+           «+ -Share\kf\Area-43.BCF
+
+Exhibit   "A" - Page            21
+Ordinance    562
+   DOCKET:                             G-2-92
+
+   GROUP    :                          B
+
+   AREA:                               Area            44
+
+   MAP     NUMBER:                      3533
+
+   ISSUE:                              Possible               Comprehensive               Plan     Map    amendment
+                                        from          Agriculture/Forestry                      Large     Holding        to
+                                       Agriculture/Forestry Small Holding and                                        a zone
+                                       change from AF-20 Agriculture/Forestry                                        to AF-
+                                       10 Agriculture/Forestry Small Holding.
+
+   REVIEW        CRITERIA:             OAR            660-04-025           and   660-004-028
+
+   COMMENTS        RECEIVED:
+
+            Yamhill      County        Sanitarian:                       Olyic   soils      are     generally        a    high
+            feasibility soil                 but the area has                    very undulating landscapes
+            and steep slopes                 that make siting                    of approvals difficult.
+            Due    to   past        difficulties                   in    these   soils      a     50%    feasibility          in
+            this     area     would         be    expected.                Panther        soils     have     a    rather
+            low feasibility                 (less than 25%).
+            Water Resources                 Department:   There                     are    no    concerns         raised      by
+            the    potential          for        zone        change        regarding        the     groundwater
+            resource within these areas.    Most wells penetrate marine
+            sedimentary rocks which generally yield water poorly to
+            wells, but quantities adequate for domestic supplies are
+            usually available.   In addition to the marine sediments,
+            underlying basalts  are penetrated in some wells.  These                                                      also
+            appear to yield water poorly to moderately to wells.
+
+   FINDINGS :
+
+   A.           Background          Facts
+
+   le       Area     Size:          108.9        acres
+
+   2.       Parcels      involved:                15        lots
+
+   3.       Separate         owners:             10
+
+   4.       Parcels      developed:                   12
+
+   5.       Parcels      developed               prior        to        Statewide     Planning           Goals:      10
+
+Exhibit   "A" - Page           22
+Ordinance    562
+   Yamhill County             Planning              Department
+   Docket G-2-92,             Area 44
+   Page 2
+
+          Land     Use       and          Characteristics                  of     Study         Area:          The        study           area
+          consists         of        steep       hillside                slopes.          The         land    slopes        up           to
+          the northeast and down to the southwest    from High Heaven
+          Road.    The majority of land in this area is in forestry use.
+          The only farm use identified is Christmas    trees grown on tax
+          lots  1900 and 2000,  and a bonsai nursery on tax lot 500.
+
+          Surrounding                Land       Use:         All         surrounding             property           is     in
+          commercial  forestry production.    The parcels vary in size
+          from 20 to over 600 acres.     The majority of these properties
+          are owned by commercial   timber companies.    The exception to
+          this is an 84 acre parcel to the east that is owned and
+          managed by the Bureau of Land Management.
+
+          Well     Logs:             See     attached              data         sheet.
+
+          Fire Protection:  Northwest Oregon Rural Fire District.
+          McMinnville Rural Fire Department has an agreement with                                                                         this
+          fire district to respond to structural  fires.
+
+   10.    Floodplain:                    Flood      Insurance              Rate     Maps         125C        indicates              none
+          of    the    study             area    is     in    the         100     year     floodplain.
+
+   Pls    Surrounding                Zoning:            Property            to     the     north,            west    and        a
+          portion        of         the     south       are        all     zoned         F-80     Forestry           District.
+   12.    Development Pattern:    All but two of the parcels in the
+          study area were created in 1971 by partitioning docket P-52-
+          70.    Tax lots 1900 and 2000 were divided in 1974 by docket
+          P-384-74.   Tax lots 1600 and 1700 were created by deed prior
+          to adoption of the Statewide Planning Goals.   Tax lots 1200,
+          1800 and 1900 all had dwellings approved lot size variances
+          in 1975,  by Dockets PV-29-75, PV-28-75 and PV-27-75
+          respectively.  Only one                             of     these approvals                     was used,              which
+          allowed tax lot 1200 to                             be     developed.   The                    remaining              two
+          approvals           expired            before        construction                 was         initiated.                  An
+         application for a forest dwelling was made on tax lots 1800
+         and 1900, considering them as a contiguous ownership.    This
+         application was approved under docket FD-33-88 and a
+         dwelling was placed on tax lot number 1800.   The remaining
+         dwelling were placed prior to adoption of the Statewide
+         Planning         Goals.
+
+   13.   Ownership Pattern:    There are two sets of                                                   contiguous
+         ownerships.   The first,   tax lots 1600 and                                                  1700,  are ina
+         contiguous             ownership              of     ten        acres.          The      second,           tax    lots
+          1800,       1900,          2000,       2001        and     2100,         are     in     a    combined           ownership
+         that      totals            49.5       acres.
+
+Exhibit   "A" -       Page          23
+Ordinance    562                ,
+   Yamhill County          Planning               Department
+   Docket G-2-92,          Area 44
+   Page     3
+
+   B.     Administrative               Rule        Provisions             and      Analysis
+
+   1.       Oregon Administrative Rule 660-04-025 lists requirements
+            that counties must follow if rural land is to be zoned for
+            uses other than farming or forestry,    (called  "taking an
+            exception to the Goals").    Generally,  in order to zone rural
+            land for residential use,  it must be "physically developed"
+            or “irrevocably committed"   to nonresource use.     For Land
+            Physically Developed to Other Uses.    OAR 660-04-025(2)
+            states:   Whether land has been physically developed with
+            uses not allowed by an applicable Goal, will depend on the
+            situation      at        the        site    of    the    exception.               The    exact           nature
+            and   extent        of    the        areas       found       to   be    physically            developed
+            shall be clearly set forth in the justification   for the
+            exception.  The specific  area(s) must be shown on a map or
+            otherwise described and keyed to the appropriate   findings of
+            fact.   The findings of fact shall                                  identify the extent and
+            location of the existing physical                                   development on the land
+            and   can    include           information              on    structures,            roads,         sewer         and
+            water facilities, and utility facilities.   Uses allowed by
+            the applicable goal(s) to which an exception is being taken
+            shall not be used to justify a physically developed
+            exception.
+
+   2.       Existing      Features
+
+            Structures:   Ten dwellings were placed prior to adoption of
+            the SPGs.   These ten dwellings are all relatively close to
+            High Heaven Road.    Two other dwellings were placed with
+            approvals that make findings against the goals.     These are
+            not included in the analysis of parcels that are "physically
+            developed."
+
+            Roads:       High        Heaven        Road      bisects          the     study      area       and      travels
+          generally in a northwest/southeast direction.   The                                                     roadway
+          is a narrow gravel road that provides local access                                                      to the
+          properties in the vicinity.
+
+            Sewer,      Water        and    Utility          Facilities:               Each      parcel         has     its
+          own on-site            septic system and well.   Electricity                                         and     phone
+          service are            generally available in the area.
+
+   3.     Oregon Administrative Rule                            660-04-028(2)  and (6) list                             the
+          exception requirements for                            land irrevocably committed                              to
+          other uses.   These                     rules      require          consideration               of    the
+          following factors:
+
+          Characteristics                  of     the    Exception            Area:        The      study       area
+          contains        steep        topography             that        slopes      up    to      the    northeast
+
+Exhibit     "A" - Page 24
+Ordinance       562
+   Yamhill County          Planning                 Department
+   Docket G-2-92,          Area 44
+   Page 4
+
+         and down to the southwest from High Heaven Road.   With the
+         exception of a Christmas tree lot and bonsai nursery, the
+         parcels     are            in    forestry          use.
+
+         Characteristics                   of       Adjacent        Lands:       Adjacent           parcels           are     all
+         zoned     F-80        commercial                 forestry.          With      the    exception            of    two
+         parcels east of                   the study area,  owned                      by the Bureau of Land
+         Management, the                   surrounding region is                       owned and managed as
+         commercial            timberland.
+
+         Relationship                between          Exception          Area    and     Adjacent             Land:         The
+         exception         area           is    a    cluster        of   development           in        a   region      used
+         for   commercial                 forestry.              This    strip      of   development               follows
+         close to High                   Heaven Road.   The surrounding                            area       appears         to
+         be unaffected                   by this development.
+
+         Existing      Adjacent                 Uses:        Commercial          forestry.
+
+         Existing      Public              Facilities              and   Services:            See    Finding            A.9
+         and B.2.
+
+         Parcel     Size            and    Ownership             Pattern,       Study        Area/Adjacent
+         Land:   The study area                           contains  15 parcels in ten
+         separate ownerships.                             All of these parcels were created
+         prior to adoption of the                            SPGs.        The majority              of       the
+         parcels are between five                            to ten       acres.   Five             of       the   tax
+         lots are in a contiguous  ownership of 49.5 acres.  Of
+         these five parcels,  three are undeveloped.  One of
+         these undeveloped parcels  is a triangular section that
+         is 0.16 of an acre.   This property is located close to
+         High Heaven Road.   It is unlikely that this parcel
+         could be developed as it is now configured.     The other
+         two undeveloped parcels are 10.27 and 6.29 acres.
+         Considering                the    entire          ownership         together         it    contains
+         three dwellings on 50 acres.   This exceeds the average
+         dwelling per acreage in the AF-20 zone.    The only
+         undeveloped parcels in the study area are in this
+         contiguous ownership.    As for adjacent land the parcel
+         sizes vary from 40 to 600 acres.   All of the adjacent
+         property         is        managed          as    commercial         timber         operations.
+
+         Neighborhood                and       Regional          Characteristics:                  See       Finding        A.6,
+         A.7 and B.3.
+
+         Natural     and            Man-Made          Features/Impediments:                        See       Finding        B.2.
+
+         Physical      Development:                        See    Finding       B.2.
+
+         Other Relevant Factors:                             One factor to consider is that all
+         the undeveloped parcels                            are under one contiguous ownership
+
+Exhibit   "A" - Page           25
+Ordinance    562
+   Yamhill       County         Planning            Department
+   Docket       G-2-92,         Area     44
+   Page 5                   .
+
+           of     approximately                50        acres.            When     conducting               this        study
+           nearly     all        of     the     parcels               over     20        acres        were    eliminated
+           because they were considered to                                         be large            enough for
+           commercial  resource management.                                          If this           contiguous
+           ownership            were eliminated                       no    other parcels could be
+           developed            and there would                       be    no purpose for rezoning                              the
+           area.
+
+   SMALL-SCALE        RESOURCE            LAND
+
+           The     study        area     may        be     suitable            for        designation               as    small-
+           scale resource land.  However,  the size of the study area is
+           less than the 160 acre block required.   It is unlikely that
+           any of the surrounding area could be added for small-scale
+           resource designation due to the fact that all surrounding
+           parcels are in large blocks of forestry land.
+
+   CONCLUSIONS
+
+   i.      The surrounding                area            is     characterized                  by     commercial            forestry
+           uses.
+
+   2.      The study area contains                               ten parcels               that were developed with
+           residences prior to the                               adoption of               the Statewide Planning
+           Goals.
+
+   3.      The undeveloped lots                           in     the study area                   are       all     in    one
+           contiguous  ownership                          of     49.5 acres.
+
+   4.      The     study        area     contains                15    parcels            in     10    separate
+           ownerships.
+
+   PLANNING        COMMISSION            ACTION
+
+           Planning        staff         recommended                   that        the     commission               determine           if
+           the contiguous ownership containing all undeveloped parcels
+           should be eliminated from consideration.  The Planning
+           Commission            reviewed            this         study        area        February           18,        1993,     and
+           decided        not     to     eliminate                this       ownership                and    forward        the        area
+           to the Board of                Commissioners                       for    exception               to   the      Statewide
+           Planning Goals.
+
+   BOARD    OF    COMMISSIONERS                 ACTION
+
+           On September 23,  1993, the Board of Commissioners reviewed
+           the study area and voted unanimously to approve the study
+           area     for    exception                to     the        Statewide            Planning           Goals        and
+           change     the        zone     in        the        study        area     to        AF-10
+           Agriculture/Forestry                          Small         Holding.
+
+Exhibit   "A" - Page             26
+Ordinance    562
+  Yamhill County       Planning   Department
+  Docket G-2-92,       Area 44
+  Page 6
+
+        share\kf\Area-44.bef
+
+Exhibit   "A" - Page      -27
+Ordinance    562
+   DOCKET:                                G-2-92
+
+   GROUP :                                D
+
+   AREA:                                  Area       54
+
+   MAP     NUMBER:                        4518
+
+   ISSUE:                                 Possible          Comprehensive             Plan     Map    amendment
+                                          from       Agriculture/Forestry                   Large     Holding           to
+                                          Agriculture/Forestry                      Small     Holding        and    a     zone
+                                          change from AF-20 Agriculture/Forestry                                    to       AF-
+                                          10 Agriculture/Forestry Small Holding.
+
+   REVIEW        CRITERIA:                OAR     660-04-025           and    660-04-028
+
+   COMMENTS         RECEIVED:
+
+            Yamhill           County      Sanitarian:             Olyic       have     relatively            high
+            feasibility               however,         undulating         landscapes           and    steep        slopes
+            in this area would limit standard approval feasibility to
+            less than 503%.
+            Department of Fish and Wildlife:   Proposed change is within
+            big-game winter range.  New dwellings, roads, will reduce
+            the numbers of deer and elk in the County, and will result
+            in    conflicts            between         residents,        hunters,           and    wildlife.
+
+   FINDINGS :
+
+   A.           Background            Facts
+
+   r.       Area        Size:         124.5     acres
+
+   2.       Parcels           involved:           16
+
+   3.       Separate            owners:         14
+
+   4.       Parcels           developed:             11
+
+   Bie      Parcels           developed         prior       to   Statewide           Planning        Goals     (SPG):
+            3
+
+   6.       Land        Use     and    Characteristics             of    Study        Area:        Peavine         Road
+            cuts        through the northeast                    corner of the study area.   The
+            uses        on the parcels appear                    to be forestry, small woodlot and
+            rural        residences.             The       topography         consists        of     rolling
+            hillsides            with     steep        slopes.
+
+   7.       Surrounding Land Use:   Uses                          in    the    surrounding            area     consist
+            of commercial forestry.
+
+   8.      Water         Information:                See    attached         well     logs.
+
+Exhibit     "A"     -    Page     28
+Ordinance         562
+   Yamhill County            Planning           Department
+   Docket G-2-92,            Area 54
+   Page 2
+
+   9.    Fire        Protection:               Northwest            Oregon       Rural       Fire        District
+         (There is an agreement with McMinnville Rural                                                   Fire
+         Department to assist with structural fires in                                                   this         region.)
+
+   10.   Floodplain:   Flood Insurance Rate                                     Maps 300C shows                   none       of
+         the study area is in the 100-year                                      floodplain.
+
+   11.   Development Pattern:  All of the parcels were created by
+         Executive Estates Subdivision that was platted in 1968.
+         Dwellings were placed                        on tax lots 4518-900,  1600,  1800,
+         1900,  2000, 2200, and                       2300 by lot-size variances   PV-362-77,
+         PV-325-77, PV-208-76, PV-60-75, PV-264-77,  and PV-254-77
+         respectively.  A dwelling were placed on tax lot 4518-1100
+         by     a    nonfarm          dwelling        approval,            Docket        CV-1-87.
+
+   12.   Ownership Pattern:   Tax lots 4518-1000 and 1100 are ina
+         contiguous ownership of 9.5 acres.    Tax lots 4518-2000 and
+         2001 should be considered an undivided interest of 8 acres.
+
+   B.    Administrative                 Rule        Provisions            and    Analysis
+
+   1s    Oregon Administrative Rule 660-04-025 lists requirements
+         that counties must follow if rural land is to be zoned for
+         uses        other       than        farming     or        forestry           (called       "taking            an
+         exception           to       the     Goals").         Generally,               in   order           to   zone       rural
+         land for residential use,  it must be "physically developed"
+         or “irrevocably committed"   to nonresource use.     For Land
+         Physically Developed to Other Uses.     OAR 660-04-025(2)
+         states:            Whether           land has been physically developed                                      with
+         uses not           allowed           by an applicable Goal, will depend                                      on the
+         situation at the site of the exception.  The exact nature
+         and extent of the areas found to be physically developed
+         shall        be    clearly           set    forth     in        the    justification                 for      the
+         exception.               The       specific        area(s)            must    be    shown           on   a   map     or
+         otherwise described and keyed to the appropriate findings                                                                 of
+         fact.   The findings of fact shall identify the extent and
+         location of the existing physical development on the land
+         and can include information on structures,                                             roads, sewer                  and
+         water facilities, and utility facilities.                                              Uses allowed                  by
+         the        applicable          goal(s)        to     which        an    exception              is    being         taken
+         shall        not    be       used     to    justify         a    physically          developed
+         exception.                                                                                 ,
+   2.    Existing           Features
+
+         Structures:  Three parcels contain five dwellings
+         constructed prior to adoption of the SPGs.    The first parcel
+         is in the northeast corner.   It has three dwellings,   all
+         placed prior to adoption of the SPGs.    The other two parcels
+         that       can     be    considered           to     be     "physically             developed"               are     in
+
+Exhibit   "A" - Page             29
+Ordinance    562
+  Yamhill     County     Planning             Department
+  Docket     G-2-92,     Area          54
+  Page 3
+
+        the    southeast           corner       and     along     the    western       edge        of    the       study
+        area.  Eight other dwellings have been constructed with land
+        use approvals that made findings against the SPGs.    Many of
+        these approvals were granted by what the county classified
+        as "Lot Size Variances".   The lot size variances should be
+        treated the same as nonfarm dwelling approval.    Therefore
+        these dwellings that were placed   after adoption of the
+        statewide planning goals can not be considered as committing
+        other adjacent land to nonresource use.   These dwellings can
+        be    considered           to       "physically       develop"         the    individual              parcels
+        but    not     have       an    adverse        affect     to    the    surrounding              area.
+
+        Roads:         Peavine          Road    winds       through      the       study    area        in    a
+        northwest        and southeast direction and borders                                  a    portion              of
+        the study        area on its northern boundary.
+
+        Sewer,       Water        and       Utility     Facilities:            Existing           sewer
+        disposal        is    provided          by     on-site     septic          systems.         Water          is
+        supplied by           individual groundwater                     sources.           Power        and       phone
+        service are           generally available in                     the area.
+
+   3.   Oregon       Administrative                  Rule   660-04-028(2)            and    (6)     list          the
+        exception requirements     for land irrevocably committed                                                 to
+        other uses.     These rules require consideration of the
+        following   factors:
+
+        Characteristics of the Exception Area:   The topography is
+        uneven with rolling hills and steep slopes.   The uses in the
+        area include forestry, small woodlots, and rural residences.
+        Eleven of the 16 parcels involved contain dwellings.   Three
+        of these dwellings                    were placed         prior       to    adoption        of       the
+        statewide planning                    goals.
+
+        Characteristics of Adjacent Lands:                                All adjacent              parcels
+        appear to be operated as commercial                               forest land.
+
+        Relationship between Exception Area and Adjacent Land:    With
+        the exception of the existing development  and parcelization,
+        much of the topography and uses in the study area are
+        similar to those of surrounding land.
+
+        Existing        Adjacent             Uses:      Commercial        forestry.
+
+        Existing        Public          Facilities          and   Services:           See     Finding             B.2
+        above.
+
+        Parcel Size and Ownership Pattern, Study Area/Adjacent Land:
+        The parcels and contiguous ownerships are between five to 17
+        acres.   Surrounding parcels are from 20 to several hundred
+        acres.   Fourteen of the sixteen parcels are in separate
+
+Exhibit   "A" - Page         30
+Ordinance    562
+  Yamhill County                    Planning           Department
+  Docket G-2-92,                    Area 54
+  Page 4
+
+          ownerships.   The largest ownership    in the study area is 17
+          acres and the next largest   is only 11 acres.     These parcel
+          sizes are below the minimum lot size of the AF-20
+          Agriculture/Forestry   zone.   The existing sizes   and number of
+          separate ownerships  creates   a situation that makes
+          combination of the parcels                                 with         commercial           farm   or      forestry
+          operations impractical.
+
+          Neighborhood and                           Regional Characteristics:   The region
+          surrounding this                           study area is commercial  forest land.
+
+          Natural              and        Man-Made          Features/Impediments:                       See   Finding          B.2.
+
+          Physical              Development:                   See     Finding          B.2.
+
+          Other Relevant Factors:                                  The study area contains 16 parcels.
+          Fourteen of these are in                                 separate ownership.   OAR 660-04-
+          028(6)(c)(B)  states that                                small parcels do not in themselves
+          constitute  irrevocable commitment.   However,   small parcels
+          in separate ownerships  are more likely to be irrevocably
+          committed if the parcels are developed,    clustered in a large
+          group          or around               a road designed to serve the parcels.                                       This
+          study          area does               have a high percentage of separate
+          ownerships                     of    parcels      with       a   roadway         that       provides        access       to
+          each lot.
+
+   CONCLUSIONS
+
+   1.     The       study           area        has    16   parcels         in     14     separate       ownerships.
+
+   25     Eleven of the parcels contain dwellings,  but only three                                                            of
+          these were placed prior to adoption of the Statewide
+          Planning              Goals.
+
+   as     None          of     the        parcels        are    in   contiguous             ownerships           of    over     20
+          acres.
+
+   4.     The       study           area        is    not   part     of     a    rural         fire    protection
+          district.
+
+  STAFF     RECOMMENDATION
+
+          Because of the low                           level of development prior to the
+          Statewide Planning                           Goals,  the planning staff recommended                                   to
+          the       Planning                  Commission        that       they     not     forward       this        area    to
+          the Board of Commissioners                                 for        exception         to    the   Statewide
+          Planning Goals.
+
+  PLANNING          COMMISSION                  ACTION
+
+Exhibit     "A"     -        Page        31
+Ordinance         562                :
+  Yamhill County         Planning               Department
+  Docket G-2-92,         Area 54
+  Page 5
+
+          After    lengthy          discussion            of    the    various    factors,          the
+          Planning      Commission               decided        this    study    area    was    more
+          appropriately             zoned        AF-10        Agriculture/Forestry             Small
+          Holding.       This            is    based     on    the    parcelization,          lack    of
+          agricultural use, and development in the                                    area.     The       motion
+          to forward this area passed unanimously.
+
+  BOARD    OF    COMMISSIONERS                ACTION
+
+          On    September          23,        1993,     the    Board    of    Commissioners          took
+          testimony      on        this        study     area    and    based    on    the    testimony        and
+          findings      in    the         staff        report    voted       unanimously       to    approve
+          this study area for exception to the Statewide                                       Planning
+          Goals and rezone the study area to AF-10
+          Agriculture/Forestry                        Small    Holding.
+          ..-Share\kf\Area-54.bef
+
+Exhibit   "A" - Page:         32
+Ordinan ce 562
+   DOCKET:                               G-2-92
+
+   GROUP:                                A
+
+   AREA:                                 Area          64
+
+   MAP     NUMBER:                       5413
+
+   ISSUE:                                Possible             Comprehensive                 Plan     Map     amendment
+                                         from          Agriculture/Forestry                        Large     Holding          to
+                                         Agriculture/Forestry                          Small        Holding        and    a    zone
+                                         change from EF-40 Exclusive Farm Use                                        to       AF-10
+                                         Agriculture/Forestry Small Holding.
+
+   REVIEW        CRITERIA:               OAR       660-04-025              and       660-004-028
+
+   COMMENTS           RECEIVED:
+
+            Yamhill       County         Sanitarian:                     Jory    B    soils        have    very     high
+            feasibility for septic  (80-90%                                 feasibility).                  NcD/NcB        is
+            restricted by shallow top soil                                  and very rocky                 (30-40%
+            feasibility).
+            Amity Public Schools:   The Board                                    of Directors for Amity
+            School District would like to be                                     advised of any potential
+            sub-divisions that would involve                                     six or more building sites
+            within       the     Amity        School          District           Boundaries.
+
+   FINDINGS:
+
+   A.        Background           Facts
+
+   1.       Area       Size:      36.5        acres
+
+   2.       Parcels       involved:                7
+
+   3.       Separates          owners:         4
+
+   4.       Parcels       developed:                   None
+
+   5.       Parcels       developed            prior          to    Statewide           Planning           Goals     (SPG):
+            None
+
+   6.       Study Area Land Use:   Aerial photos of the area indicate
+            that the farm use of the properties   include grain and hay
+            crops.   Some of the parcels appear to be continuations of
+            larger       farm     operations                to     the     north,       south        and    east.         There
+            is    a    woodlot        along        the      western         edge       of    the     study     area.
+
+   7.       Surrounding Land Use:    Parcels to the west contain rural
+            residential and small farm uses.     These small farm uses
+            include livestock,  Christmas trees,   vineyards and orchards.
+            Parcels to           the north, south and east                              are part of           large farm
+            operations           that vary in size from 25                              to over 200           acres.
+            These       farm     uses        include          grain,        orchard         and      hay   crops.
+
+Exhibit   "A" - Page             33
+Ordinance    562
+   Yamhill    County      Planning            Department
+   Docket    G-2-92,     Area          64
+   Page 2
+
+   8.     Surrounding            Zoning:        Parcels     to    the    west   are    in   rural
+          residential  zoning.  The southern half of the western
+          boundary is zoned AF-10 Agriculture/Forestry Small Holding.
+          The northern half of the western boundary is zoned VLDR-5
+          Very   Low     Density            Residential.
+
+          Well   Logs:           See    attached     data    sheet.
+
+   10.    Fire   Protection:                Amity   Rural    Fire       Department.
+
+   Ls     Floodplain:             Flood Insurance           Rate Map 0485C indicates                   that
+          none of the            study area is in           the 100 year floodplain.
+
+   12.    Development Pattern:   All of the parcels were                                created        as
+          part of the Walnut Hill Subdivision which was                                 platted        prior
+          to the SPG on April 6, 1911.
+
+   13 z   Ownership Pattern: The original staff report stated that tax
+          lots 5413-1800 and   5413-200 were a contiguous ownership
+          since both listed Margaret Callander.    At the Board hearing
+          testimony was submitted that the Margaret Callander’s were
+          mother and daughter.    This should be considered a separate
+          ownership.   The only contiguous ownership is tax lots 5413-
+          1700, 1900 and 2200 (outside of the study area).     This is a
+          total of over 20 acres.
+
+          Administrative               Rule    Provisions        and    Analysis
+
+          Oregon Administrative Rule 660-04-025 lists requirements
+          that counties must follow if rural land is to be zoned for
+          uses   other      than        farming     or   forestry        (called      "taking     an
+          exception to the Goals").   Generally,  in order to zone rural
+          land for residential use, it must be "physically developed"
+          or “irrevocably committed" to nonresource use.      For Land
+          Physically Developed to Other Uses.    OAR 660-04-025(2)
+          states:   Whether land has been physically developed with
+          uses not allowed by an applicable Goal, will depend on the
+          situation at the site of the exception.   The exact nature
+          and extent of the areas found to be physically developed
+          shall be clearly set forth in the justification   for the
+          exception.   The specific area(s) must be shown on a map or
+          otherwise described and keyed to the appropriate findings of
+          fact.   The findings of fact shall identify the extent and
+          location     of    the        existing     physical          development     on   the     land
+          and can include information on structures,                               roads, sewer          and
+          water facilities, and utility facilities.                                Uses allowed          by
+          the applicable goal(s) to which an exception is being taken
+          shall not be used to justify a physically developed exception.
+
+Exhibit   "A" - Page        34
+Ordinance    562
+   Yamhill County         Planning                  Department
+   Docket G-2-92,         Area 64
+   Page   3
+
+   2.     Existing       Features
+
+          Structures:                  None
+
+          Roads:        None
+
+          Sewer,   Water               and    Utility           Facilities:                None
+
+   3.     Oregon   Administrative                         Rule        660-04-028(2)                 and        (6)    list        the
+          exception requirements  for land irrevocably committed                                                                  to
+          other uses.  These rules require consideration of the
+          following factors:
+
+          Characteristics                    of     the    Exception           Area:            The       study            area
+          contains       farm           uses       which        include        grain           and       hay        crops.            The
+          exception          is        a plum        orchard           that       is     located          on        tax     lot
+          number       5413-1400.                    Some       parcels        near        the       center           of     the
+          study area          have a mixture of coniferous and deciduous                                                          trees
+          but do not          appear to be managed as timber operations.
+          Testimony       at           the    Board        hearing          was        submitted               that        tax    lot
+          5413-1900       contained                  Christmas             trees        that        are        no    longer
+          managed as a farm use.   Additionally a property owner
+          indicated that parcels  in the study area were on a slope
+          that effectively divided the area from farm land to the
+          east.      The owner stated                       that the topography                           was        more        similar
+          to the     residential land                       to the east.
+
+          Characteristics                    of    Adjacent           Lands:            Land        to    the        east        has    a
+          variety of field crops.   Land to the north, south and west
+          produces Christmas trees and orchard crops.   Land to the
+          west is primarily in rural residential use with some small
+          farm existing as secondary uses.
+
+          Relationship                 between        Exception             Area        and     Adjacent              Land:            Some
+          portions of the                    study area              appear to be managed as                                part of
+          larger farms to                    the east.               Some of the parcels are                                not in
+          any   type     of        resource           management.                  The     adjacent                 land     to       the
+          west has residential                        and nonfarm              uses        similar              to    some
+          parcels in the study                        area.
+
+          Existing       Adjacent                 Uses:         See     Finding          A.7     above.
+
+          Existing       Public              Facilities              and    Services:                None.
+
+          Parcel   Size           and        Ownership           Pattern,              Study     Area/Adjacent                        Land:
+          The   subdivision                  lots     in    the       study        area       are        all        approximately
+          five acres.                  Two tax lots              (that contain four subdivision
+          lots) are in                 a contiguous              ownership of approximately 20
+          acres.       One        tax        lot     is    in    a    contiguous              ownership               with        a    210
+
+Exhibit   "A" - Page              35
+Ordinance    562
+   Yamhill County                Planning            Department
+   Docket G-—2-92,               Area 64
+   Page 4
+
+            acre parcel to the east.    The parcels to                                         the west contain
+            rural residences  on parcels between five                                          to ten acres.
+
+            Neighborhood and Regional Characteristics:   The square                                                     mile
+            to the west contains two residential subdivisions with                                                      lots
+            between five to ten acres.   Land to the north and east
+            consists of large farm holdings with parcels between 25                                                          and
+            200 acres.                 Larger        farms        exist      on     the    valley         floor     further
+            east.
+
+            Natural and Man-Made Features/Impediments:   Near the eastern
+            edge of the study area the land crests  and slopes down to
+            the east.  This topography somewhat separates the study area
+            from       large       farm        parcels        to    the      east.
+
+            Physical          Development:                  None.
+
+            Other       Relevant              Factors:            None.
+
+   CONCLUSIONS
+
+    1.      None       of   the        four     parcels           are     developed.
+
+   2.       Several         of     the       parcels        are     part      of     larger     farm        operations.
+
+    3s      There is a difference                          in topography of some                     of     the     study
+            area with that of the                          farm use to the east.
+
+   STAFF     RECOMMENDATION
+
+            Because none of the parcels are developed and they border on
+            property that is in commercial farm use, the planning staff
+            recommended that this area not be forwarded to the Board of
+            Commissioners                for       exception            to   the     statewide           planning      goals.
+
+   PLANNING        COMMISSION                ACTION
+
+            Considering                all    of     the    factors          the    Planning         Commission
+            decided         that        due     to    parcelization,                past     use,        natural
+            features,            and     other        impediments             separating            the     study     area
+            from       neighboring              farm       uses     the      area     should        be    recommended
+            for    exception.                 The     Commission             voted        unanimously         to
+            eliminate            tax lots            5413-1400           and 1500 and forward the
+            remaining            area for            exception           to the Statewide Planning
+            Goals.
+
+Exhibit     "A"    -   Page       36
+Ordinance     562
+     Yamhill County            Planning        Department
+     Docket G-2-92,            Area 64
+     Page    5
+
+     BOARD        OF    COMMISSIONERS      ACTION
+
+             On        September   23,    1993,    the    Board    of   Commissioners
+             the        application      and   voted                                        reviewed
+                                                         unanimously      to   add   tax   lots
+             1400 and 1500 to             the Study area                                          5413-
+             to the statewide                                     and   approve  it    for exception
+                                          planning goals          and   change the
+             10        Agriculture/Forestry                                            zoning to AF-
+                                                    Small    Holding.
+             Share\kf\Area-64.bcf
+
+Exhibit   "A" — Page          37
+Ordinance    562
+   DOCKET:                                  G-2-92
+
+   GROUP :                                  D
+
+   AREA:                                    Area       76
+
+   MAP     NUMBER:                          5624       and    5625
+
+   ISSUE:                                   Possible Comprehensive Plan Map amendment
+                                            from Agriculture/Forestry Large Holding to
+                                            Agriculture/Forestry Small Holding and a zone
+                                            change          from     AF-20        Agriculture/Forestry                    to    AF-
+                                            10 Agriculture/Forestry                           Small    Holding.
+   REVIEW        CRITERIA:                  OAR    660-04-025               and    660-04-028
+
+   COMMENTS         RECEIVED:
+
+            Yamhill County Sanitarian:   Predominantly Peavine
+            designation in this area.   This series has a high
+            feasibility (75%)   unless slopes exceed 30% which lowers                                                           the
+            feasibility significantly.   Chehalem soils are poorly
+            drained and have feasibility of <                                      25%.
+            Department of Fish and Wildlife:                                       Proposed         change        is    within
+            big-game         winter             range.        New     dwellings,              roads,       will     reduce
+            the numbers of deer and elk in the county,    and will result
+            in conflicts between residents, hunters,   and wildlife.
+
+   FINDINGS :
+
+   A.           Background             Facts
+
+   ls       Area     Size:             131.7      acres
+
+   2.       PaveR La involved:   26,                         including            all    subdivision          lots       and
+            portions  of five other                          parcels.
+
+   3s       Separate         owners:              18
+
+   4.       Parcels        developed:                  11
+
+   5.       Parcels        developed              prior       to    Statewide            Planning       Goals          (SPG):
+            6      (four     of        these      dwellings           are     inside          the   study     area.)
+   6.       Land     Use     and        Characteristics                of     Study       Area:        Cherry          Hill
+            Road borders  the study area to the west.    Uses are a mixture
+            of rural residential,    small woodlots, Christmas trees, and
+            pasture  for sheep.   The topography of the area is a hillside
+            that     slopes            to   the    north       and     east.            The    hillside       may       prevent
+            combination            of       portions          of    this      study       area      from     adjacent
+            farm uses.
+
+Exhibit   "A" - Page              38
+Ordinance    562
+   Yamhill County               Planning            Department
+   Docket G-2-92,               Area 76
+   Page 2
+
+   7.       Surrounding               Land     Use:            Parcels               to        the    south           and       west         are        in
+            uses similar to that of the study area.   The zoning to the
+            west is AF-10 Agriculture/Forestry Small Holding.   Property
+            to the north and south are in more intensive farm uses which
+            includes           pasture         for     sheep,           vineyards,                        and        woodlots.
+            Approximately               one-half            mile           to        the        south           is    the       City         of
+            Sheridan.
+
+            Water       Information:                  See       attached                  well        logs.
+
+            Fire       Protection:                 Sheridan            Rural              Fire        Department.
+
+   10.      Floodplain:   Flood Insurance Rate                                             Maps 432C shows                         none           of
+            the study area is in the 100-year                                              floodplain.
+
+   11.      Development               Pattern:            All     of        the           parcels           were           created            by        the
+            Yamhill          Walnut          Groves       Subdivision                          that       was        platted            in    1909.
+            A     dwelling       was         placed       on     tax        lot           5624-2600                  by    lot-size
+            variances           LOR-67-84.                Dwellings were placed on tax                                                  lots
+            5625-2100           and 2400 by               lot-size variances  PV-516-80                                                 and PV-
+            479-79,          xespectively.                  Nonfarm              dwellings                  were           approved               on
+            tax     lots 5624-2900                  and        5625-2000                  by     Dockets              C-29-91            and        C-8-
+            91,     respectively.
+
+   12.      Ownership Pattern:    Tax lots 5624-2600,                                                      2601           and     2700        are        in
+            a contiguous  ownership of 19.5 acres.
+
+   13.      Other       Factors:              Adjacent           to     the           west           of    this           study     area            is
+            the     majority           of     the     Yamhill           Walnut                  Groves           Subdivision.                      This
+            area is zoned Agriculture/Forestry                                                  Small Holding                     which
+            allows rural residential  and small                                                 farm uses.
+
+            Administrative                  Rule      Provisions                 and           Analysis
+
+            Oregon       Administrative                   Rule         660-04-025                     lists           requirements
+            that counties must follow if rural land is to be zoned                                                                                for
+            uses other than farming or forestry    (called  "taking an
+            exception to the Goals").   Generally,   in order to zone                                                                             rural
+            land       for     residential             use,       it        must           be        "physically                  developed"
+            or     "irrevocably               committed"              to        nonresource                      use.             For        Land
+            Physically Developed to Other Uses.    OAR 660-04-025(2)
+            states:   Whether land has been physically developed with
+            uses not allowed by an applicable Goal, will depend on the
+            situation           at     the     site       of     the        exception.                      The           exact     nature
+            and    extent        of     the     areas          found            to        be     physically                 developed
+            shall be clearly set forth in the justification   for                                                                       the
+            exception.  The specific  area(s) must be shown on a                                                                        map        or
+            otherwise described                      and keyed to the appropriate findings                                                               of
+            fact.   The findings                     of fact shall identify the extent and
+
+Exhibit     "A"    -    Page     39
+Ordinance        562
+   Yamhill County       Planning            Department
+   Docket G-2-92,       Area 76
+   Page 3
+
+         location of the              existing physical development on the land
+         and can include              information on structures,  roads, sewer and
+         water facilities, and utility facilities.   Uses allowed by
+         the applicable goal(s) to which an exception is being taken
+         shall not be used to justify a physically developed
+         exception.
+
+    Qs   Existing       Features
+
+         Structures:            Four       structures       were     constructed             inside    the
+         study area prior to adoption of the SPGs.     These four
+         structures  area along the south and west boundaries.      There
+         are several parcels with portions   inside the study area.
+         The reason only portions are included in this study is that
+         the other sections are zoned AF-10 Agriculture/Forestry
+         Small Holding.   Two of these have dwellings constructed
+         outside of the study area near the intersection of Regia
+         Drive    and    Cherry           Hill   Road.
+
+         Roads:     The        study       area is bordered on              the west side by
+         Cherry    Hill        Road.        This is one of the              main roads providing
+         access    to    the        Yamhill      Walnut     Groves        subdivision.           Valley
+         View Lane travels along                    the south property line but it only
+         provides local driveway                    access.    Other driveways   are located
+         throughout the area.   A                   platted roadway borders    the north
+         property line and turns                    south,  and then west.    This roadway
+         splits    three        contiguous          ownerships.           While       this     road    is
+         platted    only        the       northern       portion     of    it   had    not     been
+         constructed           as    of    the   writing     of    this     staff      report.
+
+         Sewer,    Water        and       Utility    Facilities:            Sewer      service        to    the
+         subject lots is provided by septic systems.  Water is
+         supplied by groundwater sources.  Electricity and phone
+         service are generally available in the area.
+
+    Sv   Oregon    Administrative                Rule     660-04-028(2)          and    (6)     list       the
+         exception requirements  for land irrevocably committed                                            to
+         other uses.  These rules require consideration of the
+         following factors:
+
+         Characteristics of the Exception Area:       The uses   in the area
+         include rural residences,    small woodlots,    Christmas  trees,
+         and pasture for sheep.    The area is part of a hillside that
+         slopes down to the north and east.    An intermittent stream
+         cuts through the center of the study area and flows down to
+         the northeast.   This stream is in the middle of a valley
+         that traverses through the middle of the study area from the
+         westernmost parcel to the northeast corner of the area.
+         The USGS topographic map shows the two sides of this valley
+         are   relatively            steep.      Approximately            1/3    of    the     eastern
+
+Exhibit  "A" - Page       40
+Ordinance 562
+   Yamhill     County      Planning             Department
+   Docket    G-—2-92,      Area       76
+   Page 4
+
+        border,  near the middle                         of this study area                    is very steep,
+        with slopes of up to 30                          percent.  North of                    the study area,
+        the      adjoining           land       levels     off       for    approximately                1000     feet
+         and then starts up a steep hillside.                                          Because       of the
+         difference in topography of the study                                         area to       that of
+        property to the north and                          east, it is unlikely that
+        adjoining owners would be                          interested in purchasing land                               in
+         the     study     area       to       increase     their          holdings.
+
+         Characteristics                  of    Adjacent        Lands:           Property         to     the    west      is
+        part of the same subdivision as the subject lot.  This half
+        of the subdivision is also served by Cherry Hill Road.
+        Various improved roadways also intersect this subdivision
+         and they include                  Regia Drive,  Mayette Drive,                           Canyon Road,
+         Tower T.V. Road,                  and Thunderhead Lane.   This                           subdivision
+         includes         small       farm       uses     similar          to    that     of     the     study     area.
+        Land to the north and south is in                                   more extensive                farm uses
+        which includes pasture for sheep,                                   vineyards,  and               woodlots.
+        Approximately one-half mile                             to    the south the               land     is     inside
+        the City of Sheridan and is                             in    urban uses.
+
+         Relationship               between       Exception           Area       and     Adjacent         Land:        The
+        western half of the study area appears to be almost
+        identical   in uses and development as the subdivision to the
+        west.   The eastern half of the study area contains   larger
+        ownerships.    Although no commercial farms exist in this area
+        but the eastern half appears to have more extensive farm
+         uses.
+
+         Existing         Adjacent             Uses:      See    Finding          A.7.
+
+         Existing         Public          Facilities        and       Services:            See     Findings         A.8
+         and     B.2.
+
+         Parcel         Size    and       Ownership        Pattern,             Study     Area/Adjacent             Land:
+         Parcels vary in size from 2.5 to 19.5 acres.     The majority
+         of parcels are between five to ten acres.    Only one
+         contiguous ownership exists which is 19.5 acres.     Land
+         adjacent to the west is subdivided into five acre lots and
+         has a similar ownership pattern as                                     that     of the study area.
+         Land to the south contains parcels                                     that     are less than 20
+         acres.          Within       a    half    mile     these          parcel        sizes     get     smaller
+        and development increases to an                                urban scale.  Land to the
+        north and east contains parcels                                in larger ownerships that
+        vary from 20 to over 100 acres.
+
+        Neighborhood                and    Regional        Characteristics:                    See     Findings          A.6
+         and    A.7.
+
+        Natural          and   Man-Made           Features/Impediments:                        See     Finding         B.2.
+
+Exhibit   "A" - Page           41
+Ordinance    562
+  Yamhill        County      Planning            Department
+  Docket      G-2-92,        Area        76
+  Page   5
+
+         Physical          Development:                  See    Finding             B.2.
+
+         Other Relevant Factors:    This study                                          area contains 26
+         subdivision lots.   Of these,   18 are                                         in separate ownership.
+         OAR       660-04-028(6)(c)(B)                    states        that            small     parcels           do    not    in
+         themselves              constitute            irrevocable             commitment.                    However,
+           small     parcels           in      separate        ownerships                are     more        likely       to    be
+           irrevocably committed if the                               parcels ar developed, clustered
+           in a large group or around a                               road designed to serve the
+         parcels.            The       latter         description             fits         the    study        area.
+
+           During public testimony,  a property owner in the study area
+           submitted information that there exists deed covenants   and
+           restrictions on some of the parcels that limits  farm uses.
+         The       specific           deed      restriction            is     No.        2 recorded            in    Film       Vol
+           95,     Page    1808        which      states:
+
+                    Said     lots        or     tracts     shall        not         be     used        for    the    purpose
+                    of    raisin         breeding,         pasturing,                boarding,               buying       or    sell
+                    of    mink,        nutria,         rodents,         hogs,            pigs,     or        piglets.
+
+           This restriction applies   to tax                                lots 5624-2601,    2600,   2700,
+           2800, 2900,  3000, an 5623-2500.                                  These restrictions      limit
+           the possibility of establishing                                  a farm use.     This
+           restriction is on some of the                              vacant             parcels along               the
+           eastern boundary of the study                              area.               A limitation               like       this
+           could discourage adjoining                           farmers             from       purchasing            these
+           lots to combine with their                           farms.
+
+  CONCLUSIONS
+
+   i.      The    mundy      area        has     26    parcels         in     18     separate            ownerships.
+
+   2.    Eleven          of the parcels contain dwellings, six of these were
+         placed          prior to adoption of the Statewide Planning Goals.
+
+   35    There       is    one        contiguous          ownerships               of     close         to    20    acres.
+
+   4.      The     study     area        is    adjacent         to     land         zoned        for     rural
+           residential            use.
+
+  PLANNING         COMMISSION           ACTION
+
+         On      April     15,        1993,      the    Planning            Commission             reviewed              this
+           study     area.            They     decided         that     due        to     the     adjacent           exception
+           area,     pre-existing               parcelization,                 ownership               pattern           and
+         topography           of       the     land,       area       should             be    forwarded            to    the
+         Board of          Commissioners   for exception to the Statewide
+         Planning          Goals.   The motion passed unanimously.
+
+Exhibit   "A" - Page             42
+Ordinance    562
+   Yamhill           County    Planning           Department
+   Docket        G-2-92,       Area        76
+   Page     6
+
+   BOARD        OF    COMMISSIONERS              ACTION
+
+            On       September       23,        1993,   the   Board   of   Commissioners   took
+            public testimony                    and decided to approve the request  for
+            exception to the                    Statewide Planning Goals and change the
+            zone designation                    to AF-10 Agriculture/Forestry Small
+            Holding.
+           G2x8:Area-76.fnl
+
+Exhibit     "A"       - Page    43
+Ordinance         562
+                       EXHIBIT    "B" FOR ORDINANCE       NO. 562
+
+                        PLAN     AMENDMENT/ZONE         CHANGE
+
+       ADOPTED   BY THE YAMHILL       COUNTY    BOARD      OF COMMISSIONERS
+
+                                  NOVEMBER   10, 1993
+
+         TO CHANGE          THE PLAN DESIGNATION FROM        AFLH   TO AFSH
+
+          MAP NOT TO SCALE
+   a      ALSO DESCRIBED AS AREA 64
+   =      CHANGE APPLIES TO THE PROPERTY SHOWN ABOVE
+   -      MAP PREPARED BY THE YAMHILL COUNTY PLANNING DEPARTMENT
+   -      CHANGES APPLY TO ABOVE TAX LOTS IN TSS, R4W, SEC 13
+Exhibit   "B" - Page    1
+Ordinance    562
+                   EXHIBIT   "B" FOR ORDINANCE                                                      NO. 562
+
+                       PLAN AMENDMENT/ZONE                                              CHANGE
+
+   ADOPTED     BY THE YAMHILL           COUNTY                          BOARD                         OF COMMISSIONERS
+
+                             NOVEMBER                        10, 1993
+
+       TO CHANGE THE PLAN DESIGNATION FROM AFLH TO AFSH
+         AND THE OFFICIAL ZONING MAP FROM AF-20 TO AF-10
+                                               pit dag                 prpapndefaza
+                                                                                  Ahzazarr
+                                                                                     s¥nparseyyd
+                                                                                               esesh.
+                                          30                           B20                      0                 sat
+                                          2700 | 2600 | 2601 5624-2601
+                                        tSTe
+                                          —    Se09451
+                                               9       ) 4) k  \y
+                                         Sea 35624.                                |        8             q
+                                          2700<*|                     2600_.8)
+                              co nea
+                                          YAAT
+                                            M LT
+                                                     4                                                2
+                                          2800                        2900               2500
+                                           Stet _)                    l0At             | /0.27K:
+                                            5624-|                    5624-                    “7
+                               25623-
+                               512500              2800]              2900                          5624-2500                |”
+                                          WALMU                                             TI.
+                                                                               3)                     3                           32
+                                                                                                                    Fed
+
+                                                                                                                                         S00)                                    2 -4-°2-1tiiiit
+                                                                                                                                        eae an Papen ausAURORRDATADisisraeteesilitir.Uiliilite
+
+                                         YAMHILIL:
+                                          2000   |                                     ~~                     |
+                                  r      12.96K* | eee
+                                                                                                                                       so,
+
+                                        [5625-2000                            MAL                     Nu            T
+                                             él                               62                      6 3 | R=
+                                        (20439
+                                        20485)
+                                                                                                                         A        64
+
+                                                                  2200.                     2300                  2400
+                                                              Graves                                              5625-
+                                                             OSTOOVE                                  S|
+                                                            nN GATK
+                                                                soon               Y} Gavan hb A368,
+                                                             ny               625- »| 5625-
+                                                            2200                   d        2300
+                                                                                                                                  Airs
+                                                                                                                                  fife
+
+                                          \,               562 + (25830)                        gored F (25570)
+                                               x                  ;           67            t         66                S65
+
+   -     MAP NOT TO SCALE
+   -     ALSO DESCRIBED AS AREA 76
+   =     CHANGE APPLIES TO THE PROPERTY SHOWN ABOVE
+         MAP PREPARED BY THE YAMHILL COUNTY PLANNING DEPARTMENT
+         CHANGES APPLY TO ABOVE TAX LOTS IN TSS, R6W, SEC 24 AND 25
+Exhibit   "B" - Page    2
+Ordinance    562
+                            EXHIBIT                              "B" FOR ORDINANCE                                                                                               NO. 562
+
+                                  PLAN AMENDMENT/ZONE                                                                                                                  CHANGE
+
+        ADOPTED         BY THE YAMHILL                                                        COUNTY                                                        BOARD                 OF COMMISSIONERS
+
+                                                                 NOVEMBER                                                                             10, 1993
+
+          TO CHANGE THE PLAN DESIGNATION FROM AFLH TO AFSH
+            AND THE OFFICIAL ZONING MAP FROM AF-20 TO AF-10
+
+                           3                      ‘                  |             i=
+                           =] 1600
+                          ss]  oa
+                                                  |ct | 1500)r                    IE‘=
+                           :|            e                               !        E
+                           =}      (23295)                               t        Ee
+
+                          F;                          ‘       (23175) 5
+
+                           i                          q              E
+                                                                             ue
+                           1 NACUTS
+                           :                  2                              if                                                                                                                th
+                           S|]      woe                       vers                                                                                                                              :
+                                 Taig,                                                                                                                                                          HB:
+                                    3% 1800
+                                   Epeears
+                                   FA3                    a
+                                                                              =                                                                                                              aA
+                                   gy    20                                                                                                                                                      ;
+                                   By   osa
+                                   38 327       in .   jae        Sy                                                                                                   _                       A
+                                   En aa          oo       Niess a                                                                                               100                         if
+
+                                   Boon eB STALE (22775)                                                                                                                          oH Neif
+                                            2281     N
+                                   ER             S,                                                                                                               3        (22840)
+
+                                   x 2100                                                                                                                                  000
+                                   3}                     .                               2                                                             q                    a   ever
+                                                                                                                                                                                             it ie
+                                   3                                                     (HAG                           FH
+
+                                   Es 2200                                                                                                                                                 coat
+                                   BM      :                             - pp            (22728                                                                                            Boog
+                                   EH
+                                                                                             om                                                                                                KE
+
+                                                                                                                                                    om nel
+                                  =i"
+                                                                                                Hanengupenespegseneverasseserssuyennenerysysseiyl
+
+                                                                                                                                                      daa   su                                § =
+                                   Tidateanitien                         nie
+
+                                                                                                                                                     3 US
+                                                                                                                                                     g (22720
+
+    -       MAP NOT TO SCALE
+    -       ALSO DESCRIBED AS AREA 54
+    -       CHANGE APPLIES TO THE PROPERTY SHOWN ABOVE
+    -       MAP PREPARED BY THE YAMHILL COUNTY PLANNING DEPARTMENT
+    -       CHANGES APPLY TO ABOVE TAX LOTS IN T4S, RSW, SEC 18
+Exhibit     "B"     - Page 3
+Ordinance         562
+                                                              EXHIBIT               "B" FOR ORDINANCE            NO. 562
+
+                                                               PLAN AMENDMENT/ZONE                             CHANGE
+
+       ADOPTED                                   BY THE YAMHILL                          COUNTY        BOARD      OF COMMISSIONERS
+
+                                                                                    NOVEMBER        10, 1993
+
+         TO CHANGE THE PLAN DESIGNATION FROM AFLH TO AFSH
+           AND THE OFFICIAL ZONING MAP FROM AF-20 TO AF-10
+            ryyorrvriccucuacsocus
+
+                       2                                                     1900
+                       sg            ve                                      J0,27%
+                       =              (6795)                   809         | é*@>
+                       =                                  qf [2S
+                        ef}                               ye
+                        :                                 %
+                        =                                        a
+                        Hy                                    4 1SS)
+
+                       i
+                       :                   “2g                         :
+
+                     Fi
+                     =H
+                     =                                        —_-,                                                                                       =:
+                     3=                                                         ——                                           2
+                                                                                                                            He      ad ’
+                     :                                                                          yi GLUIAELD                 1h     od                    S
+                      =                                                                  Se     San                     .
+                      3                                                                        tf                   |                    SALUD           YE
+                      i]              33                                                                                      Ta         (6040)       1 [5
+                       x                         esv.4r                      EPEa/A                                            -   ong            =
+                                    UCT CCTTCOCHTUCTCTTUT TTT onrcavececcnccuaeceeuagegge                                   suit   CUNT                  =
+
+   >           MAP NOT TO SCALE
+   =           ALSO DESCRIBED AS AREA 44
+   2           CHANGE APPLIES TO THE PROPERTY SHOWN ABOVE
+   -           MAP PREPARED BY THE YAMHILL COUNTY PLANNING DEPARTMENT
+   =           CHANGES APPLY TO ABOVE TAX LOTS IN T3S, R5W, SEC 33
+Exhibit "B" - Page 4
+Ordinance                           562
+                                  EXHIBIT                                      "B" FOR ORDINANCE                                NO. 562
+
+                                    PLAN                       AMENDMENT/ZONE                                              CHANGE
+
+      ADOPTED               BY THE YAMHILL                                                   COUNTY                     BOARD    OF COMMISSIONERS
+
+                                                                               NOVEMBER                             10, 1993
+
+         TO CHANGE THE PLAN DESIGNATION FROM AFLH TO AFSH
+      AND THE OFFICIAL ZONING MAP FROM EF-40 AND AF-20 TO AF-10
+                                                FALISSSOTESTITOTESTTIN
+
+                                                                          eeere
+                                                                         Way
+                                                                    P 3524-100
+                                                                              (ava)
+                                                                                 re
+                                                                           0    AA naw
+                                                                          3524-200
+
+                                                   seems anna.
+                                        g            3523-1500
+                                                              | 2523-1501
+                                                                 po.
+                                                                               pec                   oo
+                                                                \                           47S)
+
+                                  A         00 3523-1400
+                              .   vy)       eran     £9 OF1
+
+                                                                                 Sarr       ow
+                                                                                  1309
+                                                                         dae
+                                                                                3523-1305
+
+                                                                                                                    a
+                                                                                                           ?
+                                                                                         on
+                                                                                     Sel.
+                                                                                       dts
+                                                                                           POISE Rr
+
+                                                                                                 x        23)   2
+
+      -         MAP NOT TO SCALE          "mn gf Ba “ea
+      -         ALSO DESCRIBED AS AREA 43     ec
+      =         CHANGE APPLIES TO THE PROPERTY SHOWN ABOVE
+                                                                      TMENT
+      =         MAP PREPARED BY THE YAMHILL COUNTY PLANNING DEPAR
+                                                                    AND 24
+      =         CHANGES APPLY TO ABOVE TAX LOTS IN T3S, RSW, SEC 23
+
+Exhibit         "B"     -    Page       5
+Awd       inanne:     GR?
+                                                   EXHIBIT   "B" FOR ORDINANCE       NO. 562
+
+                                                     PLAN AMENDMENT/ZONE           CHANGE
+
+       ADOPTED                              BY THE YAMHILL        COUNTY   BOARD      OF COMMISSIONERS
+
+                                                             NOVEMBER   10, 1993
+
+                     TO CHANGE THE PLAN DESIGNATION FROM AFLH TO AFSH
+                       AND THE OFFICIAL ZONING MAP FROM AF-20 TO AF-10
+
+                                                                                                                      Bead
+                                                                                                                       DEQGDHUTHRG RR OLE
+                                                                                                                     MLL
+                                    a
+
+                                                                                                                     CECT'@ 8
+                           i}                                                                                    N
+                                                                                                  i 1300 geen    y
+                     aes        3
+                                                                                                  y             yy
+                     assy                   A   le
+        naan
+
+                                                                                                                      TT TTT
+                                                                                                                      TIT
+                                                                                                                     LLL
+        omuitaaneT
+        i.
+   \;
+
+   7                  MAP NOT TO SCALE
+   =                  CHANGE APPLIES TO THE PROPERTY SHOWN ABOVE
+   -                  ALSO DESCRIBED AS AREA 41
+   -                  MAP PREPARED BY THE YAMHILL COUNTY PLANNING DEPARTMENT
+   -                  CHANGES APPLY TO ABOVE TAX LOTS IN T3S, R5W, SEC 12
+Exhibit                "B"              -   Page     6
+Ordinance                       562
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.4% of
+the word sequence, and on 84.6% of the figures. Dictionary-recognizable words: 95.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

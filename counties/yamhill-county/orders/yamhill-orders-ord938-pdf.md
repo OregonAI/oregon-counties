@@ -1,0 +1,417 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord938-pdf
+title: 'ORD938-PDF'
+doc_type: ordinance
+citation: 'ORD938-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/15584/ORD938-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 805e1b4b2b223e1aa3489fd4eb905fa05e5918234c26858d044d4eac780bfc65
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.906; figure agreement 0.941; dictionary ratio 0.907. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 183.355
+    - ORS 203.045
+    - ORS 455.020
+    - ORS 455.040
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 91%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD938-PDF (ORD938-PDF)
+
+## At a glance
+
+OCR-derived text of ORD938-PDF. Not human-verified.
+
+## Full text
+
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                    FOR THE COUNTY OF YAMHILL
+
+                    SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Amending the “Yamhill
+County   Building   Code”;    Declaring  an
+Emergency and Setting the Effective Date                       ORDINANCE NO. 938
+
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business on    October 3, 2024, Commissioners Lindsay Berschauer, Kit
+Johnston, and Mary Starrett being present.
+
+THE BOARD ADOPTS THE FOLLOWING FINDINGS:
+
+        WHEREAS, The Yamhill Building Code (“Code”) was originally adopted on April 8, 1966
+via Yamhill County Ordinance No. 17, with the latest amendment to the Code being adopted by
+the Board on February 12, 1998 via Ordinance No. 641; and
+
+        WHEREAS, The Code requires various updates to better align and comply with ORS
+Sections 446.185, 447.020, 455.010 through 455.990, 460.085, 460.360, 479.730 and 480.535 (the
+“Oregon Structural Codes”) and to more accurately reflect current standard processes and
+procedures; and                                     ,
+
+       WHEREAS, The Board seeks to amend the Code as provided in Exhibit A, attached hereto
+and incorporated herein; and now, therefore
+
+THE BOARD ORDAINS AS FOLLOWS:
+
+        Section 1. Amendments to the Yamhill County Building. The amendments to the Yamhill
+County Building Code, as provided in Exhibit A, are hereby approved and adopted.
+
+         Section 3. Severability. Invalidity of a section or part of a section of this Ordinance shall
+not affect the validity of the remaining sections or parts of sections thereto.
+
+        Section 4. Emergency Clause; Effective Date. Pursuant to the provisions of ORS
+203.045(4)-(9), an emergency has been declared to exist. This Ordinance shall therefore become
+effective upon passage.
+
+H
+
+it
+
+                                                                                               BO 24-301
+                                                                          Yamhill County Ordinance No. 938
+                                                                                                Page I of 2
+DATED this 3rd day of October 2024, at McMinnville, Oregon.
+                                   YAMHILL COUNTY BOARD OF COMMISSIONERS
+ATTEST                                                                                   AYE    NAY
+                     Z,            Gpusterrveteue)                                       x
+KERI HINTON”? auv'                 Chair LINDSAY BERSCHAUER
+County Clerk
+By:   Hobs      [pel st            ke Oba                                                x
+Deputy CAROLINA ROOK               Commissioner KIT   JOHNSTON
+FORM APPROVED BY:
+ a yyeehen
+ CS                                CZ                                                    ”
+JODI GOLLEHON                      Commissioner MARY     STARRETT
+Assistant Yamhill County Counsel
+                                                              Approved by the Yamhill County Board of
+                                                              Commissi     13 02 10/03/2024
+                                                              via Board Order
+                                                                                24-301
+                                                                  Yamhill County Ordinance No. 938
+                                                                                        Page 2 of 2
+                                              YAMHILL COUNTY CODE
+              TITLE 10: BUILDING AND DEVELOPMENT                                           REGULATION
+Chapter 10.05: Yamhill County Building Codes
+                                                  TABLE OF CONTENTS
+Section       Title
+10.05.01      TITLE
+10.05.02      DEFINITIONS
+10.05.03      APPLICABLE CODES
+10.05.04      LAND USE APPROVAL     .,
+10.05.05      SUBSURFACE SEWAGE DISPOSAL
+10.05.06      ACCESS BY FIRE PROTECTION EQUIPMENT
+10.05.07      CERTIFICATES OF OCCUPANCY         _
+10.05.08      AGRICULTURAL BUILDINGS
+10.05.09      POOLS; SIGNS; DEMOLITION
+10.05.10      PLOT PLAN REQUIREMENTS
+10.05.11      FEES
+10.05.12      ENFORCEMENT
+10.05.13      VALIDITY
+LEGISLATIVE HISTORY
+EXHBIF A— OREGON                    RESIDENTIAL   SPECIALTY       CODE
+EXHIBIT B— OREGON                   STRUCTURAL    SPECIALTY       CODE
+EXHIBIT D—OREGON                     MECHANICAL   SPECIALTY        CODE
+10.05.01 Title. This ordinanee-Chapter may be cited for all purposes as the Yamhill County Building Codes
+     Ne SH4,1999.
+Ordinance
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24)
+                                                                                                        BO 24-301
+YAMHILL COUNTY CODE
+Chapter 10.05: Yamhill County Building Code                                                               Page 1 of 7
+10.05.02 Definitions. As used in this Chapter-erdinance, unless the context requires otherwise:
+a) “Applicable codes” means those statewide codes and standards adopted by the County under YCC 10.05.03.
+b) “Board” means the Yamhill County Board of Commissioners.
+9) “Building Oefficial” means the Yamhill County Building Official or the Building Official’s authorized
+     deputy-agent.
+d)   “County” means Yamhill County.
+e)   “County Sanitarian” means the County Sanitarian for Yamhill County or the County Sanitarian’s authorized
+     agent,
+f)   “Chief of the Fire Department” means the head of the rural fire protection district or fire department having
+     jurisdiction, or the chief’s authorized deputy.
+g) “Mebile-Home” “Manufactured dwelling” means a detached structure designed for dwelling purposes,
+     manufactured as a unit, constructed in accordance with state standards, and intended to be occupied, as a
+     dwelling or for other purposes, in a place other than that of its manufacture. “Manufactured dwelling Mebile
+     home” includes a manufactured housing unit, but does not include a recreational vehicle-raveltrailer.
+h)   “Planning Director” means the Director of the Yamhill County Department of Planning and Development
+     or the director’s designee.
+     “Road” means any public or private access road, street, highway, easement or way platted, recorded, or shown
+     on any official map, whether or not such road is actually constructed.
+dD   “Site” means the lot(s) or parcel(s) on which construction has taken, or is taking place, or the lot(s) or parcel(s)
+     described in an application for a building permit as the proposed area of construction. If a land use action is
+     required prior to issuance of a building permit, the “site” is the area for which land use authority has been
+     granted.
+i)[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+     “YCC” means the Yamhill County Code.
+
+10.05.03 Applicable Codes.
+a)   The following struetural-codes_and standards, as adopted and thereafter amended by the Oregon Building
+     Codes AgeneyDivision, and other provisions authorized by ORS Sections 446.185, 447.020, 455.010 through
+     455.990, 460.085, 460.360, 479.730 and 480.535, apply in the unincorporated areas of Yamhill County under
+     ORS 455.040:
+          (i)        The “Oregon         Structural Specialty Code” as adopted by the State of Oregon,     Building     Codes
+                     Division, including as amended;
+          (ii)       The “Oregon Mechanical Specialty Code” as adopted by the State of Oregon, Building Codes
+                     Division, including as amended;
+          (iii)      The “Oregon         Plumbing   Specialty Code”   as adopted by the State of Oregon,   Building Codes
+                     Division, including as amended;
+          (iv)       The “Oregon Electrical Specialty Code” as adopted by the State of Oregon, Building Codes
+                     Division, including as amended;
+          (v)        The “Oregon Residential Specialty Code” as adopted by the State of Oregon, Building Codes
+                     Division, including as amended; and
+          (vi)       The “Oregon Fire Code” as adopted by the Oregon State Fire Marshal, including as amended, to
+                     the extent that the provisions of the Oregon Fire Code are applicable hereunder.
+          (vii)
+
+          (viii)
+
+YAMHILL COUNTY CODE
+Chapter 10.05: Yamhill County Building Code                                                                           Page 2 of 7
+     adoption by the Oregon Building Codee Agency. Unless the eCounty adopts peouiianl
+                                                                                     pr         atlesed aes ORS
+     455.020(4), or other provisions authorized by the State Building Code Administrator under ORS 455.040,
+      new editions of the above listed codes, and amendments to those codes, shall be fully applicable and enforced
+      in Yamhill County as of the date they are adopted by the State of Oregon, Building Codes Division Ageney.
+     The effective date of the most recently adopted code or amendment shall be as determined under ORS
+      183.355.
+c)   If the requirements           or conditions   imposed   by   a provision   of this erdiaance—Chapter   differ   from   the
+    requirements or conditions imposed by a provision of another law, ordinance, or order having application in
+    Yamhill County, the more restrictive provision shall govern.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+
+10.05.04 Land Use Approval.
+a) No person shall be entitled to a building permit unless the person has first obtained land use authority for the
+    use proposed to be conducted on the site. The Bbuilding Oefficial shall refuse to issue a permit for work on a
+    site if the official has reason to believe that the owner or applicant has not complied with:
+          (i)        A county ordinance or code controlling the subdivision, platting, partitioning, or other division of
+                     land;
+          (ii)       The Yamhill County Zoning Code; A-cexnty-zening ordinance:or
+          (iii) The County’s Comprehensive Land Use Plan; or
+          (iv)
+             | Any “special permit area” requirements established by the Board of Commissioners with regard
+                to a specifically designated hazard area within the Yamhill eCounty.
+b) All questions regarding land.division or zoning authority that come to the attention of the BbuildingOefficial
+   shall be referred to the Pplanning Ddirector, for resolution in conformance with applicable lard use ordinances
+     and codes.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+
+10.05.05 Subsurface Sewage Disposal. No person shall be entitled to a building permit if an on-site subsurface
+sewage disposal system will be required, and the proposed site does not meet the requirements or conditions
+imposed by the laws, regulations, or ordinances governing subsurface sewage disposal. The Bbuilding Oefficial
+shall not issue any permits for work on a structure requiring sewage disposal unless community sewer service is
+available at the site or a subsurface sewage disposal permit has been obtained, in advance, from the eCounty
+sSanitarian or the Oregon Department of Environmental Quality
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+
+10.05.06 Access by Fire Protection Equipment.
+a) No person shall be entitled to a building permit unless the structure for which a permit is sought has suitable
+    access for fire protection equipment or otherwise meets fire protection standards.
+b) The Bbuilding Oefficial shall not issue a building permit for residential construction unless the applicant has
+    first submitted a statement from the Cehief of the Ffire Ddepartment that the proposed residence has suitable
+    access for fire protection equipment or otherwise meets fire protection standards. The Bbuilding Oefficial
+    shall make a form for this purpose available for use by the applicant.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+
+YAMHILL COUNTY CODE
+Chapter 10.05: Yamhill County Building Code                                                                           Page 3 of 7
+10.05.07 Certificates of Occupancy.
+a)  A Certificate of Occupancy shall be applied for and issued prior to the use or occupancy of any building or
+    structure as provided in Section 308-of the Uniform Building Code-the Oregon Structural Specialty Code.
+b) Ifno Certificate of Occupancy is required by the Oregon Structural Specialty Code-cede:
+        (i)     Actual occupancy of the structure shall not take place until final inspection; and
+        (ii) — The date of actual occupancy shall serve in lieu of the certificate for the purpose of calculating any
+                time period dependent on issuance of a Certificate of Occupancy.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24
+
+10.05.08 Agriculture Buildings.
+a)   No person shall construct or place a building intended for agricultural use without first obtaining a permit
+     from the Bbuilding Oefficial. The purpose of the agricultural building permit is to ensure+nsare compliance
+     with the following zoning requirements:
+         @       Setbacks;
+         (ii) — Floodplain overlay district;
+         (iii) | Willamette River Greenway, scenic river, watershed, or other overlay established pursuant to any
+                 the Yamhill County Zzoning Code or Comprehensive Land Use Plan-ordinance—or-otherwise
+                    established bs the Board: and
+          (iv)      Any “special permit area” requirements established by the Board of Commissioners with regard
+                  to a specifically designated hazard area within the county.
+b)   An application for an agricultural building permit shall include a plot plan containing all information specified
+     in Section 10.05.6910. The distance of the proposed building from property lines shall be clearly shown on
+     the plot plan. The level of detail of required information shall be to the satisfaction of the Bbuilding Oefficial.
+     Building Ooefficial review may include post-construction inspection; to ensure-asure that the structure is for
+   agricultural use and is located as specified in the permit.
+c) No permit shall be issued for construction of a farm or nonfarm agricultural building unless the fee owner or
+   contract purchaser of the property on which the building will be constructed files with the Bbuilding Ocefficial
+   an “Affidavit of Agricultural Use” on a form provided by the Bbuilding Oefficial. The affiant shall attest that
+   the building for which permit is sought will be used solely for agricultural purposes, and that no changes in
+   the use of the structure will occur unless all appropriate permits are obtained in advance.
+d) No electrical, plumbing, or mechanical installation shall be made in an agricultural building unless a permit
+   for the installation is first obtained from the BbuildingOefficial.
+e) Although plan review and structural permits are not required for construction of an agricultural building, the
+   Bbuilding Oefficial will review and approve plans for agricultural buildings and provide inspection services
+     upon payment of the appropriate fee.
+[ADOPTED VIA ORDINANCE NO. S14 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24
+
+10.05.09 Pools; Signs; Demolition.
+a)   Pools. No person shall construct a pool, or pool barrier, without first obtaining a building permit where not
+     exempt by the Oregon Residential Specialty Code. Pool and barrier designs must meet or exceed requirements
+     of the Oregon Residential Specialty Code.
+b)   Signs. Signs requiring a permit by Yamhill County Zoning Code that are over seven feet in height shall not
+     be constructed without first obtaining a building permit.
+c)   Demolition. Buildings and structures that require a permit hereunder shall not be demolished without first
+     obtaining a building permit. The permit is required to verify the sewer, water, and electrical lines have been
+     safely capped or removed, and all debris has been removed from the site.
+[ADOPTED VIA ORDINANCE NO. 938 eff 10/01/24}
+
+10.05.0910 Plot Plan Requirements.
+a)   Notwithstanding the provisions of Seetien 302-of the Uniform Building Code-the Oregon Structural Specialty
+     Code, the plot plan shall show and include:
+          (i)        The legal description, location, and dimensions of            on     which   the   building,   structure,    or
+                     manufactured dwelling-mebite  heme is to be located;
+YAMHILL COUNTY CODE
+Chapter 10.05; Yamhill County Building Code                                                                               Page 4 of 7
+          (ii)       The location of any stream courses, water bodies, swamps, marshes, or areas subject to flooding
+                     or any      areas of known      or suspected   geologic    hazard   or soil limitations, including    slides,
+                     subsidence, or soil creep; on the site;
+          (iii)    | Location and dimensions of the right-of-way of any road abutting the site;
+          (iv)     | The proposed use of each room or floor area of the building, structure, or manufactured dwelling
+                     mebile-home-on the site;
+          (vy)      The location, dimensions, and use of all other buildings, structures, and manufactured dwellings
+                    mebile heme on the site;
+          (vi)       The location, or proposed location, of any well or other domestic water source; if other than a
+                     community or municipal water supply;
+          (vii)      The location, or proposed location, of any pit privy or septic tank and leach lines; and
+          (viii)     Any other information required by this Chapter-ordinance, the applicable codes, or the Bbuilding
+                     Oefficial.
+b)   The plot plan of any structure, including an agricultural building, proposed to be placed in an area regulated
+     by the Ceounty’s floodplain overlay district shall also include the following information:
+         (i)     Elevations and grades of any road abutting the site sufficient to identify any problems of potential
+                     flooding, access, or drainage; and
+          (ii)       The location, dimensions and lowest floor elevations of the building, structure, or manufactured
+               dwelling-mebite-home-with respect to which the proposed work is to be undertaken;
+c)  An application to carry out any work with respect to an agricultural building shall include a plot plan
+    containing at least that level of information necessary for the Bbuilding Ooefficial to make the determinations
+    required by Section 10.05.08.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24
+
+10.05.1146 Fees.
+a)   The schedule of fees to be charged for services under this Chapter-erdinance, including, but not limited to,
+   permits, plan checking, and appeals, shall be set by order of the Board. Changes in fees and state surcharges
+   that the Board has no discretion to set under state law or an applicable code; shall become effective upon
+   adoption by the State_of Oregon, subject to incorporation into the eCounty’s uniform fee schedule at the
+   Board’s earliest convenience.
+b) Ifthe BbuildingOefficial discovers a person nndenndiing work in violation of this Chapter-erdinance or an
+   applicable code, the BbuildingOefficial shall notify the violator to cease the violation and may require that
+   the violator pay an investigation fee in accordance with the provisions of the Oregon Structural Specialty
+   Code, in addition to any permit fees otherwise required hereunder-in-en-ameunt   equate price the-sum-ofthe
+   fees-otherwisetevied.
+c)   A request by an applicant for refund of fees shall be made in writing to the Bbuilding Oefficial. Fees may
+     only be refunded if requested within 180 days of the original fee payment and in accordance with procedures
+     established by the ‘aan                  County Deparmen: of Plana        and Development. “bey Steers the Haass         Bee
+
+d)  The building official shall scone for all fees pul under this Chapter vendlesada fi, any building permit
+    or manufactured dwelling-mebileheme placement permit-and-shall             deposit fees-colected in the county-_general
+    fund.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+
+10.05.1244 Enforcement. This Chapter-erdinance may be enforced as follows:
+a) Under provisions of the applicable codes;
+b) By abatement of the violation as a public nuisance under YCC 5.20, the Yamhill County                           Solid Waste
+     Management Code. A violation of an applicable code is hereby declared to be a nuisance;
+c)   Under YCC 1.10, the Yamhill County Code Enforcement Code¥amhit-Count+Code(¥CO}110.                                    To the
+     extent that greater penalties may be imposed pursuant to YCC                 1.10 than under the applicable code(s), the
+     penalties of YCC 1.10 shall apply;
+d)   By issuance of a “Stop Work Order” in accordance with all applicable code provisions:
+YAMHILL COUNTY CODE
+Chapter 10.05: Yamhill County Building Code                                                                               Page 5 of 7
+e)   By any other legal or equitable remedy available, including, but not limited to, proceedings to enjoin a
+     violation;_or
+f)   By acombination of the above remedies.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+
+10.05.1342 Validity. If any section, subsection, sentence, clause, or phrase of this Chapter,-ordinanee or any of
+the applicable codes, is for any reason held to be invalid by the decision of any court of competent jurisdiction,
+such decision shall not affect the validity of the remaining portions of this Chapter-ordinance-cr-cede.
+[ADOPTED VIA ORDINANCE NO. 514 eff 09/12/90; AMENDED VIA ORDINANCE NO. 938 eff 10/01/24]
+
+                                               LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 17 on 04/11/1966, effective 04/08/1966
+       Repealed via Ordinance No. 28 on 05/10/1968, effective 05/08/1968
+
+Adopted via Ordinance No. 28 on 05/10/1968, effective 05/08/1968
+       Amended via Ordinance No. 38 on 02/24/1971, effective 02/24/1971
+       Repealed via Ordinance No. 43 on 10/11/1972, effective 11/10/1972
+
+Adopted via Ordinance No. 43 on 10/11/1972, effective 11/10/1972
+          Repealed via Ordinance No. 52 on 05/29/1974, effective 07/01/1974
+
+Adopted via Ordinance No. 52 on 05/29/1974, effective 07/01/1974
+       Amended via Ordinance No. 53 on 05/29/1974, effective 07/01/1974 (Mechanical Code Adoption)
+       Amended via Ordinance No. 54 on 05/29/1974, effective 07/01/1974 (Plumbing Code Adoption)
+          Repealed via Ordinance No. 173 on 07/19/1978, effective 07/19/1978
+
+Adopted via Ordinance No. 173 on 07/19/1978, effective 07/19/1978
+          Amended via Ordinance No. 179 on 08/23/1978, effective 08/23/1978
+          Amended via Ordinance No. 193 on 03/07/1979, effective 03/07/1979
+          Repealed via Ordinance No. 254 on 12/31/1980, effective 12/31/1980
+
+Adopted via Ordinance No. 254 on 12/31/1980, effective 12/31/1980
+          Repealed via Ordinance No. 286 on 11/25/1981,          effective 11/25/1981
+
+Adopted via Ordinance No. 286 on 11/25/1981, effective 11/25/1981
+       Repealed via Ordinance No. 436 on 10/08/1986, effective 10/08/1986
+
+Adopted via Ordinance No. 436 on 10/08/1986, effective 10/08/1986
+          Repealed via Ordinance No. 446 on 06/17/1987, effective 06/17/1987
+
+Adopted via Ordinance No. 446 on 06/17/1987, effective 06/17/1987
+          Repealed via Ordinance No. 514 on 09/12/1990, effective 09/12/1990
+
+Adopted via Ordinance No. 514 on 09/12/1990, effective 09/12/1990
+          Amended via Ordinance No. 641 on 02/12/1998, effective 02/12/1998
+          Amended via Ordinance No. 938 on 10/01/2024, effective 10/01/2024
+
+YAMHILL COUNTY CODE
+Chapter 10.05: Yamhill County Building Code                                                                Page 6 of 7
+                                              BO 24-301
+YAMHILL COUNTY CODE
+Chapter 10.05: Yamhill County Building Code     Page 7 of 7
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 90.6% of
+the word sequence, and on 94.1% of the figures. Dictionary-recognizable words: 90.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.
