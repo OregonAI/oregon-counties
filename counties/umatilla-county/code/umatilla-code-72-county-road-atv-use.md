@@ -1,0 +1,390 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/umatilla-county
+id: umatilla-code-72-county-road-atv-use
+title: '72 County Road ATV Use'
+doc_type: ordinance
+citation: '72 County Road ATV Use'
+authority_level: county_ordinance
+issuing_body: 'Umatilla County Board of Commissioners'
+source_url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/72_County_Road_ATV_Use.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d23c591fbbcab37541dafd10e4563b23db111941e601cc2f44658df854671316
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 30.310
+    - ORS 390.570
+    - ORS 390.577
+    - ORS 390.580
+    - ORS 467.030
+    - ORS 801.190
+    - ORS 801.193
+    - ORS 801.194
+    - ORS 801.245
+    - ORS 801.366
+    - ORS 801.490
+    - ORS 806.060
+    - ORS 811.210
+    - ORS 811.255
+    - ORS 821.030
+    - ORS 821.040
+    - ORS 821.170
+    - ORS 821.172
+    - ORS 821.176
+    - ORS 821.191
+    - ORS 821.220
+    - ORS 821.230
+    - OAR 340-035-0030
+    - OAR 735-116-0000
+    - OAR 736-004-0015
+  related: []
+  supersedes: []
+tags: [umatilla-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Umatilla County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 72 County Road ATV Use (72 County Road ATV Use)
+
+## At a glance
+
+72 County Road ATV Use — code of Umatilla County. 7 pages.
+
+## Full text
+
+CHAPTER 72: COUNTY ROAD ATV USE
+Section
+72.01 ATV Use on Designated
+      County Roads
+72.02 Operator Requirement
+72.03 Vehicle Requirements
+72.04 Vehicle Operation
+72.05 Liability
+72.06 Enforcement and Penalties
+72.07 Signs
+§72.01 ATV USE ON DESIGNATED
+COUNTY ROADS.
+(A)  Subject to the provisions of this
+Chapter 72 and Oregon law, Class I, II and IV
+all-terrain wheeled vehicles may be operated
+on designated County Roads.  This Chapter
+does not apply to or restrict vehicles under
+ORS 821.191 used for agricultural purposes.
+Nothing contained in this Chapter applies to
+the operation of snowmobiles as that term is
+defined by ORS 801.490.
+(B)  The County Roads designated for use
+by All-Terrain Vehicles will be those two lane
+gravel County Roads, paved County Roads
+with a posted speed limit of 40 miles per hour
+or less, and other County Roads,  as
+designated by the County, located easterly of
+State Highway 11, easterly of State Highway
+S. 395 (Pendleton to Nye Junction), and
+southerly of State Highway 74.  Public Roads
+within this area and not accepted as and
+designated as County Roads and any road
+under the jurisdiction of another governmental
+entity or agency are excluded from and not
+covered by this Chapter, and excluding any
+road on the Confederated Tribes of the
+Umatilla Indian Reservation.  The roads
+designated for use are shown in the attached
+map marked Exhibit A, and listed on Exhibit
+B. (Ord. 2025-08, passed 12-17-2025)
+§72.02 OPERATOR REQUIREMENT.
+(A)  The operator of the allowed all-terrain
+vehicle must be 16 years of age or older, and
+hold a valid state issued Driver's License.
+Licensed drivers must comply with all license
+restrictions.  A person may not operate an
+ATV under this Chapter while the person's
+driving privileges (i.e. Driver's License) are
+suspended or revoked.
+(B) For any operator under the age of 18
+another adult person must also be along as
+required by ORS 821.170, ORS 821.172, and
+ORS 821.176.
+(C)  A person operating a Class I All-
+Terrain Vehicle must hold a valid Class I
+ATV Safety Education Card Operator Permit
+issued under ORS 390.570.  A person
+operating a Class IV All-Terrain Vehicle must
+hold a valid Class IV ATV Safety Education
+Card issued under ORS 390.577.  The
+operator must have any other permit required
+by the State of Oregon for operating an ATV.
+(Ord. 2025-08, passed 12-17-2025)
+§72.03  VEHICLE REQUIREMENTS.
+(A) All-Terrain Vehicles operated under
+this Chapter must be wheeled only and
+equipped with the safety equipment required
+under all applicable Traffic Laws, including,
+without limitation, ORS 821.030, ORS
+821.040, ORS 821.220, ORS 821.230, and
+OAR 735-116-0000.  No tracked vehicles are
+permitted.
+(B) The all-terrain vehicle must be
+equipped with rearview mirrors, brakes,
+display headlights and taillights, minimum of
+150 cc engine capability, and pennant to
+attract attention.
+(C) Mufflers  in Oregon  must be
+maintained at 99 decibels (db) and be in
+compliance of ORS 467.030 and OAR
+340-035-0030.
+(D)  The vehicle must have a valid Oregon
+state issued ATV operating permit (sticker) or
+any other permit required by the State of
+Oregon.
+(E) All-Terrain Vehicles operated under
+this Chapter must meet the financial
+responsibility requirements under ORS
+806.060.  For purposes of this Chapter,
+"financial responsibility requirements" means
+the ability to respond in damages for liability,
+on account of accidents arising out of the
+ownership, operation, maintenance, and/or use
+of  an  ATV, in  a manner provided under
+ORS 806.060.
+(F) The all-terrain vehicle must be
+equipped at all times with an approved spark
+arrestor as specified in OAR 629-043-
+0015(1)(b).
+(Ord. 2025-08, passed 12-17-2025)
+§72.04  VEHICLE OPERATION.
+(A) All-Terrain Vehicles operating under
+this Chapter must be operated in compliance
+with all applicable federal, state, and local
+laws, regulations, and ordinances, including,
+without limitation, all applicable Traffic Law
+requirements (including, without limitations,
+ORS 811.255) and operated in compliance
+with all posted speed limits and may not be
+operated (a) at a rate of speed greater than
+reasonable under the existing conditions, or
+(b) in a negligent manner so as to endanger or
+cause injury, death, and/or damage to the
+operator or person or property of another.  It is
+the responsibility of the operator to be aware
+of which County Roads are open to use by all-
+terrain vehicles.
+(B) Any operator or passenger must wear
+a Motorcycle Helmet with a fastened chin
+strap at all times if operating or riding on a
+Class I, or if under the age of 18 for any Class
+of vehicle.
+(C) No passenger may be under the age of
+5.
+(D) A person must be properly secured
+with a safety belt or safety harness while
+operating or riding as a passenger on an ATV
+operated under this Chapter if such ATV was
+required to be equipped with safety belts or
+safety harnesses at the time the ATV was
+manufactured or safety belts or safety
+harnesses have been installed on the ATV
+(ORS 811.210).
+(E) In the event of a ban on burning
+adopted by the Board of Commissioners, use
+of the County Roads may be restricted for All-
+Terrain Vehicle Use.
+(F) All-Terrain Vehicles operated under
+this Chapter may be operated only during
+daylight hours.  For purposes of this section,
+daylight hours mean one-half hour after
+sunrise to one-half hour before sunset.
+Headlight and taillights must be used at all
+times.
+(Ord. 2025-08, passed 12-17-2025)
+§72.05 LIABILITY.
+The operation of an ATV will be undertaken
+at the sole risk and responsibility of the owner
+and/or operator. Umatilla County, in adopting
+this Chapter, assumes no responsibility for the
+operation of such ATVs and will be held
+harmless in any action arising from the
+operation of such ATVs on or off any public
+way within Umatilla County, including,
+without limitation, roadways.
+(Ord. 2025-08, passed 12-17-2025)
+§ 7 2 . 0 6  E N F O R C E M E N T  A N D
+PENALTIES.
+(A) Enforcement of this Chapter may be
+through Umatilla County Code of Ordinances
+Chapter 38, or by civil action as provided in
+ORS 30.310, 30.315 or ORS Chapter 203, or
+by any means allowed under Oregon law.
+(B) Any violation of this Chapter that
+constitutes a violation of a Traffic Law, then
+the penalty for the same shall be as provided
+for by Oregon statute.
+(D)  The failure or omission to comply
+with any section of this Chapter shall be
+deemed a violation and may be so prosecuted,
+subject to the fines provided in this Chapter
+and Chapter 38.
+(Ord. 2025-08, passed 12-17-2025)
+§72.06  DEFINITIONS.
+For the  purpose of this  Chapter, the
+following definitions are established:
+(a) All-Terrain Vehicle(s) (“ATV”),
+includes those Classes  defined under ORS
+Chapter 801.  Snowmobiles, as defined in
+ORS 801.490, are excluded from this Chapter
+and are not included within any authorization
+to use of County Roads.
+(1) Class I ATVs: as defined in ORS
+801.190 as a motorized, off-highway
+recreational vehicle 50 inches or less in
+width with a dry weight of 1200 pounds or
+less that travels on three or more low
+pressure tires, has a saddle or seat for the
+operator and is designed for or capable of
+cross-country travel on or immediately
+over land, water, sand, snow, ice, marsh,
+swampland or other natural terrain. Most
+riders refer to a Class I All-Terrain
+Vehicle as an ATV or quad.
+(2) Class II ATVs: as defined by ORS
+801.193 as any motor vehicle that weighs
+more than or is wider than a Class I
+All-Terrain Vehicle,  is designed for or
+capable of cross-country travel on or
+immediately over land, water, sand, snow,
+ice, marsh, swampland, or other natural
+terrain, and is not a Class IV All-Terrain
+Vehicle. Class II All-Terrain Vehicles may
+also be known as four-by-fours, pickups
+jeeps, sand rails, dune buggies, and SUVs.
+(3) Class III ATVs: as defined in ORS
+801.194(1) as a motorcycle that travels on
+two tires. Most riders refer to a Class III
+All-Terrain Vehicle as a dirt bike.
+(4) Class IV ATVs: as defined in ORS
+801.194(2) as 75 inches wide or less at its
+widest point, has a dry weight of 3,500
+pounds or less, has non-straddle seating,
+has a steering wheel for steering control,
+travels on four or more tires, and was
+originally manufactured for off-road use
+only.  These are commonly known as a
+side-by-side or UTV.
+(b) ATV Safety Education Card, means
+the ATV Safety Education Card issued upon
+completion of an Oregon Parks and
+Recreation Department approved ATV Safety
+Education course and passage of the minimum
+standards test of ATV Safety Education
+competency as established by the Oregon
+Parks and Recreation Department as set forth
+in OAR 736-004-0015(10).
+(c) ATV operating permit means the ATV
+operating permit issued under ORS 390.580
+and is a decal that authorizes use of the ATV
+and must be permanently affixed to the
+vehicle and displayed in a clearly visible
+manner.
+(d)  Driver License, has the meaning given
+that term under ORS 801.245.
+(e) Motorcycle  Helmet,  has the meaning
+given that  term under ORS  801.366. ORS
+801.366 defines a Motorcycle Helmet  as a
+protective  covering for the head consisting  of
+a hard outer shell, padding  adjacent  to and
+inside the outer shell and a chin-strap type
+retention system with a sticker indicating that
+the motorcycle  helmet  meets  standards
+established  by  the United  States Department
+of Transportation.  The padding must be
+internal impact padding.
+(f) Traffic Law(s), means any and all
+Oregon statutes and regulations relating in any
+way to the operation or use of motorized
+vehicles, including, without limitation, the
+Oregon Vehicle Code (ORS Chapters 801 to
+826) and any regulations or administrative
+rules promulgated thereunder.
+(Ord. 2025-08, passed 12-17-2025)
+§72.07 SIGNS.
+The County will post signs giving notice
+that the operation of ATVs is permitted upon
+certain County Roads under the provisions of
+this Chapter that are not graveled County
+Roads or paved County Roads with a posted
+speed limit of 40 miles per hour.  The County
+will post such signs at locations necessary to
+inform the public that ATVs are permitted,
+which sign locations will be determined by the
+County in its sole discretion.
+(Ord. 2025-08, passed 12-17-2025)
+EXHIBIT A ­ Ordinance No. 2025­08
+EXHIBIT B
+Ordinance No. 2025-08
+List of County Roads that may allow use of off road vehicles.  Portion of road allowing use is
+designated on the map attached to Ordinance No. 2025-08
+Full Name  County Road Number
+Albee Road  1413
+Albee Road  1417
+Albee Road  1447
+Basket Mountain Road 623
+Basket Mountain Road 628
+Bear Creek Road 1411
+Birch Creek Road  573
+Blue Mountain Station Road 626
+Cable Creek Road  1477
+Cache Hollow Road  607
+Camas Creek Road  1466
+Coe Road 609
+Cottonwood Creek Road 581
+Couse Creek Road  613
+Dixie Ranch Road  1458
+East Birch Creek Road 1378
+Frazier Station Road  1454
+Gentry Road  631
+Government Mountain Road 584
+Grant Road  543
+Gurdane Road  1425
+Hidaway Springs Road 1478
+Holmes Road  1032
+Hynd Road  1482
+Kinnear Road  616
+EXHIBIT B
+Ordinance No. 2025-08
+Lincton Mountain Road 603
+Little Mckay Creek Road 1058
+Log Springs Road  1429
+Lower Basket Mountain Road  633
+McDougal Camp Road 636
+Mckay Creek Road  1050
+Mossie Road  1472
+Nursery Annex Road  558
+Powerline Road 525
+Rocky Ridge Road  1069
+Ross Road  1046
+School House Road   1069
+Shaw Road  1061
+Shaw Road  1075
+Spofford Road    564
+Spofford Road   567
+Stewart Creek Road  1062
+Telephone Pole Road  551
+Upper Dry Creek Road 623
+W Birch Creek Road  1407
+Weather Road  1048
+Wegner Gulch Road  1077
+Whiteman Road 562
+Yellow Jacket Road  1405

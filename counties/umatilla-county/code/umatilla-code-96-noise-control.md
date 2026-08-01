@@ -1,0 +1,169 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/umatilla-county
+id: umatilla-code-96-noise-control
+title: '96 Noise Control'
+doc_type: ordinance
+citation: '96 Noise Control'
+authority_level: county_ordinance
+issuing_body: 'Umatilla County Board of Commissioners'
+source_url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/96_Noise_Control.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 3c499b26a7895c9fa856c4ae58b9bb5cdede6bec5f19ad5005770e1c86592982
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [umatilla-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Umatilla County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 96 Noise Control (96 Noise Control)
+
+## At a glance
+
+96 Noise Control — code of Umatilla County. 2 pages.
+
+## Full text
+
+9-85
+Chapter 96
+NOISE CONTROL
+Section
+96.01 Title
+96.02 Definitions
+96.03 Prohibitions
+96.04 Exceptions
+96.05 Administration and Enforcement
+§96.01  TITLE.
+This chapter may be referred to as the Noise
+Control Ordinance. (Ord. 99-07, passed 10-20-
+99)
+§96.02  DEFINITIONS.
+The following definitions shall apply to this
+chapter.
+NOISE SENSITIVE UNIT .  Property
+normally used for sleeping, or, when in use,
+schools, churches, hospitals, public parks or public
+libraries.  Property used in industrial or agricultural
+activity is not a noise sensitive unit unless it also
+meets the above criteria in more than an incidental
+manner.
+PLAINLY AUDIBLE SOUND .
+Unambiguously communicated sound that is
+spoken speech, music, or mechanical or electronic
+noise.
+SOUND PRODUCING SOURCE.  Anything
+that is capable of making sound that can be
+measured by a sound level meter as provided by
+this chapter.  Includes, but is not limited to, the
+following:
+A. Air conditioning or heating units, heat
+pumps, refrigeration units (including those
+mounted on motor vehicles), and swimming pool
+or hot tub pumps;
+
+B. Air horns, bells, or sirens;
+C. Audio or visual equipment, includes, but is
+not limited to compact disc players, phonographs,
+radios, stereo systems, tape players, tape recorders,
+televisions, and video cassette recorders;
+D. Domestic tools, such as chain saws,
+electric drills, electric saws, hammers, lawn
+mowers, leaf/snow blowers, and similar tools;
+E. Loudspeakers or public address systems;
+F. Motor vehicle engines, exhaust systems or
+tires, other than regular traffic on a highway, road
+or street;
+G. Musical Instruments;
+H.  Parties;
+I.   Domestic Animals;
+J.   Spoken speech.
+(Ord. 99-07, passed 10-20-99)
+§96.03  PROHIBITIONS.
+Within the jurisdiction of the Umatilla County
+Board of Commissioners, no person or entity may
+produce or permit to be produced, with a Sound
+Producing Source, sound that:
+A.  When measured at or within the boundary
+of property on which a Noise Sensitive Unit is
+located (not the unit that is source of the sound
+unless the unit is a public park):
+(1) Exceeds 50 dBA at any time between
+the hours of 10:00 p.m. to 7:00 a.m.; or
+(2) Exceeds 60 dBA at any time between
+the hours of 7:00 a.m. to 10:00 p.m.; or
+(3) Is Plainly Audible at any time between
+the hours 7:00 a.m. to 10:00 p.m. at a distance of at
+least 100 feet from the source of the sound.
+B.  Is Plainly Audible at any time between the
+hours of 10:00 p.m. to 7:00 a.m.:
+(1) Within a Noise Sensitive Unit that is
+not the source of the sound; or
+(2) On a County Road or Public Road
+right-of-way at a distance of at least 50 feet from
+9-86
+the source of the sound.
+(Ord. 99-07, passed 10-20-99)
+§96.04  EXCEPTIONS.
+The following are exceptions to the
+prohibitions contained in this chapter.
+A.  Sound caused by organized athletic or
+other group activities, when such activities are
+conducted on property generally used for such
+purposes, such as stadiums, fairgrounds, schools,
+churches and athletic fields.
+B. Sound caused by emergency work, or by
+the ordinary and accepted use of emergency
+equipment, motor vehicles, and apparatus,
+regardless of the location or entity performing
+work.
+C.  Sound caused by bona fide use of
+emergency warning devices and alarm systems.
+D.  Sound caused as the result of unplanned
+and unanticipated personal accidents or
+emergencies.
+E.  Sound regulated by federal law, including,
+not limited to, sound caused by railroad, aircraft or
+commercially licensed watercraft operations.
+F.  Sound caused by blasting activities when
+performed under a permit issued by the appropriate
+governmental authorities and only between the
+hours of 9:00 a.m. to 4:00 p.m., excluding
+weekends.
+G. Sound caused by industrial, agricultural,
+commercial or construction activities.
+H.  Sound caused by regular vehicular traffic
+on a  Public or County Road, parking lot, or other
+premises open to the general public for the use of
+motor vehicles, regardless of ownership or use fee
+charge.
+I.  Sound caused by domestic tools between
+the hours of 7:00 a.m. to 10:00 p.m.
+(Ord. 99-07, passed 10-20-99)
+§96.05 ADMINISTRATION AND
+ENFORCEMENT.
+1. The provisions of this chapter shall be
+enforced  under the procedure set out in Chapter 38
+of the Umatilla County Code of Ordinances.
+2.  No written warning shall be necessary
+prior to the issuance of a citation.
+
+3. For purposes of this chapter, a continuing
+violation shall be sound that occurs at least once
+beyond a 24 hour period.
+(Ord. 99-07, passed 10-20-99)

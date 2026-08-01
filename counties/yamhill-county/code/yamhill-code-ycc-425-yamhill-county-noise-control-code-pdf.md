@@ -1,0 +1,250 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-425-yamhill-county-noise-control-code-pdf
+title: 'YCC-425-YAMHILL-COUNTY-NOISE-CONTROL-CODE-PDF'
+doc_type: ordinance
+citation: 'YCC-425-YAMHILL-COUNTY-NOISE-CONTROL-CODE-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/5191/YCC-425-YAMHILL-COUNTY-NOISE-CONTROL-CODE-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7747438e2f0e277f593b8abdcbf2b3a5d70472e203ed29ca2fa7430ed8c4ba76
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 34.010
+    - ORS 34.100
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-425-YAMHILL-COUNTY-NOISE-CONTROL-CODE-PDF (YCC-425-YAMHILL-COUNTY-NOISE-CONTROL-CODE-PDF)
+
+## At a glance
+
+YCC-425-YAMHILL-COUNTY-NOISE-CONTROL-CODE-PDF — code of Yamhill County. 5 pages.
+
+## Full text
+
+Chapter 4.25: Yamhill County Noise Control Code  Page 1 of 5
+
+TITLE 4: PUBLIC PEACE, MORALS, AND WELFARE
+
+Chapter 4.25: Yamhill County Noise Control Code
+
+TABLE OF CONTENTS
+Section Title
+4.25.01 DEFINITIONS
+4.25.02 EXEMPTIONS
+4.25.03 VARIANCES
+4.25.04 APPLICATION FOR VARIANCE
+4.25.05 PROCESSING THE VARIANCE
+4.25.06 EXTENSION OR REVOCATION OF VARIANCE
+4.25.07 VIOLATIONS
+4.25.08 STANDARDS GENERALLY
+4.25.09 CONFORMITY WITH LAW
+4.25.10 CITATION.
+4.25.11 SEIZURE OF INSTRUMENTS AND EQUIPMENT; DISPOSAL
+4.25.12 VIOLATION; PENALTY
+4.25.13 SEVERABILITY
+
+LEGISLATIVE HISTORY
+
+4.25.01 Definitions.
+a) “Farm use” means the current employment of land including that portion of such lands under buildings
+supporting accepted farming practices for the purposes of raising, harvesting and selling crops or the feeding,
+breeding, management and sale of, or the produce of livestock, poultry, fur -bearing animals or honeybees or
+for dairying and the sale of dairy products or any other agricultural or horticultural use or animal husbandry
+or any combination thereof. “Farm use” means and includes the preparation, processing, and packaging and
+storage of the products raised on such land and disposal by marketing or otherwise. It does not include the use
+of land subject to the provisions of ORS Chapter 321, or the construction and use of dwellings customarily
+provided in conjunction with the farm use.
+b) “Farming practice” means a mode of operation that is common to farms of a similar nature, necessary for
+the operation of such farms and customarily utilized in conjunction with farm use.
+c) “Noise sensitive unit” means any building or portion thereof, vehicle, boat or other structure used as a church,
+day care center, hospital, nursing care center, school, or place lawfully used for overnight accommodations
+of persons, including, but not limited to, individual homes, individual apartments, trailers and nursing homes,
+and the curtilage thereof.
+Chapter 4.25: Yamhill County Noise Control Code  Page 2 of 5
+d) “Plainly audible ” means any sound for which the information content of that sound is unambiguously
+communicated to the listener, such as, but not limited to, understandable spoken speech, comprehensible
+musical rhythms or vocal sounds.
+e) “Vehicle” means and includes automobiles, motorcycles, motorbikes, go- karts, trucks, buses, all -terrain
+vehicles, quads, dirt bikes, and snowmobiles. All watercraft (boats, jet skis, etc.) are exempt.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.02 Exemptions.
+a) Nothing in this ordinance is intended to unreasonably restrict or regulate:
+(i) Forestry. The normal and usual operation of equipment and machinery in connection with and on
+land being used for the growing and harvesting of timber and other forest products because of
+noise arising from such activity;
+(ii) Farming. Farming practices because of noise arising from farm use of land;
+(iii) Organized Athletic or Other Group Activities. Sounds caused by organized athletic or other group
+activities or permitted mass gatherings when those activities are conducted on property generally
+used for those purposes, including stadiums, parks, schools, churches, airports and athletic fields.
+Activities permitted by land use conditional use permission granted by the Department of Planning
+and Development are exempt. These exceptions do not prohibit the county from declaring a
+specific event or activity in violation of this ordinance, or other laws, ordinances or regulations;
+(iv) Sounds caused by emergency work, or by the ordinary and accepted use of emergency equipment,
+vehicles, sirens, bullhorns and apparatus, regardless of whether such work is performed by a public
+or private agency, or upon public or private property;
+(v) Sounds caused by regular vehicular traffic upon premises open to the public;
+(vi) Sounds regulated by federal and state law, including but not limited to sounds caused by railroads,
+aircraft, airports, quarries, and lawful blasting and explosives;
+(vii) Lawn, garden or household equipment associated with the normal repair,  upkeep or maintenance
+of property.
+(viii) Watercraft. Normal and customary engine sounds of powered boats, jet skis, etc.
+(ix) Firearms. Discharges of firearms for sport, hunting, target practice, plinking, recreational shooting,
+training, trap, skeet, predator control, livestock management, or other lawful firearms activities.
+(x) Law enforcement activities. All law enforcement activities by sworn and certified police officers,
+including any and all training, whether it involves firearms, explosives, simulated gunfire, or any
+other noise.
+(xi) Kennels. Licensed kennels, animal control or breeding facilities, or other entities that board
+animals. A kennel must be licensed by the Yamhill County Sheriff’s  Office to be exempt.
+Unlicensed kennels can and will be subject to noise enforcement pursuant to this ordinance.
+(xii) Shooting Ranges. Lawful commercial or law enforcement firearms shooting ranges or practice
+facilities.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.03 Variances.
+a) Any person, business, or government agency planning the operation of a sound source, which may violate any
+provision of this ordinance, may apply for a variance from such provision.
+b) Any person, business, or government agency planning the operation of a sound source, which may violate any
+provision of this ordinance, may apply for a variance from such provision.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.04 Application for Variance. The applicant must submit a complete written application in a form acceptable
+to the county and submitted to the Yamhill County Sheriff’s Office. The application need only address that portion
+of the project for which a variance is sought. Any application that does not comply with the  following
+requirements is not complete and must be resubmitted.
+a) A processing fee of $200;
+Chapter 4.25: Yamhill County Noise Control Code  Page 3 of 5
+b) The name, address and telephone number of the entity requesting the variance and  the signature of an
+authorized representative.
+c) The length of time for the variance; and
+d) An analysis of the proposal, addressing:
+(i) The purpose for the creation of the noise;
+(ii) The nature of the noise;
+(iii) The affected population within the geographical area of the noise source, whether it is residential,
+commercial or industrial;
+(iv) The projected duration and times of the noise;
+(v) The potential impacts of the noise on the affected population;
+(vi) The extent and scope of measures that the applicant has taken or will take to  reduce or diminish
+the disturbance for the affected population such as:
+1. Modification of operations to reduce the impact the noise will have on the affected population.
+2. Any other measure that is deemed necessary and proper to minimize  impacts the noise will
+create in the affected area.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.05 Processing the Variance.
+a) The Yamhill County Sheriff’s Office shall provide a response within fifteen days of the applicant’s submittal
+of a complete application and processing fee.
+b) The Yamhill County Sheriff’ s Office may deny the application, approve the application or approve the
+application subject to conditions. The decision by the Yamhill County Sheriff’s Office shall be in writing and
+include a brief summary of the relevant facts, reasoning and conclusion, together with any conditions of
+approval including the duration of the variance.
+c) In the event of denial or approval subject to conditions, the applicant may submit the application for
+reconsideration. The application for reconsideration may include additional information in support of the
+requested variance and must be submitted within five days of the initial decision. The Yamhill County
+Sheriff’s Office will issue the decision on reconsideration within seven days. The decision of the Yamhill
+County Sheriff’s Office shall be the final decision of the county.
+d) The decision of the Yamhill County Sheriff ’s Office shall be reviewable solely under  ORS 34.010 through
+ORS 34.100 in the Circuit Court of Yamhill County.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.06 Extension or Revocation of Variance.
+a) The county may grant an extension to a variance upon a determination that it is  warranted by reasonably
+unforeseeable and uncontrollable events.
+b) The variance may at any time before or during the operation of any variance be revoked for any reason.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.07 Violations.
+a) Violation of the terms and conditions of the variance shall be deemed a violation of this ordinance enforceable
+as provided in the Violations section.
+b) The fines provided for herein are in addition to, and not in lieu of, any other remedy allowed by law, including
+but not limited to an action for revocation, a restraining order, and injunction or abatement.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.08 Standards Generally.
+a) It is unlawful for any person to make, continue or cause to be made or continued, any noise which
+unreasonably annoys, disturbs, injures or endangers the comfort, repose, health, peace or safety of any person
+of normal sensitivity in a noise sensitive unit. The standard which shall be utilized in determining whether a
+violation of the provisions of this ordinance exists may include, but not be limited to, the following:
+(i) The volume of the noise;
+(ii) The intensity of the noise;
+Chapter 4.25: Yamhill County Noise Control Code  Page 4 of 5
+(iii) Whether the nature of the noise is usual or unusual;
+(iv) Whether the origin of the noise is natural or unnatural;
+(v) The volume and intensity of the background noise, if any;
+(vi) Whether the noise is plainly audible within a noise sensitive unit;
+(vii) The nature and zoning of the area within which the noise emanates;
+(viii) The density of the inhabitation of the area within which the noise emanates;
+(ix) The time of day or night the noise occurs;
+(x) The duration of the noise;
+(xi) Whether the noise is recurrent, intermittent, or constant; and
+(xii) The willingness or unwillingness of the noise producer to timely cease or abate the noise.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.09 Conformity with Law. This ordinance shall not in any way be a substitute for, nor eliminate in any way,
+the necessity for conformity with any and all laws or rules of the state of Oregon or its agencies, nor any ordinance
+or rule or regulation of the county.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.10 Citation. A county officer, as defined in the Uniform Citation Ordinance, may issue a citation for
+violation of this ordinance and the rules and regulations adopted pursuant thereto. The Uniform Citation
+Ordinance, Yamhill County Citation Ordinance No. 755, is hereby incorporated into this Ordinance by this
+reference, and its provisions control the enforcement of this ordinance. All citations shall conform with Ordinance
+755 and ORS Chapter 153. All citations shall be adjudicated in the Yamhill County Circuit Court. The provisions
+of this ordinance are in addition to and not in lieu of any other procedures and remedies provided by law, including
+equitable relief and damages.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.11 Seizure of Instruments and Equipment; Disposal. Any peace officer who issues a citation for violation
+of this ordinance is authorized to seize  and hold for no longer than fifteen days any radio, stereo, instrument, or
+equipment used to create or amplify the noise for which the citation is issued, in order to abate the noise violation,
+protect the public health and safety, and reduce repeat calls for service. The sheriff will provide a written receipt
+for the property to the person from whom the property was seized. If  property seized under this ordinance is not
+claimed or picked up within fifteen days of seizure, the sheriff shall provide written notice to the person from
+whom the property was seized and anyone else that has asserted an interest in the property. If the property is not
+claimed or picked up within thirty days from the date of which the notice is sent, the sheriff shall consider the
+property abandoned and destroy the property or dispose of it by public auction.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.12 Violation; Penalty.
+a) Upon conviction of any person for violation of any provision of this ordinance or rules or regulations adopted
+pursuant thereto, such person may be punished by a fine of not more than seven hundred ($700) dollars.
+b) Each day any person shall be in violation of this ordinance or rules or regulations adopted pursuant thereto
+shall be deemed a separate offense.
+c) Any person who has been convicted of a violation of this ordinance or rules or regulations adopted pursuant
+thereto and who is found by a court to have been formerly convicted of any violation of this ordinance or rules
+or regulations adopted pursuant thereto may be punished by a fine of not more than one thousand five hundred
+($1500) dollars.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+4.25.13 Severability. If any section, subsection, sentence, clause, phrase, or portion of this ordinance is, for any
+reason, held invalid or unconstitutional by a court of competent jurisdiction, such portion shall be  deemed a
+separate, distinct and independent provision and such holding shall not affect the validity of the remaining
+portions of this ordinance.
+[ADOPTED VIA ORDINANCE NO. 822 eff 12/12/07]
+
+Chapter 4.25: Yamhill County Noise Control Code  Page 5 of 5
+
+LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 822 on 12/12/2007, effective 12/12/2007

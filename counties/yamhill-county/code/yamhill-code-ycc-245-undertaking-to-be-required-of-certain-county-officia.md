@@ -1,0 +1,108 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-245-undertaking-to-be-required-of-certain-county-officia
+title: 'YCC-245-UNDERTAKING-TO-BE-REQUIRED-OF-CERTAIN-COUNTY-OFFICIALS-PDF'
+doc_type: ordinance
+citation: 'YCC-245-UNDERTAKING-TO-BE-REQUIRED-OF-CERTAIN-COUNTY-OFFICIALS-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/5167/YCC-245-UNDERTAKING-TO-BE-REQUIRED-OF-CERTAIN-COUNTY-OFFICIALS-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e6fe1996dde11f1901f80981297e66b5bc13f7c2a4d2d96086b6eb90b74db598
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-245-UNDERTAKING-TO-BE-REQUIRED-OF-CERTAIN-COUNTY-OFFICIALS-PDF (YCC-245-UNDERTAKING-TO-BE-REQUIRED-OF-CERTAIN-COUNTY-OFFICIALS-PDF)
+
+## At a glance
+
+YCC-245-UNDERTAKING-TO-BE-REQUIRED-OF-CERTAIN-COUNTY-OFFICIALS-PDF — code of Yamhill County. 2 pages.
+
+## Full text
+
+YAMHILL COUNTY CODE
+Chapter 2.45: Undertaking to be Required of Certain County Officials  Page 1 of 2
+
+YAMHILL COUNTY CODE
+
+TITLE 2: COUNTY ADMINISTRATION
+
+Chapter 2.45: Undertaking to be Required of Certain County Officials
+
+TABLE OF CONTENTS
+Section Title
+2.45.01 UNDERTAKING REQUIRED OF COUNTY OFFICIALS
+2.45.02 FORM
+2.45.03 SURETY COMPANY
+2.45.04 FILING
+2.45.05 PRESENT OFFICERS
+2.45.06 COSTS TO BE PAID BY COUNTY
+
+LEGISLATIVE HISTORY
+
+2.45.01 Undertaking Required of County Officials. The official undertaking required of County officials shall
+be as follows:
+a) County Sheriff $20,000
+b) County Clerk $20,000
+c) County Assessor $5,000
+d) County Surveyor $1,000
+e) County Treasurer $500,000
+f) County Commissioners $5,000
+[ADOPTED VIA ORDINANCE NO. 417 eff 08/21/85]
+
+2.45.02 Form. The undertaking shall be in substantially the following form:
+
+ “Whereas, at an election held on November _______, 19__, __________________________________
+ was duly elected County __________________________ for Yamhill County, ___________________
+            (name of surety)
+Undertakes that if _________________________ shall not faithfully keep, account for and pay over
+according to law all monies that may come into his/her hand by virtue of his/her office, and otherwise well
+and faithfully perform the duties of such office, then_________________________________________
+        (name of surety)
+Will pay to Yamhill County the sum of $____________.”
+
+[ADOPTED VIA ORDINANCE NO. 417 eff 08/21/85]
+
+YAMHILL COUNTY CODE
+Chapter 2.45: Undertaking to be Required of Certain County Officials  Page 2 of 2
+2.45.03 Surety Company. The surety providing said undertaking shall be  a surety company authorized to do
+surety business in the State  of Oregon and shall be subject to the approval of the Board of  Commissioners. The
+Board may, at its option, select the surety.
+[ADOPTED VIA ORDINANCE NO. 417 eff 08/21/85]
+
+2.45.04 Filing. The undertaking provided herein shall be filed  with the Board of Commissioners of Yamhill
+County prior to and as a condition precedent to that officer assuming office. Failure to file such undertaking will
+disqualify said officer from assuming office.
+[ADOPTED VIA ORDINANCE NO. 417 eff 08/21/85]
+
+2.45.05 Present Officers. Those officers presently holding office on the  effective date of this ordinance shall
+have six months from the said effective date within which to file the undertaking required herein.
+[ADOPTED VIA ORDINANCE NO. 417 eff 08/21/85]
+
+2.45.06 Costs to be Paid by County. The cost of providing the undertaking provided for in this ordinance shall
+be paid by the County.
+[ADOPTED VIA ORDINANCE NO. 417 eff 08/21/85]
+
+LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 417 on 08/21/1985, effective 08/21/1985

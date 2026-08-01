@@ -1,0 +1,291 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-93-numbered-addressing-system-and-street-names
+title: 'Chapter-93-Numbered-Addressing-System-and-Street-Names'
+doc_type: ordinance
+citation: 'Chapter-93-Numbered-Addressing-System-and-Street-Names'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3431/Chapter-93-Numbered-Addressing-System-and-Street-Names
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 41f2ce10d3738fcc0c4d13831969cc8ba168454f9ba0a19a14b10f0ac57b4971
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.113
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-93-Numbered-Addressing-System-and-Street-Names (Chapter-93-Numbered-Addressing-System-and-Street-Names)
+
+## At a glance
+
+Chapter-93-Numbered-Addressing-System-and-Street-Names — code of Polk County. 5 pages.
+
+## Full text
+
+CHAPTER 93  1993
+
+NUMBERED ADDRESSING SYSTEM AND STREET NAMES
+
+ 93.110  DIVISION LINE.
+
+ (1) For the purpose of designating the areas of Polk County, Oregon, in which roads of
+the County or parts thereof are located and to provide bases from which a renumbering of properties
+on said roads can be accomplished, the County is hereby divided into two parts, North and South, by
+the line shown on the map attached hereto as Exhibit "A" and made a part of this ordinance by
+reference.
+
+  (a) The division line shall start on th e Eastern border of the County, follow the
+Willamina-Salem Highway West to the junction of Rickreall Road, continue
+West along Ellendale Avenue to the Southern boundary of Section 25 T7S
+R6W and follow that line and the extension thereof to the Western border of
+Polk County. The base line shall be the Eastern boundary of Polk County.
+
+ All roads within the County sh all be known by their legally established names, as the same
+now exist or as they from time to time hereafter may exist. [Ord. 166, sec. 1]
+
+ 93.120  NUMBERING SYSTEM.
+
+ (1) All properties in the County shall be  renumbered in accordance with the following
+system of numbering, with the exception of incorpor ated cities, which shall retain their existing
+numbering systems.
+
+  (a) All numbering shall start from the division line, with the numbers increasing
+to the North and to the South of the division line. Numbers shall increase to
+the West of the base line. The lowest numbers of any street will be those
+immediately adjacent to the division and base lines with higher numbers
+being assigned in progression as the distances from the respective lines
+increase. There may be up to 1000 numbe rs per mile, each even thousand
+unit being coincident with a section line. Even numbers shall be assigned to
+the East side of North-South roads and to the South side of East-West roads.
+Odd numbers shall be assigned to the West side of North-South roads and to
+the North side of East-West roads. Only those roads that cross the division
+line will utilize North-South prefixes. [Ord. 166, sec. 2]
+
+ 93.130  ASSIGNING NUMBERS
+
+ The Community Development Department of the County is authorized to and given the duty
+of establishing and assigning numbers to all proper ties in accordance with the provisions of this
+ordinance. The Department shall give notice to the owners of properties within the County of the
+assignments given. Notices of assigned numbers  which have already been given are hereby
+confirmed. [Ord. 166, sec. 3, Ord. 93-13, sec. 1]
+
+Note: The functions described in Section 93.130 now are performed by the Polk County Surveyor.
+
+ 93-1
+
+93.140  DISPLAYING NUMBERS
+
+ All owners of property within the limits of the County hereby are required to display their
+assigned number in a prominent and conspicuous place at the point of access to such property. [Ord.
+166, sec. 4]
+
+ 93.200  STREET NAMING
+
+ (1) All public and private roads and street s shall be named in accordance with the
+provisions of this Ordinance and as approved by the Community Development Department.
+
+ (2)  Except for extensions of existing streets or extensions of the street grid system as
+provided in Section 93.120 of PCC Chapter 93, no street names shall be used which will duplicate or
+be confused with the names of existing roads a nd streets within Polk County. However, duplicate
+names may be allowed where the address ranges and rural delivery name are clearly different so that
+confusion will not occur.
+
+ (3) The name of any street or private road  that appears on a recorded plat approved by
+the County shall be the name of the road or street unless changed as provided in Section 93.330.
+
+ (4) A street name change may be initiate d by the Community Development Director, the
+Board of County Commissioners, or by petition in accordance with Section 93.330.
+
+ (5) The process in Section 93.400 shall be utili zed for processing a street or road name
+change. The final decision shall be filed with the Polk County Department of Public Works,
+Assessor's Office, Clerk's Election Division, Postmaster, 911, and the affected fire district. [Ord. 93-
+13, sec. 1]
+
+ 93.300  APPLICATION FOR STREET NAMING OR CHANGE IN STREET NAME.
+
+ A property owner may initiate naming of a street or request a change in the name of a street
+by filing an application with the County Community Development Department. The application will
+contain certain information depending upon which of  the three following situations exists: (a)
+naming of a street in conjunction with a land use action; (b) naming a street when no land use action
+occurs; (c) renaming an existing street. [Ord. 93-13, sec. 1]
+
+ 93.310  APPLICATION INFORMATION REQUIRED WHEN NAMING A STREET IN
+CONJUNCTION WITH A LAND USE ACTION
+
+ (1)   The name and phone number of the applicant;
+
+ (2)   At least two (2) suggested names for the street;
+
+ (3)  Applicant's order of preference for street names;
+
+ (4) Location of street or road (include from  and to address numbers as well as names of
+all cross streets);
+
+ 93-2
+
+(5) One full scale copy of the County Assesso r's map(s) showing the subject street or
+road and all abutting properties;
+
+ (6) If a private road, a copy of the easement or legal document creating the road;
+
+ (7) A list of the names and addresses of each  owner of property abutting the street or
+road or relying on the street or road for access; the list prepared for the land use case may be used to
+provide a notification list if the list was obtained not more than 180 days before submission of the
+street name application. [Ord. 93-13, sec. 1]
+
+ 93.320  APPLICATION INFORMATION REQUIRED WHEN NAMING A STREET
+NOT
+ IN CONJUNCTION WITH A LAND USE ACTION
+
+ (1) The name and phone number of the applicant;
+
+ (2)   At least two (2) suggested names for the street;
+
+ (3)   Applicant's order of preference for street names;
+
+ (4) The signature of 51% of the owners of property abutting the subject street or road
+relying on the street or road for access signifying that one or more of the suggested names are
+acceptable;
+
+ (5) Location of street or road (include from  and to address numbers as well as names of
+all cross streets);
+
+ (6) One full scale copy of the County Assesso r's map(s) showing the subject street or
+road and all abutting properties;
+
+ (7) If a private road, a copy of the easement or legal document creating the road;
+
+ (8) A list of the names and addresses of each  owner of property abutting the street or
+road or relying on the street or road for access;
+
+ (9) A fee in an amount set by order of the Board of Commissioners. [Ord. 93-13, sec. 1]
+
+ 93.330  APPLICATION INFORMATION RE QUIRED FOR RENAMING A STREET OR
+ROAD.
+
+ (1)   The name and phone number of the applicant;
+
+ (2)   At least two (2) suggested names for the street;
+
+ (3)   Applicant's order of preference for street names;
+
+ (4) The signature of 51% of the owners of property abutting the subject street or road
+relying on the street or road for access signifyi ng that one or more of the proposed names are
+acceptable;
+
+ 93-3
+
+(5) Location of street or road (include from  and to address numbers as well as names of
+all cross streets);
+
+ (6) One full scale copy of the County Assesso r's map(s) showing the subject street or
+road and all abutting properties;
+
+ (7) If a private road, a copy of the easement or legal document creating the road;
+
+ (8) A list of the names and addresses of each  owner of property abutting the street or
+road or relying on the street or road for access;
+
+ (9) A fee in an amount set by order of the Board of Commissioners. [Ord. 93-13, sec. 1]
+
+ 93.400  PROCEDURE FOR REVIEWING APPLICATIONS.
+
+ (1) After determining that the applicati on is complete, property owners abutting the
+subject street or road or relying on the street or road for access shall be sent a notice of the proposed
+names, and given 10 calendar days to indicate which of the proposed names are acceptable or
+unacceptable. If the proposal is to name an unnamed street or road, the notice will include the new
+address numbers assigned by the Community Deve lopment Department for all developed or
+previously addressed parcels which have access to the street or road being named.
+
+ (2) The Community Development Director sh all determine the name of the street or
+road, after taking into consideration the following criteria:
+
+  (a)  The degree of acceptance by those provided notice;
+
+  (b)  Historical significance of street name;
+
+  (c)   Common usage of the street name;
+
+  (d)  Association of street name to local  geographic or other points of distinction;
+
+  (e)  Access by emergency service providers;
+
+  (f)  Other factors peculiar to the case deemed relevant by the Director.
+
+  (g) The Director may decide to retain the existing street name.
+
+ (3) The Director's decision is final unle ss a written request for review and a public
+hearing before the County Hearings Officer is requested, and the appropriate appeal fee is paid
+within ten (10) days following the date the decision is mailed. The hearing fee shall be established
+by Order of the Board of Commissioners.
+
+ (4) At least ten (10) days notice of the public hearing shall be mailed to each property
+owner and to those public agencies identified in Section 93.200 (6). The Hearings Officer shall make
+written findings of fact and determine the street  name from the list of names submitted, unless
+another name, which has 100% concurrence of the affected property owners and is approved by the
+Community Development Director is submitted to the Hearings Officer at the hearing.
+
+ 93-4
+
+ 93-5
+
+ (5) The Hearings Officer shall consider the factors listed in Section 93.400 (2) and any
+other factors deemed relevant in making the decision. The Hearings Officer's decision shall be final,
+unless a written request for review is submitted to the Board of Commissioners by an affected
+property owner within ten (10) days after a copy of the decision is mailed. The decision of the Board
+shall be subject to judicial review as provided by ORS 203.113.
+
+ (6) In the case of a proposal to rename a street  or road, the Director, Hearings Officer, or
+Board may deny the proposal if an evaluation of the criteria in Section 93.400 (2) indicates that the
+existing name should be retained. Another applica tion to rename a street or road shall not be
+submitted within one year of a denial, unless the applicants include evidence of 100% concurrence
+of the affected property owners and all other application requirements are met. [Ord. 93-13, sec. 1]
+
+ 93.500  PLACEMENT OF STREET SIGNS.
+
+ (1) All street or road signs for officially  named streets or roads shall conform to the
+standards specified by the Polk County Public Works Department for size, shape, and color.
+
+ (2) When an application for naming or rena ming a street or road has been approved as
+provided in this Chapter, the naming or renaming shall not be final until the applicant has met the
+requirements in Section 93.500 (3).
+
+ (3) Cost of sign installation on a road or street that has been accepted into the County
+road system shall be the responsibility of Polk County. Cost of sign installations on public or private
+streets and roads shall be the responsibility of  the applicant under one of the two following
+procedures:
+
+  (a)   A private work order shall be prep ared if the applicant chooses to have the
+Polk County Public Works Department install the sign on a reimbursable
+basis.
+
+  (b)  If the applicant chooses to have  the work done by someone other than the
+Polk County Public Works Department, all street or road signs and
+installation procedures shall comply with standards of the Polk County
+Public Works Department. [Ord. 93-13, sec. 1]
+
+ 93.600  ENFORCEMENT.
+
+ (1) Excepting Section 93.140, a violation of this Chapter is an infraction. If it is
+determined that a violation has occurred, the Community Development Director may take whatever
+steps are necessary under Polk County Code Chapte r 50 to obtain compliance with this Chapter.
+[Ord. 93-13, sec. 1]

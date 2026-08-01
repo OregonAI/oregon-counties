@@ -39,6 +39,21 @@ HEADERS = {"User-Agent": USER_AGENT,
 
 TIMEOUT = 120
 MIN_INTERVAL = 2.0          # seconds between requests to the SAME host
+
+# Escalating waits after a 429. Ends rather than looping forever, so a host that genuinely
+# will not serve us produces a recorded refusal instead of an ingest that never finishes.
+BACKOFF = (5, 15, 45)
+
+
+def _retry_after(headers) -> float | None:
+    """Honour `Retry-After` when the host states one — it knows better than our guess."""
+    raw = (headers or {}).get("Retry-After")
+    try:
+        return max(1.0, min(120.0, float(raw)))
+    except (TypeError, ValueError):
+        return None
+
+
 _last: dict[str, float] = {}
 
 
@@ -70,7 +85,7 @@ def _throttle(url: str) -> None:
     _last[host] = time.monotonic()
 
 
-def get(url: str) -> tuple[bytes, str]:
+def get(url: str, _attempt: int = 0) -> tuple[bytes, str]:
     """Fetch once, honestly. Returns (body, content_type). Raises Refused/Challenge."""
     _throttle(url)
     req = urllib.request.Request(url, headers=HEADERS)
@@ -82,11 +97,24 @@ def get(url: str) -> tuple[bytes, str]:
                 raise Challenge(f"{url}: 307 with no Location — bot challenge")
             return body, ctype
     except urllib.error.HTTPError as e:
+        # 429 IS NOT A REFUSAL. It means "you are going too fast" — a request to slow down,
+        # not a decision to exclude us — and treating it as `Refused` both loses documents
+        # and misrepresents the host's position in the manifest. Coos County returned it on
+        # four documents at a 2s interval; the honest response is to back off and try again,
+        # which is also the polite one.
+        if e.code == 429 and _attempt < len(BACKOFF):
+            wait = _retry_after(e.headers) or BACKOFF[_attempt]
+            print(f"    429 from {urllib.parse.urlsplit(url).netloc} — backing off "
+                  f"{wait}s (attempt {_attempt + 1}/{len(BACKOFF)})")
+            time.sleep(wait)
+            return get(url, _attempt + 1)
         if e.code in (401, 403, 429):
             mitigated = (e.headers or {}).get("cf-mitigated", "")
             raise (Challenge if mitigated == "challenge" else Refused)(
                 f"{url}: HTTP {e.code}"
-                f"{' (Cloudflare managed challenge)' if mitigated else ''}") from e
+                f"{' (Cloudflare managed challenge)' if mitigated else ''}"
+                f"{' after backing off ' + str(sum(BACKOFF)) + 's' if e.code == 429 else ''}"
+            ) from e
         if e.code == 307:
             raise Challenge(f"{url}: 307 challenge") from e
         raise

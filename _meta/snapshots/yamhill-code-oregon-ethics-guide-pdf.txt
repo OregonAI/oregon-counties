@@ -1,0 +1,2239 @@
+OREGON
+GOVERNMENT ETHICS
+LAW
+
+A GUIDE FOR PUBLIC OFFICIALS
+
+Oregon Government Ethics Commission
+3218 Pringle Rd. SE, Suite 220
+Salem, OR  97302-1544
+Telephone:  503-378-5105
+Fax:  503-373-1456
+Web address:  www.oregon.gov/ogec
+
+DISCLAIMER
+
+This guide has been approved by the Oregon Government Ethics Commission pursuant to
+ORS 244.320.  ORS 244.320 requires this publication to explain in understandable terms
+the requirements of Oregon Government Ethics law and the Oregon Government Ethics
+Commission’s interpretation of those requirements.  Toward that end, statutes and rules
+have been summarized and paraphrased in this guide.  Therefore, the discussion in this
+guide should not be used as a substitute for a review of the specific statutes and rules.
+
+Any public official, business or any person shall not be liable under ORS Chapter 244 for
+any action or transaction carried out in accordance with Commission opinions set forth in
+this guide.  “In accordance with” the opinions means that the fact circumstances of any
+action or transaction for which any public offi cial, business or person shall not be liable
+must be the same fact circumstances for an action or transaction described in this guide as
+the basis for an opinion in this guide.
+
+There may be other laws or regulations not within the jurisdiction of the Commission that
+apply to actions or transactions described in this guide.
+Public Official Guide  Page ii
+
+Public Official Guide  Page iii
+
+TABLE OF CONTENTS
+
+Page
+
+Introduction ............................................................................................................ 1
+
+Jurisdiction  ............................................................................................................ 2
+
+Public Official: An Overview ................................................................................... 3
+ Are You a Public Offici al? ............................................................................ 5
+ Volunteers as P ublic Officials ...................................................................... 5
+ Relatives of P ublic Officials ......................................................................... 6
+ A Business Associated With  a Public Official .............................................. 8
+
+Use of Position or Office ......................................................................................... 9
+
+Nepotism ................................................................................................................ 14
+
+Private Employment by Public Officials .................................................................. 16
+
+Private Employment of Former Public Officials ...................................................... 17
+ Contracts of Former P ublic Employer .......................................................... 17
+ Post-Public Employment  Waiting Periods .................................................... 17
+
+Conflicts Of Interest ................................................................................................ 21
+
+Legal Expense Trust Fund ..................................................................................... 25
+
+Gifts ..................................................................................................................... 26
+ Gifts as an Exception to the Use of Office Prohibition ................................. 33
+
+Annual Verified Statement of Economic Interest .................................................... 38
+ SEI Fo rm ..................................................................................................... 39
+
+Commission ........................................................................................................... 41
+ Written Advice /Opinions .............................................................................. 42
+ No “Safe Ha rbor” ......................................................................................... 43
+ Procedures  .................................................................................................. 44
+
+Index ..................................................................................................................... 47
+
+Public Official Guide  Page 1
+INTRODUCTION
+
+In 1974, voters approved a statewide ballot measure to create the Oregon Government
+Ethics Commission (Commission). The measure es tablished laws that are contained in
+Chapter 244 of the Oregon Revised Statutes (ORS).
+
+When the Commission was established, it was given jurisdiction to implement and enforce
+the provisions in ORS Chapter 244 related to the conduct of public officials.  In addition, the
+Commission has jurisdiction for ORS 171. 725 through 171.992, related to lobbying
+regulations, and ORS 192.660, wh ich are the executive se ssion provisions of Oregon
+Public Meetings law.
+
+The Commission publishes a guide for lobbyists and clients or employers of lobbyists
+regulated under provisions in ORS Chapter 171.  This guide for public officials includes a
+discussion of some provisions that may also apply to lobbying activities, which are
+addressed by Lobbying Regulations.  This is  especially true when a lobbying activity
+involves paying the expenses for meals, lodging,  travel, entertainment or other financial
+benefits of a legislative or executive official.  Under specific circumstances, ORS Chapter
+244 would allow the payment of such expenses, but the public official may have a reporting
+requirement under ORS Chapter 244 and the source of the payment may be required to
+register as a lobbyist or report the expenditure.  If you have questions regarding registering
+as a lobbyist, lobbying activity or reports fo r lobbying expenditures, please refer to our
+Guide to Lobbying in Oregon.
+
+ORS 192.660 lists the specific criteria a governing body must use when convening an
+executive session.  The statut ory authority for executive sessi ons is limited to specific
+topics or procedures.  This guide does not discuss that portion of  the Oregon Public
+Meetings law, but there is a detailed discussion of ORS 192.660 in the Attorney General’s
+Public Records and Meetings Manual, available on-line at
+www.doj.state.or.us/public_records/manual.shtml
+.
+
+This guide will discuss how the provisions in ORS Chapter 244 apply to public officials and
+will summarize Commission procedures.  It should be used in conjunction with applicable
+statutes and rules.  It is intended to be a useful discussion, in understandable terms, of
+topics and issues that are often the focus of inquiries the Commission receives from public
+officials and citizens.  This guide should not be used as a substitute for a review of the
+specific statutes and rules.
+
+You will find links to ORS Chapter 244, ORS Chapter 171.725 through 171.992, relevant
+Oregon Administrative Rules (OAR), and other publications referenced in this guide on the
+Commission’s website at www.oregon.gov/ogec
+.  Questions or comments may be
+submitted to the Commission by email at ogec.mail@state.or.us, by fax to 503-373-1456 or
+by telephone to 503-378-5105.
+
+*****
+
+Public Official Guide  Page 2
+JURISDICTION
+
+The jurisdiction of the Oregon Government Ethics Commission is limited to provisions in
+ORS Chapter 244, ORS 171.725 through 171.992 and ORS 192.660.  Other Oregon
+statutes may also regulate the activities of elected officials and public employees.  Some
+examples are:
+
+• The Elections Division of t he Secretary of State’s Office regulates campaign finance
+and campaign activities.
+
+• Criminal activity of any type would fall under  the jurisdiction of federal, state or local
+law enforcement.
+
+• The Commission does not have jurisdiction over the laws that govern public
+meetings or records, except for the executive session provisions in ORS 192.660.
+
+• The Oregon Bureau of Labor and Industrie s investigates cases involving
+employment related sexual  harassment or discriminat ion on the basis of race,
+religion, disability or gender.
+
+There are occasions when a public official  engages in conduct that may be viewed as
+unethical, but that conduct may not be gov erned by Oregon Government Ethics law.
+Without an apparent statutory vi olation, the following are so me examples of conduct by
+public officials that are not within the authority of the Commission to address:
+
+• An elected official making promises or claims that are not acted upon.
+
+• Public officials mismanagi ng or exercising poor judgment when administering public
+money.
+
+• Public officials being rude or unmannerly.
+
+• Public officials using deception or misrepresenting information or events.
+
+While the conduct described above may not be addressed in Oregon Government Ethics
+law, public agency policies and procedures may prohibit or redress the behavior.  Please
+contact the Commission staff if you need furt her clarification regarding how the Oregon
+Government Ethics law may apply to circumstances you may encounter.
+
+*****
+
+Public Official Guide  Page 3
+PUBLIC OFFICIAL:  AN OVERVIEW
+
+The provisions in Oregon Government Ethics la w restrict some choices, decisions or
+actions of a public official.  The restrictions placed on public officials are different than those
+placed on private citizens because service in  a public office is a public trust and the
+provisions in ORS Chapter 244 were enacted to provide one safeguard for that trust.
+
+Public officials must know that they are held personally responsible for complying with the
+provisions in Oregon Government Ethics law.  This means that each public official must
+make a personal judgment in deciding such matters as the use of official position for
+financial gain, what gifts are appropriate to accept, or when to disclose the nature of
+conflicts of interest.  If a public official fails to comply with the operative statutes, a violation
+cannot be dismissed by placing the blame on the public official’s government employer or
+the governing body represented by the public official.
+
+Since compliance is the personal responsibility of each public official, public officials need
+to familiarize themselves with the wide variety of resources that offer information or training
+on the provisions in Oregon Government Ethics law.  First, there are the statutes in ORS
+Chapter 244 and the Oregon Administrative Rule s (OAR) in Chapter 199.  Second, the
+Commission website, www.oregon.gov/ogec
+, offers information, training and links to this
+guide, ORS Chapter 244 and OAR Chapter 199.  Many government agencies offer training
+or the agency may request it fr om the Commission’s trainers.  There are a number of
+membership organizations, such as The League of Oregon Cities, Association of Oregon
+Counties, Oregon School Boards Association and Oregon Special Districts Association that
+provide training to public officials from thei r government members.  It is imperative for
+government agencies or organizations that employ or represent public officials to ensure
+their public officials receive training in Oregon Government Ethics law.  Those that fail to
+provide this training do a disservice to the public officials who they employ or who represent
+them.
+
+One provision, which is the cornerstone of Oregon Government Ethics law, prohibits public
+officials from using or attempting to use their official positions or offices to obtain a financial
+benefit for themselves, relatives or busi nesses they are associated with through
+opportunities that would not otherwise be available but for the position or office held.
+
+Public officials are allowed to receive sa lary and reimbursed expenses from their own
+government agencies.  Under specific conditions public officials may also accept gifts.  This
+guide will discuss those provisions.
+
+Another provision that frequently applies to public officials when engaged in official actions
+of their official positions or offices is the requirement to disclose the nature of conflicts of
+interest.  This guide will discuss the definition of a conflict of interest and describe the
+methods a public official must follow when met with a conflict of interest.
+
+There is a requirement for some public officials who are elected to offices or hold other
+select positions to file an Annual Verified Statement of Economic Interest form.  This guide
+
+Public Official Guide  Page 4
+will discuss that filing requirement.
+
+It is important for both public officials and members of the general public served by public
+officials to know that the provisions in Oregon Government Ethics law apply to the actions
+and conduct of individual public officials and not the actions of state and local governing
+bodies or government agencies.  Each individual public official is personally responsible for
+complying with provisions in  ORS Chapter 244.  The statutes and rules discussed or
+illustrated in this guide do not  and cannot address every set of  circumstances a public
+official may encounter.  When a public official is anticipating an official action or
+participation in an official event they must make a personal judgment as to the propriety of
+the action or the participation.  The Commission staff is available to discuss the issues and
+offer guidance in making such judgments.
+
+Oregon Government Ethics law addresses a wide range of actions, situations or events
+which a public official may encounter while serving a state or local government.  This guide
+provides a discussion of the provisions that apply to circumstances that most public officials
+may encounter.
+
+*****
+
+A PUBLIC OFFICIAL
+
+Are you a public official?
+
+“Public official” is defined in ORS 244. 020(14) as any person who, when an alleged
+violation of ORS Chapter 244 occurs, is serving the State of Oregon or any of its political
+subdivisions or any other pub lic body as defined in ORS 174.109 as an elected official,
+appointed official, employee or agent, irrespective of whether the person is compensated
+for the services.
+
+There are approximately 200,000 public officials in Oregon.  You are a public official if you
+are:
+
+• Elected or appointed to an office or positi on with a state, county or city government.
+
+• Elected or appointed to an office or position with a special district.
+
+• An employee of a state, county or city agency or special district.
+
+• An unpaid volunteer for a state, count y or city agency or special district.
+
+• Anyone serving the State of Oregon or any of  its political subdivisions, such as the
+State Accident Insurance Fund or the Oregon Health & Science University.
+
+The Commission has adopted, by rule, additional language used to clarify the use of “agent
+in the definition of “public official.”  The following is OAR 199-005-0035(7):
+
+“As defined in ORS 244.020(14), a public official includes anyone serving the State
+of Oregon or any of its political subdivisions or any other public body in any of the
+listed capacities, including as an “agen t.” An “agent” means any individual
+performing governmental functions. Governmental functions are services provided
+on behalf of the government as distinguished from services provided to the
+government. This may include private contractors and volunteers, depending on the
+circumstances. This term shall be interpreted to be consistent with Attorney General
+Opinion No. 8214 (1990).”
+
+If I am a volunteer, does that make me a public official?
+
+If the position for which you have volunteered se rves the State of Oregon or any of its
+political subdivisions or any other public  body, “irrespective of whether” you are
+“compensated” you are a public official.  It is difficult to determine how many public officials
+are volunteers, but the num ber may approach 50,000.  Vol unteers may be elected,
+appointed or selected by the government agency or public body to hold a position or office
+or to provide services.
+
+Among the public officials who volunteer, there are elected or appointed members of
+Public Official Guide  Page 5
+
+Public Official Guide  Page 6
+governing bodies of state boards or commissions, city councils, planning commissions, fire
+districts, school districts and many others.   There are also many who apply and are
+selected to perform duties for a gover nment agency, board or commission without
+compensation, such as fire fighters, rese rve law enforcement officers and parks or
+recreation staff members.
+
+The Commission recognizes that there are many who volunteer to work without
+compensation for many state and local government agencies, boards, commissions and
+special districts.  This guide provides criteria to identify volunteers who will be considered
+public officials when applying the provisions in ORS Chapter 244.
+
+If any one of the following elements apply to a volunteer position, the person holding that
+volunteer position will be defined as a “public official”:
+
+• Elected or appointed to a governing body of a public body
+
+• Appointed or selected for a position wit h a governing body or a government agency
+with responsibilities that include deciding or voting on matters that could have a
+pecuniary impact on the governing body, agency or other persons
+
+• The volunteer position includes all of the following:
+
+1. Responsible for specific duties
+2. The duties are performed at a scheduled time and designated place.
+3. Volunteer is provided with the use of the public agency’s resources and
+equipment.
+4. The duties performed would have a pecuniary impact on any person,
+business or organization served by the public agency.
+
+For purposes of ORS Chapter 244, volunteers are not public officials if they perform such
+tasks as picking up litter on public lands, participating in a scheduled community cleanup of
+buildings or grounds, participating in locating and eradicating invasive plants from public
+lands and other such occasional or seasonal events.
+
+How are relatives of public officials affected by Oregon Government Ethics law?
+
+Public officials must always comply with state law when participating in official actions that
+could result in personal financial benefits and also when participating in official actions that
+could result in financial benefits for a relative.  Public officials should also know there may
+be limits and restrictions on gifts their relatives may accept when offered.
+
+There are provisions in ORS Chapter 244 that restrict or prohibit a public official from using
+or attempting to use official actions of the position held to benefit a relative; or may limit the
+value of financial benefits accepted by a relative  of the public official or may require the
+public official to disclose the nature of a conflict of interest when a relative may receive a
+financial benefit.  These provisions are discussed more comprehensively in the use of
+
+Public Official Guide  Page 7
+position or office section starting on page 9, the gifts section starting on page 26 and the
+conflicts of interest section starting on page 21.
+
+Who is a relative?
+
+Public officials need to know how Oregon Government Ethics law defines who a “relative”
+is.  In everyday conversation the use of “re lative” is applied to a broader spectrum of
+individuals with “family ties” than those defined as relatives in ORS 244.020(15).  When a
+provision in ORS Chapter 244 refers to “relative” it means one of the following:
+
+• Spouse of a public official or candidate
+• Children of a public official or candidate
+• Children of the spouse of a public official or candidate
+• Siblings of a public official or candidate
+• Siblings of the spouse of a public official or candidate
+• Spouse of siblings of a public official or candidate
+• Spouse of siblings of the spouse of a public official or candidate
+• Parents of the of public official or candidate
+• Parents of the spouse of a public official or candidate
+• Person for whom the public official or candidate has a legal support obligation
+• Person benefiting from a public official when benefits are from the public official’s
+public employment
+• Person who provides benefits to a public official or candidate when benefits are
+from the person’s employment
+
+For purposes of “relatives” defined by the last two bulleted items, examples of benefits may
+include, but not be limited to, elements of an official compensation package including
+benefits such as insurance, tuition or retirement allotments.
+
+How do the laws apply to a public official who either owns or is employed by a
+private business?
+
+As with the definition of relative, public officials need to know how Oregon Government
+Ethics law defines what a “bus iness” is or what a “business with which the person is
+associated is.”  The same sound judgment a public official exercises when participating in
+actions that could result in a financial benefit to the public official or a relative of the public
+official should be used when participating in actions that could result in a financial benefit to
+a business with which the public official or the relative is associated.
+
+There are provisions in ORS Chapter 244 that restrict or prohibit a public official from using
+actions of the position held to benefit a business with which the public official or a relative is
+associated.  The provisions may also require the public official to disclose the nature of a
+conflict of interest when a business may receive a financial benefit.
+
+ORS 244.020(2) provides the definition of a “business,” paraphrased as follows:
+
+Public Official Guide  Page 8
+A “business” is a legal entity that has been formed for the purpose of producing income.
+
+• Excluded from this definition are income -producing organizations that are not-for-
+profit and tax exempt under section 501(c) of the Internal Revenue Code, if a public
+official or a relative of the public official holds membership or an unpaid position as a
+member of the board of directors.
+
+• It is important to remember that state and local government or special district entities
+are not formed for the purpos e of producing income, which means they are not
+businesses.
+
+ORS 244.020(3) provides the definition of a “business with which the person is
+associated,” paraphrased as follows:
+
+In brief, a public official or the relative of the public official is associated with a business in
+the following circumstances:
+
+• When, during the preceding calendar year, a public official or relative has held a
+position as director, officer, owner, empl oyee or agent of a pr ivate business or a
+closely held corporation in which the public official or relative held or currently holds
+stock, stock options, equity interest or debt instrument over $1,000.
+
+• When, during the preceding ca lendar year, the public official or relative has owned
+or currently owns stock, equity interes t, stock options or de bt instruments of
+$100,000 or more in a publicly held corporation.
+
+• When the public official or relative is a director or officer of a publicly held
+corporation.
+
+• When a public official is required by ORS 244.050 to file an Annual Verified
+Statement of Economic Interest form and t he business is listed as a source of
+household income.
+
+*****
+
+Public Official Guide  Page 9
+USE OF POSITION OR OFFICE
+
+What are the provisions of law that prohibit a public official from using the position
+or office held for financial gain?
+
+As defined earlier, public officials becom e public officials through employment,
+appointment, election or volunteering.  ORS 244.040(1) prohibits every public official
+from using or attempting to use the posit ion held as a public official to obtain a
+financial benefit, if the opportunity for the financial benefit would not otherwise be
+available but for the position held by the public official.  The financial benefit prohibited
+can be either an opportunity for gain or to avoid an expense.
+
+Not only is a public official prohibited from using the position as a public official to receive
+certain financial benefits, but the public official is prohibited from using or attempting to use
+the position as a public official to obtain financial benefits for a relative or a member of the
+public official’s household.  Also prohibited is the use or attempted use of the public official
+position to obtain financial benefits for a business with which the public official, a relative, or
+a member of the public official’s household is associated.
+
+Public officials often have access to or manage information that is confidential and not
+available to members of the general public.  ORS 244.040(4) specifically prohibits public
+officials from attempting to use confidential information gained because of the position
+held or by carrying out assigned duties to further the public official’s personal gain.  ORS
+244.040(5) also prohibits a former public official from attempting to use confidential
+information for personal gain if that confidential information was obtained while holding
+the position as a public official, from whic h access to the confidential information was
+obtained.
+
+ORS 244.040(6) also has a single provision to address circumstances created when
+public officials, who are members of the governing body of a public body, own or are
+associated with a specific type of business.   The type of business is one that may
+occasionally send a representative of the business who appears before the governing body
+on behalf of a client for a fee.  Public officials who are members of governing bodies and
+own or are employed by businesses, such as a law, engineering or architectural firm, may
+encounter circumstances in which this provision may apply.  For example, a member of a
+city council who is an architect has a developer as a client of the architect’s business.  If the
+developer has a proposed subdivision to be approved by the city council, the architect may
+not appear before the city council on behalf of the client developer.  Another person
+representing the client developer on behalf of the architect’s business may appear, but not
+the councilor/architect.
+
+There are a variety of actions that a public o fficial may take or participate in that could
+constitute the prohibited use or attempted use of the public official position.    The use of a
+position could be voting in a public meeting, placing a signature on a government agency’s
+document, making a recommendation, making a purchase with government agency funds,
+conducting personal business on a government agency’s time or with a government
+
+Public Official Guide  Page 10
+agency’s resources [i.e. computers, vehicles, heavy equipment or office machines].
+
+The following examples are offered to illustrate  what may constitute prohibited use or
+attempted use:
+
+• The mayor of a city signs a contract obligat ing the city to pay for janitorial services
+provided by a business owned by a relative of the mayor.
+• A city treasurer signs a city check payable to an office supply business that is owned
+by a relative.
+• A city billing clerk alters water use records so that the amount billed to the clerk’s
+parents will be less than the actual amount due.
+• A volunteer firefighter borrows the fire dist rict’s power washer to prepare the exterior
+of the volunteer’s personal residence for painting.
+• A county public works employee stores  a motor home that is owned by the
+employee’s parents in a county building used for storing heavy equipment.
+• An employee of a state agency has a private business and uses the agency’s
+computer to advance the business by promoting, corresponding and managing the
+activities of the private business.
+• A school district superintendent appr oves and signs her own request for
+reimbursement of personal expenses the superintendent incurred when conducting
+official business.
+
+NOTE:  While these examples are offered to illustrate the use of a public official’s position
+prohibited by ORS 244.040(1), the practices in the examples may also illustrate occasions
+where a public official may be met with a conflict of interest as defined in ORS 244.020(1)
+and (12).  There are circumstanc es when a public official may comply with provisions in
+ORS 244.040(1) while violating conflict of interest provisions in ORS 244.120 or the reverse
+[ORS 244.040(7)].  Refer to the detailed discussion of conflicts of interest starting on page
+21.
+
+Are there any circumstances in which a pub lic official may use their position to
+accept financial benefits that would not otherwise be available but for
+ holding the
+position as a public official?
+
+Yes, ORS 244.040(2) provides a list of financial benefits t hat would not otherwise be
+available to public officials but for holding t he position as a public official.  The following
+financial benefits are not prohibited and may be accepted by a public official and some may
+also be accepted by a public official’s relative or member of the public official’s household:
+
+Official Compensation
+:  Public officials may accept any financial benefit that is identified by
+the public body served by the public official as part of the “official compensation package”
+of the public official.  If the public body identifies such benefits as salary, health insurance
+or various paid allowances in the employment  agreement or contract of a public official,
+those financial benefits are part of the “official compensation package.” [ORS
+244.040(2)(a)]
+
+Public Official Guide  Page 11
+
+OAR 199-005-0035(3) provides a definition of “official compensation package:”
+
+An “official compensation package” means the wages and other benefits
+provided to the public official. To be part of the public official's “official
+compensation package”, the wages and benefits must have been specifically
+approved by the public body in a formal manner, such as through a union
+contract, an employment contract, or other adopted personnel policies that apply
+generally to employees or other public officials. “Official compensation package”
+also includes the direct payment of a public official's expenses by the public
+body, in accordance with the public body's policies.
+
+The Commission often receives complaints that allege that a public official is using or
+attempting to the position held to gain fi nancial benefits prohibited by ORS 244.040(1).
+Occasionally the financial benefits in these complaints are gained through the use of the
+public body’s resources.  Some examples are use of a vehicle for personal transportation,
+use of a computer for a personal private business enterprise or use of telecommunications
+equipment for personal business.  Some respondents to complaints that involve the use a
+public body’s resources will defend their us e as being consistent with an informal
+longstanding practice.  The financial benefit to a public official, from the use of a public
+body’s resources, from what may be understood as an informal and longstanding practice
+does not meet the definition of part of an “official compensation package.”  This is because
+the practice has not been specifically approved by the public body in a formal manner.
+
+Reimbursement of Expenses
+:  A public official may acc ept payments from the public
+official’s public body as reimbursement for expenses the public official has personally paid
+while conducting the public body’s business [ORS 244.040(2)(c)].
+
+The Commission has provided a definition in OAR 199-005-0035(4):
+
+The “‘reimbursement of expenses’ means the payment by a public body to a
+public official serving that public body, of expenses incurred in the conduct of
+official duties on behalf of the public body. Any such repayment must comply with
+any applicable laws and policies governing the eligibility of such repayment.”
+
+There are occasions when someone will refer to the payment of a public official’s
+expenses by a person or entity other than the public official’s public body as a
+reimbursement of expenses.  That is not the reimbursement of expenses as used in
+ORS 244.040(2)(c) and defined in OAR 199-005-0035(4).  If the payment of a public
+official’s personal expenses does not meet this definition, it may be a financial benefit
+prohibited or restricted by other provisions in ORS Chapter 244.
+
+There are occasions when public officials are reimbursed for travel expenses the public
+official has paid while conducting official duties on behalf of the public official’s public
+body.  Sometimes the public body will prearrange for a public official’s travel and pay
+the expenses in advance.  Such advance payments are also viewed by the Commission
+
+Public Official Guide  Page 12
+as the reimbursement of expenses allowed by ORS 244.040(2)(c).
+
+Some public officials hold positions identified in ORS 244.050 as having a requirement
+to file the Annual Verified Statement of Economic Interest (SEI) form in April of each
+year.  This requirement will be discussed elsewhere in this guide, but some who must
+submit the SEI forms believe that travel related expenses paid by the public official’s
+public body must be listed in the SEI form.  That is not true.  Expenses paid by the
+public body to their own public officials need not be reported by the public official under
+ORS 244.060 [OAR 199-005-0035(4)].
+
+Honorarium
+:  Public officials are allowed to accept honorarium by ORS 244.040(2)(b) as it
+is defined in ORS 244.020(7).  A public official must know how honorarium is defined
+because there are many occasions when someone will offer them a financial benefit and
+call it an honorarium, but it does not meet the definition of honorarium in ORS 244.020(7).
+
+A payment or something of economic value given to a public official in exchange for
+services provided by the public official is an honorarium when the setting of the economic
+value has been prevented by custom or propriety.  The services provided by a public official
+may include but not be limited to speeches or other services provided in connection with an
+event.  A public official may not accept  honorarium if the value exceeds $50 [ORS
+244.042(3)(a)].
+
+In brief, for a payment or something of economic value to be defined as an honorarium,
+several conditions must be met:
+
+• The offer of a payment or something of economic value c annot be arranged or
+agreed to before the public official provides services.
+• The services provided by the public offici al must precede the offer of payment or
+something of economic value.
+• The payment or something of economic va lue must be delivered in return for and
+following the delivery of services.
+
+Public officials may accept honorarium for services performed in relation to the private
+profession of the public official, although public  officials must be sure, when they are
+offered a payment or something of economic value and it is referred to as an honorarium,
+that it does meet the definition in ORS 244.020(7).  If it does not meet this definition, it may
+be a financial benefit prohibited or restricted by other provisions in ORS Chapter 244.
+
+Awards for Professional Achievement
+:  Public officials may accept an award, if the public
+official has not solicited the award, and the aw ard is offered to recognize a professional
+achievement of the public official [ORS 244.040(2)(d)].
+
+Awards for professional achievement should not be confused with awards of appreciation,
+allowed by ORS 244.020(6)(b)(C), honorarium allowed by ORS 244.040(2)(b), or gifts that
+are allowed or restricted by other provisions in ORS Chapter 244.
+
+Public Official Guide  Page 13
+Awards for professional achievement are best illustrated by awards that denote national or
+international recognition of a public officia l’s achievement.  These awards may also be
+offered by public or private organizations in the state that are meant to recognize a public
+official for an achievement.  Professional achievements recognized may be identified as a
+single accomplishment or an accomplishment achieved during a period of time, such as a
+calendar year or a public official’s career  upon retirement.  Pub lic officials may be
+educators, lawyers, certified public accountants or may hold a doctorate in some field.
+These public officials may receive awards recognizing achievements in their fields and
+those awards would be cons idered by the Commission to be awards regulated by ORS
+244.040(2)(d).
+
+Contributions to Legal Expense Trust Fund
+:  There are provisions in ORS 244.209 that
+allow public officials who have become a respondent to a complaint under Oregon
+Government Ethics law to establish a legal expense trust fund.  ORS 244.040(2)(h) allows
+a public official who has established this trust fund to solicit, accept and be the trustee for
+contributions to the established fund.
+
+Gifts
+:  Public officials may accept gifts [ORS 244.040(2)(e),(f) and (g)].  There are
+circumstances in which there are no limits on the quantity or aggregate value of gifts that
+can be accepted by a public official.  On the other hand, there are circumstances when the
+aggregate value of gifts accepted by a public official is restricted.  There may also be
+reporting requirements that apply to public officials who accept gifts and to sources that
+provide the gifts.  Refer to the detailed discussion of issues related to gifts starting on page
+26.
+
+*****
+
+Public Official Guide  Page 14
+NEPOTISM
+
+Does Oregon Government Ethics law prevent two or more relatives from being
+employees of the same public body?
+
+No.  Public officials who are relatives can be employed by the same public body employer
+at the same time, or serve on the same governing body of a public body at the same time.
+
+However, ORS Chapter 244 does address the issue of “nepotism.”  Nepotism, as used in
+ORS Chapter 244, is based on the relative relationship alone.  The definition of “relative” in
+ORS Chapter 244 [ORS 244.175(4)] takes on a broader meaning when applying ORS
+244.175 through ORS 244.179:
+
+• Spouse of a public official
+• Children of the public official or spouse
+• Parents of the public official or spouse
+• Stepparents of the public official or spouse
+• Stepchildren of the public official or spouse
+• Brothers of the public official or spouse
+• Sisters of the public official or spouse
+• Half-brothers of the public official or spouse
+• Half-sisters of the public official or spouse
+• Brothers-in-law of the public official or spouse
+• Sisters-in-law of the public official or spouse
+• Sons-in-law of the public official or spouse
+• Daughters-in-law of the public official or spouse
+• Mothers-in-law of the public official or spouse
+• Fathers-in-law of the public official or spouse
+• Aunts of the public official or spouse
+• Uncles of the public official or spouse
+• Nieces of the public official or spouse
+• Nephews of the public official or spouse
+
+What are the provisions that address nepotism?
+
+After complying with the conflict of interest provisions in ORS 244.120, public officials
+cannot participate
+ in any personnel action taken by the public agency that would impact the
+employment of a relative or member of the public official’s household.  A public official may
+not participate in the following [ORS 244.177(1)]:
+
+• Appointing, employing or promoting
+• Discharging, firing or demoting
+• Interviewing
+• Discussing or debating the appointment, employment, promotion, discharge, firing or
+demotion
+
+Public Official Guide  Page 15
+
+NOTE:  Public officials who are elected members of the Oregon Legislative Assembly are
+not prohibited from participating in employment actions taken on positions held by relatives
+of the member’s personal staff [ORS 244.177(2)].
+
+A public official who is assigned duties that include performing “ministerial acts” related to
+any stage of a relative’s employment is not prohibited from performing such acts.
+“Ministerial acts” would include mailing or filing forms or correspondence, taking and
+relaying messages, scheduling appointments or preparing documents and minutes for
+public meetings.
+
+A public official may serve as a reference or provide a recommendation for a relative who
+has applied for a position of employment, promotion or is subject to any personnel action.
+
+If a public official has a relative or a mem ber of the public official’s household who has
+applied to be or serves as an unpaid volunteer, the public official may participate in any
+personnel action that involves the relative or member of the household.  This provision only
+applies to unpaid volunteers who provide services to the public body and does not apply to
+unpaid volunteers who serve or seek appointm ent to a governing body of a public body.
+[ORS 244.177(3)(a) and (b)]
+
+A public official may not directly supervise a person who is a relative or member of the
+public official’s household [ORS 244.179], except when:
+
+• The public official is an elected me mber of the Oregon Legislative Assembly
+• The public official is supervising an unpaid volunteer for the public body
+
+Volunteers who are relatives or members of  the household of a public official may be
+supervised by the public official.  However, this would not apply if the volunteer position is
+as a member of the governing body of the public body. [ORS 244.179(3)]
+
+ORS 244.179(4) allows a public body to adopt policies that specify when a public official,
+acting in an official capacity for the public body, may directly supervise a person who is a
+relative or member of the public official’s household.
+
+*****
+
+PRIVATE EMPLOYMENT OF PUBLIC OFFICIAL
+
+Does Oregon Government Ethics law prohibit a public official from owning a private
+business or working for a pri vate employer while continuing employment with or
+holding a position with a public body?
+
+No.  As mentioned earlier, many public officials are volunteers, meaning there is little or no
+compensation for the public position.  Other public officials may receive compensation, but
+choose to seek additional sources of income.  Some work for a private business and others
+establish a private business of their own.  NOTE:  This guide does not address other
+statutes or agency policies that may limit private employment for public officials.
+
+ORS 244.040(3) prohibits a public official from, directly or indirectly, soliciting or accepting
+the promise of future employment based on the understanding that the offer is influenced
+by the public official’s vote, official action or judgment.  Any employer who may directly or
+indirectly offer employment under these conditions may also violate this provision.
+
+In general, public officials may obtain employment with a private em ployer or engage in
+private income producing activity of their own.  They must not use the position held as a
+public official to create the opportunity for additional personal income.  The public official
+must also ensure that there is a clear distinction between the use of personal resources
+and time for personal income producing activity and the use of the public body’s time and
+resources.  The Commission has created guidelines for public officials to follow in order to
+avoid violating Oregon Government Ethics law when engaged in private employment or a
+personally owned business.
+
+GUIDELINES FOR OUTSIDE EMPLOYMENT OF PUBLIC OFFICIALS
+
+1. Public officials are not to engage in priv ate business interests or other employment
+activities on their governmental agency’s time.
+2. A governmental agency’s supplies, facilitie s, equipment, employees, records or any
+other public resources are not to be used to engage in private business interests.
+3. The position as a public offi cial is not to be used to take official action that could
+have a financial impact on a private business with which you, a relative or member
+of your household are associated.
+4. Confidential information gained as a public official is not to be used to obtain a
+financial benefit for the public official, a relati ve or member of the public official’s
+household or a business with which any are associated.
+5. When participating in an official capacity and met with a potential or actual conflict of
+interest related to a business, associat ed with the public official, relative or
+household member, the public official must disclose the nature of the conflict of
+interest using one of the following methods:
+o Employees of governmental agencies mu st give written notice to their
+appointing authority.
+o Elected or appointed public officials mu st publicly disclose once during each
+meeting convened by the governing body they serve.
+
+*****
+Public Official Guide  Page 16
+
+EMPLOYMENT OF FORMER PUBLIC OFFICIALS
+
+How would Oregon Government Ethics law a pply when a former public official is
+employed by a business that has a contract with the public body previously
+represented by the former public official?
+
+For two years after a public official ceases  holding or being employed in a position as a
+public official, that public official may not hav e a direct beneficial financial interest in a
+public contract when one of the parties to the contract is the public official’s former public
+body if the contract was authorized by [ORS 244.047(2) and (3)]:
+
+• The former public official, who authorized t he contract while acting in the capacity
+previously held as a public official.
+
+• The former public official, as a member of a governing body [board, commission,
+council, bureau, committee], participated
+ in official action to approve the contract.
+
+“Authorized by” is defined in OAR 199-005-0035( 6) as meaning that the former public
+official had a significant role in the cont racting process to include participating on a
+selection committee, recommending approval, voting, giving final authorization or signing a
+contract.  The definition in the rule is as follows:
+
+“As used in ORS 244.047, a public contract is “authorized by” a public official if
+the public official performed a significant role in the selection of a contractor or
+the execution of the contract. A significant role can include recommending
+approval or signing of the contract, including serving on a selection committee or
+team, or having the final authorizing authority for the contract.
+
+What are the restrictions on employment after I resign, retire or leave my public
+official position?
+
+• ORS 244.040(1) prohibits public officials from using their official positions or offices
+to create a new employment opportunity; otherwise, most former public officials may
+enter the private work force with few restrictions.
+
+• ORS 244.040(5) prohibits a former public offici al from attempting to use confidential
+information for personal gain if the conf idential information was obtained while
+holding the position as a public official.
+
+• Oregon Government Ethics law restricts the subsequent employment of certain
+public officials.  The restrictions apply to positions listed below:
+
+ORS 244.045(1)
+
+State Agencies:
+
+Director of Department of Consumer and Business Services
+Public Official Guide  Page 17
+
+Public Official Guide  Page 18
+Administrator of Division of Finance and Corporate Securities
+Administrator of Insurance Division
+Administrator of Oregon Liquor Control Commission
+Director of Oregon State Lottery
+Public Utility Commissioner
+
+1. One year restriction on gaining financia l benefits from a private employer in
+the activity, occupation or industry that was regulated by the agency for
+which the public official was the Director, Administrator or Commissioner.
+
+2. Two year restriction on lobbying or appearing as a representative before the
+agency on behalf of the activity, occupat ion or industry regulated by the
+agency for which the public official wa s the Director, Administrator or
+Commissioner.
+
+3. Two year restriction on disclosing confidential information gained as the
+Director, Administrator or Commissioner for the agency.
+
+ORS 244.045(2)
+
+Oregon Department of Justice:
+
+Deputy Attorney General
+Assistant Attorney General
+
+1. Restricted for two years from l obbying or appearing before an agency that
+they represented while with the Department of Justice.
+
+ORS 244.045(3)
+
+Office of the Treasurer:
+
+State Treasurer
+Chief Deputy State Treasurer
+
+1. Restricted for one year from accepti ng financial benefit from a private entity
+with which there was negotiation or contract awarding $25,000 in one year by
+the State Treasurer or Oregon Investment Council.
+
+2. Restricted for one year from accepti ng financial benefit from a private entity
+with which there was investment of  $50,000 in one year by the State
+Treasurer or Oregon Investment Council.
+
+3. Restricted for one year from being a l obbyist for an investment institution,
+manager or consultant or from appear ing as a representative of an
+investment institution, manager or consultant befor e the office of State
+Treasurer or Oregon Investment Council.
+
+Public Official Guide  Page 19
+ORS 244.045(4)
+Public Officials who invested public funds:
+
+1. Restricted for two years from bei ng a lobbyist or appearing before the
+agency, board or commission for which public funds were invested.
+
+2. Restricted for two years from influenc ing or trying to influence the agency,
+board or commission.
+
+3. Restricted for two years from discl osing confidential information gained
+through employment.
+
+ORS 244.047
+Public Officials who authorized a public contract:
+
+1. A public official who authorized or had a significant role in a contract while
+acting in an official capacity may not  have a direct, beneficial, financial
+interest in the public contract for two years after leaving the official position.
+
+2. A member of a board, commission, council, bureau, committee or other
+governing body who has participated in the authorization of a public contract
+may not have a direct, beneficial, financial interest in the public contract for
+two years after leaving the official position.
+
+OAR 199-005-0035(6) indicates that “authorized by” means that public official
+performed a significant role in the selection of a contractor or the execution of
+the contract. A significant role can include recommending approval of a
+contract, serving on a selection committee or team, having the final
+authorizing authority or signing a contract.
+
+ORS 244.045(5)
+
+Department of State Police
+
+Supervising programs related to Native American tribal gaming
+Supervising programs related to Oregon State Lottery
+
+1. Restricted for one year from accepting employment from or gaining financial
+benefit related to gaming from the Lottery or a Native American Tribe.
+
+2. Restricted for one year from gaining financial benefit from a private employer
+who sells gaming equipment or services.
+
+3. Restricted for one year from trying to influence the Department of State
+Police or from disclosing confidential information.
+
+Exceptions include subsequent employment with the state police,
+
+Public Official Guide  Page 20
+appointment as an Oregon State Lottery Commissioner, Tribal Gaming
+Commissioner or lottery game retailer, or personal gaming activities.
+
+ORS 244.045(6)
+
+Legislative Assembly
+
+Representative
+Senator
+
+ After a legislator’s membership in the Legislative Assembly ends, a legislator
+may not become a compensated lobby ist until adjournment of the next
+regularly scheduled session of the Legislative Assembly following the end of
+membership in the Legislative Assembly. [Note:  In 2008 and 2010, the first
+special sessions are considered to be regular sessions.]
+
+*****
+
+CONFLICTS OF INTEREST
+
+How does a public official know when they are met with a conflict of interest and, if
+met with one, what must they do?
+
+Oregon Government Ethics law identifies and defines two types of conflicts of interest.  An
+actual conflict of interest is defined in ORS 244.020(1) and a potential conflict of
+interest is defined in ORS 244.020(12).  In brief, a public official is met with a conflict of
+interest when participating in official action which could or would result in a financial benefit
+or detriment to the public official, a relative of the public official or a business with which
+either is associated.
+
+The difference between an actual conflict of  interest and a potential conflict of
+interest is determined by the words “would” and “could.”  A public official is met with
+an actual conflict of interest when the public official participates in action that would affect
+the financial interest of the official, the official’s relative or a business with which the official
+or a relative of the official is associated.  A public official is met with a potential conflict of
+interest when the public official participates in action that could affect the financial interest
+of the official, a relative of that official or a business with which the official or the relative of
+that official is associated.  The following hypothetical circumstances are offered to illustrate
+the difference between actual and potential conflicts of interest:
+
+A city councilor is employed by a building supply business from which the city public
+works director purchases building material s.  City payments on invoices must be
+submitted to the city council and approved by  a vote.  The city councilor, who is
+employed by the building supply business, while participating in a meeting, would be
+met with an actual conflict of interest when the request to pay the invoice from the
+business that employs the councilor is presented to the city council for official action.
+
+A member of a fire district board of directors owns a sheetrock contracting business.
+The fire district is planning to remodel a fire station in the district.  To reduce cost,
+the district will manage the project and solicit bids from contractors for specified
+work, such as the sheetrock that needs to be installed.  The member on the board of
+directors, who is the contractor, while par ticipating in a meetin g of the board of
+directors, would be met with a potential conflict of interest when the members
+discuss or act on the invitation for bids on the sheetrock installation.
+
+What if I am met with a conflict of interest
+?
+
+A public official must announce or disclose the nature of a conflict of interest.  The way the
+disclosure is made depends on the position held.  The following public officials must use
+the methods described below:
+
+Legislative Assembly:
+ Members must announce the nature of the conflict of interest in a manner pursuant
+Public Official Guide  Page 21
+
+Public Official Guide  Page 22
+to the rules of the house in which they serve.  The Oregon Attorney General has
+determined that only the Legislative Assembly  may investigate and sanction its
+members for violations of conflict of interest disclosure rules in ORS 244.120(1)(a).
+[49 Op. Atty. Gen. 167 (1999) issued on February 24, 1999]
+
+Judges:
+Judges must remove themselves from cases giving rise to the conflict of interest or
+advise the parties of the nature of the conflict of interest. [ORS 244.120(1)(b)]
+
+Public Employees:
+Public officials in public bodies who ar e appointed, employed or volunteer must
+provide a written notice to the person who appointed or employed them.  The notice
+must describe the nature of the conflict of  interest with which they are met. [ORS
+244.120(1)(c)]
+
+Elected Officials or Appointed Members of Boards and Commissions:
+
+ Except for members of the Legislative Asse mbly, these public officials must publicly
+announce the nature of t he conflict of interest before participating in any official
+action on the issue giving rise to the conflict of interest. [ORS 244.120(2)(a) and
+ORS 244.120(2)(b)]
+
+• Potential Conflict of Interest
+:  Following the public announcement, the public official
+may participate in official action on the issue that gave rise to the conflict of interest.
+
+• Actual Conflict of Interest:  Following the public announcement, the public official
+must refrain from further participation in official action on the issue that gave rise to
+the conflict of interest. [ORS 244.120(2)(b)(A)]
+
+If a public official is met with an actual conflict of interest and the public official’s vote is
+necessary to meet the minimum number of vote s required for official action, the public
+official may vote.  The pub lic official must make the required announcement and refrain
+from any discussion, but may participate in the vote required for o fficial action by the
+governing body. [ORS 244.120(2)(b)(B)]  These circumstances do not often occur.  This
+provision does not apply in sit uations where there are insufficient votes because of a
+member’s absence when the governing body is convened.  Rather, it applies in
+circumstances when all members of the governing body are present
+ and the number of
+members who must refrain due to actual conflic ts of interest make it impossible for the
+governing body to take official action.
+
+The following circumstances may exempt a public official from the requirement to
+make a public announcement or give a writte n notice describing the nature of a
+conflict of interest:
+
+• If the conflict of interest arises from a me mbership or interest held in a particular
+business, industry, occupation or other class and that membership is a prerequisite
+
+Public Official Guide  Page 23
+for holding the public official position. [ORS 244.020(12)(a)]  For example, if a
+member of a state board is required by law to be employed in a specific occupation,
+such as an accountant or a doctor, then the official actions taken by the board
+member that affect all accountants or doctors to the same degree would be exempt
+from the conflict of interest disclosure requirements and participation restrictions.
+
+• If the financial impact of the official action would impact the public official, relative or
+business of the public official to t he same degree as other members of an
+identifiable group or “class”.  The Commission has the authority to identify a group
+or class and determine the minimum size of that “class.” [ORS 244.020(12)(b) and
+ORS 244.290(3)(a)]  For exam ple, if a county commissioner votes to approve a
+contract to improve or maintain a c ounty road that leads to the property the
+commissioner owns, but the improvements would also benefit many other property
+owners to the same degree, the commissioner would be exempt from the conflict of
+interest disclosure requirements and parti cipation restrictions.  The number of
+persons affected to the same degree as the public official will help to determine
+whether this exception applies.
+
+• If the conflict of interest arises from an unpaid position as officer or membership in a
+nonprofit corporation that is tax-exempt under 501(c) of the Internal Revenue Code.
+[ORS 244.020(12)(c)]  For example, a city councilor is also an unpaid board member
+or member at the local YMCA.  The decision, as a city councilor, to award a grant to
+that YMCA would be exempt from the conflict of intere st disclosure requirements
+and participation restrictions.
+
+How is the public announcement of the nature of a conflict of interest recorded?
+
+• The public body that is served by the public official will record the disclosure of the
+nature of the conflict of in terest in the official records (minutes, audio/video
+recording) of the public body. [ORS 244.130(1)]
+
+Is a public official required to make an announcement of the nature of a conflict of
+interest each time the issue giving rise to the conflict of interest is discussed or
+acted upon?
+
+• The announcement needs to be made on each o ccasion when the public official is
+met with the conflict of interest.  Each time a public official is met with a conflict of
+interest the nature must be disclosed.  For example, an elected member of the city
+council would have to make the public announcement one time when met with the
+conflict of interest, but only one time in each meeting of the city council.  If the
+matter giving rise to the conflict of inte rest is raised at another meeting, the
+disclosure must be made again at that meeting.  Another example would involve an
+employee in a city planning department who would have to give a separate written
+notice before each occasion they encounter a matter that gives rise to a conflict of
+interest. [ORS 244.120(3)]
+
+Public Official Guide  Page 24
+If a public official failed to announce the nature of a conflict of interest and
+participated in official action, is the official action voided?
+
+• No.  Any official action that is taken may not be voided by any court solely by reason
+of the failure of the public official to disclose an actual or potential conflict of interest
+[ORS 244.130(2)].  However, the public offi cial faces the potential of personal
+liability for the violation.
+
+*****
+
+Public Official Guide  Page 25
+LEGAL EXPENSE TRUST FUND
+
+If a public official is the respondent to a complaint, can the public official solicit
+funds in order to pay for the cost of a legal defense?
+
+The Oregon Government Ethics Commission can authorize a public official to establish a
+trust fund to be used to defray expenses incurred for a legal defense in any civil, criminal or
+other legal proceeding that relates to or arises from the course and scope of duties of the
+person as a public official. [ORS 244.205]
+
+The provisions regarding the establishment of this fund are detailed in ORS 244.205
+through ORS 244.221.  If a public official is considering the need to establish a legal
+expense trust fund, these prov isions should be reviewed.  The Commission staff is
+available to provide guidance on the procedures.  The following are some of the significant
+elements of a legal expense trust fund:
+
+• A public official may only have one trust fund at any one time [ORS 244.205(4)].
+• The application to establish the fund must be submitted to the Commission for
+review and authorization.  ORS 244.209 details what information and documents
+must accompany the application.
+• The public official may act as the public official’s fund trustee [ORS 244.211(2)].
+• Once authorized and established, any per son may contribute to the fund [ORS
+244.213].
+• Contributions from a principal ca mpaign committee are not allowed [ORS
+244.213(3)].
+• Funds must be maintained in a single exclusive account [ORS 244.215].
+• Quarterly reports of contributions and ex penditures from the fund are required [ORS
+244.217].
+• The fund must be terminated within six mont hs after the legal proceeding for which
+the fund was established has been concluded [ORS 244.219].
+• When terminated, funds must be used to  pay legal expenses, returned to
+contributors or donated to an organization exempt from taxation under section
+501(c)(3) of the internal Revenue Code [ORS 244.221].
+
+*****
+
+Public Official Guide  Page 26
+GIFTS
+
+When Oregon Government Ethics la w uses the word “gift” it has the meaning in ORS
+244.020(6)(a):
+
+“‘Gift’ means something of economic value given to a public official, a candidate or a
+relative or member of the household of the public official or candidate:
+
+(A) Without valuable consideration of equivalent value, including the full or
+partial forgiveness of indebtedness, which is not extended to “others” who are
+not public officials or candidates or  the relatives or members of the
+household of public officials or candidates on the same terms and conditions;
+or
+
+(B) For valuable consideration less than that required from “others” who are
+not public officials or candidates.”
+
+The Commission interprets “others” to indicate a significant portion of the general
+public in Oregon who are not public officials or candidates.
+
+In other words, a “gift” is something of economic value that is offered to,
+
+• A public official or candidate or to relati ves or members of the household of a public
+official or candidate,
+
+• Without cost or at a discount or as forgiven debt and,
+
+• The same offer is not made or available to the general public who are not public
+officials or candidates.
+
+[NOTE:  In the following discussion, references to candidates are omitted to simplify the
+discussion.  In most of the discussion, if you are a candidate, r ead the references to
+public official to mean “public official or candidate, if elected.”]
+
+Oregon Government Ethics law establishes a framework of conditions for public officials to
+apply when they, their relatives or members of their households are offered gifts.  If offered
+a gift, the public official must analyze the offer and decide if “something of value” can be
+accepted with or without restrictions.
+
+There are restrictions on the value of gifts accepted by a public official, if the source of the
+gift has a legislative or administrative interest in decisions or votes the public official makes
+when acting in the capacity of a public official.
+
+Legislative or administrative interest is defined in ORS 244.020(9) and is used, primarily,
+when applying the law to gifts accepted by public officials.  Whether there is a legislative or
+administrative interest is pivotal to any decision a public official makes on accepting gifts.  It
+
+Public Official Guide  Page 27
+will mean the difference between being allowed to accept gifts without limits, accepting gifts
+with a limit of $50 on the aggregate value, or accepting gifts under specific conditions and
+within specific parameters.  As will be apparent in the following discussion, the burden of
+any decision on accepting a gift rests solely with the individual public official.
+
+What does a public official need to know  about a “Legislative or Administrative
+Interest”?
+
+Beginning in 2010, the change to t he definition of what a legi slative or administrative
+interest is represents one of the most si gnificant changes made in Oregon Government
+Ethics law during the 2009 session of the Oregon Legislative Assembly.
+
+The change is significant because knowing if t he source of a gift has a legislative or
+administrative interest will help determine whether the gift offered can be accepted without
+limits or with restrictions.  Before this change, a public official only had to know if a gift was
+offered from a source with a legislative or administrative interest in official actions of the
+public official’s governmental agency.  Now the focus is on the votes or decisions of each
+individual public official.  The change places greater responsibility on the individual public
+official to decide if a gift can be accepted without limits or with restrictions imposed by ORS
+Chapter 244.  Not every public official makes decisions or casts votes, as those actions are
+used in defining a legislative or administrativ e interest.  This means that when gifts are
+offered to two or more public officials, in the same setting, one public official may be
+allowed to accept the offer without limits and another public official may be able to accept
+the offer, but it would be limit ed as to value or restricted by conditions that must be met
+when accepting.
+
+The definition of a legislative or administrative interest as set forth in ORS 244.020(9) as
+follows:
+
+“‘Legislative or administrative interest’ means an economic interest, distinct from that
+of the general public, in:
+
+(a) Any matter subject to the decision or vote of the public official acting in the public
+official’s capacity as a public official; or
+
+(b) Any matter that would be subject to the decision or vote of the candidate who, if
+elected, would be acting in the capacity of a public official.”
+
+In the context of gifts accepted by a public official, the public official must determine if the
+source of the offered gift has a legislative or administrative interest in the decisions or votes
+of the public official.  When analyzing a set of  circumstances and applying “legislative or
+administrative interest”, there are several factors to consider:
+
+Source
+:  The Commission adopted a rule that identifies the source of a gift as the
+person or entity that makes the ultimate and final payment of the gift’s expense.
+OAR 199-005-0030 places two burdens on a public official who accepts gifts.  The
+
+Public Official Guide  Page 28
+public official must know the identity of the source and, if applicable, avoid
+exceeding the limit on the aggregate value of gifts accepted from that source. [OAR
+199-005-0030(2)]
+
+Distinct from that of the general public:  With regard to gifts, this phrase refers to a
+distinct economic interest held by the source of a gift.  That economic interest is in
+the financial gain or loss that could result from any votes cast or decisions made by
+a public official.  If the source of a gift would realize a financial gain or detriment
+from a vote or decision of a public official, that source has an economic interest in
+that public official.  That economic intere st is “distinct from that of the general
+public”, if the potential financial gain or detriment is distinct from the financial impact
+that would be realized by members of the general public from the votes or decisions
+of that same public official.
+
+There are decisions or votes that have an economic impact on single individuals or
+individuals from specific businesses or groups that are distinct from the economic
+impact on members of the general public. On the other hand, there are many votes
+or decisions made by public officials that have the same general economic impact
+on individuals, businesses, organizations and members of the general public.  Some
+examples of decisions or votes that would have an economic impact on the general
+public would be those that change water usage rates, fees for licenses or permits or
+fines for parking violations.
+
+To illustrate, private contractors have an economic interest in any public official who
+has the authority to decide or vote to award them contracts.  The economic interest
+of these contractors is distinct from the economic interest held by members of the
+general public in those decisions or votes.
+
+To further illustrate, real estate developers have an economic interest in any public
+official who has the authority to decide or vote to approve their land use applications
+or building permits.  The economic interest of these developers is distinct from the
+economic interest held by members of the general public in those decisions or votes.
+
+Vote:  This has the common meaning of to vote as an elected member of a
+governing body of a public body or as  an appointed member of a committee,
+commission or board appointed by a governing body, Oregon Legislative Assembly
+or the Office of the Governor.
+
+Decision:  The Commission adopted OAR 199-005-0003 and defines “decision” in
+OAR 199-005-0003(2).  A public official make s a decision when the public official
+exercises the authority given to the public official to commit the public body to a
+particular course of action.  Making a recommendation or giving advice in an
+advisory capacity does not constitute a decision.
+
+The change to the definition of a legislative or administrative interest places the focus on
+
+Public Official Guide  Page 29
+the decision or vote of each individual public official.  That means that any decision to
+accept or reject the offer of a gift must be made individually by each public official.  It also
+means that there will be some public officials who may accept unlimited gifts from a source
+and other public officials within the same public body that would have restrictions on gifts
+from that same source.  This is because not all public officials in the same public body have
+the same authority, responsibilities or duties.  Some may vote and make decisions, others
+may do one but not the other and m any will not vote or make dec isions, as “decision” is
+used in legislative or administrative interest.
+
+There are public officials who, because they hold positions specified in ORS 244.050, must
+file the Annual Verified Statement of Economic Interest (SEI) form with the Commission on
+April 15 of each year.  Some information list ed in that form is required when certain
+financial interests, assets or liabilities, are related to a source with a legislative or
+administrative interest in the votes or decisions  of the public official submitting the form.
+Refer to the table of contents to find the discussion of the SEI form in this guide.
+
+Any discussion of gifts must begin with the reminder that if the source of the offer of a gift to
+a public official does not have a legislative or administrative interest in the decisions or
+votes of the public official, the public official  can accept unlimited gifts from that source.
+[ORS 244.040(2)(f)]
+
+If the source of the offer of a gift to a public official has a legislative or administrative
+interest in the decisions or votes of the public official, the public official can only accept gifts
+from that source when the aggregate value of gifts from that source does not exceed $50 in
+a calendar year. [ORS 244.025]
+
+While gifts from a source with a legislative or administrative interest in the decisions or
+votes of a public official have a $50 limit, there are some gifts that are excluded from the
+definition of a “gift.”  If the offer of a gift is excluded from the definition of a “gift,” the offer
+may be accepted by a public official.  The value of gifts that are allowed as exclusions does
+not have to be included when calc ulating the aggregate value of gifts received from that
+source in one calendar year. [ORS 244.020(6)(b)]
+
+Sources who offer gifts or other financial benefits to public officials must also be aware of
+the provisions in ORS Chapter 244.  While the specific gift of paid expenses may be
+allowed by ORS 244.020(6)(b)(F), ORS 244.100(1) requires the source of this gift, if over
+$50, to notify the public offici al in writing of the aggregate value of the paid expenses.
+There is also a notice requirement in ORS 244.100(2) for the s ource of an honorarium
+when the value exceeds $15.  Lobbyists, clients or employers of lobbyist and others who
+provide gifts or financial benefits to public officials should also familiarize themselves with
+the provisions in ORS 171.725 through ORS 171.992 and Divisions 5 and 10 of Chapter
+199 in the Oregon Administrative Rules.  The Commission has published a “Guide to
+Lobbying in Oregon” that provides a summary of these regulations and rules.
+
+As previously mentioned, there are gifts that are allowed because they are excluded from
+the definition of a “gift” when offered under specific conditions or when prerequisites are
+
+Public Official Guide  Page 30
+met.  Although some gifts are allowed, it should be remembered that a source may have a
+notice requirement or there ma y be reporting requirements for the public official or the
+source.  If you are a public official accepting gifts or a source offering gifts, it is important
+you become familiar with the requirements that may apply to you.
+
+ORS 244.020(6)(b) provides  a description of the GIFTS THAT ARE ALLOWED  as
+exclusions to the definition of a “gift”:
+
+[NOTE:  Not all of these exclusions apply to gifts offered to candidates.]
+
+• Campaign contributions as defined in ORS 260.005. [ORS 244.020(6)(b)(A)]
+
+• Contributions to a legal expense tr ust fund established under ORS 244.209. [ORS
+244.020(6)(b)(G)]
+
+• Gifts from relatives or members of the household of public officials or candidates.
+[ORS 244.020(6)(b)(B)]
+
+• Anything of economic value received by a pub lic official or candidate, their relatives
+or members of their household when; [ORS 244.020(6)(b)(O)]
+
+The receiving is part of the usual and customary practice of the person’s
+business, employment, or volunteer position with any legal non-profit or for-
+profit entity. [ORS 244.020(6)(b)(O)(i)]
+
+The receiving bears no relationship to the person’s holding the official
+position or public office. [ORS 244.020(6)(b)(O)(ii)]
+
+• Unsolicited gifts with a resale value of less than $25 and in the form of items similar
+to a token, plaque, trophy and desk or wall mementos. [ORS 244.020(6)(b)(C) and
+see resale value discussed in OAR199-005-0010]
+
+• Publications, subscriptions or other info rmational material related to the public
+official’s duties. [ORS 244.020(6)(b)(D)]
+
+• Waivers or discounts for registration fees  or materials related to continuing
+education or to satisfy a professional licens ing requirement for a public official or
+candidate. [ORS 244.020(6)(b)(J)]
+
+• Entertainment for a public official or candidate and their relatives or members of
+their households when the entertainment is incidental to the main purpose of the
+event. [ORS 244.020(6)(b)(M) and see OAR 199-005-0001(3) and OAR 199-005-
+0025(1) for meaning of “incidental”]
+
+• Entertainment for a public official, a relative of the public official or a member of the
+public official’s household when the public official is acting in an official capacity and
+
+Public Official Guide  Page 31
+representing a governing agency for a ceremonial purpose. [ORS 244.020(6)(b)(N)
+and see “ceremonial” defined in OAR 199-005-0025(2)]
+
+• Cost of admission or food and beverage consumed by the public official, a member
+of the public official’s household or staff when they are accompanying the public
+official, who is representing government, state, local or special district, at a
+reception, meal or meeting held by an organization. [ORS 244.020(6)(b)(E) and see
+this exception discussed in OAR 199-005-0015]
+
+• Food or beverage consumed by a public official or candidate at a reception where
+the food and beverage is an in cidental part of the reception and there was no
+admission charged. [ORS 244.020(6)(b)(L) and OAR 199-005-0025(1) also see
+OAR 199-005-0001(3) and (8)]
+
+• When public officials travel together inside the state to an event bearing a
+relationship to the office held and the public official appears in an official capacity, a
+public official may accept the travel re lated expenses paid by the accompanying
+public official. [ORS 244.020(6)(b)(K)]
+
+• Payment of reasonable expenses  if a public official is scheduled to speak, make a
+presentation, participate on a panel or represent a government agency at a
+convention, conference, fact-finding trip or other meeti ng.  The paid expenses for
+this exception can only be accepted fr om another government agency, Native
+American Tribe, an organization to which a public body pays membership dues or
+not-for-profit organizations that are tax exempt under 501(c)(3). [ORS
+244.020(6)(b)(F) and see definition of term s for this exception in OAR 199-005-
+0020]
+
+• Payment of reasonable food,  lodging or travel expenses for a public official, a
+relative of the public official or a member  of the public official’s household or staff
+may be accepted when the public official is representing the government agency or
+special district at one of the following: [ORS 244.020(6)(b)(H) and see definition of
+terms for this exception in OAR 199-005-0020]
+
+o Officially sanctioned trade promot ion or fact-finding mission; [ ORS
+244.020(6)(b)(H)(i)]
+
+o Officially designated negotiation or economic development activity when
+receipt has been approved in advance. [ORS 244.020(6)(b)(H)(ii)]
+
+[NOTE:  How and who may officially sanction and officially designate these events is
+addressed in OAR 199-005-0020(2)(b).]
+
+• Payment of reasonable expenses paid to a public school employee for
+accompanying students on an educational trip. [ORS 244.020(6)(b)(P)]
+
+Public Official Guide  Page 32
+• Food and beverage when acting in an official capacity in the following
+circumstances: [ORS 244.020(6)(b)(I)]
+
+o In association with a financial transaction or business agreement between a
+government agency and another public body or a private entity, including
+such actions as a review, approval or execution of documents or closing a
+borrowing or investment transaction; [ORS 244.020(6)(b)(I)(i)]
+
+o When the office of the Treasurer is  engaged in business related to proposed
+investment or borrowing; [ORS 244.020(6)(b)(I)(ii)]
+
+o When the office of the Treasurer is meeting with a governance, advisory or
+policy making body of an entity in which the Treasurer’s office has invested
+money. [ORS 244.020(6)(b)(I)(iii)]
+
+*****
+
+Public Official Guide  Page 33
+GIFTS AS AN EXCEPTION TO THE USE OF OFFICE
+PROHIBITION IN ORS 244.040
+
+Since ORS 244.040 was amended in 2007, the acceptance of gifts that comply with ORS
+244.020(6) and ORS 244.025 is excl uded from the prohibition on public officials’ use or
+attempted use of an official position to gain financial benefits.  If a public official or relative
+accepts a lawful gift, or a lawful financial benefit that qualifies as an exception to the
+definition of a gift, ORS 244.040(1) does not prohibit the acceptance.
+
+The discussion below is intended to assist public officials in understanding this distinction.
+There are more focused discussions of gifts starting on page 26 and the use of position or
+office starting on page 9.  It should be understood this section may paraphrase information
+discussed more comprehensively in those areas of this guide.  Also, the application of the
+gift provisions to candidates is not part of  this discussion because, unless the candidate
+also qualifies as a public official on another basis, candidates are not public officials;
+therefore, the use of an official position prohibited by ORS 244.040(1) would not apply to a
+candidate who is not also a public official.
+
+Oregon Government Ethics law does not prohibit public officials from accepting gifts [ORS
+244.040(2)(e), (f) and (g)], but it does place on each individual public official the direct and
+personal responsibility to understand there are circumstances when the aggregate value of
+gifts may be restricted.  Public officials are also prohibited from using or attempting to use a
+position held by the public official to obtain a prohibited financial benefit.  These provisions
+of Oregon Government Ethics law often converge and require public officials to analyze and
+determine whether the opportunity  to obtain financial benefits represents the use of an
+official position prohibited by ORS 244.040(1) or a gift addressed with other provisions in
+ORS Chapter 244 [ORS 244.020(6), ORS 244.025 or ORS 244.040(2)(e),(f) and (g)].
+
+Is it a gift?
+
+Public officials must understand the operative definition of a “gift” when deciding whether a
+gift may be accepted by a public official or candidate.  The following is a paraphrase of the
+definition taken from ORS 244.020(6)(a):
+
+Gift: “Something of economic value” given to a public official, a relative of the
+public official or a member of the public official’s household for which the recipient
+either makes no payment or makes payment at a discounted price.  The opportunity
+for the gift is one that is not available to members of the general public, who are
+not public officials, under the same terms and conditions as those that apply to
+the gift offered to the public official, the relative or a member of the household.
+
+If something of economic value is received by a public official from the government
+agency employer or the public body represented by the public official, that financial
+benefit is not considered a gift, it is a financial benefit addressed by ORS 244.040 and it
+is either allowed or prohibited.
+
+Public Official Guide  Page 34
+Sources of gifts are private individuals, businesses, organizations or government agencies,
+but not the agency represented by or employing the public official.  Sources may also
+be co-workers or representatives of the same public body who have purchased a gift with
+their personal resources.
+
+Gifts may be accepted by a public official, if  the source does not have a legislative or
+administrative interest in the votes or decisions of the public official.  Specific gifts may be
+accepted, if the conditions of the offer ex clude the gift from being defined as a gift [ORS
+244.020(6)(b)(A) through (P)].  Gifts that ar e not excluded from th e definition may be
+accepted from a source as long as the aggregate value of gifts from that source does not
+exceed $50 in a calendar year.  For additional assistance, see the discussion beginning on
+page 37 titled, “What if I am offered a gift?”
+
+Is it a prohibited use of position?
+
+Unlike gifts, which come from outside sour ces, ORS 244.040(1) focuses on the public
+official’s own actions.  ORS 244.040(1) prohibits the use or attempted use of the position
+held by the public official to obtain benefits which are only availabl e because of that
+position.
+
+The prohibited financial benefits might take several forms.  A public employee might have
+access to job related resources, business opportunities, or information, and might want to
+take financial advantage of this access.  The financial benefit might be the avoidance of a
+personal expense, acquiring something of econom ic value, gaining extra income from
+private employment, or creating a new employment opportunity.
+
+Although this “use of position” applies to situations where something of value is obtained, or
+there is an attempt to obtain something of value,  the Commission applies Oregon
+Government Ethics law to “something of economic value” offered to a public official
+that meets the definition of “gift,” it will be addressed as a gift in the analysis and
+application of the law.  The following are some examples to illustrate the Commission’s
+approach:
+
+NOTE THAT IN THE FOLLOWING EXAMPLES, THE SOURCES OF THE
+FINANCIAL BENEFITS HAVE A LEGISLATIVE OR ADMINISTRATIVE
+INTEREST IN THE DECISIONS OR VOTES OF THE PUBLIC OFFICIALS.
+That is important to remember because if there were no legislative or administrative interest
+the public officials may be allowed to acc ept the offers without restrictions. [ORS
+244.040(2)(f)]
+
+• A salesperson from a software company o ffers to take the county’s information
+technology manager out to lunch.  Because the manager has purchasing authority,
+the salesperson has an administrative interest in the manager.  The meal would be a
+gift and, if accepted, the value would be included in the aggregate value of gifts,
+which cannot exceed $50 from a singl e source in one calendar year. [ORS
+244.025(1)]  If the meal cost less than $50, the manager may accept it, but should
+
+Public Official Guide  Page 35
+keep a record of the gift and should be carefu l in future situations not to accept
+additional gifts from this source if the value would exceed $50 total for the year.  Of
+course, if the lunch costs more than $50, the manager may not accept it in any case.
+
+• A city manager attends a work -related conference paid for by the city.  When the city
+manager checks out of the hotel, she is offered a coupon for two nights of free
+lodging at any hotel in the nationwide chain.  Because the city manager is in charge
+of her own travel arrangements, the hotel has an administrative interest in her future
+hotel-booking decisions.  If accepted and used for personal lodging, it would be a gift
+and the value would be included in the aggr egate value of gifts, which cannot
+exceed $50 from a single source in one calendar year. [ORS 244.025(1)]  Note that
+if the city had adopted an official compensation package (as defined in OAR 199-
+005-0035) that included a prov ision allowing the city manager to use “loyalty
+program” benefits for personal use, the coupon could have been accepted.
+
+• A county finance officer attends a work-rela ted conference paid for by the county.
+When arriving at the conference the finance officer, as with others in attendance, is
+offered a gift basket containing assorted goods from the organization hosting the
+conference.  Because the organization sells  goods or services the finance officer
+has the authority to purchase, the source of the gift has an administrative interest in
+the finance officer.  Typically, such a gift basket would be a “gift” and, if accepted,
+the value would be included in the aggregate value of gifts, which cannot exceed
+$50 from a single source in one calendar year. [ORS 244.025(1)]  However, the law
+does not prohibit accepting things that are made available to a significant portion of
+the general public under the same terms and conditions.  If the conference was
+open to members of the general public, and the attendees included a wide range of
+public and private participants, the baskets would not be considered gifts.
+
+• A state employee is sent by his agency to attend a two-day training conference.  A
+salesperson is near the conference registration table and offers a collection of gifts
+valued at over $100 to all registrants.  As in the last example, because the employee
+has the authority to purchase goods or services sold by the salesperson, the source
+of the gifts has an administrative interest in the state employee.  Let’s also assume
+that the conference is only open to government employees.  Under these
+circumstances the offered items would be gifts and any accepted could not exceed
+the $50 limit on aggregate value from a single source in one calendar year. [ORS
+244.025(1)]
+
+• During the same conference,  the state employee is going out to dinner after the
+conference adjourns for the day.  While passing through the hotel lobby, he stops to
+speak with the salesperson who offered the gifts during the conference registration.
+The salesperson asks to join the state employee for dinner and offers to pay for the
+meal.  The value of the meal would be included with the value of any gifts accepted
+earlier in the aggregate value of gifts, which cannot exceed $50 in one calendar
+year. [ORS 244.025(1)]
+
+Public Official Guide  Page 36
+• A city mayor goes out to lunch in a loca l city restaurant.  During lunch a well known
+developer approaches the mayor and offers to pay for the mayor’s meal.  The
+developer has a legislative or administrative interest in decisions the mayor could
+make on his construction projects.  The va lue of the meal, if  accepted, would be
+included in the aggregate value of gifts from  a source, which cannot exceed $50
+from a single source in one calendar year. [ORS 244.025(1)]
+
+• A chief deputy who manages pr ocurement for a county sheriff’s office attends a
+conference on newly developed equipment fo r law enforcement agencies.  Upon
+arrival, the deputy purchases with personal  funds several “raffle tickets” each
+representing a chance to win a shotgun from the manufacturer valued at $500.  The
+opportunity to buy the tickets is only ava ilable to those attending the conference.
+During the final session of the conference the “raffle” ticket drawing is held and the
+chief deputy wins the shotgun.  As explained above, if the conference was only open
+to public officials, or if few non-public employees were in attendance, the shotgun
+would be a gift and, if accepted, the value would be included in the aggregate value
+of gifts, which cannot exceed $50 from a single source in one calendar year. [ORS
+244.025(1)]
+
+When the Commission applies Oregon Government Ethics law to a financial benefit
+obtained by a public official by using or attempting to use an opportunity that would
+not otherwise be available but for the position or office held, ORS 244.040(1) will be
+used in the analysis and application of the law.  The following are some examples to
+illustrate the Commission’s approach:
+
+• A city recorder has overseen the insta llation and implementation of a new software
+program to manage the city’s financial records.  The distributor of this software has
+a training event scheduled for employees who work for other cities’ governments.
+The city recorder has been asked to participate as a trainer at the events and the
+distributor has offered to provide co mpensation and pay any expenses for food,
+lodging and travel.  If the city recorder accepted this offer, it could constitute the use
+of the official position to gain a financ ial benefit because the opportunity for the
+compensation and paid expenses would not be available but for holding the position
+and performing the duties as the city recorder. [ORS 244.040(1)]
+
+• A deputy fire chief, who is in charge of proc uring equipment for fire stations in the
+district, locates a vendor that offers the make and model of an extension ladder to
+replace obsolete ladders in the district’s st ations.  To increase the fire district’s
+discount on each ladder, the deputy fire chief adds several extra ladders to the
+order.  The deputy fire chief and two relatives take personal possession of the extra
+ladders and pay the fire distri ct the amount the district paid for the ladders.  The
+deputy fire chief would violate ORS 244.040(1) because the discounted price to the
+deputy fire chief and the relatives represents the use of position to avoid a financial
+detriment (discount) that is prohibited.
+
+Public Official Guide  Page 37
+• A city council has scheduled a public council m eeting in a room at a local restaurant.
+ Before the scheduled meeting the councilors  plan to use city funds to purchase
+dinner for councilors, the councilor’s spouses and members of the city’s staff
+attending the scheduled meeti ng.  The councilors, who are accompanied by a
+spouse, would violate ORS 244.040(1) because the cost of the meal for the spouse
+would represent the use of position to avoid a financial detriment that is prohibited.
+
+The responsibility for judgments and decisions made in order to comply with the various
+provisions in Oregon Government  Ethics law rests with the individual public official who
+faces the circumstances that require a judgment or decision.  That is true of questions
+regarding gifts, use of an official position, announcing the nature of conflicts of interest and
+the many situations addressed in ORS Chapter 244.
+
+What if I am offered a gift?
+
+First, insure you know the identity of the source of the gift.  Remember, the source of a gift
+is the person or entity that made the ultimate payment for the gift’s expense [See page 27].
+
+Second, determine if the source of the gift has an economic interest in decisions or votes
+you make in your official capacity as a public o fficial.  If that economic interest is distinct
+from the interest held by members of the general public it is a legislative or administrative
+interest [See page 27].
+
+• If the source does not have a legislative or  administrative interest, gifts from that
+source are not prohibited or limited as to value or quantity.
+
+• If the source has a legislative or admin istrative interest, you must answer the
+following questions:
+
+1. Is the gift offered under the conditions that would allow you to accept the gift
+because it is excluded from what is defined as a “gift”?  These exclusions are
+found in ORS 244.020(6)(b) and described on pages 30 - 32 of this guide.
+
+2. What is the value of t he gift?  Remember, you can accept gifts [not excluded
+from the definition of “gift”.] from a single source when the aggregate value of
+gifts from that source does not exceed $50 in a calendar year. [ORS
+244.025]
+
+*****
+
+ANNUAL VERIFIED STATEMENT OF ECONOMIC INTEREST
+
+There are approximately 5,500 Oregon public officials who must file an Annual Verified
+Statement of Economic Interest (SEI)  form with the Oregon Government Ethics
+Commission by April 15 of each calendar year.
+
+The public officials who are required to file reports are specified in ORS 244.050 .
+Please refer to that section of the law to see if  your specific position requires you to file
+these forms.  In general, public officials who hold the following positions are required to file:
+
+• State public officials who hold elected or appointed executive, legislative or judicial
+positions.  This includes those who hav e been appointed to positions on certain
+boards or commissions.
+
+• In counties, elected officials, such as commissioners, assessors, surveyors,
+treasurers and sheriffs must file, as do planning commission members and the
+county’s principal administrator.
+
+• In cities, all elected officials, the city  manager or principal administrator, municipal
+judges and planning commission members must file.
+
+• Administrative and financial officers in sc hool districts, education service districts
+and community college districts must file.
+
+• Some members of the board of directors for certain special districts must file.
+
+• Candidates for some elected public offices are also required to file.
+
+The Commission staff has identified the positions held by public officials who must file the
+SEI form and has them listed by jurisdiction.  Each jurisdiction [city, county, executive
+department, board or commission, etc.] has a person who acts as the Commission’s point
+of contact for that jurisdiction [OAR 199-020-0005(1)].
+
+The contact person for each jurisdiction has an important role in the annual filing of the
+SEI forms.  It is through the contact person that the Commission obtains the current name
+and address of each public official who is required to file.  When there is a change, through
+resignation, appointment or election, in who holds a position, the contact person notifies the
+Commission.  If there is a change in the filer’s mailing address, it is the contact person who
+notifies the Commission.
+
+As with other provisions in Oregon Government  Ethics law, it is each public official’s
+personal responsibility to ensure they comply with the requirement to complete and submit
+the SEI form by April 15.  Those public officials who must file a SEI form are well served if
+the contact person ensures that the Commission has the correct name and address of the
+public official.
+Public Official Guide  Page 38
+
+Public Official Guide  Page 39
+Beginning in January of each year the Commission prepares a list by jurisdiction of each
+public official required to file the SEI form.  A list for each jurisdiction is sent to the contact
+person.  The contact person is required to review the list for accuracy.  After entering the
+necessary changes, the contact person must retu rn the list that has been reviewed and
+corrected to the Commission by February 15. [OAR 199-020-0005(2)]
+
+The contact person from each jurisdiction should ensure that each filer has been advised of
+the reporting requirements.  Each filer should also receive information as to the procedures
+the jurisdiction follows to assist the filer in meeting the SEI filing requirement.
+
+Based on the information provided by each of the jurisdictions’ contacts, the Commission
+sends an annual SEI form directly to each individual public official required to file the form.
+
+Again, the requirement to file the SEI is the personal responsibility of each public official.
+Each public official should comply and file timely, as the civil penalties for late filing are $10
+for each of the first 14 days after the filing deadline and $50 for each day thereafter until the
+aggregate penalty reaches the maximum of $5,000. [ORS 244.350(4)(c)]
+
+SEI Form
+
+When the forms are distributed in March of each year, the instructions and definitions are
+also included to assist the filer in completing the forms.  The information needed to
+complete the form pertains to the previous calendar year.
+
+NOTE:  Only public officials who hold a position that is required to file, and who holds the
+position on April 15 of the year the SEI is due, must complete the form.
+
+The following is a brief description of the information requested in the SEI form:
+
+• Name and address of each business in which a position as officer or director was held
+by the filer or member of the household. [ORS 244.060(1)]
+
+• Name and address of each business through which the filer or  member of the
+household did business. [ORS 244.060(2)]
+
+• Name and address and brief description of t he sources of income for the filer and
+members of the household that represent 10 percent or more of the annual household
+income. [ORS 244.060(3)]
+
+• Ownership interests held by the filer or members of the household  in real property,
+except for the principal residence, loca ted within the geographic boundaries of the
+governmental agency in which the filer holds the position or seeks to hold. [ORS
+244.060(4)(a) and (b)
+
+• Honoraria or other items allowed by ORS 244.042 that exceed $15 in value given to the
+filer or members of the filer’s household.  Include a description of the honoraria or item
+
+Public Official Guide  Page 40
+and the date and time of the event  when the item was received [ORS 244.060(7)].
+Remember that honorarium cannot exceed $50. [ORS 244.042(3)(a)]
+
+• Name of each lobbyist associated with any business the filer or  a member of the
+household is associated, unless the association is through stock held in publicly traded
+corporations. [ORS 244.090]
+
+• If the public official received over $50 from an entity to participate in a convention, fact-
+finding mission, trip, or other meeting as  allowed by ORS 244.020(6)(b)(F), list the
+name and address of the entity that paid the expenses.  Include the event date,
+aggregate expenses paid, purpose for participation a copy of the notice of aggregate
+value paid. [ORS 244.060(5) and ORS 244.100(1)] [Not required for candidates]
+
+• If the public official received over $50 from an entity to participate in a trade promotion,
+fact-finding mission, negotiations or economic  development activities as allowed by
+ORS 244.020(6)(b)(H), list the name and address of the person that paid the expenses.
+ Include the event date, aggregate ex penses paid and nature of the event. [ORS
+244.060(6)] [Not required for candidates]
+
+The following is required if the information requested relates to an individual or business
+that has been or could reasonably be expected to do business with the filer’s governmental
+agency or has a legislative or administrative interest in the filer’s governmental agency:
+
+• Name, address and description of each source of  income (taxable or not) that exceeds
+$1,000 for the filer or a member of the filer’s household. [ORS 244.060(8)]
+
+• Name of each person the filer or member of the filer’s household has owed $1,000 or
+more.  Include the date of the loan and the inte rest rate.  Debts on retail contracts or
+with regulated financial institutions are excluded. [ORS 244.070(1)]
+
+• Business name, address and nature of beneficia l interest over $1,000, or investment
+held by the filer or a member of the househol d in stocks or securities over $1,000.
+Exemptions include mutual funds, blind trusts, deposits in financial institutions, credit
+union shares and the cash value of life insurance policies. [ORS 244.070(2)]
+
+• Name of each person from w hom the filer received a fee of over $1,000 for services,
+unless disclosure is prohibited by a professional code of ethics. [ORS 244.070(3)]
+
+*****
+
+Public Official Guide  Page 41
+OREGON GOVERNMENT ETHICS COMMISSION
+
+The Governor appoints all seven member s of the Commission and each appointee is
+confirmed by the Senate.  The commissioners are recommended as follows [ORS
+244.250]:
+
+1 Recommended by the Senate Democratic leadership
+1 Recommended by the Senate Republican leadership
+1 Recommended by the House Democratic leadership
+1 Recommended by the House Republican leadership
+3 Recommended by the Governor
+
+No more than four commissioners with the same political party affiliation may be appointed
+to the Commission to serve at the same time.  The commissioners are limited to one four
+year term, but if an appoint ee fills an unfinished term they  can be reappointed to a
+subsequent four year term.
+
+The Commission members select a chairpers on and vice chairperson annually.  The
+Commission is administered by an executive director, who is selected by the Commission.
+Legal counsel is provided by the Oregon Department of Justice.
+
+The Commission staff provides administration, training, guidance, issues written opinions,
+and conducts investigations when complaints are filed with the Commission.
+
+Training:
+
+The Commission has designated training as one of its highest priorities.  It has two staff
+positions to provide training to public officials and lobbyists on the laws and regulations
+under its jurisdiction.  Traini ng is provided through presentations at training events,
+iLearnOregon, informational links on the website, topical handouts and guidance offered
+when inquiries are received.
+
+Advice:
+
+All members of the Commission staff are cross-trained in the laws and regulations under
+the Commission’s jurisdictions.  Questions regarding the Commission’s laws, regulations
+and procedures are a welcome da ily occurrence.  Timely and accurate answers are a
+primary objective of the staff.  Guidance and information is provided either informally or in
+written formal opinions.  The following are available:
+
+• Telephone inquiries are answered during the call or as soon as possible.
+
+• E-mail inquiries are answered with return e-mail or telephone call as soon as
+possible.
+
+• Letter inquiries are answered by letter as soon as possible.
+
+Public Official Guide  Page 42
+• Written opinions on specific circumstances can also be requested.
+
+Requests for written opinions must describe the specific facts and circumstances that
+provide the basis for questions about how the Oregon Government Ethics law may apply.
+The facts and circumstances may define a proposed transaction and may be hypothetical
+or actual.  If the circumstances indicate that a violation may have occurred, the staff cannot
+provide an opinion because to do so could compromise the Commission’s objectivity if a
+complaint were to be filed.  The written opinions will be in one of the following formats, as
+requested:
+
+Staff Advice
+
+ORS 244.284 provides for informal staff advice,  which may be offered in several forms,
+such as in person, by telephone, e-mail or le tter.  In a letter of advice, the proposed,
+hypothetical or actual facts are restated as presented in the request and the relevant laws
+or regulations are applied.  The answer will conclude whether a particular action by a public
+official comports with the law.
+
+If the Commission determines that a respondent violated provisions of law within its
+jurisdictions and the respondent received staff advice offered under the authority of ORS
+244.284, in sanctioning the viol ation, the Commission may consider whether the public
+official committed the violation when relying on the staff advice [ORS 244.284(2)].
+
+For staff advice to be a factor in the sanction phase, it is important to understand that the
+circumstances the respondent described in  the request must have been an accurate
+description of what occurred when the respondent committed the violation.  The actions of
+the respondent must have been those recommended or described in the staff advice.  The
+Commission is not prevented from  finding a violation in these circumstances, but the
+sanction imposed could be affected.
+
+Staff Advisory Opinion
+
+ORS 244.282 authorizes the execut ive director to issue a st aff advisory opinion upon
+receipt of a written request.  The opinion is i ssued in a letter that restates the proposed,
+hypothetical or actual facts presented in t he written request and identifies the relevant
+statutes.  The letter will discuss how the law applies to the questions asked or raised by the
+fact circumstances presented in the request. The Commission must respond to any request
+for a staff advisory opinion within 30 days, unl ess the executive director extends the
+deadline by an additional 30 days.
+
+If the Commission determines that a respondent violated provisions of law within its
+jurisdictions and the respondent received a st aff advisory opinion under the authority of
+ORS 244.282, in sanctioning the violation, the Commission may consider whether the
+public official committed the violation when relying on the staff advisory opinion [ORS
+244.282(3)].
+
+Public Official Guide  Page 43
+
+For the staff advisory opinion to be a factor in the sanction phase, it is important to
+understand that the circumstances the res pondent described in the request must have
+been an accurate description of what occurred when the respondent committed the
+violation.  The actions of the respondent must have been those recommended or described
+in the staff advisory opinion.  The Commission is not prevented from finding a violation in
+these circumstances, but whether the sanction is imposed or its severity could be affected.
+
+Commission Advisory Opinion
+
+ORS 244.280 authorizes the Commission to prepare and adopt by vote a Commission
+Advisory Opinion.  This formal written opinion also restates the proposed, hypothetical or
+actual facts presented in a written request for a formal opinion by the Commission.  The
+opinion will identify the relevant statutes and discuss how the law applies to the questions
+asked or raised by the fact circumstances provided in the request.  These formal advisory
+opinions are reviewed by legal counsel  before the Commission adopts them.  The
+Commission must respond to any request for a Commission Advisory Opinion within 60
+days, unless the Commission extends t he deadline by an additional 60 days [ORS
+244.280(1) and (2)].
+
+The Commission may not impose a penalty on a person for any good faith action taken by
+the person while relying on a Commission Advisory Opinion, unless it is determined that the
+person who requested the opinion omitted or misstated material facts in the opinion request
+[ORS 244.280(3)].
+
+For the Commission Advisory Opinion to be a factor in preventing the imposition of a
+penalty, it is important to understand that the circumstances described in the request must
+have been an accurate description of what occurred when the respondent committed the
+violation.  The actions of the respondent must have been those recommended or described
+in the Commission Advisory Opinion.  The Commission is not prevented from finding a
+violation in these circumstances, but could be prevented from imposing a sanction.
+
+If a person requests, receives or relies on any of the advice or opinions authorized
+by ORS 244.280 through ORS 244.284, does that person have what is referred to as
+“safe harbor” protection from becoming a respondent to a complaint filed with or
+initiated by the Commission?
+
+There is no “safe harbor,” if the term is understood to mean that any person who relies on
+any advice or opinions offered by the Commissi on or the staff is pr otected from being a
+respondent to a complaint, from being found in violation of laws within the jurisdiction of the
+Commission, or from receiving a penalty for a violation.
+
+There is, however, specific and conditional protection for any person who has requested
+and relied upon advice or an opinion from the Commission or its staff.  The conditions and
+protection is as follows:
+
+Public Official Guide  Page 44
+• The fact circumstances described in the request must not misrepresent, misstate or
+omit material facts.
+
+• Reliance on the advice or opinion means t hat the action or transactions of the
+person were those described or suggested in the advice or opinion.
+
+• The protection applies only during the penalty phase, after the Commission has
+determined that a violation has occurred.  If there was reliance on staff advice or a
+Staff Advisory Opinion, the Commission may consider the reliance during the
+penalty phase.  If reliance was on a Commission Advisory Opinion, the Commission
+may not impose a penalty.
+
+Any person who has not requested advice or an opinion must be cautious when trying to
+apply advice or opinions offered to others.  The advice and opinions given are based on
+and tailored to the specific fact circumstances presented in a request.  Fact circumstances
+vary from one situation to another and they vary  from one public official to another.  If a
+person reviews an opinion or advice issued to another for circumstances the person
+believes similar to those now met and relies on that advice, the person must ensure the
+similarity is sufficient for the application of law to be the same.
+
+It is important to remember that the provisions of law apply to the individual actions of the
+person or public official.  There are events or occasions when more than one public official
+may be present and participating in their official capacities.  Depending on the
+circumstances and conditions for an event or transaction, the law may have a different
+application for one public official than for other public officials.
+
+Compliance:
+
+The Commission has a program manager who oversees the management and
+administration of the various reports that  are filed with the Co mmission.  There are
+approximately 2,000 lobbyists and employers of lobbyists who file quarterly lobbying activity
+expense reports.  Each of the nearly 1,000 lobby ists must file or renew their lobbying
+registrations every two years.  There are approximately 5,500 public officials who must file
+the Annual Verified Statement of Economic Interest form each April 15.
+
+Complaint Review Procedures:
+
+Investigations are initiated through a complaint procedure [ORS 244.260].   Any person
+may file a signed, written complaint alleging that there may have been a violation of Oregon
+Government Ethics law, Lobbying Regulation or the executive session provisions of Oregon
+Public Meetings law.  The complaint must state the person’s reason for believing that a
+violation may have occurred and must include any evidence that supports that belief. The
+executive director reviews the complaint and if additional information is needed, the
+complainant is asked to provide that information.
+
+If there is reason to believe that there has been a violation of laws within the jurisdiction of
+
+Public Official Guide  Page 45
+the Commission, an investigation will be initiat ed.  The Commission may also initiate an
+investigation on its own complaint by motion and vote.  Before approving such a motion, the
+public official against whom the action may be taken is notified and given an opportunity to
+appear before the Commission at the meeting when the matter is discussed or acted upon.
+
+When a complaint is accepted, the public official against whom the allegations are made is
+referred to as the respondent.  The respondent is notified of the complaint and provided
+with the information received in the complaint and the identity of the complainant.  Whether
+based on a complaint or a motion by the Commission, the initial stage of the Commission
+procedure is called the Prelimi nary Review Phase.  The time allowed for this phase is
+limited to 135 days and the Commission must act on the complaint within that period.
+
+If there is a pending criminal matter related to  the same circumstances or actions to be
+addressed in the Preliminary Review, the time period is suspended until the criminal matter
+is concluded.
+
+There may be a variety of reasons for a res pondent to ask for additional time before the
+Commission determines whether there is cause to investigate the issues raised in the
+complaint.  With the consent of the Commission, a respondent may request a waiver of the
+135 day time limit.  If a complaint is made against a candidate within 61 days of an election,
+the candidate may request a delay.
+
+During the Preliminary Review Phase, t he Commissioners and staff can make no public
+comment on the matter other than acknowledge receipt of the complaint.  It is maintained
+as a confidential matter until the Commission ends the Preliminary Review Phase.  Under
+most circumstances, the Co mmission will end the Preliminary Review Phase by either
+dismissing the complaint or finding cause to conduct an investigation.  The Commission
+meets in executive session to conduct deliberations and vote on the finding of cause or to
+dismiss.  After the close of the Preliminary Re view Phase, the case file is open to public
+inspection.
+
+If the complaint is dismissed, the matte r is concluded and both the respondent and
+complainant are notified.  If cause is found to investigate, then an Investigatory Phase
+begins.  The investigatory phase is limited to 180 days.
+
+During each phase, information and documents are solicited from the complainant,
+respondent, and other witnesses and sources that are identified.  Before the end of the 180
+day investigatory period, the Commission will consider the result s of the investigation.
+Normally, the Commission will either dismiss the complaint or make a preliminary finding
+that a violation of Oregon Government Ethics law was committed by the respondent.  The
+preliminary finding of a violation is based on what the Commission considers to be a
+preponderance or sufficient evidence to support such a finding.
+
+If a preliminary finding of violation is made, the respondent will be offered the opportunity to
+request a contested case hearing.  At any time, the respondent is also encouraged to
+
+Public Official Guide  Page 46
+negotiate a settlement with the executive director, who represents the Commission in such
+negotiations.  Most cases before the Co mmission are resolved through a negotiated
+settlement, with the terms of the agreement described in a Stipulated Final Order.
+
+The Commission has a variety of sanctions available after making a finding that a violation
+occurred.  Sanctions range from letters of reprimand to civil penalties and forfeitures.  The
+maximum civil penalty that can be imposed for each violation is $5,000, except for
+violations of the executiv e session provisions in ORS 192.660 where the maximum is
+$1,000.  Any financial gain that  a respondent realized from a violation is subject to a
+forfeiture of twice the gain.  Any monetary sanctions imposed and paid are deposited into
+the State of Oregon General Fund.
+
+*****
+
+Public Official Guide  Page 47
+
+INDEX
+
+ A
+Actual conflict of interest ........................................... 6, 7, 10, 14, 16, 21, 22, 23, 24, 37
+Administrative interest.................................................. 26, 27, 28,  29, 34, 35, 36, 37, 40
+Advisory Opinion, Commission ..............................................................................43, 44
+Advisory Opinion, Staff..................................................................................... 42, 43, 44
+Annual Verified Statement of Economic Interest (SEI)........... 3, 8, 12, 29, 38, 39, 40, 44
+Assistant Attorney General...........................................................................................18
+Awards for professional achievement.....................................................................12, 13
+
+ B
+
+Beverage................................................................................................................31 , 32
+Boards, members of..................................................... 5, 6, 8, 17, 19, 21, 22, 23, 28, 38
+Business................3, 6, 7, 8, 9, 10, 11, 16, 17, 21, 22, 23, 24, 28, 30, 31, 32, 34, 39, 40
+Business agreement.....................................................................................................32
+Business, associated................................................ 3, 7, 8, 9, 10, 16, 21, 22, 23, 39, 40
+
+ C
+
+Candidates ..................................................................... 7, 26, 27, 30, 31, 33, 38, 40, 45
+Campaign contributions............................................................................................2, 30
+Ceremonial.............................................................................................................30, 31
+Certificate .....................................................................................................................30
+Civil penalty.................................................................................................................. 46
+Class exception......................................................................................................22, 23
+Client of lobbyists ...............................................................................................1, 29, 44
+Commemorative token .................................................................................................30
+Commission Advisory Opinion ............................................................................... 43, 44
+Commissions, members of........................................................... 5, 6, 17, 19, 22, 28, 38
+Compensation package...................................................................... 6, 7, 10, 11, 16, 35
+Complaint process........................................................ 11, 13, 25, 41, 42, 43, 44, 45, 46
+Confidential information.................................................................... 9, 16, 17, 18, 19, 45
+Conflict of interest .................................................. 3, 6, 7, 10, 14, 16, 21, 22, 23, 24, 37
+Conflict of interest, exceptions ...............................................................................22, 23
+Contact person.......................................................................................................38, 39
+Contested case hearing ...............................................................................................45
+Continuing education....................................................................................................30
+
+ D
+Decision ................................................................... 3, 23, 26, 27, 28, 29, 34, 35, 36, 37
+Department of Consumer and Business Services..................................................17, 18
+Department of State Police ....................................................................................19, 20
+Deputy Attorney General..............................................................................................18
+Division of Finance and Corporate Securities ..............................................................18
+
+Public Official Guide  Page 48
+ E
+Economic development ..........................................................................................31, 40
+Economic interest............................... 3, 8, 12, 26, 27, 28, 29, 34, 35, 36, 37, 38, 40, 44
+Education, continuing...................................................................................................30
+Educational trip ............................................................................................................31
+Employment, subsequent............................................................... 16, 17, 18, 19, 20, 34
+Employment, of a relative................................................................. 6, 7, 8, 9, 10, 14, 15
+Employers of lobbyists .......................................................................................1,  29, 44
+Entertainment...........................................................................................................1, 30
+Entertainment, ceremonial purposes......................................................................30, 31
+Entertainment, incidental..............................................................................................30
+Exceptions, conflict of interest................................................................................22, 23
+Executive session..................................................................................... 1, 2, 44, 45, 46
+
+ F
+Fact-finding mission ...............................................................................................31 , 40
+Fee, appearance for.......................................................................................................9
+Financial detriment, personal ........................... 6, 7, 9, 11, 16, 17, 21, 22, 23, 28, 36, 37
+Financial gain, use of office...................... 1, 3, 6, 7, 9, 10, 11, 16, 28, 33, 34, 36, 37, 46
+Financial transaction ....................................................................................................32
+Food and beverage ................................................................................................31, 32
+Food, beverage and admission ....................................................................................31
+Food, lodging and travel...........................................................................................1, 31
+Forfeiture..................................................................................................................... .46
+
+ G
+
+Gift.................................................. 3, 6, 7, 12, 13, 26, 27, 28, 29, 30, 33, 34, 35, 36, 37
+Gifts allowed as exclusions ................................................ 30, 31, 32, 33, 34, 35, 36, 37
+
+ H
+
+Honoraria or honorarium ............................................................................ 12, 29, 39, 40
+
+ I
+
+Incidental................................................................................................................30, 3 1
+Insurance Division........................................................................................................18
+Investigative Phase .................................................................................... 41, 43, 44, 45
+
+ J
+
+Judges....................................................................................................................22, 3 8
+Jurisdiction ............................................................................. 1, 2, 38, 39, 41, 42, 43, 44
+
+ L
+
+Legal Expense Trust Fund ............................................................................... 13, 25, 30
+Legislative or administrative interest ............................ 26, 27, 28, 29, 34, 35, 36, 37, 40
+Legislative Assembly...................................................................... 15, 20, 21, 22, 27, 28
+Letter of advice........................................................................................... 41, 42, 43, 44
+
+Public Official Guide  Page 49
+Letter of reprimand.......................................................................................................46
+Lobbyist................................................................................ 1, 18, 19, 20, 29, 40, 41, 44
+Lodging ....................................................................................................................1, 3 1
+
+ M
+Member of household..................................... 8, 9, 10, 14, 15, 16, 26, 30, 31, 33, 39, 40
+Members of boards or commissions ............................ 5, 6, 8, 17, 19, 21, 22, 23, 28, 38
+Mementos, unsolicited desk and wall...........................................................................30
+
+ N
+
+Native American tribal gaming ...............................................................................19, 20
+Native American Tribe...................................................................................... 19, 20, 31
+Negotiation ................................................................................................. 18, 31, 40, 46
+Nepotism ................................................................................................................14, 15
+
+ O
+
+Official capacity ........................................................................ 15, 16, 19, 30, 31, 32, 37
+Official duties................................................................................ 6, 9, 11, 15, 25, 29, 30
+Officially designated .....................................................................................................31
+Officially sanctioned .....................................................................................................31
+Oregon Liquor Control Commission .............................................................................18
+Oregon State Lottery........................................................................................ 18, 19, 20
+
+ P
+
+Plaque......................................................................................................................... .30
+Plaque, unsolicited ....................................................................................................... 30
+Potential conflict of interest ............................................................ 16, 21, 22, 23, 24, 37
+Preliminary Review Phase ...........................................................................................45
+Private employment............................................ 7, 16, 17, 18, 19, 20, 21, 22, 23, 30, 34
+Professional achievement, awards for....................................................................12, 13
+Public official .......................................................... 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+Public Utility Commission .............................................................................................18
+Publications..............................................................................................................1,  30
+
+ R
+
+Reception .....................................................................................................................3 1
+Reimbursement of expenses............................................................................ 10, 11, 12
+Relative .................................. 3, 6, 7, 8, 9, 10, 14, 15, 16, 21, 22, 23, 26, 30, 31, 33, 36
+Representative ............................................................................................. 9, 18, 20, 34
+Representing government agency................................................................................31
+Reprimand, letter of......................................................................................................46
+
+ S
+
+Safe Harbor............................................................................................................43, 44
+SEI, Annual Verified Statement of Economic Interest ............ 3, 8, 12, 29, 38, 39, 40, 44
+Senator........................................................................................................................ .20
+
+Public Official Guide  Page 50
+Source, single .......................................................... 1, 26, 27, 28, 29, 30, 34, 35, 36, 37
+Speak.......................................................................................................................... .31
+Staff advice ............................................................................................................42, 44
+Staff Advisory Opinion...................................................................................... 42, 43, 44
+State Police, Department of ................................................................................... 19, 20
+Stipulated Final Order ..................................................................................................46
+Subscriptions................................................................................................................30
+Subsequent employment................................................................ 16, 17, 18, 19, 20, 34
+
+ T
+Tokens, unsolicited.......................................................................................................30
+Trade promotion.....................................................................................................31, 40
+Training ....................................................................................................................3, 41
+Travel expenses, paid ............................................................................................11, 31
+Treasurer, State .....................................................................................................18, 32
+Treasurer, Chief Deputy...............................................................................................18
+Trophy, unsolicited ....................................................................................................... 30
+
+U
+Use of office or position............................................ 9, 10, 11, 12, 13, 33, 34, 35, 36, 37
+
+V
+Volunteers ................................................................................ 5, 6, 9, 10, 15, 16, 22, 30
+Vote............................................................ 16, 21, 22, 23, 26, 27, 28, 29, 34, 37, 43, 45

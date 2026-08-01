@@ -1,0 +1,467 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-42-dogs
+title: 'Chapter-42-Dogs'
+doc_type: ordinance
+citation: 'Chapter-42-Dogs'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3069/Chapter-42-Dogs
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 85faa7249c2e2f63fca610d6fff8b5249a1f1a06bbbbc6a58e38e7fdafb23fdf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 167.360
+    - ORS 187.010
+    - ORS 433.340
+    - ORS 496.004
+    - ORS 607.007
+    - ORS 609.010
+    - ORS 609.030
+    - ORS 609.060
+    - ORS 609.095
+    - ORS 609.098
+    - ORS 609.150
+    - ORS 609.205
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-42-Dogs (Chapter-42-Dogs)
+
+## At a glance
+
+Chapter-42-Dogs — code of Polk County. 9 pages.
+
+## Full text
+
+42-1
+
+ CHAPTER 42 September 2012
+ DOGS AND LIVESTOCK
+
+ 42.105 AUTHORITY.
+
+ Polk County has been declared a Dog Control Distri ct under ORS 609.010 to 609.190.
+[Ord. 87-12]
+
+ 42.107  PURPOSE.
+
+ Polk County has determined that responsible dog ow nership and a viable public information
+system (to include public information programs and adequate signage) are matters of significant
+importance. The Purpose of Chapter 42 is to establish a framework which supplements State law, to
+allow for the operation and enforcement of an effective dog control program. [Ord. 00-11]
+
+ 42.110  LICENSES AND FEES.
+
+ (1)  Every person owning, keeping, or acquiring a dog which has a set of permanent
+canine teeth or becomes six (6) months old, whichever occurs first, shall obtain a license for the dog
+and pay the fee prescribed by resolution of the Board.
+
+ (2)  Each dog license shall be issued for a period  of one (1) year, up to (3) three years,
+and shall be renewed not later than the expiration date of the current license. However, if the final
+day for renewal occurs on a weekend or on a legal h oliday in Oregon under ORS 187.010, the
+license may be renewed on the next succeeding busin ess day without penalty, liability, or loss of
+other rights. The license shall expire no later tha n the end of the month in which the rabies
+vaccination expires as listed on the rabies vaccination certificate. [Ord. 87-12; amended by Ord. 88-
+28, Ord. 96-5, Ord. 04-08, and Ord 06- 12]
+
+ (3) Kennel Facilities; Regulation. Chapter 42 does  not regulate kennel facilities [Ord.
+06-12].
+
+ 42.115  PENALTIES
+
+ (1)  Any person owning or keeping a dog required t o be licensed under Section 42.110
+who fails to obtain a license for the dog within th irty (30) days after such license or renewal is
+required, or who fails to obtain or renew a license within thirty (30) days after becoming the owner
+or keeper of such a dog, and/or establishing reside ncy in Polk County, shall pay either of the
+following penalties in addition to a license fee:
+
+  (a) For voluntary licensing:   $10.00
+
+(b) For non-voluntary licensing:   $50.00
+plus
+
+(2) For purposes of this section, "Non-Voluntary Li censing" means any licensing that occurs as
+a result of impoundment of an unlicensed dog, or issuance of a citation by Polk County or any other
+law enforcement agency for failure to obtain or renew a license. [Ord. 87-12; amended by Ord. 88-
+28 and Ord. 96-5; amended by Ord. 00-17]
+
+ 42-2
+
+(3) Mandatory micro-chipping and registration with Polk County and an approved national
+database shall be required under the following circ umstances.
+The Dog Board shall from time to
+time designate a listing of approved national database organizations.
+
+(a)  Issuance of a citation or summons by Polk County or  any other law
+enforcement agency for violation of ORS 609.060 [Dog Running at Large]
+and/or ORS 609.095 to ORS 609.098 [Dog as a Public Nuisance—
+Potentially Dangerous Dog & Dangerous Dog] and/or O RS 167.320 to
+ORS 167.360 [Owners/Keepers cited for Animal Neglec t and Abuse]
+and/or Polk County Ordinance Chapter 42 [Wolf-dog H ybrid] and Polk
+Count Ordinance Chapter 43 [Maintaining Kennel With out License AKA
+Puppy Mill] and the dog(s) is/are not licensed.
+
+(b)  Any dog(s) reported to have chased, menaced, or bit ten person(s) and not
+currently licensed.
+
+(c)  Any dog impounded by Polk County or any other law enforcement agency.
+
+(d)  Any dog reported to be in violation of ORS 609.150 and is not currently
+licensed. [Ord. 06-12]
+
+ 42.117  WHEN LICENSES NOT TO BE ISSUED.
+
+ A license shall not be issued or renewed for any d og if the owner or keeper of the dog
+currently is in default of payment of any obligatio ns arising under this chapter, including fees,
+penalties, impoundment fees, or appeal deposits. [Ord. 91-11, Sec. 3]
+
+ 42.118  ANIMAL SHELTER.
+
+ Polk County is hereby given authority to maintain its own animal shelter or to enter into a
+contract with a private contractor for the provisio n of animal shelter services. The County may
+delegate to the private contractor who is providing  animal shelter services, the authority to sell,
+adopt, or humanely kill animals once the private contractor is no longer required by law or contract
+to hold the animal. Such sales or adoptions may be made without the specific approval of each
+adoption by the County Board of Commissioners, Hearings Officer or Dog Control Board and may
+be made without determination, by either Board or t he Hearings Officer, that the animal is not
+dangerous and can be safely kept. [Ord. 93-8, Sec. 1]
+
+ 42.120  IMPOUNDMENT COSTS.
+
+ (1)  A person owning or keeping a dog that has bee n impounded by Polk County shall
+pay the expenses incurred by Polk County arising out of the impoundment. However, payment shall
+be not less than $35 for the dog's first impoundmen t, and not less than $55 for each subsequent
+impoundment, with $15 increases for each additional violation.
+
+ (2)  Payments required under Subsection (1) of thi s section shall include the current dog
+license fee under Section 42.110, and all penalties under Section 42.115, if not already current, and
+
+ 42-3
+
+all impoundment costs including, but not limited to , the costs of apprehension, transportation,
+boarding fees, medical costs, and all costs involved in disposition of the dog.
+
+ (3)  Each application for issuance or renewal of a  license shall require the person
+applying to agree in writing to pay impoundment cos ts required under this section. [Ord. 87-12;
+amended by Ord. 88-18]
+
+ 42.122 EXCLUSIONS FROM "RUNNING AT LARGE."
+
+ County officials are not required, but may (based upon the particulars of the situation),
+impound dogs found to be “running at large.” For pu rposes of this chapter, a dog is not considered
+to be "running at large" if it is under the supervision of a person and is being:
+
+ (1) Used in order to hunt in a legal manner at a l egal time;
+
+ (2)  Used to control or protect livestock;
+
+ (3) Used in other related agricultural activities;  or
+
+ (4) Trained for any activity described in subsecti ons (1) to (3) of this section. [Ord. 05-
+01; Ord. 91-11, Sec. 1]
+
+ 42.123 LICENSING OF WOLF-DOG HYBRIDS.
+
+ Regulation and licensing of wolf-dog hybrids will fall under the jurisdiction of Polk County
+Dog Control. Licensing will apply to wolf-dog hybrids aged six (6) weeks or more, to be renewed
+annually. There is no three-year license for wolf h ybrids. Failure to license as a wolf-dog hybrid
+will result in confiscation of animal.
+
+ (1)  Confinement.
+
+  (a) Animal shall not become a public safety or pu blic nuisance problem.
+
+  (b) Animal shall not roam free at any time.
+
+  (c) Chaining or tethering is not an acceptable me thod of confinement.
+
+  (d) Enclosure must allow for freedom of postural movements.
+
+  (e) Enclosure must confine animal sufficiently to  not allow escapes.
+
+ (2)  Control Outside of Enclosure.
+
+  (a) Animal must be kept in control on lead of no more than six (6) feet in
+length.
+
+ 42-4
+
+  (b)  Animal must be in control of responsible adu lt.
+
+  (c)  Animal must not be left unattended or tether ed.
+
+ (3)  Shelter.
+
+  (a) Shelter must protect the animal from the elem ents.
+
+  (b) Shelter must provide clean, dry, draft-free p lace to rest.
+
+  (c) Shelter must prevent any physical discomfort and impairment of health due
+to exposure.
+
+ (4)  Food and Water. Food and water must be provid ed sufficient in quantity and quality
+to maintain good health of the animal under all weather conditions.
+
+ (5)  Sanitation. Living area of the animal must be  maintained free of a build up of fecal
+material, urine-soaked bedding, trash, debris, or any other foreign material.
+
+ (6) Health Care. Licensee must identify veterinary  practice dealing with licensed
+animal.
+
+ (7)  General Care. Animal must be maintained to pr event maltreatment, abuse, or
+neglect of any sort.
+
+ (8) Identification. Animal must be identified by e lectronic microchip implant. Owner
+must provide implant number and certificate of regi stration in an approved national database to
+licensing authority, which will register the identification with Polk County. The owner’s check shall
+be attached to the application and made out to Polk  County. If the microchip number has already
+been registered with an approved national database, the County will verify the information before
+the issuance of the license.
+
+ (9)  Rabies Vaccination. Rabies vaccination shall remain at the discretion of the owner
+and veterinarian until rabies vaccine becomes label ed by USDA for use in wolf-dog hybrids, at
+which time it will become mandatory.
+
+ (10)  Penalty for escape of the licensed animal.
+
+  (a) First Offense - $100 fine in addition to impo undment fees.
+
+  (b) Second Offense - confiscation and euthanasia of the escaped animal.
+
+ (11)  Licensing fees.
+
+  (a)  License will be the same as the annual dog l icense fee.
+
+ 42-5
+
+  (b)  Wolf-dog hybrids must be licensed at six (6)  weeks of age. Three-year
+licenses do not apply.
+
+ (12)  Bite of Humans. A licensed animal which bite s a human will be dealt with under
+rules of the Oregon Health Division Acute and Commu nicable Diseases Program and as
+recommended by the Compendium of Animal Rabies Cont rol. Wolf-dog hybrids are currently
+classified as a wild animal and treated as such.
+
+ (13)  Period of Responsibility for Licensed Animal .
+
+  (a)  Maintain ownership and control for natural l ifetime of animal, or
+
+  (b) Notify licensing authority of any intended tr ansfer of ownership of licensed
+animal so that animal can be re-licensed to new owner, or
+
+  (c)  Dispose of animal by humane euthanasia.
+
+  (d) Animal may not be abandoned or released into the wild.
+
+ (14)  Licensing Agreement. A signed agreement betw een the licensee and licensing
+authority must be executed for licensure to be vali d. The agreement form will be provided by
+licensing authority. [Ord 97-5; amended Ord 06-12]
+
+ 42.124 DOG CONTROL OFFICER - FUNCTION.
+
+ The Dog Control Officer shall be appointed by the Sheriff. The Dog Control Officer shall
+be responsible for in-field enforcement of all state and county laws relating to the control of dogs
+within Polk County. The Dog Control Officer shall i ssue warnings, citations, and violations as
+deemed necessary. No specific form of citation is r equired, instead the Dog Control Officer may
+utilize any legal process to initiate enforcement proceedings and, when necessary, to take custody of
+dogs. When appropriate, Sheriff’s Office Deputies may be called in to issue criminal process. The
+Dog Control Officer shall attend all Dog Board hear ing proceedings and all Hearings Officer
+hearing proceedings and prior to same shall prepare  and submit a written staff report which shall
+summarize the known facts, list the witnesses, and recommend a course of action. [Ord. 00-11]
+
+ 42.125 DOG CONTROL BOARD; MEMBERSHIP; MEETINGS.
+
+ (1)  The Polk County Dog Control Board, authorized  by ORS 609.030 and designated as
+the legislative board of supervisors and contested case forum for the district, is composed of five
+members appointed by the Board of Commissioners for terms specified in the appointment. At least
+two of the members must be connected directly or indirectly with the livestock industry.
+
+ (2)  The Board of Commissioners annually shall sel ect one of the full-time members to
+serve as Chair for a term of one (1) year.
+
+ 42-6
+
+ (3)  The Dog Control Board shall hold regular publ ic meetings at such times and places
+as it considers necessary. Special meetings shall convene on call of the Chair.
+
+ (4)  The Dog Control Board shall hold all necessar y and requested contested case
+hearings upon appropriate notice on an “as needed” basis. [Ord. 00-17]
+
+ (5)  Three members of the Dog Control Board consti tute a quorum for doing business,
+and any decision of the Board must have the concurrence of at least three (3) members.
+
+ (6)  Members of the Dog Control Board shall receiv e no compensation. [Ord. 87-12;
+amended by Ord. 90-3 and 91-5]
+
+ 42.130 FUNCTIONS OF DOG CONTROL BOARD; RULES.
+
+ (1)  The Dog Control Board shall annually review C hapter 42 to determine if it is in
+compliance with existing state law; shall review pr oposed and/or pending legislation at the state
+level; shall determine the need for possible amendments to Chapter 42; shall review in advance all
+staff reports concerning dog-related matters; shall conduct all necessary or requested contested case
+hearings and shall have jurisdiction (concurrently with the Hearings Officer) over all non-criminal
+dog-related violation matters (both PCCO Chapter 42  and ORS Chapter 609); shall have full
+authority to impose non-criminal sanctions (consist ent with a Penalty Schedule approved by the
+Board of Commissioners and/or applicable state law) pursuant to state, county, and local laws; shall
+designate at least one member to attend dog-related appellate matters before the Hearings Officer in
+the capacity of an expert advisor to the Hearings Officer; shall review all dog-related contested case
+and appellate decisions of the Hearings Officer; shall send an annual written report to the Board of
+Commissioners updating the Board of Commissioners on any significant changes in state law and
+proposing amendments, if needed, to Chapter 42; sha ll maintain and implement a public
+information program; shall be available to conduct voluntary mediation sessions with all parties
+involved in dog-related contested case matters; and shall meet as needed with representatives from
+the livestock industry, the Humane Society, and County dog control staff on matters related to dog
+control. [Ord. 00-11; amended by Ord. 00-17; amended by Ord. 06-12]
+
+ (2)  The Board of Commissioners shall adopt rules to carry out the duties of the Dog
+Control Board. [Ord. 87-12 amended by Ord. 90-3]
+
+ 42.132  HEARINGS OFFICER - FUNCTION.
+
+ The Polk County Board of Commissioners shall appoi nt a duly qualified Hearings Officer
+(and shall, when possible, designate a duly qualifi ed back-up Hearings Officer) to conduct all
+necessary or requested de novo appellate hearings and all contested case matters (including failure
+to license citations) referred by the Board of Comm issioners, the Dog Board, or the Dog Control
+Officer. Before closing any appellate hearing, the Hearings Officer may receive and consider the
+recommendation of the Dog Board. The Hearings Officer shall also have appellate jurisdiction over
+all non-criminal dog-related violation matters (bot h PCCO Chapter 42 and ORS Chapter 609)
+unless the particular matter was previously heard as a contested case by the Hearings Officer. The
+Hearings Officer shall have full authority to approve, reject or impose non-criminal sanctions
+
+ 42-7
+
+(consistent with a Penalty Schedule approved by the  Board of Commissioners) pursuant to state,
+county, and local laws. The Hearings Officer shall issue written decisions containing Findings and
+Conclusions. Written decision of the Hearings Offic er shall be issued and mailed to the relevant
+parties (including the Dog Board) within ten (10) business days after the hearing. Decisions of the
+Hearings Officer may be appealed pursuant to section 42.140. [Ord. 00-11; amended by Ord. 06-
+12]
+
+ 42.133 CONTESTED CASES - PROCESS.
+
+ (1) Contested cases are brought before (a) the Dog  Board, (b) the Hearings Officer, or
+(c) the Circuit Court.
+
+ (2) The Dog Control Officer will indicate on the c harging instrument where the matter
+will be heard should the person charged wish to con test the charge. The charging instrument will
+also include the following information:
+
+   (a) Name of person charged
+   (b) Charge(s)
+   (c) Relevant date(s) and location(s)
+   (c) Default Sanction(s)
+   (d) Identification of contested case forum
+   (e) Date and time for hearing of contested case
+   (f) Statement that failure to either comply with  the Default Sanction or
+appear at the contested case as scheduled will resu lt in automatic imposition of Default Sanction
+and a monetary penalty of $150.
+
+ (3) Contested Case Designation. To the extent poss ible, contested cases will be
+assigned for hearing as follows:
+
+   (a) Dog Board: (1) non-criminal livestock matter s; (2) non-criminal
+bites; (3) designation of, and sanctions imposed ag ainst “potentially dangerous dogs” and
+“dangerous dogs;”
+   (b) Hearings Officer: (1) non-criminal licensing  matters; (2) non-
+criminal barking matters (subject to decision of ei ther the Dog Board or the Hearings Officer to
+refer the matter to community mediation);
+   (c) Circuit Court: matters where a criminal sanc tion is sought. [Ord. 06-
+12]
+
+ 42.134 APPLICATION FOR REVIEW.
+
+ (1)  An aggrieved person may file an application f or review of any order of the Dog
+Control Board not later than the 10 th  day after the order was signed, by filing a written copy of the
+application for review in the office of the Board o f Commissioners. The application shall set out
+reasons why the order should be reviewed.
+
+ 42-8
+
+ (2)  The application for review will not be accept ed unless the aggrieved person:
+
+ (a)  Presents written proof that all kennel, licen sing, medical, and identification
+costs have been paid in full and in the case of kennel costs, have been pre-paid
+for an additional twenty (20) days from the date th e application for review is
+filed; and
+
+(b)  Pays to the Board of Commissioners, a non-refu ndable $150 administrative
+appeal fee.
+
+ (3)  The Hearings Officer will conduct all appella te reviews unless the particular matter
+was previously heard as a contested case by the Hearings Officer. [Ord. 00-17]
+
+ 42.140  REVIEW BY CIRCUIT COURT.
+
+ (1)  Following final decision by the Hearings Offi cer, an aggrieved person may file the
+appropriate appeal with the Circuit Court. To be ti mely, the appeal must be filed in proper form
+with the Circuit Court with written conformed proof  of filing served on the Board of
+Commissioners by no later than the 14 th  day after the date of the Hearings Officer’s writt en
+decision.
+
+ (2)  Any person appealing the Hearings Officer’s w ritten decision shall post security in
+an amount determined by the Court (but in no case less than $500), sufficient to ensure payment of
+kennel costs and/or internal county charges pending a decision by the Court. [Ord. 87-12; amended
+by Ord. 88-17; amended by Ord. 00-11; amended by Ord. 00-17]
+
+LIVESTOCK
+
+42.200  LIVESTOCK DISTRICT
+
+The entire area of unincorporated Polk County and the entire area of all
+incorporated cities within Polk County are designated a “livestock district” as authorized by
+election of November 3, 1908, and ORS Chapter 607, and as formally recognized by Order of the
+Department of Agriculture, April 7, 1958.
+
+42.201  DEFINITION: ADEQUATE FENCE
+
+“Adequate fence” means as defined by ORS 607.007(1) .
+
+42.202  PROHIBITION OF LIVESTOCK AT LARGE.
+
+No person owning or having the custody, possession or control of an animal of a
+class of livestock as defined in ORS Chapter 607 shall permit the animal to run at large or go
+
+ 42-9
+
+upon the land of another.
+
+ 42.203  ADEQUATE FENCE
+
+At any hearing to ascertain whether there has been a violation of section 42.202,
+due consideration shall be given to the adequacy or inadequacy of existing fencing.
+
+42.205  SANCTION.
+
+Violation of section 42.202 shall be punishable upon conviction by a fine of not
+more than $500 for a non-continuing violation and a fine of not more than $1000 for a continuing
+offense.  These penalties shall be in addition to any other remedies provided by law to Polk
+County.
+
+42.210  JURISDICTION.
+
+The Circuit Court and the Polk County Dog Board have concurrent jurisdiction of
+actions for the prosecution of violation of section 42.202.
+
+Cross Reference:     ORS Reference:
+Commercial Kennels, Sections 43.095 to 43.125 Rabies Control, ORS 433.340 to 433.390
+Dog license fees, Res. 06-14   Exotic animals and w ildlife, ORS 609.205; ORS 496.004
+Rules of Dog Control Board, Res. 90-12

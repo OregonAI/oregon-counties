@@ -1,0 +1,143 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-32-road-use-restrictions
+title: 'Chapter-32-Road-Use-Restrictions'
+doc_type: ordinance
+citation: 'Chapter-32-Road-Use-Restrictions'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3056/Chapter-32-Road-Use-Restrictions
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e86bdd134e7eaca9f24a2f235db99a1155f890afcd166132387d1db7f24eaf5e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 810.010
+    - ORS 811.100
+    - ORS 818.130
+    - ORS 818.140
+    - ORS 818.410
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-32-Road-Use-Restrictions (Chapter-32-Road-Use-Restrictions)
+
+## At a glance
+
+Chapter-32-Road-Use-Restrictions — code of Polk County. 3 pages.
+
+## Full text
+
+32-1
+ CHAPTER 32 1998
+
+ ROAD USE RESTRICTIONS
+
+ 32.105  AUTHORITY.
+
+ Pursuant to ORS 810.010, and except as othe rwise prohibited, the Polk County Public
+Works Director is designated as the co-road authority with the Polk County Board of
+Commissioners for all Polk County roads outside the boundaries of an incorporated city. [Ord. 98-11]
+
+ 32.110  DEFINITIONS.
+
+ As used in Sections 32.105 to 32.125, unless the context requires otherwise:
+
+(1) "Board" means the Polk County Board of Commissioners.
+
+(2) "Road Authority" means the Polk County Public Works Director, unless prohibited
+by law, in which case it means the Polk County Board of Commissioners.
+
+(3) "Vehicle" means any device in, on, or by wh ich any person or property is or may be
+transported or drawn on a County road, and includes vehicles propelled or powered by any means.
+[Ord. 87-13, Sec. 1]
+
+ 32.115  IMPOSING USE RESTRICTIONS; VIOLATION; LIABILITY.
+
+ (1) The Road Authority by order may impose restrictions described in this section on
+Polk County roads as the Road Authority determines necessary:
+
+  (a) To protect any road or a portion of a road from being unduly damaged; or
+
+  (b) To protect the interest and safety of the general public.
+
+ (2) Restrictions imposed under this sec tion may include any one or more of the
+following:
+
+  (a) Prohibiting operation of any or all vehicles, or classes or kinds of vehicles.
+
+  (b) Imposing limits on any other restrictions the Board determines necessary to
+achieve the purposes of this section. However, the Road Authority shall not
+impose speed restrictions under this paragraph.
+
+ (3) Restrictions or limitations imposed under this section are effective when appropriate
+signs giving notice of the restrictions or limitations are erected. Signs giving such notice shall be
+maintained in a conspicuous manner and shall be placed at each end of the road or portion of road
+affected by the order, and at such other places as necessary to inform the public.
+
+ (4) As provided under ORS 818.130, but subject to exemptions under ORS 818.140,
+violation of posted restrictions or limitations on use of a road is a Class "C" Traffic Infraction, and
+may subject the offender to civil liability under ORS 818.410 for all damage done as a result of the
+
+ 32-2
+violation. [Ord. 87-13, Sec. 1]
+
+ 32.120  DESIGNATING TEMPORARY SPEED LIMITS.
+
+ (1) The Board, with respect to the Polk C ounty roads, may designate speeds for vehicles
+on any portion of a road:
+
+  (a) On which temporary conditions constituting a danger to the public exist; or
+
+  (b) Above, below, or on which constr uction or maintenance work is being
+carried on so close to the roadway as to be a danger to passing traffic or to be
+endangered by passing traffic.
+
+ (2) A designation imposed under this section is effective when specified in writing by a
+majority of the Board members and appropriate signs giving notice of the designation are erected.
+Signs giving such notice shall be maintained in a conspicuous manner and shall be placed at each
+end of the portion of road affected by the order, and at such other places as necessary to inform the
+public.
+
+ (3) The operation of a vehicle in excess of any speed designated under this section is
+prima facie evidence of violation of the basic speed rule under ORS 811.100 and 811.105
+constituting a Class "B" Traffic Infraction. [Ord. 87-13, Sec. 1; amended by Ord. 89-9, Sec. 1]
+
+ 32.125  EMERGENCY ACTIONS.
+
+ (1) In the event of circumstances which c onstitute an immediate danger to the public or
+an immediate threat of undo damage to a Polk County road, the Polk County Public Works Director
+or Roadmaster may proceed to erect signs im posing restrictions and limitations under Section
+32.115, or speed designations under Section 32.120, or both. As soon as practicable, the Public
+Works Director or Roadmaster shall notify the Board of this action, stating the reasons.
+
+ (2) A majority of the Board members in writing may ratify, modify, or terminate the
+emergency action.
+
+ (3) The penalties and liabilities specified  in Sections 32.115 and 32.120 apply with
+respect to emergency actions under Subsection (1) of this section. [Ord. 87-13, Sec. 1; amended by
+Ord. 89-9, Sec. 2]
+
+Cross References: Bridges on various roads, Order No. 90-19
+
+   Collins Road Bridge, Order No. 89-23
+
+ 32-3
+   Load Limited Bridges, Order No. 93-25

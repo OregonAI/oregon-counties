@@ -1,0 +1,80 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/klamath-county
+id: klamath-policies-non-union-salaried-2026-2027-salary-table
+title: 'Non-Union-Salaried-2026-2027-Salary-Table'
+doc_type: policy
+citation: 'Non-Union-Salaried-2026-2027-Salary-Table'
+authority_level: county_policy
+issuing_body: 'Klamath County Board of Commissioners'
+source_url: https://www.klamathcounty.org/DocumentCenter/View/63595/Non-Union-Salaried-2026-2027-Salary-Table
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 37827f263228e6897c27a4822b2057afc1cde2754fb5fc081ce1047f05612361
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [klamath-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Klamath County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Non-Union-Salaried-2026-2027-Salary-Table (Non-Union-Salaried-2026-2027-Salary-Table)
+
+## At a glance
+
+Non-Union-Salaried-2026-2027-Salary-Table — policies of Klamath County. 1 pages.
+
+## Full text
+
+GRADE
+STEP 1
+Merit
+STEP 2
+Merit
+STEP 3
+Merit
+STEP 4
+Merit
+STEP 5
+Merit
+STEP 6
+Merit STEP 7 Merit
+UF21 $4,205.96 $4,392.68 $4,587.67 $4,800.41 $5,009.58 $5,240.02 $5,472.84
+UF22 $4,412.78 $4,612.50 $4,819.32 $5,039.12 $5,261.29 $5,498.84 $5,747.01
+UF23 $4,634.95 $4,842.95 $5,060.39 $5,289.66 $5,530.75 $5,778.91 $6,036.53
+UF24 $4,864.22 $5,086.39 $5,315.66 $5,553.20 $5,801.36 $6,063.73 $6,339.08
+UF25 $5,107.67 $5,338.11 $5,579.19 $5,830.90 $6,094.45 $6,367.44 $6,656.98
+UF26 $5,367.66 $5,609.92 $5,861.64 $6,125.18 $6,395.80 $6,686.52 $6,987.88
+UF27 $5,635.92 $5,887.63 $6,152.35 $6,431.26 $6,716.07 $7,018.60 $7,338.87
+UF28 $5,912.46 $6,183.09 $6,457.25 $6,750.34 $7,050.52 $7,368.42 $7,706.40
+UF29 $6,210.26 $6,493.89 $6,785.79 $7,088.34 $7,403.86 $7,738.31 $8,090.48
+UF30 $6,521.07 $6,814.16 $7,119.06 $7,444.05 $7,776.13 $8,123.58 $8,489.92
+UF31 $6,848.42 $7,156.88 $7,479.51 $7,817.48 $8,166.11 $8,533.65 $8,918.91
+UF32 $7,191.14 $7,516.14 $7,851.77 $8,206.30 $8,569.10 $8,961.45 $9,363.26
+UF33 $7,549.22 $7,891.95 $8,244.11 $8,616.38 $9,000.46 $9,405.80 $9,833.61
+UF34 $7,928.57 $8,285.47 $8,655.38 $9,046.55 $9,450.72 $9,880.88 $10,322.87
+ UF35 $8,325.65 $8,699.10 $9,087.90 $9,499.17 $9,922.23 $10,374.87 $10,839.32
+ UF36 $8,742.83 $9,134.00 $9,542.90 $9,974.24 $10,418.60 $10,893.67 $11,380.56
+ UF37 $9,179.96 $9,590.69 $10,020.03 $10,472.96 $10,939.52 $11,438.35 $11,949.59
+ UF38 $9,638.96 $10,070.23 $10,521.05 $10,996.61 $11,486.50 $12,010.27 $12,547.07
+UF39 $10,120.91 $10,573.74 $11,047.10 $11,546.44 $12,060.82 $12,610.78 $13,174.42
+UF40 $10,626.95 $11,102.42 $11,599.45 $12,123.76 $12,663.86 $13,241.32 $13,833.15
+UF41 $11,158.30 $11,657.54 $12,179.42 $12,729.95 $13,297.05 $13,903.38 $14,524.80
+NON-UNION
+Full-Time and Half-Time
+Salaried, FLSA Exempt
+Effective July 1, 2026    2% COLA

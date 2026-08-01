@@ -1,0 +1,154 @@
+CHAPTER VIII  SURVEYING STANDARDS
+ARTICLE 8.1 SURVEYING STANDARDS
+SECTION 8.1.100 SURVEYING PROFILES:
+1. A profile of each proposed street or road shall be submitted using current survey
+standards and scale as approved by the County Surveyor. The drawings shall include the
+following features:
+a. Existing ground profile along the centerline shown in black India ink with dashed
+line.  Such profile will include the lowest elevation of creeks or canyons as they
+cross the centerline as well as the high point of ridges as they cross the centerline.
+The proposed name of the street or road shall be clearly indicated.  Profile may be
+taken from accurate contour lines of the preliminary plan when profile
+accompanies the preliminary plan; and
+b. Proposed centerline grades shown by a solid dark line.
+
+2. Profile Graphic Standards:
+a. Grades shall be labeled on all tangents and vertical curves, data to be expressed to
+nearest 0.10% of grade.
+b. Stations shall be numbered along the bottom of each profile at each 100 foot
+station.
+c. Stations of intersecting streets shall be shown on the profile.
+d. Elevations shall be numbered every 10 feet at each end of the profile.
+e. Vertical curves shall be shown by a solid line and labeled with the length of the
+curve.
+f. Title of the profile shall be placed in the upper left corner of the profile sheet
+including all of the following:
+i. Plat name;
+ii. Identification as a profile sheet;
+iii. Scale, horizontal and vertical;
+iv. Vertical datum; and
+v. Stamp of surveyor or engineer preparing the profile.
+g. Approximate locations and elevations of culverts, drain pipes, or utility pipes or
+lines buried in the right-of-way shall be shown.
+
+SECTION 8.1.125 SURVEY CROSS SECTIONS:
+1. Cross-sections for each proposed street or road shall be submitted using current survey
+standards. Cross-sections shall be shown at:
+a. Each and every 100 foot-station;
+b. Intermediate stations where there is a distinct or radical change from cut to fill;
+c. Intermediate points of critical concern, such as at extremely deep fills, high cuts
+or at existing or proposed driveways or buildings;
+d. The widest part of a vehicle turnaround;
+e. Existing ground elevations, shown with dashed line.  When cross-sections are for
+preliminary plat the existing ground may be scaled from accurate 5 foot contours
+on the preliminary plan;
+f. Proposed subgrade and finished grade of roadway, ditches, cuts and fills,
+conforming to the standard cross-sections must conform to Section 7.2.200; and
+g. Location of approximate depth of culverts, drainage pipes or utility pipes or lines
+that may be buried.
+
+2. Cross-Section Graphic Standards:
+a. Existing centerline elevation shown directly beneath centerline of cross-section.
+b. Station designation shown below centerline elevation;
+c. Original ground elevations shall be shown at least 30 feet outside required right-
+of-way;
+d. Title of cross-sections shall be placed in upper left corner of the cross-section
+sheet including:
+i. Plat name;
+ii. Identification as cross-section sheet;
+iii. Scale, horizontal and vertical;
+iv. Vertical datum used; and
+v. Stamp of surveyor or engineer preparing the cross-section.
+e. Overlapping of cross-sections will be avoided when possible.
+
+SECTION 8.1.150 SURVEY DIMENSIONS:  The following methods and dimensions shall be
+the minimum requirements on final plats and shall be shown on the face of the map itself.
+1. Plat Boundaries:
+a. Bearings of line to the nearest second; and
+b. Distance to the nearest one-hundredth of a foot.
+2. Centerline of Streets:
+a. Bearings to the nearest second; and
+b. Distance to the nearest one-hundredth of a foot.
+3. Lot Lines:
+a. Bearings to the nearest second; and
+b. Distance to the nearest one-hundredth of a foot.
+4. Curve Portions of a Lot Line:
+a. Central angle to the nearest second;
+b. Radius to the nearest one-hundredth of a foot;
+c. Arc Length to the nearest one hundredth of a foot;
+d. Long Chord bearing to the nearest second;
+e. Long Chord distance to the nearest one hundredth of a foot.
+5. Street Centerline Curve Data:
+a. Central angle to the nearest second;
+b. Radius to the nearest one hundredth of a foot;
+c. Arc Length to the nearest one hundredth of a foot ;
+d. Long Chord bearing to the nearest second; and
+e. Long Chord distance to the nearest one hundredth of a foot.
+6. Bearings and angles shall be shown with symbols as indicated below:
+a. Degree Symbol °
+b. Minute symbol ‘
+c. Second symbol “
+7. Linear dimensions shown as in most common survey practice with numbers and decimals
+only, avoiding excessive and unnecessary use of dimensional arrows.
+
+SECTION 8.1.200 SURVEY CALCULATIONS: The following calculations shall be
+submitted with the final plat to the County Surveyor:
+1. Coordinates and closures (all points on):
+a. Plat boundary;
+
+b. Street centerline;
+c. Block boundary; and
+d. Individual Lot and all other monuments.
+2. Total acreage within the plat boundary;
+3. Specifications for calculations sheets:
+a. All calculations will be properly indexed;
+b. Calculation sheets will be either 8 ½” x 11”; [or]
+c. 8 ½” x 14”.
+d. no unnecessary printed, lettered, or written information shall appear on
+calculation sheets except that which has to do with the calculation of the survey of
+the subdivision.
+4. Traverse sheets shall contain, in the following order:
+a. Point # or lot corner, etc;
+b. Angle (when appropriate);
+c. Bearing;
+d. Horizontal distance;
+e. North coordinate; and
+f. East coordinate.
+5. Minus coordinates will not be accepted.
+6. One set of coordinates will be used throughout the plat.
+7. Digital copies in the above described format may be accepted by the County Surveyor if
+properly indexed, labeled, and explained.
+
+SECTION 8.1.225 STANDARDS OF SURVEY ACCURACY:   The survey for the plat of the
+subdivision or partition shall be of such accuracy that the linear error of closure shall not exceed
+one foot in 10,000 feet and shall conform to all other minimum requirements of State law.
+
+SECTION 8.1.250 BENCHMARKS:
+1. At least one temporary benchmark shall be established within certain subdivisions (See
+Subsection 7 below)
+2. Elevation datum shall be based on mean sea level based on the currently accepted datum.
+3. Benchmarks shall be of such durable construction that the elevation is not likely to
+change unless the mark is destroyed.  See specifications in § 6.2.650(5)(v)..
+4. The permanent benchmark from which elevation is obtained shall be described in the
+survey calculations to be submitted with the preliminary plan or tentative map:’
+a. Name or letter designation;
+b. Published elevation;
+c. Name of agency establishing mark; and
+d. Location, including narrative and diagram.
+
+5. A benchmark based on the current vertical  data from a permanently established and
+published benchmark shall be required for subdivisions:
+a. Within an urban growth boundary;
+b. Within one-half mile of a city limits;
+c. Within one-half mile of an urban growth boundary;
+d. In a designated floodplain; or
+e. In subdivisions where extensive public quasi-public sewer systems are planned.
+
+6. Method for the establishment of this benchmark shall be submitted to the County
+Surveyor for review and approval.
+
+SECTION 8.1.275 RESPONSIBILITY FOR DETERMINING COMPLIANCE WITH
+THIS CHAPTER:  The Coos County Surveyor shall be responsible for determining compliance
+with the provisions of this Chapter and, as appropriate, provide a written statement to the
+Planning Director indicating that the provisions of this Chapter have been satisfied with respect
+to an application under review.

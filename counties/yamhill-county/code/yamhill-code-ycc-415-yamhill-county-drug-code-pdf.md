@@ -1,0 +1,251 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-415-yamhill-county-drug-code-pdf
+title: 'YCC-415-YAMHILL-COUNTY-DRUG-CODE-PDF'
+doc_type: ordinance
+citation: 'YCC-415-YAMHILL-COUNTY-DRUG-CODE-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/5189/YCC-415-YAMHILL-COUNTY-DRUG-CODE-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a56f33c0e2285e3d7b6000ca5299789f630cc826e186209f887c7aaaba905917
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 153.110
+    - ORS 153.220
+    - ORS 161.015
+    - ORS 475.035
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-415-YAMHILL-COUNTY-DRUG-CODE-PDF (YCC-415-YAMHILL-COUNTY-DRUG-CODE-PDF)
+
+## At a glance
+
+YCC-415-YAMHILL-COUNTY-DRUG-CODE-PDF — code of Yamhill County. 5 pages.
+
+## Full text
+
+Chapter 4.15: Yamhill County Drug Code  Page 1 of 5
+
+TITLE 4: PUBLIC PEACE, MORALS, AND WELFARE
+
+Chapter 4.15: Yamhill County Drug Code
+
+TABLE OF CONTENTS
+Section Title
+4.15.01 DEFINITIONS
+4.15.02 FACTORS CONSIDERED IN DETERMINING PARAPHERNALIA
+4.15.03 OFFENSES AND PENALTIES; AFFIRMATIVE DEFENSE
+4.15.04 NUISANCE, SEIZURE OF PARAPHERNALIA
+4.15.05 INFRACTION PROCEDURE; JURISDICTION; VENUE; PROSECUTION
+4.15.06 SEVERABILITY CLAUSE
+
+LEGISLATIVE HISTORY
+
+4.15.01 Definitions.
+a) A “controlled substance” means a drug or its immediate precursor classified in Schedules I through V under
+the Federal Controlled Substances Act, 21 U.S.C. Sections 811 to 812, as modified under ORS 475.035. For
+purposes of this ordinance, a “controlled substance” also includes marijuana as defined in this section.
+b) “Deliver” or “delivery” means the actual, constructive, or attempted transfer, other than by administering or
+dispensing, from one person to another of a  controlled substance, whether or not there is an agency
+relationship.
+c) The term “drug paraphernalia” means all equipment, products, and materials of any kind which are used,
+intended for use, or designed for use, in planting, propagating, cultivating, growing, harvesting,
+manufacturing, compounding, converting, producing, processing, preparing, testing, analyzing, packaging,
+repackaging, storing, containing, concealing, injecting, ingesting, inhaling, or otherwise introducing into the
+human body a controlled substance in violation of the laws of this state. It includes, but is not limited to:
+(i) Kits used, intended for use, or designed for use in planting, propagating, cultivating, growing or
+harvesting of any species of plant which is a  controlled substance or from which a controlled
+substance can be derived;
+(ii) Kits used, intended for use, or designed for use in manufacturing, compounding, converting,
+producing, processing, or preparing controlled substances;
+(iii) Isomerization devices used, intended for use, or designed for use in increasing the potency of any
+species of plant which is a controlled substance;
+(iv) Testing equipment used, intended for use, or designed, for use in weighing or measuring controlled
+substances;
+(v) Scales and balances used, intended for use, or designed for use in weighing or measuring controlled
+substances;
+Chapter 4.15: Yamhill County Drug Code  Page 2 of 5
+(vi) Diluents and adulterants such as quinine hydrochloride, mannitol, mannite, dextrose and lactose,
+used, intended for use, or designed for use in cutting controlled substances;
+(vii) Separation gins and sifters used, intended for use, or designed for use in removing twigs and seeds
+from, or in otherwise cleaning or refining, marijuana;
+(viii) Blenders, bowls, containers, spoons and mixing devices used, intended for use, or designed for use
+in compounding controlled substances;
+(ix) Capsules, balloons, envelopes and other containers used, intended for  use, or designed for use in
+packaging small quantities of controlled substances;
+(x) Containers and other objects used, intended for use, or designed for  use in storing or concealing
+controlled substances;
+(xi) Hypodermic syringes, needles and other objects used, intended for use, or designed for use in
+parenterally injecting controlled substances into the human body;
+(xii) Objects used, intended for use, or designed for use in ingesting inhaling or otherwise introducing
+marijuana, cocaine, hashish, or hashish oil into the human body such as:
+1. Metal, wooden, acrylic, glass, stone, plastic, or ceramic pipes wit h or without screens,
+permanent screens, hashish heads, or punctured metal bowls;
+2. Water pipes;
+3. Carburetion tubes, pipes, devices or masks;
+4. Roach clips, meaning objects used to hold burning material such as marijuana cigarette, that
+has become too small or too short to be held in the hand;
+5. Miniature cocaine spoons and cocaine vials;
+6. Chamber pipes;
+7. Electric pipes;
+8. Air-driver pipes;
+9. Chillums;
+10. Bongs;
+11. Ice pipes and chillers.
+d) “Marijuana” means all parts of the plant Cannabis family Moraceae, whether growing or not; the resin
+extracted from any part of the plant; and every compound, manufacture, salt, derivative, mixture, or
+preparation of the plant or its resin. It does not include the mature stalks of the plant, fiber produced from the
+stalks, oil or cake made from the seeds of the plant, any other compound, manufacture, salt, derivative,
+mixture, or preparation of the mature stalks (except the resin e xtracted therefrom), fiber oil, or cake, or the
+sterilized seed of the plant which is incapable of germination.
+e) “OMMA” means the Oregon Medical Marijuana Act ( “the Act”) of 1998 as approved by the voters of the
+State of Oregon as Ballot Measure 67 on Novem ber 3, 1997, or the Act as it may be subsequently amended
+by the People or the Legislature.
+[ADOPTED VIA ORDINANCE NO. 594 eff 09/27/95; AMENDED VIA ORDINANCE NO. 666 eff 01/28/99]
+
+4.15.02 Factors Considered in  Determining Paraphernalia . In determining whether an object is drug
+paraphernalia, a court or other authority shall consider, in addition to all other logically relevant factors, the
+following:
+a) Statements by an owner or by anyone in control of the object concerning its use;
+b) Prior convictions, if any, of an owner or of anyone in control of the object, under any municipal, state, tribal
+or federal law relating to any controlled substance;
+c) The proximity of the object in time and space to a direct violation of this  chapter of the State Uniform
+Controlled Substances Act;
+d) The proximity of the object to controlled substances;
+e) The existence of any residue of controlled substances on the object;
+f) Direct or circumstantial evidence of the intent of an owner, or of anyone in control of the object, to deliver it
+to persons whom he knows intends to use the object to facilitate a violation of municipal or state law; the
+innocence of an owner, or of anyone in control of the object, as to a violation of this law or state law shall not
+prevent a finding that the object is intended for use, or designed for use as drug paraphernalia;
+Chapter 4.15: Yamhill County Drug Code  Page 3 of 5
+g) Instructions, oral or written, provided with the object concerning its use;
+h) Descriptive materials accompanying the object which explain or depict its use;
+i) National and local advertising concerning its use;
+j) The manner in which the object is displayed for sale;
+k) Whether the owner, or anyone in control of the object is a legitimate supplier of like or related items to the
+community, such as a licensed distributor or dealer or tobacco products;
+l) Direct or circumstantial evidence of the ratio of sales of the object(s) to the total sales of the business
+enterprise;
+m) The existence and scope of legitimate uses for the object in the community;
+n) Expert testimony concerning its use.
+[ADOPTED VIA ORDINANCE NO. 594 eff 09/27/95]
+
+4.15.03 Offenses and Penalties; Affirmative Defense.
+a) Possession of Drug Paraphernalia. It is unlawful within the unincorporated area of Yamhill County or within
+the city limits of any city whose governing body has consented to the application of this ordinance for any
+person to use, or to possess with intent to use, drug paraphernalia to plant, propagate, cultivate, grow, harvest,
+manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain,
+conceal, inject, ingest, inhale, or otherwise introduce into the human body a controlled substance unless the
+controlled substance is possessed under prescription of a licensed medical practitioner authorized to prescribe
+or dispense drugs in the State of Oregon. Any person who violates this subsection is guilty of an infraction
+and upon conviction may be fined not more than $500. Upon conviction, a law enforcement agency shall
+destroy any drug paraphernalia seized as evidence to support the conviction.
+b) M
+anufacture or Delivery of Drug Paraphernalia. It is unlawful within the unincorporated area of Yamhill
+County or within the city limits of any city whose governing body has consented to the application of this
+ordinance for any person to deliver, possess with intent to deliver, or manufacture with intent to deliver drug
+paraphernalia, knowing that it will be used to plant, propagate, cultivate, grow, harvest, manufacture,
+compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, inject,
+ingest, inhale, or otherwise introduce into the human body a controlled substance unless the controlled
+substance is possessed under prescription of a licensed medical practitioner authorized to prescribe or dispense
+drugs in the State of Oregon. Any person who violates this subsection is guilty of an infraction and upon
+conviction may be fined not more than $500. Upon conviction, a law enforcement  agency shall destroy any
+drug paraphernalia seized as evidence to support the conviction.
+c) A
+dvertisement of Drug Paraphernalia . It is unlawful within the unincorporated area of Yamhill County or
+within the city limits of any city whose governing body has consented to the application of this ordinance for
+any person to place in any newspaper, magazine, handbill, or other publication any advertisement, knowing
+that the purpose of the advertisement, in whole or in part, is to promote the sale of objects designed or intended
+for use as dru g paraphernalia. Any person who violates this subsection is guilty of an infraction and upon
+conviction may be fined not more than $500.
+d) P
+ossession of Marijuana in County Park or within 1,000 Feet of County Park. Possession of Marijuana in
+County Park or within 1,000 Feet of County Park. It is unlawful within the unincorporated area of Yamhill
+County or within the city limits of any city whose governing body has consented to the application of this
+ordinance for an y person to possess less than one avoirdupois ounce of marijuana within a county park or
+within 1,000 feet from the boundary of any county park. A “ county park” is any park owned or leased by
+Yamhill County, Oregon and designated as a county park. Any person who violates this subsection is guilty
+of an infraction and upon conviction may be fined not more than $500.
+e) P
+ossession of Less than One Ounce of Marijuana Seed. It is unlawful within the unincorporated area of
+Yamhill County or within the city limits o f any city whose governing body has consented to the application
+of this ordinance for any person knowingly or intentionally to possess less than one avoirdupois ounce of seed
+of marijuana.
+f) A ffirmative Defenses.
+Chapter 4.15: Yamhill County Drug Code  Page 4 of 5
+(i) Except as provided in subsection ( v), it is an affirmative defense to a prosecution under Section
+4.15.03(a) that the person possessing drug paraphernalia establishes that the drug paraphernalia
+was used or intended to be used solely to:
+1. ingest marijuana as a valid medical use in accordance with the OMMA, or where the defendant
+is a “caregiver” within the meaning of the OMMA, or
+2. the drug paraphernalia was possessed on behalf of a person entitled to use marijuana  in
+accordance with the OMMA.
+(ii) Except as provided in subsection ( v), it is an affirmative defense to a prosecution under Section
+4.15.03(d) that the person possessing less than one ounce of marijuana in a county park possesses
+the marijuana solely to:
+1. be ingested as a valid medical use in accordance with the OMMA, or
+2. where the defendant is a “ caregiver” within the meaning of the OMMA, the  marijuana was
+possessed on behalf of a person entitled to use marijuana in accordance with the OMMA.
+(iii) It is an affirmative defense to a prosecution under Section 4.15.03(e) that the person possessing
+the marijuana seeds possessed them solely to manufacture marijuana for a person entitled to ingest
+marijuana as a valid medical use in accordance with the OMMA.
+(iv) It is an affirmative defense to a prosecution under Section 4.15.03(e) of this ordinance if the
+marijuana seed is incapable of germination.
+(v) No affirmative defense is available under this section if the person engaged in the prohibited
+conduct in a public place as the term is defined in ORS 161.015(10), 1997 replacement part, or in
+public view.
+(vi) When an affirmative defense described in subsections ( i) or (ii) is raised at a trial, the defendant
+has the burden of proving the defense by a preponderance of the evidence.
+[ADOPTED VIA ORDINANCE NO. 594 eff 09/27/95; AMENDED VIA ORDINANCE NO. 63 6 eff 02/04/1998; AMENDED VIA ORDINANCE NO. 666 eff
+01/28/99]
+
+4.15.04 Nuisance, Seizure of Paraphernalia. Drug paraphernalia are declared to be a public nuisance. Any peace
+officer shall summarily seize any such paraphernalia and shall deliver it to the sheriff who shall hold it subject to
+the order of the court.
+[ADOPTED VIA ORDINANCE NO. 594 eff 09/27/95]
+
+4.15.05 Infraction Procedure; Jurisdiction; Venue; Prosecution.
+a) Infraction Procedure. A violation of s ubsection (a), (b), (c), (d) or (e) of Section 3 is an infraction. Citations
+shall be issued and court procedures followed that are in accord with ORS 153.110 to 153.310 and 153.990,
+1993 replacement part.
+b) J urisdiction . Jurisdiction for infractions arising under this ordinance is  vested as provided in ORS 153.220,
+1993 replacement part.
+c) V enue . An action for an infraction arising under this ordinance shall be commenced in Yamhill County,
+including any offense committed on any body of water located in or adjacent to Yamhill County.
+d) P rosecution. At any trial involving an infraction arising under this ordinance only, the prosecuting attorney
+may aid in preparing evidence and obtaining witnesses but shall not appear unless counsel for the defendant
+appears. As used in this subsection, the  “prosecuting attorney” includes the district attorney, a city attorney,
+or the county counsel.
+[ADOPTED VIA ORDINANCE NO. 594 eff 09/27/95; AMENDED VIA ORDINANCE NO. 636 eff 02/04/1998]
+
+4.15.06 Severability Clause. All sections, subsections and paragraphs of this ordinance are severable. If any
+section, subsection or paragraph is ruled invalid for any reason by the court of last resort, the other portions of
+this ordinance shall be unaffected.
+[ADOPTED VIA ORDINANCE NO. 594 eff 09/27/95]
+
+LEGISLATIVE HISTORY
+
+Chapter 4.15: Yamhill County Drug Code  Page 5 of 5
+Adopted via Ordinance No. 594 on 06/28/95, effective 09/27/95
+ Amended via Ordinance No. 636 on 11/06/1997, effective 02/04/1998
+ Amended via Ordinance No. 666 on 01/28/1999, effective 01/28/1999

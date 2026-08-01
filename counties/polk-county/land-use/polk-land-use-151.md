@@ -1,0 +1,244 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-151
+title: '151'
+doc_type: ordinance
+citation: '151'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4510/151
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 114506b15d1f35d22ddb7b88c4ff89794dd1fcc4ee656759c45ba878f3d09e1c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 151 (151)
+
+## At a glance
+
+151 — land use of Polk County. 6 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 151 (2009 update).doc                     151-1
+CHAPTER 151
+INDUSTRIAL COMMERCIAL (IC) ZONING DISTRICT
+151.010. Use
+151.020. Optional Business
+151.030. Department of Environmental Quality Approv al
+151.040. Uses Subject to Administrative Review
+151.050. Conditional Uses
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 151 (2009 update).doc                     151-2
+151.010.  USE.   Within any IC, Industrial Commercial Zone, no building, structure, or premises
+shall be used, enlarged or designed to be used, erected, structurally altered, or enlarged except for
+one or more of the following uses:
+(A) Any use permitted in the CR or CG Zone.
+(B) Industrial Uses:
+(1) Appliances, office and electrical product equip ment manufacturing:
+(a) Battery manufacture
+(b) Communications equipment
+(c) Electrical industrial apparatus
+(d) Electric lighting and wiring equipment
+(e)  Electric transmission and distribution equipme nt
+(f) Electronic components and accessories
+(g) Household appliances
+(h) Radio and TV receiving sets
+(2) Leather and leather products manufacture:
+(a) Boot and shoe cut stock and findings
+(b) Footwear except rubber
+(c) Handbags and other personal leather goods
+(d) Industrial leather belting and packing
+(e) Leather gloves and mitten
+(f) Leather tanning and finishing
+(g) Luggage
+(3) Metal fabricated products manufacture:
+(a) Cutlery, handtools and general hardware
+(b) Fabricated metal products
+(c) Fabricated structural metal products
+(d) Fabricated wire products
+(4) Printing, publishing and allied industries:
+(a) Books
+(b) Book binding and related industries
+(c) Commercial printing
+(d) Greeting card manufacturing
+(e) Manifold business forms manufacturing
+(f) Newspapers, publishing, printing
+(g) Periodicals, publishing, printing
+(5) Professional, scientific and controlling equipm ent manufacturing:
+(a) Engineering, laboratory and scientific and rese arch instruments and
+associated equipment
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 151 (2009 update).doc                     151-3
+(b)  Instruments for measuring, indicating and controlling physical
+characteristics
+(c)  Optical equipment, instruments, lenses
+(d) Surgical, medical and dental instruments and su pplies, except
+pharmaceuticals (see Chemicals)
+(e) Watches, clocks, clockwork operated devices and  parts
+(6) Rubber and allied products manufacturing:
+(a) Fabricated rubber and plastic products
+(b) Reclaimed rubber products
+(c) Rubber and plastic footwear
+(d) Tire and inner tube manufacturing
+(e) Tire recapping
+(7) Textile products manufacture:
+(a) Broad woven fabric mills, cotton
+(b) Broad woven fabric mills, man-made fiber and si lk
+(c) Broad woven fabric mills, wool-including dyeing  and finishing
+(d) Dyeing and finishing textiles
+(e) Floor covering mills
+(f) Knitting mills, hosiery, outwear, underwear, kn it fabrics
+(g) Narrow fabrics and other small ware mills, cott on, wool, silk, and man-
+made fibers
+(h) Yarn and thread mills
+(8) Textiles and apparel manufacture and fabricatio n of textile products:
+(a) Wearing apparel, hats and millinery, and fur go ods
+(b) Fabrication of household textile products
+(c) Fabrication of outdoor textile products (tents,  awnings, canopies, vehicle
+tops, seat covers, etc.)
+(9) Textiles and apparel - other facilities:
+(a) Cleaning and dyeing plants
+(b) Laundry plant
+(c) Storage of fur and clothing
+(10) Tobacco processing:
+(a) Cigarettes
+(b) Cigars
+(c) Tobacco (chewing, smoking, snuff)
+(d) Tobacco stemming and drying
+(11) Transportation equipment, manufacture and repa ir:
+(a) Aircraft and parts
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 151 (2009 update).doc                     151-4
+(b) Aircraft and parts dealers, distributor
+(c) Boat and watercraft building and repair
+(d) Boat and watercraft sales and service
+(e) Boat and watercraft moorages and marinas
+(f) Motor vehicles and motor vehicle equipment
+(g) Manufacture of special use vehicles (sanitary t rucks, vans, etc.)
+(h) Manufacture of parts and accessories
+(i) Motor freight depots
+(j) Rental and storage
+(k) Repair garage
+(l) Body and fender shops
+(m) Towing
+(n) Service stations
+(o) Auto laundries, washing and polishing
+(p) Motor cycles, bicycles and parts
+(12) Other uses:
+(a) Metal working equipment and machinery manufactu ring wholly within a
+building
+(b) Warehouses
+(c) Wholesale firms
+(d) Utilities - primary equipment and storage yard
+(e) Well drilling pump repair facilities
+[Amended by Ordinance 128]
+(f) Transportation Improvements   [Amended by Ordinance 01-01]
+(C) Wind energy systems, meteorological towers, and  photovoltaic systems that are not
+commercial power generating facilities, but not including wind energy systems
+utilizing a tower and meteorological towers that require tower lighting, are located in
+an adopted urban growth boundary, or that would require modification to the height
+or type of construction standards described in Section 112.135(C)(1).  Wind energy
+systems utilizing towers and meteorological towers are subject to standards listed in
+Sections 112.135 and 112.137. Roof-mounted, building-integrated, building-
+mounted and architectural wind energy systems that extend no more than an
+additional 5 feet above the highest ridge of the building’s roof or 15 feet above the
+highest eave, whichever is higher, and do not exceed the height limitation of the
+zone, are subject to the standards listed in Section 112.137. Photovoltaic systems are
+subject to the standards described in Section 112.138.  [Amended by Ordinance 09-06]
+151.020.  OPTIONAL BUSINESS.   Those businesses set forth in Section 141.040 and 142.040
+shall be permitted in an IC Zone under like restrictions.
+151.030.  DEPARTMENT OF ENVIRONMENTAL QUALITY APPROVAL.   The
+following uses are allowed, subject to approval of the Department of Environmental Quality.
+[Amended by Ordinance 89-17]
+(A) Chemicals, fertilizers, insecticides, paint and  allied products manufacturing:
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 151 (2009 update).doc                     151-5
+(1) Agricultural chemicals
+(2) Gum and wood chemicals
+(3) Industrial inorganic and organic chemicals
+(4) Laboratories (feed and seed, soil testing)
+(5) Paints, varnishes, lacquers, enamels and allied  products
+(6) Perfumes, cosmetics and other toilet preparatio ns
+(7) Plastic materials, and synthetic resins, synthe tic rubber, synthetic and other
+man-made fibers, except glass
+(8) Soaps, detergents and cleaning preparations
+(9) Pharmaceuticals
+(B) Food, Grain, Feed and Derivative Products Proce ssing:
+(1) Bakery products
+(2) Canning, drying, freezing, preserving, fruits, vegetables, sea foods
+(3) Coffee processing
+(4) Confectionery and related products (candy, choc olate, chewing gum)
+(5) Beverage industries (beer, wine, liquor, soft d rinks, including bottling,
+flavoring extracts, etc.)
+(6) Dairy products (butter making, creamery, cheese s making, ice cream, milk
+processing)
+(7) Frozen food, cold storage locker and ice plants
+(8) Grain mill products (flour, prepared animal's f eed, cereals, etc.)
+(9) Grain elevators, storage
+(C) Furniture and Fixtures - Manufacturing:
+(1) Custom cabinet, carpenter shop
+(2) Furniture repair, re-upholstery
+(3) Household furniture
+(4) Metal plating operations
+(5) Plumbing fixtures
+(6) Silverware and plated ware
+(D) Machinery Manufacturing:
+(1) Office, computing, accounting equipment
+(E) Paper and Allied Products - Assembly:
+(1) Paperboard containers and boxes
+(F) Transportation Equipment, Manufacture and Repai r:
+(1) Motor vehicle and equipment painting
+(G) Other uses:
+(1) Sign construction and painting shop, contained wholly within a building
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 151 (2009 update).doc                     151-6
+151.040.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+(A)  Wind energy systems utilizing a tower and meteorological towers outside of an
+adopted urban growth boundary that are not commercial power generating facilities
+that would utilize a tower(s) that requires lighting or that requires modification to the
+height or type of construction standards described in Section 112.135(C)(1), as
+provided in Sections 112.135 and 112.137.  [Amended by Ordinance 09-06]
+151.050.  CONDITIONAL USES.   When authorized under the procedure provided for
+conditional uses in this ordinance, the following uses will be permitted in an IC Zone:
+(A) Any use permitted in Section 142.030.
+(B) Industrial Uses:
+(1) Chemicals, fertilizers, insecticides, paint and  allied products manufacturing:
+(a) Fertilizers
+(b) Insecticides
+(2) Metal fabricated products, manufacture:
+(a) Metal stampings
+(b) Screw machine products, and bolts, nuts, screws , rivets and washers
+(3) Machinery manufacturing:
+(a) Sawmill equipment
+(b) Service industry machines and equipment
+(4) Metal working shops:
+(a) Machine shop
+(5) Petroleum, petroleum products, provided all sto rage is underground
+(6) Wood and lumber and products processing, manufa cture and storage of:
+(a) Millwork (doors, windows, pre-cutting structure s)
+(b) Prefabricated structural wood products
+(c) Wooden containers
+(C) Wind energy systems utilizing a tower and meteo rological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.
+[Amended by
+Ordinance 09-06]

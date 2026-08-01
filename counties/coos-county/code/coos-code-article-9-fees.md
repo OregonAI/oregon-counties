@@ -1,0 +1,121 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/coos-county
+id: coos-code-article-9-fees
+title: 'Article 9 - Fees'
+doc_type: ordinance
+citation: 'Article 9 - Fees'
+authority_level: county_ordinance
+issuing_body: 'Coos County Board of Commissioners'
+source_url: https://co.coos.or.us/files/25d908c7f/article_9_-_fees.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5bfd2bf84f7ef263d24c639effc64cd6563c670d99ad2dd21359cd44bb628734
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.148
+    - ORS 209.070
+  related: []
+  supersedes: []
+tags: [coos-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Coos County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Article 9 - Fees (Article 9 - Fees)
+
+## At a glance
+
+Article 9 - Fees — code of Coos County. 4 pages.
+
+## Full text
+
+ARTICLE IX - Page 1
+ ARTICLE NINE – FEES
+
+[All Divisions of Article Nine were extensively revised by
+Ordinance 07-06-008L, effective June 27, 2007]
+
+DIVISION ONE - PROCEDURE FOR SETTING FEES
+
+SECTION 09.01.010  POLICY AND PURPOSE
+
+The Board of Commissioners finds that:
+ (1) Various State statutes and County ordinances
+provide for different means or are silent as to
+establishing fees for County services.
+ (2) A single procedure for establishing fees is
+desired and such procedure should encourage public
+input.
+
+SECTION 09.01.020  EXEMPTIONS
+
+This Division does not apply to fees established by State or
+Federal law or regulation.
+
+SECTION 09.01.030  PROCEDURES
+
+The following procedures shall apply to the establishment or
+amendment of fees for County services  unless otherwise
+exempted:
+ (1) All fees shall be established or amended by an
+Order of the Board.
+ (2) Before adopting an Order establishing or amending
+fees, a public hearing shall be held to allow all
+interested persons to attend and be heard.  Notice
+of the hearing shall be given by publication in a
+newspaper of general circulation in the County at
+least five (5) days before the public hearing.
+ (3) In establishing or amending fees, the Board shall
+consider the cost of service provided and such
+other factors the Board considers relevant.
+
+SECTION 09.01.035  COOS COUNTY FAIR FEES
+[Adopted April 20, 1994]
+
+Fees for the Coos County Fair shall be set following the
+procedures set forth in Section 09.01.030 except that for
+purposes of this section, "Board" and "Board of
+Commissioners" shall mean the "Coos County Fair Board" and
+"County" shall mean "Coos County Fair."
+
+ARTICLE IX - Page 2
+DIVISION TWO – RESERVED
+
+ARTICLE IX - Page 3
+DIVISION THREE - RESERVED
+
+ARTICLE IX - Page 4
+DIVISION FOUR - PUBLIC LAND CORNERS
+
+SECTION 09.04.010  FINDINGS
+
+The Board finds that certain government survey corners have
+been obliterated and that it is necessary to re -establish
+such corners and to main tain existing corners in order to
+preserve such corners for future reference.
+
+SECTION 09.04.020  PUBLIC LAND CORNER PRESERVATION
+     ACCOUNT
+
+A fund known as the "Public Land Corner Preservation Fund" is
+established for the purpose described in ORS 203.148.  All
+monies collected for this fund shall be deposited with the
+County Treasurer at least once each month to be credited to
+that fund.  Monies in the fund shall be used only to pay the
+expenses incurred or authorized by the County Surveyor in the
+establishment, re -establishment, and/or maintenance of
+government corners under ORS 209.070(5) and (6), and also to
+install or replace monuments in connection therewith.

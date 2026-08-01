@@ -1,0 +1,199 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-46-accelerated-foreclosures
+title: 'Chapter-46-Accelerated-Foreclosures'
+doc_type: ordinance
+citation: 'Chapter-46-Accelerated-Foreclosures'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3062/Chapter-46-Accelerated-Foreclosures
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 147eb9d4f47a45685a0bfe1e8fc4c06c0b9b46a2c03492c246bf808a0a6a1ca5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 105.105
+    - ORS 311.555
+    - ORS 311.560
+    - ORS 312.100
+    - ORS 312.120
+    - ORS 312.122
+    - ORS 312.126
+    - ORS 93.260
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-46-Accelerated-Foreclosures (Chapter-46-Accelerated-Foreclosures)
+
+## At a glance
+
+Chapter-46-Accelerated-Foreclosures — code of Polk County. 3 pages.
+
+## Full text
+
+46-1
+
+ CHAPTER 46  1990
+
+ ACCELERATED FORECLOSURES
+
+ 46.010  TITLE.
+
+ This Chapter shall be known as the Polk County Tax Foreclosure Redemption Forfeiture
+Ordinance. [ Ord. 90-7, Sec. 1]
+
+ 46.020  LEGISLATIVE FINDINGS.
+
+ (1) Properties foreclosed for delinquent taxe s are not deeded to the County for two years
+after entry of the foreclosure decree. During this period the property may be redeemed upon
+payment of delinquent taxes, interest, and penalties.
+
+ (2) During the two-year redemption period, many properties remain vacant or
+undeveloped causing significant deterioration and loss of value, as well as contributing to decline of
+neighborhoods, discouraging investment, and a ttracting nuisances through accumulation of
+discarded material, occupancy by unauthorized persons, and establishment of criminal enterprises.
+
+ (3) The Legislative Assembly has enacted ORS 312.122, which authorizes counties to
+adopt ordinances to accelerate the two-year redemption period for tax foreclosed properties subject
+to abandonment or waste, and to require the Tax Collector to deed such property to counties, thus
+permitting counties to preserve the value of tax- foreclosed property and to protect community
+interests. [Ord. 90-7, Sec. 2]
+
+ 46.030  DEFINITIONS.
+
+ For purposes of this Chapter, the following terms are defined:
+
+ (1) Abandonment:  When property has not been occupied for a period of six consecutive
+months by the owner, anyone authorized by the owner, or any entity appearing in the records of the
+County to have a lien or other interest in the property.
+
+ (2) Board:   The Polk County Board of Commissioners.
+
+ (3) Hearings Officer:  Any person designated by the Bo ard to hold hearings in the
+County.
+
+ (4) Tax Collector:  The Polk County Tax Collector, as designated by the Board.
+
+ (5) Waste:  The destruction, material alteration, or deterioration of land or improvements
+resulting in or threatening to result in substantial loss of property value, caused directly by the owner
+or person rightfully in possession of the property or permitted to be done by others through failure to
+supervise the property. [Ord. 90-7, Sec. 3]
+
+ 46.040  ACCELERATION OF REDEMPTION PERIOD.
+
+ (1) Subject to hearing as provided in this  Chapter, the owner and any person or entity
+
+ 46-2
+that appears in the records of the County to have a lien or other interest in tax-foreclosed property
+ordered sold to the County pursuant to ORS 312.100 shall forfeit any right of redemption in the
+property upon execution of a deed by the Tax Collector conveying the property to the County 30
+days after the Board has declared such right forfeited.
+
+ (2) Upon determining that any tax-foreclos ed property ordered sold to the County may
+be subject to waste or abandonment, the Board shall direct the Hearings Officer to conduct a hearing
+to determine whether the property should be deeded to the County pursuant to this Chapter. The
+Hearings Officer shall perform all acts necessary to ensure an adequate and complete hearing is
+provided. [Ord. 90-7, Sec. 4]
+
+ 46.050  NOTICE.
+
+ (1) Not less than 30 days prior to the h earing, the Hearings Officer shall notify the
+owner, any person, or entity that then appears in  the records of the County as defined in ORS
+312.126 (6) to have a lien or other interest in the property subject to hearing, and the occupants of
+the property, by certified mail of the following:
+
+  (a) The date, time, and place of hearing;
+
+  (b) The date of the judgment and decree entered pursuant to ORS 312.100;
+
+  (c) The normal date of expiration of the period of redemption under ORS
+312.120;
+
+  (d) A warning that a determination that the property suffers waste or
+abandonment will result in forfeiture of the remaining redemption period and
+issuance of a deed to the County follo wing expiration of 30 days after the
+date the Board makes such determina tion, and that all rights of effected
+persons will be forfeit forever unless the property is redeemed within that 30-
+day period;
+
+  (e) The description of the property and its tax account number; and
+
+  (f) The name of the owner as it appears on the latest tax roll.
+
+ (2) The notice required by this section shall be addressed in the following manner, as
+appropriate:
+
+  (a) To an owner, to the owner or owne rs, as reflected in the County records, at
+the true and correct address of the owner as appearing on the instrument of
+conveyance under ORS 93.260, as furnished under ORS 311.555, or as
+otherwise ascertained pursuant to ORS 311.560.
+
+(b) To a lien holder or entity other than the owner having or appearing to have a
+lien or other interest in the property, to an address the Hearings Officer
+knows or, after reasonable inquiry, has reason to believe will most likely
+result in receipt of actual notice. If the lien holder is a corporation or limited
+partnership, notice may be mailed to its registered agent or last registered
+
+ 46-3
+office as shown in the records on file with the State Corporation
+Commissioner. If the corporation or limited partnership is not registered in
+this state, notice may then be sent to the principal office or place of business
+of the corporation or limited partnership.
+
+  (c) To the occupants by first-cla ss mail addressed to "Occupants,” and by
+posting the property. [Ord. 90-7, Sec. 5]
+
+ 46.060  CONDUCT OF HEARING.
+
+ The hearing provided for in this Chapter sha ll be conducted in a manner calculated to permit
+full opportunity for the parties to present and cha llenge evidence and for the receipt of evidence
+without strict observance of formal evidentiary rules, to the end that the Hearings Officer may have
+sufficient basis on which to recommend to the Board whether forfeiture is appropriate. Parties to the
+hearing may appear through a representative, so long as written authorization for anyone not an
+attorney to represent the owner or lien holder is included in the record. Electronic recording of the
+proceeding shall be made and preserved for 90 days after the date of the Board's decision under
+Section 46.070. [Ord. 90-7, Sec. 6]
+
+ 46.070  ACTION BY THE BOARD.
+
+ (1) Upon a finding by the Hearings Officer that property is subjected to waste or
+abandonment justifying forfeiture of the remaining redemption period, the Hearings Officer shall
+communicate the finding to the Board for its determination. No further evidence shall be taken by
+the Board, but it may remand to the Hearings Officer should it require further investigation.
+
+ (2) If the Board adopts the recommendation of  the Hearings Officer, it may then declare
+the redemption period forfeited and direct the Tax Collector to deed the property to the County not
+earlier than 30 days after the date of its declaration. Notice of the Board's order shall be given in the
+same manner provided for notice of the heari ng in Section 46.050. During this 30-day period the
+property may be redeemed by the affected parties. [Ord. 90-7, Sec. 7]
+
+ 46.080  EXECUTION OF DEED; REMOVAL OF OCCUPANTS.
+
+ (1) If the property is not redeemed within 30 days after the Board acts, the Tax Collector
+shall execute a deed terminating all redemp tion rights and canceling all taxes and special
+assessments.
+
+ (2) Any persons still in possession of the pr operty after issuance of a deed under this
+section may be removed as provided in ORS 105.105 to 105.165. [ Ord. 90-7, Sec. 8]
+
+ 46.090  REVIEW.
+
+ Review of the Board's decision under S ection 46.070 shall lie only by Writ of Review,
+pursuant to ORS Chapter 34. [ Ord. 90-7, Sec. 9]

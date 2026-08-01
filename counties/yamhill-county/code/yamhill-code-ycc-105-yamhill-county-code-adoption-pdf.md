@@ -1,0 +1,206 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-105-yamhill-county-code-adoption-pdf
+title: 'YCC-105-YAMHILL-COUNTY-CODE-ADOPTION-PDF'
+doc_type: ordinance
+citation: 'YCC-105-YAMHILL-COUNTY-CODE-ADOPTION-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/5154/YCC-105-YAMHILL-COUNTY-CODE-ADOPTION-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e4da714762ec9de907c125772a3723867e0de7914301e62f2cfd3fffae8ece3e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-105-YAMHILL-COUNTY-CODE-ADOPTION-PDF (YCC-105-YAMHILL-COUNTY-CODE-ADOPTION-PDF)
+
+## At a glance
+
+YCC-105-YAMHILL-COUNTY-CODE-ADOPTION-PDF — code of Yamhill County. 4 pages.
+
+## Full text
+
+Chapter 1.05: Yamhill County Code Adoption  Page 1 of 4
+
+TITLE 1: GENERAL PROVISIONS
+
+Chapter 1.05: Yamhill County Code Adoption
+
+TABLE OF CONTENTS
+Section Title
+I. GENERAL PROVISIONS
+1.05.01.01 Purpose
+1.05.01.02 Definitions
+1.05.01.03 Code Construction
+1.05.01.04 Severability
+II. ADOPTION OF YAMHILL COUNTY CODE
+1.05.02.01 Code Adoption
+1.05.02.02 Title
+1.05.02.03 Codification
+1.05.02.04 Code Format
+1.05.02.05 Reservation of Prosecutions.
+
+LEGISLATIVE HISTORY
+
+SECTION 1 – GENERAL PROVISIONS
+1.05.01.01 Purpose. The Board finds it necessary in the public interest to adopt the code to facilitate the public’s
+access to County laws as well as aid in the pleading and enforcement of particular County laws.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+1.05.01.02 Definitions. As used in the Yamhill County Code unless the context or a specially applicable definition
+requires otherwise:
+a) “Board” and “County Court” mean the Board of County Commissioners of Yamhill County, Oregon.
+b) “Codify” and “Codification”, when used as verbs, mean the process of changing an existing ordinance or
+drafting and naming a new ordinance into the format set out in this Code, and incorporating such ordinance
+into the Yamhill County Code.
+c) “County” means Yamhill County, Oregon.
+d) “Yamhill County Code,” “YCC” or “Code” means the collection of codified ordinances of Yamhill County.
+e) “Person” includes individuals, corporations, associations, firms, partnerships, joint stock companies and any
+other legal entity.
+f) “Preceding” and “following” mean next before and next after, respectively.
+Chapter 1.05: Yamhill County Code Adoption  Page 2 of 4
+g) “State” means the state of Oregon.
+h) “To” means “to and including” when used in a reference to a series of Code sections, subsections, paragraphs
+or subparagraphs.
+i) “Violate” includes failure to observe the law whether by act of commission or omission.
+j) “Written” means handwrote, printed, typewritten, mimeographed, multigraphed, or otherwise reproduced in
+a permanent visible form.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+1.05.01.03 Code Construction.
+a) Singular or Plural Number. As used in this Code, the singular number may include the plural and the plural
+number, the singular.
+b) W ords Indicating Gender. As used in this Code, words used which indicate a gender may include the other
+gender.
+c) U se of “ Shall”. As used in this Code, the word “shall” is mandatory and not directory.
+d) Use of “May”. As used in this Code, the word “may” is permissible.
+e) Present Tense Includes Future. As used in this Code, words in the present tense include the future.
+f) Subsequent Amendments. Reference to any portion of this Code includes later amendments to that portion or
+any part contained in it.
+g) C ode Headings Not Part of Law . Title heads, chapter heads, division heads, section and subsection heads,
+indexes or titles and explanatory notes in this Code do not constitute any part of the law; they are inserted for
+convenience only and do not define, describe, or limit the scope or intent of the text or any term therein.
+h) C
+omputation of Time . Except when otherwise provided, the time within which an act is required to be done
+shall be computed by excluding the first day and including the last day, unless the last day falls upon any legal
+holiday or on Saturday, in which case the last day is also excluded.
+i) E ffect of Repeal of Code Sections and Ordinances; Saving Clause.
+(i) Repeal of a Code section or ordinance shall not revive a Code section or ordinance in force before
+or at the time the repealed Code section or ordinance took effect.
+(ii) The repeal shall not affect a punishment or penalty incurred before the repeal took effect nor a suit,
+prosecution or proceeding pending at the time of the repeal for an offense committed under the
+repealed Code section or ordinance.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+1.05.01.04 Severability. If any section, subsection, clause, or phrase of this code is for any reason held to be
+invalid or unconstitutional, such decision shall not affect the validity of the remaining portions of this code. The
+county declares that it would have enacted this code, and each section, subsect ion, sentence, clause and phrase
+thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases had been
+declared invalid or unconstitutional.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+SECTION 2 – ADOPTION OF YAMHILL COUNTY CODE
+
+01.05.02.01 Adoption, Amendments, and Repeal.
+a) Yamhill County Code Adoption. The Yamhill County Code is adopted as the codification of the permanent
+and general provisions of Yamhill County’s ordinances.
+b) A mendments. Amendments to an ordinance as codified and set forth in this Code are deemed to be
+amendments to the ordinance itself.
+c) R epeal . The repeal of any code section does not revive the original text of the code section, but rather, repeal
+of an existing section repeals the underlying ordinance section and all of its amendments.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+Chapter 1.05: Yamhill County Code Adoption  Page 3 of 4
+1.05.02.02 Title. This code shall be known as the “Yamhill County Code”, and it shall be sufficient to refer to
+the code as the “Yamhill County Code” in any prosecution for the violation of any provision thereof or in any
+legal proceeding. It shall be sufficient to designate any ordinance adding to, amending, correcting, or repealing
+all or any part or portion thereof as “Yamhill County Code” without the necessity of referring to the underlying
+ordinance. Further reference may be made to the titles, chapters, sections, and subsections of the Yamhill
+County Code, and such references shall apply to that numbered title, chapter, section, or subsection as it appears
+in the Code.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+1.05.02.03 Codification.
+a) New ordinances may be added to the code, and if an ordinance is enacted with a numbering system that is
+inconsistent with the code numbering system, the codifier is authorized to assign an appropriate code number
+and to codify the ordinance accordingly.
+b) No existing ordinance shall be amended in major part and no new ordinance shall be passed without being
+put in the format specified in Section 1.05.02.04.
+c) The Yamhill County Counsel’s Office is hereby assigned the duties of continuing the codification process of
+general County ordinances.
+d) When codifying, the drafter shall not alter the sense, meaning, effect or substance of any ordinance, but may:
+(i) Rearrange sections and parts of sections;
+(ii) Change the wording of title heads or words signifying parts of an ordinanc e, such as “ this
+ordinance”;
+(iii) Renumber within such limitations as stated herein;
+(iv) Change reference numbers to agree with renumbered chapters, sections, or other parts;
+(v) Substitute the proper subsections, section, chapter, or other division numbers;
+(vi) Strike out figures or words that are merely repetitious;
+(vii) Make minor changes in punctuation that do not alter the sense of the text;
+(viii) Change capitalization for the purpose of uniformity; and
+(ix) Correct obvious clerical or typographical errors.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+1.05.02.04 Code Format.
+a) Generally. The Yamhill County Code shall be divided into titles. Titles shall be divided into chapters. Chapters
+shall be divided into sections. The titles and subjects of the Yamhill County Code are as follows:
+
+TITLE NO. TITLE NAME
+1 General Provisions
+2 County Administration
+3 Revenue, Finance, and Purchasing
+4 Public Peace, Morals, and Welfare
+5 Health and Safety
+6 Parks and Public Spaces
+7 County Roads
+8 Business Licensing and Regulation
+9 Partnerships, Programs, and Committees
+10 Building and Development Regulation
+11 Land Use
+
+b) Format. The format of the Linn County Code shall be the format used in this Chapter, including form and
+style, section outlines, margins, indentations, table of contents, column format, pagination, font types and
+sizes (for Code text, Times New Roman 12 point or  its equivalent; and for legislative history immediately
+Chapter 1.05: Yamhill County Code Adoption  Page 4 of 4
+preceding the Code text, Times New Roman 8 point or its equivalent), and appearances and other features
+relating to the physical layout of such chapters.
+c) Legislative History. The legislative history  of each section and chapter may be placed at the end of each
+affected section and chapter, and if so placed, shall be in chronological order; placed at the end of the
+appropriate section or chapter setting forth the adopting and amending legislation and its respective dates; and
+printed in a bold font.
+d) T
+able of Contents . Each chapter of t he Code shall have a table of contents listing the sections in relation
+thereto.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+1.05.02.05 Reservation of Prosecutions. The adoption of this Code shall not affect any prosecution for violations
+of ordinances, which violations were committed prior to the effective date of the adoption of the Yamhill County
+Code, nor shall the adoption of the Yamhill County Code be construed as a waiver of any license, fee, or penalty
+due and owing at the effective date of the C ode adoption, nor shall adoption affect the validity of any bond or
+cash deposited with the County pursuant to the terms of any ordinance, upon its codification; but rather, all rights
+and obligations pertaining under ordinances in effect prior to codification shall remain in full force and effect.
+[ADOPTED VIA ORDINANCE NO. 931 eff 01/31/24]
+
+LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 931 on 11/02/2023, effective 01/31/2024

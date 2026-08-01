@@ -1,0 +1,609 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-horuchbecoor
+title: 'HOME RULE CHARTER OF BENTON COUNTY, OREGON'
+doc_type: ordinance
+citation: 'HOME RULE CHARTER OF BENTON COUNTY, OREGON'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=HORUCHBECOOR&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 4fb75ef3b045f89f1d20360d361429e77d97ef60ae782e23ad9b7a582028fc85
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# HOME RULE CHARTER OF BENTON COUNTY, OREGON (HOME RULE CHARTER OF BENTON COUNTY, OREGON)
+
+## At a glance
+
+HOME RULE CHARTER OF BENTON COUNTY, OREGON — code of Benton County. 42 sections.
+
+## Full text
+
+ ### HOME RULE CHARTER OF BENTON COUNTY, OREGON
+
+ ### PREAMBLE
+
+We, the people of Benton County, Oregon, in order to avail ourselves of self-determination
+in county affairs to the fullest extent permissible under the constitution and laws
+of the state, by this Charter confer upon the County the following powers, subject
+it to the following restrictions, and prescribe for it the following procedures and
+governmental structure:
+
+ ### CHAPTER I - NAME, NATURE, BOUNDARIES, COUNTY SEAT
+
+ ### Section 1. - Name.
+
+The name of the County as it operates under this Charter shall continue to be Benton
+County.
+
+ ### Section 2. - Nature and Legal Capacity.
+
+From the time that this Charter takes effect the County shall continue to be:
+(1)
+an agency of the state; and
+(2)
+a body politic and corporate.
+
+ ### Section 3. - Boundaries.
+
+[Deleted by Charter Amendment, May 1988.]
+
+ ### Section 4. - County Seat.
+
+The seat of government of the County as it operates under this Charter shall be in
+the City of Corvallis.
+
+ ### CHAPTER II - POWERS
+
+ ### Section 5. - General Grant of Powers.
+
+Except as this Charter provides to the contrary, the County shall have authority over
+matters of county concern to the fullest extent granted or allowed by the law of the
+United States and of the State of Oregon, as fully as if each power comprised in that
+general authority were specifically granted by this Charter.
+
+ ### Section 6. - Construction of Powers.
+
+The Charter shall be liberally construed to the end that, within the limits imposed
+by the Charter and by the law of the United States and of the State of Oregon, the
+County shall have all powers necessary or convenient for the conduct of its affairs,
+including all powers that counties may assume under the statutes of the state and
+under the provisions of the state constitution concerning county home rule. The powers
+shall be construed to be continuing powers. In this Charter no mention of a particular
+power or enumeration of similar powers shall be construed to be exclusive or to restrict
+the authority that the County would have if the particular power were not mentioned
+or the similar powers not enumerated.
+
+ ### CHAPTER III - BOARD OF COUNTY COMMISSIONERS
+
+ ### Section 7. - Membership, Election, and Tenure.
+
+(1)
+The Board of County Commissioners, hereinafter called "the Board," shall consist of
+three county commissioners.
+(2)
+Each commissioner shall be elected to a numbered position from the County at large
+for a four year term.
+(3)
+Two commissioners shall be elected at each presidential election and one commissioner
+at each intervening general November election.
+(4)
+In 1974, a commissioner shall be elected to position number 1. In 1976, commissioners
+shall be elected to positions number 2 and 3.
+
+ ### Section 8. - Board Chair.
+
+(1)
+At its first regular meeting each year the Board shall designate one of its members
+as its Chair and one as its Vice-Chair for that year.
+(2)
+The Chair shall:
+(a)
+preside over the meetings of the Board;
+(b)
+have a vote on all questions before the Board; and
+(c)
+have authority to:
+(A)
+preserve order at Board meetings;
+(B)
+enforce the rules of the Board; and
+(C)
+determine the order of Board business under rules of the Board.
+
+ ### Section 9. - Full-Time Responsibility of Commissioners.
+
+While serving as a member of the Board, a county commissioner shall devote full time
+to his or her office.
+
+ ### Section 10. - Quorum.
+
+A majority of the commissioners in office shall constitute a quorum for the Board's
+business.
+
+ ### Section 11. - Meetings.
+
+(1)
+The Board shall adopt rules governing its meetings.
+(2)
+The rules may prescribe one or more modes of compelling the attendance of commissioners
+at Board meetings.
+(3)
+The Board shall meet regularly in a public place in the County at least twice each
+month at times and places designated by order or resolution.
+(4)
+The Board may meet specially on call of the Chair or a majority of the commissioners
+in office, provided written notice of the meeting is received personally by or delivered
+at the residence of each member at least twenty-four hours before the time of the
+meeting.
+(5)
+Board action has legal effect only if the motion for the action and the vote by which
+the motion is approved or rejected take place at proceedings open to the public.
+
+ ### Section 12. - Record of Proceedings.
+
+The Board shall cause a public record of its proceedings to be kept. Upon the request
+of a member of the Board that the individual votes on a question before the Board
+be recorded, the votes shall be so recorded. The final votes on all ordinances before
+the Board shall be so recorded.
+
+ ### Section 13. - Vote Necessary for Board Action.
+
+Except as this Charter provides to the contrary, the concurrence of a majority of
+the members of the Board shall be necessary to decide any question before the Board.
+
+ ### Section 14. - Ordinances.
+
+(1)
+The ordaining clause of an ordinance adopted by the Board and not referred to the
+voters shall read, "The Board of County Commissioners of Benton County ordains as
+follows:." The ordaining clause of an ordinance referred to the voters shall read,
+"The people of Benton County ordain as follows:."
+(2)
+Except as this section provides to the contrary, before adoption an ordinance shall
+be fully and distinctly read into the record at a regular meeting of the Board on
+two different days at least thirteen days apart. The Board may direct that either
+or both of the readings be by title only:
+(a)
+if a copy of the ordinance is provided for each member of the Board when the ordinance
+is introduced; and
+(b)
+if, throughout the business hours after the ordinance is introduced and before it
+is adopted, a copy of it is available for public inspection in the office of the Board.
+An ordinance adopted after being read by title only may have no legal effect if any
+section incorporating a substantial change in the ordinance as introduced is not read
+fully and distinctly into the record at a regular meeting of the Board at least thirteen
+days prior to the adoption of the ordinance.
+(3)
+Upon adoption of an ordinance by the Board, the ordinance shall be signed by:
+(a)
+the Chair of the Board, and
+(b)
+the person serving as recording secretary of the Board at the session at which the
+Board approves the ordinance. This person shall also indicate the date of adoption.
+[Amended by Charter Amendment March, 1992]
+(4)
+Unless an ordinance specifies a later date of effect, its effective date shall be
+as follows:
+(a)
+if the Board adopts it in the exercise of the police power and for the purpose of
+meeting an emergency, it may take effect immediately upon being so adopted;
+(b)
+if it is a non-emergency ordinance not referred to the voters, it shall take effect
+on the thirtieth day after it is adopted; and
+(c)
+if it is adopted by the voters, it shall take effect immediately upon being so adopted.
+(5)
+An ordinance enacted by the Board for the purpose of meeting an emergency may be introduced,
+read once, and put on its final passage at a single meeting by a unanimous vote of
+all members of the Board present at the meeting, and may take effect immediately upon
+being so approved. Such an ordinance shall stand repealed on the sixty-first day following
+its enactment and may not be re-enacted consecutively.
+
+ ### Section 15. - Recording, Codification, Printing.
+
+(1)
+Each ordinance shall be given a serial number which, together with the date of adoption
+and the designation of the adopting authority, shall be entered in a properly indexed
+book kept for that purpose and made available to the public.
+(2)
+Within three years after the adoption of this Charter, the Board of County Commissioners
+shall cause all County ordinances to be codified. Such a codification shall be subject
+to annual review and revision to assure its accuracy and completeness. The updated
+code shall be furnished to all County officers and made available for sale to the
+public.
+
+ ### CHAPTER IV - ADMINISTRATION
+
+ ### Section 16. - Administrative Departments.
+
+(1)
+For purposes of carrying out the policies of the County and administering its affairs,
+the following administrative departments are hereby established and shall, except
+as the Board prescribes to the contrary within the limitations of this Charter, have
+the following functions:
+(a)
+Department of Finance and Auditing. [Deleted by Charter Amendment, May 1988]
+(b)
+Department of Records and Elections. [Deleted by Charter Amendment, May 1988]
+(c)
+Department of Health and Sanitation. [Deleted by Charter Amendment, May 1988]
+(d)
+Department of Public Works. [Deleted by Charter Amendment, May 1988]
+(e)
+The Department of Law Enforcement, which shall have the functions of the Sheriff,
+except the functions of the Sheriff regarding the collection of taxes; and
+(2)
+On or before July 1, 1973, the Board shall take whatever action is necessary to place
+in operation the departments established by this section. [Amended by Charter Amendments, November 1976 and November 2003]
+
+ ### Section 17. - Elective Administrative Officers.
+
+(1)
+The elective administrative officers of the County shall include, in addition to the
+county commissioners, the Sheriff.
+(2)
+The Sheriff shall have charge of the Department of Law Enforcement. The term of office
+for Sheriff shall be four years. The office of Sheriff shall be non-partisan.
+(3)
+Every elected county officer shall devote full time to his or her office. [Amended by Charter Amendments, May 1986, November 1986 and November 2003.]
+
+ ### Section 18. - Appointive Administrative Officers and Employees.
+
+Except as this Charter provides to the contrary:
+(1)
+each administrative department of the County shall include whatever offices and positions
+the Board establishes in the department;
+(2)
+all administrative officers and employees of the County other than elective administrative
+officers shall be appointed by the Board or pursuant to its authority; and
+(3)
+the functions of each administrative officer and employee of the County shall be whatever
+functions the Board prescribes except as required by law.
+(4)
+Board of Commissioner inquiries, directives or disagreements regarding property valuation
+and/or assessment determinations may be referred by the Assessor to the State of Oregon
+Department of Revenue for resolution and/or review. [Amended by Charter Amendment November 2003]
+
+ ### Section 19. - Changes in Administrative Departments.
+
+(1)
+Except as this Charter provides to the contrary, the Board may:
+(a)
+establish additional administrative departments;
+(b)
+combine any two or more administrative departments into a single such department;
+(c)
+separate departments so combined;
+(d)
+abolish any administrative department; and
+(e)
+prescribe the functions of any department.
+(2)
+In the department of law enforcement, any action to combine the department with another
+administrative department of the County, any action to abolish the department, or
+any action to take from it any of its functions, may have no legal effect until approved
+by either:
+(a)
+the head of the department, or
+(b)
+the legal voters of the County at a regular or special election.
+However, in the event of misconduct of the Sheriff or reasonably related to the Sheriff's
+ability to perform his or her official duties, the Board of Commissioners shall have
+the authority to assume control over said department upon a unanimous vote of the
+Board of Commissioners at a public meeting. The vote shall be supported by written
+findings of fact and a statement of the extent and length of time of control which
+will be exercised by the Commissioners.
+(3)
+A function of a county officer or agency prescribed by state law, but not allocated
+to any county officer or agency by this Charter, shall be allocated to whatever department
+of the County the Board determines. [Amended by Charter Amendments May, 1996 and November 2003]
+
+ ### CHAPTER V - PERSONNEL
+
+ ### Section 20. - Qualification.
+
+(1)
+The following are qualifications for the position of:
+(a)
+Benton County Commissioner:
+A)
+Be a citizen of the United States at the time of taking office and thereafter, for
+the length of time in office;
+B)
+Be a resident of Benton County for at least one year prior to the time of filing for
+office and thereafter, for the length of time in office;
+C)
+Be a registered voter of Benton County at the time of taking office and thereafter,
+for the length of time in office; and
+D)
+Be at least 21 years of age at the time of taking office.
+(b)
+Benton County Sheriff:
+A)
+Be a citizen of the United States at the time of taking office and thereafter, for
+the length of time in office;
+B)
+Be a resident of the state of Oregon for at least one year prior to the time of filing
+for office;
+C)
+Be a registered voter of Benton County at the time of taking office and thereafter,
+for the length of time in office;
+D)
+Be at least 21 years of age at the time of taking office;
+E)
+Have at least four years of full-time law enforcement experience, or at least two
+years of post-high school education at the time of filing for office;
+F)
+Have no criminal convictions which would keep the person from being certified at the
+time of filing for office and thereafter, for the length of time in office; and
+G)
+Have a written determination of eligibility from the Board on Public Safety Standards
+and Training at the time of filing for election or re-election, file it with the Director
+of Records and Elections/Elections Division of Benton County no later than the time
+of filing, and maintain it thereafter, for the length of time in office.
+(2)
+To qualify for an appointive office or position of the County a person shall have
+whatever qualifications the Board prescribes for the office or position. [Amended by Charter Amendments March, 1992, May, 1996 and November 2003]
+
+ ### Section 21. - Vacancies in Office.
+
+(1)
+An elective office shall be deemed vacant before the expiration of the term if:
+(a)
+the incumbent dies, resigns, or is removed;
+(b)
+the incumbent ceases to be a resident of the County;
+(c)
+the incumbent is convicted of a felony or other offense pertinent to the office, or
+of unlawful destruction of public records;
+(d)
+the incumbent refuses or neglects to take the oath of office, or to file the oath
+of office with the Director of Records and Elections;
+(e)
+the election or the appointment of the incumbent is declared void by a competent tribunal;
+(f)
+the incumbent is found by a competent tribunal to be mentally incapable of performing
+the duties of the office;
+(g)
+the incumbent ceases to possess any qualifications required for election or appointment
+to office; or
+(h)
+the person elected or appointed to the office fails to qualify for the office within
+ten days after the time the term of office is to begin.
+(2)
+The office of county commissioner shall be deemed vacant before the expiration of
+a term if:
+(a)
+the commissioner is absent from the County for thirty days without the consent of
+the other two commissioners, or absent from meetings of the Board of County Commissioners
+for sixty days without like consent; and
+(b)
+the Board declares a vacancy. [Amended by Charter Amendment, May 1988.]
+
+ ### Section 22. - Filling of Vacancies.
+
+(1)
+Appointed.
+A vacancy in an appointive office of the County shall be filled by the Board or pursuant
+to its authority.
+(2)
+Temporary Vacancies.
+During the temporary disability of any elective officer or his or her absence from
+the County temporarily for any reason, his or her office may be filled pro tem by the Board.
+(3)
+Permanent Vacancies in the Office of the Sheriff.
+(a)
+If the term of office expires:
+(A)
+two years or more after the vacancy occurs, then a person shall be elected to fill
+the vacancy for the remainder of the term of office. The special election shall be
+held on the first election day (as provided by State law) occurring at least ninety
+days following the vacancy. Except as otherwise provided, any person qualified pursuant
+to Section 20 of this Charter may be a candidate for the position. The Board shall prescribe by
+ordinance the procedures by which candidates may be nominated and elected. During
+the period between the occurrence of the vacancy and the election of a replacement,
+the office may be filled pro tem by the Board within thirty days of the occurrence of the vacancy.
+(B)
+less than two years after the vacancy occurs, then the Board shall appoint a person
+to fill the vacancy for the remainder of the term of office. The Board shall appoint
+a qualified person to the vacancy from among the applications received as a result
+of the published notice. The Board shall fill a vacancy in as short a time as practicable.
+This appointment shall be for the term specified in (3)(a)(A) or (B).
+(b)
+The Board shall publish notice of a vacancy to be filled by appointment or election
+(pursuant to (3)(a)(A) and (B)) in a newspaper of general circulation in the County.
+This notice shall request qualified individuals to apply to fill the vacancy by filing
+an application with the Board.
+(4)
+Permanent Vacancies on the Board of County Commissioners.
+(a)
+If a single vacancy occurs on the Board of County Commissioners:
+(A)
+More than thirty (30) days before the primary election filing deadline in the second
+year of a four-year term of office it shall be filled at the general election from
+candidates selected by election at the primary election.
+(B)
+The incumbent Board members shall publish notice of the vacancy in a newspaper of
+general circulation in the County. This notice shall request qualified individuals
+to apply by filing an application with the Board. The application shall contain a
+notice to the applicant setting out the provisions of Section 22 (4)(a)(D), along with a notice to the applicant that the applicant should contact
+the central committee (or equivalent) of the appropriate political party concerning
+placement on the list provided by that central committee (or equivalent). A list of
+all applicants shall be compiled to be used in the event that the party central committee
+(or equivalent) fails to provide a list to the Board in a timely fashion.
+(C)
+Regardless of the date of the vacancy, the Board shall appoint an interim commissioner.
+The interim commissioner must be a member of the same major political party as the
+commissioner last elected to that position at the time of election. If the commissioner
+last elected to the vacant office was not affiliated with a major political party,
+then the interim commissioner may have any political affiliation.
+(D)
+Within thirty (30) days of the occurrence of the vacancy, the county central committee
+(or equivalent) of this major political party shall prepare and submit to the incumbent
+commissioners a list of not less than three (3) nor more than five (5) eligible candidates.
+The incumbent commissioners shall select an interim commissioner from that list. If
+the county central committee (or equivalent) fails to provide such a list, the incumbent
+commissioners may select any qualified member of the appropriate political party who
+has complied with section (4)(a)(B) above.
+(b)
+If two vacancies exist on the Board at the same time, the Governor of the State of
+Oregon shall appoint one interim commissioner from the appropriate political party.
+If all of the offices of the Board are vacant at the same time, the Governor of the
+State of Oregon shall appoint two interim commissioners from the appropriate political
+parties. In either instance, the two commissioners shall appoint a commissioner to
+fill the remaining vacancy in accordance with the procedures set forth in Section 22 (4)(a).
+(c)
+If the incumbent commissioners fail to appoint an interim commissioner within sixty
+(60) days of the occurrence of the vacancy, or if the gubernatorial appointment and
+the incumbent commissioner, or the gubernatorial appointments, fail to appoint a replacement
+within sixty (60) days of the gubernatorial appointment(s), the issue shall be placed
+before the Governor of the State of Oregon who shall appoint any qualified member
+of the appropriate political party.
+(d)
+Any interim commissioners shall serve the remainder of the term of office or until
+the elected replacement takes office.
+(5)
+In this section:
+(a)
+"Appropriate political party" shall mean the party with which the vacating official
+was affiliated at the time of election, or any political party if the vacating official
+was not affiliated with a major political party at the time of election;
+(b)
+"Incumbent" shall mean the elected official(s) still in office;
+(c)
+"Major political party" shall have the definition given by the Oregon Revised Statutes;
+(d)
+"Term of office" shall mean the term of office of the last person elected to the office
+which has become vacant. [Amended by Charter Amendments, May 1988, March, 1992, May, 1996 and November 2003]
+
+ ### Section 23. - Compensation.
+
+The salary or wage of a county officer or employee shall be fixed by the Board, except
+that the salaries of the commissioners shall be fixed by the public members of the
+budget committee.
+
+ ### CHAPTER VI - INTERGOVERNMENTAL RELATIONS
+
+ ### Section 24. - Intergovernmental Relations.
+
+The Board may, on such terms as it deems in the best interests of the County, arrange
+by contract:
+(1)
+for one or more functions of the County to be performed in cooperation with one or
+more units of local government in the County or one or more other counties or both;
+(2)
+for one or more functions of the County to be transferred to and performed by one
+or more units of local government in the County; and
+(3)
+for the County to assume one or more functions of one or more units of local government
+in the County, provided any function thus assumed is a matter of County concern.
+
+ ### CHAPTER VII - ELECTIONS
+
+ ### Section 25. - Method of Election.
+
+(1)
+Elected officers of the County shall be elected in the general election, and at any
+special election, by a process of ranked choice voting, also known as instant runoff
+voting or the alternative vote.
+(a)
+The County Commissioners shall, by ordinance, establish rules necessary for the orderly
+administration of the election as soon as practicable but not later than one hundred
+twenty days prior to the first election using ranked choice voting.
+(b)
+Within sixty days of the passage of the initiative establishing this Section 25 of the Charter, the County shall request not more than $200,000 in funding from the
+State and, if necessary, other sources, to pay for the initial implementation of ranked
+choice voting, which shall include an initial education campaign for County voters.
+The County Clerk shall implement ranked choice voting at the first general election
+held twelve months or more past the date funding is secured, and at each general and
+special election of elected officers thereafter. [Nomination and Election of County
+Officers. Deleted by Charter Amendment, May 1988; Amended November 2016. ]
+
+ ### Section 26. - Recall.
+
+[Deleted by Charter Amendment, May 1988.]
+
+ ### Section 27. - Elections on County Propositions.
+
+[Deleted by Charter Amendment, May 1988.]
+
+ ### Section 28. - Charter Amendment and Repeal.
+
+(1)
+This Charter may be amended or repealed by the voters of the County at:
+(a)
+a regular election, or
+(b)
+a special election called by the Board.
+(2)
+An initiative petition to submit a Charter amendment or repeal to the voters shall
+be filed with the Department of Records and Elections at least ninety days before
+the election at which the measure is to come before the voters.
+(3)
+The number of signatures of registered voters required on a petition to amend this
+Charter shall be eight per cent of the total number of voters of the County who voted
+for the office of Governor of the state in the last general election at which this
+office was filled for a four year term.
+(4)
+The number of signatures of registered voters required on a petition to repeal this
+Charter shall be fifteen per cent of the total number of voters of the County who
+voted for the office of Governor of the state in the last general election at which
+this office was filled for a four year term.
+(5)
+An ordinance to refer a Charter amendment or repeal to the voters shall be enacted
+at least sixty days before the election at which the measure is to come before the
+voters.
+(6)
+Every five (5) years, or as otherwise determined by the Board of County Commissioners,
+the Board of County Commissioners shall appoint a Charter Review Committee of five
+citizen members to review the Home Rule Charter and its operation. If any amendments
+to the Charter are deemed necessary or prudent by the Committee, it shall recommend
+such amendments to the Board of County Commissioners. Within sixty days, the Board
+of Commissioners shall consider the recommendations of the Committee at a regular
+meeting. The Board may place all, part, or none of the Committee's recommendations
+on the ballot pursuant to the requirements of this section. [Amended by Charter Amendments, November 1974, May 1986 and November 2003.]
+
+ ### CHAPTER VIII - TRANSITIONAL PROVISIONS
+
+ ### Section 29. - Continuation of Terms of County Commissioners.
+
+[Deleted by Charter Amendment November 2003.]
+
+ ### Section 30. - Continuation of Terms of Elective Officers.
+
+[Deleted by Charter Amendment November 2003.]
+
+ ### Section 31. - Existing Legislation Continued.
+
+All legislation of the County
+(1)
+consistent with this Charter; and
+(2)
+in force when it takes effect;
+shall remain in effect until amended or repealed.
+
+ ### Section 32. - Effective Date.
+
+This Charter shall take effect on the first Monday in January 1973.

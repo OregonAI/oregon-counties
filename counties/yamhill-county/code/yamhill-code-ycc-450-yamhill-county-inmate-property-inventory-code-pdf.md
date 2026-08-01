@@ -1,0 +1,104 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-450-yamhill-county-inmate-property-inventory-code-pdf
+title: 'YCC-450-YAMHILL-COUNTY-INMATE-PROPERTY-INVENTORY-CODE-PDF'
+doc_type: ordinance
+citation: 'YCC-450-YAMHILL-COUNTY-INMATE-PROPERTY-INVENTORY-CODE-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/5184/YCC-450-YAMHILL-COUNTY-INMATE-PROPERTY-INVENTORY-CODE-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5b7398a55a1364a57bb718b94e59c226993f6eb68b5217a1e1c3b0e55c09afbf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.035
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-450-YAMHILL-COUNTY-INMATE-PROPERTY-INVENTORY-CODE-PDF (YCC-450-YAMHILL-COUNTY-INMATE-PROPERTY-INVENTORY-CODE-PDF)
+
+## At a glance
+
+YCC-450-YAMHILL-COUNTY-INMATE-PROPERTY-INVENTORY-CODE-PDF — code of Yamhill County. 2 pages.
+
+## Full text
+
+YAMHILL COUNTY CODE
+Chapter 4.50: Yamhill County Inmate Property Inventory Code  Page 1 of 2
+
+YAMHILL COUNTY CODE
+
+TITLE 4: PUBLIC PEACE, MORALS, AND WELFARE
+
+Chapter 4.50: Yamhill County Inmate Property Inventory Code
+
+TABLE OF CONTENTS
+Section Title
+4.50.01 TITLE; AUTHORITY
+4.50.02 PURPOSE
+4.50.03 INVENTORY PROCEDURE
+4.50.04 SEVERABILITY
+
+LEGISLATIVE HISTORY
+
+4.50.01 Title. Authority. This ordinance is entitled the “Yamhill County Inmate Property Inventory Ordinance”
+and is enacted pursuant to ORS 203.035.
+[ADOPTED VIA ORDINANCE NO. 653 eff 07/31/98]
+
+4.50.02 Purpose. The purpose of this ordinance is to govern inventories of property possessed by persons lodged
+in the Yamhill County Correctional Facility to reduce or prevent the assertion of false  claims for lost or stolen
+property, and to protect people and property from any hazardous  condition or instrumentality that may be
+associated with the property.
+[ADOPTED VIA ORDINANCE NO. 653 eff 07/31/98]
+
+4.50.01 Title. Authority.
+a) The property possessed by any person lodged in the Yamhill County Correctional Facility shall be inventoried.
+The purpose of the inventory is as follows:
+(i) To protect private property while it is in custody.
+(ii) To reduce or prevent the assertion of false claims for lost or stolen property.
+(iii) To protect people and property from any hazardous condition or instrumentality which may be
+associated with the property.
+(iv) To insure contraband, weapons, and hazardous materials are not brought into and/or stored within
+the Yamhill County Correctional Facility.
+b) The inventory of property possessed by a person lodged in the Yamhill County Correctional Facility is not a
+search for evidence of criminal property. Items should be scrutinized only to the extent necessary to complete
+an accurate inventory list and to accomplish the purposes of the inventory as set forth in subsection (a) above.
+Once completed, the list shall be made a part of the narrative section of the appropriate report. The inventory
+should occur as soon as practical after the person is lodged.
+c) Deputies may seize contraband, weapons, hazardous materials or evidence of criminal activity discovered
+during the inventory. Closed containers capable of containing contraband, weapons, or hazardous materials
+YAMHILL COUNTY CODE
+Chapter 4.50: Yamhill County Inmate Property Inventory Code  Page 2 of 2
+will be opened and inventoried. If such a container is locked, the owner will be requested to facilitate the
+opening of the container; however, should the owner refuse, the container will be opened and the contents
+inventoried as outlined above.
+d) All items seized during an inventory shall be listed on an appropriate Sheriff’s Office form. A property receipt
+shall be given to the person from whom the property was seized.
+[ADOPTED VIA ORDINANCE NO. 653 eff 07/31/98]
+
+4.50.04 Severability. All sections, subsections and paragraphs of this ordinance are severable. If any section,
+subsection or paragraph is ruled invalid for any reason by the court of last resort, the other  portions of this
+ordinance shall be unaffected.
+[ADOPTED VIA ORDINANCE NO. 653 eff 07/31/98]
+
+LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 653 on 07/30/1998, effective 07/31/1998

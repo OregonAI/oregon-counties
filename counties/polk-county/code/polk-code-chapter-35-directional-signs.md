@@ -1,0 +1,397 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-35-directional-signs
+title: 'Chapter-35-Directional-Signs'
+doc_type: ordinance
+citation: 'Chapter-35-Directional-Signs'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3057/Chapter-35-Directional-Signs
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 80b2777f2cf9a4127a0be8ccbbc0a9f4fbfe29b6905f70a7ae6046e970afa8c2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 368.950
+    - ORS 377.719
+    - ORS 377.725
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-35-Directional-Signs (Chapter-35-Directional-Signs)
+
+## At a glance
+
+Chapter-35-Directional-Signs — code of Polk County. 7 pages.
+
+## Full text
+
+CHAPTER 35  1994
+
+  SIGNS
+
+ (Directional Signs)
+
+ 35.105  PURPOSE; APPLICATION; AUTHORITY.
+
+ (1) The purpose of Sections 35.105 to 35.160 is to establish standards for directional
+information signs erected within county rights-of -way for qualified tourist-oriented businesses
+offering services or activities, qualified historical features, or qualified cultural features, including
+resort and recreational areas and non-commercial or civic enterprises.
+
+ (2) Sections 35.105 to 35.160 are applicable to the county highway system.
+
+ (3) The authority for Sections 35.105 to 35.160 is ORS 368.950. [Ord. 85-05, Sec. I;
+amended by Ord. 90-5, Sec. 1]
+
+ 35.110  DEFINITIONS.
+
+ As used in Sections 35.105 to 35.160, the followi ng definitions shall apply unless the context
+indicates otherwise:
+
+ (a) "Applicant" means a person applying for a permit for a tourist-oriented
+directional sign or other permitted type of sign.
+
+ (b) "Directional information" means th e name of the business, service, or
+activity, qualified historical feature or qualified cultural feature, placed on a
+tourist-oriented directional sign.
+
+ (c) "Director" means the Polk County Road Official.
+
+ (d) "Main traveled way" means through traffic lanes of said systems exclusive of
+frontage roads, auxiliary lanes, and ramps.
+
+ (e) "Non-commercial or civic enterprise" is one of benefit to the community or
+an identifiable portion thereof as determined by the County Road Official.
+All references in Sections 35.105 to 35.160 to tourist-oriented signs shall
+apply to non-commercial or civic enterprises except where specifically
+distinguishable.
+
+  (f) "Owner" means a holder of fee title, or lessee.
+
+ (g) "Qualified cultural feature" mean s a museum approved by the Polk County
+Museum Association after consulting with the Oregon Historical Society and
+the Oregon Museum Association.
+
+ (h) "Qualified historical feature" m eans a museum approved by the Polk County
+Museum Association after consulting with the Oregon Historical Society and
+the Oregon Museum Association.
+
+ 35-1
+
+ (i) "Qualified tourist-oriented business" means any legal, cultural, historical,
+recreational, educational, or entert aining activity or a unique or unusual
+commercial or non-profit activity the major portion of whose income or
+visitors are derived during its norma l business season from motorists not
+residing in the immediate area of the activity.
+
+ (j) "Responsible operator" means a pers on or entity other than an owner who
+operates a qualified tourist-oriented business and who has authority to enter
+into an agreement relative to matters covered by these regulations.
+
+ (k) "Department" means the Polk County Public Works Department.
+
+  (l) "Tourist-oriented directional sign"  means a sign panel with the name of a
+qualified tourist-oriented business, service or activity, or qualified historical
+feature, or qualified cultural feature, together with directional information
+erected in advance of or at intersections on the county highway system. [Ord.
+85-5, Sec. II; amended by Ord. 90-5, Sec. 2]
+
+ 35.115  LOCATION.
+
+ (1) Tourist-oriented directional signs are intended for use primarily in rural areas. Any
+installation of tourist-oriented directional signs in urban areas shall be consistent with the Polk
+County signing policy criteria contained in Section 35.135.
+
+ (2) Tourist-oriented directional signs should be  located so as to take advantage of natural
+terrain, to have the least impact on the scenic environment, and to avoid visual conflict with other
+traffic control devices within the highway right-of-way.
+
+ (3) Tourist-oriented directional signs shall not be installed until a thorough investigation
+by the Department determines that no unsafe driving conditions will exist. [Ord. 85-5, Sec. III;
+amended by Ord. 90-5, Sec. 3]
+
+ 35.120  CRITERIA FOR INFORMATION.
+
+ (1) Each qualified tourist-oriented business identified on a tourist-oriented directional
+sign shall have given written assurance to the Department of its conformity with all applicable laws
+concerning the provisions of public accommodations without regard to race, religion, color, sex or
+national origin, and shall not be in breach of that assurance.
+
+ (2) Except for undeveloped cultural and histor ic features, a qualified tourist-oriented
+business shall have adequate parking accommodations.
+
+ (3) Qualified undeveloped cultural and historical features shall include:
+
+  (a) Adequate parking accommodations.
+
+  (b) An informational device to provide  public knowledge of the feature. [Ord.
+85-5, Sec. IV; amended by Ord. 90-5, Sec. 4]
+
+ 35-2
+
+ 35.125  SIZES; COMPOSITION.
+
+ (1) Tourist-oriented directional signs sha ll have a blue reflectorized background with a
+white reflectorized border and message. The intersection sign shall not exceed 30 inches in height
+and 30 inches in length. The content of the lege nd shall be limited to the identification of the
+business or feature and shall not include promotional advertising as determined by the Department.
+A two-inch letter height shall be used where permitted. Messages, symbols, and trademarks which
+resemble any official traffic control device are prohibited. All tourist-oriented directional signs shall
+conform to applicable portions of the Manual on Uniform Traffic Control Devices including, but not
+limited to, size, location and spacing.
+
+ (2) All directional arrows, letters, and numbers  [used in the name of the type of service
+and the directional legend] shall be white and reflectorized.
+
+ (3) A maximum of four tourist-oriented bus inesses may be displayed at each location. A
+maximum of three locations may be utilized at an intersection for a maximum of twelve signs per
+intersection. For the purposes of this ordinance, the intersection will be considered to be within 200
+feet of the point where all roadway surfaces meet at the centerline. [Ord. 94-10, Sec. 3]
+
+ (4) If the Department determines it is appropriate, two or more businesses or features
+may utilize a single sign within the size requirements of this section.  [Ord. 85-5, Sec. V; amended
+by Ord. 90-5, Sec. 5]
+
+ 35.130 [Ord. 85-5, Sec. VI: repealed by Ord. 90-5, Sec. ll]
+
+ 35.135  COUNTY SIGN POLICY .
+
+ Tourist-oriented directional signs are primarily  intended for installation at rural intersections.
+Tourist-oriented directional signs may be installed within urban areas if the Department determines
+that the roadside development does not appear to th e motorist to be urban in character or terrain
+features or other features indicate a need for tourist-oriented directional signs to properly direct the
+motoring public. [Ord. 85-5, Sec. VIII; amended by Ord. 90-5, Sec. 6]
+
+ 35.140  APPLICATION AND ELIGIBILITY.
+
+ (1) If applications are received for any one  intersection for more than the allowable
+number of signs, the order of priority shall be based on the date of receipt of a properly completed
+application and the required fee.
+
+ (2) The owner or responsible operator of a business must file an application for
+installation of its tourist-oriented directional sign on a form specified by the Department, and tender
+the permit fee.
+
+ (3) Any grant of an application shall entitle the applicant to continuance of its tourist-
+oriented directional sign until (a) removal is re quested by the applicant; or (b) the sign becomes
+unservable through age (approximately 4 years); or (c) due to vandalism; or (d) if general public
+interest and concern require removal. [Ord. 94-10, Sec. 2]
+
+ 35-3
+ (4) Eligibility of qualified tourist-oriented businesses for continued placement of their
+tourist-oriented directional sign may be reviewed  annually before granting a renewal permit. If
+payment is not made for a renewal permit within 30 days after the due date, the tourist-oriented
+directional sign may be removed.
+
+ (5) Notwithstanding the fact that a touris t-oriented business meets all of the other
+eligibility requirements of Sections 35.105 to 35.160, an application may be denied if it is
+determined after investigation by the Department that adequate direction to the business cannot be
+given by a reasonable number of allowable tourist-oriented directional signs or if any other safety
+concern is determined. [Ord. 85-5, Sec. IX; amended by Ord. 90-5, Sec. 7]
+
+ 35.145  APPEALS.
+
+ Any order of the Department denying an a pplication or waiver under Sections 35.105 to
+35.160, or for removal of a sign panel under Sections 35.105 to 35.160, may be entered
+administratively without hearing, subject to a ppeal rights to the Board of Commissioners. The
+Department shall notify applicants promptly on a ny application or waiver denial or decision to
+remove a sign panel under Sections 35.105 to 35.160. [Ord. 85-5, Sec. X; amended by Ord. 90-5,
+Sec. 8]
+
+ 35.150  INSTALLATION; INITIAL FEE; RENTAL FEE.
+
+ (1) The County has sole authority to furnish, erect, and maintain tourist-oriented
+directional signs. Applicants shall be notified when sign(s) are erected.
+
+ (2) The permit fee for each tourist-oriented  directional sign shall be in an amount
+prescribed by the Board of Commissioners payable with the application. Signs requiring more
+lettering or materials than usual may be subject to additional charges. There shall be no refund of
+any TODS costs. [Ord. 89-5, Sec. 6 and Ord. 90-5, Sec. 9; amended by Ord. 94-10, Sec. 2.]
+
+ 35.155  EXISTING LOCATIONS.
+
+ Notwithstanding any other provisions of Sections 35.105 to 35.160, the size, dimensions,
+and proportions of tourist-oriented directional signs placed at existing locations shall be of the size,
+dimension, and proportion as determined by the Department and consistent with state and county
+regulations. [Ord. 85-5, Sec. XII; amended by Ord. 90-5, Sec. 10]
+
+ 35.160  REMOVAL OR REINSTALLATION FEE.
+
+ (1) After the initial installation of any tourist-oriented directional sign, a fee in an
+amount prescribed by the Board of Commissioners shall be charged for:
+
+  (a) Temporary removal because of tem porary or seasonal closure of the qualified
+tourist-oriented business.
+
+  (b) Reinstallation of any tourist-orient ed directional sign pursuant to paragraph
+(a) of this subsection.
+
+ (2) The fee for reinstallation due to theft or vandalism shall be in an amount prescribed
+by the Board of Commissioners. [Ord. 85-5, Sec. XIII; amended by Ord. 89-5, Sec. 7]
+
+ 35-4
+
+ (Temporary Signs)
+
+ As used in Sections 35.205 to 35.245:
+
+ (a) "Road" means any State highway, County road, or other public way outside
+an incorporated area and within Polk County.
+
+ (b) "Sign area" means the overall dime nsions of a single panel capable of
+displaying messages on a sign structure. When dimensions of a sign are
+specified, the term includes both sides of a sign of specified dimensions or
+areas.
+
+ (c) "Temporary sign" means a sign, as defined by ORS 377.719, that by its
+design, construction, and placement is not reasonably intended or cannot
+reasonably be expected to remain in a neat, clean, and attractive condition for
+longer than six (6) months.
+
+ (d) "Visible" means capable of being seen without visual aid by a person of
+normal visual acuity, whether or not legible from the main-traveled way of a
+road. [Ord. 88-26, Sec. 1; amended by Ord. 89-12, Sec. 1; Ord. 90-11, Sec. 1]
+
+ 35.210  PERMISSIBLE TEMPORARY SIGNS.
+
+ No temporary sign may be erected or maintained which is visible to the traveling public
+from a road outside an incorporated city unless:
+
+ (a) The sign area does not exceed 32 square  feet. However, in areas zoned for
+residential use, five acres or less mi nimum lot size, the sign area shall not
+exceed eight square feet. This secti on does not intend to preclude V-type
+signs, and does allow for signs facing in two directions; and
+
+ (b) The sign bears the name and address of the individual or entity causing it to
+be erected and maintained; and
+
+ (c) Except as provided in Section 38.238, a permit has been obtained from Polk
+County; or
+
+ (d) The advertising is placed on an " outdoor advertising sign" required by ORS
+377.725 and OAR Chapter 733 Division 10. [Ord. 88-26, Sec. 2; amended by
+Ord. 89-12, Sec. 2; Ord. 90-11, Sec. 2]
+
+ 35.215  DISPLAY TIME LIMITED.
+
+ No temporary sign may be maintained under S ection 35.210 later than 5 days after the event
+for which it is erected or maintained. [Ord. 88-26, Sec. 3; amended by Ord. 89-12, Sec. 3]
+
+ 35-5
+
+ 35.220  REMOVAL OF NON-COMPLYING SIGNS.
+
+ A County Road Official may lawfully rem ove or destroy, without resort to legal
+proceedings, any temporary sign erected or maintained within the limits of the right-of-way of a road
+outside an incorporated city. A County Enforcem ent Officer may remove or order the removal,
+without prior written notice, of any temporary sign erected or maintained without a permit or in
+violation of Sections 35.205 to 35.245. [Ord. 88-26, Sec. 4; amended by Ord. 89-12, Sec. 4]
+
+ 35.225  PENALTY.
+
+ Violation of Section 35.210 or 35.215 is punishab le upon conviction by a fine of not more
+than $500, in addition to any other remedy provided by law to Polk County. If a temporary sign does
+not bear the name and address of the individual or entity causing it to be erected and maintained, the
+owner of the property upon which the sign is located rebuttably is presumed to have caused it to be
+erected and maintained. [Ord. 88-26, Sec. 4; amended by Ord. 89-12, Sec. 5; Ord. 90-11, Sec. 5]
+
+ 35.230  PERMIT; FEE.
+
+ Prior to erecting or maintaining a tempor ary sign, except as provided in Section 35.238, a
+permit shall be obtained from Polk County. If an individual or entity proposes to erect and maintain
+multiple temporary signs advertising the same event, only one permit is required. If required by the
+Board of Commissioners, each application for a permit shall be accompanied by a fee. The amount
+of any fee shall be established by a resolution of the Board of Commissioners. If a fee is established,
+it shall be uniform for all temporary signs erected or maintained by the permittee. [Ord. 88-26, Sec.
+6; amended by Ord. 89-12, Sec. 6; Ord. 90-11, Sec. 3]
+
+ 35.235   EFFECT OF APPLICATION.
+
+ By signing the application the applicant agrees as follows:
+
+ (a)  Signs will not be erected or main tained in violation of Sections 35.205 to
+35.245 or State Statute; and
+
+ (b) If the County removes any of the a pplicant's illegally erected and maintained
+signs, the applicant will pay the County's cost of removal. [Ord. 88-26, Sec. 7;
+amended by Ord. 89-12, Sec. 7]
+
+ 35.237  [Ord. 89-12, Sec. 8; repealed by Ord. 90-11, Sec. 4]
+
+ 35.238  PERMIT EXEMPTIONS.
+
+ The following do not require a permit under Section 35.230:
+
+  (a) Repainting, maintenance, and repair  of existing signs unless a structural
+change is made.
+
+  (b) Signs not visible from the right-of-way.
+
+ 35-6
+  (c) Holiday decorations for display on private property.
+
+  (d) Political campaign or ideological signs that meet the following conditions:
+
+  (i) Is located on private property; and
+
+  (ii) Is located with the consent of the legal possessor of the premises;
+and
+
+  (iii) Is not located on utility poles or in the public right-of-way; and
+
+  (iv) Conforms to the size vision clearance requirements otherwise
+prescribed under Sections 35.205 to 35.245; and
+
+  (v) Is maintained in a neat, clean and attractive condition; and
+
+  (vi) Complies with the 5-day limitation prescribed by Section 35.215.
+
+ (e) Temporary signs which are placed on a parcel of real property by the owner
+of the parcel, or agent thereof, to advertise an event pertaining specifically to
+that parcel, if such event is permissible under applicable laws and ordinances,
+including the Polk County Zoning Ordina nce, and that comply with the
+requirements set out in subsection (4) of this section. [Ord. 90-11, Sec. 4]
+
+ 35.240  VISION CLEARANCE.
+
+ The following vision clearance requirements sha ll apply to temporary signs that exceed 24
+inches in height above road or highway elevation:
+
+ (a)  There shall be a vision clearance area at all intersecting and intercepting
+roads and highways. Such vision clearance area shall have a minimum of 30
+feet legs along each road or highway intersection.
+
+ (b)  There shall be a vision clearance ar ea on each side of any private driveway
+intersecting a road or highway. Such vision clearance area shall have a
+minimum of 10 feet legs along priv ate driveways and along intersecting
+roads and highways.
+
+ (c)  Vision clearance shall not be required if  the height of the lowest part of the
+sign exceeds 7 feet 6 inches above the elevation of the road or highway.
+[Ord. 88-26, Sec. 8; amended by Ord. 89-12, Sec. 9]
+
+ 35.245  SEVERABILITY.
+
+ Any finding by any court of competent jurisd iction that any portion of Sections 35.205 to
+35.245 is unconstitutional or invalid shall not inva lidate any other portion of Sections 35.205 to
+35.245. [Ord. 88-26, Sec. 9]
+
+ 35-7

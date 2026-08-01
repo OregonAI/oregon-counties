@@ -1,0 +1,100 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-0100-introductory-provisions-pdf
+title: 'Zoning-Ordinance-Section-0100-Introductory-Provisions-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-0100-Introductory-Provisions-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8471/Zoning-Ordinance-Section-0100-Introductory-Provisions-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2f1413a194f9ab3bd96a3455de981773eba7029c48c5046e652ddabdaf012612
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.130
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zoning-Ordinance-Section-0100-Introductory-Provisions-PDF (Zoning-Ordinance-Section-0100-Introductory-Provisions-PDF)
+
+## At a glance
+
+Zoning-Ordinance-Section-0100-Introductory-Provisions-PDF — land use of Yamhill County. 2 pages.
+
+## Full text
+
+Yamhill County Zoning Ordinance   Page 101-1
+
+This section and related information is available at www.co.yamhill.or.us/plan/planning/planning.asp
+
+SECTION 100 - INTRODUCTORY PROVISIONS
+
+101. TITLE
+
+This ordinance and any amendments hereto shall be known and may be cited or pleaded as the
+Yamhill County Zoning Ordinance, No. 310, 1982.
+
+102. AUTHORIZATION AND APPLICATION
+
+This ordinance is hereby enacted for all the area of Yamhill County subject to County jurisdiction
+under the provisions of ORS 215.130 and subsequent amendments of the Oregon Revised Statutes.
+
+103. PURPOSE AND SCOPE
+
+103.01 This ordinance is enacted to promote the public health, safety and general welfare at to
+implement the goals and policies of the Yamhill County Comprehensive Plan 1974,
+Ordinance No. 62-1974 as amended.
+
+103.02 Conformance Required.
+No land shall be used, and no buildings or structures, or part thereof, shall be erected,
+constructed, reconstructed, located, moved, extended, enlarged, structurally altered, or
+used or occupied except in conformity with this ordinance.
+
+103.03 Violations.
+It shall be unlawful for any person to violate any provision of this ordinance, to permit or
+maintain any such violation, to refuse to obey any provision hereof, or to fail or refuse to
+comply with any such provision except as variation may be allowed under this ordinance.
+Violations of this ordinance shall be prosecuted and penalties assessed pursuant to Section
+1406 of this ordinance.
+
+103.04 Interpretation.
+The provisions of this ordinance shall be held to be minimum requirements.  Wherever the
+requirements of this ordinance are at variance with the requirements of any other lawfully
+adopted rules, regulations, ordinances, deed restrictions or covenants, the more restrictive
+or that imposing the higher standards shall govern.
+
+103.05 Severability.
+If any section, sentence, clause or phrase of this ordinance is adjudged by a court of
+competent jurisdiction to be invalid, the decision shall not affect the validity of the
+remaining portions of this ordinance.  Each section, sentence, clause and phrase hereof is
+declared severable.
+
+Yamhill County Zoning Ordinance   Page 100-2
+103.06 Repeal of Previous Zoning Ordinance.
+The Yamhill County Zoning Ordinance, Ordinance No. 83, 1976 enacted on the 11th day
+of February, 1976, and amendments thereto, and the Yamhill County Flood Hazard
+District Ordinance, Ordinance No. 69, 1975 enacted on the 9th day of July, 1975, are
+repealed.  Any reference to Ordinance No. 83, as amended, shall be referenced to the
+appropriate provisions of this ordinance.  All ordinances hereby repealed shall allow
+application of remedies or punishment of a person for the act done or committed prior to
+the date of this Ordinance and in violation of an ordinance hereby repealed.
+
+F:\Share\ZO\0101.doc

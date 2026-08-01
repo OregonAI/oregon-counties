@@ -1,0 +1,506 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-64-storm-water-2023
+title: 'Chapter-64-Storm-Water-2023'
+doc_type: ordinance
+citation: 'Chapter-64-Storm-Water-2023'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3229/Chapter-64-Storm-Water-2023
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e1a73fa629400f3ba99571b22bffa056d6981eee909ad5cf6b4d2920e2ea292f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 401.025
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-64-Storm-Water-2023 (Chapter-64-Storm-Water-2023)
+
+## At a glance
+
+Chapter-64-Storm-Water-2023 — code of Polk County. 10 pages.
+
+## Full text
+
+CH
+APTER 64 2023
+CONS
+TRUCTION EROSION, SEDIMENT AND RUNOFF CONTROL
+64.010
+Definitions
+For the purposes of this chapter, the following words shall have the following meanings:
+"A
+pplicant" means the owner of real property or the owner's authorized agent. "Applicant" includes
+any person who would be required to obtain a Polk County permit or exemption approval, but who
+neglects or otherwise fails to do so.
+"A
+uthorized agent" means the developer, architect, contractor, engineer, builder, personal
+representative, or anyone designated by the owner to have control or supervision of a site involving
+construction site activity.
+"C
+ommon plan of development" means a contiguous construction project or projects where multiple
+separate and distinct construction activities may be taking place at different times on different
+schedules but under one plan.
+"C
+onstruction site" means a location where a Polk County land use or building permit or exemption
+approval is required.
+"Co
+nstruction site activity" means any ground disturbing activities at a location where a Polk
+County permit or exemption approval is required.
+"D
+irector" means the director of the Polk County department of public works or the director's
+designee.
+"E
+mergency" has the same meaning as found in ORS 401.025.
+"E
+rosion" means the wearing away of the ground surface, or the movement, detachment or
+dislocation and transport of sediment including soil particles by the action of water or wind.
+"E
+xemption approval" means an exemption from the requirement to obtain a building permit for an
+agricultural building.
+"Fin
+al stabilization" is determined by satisfying the following criteria: (1) there is no reasonable
+potential for discharge of a significant amount of construction related sediment or turbidity to
+surface waters; (2) construction materials and waste have been removed and disposed of properly.
+This includes any sediment that was being retained by temporary erosion and sediment controls; (3)
+all temporary erosion and sediment controls have been removed and disposed of properly, unless
+doing so conflicts with local requirements; (4) all ground disturbing activities have stopped and all
+stormwater discharges from construction activities that are authorized by this permit have ceased;
+(5) all disturbed or exposed areas of the site are covered by either final vegetative stabilization or
+permanent stabilization measures. However, temporary or permanent stabilization measures are not
+required for areas that are intended to be left unvegetated or unstabilized following construction
+(such as dirt access roads, utility pole pads, areas being used for storage of vehicles, equipment, or
+m
+aterials); provided, that measures are in place to eliminate or minimize erosion.
+"G
+round disturbing activities" means any activity that exposes soil, including, but not limited to,
+construction, landscaping, removal of vegetation, stockpiling of soil or construction debris, grading,
+excavating, filling, clearing, trenching, drilling, transport or fill, or utility work, or working of land
+at a particular location.
+"N
+onresidential development" means a development in which living units are not included or
+individual living units are not separately owned.
+"O
+perations and maintenance manual" means a written document containing policies and
+procedures related to the operation, maintenance, repair and replacement requirements for all
+structural, vegetative, and management practices installed and relating to stormwater control
+systems for a development described in the Polk County Storm Water Management Program
+(SWMP).
+"P
+ublic storm drainage and surface water system" means natural or manmade drainage courses for
+the conveyance of surface water.
+"Re
+sidential development' means a development in which individual living units are separately
+owned.
+"Se
+diment" means finely divided loose material that can be suspended and transported in water or
+air and may originate from disturbed soil, landscaping, or construction activities or materials.
+"S
+torm event" means a storm event (as defined at 40 CFR 122.21 (g)(7)(ii)) with greater than 0.1
+inch of rainfall and at least 72 hours after the previously measurable storm event with greater than
+0.1 inch of rainfall.
+"S
+tormwater management area" means an area designated as a stormwater management area by the
+Department of Environmental Quality under Polk County jurisdiction.
+"S
+tormwater treatment facilities" means a storm collection and conveyance system, operated and
+maintained by the county or by a private property owner, located outside the building envelope
+which serves one or multiple building storm drains, catch basins, area drains, or other drainage
+facilities.
+(Construction Erosion and Sediment Control)
+60.015 Pur
+pose
+The purpose of this chapter is to minimize the amount of sediment reaching waterways, wetlands,
+and the public storm drainage and surface water system for the duration of construction site
+activities, which complies with Phase II of the National Pollutant Discharge Elimination System
+(NP-DES), a federal permit that requires the operator of a Municipal Separate Storm Sewer Systems
+(MS4) to implement Best Management Practices (BMPs) to prevent construction site runoff
+64.020
+ Permit Required
+An erosion prevention and sediment control permit is required inside a stormwater management
+area if construction site activity(ies) will expose at least one quarter of an acre (10,890 square feet)
+of
+ soil, either in isolation or as part of a common plan of development.
+64.030
+ Erosion Prevention and Sediment Control Plan
+(1) An erosion prevention and sediment control plan with a certified engineer stamp is required
+for all erosion prevention and sediment control permits. The plan must be submitted by the
+applicant and approved by the director for issuance of the erosion prevention and sediment control
+permit, prior to the issuance of Polk County permit of exemption approval and commencement of
+ground disturbing activities. The plan must contain protection techniques that will eliminate runoff
+situation created from the construction activity both during and after construction. Site-specific
+considerations shall be incorporated.
+(2) T
+he erosion prevention and sediment control plan must include sizing criteria, performance
+criteria, design specifications, guidance on selection and placement of controls, and specifications
+for long-term operation and maintenance, including appropriate inspection intervals and a self-
+inspection checklist.
+(3) T
+he county may require that the applicant design and construct a temporary drainage system
+that will ensure any off-site impacts caused by the construction site activity can be mitigated.
+(4) T
+he Polk County department of public works may perform inspections to ensure compliance
+with this chapter at the discretion of the director.
+(5) T
+he erosion prevention and sediment control plan is required to be kept on site and available
+for review by inspectors.
+(6) T
+he erosion prevention and sediment control plan must include clear steps for project phase
+completion, final stabilization, and permit closure.
+64.
+040 Permit Fee
+The county may establish a fee for review of plans and inspections required by this chapter by order
+of the board of commissioners. The board of commissioners shall set the fee to recover the public
+works department costs of providing an applicant's erosion prevention and sediment control permit,
+inspections, and plan review.
+64.050
+ Construction Site Deposits on Public Streets and into Storm Drains
+No person shall cause or allow visible and measurable erosion or sediment related to construction
+site activity inside a stormwater management area as defined herein to enter the public storm
+drainage and surface water system. Any person causing visible and measurable erosion or sediment
+shall immediately abate or remove it. The removal shall be accomplished by hand labor or approved
+mechanical means.
+64.060
+ Maintenance
+(1) The applicant shall maintain all erosion and sediment control measures in proper
+functioning order for the duration of the ground disturbing activities or until adequate ground cover
+has been established.
+(2) T
+he applicant shall inspect, maintain, adjust, repair, and replace erosion and sediment
+control measures as necessary within 24 hours following a storm event to ensure that the measures
+are functioning properly.
+(3) Du
+ring active ground disturbing activity, the applicant shall inspect and maintain erosion
+and sediment control measures weekly or within 24 hours of a storm event.
+(4) T
+he erosion prevention and sediment control plan must be maintained and updated as site
+conditions change, to prevent sediment or pollutant contaminated water from leaving the site.
+(5) P
+ermit finalization requires one of the following to be achieved:
+(
+a) Individual lots or phases of a qualifying common plan of development obtain individual
+erosion prevention and sediment control permit coverage prior to the issuance of Polk County
+permit(s) or exemption approval(s). The director shall be notified of sale of individual lots or phases
+of a common plan of development no less than 14 calendar days prior to the date of closing. Until
+such time as an individual erosion prevention and sediment control permit is obtained, the lot or
+phases sold shall continue to be the responsibility of the overall development's erosion prevention
+and sediment control permit.
+(b) F
+inal stabilization.
+64.070
+  Falsifying Information
+No person shall knowingly make any false statement, representation, or certification in any
+application, record, report, plan, or other document filed or required to be  maintained pursuant to
+this chapter.
+64.080
+ Stop Work Orders
+(1) I
+n the event there is a violation of this chapter and it is necessary to obtain compliance with
+this chapter, the director may issue a stop work order requiring that all work, except work directly
+related to the elimination of the violation, be immediately and completely stopped. If the director
+issues a stop work order, the applicant shall not resume work until such time as the director gives
+specific approval in writing. The stop work order shall include:
+(a) T
+he date of the stop work order;
+(b) T
+he erosion prevention and sediment control permit and/or permit or exemption
+approval number if applicable;
+(c) T
+he site address, legal description or location applicable to the stop work order;
+(d) A de
+scription of all violations; and
+(e) T
+he conditions under which the work may resume.
+(2) T
+he stop work order shall be in writing and posted in a conspicuous loc ation at the site.
+Other means of communication of the stop work order may be exercised in the discretion of the
+director.
+(3) N
+o person may remove, obscure, mutilate or otherwise damage a stop work order.
+(4
+) A stop work order shall be effective upon posting or upon verbal delivery under subsection
+(5) of this section.
+(5) Wh
+en an emergency condition exists, the director may issue a stop work order verbally. A
+written stop work order shall be posted in a conspicuous location at the site within 24 hours of the
+verbal order.
+(Pos
+t Construction Runoff Control)
+64.1
+00  Purpose
+The purpose PCCO 64.100-64.250 is to reduce pollutants in and quantity of stormwater reac hing
+waterways, wetlands, and the public storm drainage and surface water system generated after the
+completion of development improvements in a stormwater management area as denned by the
+Oregon Department of Environmental Quality.
+64.
+110  Engineering Standards
+The stormwater quality treatment standards applicable to developed sites under PCCO 64.100-
+64.250 shall be the City of Salem Department of Public Works Standard Drawings, and they shall
+specify exactly what kinds of permanent stormwater treatment facilities are required (if any) for a
+developed site.
+64.
+120  Permit Required
+(1) The City of Salem Department of Public Works Standard Drawings  shall establish under
+what circumstances an on -site stormwater drainage permit is required inside a stormwater
+management area. The permit  shall require an applicant to install any applicable sto rmwater
+treatment facilities as required by the City of Salem Department of Public Works  Standard
+Drawings effect on the date of the applicant's application for a  Polk County land use or building
+permit or exemption approval.
+(2) T
+he permit shall include an operation and maintenance manual. For commercial or
+residential development, the applicant shall prepare the manual. For a single-family residence with a
+stormwater treatment facility that serves  the residence exclusively, the county sha ll supply the
+manual and document to be recorded with the County Clerk.
+64.130
+  On-Site Stormwater Drainage Plan
+(1) A
+n on-site stormwater drainage plan is required for all on-site stormwater drainage permits.
+The plan must be submitted by the applicant and approved by the director for issuance of the on-site
+stormwater drainage permit, prior to the issuance of a Polk County land use or building permit or
+exemption approval and commencement of work at the construction site. The plan must contain
+protection techniques that will eliminate runoff situation  created after the completion of the
+development, Site-specific considerations shall be incorporated.
+(2) If
+ landscaping is part of the stormwater treatment facilities, then the applicant must prepare
+and submit for approval with the on-site stormwater drainage plan a detailed plan for management
+of vegetation at the site after con struction, which shall be attached to the  maintenance agreement
+and the operations and maintenance manual. The plan shall include a description of what practices
+will be employed to ensure that adequate vegetation cover is preserved.
+(3) Th
+e department of  public works shall perform at least one inspection of stormwater
+treatment facilities requi red under an on- site stormwater drainage permit during installation to
+ensure compliance with this chapter and the permit. The department of public works shall perform
+at least  one inspection of stormwater treatment facilities required under an on -site sto rmwater
+drainage permit shortly after completion of installation to ensure compliance with this chapter and
+the permit.
+64.140 Ma
+intenance Responsibility
+(1) Un
+less otherwise approved by the county, Polk County shall maintain stormwater treatment
+facilities serving residential development or public rights-of-way created pursuant to a development
+application submitted after the effective date of the ordinance codified in this chapter. Polk County
+shall not maintain stormwater treatment facilities which serve a single-family residence exclusively.
+(2) T
+he owner of property containing stormwater treatment facilities maintained by Polk
+County pursuant to subsection ( 1) of this  section shal l execute a surface and stormwater
+management easement and a stormwater treatment facility access easement to Polk County in a
+form sufficient to the County.
+(3) U
+nless otherwise approved by the county, the applicant for a development creating multiple
+parcels intended for separate ownership shall enclose the stormwater treatment facilities maintained
+by Polk County pursuant to subsection (1) of this section in a separate tract, if doing so is consistent
+with the minimum lot size standards for the applicable zone.
+64.150 Ma
+intenance Agreement
+(1) A
+n applicant for a nonresidential development or a sing le-family residence with a
+stormwater treatment facility that serves the residence exclusively which is required to obtain an on-
+site stormwater drainage permit shall execute a maintenance agreement in a form acceptable to
+Polk County to ensure that the stormwater treatment facilities function consistently with the City of
+Salem Department of Public Works  Standard Drawings in effect on the  date of the applicant's
+application for a Polk County land use or building permit or exemption approval. This agreement
+will:
+(a) A
+uthorize Polk County public works staff to access the stormwater treatment
+facilities at the site for the purpose of inspe ction to ensure continued compliance with the City of
+Salem Department of Public Work s Standard Drawings in effect on the date of the applicant's
+application for a Polk County land use or building permit or exemption approval.
+(b) For a nonresidential development, require the current owner to have an operations
+and maintenance manual available on site at all  times. The current owner shall keep a record of
+maintenance and repairs for the last five years, which shall be available for inspection at a
+reasonable time and in a reasonable manner by Polk County public works staff.
+(c) Expr
+essly run with the land and be binding on applicant's successors and assigns.
+(d) A
+uthorize Polk County public works staff to enter the subject property in order to
+make any repairs necessary, at the owner's expense, to restore the stormwater treatment facilities at
+the site to a condition consistent with the City of Salem Department of Pu blic Works Standard
+Dr
+awings in effect on the date of the applicant's application for a Polk County land use or building
+permit or exemption approval in the event that  the present condition of the stormwater treatment
+facilities poses an imminent threat to the public health, safety, or welfare.
+(2) A
+fter an applicant executes a maintenance ag reement, the applicant shall record the
+maintenance agreement in the Polk County real property deed records.
+(3) A
+ny violation of an executed maintenance agreement shall constitute a violation of this
+chapter.
+64.16
+0 Notice of Violation
+(1) Wh
+enever the director finds that a condition exists on an owner's property that constitutes a
+violation of PCCO 64.100-64.250, the director may order compliance by written notice of violation
+to the property owner. The notice may require without limitation:
+(
+a) The performance of monitoring, analyses, and reporting;
+(b) T
+he maintenance of vegetation;
+(c) T
+he cessation of all violating discharges, practices, or operations;
+(d) The
+ abatement or remediation of stormwater pollution or contamination hazards and
+the restoration of any affected property; and
+(e) T
+he implementation of  source control or treatment best management practices
+directed by the director.
+(2) The
+ notice shall:
+(a) D
+escribe the property by street address or tax lot number;
+(b) D
+escribe the nature of the violation;
+(c) S
+tate by a date certain when the pro perty owner must correct the violation in a
+manner acceptable to the director;
+(d) I
+nform the owner that if the violation is not corrected the county shall either
+complete the repairs, seek to compel abatement or cite the owner, as appropriate;
+(e) In
+form the property owner that if the county performs the necessary abatement or
+repairs, the county will bill the property owner for the costs;
+(f) In
+clude an estimate of the costs antici pated for th is county to abate or repair the
+violation;
+(g) I
+nform the property owner that failure to pay the county for its costs to correct the
+violation may result in filing of a lien on the property;
+(h
+) Inform the property owner of the rights spe lled out in PCC O 64.190-64.220,
+including the right to a hearing, and individuals the property owner may contact for additional
+information.
+(3) The
+ notice shall be served on the property owner by any means to  reasonably apprise the
+owner of the violation, including but not limited to personal service, or first class mail to the address
+of record within the County.
+(4) I
+f a stormwater treatment facility is maintained by the county, the owner is not responsible
+for violations of this chapter other than violations caused by the owner.
+64.170
+  Abatement and/or Repair of Violation
+If the property owner has not corrected the violation as directed within the time  allowed in the
+notice given pursuant to PCCO 64.160 the director may take all measures necessary t o abate the
+violation and/or restore the property. The director or persons authorized by the director may enter
+upon property to abate and/or restore the property upon obtaining consent of the property owner or
+through a court issued warrant.
+64.180
+ Emergency Abatement
+The director is authorized to require immediate abatement of any violation of this chapter that
+constitutes an immediate threat to the health,  safety or well -being of the public. The director or
+persons authorized by the director may enter upon property to abate and/or restore the property upon
+obtaining consent of the property owner or through a court-issued warrant.
+64.190
+  Collection of Costs
+(1) Th
+e county may collect all costs associated with the repair or abatement of a violation, or
+both, from the property owner.
+(2) T
+he county shall keep detailed records of all costs associated with the abatement or repair
+due to a violation of this chapter.
+(3) U
+pon completion of the abatement or repair of the violation by the county, a notice of final
+costs shall be se rved on the owner by personal serve consistent with 64.160(3) Payment must be
+made within 30 days from the date of the notice of final cos ts. The notice must  contain the
+following:
+(a) T
+he total cost of repair or abatement, or both;
+(b) A
+ statement that the total cost may be filed as a lien with the county clerk unless
+paid within 60 days from the date of the hearings officer's order described in PCCO 64.220
+(c) A
+ statement that the owner may contest the charges at a hearing th at will be
+scheduled on the matter pursuant to PCCO 64.220
+64.200
+  Hearing Request
+A property owner who is served with a notice of violation as described in PCC O 64.160 may
+request a hearing before the Polk County hearings officer. Hearing requests must bs filed in writing
+with the Polk County hearings officer within five business days from the date the notice was served.
+64.21
+0  Hearing on Notice of Violation
+(1) U
+pon receiving a written request for a hearing pursuant to PCC 64.200, the hearings officer
+shall set a time and place for a hearing that shall be no more than seven days from the date of filing
+of the hearing request, or as soon as practicable. The hearings officer shall  notify the person
+requesting a hearing of the time and date of the hearing. The director shall appear and present
+evidence pertinent to the alleged violation and its abatement or repair. The owner of the property
+may also present evidence before the hearings officer pertinent to the alleged violation and its
+abatement or repair.  The county shall have the burden of proving by a preponderance of the
+evidence that a violation exists and must be abated or repaired.
+(2) F
+ailure of the person requesting hearing to appear shall constitute a waiver of the right to
+present evidence at the hearing or thereafter.
+(3)
+After the hearing, the hearings officer shall issue an order containing findings as to whether
+the alleged violation does in fact exist, the extent to which the violation exists and (if abatement or
+repair is required) shall s et a date for abatement or repair to  be accomplished by the owner. The
+hearings officer's order shall be issued within 10 days of the date of the hearing eras soon as
+practicable.
+(4) T
+he decision of the hearings officer is final. Appeal shall be only by w rit of review under
+ORS Chapter 34.
+64.220 H
+earing on Final Costs
+(1) A
+t the time the notice of final costs is sent to the property owner as described in PCCO
+64.190, a copy shall also be sent to the  hearings officer. The hearings officer shall set a time and
+place for a hearing that shall be no more than seven days from the date of receipt of  the notice of
+final costs by the hearings officer, or as soon as pra cticable. The hearings officer shall notify the
+property owner and the director of the time and date of the hearing. The only issue at the hearing
+shall be the reasonableness of the cost of abatement or repairs.
+(2) F
+ailure of the property owner to appear shall constitute a waiver of  the right to present
+evidence at the hearing or thereafter.
+(3) Af
+ter the hearing, the hearings officer shall issue an order within 10 days of the date of the
+hearing, or as soon as practicable, detailing the amount of the final costs that the owner must pay, if
+any. The hearings officer's order shall also indicate that the final costs must be paid within 30 days
+and if they are not paid within 60 days the county may record a lien in the county clerk lien record.
+(4) T
+he hearings officer's order of determination shall be final and binding. Appeal shall be only
+by writ of review under ORS Chapter 34.
+64.230
+  Lien Filing Record
+If final costs are not paid within 60 days of the hearings officer's order requiring payment of final
+costs, the enforcement officer shall record a lien with the Polk County clerk or any other cou nty
+clerk of this state. The total amount of final costs shall be recorded as a lien in the county clerk lien
+record. The lien provided for herein shall be foreclosed in the manner prescribed by state law for the
+en
+forcement of liens. Nothing in this section precludes the county from taking other action to collect
+the final costs.
+64.240  E
+nforcement
+(1) E
+nforcement of citations under this chapter shall be pursuant to PCCO chapter 50.  The
+Public Works Director or their designee is hereby authorized to act as an enforcement officer under
+this chapter pursuant to PCCO 50.025.
+(2) A
+ny person cited for a violation of this chapter shall be subject to a fine of not more than
+$500.00 for a noncontinuing violation and a fine of not more than $1 ,000 for a continuing violation.
+Each day that this chapter is violated shall constitute a separate violation.
+(3) T
+he provisions of this chapter are in addition to and not in lieu of any other procedures and
+remedies provided by law or Ordinance, including equitable relief and damages.
+64.250
+  Fees
+The board of commissioners may adopt fees necessary to support the stormwater program by board
+order.
+Cross References:
+PCCO Chapter 50 - Enforcement

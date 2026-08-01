@@ -1,0 +1,116 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-92-comprehensive-plan
+title: 'Chapter-92-Comprehensive-Plan'
+doc_type: ordinance
+citation: 'Chapter-92-Comprehensive-Plan'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3430/Chapter-92-Comprehensive-Plan
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2a70616de94e7def03a272ca97dd1d29af7a8b831c6d08f6882e1c3d8752a363
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-92-Comprehensive-Plan (Chapter-92-Comprehensive-Plan)
+
+## At a glance
+
+Chapter-92-Comprehensive-Plan — code of Polk County. 2 pages.
+
+## Full text
+
+92-1
+ CHAPTER 92 1989
+
+ COMPREHENSIVE PLAN
+
+ 92.110  COMPREHENSIVE PLAN.
+
+ The Polk County Comprehensive Plan, entitle d "Polk County Comprehensive Plan," dated
+August 1978, prepared by the Planning Division of the Department of County Development for Polk
+County, attached hereto as Exhibit "A" and incorporated herein by reference in its entirety, including
+text and all appendices, figures and maps, is hereby adopted. [Ord. 217, Sec. 1]
+
+Note:  The Polk County Community Development Department now performs functions of the
+Department of County Development for Polk County relating to land use planning.
+
+ 92.115  AMENDING COMPREHENSIVE PLAN.
+
+ Any person may apply to have the text or map of the Polk County Comprehensive Land Use
+Plan amended. Application for a comprehensive plan amendment shall be made to the Polk County
+Department of Community Development in a form prescribed by the department. The application
+shall be accompanied by a filing fee in an am ount set by resolution of the Board of County
+Commissioners. [Ord. 268, Sec. 1]
+
+Note:  See note under Section 92.110.
+
+ 92.120  ADOPTION OF OTHER PLANS.
+
+ Notwithstanding the adoption of the Salem Urban Area Comprehensive Plan, Appendix "D"
+to the Polk County Comprehensive Plan, by Section 92.110, none of the plans set forth on page 100
+of the Salem Urban Area Comprehensive Plan, as adopted elements of that plan, are adopted by Polk
+County unless expressly adopted by separate action of the Polk County Board of Commissioners.
+[Ord. 217, Sec. 2]
+
+ 92.130  PHOTOGRAPHS.
+
+ Certain aerial photograph mosaics numbere d 39 through 59, inclusive, depicting the
+Greenway Boundary as amended by the Polk County Board of Commissioners, said mosaics being
+attached hereto marked Exhibit "B" and by this reference incorporated herein as if fully set forth, are
+hereby adopted as a part of the Polk County Comprehensive Plan for the purpose of recommending
+said boundaries to the Oregon Land Conservation and Development Commission for its approval.
+[Ord. 137, Sec. 2]
+
+ 92.140  FLOOD PLAIN REPORT.
+
+ A certain document entitled "1973 Flood Plain Report, Polk County, Oregon," prepared by
+the United States Department of Agriculture, Soil Conservation Service, marked Exhibit "C", is
+hereby adopted to depict the flood hazard areas of Polk County. Said Flood Plain Report marked
+Exhibit "C" is attached hereto and incorporated herein as if fully set forth. [Ord. 137, Sec. 3]
+
+ 92-2
+
+ 92.145  FLOOD PLAIN OVERLAY AND MAPS.
+
+ (1)   The Flood Plain Overlay Zone set out as Exhibit "A" and incorporated in this section
+by reference, is adopted as Chapter 178 of the Polk County Zoning Ordinance, Ordinance No. 78, as
+amended.
+
+ (2)   The Polk County Flood Insurance Maps ar e revised, as set out as Exhibit "B" on file
+in the Polk County Planning Department. [Ord. 88-5, Secs. 1 and 2]
+
+ 92.150  LAND USE PLAN MAPS.
+
+ The Land Use Plan Maps attached hereto entitled "Perrydale-Buell Area," "Grand Ronde
+Area," "Eola Hills Area," "Dallas Area," "Spring Valley Area," "Central Polk Area," "Monmouth-
+Independence Area," "South Polk Area," "Green wood-North Monmouth Area," and "Oak Grove
+Area," marked Exhibits "E-1" through "E-10" inclusive, respectively, are adopted and incorporated
+herein as if fully set forth. [Ord. 137, Sec. 5]
+
+Note:  The various exhibits, maps, and other documents referred to in this chapter are on file in the
+Polk County Community Development Department.
+
+ORS Reference:
+
+County Planning Ord. Zoning, ORS Chapter 215.

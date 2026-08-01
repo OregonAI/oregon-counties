@@ -1,0 +1,324 @@
+ ### CHAPTER 20 - CABLE FRANCHISES
+
+ ### 20.005 - Purpose and Intent.
+
+The Benton County Board of County Commissioners has determined that it is in the public
+interest and necessary for the promotion of the safety, convenience and general welfare
+of the citizens of the County to have a chapter which authorizes the County to grant
+nonexclusive franchises and regulate the use of rights of way, and identifies the
+conditions upon which the County will grant a franchise or franchises allowing the
+construction, maintenance and operation of a cable communications system within public
+rights of way located outside of incorporated cities within the County.
+[Ord. 2000-0164]
+
+ ### 20.010 - Definitions.
+
+For the purposes of this chapter, unless the context requires otherwise:
+(1)
+"Access" means (A) channel capacity designated for public, educational or governmental use;
+and (B) facilities and equipment for the use of channel capacity.
+(2)
+"Cable Communications System" means a facility, consisting of a set of closed transmission, and control equipment
+paths and associated signal generation, reception, and control equipment that is designed
+to provide cable service which includes video programming and which is provided to
+multiple subscribers within a community, but such term does not include (A) a facility
+that serves only to transmit the television signals of 1 or more television broadcast
+stations; (B) a facility that serves subscribers without using any public right of
+way; (C) a facility of a common carrier which is subject, in whole or in part, to
+the provision of Title II of the federal Communications Act, 47 U.S.C. 201 et seq.,
+except that such facility shall be considered a cable system (other than for purposes
+of section 47 U.S.C. 541(c)) to the extent such facility is used in the transmission
+of video programming directly to subscribers, unless the extent of such use is solely
+to provide interactive on-demand services; (D) an open video system that complies
+with federal statutes; or (E) any facilities of any electric utility used solely for
+operating its electric utility systems.
+(3)
+"Cable Service" means (A) The one-way transmission to subscribers of (i) video programming, or (ii)
+other programming service, and (B) subscriber interaction, if any, which is required
+for the selection or use of such video programming or other programming service.
+(4)
+"Franchise" means an agreement between the County and Franchisee for a non-exclusive authorization
+or renewal thereof for the construction or operation of a Cable System within the
+jurisdiction of the County, that may include terms and conditions in addition to those
+set forth in this chapter, provided that such terms and conditions shall be consistent
+with applicable state and federal law and regulations.
+(5)
+"Franchisee" means the person, firm or organization to which a franchise is granted to operate
+a cable communications system pursuant to the authority of this chapter.
+(6)
+"Leased Access Channel" means any channel, or portion of a channel, commercially available for programming
+by persons other than the Franchisee for a fee or charge in accordance with section
+47 U.S.C. 532, as amended.
+(7)
+"Programming" means (A) "Video Programming" means programming provided by, or generally considered
+comparable to programming provided by, a television broadcast station; and (B) "Other
+Programming Service" means information that a cable operator makes available to all
+subscribers generally.
+(8)
+"Public Rights of Way" shall mean the surface of, and the space above and below, any public street, highway,
+freeway, bridge, land path, alley, court, boulevard, sidewalk, parkway, way, lane,
+public way, drive, circle, or other public right-of-way, including, but not limited
+to, public utility easements, dedicated utility strips, or rights-of-way dedicated
+for compatible uses and any temporary or permanent fixtures or improvements located
+thereon now or hereafter held by the County in the Franchisee's service area which
+shall entitle the Franchisee to the use thereof for the purpose or installing, operating,
+repairing, and maintaining the Cable System. Public Rights of Way shall also mean
+any easement now or hereafter held by the County within the Franchisee's service area
+for the purpose of public travel, or for utility or public service use dedicated for
+compatible uses, and shall include other easements or rights-of-way as shall within
+their proper use and meaning entitle the Franchisee to the use thereof for the purposes
+of installing and operating the Franchisee's Cable System over poles, wires, cables,
+conductors, ducts, conduits, vaults, manholes, amplifiers, appliances, attachments,
+and other property as may be ordinarily necessary and pertinent to the Cable System.
+[Ord. 2000-0164]
+
+ ### 20.015 - Authority.
+
+The Board of County Commissioners of Benton County recognizes, declares and establishes
+the authority to regulate the construction, operation and maintenance of cable communications
+systems (hereinafter "systems") for the unincorporated area of the County and to exercise
+all powers necessary for that purpose, including, but not limited to, the following:
+(1)
+To grant by order nonexclusive franchises for the development and operation of a system
+or systems;
+(2)
+To impose different franchise requirements based on reasonable classifications;
+(3)
+To contract, jointly agree or otherwise provide with other local or regional governments,
+counties or special districts for the development, operation, and/or regulation of
+systems, or franchises therefor, notwithstanding the fact that the systems extend
+beyond the jurisdiction of the County;
+(4)
+To purchase, hire, construct, own, maintain, operate or lease a system and to acquire
+property necessary for any such purpose;
+(5)
+Subject to applicable federal regulations, to regulate and supervise all facets of
+a system, including, but not limited to:
+(a)
+Consumer service, consumer protection and privacy standards.
+(b)
+Disputes among the County, franchisees, and subscribers.
+(c)
+Franchisee fair employment practices.
+(d)
+The development, management and control of access channels.
+(e)
+Programming, channel capacity and system interconnections.
+(f)
+Rates and review of finances for rate adjustments.
+(g)
+Construction timetables, standards, and service extension policies.
+(h)
+Modernization and upgrade of technical aspects.
+(i)
+Leased access channels.
+(j)
+Ensuring adherence to Federal, State and local regulations.
+(k)
+Franchise transfer and transfer of control of ownership.
+(L)
+Franchise renewal.
+(m)
+Franchise revocation.
+(n)
+Enforcement of buy-back, lease-back or option-to-purchase provisions.
+(o)
+Receivership and foreclosure procedures.
+(p)
+Compliance with County standards for public rights of way.
+(q)
+Regulate telecommunications utilities which operate a cable communications system.
+(r)
+Regulate direct broadcast satellite service.
+(6)
+To reserve the power to exercise this grant of authority to the fullest extent allowed
+by law, and in a manner that is consistent with superior law.
+(7)
+To the extent the County has authority to regulate direct broadcast satellite systems,
+it elects to do so and will require the granting of a franchise prior to a person
+providing such service.
+[Ord. 2000-0164]
+
+ ### 20.020 - Grant of Franchise; Renewal.
+
+In the event that the Board finds it in the best interests of the County to consider
+granting a franchise for a system, the procedures set forth in this chapter shall
+be followed.
+(1)
+By order of the Board, the County Administrator may be directed to prepare a request
+for proposal (hereafter referred to as an "RFP") containing at least the following:
+(a)
+Information and instructions relating to the preparation and filing of bid proposals;
+(b)
+Requirements regarding the development, operation and regulation of a system, including,
+but not limited to, the following:
+(A)
+The length, renewal and transfer or assignment of the franchise, including foreclosure
+and receivership provisions;
+(B)
+A description of the franchise territory and the extension of service;
+(C)
+Access requirements;
+(D)
+The system design;
+(E)
+Technical performance standards;
+(F)
+Fees, records and reporting;
+(G)
+Indemnification, insurance, and liability for damages; and
+(H)
+Provision of an option for the County to acquire the system upon revocation or expiration
+of the franchise.
+(c)
+Criteria to be used in evaluating applicant proposals.
+(2)
+When a person is operating an existing system without a franchise, by order of the
+Board, the Administrator shall be directed to prepare a proposed franchise, containing
+at least the requirements listed in paragraph (1)(b) hereof for presentation to the
+operator.
+(3)
+When a person seeks to operate a cable communications system, a proposed franchise
+containing at least the requirements listed in paragraph (1)(b) hereof may be submitted
+to the Administrator.
+(4)
+The Board, by order, may:
+(a)
+Approve or deny the RFP, or proposed franchise, as proposed, or modify or otherwise
+make amendments thereto as it deems necessary;
+(b)
+Authorize the County Administrator to seek bids for a system pursuant to the RFP,
+or enter discussions with a current operator, or proposed operator on the award of
+a franchise.
+(5)
+The Board may award a franchise only after a public hearing on the proposed franchise,
+notice of which shall be published in a local newspaper of general circulation in
+the County at least 10 days prior to the date of the hearing. The potential franchisee
+shall be notified by mail of the public hearing at least 10 days before the date of
+the hearing, provided, however, that no defect in the notice or failure to notify
+shall invalidate the franchise awarded. The Board may award the franchise, modify
+the proposed franchise and award or take no action.
+(6)
+No franchise or award thereof shall be deemed final until adoption of an order containing
+the terms and conditions thereof. The franchisee shall bear the costs of all publications
+and notices given in connection with the award of the franchise, and the costs incurred
+by the County in evaluating the proposed franchise.
+(7)
+A request for review, modification, or renewal of a franchise will be considered and
+processed as set forth above and pursuant to federal regulations for the granting
+of a franchise.
+[Ord. 2000-0164]
+
+ ### 20.025 - Administration of Cable Communications Chapter and Franchise.
+
+The Board shall have the power to carry out any or all of the following functions:
+(1)
+Employ the service of a technical consultant, to assist in the analysis of any matter
+related to any franchise, RFP or proposed franchise under this chapter;
+(2)
+Act on application for franchises;
+(3)
+Act on matters which might constitute grounds for revocation or termination of a franchise
+pursuant to its terms;
+(4)
+Resolve disagreements among franchisees and public and private users of the system;
+(5)
+Consider requests for rate settings or adjustments;
+(6)
+Coordinate and facilitate the use of access channels;
+(7)
+Act in intergovernmental matters relating to systems, cooperate with regulators and
+operators of other systems, and supervise interconnection of systems;
+(8)
+Review all franchisee records required by the franchise and, in the Board's discretion,
+require the preparation and filing of information additional to that required by the
+franchise;
+(9)
+Performance Evaluation Sessions:
+(A)
+The County may hold performance evaluation sessions at least every 3 years but not
+more than annually on the anniversary date of the effective date of the franchise.
+The County shall conduct all such evaluation sessions in a fair manner.
+(B)
+The County may hold special evaluation sessions at any time during the term of the
+Franchise Agreement, which may or may not be open to the public.
+(C)
+All regular evaluation sessions shall be open to the public and announced at least
+1 week in advance in a newspaper of general circulation in the franchise area, and
+the County shall provide at least 1 week advance written notice to the Franchisee.
+(D)
+Evaluation sessions shall deal with the Franchisee's performance of the terms and
+conditions of the Franchise and compliance with applicable local, state and federal
+laws and regulations.
+(E)
+At the request of the County and for the purpose of regular evaluation sessions only,
+Franchisee shall submit to the County a plant survey, report, or map, in a format
+mutually acceptable to the County and Franchisee, which include a description of the
+portions of the franchise area that are cabled and have all Cable Services available,
+including those areas where the system has been upgraded. Such report shall also include
+the number of miles and location of overhead and underground cable plant, and the
+number of miles (overhead and underground). If the County reasonably believes that
+a portion or all of the Cable System does not meet the applicable FCC technical standards,
+the County, at its sole expense, reserves the right to appoint a qualified independent
+engineer to evaluate and verify the technical performance of the Cable System.
+(F)
+During evaluations under this section, Franchisee shall fully cooperate with the County
+and shall provide such information and documents as necessary and reasonable for the
+County to perform the evaluation. This section shall sunset and be of no further force
+and effect during any period, and only during such period, that the Franchisee is
+subject to effective competition as such term is defined in 47 C.F.R.§76.905.
+(G)
+At the conclusion of a regular evaluation session, the County may prepare its proposed
+written findings and recommendations and shall provide a copy thereof to the Franchisee.
+Within 30 days after receipt of the County's proposed written findings and recommendations,
+the Franchisee may submit its written response to the County. The County shall give
+due and full consideration of the Franchisee's written response, and may adopt the
+findings and recommendations with or without modification.
+(10)
+Adopt and amend regulations and procedures necessary to enforce franchises and to
+clarify terms thereof;
+(11)
+Any other actions the Board deems necessary to carry out the purpose of this chapter.
+[Ord. 2000-0164]
+
+ ### 20.030 - Intergovernmental Agreements.
+
+The Board may enter into intergovernmental agreements as authorized by Oregon law,
+with any other jurisdiction to provide for the cooperative regulation and control
+of any aspect of a cable communications system. Such agreements may provide for the
+delegation of any and all powers of the Board to an entity provided for in the intergovernmental
+agreement, except for the powers to enter into or revoke a franchise agreement.
+[Ord. 2000-0164]
+
+ ### 20.035 - Violation; Penalties and Remedies.
+
+(1)
+Violation and Penalties.
+(a)
+Any person, firm or corporation, other than the County, whether as principal, agent,
+employee or otherwise, violating or causing the violation of any provision of this
+chapter or performing any of the acts or functions set forth in this chapter, which
+defines a cable communications system, without having been awarded a franchise to
+perform said acts or functions pursuant to the terms of this chapter, shall be deemed
+to have committed an infraction.
+(b)
+Violation by a franchisee of any provision of a franchise granted pursuant to this
+chapter is an infraction.
+(c)
+Each violation occurring on a separate day is considered a separate violation of this
+chapter.
+(2)
+Cumulative Remedies. The rights, remedies and penalties provided in this section are cumulative and not
+mutually exclusive and are in addition to any other rights, remedies and penalties
+available to the county under any other ordinance or law.
+(3)
+Injunctive Relief. Upon authorization by the Board, the County Counsel may commence an action in the
+Circuit Court or other appropriate court to enjoin the continued violation of any
+provision of this chapter.
+[Ord. 2000-0164]
+
+ ### 20.040 - Severability.
+
+Invalidity of a section or part of this chapter shall not affect the validity of the
+remaining sections or parts of sections.
+[Ord. 2000-0164]

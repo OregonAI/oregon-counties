@@ -1,0 +1,5798 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/coos-county
+id: coos-land-use-chapter-3-estuary
+title: 'Chapter 3 Estuary'
+doc_type: ordinance
+citation: 'Chapter 3 Estuary'
+authority_level: county_ordinance
+issuing_body: 'Coos County Board of Commissioners'
+source_url: https://co.coos.or.us/files/c7dd7ad95/chapter_3_estuary_.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 827a7e1d6fb1ec1c843496d1253be775e9d5cd8e81eed9833d0e36189bb63442
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 196.600
+    - ORS 196.800
+    - ORS 196.830
+    - ORS 197.732
+    - ORS 215.130
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.215
+    - ORS 215.298
+    - ORS 215.448
+    - ORS 308.792
+    - ORS 321.359
+    - ORS 321.372
+    - ORS 358.480
+    - ORS 517.750
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 527.620
+    - ORS 537.545
+    - ORS 541.615
+    - ORS 541.625
+    - ORS 772.210
+    - ORS 97.745
+    - ORS 97.750
+    - OAR 660-006-0025
+    - OAR 660-022-0030
+  related: []
+  supersedes: []
+tags: [coos-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Coos County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 3 Estuary (Chapter 3 Estuary)
+
+## At a glance
+
+Chapter 3 Estuary — land use of Coos County. 119 pages.
+
+## Full text
+
+III-1
+
+CHAPTER III
+
+ESTUARY ZONES
+
+Coos Bay Estuary Management Plan & Coquille River Estuary Management Plan
+
+ZONING TABLE
+Category    Article/Section      Page
+Estuary Zoning
+
+General Information concerning mapping and uses
+   3.1 III-1
+Coos Bay Estuary Management Plan (CBEMP)
+ CBEMP Zoning Districts/Uses and
+Activities/Land Development Standards
+3.2 III-6
+
+Coquille River Estuary Management Plan (CREMP)
+ CREMP Zoning Districts/Uses and
+Activities/Land Development Standards
+3.3 III-444
+ CREMP Policies   III-512
+
+ARTICLE 3.1 GENERAL INFORMATION
+
+SECTION 3.1.100 ZONING DISTRICT MAPS:
+
+The location and boundaries of the zoning districts are shown on the Coos County Zoning Map,
+Coquille River Estuary Zoning Map and the Coos Bay Estuary Zoning Map. (Note: management
+units in the Coos Bay Estuary Management Plan are the same as zoning districts.) These zoning
+maps and their explanatory information are hereby adopted as part of this Ordinance. The zoning
+map may consist of several sheets or pages, which shall be listed on a cover page together with the
+date and name of each page. The zoning map shall be certified by the Board of Commissioners as
+being the official zoning map through adopted order or ordinance. All official records shall be kept
+by the Coos County Planning Department. Any changes to the zone maps by interpretation or
+rezone shall be filed with the County Clerk’s office through an ordinance or order. A copy of the
+segment of the map that was interpreted or rezoned will be attached to the order or ordinance.
+Digitized maps are hereby adopted as part of the Coos County Comprehensive Plan and Coos
+County Zoning and Land Development Ordinance as the official maps. If there are any questions
+about a mapping error staff shall provide a copy of the original Mylar map for comparison. If the
+digital copy is found to be in error Planning Staff shall correct the error immediately.
+
+SECTION 3.1.150 AMENDMENT OF ZONING DISTRICT MAP:
+
+Whenever it is necessary to amend the zoning map to conform with an approved rezoning or with
+an amendment to the text of this Ordinance or as final land use actions of incorporated cities as
+may be required, the Planning Staff shall make the change and note it in the meta data. When
+changes are made to the digitized maps they shall be exported into a shape file with the date and
+title and stored in an archived file. If changes are needed to align with the Assessor’s tax lot data
+that may be done without notice.
+III-2
+
+SECTION 3.1.200 INTERPRETATION OF ZONING DISTRICT BOUNDARIES:
+
+Due to the transposition of boundary lines from the Comprehensive Plan Maps (scale: 2” = 1 mile)
+to the Official Zoning Maps (scale: 1”=800’), zoning district boundaries were drawn to the nearest
+10 acres. Whenever an uncertainty exists as to the boundary of a zone as shown on the official
+zoning map, the following rules of interpretation shall apply:
+
+1. Boundaries indicated as approximately following the centerlines of streets, highways, or
+alleys shall be construed to follow such centerlines;
+
+2. Boundaries indicated as approximately following platted or surveyed lines shall be
+construed to follow such plat or survey lines;
+
+3. Boundaries indicated as approximately following city limits shall be construed to follow
+such city limits;
+
+4. Boundaries indicated as following railroad lines or public utility easements shall be
+construed to follow such lines;
+
+5. Boundaries indicated as following the centerlines of streams, rivers, canals, or other bodies
+of water shall be construed to follow those centerlines;
+
+6. Boundaries indicated as approximately following the shorelines of water bodies shall be
+construed to follow the mean high water line (MHWL) or the line of non-aquatic
+vegetation, whichever is higher;
+
+7. Boundaries indicated as approximately following ridge tops and other topographical
+features shall be construed to follow those features;
+
+8. Boundaries indicated as approximately parallel to, or as extensions of features indicated in
+subsections 1 through 7, shall be so construed;
+
+9. Where a public street or alley is officially vacated, the zone requirements applicable to the
+property in which the vacated area becomes a part shall apply.
+
+10. Boundaries not intended to follow the above-listed features shall indicate where possible
+distances to reference points and other lines so they can be located on the ground;
+
+11. Where physical features existing on the ground are at variance with those shown on the
+official zoning map, or in other circumstances not covered by subsections 1 through 10
+above, the Planning Director shall interpret the zone boundaries, and if need be, may refer
+the matter to the Hearings Body for its interpretation pursuant to Section 1.1.700 of this
+Ordinance.
+
+SECTION 3.1.250 COASTAL SHORELANDS BOUNDARY:
+
+The Coastal Shoreland Boundary as it applies to the Coos Bay Estuary Management Plan and the
+Coquille River Estuary Management Plan is identified as that outer extent of the estuary zoning
+boundary.
+III-3
+
+SECTION 3.1.350 ERRORS IN ZONING DISTRICT MAPS:
+
+1. The Planning Director shall periodically compare zone maps on file with the official zoning
+map and the action taken by the Board of Commissioners or Hearings Body to assure the
+maps conform therewith.
+
+2. When errors in transcription, interpretation, or clerical mistakes are found, the Planning
+Director shall have the authority to correct those errors on the official map using the same
+process as Section 3.1.150.
+
+SECTION 3.1.400 PROHIBITED USES:
+
+Unless an exception is specifically listed in the Ordinance, any use not listed or specifically
+identified as not permitted are prohibited.  However, it is recognized that in the development of a
+Comprehensive Zoning and Land Development Ordinance, not all uses of land and water can be
+listed, nor can all future uses be anticipated. A “use” may have been inadvertently omitted from
+the list of those specified as permitted or conditional in each of the various districts designated.
+Ambiguity may arise concerning the appropriate classification of a particular use within the
+meaning and intent of this Ordinance.
+
+1. The classification of a new permitted or conditional use may be approved by the Planning
+Director, or may be referred to the Board of Commissioners for consideration;
+
+2. To classify and add a new permitted or conditional use to the uses already listed within a
+zoning district without formal amendment to the text of this Ordinance, the Planning
+Director must find that the proposed use to be added is similar and not more obnoxious or
+detrimental to the public health, safety, and welfare as other uses listed in the respective
+zoning district.
+
+3. Notice of any decision to classify a new use shall be published in a newspaper of general
+circulation at least ten (10) days prior to the effective date of the decision, and shall be
+subject to appeal pursuant to Article 5.8. Decisions to classify a new use may be appealed
+following the procedures of Article 5.8.
+
+a. Any decision to classify a use pursuant to this section shall be entered in a registry
+available to the public setting forth:
+
+i. The street address or other easily understood geographic reference to the
+subject property;
+ii. The date of the decision; and
+iii. A description of the decision made.
+
+4. New classified uses shall be subject to all other requirements of this Ordinance.
+
+5. Any new use classified for an Exclusive Farm Use or Forest zone must comply with ORS
+215 and requirements of applicable case law and administrative rules. [OR-92-07-012PL
+
+SECTION 3.1.450 SUPPLEMENTAL PROVISIONS THAT APPLY TO ALL ZONING
+LISTED IN ARTICLE 3.
+III-4
+
+1. Special Allowance for Accessory Housing within the Coquille River and Coos Bay Estuary
+Shoreland Boundaries. The dwelling is necessary for a watchman or caretaker that is
+needed to reside on-premise. That the primary purpose of the dwelling is not solely to
+provide rental housing. Dwellings may be allowed as an accessory use to any of the
+following legally established uses:
+a. Agriculture, as otherwise consistent with CREMP Policy #42  and CBEMP Policy
+#28;
+b. Airports;
+c. Aquaculture;
+d. Commercial;
+e. Docks and moorage/marinas;
+f. Industrial and port facilities;
+g. Log storage and sorting yard;
+h. Mining and mineral extraction;
+i. Recreational uses;
+j. Solid waste disposal;
+k. Timber farming/harvesting, as otherwise consistent with CREMP Policy #42 and
+CBEMP Policy #28;
+l. Utilities.
+
+2. Accessory Structures are customarily accessory to a lawfully established principle use shall
+be allowed as set forth below:
+a. An accessory structure may be located on the same lot, parcel or tract under the
+same ownership as the lot, parcel or tract that contains the principle use.
+b. Any attached or detached accessory structure shall maintain the same setbacks
+established by the zoning district for the principle use.[OR 91-05-006PL 7/10/91]
+
+3. Residential Care Home/Facility.  Residential Care Home/Facility shall be allowed in any
+dwelling authorized by this Ordinance.
+
+4. Special Temporary Uses.  The special temporary uses and their accessory structures and
+uses may be temporarily permitted by the Planning Director as set forth in the Zoning
+Districts. The Planning Director’s decision may be reviewed by the Hearing’s Body.
+
+5. Accessory Uses.  Uses customarily accessory to the lawfully established principal use shall
+be allowed in all cases unless specifically prohibited or restricted:
+
+a. An accessory use may be located on the same lot, parcel or tract or on a contiguous
+lot, parcel or tract under the same ownership as the lot, parcel or tract that contains
+the principal use;
+b. The use complies with the definition of “Accessory Structure or Use” pursuant to
+this Ordinance;
+c. The noncontiguous lot, parcel or tract is in the “same ownership” as the lot, parcel
+or tract on which the principal use is located;
+d. The accessory use shall only be allowed subject to an administrative conditional use
+and findings that establish that the use is compatible with surrounding uses or may
+be made compatible through the imposition of conditions.[OR 91-05-006PL
+7/10/91]
+
+III-5
+ARTICLE 3.2  COOS BAY ESTUARY MANAGEMENT PLAN (CBEMP) ZONING
+DISTRICTS/USES AND ACTIVITIES/LAND DEVELOPMENT STANDARDS.
+
+SECTION 3.2.100. PURPOSE.
+
+The purpose of this Article is to provide requirements pertaining to individual zoning districts in
+accordance with the Coos Bay Estuary Management Plan.
+
+Such requirements are intended to achieve the following objectives:
+
+  1. To encourage the most appropriate use of land and natural resources.
+  2. To facilitate the adequate and efficient provision of transportation, water, sewerage, schools,
+parks, and other public requirements.
+  3. To secure safety from flood or other natural hazard.
+
+The land development standards of Table 3.2 shall govern all development within the Coos Bay
+Estuary Shoreland Districts.
+
+TABLE 3.2
+Brackets around numbers see "Footnotes"
+
+LAND DEVELOPMENT STANDARDS
+
+ MINIMUM LOT SIZE (10)
+   RURAL UGB'S
+DISTRICT
+DESIGNATION
+EFU
+(1)
+FOREST
+LAND (2)
+RES COM/
+IND
+OTHER RES COM/
+IND
+OTHER
+
+NS (3) (3) (3) N/A (3) N/A N/A N/A
+
+CS (3) (3) (3) N/A (3) (3) N/A (3)
+
+RS (3) (3) (3) (3) (3) N/A N/A (3)
+
+D (3) (3) (4) -- -- N/A N/A N/A
+
+WD (3) (3) (4) -- -- N/A N/A N/A
+
+UD (3) (3) N/A N/A N/A (3) (3) (3)
+
+UW (3) (3) N/A N/A N/A (4) -- --
+
+NWD (3) (3) N/A N/A N/A N/A N/A N/A
+
+UDS (3) (3) N/A N/A N/A (4) -- --
+III-6
+
+TABLE 3.2
+Brackets around numbers see “Footnotes”
+
+LAND DEVELOPMENT STANDARDS
+
+DISTRICT
+DESIGNATION
+MINIMUM LOT WIDTH & DEPTH
+
+MIN. ST. FRONTAGE
+RURAL UGB’S
+RURAL
+
+UGB’S WIDTH DEPTH WIDTH DEPTH
+
+NS 20’ -- N/A N/A 20’ N/A
+
+CS 20’ -- 50’ 50’ 20’ 50’
+
+RS 20’ -- 50’ 50’ 20’ 50’
+
+D 20’ -- 50’ N/A 20’ N/A
+
+WD 20’ -- N/A N/A 20’ N/A
+
+UD N/A N/A N/A 50’ N/A 50’
+
+UW N/A N/A 50’ 50’ N/A 50’
+
+NWD 20’ -- N/A N/A N/A 50’
+
+UDS N/A N/A 50’ 50’ N/A 50’
+
+III-7
+Table 3.2
+Brackets around numbers see "Footnotes"
+
+LAND DEVELOPMENT STANDARDS
+ MINIMUM SETBACKS (9)
+ RURAL UGB'S
+DISTRICT
+DESIGNATION
+FRONT REAR SIDE FRONT REAR SIDE
+
+NS (5) (5) (5) N/A N/A N/A
+
+CS (5) (5) (5) 20' 5' (7)
+
+RS (5) (5) (5) 20' 20' (7)
+
+D (5) (5) (5) N/A N/A N/A
+
+WD (5) (5) (5) N/A N/A N/A
+
+UD N/A N/A N/A 20' 5' (7)
+
+UW N/A N/A N/A 5' 5' 5'
+
+NWD N/A N/A N/A N/A 5' 5'
+
+UDS N/A N/A N/A 5' 5' (5)
+
+III-8
+
+TABLE 3.2
+Brackets around numbers see "Footnotes"
+
+LAND DEVELOPMENT STANDARDS
+DISTRICT
+DESIGNATION
+
+MAXIMUM BUILDING
+HEIGHT
+OFFSTREET
+PARKING
+Road Standards
+RURAL UGB’S RURAL UGB’S RURAL UGB’S
+
+NS -- N/A (6) N/A (11) (11)
+
+CS -- 35’ (6) (8) (11) (11)
+
+RS -- 35’ (6) (8) (11) (11)
+
+D -- N/A (6) N/A (11) (11)
+
+WD -- N/A (6) N/A (11) (11)
+
+UD N/A -- N/A (8) (11) (11)
+
+UW N/A -- N/A (8) (11) (11)
+
+NWD -- N/A N/A (8) (11) (11)
+
+UDS N/A -- N/A (8) (11) (11)
+
+TABLE 3.2 FOOTNOTES
+
+FOOTNOTES:
+
+(1) Exclusive Farm Use, per Minimum Lot Size Unincorporated Areas (Map 39)
+(2) Forest Lands, per  Minimum Lot Size Unincorporated Areas (Map 39)
+(3) See Special  Minimum Lot Size Unincorporated Areas (Map 39)to determine minimum lot size
+(4) Dwellings are allowed as accessory uses only; no minimum lot size required
+(5) 35 feet from the centerline of an adjacent right-of-way; or 5 feet from an adjacent right of-way
+boundary (whichever is greater) if no adjacent right-of-way.
+(6) See Chapter VII for rural off-street parking requirements
+(7) 5 feet; but 10 feet for corner lots
+(8) See Chapter VII for off-street parking requirements within UGB’s
+(9) Setback requirements are also subject to the vision clearance requirements set forth in Chapter VII.
+(10) None required for dredged material disposal, mitigation or utilities
+(11)  See Chapter VII for road standards and improvements.
+
+NOTE:  N/A = means “not applicable”; the standard is not applicable because the respective
+zoning designation does not apply within either the respective rural or UGB area.
+III-9
+
+SECTION 3.2.150. HOW TO USE THIS ARTICLE.
+
+This Plan contains specific language that regulates future natural, conservation, and development uses and
+activities that are, or may be, allowed at various Coos Bay aquatic and shoreland areas. As previously
+stated, the Plan's main purpose is to clearly stipulate where, and under what circumstances, development
+may occur -- thereby creating both predictability and certainty that required development permits will be
+issued if proposed actions are consistent with the provisions of this Plan.
+
+Follow the steps below to determine whether or not a proposed use or activity is, or may be allowed at any
+specific site:
+
+ 1. Locate the subject site on the Plan Map, which is attached.
+
+2. Note on the Plan Map whether the subject property is contained within an aquatic
+management unit, a shoreland unit, or both.  Note the numbers and abbreviated unit
+designations (i.e., "UD", "UW", "CA", etc.) for applicable management units.
+
+3. Turn to the pages in the Plan document which contain specific plan provisions for each of
+the aquatic and shoreland management units. Find the pages that correspond to the map
+designations for the subject site.
+
+4. For each applicable aquatic and/or shoreland management unit:
+
+a. Review the unit's overall designation (i.e., Conservation Aquatic [CA], Urban
+Development [UD], etc.) to determine the general level of development allowed in
+the unit.  Section 3.5 explains the meaning of these aquatic and shoreland
+designations.
+
+b. Review the unit's management objective. This narrative provides general policy
+guidance regarding natural, conservation, and development uses and activities that
+are, or may be, allowed in the unit. All uses and activities allowed in the unit are
+consistent with the unit's management objective.
+
+c. Review the unit's Uses and Activities Matrix to determine whether or not a
+proposed use or activity is allowable, subject to prescribed development standards
+(when applicable), or whether the proposed use or activity may be conditionally
+allowed subject to discretionary approval by local government, and possibly
+subject to special development conditions as denoted by an "*" symbol described
+below.
+
+d. Review the designations which accompany each "use" and "activity" listed in the
+matrix to determine what is allowed, what is not allowed, and what "Special
+Conditions" apply.
+
+"A" means "Allowed".  The proposed use or activity will be allowed outright
+following a ministerial review by Planning Staff.
+
+"*" means "Special Conditions" apply to the proposed use or activity, which
+may be allowed; in some cases, as discretionary decision by local
+government is required, as stated in the special condition narrative.
+
+"N" means "Not Allowed".  The proposed use or activity is prohibited in the
+unit.
+III-10
+
+"N/A" means "Not Applicable".  The use or activity is not realistic considering the
+physical character of the unit and therefore does not apply.
+
+In addition, "General Conditions" provide a convenient cross-reference to applicable Policies which may
+further limit or condition allowed uses and activities in shoreland areas.
+
+Review the definitions, bay-wide policies, and standards set forth in Volume II, Part 1, Section 3 of this
+Plan, as the site-specific use and activity policies are subordinate with these.
+
+SECTION 3.2.175. Site-Specific Zoning Districts.
+
+This Ordinance shall divide the lands affected by the Coos Bay Estuary Management Plan into
+specific zoning districts identified as management units as identified in Volume III, Part I of the
+Coos Bay Estuary Management Plan (Portion of the Coos County Comprehensive Plan) . The
+following zoning districts delineate the appropriate requirements which shall apply to all lands
+within the individual districts.
+
+A detailed “Uses and Activities” table follows the “Management Objectives” statement presented
+for each respective aquatic and shoreland unit. The tables describe specific uses and activities
+deemed appropriate and inappropriate for each district. The Use and Activity tables for each
+district are subordinate to the “Management Objective” for the respective districts in that allowed
+uses and activities must be consistent with the respective districts’ “Management Objective”
+statements.
+
+SECTION 3.2.180. RIPARIAN PROTECTION STANDARDS IN THE COOS BAY
+ESTUARY MANAGEMENT PLAN.
+
+The following standards shall govern riparian corridors within the Coos Bay Estuary Management
+Plan:
+
+1. Riparian vegetation within 50 feet of a estuarine wetland, stream, lake or river, as
+identified on the Coastal Shoreland and Fish and Wildlife habitat inventory maps, shall
+be maintained except that:
+
+a) Trees certified as posing an erosion or safety hazard. Property owner is
+responsible for ensuring compliance with all local, state and federal agencies for
+the removal of the tree.
+b) Riparian vegetation may be removed to provide direct access for a water-
+dependent use; or
+c) Riparian vegetation may be removed in order to allow establishment of
+authorized structural shoreline stabilization measures; or
+d) Riparian vegetation may be removed to facilitate stream or streambank
+clearance projects under a port district, ODFW, BLM, Soil & Water
+Conservation District, USFS stream enhancement plan; or
+e) Riparian vegetation may be removed in order to site or properly maintain public
+utilities and road right-of-ways, provided that the vegetation to be removed is
+the minimum necessary to accomplish the purpose; or
+f) Riparian vegetation may be removed in conjunction with existing agricultural
+operations (e.g., to site or maintain irrigation pumps, to limit encroaching brush,
+to allow harvesting farm crops customarily grown within riparian corridors,
+III-11
+etc.) provided that such vegetation removal does not encroach further into the
+vegetation buffer except as needed to provide an access to the water for the
+minimum amount necessary to site or maintain irrigation pumps.
+
+2. The 50’ riparian vegetation setback shall not apply in any instance where an existing
+structure was lawfully established and an addition or alteration to said structure is to be
+sited not closer to the estuarine wetland, stream, lake, or river than the existing structure
+and said addition or alteration represents not more than 100% of the size of the existing
+structure’s “footprint”.(ORD 92-05-009PL)
+
+3. The 50’ measurement shall be taken from the ordinary high water mark using a right
+angle from the ordinary high water mark.
+
+III-12
+
+SEE CBEMP VOLUME I PART I FOR ZONING AND POLICIES
+
+III-13
+
+ARTICLE 3.3 – COQUILLE RIVER ESTUARY MANAGEMENT PLAN (CREMP)
+ZONING DISTRICTS/USES AND ACTIVITIES/LAND DEVELOPMENT STANDARDS
+
+This article lists all shoreland segments first and then the aquatic units. The policies that are
+referenced in the uses are found at the end of this chapter.
+
+CREMP SHORELAND SEGMENTS – The management units are divided up by the type and then
+the segment number. All policies that are referenced are found at the end of this Article.  Under
+each type of management unit, the segments each have a purpose statement. Note: Limiting
+Policies do not apply to all uses or all areas within units, as specifically described in each policy.
+Policy #3 applies to all Coquille River Estuary Management Plan segments.
+
+COQUILLE RIVER ESTUARY MANAGEMENT - NATURAL RESOURCE
+MANAGEMENT SEGMENTS (CREMP-NR)
+
+• Shoreland Segment 11 (11-NR) this segment shall be managed to protect the natural
+resources of this area (including a large fresh-water marsh), and for undeveloped outdoor
+recreation activities in conjunction with the Bullards Beach State Park. A designated
+dredged material site is located at the south end of this segment, and shall be protected
+from preemptory uses.
+
+• Shoreland Segment 29 (29-NR) shall be managed for the protection of its natural resource
+values as a mitigation site which shall be protected from preemptory uses.
+
+SECTION 3.3.100 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the Natural Resource Management
+Segment.
+
+1. Timber farming/harvesting
+
+2. Contaminated soil/land farming
+
+3. Modification of historic structure
+
+4. Home occupation is permitted subject to the provisions of CREMP Policy #5d.
+
+5. Cottage industry is permitted subject to the provisions of CREMP Policy #5d.
+
+6. Non-structural shoreland stabilization
+
+SECTION 3.3.110 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+The following uses and activities are permitted under an administrative conditional use permit
+Natural Resource Management.
+
+1. Farm use pursuant to ORS 215.203 for either profit or not for profit:
+
+III-14
+a. In CREMP Shoreland Segment 11 this use may be permitted subject to provisions
+of CREMP Policies #14, #17, #18 and #27.
+b. In CREMP Shoreland Unit 29 this use may be permitted subject to provisions of
+CREMP Policies #14a and # 22.
+
+2. Farm Structures:
+
+a. In CREMP Shoreland Segment 11 this use may be permitted subject to provisions
+of CREMP Policies #14, #17, #18 and #27.
+b. In CREMP Shoreland Segment 29 this use may be permitted subject to provisions
+of CREMP Policies #14a and #22.
+
+3. Propagation, management and harvesting of a forest product:
+
+a. In CREMP Shoreland Segment 11 this use may be permitted subject to provisions
+of CREMP Policies #14, #17, #18 and #27.
+b. In CREMP Shoreland Segment 29 this use may be permitted subject to provisions
+of CREMP Policies #14a and #22.
+
+4. Low Intensity Recreation:
+
+a. Low-intensity recreation shall be limited to water-dependent, and only permitted in
+CREMP Shoreland Segment 11. In CREMP Shoreland Segment 11 this use may be
+permitted subject to provisions of CREMP Policies #14, #17, #18 and
+   # 27.
+b. In CREMP Shoreland Segment 29 this use may be permitted subject to provisions
+of CREMP Policies #14a and #22.
+
+5. Modification of historic structures may be permitted upon the establishment of a finding
+that the modification is necessary to preserve, protect or enhance the original historical
+character of the structure, based upon submission of a modification proposal and plot and
+architectural plans. The following also applies:
+
+a. In CREMP Shoreland Segment 11 the use may be permitted subject to provisions of
+CREMP Policies #14, #17, #18 and #27.
+b. In CREMP Shoreland Segment 29 the use may be permitted subject to provisions of
+CREMP Policies #14a and #22.
+
+6. Land divisions (Partition/Subdivision):
+
+a. This use may be permitted subject to the provisions of CREMP Policies:
+
+i. CREMP Shoreland Segment 11 is subject to Policies #14, #15 #17, #19, #35
+and #38.
+ii. CREMP Shoreland Segment 29 is subject to Policies #14, #15 and #22.
+
+b. Each parcel or lot shall meet the minimum lot/parcel size and development standards
+unless it is a residual of resource (Farm or Forest) land division.
+c. Must comply with the requirements of Chapter VI for land divisions.
+d. Notice will be sent as required by Article 5.0.
+III-15
+e. Final Plat is a ministerial review.
+
+7. Service lines:
+
+a. In CREMP Shoreland Segment 11 this use may be permitted subject to provisions
+of CREMP Policies #14, #17, #18 and #27.
+b. In CREMP Shoreland Segment 29 this use may be permitted subject to provisions
+of CREMP Policies #14a and #22.
+
+8. Dikes:
+
+a. Dredge material disposal
+
+i. In designated site only.
+ii. DMD to include stabilization measure to control run-off and prevent
+sloughing.
+iii. This use may be permitted subject to the provisions of CREMP Policy #20.
+iv. In CREMP Shoreland Segment 11 this use may be permitted subject to
+provisions of CREMP Policies #14, #17, #18 and #27.
+v. In CREMP Shoreland Segment 29 this use may be permitted subject to
+provisions of CREMP Policies #14a and #22.
+
+b. Fill
+
+i. In designated site only.
+ii. DMD to include stabilization measure to control run-off and prevent
+sloughing.
+iii. This use may be permitted subject to the provisions of CREMP Policy #20.
+iv. In CREMP Shoreland Segment 11 this use may be permitted subject to
+provisions of CREMP Policies #14, #17, #18 and #27 may apply.
+v. In CREMP Shoreland Segment 29 this use may be permitted subject to
+provisions of CREMP Policies #14a and #22.
+
+c. Mitigation
+
+i. In CREMP Shoreland Segment 11 this use may be permitted subject to
+provisions of CREMP Policies #14, #17, #18 and #27 may apply.
+ii. In CREMP Shoreland Segment 29 this use may be permitted subject to
+provisions of CREMP Policies #14a and #22.
+
+9. Structural Shoreland Stabilization. This use shall not be permitted in CREMP Shoreland
+Segment 29.
+
+a. This use may be permitted subject to the provisions of CREMP Policy #9.
+b. In CREMP Shoreland Segment 11 this use may be permitted subject to provisions
+of CREMP Policies #14, #17, #18 and #27.
+
+10. Commercial kennel:
+
+III-16
+a. In CREMP Shoreland Segment 11 this use may be permitted subject to provisions
+of CREMP Policies #14, #17, #18 and #27.
+b. In CREMP Shoreland Segment 29 this use may be permitted subject to provisions
+of CREMP Policies #14a and #22.
+
+SECTION 3.3.130 DEVELOPMENT AND USE STANDARDS.
+
+1. Minimum Lot size:
+
+a. Refer to the lot size found on the Special Consideration Map for the CREMP.
+b. The dimension requirements must be met.
+
+2. Minimum lot width is 20 feet.
+
+3. Access and parking is regulated in Chapter VII.
+
+4. Riparian vegetation within 50 feet of a estuarine wetland , stream, lake or river, as
+identified on the Coastal Shoreland and Fish and Wildlife habitat inventory maps, shall be
+maintained except that:
+
+a. Trees certified as posing an erosion or safety hazard. Property owner is responsible
+for ensuring compliance with all local, state and federal agencies for the removal of
+the tree.
+b. Riparian vegetation may be removed to provide direct access for a water-dependent
+use.
+c. Riparian vegetation may be removed in order to allow establishment of authorized
+structural shoreline stabilization measures.
+d. Riparian vegetation may be removed to facilitate stream or streambank clearance
+projects under a port district, ODFW, BLM, Soil & Water Conservation District, or
+USFS stream enhancement plan.
+e. Riparian vegetation may be removed in order to site or properly maintain public
+utilities and road right-of-ways. or
+f. Riparian vegetation may be removed in conjunction with existing agricultural
+operations (e.g., to site or maintain irrigation pumps, to limit encroaching brush, to
+allow harvesting farm crops customarily grown within riparian corridors, etc.)
+provided that such vegetation removal does not encroach further into the vegetation
+buffer except as needed to provide an access to the water to site or maintain
+irrigation pumps.
+g. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+h. The 50 foot riparian vegetation setback shall not apply in any instance where an
+existing structure was lawfully established and an addition or alteration to said
+structure is to be sited not closer to the estuarine wetland, stream, lake, or river than
+the existing structure and said addition or alteration represents not more than 100%
+of the size of the existing structure’s “footprint”.
+i. The 50’ measurement shall be taken from the closest point of the ordinary high
+water mark to the structure using a right angle from the ordinary high water mark.
+
+COQUILLE RIVER ESTUARY MANAGEMENT PLAN - RECREATION (CREMP-REC)
+SHORELAND SEGMENTS
+III-17
+
+• Shoreland Segment 12 (12- REC) This segment is part of Bullards Beach State Park and
+managed for outdoor recreation activities and facilities, as consistent with the plan of the
+State Parks Division and the recreational needs of the State and its visitors.
+
+• Shoreland Segments 24 (24-REC), 39 (39-REC) and 58 (58-REC) shall be managed for
+recreational uses connected with the Rocky Point Boat Ramp, and other uses as permitted
+by the uses/activities matrix.
+
+SECTION 3.3.200 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the in the CREMP-REC.
+
+1. Farm use pursuant to ORS 215.203 for either profit or not for profit. This use is subject to
+the provisions of CREMP Policy #18.
+
+2. Timber farming/harvesting is subject to the provisions of CREMP Policy #18.
+
+3. Marinas.
+
+4. Temporary residence such as a mobile home, travel trailer or recreational vehicle used as a
+dwelling temporarily during construction of a permitted structure. Duration not to exceed
+one (1) year, subject to renewal. This use is subject to the provisions of CREMP Policy
+#18.
+
+5.  Non-structural Shoreland stabilization.
+
+SECTION 3.3.210 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREMP-REC.
+
+1. Farm buildings
+
+a. In CREMP Shoreland Segment 12 this may be permitted subject to Policies #14,
+#18 and #27.
+b. In CREMP Shoreland Segment 24 may be permitted subject to Policies #14 and
+#17.
+c. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies
+#14, #23 and #27.
+
+2. Propagation, management and harvesting of a forest product. This use is not permitted in
+CREMP Shoreland Segment 24. Forest management practices and policies for regulation of
+forest lands to be consistent with LCDC Goal #17 and the Oregon Forest Practices Act.
+
+a. In CREMP Shoreland Segment 12 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18, #21 and #27.
+b. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies
+#14, #21, #23 and #27.
+
+III-18
+3. Recreation:
+
+a. High Intensity
+
+i. Non-water-dependent/related recreation is prohibited in CREMP Shoreland
+Segment 24. If the use is water dependent/water related then it may be
+permitted subject to the provisions of CREMP Policies #14 and #27.
+ii. In CREMP Shoreland Segment 12 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+iii. In CREMP Shoreland Segments 39 and 58 this use may be permitted subject
+to Policies #14, #23 and #27.
+
+b. Low Intensity
+
+i. Non-water-dependent/related recreation is prohibited in CREMP Shoreland
+Segment 24. If the use is water dependent/water related then it may be
+permitted subject to the provisions of CREMP Policies #14 and #27.
+ii. In CREMP Shoreland Segment 12 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+iii. In CREMP Shoreland Segments 39 and 58 may be permitted subject to
+Policies #14, #23 and #27.
+
+4. Marina shoreside facility:
+
+a. This use is not permitted in CREMP Shoreland Segment 24.
+b. In CREMP Shoreland Segment 12 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+c. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies
+#14, #23 and #27.
+
+5. Modification of historic structure:
+
+a. This may be permitted upon the establishment of a finding that the modification is
+necessary to preserve, protect or enhance the original historical character of the structure,
+based upon submission of a modification proposal and site and architectural plans.
+b. Meet all development standards in Section 3.3.230.
+
+6. Residential watchman/caretaker dwelling shall be permitted in CREMP Shoreland
+Segments 12 and 39 subject to the following:
+
+a. This use permitted only if in conjunction with a permitted or conditionally
+permitted use.
+b. In CREMP Shoreland Segment 12 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18, #21 and #27.
+c. In CREMP Shoreland Segments 39 may be permitted subject to Policies #14, #23
+and #27.
+
+7. Land divisions (Partition/Subdivision) :
+
+a. This use may be permitted subject to the provisions of CREMP Policies:
+III-19
+
+i. In CREMP Shoreland Segment 12 this may be permitted subject to Policies
+#14, #18 and #27.
+ii. In CREMP Shoreland Segment 24 may be permitted subject to Policies #14
+and #17.
+iii. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies
+#14, #23 and #27
+
+b. Each parcel or lot shall meet the minimum lot/parcel size and development standards
+unless it is a residual of resource (Farm or Forest) land division.
+c. Must comply with the requirements of Chapter VI for land divisions.
+d. Notice will be sent as required by Article 5.0.
+e. Final Plat is a ministerial review.
+
+8. Dikes including new construction and maintenance/repair; however, this use shall not be
+permitted in CREMP Shoreland Segments 12, 24, and 39. In CREMP Shoreland Segment 58
+may be permitted subject to Policies #14, #23 and #27.
+
+9. Drainage and tide gating. This use shall not be permitted in CREMP Shoreland Segments 12, 24
+and 39. In CREMP Shoreland Segment 58 may be permitted subject to Policies #14, #23 and
+#27.
+
+10. Dredge material disposal (DMS) allowed only for maintenance dredging of boat ramps.
+DMD to include stabilization measure to control run-off and prevent sloughing.
+
+a. In CREMP Shoreland Segment 12 this may be permitted subject to Policies #14,
+#18, #20 and #27.
+b. In CREMP Shoreland Segment 24 may be permitted subject to Policies #14, #20
+and #17.
+c. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies #14, #20,
+#23 and #27.
+
+11. Fill shall not be permitted in CREMP Shoreland Segments 12 or 58.
+
+a. In CREMP Shoreland Segment 24 may be permitted subject to Policies #14 and
+#17.
+b. In CREMP Shoreland Segment 39 may be permitted subject to Policies #14, #23 and #27.
+
+12. Mitigation shall not be permitted in CREMP Shoreland Segment 24.
+
+a. In CREMP Shoreland Segment 12 this may be permitted subject to Policies #14,
+#18 and #27.
+b. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies #14, #23
+and #27.
+
+13. Structural Shoreland Stabilization:
+
+a. In CREMP Shoreland Segment 12 this may be permitted subject to Policies #9, #14,
+#18 and #27.
+III-20
+b. In CREMP Shoreland Segment 24 may be permitted subject to Policies #9, #14 and
+#17.
+c. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies #9, #14,
+#23 and #27.
+
+14. Commercial Kennel:
+
+a. In CREMP Shoreland Segment 12 this may be permitted subject to Policies #14,
+#18 and #27.
+b. In CREMP Shoreland Segment 24 may be permitted subject to Policies #14 and
+#17.
+c. In CREMP Shoreland Segments 39 and 58 may be permitted subject to Policies #14, #23
+and #27.
+
+SECTION 3.3.230 DEVELOPMENT AND USE STANDARDS.
+
+1. Minimum Lot size:
+
+a. Refer to the lot size found on the Special Consideration Map for the CREMP.
+b. The dimension requirements must be meet.
+
+2. Dwelling Density shall be one dwelling unit on each legally established parcel or lot.
+Unless otherwise allowed through grandfathering or when the zoning districts permits.
+
+3. Minimum lot width is 20 feet.
+
+4. Setback: All building or structures with the exception of fences shall be setback a minimum
+of thirty-five (35) feet from any road right-of-way centerline, or five (5) feet from any
+right-of-way line, whichever is greater.
+
+5. Access and parking is regulated in chapter VII.
+
+6. Riparian vegetation within 50 feet of a estuarine wetland , stream, lake or river, as
+identified on the Coastal Shoreland and Fish and Wildlife habitat inventory maps, shall be
+maintained except that:
+
+a. Trees certified as posing an erosion or safety hazard. property owner is responsible
+for ensuring compliance with all local, state and federal agencies for the removal of
+the tree.
+a. Riparian vegetation may be removed to provide direct access for a water-dependent
+use.
+b. Riparian vegetation may be removed in order to allow establishment of authorized
+structural shoreline stabilization measures.
+c. Riparian vegetation may be removed to facilitate stream or streambank clearance
+projects under a port district, ODFW, BLM, Soil & Water Conservation District, or
+USFS stream enhancement plan.
+d. Riparian vegetation may be removed in order to site or properly maintain public
+utilities and road right-of-ways. or
+e. Riparian vegetation may be removed in conjunction with existing agricultural
+operations (e.g., to site or maintain irrigation pumps, to limit encroaching brush, to
+III-21
+allow harvesting farm crops customarily grown within riparian corridors, etc.)
+provided that such vegetation removal does not encroach further into the vegetation
+buffer except as needed to provide an access to the water to site or maintain
+irrigation pumps.
+f. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+g. The 50 foot riparian vegetation setback shall not apply in any instance where an
+existing structure was lawfully established and an addition or alteration to said
+structure is to be sited not closer to the estuarine wetland, stream, lake, or river than
+the existing structure and said addition or alteration represents not more than 100%
+of the size of the existing structure’s “footprint”.
+h. The 50’ measurement shall be taken from the ordinary high water mark using a
+right angle from the ordinary high water mark.
+
+COQUILLE RIVER ESTUARY MANAGEMENT PLAN - RURAL SHORELAND
+SEGMENTS (CREMP-RS)
+
+The Rural Shoreland Segments consist of the following:
+
+ Coquille River Estuary Management Plan – Rural Residential-5 (CREMP-RR-5)
+ Coquille River Estuary Management Plan – Rural Residential-2 (CREMP-RR-2)
+ Coquille River Estuary Management Plan – Rural Center (CREMP-RC)
+
+Coquille River Estuary Management Plan – Rural Residential (CREMP-RR)
+
+The purpose of the Rural Shoreland Segments as listed in order by the number as follows:
+
+• Rural Shoreland Segment 18 (RS-18) contains CREMP-RR-2 zoning and shall be
+managed to provide water access for residential lots fronting the river and for water-front
+residential development provided flood-protection and riparian vegetation requirements are
+met (see Policies 27 and 23).
+
+• Rural Shoreland Segment 25 (RS-25) contains CREMP-RR-2 zoning and shall be
+managed for the continuation of rural residential uses, provided flood protection
+requirements are met. (See Policy 27)
+
+• Rural Shoreland Segment 30 (RS-30) contains CREMP-RR-5 zoning and shall be
+managed to provide water access for residential lots fronting the river and for water-front
+residential development provided flood-protection and riparian vegetation requirements are
+met (see Policies Shoreland Segment 27 and Shoreland Segment 23).
+
+• Rural Shoreland Segment 50 (RS-50) contains both CREMP-RR-2 and CREMP-RR-5
+zoning and shall be managed to provide water access for residential lots fronting the river
+and for water-front residential developments provided flood-protection and riparian
+vegetation requirements are met (see Policies 27 and 23).
+
+• Rural Shoreland Segment 51(RS-51) contains CREMP-RR-2 zoning and shall be
+managed for recreational uses connected with the Coquille Boat Ramp and other uses as
+permitted by the uses/activities matrix.
+III-22
+
+• Rural Shoreland Segment 61 (RS-61) contains CREMP-RR-5 zoning and shall be
+managed to provide water access for residential lots fronting the river and for water-front
+residential development provided flood-protection and riparian vegetation requirements are
+met (see Policies 27 and 23).
+
+• Rural Shoreland Segment 63 (RS-63) contains both CREMP-RR-2 and CREMP-RR-5
+zoning and shall be managed to provide water access for residential lots fronting the river
+and for water-front residential development provided flood-protection and riparian
+vegetation requirements are met (see Policies 27 and 23).
+
+• Rural Shoreland Segment 74 (RS-74) contains both CREMP-RR-2 and CREMP-RR-5
+zoning and shall be managed for the continuation of rural residential uses, provided flood-
+protection requirements are met (see Policy 27).
+
+SECTION 3.3.300 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the in the CREMP-Rural Residential.
+
+1. Agriculture:
+
+a. Farm use pursuant to ORS 215.203 for either profit or not for profit.
+b. Farm buildings.
+
+2. Passive Restoration.
+
+3. Temporary residences shall consist of a mobile home, travel trailer or recreational vehicle
+used as a dwelling temporarily during construction of a permitted structure. Duration not to
+exceed one (1) year, subject to renewal.
+
+4. Service lines.
+
+5. Non-structural shoreland stabilization.
+
+6. Day care facility (12 or fewer persons).
+
+SECTION 3.3.310 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREP-Rural Residential.
+
+1. Propagation, management or harvesting of a forest product may be permitted subject to the
+following:
+
+a. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, # 21, #23 and #27.
+b. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to Policies
+#14, #21 and #27.
+
+2. Low intensity recreation:
+III-23
+
+a. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to Policies
+#14 and #27.
+
+3. Residential:
+
+a. Single family dwelling
+
+i. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted
+subject to Policies #14, #23 and #27.
+ii. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to
+Policies #14 and #27.
+
+b. Family hardship dwelling
+
+i. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted
+subject to Policies #14, #23 and #27.
+ii. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to
+Policies #14 and #27.
+
+c. Two family duplex may be permitted provided the density of units do not, exceed
+the allowable density of the zoning district.
+
+i. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted
+subject to Policies #14, #23 and #27.
+ii. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to
+Policies #14 and #27.
+
+4. Land Divisions:
+
+a. Partition and Subdivision
+
+i. This use may be permitted subject to the provisions of CREMP Policies:
+
+1) In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be
+permitted subject to Policies #14, #15, #23 and #27.
+2) In CREMP Shoreland Segment 25, 51 and 74 may be permitted
+subject to Policies #14, #15 and #27.
+
+ii. Each parcel or lot shall meet the minimum lot/parcel size and development
+standards unless it is a residual of resource (Farm or Forest) land division.
+iii. Must comply with the requirements of Chapter VI for land divisions.
+iv. Notice will be sent as required by Article 5.0.
+v. Final Plat is a ministerial review.
+
+b. Residential PUD
+
+i. This use may be permitted subject to the provisions of CREMP Policies:
+III-24
+
+1) In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be
+permitted subject to Policies #14, #15, #23 and #27.
+2) In CREMP Shoreland Segment 25, 51 and 74 may be permitted
+subject to Policies #14, #15 and #27.
+
+ii. Residential Planned Unit Development - Maintenance Standards and
+Principles:
+iii. Minimum Sized Area for Developments. A Planned Unit Development shall be of
+sufficient size to allow the objectives and standards of this Section to be met and
+shall, as a minimum, comply with the following:
+
+1) The minimum size for a tract of land to be developed as a Planned Unit
+Development (PUD) shall be not less than five (5) contiguous acres and of
+such configuration as to be conducive to a Planned Unit Development. or
+2) A Planned Unit Development application may be filed on a tract of land
+less than five (5) contiguous acres but no approval shall be given to such
+application unless Coos County determines, upon a showing by the
+applicant, that the minimum size required in paragraph "1" above should
+be waived if one or more of the following conditions exist:
+
+a) Because of unusual physical features of the property or of the
+neighborhood in which it is located, a substantial deviation from
+the regulations otherwise applicable is necessary or appropriate in
+order to conserve a resource or amenity, such as aesthetic
+vegetation, etc.
+b) The property or its neighborhood has historical character of
+economic importance to the community that could be protected by
+use of a Planned Unit Development.
+c) The property is adjacent to property which has been officially
+approved, developed or redeveloped as a Planned Unit
+Development on the subject property can be effectively integrated
+with the existing PUD.
+d) The property is determined to be an isolated problem area that has
+been bypassed in the course of development and for which a
+Planned Unit Development is determined to be the most feasible
+method of developing said area.
+
+iv. Must comply with the requirements of Chapter VI for land divisions.
+v. Notice will be sent as required by Article 5.0.
+vi. Final Plat is a ministerial review.
+
+5. Communication structure must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions.
+
+a. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to Policies
+#14 and #27.
+
+III-25
+6. Air & water navigation aids must be found compatible with surrounding uses or may be
+made compatible through the imposition of conditions.
+
+a. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to Policies
+#14 and #27.
+
+7. Sewer/water plant/ pump station must be found compatible with surrounding uses or may
+be made compatible through the imposition of conditions.
+
+a. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to Policies
+#14 and #27.
+
+8. Dikes:
+
+a. New construction is not permitted in CREMP Shoreland Segments 18 and 30.
+
+i. In CREMP Shoreland Segment 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+ii. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to
+Policies #14 and #27.
+
+b. Maintenance/repair of existing dikes.
+
+i. In CREMP Shoreland Segment 18, 30, 50, 61 and 63 may be permitted
+subject to Policies #14, #23 and #27.
+ii. In CREMP Shoreland Segment 25, 51 and 74 may be permitted subject to
+Policies #14 and #27.
+
+9. Drainage and tide gating may be permitted subject to the provisions of CREMP Policies:
+
+a. In CREMP Shoreland Segments 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #15, #23 and #27.
+b. In CREMP Shoreland Segments 25, 51 and 74 may be permitted subject to Policies
+#14, #15 and #27.
+
+10. Dredge material disposal is not permitted in CREMP Shoreland Segments 18, 25, 30, 50
+and 74. DMD to include stabilization measure to control run-off and prevent sloughing.
+
+a. In CREMP Shoreland Segments 61 and 63 may be permitted subject to Policies
+#14, #20, #23 and #27.
+b. In CREMP Shoreland Segments 51 may be permitted subject to Policies #14, #20
+and #27.
+
+11. Fill:
+a. In CREMP Shoreland Segments 50, 61 and 63 may be permitted subject to Policies
+#14, #23 and #27.
+III-26
+b. In CREMP Shoreland Segments 51 and 74 may be permitted subject to Policies
+#14, and #27.
+
+12. Mitigation:
+
+a. In CREMP Shoreland Segments 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segments 25, 51 and 74 may be permitted subject to Policies
+#14, and #27.
+
+13. Structural Shoreland Stabilization:
+
+a. In CREMP Shoreland Segments 50, 61 and 63 may be permitted subject to Policies
+#9, #14, #23 and #27.
+b. In CREMP Shoreland Segments 25, 51 and 74 may be permitted subject to Policies
+#9, #14 and #27.
+
+14. Day care facility (13 or more persons) must be found compatible with surrounding uses or
+may be made compatible through the imposition of conditions.
+
+15. Research & education observation structure must be found compatible with surrounding
+uses or may be made compatible through the imposition of conditions.
+
+a. In CREMP Shoreland Segments 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segments 25, 51 and 74 may be permitted subject to Policies
+#14, and #27.
+
+SECTION 3.3.320 HEARINGS BODY CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under a hearings body conditional use permit in the
+CREMP-Rural Residential.
+
+1. Contaminated Soil/Land Farming must be found compatible with surrounding uses or may
+be made compatible through the imposition of conditions.
+
+2. High intensity recreation must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions.
+
+a. In CREMP Shoreland Segments 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segments 25, 51 and 74 may be permitted subject to Policies
+#14, and #27.
+
+3. Bed & breakfast must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions.
+
+a. In CREMP Shoreland Segments 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+III-27
+b. In CREMP Shoreland Segments 25, 51 and 74 may be permitted subject to Policies
+#14, and #27.
+c. A bed and breakfast facilities shall be subject to the following conditions:
+
+i. All "bed and breakfast facilities" shall be established within the primary
+residence.
+ii. Breakfast shall be the only meal served to overnight paying guests.
+iii. No cooking facilities shall be permitted in any rented room.
+iv. The maximum number of rooms, which may be rented shall not exceed four
+(4).
+v. Off-street parking shall be provided as follows:
+
+1) Two spaces for the owner/occupant, plus 1 space for each additional
+bedroom.
+2) A plot plan and a parking/traffic plan shall be submitted, to address
+the following:
+
+a) The property boundaries.
+b) Access to the property.
+c) Location of all structures on the subject property.
+d) Required parking spaces.
+e) The parking/traffic plan shall show required parking and
+traffic flow. All parking/traffic plans shall be reviewed by the
+Roadmaster to determine traffic safety.
+
+d. One (1) non-illuminated sign shall be permitted not to exceed six (6) square feet of
+copy area (the words "hotel or motel" shall not be used). A "bed and breakfast
+facility" must be conducted in such a manner so as not to give an outward
+appearance or outwardly manifest any characteristic of a motel, hotel, or other
+business
+
+4. Utility Facility – generation of power for private use or sale must be found compatible with
+surrounding uses or may be made compatible through the imposition of conditions.
+
+a. In CREMP Shoreland Segments 18, 30, 50, 61 and 63 may be permitted subject to
+Policies #14, #23 and #27.
+b. In CREMP Shoreland Segments 25, 51 and 74 may be permitted subject to Policies
+#14, and #27.
+
+SECTION 3.3.330 DEVELOPMENT AND USE STANDARDS.
+
+The following are development standards for the CREMP-RR shoreland segments.
+
+1. Minimum Lot Size:
+
+a. Refer to the lot size found on the Special Consideration Map for the CREMP.
+b. Exception to minimum lot sizes in Rural Residential:
+
+III-28
+i. Smaller parcels may be permitted in an approved residential planned unit
+development, provided the allowable density of the parent parcel is not
+exceeded.
+ii. Any lawfully created parcel or lot created prior to January 1, 1986 that is
+equal to or greater than one acre. Multiple parcels or lots may be combined
+to equal one acre but then a restriction shall be placed on the deed and
+parcels and/or lots shall be combined into one tax lot.
+iii. Any lawfully created parcel or lot created prior to January 1, 1986 that does
+not equal one acre including the combination of parcels or lots shall be
+subject to a conditional use in Section 4.2.210(2).
+iv. Creation of parcels less than the minimum lot size of the zoning district shall
+be permitted provided the following circumstances exist:
+
+1) The subject property is not zoned for resource use.
+2) An existing dwelling (lawfully or grandfathered, but not for
+temporary purposes) sited prior to January 1, 1986 will remain sited
+on each proposed parcel.
+3) A land division is submitted and approved by Coos County pursuant
+to the current standards. and
+4) If the development is proposed to be located on a lot or parcel or a
+combination of lots and parcels less than one acre then a conditional
+use will be required to address Section 4.2.210(2) .
+
+2. Setbacks:
+
+a. All buildings or structures with the exception of fences shall be set back a minimum
+of thirty-five (35) feet from any road right-of-way centerline, or five (5) feet from
+the right-of-way line, whichever is greater.
+b. Firebreak: New or replacement dwellings on lots, parcels or tracts abutting the
+“Forest” zone shall establish and maintain a firebreak, for a distance of at least 30
+feet in all directions. Vegetation within this firebreak may include mowed grasses,
+low shrubs (less than ground floor window height), and trees that are spaced with
+more than 15 feet between the crowns and pruned to remove dead and low (less
+than 8 feet from the ground) branches. Accumulated needles, limbs and other dead
+vegetation should be removed from beneath trees. [ORD 95-05-006PL  11/29/95]
+
+3. Fences, Hedges, and Walls: No requirement, but vision clearance provisions of Section
+7.1.525 apply.
+
+4. Off-street Parking and Loading requirements are found in Chapter VII.
+
+5. Minimum road frontage/lot width unless waived by the Planning Director in consultation
+with the County Surveyor and Roadmaster due to creating an unsafe or irregular
+configuration will require a notice of administrative determination and notice will be
+provided in accordance with Article 5.2:
+
+a. Minimum lot width: 50 feet
+b. Minimum road frontage: 30 feet
+
+III-29
+6. Any applicant for a rural residential building or septic permit adjacent to a forest or
+agriculture zone shall sign a statement on the Zoning Clearance Letter acknowledging that:
+“the normal intensive management practices occurring on adjacent resource land will not
+conflict with the rural residential landowner’s enjoyment of his or her property.”
+
+7. Riparian Vegetation Protection. Riparian vegetation within 50 feet of a estuarine wetland,
+stream, lake or river, as identified on the Coastal Shoreland and Fish and Wildlife habitat
+inventory maps, shall be maintained except that:
+
+a. Trees certified as posing an erosion or safety hazard. property owner is responsible
+for ensuring compliance with all local, state and federal agencies for the removal of
+the tree.
+b. Riparian vegetation may be removed to provide direct access for a water-dependent
+use. The minimal amount of vegetation should be removed.
+c. Riparian vegetation may be removed in order to allow establishment of authorized
+structural shoreline stabilization measures.
+d. Riparian vegetation may be removed to facilitate stream or stream bank clearance
+projects under a port district, ODFW, BLM, Soil & Water Conservation District, or
+USFS stream enhancement plan.
+e. Riparian vegetation may be removed in order to site or properly maintain public
+utilities and road right-of-ways.
+f. Riparian vegetation may be removed in conjunction with existing agricultural
+operations (e.g. to site or maintain irrigation pumps, to limit encroaching brush, to
+allow harvesting farm crops customarily grown within riparian corridors, etc.)
+provided that such vegetation removal does not encroach further into the vegetation
+buffer except as needed to provide an access to the water to site or maintain
+irrigation pumps.
+g. The 50’ riparian vegetation setback shall not apply in any instance where an
+existing structure was lawfully established and an addition or alteration to said
+structure is to be sited not closer to the estuarine wetland, stream, lake, or river than
+the existing structure and said addition or alteration represents not more than 100%
+of the size of the existing structure’s “footprint”.
+h. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+i. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+j. The 50’ measurement shall be taken from the ordinary high water mark using a
+right angle from the ordinary high water mark.
+
+8. Access to new dwellings shall meet road and driveway standards in Chapter VII.
+
+Coquille River Estuary Management Plan – Rural Center (CREMP-RC)
+
+The purpose of the Rural Shoreland Segments as listed in order by the number as follows:
+
+• Rural Shoreland Segment 57 (RS-57) contains CREMP-RC zoning and shall be managed
+for the continuation of residential and commercial uses as consistent with the rural center
+function of Arago, provided flood protection requirements are met. (See Policy Shoreland
+Segment 27)
+III-30
+
+SECTION 3.3.400 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the in the CREMP-RC.
+
+1. Agriculture:
+
+a. Farm use pursuant to ORS 215.203 for either profit or not for profit.
+b. Farm buildings outside of the unincorporated community boundary.
+c. Farm building inside the unincorporated community boundary.
+
+2. Passive Restoration.
+
+3. Family hardship dwelling inside the unincorporated boundary may be permitted subject to
+Policies #14 and #27.
+
+4. Residential:
+
+a. Temporary residence can only be a mobile home, travel trailer or recreational
+vehicle used as a dwelling temporarily during construction of a permitted structure.
+Duration not to exceed one (1) year, subject to renewal.
+b. Second floor apartment may be permitted above a commercial or industrial use.
+
+5. Service lines.
+
+6. Non-structural shoreland stabilization.
+
+7. Day care facility (12 or fewer persons).
+
+SECTION 3.3.410 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREMP-Rural Center.
+
+1. Commercial activities in conjunction with farm or forest use:
+
+a. Equipment sales or repair must be found compatible with surrounding uses or may
+be made compatible through the imposition of conditions and may be permitted
+subject to Policies #14 and #27.
+b. Seasonal product sale must be found compatible with surrounding uses or may be
+made compatible through the imposition of conditions and may be permitted subject
+to Policies #14 and #27.
+
+2. Commercial activities:
+
+a. Outside of the unincorporated community boundary
+
+i. Veterinary clinic:
+
+III-31
+1) Must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions;
+2) May be permitted subject to Policies #14 and #27; and
+3) The commercial use is located in building or buildings not to exceed
+2,500 square feet of floor area.
+
+ii. Kennel:
+
+1) Must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions;
+2) May be permitted subject to Policies #14 and #27; and
+3) The commercial use is located in building or buildings not to exceed
+2,500 square feet of floor area.
+
+b. Inside of the unincorporated community boundary
+
+i. Veterinary clinic:
+
+1) Must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions;
+2) May be permitted subject to Policies #14 and #27; and
+3) The commercial use is located in building or buildings not to exceed
+4,000 square feet of floor area.
+
+ii. Kennel:
+
+1) Must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions;
+2) May be permitted subject to Policies #14 and #27; and
+3) The commercial use is located in building or buildings not to exceed
+4,000 square feet of floor area.
+
+3. Propagation, management or harvesting of a forest product may be permitted subject to
+Policies #14, #21 and #27.
+
+4. Low intensity recreation may be permitted subject to Policies #14 and #27.
+
+5. Residential:
+
+a. Single family dwelling may be permitted subject to Policies #14 and #27.
+b. Family hardship dwelling outside the unincorporated boundary may be permitted
+subject to Policies #14 and #27.
+c. Two family duplex:
+
+i. May be permitted subject to Policies #14 and #27; and
+ii. The use may be permitted provided the density of units does not, exceed the
+allowable density of the zoning district.
+
+III-32
+6. Land Divisions:
+
+a. Partition and Subdivision:
+
+i. This use may be permitted subject to Policies #14, #15 and #27.
+ii. Each parcel or lot shall meet the minimum lot/parcel size and development
+standards unless it is a residual of resource (Farm or Forest) land division.
+iii. Must comply with the requirements of Chapter VI for land divisions.
+iv. Notice will be sent as required by Article 5.0.
+v. Final Plat is a ministerial review.
+
+b. Residential PUD:
+
+i. This use may be permitted subject to Policies #14, #15 and #27.
+ii. Residential Planned Unit Development - Maintenance Standards and
+Principles.
+iii. Minimum Sized Area for Developments. A Planned Unit Development shall be of
+sufficient size to allow the objectives and standards of this Section to be met and
+shall, as a minimum, comply with the following:
+
+1) The minimum size for a tract of land to be developed as a Planned Unit
+Development (PUD) shall be not less than five (5) contiguous acres and of
+such configuration as to be conducive to a Planned Unit Development. or
+2) A Planned Unit Development application may be filed on a tract of land
+less than five (5) contiguous acres but no approval shall be given to such
+application unless Coos County determines, upon a showing by the
+applicant, that the minimum size required in paragraph "1" above should
+be waived if one or more of the following conditions exist:
+
+a) Because of unusual physical features of the property or of the
+neighborhood in which it is located, a substantial deviation from
+the regulations otherwise applicable is necessary or appropriate in
+order to conserve a resource or amenity, such as aesthetic
+vegetation, etc.
+b) The property or its neighborhood has historical character of
+economic importance to the community that could be protected by
+use of a Planned Unit Development.
+c) The property is adjacent to property which has been officially
+approved, developed or redeveloped as a Planned Unit
+Development on the subject property can be effectively integrated
+with the existing PUD.
+d) The property is determined to be an isolated problem area that has
+been bypassed in the course of development and for which a
+Planned Unit Development is determined to be the most feasible
+method of developing said area.
+
+iv. Must comply with the requirements of Chapter VI for land divisions.
+v. Notice will be sent as required by Article 5.0.
+vi. Final Plat is a ministerial review.
+
+III-33
+7. Communication structure must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions and may be permitted subject to Policies
+#14 and #27.
+
+8. Air & water navigation aids outside the unincorporated boundary must be found
+compatible with surrounding uses or may be made compatible through the imposition of
+conditions and may be permitted subject to Policies #14 and #27.
+
+9. Air & water navigation aids inside the unincorporated boundary must be found compatible
+with surrounding uses or may be made compatible through the imposition of conditions.
+
+10. Sewer/water plant/ pump station must be found compatible with surrounding uses or may
+be made compatible through the imposition of conditions and may be permitted subject to
+Policies #14 and #27.
+
+11. Dikes:
+
+a. New construction may be permitted subject to Policies #14 and #27.
+b. Maintenance/repair may be permitted subject to Policies #14 and #27.
+
+12. Drainage and tidegating may be permitted subject to Policies #14, #15 and #27.
+
+13. Mitigation may be permitted subject to Policies #14 and #27.
+
+14. Day care facility (13 or more persons) must be found compatible with surrounding uses or
+may be made compatible through the imposition of conditions.
+
+15. Research & education observation structure must be found compatible with surrounding
+uses or may be made compatible through the imposition of conditions and may be
+permitted subject to Policies #14 and #27.
+
+SECTION 3.3.420 HEARINGS BODY CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under a hearings body conditional use permit in the
+CREMP-Rural Center.
+
+1. Commercial activities inside of the unincorporated community boundary:
+
+a. Water-dependent(WD) or water related outside of the urban community boundary:
+
+i. Must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions;
+ii. May be permitted subject to Policies #14 and #27; and
+iii. The commercial use is located in building or buildings not to exceed 2,500
+square feet of floor area.
+
+b. Water-dependent (WD) or water related inside of the urban community boundary:
+
+i. Must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions;
+III-34
+ii. May be permitted subject to Policies #14 and #27; and
+iii. The commercial use is located in building or buildings not to exceed 4,000
+square feet of floor area.
+
+2. High intensity recreation must be found compatible with surrounding uses or may be made
+compatible through the imposition of conditions and may be permitted subject to Policies
+#14 and #27.
+
+3. Hotel/Motel inside the unincorporated boundary only:
+
+a. Must be found compatible with surrounding uses or may be made compatible
+through the imposition of conditions;
+b. May be permitted subject to Policies #14 and #27; and
+c.  New hotels and motels up to 35 units are allowed only if served by a community
+sewer system. New hotels and motels are not allowed outside an unincorporated
+community.
+
+4. Bed and Breakfast:
+
+a. Must be found compatible with surrounding uses or may be made compatible
+through the imposition of conditions;
+b. May be permitted subject to Policies #14 and #27; and
+c. A bed and breakfast facilities shall be subject to the following conditions:
+
+i. All "bed and breakfast facilities" shall be established within the primary
+residence;
+ii. Breakfast shall be the only meal served to overnight paying guests;
+iii. No cooking facilities shall be permitted in any rented room;
+iv. The maximum number of rooms, which may be rented shall not exceed four
+(4);
+v. Off-street parking shall be provided as follows:
+
+1) Two spaces for the owner/occupant, plus 1 space for each additional
+bedroom.
+2) A plot plan and a parking/traffic plan shall be submitted, to address
+the following:
+
+a) The property boundaries.
+b) Access to the property.
+c) Location of all structures on the subject property.
+d) Required parking spaces.
+e) The parking/traffic plan shall show required parking and
+traffic flow. All parking/traffic plans shall be reviewed by the
+Roadmaster to determine traffic safety.
+
+d. One (1) non-illuminated sign shall be permitted not to exceed six (6) square feet of
+copy area (the words "hotel or motel" shall not be used). A "bed and breakfast
+facility" must be conducted in such a manner so as not to give an outward
+appearance or outwardly manifest any characteristic of a motel, hotel, or other
+business
+III-35
+
+5. Utility facility for the generation of power for public sale or private use must be found
+compatible with surrounding uses or may be made compatible through the imposition of
+conditions and may be permitted subject to Policies #14 and #27.
+
+SECTION 3.3.430 DEVELOPMENT AND USE STANDARDS.
+
+The following are development standards for the CREMP-RC shoreland segments.
+
+1. Minimum Lot Size:
+
+a. Refer to the lot size found on the Special Consideration Map for the CREMP.
+b. Exception to minimum lot sizes in Rural Residential:
+
+i. Smaller parcels may be permitted in an approved residential planned unit
+development, provided the allowable density of the parent parcel is not
+exceeded.
+ii. Any lawfully created parcel or lot created prior to January 1, 1986 that is
+equal to or greater than one acre. Multiple parcels or lots may be combined
+to equal one acre but then a restriction shall be placed on the deed and
+parcels and/or lots shall be combined into one tax lot.
+iii. Any lawfully created parcel or lot created prior to January 1, 1986 that does
+not equal one acre including the combination of parcels or lots shall be
+subject to a conditional use in Section 4.2.210(2).
+iv. Creation of parcels less than the minimum lot size of the zoning district shall
+be permitted provided the following circumstances exist:
+
+1) The subject property is not zoned for resource use;
+2) An existing dwelling (lawfully or grandfathered, but not for
+temporary purposes) sited prior to January 1, 1986 will remain sited
+on each proposed parcel;
+3) A land division is submitted and approved by Coos County pursuant
+to the current standards;
+4) If the development is proposed to be located on a lot or parcel or a
+combination of lots and parcels less than one acre then a conditional
+use will be required to address Section 4.2.210(2) .
+
+2. Setbacks:
+
+a. All buildings or structures with the exception of fences shall be set back a minimum
+of thirty-five (35) feet from any road right-of-way centerline, or five (5) feet from
+the right-of-way line, whichever is greater.
+b. Firebreak: New or replacement dwellings on lots, parcels or tracts abutting the
+“Forest” zone shall establish and maintain a firebreak, for a distance of at least 30
+feet in all directions. Vegetation within this firebreak may include mowed grasses,
+low shrubs (less than ground floor window height), and trees that are spaced with
+more than 15 feet between the crowns and pruned to remove dead and low (less
+than 8 feet from the ground) branches. Accumulated needles, limbs and other dead
+vegetation should be removed from beneath trees. [ORD 95-05-006PL  11/29/95]
+
+III-36
+3. Fences, Hedges, and Walls: No requirement, but vision clearance provisions of Section
+7.1.525 apply.
+
+4. Off-street Parking and Loading requirements are found in Chapter VII.
+
+5. Minimum road frontage/lot width unless waived by the Planning Director in consultation
+with the County Surveyor and Roadmaster due to creating an unsafe or irregular
+configuration will require a notice of administrative determination and notice will be
+provided in accordance with Article 5.2:
+
+a. Minimum lot width: 50 feet
+b. Minimum road frontage: 30 feet
+
+6. Any applicant for a rural residential building or septic permit adjacent to a forest or
+agriculture zone shall sign a statement on the Zoning Clearance Letter acknowledging that:
+“the normal intensive management practices occurring on adjacent resource land will not
+conflict with the rural residential landowner’s enjoyment of his or her property.”
+
+7. Riparian Vegetation Protection. Riparian vegetation within 50 feet of a estuarine wetland,
+stream, lake or river, as identified on the Coastal Shoreland and Fish and Wildlife habitat
+inventory maps, shall be maintained except that:
+
+a. Trees certified as posing an erosion or safety hazard. Property owner is responsible
+for ensuring compliance with all local, state and federal agencies for the removal of
+the tree.
+b. Riparian vegetation may be removed to provide direct access for a water-dependent
+use. The minimal amount of vegetation should be removed.
+c. Riparian vegetation may be removed in order to allow establishment of authorized
+structural shoreline stabilization measures.
+d. Riparian vegetation may be removed to facilitate stream or stream bank clearance
+projects under a port district, ODFW, BLM, Soil & Water Conservation District, or
+USFS stream enhancement plan.
+e. Riparian vegetation may be removed in order to site or properly maintain public
+utilities and road right-of-ways.
+f. Riparian vegetation may be removed in conjunction with existing agricultural
+operations (e.g. to site or maintain irrigation pumps, to limit encroaching brush, to
+allow harvesting farm crops customarily grown within riparian corridors, etc.)
+provided that such vegetation removal does not encroach further into the vegetation
+buffer except as needed to provide an access to the water to site or maintain
+irrigation pumps.
+g. The 50’ riparian vegetation setback shall not apply in any instance where an
+existing structure was lawfully established and an addition or alteration to said
+structure is to be sited not closer to the estuarine wetland, stream, lake, or river than
+the existing structure and said addition or alteration represents not more than 100%
+of the size of the existing structure’s “footprint”.
+h. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+i. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+III-37
+j. The 50’ measurement shall be taken from the ordinary high water mark using a
+right angle from the ordinary high water mark.
+
+8. Access to new dwellings shall meet road and driveway standards in Chapter VII.
+
+COQUILLE RIVER ESTUARY MANAGEMENT PLAN - INDUSTRIAL SHORELAND
+SEGMENTS (CREMP-IND)
+
+• Industrial Shoreland Segment 14 (14-INDS) shall be managed for development of a dock
+and storage area for bulk material loading or similar low-intensity industrial use. Due
+consideration shall be given to minimizing noise or visual impacts on the adjacent State
+Park, and to protection of archaeological resources (see Policy Shoreland Segment 18).
+
+• Industrial Shoreland Segment 16 (16-INDS) shall be managed to continue its use as a
+mill or for other industrial uses, utilizing the existing dock and water access.
+
+• Industrial Shoreland Segment 20 (20-INDS) shall be managed to develop this area of
+historic water-front development for industrial and commercial uses connected with boat
+building, repair, port operations, moorage and other water-dependent or related uses.
+
+• Industrial Shoreland Segment 40 (40-INDS) shall be managed for general industrial,
+commercial or other development particularly uses which utilize the water-frontage of the
+site. However, continuation and expansion of existing non-water-dependent/related uses
+shall be allowed.
+
+• Shoreland Segments 45 (45-INDS), 52 (52-INDS), 54 (54-INDS) and 59 (59-INDS)
+shall be managed for the continuation of industrial use including development of water
+access if necessary.
+
+SECTION 3.3.500 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the in the CREMP-IND.
+
+1. Residential
+
+a. Watchman/Caretaker shall not be permitted in IND Shoreland Segments 14 and 16.
+All other IND Shoreland Segment must comply with the following:
+
+i. This use permitted only if in conjunction with a permitted or conditionally
+permitted use; and
+ii. This use is subject to the provisions of CREMP Policy #18.
+
+b. Home Occupation is subject to the provision of CREMP Policy #18.
+
+2. Contaminated Soil/land farming is subject to the provision of CREMP Policy #18.
+
+3. Exploration for Geo-thermal, Aggregate or Other mineral or subsurface resource is subject
+to the provision of CREMP Policy #18 and the following review criteria. The following
+III-38
+conditions shall be included in any conditional use permit for exploration for subsurface
+mineral resource:
+
+a. Exploration of geo-thermal energy, aggregate and other mineral or subsurface
+resources not including water.
+b. All drill holes shall be filled and capped according to the following standards, and
+bonds to secure performance of this obligation shall be required as follows:
+
+i. The applicant shall provide the Coos County Watermaster with the location
+of each hole by township, range, section and driller's identification number
+of all holes drilled.
+ii. A plot plan showing these locations will be furnished to the Watermaster.
+iii. The applicant shall seal all test holes from the bottom within 2 feet of land
+surface with cement, native clay, bentonite mixture (e.g., "Sure-Gel", Aqua
+Gel") of 9 pounds to 9-1/2 pounds of bentonite per gallon of water.
+iv. If artesian flows are encountered, the test hole will be:
+
+1) Abandoned according to the following abandonment procedures:
+ABANDONMENT OF ARTESIAN EXPLORATION HOLES. The
+flow of artesian exploration holes to be abandoned shall be confined or
+restricted by cement grout applied under pressure, or by the use of a
+suitable well packer, or a wooden or cast lead plug placed at the bottom
+of the confining formation immediately above the artesian water-
+bearing zone. Cement grout or concrete shall be used to effectively fill
+the exploration hole to land surface. Or
+2) Developed for use of the artesian flow by a water well driller who is
+properly licensed and bonded by the State of Oregon.
+
+v. If unusual conditions occur at a test hole site and compliance to the above
+standards will not result in a satisfactorily abandoned hole, the driller shall
+request that special standards be prescribed by the Watermaster for the
+particular hole.
+vi. The applicant shall notify the County Watermaster prior to the abandonment
+of all test holes, drill holes, exploration holes, etc. As used in this section the
+term 'abandonment' shall mean the act of filling any hole with the required
+sealing material.
+vii. In addition to complying with the procedures outlined above, the applicant
+shall post a surety bond in the amount of five thousand ($5,000.00) dollars
+for each hole drilled or a bond for fifty thousand ($50,000.00) dollars to
+cover all test holes. The surety bond shall be filed with the Board of
+Commissioners, and may be written by a surety company duly licensed by
+and authorized to do business in the State of Oregon. The release of such
+bond shall be conditioned upon the successful capping of all holes according
+to the procedure described above.
+viii. Although it is recommended that the test hole be sealed prior to moving the
+drilling rig, in no case shall the drill hole be left open for more than five (5)
+days after the drilling rig is moved off the test hole without prior approval of
+the County's designated representative.
+
+III-39
+b. The applicant shall be required to construct a catch basin around each drilling site to
+retain any possible run-off.
+c. Abandonment procedure:
+
+i. At the discretion of the County's appointed representative (usually, the
+district Watermaster), this representative may require that the exploration
+hole abandonment not begin until he is present at the site.
+ii. In the event that paragraph "i" above, is implemented, the County's
+appointed representative may, if he is unable to be present during
+abandonment, otherwise authorize abandonment. This authorization may
+be given verbally by telephone.
+iii. The County's appointed representative may require that the exploration
+hole be abandoned with cement grout.
+
+4. Service Lines subject to the provisions of CREMP Policy #18.
+
+5. Agricultural:
+
+a. Farm use for profit or not for profit pursuant to ORS 215.203. This use is subject to
+the provisions of CREMP Policy #18.
+b. Farm Buildings subject to the provisions of CREMP Policy #18.
+
+6. Non-structural shoreland stabilization subject to the provisions of CREMP Policy #18.
+
+7. Passive restoration.
+
+SECTION 3.3.510 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREMP-IND.
+
+1. Land Division (Partition and Subdivision):
+
+a. This use may be permitted subject to the provisions of CREMP Policy 18.
+b. Each parcel or lot shall meet the minimum lot/parcel size and development standards
+unless it is a residual of resource (Farm or Forest) land division.
+c. Must comply with the requirements of Chapter VI for land divisions.
+d. Notice will be sent as required by Article 5.0.
+e. Final Plat is a ministerial review.
+
+2. Utility Facility – Generation of power not for public sale:
+
+a. Must be found compatible with surrounding uses or may be made compatible
+through the imposition of conditions;
+b. This use is prohibited in the IND Shoreland Segments 14 and 16; and
+c. This use may be permitted subject to the provisions of CREMP Policy #18.
+
+3. Communication structure:
+
+III-40
+a. Must be found compatible with surrounding uses or may be made compatible
+through the imposition of conditions;
+b. This use is prohibited in the IND Shoreland Segments 14 and 16; and
+c. This use may be permitted subject to the provisions of CREMP Policy #18.
+
+4. Air & water navigation aids:
+
+a. Must be found compatible with surrounding uses or may be made compatible
+through the imposition of conditions;
+b. This use is prohibited in the IND Shoreland Segments 14 and 16; and
+c. This use may be permitted subject to the provisions of CREMP Policy #18.
+
+5. Sewer/water plant/pump station:
+
+a. Must be found compatible with surrounding uses or may be made compatible
+through the imposition of conditions;
+b. This use is prohibited in the IND Shoreland Segments 14 and 16; and
+c. This use may be permitted subject to the provisions of CREMP Policy #18.
+
+6. Mining/mineral extraction, including dredging necessary for mineral extraction Geo-
+thermal or Aggregate:
+
+a. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+b. In IND Shoreland Segments 16 and 54 this use may be permitted subject to the
+provisions of CREMP Policies #14 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policy #27.
+
+7. Propagation, management, harvesting, or primary processing of forest products including
+sawmills, manufacture and storage of logs and lumber. Forest management practices and
+policies for regulation of forest lands to be consistent with LCDC Goal #17 and the Oregon
+Forest Practices Act.
+
+a. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18, #21 and #27.
+b. In IND Shoreland Segments 16 and 54 this use may be permitted subject to the
+provisions of CREMP Policies #14, #21 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #21, #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policy #21 and #27.
+
+8. Dikes:
+
+a. Construction & maintenance is prohibited in IND Shoreland Segments 14 and 16 all
+other IND Shoreland Segments shall address the applicable standards as follows:
+
+III-41
+i. In IND Shoreland Segments 20 and 40 this use may be permitted subject to
+the provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segment 54 this use may be permitted subject to the
+provisions of CREMP Policies #14 and #27.
+iii. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+iv. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+
+b. New construction is prohibited in IND Shoreland Segments 14 and 20. All other
+IND Shoreland Segments shall address the applicable standards as follows:
+
+i. In IND Shoreland Segments 20 and 40 this use may be permitted subject to
+the provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segment 54 this use may be permitted subject to the
+provisions of CREMP Policies #14 and #27.
+iii. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+iv. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+
+9. Drainage & tide gates is prohibited in IND Shoreland Segments 14, 16 and 20. All other
+IND Shoreland Segments shall address the applicable standards as follows:
+
+a. In IND Shoreland Segment 40 this use may be permitted subject to the provisions
+of CREMP Policies #14, #18 and #27.
+b. In IND Shoreland Segment 54 this use may be permitted subject to the provisions
+of CREMP Policies #14 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policy #27.
+
+10. Dredge material disposal to include stabilization measure to control run-off and prevent
+sloughing:
+
+a. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18, #20 and #27.
+b. In IND Shoreland Segments 16 and 54 this use may be permitted subject to the
+provisions of CREMP Policies #14, #20 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #20, #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policies #20 and #27.
+
+11. Fill:
+
+a. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+III-42
+b. In IND Shoreland Segments 16 and 54 this use may be permitted subject to the
+provisions of CREMP Policies #14 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policy #27.
+
+12. Mitigation:
+
+a. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+b. In IND Shoreland Segments 16 and 54 this use may be permitted subject to the
+provisions of CREMP Policies #14 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policy #27.
+
+13. Shoreland Stabilization:
+
+a. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject to the
+provisions of CREMP Policies #9, #14, #18 and #27.
+b. In IND Shoreland Segments 16 and 54 this use may be permitted subject to the
+provisions of CREMP Policies #9, #14 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #9, #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policies #9 and #27.
+
+14. High-intensity recreation:
+
+a. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+b. In IND Shoreland Segments 16 and 54 this use may be permitted subject to the
+provisions of CREMP Policies #14 and #27.
+c. In IND Shoreland Segment 45 this use may be permitted subject to the provisions
+of CREMP Policies #23 and #27.
+d. In IND Shoreland Segment 52 this use may be permitted subject to the provisions
+of CREMP Policy #27.
+
+15. Modification of historic structures may be permitted upon the establishment of a finding
+that the modification is necessary to preserve, protect or enhance the original historical
+character of the structure, based upon submission of a modification proposal and site and
+architectural plans. This use is subject to CREMP Policy #18.
+
+16. Commercial:
+
+a. Water-dependent - The commercial use is located in building or buildings not to
+exceed the floor area standards set forth in OAR 660-022-0030(10). New
+III-43
+commercial structures authorized outside a UCB or UGB shall not exceed 3,500
+square feet of floor area.
+
+i. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject
+to the provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segments 16 and 54 this use may be permitted subject to
+the provisions of CREMP Policies #14 and #27.
+iii. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+iv. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+
+b. Water-related - The commercial use is located in building or buildings not to exceed
+the floor area standards set forth in OAR 660-022-0030(10). New commercial
+structures authorized outside a UCB or UGB shall not exceed 3,500 square feet of
+floor area.
+
+i. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject
+to the provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segments 16 and 54 this use may be permitted subject to
+the provisions of CREMP Policies #14 and #27.
+iii. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+iv. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+
+c. Non-water-dependent/related is prohibited in IND Shoreland Segments 14, 16 and
+40 all other IND Shoreland Segments shall address the applicable standards as
+follows:
+
+i. In IND Shoreland Segment 20 this use may be permitted subject to the
+provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segment 54 this use may be permitted subject to the
+provisions of CREMP Policies #14 and #27.
+iii. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+iv. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+v. The commercial use is located in building or buildings not to exceed the
+floor area standards set forth in OAR 660-022-0030(10). New commercial
+structures authorized outside a UCB or UGB shall not exceed 3,500 square
+feet of floor area.
+
+17. Industrial uses shall be limited to water-dependent/water-related:
+
+a. Water-dependent
+
+i. Industrial uses in IND Shoreland Segment 14 shall be limited to storage,
+bulk loading and associated activities. Existing trees in IND Shoreland
+III-44
+Segment 14 at the boundary of state park shall be retained as screen. This
+segment is subject to the provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segments 20 and 40 this use may be permitted subject to
+the provisions of CREMP Policies #14, #18 and #27.
+iii. In IND Shoreland Segments 16 and 54 this use may be permitted subject to
+the provisions of CREMP Policies #14 and #27.
+iv. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+v. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+vi. The industrial use is located in building or buildings not to exceed the floor
+area standards set forth in OAR 660-022-0030(11). New industrial
+structures authorized outside of a UCB or UGB shall not exceed 40,000
+square feet of floor area unless:
+
+1) The industrial use involves the primary processing of raw material(s)
+produced in the area or from ocean resources;
+2) The industrial use is located on an abandoned or diminished mill site
+as defined by statute;
+3) The industrial use is located in an area where an exception to Goal
+14 has been taken; or
+4) As authorized by Goals 3 and/or 4. (04-04-005PL 9/1/04)
+5) Alternatively, the industrial use satisfies the standards for home
+occupations under ORS 215.448.
+
+b. Water-related
+
+i. Industrial uses in IND Shoreland Segment 14 shall be limited to storage,
+bulk loading and associated activities. Existing trees in IND Shoreland
+Segment 14 at the boundary of state park shall be retained as screen. This
+segment is subject to the provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segments 20 and 40 this use may be permitted subject to
+the provisions of CREMP Policies #14, #18 and #27.
+iii. In IND Shoreland Segments 16 and 54 this use may be permitted subject to
+the provisions of CREMP Policies #14 and #27.
+iv. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+v. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+vi. The industrial use is located in building or buildings not to exceed the floor
+area standards set forth in OAR 660-022-0030(11). New industrial
+structures authorized outside of a UCB or UGB shall not exceed 40,000
+square feet of floor area unless:
+
+1) The industrial use involves the primary processing of raw material(s)
+produced in the area or from ocean resources;
+2) The industrial use is located on an abandoned or diminished mill site
+as defined by statute;
+3) The industrial use is located in an area where an exception to Goal
+14 has been taken; or
+III-45
+4) As authorized by Goals 3 and/or 4. (04-04-005PL 9/1/04)
+5) Alternatively, the industrial use satisfies the standards for home
+occupations under ORS 215.448.
+
+c. Water-borne transportation
+
+i. In IND Shoreland Segments 14, 20 and 40 this use may be permitted subject
+to the provisions of CREMP Policies #14, #18 and #27.
+ii. In IND Shoreland Segments 16 and 54 this use may be permitted subject to
+the provisions of CREMP Policies #14 and #27.
+iii. In IND Shoreland Segment 45 this use may be permitted subject to the
+provisions of CREMP Policies #23 and #27.
+iv. In IND Shoreland Segment 52 this use may be permitted subject to the
+provisions of CREMP Policy #27.
+
+SECTION 3.3.520 HEARINGS BODY CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and their accessory uses may be allowed as hearings body conditional uses in
+the CREMP-IND zone.
+
+1. Generation of Power for public sale:
+
+a. Non-water-dependent/related uses shall not be permitted in CREMP Shoreland
+Segments 14 and 16;
+b. Must be found compatible with surrounding uses or may be made compatible
+through the imposition of conditions; and
+c. This use may be permitted subject to the provisions of CREMP Policy 18.
+
+SECTION 3.3.530 DEVELOPMENT AND USE STANDARDS.
+
+The following are development standards for the CREMP-RC shoreland segments.
+
+1. Minimum Lot size:
+
+a. Refer to CREMP lot size Special Consideration Map.
+b. The dimension requirements must be meet.
+
+2. Minimum Street frontage and minimum lot width is 20 feet.
+
+3. Front setback is 20 feet.
+
+4. Building height does not have any requirement, except those sites abutting a residential or
+controlled development zone shall have a max height of 35 feet plus one (1) additional foot
+in height for each foot of setback exceeding 5 feet ( i.e. if the setback is 10, the maximum
+building height would be 40 feet). However, spires, towers, domes, steeples, flag poles,
+antennae, chimneys, solar collectors, smokestacks, ventilators or other similar objects may
+be erected above the prescribed height limitations, provided no usable floor space above
+the height limits is thereby added. Such over height object shall not be used for advertising
+of any kind.
+
+III-46
+5. Access and parking is regulated in chapter VII.
+
+6. Riparian Vegetation Protection. Riparian vegetation within 50 feet of a estuarine wetland,
+stream, lake or river, as identified on the Coastal Shoreland and Fish and Wildlife habitat
+inventory maps, shall be maintained except that:
+
+a. Trees certified as posing an erosion or safety hazard. property owner is responsible
+for ensuring compliance with all local, state and federal agencies for the removal of
+the tree.
+b. Riparian vegetation may be removed to provide direct access for a water-dependent
+use.
+c. Riparian vegetation may be removed in order to allow establishment of authorized
+structural shoreline stabilization measures.
+d. Riparian vegetation may be removed to facilitate stream or streambank clearance
+projects under a port district, ODFW, BLM, Soil & Water Conservation District, or
+USFS stream enhancement plan.
+e. Riparian vegetation may be removed in order to site or properly maintain public
+utilities and road right-of-ways. or
+f. Riparian vegetation may be removed in conjunction with existing agricultural
+operations (e.g. to site or maintain irrigation pumps, to limit encroaching brush, to
+allow harvesting farm crops customarily grown within riparian corridors, etc.)
+provided that such vegetation removal does not encroach further into the vegetation
+buffer except as needed to provide an access to the water to site or maintain
+irrigation pumps.
+g. The 50 foot riparian vegetation setback shall not apply in any instance where an
+existing structure was lawfully established and an addition or alteration to said
+structure is to be sited not closer to the estuarine wetland, stream, lake, or river than
+the existing structure and said addition or alteration represents not more than 100%
+of the size of the existing structure’s “footprint”.
+h. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+i. The 50’ measurement shall be taken from the closest point of the ordinary high
+water mark to the structure using a right angle from the ordinary high water mark.
+
+COQUILLE RIVER ESTUARY MANGMENT PLAN - FOREST (CREMP-F)
+SHORELAND SEGMENTS
+
+• Forest Shoreland Segment 13 (13-FS) shall be managed for forest uses, with special
+attention being given to protecting riparian vegetation.
+
+• Forest Shoreland Segment 15 (15-FS) shall be managed to conserve the natural resources
+of this low-lying forested wetland area with special attention being given to protecting the
+riparian vegetation adjacent to the Bandon Marsh.
+
+• Forest Shoreland Segment 17 (17-FS) shall be managed to conserve the natural resources
+of this low-lying forested wetland area, with special attention being given to protecting the
+riparian vegetation adjacent to the tidal marsh in Aquatic Segment Shoreland Segment 16.
+
+III-47
+• Forest Shoreland Segment 19 (19-FS) shall be managed to conserve this forested area,
+with special attention being given to protecting riparian vegetation.
+
+• Forest Shoreland Segment 22 (22-FS) shall be managed to conserve this area of forested
+wetland for forest use, with special attention being given to protecting the riparian
+vegetation adjacent to the marsh in Aquatic Segment Shoreland Segment 20.
+
+• Forest Shoreland Segments 35 (35-FS) and 38 (38-FS) shall be managed for forest uses
+and practices, subject to any special regulations the Oregon Department of Forestry may
+adopt for forest lands in the coastal shorelands area. Any development shall be subject to
+Policy Shoreland Segment 27a, addressing mass movement hazards.
+
+SECTION 3.3.600 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the in the CREMP-Forest.
+1. Forest operations or forest practices including, but not limited to, reforestation of forest
+land, road construction and maintenance, harvesting of a forest tree species, application of
+chemicals, and disposal of slash.
+
+2. Fish and wildlife habitat management. This use is subject to Policies 14, 17, 23, and 27 in
+CREMP F segments.
+
+3. Agricultural:
+
+a. Farm use as defined in ORS 215.203.
+b. Farm buildings.
+
+4. Explorations for mineral and aggregate resources as defined in ORS Chapter 517. This use
+is permitted in CREMP F except for segments 17 and 19.
+
+5. Alteration, restoration or replacement of a lawfully established dwelling. A lawfully
+established dwelling is a single-family dwelling that:
+
+a. Has intact exterior walls and roof structure;
+b. Has indoor plumbing consisting of a kitchen sink, toilet and bathing facilities
+connected to a sanitary waste disposal system;
+c. Has interior wiring for interior lights;
+d. Has a heating system; and
+e. In the case of replacement, the dwelling to be replaced is removed, demolished or
+converted to an allowable nonresidential use within three months of the
+completion of the replacement dwelling. Coos County does not allow conversion
+of mobile homes into accessory storage buildings or uses. These conditions must
+comply with Coastal Boundary conditional use criteria in CREMP F.
+
+6. Shoreland stabilization, nonstructural. This activity may be allowed in CREMP F, except
+for Segment 15.
+
+7. Temporary residence. Mobile home, travel trailer or recreational vehicle used as a
+dwelling temporarily during construction of a permitted structure. Duration not to exceed
+one (1) year, subject to renewal.
+III-48
+
+8. New electrical transmission lines with right-of-way widths of up to 100 feet as specified
+in ORS 772.210. New distribution lines (e.g., gas, oil, geo-thermal) with rights-of way 50
+feet or less in width.
+
+SECTION 3.3.610 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREMP-Forest. The following uses and their accessory uses may be allowed as administrative
+conditional uses in the “CREMP-Forest” zone subject to applicable requirements in Section
+3.3.630 and applicable siting criteria
+
+1. Mitigation. This is a conditional use in CREMP-F. Policies #14, #17, #23, and #27 may be
+applicable. This use is not permitted in Segments 35 and 38.
+
+2. Television, microwave and radio communication facilities and transmission towers.
+Policies #14, #17, #23, and #27 may be applicable.
+
+3. Aids to navigation and aviation. Policies #14, #17, #23 and #27 may be applicable.
+
+4. Water intake facilities, related treatment facilities, pumping stations, and distribution lines.
+Policies #14, #17, #23 and #27 may be applicable.
+
+5. One manufactured dwelling or the temporary residential use of an existing building in
+conjunction with an existing dwelling as a temporary use for the term of a hardship
+suffered by the existing resident or a relative of the resident. As used in this section
+“hardship’ means a medical hardship or hardship for the care of an aged or infirm person or
+persons. The temporary use shall use the same subsurface sewage disposal system used by
+the existing dwelling, if that disposal system is adequate to accommodate the additional
+dwelling. If a public sanitary sewer system is used, such condition will not be required.
+
+In addition, the applicant must submit certification from a qualified physician stating what
+the hardship is and that the person requiring the hardship dwelling must live close to
+someone due to the hardship.
+
+Within three months of the end of the hardship, the manufactured dwelling shall be
+removed or demolished or, in the case of an existing building, the building shall be
+removed, demolished, or returned to an allowed nonresidential use.
+
+Every two years the Planning Director shall review the permit authorizing such temporary
+hardship dwellings. Oregon Department of Environmental Quality review and removal
+requirements also apply to such temporary hardship dwellings.
+
+A temporary residence approved under this Section is not eligible for replacement under
+Section 4.8.200 (S) criteria. (OR 98-01-002PL 5/4/98)
+
+As used in this Section “manufactured dwelling” means a manufactured home, mobile
+home, or recreational vehicle.
+
+III-49
+In order to minimize impacts to forest lands, the landowner shall acknowledge and file a
+Forest Management Covenant in the deed records of the County prior to final County
+approval.
+
+In CREMP F, Policies #14, #17, #23 and 27 may be applicable. Policy #27a also applies in
+shoreland segment 13.
+
+6. Structural shoreland stabilization. This use is subject only to Natural Hazards Policy #5 in
+Volume I, Part 1 of the Coos County Comprehensive Plan. Coos County shall promote
+protection of valued property from risks associated with critical stream bank and ocean
+front erosion through necessary erosion-control stabilization measures, preferring
+nonstructural solutions where practical. Coos County shall implement this strategy by
+making "Consistency Statements" required for State and Federal permits (necessary for
+structural stream bank protection measures) that support structural protection measures
+when the applicant establishes that non-structure measures either are not feasible or
+inadequate to provide the necessary degree of protection. This strategy recognizes the risks
+and loss of property from unabated critical stream bank erosion, and also, that state and
+federal agencies regulate structural solutions. A flood elevation certificate is required for a
+stabilization which will occur in the identified flood hazard area. This activity may be
+permitted in CREMP-F. Policies #14, #17, #23, and #27 may be applicable. Policy #9 is
+applicable. This activity is not permitted in Segment 15.
+
+7. Dog kennels are subject to CREMP Policies #14, #17, #23 and #27.
+
+8. Modification of an historic structure where:
+
+a. The modification is necessary to preserve, protect or enhance the original historical
+character of the structure;
+b. The use must be compatible with surrounding uses or may be made compatible to
+surrounding uses through the imposition of conditions;
+c. A plot plan and architectural plans must be submitted for review; and
+d. In addition to the above, CREMP Policies #14, #17, #23 and #27 may be
+applicable. CREMP Policy 27a also applies in segment 13.
+
+9. Land Divisions:
+
+a. Partition and Subdivision
+
+i. This use may be permitted subject to Policies #14, #15 and #27.
+ii. Each parcel or lot shall meet the minimum lot/parcel size and development
+standards for land division.
+iii. Must comply with the requirements of Chapter VI for land divisions.
+iv. Notice will be sent as required by Article 5.0.
+v. Final Plat is a ministerial review.
+
+SECTION 3.3.620 HEARINGS BODY CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and their accessory uses may be allowed as hearings body conditional uses in
+the CREMP-Forest zone subject to the applicable requirements in Section 3.3630 and 3.3.640 set
+forth in this Article.
+III-50
+
+1. Mining and processing of oil, gas, or other subsurface resources, as defined in ORS
+Chapter 520, and not otherwise permitted under Section 4.8.200 (R) (e.g., compressors,
+separators and storage serving multiple wells), and mining and processing of aggregate and
+mineral resources as defined in ORS Chapter 517. CREMP Policies #14, #17, #23 and #27
+may be applicable. This use is not permitted in Segments 17 and 19. Processing is not
+permitted.
+
+a. Any operation that mines less than 1,000 cubic yards of aggregate is permitted
+outright with the following conditions:
+
+i. The Planning Department must be notified at least 5 working days before
+commencement of the operation.
+ii. Sloping after mining must not exceed a 3:1 slope.
+iii. The disturbed area must be reseeded with a native grass species.
+iv. No oil or other contaminants must be allowed in the pit.
+v. Approval must be obtained from DEQ if there is any backfilling of the pit.
+This includes excavations of sand, gravel, clay, rock or other similar
+materials conducted by a landowner or tenant’s property for the primary
+purpose of reconstruction or maintenance of access roads and excavation or
+grading operations conducted in the process of farming or cemetery
+operations, onsite road construction or other onsite construction or
+nonsurface impacts of underground mines.
+
+b. Any operation that sells greater than 5,000 cubic yards of aggregate must comply
+with standards established by the Department of Geology and Mineral Industries.
+
+2. Contaminated Soil Land Farming where the activity is situated less than 1000 feet from any
+rural-residential zone or urban growth boundary. The activity must be found to be
+compatible with surrounding uses or made compatible through the imposition of
+conditions. Contaminated soil land farming is permitted without conditional use review
+provided the activity is situated not less than 1,000 feet from any rural-residential or urban
+growth boundary.
+
+3. “Lot-of-Record” Dwelling.  A “lot-of-record” single-family dwelling may be allowed as a
+hearing’s body conditional use if the following criteria are satisfied:
+a. OAR-660-006-0027(1)(a), (b), (c)(A), (d), (4), (5);
+b. ORS 215-720(1)(a), (2), (3), 215.705; and
+c. CREMP Policies 14, 17, 23, and 27 may also be applicable.
+
+SECTION 3.3.630 ADDITIONAL CRITERIA FOR ALL ADMINSTRATIVE AND HEARINGS
+BODY APPLICATION REVIEW:
+
+All Conditional Use Applications (Administrative and Hearings Body) are subject to requirements that
+are designed to make the use compatible with forest operations and agriculture and to conserve values
+found on forest lands as follows:
+
+1. The proposed use will not force a significant change in, or significantly increase the cost of,
+accepted farming or forest practices on agriculture or forest lands.
+
+III-51
+2. The proposed use will not significantly increase fire hazard or significantly increase fire
+suppression costs or significantly increase risks to fire suppression personnel.
+
+3. All uses must comply with applicable development standards and fires siting and safety
+standards.
+
+4. A “Forest Management Covenant”, which recognized the right of adjacent and nearby
+landowners to conduct forest operations consistent with the Forest Practices Act and Rules,
+shall be recorded in the deed records of the County prior to any final County approval for
+uses authorized in Section any type of residential use. There may be other criteria listed
+that applies to individual uses.
+
+5. The following siting criteria shall apply to all dwellings, including replacement dwellings,
+and structures in the Forest and Forest Mixed Use zones. Replacement dwellings may be
+sited in close proximity to the existing developed homesite. These criteria are designed to
+make such uses compatible with forest operations and agriculture, to minimize wildfire
+hazards and risks and to conserve values found on forest lands. These criteria may include
+setbacks from adjoining properties, clustering near or among existing structures, siting
+close to existing roads and siting on that portion of the parcel least suited for growing trees.
+
+a. Dwellings and structures shall be sited on the parcel so that:
+
+i. They have the least impact on nearby or adjoining forest or agricultural
+lands;
+ii. The siting ensures that adverse impacts on forest operations and accepted
+farming practices on the tract will be minimized;
+iii. The amount of forest lands used to site access roads, service corridors, the
+dwelling and structures is minimized; and
+iv. The risks associated with wildfires are minimized.
+
+b. The applicant shall provide evidence that the domestic water supply is from a
+source authorized in accordance with the Water Resources Department’s
+administrative rules for the appropriation of ground water or surface water and not
+from a Class II stream as defined in the Forest Practices Rules. For the purposed of
+this Section, evidence of a domestic water supply means:
+
+i. Verification from a water purveyor that the use described in the application
+will be served by the purveyor under the purveyor’s rights to appropriate
+water.
+ii. A water use permit issued by the Water Resources Department for the use
+described in the application. or
+iii. Verification from the Water Resources Department that a water use permit
+is not required for the use described in the application. If the proposed water
+supply is from a well and is exempt from permitting requirements under
+ORS 537.545, the applicant shall submit the well constructor’s report to the
+County upon completion of the well.
+
+6. As a condition of approval, if road access to the dwelling is by a road owned and
+maintained by a private party or by the Oregon Department of Forestry, the United States
+Bureau of Land Management, or the United States Forest Service, then the applicant shall
+III-52
+provide proof of a long-term road access use permit or agreement. The road use permit may
+require the applicant to agree to accept responsibility for road maintenance.
+
+7. Approval of a dwelling shall be subject to the following additional requirements:
+
+a. Approval of a dwelling requires the owner to plant a sufficient number of trees on
+the tract to demonstrate that the tract is reasonably expected to meet Department of
+Forestry stocking requirements at the time specified in Department of Forestry
+administrative rules.
+b. The Planning Department shall notify the County Assessor of the above condition
+at the time the dwelling is approved.
+c. The property owner shall submit a stocking survey report to the County Assessor
+and the Assessor will verify that the minimum stocking requirements have been met
+by the time required by Department of Forestry Rules. The Assessor will inform the
+Department of Forestry in cases where the property owner has not submitted a
+stocking survey report of where the survey report indicates that minimum stocking
+requirements have not been met.
+d. Upon notification by the Assessor the Department of Forestry will determine
+whether the tract meets minimum stocking requirements of the Forest Practices Act.
+If the Department of Forestry determines that the tract does not met those
+requirements, it will notify the owner and Assessor that the land is not being
+managed as forest land. The Assessor will then remove the forest land designation
+pursuant to ORS 321.359 and impose the additional tax pursuant to ORS 321.372
+
+SECTION 3.3.640 DEVELOPMENT AND SITING CRITERIA.
+
+This section contain all of the development standards for uses (unless otherwise accepted out by a use
+review) and all of the siting standards for development.
+
+1. Minimum Lot Size for the creation of new parcels shall be at least 80 acres unless approved
+through a conditional use.
+
+2. Setbacks: All buildings or structures with the exception of fences shall be set back a minimum of
+thirty-five (35) feet from any road right-of-way centerline, or five (5) feet from any right-of-way
+line, whichever is greater.
+
+3. Fences, Hedges and Walls: No requirement, except for vision clearance provisions in Section
+7.1.525.
+
+4. Off-Street Parking and Loading: See Chapter VII.
+
+5. Minimizing Impacts: In order to minimize the impact of dwellings in forest lands, all applicants
+requesting a single family dwelling shall acknowledge and file in the deed record of Coos
+County, a Forest Management Covenant. The Forest Management Covenant shall be filed prior
+to any final County approval for a single family dwelling.
+
+6. Riparian Vegetation Protection. Riparian vegetation within 50 feet of a wetland, stream, lake or
+river, as identified on the Coastal Shoreland and Fish and Wildlife habitat inventory maps shall
+be maintained except that:
+
+III-53
+a. Trees certified as posing an erosion or safety hazard. Property owner is responsible
+for ensuring compliance with all local, state and federal agencies for the removal of
+the tree.
+b. Riparian vegetation may be removed to provide direct access for a water-dependent use.
+c. Riparian vegetation may be removed in order to allow establishment of authorized
+structural shoreline stabilization measures.
+d. Riparian vegetation may be removed to facilitate stream or streambank clearance projects
+under a port district, ODFW, BLM, Soil & Water Conservation District, or USFS stream
+enhancement plan.
+e. Riparian vegetation may be removed in order to site or properly maintain public utilities
+and road rights-of-way; or
+f. Riparian vegetation may be removed in conjunction with existing agricultural operations
+(e.g. to site or maintain irrigation pumps, to limit encroaching brush, to allow harvesting
+farm crops customarily grown within riparian corridors, etc.) provided that such
+vegetation removal does not encroach further into the vegetation buffer except as needed
+to provide an access to the water to site or maintain irrigation pumps.
+g. The 50’ riparian vegetation setback shall not apply in any instance where an existing
+structure was lawfully established and an addition or alteration to said structure is to be
+sited not closer to the wetland, stream, lake or river than the existing structure and said
+addition or alteration represents not more than 100% of the size of the existing structure’s
+“footprint”.
+h. Riparian removal within the Coastal Shoreland Boundary will require a conditional
+use. See Special Development Considerations Coastal Shoreland Boundary.
+i. The 50’ measurement shall be taken from the closest point of the ordinary high
+water mark to the structure using a right angle from the ordinary high water mark.
+
+7. All new dwellings and permanent structures and replacement dwellings and structures shall, at a
+minimum, meet the following standards. The Planning Director may authorize alternative forms
+of fire protection when it is determined that these standards are impracticable. The dwelling shall
+be located within a fire protection district or shall be provided with residential fire protection by
+contract. If the dwelling is not within a fire protection district, the applicant shall provide
+evidence that the applicant has asked to be included within the nearest such district. If the
+applicant is outside the rural fire protection district, the applicant shall provide evidence that they
+have contacted the Department of Forestry of the proposed development.
+
+8. Firebreak:
+
+a. A firebreak shall be established and maintained around all structures, including decks, for
+a distance of at least 30 feet in all directions.
+b. This firebreak will be a primary safety zone around all structures. Vegetation within this
+primary safety zone may include mowed grasses, low shrubs (less than ground floor
+window height), and trees that are spaced with more than 15 feet between the crowns and
+pruned to remove dead and low (less than 8 feet from the ground) branches. Accumulated
+needles, limbs and other dead vegetation should be removed from beneath trees.
+c. Sufficient garden hose to reach the perimeter of the primary safety zone shall be available
+at all times.
+d. A secondary fire break of at least 100 feet radius around the primary safety zone shall be
+established and maintained.
+III-54
+e. Vegetation should be pruned (to at least 8 feet in height) and spaced so that fire will not
+spread between the crowns of trees. Accumulated needles, limbs and other dead
+vegetation should be removed from beneath trees.
+f. The primary fuel-free break and secondary break areas shall be provided and maintained
+on land surrounding the dwelling that is owned or controlled by the owner. A variance
+application will not be required if the parcel’s configuration (shape and/or size) does not
+allow the primary or secondary fire break to be met. (OR-98-01-002PL)
+
+9. All new and replacement structures shall use non-combustible or fire resistant roofing materials,
+as may be approved by the certified official responsible for the building permit.
+
+10. If a water supply exceeding 4,000 gallons is suitable and available (within 100 feet of the
+driveway or road) for fire suppression, then road access and turning space shall be provided for
+fire protection pumping units to the source during fire season. This includes water supplies such
+as a swimming pool, tank or natural water supply (e.g. pond).
+
+11. The dwelling shall not be sited on a slope of greater than 40 percent.
+
+12. If the dwelling has a chimney or chimneys, each chimney shall have a spark arrester.
+
+13. The dwelling shall be located upon a parcel within a fire protection district or shall be provided
+with residential fire protection by contract. If the dwelling is not within a fire protection district,
+the applicant shall provide evidence that the applicant has asked to be included within the nearest
+such district.
+
+14. Except for private roads and bridges accessing only commercial forest uses, public roads,
+bridges, private roads and driveways shall be constructed so as to provide adequate access for
+firefighting equipment.
+
+15. Access to new dwellings shall meet road and driveway standards in Chapter VII.
+
+III-55
+
+1. Declaration of Covenants, Conditions and Restrictions Form 1
+Whereas, the undersigned
+ hereinafter referred as Declarant, is owner in fee simple of the property described in
+Exhibit A attached hereto and incorporated by reference herein and
+
+Whereas, the Declarant desires to declare their intention to create certain covenants,
+conditions and restrictions in order to effectuate and comply with the requirements of Oregon
+Administrative Rule (OAR 660-06-027).
+
+Declarant hereby declares that all of the property described on Exhibit A shall be held, sold, and
+conveyed subject to the following covenants, conditions and restrictions:
+
+It is not lawful to use the property described in this instrument for the construction or siting of a
+dwelling or to use the acreage of the tract to qualify another tract for the construction or siting of a
+dwelling.
+
+These covenants, conditions and restrictions can be removed only and at such time as the property
+described herein is no longer protected under the statewide planning goals for agricultural and
+forest lands or the legislature otherwise provides by statute that these covenants, conditions and
+restrictions may be removed and the authorized representative of the county or counties in which
+the property subject to the covenants, conditions and restrictions are located executes and records a
+release of the covenants, conditions and restrictions created by this instrument.
+
+In witness whereof, the undersigned, being Declarant herein, has heretofore set their hand this
+    day of       ,      .
+
+State of  ___________________ )
+
+County ____________________ )
+
+The foregoing instrument was acknowledged before me this  day of
+   ,  .    by
+      Notary Public for Oregon
+      My commission expires:
+
+III-56
+
+2.  For Consolidations 2
+
+ Whereas, the undersigned        ,
+hereinafter referred to as Declarant, is the owner in fee simple of the subject property described in
+Exhibit “A” attached hereto and incorporated by reference herein. and
+
+ Whereas, Oregon law required that when a “lot-of-record” dwelling is allowed for a lot or
+parcel that is contiguous with one or more other lots or parcels under the same ownership
+comprising a tract, then these contiguous lots and parcels shall be consolidated into a single lot or
+parcel at the time the dwelling is allowed. and
+
+ Whereas, Declarant desires to consolidate the subject property described in Exhibit “A” in
+order to effectuate and comply with the requirements of Oregon law and further desires to consent
+to the execution of this document prepared by the Coos County, Oregon, Planning Department.
+
+ Now, therefore, Declarant hereby declares that all of the property described in Exhibit
+“A” shall not be sold or conveyed separate and apart from any and all of the property described in
+Exhibit “A” in its entirety.
+
+ In witness whereof, the undersigned, being Declarant herein, has heretofore set their hand
+this  day of     ,  .
+
+State of   )
+County of   )
+
+The foregoing instrument was acknowledged before me this   day of      ,     .
+
+By
+
+Notary Public for
+
+My Commission expires:
+
+COQUILLE RIVER ESTUARY MANAGEMENT PLAN - EXCLUSIVE FARM USE
+(CREMP-EFU)  SHORELAND SEGMENTS
+III-57
+
+• Exclusive Farm Use Shoreland Segments 23 (23-EFUS) and 26 (26-EFUS) shall be
+managed for the continuation of farm use as defined in ORS 215.203 (2) (a) and such other
+non-farm uses as are conditionally permitted in ORS 215.213. Mitigation shall also be
+permitted, and designated mitigation sites shall be protected against pre-emptory uses.
+
+• Exclusive Farm Use Shoreland Segments: 27 (27-EFUS), 28 (28-EFUS), 31(31-EFUS),
+32(32-EFUS), 33 (33-EFUS), 34 (34-EFUS), 36 (36-EFUS), 37 (37-EFUS), 41 (41-
+EFUS), 42 (42-EFUS), 43 (43-EFUS), 44 (44-EFUS), 47(47-EFUS), 53(53-EFUS), 55
+(55-EFUS), 56 (56-EFUS), 60 (60-EFUS), 62 (62-EFUS), 73 (73-EFUS), 75 (75-EFUS)
+shall be managed for the continuation of farm use as defined in ORS 215.203 (2)(a) and
+such other farm uses as are conditionally permitted in ORS 215.213.
+
+SECTION 3.3.700 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the in the CREMP-EFU.
+
+1. Agriculture:
+
+a. Farm use as defined in ORS 215.203. CREMP Policy #18 is applicable in Segments
+#23 and #32. CREMP Policy #22 is applicable in Segments 23 and 26;
+b. Other buildings customarily provided in conjunction with farm use. CREMP Policy
+#18 is applicable in Segments 23 and 32. CREMP Policy #22 is applicable in
+Segments 23 and 26.
+
+2. Alteration, restoration, or replacement of a lawfully established dwelling. A lawfully
+established dwelling is a single-family dwelling which:
+
+a. Has intact interior walls and roof structure,
+b. Has indoor plumbing consisting of a kitchen sink, toilet and bathing facilities
+connected to a sanitary waste disposal system;
+c. Has interior wiring for interior lights; and
+d. Has a heating system.
+e. A replacement dwelling may be sited on any part of the same lot or parcel. A
+dwelling established under this subsection shall comply with all applicable siting
+standards. However, the standards shall not be applied in a manner that prohibits the
+siting of the dwelling. If the dwelling to be replaced is located on a portion of the
+lot or parcel not zoned for exclusive farm use, the applicant shall execute and record
+in the deed records, a deed restriction prohibiting the siting of a dwelling on that
+portion of the lot or parcel. The restriction imposed shall be irrevocable unless a
+statement of release is placed in the deed records. The release shall be signed by the
+County and state the provisions of this paragraph regarding the replacement
+dwellings have changed to allow the siting of another dwelling. The Planning
+Director shall maintain a record of the lots and parcels that do not qualify for the
+siting of a new dwelling under the provisions of this paragraph, including a copy of
+the deed restrictions and release statements filed under this paragraph. (OR 98-01-
+002PL 5/4/98)
+f. Coos County does not allow conversion of mobile homes into accessory storage
+buildings or uses.
+III-58
+g. These uses must comply with Coastal Shoreland Boundary conditional use criteria
+in Policy 13.
+
+3. Utility facility including service lines for the generation of power not for public sale. This
+use is subject to CREMP Policy #18 in Segments 23 and 32 and to Policy #22 in Segments
+23 and 26.
+
+4. Temporary residence which includes a mobile home, travel trailer or recreational vehicle
+used as a dwelling temporarily during construction of a permitted structure. Duration not to
+exceed one (1) year subject to renewal. This use is subject to CREMP Policy #18 in
+Segments 23 and 32 and to Policy #22 in Segments 23 and 26, prohibited in all other
+Segments.
+
+5. Non-structural shoreland stabilization.
+
+6. Aggregate mining of less than 1,000 cubic yards of material or excavation of a surface area
+of less than one acre for a site inventoried by the Comprehensive Plan. This use includes
+excavations of sand, gravel, clay, rock or other similar materials conducted by a landowner
+or tenant on the landowner or tenant’s property for the primary purpose of reconstruction or
+maintenance of access roads and excavation or grading operations conducted in the process
+of farming or cemetery operations, onsite road construction or other onsite construction or
+nonsurface impacts of underground mines. For any operation that mines less than 1,000
+cubic yards of aggregate the following conditions must be met:
+
+a. The Planning Department must be notified at least 5 working days before
+commencement of the operation.
+b. Sloping after mining must not exceed a 3:1 slope.
+c. The disturbed area must be reseeded with a native grass species.
+d. No oil or other contaminants must be allowed in the pit.
+e. Approval must be obtained from DEQ if there is any backfilling of the pit.
+
+7. Mining for owner/tenant use. For any operation that mines less than 1,000 cubic yards of
+aggregate, the conditions in Subsection 6 of this section, above, must be met. This use
+under these conditions is also permitted in CREMP EFU. For any operation that mines
+cumulatively more than 1,000 cubic yards but less than 5,000 cubic yards of aggregate, the
+conditions in “6”, above, must be met.
+
+SECTION 3.3.710 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and their accessory uses may be allowed as administrative conditional uses in
+the “CREMP-EFU” zone subject to applicable requirements in Sections 3.3.730 and 3.3.740.
+
+1. Diking (construction and maintenance).The applicable review criteria are CREMP Policies
+#14, #18, #19, #22, #23, and #27.
+
+2. Drainage and tide-gating. The applicable review criteria are CREMP Policies #14, #18,
+#19, #22, #23, and #27.
+
+3. Fill. The applicable review criteria are listed in CREMP Policies #14, #18, #19, #22, #23,
+and #27 may be applicable. The use is not permitted in Segment 26.
+III-59
+
+4. Mitigation. The applicable review criteria are found in CREMP Policies #14, #18, #19,
+#22, #23 and #27. Although mitigation may be permitted, voluntary restoration not
+required as mitigation would require an exception. This condition does not apply to
+Segment 53. This use is not permitted in Segment 47.
+
+5. Dredge material disposal. The applicable review criteria are found in CREMP Policies #14,
+#18, #19, #20, #22, #23, and #27 are applicable. In addition, the DMD is to include
+stabilization measures to control run-off and prevent sloughing. The use is not permitted in
+segment 26.
+
+6. Except on high-value farmland, dog kennels. On high-value farmland existing dog kennels
+may be maintained, enhanced or expanded, subject to other provisions of this ordinance. In
+addition CREMP Policies #14, #23, #27, #18, #19 and #22 may be applicable.
+
+7. One manufactured dwelling or the temporary residential use of an existing building in
+conjunction with an existing dwelling as a temporary use for the term of a hardship
+suffered by the existing resident or a relative of the resident. As used in this section,
+"hardship" means a medical hardship or hardship for the care of an aged or infirm
+person(s). The temporary dwelling shall use the same subsurface sewage disposal system
+used by the existing dwelling, if that disposal system is adequate to accommodate the
+additional dwelling. If a public sanitary sewer system is used, such condition will not be
+required.
+
+a. In addition, the applicant must submit certification from a qualified physician
+stating what the hardship is and that the person requiring the hardship dwelling
+must live close to someone due to the hardship.
+b. Within three months of the end of the hardship, the manufactured dwelling shall be
+removed or demolished or, in the case of an existing building, the building shall be
+removed, demolished or, returned to an allowed nonresidential use.
+c. Every two years the Planning Director shall review the permit authorizing such
+temporary hardship dwellings. Oregon Department of Environmental Quality
+review and removal requirements also apply to such temporary hardship dwellings.
+d. A temporary residence approved under this Section is not eligible for replacement
+under Section 4.3.700(2) criteria.
+e. As used in this section “manufactured dwelling” means a manufactured home,
+mobile home, or recreational vehicle
+f. In addition CREMP Policies #14, #23, #27, #18, #19, and #22 may be applicable.
+
+8. Operations for the exploration for minerals as defined by ORS 517.750. In CREMP
+Policies #14, #23, #27, #18, #19, and #22 may be applicable.
+
+9. Room and board arrangements for a maximum of five unrelated persons in existing
+dwellings. Prohibited in Floodplain (all Flood hazards).
+
+10. Replacement dwelling to be used in conjunction with farm use if the existing dwelling has
+been listed in the County inventory as historic property as defined in ORS 358.480. The
+historic dwelling shall be listed on the National Register of Historic Places. In addition to
+the above CREMP Policies #14, #18, #19, #22 and #27 may be applicable.
+
+III-60
+11. Air and water navigation aids. In addition to the above, CREMP Policies #14, #23, #27,
+#18, #19 and #22 may be applicable.
+
+12. Modification of historic structure where:
+
+a. The modification is necessary to preserve, protect or enhance the original historical
+character of the structure;
+b. The use must be compatible with surrounding uses or may be made compatible to
+surrounding uses through the imposition of conditions; and
+c. A plot plan and architectural plans must be submitted for review.
+d. In addition CREMP Policies #14, #23, #27, #18, #19 and #22 may be applicable.
+
+13. Shoreland structural stabilization is subject to Natural hazards Policy 5.11 as explained in
+this subsection. Coos County shall promote protection of valued property from risks
+associated with critical stream bank and ocean front erosion through necessary erosion-
+control stabilization measures, preferring nonstructural solutions where practical. Coos
+County shall implement this strategy by making "Consistency Statements" required for
+State and Federal permits (necessary for structural stream bank protection measures) that
+support structural protection measures when the applicant establishes that non-structure
+measures either are not feasible or inadequate to provide the necessary degree of
+protection. This strategy recognizes the risks and loss of property from unabated critical
+stream bank erosion, and also, that state and federal agencies regulate structural solutions.
+A flood elevation certificate is required for a stabilization which will occur in the identified
+flood hazard area. In addition CREMP Policies #9, #14, #23, #27, #18, #19, and #22 may
+be applicable. The use is not permitted in Segment 47.
+
+14. Land Divisions:
+
+a. Partition and Subdivision
+
+i. This use may be permitted subject to Policies #14, #15 and #27.
+ii. Each parcel or lot shall meet the minimum lot/parcel size and development
+standards for land division.
+iii. Must comply with the requirements of Chapter VI for land divisions.
+iv. Notice will be sent as required by Article 5.0.
+v. Final Plat is a ministerial review.
+
+SECTION 3.3.720 HEARINGS BODY CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and their accessory uses may be allowed as hearings body conditional uses in
+the CREMP-EFU zone subject to the applicable requirements in Section 3.3.730 and applicable
+siting criteria set forth in this Article.
+
+1. Operations conducted for mining and processing of geo-thermal resources as defined by
+ORS 522.005 and oil and gas as defined by ORS 520.005 not otherwise permitted under
+this rule. In addition CREMP Policies #14, #18, #19, #22, #23 and #27 may be applicable.
+
+2. Operations for the exploration for and production of geo-thermal resources as defined by
+ORS 522.005 and oil and gas as defined by ORS 520.005, including the placement and
+operation of compressors, separators and other customary production equipment for an
+III-61
+individual well adjacent to the wellhead. In addition CREMP Policies #14, #18, #19, #22,
+#23 and #27 may be applicable.
+
+3. Operations conducted for mining, crushing or stockpiling of aggregate and other mineral
+and other subsurface resources subject to ORS 215.298. For any operation that mines
+cumulatively more than 1,000 cubic yards but less than 5,000 cubic yards of aggregate, the
+conditions in Section 3.3.700(6) must be met along with the hearings body conditional use.
+Any operation that sells greater than 5,000 cubic yards must comply with standards
+established by the Department of Geology and Mineral Industries. In addition CREMP
+Policies #14, #18, #19, #22, #23, and #27 may be applicable.
+
+4. Transmission towers over 200 feet in height. In addition CREMP Policies #14, #18, #19,
+#22, #23, and #27 may be applicable.
+
+5. Commercial utility facilities for the purpose of generating power for public use by sale.
+
+a. On other than high-value farmland a power generation facility shall not preclude
+more than 20 acres from use as a commercial agricultural enterprise unless an
+exception is taken pursuant to OAR 660, Division 4.
+b. On high-value farmland a power generation facility shall not preclude more than 12
+acres from use as a commercial agricultural enterprise unless an exception is taken
+pursuant to OAR 660, Division 4.
+c. In addition, CREMP Policies #14, #18, #19, #22, #23, and #27 may be applicable.
+
+6. Private parks, playgrounds, hunting and fishing preserves and campgrounds, except on
+high-value farmland. A campground is an area devoted to overnight temporary use for
+vacation, recreational or emergency purposes, but not for residential purposes. A camping
+site may be occupied by a tent, travel trailer, yurt or recreational vehicle. Campgrounds
+authorized by this rule shall not include intensively developed recreational uses such as
+swimming pools, tennis courts, retail stores or gas stations.
+
+a. A private campground may provide yurts for overnight camping. No more than one-
+third or a maximum of 10 campsites, whichever is smaller, may include a yurt. The
+yurt shall be located on the ground or on a wood floor with no permanent
+foundation. As used in this paragraph “yurt” means a round, domed shelter of cloth
+or canvas on a collapsible frame with no plumbing, sewage disposal hookup or
+internal cooking appliance.
+b. On high-value farmland existing facilities may be maintained, enhanced or
+expanded subject to other requirements of law.
+c. In addition, a campground may be permitted in CREMP EFU. CREMP Policies
+#14, #18, #19, #22, #23, and #27 may be applicable.
+d. This use must comply with the following:
+
+i. Campgrounds in private parks shall only be those allowed by OAR 660-006-
+0025.
+ii. Except on a lot or parcel contiguous to a lake or reservoir, campgrounds
+shall not be allowed within three miles of an urban growth boundary unless
+an exception is approved pursuant to ORS 197.732 and OAR Chapter 660,
+Division 4.
+III-62
+iii. For the purpose of this section a campground is an area devoted to overnight
+temporary use for vacation, recreational or emergency purposes, but not for
+residential purposes and is established on a site or is contiguous to lands
+with park or other outdoor natural amenity that is accessible for recreational
+use by the occupants of the campground.
+iv. Campsites may be occupied by a tent, travel trailer or recreational vehicle.
+v. Separate sewer, water or electric service hookups shall not be provided to
+individual campsites except that electrical service may be provided to yurts
+allowed for by OAR 660-006-0025(4)(e)(C).
+vi. Campgrounds shall not include intensively developed recreational uses such
+as swimming pools, tennis courts retail stores or gas stations. Overnight
+temporary use in the same campground by a camper or camper’s vehicle
+shall not exceed a total of 30 days during any consecutive 6 month period.
+vii. A private campground may provide yurts for overnight camping.
+
+1. No more than one-third or a maximum of 10 campsites, whichever is
+smaller, may include a yurt.
+2. The yurt shall be located on the ground or no a wood floor with no
+permanent foundation.
+3. As used in this rule, “yurt” means a round, domed shelter of cloth or
+canvas on a collapsible frame with on plumbing, sewage disposal
+hook-up or internal cooking appliance.
+
+viii. If the exterior of a campground abuts a public road then screening shall be
+used.
+ix. Road and parking standards of Chapter VII shall apply.
+
+SECTION 3.3.730 CRITIERIA AND REVIEW STANDARDS FOR CONDITIONAL USE
+PERMITS (BOTH ADMINISTRATIVE AND HEARINGS BODY):
+
+A use may be allowed provided the following requirements are met:
+
+1. Such uses will not force a significant change in accepted farm or forest practices on
+surrounding lands devoted to farm or forest use.
+
+2. Will not significantly increase the cost of accepted farm or forest practices on lands devoted to
+farm or forest use.
+
+3. Siting Standards for Dwellings and Structures in the EFU Zone.  The following siting criteria
+shall apply to all dwellings, including replacement dwellings and structures in the EFU zone.
+Replacement dwellings may be sited in close proximity to the existing developed homesite.
+These criteria are designed to make such uses compatible with forest operations and
+agriculture, to minimize wildfire hazards and risks and to conserve values found on agricultural
+lands. These criteria may include setbacks from adjoining properties, clustering near or among
+existing structures, siting close to existing roads, and siting on that portion of the parcel least
+suited for agricultural uses, and shall be considered together with the requirements in Section
+3.3.740 to identify the building site. Dwellings and structures shall be sited on the parcel so
+that:
+
+a. They have the least impact on nearby or adjoining forest or agricultural lands;
+III-63
+b. The siting ensures that adverse impacts on forest operations and accepted farming practices
+on the tract will be minimized;
+c. The amount of agricultural lands used to site access roads, service corridors, the dwelling
+and structures is minimized; and
+d. The risks associated with wildfires are minimized.
+
+SECTION 3.3.740 DEVELOPMENT AND USE STANDARDS
+
+Development Standards All dwellings and structures approved shall be sited in accordance with
+this section.
+
+1. Minimum Lot Size:  The minimum parcel size shall be at least 80 acres. For land divisions
+where all resulting parcels are at least 80 acres, a conditional use is not required. However, the
+applicable standards in Chapter 6must be met. [OR96-06-007PL 9/4/96]
+
+2. Setbacks
+
+a. Road: All buildings or structures with the exception of fences shall be setback a minimum
+of thirty five (35) feet from any road right-of-way centerline or five (5) feet from any right-
+of-way line, whichever is greater.
+b. Firebreak: New or replacement dwellings on lots, parcels, or tracts abutting the “Forest”
+zone shall establish and maintain a firebreak for a distance of at least 30 in all directions.
+Vegetation within this firebreak may include mowed grasses, low shrubs (less than ground
+floor window height), and trees that are spaced with more than 15 feet between the crowns
+and pruned to remove dead and low (less than 8 feet from the ground) branches.
+Accumulated needles, limbs, and other dead vegetation should be removed from beneath
+trees.
+
+3. Structure Height: No requirements.
+
+4. Lot Coverage: No requirements.
+
+5. Fences, Hedges and Walls: No requirement except for vision clearance provisions of Section
+7.1.525 apply.
+
+6. Off-street parking and Loading: See Chapter VII.
+
+7. Minimum Road Frontage/Lot Width unless waived by the Planning Director in consultation
+with the County Surveyor due to creating an unsafe or irregular configuration:
+
+a. Within UGB’s – 50 feet
+b. Outside UGB’s – 20 feet
+
+8. Access: Access to new dwellings shall meet road design standards in Chapter VII.
+
+9. Minimizing Impacts: in order to minimize the impacts of dwellings in agricultural lands, all
+applicants requesting a nonfarm dwelling shall acknowledge and file in the deed records of
+Coos County, a Farm Practices Management Easement. The Farm Practices Easement shall be
+recorded in the deed records of the county prior to any final county approval for a single family
+dwelling. [OR96-06-007PL 9/4/96]
+III-64
+
+10. Riparian Vegetation Protection within 50 feet of a wetland, stream, lake or river, as identified
+on the Coastal Shoreland and Fish and Wildlife Habitat Inventory maps shall be maintained
+except that:
+
+a. Trees certified as posing an erosion or safety hazard. Property owner is responsible for
+ensuring compliance with all local, state and federal agencies for the removal of the tree.
+b. Riparian vegetation may be removed to provide direct access for a water-dependent use.
+c. Riparian vegetation may be removed in order to allow establishment of authorized
+structural shoreline stabilization measures.
+d. Riparian vegetation may be removed to facilitate stream or streambank clearance projects
+under a port district, ODFW, BLM, Soil & water Conservation District, or USFS stream
+enhancement plan.
+e. Riparian vegetation may be removed in order to site or properly maintain public utilities
+and road right-of-way. or
+f. Riparian vegetation may be removed in conjunction with existing agricultural operations
+(e.g., to site or maintain irrigation pumps, to limit encroaching brush, to allow harvesting
+farm crops customarily grown within riparian corridors, etc.) provided that such vegetation
+removal does not encroach further into the vegetation buffer except as needed to provide an
+access to the water to site or maintain irrigation pumps.
+g. The 50 foot riparian vegetation setback shall not apply in any instance where an existing
+structure was lawfully established and an addition or alteration to said structure is to be
+sited not closer to the wetland, stream, lake or river than the existing structure and said
+addition or alteration represents not more than 100% of the size of the existing structure’s
+“footprint”. (ORD 92-05-009PL)
+h. Riparian removal within the Coastal Shoreland Boundary will require a conditional use.
+See Special Development Considerations Coastal Shoreland Boundary.
+i. The 50’ measurement shall be taken from the ordinary high water mark using a right angle
+from the ordinary high water mark.
+j. Road and driveway standards found in Chapter VII shall apply to new and replacement
+development.
+
+III-65
+DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS
+
+ Whereas, the undersigned                                                ,
+hereinafter referred to as Declarant, is the owner in fee simple of the subject property described in
+Exhibit “A” attached hereto and incorporated by reference herein. and
+
+ Whereas, pursuant to Oregon law a “lot-of-record” dwelling has been authorized for
+property described in Exhibit “A”. and
+
+Whereas, Oregon law requires that when a “lot-of-record is allowed for a lot or parcel that
+is contiguous with one or more other lots or parcels under the same ownership comprising a tract,
+then these contiguous lots and parcels shall be consolidated into a single lot or parcel at the time
+the dwelling is allowed. and
+
+Whereas, Declarant desires to consolidate the subject property described in Exhibit “A” in
+order to effectuate and comply with the requirements of Oregon law and further desires to consent
+to the execution of this document prepared by the Coos County, Oregon, Planning Department.
+
+Now, therefore, Declarant hereby declares that all of the property described in Exhibit
+“A” shall not be sold or conveyed separate and apart from any and all of the property described in
+Exhibit “A” in its entirety.
+
+In witness whereof, the undersigned, being Declarant herein, has heretofore set their hand
+this               day of                         ,            .
+
+State of                )
+County of              )
+
+The foregoing instrument was acknowledged before me this          day ________________,
+
+____________________________. By: ____________________________________________
+        Notary Public for Oregon
+        My commission expires: ________________________
+
+CREMP Aquatic Units - The CREMP zoning districts shall have the same boundaries as the
+Coquille River Estuary Management Plan unit boundaries and shall be so designated.
+III-66
+
+COQUILLE RIVER ESTUARY MANAGEMENT PLAN - CONSERVATION AQUATIC
+UNITS (CREMP-CA)
+
+• Conservation Aquatic Unit 8 (8-CA) shall be managed to conserve and enhance the
+aquatic resources of the main river channel, while allowing such minor alterations as are
+necessary for shallow draft navigation.
+
+• Conservation Aquatic Unit 12 (12-CA) shall be managed to conserve, and enhance the
+natural resources of these intertidal flats for the purposes of estuarine production.
+
+• Conservation Aquatic Units 15 (15-CA) shall be managed to conserve and enhance the
+natural resources of this intertidal area while allowing for the development of recreational
+docking or a small marina, including dredging as necessary.
+
+• Conservation Aquatic Unit 17 (17-CA) shall be managed to conserve and enhance the
+natural resources of this intertidal area while allowing for the continuation of recreational
+and commercial docking facilities and maintenance dredging as necessary.
+
+• Conservation Aquatic Unit 20 (20-CA) shall be managed to conserve and enhance the
+natural resources of this intertidal marsh for the purposes of estuarine production, while
+allowing the continuation of existing grazing use.
+
+• Conservation Aquatic Unit 21 (21-CA) shall be managed to conserve and enhance to
+aquatic resources of the main river channel and fringing intertidal areas, while allowing
+such minor alterations as are necessary for the continuation of recreational boating and
+other shallow draft navigation. Removal of snags, old pilings and other obstructions from
+the river, and bank stabilization shall also be encouraged.
+
+• Conservation Aquatic Unit 22 (22-CA) shall be managed to conserve and enhance the
+natural resources, of these fringing intertidal marshes for the purposes of estuarine
+production.
+
+• Conservation Aquatic Unit 23 (23-CA) shall be managed to conserve and enhance the
+natural resources of Randolph Slough for the purposes of estuarine production.
+
+• Conservation Aquatic Unit 24 (24-CA) managed to conserve and enhance the natural
+resources of this small intertidal marsh for the purposes of estuarine production.
+
+• Conservation Aquatic Unit 25 (25-CA) managed to conserve and enhance the natural
+resources of the tidal portion of Bear Creek for the purposes of estuarine production.
+
+SECTION 3.3.800 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the CREMP-CA as listed below.
+
+1. Aquaculture is permitted in all Conservation Aquatic Units subject to CREMP Policies #17
+and #18 where consistent with the resource capabilities of the area and the purposes of this
+management unit and does not involve:
+III-67
+
+a. Dredge;
+b. Fill;
+c. Other estuarine alteration other than incidental dredging for harvest of benthic
+species;
+d. Removing in-water structures such as stakes or racks (commercial, not
+archaeological stakes or racks) is allowed; or
+e. Where aquaculture requires dredging or fill, or other alteration of the estuary is
+subject to CREMP Policy #4a.
+
+2. Bridge support structures and dredging necessary for their installation are permitted in
+Conservation Aquatic Units 21 and 25 (see conditional uses for Conservation Aquatic
+Units 8, 15 and 17). The use and/or activity is subject to CREMP Polices #6, #17 and #18
+and shall only be where consistent with the resource capabilities of the area and the
+purposes of this management unit. Please note new bridge crossings are not permitted.
+
+3. Utilities – Low intensity utilities:
+
+a. Aquatic Units 15, 17, 22, 23, 24 and 25 allow low intensity utilities as permitted
+and are not subject to any polices or review.
+b. Aquatic Units 8, 12, 20 and 21 permit low intensity utilities subject to CREMP
+Policies #17 and #18 and are only permitted where consistent with the resource
+capabilities of the area and the purposes of the management unit.
+c. High intensity utilities are subject to conditional use review.
+
+4. Vegetative shoreland stabilization is permitted in Conservation Aquatic Shoreland Unit 8
+only where consistent with the resource capabilities of the area and the purposes of this
+management unit.
+
+5. Dikes are permitted in Conservation Aquatic Units 17 only where found consistent with the
+resource capabilities of the area and the purposes of the management unit. Associated new
+dredging only permitted as necessary for boat marinas without jetty or dredged channel.
+Dikes in this aquatic unit are subject to CREMP Polices #17 and #18.
+
+6. Navigational Structures Aids are permitted in Conservation Aquatic Units 12, 15, 17, 20,
+21 and 22.
+
+7. Research and education observation is permitted in all Conservation Aquatic Units.
+
+8. Restoration:
+
+a. Passive Restoration is permitted in all Conservation Aquatic Units except 8.
+b. Active Restoration is permitted in all Conservation Aquatic Units except 8 unless
+the restoration is for mitigation subject to CREMP Polices #17 and #18. All other
+Conservation Aquatic Units permits active restoration where found consistent with
+the resource capabilities of the area and the purposes of the management unit. This
+activity is subject to CREMP Polices #17, #18 and #22b.
+
+III-68
+9. Mitigation is permitted in all Conservation Aquatic Units where found consistent with the
+resource capabilities of the area and the purposes of the management unit. This activity is
+subject to CREMP Polices #17 and #18.
+
+10. New dredging is permitted in Conservation Aquatic Units 8, 15 and 17 where found
+consistent with the resource capabilities of the area and the purposes of the management
+unit and only as necessary for boat marinas without jetty or dredged channel. This activity
+is subject to CREMP Policies #17 and #18.
+
+11. Protection of habitat nutrient, fish, wildlife and aesthetics is permitted in all Conservation
+Aquatic Units.
+
+SECTION 3.3.810 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREMP-CA.
+
+1. Commercial Water-dependent only allowed in Conservation Aquatic Units 15, 17 and 21
+subject to CREMP polices #17 and #18 and the following review criteria:
+
+a. Only permitted where occupying water surface by means other than fill.
+b. Only permitted where consistent with the resource capabilities of the area and the
+purposes of the management unit.
+
+2. Docks and Moorage only allowed in Conservation Aquatic Units 8, 12,15, 17, 21 and 23
+subject to CREMP policies #10, #17 and #18 and the following review criteria:
+
+a. Only permitted where occupying water surface by means other than fill.
+b. Only permitted where consistent with the resource capabilities of the area and the
+purposes of the management unit.
+
+3. Industrial Water-dependent only allowed in Conservation Aquatic Units 15, 17 and 21
+subject to CREMP policies #17 and #18 and the following review criteria:
+
+a. Only permitted where occupying water surface by means other than fill.
+b. Only permitted where consistent with the resource capabilities of the area and the
+purposes of the management unit.
+
+4. Bridge Crossing are subject are allowed in Conservation Aquatic Units 8, 17, 21, 23 and
+25. The use is subject to CREMP Polices #6, #17 and #18 and shall only be where
+consistent with the resource capabilities of the area and the purposes of the management
+unit.
+
+5. Bridge support structures and dredging necessary for their installation is permitted subject
+to conditional use approval only in Conservation Aquatic Units 8 and 15 (see permitted
+uses for units 21, 23 and 25). The use and/or activity is subject to CREMP Polices #6, #17
+and #18 and shall only be where consistent with the resource capabilities of the area and
+the purposes of the management unit.
+
+III-69
+6. In-water log dump, storage and sorting are allowed in Conservation Aquatic Units 8, 17
+and 21 only where consistent with the resource capabilities of the area and the purposes of
+the management unit.
+
+7. Marinas are allowed in Conservation Aquatic Units 8, 12, 15, 17 and 21subject to CREMP
+Polices #17 and #18 and the following review criteria:
+
+a. Where consistent with the resource capabilities of the area and the purposes of the
+management unit; and
+b. Marinas only permitted without jetties or dredged channels.
+
+8. Mining, mineral extraction, including dredging necessary for mineral extraction allowed in
+Conservation Aquatic Units 21subject to CREMP Polices #17 and #18. These uses are only
+allowed upon finding it is consistent with the resource capabilities of the area and the
+purposes of the management unit.
+
+9. Recreation:
+
+a. High intensity recreation is only allowed in Conservation Aquatic Units 8, 12, 15,
+17, 21 and 23 subject to CREMP Polices #17 and #18 and the following criteria:
+
+i. Where consistent with the resource capabilities of the area and the purposes
+of the management unit; and
+ii. Provided recreation is water-dependent.
+
+b. Low intensity recreation is only allowed in Conservation Aquatic Units 8, 15, 17,
+21 and 23 subject to CREMP Polices #17 and #18 and the following criteria:
+
+i. Where consistent with the resource capabilities of the area and the purposes
+of the management unit; and
+ii. Provided recreation is water-dependent.
+
+10. Utilities.  High intensity utilities are allowed in all Conservation Aquatic Units subject to
+CREMP Polices 17 and 18. The use must be found consistent with the resource capabilities
+of the area and the purposes of the management unit.
+
+11. Shoreline Stabilization:
+
+a. Riprap is allowed in Conservation Aquatic Units 8, 12, 15, 17, 21, 22, 23 and 25
+subject to CREMP Policies #9, #17 and #18. This activity must be found consistent
+with the resource capabilities of the area and the purposes of the management unit.
+b. Vegetative shoreline stabilization is allowed in Conservation Aquatic Units 12, 15,
+17, 21, 22, 23, 24 and 25 subject to CREMP Policies #9, #17 and #18. This activity
+must be found consistent with the resource capabilities of the area and the purposes
+of the management unit. (Conservation Aquatic Units 8 permits this outright)
+c. Bulkheads are allowed in Conservation Aquatic Units 15, 17, 21, 22, 23 and 25
+when found consistent with the resource capabilities of the area and the purposes of
+the management unit and subject to CREMP Polices #9, #17 and #18.
+
+12. Dikes:
+III-70
+
+a. New
+
+i. Conditional permitted in Conservation Aquatic Units 8 and 12 where found
+consistent with the resource capabilities of the area and the purposes of the
+management unit. Associated new dredging only permitted as necessary for
+boat marinas without jetty or dredged channel. This activity is subject to
+CREMP Polices #5, #6, #8, #17, #18 and #20.
+ii. Conditional permitted in Conservation Aquatic Units 21 where found
+consistent with the resource capabilities of the area and the purposes of the
+management unit. This activity is subject to CREMP Polices #5, #6, #8, #17,
+#18 and #20.
+
+b. Repairs and maintenance are conditionally permitted in Conservation Aquatic Units
+8, 12, 21 and 23 where found consistent with the resource capabilities of the area
+and the purposes of the management unit. This activity is subject to CREMP
+Polices #5, #6, #8, #17, #18 and #20.
+c. Installation of tide gates in existing functional dikes are conditional permitted in
+Conservation Aquatic Units 8, 12, 17, 21 and 23 where found consistent with the
+resource capabilities of the area and the purposes of the management unit. This
+activity is subject to CREMP Polices #5, #6, #8, #17, #18 and #20.
+
+13. Navigational Structures:
+
+a. Aids are conditional permitted in Conservation Aquatic Unit 8 only where found
+consistent with the resource capabilities of the area and the purposes of the
+management unit.
+b. Minor Navigation Improvements are conditional permitted in Conservation Aquatic
+Units 8, 15, 17 and 21 only where found consistent with the resource capabilities of
+the area and the purposes of the management unit. This activity is subject to
+CREMP Polices #5, #6, #8, #17, #18 and #20.
+
+14. Pilings/dolphins are conditionally permitted in Conservation Aquatic Units 8, 15, 17, 21
+and 23 where found consistent with the resource capabilities of the area and the purposes of
+the management unit. Pilings/dolphins shall be allowed if necessary to support recreational
+uses. This activity is subject to CREMP Policies #17 and #18.
+
+15. Dredging:
+
+a. New dredging is conditional permitted in Conservation Aquatic Unit 21 where
+found consistent with the resource capabilities of the area and the purposes of the
+management unit and only as necessary for boat marinas without jetty or dredged
+channel. This activity is subject to CREMP Policies #5, #8, #17 and #20.
+b. Maintenance dredging of existing functional tide gates and associated drainage
+channels is conditionally permitted in all Conservation Aquatic Units except
+management unit 20. This activity is can only be conditionally permitted where
+consistent with the resource capabilities of the area and the purposes of this
+management unit subject to CREMP Policies #17 and #18.
+c. To repair dikes and tide gates is conditionally permitted in all Conservation Aquatic
+Units except management unit 20.  This activity is can only be conditionally
+III-71
+permitted where consistent with the resource capabilities of the area and the
+purposes of this management unit and subject to CREMP Policies #5, #8, #17, #18
+and #20.
+
+16. Fill including for the purposes of new dikes is conditionally permitted in Conservation
+Aquatic Units 8, 12, 15, 17 and 21. This activity is can only be conditionally permitted
+where consistent with the resource capabilities of the area and the purposes of this
+management unit and subject to CREMP Policies #5, #6, #8, #17, #18 and #20.
+
+17. Temporary alterations are conditionally permitted in Conservation Aquatic Unit 8 only
+where consistent with the resource capabilities of the area and the purposes of this
+management unit and subject to CREMP Policies #5a, #17 and #18.
+
+18. Waste water/storm water discharge is conditionally permitted in Conservation Aquatic
+Units 8 and 17. This activity is can only be conditionally permitted:
+
+a. Where consistent with the resource capabilities of the area and the purposes of this
+management unit;
+b. Storm water/waste water outfalls only permitted subject to DEQ/EPA approval;
+c. Meets the Coos County Zoning and Land Development Ordinance definition
+description of “facility”; and
+d. Must meet CREMP Policies #17, #18 and #25.
+
+19. Research and educational observation structures are conditionally permitted in
+Conservation Aquatic Unit 8 and 12 only where consistent with the resource capabilities of
+the area and the purposes of this management unit. This activity is subject to CREMP
+Policies #5d, #17 and #18.
+
+COQUILLE RIVER ESTUARY MANAGEMENT PLAN - NATURAL AQUATIC UNIT
+(CREMP-NA)
+
+• Aquatic Unit 10 (10-NA) shall be managed to protect and enhance the natural resources of
+the Bandon Marsh as a wildlife refuge.
+
+• Aquatic Units 11 (11-NA), 13 (13-NA) and 16 (16-NA) shall be managed to protect and
+enhance the natural resources of these intertidal marshes for the purposes of estuarine
+production.
+
+SECTION 3.3.900 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the CREMP-NA as listed below.
+
+1. Research and Educational Observation are permitted in all Natural Aquatic Units.
+2. Passive restoration is permitted in all Natural Aquatic Units.
+3. Mitigation only is permitted in Natural Aquatic Unit 10 where consistent with the resource
+capabilities of the area and the purposes of this management unit. Subject to CREMP
+Policies #17 and #18.
+4. Protection of habitat, nutrient, fish, wildlife and aesthetics is permitted in all Natural
+Aquatic Units.
+
+III-72
+SECTION 3.3.910 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREMP-NA.
+
+1. Aquaculture is conditionally permitted in all Natural Aquatic Units subject to CREMP
+Policies #17 and #18 where consistent with the resource capabilities of the area and the
+purposes of this management unit and does not involve:
+
+a. Dredge;
+b. Fill;
+c. Other estuarine alteration other than incidental dredging for harvest of benthic
+species;
+d. Removing in-water structures such as stakes or racks (commercial, not
+archaeological stakes or racks) is allowed; or
+e. Where aquaculture requires dredging or fill, or other alteration of the estuary is
+subject to CREMP Policy #4a.
+
+2. Shoreline Stabilization:
+
+a. Riprap for shoreline stabilization is conditionally permitted in management unit 16
+only where consistent with the resource capabilities of the area and the purposes of
+this management unit. This use is subject to CREMP Polices #9, #17 and #18.
+b. Vegetative shoreline stabilization is conditionally permitted in all Natural Aquatic
+Units where consistent with the resource capabilities of the area and the purposes of
+this management unit. This activity is subject to CREMP Policies #9, #17 and #18.
+c. Bulkheads for shoreline stabilization conditionally permitted in management unit 16
+only where consistent with the resource capabilities of the area and the purposes of
+this management unit. This use is subject to CREMP Polices #9, #17 and #18.
+
+3. Dikes, fill, repair and maintenance related to dikes are not permitted in Natural Aquatic
+Unit 16 except when a reconfigured or repaired dike is part of a restoration project. Active
+restoration projects that include reconfigured or repaired dikes will be permitted if related
+to protection of upland uses and activities.
+
+4. Navigational structures are conditionally permitted in management unit 13 only where
+consistent with the resource capabilities of the area and the purposes of this management
+unit. This use is subject to CREMP Polices #17 and #18.
+
+5. Active Restoration is conditionally permitted in all Natural Aquatic Units where consistent
+with the resource capabilities of the area and the purposes of this management unit. This
+use is subject to CREMP Polices #17, #18 and # 22B.
+
+6. Fill (including New Dikes) are not permitted in Natural Aquatic Unit 16 except when a
+reconfigured or repaired dike is part of a restoration project. Active restoration projects that
+include reconfigured or repaired dikes will be permitted if related to protection of upland
+uses and activities.
+
+COQUILLE RIVER ESTUARY MANAGEMENT PLAN - DEVELOPMENT AQUATIC
+UNIT (CREMP-DA)
+III-73
+
+• Aquatic Unit 14 (14-DA) shall be managed for dredging and bulk heading as necessary to
+develop a dock for bulk material shipping.
+
+• Aquatic Unit 18 (18-DA) shall be managed for the development of docking, boat building
+and repair and similar water dependent uses, including dredging and fill as necessary.
+
+• Aquatic Unit 19 (19-DA) shall be managed for the dredging and fill as necessary to
+develop a major recreational marina with ancillary services and facilities.
+
+SECTION 3.3.1000 DEVELOPMENT AND USE PERMITTED:
+
+The following uses and activities are permitted outright in the CREMP-DA as listed below:
+
+1. Water-Dependent commercial:
+
+a. In Development Aquatic Unit 14 this use is only permitted where consistent with
+the resource capabilities of the area and the purposes of this management unit.
+b. In Development Aquatic Unit 18 this use is only permitted where occupying water
+surface by means other than fill and where consistent with the resource capabilities
+of the area and the purposes of this management unit.
+c. In Development Aquatic Unit 19 this uses is permitted outright.
+
+2. Water-Dependent industrial is permitted in Development Aquatic Units 14 and 18.
+
+3. Bridge crossing support structures and dredging necessary for their installation in
+Development Aquatic Unit 18 this use is only permitted where consistent with the resource
+capabilities of the area and the purposes of this management unit. This use is subject to
+CREMP Policies #6, #17, and #18.
+
+4. In-Water Log-Dump/Storage/Sorting is permitted in Development Aquatic Units 14 and
+18.
+
+5. Marinas are permitted in Development Aquatic Units 18 and 19.
+
+6. Low-Intensity utilities are permitted in Development Aquatic Units 14 and 18. (see
+conditional uses for Development Aquatic Unit 19).
+
+7. Restoration is permitted:
+
+a. As passive in all Development Aquatic Units.
+b. As activity restoration of fish and wildlife habitat or water quality and estuarine
+enhancement with the resource capabilities of the area and the purposes of this
+management unit. This use is subject to CREMP Policies #17, #18 and #22b.
+
+8. Mitigation only is permitted in all Development Aquatic Units where consistent with the
+resource capabilities of the area and the purposes of this management unit. This use is
+subject to CREMP Policies #17, and #18.
+
+9. Research and Educational Observation is permitted in all Development Aquatic Units.
+III-74
+
+10. Protection of habitat, nutrient, fish, wildlife and aesthetics is permitted in all Development
+Aquatic Units.
+
+11. Temporary alterations are permitted in Development Aquatic Unit 14 where consistent with
+the resource capabilities of the area and the purposes of this management unit. This activity
+is subject to CREMP Policies #17, and #18.
+
+SECTION 3.3.1000 ADMINISTRATIVE CONDITIONAL DEVELOPMENT AND USE:
+
+The following uses and activities are permitted under an administrative conditional use permit
+CREMP-DA.
+
+1. Aquaculture is conditionally permitted in all Development Aquatic Units subject to
+CREMP Policies #17 and #18 where consistent with the resource capabilities of the area
+and the purposes of this management unit and is allowed whether dredging or fill or other
+alteration of the estuary is required for harvest of benthic species or removable in-water
+structures such as stakes or racks (commercial, not archaeological stakes or racks) is
+subject to CREMP Policy #4a.
+
+2. Water-Related commercial is conditionally permitted in all Development Aquatic Units
+where consistent with the resource capabilities of the area and the purposes of this
+management unit. Fill not permitted for non-water-dependent uses. This use is subject to
+CREMP Policies #17 and #18.
+
+3. Non-Water Dependent/Water Related is conditional permitted in Development Aquatic
+Unit 19 where consistent with the resource capabilities of the area and the purposes of this
+management unit. Fill is not permitted for non-water-dependent uses. This use is subject to
+CREMP Policies #17 and #18.
+
+4. Docks and Moorage are conditionally permitted in all Development Aquatic Units subject
+to CREMP Policies #17 and #18 where consistent with the resource capabilities of the area
+and the purposes of this management unit.
+
+5. Water-Related Industrial is conditionally permitted in Development Aquatic Units 14 and
+18 where consistent with the resource capabilities of the area and the purposes of this
+management unit. Fill is not permitted for non-water-dependent uses. This use is subject to
+CREMP Policies #17 and #18.
+
+6. Bridge Crossings are conditionally permitted in the Development Aquatic Unit 18 where
+consistent with the resource capabilities of the area and the purposes of this management
+unit. This use is subject to CREMP Policies #36, #17, and #18.
+
+7. Recreation both high and low intensity are conditionally permitted in all Development
+Aquatic Units, provided recreation is water-dependent, and where consistent with the
+resource capabilities of the area and the purposes of this management unit. This use is
+subject to CREMP Policies #17, and #18.
+
+8. Utilities:
+
+III-75
+a. Low-Intensity utilities are conditionally permitted in Development Aquatic Unit 19
+where consistent with the resource capabilities of the area and the purposes of this
+management unit. This use is subject to CREMP Policies #17, and #18.
+b. High-Intensity utilities are conditionally permitted in all Development Aquatic
+Units where consistent with the resource capabilities of the area and the purposes of
+this management unit. This use is subject to CREMP Policies #17, and #18.
+
+9. Shoreline Stabilization:
+
+a. Riprap is conditionally permitted in all Development Aquatic Units where
+consistent with the resource capabilities of the area and the purposes of this
+management unit. This activity is subject to CREMP Policies #9, #17, and #18.
+b. Vegetative shoreline stabilization is conditionally permitted in all Development
+Aquatic Units where consistent with the resource capabilities of the area and the
+purposes of this management unit. This activity is subject to CREMP Policies #9,
+#17, and #18.
+c. Bulkheads are conditionally permitted:
+
+i. In Development Aquatic Units 14 and 19 where consistent with the resource
+capabilities of the area and the purposes of this management unit. This
+activity is subject to CREMP Policies #9, #17, and #18.
+ii. In Development Aquatic Unit 18 where consistent with the resource
+capabilities of the area and the purposes of this management unit. This
+activity is subject to CREMP Policies #39, #17, and #18.
+
+10. New Dikes are conditionally permitted:
+
+a. In Development Aquatic Unit 14 where consistent with the resource capabilities of
+the area and the purposes of this management unit. New dredging only permitted as
+necessary for boat marinas without jetty or dredged channel. This activity is subject
+to CREMP Policies #5, #6, #8, #17, #18 and #20.
+b. In Development Aquatic Unit 18 and 19 where consistent with the resource
+capabilities of the area and the purposes of this management unit. This activity is
+subject to CREMP Policies #5, #6, #8, #17, #18 and #20.
+
+11. Dredging is conditionally permitted:
+
+a.  New dredging only permitted as necessary for boat marinas without jetty or
+dredged channel in all Development Aquatic Units where consistent with the
+resource capabilities of the area and the purposes of this management unit. This
+activity is subject to CREMP Policies #5, #8, #17, #18 and #20.
+b. Only maintenance dredging of tide gates is permitted in all Development Aquatic
+Units where consistent with the resource capabilities of the area and the purposes of
+this management unit. This activity is subject to CREMP Policies #17, and #18.
+c. To repair dikes and tide gates in all Development Aquatic Units where consistent
+with the resource capabilities of the area and the purposes of this management unit.
+This activity is subject to CREMP Policies #5, #8, #17, #18 and #20.
+
+12. Navigational Structures and Minor Navigation Improvements are conditionally permitted in
+all Development Aquatic Units where consistent with the resource capabilities of the area
+III-76
+and the purposes of this management unit. This activity is subject to CREMP Policies #5,
+#8, #17, #18 and #20.
+
+13. Water-dependent commercial enterprises and activities are conditionally permitted in all
+Development Aquatic Units where consistent with the resource capabilities of the area and
+the purposes of this management unit. This activity is subject to CREMP Policies #5, #8,
+#17, #18 and #20.
+
+14. Pilings/dolphins shall be allowed if necessary to support recreational in all Development
+Aquatic Units where consistent with the resource capabilities of the area and the purposes
+of this management unit. This activity is subject to CREMP Policies #17 and #18.
+
+15. Dredge material disposal (in-water) is only conditionally permitted in Development
+Aquatic Unit 18 where consistent with the resource capabilities of the area and the
+purposes of this management unit. This activity is subject to CREMP Policies #5, #8, #17,
+#18, and #20.
+
+16. Fill (including New Dikes) is conditionally permitted in all Development Aquatic Unit
+where consistent with the resource capabilities of the area and the purposes of this
+management unit. This activity is subject to CREMP Policies #5, #8, #17, #18, and #20.
+
+17. Temporary alterations are conditionally permitted in Development Aquatic Unit 19 where
+consistent with the resource capabilities of the area and the purposes of this management
+unit. This activity is subject to CREMP Policies #5a, #17, and #18.
+
+18. Waste water/storm water discharge is conditionally permitted in Development Aquatic
+Units 14 and 19. This activity is can only be conditionally permitted:
+
+a. Where consistent with the resource capabilities of the area and the purposes of this
+management unit;
+b. Storm water/waste water outfalls only permitted subject to DEQ/EPA approval;
+c. Meets the Coos County Zoning and Land Development Ordinance definition
+description of “facility”; and
+d. Must meet CREMP Policies #17, #18 and #25.
+
+19. Research and educational observation structure is conditionally permitted in Development
+Aquatic Units 14 and 19 where consistent with the resource capabilities of the area and the
+purposes of this management unit. This activity is subject to CREMP Policies #17 and #18.
+
+III-77
+VOLUME III (COQUILLE RIVER ESTUARY)
+POLICIES
+
+• Policy #1: Estuary Classification ........................................................................................................................... 80
+• Policy #2: General Schedule Of Permitted Uses And General Use Priorities  ....................................................... 80
+• Policy #3: Use Of "Coquille River Estuary Special Considerations Map" As The Basis For Special Policies
+Implementation ........................................................................................................................................................... 84
+• Policy #4: Resource Capability Consistency And Impact Assessment ................................................................. 86
+• Policy #4a: Deferral Of (I) Resource Capability Consistency Findings And (Ii) Resource Impact Assessments  .... 87
+• Policy #5: Estuarine Fill And Removal .................................................................................................................. 89
+• Policy #5a: Temporary Alterations ...................................................................................................................... 90
+• Policy #5b: Dredging To Repair Existing Functional Dikes & Tidegates  ............................................................... 91
+• Policy #5c: New And Expanded Log Storage ........................................................................................................ 91
+• Policy #5d: Research And Educational Observations .......................................................................................... 92
+• Policy #6: Fill In Conservation And Natural Management Units .......................................................................... 92
+• Policy #7: Maintenance Dredging Of Authorized Channel .................................................................................. 93
+• Policy #8: Estuarine Mitigation Requirements (See Also Policies #21, #22 And #22a)  ....................................... 93
+• Policy #9: Solutions To Erosion And Flooding Problems ...................................................................................... 94
+• Policy #10: Proliferation Of Single-Purpose Docks And Piers .............................................................................. 95
+• Policy #11: Authority Of Other Agencies ............................................................................................................. 95
+• Policy #12: Removal Of Old Pilings And Snags ..................................................................................................... 96
+• Policy #12a: (Reserved) ....................................................................................................................................... 96
+• Policy #12b: (Reserved) ....................................................................................................................................... 96
+• Policy #12c: Future Studies.................................................................................................................................. 96
+• Policy #12d: (Reserved) ....................................................................................................................................... 96
+• Policy #13: Overall Use Priorities Within Coastal Shorelands ............................................................................. 96
+• Policy #14: General Policy On Uses Within Rural Coastal Shorelands ................................................................. 97
+• Policy #15: Land Divisions Within Rural Shorelands ............................................................................................ 98
+• Policy #16: Protection Of Sites Suitable To Water-Dependent Uses; And Special Allowance For New Non-Water-
+Dependent Uses In "Urban Water-Dependent (Uw) Units Which Are Suitable For Water-Dependent Uses" (Wd) .. 98
+• Policy #16a: Rural, Urban, And Unincorporated Communities Use Standards  ................................................. 100
+• Policy #16b: Potential Sites Suitable For Water-Dependent Uses..................................................................... 100
+• Policy #16c: Protection Of Sites Suited To Water-Dependent Uses In Future Urbanizable Areas .................... 101
+• Policy #17: Protection Of “Major Marshes" And Significant "Wildlife Habitats" In Coastal Shorelands  ........... 101
+• Policy #18: Protection Of "Historical, Cultural And Archaeological Sites"  ......................................................... 102
+• Policy #19: Management Of "Wet-Meadow" Wetlands Within Coastal Shorelands ........................................ 103
+• Policy #20: Dredged Material Disposal Sites ..................................................................................................... 104
+• Policy #20a: Dredged Material Disposal Guidelines .......................................................................................... 105
+III-78
+• Policy #20b: Intertidal Dredged Material Disposal ............................................................................................ 105
+• Policy #20c: Dmd Planning Period ..................................................................................................................... 106
+• Policy #21: Mitigation And Restoration Sites .................................................................................................... 106
+• Policy #22: Mitigation Sites: Protection Against Pre-Emptory Uses .................................................................. 106
+• Policy #22a: Acquisition Or Protection Of Mitigation/Restoration And Dredged Material Disposal Sites  ........ 107
+• Policy 22b: Limiting Dredge And Fill As Estuarine Restoration  .......................................................................... 108
+• Policy #23: Riparian Vegetation And Streambank Protection ........................................................................... 108
+• Policy #24: Special Forest Practice Regulations In Coastal Shorelands  ............................................................. 109
+• Policy #25: Waste Water/Storm Water Discharge ............................................................................................ 109
+• Policy #26: Agricultural Drainage Facilities ........................................................................................................ 109
+• Policy #27: Floodplain Protection Within Coastal Shorelands ........................................................................... 110
+• Policy #27a: Mass Movement ............................................................................................................................ 110
+• Policy #28: Recognition Of Statewide Planning Goal #3 (Agricultural Lands) Requirements For Rural Lands Within
+The Coastal Shorelands Boundary ............................................................................................................................. 110
+• Policy #28a: (Reserved) ..................................................................................................................................... 110
+• Policy #29: Restricting Actions In Beach And Dune Areas That Are "Unsuitable For Development"  ................ 110
+• Policy #30: Restricting Actions In Beach And Dune Areas With "Limited Development Suitability"; And Special
+Consideration For Sensitive Beach And Dune Resources .......................................................................................... 112
+• Policy #31: (Reserved) ....................................................................................................................................... 114
+• Policy #32: Boat Ramps ..................................................................................................................................... 114
+• Policy #33: Water-Based Recreation ................................................................................................................. 114
+• Policy #33a:  Bandon Waterfront Project And Waterfront Communities ......................................................... 114
+• Policy #33b: (Reserved) ..................................................................................................................................... 114
+• Policy #34: Recognition Of Statewide Planning Goal #4 (Forest Lands) Requirements For Forest Lands Within The
+Coastal Shorelands Boundary .................................................................................................................................... 114
+• Policy #35: Plan Implementation ....................................................................................................................... 115
+• Policy #36:  Plan Update .................................................................................................................................... 115
+• Policy #37:  County Plan Revisions And Amendments (Does Not Apply To Provisions Affecting City Management
+Units): Public Hearing Procedure .............................................................................................................................. 116
+• Policy #38:  Grandfathering Of Existing Nonconforming Uses And Structures  ................................................. 116
+• Policy #39:  Citizen Involvement ........................................................................................................................ 116
+• Policy #40:  Conflict Resolution ......................................................................................................................... 116
+• Policy #41:  Maintenance Of Inventories And Factual Base .............................................................................. 117
+• Policy #42: Special Allowance For Accessory Housing ....................................................................................... 117
+• Policy #43:  Interpretation Of Coastal Shorelands Boundary ............................................................................ 118
+• Policy #44:  Planned Unit Development Or Density Transfer Development On Parcels Which Are Partially Within
+The Coastal Shorelands Boundary ............................................................................................................................. 118
+• Policy #45:  (Reserved) ...................................................................................................................................... 119
+• Policy #46:  (Reserved) ...................................................................................................................................... 119
+III-79
+• Policy #47:  Goal #5 Sites ................................................................................................................................... 119
+
+III-80
+• Policy #1: Estuary Classification
+
+Local governments shall officially recognize the Coquille River Estuary as a "Shallow Draft
+Development Estuary", consistent with the overall Oregon Estuary Classification
+(OAR 660-17-010(3), as amended). Further, the estuary management plan's allowed uses and
+activities are, and must remain, consistent with the "shallow-draft development" designation
+and the estuarine management unit requirements of Goal #16.
+
+This strategy recognizes that Statewide Planning Goals and Oregon Administrative Rules limit the
+maximum allowable development of Oregon estuaries.
+
+• Policy #2: General Schedule of Permitted Uses and General Use Priorities
+
+Local governments shall restrict estuarine development or alteration so as to be equal to, or
+less intensive than uses and activities that are allowed, or may be allowed, pursuant to
+Statewide Planning Goal #16 and the Oregon Administrative Rule classifying Oregon estuaries
+(OAR 600-17-000 as amended June, 1981).
+
+I. Local government's determination regarding estuarine management unit designation as well
+as respective uses and activities permitted reflect priorities for estuarine uses and activities
+necessary to:
+
+a. Ensure compatibility with the requirements of Statewide Planning Goal #16 and the
+Administrative Rule classifying Oregon estuaries (OAR 600-17-000 as amended
+June, 1981).
+
+b. Maintain the integrity of the estuarine ecosystem. This policy shall be implemented
+by limiting uses and activities within natural, conservation and development
+estuarine management units so that such uses and activities are not more intensive
+than those following:
+
+MANAGEMENT UNIT: NATURAL
+
+A. Uses and activities listed below may be allowed in management units (Statewide
+Planning Goal #16) without special assessment of the resource capabilities of the
+area, but subject to special conditions and other policies set forth elsewhere in this
+Plan. Note: existing man-made features may be retained, maintained and protected
+if existing on October 7, 1977.
+
+1. Undeveloped low-intensity, water-dependent recreation
+
+2. Research and educational observations
+
+3. Navigational aids (such as beacons and buoys)
+
+4. Protection of habitat, nutrient, fish, wildlife and aesthetic
+
+5. Passive restoration measures
+
+6. Bridge crossings
+III-81
+
+7. Historical, archaeological and cultural resources
+
+8. Research and educational observation structures
+
+9. Dredging necessary for on-site maintenance of existing functional tidegates
+and associated drainage channels
+
+B. Uses and activities listed below may be allowed in Natural Management Units
+when it is established that such are "consistent with the resource capabilities of the
+area and purposes of management units" (pursuant to "linkage" findings in this
+Plan) but also subject to special conditions and other policies set forth elsewhere in
+this Plan
+
+1. Aquaculture which does not involve dredge or fill or other estuarine
+alteration other than incidental dredging for harvest of benthic species or
+removable in-water structures such as stakes or racks(commercial, not
+archaeological stakes or racks) - is subject to Policy #4a.
+
+2. Communication facilities
+
+3. Active restoration of fish and wildlife habitat or water quality and estuarine
+enhancement
+
+4. Riprap (see Policy #9)
+
+5. Placement of low-water bridges (see Policy #6)
+
+6. Boat ramps for public use where no dredging or fill for navigational access
+is needed
+
+7. Installation of tidegates in existing functional dikes
+
+8. Temporary alterations
+
+9. Pipelines, cables and utility crossings, including incidental dredging
+necessary for their installation
+
+10. Bridge crossing support structures and dredging necessary for their
+installation
+
+MANAGEMENT UNIT:  CONSERVATION
+
+A.) Uses and activities listed below may be allowed in Conservation Management Units
+(Statewide Planning Goal #16) without special assessment of the resource
+capabilities of the area, but subject to special conditions and other policies set forth
+elsewhere in this Plan.
+
+1. All uses permitted outright in Natural Management Units, except for
+"temporary alterations"
+III-82
+
+B) Uses and activities listed below may be allowed in Conservation Management Units
+when it is established that such are "consistent with the resource capabilities of the
+area and purposes of management units" (pursuant to "linkage" findings in this
+Plan) but also subject to special conditions and other policies set forth elsewhere in
+this Plan
+
+1. High-intensity, water-dependent recreation including boat ramps, marinas
+and new dredging for boat ramps and marinas.
+
+2. Minor navigational improvements
+
+3. Mining and mineral extraction, including dredging necessary for mineral
+extraction
+
+4. Water-dependent uses requiring occupation of the water surface by means
+other than fill
+
+5. Waste water/storm water discharge meeting state and federal water quality
+standards
+
+6. Temporary alterations
+
+7. Aquaculture requiring dredge or fill or other alteration of the estuary
+
+8. Active restoration for purposes other than those listed in A-1 above
+
+MANAGEMENT UNIT:  DEVELOPMENT
+
+A. Uses and activities listed below may be allowed in Development Management Units
+without special assessment of the resource capabilities of the area, but subject to
+special conditions and other policies set forth elsewhere in this Plan.
+
+1. Navigation and water-dependent commercial enterprises and activities
+
+2. Water-dependent commercial and industrial uses consistent with a shallow-
+draft estuary, as defined herein.
+
+3. Water transport channels where dredging may be necessary
+
+4. Dredge or fill as allowed elsewhere in Goal #16 (see Policies #5 and #7)
+
+5. Navigational structures other than those permitted in Natural and
+Conservation Management Units
+
+6. Marinas
+
+7. Water storage areas where needed for products used in, or resulting from
+industries, commerce, and recreation
+
+III-83
+8. Flow-lane disposal of dredge material monitored to assure that estuarine
+sedimentation is consistent with the resource capabilities and purposes of
+affected Natural and Conservation Management Units.
+
+9. Energy production where quantities of water are necessary to produce
+energy directly.
+
+10. Water-borne transportation which requires water access for transportation,
+shipment of goods, or is necessary to support water-borne transportation (ie.,
+moorage fueling, servicing of watercraft, ships, boats, and terminal and
+transfer facilities).
+
+B. Uses and activities listed below may be allowed in Development Management Units
+when it is established that such are "consistent with the purposes of management
+unit and adjacent shorelands designated suitable for water-dependent uses or
+designated for waterfront redevelopment (pursuant to "Linkage" and "Goal
+Exception" findings to the Plan) but also subject to special conditions and other
+policies set forth elsewhere in this Plan.
+
+1. Water-related and non-dependent, non-related uses not requiring dredge or
+fill
+
+2. Mining and mineral extraction
+
+3. All uses/activities allowed in natural and conservation management units
+
+4. Undeveloped low-intensity, water-dependent recreation
+
+This policy is based on the recognition that the "Use and Activity Matrices" set forth as policy
+elsewhere in the Plan conform with and shall be maintained in compliance with the "priority of
+uses" and other "use" requirements of Goal #16. Unless otherwise noted in respective "Use and
+Activity Matrices", the "resource capability assessments" called for in Goal #16 have been
+conducted, and uses subject to these findings are thus allowed by this Plan, subject only to Policies
+and Special Conditions set forth herein.
+
+This policy recognizes that the Plan's estuarine management unit designations and permitted uses
+and activities are based upon and establish general priorities for the use of estuarine resources.
+
+II. These general use priorities (from highest to lowest) are:
+
+ a. Uses which maintain the integrity of the estuarine ecosystem;
+
+b. Water-dependent uses requiring estuarine location, as consistent with the overall
+Oregon Estuarine Classification;
+
+c. Water-related uses which do not degrade or reduce the natural estuarine resources
+and values; and
+
+d. Non-dependent, non-related uses, which do not alter, reduce or degrade estuarine
+resources and values.
+III-84
+
+• Policy #3: Use of "Coquille River Estuary Special Considerations Map" as the
+Basis for Special Policies Implementation
+
+Local governments shall use the "Coquille River Estuary Special Considerations Map" as the basis
+for implementing the special protection.
+
+I. The "Coquille River Estuary Special Considerations Map" shall delineate the general
+boundaries (plan inventory maps contain more precise boundary locations) of the following
+specific areas covered by the Coquille River Estuary Management Plan:
+
+ a. Coquille River Estuary Coastal Shorelands Boundary
+
+ b. Sensitive Beach and Dune Areas
+
+  1. areas unsuitable for development
+
+  2. areas with limited development suitability
+
+ c. Floodplain Hazard Areas
+
+d. Agricultural Lands Designated for Exclusive Farm Use, and "Wet-Meadow"
+Wetlands
+
+ e. Coastal Historical and Archaeological Sites
+
+ f. Urban Growth Boundaries (UGB's)
+
+ g. Dredged Material Disposal and Mitigation/Restoration Sites
+
+ h. Significant Wildlife Habitat and Major Marshes
+
+ i. Forest Lands
+
+The Special Considerations Map is NOT a substitute for the detailed spatial information presented
+on the CREMP's inventory maps. The Special Considerations Map is merely an index guide
+designed as a zoning counter implementation tool that indicates when special policy considerations
+apply in a general area, thereby requiring inspection of the detailed plan inventory maps. The
+Special Considerations Map must and shall at all times accurately reflect the detail presented on
+the inventory maps (but at a more general scale).
+
+II. Specific plan provisions set forth elsewhere as policy and relating to the above-listed
+considerations shall be used in conjunction with the Coquille River Estuary Special
+Considerations Map; such plan provisions include allowed uses and activities in each
+management unit, and the following specific "functional" policies set forth below:
+
+ #13 Overall Use Priorities within Coastal Shorelands
+
+ #14 General Policy on Uses within Rural Coastal Shorelands
+
+III-85
+ #15 Land Divisions within Rural Shorelands
+
+#16 Protection of Sites Suited to Water-Dependent Uses; and Special Allowance for
+New Non-Water-Dependent Uses is "Urban Water-Dependent (UW)" Units which
+are "Suitable for Water-Dependent Uses"; and Potential Sites Suited to Water-
+Dependent Uses; and Protection of Sites Suited to Water-Dependent Uses in Future
+Urbanizable Areas
+
+#16a Rural, Urban, and Unincorporated Communities Use Standards
+
+#16b Potential Sites Suitable for Water-Dependent Uses
+
+#16c Protection of Sites Suited to Water-Dependent Uses in Future Urbanizable Areas
+
+#17 Protection of "Major Marshes" and "Significant Wildlife Habitats" in Coastal
+Shorelands
+
+#18 Protection of Historical, Cultural and Archaeological Sites
+
+ #19 Management of "Wet-Meadow" Wetlands within Coastal Shorelands
+
+ #20 Dredged Material Disposal Sites
+
+ #21 Mitigation and Restoration Sites
+
+ #22 Mitigation Sites: Protection against Pre-emptory Uses
+
+#22a Acquisition and Protection of Mitigation/Restoration and Dredged Material
+Disposal Sites
+
+ #23 Riparian Vegetation/Streambank Protection
+
+ #24 Waste Water/Storm Water Discharge
+
+ #27 Floodplain Protection within Coastal Shorelands
+
+#28 Recognition of LCDC Goal #3 (Agricultural Lands) Requirements for Rural Lands
+within the Coastal Shorelands Boundary
+
+#29 Restricting Actions in Beach and Dune Areas that are "Unsuitable for
+Development"
+
+#30 Restricting Actions in Beach and Dune Areas with "Limited Development
+Suitability"; and Special Consideration for Sensitive Beach and Dune Resources
+
+#31 (Reserved)
+
+ #34 Recognition of LCDC Goal #4 (Forest Lands) Requirements for Rural Lands
+within the Coastal Shorelands Boundary
+
+III-86
+All other plan provisions - including allowed uses and activities - are subordinate to the special
+"functional" policies listed above.
+
+III. This policy recognizes that the Coquille River Estuary Special Considerations Map:
+
+a. is an official policy component of this estuary management plan; and
+
+b. provides a mechanism for site-specific application of special management policies.
+
+• Policy #4: Resource Capability Consistency and Impact Assessment
+
+I. Local government concludes that all proposed actions (approved in this Plan), which would
+alter or potentially alter, the integrity of the estuarine ecosystem have been based upon a
+full consideration of the impacts of the proposed alteration and a demonstration of the
+public's need and gain, which warrant such modification or loss, except for the following
+uses and activities:
+
+ a. Natural Management Units
+
+  ~ Aquaculture
+  ~ Log Storage
+  ~ Bridge Crossings
+
+ b. Conservation Management Units
+
+  ~ High-intensity water-dependent recreation
+  ~ Aquaculture
+  ~ New or expanded log storage
+  ~ Dike maintenance dredging
+  ~ Minor navigational improvement requiring dredging or fill
+  ~ Bulkheading
+  ~ Water Intake or withdrawal and effluent discharge
+  ~ Riprap
+  ~ Log storage dredging
+
+c. Development Management Units
+
+  ~ Aquaculture
+  ~ New or expanded log storage
+  ~ Mining and mineral extraction
+  ~ Water-related and non-dependent, non-related uses not requiring fill
+  ~ Bulkheading
+  ~ Dredging
+  ~ Fill
+  ~ In-Water Structures
+~ Flow-lane disposal of dredged material and other activities which could
+affect the estuary's physical processes or biological resources
+  ~ Application of pesticides
+
+d. Any other uses and activities, which require the resource capability consistency test
+III-87
+as a condition within a particular management unit.
+
+For uses and activities requiring the resource capabilities test, a special condition is
+noted in the applicable management unit uses/activities matrix. A determination of
+consistency with resource capability and the purposes of the management unit shall
+be based on the following:
+
+  i. A description of resources identified in the plan inventory; and
+
+ii. An evaluation of impacts on those resources by the proposed use (see
+impact assessment procedure, below); and
+
+iii. A determination of whether the proposed use or activity is consistent with
+the resource capabilities of the area, or that the resources of the area are able
+to assimilate the use and activity and their effects and continue to function in
+a manner to protect significant wildlife habitats, natural biological
+productivity, and values for scientific research and education.
+
+Where the impact assessment requirements (Goal #16 Implementation Requirement #1) has
+not been satisfied in this Plan for certain uses or activities (i.e., those identified above), then
+such uses or activities shall not be permitted until findings demonstrate the public's need
+and gain which would warrant any modification or loss to the estuarine ecosystem, based
+upon a clear presentation of the impacts of the proposed alteration, as implemented in
+Policy #4a.
+
+II. An impact assessment need not be lengthy or complex, but it should give reviewers an
+overview of the impacts to be expected. It may include information on:
+
+ a. the type and extent of alterations expected; and
+
+ b. the type of resource(s) affected; and
+
+c. the expected extent of impacts of the proposed alteration on water quality and other
+physical characteristics of the estuary, living resources, recreation and aesthetic use,
+navigation and other existing and potential uses of the estuary; and
+
+d. the methods which could be employed to avoid or minimize adverse impacts.
+
+This policy is based on the recognition that the need for and cumulative effects of estuarine
+development were fully addressed during the preparation of this Plan and may be mitigated by the
+imposition, as necessary, of conditions through the administrative conditional use process.
+
+• Policy #4a: Deferral of (I) Resource Capability Consistency Findings and (II)
+Resource Impact Assessments
+
+Local government shall defer, until the time of permit application, findings regarding consistency
+of the uses/activities listed in Policy #4 with the resource capabilities of the particular management
+unit.
+
+Additionally, the impact assessment requirement for those uses/activities as specified in Policy #4
+III-88
+shall be performed concurrently with resource capability findings above at the time of the permit
+application.
+
+I. This policy shall be implemented through a conditional use process that includes local
+cooperation with the appropriate state agencies:
+
+a. where aquaculture is proposed as a use, local government shall notify the Oregon
+Department of Fish and Wildlife (ODFW) and Department of Agriculture in writing
+of the request with a map of the proposed site; and
+
+b. where log storage dredging is proposed as an activity local government shall notify
+the Oregon Department of Environmental Quality (DEQ) in writing of the request
+with a map of the proposed site.
+
+II. Within twenty (20) days of receipt of the notification, the state agency shall submit in
+writing to the local government a statement as to whether the proposed use/activity will:
+
+a.  be consistent with the resource capabilities of the management unit or
+
+b. if determined not to be consistent, whether the proposal can be made consistent
+through imposition of conditions on the permit.
+
+III. The appropriate state agency shall also perform the impact assessment required in Policy
+#4. If no statement is received from the state agency by the expiration of the twenty (20)
+day period, local government shall:
+
+a. presume consistency of the proposal with the resource capabilities of the
+management unit; and
+
+b. make findings appropriate to that presumption, and
+
+c. perform the assessment of impacts required by Policy #4.
+
+IV. For all other uses/activities specified above, local government shall:
+
+a. determine through appropriate findings whether the proposed use/activity is
+consistent with the resource capabilities of the management unit; and
+
+b. perform the assessment of impacts required by Policy #4.
+
+V. This strategy recognizes:
+
+a. that resource capability consistency findings and impact assessments as required by
+Statewide Planning Goal #16 can only be made for the uses specified above at the
+time of permit application; and
+
+b.  that the specified state agencies have expertise appropriate to assist local
+government in making required findings and assessments.
+
+This policy is based upon the recognition that the need for and cumulative effects of estuarine
+III-89
+developments were fully addressed during development of this Plan and that no additional findings
+are required to meet Implementation Requirement #1 of Goal #16.
+
+• Policy #5: Estuarine Fill and Removal
+
+I. Local government shall support dredge and/or fill only if such activities are allowed in the
+respective management unit, and:
+
+a. the activity is required for navigation or other water-dependent use that require an
+estuarine location or in the case of fills for non-water-dependent uses, is needed for
+a public use and would satisfy a public need that outweighs harm to navigation,
+fishing and recreation, as per ORS 541.625(4), and an Exception has been taken in
+this Plan to allow such fill; and
+
+b. a need (ie., a substantial public benefit) is demonstrated and the use or alteration
+does not unreasonably interfere with public trust rights; and
+
+c. no feasible alternative upland locations exist; and
+
+ d. adverse impacts are minimized; and
+
+e. effects may be mitigated by creation, restoration or enhancement of another area to
+ensure that the integrity of the estuarine ecosystem is maintained; and
+
+f. the activity is consistent with other requirements of state and federal law,
+specifically the conditions in ORS 541.615 and Section 404 of the Federal Water
+Pollution Control Act (P.L. 92-500).
+
+II. Other uses and activities which could alter the estuary shall only be allowed if the
+requirements in (b), (c), and (d) are met.
+
+Identification and minimization of adverse impacts as required in "d" above shall follow
+the procedure set forth in Policy #4.
+
+As required by Goal #16, only dredging necessary for on-site maintenance of existing
+functional tidegates, associated drainage channels and bridge crossing support structures is
+permitted in Natural and Conservation Management Units. Dredging necessary for the
+installation of new bridge crossing support structures is permitted in Conservation
+Management Units and may be allowed in Natural Management Units where consistent
+with the resource capabilities of the area and the purposes of the management unit.
+
+In the Conservation Management Unit, new dredging for boat ramps and marinas,
+aquaculture requiring dredge or fill or other alteration of the estuary, and dredging
+necessary for mineral extraction may be allowed where consistent with the resource
+capabilities of the area and the purposes of the management unit.
+
+This policy shall be implemented by the preparation of findings by local government
+documenting that such proposed actions are consistent with the Comprehensive Plan, and
+with criteria "a", "b", "c", "d", "e", and "f" above. However, where goal exceptions are
+III-90
+included within this plan, the findings in the exception shall be sufficient to satisfy criteria
+"a" through "d" above. Identification and minimization of adverse impacts as required in
+"e" above shall follow the procedure set forth in Policy #4a. The findings shall be
+developed in response to a "request for comment" by the Division of State Lands, which
+shall seek local government's determination regarding the appropriateness of a permit to
+allow the proposed action.
+
+"Significant", as used in "other significant reduction or degradation of natural estuarine
+values", shall be determined by: (i) The U.S. Army Corps of Engineers through its Section
+10 and 404 permit processes; or (ii) The Department of Environmental Quality for
+approvals of new aquatic log storage areas only; or (iii) The Department of Fish and
+Wildlife for new aquaculture proposals only.
+
+This policy recognizes that Goal #16 limits dredge, fill and other estuarine degradation in order to
+protect the integrity of the estuary.
+
+• Policy #5a: Temporary Alterations
+
+I. Local government shall support as consistent with this Plan: temporary alteration to the
+estuary, in Natural and Conservation Management Units provided it is consistent with the
+resource capabilities of the management units. Management unit in Development
+Management Units temporary alterations, which are defined in the definition section of the
+Plan are allowed provided they are consistent with purpose of the Development
+Management Unit.
+
+II. Further, the actions specified above shall only be allowed provided that:
+
+a. the temporary alteration is consistent with the resource capabilities of the area (see
+Policy #4); and
+
+b. findings satisfying the impact minimization criterion of Policy #5 are made for
+actions involving dredge, fill or other significant temporary reduction or
+degradation of estuarine values; and
+
+c. the affected area is restored to its previous condition by removal of the fill or other
+structures, or by filling of dredged areas (passive restoration may be used for
+dredged areas, if this is shown to be effective); and
+
+d. the maximum duration of the temporary alteration is three years, subject to annual
+permit renewal, and restoration measures are undertaken at the completion of the
+project within the life of the permit.
+
+Mitigation shall not be required by this Plan for such temporary alterations.
+
+This policy shall be implemented through the administrative conditional use process and through
+local review and comment on state and federal permit applications.
+
+This policy is based on the recognition that temporary estuarine fill and habitat alterations are
+frequently legitimate actions when in conjunction with jetty repair and other important economic
+activities. It is not uncommon for projects to need staging areas and access that require temporary
+III-91
+alteration to habitat that is otherwise protected by this Plan.
+
+• Policy #5b: Dredging to Repair Existing Functional Dikes & Tidegates
+
+Dredging to repair and maintain existing functional tidegates shall be permitted. Dredging (limited
+to subtidal areas only) shall also be permitted in units for repair of dikes where breaching has
+occurred or is in imminent danger of occurring.
+
+Dredging for routine repair and maintenance of existing functional dikes shall be permitted, and
+limited to subtidal areas, and only in cases where the alternative of using upland fill material is not
+reasonably available. The upland fill alternative shall be used if a source of suitable material is
+available on the landowner's property and access to the dike is feasible for heavy equipment,
+taking into account soil conditions and road access.
+
+In disposal of material from channel maintenance dredging on Coquille River and log storage area
+maintenance dredging, the first consideration shall be given to side-casting materials onto adjacent
+agricultural lands for dike repair/maintenance.
+
+This policy shall be implemented through the state/federal waterway permit review and comment
+process, and through a local administrative review process that includes an evaluation of the
+availability and suitability of alternative sources of material. Local government shall recommend
+imposition of a condition on state and federal waterway permits to require that any dredging
+authorized to repair and maintain tidegates or dikes shall be limited to the minimum necessary to
+restore the functional operation of the tidegate or dike.
+
+I. This policy is based on the recognition:
+
+a. There is no alternative to dredging for tidegate maintenance or for emergency repair
+of dikes breached by erosion;
+
+b. Dredging for routine dike repair maintenance may be necessary if suitable material
+such as upland fill is not reasonably available, or if access to the dike is not possible
+for heavy equipment due to wet ground conditions;
+
+c. Maintenance and repair of dikes and tidegates is necessary to maintain productive
+farm land in Coos County and has been a historical farm management practice in
+the area for over half a century; and
+
+d. Any required dredging must be restricted to subtidal areas to minimize adverse
+impacts to aquatic habitat that might otherwise result.
+
+• Policy #5c: New and Expanded Log Storage
+
+Where otherwise listed as an allowable use/activity within the respective management unit, new or
+expanded log storage shall be reviewed and approved by the Department of Environmental Quality
+in accordance with DEQ's Log Handling Implementation Program, which shall include a
+determination of whether the use/activity is consistent with the resource capabilities of the area and
+purposes of the estuarine management unit, and consistent with Policy #5 regarding other
+significant reductions or degradations of estuarine natural values.
+
+III-92
+This strategy recognizes the technical expertise of Department of Environmental Quality regarding
+resource capabilities.
+
+• Policy #5d: Research and Educational Observations
+
+I. Local government shall support research and educational observations, if:
+
+a. such activities are allowed in the respective management unit, and
+
+ b. the activity is required for research and educational purposes.
+
+This policy shall be implemented through the Administrative Conditional Use review criteria,
+which is through local review.
+
+II. Further, where listed as allowable, a "temporary" Research and Educational Observation
+Structure shall be treated as 'temporary" in nature and shall comply with Policy #5a(II).
+
+This strategy recognizes that Goal #16 provides for research and educational observation
+structures, strictly for the purposes of scientific research or education .
+
+• Policy #6: Fill in Conservation and Natural Management Units
+
+I. Local government may allow fill activities in Conservation Management Units only if
+listed as an "allowable" use within a respective unit, and then only as part of the following
+use or activity:
+
+a. maintenance and protection of man-made structures existing as of October 7, 1977;
+
+ b. activity restoration if a public need is demonstrated;
+
+ c. low water bridges if:
+
+  1. an estuarine location is required; and
+
+2. within the estuary, there are no alternative locations such as in a
+Development Management Unit; and
+
+  3. adverse impacts are minimized as much as feasible.
+
+ d. Bridge crossing support structures if:
+
+  1. the findings of "c" above are made; and
+
+2. consistent with the resource capabilities of the area and purposes of the
+management unit.
+
+e. Aquaculture, high-intensity water-dependent recreation and minor navigational
+improvements if:
+
+  1. the findings of "d" above are made; and
+III-93
+
+2. no alternative upland locations exist for the portion of the use requiring fill;
+
+ f. Flood and erosion control structures if:
+
+1. required to protect a water-dependent use as otherwise allowed in "d" above;
+and
+
+2. land use management practices and non-structural solutions are inadequate
+to protect the use.
+
+Further, local government may allow riprap activities in Natural Management Units to a very
+limited extent where necessary for erosion control to protect:
+
+a. uses existing as of 10-7-77;
+
+b. unique natural resource and historical and archaeological values, or;
+
+c. public facilities.
+
+This policy shall be implemented through estuarine "Use and Activity" matrices set forth in this
+Plan, and through local review and comment on state and federal permit applications for such
+projects.
+
+This policy recognizes the general objectives of Statewide Planning Goals #16 and #17.
+
+• Policy #7: Maintenance Dredging of Authorized Channel
+
+Local government support maintenance dredging of the authorized navigation channel.
+
+This policy recognizes that there are persistent problems with buildup of sediment in the Coquille
+channel entrance from littoral transport during late summer months, creating rough water and
+difficult bar crossing, which interferes with navigation.
+
+• Policy #8: Estuarine Mitigation Requirements (See also Policies #21, #22 and
+#22a)
+
+Local government recognizes that mitigation shall be required when estuarine dredge or fill
+activities are permitted in inter-tidal or tidal marsh areas. The effects shall be mitigated by
+creation, restoration or enhancement of another area to ensure that the integrity of the estuarine
+ecosystem is maintained as required by ORS 196.830 (renumbered in 1989). However, mitigation
+shall not be required for projects, which the Division of State Lands determined met the criteria of
+ORS 196.830(3).
+
+This policy shall be implemented through procedures established by the Division of State Lands,
+and as consistent with ORS 196.830 and other mitigation/restoration policies set forth in this Plan.
+
+This policy recognizes the authority of the Director of the Division of State Lands in administering
+the statutes regarding mitigation.
+
+III-94
+• Policy #9: Solutions to Erosion and Flooding Problems
+
+Local government shall prefer non-structural solutions to problems of erosion and flooding in the
+Coquille River Estuary to structural solutions. Where shown to be necessary, water and erosion
+control structures such as jetties, bulkheads, seawalls and similar protective structures and fill
+whether located in the waterways or on shorelands above ordinary high water mark shall be
+designed to minimize adverse impacts on water currents, erosion and accretion patterns.
+
+I. Further, where listed as an allowable activity within respective management units, riprap
+may be allowed in Development Management Units upon findings that:
+
+a. land use management practices and non-structural solutions are inadequate; and
+
+b. adverse impacts on water currents, erosion and accretion patterns are minimized;
+and
+
+c. it is consistent with the Development Management Unit requirements of the
+Estuarine Resources Goal.
+
+II. Further, where listed as an allowable activity within respective management units, riprap
+may be allowed in Conservation Aquatic Management Units upon findings that:
+
+a. land use management practices and non-structural solutions are inadequate; and
+
+b. adverse impacts on water currents, erosion and accretion patterns are minimized;
+and
+
+c. riprap is consistent with the resource capabilities of the area and the purposes of
+maintaining Conservation Management Units.
+
+III. Further, where listed as an allowable activity within respective management units, riprap
+may be allowed in Natural Aquatic Management Units upon findings that:
+
+a. there is a need to protect from erosion: uses existing as of October 7, 1977, unique
+natural resources and historic, archaeological, and cultural values, or public
+facilities; and
+
+b. land use management practices and non-structural solutions are inadequate; and
+
+c. it is consistent with the Natural Management Unit as set forth in this Plan and
+required by Goal #16; and
+
+d. adverse impacts on water currents, erosion and accretion patterns and estuarine
+organisms and their habitat are minimized.
+
+Implementation of this policy shall occur through local review of and comment on state and
+federal permit applications for such projects.
+
+This policy is based on the recognition that non-structural solutions are often more cost-effective
+as corrective measures, but that carefully designed structural solutions are occasionally necessary.
+III-95
+The policy also recognizes Statewide Planning Goals #16 and #17 requirements and the Oregon
+Administrative Rule classifying Oregon estuaries (OAR 660-17-000 as amended June, 1981).
+
+• Policy #10: Proliferation of Single-Purpose Docks and Piers
+
+Local government shall act to restrict the proliferation of individual single-purpose docks and
+piers, when such are allowed within respective management units.
+
+I. This strategy shall be implemented by:
+
+a. preparation of findings by local government in response to a "request for comment"
+DSL (which shall seek local government's determination regarding the
+appropriateness of a permit to allow the proposed dock or pier) which document
+that:
+
+1. the size and shape of the proposed dock or pier shall be limited to that
+required for the intended use; and
+
+2. alternatives to docks and piers (such as mooring buoys, dryland storage, and
+launching ramps) have been investigated and considered; and
+
+b. encouraging community facilities common to several uses and interest by:
+
+1. satisfying community needs for docks and moorage facilities in this Plan;
+and
+
+  2. encouraging easements to facilitate multi-ownership.
+
+This policy recognizes the requirements of Goal #16 and the environmental benefits of multi-
+purpose and multi-ownership docks and moorage facilities.
+
+• Policy #11: Authority of Other Agencies
+
+Local government shall recognize the authority of the following agencies and their programs for
+managing land and water resources:
+
+• The Oregon Forest Practices and Act and Administrative Rules, for forest lands as
+defined in ORS 527.620 (1991)-527.730 and Forest Lands Goal;
+
+• The non-point source discharge water quality program administered by the Department
+of Environmental Quality under Section 208 of the Federal Water Quality Act as
+amended in 1972 (PL 92-500);
+
+• The Fill and Removal Permit Program administered by the Division of State Lands
+(DSL) under ORS 196.800-880 (renumbered 1989); and
+
+• The programs of the State Soil and Water Conservation Commission and local districts
+and the Soil Conservation Service for the Agricultural Land Goal.
+
+III-96
+This strategy recognizes there are several agencies with authority over coastal waters, and that
+their management programs should be used rather than developing new or duplicatory
+management techniques or controls, especially as related to existing programs functioning to
+maintain water quality and minimize man-induced sedimentation.
+
+• Policy #12: Removal of Old Pilings and Snags
+
+Local governments shall support removing obstructions and accumulations of debris from the
+Coquille River Estuary, where "minor navigational improvements" listed as an allowable use or
+activity within all management units, except where identified as needed for habitat.
+
+This strategy recognizes that the Coquille River Estuary contains a large number of disused
+pilings, snags, other obstructions and accumulations which may interfere with boat passage and
+can adversely affect habitat and increase erosion hazard.
+
+This strategy shall be implemented through the permit coordination with ODFW and the Army
+Corps of Engineers prior to County sign-off on permits.
+
+• Policy #12a: (Reserved)
+
+• Policy #12b: (Reserved)
+
+• Policy #12c: Future Studies
+
+Local government shall encourage the Oregon Department of Fish and Wildlife to study biological
+resources of the Coquille Estuary, particularly the riverine section, to ascertain the effects of
+dredging and other river channel improvements and to determine the effects of various fish and
+wildlife management actions.
+
+This strategy recognizes that the state of general knowledge about biological resources of the
+Coquille Estuary, particularly the riverine section is sketchy.
+
+• Policy #12d: (Reserved)
+
+• Policy #13: Overall Use Priorities Within Coastal Shorelands
+
+I. Local governments shall maintain the following priorities for the overall use of coastal
+shorelands (from highest to lowest):
+
+ a. promote uses which maintain the integrity of estuaries and coastal waters;
+
+ b. provide for water-dependent uses;
+
+ c. provide for water-related uses;
+
+d. provide for non-dependent, non-related uses which retain flexibility of future use
+and do not prematurely or inalterably commit shorelands to more intensive uses;
+
+e. provide for development, including non-dependent, non-related uses in urban areas
+III-97
+compatible with existing or committed uses;
+
+f. permit non-dependent, non-related uses which cause a permanent or long-term
+change in the features of coastal shorelands only upon a demonstration of public
+need.
+
+In addition, priority uses for flood hazard and floodplain areas shall include agriculture, forestry,
+recreation and open space and uses, which are water-dependent.
+
+This strategy recognizes that the Coquille River Estuary Management Plan's shoreland
+designations and permitted uses and activities are based upon and establish general priorities for
+the use of coastal shoreland resources.
+
+• Policy #14: General Policy on Uses within Rural Coastal Shorelands
+
+I. Coos County shall manage its rural areas with the "Coquille River Coastal Shorelands
+Boundary" by allowing only the following uses in rural shoreland areas, as prescribed in
+the management units of this Plan, except for areas where mandatory protection is
+prescribed by LCDC Goal #17 and #18:
+
+ a. farm uses as provided in ORS 215;
+
+ b. propagation and harvesting of forest products consistent with the Oregon
+Forest Practices Act;
+
+ c. private and public water-dependent recreation developments;
+
+ d. aquaculture;
+
+e. water-dependent commercial and industrial uses, water-related uses and other uses
+only upon a finding by the county that such uses satisfy a need which can not be
+accommodated on uplands or in urban and urbanizable areas or in rural areas built
+upon or irrevocably committed to non-resource use;
+
+f. single family residences on lots, parcels, or units of land existing on January 1,
+1977 when it is established that:
+
+  1. the dwelling is in conjunction with a permitted farm or forest use, or
+
+  2. the dwelling is in a documented "committed" area, or
+
+  3. the dwelling has been justified through a goal exception, or
+
+4. such uses do not conflict with the resource preservation and protection
+policies established elsewhere in this Plan;
+
+g. any other uses, provided that the Board of Commissioners determines that such uses
+satisfy a need which cannot be accommodated at other upland locations or in urban
+or urbanizable areas. In addition, the above uses shall only be permitted upon a
+finding that such uses do not otherwise conflict with the resource preservation and
+III-98
+protection policies established elsewhere in this Plan.
+
+This strategy recognizes (1) that Coos County's rural shorelands are a valuable resource and
+accordingly merit special consideration, and (2) that LCDC Goal #17 places strict limitations on
+land divisions within coastal shorelands. This strategy further recognizes that rural uses "a"
+through "g" above, are allowed because of need and consistency findings documented in the
+"factual base" that supports this plan.
+
+• Policy #15: Land Divisions within Rural Shorelands
+
+Coos County shall permit subdivisions and partitions within the Coquille River Coastal Shorelands
+Boundary in rural areas only upon a finding by the County:
+
+a.  that such land divisions would not otherwise conflict with the resource preservation
+and protection policies established elsewhere in this Plan, agricultural policies and
+ordinance requirements of the Coos County Comprehensive Plan; and either
+
+b. that the new land divisions fulfill a need that cannot otherwise be accommodated in
+uplands in urban and urbanizable areas; or
+
+ c. that the new land divisions are in a documented "committed" area; or
+
+ d. that the new land divisions have been justified through a goal exception.
+
+This strategy shall be implemented through provisions in ordinance measures that require the
+above findings to be made prior to the approval of the preliminary plat of a subdivision or
+partition.
+
+This strategy recognizes (1) that Coos County's rural shorelands are a valuable resource and
+accordingly merit special consideration; and (2) that LCDC Goal #17 places strict limitations on
+land divisions within coastal shorelands.
+
+• Policy #16: Protection of Sites Suitable to Water-Dependent Uses; and Special
+Allowance for New Non-Water-Dependent Uses in "Urban Water-Dependent
+(UW) Units which are Suitable for Water-Dependent Uses" (WD)
+
+Local government shall protect shorelands in the following areas that are suitable for water-
+dependent uses, for water-dependent commercial, recreational and industrial uses.
+
+ a. Urban or urbanizable areas;
+
+ b. Rural areas built upon or irrevocably committed to non-resource use; and
+
+c. Any unincorporated community subject to OAR Chapter 660, Division 022
+(Unincorporated Communities).
+
+This strategy is implemented through the Estuary Plan, which provides for water-dependent uses
+within areas that are designated as Urban Water-dependent (UW) management units.
+
+III-99
+I. Minimum acreage. The minimum amount of shorelands to be protected shall be equivalent
+to the following combination of factors:
+
+a. Acreage of estuarine shorelands that are currently being used for water-dependent
+uses; and
+
+b. Acreage of estuarine shorelands that at any time were used for water-dependent
+uses and still possess structures or facilities that provide or provided water-
+dependent uses with access to the adjacent coastal water body. Examples of such
+structures or facilities include wharves, piers, docks, mooring piling, boat ramps,
+water intake or discharge structures and navigational aids.
+
+II. Suitability. The shoreland area within the estuary designated to provide the minimum
+amount of protected shorelands, shall be suitable for water-dependent uses. At a minimum
+such water-dependent shoreland areas shall possess, or be capable of possessing, structures
+or facilities that provide water-dependent uses with physical access to the adjacent coastal
+water body. The designation of such areas shall comply with applicable Statewide Planning
+Goals.
+
+III. Permissible Non-Water-Dependent Uses. Unless otherwise allowed through an Exception,
+new non-water-dependent uses which may be permitted in "Urban Water-Dependent
+(UW)" management units are a temporary use which involves minimal capital investment
+and no permanent structures, or a use in conjunction with and incidental and subordinate to
+a water-dependent use. Such new non-water-dependent uses may be allowed only if the
+following findings are made, prior to permitting such uses:
+
+Temporary use involving minimal capital investment and no permanent structures:
+
+ a. the proposed use or activity is temporary in nature (such as storage, etc); and,
+
+b. the proposed use would not pre-empt the ultimate use of the property for water-
+dependent uses; and,
+
+c. the site is committed to long-term water-dependent use or development by the
+landowner.
+
+ Use in conjunction with and incidental and subordinate to a water-dependent use:
+
+a. Such non-water-dependent uses shall be constructed at the same time as or after the
+water-dependent use of the site is established, and must be carried out together with
+the water-dependent use.
+
+b. The ratio of the square footage of ground-level indoor floor space plus outdoor
+acreage distributed between the non-water-dependent uses and the water-dependent
+uses at the site shall not exceed one to three (non-water-dependent to water-
+dependent).
+
+c. Such non-water-dependent uses shall not interfere with the conduct of the water-
+dependent use.
+
+III-100
+This policy shall be implemented through provisions in ordinance measures that require an
+administrative conditional use application be filed and approved, and the above findings be made,
+prior to the establishing of the proposed uses or activities.
+
+• Policy #16a: Rural, Urban, and Unincorporated Communities Use Standards
+
+I. Commercial and Industrial uses in Unincorporated Communities shall be consistent with
+OAR 660-022-0030. Commercial and industrial uses shall comply with building square
+footage requirements set forth in OAR 660-022-0030(10) and (11). New commercial
+structures authorized outside of an UCB or UGB shall not exceed 3,500 square feet of floor
+area. New industrial structures located outside of a UCB or UGB shall not exceed 35,000
+square feet of floor area, unless:
+
+a. The industrial use involves the primary processing of raw material(s) produced in
+the area or from ocean resources; or
+
+b. The industrial use is located on an abandoned or diminished mill site as defined by
+statute; or
+
+c. The industrial use is located in an area where an exception to Goal 14 has been
+taken; or
+
+d. As authorized by Goals 3 and/or 4.
+
+This policy shall be implemented through ordinance measures. Implementation shall occur as
+identified under specific zoning district standards.  (04-04-005PL 9/1/04)
+
+II. It must be demonstrated through findings that the proposed use will not:
+
+ a. adversely affect agricultural and forest operations, and
+
+ b. interfere with the efficient functioning of urban growth boundaries.
+
+III. The following are development standards for proposed commercial or industrial structures
+to be located on parcels, which are abutting exclusive farm use or forest zoned properties:
+
+a. all structures, except fences, shall be setback a minimum of thirty-five (35) feet
+from any road right-of-way centerline, or five (5) feet from any right-of-way
+centerline, whichever is greater; and
+
+b. all structures being sited on parcels abutting exclusive farm use (EFU) or forest (F)
+zoned parcels, property owners(s)/applicant(s) shall acknowledge and file in the
+deed records of Coos County, a "Farm and forest" Practices Management Covenant.
+The covenant shall be recorded in the deed records of the county prior to the County
+issuing a zoning compliance letter.
+
+• Policy #16b: Potential Sites Suitable for Water-Dependent Uses
+
+Local government shall re-evaluate available sites for water-dependent uses which would comply
+III-101
+with the Statewide Planning Goals at the time of the first update of the Coquille Estuary Plan.
+
+This strategy recognizes that the Coquille River Estuary suffers from a shortage of suitable and
+readily available sites for water-dependent uses.
+
+• Policy #16c: Protection of Sites Suited to Water-Dependent Uses in Future
+Urbanizable Areas
+
+Local government shall (when considering possible future amendments to this Estuary
+Management Plan) protect shorelands in future urbanizable areas suited for water-dependent uses
+for water-dependent recreational, commercial and industrial uses.
+
+Implementation shall be based on the local plan review and update process and the "Land Use
+Planning" and plan implementation strategies applicable to that review process.
+
+This strategy recognizes that future revisions to urban growth areas may include new water-
+dependent areas.
+
+• Policy #17: Protection of “Major Marshes" and Significant "Wildlife Habitats" in
+Coastal Shorelands
+
+Local government shall protect from development, major marshes and significant wildlife habitat,
+coastal headlands, and exceptional aesthetic resources located within the Coquille River Coastal
+Shorelands Boundary unless exceptions allow otherwise.
+
+I. Local government shall protect:
+
+a. "Major marshes" to include areas identified in the Goal #17 "Linkage Matrix", and
+the Shoreland Values Inventory map; and
+
+b. "Significant wildlife habitats" to include those areas identified on the map
+"Freshwater Wetlands" plus natural areas of significant importance identified on the
+map "Historical/Archaeological/Scientific sites"; and
+
+c. "Coastal headlands"; and
+
+d. "Exceptional aesthetic resources" where the quality is primarily derived from or
+related to the association with coastal water areas.
+
+II. This strategy shall be implemented through:
+
+a. plan designations and use and activity matrices set forth elsewhere in this Plan that
+limit uses in these special areas to those that are consistent with protection of
+natural values, and
+
+b. through use of the Special Considerations Map that identifies such special areas
+and restricts uses and activities therein to uses that are consistent with the
+protection of natural values. Such uses may include propagation and selective
+harvesting of forest products consistent with the Oregon Forest Practices Act,
+grazing, harvesting wild crops, and low-intensity water-dependent recreation.
+III-102
+
+This strategy recognizes that special protective consideration must be given to key resources in
+coastal shorelands over and above the protection afforded such resources elsewhere in this Plan.
+
+• Policy #18: Protection of "Historical, Cultural and Archaeological Sites"
+
+Local government shall provide special protection to historic and archaeological sites and shall
+continue to refrain from widespread dissemination of site-specific information about identified
+archaeological sites.
+
+I. This strategy shall be implemented by requiring review of all development proposals
+involving an archaeological or historical site to determine whether the project as proposed
+would protect the historical and archaeological values of the site.
+
+II. The development proposal, when submitted shall include a Site Plan Application, showing,
+at a minimum, all areas proposed for excavation, clearing and construction. Within three
+(3) working days of receipt of the development proposal, the local government shall notify
+the Coquille Indian Tribe in writing, together with a copy of the Site Plan Application. The
+Tribe shall have the right to submit a written statement to the local government within
+thirty (30) days of receipt of such notification, stating whether the project as proposed
+would protect the cultural, historical and archaeological values of the site, or if not, whether
+the project could be modified by appropriate measures to protect those values
+.
+
+"Appropriate measures" may include, but shall not be limited to, the following:
+
+a. Retaining the prehistoric and/or historic structure in situ or moving it intact
+to another site; or
+b. Paving over the site without disturbance of any human remains or cultural
+objects upon the written consent of the Tribe(s); or
+  c. Clustering development so as to avoid disturbing the site; or
+  d. Setting the site aside for non-impacting activities, such as storage; or
+e. If permitted pursuant to the substantive and procedural requirements of ORS
+97.750, contracting with a qualified archaeologist to excavate the site and
+remove any cultural objects and human remains, reinterring the human
+remains at the developer's expense; or
+f. Using civil means to ensure adequate protection of the resources, such as
+acquisition of easements, public dedications, or transfer of title.
+
+If a previously unknown or unrecorded archaeological site is encountered in the
+development process, the above measures shall still apply. Land development activities,
+which violate the intent of this strategy, shall be subject to penalties prescribed in ORS
+Chapter 97.990.
+
+III. Upon receipt of the statement by the Tribe, or upon expiration of the Tribe thirty day (30)
+response period, the local government shall conduct an administrative review of the
+development proposal and shall:
+
+a. approve the development proposal if no adverse impacts have been identified, as
+long as consistent with other portions of this Plan, or
+
+III-103
+b. approve the development proposal subject to appropriate measures agreed upon by
+the landowner and the Tribe, as well as any additional measures deemed necessary
+by the local government to protect the historical and archaeological values of the
+site. If the property owner and the Tribe cannot agree on the appropriate measures,
+then the governing body shall hold a quasi-judicial hearing to resolve the dispute.
+The hearing shall be a public hearing at which the governing body shall determine
+by preponderance of evidence whether the development project may be allowed to
+proceed, subject to any modifications deemed necessary by the governing body to
+protect the historical and archaeological values of the site.
+
+c. Through the "overlay concept" of this policy and the Special Considerations Map,
+unless an Exception has been taken, no uses other than propagation and selective
+harvesting of forest products consistent with the Oregon Forest Practices Act,
+grazing, harvesting wild crops, and low-intensity water-dependent recreation shall
+be allowed unless such uses are consistent with the protection of the historic and
+archaeological values, or unless appropriate measures have been taken to protect the
+historic and archaeological values of the site.
+
+This strategy recognizes that protection of historical and archaeological sites is not only a
+community's social responsibility, is also legally required by ORS 97.745. It also recognizes that
+historical and archaeological sites are non-renewable cultural resources.
+
+• Policy #19: Management of "Wet-Meadow" Wetlands within Coastal Shorelands
+
+I. Coos County shall protect for agricultural purposes those areas defined as 'wet meadow'
+wetlands by the U.S. Fish and Wildlife Service but currently in agricultural use or with
+agricultural soils and not otherwise designated as "significant wildlife habitats" or "major
+marshes", unless an Exception allows otherwise. Permitted uses and activities in these areas
+shall include farm use and any drainage activities, which are necessary to improve
+agricultural production. Filling of these areas, however, shall not be permitted, so as to
+retain these areas as wildlife habitats during periods of seasonal flooding and high water
+tables, with the following exceptions:
+
+a. for transportation corridors where an Exception has been taken to Goal #3
+(Agricultural Lands); or
+
+b. agricultural buildings, where no alternative site exists on the applicant's property; or
+
+ c. minor improvements for which there is no practical alternative; or
+
+d. where no fill permit is required under Section 404 of the Water Pollution Control
+Act; or
+
+e. for priority dredged material disposal sites designated by this Plan for protection
+from
+pre-emptory uses.
+
+Any activity or use requires notification of Division of State Lands, with their comments
+received prior to the issuance of any permits.
+
+III-104
+II. This policy shall be implemented by designating these lands as "Agricultural Lands" on the
+Special Considerations Map and by making findings in response to a request for comment
+by the Division of State Lands, which show whether the proposed action is consistent with
+the Comprehensive Plan. This strategy recognizes:
+
+a. that protection of these areas for agricultural use is necessary to ensure the
+continuation of the local agricultural economy;
+
+b. that improved drainage is necessary to maintain or enhance productivity by
+establishing preferred forage types;
+
+c. that the present system of agricultural use in the Coquille Valley is compatible with
+wildlife habitat values because the land is used for agriculture during the season
+when the land is dry and therefore not suitable as wetland habitat, and provides
+habitat areas for wildfowl during the flooding season when the land is unsuitable for
+most agricultural uses; and
+
+d. that these habitat values will be maintained provided filling is not permitted.
+
+• Policy #20: Dredged Material Disposal Sites
+
+Local government shall support the stockpiling and disposal of dredged materials on sites
+specifically designated in Plan Inventory (See Section 5.4.21, Site A, North Spit designated
+dredged material disposal site). This site is also shown on the "Special Considerations Map".
+Ocean disposal is currently the primary disposal method chosen by those who need disposal sites.
+The dredge material disposal designated sites has decreased because the ocean has become the
+primary disposal method, the in-land DMD sites have diminished and those which have remained
+on the DMD list are sites which may be utilized in the future and not be cost-prohibitive.
+Consistent with the "use/activity" matrix, this designated disposal site shall be managed so as to
+prevent new uses and activities, which would prevent its ultimate use for dredged material
+disposal. A designated site may only be released for some other use upon a finding that a suitable
+substitute site is available to provide for that need. Sites may only be released through a Plan
+Amendment. Upland dredged material disposal shall be permitted elsewhere (consistent with the
+"use/activity" matrices) as needed for new dredging (where permitted), maintenance dredging of
+existing functional facilities, minor navigational improvements or drainage improvements,
+provided riparian vegetation and fresh-water wetland are not affected. For any in-water (including
+inter-tidal or subtidal estuarine areas) disposal permit requests, this strategy shall be implemented
+by the preparation of findings by local government consistent with Policy #5 (Estuarine Fill and
+Removal).
+
+I. This policy shall be implemented by:
+
+a. Designating "Selected Dredged Material Disposal Sites" on the Special
+Considerations Map; and
+
+b. Implementing an administrative review process (to preclude pre-emptory uses) that
+allows uses otherwise permitted by this Plan but proposed within an area designated
+as a "Selected DMD" site only upon satisfying all of the following criteria:
+
+1. The proposed use will not entail substantial structural or capital
+III-105
+improvements, such as roads, permanent buildings or non-temporary water
+and sewer connections; and
+
+2. The proposed use must not require any major alteration of the site that
+would affect drainage or reduce the usable volume of the site - such as
+extensive site grading/excavation or elevation from fill; and
+
+3. The proposed use must not require site changes that would prevent the
+expeditious conversion of the site to estuarine habitat.
+
+c. Local government's review of and comment on applicable state and federal
+waterway permit applications for dike/tidegate and drainage ditch actions.
+
+II. This strategy recognizes that sites designated in the Comprehensive Plan reflect the
+following key environmental considerations required by LCDC Goal #16:
+
+a. Disposal of dredged material in upland or ocean waters was given general
+preference in the overall site selection process;
+
+b. Disposal of dredged material in estuary waters is permitted in this plan only when
+such disposal is consistent with state and federal law.
+
+ c. Selected DMD sites must be protected from pre-emptory uses.
+
+• Policy #20a: Dredged Material Disposal Guidelines
+
+Future dredged material disposal should be carried out in accordance with the guidelines outlined
+in Volume II, Part I, Section 6.2 of the Plan, which relate to: drainage diversion, sediment quality
+and turbidity, timing of disposal, land surface use, revegetation, toxic materials, land use outfalls
+and influent discharge points, water quality and removal of material from approved upland sites.
+Future land use shall be governed by the uses/activities permitted and the Management Objective
+in that management unit. Additional guidelines contained in the "Special Considerations" section
+of the individual site fieldsheets (see Inventory and Factual Base, Volume II, Part 2, Section 7,
+Appendix 'A') provide site-specific information on the procedures that should be followed.
+
+These guidelines are intended to indicate the type of conditions that federal and state agencies are
+likely to impose on dredged material disposal permits, which shall be the primary means of
+implementation. Local government shall implement this policy by review and comment on permit
+applications.
+
+This policy recognizes that disposal permit conditions are imposed at the discretion of the
+permitting agency, and should not be set down as mandatory requirements in the Plan, but simply
+as guidelines.
+
+• Policy #20b: Intertidal Dredged Material Disposal
+
+Local government shall prohibit dredged material disposal in intertidal or tidal marsh areas except
+where such disposal is part of an approved fill project.
+
+This strategy shall be implemented through operation of the waterway permit process as a response
+III-106
+to a "request for comment" from the Division of State Lands and U.S. Army Corps of Engineers.
+
+This strategy recognizes that upland disposal and ocean disposal are alternatives to intertidal
+disposal.
+
+• Policy #20c: DMD Planning Period
+
+Local government recognizes that the Comprehensive Plan does not provide adequate information
+of dredged material disposal (DMD) sites. Updating information and strategies will occur during
+the County’s period review.
+
+This strategy shall be implemented through review of DMD needs during periodic review, and
+through statistical monitoring of DMD fills by the Army Corps of Engineers.
+
+• Policy #21: Mitigation and Restoration Sites
+
+Local government shall support mitigation and restoration actions on the sites specifically
+designated in this Plan (see Section 9.10, Potential Mitigation or Restoration Sites).  However,
+mitigation and restoration actions shall not necessarily be limited to the identified sites, but may
+occur in other areas with suitable potential as permitted in the "Use/Activities" matrix, and subject
+to Policy #8, Mitigation Requirements. Local governments shall also cooperate with the Oregon
+Department of Fish and Wildlife and the Division of State Lands to form a "mitigation bank"
+pursuant to ORS 196.600-655 and 196.830 (renumbered 1989).
+
+This strategy is based upon the recognition of the need for identification of areas to be used to
+fulfill the mitigation requirements of Goal #17 and this Plan.
+
+• Policy #22: Mitigation Sites: Protection Against Pre-emptory Uses
+
+Consistent with permitted uses and activities:
+
+~ "High Priority" designated mitigation sites shall be protected from any new uses or
+activities which could pre-empt their ultimate use for this purpose.
+
+~ "Medium Priority" designated mitigation sites shall also be protected from uses which
+would pre-empt their ultimate use for this purpose.
+
+However, repair of existing dikes or tidegates and improvement of existing drainage ditches is
+permitted, with the understanding that the permitting authority (Division of State Lands) overrides
+the provisions of Policy #38. Wetland restoration actions designed to answer specific research
+questions about wetland mitigation and/or restoration processes and techniques, may be permitted
+upon approval by Division of States Lands, and as prescribed by the uses and activities table in this
+Plan.
+
+~ "Low Priority" designated mitigation sites are not permanently protected by the Plan. They
+are intended to be a supplementary inventory of potential sites that could be used at the
+initiative of the landowner. Pre-emptory uses shall be allowed on these sites, otherwise
+consistent with uses and activities permitted by the Plan. Any change in priority rating shall
+III-107
+require a Plan Amendment.
+
+Except as provided above for research of wetland restoration and mitigation processes and
+techniques, repair of existing dikes, tidegates and improvement of existing drainable ditches,
+"high" and "medium" priority mitigation sits shall be protected from uses and activities which
+would pre-empt their ultimate use for mitigation.
+
+I. This policy shall be implemented by:
+
+a. Designating "high" and "medium" priority mitigation sites in the plan inventory.
+
+b. Implementing an administrative review process that allows uses otherwise
+permitted by this Plan but proposed within an area designated as a "high" or
+"medium" priority mitigation site only upon satisfying all of the following criteria:
+
+1. The proposed use must not entail substantial structural or capital
+improvements (such as roads, permanent buildings or non-temporary water
+and sewer connections);
+
+2. The proposed use must not require any major alteration of the site that
+would affect drainage or reduce the usable volume of the site (such as
+extensive site grading/excavation or elevation from fill); and
+
+3. The proposed use must not require site changes that would prevent the
+expeditious conversion of the site to estuarine habitat; or
+
+4. For proposed wetland restoration research projects in "medium" priority
+mitigation sites the following must be submitted:
+
+i. A written approval of the project from Division of State Lands, and
+
+ii. A description of the proposed research, resource enhancement and
+benefits expected
+
+c. Local government's review of and comment on state and federal waterway permit
+applications for dike/tidegate and drainage ditch actions.
+
+This policy recognizes that potential mitigation sites must be protected from pre-emptory uses.
+However, "low priority" sites are not necessarily appropriate for mitigation use and are
+furthermore in plentiful supply. It further recognizes that future availability of "medium priority"
+sites will not be pre-empted by repair of existing functional dikes, tidegates and drainage ditches or
+otherwise allowed by this policy. This insures the continuation of agricultural production until
+such time as sites may be required for mitigation. This policy also recognizes that research
+activities designed to gain further understanding of wetland, restoration and mitigation processes
+and techniques are needed. The consideration of "medium priority" mitigation sites for this
+purpose will facilitate future identification and successful use of mitigation sites (OR 95-11-010PL
+1/24/96).
+
+• Policy #22a: Acquisition or Protection of Mitigation/Restoration and Dredged
+Material Disposal Sites
+III-108
+
+Local governments shall actively promote the acquisition or protection of mitigation/
+restoration or dredged material disposal sites through purchase of fee title easements or
+development rights, property exchange or other similar methods, in addition to mitigation banking,
+as necessary to meet development needs on the Estuary. They shall also investigate such methods
+of site protection as "open space taxation" or other means of tax reduction.
+
+This policy recognizes that purchase of an interest in a site is often necessary to afford a higher
+degree of protection than zoning can provide.
+
+• Policy 22b: Limiting Dredge and Fill as Estuarine Restoration
+
+I. Local government shall support estuarine dredge or fill actions as estuarine restoration
+(pursuant to LCDC Goal 16) only when such restoration will meet the requirements of
+administrative rules adopted by the Division of State Lands and only upon findings which
+demonstrate the following:
+
+a. Factual assessment of the nature and extent of the estuarine resource believed to
+have existed at the proposed restoration site at some time in the past; and
+
+ b. Factual assessment of how the estuarine resource at the site was lost; and
+
+c. Comparison of the resource enhancement expected to result from the proposed
+restoration project, together with a determination that the proposed project will, in
+fact, probably restore all or some of the resource values lost at the site; and
+
+ d. The fill/removal findings of ORS 196.
+
+This policy shall be implemented by an administrative conditional use review process and response
+to requests for comments by the Division of State Lands and Corps of Engineers regarding site or
+federal waterway permits.
+
+This policy recognizes that not all estuarine dredge or fill actions may be considered estuarine
+restoration pursuant to LCDC Goal 16.
+
+• Policy #23: Riparian Vegetation and Streambank Protection
+
+I. Local government shall strive to maintain riparian vegetation within the shorelands of the
+estuary, and when appropriate, restore or enhance it, as consistent with water-dependent
+uses. Local government shall also encourage use of tax incentives to encourage
+maintenance of riparian vegetation, pursuant to ORS 308.792 - 308.803.
+
+Appropriate provisions for riparian vegetation are set forth in the CCZLDO Section 3.2.180
+(OR 92-05-009PL).
+
+II. Local government shall encourage streambank stabilization for the purpose of controlling
+streambank erosion along the estuary, subject to other policies concerning structural and
+non-structural stabilization measures.
+
+This strategy shall be implemented by Oregon Department of Transportation (ODOT) and local
+III-109
+government when erosion threatens roads. Otherwise, individual landowners in cooperation with
+the Ports of Bandon and Coquille, Coos Soil and Water Conservation District, Watershed Council,
+Division of State Lands and Oregon Department of Fish & Wildlife shall be responsible for bank
+protection.
+
+This strategy recognizes that the banks of the Coquille Estuary are susceptible to erosion and has
+threatened valuable farm land, roads and other structures.
+
+• Policy #24: Special Forest Practice Regulations in Coastal Shorelands
+
+Local governments shall urge the Oregon Department of Forestry to recognize the unique and
+special values provided by coastal shorelands when developing standards and policies to regulate
+uses of forest lands within coastal shorelands.
+
+This strategy recognizes LCDC Goal #17 "Implementation Requirement #1" and the need for
+protection and maintenance of special shoreland values and forest uses especially for natural
+shorelands and riparian vegetation.
+
+• Policy #25: Waste Water/Storm Water Discharge
+
+Local government recognizes that Waste Water/Storm Water Discharge must meet state and
+federal water quality standards prior to issuance of any permits by the County.
+
+I. Local government shall support Waste Water/Storm Water Discharge, if such activity is
+allowed in the respective management unit and:
+
+ a. The activity is required for waste water/storm water discharge; and,
+
+b. the activity is consistent with the resource capabilities of the area (see Policy #4);
+and,
+
+c. findings must be made satisfying the impact minimization criterion of Policy #5.
+
+This policy shall be implemented through the conditional use process and through local review and
+comment on state and federal permit applications.
+
+This strategy recognizes that Goal #16 provides for Waste Water/Storm Water Discharge; and,
+recognizes the technical expertise of Department of Environmental Quality regarding resource
+capabilities.
+
+• Policy #26: Agricultural Drainage Facilities
+
+Local governments shall cooperate with Coos Soil and Water Conservation District, local drainage
+districts and individual landowners in their efforts to obtain permits and funding for drainage
+projects. These projects shall include both improvement and maintenance of existing functional
+dikes, tidegates and drainage ditches and construction of new drainage facilities. Areas to be
+drained may include 'wet meadow' areas (see Policy #19) currently in agricultural use or with
+agricultural soils and not otherwise designated as "significant wildlife habitat" or "major marshes",
+subject to Policy #17. Local governments shall also encourage the formation and expansion of
+local drainage districts.
+III-110
+
+The purpose of this strategy is to reduce damage to economically valuable forage crops by
+controlling flooding of saltwater and by alleviating ponding of flood water and high water tables
+that cause serious drainage problems for farmers.
+
+This strategy recognizes that flooding is a particular problem of the Coquille River Estuary and
+that forage crop quality can be improved and grazing seasons lengthened by effective drainage
+facilities. It further recognizes that drainage districts are effective for local control and financing of
+agricultural drainage.
+
+• Policy #27: Floodplain Protection within Coastal Shorelands
+
+The respective Flood Regulations of local governments set forth requirements for uses and
+activities in identified flood areas; these shall be recognized as implementing ordinances of this
+Plan.
+
+This strategy recognizes the risk of substantial loss of stock and property damage resulting from
+the widespread flooding of the Coquille River Valley floor which occurs during most winters.
+
+• Policy #27a: Mass Movement
+
+Coos County shall require all development in known areas potentially subject to mass movement
+that lie within the Coastal Shorelands Boundary to comply with Policy #6, Natural Hazards, of the
+Coos County Comprehensive Plan, Volume 1.
+
+• Policy #28: Recognition of Statewide Planning Goal #3 (Agricultural Lands)
+Requirements for Rural Lands within the Coastal Shorelands Boundary
+
+Unless otherwise allowed through an Exception, Coos County shall manage all rural lands
+designated within the Coquille River Estuary Coastal Shorelands Boundary as being suitable for
+"Exclusive Farm Use" (EFU) designation consistent with the "Agricultural Uses Requirements" of
+ORS 215.
+
+This policy shall be implemented by using the Special Considerations Map to identify EFU-
+suitable areas, and to abide by the prescriptive use and activity requirements of ORS 215 except
+where otherwise allowed by exceptions for needed housing and industrial sites.
+
+All EFU zoned land within the Coastal Shoreland Boundary shall be designated as "Other
+Aggregate Sites" inventoried by this Plan pursuant to ORS 215.298(2). These sites shall be
+inventoried as "1B" resources in accordance with OAR 660-16-000(5)(b). Coos County will re-
+evaluate these inventoried sites pursuant to the requirements of said rule at or before the time of
+periodic review of the Comprehensive Plan. [OR-92-08-113PL 10/28/92]
+
+• Policy #28a: (Reserved)
+
+• Policy #29: Restricting Actions in Beach and Dune Areas that are "Unsuitable for
+Development"
+
+Unless otherwise allowed through an Exception, Coos County shall prohibit residential
+III-111
+development, and commercial and industrial buildings within areas designated as "Beach and
+Dune Areas Unsuitable for Development" on the Coquille River Estuary Special Considerations
+Map.
+
+I. Further, Coos County shall permit other developments in these areas only:
+
+ a. When specific findings have been made which consider:
+
+1. type of use proposed and the adverse effects it might have on the site and
+adjacent areas; and
+
+2. need for temporary and permanent stabilization programs and planned
+maintenance of new and existing vegetation; and
+
+3. methods for protecting the surrounding area from any adverse effects of the
+development; and
+
+4. hazards to life, public and private property, and the natural environment
+which may be caused by the proposed use; and
+
+5. whether drawdown of groundwater would lead to loss of stabilizing
+vegetation, loss of water quality, or intrusion of salt water into water
+supplies; and
+
+ b. When it is demonstrated that the proposed development:
+
+1. is adequately protected from any geologic hazards, wind erosion,
+undercutting, ocean flooding and storm waves; or is of minimal value; and
+
+  2. is designed to minimize adverse environmental effects; and
+
+c. When specific findings have been made, where breaching of foredunes is
+contemplated, that:
+
+1. the breaching and restoration after breaching is consistent with sound
+principles of conservation; and either
+
+2. the breaching is necessary to replenish sand supply in interdune areas; or
+
+3. the breaching is done on a temporary basis in an emergency (e.g., fire
+control, cleaning up oil spills, draining farm lands, and alleviating flood
+hazards).
+
+II. This policy shall be implemented through:
+
+a. review of the Coquille River Estuary Special Considerations Map when
+development is proposed in these areas; and
+
+b. an administrative conditional use process where findings are developed based upon
+a site investigation report submitted by the developer which addresses the
+III-112
+considerations set forth above.
+
+III. This policy recognizes that:
+
+a. The Special Considerations Map category of "Beach and Dune Areas Unsuitable for
+Development" includes the following dune forms:
+
+  1. beaches,
+
+  2. active foredunes,
+
+3. other foredunes which are conditionally stable and that are subject to ocean
+undercutting or wave overtopping, and
+
+  4. interdune areas (deflation plains) that are subject to ocean flooding.
+
+b. The measures prescribed in this policy are specifically required by Statewide
+Planning Goal #18 for the above-referenced dune forms; and that
+
+c. it is important to ensure that development in sensitive beach and dune areas is
+compatible with or can be made compatible with the fragile and hazardous
+conditions common to such areas.
+
+• Policy #30: Restricting Actions in Beach and Dune Areas with "Limited
+Development Suitability"; and Special Consideration for Sensitive Beach and
+Dune Resources
+
+I. Coos County shall permit development within areas designated as "Beach and Dune Areas
+with Limited Development Suitability" on the Coquille River Estuary Special
+Considerations Map only upon the establishment of findings that shall include at least:
+
+a. type of use proposed and the adverse effects it might have on the site and adjacent
+areas; and
+
+b. temporary and permanent stabilization programs and the planned maintenance of
+new and existing vegetation; and
+
+c. need for methods for protecting the surrounding area from any adverse effects of
+the development; and
+
+d. hazards to life, public and private property, and the natural environment which may
+be caused by the proposed use; and
+
+e. whether drawdown of groundwater would lead to loss of stabilizing vegetation, loss
+of water quality, or intrusion of saltwater into water supplies.
+
+Implementation shall occur through a site plan review process, which shall include submission of a
+site investigation report by the developer that addresses the five considerations above.
+
+II. This policy recognizes that:
+III-113
+
+a. The Special Considerations Map category of "Beach and Dune Areas with Limited
+Development Suitability" includes all dune forms except older stabilized dunes,
+active foredunes, conditionally stabilized foredunes that are subject to ocean
+undercutting or wave overtopping, and interdune areas (deflation plains) subject to
+ocean flooding;
+
+b. measures prescribed in this policy are specifically required by LCDC Goal #18 for
+the above-referenced dune forms, and that;
+
+c. it is important to ensure that development in sensitive beach and dune areas is
+compatible with, or can be made compatible with, the fragile and hazardous
+conditions common to beach and dune areas.
+
+III. Permits for beachfront protective structures shall be issued only where development existed
+on January 1, 1977 (see Section 3. Definitions for "development"). Criteria for review of all
+shore and beachfront protective structures shall provide that:
+
+ a. visual impacts are minimized;
+
+ b. necessary access to the beach is maintained;
+
+ c. negative impacts on adjacent property are minimized; and
+
+ d. long-term or recurring costs to the public are avoided.
+
+IV. Local government shall cooperate with state and federal agencies in regulating the
+following actions in beach and dune areas by sending notification of Administrative
+Conditional Use decision:
+
+a. destruction of desirable vegetation (including inadvertent destruction by moisture
+loss or root damage);
+
+ b. the exposure of stable and conditionally stable areas to erosion;
+
+c. construction of shore structures which modify current or wave patterns leading to
+beach erosion; and
+
+ d. any other development actions with potential adverse impacts.
+
+V. This strategy shall be implemented through:
+
+a. the Administrative Conditional Use application process as described previously,
+and
+
+b. review and comment by local government on state and federal permits in beach and
+dune areas.
+
+This strategy recognizes that regulation of these actions is necessary to minimize potential erosion.
+
+III-114
+• Policy #31: (Reserved)
+
+• Policy #32: Boat Ramps
+
+Local government shall encourage the provision of new boat ramps and facilities in areas
+designated to allow that use.
+
+This strategy recognizes the need for facilities to accommodate recreational boating access.
+
+• Policy #33: Water-Based Recreation
+
+Local governments support increased use of the Coquille River for water-based recreation.
+
+This strategy recognizes that water-based recreation is an opportunity for economic growth
+through tourism.
+
+• Policy #33a:  Bandon Waterfront Project and Waterfront Communities
+
+I. Local governments shall support the Bandon downtown revitalization project on the
+Bandon waterfront.
+
+This policy recognizes that maintenance and enhancement of historic, unique and scenic waterfront
+communities are important cultural and economic assets.
+
+II. Local governments shall support the maintenance and enhancement of historic, unique and
+scenic waterfront communities such as downtown Bandon.
+
+This policy recognizes the value of historic, unique and scenic waterfront communities when such
+are identified by local governments.
+
+• Policy #33b: (Reserved)
+
+• Policy #34: Recognition of Statewide Planning Goal #4 (Forest Lands)
+Requirements for Forest Lands within the Coastal Shorelands Boundary
+
+Unless otherwise allowed through an Exception, Coos County shall manage all rural lands
+designated on the Coquille River Estuary Special Considerations Map as "Forest Lands" within the
+Coastal Shorelands Boundary consistent with the "Forest Uses" requirements of LCDC Goal #4.
+
+Where the County's Comprehensive Plan identified major marshes, significant wildlife habitat and
+riparian vegetation on coastal shorelands subject to forest operations governed by the Forest
+Practices Act, the Forest Practice program and rules of the Department of Forestry shall be carried
+out in such a manner as to protect and maintain the special shoreland values of the major marshes,
+significant wildlife habitat areas, and forest uses especially for natural shorelands and riparian
+vegetation.
+
+This policy shall be implemented by using the Special Considerations Map to identify "Forest
+III-115
+Lands", and to abide by the prescriptive use and activity requirements of Statewide Planning Goal
+#4 in lieu of other management alternatives otherwise allowed for properties within the "Forest
+Lands-overlay" set forth on the Special Considerations Map, and except where otherwise allowed
+by Exception for needed housing and industrial sites.
+
+This policy recognizes that the requirements of Statewide Planning Goal #4 are equal and not
+subordinate to other management requirements of this Plan for "Forest Lands" located within the
+Coastal Shorelands Boundary.
+
+• Policy #35: Plan Implementation
+
+I. Coos County's on-going land use and community development planning process shall
+utilize the Planning Commission as its citizen involvement public consideration of the following:
+
+ a. Identification of new planning problems and issues.
+
+b. Collection and analysis of inventories and other pertinent factual information.
+
+c. Evaluation of alternative courses of action and ultimate policy choices.
+
+d. Recommendation of policy directives, based upon consideration of the County's
+social, economic, energy and environmental needs.
+
+This strategy is based upon the recognition that Coos County's public planning process is essential
+to producing rational land use and community development policies are the basis of this Plan, and
+which must be the basis for future plan revisions and modifications.
+
+II. This Plan (including the coordinated Coquille River Estuary and Shorelands Joint
+Management Agreement policies) shall be the legal basis for all land use and community
+development regulations lying within the unincorporated portions of the Coquille River
+Estuary and its shorelands as defined in this Plan.
+
+This strategy is based on the recognition that the zoning map, zoning and land development
+ordinances are simply implementation tools carry out the expressed policies and intent of the Plan.
+
+• Policy #36:  Plan Update
+
+I. Coos County shall:
+
+a. conduct a formal review of this Plan and its implementing measure to determine if
+any revision is needed;
+
+ b. base its review upon re-examination of data, problems and issues;
+
+ c. issue public statement as to whether any revision is needed;
+
+d. coordinate with other jurisdictions which are included within the Coquille River
+Estuary and its shorelands; and
+
+ e. incorporate public input into its decision.
+III-116
+
+Coos County may rely on the formal "periodic review" of this Plan to satisfy the requirements of
+this policy.
+
+This strategy is based on the recognition that a periodic review is necessary to keep this Plan
+current with local situations and events, which may change from time to time and reduce the Plan's
+ability to effectively and appropriately guide growth of the Coquille River Estuary and its
+shorelands.
+
+Coos County shall approve minor revisions/amendments to its Comprehensive Plan when justified.
+Minor revisions/amendments are smaller in scope than major revisions/amendments, and generally
+include, but are not limited to, changes in uses and activities allowed and changes in standards and
+conditions.
+
+This strategy recognizes that frequent approval of major plan revisions could ruin the integrity of
+this Plan, but that infrequent major changes must be made when need is established.
+
+• Policy #37:  County Plan Revisions and Amendments (Does not apply to
+provisions affecting City Management Units): Public Hearing Procedure
+
+Coos County shall exercise due process in considering amendments to this Plan. Public hearing
+procedures are set forth in the Coos County Zoning and Land Development Ordinance (CCZLDO)
+OR 92-05-009PL.
+
+• Policy #38:  Grandfathering of Existing Nonconforming Uses and Structures
+
+Coos County shall permit the continuation of legally established existing uses and structures
+(located outside incorporated city limits) that do not conform to the provisions of this Plan and its
+implementing ordinances.
+
+I. This policy shall be implemented:
+
+a. following the provision about non-conforming uses legally required by ORS
+215.130 and ORS 215.215, and which regulate and allow the continued existence of
+non-conforming uses and the alteration and expansion of such uses; and
+
+ b. more specific implementing ordinance measures.
+
+This policy is based on the recognition that Coos County is morally and legally bound to honor the
+traditional provisions of the "grandfather" concept.
+
+• Policy #39:  Citizen Involvement
+
+The Citizen Involvement Program presented in Volume 1, Part 1, Section 5.1 of the Coos County
+Comprehensive Plan shall be regarded as the Citizen Involvement Program for the Coquille River
+Estuary Management Plan.
+
+• Policy #40:  Conflict Resolution
+
+III-117
+Local governments shall apply an "overall conflict resolution policy" to Estuary Plan
+implementation situations where one policy or set of policies is believed to conflict with another
+policy or set of policies.
+
+This "overall conflict resolution policy" shall consist of the following:
+
+To resolve perceived conflicts between policy provisions, if and when such perception may
+occur, long-term environmental, economic, social and energy consequences expected to
+result from applying one strategy in place of another, shall be considered; the strategy that
+results in maximum public benefit, as supported by findings of fact, shall then be applied.
+
+This policy is based on the recognition that every possible attempt has been made in the
+development of these policies to balance the conflicting objectives of the respective policies, but
+also that perceived conflicts may nevertheless surface as this Estuary Plan is implemented.
+
+• Policy #41:  Maintenance of Inventories and Factual Base
+
+The Board of Commissioners shall instruct the Planning Commission to undertake special studies
+and projects deemed beneficial to the community and/or necessary to keep current certain key
+inventories that are the factual basis of this Estuary Plan.
+
+This strategy shall be implemented through on-going Planning Commission efforts to keep a
+statistical data base on Coos County's changing socio-economic characteristics -- including, but
+not limited to, population and housing data, employment statistics, traffic counts, agricultural
+production, etc.
+
+I. This strategy recognizes the necessity of keeping key planning information current, and
+further that County efforts to do so would be largely limited to collecting and analyzing
+data compiled initially by other agencies. Further, the strategy recognizes that special
+projects, like neighborhood traffic studies, may be necessary to help resolve unanticipated,
+small-scale community problems. Further, the strategy recognizes:
+
+a. the Planning Director may assist the Planning Commission in conducting necessary
+research as ordered; and
+
+b. the County may wish to continue a skeletal long-range planning staff, as necessary
+to provide technical support in efforts to maintain and update the Plan; and
+
+c. state funds will likely be available to help defray the local costs of such activities.
+
+• Policy #42: Special Allowance for Accessory Housing
+
+I. Local government may allow dwellings as an accessory use to any of the following legally-
+established uses:
+
+ a. Agriculture, as otherwise consistent with Strategy #28;
+
+ b. Airports;
+
+ c. Aquaculture;
+III-118
+
+ d. Commercial;
+
+ e. Docks and Moorage/Marinas;
+
+ f. Industrial;
+
+ g. Log Storage and Sorting Yard;
+
+ h. Mining and Mineral Extraction;
+
+ i. Recreational Uses;
+
+ j. Solid Waste Disposal;
+
+ k. Timber Farming/Harvesting, as otherwise consistent with Policy #34;
+
+ l. Utilities.
+
+II. Accessory dwellings shall only be allowed when findings document that:
+
+a. The dwelling is for a watchman or caretaker that needs to reside on-premise; and
+
+b. That the primary purpose of the dwelling is not to provide rental housing.
+
+This policy shall be implemented through ordinance measures.
+
+This policy recognizes the need for flexibility in allowing watchmen and caretaker dwellings in
+conjunction with certain commercial, industrial and other uses.
+
+• Policy #43:  Interpretation of Coastal Shorelands Boundary
+
+When a development is in the immediate vicinity of the Coastal Shorelands Boundary (CSB) and
+when such proposed development relies on a precise interpretation of the CSB, local government
+shall establish the precise location of the CSB using the seven criteria specified in the Coastal
+Shorelands Goal #17. Establishment of the exact location may require an on-site inspection. If the
+location of the CSB as shown on the Plan maps or Coastal Shorelands Inventory map is
+subsequently found to be inaccurate or misleading, the Planning Director shall make the
+appropriate determination and minor adjustments to the maps.
+
+I. This policy recognizes:
+
+a. precise location of the Coastal Shorelands Boundary may be critical for certain
+types of actions, e.g., land divisions; and
+
+b. certain features such as riparian vegetation cannot be mapped with complete
+accuracy at the scale of 1" = 800'.
+
+• Policy #44:  Planned Unit Development or Density Transfer Development on
+Parcels which are Partially within the Coastal Shorelands Boundary
+III-119
+
+This policy shall apply only to coastal shorelands within the unincorporated area. Where a parcel
+lies partially within the Coastal Shorelands Boundary (CSB), Coos County shall consider the
+portion within the CSB to be part of the total acreage for the purposes of Planned Unit
+Developments, Recreational Planned Unit Developments and Density Transfer Developments,
+provided that no new parcels are thereby created within the CSB in rural areas.
+
+This policy recognizes that while land divisions are restricted within rural shorelands, this does not
+preclude the transfer of certain development rights to the portions of a parcel upland from the CSB.
+
+• Policy #45:  (Reserved)
+
+• Policy #46:  (Reserved)
+
+• Policy #47:  Goal #5 Sites
+
+Goal #5 bird habitat is addressed in detail in Volume I, Part 2 of the Coos County Comprehensive
+Plan. This narrative is hereby adopted as part of the Coquille River Estuary Management Plan
+(CREMP).
+
+Further, the Policies of Volume I, Part I of the Plan, pertaining to "5b" and "5c" Goal #5 bird sites
+are hereby adopted as part of the CREMP.
+
+This strategy shall be implemented by contacting Oregon Department of Fish and Wildlife for
+review and comment on proposed development within the area of a 5b or 5c bird site.

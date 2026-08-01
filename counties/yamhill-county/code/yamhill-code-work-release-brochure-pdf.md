@@ -1,0 +1,239 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-work-release-brochure-pdf
+title: 'Work-Release-Brochure-PDF'
+doc_type: ordinance
+citation: 'Work-Release-Brochure-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/3707/Work-Release-Brochure-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9513007b7e9e2d303b7c3400ecde6b244ae2f2b13d794c681cfe4bf0757913a5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 144.420
+    - ORS 144.440
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Work-Release-Brochure-PDF (Work-Release-Brochure-PDF)
+
+## At a glance
+
+Work-Release-Brochure-PDF — code of Yamhill County. 2 pages.
+
+## Full text
+
+F:\WorkRelease\1145\Work Release
+Approved Property Work Release Program Staff
+& Contact Information
+
+Yamhill County Dept. of Community Justice
+615 NE 6th St
+McMinnville, OR 97128
+Phone:  (503) 434-7513
+Fax:  (503) 472-5216
+
+www.co.yamhill.or.us
+
+***All Work Release inquiries should be
+made through Yamhill County Dept. of
+Community Justice.***
+
+Work Release Officer:  Marcus Krieg
+(503) 474-4975
+
+Yamhill County Correctional Facility (including
+Work Center)
+535 NE 5th St
+McMinnville, OR 97128
+
+Entrance for Work Release Program partici-
+pants is at the north-side of the facility directly
+across from the Dept. of Community Justice
+Annex.
+
+Small property lockers are available
+for Work Release participants to
+store the below approved property:
+
+(3)   pairs underwear
+(3) bras
+(3) t -shirts
+(3) pairs of socks
+(3) pairs of pants
+(1) jacket
+(1) sweatshirt/sweater
+(1) pair of shoes
+(1) pair of boots
+(1) pair of shower shoes
+(1)   windup alarm clock
+
+*Laundry facilities are provided.*
+
+Cell phones and electronics
+of any kind are prohibited
+inside the facility for any
+reason.
+
+Lockers are subject to search at all
+times by staff.
+
+ Upon return to the facility, partici-
+pants may be subject to a urinaly-
+sis and/or intoxilyzer at the re-
+quest of staff.
+
+Operated by Yamhill County Department of
+Community Justice in partnership with Yam-
+hill County Sheriff’s Office.
+Yamhill County
+Work Release
+Program
+
+F:\WorkRelease\1145\Work Release
+TRUST, SERVICE & COMMUNITY SAFETY Authority:  When a person is sentenced to the
+custody of the Department of Corrections, the Court
+may recommend to the department that the person
+so sentenced be granted the option of serving the
+sentence by enrollment in the Work Release Pro-
+gram.  ORS 144.440
+
+ORS 144.420:  The Department of Corrections is re-
+sponsible for the quartering and supervision of per-
+sons enrolled in the Work Release Program.
+
+Mission:  The Work Release Program is based
+upon a philosophy that work release is a useful inter-
+mediate alternative between confinement and total
+release to the community.  The program provides a
+stable sentencing alternative for the Court while
+maintaining a high emphasis on community safety.
+
+Purpose:  Participation in the Work Release Pro-
+gram is a privilege extended to the participant by the
+Court, Sheriff’s Department, District Attorney’s Office
+and Community Justice.
+
+      Benefits to the Participant:
+
+Allow the offender to maintain pre-existing employ-
+ment and/or enrollment in schooling.
+
+Allow the participant to support themselves  and their
+dependents while serving a jail sentence.
+
+        Benefits to the Court:
+
+Provide a sentencing alternative to straight jail.
+
+   Benefits to the Community:
+
+Provide participants with the opportunity to pay resti-
+tution, compensation and other Court ordered finan-
+cial obligations.
+
+Provide a more successful transition of incarcerated
+individuals to the community.
+Candidates for the Work Release Program are
+screened thoroughly and must meet the below
+criteria in order to qualify for the program:
+
+• Be Court-ordered a straight jail sentence of
+at least 10 days, with no pending charges.
+
+• Have verifiable and acceptable employment
+or schooling that is not affiliated with a fami-
+ly member and is not self-employment.
+
+ Employment should be pre-existing with
+ at least 30 days on the job.
+
+ Employment does not require out of
+ state travel or exceed six days per
+ week, 12 hour days (including travel
+ time).
+
+• Agree to not operate a motor vehicle while
+in the program and have approved transpor-
+tation, ie: a licensed/insured driver or alter-
+nate approved means of transportation.
+
+• Agree to turn all paychecks over to program
+staff on designated pay days for collection
+of Room & Board fees of $20 per day.
+
+ If attending school, all Room & Board
+ fees are payable in advance.
+
+• For liability purposes, individuals with nar-
+cotic prescriptions are prohibited from en-
+rollment.
+
+Additional selection factors include:
+
+• Prior involvement in the Work Release pro-
+gram.
+
+• Current charge and prior criminal record.
+
+• Behavior/attitude while in confinement.
+Selection & Criteria   Temporary Passes and Leaves
+
+Work Release participants may be eligible for
+two personal passes per month after success-
+fully completing 30 days in the program.
+
+ Passes are taken in Yamhill County.
+
+ All passes are verified in advance by
+ program staff.
+
+Participants are eligible for treatment passes
+to attend approved treatment programs out-
+side the facility.
+
+All passes are subject to approval/denial by
+program staff in accordance with the best in-
+terests of the community, the Work Release
+Program and the participant.
+
+Removal Criteria
+
+Any Work Release participant can be removed from
+the program for any cause deemed appropriate by
+Work Release or Jail staff.
+
+General Guidelines for Removal:
+
+•  Discharge from employment.
+
+•  Inmate request.
+
+•  Violation of any program rules.
+
+•  Alleged law violations.
+
+•  Behavior and/or attitude that is detrimental
+ or reflects unfavorably upon the participant
+ or the program.
+
+•  Community safety concerns.

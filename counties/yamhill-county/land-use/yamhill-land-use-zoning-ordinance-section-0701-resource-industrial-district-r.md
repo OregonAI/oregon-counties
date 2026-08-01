@@ -1,0 +1,245 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-0701-resource-industrial-district-r
+title: 'Zoning-Ordinance-Section-0701-Resource-Industrial-District-RI-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-0701-Resource-Industrial-District-RI-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8488/Zoning-Ordinance-Section-0701-Resource-Industrial-District-RI-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 031cda6b9d4691920e888bfc13aaa4011400243786f1bc263a96da24c733c57a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 624.010
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zoning-Ordinance-Section-0701-Resource-Industrial-District-RI-PDF (Zoning-Ordinance-Section-0701-Resource-Industrial-District-RI-PDF)
+
+## At a glance
+
+Zoning-Ordinance-Section-0701-Resource-Industrial-District-RI-PDF — land use of Yamhill County. 4 pages.
+
+## Full text
+
+Yamhill County Zoning Ordinance   Page 701-1
+
+This section and related information is available at www.co.yamhill.or.us/plan/planning/planning.asp
+
+SECTION 700 B INDUSTRIAL DISTRICTS
+
+701. RESOURCE INDUSTRIAL DISTRICT (RI)  [Last amended 06/28/18; Ord. 906]
+
+701.01 Purpose.
+
+The purpose of the RI District is to accommodate the present foreseeable demand for food-packaging
+and processing industries in areas close to the resources utilized, where high weight or bulk, low-
+value, perishable produce must be transported short distances in short time to processing plants.  Such
+uses shall be compatible with existing or projected urban development, and shall not require municipal
+water supply, municipal sewage services, or other municipal services, and shall coordinate site and
+building design through application of the site design review process.
+
+701.02 Permitted Uses.
+
+In the RI District, the following uses shall be permitted subject to the standards and limitations set
+forth in subsection 701.07, and pursuant to Section 1101 for site design review:
+
+A. Fruit, nut or vegetable packing, pro cessing, warehousing or cold storage operations;
+
+B. Winery, including production and wholesale and re tail sale of wine, subject to the following:
+
+1. A winery shall be permitted to conduct on-site marketing activities events such as
+festivals and group tastings that are directly related to promotion and sale of the wine
+produced on-site with an anticipated maximum of 750 daily visitors.  Only three such
+events may be conducted in one calendar year, and the events shall not exceed a
+duration of three days.  The frequency and duration of these events may be further
+limited through site design review approval based on the adequacy of public facilities.
+
+2. A winery shall be permitted to rent or lease facilities, with or without a fee, within or
+adjacent to the winery for events such as parties, receptions, and banquets that are not
+directly related to winery promotional activities, only at the frequency customary prior
+to January 1, 1994.
+
+3. The winery shall allow only the sale of:
+
+(a) Wines produced in conjunction with the winery;
+
+(b) Items directly related to wine, the sales of which are incidental to the retail
+sale of wine on-site and do not exceed 25 percent of the total sales gross
+receipts of the retail facility.  Such items include those served by a limited
+service restaurant, as defined in ORS 624.010, and local agricultural products
+commonly sold in conjunction with wine; and
+
+(c) Wines not produced in conjunction with the winery, the sales of which are
+incidental to the sale of wine produced on-site;
+ [Amended 11/30/94; Ord. 582]
+
+Yamhill County Zoning Ordinance   Page 701-2
+C. Wholesale nursery;
+
+D. Dwelling for caretaker or watchman in conjuncti on with a permitted use.  Site design review is
+not required for the dwelling;
+[Amended 7/9/98, Ord. 648]
+
+E. Accessory uses;
+
+F. Temporary structures as may be required duri ng construction of an authorized permanent
+structure.  Such temporary structure shall be removed upon final inspection of the permanent
+structure by the Building Inspector;
+
+G. Operations conducted for the exploration of oil,  natural gas or geothermal resources, subject to
+the requirements in subsection 404.10;
+
+H. Community or municipal sewer system; and
+
+I. Signs, pursuant to the sign provisions set forth in Section 1006.
+
+ J. Accessory dwelling unit within an urban grow th boundary, subject to the standards in Section
+1014. Site design review is not required for the accessory dwelling unit.
+[Added 06/28/18; Ord.
+906]
+
+701.03 Conditional Uses.
+
+In the RI District, pursuant to the Type B application procedure set forth in Section 1301, and subject
+to the conditional use review criteria listed in Section 1202, and subject to Section 1101 for site design
+review and any other applicable criteria established by this ordinance, the following uses may be
+allowed conditionally:
+
+A. Home occupation, subject to the standard s and limitations set forth in Section 1004;
+
+B. Livestock packing, processing and warehousing;
+
+C. Utility facility, subject to Section 1101 for site design review;
+[Added 3/15/85; Ord. 408]
+
+D. Rental or lease of facilities, with or without a fee, in conjunction with an agricultural use for
+events such as parties, receptions, and banquets with the primary intent of indirect promotion
+of the product harvested or processed on the site.  [Added 11/30/94; Ord. 582]
+
+E. Four or more promotional events in a calendar y ear that are directly related to the marketing of
+products harvested or processed on the site that are reasonably expected to attract more than
+daily 750 visitors. [Added 11/30/94; Ord. 582]
+
+701.04 Similar Uses.
+
+Any use not specifically listed as a permitted or conditional use in this district that is similar in
+character, scale and performance to the permitted uses specified in subsection 701.02 may be allowed
+as a similar use, subject to the provisions of Section 1206, and pursuant to the Type A application
+procedure set forth in Section 1301.
+
+Yamhill County Zoning Ordinance   Page 701 - 3
+
+701.05 Prohibited Uses.
+
+Uses of land and water not specifically mentioned in this section, and not allowed as a similar use, are
+prohibited in the RI District.
+
+701.06 Nonconforming Uses.
+
+Nonconforming uses found in the RI District are subject to the nonconforming use provisions of
+Section 1205 as well as to any other applicable provisions of this ordinance.
+
+701.07 Standards and Limitations.
+
+In the RI District, the following standards and limitations shall apply:
+
+A. Dwelling Density.
+
+1. Permitted Uses.
+
+Not more than one (1) dwelling, as allowed for a caretaker or watchman in
+conjunction with a permitted use, shall be allowed on any parcel.
+
+2. Conditional Uses.
+
+The maximum overall dwelling density for any dwelling allowed by conditional use
+shall be established by the decision-making body subject to Section 1101 for site
+design review.
+
+B. Parcel Size and Dimension.
+
+1. Minimum Parcel Size.
+
+The minimum parcel size for any use shall be one (1) acre.
+
+2. Depth-to-Width Ratio.
+
+The maximum depth-to-width ratio for any newly-created parcel shall be 3:1.
+
+C. Setbacks.
+
+The minimum setback for all yards shall be thirty (30) feet for all uses, except as follows:
+
+1. The minimum setback shall be five (5) feet for all yards for signs.
+
+2. An accessory structure not more than fifteen (15) feet in height, at least sixty (60) feet
+from a road, and at lease ten (10) feet from any dwelling may be located a minimum
+distance of three (3) feet from the property line in a side yard or rear yard.
+
+3. Fences, walls and hedges may be permitted in any required yard or along the edge of
+any yard, subject to the clear-vision area requirements of subsection 701.07 (F).
+
+[Amended 7/9/98, Ord. 648]
+
+Yamhill County Zoning Ordinance   Page 701 - 4
+D. Parcel Coverage.
+
+The maximum parcel coverage shall be appropriate to the use, subject to Section 1101 for site
+design review.
+
+E. Access.
+
+Before a dwelling may be established on any lot or parcel as provided in this section, the
+parcel shall have a legal, safe and passable means of access by abutting at least twenty (20)
+feet either directly upon a public road, or by a private easement which is at least thirty (30)
+feet in width for its entire length and which also abuts upon a public road for at least thirty
+(30) feet.  Nothing in this section shall be construed to vary or waive the requirements for
+creation of new access contained in any Land Division Ordinance legally adopted by Yamhill
+County.
+
+F. Clear-Vision Areas.
+
+A clear-vision area shall be maintained on the corner of any parcel at the intersection of any
+two of the following: County roads, public roads, private roads serving four or more parcels;
+and railroads.  A clear-vision area shall contain no sight-obscuring structures or plantings
+exceeding thirty (30) inches in height within a triangle formed by the lot corner nearest the
+intersection, and the two points twenty (20) feet from this corner as measured along the parcel
+lines adjacent to the intersecting rights-of-way.  Trees exceeding this height may be located
+such that their branches extend into this triangle, provided they are maintained to allow at least
+twelve (12) feet of visual clearance within the triangle below the lowest hanging branches.
+
+G. Height.
+
+1. The maximum building height for any dw elling shall be thirty-five (35) feet;
+
+2. The maximum building height for all other st ructures shall be forty-five (45) feet; and
+
+3. Appurtenances usually required to be placed  above the roof level and not intended for
+human occupancy such as spires, belfries, cupolas, antennas, water tanks, ventilators,
+chimneys and wind generators are not subject to the height limitations of this
+ordinance.
+
+H. Off-street Parking.
+
+Off-street parking and loading requirements for any use in the RI District shall be as provided
+in Section 1007.

@@ -1,0 +1,613 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-117
+title: '117'
+doc_type: ordinance
+citation: '117'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4519/117
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: bd1a92db429d7c057125896b361d720c9bcc1ad569af706437c802f2c44e1a5a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.015
+    - ORS 215.010
+    - ORS 215.130
+    - ORS 215.283
+    - ORS 215.402
+    - ORS 215.416
+    - ORS 215.451
+    - ORS 215.452
+    - ORS 215.453
+    - ORS 215.454
+    - ORS 215.456
+    - ORS 624.010
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 117 (117)
+
+## At a glance
+
+117 — land use of Polk County. 13 pages.
+
+## Full text
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-1
+
+CHAPTER 117
+
+WINERIES, CIDER BUSINESSES, and FARM BREWERIES
+117.010. Purpose
+117.020. Winery - Any Production Level
+117.030. Winery - 150,000 Gallons or More Each Year
+117.040. Winery - 150,000 Gallons or More Each Year with Full-Service Restaurant
+117.050. Lawful Continuation of Certain Winery-Related Uses or Structures
+117.060. Siting a Winery as a Commercial Activity in Conjunction with Farm Use
+117.070. Cider Business - Any Production Level
+117.080. Farm Brewery
+117.090. Agri-tourism and Other Commercial Events – License
+117.100. Agri-tourism and Other Commercial Events – Permit
+117.110. Development Standards
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-2
+117.010.  PURPOSE.  The purpose of the winery, cider business, and farm brewery Chapter is to
+provide specific requirements for wineries, cider businesses, and farm breweries that are
+permitted by administrative review or as conditional uses in the EFU, FF, FFO, and AF-10 zones.
+117.020.  WINERY – ANY PRODUCTION LEVEL [ORS 215.452]. A winery may be
+permitted through the administrative review process in the EFU, FF, and FFO zones and through
+the conditional use review process in the AF-10 zone, if the winery produces wine with a
+maximum annual production of:
+(A) Less than 50,000 gallons and the winery:
+(1) Owns an on-site vineyard of at least 15 acres;
+(2) Owns a contiguous vineyard of at least 15 acres;
+(3) Has a long-term contract for the purchase of all of the grapes from at least 15
+acres of a vineyard contiguous to the winery; or
+(4) Obtains grapes from any combination of paragraphs (1), (2), or (3) of this
+subsection; or
+(B) At least 50,000 gallons and the winery:
+(1) Owns an on-site vineyard of at least 40 acres;
+(2) Owns a contiguous vineyard of at least 40 acres;
+(3) Has a long-term contract for the purchase of all of the grapes from at least 40
+acres of a vineyard contiguous to the winery;
+(4) Owns an on-site vineyard of at least 15 acres on a tract of at least 40 acres and
+owns at least 40 additional acres of vineyards in Oregon that are located within
+15 miles of the winery site; or
+(5) Obtains grapes from any combination of paragraphs (1), (2), (3) or (4) of this
+subsection.
+(C) Prior to the issuance of a permit to establish a winery under subsection (A) or (B) of
+this section, the applicant shall show that the vineyards have been planted or that the
+contract has been executed, as applicable.
+(D) In addition to producing and distributing wine, a winery established under subsection
+(A) or (B) of this section may:
+(1) Market and sell wine produced in conjunction with the winery;
+(2) Conduct operations that are directly related to the sale or marketing of wine
+produced in conjunction with the winery, including:
+(a) Wine tastings in a tasting room or other location on the premises occupied
+by the winery;
+(b) Wine club activities;
+(c) Winemaker luncheons and dinners;
+(d) Winery and vineyard tours;
+(e) Meetings or business activities with winery suppliers, distributors,
+wholesale customers, and wine-industry members;
+(f) Winery staff activities;
+(g) Open house promotions of wine produced in conjunction with the winery;
+and
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-3
+(h) Similar activities conducted for the primary purpose of promoting wine
+produced in conjunction with the winery.
+(3) Market and sell items directly related to the sale or promotion of wine produced
+in conjunction with the winery, the marketing and sale of which is incidental to
+on-site retail sale of wine, including food and beverages:
+(a) Required to be made available in conjunction with the consumption of
+wine on the premises by the Liquor Control Act or rules adopted under the
+Liquor Control Act; or
+(b) Served in conjunction with an activity authorized by paragraphs (2), (4), or
+(5) of this subsection.
+(4) Subject to subsection (G) of this section, carry out agri-tourism or other
+commercial events on the tract occupied by the winery.
+(5) Host charitable activities for which the winery does not charge a facility rental
+fee.
+(E) A winery may include on-site kitchen facilities licensed by the Oregon Health
+Authority under ORS 624.010 to 624.121 for the preparation of food and beverages
+described in subsection (D)(3) of this section. Food and beverage services authorized
+under subsection (D)(3) of this section may not utilize menu options or meal services
+that cause the kitchen facilities to function as a café or other dining establishment
+open to the public.
+(F) The gross income of the winery from the sale of incidental items or services provided
+pursuant to subsection (D)(3) to (5) of this section may not exceed 25 percent of the
+gross income from the on-site retail sale of wine produced in conjunction with the
+winery. The gross income of a winery does not include income received by third
+parties unaffiliated with the winery. At the request of Polk County, the winery shall
+submit to Polk County a written statement that is prepared by a certified public
+accountant and certifies the compliance of the winery with this subsection for the
+previous tax year.
+(G) A winery may carry out agri-tourism or other commercial events for up to 18 days per
+calendar year.
+(1)  Events on the first six days of the 18-day limit per calendar year are authorized
+by Polk County through the issuance of a renewable multi-year license, subject
+to section 117.090.
+(2)   Events on days seven through 18 of the 18-day limit per calendar year are
+authorized by Polk County through the issuance of a renewable multi-year
+permit, subject to section 117.100.
+(H) When a bed and breakfast facility is sited as a home occupation on the same tract as a
+winery established under this section and in association with the winery:
+(1)  The bed and breakfast facility may prepare and serve two meals per day to the
+registered guests of the bed and breakfast facility; and
+(2)  The meals may be served at the bed and breakfast facility or at the winery.
+(I)  As used in this section:
+(1) “Agri-tourism or other commercial events” includes outdoor concerts for
+which admission is charged, educational, cultural, health or lifestyle events,
+facility rentals, celebratory gatherings, and other events at which the
+promotion of wine produced in conjunction with the winery is a secondary
+purpose of the event.
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-4
+(2) “On-site retail sale” includes the retail sale of wine in person at the winery site,
+through a wine club, or over the Internet or telephone. [Amended by Ordinance 20-01]
+117.030.  WINERY – 150,000 GALLONS OR MORE EACH YEAR [ORS 215.453]. A
+winery may be permitted through the administrative review process in the EFU, FF, and FFO
+zones and through the conditional use review process in the AF-10 zone, subject to the following
+requirements:
+(A) The winery owns and is sited on a tract of 80 acres or more, at least 50 acres of which
+is a vineyard;
+(B) The winery owns at least 80 additional acres of planted vineyards in Oregon that need
+not be contiguous to the acreage described in subsection (A) of this section; and
+(C) The winery has produced annually, at the same or a different location, at least 150,000
+gallons of wine in at least three of the last five calendar years before the winery is
+established under this section.
+(D) Prior to the issuance of a permit to establish a winery under this section, the applicant
+shall show that vineyards described in subsection (A) and (B) of this section have
+been planted.
+(E) In addition to producing and distributing wine, a winery described in subsections (A)
+through (C) of this section may:
+(1) Market and sell wine produced in conjunction with the winery;
+(2) Conduct operations that are directly related to the sale or marketing of wine
+produced in conjunction with the winery, including:
+(a) Wine tastings in a tasting room or other location on the premises occupied
+by the winery;
+(b) Wine club activities;
+(c) Winemaker luncheons and dinners;
+(d) Winery and vineyard tours;
+(e) Meetings or business activities with winery suppliers, distributors,
+wholesale customers, and wine-industry members;
+(f) Winery staff activities;
+(g) Open house promotions of wine produced in conjunction with the winery;
+and
+(h) Similar activities conducted for the primary purpose of promoting wine
+produced in conjunction with the winery;
+(3) Market and sell items directly related to the sale or promotion of wine produced
+in conjunction with the winery, the marketing and sale of which is incidental to
+retail sale of wine on-site, including food and beverages:
+(a) Required to be made available in conjunction with the consumption of
+wine on the premises by the Liquor Control Act or rules adopted under the
+Liquor Control Act; or
+(b) Served in conjunction with an activity authorized by subsections (E)(2),
+(4), or (5) of this section;
+(4) Provide services, including agri-tourism or other commercial events, hosted by
+the winery or patrons of the winery, at which wine produced in conjunction
+with the winery is featured, that:
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-5
+(a) Are directly related to the sale or promotion of wine produced in
+conjunction with the winery;
+(b) Are incidental to the retail sale of wine on-site; and
+(c) Are limited to 25 days or fewer in a calendar year.
+(5) Host charitable activities for which the winery does not charge a facility rental
+fee.
+(F) The gross income of the winery from the sale of incidental items pursuant to
+subsection (E)(3) of this section and services provided pursuant to subsection (E)(4)
+of this section may not exceed 25 percent of the gross income from the on-site retail
+sale of wine produced in conjunction with the winery.
+(G) At the request of Polk County, the winery shall submit to Polk County a written
+statement, prepared by a certified public accountant, that certifies compliance with
+subsection (F) of this section for the previous tax year.
+(H) A winery operating under this section may operate a restaurant, as defined in ORS
+624.010, that is open to the public for no more than 25 days in a calendar year, in
+which food is prepared for consumption on the premises of the winery.
+(I) A person may not have a substantial ownership interest in more than one winery
+operating a restaurant under this section or Section 117.040.
+(J) Polk County may issue a permit for a winery operating under this section to host
+outdoor concerts for which admission is charged, facility rentals or celebratory events
+only if Polk County issued permits to wineries operating under this section in similar
+circumstances before August 2, 2011.
+(K) When a bed and breakfast facility is sited as a home occupation on the same tract as a
+winery established under this section and in association with the winery:
+(1)  The bed and breakfast facility may prepare and serve two meals per day to the
+registered guests of the bed and breakfast facility; and
+(2)  The meals may be served at the bed and breakfast facility or at the winery.
+(L) As used in this section:
+(1) “Agri-tourism or other commercial events” includes outdoor concerts for which
+admission is charged, educational, cultural, health or lifestyle events, facility
+rentals, celebratory gatherings and other events at which the promotion of wine
+produced in conjunction with the winery is a secondary purpose of the event.
+(2) On-site retail sale” includes the retail sale of wine in person at the winery site,
+through a wine club, or over the Internet or telephone. [Amended by Ordinance 20-01]
+117.040.  WINERY – 150,000 GALLONS OR MORE EACH YEAR AND A FULL-
+SERVICE RESTAURANT [ORS 215.453]. A winery may be permitted as a conditional use
+under this section in the EFU, FF, FFO, and AF-10 zones, subject to the requirements of Section
+119.070, other applicable standards of the zone, and the following:
+(A) The winery owns and is sited on a tract of 80 acres or more, at least 50 acres of which
+is a vineyard;
+(B) The winery owns at least 80 additional acres of planted vineyards in Oregon that need
+not be contiguous to the acreage described in subsection (A) of this section; and
+(C) The winery has produced annually, at the same or a different location, at least 150,000
+gallons of wine in at least three of the last five calendar years before the winery is
+established under this section.
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-6
+(D) Prior to the issuance of a permit to establish a winery under this section, the applicant
+shall show that vineyards described in subsection (A) and (B) of this section have
+been planted.
+(E) In addition to producing and distributing wine, a winery described in subsections (A)
+through (C) of this section may:
+(1) Market and sell wine produced in conjunction with the winery;
+(2) Conduct operations that are directly related to the sale or marketing of wine
+produced in conjunction with the winery, including:
+(a) Wine tastings in a tasting room or other location on the premises occupied
+by the winery;
+(b) Wine club activities;
+(c) Winemaker luncheons and dinners;
+(d) Winery and vineyard tours;
+(e) Meetings or business activities with winery suppliers, distributors,
+wholesale customers, and wine-industry members;
+(f) Winery staff activities;
+(g) Open house promotions of wine produced in conjunction with the winery;
+and
+(h) Similar activities conducted for the primary purpose of promoting wine
+produced in conjunction with the winery;
+(3) Market and sell items directly related to the sale or promotion of wine produced
+in conjunction with the winery, the marketing and sale of which is incidental to
+retail sale of wine on-site, including food and beverages:
+(a) Required to be made available in conjunction with the consumption of
+wine on the premises by the Liquor Control Act or rules adopted under
+the Liquor Control Act; or
+(b) Served in conjunction with an activity authorized by subsections (E)(2),
+(4) or (5) of this section;
+(4) Provide services, including agri-tourism or other commercial events, hosted by
+the winery or patrons of the winery, at which wine produced in conjunction
+with the winery is featured, that:
+(a) Are directly related to the sale or promotion of wine produced in
+conjunction with the winery;
+(b) Are incidental to the retail sale of wine on-site; and
+(c) Are limited to 25 days or fewer in a calendar year, unless a permit is
+obtained pursuant to subsection (I) of this section.
+(5) Host charitable activities for which the winery does not charge a facility rental
+fee.
+(F)  The gross income of the winery from the sale of incidental items pursuant to
+subsection (E)(3) of this section and services provided pursuant to subsection (E)(4)
+of this section may not exceed 25 percent of the gross income from the on-site retail
+sale of wine produced in conjunction with the winery.
+(G) At the request of Polk County, the winery shall submit to Polk County a written
+statement, prepared by a certified public accountant, that certifies compliance with
+subsection (F) of this section for the previous tax year.
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-7
+(H) A winery operating under this section may operate a restaurant, as defined in ORS
+624.010, which is limited to 25 days or fewer in a calendar year, unless a permit is
+obtained pursuant to subsection (I) of this section.
+(I)  The winery shall obtain a permit from Polk County if the winery operates a restaurant
+that is open to the public for more than 25 days in a calendar year or provides for agri-
+tourism or other commercial events authorized under subsection (E)(4) of this section
+occurring more than 25 days in a calendar year.
+(J)  In addition to any other requirements, Polk County may approve a permit application
+under subsection (I) of this section if Polk County finds that the authorized activity:
+(1) Will not force a significant change in accepted farm or forest practices on
+surrounding lands devoted to farm or forest use;
+(2) Will not significantly increase the cost of accepted farm or forest practices on
+surrounding lands devoted to farm or forest use;
+(3) Is incidental and subordinate to the retail sale of wine produced in conjunction
+with the winery; and
+(4) Does not materially alter the stability of the land use pattern in the area.
+(K) If Polk County issues a permit for agri-tourism or other commercial events, Polk
+County shall review the permit at least once every five years and, if appropriate, may
+renew the permit.
+(L) A person may not have a substantial ownership interest in more than one winery
+operating a restaurant under this section or section 117.030.
+(M) Polk County may issue a permit for a winery operating under this section to host
+outdoor concerts for which admission is charged, facility rentals or celebratory events
+only if Polk County issued permits to wineries operating under this section in similar
+circumstances before August 2, 2011.
+(N) When a bed and breakfast facility is sited as a home occupation on the same tract as a
+winery established under this section and in association with the winery:
+(1) The bed and breakfast facility may prepare and serve two meals per day to the
+registered guests of the bed and breakfast facility; and
+(2) The meals may be served at the bed and breakfast facility or at the winery.
+(O) As used in this section:
+(1) “Agri-tourism or other commercial events” includes outdoor concerts for which
+admission is charged, educational, cultural, health or lifestyle events, facility
+rentals, celebratory gatherings and other events at which the promotion of wine
+produced in conjunction with the winery is a secondary purpose of the event.
+(2) “On-site retail sale” includes the retail sale of wine in person at the winery site,
+through a wine club or over the Internet or telephone. [Amended by Ordinance 20-01]
+117.050. LAWFUL CONTINUATION OF CERTAIN WINERY-RELATED USES OR
+STRUCTURES [ORS 215.454]
+(A) A use or structure in an area zoned for exclusive farm use that exists on June 28,
+2011, may be lawfully continued, altered, restored, or replaced pursuant to ORS
+215.130 if the use or structure is located on the same tract, as defined in ORS
+215.010, as a winery established under ORS 215.283(1)(n) that produced more than
+250,000 gallons of wine in calendar year 2010.
+(B) Subsection (A) of this section does not affect the lawful continuation, alteration,
+restoration, or expansion of the winery sited on the same tract.
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-8
+(C) A winery established under ORS 215.283(1)(n) that produced more than 150,000
+gallons and not more than 250,000 gallons of wine in calendar year 2010 does not
+require a permit under ORS 215.283(2)(a). However, the winery must comply with all
+provisions of ORS 215.452 except the annual production requirements.
+(D) A use or structure that is lawfully established at a winery located in an exclusive farm
+use zone and that exists on August 2, 2011, including events and activities that exceed
+the income limit imposed by ORS 215.452, may be continued, altered, restored, or
+replaced pursuant to ORS 215.130.
+(E) Subsection (D) of this section does not affect the lawful continuation, alteration,
+restoration, or replacement of the winery sited on the same tract.
+(F) A use or structure that is lawfully established at a winery located in an exclusive farm
+use zone and that exists on June 28, 2013, including events and activities that exceed
+the income limit imposed by ORS 215.452, may be continued, altered, restored, or
+replaced pursuant to ORS 215.130.
+(G) Subsection (F) of this section does not affect the lawful continuation, alteration,
+restoration, or replacement of the winery sited on the same tract. [Amended by Ordinance 20-
+01]
+117.060. SITING A WINERY AS A COMMERCIAL ACTIVITY IN CONJUNCTION
+WITH FARM USE [ORS 215.456 and 215.453(10)].
+(A) Polk County may authorize the siting of a winery in the EFU, FF, and FFO Zoning
+Districts, pursuant to the standards that apply to a commercial activity in conjunction
+with farm use under PCZO 136.050(J) or 138.060(H), if the winery:
+(1) Does not qualify for siting under sections 117.020, 117.030, or 117.040; or
+(2) Seeks to carry out uses or activities that are not authorized by sections 117.020,
+117.030, or 117.040.
+(B) If Polk County authorizes the establishment of a winery on land zoned EFU, FF, or
+FFO, under provisions other than sections 117.020, 117.030, or 117.040 after June
+28, 2013, the gross income of the winery from any activity other than the production
+or sale of wine may not exceed 25 percent of the gross income from the on-site retail
+sale of wine produced in conjunction with the winery. The gross income of a winery
+does not include income received by third parties unaffiliated with the winery. [Amended
+by Ordinance 20-01]
+117.070.  CIDER BUSINESS – ANY PRODUCTION LEVEL [ORS 215.451]. A cider
+business may be established as a permitted use through the administrative review process on land
+zoned EFU, FF or FFO, and through the conditional use review process in the AF-10 zone, if the
+cider business produces:
+(A)  Less than 100,000 gallons of cider annually and the cider business:
+(1) Owns an on-site orchard of at least 15 acres;
+(2) Owns a contiguous orchard of at least 15 acres;
+(3) Has a long-term contract for the purchase of all of the apples or pears from at
+least 15 acres of an orchard contiguous to the cider business; or
+(4)  Obtains apples or pears from any combination of paragraphs (1), (2) or (3) of
+this subsection; or
+(B) At least 100,000 gallons of cider annually and the cider business:
+(1) Owns on on-site orchard of at least 40 acres;
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-9
+(2) Owns a contiguous orchard of at least 40 acres;
+(3) Has a long-term contract for the purchase of all of the apples or pears from at
+least 40 acres of an orchard contiguous to the cider business;
+(4) Owns an on-site orchard of at least 15 acres on a tract of at least 40 acres and
+owns at least 40 additional acres of orchard in Oregon that are located within 15
+miles of the cider business site; or
+(5)  Obtains apples or pears from any combination of paragraphs (1), (2) (3) or (4) of
+this paragraph.
+(C) In addition to any other any other activities authorized for a cider business, a cider
+business established under subsections (A) or (B) may:
+(1) Market cider produced in conjunction with the cider business.
+(2) Conduct operations that are directly related to the sale or marketing of cider
+produced in conjunction with the cider business, including:
+(a) Cider tastings in a tasting room or other location on the premises occupied
+by the cider business;
+(b) Cider club activities;
+(c) Cidermaker luncheons and dinners;
+(d) Cider business and orchard tours;
+(e) Meetings or business activities with cider business suppliers, distributors,
+wholesale customers, and cider industry members;
+(f)  Cider business staff activities;
+(g) Open house promotions of cider produced in conjunction with the cider
+business; and
+(h) Similar activities conducted for the primary purpose of promoting cider
+produced in conjunction with the cider business.
+(3) Market and sell items directly related to the sale or promotion of cider produced
+in conjunction with the cider business, the marketing and sale of which is
+incidental to on-site retail sale of cider, including food and beverages:
+(a) Required to be made available in conjunction with the consumption of
+cider on the premise by the Liquor Control Act or rules adopted under the
+Liquor Control Act; or
+(b) Served in conjunction with an activity authorized by subsection (C)(2), (4)
+or (5).
+(4) Subject to subsection (G) of this section, carry out agri-tourism or other
+commercial events on the tract occupied by the cider business.
+(5)  Host charitable activities for which the cider business does not charge a facility
+rental fee.
+(6)  Site a bed and breakfast as a home occupation on the same tract, and in
+association with, the cider business:
+(a)  The bed and breakfast facility may prepare and serve two meals per day to
+the registered guests of the bed and breakfast facility; and
+(b) The meals may be served at the bed and breakfast facility or at the cider
+business.
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-10
+(D)  A cider business may include on-site kitchen facilities licensed by the Oregon Health
+Authority under ORS 624.010 to 624.121 for the preparation of food and beverages
+described in subsection (C)(3) of this section. Food and beverage services authorized
+under subsection (C)(3) of this section may not utilize menu options or meal service
+that cause the kitchen facilities to function as a café or other dining establishment
+open to the public.
+(E) The gross income of the cider business from the sale of incidental items or services
+provided pursuant to subsection (C)(3) to (5) of this section may not exceed 25
+percent of the gross income from the on-site retail sale of cider produced in
+conjunction with the cider business. The gross income of a cider business does not
+include income received by third parties unaffiliated with the cider business.
+(F) At the request of Polk County with land use jurisdiction over the site of a cider
+business, the cider business shall submit to Polk County a written statement prepared
+by a certified public accountant that certifies the compliance of the cider business
+with subsection (E) for the previous tax year.
+(G) A cider business may carry out agri-tourism or other commercial events for up to 18
+days per calendar year.
+(1) Events on the first six days of the 18-day limit per calendar year are authorized
+by Polk County through the issuance of a renewable multi-year license, subject
+to section 117.090.
+(2) Events on days seven through 18 of the 18-day limit per calendar year are
+authorized by Polk County through the issuance of a renewable multi-year
+permit, subject to section 117.100.
+117.080.  FARM BREWERY [Senate Bill 287 (2019)]. A farm brewery may be established as a
+permitted use through the administrative review process on land zoned EFU, FF, or FFO; and
+through the conditional use review process in the AF-10 zone, if the farm brewery produces:
+(A)  Less than 150,000 barrels of malt beverages annually, inclusive of malt beverages
+produced by the farm brewery’s owners or operators at the farm brewery or
+elsewhere, through any entity owned or affiliated with the farm brewery;
+(B)  Produces less than 15,000 barrels of malt beverages annually on the farm brewery
+site; and
+(1) Owns an on-site hop farm of at least 15 acres;
+(2) Owns a contiguous hop farm of at least 15 acres;
+(3) Has a long-term contract for the purchase of all of the hops from at least 15
+acres of a hop farm contiguous to the farm brewery; or
+(4)  Obtains hops from any combination of paragraphs (1), (2) or (3) of this section.
+(5) For purposes of paragraphs (1), (2), (3), or (4) of this subsection, land planted
+with other ingredients used in malt beverages produced by the farm brewery
+counts towards the acreage minimums.
+(C) In addition to any other any other activities authorized for a farm brewery, a farm
+brewery established under subsections (A) or (B) of this section may:
+(1) Market malt beverages produced in conjunction with the farm brewery.
+(2) Conduct operations that are directly related to the sale or marketing of malt
+beverages produced in conjunction with the farm brewery, including:
+(a) Malt beverage tastings in a tasting room or other location on the premises
+occupied by the farm brewery;
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-11
+(b) Malt beverage club activities;
+(c) Brewer luncheons and dinners;
+(d) Farm brewery and hop farm tours;
+(e) Meetings or business activities with farm brewery suppliers, distributors,
+wholesale customers, and malt beverage industry members;
+(f)  Farm brewery staff activities;
+(g) Open house promotions of malt beverages produced in conjunction with
+the farm brewery; and
+(h) Similar activities conducted for the primary purpose of promoting malt
+beverages produced in conjunction with the farm brewery.
+(3) Market and sell items directly related to the sale or promotion of malt beverages
+produced in conjunction with the farm brewery, the marketing and sale of which
+is incidental to on-site retail sale of malt beverages, including food and
+beverages:
+(a) Required to be made available in conjunction with the consumption of
+malt beverages on the premise by the Liquor Control Act or rules adopted
+under the Liquor Control Act; or
+(b) Served in conjunction with an activity authorized by subsection (C)(2), (4)
+or (5).
+(4) Subject to the subsection (G) of this section, carry out agri-tourism or other
+commercial events on the tract occupied by the farm brewery.
+(5)  Host charitable activities for which the farm brewery does not charge a facility
+rental fee.
+(6)  Site a bed and breakfast as a home occupation on the same tract, and in
+association with, the farm brewery:
+(a)  The bed and breakfast facility may prepare and serve two meals per day to
+the registered guests of the bed and breakfast facility; and
+(b)  The meals may be served at the bed and breakfast facility or at the farm
+brewery.
+(D) A farm brewery may include on-site kitchen facilities licensed by the Oregon Health
+Authority under ORS 624.010 to 624.121 for the preparation of food and beverages
+described in subsection (C)(3) of this section. Food and beverage services authorized
+under subsection (C)(3) of this section may not utilize menu options or meal services
+that cause the kitchen facilities to function as a café or other dining establishment
+open to the public.
+(E)  The gross income of the farm brewery from the sale of incidental items or services
+provided pursuant to subsection (C)(3) to (5) of this section may not exceed 25
+percent of the gross income from the on-site retail sale of malt beverages produced in
+conjunction with the farm brewery. The gross income of a farm brewery does not
+include income received by third parties unaffiliated with the farm brewery.
+(F)  At the request of Polk County, the farm brewery shall submit to Polk County a written
+statement prepared by a certified public accountant that certifies the compliance of the
+farm brewery with subsection E of this section for the previous tax year.
+(G) A farm brewery may carry out agri-tourism or other commercial events for up to 18
+days per calendar year.
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-12
+(1) Events on the first six days of the 18-day limit per calendar year are authorized
+by Polk County through the issuance of a renewable multi-year license, subject
+to section 117.090.
+(2) Events on days seven through 18 of the 18-day limit per calendar year are
+authorized by Polk County through the issuance of a renewable multi-year
+permit, subject to section 117.100.
+117.090. AGRI-TOURISM AND OTHER COMMERCIAL EVENTS – LICENSE.
+(A)  Events on the first six days of the 18-day limit per calendar year must be authorized
+by Polk County through the issuance of a renewable multi-year license that:
+(1) Has a term of five years; and
+(2) Is subject to an administrative review to determine necessary conditions
+pursuant to section (C) of this section.
+(B) Polk County’s decision on a license under subsection (A) of this section is not:
+(1) A land use decision, as defined in ORS 197.015, and is not subject to review by
+the Land Use Board of Appeals.
+(2) A permit, as defined in ORS 215.402 or 227.160.
+(C) As necessary to ensure that agri-tourism or other commercial events on a tract
+occupied by a winery, cider business, or farm brewery are subordinate to the
+production and sale of wine, cider, or malted beverages and do not create significant
+adverse impacts to uses on surrounding land, Polk County may impose conditions on
+a license issued pursuant to this sections related to:
+(1) The number of event attendees;
+(2) The hours of event operation;
+(3) Access and parking;
+(4) Traffic management;
+(5) Noise management; and
+(6) Sanitation and solid waste.
+117.100. AGRI-TOURISM AND OTHER COMMERCIAL EVENTS – PERMIT.
+(A) Events on days seven through 18 of the 18-day limit per calendar year must be
+authorized by the Polk County through the issuance of a renewable multi-year permit
+that:
+(1) Has a term of five years;
+(2) Is subject to an administrative review to determine necessary conditions
+pursuant to subsection (C) of this section; and
+(3) Is subject to notice as specified in ORS 215.416 (11) or 227.175 (10).
+(B) Polk County’s decision on a permit under subsection (A) of this section is:
+(1) A land use decision, as defined in ORS 197.015, and is subject to review by the
+Land Use Board of Appeals.
+(2)  A permit, as defined in ORS 215.402 or 227.160.
+(C) As necessary to ensure that agri-tourism or other commercial events on a tract
+occupied by a winery, cider business, or farm brewery are subordinate to the
+production and sale of wine, cider, or malted beverages and do not create significant
+
+\\Earth\vol1\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\3-25-20 to current\CHAPTER 117 (2020 update).doc 117-13
+adverse impacts to uses on surrounding land, Polk County may impose conditions on
+a permit issued pursuant to this sections related to:
+(1) The number of event attendees;
+(2) The hours of event operation;
+(3) Access and parking;
+(4) Traffic management;
+(5) Noise management; and
+(6) Sanitation and solid waste.
+117.110. DEVELOPMENT STANDARDS. The following development standards shall be
+applicable to all wineries, cider businesses, and farm breweries authorized by this Chapter.
+(A) A winery, cider business, or farm brewery shall provide parking for all activities or
+uses of the lot, parcel or tract on which the winery, cider business, or farm brewery is
+established.
+(B)  An application for a winery, cider business, or farm brewery shall demonstrate
+compliance with:
+(1)  Local criteria regarding floodplains, geologic hazards, the Willamette River
+Greenway, solar access, and airport safety;
+(2)  Regulations of general applicability for the public health and safety; and
+(3)  Regulations for resource protection acknowledged to comply with any statewide
+goal regarding open spaces, scenic and historic areas, and natural resources.
+(C) For the purpose of limiting demonstrated conflicts with accepted farm and forest
+practices on adjacent lands, the proposed winery, cider business, or farm brewery
+shall:
+(1)  Establish a setback of at least 100 feet from all property lines for the winery,
+cider business, or farm brewery, and all public gathering places, unless a
+variance is granted in compliance with Chapter 122 of the Polk County Zoning
+Ordinance; and
+(2)  Provide direct road access and internal circulation for the winery, cider business,
+or farm brewery, and for all public gathering places.

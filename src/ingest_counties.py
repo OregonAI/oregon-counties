@@ -60,16 +60,83 @@ def discover_link_list(profile: dict, family: str, cfg: dict) -> list[dict]:
     `href= "..."` with a space and resolves bare filenames against a root <base> tag, so a
     strict regex silently drops every document and produces a false none-found.
     """
-    body, _ = fetch.get(cfg["listing_url"])
-    # NOT named `html` — that shadows the stdlib module this function needs for unescape().
-    page = body.decode("utf-8", "replace")
-    base = cfg.get("base_url") or cfg["listing_url"]
-    m = re.search(r'<base[^>]+href\s*=\s*["\']([^"\']+)', page, re.I)
-    if m:
-        base = urllib.parse.urljoin(cfg["listing_url"], m.group(1))
+    # A family of one or two known documents does not need discovery, and forcing it through
+    # a regex produces worse metadata than stating it: Polk's records policy is linked as
+    # `/DocumentCenter/View/3546` with no name segment at all, so a discovered title would be
+    # the string "3546". Declaring it is both more honest and more useful.
+    if cfg.get("explicit"):
+        return [dict(item) for item in cfg["explicit"]]
 
+    listings = _listing_urls(cfg)
     link_re = re.compile(cfg["link_re"], re.I)
     seen, out = set(), []
+    for listing in listings:
+        _scrape(listing, cfg, link_re, seen, out)
+
+    if cfg.get("dedupe") == "name-highest-id":
+        # CivicPlus re-uploads a replaced document under a NEW DocumentCenter id while
+        # keeping the old one linked, so the same instrument appears twice under one name —
+        # Yamhill has two `ORD638-PDF` links, ids 17344 and 17563. Keeping both would put two
+        # documents in the corpus each claiming to be Ordinance 638, with nothing telling a
+        # reader which is the law. Highest id wins: DocumentCenter ids increase monotonically,
+        # so the larger one is the later upload.
+        best: dict[str, tuple[int, dict]] = {}
+        for item in out:
+            m = re.search(r"/(\d+)/", item["url"])
+            n = int(m.group(1)) if m else 0
+            key = item["name"].lower()
+            if key not in best or n > best[key][0]:
+                best[key] = (n, item)
+        dropped = len(out) - len(best)
+        if dropped:
+            print(f"    deduped {dropped} superseded upload(s) by DocumentCenter id")
+        out = [v[1] for v in best.values()]
+    return out
+
+
+def _listing_urls(cfg: dict) -> list[str]:
+    """The page(s) to scrape.
+
+    THREE FORMS, because counties organise indexes three ways and a single `listing_url`
+    only covers the first:
+
+        listing_url                one page holding every link          (Multnomah, Lane)
+        listing_urls: [...]        several pages, named explicitly
+        index_url + index_re       an index of listing pages, walked    (Polk: /540 lists
+                                   nine Title pages, each holding the actual PDFs)
+
+    Without the third, Polk's code discovers exactly one document — the single PDF that
+    happens to be linked from the index itself — and reports success. That is the shape of
+    silent under-collection this whole pipeline keeps having to defend against.
+    """
+    if cfg.get("listing_urls"):
+        return list(cfg["listing_urls"])
+    if not cfg.get("index_url"):
+        return [cfg["listing_url"]]
+
+    body, _ = fetch.get(cfg["index_url"])
+    page = body.decode("utf-8", "replace")
+    found, seen = [], set()
+    for m in re.finditer(cfg["index_re"], page, re.I):
+        u = _encode(urllib.parse.urljoin(cfg["index_url"], html.unescape(m.group(1).strip())))
+        if u not in seen:
+            seen.add(u)
+            found.append(u)
+    if not found:
+        raise ValueError(f"index_re matched nothing on {cfg['index_url']} — the index "
+                         f"changed shape, and scraping zero pages would look like success")
+    return found
+
+
+def _scrape(listing: str, cfg: dict, link_re, seen: set, out: list) -> None:
+    body, _ = fetch.get(listing)
+    # NOT named `html` — that shadows the stdlib module this function needs for unescape().
+    page = body.decode("utf-8", "replace")
+    base = cfg.get("base_url") or listing
+    m = re.search(r'<base[^>]+href\s*=\s*["\']([^"\']+)', page, re.I)
+    if m:
+        base = urllib.parse.urljoin(listing, m.group(1))
+
     for match in link_re.finditer(page):
         # An href is HTML, so entities in it are markup, not data. Multnomah publishes
         # `chapter_29a:_references_to_ors,_1990_code_&amp;_ordinances`, and resolving that
@@ -86,7 +153,6 @@ def discover_link_list(profile: dict, family: str, cfg: dict) -> list[dict]:
         if cfg.get("exclude_re") and re.search(cfg["exclude_re"], url, re.I):
             continue
         out.append({"url": url, "name": name})
-    return out
 
 
 def discover_mco_s3(profile: dict, family: str, cfg: dict) -> list[dict]:

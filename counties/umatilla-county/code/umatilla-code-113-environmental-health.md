@@ -1,0 +1,185 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/umatilla-county
+id: umatilla-code-113-environmental-health
+title: '113 Environmental Health'
+doc_type: ordinance
+citation: '113 Environmental Health'
+authority_level: county_ordinance
+issuing_body: 'Umatilla County Board of Commissioners'
+source_url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/113_Environmental_Health.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1d9b9dbb41d5417b1d794bb2f3b6227350116fc9ca92b78e008ebd2c457614cd
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 153.005
+    - ORS 153.008
+    - ORS 153.015
+    - ORS 153.058
+    - ORS 183.310
+    - ORS 446.310
+    - ORS 448.005
+    - ORS 624.010
+    - ORS 624.310
+    - OAR 333-012-0050
+  related: []
+  supersedes: []
+tags: [umatilla-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Umatilla County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 113 Environmental Health (113 Environmental Health)
+
+## At a glance
+
+113 Environmental Health — code of Umatilla County. 2 pages.
+
+## Full text
+
+11-11
+Chapter 113
+ENVIRONMENTAL HEALTH
+Section
+113.01 Purpose
+113.02 Adoption
+113.03 Violation Proceedings
+113.04 Contested Case Proceedings
+113.05 Public Nuisance
+ 113.06 Amendments
+113.07 Remedies Not Exclusive
+113.08 Delegation
+113.09 Severability
+§113.01  PURPOSE.
+The purpose of this Chapter is to implement
+the County’s  authority to enforce the
+environmental health programs delegated to
+Umatilla County by the State of Oregon for Food
+Service Facilities, Tourist Facilities, and Pool
+Facilities.
+(Ord. 2004-16, passed 12-15-2004)
+§113.02  ADOPTION.
+The following Oregon State Statutes and
+Administrative Rules are adopted as part of this
+Chapter and are incorporated into this Chapter by
+this reference:
+A. Restaurants and Bed and Breakfast
+Facilities (including limited service restaurants,
+and temporary restau rants): ORS 624.010 to
+624.035, 624.060 to 624.110, 624.130 and 624.992
+and Administrative Rules adopted by the
+Department of Human Services (or its successor
+agency) pursuant to those statutes, including OAR
+Chapter 333, Divisions 150, 157, 158, 160 and
+170.
+B. Commissaries, mobile units and vending
+machines (including warehouses): ORS 624.310 to
+624.440, and 624.992, and Administrative Rules
+adopted by the Department of Human Services (or
+its successor agency) pursuant to those statutes,
+including OAR Chapter 333, Division 162.
+C. Tourist Facilities (including travelers’
+accommodations, hostels, picnic parks, recreation
+parks, and organizational camps): ORS 446.310 to
+446.320, 446.322 to 446.349, and Administrative
+Rules adopted by the Department of Human
+Services (or its successor agency) pursuant to those
+statutes, including OAR Chapter 333, Divisions
+29, 30, and 31.
+D. Pool Facilities (including public
+swimming pools, public spa pools, public wading
+pools, and bathhouses): ORS 448.005 to 448.060,
+448.095 to 448.100, and Administrative Rules
+adopted by the Department of Human Services (or
+its successor agency) pursuant to those statutes,
+including OAR Chapter 333, Divisions 60 and 62.
+E. Administrative Procedures: ORS
+183.310, 183.413 to 183.502, and 183.745, and
+OAR 333-012-0050 to 333-012-0070, and 137-
+003-0001 to 137-003-0092.
+(Ord. 2004-16, passed 12-15-2004)
+§113.03  VIOLATION PROCEEDINGS.
+A. The Public Health Administrator is
+delegated the authority to designate, from time to
+time, specific employees of the Umatilla County
+Public Health Department that are authorized to
+issue citations for the commission of violations of
+this Chapter. The employees so designated shall be
+deemed to be “Enforcement Officers”, within the
+meaning of ORS 153.005 to 153.145.
+B. Violations of this Chapter shall be
+deemed to be “violations”, within the meaning of
+ORS 153.008.  Violations of this Chapter are
+punishable by fines as established by ORS 153.015
+for unclassified violations.
+C. The sentence to pay a fine for a violation
+committed by a corporation shall be in an amount
+twice the fine established for a violation by an
+individual.
+D. Violation proceedings shall follow the
+process set forth in ORS 153.005 to 153.145.
+11-12
+E. Pursuant to ORS 153.058(7), violation
+proceedings must be commenced by an
+enforcement officer.
+(Ord. 2004-16, passed 12-15-2004)
+§113.04  CONTESTED CASE PROCEEDINGS.
+Enforcement Officers may enforce violations
+of this Chapter through the contested case
+proceedings process set forth in ORS  183.310,
+183.413 to 183.502, and 183.745 and OAR 333-
+012-0050 to 333-012-0070, and 137-003-0001 to
+137-003-0092.
+(Ord. 2004-16, passed 12-15-2004)
+§113.05  PUBLIC NUISANCE.
+Any facility that is operated in violation of
+this Chapter is a public nuisance and dangerous to
+health and may be abated or enjoined in any
+manner provided by law.
+§113.06  AMENDMENTS.
+All amendments to the Oregon Revised
+Statutes and Oregon Administrative Rules adopted
+and incorporated into this Chapter shall
+automatically be adopted into this Chapter as well,
+with the same effective dates as that set forth in
+such amended statutes and rules.
+(Ord. 2004-16, passed 12-15-2004)
+§113.07  REMEDIES NOT EXCLUSIVE.
+None of the remedies available to Umatilla
+County as set forth in this Chapter are exclusive.
+Nothing in this Chapter shall preclude any remedy
+otherwise available to Umatilla County, either in
+law or equity, including enforcement under
+Umatilla County Code of Ordinances Chapter 38.
+(Ord. 2004-16, passed 12-15-2004)
+§113.08  DELEGATION.
+A. The Public Health Administrator is
+delegated the authority to carry out the provisions
+of this Chapter, including those available to
+Director of Human Services (or its successor
+position title) under the Oregon Revised Statutes
+and Oregon Administrative Rules.
+B. The Public Health Administrator shall
+administer the programs necessary to enforce the
+rules adopted by the Oregon Department of Human
+Services.
+(Ord. 2004-16, passed 12-15-2004)
+§113.09  SEVERABILITY.
+If any section or part thereof of this Chapter
+shall be held illegal, unconstitutional, or void, this
+shall not be construed to render void any other
+provision or requirements of this Chapter.
+(Ord. 2004-16, passed 12-15-2004)

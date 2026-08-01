@@ -1,0 +1,291 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-153500
+title: '153500'
+doc_type: ordinance
+citation: '153500'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4481/153500
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6216b304e3f1644db4ca4a0264e1f55d6f5d682bf22ef7f654cc38018d29c4ee
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 153500 (153500)
+
+## At a glance
+
+153500 — land use of Polk County. 7 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 153.500 (2009 update).doc               153.500-1
+
+CHAPTER 153.500
+
+RICKREALL UNINCORPORATED COMMUNITY COMMERCIAL
+ (RICKREALL UC-C) ZONING DISTRICT
+
+153.510. Purpose and Intent
+153.520. Small-Scale, Low Impact Uses
+153.530. Standard Industrial Classifications
+153.540. Permitted Uses
+153.550. Uses Subject to Administrative Review
+153.560. Conditional Uses
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 153.500 (2009 update).doc               153.500-2
+
+153.510.  PURPOSE AND INTENT.   The purpose of the Rickreall Unincorporated Community
+Commercial (UC-C) Zoning District is to implement the Comprehensive Plan policies related to
+commercial development by providing for a range of service and product-oriented commercial
+activities.  This zone is applied to commercial lands within the unincorporated community of
+Rickreall.
+The intent of the RICKREALL UC-C Zoning District is to provide for commercial development
+in the unincorporated community of Rickreall.  Commercial activities in this zone generally
+consist of uses which complement agricultural and forest activities in the surrounding area, uses
+which serve the needs of the surrounding community or the needs of the traveling public, or other
+uses which are small-scale and low impact.
+153.520.  SMALL-SCALE, LOW-IMPACT USES .  Uses listed under Section 153.540(C) or
+Section 153.560(C) shall be established in a building or buildings not to exceed 4,000 square feet
+of floor space.  The floor area calculation does not include outdoor storage areas.
+Establishment of a new use or expansion of a use listed under Section 153.540(C) or Section
+153.560(C) which would exceed the 4,000 square foot standard shall require a Comprehensive
+Plan Amendment as specified in Chapter 115 of the Zoning Ordinance.
+153.530.  STANDARD INDUSTRIAL CLASSIFICATIONS .  Standard Industrial
+Classification (SIC) code numbers for most of the uses in this zone are shown in parentheses after
+the listed use.  The SIC codes are a coding system used by the federal government to identify
+specific industries.  Two-digit codes are used most often in the Zoning Ordinance to describe
+general categories of uses.  In some instances, more specific three and four-digit codes are used.
+A copy of the SIC Manual is available for use at the Community Development Department and
+provides a more detailed description of the uses described in each general category.
+153.540.  PERMITTED USES.   The following uses and their accessory buildings and uses are
+permitted.  All uses under this Section are subject to the applicable standards as set forth in
+Chapter 112 (Development Standards) and other general provisions and exceptions set forth by
+this ordinance.  No building, structure, or premises shall be used except for one or more of the
+following uses:
+(A)  Uses which serve the needs of the community and surrounding rural area or the
+traveling public:
+(1) Unlimited number of dwelling units including:
+(a) Dormitories;
+(b) Sorority and fraternity houses;
+(c) Student homes;
+(d) Boarding houses (also see accessory uses);
+(e)  Rooming houses;
+(f)  Churches;
+(g)  Community or neighborhood clubs;
+(h)  Child day care services, including pre-schools, nurseries and kindergartens
+(835);
+(i)  Apartment houses;
+(j)  Court apartments;
+(2)  Single-family residences;
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 153.500 (2009 update).doc               153.500-3
+
+(3)  Eating and drinking places (58);   (Note: The building is subject to a 6,000 square
+foot size limitation unless a Comprehensive Plan amendment is approved
+pursuant to Section 115.050 of this Ordinance).
+(4) Playgrounds, parks;
+(5) Public buildings and structures, such as librar ies, fire stations;
+(B)  Uses which complement natural resource industries:
+(1)  Laboratory-seed and soil testing, research facilities (8734);
+(2)  Fruit store and vegetable market (54);
+(3)  Greenhouse (18);
+(4)  Farm product warehousing and storage (4221);
+(5)  Farm or forest products stand, designed and used for the sale of farm crops,
+special forest products and livestock grown on farms in the local agricultural
+area, including the retail sale of incidental items accounting for no more than 25
+percent of the total sales of the farm or forest stand.  Farm or forest products
+stands do not include structures designed for residential occupancy or to
+accommodate activities other than the sale of farm crops, special forest products
+and livestock, such as structures for banquets, public gatherings or
+entertainment;
+(6)  Farm or forest implement and equipment sales; and
+(7)  Farm or forest related equipment, machinery or truck repair, including
+associated service parts facilities;
+(8)  Farm and forest supply.
+(C) Uses which are small-scale, low-impact:
+(1)  Grocery stores (54);
+(2)  News dealers, newsstands (5994);
+(3)  Auditorium;
+(4)  Billiard parlor;
+(5)  Pony riding ring (no stable);
+(6)  Printing, publishing and allied industries (27);
+(7)  Miscellaneous Retail (59);
+(8)  General merchandise stores (53);
+(9)  Community Services Schools (barber, beauty, commercial, dancing, driving,
+music, trade);
+(10)  Boat repair and haul-out facilities;
+(11)  Building materials, hardware, and garden supply (52);
+(12)  Equipment rental and leasing (735);
+(13)  Educational services, including vocation schools (82);
+(14)  Repair services (76);
+(15)  Automotive dealers and gasoline service stations (55);
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 153.500 (2009 update).doc               153.500-4
+
+(16)  Personal services (72);
+(17)  Business services (73);
+(18)  Residential homes, as defined in Section 110.477;
+(19)  Amusement game center;
+(20)  Financial, insurance and real estate offices (60, 61, 62, 63, 64, 65,67);
+(21)  Offices for membership organizations (86);
+(22)  Professional offices for engineering, accounting, research, management, and
+public relations, and legal services (81, 87);
+(23)  Medical, dental, and other allied professional offices, laboratories and
+clinics(801, 802, 803, 804, 805, 807, 809);
+(24)  Apparel and accessory stores (56);
+(25)  Veterinary clinics (074);
+(26)  Home furniture, furnishing, and equipment stores (57);
+(27)  Automotive repair, services, and parking (75);
+(28) Towing service;
+(29) Unlimited number of dwelling units including:
+(a)  Homes for the aged;
+(b)  Retirement homes;
+(c)  Rest homes;
+(d)  Nursing homes;
+(e)  Sanitariums;
+(f)  Group Care Home.
+(D) Transportation Improvements.
+[Amended by Ordinances 02-05 and 04-16]
+(E)  Wind energy systems, meteorological towers, an d photovoltaic systems that are not
+commercial power generating facilities, but not including wind energy systems
+utilizing a tower and meteorological towers that require tower lighting, are located in
+an adopted urban growth boundary, or that would require modification to the height or
+type of construction standards described in Section 112.135(C)(1).  Wind energy
+systems utilizing towers and meteorological towers are subject to standards listed in
+Sections 112.135 and 112.137. Roof-mounted, building-integrated, building-mounted
+and architectural wind energy systems that extend no more than an additional 5 feet
+above the highest ridge of the building’s roof or 15 feet above the highest eave,
+whichever is higher, and do not exceed the height limitation of the zone, are subject to
+the standards listed in Section 112.137. Photovoltaic systems are subject to the
+standards described in Section 112.138.  [Amended by Ordinance 09-06]
+153.550.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+(A)  Wind energy systems utilizing a tower and meteorological towers outside of an
+adopted urban growth boundary that are not commercial power generating facilities
+that would utilize a tower(s) that requires lighting or that requires modification to the
+height or type of construction standards described in Section 112.135(C)(1), as
+provided in Sections 112.135 and 112.137.  [Amended by Ordinance 09-06]
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 153.500 (2009 update).doc               153.500-5
+
+153.560.  CONDITIONAL USES .  When authorized under the procedure provided for
+conditional uses in this ordinance, the following uses will be permitted in any UC-C Zone:
+(A)  Uses which serve the needs of the community and surrounding rural area or the
+traveling public:
+(1)  Community center;
+(2)  Residential homes, as defined in Section 110.477;
+(3)  Private ambulance service (8099);
+(4)  Recreational vehicle park as defined in Section 110.466 (703);
+(5)  Boat, camper and trailer storage areas or lots (see Specific Conditional Uses,
+Section 120.030);
+(6)  Manufactured home parks (when developed pursuant to provisions of PCZO
+Section 119.150 (A);
+(7)  Public Utilities (49) (exempted from these regulations are: underground pipes
+and conduits and above ground electric transmission distribution,
+communication signal lines on signal lines on a single pole system);
+(8)  Communications tower, as provided in Section 112.135 (48). [Amended by Ordinance
+04-09]
+(B) Uses which complement natural resource industri es:
+(1)  Processing facilities for farm or forest products (20, 24);
+(2)  Commercial activities in conjunction with farm or forest use including activities
+related to the processing, distribution, and retail marketing of farm or forest
+products a portion of which is grown on-site; and
+(C) Uses which are small-scale, low-impact:
+(1)  General warehousing and storage (4225);
+(2)  Motor freight terminal offices (421);
+(3)  Funeral service and crematories (726);
+(4)  Billboards;
+(5)  Radio and TV transmitter stations and towers (483);
+(6)  Telephone and telegraph communication facilities (482);
+(7)  Performance theater (783);
+(8)  Kennels (boarding and raising animals);
+(9)  Miniature golf course;
+(10) Athletic club, club house (7991)(7997);
+(11) Dance hall, ballroom (791);
+(12) Summer recreational camp;
+(13) Swimming Pools;
+(14) Boat sales and service;
+(15) Utilities, secondary truck parking and materia l storage yard;
+(16) Auto racing track;
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 153.500 (2009 update).doc               153.500-6
+
+(17) U-Haul concrete mix store (5032);
+(18) Cabinet shop and sales firm (see Specific Cond itional Uses, Section
+119.150(E));
+(19) Cottage Industry Home Occupations (see Section  116.040); and
+(20)  Any other commercial use, where the buildings do not exceed 4,000 square feet
+of floor space provided that the use will not exceed the capacity of water and
+sewer service available to the site on December 5, 1994, or if such services are
+not available to the site, the capacity of the site itself to provide adequate water
+and absorb waste water.
+(D)  Wind energy systems utilizing a tower and meteorological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.
+[Amended by Ordinance
+09-06]
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 153.500 (2009 update).doc      153.500-7
+
+Appendix 1
+Rickreall Unincorporated Community Commercial Properties Inventory
+Building Size Inventory
+January 2001
+ # Tax
+Lot
+Map# Acres Dwelling Zone Owner Use Building Size sq. ft. Buildable
+1 200 7.4.30C 0.84 1 CG HANSON B M 1920 dwelling (H istoric)
+2 300 7.4.30C 0.22  CG CONRAD IRENE VERA,
+DECLARATION
+Vacant
+3 400 7.4.30C 0.12  CG CONRAD IRENE VERA,
+DECLARATION
+Vacant
+4 500 7.4.30C 0.19  CG CONRAD IRENE VERA,
+DECLARATION
+Vacant
+5 600 7.4.30C 0.4 1 CG CONRAD IRENE VERA,
+DECLARATION
+1930 dwelling
+6 700 7.4.30C 1.42 1 CG CONRAD IRENE VERA,
+DECLARATION
+1925 dwelling (Historic)
+7 5803 7.4.30C 1 1 CG ROCHA DANNY L & DORIS M 1925 dwelling
+8 400 7.4.30CA  0.92 1 CG BRIEDWELL JAMES & T CHRISTINE 1916 dwelli ng (Historic)
+9 500 7.4.30CA  3.3  CG RICKREALL FARM SUPPLY, INC Farm Supply/Gas Station-Garage 6,000 /3,584 - 20,232
+10 600 7.4.30CA  0.36 1 CG RICKREALL FARM SUPPLY, INC 1926 dwelling (Historic)
+11 700 7.4.30CA  0.3  CG MEIER PLUMBING, INC Retail store 2,132
+12 800 7.4.30CA  0.32  CG HEDGES FRANK J & MARILYN A Rickreall Mini market 3,960
+13 900 7.4.30CA  1.28 1 CG RICKREALL FARM SUPPLY, INC 1930 dwelling (Historic)
+14 2700 7.4.30CA  0.11 1 CG POTTER ROGER S 1945 dwelling
+15 2800 7.4.30CA  0.2 1 CG BELL KATHERINE A & POTTER ROGE 1952 dwelli ng
+16 2900 7.4.30CA  0.4 1 CG SEIPP MARTHA K & KENNETH LYNN 1920 dwellin g
+17 3000 7.4.30CA  0.69  CG KINGERY DOUGLAS F Automotive Repair 3,456
+18 200 7.4.31 3.85 2 CR CAUDILLO MANUEL SR 1940 & 1 935 dwellings
+19 202 7.4.31 1.54 1 CR FALK PAPROCKI JOINT TRUST F arrol's restaurant / 8 Unit Offices 5,111 / 2,982
+20 500 7.4.31 1.9 2 CG TABER A LLOYD & PATRICIA ANN  1900 dwelling, mnf. Home
+21 1600 7.4.31 0.12  CR STATE OF OREGON, DEPARTMENT  OF  Highway
+22 1200 7.5.25D 1.01  CG JACOB DAVID E RV retail sa les Inds. / Storage 4,800
+This table was created using Polk County Tax Assessors Tax Maps.  Each tax lot should not be inferred to be a separate lawfully created lot
+or parcel.  The deed to the subject property describes, in the legal description, how many lots or parcels comprise the subject property.  The
+legal status of the lots or parcels described in a deed can be determined by evaluating the land-use applications made through the Polk County
+Planning Division and the deed history of the subject property.
+[Amended by Ordinance 04-16]

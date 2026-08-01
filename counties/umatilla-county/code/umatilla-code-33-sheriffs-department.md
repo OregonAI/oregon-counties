@@ -1,0 +1,473 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/umatilla-county
+id: umatilla-code-33-sheriffs-department
+title: '33 Sheriffs Department'
+doc_type: ordinance
+citation: '33 Sheriffs Department'
+authority_level: county_ordinance
+issuing_body: 'Umatilla County Board of Commissioners'
+source_url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/33_Sheriffs_Department.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5b70d215bfa046c6d047cd411eed1c443bac4277f4eb3fa895a54a80b7d622a3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 133.525
+    - ORS 161.450
+    - ORS 166.720
+    - ORS 475.005
+  related: []
+  supersedes: []
+tags: [umatilla-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Umatilla County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 33 Sheriffs Department (33 Sheriffs Department)
+
+## At a glance
+
+33 Sheriffs Department — code of Umatilla County. 6 pages.
+
+## Full text
+
+3-13
+CHAPTER 33:  SHERIFF'S DEPARTMENT
+Section
+Disposition of Unclaimed Property
+33.01 Sheriff to submit inventory of
+property and request for
+disposition
+33.02 Disposition by sale
+33.03 Disposition by transfer to county
+33.04 Claims by owner subsequent to
+sale; Sheriff not liable
+Drug and Narcotics Trafficking;
+Property Forfeiture
+33.15 Title
+33.16 Findings
+33.17 Purpose; intent
+33.18 Definitions
+33.19 Enumeration of property to be
+forfeited
+33.20 Seizure of property without
+issuance of court process
+33.21 In rem forfeiture proceeding;
+notice to owner; owner entitled to
+trial by jury
+33.22 County to hold property during
+proceedings
+33.23 Judgment of forfeiture; disposition
+of property
+33.24 Property owner unaware of illegal
+activity exempted from forfeiture
+33.25 Application of provisions
+Procedures for the Inventory
+of Personal Property of Inmates
+of the County Jail
+33.35 Inmates procedures
+33.36 Frisk search
+33.37 Strip search
+33.38 Corrections searches
+33.39 Personal property inventory
+DISPOSITION OF UNCLAIMED PROPERTY
+§ 33.01  SHERIFF TO SUBMIT INVENTORY
+OF
+PROPERTY AND REQUEST FOR
+DISPOSITION.
+Whenever the Sheriff of the county has any
+property in his possession, the ownership of which
+is unknown, and which is unclaimed for six
+months (180 days) after the said property came
+into his possession, he shall, unless the disposition
+of such property is otherwise specifically provided
+for by law, submit an inventory of the property to
+the Board of County Commissioners.  The Sheriff
+shall also submit a request to dispose of the
+property as provided in this subchapter and the
+County Commissioners shall act upon this request
+within 30 days after its receipt.
+(Ord. 79-15, passed 4-18-79)
+§ 33.02  DISPOSITION BY SALE.
+The Sheriff may request to have the property
+disposed of by public sale.
+(A) Notice.  If the Board approves the
+request, the Sheriff shall post written or printed
+notice of sale in three public places within the
+county at least 10 days before the sale.  The notice
+shall describe the property to be sold with
+reasonable specificity and shall  state  the time and
+place of public  sale.   These
+notice requirements shall not preclude the Board of
+County Commissioners from giving additional
+notice through the various news media.
+(B)
+Sale.  All sales of property shall be by
+auction, at which the property shall be awarded to
+the highest bidder.
+(C)
+Claims by owner.   Until the date of the
+sale, the property may be claimed at the Sheriff's
+Office.  If ownership is proved to the satisfaction
+of the Sheriff, the Sheriff shall give the property to
+3-14
+the owner, and cancel the sale insofar as the
+claimed property is concerned.
+(D) Government employees not to bid.
+Members of the county government, including
+officials and employees, shall not be allowed to bid
+at the sale.
+(E)
+Proceeds to General Fund.  The Sheriff
+shall conduct the sale and shall deposit the
+proceeds thereof with County Finance to the credit
+of the General Fund.
+(Ord. 79-15, passed 4-18-79)
+§ 33.03  DISPOSITION BY TRANSFER TO
+COUNTY.
+In lieu of a sale of the property under § 33.02
+of this subchapter, the Sheriff, with the approval of
+the Board of County Commissioners, may transfer
+any portion of unclaimed property to the county for
+use by the county or other governmental agencies,
+or by destruction after giving notice of transfer or
+destruction in the same manner as set forth in
+§ 33.02(A) of this subchapter.
+(Ord. 79-15, passed 4-18-79)
+§ 33.04  CLAIMS BY OWNER SUBSEQUENT
+TO SALE; SHERIFF NOT LIABLE.
+If the property is sold as provided herein and
+if within  six  months  after the sale, the owner  of
+the
+property files with the Board of County
+Commissioners a claim for the property, proving
+his right to the same to the satisfaction of the
+Board, the Board shall direct that the amount
+received for the property, less expenses of the sale,
+shall be paid to the owner from the county
+treasury.  The Board shall not approve any claims
+filed more than six months after the sale.  If the
+property is transferred to the county or other
+governmental agency in lieu of sale, it may be
+claimed by the lawful owner thereof at any time
+within one year from the transfer to the county, or
+other governmental agency. The Sheriff in
+disposing of property in the manner provided
+herein shall not be liable to the owner thereof.
+(Ord. 79-15, passed 4-18-79)
+DRUG AND NARCOTICS TRAFFICKING;
+PROPERTY FORFEITURE
+§ 33.15  TITLE.
+This subchapter shall be known as the “Drug
+and Narcotics Trafficking Forfeiture Ordinance.”
+(Ord. 87-15, passed 4-1-87)
+§ 33.16  FINDINGS.
+The Board of County Commissioners finds
+that:
+(A) When property that constitutes the
+proceeds or instrumentalities of illegal drug or
+narcotics activity is seized from persons arrested in
+connection with criminal proceeding involving
+those activities it frequently must be returned to the
+person from whom it was seized at the conclusion
+of the criminal proceedings; and
+(B) This property is often used in connection
+with additional illegal drug or narcotics activity.
+Thus, the return of the property serves to
+encourage and perpetuate the commission of crime
+in the county.
+(Ord. 87-15, passed 4-1-87)
+§ 33.17  PURPOSE; INTENT.
+The Board of County Commissioners
+therefore declares that to protect the safety and
+welfare of county residents it is in the best interest
+of the county to:
+(A) Cripple illegal drug and narcotics
+trafficking and activity within this county by
+depriving narcotics dealers, and those persons
+dealing with them, of the instrumentalities and
+proceeds of their activity; and
+(B) Otherwise deter such activity and remove
+the operating instrumentalities, profits, and
+proceeds of illegal narcotics transactions from
+dealers; and
+3-15
+(C) Use the forfeited property to further law
+enforcement and criminal prosecutions.
+(Ord. 87-15, passed 4-1-87)
+§ 33.18  DEFINITIONS.
+For the purpose of this subchapter, the
+following definitions shall apply unless the context
+clearly indicates or requires a different meaning.
+CONSPIRACY.  As defined in ORS 161.450.
+CONTROLLED SUBSTANCES.  As defined
+in ORS 475.005(6), except that this shall not
+include less than one  avoirdupoi s ounce of
+marijuana.
+DELIVER or DELIVERY.  As defined in
+ORS 475.005(8).
+FACILITATE.  The property must have had
+some direct connection to, or be instrumental in,
+the commission of the underlying illegal activity
+which this subchapter seeks to prevent.
+MANUFACTURE.  As defined in ORS
+475.005(14).
+MARIJUANA.  As defined in ORS
+475.005(15).
+POSSESSION OF CONTROLLED SUB-
+STANCES WITH THE INTENT TO
+DISTRIBUTE.
+  As defined as a federal offense at
+21 USC 841(a)(1).
+PRODUCTION.  As defined in ORS
+475.005(19).
+PROHIBITED ACTIVITY.  To manufacture
+or deliver a controlled substance or substances or
+the possession of controlled substance or
+substances with the intent to deliver.
+(Ord. 87-15, passed 4-1-87)
+§ 33.19  ENUMERATION OF PROPERTY TO
+BE FORFEITED.
+Any person who engages in or enters into a
+conspiracy to engage in prohibited activity within
+the county shall forfeit to the county the following
+described property:
+(A) All controlled substances which are
+intended for or have been manufactured or
+delivered as defined in § 33.18.
+(B) All raw materials, products, containers,
+equipment, books, records, research materials
+(including formulas, microfilms, tapes, and data)
+of any kind which are used, or intended to be used,
+to manufacture, compound, store, process, or
+deliver any controlled substance.
+(C) All conveyances, including aircraft,
+vehicles, or vessels which are used to manufacture
+or deliver or in any manner to facilitate the
+manufacture or delivery of any controlled
+substance or any such conveyance which is used to
+transport or conceal any controlled substance.
+(D) All moneys, negotiable instruments,
+securities, or other things of value furnished or
+exchanged or intended to be furnished or
+exchanged by or to any person to facilitate any
+prohibited activity, and all proceeds and profits
+traceable to such furnishment, exchange or
+prohibited activity.
+(E) All proceeds and profits and things of
+value traceable to any prohibited activity.
+(F) All real property including any right,
+title, or interest in the whole of any lot or tract of
+land and any appurtenan ces or improvements,
+which is used to commit or facilitate the
+commission of a violation of this subchapter.
+(Ord. 87-15, passed 4-1-87)
+§ 33.20  SEIZURE OF PROPERTY WITHOUT
+ISSUANCE OF COURT PROCESS.
+Any property subject to forfeiture to the
+county under this subchapter may be seized by any
+law enforcement officer on behalf of the county
+without issuance of court process when:
+(A) The seizure is incident to an arrest or
+search pursuant to a search warrant or an
+3-16
+inspection under an administrative search; or
+(B) The property subject to seizure has been
+the subject of a judgment in favor of the county in
+a forfeiture proceeding under this subchapter; or
+(C) A law enforcement officer lawfully
+seized the property pursuant to ORS 133.525 to
+133.703, and has probable cause to believe that the
+property has been used or is intended to be used in
+or to facilitate prohibited activity as defined by this
+subchapter.
+(Ord. 87-15, passed 4-1-87)
+§ 33.21  IN REM FORFEITURE
+PROCEEDING;
+NOTICE TO OWNER; OWNER ENTITLED
+TO
+TRIAL BY JURY.
+(A) In the event of a seizure pursuant to this
+subchapter, the District Attorney, acting in the
+name of the county, may institute an in rem
+forfeiture proceeding to obtain a judgment of
+forfeiture against the seized property.
+(B) The District Attorney shall, not less than
+15 days  before bringing a forfeiture proceeding
+against
+any property, notify any record owner of the
+property that he intends to bring such an action.
+Then notice may be given by personal notice or by
+certified or registered mail to the last known
+address of the record owner.
+(C) The proceeding shall be a civil
+proceeding in an Oregon court of competent
+jurisdiction.
+(D) Any proceeding pursuant to this
+subchapter shall be instituted within 30 days after
+the property is seized on behalf of the county.
+(E) The owner of the property is entitled to a
+jury trial in any action brought pursuant to this
+subchapter.
+(Ord. 87-15, passed 4-1-87)
+§ 33.22  COUNTY TO HOLD PROPERTY
+DURING PROCEEDINGS.
+(A) Prior to obtaining any judgment of
+forfeiture any money, securities, or negotiable
+instruments that are not required or retained for
+evidence in other pending litigation shall be
+deposited with County Finance Director pending
+the outcome of forfeiture proceedings.
+(B) Any other property may be kept in the
+custody of the county.  The District Attorney may
+hold the property for the county or may deliver it
+to the County Sheriff for safe keeping until a
+forfeiture judgment is obtained.
+(Ord. 87-15, passed 4-1-87)
+§ 33.23  JUDGMENT OF FORFEITURE;
+DISPOSITION OF PROPERTY.
+If a judgment of forfeiture is obtained the
+property shall be disposed of as follows:
+(A) At the discretion of the Sheriff, the
+forfeited property may be retained for use in law
+enforcement activities.  When the Sheriff
+determines that the property is no longer needed
+for law enforcement purposes, it shall be sold in
+accordance with divisions (B) and (C) of this
+section.
+(B) Property except money, securities, and
+negotiable instruments, which is not required by
+law to be destroyed and which is not harmful to the
+public shall be sold by the Sheriff.  The sale shall
+be in any commercially feasible manner which is
+likely to obtain a reasonable selling price.  County
+employees and their immediate families shall not
+be entitled to purchase any of the forfeited
+property.
+(C) Umatilla County shall deposit the property
+or proceeds distributed to Umatilla County under
+Oregon Constitution Article XV 10(7)(c) to the
+General Fund of Umatilla County to be available
+for all lawful General Fund purposes.
+(D) In the event any section, clause, sentence
+or provision of this section should be declared for
+any reason to be invalid, such declaration of
+invalidity shall not affect the validity of any other
+3-17
+section, clause, sentence or provision of this
+section that can be given effect without such
+invalid part or parts.
+(Ord. 87-15, passed 4-1-87; Ord. 2002-09, passed
+10-2-2002)
+§ 33.24  PROPERTY OWNER UNAWARE OF
+ILLEGAL ACTIVITY EXEMPTED FROM
+FORFEITURE.
+No property shall be forfeited pursuant to this
+subchapter to the extent of an owner who did not
+consent to or was not aware of the use of the
+property in the prohibited activity.  Specifically, no
+right of any lien holder or co-owner of the property
+may be affected by a forfeiture pursuant to this
+subchapter if the co-owner or the lien holder was
+not aware of or did not consent to the prohibited
+activity.
+(Ord. 87-15, passed 4-1-87)
+§ 33.25  APPLICATION OF PROVISIONS.
+This subchapter shall not apply to those
+unlawful acts defined in ORS 166.720(1) and (2).
+(Ord. 87-15, passed 4-1-87)
+PROCEDURES FOR THE INVENTORY
+OF PERSONAL PROPERTY OF INMATES
+OF THE COUNTY JAIL
+§ 33.35  INMATES PROCEDURES.
+Inmates booked into the Umatilla County Jail
+will be searched and their personal property
+inventoried, seized and held for safe keeping in
+accordance with the procedures that follow.
+(Ord. 98-05, passed 7-22-98)
+§ 33.36  FRISK SEARCH.
+All prisoners being held or booked into the
+jail will be frisk searched by a corrections officer
+prior to being booked and admitted to the jail.
+(Ord. 98-05, passed 7-22-98)
+§ 33.37  STRIP SEARCH.
+(A) Inmates arrested for minor offenses may
+only be strip searched if corrections officials have
+a reasonable suspicion that the inmate is carrying
+or concealing a weapon or contraband, or is
+suffering from a communicable disease.  A
+reasonable suspicion is less justification than is
+necessary to authorize an arrest.  A minor offender
+is one arrested for something other than a felony,
+a Class A misdemeanor, or an offense involving
+drugs or weapons.
+(B) There must be an “individualized
+suspicion” that a specific inmate arrested for a
+minor offense is a threat to jail security or is
+suffering from a communicable disease before a
+strip search is justified.
+(C) If a strip search is conducted on an
+inmate being lodged for a minor offense, the book-
+in officer must document the reason for the strip
+search on a form designated for that purpose,
+placing a copy in the inmate's file and submitting
+a copy to the jail commander before the end of
+his/her shift.
+(D) Justification for a strip search on an
+inmate arrested for a minor offense may include,
+but is not limited to:
+(1) Assaultive or combative behavior
+during book-in.
+(2) Smell of chemicals known to be
+present in methamphetamine laboratories.
+(3) An inmate that appears to be hiding
+contraband by swallowing something during the
+frisk search, or by attempting to avoid a search of
+clothing during the frisk search.
+(4) Evidence of prior use of drugs will
+not justify a strip search, however, prior arrests or
+convictions for drug use will justify a strip search.
+(E) An inmate arrested for a felony, or a
+misdemeanor involving drugs or weapons, will be
+3-18
+strip searched.
+(F) Inmates will only be strip searched in a
+private, clean, warm place that allows for privacy
+from persons of the opposite sex and other
+inmates.
+(Ord. 98-05, passed 7-22-98)
+§ 33.38  CORRECTIONS SEARCHES.
+These searches may be conducted for the
+following reasons:
+(A) Health and sanitation in the jail.
+(B) Safety and security of the jail.
+(C) To inventory personal property of an
+inmate.
+(Ord. 98-05, passed 7-22-98)
+§ 33.39  PERSONAL PROPERTY
+INVENTORY.
+A corrections officer will inventory all the
+personal   property  of  an  inmate  and   record
+the
+inventory on the booking form.  The inmate will
+sign a receipt for his/her personal property and
+receive a duplicate copy of the signed receipt.  If
+the inmate is unable to sign during book-in, he/she
+will sign the receipt as soon as reasonably possible.
+Personal property receipts will be maintained for at
+least six months after the property is returned to
+the inmate.
+(Ord. 98-05, passed 7-22-98)

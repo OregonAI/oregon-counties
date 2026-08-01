@@ -1,0 +1,842 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/coos-county
+id: coos-code-article-3-economic-development
+title: 'Article 3 - Economic Development'
+doc_type: ordinance
+citation: 'Article 3 - Economic Development'
+authority_level: county_ordinance
+issuing_body: 'Coos County Board of Commissioners'
+source_url: https://co.coos.or.us/files/66769fb76/article_3_-_economic_development.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f2316a461f97700fe967bed14982ea2a0a8f4db9bae9cd1c489c5106608bcfa1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 190.003
+    - ORS 271.510
+    - ORS 281.045
+    - ORS 284.220
+    - ORS 457.035
+    - ORS 457.085
+    - ORS 457.095
+    - ORS 457.220
+    - ORS 457.420
+    - ORS 457.440
+  related: []
+  supersedes: []
+tags: [coos-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Coos County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Article 3 - Economic Development (Article 3 - Economic Development)
+
+## At a glance
+
+Article 3 - Economic Development — code of Coos County. 20 pages.
+
+## Full text
+
+ARTICLE III - Page 1
+ ARTICLE THREE -- ECONOMIC DEVELOPMENT
+
+DIVISION ONE - ECONOMIC IMPROVEMENT BOARD
+               [Adopted as Division One of Article III on
+June                  29, 1994]
+
+SECTION 03.01.010  DEFINITIONS
+
+As used in this Division, unless the context requi res
+otherwise, terms in this Division shall have the meaning
+given for such terms as used in ORS 271.510 to 271.540 and
+461.547.  In addition, the term "facility" shall also include
+a facility suitable for use for retail and/or tourism
+purposes.
+
+SECTION 03.01.020  DECLARATION OF COUNTY CONCERN AND
+     PURPOSE
+
+Coos County has an important and continuing role in the
+economic development and diversification of industry within
+its boundaries.  There is a need to increase long -run
+employment opportunities a nd economic stability through
+diversification by providing the physical facilities
+necessary to develop responsible and compatible family wage
+jobs in Coos County.  Continued development of industrial,
+commercial, retail, manufacturing and warehouse facilities is
+necessary to ensure the growth and prosperity of Coos County.
+ It is the purpose of this Division to provide Coos County
+with the power to acquire title or interest therein by
+purchase, gift, grant, donation, and/or otherwise to one or
+more facili ties and to lease, sell and/or convey such
+facilities to any person, firm, partnership and/or
+corporation either public or private, the primary goal of
+such transactions being to promote employment and increase
+family wage job opportunities in Coos County.
+Notwithstanding this primary goal, the eventual goal shall be
+to return to private ownership all real and/or personal
+property acquired by the County for short -term development
+purposes, in order that a long -run balance may be achieved
+between employment, provision of services, and generation of
+tax revenues.  It is further declared that the acquisition of
+title or interest therein to such facilities and the lease,
+sale and/or conveyance of such facilities as provided by this
+Division is a public purpose  and shall be regarded as
+performing an essential governmental func tion of County
+concern.
+
+SECTION 03.01.030  POWER OF COUNTY TO ACQUIRE AND
+DISPOSE OF INDUSTRIAL FACILITIES
+AND ENTER INTO JOINT AGREEMENTS
+
+Coos County is hereby empowered:
+
+ARTICLE III - Page 2
+ (1) To acquire title or interest by purchase, gift,
+grant, donation, and/or otherwise to one or more
+industrial, commercial, service, retail, tourist,
+and/or recreation facilities and lease, sell,
+and/or convey such facilities to any person, firm,
+partnership, and/or corporation either public or
+private.
+ (2) To loan, grant, and/or otherwise fund one or more
+industrial, commercial, service, retail, tourist,
+and/or recreation businesses, funds to be used to
+resolve environmental issues including wetland
+declination and/or mitigation, mill site cleanup,
+environmental impact statements and/or
+environmental assessments.
+ (3) To loan, grant, and/or otherwise fund projects for
+the recruitment, promotion, and/or marketing of
+commercial, retail, tourist, manufacturing, and/or
+industrial opportunities within the county.
+ (4) To loan, grant, and/or otherwise fund existing
+businesses to modernize and/or upgrade commercial,
+tourist, retail, manufacturing, and/or industrial
+facilities in partnership with other public or
+private community reinvestment efforts.
+ (5) To provide interim financing for projects that
+will provide economic stabilization,
+diversification, and/or employment opportunities
+in Coos County while permanent (take -out)
+financing is being arranged.
+
+SECTION 03.01.040  CREATION OF COOS COUNTY ECONOMIC
+     IMPROVEMENT BOARD
+
+ (1) There is hereby created the Coos County Economic
+Improvement Board which shall consist of eleven
+(11) residents of Coos County who shall be
+appointed by the Coos County Board of
+Commissioners.  These appointments shall reflect
+geographic representation.
+ (2) Geographic representation shall be defined as two
+(2) members from Coos Bay, two (2) members from
+North Bend, and (1) member each from the areas of
+Powers, Charleston, Myrtle Point, Coquil le,
+Bandon, Lakeside, and one at large member.
+Appointees need not reside within the city limits
+of the area from which they are chosen.
+Appointees will be chosen from an application
+process.
+ (3) The Board will consist of eleven (11) members.  Of
+the initial members, three (3) members shall be
+appointed for a term expiring December 31, 1994,
+four (4) members for a term expiring December 31,
+1995, and four (4) members for a term expiring
+December 31, 1996.  Initial terms shall be
+determined by lot.  There after, regardless of the
+
+ARTICLE III - Page 3
+date of appointment or reappointment, all terms
+shall expire on December 31 of the third year
+after the expiration of the previous term.
+
+ (4) A Board member may be removed by the Board of
+County Commis sioners for misconduct and/o r
+nonperformance of duties.  Three (3) unexcused
+absences from regularly scheduled meetings are
+defined, in part, as nonperformance of duties and
+will be reason for dismissal from this Board.
+ (5) Any vacancy on the Board shall be filled by the
+Board of Commissioners for the unexpired term.
+
+SECTION 03.01.050  ORGANIZATION OF COOS COUNTY
+ECONOMIC IMPROVEMENT BOARD; QUORUM;
+CHAIRMAN, VICE -CHAIRMAN, AND
+ADMINISTRATIVE; EXPENSES OF MEMBERS
+
+ (1) The members of the Economic Improve ment Board
+shall, at the first meeting of each year, meet and
+organize by electing a chairman and electing a
+vice-chairman.
+ (2) A majority of the members of the Economic
+Improvement Board shall constitute a quorum for
+the transaction of all business at meetings.  In
+the absence of  the chairman, the vice -chairman
+shall perform the duties of the chairman.
+ (3) The administrative duties of the Economic
+Improvement Board will be performed by the Coos
+County Economic Development Department.
+ (4) Members of the Economic Improvement Board shall be
+entitled to mileage and reimbursement of out -of-
+pocket expenses incurred in at tending official
+meetings of the Board and otherwise performing the
+official business of the Board.
+ (5) The Economic Improvement Board shall promulgate
+reasonable rules necessary for the adminis tration
+of this Division, which shall at minimum prescribe
+standards to ensure that the impacts of any
+proposed developments and/or activities are
+adequately evaluated as to their effects upon
+affected local governments.
+ (6) Notwithstanding any rule promulgated by the
+Economic Improvement Board, the Board shall
+consider for each proposed development and/or
+activity the relationship and conformance of such
+development and/or activity to any applicable
+comprehensive plan.
+ (7) No rule shall be adopted, amended, or repealed by
+the Economic Improvement Board without at least
+ten (10) days public notice of the proposed action
+and a public hearing.  Interested persons shall be
+given a reasonable opportunity at the hearing to
+submit data and/or views.
+
+ARTICLE III - Page 4
+ (8) No rule adopted by the Economic Improve ment Board
+shall be effective unless such rule is approved by
+the Coos County Board of Commissioners pursuant to
+Section 03.01.070.
+ (9) The Economic Improvement Board shall rev iew and
+approve any lease entered into with a qualified
+business for use of the Business Enterprise
+Center.
+  [97-08-008L]
+
+SECTION 03.01.060  MANAGEMENT OF FACILITIES
+
+Coos County shall not operate any facility as a business
+enterprise or in any manner except as a Le ssor, Trustee,
+Receiver, or Interim Manager to preserve equities.
+
+SECTION 03.01.070  FINAL AUTHORITY OVER BOARD ACTIONS
+
+The Economic Improvement Board shall give the Coos County
+Board of Com missioners written notice of all Economic
+Improvement Board ac tions within five (5) working days
+following any such action.  Any action taken by the Economic
+Improvement Board shall be deemed to have been fully
+considered, approved and adopted by the Coos County Board of
+Commissioners unless the Board of Commissione rs disapproves
+in writing such action within ten (10) working days from the
+date the Board of Commissioners is notified in writing by the
+Economic Improvement Board of the action taken by the
+Economic Improvement Board.
+
+SECTION 03.01.080  COOS COUNTY EC ONOMIC IMPROVEMENT
+ACCOUNT
+
+To serve the purposes of this Division, there is hereby
+created the Coos County Economic Improvement Account.  Monies
+shall be appropriated for this Account by the Coos County
+Board of Commissioners, and the Account shall be administered
+by them.
+
+ARTICLE III - Page 5
+DIVISION TWO - BUSINESS INCENTIVES
+
+SECTION 03.02.010  RESERVED
+
+SECTION 03.02.020  RESERVED
+
+SECTION 03.02.030  PURPOSE
+
+The purpose of this Division is to encourage new or expanding
+qualified business firms to locate within Coos County.
+
+SECTION 03.02.040  SCOPE
+
+This Division shall apply only to those business firms
+locating within the unincorporated areas of any enterprise
+zone in Coos County and which qualify for tax relief as
+prescribed by ORS Chapter 284.
+
+SECTION 03.02.050  ELIGIBILITY
+
+Whenever a qualified business firm, whether through expansion
+or new operation within Coos County, proposes a net payroll
+increase for a full calendar year of one new full -time or
+full-time equivalent job, it becomes eligible for job
+credits.  The Coos County Planning Department will issue a
+"certificate of eligibility" to the qualified business firm
+based on its sworn statement of intent; the certificate will
+state the number of new jobs to be created.  A sample of said
+certificate is attached hereto labeled Appendix III - One,
+attached hereto and incorporated herein by this reference.
+
+SECTION 03.02.060  JOB CREDIT
+
+For each new job stated on the "certificate of eligibility,"
+the business will receive a credit of Three Thousand
+($3,000.00) Dollars usable over a five (5) year period
+against fees otherwise due to Coos County.
+
+SECTION 03.02.070  FEES OFFSET
+
+All business license and land development fees as set forth
+in Appendix III - Two, attached hereto and incorporated
+herein by this r eference may be offset by accrued job
+credits.  Credits accrued may be used only to waive fees
+directly related to the subject business's management or
+operation.  Require ments for bonds, and the costs thereof,
+are NOT affected or waived by this Division.
+
+ARTICLE III - Page 6
+
+SECTION 03.02.080  CESSATION OF ELIGIBILITY
+
+If a qualified business firm fails to comply with Section
+03.02.050 (above), based upon confirmation of information
+contained in a complaint filed with the Planning Department,
+then the Board of Commissione rs may rescind the fee offset
+provided by Section 03.02.070 and demand reimbursement.
+
+ARTICLE III - Page 7
+ APPENDIX III - ONE
+
+Credit Permit No._____________
+
+          JOB CREDIT PERMIT
+
+Applicant _________________________Phone __________________
+
+Address ___________________________________________________
+
+Name of Business __________________________________________
+
+Type of Business __________________________________________
+
+Location (if different from above)
+
+____________________________________________________________
+
+_____ New Business: ________ Current number of
+
+        employees*
+_____ Expanding Business: ________ Current number of
+                                       employees*
+_____ Number of new employees*
+*(full-time or full-time equivalent)
+
+ CERTIFICATE OF ELIGIBILITY
+
+I, __________________________ , owner or agent of
+
+___________________________________________________,
+(business name)
+
+certify that the business described above meets the
+requirements for tax relief prescribed by ORS 284.220.  I
+also agree to reimburse Coos County in the amount of any fees
+waived by this application if ordered to do so by the Board
+of Commissioners pursuant to Section 8 of the Ordinance.
+
+______________________ _____________________________
+Date Signature of owner or agent
+
+_______________________ _____________________________
+Date Notary Public for Oregon
+ My Commission expires________
+
+************************************************************
+Qualified Business: ____yes  _____no
+Total Amount of Credit $____________________
+5 year Credit Period:_______________________
+
+Date________________ Approved_______________________
+
+ARTICLE III - Page 8
+cc:
+ HISTORY OF FEES COLLECTED
+
+  Year    Fee     Date  Amount
+
+ARTICLE III - Page 9
+ APPENDIX III - TWO
+
+ FEES ELIGIBLE TO BE WAIVED
+ (Not to Include any Required Bonds)
+
+ZONING AND LAND DEVELOPMENT PERMITS
+
+ - Appeals
+ - Changes in Zone Designations
+ - Classifications of a Use
+ - Comprehensive Plan Amendments (with or without an
+exception)
+ - Conditional Uses
+ - Land Division - Minor Partition
+ - Land Division - Major Partition
+ - Land Division - Subdivision/Planned Community
+  Development
+ - Ordinance Amendment
+ - Site Plans
+ - Variances
+ - Zoning Clearance Letters
+ - Other Administrative Zoning Actions
+
+OTHER
+
+ - Annexations
+ - Business Licenses
+ - Service Driveway Access Permits
+ - Vacations (Public Rights-of-Way)
+
+ARTICLE III - Page 10
+DIVISION THREE - URBAN RENEWAL AGENCY
+
+SECTION 03.03.010  RESERVED
+
+SECTION 03.03.020  RESERVED
+
+SECTION 03.03.030  FINDINGS AND PURPOSE
+
+The Board of Commissioners finds that:
+ (1) Certain areas of Coos County such as the "North
+Spit" and adjacent shore land and aquatic areas
+are areas which, by reason of deterio ration,
+faulty pla nning, inadequate or improper
+facilities, deleterious land use or the existence
+of unsafe structures, or any com bination of these
+factors, are detrimental to the safety, health or
+welfare of the community.
+ (2) These areas are characterized by the exist ence of
+one or more of the following:
+  (a) Existence of buildings and structures used or
+intended to be used for living, commercial,
+industrial or other purposes, which are unfit
+to occupy because of defective design,
+quality of physical construction, fau lty
+interior arrangement, inade quate provision
+for lights, sanitation, obsolescence,
+deterioration or dilapidation;
+  (b) Economic dislocation, deterioration or disuse
+of property resulting from faulty planning;
+  (c) The existence of inadequate streets and other
+rights-of-way and utilities;
+  (d) The existence of property or lots or other
+areas which are subject to inundation by
+water; or
+  (e) A growing or total lack of proper utilization
+of areas, resulting in a stagnant and
+unproductive condition o f land potentially
+useful and valuable for contributing to the
+public health, safety, and welfare.
+ (3) It is in the public interest to activate the Coos
+County Urban Renewal Agency previously created by
+ORS 457.035 to exercise such powers as may be
+necessary to eliminate the blight on these areas.
+
+Section 03.03.040  DECLARATIONS AND APPOINTMENTS
+
+ (1) Blighted areas exist in Coos County such as the
+"North Spit" and adjacent shore land and aquatic
+areas; the general location of these are shown on
+the atta ched map labeled Appendix III - Three,
+attached hereto and incorporated herein by this
+
+ARTICLE III - Page 11
+reference.
+ (2) There is a need for an Urban Renewal Agency to
+function in the County.
+ (3) The Coos County Urban Renewal Agency is hereby
+activated.
+ (4) The powers of the Coos County Urban Renewal Agency
+shall be exercised by a Commission composed of ten
+(10) members appointed by the Coos County Board of
+Commissioners.  The first eight (8) members of the
+Commission shall be two (2) officials from each of
+the following governing bodies:
+  (a) The City Council of the City of Coos Bay;
+  (b) The City Council of the City of North Bend;
+  (c) The Port Commission of the Oregon
+International Port of Coos Bay; and
+  (d) The Coos County Board of Commissioners
+  The remaining two members of the Commission shall
+be appointed by the Coos County Board of
+Commissioners from the public-at-large.
+  In appointing the first eight (8) members, the
+Board of Commission ers shall consider
+recommendations made by each of the respective
+governing bodies.
+ (5) The Commission appointed pursuant to Subsection
+(4) of this Sec tion shall exercise the powers of
+the Agency only at meetings of the Commission
+where at least a majority of the members are
+present and upon an affirmative vote of at least a
+majority of the members present.
+ (6) The members of the Commission appointed pursuant
+to Subsection (4) of this Section shall serve for
+a term of two years from the date of appointment
+or until a successor is appointed by the Coos
+County Board of Commissioners.  The initial terms
+shall expire on December 31st and shall be
+staggered so that one member from each governing
+body shall expire each year.  Notwithstanding the
+above, a member appointed from a governing body
+shall forfeit appointment to the Commiss ion upon
+expiration of office or resignation from the
+governing body.  The term of a member appointed to
+fill any vacancy shall be for the remainder of the
+term of the member replaced.
+
+SECTION 03.03.050  THE URBAN RENEWAL PLAN
+
+The Urban Renewal Agency , or its staff, shall prepare an
+Urban Renewal Plan that shall:
+ (1) Describe each urban renewal project to be under -
+taken;
+ (2) Provide an outline of the development,
+redevelopment, improvements, land acquisition and
+rehabilitation of the urban renewal a reas of the
+plan;
+
+ARTICLE III - Page 12
+ (3) Contain a map and legal description of the urban
+renewal areas;
+ (4) Explain its relationship to definite local
+objectives regarding appro priate land uses and
+improved traffic, public transporta tion, public
+utilities, recreational and community facilities
+and other public improvements;
+ (5) Indicate proposed land uses, maximum densities and
+building requirements for the urban renewal area;
+ (6) Describe the methods to be used for the temporary
+or permanent relocation of persons li ving in, and
+businesses situated, in the urban renewal areas,
+if any;
+ (7) Indicate what real property may be acquired and
+the anticipated disposition of said real property,
+whether by retention, resale, lease or other legal
+use, together with an estimated  time schedule for
+such acquisition and disposition; and
+ (8) Describe what type of possible future amendments
+to the plan that may be so substantial as to
+require the same notice, hearing and approval
+procedure required of the original plan under ORS
+457.095 as provided in ORS 457.220.
+
+SECTION 03.03.060  URBAN RENEWAL REPORT
+
+ (1) The Urban Renewal Plan shall be accompanied by a
+report containing:
+  (a) A description of physical, social and
+economic conditions in the urban renewal
+areas of the plan, and  the expected impact,
+including the fiscal impact, of the plan in
+light of added services or increased
+population;
+  (b) Reasons for selection of each urban renewal
+area in the plan;
+  (c) The relationship between each project to be
+undertaken under the pl an and the existing
+conditions in the urban renewal area;
+  (d) The estimated cost of each project and the
+sources of monies to pay such costs;
+  (e) The anticipated completion dates for each
+project;
+  (f) The estimated amount of money required in the
+urban renewal areas under ORS 457.420 to
+457.440, and the anticipated year in which
+indebtedness will be retired or otherwise
+provided for under ORS 457.440;
+  (g) A financial analysis of the plan with
+sufficient information to determine
+feasibility;
+  (h) A fiscal impact statement that estimates the
+impact of the tax increment financing, both
+until and after the bonds are repaid, upon
+
+ARTICLE III - Page 13
+   all entities levying taxes upon property in
+the urban renewal area; and
+  (i) A relocation report, if necessary.
+
+SECTION 03.03.070  PRESENTATION
+
+The foregoing Urban Renewal Plan and accompanying Report
+shall be present ed to the Coos County Planning Commission
+upon completion for recommenda tions and then to the Coos
+County Board of Commissioners for further action as provided
+by law.
+
+SECTION 03.03.080  WHEN APPROVAL BY VOTERS REQUIRED
+
+Any ordinance incorporating a plan amendment meeting the
+definition of “substantial amendments” under ORS
+457.085(2)(i) must be approved by the electors of the County
+at the next primary or general election for which the filing
+deadline can be met or, at the discretion of the Board of
+Commissioners, at a regularly scheduled special election,
+before becoming e ffective.  [12 -07-001L; effective
+11/19/2012]
+
+ARTICLE III - Page 14
+ APPENDIX III - THREE
+
+This appendix is a map of the Blighted Area of the North Spit
+and is located in the records of the Coos County Clerk, Board
+of Commissioners Microfilm Number 89-2-0027.
+
+ARTICLE III - Page 15
+DIVISION FOUR - NORTH BAY URBAN RENEWAL PLAN
+
+SECTION 03.04.010  RESERVED
+
+SECTION 03.04.020  RESERVED
+
+SECTION 03.04.030  PURPOSE
+
+The purpose of this Division is to approve and incorporate by
+reference the North Bay Urban Renewal Plan which was
+forwarded by the Coos County Urban Renewal Agency to the Coos
+County Planning Commission for recommen dations, approved as
+is and presented to the Board of Commissioners pursuant to
+ORS 457.085.
+
+SECTION 03.04.040  NORTH BAY URBAN RENEWAL AREA
+BOUNDARY
+
+The North Bay Urban Renewal Area boundary is generally as
+shown on the map attached hereto labeled Appendix III - Four,
+attached hereto and incor porated herein by reference.  The
+North Bay Urban Renewal Area boundary legal description is
+also attached hereto labeled Appendix III - Five, attached
+hereto and incorporated herein by this reference.
+
+SECTION 03.04.050  FINDINGS
+
+In addition to the North Bay Urban Renewal Plan, an
+accompanying report, referred to as the North Bay Urban
+Renewal Report, Appendix III - Six, attached hereto and
+incorporated herein by this reference, was forwarded by the
+Coos County Urban Renewal Agency to the Coos County Planning
+Commission for recommendations.  After considering the Plan,
+accompanying Report, Planning Commission recommendation and
+public testimony, the Board of Commissioners for Coos County
+hereby makes the following determinations and findings:
+ (1) The North Bay Urban Renewal Area as shown and
+described in Appendix III - Five and Six is a
+blighted area because:
+  (a) The area's utilities, particularly its
+sanitary and industrial waste water
+collection and treatme nt systems, are
+inadequate and in major portions of the area
+are nonexistent.
+  (b) The area's present road network is deficient
+both internally and in linkages to Highway
+101.  Railroad access is also inade quate to
+serve the area's industrial sites.
+  (c) A combination of poor planning and lack of
+planning have contributed to improper
+
+ARTICLE III - Page 16
+placement of existing infrastructure.
+Specifically, the only existing access road
+to some industrial parcels actually
+trespasses private property in some locations
+and in o ther locations effectively cuts off
+access from upland industrial sites to the
+waterfront.
+ (2) The rehabilitation and redevelopment of the above
+mentioned Urban Renewal Area is necessary to
+protect the public health, safety and welfare of
+Coos County because:
+  (a) The Coos County property tax income from the
+area for fiscal 1985-86 is inadequate to pay
+for the public facilities the area needs and
+must have if high job producing and taxpaying
+developments are to be realized.
+  (b) It is necessary to incorp orate the entire
+area into an urban renewal area to assure an
+integrated and comprehensive ap proach to the
+area's development, including assisting in
+the financing of the area's infrastructure.
+  (c) In improving the public infrastructure, the
+area will b e more attractive to private
+sector investment, which in turn will improve
+the property tax base, increase the number of
+jobs, and significantly assist in protecting
+the public's investments that have been and
+will be made in the area.
+ (3) As discussed in Section 6 of the Plan, the North
+Bay Urban Renew al Plan conforms to the
+comprehensive plan for Coos County as a whole
+including the Goals 9, 16 and 17 economic elements
+of the Coos County Comprehen sive Plan.  It also
+conforms to the following local plans acknowledged
+by the Oregon Land Conservation and Development
+Commission and sections of the Bureau of Land Man-
+agement's land use plan relevant to the North Bay
+area:
+  (a) Coos Bay Estuary Management Plan and
+implementing Division measures.
+  (b) North Bend Comprehensive Plan and its
+implementing ordinances.
+  (c) Coos Bay Comprehensive Plan and its
+implementing ordinances.
+  (d) South Coast -Curry Management Framework Plan
+for the Coos Bay District of the Bureau of
+Land Management, plan amendment and preferred
+Bureau of Land Management land use
+alternative.
+ (4) While the acquisition of developed and occupied
+property by the Urban Renewal Agency is not
+anticipated, should conditions arise that warrant
+such action, the Urban Renewal Agency would
+provide assistance to persons or businesses
+displaced in finding replacement facilities.  All
+
+ARTICLE III - Page 17
+displaced persons or businesses would be contacted
+to determine such relocation needs.  They would be
+provided infor mation on available space and be
+given assistance i n moving.  All relocation
+activities would be undertaken and payments made
+in accordance with the requirements of ORS 281.045
+- 281.105 and, except in the relocation of elderly
+or handicapped individuals, without displacing on
+priority lists persons alrea dy waiting for
+existing federally subsidized housing.
+ (5) At the time of Plan approval, no real property has
+been identified for acquisition.  However,
+property acquisition, including limited interest
+acquisition, may be a useful tool for plan
+implementation at a later date.  Acquisition of
+real property, if at all, shall only be done
+pursuant to the policies and procedures set forth
+in Section 7 of the Plan and then only if it is
+necessary for accomplishing the purposes of this
+Plan.
+ (6) Approval and car rying out of the urban renewal
+plan is economically sound and feasible as is
+discussed in Section 6 of the North Bay Urban
+Renewal Report, pp. 30 -40, which is adopted in
+support thereof.
+ (7) Coos County shall assume and complete any
+activities prescribed it by the North Bay Urban
+Renewal Plan.
+
+SECTION 03.04.060  INCORPORATION AND APPROVAL
+
+The North Bay Urban Renewal Plan labeled Appendix III -
+Seven, attached hereto and incor porated herein by this
+reference, is hereby approved by the Coos County Board of
+Commissioners.  A copy thereof shall be filed and available
+for public inspection in the Office of the Coos County Clerk.
+ Notice of plan approval and Ordinance adoption shall be
+published in The World newspaper in Coos Bay, Oregon as
+provided by ORS 457.095 and 457.115.
+
+ARTICLE III - Page 18
+ APPENDIX III - FOUR
+
+This appendix is a map of the North Bay Urban Renewal Area
+and is located in the records of the Coos County Clerk, Board
+of Commissioners Microfilm Number 87-2-592.
+
+ APPENDIX III - FIVE
+
+This appendix is a legal description of the North Bay Urban
+Renewal Area and is located in the records of the Coos County
+Clerk, Board of Commissioners Microfilm Number 87 -2-593 to
+595.
+
+ APPENDIX III - SIX
+
+This appendix is the North Bay Urban Renewal Report and is
+located in t he records of the Coos County Clerk, Board of
+Commissioners Microfilm Number 86-2-646 to 693.
+
+ APPENDIX III - SEVEN
+
+This appendix is the North Bay Urban Renewal Plan and is
+located in the records of the Coos County Clerk, Board of
+Commissioners Microfilm Number 87-2-596 to 645.
+
+ARTICLE III - Page 19
+DIVISION FIVE - REGIONAL FIBER CONSORTIUM
+    [Adopted as Division Five of Article III on
+    November 3, 1999]
+
+SECTION 03.05.010  RESERVED
+
+SECTION 03.05.020  RESERVED
+
+SECTION 03.05.030  FORMATION
+
+The purpose of this Divi sion is to participate in an
+intergovernmental entity, to be known as the Fiber South
+Consortium, by an intergovernmental agreement entered into by
+Coos County and other units of local government pursuant to
+the provisions of ORS 190.003 et seq.
+
+SECTION 03.05.040  PUBLIC PURPOSE
+
+The public purposes for which the Regional Fiber Consortium
+shall be created shall be:
+ (1) To assume ownership and control of fiber optic
+cable obtained by the consortium, or by any member
+of government, that the government in i ts
+discretion deems appropriate to contribute to the
+consortium.
+ (2) To provide for the members a fiber optic system,
+or components thereof, that is consistent with
+available resources and best serves the public
+interest in an efficient manner.
+ (3) To pr ovide a forum for communication and
+consultation among members and to provide an
+opportunity for a cooperative and equitable
+sharing of the expenses, data, expertise,
+experience, and plans of each unit of local
+government.
+ (4) It feasible for and agreeabl e to some or all of
+the members, take joint or common action to
+provide the appropriate level of communication
+services to the citizens of the various
+jurisdictions.
+ (5) To acquire such additional tangible and intangible
+assets as are deemed necessary to fulfill the
+other purposes of the consortium.
+
+SECTION 03.05.050  POWERS, DUTIES, AND FUNCTIONS
+
+The powers, duties, and functions of the Regional Fiber
+Consortium shall be:
+ (1) Plan for fiber optic system development for the
+consortium.
+
+ARTICLE III - Page 20
+ (2) Direct and manage the use of a fiber optic system
+or systems obtained by the consortium or its
+members.
+ (3) When requested, act as the agent of the members in
+the preparation and negotiation of agreements
+concerning the acquisition, management, and use of
+the consortium's fiber optic system.
+ (4) Carry out further responsibilities and functions
+as provided by the members.

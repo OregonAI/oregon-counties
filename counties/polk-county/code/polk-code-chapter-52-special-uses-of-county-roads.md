@@ -1,0 +1,148 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-code-chapter-52-special-uses-of-county-roads
+title: 'Chapter-52-Special-Uses-of-County-Roads'
+doc_type: ordinance
+citation: 'Chapter-52-Special-Uses-of-County-Roads'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/3073/Chapter-52-Special-Uses-of-County-Roads
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0445af19ad875adbb4cd7fc8988e51b5c1932075478b5a09a0d7e786d06f5c4c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter-52-Special-Uses-of-County-Roads (Chapter-52-Special-Uses-of-County-Roads)
+
+## At a glance
+
+Chapter-52-Special-Uses-of-County-Roads — code of Polk County. 3 pages.
+
+## Full text
+
+52-1
+ CHAPTER 52          1993
+
+ SPECIAL USES OF COUNTY ROADS
+
+ 52.100  DEFINITIONS.
+
+ As used in this chapter, unless the context requires otherwise:
+
+ (1) "Applicant" means individual or entity applying to the County for permission to
+temporarily close or use certain limited portions of various County and public roads.
+
+ (2) "Board" means the Board of Commissioners of Polk County.
+
+ (3) "County Road" means a road under the jurisdiction of a county that has been
+designated as a county road by the County.
+
+ (4) "Director" means the Director of the Polk County Public Works Department.
+
+ (5) "Motor Vehicle" means a vehicle that  is self-propelled or designed for self-
+propulsion.
+
+ (6) "Road" means the entire right-of-way of  any public or private way that provides
+ingress to or egress from property by means of motor vehicles or other means or that provides travel
+between places by means of motor vehicles. "Road" includes, but is not limited to:
+
+  (a) Ways described as streets, highways, throughways, or alleys;
+
+  (b) Road related structures that are in the right-of-way such as tunnels, culverts,
+or similar structures; and
+
+  (c) Structures that provide for continu ity of the right-of-way such as bridges.
+[Ord. 93-7, Sec. 1]
+
+ 52.102  PERMIT REQUIRED.
+
+ No person shall hold or participate in a commun ity event, block party, bicycle race, foot race,
+parade, or march that utilizes any portion of a county road for the conduct of the event unless a
+permit for use of the county road has been obtained from the Director. [Ord. 93-7, Sec. 1]
+
+ 52.104  TEMPORARY CLOSURE OR USE OF PUBLIC ROADS.
+
+ The Director may issue permits for activ ities listed in Section 52.102. Such permits may
+authorize the closure of any County road. Permit and road closure requests are subject to the
+following conditions:
+
+ (1) Written requests shall be submitted to the Di rector at least 30 days in advance of the
+proposed closure or use on forms provided by the Public Works Department. The application shall
+include all information requested by the application form which may include maps, sketches,
+proposed signage, barricades, and traffic control devices.
+
+ 52-2
+
+ (2) For block party events, the signatures of all owners or contract purchasers of record
+of real property adjoining the portion of the road to be closed shall be contained in the written
+request to the Director, and no more than three (3) successive blocks, or 600 feet, whichever is
+greater, shall be closed pursuant to any particular application.
+
+ (3) The period of closure shall be for not more than eight (8) hours, unless extended in
+writing by the Director.
+
+ (4) Postal and emergency vehicles such as  fire, police, medical, or other shall be
+permitted access at all times.
+
+ (5) A reasonably safe and convenient alte rnate access route exists to and through the
+area to be closed.
+
+ (6) The closure will not significantly impair  the travel of motor vehicles through the
+general area that is subject to the use or closure.
+
+ (7) The Director shall provide all agencies providing emergency services in areas
+affected by the use or closure, and the Board of County Commissioners with notice of the proposed
+use or closure at least ten (10) days prior to i ssuance of the permit. Additionally, the Director will
+notify each affected agency of his decision to issue or deny a permit at least three (3) days prior to
+the proposed date of closure or use and shall pr ovide each agency with all relevant information
+concerning the closure or use, to include alternate routes and methods of signing. [Ord. 93-7, Sec. 1]
+
+ 52.106  CONDITIONS OF APPROVAL.
+
+ The Director is delegated the authority to condition approval of permits for use of a County
+road upon compliance with reasonable conditions of approval. The following conditions of approval
+shall be included by the Director for all permit approvals:
+
+ (1) The permit application shall provide proof that the applicant has obtained general
+liability insurance that covers the permitted event prior to conduct of the event. Polk County shall be
+named as an additional insured on said insuran ce policy for purposes of the permitted event. The
+insurance policy limits shall in no event be less than the tort liability limits of the County specified
+by the Oregon Legislature.
+
+ (2) The applicant shall furnish, maintain, and remove those traffic barriers, traffic control
+devices, and other signs that are required by the Director. [Ord. 93-7, Sec. 1]
+
+ 52.108  APPEALS.
+
+ Any person or entity aggrieved by a decision of the Director denying or approving a road
+closure or use may appeal such decision to the Board within ten (10) days of the decision. [Ord. 93-
+7, Sec. 1]
+
+ 52-3
+
+ 52.110  PENALTIES.
+
+ A violation of Section 52.102 and the failure of an applicant to comply with conditions of
+approval imposed by the Director under Section 52.106 are violations of law which are punishable
+upon conviction by a fine of not more than $500. These penalties shall be in addition to any other
+remedies provided by law to Polk County. [Ord. 93-7, Sec. 1]

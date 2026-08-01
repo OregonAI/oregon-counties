@@ -1,0 +1,1238 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-ycc-405-yamhill-county-dog-control-code-pdf
+title: 'YCC-405-YAMHILL-COUNTY-DOG-CONTROL-CODE-PDF'
+doc_type: ordinance
+citation: 'YCC-405-YAMHILL-COUNTY-DOG-CONTROL-CODE-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/16773/YCC-405-YAMHILL-COUNTY-DOG-CONTROL-CODE-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6b9a1339e34e67bc668835bff89c6e49d51dcc307cb0f027fd5f0cbc37e15a6f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 135.805
+    - ORS 153.018
+    - ORS 153.019
+    - ORS 153.021
+    - ORS 153.045
+    - ORS 153.080
+    - ORS 153.992
+    - ORS 167.305
+    - ORS 167.310
+    - ORS 167.343
+    - ORS 18.042
+    - ORS 18.150
+    - ORS 609.093
+    - ORS 609.150
+    - ORS 609.155
+    - ORS 609.1558
+    - ORS 609.161
+    - ORS 609.162
+    - ORS 609.169
+    - ORS 609.170
+    - ORS 609.405
+    - ORS 659A.143
+    - ORS 686.030
+    - OAR 333-017-0000
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# YCC-405-YAMHILL-COUNTY-DOG-CONTROL-CODE-PDF (YCC-405-YAMHILL-COUNTY-DOG-CONTROL-CODE-PDF)
+
+## At a glance
+
+YCC-405-YAMHILL-COUNTY-DOG-CONTROL-CODE-PDF — code of Yamhill County. 24 pages.
+
+## Full text
+
+Chapter 4.05: Yamhill County Dog Control Code  Page 1 of 29
+
+TITLE 4: PUBLIC PEACE, MORALS, AND WELFARE
+
+Chapter 4.05: Yamhill County Dog Control Code
+
+TABLE OF CONTENTS
+Section Title
+I. POLICY, PURPOSE, TITLE, & APPLICATION
+4.05.01.01 Policy
+4.05.01.02 Purpose
+4.05.01.03 Title
+4.05.01.04 Disposition of Fines Collected for Violations
+4.05.01.05 Application
+II. DEFINITIONS
+4.05.02.01 General Definitions
+4.05.02.02 Specific Definitions
+III. [RESERVED]
+4.05.03.01 [REPEALED]
+4.05.03.02 [REPEALED]
+IV. ADMINISTRATION
+4.05.04.01 Powers Granted Hereunder
+4.05.04.02 Staff Assigned to Dogs
+4.05.04.03 Other Enforcement Officers
+4.05.04.04 Yamhill County Health Officer
+V. LICENSING OF DOGS
+4.05.05.01 Licensing Required
+4.05.05.02 Reciprocal Licensing
+4.05.05.03 Inoculation Required for Licensing
+4.05.05.04 License Fee
+4.05.05.05 License Tag
+4.05.05.06 Lost License Tag
+4.05.05.07 License Tag Ownership Transfer
+4.05.05.08 [REPEALED]
+4.05.05.09 Authority to Provide for License Outlets
+4.05.05.10 Failure to License; Late License Fee
+VI. DOG FACILITIES, KENNEL LICENSING, AND INSPECTION
+4.05.06.01 Application
+4.05.06.02 Commercial and Hobby Kennels
+4.05.06.03 Kennel License Required
+Chapter 4.05: Yamhill County Dog Control Code  Page 2 of 29
+4.05.06.04 Land Use
+4.05.06.05 License Review Procedure
+4.05.06.06 Display of Commercial Kennel License
+4.05.06.07 Standards for Licensing of Commercial Kennel Facilities
+4.05.06.08 Denial and Revocation of License
+4.05.06.09 Right to Revoke License
+4.05.06.10 Appeal from Denial or Revocation of License
+4.05.06.11 Inspection
+4.05.06.12 Record-keeping
+VII. PROHIBITED CONDUCT
+4.05.07.01 Running at Large
+4.05.07.02 Public Nuisance
+4.05.07.03 Menacing Dog
+4.05.07.04 Dangerous Dog
+4.05.07.05 Destruction of Property
+4.05.07.06 Failure to Inoculate
+4.05.07.07 Unlawful Tethering
+4.05.07.08 Dog Waste
+4.05.07.09 Hindering Impoundment
+4.05.07.10 [REPEALED]
+VIII. IMPOUNDMENT OF DOGS
+4.05.08.01 Dog Control Facilities
+4.05.08.02 When Dog May Be Impounded
+4.05.08.03 Disposition or Destruction of Impounded Dogs
+4.05.08.04 Notice of Impoundment
+4.05.08.05 Period of Impoundment
+4.05.08.06 Determination of Impoundment Period
+4.05.08.07 Disposition of Surrendered (Released) Dogs
+4.05.08.08 Disposition of Impounded Dogs
+4.05.08.09 Redemption; Failure to Redeem
+4.05.08.10 Right of Entry onto Private Property
+4.05.08.11 Transfer of Title
+4.05.08.12 Right of Dog Control Officer or Certified Peace Officer to Request Impoundment
+IX. DISPOSITION OF LICENSE FEES AND FINES
+4.05.09.01 Dog Control Fund
+4.05.09.02 Disposition of Dog Control Fund
+4.05.09.03 Rabies Outbreak
+X. [RESERVED]
+4.05.10.01 [REPEALED]
+4.05.10.02 [REPEALED]
+4.05.10.03 [REPEALED]
+XI. DOGS THAT KILL OR INJURE LIVESTOCK
+4.05.11.01 Impoundment for Killing or Injuring Livestock
+4.05.11.02 Hearing by Board of Commissioners
+4.05.11.03 Disputable Presumption
+4.05.11.04 Claims by Owner of Livestock
+XII. AUTHORITY TO CONTRACT WITH OTHER GOVERNMENTS
+4.05.12.01 Intergovernmental Agreements
+Chapter 4.05: Yamhill County Dog Control Code  Page 3 of 29
+XIII. ENACTMENT PROVISIONS
+4.05.13.01 Relation to Other Laws
+4.05.13.02 Severability
+XIV. ENFORCEMENT
+4.05.14.01 Enforcement Generally
+4.05.14.02 Uniform Dog Control Citation
+4.05.14.03 Amendment to a Uniform Dog Control Citation
+4.05.14.04 Time to Raise Errors on Citation
+4.05.14.05 [REPEALED]
+4.05.14.06 Service of Citation
+4.05.14.07 Prosecution
+4.05.14.08 Appearance by Defendant
+4.05.14.09 Trial Proceedings
+4.05.14.10 Failure of Defendant to Appear
+4.05.14.11 Continuing Violation
+4.05.14.12 Habitual Offender Status
+4.05.14.13 Penalties
+XV. CONDITIONS OF OWNERSHIP
+4.05.15.01 Menacing Dog Conviction: Conditions of Ownership
+4.05.15.02 Dangerous Dog Conviction: Conditions of Ownership
+4.05.15.03 [REPEALED]
+4.05.15.04 Habitual Offender Status: Conditions of Ownership
+4.05.15.05 [REPEALED]
+
+LEGISLATIVE HISTORY
+
+APPENDIX A: DOG CONTROL FEES
+
+SECTION 1 - POLICY, PURPOSE, TITLE, & APPLICATION
+4.05.01.01 Policy.
+a) The Board of Commissioners of Yamhill County recognizes that ORS Chapter 609 grants non- home rule
+counties the power to regulate dogs , and that on July 5, 1929, Yamhill County has declared to be a Dog
+Control District by vote of the electors of Yamhill County. Pursuant to the vote of the electors , and to ORS
+Chapter 609, Yamhill County is declared to be a Dog Control District, and is thereby declared to fall under
+the enforcement authority of Yamhill County.
+b) The Board further recognized and finds that the regulation of dogs is a matter of C ounty concern, and
+therefore, ORS Chapter 203 provides a separate and independent legal basis upon which to enact this Chapter.
+Pursuant to both ORS Chapter 609 and ORS Chapter 203, the Board finds it necessary to implement a
+program:
+(i) For the licensing and regulation of dogs and the facilities which house them;
+(ii) To protect the health, safety, and welfare of the residents and citizens of Yamhill County;
+(iii) To recognize the property rights of both owners and non-owners of dogs; and
+(iv) To provide for the control and protection of dogs located within Yamhill County.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+Chapter 4.05: Yamhill County Dog Control Code  Page 4 of 29
+4.05.01.02 Purpose . This Chapter is enacted to provide a comprehensive procedure and program for the
+implementation of the above described policy; to set forth all requirements for licensing, regulation, care and
+treatment of dogs; and to describe related activities that shall be prohibited in Yamhill County. This Chapter is
+intended to supersede ORS Chapter 609 except as specifically provided in this Chapter, or in instances in which
+this Chapter does not provide a parallel rule, definition, or procedure.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.01.03 Title. This Chapter may be cited as the “Yamhill County Dog Control Code.”
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.01.04 Disposition of Fines Collected for Violations . Upon receipt of fines imposed for violations of this
+Chapter, the Trial Court Clerk of Yamhill County shall first deduct and retain the amount required for court fees
+and assessments and then remit the remaining money to the County, who shall deposit it in a designated Dog
+Control fund additionally, each conviction shall be accompanied by an automatic court assessment  as provided
+in Section 4.05.14.13(b). This revenue shall be paid to Yamhill County Dog Control for implementation and
+administration of this Chapter
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.01.05 Application. This Chapter shall apply to all of Yamhill County except those incorporated areas within
+Yamhill County which have established their own dog licensing and dog control programs.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 2 - DEFINITIONS
+4.05.02.01 General Definitions. As used in this Chapter, the terms defined in this section shall have the defined
+meanings unless the context requires otherwise. Where appropriate, words in the present tense include the future,
+the singular includes the plural, plural usage includes the singular, and “shall” means mandatory, not
+discretionary.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.02.01 Specific Definitions. As used in this Chapter:
+a) “Animal” has the meaning provided in ORS 167.310(3).
+b) “Animal Rescue Entity” means an individual or organization, including, but not limited to, a humane society,
+animal shelter, animal sanctuary, or animal rescue operation that keeps, houses, and maintains in its custody
+five or more animals and that solicits or accepts donations in any form. Excluded from this definition are a
+licensed kennel, a licensed veterinary facility, and any animal services agency.
+c) “Bite” means
+ any tearing, abrasion, puncture, contusion, hematoma, or other damage to the skin or clothing
+of any person, domestic animal, or livestock by the operation of a dog's jaws and/or teeth.
+d) “Board” means the Yamhill County Board of Commissioners.
+e) “Code” means the Yamhill County Dog Control Code.
+f) “County” means Yamhill County.
+g) “Dog” means a member of the subspecies Canis lupus familiaris or a hybrid of that subspecies.
+h) “Dog Control Officer ” means a person employed by or contracting with the County who is authorized to
+investigate violations and issue citations under this Chapter.
+i) “Domestic Animal” has the meaning provided in ORS 167.310(4).
+j) “Euthanasia” means the putting to death of an animal in any humane manner permitted under ORS 609.405.
+k) “Holding facility (shelter) ” means a facility built and maintained by a city, a humane society, or Yamhill
+County for the purpose of enforcing or administering an animal or dog control program or the care and feeding
+of animals without owners.
+l) “Household pet” means a domesticated animal kept for the personal use, pleasure, and enjoyment of the
+owner.
+Chapter 4.05: Yamhill County Dog Control Code  Page 5 of 29
+m) “Immediate physical control” means under close, restrained custody in immediate physical proximity (e.g.,
+leashed).
+n) “Impound” or “impoundment” means taking physical or constructive custody of a dog. A dog shall be
+considered impounded from the time Dog Control staff or a law enforcement officer takes physical custody
+of the dog.
+o) “Isolation (quarantine)” means the secure restraint of a specific animal by means of a closed cage, secured
+fenced-in area, pound, or other approved building or facility affording such security from any other animal or
+person.
+p) “Livestock” has the meaning provided in ORS 167.310(8).
+q) “Owner or keeper” means any person who keeps, has custody of, possesses, harbors, or exercises control
+over a dog or other animal, with the exception of  veterinary hospitals as defined in this Chapter , in a family
+situation, the head of the household is presumed to be the owner or keeper.
+r) “Person” means an individual, a partnership, company, association, corporation, or any other legal entity.
+s) “Physical Injury” has the meaning provided in ORS 167.310(10).
+t) “Sheriff” means the Yamhill County Sheriff, any Deputy Sheriff, or the Sheriff’s employee or designee.
+u) “Tether” or “tethering” has the meaning provided in ORS 167.310(14).
+v) “Veterinarian” means a practicing veterinarian, licensed pursuant to the laws of the State of Oregon, to
+perform any of the acts set forth in ORS 686.030.
+w) “Veterinary hospital” means any business establishment maintained and operated by a veterinarian for the
+diagnosis and treatment of diseases and injuries to animals.
+x) “Yamhill County Dog Control” or “Dog Control” means the agency or agencies designated by the Board
+to administer and manage the provisions of this Chapter, including where such designation is contractually
+assigned.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 3 - [RESERVED]
+4.05.03.01 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE 707 eff 12/13/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.03.02 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE 707 eff 12/13/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 4 - ADMINISTRATION
+4.05.04.01 Powers  Granted Hereunder. Powers of the Sheriff. The Sheriff shall have authority under this
+Chapter to issue citations for, and prosecute cases of, violations of this Chapter.
+a) Powers of Dog Control. Yamhill County Dog Control shall have authority under this Chapter to:
+(i) Maintain a holding facility or place of impoundment where all dogs subject to impoundment shall
+be safely held and provided with proper and sufficient food, water, and shelter;
+(ii) Collect all fees and base fines specified by this Chapter;
+(iii) Take other action necessary to reduce the damage inflicted by dogs upon livestock and other
+domestic animals;
+(iv) Investigate and subpoena as needed claims against the Dog Control Fund; and
+(v) Otherwise enforce and administer the provisions of this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.04.02 Staff Assigned to Dogs. In designating personnel to work with dogs under this Chapter, Dog Control
+shall consider the following criteria:
+a) Physical ability to do the work required;
+Chapter 4.05: Yamhill County Dog Control Code  Page 6 of 29
+b) Previous experience working with dogs;
+c) Experience or training in the fields of law, business, or public relations; and
+d) Other relevant experience and/or training.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.04.03 Other Enforcement Officers. In addition to any other power otherwise conferred by Oregon law, a
+certified peace officer shall have the power to cite and prosecute violators of this Chapter and to impound dogs
+which have committed acts subjecting its owner or keeper to a penalty under this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.04.04 Yamhill County Health Officer. The Yamhill County Health Officer shall administer the rules and
+regulations of the State of Oregon relating to rabid animals and rabies control. Division 17 of the Oregon
+Administrative Rules, OAR 333-017-0000 et sequent.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01]
+
+SECTION 5 - LICENSING OF DOGS
+4.05.05.01 Licensing Required.
+a) The owner or keeper of a dog that has permanent canine teeth or that is more than six months of age shall
+obtain a license for the dog for a one-year period commencing at the time the dog:
+(i) Acquires permanent canine teeth;
+(ii) Reaches six months of age; or
+(iii) Is present in Yamhill County for more than 30 days, whether consecutive or not.
+b) When required, a license shall be purchased from Yamhill County Dog Control, or from a sales outlet
+authorized under Section 4.05.05.09.
+c) The licensing anniversary date shall be the date on file of the dog’s most recent rabies inoculation, or if
+exempt, the date on file of the dog’s most recent exemption verification. The owner or keeper of the dog shall
+relicense the dog each year thereafter, on or within 30 days of its anniversary date.
+d) Yamhill County Dog Control shall keep a numbered record of all licenses issued, including information on
+the sex and breed of the dog, and the name and address of the dog’s owner or keeper.
+e) A license under this section is not required for a dog found in Yamhill County, if:
+(i) The owner of the dog resides outside of Yamhill County, and
+(ii) The dog is validly licensed in the jurisdiction where the owner resides.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.02 Reciprocal Licensing.
+a) The reciprocal licensing procedures provided in this section shall apply in the following circumstances:
+(i) If the owner or keeper of a dog changes residence to Yamhill County while the dog is validly
+licensed in another Oregon jurisdiction; or
+(ii) If ownership or possession of a dog is transferred to a resident of Yamhill County while the dog is
+validly licensed in another Oregon jurisdiction.
+b) Upon payment of an administrative fee provided in Appendix A, as amended by order of the Board, a person
+eligible for reciprocal licensing shall relinquish the valid license from the other Oregon jurisdiction and be
+issued a Yamhill County dog license.
+c) The licensing anniversary date of a dog receiving a reciprocal license under this subsection shall be the date
+on file of the dog’s most recent rabies inoculation, or if exempt, the date on file of the dog’s most recent
+exemption verification.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.03 Inoculation Required for Licensing. Unless otherwise exempted by law, the owner or keeper of any
+dog with permanent canine teeth, or that is more than six months of age , shall have that dog inoculated against
+rabies in accordance with current compendium recommendations. No license shall be issued for any dog unless
+Chapter 4.05: Yamhill County Dog Control Code  Page 7 of 29
+the applicant exhibits a certificate of such inoculation by a veterinarian , or if exempt, without written
+documentation that a lawful exemption applies.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.04 License Fee.
+a) A fee shall be charged for each license issued  in accordance with this Section 5. The license fee is due and
+payable on application for a dog license.
+b) If a dog owner or keeper pays the license fee , but fails to, within thirty days of such payment, supply the
+County with written proof of rabies inoculation or a lawful exemption, the license fee paid shall be forfeited
+by the owner and retained by Yamhill County Dog Control , whereupon the buyer or adopter has thirty (30)
+days to provide  either a copy of  the rabies inoculation certificate  or written documentation that a lawful
+exemption applies.
+c) Dog licenses shall be valid for a period of one year, two years, or three years from either the date of purchase
+or the rabies vaccine or exemption expiration date, as applicable, whichever comes first. In no instance may
+the dog license expiration exceed the rabies vaccine expiration date, or if lawfully exempt, the date on file of
+the dog’s most recent exemption verification.
+d) The license fee charged shall be as provided in Appendix A. The Board shall review Appendix A at least
+annually and amend it as needed by order of the Board.
+e) The Board shall adopt separate fees in the following categories:
+(i) For each spayed female or neutered male dog for which a veterinarian’s certificate of operation
+for the spaying or neutering of the dog is presented to the County;
+(ii) For each spayed female or neutered male dog for which a veterinarian’s certificate of operation
+for the spaying or neutering of the dog is presented to the County, and the dog is owned by a person
+who is 65 years of age or older; and
+(iii) For all other dogs.
+f) A license fee is not required for any dog that is an “assistance animal.” For purposes of this section, “assistance
+animal” means a dog that has been individually trained to do work or perform tasks for the benefit of an
+individual (see ORS 659A.143 and OA R 839- 006-0345). A license shall be issued for a dog that is an
+assistance animal upon proof of rabies vaccination (unless lawfully exempt) and filing of a certificate of
+training and/or medical affidavit from the dog owner or keeper showing that the dog lawfully qualifies as an
+assistance animal.
+g) The fees required under this section are in addition to any penalties established under this Chapter for owning
+or keeping a dog without a license.
+h) At their sole discretion, the Board may waive a licensing fee required under this section when such a waiver
+is shown to be in the best interest of the County.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE 732 eff 12/23/03; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.05 License Tag. Upon payment of the fees required by this Chapter, Yamhill County Dog Control shall
+issue to the owner of the dog a license tag suitable for attachment to the dog’s collar. The owner of the dog shall
+attach the license tag to a collar on the dog and keep it on the dog at all times. If the dog is kept at all times in an
+enclosure or pen, the license tag may, at the option of the owner or keeper, be affixed to the enclosure or pen
+rather than to the collar of the dog.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.06 Lost License Tag. If a license tag is lost, the owner may obtain a duplicate license tag from  Yamhill
+County Dog Control upon satisfactory proof of loss and payment of a fee as provided in Appendix A, as amended
+by order of the Board.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.07 License Tag Ownership Transfer. If the ownership of a dog which is currently licensed under this
+Chapter changes, the new owner shall, within thirty days, obtain from the county a transfer of the license tag upon
+payment of the required fee, as provided in Appendix A, as amended by order of the Board.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+Chapter 4.05: Yamhill County Dog Control Code  Page 8 of 29
+
+4.05.05.08 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.09 Authority to Provide for License Outlets.
+a) Dog Control may establish licensing outlets at any business within the territorial limits of Yamhill County for
+the purpose of selling dog licenses. Any business participating in the program shall be entitled to retain an
+amount from the fee received for each license issued by the outlet to cover administrative costs. The amount
+that may be retained by a business participating in the program shall be as provided in Appendix A, as
+amended by order of the Board.
+b) Dog Control may promulgate rules for the administration of such a program.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.05.10 Failure to License; Late License Fee.
+a) Failure to License. Any owner or keeper of a dog who fails to comply with the licensing requirements provided
+in this section commits a Class D dog code violation.
+b) L ate License Fee. A late license fee shall be assessed , as provided in Appendix A, as amended, against an
+owner or keeper of a dog who in any year fails to obtain a license by the date this Chapter  requires that the
+dog be licensed. All late fees shall be paid, in addition to the license fee  required under YCC 4.05.05.04, at
+the time of issuance of the license. The Board may establish separate categories of late fees as follows:
+(i) For an owner or keeper who has not been cited for owning or keeping an unlicensed dog;
+(ii) For an owner or keeper who has received a written warning or citation for owning or keeping an
+unlicensed dog and who thereafter obtains a license; and
+(iii) For an owner of a licensed kennel who is cited for owning or keeping an unlicensed dog or dogs
+and who thereafter obtains the required license or licenses.
+c) Waiver by Sheriff. Late license fees may be waived by the Sheriff at their sole discretion.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 6 - DOG FACILITIES, KENNEL LICENSING, AND INSPECTION
+4.05.06.01 Application. This Section 6 applies to all dog facilities maintained in Yamhill County, whether such
+facilities are denominated as kennels, holding facilities, shelters, or otherwise defined in this Section 6, and
+whether privately or publicly owned, if the facility houses three or more dogs. However, this Section 6 does not
+apply to municipal holding facilities owned and operated by municipal corporations within Yamhill County unless
+the municipality consents to the application of this Chapter by the execution of an intergovernmental agreement
+as provided for in Section 4.05.12.01.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.02 Commercial and Hobby Kennels.
+a) A “hobby kennel” is a facility in or adjacent to a private residence where a minimum of three dogs of
+licensable age are kept for the hobby of the householder, used for hunting herding, exhibition shows, field or
+obedience trails, or for the guarding and protection of property.
+b) A “commercial kennel” is a facility intended to be operated and maintained as a business for the purpose of
+boarding and/or the breeding, buying, selling, or bartering of dogs for profit or compensation.
+c) Yamhill County Dog Control shall determine whether a facility is commercial kennel or a hobby kennel and
+assess fees accordingly. Appeal from Dog Control’s determination shall be to the Board as provided in Section
+4.05.06.10.
+d) The Yamhill County Department of Planning shall forward copies of any kennel or dog training facility land
+use application to Yamhill County Dog Control for review.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.03 Kennel License Required.
+Chapter 4.05: Yamhill County Dog Control Code  Page 9 of 29
+a) No person shall operate a commercial or hobby kennel, as specified herein, without first obtaining an annual
+license from Yamhill County for each kennel operated. Fees required for commercial and hobby kennels shall
+be as provided in Appendix A, as amended by order of the Board.
+b) A late license fee shall be assessed, as provided in Appendix A, against a person who fails to renew a kennel
+license required under this s ection more than 30 days past the license expiration date. All late fees shall be
+paid, in addition to the annual kennel licensing fee, at the time of issuance of the renewal license.
+c) A violation of this section is a continuing violation punishable as a Class A dog code violation.
+d) At their sole discretion, the Board may waive a kennel licensing fee required under this section when such a
+waiver is shown to be in the best interest of the County.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.04 Land Use. The issuance of a license for a kennel facility shall not constitute approval of the land use
+nor be evidence of compliance with land use restrictions or regulations which may apply to operation or location
+of the proposed facility.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.05 License Review Procedure.
+a) Commercial Kennels. Upon receipt of an application for a commercial kennel license, or a land use application
+from the Yamhill County Planning Department, Yamhill County Dog Control shall inspect the facility and,
+upon determination that the facility and its operation complies with all applicable provisions of this Chapter
+and other applicable state and federal laws, shall issue a license.
+b) H obby Kennels. A person requesting licensing of a hobby kennel shall submit with their application a signed
+statement affirming:
+(i) The number of dogs the applicant has, and confirmation of each dog’s license required hereunder;
+(ii) That the person houses his or her dogs primarily in a facility in or adjacent to a private residence;
+(iii) That the dogs are kept for the hobby of the householder as described herein; and
+(iv) That the applicant has no prior convictions for  offenses against animals under ORS 167.305
+through 167.390.
+c) Approval or Denial Deadline. Dog Control shall approve or deny an application made under this Chapter
+within 120 days of its receipt and the payment of the applicable fees, or the application shall be deemed
+approved for the current year, subject only to revocation as provided in this Section 6
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.06 Display of Commercial Kennel License.
+a) A commercial kennel license granted under this Section 6 shall be conspicuously displayed on the dog kennel
+facility premises.
+b) A holder of a commercial kennel license shall keep available for inspection by a Dog Control Officer:
+(i) The name, address, and telephone number of the owner of each dog kept at the facility;
+(ii) The date the dog was received;
+(iii) A description of each dog including age, sex breed, and color;
+(iv) The animal’s veterinarian, if known; and
+(v) A record of the inoculation by a veterinarian of each animal kept in the kennel for rabies, using a
+modified live virus vaccine as required by Oregon law.
+c) A violation of this section is punishable as a Class B dog code violation.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.07 Standards for Licensing of Commercial Kennel Facilities. After payment of fees and inspection,
+Dog Control shall issue a kennel license to a facility that meets the following criteria:
+a) Those standards for facilities and health and husbandry practices specified in OAR 603-015- 0040, 603-015-
+0045, 603-015-0050, as applicable;
+b) Housing structure shall be sound and maintained in good repair to protect dogs from injury, to confine them
+safely and to prevent entry of other animals;
+c) Reliable and adequate electrical service and a potable water supply shall serve the facility;
+Chapter 4.05: Yamhill County Dog Control Code  Page 10 of 29
+d) Storage of food supplies and bedding materials shall be designed to prevent vermin infestation and infection;
+e) Refrigeration shall be furnished for perishable foods;
+f) Safe and sanitary disposal facilities shall be available to eliminate animal and food waste, used bedding, dead
+animals, and debris, and to minimize vermin infestation, odors, and disease hazards;
+g) Cleanliness facilities shall be available to animal caretakers and handlers;
+h) In enclosed structures, the interior ambient temperature shall be maintained above 50 degrees Fahrenheit for
+dogs not acclimatized to lower temperatures;
+i) In enclosed structures, adequate ventilation shall be maintained to assure animal comfort by such means as
+will provide sufficient fresh air and will minimize drafts, odors , and moisture condensation. Mechanical
+ventilation must be available when ambient temperatures exceed 85 degrees Fahrenheit;
+j) Interior areas shall have adequate natural or artificial light and primary enclosures for dogs shall be protected
+from excessive illumination;
+k) Interior building surfaces shall be constructed and maintained to prevent moisture penetration;
+l) Drainage facilities shall be available to ensure rapid elimination of excess water from indoor housing facilities,
+and the design shall assure obstruction free flow and traps to prevent sewage backflow;
+m) Outdoor facilities shall provide protective shading and an adequate shelter area designed to minimize harmful
+exposure to weather conditions for those animals not acclimatized to the environment;
+n) The primary enclosure shall satisfy the following requirements:
+(i) Be of sufficient size to permit each dog housed in the facility to stand freely, sit, turn about, and
+lie in a comfortable, normal position;
+(ii) No more than 12 dogs may be housed in the same primary enclosure;
+(iii) Each dog housed in a primary enclosure shall be provided a minimum floor space equal to the
+mathematical square of the dog’s length, as measured from the tip of its nose to the base of its tail,
+plus six inches; and
+(iv) An exercise area or means to provide each dog with exercise shall be provided on the premises;
+o) When restraining devices are used in connection with a primary enclosure intended to permit movement
+outside the enclosure, such devices shall be installed so as to prevent entanglement  with the devices of other
+dogs or objections and shall be fitted to the dog by a harness or well -fitted collar, other than a choke -type
+collar, and shall not be shorter than three times the length of the dog as measured from the tip of its nose to
+the base of its tail;
+p) Dogs should be feed at least once daily with a diet of nutritionally adequate and uncontaminated food;
+q) Potable water shall be continuously available unless otherwise recommended by a veterinarian in a particular
+situation;
+r) Cages, rooms, hard surface pens, runs and food and water in receptacles shall be sanitized to prevent disease,
+no less than once every two weeks, by washing with hot water and soap or detergent, by washing with a
+combination disinfectant and cleanser, by washing with a safe detergent followed by a safe, effective
+disinfectant, or by cleaning with steam;
+s) Prior to the introduction of dogs into empty enclosures previously occupied, the enclosures shall be sanitized.,
+and dogs shall be removed from the enclosure during the cleaning process, with adequate care being taken to
+protect the animals in other closures; and
+t) Excrement shall be removed from primary enclosures as often as necessary to prevent contamination, reduce
+disease hazards and minimize odors.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.08 Denial and Revocation of License. A dog kennel license required under this Section 6 may be denied
+or revoked for any of the following reasons:
+a) Failure to comply substantially with any provision of this Chapter;
+b) Conviction of the owner or any person subject to his direction or control for the violation of any provision of
+this Chapter or other applicable state or federal law, rule, order, or regulation pertaining to any activity relating
+to animals; or
+c) Furnishing false information on the application for a license under this Section 6.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+Chapter 4.05: Yamhill County Dog Control Code  Page 11 of 29
+
+4.05.06.09 Right to Revoke License. Any kennel license may be summarily revoked if it was obtained by using
+false information and/or fees were paid with an uncollectible, forged, insufficiently funded, or other unacceptable
+check or commercial paper.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.10 Appeal from Denial or Revocation of License. If an application for a dog kennel license is denied,
+or approved subject to conditions, or otherwise revoked, the applicant may appeal the denial, conditional approval,
+or revocation to the Board no later than 15 days after the date of the decision by Dog Control. The Bboard shall
+provide a hearing for the applicant within 30 days of notice of appeal. Notice of the hearing by the Board shall be
+mailed to the applicant by certified mail no later than 10 days prior to the hearing. A decision by the Board
+resulting from an appeal under this section shall be reviewable only as provided in ORS Chapter 34.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.11 Inspection. A commercial kennel licensed under this Chapter shall be subject to inspection by a Dog
+Control Officer at any time for the purpose of determining compliance with this Chapter. A Dog Control Officer
+shall have the right to inspect the facility itself, as well as all records and other documents required to be kept by
+this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.06.12 Record-keeping. The owner or operator of any dog commercial kennel licensed under this Section
+shall keep records of all dogs of licensable age sold and make th ose records available to  Yamhill County Dog
+Control upon request. Records of such sales shall be preserved by the owner or operator of any facility for at least
+18 months following the sale.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 7 - PROHIBITED CONDUCT
+4.05.07.01 Running at Large. It shall be a violation of this Chapter for the owner or keeper of a dog to permit a
+dog to run at large. A dog is considered to be  “running at large” when it is not on the premises of the owner or
+keeper and is not restrained by a rope, line, leash, chain, or other similar means, or is not otherwise under the
+immediate physical control and command of its owner or keeper.
+a) A dog will be considered “running at large” if it is free upon a shared accessway, common area, walking area,
+parking lot, or other area open to physical access by the public.
+b) A dog that is being used under the supervision of a person in order to legally hunt, chase, or tree wildlife, is
+being used to control or protect livestock or in related agricultural activities shall not be deemed to be “running
+at large”. No dog in police or military service shall be considered running at large.
+c) A violation of this provision is punishable as a Class B dog code violation.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.02 Public Nuisance . It shall be a violation of this Chapter for any person to allow a dog to become a
+public nuisance.
+a) A dog is a “public nuisance” if it:
+(i) Bites or nips a person or domestic animal, or its clothing or effects, unless the person is illegally
+assaulting the dog or the dog’s owner, or if the person provokes the dog and is illegally trespassing
+on premises legally occupied by the dog’s owner;
+(ii) Chases vehicles, persons, or other animals of any kind on property that does not belong to the
+owner or keeper of the dog;
+(iii) Scatters garbage;
+(iv) Trespasses on private property of persons other than the owner or keeper of the dog;
+(v) Disturbs a resident from each of three or more households within sight or sound of the
+complainant’s residence or business by excessive noise;
+Chapter 4.05: Yamhill County Dog Control Code  Page 12 of 29
+(vi) Is a female in heat and running at large; or
+(vii) Impedes or disrupts the normal flow of traffic on a public or private roadway or access way, or
+causes dangerous conditions thereupon, or in way becomes a traffic hazard for any length of time.
+b) A dog shall not be considered a public nuisance under this section if it barks at a person or animal trespassing
+on property belonging to the dog’s owner.
+c) A violation of this provision is punishable as a Class A dog code violation.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.03 Menacing Dog. It shall be a violation of this Chapter for any person to keep a menacing dog.
+a) A “menacing dog” is a dog which acts in a threatening manner that would cause a reasonable person to fear
+for the person’s safety, the safety of another person, or the safety of a domestic animal or livestock, or that
+otherwise exposes them to possible injury or harm, regardless of whether it was done in a playful or hostile
+manner.
+b) A violation of this provision is punishable as a Class A dog code violation.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.04 Dangerous Dog. It shall be a violation of this Chapter for any person to keep a dangerous dog.
+a) A “dangerous dog” means:
+(i) A dog that causes physical injury to and/or kills a human being, livestock, or a domestic animal
+without serious provocation;
+(ii) A dog that law enforcement records indicate has previously caused injury to a human without
+provocation or has injured or killed a domestic animal or livestock while off the property of its
+owner or keeper;
+(iii) A dog owned or harbored primarily or in part for the purpose of dog fighting or any dog trained
+for dog fighting;
+(iv) A menacing dog, as defined under Section  4.05.07.03, that is also out of the immediate physical
+control of its owner or keeper; or
+(v) Any dog having a demeanor, fault, flaw, or defect that causes it to act in an unreasonably
+aggressive manner.
+b) A violation of this provision is punishable as a Class A dog code violation.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.05 Destruction of Property. It shall be a violation of this Chapter for the owner or keeper of a dog to
+allow the dog to damage or destroy property, including livestock or a domestic pet , that does not belong to the
+owner or keeper of the dog. A violation of this provision is punishable as a Class B dog code violation.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.06 Failure to Inoculate. It shall be a violation of this Chapter for any person to fail to inoculate a dog
+against rabies, unless inoculation is otherwise exempted by law. A violation of this provision is punishable as a
+Class B dog code violation.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.07 Unlawful Tethering . It shall be a violation of this Chapter for the owner or keeper of a dog to
+unlawfully tether the dog.
+a) An “unlawfully tethered dog” means:
+(i) Tethering and leaving a dog unattended on public property; or
+(ii) Tethers a dog in violation of ORS 167.343.
+b) A violation of this provision is punishable as a Class B dog code violation.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.08 Dog Waste . It shall be a violation of this Chapter for any owner or keeper of a dog to fail to
+immediately remove the dog’s fecal or other visible solid waste from property other than the owner’s or keeper's
+property. A violation of this provision is punishable as a Class B dog code violation.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+Chapter 4.05: Yamhill County Dog Control Code  Page 13 of 29
+
+4.05.07.09 Hindering Impoundment. It shall be a violation of this Chapter for any person to hinder or otherwise
+interfere with the apprehension or impoundment of any dog by a Dog Control Officer or any other certified peace
+officer.
+a) It is not a defense to prosecution under this section that the citing Dog Control Officer, or the certified peace
+officer where applicable, lacked legal authority to impound or apprehend the dog, provided the citing Dog
+Control Officer or certified peace officer was acting under color of official authority.
+b) A violation of this provision is punishable as a Class A dog code violation.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.07.10 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE 708 eff 12/20/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 8 - IMPOUNDMENT OF DOGS
+4.05.08.01 Dog Control Facilities. Yamhill County Dog Control  shall establish and maintain adequate and
+humane facilities to store and keep dogs. This facility shall be open to the public at reasonable posted hours.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.02 When a Dog May be Impounded.
+a) In addition to impoundments otherwise required under ORS 609, a dog may be impounded by a Dog Control
+Officer, or other authorized agent of Dog Control, if:
+(i) The County has custody of the dog, regardless of known ownership status;
+(ii) The dog’s owner has delivered the dog to the County and has signed a statement surrendering
+(releasing) the dog to Yamhill County;
+(iii) The dog requires protective custody and care;
+(iv) The dog is being cited for being dangerous;
+(v) The dog has been previously convicted of being menacing and/or dangerous, and is subsequently
+found to be outside the immediate physical control of an owner or keeper in violation of this
+Chapter;
+(vi) The County has probable cause to believe the dog has bitten a person or animal; or
+(vii) The dog has been ordered impounded by the court.
+b) The owner or keeper of a dog may be held liable for a dog’s room and board, and any veterinary fees, resulting
+from an impoundment under this section.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.03 Disposition or Destruction of Impounded Dog s. Any dog which has been impounded under this
+Chapter which , by reason of injury, disease, or other cause, is suffering great pain or is dangerous to keep
+impounded, may be destroyed immediately. Dog Control may request a veterinarian to certify this fact in writing
+before such immediate destruction is undertaken. Any other dog impounded under this Chapter, that is not
+otherwise pending legal resolution, may be disposed of by adoption, relocation, euthanasia, or other method after
+15 days impoundment.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.04 Notice of Impoundment.
+a) Whenever any dog is impounded which bears an identification of ownership, Dog Control  shall make a
+reasonable effort within 24 hours of identification of the  suspected owner or keeper, by telephone, to give
+notice of the impoundment of the dog to its owner and, if unsuccessful, shall mail written notice by first class
+and certified mail within 72 hours of impoundment to the last known address of record of the owner, advising
+Chapter 4.05: Yamhill County Dog Control Code  Page 14 of 29
+of the impoundment, the date by which redemption must be made, and the fees to be paid prior to redemption
+and release.
+b) No notice is required for surrendered (released) dogs or for impoundments resulting from violations of this
+Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.05 Period of Impoundment.
+a) An impounded dog whose owner cannot be determined by license or other identification may be sold or
+destroyed, in a manner consistent with this Chapter , if not redeemed within five working days of
+impoundment.
+b) An impounded dog whose owner can be determined by license or other identification may be sold or
+destroyed, in a manner consistent with this Chapter , if not redeemed within seven days after notice of
+impoundment is mailed to the suspected owner or keeper.
+c) A surrendered (released) dog may be disposed of immediately by adoption, relocation, or disposition, or under
+specific terms of surrender of the dog that have been accepted by Dog Control at the time of surrender and
+release.
+d) A dog that is impounded because it has bitten a person and it cannot be demonstrated by clear and convincing
+evidence that the dog has a valid and effective rabies inoculation as required by state law or because it is
+suspected of having rabies, shall be quarantined in a suitable holding facility for so long as is necessary to
+observe the dog for the required 10- day period to determine whether the dog is infected with or a carrier of
+rabies.
+e) A dog that is impounded because it has bitten a person and is suspected of being dangerous under Section
+4.05.07.04 may be held until trial or other disposition of the charges, or until the court orders otherwise.
+f) If the County, or a licensed veterinarian, determines that an impounded dog is not rabid, the animal may be
+released to its lawful owner, if known, without charge, provided no citation has been issued warr anting
+continue impoundment of the dog. The rules regarding the release of a dog from quarantine are found in the
+Oregon Administrative Rules, OAR 333-017-0000 et sequent. A dog found to be rabid shall be destroyed in
+a manner consistent with state law.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.06 Determination of Impoundment Period. Any period of time specified in this Chapter for the keeping
+of an impounded dog shall not include:
+a) Sundays;
+b) Legal holidays;
+c) Days on which the facilities at which the dog is being held are not open for business;
+d) The day the animal is impounded; or
+e) The day on which the dog is released or euthanized.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.07 Disposition of  Surrendered (Released)  Dogs . If the owner of a dog, or the owner’s authorized
+representative, releases the dog to Yamhill County Dog Control in writing, Dog Control may sell or destroy the
+dog in a manner consistent with this Chapter and with the written release. Dog Control may charge a for the
+acceptance of a dog by Dog Control under this section., as provided in Appendix A.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE 732 eff 12/23/03; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.08 Disposition of Impounded Dogs.
+a) Upon the expiration of the impoundment period specified in this Chapter , and unless otherwise ordered by
+the court, Yamhill County Dog Control may have the dog destroyed, given, traded, or sold to another party.
+b) If the owner of an impounded dog is unknown or if the owner has executed a release as permitted herein ,
+Yamhill County Dog Control shall determine proper disposition of the dog. In determining proper disposition
+of the impounded dog, Dog Control may consider:
+(i) The temperament, health, age, and breed of the dog;
+(ii) The ability of any person requesting custody of the dog to provide proper care; and
+Chapter 4.05: Yamhill County Dog Control Code  Page 15 of 29
+(iii) Other factors relevant to the health safety, and welfare of the public and the dog.
+c) If the dog is sold to another party, a new license must be obtained as provided under Section 4.05.05. Failure
+of the new owner to license the dog or produce an inoculation certificate within 30 days shall subject the new
+owner to liability under Sections 4.05.05.
+d) If Yamhill County Dog Control determines that a dog impounded hereunder is not rabid, the dog shall be
+released to its owner, if known, without charge, provided no citation has been issued warranting continued
+impoundment of the dog. A dog determined by Dog Control or a veterinarian to be rabid or a carrier of rabies
+shall be destroyed in a manner consistent with state law.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.09 Redemption; Failure to Redeem.
+a) Redemption Fee. Except as otherwise provided herein a dog impounded under this Chapter shall be released
+to its owner upon payment of the redemption fees. Redemption fees shall include a basic impoundment charge
+and any boarding charges applicable and  may include an additional fee for a dog that is being impounded a
+second or subsequent time within 12-month period. These fees and charges shall be as provided in Appendix
+A, as amended by order of the Board.
+b) F
+ailure to Redeem . If, after receiving notice as required under this section, an owner fails to redeem an
+impounded dog after the period of impoundment has expired, the owner commits a Class A dog code violation
+and may be prosecuted as provided in this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.10 Right of Entry onto Private Property.
+a) When a Dog Control Officer has probable cause to believe that a provision of this Chapter has been violated,
+the Dog Control Officer shall have the right to enter onto private land without permission in order to secure
+evidence or cite an owner or keeper but  shall not enter into any dwelling or building without permission,
+authorization, or search warrant.
+b) A Dog Control Officer shall have the right to enter upon private property for the purpose of securing
+possession and impounding dog for reasons specified by this Chapter , and shall not be subject, civilly or
+criminally, to trespass.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.11 Transfer of Title. If Yamhill County Dog Control sells a dog, pursuant to this Chapter, to any person
+other than the person who owned the dog when it was impounded, full and complete title to the dog shall vest in
+the new owner and the prior owner or any other third person shall be foreclosed from any right, title, or interest
+in the dog.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.08.12 Right of Dog Control Officer or Certified Peace Officer to Request Impoundment. A Dog Control
+Officer or a certified peace officer may request an impounded dog be held until the disposition or adjudication of
+any citations, civil claim, or criminal charges.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 9 - DISPOSITION OF LICENSE FEES AND FINES
+4.05.09.01 Dog Control Fund . All license fees, impoundment costs, late charges, base fines, and other money
+collected pursuant to this Chapter shall be deposited in the Yamhill County Dog Control Fund unless otherwise
+provided by this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.09.02 Disposition of Dog Control Fund . Yamhill County Dog Control shall administer the Dog Control
+Fund and pay out of the fund all costs of administering and enforcing this Chapter and all livestock claims allowed
+Chapter 4.05: Yamhill County Dog Control Code  Page 16 of 29
+pursuant to this Chapter. Any surplus funds may be set aside for necessary improvements to the C ounty facility
+and/or for control of feral, predatory, and nuisance animals.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.09.03 Rabies Outbreak. In the event of a rabies outbreak within Yamhill County, Dog Control may use the
+Dog Control Fund as necessary to purchase rabies vaccines for administering to animals under the direction of
+state and local health officers.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 10 - [RESERVED]
+4.05.10.01 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.10.02 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.10.03 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 11 - DOGS THAT KILL OR INJURE LIVESTOCK
+4.05.11.01 Impoundment for Killing or Injuring Livestock. Yamhill County Dog Control shall impound a dog
+engaged in killing, wounding, injuring, or chasing livestock in accordance with ORS 609.155.
+a) Nothing in this Chapter is intended to affect the right of an owner of livestock killed or wounded by a dog to
+summarily kill that dog under circumstances specified in ORS 609.150.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.11.02 Hearing by Board of Commissioners.
+a) Opportunity to Request Hearing. Prior to making a determination whether a dog has killed, wounded, injured,
+or chased livestock under Section 4.05.11.01, Dog Control shall provide an opportunity for the dog owner to
+receive a hearing. Dog Control  shall send written notice, via first class and certified mail,  to the dog owner
+apprising them of:
+(i) The specific behavior alleged by Yamhill County Dog Control  and a description of the  incident
+that caused law enforcement officers to impound the dog;
+(ii) A description of the possible penalties if the dog is determined by Yamhill County Dog Control to
+have engaged in the alleged behavior;
+(iii) An explanation that the owner may request a public hearing pursuant to YCC 4.05.11.02; and
+(iv) Clarification that a request for a public hearing must be received by Yamhill County Dog Control
+no later than the 14
+th day following the date of the notice.
+b) Hearing Procedures. The procedure for hearing by the Board of Commissioners of a claim that a dog has been
+engaged in killing, wounding, injuring, or chasing livestock shall be as specified in ORS 609.1558. Clear and
+convincing evidence shall be necessary to sustain a claim that a dog has been engaged in killing, wounding,
+injuring, or chasing livestock.
+c) R emedial Measures . If the Board determines after a full and fair hearing, or if Dog Control determines when
+no hearing has been requested, that a dog has engaged in killing, wounding, injuring, or chasing livestock, the
+Board, or Dog Control where applicable, shall take action only in accordance with ORS 609.162 - 609.169.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+Chapter 4.05: Yamhill County Dog Control Code  Page 17 of 29
+4.05.11.03 Disputable Presumption . Nothing in this Chapter is intended to affect the disputable presumption
+that a dog has been engaged in killing, wounding, injuring, or chasing livestock contained in ORS 609.161, or the
+prohibition on harboring a dog with knowledge that it has killed or injured livestock contained in ORS 609.169.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.11.04 Claims by Owner of Livestock . An owner of livestock killed by a dog may submit a claim to the
+County in accordance with the provisions of ORS 609.170 – 609.190.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff. 02/27/25]
+
+SECTION 12 - AUTHORITY TO CONTRACT WITH OTHER GOVERNMENTS
+4.05.12.01 Intergovernmental Agreements. The Board of Commissioners may enter into intergovernmental
+agreements with any or all of  the cities in Yamhill County to further the purposes of this Chapter . Any such
+agreement shall require the city to enact a dog control ordinance to subject all dogs within the city to the licensing
+requirements of this Chapter and provide for substantially the same violations and penalties as provided in this
+Chapter. The governing body of the city may consent to the application of this Chapter within its boundaries. An
+agreement may also provide for the sharing of revenues from the Dog Control Fund for the purpose of effective
+dog control within Yamhill County.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 13 - ENACTMENT PROVISIONS
+4.05.13.01 Relation to Other Laws. Except as expressly provided herein, this Chapter  shall not be a substitute
+for or eliminate the necessity of conforming with all state and federal laws, rules and regulations, and any local
+regulations which are now, or may in the future be in effect relating to the requirements of this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.13.02 Severability. If any chapter, section, subsection, sentence, clause, phrase, or portion of this Chapter
+is, for any reason, held invalid or unconstitutional by a court of competent jurisdiction, such portion shall be
+deemed a separate, distinct and independent provision and such holding shall not affect the validity of the
+remaining portions of this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 14 - ENFORCEMENT
+4.05.14.01 Enforcement Generally.
+a) Initiating Enforcement Action. Enforcement of a violation of this Chapter may be instituted by a Dog Control
+Officer, or other certified peace officer authorized herein, in accordance with this Section14. Upon receipt of
+a complaint by a private citizen, the complaint is sufficient cause for a Dog Control Officer  to investigate
+whether an owner or keeper of a dog has violated the provisions of this Chapter.
+b) M anner of Citation. A Uniform Dog Control Citation, conforming to the requirements of S ection 4.05.14.02,
+shall be used for all dog control violations committed in the presence of the complainant and which occur
+within the areas of Yamhill County covered by this Chapter.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.02 Uniform Dog Control Citation.
+a) The Uniform Dog Control Citation shall conform to the requirements of ORS 153.045.
+b) Each of the parts required under ORS 153.045 may also contain any identifying and additional information
+necessary for Yamhill County Dog Control to administer this Chapter , such as whether the violation is a
+continuing violation or whether the dog or owner is a repeat offender.
+Chapter 4.05: Yamhill County Dog Control Code  Page 18 of 29
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.03 Amendment to a Uniform Dog Control Citation . Any error in transcribing on the Uniform Dog
+Control Citation form, when determined by the court to be nonprejudicial to the defendant, may be corrected at
+the time of trial or prior to trial, with notice being given to the defendant. The court may amend a citation at its
+discretion, in the interest of justice.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.04 Time to Raise Errors on Citation. Except as provided in Section 4.05.14.03, the complaint shall be
+set aside by the court for failure to confirm to this section, only upon the proper written motion of the defendant,
+before plea.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.05 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.06 Service of Citation . The citation shall be served on the owner or keeper of the dog or facility in
+violation of this Chapter by either:
+a) Personal service; or
+b) Regular and certified mail, with return receipt requested.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.07 Prosecution. The Yamhill County Counsel, Yamhill County District Attorney, and the citing Dog
+Control Officer are each hereby granted  authority to prosecute a person cited for violation of this Chapter. All
+prosecutions shall be brought in Yamhill County Circuit Court.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.08 Appearance by Defendant.
+a) The defendant shall appear in court at the time indicated in the citation and summons.
+b) A defendant who has been issued a citation under this Chapter may make a first appearance in the matter
+before the time indicated in the citation and summons by:
+(i) Entering a plea of no contest with the courts via in person, electronic, or telephonic means; and
+(ii) Delivering to the court a check or money order in the amount of the “presumptive fine” set forth
+in Section 4.05.14.13.
+c) If the defendant does not appear in court at the time indicated in the summons, the court shall enter a default
+judgment against the defendant in an amount equal to the “maximum fine” set forth in Section 4.05.14.13,
+together with court costs, administrative fees, and any special costs otherwise permitted by law.
+d) If the defendant requests a trial, the court shall fix a date and time for a trial in accordance with ORS 153.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+4.05.14.09 Trial Proceedings.
+a) A trial on any violation shall be tried to the court sitting without jury.
+b) The County shall have the burden of proof of the alleged violation by a preponderance of the evidence.
+c) The pretrial discovery rules in ORS 135.805 to 135.873 shall apply.
+d) The defendant may not be required to be a witness in the hearing.
+e) Defense Counsel shall not be provided at public expense.
+f) Proof of a culpable mental state is not an element of a violation unless expressly provided in the Code alleged
+to have been violated.
+g) The District Attorney or County Counsel may aid in preparing evidence and obtaining witnesses but, except
+upon good cause shown to the court, shall not appear in violation proceedings unless counsel for the defendant
+appears. The court shall ensure that the District Attorney or County Counsel is given timely notice if defense
+counsel is to appear at trail.
+Chapter 4.05: Yamhill County Dog Control Code  Page 19 of 29
+h) Notwithstanding any other provisions of law, the court may admit as evidence in any trial in a violation
+proceeding the affidavit or declaration of a witness in lieu of taking the testimony of the witness orally and in
+court, subject to the limitations set forth in ORS 153.080
+i) In any trial in which the District Attorney or County Counsel does not appear, the citing Dog Control Officer
+may present evidence, examine, and cross-examine witnesses, and make arguments relating to:
+(i) The application of statues and rules to the facts in the case;
+(ii) The literal meaning of the statues or rules at issue in the case;
+(iii) The admissibility of evidence; and
+(iv) Proper procedures to be used in the trial.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.10 Failure of Defendant to Appear. At the discretion of the County, if a person cited and notified of a
+court appearance as provided in this Chapter fails to appear at either the initial appearance noticed on the summons
+or at a subsequent trail scheduled by the court, a complaint or information may be filed charging the defendant
+with failure to appear on a citation, a Class A misdemeanor pursuant to  ORS 153.992. The complaint or
+information may be accompanied by a warrant for the arrest of the defendant.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.11 Continuing Violation. A continuing violation of this Chapter shall constitute a nuisance and, at the
+option of Yamhill County Dog Control, may be abated pursuant to law. In the alternative, a continuing violation
+may result in an additional base fine not to exceed $1,000 per day violation as well as the fines imposed under
+Section 4.05.14.13.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.12 Habitual Offender Status.
+a) A dog owner or keeper shall be deemed to be a “habitual offender” if they have been found guilty of, or have
+pleaded guilty or no contest to, any combination of three or more violations of this Chapter.
+b) If a defendant is found to be a habitual offender as provided herein, the court may, at its discretion, impose an
+additional fine of up to $1,000.
+c) A person deemed to be a habitual offender may, by order of the court, lose the right to own any dog(s) while
+living in Yamhill County.
+d) In addition to other sanctions described in this Chapter, a habitual offender may  be subject to the following
+restrictions:
+(i) Allowance for law enforcement inquiries and/or inspections to ensure compliance with a court
+order;
+(ii) Immediate removal by law enforcement of any dog found to be in the care of an owner or keeper
+in violation of a court order; and/or
+(iii) Loss of the right to own any dog(s) while living in Yamhill County.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.14.13 Penalties.
+a) Fines. Any person or entity found to have violated a provision of this Chapter shall be subject to the following
+fines:
+(i) Minimum Fines.
+1. Class A Dog Code Violation . The minimum fine for a Class A dog code violation under this
+Chapter is as provided in ORS 153.021(a).
+2. Class B Dog Code Violation . The minimum fine for a Class B dog code violation under this
+Chapter is as provided in ORS 153.021(b).
+3. Class C Dog Code Violation . The minimum fine for a Class C dog code violation under this
+Chapter is as provided in ORS 153.021(c).
+4. Class D Dog Code Violation . The minimum fine for a Class D dog code violation under this
+Chapter is as provided in ORS 153.021(d).
+Chapter 4.05: Yamhill County Dog Control Code  Page 20 of 29
+(ii) Maximum Fines.
+1. Class A Dog Code Violation. The maximum fine for a Class A dog code violation under this
+Chapter is as provided in ORS 153.018(a).
+2. Class B Dog Code Violation. The maximum fine for a Class B dog code violation under this
+Chapter is as provided in ORS 153. 018(b).
+3. Class C Dog Code Violation. The maximum fine for a Class C dog code violation under this
+Chapter is as provided in ORS 153. 018(c).
+4. Class D Dog Code Violation. The maximum fine for a Class D dog code violation under this
+Chapter is as provided in ORS 153. 018(d).
+(iii) Presumptive Fines.
+1. Class A Dog Code Violation. The presumptive fine for a Class A dog code violation under this
+Chapter is as provided in ORS 153.019(a).
+2. Class B Dog Code Violation. The presumptive fine for a Class B dog code violation under this
+Chapter is as provided in ORS 153. 019(b).
+3. Class C Dog Code Violation. The presumptive fine for a Class C dog code violation under this
+Chapter is as provided in ORS 153. 019(c).
+4. Class D Dog Code Violation. The presumptive fine for a Class D dog code violation under this
+Chapter is as provided in ORS 153. 019(d).
+b) Court Fee. In addition to the fine provided in subsection (a), a conviction under this Chapter shall be
+accompanied by an automatic court assessment of $ 100. This revenue shall be paid to Yamhill County Dog
+Control for maintenance, upgrade, or purchase of buildings, vehicles, equipment, or personnel expenses
+associated with dog control in Yamhill County.
+c) D isposition  of a Dog.
+(i) In addition to other sanctions allowed by law, if the dog has been found to be menacing or
+dangerous, or has been found to be a habitual offender or public nuisance as defined in this
+Chapter, the court may order whatever disposition of the dog that the court considers advisable or
+necessary for the safety, health, or protection of the public, including euthanasia of the dog.
+(ii) In its order of disposition, the court shall include written findings of the factors described in ORS
+609.093.
+(iii) Subject to advance payment of the cost of keeping the dog in impoundment, the disposition of a
+dog pursuant to an order under this subsection (c) may not be carried out during the period that the
+order is subject to the appeal process.
+(iv) If a court orders disposition under this subsection (c), and the dog owner or keeper does not
+make the dog available for that purpose, the court may issue a search warrant for a property upon
+probable cause to believe that the dog is located at that property.
+d) Additional Restrictions . In addition to other sanctions allowed by law, the court may impose reasonable
+restrictions on the keeping of a dog found to be in violation of this Chapter to ensure the safety or health of
+the public. The dog owner or keeper shall pay the cost of complying with the reasonable restrictions imposed
+by the court under this subsection (d).
+e) R
+estitution . When a person is convicted of a violation under this Chapter that has resulted in economic
+damages to a victim, the County may, at the time of sentencing, request restitution on behalf of the victim. If
+the court finds from the evidence presented that a victim suffered economic damages, in addition to any other
+sanction it may impose, the court may enter a judgment or supplemental judgment requiring that the defendant
+pay the victim restitution in a specific amount that equals the full amount of the victim’s economic damages
+as determined by the court. When entered in accordance with law, such judgment creates a judgment lien (see
+ORS 18.042 and ORS 18.150).
+f) B
+oarding Charges for Impounded Dogs. In addition to other sanctions allowed by law, the court may require
+that the defendant pay all boarding charges (including veterinary charges) that have accrued while the owner’s
+dog was impounded pending trial or other disposition. When entered in accordance with law, such judgment
+creates a judgment lien (see ORS 18.042 and ORS 18.150).
+Chapter 4.05: Yamhill County Dog Control Code  Page 21 of 29
+g) Separate and Distinct . The penalties described in this section shall be in addition to any charges assessed
+against the owner or the keeper of a dog for the licensing, impoundment, and maintenance of the dog under
+this Chapter.
+[ADOPTED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+SECTION 15 - CONDITIONS OF OWNERSHIP
+4.05.15.01 Menacing Dog Conviction : Conditions of Ownership. A dog found guilty of menacing under
+Section 4.05.07.03 must henceforth abide by the following conditions:
+a) When outside the owner or keeper’s house, the dog shall be restrained by a physical device or structure in
+good repair that would present the dog from reaching any public walkway or adjoining properties and not
+interfere with the legal access to the owner or keeper’s property.
+b) When off the property of owner or keeper, the dog shall be on a leash and under the immediate physical
+control of a person who could reasonably be expected to be able to keep the dog under control.
+c) The owner or keeper shall post their property with two or more clearly visible signs declaring, “Beware of
+Dog”, or other such recognized signs for the safety of others.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.15.02 Dangerous Dog Conviction : Conditions of Ownership. A dog found guilty of being dangerous
+under Section 4.05.07.04 must henceforth abide by the following conditions:
+a) When on the owner or keeper’s property, the dog shall:
+(i) Be kept securely confined indoors or in a securely enclosed and locked pen or structure in good
+repair. That pen or structure must have minimum dimensions of five feet by ten feet and have a
+cement floor, and a secure covering over the structure or pen that could reasonably keep that
+particular dog in its confined area and young children out. The owner or keeper must also provide
+the dog with proper shelter for the health and welfare of the dog that would meet standards year -
+round in this area.
+(ii) That structure or pen must be enclosed behind a securely locked fence in good repair which fully
+surrounds said structure or pen, and is of proper height for that particular dog, to act as secondary
+source of confinement to guarantee the safety of humans or other domestic animals should the dog
+escape the primary confinement area.
+(iii) Said dog may not be confined within ten feet of a property line unless behind a solid six feet wood
+fence in good repair to protect both the confined animal and outside humans or domestic animals,
+and still must meet the requirements in subsection (i).
+(iv) The property must be posted with enough signs to assure that anyone entering on the property or
+near where the dog is kept can be duly warned.
+b) When off the property of the owner or keeper, the dog shall be on a leash that could reasonably hold that
+particular dog and that does not exceed six feet in length, the dog shall be under the immediate physical control
+of an adult who could guarantee control of said dog, a nd in some cases , the dog may be required to wear a
+recognized muzzle.
+c) When in a vehicle, the dog shall be confined inside an enclosed portion of the vehicle or in a canopy that is in
+good repair and that can reasonably hold that particular dog. The dog may also be kept inside a crate of proper
+size and strength that is in good repair and that can reasonably hold that particular dog.
+d) When being transported in a vehicle, the dog should not have any opening large enough to stick its head
+outside of its confinement outside the immediate custody of an adult human who can control the dog.
+e) Law enforcement personnel may make inquiries or inspect any portion of confinement required under this
+Chapter at any time to assure that the owner or keeper of a menacing or dangerous dog(s) is keeping up the
+requirements as ordered in these sections.
+Chapter 4.05: Yamhill County Dog Control Code  Page 22 of 29
+f) Any dog having been deemed a dangerous dog hereunder may not be sold or given away to anyone but a
+recognized law enforcement dog control facility, and all rights to the dog will be forfeited upon receipt of said
+dog.
+g) Upon order of the court, an owner or keeper a dog may be required to obtain and maintain a separate insurance
+policy if the dog is found to be dangerous, for as long as the dog lives, with limits of not less than $25,000
+and not more than $50,000.
+h) Any dog designated as dangerous may be destroyed if so ordered by the court , or if the owner or keeper is
+unwilling or unable to comply with the regulations  or the judgment, as applicable, or if the owner or keeper
+of said dog releases all rights to Yamhill County Dog Control.
+i) Any dog cited as dangerous may be picked up and lodged at a holding facility until such time as the case has
+a disposition and/or confinement conditions are met to the satisfaction of law enforcement personnel. The
+owner or keeper may be held liable for the dog’s room and board during this period.
+j) Any dog allowed or encouraged to act in a menacing or dangerous manner outside of confinement as listed in
+this Chapter, may be removed by law enforcement personal and kept at a holding facility until such time as a
+judge or the dog board decides the disposition of said dog.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.15.03 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.15.04 Habitual Offender Status: Conditions of Ownership. Any dog having been found/pled guilty of
+habitual offender may be subject to the following conditions of confinement:
+a) When outside the owner or keeper’s house, the dog shall be restrained by a physical device or structure in
+good repair that would present the dog from reaching any public walkway or adjoining properties and not
+interfere with the legal access to the owner or keeper’s property.
+b) When off the property of owner or keeper, the dog shall be on a leash and under the immediate physical
+control of a person who could reasonably be expected to be able to keep the dog under control.
+c) The owner or keeper shall post their property with two or more clearly visible signs declaring “Beware of
+Dog” or other such recognized signs for the safety of others.
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; AMENDED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+4.05.15.05 [REPEALED]
+[ADOPTED VIA ORDINANCE NO. 692 eff 07/12/01; REPEALED VIA ORDINANCE NO. 942 eff 02/27/25]
+
+LEGISLATIVE HISTORY
+
+Adopted via Ordinance No. 150 on 01/18/1978, effective 01/18/1978
+ Amended via Ordinance No. 168 on 04/26/1978, effective 04/26/1978
+ Amended via Ordinance No. 188 on 11/22/1978, effective 11/22/1978
+ Repealed via Ordinance No. 274 on 08/26/1981, effective 08/26/1981
+
+Adopted via Ordinance No. 274 on 08/26/1981, effective 08/26/1981
+Amended via Ordinance No. 285 on 11/04/1981, effective 11/04/1981
+ Amended via Ordinance No. 361 on 11/09/1983, effective 11/09/1983
+ Amended via Ordinance No. 366a on 12/07/1983, effective 12/07/1983
+ Amended via Ordinance No. 403 on 02/13/1985, effective 02/13/1985
+ Amended via Ordinance No. 422 on 12/04/1985, effective 01/01/1986
+ Repealed via Ordinance No. 449 on 09/02/1987, effective 09/02/1987
+Chapter 4.05: Yamhill County Dog Control Code  Page 23 of 29
+
+Adopted via Ordinance No. 449 on 09/02/1987, effective 09/02/1987
+Amended via Ordinance No. 544 on 12/09/1992, effective 12/09/1992
+ Repealed via Ordinance No. 692 on 07/12/2001, effective 07/12/2001
+
+Adopted via Ordinance No. 692 on 07/12/2001, effective 07/12/2001
+Amended via Ordinance No. 707 on 12/13/2001, effective 12/13/2001
+Amended via Ordinance No. 708 on 12/20/2001, effective 12/20/2001
+ Amended via Ordinance No. 732 on 12/23/2003, effective 12/23/2003
+ Amended via Ordinance No. 771 on 06/29/2005, effective 06/29/2005
+ Amended via Board Order No. 07-340 on 04/25/2007, effective 04/24/2007
+ Amended via Ordinance No. 942 on 02/27/2025, effective 02/27/2025
+
+i
+
+APPENDIX A: DOG CONTROL FEES
+[ADOPTED VIA BOARD ORDER NO. 25-055 eff 02/27/25]
+
+DOG LICENSING
+• Reciprocal License Transfer Fee (YCC 4.05.05.02) ...............................................................................$5
+• Yearly License Fee (YCC 4.05.05.04)
+ Spayed or neutered dog with veterinarian certificate .....................................................................$25
+ Spayed or neutered dog with veterinarian certificate owned by a person 65 or older ....................$15
+ All other dogs (fertile) ....................................................................................................................$35
+• Two-Year License Fee (YCC 4.05.05.04)
+ Spayed or neutered dog with veterinarian certificate .....................................................................$45
+ Spayed or neutered dog with veterinarian certificate owned by a person 65 or older ....................$25
+ All other dogs (fertile) ....................................................................................................................$65
+• Three-Year License Fee (YCC 4.05.05.04)
+ Spayed or neutered dog with veterinarian certificate .....................................................................$60
+ Spayed or neutered dog with veterinarian certificate owned by a person 65 or older ....................$30
+ All other dogs (fertile) ....................................................................................................................$90
+• Assistance Animal License (YCC 4.05.05.04(d)-(e)) .............................................................................$0
+• Lost Dog License Tag Fee (YCC 4.05.05.06) ........................................................................................$5
+• License Tag Ownership Transfer Fee (YCC 4.05.05.07) .......................................................................$5
+• Late License Fee (YCC 4.05.05.10)
+ If no citation has been issued ......................................................................... add ½ yearly license fee
+ If citation has been issued ...................................................................... add double yearly license fee
+
+AUTHORIZED SALES OUTLET
+• Amount That May be Retained by License Outlets (YCC 4.05.05.09) ..................................................$2
+
+KENNEL LICENSING
+• Commercial Licensing Annual Fee (YCC 4.05.06.02(a)) ...............................................................$1,000
+• Hobby Licensing Annual Fee (YCC 4.05.06.02(a)) ...........................................................................$250
+• Late License Fee (YCC 4.05.06.02(c)) ........................................................................................ add $100
+
+ANIMAL SURRENDERED TO DOG CONTROL
+• Fee to Surrender (Release) a Dog (YCC 4.05.08.07) ...........................................................................$50
+
+IMPOUNDMENT REDEMPTION FEES
+• Standard Dog Impoundment Redemption Fee (YCC 4.05.08.09) ........................................................$50
+• S
+econd Dog Impoundment Redemption Fee within 12-month Period (YCC 4.05.08.09) .................$100
+• Third+ Dog Impoundment Redemption Fee within 12-month Period (YCC 4.05.08.09) ..................$200
+• Boarding Fees Per Day (YCC 4.05.08.09) ...........................................................................................$25

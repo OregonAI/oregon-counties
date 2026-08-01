@@ -1,0 +1,416 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-0502-very-low-density-residential-d
+title: 'Zoning-Ordinance-Section-0502-Very-Low-Density-Residential-Districts-VLDR-5-VLDR-25-VLDR-1-Ord-872-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-0502-Very-Low-Density-Residential-Districts-VLDR-5-VLDR-25-VLDR-1-Ord-872-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8483/Zoning-Ordinance-Section-0502-Very-Low-Density-Residential-Districts-VLDR-5-VLDR-25-VLDR-1-Ord-872-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ca2d102cc306d7b6f59ba15dfd5f23ec611edce3e1d9166818aca967f2709f14
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.660
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zoning-Ordinance-Section-0502-Very-Low-Density-Residential-Districts-VLDR-5-VLDR-25-VLDR-1-Ord-872-PDF (Zoning-Ordinance-Section-0502-Very-Low-Density-Residential-Districts-VLDR-5-VLDR-25-VLDR-1-Ord-872-PDF)
+
+## At a glance
+
+Zoning-Ordinance-Section-0502-Very-Low-Density-Residential-Districts-VLDR-5-VLDR-25-VLDR-1-Ord-872-PDF — land use of Yamhill County. 7 pages.
+
+## Full text
+
+Yamhill County Zoning Ordinance   Page 502-1
+
+SECTION 500  RURAL RESIDENTIAL DISTRICTS
+
+502. VERY LOW DENSITY RESIDENTIAL DISTRICTS (VLDR-5, VLDR-2 , VLDR-1)  [Last Amended 06/29/23; Ord. 928]
+
+502.01 Purpose.
+
+The purpose of the VLDR Districts is to provide for medium-to-high density rural residential
+development on selected lands identified as Very Low Density Residential in the Comprehensive Plan.
+The VLDR Districts are intended to accommodate rural residential development at an anticipated
+magnitude or density level that does not require more than a very basic level of services, such as single
+local-road access, individual domestic wells and sewage-disposal systems, and rural fire protection.
+Ultimate density limitations in VLDR Districts shall be determined in part by prevailing lot sizes, and
+limitations of domestic water sources or soil conditions for subsurface sewage disposal.  Oppor-
+tunities for small-scale or intensive farm and forestry activities compatible with rural residential uses
+shall be encouraged in the VLDR Districts.  In areas immediately adjacent to urban centers, the
+VLDR Districts are intended as transitional zones between F-80, EF-20, -40 or -80, AF-20, -40 or -80
+and AF-10 Districts and higher-density LDR Districts or urban districts identified in city
+comprehensive plans.    [Amended 12/05/02; Ord. 720]
+
+502.02 Permitted Uses.
+
+In the VLDR Districts, the following uses shall be permitted subject to the standards and limitations
+set forth in subsection 502.06:
+
+A. Farm uses. The number of livestock and other animals that may be raised on a parcel is subject
+to the limitations in subsection 502.06(J); [Amended 3/19/98, Ord. 643; 7/9/98, Ord 648]
+
+B. Propagation and harvesting of Christmas trees;
+
+C. Principal Dwelling;
+
+D. Subdivisions, subject to the land division requirements set forth in Ordinance 205;
+
+E. Residential planned unit developments, subject to Section 903 of this ordinance and the land
+division requirements set forth in Ordinance 205;
+
+F. Accessory uses;
+
+G. Temporary structures as may be required during construction of an authorized permanent
+structure.  Such temporary structure shall be removed upon final inspection of the permanent
+structure by the Building Inspector;
+
+H. Manufactured home storage and temporary sales offices for permitted uses, pursuant to the
+Type A application procedure set forth in Section 1301 and subject to Section 1009 for
+temporary permits;
+
+I. Signs, pursuant to the sign provisions set forth in Section 1006;
+
+J. Residential home or a registered or certified family child care home;  [Amended 5/24/12; Ord. 872]
+
+ Yamhill County Zoning Ordinance   Page 502-2
+
+K. Propagation and harvesting of forest products; and [Added 12/05/02; Ord. 720]
+
+L. Accessory dwelling unit subject to the Type A application procedure set forth in Section 1301
+and the standards in Section 1014.      [Amended 06/29/23; Ord. 928]
+
+502.03 Conditional Uses.
+
+In the VLDR Districts, pursuant to the Type B application procedure set forth in Section 1301, and
+subject to the conditional use review criteria listed in Section 1202, and any other applicable criteria
+established by this ordinance, the following uses may be allowed conditionally:
+
+A. One manufactured dwelling or recreational vehicle, or the temporary use of an existing
+building, in conjunction with as existing dwelling as a temporary use for the term of a
+hardship suffered by the existing resident or relative, as defined in ORS 215, of the resident,
+subject to the following:
+
+1. The resident or relative of the resident is aged, infirm, or for health-related reasons, is
+incapable of maintaining a complete separate residence.
+
+2. The permit for the manufactured dwelling for the term of hardship shall be valid for a
+period of two years or a shorter period as determined appropriate by the Director or
+hearings body.  A permit may be revoked by the Director at any time, if any of the
+reasons for which the permit was granted are no longer applicable, or if any imposed
+condition is violated.
+
+3. The permit for the temporary dwelling for the term of hardship shall be granted to the
+applicant only and shall not be deemed to run with the land.
+
+4. The temporary dwelling shall use the same subsurface sewage disposal system as the
+existing dwelling, if that disposal system is adequate to accommodate the additional
+dwelling.
+
+5. When a recreational vehicle is allowed to be used as a temporary structure the
+recreational vehicle site shall have services, inspected and approved by the building
+department which includes electricity, plumbing and connection to an approved septic
+system.
+
+6. Within three months of the end of the hardship, the manufactured dwelling shall be
+removed or demolished or, in the case of an existing building, the building shall be
+removed, demolished or returned to an allowed nonresidential use.  In the case of a
+recreational vehicle, within three months of the end of the hardship, it shall be
+removed, demolished or may remain on the property and used in accordance with
+Section 501.06(H). A temporary residence approved under this paragraph is not
+eligible for replacement. [Amended 07/29/04; Ord. 743]
+
+B. Home occupation, as defined by this ordinance, subject to the standards and limitations set
+forth in Section 1004.
+
+C. Operations conducted for the exploration of oil, natural gas or geothermal resources subject to
+the requirements in subsection 404.10;
+
+ Yamhill County Zoning Ordinance   Page 502-3
+D. Kindergarten in conjunction with a principal dwelling on the same parcel, subject to the
+standards for day care facilities set forth in Section 1008; [Amended 5/24/12; Ord. 872]
+
+E. Community or municipal water-supply system, except within acknowledged service
+boundaries;
+
+F. Community or municipal sanitary-sewer system;
+
+G. Utility facility, subject to Section 1101 for site design review;
+
+H. Public or private school, including all buildings essential to the operation of a school, subject
+to Section 1101, Site Design Review; and [Amended 8/13/98, Ord. 657]
+
+I. Church, subject to Section 1101, Site Design Review. [Amended 8/13/98, Ord. 657]
+
+J. A church may offer overnight camping space on institution property to homeless persons
+living in vehicles provided there are three or fewer vehicles and campers have access to
+sanitary facilities including but not limited to toilet, hand washing and trash disposal facilities.  [Added 12/05/02; Ord. 720]
+
+K. Park, playground, recreational area or open space which is publicly or privately owned,
+operated or maintained, including fishing and wildlife preserves but excluding hunting
+preserves. [Added 05/25/04; Ord. 741]
+
+L. Community Centers. [Added 09/02/04; Ord. 746]
+
+M. Residential facility as defined in ORS 197.660. [Added 09/02/04; Ord. 746]
+
+502.04 Prohibited Uses.
+
+Uses of land and water not specifically mentioned in this section shall be prohibited in the VLDR Dis-
+tricts.
+
+502.05 Nonconforming Uses.
+
+Nonconforming uses found in the VLDR Districts are subject to the nonconforming use provisions of
+Section 1205 as well as any other applicable provisions of this ordinance.
+
+502.06 Standards and Limitations.
+
+In the VLDR Districts, the following standards and limitations shall apply:
+
+A. Dwelling Density.
+
+1. Permitted Uses.
+
+(a) The maximum overall dwelling density for any new development shall not
+exceed:
+
+i. one (1) dwelling per five (5) acres in the VLDR-5 District;
+
+ii. one (1) dwelling per two and one-half (2 ) acres in the VLDR-2
+District; and
+
+ Yamhill County Zoning Ordinance   Page 502-4
+
+     iii. one (1) dwelling per acre in the VLDR-1 District.
+
+(b) Not more than one (1) principal dwelling shall be permitted on any parcel,
+except in the case of a planned unit development and except as follows:
+
+i. one (1) duplex may be allowed on any ten (10) acre parcel in the
+VLDR-5 District.
+
+ii. one (1) duplex may be allowed on any five (5) acre parcel in the
+VLDR-2  District; and
+
+    iii. one (1) duplex may be allowed on any two (2) acre parcel in the
+VLDR-1 District.
+
+(c) For the division of any contiguous lands under the same ownership, parcel
+sizes may be averaged provided that the maximum overall density of the
+applicable VLDR District is not exceeded, and provided that no parcel shall
+be below the applicable minimum parcel size established by subsection
+502.06(B).  In the case of parcel-size averaging, the landowner shall record
+an affidavit with the county clerk specifying the imposed conditions which are
+applicable to the newly-created parcels, including overall residential density,
+etc.
+
+2. Conditional Uses.
+
+Not more than one (1) secondary dwelling shall be permitted on any parcel.
+
+B. Parcel Size and Dimension.
+
+1. VLDR-5 District.
+
+(a) Newly-Created Parcels.  The minimum size of any newly-created parcel shall
+be five (5) acres, except as follows:
+
+i. In the case of parcel-size averaging, the minimum parcel size shall be
+two and one-half (2 ) acres;
+
+ii. In the case of a duplex, the minimum parcel size shall be (10) acres;
+and
+
+       iii. In the case of a duplex or multi-family planned unit development, the
+minimum parcel size shall be twenty (20) acres.
+
+(b) Pre-existing Lots of Record.  Any permitted or conditional use provided for
+in this District may be established on a substandard pre-existing lot of record,
+subject to the applicable requirements of this section. In addition, prior to
+issuance of a building permit for a principal dwelling, the provisions of
+Section 1204 shall be satisfied.
+
+(c) Depth-to-Width Ratio.  The maximum depth-to-width ratio for any newly-
+created parcel shall be 3:1.
+
+ Yamhill County Zoning Ordinance   Page 502-5
+2. VLDR-2 .
+
+(a) Newly-Created Parcels.  The minimum size of any newly-created parcel shall
+be two and one-half (2 ) acres, except as follows:
+
+i. in the case of parcel-size averaging, the minimum parcel size shall be
+one (1) acre; and
+
+ii. in the case of a duplex, the minimum parcel shall be five (5) acres;
+and
+
+       iii. in the case of a residential planned unit development, the minimum
+parcel size shall be ten (10) acres.
+
+(b) Pre-existing Lots of Record.  Any permitted or conditional use provided for
+in this District may be established on a substandard pre-existing lot of record,
+subject to the applicable requirements of this section.  In addition, prior to
+issuance of a building permit for a principal dwelling, the provisions of
+Section 1204 shall be satisfied.
+
+(c) Depth-to-Width Ratio.  The maximum depth-to-width ratio for any newly-
+created parcel shall be 3:1.
+
+3. VLDR-1.
+
+(a) Newly-Created Parcels.  The minimum size of any newly-created parcel shall
+be one (1) acre, except as follows:
+
+i. in the case of parcel-size averaging, the minimum parcel size shall be
+20,000 square feet; and
+
+ii in the case of a duplex, the minimum parcel size shall be two (2)
+acres; and
+
+       iii. in the case of a residential planned unit development, the minimum
+parcel size shall be five (5) acres.
+
+(b) Pre-existing Lots of Record.  Any permitted or conditional use provided for
+in this District may be established on a substandard pre-existing lot of record,
+subject to the applicable requirements of this section.  In addition, prior to
+issuance of a building permit for a principal dwelling, the provisions of
+Section 1204 shall be satisfied.
+
+(c) Depth-to-Width Ratio.  The maximum depth-to-width ratio for any newly-
+created parcel shall be 3:1.
+
+C. Setbacks.
+
+The following setback requirements apply to all VLDR Districts unless varied or waived by a
+planned unit development, subject to Section 903:
+
+1. Front Yard.  The minimum front yard setback shall be thirty (30) feet except as
+follows:
+
+ Yamhill County Zoning Ordinance   Page 502-6
+
+(a) No dwelling shall be located within one hundred (100) feet of the property
+line of an existing extraction or mining operation nor less than two hundred
+(200) feet from an existing extraction operation.
+
+(b) The minimum setback for all yards for signs shall be five (5) feet; and
+
+(c) No structure housing livestock shall be located within fifty (50) feet of any
+front parcel line, twenty-five (25) feet of any other parcel line, and forty (40)
+feet of any dwelling.
+
+2. Side and Rear Yard.  The minimum side and rear yard setbacks shall be fifteen (15)
+feet, except as provided in this subsection.
+
+3. An accessory structure not more than fifteen (15) feet in height, at least sixty (60) feet
+from a road, and at least ten (10) feet from any dwelling may be located a minimum
+distance of three (3) feet from the property line in a side yard or rear yard.
+
+4. A swimming pool may be located in a required rear yard, provided it lies a minimum
+of five (5) feet from the rear property line.
+
+5. Fences, walls and hedges may be permitted in any required yard or along the edge of
+any yard, subject to the clear-vision area requirements of subsection 502.06(F).  [Subsection C amended 7/9/98, Ord. 648]
+
+D. Parcel Coverage.
+
+For any parcel of one (1) acre or more, but less than ten (10) acres, the maximum parcel
+coverage shall be ten (10) percent.  For any parcel of less than one (1) acre, the maximum
+parcel coverage shall be fifteen (15) percent.
+
+E. Access.
+
+Before a dwelling may be established on any parcel as provided in this section, the parcel shall
+have a legal, safe and passable means of access by abutting at least twenty (20) feet either
+directly upon a public road, or by a private easement which is at least thirty (30) feet in width
+for its entire length and which also abuts upon a public road for at least thirty (30) feet.
+Nothing in this section shall be construed to vary or waive the requirements for creation of
+new access contained in any Land Division Ordinance legally adopted by Yamhill County.
+
+F. Clear-Vision Areas.
+
+A clear-vision area shall be maintained on the corner of any parcel at the intersection of any
+two of the following: County roads, public roads, private roads serving four or more parcels;
+and railroads.  A clear-vision area shall contain no sight-obscuring structures or planting
+exceeding thirty (30) inches in  within a triangle formed by the lot corner nearest the intersec-
+tion, and the two points twenty (20) feet from this corner as measured along the parcel lines
+adjacent to the intersecting rights-of-way.  Trees exceeding this may be located such that their
+branches extend into this triangle, provided they are maintained to allow at least twelve (12)
+feet of visual clearance within the triangle below the lowest hanging branches.
+
+G. Height.
+
+  Yamhill County Zoning Ordinance   Page 502-7
+1. The maximum building height for any dwelling shall be thirty-five (35) feet;
+ [Amended 4/9/97; Ord. 624]
+
+2. The maximum building height for all other structures shall be forty-five (45) feet,
+except for accessory structures on any parcel of less than ten (10) acres the maximum
+building height shall be thirty-five (35) feet; and [Amended 4/9/97; Ord. 624]
+
+3. Appurtenances usually required to be placed above the roof level and not intended for
+human occupancy such as spires, belfries, cupolas, antennas, water tanks, ventilators,
+chimneys and wind generators are not subject to the height limitations of this
+ordinance.
+
+H. Occupancy of Recreational Vehicles.
+
+One (1) recreational vehicle shall be permitted to be parked on any parcel in conjunction with
+a principal dwelling, and may be used for the temporary accommodation of guests for a period
+of up to 30 days total in any year.  In no case shall any recreational vehicle be used as a
+principal dwelling or rented unless and until the necessary permits have been obtained.  [Amended 7/9/98, Ord. 648]
+
+I. Off-Street Parking.
+
+1. In the VLDR Districts, prior to establishment of any dwelling, sufficient area must be
+provided to allow for at least one (1) emergency vehicle turnaround; and
+
+2. Parking requirements for those uses which may generate traffic beyond what is
+normally expected in the VLDR Districts, including multi-family dwellings, shall be
+determined by the Director subject to the provisions of Section 1007.
+
+J. Livestock.
+
+The keeping of livestock shall be allowed subject to the following restrictions:
+
+1. On any parcel of one-half () acre or less, the total number of fowl, rabbits and other
+similar small animals shall not exceed twenty-five (25) and no other livestock of any
+kind shall be permitted;
+
+2. On any parcel of less than ten (10) acres, the total number of animal units shall not
+exceed one (1) for each one (1) acre of parcel area.  Animal units shall be counted as
+follows: horse 1.0, cow over 18 months old 1.0, calf 0.6, cow and calf pair 1.35, sheep
+0.2, pig 0.5 and goat 0.2. [Amended 12/05/02; Ord. 720]
+
+3. On any parcel of less than ten (10) acres, the total number of fowl, rabbits and other
+similar small animals shall not exceed twenty-five (25), plus one (1) for each five
+hundred (500) square feet of parcel area in excess of one-half () acre and the total
+number of bee colonies shall not exceed one (1) per two thousand (2,000) square feet
+of parcel area;
+
+4. All livestock shall be properly fenced and contained so as to minimize adverse
+impacts to surrounding property owners; and
+
+5. All animal food shall be stored in metal or other rodent-proof receptacles.

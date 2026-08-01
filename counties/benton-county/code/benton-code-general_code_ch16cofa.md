@@ -1,0 +1,149 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-general_code_ch16cofa
+title: 'CHAPTER 16 - COUNTY FAIR'
+doc_type: ordinance
+citation: 'CHAPTER 16 - COUNTY FAIR'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH16COFA&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: e4b7cd54200a98e2dbb8acc3c3a85d086a3c7af8b3ddf9d736dec01ff8e2c322
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CHAPTER 16 - COUNTY FAIR (CHAPTER 16 - COUNTY FAIR)
+
+## At a glance
+
+CHAPTER 16 - COUNTY FAIR — code of Benton County. 10 sections.
+
+## Full text
+
+ ### CHAPTER 16 - COUNTY FAIR
+
+ ### 16.005 - Fair Structure as Matter of County Concern.
+
+The County hereby declares the structure, organization and management of the Benton
+County Fair and Fairgrounds to be matters of County concern under the Benton County
+Charter. Thus, to the extent that BCC Chapter 16 conflicts with state law, BCC Chapter
+16 prevails.
+[Ord. 85-0029; Ord. 88-0054]
+
+ ### 16.105 - County Fair Board Established.
+
+There is hereby established a Benton County Fair Board consisting of not less than
+three nor more than seven members, appointed for staggered 3 year terms. The members
+of the Fair Board shall be appointed, and may be removed, pursuant to BCC Chapter 3 (Citizen Committees). One and only 1 member of the Benton County Board of Commissioners
+may be a member of the County Fair Board. The members of the Benton County Fair Board
+in existence at the effective date of the revisions to BCC Chapter 16 pursuant to Ordinance 96-0116 are confirmed in their positions and shall serve for
+the remainder of their unexpired terms.
+[Ord. 85-0029; Ord. 88-0054; Ord. 90-0066; Ord. 96-0116; Ord. 2018-0284]
+
+ ### 16.110 - Bonds Required.
+
+The Board of Commissioners shall require the Fair Board to furnish to the Board of
+Commissioners, for all members of the Fair Board, a good and sufficient bond issued
+by a commercial insurance bonding company in favor of the County, conditioned upon
+the faithful performance of the duties of the office. The bond for each member shall
+be in a sum equal to $10,000 or 20% of the total revenues received by the fair in
+the last fiscal year ending prior to the appointment of such member, whichever is
+the lesser amount. The premium on the bond shall be paid for by the County Fair Board
+as an expense of the Fair Board. The Fair Board shall utilize the County's agent of
+record for purchasing the bond.
+[Ord. 96-0116]
+
+ ### 16.205 - Duties of the Fair Board.
+
+(1)
+The Benton County Board of Commissioners has the exclusive management of the grounds
+and all other property owned, leased, used or controlled by the County and devoted
+to the use of the County Fair and Fairgrounds, and is entrusted and charged with the
+entire business management, financial and other affairs of the County Fair and Fairgrounds.
+The Board of Commissioners may delegate some, or all, of this authority to the Fair
+Board, Fair Manager or another County position or department.
+(2)
+In order that the fairgrounds and buildings may be utilized to the fullest extent
+for pleasure, recreation and public benefit, the Benton County Board of Commissioners
+shall at all times have the authority to provide fairgrounds facilities for the public
+or to issue licenses and grant permits for the holding of exhibitions, shows, carnivals,
+circuses, dances, entertainments or public gatherings upon the fairgrounds. The Board
+of Commissioners may delegate some, or all, of this authority to the Fair Board, Fair
+Manager or another County position or department.
+[Ord. 96-0116; Ord. 2018-0284]
+
+ ### 16.210 - Organization of Fair Board; Meetings.
+
+(1)
+The members of the Fair Board shall, as soon as their bonds have been approved, meet
+and organize by electing a chair and a vice-chair.
+(2)
+A majority of the members of the Fair Board shall constitute a quorum for the transaction
+of all business at meetings. In the absence of the chair, the vice-chair shall perform
+the duties of the chair.
+[Ord. 96-0116]
+
+ ### 16.305 - Policing the Fairgrounds.
+
+In order to keep order and preserve the peace during the County Fair and other events
+held at the Benton County Fairgrounds, and for the protection of the public and private
+property upon the Fairgrounds, the Benton County Sheriff's Department shall provide
+either or both regular and reserve deputy sheriffs as requested and approved by the
+Benton County Sheriff. The Benton County Sheriff's Department and/or the Benton County
+Sheriff's Reserves shall be reimbursed by the Fair Fund for the costs of providing
+such service. The Benton County Sheriff or his/her designee shall have sole command
+and supervision of the Sheriff's deputies and reserves on duty at the Fairgrounds.
+[Ord. 85-0029; Ord. 88-0054; Ord. 91-0086; Ord. 96-0116; Ord. 2018-0284]
+
+ ### 16.310 - County Fair Not Held.
+
+Should the Fair Board or Board of Commissioners decide not to hold a County Fair,
+the Board of Commissioners may in its discretion expend such funds, or any portion
+thereof, for paying premiums upon exhibits of livestock, agricultural and horticultural
+products at any fair, land products show or livestock exposition held in this state.
+Any or all of such funds not so used shall be held by the County Treasurer in a reserve
+fund to be available for use by the Fair Board in subsequent years.
+[Ord. 96-0116; Ord. 2018-0284]
+
+ ### 16.405 - Accounting and Auditing.
+
+Management and operation of the Fairgrounds and personnel shall utilize Benton County's
+budget process, finance and accounting systems, payroll services, and personnel services.
+The Fair Board and the Board of Commissioners may execute a separate agreement detailing
+the services and method of compensation to the County. The financial activities of
+the Fairgrounds will be included in the annual financial report (audit) of Benton
+County.
+[Ord. 96-0116; Ord. 2018-0284]
+
+ ### 16.410 - County Fair Fund.
+
+(1)
+Benton County shall establish and maintain a Fair Fund. The Fair Fund may be expended
+only for the promotion and operation of the County Fair and to provide, maintain and
+improve County Fairgrounds, buildings, facilities and improvements on the County Fairgrounds
+for the County Fair and other events authorized by the Board of Commissioners or its
+designee.
+(2)
+All moneys received from activities conducted at the County Fair or at the County
+Fairgrounds or facilities shall be deposited in the County fair Fund.
+[Ord. 96-0116; Ord. 2018-0284]

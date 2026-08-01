@@ -1,0 +1,905 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-110
+title: '110'
+doc_type: ordinance
+citation: '110'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4512/110
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f310431fd7b7da056d8299e4266ae68ec0541ae13a344a9236d296fe59e3f87c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 164.813
+    - ORS 321.267
+    - ORS 418.205
+    - ORS 443.400
+    - ORS 443.705
+    - ORS 446.310
+    - ORS 459.860
+    - ORS 466.005
+    - ORS 475.302
+    - ORS 475.304
+    - ORS 475.314
+    - ORS 757.300
+    - ORS 92.010
+    - OAR 845-025-1015
+    - OAR 845-025-1230
+    - OAR 845-025-2840
+    - OAR 845-025-3200
+    - OAR 845-025-3500
+    - OAR 845-025-5030
+    - OAR 845-025-5300
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 110 (110)
+
+## At a glance
+
+110 — land use of Polk County. 18 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-1
+
+CHAPTER 110
+GENERAL PROVISIONS AND DEFINITIONS
+110.001. Short Title
+110.005. - 110.615.  Definitions
+110.620.   Application of Zoning Regulations
+110.630.   Conformance and Permits Required
+110.640.   Amendment of Text Only
+110.650.  Savings Clause
+110.660. Repealing Conflicting Ordinances
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-2
+
+110.001.  SHORT TITLE.   This ordinance shall be known as the Polk County Zoning
+Ordinance, hereinafter referred to as the PCZO , and may be so cited and pleaded.
+DEFINITIONS
+110.005.  GENERAL DEFINITIONS.   For the purpose of this ordinance, words used in the
+present tense include the future, the singular number includes the plural, the word "shall" is
+mandatory and not directory, the word "building" includes structures .
+110.007.  ACCESS.   The connection of any existing or proposed road or bike facility to a county
+or state road; for example, a private driveway or public road, for ingress or egress to property.
+[Amended by Ordinance 98-5]
+110.010.  ACCESSORY BUILDING.   A detached, subordinate building or portion of a main
+building, the use of which is incidental to that of the main building or to the use of the land.
+110.012.  ACCESSORY TRANSPORTATION IMPROVEMENTS .  Transportation
+improvements that are incidental to a land use to provide safe and efficient access to the use.
+[Amended by Ordinance 01-10]
+110.015.  ACCESSORY USE.   A use incidental, appropriate, and subordinate to the main use of
+a lot or building.
+110.020.  APPEARANCES OF INTERESTED PERSONS; REMONSTRANCES .   Any
+person or persons desiring to be heard for or against the subject of the hearing may file with the
+governing body, Hearings Office or the Planning Commission, whichever holds the hearing, a
+statement in writing, or may appear and respond orally at the hearing, either in person or by
+authorized representative.  An issue which may be the basis for an appeal to the Land Use Board
+of Appeals shall be raised not later than the close of the record at or following the final evidentiary
+hearing on the proposal.  Such issues shall be raised with sufficient specificity as to afford the
+hearings body, and the parties, an adequate opportunity to respond to each issue. [Amended by
+Ordinance 89-17]
+110.025.  AIR CONTAMINANT.   Any dust, fume, gas, mist, odor, smoke, vapor, pollen, soot,
+carbon, acid or particulate matter or any combination thereof.
+110.030.  AIR CONTAMINATION SOURCE.   Any source at, from, or by reason of which
+there is emitted into the atmosphere any air contaminant, regardless of who the person may be
+who owns or operates the building, premises or other property in, at, or on which such source is
+located, or the facility, equipment or other property by which the emission is caused or from
+which the emission comes.
+110.040.  AIRPORT.   A landing area, runway or other facility designed, used, or intended to be
+used for the landing and taking off of aircraft, aircraft storage, hangars, and other necessary
+buildings and open spaces.
+110.045.  ALLEY.   A public space or thoroughfare not more than 20 feet, but not less than 10
+feet in width which has been dedicated or deeded to the public for public use providing a
+secondary means of access.
+110.148.  CHANNELIZATION.  The separation or regulation of conflicting traffic movements
+into definite paths of travel by traffic islands or pavements markings to facilitate the safe and
+orderly movements of both vehicles and pedestrians.  Examples include, but are not limited to, left
+turn refuges, right turn refuges including the construction of islands at intersections to separate
+traffic, and raised medians at driveways or intersections to permit only right turns.
+“Channelization” does not include continuous median turn lands.   [Amended by Ordinance 01-10]
+110.050.  ALTERATION, STRUCTURAL.   Any change or repair which would affect or
+materially change a supporting member of a building, such as a bearing wall, column, beam, or
+girder.
+110.055.  APARTMENT.   An apartment shall mean a dwelling unit as defined in this ordinance.
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-3
+
+110.060.  APARTMENT HOTEL.   A building or portion thereof designed for or containing
+both individual guest rooms or suites or rooms and dwelling units.
+110.162.  CORRIDOR REFINEMENT PLAN OR REFINEMENT PLAN.  - An
+amendment to the Polk County transportation systems plan, which resolves, at a systems level,
+determinations on function, mode or general location which were deferred during transportation
+system planning because detailed information needed to make those determinations could not
+reasonably be obtained during that process.   [Amended by Ordinance 01-10]
+110.065.  APARTMENT HOUSE.   A building or portion thereof designed, built, rented, leased,
+let or hired out to be occupied, or which is occupied or is the home or residence of three or more
+families living independently of each other and doing their own cooking in said building, and shall
+include flats and apartments.
+110.070.  ARTERIAL STREET (ROAD).   A roadway intended to carry large volumes of traffic
+(typically 1,000 ADT or more outside of an urban growth boundary) and connect major traffic
+generators, cities, recreational areas, and major segments of transportation networks.  High
+capacity is achieved through allowing higher speed, limited access, wider roadway and movement
+preference at intersections with lesser standard roadways.
+“Principal arterials” are major urban and rural highways connecting communities towns, and
+cities.  The principal arterial provides for through traffic movement and distribution to
+lower order roadways.
+“Minor arterials” connect areas of principal traffic generation to major urban and rural
+highways.  The minor arterial network provides for through traffic movement to the major
+arterials and distribution into the network of collector and local streets.  [Amended by Ordinance
+98-5]
+110.075.  AUTOMOBILE SERVICE STATION.   A premises used for retail sales directly to
+the consumer for the supplying of gasoline, oil, minor accessories and services for automobiles ,
+trucks, and/or motor vehicles.
+110.080.  AUTOMOBILE OR TRAILER SALES AREA.   A lot used for display, sale, or
+rental of new or used automobiles , trucks, and/or motor vehicles or trailers, where no repair work
+is done except minor, incidental repairs of automobiles or trailers to be displayed, sold or rented
+on the premises.
+110.085.  AUTOMOBILE/TRAILER CAMP.   See Trailer Park, Mobile Home Park.
+110.090.  AUTOMOBILE WRECKING YARD; JUNK YARD.   A premises used for the
+storage or sale of used automobile , truck, and/or motor vehicle parts or for the storage,
+dismantling, or abandonment of junk, obsolete automobiles, trailers, trucks, machinery, or parts
+thereof.
+110.095.  AWNING.   A movable shelter supported entirely from the exterior wall of a building
+and of a type, which can be retracted, folded or collapsed against the face of a supporting
+building.
+110.100.  AWNING, MOBILE HOME, TRAILER.   A stationary structure, permanent or
+demountable, used in conjunction with a mobile home or trailer, other than a window awning, for
+the purpose of providing shelter from the sun and rain, and having a roof with supports and not
+more than one wall or storage cabinet substituting for a wall.
+110.105.  BASEMENT.   That portion of a building between floor and ceiling which is partly
+below and partly above grade, but so located that the vertical distance from grade to the floor
+below is equal to or greater than the vertical distance from grade to ceiling.  If such portion of a
+building is not a basement, then it shall be considered a story.
+110.110.  BLOCK.   The properties abutting on one side of a street between either:
+(A) 2 Cross streets;
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-4
+
+(B) Or between the city limits and the nearest cross streets;
+(C) Or when there is only 1 cross street;
+(1) Between a cross street and the dead-end of a street;
+(2) Between a cross street and a line projected from the centerline of an
+intersecting street, such as a "T" intersection;
+(3) Between a cross street and a point 600 feet from the particular property under
+consideration when there is no other cross street or intersecting street within
+600 feet;
+(D) Or when there are no cross streets, then the block shall be between the points 600 feet
+from each side of the property under consideration and along the street.
+110.112.  BOARD.   The Polk County Board of Commissioners.
+110.115.  BOARDING HOUSE.   A building or portion thereof used for the purpose of
+providing meals or meals and lodging for pay or compensation of any kind to persons other than
+members of the family occupying such dwelling.
+110.120.  BUILDING.   A structure built for the support, shelter, or enclosure of persons,
+animals, chattels, or property of any kind.
+110.125.  CABANA.   A stationary, light-weight structure which may be prefabricated or
+demountable, with two or more walls, used adjacent to and in conjunction with a mobile home or
+trailer to provide additional living space and designed to be moved with the trailer or mobile
+home.
+110.130.  CAMPGROUNDS.   A premises under one ownership where persons camp or live in
+any manner other than in a permanent building constructed entirely of wood or more lasting
+materials, excepting mobile home parks, and trailer parks.
+110.135.  CARPORT.   A stationary structure consisting of a roof with its supports and not more
+than one wall, or storage cabinet substituting for a wall, and used for sheltering a motor vehicle.
+110.140.  CELLAR.   See Basement.
+110.145.  CEMETERY.   Land used or intended to be used for the burial of the dead and
+dedicated for cemetery purposes, including a columbarium, crematory, mausoleum, or mortuary,
+when operated in conjunction with and within the boundary of such cemetery.
+110.147.  CHANGE OF USE.   Any change of a structure, land, waterway, activity within a
+building, or use of the land in such a way as to substantially alter or affect the land or waterway.
+See DEVELOPMENT.  [Amended by Ordinance 219]
+110.150.  CLUB.   An organization, group, or association supported by the members thereof, the
+purpose of which is to render a service primarily for members and their guests, but shall not
+include any organization, group, or association the chief activity of which is to render a service
+customarily carried on as a business.
+110.152. COMMERCIAL POWER GENERATING FACILITY.  A “commercial power
+generating facility” is a facility that converts energy into a usable form of energy (such as
+electricity) and conveys that energy to the public. Commercial power generating facilities typically
+convert mechanical energy into electrical energy. A “commercial power generating facility” does
+not include a net metered facility as defined in ORS 757.300 or a facility (either grid-connected or
+stand-alone) that produces an equal amount or less energy than is consumed by the use(s) to
+which the facility is accessory over the course of a calendar year, provided that the power
+generating facility is located on the same tract as the use(s) to which it is accessory and the power
+generating facility, tract, and use(s) are all under common ownership and management. [Amended by
+Ordinance 09-06]
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-5
+
+110.155.  COMMISSION(S).   The Polk County Planning Commission and/or any other
+Commission established by the Polk County Board of Commissioners.  [Amended by Ordinance 219]
+110.157. COMMUNICATION TOWER. A “communication tower” includes any tower
+designed to support commercial radio, television, and/or telecommunications receiving or
+broadcasting antennas, dishes, buildings and associated commercial equipment used to transmit or
+receive radio, microwave, wireless communications, and other electronic signals.  [Amended by
+Ordinance 09-06]
+110.160.  CONVALESCENT HOME.   See Nursing Home.
+110.165.  COURT.   A space, open and unobstructed to the sky, located at or above grade level
+on a lot and bounded on 3 or more sides by walls of a building.
+110.167.  CULTURED CHRISTMAS TREES.   "Cultured Christmas trees" refers to trees
+which are:
+(A)  Grown on lands used exclusively for that purpose, capable of preparation by intensive
+cultivation methods such as plowing or turning over the soil;
+(B)  Of a marketable species;
+(C) Managed to produce trees meeting U. S. No. 2 or better standards for Christmas trees
+as specified for the Agricultural Marketing Services of the U. S. Department of
+Agriculture; and
+(D) Evidencing periodic maintenance practices of shearing for Douglas Fir and pine
+species, weed and brush control and one or more of the following practices:  Basal
+pruning, fertilizing, insect and disease control, stump culture, soil cultivation, and
+irrigation.  [Amended by Ordinance 89-17]
+110.170.  DAY NURSERY.   An institution, establishment, or place, not a part of the public
+school system, in which are commonly received at one time 3 or more children, not of common
+parentage, under the age of 14 years, for a period or periods not exceeding 12 hours per day for
+the purpose of being given board, care, or training, apart from their parents or guardians for
+compensation or reward.
+110.172.  DEVELOPMENT.   Any change in the use  of land, of a waterway, or of a structure,
+which substantially alters or affects the land or waterway.
+(A)  For the purpose of this ordinance, the term development shall include the following:
+(1) Any use or activity, which requires a building, permit under the provisions of
+the Uniform Building Code.
+(2) Any use or activity which requires a manufactured home placement permit.
+(3) Any use or activity which requires a permit from the Oregon State Division of
+Lands.
+(4) Any use or activity which requires a permit under the provisions of the Oregon
+Forestry Practices Act.
+(5) Any use or activity which requires a permit for sub-surface on-site disposal of
+sewage from the Polk County Division of Environmental Health.
+(6) Any use or activity which requires a conditional use permit or floodplain
+development permit under the provisions of this ordinance.
+(B) For the purpose of this ordinance, the term development shall exclude the following:
+(1) Landscaping.
+(2) Construction or placement of accessory structures that are usual and necessary
+for the use and enjoyment of existing improvements.
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-6
+
+(3) Construction of driveways.
+(4) Maintenance and repair usual and necessary for continuance of an existing use
+or activity.   [Amended by Ordinance 256]
+110.175.  DIRECTOR.   The Polk County Planning Director or designated representative.
+[Amended by Ordinance 219]
+110.180.  DORMITORY.   A building other than a hotel, boarding or rooming house, used
+primarily for sleeping purposes.
+110.185.  [Repealed by Ord. 89-17, Sec. 2]
+110.186.  DWELLING.   "Dwelling" means a building or portion thereof which is occupied in
+whole or in part as a home, residence, or sleeping place, either permanently or temporarily, but
+excluding hotels and motels.  [Amended by Ordinance 89-17]
+110.190.  DWELLING UNIT.   One or more habitable rooms which are occupied or which are
+intended or designed to be occupied by one family with facilities for living, sleeping, cooking and
+eating , excluding hotels, motels, or recreational vehicles.
+110.195.  DWELLING, SINGLE FAMILY.   A detached building designed exclusively for
+occupancy by one family.
+110.200.  DWELLING, TWO-FAMILY (DUPLEX).   A building designed exclusively for
+occupancy by two families living independently of each other.
+110.205.  DWELLING, MULTIPLE FAMILY.   A building or portion thereof designed for
+occupancy by 3 or more families, living independently of each other.
+110.210.  EDUCATIONAL INSTITUTION.   A college or university supported by public funds
+or by contributions or endowments and giving general academic instruction, excluding elementary
+and high schools and trade or commercial schools.
+110.215.  ENFORCEMENT OFFICER.   The Director or other persons designated by the
+Board of Commissioners to assist the Director in enforcing this ordinance.  [Amended by Ordinance 88-16]
+110.220.  FAMILY.   An individual or 2 or more persons living together in a dwelling unit.
+110.223.  FARM USE.   "Farm use" means the current employment of land [including that
+portion of such lands under buildings supporting accepted farming practices] for the primary
+purpose[s] of obtaining a profit in money by raising, harvesting and selling crops or by the
+feeding, breeding, management and sale of, or the product of, livestock, poultry, furbearing
+animals or honeybees or for dairying and the sale of dairy products or any other agricultural or
+horticultural use or animal husbandry or any combination thereof.  "Farm use" also includes the
+current employment of land for the primary purpose of obtaining a profit in money by stabling or
+training equines including, but not limited to, providing riding lessons, training clinics, and
+schooling shows.  "Farm use" also includes the preparation and storage of the products raised on
+such land for human use and animal use and disposal by marketing or otherwise.  "Farm use" also
+includes the propagation, cultivation, maintenance and harvesting of aquatic species.  "Farm use"
+does not include the use of land subject to the provisions of ORS chapter 321, except land used
+exclusively for growing cultured Christmas trees as defined in Section 110.167, or land described
+in ORS 321.267 (1)(e) or 321.415 (5).
+"Current employment" of land for farm use includes:
+(A) Farmland, the operation or use of which is subject to any farm-related government
+program;
+(B) Land lying fallow for one year as a normal and regular requirement of good animal
+agricultural husbandry;
+(C) Land planted in orchards or other perennials, other than land specified in paragraph
+(D) of this section, prior to maturity;
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-7
+
+(D) Land not in an exclusive farm use zone which has not been eligible for assessment at
+special farm use in the year prior to planting the current crop and has been planted in
+orchards, cultured Christmas trees or vineyards for at least three years;
+(E) Wasteland, in an exclusive farm use zone, dry or covered with water, neither
+economically tillable or grazeable, lying in or adjacent to and in common ownership
+with a farm use land and which is not currently being used for any economic farm use;
+(F) Land under buildings supporting accepted farm practices;
+(G) Water impoundments lying in or adjacent to and in common ownership with farm use
+land; and
+(H) Any land constituting a woodlot, not to exceed 20 acres, contiguous to and owned by
+the owner of land specially valued at true cash value for farm use even if the land
+constituting the woodlot is not utilized in conjunction with farm use;
+(I) Land lying idle for no more than one year where the absence of farming activity is due
+to the illness of the farmer or member of the farmer's immediate family. For purposes
+of this paragraph, illness includes injury or infirmity whether or not such illness results
+in death;
+(J) Any land described in ORS 321.267(1)(e); and,
+(K) Any land in an exclusive farm use zone used for the storage of agricultural products
+that would otherwise be disposed of through open field burning or propane flaming.
+[Amended by Ordinance 89-17]
+110.225.  FENCE.   An unroofed barrier or an unroofed, enclosing structure such as masonry,
+ornamental iron, woven wire, wood pickets or solid wood or any other material used as an
+unroofed barrier to light, sight, air or passage.
+110.230.  FRATERNITY, SORORITY, STUDENT HOME.   A residential building in which
+living accommodations are furnished to students.
+110.232.   FRONTAGE ROAD.   Also known as “Marginal Access Road.”  A service road generally
+parallel and adjacent to an arterial, and which provides access to abutting properties, but protected
+from through traffic.  Also known as “Access Road.”  A low volume public road that principally
+provides access to property.   [Amended by Ordinance 00-10]
+110.235.  GARAGE.   A building or portion thereof in which a motor vehicle is stored, repaired
+or kept.
+110.240.  GARAGE, PRIVATE.   A detached accessory building or portion of a main building
+for the parking or temporary storage of automobiles in which no business, occupation, or services
+is provided for or is in any way conducted.
+110.245.  GARAGE, PUBLIC.   A building, other than private garage, used for the care, repair,
+or equipping of motor vehicles, or where such vehicles are parked or stored for compensation,
+hire, or sale.
+110.247.  GOVERNING BODY.   Polk Board of Commissioners.
+110.250.  GRADE (GROUND LEVEL).   The lowest point of elevation of the finished surface
+of the ground between the exterior wall of a building, or the lowest structural component of a free
+standing tower, and a point 5 feet distant from said wall or free standing tower, or the lowest
+point of elevation of the finished surface of the ground between the exterior wall of a building or
+free standing tower and the property line whichever is nearest to  said wall or free standing tower.
+ In case walls or free standing towers are parallel to and within 5 feet of a public sidewalk, alley or
+other public way, the grade shall be the elevation of the sidewalk, alley or public way.  [Amended by
+Ordinance 09-06]
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-8
+
+110.255.  GROUP CARE HOME.   A home or private institution maintained and operated for
+the care, boarding and training of one or more physically handicapped persons, or one or more
+mentally retarded persons who, because of well established retarded intellectual development,
+require special care by a person who is not the parent or guardian of, and who is not related by
+blood or marriage to such persons, but does not include foster homes, correctional homes, or
+detention facilities.
+110.257.  HEARINGS OFFICER.   The Polk County Hearings Officer.
+110.260.  HEIGHT OF BUILDING.   The vertical distance from the "grade" to the highest point
+of the coping of a flat roof or the deck line of a mansard roof or to the average height of the
+highest gable of a pitch or hip roof.
+110.261.  HEIGHT OF WIND ENERGY SYSTEM.  The “height of a wind energy system”
+shall be the vertical distance from the grade to the tip of a wind generator blade when the tip is at
+its highest point.  [Amended by Ordinance 09-06]
+110.262.  HELIPORT.   A heliport is an area used or to be used for landing or take-off of
+helicopters or other vertical take-off or landing aircraft capable of hovering and may include any
+or all of the area or buildings which are appropriate to accomplish these functions.
+110.265.  HOMES FOR THE AGED AND INFIRM.   Any home or other institution that
+maintains facilities for rendering board and domiciliary care for compensation to 3 or more aged
+persons not related to the operator by blood or marriage.  An aged person is a person of the age
+of 65 or more, or a person of less than 65 years who by reasons of infirmity requires domiciliary
+care.
+110.270.  HOME OCCUPATION.   An occupation  which may be  carried on by the resident of a
+dwelling house as a secondary use .  In residential zones, home occupations are outright permitted
+uses when no assistants are employed, no commodities are sold other than services, no structural
+alterations are made to accommodate such occupations and the residential character of the
+building remains unchanged, and not more than one-half of the floor area of one-story is devoted
+to such use.  Other home occupations which provide various services and commodities may be
+permitted outright or as conditional uses pursuant to the standards of Chapter 116 of the Zoning
+Ordinance.
+110.275.  HOSPITAL.   An institution devoted primarily to the rendering of healing, curing and
+nursing care, which maintains and operates facilities for the diagnosis, treatment or care of two or
+more non-related individuals suffering from illness, injury or deformity, or where obstetrical or
+other healing or nursing care is rendered over a period exceeding 24 hours.
+110.280.  HOSPITAL, VETERINARY.   A building or premises for the medical or surgical
+treatment of domestic animals or pets.
+110.285.  HOTEL.   Any building containing guest rooms intended or designed to be used, or
+which are used, rented, or hired out to be occupied, or which are occupied for sleeping purposes
+by guests.
+110.286.  INOPERABLE VEHICLE.
+(A) A dismantled, unserviceable, inoperable, junked, or abandoned vehicle or any vehicle
+legally or physically incapable of being operated for a period exceeding 30 days unless
+such vehicle, or parts thereof, is completely enclosed within a building, or stored on
+property lawfully designated under the zoning ordinances of Polk County as a place
+where such vehicles may be stored.
+(B)  An inoperable vehicle shall not mean a licensed or unlicensed camper trailer, utility
+trailer, or licensed or unlicensed operable vehicle which are used on private property
+for the production, propagation or harvesting of agricultural or forest products grown
+or raised on such lands or which are used in the extraction or processing of mineral
+and aggregate products. [Amended by Ordinance 219]
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-9
+
+110.287.  INTENSIFICATION.   The addition to or expansion of a structure or existing use of
+land or a waterway in such a way as to substantially alter or affect the land or waterway.  See
+DEVELOPMENT.
+110.290.  JUNK CAR.   See AUTOMOBILE WRECKING YARD.
+110.295.  KINDERGARTEN.   See DAY NURSERY .  [Section 110.300 repealed by Ordinance 91-15 dated July
+24, 1991.]
+110.301.  KENNEL, KENNEL (COMMERCIAL).   A facility for the keeping of dogs which
+have a set of permanent canine teeth or have become six months of age if:
+(A) The facility receives more than $250 in gross receipts during a year for the sheltering
+of dogs which are not the property of the operator of the facility;
+(B) The facility is privately operated as animal shelter, whether for profit or not for profit;
+(C) The facility is operated for the production or sheltering of dogs which are to be
+offered for commercial sale .  [Amended by Ordinance 91-15]
+110.303.  LIMITED LAND USE DECISION.
+(A) Means a final decision or determination pertaining to a site within an urban growth
+boundary which concerns:
+(1) The approval or denial of a subdivision or partition, as described in ORS
+Chapter 92.
+(2) The approval or denial of an application based on discretionary standards
+designed to regulate the physical characteristics of a use permitted outright,
+including, but not limited to, site review and design review.
+(B) Does not mean a final decision made by a local government pertaining to a site within
+an urban growth boundary that concerns approval or denial of a final subdivision or
+partition plat or that determines whether a final subdivision or partition plat
+substantially conforms to the tentative subdivision or partition plan.  [Amended by Ordinance
+10-04]
+110.305.  LIQUID WASTE.   Any waste oils, septic tank pumpings, industrial wastes and other
+similar materials.
+110.310.  LOADING SPACE.   An off-street space or berth on the same lot with a building, or
+contiguous to a group of buildings for the temporary parking of a commercial vehicle while
+loading or unloading merchandise or materials, and which abuts upon a street, alley, or other
+appropriate means of access.
+110.315.  LOT.  A unit of land that is created by a subdivision of land.  A lot so created shall
+remain a discrete lot, unless the lot lines are vacated, or the lot is further divided, as provided by
+law.
+110.320.  LOT AREA.   The total area measured on a horizontal plane within the lines of a lot.
+110.325.  LOT DEPTH.   The horizontal distance between the front lot line and the rear lot line
+measured at a point halfway between the side lot lines.
+110.330.  LOT INTERIOR.   A lot other than a corner lot.
+110.335.  LOT LINE.   The lines bounding a lot as defined herein.
+110.340.  LOT LINE, FRONT.   In the case of an interior lot, a line separating the lot from the
+street; and in the case of a corner lot, a line separating the lot from the street on which the
+improvement or contemplated improvement will face.
+110.345.  LOT LINE, REAR.   A lot line which is opposite and most distant from the front lot
+line.  In the case of a triangular shaped lot, the rear lot line, for building purposes, shall be
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-10
+
+assumed to be a line 10 feet in length within the lot parallel to and at the maximum distance from
+the front lot line.
+110.350.  LOT LINE, SIDE.   Any lot line which is not a front or rear lot line.
+110.360.  LOT OF RECORD.   A lot which is part of a subdivision or a lot or parcel described
+by metes and bounds, which has been recorded in the office of the County Recorder. In the
+Exclusive Farm Use, Timber Conservation, Farm Forest, and Farm Forest Overlay zones, a lot of
+record refers to a lot or parcel which was lawfully created and acquired by the present owner
+prior to January 1, 1985, where a dwelling may be allowed subject to compliance with the
+applicable lot-of-record provisions in each zone.
+110.367.  MANUFACTURED HOME.   Except as provided in Section 178.015, "manufactured
+home" means a structure constructed for movement on the public highways that has sleeping,
+cooking and plumbing facilities, that is intended for human occupancy, that is being used for
+residential purposes and that was constructed in accordance with federal manufactured housing
+construction and safety standards and regulations in effect at the time of construction.  Based on
+the standards of the Uniform Building Code, such a home constructed prior to 1976 is defined as
+a "mobile home".  Such a home constructed after 1976 is defined as a "manufactured home".  For
+purposes of this ordinance the terms "manufactured home" and "mobile home" are
+interchangeable.  [Amended by Ordinance 89-17]
+110.370.  MARQUEE.   A permanent roofed structure attached to and supported by the building
+and projecting over public property.
+110.371 MARIJUANA USES.  Recreational marijuana production, processing, laboratories,
+retailing and wholesaling as defined in OAR 845-025-1015; marijuana research described in OAR
+845-025-5300; and, medical marijuana dispensaries registered under ORS 475.314. Marijuana
+uses shall only occur where specifically enumerated in a zone. Discrete marijuana uses are defined
+below:
+(A) Marijuana Production . The commercial manufacture, planting, cultivation, growing
+or harvesting of recreational marijuana for wholesale and retail trade consistent with
+OAR 845-025-1230, or marijuana research related to production, consistent with
+OAR 845-025-5300. A person designated to produce marijuana by a registry
+identification cardholder under ORS 475.304 who produces marijuana for a registry
+identification cardholder at an address other than the address where the registry
+identification cardholder resides, or at an address where more than 12 mature
+marijuana plants are produced pursuant to ORS 475.302(18).
+(B) Marijuana Processing . The processing, compounding, or conversion of recreational
+marijuana into a cannabinoid concentrate or extract per the requirements of OAR
+845-025-3200 to 3290, and consistent with OAR 845-025-1230. The compounding
+or conversion of marijuana into medical cannabinoid products, concentrates or
+extracts pursuant to ORS 475.302(11). Also, marijuana research related to
+processing, consistent with OAR 845-025-5300.
+(C) Marijuana Wholesaling . The purchase of recreational marijuana items, as defined in
+OAR 845-025-1015(31), for resale per the requirements of OAR 845-025-3500, and
+consistent with OAR 845-025-1230.
+(D) Marijuana Retailing . The sale of recreational marijuana items, as defined in OAR
+845-025-1015(26), to a consumer, consistent with OAR 845-025-2840.
+(E) Marijuana Testing Laboratory . A laboratory licensed for testing marijuana consistent
+with OAR 845-025-5030.
+(F) Medical Marijuana Dispensary . Dispensing of medical marijuana from a location
+registered pursuant to ORS 475.314. [Amended by Ordinance 16-01]
+110.375.  MATERNITY HOME.   See HOSPITAL.
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-11
+
+110.380.  [Repealed by Ord. 89-17, Sec. 50]   [Amended by Ordinance 89-17]
+110.385.  MANUFACTURED HOME PARK.   Any place where four (4) or more
+manufactured homes are located within 500 feet of one another on a lot, tract or parcel of land
+under the same ownership , the primary purpose of which is to rent space or keep space for rent to
+any person for a charge or fee paid or to be paid for the rental or use of facilities or to offer space
+free in connection with securing the trade or patronage of such person.  "Manufactured home
+park" does not include a lot or lots located within a subdivision  being rented or leased for
+occupancy by no more than one mobile home per lot if the subdivision was approved by Polk
+County.  [Amended by Ordinance 89-17]
+110.386.  METEOROLOGICAL TOWER. A “meteorological tower” includes the tower, base
+plate, anchors, guy cables and hardware, anemometers (wind speed indicators), temperature and
+pressure sensors, other weather measuring devices attached to the tower, wind direction vanes,
+booms to hold equipment anemometers and vanes, data logger, instrument wiring, and any
+telemetry devices that are used to monitor or transmit weather information at a given location.
+[Amended by Ordinance 09-06]
+110.387.  MINING.   All or any part of the process of mining by the removal of overburden and
+the extraction of natural mineral deposits, thereby exposed by any method including open-pit
+mining operations, auger mining operations, processing, surface impacts of underground mining,
+production of surface mining refuse and the construction of adjacent or off-site borrow pits
+except those constructed for use as access roads.  "Surface Mining" does not include excavation
+of sand, gravel, clay, rock or other excavations of sand, gravel or clay, rock or other similar
+materials conducted by a landowner or tenant on the landowner's or tenant's property for the
+primary purpose of reconstruction or maintenance of access roads and excavation or grading
+operations conducted in the process of farming or cemetery operations, onsite road construction
+or other onsite construction or nonsurface impacts of underground mines.  [Amended by Ordinance 89-17]
+110.390.  MOTEL (TOURIST CAMP).   A series of attached, semi-attached, or detached
+apartments, each composed of bedroom and bathroom, with each apartment having entrance
+leading directly from the outside of the building.
+110.392.   NEW ROAD .  A public road or road segment that is not a realignment of an existing
+road or road segment.   [Amended by Ordinance 00-10]
+110.395.  NONCONFORMING LOT.   A lot which does not meet the area or width
+requirements of the zone in which it is located.
+110.400.  NONCONFORMING STRUCTURE.   A building or structure or portion thereof
+lawfully existing at the time this ordinance became effective (November 13, 1970), which was
+designed, erected, or structurally altered, for a use that does not conform to the use regulations of
+the zone in which it is located, or which does not conform to the setbacks for maximum lot
+coverage or other provisions herein established for the zone.
+110.405.  NONCONFORMING USE.   A use to which a building or land was lawfully put at the
+time this ordinance became effective (November 13, 1970) and which does not conform with the
+use regulations of the district in which it is located.
+110.407.  [Repealed by Ord. 89-17, Sec. 50]   [Amended by Ordinance 219]
+110.410.  NURSERY.   See DAY NURSERY.
+110.415.  NURSING HOME.   Any home, place or institution which operates and maintains
+facilities providing convalescent or nursing care, or both, for a period exceeding 24 hours for two
+(2) or more ill or infirm patients not related to the nursing home administrator, or owner, by blood
+or marriage.  Convalescent care may include, but need not be limited to, the procedures
+commonly employed in nursing and caring for the sick.  A nursing home includes rest homes and
+convalescent homes, but does not include a boarding home for the aged, a retirement home, hotel,
+hospital, or a chiropractic facility licensed under ORS.
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-12
+
+110.420.  OVERLAY ZONE.   A zone which establishes special requirements and provisions in
+addition to those of the primary zone.  [Amended by Ordinance 219]
+110.425.  OWNER.   The owner of record of real property as shown on the latest tax rolls or
+deed records of the county, or a person who is purchasing a parcel of property under written
+contract.
+110.427.  PARCEL.   "Parcel" includes a unit of land created:
+(A) By partitioning land as defined in ORS 92.010;
+(B) In compliance with all applicable planning, zoning or partitioning ordinances or
+regulations;
+(C)  By deed or sales contract, if there were no applicable planning, zoning or partitioning
+ordinances or regulations; or
+(D)  By deed or sales contract, if the property division occurs as a result of a grant to a
+public agency or public body for state highway, county road, city street, or other right
+of way purposes provided such deed or sales contract occurred on or prior to August
+4, 1991.  The property conveyed to the public agency or public body shall be deemed
+a separate parcel, and the remnant shall be deemed a separate parcel.  If the
+conveyance bisects a property, each remnant located on either side of the parcel
+conveyed to the public agency or public body shall be considered separate parcels.
+(E) A parcel so created shall remain a discrete parcel, unless the parcel lines are vacated,
+or the parcel is further divided, as provided by law.  [Amended by Ordinances 89-17 and 06-04]
+110.430.  PARKING AREA, PRIVATE.   An open area, building or structure, other than a
+street or alley, used for the parking of the automobiles of residents and guests of a building.
+110.435.  PARKING AREA, PUBLIC.   An open area, building or structure, other than a
+private parking area, street, or alley used for the parking of automobiles , trucks, and other motor
+vehicles and available for use by the public or by persons patronizing a particular building or
+establishment.
+110.440.  PARKING, SPACE, AUTOMOBILE.   Space within a private or public parking area,
+building or structure, for the parking of one automobile.
+110.445.  PARTICLE DEPOSITION.   The quantity of that portion of the particulate matter in
+the air which settles out in a given length of time as measured by sampling procedures adopted by
+the Oregon Department of Environmental Quality  or their equivalent.
+110.450.  PARTICULATE MATTER.   The discrete particles of a liquid, other than water, or a
+solid as distinguished from gas and vapor.
+110.451.  PARTITION.   Either an act of partitioning land or an area or tract of land partitioned
+as defined.
+110.452.  PARTITIONING LAND.   “Partitioning land” has the meaning described in the Polk
+County Subdivision and Partition Ordinance, Chapter 91. [Amended by Ordinance 10-04]
+110.455.  PERSON.   A natural person, heirs, executors, administrators, or assigns and also
+includes a firm, partnership or corporation, its or their successors or assigns, or the agent of any
+of the aforesaid, and any political subdivisions, agency, board or bureau of the State.
+110.457.  PHOTOVOLTAIC SYSTEM. A “photovoltaic system” consists of equipment that
+converts sunlight into electricity and then stores or transfers that electricity. This equipment
+includes photovoltaic modules and panels, mounting and sun tracking hardware, foundation,
+inverter, wiring, batteries, or other components used in the system. A photovoltaic system may be
+a grid-connected or stand-alone system. A photovoltaic system does not include a system that
+utilizes a photovoltaic module or panel that contains a total surface area of nine square feet or
+fewer.  [Amended by Ordinance 09-06]
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-13
+
+110.462.  PRIMARY ZONE.   The zone which establishes the basic requirements and provisions
+for the use of land in a particular area.  See OVERLAY ZONE.  [Amended by Ordinance 219]
+110.463.  PROPERTY LINE ADJUSTMENT. “Property line adjustment” has the meaning
+described in the Polk County Subdivision and Partition Ordinance, Chapter 91.
+110.465.  RAMADA.   A stationary structure having a roof extending over a mobile home or
+trailer, which may also extend over a patio or parking space for motor vehicles, and is used
+principally for protection from sun and rain.
+110.466.  RECREATIONAL VEHICLE PARK.   A lot or parcel on which two or more travel
+trailer/RV sites are located, established or maintained for occupancy by the general public as
+temporary living quarters for recreation or vacation purposes, and as defined by ORS 446.310(9)
+(1989 edition).  [Amended by Ordinance 91-15]
+110.467.  RECYCLING DEPOT.   A center, depot drop box or other place for receiving source
+separated recyclable materials with or without compensation.  This shall not include a salvage,
+junk, or auto wrecking yard.
+110.470.  REFUSE.   Any putrescible and non-putrescible solid wastes including garbage,
+rubbish, ashes, dead animals, abandoned automobiles, junk, solid market wastes, street cleaning,
+and industrial wastes (including waste disposal in industrial salvage).
+110.475.  REPAIR.   The reconstruction or renewal of any part of an existing building for the
+purpose of its maintenance.  The word "repair" or "repairs" shall not include structural changes.
+110.476.  RESIDENTIAL FACILITY.  A residential care, residential training, or residential
+treatment facility licensed by or under the authority of the department as defined in ORS 443.400 ,
+under ORS 443.400 to 443.460, or licensed by the Children's Services Division under ORS
+418.205 to 418.327 , which provides residential care alone or in conjunction with treatment or
+training or a combination thereof for six to 15 individuals who need not be related.  Staff persons
+required to meet licensing requirements shall not be counted in the number of facility residents,
+and need not be related to each other or to any resident of the residential facility.  [Amended by
+Ordinance 89-17]
+110.477.  RESIDENTIAL HOME.  A residential treatment or training or an adult foster  home
+licensed by or under the authority of the department as defined in ORS 443.400 , under ORS
+443.400 to 443.825 , a residential facility registered under ORS443.480 to 443.500 or an adult
+foster home licensed under ORS 443.705 to 443.825 which provides residential care alone or in
+conjunction with treatment or training or a combination thereof for five or fewer individuals who
+need not be related.  Staff persons required to meet licensing requirements shall not be counted in
+the number of facility residents, and need not be related to each other or to any resident of the
+residential home.  [Amended by Ordinance 89-17]
+110.480.  REST HOME.   See NURSING HOME.
+110.485.  RESTAURANT, CAFE.   An establishment where prepared food is served to the
+public for consumption within the building, or to "take out" to some other location.
+110.487.  REVERSE FRONTAGE LOT.   A lot having frontage on two parallel or
+approximately parallel roads, where the rear of the lot, or structure on the lot faces an arterial.
+[Amended by Ordinance 98-5]
+110.488.  ROAD REALIGNMENT.  Rebuilding an existing roadway on a new alignment where
+the new centerline shifts outside the existing right of way, and where the existing road surface is
+removed, maintained as an access road or maintained as a connection between the realigned
+roadway and a road that intersects the original alignment.  The realignment shall maintain the
+function of the existing road segment being realigned as specified in the acknowledged
+comprehensive plan.   [Amended by Ordinance 00-10]
+110.500.  ROOMING HOUSE.   A residential building or portion thereof providing sleeping
+rooms where lodging for three (3) or more persons is provided for compensation.
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-14
+
+110.502.  SEASONAL FARM WORKER.   A person who, for an agreed remuneration or rate
+of pay, performs temporary labor for another to work in the production of farm products or
+planting, cultivating or harvesting of seasonal agricultural crops or in forestation or reforestation
+of lands, including but not limited to the planting, transporting, tubing, precommercial thinning
+and thinning of trees and seedlings, the clearing, piling and disposal of brush and slash and other
+related activities.  [Amended by Ordinance 89-17]
+110.503.  SEASONAL FARM WORKER HOUSING.   Housing limited to occupancy by
+seasonal farm workers and their immediate families which is occupied no more than nine months a
+year.  [Amended by Ordinance 89-17]
+110.505.  SCHOOL, TRADE OR COMMERCIAL.   A building where instruction is given to
+pupils for a fee in money or otherwise which fee is the principal reason for the existence of the
+school.
+110.510.  SCHOOL, ELEMENTARY, JUNIOR HIGH OR HIGH.   An institution, public or
+parochial, offering instruction in the several branches of learning and study, in accordance with
+the rules, and regulations of the State Department of Education.  [Amended by Ordinance 219]
+110.520.  SOLID WASTE.   Solid waste shall include all putrescible and non-putrescible waste,
+including but not limited to, garbage, rubbish, refuse, ashes, waste paper and cardboard; grass
+clippings, composts; sewer sludge; residential, commercial and industrial appliances, equipment
+and furniture; discarded, inoperable, or abandoned vehicles or vehicle parts and waste motor
+vehicle tires; manure, vegetable, or animal solid and semi-solid waste and dead animals.  Waste
+shall mean useless, unwanted or discarded materials, which would otherwise come within the
+definition of solid waste or waste, may from time to time have value and thus be utilized shall not
+remove them from the definition.  The terms solid waste or waste do not include:
+(A) Environmentally hazardous wastes as defined in ORS 466.005.
+(B) Materials used for fertilizer or for other productive purposes on land in agricultural
+operations in the growing and harvesting of crops or the raising of fowl or animals.
+(C) Septic tank and cesspool pumping or chemical toilet waste.
+(D) Reusable beverage containers as defined in ORS 459.860.
+(E) Source separated principal recyclable materials as defined in ORS 459 and the rules
+promulgated there.
+110.522  SPECIAL FOREST PRODUCTS.  Products as defined in ORS 164.813 (6) to be
+inclusive of the following items:
+(A)   Bear grass, boughs, branches, ferns and other forest plant parts used in floral
+arrangements and decorations;
+(B)  The bark and needles of the Pacific yew, cascara bark, cedar salvage including
+chunks, slabs, stumps and logs that are more than one cubic foot in volume;
+(C)  Cut or picked evergreen foliage and shrubs including, but not limited to, ferns,
+huckleberry, Oregon grape, rhododendron and salal;
+(D)  Firewood, native ornamental trees and shrubs, including trees and shrubs that not
+nursery grown and that have been removed from the ground with the roots intact;
+(E)  Round or split posts, poles, pickets, stakes or rails, shakeboards, shake-bolts, shingle
+bolts or other round or split products of any forest tree species; and wild edible
+mushrooms that have not been cultivated or propagated by artificial means.
+110.525.  STABLE, PUBLIC.   A building in which horses are kept for remuneration, hire, or
+sale, including saddle and riding clubs.
+110.540.  STORY.   That portion of a building included between the upper surface of any floor
+and the upper surface of the floor next above, except that the topmost story shall be that portion
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-15
+
+of a building included between the upper surface of the topmost floor and the ceiling or roof
+above.  If the finished floor level directly above a basement, cellar or unused underfloor space is
+more than 6 feet above grade as defined herein for more than 50 per cent of the total perimeter or
+is more than 12 feet above grade as defined herein at any point, such basement, cellar or unused
+underfloor space shall be considered as a story.
+110.545.  HALF-STORY.   A story under a gable, hip or gambrel roof, the wall plates of which
+on at least two opposite exterior walls are not more than two-feet above the floor of such story.
+110.550.  STREET.   A way of travel more than 20 feet wide which has been dedicated or deeded
+to the public for public use.
+110.555.  STRUCTURE.   That which is built or constructed, an edifice or building of any kind,
+or any piece of work artificially built up or composed of parts joined together in some definite
+manner, regardless of whether it is wholly or partly above or below grade.
+110.556.  SUBDIVIDE.   Subdivide land means to divide land into four or more lots within a
+calendar year.  [Amended by Ordinances 219 and 289]
+110.557.  TRAILER (TRAVEL OR VACATION).   A vehicle or structure equipped with
+wheels for highway use that is intended for human occupancy, which is not being used for
+residential purposes and is being used for vacation and recreational purposes.  [Amended by Ordinance
+219]
+110.570.  TRANSFER SITE OR TRANSFER FACILITY.   A fixed or mobile facility, used as
+an adjunct to collection vehicle(s), resource recovery facility, disposal site between the collection
+of the waste/solid waste and disposal site, including but not limited to, another vehicle, a concrete
+slab, pit, building, hopper, railroad gondola or barge.
+110.575.  TOURIST COURT.   See MOTEL.
+110.572.  TRANSPORTATION IMPROVEMENTS.   – (a) Means transportation
+improvements on rural lands that provide safe and efficient access to the use for which it is
+related.
+(b) The term includes:
+(i) Accessory transportation improvements that are allowed or conditionally
+permitted in the EFU, FF, FFO, or TC zoning districts;
+(ii) Transportation improvements that are allowed or conditionally permitted in the
+EFU, FF, FFO, or TC zoning districts;
+(iii) Channelization;
+(iv) Realignment;
+(v) Replacement of an intersection with an interchange;
+(vi) Continuous median turn lane;
+(vii) New access roads and collectors within a built or committed exception area, or
+in other areas where the function of the road is to reduce local access to or local
+traffic on a state highway.  These roads shall be limited to two travel lanes.
+Private access and intersections shall be limited to rural needs or to provide
+adequate emergency access.
+(viii) Bikeways, footpaths, and recreation trials not other wise allowed as a
+modification or part of an existing road;
+(ix) Park-and-Ride areas;
+(x) Railroad mainlines and branchlines;
+(xi) Pipelines;
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-16
+
+(xii) Navigation channels;
+(xiii) Replacement of docks and other facilities without significantly increasing the
+capacity of those facilities;
+(xiv) Expansion or alterations of public use airports that do not permit service to a
+larger class of airplanes; and
+(xv) Transportation facilities, services and improvements other than those listed in
+the Zoning Ordinance that serve local travel needs.  The travel capacity and
+level of service of the facilities and improvements serving local travel needs
+shall be limited to that necessary to support rural land uses identified in the
+Comprehensive Plan or to provide adequate emergency access.
+110.580.  TRUCK.   A motor vehicle designed or used for carrying, conveying, or moving over
+highways of this State any property, article, or thing and having a combined weight of vehicle and
+maximum load to be carried thereon of more than 6,000 lbs.
+110.585.  USE.   The purpose of which land or a building is arranged, designed, or intended, or
+for which either land or a building is or may be occupied.
+110.587.  UTILITY FACILITY NECESSARY FOR PUBLIC SERVICE.   A major physical
+component of an enterprise that performs an essential public service, such as a natural gas plant,
+water supply facility, sewage treatment facility , telephone switching station, electrical substation,
+or radio , microwave, fiber optic , or television transmission tower.  However, this does not include
+components such as poles, wires, cables, lines or pipes.  [Amended by Ordinance 91-15]
+110.589.  VISION CLEARANCE.   A triangular area at the street or highway corner of a corner
+lot, or the corner at any alley-street intersection of a lot, the space being defined by a diagonal line
+across the corner between the points on the street right-of-way line or street-alley right-of-way
+line measured from the corner.
+110.590.  WATER-DEPENDENT USE.   A use or activity which can  be carried out only, in, or
+adjacent to water areas because the use requires access to the water body for water-borne
+transportation, recreation, energy production, or source of water.  [Amended by Ordinance 219]
+110.591.  WATER-RELATED USE.   A use which is not directly dependent upon access to a
+water body, but which provides goods or services that are directly associated with a water-
+dependent land or waterway use, and which, if not located adjacent to water, would result in a
+public loss of qualify in the goods of services offered.
+Except as necessary for water-dependent or water-related uses or facilities, residences, parking
+lots, spoil and dump sites, roads and highways, restaurants, businesses, factories, and mobile
+home parks are not generally considered dependent on or related to water location needs. [Amended
+by Ordinance 219]
+110.592.  WETLANDS.   Areas that are inundated or saturated by surface or ground water at a
+frequency and duration sufficient to support, and that under normal circumstances do support, a
+prevalence of vegetation typically adapted to life in saturated soil conditions.  [Amended by Ordinance 88-
+17]
+110.593.  WIND ENERGY SYSTEM. A “wind energy system” consists of equipment that
+converts energy from the wind into usable forms of energy (such as electricity) and then stores or
+transfers the energy. This equipment includes any base, blade, foundation, wind generator, nacelle,
+rotor, wind tower, transformer, vane, wire, inverter, batteries or other component used in the
+system. A wind energy system may be a grid-connected or a stand-alone system.  [Amended by
+Ordinance 09-06]
+110.594.  WIND TOWER. A “wind tower” is the monopole, freestanding, or guyed structure
+that supports a wind generator.  [Amended by Ordinance 09-06]
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-17
+
+110.595.  ["Yard" redesignated Sec. 110.599 by Ord. 89-17, Sec. 30] [“Winery Defined”
+repealed by Ordinance 11-09]
+110.599.  YARD.  A space other than a court on the same lot with a building open from the
+ground upward, except as otherwise provided herein.  [Amended by Ordinance 89-17]
+110.600.  YARD, FRONT.   A yard extending across the full width of the lot, the depth of which
+is the minimum horizontal distance between the front lot line and a line parallel thereto at the
+nearest point of the foundation of the main building.
+110.605.  YARD, LANDSCAPED.   An open area or areas devoted primarily to the planting and
+maintaining of trees, grass, shrubs, and plants together with sufficient permanent irrigation
+installation to properly maintain all vegetation.  As complimentary features, such as fountain,
+pools, screens, decorative lighting, sculpture, and outdoor furnishings may be placed within said
+area.
+(A) Location or site:  The required Landscaped Yard (110.605) areas adjacent to a street
+shall not be used for parking or loading areas and the yards shall be the same as is
+required for the main building in the district in which the parking area is to be located
+and such yard area adjacent to a street shall be landscaped with trees, shrubs, grass or
+evergreen ground cover and other complementary materials and maintained in a neat
+and well appearing manner.  The side and rear yards, other than those adjacent to a
+street, may be used for parking and loading areas when such areas have been
+developed and are maintained as required by this ordinance.  [Amended by Ordinance 90-19]
+110.610.  YARD, REAR.   A yard extending across the full width of the lot between the most
+rear main building and the rear lot line, but for determining the depth of the required rear yard, it
+shall be measured horizontally from the nearest point of the rear lot line; or, if the rear lot line
+adjoins an alley, then from the center line of the alley, toward the nearest part of the foundation of
+the main building.
+110.615.YARD, SIDE.   A yard between the main building and the side lot line, extending from
+the front yard, or front lot line where no front yard is required, to the rear yard; the width of the
+required side yard shall be measured horizontally from the nearest point of the side lot line toward
+the nearest part of the foundation of the main building.  [Amended by Ordinance 219]
+110.620.  APPLICATION OF ZONING REGULATIONS.   The regulations set by this
+ordinance within each zone shall be minimum regulations and shall apply uniformly to each class
+or kind of structure or land.
+110.630.  CONFORMANCE AND PERMITS REQUIRED.   No building structure, or premise
+shall hereafter be used or occupied, and no building or structure or part thereof shall hereafter be
+erected, constructed, moved, structurally altered, or enlarged unless in conformity with all the
+regulations herein specified for the zone in which it is located and then only after applying for and
+securing all permits and licenses required by all laws and ordinances.
+110.640.  AMENDMENT OF TEXT ONLY.   Any amendment of this ordinance which amends,
+supplements or changes only the text hereof, shall be initiated by the Board of Commissioners or
+by the Planning Commission by resolution.  Whenever an amendment is initiated by the Board of
+Commissioners, the resolution shall be referred to the Planning Commission for its
+recommendation.
+In every case of a proposed amendment, the director shall fix a date for a public hearing before
+the Planning Commission and shall cause notice to be given as provided in Chapter 111.  After the
+public hearing, the Planning Commission shall refer its recommendations to the Board of
+Commissioners.  [Superseded, but not repealed, by Ordinance 14-01][Section 110.850 repealed by Ordinance 88-19]
+110.650.  SAVINGS CLAUSE.  If any section, paragraph, subdivision, clause, sentence, or
+provision of this ordinance shall be adjudicated or declared by any court of competent jurisdiction
+to be unconstitutional or invalid, such judgement shall not affect, impair, invalidate, or nullify the
+remainder of this ordinance, but the effect thereof shall be confined to the section, paragraph,
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\2-10-16 to current\ CHAPTER 110 (2016 update).doc 110-18
+
+subdivision, clause, sentence, or provision immediately involved in the controversy in which such
+judgement or decree shall be rendered, it being the intent of the Board of Commissioners to enact
+the remainder of this ordinance notwithstanding the parts so declared unconstitutional or  invalid;
+and should any section, paragraph, subdivision, clause, sentence, or provision of this ordinance be
+declared unreasonable or inapplicable to a particular premises or to a particular use at any
+particular location, such declaration of judgement shall not affect, impair, invalidate, or nullify
+such section, paragraph, subdivision, clause, sentence, or provision as to any other premises or
+use.
+110.660.  REPEALING CONFLICTING ORDINANCES.   The following ordinances passed
+by the Board of Commissioners and all ordinances amendary thereof, and all other ordinances and
+parts of ordinances in conflict herewith, hereby are repealed:
+ Ordinance No. 18 12-22-64
+ Ordinance No. 24  4-19-66
+ Ordinance No. 35  5-18-67
+ Ordinance No. 45 12-29-67
+ Ordinance No. 52  8-03-68
+ Ordinance No. 56  9-13-68
+ Ordinance No. 63  5-23-69
+ Ordinance No. 82  6-18-71
+ Ordinance No. 85  8-31-71
+ Ordinance No. 93 11-09-71
+ Ordinance No. 94 11-30-71
+ Ordinance 88-21 11-30-88
+ Ordinance 89-17 12-06-89

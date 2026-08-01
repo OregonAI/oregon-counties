@@ -1,0 +1,208 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-land-use-zoning-ordinance-section-0405-parks-recreation-open-space-di
+title: 'Zoning-Ordinance-Section-0405-Parks-Recreation-Open-Space-District-PRO-PDF'
+doc_type: ordinance
+citation: 'Zoning-Ordinance-Section-0405-Parks-Recreation-Open-Space-District-PRO-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/8481/Zoning-Ordinance-Section-0405-Parks-Recreation-Open-Space-District-PRO-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f9c5f1a8deb8d5ecb477d22427e9f40740bc5a5949fefb74f6330f87d4c67516
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zoning-Ordinance-Section-0405-Parks-Recreation-Open-Space-District-PRO-PDF (Zoning-Ordinance-Section-0405-Parks-Recreation-Open-Space-District-PRO-PDF)
+
+## At a glance
+
+Zoning-Ordinance-Section-0405-Parks-Recreation-Open-Space-District-PRO-PDF — land use of Yamhill County. 5 pages.
+
+## Full text
+
+Zoning Ordinance
+Section 405.00 - Parks, Recreation, Open Space District (PRO)
+[Last amended 7/9/98, Ord. 648]
+
+405.01  Purpose
+The purpose of the PRO District is to accommodate the immediate foreseeable demand
+for public parks and recreation and open space in designated areas inside or outside urban
+growth boundaries to serve local and regional residents’ needs as identified in the
+Comprehensive Plan . The size, character and intensity of development of park, recreation
+and open space areas and the performance characteristics of recreation areas shall be
+commensurate with the capability of land and water areas to support the uses intended
+and shall not result in any unusual service demands on nearby urban centers. Uses of land
+and water not compatible with public parks, public recreation and open space uses,
+including recreation commercial service facilities, shall be prohibited.
+
+405.02  Permitted Uses
+In the PRO district, the following uses shall be permitted subject to the standards and
+limitations set forth in subsection 405.07 , and pursuant to Section 1101  for site design
+review:
+
+A.  Park, recreation area, or open space, publicly or privately owned, operated and
+maintained and including hunting and fishing preserves;
+
+B.  Public campground or picnic site;
+
+C.  Historical, archaeological, or geological site;
+
+D.  Public boat-launching and fishing facilities;
+
+E.  Public bicycle and pedestrian paths or trails systems not within County or public
+rights-or-way;
+
+F.  Equestrian paths or trails systems;
+
+G.  Public playlot, playground, or playfield, including game court, ball diamond,
+swimming pool and similar uses;
+
+H.  Public RV park subject to the RV park provisions of Section
+1003 ;
+
+I.  Golf course, excluding miniature golf;
+
+J.  Driving range, in conjunction with a golf course;
+
+K.  Dwelling for caretaker or watchman, in conjunction with a permitted use. Site
+design review is not required for the dwelling; [Last amended 7/9/98, Ord. 648]
+
+L.  Accessory uses;
+
+M.  Temporary structures as may be required during construction of an authorized
+permanent structure. Such temporary structure shall be removed upon final
+inspection of the permanent structure by the Building Inspector;
+
+N.  Operations conducted for the exploration of oil, natural gas or geothermal
+resources, subject to the
+Type A  application procedure set forth in Section 1301 ;
+
+O.  Community or municipal water supply system;
+
+P.  Community or municipal sanitary sewer system; and
+
+Q.  Signs, pursuant to the sign provisions set forth in Section 1006 .
+
+405.03  Conditional Uses
+In the PRO District, pursuant to the Type B  application procedure set forth in Section
+1301  and subject to the conditional use review criteria listed in Section 1202 , and subject
+to Section 1101  for site design review and any other applicable criteria established by this
+Ordinance, the following use may be allowed conditionally:
+A.  Driving range, not in conjunction with a golf course.
+
+405.04 Similar Uses
+Any use not specifically listed as a permitted or conditional use in this District that is
+similar in character, scale and performance to the permitted uses specified in subsection
+405.02, may be allowed as a similar use, subject to the similar use provisions of Section
+1206  and pursuant to the Type A  application procedure set forth in Section 1301 .
+
+405.05 Prohibited Uses
+Uses of land and water not specifically mentioned in this Section and not allowed as a
+similar use, are prohibited in the PRO District.
+
+405.06 Nonconforming uses
+Nonconforming uses found in the PRO District are subject to the nonconforming use
+provision of Section 1205  as well as any other applicable provisions of this Ordinance.
+
+405.07 Standards and Limitations
+In the PRO District, the following standards and limitations shall apply unless varied or
+waived subject to Section 903  for Planned Unit Development:
+A.  Parcel Size and Dimension
+
+The minimum parcel size for any use shall be one (1) acre, except that fifty (50)
+acres shall be the minimum parcel size for a golf course.
+
+B.  Setbacks
+
+The minimum setback for all yards shall be thirty (30) feet for all uses, except as
+follows:
+
+1.  The minimum setback for signs shall be five (5) feet.
+
+2.  An accessory structure not more than fifteen (15) feet in height, at least
+sixty (60) feet from a road, and at lease ten (10) feet from any dwelling
+may be located a minimum distance of three (3) feet from the property line
+in a side yard or rear yard.
+
+3.  A swimming pool may be located in a required rear yard, provided it lies a
+minimum of five (5) feet from the rear property line.
+
+4.  Fences, walls and hedges may be permitted in any required yard or along
+the edge of any yard, subject to the clear-vision area requirements of
+subsection
+405.07 (D) . [Last amended 7/9/98, Ord. 648]
+
+C.  Access
+
+Before a dwelling may be established on any parcel as provided in this section,
+the parcel shall have a legal, safe and passable means of access by abutting at
+least twenty (20) feet either directly upon a public road, or by a private easement
+which is at lease thirty (30) feet in width for its entire length and which also abuts
+upon a public road for at least thirty (30) feet. Nothing in this Section shall be
+construed to vary or waive the requirements for creation of new access contained
+in any
+Land Division Ordinance  legally adopted by Yamhill County.
+
+D.  Clear-Vision Areas
+
+A clear-vision area shall be maintained on the corner of any parcel at the
+intersection of any two of the following: County roads, public roads, private roads
+serving four or more parcels, and railroads. A clear-vision area shall contain no
+sight-obscuring structures or plantings exceeding thirty (30) inches in heights
+within a triangle formed by the lot corners nearest the intersection, and the two
+points twenty (20) feet from this corner as measured along the parcel lines
+adjacent to the intersecting rights-or-way. Trees exceeding this height may be
+located such that their branches extend into this triangle, provided they are
+maintained to allow at least twelve (12) feet of visual clearance within the triangle
+below the lowest hanging branches.
+
+E.  Height
+
+1.  The maximum building height for any dwelling shall be thirty-five (35)
+feet;
+
+2.  The maximum building height for all other structures shall be forty-five
+(45) feet; and
+
+3.  Appurtenances usually required to be placed above the roof level and not
+intended for human occupancy such as spires, belfries, cupolas, antennas.
+water tanks, ventilators, chimneys, and wind generators are not subject to
+the height limitations of this Ordinance.
+
+F.  Occupancy of Recreational Vehicles
+
+One (1) recreational vehicle shall be permitted to be parked on any parcel in
+conjunction with a principal dwelling, and may be used for the temporary
+accommodation of guests for a period of up to 30 days total in any year. In no
+case shall such any recreational vehicle be used as a principal dwelling or rented
+unless and until the necessary permits have been obtained. [Last amended 7/9/98, Ord. 648]
+
+G.  Off-street Parking
+
+Off-street parking and loading requirements for any use provided for in the PRO
+District shall be as provided in Section
+1007 .
+
+Return to the top of the document
+Zoning Table of Contents
+Main Planning Page

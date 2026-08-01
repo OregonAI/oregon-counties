@@ -1,0 +1,302 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-153
+title: '153'
+doc_type: ordinance
+citation: '153'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4482/153
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1220ada153d887a65a216985c94b7c478cb5dfe6efaabd565555168c2c4d3ba6
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 153 (153)
+
+## At a glance
+
+153 — land use of Polk County. 6 pages.
+
+## Full text
+
+153-1
+CHAPTER 153
+
+EOLA UNINCORPORATED COMMUNITY COMMERCIAL
+ (EOLA UC-C) ZONING DISTRICT
+
+153.010. Purpose and Intent
+153.020. Small-Scale, Low Impact Uses
+153.030. Standard Industrial Classifications
+153.040. Permitted Uses
+153.050. Uses Subject to Administrative Review
+153.060. Conditional Uses
+
+153-2
+153.010.  PURPOSE AND INTENT .  The purpose of the Eola Unincorporated Community
+Commercial (UC-C) Zoning District is to implement the Comprehensive Plan policies related to
+commercial development by providing for a range of service and product-oriented commercial
+activities.  This zone is applied to commercial lands within the unincorporated community of
+Eola.
+The intent of the EOLA UC-C Zoning District is to provide for commercial development in the
+unincorporated community of Eola.  Commercial activities in this zone generally consist of uses
+which complement agricultural and forest activities in the surrounding area, uses which serve the
+needs of the surrounding community or the needs of the traveling public, or other uses which are
+small-scale and low impact.
+153.020.  SMALL-SCALE, LOW-IMPACT USES .  Uses listed under Section 153.040(C) or
+Section 153.060(C) shall be established in a building or buildings not to exceed 4,000 square feet
+of floor space.  The floor area calculation does not include outdoor storage areas.
+Establishment of a new use or expansion of a use listed under Section 153.040(C) or Section
+EOLA 153.060(C) which would exceed the 4,000 square foot standard shall require a
+Comprehensive Plan Amendment as specified in Chapter 115 of the Zoning Ordinance.
+153.030.  STANDARD INDUSTRIAL CLASSIFICATIONS .  Standard Industrial
+Classification (SIC) code numbers for most of the uses in this zone are shown in parentheses
+after the listed use.  The SIC codes are a coding system used by the federal government to
+identify specific industries. Two-digit codes are used most often in the Zoning Ordinance to
+describe general categories of uses.  In some instances, more specific three and four-digit codes
+are used.  A copy of the SIC Manual is available for use at the Community Development
+Department and provides a more detailed description of the uses described in each general
+category.
+153.040.  PERMITTED USES . The following uses and their accessory buildings and uses are
+permitted.  All uses under this section are subject to the applicable standards as set forth in
+Chapter 112 (Development Standards) and other general provisions and exceptions set forth by
+this ordinance.  No building, structure, or premises shall be used except for one or more of the
+following uses:
+(A)  Uses which serve the needs of the community and surrounding rural area or the
+traveling public:
+(1) Unlimited number of dwelling units including:
+ (a) Dormitories;
+ (b) Sorority and fraternity houses;
+ (c) Student homes;
+ (d) Boarding houses (also see accessory uses);
+(e)  Rooming houses;
+(f)  Apartment houses;
+(g)  Court apartments;
+(h)  Churches;
+(i)  Community or neighborhood clubs;
+(j)  Child day care services, including pre-schools, nurseries and kindergartens
+(835);
+(2)  Single-family residences;
+
+153-3
+(3)  Eating and drinking places (58);  (Note:  The building is subject to a 7,000
+square foot size limitation unless a Comprehensive Plan amendment is
+approved pursuant to Section 115.050 of this Ordinance).
+(4) Boat launching facilities; and
+(5) Pleasure boat moorage.
+(6) Playgrounds, parks; and
+(7) Public buildings and structures, such as librar ies, fire stations.
+(B) Uses which complement natural resource industri es:
+(1)  Laboratory-seed and soil testing, research facilities (8734);
+(2)  Fruit store and vegetable market (54);
+(3)  Greenhouse (18);
+(4)  Farm product warehousing and storage (4221);
+(5)  Farm or forest products stand, designed and used for the sale of farm crops,
+special forest products and livestock grown on farms in the local agricultural
+area, including the retail sale of incidental items accounting for no more than
+25 percent of the total sales of the farm or forest stand.  Farm or forest products
+stands do not include structures designed for residential occupancy or to
+accommodate activities other than the sale of farm crops, special forest
+products and livestock, such as structures for banquets, public gatherings or
+entertainment;
+(6)  Farm or forest implement and equipment sales;
+(7)  Farm or forest related equipment, machinery or truck repair, including
+associated service parts facilities, and
+(8)  Farm and forest supply.
+(C) Uses which are small-scale, low-impact:
+(1)  Grocery stores (54);
+(2)  News dealers, newsstands (5994);
+(3)  Auditorium;
+(4)  Billiard parlor;
+(5)  Pony riding ring (no stable);
+(6)  Printing, publishing and allied industries (27);
+(7)  Miscellaneous retail (59);
+(8)  General merchandise stores (53);
+(9)  Automotive repair, services, and parking (75);
+(10)  Towing service;
+(11)  Automotive dealers and gasoline service stations (55);
+(12)  Aircraft service;
+(13)  Boat repair and haulout facilities;
+(14)  Building materials, hardware, and garden supply (52);
+(15)  Equipment rental and leasing (735);
+(16)  Educational services, including vocation schools (82);
+
+153-4
+(17)  Repair services (76);
+(18)  Personal services (72);
+(19)  Business services (73);
+(20)  Financial, insurance and real estate offices (60, 61, 62, 63, 64, 65,67);
+(21)  Offices for membership organizations (86);
+(22)  Professional offices for engineering, accounting, research, management, and
+public relations, and legal services (81, 87);
+(23)  Medical, dental, and other allied professional offices, clinics, and labs (801,
+802, 803, 804, 805, 807, 809);
+(24)  Apparel and accessory stores (56);
+(25)  Veterinary clinics (074);
+(26)  Home furniture, furnishing, and equipment stores (57);
+(27)  Residential homes, as defined in Section 110.477; and
+(28)  Unlimited number of dwelling units including:
+(a)  Homes for the aged;
+(b)  Retirement homes;
+(c)  Rest homes;
+(d)  Nursing homes;
+(e)  Sanitariums;
+(f)  Group Care Home.
+(D) Transportation Improvements.  [Amended by Ordinance 02-05]
+(E) Wind energy systems, meteorological towers, and  photovoltaic systems that are not
+commercial power generating facilities, but not including wind energy systems
+utilizing a tower and meteorological towers that require tower lighting, are located in
+an adopted urban growth boundary, or that would require modification to the height
+or type of construction standards described in Section 112.135(C)(1).  Wind energy
+systems utilizing towers and meteorological towers are subject to standards listed in
+Sections 112.135 and 112.137. Roof-mounted, building-integrated, building-
+mounted and architectural wind energy systems that extend no more than an
+additional 5 feet above the highest ridge of the building’s roof or 15 feet above the
+highest eave, whichever is higher, and do not exceed the height limitation of the
+zone, are subject to the standards listed in Section 112.137. Photovoltaic systems are
+subject to the standards described in Section 112.138.  [Amended by Ordinance 09-06]
+153.050.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+(A)  Wind energy systems utilizing a tower and meteorological towers outside of an
+adopted urban growth boundary that are not commercial power generating facilities
+that would utilize a tower(s) that requires lighting or that requires modification to the
+height or type of construction standards described in Section 112.135(C)(1), as
+provided in Sections 112.135 and 112.137.  [Amended by Ordinance 09-06]
+153.060.  CONDITIONAL USES .  When authorized under the procedure provided for
+conditional uses in this ordinance, the following uses will be permitted in any UC-C Zone:
+(A)  Uses which serve the needs of the community and surrounding rural area or the
+traveling public:
+
+153-5
+(1)  Community center;
+(2)  Private ambulance service (8099);
+(3)  Recreational vehicle park as defined in Section 110.466 (703);
+(4)  Boat, camper and trailer storage areas or lots (see Specific Conditional Uses,
+Section 120.030);
+(5)  Manufactured home parks when developed Pursuant to provisions of Section
+119.150(A); and
+(6)  Public Utilities (49) (exempted from these regulations are: underground pipes
+and conduits and above ground electric transmission distribution,
+communication signal lines on signal lines on a single pole system).
+(B) Uses which complement natural resource industri es:
+(1)  Processing facilities for farm or forest products (20, 24);
+(2)  Commercial activities in conjunction with farm or forest use including
+activities related to the processing, distribution, and retail marketing of farm or
+forest products a portion of which is grown on-site.
+(C) Uses which are small-scale, low-impact:
+(1)  General warehousing and storage (4225);
+(2)  Motor freight terminal offices (421);
+(3)  Funeral service and crematories (726);
+(4)  Billboards;
+(5)  Radio and TV transmitter stations and towers (483);
+(6)  Telephone and telegraph communication facilities (482);
+(7)  Miniature golf course;
+(8)  Athletic club, club house (7991)(7997);
+(9)  Dance hall, ballroom (791);
+(10)  Summer recreational camp;
+(11)  Swimming pool;
+(12)  Marina;
+(13)  Utilities, secondary truck parking and material storage yard;
+(14)  U-Haul concrete mix store (5032);
+(15)  Cabinet shop and sales firm (see Specific Conditional Uses, Section
+119.150(E));
+(16)  Cottage Industry Home Occupations (see Section 116.040); and
+(17)  Any other commercial use, where the buildings do not exceed 4,000 square
+feet of floor space provided that the use will not exceed the capacity of water
+and sewer service available to the site on December 5, 1994, or if such services
+are not available to the site, the capacity of the site itself to provide adequate
+water and absorb waste water.
+(D) Wind energy systems utilizing a tower and meteo rological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.  [Amended by
+Ordinance 09-06]
+
+153-6
+
+Appendix 1
+Eola Unincorporated Community Commercial Properties Inventory
+January, 2001
+Number Tax Map ID Location Uses Size
+(acres)
+Bldg. Size (sq. ft.)
+1 7425B 1900  4785 Highway 22-Eola Miscellaneous re tail (59)/ not in operation
+& residence
+7.60 1632 + 1 dwelling
+21 7425B 2000  Highway 22 -Eola  Vacant  6.12  Vacant
+3 7425C 400  4800 Highway 22-Eola Business offices of the firm or operations 1.33 3,480
+4 7425D 1200 Highway 22-Eola Vacant 0.96 Vacant
+5 7425D 2300  Highway 22-Eola Vacant 0.46 Vacant
+6 7425D 2400  4305 Highway 22-Eola Residence 0.86 1 dwelling
+7 7425D 2500  4355 Highway 22-Eola Residence 0.47 1 dwelling
+8 7425D 3300  4645 Highway 22-Eola Residence 0.48 1 dwelling
+8 7425D 3400  4655 Highway 22-Eola Residence 0.48 1 dwelling
+10 7425D 4100  Highway 22-Eola Vacant 1.03 Vacant
+11 7425D 4300  4350 Highway 22-Eola Residence 1.08 1 dwelling
+12 7425D 4400  Highway 22-Eola Processing facilities for farm or f orest
+products (20, 24)
+0.67 Outside storage
+13 7425D 4500  Highway 22-Eola Vacant 0.31 Vacant
+14 7425D 4501  4344 Highway 22-Eola Residence 0.27 1 dwelling
+15 7425D 4700  4310 Highway 22-Eola Residence 0.60 1 dwelling
+16  7425D 4800  Highway 22-Eola Vacant 0.24 Vacant
+17 7425D 4900  4250 Highway 22-Eola Eating and drinking places (58 ) & 1
+apartment/ not in operation
+0.57 6,880 + 1575 apartment
+18 7426 3003 5322 Highway 22-Eola Gasoline service station (55) 0.48 Convenience store: 2,050
+19 7426 3100 5292 Highway 22-Eola Residence + 2 vac ant commercial
+buildings
+2.00 Building 1: 1,143
+Building 2: 1092  +
+1 dwelling
+20 7426 3200 5232 Highway 22-Eola Residence 2.00 1 dwelling
+21 7426 3300 5152 Highway 22-Eola Fruit store and v egetable market (54)/
+Dwelling used as a miscellaneous retail
+(59)/ Eating and drinking place (58)
+5.70 Fruit stand: 1,188 Coffee
+stand: 128 Dwelling used
+as antique shop: 1,636
+22 7426A 1400 Highway 22-Eola Vacant 0.30 Vacant
+23 7426A 1500 Highway 22-Eola Special trade constru ction contractors (17) 0.88 Office: 508
+
+24 7426A 1600 214 52 nd  Avenue-Eola Residence 1.80 1 dwelling
+25 7426A 2400 Highway 22-Eola Commercial activities  in conjunction with
+farm or forest use including activities
+related to the processing, distribution, and
+retail marketing of farm or forest products
+a portion of which is grown on-site
+0.39 2,120
+26 7426A 2500 Highway 22-Eola Vacant 0.30 Vacant
+27 7426A 2600 5135 Highway 22-Eola Farm or forest i mplement and equipment
+sales
+1.21 Commercial storage
+Building: 4,480 +         1
+dwelling
+This table was created using Polk County Tax Assessors Tax Maps.  Each tax lot should not be inferred to be a separate lawfully
+created lot or parcel.  The deed to the subject property describes, in the legal description, how many lots or parcels comprise the
+subject property.  The legal status of the lots or parcels described in a deed can be determined by evaluating the land-use
+applications made through the Polk County Planning Division and the deed history for the subject property.
+
+1 The subject property was rezoned to Eola Unincorpor ated Community Industrial Commercial by PA 03-04,
+ZC 03-02, and Ordinance (Insert ordinance number  a nd date of ordinance adoption).

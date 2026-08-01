@@ -1,0 +1,357 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-amdeco
+title: 'AMENDMENTS TO THE DEVELOPMENT CODE'
+doc_type: ordinance
+citation: 'AMENDMENTS TO THE DEVELOPMENT CODE'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=AMDECO&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: bc701575cc0ed67219cdcfea2b055d0ea538b94679225aa57e47029d531de55e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# AMENDMENTS TO THE DEVELOPMENT CODE (AMENDMENTS TO THE DEVELOPMENT CODE)
+
+## At a glance
+
+AMENDMENTS TO THE DEVELOPMENT CODE — code of Benton County. 1 sections.
+
+## Full text
+
+ ### AMENDMENTS TO THE DEVELOPMENT CODE
+
+Effective May 18, 1990, the Development Code replaced the former Zoning Ordinance
+and Land Division Ordinance to govern land use activities in Benton County.
+The legislative history of every section of the Code is listed in brackets at the
+end of each section. For example:
+89.005 Purpose. This Chapter is intended to encourage continued use, rehabilitation, and
+preservation of significant historic sites and structures.
+This section appears at the beginning of Chapter 89 , Historic Preservation. This section was originally adopted in 1990 by Ordinance
+No. 90-0069. It was revised in 1991 by Ordinance No. 91-0080.
+Ord. No.
+Eff. Date
+File No.
+Chapters Amended
+90-0069
+5/18/90
+L-90-1
+Adoption of the Development Code (50-99)
+90-0073
+8/11/90
+L-90-2
+Rezone Marys River Estates from RR-2 to RR-5
+90-0074
+8/11/90
+L-90-4
+Expand Monroe UGB
+90-0075
+8/11/90
+L-90-5
+55
+90-0077
+10/5/90
+L-90-7
+76
+91-0079
+2/8/91
+L-80-9
+50
+91-0080
+4/27/91
+L-90-12
+87, 89
+91-0081
+4/27/91
+L-90-12
+Apply Sensitive Fish & Wildlife Habitat Overlay Zone to 2 sites
+91-0082
+2/22/91
+L-80-11
+50, 51, 64, 65
+91-0083
+3/8/91
+L-90-10
+Apply Wetland Overlay Zone to Jackson-Frazier Wetland
+92-0092
+7/17/92
+L-91-1
+51, 55, 61, 63, 64, 65, 68, 72, 76, 78, 79, 83, 86, 91, 94, 95, 96, 97, 98, 99
+92-0093
+11/7/92
+PC-92-5
+78
+92-0094
+11/7/92
+PC-92-5
+Apply Public Zone with Use Overlay to Peavy Arboretum
+93-0096
+3/5/93
+L-91-1
+51
+93-0097
+3/5/93
+L-91-1
+64, 91, 95
+93-0098
+5/21/93
+L-90-12
+55, 87
+94-0103
+3/18/94
+L-92-1
+60
+94-0104
+3/18/94
+L-93-1
+51, 63, 64, 82, 91
+94-0108
+11/6/94
+L-94-4 & 5
+55, 56
+95-0114
+11/4/95
+L-95-1
+60
+96-0117
+8/12/96
+L-95-3
+51
+96-0118
+8/12/96
+L-95-3
+51, 55, 60, 63, 64, 65, 68, 69, 72, 73, 76, 78, 79, 83, 85, 89, 91, 94, 95, 97, 98,
+99
+96-0119
+12/13/96
+L-96-3
+91
+97-0131
+12/12/97
+L-96-2
+51, 63, 64, 79, 91 and repeal 82
+98-0134
+3/20/98
+L-97-3
+51, 60, 64
+98-0136
+07/10/98
+L-98-01
+63, 64
+98-0141
+11/6/98
+L-97-4
+57. 64. 95, 97, 98, 100
+99-0146
+4/8/99
+L-98-01
+55, 64, 72, 79, 91
+99-0147
+4/8/99
+52, 79
+99-0148
+7/8/99
+L-98-03
+99-0154
+2/10/2000
+L-99-05
+100
+2000-0157
+5/18/2000
+L-99-06
+51, 55, 83
+2000-0161
+10/5/2000
+L-00-02
+51, 53, 89
+2001-0168
+5/24/2001
+L-01-02
+100
+2000-0163
+7/19/2001
+L-00-01
+53, 55
+2001-0172
+8/30/2001
+L-01-03
+72
+2001-0174
+11/1/2001
+L-01-01
+51, 55, 60
+2003-0184
+6/23/2003
+PC-03-01
+68
+2004-0196
+7/8/2004
+L-03-02
+51, 53
+2005-0209
+10/6/2005
+L-04-01
+51, 57, 64, 72, 78, 83, 88, 100 (Corvallis Natural Features Program, Hazards Element)
+2005-0210
+10/6/2005
+L-04-01
+51, 57, 64, 72, 78, 88, 100 (Corvallis Natural Features Program, Riparian and Wetland
+Element)
+2005-0211
+11/25/2005
+L-04-01
+64, 88, 100 (Corvallis Natural Features Program, Significant Vegetation Element)
+2006-0213
+6/29/2006
+LU-06-023
+72
+2006-0214
+9/7/2006
+LU-05-090
+51, 53, 55, 60, 85, 94, and 99
+2007-0222
+8/9/2007
+LU-06-058
+63, 68, 70, 72, 74, 98
+2007-0223
+10/2/2007
+LU-07-070
+95, 97, 99
+2007-0224
+11/15/2007
+LU-07-070
+95, 97, 99
+2008-0226
+7/10/2008
+LU-05-048
+66 (New), 75 (New)
+2009-0232
+12/24/2009
+LU-08-075
+51, 53, 55, 60, 94, 97
+2010-0235
+7/1/2010
+LU-09-085
+76
+2009-0233
+6/2/2011
+LU-08-096
+51, 83, 94, 95, 97 (Floodplain Code Revision & Map Adoption)
+2011-0240
+7/1/2011
+LU-10-052
+97, 99, 100 (Stormwater Management)
+2012-0244
+3/29/2012
+LU-11-053
+64, 99, 100
+2012-0247
+9/20/2012
+LU-11-052
+51, 81, 91 (Special Use)
+2012-0248
+9/20/2012
+LU-12-011
+81.100 (Special Use - Children's Farm Home subzone)
+2012-0249
+12/20/2012
+LU-12-008
+81 (Special Use - Airport Industrial Park)
+2013-0253
+8/15/2013
+LU-13-013
+87 (Fender's Blue Butterfly Overlay), 51, 95
+2013-0255
+11/14/2013
+LU-13-054
+83 (Floodplain Code Revision & Revised Panel Adoption)
+2014-0264
+1/29/2015
+LU-14-075
+64 (Community Gathering Facilities)
+2015-0265
+2/19/2015
+LU-14-077
+76 (Use Overlay Zone)
+2015-0267
+7/16/2015
+LU-15-018
+53, 95
+2015-0268
+8/6/2015
+LU-15-016
+55
+2015-0269
+9/3/2015
+LU-15-018
+51
+2015-0270
+12/24/2015
+LU-15-052
+51, 55 (Recreational Marijuana)
+2015-0271
+12/24/2015
+LU-15-052
+66, 70, 72, 74, 75, 76, 78, 91 (Recreational Marijuana)
+2016-0276
+12/08/2016
+LU-16-057
+83 (Floodplain Code Revision & Revised Panel Adoption)
+2017-0278
+03/23/2017
+LU-16-082
+81 (Special Use - Airport Industrial Park)
+2017-0282
+12/21/2017
+LU-15-047
+60
+2017-0283
+12/21/2017
+LU-17-012
+78 (Oak Grove School)
+2018-0285
+06/30/2018
+LU-18-016
+51, 63, 64, 65, 91 (Accessory Dwelling Units)
+2018-0286
+07/19/2018
+LU-18-016
+51, 63, 64, 65, 91 (Accessory Dwelling Units)
+2018-0289
+01/03/2019
+LU-17-022
+51, 94, 95, 97
+2020-0297
+08/06/2020
+LU-18-064
+53, 55, 60, 91, 94 (Mandatory Changes)
+2021-0304
+10/07/2021
+LU-21-032
+51, 57, 83, 88, 94, 95, 97, 99 (Mandatory Floodplain Code Revision)
+2022-0313
+12/15/2022
+LU-22-048
+51, 91 (Psilocybin)
+[Ord. 90-0069; Ord. 91-0080]

@@ -1,0 +1,291 @@
+group: umatilla
+title: Umatilla County sources
+county: umatilla-county
+crawl:
+  decision: proceed
+  checked: '2026-07-31'
+  basis: 'No robots.txt exists on any Umatilla domain — each returns the TYPO3 ''Page Not Found'' page
+    rather than a directives file, so there is nothing stated to honour or decline. Absence of a robots.txt
+    is not permission in itself, so fetching stays polite: one request at a time, cached once.'
+  hosts:
+  - host: umatillacounty.gov
+    robots_url: https://umatillacounty.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: No robots.txt (TYPO3 404 page). Canonical host; pinned for ingest because a completed path
+      migration left cached URLs 404ing.
+  - host: www.co.umatilla.or.us
+    robots_url: null
+    ai_block: false
+    content_signal: null
+    notes: Same property. Used for land-use, where the documents were verified.
+last_checked: '2026-07-31'
+upstream_signal: No feed. Filenames encode the chapter number, so a new chapter appears as a new link
+  in the ordinances index; amendments replace the PDF in place and are caught by re-hashing.
+sources:
+- id: umatilla-code-10-general-provisions
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/10_General_Provisions.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 10 General Provisions
+  last_checked: '2026-07-31'
+- id: umatilla-code-30-county-officials-and-employees
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/30_County_Officials_and_Employees.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 30 County Officials and Employees
+  last_checked: '2026-07-31'
+- id: umatilla-code-31-departments-and-committees
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/31_Departments_and_Committees.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 31 Departments and Committees
+  last_checked: '2026-07-31'
+- id: umatilla-code-32-elections
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/32_Elections.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 32 Elections
+  last_checked: '2026-07-31'
+- id: umatilla-code-33-sheriffs-department
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/33_Sheriffs_Department.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 33 Sheriffs Department
+  last_checked: '2026-07-31'
+- id: umatilla-code-34-personnel-policies
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/34_Personnel_Policies.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 34 Personnel Policies
+  last_checked: '2026-07-31'
+- id: umatilla-code-35-emergency-operations-plan
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/35_Emergency_Operations_Plan.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 35 Emergency Operations Plan
+  last_checked: '2026-07-31'
+- id: umatilla-code-36
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/36.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: '36'
+  last_checked: '2026-07-31'
+- id: umatilla-code-37-taxation
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/37_Taxation.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 37 Taxation
+  last_checked: '2026-07-31'
+- id: umatilla-code-38-code-enforcement
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/38_Code_Enforcement.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 38 Code Enforcement
+  last_checked: '2026-07-31'
+- id: umatilla-code-39-fees-schedules
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/39_Fees_Schedules.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 39 Fees Schedules
+  last_checked: '2026-07-31'
+- id: umatilla-code-50-solid-waste
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/50_Solid_Waste.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 50 Solid Waste
+  last_checked: '2026-07-31'
+- id: umatilla-code-51-way-of-necessity
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/51_Way_of_Necessity.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 51 Way of Necessity
+  last_checked: '2026-07-31'
+- id: umatilla-code-70-general-provisions
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/70_General_Provisions.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 70 General Provisions
+  last_checked: '2026-07-31'
+- id: umatilla-code-71-parking-regulations
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/71_Parking_Regulations.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 71 Parking Regulations
+  last_checked: '2026-07-31'
+- id: umatilla-code-72-county-road-atv-use
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/72_County_Road_ATV_Use.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 72 County Road ATV Use
+  last_checked: '2026-07-31'
+- id: umatilla-code-90-ambulance-services
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/90_Ambulance_Services.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 90 Ambulance Services
+  last_checked: '2026-07-31'
+- id: umatilla-code-91-fire-prevention-and-protection
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/91_Fire_Prevention_and_Protection.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 91 Fire Prevention and Protection
+  last_checked: '2026-07-31'
+- id: umatilla-code-92-parks-and-recreation
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/92_Parks_and_Recreation.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 92 Parks and Recreation
+  last_checked: '2026-07-31'
+- id: umatilla-code-93-address-numbering-and-road-naming
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/93_Address_Numbering_and_Road_Naming.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 93 Address Numbering and Road Naming
+  last_checked: '2026-07-31'
+- id: umatilla-code-94-nuisances
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/94_Nuisances.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 94 Nuisances
+  last_checked: '2026-07-31'
+- id: umatilla-code-95-smoke-management
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/95_Smoke_Management.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 95 Smoke Management
+  last_checked: '2026-07-31'
+- id: umatilla-code-96-noise-control
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/96_Noise_Control.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 96 Noise Control
+  last_checked: '2026-07-31'
+- id: umatilla-code-97-weed-control
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/97_Weed_Control.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 97 Weed Control
+  last_checked: '2026-07-31'
+- id: umatilla-code-98-vector-control
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/98_Vector_Control.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 98 Vector Control
+  last_checked: '2026-07-31'
+- id: umatilla-code-99-toxic-waste-storage-and-transportation
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/99_Toxic_Waste_Storage_and_Transportation.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99 Toxic Waste Storage and Transportation
+  last_checked: '2026-07-31'
+- id: umatilla-code-100-control-of-insect-pests-and-diseases-in-fruit-trees-and-
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/100_Control_of_Insect_Pests_and_Diseases_in_Fruit_Trees_and_Vines.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 100 Control of Insect Pests and Diseases in Fruit Trees and Vines
+  last_checked: '2026-07-31'
+- id: umatilla-code-101-crime-property
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/101_Crime_Property.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 101 Crime Property
+  last_checked: '2026-07-31'
+- id: umatilla-code-110-social-games
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/110_Social_Games.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 110 Social Games
+  last_checked: '2026-07-31'
+- id: umatilla-code-111-pawnbrokers
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/111_Pawnbrokers.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 111 Pawnbrokers
+  last_checked: '2026-07-31'
+- id: umatilla-code-112-mining
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/112_Mining.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 112 Mining
+  last_checked: '2026-07-31'
+- id: umatilla-code-113-environmental-health
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/113_Environmental_Health.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 113 Environmental Health
+  last_checked: '2026-07-31'
+- id: umatilla-code-114-false-alarms
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/114_False_Alarms.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 114 False Alarms
+  last_checked: '2026-07-31'
+- id: umatilla-code-115-marijuana-business-restrictions
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/115_Marijuana_Business_Restrictions.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 115 Marijuana Business Restrictions
+  last_checked: '2026-07-31'
+- id: umatilla-code-116-septic-systems
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/116_Septic_Systems.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 116 Septic Systems
+  last_checked: '2026-07-31'
+- id: umatilla-code-117-second-amendment
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/117_Second_Amendment.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 117 Second Amendment
+  last_checked: '2026-07-31'
+- id: umatilla-code-150-153-umatilla-county-development-code-07-17-2024
+  url: https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/150-153_Umatilla_County_Development_Code_07-17-2024.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 150-153 Umatilla County Development Code 07-17-2024
+  last_checked: '2026-07-31'
+- id: umatilla-land-use-development-code-2025
+  url: https://www.co.umatilla.or.us/fileadmin/user_upload/Community_Development/Planning/Umatilla_County_Development_Code_2025.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Umatilla County Development Code (rev. 2025-06-18)
+  last_checked: '2026-07-31'

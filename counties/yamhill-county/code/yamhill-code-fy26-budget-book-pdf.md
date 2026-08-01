@@ -1,0 +1,7975 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-code-fy26-budget-book-pdf
+title: 'FY26-Budget-Book-PDF'
+doc_type: ordinance
+citation: 'FY26-Budget-Book-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17830/FY26-Budget-Book-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: b07c5e61c6a54e6159ff683469db4e120c6f3bc8aa85dc27d0a0bc8026b2c7cc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 294.428
+    - ORS 294.438
+    - ORS 294.444
+    - ORS 294.453
+    - ORS 294.456
+    - ORS 430.735
+    - ORS 461.547
+  related: []
+  supersedes: []
+tags: [yamhill-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# FY26-Budget-Book-PDF (FY26-Budget-Book-PDF)
+
+## At a glance
+
+FY26-Budget-Book-PDF — code of Yamhill County. 317 pages.
+
+## Full text
+
+YYAAMMHHIILLLL  CCOOUUNNTTYY
+BBUUDDGGEETT
+--  AAddoopptteedd--
+22002266--22002277
+B.O. 26-167
+2026-2027 YAMHILL COUNTY BUDGET
+TABLE OF CONTENTS
+Budget Re
+solution & Schedule of Appropriation           2
+ORS 294.444 Report    6
+110 General Fund        8
+1010002 Discreti onary Revenue    9
+1010010 Admin istrative Services    11
+1010039 Non-Depar tmental  15
+1010048 911/Dispat ch Services   18
+1010059 Mediatio n  20
+1010090  Transf ers   22
+1015013  Comm issioners   24
+1025017 Informati on Technology        28
+1045033  Transpor tation    32
+1510012  Assessmen t and Taxation       36
+2010015  County  Clerk         40
+2510018  Dist rict Attorney        45
+2515022 Support Enf orcement    50
+3010020  Planning     54
+3010021  Sur veyor   60
+3510023 Treasurer  64
+4010025  County  Counsel    67
+4510040  Emergen cy Management       71
+4510042  Marine P atrol        75
+4510043  Sherif f Patrol        78
+4510069  Narcot ics Investigation   85
+4510163  Radi o System         88
+4515041  Jail  91
+4515086  Court house Campus Security       97
+5010081  Parks         100
+6515074  Juven ile Probation  104
+6515077  Juveni le Detention  108
+138 Landfill License Reserve  112
+150 O&C Reserve Fund        115
+211 Road Fund  118
+5010029  Motor V ehicle       121
+5010055  Engine ering       125
+5010060 Road   128
+212 Clerk’s Records          133
+213 Dog Control Fund          136
+214 Law Library Fund          140
+215 County School Fund          144
+216 Health and Human Services Fund           147
+5510079  HHS Adm inistration             151
+5515070 Public Hea lth             158
+5520073 Commun ity Support Services                     164
+5520075 Family and  Youth            170
+5520172 Enhanced Re sidential and Outreach  176
+5520173 Housing an d Recovery Supports   181
+5520174 Adult B ehavioral Health  187
+5525071 Veterans S ervices and Developmental Disability Services 193
+217 Solid Waste Fund            198
+220 County Fair Fund             204
+221 Community Corrections Fund          212
+226 Economic Development Fund           233
+227 Corner Restoration Fund             238
+230 Title III Fund           243
+232 American Rescue Plan Fund  246
+233 Opioid Settlement Fund           249
+252 Habitat Conservation Fund 252
+429 Systems Development Fund          256
+440 Capital Improvement Fund 262
+441 Bicycle/Footpath Fund   279
+645 Motor Vehicle Reserve Fund 282
+648 Telecommunications Fund 286
+680 Insurance Reserve Fund   290
+Budget Summaries   304
+LB-50 Form   308
+Budget Notices             310
+BUDGET
+RESOLUTION &
+SCHEDULE OF
+APPROPRIATIONS
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+FOR THE COUNTY OF YAMHILL
+SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+In the Matter of the Adoption   )
+of the Yamhill County Budget   ) RESOLUTION 26-06-18-1
+for Fiscal Year 2026-2027; Setting  ) Board Order 26-167
+Appropriations and Levying Taxes. )
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON ("the Board") sat
+for the transaction of county business in formal session on June 18, 2026, Commissioners Kit
+Johnston, Mary Starrett, and David “Bubba” King being present.
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+A. On April 22, 2026, the Yamhill County budget committee, comprised of Commissioners
+Kit Johnston, Mary Starrett, and David “Bubba” King and citizen members Greg Thorsgard,
+Anton Bakker, and Jason Fields (“Budget Committee”), unanimously approved a budget
+document in accordance with ORS 294.428 and unanimously approved a tax rate of $2.5775 per
+$1,000 assessed value.
+B. Following the Budget Committee's approval of the budget document, the County
+Administrator caused to be published in accordance with ORS 294.438 a budget summary,
+financial summary, certification of accounting method, and notices of public hearing and
+availability of budget document.  The budget document has remained on file in the Board's office
+available for review by the public.
+C. In accordance with ORS 294.453, the Board held a public hearing on June 11, 2026, on
+the budget document approved by the Budget Committee.  Based on testimony received at the
+hearing, limited modifications were made to the budget document as authorized by ORS 294.456.
+The modifications are incorporated into the final budget adopted by this Resolution and Board
+Order.
+NOW, THEREFORE,
+IT IS HEREBY RESOLVED BY THE BOARD that the Board hereby adopts the 2026-27 budget
+document approved by the Yamhill County Budget Committee on April 22, 2026, following a
+public hearing on June 11, 2026, and with modifications approved by the Board on June 11, 2026.
+The total amount of the 2026-27 budget is $211,531,718.  The budget is on file in the Board
+office, 434 NE Evans Street, McMinnville, Oregon, and is incorporated into this Resolution and
+Board Order by reference.
+IT IS FURTHER RESOLVED BY THE BOARD that the amounts set forth on the attached
+Exhibit "A," identified as "Schedule of Appropriations," and incorporated herein by this
+reference, are hereby appropriated for the fiscal year beginning July 1, 2026, for the purpose of
+operating Yamhill County for fiscal year 2026-27, and that the amounts appropriated shall be for
+the purposes shown on the attached Exhibit "A."
+IT IS FURTHER RESOLVED BY THE BOARD that the Board hereby levies taxes provided for
+in the adopted budget by levying a tax upon all taxable property in Yamhill County at the tax rate
+of $2.5775 per $1,000 assessed value.  Taxes are hereby levied upon the assessed values as of
+1:00 a.m. on July 1, 2026, on all taxable property within Yamhill County.
+B.O. 26-167
+IT IS FURTHER RESOLVED that the following allocations and categorizations are identified to
+specify whether the tax levies are subject to the limits of Section 11b, Article XI of the Oregon
+Constitution (Measure 5) or Section 11, Article XI of the Oregon Constitution (Measure 50):
+Subject to General Government Excluded from Limitations
+Limitations of Measures 5 and 50 of Measures 5 and 50
+General Fund $2.5775 per thousand None
+dollars assessed value
+DONE at McMinnville, Oregon, on June 18, 2026.
+ATTEST YAMHILL COUNTY BOARD OF COMMISSIONERS
+KERI HINTON            _________________________________________
+County Clerk Chair   KIT JOHNSTON
+By:_____________________ _________________________________________
+Deputy CAROLINA ROOK Commissioner  MARY STARRETT
+_________________________________________
+Commissioner  DAVID “BUBBA” KING
+FORM APPROVED BY:
+_________________________ _________________________________________
+JODI GOLLEHON               County Administrator KENNETH HUFFER
+County Counsel  & Budget Officer
+1010002 Discretionary 200,000 6520041 Community Corrections 5,115,530
+1010010 Administrative Services 2,023,170 TOTAL COMMUNITY CORRECTIONS FUND 5,115,530
+1010039 Non Departmental 1,314,227 _
+1010039 Non Departmental Transfers 2,000 1010034 Economic Development 1,094,191
+1010048 911/Dispatch 786,602 TOTAL ECONOMIC DEVELOPMENT FUND 1,094,191
+1010059 Mediation 210,465 _
+1010090 Transfers 3,894,133 3010037 Corner Restoration 146,645
+1015013 Board of Commissioners 803,313 TOTAL CORNER RESTORATION FUND 146,645
+1025017 Information System 3,620,179 _
+1045033 Transit 4,717,710 1010181 SDC 273,062
+1510012 Assessor 3,373,134 TOTAL SDC FUND 273,062
+2010015 Clerk 1,189,871 _
+2510018 District Attorney 5,017,652 1010053 Title 3 72,562
+2515022 Support Enforcement 941,584 TOTAL TITLE 3 FUND 72,562
+3010020 Planning 3,591,608 _
+3010021 Surveyor 224,875 1010054 American Rescue Plan Transfers 3,000
+3510023 Treasurer 45,616 TOTAL AMERICAN RESCUE PLAN FUND 3,000
+4010025 County Counsel 891,873
+4510040 Emergency Management 509,024 1010055 Opioid Settlement 2,881,258
+4510042 Marine 151,522 TOTAL OPIOID SETTLEMENT FUND 2,881,258
+4510043 Sheriff 12,792,040
+4510069 Narcotics Investigation 359,624 1030083 Maintenance Reserve 35,000
+4510163 Radio System 721,711 1020016 Facilities Maintenance 2,059,658
+4515041 Jail 10,088,423 1030115 IT PC Reserve 1,075,019
+4515086 Courthouse Security 941,650 1030027 Capital Improvement 1,782,941
+5010081 Parks 724,284 1030027 Capital Improvement Debt Service 1,336,929
+6515074 Juvenile Department 2,076,588 1030041 Jail Capital 427,417
+6515077 Juvenile Detention 2,728,059 1020116 Jail Maintenance 725,112
+TOTAL GENERAL FUND 63,940,937 1030161 Capital Projects 150,000
+1030161 Capital Projects Transfers 317,688
+1010056 Landfill License 477,734 TOTAL CAPITAL IMPROVEMENT FUND 7,909,764
+TOTAL LANDFILL LICENSE AGREEMENT FUND 477,734
+5010030 Bicycle Footpath 3,310
+1010052 O&C Reserve 386,831 5010030 Bicycle Path Contingency 894,768
+1010052 O&C Reserve Transfers 4,500 TOTAL BICYCLE FOOTPATH FUND 898,078
+TOTAL O&C RESERVE FUND 391,331
+5015129 Motor Vehicle 1,507,196
+5010060 Road Department 11,868,235 TOTAL MOTOR VEHICLE FUND 1,507,196
+5010060 Road Contingency 293,750
+5010060 Road Debt Service 655,260 1025014 Telecommunications 594,782
+TOTAL ROAD FUND 12,817,245 TOTAL TELECOMMUNICATIONS FUND 594,782
+_ _
+2010115 Clerk Records 67,909 5010062 Habitat Conservation 50,878
+TOTAL CLERKS RECORDS FUND 67,909 TOTAL HABITAT CONSERVATION FUND 50,878
+_ _
+4510047 Dog Control 308,352 1035038 Insurance Reserve 5,108,714
+TOTAL DOG CONTROL FUND 308,352 TOTAL INSURANCE RESERVE FUND 5,108,714
+_
+1040026 Law Library 142,722 _
+TOTAL LAW LIBRARY FUND 142,722
+_
+1010085 County School 103,489
+TOTAL COUNTY SCHOOL FUND 103,489
+_
+5515070 Health & Human Services 75,363,833
+TOTAL HEALTH & HUMAN SERVICES FUND 75,363,833
+_ _
+3010028 Solid Waste 1,350,527
+3010028 Solid Waste Transfer 89,000
+TOTAL SOLID WASTE FUND 1,439,527
+6010080 County Fair 1,473,359 _
+TOTAL FAIR FUND 1,473,359 _
+_
+Grand Total 2026-27 Appropriations 182,182,098
+Exhibit A
+SCHEDULE OF APPROPRIATIONS
+2026-27 Yamhill County Budget
+B.O. 26-167
+ORS 294.444 REPORT
+Expenditures
+Program  Total
+Expenditures
+ General
+Resources  Other Funds
+ Lottery
+Funds  State Funds
+ Direct
+Federal
+Funds
+ Total
+Revenue
+Assessment & Tax
+ADOPTED BUDGET 2026-27 3,373,134              2,905,634       142,500            -               325,000          -  3,373,134
+ADOPTED BUDGET 2025-26 3,100,176             2,633,676      141,500           -               325,000         -  3,100,176
+ACTUAL 2024-25 2,658,141             2,103,596      182,128           -               372,417         -  2,658,141
+ACTUAL 2023-24 2,564,150             1,994,652      133,063           -               436,435         -  2,564,150
+Community Corrections
+ADOPTED BUDGET 2026-27 5,115,530             1,028,169      208,911           -               3,878,450      -  5,115,530
+ADOPTED BUDGET 2025-26 5,097,553             685,280         169,545           -               4,242,728      -  5,097,553
+ACTUAL 2024-25 4,339,547             57,840           274,309           -               4,007,398      -  4,339,547
+ACTUAL 2023-24 4,864,456             714,912         375,086           -               3,774,458      -  4,864,456
+District Attorney
+ADOPTED BUDGET 2026-27 5,017,652             4,093,165      434,522           -               335,965         154,000         5,017,652
+ADOPTED BUDGET 2025-26 4,772,521             3,940,201      180,020           -               502,300         150,000         4,772,521
+ACTUAL 2024-25 3,393,408             2,590,388      291,458           -               304,567         206,995         3,393,408
+ACTUAL 2023-24 3,364,396             2,922,365      141,449           -               165,985         134,597         3,364,396
+Public Health
+ADOPTED BUDGET 2026-27 6,049,384             2,170,039      1,326,986
+ -               1,523,412      1,028,947      6,049,384
+ADOPTED BUDGET 2025-26 6,607,847             2,257,034      1,499,325        -               1,476,047      1,375,441      6,607,847
+ACTUAL 2024-25 6,156,739             1,932,967      1,634,973        -               1,726,499      862,300         6,156,739
+ACTUAL 2023-24 5,734,340             2,155,616      1,475,867        -               1,264,539      838,318         5,734,340
+Juvenile
+ADOPTED BUDGET 2026-27 4,804,647             3,815,774      508,000           -               480,873         -  4,804,647
+ADOPTED BUDGET 2025-26 4,504,563             3,493,278      493,370           -               517,915         -  4,504,563
+ACTUAL 2024-25 4,279,731             2,751,989      778,413           -               749,329         -  4,279,731
+ACTUAL 2023-24 3,650,867             2,749,987      658,497           -               242,383         -  3,650,867
+Mental Health & Chemical Dependency
+ADOPTED BUDGET 2026-27 68,854,251           16,182,940    38,767,730      -               13,707,581    196,000         68,854,251
+ADOPTED BUDGET 2025-26 65,261,664           11,522,929    39,682,622      -               13,584,341    471,772         65,261,664
+ACTUAL 2024-25 47,527,770           -  59,242,781      -               11,208,232    360,980         70,811,993
+ACTUAL 2023-24 44,519,623           -  35,465,955      -               10,982,196    554,362         47,002,513
+Veterans
+ADOPTED BUDGET 2026-27 460,198  318,689         - -
+              141,509         -  460,198
+ADOPTED BUDGET 2025-26 560,968  404,702         -  -               156,266         -  560,968
+ACTUAL 2024-25 513,406  327,213         1,292  -               184,901         -  513,406
+ACTUAL 2023-24 482,766  371,801         350  -               110,615         -  482,766
+Economic Development
+ADOPTED BUDGET 2026-27 1,094,191             562,708         46,483             485,000      -  -  1,094,191
+ADOPTED BUDGET 2025-26 881,740  363,217         43,523             475,000      -  -  881,740
+ACTUAL 2024-25 495,571  -  63,341             532,520      -  -  595,861
+ACTUAL 2023-24 330,724  -  54,413             667,116      -  -  721,529
+Road
+ADOPTED BUDGET 2026-27 13,766,201           2,402,742      908,736           -               10,454,723    - 13,766,201
+ADOPTED BUDGET 2025-26 13,118,896           1,579,851      900,709           -               10,614,336    24,000           13,118,896
+ACTUAL 2024-25 13,343,484           1,773,983      987,665           -               10,561,900    19,936           13,343,484
+ACTUAL 2023-24 12,859,737           587,930         860,147           -               11,290,601    121,059         12,859,737
+Transit
+ADOPTED BUDGET 2026-27 4,717,710             547,387         700,000           -
+  2,112,855      1,357,468      4,717,710
+ADOPTED BUDGET 2025-26 9,747,523             1,381,924      1,977,471        -               3,597,404      2,790,724      9,747,523
+ACTUAL 2024-25 5,454,561             1,378,639      365,507           -               2,428,001      1,282,414      5,454,561
+ACTUAL 2023-24 5,443,663             1,433,315      170,745           -               2,694,421      1,145,182      5,443,663
+ORS 294.444 Reporting for Counties 2026-27
+ORS 294.444 requires county budgets to include a summary of revenue and expenditures for programs funded in part by state resources.
+Revenue
+FUND 110
+GENERAL
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Discretionary Revenues
+110-1010002 Discretionary Revenues: The Discretionary Revenues account is comprised of various tax revenues that are used to fund general fund departments and other
+services and projects determined by the Yamhill County Board of Commissioners.  Also known as General Fund revenues, discretionary revenues are predominately comprised of
+property tax revenues, but also include tobacco, alcohol, marijuana, and video lottery taxes.  The current tax rate for all taxable property in Yamhill County is $2.5775 per $1,000
+of assessed value.  This rate is recommended by the Yamhill County Budget Committee and adopted by the Board of Commissioners at budget adoption. The tax rate was last
+increased in 1998.
+Discretionary Revenues are approximately 20% of the total revenues for Yamhill County's annual budget and almost 71% of these funds are allocated to criminal justice (Sheriff's
+Office, District Attorney's Office, Juvenile Detention and Probation, and etc.).  The remaining 29% of discretionary revenues are allocated to County services and departments
+including Tax and Assessment, County Administration, Parks, Transit, Surveyor, Health and Human Services, County Clerk, and other internal services (insurance, capital reserve,
+and non-departmental).
+Yamhill County is projecting a three percent (3%) increase in property tax revenues.  Other tax revenues (tobacco, alcohol, and marijuana) are all trending to be slightly less than
+prior years and this is due to a multitude of factors.  Due to continued challenges and demands on discretionary revenues, the Board of Commissioners did not approve across the
+board increase to department allocations.  Further, and based on the Budget Officer's recommendations, several departments received minor reductions to their allocations.  The
+recommended reductions were based primarily on consistent annual beginning balance amounts, elimination of serval vacant positons, and higher than projected beginning
+balances for Fiscal Year 2025-26. It is anticipated that there will be personnel cost increases associated to several new collective bargaining agreements and increased costs
+associated to a variety of economic factors. Total allocations for Fiscal Year 2026-27 equal thirty-four (34) million dollars and this is approximately the same as the current fiscal
+year.  While these allocations will not fully cover anticipated cost increases, departments will be required to use ending fund balances and to identify cost saving measures or find
+outside revenues to address any shortfalls.
+Important note:  Allocations to General Fund departments are not done via a line-item transfer.  All fund 110 departments (general fund departments) balance to Fund 110-101-
+10002, so many Fund 110 departments in the annual budget will appear to be out of balance; however, please note that Fund 110 and the departments within Fund 110 do in fact
+balance consistent with that department's discretionary allocation.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Discretionary Revenues
+3,106,900 4,430,980 3,426,770 110-1010002-30101  Beginning Fund Balance 2,302,859 2,302,859 2,302,859
+1,618,421 1,041,532 1,123,676 110-1010002-30102  Fund Balance Reserved 1,123,676 1,123,676 1,123,676
+28,220,354 29,854,402 29,625,795 110-1010002-31
+101  Current Taxes 31,020,290 31,020,290 31,020,290
+706,437 789,041 500,000 110-1010002-31102  Prior Yr Taxes 500,000 500,000 500,000
+- - - 110-1010002-31104  SIP - Annual Investment Amount Revenue 72,000 72,000 72,000
+- - - 110-1010002-31105  SIP - Community Service Fee Revenue 360,591 360,591 360,591
+65,000 65,000 65,000 110-1010002-33201  O&C Funds 65,000 65,000 65,000
+82,637 87,181 430,000 110-1010002-33205  In Lieu Of T
+axes 15,000 15,000 15,000
+- - _ - _ _ _
+36,758 23,297 23,515 110-1010002-33501  Amusement Tax 22,000 22,000 22,000
+50,993 44,305 50,000 110-1010002-33502  Cigarette Tax 40,000 40,000 40,000
+765,006 610,383 650,000 110-1010002-33503  Liquor T
+ax 525,000 525,000 525,000
+114,315 99,754 85,000 110-1010002-33536  Marijuana T
+ax 85,000 85,000 85,000
+167,836 284,493 115,000 110-1010002-36101  Pool Investment Earnings 220,776 220,776 220,776
+467,159 533,558 175,000 110-1010002-36103  Bond Investment Earnings 394,942 394,942 394,942
+- 11,850 - 110-1010002-36299  Miscellaneous - Other Revenue - - -
+89,000 89,000 89,000 110-1010002-38061  T
+rans In From Solid Waste 89,000 89,000 89,000
+- - - 110-1010002-38092  T
+rans In From Capital Fund 88,511 88,511 88,511
+409,785 - - 110-1010002-38093  T
+rans In From ARPA Fund 3,000 3,000 3,000
+35,900,600 37,964,778 36,358,756 Total Revenue 36,927,645 36,927,645 36,927,645
+- - - - Total For Personnel - - - -
+- - 302,500 110-1010002-69901  Other Expense 200,000 200,000 200,000
+- - 302,500 Total For Contracted Services 200,000 200,000 200,000
+- - 1,248,396 110-1010002-99003  Reserve For Futur
+e 1,874,785 1,312,368 1,204,552
+- - 1,248,396 Total For Balances 1,874,785 1,312,368 1,204,552
+- - 1,550,896 - Total Expenses Discr
+etionary Revenues - 2,074,785 1,512,368 1,404,552
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Administrative Services
+110-1010010 Administrative Services: The Administrative Services budget funds several departments and services to provide centralized support to departments county-wide.
+This includes the County Budget Office, Financial Services, and Human Resources. Revenue for the Administrative Services Fund is generated through internal service charges,
+grant funds, and an allocation of General Fund dollars.
+The County Budget Office issues the operational and fiscal plan through the publication of the annual budget. The Budget Office analyzes financial trends, coordinates budget
+preparation, and receives and reviews all proposed departmental budgets and requests. This Office also provides budgetary guidance to County departments and ensures
+compliance with Oregon Budget Law.
+Financial Services provides county-wide accounting services, manages accounts payable and receivable, payroll, provides debt management, oversight of the County purchase
+card program, and maintenance of the County’s cash position. Financial Services also functions as the bank liaison and is heavily involved in the budgeting process as well as
+budget maintenance throughout the fiscal year.
+Human Resources oversees recruitment efforts and provides support to departments through the hiring process, is responsible for benefit administration, and functions as the
+custodian of all personnel records. Human Resources is relied upon immensely by departments and individual employees county-wide for assistance in handling all types of
+personnel matters such as leave administration, employee relations, and investigations to name a few. This department also oversees the County’s risk management program,
+bringing attention to safety issues, managing claims, promoting health and welfare, and providing workforce develop opportunities and awareness through trainings, departmental
+meetings, and newsletters.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Administrative Services
+373,387 227,175 225,681 110-1010010-30101  Beginning Fund Balance 103,534 103,534 103,534
+7,185 8,097 7,500 110-1010010-33429  Assessment & T
+axation Grant 5,500 5,500 5,500
+27,000 27,000 24,000 110-1010010-34149  YCOM Contract Services 24,000 24,000 24,000
+33 4,817 1,000 110-1010010-36212  Reimbursement 1,000 1,000 1,000
+2,868 2,428 1,500 110-1010010-36299  Miscellaneous - Other Revenue 1,000 1,000 1,000
+999,249 1,164,866 1,168,062 110-1010010-38010  Trans In For Admin Overhead 1,237,855 1,237,855 1,237,855
+19,000 19,000 28,500 110-1010010-38013  T
+rans In For Contract Service - - -
+- - _ - _ _ _
+- - - 110-1010010-38017  Trans In For PERS Accounting 18,000 18,000 18,000
+- - - 110-1010010-38026  Trans In For HHS Background Checks 10,500 10,500 10,500
+1,428,722 1,453,382 1,456,243 Total Revenue 1,401,389 1,401,389 1,401,389
+109,308 118,815 124,947 1.0000 110-1010010-401
+19  Financial Manager 1.0000 124,962 124,962 124,962
+- 36,545 40,348 0.5000 110-1010010-40125  Program Supervisor 0.5000 40,339 40,339 40,339
+92,287 - - - 110-1010010-40130  Senior Management Analyst - - - -
+63,250 70,299 105,195 1.5000 110-1010010-40132  Management Analyst 1.5000 114,487 114,487 114,487
+40,725 53,481 - - 110-1010010-40142  Executive Office Specialist - - - -
+52,200 58,743 62,474 0.5000 110-1010010-40143  Personnel Officer Risk Manager 0.5000 62,481 62,481 62,481
+117,287 143,843 151,948 2.0000 110-1010010-40148  Data Analyst 2.0000 155,109 155,109 155,109
+136,966 141,189 145,518 0.8000 110-1010010-40153  County Administrator 0.7000 135,982 135,982 135,982
+65,114 79,929 171,201 1.3000 110-1010010-40154  Deputy County Administrator 0.5000 70,187 70,187 70,187
+80,879 92,770 101,830 1.0000 110-1010010-40156  Assistant Financial Manager 1.0000 105,737 105,737 105,737
+29,809 32,725 - - 110-1010010-40202  Office Specialist 2 - - - -
+- - 47,204 1.0000 110-1010010-40203  Senior Office Specialist 1.0000 52,203 52,203 52,203
+1,058 - - - 110-1010010-40204  Accounting Clerk 2 - - - -
+49,904 60,268 62,175 1.0000 110-1010010-40214  Senior Accounting Clerk 1.0000 62,189 62,189 62,189
+115,914 120,959 129,821 2.0000 110-1010010-40215  Accounting T
+echnician 1 2.0000 131,664 131,664 131,664
+5,131 2,102 - - 110-1010010-40221  HR Assistant - - - -
+3,652 4,313 9,843 110-1010010-47500  Longevity Pay 9,837 9,837 9,837
+3,091 10,037 2,500 110-1010010-47750  Out Of Class Pay - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+7,231 - 2,500 110-1010010-47900  Other Earnings 2,500 2,500 2,500
+4,366 641 2,000 110-1010010-48100  Overtime 1,000 1,000 1,000
+- - - 110-1010010-48200  Extra Help 15,000 15,000 15,000
+4,626 5,941 6,247 110-1010010-48600  Incentive Pay - - -
+14,340 15,219 16,964 110-1010010-49001  Medicare Tax 15,543 15,543 15,543
+60,401 63,785 71,229 110-1010010-49100  Social Security 66,454 66,454 66,454
+211,308 237,101 309,825 110-1010010-49210  Retirement 284,271 284,271 284,271
+243,903 259,185 322,095 110-1010010-49310  Medical Insurance 376,258 376,258 376,258
+3,804 4,119 4,936 110-1010010-4931
+1  Paid Leave Oregon 4,247 4,247 4,247
+347 455 352 110-1010010-49312  Employee Assistance Program 374 374 374
+17,448 17,432 18,900 110-1010010-49315  VEBA 16,800 16,800 16,800
+14,517 13,963 17,953 110-1010010-49320  Dental Insurance Expense 17,176 17,176 17,176
+1,596 1,569 1,804 110-1010010-49325  V
+ision Insurance 1,533 1,533 1,533
+3,714 3,672 4,384 110-1010010-49331  Short T
+erm Disability 4,072 4,072 4,072
+314 310 554 110-1010010-49340  Life Insurance 337 337 337
+1,040 1,068 1,141 110-1010010-49400  Accident Insurance 1,071 1,071 1,071
+988 - - 110-1010010-49480  Time Loss Reserve - - -
+1,028 1,070 1,141 110-1010010-49500  Unemployment 1,054 1,054 1,054
+240 221 292 110-1010010-49600  W
+orkers Comp Assessment 292 292 292
+22,426 34,525 40,100 110-1010010-49900  FET/V
+acation/Sick 25,354 25,354 25,354
+1,580,209 1,686,295 1,977,421 12.6000 Total For Personnel 11.7000 1,898,513 1,898,513 1,898,513
+23,023 21,712 21,979 110-1010010-51001  Central Supplies 18,165 18,165 18,165
+- -20 1,000 110-1010010-51
+116  Printing - - -
+- 70 - 110-1010010-51
+199  Miscellaneous Supplies - - -
+5,533 2,065 1,000 110-1010010-51303  Publications & Dues 1,000 1,000 1,000
+57,693 13,371 16,500 110-1010010-51306  Softwar
+e 5,437 5,437 5,437
+799 1,138 1,000 110-1010010-54301  Small Equipment Pur
+chases - - -
+87,047 38,336 41,479 Total For Materials & Services 24,602 24,602 24,602
+2,911 7,440 1,500 110-1010010-61001  Pr
+ofessional Services 1,500 1,500 1,500
+1,005 1,163 1,278 110-1010010-61
+101  Audit 1,216 1,216 1,216
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+72,959 11,846 1,885 110-1010010-61
+102  Contract Services 1,500 1,500 1,500
+2,531 948 2,000 110-1010010-61201  Training And Development 2,000 2,000 2,000
+704 4,303 2,000 110-1010010-61202  Schools And Confer
+ences 2,000 2,000 2,000
+3,200 1,831 3,000 110-1010010-62001  T
+elephone 2,600 2,600 2,600
+- 16 150 110-1010010-62101  Postage 150 150 150
+2,552 3,568 3,500 110-1010010-63001  Travel Expense 3,500 3,500 3,500
+1,265 2,004 1,500 110-1010010-64001  Advertising 1,500 1,500 1,500
+100 - 200 110-1010010-68002  Equipment Repairs 1,500 1,500 1,500
+571 581 600 110-1010010-68008  Equipment Maintenance 600 600 600
+1,914 2,183 1,600 110-1010010-68301  Copy Machines/Maint 1,600 1,600 1,600
+862 17,154 16,000 110-1010010-68307  Software Lic and Maint Fees 20,000 20,000 20,000
+684 3,319 3,500 110-1010010-69101  Assoc Memberships 3,500 3,500 3,500
+- 355 - 110-1010010-69513  Permits/Licenses - - -
+- 27 - 110-1010010-69901  Other Expense - - -
+- - - 110-1010010-69918  Employee Recognition - - -
+91,258 56,736 38,713 Total For Contracted Services 43,166 43,166 43,166
+400 1,260 - 110-1010010-73010  Permits & Fees - - -
+400 1,260 - Total For Other Expenses - - -
+31,283 31,283 33,066 110-1010010-78001  T
+rans Out For Building Reserve 41,709 41,709 41,709
+8,048 6,516 8,11
+1 110-1010010-78004  T
+rans Out For Telecomm Equip 6,250 6,250 6,250
+- 387 200 110-1010010-78005  T
+rans Out For Motor Pool 200 200 200
+12,965 14,182 13,446 110-1010010-78006  T
+rans Out For Computer Replace 8,730 8,730 8,730
+23,530 22,262 - 110-1010010-78044  T
+rans Out For PEL Reserves - - -
+706 327 588 110-1010010-78054  T
+rans Out For Telecomm Calls - - -
+76,533 74,957 55,411 Total For T
+ransfer Outs Reciprocal 56,889 56,889 56,889
+1,734 - - 110-1010010-80080  Capital Department Equipment - - -
+1,734 - - Total For Capital - - -
+1,837,181 1,857,584 2,113,024 12.6000 Total Expenses Administrative Services 11.7000 2,023,170 2,023,170 2,023,170
+For Fis
+cal Year Ending June 30, 2027
+Non-Departmental-GF
+110-1010039 Non-Departmental-GF: The Non-Departmental Fund supports services and processes expenses that cannot be assigned to a specific department, has county-wide
+implications, or is considered a general service department expense.
+The Mailroom is a county-wide service and, therefore, is supported through the Non-Departmental Fund. A portion of revenue is generated through internal service charges to
+financially support this program. This is the only County staffed program operating out of the Non-Departmental Fund.
+One of the most notable functions of this Fund is the collection and dispersion of monies allocated for the Newberg/Dundee bypass. Cities and the Confederated Tribes of Grand
+Ronde submit funds to the County, which is then paid to a lobbyist working the Parkway Committee on the advancement of this regional project.
+This Fund is also utilized to support grants to several non-profit organizations as determined by the Budget Committee, as well as mental commitments, medical examiner services,
+association membership dues, and the General Fund departments’ share of insurance premiums. Revenue to this Fund is primarily provided by the General Fund.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Non-Departmental - GF
+12,516 39,008 101,481 110-1010039-30101  Beginning Fund Balance 731 731 731
+- 3,409 - 110-1010039-31
+103  Small Private Railcar Tax 3,500 3,500 3,500
+27,575 30,137 30,000 110-1010039-31
+106  Electric Coop Tax 31,000 31,000 31,000
+75,096 93,903 95,400 110-1010039-33001  Newberg Bypass 106,900 106,900 106,900
+- - - 110-1010039-36212  Reimbursement - - -
+17,310 20,538 15,475 110-1010039-36239  Inter-Departmental Postage 16,000 16,000 16,000
+- - - 110-1010039-36299  Miscellaneous - Other Revenue - - -
+4,959 8,369 11,775 110-1010039-38022  T
+rans In For Postage 9,925 9,925 9,925
+137,456 195,363 254,131 Total Revenue 168,056 168,056 168,056
+- - - - Total For Personnel - - - -
+40 136 500 110-1010039-51001  Central Supplies - - -
+40 136 500 Total For Materials & Services - - -
+75,121 93,903 95,400 110-1010039-61001  Pr
+ofessional Services 106,900 106,900 106,900
+- - _ Newberg Bypass Lobbyist Contract _ _ _
+600 751 826 110-1010039-61101  Audit 769 769 769
+3,125 4,044 15,200 110-1010039-61
+102  Contract Services - - -
+62,620 62,701 64,821 110-1010039-62101  Postage 26,851 32,851 32,851
+1,042 1,875 2,500 110-1010039-64001  Advertising 2,500 2,500 2,500
+1,853 314 1,800 110-1010039-67002  Heat/Lights/W
+ater 1,800 1,800 1,800
+40 18 22 110-1010039-67004  Pr
+operty Taxes 22 22 22
+49,130 52,884 51,497 110-1010039-69101  Assoc Memberships 50,518 50,518 50,518
+7,655 8,601 9,000 110-1010039-69501  Mental Commitments 9,000 9,000 9,000
+70,505 68,555 66,150 110-1010039-69516  Medical Examiner 74,400 74,400 74,400
+7 725 20,000 110-1010039-69599  Outside Legal Services 25,000 25,000 25,000
+142 11,647 10,000 110-1010039-69901  Other Expense - - -
+- - 500 110-1010039-69908  Bank Service Charge 500 500 500
+3,514 1,502 2,500 110-1010039-69918  Employee Recognition 5,500 5,500 5,500
+275,353 307,519 340,216 Total For Contracted Services 303,760 309,760 309,760
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+14,610 14,317 15,000 110-1010039-70004  Council of Governments 15,000 15,000 15,000
+6,000 6,000 6,000 110-1010039-70026  CASA 6,000 - -
+5,000 5,000 5,000 110-1010039-72013  W
+ater Master 5,000 5,000 5,000
+12,000 - - 110-1010039-72014  YC Mediators - - -
+37,610 25,317 26,000 Total For Other Expenses 26,000 20,000 20,000
+165,681 190,147 238,840 110-1010039-78002  T
+rans Out For Property Insur 261,640 261,640 261,640
+650,613 650,613 694,746 110-1010039-78027  Trans Out For Liability Insur 722,827 722,827 722,827
+816,294 840,760 933,586 Total For Transfer Outs Reciprocal 984,467 984,467 984,467
+2,000 2,000 2,000 110-1010039-78152  Trans Out - HHS - - -
+- - _ - _ _ _
+- - - 110-1010039-78154  Trans Out For Chemical Dependency 2,000 2,000 2,000
+2,000 2,000 2,000 Total For T
+ransfer Outs 2,000 2,000 2,000
+1,131,297 1,175,732 1,302,302 - Total Expenses Non-Departmental - GF - 1,316,227 1,316,227 1,316,227
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+911/Dispatch Services
+110-1010048 911/Dispatch Services: This fund pays the County's dues for Yamhill Communications (YCOM).  The County's share of agency dues is determined by YCOM's
+Board of Directors, as part of YCOM's annual budget process.  Discretionary revenues are the primary revenue source for this annual cost.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+911/Dispatch Services
+151,928 5,063 128 110-1010048-30101  Beginning Fund Balance 144 144 144
+151,928 5,063 128 Total Revenue 144 144 144
+- - - - Total For Personnel - - - -
+442 355 390 110-1010048-61101  Audit 409 409 409
+540,800 605,696 678,380 110-1010048-62002  Central Dispatch 678,377 678,377 786,193
+541,243 606,051 678,770 Total For Contracted Services 678,786 678,786 786,602
+541,243 606,051 678,770 - Total Expenses 911/Dispatch Services - 678,786 678,786 786,602
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Mediation Services
+110-1010059 Mediation Services: Mediation services for family law cases are paid for through this Fund. With the facilitation of a mediator, parents are guided through a
+mediation process to assist in developing a parenting plan for them and their children. Revenue for this Fund is generated from fines imposed by state courts and is disbursed to the
+County annually. Due to the state’s biennial budget process, the County receives half of the total allocation each year over the two-year period. Yamhill County Courts incur the
+expense and submit the invoice to central finance for processing. Once all funds are exhausted, the courts are then responsible for the cost of mediation.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Mediation Services
+110,050 147,236 120,569 110-1010059-30101  Beginning Fund Balance 140,465 140,465 140,465
+99,441 71,959 78,500 110-1010059-35008  Domestic Mediation 70,000 70,000 70,000
+209,491 219,195 199,069 Total Revenue 210,465 210,465 210,465
+- - - - Total For Personnel - - - -
+60,966 67,660 197,530 110-1010059-61001  Professional Services 208,824 208,824 208,824
+38 41 45 110-1010059-61
+101  Audit 50 50 50
+61,004 67,701 197,575 Total For Contracted Services 208,874 208,874 208,874
+1,251 1,121 1,494 110-1010059-78003  T
+rans Out For Admin Overhead 1,591 1,591 1,591
+1,251 1,121 1,494 Total For T
+ransfer Outs Reciprocal 1,591 1,591 1,591
+62,255 68,822 199,069 - Total Expenses Mediation Services - 210,465 210,465 210,465
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Transfers-GF
+110-1010090 Transfers-GF: This is comprised of all budgeted General Fund transfers, serving as the mechanism for distributing General Fund dollars to non-general fund
+departments. The non-general fund recipients include Health and Human Services, Facilities and Maintenance, Jail Capital, Jail Maintenance, County Capital Reserve Fund,
+Community Justice, and new for FY27, Dog Control.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Transfers - GF
+- - - - Total For Personnel - - - -
+2,205,141 1,649,191 1,658,667 110-1010090-78152  T
+rans Out - HHS 1,633,667 1,633,667 1,633,667
+959,563 1,098,333 1,990,343 110-1010090-78163  Trans Out - Capital Projects 1,890,343 1,890,343 1,890,343
+- - - 110-1010090-78164  Trans Out - Dog Control 125,000 125,000 125,000
+236,453 242,838 250,123 110-1010090-78168  Trans Out - Community Justice 245,123 245,123 245,123
+3,401,157 2,990,362 3,899,133 Total For T
+ransfer Outs 3,894,133 3,894,133 3,894,133
+3,401,157 2,990,362 3,899,133 - Total Expenses T
+ransfers - GF - 3,894,133 3,894,133 3,894,133
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+County Commissioners
+110-1015013 County Commissioners: This budget provides for the salaries and expenses of the three elected members of the Board of Commissioners. The Board of
+Commissioners is the administrative and legislative body of the County. Each Commissioner is elected to four-year terms. The Board of Commissioners is responsible for county-
+wide policy and works with the County Administrator to adopt the County's annual budget.  The Board also enacts ordinances, contracts, and legal agreements, as well as conducts
+public hearings and makes appointments to boards, committees, and commissions.  The Board of Commissioners' salaries are based on the recommendation of the Compensation
+Committee and approval of the Budget Committee. If approved, individual Commissioners may choose to accept any proposed increases.  Any new Commissioner will receive the
+salary that was approved.  This fund also includes a portion of the County Administrator's personnel expenses (shared with fund 110-1010010), an office manager, and two
+administrative support staff expenses.  Revenue resources come from general fund revenue and interdepartmental charges.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Commissioners
+205,770 154,230 150,429 110-1015013-30101  Beginning Fund Balance 106,430 106,430 106,430
+- 4,429 - 110-1015013-36212  Reimbursement - - -
+25 - - 110-1015013-36299  Miscellaneous - Other Revenue - - -
+166,875 236,379 219,006 110-1015013-38010  Trans In For Admin Overhead 235,404 235,404 235,404
+372,670 395,038 369,435 Total Revenue 341,834 341,834 341,834
+229,607 229,956 229,607 3.0000 110-1015013-40011  Elected County Commissioner 3.0000 229,607 229,607 229,607
+- 36,545 40,348 0.5000 110-1015013-40125  Program Supervisor 0.5000 40,339 40,339 40,339
+95,588 62,889 105,078 2.0000 110-1015013-40142  Executive Office Specialist 2.0000 112,941 112,941 112,941
+34,241 35,297 36,380 0.2000 110-1015013-40153  County Administrator 0.2000 38,852 38,852 38,852
+873 570 1,514 110-1015013-47500  Longevity Pay 1,576 1,576 1,576
+2,961 78 - 110-1015013-47750  Out Of Class Pay - - -
+1,498 - - 110-1015013-47900  Other Earnings - - -
+- - 22,962 110-1015013-48900  401B for Elected Officials 22,962 22,962 22,962
+5,276 5,317 6,320 110-1015013-49001  Medicar
+e Tax 6,502 6,502 6,502
+22,330 22,413 26,700 110-1015013-49100  Social Security 27,626 27,626 27,626
+52,550 51,056 47,603 110-1015013-49210  Retirement 50,875 50,875 50,875
+93,781 108,221 145,710 110-1015013-49310  Medical Insurance 182,907 182,907 182,907
+1,465 1,446 2,308 110-1015013-4931
+1  Paid Leave Oregon 1,782 1,782 1,782
+132 205 160 110-1015013-49312  Employee Assistance Pr
+ogram 182 182 182
+7,173 7,671 8,550 110-1015013-49315  VEBA 8,550 8,550 8,550
+6,432 7,057 8,122 110-1015013-49320  Dental Insurance Expense 8,368 8,368 8,368
+652 690 816 110-1015013-49325  V
+ision Insurance 780 780 780
+511 508 1,984 110-1015013-49331  Short T
+erm Disability 1,636 1,636 1,636
+119 129 251 110-1015013-49340  Life Insurance 165 165 165
+510 646 757 110-1015013-49400  Accident Insurance 827 827 827
+359 - - 110-1015013-49480  T
+ime Loss Reserve - - -
+137 140 411 110-1015013-49500  Unemployment 421 421 421
+36 35 131 110-1015013-49600  W
+orkers Comp Assessment 131 131 131
+2,242 5,009 4,500 110-1015013-49900  FET/V
+acation/Sick 4,822 4,822 4,822
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+558,476 575,879 690,212 5.7000 Total For Personnel 5.7000 741,851 741,851 741,851
+2,917 4,042 5,000 110-1015013-51001  Central Supplies 7,381 7,381 7,381
+210 69 500 110-1015013-51303  Publications & Dues 500 500 500
+9,506 7,786 5,000 110-1015013-51306  Software 9,000 9,000 9,000
+- - 5,000 110-1015013-54301  Small Equipment Pur
+chases 3,689 3,689 3,689
+12,633 11,897 15,500 Total For Materials & Services 20,570 20,570 20,570
+- - - 110-1015013-61001  Pr
+ofessional Services - - -
+353 388 427 110-1015013-61
+101  Audit 429 429 429
+1,091 14,098 - 110-1015013-61102  Contract Services 3,800 3,800 3,800
+40 1,815 500 110-1015013-61201  Training And Development 500 500 500
+2,872 2,419 3,200 110-1015013-62001  Telephone 3,200 3,200 3,200
+2,246 2,914 2,200 110-1015013-63001  T
+ravel Expense 2,200 2,200 2,200
+- - 1,200 110-1015013-64001  Advertising 1,200 1,200 1,200
+- - 250 110-1015013-68301  Copy Machines/Maint 250 250 250
+- - - 110-1015013-69101  Assoc Memberships 50 50 50
+- 8,010 - 110-1015013-69299  Miscellaneous Expenses - - -
+- 10,500 4,500 110-1015013-69900  Commissioners Discr
+etionary 4,500 4,500 4,500
+- 25 - 110-1015013-69918  Employee Recognition - - -
+6,601 40,168 12,277 Total For Contracted Services 16,129 16,129 16,129
+15,673 15,673 16,566 110-1015013-78001  T
+rans Out For Building Reserve 16,254 16,254 16,254
+4,236 2,980 3,635 110-1015013-78004  T
+rans Out For Telecomm Equip 3,477 3,477 3,477
+32 - - 110-1015013-78005  T
+rans Out For Motor Pool - - -
+3,417 2,409 3,639 110-1015013-78006  T
+rans Out For Computer Replace 4,032 4,032 4,032
+5,577 -1,596 - 110-1015013-78044  T
+rans Out For PEL Reserves - - -
+82 65 59 110-1015013-78054  T
+rans Out For Telecomm Calls - - -
+1,000 1,000 1,000 110-1015013-78084  T
+rans Out For Amb Scholarships 1,000 1,000 1,000
+30,017 20,532 24,899 Total For T
+ransfer Outs Reciprocal 24,763 24,763 24,763
+1,734 - - 110-1015013-80080  Capital Department Equipment - - -
+1,734 - - Total For Capital - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - 23,026 110-1015013-99001  Ending Fund Balance - - -
+- - 23,026 Total For Balances - - -
+609,462 648,476 765,914 5.7000 Total Expenses County Commissioners 5.7000 803,313 803,313 803,313
+For Fis
+cal Year Ending June 30, 2027
+Information Technology
+110-1025017 Information Technology: IT provides strategic planning, implementation, and support of computer infrastructure, software support services, and
+telecommunications to all departments inside the county.  Services include helpdesk/desktop support, maintaining and administering computer networks and related equipment,
+managing and administering internal servers, managing and administering email services, interfacing with third party applications, report writing, and providing database
+administration.  Funding comes from discretionary revenue, the assessment and taxation grant, user fees, interdepartmental service charges, and other dedicated revenue sources.
+In addition to regular day-to-day operations, described above, IT Division has continued to improve our security posture and implement projects that support our organizational
+goals and objectives.
+For the 2026-27 Budget Year, our priorities are the following:
+1) Continue to work with departments for software/hardware needs.
+2) Replace aged out hardware/software to ensure uptime and reliability for IT Services.
+3) Support training for internal staff to keep up with technology.
+4) Provide software/hardware solutions that enable us to be more agile to business needs.
+5) Continue to improve our security and infrastructure to provide stability and reliability.
+6) Cross training within the department.
+7) On-going documentation for IT systems and processes.
+8) Assist all departments moving to the new County building.
+9) Move server infrastructure from the Courthouse to the new building server room.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Information Technology
+879,816 561,833 610,365 110-1025017-30101  Beginning Fund Balance 164,081 164,081 164,081
+27,174 29,896 25,000 110-1025017-33429  Assessment & T
+axation Grant 25,000 25,000 25,000
+10,800 10,800 10,800 110-1025017-34155  Computer Access - - -
+- 4,370 - 110-1025017-36212  Reimbursement - - -
+64 73 - 110-1025017-36299  Miscellaneous - Other Revenue - - -
+472,125 692,836 797,809 110-1025017-38010  Trans In For Admin Overhead 896,370 896,370 896,370
+858,637 863,184 870,396 110-1025017-38024  T
+rans In For Computer Service 1,375,922 1,375,922 1,375,922
+2,248,615 2,162,993 2,314,370 Total Revenue 2,461,373 2,461,373 2,461,373
+- 79,503 93,661 0.7500 110-1025017-40324  Senior Network Administrator 0.7500 93,722 93,722 93,722
+81,743 84,860 112,453 0.9000 110-1025017-40350  Sr System Administrator 0.9500 118,714 118,714 118,714
+278,666 360,648 398,410 4.0000 110-1025017-40351  Senior Programmer Analyst 4.0000 401,681 401,681 401,681
+75,394 25,535 - - 110-1025017-40352  Pr
+ogrammer Analyst - - - -
+86,898 90,317 119,683 0.9000 110-1025017-40353  Information Systems Manager 0.9800 130,338 130,338 130,338
+60,681 64,151 141,682 1.5000 110-1025017-40363  Sr Desktop Support Specialist 1.5000 142,396 142,396 142,396
+119,997 124,162 145,174 1.8000 110-1025017-40364  Office Coordinator/Helpdesk 1.8000 145,182 145,182 145,182
+73,177 1,659 - - 110-1025017-40367  Network Administrator - - - -
+106,325 114,778 78,620 0.9000 110-1025017-40375  Desktop Support Specialist 0.9500 83,032 83,032 83,032
+13,683 - - - 110-1025017-40376  Sr Pr
+og. Analyst-Dba - - - -
+5,210 5,758 7,698 110-1025017-47500  Longevity Pay 11,077 11,077 11,077
+2,828 3,528 3,600 110-1025017-47750  Out Of Class Pay 3,800 3,800 3,800
+10,077 - 7,000 110-1025017-47900  Other Earnings - - -
+24 - - 110-1025017-48000  Extra Hours - - -
+2,603 2,432 4,000 110-1025017-48100  Overtime 2,000 2,000 2,000
+7,851 8,888 6,000 110-1025017-48400  Beeper Pay 10,000 10,000 10,000
+13,375 14,088 15,968 110-1025017-49001  Medicar
+e Tax 16,385 16,385 16,385
+57,192 60,240 68,279 110-1025017-49100  Social Security 70,063 70,063 70,063
+204,402 201,086 280,066 110-1025017-49210  Retir
+ement 287,266 287,266 287,266
+174,459 187,056 249,240 110-1025017-49310  Medical Insurance 319,873 319,873 319,873
+3,767 3,886 4,358 110-1025017-4931
+1  Paid Leave Oregon 4,521 4,521 4,521
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+249 351 328 110-1025017-49312  Employee Assistance Pr
+ogram 349 349 349
+12,109 11,923 14,625 110-1025017-49315  VEBA 13,770 13,770 13,770
+9,913 7,808 13,892 110-1025017-49320  Dental Insurance Expense 14,578 14,578 14,578
+1,091 1,069 1,395 110-1025017-49325  V
+ision Insurance 1,257 1,257 1,257
+3,514 3,314 3,740 110-1025017-49331  Short Term Disability 3,804 3,804 3,804
+247 241 475 110-1025017-49340  Life Insurance 313 313 313
+973 986 1,092 110-1025017-49400  Accident Insurance 1,130 1,130 1,130
+907 - - 110-1025017-49480  T
+ime Loss Reserve - - -
+938 986 1,092 110-1025017-49500  Unemployment 1,118 1,118 1,118
+188 174 - 110-1025017-49600  Workers Comp Assessment 251 251 251
+11,983 19,480 10,000 110-1025017-49900  FET/Vacation/Sick 12,500 12,500 12,500
+1,420,464 1,478,909 1,782,531 10.7500 Total For Personnel 10.9300 1,889,120 1,889,120 1,889,120
+2,179 2,338 2,238 110-1025017-51001  Central Supplies 1,800 1,800 1,800
+- - 100 110-1025017-51102  Cleaning Supplies - - -
+1,292 335 - 110-1025017-51
+199  Miscellaneous Supplies - - -
+200 400 300 110-1025017-51303  Publications & Dues 1,000 1,000 1,000
+1,289 - 5,000 110-1025017-51306  Software 3,000 3,000 3,000
+52,350 92,341 139,200 110-1025017-54301  Small Equipment Pur
+chases 130,900 130,900 130,900
+57,310 95,414 146,838 Total For Materials & Services 136,700 136,700 136,700
+36,841 26,256 20,000 110-1025017-61001  Pr
+ofessional Services 25,000 25,000 25,000
+1,170 1,807 1,987 110-1025017-61
+101  Audit 1,827 1,827 1,827
+1,896 10,138 17,000 110-1025017-61201  T
+raining And Development 17,000 17,000 17,000
+7,301 7,639 7,500 110-1025017-62001  T
+elephone 6,500 6,500 6,500
+21,957 21,493 38,037 110-1025017-62005  Data Cir
+cuit 50,841 50,841 50,841
+2,866 4,263 2,000 110-1025017-63001  T
+ravel Expense 2,000 2,000 2,000
+- 148 1,500 110-1025017-64001  Advertising 1,500 1,500 1,500
+59 77 100 110-1025017-68301  Copy Machines/Maint - - -
+493 - - 110-1025017-68302  Department Equipment Maint - - -
+1,155,795 1,060,038 1,146,471 110-1025017-68307  Softwar
+e Lic and Maint Fees 1,232,195 1,232,195 1,232,195
+651 768 - 110-1025017-69901  Other Expense 800 800 800
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,229,027 1,132,626 1,234,595 Total For Contracted Services 1,337,663 1,337,663 1,337,663
+14,256 14,256 15,068 110-1025017-78001  Trans Out For Building Reserve 31,604 31,604 31,604
+6,000 5,938 6,143 110-1025017-78004  T
+rans Out For Telecomm Equip 7,005 7,005 7,005
+7,897 10,370 6,065 110-1025017-78006  Trans Out For Computer Replace 6,936 6,936 6,936
+8,224 6,098 - 110-1025017-78044  T
+rans Out For PEL Reserves - - -
+270 198 191 110-1025017-78054  T
+rans Out For Telecomm Calls - - -
+36,647 36,861 27,467 Total For Transfer Outs Reciprocal 45,545 45,545 45,545
+38,810 - 281,745 110-1025017-80080  Capital Department Equipment 211,151 211,151 211,151
+38,810 - 281,745 Total For Capital 211,151 211,151 211,151
+2,782,258 2,743,810 3,473,176 10.7500 Total Expenses Information Technology 10.9300 3,620,179 3,620,179 3,620,179
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Transportation
+110-1045033 Transportation: Yamhill County Transit (YCT) is an ORS 451 county service district formed by the Board of Directors/Board of Commissioners in 2007. The
+transit district includes ten municipalities and the Grand Ronde Confederated Tribe, its purpose is to provide public transit services throughout Yamhill County. The services
+include local fixed routes in McMinnville with complimentary paratransit in Newberg and McMinnville and general public dial-a-ride throughout the County. Commuter service is
+offered from McMinnville to the Tigard Transit Center, Hillsboro MAX station, West Salem- Glen Creek Transit Center, Spirit Mountain Casino, and Grand Ronde. YCT
+contracts with TransDev to provide dispatch, operations, and maintenance. YCT owns a fleet of thirty vehicles leased to and insured by Transdev.
+Over the past year, YCT has completed several major capital and operational milestones. A new operations and maintenance facility was opened in December 2023, allowing co-
+location of County and contractor staff and improving efficiency. Tenant improvements at the Durham Lane facility are scheduled for completion by May 2026. The fleet has been
+strengthened with the addition of five new buses, and the long-planned countywide bus stop improvement project is now complete.
+YCT has also advanced its mobile technology program, transitioning system management in-house under a new Transit Technology Coordinator. Public outreach is underway for
+upcoming fare reinstatement and service adjustments, scheduled for implementation in July 2026. Leadership transition is also occurring, with a new Transit Manager to be in
+place by June 2026.
+YCT now operates a modern transit system with improved infrastructure, technology, and regional connectivity. However, the system faces a critical juncture. Rising costs,
+including labor, fuel, insurance, and contracted services—combined with limited funding require a renewed focus on long-term financial sustainability.
+Over the past decade, YCT has successfully moved from planning to implementation; modernizing its fleet, facilities, and technology. The next phase is sustaining these
+investments. Key priorities for FY 2026–27 include aligning service levels and costs, reinstating fares, implementing service adjustments, and initiating procurement for future
+service delivery contracts.
+Yamhill County Transit remains committed to providing safe, accessible, and reliable public transportation while ensuring the system’s long-term sustainability.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Transportation
+2,842,549 1,947,921 829,537 110-1045033-30101  Beginning Fund Balance - - -
+16,488 - - 110-1045033-30102  Fund Balance Reserved - - -
+354,675 272,943 1,204,037 110-1045033-33402  Department Of T
+ransportation 481,781 481,781 481,781
+2,694,421 2,428,001 3,597,404 110-1045033-33418  State Trans Improve Fund 2,112,855 2,112,855 2,112,855
+790,507 1,008,358 1,586,687 110-1045033-33476  Small City & Rural 875,687 875,687 875,687
+- - 1,413,923 110-1045033-33499  Other State Grants - - -
+101,186 208,285 160,000 110-1045033-34002  Charges For Services 200,000 200,000 200,000
+- - 195,000 110-1045033-34003  Far
+e Revenue 250,000 250,000 250,000
+48,944 14,805 39,148 110-1045033-36101  Pool Investment Earnings 40,000 40,000 40,000
+- - 25,000 110-1045033-36202  Rental/Sale Equip/Prop 25,000 25,000 25,000
+9,618 142,928 134,400 110-1045033-36204  Rent 175,000 175,000 175,000
+- 15,407 - 110-1045033-36212  Reimbursement - - -
+10,997 - 10,000 110-1045033-36299  Miscellaneous - Other Revenue 10,000 10,000 10,000
+- - - 110-1045033-38030  Trans In for Behavioral Health Deflection - - -
+6,869,384 6,038,648 9,195,136 Total Revenue 4,170,323 4,170,323 4,170,323
+9,648 52,832 115,507 2.0000 110-1045033-40124  Program Coordinator 1.0000 60,641 60,641 60,641
+70,498 78,052 84,431 1.0000 110-1045033-40132  Management Analyst 1.0000 83,967 83,967 83,967
+107,996 113,528 117,010 1.0000 110-1045033-40155  Pr
+ogram Manager 4 1.0000 117,029 117,029 117,029
+- - - - 110-1045033-40364  Office Coordinator/Helpdesk 1.0000 73,087 73,087 73,087
+- - - 110-1045033-47500  Longevity Pay 840 840 840
+1,606 - - 110-1045033-47900  Other Earnings - - -
+- - - 110-1045033-48100  Overtime 1,500 1,500 1,500
+2,716 3,499 4,596 110-1045033-49001  Medicar
+e Tax 4,866 4,866 4,866
+11,612 14,961 19,651 110-1045033-49100  Social Security 20,805 20,805 20,805
+37,741 48,254 67,548 110-1045033-49210  Retir
+ement 83,690 83,690 83,690
+43,777 64,825 102,252 110-1045033-49310  Medical Insurance 128,356 128,356 128,356
+759 965 1,268 110-1045033-4931
+1  Paid Leave Oregon 1,342 1,342 1,342
+102 144 112 110-1045033-49312  Employee Assistance Pr
+ogram 128 128 128
+3,250 4,500 6,000 110-1045033-49315  VEBA 6,000 6,000 6,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,567 2,759 5,700 110-1045033-49320  Dental Insurance Expense 5,872 5,872 5,872
+295 405 572 110-1045033-49325  Vision Insurance 548 548 548
+738 932 1,392 110-1045033-49331  Short T
+erm Disability 1,392 1,392 1,392
+57 76 176 110-1045033-49340  Life Insurance 116 116 116
+184 206 317 110-1045033-49400  Accident Insurance 336 336 336
+185 - - 110-1045033-49480  Time Loss Reserve - - -
+190 245 317 110-1045033-49500  Unemployment 335 335 335
+40 52 92 110-1045033-49600  W
+orkers Comp Assessment 92 92 92
+254 160 - 110-1045033-49900  FET/V
+acation/Sick 500 500 500
+293,215 386,394 526,941 4.0000 Total For Personnel 4.0000 591,442 591,442 591,442
+2,341 3,947 4,687 110-1045033-51001  Central Supplies 3,000 3,000 3,000
+- 185 200 110-1045033-51109  Maintenance Supplies 200 200 200
+4,388 737 7,500 110-1045033-51
+116  Printing 5,000 5,000 5,000
+731 688 750 110-1045033-51199  Miscellaneous Supplies 500 500 500
+11 121 100 110-1045033-51303  Publications & Dues 100 100 100
+350,992 303,926 375,000 110-1045033-52004  Fuel 305,000 305,000 305,000
+8,389 5,946 10,000 110-1045033-54301  Small Equipment Purchases 1,000 1,000 1,000
+366,851 315,550 398,237 Total For Materials & Services 314,800 314,800 314,800
+155,366 147,465 190,000 110-1045033-61001  Pr
+ofessional Services 45,000 45,000 45,000
+17,728 18,257 11,066 110-1045033-61
+101  Audit 9,800 9,800 9,800
+212,229 42,532 95,000 110-1045033-61
+102  Contract Services 45,000 45,000 45,000
+- 15,011 14,000 110-1045033-61
+103  Janitorial Contract 7,500 7,500 7,500
+6,000 - 50,000 110-1045033-61
+130  Grant Expenses 10,000 10,000 10,000
+6,150 - 3,500 110-1045033-61201  T
+raining And Development 4,000 4,000 4,000
+- 1,176 2,000 110-1045033-61202  Schools And Confer
+ences 2,000 2,000 2,000
+2,375 4,228 7,500 110-1045033-62001  T
+elephone 7,500 7,500 7,500
+- - - 110-1045033-62101  Postage 52 52 52
+2,439 2,228 3,500 110-1045033-63001  T
+ravel Expense 2,000 2,000 2,000
+14,198 12,945 20,000 110-1045033-64001  Advertising 15,000 15,000 15,000
+112,288 145,966 174,000 110-1045033-65201  Building Rent 179,220 179,220 179,220
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+5,594 6,319 9,500 110-1045033-67002  Heat/Lights/W
+ater 9,500 9,500 9,500
+12,068 11,697 4,500 110-1045033-68008  Equipment Maintenance 4,500 4,500 4,500
+77,363 74,001 90,000 110-1045033-68307  Softwar
+e Lic and Maint Fees 65,000 65,000 65,000
+2,850 2,850 3,000 110-1045033-69101  Assoc Memberships 3,000 3,000 3,000
+1,102 84 10,000 110-1045033-69901  Other Expense 5,000 5,000 5,000
+627,749 484,760 687,566 Total For Contracted Services 414,072 414,072 414,072
+39,120 140,200 52,160 110-1045033-72010  STIF Payments 52,160 52,160 52,160
+3,120,602 3,811,872 3,810,751 110-1045033-72017  Provider Payments 3,268,159 3,268,159 3,268,159
+102,016 47,970 50,000 110-1045033-74004  Bus Shelter 35,000 35,000 35,000
+3,261,738 4,000,042 3,912,911 Total For Other Expenses 3,355,319 3,355,319 3,355,319
+29,373 7,532 16,560 110-1045033-78001  Trans Out For Building Reserve 16,005 16,005 16,005
+1,174 1,188 1,259 110-1045033-78004  T
+rans Out For Telecomm Equip 1,377 1,377 1,377
+1,060 1,708 1,600 110-1045033-78005  T
+rans Out For Motor Pool 1,700 1,700 1,700
+4,825 2,016 2,409 110-1045033-78006  Trans Out For Computer Replace 3,639 3,639 3,639
+- - - 110-1045033-78017  T
+rans Out For Postage Charges - - -
+11,948 11,949 12,000 110-1045033-78018  Trans Out For Internal Expense - - -
+- - _ - _ _ _
+- - - 110-1045033-78025  T
+rans Out For Abacus Services 6,852 6,852 6,852
+36 18 20 110-1045033-78054  T
+rans Out For Telecomm Calls - - -
+48,417 24,411 33,848 Total For T
+ransfer Outs Reciprocal 29,573 29,573 29,573
+115,349 30,073 50,000 110-1045033-80033  T
+ransit Capital Expenditures - - -
+705,729 - 3,868,020 110-1045033-80203  Other V
+ehicles - - -
+22,364 86,169 195,000 110-1045033-82001  Miscellaneous Building Remodel 5,000 5,000 5,000
+2,250 127,162 75,000 110-1045033-82101  Capital Pr
+ofessional Services 7,504 7,504 7,504
+845,692 243,403 4,188,020 Total For Capital 12,504 12,504 12,504
+5,443,662 5,454,560 9,747,523 4.0000 Total Expenses T
+ransportation 4.0000 4,717,710 4,717,710 4,717,710
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Assessment and Taxation
+110-1510012 Assessment and Taxation: In Yamhill County, the Assessor is also designated as the Tax Collector and, as of 2025, oversees the county's Geographical Information
+Systems ("GIS"). The Assessor’s Office is comprised of four departments: Appraisal, Tax, Cartography, and GIS.  The Appraisal Department is responsible for the valuation of all
+properties in Yamhill County, including commercial, industrial, rural, and urban properties, manufactured structures, machinery and equipment, and business and personal
+property. This department maintains records on approximately 50,000 real and personal property accounts. We are responsible for managing special assessment programs such as
+farm and forestland, small tract forest, and open space. Additionally, we handle all property valuation appeals to the Property Value Appeals Board and the State of Oregon Tax
+Court.
+The Tax Department is responsible for the distribution of approximately 48,000 annual tax statements and the collection of levied taxes. Collecting taxes is the keystone of
+financial solvency for all taxing districts. In 2025, our office collected and processed 48,500 payments and will distribute approximately $192 million in property taxes. In addition
+to the County as a district, our office services 52 additional taxing districts, including schools, cities, fire departments, five urban renewal areas, and four non-ad valorem property
+assessment programs. All these agencies rely solely on the Assessor’s Office for property tax collection and distribution.
+Cadastral mapping is required by Oregon Revised Statutes and establishes the county’s permanent record of tax lot ownership. These maps are the basis for the Oregon Property
+Tax program. We also provide GIS information to a significant number of stakeholder agencies within the county and the state.
+The GIS coordinator and Yamhill County GIS platform were added in 2025. This GIS position manages and maintains the countywide GIS deployment. The current deployment is
+a modern version of ArcGIS Enterprise. The GIS department serves internal county departments, taxing districts, outside stakeholders, and the public with access to centralized
+source data for most county functions. The GIS coordinator also maintains public-facing websites for a variety of online maps and data.
+Our primary operating expense is personnel. Our office has 20 team members. Our office provides highly technical services to appraise real and personal property, levy taxes,
+collect taxes, and distribute taxes. The Oregon Department of Revenue staffing model suggests that our department is short by 4-6 employees. We are doing more with less than is
+suggested by the Department of Revenue. When contractual wage increases go into effect for our staff, we do not have a revenue source to offset these increases. Any increase in
+additional personnel expenses will have to come from the General Fund.
+Items in materials and services expenses are primarily software, licenses, subscriptions to vendor services, and aerial imagery. The largest of these expenses relates to software and
+licensing. These contracts include fixed expenses that will be ongoing unless we undertake another assessment and tax platform conversion. It should be noted that as part of the
+negotiations surrounding the software conversion in 2016, Yamhill County is paying a significantly reduced fixed amount annually. Software and licensing expenses include our
+core operating programs for appraisal and tax. These are Ascend for tax, and ProVal for appraisal. Although technically a variable expense, all the core functions of the office rely
+on software platforms. These include Data Cloud Solutions, ESRI, RMLS, Amazon Web Services, and EagleView. Together, these solutions account for over 50% of the total
+material and expenses category and should be considered an ongoing expense. training, schools, and conferences are necessary to ensure our staff members complete the
+Department of Revenue’s licensing requirements for continuing education. Continuing education is required for appraisal, management, and technical skills. Postage, Publications,
+and Advertising cover tax statements and other notices to the public or property owners that are required by statute. Notices are required for the tax levy, collection, foreclosure,
+and other processes.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Assessment and Taxation
+503,056 226,650 190,470 110-1510012-30101  Beginning Fund Balance 482,428 482,428 482,428
+- 87,772 75,125 110-1510012-30102  Fund Balance Reserved 75,125 75,125 75,125
+409,261 342,521 300,000 110-1510012-33429  Assessment & T
+axation Grant 300,000 300,000 300,000
+5,554 12,556 9,000 110-1510012-34102  Filing Fees 9,000 9,000 9,000
+29,875 24,736 20,000 110-1510012-34105  Transfer Fee 20,000 20,000 20,000
+2,175 1,770 1,500 110-1510012-34122  Handling Charges 1,500 1,500 1,500
+55,194 71,670 70,000 110-1510012-34199  Misc Rev - Service Charges 70,000 70,000 70,000
+- - _ Data sales & ORMAP Grant _ _ _
+2,921 2,846 2,000 110-1510012-34515  Assessor Surcharge 2,000 2,000 2,000
+17,372 20,052 21,000 110-1510012-35007  Tax Publications 20,000 20,000 20,000
+16,043 17,521 14,000 110-1510012-35013  Tax Warrants 16,000 16,000 16,000
+3,929 9,759 4,000 110-1510012-36212  Reimbursement 4,000 4,000 4,000
+- 21,218 - 110-1510012-3801
+1  Trans In For Vehicle Maint - - -
+1,045,380 839,071 707,095 Total Revenue 1,000,053 1,000,053 1,000,053
+108,243 114,851 122,475 1.0000 110-1510012-40012  Elected County Assessor 1.0000 146,000 130,436 130,436
+88,249 98,788 101,818 1.0000 110-1510012-40104  Assistant Assessor 1.0000 101,831 101,831 101,831
+- - 90,860 1.0000 110-1510012-40130  Senior Management Analyst 1.0000 83,988 83,988 83,988
+78,389 81,473 - - 110-1510012-40146  Senior Office Administrator - - - -
+95,049 98,788 101,818 1.0000 110-1510012-40147  Chief Deputy T
+ax Collector 1.0000 101,831 101,831 101,831
+88,185 91,654 94,464 1.0000 110-1510012-40149  Supervising Chief Appraiser 1.0000 94,481 94,481 94,481
+107,694 115,520 121,913 2.0000 110-1510012-40220  Office Specialist T
+echnician 2.0000 116,259 116,259 116,259
+53,407 77,417 129,571 2.0000 110-1510012-40301  Appraiser 1 2.0000 132,421 132,421 132,421
+269,070 261,074 232,170 3.0000 110-1510012-40302  Appraiser 2 3.0000 232,227 232,227 232,227
+78,381 117,718 182,059 2.4000 110-1510012-40303  Appraiser 3 2.0000 164,006 164,006 164,006
+84,812 88,149 90,852 1.0000 110-1510012-40308  Assessment Data Analyst 1.0000 90,858 90,858 90,858
+- - - - 110-1510012-40322  Cartographer - - - -
+- - - - 110-1510012-40355  GIS Coordinator 1.0000 91,772 91,772 91,772
+177,136 181,285 192,901 3.0000 110-1510012-40371  Senior Office Specialist T
+echnician 3.0000 193,479 193,479 193,479
+78,381 81,464 83,963 1.0000 110-1510012-40373  Cartographer/Analyst 1.0000 71,100 71,100 71,100
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+11,246 15,073 16,413 110-1510012-47500  Longevity Pay 17,896 17,896 17,896
+97 254 1,000 110-1510012-47750  Out Of Class Pay - - -
+10,875 -10 - 110-1510012-47900  Other Earnings - - -
+8,095 12,792 20,000 110-1510012-48100  Overtime 20,000 20,000 20,000
+- - _ OrMap and GIS Redeployment _ _ _
+- - - 110-1510012-48200  Extra Help 41,616 41,616 41,616
+- - - 110-1510012-48600  Incentive Pay - - -
+19,326 20,754 22,637 110-1510012-49001  Medicar
+e Tax 23,755 23,529 23,529
+82,635 88,742 96,797 110-1510012-49100  Social Security 101,565 100,600 100,600
+303,040 320,750 371,919 110-1510012-49210  Retirement 411,283 407,402 407,402
+353,910 377,169 485,697 110-1510012-49310  Medical Insurance 641,780 641,780 641,780
+5,441 5,725 6,179 110-1510012-49311  Paid Leave Oregon 6,552 6,490 6,490
+483 681 532 110-1510012-49312  Employee Assistance Pr
+ogram 640 640 640
+25,313 25,684 28,500 110-1510012-49315  VEBA 30,000 30,000 30,000
+24,033 24,487 27,075 110-1510012-49320  Dental Insurance Expense 29,360 29,360 29,360
+2,434 2,396 2,717 110-1510012-49325  V
+ision Insurance 2,740 2,740 2,740
+5,336 5,678 6,612 110-1510012-49331  Short Term Disability 6,960 6,960 6,960
+454 447 836 110-1510012-49340  Life Insurance 625 625 625
+11,714 15,474 20,837 110-1510012-49400  Accident Insurance 17,932 17,658 17,658
+1,327 - - 110-1510012-49480  T
+ime Loss Reserve - - -
+1,245 1,339 1,543 110-1510012-49500  Unemployment 1,618 1,602 1,602
+313 296 437 110-1510012-49600  W
+orkers Comp Assessment 500 500 500
+15,119 17,393 17,500 110-1510012-49900  FET/V
+acation/Sick 20,000 20,000 20,000
+2,189,429 2,343,306 2,672,095 19.4000 Total For Personnel 20.0000 2,995,933 2,974,945 2,974,945
+23,288 18,997 20,000 110-1510012-51001  Central Supplies 20,000 20,000 20,000
+75,122 15,122 75,122 110-1510012-51306  Softwar
+e 75,122 75,122 75,122
+- - _ Aerial Imagery Flight _ _ _
+98,410 34,118 95,122 Total For Materials & Services 95,122 95,122 95,122
+58,251 28,950 20,000 110-1510012-61001  Pr
+ofessional Services 15,000 15,000 15,000
+1,425 1,642 1,600 110-1510012-61
+101  Audit 1,757 1,757 1,757
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+4,065 2,447 8,000 110-1510012-61201  T
+raining And Development 8,000 8,000 8,000
+4,348 14,016 8,600 110-1510012-61202  Schools And Conferences 8,600 8,600 8,600
+21,204 26,283 28,000 110-1510012-62101  Postage 28,000 28,000 28,000
+4,544 9,887 11,500 110-1510012-63001  T
+ravel Expense 11,500 11,500 11,500
+1,218 2,339 3,000 110-1510012-64001  Advertising 3,000 3,000 3,000
+1,250 1,277 1,000 110-1510012-68002  Equipment Repairs 1,000 1,000 1,000
+2,413 3,352 3,400 110-1510012-68301  Copy Machines/Maint 3,400 3,400 3,400
+84,563 87,764 159,113 110-1510012-68307  Softwar
+e Lic and Maint Fees 100,000 120,988 120,988
+- - _ A&T Software, CAMA Cloud, DocuWare, ARC ESRI, Costar
+, Adobe _ _ _
+4,781 4,471 5,250 110-1510012-69101  Assoc Memberships 5,250 5,250 5,250
+11,769 9,971 8,000 110-1510012-69510  Recording Fees 8,000 8,000 8,000
+199,830 192,398 257,463 Total For Contracted Services 193,507 214,495 214,495
+13,900 11,095 12,000 110-1510012-70001  State Of Or
+egon 12,000 12,000 12,000
+13,900 11,095 12,000 Total For Other Expenses 12,000 12,000 12,000
+26,507 26,507 28,018 110-1510012-78001  T
+rans Out For Building Reserve 43,058 43,058 43,058
+8,423 8,206 8,411 110-1510012-78004  Trans Out For Telecomm Equip 10,324 10,324 10,324
+13,376 11,357 11,000 110-1510012-78005  T
+rans Out For Motor Pool 13,536 13,536 13,536
+9,796 10,496 9,090 110-1510012-78006  T
+rans Out For Computer Replace 9,312 9,312 9,312
+679 973 1,200 110-1510012-78017  T
+rans Out For Postage Charges 1,200 1,200 1,200
+2,650 -1,431 5,000 110-1510012-78044  T
+rans Out For PEL Reserves - - -
+1,146 837 777 110-1510012-78054  T
+rans Out For Telecomm Calls - - -
+62,577 56,946 63,496 Total For T
+ransfer Outs Reciprocal 77,430 77,430 77,430
+- 21,533 - 110-1510012-80202  V
+ehicle & Equipment Replace - - -
+- 21,533 - Total For Capital - - -
+- - 75,125 110-1510012-99026  Reserve Aerial Photo Pr
+oj 75,125 75,125 75,125
+- - _ Billing for Pictometry Flight _ _ _
+- - 75,125 Total For Balances 75,125 75,125 75,125
+2,564,146 2,659,397 3,175,301 19.4000 Total Expenses Assessment and T
+axation 20.0000 3,449,117 3,449,117 3,449,117
+For Fis
+cal Year Ending June 30, 2027
+County Clerk
+110-2010015 County Clerk: There are four direct service programs and an administration component in the Yamhill County Clerk’s budget. The four primary areas include:
+Elections (Elections & Voter Registration), Recording (Public Records and Recording), Licenses and Passports, and Property Values Appeal Board (PVAB). Two programs
+Recording and Licenses & Passports are fee-driven programs primarily set by statute which historically have kept this office self-sustaining. Due to the decline in real estate
+transactions and interest rates rising there has been a significant decrease in recording revenues since 2021.  Recording revenue has stabilized with no substantial growth expected.
+We do not anticipate revenue returning to the self-sustaining levels experienced historically.
+Fund 10 includes all primary functions. Items that will have impacts on this fund in the next fiscal year include:
+• Continued low recording activity but increased marriage licenses and civil ceremonies.
+• Two elections scheduled in the next fiscal year – November 3, 2026 General Election and May 18, 2027 Special District Election.
+• Personnel costs have increased significantly due to current workforce trends.
+• Central Supplies and Software Licensing and Maintenance Fees have increased 6-8% each year since 2020.
+Personnel: Personnel costs have increased steadily over the last 8 years with continued increases expected.  We do not anticipate any personnel changes in this fiscal year but there
+has been an increase in day-to-day workloads with additional demands due to legislative and program changes.  Increased election and recording duties, as well as duties not
+currently covered due to low staffing levels continue to remain a challenge.
+Elections: Lack of federal and state funding for election systems and administration, increased cyber and physical security risks, and broader threats continue to highlight the
+challenges being experienced.  Funding and sustained investment in election infrastructure, along with vigilance to ensure the integrity, resiliency, and long-term sustainability of
+election administration is imperative.  Increased oversight and monitoring of election processes with additional security measures being implemented in election offices is vitally
+important to maintain consistency while continuing to build trust and voter confidence.  Election workers and staff continue to face heightened physical and cybersecurity threats,
+with the election climate across the nation significantly impacting local election offices directly.  Fiscal impacts of anticipated legislation are still unknown but will continue to
+affect this budget in the future.
+Expenses: Expenses include increased personnel costs, standard healthcare and benefit increases, increased costs from vendors, equipment contracts, software licensing, postage
+and additional expenses resulting from the county’s move to a new campus.
+Capital: No capital improvement requests have been submitted.
+Summary: In recent years declining revenue levels have been impacted by high interest rates and a decrease in real estate transactions. The cost of doing business has been
+significantly impacted since 2020 due to the increased cost of goods and services overall.  Historically, this office had experienced self-sustaining revenue levels which were also
+able to offset election expenses that were not reimbursable.  Efficiencies and continued improvements to core services will remain a priority as we continue to better serve the
+public.  Careful and diligent oversight of the budget along with fiscally responsible spending will allow us to maintain the same quality of customer service and core public
+services.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Clerk
+574,669 418,797 147,075 110-2010015-30101  Beginning Fund Balance 285,263 285,263 285,263
+1,840 2,360 2,000 110-2010015-32220  Marriage Lic 3 Day W
+aiver 2,500 2,500 2,500
+15,175 16,550 12,000 110-2010015-32221  Marriage License 15,000 15,000 15,000
+15,350 17,050 12,350 110-2010015-32222  Family Violence Fee 15,250 15,250 15,250
+175 500 350 110-2010015-32223  Domestic Partnership Contracts 250 250 250
+125 400 200 110-2010015-32224  Marriage Lic Amendment 350 350 350
+9,477 13,104 10,000 110-2010015-32227  Marriage Cer
+emony 13,000 13,000 13,000
+3,878 4,856 5,000 110-2010015-32228  Marriage Lic Certified Copies 6,000 6,000 6,000
+3,262 4,477 1,500 110-2010015-33429  Assessment & Taxation Grant 4,000 4,000 4,000
+12,575 15,625 10,000 110-2010015-34099  Online Records Access 12,000 12,000 12,000
+300 620 300 110-2010015-34102  Filing Fees 700 700 700
+352,603 470,200 450,000 110-2010015-34104  Recording 480,000 480,000 480,000
+9,505 9,015 7,000 110-2010015-34107  Co Liens 9,000 9,000 9,000
+68,285 80,430 60,000 110-2010015-34108  Passports 75,000 75,000 75,000
+22,440 32,025 25,000 110-2010015-341
+17  Passport Photos 30,000 30,000 30,000
+154,735 9,078 155,000 110-2010015-34120  Election Reimbursement 10,344 10,344 10,344
+691 936 550 110-2010015-34123  Election Data 1,000 1,000 1,000
+- 15 30 110-2010015-34124  V
+oter's Pamphlet Photo 30 30 30
+400 360 360 110-2010015-34126  BOPT
+A Fee 400 400 400
+7,250 8,800 1,500 110-2010015-34142  V
+oter's Pamphlet 8,800 8,800 8,800
+5,778 6,136 6,000 110-2010015-34143  A&T Fee 8,000 8,000 8,000
+18,675 16,229 14,000 110-2010015-34199  Misc Rev - Service Charges 28,000 28,000 28,000
+80 134 50 110-2010015-34298  Over/Short 50 50 50
+95 1,694 - 110-2010015-36212  Reimbursement - - -
+25 - - 110-2010015-36299  Miscellaneous - Other Revenue 300 300 300
+- - 50,000 110-2010015-38093  T
+rans In From ARPA Fund - - -
+1,277,387 1,129,391 970,265 Total Revenue 1,005,237 1,005,237 1,005,237
+91,786 92,000 95,680 1.0000 110-2010015-40013  Elected County Clerk 1.0000 95,680 99,507 99,507
+59,950 1,364 - - 110-2010015-40125  Pr
+ogram Supervisor - - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- 11
+1,803 144,525 2.0000 110-2010015-40146  Senior Office Administrator 2.0000 146,766 146,766 146,766
+153,770 150,822 163,116 3.0000 110-2010015-40220  Office Specialist Technician 3.0000 163,710 163,710 163,710
+42,766 - - - 110-2010015-40371  Senior Office Specialist T
+echnician - - - -
+2,247 502 1,978 110-2010015-47500  Longevity Pay 2,831 2,831 2,831
+- - - 110-2010015-47750  Out Of Class Pay - - -
+4,863 - - 110-2010015-47900  Other Earnings - - -
+891 1,750 2,000 110-2010015-48100  Overtime 1,500 1,500 1,500
+504 - 25,098 110-2010015-48200  Extra Help 30,500 30,500 30,500
+13,178 35,659 - 110-2010015-48700  Election Personnel - - -
+5,253 5,263 5,876 110-2010015-49001  Medicare Tax 5,930 5,986 5,986
+22,470 22,506 25,128 110-2010015-49100  Social Security 25,357 25,594 25,594
+79,162 82,054 101,083 110-2010015-49210  Retirement 102,002 102,956 102,956
+113,670 120,240 153,378 110-2010015-49310  Medical Insurance 192,534 192,534 192,534
+1,480 1,555 1,614 110-2010015-4931
+1  Paid Leave Oregon 1,636 1,651 1,651
+178 215 168 110-2010015-49312  Employee Assistance Program 192 192 192
+8,698 8,523 9,000 110-2010015-49315  VEBA 9,000 9,000 9,000
+7,686 7,840 8,550 110-2010015-49320  Dental Insurance Expense 8,808 8,808 8,808
+791 767 858 110-2010015-49325  V
+ision Insurance 822 822 822
+1,541 1,521 2,088 110-2010015-49331  Short T
+erm Disability 2,088 2,088 2,088
+145 143 264 110-2010015-49340  Life Insurance 174 174 174
+381 387 404 110-2010015-49400  Accident Insurance 410 414 414
+364 - - 110-2010015-49480  T
+ime Loss Reserve - - -
+276 304 404 110-2010015-49500  Unemployment 407 411 411
+99 108 100 110-2010015-49600  W
+orkers Comp Assessment 115 115 115
+- 2,337 2,500 110-2010015-49900  FET/V
+acation/Sick 2,500 2,500 2,500
+612,148 647,664 743,812 6.0000 Total For Personnel 6.0000 792,962 798,059 798,059
+70,790 91,821 60,340 110-2010015-51001  Central Supplies 60,000 60,003 60,003
+2,979 2,564 5,000 110-2010015-51303  Publications & Dues 5,000 5,000 5,000
+6,339 21,743 15,000 110-2010015-51305  V
+oter Pamphlet 22,000 22,000 22,000
+160 1,305 3,000 110-2010015-54301  Small Equipment Pur
+chases 2,000 2,000 2,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+80,268 117,433 83,340 Total For Materials & Services 89,000 89,003 89,003
+2,462 3,185 3,000 110-2010015-60103  Contractor Services - - -
+264 3,452 - 110-2010015-61001  Pr
+ofessional Services - - -
+660 611 672 110-2010015-61101  Audit 699 699 699
+81 9,332 6,000 110-2010015-61
+102  Contract Services 6,000 6,000 6,000
+550 - 1,800 110-2010015-61201  T
+raining And Development 2,000 2,000 2,000
+- - - 110-2010015-61202  Schools And Conferences - - -
+163 - 500 110-2010015-61502  BOPTA 500 500 500
+1,201 824 1,200 110-2010015-62001  Telephone 600 600 600
+11,147 42,518 30,000 110-2010015-62101  Postage 45,000 45,000 45,000
+2,276 3,997 5,000 110-2010015-63001  T
+ravel Expense 5,000 5,000 5,000
+- 204 - 110-2010015-64001  Advertising - - -
+1,299 - - 110-2010015-65201  Building Rent - - -
+5,708 5,678 5,000 110-2010015-65202  Equipment Rent 5,000 5,000 5,000
+840 119 800 110-2010015-67002  Heat/Lights/W
+ater - - -
+15,882 16,033 15,000 110-2010015-68008  Equipment Maintenance 16,000 16,000 16,000
+66,333 53,417 70,000 110-2010015-68307  Software Lic and Maint Fees 60,000 60,000 60,000
+970 345 1,000 110-2010015-69101  Assoc Memberships 1,000 1,000 1,000
+1,293 2,766 1,500 110-2010015-69204  Security & Safety 1,500 1,500 1,500
+- - - 110-2010015-69918  Employee Recognition - - -
+11
+1,129 142,481 141,472 Total For Contracted Services 143,299 143,299 143,299
+15,350 17,825 12,350 110-2010015-70001  State Of Or
+egon 15,250 15,250 15,250
+15,350 17,825 12,350 Total For Other Expenses 15,250 15,250 15,250
+62,808 62,808 66,387 110-2010015-78001  T
+rans Out For Building Reserve 87,632 87,632 87,632
+25,212 28,471 27,550 110-2010015-78003  T
+rans Out For Admin Overhead 31,217 31,217 31,217
+4,180 4,364 4,631 110-2010015-78004  T
+rans Out For Telecomm Equip 5,599 5,599 5,599
+- - 150 110-2010015-78005  T
+rans Out For Motor Pool 150 150 150
+5,724 5,356 4,374 110-2010015-78006  T
+rans Out For Computer Replace 4,374 4,374 4,374
+414 1,796 1,800 110-2010015-78017  T
+rans Out For Postage Charges - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,608 3,617 - 110-2010015-78044  T
+rans Out For PEL Reserves - - -
+23,150 15,552 13,273 110-2010015-78046  Trans Out For Network Charges 15,288 15,288 15,288
+386 541 660 110-2010015-78054  T
+rans Out For Telecomm Calls - - -
+123,482 122,505 118,825 Total For T
+ransfer Outs Reciprocal 144,260 144,260 144,260
+- - 50,000 110-2010015-80080  Capital Department Equipment - - -
+- - 50,000 Total For Capital - - -
+942,376 1,047,908 1,149,799 6.0000 Total Expenses County Clerk 6.0000 1,184,771 1,189,871 1,189,871
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+District Attorney
+110-2510018 District Attorney: The District Attorney's Office is most often identified with its primary function of prosecuting individuals charged with crimes.� A significant
+function of the District Attorney’s office is the Crime Victim/Witness Services program, which is responsible for: 1) assisting victims through the criminal justice system, 2) victim
+notification, 3) ensuring that accurate restitution information is available for the court, and 4) assisting witnesses with court proceedings.� Another noteworthy responsibility of
+the District Attorney’s Office is the Family Support Division, addressed separately as it has an independent budget, which establishes and enforces child support orders to
+ultimately promote the stability and self-sufficiency of families.�
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+District Attorney
+940,133 798,418 643,556 110-2510018-30101  Beginning Fund Balance 831,832 831,832 831,832
+19,260 17,959 18,000 110-2510018-301
+15  Fund Bal Reserve - Donations 17,688 17,688 17,688
+134,597 165,287 150,000 110-2510018-33105  V
+OCA Grant (Victim Witness) 154,000 154,000 154,000
+- 41,708 - 110-2510018-33199  Miscellaneous - Grants - - -
+- 180,637 187,000 110-2510018-33413  State Enhancement 138,500 138,500 138,500
+164,859 123,644 140,000 110-2510018-33444  CAMI 197,465 197,465 197,465
+- - 175,000 110-2510018-33499  Other State Grants - - -
+- - _ HB 4002 Grant _ _ _
+1,126 286 300 110-2510018-33505  Crime Prosecution - - -
+106,959 98,610 85,000 110-2510018-34115  Discovery Fees 75,000 75,000 75,000
+-3 15 20 110-2510018-34298  Over/Short - - -
+31,833 63,666 90,000 110-2510018-35003  CIC Penalty Assess 50,000 50,000 50,000
+1,083 52 - 110-2510018-36203  Donations - - -
+197 8,390 - 110-2510018-36212  Reimbursement - - -
+80 184 - 110-2510018-36299  Miscellaneous - Other Revenue - - -
+- 115,593 - 110-2510018-38030  Trans In for Behavioral Health Deflection 304,522 304,522 304,522
+1,300 5,000 5,000 110-2510018-38069  T
+rans Out For Narcotics Investigations 5,000 5,000 5,000
+1,401,422 1,619,448 1,493,876 Total Revenue 1,774,007 1,774,007 1,774,007
+30,000 30,692 30,000 1.0000 110-2510018-40017  Elected District Attorney 1.0000 30,000 30,000 30,000
+- 6,205 67,534 1.0000 110-2510018-40125  Pr
+ogram Supervisor 1.0000 67,735 67,735 67,735
+91,414 98,406 106,364 1.0000 110-2510018-40128  Pr
+ogram Manager 2 1.0000 106,379 106,379 106,379
+11
+1,894 89,880 169,184 3.0000 110-2510018-40139  Legal Assistant 3.0000 159,949 159,949 159,949
+72,276 25,534 - - 110-2510018-40160  Crime V
+ictims Supervisor - - - -
+139,510 135,209 133,968 1.0000 110-2510018-40161  Chief Deputy District Attorney 1.0000 146,153 146,153 146,153
+25,454 4,059 - - 110-2510018-40202  Office Specialist 2 - - - -
+236,084 263,087 392,151 8.0000 110-2510018-40203  Senior Office Specialist 8.0000 368,082 368,082 368,082
+142,178 188,603 181,417 3.0000 110-2510018-40223  Crime V
+ictims Specialist 3.0000 160,043 160,043 160,043
+148,033 30,701 202,596 2.0000 110-2510018-40340  Deputy District Attorney 1 2.0000 166,445 166,445 166,445
+72,866 68,009 73,217 1.0000 110-2510018-40341  Paralegal 1.0000 74,244 74,244 74,244
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+686,377 761,301 929,720 8.0000 110-2510018-40349  Deputy District Attorney 2 8.0000 920,949 920,949 920,949
+- 90,425 118,865 1.0000 110-2510018-40354  Deputy District Attorney 3 1.0000 118,880 118,880 118,880
+8,394 6,556 12,319 110-2510018-47500  Longevity Pay 12,843 12,843 12,843
+2,498 1,996 5,000 110-2510018-47750  Out Of Class Pay 5,000 5,000 5,000
+10,141 - 5,000 110-2510018-47900  Other Earnings 5,000 5,000 5,000
+- - 10,000 110-2510018-48000  Extra Hours 5,000 5,000 5,000
+1,920 1,439 5,000 110-2510018-48100  Overtime 5,000 5,000 5,000
+- - 5,000 110-2510018-48200  Extra Help 5,000 5,000 5,000
+11,705 12,887 12,000 110-2510018-48400  Beeper Pay 14,000 14,000 14,000
+8,900 9,434 12,000 110-2510018-48450  On Call Pay 12,000 12,000 12,000
+1,056 - 3,534 110-2510018-48500  Certification/Education - - -
+11,014 12,473 13,319 110-2510018-48600  Incentive Pay 20,995 20,995 20,995
+26,068 27,286 35,337 110-2510018-49001  Medicar
+e Tax 34,155 34,155 34,155
+11
+1,464 116,671 151,099 110-2510018-49100  Social Security 146,056 146,056 146,056
+398,870 423,548 664,877 110-2510018-49210  Retirement 665,480 665,480 665,480
+419,470 454,268 743,541 110-2510018-49310  Medical Insurance 966,381 966,381 966,381
+7,347 7,527 9,619 110-2510018-49311  Paid Leave Oregon 9,423 9,423 9,423
+664 1,074 896 110-2510018-49312  Employee Assistance Pr
+ogram 960 960 960
+31,739 30,904 43,500 110-2510018-49315  VEBA 45,000 45,000 45,000
+27,004 28,213 41,325 110-2510018-49320  Dental Insurance Expense 44,040 44,040 44,040
+2,873 2,757 4,303 110-2510018-49325  V
+ision Insurance 4,110 4,110 4,110
+6,808 6,343 9,788 110-2510018-49331  Short T
+erm Disability 10,440 10,440 10,440
+- - 324 110-2510018-49332  Long T
+erm Disability - - -
+595 580 1,232 110-2510018-49340  Life Insurance 870 870 870
+1,870 1,884 2,293 110-2510018-49400  Accident Insurance 2,118 2,118 2,118
+1,782 - - 110-2510018-49480  T
+ime Loss Reserve - - -
+1,788 1,875 2,405 110-2510018-49500  Unemployment 2,317 2,317 2,317
+438 413 900 110-2510018-49600  W
+orkers Comp Assessment 900 900 900
+38,908 66,338 50,000 110-2510018-49900  FET/V
+acation/Sick 30,000 30,000 30,000
+2,889,406 3,006,576 4,249,627 30.0000 Total For Personnel 30.0000 4,365,947 4,365,947 4,365,947
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+15,598 11,836 18,050 110-2510018-51001  Central Supplies 13,915 13,915 13,915
+- - - 110-2510018-51108  Shop Supplies - - -
+59 180 - 110-2510018-51
+199  Miscellaneous Supplies 2,500 2,500 2,500
+33,052 16,893 30,000 110-2510018-51303  Publications & Dues 40,000 40,000 40,000
+26,848 18,113 40,000 110-2510018-51306  Software 50,000 50,000 50,000
+322 1,038 - 110-2510018-54301  Small Equipment Purchases 2,000 2,000 2,000
+2,810 - - 110-2510018-54303  Computer Replacement - - -
+45 2,311 3,000 110-2510018-58302  Data Pr
+ocessing Supplies 3,000 3,000 3,000
+78,734 50,371 91,050 Total For Materials & Services 11
+1,415 11
+1,415 11
+1,415
+21,519 22,814 10,000 110-2510018-61001  Pr
+ofessional Services 10,000 10,000 10,000
+1,792 2,120 2,184 110-2510018-61
+101  Audit 2,246 2,246 2,246
+- - 10,000 110-2510018-61102  Contract Services 40,000 40,000 40,000
+164 4,875 - 110-2510018-61201  T
+raining And Development 10,000 10,000 10,000
+13,851 8,590 15,358 110-2510018-61202  Schools And Conferences 17,356 17,356 17,356
+550 1,454 2,000 110-2510018-62001  T
+elephone 2,500 2,500 2,500
+16 198 150 110-2510018-62101  Postage 150 150 150
+15,813 17,931 20,000 110-2510018-63001  Travel Expense 20,000 20,000 20,000
+542 - 1,500 110-2510018-64001  Advertising 1,500 1,500 1,500
+147 - 2,000 110-2510018-68002  Equipment Repairs 2,500 2,500 2,500
+945 2,077 5,000 110-2510018-68301  Copy Machines/Maint 3,000 3,000 3,000
+6,935 19,608 22,737 110-2510018-68307  Softwar
+e Lic and Maint Fees 25,000 25,000 25,000
+340 25 8,000 110-2510018-69101  Assoc Memberships 5,000 5,000 5,000
+3,809 3,965 10,000 110-2510018-69502  W
+itness Fees 14,000 14,000 14,000
+2,275 2,275 15,000 110-2510018-69503  T
+rials And Appeals 15,000 15,000 15,000
+143 - - 110-2510018-69504  Special Enfor
+cement - - -
+766 139 3,000 110-2510018-69509  Miscellaneous Legal Fees 15,000 15,000 15,000
+- - 20,000 110-2510018-69515  Emergency Expense 10,000 10,000 10,000
+2,598 6,130 10,000 110-2510018-69517  CAMI W
+itness 14,148 14,148 14,148
+15,495 - 15,000 110-2510018-69518  T
+raining And Development Cami 17,000 17,000 17,000
+162,584 101,980 112,000 110-2510018-69522  Child Abuse Pr
+ogram 160,000 160,000 160,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+5,321 10,886 5,000 110-2510018-69901  Other Expense - - -
+1,301 270 - 110-2510018-69928  Courthouse Dog Expenses - - -
+256,907 205,338 288,929 Total For Contracted Services 384,400 384,400 384,400
+3,811 2,731 3,000 110-2510018-71001  Records Management System 4,000 4,000 4,000
+25,740 13,685 - 110-2510018-72099  Misc. Grants - - -
+29,552 16,416 3,000 Total For Other Expenses 4,000 4,000 4,000
+71,975 71,975 76,078 110-2510018-78001  T
+rans Out For Building Reserve 73,025 73,025 73,025
+11,810 12,639 12,807 110-2510018-78004  T
+rans Out For Telecomm Equip 20,349 20,349 20,349
+- - 150 110-2510018-78005  Trans Out For Motor Pool 150 150 150
+16,503 21,313 18,315 110-2510018-78006  Trans Out For Computer Replace 18,366 18,366 18,366
+1,525 - 2,000 110-2510018-78043  Trans Out To/For Dog Control - - -
+- - _ - _ _ _
+-3,620 -352 - 110-2510018-78044  T
+rans Out For PEL Reserves 10,000 10,000 10,000
+3,977 5,187 5,565 110-2510018-78054  Trans Out For Telecomm Calls - - -
+102,170 110,762 114,915 Total For T
+ransfer Outs Reciprocal 121,890 121,890 121,890
+790 4,884 5,000 110-2510018-80001  Capital Office Furniture 15,000 15,000 15,000
+6,843 600 5,000 110-2510018-80002  Capital Office Equipment 15,000 15,000 15,000
+- - 15,000 110-2510018-80080  Capital Department Equipment - - -
+7,633 5,484 25,000 Total For Capital 30,000 30,000 30,000
+3,364,402 3,394,946 4,772,521 30.0000 Total Expenses District Attorney 30.0000 5,017,652 5,017,652 5,017,652
+For Fis
+cal Year Ending June 30, 2027
+Support Enforcement
+110-2515022 Support Enforcement: Another noteworthy responsibility of the District Attorney’s Office is the Family Support Division, which establishes and enforces child
+support orders to ultimately promote the stability and self-sufficiency of families.  This small division of the Office of the District Attorney is responsible for monitoring
+approximately 1,500 families a year.   Duties include the establishment of paternity and initial child support, as well as periodic modifications to support amounts and the
+enforcement of those amounts.  The District Attorney's Office Family Support Division collects over $5 million annually for Yamhill County children and families.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Support Enforcement
+284,514 294,070 140,213 110-2515022-30101  Beginning Fund Balance 271,856 271,856 271,856
+383,399 365,759 459,665 110-2515022-33104  Child Support Enfor
+ce - Match 475,000 475,000 475,000
+93,847 113,216 35,000 110-2515022-33204  Federal Incentive Funds 35,000 35,000 35,000
+- 1,772 - 110-2515022-36212  Reimbursement - - -
+761,760 774,817 634,878 Total Revenue 781,856 781,856 781,856
+70,350 76,344 81,268 1.0000 110-2515022-40125  Program Supervisor 1.0000 80,678 80,678 80,678
+39,831 4,896 - - 110-2515022-40202  Office Specialist 2 - - - -
+32,901 43,115 52,066 1.0000 110-2515022-40203  Senior Office Specialist 1.0000 54,655 54,655 54,655
+103,140 150,364 161,296 3.0000 110-2515022-40220  Office Specialist T
+echnician 3.0000 166,777 166,777 166,777
+100,505 37,406 102,904 1.0000 110-2515022-40349  Deputy District Attorney 2 1.0000 106,305 106,305 106,305
+911 1,145 1,836 110-2515022-47500  Longevity Pay 3,322 3,322 3,322
+3,028 - 1,000 110-2515022-47900  Other Earnings 20,000 20,000 20,000
+138 - 1,000 110-2515022-48100  Overtime 7,000 7,000 7,000
+525 - - 110-2515022-48450  On Call Pay - - -
+1,123 - - 110-2515022-48500  Certification/Education - - -
+10,713 13,823 14,784 110-2515022-48600  Incentive Pay 15,084 15,084 15,084
+5,615 4,684 6,005 110-2515022-49001  Medicar
+e Tax 6,188 6,188 6,188
+24,009 20,027 25,678 110-2515022-49100  Social Security 26,463 26,463 26,463
+73,783 62,051 108,712 110-2515022-49210  Retir
+ement 112,052 112,052 112,052
+123,846 115,405 153,378 110-2515022-49310  Medical Insurance 192,534 192,534 192,534
+1,577 1,292 1,590 110-2515022-4931
+1  Paid Leave Oregon 1,708 1,708 1,708
+178 215 168 110-2515022-49312  Employee Assistance Pr
+ogram 192 192 192
+9,483 8,140 9,000 110-2515022-49315  VEBA 9,000 9,000 9,000
+8,497 6,898 8,550 110-2515022-49320  Dental Insurance Expense 8,808 8,808 8,808
+858 731 858 110-2515022-49325  V
+ision Insurance 822 822 822
+1,578 1,421 2,088 110-2515022-49331  Short T
+erm Disability 2,088 2,088 2,088
+158 137 264 110-2515022-49340  Life Insurance 174 174 174
+408 327 1,031 110-2515022-49400  Accident Insurance 399 399 399
+390 - - 110-2515022-49480  T
+ime Loss Reserve - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+393 327 397 110-2515022-49500  Unemployment 409 409 409
+122 96 251 110-2515022-49600  Workers Comp Assessment 300 300 300
+614,060 548,844 734,124 6.0000 Total For Personnel 6.0000 814,958 814,958 814,958
+1,704 4,936 7,540 110-2515022-51001  Central Supplies 7,000 7,000 7,000
+- - - 110-2515022-51
+199  Miscellaneous Supplies 5,000 5,000 5,000
+2,487 126 5,000 110-2515022-51303  Publications & Dues 5,000 5,000 5,000
+- 150 2,500 110-2515022-51306  Software 2,500 2,500 2,500
+929 - 5,000 110-2515022-54301  Small Equipment Purchases 5,000 5,000 5,000
+5,120 5,211 20,040 Total For Materials & Services 24,500 24,500 24,500
+2,801 1,305 4,000 110-2515022-61001  Professional Services 5,000 5,000 5,000
+338 421 463 110-2515022-61101  Audit 389 389 389
+- 7,375 - 110-2515022-61201  T
+raining And Development 5,000 5,000 5,000
+981 - 10,000 110-2515022-61202  Schools And Confer
+ences 12,000 12,000 12,000
+3,296 3,117 4,500 110-2515022-62101  Postage 4,500 4,500 4,500
+28 4,115 10,000 110-2515022-63001  T
+ravel Expense 3,000 3,000 3,000
+- - 1,000 110-2515022-64001  Advertising 1,000 1,000 1,000
+-220 133 2,500 110-2515022-68301  Copy Machines/Maint 3,000 3,000 3,000
+- - 2,500 110-2515022-69101  Assoc Memberships 2,500 2,500 2,500
+- - 400 110-2515022-69508  Paternity T
+est 500 500 500
+3,070 2,295 2,500 110-2515022-69509  Miscellaneous Legal Fees 5,000 5,000 5,000
+2,934 4,649 5,000 110-2515022-69901  Other Expense 20,000 20,000 20,000
+13,227 23,409 42,863 Total For Contracted Services 61,889 61,889 61,889
+9,596 9,596 10,143 110-2515022-78001  T
+rans Out For Building Reserve 9,736 9,736 9,736
+2,748 2,748 2,891 110-2515022-78004  T
+rans Out For Telecomm Equip 4,271 4,271 4,271
+- 3,888 2,460 110-2515022-78006  T
+rans Out For Computer Replace 1,230 1,230 1,230
+912 1,260 5,000 110-2515022-78017  T
+rans Out For Postage Charges 5,000 5,000 5,000
+578 -578 - 110-2515022-78044  T
+rans Out For PEL Reserves 5,000 5,000 5,000
+1,187 994 1,024 110-2515022-78054  T
+rans Out For Telecomm Calls - - -
+15,021 17,908 21,518 Total For T
+ransfer Outs Reciprocal 25,237 25,237 25,237
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- 984 7,000 110-2515022-80001  Capital Office Furnitur
+e 7,000 7,000 7,000
+7,503 - 5,000 110-2515022-80002  Capital Office Equipment 8,000 8,000 8,000
+7,503 984 12,000 Total For Capital 15,000 15,000 15,000
+- - - 110-2515022-99001  Ending Fund Balance 25,939 25,939 25,939
+- - - Total For Balances 25,939 25,939 25,939
+654,932 596,356 830,545 6.0000 Total Expenses Support Enforcement 6.0000 967,523 967,523 967,523
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Planning
+110-3010020 Planning: The Department of Planning and Development is responsible for the administration of land use planning, building inspection, on-site sewage disposal, and
+related land development regulatory programs in the unincorporated areas of the county.  The department is funded entirely by fees and charges.
+Planning Division administers and maintains the County's locally adopted comprehensive land use plan. Basic functions include reviewing a wide range of land use and
+development applications including, but not limited to, wineries, tasting rooms, bed and breakfast accommodations, farm stands, agri-tourism events, public utility facilities and
+development in flood hazard areas.  This department also reviews residential projects such as farm dwellings, forest template dwellings, hardship dwellings and accessory
+dwellings units.  In addition, the Planning Department administers the Land Division Ordinance in the unincorporated areas and assists property owners with land division
+requests, property line adjustments, and GIS mapping needs.
+Building Division administers the county's building permit and inspection program. The Building Department service area includes rural Yamhill County as well as many cities
+that do not have a local permitting program.  This function involves the review of construction plans, the issuance of permits, and the field inspection of work in progress for
+compliance with state construction specialty codes, including structural, mechanical, plumbing, and electrical. This program operates through a local "delegation of authority" from
+the state Building Codes Division.
+On-Site Waste Management Division administers the Department of Environmental Quality regulations governing the siting, installation, and repair of on-site sewage disposal
+systems (septic systems). The county administers this program as a contract agent of the Department of Environmental Quality through an intergovernmental agreement.  This
+division also monitors the two closed landfills in the County (Whiteson and Newberg) and is in charge of the twice-yearly household hazardous waste collection events.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Planning
+1,927,125 2,002,284 1,351,093 110-3010020-30101  Beginning Fund Balance 1,173,044 1,173,044 1,173,044
+666,382 560,216 410,000 110-3010020-32210  Building Permits 430,000 430,000 430,000
+126,247 121,542 104,000 110-3010020-3221
+1  Plumbing Permits 104,000 104,000 104,000
+130,720 88,375 80,000 110-3010020-32212  Mechanical Permits 80,000 80,000 80,000
+10,053 11,102 8,000 110-3010020-32213  Mobile Home Permits 8,500 8,500 8,500
+508,433 386,852 350,000 110-3010020-32214  Electrical Permits 380,000 380,000 380,000
+6,070 7,027 9,000 110-3010020-32217  Elec Industrial Insp 9,600 9,600 9,600
+1,072 893 1,000 110-3010020-32218  Re-Inspection Fee 1,000 1,000 1,000
+4,794 6,660 4,500 110-3010020-32225  Zoning Compliance Fee 5,500 5,500 5,500
+83,323 88,931 80,000 110-3010020-32226  Septic Permit 80,000 80,000 80,000
+133 180 100 110-3010020-34103  Map & Publications 100 100 100
+47,580 58,487 48,000 110-3010020-341
+16  Agency Sign Off 48,000 48,000 48,000
+1,680 1,300 1,300 110-3010020-341
+18  Microfilm Fee 1,300 1,300 1,300
+7,834 14,421 8,400 110-3010020-34119  Bldg Inspection Fee 16,000 16,000 16,000
+2,947 2,858 2,000 110-3010020-34121  Demolition Permit 3,600 3,600 3,600
+- - 20 110-3010020-34122  Handling Charges 20 20 20
+- 567 300 110-3010020-34125  Investigation Fee 300 300 300
+10,810 9,164 4,800 110-3010020-34151  OLCC W
+inery Processing Fees 6,000 6,000 6,000
+859 1,793 1,800 110-3010020-34199  Misc Rev - Service Charges 90,000 90,000 90,000
+3,584 - 2,000 110-3010020-34501  Zone Change 1,500 1,500 1,500
+11
+1,231 92,565 90,000 110-3010020-34502  Conditional Use 80,000 80,000 80,000
+48,991 52,997 40,000 110-3010020-34503  Partitions/Sub-Divisions/Adj 40,000 40,000 40,000
+531,939 408,568 450,000 110-3010020-34504  Plan Checks-Building 420,000 420,000 420,000
+60,992 47,573 40,000 110-3010020-34505  Applications Misc Land Use 40,000 40,000 40,000
+172,051 138,371 190,000 110-3010020-34506  State Sur
+charge 180,000 180,000 180,000
+9,442 12,263 5,000 110-3010020-34507  C-Plan/Zone Change 8,000 8,000 8,000
+9,248 9,655 8,000 110-3010020-34508  V
+ariance 16,000 16,000 16,000
+38,575 17,870 20,000 110-3010020-34513  Plan Checks-Electrical 25,000 25,000 25,000
+780 810 800 110-3010020-34514  State Mb Hm Fees 800 800 800
+- - 300 110-3010020-34515  Assessor Sur
+charge 300 300 300
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+15,816 19,409 18,000 110-3010020-34516  Admin Sur
+charge 160,000 160,000 160,000
+57,328 42,529 45,000 110-3010020-34517  Dwelling Class Approvals 25,000 25,000 25,000
+2,729 1,501 2,000 110-3010020-34518  Appeal/Hearing 2,500 2,500 2,500
+5,181 4,805 4,200 110-3010020-34519  Sys Dev Sur
+charge 8,000 8,000 8,000
+17,475 17,325 20,000 110-3010020-34521  State Inspect Fee/Minor Labels 10,000 10,000 10,000
+50,874 60,999 60,000 110-3010020-34662  Site Insp 60,000 60,000 60,000
+2,113 2,665 1,000 110-3010020-34663  Septic Review & Inspection 1,000 1,000 1,000
+24,300 32,297 28,000 110-3010020-34665  DEQ Sur
+charge 30,000 30,000 30,000
+26,684 29,299 25,000 110-3010020-34666  Authorization 30,000 30,000 30,000
+19,125 20,765 1,000 110-3010020-34668  Existing Septic Sys Eval 30,000 30,000 30,000
+2,719 1,430 1,000 110-3010020-36211  Copies 1,000 1,000 1,000
+- 5,613 200 110-3010020-36212  Reimbursement 200 200 200
+4,747,240 4,381,958 3,515,813 Total Revenue 3,606,264 3,606,264 3,606,264
+118,517 123,180 126,957 0.9000 110-3010020-40123  Planning Director 0.9000 126,968 126,968 126,968
+52,851 43,932 34,140 0.5000 110-3010020-40132  Management Analyst 0.5000 35,716 35,716 35,716
+70,258 81,584 96,202 0.9000 110-3010020-40134  Division Manager 0.9000 89,285 89,285 89,285
+1,364 - - - 110-3010020-40146  Senior Office Administrator - - - -
+13,332 18,061 10,286 0.2000 110-3010020-40202  Office Specialist 2 0.2000 10,990 10,990 10,990
+62,917 72,384 75,820 1.5625 110-3010020-40203  Senior Office Specialist 1.5625 78,122 78,122 78,122
+95,049 98,788 101,818 1.0000 110-3010020-40305  Assistant Building Official 1.0000 101,831 101,831 101,831
+60,447 65,517 70,842 1.0000 110-3010020-4031
+1  Associate Planner - - - -
+70,990 94,493 103,191 1.1000 110-3010020-40312  Senior Planner 1.9000 159,181 159,181 159,181
+51,043 55,637 60,235 1.0000 110-3010020-40313  Building Inspector Assistant 1.0000 62,435 62,435 62,435
+62,230 68,907 74,561 1.0000 110-3010020-40314  Building Inspector 1 1.0000 77,875 77,875 77,875
+- - - - 110-3010020-40315  Building Inspector 2 - - - -
+102,019 106,11
+1 116,831 1.0000 110-3010020-40316  Building Official 1.0000 116,833 116,833 116,833
+66,411 68,970 - - 110-3010020-40317  Engineering T
+echnician 1 - - - -
+318,250 208,572 438,699 4.5000 110-3010020-40326  Building Inspector 3 3.0000 269,457 269,457 269,457
+- - 71,084 1.0000 110-3010020-40377  Senior Building Inspector Assistant 1.0000 71,100 71,100 71,100
+30,992 32,586 33,585 0.4000 110-3010020-40602  Envir
+onmental Health Specialist 2 0.4000 33,587 33,587 33,587
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+82,874 90,403 94,455 1.0000 110-3010020-40603  Envir
+onmental Health Specialist 3 1.0000 94,460 94,460 94,460
+10,372 11,633 16,055 110-3010020-47500  Longevity Pay 16,594 16,594 16,594
+7,307 4,472 6,000 110-3010020-47750  Out Of Class Pay 26,000 26,000 26,000
+12,492 - 15,000 110-3010020-47900  Other Earnings 25,000 25,000 25,000
+888 - 1,000 110-3010020-48000  Extra Hours 11,000 11,000 11,000
+736 - 15,000 110-3010020-48100  Overtime 15,000 15,000 15,000
+16,126 - 150,000 110-3010020-48200  Extra Help 295,806 295,806 295,806
+- 1,662 2,048 110-3010020-48600  Incentive Pay 2,143 2,143 2,143
+19,114 17,899 22,218 110-3010020-49001  Medicar
+e Tax 19,581 19,581 19,581
+81,728 76,533 95,007 110-3010020-49100  Social Security 83,729 83,729 83,729
+276,936 271,412 380,567 110-3010020-49210  Retirement 348,946 348,946 348,946
+289,136 305,645 420,832 110-3010020-49310  Medical Insurance 486,549 486,549 486,549
+5,373 4,938 6,036 110-3010020-4931
+1  Paid Leave Oregon 5,403 5,403 5,403
+428 626 482 110-3010020-49312  Employee Assistance Pr
+ogram 492 492 492
+21,680 21,395 24,694 110-3010020-49315  VEBA 22,744 22,744 22,744
+14,262 15,626 23,458 110-3010020-49320  Dental Insurance Expense 22,258 22,258 22,258
+1,956 1,921 2,356 110-3010020-49325  Vision Insurance 2,076 2,076 2,076
+4,706 4,495 5,729 110-3010020-49331  Short T
+erm Disability 5,276 5,276 5,276
+365 363 726 110-3010020-49340  Life Insurance 468 468 468
+10,138 10,522 13,258 110-3010020-49400  Accident Insurance 10,695 10,695 10,695
+1,320 - - 110-3010020-49480  T
+ime Loss Reserve - - -
+1,341 1,256 1,508 110-3010020-49500  Unemployment 1,327 1,327 1,327
+306 267 445 110-3010020-49600  W
+orkers Comp Assessment 445 445 445
+31,577 7,865 20,000 110-3010020-49900  FET/V
+acation/Sick 50,000 50,000 50,000
+- - - 110-3010020-49998  Comp T
+ime Liability Adjustment 1,000 1,000 1,000
+- - - 110-3010020-49999  V
+acation Liability Adjustment 1,000 1,000 1,000
+2,067,830 1,987,655 2,731,125 17.0625 Total For Personnel 15.3625 2,781,372 2,781,372 2,781,372
+3,394 3,771 10,000 110-3010020-51001  Central Supplies 20,000 20,000 20,000
+- - 100 110-3010020-51002  Photo Supplies 100 100 100
+- 503 800 110-3010020-51
+106  Training Supplies 2,000 2,000 2,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+2 73 200 110-3010020-51
+109  Maintenance Supplies 200 200 200
+1,628 45 5,500 110-3010020-51114  Computer Supplies 4,000 4,000 4,000
+5,673 3,516 500 110-3010020-51
+116  Printing 3,000 3,000 3,000
+269 45 - 110-3010020-51
+199  Miscellaneous Supplies - - -
+- 13 - 110-3010020-51301  Educational Materials - - -
+190 601 2,000 110-3010020-51303  Publications & Dues 1,800 1,800 1,800
+-56 1,290 4,156 110-3010020-51306  Software 4,156 4,156 4,156
+- 50 - 110-3010020-52001  Gasoline 50 50 50
+5,762 3,363 4,500 110-3010020-54301  Small Equipment Pur
+chases 5,000 5,000 5,000
+16,863 13,269 27,756 Total For Materials & Services 40,306 40,306 40,306
+22,832 130,151 41,593 110-3010020-61001  Pr
+ofessional Services 70,000 70,000 70,000
+1,500 1,807 1,987 110-3010020-61101  Audit 1,967 1,967 1,967
+1,889 8,291 500 110-3010020-61
+103  Janitorial Contract 700 700 700
+57,806 30,237 - 110-3010020-61105  GIS Services 500 500 500
+305 3,635 10,000 110-3010020-61201  T
+raining And Development 10,000 10,000 10,000
+3,841 5,668 5,000 110-3010020-61202  Schools And Confer
+ences 7,000 7,000 7,000
+343 216 500 110-3010020-61503  Planning Comm 500 500 500
+9,096 13,871 1,000 110-3010020-62001  T
+elephone 12,000 12,000 12,000
+1 159 400 110-3010020-62101  Postage 400 400 400
+3,242 2,227 3,000 110-3010020-63001  T
+ravel Expense 5,000 5,000 5,000
+16,051 14,754 10,000 110-3010020-64001  Advertising 33,483 33,483 33,483
+57,829 46,160 - 110-3010020-65201  Building Rent - - -
+1,414 1,640 - 110-3010020-67002  Heat/Lights/W
+ater - - -
+18,312 3,823 5,000 110-3010020-68301  Copy Machines/Maint 4,000 4,000 4,000
+- - 1,000 110-3010020-68302  Department Equipment Maint 1,000 1,000 1,000
+10,307 7,012 12,500 110-3010020-68307  Softwar
+e Lic and Maint Fees 10,000 10,000 10,000
+2,358 1,470 2,000 110-3010020-69101  Assoc Memberships 2,000 2,000 2,000
+- 80 - 110-3010020-69513  Permits/Licenses 100 100 100
+197 2,543 500 110-3010020-69901  Other Expense 500 500 500
+62,794 58,909 60,000 110-3010020-69908  Bank Service Charge 90,000 90,000 90,000
+270,116 332,653 154,980 Total For Contracted Services 249,150 249,150 249,150
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+24,300 32,531 28,000 110-3010020-73001  Deq Sur
+charge Paid Out 30,000 30,000 30,000
+172,121 138,747 190,000 110-3010020-73004  Bldg Permit Fees 180,000 180,000 180,000
+46,775 21,785 40,000 110-3010020-73005  City Bldg Pmt Fees 40,000 40,000 40,000
+780 961 800 110-3010020-73013  Mb Hm Fee Pay-St 800 800 800
+243,976 194,025 258,800 Total For Other Expenses 250,800 250,800 250,800
+53,187 - 60,747 110-3010020-78001  Trans Out For Building Reserve 70,853 70,853 70,853
+61,039 68,099 80,585 110-3010020-78003  T
+rans Out For Admin Overhead 82,670 82,670 82,670
+8,198 7,835 10,200 110-3010020-78004  T
+rans Out For Telecomm Equip 10,000 10,000 10,000
+52,070 55,689 62,000 110-3010020-78005  Trans Out For Motor Pool 67,000 67,000 67,000
+13,013 11,155 14,301 110-3010020-78006  Trans Out For Computer Replace 11,157 11,157 11,157
+- - - 110-3010020-78017  Trans Out For Postage Charges - - -
+-13,812 145 1,000 110-3010020-78044  T
+rans Out For PEL Reserves 1,000 1,000 1,000
+19,446 23,328 34,714 110-3010020-78046  T
+rans Out For Network Charges 27,300 27,300 27,300
+2,224 2,344 3,098 110-3010020-78054  Trans Out For Telecomm Calls - - -
+195,366 168,595 266,645 Total For T
+ransfer Outs Reciprocal 269,980 269,980 269,980
+- 300,000 - 110-3010020-81002  Building Purchase - - -
+- 300,000 - Total For Capital - - -
+- - 76,507 110-3010020-99001  Ending Fund Balance 14,656 14,656 14,656
+- - 76,507 Total For Balances 14,656 14,656 14,656
+2,794,151 2,996,197 3,515,813 17.0625 Total Expenses Planning 15.3625 3,606,264 3,606,264 3,606,264
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Surveyor
+110-3010021 Surveyor: This Office is established by state law to file and index survey records in the county and to maintain and restore corners of the U.S. Rectangular Survey as
+well as donation land claims.  The Department also performs field and office checks on partitions, subdivisions, and condominiums, and checks plats for County approval. This
+office also assists County Legal Counsel with the management of County-owned properties. The Department is financed by survey and plat filing fees, General Fund, as well as by
+revenues received from filing certain instruments in the Clerk's Office (Also see Corner Restoration Fund).
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Surveyor
+153,113 81,340 78,638 110-3010021-30101  Beginning Fund Balance 85,522 85,522 85,522
+33,786 42,960 40,200 110-3010021-341
+10  Survey Filing Fees 40,000 40,000 40,000
+1,535 3,015 2,000 110-3010021-341
+11  Plat Checks 2,000 2,000 2,000
+1,800 900 2,000 110-3010021-34150  Road Vacation 1,000 1,000 1,000
+- - 100 110-3010021-34199  Misc Rev - Service Charges 200 200 200
+- - 100 110-3010021-36211  Copies 100 100 100
+1,410 423 12 110-3010021-36212  Reimbursement 12 12 12
+191,644 128,638 123,050 Total Revenue 128,834 128,834 128,834
+64,519 29,918 68,109 0.7000 110-3010021-40015  County Surveyor 0.7000 68,658 68,658 68,658
+- - 34,045 0.5000 110-3010021-40132  Management Analyst - - - -
+11,066 14,131 - - 110-3010021-40317  Engineering Technician 1 - - - -
+44,755 38,635 - - 110-3010021-40318  Engineering T
+echnician 2 - - - -
+- - - - 110-3010021-40319  Engineering Technician 3 0.5000 36,640 36,640 36,640
+930 474 - 110-3010021-47500  Longevity Pay - - -
+3,228 1,618 2,200 110-3010021-47750  Out Of Class Pay 2,200 2,200 2,200
+1,053 600 300 110-3010021-47900  Other Earnings 300 300 300
+- - 13,690 110-3010021-48200  Extra Help 15,000 15,000 15,000
+1,888 1,240 1,482 110-3010021-49001  Medicar
+e Tax 1,527 1,527 1,527
+8,073 5,300 6,334 110-3010021-49100  Social Security 6,529 6,529 6,529
+27,662 12,011 25,477 110-3010021-49210  Retir
+ement 9,138 9,138 9,138
+22,380 16,788 30,676 110-3010021-49310  Medical Insurance 38,506 38,506 38,506
+531 342 408 110-3010021-4931
+1  Paid Leave Oregon 422 422 422
+35 42 33 110-3010021-49312  Employee Assistance Pr
+ogram 38 38 38
+1,712 1,188 1,800 110-3010021-49315  VEBA 1,800 1,800 1,800
+1,535 1,093 1,709 110-3010021-49320  Dental Insurance Expense 1,762 1,762 1,762
+156 107 172 110-3010021-49325  V
+ision Insurance 164 164 164
+392 277 418 110-3010021-49331  Short T
+erm Disability 418 418 418
+27 24 53 110-3010021-49340  Life Insurance 45 45 45
+1,533 864 1,233 110-3010021-49400  Accident Insurance 106 106 106
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+130 - - 110-3010021-49480  T
+ime Loss Reserve - - -
+131 86 102 110-3010021-49500  Unemployment 106 106 106
+28 21 40 110-3010021-49600  W
+orkers Comp Assessment 100 100 100
+5,399 935 5,000 110-3010021-49900  FET/V
+acation/Sick 1,000 1,000 1,000
+- - 1,000 110-3010021-49999  Vacation Liability Adjustment - - -
+197,163 125,692 194,281 1.2000 Total For Personnel 1.2000 184,459 184,459 184,459
+113 759 2,285 110-3010021-51001  Central Supplies 1,200 1,200 1,200
+2,496 75 1,500 110-3010021-51103  Survey Supplies 1,500 1,500 1,500
+750 216 500 110-3010021-51116  Printing 500 500 500
+605 2,280 600 110-3010021-51303  Publications & Dues 600 600 600
+4,432 2,105 5,600 110-3010021-51306  Softwar
+e 2,500 2,500 2,500
+733 1,178 2,500 110-3010021-54301  Small Equipment Purchases 2,500 2,500 2,500
+9,129 6,613 12,985 Total For Materials & Services 8,800 8,800 8,800
+- 4,760 - 110-3010021-61001  Professional Services 5,500 5,500 5,500
+105 140 154 110-3010021-61
+101  Audit 100 100 100
+- 2,625 7,290 110-3010021-61102  Contract Services 5,000 5,000 5,000
+90 501 700 110-3010021-61
+103  Janitorial Contract 500 500 500
+- 351 1,000 110-3010021-61201  T
+raining And Development 1,000 1,000 1,000
+898 2,940 1,600 110-3010021-61202  Schools And Confer
+ences 1,500 1,500 1,500
+1,393 1,622 1,500 110-3010021-62001  T
+elephone 1,500 1,500 1,500
+455 1,100 1,000 110-3010021-63001  T
+ravel Expense 1,500 1,500 1,500
+16 - 100 110-3010021-64001  Advertising 100 100 100
+1,037 1,101 1,253 110-3010021-65201  Building Rent - - -
+- - 1,300 110-3010021-68002  Equipment Repairs 2,000 2,000 2,000
+1,277 212 1,000 110-3010021-68301  Copy Machines/Maint 1,500 1,500 1,500
+- 295 1,000 110-3010021-69101  Assoc Memberships 1,000 1,000 1,000
+- 17 6,000 110-3010021-69901  Other Expense - - -
+5,271 15,666 23,897 Total For Contracted Services 21,200 21,200 21,200
+748 748 1,253 110-3010021-78001  T
+rans Out For Building Reserve 1,446 1,446 1,446
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+538 514 - 110-3010021-78004  T
+rans Out For Telecomm Equip 500 500 500
+2,216 2,533 2,200 110-3010021-78005  Trans Out For Motor Pool 5,000 5,000 5,000
+1,337 1,098 786 110-3010021-78006  T
+rans Out For Computer Replace 786 786 786
+1 -14 500 110-3010021-78044  T
+rans Out For PEL Reserves 500 500 500
+500 500 2,042 110-3010021-78046  Trans Out For Network Charges 2,184 2,184 2,184
+146 154 - 110-3010021-78054  Trans Out For Telecomm Calls - - -
+5,486 5,533 6,781 Total For Transfer Outs Reciprocal 10,416 10,416 10,416
+- - - 110-3010021-99001  Ending Fund Balance 18,853 18,853 18,853
+- - - Total For Balances 18,853 18,853 18,853
+217,049 153,504 237,944 1.2000 Total Expenses Surveyor 1.2000 243,728 243,728 243,728
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+County Treasurer
+110-3510023 Treasurer: The Treasurer provides investment portfolio management and cash flow management for the County.  In addition, the Treasurer implements and adheres
+to all Oregon State Statutes regarding county investments. The Treasurer is responsible for the maintenance and application of the County Investment Policy. The Treasurer
+prepares all investment and cash flow reports. The Treasurer works closely with the Deputy Treasurer who is responsible for all other county finance areas.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Tr
+easurer
+5,283 12,549 12,947 110-3510023-30101  Beginning Fund Balance 11,257 11,257 11,257
+- - - 110-3510023-36212  Reimbursement - - -
+5,283 12,549 12,947 Total Revenue 11,257 11,257 11,257
+25,667 26,833 30,000 1.0000 110-3510023-40016  Elected County T
+reasurer 0.4000 30,000 30,000 30,000
+- - 3,000 110-3510023-48900  401B for Elected Officials 3,000 3,000 3,000
+372 389 479 110-3510023-49001  Medicare Tax 479 479 479
+1,591 1,664 2,046 110-3510023-49100  Social Security 2,046 2,046 2,046
+2,596 2,683 - 110-3510023-49210  Retirement - - -
+105 107 120 110-3510023-4931
+1  Paid Leave Oregon 132 132 132
+11 15 28 110-3510023-49312  Employee Assistance Pr
+ogram 13 13 13
+27 27 30 110-3510023-49400  Accident Insurance 33 33 33
+26 - - 110-3510023-49480  T
+ime Loss Reserve - - -
+- - 30 110-3510023-49500  Unemployment 30 30 30
+- - 9 110-3510023-49600  W
+orkers Comp Assessment 10 10 10
+30,394 31,718 35,742 1.0000 Total For Personnel 0.4000 35,743 35,743 35,743
+- 129 100 110-3510023-51001  Central Supplies 446 446 446
+121 - 391 110-3510023-51
+199  Miscellaneous Supplies 500 500 500
+1,408 - 600 110-3510023-51303  Publications & Dues 200 200 200
+239 150 - 110-3510023-51306  Softwar
+e 800 800 800
+- - - 110-3510023-54301  Small Equipment Pur
+chases 400 400 400
+1,768 279 1,091 Total For Materials & Services 2,346 2,346 2,346
+23 25 27 110-3510023-61
+101  Audit 20 20 20
+- 999 1,000 110-3510023-61201  T
+raining And Development 1,200 1,200 1,200
+- 1,191 1,000 110-3510023-61202  Schools And Confer
+ences 1,500 1,500 1,500
+- 184 158 110-3510023-62001  T
+elephone - - -
+- - - 110-3510023-62101  Postage - - -
+- 388 1,400 110-3510023-63001  T
+ravel Expense 1,000 1,000 1,000
+- 160 200 110-3510023-68307  Softwar
+e Lic and Maint Fees 600 600 600
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+150 150 600 110-3510023-69101  Assoc Memberships 1,000 1,000 1,000
+173 3,098 4,385 Total For Contracted Services 5,320 5,320 5,320
+1,069 1,069 1,130 110-3510023-78001  T
+rans Out For Building Reserve 1,139 1,139 1,139
+396 393 396 110-3510023-78004  Trans Out For Telecomm Equip 453 453 453
+615 615 615 110-3510023-78006  T
+rans Out For Computer Replace 615 615 615
+- - - 110-3510023-78017  T
+rans Out For Postage Charges - - -
+4 3 - 110-3510023-78054  Trans Out For Telecomm Calls - - -
+2,084 2,080 2,141 Total For Transfer Outs Reciprocal 2,207 2,207 2,207
+- - 3,947 110-3510023-99001  Ending Fund Balance - - -
+- - 3,947 Total For Balances - - -
+34,419 37,175 47,306 1.0000 Total Expenses County Treasurer 0.4000 45,616 45,616 45,616
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+County Counsel
+110-4010025 County Counsel: The Office of County Counsel (Legal Counsel) is comprised of three attorneys and a paralegal and provides general legal services and advice to
+the Board of Commissioners, County Administration, and county departments.  Staffing levels have remained constant for over 30 years with one additional attorney position
+added in the 2018-19 fiscal year.  Revenues for this office are a combination of general fund allocation and internal service fees to non-general fund departments and programs.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Counsel
+332,591 321,544 352,694 110-4010025-30101  Beginning Fund Balance 339,820 339,820 339,820
+4,891 4,282 4,000 110-4010025-33429  Assessment & T
+axation Grant 4,000 4,000 4,000
+- - 3,042 110-4010025-34152  COSSD Contract Services 3,042 3,042 3,042
+20,761 933 - 110-4010025-35101  Co Counsel Collections - - -
+- 1,539 - 110-4010025-36212  Reimbursement - - -
+55 1,500 - 110-4010025-36299  Miscellaneous - Other Revenue - - -
+263,274 278,917 258,171 110-4010025-38054  T
+rans In For Legal Services 258,170 258,170 258,170
+621,572 608,716 617,907 Total Revenue 605,032 605,032 605,032
+158,526 163,830 168,854 1.0000 110-4010025-40105  Legal Counsel 1.0000 163,936 163,936 163,936
+54,938 59,723 - - 110-4010025-40139  Legal Assistant - - - -
+98,019 90,372 - - 110-4010025-40372  Asst Co Counsel II - - - -
+15,176 - 98,068 1.0000 110-4010025-40342  Assistant County Counsel 1.0000 80,537 80,537 80,537
+- - 65,106 1.0000 110-4010025-40341  Paralegal 1.0000 70,714 70,714 70,714
+- - 132,978 1.0000 110-4010025-40362  Senior Asst Co Counsel 1.0000 132,998 132,998 132,998
+- - - 110-4010025-47500  Longevity Pay 3,986 3,986 3,986
+- - - 110-4010025-47750  Out Of Class Pay - - -
+1,966 - 4,500 110-4010025-47900  Other Earnings 4,500 4,500 4,500
+- - 15,000 110-4010025-48200  Extra Help 15,000 15,000 15,000
+1,606 3,583 3,906 110-4010025-48600  Incentive Pay 4,243 4,243 4,243
+4,882 4,651 6,799 110-4010025-49001  Medicar
+e Tax 6,618 6,618 6,618
+20,874 19,727 29,073 110-4010025-49100  Social Security 28,297 28,297 28,297
+81,567 77,085 125,474 110-4010025-49210  Retir
+ement 89,105 89,105 89,105
+63,625 58,232 102,252 110-4010025-49310  Medical Insurance 96,267 96,267 96,267
+1,286 1,273 1,858 110-4010025-4931
+1  Paid Leave Oregon 1,826 1,826 1,826
+102 144 112 110-4010025-49312  Employee Assistance Pr
+ogram 128 128 128
+4,874 4,125 6,000 110-4010025-49315  VEBA 4,500 4,500 4,500
+2,806 3,681 5,700 110-4010025-49320  Dental Insurance Expense 4,404 4,404 4,404
+444 371 572 110-4010025-49325  V
+ision Insurance 411 411 411
+1,122 896 1,392 110-4010025-49331  Short T
+erm Disability 1,392 1,392 1,392
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+84 69 176 110-4010025-49340  Life Insurance 131 131 131
+347 323 419 110-4010025-49400  Accident Insurance 423 423 423
+333 - - 110-4010025-49480  T
+ime Loss Reserve - - -
+340 323 465 110-4010025-49500  Unemployment 449 449 449
+62 51 92 110-4010025-49600  Workers Comp Assessment 92 92 92
+9,934 5,272 8,000 110-4010025-49900  FET/Vacation/Sick 8,000 8,000 8,000
+522,916 493,730 776,796 4.0000 Total For Personnel 4.0000 717,957 717,957 717,957
+1,205 661 7,000 110-4010025-51001  Central Supplies 7,000 7,000 7,000
+50 35 - 110-4010025-51199  Miscellaneous Supplies - - -
+- 60 - 110-4010025-51301  Educational Materials - - -
+5,049 1,881 5,000 110-4010025-51303  Publications & Dues 5,000 5,000 5,000
+3,146 6,381 2,500 110-4010025-51306  Software 2,500 2,500 2,500
+- - 5,000 110-4010025-54301  Small Equipment Pur
+chases 5,000 5,000 5,000
+9,450 9,019 19,500 Total For Materials & Services 19,500 19,500 19,500
+83,956 113,907 75,000 110-4010025-61001  Pr
+ofessional Services 120,000 120,000 120,000
+330 413 454 110-4010025-61101  Audit 419 419 419
+4,054 2,357 2,500 110-4010025-61
+102  Contract Services 3,000 3,000 3,000
+2,870 1,139 7,500 110-4010025-61201  T
+raining And Development 7,500 7,500 7,500
+- 670 - 110-4010025-61202  Schools And Confer
+ences 1,000 1,000 1,000
+1,246 2,130 1,830 110-4010025-62001  T
+elephone 1,830 1,830 1,830
+15 17 20 110-4010025-62101  Postage 20 20 20
+3,165 2,643 4,500 110-4010025-63001  T
+ravel Expense 4,500 4,500 4,500
+468 - 1,800 110-4010025-64001  Advertising 1,800 1,800 1,800
+- - 700 110-4010025-68301  Copy Machines/Maint 700 700 700
+96,103 123,274 94,304 Total For Contracted Services 140,769 140,769 140,769
+7,975 7,975 8,429 110-4010025-78001  T
+rans Out For Building Reserve 6,735 6,735 6,735
+1,584 1,584 1,727 110-4010025-78004  T
+rans Out For Telecomm Equip 2,131 2,131 2,131
+34 - 150 110-4010025-78005  T
+rans Out For Motor Pool 150 150 150
+2,802 2,631 3,024 110-4010025-78006  T
+rans Out For Computer Replace 2,631 2,631 2,631
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+4,231 -860 2,000 110-4010025-78044  T
+rans Out For PEL Reserves 2,000 2,000 2,000
+455 282 423 110-4010025-78054  Trans Out For Telecomm Calls - - -
+17,081 11,612 15,753 Total For T
+ransfer Outs Reciprocal 13,647 13,647 13,647
+1,734 - 1,500 110-4010025-80080  Capital Department Equipment - - -
+1,734 - 1,500 Total For Capital - - -
+- - 109,697 110-4010025-99001  Ending Fund Balance 102,802 102,802 102,802
+- - 109,697 Total For Balances 102,802 102,802 102,802
+647,284 637,635 1,017,550 4.0000 Total Expenses County Counsel 4.0000 994,675 994,675 994,675
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Sheriff - Emergency Management
+110-4510040 Sheriff - Emergency Management: Prepares the County and municipalities to respond to emergencies through planning, training, exercising, public education and
+outreach, and coordination with other agencies, businesses, and the public. This program receives funding on a reimbursement protocol basis from the Oregon Department of
+Emergency Management, as well as General Fund dollars.
+This program develops emergency management and mitigation plans, coordinates planning with and between departments and divisions, maintains County emergency operations
+center (EOC), and provides preparedness guidance and resources for the public. When emergency incidents occur, Emergency Management supports and coordinates the County’s
+response and recovery activities. Emergency Management also coordinates hazard mitigation planning and supports and coordinates the County’s emergency response and
+recovery activities.
+Emergency Management also oversees the Sheriff’s Office Volunteer Programs, including Amateur Radio Emergency Service (ARES), Cadets, Community Emergency Response
+Team (CERT), Sheriff’s Mounted Posse, Search and Rescue, and Volunteer Response Unit. In 2025, volunteers donated a total of 22,526 hours, the equivalent of nearly 11.0 FTE
+positions with a value of approximately $821,000.
+Projected revenues decrease is due to offset of flat anticipated grant funds and reduction in General Fund allocation. The unit was awarded $85,287 for fiscal year 2025-2026 (after
+a revision to the initial award) from the Federal Emergency Management Agency's Emergency Management Performance Grant (EMPG), managed by the Oregon Department of
+Emergency Management on a reimbursement protocol basis. This grant provides 37% of the projected program revenue. The unit has budgeted conservatively for the fiscal year
+2026-2027 period, projecting a 0% change in the EMPG funding.
+Personnel Services continue at 2.0 FTE (Emergency Manager and Support Services Specialist) for the program.
+Materials and Services projects a 18.6% increase to complete the mobile EOC unit grant-funded project. No large, funded projects are expected in fiscal year 2026-2027.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Emergency Management
+128,283 69,598 176,778 110-4510040-30101  Beginning Fund Balance 140,272 140,272 140,272
+76,255 121,431 82,500 110-4510040-33140  FEMA/Or
+egon Emergency Managemt 85,287 85,287 85,287
+- 985 - 110-4510040-36212  Reimbursement - - -
+19,981 - - 110-4510040-36299  Miscellaneous - Other Revenue - - -
+224,519 192,014 259,278 Total Revenue 225,559 225,559 225,559
+- - 33,925 0.2000 110-4510040-40014  Elected County Sheriff 0.2000 33,925 33,925 33,925
+- - - - 110-4510040-40108  Sergeant 1.0000 123,476 123,476 123,476
+115,411 118,533 132,262 1.0000 110-4510040-40124  Program Coordinator - - - -
+68,195 39,029 74,752 1.0000 110-4510040-40405  Records Clerk 1.0000 76,634 76,634 76,634
+2,518 2,969 5,176 110-4510040-47500  Longevity Pay 3,766 3,766 3,766
+8,665 - - 110-4510040-47900  Other Earnings - - -
+- - 2,000 110-4510040-48000  Extra Hours 2,000 2,000 2,000
+- 659 2,000 110-4510040-48100  Overtime 2,000 2,000 2,000
+14,433 13,880 21,104 110-4510040-48500  Certification/Education 15,741 15,741 15,741
+1,379 202 - 110-4510040-48600  Incentive Pay - - -
+3,059 2,644 3,875 110-4510040-49001  Medicare Tax 3,676 3,676 3,676
+13,079 11,306 16,568 110-4510040-49100  Social Security 15,719 15,719 15,719
+58,245 47,818 76,044 110-4510040-49210  Retir
+ement 72,167 72,167 72,167
+46,127 37,696 55,874 110-4510040-49310  Medical Insurance 57,943 57,943 57,943
+860 729 963 110-4510040-4931
+1  Paid Leave Oregon 1,011 1,011 1,011
+51 72 62 110-4510040-49312  Employee Assistance Pr
+ogram 70 70 70
+2,700 1,950 3,240 110-4510040-49315  VEBA 2,940 2,940 2,940
+646 486 713 110-4510040-49332  Long T
+erm Disability 711 711 711
+86 65 97 110-4510040-49340  Life Insurance 97 97 97
+3,482 4,699 6,689 110-4510040-49400  Accident Insurance 7,118 7,118 7,118
+210 - - 110-4510040-49480  T
+ime Loss Reserve - - -
+214 184 241 110-4510040-49500  Unemployment 234 234 234
+37 29 46 110-4510040-49600  W
+orkers Comp Assessment 51 51 51
+3,104 7,819 5,000 110-4510040-49900  FET/V
+acation/Sick 19,000 19,000 19,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+342,499 290,768 440,631 2.2000 Total For Personnel 2.2000 438,279 438,279 438,279
+1,167 1,321 1,500 110-4510040-51001  Central Supplies 2,000 2,000 2,000
+1,882 - 2,000 110-4510040-51003  Pr
+ogram Supplies 2,000 2,000 2,000
+- 421 500 110-4510040-51110  Department Supplies 500 500 500
+- 1,328 2,000 110-4510040-51602  Uniforms 1,000 1,000 1,000
+152 - 5,000 110-4510040-54301  Small Equipment Pur
+chases 13,345 8,345 8,345
+3,200 3,070 11,000 Total For Materials & Services 18,845 13,845 13,845
+223 5,441 10,000 110-4510040-61001  Pr
+ofessional Services 9,126 9,126 9,126
+603 1,325 1,000 110-4510040-61008  Workers Comp Insurance Expense 1,000 1,000 1,000
+217 248 272 110-4510040-61101  Audit 220 220 220
+- - - 110-4510040-61130  Grant Expenses - 5,000 5,000
+1,255 325 1,500 110-4510040-61202  Schools And Confer
+ences 2,500 2,500 2,500
+2,921 2,937 3,200 110-4510040-62001  T
+elephone 3,000 3,000 3,000
+- 609 1,000 110-4510040-63001  Travel Expense 1,000 1,000 1,000
+982 1,074 1,500 110-4510040-67002  Heat/Lights/W
+ater 1,000 1,000 1,000
+2,138 3,031 3,500 110-4510040-68301  Copy Machines/Maint 3,000 3,000 3,000
+652 248 1,000 110-4510040-68307  Softwar
+e Lic and Maint Fees 1,000 1,000 1,000
+- 239 200 110-4510040-69101  Assoc Memberships 200 200 200
+- - - 110-4510040-69901  Other Expense - - -
+8,991 15,477 23,172 Total For Contracted Services 22,046 27,046 27,046
+16,466 16,466 17,404 110-4510040-78001  T
+rans Out For Building Reserve 16,706 16,706 16,706
+1,701 1,536 1,679 110-4510040-78004  T
+rans Out For Telecomm Equip 1,766 1,766 1,766
+5,936 9,926 7,000 110-4510040-78005  T
+rans Out For Motor Pool 7,350 7,350 7,350
+4,425 4,953 4,596 110-4510040-78006  T
+rans Out For Computer Replace 4,032 4,032 4,032
+74 11 35 110-4510040-78054  T
+rans Out For Telecomm Calls - - -
+28,602 32,892 30,714 Total For T
+ransfer Outs Reciprocal 29,854 29,854 29,854
+- 55,487 - 110-4510040-80202  V
+ehicle & Equipment Replace - - -
+- 55,487 - Total For Capital - - -
+- - 123,640 110-4510040-99001  Ending Fund Balance - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - 123,640 Total For Balances - - -
+383,293 397,694 629,157 2.2000 Total Expenses Sheriff - Emergency Management 2.2000 509,024 509,024 509,024
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Sheriff - Marine
+110-4510042 Sheriff - Marine: Provides education and enforcement on the waterways of the Willamette River from the Polk County line above Wheatland to Willow Island near
+Canby, and of the Yamhill River from its confluence with the Willamette to the Locks near Lafayette. This program is overseen by an Enforcement Sergeant (as a collateral duty to
+their Rural Patrol team supervision assignment) and staffed by seasonal reserve deputies. This program receives funding on a reimbursement protocol basis from Oregon State
+Marine Board, General Fund dollars, as well as county lottery funds (when awarded).
+The seasonal program, which runs from Memorial Day Weekend through Labor Day weekend, is responsible for patrolling the waterways and enforcing the applicable provisions
+of Oregon Revised Statutes, Chapters 830 and 704, and Oregon Administrative Rules, Chapter 250; providing law enforcement examinations of boats; investigating complaints of
+boating law violations and boating accidents; alerting the public to unsafe boating conditions and education of relevant laws, ordinances, and regulations; and providing assistance
+to boaters and providing search and rescue services. This program also provides support enforcement for water-based events, such as the Memorial Day Boat Races and the Oregon
+Kayak Bass Fishing tournament, as well as land-based educational events such as the McMinnville Safety Fair and Yamhill County Fair. Off-season, this program is restricted to
+call-outs for boater assistance/search and rescue operations only.
+General Fund allocations were allocated to this budget in fiscal year 2025-2026 but redirected in fiscal year 2026-2027 to offset a budget shortfall in the Sheriff - Patrol budget.
+Grant funding from Oregon State Marine Board decreased $18,048 (29.2%) for fiscal year 2025-2026 but has been restored with an increase of $18,197 (41.5%) for fiscal year
+2026-2027.
+Budgeted expenditures are expected to increase $26,914 (20.5%), due to anticipated increases in department equipment and building rent. The majority of materials and services
+funds in this program come from the Boat Shed Rental and the fuel costs for operating the two marine patrol boats and two personal watercraft (jet skis).
+Personnel costs are expected to increase due to the restoration of OSMB funding as the program will be able to perform more hours on the water relative to the funding restoration.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Marine
+14,893 6,809 9,098 110-4510042-30101  Beginning Fund Balance 66,129 66,129 66,129
+58,264 59,298 62,024 110-4510042-33405  Marine Board 62,024 62,024 62,024
+- 212 - 110-4510042-36212  Reimbursement - - -
+20,000 20,000 30,000 110-4510042-38006  Trans In Of Video Lottery 30,000 30,000 30,000
+93,157 86,318 101,122 Total Revenue 158,153 158,153 158,153
+25,580 21,850 - - 110-4510042-40403  Reserve Deputy 0.5500 43,133 43,133 43,133
+3,716 3,959 - - 110-4510042-40412  Marine Safety Officer 0.6000 24,128 24,128 24,128
+277 329 - 110-4510042-48100  Overtime - - -
+- - 76,255 110-4510042-48200  Extra Help 14,944 14,944 14,944
+981 428 - 110-4510042-49001  Medicar
+e Tax 976 976 976
+4,196 1,831 - 110-4510042-49100  Social Security 4,170 4,170 4,170
+15,168 9,527 - 110-4510042-49210  Retir
+ement 7,262 7,262 7,262
+278 118 - 110-4510042-49311  Paid Leave Oregon 268 268 268
+- - - 110-4510042-49312  Employee Assistance Pr
+ogram 36 36 36
+1,982 1,128 - 110-4510042-49400  Accident Insurance 1,835 1,835 1,835
+65 - - 110-4510042-49480  Time Loss Reserve - - -
+68 30 - 110-4510042-49500  Unemployment 66 66 66
+21 9 - 110-4510042-49600  W
+orkers Comp Assessment 24 24 24
+52,332 39,208 76,255 - Total For Personnel 1.1500 96,842 96,842 96,842
+411 156 500 110-4510042-51001  Central Supplies 500 500 500
+374 306 2,500 110-4510042-51602  Uniforms 2,500 2,500 2,500
+291 219 300 110-4510042-54301  Small Equipment Pur
+chases 2,500 2,500 2,500
+1,076 681 3,300 Total For Materials & Services 5,500 5,500 5,500
+537 1,816 4,000 110-4510042-61001  Pr
+ofessional Services 2,500 2,500 2,500
+60 50 54 110-4510042-61
+101  Audit 50 50 50
+83 483 100 110-4510042-61202  Schools And Confer
+ences 100 100 100
+1,861 2,135 2,300 110-4510042-62001  T
+elephone 2,300 2,300 2,300
+- - - 110-4510042-63001  T
+ravel Expense - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+9,900 10,500 10,500 110-4510042-65201  Building Rent 12,000 12,000 12,000
+5,973 6,855 7,800 110-4510042-67002  Heat/Lights/Water 7,800 7,800 7,800
+- - 1,000 110-4510042-68004  Radio Repair 1,000 1,000 1,000
+323 697 930 110-4510042-68307  Softwar
+e Lic and Maint Fees 930 930 930
+- 30 - 110-4510042-69101  Assoc Memberships - - -
+- 75 - 110-4510042-69299  Miscellaneous Expenses - - -
+18,736 22,641 26,684 Total For Contracted Services 26,680 26,680 26,680
+14,205 15,957 25,000 110-4510042-78005  Trans Out For Motor Pool 22,500 22,500 22,500
+14,205 15,957 25,000 Total For Transfer Outs Reciprocal 22,500 22,500 22,500
+- - - 110-4510042-99001  Ending Fund Balance 6,631 6,631 6,631
+- - - Total For Balances 6,631 6,631 6,631
+86,349 78,487 131,239 - Total Expenses Sheriff - Marine 1.1500 158,153 158,153 158,153
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Sheriff - Patrol
+110-4510043 Sheriff - Patrol: Provides 24-hour law enforcement services to 718 square miles in Yamhill County and a population of nearly 115,000 with 48.3 FTE. The Sheriff’s
+Office will continue contracting direct enforcement services with the cities of Amity, Dayton, Lafayette, Sheridan, and Willamina, as well as providing emergency backup and
+investigative expertise to the cities of Carlton, Dundee, McMinnville, Newberg, and Yamhill.
+This budget receives funding on a reimbursement protocol basis from the Bureau of Land Management (BLM), Oregon Criminal Justice Commission (CJC), Oregon Department
+of Transportation (ODOT), and Oregon Parks and Recreation Department (OPRD), as well as General Fund dollars.
+This budget provides the following programs and services:
+Administration: Provides management and administrative support for direct services programs; coordination, facilitation, and documentation of training for the purposes of
+certification, re-certification, and new legislative/best practices approaches; responsible for all media relations and strategic communication; performs recruitment, hiring, and
+retention functions specific to the Office; houses the Professional Standards unit; and provides accounting and payroll functions specific to the Office with 3.3 FTE.
+Civil: Processes and services protective orders and civil and criminal subpoenas for the entire county, including all municipalities. Enforces eviction orders, restraining orders,
+child custody orders, and orders to seize and sell property. This unit also coordinates the sale of real or personal property as ordered by the Courts, including judicial real property
+sales, with a 1.0 FTE deputy and 0.5 FTE support services specialist.
+Contracted Police Services: Provides contracted police services to the cities of Amity, Dayton, Lafayette, Sheridan, and Willamina with a total of 10.0 FTE deputies. Each contract
+is overseen by an Enforcement Sergeant (as a collateral duty to their Rural Patrol team supervision assignment) and receives support from the Support Services unit (Civil,
+Evidence, and Records).
+Detectives: Holds the primary responsibility for complex investigations including child abuse and violent crimes, suicide, narcotics enforcement, criminal intelligence, and related
+crimes and criminal organizations. Detectives receive and process all cross reports from the Department of Human Services Child Welfare division. Detectives are members of the
+county-wide Major Crimes Response Team (MCRT). This unit is delineated into Special Investigations Unit (SIU), for the investigation of person crimes, with 5.0 FTE (4.0 FTE
+deputy and 1.0 FTE sergeant), and a Street Crimes and Narcotics (SCAN) team for the investigation of crimes with a narcotics nexus, with 2.0 FTE (1.0 FTE deputy and 1.0 FTE
+sergeant).
+Evidence: Provides logging, tracking, and disposition of evidence inventory related to criminal cases, as well as found property. Transports evidence to the Oregon State Police
+Crime Lab and facilitates release of evidence for investigatory purposes, to the courts for prosecution, and to the legal owner of property when appropriate, as well as coordinating
+disposal of evidence, contraband, and property, within statutory guidelines, when not able to return to owner. There is 1.0 FTE assigned to this program.
+Records: Provides support to Enforcement Division through the collection, processing, and distribution of crime-related records; processing state-mandated concealed handgun
+license applications; processing public records requests; and maintaining data and records for submission to state and federal agencies with 3.5 FTE support services specialist and
+0.5 FTE manager. In fiscal year 2024-2025, this unit also established a 1.0 FTE SO Systems Coordinator position for the purposes of services coordination, data collection, and
+reporting requirements under the HB4002 Behavioral Health Deflection (BHD) grant program.
+Rural Patrol Operations: Provides criminal investigation; traffic enforcement and accident investigation services; responds to citizen-generated calls for service; patrols county
+roads, neighborhoods, and businesses to prevent criminal activity with a total of 14.0 FTE deputies assigned to one of four rural patrol teams, each supervised by an Enforcement
+sergeant (4.0 FTE). This unit also includes a 1.0 FTE deputy assigned to a grant-funded Impaired Driving Traffic Safety position and a 1.0 FTE deputy assigned to a grant-funded
+Woods Patrol position, all reimbursement protocol fund sources.
+For Fis
+cal Year Ending June 30, 2027
+Fiscal year 2025-2026 General Fund allocation increased $350,598 (5.0%) and fiscal year 2026-2027 General Fund initial allocation increase of $516,531 (7.0%) reallocated from
+other Sheriff's Office budgets to offset a budget shortfall.
+Revenues are projected to have decreased $397,600 (12.6%) in fiscal year 2026-2027 over fiscal year 2025-2026 actuals due to drastically lower than budgeted Sheriff's Sales
+(foreclosures), the loss and repayment of the Oregon Criminal Justice Commission Illegal Marijuana Market Enforcement Grant Program (IMMEGP) funds, and non-selection for
+the Oregon Department of Transportation Truck Inspector Traffic Safety grant. Fiscal year 2026-2027 revenue earnings are forecasted to decrease $125,841 (2.8%) below
+projected fiscal year 2025-2026 figures.
+Expenditures are projected to have increased $1,578,920 (15.4%) in fiscal year 2026-2027 over fiscal year 2025-2026 actuals due to contracted salary and incentive increases
+under the collective bargaining agreement, PERS and medical insurance increases, as well as materials and services expenditures such as software licensing, motor pool, building
+reserve, and department equipment. Fiscal year 2026-2027 initial expenditures are forecasted to decrease $802,579 (11.8%) due to the elimination of 3.0 FTE deputy positions to
+counter the budget shortfall and as an outcome in changing budgeting of Sheriff's Sales.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Patrol
+965,522 250,767 588,415 110-4510043-30101  Beginning Fund Balance - - -
+124,215 147,466 130,000 110-4510043-32291  W
+eapons Permits 125,000 125,000 125,000
+6,765 6,338 6,000 110-4510043-32292  State Police W
+eapons Permits 6,000 6,000 6,000
+- - - 110-4510043-32299  Misc Rev - Licenses & Permits 3,500 3,500 3,500
+63,011 130,047 82,600 110-4510043-33102  BLM 51,906 51,906 51,906
+76,186 233,117 181,900 110-4510043-33199  Miscellaneous - Grants - - -
+- - _ - _ _ _
+19,509 87,944 187,000 110-4510043-33417  T
+raffic Safety Grant 57,621 57,621 57,621
+23,500 576,584 346,200 110-4510043-33499  Other State Grants 1,166,084 1,166,084 1,166,084
+- - _ $1,092,340 Behavioral Health Grant, $40,0000 OHV Grant, $33,744 Oregon
+Theft Grant _ _ _
+358,553 371,715 428,020 110-4510043-34134  W
+illamina Contract 436,693 436,693 436,693
+190,547 197,556 214,010 110-4510043-34135  Dayton Contract 219,129 219,129 219,129
+366,267 379,605 428,020 110-4510043-34136  Lafayette Contract 436,693 436,693 436,693
+527,160 546,147 642,030 110-4510043-34137  Sheridan Contract 655,040 655,040 655,040
+325,667 337,239 428,020 110-4510043-34141  Amity Contract 436,693 436,693 436,693
+25,000 25,000 25,000 110-4510043-34149  YCOM Contract Services 25,000 25,000 25,000
+147 12 200 110-4510043-34199  Misc Rev - Service Charges 100 100 100
+62,561 54,943 55,000 110-4510043-34204  Civil Fees 50,000 50,000 50,000
+- - - 110-4510043-34217  Towing Admin Fee 15,000 15,000 15,000
+65 145 100 110-4510043-34232  ID T
+ag Fees 100 100 100
+176,954 363,792 2,000,000 110-4510043-34237  Sheriff's Sales 500,000 500,000 500,000
+149,884 147,993 140,000 110-4510043-35001  Fines 145,000 145,000 145,000
+9,000 4,700 - 110-4510043-35016  State Judgment Forfeitur
+e - - -
+134 - - 110-4510043-35017  Fed Forfeit Treasurer Civil - - -
+- - - 110-4510043-35018  Fed Forfeit Justice Civil - - -
+9,520 2,550 - 110-4510043-36203  Donations - - -
+6,233 3,099 3,000 110-4510043-36210  Restitution Receipts 1,000 1,000 1,000
+7,667 6,435 7,500 110-4510043-3621
+1  Copies 8,000 8,000 8,000
+134,331 86,941 19,000 110-4510043-36212  Reimbursement 59,000 59,000 59,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - - 110-4510043-36216  YCSO Foundation - - -
+25,986 8,298 - 110-4510043-36299  Miscellaneous - Other Revenue 195,346 - -
+- - _ Reimbursement from Narcotics for Detective Salaries _ _ _
+- 100,933 - 110-4510043-38062  T
+rans In For Dog Control - - -
+- - - 110-4510043-38069  Trans Out For Narcotics Investigations - 195,346 195,346
+3,654,385 4,069,365 5,912,015 Total Revenue 4,592,905 4,592,905 4,592,905
+75,293 79,665 50,888 0.3000 110-4510043-40014  Elected County Sheriff 0.3000 50,888 50,888 50,888
+652,074 773,367 715,340 6.0000 110-4510043-40108  Sergeant 6.0000 740,856 740,856 740,856
+62,996 65,406 66,364 0.5000 110-4510043-40109  Lieutenant 0.5000 68,023 68,023 68,023
+77,349 77,819 79,063 0.5000 110-4510043-401
+10  Undersheriff 0.5000 75,044 75,044 75,044
+105,822 130,428 140,280 1.0000 110-4510043-40127  Captain 1.0000 150,088 150,088 150,088
+38,625 38,369 39,128 0.5000 110-4510043-40142  Executive Office Specialist 0.5000 40,109 40,109 40,109
+52,411 53,533 54,567 0.5000 110-4510043-40155  Pr
+ogram Manager 4 0.5000 55,933 55,933 55,933
+14,742 15,820 18,720 0.2000 110-4510043-40172  Background Investigator 0.4000 37,440 37,440 37,440
+36,000 36,838 37,578 0.5000 110-4510043-40214  Senior Accounting Clerk 0.5000 38,520 38,520 38,520
+2,405,880 2,622,100 3,420,631 35.0000 110-4510043-40402  Deputy Sheriff 33.0000 3,150,096 3,359,576 3,359,576
+40,901 39,325 - - 110-4510043-40403  Reserve Deputy 0.7000 55,242 55,242 55,242
+68,139 26,357 209,882 3.0000 110-4510043-40405  Records Clerk 4.2000 314,234 314,234 314,234
+463,518 157,387 - - 110-4510043-40408  Detective - - - -
+143,117 121,936 74,752 1.0000 110-4510043-40414  Senior Police Clerk - - - -
+- 62,640 77,743 1.0000 110-4510043-40415  SO Systems Coordinator 1.0000 80,305 80,305 80,305
+78,702 75,750 82,143 1.0000 110-4510043-40416  Pr
+operty  Evidence Technician 1.0000 84,210 84,210 84,210
+- - - - 110-4510043-40417  Crime Analyst 0.2000 18,720 18,720 18,720
+21,686 32,709 43,405 110-4510043-47500  Longevity Pay 47,485 47,485 47,485
+207,970 -5,351 12,500 110-4510043-47900  Other Earnings 4,900 4,900 4,900
+106,333 123,760 120,000 110-4510043-48000  Extra Hours 85,000 85,000 85,000
+318,947 330,712 350,000 110-4510043-48100  Overtime 383,744 383,744 383,744
+- - - 110-4510043-48200  Extra Help 40,000 40,000 40,000
+275,404 258,638 298,381 110-4510043-48500  Certification/Education 300,216 323,258 323,258
+13,719 36,761 15,070 110-4510043-48600  Incentive Pay 61,530 61,530 61,530
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+9,601 10,403 30,651 110-4510043-48800  Canine Officer Pr
+emium 31,422 31,422 31,422
+78,575 77,160 79,093 110-4510043-49001  Medicare Tax 78,305 81,677 81,677
+334,814 329,216 338,188 110-4510043-49100  Social Security 334,820 349,236 349,236
+1,337,022 1,311,373 1,610,893 110-4510043-49210  Retir
+ement 1,466,347 1,536,592 1,536,592
+956,746 1,004,946 1,180,936 110-4510043-49310  Medical Insurance 1,115,379 1,159,923 1,159,923
+21,481 21,223 20,274 110-4510043-49311  Paid Leave Oregon 21,592 22,522 22,522
+1,255 1,816 1,428 110-4510043-49312  Employee Assistance Program 1,543 1,607 1,607
+64,867 64,700 75,060 110-4510043-49315  VEBA 67,260 70,260 70,260
+14,522 13,816 16,406 110-4510043-49332  Long T
+erm Disability 15,114 15,760 15,760
+1,960 1,919 2,235 110-4510043-49340  Life Insurance 2,059 2,147 2,147
+126,519 166,184 181,786 110-4510043-49400  Accident Insurance 191,179 200,434 200,434
+5,311 - - 110-4510043-49480  Time Loss Reserve - - -
+5,317 5,259 5,061 110-4510043-49500  Unemployment 4,965 5,175 5,175
+897 859 1,242 110-4510043-49600  W
+orkers Comp Assessment 1,214 1,214 1,214
+188,538 176,022 185,000 110-4510043-49900  FET/Vacation/Sick 200,000 200,000 200,000
+8,407,054 8,338,866 9,634,688 51.0000 Total For Personnel 50.3000 9,413,782 9,793,074 9,793,074
+36,926 17,330 25,000 110-4510043-51001  Central Supplies 25,000 25,000 25,000
+817 - - 110-4510043-51
+106  Training Supplies - - -
+10,556 7,205 7,000 110-4510043-51
+110  Department Supplies 7,000 7,000 7,000
+38 1,092 1,000 110-4510043-51
+199  Miscellaneous Supplies 1,000 1,000 1,000
+- 174 - 110-4510043-51303  Publications & Dues - - -
+- 730 - 110-4510043-51306  Softwar
+e - - -
+33,676 42,026 40,000 110-4510043-51602  Uniforms 45,000 45,000 45,000
+25,519 41,988 155,000 110-4510043-54301  Small Equipment Pur
+chases 171,103 171,103 171,103
+400 - - 110-4510043-54303  Computer Replacement - - -
+107,932 110,544 228,000 Total For Materials & Services 249,103 249,103 249,103
+87,259 62,099 75,000 110-4510043-61001  Pr
+ofessional Services 75,000 75,000 75,000
+1,347 1,999 2,000 110-4510043-61008  W
+orkers Comp Insurance Expense 2,000 2,000 2,000
+5,400 6,254 6,879 110-4510043-61
+101  Audit 6,618 6,618 6,618
+- - - 110-4510043-61
+130  Grant Expenses - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+843 1,468 1,000 110-4510043-61201  T
+raining And Development 1,000 1,000 1,000
+34,527 19,784 25,000 110-4510043-61202  Schools And Conferences 25,000 25,000 25,000
+58,753 69,485 65,000 110-4510043-62001  T
+elephone 60,000 60,000 60,000
+26 - - 110-4510043-62101  Postage 75 75 75
+16,558 20,176 15,000 110-4510043-63001  Travel Expense 25,000 25,000 25,000
+69 - 200 110-4510043-64001  Advertising 200 200 200
+24,672 25,387 26,149 110-4510043-65201  Building Rent 29,431 29,431 29,431
+11,806 13,926 15,500 110-4510043-67002  Heat/Lights/W
+ater 20,000 20,000 20,000
+10,342 - 10,000 110-4510043-68004  Radio Repair 10,000 10,000 10,000
+9,895 12,248 13,000 110-4510043-68301  Copy Machines/Maint 13,000 13,000 13,000
+75,293 90,471 110,000 110-4510043-68307  Software Lic and Maint Fees 120,000 120,000 120,000
+2,273 3,789 3,000 110-4510043-69101  Assoc Memberships 5,200 5,200 5,200
+10,325 4,808 5,000 110-4510043-69220  Special Event Expenses 10,000 10,000 10,000
+1,076 2,473 - 110-4510043-69299  Miscellaneous Expenses - - -
+15,745 10,945 15,000 110-4510043-69505  Investigation 30,000 30,000 30,000
+4,867 4,183 7,000 110-4510043-69512  Civil Services 5,000 5,000 5,000
+429 25 - 110-4510043-69513  Permits/Licenses 50 50 50
+10,470 8,205 10,000 110-4510043-69514  OSP-Concealed Handgun Lic Fees 10,000 10,000 10,000
+175,000 361,000 2,000,000 110-4510043-69537  Sheriff's Sales Expenses 500,000 500,000 500,000
+49,547 19,216 - 110-4510043-69901  Other Expense 343,840 343,840 343,840
+- - _ Behavioral Health Grant _ _ _
+2,555 2,583 3,000 110-4510043-69908  Bank Service Charge 3,000 3,000 3,000
+- 423 - 110-4510043-69918  Employee Recognition 2,000 2,000 2,000
+609,075 740,946 2,407,728 Total For Contracted Services 1,296,414 1,296,414 1,296,414
+48,577 48,577 63,815 110-4510043-78001  T
+rans Out For Building Reserve 61,083 61,083 61,083
+14,256 15,782 15,083 110-4510043-78004  T
+rans Out For Telecomm Equip 20,173 20,173 20,173
+525,064 625,535 529,800 110-4510043-78005  T
+rans Out For Motor Pool 655,000 655,000 655,000
+86,312 86,915 84,713 110-4510043-78006  T
+rans Out For Computer Replace 83,554 83,554 83,554
+- - - 110-4510043-78017  T
+rans Out For Postage Charges - - -
+- 165,504 - 110-4510043-78023  T
+rans Out for Behavioral Health Deflection 603,639 603,639 603,639
+1,973 1,889 2,549 110-4510043-78054  T
+rans Out For Telecomm Calls - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+676,182 944,202 695,960 Total For T
+ransfer Outs Reciprocal 1,423,449 1,423,449 1,423,449
+- 83,499 65,000 110-4510043-80006  Capital Software Purchase 30,000 30,000 30,000
+- - _ RMS Project _ _ _
+- 12,407 - 110-4510043-80080  Capital Department Equipment - - -
+8,987 26,742 - 110-4510043-80202  V
+ehicle & Equipment Replace - - -
+- 180 - 110-4510043-82001  Miscellaneous Building Remodel - - -
+8,987 122,828 65,000 Total For Capital 30,000 30,000 30,000
+- - 241,176 110-4510043-99001  Ending Fund Balance 57,225 48,270 48,270
+- - 10,000 110-4510043-99003  Reserve For Future 10,000 10,000 10,000
+- - _ Reserve for K-9 _ _ _
+- - 251,176 Total For Balances 67,225 58,270 58,270
+9,809,231 10,257,386 13,282,552 51.0000 Total Expenses Sheriff - Patr
+ol 50.3000 12,479,973 12,850,310 12,850,310
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Sheriff – Narcotics Investigation
+110-4510069 Sheriff – Narcotics Investigation: Records transactions related to civil and criminal forfeiture activities from investigations with a narcotics nexus. Can originate
+from either federal or state/local law enforcement authority. Since these laws change periodically, funds accumulated under the various stages of funding laws are subject to
+varying legal requirements for their use. There are no personnel in this budget, and it receives no General Fund dollars.
+Beginning in fiscal year 2024-2025, this fund recorded transactions related to the non-personnel funds received and utilized under the Oregon Criminal Justice Commission’s
+Illegal Marijuana Market Enforcement Grant Program (IMMEGP); personnel funds from that program are recorded in 110-4510043 Sheriff – Patrol. The IMMEGP funds were not
+awarded for the continuation of this program, and unspent funds were returned to CJC in fiscal year 2025-2026.
+Revenue derived from asset-forfeiture programs typically comes from the sale of real and/or personal property seized from offenders involved in drug-related criminal activity, or
+the criminally or civilly ordered forfeiture of funds deemed criminal proceeds and are subject to various requirements for their use.
+Materials and Services include allocations/distributions for state statute required distribution of funds to pre-determined asset forfeiture distribution contacts. Monies are
+apportioned in this fund for the pre-judgement required fees and expenses and for post-judgement distributions required by state statute.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Narcotics Investigation
+- 8 565,820 110-4510069-30101  Beginning Fund Balance 359,624 359,624 359,624
+- - - 110-4510069-30104  Fund Bal State Civil Forfeit - - -
+- - - 110-4510069-30106  Fund Bal Fed Civil Justice - - -
+2,177 - - 110-4510069-30107  Fund Bal State Judge Forfeit - - -
+- 116,557 150,000 110-4510069-35005  Narcotics Forfeiture - - -
+- 74,865 - 110-4510069-35014  State Civil Forfeiture - - -
+- - - 110-4510069-35016  State Judgment Forfeitur
+e - - -
+- 175,705 - 110-4510069-35018  Fed Forfeit Justice Civil - - -
+- 685,883 - 110-4510069-36299  Miscellaneous - Other Revenue - - -
+2,177 1,053,018 715,820 Total Revenue 359,624 359,624 359,624
+- - - - Total For Personnel - - - -
+- 441 - 110-4510069-51001  Central Supplies - - -
+- 56,257 1,373 110-4510069-54301  Small Equipment Purchases 3,000 3,000 3,000
+- 56,698 1,373 Total For Materials & Services 3,000 3,000 3,000
+- 35,561 61,810 110-4510069-61001  Professional Services 97,098 97,098 97,098
+15 - - 110-4510069-61
+101  Audit 180 180 180
+- - 700 110-4510069-61202  Schools And Confer
+ences 1,000 1,000 1,000
+275 420 5,000 110-4510069-62001  T
+elephone - - -
+579 18,982 4,540 110-4510069-68307  Softwar
+e Lic and Maint Fees 50,000 50,000 50,000
+- - - 110-4510069-69505  Investigation 1,000 1,000 1,000
+- 11,220 225,035 110-4510069-69901  Other Expense 195,346 - -
+- - _ Repay Patrol for Detective Salaries _ _ _
+869 66,183 297,085 Total For Contracted Services 344,624 149,278 149,278
+- 9,670 7,000 110-4510069-78005  T
+rans Out For Motor Pool 7,000 7,000 7,000
+1,300 5,000 5,000 110-4510069-78018  T
+rans Out For Internal Expense - - -
+- - _ - _ _ _
+- - - 110-4510069-78026  T
+rans Out For Narcotics Investigations 5,000 200,346 200,346
+1,300 14,670 12,000 Total For T
+ransfer Outs Reciprocal 12,000 207,346 207,346
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- 124,639 - 110-4510069-80202  V
+ehicle & Equipment Replace - - -
+- 124,639 - Total For Capital - - -
+- - 405,362 110-4510069-99001  Ending Fund Balance - - -
+- - 405,362 Total For Balances - - -
+2,169 262,190 715,820 - Total Expenses Sheriff - Nar
+cotics Investigation - 359,624 359,624 359,624
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Sheriff – Radio System
+110-4510163 Sheriff – Radio System: Represents funding associated with the maintenance and support of the public safety radio system built in 2009, which went live in 2010.
+This system serves most public safety agencies throughout Yamhill County, including sixteen law enforcement, fire, and emergency medical services (EMS) public safety member
+organizations. The tower locations are also utilized by select utility and neighboring governmental agencies under system usage agreements. Funding presently comes from an
+annual transfer of user-paid dues from Yamhill Communications (YCOM) and radio tower site rentals. There are no General Fund dollars allocated to this account.
+In fiscal year 2025-2026, the RFP process is expected to be completed and, as part of the RFP process, there will be a concurrent review of agencies that currently pay dues to
+YCOM in comparison with organizations that utilize the service, either as a user or subscriber, to ensure all parties are at the appropriate levels of service.
+The Sheriff's Office applied for a Community Improvement Project (CIP) grant in fiscal year 2025-2026, soliciting funds for fiscal year 2026-2027 to support the remainder of the
+upgrade begun in fiscal year 2024-2025 utilizing a one-time allocation of ARPA funds but has not initially budgeted for the awarding of those funds, given the uncertainty.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Radio System
+201,330 334,308 484,696 110-4510163-30101  Beginning Fund Balance 359,196 359,196 359,196
+500,000 450,000 450,000 110-4510163-30102  Fund Balance Reserved - - -
+325,000 325,000 325,000 110-4510163-33607  YCOM Payment For Radio T
+owers 325,000 325,000 325,000
+22,275 45,623 31,583 110-4510163-36209  Site Revenue 37,515 37,515 37,515
+1,048,605 1,154,931 1,291,279 Total Revenue 721,711 721,711 721,711
+- - 33,925 0.2000 110-4510163-40014  Elected County Sheriff 0.2000 33,925 33,925 33,925
+25,765 257 - - 110-4510163-40109  Lieutenant - - - -
+- - - 110-4510163-47500  Longevity Pay 679 679 679
+2,468 26 3,393 110-4510163-48500  Certification/Education 3,393 3,393 3,393
+409 4 541 110-4510163-49001  Medicar
+e Tax 551 551 551
+1,750 18 2,314 110-4510163-49100  Social Security 2,356 2,356 2,356
+5,835 339 11,192 110-4510163-49210  Retir
+ement 11,395 11,395 11,395
+- - 5,634 110-4510163-49310  Medical Insurance 5,945 5,945 5,945
+115 1 135 110-4510163-4931
+1  Paid Leave Oregon 148 148 148
+5 - 6 110-4510163-49312  Employee Assistance Pr
+ogram 6 6 6
+- - 240 110-4510163-49315  VEBA 240 240 240
+- - 65 110-4510163-49332  Long T
+erm Disability 65 65 65
+- - 9 110-4510163-49340  Life Insurance 9 9 9
+722 9 1,350 110-4510163-49400  Accident Insurance 1,512 1,512 1,512
+28 - - 110-4510163-49480  T
+ime Loss Reserve - - -
+28 - 34 110-4510163-49500  Unemployment 34 34 34
+5 - - 110-4510163-49600  W
+orkers Comp Assessment 5 5 5
+37,130 655 58,838 0.2000 Total For Personnel 0.2000 60,263 60,263 60,263
+- - 5,000 110-4510163-51306  Softwar
+e - - -
+7,600 - 30,000 110-4510163-54301  Small Equipment Pur
+chases 30,000 30,000 30,000
+7,600 - 35,000 Total For Materials & Services 30,000 30,000 30,000
+29,399 4,870 25,000 110-4510163-61001  Pr
+ofessional Services 40,000 40,000 40,000
+128 173 191 110-4510163-61
+101  Audit 140 140 140
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+145,434 155,400 160,000 110-4510163-61
+102  Contract Services 165,000 165,000 165,000
+20,377 31,243 25,000 110-4510163-65204  Site Oper Costs 25,000 25,000 25,000
+- - 10,000 110-4510163-68307  Softwar
+e Lic and Maint Fees - - -
+195,338 191,686 220,191 Total For Contracted Services 230,140 230,140 230,140
+24,230 55,763 977,250 110-4510163-80123  Capital Communication Equipmnt 401,308 401,308 401,308
+24,230 55,763 977,250 Total For Capital 401,308 401,308 401,308
+264,298 248,104 1,291,279 0.2000 Total Expenses Sheriff - Radio System 0.2000 721,711 721,711 721,711
+For Fis
+cal Year Ending June 30, 2027
+Sheriff – Jail
+110-4515041 Sheriff – Jail: Provides continuous 24-hour operation for the booking and safe incarceration services of all received and committed adults in custody from law
+enforcement agencies in the County with a total of 35.0 FTE. Also provided are medium- and maximum-security housing for individuals awaiting trial and those sentenced by state
+courts to periods of incarceration up to one year. In coordination with Campus Courthouse Security (110-4515086), provides transport services to other facilities and to the courts.
+This budget receives funding on a reimbursement protocol basis from the State of Oregon per Measure 73 (Repeat felony sex offenders and repeat DUII), Community Corrections
+transfer fees, and bed rental revenue from Washington County Sheriff’s Office and the United States Marshals Service, as well as General Fund dollars and program-specific grant
+fund dollar through the Oregon Criminal Justice Commission.
+Facility services include security, janitorial and laundry services, mental health and substance abuse counseling, basic adult education, and law library services in addition to the
+following programs and services:
+Administration: Provides management and administrative support for direct services programs; coordination, facilitation, and documentation of training for the purposes of
+certification, re-certification, and new legislative/best practices approaches; ensures compliance with Oregon Jail Standards; responsible for all media relations and strategic
+communication; performs recruitment, hiring, and retention functions specific to the Office; houses the Professional Standards unit; and provides accounting and payroll functions
+specific to the Office with 4.3 FTE.
+Contracted Bed Rental Services: Provides contracted bed rental services to Washington County Sheriff’s Office and United States Marshals Service. Such contracts are established
+on a year-to-year basis and have no degree of certainty or continuity in being requested.
+Facility Operations: Processes the booking (intake) and release of adults in custody, provides for the transportation of adults in custody to and from court as well as other
+correctional facilities; provides facility security and 24-7-365 indirect supervision of the 261-bed facility with a total of 2.0 FTE corporals and 21.0 FTE deputies assigned to one
+of four facility operations teams, supervised by a Corrections sergeant (2.0 FTE). This includes 2.0 FTE deputies funded through a transfer from Community Corrections under the
+Oregon Senate Bill 1145 funding.
+Food Services: Provides meal and commissary services for adults in custody and juveniles in custody. Services are provided by a private food services firm, awarded under a
+competitive RFP process, and includes a negotiated increase based on both services and food costs annually. Juvenile foods services are partially funded through reimbursement
+protocol with the Oregon Department of Education’s USDA National School Lunch and School Breakfast Programs and a transfer from Juvenile Detention.
+Medical Services: Provides health care consistent with standards of the community and the National Commission on Correctional Health Care. Since FY1718, these services have
+been provided via contracted services provided by private health care firm, awarded under a competitive RFP process, and includes a negotiated increase based on both services
+and anticipated population. The Jail-based Medications for Opioid Use Disorder (JMOUD) program is grant-funded through fiscal year 2026-2027. Juvenile medical services are
+funded through reimbursement protocol transfer from Juvenile Detention.
+Mental Health Services: Under a combination of permanent general fund reallocation (effective FY1718) and annual internal transfer to HHS, mental health counseling services
+are provided by County HHS practitioners to adults in custody. The permanent reallocation and annual transfer provide for behavioral health staff who are utilized for post-booking
+in-jail diversion services, court coordination, and on-site corrections behavioral health services including crisis response, mental health treatment, court liaison coordination, and
+medical coordination with HHS LMP and Medical Services.
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Records: Provides support to Corrections Division through the collection, processing, and distribution of correctional facility and court documents; processing adult in custody bail
+and commissary funds at release; maintenance and management of warrants issued by the courts and maintaining data and records for submission to state and federal agencies with
+5.9 FTE and 0.5 FTE manager.
+Fiscal year 2025-2026 General Fund dollars allocation increased $760,635 (10.83%) and fiscal year 2026-2027 General Fund initial allocation decreased $400,000 (5.1%) to offset
+a budget shortfall in the Sheriff - Patrol budget.
+Revenues are projected to have increased $693,862 (37.4%) in fiscal year 2026-2027 over fiscal year 2025-2026 actuals due to a new Oregon Criminal Justice Commission grant
+for the Jail-based Medications for Opioid Use Disorder (JMOUD) Program and higher than anticipated United States Marshals Service and Washington County Sheriff's Office
+bed rental revenues. Fiscal year 2026-2027 revenue earnings are forecasted to increase $396,629 (13.4%) above projected fiscal year 2025-2026 figures as a result of the larger
+Beginning Balance from the unanticipated revenue in fiscal year 2025-2026.
+Expenditures are projected to have increased $1,200,577 (14.5%) in fiscal year 2026-2027 over fiscal year 2025-2026 actuals due to contracted salary increases under the
+collective bargaining agreement, PERS and medical insurance increases, as well food and medical services for individuals in custody. Fiscal year 2026-2027 expenditures are
+initially budgeted to increase $1,375,118 (14.7%) over adopted fiscal year 2025-2026 figures due to contracted salary increases under the collective bargaining agreement,
+projected increases associated with the new collective bargaining unit pursuant to HB4115, PERS and medical insurance increases, as well food and medical services for
+individuals in custody.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Jail
+449,583 611,865 342,459 110-4515041-30101  Beginning Fund Balance 1,274,883 1,274,883 1,274,883
+3,200 7,000 4,800 110-4515041-33221  Social Security Incentive 4,800 4,800 4,800
+- - 10,000 110-4515041-33222  Alien Assistance - - -
+22,368 27,193 25,500 110-4515041-33478  USDA Food Program 20,000 20,000 20,000
+- 267,048 - 110-4515041-33499  Other State Grants 512,980 112,980 112,980
+- - _ - _ _ _
+525,745 866,075 720,217 110-4515041-34202  Room and Board 1,080,000 1,080,000 1,080,000
+53,245 55,254 40,000 110-4515041-35006  Court Corr
+ec Assessments 40,000 40,000 40,000
+224 - 250 110-4515041-36211  Copies - - -
+896 19,608 500 110-4515041-36212  Reimbursement 500 500 500
+-60 - - 110-4515041-36299  Miscellaneous - Other Revenue - - -
+1,525 - 2,000 110-4515041-38002  T
+rans In For Dist Attorney - - -
+- - _ - _ _ _
+76,900 77,635 100,000 110-4515041-38031  Trans In From Juvenile - - -
+- - _ - _ _ _
+- - - 110-4515041-38032  Trans In For Jail Food and Medical 105,000 105,000 105,000
+- - 330,819 110-4515041-38063  T
+rans In From Community Justice 313,500 313,500 313,500
+- - _ SB 1145 _ _ _
+1,133,625 1,931,678 1,576,545 Total Revenue 3,351,663 2,951,663 2,951,663
+75,293 79,665 50,888 0.3000 110-4515041-40014  Elected County Sheriff 0.3000 50,888 50,888 50,888
+44,571 387,975 490,707 4.0000 110-4515041-40108  Sergeant 3.0000 367,331 367,331 367,331
+62,996 65,406 66,364 0.5000 110-4515041-40109  Lieutenant 0.5000 68,023 68,023 68,023
+74,142 77,820 79,063 0.5000 110-4515041-401
+10  Undersheriff 0.5000 75,044 75,044 75,044
+336,493 - - - 110-4515041-401
+14  Corrections Sgt - - - -
+110,285 129,818 140,280 1.0000 110-4515041-40127  Captain 1.0000 150,088 150,088 150,088
+37,039 38,370 39,128 0.5000 110-4515041-40142  Executive Office Specialist 0.5000 40,109 40,109 40,109
+52,412 53,533 54,567 0.5000 110-4515041-40155  Pr
+ogram Manager 4 0.5000 55,933 55,933 55,933
+36,001 36,839 37,578 0.5000 110-4515041-40214  Senior Accounting Clerk 0.5000 38,520 38,520 38,520
+162,304 236,989 279,980 4.4000 110-4515041-40405  Records Clerk 5.9000 398,473 398,473 398,473
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,530,209 1,725,838 2,032,014 22.0000 110-4515041-40409  Corr
+ections Deputy 23.0000 2,242,753 2,242,753 2,242,753
+196,865 147,712 74,752 1.0000 110-4515041-40414  Senior Police Clerk - - - -
+12,616 16,675 22,151 110-4515041-47500  Longevity Pay 21,913 21,913 21,913
+114,168 -4,386 12,240 110-4515041-47900  Other Earnings 3,850 3,850 3,850
+71,428 79,529 82,644 110-4515041-48000  Extra Hours 120,000 120,000 120,000
+268,837 175,192 250,000 110-4515041-48100  Overtime 250,000 250,000 250,000
+- - - 110-4515041-48200  Extra Help 12,500 12,500 12,500
+145,118 158,362 198,279 110-4515041-48500  Certification/Education 212,197 212,197 212,197
+8,793 32,351 14,126 110-4515041-48600  Incentive Pay 51,120 51,120 51,120
+- 4,342 9,483 110-4515041-48800  Canine Officer Premium 10,207 10,207 10,207
+50,201 51,300 52,049 110-4515041-49001  Medicare Tax 54,847 54,847 54,847
+213,488 218,457 222,540 110-4515041-49100  Social Security 234,523 234,523 234,523
+837,460 873,302 1,054,184 110-4515041-49210  Retir
+ement 1,117,069 1,117,069 1,117,069
+665,030 744,242 815,616 110-4515041-49310  Medical Insurance 836,889 836,889 836,889
+13,712 14,094 13,382 110-4515041-49311  Paid Leave Oregon 15,126 15,126 15,126
+878 1,200 985 110-4515041-49312  Employee Assistance Pr
+ogram 1,143 1,143 1,143
+44,919 47,275 51,060 110-4515041-49315  VEBA 50,910 50,910 50,910
+10,128 10,172 11,238 110-4515041-49332  Long T
+erm Disability 11,399 11,399 11,399
+1,355 1,415 1,531 110-4515041-49340  Life Insurance 1,553 1,553 1,553
+74,842 102,233 114,285 110-4515041-49400  Accident Insurance 122,076 122,076 122,076
+3,379 - - 110-4515041-49480  T
+ime Loss Reserve - - -
+3,399 3,469 3,344 110-4515041-49500  Unemployment 3,489 3,489 3,489
+656 638 650 110-4515041-49600  W
+orkers Comp Assessment 915 915 915
+118,977 107,718 124,050 110-4515041-49900  FET/V
+acation/Sick 170,000 170,000 170,000
+5,377,991 5,617,545 6,399,158 35.2000 Total For Personnel 35.7000 6,788,888 6,788,888 6,788,888
+31,844 34,352 30,000 110-4515041-51001  Central Supplies 35,000 35,000 35,000
+1,477 585 1,500 110-4515041-51006  Medical Supplies 1,000 1,000 1,000
+- - - 110-4515041-51
+106  Training Supplies - - -
+4,682 8,921 5,000 110-4515041-51
+110  Department Supplies 10,000 10,000 10,000
+414,173 435,947 502,000 110-4515041-51
+126  Food/Kitchen Supplies 539,327 539,327 539,327
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+38 214 50 110-4515041-51
+199  Miscellaneous Supplies 50 50 50
+- 154 - 110-4515041-51303  Publications & Dues - - -
+- 540 - 110-4515041-51306  Softwar
+e - - -
+21,123 32,159 27,500 110-4515041-51602  Uniforms 27,500 27,500 27,500
+7,665 4,695 6,000 110-4515041-54301  Small Equipment Purchases 66,103 66,103 66,103
+481,002 517,568 572,050 Total For Materials & Services 678,980 678,980 678,980
+1,582,239 1,850,662 2,043,684 110-4515041-61001  Professional Services 2,223,964 2,223,964 2,223,964
+4,613 4,876 5,363 110-4515041-61101  Audit 5,141 5,141 5,141
+28,055 - - 110-4515041-61102  Contract Services - - -
+866 1,536 - 110-4515041-61201  T
+raining And Development - - -
+11,385 7,998 15,000 110-4515041-61202  Schools And Confer
+ences 15,000 15,000 15,000
+3,131 3,558 4,000 110-4515041-62001  Telephone 4,000 4,000 4,000
+- 210 - 110-4515041-62101  Postage 300 300 300
+9,184 9,268 12,000 110-4515041-63001  Travel Expense 10,000 10,000 10,000
+61 - 200 110-4515041-64001  Advertising - - -
+605 793 1,000 110-4515041-67002  Heat/Lights/W
+ater 1,500 1,500 1,500
+- - 1,000 110-4515041-68004  Radio Repair 1,000 1,000 1,000
+11,212 13,765 15,000 110-4515041-68301  Copy Machines/Maint 15,000 15,000 15,000
+93,143 113,238 112,000 110-4515041-68307  Softwar
+e Lic and Maint Fees 200,000 200,000 200,000
+2,103 1,955 2,100 110-4515041-69101  Assoc Memberships 2,000 2,000 2,000
+473 1,151 500 110-4515041-69220  Special Event Expenses 500 500 500
+200 - 500 110-4515041-69299  Miscellaneous Expenses 5,000 5,000 5,000
+- 2 - 110-4515041-69901  Other Expense 400,000 - -
+- - _ - _ _ _
+- 238 - 110-4515041-69918  Employee Recognition 1,000 1,000 1,000
+1,747,271 2,009,249 2,212,347 Total For Contracted Services 2,884,405 2,484,405 2,484,405
+13,017 13,734 13,884 110-4515041-78004  T
+rans Out For Telecomm Equip 17,858 17,858 17,858
+13,685 22,273 18,500 110-4515041-78005  T
+rans Out For Motor Pool 25,000 25,000 25,000
+12,989 14,242 14,028 110-4515041-78006  T
+rans Out For Computer Replace 13,242 13,242 13,242
+- 22 - 110-4515041-78017  T
+rans Out For Postage Charges 50 50 50
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - - 110-4515041-78022  T
+rans Out For ABH Services 80,000 80,000 80,000
+1,989 1,909 2,279 110-4515041-78054  Trans Out For Telecomm Calls - - -
+41,681 52,180 48,691 Total For T
+ransfer Outs Reciprocal 136,150 136,150 136,150
+65,044 65,044 65,044 110-4515041-78152  Trans Out - HHS - - -
+65,044 65,044 65,044 Total For T
+ransfer Outs - - -
+- - - 110-4515041-80080  Capital Department Equipment - - -
+- 175 - 110-4515041-82001  Miscellaneous Building Remodel - - -
+- 175 - Total For Capital - - -
+- - 61,052 110-4515041-99001  Ending Fund Balance 245,037 245,037 245,037
+- - 61,052 Total For Balances 245,037 245,037 245,037
+7,712,988 8,261,762 9,358,342 35.2000 Total Expenses Sheriff - Jail 35.7000 10,733,460 10,333,460 10,333,460
+For Fis
+cal Year Ending June 30, 2027
+Sheriff – Campus Courthouse Security
+110-4515086 Sheriff – Campus Courthouse Security: Provides state-mandated security of the local state court facilities, to include courtrooms and offices; main county complex
+building security; adult in custody courtroom escorts; and inter-facility adult in custody transports with a total of 4.4 FTE (four full-time deputies and two part-time reserve
+deputies). Entry security services, provided via agreement with a contract-for-service provider, includes metal detectors, x-ray machines, and security staff. This budget receives
+funding from a portion of each court's assessments that are attached to fines as imposed by the municipal, justice, and courts, as well as County General Fund dollars.
+Revenues are estimated to increase $28,679 (57.4%) in fiscal year 2026-2027 due to a larger than anticipated Beginning Balance. Fiscal year 2026-2027 expenditures are
+anticipated to increase $24,800 (2.8%), which includes a decrease in Personnel of $13,570 (1.8%) due to changes in personnel and an increase in Materials & Services of $38,378
+(36.2%) due to the contract-for-service provider cost increases. Fiscal year 2026-2027's General Fund initial allocation is flat (0%).
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Campus Courthouse Security
+157,403 22,005 - 110-4515086-30101  Beginning Fund Balance 3,870 3,870 3,870
+48,687 51,366 50,000 110-4515086-35009  Court Security Assessment 50,000 50,000 50,000
+- 1,844 - 110-4515086-36212  Reimbursement - - -
+206,090 75,215 50,000 Total Revenue 53,870 53,870 53,870
+- 30,011 - - 110-4515086-40403  Reserve Deputy 0.4000 27,069 27,069 27,069
+374,616 357,030 390,985 4.0000 110-4515086-40409  Corrections Deputy 4.0000 402,327 402,327 402,327
+31,261 - - - 110-4515086-40418  Court Security Reserve Deputy - - - -
+3,591 5,144 6,130 110-4515086-47500  Longevity Pay 8,902 8,902 8,902
+19,348 -1,343 - 110-4515086-47900  Other Earnings 350 350 350
+1,586 3,807 2,200 110-4515086-48000  Extra Hours 2,200 2,200 2,200
+9,296 11,771 13,000 110-4515086-48100  Overtime 13,000 13,000 13,000
+- - 61,632 110-4515086-48200  Extra Help - - -
+16,746 11,484 15,312 110-4515086-48500  Certification/Education 22,044 22,044 22,044
+- 350 - 110-4515086-48600  Incentive Pay 5,237 5,237 5,237
+6,821 6,190 5,980 110-4515086-49001  Medicar
+e Tax 6,750 6,750 6,750
+29,164 26,467 25,571 110-4515086-49100  Social Security 28,865 28,865 28,865
+121,482 11
+1,776 124,118 110-4515086-49210  Retir
+ement 139,423 139,423 139,423
+78,449 76,119 88,280 110-4515086-49310  Medical Insurance 89,088 89,088 89,088
+1,915 1,707 1,564 110-4515086-4931
+1  Paid Leave Oregon 1,863 1,863 1,863
+102 144 112 110-4515086-49312  Employee Assistance Pr
+ogram 140 140 140
+5,999 5,500 6,000 110-4515086-49315  VEBA 6,000 6,000 6,000
+1,265 1,134 1,292 110-4515086-49332  Long T
+erm Disability 1,292 1,292 1,292
+173 158 176 110-4515086-49340  Life Insurance 176 176 176
+11,757 14,306 15,561 110-4515086-49400  Accident Insurance 18,530 18,530 18,530
+462 - - 110-4515086-49480  T
+ime Loss Reserve - - -
+471 429 391 110-4515086-49500  Unemployment 430 430 430
+87 76 92 110-4515086-49600  W
+orkers Comp Assessment 101 101 101
+9,074 11,176 15,000 110-4515086-49900  FET/V
+acation/Sick 20,000 20,000 20,000
+723,666 673,436 773,396 4.0000 Total For Personnel 4.4000 793,787 793,787 793,787
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+183 64 500 110-4515086-51001  Central Supplies 500 500 500
+175 - 200 110-4515086-51110  Department Supplies 200 200 200
+107 1,221 500 110-4515086-51602  Uniforms 500 500 500
+159 - - 110-4515086-54301  Small Equipment Pur
+chases - - -
+624 1,284 1,200 Total For Materials & Services 1,200 1,200 1,200
+96 144 100 110-4515086-61001  Pr
+ofessional Services 200 200 200
+442 520 572 110-4515086-61101  Audit 519 519 519
+83,196 109,186 95,042 110-4515086-61102  Contract Services 79,375 137,655 137,655
+2,424 2,741 3,000 110-4515086-62001  Telephone 2,500 2,500 2,500
+- 34 - 110-4515086-63001  T
+ravel Expense - - -
+86,158 112,625 98,714 Total For Contracted Services 82,594 140,874 140,874
+3,243 3,243 3,428 110-4515086-78001  T
+rans Out For Building Reserve 3,291 3,291 3,291
+864 768 768 110-4515086-78004  T
+rans Out For Telecomm Equip 926 926 926
+1,572 1,572 1,965 110-4515086-78006  Trans Out For Computer Replace 1,572 1,572 1,572
+19 43 29 110-4515086-78054  T
+rans Out For Telecomm Calls - - -
+5,698 5,626 6,190 Total For Transfer Outs Reciprocal 5,789 5,789 5,789
+816,146 792,971 879,500 4.0000 Total Expenses Sheriff - Campus Courthouse Security 4.4000 883,370 941,650 941,650
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Parks
+110-5010081 Parks: Yamhill County Parks provide a wide variety of benefits and opportunity to the citizens of Yamhill County. This impact can be observed within economic
+stimulation, improved health and wellness through outdoor recreation, and an increased quality of life. According to the National Recreation and Parks Association (NRPA), 83%
+of Americans personally benefit from local parks. Yamhill County Parks offer affordable access to a wide variety of outdoor recreational opportunities at its 18 parks and natural
+areas that incorporate over 272 acres of parkland and open space. Yamhill County Parks Division’s mission is to manage, preserve, and restore these unique natural, cultural, and
+historic places for people to enjoy outdoor recreation and educational activities.
+Yamhill County Parks provide some of the most popular motorized and non-motorized launch points for boaters on the Willamette River. The most popular of these being Roger’s
+Landing County Park. Roger’s Landing is enjoyed by over 44,000 visitors annually and hosts the annual, Memorial Day Weekend Boat Races, which has been held for over 73
+years as of 2025. A staple of the community, this event attracts 500 to 1,000 participants and spectators each year and provides a noteworthy economic stimulus to the City of
+Newberg and Yamhill County. Roger's Landing is the second most popular boat launch site on the Willamette River, with an estimate of more than 8,000 boat launches/retrievals
+each year. The implementation of a launch fee program has helped to offset the facility’s maintenance and operations costs. Furthermore, Yamhill County works in close
+partnership with the Oregon State Marine Board for various grants to support upkeep of this readily used park.
+County parks further stimulate local economies through local spending. A large percentage of visitors are from neighboring communities and boost local economies through
+increased spending at sportsman and recreation retailers. During their visit, many parkgoers visit retail shops, grocery stores, gas stations, and various dining locations. The US
+Census Bureau reports local park agencies generated more than $166 billion in economic activity in 2017 and supported more than 1.1 million jobs.
+Historically, the Yamhill County work crews have provided more than 6,000 hours of labor annually to the Yamhill County Parks with limited costs. Sadly, over the years, with
+various legislative changes and amid COVID, we have seen our work crews dimmish significantly in size while our Parks' needs have grown.  As a result, Yamhill County has
+elected to make an organizational change as of the 2022-23 fiscal year to move the Parks Division from under Yamhill County Department of Community Justice (YCDCJ) to the
+Public Works Division.  The Community Service Program will continue to be maintained under YCDCJ in partnership with Sheriff Elliot.
+Yamhill County Parks strive to practice exemplary stewardship. Yamhill County Parks is a division comprised of 3 full-time employees (FTE), 1 Division Manager and 2 Park
+Maintenance Specialists.  In the summer months, 1 seasonal part-time park intern is hired to assist with park maintenance.  The Division Manager assists with park planning,
+managing improvement projects, directing maintenance activities, conducting public outreach activities, and developing park policies. Maintenance is conducted by the Park
+Maintenance Specialists, contracted work, Park Intern, and volunteers when available.
+The Parks Division Manager also staffs the Yamhill County Parks and Recreational Advisory Board, comprised of volunteers appointed by the Board of Commissioners, who
+serve as the primary advisory body to the Commissioners on topics and subject matter directly related to the County Parks system.  The Parks budget is supported by County
+allocation, grants, usage fees and public donation.
+Yamhill County Parks include many valued parks such as Roger’s Landing mentioned earlier. Charles Metsker Park continues to be a very popular destination in supporting forest
+education activities for county citizens throughout the year.  Ed Grenfell Park is one of the most popular parks for weddings, family gatherings, and small events and now includes
+a dog park. The Parks Quest program is a popular family scavenger hunt held each summer throughout all Yamhill County Parks.
+In the next fiscal year, the Parks Division plans to focus on future Park projects, seeking grant funding to pursue planning for future development of Charles Metsker Park and the
+Whiteson property. The Yamhill County Parks Division continues to seek new and increased revenue to not only sustain maintenance levels but continue to improve the quality of
+the parks within the system. To learn more about Yamhill County Parks, visit our website: https://www.yamhillcounty.gov/302/Parks
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+PW Parks
+172,631 156,649 45,000 110-5010081-30101  Beginning Fund Balance 1,634 1,634 1,634
+2,000 2,000 2,000 110-5010081-30102  Fund Balance Reserved 2,000 2,000 2,000
+- - _ Wrex Cruse Park _ _ _
+30,950 - 30,950 110-5010081-33405  Marine Board - - -
+- - 100,000 110-5010081-33499  Other State Grants 100,000 100,000 100,000
+100,611 88,468 101,000 110-5010081-33508  State Parks 100,000 100,000 100,000
+2,000 1,735 1,000 110-5010081-34710  Park Fees 300 300 300
+21,576 21,297 25,000 110-5010081-34714  Roger's Landing Park Fees 25,000 25,000 25,000
+1,200 - - 110-5010081-36203  Donations - - -
+- 917 - 110-5010081-36212  Reimbursement - - -
+20,000 20,000 60,000 110-5010081-38006  Trans In Of Video Lottery 60,000 80,000 80,000
+350,968 291,066 364,950 Total Revenue 288,934 308,934 308,934
+6,563 6,843 7,053 0.0500 110-5010081-40101  Director 0.0500 7,054 7,054 7,054
+68,249 82,943 89,269 0.9000 110-5010081-40134  Division Manager 0.9000 88,275 88,275 88,275
+36,613 - - - 110-5010081-40325  Community Services Supervisor - - - -
+6,280 11,895 - - 110-5010081-40501  Laborer 1 - - - -
+47,982 113,982 124,100 2.0000 110-5010081-40510  Parks Maintenance Specialist 2.0000 59,510 119,020 119,020
+1,255 1,263 1,756 110-5010081-47500  Longevity Pay 71 71 71
+2,831 3,474 4,000 110-5010081-47750  Out Of Class Pay - - -
+1,668 - - 110-5010081-47900  Other Earnings 343 343 343
+150 150 - 110-5010081-48100  Overtime 1,500 1,500 1,500
+- - 19,000 110-5010081-48200  Extra Help - - -
+- - - 110-5010081-48400  Beeper Pay - - -
+27 342 - 110-5010081-48600  Incentive Pay - - -
+2,518 3,256 3,274 110-5010081-49001  Medicar
+e Tax 2,246 3,109 3,109
+10,765 13,922 14,005 110-5010081-49100  Social Security 9,605 13,295 13,295
+36,235 39,325 56,695 110-5010081-49210  Retir
+ement 38,995 53,837 53,837
+46,038 62,193 75,411 110-5010081-49310  Medical Insurance 62,573 94,662 94,662
+708 898 882 110-5010081-4931
+1  Paid Leave Oregon 619 857 857
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+76 106 82 110-5010081-49312  Employee Assistance Pr
+ogram 63 95 95
+3,355 4,411 4,425 110-5010081-49315  VEBA 2,925 4,425 4,425
+2,481 4,057 4,203 110-5010081-49320  Dental Insurance Expense 2,862 4,330 4,330
+304 397 422 110-5010081-49325  V
+ision Insurance 267 404 404
+671 868 1,026 110-5010081-49331  Short Term Disability 678 1,026 1,026
+55 74 130 110-5010081-49340  Life Insurance 56 85 85
+2,674 4,546 4,845 110-5010081-49400  Accident Insurance 2,040 3,867 3,867
+172 - - 110-5010081-49480  T
+ime Loss Reserve - - -
+173 227 220 110-5010081-49500  Unemployment 155 215 215
+49 60 68 110-5010081-49600  Workers Comp Assessment 63 63 63
+3,196 5,254 5,250 110-5010081-49900  FET/Vacation/Sick 5,000 5,000 5,000
+281,086 360,488 416,116 2.9500 Total For Personnel 2.9500 284,900 401,533 401,533
+308 186 1,000 110-5010081-51001  Central Supplies 500 500 500
+13,094 11,011 25,000 110-5010081-51107  Park Supplies 30,000 30,000 30,000
+- 4 - 110-5010081-51
+199  Miscellaneous Supplies 3 3 3
+1,103 1,670 1,350 110-5010081-51602  Uniforms 900 900 900
+- - - 110-5010081-54203  Boot and Clothing Allowance - - -
+- 120 120 110-5010081-54204  CDL T
+raining and Physicals 120 120 120
+1,733 - 2,000 110-5010081-54301  Small Equipment Pur
+chases - 5,000 5,000
+16,238 12,990 29,470 Total For Materials & Services 31,523 36,523 36,523
+- - - 110-5010081-61001  Pr
+ofessional Services - 5,000 5,000
+217 239 263 110-5010081-61
+101  Audit 309 309 309
+17,830 24,211 32,216 110-5010081-61
+102  Contract Services 38,000 45,000 45,000
+195 195 1,000 110-5010081-61201  T
+raining And Development 1,000 1,000 1,000
+2,022 1,970 2,100 110-5010081-62001  T
+elephone 1,800 1,800 1,800
+122 492 - 110-5010081-62101  Postage 50 50 50
+516 425 500 110-5010081-64001  Advertising - - -
+12,745 12,431 12,000 110-5010081-67002  Heat/Lights/W
+ater 14,000 14,000 14,000
+166 116 125 110-5010081-68301  Copy Machines/Maint 125 125 125
+- 150 - 110-5010081-68307  Softwar
+e Lic and Maint Fees - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+900 989 850 110-5010081-68310  Building Maintenance 900 900 900
+250 - 300 110-5010081-69101  Assoc Memberships 300 300 300
+945 15 2,000 110-5010081-69210  Park Events - - -
+5,425 5,615 6,000 110-5010081-69908  Bank Service Charge 6,000 6,000 6,000
+- - 100,000 110-5010081-69913  Other State Grants Expense 100,000 100,000 100,000
+41,335 46,848 157,354 Total For Contracted Services 162,484 174,484 174,484
+- - 50 110-5010081-73010  Permits & Fees 50 50 50
+- - 50 Total For Other Expenses 50 50 50
+792 792 792 110-5010081-78004  Trans Out For Telecomm Equip 971 971 971
+28,923 41,176 30,000 110-5010081-78005  Trans Out For Motor Pool 45,000 45,000 45,000
+1,623 1,179 1,623 110-5010081-78006  Trans Out For Computer Replace 1,008 1,008 1,008
+8 - - 110-5010081-78017  T
+rans Out For Postage Charges - - -
+610 2,883 5,000 110-5010081-78044  T
+rans Out For PEL Reserves - - -
+45 58 73 110-5010081-78054  Trans Out For Telecomm Calls - - -
+32,001 46,088 37,488 Total For T
+ransfer Outs Reciprocal 46,979 46,979 46,979
+- - - 110-5010081-80202  Vehicle & Equipment Replace 10,000 10,000 10,000
+- 2,136 11,122 110-5010081-83010  Capital Impr
+ovements 39,648 54,715 54,715
+- - _ - _ _ _
+- 2,136 11,122 Total For Capital 49,648 64,715 64,715
+- - 2,000 110-5010081-99003  Reserve For Futur
+e 2,000 2,000 2,000
+- - 2,000 Total For Balances 2,000 2,000 2,000
+370,659 468,550 653,600 2.9500 Total Expenses PW Parks 2.9500 577,584 726,284 726,284
+Proposed Budget For Fiscal Year Ending June 30, 2027
+Juvenile Probation
+110-6515074 Juvenile Probation:
+The mission of the Juvenile Probation Division is to respond to youth needs based on their areas of risk. This is primarily determined by the Juvenile Crime Prevention Risk
+Assessment tool (JCP), which is completed through youth interviews by probation staff on all Yamhill County Probation, Informal Supervision, and diversion cases. Juvenile
+probation staff utilize motivational interviewing techniques and cognitive restructuring to encourage youth to change criminal thinking and to promote positive long-term change.
+Staff coach youth using the Risk-Need-Responsivity Model, refer youth to the appropriate services and supervise youth by the risk that is determined through use of the JCP.
+The Yamhill County Juvenile Probation Division employs seven probation staff, one legal assistant, two support staff, one Deputy DA, one probation supervisor, one probation
+manager and a .25 FTE Business Manager and YCDCJ Director. The probation staff currently manage 142 youths on formal and informal supervision with 47 cases awaiting DA
+review. Additionally, there are 41 youth currently in the Yamhill County Prevention Program. In 2025, the Juvenile Division received 287 total referrals with 164 being criminal
+referrals. Of the 287 total referrals, there are 204 unique youth in this data set. These numbers are essentially static from 2023-2024 (also 281 total referrals).  Despite an increase,
+we have been able to divert more youth into our prevention program. This has allowed our probation staff to focus most of their efforts on the supervision of medium and high-risk
+youth, which is consistent with best practices and evidence-based supervision. We also worked with local law enforcement to begin to refer youths for cases that had been affected
+by Measure 110. Our goal in creating the new prevention program was to specifically include young people who have emerging substance use issues that had all been abandoned
+with the passing of Measure 110.  Although the 2025 reports are currently unpublished, based upon the date in our system, we believe we have made significant progress in
+working with substance using youth. It is also important to note that our office has also reduced commitments to the Oregon Youth Authority.
+The Juvenile Probation Division also operates a Juvenile Recovery Court (JRC) in collaboration with the Yamhill County Circuit Court. Eligible and enrolled youth spend
+approximately 8-12 months enrolled in JRC. These youth are supported by collaborating with substance abuse counselors, the assigned DDA, defense attorneys, family members,
+and the assigned JRC Judge.  In 2023, the division received specialty court grant funding for the treatment court via the Criminal Justice Commission (CJC).  Yamhill County JRC
+is one of just four Juvenile Recovery Courts in Oregon.  Our success rate of 55% in 2023 and 67% in 2024, according to the Oregon Judicial Department data, is the best of the
+four juvenile treatment courts in the state The numbers are unavailable for the 2025 success rates, but the program has continued to function at a high level in this past year.
+The Juvenile Probation Division works in collaboration with Juliette's House, Oregon Department of Human Services (ODHS) and Higher Ground Counseling to pilot the Healthy
+Understanding of Behavior and Boundaries (HUBB) which is designed to offer services to youth who do not rise to the level of criminal charges but have engaged in Problematic
+Sexual Behavior (PSB).  HUBB has been a multi-year project, but in 2024 it moved from a pilot project into a fully functioning program. The HUBB Program per HB 4086 is
+considered one of the two highly functioning programs in the state.
+The Juvenile Probation Division is funded by county general allocation as well as Oregon Youth Authority and Oregon Department of Education state funds that support our
+Yamhill County Prevention Program and probation supervision with the goal of keeping Yamhill County youth in this community by utilizing supportive treatment and effective,
+evidence-based supervision.  Our Juvenile Recovery Court is supported by a Criminal Justice Commission Specialty Treatment Court Grant.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Juvenile Probation
+276,803 276,746 432,214 110-6515074-30101  Beginning Fund Balance 552,915 552,915 552,915
+237,965 654,803 469,330 110-6515074-3341
+1  State Health Grant 433,058 433,058 433,058
+45,379 - - 110-6515074-341
+15  Discovery Fees 3,000 3,000 3,000
+5,580 - - 110-6515074-34202  Room and Board - - -
+-13 - - 110-6515074-34212  Bench Probation Fee - - -
+20 - - 110-6515074-34613  Local Contracts - - -
+- - - 110-6515074-36210  Restitution Receipts - - -
+-693 3,553 - 110-6515074-36212  Reimbursement - - -
+11 5,000 - 110-6515074-36299  Miscellaneous - Other Revenue - - -
+565,052 940,102 901,544 Total Revenue 988,973 988,973 988,973
+120,269 108,754 68,351 1.0000 110-6515074-40139  Legal Assistant 1.0000 68,102 68,102 68,102
+122,449 103,541 109,840 1.0000 110-6515074-40159  Juv Pr
+obation Manager 1.0000 109,367 109,367 109,367
+17,318 78,260 83,080 1.0000 110-6515074-40359  Juv Justice Supervisor 1.0000 90,046 90,046 90,046
+20,443 29,106 38,850 1.0000 110-6515074-40202  Office Specialist 2 1.0000 43,886 43,886 43,886
+- 3,994 45,285 1.0000 110-6515074-40203  Senior Office Specialist 1.0000 42,695 42,695 42,695
+22,712 - - - 110-6515074-40220  Office Specialist Technician - - - -
+49,400 101,150 113,994 2.0000 110-6515074-40330  Juvenile Pr
+obations Officer 1 2.0000 112,177 112,177 112,177
+276,575 274,576 379,892 5.2000 110-6515074-40331  Juvenile Pr
+obations Officer 2 5.2000 371,204 371,204 371,204
+106,826 84,147 122,584 1.0000 110-6515074-40349  Deputy District Attorney 2 1.0000 110,314 110,314 110,314
+10,759 9,896 5,706 110-6515074-47500  Longevity Pay 10,304 10,304 10,304
+3,848 2,865 3,500 110-6515074-47750  Out Of Class Pay 3,500 3,500 3,500
+6,439 1,200 - 110-6515074-47900  Other Earnings - - -
+1,281 1,534 2,000 110-6515074-48100  Overtime 2,000 2,000 2,000
+11,226 13,140 10,000 110-6515074-48400  Beeper Pay 13,000 13,000 13,000
+1,270 784 - 110-6515074-48450  On Call Pay - - -
+696 - - 110-6515074-48500  Certification/Education - - -
+6,502 6,934 8,645 110-6515074-48600  Incentive Pay 11,375 11,375 11,375
+11,169 11,788 14,210 110-6515074-49001  Medicar
+e Tax 14,112 14,112 14,112
+47,747 50,406 60,758 110-6515074-49100  Social Security 60,339 60,339 60,339
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+186,212 182,849 230,126 110-6515074-49210  Retir
+ement 254,206 254,206 254,206
+186,362 213,779 306,756 110-6515074-49310  Medical Insurance 420,431 420,431 420,431
+3,144 3,252 3,847 110-6515074-4931
+1  Paid Leave Oregon 3,894 3,894 3,894
+317 438 370 110-6515074-49312  Employee Assistance Pr
+ogram 422 422 422
+14,222 15,174 18,000 110-6515074-49315  VEBA 16,500 16,500 16,500
+12,071 13,877 17,100 110-6515074-49320  Dental Insurance Expense 19,084 19,084 19,084
+1,272 1,358 1,716 110-6515074-49325  Vision Insurance 1,507 1,507 1,507
+3,082 3,156 4,524 110-6515074-49331  Short T
+erm Disability 4,524 4,524 4,524
+264 273 572 110-6515074-49340  Life Insurance 377 377 377
+12,993 19,877 20,112 110-6515074-49400  Accident Insurance 28,111 28,11
+1 28,111
+764 - - 110-6515074-49480  Time Loss Reserve - - -
+783 822 961 110-6515074-49500  Unemployment 946 946 946
+187 191 285 110-6515074-49600  W
+orkers Comp Assessment 250 250 250
+3,948 614 10,000 110-6515074-49900  FET/V
+acation/Sick 10,000 10,000 10,000
+1,262,550 1,337,733 1,681,064 13.2000 Total For Personnel 13.2000 1,822,673 1,822,673 1,822,673
+10,267 9,966 13,000 110-6515074-51001  Central Supplies 15,000 15,000 15,000
+340 2,512 - 110-6515074-51199  Miscellaneous Supplies - - -
+6,197 9,867 10,000 110-6515074-51204  Laboratory Expense 10,000 10,000 10,000
+3,308 138 4,000 110-6515074-51303  Publications & Dues 5,000 5,000 5,000
+- 2,437 500 110-6515074-54301  Small Equipment Pur
+chases 5,000 5,000 5,000
+20,112 24,921 27,500 Total For Materials & Services 35,000 35,000 35,000
+172 202 - 110-6515074-61001  Pr
+ofessional Services 500 500 500
+945 924 1,016 110-6515074-61
+101  Audit 1,028 1,028 1,028
+22,277 32,168 20,000 110-6515074-61
+102  Contract Services 65,000 65,000 65,000
+32 - - 110-6515074-61
+113  Parole Services - - -
+- - - 110-6515074-61201  T
+raining And Development - - -
+6,711 1,898 10,000 110-6515074-61202  Schools And Confer
+ences 10,000 10,000 10,000
+- 373 500 110-6515074-61308  Restitution Payments 500 500 500
+4,846 7,059 6,500 110-6515074-62001  T
+elephone 5,000 5,000 5,000
+11,064 6,950 10,000 110-6515074-63001  T
+ravel Expense 10,000 10,000 10,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+38 - - 110-6515074-64001  Advertising - - -
+1,979 1,701 2,500 110-6515074-65001  Equipment Lease 2,500 2,500 2,500
+124 742 1,000 110-6515074-68301  Copy Machines/Maint 1,000 1,000 1,000
+958 450 - 110-6515074-68307  Softwar
+e Lic and Maint Fees - - -
+- 2,607 2,700 110-6515074-69101  Assoc Memberships 2,700 2,700 2,700
+- 16 - 110-6515074-69907  Wrap Services 100 100 100
+49,146 55,091 54,216 Total For Contracted Services 98,328 98,328 98,328
+- - 1,000 110-6515074-70002  Child Care Resources 500 500 500
+- - 1,000 Total For Other Expenses 500 500 500
+34,802 34,802 36,786 110-6515074-78001  Trans Out For Building Reserve 35,310 35,310 35,310
+6,938 6,652 7,032 110-6515074-78004  Trans Out For Telecomm Equip 8,278 8,278 8,278
+11,080 15,909 11,000 110-6515074-78005  T
+rans Out For Motor Pool 11,000 11,000 11,000
+8,781 9,766 9,174 110-6515074-78006  T
+rans Out For Computer Replace 6,714 6,714 6,714
+- - - 110-6515074-78024  Trans Out For Detention Admin Salary Reimbursement 58,785 58,785 58,785
+- 6,719 - 110-6515074-78052  T
+rans Out To HHS - - -
+914 600 960 110-6515074-78054  Trans Out For Telecomm Calls - - -
+62,514 74,447 64,952 Total For T
+ransfer Outs Reciprocal 120,087 120,087 120,087
+56,559 74,594 49,790 110-6515074-78168  T
+rans Out - Community Justice - - -
+56,559 74,594 49,790 Total For T
+ransfer Outs - - -
+- - 264,359 110-6515074-99001  Ending Fund Balance 153,722 153,722 153,722
+- - 264,359 Total For Balances 153,722 153,722 153,722
+1,450,881 1,566,786 2,142,881 13.2000 Total Expenses Juvenile Pr
+obation 13.2000 2,230,310 2,230,310 2,230,310
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Juvenile Detention
+110-6515077 Juvenile Detention:
+The Yamhill County Youth Services Center (YCYSC) operates a 24-bed detention facility which opened in 1996 and a Youth Community Service Program. In 2025, the detention
+facility had 254 youth admissions with an average daily population of 8.75 youth. The average length of stay for youth in detention was 12.14 days.  Annual bed rental revenue is
+received from a guaranteed 4-bed Polk County contract, 1-bed Tillamook County contract, 1-bed Clatsop County detention bed contracts as well as county general allocation
+funds.  As there are only 11 juvenile detention facilities available state-wide, those counties without such facilities often contract services with nearby jurisdictions.  Starting July
+1st, 2023, YCJCD increased the bed rental cost each fiscal year to account for the actual daily cost of housing youth (i.e., personnel, medical/food services, etc.), which has
+increased much needed revenues.
+YCYSC continues to collaborate with Health and Human Services, Family and Youth Division, to provide a half-time Mental Health Specialist to assist youth with mental health
+behaviors, drug and alcohol education/prevention, assessments and transitioning back into communities.  This position has benefited both detention staff, probation staff and the in-
+custody youth.
+The Community Service Program provides court and Juvenile PO directed youth an opportunity to engage in the restorative justice process through various work projects which
+can assist in paying restitution to victims.
+In the summer of 2025, the Learn 2 Earn Program was introduced; the Learn 2 Earn Program is a service learning, educational program provided to youth who are credit deficient
+in high school.  The Learn 2 Earn Program is a collaborative effort between YCYSC staff and Multnomah Education Service District (MESD) teaching staff, who is the detention
+facilities education provider.  During the summer of 2025, seven youth completed the program, each earning at least 3 credits (some earned more).  The youth summer projects
+included: tending/harvesting the garden, building planter boxes for a local senior care center, and career and technical education (CTE) such as woodworking and welding. For the
+2026 season, there has been some discussion to partner with Polk County to provide their youth with this amazing programming and educational opportunity as well.  Additionally,
+MESD just recently donated the Learn 2 Earn Program a forklift, which will provide future learning opportunities and employment skills for enrolled youth.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Juvenile Detention
+512,294 653,673 525,617 110-6515077-30101  Beginning Fund Balance 417,569 417,569 417,569
+4,418 94,526 48,585 110-6515077-3341
+1  State Health Grant 47,815 47,815 47,815
+598,298 732,044 488,370 110-6515077-34202  Room and Board 500,000 500,000 500,000
+3,926 830 2,500 110-6515077-34224  Juvenile Work Crew 2,500 2,500 2,500
+5,989 6,401 2,500 110-6515077-35006  Court Correc Assessments 2,500 2,500 2,500
+- 5,585 - 110-6515077-36212  Reimbursement - - -
+- 25,000 - 110-6515077-36299  Miscellaneous - Other Revenue - - -
+1,124,926 1,518,059 1,067,572 Total Revenue 970,384 970,384 970,384
+93,724 102,403 106,269 1.0000 110-6515077-40165  Juvenile Detention Manager 1.0000 106,286 106,286 106,286
+46,289 169,568 179,018 2.0000 110-6515077-40360  Juvenile Corr
+ections Supervisor 2.0000 182,479 182,479 182,479
+104,161 - - - 110-6515077-40359  Juv Justice Supervisor - - - -
+69,470 157,664 - - 110-6515077-40328  Juvenile Corr
+ections Technician - - - -
+742,107 788,488 833,402 13.0000 110-6515077-40329  Juvenile Corrections Specialist 13.0000 839,265 839,265 839,265
+13,937 14,652 15,000 110-6515077-47400  Shift Diff 15,000 15,000 15,000
+7,405 6,968 11,359 110-6515077-47500  Longevity Pay 9,394 9,394 9,394
+10,146 13,197 13,000 110-6515077-47750  Out Of Class Pay 15,000 15,000 15,000
+7,035 - - 110-6515077-47900  Other Earnings - - -
+580 44 1,500 110-6515077-48000  Extra Hours - - -
+10,530 17,982 17,000 110-6515077-48100  Overtime 17,000 17,000 17,000
+22,572 - 122,717 110-6515077-48200  Extra Help 125,000 125,000 125,000
+10,070 10,649 17,500 110-6515077-48400  Beeper Pay 12,500 12,500 12,500
+16,719 18,894 16,385 110-6515077-49001  Medicar
+e Tax 16,493 16,493 16,493
+71,488 80,786 70,063 110-6515077-49100  Social Security 70,520 70,520 70,520
+255,041 279,264 299,658 110-6515077-49210  Retir
+ement 300,535 300,535 300,535
+267,291 324,213 383,445 110-6515077-49310  Medical Insurance 481,335 481,335 481,335
+4,711 5,212 4,475 110-6515077-4931
+1  Paid Leave Oregon 4,549 4,549 4,549
+421 609 448 110-6515077-49312  Employee Assistance Pr
+ogram 512 512 512
+20,233 22,515 22,500 110-6515077-49315  VEBA 22,500 22,500 22,500
+14,989 15,637 21,375 110-6515077-49320  Dental Insurance Expense 22,020 22,020 22,020
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,834 2,014 2,145 110-6515077-49325  V
+ision Insurance 2,055 2,055 2,055
+3,981 4,111 4,872 110-6515077-49331  Short Term Disability 4,872 4,872 4,872
+364 407 704 110-6515077-49340  Life Insurance 479 479 479
+27,306 41,518 44,523 110-6515077-49400  Accident Insurance 41,690 41,690 41,690
+1,131 - - 110-6515077-49480  Time Loss Reserve - - -
+1,165 1,321 1,119 110-6515077-49500  Unemployment 1,127 1,127 1,127
+341 343 466 110-6515077-49600  Workers Comp Assessment 450 450 450
+29,600 39,040 28,000 110-6515077-49900  FET/V
+acation/Sick 25,000 25,000 25,000
+1,854,639 2,117,500 2,216,943 16.0000 Total For Personnel 16.0000 2,316,061 2,316,061 2,316,061
+27,229 30,358 35,000 110-6515077-51001  Central Supplies 30,000 30,000 30,000
+27 77 - 110-6515077-51
+106  Training Supplies - - -
+- 243 - 110-6515077-51109  Maintenance Supplies 500 500 500
+964 8,912 - 110-6515077-51
+199  Miscellaneous Supplies 1,500 1,500 1,500
+420 1,067 1,000 110-6515077-51206  Youth's Clothing 500 500 500
+4,296 2,632 3,000 110-6515077-51602  Uniforms 3,000 3,000 3,000
+8,141 12,879 10,000 110-6515077-54301  Small Equipment Pur
+chases 10,000 10,000 10,000
+41,078 56,168 49,000 Total For Materials & Services 45,500 45,500 45,500
+1,230 1,386 1,525 110-6515077-61
+101  Audit 1,777 1,777 1,777
+12,735 -4,030 15,000 110-6515077-61
+102  Contract Services 15,000 15,000 15,000
+6,445 1,455 10,000 110-6515077-61202  Schools And Confer
+ences 5,000 5,000 5,000
+978 15 5,000 110-6515077-61301  Medical T
+reatment 5,000 5,000 5,000
+60 1,484 2,500 110-6515077-61308  Restitution Payments 1,500 1,500 1,500
+2,834 2,769 2,000 110-6515077-62001  T
+elephone 2,000 2,000 2,000
+1,526 2,354 3,000 110-6515077-63001  T
+ravel Expense 3,500 3,500 3,500
+643 - 500 110-6515077-64001  Advertising 500 500 500
+1,034 2,354 2,500 110-6515077-65001  Equipment Lease 2,500 2,500 2,500
+413 529 500 110-6515077-67002  Heat/Lights/W
+ater 500 500 500
+32 16 500 110-6515077-68301  Copy Machines/Maint 500 500 500
+718 3,947 5,500 110-6515077-68307  Softwar
+e Lic and Maint Fees 10,000 10,000 10,000
+- 214 - 110-6515077-69101  Assoc Memberships - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+28,648 12,492 48,525 Total For Contracted Services 47,777 47,777 47,777
+48,274 48,274 51,026 110-6515077-78001  Trans Out For Building Reserve 48,979 48,979 48,979
+4,688 4,985 5,099 110-6515077-78004  T
+rans Out For Telecomm Equip 6,706 6,706 6,706
+9,641 6,162 13,000 110-6515077-78005  Trans Out For Motor Pool 9,000 9,000 9,000
+3,537 6,272 4,374 110-6515077-78006  T
+rans Out For Computer Replace 3,366 3,366 3,366
+76,900 77,635 100,000 110-6515077-78010  T
+rans Out To Jail Operations - - -
+- - _ - _ _ _
+- - - 110-6515077-78012  Trans Out For Jail Food and Medical 105,000 105,000 105,000
+- - - 110-6515077-78024  Trans Out For Detention Admin Salary Reimbursement 58,785 58,785 58,785
+762 1,532 1,550 110-6515077-78044  T
+rans Out For PEL Reserves 1,000 1,000 1,000
+74,209 66,112 85,535 110-6515077-78052  T
+rans Out To HHS - - -
+- - _ - _ _ _
+- - - 110-6515077-78053  T
+rans Out For CJ Mental Health Counseling 85,885 85,885 85,885
+1,049 890 1,199 110-6515077-78054  Trans Out For Telecomm Calls - - -
+219,062 211,861 261,783 Total For T
+ransfer Outs Reciprocal 318,721 318,721 318,721
+56,559 74,594 49,790 110-6515077-78168  Trans Out - Community Justice - - -
+- - _ - _ _ _
+56,559 74,594 49,790 Total For T
+ransfer Outs - - -
+- 228,138 - 110-6515077-80080  Capital Department Equipment - - -
+- 228,138 - Total For Capital - - -
+- - 276,227 110-6515077-99001  Ending Fund Balance 77,021 77,021 77,021
+- - 276,227 Total For Balances 77,021 77,021 77,021
+2,199,986 2,700,753 2,902,268 16.0000 Total Expenses Juvenile Detention 16.0000 2,805,080 2,805,080 2,805,080
+FUND 138
+LANDFILL LICENSE
+AGREEMENT RESERVE
+For Fis
+cal Year Ending June 30, 2027
+Landfill License Agreement
+138-1010056 Landfill License Agreement: This Fund holds a portion of the landfill tipping fee resources beyond what is needed for solid waste administration and closed landfill
+oversight.  These funds may be used for one-time projects, as approved by the Board of Commissioners. Due to the status of Riverbend Landfill, tipping fee revenues to this Fund
+ceased and the only revenues are investment earnings and interfund loan payments.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Landfill License Agreement
+584,511 649,882 465,651 138-1010056-30101  Beginning Fund Balance 407,964 407,964 407,964
+9,095 7,947 7,275 138-1010056-36101  Pool Investment Earnings 5,862 5,862 5,862
+16,949 15,495 13,556 138-1010056-36103  Bond Investment Earnings 11,469 11,469 11,469
+50,642 51,085 51,532 138-1010056-38019  Trans In For Interfd Loan Pri 51,984 51,984 51,984
+- - _ Year 10 of 10. Final Payof
+f December 2026. Loan to retire state
+loan. _ _ _
+1,796 1,353 906 138-1010056-38020  Trans In For Interfd Loan Int 455 455 455
+662,993 725,761 538,920 Total Revenue 477,734 477,734 477,734
+- - - - Total For Personnel - - - -
+- - - 138-1010056-61101  Audit 250 250 250
+13,000 - 538,605 138-1010056-69901  Other Expense 477,458 477,458 477,458
+13,000 - 538,605 Total For Contracted Services 477,708 477,708 477,708
+11
+1 1,136 315 138-1010056-78003  Trans Out For Admin Overhead 26 26 26
+111 1,136 315 Total For Transfer Outs Reciprocal 26 26 26
+- 375,000 - 138-1010056-81002  Building Purchase - - -
+- 375,000 - Total For Capital - - -
+13,11
+1 376,136 538,920 - Total Expenses Landfill License Agr
+eement - 477,734 477,734 477,734
+FUND 150
+O&C RESERVE
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+O&C Reserve
+150-1010052 O&C Reserve: Funding comes from Federal Forest payments, the future of which is uncertain.  The County has been saving a portion of the non-dedicated O&C
+funds as an emergency reserve or to fund future one-time projects, as approved by the Board of Commissioners.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+O&C Reserve
+702,183 769,831 673,946 150-1010052-30101  Beginning Fund Balance 39,198 39,198 39,198
+107,317 121,333 100,000 150-1010052-33201  O&C Funds 100,000 100,000 100,000
+10,276 10,687 8,220 150-1010052-36101  Pool Investment Earnings 7,883 7,883 7,883
+19,221 20,364 15,374 150-1010052-36103  Bond Investment Earnings 15,073 15,073 15,073
+- - - 150-1010052-38092  Trans In From Capital Fund 229,177 229,177 229,177
+838,997 922,215 797,540 Total Revenue 391,331 391,331 391,331
+- - - - Total For Personnel - - - -
+15 33 36 150-1010052-61101  Audit 309 309 309
+2,220 4,096 - 150-1010052-69101  Assoc Memberships 5,000 5,000 5,000
+784 - 606,527 150-1010052-69901  Other Expense 377,545 377,545 377,545
+3,019 4,129 606,563 Total For Contracted Services 382,854 382,854 382,854
+16,893 103,145 182,500 150-1010052-70027  Grants Awarded - - -
+- - _ - _ _ _
+16,893 103,145 182,500 Total For Other Expenses - - -
+3,977 3,977 3,977 150-1010052-78055  Trans Out For Legal Services 3,977 3,977 3,977
+3,977 3,977 3,977 Total For T
+ransfer Outs Reciprocal 3,977 3,977 3,977
+4,500 4,500 4,500 150-1010052-78166  Trans Out - Habitat Conserv 4,500 4,500 4,500
+4,500 4,500 4,500 Total For T
+ransfer Outs 4,500 4,500 4,500
+- 88,647 - 150-1010052-80123  Capital Communication Equipmnt - - -
+40,777 - - 150-1010052-80202  Vehicle & Equipment Replace - - -
+- 350,000 - 150-1010052-81002  Building Purchase - - -
+40,777 438,647 - Total For Capital - - -
+69,166 554,398 797,540 - Total Expenses O&C Reserve - 391,331 391,331 391,331
+FUND 211
+ROAD
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+PW Motor Vehicle
+211-5010029 PW Motor Vehicle: Administers and directs County shop, parts, grounds, motor pool, vehicle and equipment maintenance, procurement, and disposal operations.
+Engineering
+211-5010055 Engineering: This Fund is primarily funded by state-shared revenues from the gas tax, license/title fees, weight-mile fees, and Cove Orchard Sewer Service District.
+This division plans and directs the engineering projects; supervises the design, construction, analysis, and inspections of road and bridge projects.
+Road
+211-5010060 Road: This Fund is primarily funded by state-shared revenues from the gas tax, license/title fees, and weight-mile fees, 99% of which are constitutionally restricted
+to road construction and maintenance.  The Oregon constitution designates that 1% of these funds be spent on bicycle/pedestrian path projects within county rights-of-way (see
+Bicycle/Pedestrian Path Fund).  The Road Fund historically receives a share of the federal forest funds which are dedicated to roads, and a small portion is anticipated in this fiscal
+year.  Other sources of revenue include interest, project reimbursement, right-of-way permits and signage, and rent. The relative weight of these revenues is often skewed by the
+timing of projects.
+� More projects completed in one year means a lower beginning balance the next year.� Fewer projects completed in a given year means a bigger beginning
+balance the next year.� This can be impacted by whether Yamhill County has a dry or wet spring.
+Factoring out the beginning balance and the one-time funds, the total Road Fund revenues are budgeted as shown below, for a total of $11,166,437. The projected $9,652,132
+which is budgeted for state highway funds is 1.74% less than the actual 2025-26.
+State Highway Taxes $9,652,132 86.44%
+Federal Project Reimbursement $690,322 6.18%
+Fleet User Charges $710,983 6.37%
+Other (fees, rent, etc.) $113,000 1.01%
+Total $11,166,437
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Beginning Fund Balance - PW
+143,750 143,750 143,750 211-5010001-30101  Beginning Fund Balance 143,750 143,750 143,750
+- - _ Chehalem Drive and North Valley Road Intersection Reserve. Proportionate
+Share. _ _ _
+143,750 143,750 143,750 Total Revenue 143,750 143,750 143,750
+- - - - Total For Personnel - - - -
+- - 143,750 211-5010001-95001  Contingency 143,750 143,750 143,750
+- - 143,750 Total For Contingency 143,750 143,750 143,750
+- - 143,750 - Total Expenses Beginning Fund Balance - PW - 143,750 143,750 143,750
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+PW Motor Vehicle
+1,090,225 1,314,537 1,392,807 211-5010029-33507  State Hwy Funds 1,463,397 1,463,397 1,463,397
+- - _ 15.18% of State Highway Funds after allocation to Bicycle and Habitat
+Conservation Fund _ _ _
+906 2,189 - 211-5010029-3491
+1  Vehicle Main 2,000 2,000 2,000
+- 2,033 - 211-5010029-36212  Reimbursement 100 100 100
+531,982 660,559 604,553 211-5010029-3801
+1  Trans In For Vehicle Maint 717,715 717,715 717,715
+17,440 18,396 18,209 211-5010029-38018  T
+rans In For Fuel Island MP 21,358 21,358 21,358
+- - 7,500 211-5010029-38044  Trans In For Collision Insur - - -
+1,640,553 1,997,713 2,023,069 Total Revenue 2,204,570 2,204,570 2,204,570
+13,126 13,687 14,106 0.1000 211-5010029-40101  Director 0.1000 14,108 14,108 14,108
+- 26,078 68,108 1.0000 211-5010029-40125  Pr
+ogram Supervisor 1.0000 74,431 74,431 74,431
+59,982 61,959 69,156 0.8000 211-5010029-40166  Fleet Manager 0.8000 71,998 71,998 71,998
+702 653 881 0.0100 211-5010029-40167  Office Manager 0.0100 917 917 917
+230,556 239,524 263,019 4.0000 211-5010029-40505  Mechanic 5.0000 324,580 324,580 324,580
+47,827 25,111 - - 211-5010029-40506  Fleet Specialist - - - -
+1,175 34,281 53,226 1.0000 211-5010029-40516  Mechanic Assistant - - - -
+682 - - - 211-5010029-40523  Shop Leadworker - - - -
+- 78 - 211-5010029-47400  Shift Diff - - -
+3,190 1,982 3,530 211-5010029-47500  Longevity Pay 4,293 4,293 4,293
+2,902 104 - 211-5010029-47750  Out Of Class Pay - - -
+1,677 -16 - 211-5010029-47900  Other Earnings 697 697 697
+1,317 1,514 2,000 211-5010029-48100  Overtime 1,500 1,500 1,500
+24 - - 211-5010029-48400  Beeper Pay - - -
+53 684 705 211-5010029-48600  Incentive Pay - - -
+5,060 5,936 6,855 211-5010029-49001  Medicar
+e Tax 7,110 7,110 7,110
+21,637 25,382 29,311 211-5010029-49100  Social Security 30,401 30,401 30,401
+69,222 79,526 87,963 211-5010029-49210  Retir
+ement 126,549 126,549 126,549
+99,038 135,563 176,640 211-5010029-49310  Medical Insurance 221,735 221,735 221,735
+1,421 1,638 1,873 211-5010029-4931
+1  Paid Leave Oregon 1,962 1,962 1,962
+150 247 193 211-5010029-49312  Employee Assistance Pr
+ogram 221 221 221
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+6,489 9,183 10,365 211-5010029-49315  VEBA 10,365 10,365 10,365
+5,814 8,387 9,846 211-5010029-49320  Dental Insurance Expense 10,144 10,144 10,144
+580 820 988 211-5010029-49325  V
+ision Insurance 947 947 947
+1,404 1,755 2,404 211-5010029-49331  Short T
+erm Disability 2,404 2,404 2,404
+123 158 303 211-5010029-49340  Life Insurance 200 200 200
+7,019 9,651 12,585 211-5010029-49400  Accident Insurance 13,176 13,176 13,176
+345 - - 211-5010029-49480  Time Loss Reserve - - -
+355 415 467 211-5010029-49500  Unemployment 485 485 485
+93 112 100 211-5010029-49600  W
+orkers Comp Assessment 103 103 103
+22,915 7,552 17,000 211-5010029-49900  FET/Vacation/Sick 500 500 500
+604,878 691,964 831,624 6.9100 Total For Personnel 6.9100 918,826 918,826 918,826
+978 1,527 2,500 211-5010029-51001  Central Supplies 2,000 2,000 2,000
+10,144 11,642 10,000 211-5010029-51003  Pr
+ogram Supplies 5,000 5,000 5,000
+25,069 27,681 20,000 211-5010029-51108  Shop Supplies 40,000 40,000 40,000
+- 488 - 211-5010029-51
+199  Miscellaneous Supplies - - -
+1,890 4,176 2,000 211-5010029-51303  Publications & Dues 3,000 3,000 3,000
+298 278 600 211-5010029-51599  Misc Licences/Permits/Fees 500 500 500
+- 2,867 3,000 211-5010029-51603  T
+ool Allowance 3,000 3,000 3,000
+310,938 284,893 300,000 211-5010029-52001  Gasoline 300,000 300,000 300,000
+- - _ 92,000 gallons $3.26 per gallon _ _ _
+131,358 101,909 150,000 211-5010029-52002  Diesel 150,000 150,000 150,000
+- - _ 50,000 gallons $3.00 per gallon _ _ _
+11,746 9,169 20,000 211-5010029-52003  Fuel Island Pr
+ogram 10,000 10,000 10,000
+168,380 200,754 225,029 211-5010029-53001  Parts 225,000 225,000 225,000
+8,336 4,781 10,000 211-5010029-53004  Small T
+ools 3,000 3,000 3,000
+21,027 22,320 25,000 211-5010029-53005  Oil & Lube Materials 15,000 15,000 15,000
+32,831 42,193 40,000 211-5010029-53006  T
+ires/Tubes 50,000 50,000 50,000
+19,046 45,237 40,000 211-5010029-53007  T
+ires For Public Works 35,000 35,000 35,000
+6,155 3,434 5,000 211-5010029-54202  Safety Equipment 6,000 6,000 6,000
+3,259 3,922 3,200 211-5010029-54203  Boot and Clothing Allowance 3,200 3,200 3,200
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+110 - 5,500 211-5010029-54204  CDL T
+raining and Physicals 500 500 500
+13,195 478 10,000 211-5010029-54301  Small Equipment Purchases 10,000 10,000 10,000
+764,760 767,748 871,829 Total For Materials & Services 861,200 861,200 861,200
+42,910 50,333 68,000 211-5010029-61007  Liability Insurance 68,000 68,000 68,000
+967 998 1,098 211-5010029-61
+101  Audit 1,148 1,148 1,148
+1,677 1,923 1,500 211-5010029-61
+102  Contract Services 2,000 2,000 2,000
+517 - 1,500 211-5010029-61201  Training And Development 6,500 6,500 6,500
+1,063 1,160 800 211-5010029-62001  Telephone 800 800 800
+- 1,483 1,500 211-5010029-63001  Travel Expense 1,500 1,500 1,500
+244 60 - 211-5010029-65202  Equipment Rent - - -
+10,819 7,702 7,000 211-5010029-67002  Heat/Lights/W
+ater 7,000 7,000 7,000
+3,581 1,642 3,000 211-5010029-68004  Radio Repair 3,000 3,000 3,000
+78,987 76,180 70,000 211-5010029-68005  Sublet Repairs 70,000 70,000 70,000
+76 313 300 211-5010029-68301  Copy Machines/Maint 300 300 300
+239 150 17,000 211-5010029-68307  Softwar
+e Lic and Maint Fees 18,000 18,000 18,000
+18,791 22,688 15,000 211-5010029-68310  Building Maintenance 24,500 24,500 24,500
+18 - - 211-5010029-69918  Employee Recognition - - -
+634 499 1,100 211-5010029-69919  W/C Safety Incentive - - -
+160,522 165,130 187,798 Total For Contracted Services 202,748 202,748 202,748
+3,784 4,343 5,456 211-5010029-78002  T
+rans Out For Property Insur 6,077 6,077 6,077
+35,015 41,254 43,577 211-5010029-78003  T
+rans Out For Admin Overhead 47,967 47,967 47,967
+1,584 1,584 1,727 211-5010029-78004  T
+rans Out For Telecomm Equip 1,827 1,827 1,827
+3,172 4,647 - 211-5010029-78006  T
+rans Out For Computer Replace - - -
+20,689 20,689 22,152 211-5010029-78027  T
+rans Out For Liability Insur 39,010 39,010 39,010
+-973 82 3,000 211-5010029-78044  T
+rans Out For PEL Reserves - - -
+3,704 8,748 - 211-5010029-78046  T
+rans Out For Network Charges - - -
+23 17 26 211-5010029-78054  T
+rans Out For Telecomm Calls - - -
+2,560 2,559 - 211-5010029-78055  T
+rans Out For Legal Services - - -
+69,558 83,922 75,938 Total For T
+ransfer Outs Reciprocal 94,881 94,881 94,881
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+13,548 18,294 55,880 211-5010029-80080  Capital Department Equipment 126,915 126,915 126,915
+- - _ Extend Crane _ _ _
+13,548 18,294 55,880 Total For Capital 126,915 126,915 126,915
+1,613,266 1,727,058 2,023,069 6.9100 Total Expenses PW Motor V
+ehicle 6.9100 2,204,570 2,204,570 2,204,570
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Engineering
+30,581 92,910 54,770 211-5010055-32216  Road Use Permits 52,000 52,000 52,000
+274,484 313,541 313,342 211-5010055-33507  State Hwy Funds 346,177 346,177 346,177
+- - _ 3.59% of State Highway Funds after allocation to Bicycle and Habitat
+Conservation Funds _ _ _
+18,993 18,249 22,000 211-5010055-34152  COSSD Contract Services 26,000 26,000 26,000
+- 626 - 211-5010055-36212  Reimbursement - - -
+324,059 425,327 390,112 Total Revenue 424,177 424,177 424,177
+13,126 13,687 14,106 0.1000 211-5010055-40101  Dir
+ector 0.1000 14,108 14,108 14,108
+11,348 7,055 - - 211-5010055-40131  Solid W
+aste Environmental Health Supervisor - - - -
+8,478 3,266 4,404 0.0500 211-5010055-40167  Office Manager 0.0500 4,585 4,585 4,585
+109,231 113,528 117,010 1.0000 211-5010055-40170  Engineering Pr
+oject Manager 1.0000 117,029 117,029 117,029
+7,404 17,345 21,424 0.5000 211-5010055-40317  Engineering Technician 1 0.5000 20,800 20,800 20,800
+7,147 - - - 211-5010055-40377  Senior Building Inspector Assistant - - - -
+- - 1,311 211-5010055-47500  Longevity Pay 1,311 1,311 1,311
+1,162 - - 211-5010055-47900  Other Earnings 705 705 705
+223 850 500 211-5010055-48100  Overtime 700 700 700
+- - 22,000 211-5010055-48200  Extra Help 22,000 22,000 22,000
+- - _ COSSD Operation Manager _ _ _
+2,571 6,573 7,000 211-5010055-48400  Beeper Pay 4,000 4,000 4,000
+53 684 705 211-5010055-48600  Incentive Pay - - -
+2,265 2,271 2,306 211-5010055-49001  Medicar
+e Tax 2,289 2,289 2,289
+9,670 9,711 9,855 211-5010055-49100  Social Security 9,785 9,785 9,785
+33,261 29,248 40,399 211-5010055-49210  Retir
+ement 40,083 40,083 40,083
+25,530 25,821 29,397 211-5010055-49310  Medical Insurance 38,539 38,539 38,539
+644 626 628 211-5010055-4931
+1  Paid Leave Oregon 631 631 631
+48 59 46 211-5010055-49312  Employee Assistance Pr
+ogram 53 53 53
+396 225 225 211-5010055-49315  VEBA 225 225 225
+1,647 1,587 1,638 211-5010055-49320  Dental Insurance Expense 1,688 1,688 1,688
+173 155 164 211-5010055-49325  V
+ision Insurance 158 158 158
+488 409 400 211-5010055-49331  Short T
+erm Disability 400 400 400
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+33 29 50 211-5010055-49340  Life Insurance 33 33 33
+1,892 2,320 3,532 211-5010055-49400  Accident Insurance 2,702 2,702 2,702
+154 - - 211-5010055-49480  T
+ime Loss Reserve - - -
+157 164 156 211-5010055-49500  Unemployment 157 157 157
+34 32 70 211-5010055-49600  Workers Comp Assessment - - -
+1,505 - - 211-5010055-49900  FET/Vacation/Sick - - -
+238,639 235,644 277,326 1.6500 Total For Personnel 1.6500 282,882 282,882 282,882
+1,582 388 1,000 211-5010055-51001  Central Supplies 750 750 750
+2,133 -382 2,500 211-5010055-51003  Program Supplies 1,500 1,500 1,500
+470 687 500 211-5010055-51303  Publications & Dues 500 500 500
+1,626 - 1,000 211-5010055-51599  Misc Licences/Permits/Fees 1,700 1,700 1,700
+293 270 250 211-5010055-54202  Safety Equipment 250 250 250
+479 325 900 211-5010055-54203  Boot and Clothing Allowance 450 450 450
+- 35 - 211-5010055-54301  Small Equipment Purchases - - -
+6,583 1,324 6,150 Total For Materials & Services 5,150 5,150 5,150
+109,780 63,535 60,000 211-5010055-61001  Professional Services 82,735 82,735 82,735
+- - _ GFU $10k, Bridge Inspection $25k, Transportation $10k, General Engineering
+$2.5K, Surveying $5k, Fish Bearing Culverts $12.2K _ _ _
+203 264 290 211-5010055-61
+101  Audit 230 230 230
+503 618 600 211-5010055-61102  Contract Services 700 700 700
+664 150 1,000 211-5010055-61201  T
+raining And Development 1,000 1,000 1,000
+1,848 1,367 1,800 211-5010055-62001  T
+elephone 1,800 1,800 1,800
+1,333 119 1,000 211-5010055-63001  T
+ravel Expense 1,000 1,000 1,000
+575 554 600 211-5010055-67002  Heat/Lights/W
+ater 600 600 600
+250 174 200 211-5010055-68301  Copy Machines/Maint 200 200 200
+6,920 3,578 4,200 211-5010055-68307  Softwar
+e Lic and Maint Fees 9,000 9,000 9,000
+1,350 2,166 1,500 211-5010055-68310  Building Maintenance 1,500 1,500 1,500
+45 - - 211-5010055-69299  Miscellaneous Expenses - - -
+197 149 200 211-5010055-69919  W/C Safety Incentive - - -
+123,667 72,675 71,390 Total For Contracted Services 98,765 98,765 98,765
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,404 1,612 2,024 211-5010055-78002  T
+rans Out For Property Insur 2,255 2,255 2,255
+7,849 7,594 11,349 211-5010055-78003  Trans Out For Admin Overhead 10,117 10,117 10,117
+396 396 396 211-5010055-78004  T
+rans Out For Telecomm Equip 602 602 602
+6,810 8,540 8,000 211-5010055-78005  T
+rans Out For Motor Pool 12,000 12,000 12,000
+1,205 2,238 - 211-5010055-78006  Trans Out For Computer Replace - - -
+2,315 3,888 - 211-5010055-78046  Trans Out For Network Charges - - -
+150 131 170 211-5010055-78054  Trans Out For Telecomm Calls - - -
+20,471 20,472 13,307 211-5010055-78055  T
+rans Out For Legal Services 13,307 13,307 13,307
+40,600 44,872 35,246 Total For T
+ransfer Outs Reciprocal 38,281 38,281 38,281
+409,489 354,515 390,112 1.6500 Total Expenses Engineering 1.6500 425,078 425,078 425,078
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Road
+4,474,394 3,789,479 872,954 211-5010060-30101  Beginning Fund Balance 1,666,071 1,666,071 1,666,071
+5,888 8,280 8,000 211-5010060-32216  Road Use Permits 8,000 8,000 8,000
+119,391 19,936 24,000 211-5010060-33202  Federal For
+est Funds - - -
+1,668 - - 211-5010060-33235  FEMA - Storm - - -
+7,967,133 8,109,230 8,081,652 211-5010060-33507  State Hwy Funds 7,822,657 7,822,657 7,822,657
+- - _ 81.23% of State Highway Funds (SHF) after Bicycle and Habitat Conservation
+Funds _ _ _
+1,821,130 679,249 675,126 211-5010060-33516  Project Reimbursement 690,322 690,322 690,322
+- - _ Fund Exchange Program (FEX) _ _ _
+23 32 25 211-5010060-34103  Map & Publications 16 16 16
+- 2,397 300 211-5010060-34199  Misc Rev - Service Charges - - -
+37,516 -139 30,008 211-5010060-36101  Pool Investment Earnings - - -
+75,462 10,378 60,357 211-5010060-36103  Bond Investment Earnings 7,682 7,682 7,682
+6,992 6,747 - 211-5010060-36105  Lease Inter
+est Revenue - - -
+- 12 - 211-5010060-36201  Rental/Sale Mat/Supplies - - -
+143 - - 211-5010060-36202  Rental/Sale Equip/Pr
+op - - -
+22,713 24,926 22,000 211-5010060-36204  Rent 22,000 22,000 22,000
+- - _ Cell Tower _ _ _
+1,299 625 500 211-5010060-36208  Departmental Collections - - -
+47,068 40,358 10,000 211-5010060-36212  Reimbursement 13,000 13,000 13,000
+15,660 11,885 5,000 211-5010060-36213  Blue Sign Revenue 5,000 5,000 5,000
+793 30,401 10,000 211-5010060-36299  Miscellaneous - Other Revenue 10,000 10,000 10,000
+20,951 26,000 26,000 211-5010060-38013  T
+rans In For Contract Service - - -
+- - _ - _ _ _
+14,618,221 12,759,796 9,825,922 Total Revenue 10,244,748 10,244,748 10,244,748
+85,317 88,963 91,691 0.6500 211-5010060-40101  Dir
+ector 0.6500 91,699 91,699 91,699
+82,764 68,970 71,084 1.0000 211-5010060-40124  Pr
+ogram Coordinator 1.0000 71,100 71,100 71,100
+66,670 72,340 78,351 1.0000 211-5010060-40125  Pr
+ogram Supervisor 1.0000 81,279 81,279 81,279
+83,222 89,101 96,698 1.0000 211-5010060-40134  Division Manager 1.0000 99,205 99,205 99,205
+76,048 78,260 80,660 1.0000 211-5010060-40163  Road Division Supervisor 1.0000 80,678 80,678 80,678
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+14,996 15,490 17,289 0.2000 211-5010060-40166  Fleet Manager 0.2000 18,000 18,000 18,000
+75,678 61,391 82,794 0.9400 211-5010060-40167  Office Manager 0.9400 86,196 86,196 86,196
+1,351 37,691 59,465 1.0000 211-5010060-40220  Office Specialist T
+echnician 1.0000 62,189 62,189 62,189
+120,720 70,489 68,090 1.0000 211-5010060-40371  Senior Office Specialist T
+echnician 1.0000 68,102 68,102 68,102
+17,979 54,227 58,665 1.0000 211-5010060-40379  Vegetation Management Technician 0.8000 49,199 49,199 49,199
+10,631 5,374 - - 211-5010060-40380  Roadside Vegetation Intern - - - -
+- - - - 211-5010060-40501  Laborer 1 - - - -
+79,242 78,969 94,600 2.0000 211-5010060-40514  Utility W
+orker 2.0000 101,206 101,206 101,206
+483,003 507,229 664,585 11.0000 211-5010060-40515  Medium Equipment Operator 10.0000 521,948 521,948 521,948
+376,984 293,398 333,844 5.0000 211-5010060-40524  Heavy Equipment Operator 6.0000 405,086 405,086 405,086
+446 1,523 - 211-5010060-47400  Shift Diff 500 500 500
+10,694 12,465 17,092 211-5010060-47500  Longevity Pay 19,506 19,506 19,506
+90 1,886 - 211-5010060-47750  Out Of Class Pay 800 800 800
+15,377 -20 - 211-5010060-47900  Other Earnings 1,269 1,269 1,269
+11 - - 211-5010060-48000  Extra Hours - - -
+14,157 24,696 20,000 211-5010060-48100  Overtime 20,000 20,000 20,000
+- - 50,000 211-5010060-48200  Extra Help 53,000 53,000 53,000
+- - _ Shared 50% FTE with SWCD _ _ _
+33,939 36,799 32,000 211-5010060-48400  Beeper Pay 36,000 36,000 36,000
+347 4,519 4,590 211-5010060-48600  Incentive Pay 3,731 3,731 3,731
+24,249 23,322 26,495 211-5010060-49001  Medicar
+e Tax 25,560 25,560 25,560
+103,684 99,723 113,271 211-5010060-49100  Social Security 109,300 109,300 109,300
+364,311 363,194 467,684 211-5010060-49210  Retir
+ement 431,046 431,046 431,046
+519,048 516,260 684,833 211-5010060-49310  Medical Insurance 790,706 790,706 790,706
+6,816 6,433 7,192 211-5010060-4931
+1  Paid Leave Oregon 7,047 7,047 7,047
+783 1,032 778 211-5010060-49312  Employee Assistance Pr
+ogram 819 819 819
+37,049 34,715 40,185 211-5010060-49315  VEBA 35,385 35,385 35,385
+30,360 28,903 38,175 211-5010060-49320  Dental Insurance Expense 36,098 36,098 36,098
+3,304 3,099 3,832 211-5010060-49325  V
+ision Insurance 3,232 3,232 3,232
+7,324 6,617 9,323 211-5010060-49331  Short T
+erm Disability 8,905 8,905 8,905
+662 599 1,179 211-5010060-49340  Life Insurance 742 742 742
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+52,397 59,886 71,909 211-5010060-49400  Accident Insurance 69,191 69,191 69,191
+1,674 - - 211-5010060-49480  Time Loss Reserve - - -
+1,699 1,631 1,794 211-5010060-49500  Unemployment 1,734 1,734 1,734
+479 406 700 211-5010060-49600  W
+orkers Comp Assessment 700 700 700
+22,401 21,595 15,000 211-5010060-49900  FET/Vacation/Sick 72,000 72,000 72,000
+2,825,906 2,771,176 3,403,848 26.7900 Total For Personnel 26.5900 3,464,230 3,464,230 3,464,230
+2,526 6,832 3,000 211-5010060-51001  Central Supplies 3,000 3,000 3,000
+12,298 11,645 18,000 211-5010060-51003  Program Supplies 15,000 15,000 15,000
+3,839 - - 211-5010060-51103  Survey Supplies - - -
+5,035 6,957 5,000 211-5010060-51
+108  Shop Supplies 7,000 7,000 7,000
+- 12 - 211-5010060-51
+199  Miscellaneous Supplies - - -
+3,341 4,289 3,000 211-5010060-51303  Publications & Dues 3,000 3,000 3,000
+136 4,808 5,000 211-5010060-51501  Asphalt Cold Mix 5,000 5,000 5,000
+256,567 10,851 100,000 211-5010060-51502  Asphalt Hot Mix 200,000 200,000 200,000
+836,283 694,100 300,000 211-5010060-51503  Rock 370,000 370,000 370,000
+8,552 9,843 9,000 211-5010060-51504  Material Disposal 15,000 15,000 15,000
+9,269 90,613 40,000 211-5010060-51505  Bridge Materials 50,000 50,000 50,000
+30,015 29,661 25,000 211-5010060-51506  Sign Materials 20,000 20,000 20,000
+1,672 - - 211-5010060-51507  Blue Sign Materials - - -
+6,248 1,437 10,000 211-5010060-51508  Liquid Asphalt 10,000 10,000 10,000
+12,255 34,546 40,000 211-5010060-51509  V
+egetation Control 45,000 45,000 45,000
+2,385 3,118 5,000 211-5010060-5151
+1  Erosion Control - - -
+150 847 - 211-5010060-51599  Misc Licences/Permits/Fees - - -
+70 - - 211-5010060-52001  Gasoline - - -
+- - - 211-5010060-52002  Diesel - - -
+24,157 51,380 30,000 211-5010060-53002  Culvert 35,000 35,000 35,000
+2,709 4,214 8,000 211-5010060-53003  Dust Abatement 8,000 8,000 8,000
+7,180 11,276 7,500 211-5010060-53004  Small T
+ools 8,000 8,000 8,000
+14,232 20,475 20,000 211-5010060-54202  Safety Equipment 20,000 20,000 20,000
+12,021 11,253 12,000 211-5010060-54203  Boot and Clothing Allowance 13,000 13,000 13,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+3,012 12,769 15,000 211-5010060-54204  CDL T
+raining and Physicals 10,000 10,000 10,000
+3,578 1,915 5,000 211-5010060-54301  Small Equipment Purchases - - -
+1,257,529 1,022,841 660,500 Total For Materials & Services 837,000 837,000 837,000
+70,602 13,521 20,000 211-5010060-61001  Professional Services 75,000 75,000 75,000
+5,820 6,418 7,060 211-5010060-61
+101  Audit 7,417 7,417 7,417
+284,264 533,168 515,000 211-5010060-61
+102  Contract Services 590,000 590,000 590,000
+- - _ Flagging $10k, Striping $500k, Sweeping $30k, Power Wash $10k, T
+ree
+Trimming $10k, Ditching/Large Culverts $10k, Chem Cans $10k, Garbage $10k _ _ _
+282,165 123,814 225,000 211-5010060-61
+104  Contract Hauling 150,000 150,000 150,000
+9,250 9,500 12,000 211-5010060-61
+106  De-Icing Materials 10,000 10,000 10,000
+7,224 2,475 10,000 211-5010060-61201  Training And Development 5,000 5,000 5,000
+425 2,100 - 211-5010060-61202  Schools And Confer
+ences - - -
+9,436 8,581 10,000 211-5010060-62001  Telephone 10,000 10,000 10,000
+227 235 250 211-5010060-62101  Postage 250 250 250
+4,783 4,077 10,000 211-5010060-63001  T
+ravel Expense 5,000 5,000 5,000
+1,618 1,426 2,000 211-5010060-64001  Advertising 1,000 1,000 1,000
+62,705 6,234 20,000 211-5010060-65202  Equipment Rent 15,000 15,000 15,000
+20,418 19,331 20,000 211-5010060-67002  Heat/Lights/Water 20,000 20,000 20,000
+793 814 1,000 211-5010060-68301  Copy Machines/Maint 1,000 1,000 1,000
+4,254 6,282 3,000 211-5010060-68307  Softwar
+e Lic and Maint Fees 3,000 3,000 3,000
+41,981 41,318 25,000 211-5010060-68310  Building Maintenance 25,000 25,000 25,000
+5,941 11,899 5,000 211-5010060-69299  Miscellaneous Expenses 5,000 5,000 5,000
+1,047 1,376 1,500 211-5010060-69908  Bank Service Charge 1,500 1,500 1,500
+- - 100 211-5010060-69918  Employee Recognition 100 100 100
+2,819 3,595 5,000 211-5010060-69919  W/C Safety Incentive - - -
+815,770 796,165 891,910 Total For Contracted Services 924,267 924,267 924,267
+69,389 71,458 70,000 211-5010060-70007  Wheatland Ferry 73,000 73,000 73,000
+57 124 200 211-5010060-73010  Permits & Fees 200 200 200
+69,446 71,582 70,200 Total For Other Expenses 73,200 73,200 73,200
+9,873 11,331 14,233 211-5010060-78002  T
+rans Out For Property Insur 15,854 15,854 15,854
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+205,550 262,794 282,989 211-5010060-78003  T
+rans Out For Admin Overhead 292,272 292,272 292,272
+3,936 3,936 3,936 211-5010060-78004  Trans Out For Telecomm Equip 4,845 4,845 4,845
+690,000 670,000 250,000 211-5010060-78005  T
+rans Out For Motor Pool 250,000 250,000 250,000
+- - _ Fleet call out truck $135k & Crew Trucks _ _ _
+5,886 6,889 11,037 211-5010060-78006  Trans Out For Computer Replace 12,660 12,660 12,660
+49 80 100 211-5010060-78017  Trans Out For Postage Charges - - -
+51,108 51,108 54,720 211-5010060-78027  Trans Out For Liability Insur 90,870 90,870 90,870
+3,875 7,235 - 211-5010060-78044  T
+rans Out For PEL Reserves - - -
+11,575 11,664 23,483 211-5010060-78046  T
+rans Out For Network Charges 28,392 28,392 28,392
+322 308 330 211-5010060-78054  Trans Out For Telecomm Calls - - -
+2,560 2,559 13,307 211-5010060-78055  Trans Out For Legal Services 13,307 13,307 13,307
+984,734 1,027,905 654,135 Total For Transfer Outs Reciprocal 708,200 708,200 708,200
+201,312 218,419 156,079 211-5010060-79500  Loan Inter
+est Pymnt 192,715 192,715 192,715
+453,948 436,841 499,180 211-5010060-79600  Loan Principal Payment 462,545 462,545 462,545
+- - _ Newberg/Dundee Bypass _ _ _
+655,260 655,260 655,259 Total For Debt Service 655,260 655,260 655,260
+135,662 - - 211-5010060-80080  Capital Department Equipment - - -
+3,393,599 4,651,618 3,270,070 211-5010060-81
+102  Capital Contractor Services 3,158,663 3,158,663 3,158,663
+- - _ Stringtown Bridge Repair, Hill Rd N Bridge, North V
+alley Dig
+Out _ _ _
+632,693 199,792 70,000 211-5010060-82101  Capital Pr
+ofessional Services 75,000 75,000 75,000
+- - _ - _ _ _
+4,161,955 4,851,411 3,340,070 Total For Capital 3,233,663 3,233,663 3,233,663
+- - 150,000 211-5010060-95001  Contingency 150,000 150,000 150,000
+- - 150,000 Total For Contingency 150,000 150,000 150,000
+- - - 211-5010060-99003  Reserve For Futur
+e 200,000 200,000 200,000
+- - _ Vehicle & Equipment Sheds _ _ _
+- - - Total For Balances 200,000 200,000 200,000
+10,770,600 11,196,339 9,825,922 26.7900 Total Expenses Road 26.5900 10,245,820 10,245,820 10,245,820
+FUND 212
+CLERK’S RECORDS
+For Fis
+cal Year Ending June 30, 2027
+County Clerk’s Record
+212-2010115 County Clerk’s Record: A specially allocated fund used specifically for the task of recording, cataloging, storing, preserving, and making accessible all recorded
+documents. No major changes are anticipated in this fund; funding continues to decrease due to the decline in recording revenue.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Clerk's Records
+63,851 66,267 68,477 212-2010115-30101  Beginning Fund Balance 52,767 52,767 52,767
+2,466 2,676 4,500 212-2010115-34145  Co Clk Records Fund 5,000 5,000 5,000
+5,778 6,136 8,706 212-2010115-34146  Co Clk A&T Records Fund 8,000 8,000 8,000
+928 1,009 743 212-2010115-36101  Pool Investment Earnings 745 745 745
+1,720 1,888 1,376 212-2010115-36103  Bond Investment Earnings 1,397 1,397 1,397
+74,744 77,975 83,802 Total Revenue 67,909 67,909 67,909
+- - 8,000 212-2010115-48200  Extra Help 5,000 5,000 5,000
+- - 8,000 - Total For Personnel - 5,000 5,000 5,000
+150 107 20,000 212-2010115-51001  Central Supplies 19,050 19,050 19,050
+90 - 90 212-2010115-51102  Cleaning Supplies 100 100 100
+- - 8,000 212-2010115-54301  Small Equipment Pur
+chases 3,000 3,000 3,000
+239 107 28,090 Total For Materials & Services 22,150 22,150 22,150
+8 8 9 212-2010115-61
+101  Audit 10 10 10
+3,017 2,753 20,000 212-2010115-61
+102  Contract Services 20,000 20,000 20,000
+3,898 - - 212-2010115-65201  Building Rent - - -
+1,095 7,468 16,000 212-2010115-68307  Softwar
+e Lic and Maint Fees 10,000 10,000 10,000
+- - 500 212-2010115-69901  Other Expense 500 500 500
+- - 1,000 212-2010115-69908  Bank Service Charge - - -
+8,017 10,229 37,509 Total For Contracted Services 30,510 30,510 30,510
+220 443 203 212-2010115-78003  T
+rans Out For Admin Overhead 249 249 249
+220 443 203 Total For T
+ransfer Outs Reciprocal 249 249 249
+- - 10,000 212-2010115-80002  Capital Office Equipment 10,000 10,000 10,000
+- - 10,000 Total For Capital 10,000 10,000 10,000
+8,476 10,778 83,802 - Total Expenses County Clerk's Records - 67,909 67,909 67,909
+FUND 213
+DOG CONTROL
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Sheriff – Dog Control
+213-4510047 Sheriff – Dog Control: Provides for processing dog licenses under Yamhill County Code pursuant to ORS and dog kenneling services for Yamhill County. Prior to
+FY27, dog licensing is provided via agreement with a contract-for-service provider and kenneling services, required under County Code and ORS for stray/dogs at large,
+quarantined dogs, and dogs impounded for violations of Code or ORS, is provided via an agreement with a contract-for-services provider. For FY27, Yamhill County is working
+on bringing some these services back "in house", and the budget reflects these anticipated changes.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Sheriff - Dog Control
+87,378 35,224 - 213-4510047-30101  Beginning Fund Balance - - -
+103,251 13,251 - 213-4510047-30115  Fund Bal Reserve - Donations - - -
+55,740 67,165 60,000 213-4510047-32231  Dog License 60,000 60,000 60,000
+300 6,600 5,000 213-4510047-32232  Facility License 5,000 5,000 5,000
+110 213 200 213-4510047-32233  Duplicate License 200 200 200
+1,835 1,110 2,500 213-4510047-34202  Room and Board 2,500 2,500 2,500
+25 50 - 213-4510047-34207  Pickup Fees - - -
+-164 - - 213-4510047-34298  Over/Short - - -
+6,697 6,641 6,500 213-4510047-35004  Penalties & Assess 6,500 6,500 6,500
+1,874 -24 2,000 213-4510047-36101  Pool Investment Earnings - - -
+3,208 157 2,000 213-4510047-36103  Bond Investment Earnings 116 116 116
+523 11 100 213-4510047-36203  Donations - - -
+- 43 - 213-4510047-36234  Donations - Spay & Neuter Prog - - -
+63 692 500 213-4510047-36241  Spay/Neuter Donations 500 500 500
+- - - 213-4510047-36299  Miscellaneous - Other Revenue - - -
+- - - 213-4510047-38006  Trans In Of Video Lottery 130,000 130,000 130,000
+- - - 213-4510047-38062  Trans In For Dog Contr
+ol - - -
+- - - 213-4510047-38091  Trans In Fr
+om General Fund 125,000 125,000 125,000
+- 100,000 - 213-4510047-38093  Trans In Fr
+om ARPA Fund - - -
+260,839 231,132 78,800 Total Revenue 329,816 329,816 329,816
+- - - - 213-4510047-40415  SO Systems Coordinator 1.0000 80,553 80,553 80,553
+- - - 213-4510047-48200  Extra Help 15,000 15,000 15,000
+- - - 213-4510047-49001  Medicare T
+ax 1,168 1,168 1,168
+- - - 213-4510047-49100  Social Security 4,994 4,994 4,994
+- - - 213-4510047-49210  Retirement 24,158 24,158 24,158
+- - - 213-4510047-49310  Medical Insurance 22,272 22,272 22,272
+- - - 213-4510047-49311  Paid Leave Or
+egon 322 322 322
+- - - 213-4510047-49312  Employee Assistance Program 32 32 32
+- - - 213-4510047-49315  VEBA 1,500 1,500 1,500
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - - 213-4510047-49332  Long Term Disability 323 323 323
+- - - 213-4510047-49340  Life Insurance 44 44 44
+- - - 213-4510047-49400  Accident Insurance 81 81 81
+- - - 213-4510047-49500  Unemployment 81 81 81
+- - - - Total For Personnel 1.0000 150,528 150,528 150,528
+1,084 - - 213-4510047-51001  Central Supplies 1,000 1,000 1,000
+1,084 - - Total For Materials & Services 1,000 1,000 1,000
+88,033 59,066 36,000 213-4510047-61001  Professional Services 25,000 25,000 25,000
+90,000 48,177 20,000 213-4510047-61021  Dog Kennel Rentals 75,000 75,000 75,000
+105 132 145 213-4510047-61101  Audit 150 150 150
+4,374 4,368 5,000 213-4510047-68307  Software Lic and Maint Fees 5,000 5,000 5,000
+- 32 - 213-4510047-69299  Miscellaneous Expenses 45,000 45,000 45,000
+1,905 2,316 2,000 213-4510047-69908  Bank Service Charge 2,000 2,000 2,000
+21,830 10,968 10,709 213-4510047-69998  City Contracts Expense - - -
+206,246 125,059 73,854 Total For Contracted Services 152,150 152,150 152,150
+1,710 1,764 2,548 213-4510047-78003  Trans Out For Admin Overhead 2,669 2,669 2,669
+393 393 393 213-4510047-78006  Trans Out For Computer Replace - - -
+- 100,933 - 213-4510047-78043  Trans Out T
+o/For Dog Control - - -
+926 972 - 213-4510047-78046  Trans Out For Network Charges - - -
+2,005 2,005 2,005 213-4510047-78055  Trans Out For Legal Services 2,005 2,005 2,005
+5,034 106,067 4,946 Total For T
+ransfer Outs Reciprocal 4,674 4,674 4,674
+- - - 213-4510047-99001  Ending Fund Balance 21,464 21,464 21,464
+- - - Total For Balances 21,464 21,464 21,464
+212,365 231,126 78,800 - Total Expenses Sheriff - Dog Contr
+ol 1.0000 329,816 329,816 329,816
+FUND 214
+LAW LIBRARY
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Law Library
+214-1040026 Law Library: A function of county government mandated by Oregon Revised Statues (ORS) 9.815, the Law Library, is a resource made available to both citizens
+and members of the bar.
+The Law Library provides free access to legal resources both digitally and in print format as well as guidance, from the Law Librarian, on conducting legal research. Access to
+digital, legal information is provided via a public computer linked to several online, law Library collections subscribed to by the County. The printed material cataloged within the
+Law Library consists of a variety of collections including, for example, books on case law, ORS, and OARs and is consistently reviewed and updated for relevancy.  The Law
+Library strives to include material that covers the most frequent types of cases seen within the court system, legal processes that tend to be handled without attorney assistance, and
+topics that are new or receive a high degree of attention. This is to provide material that is as pertinent as possible and maximize the offerings of this resource for all Law Library
+patrons.
+Revenue for the Law Library Fund is provided by the State of Oregon from a portion of court filing fees. The allocation to law libraries is determined according to a population-
+based methodology. Since the state follows a biennial budget process, the established allotment is for a two-year period, with half of the allotment being disbursed annually.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Law Library
+16,276 39,674 69,331 214-1040026-30101  Beginning Fund Balance 106,954 106,954 106,954
+96,029 96,029 102,559 214-1040026-35010  Court Filing Fees 100,069 100,069 100,069
+955 1,347 764 214-1040026-36101  Pool Investment Earnings 993 993 993
+1,599 2,559 1,279 214-1040026-36103  Bond Investment Earnings 1,894 1,894 1,894
+- 115 - 214-1040026-36212  Reimbursement - - -
+114,859 139,724 173,933 Total Revenue 209,910 209,910 209,910
+19,739 20,758 24,847 0.4000 214-1040026-40207  Law Library Clerk 0.4000 21,003 21,003 21,003
+- 65 - 214-1040026-47500  Longevity Pay - - -
+170 - - 214-1040026-47900  Other Earnings - - -
+- - - 214-1040026-48000  Extra Hours 1,500 1,500 1,500
+291 302 360 214-1040026-49001  Medicare Tax 305 305 305
+1,244 1,291 1,541 214-1040026-49100  Social Security 1,302 1,302 1,302
+4,265 4,460 6,197 214-1040026-49210  Retirement 5,238 5,238 5,238
+82 83 99 214-1040026-49311  Paid Leave Or
+egon 84 84 84
+11 15 11 214-1040026-49312  Employee Assistance Program 13 13 13
+21 21 25 214-1040026-49400  Accident Insurance 21 21 21
+20 - - 214-1040026-49480  Time Loss Reserve - - -
+20 21 25 214-1040026-49500  Unemployment 21 21 21
+7 7 9 214-1040026-49600  Workers Comp Assessment 9 9 9
+158 - 500 214-1040026-49900  FET/Vacation/Sick - - -
+26,027 27,022 33,614 0.4000 Total For Personnel 0.4000 29,496 29,496 29,496
+- - 1,500 214-1040026-51001  Central Supplies 3,000 3,000 3,000
+39,012 37,288 95,000 214-1040026-51303  Publications & Dues 95,000 95,000 95,000
+528 - 1,500 214-1040026-54301  Small Equipment Purchases 2,500 2,500 2,500
+39,540 37,288 98,000 Total For Materials & Services 100,500 100,500 100,500
+- - - 214-1040026-61001  Professional Services - - -
+53 50 54 214-1040026-61101  Audit 50 50 50
+- - 25 214-1040026-62101  Postage 25 25 25
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - 1,500 214-1040026-63001  Travel Expense 1,500 1,500 1,500
+53 50 1,579 Total For Contracted Services 1,575 1,575 1,575
+2,530 2,530 2,675 214-1040026-78001  Trans Out For Building Reserve 2,567 2,567 2,567
+2,739 3,143 3,948 214-1040026-78002  Trans Out For Property Insur 4,397 4,397 4,397
+937 1,043 1,066 214-1040026-78003  Trans Out For Admin Overhead 1,083 1,083 1,083
+396 396 396 214-1040026-78004  Trans Out For T
+elecomm Equip 454 454 454
+393 393 393 214-1040026-78006  Trans Out For Computer Replace 615 615 615
+- - 25 214-1040026-78017  Trans Out For Postage Charges 25 25 25
+716 716 767 214-1040026-78027  Trans Out For Liability Insur 918 918 918
+1,852 972 1,021 214-1040026-78046  Trans Out For Network Charges 1,092 1,092 1,092
+2 2 1 214-1040026-78054  Trans Out For T
+elecomm Calls - - -
+9,565 9,195 10,292 Total For Transfer Outs Reciprocal 11,151 11,151 11,151
+- - 30,448 214-1040026-99001  Ending Fund Balance 67,188 67,188 67,188
+- - 30,448 Total For Balances 67,188 67,188 67,188
+75,184 73,554 173,933 0.4000 Total Expenses Law Library 0.4000 209,910 209,910 209,910
+FUND 215
+COUNTY SCHOOL
+For Fis
+cal Year Ending June 30, 2027
+County School
+215-1010085 County School: The County is required by law to share 25% of its federal forest income with county schools. The County acts as a pass through and any funds
+received are allocated to county schools.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County School
+290 561 100 215-1010085-30101  Beginning Fund Balance 522 522 522
+- 2,617 - 215-1010085-31103  Small Private Railcar T
+ax 4,500 4,500 4,500
+13,767 15,066 13,000 215-1010085-31106  Electric Coop T
+ax 13,000 13,000 13,000
+39,797 6,645 85,000 215-1010085-33202  Federal Forest Funds 85,000 85,000 85,000
+235 245 188 215-1010085-36101  Pool Investment Earnings 181 181 181
+509 387 407 215-1010085-36103  Bond Investment Earnings 286 286 286
+54,598 25,522 98,695 Total Revenue 103,489 103,489 103,489
+- - - - Total For Personnel - - - -
+38 - 5 215-1010085-61101  Audit - - -
+38 - 5 Total For Contracted Services - - -
+54,000 25,000 98,690 215-1010085-70009  Distribution To Schools 103,489 103,489 103,489
+54,000 25,000 98,690 Total For Other Expenses 103,489 103,489 103,489
+54,038 25,000 98,695 - Total Expenses County School - 103,489 103,489 103,489
+FUND 216
+HEALTH & HUMAN
+SERVICES
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Beginning Fund Balance
+216-5510001 HHS Beginning Fund Balance
+Our budget will continue to use carryover funds to strategically meet local priorities. Additionally, this budget includes carryover funds that are specifically earmarked with
+restricted use for investments made in behavioral health housing, alcohol and drug prevention, and a new Electronic Health Record (EHR) system. Amidst the challenges
+associated with multiple fiscal uncertainties and reform efforts that impact publicly funded systems of care, Yamhill County HHS is part of local solutions to improve the quality of
+life for the individuals we serve and achieve the overarching goal to improve the health of our community.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Beginning Fund Balance - HHS
+19,989,391 22,150,026 23,000,000 216-5510001-30101  Beginning Fund Balance 38,500,000 38,500,000 38,500,000
+19,989,391 22,150,026 23,000,000 Total Revenue 38,500,000 38,500,000 38,500,000
+- - - - Total For Personnel - - - -
+- - - - Total Expenses Beginning Fund Balance - HHS - - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Tr
+easurer - HHS
+303,167 392,702 242,491 216-5510023-36101  Pool Investment Earnings 289,674 289,674 289,674
+560,845 662,110 448,585 216-5510023-36103  Bond Investment Earnings 490,097 490,097 490,097
+864,013 1,054,812 691,076 Total Revenue 779,771 779,771 779,771
+- - - - Total For Personnel - - - -
+- - - - Total Expenses Treasurer - HHS - - - -
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Administrative Services
+216-5510079 HHS Administrative Services
+Administrative staff, including management, accounting staff, clerical staff, and analysts, are spread across all divisions, and support the overall finance and operations of HHS. A
+small portion of FTE is included in the Administrative Services budget to account for contracted work and Yamhill Community Care Organization (YCCO) collaborative efforts.
+The Administrative Services Team is managed by two HHS Manager 2s: the Compliance & EHR Manager, who has direct oversight of the Electronic Health Record and the
+Compliance, Billing and Coding teams, and the Finance Manager, who has direct oversight of the Finance, System Coordination, and Contracts and Deliverables teams.
+The Electronic Health Record (EHR) team provides daily EHR technical assistance to over 300 users; this includes new staff training and orientation. They are responsible for
+EHR system updates, backup processes, and restore protocols, including disaster recovery planning and regular SQL system administrator monitoring for optimum performance.
+Additionally, members of this team are involved in scripting system modifications and enhancements for quality measures or other system of care improvements. In fiscal year
+2022-2023, HHS began the process of obtaining and implementing a new EHR. Planning and rollout continued in fiscal years 2023-2024 and 2024-2025. Go-live efforts began in
+2025-2026, and are set to continue in 2026-2027.
+The Compliance, Billing and Coding team completes internal reviews for all HHS clinical records and charts, has oversight of the HHS Quality Improvement Plan, including data
+collection, reviews and progress assessments, authorizes hospital inpatient stays for indigent clients in Yamhill County, ensures compliance with HHS’ Certified Community
+Behavioral Health Clinic (CCBHC) requirements, and organizes mandatory and key elective trainings for staff related to areas of department or division focus. This team is also
+responsible for all medical claims billing for HHS and for some capacity contract providers like Provoking Hope, Project Able, Oregon Family Support Network, and Oregon
+Crisis Management, who use our EHR, posting payments received from all insurance payers, reviewing and reprocessing denied claims, mailing client statements, processing chart
+closings, and weekly claims review of all YCCO contract and fee-for-service claims for local and regional provider behavioral health payments for services provided to YCCO
+members.
+The Finance team is responsible for developing, maintaining and monitoring the overall HHS budget, conducting annual usual and customary rate setting for HHS, reviewing
+YCCO behavioral health capacity contract provider rate setting, and conducting monthly fiscal audits. This team is also in charge of all accounts payable and accounts receivable
+efforts; they manage monthly expense reports for HHS staff, conduct supply ordering, and process client needs requests.
+The System Coordination team leads project management efforts for HHS, including internal system improvements as well as external systems management, by conducting data
+analysis, tracking metrics, and producing internal reports. They also function as liaisons with central County services and provide support to their teams for HHS-specific work.
+They assist Human Resources in recruitment and hiring efforts, updating job descriptions, tracking position management authority, organizing personnel records, and managing
+staff policy attestations and training documentation. They assist Payroll in reviewing and processing bi-monthly timecards.
+The Contracts and Deliverables team is responsible for generating grant budgets, assisting with developing new grant proposals in conjunction with division management,
+developing and reviewing contracts and amendments, collaborating with division management to implement new contracts, handling procurement and any Request for Proposals
+(RFPs), and completing contractually required fiscal and data analysis. As needed, this team is also engaged in report development for data analysis utilizing SQL tools and
+databases.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Administrative Services - HHS
+145,278 256,929 1,641,672 216-5510079-33411  State Health Grant 1,500,000 1,500,000 1,500,000
+- 350,000 350,000 216-5510079-34609  HRSN Billing Revenue - - -
+3,002,057 2,827,565 4,030,614 216-5510079-34612  Public Insurance (OHP) 1,820,086 1,820,086 1,820,086
+8,092 - - 216-5510079-36105  Lease Interest Revenue - - -
+-6,092 - - 216-5510079-36204  Rent - - -
+- 4,119 3,000 216-5510079-36212  Reimbursement 3,000 3,000 3,000
+65 8,777 50 216-5510079-36299  Miscellaneous - Other Revenue 2,000 2,000 2,000
+3,149,400 3,447,390 6,025,336 Total Revenue 3,325,086 3,325,086 3,325,086
+4,485 7,488 9,052 0.1350 216-5510079-40102  Administrative Office Specialist - - - -
+132 - - - 216-5510079-40117  Behavioral Health Dir
+ector - - - -
+114 - - - 216-5510079-40125  Program Supervisor - - - -
+33,948 33,826 37,441 0.4050 216-5510079-40130  Senior Management Analyst - - - -
+27,280 37,027 68,225 0.8800 216-5510079-40132  Management Analyst 0.4750 39,831 39,831 39,831
+1,210 1,186 1,258 0.0080 216-5510079-40133  HHS Director - - - -
+253 - - - 216-5510079-40135  Program Manager 3 - - - -
+43,387 - - - 216-5510079-40137  Program Manager 1 - - - -
+23,500 32,561 41,795 0.5800 216-5510079-40148  Data Analyst - - - -
+245 - - - 216-5510079-40155  Program Manager 4 - - - -
+11,089 13,455 13,713 0.1350 216-5510079-40181  HHS Supervisor 1 - - - -
+1,312 1,522 1,569 0.0141 216-5510079-40184  HHS Manager 2 - - - -
+15,182 16,310 17,601 0.2700 216-5510079-40215  Accounting Technician 1 - - - -
+13,825 14,746 15,199 0.1550 216-5510079-40370  EHR System Analyst - - - -
+10,915 12,124 13,678 0.1550 216-5510079-40374  EHR System Analyst I - - - -
+- - - - 216-5510079-40618  Professional Medical Coder - - - -
+- - - - 216-5510079-40622  Human Services Specialist 1 0.8500 65,036 65,036 65,036
+96 - - - 216-5510079-40624  Human Services Specialist 3 - - - -
+5,762 11,400 12,325 0.1350 216-5510079-40625  Behavioral Health Clinician 0.9000 69,978 69,978 69,978
+11,797 12,844 13,238 0.1350 216-5510079-40626  Advanced Practice Behavioral Health Clinician 0.2000 19,916 19,916 19,916
+904 983 1,778 216-5510079-47500  Longevity Pay 692 692 692
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+4,725 207 - 216-5510079-47900  Other Earnings 50,000 50,000 50,000
+76 185 200 216-5510079-48100  Overtime 200 200 200
+68 - - 216-5510079-48500  Certification/Education - - -
+742 889 807 216-5510079-48600  Incentive Pay 1,314 1,314 1,314
+3,035 2,819 3,598 216-5510079-49001  Medicare Tax 2,854 2,854 2,854
+12,973 12,048 15,387 216-5510079-49100  Social Security 12,201 12,201 12,201
+43,198 37,314 63,158 216-5510079-49210  Retirement 47,771 47,771 47,771
+41,002 45,439 57,314 216-5510079-49310  Medical Insurance 74,772 74,772 74,772
+849 777 1,888 216-5510079-49311  Paid Leave Or
+egon 785 785 785
+74 104 98 216-5510079-49312  Employee Assistance Program 75 75 75
+3,140 3,176 3,372 216-5510079-49315  VEBA 3,338 3,338 3,338
+2,701 2,797 3,190 216-5510079-49320  Dental Insurance Expense 3,415 3,415 3,415
+283 285 316 216-5510079-49325  Vision Insurance 308 308 308
+705 751 881 216-5510079-49331  Short Term Disability 846 846 846
+57 60 112 216-5510079-49340  Life Insurance 78 78 78
+258 268 334 216-5510079-49400  Accident Insurance 666 666 666
+209 - - 216-5510079-49480  Time Loss Reserve - - -
+212 197 246 216-5510079-49500  Unemployment 195 195 195
+51 49 69 216-5510079-49600  Workers Comp Assessment 56 56 56
+788 1,165 2,000 216-5510079-49900  FET/Vacation/Sick 2,000 2,000 2,000
+320,580 304,004 399,842 3.0071 Total For Personnel 2.4250 396,327 396,327 396,327
+689 531 2,535 216-5510079-51001  Central Supplies 2,035 2,035 2,035
+1,819 1,871 2,000 216-5510079-51199  Miscellaneous Supplies 2,500 2,500 2,500
+- 2,326 - 216-5510079-51203  Laboratory Materials - - -
+1,073 583 2,100 216-5510079-51301  Educational Materials 2,600 2,600 2,600
+31,882 48,398 30,250 216-5510079-51303  Publications & Dues 59,250 59,250 59,250
+- - - 216-5510079-51599  Misc Licences/Permits/Fees 2,000 2,000 2,000
+547 404 12,000 216-5510079-54301  Small Equipment Purchases 3,000 3,000 3,000
+596 812 375 216-5510079-58302  Data Processing Supplies 875 875 875
+36,606 54,925 49,260 Total For Materials & Services 72,260 72,260 72,260
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+155 - 700 216-5510079-61001  Professional Services 17,160 17,160 17,160
+- 3,759 1,000 216-5510079-61024  Interpreter Services 3,146 3,146 3,146
+269 238 290 216-5510079-61025  Professional Contract Employees 290 290 290
+1,568 1,139 1,252 216-5510079-61101  Audit 1,218 1,218 1,218
+- 12,932 913 216-5510079-61102  Contract Services 510 510 510
+287 - 253 216-5510079-61103  Janitorial Contract - - -
+- 3,628 350,000 216-5510079-61109  HRSN Direct Expenses - - -
+83,818 107,211 641,672 216-5510079-61130  Grant Expenses 575,000 575,000 575,000
+6,985 11,375 7,500 216-5510079-61202  Schools And Conferences 9,000 9,000 9,000
+1,068,988 970,296 1,078,046 216-5510079-61304  OHP Subcontracted Services 498,716 498,716 498,716
+9,891 7,267 9,500 216-5510079-62001  Telephone 6,500 6,500 6,500
+746 179 600 216-5510079-62101  Postage 400 400 400
+807 688 550 216-5510079-63001  Travel Expense 550 550 550
+331 99 137 216-5510079-64001  Advertising 34 34 34
+20 1 25 216-5510079-65001  Equipment Lease 25 25 25
+2,672 2,731 2,572 216-5510079-65201  Building Rent 1,112 1,112 1,112
+232 493 226 216-5510079-67002  Heat/Lights/Water 347 347 347
+81 84 89 216-5510079-67004  Property T
+axes 78 78 78
+12 163 100 216-5510079-68301  Copy Machines/Maint 125 125 125
+15,425 667 4,151 216-5510079-68302  Department Equipment Maint 63 63 63
+164 1,104 93,728 216-5510079-68307  Software Lic and Maint Fees 200 200 200
+175 200 600 216-5510079-69513  Permits/Licenses 400 400 400
+- - 710 216-5510079-69901  Other Expense 445 445 445
+- - - 216-5510079-69907  Wrap Services 30,000 30,000 30,000
+4,130 91 44 216-5510079-69909  Payback 35 35 35
+1,196,755 1,124,344 2,194,658 Total For Contracted Services 1,145,354 1,145,354 1,145,354
+- - 1,500,000 216-5510079-72011  New State Pr
+ograms 1,500,000 1,500,000 1,500,000
+- - 1,000,000 216-5510079-72021  New Public Insurance 1,000,000 1,000,000 1,000,000
+- - 2,500,000 Total For Other Expenses 2,500,000 2,500,000 2,500,000
+9,695 9,701 9,997 216-5510079-78001  Trans Out For Building Reserve 9,311 9,311 9,311
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+2,441 2,802 3,519 216-5510079-78002  Trans Out For Pr
+operty Insur 3,920 3,920 3,920
+154,172 172,189 180,928 216-5510079-78003  Trans Out For Admin Overhead 191,429 191,429 191,429
+11,103 11,409 12,238 216-5510079-78004  Trans Out For T
+elecomm Equip 14,729 14,729 14,729
+- - 5,000 216-5510079-78005  Trans Out For Motor Pool 5,000 5,000 5,000
+5,114 3,010 1,900 216-5510079-78006  Trans Out For Computer Replace 24,840 24,840 24,840
+1,175 1,198 1,134 216-5510079-78015  Trans Out For Computer Service 971 971 971
+24 28 24 216-5510079-78017  Trans Out For Postage Charges 20 20 20
+6,006 6,006 6,431 216-5510079-78027  Trans Out For Liability Insur 8,031 8,031 8,031
+-1,678 -422 - 216-5510079-78044  Trans Out For PEL Reserves - - -
+3,035 3,157 3,465 216-5510079-78046  Trans Out For Network Charges 48,048 48,048 48,048
+976 849 1,149 216-5510079-78054  Trans Out For Telecomm Calls - - -
+236 236 242 216-5510079-78055  Trans Out For Legal Services 205 205 205
+192,300 210,163 226,027 Total For T
+ransfer Outs Reciprocal 306,504 306,504 306,504
+13,801 7,549 527,884 216-5510079-80007  HHS Software Purchase 491,655 491,655 491,655
+- - 81 216-5510079-80080  Capital Department Equipment 68 68 68
+- 1,200,000 - 216-5510079-81002  Building Purchase - - -
+- - 870,000 216-5510079-82001  Miscellaneous Building Remodel - - -
+13,801 1,207,549 1,397,965 Total For Capital 491,723 491,723 491,723
+1,760,042 2,900,986 6,767,752 3.0071 Total Expenses Administrative Services - HHS 2.4250 4,912,168 4,912,168 4,912,168
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Transfers - HHS
+2,205,141 1,649,191 1,658,667 216-5510090-38091  Trans In From General Fund 1,633,667 1,633,667 1,633,667
+2,205,141 1,649,191 1,658,667 Total Revenue 1,633,667 1,633,667 1,633,667
+- - - - Total For Personnel - - - -
+- - - - Total Expenses Transfers - HHS - - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Ending Fund Balance - HHS
+- - - - Total For Personnel - - - -
+- - 8,815,335 216-5510093-99001  Ending Fund Balance 21,461,999 21,461,999 21,461,999
+- - 8,815,335 Total For Balances 21,461,999 21,461,999 21,461,999
+- - 8,815,335 - Total Expenses Ending Fund Balance - HHS - 21,461,999 21,461,999 21,461,999
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Public Health
+216-5515070 HHS Public Health
+Public Health (PH) staff are continually assessing current health and safety needs of the community, as well as local capacity and expertise, in an effort to move toward
+community-driven health goals.
+Public Health Modernization’s goal is to ensure foundational capabilities in all public health authorities. Modernization funds have supported additions for epidemiological and
+communications work that has increased the ability to provide real-time, critical information and data to inform decision-making and information sharing.
+Vital Records provides birth and death certificates and work with our funeral home partners.
+Maternal Child Health (MCH) and Family Support is composed of four home nurse visiting programs to support families during pregnancy and through early childhood. These
+programs include Nurse Family Partnership (NFP) for first time parents, Babies First for families with social support needs, CaCoon for families with children who have special
+medical needs through the age of 21 years and Family Connects that offers 1-2 home visits from a nurse during the postpartum period for any family who wants one.
+Clinic services include infant, childhood and adult vaccines, and sexually transmitted infections testing and treatment.
+Communicable Disease provides an array of services to prevent and stop the spread of disease. This is done through follow-up on diseases that are reportable by Oregon law to
+ensure notification of individuals impacted as well as facilitation to treatment, and in some cases such as with tuberculosis or hepatitis B, case management. Additionally, the
+communicable disease program supports facilities such as long-term facilities in the event of a disease outbreak and provides technical assistance and education to healthcare
+providers and hospitals.
+Emergency Preparedness works with individuals, families, and local organizations and agencies to prepare and respond to natural and human-made emergencies.  This work
+includes planning and responding to things such as wildfires, floods, mass-casualty or mass-fatality events, mass prophylaxes of medication.  This program also coordinates and
+oversees the local Medical Reserve Corp.
+Environmental Health provides licensing and inspection services for permanent, temporary, and mobile food service facilities, public swimming pools and spas, tourist facilities
+including bed and breakfasts, schools with USDA food programs, and contracted certified daycare operators. The program also provides food service worker training and performs
+water system surveys of small public water systems and assists operators of those systems with monitoring and compliance.
+Animal Bites and Rabies Prevention investigates mammal animal bites to assess for risk of rabies exposure and provide prophylactic treatment when necessary.
+Health Promotion and Prevention programs work with community partners such as schools, municipalities, social services agencies, and community members on efforts to support
+overall health and wellness of the people in Yamhill County. Programs include Alcohol and Drug Prevention and Education, Drug Overdose Prevention, Tobacco/Vaping
+Prevention and Education, Suicide Prevention, Injury Prevention, and community nutrition work.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Public Health - HHS
+309,524 332,142 307,286 216-5515070-32101  Restaurant Licenses 336,369 336,369 336,369
+121,710 124,770 110,000 216-5515070-32299  Misc Rev - Licenses & Permits 115,000 115,000 115,000
+- 29,022 29,022 216-5515070-33115  CFDA Federal Grant 22,362 22,362 22,362
+772,031 807,418 1,283,973 216-5515070-33172  Federal Grant - Subrecipient 935,913 935,913 935,913
+66,285 25,860 62,446 216-5515070-33173  Federal Grant - Vendor 70,672 70,672 70,672
+1,264,075 1,726,141 1,475,647 216-5515070-33411  State Health Grant 1,523,062 1,523,062 1,523,062
+464 358 400 216-5515070-33512  Beer & Wine T
+ax 350 350 350
+10,921 11,939 9,100 216-5515070-34610  Patient Fees 7,600 7,600 7,600
+32,761 29,632 26,450 216-5515070-34611  Private Insurance 21,500 21,500 21,500
+922,929 1,041,781 927,658 216-5515070-34612  Public Insurance (OHP) 713,064 713,064 713,064
+48,007 38,334 52,437 216-5515070-34613  Local Contracts 65,578 65,578 65,578
+- 3,195 - 216-5515070-36105  Lease Interest Revenue - - -
+6,500 7,000 5,000 216-5515070-36203  Donations 5,000 5,000 5,000
+20,414 31,682 56,394 216-5515070-36204  Rent 57,875 57,875 57,875
+- 11,947 - 216-5515070-36212  Reimbursement - - -
+- 500 - 216-5515070-36299  Miscellaneous - Other Revenue - - -
+3,100 3,600 5,000 216-5515070-38001  Trans In For Restaurant Insp 5,000 5,000 5,000
+3,578,719 4,225,319 4,350,813 Total Revenue 3,879,345 3,879,345 3,879,345
+3,269 4,993 5,662 0.0844 216-5515070-40102  Administrative Office Specialist 0.0937 6,380 6,380 6,380
+97,178 185,939 208,883 2.2533 216-5515070-40130  Senior Management Analyst 1.2810 121,269 121,269 121,269
+846,247 162,850 18,487 0.2533 216-5515070-40132  Management Analyst 0.5621 43,052 43,052 43,052
+15,652 15,259 14,847 0.0947 216-5515070-40133  HHS Director 0.0909 14,305 14,305 14,305
+421 - - - 216-5515070-40135  Program Manager 3 - - - -
+10,916 - - - 216-5515070-40137  Program Manager 1 - - - -
+10,834 15,227 20,038 0.2804 216-5515070-40148  Data Analyst 0.1287 9,799 9,799 9,799
+6,447 - - - 216-5515070-40155  Program Manager 4 - - - -
+90,413 103,475 110,595 1.0844 216-5515070-40181  HHS Supervisor 1 1.0000 105,932 105,932 105,932
+97,599 179,254 198,890 2.0000 216-5515070-40182  HHS Supervisor 2 2.0000 201,662 201,662 201,662
+94,131 134,150 133,436 1.1848 216-5515070-40184  HHS Manager 2 1.1784 146,764 146,764 146,764
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+44,059 48,608 51,480 1.0000 216-5515070-40202  Office Specialist 2 1.0000 52,602 52,602 52,602
+32,716 50,646 56,771 1.0000 216-5515070-40203  Senior Office Specialist 1.0000 57,714 57,714 57,714
+- - - - 216-5515070-40214  Senior Accounting Clerk 0.1874 11,587 11,587 11,587
+67,974 72,926 76,106 1.1689 216-5515070-40215  Accounting Technician 1 0.1874 12,304 12,304 12,304
+4,891 5,436 5,469 0.0558 216-5515070-40370  EHR System Analyst 0.0643 6,461 6,461 6,461
+3,855 4,468 4,922 0.0558 216-5515070-40374  EHR System Analyst I 0.0643 5,624 5,624 5,624
+207,986 160,246 167,926 2.0000 216-5515070-40602  Environmental Health Specialist 2 2.0000 169,567 169,567 169,567
+88,599 91,645 94,455 1.0000 216-5515070-40603  Environmental Health Specialist 3 1.0000 94,460 94,460 94,460
+- 660,642 899,386 11.0000 216-5515070-40604  Community Health Analyst 10.0000 830,730 830,730 830,730
+60,120 28,755 32,441 0.6000 216-5515070-40605  Certified Medical Assistant - - - -
+521,389 466,056 636,134 7.0000 216-5515070-40607  Registered Nurse 2 6.8000 609,496 609,496 609,496
+92,987 60,294 - - 216-5515070-40608  Registered Nurse 3 - - - -
+- - - - 216-5515070-40618  Professional Medical Coder 0.0643 3,826 3,826 3,826
+- 56,607 65,096 1.0000 216-5515070-40620  Human Services Associate 1.0000 65,389 65,389 65,389
+50,009 65,396 138,792 2.0000 216-5515070-40622  Human Services Specialist 1 2.0000 145,334 145,334 145,334
+2,381 7,612 7,709 0.0844 216-5515070-40625  Behavioral Health Clinician 0.0937 8,512 8,512 8,512
+8,459 8,576 8,280 0.0844 216-5515070-40626  Advanced Practice Behavioral Health Clinician 0.0937 9,330 9,330 9,330
+7,324 8,013 15,426 216-5515070-47500  Longevity Pay 18,056 18,056 18,056
+4,115 5,233 8,225 216-5515070-47750  Out Of Class Pay 14,250 14,250 14,250
+30,912 3,062 4,880 216-5515070-47900  Other Earnings - - -
+484 - 200 216-5515070-48000  Extra Hours - - -
+5,463 4,607 5,550 216-5515070-48100  Overtime 5,500 5,500 5,500
+11,991 12,808 13,000 216-5515070-48400  Beeper Pay 13,000 13,000 13,000
+3,522 - - 216-5515070-48500  Certification/Education - - -
+33,309 39,941 40,966 216-5515070-48600  Incentive Pay 39,546 39,546 39,546
+36,281 38,322 43,756 216-5515070-49001  Medicare T
+ax 40,550 40,550 40,550
+155,029 163,786 187,109 216-5515070-49100  Social Security 173,388 173,388 173,388
+551,343 564,926 772,918 216-5515070-49210  Retirement 663,457 663,457 663,457
+648,118 675,342 872,846 216-5515070-49310  Medical Insurance 925,559 925,559 925,559
+10,214 10,567 22,189 216-5515070-49311  Paid Leave Or
+egon 11,184 11,184 11,184
+994 1,319 986 216-5515070-49312  Employee Assistance Program 1,021 1,021 1,021
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+43,533 42,900 51,223 216-5515070-49315  VEBA 39,825 39,825 39,825
+37,991 37,923 48,651 216-5515070-49320  Dental Insurance Expense 42,183 42,183 42,183
+4,004 3,850 4,882 216-5515070-49325  Vision Insurance 3,639 3,639 3,639
+10,960 10,682 12,272 216-5515070-49331  Short Term Disability 10,384 10,384 10,384
+876 835 1,554 216-5515070-49340  Life Insurance 887 887 887
+16,191 19,878 21,207 216-5515070-49400  Accident Insurance 24,912 24,912 24,912
+2,518 - - 216-5515070-49480  Time Loss Reserve - - -
+2,567 2,686 2,955 216-5515070-49500  Unemployment 2,732 2,732 2,732
+617 557 816 216-5515070-49600  Workers Comp Assessment 741 741 741
+8,176 12,680 8,000 216-5515070-49900  FET/Vacation/Sick 11,000 11,000 11,000
+4,085,062 4,248,975 5,095,416 35.2848 Total For Personnel 31.8900 4,773,913 4,773,913 4,773,913
+3,290 5,547 5,092 216-5515070-51001  Central Supplies 4,500 4,500 4,500
+24,819 32,395 25,000 216-5515070-51199  Miscellaneous Supplies 24,948 24,948 24,948
+76,622 77,920 75,500 216-5515070-51201  Medications 55,500 55,500 55,500
+3,858 2,317 4,550 216-5515070-51203  Laboratory Materials 4,550 4,550 4,550
+8,680 6,646 8,275 216-5515070-51204  Laboratory Expense 5,775 5,775 5,775
+2,444 139 1,500 216-5515070-51301  Educational Materials 1,000 1,000 1,000
+11,578 20,066 37,000 216-5515070-51303  Publications & Dues 29,500 29,500 29,500
+12,643 37,474 8,000 216-5515070-54301  Small Equipment Purchases 5,000 5,000 5,000
+4,547 5,431 4,000 216-5515070-58302  Data Processing Supplies 4,500 4,500 4,500
+148,481 187,936 168,917 Total For Materials & Services 135,273 135,273 135,273
+2,470 3,897 3,200 216-5515070-61024  Interpreter Services 4,697 4,697 4,697
+12,300 12,600 13,150 216-5515070-61025  Professional Contract Employees 12,601 12,601 12,601
+2,715 3,655 4,021 216-5515070-61101  Audit 3,915 3,915 3,915
+113 23,252 29,753 216-5515070-61102  Contract Services 29,063 29,063 29,063
+3,914 - 2,981 216-5515070-61103  Janitorial Contract - - -
+434,284 504,181 550,966 216-5515070-61130  Grant Expenses 321,570 321,570 321,570
+8,169 27,772 15,001 216-5515070-61202  Schools And Conferences 16,000 16,000 16,000
+25,461 23,983 25,500 216-5515070-62001  Telephone 23,501 23,501 23,501
+2,340 2,647 1,798 216-5515070-62101  Postage 2,000 2,000 2,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+21,643 17,664 18,000 216-5515070-63001  Travel Expense 19,000 19,000 19,000
+1,843 1,268 1,610 216-5515070-64001  Advertising 454 454 454
+277 18 150 216-5515070-65001  Equipment Lease 300 300 300
+36,403 35,075 30,348 216-5515070-65201  Building Rent 14,805 14,805 14,805
+3,159 4,460 2,669 216-5515070-67002  Heat/Lights/Water 4,625 4,625 4,625
+1,101 1,080 1,047 216-5515070-67004  Property Taxes 1,044 1,044 1,044
+512 472 674 216-5515070-68301  Copy Machines/Maint 525 525 525
+5,772 1,400 2,675 216-5515070-68302  Department Equipment Maint 3,383 3,383 3,383
+- 350 33,366 216-5515070-68307  Software Lic and Maint Fees 40,106 40,106 40,106
+- - - 216-5515070-68310  Building Maintenance - - -
+821 1,067 2,500 216-5515070-69513  Permits/Licenses 1,401 1,401 1,401
+- - 740 216-5515070-69901  Other Expense 460 460 460
+1,985 1,731 2,000 216-5515070-69907  Wrap Services - - -
+10,634 10,221 8,900 216-5515070-69908  Bank Service Charge 8,900 8,900 8,900
+147,764 108,123 155,172 216-5515070-69909  Payback 151,138 151,138 151,138
+80 341 375 216-5515070-69914  Other OHP Expenses - - -
+723,759 785,257 906,596 Total For Contracted Services 659,488 659,488 659,488
+32,185 29,013 25,100 216-5515070-73002  State Surcharge Expense 30,583 30,583 30,583
+32,185 29,013 25,100 Total For Other Expenses 30,583 30,583 30,583
+132,376 124,746 117,961 216-5515070-78001  Trans Out For Building Reserve 123,971 123,971 123,971
+5,015 5,756 7,229 216-5515070-78002  Trans Out For Pr
+operty Insur 8,053 8,053 8,053
+98,357 119,652 153,385 216-5515070-78003  Trans Out For Admin Overhead 167,050 167,050 167,050
+15,973 16,128 17,684 216-5515070-78004  Trans Out For T
+elecomm Equip 23,566 23,566 23,566
+7,227 8,899 7,000 216-5515070-78005  Trans Out For Motor Pool 8,500 8,500 8,500
+27,361 25,099 22,413 216-5515070-78006  Trans Out For Computer Replace 23,883 23,883 23,883
+16,044 15,318 13,385 216-5515070-78015  Trans Out For Computer Service 12,930 12,930 12,930
+404 734 283 216-5515070-78017  Trans Out For Postage Charges 272 272 272
+12,342 12,342 13,214 216-5515070-78027  Trans Out For Liability Insur 17,554 17,554 17,554
+836 -484 - 216-5515070-78044  Trans Out For PEL Reserves - - -
+41,436 40,594 40,897 216-5515070-78046  Trans Out For Network Charges 44,772 44,772 44,772
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,471 1,202 1,530 216-5515070-78054  Trans Out For T
+elecomm Calls - - -
+3,214 3,026 2,855 216-5515070-78055  Trans Out For Legal Services 2,741 2,741 2,741
+362,056 373,011 397,836 Total For T
+ransfer Outs Reciprocal 433,292 433,292 433,292
+4,755 2,786 13,036 216-5515070-80007  HHS Software Purchase 15,929 15,929 15,929
+- - 946 216-5515070-80080  Capital Department Equipment 906 906 906
+378,036 531,179 - 216-5515070-82001  Miscellaneous Building Remodel - - -
+382,791 533,965 13,982 Total For Capital 16,835 16,835 16,835
+5,734,334 6,158,156 6,607,847 35.2848 Total Expenses Public Health - HHS 31.8900 6,049,384 6,049,384 6,049,384
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Community Support Services
+216-5520073 HHS Community Support Services
+Community Support Services (CSS) provides an array of community-based services focused on supporting individuals with mental illness pursue their recovery goals, improve
+wellness, and achieve their full potential in their health, home, purpose and community.
+Early Assessment and Support Alliance (EASA) is a two-year outreach and treatment program for young people aged 15 to 25 who reside in Yamhill County. EASA helps identify
+and support young people whose symptoms are consistent with the onset of a psychotic illness, such as schizophrenia or bipolar disorder with psychosis, or who are at high clinical
+risk for the development of psychosis. EASA also helps clarify diagnosis and appropriate treatment, and supports referrals in linking to appropriate care. Those who have
+experienced a first episode of psychosis or are having early signs of psychosis within the last 12 months and whose symptoms are not caused by a medical condition or substance
+abuse are eligible to participate.
+Assertive Community Treatment (ACT) is an evidence-based practice that improves outcomes for people with severe mental illness who are most at-risk of psychiatric crisis and
+hospitalization and involvement in the criminal justice system. ACT is a multidisciplinary team approach with assertive outreach in the community. The consistent, caring, person-
+centered relationships have a positive effect upon outcomes and quality of life. Research shows that ACT reduces hospitalization, increases housing stability, and improves quality
+of life for people with the most severe symptoms of mental illness.
+Supported Employment and Education offers evidenced-based supported employment and education services for individuals experiencing challenges with obtaining or maintaining
+a job or education due to their behavioral health condition. Services include career planning, vocational counseling, work incentives/benefits counseling, resume writing, interview
+skills training, job search assistance, job placement, educational assessments, application assistance, financial planning, and on-going supports to help keep a job or stay in school.
+Wellness classes are offered to promote physical and mental wellbeing. They include living well with chronic diseases, healthy living, fitness classes, and walking groups.
+Habilitative Services are home and community-based supports with activities of daily living, recovery support, assistance obtaining transportation, home maintenance, money
+management, and community negotiation.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Community Support Services - HHS
+68,199 107,447 109,595 216-5520073-33172  Federal Grant - Subrecipient - - -
+836,877 1,424,794 1,114,263 216-5520073-33411  State Health Grant 427,874 427,874 427,874
+- 8 - 216-5520073-34298  Over/Short - - -
+2,185 3,753 2,450 216-5520073-34610  Patient Fees 2,450 2,450 2,450
+19,085 28,694 9,300 216-5520073-34611  Private Insurance 16,800 16,800 16,800
+2,221,998 13,082,325 2,807,982 216-5520073-34612  Public Insurance (OHP) 4,959,617 4,959,617 4,959,617
+39,300 56,800 30,000 216-5520073-34613  Local Contracts 30,000 30,000 30,000
+3,600 6,050 - 216-5520073-36202  Rental/Sale Equip/Prop - - -
+- 11,939 - 216-5520073-36212  Reimbursement - - -
+- - - 216-5520073-36297  Client Loan Repayment - - -
+1,183 - - 216-5520073-36299  Miscellaneous - Other Revenue - - -
+11,948 11,949 12,000 216-5520073-38016  Trans In For Abacus Services 6,852 6,852 6,852
+- - _ - _ _ _
+4,500 - - 216-5520073-38044  Trans In For Collision Insur - - -
+3,208,875 14,733,759 4,085,590 Total Revenue 5,443,593 5,443,593 5,443,593
+2,867 4,876 5,900 0.0880 216-5520073-40102  Administrative Office Specialist 0.1071 7,296 7,296 7,296
+14,896 16,774 17,459 0.1274 216-5520073-40117  Behavioral Health Dir
+ector 0.1350 18,868 18,868 18,868
+2,571 - - - 216-5520073-40125  Program Supervisor - - - -
+21,433 22,015 24,403 0.2640 216-5520073-40130  Senior Management Analyst 0.3214 29,430 29,430 29,430
+17,429 15,162 19,262 0.2640 216-5520073-40132  Management Analyst 0.6428 49,235 49,235 49,235
+14,651 15,487 16,193 0.1033 216-5520073-40133  HHS Director 0.1096 17,248 17,248 17,248
+2,467 - - - 216-5520073-40135  Program Manager 3 - - - -
+11,255 - - - 216-5520073-40137  Program Manager 1 - - - -
+16,536 22,602 21,362 0.2544 216-5520073-40146  Senior Office Administrator 0.2699 21,213 21,213 21,213
+14,380 19,692 25,587 0.3557 216-5520073-40148  Data Analyst 0.2236 17,024 17,024 17,024
+7,109 - - - 216-5520073-40155  Program Manager 4 - - - -
+459 - - - 216-5520073-40171  Main Supervisor - - - -
+7,016 8,756 8,937 0.0880 216-5520073-40181  HHS Supervisor 1 - - - -
+126,462 172,584 317,997 3.2200 216-5520073-40182  HHS Supervisor 2 3.2200 319,116 319,116 319,116
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+33,326 37,322 41,004 0.3470 216-5520073-40183  HHS Manager 1 0.3549 41,986 41,986 41,986
+125,660 143,646 139,067 1.1982 216-5520073-40184  HHS Manager 2 1.2141 151,731 151,731 151,731
+1,088 - - - 216-5520073-40202  Office Specialist 2 - - - -
+78,937 89,267 121,814 2.6415 216-5520073-40203  Senior Office Specialist 2.8537 133,632 133,632 133,632
+39,176 40,196 39,979 0.6583 216-5520073-40214  Senior Accounting Clerk 0.7329 45,292 45,292 45,292
+9,812 10,614 11,471 0.1760 216-5520073-40215  Accounting Technician 1 0.2143 14,071 14,071 14,071
+27,916 30,541 33,832 0.5839 216-5520073-40220  Office Specialist Technician 0.2700 16,930 16,930 16,930
+8,098 8,579 8,812 0.0899 216-5520073-40370  EHR System Analyst 0.11
+18 11,225 11,225 11,225
+6,393 7,053 7,931 0.0899 216-5520073-40374  EHR System Analyst I 0.11
+18 9,771 9,771 9,771
+- 47,215 140,341 1.6000 216-5520073-40607  Registered Nurse 2 1.0000 83,967 83,967 83,967
+- 50,233 75,862 0.3500 216-5520073-40608  Registered Nurse 3 0.7000 153,407 153,407 153,407
+- - - - 216-5520073-40609  Licensed Practical Nurse - - - -
+- - - - 216-5520073-40618  Professional Medical Coder 0.11
+18 6,647 6,647 6,647
+3,248 - - - 216-5520073-40619  Human Services Technician - - - -
+294,471 340,853 464,262 7.9750 216-5520073-40620  Human Services Associate 7.9750 466,266 466,266 466,266
+722,409 785,044 915,954 12.0000 216-5520073-40622  Human Services Specialist 1 11.0000 858,740 858,740 858,740
+3,993 - - - 216-5520073-40623  Human Services Specialist 2 - - - -
+3,659 - - - 216-5520073-40624  Human Services Specialist 3 - - - -
+127,198 130,027 175,957 2.0880 216-5520073-40625  Behavioral Health Clinician 2.1071 180,970 180,970 180,970
+236,390 305,132 380,566 4.0880 216-5520073-40626  Advanced Practice Behavioral Health Clinician 5.1071 469,586 469,586 469,586
+336 278 350 216-5520073-47400  Shift Diff 350 350 350
+10,303 13,986 23,626 216-5520073-47500  Longevity Pay 21,851 21,851 21,851
+13,649 17,465 17,075 216-5520073-47750  Out Of Class Pay 24,116 24,116 24,116
+68,493 23,121 5,086 216-5520073-47900  Other Earnings - - -
+106 138 200 216-5520073-48000  Extra Hours 200 200 200
+953 1,273 1,600 216-5520073-48100  Overtime 1,400 1,400 1,400
+8,651 10,021 9,500 216-5520073-48400  Beeper Pay 9,500 9,500 9,500
+844 - - 216-5520073-48500  Certification/Education - - -
+10,481 16,695 16,826 216-5520073-48600  Incentive Pay 12,743 12,743 12,743
+29,932 34,406 44,599 216-5520073-49001  Medicare T
+ax 46,131 46,131 46,131
+127,890 146,823 190,683 216-5520073-49100  Social Security 197,256 197,256 197,256
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+404,875 466,471 761,153 216-5520073-49210  Retirement 807,879 807,879 807,879
+529,127 633,954 883,307 216-5520073-49310  Medical Insurance 1,132,270 1,132,270 1,132,270
+8,422 9,473 22,586 216-5520073-49311  Paid Leave Or
+egon 12,636 12,636 12,636
+932 1,339 1,101 216-5520073-49312  Employee Assistance Program 1,245 1,245 1,245
+38,777 40,279 51,835 216-5520073-49315  VEBA 45,855 45,855 45,855
+29,531 34,068 49,237 216-5520073-49320  Dental Insurance Expense 51,460 51,460 51,460
+3,542 3,839 4,952 216-5520073-49325  Vision Insurance 4,467 4,467 4,467
+8,839 9,491 12,824 216-5520073-49331  Short Term Disability 13,268 13,268 13,268
+741 808 1,622 216-5520073-49340  Life Insurance 1,191 1,191 1,191
+18,849 25,821 33,436 216-5520073-49400  Accident Insurance 34,512 34,512 34,512
+2,068 - - 216-5520073-49480  Time Loss Reserve - - -
+2,106 2,418 3,016 216-5520073-49500  Unemployment 3,125 3,125 3,125
+541 551 891 216-5520073-49600  Workers Comp Assessment 895 895 895
+9,345 8,295 8,000 216-5520073-49900  FET/Vacation/Sick 10,000 10,000 10,000
+3,310,639 3,824,686 5,157,457 38.6503 Total For Personnel 38.8941 5,556,001 5,556,001 5,556,001
+2,505 2,038 2,500 216-5520073-51001  Central Supplies 2,500 2,500 2,500
+2,025 1,413 1,650 216-5520073-51106  Training Supplies 1,150 1,150 1,150
+3,982 8,619 8,000 216-5520073-51199  Miscellaneous Supplies 8,000 8,000 8,000
+- 261 150 216-5520073-51203  Laboratory Materials 150 150 150
+305 - 150 216-5520073-51301  Educational Materials 150 150 150
+1,846 1,440 500 216-5520073-51303  Publications & Dues 500 500 500
+806 10,654 2,500 216-5520073-54301  Small Equipment Purchases 2,500 2,500 2,500
+1,814 3,315 2,100 216-5520073-58302  Data Processing Supplies 2,100 2,100 2,100
+13,283 27,738 17,550 Total For Materials & Services 17,050 17,050 17,050
+- - 18,927 216-5520073-61001  Professional Services 19,882 19,882 19,882
+2,036 4,551 850 216-5520073-61024  Interpreter Services 7,296 7,296 7,296
+5,288 5,021 5,617 216-5520073-61025  Professional Contract Employees 5,749 5,749 5,749
+2,430 2,648 2,913 216-5520073-61101  Audit 3,103 3,103 3,103
+- 7,526 11,753 216-5520073-61102  Contract Services 12,945 12,945 12,945
+3,668 - 3,254 216-5520073-61103  Janitorial Contract - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+221,086 202,734 241,800 216-5520073-61130  Grant Expenses 120,000 120,000 120,000
+13,323 11,587 8,500 216-5520073-61202  Schools And Conferences 8,999 8,999 8,999
+22,400 16,800 32,000 216-5520073-61304  OHP Subcontracted Services 32,000 32,000 32,000
+28,345 26,903 28,000 216-5520073-62001  Telephone 27,000 27,000 27,000
+870 1,011 900 216-5520073-62101  Postage 900 900 900
+11,920 17,509 11,125 216-5520073-63001  Travel Expense 13,625 13,625 13,625
+2,017 1,289 1,755 216-5520073-64001  Advertising 547 547 547
+260 18 150 216-5520073-65001  Equipment Lease 25 25 25
+34,117 35,560 33,112 216-5520073-65201  Building Rent 17,848 17,848 17,848
+2,960 4,522 2,912 216-5520073-67002  Heat/Lights/Water 5,575 5,575 5,575
+1,032 1,095 1,142 216-5520073-67004  Property Taxes 1,261 1,261 1,261
+501 603 400 216-5520073-68301  Copy Machines/Maint 550 550 550
+9,337 635 2,709 216-5520073-68302  Department Equipment Maint 3,869 3,869 3,869
+- 552 53,763 216-5520073-68307  Software Lic and Maint Fees 69,675 69,675 69,675
+722 895 1,001 216-5520073-69513  Permits/Licenses 800 800 800
+- - 720 216-5520073-69901  Other Expense 460 460 460
+1,462 4,590 1,750 216-5520073-69907  Wrap Services - - -
+168 115 150 216-5520073-69908  Bank Service Charge 150 150 150
+2,355 3,531 2,924 216-5520073-69909  Payback 2,339 2,339 2,339
+9,355 3,940 6,500 216-5520073-69914  Other OHP Expenses - - -
+375,652 353,635 474,627 Total For Contracted Services 354,598 354,598 354,598
+9,600 7,200 9,600 216-5520073-70024  Crisis Subcontract 9,600 9,600 9,600
+9,600 7,200 9,600 Total For Other Expenses 9,600 9,600 9,600
+123,985 126,470 128,703 216-5520073-78001  Trans Out For Building Reserve 149,459 149,459 149,459
+10,016 11,496 14,439 216-5520073-78002  Trans Out For Pr
+operty Insur 16,084 16,084 16,084
+92,871 108,243 117,927 216-5520073-78003  Trans Out For Admin Overhead 138,053 138,053 138,053
+17,416 17,168 17,064 216-5520073-78004  Trans Out For T
+elecomm Equip 24,057 24,057 24,057
+59,434 53,676 52,000 216-5520073-78005  Trans Out For Motor Pool 53,000 53,000 53,000
+25,941 25,959 24,457 216-5520073-78006  Trans Out For Computer Replace 23,490 23,490 23,490
+15,026 15,530 14,606 216-5520073-78015  Trans Out For Computer Service 15,589 15,589 15,589
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+238 368 309 216-5520073-78017  Trans Out For Postage Charges 329 329 329
+24,639 24,639 26,380 216-5520073-78027  Trans Out For Liability Insur 44,173 44,173 44,173
+986 4,002 - 216-5520073-78044  Trans Out For PEL Reserves - - -
+38,811 41,157 44,620 216-5520073-78046  Trans Out For Network Charges 43,680 43,680 43,680
+434 699 876 216-5520073-78054  Trans Out For Telecomm Calls - - -
+3,008 3,068 3,115 216-5520073-78055  Trans Out For Legal Services 3,301 3,301 3,301
+412,805 432,474 444,496 Total For Transfer Outs Reciprocal 511,215 511,215 511,215
+7,978 4,393 21,006 216-5520073-80007  HHS Software Purchase 27,673 27,673 27,673
+- - 1,033 216-5520073-80080  Capital Department Equipment 1,096 1,096 1,096
+- 22,754 45,000 216-5520073-80202  Vehicle & Equipment Replace 35,000 35,000 35,000
+7,978 27,147 67,039 Total For Capital 63,769 63,769 63,769
+4,129,956 4,672,880 6,170,769 38.6503 Total Expenses Community Support Services - HHS 38.8941 6,512,233 6,512,233 6,512,233
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Family and Youth
+216-5520075 HHS Family and Youth
+Family and Youth (F&Y) strives to promote physical, emotional, and social wellbeing through services, prevention, education and partnership. Our team provides a client-centered
+and personalized approach to empowering youth and families to meet their goals.
+Youth Outpatient Mental Health and Substance Use Disorder (SUD) programs serve children and teens ages 0-18. They have an array of mental health professionals who have
+advanced education and training in counseling and various specialties. These include Cognitive Behavioral Therapy, Collaborative Problem Solving, Dialectical Behavioral
+Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Parent-Child Interactive Therapy (PCIT), and Motivational Interviewing and Medication Management.
+School Based Services are done in partnership with the schools to bring treatment services to the school location in an effort to make services as easily accessible as possible.
+PCIT is an intensive therapy for early childhood aimed at improving behavior by promoting positive parent-child relationships. It uses in the moment, experience-based methods
+and coaching. Parents are taught skills to manage behaviors and be more in tune with their child.
+Wraparound is a planning process that follows a series of steps to support youth and their families accomplish the goals needed in order to reach their vision. This team will
+include a Care Coordinator and possibly a Family and/or Youth Partner, and may include other family members, friends, neighbors, school staff, therapists, church members,
+Department of Human Services (DHS) case workers, parole/probation officers, coaches or others. The team will develop one Care Coordination Plan and a Safety Crisis Plan.
+They will also look at additional supports and professional services as necessary.
+Intensive In-Home Behavioral Health Treatment (IIBHT) is for youth ages 0-20 with intensive behavioral health needs. The program offers a variety of in-home and community-
+based services, including case management, psychiatric services, skills training, individual and family therapy, crisis support, and peer support.
+Medication Management services are provided when extreme behaviors, anxiety, or depression does not improve adequately with counseling alone.
+Crisis Services are provided in the clinic, via telephone and through our mobile Community Outreach and Support Team. Crisis services are available 24 hours a day, 7 days a
+week. They provide screening and assessment, intervention, and linkage to the appropriate level of care.
+Flight Team responds to schools and other locations after a traumatic loss of life is experienced, where mental health counselors partner with school- trained staff to offer debrief
+and support, early trauma intervention, and connection to ongoing treatment services for affected students and school staff.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Family and Youth - HHS
+24,300 40,356 41,163 216-5520075-33172  Federal Grant - Subrecipient - - -
+703,008 526,589 633,396 216-5520075-33411  State Health Grant 411,376 411,376 411,376
+14,656 11,327 12,500 216-5520075-33512  Beer & Wine T
+ax 10,200 10,200 10,200
+8 - - 216-5520075-34298  Over/Short - - -
+18,051 31,551 24,100 216-5520075-34610  Patient Fees 24,600 24,600 24,600
+173,970 65,889 89,200 216-5520075-34611  Private Insurance 66,700 66,700 66,700
+7,105,814 7,894,646 6,999,636 216-5520075-34612  Public Insurance (OHP) 7,192,086 7,192,086 7,192,086
+531,105 446,023 498,268 216-5520075-34613  Local Contracts 516,911 516,911 516,911
+2,995 3,195 2,000 216-5520075-35006  Court Correc Assessments 1,875 1,875 1,875
+1,738 1,943 1,896 216-5520075-36204  Rent 2,050 2,050 2,050
+2,707 21,714 - 216-5520075-36212  Reimbursement - - -
+60 - - 216-5520075-36299  Miscellaneous - Other Revenue - - -
+74,209 66,112 85,535 216-5520075-38013  Trans In For Contract Service - - -
+- - _ - _ _ _
+- - - 216-5520075-38015  Trans In For Detention Mental Health Counseling 85,885 85,885 85,885
+8,652,620 9,109,346 8,387,694 Total Revenue 8,311,683 8,311,683 8,311,683
+5,216 8,687 10,471 0.1562 216-5520075-40102  Administrative Office Specialist 0.1738 11,837 11,837 11,837
+27,679 29,933 30,987 0.2261 216-5520075-40117  Behavioral Health Dir
+ector 0.2191 30,611 30,611 30,611
+4,507 - - - 216-5520075-40125  Program Supervisor - - - -
+39,051 39,235 43,310 0.4685 216-5520075-40130  Senior Management Analyst 0.5214 47,746 47,746 47,746
+31,757 27,032 34,186 0.4685 216-5520075-40132  Management Analyst 1.0429 79,878 79,878 79,878
+25,663 26,550 27,398 0.1748 216-5520075-40133  HHS Director 0.1709 26,890 26,890 26,890
+4,967 - - - 216-5520075-40135  Program Manager 3 - - - -
+11,575 - - - 216-5520075-40137  Program Manager 1 - - - -
+29,928 40,058 38,011 0.4527 216-5520075-40146  Senior Office Administrator 0.4355 34,233 34,233 34,233
+25,986 35,138 45,411 0.6313 216-5520075-40148  Data Analyst 0.3628 27,621 27,621 27,621
+7,295 - - - 216-5520075-40155  Program Manager 4 - - - -
+278 - - - 216-5520075-40171  Main Supervisor - - - -
+102,124 115,944 121,380 1.1562 216-5520075-40181  HHS Supervisor 1 1.0000 107,590 107,590 107,590
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+121,304 185,818 208,164 2.1000 216-5520075-40182  HHS Supervisor 2 2.4313 244,594 244,594 244,594
+62,866 65,129 80,528 0.6867 216-5520075-40183  HHS Manager 1 0.6490 76,428 76,428 76,428
+139,222 159,063 156,234 1.3525 216-5520075-40184  HHS Manager 2 1.3467 157,345 157,345 157,345
+1,815 - - - 216-5520075-40202  Office Specialist 2 - - - -
+118,309 116,696 208,011 4.4750 216-5520075-40203  Senior Office Specialist 4.2191 189,432 189,432 189,432
+43,255 60,036 62,175 1.0000 216-5520075-40214  Senior Accounting Clerk 1.3476 83,687 83,687 83,687
+17,893 18,918 20,360 0.3123 216-5520075-40215  Accounting Technician 1 0.3476 22,829 22,829 22,829
+79,768 70,270 88,440 1.4521 216-5520075-40220  Office Specialist Technician 0.4381 27,468 27,468 27,468
+14,756 15,321 15,640 0.1595 216-5520075-40370  EHR System Analyst 0.1814 18,212 18,212 18,212
+11,626 12,595 14,075 0.1595 216-5520075-40374  EHR System Analyst I 0.1814 15,853 15,853 15,853
+221 - - - 216-5520075-40605  Certified Medical Assistant - - - -
+55,118 170,710 195,907 1.0000 216-5520075-40608  Registered Nurse 3 0.9000 182,323 182,323 182,323
+- - - - 216-5520075-40618  Professional Medical Coder 0.1814 10,785 10,785 10,785
+176,912 145,620 165,800 3.0000 216-5520075-40620  Human Services Associate 3.0000 168,664 168,664 168,664
+877,662 932,408 1,232,402 16.5000 216-5520075-40622  Human Services Specialist 1 13.6000 1,046,557 1,046,557 1,046,557
+15,699 - - - 216-5520075-40623  Human Services Specialist 2 - - - -
+18,865 - - - 216-5520075-40624  Human Services Specialist 3 - - - -
+838,979 858,943 881,796 10.8182 216-5520075-40625  Behavioral Health Clinician 11.4238 946,095 946,095 946,095
+929,872 936,607 1,597,401 17.5062 216-5520075-40626  Advanced Practice Behavioral Health Clinician 15.5238 1,429,246 1,429,246 1,429,246
+26 46 - 216-5520075-47400  Shift Diff 100 100 100
+17,660 24,754 34,463 216-5520075-47500  Longevity Pay 34,864 34,864 34,864
+13,319 11,656 12,018 216-5520075-47750  Out Of Class Pay 30,194 30,194 30,194
+115,120 23,050 9,027 216-5520075-47900  Other Earnings - - -
+1,846 2,459 2,100 216-5520075-48000  Extra Hours 2,100 2,100 2,100
+2,380 6,083 4,500 216-5520075-48100  Overtime 4,100 4,100 4,100
+11,842 13,390 12,500 216-5520075-48400  Beeper Pay 12,500 12,500 12,500
+4,021 - - 216-5520075-48500  Certification/Education - - -
+33,067 39,707 43,523 216-5520075-48600  Incentive Pay 46,101 46,101 46,101
+57,815 59,905 77,922 216-5520075-49001  Medicare T
+ax 73,733 73,733 73,733
+246,362 255,054 333,194 216-5520075-49100  Social Security 315,273 315,273 315,273
+832,784 871,799 1,410,292 216-5520075-49210  Retirement 1,261,410 1,261,410 1,261,410
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+872,434 1,008,623 1,508,615 216-5520075-49310  Medical Insurance 1,708,420 1,708,420 1,708,420
+16,156 16,456 37,447 216-5520075-49311  Paid Leave Oregon 20,269 20,269 20,269
+1,592 2,299 1,790 216-5520075-49312  Employee Assistance Program 1,919 1,919 1,919
+57,954 62,031 88,518 216-5520075-49315  VEBA 69,889 69,889 69,889
+47,798 50,770 84,098 216-5520075-49320  Dental Insurance Expense 77,681 77,681 77,681
+5,183 5,572 8,436 216-5520075-49325  Vision Insurance 6,388 6,388 6,388
+16,352 16,340 22,124 216-5520075-49331  Short Term Disability 20,119 20,119 20,119
+1,333 1,335 2,799 216-5520075-49340  Life Insurance 1,775 1,775 1,775
+14,530 18,713 22,519 216-5520075-49400  Accident Insurance 24,493 24,493 24,493
+3,990 - - 216-5520075-49480  Time Loss Reserve - - -
+4,057 4,213 5,284 216-5520075-49500  Unemployment 4,991 4,991 4,991
+975 907 1,506 216-5520075-49600  Workers Comp Assessment 1,395 1,395 1,395
+22,371 16,219 21,500 216-5520075-49900  FET/Vacation/Sick 15,500 15,500 15,500
+6,241,135 6,582,089 9,022,262 64.2561 Total For Personnel 59.6975 8,719,138 8,719,138 8,719,138
+7,160 5,232 6,000 216-5520075-51001  Central Supplies 5,500 5,500 5,500
+114 1,711 925 216-5520075-51106  T
+raining Supplies 1,425 1,425 1,425
+11,159 17,646 13,000 216-5520075-51199  Miscellaneous Supplies 15,500 15,500 15,500
+12 319 - 216-5520075-51203  Laboratory Materials - - -
+8,262 7,391 5,000 216-5520075-51204  Laboratory Expense 5,000 5,000 5,000
+3 50 - 216-5520075-51301  Educational Materials 100 100 100
+1,966 878 1,000 216-5520075-51303  Publications & Dues 900 900 900
+5,163 3,918 4,000 216-5520075-54301  Small Equipment Purchases 3,000 3,000 3,000
+7,493 2,370 6,000 216-5520075-58302  Data Processing Supplies 6,500 6,500 6,500
+41,334 39,515 35,925 Total For Materials & Services 37,925 37,925 37,925
+138 138 - 216-5520075-61001  Professional Services - - -
+11,419 7,384 6,000 216-5520075-61024  Interpreter Services 6,704 6,704 6,704
+9,765 9,314 10,349 216-5520075-61025  Professional Contract Employees 10,248 10,248 10,248
+3,900 4,711 5,182 216-5520075-61101  Audit 5,091 5,091 5,091
+5,625 13,433 19,888 216-5520075-61102  Contract Services 20,485 20,485 20,485
+5,142 6,597 5,507 216-5520075-61103  Janitorial Contract 7,000 7,000 7,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+12,416 9,715 6,500 216-5520075-61130  Grant Expenses 6,500 6,500 6,500
+297 - - 216-5520075-61201  Training And Development - - -
+27,583 30,657 30,001 216-5520075-61202  Schools And Conferences 28,999 28,999 28,999
+264,838 229,838 290,459 216-5520075-61304  OHP Subcontracted Services 229,838 229,838 229,838
+30,133 29,772 30,001 216-5520075-62001  Telephone 30,000 30,000 30,000
+1,276 1,468 1,450 216-5520075-62101  Postage 1,300 1,300 1,300
+14,367 18,924 12,450 216-5520075-63001  Travel Expense 18,450 18,450 18,450
+3,889 2,209 2,972 216-5520075-64001  Advertising 854 854 854
+3,722 2,714 1,399 216-5520075-65001  Equipment Lease 2,000 2,000 2,000
+48,443 50,337 46,479 216-5520075-65201  Building Rent 23,339 23,339 23,339
+4,151 6,400 4,087 216-5520075-67002  Heat/Lights/Water 7,290 7,290 7,290
+1,447 1,550 1,602 216-5520075-67004  Property Taxes 1,650 1,650 1,650
+6,377 9,946 6,199 216-5520075-68301  Copy Machines/Maint 10,200 10,200 10,200
+16,500 1,116 4,781 216-5520075-68302  Department Equipment Maint 6,214 6,214 6,214
+- 986 95,421 216-5520075-68307  Software Lic and Maint Fees 113,040 113,040 113,040
+2,550 2,976 1,200 216-5520075-68310  Building Maintenance 2,800 2,800 2,800
+1,252 2,007 2,000 216-5520075-69513  Permits/Licenses 1,999 1,999 1,999
+216 39 900 216-5520075-69901  Other Expense 535 535 535
+762 55 450 216-5520075-69907  Wrap Services - - -
+3,131 2,920 3,250 216-5520075-69908  Bank Service Charge 3,250 3,250 3,250
+1,203 4,245 2,736 216-5520075-69909  Payback 2,190 2,190 2,190
+1,348 6,253 2,225 216-5520075-69914  Other OHP Expenses - - -
+481,889 455,702 593,488 Total For Contracted Services 539,976 539,976 539,976
+15,000 - - 216-5520075-70018  Telephonic Crisis Services - - -
+13,182 13,182 13,182 216-5520075-70024  Crisis Subcontract 13,182 13,182 13,182
+28,182 13,182 13,182 Total For Other Expenses 13,182 13,182 13,182
+174,044 179,116 180,662 216-5520075-78001  Trans Out For Building Reserve 195,452 195,452 195,452
+10,080 11,568 14,531 216-5520075-78002  Trans Out For Pr
+operty Insur 16,185 16,185 16,185
+152,045 182,917 207,198 216-5520075-78003  Trans Out For Admin Overhead 228,922 228,922 228,922
+27,878 27,548 24,537 216-5520075-78004  Trans Out For T
+elecomm Equip 35,840 35,840 35,840
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+6,412 7,608 7,000 216-5520075-78005  Trans Out For Motor Pool 7,500 7,500 7,500
+43,021 44,664 41,379 216-5520075-78006  Trans Out For Computer Replace 32,049 32,049 32,049
+25,669 26,633 24,712 216-5520075-78015  Trans Out For Computer Service 24,306 24,306 24,306
+305 473 524 216-5520075-78017  Trans Out For Postage Charges 514 514 514
+24,794 24,794 26,546 216-5520075-78027  Trans Out For Liability Insur 34,076 34,076 34,076
+7,190 5,719 - 216-5520075-78044  Trans Out For PEL Reserves - - -
+66,296 70,578 75,496 216-5520075-78046  Trans Out For Network Charges 60,060 60,060 60,060
+3,040 3,216 3,415 216-5520075-78054  Trans Out For T
+elecomm Calls - - -
+5,140 5,262 5,271 216-5520075-78055  Trans Out For Legal Services 5,149 5,149 5,149
+545,915 590,096 611,271 Total For Transfer Outs Reciprocal 640,053 640,053 640,053
+14,122 7,842 37,281 216-5520075-80007  HHS Software Pur
+chase 44,897 44,897 44,897
+- - 1,748 216-5520075-80080  Capital Department Equipment 1,708 1,708 1,708
+14,122 7,842 39,029 Total For Capital 46,605 46,605 46,605
+7,352,576 7,688,427 10,315,157 64.2561 Total Expenses Family and Youth - HHS 59.6975 9,996,879 9,996,879 9,996,879
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Enhanced Residential and Outreach
+216-5520172 HHS Enhanced Residential and Outreach
+Enhanced Residential and Outreach (ERO) programs include the Enhanced Care Facility (ECF), Residential Treatment Facility (RTF), Outreach, Assistive Services, and Integrated
+Supports (OASIS), Older Adult Behavioral Health Initiative (OABHI), Enhanced Care Outreach Services (ECOS), Behavior Support Services (BSS), Pre-Admission Screening
+and Resident Review (PASRR), and Older Adult Peer Outreach for Depression and Substance Use (OPODS).
+The ECF is an Aging and People with Disabilities (APD) licensed Residential Care Facility. This community-based residential program serves 16 individuals with serious and
+persistent mental illness and co-occurring medical conditions and/or aging issues. Enhanced Care is designed to support individuals who demonstrate complex behaviors and
+psychiatric symptoms.
+The RTF is a community-based residential program licensed by the Health Systems Division of the Oregon Health Authority (OHA). This RTF is medically-focused and serves 16
+individuals with serious and persistent mental illness and co-occurring medical conditions, with the goal of supporting individuals in moving to more independent settings as they
+are clinically ready. At both the ECF and RTF, 24-hour supervision and support are offered to eligible individuals who would not otherwise be able to maintain stability in the
+community. County staff are on-site at least 10 hours a day, 365 days a year.
+OASIS provides outreach behavioral health services to adults with complex needs in their homes or other community settings. The program serves individuals who have difficulty
+accessing traditional outpatient services due to medical issues or chronic health conditions and/or individuals who require a high level of care coordination due to special
+circumstances or needs.
+The OABHI Specialist is responsible for community-wide coordination, planning, prevention and health promotion, and education related to services for older adults and adults
+with disabilities. In collaboration with local partners, the OABHS assesses community needs, identifies gaps, works to eliminate barriers, promotes best practices and evidence-
+based approaches, offers complex case consultation, provides information and training, and maintains information on resources for older adults.
+ECOS provides person-centered, individualized, outreach behavioral health services to eligible individuals in their homes/facilities and in the community, based on assessed needs.
+Individuals served in ECOS are generally people who meet the eligibility criteria for Enhanced Care, but do not require the intensive services of an ECF.
+BSS is designed to help individuals receiving home and community-based care attain and maintain an optimal level of emotional and social functioning. The goal of BSS is to
+reduce the concerns, frustration, injuries, stress, and placement failures that can occur when people with challenging behaviors, cognitive processing issues, and limited skills are
+not provided the support that they need. Behavior Consultants develop supports within the environment and provide information and training to caregivers to improve
+communication and interactions.
+PASRR is a federally required component of the state Medicaid program intended to ensure that nursing facility residents with serious mental illness are identified, appropriately
+placed, and provided with the services they need. Our program provides PASRR level II evaluations and reviews to verify diagnosis, determine the most appropriate service
+setting, and facilitate specialized services as needed. A licensed medical practitioner (LMP) reviews PASRR client records and provides medication recommendations.
+OPODS provides screenings and limited duration peer support services to older adults experiencing mild-to-moderate depression, loneliness or substance use concerns at no cost.
+Services are provided in people’s homes or community settings. Peers offer general support, wellness strategies and resource connection. The goal is to reduce depression,
+loneliness and substance use in older adults (age 55+) in Yamhill County.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Enhanced Residential/Outreach - HHS
+150,356 127,425 196,000 216-5520172-33173  Federal Grant - Vendor 196,000 196,000 196,000
+460,728 384,362 451,058 216-5520172-33411  State Health Grant 138,720 138,720 138,720
+800 1,096 1,300 216-5520172-34610  Patient Fees 800 800 800
+13,950 61,165 55,000 216-5520172-34611  Private Insurance 52,000 52,000 52,000
+3,047,947 3,045,420 2,737,147 216-5520172-34612  Public Insurance (OHP) 3,431,180 3,431,180 3,431,180
+4,700 - - 216-5520172-36202  Rental/Sale Equip/Prop - - -
+- 2,600 - 216-5520172-36203  Donations 2,000 2,000 2,000
+- 9,302 - 216-5520172-36212  Reimbursement - - -
+3,678,480 3,631,369 3,440,505 Total Revenue 3,820,700 3,820,700 3,820,700
+2,108 3,683 4,405 0.0657 216-5520172-40102  Administrative Office Specialist 0.0807 5,497 5,497 5,497
+11,289 12,655 13,036 0.0951 216-5520172-40117  Behavioral Health Director 0.1017 14,215 14,215 14,215
+1,899 - - - 216-5520172-40125  Program Supervisor - - - -
+15,777 16,625 18,220 0.1971 216-5520172-40130  Senior Management Analyst 0.2421 22,172 22,172 22,172
+90,466 13,205 14,381 0.1971 216-5520172-40132  Management Analyst 0.4843 37,092 37,092 37,092
+10,832 11,698 11,751 0.0750 216-5520172-40133  HHS Director 0.0788 12,396 12,396 12,396
+7,256 - - - 216-5520172-40135  Program Manager 3 - - - -
+5,816 - - - 216-5520172-40137  Program Manager 1 - - - -
+12,473 17,049 15,950 0.1899 216-5520172-40146  Senior Office Administrator 0.2033 15,981 15,981 15,981
+10,543 14,863 19,104 0.2656 216-5520172-40148  Data Analyst 0.1684 12,826 12,826 12,826
+391 - - - 216-5520172-40155  Program Manager 4 - - - -
+5,174 6,611 6,673 0.0657 216-5520172-40181  HHS Supervisor 1 - - - -
+89,318 102,446 105,518 1.0000 216-5520172-40182  HHS Supervisor 2 1.0000 109,367 109,367 109,367
+11
+1,402 123,842 128,107 1.0948 216-5520172-40183  HHS Manager 1 1.1017 128,926 128,926 128,926
+14,372 17,241 16,799 0.1510 216-5520172-40184  HHS Manager 2 0.1613 19,780 19,780 19,780
+759 - - - 216-5520172-40202  Office Specialist 2 - - - -
+58,218 67,282 90,951 1.9722 216-5520172-40203  Senior Office Specialist 2.1499 100,676 100,676 100,676
+51,793 57,380 59,181 0.9915 216-5520172-40214  Senior Accounting Clerk 0.5522 34,122 34,122 34,122
+7,238 8,014 8,565 0.1314 216-5520172-40215  Accounting Technician 1 0.1614 10,601 10,601 10,601
+20,510 23,028 25,260 0.4360 216-5520172-40220  Office Specialist Technician 0.2034 12,755 12,755 12,755
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+5,947 6,474 6,580 0.0671 216-5520172-40370  EHR System Analyst 0.0842 8,457 8,457 8,457
+4,664 5,321 5,921 0.0671 216-5520172-40374  EHR System Analyst I 0.0842 7,361 7,361 7,361
+- 83,025 87,396 1.0000 216-5520172-40604  Community Health Analyst 1.0000 87,402 87,402 87,402
+3,515 1,748 - - 216-5520172-40608  Registered Nurse 3 - - - -
+- - - - 216-5520172-40618  Professional Medical Coder 0.0842 5,008 5,008 5,008
+154,681 108,551 108,001 1.8500 216-5520172-40620  Human Services Associate 1.9500 114,534 114,534 114,534
+775,036 942,100 1,016,524 13.5000 216-5520172-40622  Human Services Specialist 1 13.5000 1,006,680 1,006,680 1,006,680
+5,692 - - - 216-5520172-40623  Human Services Specialist 2 - - - -
+174 - - - 216-5520172-40624  Human Services Specialist 3 - - - -
+159,782 163,192 182,194 2.0657 216-5520172-40625  Behavioral Health Clinician 2.0807 187,324 187,324 187,324
+98,050 157,614 187,385 2.0657 216-5520172-40626  Advanced Practice Behavioral Health Clinician 2.0807 191,084 191,084 191,084
+247 210 250 216-5520172-47400  Shift Diff 250 250 250
+10,683 13,043 17,956 216-5520172-47500  Longevity Pay 21,911 21,911 21,911
+6,656 5,503 5,123 216-5520172-47750  Out Of Class Pay 6,541 6,541 6,541
+41,967 21,006 3,798 216-5520172-47900  Other Earnings - - -
+2,462 570 2,100 216-5520172-48000  Extra Hours 1,500 1,500 1,500
+35,976 42,720 32,150 216-5520172-48100  Overtime 37,150 37,150 37,150
+12,077 13,285 13,000 216-5520172-48400  Beeper Pay 13,000 13,000 13,000
+953 - - 216-5520172-48500  Certification/Education - - -
+10,089 12,459 12,181 216-5520172-48600  Incentive Pay 12,712 12,712 12,712
+26,798 29,806 31,457 216-5520172-49001  Medicare T
+ax 31,679 31,679 31,679
+114,51
+1 127,360 134,513 216-5520172-49100  Social Security 135,448 135,448 135,448
+392,324 459,832 554,849 216-5520172-49210  Retirement 563,802 563,802 563,802
+472,508 539,263 653,638 216-5520172-49310  Medical Insurance 836,573 836,573 836,573
+7,535 8,217 16,989 216-5520172-49311  Paid Leave Or
+egon 8,739 8,739 8,739
+689 1,015 781 216-5520172-49312  Employee Assistance Program 886 886 886
+33,267 35,008 38,357 216-5520172-49315  VEBA 35,485 35,485 35,485
+31,852 34,340 36,443 216-5520172-49320  Dental Insurance Expense 38,088 38,088 38,088
+2,983 3,133 3,663 216-5520172-49325  Vision Insurance 3,246 3,246 3,246
+7,723 8,166 9,174 216-5520172-49331  Short Term Disability 9,175 9,175 9,175
+636 659 1,152 216-5520172-49340  Life Insurance 784 784 784
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+17,084 21,903 24,492 216-5520172-49400  Accident Insurance 24,355 24,355 24,355
+1,845 - - 216-5520172-49480  Time Loss Reserve - - -
+1,884 2,084 2,132 216-5520172-49500  Unemployment 2,141 2,141 2,141
+496 483 646 216-5520172-49600  Workers Comp Assessment 643 643 643
+25,389 7,907 15,000 216-5520172-49900  FET/Vacation/Sick 12,000 12,000 12,000
+2,993,811 3,351,619 3,741,746 27.5437 Total For Personnel 27.5535 3,940,364 3,940,364 3,940,364
+845 1,376 2,200 216-5520172-51001  Central Supplies 2,000 2,000 2,000
+6,313 4,825 6,150 216-5520172-51106  Training Supplies 5,250 5,250 5,250
+4,103 5,366 5,000 216-5520172-51199  Miscellaneous Supplies 5,000 5,000 5,000
+392 177 150 216-5520172-51301  Educational Materials 150 150 150
+2,496 2,771 1,500 216-5520172-51303  Publications & Dues 1,500 1,500 1,500
+855 197 1,000 216-5520172-54301  Small Equipment Purchases 1,000 1,000 1,000
+1,205 130 1,500 216-5520172-58302  Data Processing Supplies 1,500 1,500 1,500
+16,210 14,842 17,500 Total For Materials & Services 16,400 16,400 16,400
+- - 14,132 216-5520172-61001  Professional Services 14,979 14,979 14,979
+- 144 250 216-5520172-61024  Interpreter Services - - -
+3,432 3,147 3,582 216-5520172-61025  Professional Contract Employees 3,644 3,644 3,644
+1,687 2,310 2,541 216-5520172-61101  Audit 2,486 2,486 2,486
+- 5,682 8,528 216-5520172-61102  Contract Services 9,469 9,469 9,469
+1,513 - 2,361 216-5520172-61103  Janitorial Contract - - -
+2,657 1,963 1,000 216-5520172-61130  Grant Expenses 1,000 1,000 1,000
+2,050 5,217 5,000 216-5520172-61202  Schools And Conferences 4,499 4,499 4,499
+14,756 12,447 14,500 216-5520172-62001  Telephone 12,501 12,501 12,501
+861 859 950 216-5520172-62101  Postage 850 850 850
+20,126 20,010 15,600 216-5520172-63001  Travel Expense 20,600 20,600 20,600
+1,483 974 1,274 216-5520172-64001  Advertising 394 394 394
+107 8 75 216-5520172-65001  Equipment Lease 25 25 25
+14,074 15,444 13,763 216-5520172-65201  Building Rent 7,142 7,142 7,142
+4,256 5,831 4,960 216-5520172-67002  Heat/Lights/Water 5,231 5,231 5,231
+426 476 474 216-5520172-67004  Property T
+axes 506 506 506
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+834 122 50 216-5520172-68301  Copy Machines/Maint 150 150 150
+6,869 480 2,015 216-5520172-68302  Department Equipment Maint 2,881 2,881 2,881
+- 417 40,142 216-5520172-68307  Software Lic and Maint Fees 52,492 52,492 52,492
+820 260 1,000 216-5520172-69513  Permits/Licenses 1,799 1,799 1,799
+159,664 48,734 128,633 216-5520172-69901  Other Expense 128,398 128,398 128,398
+105 884 250 216-5520172-69907  Wrap Services - - -
+1,019 2,662 2,088 216-5520172-69909  Payback 1,670 1,670 1,670
+- 622 250 216-5520172-69914  Other OHP Expenses - - -
+236,739 128,691 263,418 Total For Contracted Services 270,716 270,716 270,716
+51,080 55,016 53,498 216-5520172-78001  Trans Out For Building Reserve 59,815 59,815 59,815
+4,008 4,600 5,777 216-5520172-78002  Trans Out For Pr
+operty Insur 6,435 6,435 6,435
+66,336 81,416 98,005 216-5520172-78003  Trans Out For Admin Overhead 108,249 108,249 108,249
+10,612 11,006 4,350 216-5520172-78004  Trans Out For T
+elecomm Equip 5,401 5,401 5,401
+20,229 24,092 18,500 216-5520172-78005  Trans Out For Motor Pool 24,000 24,000 24,000
+16,814 18,016 17,747 216-5520172-78006  Trans Out For Computer Replace 14,931 14,931 14,931
+11,109 11,743 10,598 216-5520172-78015  Trans Out For Computer Service 11,205 11,205 11,205
+226 278 225 216-5520172-78017  Trans Out For Postage Charges 236 236 236
+9,861 9,861 9,663 216-5520172-78027  Trans Out For Liability Insur 14,227 14,227 14,227
+1,748 1,979 - 216-5520172-78044  Trans Out For PEL Reserves - - -
+28,695 31,119 32,376 216-5520172-78046  Trans Out For Network Charges 27,300 27,300 27,300
+2,178 2,109 1,003 216-5520172-78054  Trans Out For T
+elecomm Calls - - -
+2,224 2,320 2,260 216-5520172-78055  Trans Out For Legal Services 2,373 2,373 2,373
+225,119 253,556 254,002 Total For T
+ransfer Outs Reciprocal 274,172 274,172 274,172
+5,868 3,317 15,684 216-5520172-80007  HHS Software Pur
+chase 20,849 20,849 20,849
+- - 750 216-5520172-80080  Capital Department Equipment 787 787 787
+124,837 - - 216-5520172-80202  Vehicle & Equipment Replace - - -
+130,705 3,317 16,434 Total For Capital 21,636 21,636 21,636
+3,602,584 3,752,026 4,293,100 27.5437 Total Expenses Enhanced Residential/Outreach - HHS 27.5535 4,523,288 4,523,288 4,523,288
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Housing and Recovery Supports
+216-5520173 HHS Housing and Recovery Supports
+Yamhill County HHS has a variety of housing supports for HHS clients, including crisis, respite, transitional, and permanent supported. There are a total of 164 units.
+Residential programs work in coordination to support three residential programs in McMinnville: Bridges, Sunnyside, and Homeport. Residents of these programs receive
+wraparound supports from Yamhill County Mental Health. A residential team from Yamhill County Mental Health works in coordination with individuals’ case managers to
+provide a vast array of services to assist residents in maintaining community living. Services include medication monitoring, conflict resolutions skills training, emotional
+regulation skills training, money management, symptom management, cooking and grocery shopping.
+Transitional Treatment and Recovery Services (TTRS) provide safe, clean, and sober housing along with intensive alcohol and drug treatment, and family stabilization services in
+a structured, supervised environment for parents and their children. This program is designed to promote the return of children to their parents’ care sooner, or eliminate the need to
+place children in foster care, by providing treatment, support, and guidance. There are six homes where families live and receives services that include parent coaching and peer
+supports.
+Rental Assistance programing provides mental health services and financial assistance to support individuals with serious mental illness (SMI) become ready to rent, locate and
+obtain housing, and maintain stable, integrated housing after placement.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Housing and Recovery Supports - HHS
+21,260 8,083 8,245 216-5520173-33172  Federal Grant - Subrecipient - - -
+18,447 31,624 69,803 216-5520173-33173  Federal Grant - Vendor - - -
+915,296 1,226,009 1,405,245 216-5520173-33411  State Health Grant 541,922 541,922 541,922
+834 685 600 216-5520173-34610  Patient Fees 600 600 600
+2,189,815 2,292,809 2,329,943 216-5520173-34612  Public Insurance (OHP) 3,646,684 3,646,684 3,646,684
+286,458 312,500 312,500 216-5520173-34613  Local Contracts 260,520 260,520 260,520
+661,115 994,293 1,127,817 216-5520173-36204  Rent 1,235,724 1,235,724 1,235,724
+- 7,074 - 216-5520173-36212  Reimbursement - - -
+441 - - 216-5520173-36299  Miscellaneous - Other Revenue - - -
+4,093,667 4,873,076 5,254,153 Total Revenue 5,685,450 5,685,450 5,685,450
+2,150 3,445 4,120 0.0614 216-5520173-40102  Administrative Office Specialist 0.0600 4,086 4,086 4,086
+11,078 11,872 12,192 0.0889 216-5520173-40117  Behavioral Health Dir
+ector 0.0756 10,567 10,567 10,567
+1,792 - - - 216-5520173-40125  Program Supervisor - - - -
+15,832 15,559 17,040 0.1843 216-5520173-40130  Senior Management Analyst 0.1800 16,483 16,483 16,483
+12,588 10,716 13,451 0.1843 216-5520173-40132  Management Analyst 0.3600 27,573 27,573 27,573
+10,443 10,842 10,889 0.0695 216-5520173-40133  HHS Director 0.0603 9,488 9,488 9,488
+1,342 - - - 216-5520173-40135  Program Manager 3 - - - -
+5,383 - - - 216-5520173-40137  Program Manager 1 - - - -
+11,959 15,992 14,917 0.1776 216-5520173-40146  Senior Office Administrator 0.1512 11,881 11,881 11,881
+10,482 13,942 17,867 0.2484 216-5520173-40148  Data Analyst 0.1252 9,536 9,536 9,536
+353 - - - 216-5520173-40155  Program Manager 4 - - - -
+87,322 100,389 107,869 1.0614 216-5520173-40181  HHS Supervisor 1 1.0000 90,879 90,879 90,879
+- - 4,543 0.0500 216-5520173-40182  HHS Supervisor 2 0.0500 4,724 4,724 4,724
+13,882 15,057 118,138 1.1387 216-5520173-40183  HHS Manager 1 1.1256 128,134 128,134 128,134
+13,807 15,869 15,402 0.1384 216-5520173-40184  HHS Manager 2 0.1199 14,704 14,704 14,704
+757 2,841 - - 216-5520173-40202  Office Specialist 2 - - - -
+57,196 63,211 85,066 1.8446 216-5520173-40203  Senior Office Specialist 1.5983 74,842 74,842 74,842
+28,312 28,467 27,918 0.4597 216-5520173-40214  Senior Accounting Clerk 0.4105 25,366 25,366 25,366
+7,065 7,502 8,010 0.1229 216-5520173-40215  Accounting Technician 1 0.1200 7,880 7,880 7,880
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+20,183 21,622 23,625 0.4077 216-5520173-40220  Office Specialist Technician 0.1512 9,482 9,482 9,482
+12,775 6,262 6,154 0.0628 216-5520173-40370  EHR System Analyst 0.0626 6,287 6,287 6,287
+4,625 4,998 5,538 0.0628 216-5520173-40374  EHR System Analyst I 0.0626 5,473 5,473 5,473
+59,763 63,159 65,096 1.0000 216-5520173-40605  Certified Medical Assistant - - - -
+- - - - 216-5520173-40618  Professional Medical Coder 0.0626 3,723 3,723 3,723
+3,130 49,934 216,404 4.0000 216-5520173-40620  Human Services Associate 1.0000 54,233 54,233 54,233
+886,776 898,890 1,068,978 14.0000 216-5520173-40622  Human Services Specialist 1 14.0000 1,047,466 1,047,466 1,047,466
+144 - - - 216-5520173-40624  Human Services Specialist 3 - - - -
+5,178 5,244 5,609 0.0614 216-5520173-40625  Behavioral Health Clinician 0.0600 5,452 5,452 5,452
+5,400 5,907 6,025 0.0614 216-5520173-40626  Advanced Practice Behavioral Health Clinician 0.0600 5,976 5,976 5,976
+244 471 300 216-5520173-47400  Shift Diff 600 600 600
+6,966 9,672 15,988 216-5520173-47500  Longevity Pay 14,230 14,230 14,230
+11,395 13,694 14,716 216-5520173-47750  Out Of Class Pay 10,161 10,161 10,161
+32,284 3,913 3,552 216-5520173-47900  Other Earnings - - -
+728 97 600 216-5520173-48000  Extra Hours 300 300 300
+14,219 31,979 14,100 216-5520173-48100  Overtime 49,000 49,000 49,000
+54,737 52,003 54,500 216-5520173-48400  Beeper Pay 54,500 54,500 54,500
+316 - - 216-5520173-48500  Certification/Education - - -
+4,369 4,980 4,602 216-5520173-48600  Incentive Pay 4,000 4,000 4,000
+20,098 21,327 27,410 216-5520173-49001  Medicare T
+ax 23,228 23,228 23,228
+85,862 91,133 117,202 216-5520173-49100  Social Security 99,334 99,334 99,334
+301,944 321,203 495,326 216-5520173-49210  Retirement 410,746 410,746 410,746
+384,792 433,149 627,040 216-5520173-49310  Medical Insurance 658,634 658,634 658,634
+5,655 5,879 13,701 216-5520173-49311  Paid Leave Or
+egon 6,409 6,409 6,409
+666 938 713 216-5520173-49312  Employee Assistance Program 665 665 665
+24,576 25,655 36,784 216-5520173-49315  VEBA 27,287 27,287 27,287
+20,189 21,856 34,962 216-5520173-49320  Dental Insurance Expense 29,962 29,962 29,962
+2,197 2,292 3,506 216-5520173-49325  Vision Insurance 2,485 2,485 2,485
+6,003 5,974 8,786 216-5520173-49331  Short Term Disability 7,223 7,223 7,223
+506 525 1,116 216-5520173-49340  Life Insurance 657 657 657
+17,474 22,987 27,751 216-5520173-49400  Accident Insurance 24,830 24,830 24,830
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,397 - - 216-5520173-49480  Time Loss Reserve - - -
+1,424 1,499 1,857 216-5520173-49500  Unemployment 1,572 1,572 1,572
+368 348 599 216-5520173-49600  Workers Comp Assessment 492 492 492
+7,878 7,498 8,000 216-5520173-49900  FET/Vacation/Sick 8,000 8,000 8,000
+2,296,004 2,450,793 3,367,962 25.4864 Total For Personnel 20.8957 3,008,550 3,008,550 3,008,550
+2,805 1,141 1,500 216-5520173-51001  Central Supplies 1,700 1,700 1,700
+5,071 6,151 4,200 216-5520173-51106  Training Supplies 4,200 4,200 4,200
+23,546 16,408 20,000 216-5520173-51199  Miscellaneous Supplies 17,000 17,000 17,000
+224 6,136 - 216-5520173-51204  Laboratory Expense 2,500 2,500 2,500
+211 447 300 216-5520173-51303  Publications & Dues 400 400 400
+7,274 3,911 7,000 216-5520173-54301  Small Equipment Purchases 4,000 4,000 4,000
+1,395 9,600 1,500 216-5520173-58302  Data Processing Supplies 7,000 7,000 7,000
+40,526 43,795 34,500 Total For Materials & Services 36,800 36,800 36,800
+- - 13,216 216-5520173-61001  Professional Services 11,135 11,135 11,135
+- 184 250 216-5520173-61024  Interpreter Services 46 46 46
+3,601 3,349 3,662 216-5520173-61025  Professional Contract Employees 3,437 3,437 3,437
+2,468 3,581 3,939 216-5520173-61101  Audit 3,694 3,694 3,694
+178,453 232,392 245,381 216-5520173-61102  Contract Services 242,256 242,256 242,256
+9,517 10,075 8,688 216-5520173-61103  Janitorial Contract 9,000 9,000 9,000
+1,707,942 1,410,788 2,920,780 216-5520173-61130  Grant Expenses 2,101,219 2,101,219 2,101,219
+5,667 4,309 5,500 216-5520173-61202  Schools And Conferences 6,000 6,000 6,000
+709,608 698,090 698,090 216-5520173-61304  OHP Subcontracted Services 754,984 754,984 754,984
+15,356 15,951 15,500 216-5520173-62001  Telephone 15,500 15,500 15,500
+930 949 851 216-5520173-62101  Postage 850 850 850
+1,948 1,134 1,550 216-5520173-63001  Travel Expense 1,550 1,550 1,550
+785 902 1,181 216-5520173-64001  Advertising 302 302 302
+16,313 13,998 8,000 216-5520173-65001  Equipment Lease 12,000 12,000 12,000
+9,828 10,043 8,855 216-5520173-65201  Building Rent 3,468 3,468 3,468
+82,166 72,232 73,078 216-5520173-67002  Heat/Lights/Water 71,584 71,584 71,584
+297 309 305 216-5520173-67004  Property T
+axes 246 246 246
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+62 104 50 216-5520173-68301  Copy Machines/Maint 150 150 150
+6,749 450 1,882 216-5520173-68302  Department Equipment Maint 2,157 2,157 2,157
+- 391 37,543 216-5520173-68307  Software Lic and Maint Fees 39,023 39,023 39,023
+132,879 115,924 91,000 216-5520173-68310  Building Maintenance 96,000 96,000 96,000
+- 610 - 216-5520173-69513  Permits/Licenses 601 601 601
+120 - 610 216-5520173-69901  Other Expense 385 385 385
+87,796 87,015 88,522 216-5520173-69906  Crisis Respite 94,341 94,341 94,341
+778 1,468 600 216-5520173-69907  Wrap Services - - -
+712 92,744 2,148 216-5520173-69909  Payback 1,719 1,719 1,719
+22,940 11,411 15,025 216-5520173-69914  Other OHP Expenses - - -
+2,996,915 2,788,405 4,246,206 Total For Contracted Services 3,471,647 3,471,647 3,471,647
+35,653 35,602 34,417 216-5520173-78001  Trans Out For Building Reserve 29,045 29,045 29,045
+3,200 3,464 4,351 216-5520173-78002  Trans Out For Pr
+operty Insur 4,847 4,847 4,847
+83,010 108,952 139,697 216-5520173-78003  Trans Out For Admin Overhead 142,138 142,138 142,138
+10,627 10,048 395 216-5520173-78004  Trans Out For T
+elecomm Equip 491 491 491
+19,466 35,996 23,000 216-5520173-78005  Trans Out For Motor Pool 28,000 28,000 28,000
+20,262 17,638 16,444 216-5520173-78006  Trans Out For Computer Replace 10,353 10,353 10,353
+10,748 10,887 9,820 216-5520173-78015  Trans Out For Computer Service 8,576 8,576 8,576
+218 258 208 216-5520173-78017  Trans Out For Postage Charges 181 181 181
+7,892 7,425 7,950 216-5520173-78027  Trans Out For Liability Insur 11,015 11,015 11,015
+1,155 834 - 216-5520173-78044  Trans Out For PEL Reserves - - -
+27,760 28,854 30,002 216-5520173-78046  Trans Out For Network Charges 20,748 20,748 20,748
+2,179 1,960 91 216-5520173-78054  Trans Out For T
+elecomm Calls - - -
+2,152 2,151 2,094 216-5520173-78055  Trans Out For Legal Services 1,816 1,816 1,816
+- - 500,000 216-5520173-78063  Trans Out For Capital Pr
+ojects - - -
+224,323 264,069 768,469 Total For T
+ransfer Outs Reciprocal 257,210 257,210 257,210
+5,770 3,112 14,669 216-5520173-80007  HHS Software Pur
+chase 15,499 15,499 15,499
+- - 695 216-5520173-80080  Capital Department Equipment 602 602 602
+- - 35,000 216-5520173-80202  Vehicle & Equipment Replace - - -
+- - - 216-5520173-82001  Miscellaneous Building Remodel 1,400,345 1,400,345 1,400,345
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+5,770 3,112 50,364 Total For Capital 1,416,446 1,416,446 1,416,446
+5,563,538 5,550,174 8,467,501 25.4864 Total Expenses Housing and Recovery Supports - HHS 20.8957 8,190,653 8,190,653 8,190,653
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Adult Behavioral Health
+216-5520174 HHS Adult Behavioral Health
+Adult Behavioral Health (ABH) has clinic locations in both McMinnville and Newberg, as well as mobile supports. The McMinnville clinic has co-located primary care services
+offered in the McMinnville Behavioral Health Center. This alignment of publicly funded health services creates more seamless service delivery to the public, as well as
+opportunities to achieve better stewardship of public funds.
+Adult Outpatient Mental Health are based on the level of care deemed medically necessary to maximize recovery and wellness. Services are provided individually as well as in
+groups. These evidenced-based services include Individualized Services and Support Plans, Solution Focused Brief Therapy, Cognitive Behavioral Therapy for Anxiety and/or
+Depression, Dialectical Behavioral Therapy, Seeking Safety Group, Acceptance & Commitment Therapy, Making Changes for Good Groups, Dual Disorder treatment groups, Eye
+Movement Desensitization and Reprocessing (EMDR), Cognitive Behavioral Therapy (CBT) Essentials for Vulnerable Adults, and Mindfulness Based Stress Reduction.
+Adult Outpatient Substance Use Disorder (SUD) treatment, often provided in conjunction with mental health services, includes acute stabilization, individual and group treatment,
+motivational enhancement, skill building, relapse prevention, referrals and coordination to higher levels of care such as detox and residential treatment. Services also include
+diversion programing for DUII and marijuana diversion.
+Psychiatric Evaluation and Medication Management is provided by psychiatric physicians and nurse practitioners. Medication use in the treatment of mental illness and substance
+use disorder has seen significant advances over the past half century. Specialized psychiatric prescription of these medications is one treatment modality offered at our clinics.
+Medication Assisted Treatment is offered for individuals with substance use disorders. Research shows that a combination of medication and therapy can successfully treat
+substance use disorders, and for some medications can help sustain recovery. Medications are also used to prevent or reduce opioid overdose.
+Problem Gambling outpatient treatment includes individual and group services. The Gambling program is unique in that it offers treatment and support for family members, even if
+the problem gambler is not involved in treatment.
+Treatment Courts partner with Yamhill County Courts, assisting clients in successfully accomplishing Drug and Mental Health Court requirements.
+Crisis Services are provided in the clinic, via telephone and through our mobile Community Outreach and Support team. Crisis services are available 24 hours a day 7 days a week.
+They provide screening and assessment, intervention, and linkage to the appropriate level of care. Criminal Justice Diversion staff work with individuals with behavioral health
+challenges to divert from the criminal justice system and into treatment when appropriate. They also work with individuals transitioning through various levels of care including
+acute psychiatric care hospitalization and the Oregon State Hospital.
+Peer Assisted Crisis House provides 24-hour support in a voluntary setting for eligible individuals experiencing psychiatric crisis who do not meet hospital level of care. It offers a
+comfortable, non-institutional, and recovery-focused environment to support individuals with achieving psychiatric stabilization within the community as an alternative to the
+emergency department, acute care, or jail.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Adult Behavioral Health - HHS
+121,862 46,045 46,966 216-5520174-33172  Federal Grant - Subrecipient - - -
+2,455,072 3,011,329 3,554,336 216-5520174-33411  State Health Grant 4,697,021 4,697,021 4,697,021
+90,363 69,574 78,000 216-5520174-33512  Beer & Wine T
+ax 63,000 63,000 63,000
+- - - 216-5520174-34210  UA Fees 8,000 8,000 8,000
+91,119 70,322 64,100 216-5520174-34610  Patient Fees 64,100 64,100 64,100
+200,171 199,627 184,750 216-5520174-34611  Private Insurance 184,750 184,750 184,750
+14,380,344 25,811,610 15,136,486 216-5520174-34612  Public Insurance (OHP) 13,742,229 13,742,229 13,742,229
+55,401 8,004 46,500 216-5520174-34613  Local Contracts 46,500 46,500 46,500
+20,962 22,368 13,000 216-5520174-35006  Court Correc Assessments 13,125 13,125 13,125
+- 6,477 - 216-5520174-36105  Lease Interest Revenue - - -
+- - - 216-5520174-36203  Donations - - -
+125,128 113,872 114,957 216-5520174-36204  Rent 116,069 116,069 116,069
+8,120 39,999 - 216-5520174-36212  Reimbursement - - -
+- - - 216-5520174-36297  Client Loan Repayment - - -
+140,687 6,651 72,089 216-5520174-36299  Miscellaneous - Other Revenue 71,649 71,649 71,649
+154,686 175,847 183,844 216-5520174-38013  Trans In For Contract Service - - -
+- - _ - _ _ _
+- - - 216-5520174-38028  Trans In For ABH Services 80,000 80,000 80,000
+- - - 216-5520174-38029  Trans In For Chemical Dependency 2,000 2,000 2,000
+- 49,911 - 216-5520174-38030  Trans In for Behavioral Health Deflection 299,117 299,117 299,117
+- 6,719 - 216-5520174-38063  Trans In Fr
+om Community Justice - - -
+17,843,915 29,638,356 19,495,028 Total Revenue 19,387,560 19,387,560 19,387,560
+10,450 17,256 21,423 0.3195 216-5520174-40102  Administrative Office Specialist 0.3718 25,322 25,322 25,322
+53,198 59,356 63,397 0.4625 216-5520174-40117  Behavioral Health Dir
+ector 0.4686 65,484 65,484 65,484
+9,204 - - - 216-5520174-40125  Program Supervisor - - - -
+78,166 77,952 88,608 0.9585 216-5520174-40130  Senior Management Analyst 1.1155 102,140 102,140 102,140
+125,850 121,505 143,072 1.9585 216-5520174-40132  Management Analyst 2.2309 170,876 170,876 170,876
+51,771 54,127 56,780 0.3623 216-5520174-40133  HHS Director 0.3703 58,267 58,267 58,267
+12,981 - - - 216-5520174-40135  Program Manager 3 - - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+23,604 - - - 216-5520174-40137  Program Manager 1 - - - -
+60,457 80,136 77,704 0.9254 216-5520174-40146  Senior Office Administrator 0.9401 73,897 73,897 73,897
+52,268 83,503 92,907 1.2916 216-5520174-40148  Data Analyst 0.7760 59,087 59,087 59,087
+14,563 - - - 216-5520174-40155  Program Manager 4 - - - -
+2,622 - - - 216-5520174-40171  Main Supervisor - - - -
+116,842 91,130 123,313 1.3195 216-5520174-40181  HHS Supervisor 1 1.0000 94,365 94,365 94,365
+247,508 381,152 563,548 5.6300 216-5520174-40182  HHS Supervisor 2 7.2987 731,007 731,007 731,007
+174,772 199,552 203,893 1.7328 216-5520174-40183  HHS Manager 1 1.7688 208,832 208,832 208,832
+279,414 318,056 315,352 2.7310 216-5520174-40184  HHS Manager 2 2.7457 342,520 342,520 342,520
+3,552 - - - 216-5520174-40202  Office Specialist 2 - - - -
+288,724 315,913 442,333 9.5917 216-5520174-40203  Senior Office Specialist 9.9041 463,786 463,786 463,786
+142,627 142,272 145,169 2.3905 216-5520174-40214  Senior Accounting Clerk 2.5437 157,189 157,189 157,189
+35,655 37,588 41,654 0.6390 216-5520174-40215  Accounting Technician 1 0.7436 48,835 48,835 48,835
+102,125 108,082 122,849 2.1203 216-5520174-40220  Office Specialist Technician 0.9372 58,757 58,757 58,757
+22,546 30,215 31,999 0.3263 216-5520174-40370  EHR System Analyst 0.3880 38,959 38,959 38,959
+23,310 24,992 28,797 0.3263 216-5520174-40374  EHR System Analyst I 0.3880 33,911 33,911 33,911
+113,315 94,129 142,490 2.4000 216-5520174-40605  Certified Medical Assistant 2.0000 124,690 124,690 124,690
+237,948 230,163 317,664 3.4000 216-5520174-40607  Registered Nurse 2 3.0000 294,115 294,115 294,115
+998,982 924,802 1,040,571 5.1500 216-5520174-40608  Registered Nurse 3 4.4000 932,955 932,955 932,955
+- - - - 216-5520174-40609  Licensed Practical Nurse 1.0000 74,275 74,275 74,275
+- - - - 216-5520174-40618  Professional Medical Coder 0.3880 23,071 23,071 23,071
+1,035 - - - 216-5520174-40619  Human Services Technician - - - -
+390,532 452,335 516,714 9.0000 216-5520174-40620  Human Services Associate 9.0000 528,500 528,500 528,500
+1,759,782 1,906,694 2,487,745 33.7500 216-5520174-40622  Human Services Specialist 1 31.8000 2,376,972 2,376,972 2,376,972
+38,787 8,639 8,396 0.1000 216-5520174-40623  Human Services Specialist 2 0.3500 29,787 29,787 29,787
+32,914 - - - 216-5520174-40624  Human Services Specialist 3 - - - -
+1,102,475 1,188,339 1,282,154 15.8195 216-5520174-40625  Behavioral Health Clinician 19.4718 1,534,764 1,534,764 1,534,764
+1,472,914 1,415,768 2,865,272 31.8195 216-5520174-40626  Advanced Practice Behavioral Health Clinician 25.1718 2,273,939 2,273,939 2,273,939
+35,000 43,562 40,900 216-5520174-47400  Shift Diff 41,900 41,900 41,900
+22,797 31,122 59,479 216-5520174-47500  Longevity Pay 56,353 56,353 56,353
+29,748 27,148 43,846 216-5520174-47750  Out Of Class Pay 42,162 42,162 42,162
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+252,746 145,896 18,469 216-5520174-47900  Other Earnings - - -
+11,229 1,536 8,200 216-5520174-48000  Extra Hours 5,000 5,000 5,000
+174,743 241,405 191,625 216-5520174-48100  Overtime 251,500 251,500 251,500
+44,420 56,904 53,500 216-5520174-48400  Beeper Pay 53,500 53,500 53,500
+5,204 - - 216-5520174-48500  Certification/Education - - -
+57,275 68,786 69,570 216-5520174-48600  Incentive Pay 83,994 83,994 83,994
+125,321 129,384 165,332 216-5520174-49001  Medicare Tax 160,859 160,859 160,859
+527,614 546,120 706,974 216-5520174-49100  Social Security 687,786 687,786 687,786
+1,739,334 1,822,965 2,959,941 216-5520174-49210  Retirement 2,651,790 2,651,790 2,651,790
+1,996,501 2,128,161 3,145,429 216-5520174-49310  Medical Insurance 3,895,449 3,895,449 3,895,449
+34,459 35,233 78,893 216-5520174-49311  Paid Leave Oregon 43,839 43,839 43,839
+3,356 4,684 3,771 216-5520174-49312  Employee Assistance Program 4,175 4,175 4,175
+140,428 138,641 186,058 216-5520174-49315  VEBA 167,651 167,651 167,651
+11
+1,083 112,227 176,764 216-5520174-49320  Dental Insurance Expense 177,528 177,528 177,528
+13,086 12,537 17,753 216-5520174-49325  Vision Insurance 15,448 15,448 15,448
+33,880 32,827 46,059 216-5520174-49331  Short Term Disability 44,058 44,058 44,058
+2,782 2,725 5,815 216-5520174-49340  Life Insurance 3,970 3,970 3,970
+44,799 55,826 64,644 216-5520174-49400  Accident Insurance 72,598 72,598 72,598
+8,602 - - 216-5520174-49480  Time Loss Reserve - - -
+8,741 9,049 11,228 216-5520174-49500  Unemployment 10,927 10,927 10,927
+2,000 1,842 3,122 216-5520174-49600  Workers Comp Assessment 3,029 3,029 3,029
+64,637 60,840 63,000 216-5520174-49900  FET/Vacation/Sick 60,000 60,000 60,000
+13,570,680 14,073,075 19,344,176 134.5244 Total For Personnel 130.5728 19,459,818 19,459,818 19,459,818
+6,498 11,385 5,000 216-5520174-51001  Central Supplies 7,092 7,092 7,092
+30,727 39,021 31,250 216-5520174-51106  T
+raining Supplies 32,150 32,150 32,150
+54,205 48,520 42,000 216-5520174-51199  Miscellaneous Supplies 44,001 44,001 44,001
+384,532 526,517 390,000 216-5520174-51201  Medications 450,000 450,000 450,000
+9,823 18,448 12,250 216-5520174-51203  Laboratory Materials 14,250 14,250 14,250
+103,229 59,166 93,500 216-5520174-51204  Laboratory Expense 53,500 53,500 53,500
+1,871 918 1,100 216-5520174-51301  Educational Materials 1,000 1,000 1,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+8,297 3,675 3,000 216-5520174-51303  Publications & Dues 3,000 3,000 3,000
+29,992 9,707 12,000 216-5520174-54301  Small Equipment Purchases 12,000 12,000 12,000
+12,049 16,664 9,500 216-5520174-58302  Data Processing Supplies 10,000 10,000 10,000
+641,223 734,022 599,600 Total For Materials & Services 626,993 626,993 626,993
+652,937 666,770 791,903 216-5520174-61001  Professional Services 607,583 607,583 607,583
+21,564 21,634 20,000 216-5520174-61024  Interpreter Services 19,744 19,744 19,744
+242,649 80,293 18,761 216-5520174-61025  Professional Contract Employees 560,449 560,449 560,449
+8,700 11,443 12,589 216-5520174-61101  Audit 12,069 12,069 12,069
+134,587 143,578 214,431 216-5520174-61102  Contract Services 218,334 218,334 218,334
+12,254 18,194 11,414 216-5520174-61103  Janitorial Contract 14,000 14,000 14,000
+237,530 241,043 68,247 216-5520174-61130  Grant Expenses 107,780 107,780 107,780
+62,000 57,815 54,998 216-5520174-61202  Schools And Conferences 50,003 50,003 50,003
+622,999 462,887 483,743 216-5520174-61304  OHP Subcontracted Services 210,756 210,756 210,756
+78,079 72,402 79,000 216-5520174-62001  Telephone 63,997 63,997 63,997
+3,704 3,651 3,401 216-5520174-62101  Postage 3,300 3,300 3,300
+16,529 8,683 13,800 216-5520174-63001  Travel Expense 8,800 8,800 8,800
+9,320 4,502 6,160 216-5520174-64001  Advertising 1,851 1,851 1,851
+17,669 5,530 11,501 216-5520174-65001  Equipment Lease 11,500 11,500 11,500
+115,474 115,358 108,036 216-5520174-65201  Building Rent 55,925 55,925 55,925
+22,541 27,203 22,249 216-5520174-67002  Heat/Lights/Water 28,470 28,470 28,470
+3,449 3,552 3,724 216-5520174-67004  Property T
+axes 3,954 3,954 3,954
+6,285 8,985 6,301 216-5520174-68301  Copy Machines/Maint 9,200 9,200 9,200
+34,228 2,246 9,796 216-5520174-68302  Department Equipment Maint 13,343 13,343 13,343
+- 1,956 195,224 216-5520174-68307  Software Lic and Maint Fees 241,813 241,813 241,813
+5,674 3,782 3,300 216-5520174-68310  Building Maintenance 5,800 5,800 5,800
+3,296 7,205 6,999 216-5520174-69513  Permits/Licenses 6,400 6,400 6,400
+- 611 3,579 216-5520174-69901  Other Expense 2,260 2,260 2,260
+15,312 37,430 17,800 216-5520174-69907  Wrap Services - - -
+7,580 5,830 6,750 216-5520174-69908  Bank Service Charge 6,750 6,750 6,750
+2,894 11,782 9,888 216-5520174-69909  Payback 7,909 7,909 7,909
+16,787 53,364 22,000 216-5520174-69914  Other OHP Expenses - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+2,354,039 2,077,731 2,205,594 Total For Contracted Services 2,271,990 2,271,990 2,271,990
+8,012 6,547 7,200 216-5520174-70018  Telephonic Crisis Services 21,931 21,931 21,931
+54,987 56,133 52,728 216-5520174-70024  Crisis Subcontract 52,728 52,728 52,728
+62,999 62,680 59,928 Total For Other Expenses 74,659 74,659 74,659
+414,111 410,229 419,934 216-5520174-78001  Trans Out For Building Reserve 468,370 468,370 468,370
+15,062 17,495 21,975 216-5520174-78002  Trans Out For Property Insur 24,478 24,478 24,478
+320,391 420,069 476,856 216-5520174-78003  Trans Out For Admin Overhead 517,719 517,719 517,719
+51,192 51,044 64,071 216-5520174-78004  Trans Out For T
+elecomm Equip 86,407 86,407 86,407
+6,582 20,429 7,500 216-5520174-78005  Trans Out For Motor Pool 12,000 12,000 12,000
+107,901 90,563 85,760 216-5520174-78006  Trans Out For Computer Replace 81,234 81,234 81,234
+54,057 54,298 51,217 216-5520174-78015  Trans Out For Computer Service 52,737 52,737 52,737
+692 1,287 1,089 216-5520174-78017  Trans Out For Postage Charges 1,110 1,110 1,110
+37,034 37,501 40,151 216-5520174-78027  Trans Out For Liability Insur 62,416 62,416 62,416
+10,163 8,483 - 216-5520174-78044  Trans Out For PEL Reserves - - -
+139,622 143,893 156,467 216-5520174-78046  Trans Out For Network Charges 157,248 157,248 157,248
+10,131 9,888 14,772 216-5520174-78054  Trans Out For Telecomm Calls - - -
+10,822 10,731 10,923 216-5520174-78055  Trans Out For Legal Services 11,169 11,169 11,169
+1,177,759 1,275,910 1,350,715 Total For T
+ransfer Outs Reciprocal 1,474,888 1,474,888 1,474,888
+29,062 15,557 76,277 216-5520174-80007  HHS Software Pur
+chase 96,043 96,043 96,043
+- - 3,623 216-5520174-80080  Capital Department Equipment 3,706 3,706 3,706
+63,922 5 15,000 216-5520174-80202  Vehicle & Equipment Replace - - -
+- - - 216-5520174-82001  Miscellaneous Building Remodel 5,000,000 5,000,000 5,000,000
+92,984 15,561 94,900 Total For Capital 5,099,749 5,099,749 5,099,749
+17,899,684 18,238,979 23,654,913 134.5244 Total Expenses Adult Behavioral Health - HHS 130.5728 29,008,097 29,008,097 29,008,097
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+HHS Veterans Services and Developmental Disability Services
+216-5525071 HHS Veterans Services and Developmental Disability Services
+Veteran Services Officers help file disability claims for veterans, pension claims for veterans or their widows, medical benefits, or any other benefits to which the veteran may be
+entitled.
+Intellectual and Developmental Disabilities (DD) Services support children and adults with Intellectual Disabilities and other qualifying Developmental Disabilities (I/DD)
+residing in Yamhill County.
+Service Coordination and Case Management Services provide individualized service plans that focus on strengths, gifts, and talents.  In addition, plans address what works best for
+the individual and what supports are needed to reach their goals. Service Coordinators may attend individualized education plan meetings, connect individuals with information,
+and provide referrals for other supportive resources.
+In-Home Services include assistive technology, adaptive equipment, sensory devices, relief care, training for family caregivers, and help with daily activities such as hygiene, meal
+preparation, money management and skill building. These services are provided to support independence, improve access to the community, promote health and safety, and to
+assist with communication.
+Residential Services include Foster Homes and Group Homes. Child Foster Homes are single-family residences providing care in a home-like setting. Group homes offer 24-hour
+awake staffing and are managed by provider organizations. Both services are regularly monitored by Service Coordinators, with certification and licensing oversight by the Oregon
+Department of Human Services Office of Developmental Disabilities Services (DHS-ODDS), to assure the health and safety of the youth.
+Children's Intensive In-Home Services is a program providing case management serving children with intensive medical or behavioral needs at home.
+Employment Programs provide community-based employment, training, and support to adults no longer attending school programs.
+Vulnerable Adult Abuse Investigation Services are conducted when reports are made on adults with intellectual or developmental disabilities or adults with mental illness. The
+assigned investigator will gather information to assess and coordinate a plan for needed protective services and determine if the report meets one of Oregon Revised Statute (ORS
+430.735) definitions of abuse. If the report meets one of the definitions, an investigation will begin. The primary purpose of protective services and an abuse investigation is to
+prevent further abuse.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Veterans and Disabilities - HHS
+149,938 - - 216-5525071-33172  Federal Grant - Subrecipient - - -
+104,898 174,830 139,866 216-5525071-33409  Veterans 141,509 141,509 141,509
+5,366,635 4,307,391 4,710,271 216-5525071-33411  State Health Grant 5,917,468 5,917,468 5,917,468
+- - 6,815 216-5525071-34612  Public Insurance (OHP) - - -
+- 12,542 - 216-5525071-36212  Reimbursement - - -
+1,039 4,489 - 216-5525071-36299  Miscellaneous - Other Revenue - - -
+5,622,511 4,499,253 4,856,952 Total Revenue 6,058,977 6,058,977 6,058,977
+3,027 5,042 6,021 0.0898 216-5525071-40102  Administrative Office Specialist 0.1128 7,685 7,685 7,685
+193,455 205,842 213,815 2.2694 216-5525071-40130  Senior Management Analyst 2.3385 222,028 222,028 222,028
+18,027 15,685 19,659 0.2694 216-5525071-40132  Management Analyst 0.6771 51,858 51,858 51,858
+16,303 16,925 17,622 0.1124 216-5525071-40133  HHS Director 0.1191 18,739 18,739 18,739
+665 - - - 216-5525071-40135  Program Manager 3 - - - -
+10,837 - - - 216-5525071-40137  Program Manager 1 - - - -
+82,771 97,354 105,572 1.3469 216-5525071-40148  Data Analyst 0.2153 16,395 16,395 16,395
+545 - - - 216-5525071-40155  Program Manager 4 - - - -
+143,268 116,902 191,278 2.0898 216-5525071-40181  HHS Supervisor 1 2.0000 188,916 188,916 188,916
+21,991 94,383 137,401 1.2299 216-5525071-40184  HHS Manager 2 1.2337 146,770 146,770 146,770
+191,204 192,113 222,475 5.0000 216-5525071-40202  Office Specialist 2 3.0000 134,614 134,614 134,614
+52,386 54,008 56,722 1.0000 216-5525071-40203  Senior Office Specialist - - - -
+23,961 29,854 80,796 1.5000 216-5525071-40214  Senior Accounting Clerk 2.2257 116,545 116,545 116,545
+10,194 10,981 11,707 0.1796 216-5525071-40215  Accounting Technician 1 0.2257 14,821 14,821 14,821
+7,769 8,107 8,205 0.0837 216-5525071-40370  EHR System Analyst 0.1077 10,810 10,810 10,810
+6,145 6,665 7,384 0.0837 216-5525071-40374  EHR System Analyst I 0.1077 9,409 9,409 9,409
+- - - - 216-5525071-40618  Professional Medical Coder 0.1077 6,401 6,401 6,401
+30,340 33,702 37,199 0.6000 216-5525071-40620  Human Services Associate 0.5000 32,091 32,091 32,091
+1,123,400 1,210,871 1,387,624 19.0000 216-5525071-40622  Human Services Specialist 1 21.0000 1,522,234 1,522,234 1,522,234
+453,921 523,646 567,542 6.9000 216-5525071-40623  Human Services Specialist 2 5.6500 463,202 463,202 463,202
+41 - - - 216-5525071-40624  Human Services Specialist 3 - - - -
+2,223 7,675 8,198 0.0898 216-5525071-40625  Behavioral Health Clinician 0.1128 10,253 10,253 10,253
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+7,891 8,647 8,805 0.0898 216-5525071-40626  Advanced Practice Behavioral Health Clinician 0.1128 11,238 11,238 11,238
+18,578 20,397 26,292 216-5525071-47500  Longevity Pay 26,375 26,375 26,375
+11,792 9,033 3,896 216-5525071-47750  Out Of Class Pay 4,069 4,069 4,069
+24,504 9,036 5,190 216-5525071-47900  Other Earnings - - -
+286 - 300 216-5525071-48000  Extra Hours - - -
+959 653 725 216-5525071-48100  Overtime 925 925 925
+2,295 - - 216-5525071-48500  Certification/Education - - -
+22,418 28,588 179 216-5525071-48600  Incentive Pay 21,086 21,086 21,086
+35,328 38,862 45,291 216-5525071-49001  Medicare T
+ax 44,016 44,016 44,016
+150,952 166,081 193,652 216-5525071-49100  Social Security 188,205 188,205 188,205
+503,732 526,286 784,973 216-5525071-49210  Retirement 747,223 747,223 747,223
+679,600 773,312 1,064,967 216-5525071-49310  Medical Insurance 1,249,661 1,249,661 1,249,661
+9,926 10,715 23,689 216-5525071-49311  Paid Leave Or
+egon 12,144 12,144 12,144
+1,040 1,465 1,164 216-5525071-49312  Employee Assistance Program 1,280 1,280 1,280
+45,195 48,431 62,496 216-5525071-49315  VEBA 48,595 48,595 48,595
+36,140 40,955 59,365 216-5525071-49320  Dental Insurance Expense 56,709 56,709 56,709
+4,163 4,468 5,960 216-5525071-49325  Vision Insurance 4,571 4,571 4,571
+10,952 11,134 14,554 216-5525071-49331  Short Term Disability 13,823 13,823 13,823
+906 940 1,843 216-5525071-49340  Life Insurance 1,193 1,193 1,193
+6,708 10,480 11,780 216-5525071-49400  Accident Insurance 11,752 11,752 11,752
+2,447 - - 216-5525071-49480  Time Loss Reserve - - -
+2,495 2,727 3,086 216-5525071-49500  Unemployment 2,983 2,983 2,983
+669 659 970 216-5525071-49600  Workers Comp Assessment 922 922 922
+9,143 15,992 11,000 216-5525071-49900  FET/Vacation/Sick 12,000 12,000 12,000
+3,980,590 4,358,617 5,409,397 41.9342 Total For Personnel 39.8465 5,431,541 5,431,541 5,431,541
+3,969 2,330 3,500 216-5525071-51001  Central Supplies 3,000 3,000 3,000
+5,217 8,552 8,000 216-5525071-51199  Miscellaneous Supplies 5,984 5,984 5,984
+- 192 - 216-5525071-51203  Laboratory Materials - - -
+- 112 - 216-5525071-51301  Educational Materials - - -
+2,444 1,914 2,000 216-5525071-51303  Publications & Dues 1,500 1,500 1,500
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,868 1,416 8,000 216-5525071-54301  Small Equipment Purchases 3,000 3,000 3,000
+5,128 5,725 750 216-5525071-58302  Data Processing Supplies 1,250 1,250 1,250
+18,626 20,241 22,250 Total For Materials & Services 14,734 14,734 14,734
+900 3,004 1,400 216-5525071-61024  Interpreter Services 3,967 3,967 3,967
+5,263 5,011 5,603 216-5525071-61025  Professional Contract Employees 5,646 5,646 5,646
+2,265 3,011 3,312 216-5525071-61101  Audit 3,344 3,344 3,344
+1,378 8,560 12,791 216-5525071-61102  Contract Services 13,980 13,980 13,980
+4,086 - 3,542 216-5525071-61103  Janitorial Contract - - -
+89,725 126,758 16,400 216-5525071-61130  Grant Expenses - - -
+7,496 4,835 7,500 216-5525071-61202  Schools And Conferences 5,500 5,500 5,500
+34,863 33,387 34,999 216-5525071-62001  Telephone 30,001 30,001 30,001
+1,324 1,189 1,200 216-5525071-62101  Postage 1,100 1,100 1,100
+9,566 9,426 8,000 216-5525071-63001  Travel Expense 9,500 9,500 9,500
+1,862 1,408 1,911 216-5525071-64001  Advertising 564 564 564
+289 20 200 216-5525071-65001  Equipment Lease 25 25 25
+38,007 38,867 36,034 216-5525071-65201  Building Rent 18,360 18,360 18,360
+3,677 5,302 3,169 216-5525071-67002  Heat/Lights/Water 5,735 5,735 5,735
+1,150 1,197 1,241 216-5525071-67004  Property T
+axes 1,298 1,298 1,298
+12,243 8,498 8,651 216-5525071-68301  Copy Machines/Maint 8,400 8,400 8,400
+9,060 643 2,571 216-5525071-68302  Department Equipment Maint 3,793 3,793 3,793
+- 522 50,058 216-5525071-68307  Software Lic and Maint Fees 67,094 67,094 67,094
+- - - 216-5525071-68310  Building Maintenance - - -
+- - 791 216-5525071-69901  Other Expense 480 480 480
+6,119 9,815 7,000 216-5525071-69907  Wrap Services - - -
+5,966 5,914 - 216-5525071-69910  Long Term Supports - - -
+2,688 2,673 12,500 216-5525071-69912  Family Financ Assit Fnd 4,500 4,500 4,500
+- - - 216-5525071-69918  Employee Recognition - - -
+65,011 184,322 60,000 216-5525071-69925  DD In Home Support 60,000 60,000 60,000
+302,939 454,363 278,873 Total For Contracted Services 243,287 243,287 243,287
+138,217 138,281 140,066 216-5525071-78001  Trans Out For Building Reserve 153,752 153,752 153,752
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+4,263 4,893 6,146 216-5525071-78002  Trans Out For Pr
+operty Insur 6,846 6,846 6,846
+87,717 106,672 132,675 216-5525071-78003  Trans Out For Admin Overhead 153,692 153,692 153,692
+16,341 18,482 17,758 216-5525071-78004  Trans Out For T
+elecomm Equip 22,093 22,093 22,093
+5,675 6,768 5,500 216-5525071-78005  Trans Out For Motor Pool 6,000 6,000 6,000
+29,196 33,993 26,615 216-5525071-78006  Trans Out For Computer Replace 22,431 22,431 22,431
+- - - 216-5525071-78014  Trans Out For HHS Background Checks 10,500 10,500 10,500
+16,751 16,980 15,895 216-5525071-78015  Trans Out For Computer Service 16,036 16,036 16,036
+10,000 10,000 10,500 216-5525071-78016  Trans Out For Contract Service - - -
+- - _ - _ _ _
+340 402 338 216-5525071-78017  Trans Out For Postage Charges 338 338 338
+10,488 10,488 11,229 216-5525071-78027  Trans Out For Liability Insur 15,030 15,030 15,030
+14,254 9,138 - 216-5525071-78044  Trans Out For PEL Reserves - - -
+43,265 45,000 48,560 216-5525071-78046  Trans Out For Network Charges 43,680 43,680 43,680
+4,289 3,464 3,566 216-5525071-78054  Trans Out For T
+elecomm Calls - - -
+3,354 3,356 3,390 216-5525071-78055  Trans Out For Legal Services 3,396 3,396 3,396
+384,150 407,917 422,238 Total For T
+ransfer Outs Reciprocal 453,794 453,794 453,794
+7,684 4,150 19,558 216-5525071-80007  HHS Software Purchase 26,648 26,648 26,648
+- - 1,124 216-5525071-80080  Capital Department Equipment 1,127 1,127 1,127
+7,684 4,150 20,682 Total For Capital 27,775 27,775 27,775
+4,693,990 5,245,288 6,153,440 41.9342 Total Expenses V
+eterans and Disabilities - HHS 39.8465 6,171,131 6,171,131 6,171,131
+FUND 217
+SOLID WASTE
+For Fis
+cal Year Ending June 30, 2027
+Solid Waste
+217-3010028 Solid Waste: The Yamhill County Solid Waste Program provides coordinated regulation on the accumulation, collection, and disposal of solid waste and recycling
+within Yamhill County.  Their responsibilities include monitoring the two closed landfills of Whiteson and Newberg to assure they comply with the Department of Environmental
+Quality (DEQ) standards.   This program also works with the franchise waste collection companies to make sure the solid waste, recycling and waste prevention education goals
+meet State mandated requirements.  This program is also responsible for planning and hosting the twice-yearly Household Hazardous Waste (HHW) events.  The goal of these
+events is to protect the health, safety, and welfare of Yamhill County citizens by safely disposing of household hazardous waste.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Solid Waste
+2,450,823 2,117,545 1,381,732 217-3010028-30101  Beginning Fund Balance 1,171,225 1,171,225 1,171,225
+52,083 27,083 25,000 217-3010028-34311  RBL-License Fee In County 25,000 25,000 25,000
+52,083 27,083 25,000 217-3010028-34312  RBL-License Fee Out Of County 25,000 25,000 25,000
+3,916 5,377 6,000 217-3010028-34321  Disp Fran/Newberg Trf 7,000 7,000 7,000
+65,082 70,754 60,000 217-3010028-34330  Coll Fran/City Sanitary 80,000 80,000 80,000
+40,816 41,715 40,000 217-3010028-34331  Coll Fran/Newberg Garbage 40,000 40,000 40,000
+19 5 19 217-3010028-34699  Miscellaneous - Recycling 100 100 100
+33,788 25,541 27,025 217-3010028-36101  Pool Investment Earnings 18,840 18,840 18,840
+62,010 49,680 49,598 217-3010028-36103  Bond Investment Earnings 36,774 36,774 36,774
+- 572 - 217-3010028-36212  Reimbursement - - -
+2,700 2,700 2,700 217-3010028-36222  Lease/Loan Proceeds 2,700 2,700 2,700
+41 3,292 3,200 217-3010028-36299  Miscellaneous - Other Revenue 5,000 5,000 5,000
+23,865 24,402 24,951 217-3010028-38019  Trans In For Interfd Loan Pri 25,512 25,512 25,512
+- - _ Year 7 of 10 for Jail Security Cameras Project.  Final Payoff January 2030. _ _ _
+4,022 3,485 2,937 217-3010028-38020  Trans In For Interfd Loan Int 2,376 2,376 2,376
+2,791,248 2,399,236 1,648,162 Total Revenue 1,439,527 1,439,527 1,439,527
+13,169 13,687 14,106 0.1000 217-3010028-40123  Planning Director 0.1000 14,108 14,108 14,108
+14,499 29,016 34,140 0.5000 217-3010028-40132  Management Analyst 0.5000 35,716 35,716 35,716
+- 3,112 - 0.1000 217-3010028-40134  Division Manager 0.1000 9,921 9,921 9,921
+152 - - - 217-3010028-40146  Senior Office Administrator - - - -
+9,610 10,242 10,635 0.1875 217-3010028-40203  Senior Office Specialist 0.1875 10,638 10,638 10,638
+7,888 8,794 9,085 0.1000 217-3010028-40312  Senior Planner 0.1000 9,086 9,086 9,086
+46,488 48,879 50,378 0.6000 217-3010028-40602  Environmental Health Specialist 2 0.6000 50,380 50,380 50,380
+970 1,064 1,124 217-3010028-47500  Longevity Pay 1,471 1,471 1,471
+79 - 200 217-3010028-47900  Other Earnings - - -
+7 - 800 217-3010028-48100  Overtime 165 165 165
+- 1,662 2,048 217-3010028-48600  Incentive Pay 2,143 2,143 2,143
+1,336 1,626 1,763 217-3010028-49001  Medicare T
+ax 1,936 1,936 1,936
+5,713 6,954 7,535 217-3010028-49100  Social Security 8,274 8,274 8,274
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+22,092 22,641 31,582 217-3010028-49210  Retirement 34,564 34,564 34,564
+22,588 32,457 38,025 217-3010028-49310  Medical Insurance 50,941 50,941 50,941
+379 449 474 217-3010028-49311  Paid Leave Or
+egon 534 534 534
+37 54 42 217-3010028-49312  Employee Assistance Program 50 50 50
+1,716 2,292 2,231 217-3010028-49315  VEBA 2,381 2,381 2,381
+1,407 1,959 2,118 217-3010028-49320  Dental Insurance Expense 2,331 2,331 2,331
+153 205 213 217-3010028-49325  Vision Insurance 218 218 218
+396 477 518 217-3010028-49331  Short Term Disability 553 553 553
+31 40 64 217-3010028-49340  Life Insurance 45 45 45
+819 1,290 1,522 217-3010028-49400  Accident Insurance 1,607 1,607 1,607
+92 - - 217-3010028-49480  Time Loss Reserve - - -
+95 117 118 217-3010028-49500  Unemployment 130 130 130
+22 26 50 217-3010028-49600  Workers Comp Assessment 50 50 50
+1,992 155 2,000 217-3010028-49900  FET/Vacation/Sick 1,500 1,500 1,500
+151,728 187,197 210,771 1.5875 Total For Personnel 1.5875 238,742 238,742 238,742
+79 1,140 3,000 217-3010028-51001  Central Supplies 2,000 2,000 2,000
+- 79 100 217-3010028-51106  Training Supplies 100 100 100
+- 20 50 217-3010028-51109  Maintenance Supplies 50 50 50
+- - 2,500 217-3010028-511
+14  Computer Supplies 1,000 1,000 1,000
+1,301 621 1,000 217-3010028-511
+16  Printing 1,000 1,000 1,000
+- - 400 217-3010028-51203  Laboratory Materials 400 400 400
+177 - 200 217-3010028-51303  Publications & Dues 200 200 200
+92 150 3,500 217-3010028-51306  Software 1,500 1,500 1,500
+372 - 1,000 217-3010028-53001  Parts 1,000 1,000 1,000
+185 - 400 217-3010028-53004  Small Tools 400 400 400
+- 1,848 1,500 217-3010028-54301  Small Equipment Purchases 1,000 1,000 1,000
+2,206 3,858 13,650 Total For Materials & Services 8,650 8,650 8,650
+2,600 - 10,000 217-3010028-61001  Professional Services 6,000 6,000 6,000
+398 3,254 445 217-3010028-61101  Audit 609 609 609
+- - 23,857 217-3010028-61102  Contract Services 30,000 30,000 30,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+195 1,083 1,000 217-3010028-61103  Janitorial Contract 1,000 1,000 1,000
+40,387 48,785 865,000 217-3010028-61118  Post Closure Newb 632,000 632,000 632,000
+35,500 21,990 80,000 217-3010028-611
+19  Post Closure Whit 75,000 75,000 75,000
+- - - 217-3010028-61201  Training And Development 338 338 338
+720 318 2,000 217-3010028-61202  Schools And Conferences 1,600 1,600 1,600
+2,225 2,307 2,400 217-3010028-62001  Telephone 2,400 2,400 2,400
+- - 50 217-3010028-62101  Postage 50 50 50
+1,047 590 1,000 217-3010028-63001  Travel Expense 1,000 1,000 1,000
+186 - 500 217-3010028-64001  Advertising 500 500 500
+23,857 14,152 - 217-3010028-65201  Building Rent - - -
+63,079 - 5,000 217-3010028-66001  Insurance 5,000 5,000 5,000
+312 362 800 217-3010028-67002  Heat/Lights/Water 800 800 800
+7,849 9,905 20,000 217-3010028-67003  Roadside Garbage Pick-Up 24,000 24,000 24,000
+1,754 - 3,500 217-3010028-67004  Property T
+axes 3,500 3,500 3,500
+1,762 591 1,000 217-3010028-68301  Copy Machines/Maint 1,500 1,500 1,500
+- - - 217-3010028-69101  Assoc Memberships 200 200 200
+- 102 - 217-3010028-69513  Permits/Licenses 200 200 200
+- - 1,500 217-3010028-69515  Emergency Expense 2,500 2,500 2,500
+- 1,814 5,000 217-3010028-69901  Other Expense 10,000 10,000 10,000
+181,871 105,254 1,023,052 Total For Contracted Services 798,197 798,197 798,197
+- - 3,000 217-3010028-73010  Permits & Fees 3,000 3,000 3,000
+125,127 50,441 180,000 217-3010028-73012  R-R-R Education Programs 180,000 180,000 180,000
+125,127 50,441 183,000 Total For Other Expenses 183,000 183,000 183,000
+16,653 16,653 9,192 217-3010028-78001  Trans Out For Building Reserve 2,805 2,805 2,805
+13,484 14,155 17,443 217-3010028-78003  Trans Out For Admin Overhead 14,876 14,876 14,876
+1,277 1,220 - 217-3010028-78004  Trans Out For T
+elecomm Equip 3,956 3,956 3,956
+5,094 9,068 6,000 217-3010028-78005  Trans Out For Motor Pool 8,000 8,000 8,000
+1,684 2,195 - 217-3010028-78006  Trans Out For Computer Replace 1,179 1,179 1,179
+- - - 217-3010028-78017  Trans Out For Postage Charges - - -
+13,545 13,545 14,502 217-3010028-78027  Trans Out For Liability Insur 18,013 18,013 18,013
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+3,890 4,860 - 217-3010028-78046  Trans Out For Network Charges 3,276 3,276 3,276
+346 365 - 217-3010028-78054  Trans Out For Telecomm Calls - - -
+67,799 67,799 69,833 217-3010028-78055  Trans Out For Legal Services 69,833 69,833 69,833
+123,772 129,860 116,970 Total For T
+ransfer Outs Reciprocal 121,938 121,938 121,938
+89,000 89,000 89,000 217-3010028-78176  Trans Out - General Fund 89,000 89,000 89,000
+89,000 89,000 89,000 Total For T
+ransfer Outs 89,000 89,000 89,000
+- 350,000 - 217-3010028-81002  Building Purchase - - -
+- 350,000 - Total For Capital - - -
+- - 11,719 217-3010028-99003  Reserve For Future - - -
+- - 11,719 Total For Balances - - -
+673,704 915,610 1,648,162 1.5875 Total Expenses Solid W
+aste 1.5875 1,439,527 1,439,527 1,439,527
+FUND 220
+COUNTY FAIR
+For Fis
+cal Year Ending June 30, 2027
+County Fair
+220-6010080 County Fair: Since 1854 generations of county residents have enjoyed Oregon’s Oldest Fair. They have come to the Biggest and Best that Yamhill
+County has to offer. Residents have seen everything from the first powered tractor to the best Turkey Breeds to Lego exhibits. The Fair has been evolving with
+the times. The Fair now has National Recording Artist who perform all four nights along with a sanctioned Rodeo on Demolition Derby. The 2025 Fair saw four
+equipment dealers showing their wares and a Welding Contest for High School Students from across Oregon. And of course, fairgoers favorites, Carnival and
+Fair Food.
+The 2025 Fair saw 31,603 patrons come through the gates. Admission sales were at $333,303.65; Carnival commissions came to $38,787.78. The Food and Beer
+Sales gross was $403,610.00, which our commission was $100,678.58. Parking receipts were at $24524.00 which equates to 5,000 cars were parked on out two
+lots. The YCLA youth animal auction gross was $1,137,736.00. The Fair had over 300 youth exhibitors participating in the fair with over 2,800 exhibits in 4-H
+alone. The Rodeo has 230 Contestants sign up competing for a $29,604.00 purse.
+We still have work to do with controlling the expenses for the fair. We believe that the fair will continue to be successful and grow each year, which brings other
+problems that go along with success. We are out of room for the size of fair we are putting on and the number of people who visit the fair each year. This has also
+caused us to increase security. We have also started hiring temp-workers to help with the staffing issues. To address this issue, we are revamping our volunteer
+program to be able to bring more unpaid staff to manage the fair.
+In conclusion, your county fair is one of the largest events in the county. And you should be proud of where we are today compared to 30 years ago. The Yamhill
+County Fair is in the top 10 fairs if the 36 fairs that are held in Oregon.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Fair
+- -20,645 - 220-6010080-30101  Beginning Fund Balance - - -
+4,000 6,000 5,000 220-6010080-30102  Fund Balance Reserved 5,000 5,000 5,000
+53,167 53,167 53,000 220-6010080-33499  Other State Grants 79,500 79,500 79,500
+224,726 292,709 236,002 220-6010080-34711  Admission Fees 267,000 267,000 267,000
+133,496 145,911 134,966 220-6010080-34712  Concession Fees 143,000 143,000 143,000
+11,970 15,295 12,500 220-6010080-34713  Vendor Fees 13,000 13,000 13,000
+27,060 42,500 42,500 220-6010080-34715  Golden Circle Fees 20,000 20,000 20,000
+- - - 220-6010080-34718  Special Event Revenues - - -
+25,548 21,451 20,000 220-6010080-34720  Parking Fees 22,000 22,000 22,000
+6,400 6,730 6,500 220-6010080-34721  RV Camping Fees 14,700 14,700 14,700
+433 431 400 220-6010080-34723  ATM Fee Revenue 400 400 400
+- 1,575 - 220-6010080-36204  Rent - - -
+44,350 34,220 50,000 220-6010080-36236  Fair & Rodeo Sponsors 75,000 75,000 75,000
+4,300 2,950 2,500 220-6010080-36247  Ambassadors Revenue 2,500 2,500 2,500
+200 - - 220-6010080-36299  Miscellaneous - Other Revenue - - -
+1,000 1,000 1,000 220-6010080-38023  Trans In For Ambassador Sclrsp 1,000 1,000 1,000
+536,650 603,293 564,368 Total Revenue 643,100 643,100 643,100
+- - - - Total For Personnel - - - -
+1,341 1,091 2,300 220-6010080-51102  Cleaning Supplies 2,000 2,000 2,000
+3,315 7,990 9,000 220-6010080-51901  Awards/Pr
+emiums 8,000 8,000 8,000
+- 10,910 - 220-6010080-54301  Small Equipment Purchases - - -
+4,657 19,991 11,300 Total For Materials & Services 10,000 10,000 10,000
+24,781 27,845 29,000 220-6010080-61001  Professional Services 29,000 29,000 29,000
+37,751 12,802 22,600 220-6010080-61102  Contract Services 17,800 17,800 17,800
+42,792 33,178 35,000 220-6010080-64001  Advertising 33,000 33,000 33,000
+- 1,575 - 220-6010080-65201  Building Rent - - -
+- - - 220-6010080-67002  Heat/Lights/Water 7,000 7,000 7,000
+98,299 48,984 48,000 220-6010080-69201  Fair Production 50,000 50,000 50,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+224,541 294,252 264,252 220-6010080-69202  Entertainment 311,228 311,228 311,228
+7,050 3,817 5,000 220-6010080-69203  Judging Fees & Exp 4,000 4,000 4,000
+15,313 22,979 32,500 220-6010080-69204  Security & Safety 35,000 35,000 35,000
+4,790 - 10,000 220-6010080-69206  Commissions Paid 5,000 5,000 5,000
+6,143 9,061 10,000 220-6010080-69212  Concession Expense 9,500 9,500 9,500
+51,732 55,960 55,000 220-6010080-69215  Rodeo Attractions 59,345 59,345 59,345
+7,500 4,000 5,000 220-6010080-69217  Ticket Sales Attendents 5,500 5,500 5,500
+5,000 5,000 5,000 220-6010080-69218  Parking Attendents 16,700 16,700 16,700
+- - - 220-6010080-69220  Special Event Expenses - - -
+4,636 7,555 8,000 220-6010080-69222  Ambassadors Expenses 8,000 8,000 8,000
+10,592 10,672 13,700 220-6010080-69223  Other Attractions 26,874 26,874 26,874
+2,562 2,935 3,400 220-6010080-69908  Bank Service Charge 3,200 3,200 3,200
+543,482 540,613 546,452 Total For Contracted Services 621,147 621,147 621,147
+3,156 5,229 6,616 220-6010080-78003  Trans Out For Admin Overhead 6,535 6,535 6,535
+3,156 5,229 6,616 Total For T
+ransfer Outs Reciprocal 6,535 6,535 6,535
+551,295 565,833 564,368 - Total Expenses County Fair - 637,682 637,682 637,682
+For Fis
+cal Year Ending June 30, 2027
+Event Center
+220-6010082 Event Center: The Event Center is the main revenue generator for the fairgrounds. It provides for all the maintenance and expenses to operate the
+facility, along with labor and utilities for the fair. It is the engine that drives the facility.
+With current projections and request for the facility in 2026 we are projecting to exceed the budgeted income. One of the reasons for this is we have been on a
+campaign to bring the fees to match other facilities in the state. We also have been booking the facility for 2026. But we are fast approaching maximum capacity
+of the facility which will cap the income, using the current business model. To come up with an answer to the problem, we are going to change the business
+model, and we are going to start a Marketing Plan for the Event Center. Partner with local organizations such as Visit McMinnville, to promote the Event Center
+and recruit other events to use the facility. Hold multiple events at the same time. Look at the current uses and maximize every square foot of the facility is the
+only way to out pace the expenses that the facility generates.
+The two biggest expenses for the property are labor and utilities. We are going to determine if we can make some changes to reduce these expenses. We are
+working on a cost analyst of the Event Center. This will help us to combat our expenses and look at alternatives. We have been involved with Oregon Fairs in
+working with the Oregon Legislature to see if we can get bills through that will help fund Capital Repairs of the facility. Three House Bills and one Senate bill
+deal with Fairgrounds directly. These bills will allow us to make repairs to enhance the property. Another House Bill will help with repairs to enhance the
+property to be able to deal with Emergency Management. The Oregon Legislature has seen the value of the fairgrounds in Oregon. This will directly affect
+Yamhill County Fairgrounds.
+While there have been many challenges that come with an aging facility, we will continue to do whatever it takes to keep the Event Center a clean, safe
+environment for the people of Yamhill County.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Fair Events Center
+427,790 270,913 146,218 220-6010082-30101  Beginning Fund Balance 170,102 170,102 170,102
+104,934 107,482 200,000 220-6010082-33499  Other State Grants 120,500 120,500 120,500
+- - _ There is a possibility of another grant by the legislature. This will be a place
+holder incase it happens. _ _ _
+- - - 220-6010082-33514  Lottery Proceeds to County Fair 79,500 79,500 79,500
+-160 20 - 220-6010082-34298  Over/Short - - -
+5,778 7,021 3,000 220-6010082-34712  Concession Fees 6,000 6,000 6,000
+334,783 337,158 297,000 220-6010082-34717  Evnt Cntr Facility Fees 300,000 300,000 300,000
+-500 - 10,000 220-6010082-34718  Special Event Revenues 10,000 10,000 10,000
+9,476 9,134 4,000 220-6010082-34722  Other User Fees 4,000 4,000 4,000
+565 389 400 220-6010082-34723  ATM Fee Revenue 400 400 400
+4,061 2,662 3,248 220-6010082-36101  Pool Investment Earnings 1,963 1,963 1,963
+7,123 5,014 5,698 220-6010082-36103  Bond Investment Earnings 3,711 3,711 3,711
+2,037 2,308 - 220-6010082-36105  Lease Interest Revenue - - -
+1,920 - - 220-6010082-36203  Donations - - -
+29,399 30,876 37,076 220-6010082-36204  Rent 37,553 37,553 37,553
+941 1,379 765 220-6010082-36212  Reimbursement 810 810 810
+761 3,592 720 220-6010082-36299  Miscellaneous - Other Revenue 720 720 720
+70,000 70,000 70,000 220-6010082-38006  Trans In Of V
+ideo Lottery 70,000 95,000 95,000
+998,909 847,948 778,125 Total Revenue 805,259 830,259 830,259
+- - - - 220-6010082-40102  Administrative Office Specialist 1.0000 47,840 47,840 47,840
+54,781 54,781 54,781 1.0000 220-6010082-40129  Fair Manager 1.0000 56,424 56,424 56,424
+40,889 43,146 44,990 1.0000 220-6010082-40168  Fair Office Manager - - - -
+9,525 19,222 41,600 1.0000 220-6010082-40202  Office Specialist 2 1.0000 41,600 41,600 41,600
+10,361 - - - 220-6010082-40343  Facilities Maintenance 1 - - - -
+50,380 - - - 220-6010082-40356  Facilities Maintenance 2 - - - -
+- 10,727 9,641 0.3000 220-6010082-40501  Laborer 1 0.3000 10,500 10,500 10,500
+7,410 84,701 87,838 2.0000 220-6010082-40502  Laborer 2 2.0000 93,600 93,600 93,600
+4,903 7,120 11,600 220-6010082-47900  Other Earnings 38,200 38,200 38,200
+7,653 20,745 18,000 220-6010082-48100  Overtime 18,000 18,000 18,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - - 220-6010082-48200  Extra Help - 25,000 25,000
+2,698 3,486 3,462 220-6010082-49001  Medicare Tax 3,625 3,625 3,625
+11,538 14,908 14,808 220-6010082-49100  Social Security 15,497 15,497 15,497
+759 962 955 220-6010082-49311  Paid Leave Or
+egon 999 999 999
+- - - 220-6010082-49312  Employee Assistance Program 170 170 170
+2,584 5,045 5,200 220-6010082-49400  Accident Insurance 5,628 5,628 5,628
+130 - - 220-6010082-49480  Time Loss Reserve - - -
+187 241 240 220-6010082-49500  Unemployment 250 250 250
+70 80 122 220-6010082-49600  Workers Comp Assessment 122 122 122
+194 - - 220-6010082-49900  FET/Vacation/Sick - - -
+204,062 265,164 293,237 5.3000 Total For Personnel 5.3000 332,455 357,455 357,455
+3,541 4,290 4,000 220-6010082-51102  Cleaning Supplies 4,500 4,500 4,500
+31,669 32,455 38,401 220-6010082-511
+19  Event Center Expenses 20,000 20,000 20,000
+4,493 4,721 4,500 220-6010082-51199  Miscellaneous Supplies 4,000 4,000 4,000
+1,070 3,100 4,000 220-6010082-51306  Software 3,000 3,000 3,000
+17,790 10,212 6,000 220-6010082-54301  Small Equipment Purchases 5,903 5,903 5,903
+58,562 54,778 56,901 Total For Materials & Services 37,403 37,403 37,403
+450 817 898 220-6010082-61101  Audit 819 819 819
+65,867 177 2,000 220-6010082-61102  Contract Services 2,000 2,000 2,000
+480 650 500 220-6010082-61201  Training And Development 500 500 500
+- - - 220-6010082-61202  Schools And Conferences 4,000 4,000 4,000
+4,040 5,515 5,000 220-6010082-62001  Telephone 4,500 4,500 4,500
+10 147 200 220-6010082-62101  Postage 200 200 200
+5,865 6,438 6,000 220-6010082-63001  Travel Expense 1,000 1,000 1,000
+500 - - 220-6010082-64001  Advertising 1,000 1,000 1,000
+- 1,811 950 220-6010082-65201  Building Rent 970 970 970
+506 2,200 3,000 220-6010082-65202  Equipment Rent 3,000 3,000 3,000
+74,236 93,283 95,000 220-6010082-67002  Heat/Lights/Water 96,000 96,000 96,000
+701 742 765 220-6010082-67004  Property T
+axes 810 810 810
+9,893 7,704 8,000 220-6010082-68002  Equipment Repairs 8,000 8,000 8,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+19,528 15,183 17,269 220-6010082-68312  Fair Improve - Non-Capital 25,000 25,000 25,000
+3,663 5,028 5,000 220-6010082-69101  Assoc Memberships 3,000 3,000 3,000
+- 500 - 220-6010082-69201  Fair Production - - -
+599 1,650 1,000 220-6010082-69204  Security & Safety 1,000 1,000 1,000
+- - 2,000 220-6010082-69205  Bedding Materials 2,000 2,000 2,000
+2,550 - 10,000 220-6010082-69220  Special Event Expenses 10,000 10,000 10,000
+-260 - - 220-6010082-69221  Playday Expenses - - -
+28 675 - 220-6010082-69299  Miscellaneous Expenses 500 500 500
+188,657 142,520 157,582 Total For Contracted Services 164,299 164,299 164,299
+27,385 31,429 39,478 220-6010082-78002  Trans Out For Pr
+operty Insur 43,973 43,973 43,973
+4,908 8,890 10,894 220-6010082-78003  Trans Out For Admin Overhead 12,082 12,082 12,082
+1,452 1,584 1,584 220-6010082-78004  Trans Out For Telecomm Equip 2,027 2,027 2,027
+5,399 4,547 6,000 220-6010082-78005  Trans Out For Motor Pool 5,000 5,000 5,000
+1,179 1,179 1,401 220-6010082-78006  Trans Out For Computer Replace 1,401 1,401 1,401
+- - - 220-6010082-78017  Trans Out For Postage Charges - - -
+4,170 4,170 4,465 220-6010082-78027  Trans Out For Liability Insur 5,507 5,507 5,507
+2,778 1,944 3,063 220-6010082-78046  Trans Out For Network Charges 3,276 3,276 3,276
+246 192 266 220-6010082-78054  Trans Out For T
+elecomm Calls - - -
+3,222 3,222 3,254 220-6010082-78055  Trans Out For Legal Services 3,254 3,254 3,254
+50,739 57,157 70,405 Total For T
+ransfer Outs Reciprocal 76,520 76,520 76,520
+12,580 10,322 - 220-6010082-80080  Capital Department Equipment - - -
+181,125 98,006 200,000 220-6010082-82001  Miscellaneous Building Remodel 200,000 200,000 200,000
+- - _ Place holder for Oregon Business grant if approved by legislature. _ _ _
+32,271 114,615 - 220-6010082-83010  Capital Improvements - - -
+225,976 222,942 200,000 Total For Capital 200,000 200,000 200,000
+727,996 742,561 778,125 5.3000 Total Expenses Fair Events Center 5.3000 810,677 835,677 835,677
+FUND 221
+COMMUNITY
+CORRECTIONS
+For Fis
+cal Year Ending June 30, 2027
+Beginning Fund Balance - CJ
+221-6510001 Beginning Fund Balance - CJ:
+ The Adult Division currently provides supervision to approximately 630 felony and misdemeanor convicted Adults on Supervision (AOS) in Yamhill County.  Department of
+Safety Standards and Training (DPSST) certified, and sworn adult probation and parole officers (PPO) carry assigned caseloads of AOS convicted of person-to-person, drug, and
+property offenses.  AOS are placed on supervised probation by the Court, post-prison supervision by the Oregon Board of Parole after serving over a year of incarceration in a
+Department of Correction (DOC) Institution or post-prison supervision by the Local Supervisory Authority (SB1145) when serving one year or less of an imposed DOC
+incarceration sentence in the Yamhill County Correctional Facility.
+The goal of community-based justice programs is to reduce the risk of new criminal offense through a balanced approach using community supervision, sanctions, and program
+services.  Supervision provides structured accountability with conditions imposition by the releasing authority.  Static and dynamic risk and needs assessments are completed by
+assigned PPO, followed by case planning, which acts as a supervision guide for AOS with listed goals, benchmarks, and progress.  Through assessment and case planning, AOS
+are also referred to various services and programming options based on assessment results and individual needs.  Programming is intended to specifically target individual’s
+addictions issues, sexual deviancy, anger, domestic violence, and/or cognitive and criminal thinking.  Services such as housing, employment, transportation, or other basic needs
+can also be provided or facilitated with local public amenities.  Sanctions, administered through a statewide gridline by the officers, are individualized and intended to hold AOS
+accountable with imposed supervision conditions, while incentives are utilized to promote positive behavior.  PPO are trained to exercise research-based practices through
+interview techniques, use of a variety of risk needs case type and gender specific assessments, case planning, and interventions proven to effectively lower recidivism rates and
+promote a long-term prosocial lifestyle.
+The Adult Division is funded primarily through a state allocation of Grant-In-Aid Community Corrections and M57 Grant funds through the Department of Corrections (DOC).
+Just recently, legislation has passed to allocate DOC community corrections funding for the supervision of misdemeanor crimes including Possession of a Controlled Substance,
+Strangulation, Menacing, and Sex Abuse III.  Yamhill County is one of the fortunate Oregon Counties that provides a portion of county allocated funds to YCDCJ for the
+supervision of state nonfunded misdemeanor offenses including crimes such as DUII, Harassment, Criminal Mischief, and other nuisance crimes.  Criminal Justice Commission
+(CJC) State Justice Reinvestment (JRI) Grant Funds, intended for the safe reduction of state prison bed usage, have been used locally to support our local Defendant Assessment
+Report (DAR) SMART Sentencing Prison Diversion Program.  Since inception of the SMART Sentencing program in late 2013, as of December of 2025, Yamhill County alone
+has saved approximately 5,378 months in state prison bed usage, with a very high success rate.  The 287 individuals who have been safely prison diverted since 2013 equates to a
+total savings of 448 years of prison beds and cost to Oregon state taxpayers.  Two additional CJC Treatment Court Grants support our local Adult Recovery Court and Court
+Coordinated Services (Behavioral Health Court).
+The Adult Division also provides community service and out-of-custody work crew programs for those ordered by the court through probation.  These programs can also be used
+by PPO as a sanction, or alternative to jail custody sanction, when responding to supervision violations. Through this restorative justice model, we offer on-the-job life skills
+training, employment readiness, and accountability for our local AOS who may otherwise remain un-engaged in pro-social community activities.  This program allows us to
+partner with Yamhill County Fairgrounds for various projects and special events.  YCDCJ also continues to support local motivational and cognitive programming.  Thinking 4 a
+Change (T4C), along with an adapted employment curriculum from the University of Cincinnati, Pathways to Purpose, is used to assist AOS with skill building to both seek and
+retain employment.  We also continue to focus on gender-specific needs by using a gender-specific risk assessment for female correctional clients, the Women’s Risk Need
+Assessment (WRNA), as well as a gender-specific cognitive behavioral therapy program called Moving On, also a University of Cincinnati curriculum.
+Through collaboration with our local criminal justice partners and Local Public Safety Coordinating Counsel, we continue our journey toward fidelity to evidence based decision-
+making efforts and effective supervision to improve our local criminal justice system through prison diversion, lowering of recidivism rates and, ultimately, community safety.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Beginning Fund Balance - CJ
+1,701,316 1,222,862 1,557,109 221-6510001-30101  Beginning Fund Balance 1,317,431 1,317,431 1,317,431
+1,701,316 1,222,862 1,557,109 Total Revenue 1,317,431 1,317,431 1,317,431
+- - - - Total For Personnel - - - -
+- - - - Total Expenses Beginning Fund Balance - CJ - - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Ending Fund Balance - CJ
+- - - - Total For Personnel - - - -
+- - 1,121,952 221-6510093-99001  Ending Fund Balance 534,385 534,385 534,385
+- - 1,121,952 Total For Balances 534,385 534,385 534,385
+- - 1,121,952 - Total Expenses Ending Fund Balance - CJ - 534,385 534,385 534,385
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Community Justice - Jail
+221-6520041 Community Justice (State Senate Bill 1145 - Jail/Work Center - Incarceration):
+This department was previously used to reflect the portion of Department of Corrections Grant-In-Aid Community Corrections funding allocated to support jail operations for the
+dedicated housing of local control Adults in Custody (AIC) pursuant to the passage of SB 1145, enacted in 1995.  SB 1145 AIC, who are sentenced to a Department of Correction
+prison sentence for 12 months or less by the Yamhill County Circuit Court, are required by law to serve their sentences in the Yamhill County Correctional Facility.
+In previous fiscal years, this fund included Sheriff's Office Jail Correctional Officer FTE as well as jail maintenance and capital.  However, last fiscal year, a direct transfer from
+this budget to the Sheriff's Office Jail Operations and Jail Maintenance budgets was made instead.  This fiscal year, the SB 1145 DOC funding revenue will be shown instead in
+fund 221-67 and transferred directly to the Sheriff's Office Jail Operations and Jail Maintenance from that budget.  Fund 221-67 now reflects total YCDCJ DOC SB 1145 allocated
+funds dedicated to supporting the entirety of the program including jail operations, case management, and transitional planning.  Eventually, the 221-41 budget will fall from Fund
+221 altogether as no longer needed, being reflected in 221-67 moving forward.
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+23-24 24-25 25-26 25-26 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+Community Justice - Jail
+692,525 676,877 550,000 221-6520041-33467  SB 1145 Grant - -
+- 902 - 221-6520041-36212  Reimbursement - -
+692,525 677,779 550,000 Total Revenue - -
+193,846 180,831 - - 221-6520041-40409  Corrections Deputy - - -
+3,867 2,680 - 221-6520041-47500  Longevity Pay - -
+12,934 -201 - 221-6520041-47900  Other Earnings - -
+8,614 10,666 - 221-6520041-48000  Extra Hours - -
+21,643 12,499 - 221-6520041-48100  Overtime - -
+11,701 6,106 - 221-6520041-48500  Certification/Education - -
+3,880 3,225 - 221-6520041-49001  Medicare T
+ax - -
+16,589 13,789 - 221-6520041-49100  Social Security - -
+72,998 60,777 - 221-6520041-49210  Retirement - -
+37,619 41,581 - 221-6520041-49310  Medical Insurance - -
+1,081 890 - 221-6520041-49311  Paid Leave Or
+egon - -
+51 72 - 221-6520041-49312  Employee Assistance Program - -
+2,875 3,000 - 221-6520041-49315  VEBA - -
+632 621 - 221-6520041-49332  Long Term Disability - -
+79 86 - 221-6520041-49340  Life Insurance - -
+6,490 7,457 - 221-6520041-49400  Accident Insurance - -
+263 - - 221-6520041-49480  Time Loss Reserve - -
+268 224 - 221-6520041-49500  Unemployment - -
+46 42 - 221-6520041-49600  Workers Comp Assessment - -
+14,633 9,444 - 221-6520041-49900  FET/Vacation/Sick - -
+410,105 353,788 - - Total For Personnel - - -
+4,994 - - 221-6520041-511
+10  Department Supplies - -
+4,994 - - Total For Materials & Services - -
+563 512 - 221-6520041-61101  Audit - -
+563 512 - Total For Contracted Services - -
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+23-24 24-25 25-26 25-26 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+18,384 16,313 - 221-6520041-78003  Trans Out For Admin Overhead - -
+- - 330,819 221-6520041-78010  Trans Out To Jail Operations - -
+- - _ - _ _
+272,380 262,919 219,181 221-6520041-78045  Trans Out T
+o Jail Maint - -
+51,779 25,000 - 221-6520041-78056  Trans Out To Jail Capital - -
+342,543 304,232 550,000 Total For Transfer Outs Reciprocal - -
+758,205 658,531 550,000 - Total Expenses Community Justice - Jail - - -
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Community Justice - County
+221-6520044 Community Justice - County (Misdemeanor - County General Fund Allocation):
+This department reflects allocated county general funds that support probation officers' community supervision of state-nonfunded misdemeanor Adults on Supervision (AOS).
+Such misdemeanor offenses include DUII, Harassment, Criminal Mischief, and nuisance crimes.  YCDCJ Department of Corrections (DOC) Community Corrections Grant-In-Aid
+funding can only be used for the supervision of felony offenses and four misdemeanor crimes: Possession of a Controlled Substance, Assault IV constituting domestic violence,
+Menacing constituting domestic violence, and Sex Abuse III.
+Without this vital county funding allocation to YCDCJ, supervision of non-funded misdemeanor cases would not be possible.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Community Justice - County
+9 1,107 - 221-6520044-36212  Reimbursement - - -
+236,453 242,838 250,123 221-6520044-38091  Trans In Fr
+om General Fund 245,123 245,123 245,123
+236,462 243,945 250,123 Total Revenue 245,123 245,123 245,123
+159,760 99,153 115,703 1.6000 221-6520044-40336  Parole Pr
+obation Officer 1.5000 120,633 120,633 120,633
+- - - 221-6520044-47500  Longevity Pay 700 700 700
+1,190 8 1,000 221-6520044-47900  Other Earnings 1,000 1,000 1,000
+1,014 168 1,000 221-6520044-48100  Overtime 1,000 1,000 1,000
+2,700 380 1,000 221-6520044-48400  Beeper Pay 1,000 1,000 1,000
+3,452 276 - 221-6520044-48500  Certification/Education 1,400 1,400 1,400
+1,484 256 - 221-6520044-48600  Incentive Pay 870 870 870
+2,462 1,436 1,678 221-6520044-49001  Medicare Tax 1,792 1,792 1,792
+10,529 6,141 7,173 221-6520044-49100  Social Security 7,663 7,663 7,663
+43,723 25,470 34,954 221-6520044-49210  Retirement 37,341 37,341 37,341
+39,191 30,120 40,901 221-6520044-49310  Medical Insurance 48,133 48,133 48,133
+692 396 463 221-6520044-49311  Paid Leave Or
+egon 495 495 495
+51 57 45 221-6520044-49312  Employee Assistance Program 48 48 48
+3,000 2,150 2,400 221-6520044-49315  VEBA 2,250 2,250 2,250
+2,689 1,963 2,280 221-6520044-49320  Dental Insurance Expense 2,202 2,202 2,202
+273 192 229 221-6520044-49325  Vision Insurance 205 205 205
+718 438 557 221-6520044-49331  Short Term Disability 522 522 522
+86 60 70 221-6520044-49340  Life Insurance 66 66 66
+4,247 3,351 4,605 221-6520044-49400  Accident Insurance 4,919 4,919 4,919
+168 - - 221-6520044-49480  Time Loss Reserve - - -
+171 100 115 221-6520044-49500  Unemployment 121 121 121
+38 27 45 221-6520044-49600  Workers Comp Assessment 45 45 45
+1,528 - 1,500 221-6520044-49900  FET/Vacation/Sick 1,500 1,500 1,500
+279,166 172,145 215,718 1.6000 Total For Personnel 1.5000 233,905 233,905 233,905
+44 764 - 221-6520044-51001  Central Supplies - - -
+180 - - 221-6520044-54301  Small Equipment Purchases - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,479 - - 221-6520044-58302  Data Processing Supplies - - -
+1,704 764 - Total For Materials & Services - - -
+150 190 209 221-6520044-61101  Audit 130 130 130
+- 115 - 221-6520044-61113  Parole Services - - -
+- 55 1,000 221-6520044-61201  Training And Development 1,000 1,000 1,000
+52 - - 221-6520044-61202  Schools And Conferences - - -
+1,753 2,732 1,500 221-6520044-62001  Telephone 1,000 1,000 1,000
+122 74 - 221-6520044-62101  Postage 100 100 100
+1,452 458 1,000 221-6520044-63001  Travel Expense 700 700 700
+3,529 3,624 3,709 Total For Contracted Services 2,930 2,930 2,930
+3,544 3,728 4,357 221-6520044-78001  Trans Out For Building Reserve - - -
+399 457 575 221-6520044-78002  Trans Out For Pr
+operty Insur 640 640 640
+782 792 787 221-6520044-78004  Trans Out For T
+elecomm Equip - - -
+10,284 3,168 - 221-6520044-78005  Trans Out For Motor Pool 3,000 3,000 3,000
+1,230 1,230 1,230 221-6520044-78006  Trans Out For Computer Replace 1,230 1,230 1,230
+34 27 100 221-6520044-78017  Trans Out For Postage Charges 100 100 100
+944 944 1,011 221-6520044-78027  Trans Out For Liability Insur 1,262 1,262 1,262
+1,852 1,944 2,042 221-6520044-78046  Trans Out For Network Charges 2,042 2,042 2,042
+170 145 173 221-6520044-78054  Trans Out For T
+elecomm Calls - - -
+19,239 12,434 10,275 Total For T
+ransfer Outs Reciprocal 8,274 8,274 8,274
+303,638 188,967 229,702 1.6000 Total Expenses Community Justice - County 1.5000 245,109 245,109 245,109
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Community Justice - State
+221-6520045 Community Justice - State (Department of Corrections Grant-In-Aid and other State Grants - Felony Supervision):
+This department supports Parole and Probation Officers and PO Aides assigned to the supervision of felony and some qualified state-funded misdemeanor Adults on Supervision
+(AOS) who are on probation, parole, and post-prison supervision.  This fund also supports management staff, administrative staff, out-of-custody work crew and community
+service programs, and cognitive treatment services.  This budget includes all Department of Corrections (DOC) Community Corrections Grant in Aid funds, DOC M57 funds,
+Criminal Justice Commission (CJC) Justice Reinvestment Program Formula Grant funds, and two CJC Treatment Court Grants funds.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Community Justice - State
+2,799,067 2,856,290 3,375,028 221-6520045-33413  State Enhancement 3,134,367 3,134,367 3,134,367
+- 162,978 - 221-6520045-33467  SB 1145 Grant - - -
+1,733 - - 221-6520045-34204  Civil Fees - - -
+12,634 10,372 - 221-6520045-34205  Probation Fees 4,000 4,000 4,000
+804 475 1,000 221-6520045-34210  UA Fees 1,000 1,000 1,000
+34 - - 221-6520045-34213  Electronic Surveillance 500 500 500
+25 - - 221-6520045-34215  Sex Offender Tr
+. Fee - - -
+490 100 100 221-6520045-34230  DNA Fees 300 300 300
+400 240 - 221-6520045-34233  Compact Fees 200 200 200
+120 2,600 - 221-6520045-34236  Community Service Fee 3,000 3,000 3,000
+-150 20 - 221-6520045-34299  Miscellaneous - Fees - - -
+19,449 28,262 15,557 221-6520045-36101  Pool Investment Earnings 20,847 20,847 20,847
+37,200 52,005 29,754 221-6520045-36103  Bond Investment Earnings 38,494 38,494 38,494
+278 155 - 221-6520045-36105  Lease Interest Revenue - - -
+20,028 17,548 23,554 221-6520045-36204  Rent 23,000 23,000 23,000
+390 6,824 - 221-6520045-36212  Reimbursement - - -
+115 4,030 - 221-6520045-36299  Miscellaneous - Other Revenue - - -
+113,1
+18 149,188 99,580 221-6520045-38031  Trans In Fr
+om Juvenile 117,570 117,570 117,570
+- - _ Admin Salary Reimbursement from Juvenile _ _ _
+3,005,734 3,291,086 3,544,573 Total Revenue 3,343,278 3,343,278 3,343,278
+- - - - 221-6520045-40124  Program Coordinator 1.0000 64,838 64,838 64,838
+165,815 175,762 191,502 2.0000 221-6520045-40138  Community Justice Manager 2.0000 201,657 201,657 201,657
+135,883 139,959 144,252 1.0000 221-6520045-40157  Community Justice Director 1.0000 148,592 148,592 148,592
+75,476 97,770 89,572 1.0000 221-6520045-40158  Comm Justice Business Manager 1.0000 97,789 97,789 97,789
+- 756 35,984 1.0000 221-6520045-40202  Office Specialist 2 1.0000 42,079 42,079 42,079
+135,624 109,081 96,427 1.7000 221-6520045-40203  Senior Office Specialist 1.7000 88,654 88,654 88,654
+108,727 60,622 115,368 2.5000 221-6520045-40210  Probation Officer Aide 2.5000 127,888 127,888 127,888
+22,713 - - - 221-6520045-40220  Office Specialist Technician - - - -
+766,177 838,745 1,036,386 11.8000 221-6520045-40336  Parole Pr
+obation Officer 10.9000 974,076 974,076 974,076
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+106,583 - - - 221-6520045-40368  Pretrial Services Officer - - - -
+9 - - 221-6520045-47400  Shift Diff - - -
+17,814 15,437 10,370 221-6520045-47500  Longevity Pay 16,349 16,349 16,349
+2,504 1,932 1,000 221-6520045-47750  Out Of Class Pay 1,000 1,000 1,000
+1,658 215 1,000 221-6520045-47900  Other Earnings 1,000 1,000 1,000
+9 - - 221-6520045-48000  Extra Hours - - -
+2,118 3,871 5,000 221-6520045-48100  Overtime 5,000 5,000 5,000
+- - 45,000 221-6520045-48200  Extra Help 45,000 45,000 45,000
+4,272 6,378 7,500 221-6520045-48400  Beeper Pay 12,000 12,000 12,000
+64,520 56,259 59,927 221-6520045-48500  Certification/Education 69,703 69,703 69,703
+7,700 9,565 8,700 221-6520045-48600  Incentive Pay 6,090 6,090 6,090
+23,681 21,868 25,965 221-6520045-49001  Medicare Tax 26,647 26,647 26,647
+101,257 93,504 11
+1,020 221-6520045-49100  Social Security 113,938 113,938 113,938
+418,632 388,000 524,759 221-6520045-49210  Retirement 510,765 510,765 510,765
+394,391 360,609 536,823 221-6520045-49310  Medical Insurance 681,988 681,988 681,988
+6,655 5,889 6,753 221-6520045-49311  Paid Leave Or
+egon 7,349 7,349 7,349
+546 742 587 221-6520045-49312  Employee Assistance Program 675 675 675
+25,985 22,592 31,500 221-6520045-49315  VEBA 27,150 27,150 27,150
+24,643 21,949 29,924 221-6520045-49320  Dental Insurance Expense 30,975 30,975 30,975
+2,344 2,014 3,003 221-6520045-49325  Vision Insurance 2,479 2,479 2,479
+6,413 5,447 7,308 221-6520045-49331  Short Term Disability 6,995 6,995 6,995
+703 651 925 221-6520045-49340  Life Insurance 820 820 820
+23,353 31,765 39,096 221-6520045-49400  Accident Insurance 43,442 43,442 43,442
+1,625 - - 221-6520045-49480  Time Loss Reserve - - -
+1,650 1,509 1,711 221-6520045-49500  Unemployment 1,745 1,745 1,745
+359 295 500 221-6520045-49600  Workers Comp Assessment 500 500 500
+44,929 14,322 20,000 221-6520045-49900  FET/Vacation/Sick 10,000 10,000 10,000
+2,694,764 2,487,508 3,187,862 21.0000 Total For Personnel 21.1000 3,367,183 3,367,183 3,367,183
+18,100 13,839 25,000 221-6520045-51001  Central Supplies 25,000 25,000 25,000
+- 329 - 221-6520045-51006  Medical Supplies - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+850 179 - 221-6520045-51199  Miscellaneous Supplies - - -
+7,222 2,774 1,000 221-6520045-51201  Medications 1,000 1,000 1,000
+- 3,755 7,000 221-6520045-51204  Laboratory Expense 7,000 7,000 7,000
+- - 1,000 221-6520045-51303  Publications & Dues 1,000 1,000 1,000
+9,058 6,931 10,000 221-6520045-54301  Small Equipment Purchases 10,000 10,000 10,000
+4,288 1,595 2,500 221-6520045-58302  Data Processing Supplies 2,500 2,500 2,500
+39,516 29,401 46,500 Total For Materials & Services 46,500 46,500 46,500
+820 1,417 1,000 221-6520045-61001  Professional Services 1,000 1,000 1,000
+2,100 2,145 2,360 221-6520045-61101  Audit 2,156 2,156 2,156
+129,869 180,050 150,000 221-6520045-61102  Contract Services 100,000 100,000 100,000
+124,995 183,238 200,000 221-6520045-611
+13  Parole Services 200,000 200,000 200,000
+1,745 7,990 5,000 221-6520045-61201  Training And Development 10,000 10,000 10,000
+5,397 4,345 10,000 221-6520045-61202  Schools And Conferences 10,000 10,000 10,000
+12,560 11,083 12,000 221-6520045-62001  Telephone 10,000 10,000 10,000
+1,264 1,036 1,000 221-6520045-62101  Postage 500 500 500
+14,635 4,529 10,000 221-6520045-63001  Travel Expense 10,000 10,000 10,000
+170 581 1,000 221-6520045-64001  Advertising 1,000 1,000 1,000
+1,389 - 1,600 221-6520045-67002  Heat/Lights/Water 1,600 1,600 1,600
+4,372 4,512 5,000 221-6520045-67004  Property T
+axes 5,000 5,000 5,000
+1,189 5,790 5,000 221-6520045-68001  Building Repairs 5,000 5,000 5,000
+514 397 500 221-6520045-68301  Copy Machines/Maint 500 500 500
+6,581 450 2,500 221-6520045-68307  Software Lic and Maint Fees 5,000 5,000 5,000
+2,001 3,920 5,000 221-6520045-69101  Assoc Memberships 5,000 5,000 5,000
+1,180 1,157 1,000 221-6520045-69908  Bank Service Charge 1,000 1,000 1,000
+90 - - 221-6520045-69918  Employee Recognition - - -
+310,872 412,640 412,960 Total For Contracted Services 367,756 367,756 367,756
+97,760 99,053 104,549 221-6520045-78001  Trans Out For Building Reserve 104,584 104,584 104,584
+7,203 8,267 11,514 221-6520045-78002  Trans Out For Pr
+operty Insur 12,826 12,826 12,826
+83,200 97,732 122,623 221-6520045-78003  Trans Out For Admin Overhead 117,099 117,099 117,099
+10,300 9,053 9,437 221-6520045-78004  Trans Out For T
+elecomm Equip 13,562 13,562 13,562
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+8,387 9,648 9,000 221-6520045-78005  Trans Out For Motor Pool 10,000 10,000 10,000
+15,990 19,190 14,760 221-6520045-78006  Trans Out For Computer Replace 13,530 13,530 13,530
+-463 - - 221-6520045-78015  Trans Out For Computer Service - - -
+350 356 500 221-6520045-78017  Trans Out For Postage Charges 500 500 500
+17,005 17,005 20,190 221-6520045-78027  Trans Out For Liability Insur 38,092 38,092 38,092
+-2,694 -24,785 - 221-6520045-78044  Trans Out For PEL Reserves - - -
+22,687 25,272 28,588 221-6520045-78046  Trans Out For Network Charges 24,166 24,166 24,166
+43,821 54,402 58,400 221-6520045-78052  Trans Out T
+o HHS - - -
+- - _ - _ _ _
+1,767 1,391 1,620 221-6520045-78054  Trans Out For Telecomm Calls - - -
+15,713 16,448 18,403 221-6520045-78055  Trans Out For Legal Services 18,403 18,403 18,403
+321,025 333,032 399,584 Total For Transfer Outs Reciprocal 352,762 352,762 352,762
+3,366,178 3,262,581 4,046,906 21.0000 Total Expenses Community Justice - State 21.1000 4,134,201 4,134,201 4,134,201
+For Fis
+cal Year Ending June 30, 2027
+Work Crew
+221-6520063 Work Crew:
+Due to the termination of the Chehalem Parks and Recreation Department (CPRD) service contract, this department budget was discontinued in Y25.  Eventually, this budget will
+fall from the whole of Fund 221as no longer applicable.
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+23-24 24-25 25-26 25-26 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+Work Cr
+ew/Community Service
+163,602 - - 221-6520063-34203  Work Release - -
+4,806 - - 221-6520063-34236  Community Service Fee - -
+168,408 - - Total Revenue - -
+8,531 - - - 221-6520063-40134  Division Manager - - -
+107,975 - - - 221-6520063-40325  Community Services Supervisor - - -
+1,608 - - 221-6520063-47500  Longevity Pay - -
+2,906 - - 221-6520063-47750  Out Of Class Pay - -
+1,307 - - 221-6520063-47900  Other Earnings - -
+1,839 - - 221-6520063-49001  Medicare T
+ax - -
+7,861 - - 221-6520063-49100  Social Security - -
+25,441 - - 221-6520063-49210  Retirement - -
+21,555 - - 221-6520063-49310  Medical Insurance - -
+513 - - 221-6520063-49311  Paid Leave Oregon - -
+25 - - 221-6520063-49312  Employee Assistance Program - -
+1,650 - - 221-6520063-49315  VEBA - -
+1,479 - - 221-6520063-49320  Dental Insurance Expense - -
+150 - - 221-6520063-49325  Vision Insurance - -
+340 - - 221-6520063-49331  Short Term Disability - -
+28 - - 221-6520063-49340  Life Insurance - -
+3,771 - - 221-6520063-49400  Accident Insurance - -
+127 - - 221-6520063-49480  Time Loss Reserve - -
+127 - - 221-6520063-49500  Unemployment - -
+22 - - 221-6520063-49600  Workers Comp Assessment - -
+4,913 - - 221-6520063-49900  FET/Vacation/Sick - -
+192,168 - - - Total For Personnel - - -
+203 - - 221-6520063-61101  Audit - -
+5,901 - - 221-6520063-61102  Contract Services - -
+583 - - 221-6520063-62001  Telephone - -
+122 - - 221-6520063-62101  Postage - -
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+23-24 24-25 25-26 25-26 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+6,809 - - Total For Contracted Services - -
+785 - - 221-6520063-78002  Trans Out For Property Insur - -
+8,361 - - 221-6520063-78003  Trans Out For Admin Overhead - -
+10,200 - - 221-6520063-78005  Trans Out For Motor Pool - -
+615 - - 221-6520063-78006  Trans Out For Computer Replace - -
+34 - - 221-6520063-78017  Trans Out For Postage Charges - -
+1,852 - - 221-6520063-78027  Trans Out For Liability Insur - -
+2,268 - - 221-6520063-78044  Trans Out For PEL Reserves - -
+926 - - 221-6520063-78046  Trans Out For Network Charges - -
+1,077 - - 221-6520063-78055  Trans Out For Legal Services - -
+26,117 - - Total For T
+ransfer Outs Reciprocal - -
+225,094 - - - Total Expenses W
+ork Crew/Community Service - - -
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Local Control
+221-6520067 Local Control (State Senate Bill 1145 - Case Management):
+This department supports the total allocated YCDCJ DOC SB 1145 funds dedicated to supporting the entirety of the program including jail operations, case management, and
+transitional planning.  Sheriff Sam Elliott and YCDCJ Director Jessica Beach are designated as the “Local Supervisory Authority” for this population as defined by statute, and as
+ordered by the Board of Commissioners.  This budget is supported by Department of Corrections Grant-In-Aid Community Corrections funding.
+In previous fiscal years, dedicated SB 1145 jail operational funds were transferred from 221-41.  However, this fiscal year and in the future, the SB 1145 jail allocation revenue
+will now be shown in this budget and then transferred directly to the Sheriff's Office Jail Operations and Jail Maintenance budgets.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Local Control
+282,866 311,253 317,700 221-6520067-33467  SB 1145 Grant 744,083 744,083 744,083
+- 481 - 221-6520067-36212  Reimbursement - - -
+282,866 311,734 317,700 Total Revenue 744,083 744,083 744,083
+15,731 34,486 17,017 0.3000 221-6520067-40203  Senior Office Specialist 0.3000 17,020 17,020 17,020
+14,866 3,11
+1 31,087 0.5000 221-6520067-40210  Probation Officer Aide 0.5000 30,802 30,802 30,802
+51,218 52,754 54,372 0.6000 221-6520067-40336  Parole Probation Officer 0.6000 54,372 54,372 54,372
+363 608 1,081 221-6520067-47500  Longevity Pay 1,687 1,687 1,687
+77 396 - 221-6520067-47750  Out Of Class Pay 500 500 500
+362 118 1,000 221-6520067-47900  Other Earnings 500 500 500
+13 - 500 221-6520067-48000  Extra Hours 500 500 500
+527 833 1,000 221-6520067-48100  Overtime 500 500 500
+1,233 1,017 1,000 221-6520067-48400  Beeper Pay 700 700 700
+2,561 2,638 2,719 221-6520067-48500  Certification/Education 3,262 3,262 3,262
+5 764 - 221-6520067-48600  Incentive Pay - - -
+1,255 1,393 1,555 221-6520067-49001  Medicare T
+ax 1,554 1,554 1,554
+5,366 5,957 6,647 221-6520067-49100  Social Security 6,643 6,643 6,643
+19,147 19,603 29,767 221-6520067-49210  Retirement 31,389 31,389 31,389
+24,067 20,691 35,789 221-6520067-49310  Medical Insurance 44,924 44,924 44,924
+354 384 409 221-6520067-49311  Paid Leave Or
+egon 429 429 429
+51 62 39 221-6520067-49312  Employee Assistance Program 45 45 45
+1,846 1,479 2,100 221-6520067-49315  VEBA 2,100 2,100 2,100
+1,652 1,349 1,994 221-6520067-49320  Dental Insurance Expense 2,055 2,055 2,055
+166 132 201 221-6520067-49325  Vision Insurance 191 191 191
+382 301 487 221-6520067-49331  Short Term Disability 487 487 487
+45 36 61 221-6520067-49340  Life Insurance 49 49 49
+1,746 2,096 2,184 221-6520067-49400  Accident Insurance 3,593 3,593 3,593
+86 - - 221-6520067-49480  Time Loss Reserve - - -
+87 97 102 221-6520067-49500  Unemployment 102 102 102
+24 28 50 221-6520067-49600  Workers Comp Assessment 50 50 50
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+459 - 500 221-6520067-49900  FET/Vacation/Sick 1,000 1,000 1,000
+143,688 150,333 191,661 1.4000 Total For Personnel 1.4000 204,454 204,454 204,454
+202 - - 221-6520067-51001  Central Supplies - - -
+- - - 221-6520067-51199  Miscellaneous Supplies - - -
+202 - - Total For Materials & Services - - -
+203 140 154 221-6520067-61101  Audit 150 150 150
+99 - - 221-6520067-61201  Training And Development - - -
+83 254 500 221-6520067-61202  Schools And Conferences 500 500 500
+1,082 452 - 221-6520067-62001  Telephone 100 100 100
+122 74 - 221-6520067-62101  Postage 100 100 100
+212 713 250 221-6520067-63001  Travel Expense 250 250 250
+1,800 1,633 904 Total For Contracted Services 1,100 1,100 1,100
+8,857 7,379 7,534 221-6520067-78001  Trans Out For Building Reserve - - -
+514 1,491 741 221-6520067-78002  Trans Out For Pr
+operty Insur 825 825 825
+8,065 7,778 10,352 221-6520067-78003  Trans Out For Admin Overhead 7,291 7,291 7,291
+396 396 - 221-6520067-78004  Trans Out For Telecomm Equip - - -
+615 615 - 221-6520067-78006  Trans Out For Computer Replace - - -
+- - - 221-6520067-78010  Trans Out T
+o Jail Operations 313,500 313,500 313,500
+34 27 50 221-6520067-78017  Trans Out For Postage Charges 50 50 50
+1,217 3,069 1,303 221-6520067-78027  Trans Out For Liability Insur - - -
+- - - 221-6520067-78045  Trans Out T
+o Jail Maint 209,000 209,000 209,000
+926 972 - 221-6520067-78046  Trans Out For Network Charges - - -
+43,821 54,401 58,400 221-6520067-78052  Trans Out T
+o HHS - - -
+- - _ - _ _ _
+121 104 - 221-6520067-78054  Trans Out For T
+elecomm Calls - - -
+1,077 1,419 - 221-6520067-78055  Trans Out For Legal Services - - -
+65,643 77,650 78,380 Total For T
+ransfer Outs Reciprocal 530,666 530,666 530,666
+211,334 229,617 270,945 1.4000 Total Expenses Local Contr
+ol 1.4000 736,220 736,220 736,220
+FUND 226
+ECONOMIC
+DEVELOPMENT
+For Fis
+cal Year Ending June 30, 2027
+Economic Development
+226-1010034 Economic Development: This Fund is comprised of Video Lottery dollars received from the State of Oregon for economic development activities.
+As stated in ORS 461.547(1), “The Oregon State Lottery Commission shall transfer an amount equal to 2.5 percent of the net receipts from video lottery games allocated to the
+Administrative Services Economic Development Fund to counties for economic development activities. Ninety percent of the money shall be distributed to each county in
+proportion to the gross receipts from video lottery games from each county. Ten percent of the moneys shall be distributed in equal amounts to each county.”
+This revenue is utilized to promote a variety of economic development activities including community projects and internal County, economic development functions. Personnel in
+this Fund consists of an Economic Development Manager that oversees the County’s program and fosters economic development within the community. Other notable expenses
+consist of transfers to several departments that support the local economy as well as community grant programs.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Economic Development
+970,934 1,361,739 1,178,931 226-1010034-30101  Beginning Fund Balance 1,734,383 1,734,383 1,734,383
+201,317 201,317 201,317 226-1010034-30146  Fund Bal Reserve - EDA 201,317 201,317 201,317
+667,116 532,520 475,000 226-1010034-33511  V
+ideo Lottery 485,000 485,000 485,000
+18,943 22,046 15,152 226-1010034-36101  Pool Investment Earnings 16,262 16,262 16,262
+35,470 40,828 28,371 226-1010034-36103  Bond Investment Earnings 30,221 30,221 30,221
+- 467 - 226-1010034-36212  Reimbursement - - -
+1,893,780 2,158,916 1,898,771 Total Revenue 2,467,183 2,467,183 2,467,183
+95,116 102,379 105,518 1.0000 226-1010034-40128  Program Manager 2 1.0000 103,267 103,267 103,267
+- 1,277 14,106 0.1000 226-1010034-40154  Deputy County Administrator 0.2000 28,075 28,075 28,075
+- - 141 226-1010034-47500  Longevity Pay - - -
+785 - - 226-1010034-47900  Other Earnings - - -
+1,381 1,521 1,737 226-1010034-49001  Medicare T
+ax 1,904 1,904 1,904
+5,906 6,504 7,425 226-1010034-49100  Social Security 8,144 8,144 8,144
+9,836 22,278 29,869 226-1010034-49210  Retirement 34,175 34,175 34,175
+19,595 21,317 28,119 226-1010034-49310  Medical Insurance 38,507 38,507 38,507
+388 420 478 226-1010034-49311  Paid Leave Oregon 525 525 525
+25 35 31 226-1010034-49312  Employee Assistance Program 38 38 38
+1,500 1,512 1,650 226-1010034-49315  VEBA 1,800 1,800 1,800
+1,344 1,391 1,567 226-1010034-49320  Dental Insurance Expense 1,762 1,762 1,762
+136 136 157 226-1010034-49325  Vision Insurance 164 164 164
+364 351 383 226-1010034-49331  Short Term Disability 418 418 418
+25 25 48 226-1010034-49340  Life Insurance 50 50 50
+96 106 120 226-1010034-49400  Accident Insurance 131 131 131
+94 - - 226-1010034-49480  Time Loss Reserve - - -
+96 106 120 226-1010034-49500  Unemployment 131 131 131
+20 18 45 226-1010034-49600  Workers Comp Assessment 46 46 46
+- 1,968 - 226-1010034-49900  FET/Vacation/Sick - - -
+136,709 161,343 191,514 1.1000 Total For Personnel 1.2000 219,137 219,137 219,137
+- - 6,500 226-1010034-51001  Central Supplies 4,500 4,500 4,500
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+41 1,017 - 226-1010034-51199  Miscellaneous Supplies - - -
+- - 500 226-1010034-51303  Publications & Dues 500 500 500
+1,500 14,620 15,000 226-1010034-51306  Software 10,000 10,000 10,000
+1,072 211 1,000 226-1010034-54301  Small Equipment Purchases 500 500 500
+2,612 15,847 23,000 Total For Materials & Services 15,500 15,500 15,500
+49,479 32,172 65,000 226-1010034-61001  Professional Services 65,000 65,000 65,000
+- - _ County's Share of Bypass Lobbyist Contract _ _ _
+173 206 227 226-1010034-61101  Audit 319 319 319
+179 285 2,000 226-1010034-61201  Training And Development 1,500 1,500 1,500
+- - - 226-1010034-61202  Schools And Conferences 1,500 1,500 1,500
+301 539 240 226-1010034-62001  Telephone 500 500 500
+2,306 2,208 3,000 226-1010034-63001  Travel Expense 3,000 3,000 3,000
+- - 250 226-1010034-68301  Copy Machines/Maint 250 250 250
+2,170 2,170 2,800 226-1010034-69050  Chamber Memberships 2,800 2,800 2,800
+9,472 8,403 9,500 226-1010034-69101  Assoc Memberships 9,500 9,500 9,500
+64,079 45,984 83,017 Total For Contracted Services 84,369 84,369 84,369
+6,500 6,500 6,500 226-1010034-70027  Grants Awarded - - -
+- - _ - _ _ _
+- 25,000 100,000 226-1010034-72048  Strat Inv Grants 100,000 100,000 100,000
+- 50,000 50,000 226-1010034-72049  Strat Inv Small Grts 50,000 50,000 50,000
+- 50,000 50,000 226-1010034-72050  Strat Inv Startup Grts 50,000 50,000 50,000
+- - 201,317 226-1010034-74002  Revolving Loan 201,317 201,317 201,317
+6,500 131,500 407,817 Total For Other Expenses 401,317 401,317 401,317
+- 2,591 2,739 226-1010034-78001  Trans Out For Building Reserve 4,071 4,071 4,071
+- - - 226-1010034-78002  Trans Out For Pr
+operty Insur 4,397 4,397 4,397
+6,102 5,676 7,937 226-1010034-78003  Trans Out For Admin Overhead 22,214 22,214 22,214
+- 429 - 226-1010034-78004  Trans Out For T
+elecomm Equip 593 593 593
+934 391 - 226-1010034-78006  Trans Out For Computer Replace 615 615 615
+3,100 3,600 5,000 226-1010034-78018  Trans Out For Internal Expense - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- - _ - _ _ _
+- - - 226-1010034-78027  Trans Out For Liability Insur 1,262 1,262 1,262
+- - - 226-1010034-78028  Trans Out For Restaurant Inspections 5,000 5,000 5,000
+20,000 20,000 30,000 226-1010034-78043  Trans Out T
+o/For Dog Control - - -
+- - _ - _ _ _
+- - - 226-1010034-78046  Trans Out For Network Charges - - -
+- 90 - 226-1010034-78054  Trans Out For Telecomm Calls - - -
+688 688 716 226-1010034-78055  Trans Out For Legal Services 716 716 716
+70,000 70,000 70,000 226-1010034-78080  Transfer Out For V
+ideo Lottery 290,000 335,000 335,000
+- - _ $70,000 to Fair, $60,000 to Parks, $30,000 to Marine Patrol, and $130,000 to
+Dog Control. _ _ _
+20,000 20,000 60,000 226-1010034-78081  Trans Out T
+o Parks - - -
+- - _ - _ _ _
+120,824 123,465 176,392 Total For Transfer Outs Reciprocal 328,868 373,868 373,868
+- - 1,017,031 226-1010034-99001  Ending Fund Balance 1,417,992 1,372,992 1,372,992
+- - 1,017,031 Total For Balances 1,417,992 1,372,992 1,372,992
+330,725 478,139 1,898,771 1.1000 Total Expenses Economic Development 1.2000 2,467,183 2,467,183 2,467,183
+FUND 227
+CORNER RESTORATION
+For Fis
+cal Year Ending June 30, 2027
+Corner Restoration
+227-3010037 Corner Restoration: Funds are derived from filing certain instruments in the Clerk's Office and resulting fees are deposited to supplement the Surveyor's activities
+in the preservation and restoration of government survey corners.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Corner Restoration
+224,210 146,514 79,643 227-3010037-30101  Beginning Fund Balance 122,008 122,008 122,008
+46,854 50,839 57,000 227-3010037-34106  Recording Fee 50,000 50,000 50,000
+2,920 1,928 2,335 227-3010037-36101  Pool Investment Earnings 1,422 1,422 1,422
+5,269 3,845 4,215 227-3010037-36103  Bond Investment Earnings 2,846 2,846 2,846
+- 257 - 227-3010037-36212  Reimbursement 50 50 50
+279,253 203,383 143,193 Total Revenue 176,326 176,326 176,326
+27,651 12,822 29,189 0.3000 227-3010037-40015  County Surveyor 0.3000 28,562 28,562 28,562
+- - 34,045 0.5000 227-3010037-40132  Management Analyst - - - -
+35,228 36,875 - - 227-3010037-40318  Engineering Technician 2 - - - -
+- - - - 227-3010037-40319  Engineering Technician 3 0.5000 36,640 36,640 36,640
+930 474 - 227-3010037-47500  Longevity Pay - - -
+3,227 1,617 500 227-3010037-47750  Out Of Class Pay 500 500 500
+716 600 500 227-3010037-47900  Other Earnings 500 500 500
+- - 1,000 227-3010037-48200  Extra Help 1,000 1,000 1,000
+1,021 767 917 227-3010037-49001  Medicare T
+ax 945 945 945
+4,368 3,278 3,921 227-3010037-49100  Social Security 4,043 4,043 4,043
+17,259 9,585 17,490 227-3010037-49210  Retirement 9,138 9,138 9,138
+15,190 13,237 20,451 227-3010037-49310  Medical Insurance 25,671 25,671 25,671
+287 211 253 227-3010037-49311  Paid Leave Or
+egon 261 261 261
+21 30 22 227-3010037-49312  Employee Assistance Program 26 26 26
+1,162 938 1,200 227-3010037-49315  VEBA 1,200 1,200 1,200
+1,042 863 1,139 227-3010037-49320  Dental Insurance Expense 1,174 1,174 1,174
+106 84 115 227-3010037-49325  Vision Insurance 109 109 109
+270 191 278 227-3010037-49331  Short Term Disability 278 278 278
+19 16 35 227-3010037-49340  Life Insurance 27 27 27
+903 579 548 227-3010037-49400  Accident Insurance 66 66 66
+70 - - 227-3010037-49480  Time Loss Reserve - - -
+71 53 63 227-3010037-49500  Unemployment 66 66 66
+14 12 22 227-3010037-49600  Workers Comp Assessment 22 22 22
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+3,199 653 1,000 227-3010037-49900  FET/Vacation/Sick 1,000 1,000 1,000
+112,754 82,884 112,688 0.8000 Total For Personnel 0.8000 111,228 11
+1,228 111,228
+1,711 211 938 227-3010037-51001  Central Supplies 938 938 938
+211 216 300 227-3010037-51116  Printing 300 300 300
+- - 1,000 227-3010037-51303  Publications & Dues 1,000 1,000 1,000
+340 - 500 227-3010037-51306  Software 500 500 500
+- - 1,000 227-3010037-51510  Corner Restoration Supplies 1,000 1,000 1,000
+5,368 798 1,000 227-3010037-54301  Small Equipment Purchases 1,000 1,000 1,000
+7,631 1,225 4,738 Total For Materials & Services 4,738 4,738 4,738
+- - 6,321 227-3010037-61028  Corner Restoration Corrections 6,321 6,321 6,321
+67 83 91 227-3010037-61101  Audit 70 70 70
+- 2,100 2,000 227-3010037-61102  Contract Services 2,000 2,000 2,000
+90 501 400 227-3010037-61103  Janitorial Contract 400 400 400
+255 455 865 227-3010037-61202  Schools And Conferences 865 865 865
+413 764 1,200 227-3010037-62001  Telephone 1,200 1,200 1,200
+- 36 50 227-3010037-62101  Postage 50 50 50
+346 - 500 227-3010037-63001  Travel Expense 500 500 500
+16 - 50 227-3010037-64001  Advertising 50 50 50
+1,037 1,101 630 227-3010037-65201  Building Rent 630 630 630
+784 266 500 227-3010037-68301  Copy Machines/Maint 500 500 500
+- - 200 227-3010037-68302  Department Equipment Maint 200 200 200
+- - 4,000 227-3010037-68307  Software Lic and Maint Fees 4,000 4,000 4,000
+- - 200 227-3010037-69901  Other Expense 200 200 200
+3,008 5,305 17,007 Total For Contracted Services 16,986 16,986 16,986
+748 748 - 227-3010037-78001  Trans Out For Building Reserve 4,000 4,000 4,000
+2,965 3,188 3,844 227-3010037-78003  Trans Out For Admin Overhead 3,228 3,228 3,228
+538 514 - 227-3010037-78004  Trans Out For T
+elecomm Equip 500 500 500
+2,216 2,533 2,000 227-3010037-78005  Trans Out For Motor Pool 2,500 2,500 2,500
+1,053 1,053 1,127 227-3010037-78027  Trans Out For Liability Insur 1,377 1,377 1,377
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1 -14 100 227-3010037-78044  Trans Out For PEL Reserves 400 400 400
+146 154 - 227-3010037-78054  Trans Out For Telecomm Calls - - -
+1,679 1,679 1,689 227-3010037-78055  Trans Out For Legal Services 1,688 1,688 1,688
+9,346 9,855 8,760 Total For T
+ransfer Outs Reciprocal 13,693 13,693 13,693
+- - - 227-3010037-99001  Ending Fund Balance 29,681 29,681 29,681
+- - - Total For Balances 29,681 29,681 29,681
+132,739 99,269 143,193 0.8000 Total Expenses Corner Restoration 0.8000 176,326 176,326 176,326
+FUND 230
+TITLE III
+For Fis
+cal Year Ending June 30, 2027
+Title III
+230-1010053 Title III: This Fund is the Secure Rural Schools Act payments for the Title III "County Projects" category. Whether the County will receive any Title III funds is
+subject to reauthorization of the Secure Rural Schools Act by congress. Funds currently in this Fund are unspent Title III funds from previous fiscal years.  The expenditure of Title
+III funds is subject to federal regulation but can be used to carry out Firewise Communities programs and to reimburse the County for search and rescue operations on federal
+lands. Although appropriated as part of this budget, any proposed expenditure of Title III funds is subject to a public comment process prior to the actual expenditure.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Title III
+73,872 76,793 48,123 230-1010053-30101  Beginning Fund Balance 50,784 50,784 50,784
+- - 10,000 230-1010053-33201  O&C Funds 10,000 10,000 10,000
+- - 10,000 230-1010053-33202  Federal Forest Funds 10,000 10,000 10,000
+1,097 777 877 230-1010053-36101  Pool Investment Earnings 573 573 573
+2,027 1,628 1,622 230-1010053-36103  Bond Investment Earnings 1,205 1,205 1,205
+76,996 79,199 70,622 Total Revenue 72,562 72,562 72,562
+- - - - Total For Personnel - - - -
+- 96 - 230-1010053-64001  Advertising - - -
+- 96 - Total For Contracted Services - - -
+- - 70,617 230-1010053-70027  Grants Awarded 71,867 71,867 71,867
+- - 70,617 Total For Other Expenses 71,867 71,867 71,867
+203 - 5 230-1010053-78003  Trans Out For Admin Overhead 695 695 695
+203 - 5 Total For T
+ransfer Outs Reciprocal 695 695 695
+- 30,000 - 230-1010053-80202  Vehicle & Equipment Replace - - -
+- 30,000 - Total For Capital - - -
+203 30,096 70,622 - Total Expenses T
+itle III - 72,562 72,562 72,562
+FUND 232
+AMERICAN RESCUE
+PLAN ACT
+For Fis
+cal Year Ending June 30, 2027
+American Rescue Plan Act
+232-1010054 American Rescue Plan Act: This special revenue fund was created as part of the 2021-2022 budget.  Yamhill County received a direct allocation from the United
+States Treasury of $20,802,919.  These federal funds were received via two tranches and are part of the American Rescue Plan Act's State and Local Fiscal Recovery Funds
+(SLFRF).  These are one-time revenue funds and any expenditures are subject to the rules and timelines associated to SLFRF.  Unspent funds are kept in an interest bearing LGIP
+account and any earnings are recorded to this special revenue fund.  All SLRF funds were to be obligated by December 31, 2024 and must be spent by December 31, 2026.
+The Yamhill County Board of Commissioners determined and approved how the ARPA funds were spent.  Expenditures were prioritized into the follow categories:  Public Health
+Response (15% or $3.1 Million), Economic Impact (33% or $6.8 Million), Revenue Loss (14% or $2.9 Million), Water and Sewer Infrastructure (33% or $6.8 Million), and
+Broadband Infrastructure (5% or $1 Million).  To date, the County has facilitated multiple grant programs within each category.  The last remaining unspent funds in this account,
+are obligated for remaining ARPA eligible projects that the Board of Commissioners already approved. Interest earnings were used to cover administrative costs for managing the
+funds received, and to supplement grant awards.  It is anticipated that the remaining funds in this special revenue fund will be spent by end of the 2025-2026 budget year, and this
+Special Revenue Fund will be closed out in FY27.
+Yamhill County is required to provide quarterly and annual reports to the US Treasury on the status of expenditures, the types of projects that were funded, and confirm
+compliance with US Treasury guidelines on the use of the funds.  The SLFRF funds were one-time federal funds, and no additional allocations are anticipated.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+American Rescue Plan Act
+3,666,525 1,352,606 152,454 232-1010054-30101  Beginning Fund Balance 3,000 3,000 3,000
+- - _ Balance is comprised of prior years Pool Investment Earnings. _ _ _
+93,800 - - 232-1010054-33208  Local Assistance and Tribal Consistency - - -
+173,511 51,398 - 232-1010054-36101  Pool Investment Earnings - - -
+- 102,453 - 232-1010054-36299  Miscellaneous - Other Revenue - - -
+3,933,836 1,506,458 152,454 Total Revenue 3,000 3,000 3,000
+- - - - Total For Personnel - - - -
+6,352 1,642 - 232-1010054-61101  Audit - - -
+6,352 1,642 - Total For Contracted Services - - -
+50,000 120,280 - 232-1010054-70027  Grants Awarded - - -
+1,921,444 - 102,454 232-1010054-70032  Grants Awarded - Childcar
+e - - -
+165,821 413,768 - 232-1010054-70033  Grants Awarded - Rural Broadband - - -
+2,137,265 534,049 102,454 Total For Other Expenses - - -
+15,327 172,415 - 232-1010054-78003  Trans Out For Admin Overhead - - -
+12,500 28,145 - 232-1010054-78055  Trans Out For Legal Services - - -
+27,827 200,560 - Total For T
+ransfer Outs Reciprocal - - -
+- 100,000 - 232-1010054-78164  Trans Out - Dog Contr
+ol - - -
+409,785 - 50,000 232-1010054-78193  Trans Out Fr
+om ARPA - GF Revenue Replacement 3,000 3,000 3,000
+- - _ Closing out Fund and transferring balance of discretionary funds to general
+fund. _ _ _
+409,785 100,000 50,000 Total For T
+ransfer Outs 3,000 3,000 3,000
+- 514,820 - 232-1010054-80123  Capital Communication Equipmnt - - -
+- 514,820 - Total For Capital - - -
+2,581,230 1,351,071 152,454 - Total Expenses American Rescue Plan Act - 3,000 3,000 3,000
+FUND 233
+OPIOID
+SETTLEMENT FUND
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Opioid Settlement Fund
+233-1010055 Opioid Settlement: This special revenue fund was created as part of the 2023-2024 budget.  These funds are the result of opioid settlements reached with opioid
+manufacturers, distributors, and retailers.  The Oregon Intrastate Allocation Agreement which provides that 55% of Oregon’s recovery will go directly to Counties and Cities with
+a population over 10,000 that elect to receive direct funding. There are multiple settlements associated to these funds and it is anticipated that the County will continue to receive
+payments over the next 15 years.  First allocation was received in 2022.
+These funds must be used for opioid prevention, treatment, and recovery strategies that are listed in the settlement. They may not be used for other purposes.  Examples for how
+these funds may be used include, but are not limited to:  • Expanding access to naloxone, sterile syringes, and other harm reduction supplies  • Increasing medication-assisted
+treatment availability • Providing treatment and recovery support services such as inpatient treatment, outpatient therapy, or recovery housing • Expanding treatment and recovery
+services to pregnant and postpartum individuals • Expanding treatment and recovery services to individuals within and transitioning out of the criminal justice system • Developing
+opioid prevention education and training programs.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Opioid Settlement
+- 789,794 1,449,440 233-1010055-30101  Beginning Fund Balance 2,466,287 2,466,287 2,466,287
+24,980 9,473 19,981 233-1010055-36101  Pool Investment Earnings 6,988 6,988 6,988
+- 10,785 - 233-1010055-36103  Bond Investment Earnings 7,983 7,983 7,983
+603,878 639,140 101,907 233-1010055-36299  Miscellaneous - Other Revenue 400,000 400,000 400,000
+173,212 377,040 - 233-1010055-38080  Trans In From Risk Fund - - -
+802,070 1,826,232 1,571,328 Total Revenue 2,881,258 2,881,258 2,881,258
+- - - - Total For Personnel - - - -
+- 8 - 233-1010055-61101  Audit 1,557 1,557 1,557
+12,276 2,096 15,000 233-1010055-69599  Outside Legal Services 15,000 15,000 15,000
+- - 1,556,034 233-1010055-69901  Other Expense 2,855,457 2,855,457 2,855,457
+12,276 2,104 1,571,034 Total For Contracted Services 2,872,014 2,872,014 2,872,014
+- - 294 233-1010055-78003  Trans Out For Admin Overhead 7,867 7,867 7,867
+- - - 233-1010055-78027  Trans Out For Liability Insur 1,377 1,377 1,377
+- - 294 Total For T
+ransfer Outs Reciprocal 9,244 9,244 9,244
+12,276 2,104 1,571,328 - Total Expenses Opioid Settlement - 2,881,258 2,881,258 2,881,258
+FUND 252
+HABITAT CONSERVATION
+For Fis
+cal Year Ending June 30, 2027
+Habitat Conservation
+252-5010062 Habitat Conservation: This Fund is funded by state-shared revenues from gas tax in an amount set by the US Fish and Wildlife Service and adjusted annually by
+the Consumer Price Index. The purpose of this Fund is to manage the Fenders Blue Butterfly (and the Kincaid Lupines which attract them).
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Habitat Conservation
+16,020 5,057 15,117 252-5010062-30101  Beginning Fund Balance 10,264 10,264 10,264
+10,000 10,000 10,000 252-5010062-30102  Fund Balance Reserved 10,000 10,000 10,000
+47,163 46,516 53,206 252-5010062-33507  State Hwy Funds 35,649 35,649 35,649
+- - _ HCP (12 to 20 years) + Adj for CPI per HCP _ _ _
+366 212 293 252-5010062-36101  Pool Investment Earnings 157 157 157
+695 416 556 252-5010062-36103  Bond Investment Earnings 308 308 308
+- 108 - 252-5010062-36212  Reimbursement - - -
+4,500 4,500 4,500 252-5010062-38052  Trans In Fr
+om O&C Fund 4,500 4,500 4,500
+78,744 66,809 83,672 Total Revenue 60,878 60,878 60,878
+13,126 13,687 14,106 0.1000 252-5010062-40101  Director 0.1000 14,108 14,108 14,108
+8,531 9,216 9,919 0.1000 252-5010062-40134  Division Manager 0.1000 9,808 9,808 9,808
+- - 141 252-5010062-47500  Longevity Pay 141 141 141
+179 - - 252-5010062-47900  Other Earnings 447 447 447
+- - - 252-5010062-48400  Beeper Pay - - -
+53 684 426 252-5010062-48600  Incentive Pay - - -
+339 342 357 252-5010062-49001  Medicare Tax 349 349 349
+1,451 1,462 1,525 252-5010062-49100  Social Security 1,491 1,491 1,491
+5,574 1,974 6,875 252-5010062-49210  Retirement 6,719 6,719 6,719
+3,757 4,230 5,112 252-5010062-49310  Medical Insurance 6,418 6,418 6,418
+95 94 96 252-5010062-49311  Paid Leave Or
+egon 96 96 96
+5 7 6 252-5010062-49312  Employee Assistance Program 6 6 6
+287 300 300 252-5010062-49315  VEBA 300 300 300
+258 276 284 252-5010062-49320  Dental Insurance Expense 294 294 294
+26 27 28 252-5010062-49325  Vision Insurance 28 28 28
+73 70 70 252-5010062-49331  Short Term Disability 70 70 70
+5 5 8 252-5010062-49340  Life Insurance 6 6 6
+200 235 258 252-5010062-49400  Accident Insurance 261 261 261
+23 - - 252-5010062-49480  Time Loss Reserve - - -
+23 24 24 252-5010062-49500  Unemployment 24 24 24
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+4 4 4 252-5010062-49600  Workers Comp Assessment 4 4 4
+1,505 - - 252-5010062-49900  FET/Vacation/Sick - - -
+35,515 32,637 39,539 0.2000 Total For Personnel 0.2000 40,570 40,570 40,570
+23 25 27 252-5010062-61101  Audit 30 30 30
+6,000 6,000 6,413 252-5010062-69901  Other Expense 8,529 8,529 8,529
+- - _ Butterfly Survey _ _ _
+6,023 6,025 6,440 Total For Contracted Services 8,559 8,559 8,559
+1,199 983 1,693 252-5010062-78003  Trans Out For Admin Overhead 1,749 1,749 1,749
+20,951 26,000 26,000 252-5010062-78016  Trans Out For Contract Service - - -
+- - _ - _ _ _
+- - - 252-5010062-78044  Trans Out For PEL Reserves - - -
+22,150 26,983 27,693 Total For T
+ransfer Outs Reciprocal 1,749 1,749 1,749
+- - 10,000 252-5010062-99003  Reserve For Future 10,000 10,000 10,000
+- - 10,000 Total For Balances 10,000 10,000 10,000
+63,688 65,645 83,672 0.2000 Total Expenses Habitat Conservation 0.2000 60,878 60,878 60,878
+FUND 429
+SYSTEMS DEVELOPMENT
+For Fis
+cal Year Ending June 30, 2027
+Non-Departmental - SDCs
+429-1010051 Non-Departmental - SDCs: System Develop Charges (SDCs) are one-time fees collected at the time building permits are paid for at the County Planning
+Department. The purpose of SDCs are to compensate for the impact that new development places upon public infrastructure as they are used to recover the cost of increasing the
+capacity necessitated by growth. Projects eligible for SDCs are identified within the master plan for whichever system they are improving. SDC rates are the outcome of an SDC
+study, where a consultant develops a methodology for calculating the rates based upon a comprehensive study of the system's current and future needs. In Yamhill County, SDCs
+are distributed between the Fair and Parks Department, unless the applied for development is located within the Chehalem Parks and Recreation District.
+1010080-County Fair SDCs: Of the County SDCs collected, sixty percent are allocated to the County Fair. These funds are used for capital projects that expand the capacity of
+the fairgrounds so that it may respond to increased usage generated by new development.
+1010081-Chehalem Parks and Rec - SDCs:  This Fund serves as a passthrough for the Chehalem Parks and Recreation District (CRPD). When an application for new
+development, falling within the jurisdiction of Yamhill County and CRPD is submitted, SDCs are collected at the time of application and subsequently transferred to CRPD for
+increasing capacity within the Park District.
+1010181-County Parks SDCs:  Of the County SDCs collected, forty percent are allocated to County Parks. This revenue is utilized to fund capital projects that accommodate for
+increased park usage.  Examples of SDC eligible projects include the development of new parks, the expansion of existing parks and/or facilities, and the acquisition of land for the
+purposes of adding additional parks and recreational opportunities to the County Park system.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Non-Departmental - SDCs
+10,692 14,797 17,299 429-1010051-30101  Beginning Fund Balance 3,612 3,612 3,612
+1,682 1,958 1,345 429-1010051-36101  Pool Investment Earnings 1,444 1,444 1,444
+3,105 3,671 2,484 429-1010051-36103  Bond Investment Earnings 2,717 2,717 2,717
+15,480 20,425 21,128 Total Revenue 7,773 7,773 7,773
+- - - - Total For Personnel - - - -
+- 58 64 429-1010051-61101  Audit 50 50 50
+- 58 64 Total For Contracted Services 50 50 50
+8 7 8 429-1010051-78003  Trans Out For Admin Overhead 8 8 8
+- - - 429-1010051-78027  Trans Out For Liability Insur 1,262 1,262 1,262
+675 675 681 429-1010051-78055  Trans Out For Legal Services 681 681 681
+683 682 689 Total For T
+ransfer Outs Reciprocal 1,951 1,951 1,951
+- - 20,375 429-1010051-99001  Ending Fund Balance 5,772 5,772 5,772
+- - 20,375 Total For Balances 5,772 5,772 5,772
+683 740 21,128 - Total Expenses Non-Departmental - SDCs - 7,773 7,773 7,773
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Fair SDCs
+34,901 43,041 52,003 429-1010080-30101  Beginning Fund Balance 59,048 59,048 59,048
+8,141 11,057 11,384 429-1010080-34701  Systems Dev Charge 10,500 10,500 10,500
+43,041 54,098 63,387 Total Revenue 69,548 69,548 69,548
+- - - - Total For Personnel - - - -
+- - 63,387 429-1010080-83010  Capital Improvements 69,548 69,548 69,548
+- - 63,387 Total For Capital 69,548 69,548 69,548
+- - 63,387 - Total Expenses County Fair SDCs - 69,548 69,548 69,548
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Chehalem Parks and Rec - SDCs
+80,857 69,086 131,446 429-1010081-34702  Chehalem SDC 138,018 138,018 138,018
+80,857 69,086 131,446 Total Revenue 138,018 138,018 138,018
+- - - - Total For Personnel - - - -
+80,857 69,086 131,446 429-1010081-72016  Chehalem Parks & Recreation 138,018 138,018 138,018
+80,857 69,086 131,446 Total For Other Expenses 138,018 138,018 138,018
+80,857 69,086 131,446 - Total Expenses Chehalem Parks and Rec - SDCs - 138,018 138,018 138,018
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+County Parks SDCs
+72,274 58,876 64,850 429-1010181-30101  Beginning Fund Balance 56,695 56,695 56,695
+5,427 7,371 7,590 429-1010181-34701  Systems Dev Charge 6,800 6,800 6,800
+77,701 66,248 72,440 Total Revenue 63,495 63,495 63,495
+- - - - Total For Personnel - - - -
+18,825 15,277 72,440 429-1010181-83002  Dedicated Park Improvement 63,495 63,495 63,495
+- 18,055 - 429-1010181-83010  Capital Improvements - - -
+18,825 33,332 72,440 Total For Capital 63,495 63,495 63,495
+18,825 33,332 72,440 - Total Expenses County Parks SDCs - 63,495 63,495 63,495
+FUND 440
+CAPITAL IMPROVEMENT
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Capital Fund
+440-Capital Fund: Fund 440 is comprised of several fund divisions that focus upon capital projects and the maintenance of County capital assets. Capital projects consist of new
+construction, major renovations, property acquisition, and substantial equipment purchases that surpass the minimum threshold of $5,000 in value or an estimated useful life
+exceeding one year. In addition to funding capital projects, several fund divisions within Fund 440 also support maintenance related, personnel costs among other operating
+expenses for County owned or occupied facilities.
+440-1020016 Facilities Maintenance: This Fund supports the general upkeep of County facilities, grounds, and equipment as well as minor or moderate building improvements.
+Certain leased properties are also managed through this fund according to the responsibilities outlined within each lease agreement. The revenue for Facilities comes from a
+General Fund allocation and internal, rental and maintenance charges based upon the square footage of the space occupied by a department. Personnel comprises sixty percent of
+expenses within this Fund. Other significant expenses for this Fund include janitorial services, utilities, and monitoring fees for fire/life and safety systems.
+440-1020116 Jail Facilities Maintenance: This Fund is utilized to support the Sheriff's Office in maintaining a safe, secure, and clean environment within the Jail. Revenue
+sources for Jail Facilities Maintenance include an allocation from the General Fund and Community Corrections.
+440-1030015 Clerk Capital: This Fund was used in the past to pay for a capital project in the County Clerk's Office.  The project was completed and the remaining funds in this
+account were transferred to the County Clerk's budget, therefore, this account is no longer active.
+440-1030027 General Capital Improvement: This Fund is primarily used for property acquisitions and major remodels to our existing inventory of buildings. The General Fund
+provides the majority of the revenue for this Fund. The secondary source of revenue for this Fund is generated by an internal charge for rent which is based upon the square footage
+of the space occupied by a department.
+Historically, the focus of this Fund was on facility remodels. This emphasis shifted a few years prior, when the County started to engage in strategic planning to address immediate
+and long-term facility needs. These efforts included a space needs analysis, buildings condition assessment, and a capital project plan that built upon the outcomes of the prior two
+studies to provide an implementable plan that identified objectives and options for their achievement.
+In preparation for addressing the County's facility needs, the development of reserves during prior fiscal years had been a priority for this Fund. At the conclusion of 2024, the
+County successfully negotiated for and purchased two buildings located at 400 NE Baker Street and 347 NE 4th Street in McMinnville, which allows for several departments to
+consolidate into buildings that provide more efficient and functional space and enhances County services. The loan payments for the buildings, as well as needed improvements,
+are paid through this fund.
+This Fund will also be used for future improvements to the Courthouse.  County is working with Oregon Judicial Department to hopefully secure future funding for additional
+courtroom and security improvements.  Planning is underway for courthouse improvements to make use of areas vacated by County offices.
+440-1030041 Jail - Capital: The Jail Capital Reserve Fund is intended to provide a mechanism for the Sheriff’s Office to plan for and implement capital projects related to the Jail
+facility.  Revenues for this program are unspent funds from the previous budget year, Senate Bill 1145 funds, and a General Fund allocation.  Expenses are budgeted for the
+repayment of an interfund loan that paid for a Jail camera replacement project and the remainder is to support any Jail capital project needs.
+440-1030083 Postage Machine: This Fund serves as the postage machine capital replacement fund, working to develop an adequate level of reserves for the eventual replacement
+of the mailroom’s postage machine, which is utilized to support postage needs for Yamhill County Circuit Court and all County Departments. Until the time comes for replacing
+the machine, the funds are budgeted to a Reserve for the Future budgetary line and cannot be spent during the fiscal year in accordance with Oregon Budget Law. When it becomes
+evident that the postage machine will require replacement, the funds will be budgeted in a capital line to make them available for purchasing a replacement.
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+440-1030115 IT Capital: The Information Technology (IT) Capital Fund provides new laptops/desktops/ MDTs (mobile device terminals) for County staff when their existing
+device is at the end of its useful lifecycle. The lifecycles are four years for a laptop and five years for desktops and MDTs. Funding comes from an annual fee charged to
+departments determined by type and number of devices.
+440-1030117 Software Reserve: The purpose of this Fund is to provide funding for major software projects. All revenue received by the Software Reserve Fund is provided by
+the General Fund through an interfund transfer. The amount transferred is dependent upon the cost of the project(s) and, therefore, will fluctuate from year to year.
+440-1030161 Special Capital Projects: The Special Capital Projects Fund is used for budgeting large grant funded capital projects that are not specific to a department. Any
+revenues associated with this fund are provided through state or federal grant awards, General Fund transfers, or unspent funds from the previous fiscal year that are carried over to
+the new fiscal year.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Facilities Maintenance
+-37,504 108 - 440-1020016-30101  Beginning Fund Balance 24,428 24,428 24,428
+24,038 23,338 23,338 440-1020016-36204  Rent 23,805 23,805 23,805
+13,741 23,214 36,000 440-1020016-36212  Reimbursement 33,120 33,120 33,120
+42 196 - 440-1020016-36299  Miscellaneous - Other Revenue - - -
+1,303,748 1,098,592 1,263,921 440-1020016-38014  Trans In For Building Reserve 1,353,324 1,353,324 1,353,324
+461,728 582,506 624,981 440-1020016-38091  Trans In From General Fund 624,981 624,981 624,981
+1,765,793 1,727,954 1,948,240 Total Revenue 2,059,658 2,059,658 2,059,658
+38,145 39,643 61,288 0.9000 440-1020016-40102  Administrative Office Specialist 0.9000 61,292 61,292 61,292
+13,023 295 14,106 0.1000 440-1020016-40154  Deputy County Administrator - - - -
+88,653 52,273 63,311 0.6000 440-1020016-40348  Facilities Maintenance Manager 0.8000 84,430 84,430 84,430
+60,379 62,602 72,587 0.9000 440-1020016-40211  Facilities Maintenance Specialist 0.9000 72,591 72,591 72,591
+64,763 42,901 46,433 1.0000 440-1020016-40343  Facilities Maintenance 1 2.0000 90,082 90,082 90,082
+277,727 270,713 288,107 5.0000 440-1020016-40356  Facilities Maintenance 2 5.0000 293,433 293,433 293,433
+60,522 66,589 71,084 1.0000 440-1020016-40357  Facilities Maintenance 3 - - - -
+6,273 9,405 6,000 440-1020016-47400  Shift Diff - - -
+6,558 6,965 9,339 440-1020016-47500  Longevity Pay 8,888 8,888 8,888
+5,978 6,636 6,000 440-1020016-47750  Out Of Class Pay - - -
+5,850 - - 440-1020016-47900  Other Earnings - - -
+3,571 2,018 3,500 440-1020016-48100  Overtime 3,500 3,500 3,500
+- - - 440-1020016-48200  Extra Help 25,000 25,000 25,000
+9,133 8,753 9,100 440-1020016-48400  Beeper Pay 8,668 8,668 8,668
+9,225 8,169 9,082 440-1020016-49001  Medicare T
+ax 8,857 8,857 8,857
+39,442 34,929 38,827 440-1020016-49100  Social Security 37,864 37,864 37,864
+151,299 124,993 163,178 440-1020016-49210  Retirement 146,419 146,419 146,419
+177,284 185,583 242,849 440-1020016-49310  Medical Insurance 275,965 275,965 275,965
+2,593 2,253 2,467 440-1020016-49311  Paid Leave Or
+egon 2,443 2,443 2,443
+264 327 266 440-1020016-49312  Employee Assistance Program 308 308 308
+11,962 11,61
+1 14,250 440-1020016-49315  VEBA 12,900 12,900 12,900
+10,718 10,668 13,536 440-1020016-49320  Dental Insurance Expense 12,624 12,624 12,624
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+1,082 1,044 1,359 440-1020016-49325  Vision Insurance 1,178 1,178 1,178
+2,701 2,452 3,306 440-1020016-49331  Short Term Disability 2,992 2,992 2,992
+248 220 418 440-1020016-49340  Life Insurance 249 249 249
+13,640 16,702 17,510 440-1020016-49400  Accident Insurance 19,359 19,359 19,359
+636 - - 440-1020016-49480  Time Loss Reserve - - -
+648 573 616 440-1020016-49500  Unemployment 601 601 601
+177 152 216 440-1020016-49600  Workers Comp Assessment 35 35 35
+6,307 4,332 10,500 440-1020016-49900  FET/Vacation/Sick 10,500 10,500 10,500
+1,068,803 972,801 1,169,235 9.5000 Total For Personnel 9.6000 1,180,178 1,180,178 1,180,178
+752 322 750 440-1020016-51001  Central Supplies 750 750 750
+18,530 22,730 25,000 440-1020016-51102  Cleaning Supplies 35,000 35,000 35,000
+28,536 24,914 57,837 440-1020016-51109  Maintenance Supplies 65,000 65,000 65,000
+104 - 100 440-1020016-51303  Publications & Dues 100 100 100
+24 15 - 440-1020016-51306  Software - - -
+495 132 1,200 440-1020016-54301  Small Equipment Purchases 2,084 2,084 2,084
+48,441 48,113 84,887 Total For Materials & Services 102,934 102,934 102,934
+32,540 34,212 46,500 440-1020016-60103  Contractor Services 60,000 60,000 60,000
+1,050 1,163 1,280 440-1020016-61101  Audit 1,208 1,208 1,208
+36,636 55,441 36,000 440-1020016-61102  Contract Services 62,717 62,717 62,717
+322,216 318,987 350,000 440-1020016-61103  Janitorial Contract 375,000 375,000 375,000
+50 150 5,000 440-1020016-61201  Training And Development 5,000 5,000 5,000
+4,082 4,370 4,100 440-1020016-62001  Telephone 4,100 4,100 4,100
+- 16 200 440-1020016-62101  Postage 200 200 200
+40 - 50 440-1020016-63001  Travel Expense 50 50 50
+- - 200 440-1020016-64001  Advertising 200 200 200
+5,198 - - 440-1020016-65201  Building Rent - - -
+18,278 19,131 18,000 440-1020016-67001  Sanitary Service 20,000 20,000 20,000
+206,903 222,675 205,430 440-1020016-67002  Heat/Lights/Water 215,000 215,000 215,000
+3,399 7,450 10,000 440-1020016-68002  Equipment Repairs 15,000 15,000 15,000
+- 29 - 440-1020016-69101  Assoc Memberships - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+716 150 - 440-1020016-69901  Other Expense - - -
+631,108 663,773 676,760 Total For Contracted Services 758,475 758,475 758,475
+1,164 1,164 1,164 440-1020016-78004  Trans Out For T
+elecomm Equip 1,547 1,547 1,547
+12,845 14,624 13,000 440-1020016-78005  Trans Out For Motor Pool 13,500 13,500 13,500
+3,195 2,858 3,024 440-1020016-78006  Trans Out For Computer Replace 3,024 3,024 3,024
+131 191 170 440-1020016-78054  Trans Out For T
+elecomm Calls - - -
+17,334 18,837 17,358 Total For Transfer Outs Reciprocal 18,071 18,071 18,071
+1,765,686 1,703,525 1,948,240 9.5000 Total Expenses Facilities Maintenance 9.6000 2,059,658 2,059,658 2,059,658
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Jail Facilities Maintenance
+143 276 14,053 440-1020116-30101  Beginning Fund Balance 48,750 48,750 48,750
+- 1,081 - 440-1020116-36212  Reimbursement - - -
+272,380 262,919 219,181 440-1020116-38063  T
+rans In From Community Justice - - -
+- - - 440-1020116-38064  Trans In For Jail Maintenance 209,000 209,000 209,000
+399,835 417,827 467,362 440-1020116-38091  Trans In From General Fund 467,362 467,362 467,362
+672,358 682,103 700,596 Total Revenue 725,112 725,112 725,112
+25,430 20,239 6,810 0.1000 440-1020116-40102  Administrative Office Specialist 0.1000 6,810 6,810 6,810
+9,850 20,056 10,552 0.1000 440-1020116-40348  Facilities Maintenance Manager 0.1000 10,554 10,554 10,554
+15,095 15,650 8,065 0.1000 440-1020116-4021
+1  Facilities Maintenance Specialist 0.1000 8,066 8,066 8,066
+33,331 - - - 440-1020116-40343  Facilities Maintenance 1 - - - -
+69,987 114,805 121,671 2.0000 440-1020116-40356  Facilities Maintenance 2 2.0000 124,559 124,559 124,559
+63,658 68,722 71,084 1.0000 440-1020116-40357  Facilities Maintenance 3 1.0000 71,100 71,100 71,100
+894 1,545 2,302 440-1020116-47500  Longevity Pay - - -
+2,102 - - 440-1020116-47900  Other Earnings - - -
+2,024 994 3,500 440-1020116-48100  Overtime 3,500 3,500 3,500
+- - - 440-1020116-48200  Extra Help 10,000 10,000 10,000
+2,567 3,643 3,900 440-1020116-48400  Beeper Pay 1,800 1,800 1,800
+3,232 3,537 3,198 440-1020116-49001  Medicar
+e Tax 3,206 3,206 3,206
+13,820 15,122 13,490 440-1020116-49100  Social Security 13,707 13,707 13,707
+42,454 54,055 55,536 440-1020116-49210  Retir
+ement 55,672 55,672 55,672
+72,503 78,250 84,357 440-1020116-49310  Medical Insurance 105,894 105,894 105,894
+909 976 872 440-1020116-4931
+1  Paid Leave Oregon 883 883 883
+93 129 93 440-1020116-49312  Employee Assistance Pr
+ogram 105 105 105
+5,549 5,550 4,950 440-1020116-49315  VEBA 4,950 4,950 4,950
+4,974 5,104 4,701 440-1020116-49320  Dental Insurance Expense 4,845 4,845 4,845
+505 500 471 440-1020116-49325  V
+ision Insurance 453 453 453
+1,028 1,072 1,149 440-1020116-49331  Short T
+erm Disability 1,149 1,149 1,149
+93 93 144 440-1020116-49340  Life Insurance 96 96 96
+4,490 7,090 7,447 440-1020116-49400  Accident Insurance - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+221 - - 440-1020116-49480  T
+ime Loss Reserve - - -
+225 247 218 440-1020116-49500  Unemployment 221 221 221
+71 65 12 440-1020116-49600  W
+orkers Comp Assessment 12 12 12
+371 848 1,000 440-1020116-49900  FET/V
+acation/Sick 1,000 1,000 1,000
+375,476 418,291 405,522 3.3000 Total For Personnel 3.3000 428,582 428,582 428,582
+58 77 185 440-1020116-51001  Central Supplies 185 185 185
+32,045 32,847 30,000 440-1020116-51102  Cleaning Supplies 30,000 30,000 30,000
+46,693 37,440 30,000 440-1020116-51109  Maintenance Supplies 30,000 30,000 30,000
+78,796 70,364 60,185 Total For Materials & Services 60,185 60,185 60,185
+367 413 454 440-1020116-61101  Audit 459 459 459
+4,162 7,931 5,000 440-1020116-61102  Contract Services 9,958 9,958 9,958
+- 100 4,400 440-1020116-61201  T
+raining And Development - - -
+1,063 869 1,000 440-1020116-62001  T
+elephone 1,000 1,000 1,000
+24,924 23,759 25,000 440-1020116-67001  Sanitary Service 25,000 25,000 25,000
+186,481 182,067 186,716 440-1020116-67002  Heat/Lights/W
+ater 186,716 186,716 186,716
+813 1,088 8,000 440-1020116-68002  Equipment Repairs 8,000 8,000 8,000
+217,810 216,227 230,570 Total For Contracted Services 231,133 231,133 231,133
+- 615 393 440-1020116-78006  T
+rans Out For Computer Replace 393 393 393
+- - 3,926 440-1020116-78027  T
+rans Out For Liability Insur 4,819 4,819 4,819
+- 615 4,319 Total For T
+ransfer Outs Reciprocal 5,212 5,212 5,212
+672,081 705,497 700,596 3.3000 Total Expenses Jail Facilities Maintenance 3.3000 725,112 725,112 725,112
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+FY24 FY25 FY26 FY26 FY27 FY27 FY27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+Clerk Capital
+- - - - Total For Personnel - - -
+- - - - Total Expenses Clerk Capital - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+General Capital Improvement
+2,594,026 3,530,346 1,107,306 440-1030027-30101  Beginning Fund Balance 1,221,712 1,221,712 1,221,712
+1,000,000 - 1,674,903 440-1030027-30102  Fund Balance Reserved 200,000 200,000 200,000
+121,341 89,588 97,056 440-1030027-36101  Pool Investment Earnings 66,084 66,084 66,084
+222,252 182,574 177,766 440-1030027-36103  Bond Investment Earnings 135,142 135,142 135,142
+- 33,391 - 440-1030027-36105  Lease Interest Revenue - - -
+- - - 440-1030027-36202  Rental/Sale Equip/Prop - - -
+- 274,156 370,470 440-1030027-36204  Rent 257,100 257,100 257,100
+- 5,877 - 440-1030027-36212  Reimbursement - - -
+384,881 517,599 462,034 440-1030027-38014  Trans In For Building Reserve 539,832 539,832 539,832
+- - 500,000 440-1030027-38070  Trans In From HHS - - -
+- - 800,000 440-1030027-38091  Trans In From General Fund 700,000 700,000 700,000
+- 15,000,000 - 440-1030027-39104  Loan Proceeds - - -
+4,322,500 19,633,531 5,189,535 Total Revenue 3,119,870 3,119,870 3,119,870
+- 6,189 - - 440-1030027-40102  Administrative Office Specialist - - - -
+- - 91,713 1.0000 440-1030027-40128  Program Manager 2 1.0000 99,102 99,102 99,102
+- - - - 440-1030027-40153  County Administrator 0.1000 19,426 19,426 19,426
+26,045 591 35,266 0.2500 440-1030027-40154  Deputy County Administrator - - - -
+- 30,051 31,656 0.3000 440-1030027-40348  Facilities Maintenance Manager 0.1000 10,554 10,554 10,554
+- 1,025 1,303 440-1030027-47500  Longevity Pay 803 803 803
+211 - - 440-1030027-47900  Other Earnings - - -
+389 562 2,319 440-1030027-49001  Medicare T
+ax 1,884 1,884 1,884
+1,664 2,405 8,905 440-1030027-49100  Social Security 6,743 6,743 6,743
+5,624 10,261 41,534 440-1030027-49210  Retirement 9,232 9,232 9,232
+3,919 8,459 39,623 440-1030027-49310  Medical Insurance 38,507 38,507 38,507
+109 155 635 440-1030027-49311  Paid Leave Or
+egon 519 519 519
+5 22 43 440-1030027-49312  Employee Assistance Program 38 38 38
+300 600 2,325 440-1030027-49315  VEBA 1,800 1,800 1,800
+269 552 2,208 440-1030027-49320  Dental Insurance Expense 1,762 1,762 1,762
+27 54 222 440-1030027-49325  Vision Insurance 165 165 165
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+73 135 539 440-1030027-49331  Short Term Disability 418 418 418
+5 10 68 440-1030027-49340  Life Insurance 35 35 35
+28 1,014 1,241 440-1030027-49400  Accident Insurance 502 502 502
+27 - - 440-1030027-49480  Time Loss Reserve - - -
+27 39 159 440-1030027-49500  Unemployment 129 129 129
+4 7 14 440-1030027-49600  Workers Comp Assessment 23 23 23
+715 1,216 2,000 440-1030027-49900  FET/Vacation/Sick 2,000 2,000 2,000
+39,443 63,347 261,773 1.5500 Total For Personnel 1.2000 193,642 193,642 193,642
+- - - 440-1030027-51001  Central Supplies 500 500 500
+- - - 440-1030027-51199  Miscellaneous Supplies 500 500 500
+42 - - 440-1030027-51303  Publications & Dues 600 600 600
+48 30 - 440-1030027-51306  Software 1,500 1,500 1,500
+- - - 440-1030027-54202  Safety Equipment - - -
+- - - 440-1030027-54301  Small Equipment Purchases 1,000 1,000 1,000
+90 30 - Total For Materials & Services 4,100 4,100 4,100
+- 117,868 200,000 440-1030027-61001  Professional Services 150,000 150,000 150,000
+458 627 781 440-1030027-61101  Audit 12,049 12,049 12,049
+119,959 93,739 100,000 440-1030027-61102  Contract Services 120,000 120,000 120,000
+- 25,866 - 440-1030027-61103  Janitorial Contract 2,000 2,000 2,000
+- - - 440-1030027-62001  Telephone 240 240 240
+- 4,176 - 440-1030027-67001  Sanitary Service - - -
+- 47,833 - 440-1030027-67002  Heat/Lights/Water - - -
+- - - 440-1030027-67004  Property T
+axes 23,000 23,000 23,000
+187 58 - 440-1030027-69101  Assoc Memberships - - -
+- - - 440-1030027-69513  Permits/Licenses - - -
+120,604 290,167 300,781 Total For Contracted Services 307,289 307,289 307,289
+- 98,250 - 440-1030027-70040  Debt Issuance Costs - - -
+- 98,250 - Total For Other Expenses - - -
+49,609 25,536 19,176 440-1030027-78003  Trans Out For Admin Overhead 29,240 29,240 29,240
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+- 310 - 440-1030027-78004  Trans Out For T
+elecomm Equip 354 354 354
+- 2,270 - 440-1030027-78006  Trans Out For Computer Replace 615 615 615
+11,434 11,434 8,316 440-1030027-78027  Trans Out For Liability Insur 12,162 12,162 12,162
+- - - 440-1030027-78054  Trans Out For T
+elecomm Calls - - -
+4,728 4,728 4,822 440-1030027-78055  Trans Out For Legal Services 4,822 4,822 4,822
+65,771 44,278 32,314 Total For Transfer Outs Reciprocal 47,193 47,193 47,193
+- 359,993 736,350 440-1030027-79500  Loan Interest Pymnt 712,051 712,051 712,051
+- - 495,000 440-1030027-79600  Loan Principal Payment 520,000 520,000 520,000
+- - _ Year 2 of 20 Loan for new Government Services Building _ _ _
+145,165 147,195 125,070 440-1030027-79700  Interfund Loan Principal Payment 103,968 103,968 103,968
+- - _ Year 10 of 10 to retire state loan and final payof
+f December 2026. _ _ _
+7,644 5,613 2,577 440-1030027-79800  Interfund Loan Interest Payment 910 910 910
+152,808 512,802 1,358,997 Total For Debt Service 1,336,929 1,336,929 1,336,929
+206,400 - - 440-1030027-80010  Finance Software Purchase - - -
+- 2,222,457 - 440-1030027-81001  Land Acquisition - - -
+- 14,501,131 - 440-1030027-81002  Building Purchase - - -
+207,038 226,583 3,035,670 440-1030027-82001  Miscellaneous Building Remodel 1,230,717 1,230,717 1,230,717
+- - - 440-1030027-82101  Capital Professional Services - - -
+413,438 16,950,171 3,035,670 Total For Capital 1,230,717 1,230,717 1,230,717
+- - 200,000 440-1030027-99003  Reserve For Future - - -
+- - 200,000 Total For Balances - - -
+792,154 17,959,045 5,189,535 1.5500 Total Expenses General Capital Impr
+ovement 1.2000 3,119,870 3,119,870 3,119,870
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Jail - Capital
+292,321 236,523 192,047 440-1030041-30101  Beginning Fund Balance 179,417 179,417 179,417
+- - - 440-1030041-34202  Room and Board 150,000 150,000 150,000
+51,779 25,000 - 440-1030041-38063  Trans In Fr
+om Community Justice - - -
+- - 56,000 440-1030041-38080  Trans In From Risk Fund - - -
+- - _ - _ _ _
+98,000 98,000 98,000 440-1030041-38091  Trans In From General Fund 98,000 98,000 98,000
+442,100 359,523 346,047 Total Revenue 427,417 427,417 427,417
+- - - - Total For Personnel - - - -
+- 201 - 440-1030041-51110  Department Supplies - - -
+- 190 - 440-1030041-54301  Small Equipment Purchases - - -
+- 391 - Total For Materials & Services - - -
+1,956 - 10,000 440-1030041-61001  Professional Services 10,000 10,000 10,000
+- 132 2,414 440-1030041-61101  Audit 80 80 80
+1,956 132 12,414 Total For Contracted Services 10,080 10,080 10,080
+47,729 48,803 49,902 440-1030041-79700  Interfund Loan Principal Payment 51,024 51,024 51,024
+- - _ Year 7 of 10 for Jail Security Cameras Project.  Final Payof
+f January 2030. _ _ _
+8,044 6,970 5,874 440-1030041-79800  Interfund Loan Interest Payment 4,752 4,752 4,752
+55,773 55,773 55,776 Total For Debt Service 55,776 55,776 55,776
+109,634 17,875 116,000 440-1030041-80080  Capital Department Equipment 20,000 20,000 20,000
+- - _ - _ _ _
+38,213 56,003 161,857 440-1030041-82001  Miscellaneous Building Remodel 341,561 341,561 341,561
+147,847 73,878 277,857 Total For Capital 361,561 361,561 361,561
+205,577 130,174 346,047 - Total Expenses Jail - Capital - 427,417 427,417 427,417
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Postage Machine
+35,000 35,000 35,000 440-1030083-30101  Beginning Fund Balance 35,000 35,000 35,000
+35,000 35,000 35,000 Total Revenue 35,000 35,000 35,000
+- - - - Total For Personnel - - - -
+- - 35,000 440-1030083-80080  Capital Department Equipment 35,000 35,000 35,000
+- - _ Postage machine replacement. _ _ _
+- - 35,000 Total For Capital 35,000 35,000 35,000
+- - 35,000 - Total Expenses Postage Machine - 35,000 35,000 35,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+IT Capital
+1,078,903 1,009,198 1,041,529 440-1030115-30101  Beginning Fund Balance 1,033,103 1,033,103 1,033,103
+215 - - 440-1030115-34699  Miscellaneous - Recycling - - -
+502,141 595,311 469,607 440-1030115-38021  T
+rans In For Computer Replace 454,384 454,384 454,384
+31,213 - - 440-1030115-38024  Trans In For Computer Service - - -
+1,612,472 1,604,509 1,511,136 Total Revenue 1,487,487 1,487,487 1,487,487
+- - - - Total For Personnel - - - -
+- 1,263 - 440-1030115-51
+199  Miscellaneous Supplies - - -
+259,569 174,929 343,000 440-1030115-54301  Small Equipment Purchases 332,600 332,600 332,600
+60,920 58,916 61,100 440-1030115-54302  MDT Equipment 61,100 61,100 61,100
+368 - - 440-1030115-54303  Computer Replacement - - -
+320,857 235,107 404,100 Total For Materials & Services 393,700 393,700 393,700
+173 396 436 440-1030115-61101  Audit 299 299 299
+13,314 - - 440-1030115-61
+102  Contract Services - - -
+13,487 396 436 Total For Contracted Services 299 299 299
+223,074 205,637 188,920 440-1030115-78015  T
+rans Out For Computer Service 681,020 681,020 681,020
+223,074 205,637 188,920 Total For T
+ransfer Outs Reciprocal 681,020 681,020 681,020
+45,857 - 17,146 440-1030115-80010  Finance Softwar
+e Purchase - - -
+45,857 - 17,146 Total For Capital - - -
+- - 900,534 440-1030115-99029  Reserve For Futur
+e Capital Exp 412,468 412,468 412,468
+- - 900,534 Total For Balances 412,468 412,468 412,468
+603,274 441,140 1,511,136 - Total Expenses IT Capital - 1,487,487 1,487,487 1,487,487
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+23-24 24-25 25-26 25-26 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+Software Reserve
+200,128 17,146 17,146 440-1030117-30101  Beginning Fund Balance - -
+200,128 17,146 17,146 Total Revenue - -
+- - - - Total For Personnel - - -
+930 - - 440-1030117-61101  Audit - -
+- - 17,146 440-1030117-61102  Contract Services - -
+930 - 17,146 Total For Contracted Services - -
+182,051 - - 440-1030117-80010  Finance Software Purchase - -
+182,051 - - Total For Capital - -
+182,981 - 17,146 - Total Expenses Softwar
+e Reserve - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Special Capital Projects
+2,635,286 2,631,151 - 440-1030161-30101  Beginning Fund Balance 317,688 317,688 317,688
+120,889 3,411 150,000 440-1030161-33499  Other State Grants 150,000 150,000 150,000
+- - _ Placeholder for potential future grants. _ _ _
+3,116 3,209 - 440-1030161-36204  Rent - - -
+2,759,290 2,637,770 150,000 Total Revenue 467,688 467,688 467,688
+- - - - Total For Personnel - - - -
+- - - 440-1030161-51001  Central Supplies - - -
+- - - Total For Materials & Services - - -
+690 83 - 440-1030161-61101  Audit - - -
+127,450 - 150,000 440-1030161-69913  Other State Grants Expense 150,000 150,000 150,000
+- - _ Placeholder for possible future grants. _ _ _
+128,140 83 150,000 Total For Contracted Services 150,000 150,000 150,000
+- - - 440-1030161-78018  Trans Out For Internal Expense 229,177 229,177 229,177
+- - - 440-1030161-78076  Trans Out To General Fund 88,511 88,511 88,511
+- - - Total For T
+ransfer Outs Reciprocal 317,688 317,688 317,688
+- 2,320,000 - 440-1030161-81102  Capital Contractor Services - - -
+- 2,320,000 - Total For Capital - - -
+128,140 2,320,083 150,000 - Total Expenses Special Capital Projects - 467,688 467,688 467,688
+FUND 441
+BICYCLE/FOOTPATH
+For Fis
+cal Year Ending June 30, 2027
+Bicycle and Footpath
+441-5010030 Bicycle and Footpath: The Bicycle/Pedestrian Path Fund’s revenue is 1% of the gas tax/weight-mile fees and is constitutionally guaranteed for use in building
+bicycle/pedestrian paths in the public right-of-way.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Bicycle and Footpath
+440,077 548,030 548,030 441-5010030-30101  Beginning Fund Balance 782,657 782,657 782,657
+90,466 98,827 98,203 441-5010030-33507  State Hwy Funds 96,521 96,521 96,521
+- - _ 1% of total SHF _ _ _
+7,039 9,039 5,630 441-5010030-36101  Pool Investment Earnings 6,668 6,668 6,668
+13,138 16,526 10,508 441-5010030-36103  Bond Investment Earnings 12,232 12,232 12,232
+550,720 672,421 662,371 Total Revenue 898,078 898,078 898,078
+- - - - Total For Personnel - - - -
+63 56 65 441-5010030-78003  Trans Out For Admin Overhead 63 63 63
+1,451 1,451 1,554 441-5010030-78027  Trans Out For Liability Insur 2,065 2,065 2,065
+1,176 1,176 1,182 441-5010030-78055  Trans Out For Legal Services 1,182 1,182 1,182
+2,690 2,683 2,801 Total For T
+ransfer Outs Reciprocal 3,310 3,310 3,310
+- - 659,570 441-5010030-95001  Contingency 894,768 894,768 894,768
+- - _ Year 7 of 10 for Bike Projects _ _ _
+- - 659,570 Total For Contingency 894,768 894,768 894,768
+2,690 2,683 662,371 - Total Expenses Bicycle and Footpath - 898,078 898,078 898,078
+FUND 645
+MOTOR VEHICLE
+RESERVE
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+Pool Motor Vehicle
+645-5015129 Pool Motor Vehicle: This is funded by vehicle charges paid by fleet users, which are accumulated to replace vehicles as needed.  This Fund also carries the self-
+insurance monies for the fleet.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Pool Motor Vehicle
+1,749,599 1,702,199 1,261,461 645-5015129-30101  Beginning Fund Balance 866,818 866,818 866,818
+331,538 364,696 384,248 645-5015129-30103  Fund Bal Reserve - Fuel Island 407,816 407,816 407,816
+358,257 271,633 376,060 645-5015129-30141  Fund Bal Reserve - Insurance 20,105 20,105 20,105
+39,423 41,107 43,000 645-5015129-30168  Fund Bal Reserve - Graders 157,848 157,848 157,848
+33,464 32,713 26,766 645-5015129-36101  Pool Investment Earnings 24,130 24,130 24,130
+59,553 61,015 47,633 645-5015129-36103  Bond Investment Earnings 45,164 45,164 45,164
+69,948 84,358 20,000 645-5015129-36202  Rental/Sale Equip/Prop 50,000 50,000 50,000
+36,870 8,139 - 645-5015129-36212  Reimbursement 1,000 1,000 1,000
+948,007 1,002,441 438,576 645-5015129-38011  Trans In For Vehicle Maint 613,547 613,547 613,547
+74,506 75,486 76,483 645-5015129-38019  Trans In For Interfd Loan Pri 77,496 77,496 77,496
+- - _ Year 10 of 10 final payof
+f Dec 2026 used to retire state loan, split with Fund
+138; Year 7 of 10 payoff Jan 2030 for jail security cameras, split with Fund 217 _ _ _
+5,818 4,838 3,843 645-5015129-38020  Trans In For Interfd Loan Int 2,831 2,831 2,831
+18,213 21,903 18,209 645-5015129-38043  Trans In For Fuel Island Reserve 21,358 21,358 21,358
+42,845 41,161 43,703 645-5015129-38044  Trans In For Collision Insur 51,258 51,258 51,258
+- - 115,000 645-5015129-38051  Trans In For PW Pr
+oject Reserv - - -
+4,500 - - 645-5015129-38070  Trans In Fr
+om HHS - - -
+3,772,541 3,711,688 2,854,982 Total Revenue 2,339,371 2,339,371 2,339,371
+- - - - Total For Personnel - - - -
+3,364 1,015 1,500 645-5015129-51599  Misc Licences/Permits/Fees 1,500 1,500 1,500
+3,364 1,015 1,500 Total For Materials & Services 1,500 1,500 1,500
+29,474 79,843 50,000 645-5015129-61010  Collision Property Damage 50,000 50,000 50,000
+653 908 998 645-5015129-61101  Audit 1,028 1,028 1,028
+- - - 645-5015129-65002  Vehicle Lease - - -
+30,126 80,750 50,998 Total For Contracted Services 51,028 51,028 51,028
+9,406 67,797 100,000 645-5015129-78005  Trans Out For Motor Pool 107,500 107,500 107,500
+4,500 - 7,500 645-5015129-78008  Trans Out For Collision Insur - - -
+671 671 678 645-5015129-78055  Trans Out For Legal Services 678 678 678
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+14,577 68,468 108,178 Total For T
+ransfer Outs Reciprocal 108,178 108,178 108,178
+1,201,344 1,323,679 1,433,739 645-5015129-80202  Vehicle & Equipment Replace 1,101,490 1,101,490 1,101,490
+143,496 72,229 310,000 645-5015129-80204  Self-Insured V
+ehicle Replacement 100,000 100,000 100,000
+- 12,822 - 645-5015129-83010  Capital Improvements 145,000 145,000 145,000
+1,344,840 1,408,729 1,743,739 Total For Capital 1,346,490 1,346,490 1,346,490
+- - 145,000 645-5015129-95001  Contingency - - -
+- - 145,000 Total For Contingency - - -
+- - 402,567 645-5015129-99005  Reserve - Fuel Island 429,175 429,175 429,175
+- - 158,000 645-5015129-99027  Reserve - Grader 158,000 158,000 158,000
+- - 245,000 645-5015129-99028  Reserve Vehicles/Equip 245,000 245,000 245,000
+- - 805,567 Total For Balances 832,175 832,175 832,175
+1,392,907 1,558,963 2,854,982 - Total Expenses Pool Motor V
+ehicle - 2,339,371 2,339,371 2,339,371
+FUND 648
+TELECOMMUNICATIONS
+For Fis
+cal Year Ending June 30, 2027
+Telecommunications
+648-1025014 Telecommunications: IT provides phone services for all County departments, the City of McMinnville and YCOM (Yamhill Communications Agency). Funding is
+supported through extension costs. We are currently evaluating new phone systems that are more cost-effective and offer enhanced features.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Telecommunications
+617,983 513,625 237,551 648-1025014-30101  Beginning Fund Balance 193,216 193,216 193,216
+7,756 4,264 6,204 648-1025014-36101  Pool Investment Earnings 3,146 3,146 3,146
+14,231 8,843 11,382 648-1025014-36103  Bond Investment Earnings 6,546 6,546 6,546
+- 1,029 - 648-1025014-36212  Reimbursement - - -
+106,779 98,841 92,530 648-1025014-36230  Telephone Revenue 18,127 18,127 18,127
+327,759 327,394 330,759 648-1025014-38025  Trans In For Telecomm Serv 373,747 373,747 373,747
+1,074,507 953,996 678,426 Total Revenue 594,782 594,782 594,782
+- 34,073 31,220 0.2500 648-1025014-40324  Senior Network Administrator 0.2500 31,241 31,241 31,241
+35,033 36,369 12,495 0.1000 648-1025014-40350  Sr System Administrator 0.0500 6,248 6,248 6,248
+37,242 38,707 13,298 0.1000 648-1025014-40353  Information Systems Manager 0.0200 2,660 2,660 2,660
+26,006 27,493 47,228 0.5000 648-1025014-40363  Sr Desktop Support Specialist 0.5000 47,465 47,465 47,465
+29,999 31,040 16,130 0.2000 648-1025014-40364  Office Coordinator/Helpdesk 0.2000 16,132 16,132 16,132
+31,362 711 - - 648-1025014-40367  Network Administrator - - - -
+45,568 49,190 8,736 0.1000 648-1025014-40375  Desktop Support Specialist 0.0500 4,370 4,370 4,370
+886 1,271 758 648-1025014-47500  Longevity Pay 1,123 1,123 1,123
+1,212 1,512 1,600 648-1025014-47750  Out Of Class Pay 1,300 1,300 1,300
+2,295 - 3,000 648-1025014-47900  Other Earnings - - -
+10 - - 648-1025014-48000  Extra Hours - - -
+1,116 1,042 1,500 648-1025014-48100  Overtime 500 500 500
+3,365 3,809 3,000 648-1025014-48400  Beeper Pay 2,400 2,400 2,400
+3,095 3,275 1,903 648-1025014-49001  Medicare T
+ax 1,603 1,603 1,603
+13,236 14,003 8,133 648-1025014-49100  Social Security 6,853 6,853 6,853
+45,898 48,242 32,713 648-1025014-49210  Retirement 27,568 27,568 27,568
+43,368 47,750 31,953 648-1025014-49310  Medical Insurance 34,744 34,744 34,744
+871 903 515 648-1025014-49311  Paid Leave Or
+egon 442 442 442
+56 79 29 648-1025014-49312  Employee Assistance Program 35 35 35
+2,847 2,848 1,875 648-1025014-49315  VEBA 1,230 1,230 1,230
+2,149 1,823 1,778 648-1025014-49320  Dental Insurance Expense 1,570 1,570 1,570
+258 256 178 648-1025014-49325  Vision Insurance 113 113 113
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+786 763 436 648-1025014-49331  Short Term Disability 372 372 372
+55 55 53 648-1025014-49340  Life Insurance 30 30 30
+226 230 129 648-1025014-49400  Accident Insurance 110 110 110
+213 - - 648-1025014-49480  Time Loss Reserve - - -
+217 230 129 648-1025014-49500  Unemployment 108 108 108
+42 40 - 648-1025014-49600  Workers Comp Assessment 25 25 25
+3,209 4,850 2,000 648-1025014-49900  FET/Vacation/Sick 1,800 1,800 1,800
+330,621 350,568 220,789 1.2500 Total For Personnel 1.0700 190,042 190,042 190,042
+- - 250 648-1025014-51001  Central Supplies 100 100 100
+10,586 8,484 20,000 648-1025014-54301  Small Equipment Purchases 21,594 21,594 21,594
+4,631 - - 648-1025014-54303  Computer Replacement - - -
+15,217 8,484 20,250 Total For Materials & Services 21,694 21,694 21,694
+- 1,176 - 648-1025014-61001  Professional Services 22,120 22,120 22,120
+330 363 399 648-1025014-61101  Audit 469 469 469
+121,851 129,087 140,000 648-1025014-62001  Telephone 60,400 60,400 60,400
+48,394 110,834 119,686 648-1025014-68307  Software Lic and Maint Fees 261,385 261,385 261,385
+170,575 241,460 260,085 Total For Contracted Services 344,374 344,374 344,374
+3,564 3,564 3,767 648-1025014-78001  Trans Out For Building Reserve 7,901 7,901 7,901
+11,671 14,643 15,270 648-1025014-78003  Trans Out For Admin Overhead 18,771 18,771 18,771
+22,031 80,520 1,264 648-1025014-78006  Trans Out For Computer Replace - - -
+2,389 2,068 - 648-1025014-78044  Trans Out For PEL Reserves - - -
+39,655 100,795 20,301 Total For T
+ransfer Outs Reciprocal 26,672 26,672 26,672
+4,815 - 157,001 648-1025014-80123  Capital Communication Equipmnt 12,000 12,000 12,000
+4,815 - 157,001 Total For Capital 12,000 12,000 12,000
+560,882 701,307 678,426 1.2500 Total Expenses T
+elecommunications 1.0700 594,782 594,782 594,782
+FUND 680
+INSURANCE RESERVE
+For Fis
+cal Year Ending June 30, 2027
+Risk Administration
+680-1035038 Risk Administration: Fund 680 is the Insurance Reserve Fund. This budgetary fund holds money in reserve to allow the County to participate in insurance programs
+that reduce overall premium costs, pay premiums, and cover deductibles as required. The reserves in this Fund protect departments from cost "spikes" that occur when insurance
+costs rise due to changes in economic climate and claims experience.
+The Risk Administration portion of Fund 680 is for the administration of the Fund and includes the personnel costs for the County's risk management team. The risk management
+team includes a portion of the Deputy County Administrator and a portion of the Human Resources Director positions, as well as a full-time Assistant HR Manager/Risk Manager.
+The Deputy County Administrator manages insurance renewals and monitors Fund 680. HR works directly with departments to manage risk, implement risk policies, and advise
+on best practices. The remaining expenses in this portion of the Fund 680 assists with the risk management team's daily operations.
+680-1035088 Dental Self-Insurance: This portion of Fund 680 is for the County self-insured dental plan that is part of the base coverage for eligible Yamhill County employees.
+This Fund pays for administration of the insurance program and covers the costs of claims.  Revenues for this fund are department transfers.  Determination of a department's
+transfer amount is based on anticipated plan enrollments (budgeted FTE) and the employer's share of contributions, which is subject to the collective bargaining agreements.  The
+amounts budgeted in expense lines are determined by the plan administrator's contract and claims experience/trends.
+680-1035092 Contingency: This is the Contingency Fund for Fund 680. The County budgets this contingency fund for any unanticipated emergency insurance and risk reserve
+operational needs. If these funds are needed during the fiscal year to cover the costs associated with an unanticipated insurance or risk reserve need, these funds would be
+transferred to the appropriate expense line in Fund 680. Any contingency transfers would be by resolution and limited to 15% of the original appropriations for Fund 680. If more
+than 15% of the original appropriations for Fund 680 is needed, the County would be required to adopt a supplemental budget. Any unspent contingency funds would be carried
+over to the next fiscal year.
+680-1035094 Fund Balance: This portion of Fund 680 includes the anticipated beginning fund balance for most of the Fund. These are the unspent funds from the previous fiscal
+year and added to projected revenues to develop and determine Fund 680's annual budget.  Most of these cost savings are directly due to unspent contingencies, limited claims
+experience, conservative spending practices, higher than anticipated revenues, and any budgeted Reserve for the Future lines that carried forward from the previous year. The funds
+associated to this fund balance is a mix of restricted and discretionary funds, as all the revenues in Fund 680 were the result of transfers from departments in previous years.  This
+beginning balance does not include the Retirement Reserve, which is tracked separately.
+680-1035133 PEL: This portion of Fund 680 is for the Personal Extended Leave (PEL) liabilities.  When the County moved from a vacation and sick leave program to Flexible
+Earned Time (FET) program, which is a combined vacation/sick leave PTO program, all accrued sick leave banks were moved to PEL accounts.  Over the years, there are fewer
+and fewer employees who are still with the County when this change happened; however, per County policy and collective bargaining agreements, all FET accrued in excess of the
+maximum accrual limits shall be placed in an employee's PEL account.  The use of PEL is limited to illness and injury in excess of five (5) consecutive workdays.  PEL has no
+cash value except for a one-time option to sell back leave once per fiscal year or to cash out up to 880 hours at retirement.  There are only a limited number of employees with PEL
+account balances.  This Fund ensures sufficient funds are available to reimburse PEL-eligible departments when employees cash out PEL.
+680-1035134 Property Insurance: This portion of Fund 680 is what is budgeted for the County Property Insurance program. Revenues for this Fund are via interdepartmental
+charges and transfers. The County obtains property insurance through City County Insurance Services (CIS). This account includes funding for annual premiums, self-insurance
+coverage for any claims less than the deductibles, and to assist departments with any deductibles for claims submitted to CIS. Property coverage includes County office buildings,
+courthouse, parks, fairgrounds, radio tower sites, and mobile equipment. Premium costs continue to increase each year, which is the result of factors such as insurance market
+conditions, a spillover effect from natural disasters experienced on the national level, increases in the cost of material which impacts replacement value, and new additions to the
+property schedule. The Deputy County Administrator and the County's Risk Manager oversee property insurance renewals and claims.
+Yamhill County Revenue and
+ Expense Worksheet
+For Fi
+scal Year Ending June 30, 2027
+680-1035135 Retirement Reserve: This portion of Fund 680 is the Retirement Reserve account. Revenues for this Fund are the beginning balance and interfund loan payments.
+This reserve fund was created as part of the 2011-2012 budget year. The primary purpose for this reserve account is to protect departments and offset any significant and
+unanticipated cost increases associated to PERS. The County ceased making annual allocations of general funds to this account and instead has been allocating those funds directly
+to departments to offset escalating personnel costs. This account has been used for interfund loans for capital projects and those departments are repaying these loans. All the funds
+in this account are in a Reserve for the Future budgetary line, which means these funds cannot be spent during the fiscal year.
+680-1035136 Time Loss: This portion of Fund 680 is what is budgeted for the Time Loss Reserve program. Revenues for this Fund are via interdepartmental charges to
+departments. These funds were available to departments to offset any incurred costs associated to having to hire temporary positions to assist with coverage for employees who are
+not able to work due to a work-related injury.  Due to lack of past utilization and as a cost savings to departments, for the 2024-2025 budget year, the county is no longer
+transferring funds into this account and the balance of unspent funds have been moved to other portions of this insurance reserve fund.
+680-1035137 Workers’ Compensation: This portion of Fund 680 is what is budgeted for the Workers' Compensation program. Revenues for this Fund are via interdepartmental
+charges and transfers. Charges to departments are based on each department's personnel costs and worker compensation classifications for positions. The County provides workers'
+compensation insurance coverage through SAIF. This account includes expenses for annual premiums, non-disabling claims reimbursement program, and services and equipment
+for claim mitigation strategies, return to work, and ergonomics. The Deputy County Administrator and the County's Risk Manager oversee workers' compensation insurance
+renewals and claims management.
+680-1035138 General Liability: This portion of Fund 680 is what is budgeted for the County's General Liability Insurance program. Revenues for this fund are via
+interdepartmental charges and transfers based on an internal formula. The County obtains General Liability Insurance through City County Insurance Services (CIS), but this is
+also supplemented with excess cyber coverage, environmental coverage, and bonds through other outside vendors. This account includes funding for annual premiums, funds to
+cover deductibles for any claims, funds for outside legal services, and some self-insurance coverage for smaller claims. The Deputy County Administrator and the County's Risk
+Manager oversee and work with a broker on insurance renewals and claims, with support from County legal counsel.  Renewals are always a challenge due to current market
+conditions and claims experience.  This fund provides general liability coverage for all County services and departments.
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Risk Administration
+70,086 63,800 56,059 680-1035038-36101  Pool Investment Earnings 47,061 47,061 47,061
+131,120 116,599 104,875 680-1035038-36103  Bond Investment Earnings 86,307 86,307 86,307
+30,954 27,725 - 680-1035038-36212  Reimbursement - - -
+15,354 16,860 - 680-1035038-36299  Miscellaneous - Other Revenue - - -
+247,514 224,984 160,934 Total Revenue 133,368 133,368 133,368
+88,185 91,654 - - 680-1035038-40130  Senior Management Analyst - - - -
+- - 28,941 0.5000 680-1035038-40132  Management Analyst 0.5000 34,844 34,844 34,844
+52,201 58,743 62,474 0.5000 680-1035038-40143  Personnel Officer Risk Manager 0.5000 62,481 62,481 62,481
+- - 98,068 1.0000 680-1035038-40145  Assistant HR Manager 1.0000 106,923 106,923 106,923
+26,045 67,547 35,266 0.2500 680-1035038-40154  Deputy County Administrator 0.3000 42,112 42,112 42,112
+742 1,329 353 680-1035038-47500  Longevity Pay 2,229 2,229 2,229
+- - - 680-1035038-47750  Out Of Class Pay - - -
+27,666 - 1,800 680-1035038-47900  Other Earnings - - -
+2,848 3,212 3,264 680-1035038-49001  Medicare T
+ax 3,605 3,605 3,605
+12,176 13,733 13,955 680-1035038-49100  Social Security 14,543 14,543 14,543
+41,755 46,969 57,601 680-1035038-49210  Retirement 64,125 64,125 64,125
+32,785 42,365 57,518 680-1035038-49310  Medical Insurance 74,623 74,623 74,623
+799 886 899 680-1035038-49311  Paid Leave Or
+egon 993 993 993
+44 62 63 680-1035038-49312  Employee Assistance Program 74 74 74
+1,800 2,250 3,375 680-1035038-49315  VEBA 2,700 2,700 2,700
+2,285 2,759 3,205 680-1035038-49320  Dental Insurance Expense 3,376 3,376 3,376
+164 203 323 680-1035038-49325  Vision Insurance 246 246 246
+619 696 783 680-1035038-49331  Short Term Disability 800 800 800
+234 50 99 680-1035038-49340  Life Insurance 66 66 66
+341 224 322 680-1035038-49400  Accident Insurance 268 268 268
+196 - - 680-1035038-49480  Time Loss Reserve - - -
+179 224 224 680-1035038-49500  Unemployment 246 246 246
+31 35 34 680-1035038-49600  Workers Comp Assessment 53 53 53
+4,334 4,501 5,000 680-1035038-49900  FET/Vacation/Sick 5,000 5,000 5,000
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+295,428 337,441 373,567 2.2500 Total For Personnel 2.3000 419,307 419,307 419,307
+- 13 - 680-1035038-51001  Central Supplies 1,000 1,000 1,000
+- 4,088 - 680-1035038-51109  Maintenance Supplies - - -
+- 887 200 680-1035038-51303  Publications & Dues 200 200 200
+168 105 - 680-1035038-51306  Software - - -
+- 101 1,500 680-1035038-54301  Small Equipment Purchases 1,500 1,500 1,500
+168 5,194 1,700 Total For Materials & Services 2,700 2,700 2,700
+51,543 512 10,000 680-1035038-61001  Professional Services 10,000 10,000 10,000
+975 883 1,500 680-1035038-61009  Benefit Program Expenses 1,500 1,500 1,500
+1,417 2,195 2,414 680-1035038-61101  Audit 2,206 2,206 2,206
+981 1,157 1,000 680-1035038-61102  Contract Services 1,000 1,000 1,000
+1,124 401 1,500 680-1035038-61201  Training And Development 1,500 1,500 1,500
+- 585 - 680-1035038-62001  Telephone 600 600 600
+- 92 500 680-1035038-63001  Travel Expense 500 500 500
+860 58 500 680-1035038-69101  Assoc Memberships 1,000 1,000 1,000
+2 24,202 - 680-1035038-69901  Other Expense - - -
+- - - 680-1035038-69918  Employee Recognition - - -
+56,902 30,085 17,414 Total For Contracted Services 18,306 18,306 18,306
+- - - 680-1035038-78001  Trans Out For Building Reserve 13,488 13,488 13,488
+17,751 7,651 10,310 680-1035038-78003  Trans Out For Admin Overhead 10,798 10,798 10,798
+- 768 - 680-1035038-78004  Trans Out For T
+elecomm Equip 2,482 2,482 2,482
+1,088 311 - 680-1035038-78006  Trans Out For Computer Replace 615 615 615
+- 38 - 680-1035038-78054  Trans Out For T
+elecomm Calls - - -
+18,839 8,768 10,310 Total For T
+ransfer Outs Reciprocal 27,383 27,383 27,383
+371,337 381,487 402,991 2.2500 Total Expenses Risk Administration 2.3000 467,696 467,696 467,696
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Dental Self-Insurance
+72,903 73,930 78,045 680-1035088-34648  Dental Insurance 79,500 79,500 79,500
+557,810 577,465 811,815 680-1035088-38040  Trans In For Dental Insurance 799,326 800,794 800,794
+630,713 651,394 889,860 Total Revenue 878,826 880,294 880,294
+58,233 58,585 64,597 680-1035088-49321  Dental Insurance Admin Fee 64,597 64,597 64,597
+58,233 58,585 64,597 - Total For Personnel - 64,597 64,597 64,597
+558,673 570,028 751,088 680-1035088-61013  Dental Insurance Claims 596,937 598,405 598,405
+558,673 570,028 751,088 Total For Contracted Services 596,937 598,405 598,405
+616,906 628,613 815,685 - Total Expenses Dental Self-Insurance - 661,534 663,002 663,002
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+23-24 24-25 25-26 25-26 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+Contingency - Ins
+- - - - Total For Personnel - - -
+- - 250,000 680-1035092-95001  Contingency - -
+- - 250,000 Total For Contingency - -
+- - 250,000 - Total Expenses Contingency - Ins - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Curr
+ent Budgeted Requested Pr
+oposed Appr
+oved Adopted
+Budget FTE FTE Budget Budget Budget
+Fund Balance
+2,490,975 2,256,345 2,420,636 680-1035094-30101  Beginning Fund Balance 1,095,937 1,095,937 1,095,937
+2,490,975 2,256,345 2,420,636 T
+otal Revenue 1,095,937 1,095,937 1,095,937
+- - - - Total For Personnel - - - -
+- - 56,000 680-1035094-78163  Trans Out - Capital Projects - - -
+- - _ - _ _ _
+173,212 377,040 - 680-1035094-78179  T
+rans Out - Risk - Other Departments - - -
+173,212 377,040 56,000 T
+otal For Transfer Outs - - -
+- - 620,959 680-1035094-99003  Reserve For Future - - -
+- - 620,959 Total For Balances - - -
+173,212 377,040 676,959 - T
+otal Expenses Fund Balance - - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Curr
+ent Budgeted Requested Pr
+oposed Appr
+oved Adopted
+Budget FTE FTE Budget Budget Budget
+PEL
+433,906 503,764 553,964 680-1035133-30101  Beginning Fund Balance 504,307 504,307 504,307
+69,858 45,542 18,150 680-1035133-38035  T
+rans In For Pel Reserves 19,900 19,900 19,900
+503,764 549,307 572,1
+14 T
+otal Revenue 524,207 524,207 524,207
+- - - - T
+otal For Personnel - - - -
+- - 572,114 680-1035133-61019  PEL Reserves 524,207 524,207 524,207
+- - 572,1
+14 T
+otal For Contracted Services 524,207 524,207 524,207
+- - 572,114 - Total Expenses PEL - 524,207 524,207 524,207
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Curr
+ent Budgeted Requested Pr
+oposed Appr
+oved Adopted
+Budget FTE FTE Budget Budget Budget
+Pr
+operty Insurance
+17,184 29,849 - 680-1035134-36212  Reimbursement - - -
+5,000 17,826 - 680-1035134-36299  Miscellaneous - Other Revenue - - -
+273,852 314,294 394,776 680-1035134-38045  T
+rans In For Property Insur 439,732 439,732 439,732
+296,036 361,970 394,776 Total Revenue 439,732 439,732 439,732
+- - - - T
+otal For Personnel - - - -
+8,955 9,224 15,000 680-1035134-61001  Pr
+ofessional Services 5,000 5,000 5,000
+217,408 289,922 330,280 680-1035134-6101
+1  Building Property Damage Insurance 374,732 374,732 374,732
+65,852 55,190 35,000 680-1035134-61014  Miscellaneous Claims 60,000 60,000 60,000
+292,215 354,335 380,280 Total For Contracted Services 439,732 439,732 439,732
+292,215 354,335 380,280 - T
+otal Expenses Property Insurance - 439,732 439,732 439,732
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Retirement
+2,362,947 2,401,880 2,440,812 680-1035135-30101  Beginning Fund Balance 2,444,888 2,444,888 2,444,888
+43,881 45,025 22,006 680-1035135-38019  Trans In For Interfd Loan Pri - - -
+- - _ - _ _ _
+4,052 2,908 765 680-1035135-38020  Trans In For Interfd Loan Int - - -
+2,410,880 2,449,813 2,463,583 Total Revenue 2,444,888 2,444,888 2,444,888
+- - - - Total For Personnel - - - -
+- 755 10,000 680-1035135-69901  Other Expense 10,000 10,000 10,000
+- - _ - _ _ _
+- 755 10,000 Total For Contracted Services 10,000 10,000 10,000
+- - - 680-1035135-78013  Trans Out For PERS Accounting 18,000 18,000 18,000
+9,000 9,000 18,000 680-1035135-78016  Trans Out For Contract Service - - -
+- - _ - _ _ _
+9,000 9,000 18,000 Total For T
+ransfer Outs Reciprocal 18,000 18,000 18,000
+- - 2,435,583 680-1035135-99003  Reserve For Future 2,416,888 2,416,888 2,416,888
+- - 2,435,583 Total For Balances 2,416,888 2,416,888 2,416,888
+9,000 9,755 2,463,583 - Total Expenses Retirement - 2,444,888 2,444,888 2,444,888
+Proposed Budget For Fiscal Year Ending June 30, 2027
+10 20
+23-24 24-25 25-26 25-26 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Initial Proposed
+Budget FTE FTE Budget Budget
+Time Loss
+48,871 - - 680-1035136-38050  Trans In For Time Loss Reserve - -
+48,871 - - Total Revenue - -
+- - - - Total For Personnel - - -
+- - - - Total Expenses Time Loss - - -
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+Workers' Compensation
+1,950 3,323 14,174 680-1035137-34643  Workers Comp Insurance 16,273 16,273 16,273
+83,997 46,634 - 680-1035137-36212  Reimbursement - - -
+551,557 698,048 806,359 680-1035137-38033  Trans In For W
+orkers Comp Ins 832,746 843,558 843,558
+637,504 748,005 820,533 Total Revenue 849,019 859,831 859,831
+- - - - Total For Personnel - - - -
+- 320 5,000 680-1035137-54301  Small Equipment Purchases 5,000 5,000 5,000
+- 320 5,000 Total For Materials & Services 5,000 5,000 5,000
+17,801 13,836 15,000 680-1035137-61001  Professional Services 15,000 15,000 15,000
+- 12,472 25,000 680-1035137-61006  W/C Nondisabling Claim Reimb 25,000 25,000 25,000
+392,600 447,181 537,395 680-1035137-61008  Workers Comp Insurance Expense 627,304 638,116 638,116
+410,401 473,489 577,395 Total For Contracted Services 667,304 678,116 678,116
+45,273 45,273 47,083 680-1035137-78055  Trans Out For Legal Services 47,083 47,083 47,083
+45,273 45,273 47,083 Total For T
+ransfer Outs Reciprocal 47,083 47,083 47,083
+455,674 519,081 629,478 - Total Expenses W
+orkers' Compensation - 719,387 730,199 730,199
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Current Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+General Liability
+76,714 3,075 - 680-1035138-36212  Reimbursement - - -
+- 14,102 - 680-1035138-38033  Trans In For W
+orkers Comp Ins - - -
+908,853 908,853 970,343 680-1035138-38041  Trans In For Liability Insur 1,147,345 1,147,345 1,147,345
+985,567 926,030 970,343 Total Revenue 1,147,345 1,147,345 1,147,345
+- - - - Total For Personnel - - - -
+184,827 212,874 350,000 680-1035138-61001  Professional Services 150,000 150,000 150,000
+622,172 666,338 799,605 680-1035138-61007  Liability Insurance 879,345 879,345 879,345
+156,770 98,119 1,300,000 680-1035138-61014  Miscellaneous Claims 1,100,000 1,100,000 1,100,000
+2,958 3,662 5,000 680-1035138-66002  Elected & Employee Bonds 3,500 3,500 3,500
+159,490 152,615 - 680-1035138-69901  Other Expense 75,949 75,949 75,949
+1,126,218 1,133,608 2,454,605 Total For Contracted Services 2,208,794 2,208,794 2,208,794
+45,273 45,272 47,084 680-1035138-78055  Trans Out For Legal Services 47,084 47,084 47,084
+45,273 45,272 47,084 Total For T
+ransfer Outs Reciprocal 47,084 47,084 47,084
+1,171,491 1,178,880 2,501,689 - Total Expenses General Liability - 2,255,878 2,255,878 2,255,878
+BUDGET
+SUMMARIES
+Yamhill County Revenue and Expense W
+orksheet
+Proposed Budget For Fiscal Y
+ear Ending June 30, 2027
+20 30 40
+23-24 24-25 25-26 25-26 26-27 26-27 26-27 26-27
+Actual Actual Adopted Budgeted Requested Proposed Approved Adopted
+Budget FTE FTE Budget Budget Budget
+18,910,017 TOTAL FOR BALANCES 30,073,808 29,457,436 29,349,620
+8,193,821 30,550,436 15,820,222 TOT
+AL FOR CAPITAL 14,623,538 14,638,605 14,638,605
+46,989,453 46,870,814 64,892,808 TOTAL FOR MATERIALS & SERVICES 63,993,555 63,747,106 63,854,922
+78,337,271 81,102,557 101,842,939 699.74 TOT
+AL FOR PERSONNEL 680.28 103,183,537 103,688,571 103,688,571
+200,549,515 241,553,854 201,465,986 TOT
+AL REVENUE 211,874,438 211,531,718 211,531,718
+133,520,545 158,523,807 201,465,986 699.74 GRAND TOTAL BUDGET EXPENDITURES 680.28 211,874,438 211,531,718 211,531,718
+200,549,515 241,553,854 201,465,986 GRAND TOTAL BUDGET REVENUE 211,874,438 211,531,718 211,531,718
+FY27 Yamhill County Budget Teams Summaries
+23-24 24-25 25-26 26-27 23-24 24-25 25-26 26-27
+ACTUAL ACTUAL ADOPTED APPROVED ACTUAL ACTUAL ADOPTED APPROVED
+185.10 PERSONNEL COUNT 187.45 370.69 PERSONNEL COUNT 351.78
+25,656,695 25,553,195 30,265,487 PERSONNEL 31,675,424 36,798,500 39,193,858 51,538,258 PERSONNEL 51,285,652
+7,153,556 8,079,404 10,613,060 MATERIALS & SERVICES 11,121,821 13,282,371 13,210,415 19,191,826 MATERIALS & SERVICES 16,893,643
+196,201 667,375 1,357,107 CAPITAL 837,869 655,834 1,802,643 1,700,395 CAPITAL 7,184,538
+178,162 214,232 164,624 TRANSFERS - - - 8,815,335 ENDING BALANCE 21,461,999
+55,773 55,773 55,776 DEBT SERVICE 55,776 50,736,705 54,206,915 81,245,814 96,825,832
+- - 2,503,768 ENDING BALANCE 1,122,469
+33,240,388 34,569,979 44,959,822 44,813,359
+23-24 24-25 25-26 26-27 23-24 24-25 25-26 26-27
+ACTUAL ACTUAL ADOPTED APPROVED ACTUAL ACTUAL ADOPTED APPROVED
+70.20 PERSONNEL COUNT 69.40 35.55 PERSONNEL COUNT 35.35
+8,313,459 8,580,870 10,076,633 PERSONNEL 10,430,550 3,704,938 3,731,422 4,552,337 PERSONNEL 4,704,535
+4,076,369 3,886,414 4,424,466 MATERIALS & SERVICES 5,548,511 4,372,099 4,240,087 3,722,706 MATERIALS & SERVICES 4,018,016
+276,737 2,341,533 517,392 CAPITAL 233,151 5,520,342 6,278,434 5,139,689 CAPITAL 4,707,068
+- - 1,112,329 ENDING BALANCE 590,395 - - 1,098,320 CONTINGENCY 1,188,518
+12,666,565 14,808,817 16,130,820 16,802,607 655,260 655,260 655,259 DEBT SERVICE 655,260
+- - 815,567 ENDING BALANCE 1,042,175
+14,252,639 14,905,202 15,983,878 16,315,572
+23-24 24-25 25-26 26-27 23-24 24-25 25-26 26-27
+ACTUAL ACTUAL ADOPTED APPROVED ACTUAL ACTUAL ADOPTED APPROVED
+20.65 PERSONNEL COUNT 18.95 8.25 PERSONNEL COUNT 8.25
+2,529,476 2,383,428 3,248,865 PERSONNEL 3,315,801 485,149 625,651 709,353 PERSONNEL 758,988
+1,199,167 1,042,151 2,119,021 MATERIALS & SERVICES 1,997,854 1,020,366 996,041 1,205,817 MATERIALS & SERVICES 1,313,959
+- 650,000 - CAPITAL - 244,801 258,410 346,949 CAPITAL 397,758
+89,000 89,000 89,000 TRANSFERS 89,000 - - 22,375 ENDING BALANCE 7,772
+- - 88,226 ENDING BALANCE 63,190 1,750,315 1,880,102 2,284,494 2,478,477
+3,817,642 4,164,580 5,545,112 5,465,845
+23-24 24-25 25-26 26-27 23-24 24-25 25-26 26-27
+ACTUAL ACTUAL ADOPTED APPROVED ACTUAL ACTUAL ADOPTED APPROVED
+4.40 PERSONNEL COUNT 4.40 4.90 PERSONNEL COUNT 4.70
+319,242 413,416 560,555 PERSONNEL 620,938 529,813 620,716 891,451 PERSONNEL 896,683
+4,470,204 4,965,117 5,440,197 MATERIALS & SERVICES 4,540,944 6,293,663 5,450,216 10,492,106 MATERIALS & SERVICES 11,191,058
+845,692 243,403 4,188,020 CAPITAL 12,504 454,215 18,308,638 2,570,670 CAPITAL 1,265,717
+- - 30,448 ENDING BALANCE 67,188 3,990,654 3,473,902 4,011,633 TRANSFERS 3,903,633
+5,635,138 5,621,936 10,219,220 5,241,574 - - 250,000 CONTINGENCY -
+152,808 512,802 1,358,997 DEBT SERVICE 1,336,929
+- - 5,521,969 ENDING BALANCE 4,994,432
+11,421,154 28,366,274 25,096,826 23,588,452
+2023-24 2024-25 2025-26 2026-27
+ACTUAL ACTUAL ADOPTED APPROVED
+33,240,388 34,569,979 44,959,822 CRIMINAL JUSTICE 44,813,359
+50,736,705 54,206,915 81,245,814 HEALTH&HUMAN SERVICES 96,825,832
+12,666,565 14,808,817 16,130,820 GENERAL GOVERNMENT 16,802,607
+14,252,639 14,905,202 15,983,878 PUBLIC WORKS 16,315,572
+3,817,642 4,164,580 5,545,112 LAND USE 5,465,845
+1,750,315 1,880,102 2,284,494 CULTURE & RECREATION 2,478,477
+5,635,138 5,621,936 10,219,220 COMMUNITY SERVICES 5,241,574
+11,421,154 28,366,274 25,096,826 INTERNAL SERVICES 23,588,452
+133,520,545 158,523,807 201,465,986
+****GRAND TOTALS**** 211,531,718
+699.74 PERSONNEL COUNT 680.28
+BUDGET SUMMARY - COMMUNITY SERVICES BUDGET SUMMARY - INTERNAL SERVICES
+BUDGET SUMMARY - ALL PROGRAMS
+BUDGET SUMMARY - CRIMINAL JUSTICE BUDGET SUMMARY - HEALTH & HUMAN SERVICES
+BUDGET SUMMARY - GENERAL GOVERNMENT BUDGET SUMMARY - PUBLIC WORKS
+BUDGET SUMMARY - LAND USE BUDGET SUMMARY - CULTURE & RECREATION
+Criminal Justice; 44,813,359; 21%
+HHS; 96,825,832; 46%
+Gen Govt; 16,802,607;
+8%
+Public Works;
+16,315,572; 8%
+Culture & Rec; 2,478,477; 1%
+Land Use;
+5,465,845; 3%
+Community Services;
+5,241,574; 2%
+Internal Services;
+23,588,452; 11%
+BUDGET BY PROGRAM
+Balances; 68,525,919 ; 32%
+Taxes; 32,004,881 ; 15%
+Licenses & Permits; 1,862,019 ; 1%
+Intergovernmental;
+40,284,385 ; 19%
+Fees & Charges; 45,435,296 ; 22%
+Fines & Forfeitures; 515,069 ;
+0%
+Interest; 2,114,305 ; 1%
+Misc.; 2,816,079 ; 1%
+Internal Charges; 17,973,765;
+9%
+REVENUE CATEGORIES
+Criminal  Justice,
+25,037,735, 70.5%
+Health & Human Services,
+1,633,667, 4.6%
+General Government,
+5,923,889, 16.7%
+Culture & Recreation,
+417,350, 1.2%
+Land Use, 114,894, 0.3%
+Community Services,
+547,387, 1.5%
+Internal Services,
+1,848,171, 5.2%
+DISCRETIONARY (GENERAL FUND)
+Personnel, 103,688,571 ,
+49.02%
+Materials & Services,
+56,522,317 , 26.72%
+Transfers, 3,992,633 , 1.89%
+Contingencies, 1,188,518 ,
+0.56%
+Debt Service, 2,047,965 ,
+0.97%
+Capital, 14,638,605 , 6.92%
+Reserves, 29,349,620 ,
+13.87%
+Other, 103,489 , 0.05%
+EXPENSE CATEGORIES
+LB-50 FORM
+FORM OR-LB-50
+Check here if this is
+. Be sure to read instructions in the Notice of Property Tax Levy Forms and Instruction booklet an amended form.
+The has the responsibility and authority to place the following property tax, fee, charge or assessment
+on the tax roll of County.  The property tax, fee, charge or assessment is categorized as stated by this form.
+97128
+State ZIP code
+Contact Person Contact Person E-Mail
+CERTIFICATION - You must check one box if your district is subject to Local Budget Law.
+X The tax rate or levy amounts certified in Part I are within the tax rate or levy amounts approved by the budget committee.
+The tax rate or levy amounts certified in Part I were changed by the governing body and republished as required in ORS 294.456.
+PART I:  TAXES TO BE IMPOSED
+1. Rate per $1,000 or Total dollar amount levied (within permanent rate limit) . . . 1
+2. Local option operating tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3. Local option capital project tax . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . 3
+4. City of Portland Levy for pension and disability obligations . . . . . . . . . . . . . . . . . 4
+5a. Levy for bonded indebtedness from bonds approved by voters prior to October 6, 2001 . . . . . . . . . . . . 5a.
+5b. Levy for bonded indebtedness from bonds approved by voters on or after October 6, 2001  . . . . . . . . . . . . . . . . . . 5b.
+5c. Total levy for bonded indebtedness not subject to Measure 5 or Measure 50 (total of 5a + 5b) . . . . . . . . . . . . . 5c.
+PART II:  RATE LIMIT CERTIFICATION
+6. Permanent rate limit in dollars and cents per $1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+7. Election date when your new district received voter approval for your permanent rate limit . . . . . . . . . . . . . . . . . . . 7
+8. Estimated permanent rate limit for newly merged/consolidated district . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . 8
+PART III:  SCHEDULE OF LOCAL OPTION TAXES  -  Enter all local option taxes on this schedule.  If there are more than two taxes,
+   attach a sheet showing the information for each.
+Final tax year
+to be levied
+Part IV. SPECIAL ASSESSMENTS, FEES AND CHARGES*
+*If fees, charges, or assessments will be imposed on specific property within your district, you must attach a complete listing of
+properties, by assessor’s account number, to which fees, charges, or assessments will be imposed. Show the fees, charges, or
+assessments uniformly imposed on the properties. If these amounts are not uniform, show the amount imposed on each property.
+**The ORS authority for putting these assessments on the roll must be completed if you have an entry in Part IV.
+150-504-050 (Rev. 10-11-24) (see the back for worksheet for lines 5a, 5b, and 5c)
+ORS Authority**
+Subject to General Government Limitation
+Excluded from Measure 5
+LimitationDescription
+District Name
+McMinnville OR
+Kenneth Huffer
+2.5775
+(operating, capital project, or mixed)
+First tax year
+To assessor of Yamhill_ County
+2026-2027
+Daytime Telephone
+County Name
+County Administrator 503-434-7501
+County of Yamhill
+Notice of Property Tax and Certification of Intent to Impose a
+Tax, Fee, Assessment or Charge on Property
+07/01/2026
+Yamhill
+Date
+hufferk@yamhillcounty.gov
+City
+Subject to
+Mailing Address of District
+535 NE 5th St
+General Government Limits
+2.5775
+Purpose
+authorized per year by voters
+Date voters approved
+Rate -or- Dollar Amount
+Excluded from
+Measure 5 Limits
+levied
+Tax amount -or- rate
+local option ballot measure
+Title
+File with your assessor no later than JULY 15, unless granted an extension in writing.
+Dollar Amount of Bond
+Levy
+0
+1
+ED 50
+BUDGET NOTICES
+ككككك

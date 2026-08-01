@@ -1,0 +1,109 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-general_code_ch26geinsy
+title: 'CHAPTER 26 - GEOGRAPHIC INFORMATION SYSTEMS'
+doc_type: ordinance
+citation: 'CHAPTER 26 - GEOGRAPHIC INFORMATION SYSTEMS'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH26GEINSY&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 8f27829d1bb1b90ffe2a565781658f6cfd26f733b9d7fd38235bf64a1fa5b8f9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CHAPTER 26 - GEOGRAPHIC INFORMATION SYSTEMS (CHAPTER 26 - GEOGRAPHIC INFORMATION SYSTEMS)
+
+## At a glance
+
+CHAPTER 26 - GEOGRAPHIC INFORMATION SYSTEMS — code of Benton County. 6 sections.
+
+## Full text
+
+ ### CHAPTER 26 - GEOGRAPHIC INFORMATION SYSTEMS
+
+ ### 26.005 - Definitions.
+
+As used in Chapter 26 :
+(1)
+"Geographic Information Systems" mean a computer system for the storage, retrieval and spatial and logical analysis
+of geographically based data. For Benton County this means a computerized system that
+improves access and usefulness of geographic information about Benton County through:
+Spatial and logical analysis.
+Graphical display.
+Central storage and distribution.
+Public availability.
+(2)
+"Instrument" means (a) deeds and mortgages of real property, contracts affecting the title to
+real property, authorized by law to be recorded, assignments thereof and of any interest
+therein when properly acknowledged or proved and other interests affecting the title
+to real property; and (b) certificates of sale of real property under execution or
+order of court, or acknowledged or proved. "Instrument" does not include death certificates,
+powers of attorney, appointment/resignations of trustee, trustee's notices of sale,
+affidavits of publication or mailing, affidavits of non-occupancy, proofs of service,
+notices of default, or rescinded notices of default.
+(3)
+"Steering Committee" means the Geographic Information Systems Steering Committee.
+[Ord. 97-132]
+
+ ### 26.105 - Geographic Information Systems, Specific Performance Objective.
+
+A Geographic Information Systems, Specific Performance Objective has been established
+within the County budget. Money in this fund shall be used only to pay for Geographic
+Information System expenses authorized in the annual budget, and the reasonable direct
+and indirect cost of collection and administration.
+[Ord. 97-132]
+
+ ### 26.110 - Geographic Information Systems Fee.
+
+(1)
+A fee shall be charged and collected in advance by the County Administrative Officer
+in conjunction with recording any instrument referenced in BCC 26.205 (1).
+(2)
+The amount of the fee shall be set, reduced, or increased by Order of the Board of
+Commissioners, upon recommendation of the Geographic Information Systems Steering
+Committee or its successor.
+(3)
+All moneys collected under this section shall be deposited with the Benton County
+Finance Director at least once a month to be credited to the Geographic Information
+Systems, Specific Performance Objective.
+[Ord. 97-132]
+
+ ### 26.115 - Reporting.
+
+The Geographic Information Systems Steering Committee, or its successor, shall prepare
+and deliver a report to the Board of Commissioners every year as part of the annual
+Budget Review process.
+[Ord. 97-132]
+
+ ### 26.205 - Powers and Duties of County Administrative Officer.
+
+(1)
+The County Administrative Officer shall maintain for the convenience of the public
+a list of all types of instruments for which BCC Chapter 26 authorizes a fee to be charged.
+(2)
+In the event of a dispute, the County Administrative Officer shall have final authority
+to determine whether a document is an "instrument" pursuant to BCC 26.005 (2).
+(3)
+Effective Date . The effective date for this addition to the Benton County Code will be July 1, 1998.
+[Ord. 97-132]

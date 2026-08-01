@@ -1,0 +1,158 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/polk-county
+id: polk-land-use-140
+title: '140'
+doc_type: ordinance
+citation: '140'
+authority_level: county_ordinance
+issuing_body: 'Polk County Board of Commissioners'
+source_url: https://www.polkcountyor.gov/DocumentCenter/View/4503/140
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: aa2893a4e7486ea3037ae014e63f634a39b9f356412254ad6d2ad1abb276c717
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [polk-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Polk County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 140 (140)
+
+## At a glance
+
+140 — land use of Polk County. 4 pages.
+
+## Full text
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 140 (2009 update).doc                   140-1
+CHAPTER 140
+COMMERCIAL OFFICE (CO) ZONING DISTRICT
+140.010. Use
+140.020. Uses Subject to Administrative Review
+140.030. Conditional Uses
+140.040. Optional Businesses
+
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 140 (2009 update).doc                   140-2
+140.010.  USE.  Within a Commercial Office Zone, no building, structure, or premise shall be
+used, arranged, or designed to be used, erected, structurally altered, or enlarged, except for one or
+more of the following uses:
+(A) Any use permitted in an RM Zone;
+(B) Pre-schools, nurseries and kindergartens;
+(C) Non-profit membership organizations;
+(1) Business association offices;
+(2) Labor unions and similar labor organization off ices and facilities;
+(3) Political organization offices and headquarters ;
+(4) Professional membership organizations, offices and facilities.
+(D) Hotels and motels;
+(E) Parking lot when developed as prescribed in Cha pter 118;
+(F) Contracting business offices;
+(G) Service business office for:
+(1) Bonding company;
+(2) Detective agency;
+(3) Drafting service:
+(4) Mailing, mailing list, addressing service;
+(5) News syndicates;
+(6) Notary public;
+(7) Stenographic service;
+(8) Telephone answering service.
+(H) Financial, insurance and real estate offices fo r:
+(1) Adjustment and collection agencies;
+(2) Banks;
+(3) Consumer reporting agencies, credit agencies ot her than banks;
+(4) Insurance carriers and agents, brokers and serv ice agencies;
+(5) Insurance companies, main or branch;
+(6) Real estate companies (selling, managing, title  search, subdivision or
+development companies, etc.);
+(7) Combination real estate, insurance, loan or law  offices (those companies doing
+any combination of the above but none predominantly);
+(8) Security and commodity brokers, dealers, exchan ges and services, holding and
+other investment companies;
+(9) Title abstract companies;
+(10) Trust companies.
+(I) Laboratory-seed and soil testing, research;
+(J) Motor freight terminal offices;
+(K) Professional offices for:
+(1) Accounting, auditing and bookkeeping services;
+(2) Artists, authors, lecturers, etc.
+(3) Engineers and architects;
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 140 (2009 update).doc                   140-3
+(4) Non-profit educational scientific research agen cies;
+(5) Lawyers;
+(6) Medical and dental laboratories;
+(7) Medical, dental and other allied professional o ffices and clinics.  Optometrists
+primarily engaged in the prescribing rather than the selling of eye glasses are
+included;
+(8) Mortuary.
+(L) Solid waste disposal site (see  Sections 120.31 0 through 120.380);
+(M) Sand and gravel resource site (see  Sections 12 0.410 through 120.460).
+(N) Residential homes, as defined in section 110.47 7.
+[Amended by Ordinance 89-17]
+ (O)  Transportation Improvements   [Amended by Ordinance 01-01]
+ (P) Wind energy systems, meteorological towers, an d photovoltaic systems that are not
+commercial power generating facilities, but not including wind energy systems
+utilizing a tower and meteorological towers that require tower lighting, are located in
+an adopted urban growth boundary, or that would require modification to the height
+or type of construction standards described in Section 112.135(C)(1).  Wind energy
+systems utilizing towers and meteorological towers are subject to standards listed in
+Sections 112.135 and 112.137. Roof-mounted, building-integrated, building-
+mounted and architectural wind energy systems that extend no more than an
+additional 5 feet above the highest ridge of the building’s roof or 15 feet above the
+highest eave, whichever is higher, and do not exceed the height limitation of the
+zone, are subject to the standards listed in Section 112.137. Photovoltaic systems are
+subject to the standards described in Section 112.138.  [Amended by Ordinance 09-06]
+140.020.  USES SUBJECT TO ADMINISTRATIVE REVIEW.  The following uses are
+permitted, subject to review and approval under the prescriptive standards specified herein and as
+may otherwise be indicated by federal, state and local regulations and permits:
+ (A) Wind energy systems utilizing a tower and mete orological towers outside of an
+adopted urban growth boundary that are not commercial power generating facilities
+that would utilize a tower(s) that requires lighting or that requires modification to the
+height or type of construction standards described in Section 112.135(C)(1), as
+provided in Sections 112.135 and 112.137.  [Amended by Ordinance 09-06]
+140.030.  CONDITIONAL USES.   When authorized under the procedure provided for
+conditional uses in Chapter 119 of this ordinance, the following uses will be permitted in a CO
+Zone:
+(A) Radio and TV stations and studios;
+(B) Communications tower, as provided in Section 11 2.135;
+[Amended by Ordinances 01-3 and 04-
+09]
+(C) Telephone and telegraph communication facilitie s;  [Amended by Ordinances 01-3 and 04-09]
+(D) Mobile home parks;
+(E) Boat, camper and trailer storage area or lot (s ee Specific Conditional Uses, Section
+120.030);
+(F) Barber shops;
+(G) Beauty shops;
+(H) Veterinary clinic; and
+F:\GROUP\COMMDEV\PLANNING\Zoning Ordinance Current\12-09-09 to current\CHAPTER 140 (2009 update).doc                   140-4
+(I) Cottage Industry Home Occupations (see Section 116.040). [Amended by Ordinance 89-17]
+(J) Wind energy systems utilizing a tower and meteo rological towers within an adopted
+urban growth boundary up to 100 feet in height that are not commercial power
+generating facilities, as provided in Sections 112.135 and 112.137.  [Amended by Ordinance
+09-06]
+140.040.  OPTIONAL BUSINESSES.   Optional businesses may be conducted in a CO Zone as
+an incidental or secondary use to a main use when conducted and entered only from within the
+building, provided there is no exterior display or advertisement except for a nameplate not over
+two (2) square feet in area, and not more than one-half (1/2) the floor area of a one (1) story is
+devoted to such use or uses, but if such building be but only one (1) story in height, then not
+more than one-fourth (1/4) of the floor area thereof shall be devoted to such use or uses, as
+follows:
+(A) Eating places (not drive-ins) restaurants, cafe s, (may serve liquor) caterers, box-lunch
+providers, coffee shops, dining rooms and tea rooms;
+(B) News dealers, newsstands;
+(C) Barber shop;
+(D) Beauty shop;

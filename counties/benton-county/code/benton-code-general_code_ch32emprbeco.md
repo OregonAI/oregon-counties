@@ -1,0 +1,273 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/benton-county
+id: benton-code-general_code_ch32emprbeco
+title: 'CHAPTER 32 - EMERGENCY PROCEDURES OF BENTON COUNTY'
+doc_type: ordinance
+citation: 'CHAPTER 32 - EMERGENCY PROCEDURES OF BENTON COUNTY'
+authority_level: county_ordinance
+issuing_body: 'Benton County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH32EMPRBECO&productId=17262
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: d3b414c3405ca4024fa88ad75d68dca6770922d6d5ea062b32a6633b8684a27f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 368.001
+    - ORS 368.016
+    - ORS 466.605
+  related: []
+  supersedes: []
+tags: [benton-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Benton County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CHAPTER 32 - EMERGENCY PROCEDURES OF BENTON COUNTY (CHAPTER 32 - EMERGENCY PROCEDURES OF BENTON COUNTY)
+
+## At a glance
+
+CHAPTER 32 - EMERGENCY PROCEDURES OF BENTON COUNTY — code of Benton County. 12 sections.
+
+## Full text
+
+ ### CHAPTER 32 - EMERGENCY PROCEDURES OF BENTON COUNTY
+
+ ### 32.005 - Short Title.
+
+This chapter of the Benton County Code shall be known as the EMERGENCY PROCEDURES
+OF BENTON COUNTY and may be so pleaded and referred to.
+[Ord. 2002-0180]
+
+ ### 32.010 - Purpose.
+
+The purpose of Chapter 32 is to provide a procedure to minimize injury to persons and property, to clearly
+establish when and who may close county roads and local access roads and to preserve
+the established civil authority in the event a local state of emergency exists within
+the unincorporated areas of Benton County or within the incorporated areas of Benton
+County if assistance is requested by such incorporated jurisdiction.
+[Ord. 2002-0180]
+
+ ### 32.015 - Definitions.
+
+(1)
+"Emergency" means any man-made or natural event or circumstance causing or threatening loss of
+life, injury to person or property, human suffering or financial loss, and includes,
+but is not limited to, fire, explosion, flood, severe weather, drought, earthquake,
+volcanic activity, spills or releases of oil or hazardous material as defined in ORS
+466.605, contamination, utility or transportation emergencies, disease, blight, infestation,
+crisis influx of persons unmanageable by the county, terrorism, activities that threaten
+the environment civil disturbance, riot, sabotage and war.
+(2)
+"Local State of Emergency" means verbal or written declaration that an emergency has occurred or is imminent.
+(3)
+"Closure Order" means a verbal or written order issued by the Benton County Sheriff after the declaration
+of a local state of emergency closing any county road or local access road in Benton
+County.
+(4)
+"County Road" has that meaning provided in ORS 368.001(1), to-wit: "a public road under the jurisdiction
+of county that has been designated as a County Road under ORS 368.016."
+(5)
+"Local Access Road" has that meaning provided in ORS 368.001(3), to-wit: "a public road that is not a
+county road, state highway or federal road."
+[Ord. 2002-0180]
+
+ ### 32.020 - Authority of County.
+
+Under the provisions of ORS Chapter 401, the authority and responsibility for responding
+to emergencies is placed at the local government level. ORS Chapter 401 further mandates
+that the county shall establish an emergency management agency to perform emergency
+program management functions to include, but not be limited to, program development,
+fiscal management, coordination with nongovernmental agencies and organizations, public
+information, personnel training and development and implementation of exercises to
+test the system.
+[Ord. 2002-0180]
+
+ ### 32.025 - Declaration of Emergency.
+
+(1)
+A local state of emergency may be declared after a determination is made that an emergency
+has occurred or is imminent. A declaration of local state of emergency may be verbal
+or in writing and shall specify the geographical area covered by the declaration.
+Such area, event description and event duration shall be no larger than necessary
+to effectively respond to the emergency.
+(2)
+In order of descending authority, the following persons shall have the authority to
+declare a local state of emergency or its termination. No such person shall declare
+or terminate a local state of emergency unless, despite reasonable efforts to contact
+each and every person of a higher authority to make such a declaration, such efforts
+were unsuccessful and if the situation presents such a grave risk of loss of life
+or serious physical injury as to necessitate declaration of a local state of emergency
+immediately. However, all reasonable and practical attempts to contact persons of
+higher authority shall be made as soon as the situation so allows.
+(a)
+Chair of the Benton County Board of Commissioners.
+(b)
+Vice-chair of the Benton County Board of Commissioners.
+(c)
+Commissioner of the Benton County Board of Commissioners.
+(d)
+Sheriff of Benton County or a successor by Chain of Command.
+(3)
+As soon as practical after the declaration of a local state of emergency, if not already
+terminated, the Benton County Board of Commissioners shall meet in person or by telephone,
+and determine whether existing conditions require the continuation of the state of
+emergency. Upon a determination that the emergency no longer exists, or when the threat
+of an emergency has passed, the local state of emergency shall be terminated in accordance
+with this section.
+[Ord. 2002-0180]
+
+ ### 32.030 - Regulation and Control.
+
+Whenever a state of emergency has been declared to exist within unincorporated Benton
+County, or upon the request of a municipality's governing body, the Board of County
+Commissioners is empowered to order and enforce the measures necessary to meet the
+emergency. However, if circumstances prohibit the timely action of the Board of County
+Commissioners, the Chair of the Board may order emergency measures provided that approval
+from a majority of the Board of County Commissioners is sought and obtained at the
+first available opportunity, or the Chair's order will become null and void. A partial
+list of emergency measures which may be ordered by the Board of Commissioners includes:
+(1)
+Establish a curfew for the area designated as an emergency area which fixes the hours
+during which all persons other than officially authorized personnel may not be upon
+the public streets or other public places.
+(2)
+Prohibit or limit the number of persons who may gather or congregate upon any public
+street, public place, or any outdoor place within the area designated as an emergency
+area.
+(3)
+Barricade streets and roads, as well as access points onto streets and roads, and
+prohibit vehicular or pedestrian traffic, or restrict or regulate the same in any
+reasonable manner in the area designated as an emergency area for such distance or
+degree of regulation as may be deemed necessary under the circumstances.
+(4)
+Evacuate persons from the area designated as an emergency area.
+(5)
+Close taverns or bars and prohibit the sale of alcoholic beverages throughout Benton
+County or a portion thereof.
+(6)
+Commit to mutual aid agreements.
+(7)
+Suspend standard procurement procedures to obtain necessary services and/or equipment.
+(8)
+Redirect funds for emergency use.
+(9)
+Direct agencies in county government to utilize and employ county personnel, equipment,
+and facilities for the performance of any activities designed to prevent or alleviate
+actual or threatened damage due to an emergency.
+(10)
+Order such other measures as are found to be immediately necessary for the protection
+of life and/or property.
+(11)
+Suspend or control the distribution of gasoline from public fueling points, to insure
+availability of fuel during the state of emergency.
+(a)
+Shut down fuel points during riots to prevent fire and destruction.
+(b)
+Ration fuel to response agencies/vehicles responding to the state of emergency.
+(c)
+Pump fuel tanks and move fuel to more secure locations for protection/distribution.
+[Ord. 2002-0180]
+
+ ### 32.035 - Powers of the Sheriff.
+
+Upon the declaration of a local state of emergency, the Sheriff of Benton County,
+or a designee, shall have the following powers:
+(1)
+To issue a closure order closing to all persons any county road or local access road
+in Benton County. Any closure order issued by the Sheriff, or a designee, shall be
+no larger than reasonably necessary to effectively respond to the emergency.
+(2)
+To request other public agencies, private persons or private entities for permission
+to issue a closure order for roads, waterways or other property under their jurisdiction
+or control.
+(3)
+To prohibit any person from entering or remaining in an area subject to a closure
+order.
+(4)
+Coordinate with Benton County Public Works to maintain traffic flow and conduct mitigation
+measures to minimize the impact to citizens using the closed area.
+(5)
+Authorize the Rural Fire Chief of the affected unincorporated area in Benton County
+to order and conduct evacuation measures as determined by the Rural Fire Chief.
+[Ord. 2002-0180]
+
+ ### 32.040 - Acquisition of Resources.
+
+Under this section, the Board of County Commissioners is authorized to extend government
+authority to nongovernmental resources (i.e. personnel, equipment) that may support
+regular government forces during an emergency and may enter into agreements with other
+public and private agencies for use of resources. When real or personal property is
+taken under power granted by this section, the owner of the property shall be entitled
+to reasonable compensation.
+Under the provisions of ORS Chapter 401, state resources are available when the appropriate
+response to an emergency is beyond the capability of the county in which it occurs,
+the county fails to act, or the emergency involves 2 or more counties and the Governor
+determines that lack of coordination is hampering the effectiveness of response to
+the emergency.
+[Ord. 2002-0180]
+
+ ### 32.045 - Penalty.
+
+(1)
+Any person, firm, corporation, association or entity who violates any emergency measure
+taken by the Board of County Commissioners under authority of this chapter shall be
+subject, upon conviction, to a fine of not more than $1,000 per offense.
+(2)
+Each day of violation shall be deemed a separate offense for purposes of imposition
+of penalty.
+(3)
+This chapter shall be enforceable by the Benton County Sheriff's Office.
+[Ord. 2002-0180]
+
+ ### 32.050 - Responsibility for Emergency Management.
+
+For the purposes of this chapter, in accordance with ORS Chapter 401, the emergency
+management agency for Benton County shall be the Benton County Sheriff's Office, Division
+of Emergency Services. The Benton County Sheriff is designated as the Director of
+Emergency Services. The emergency program may be managed by an Emergency Services
+Program Manager as appointed by the Director. Specific duties shall include but not
+be limited to:
+(1)
+Develop, update and revise the County's Basic Emergency Operations Plan.
+(2)
+Coordinate the activities of county departments, cities and other agencies with emergency
+services capabilities in the development of individual operational annexes to the
+Basic Emergency Operations Plan.
+(3)
+Provide for the coordination of emergency plans, programs and operations within the
+county, cities, neighboring jurisdictions and other public and private agencies with
+emergency services responsibilities.
+(4)
+Develop working agreements with the cities, neighboring jurisdictions and service
+districts to assure coordinated response to an emergency affecting Benton County.
+(5)
+Provide for the procurement of personnel, equipment, materials and supplies from higher
+authority, and for the accounting thereof for use in the event of a declared emergency.
+(6)
+Provide for coordinated operations under simulated emergency conditions.
+(7)
+Recommend to the Board of Commissioners any ordinances, policies or procedures which
+would assist the Board and other county officials in the performance of their duties
+in preparing for, responding to and recovering from an emergency.
+[Ord. 2002-0180]
+
+ ### 32.055 - Separability.
+
+If any section, subsection, sentence, clause, phrase or portion of this chapter is,
+for any reason, held invalid or unconstitutional by a court of competent jurisdiction,
+such portion shall be deemed a separate, distinct and independent provision, and such
+holding shall not affect the validity of the remaining portions of this chapter.
+[Ord. 2002-0180]
