@@ -85,6 +85,7 @@ def build() -> dict:
         nodes.append({"id": fm["id"], "title": fm.get("title", ""),
                       "doc_type": fm.get("doc_type", ""),
                       "status": fm.get("status", ""),
+                      "text_source": fm.get("text_source", ""),
                       "path": str(path.relative_to(ROOT))})
         edges.extend(edges_for(fm))
     local = {n["id"] for n in nodes}
