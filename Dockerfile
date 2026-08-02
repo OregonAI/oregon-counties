@@ -32,7 +32,9 @@ COPY . .
 RUN python3 -c "\
 from corpus_toolkit import config as config_mod; \
 from corpus_toolkit.mcp.framework import CorpusFramework; \
-CorpusFramework(config_mod.load('_meta/corpus.yml')).ensure_index()"
+CorpusFramework(config_mod.load('_meta/corpus.yml')).ensure_index()" \
+ && python3 -c "import corpus_toolkit.mcp.server" \
+ && corpus-mcp-serve --help >/dev/null
 
 # WARM THE SIBLING INDEX INTO THE IMAGE. This corpus resolves ORS and OAR citations into
 # executive-regulatory-frameworks over the network, and 8,726 of its 9,217 ORS citations
