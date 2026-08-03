@@ -6,6 +6,13 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased] — Yamhill and Curry recovered
 
+### Fixed
+- 2026-08-02 — `llms.txt` `## Contents` was still the template's empty stub — an
+  advertised agent entry point serving an empty index (corpus-template#16).
+  Filled with annotated entries for `counties/<slug>/`, the county registry,
+  per-county source registries, the authority graph, and the mirrored ORS
+  dispositions.
+
 ### Added
 - **380 more scans recovered** (95% of 400 candidates): Yamhill 324, Curry 56. Corpus now
   **3,335 documents across 27 counties, 598 OCR-derived**, with 9,704 edges and 1,526
