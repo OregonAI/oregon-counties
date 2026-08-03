@@ -12,7 +12,8 @@
 
 ## Contents
 
-<!-- One annotated link per knowledge body / index, e.g.
-     - `[Title](path/_index.md)`: when an agent should consult it
-     Written as inline code rather than a live link: lychee checks llms.txt by
-     name, and an example path that does not exist would fail CI on day one. -->
+- `[County documents](counties/)`: one tree per built county — `counties/<slug>/` with subdirectories `code/` (codified county code), `orders/` (board and county-court orders), `policies/` (administrative policy), and `land-use/` (comprehensive plans, zoning, development codes). Not every county has every subdirectory; absence of a directory is absence of ingested documents, not evidence about what the county publishes.
+- `[County registry](_meta/counties.yml)`: the canonical roster of all 36 counties — slug, FIPS, governing body (6 are county courts, not boards), home-rule status (8 of 36), population, and `built`/`deferred` flags with reasons. Consult before asserting anything about a county's instruments; these fields are load-bearing for CI guardrails.
+- `[Per-county source registries](_meta/sources/)`: one YAML per built county declaring every upstream source consumed, human-approved before ingestion.
+- `[Authority graph](_meta/graph.json)`: document relationships including county documents' citations into state law (ORS/OAR). Feeds `graph_neighbors` and `authority_chain`.
+- `[ORS dispositions](_meta/ors-dispositions.yml)`: renumbered/repealed status for the ORS sections county documents cite, mirrored from executive-regulatory-frameworks — check here before treating a county's ORS citation as current.
