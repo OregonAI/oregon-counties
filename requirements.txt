@@ -28,4 +28,4 @@ h2
 #
 # A NEW PIN SITE. A toolkit bump must now move this line too, alongside the workflow refs;
 # corpus-toolkit#9 is about exactly the version skew that follows from missing one.
-corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.27.0
+corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.28.0
