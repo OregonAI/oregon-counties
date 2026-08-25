@@ -26,97 +26,97 @@ sources:
   url: https://lake.county.codes/LCC/1
   family: code
   format: html
-  sha256: ''
+  sha256: "958f7bc2c57240e2fdf37a2d2148702daa060566aa6fbb1e04359f441368ae6c"
   title: '1'
   last_checked: '2026-07-31'
 - id: lake-code-2
   url: https://lake.county.codes/LCC/2
   family: code
   format: html
-  sha256: ''
+  sha256: "fc2a190f2c2c0c74ab3c0e7624d6d543666323addc349c3e571114b221dd9f6a"
   title: '2'
   last_checked: '2026-07-31'
 - id: lake-code-3
   url: https://lake.county.codes/LCC/3
   family: code
   format: html
-  sha256: ''
+  sha256: "982421f99bb0bcae3734927e70cc5fca8cf579f9eed2278a8aa108fa20463af2"
   title: '3'
   last_checked: '2026-07-31'
 - id: lake-code-5
   url: https://lake.county.codes/LCC/5
   family: code
   format: html
-  sha256: ''
+  sha256: "126fcedb7d045cb3706937ba823396e191b52f558b29dd1a6422eb50f7361c6b"
   title: '5'
   last_checked: '2026-07-31'
 - id: lake-code-6
   url: https://lake.county.codes/LCC/6
   family: code
   format: html
-  sha256: ''
+  sha256: "467f8b2d32239a392120cab1032296d02c8dd0c3891ba1842beb27596fd5182e"
   title: '6'
   last_checked: '2026-07-31'
 - id: lake-code-8
   url: https://lake.county.codes/LCC/8
   family: code
   format: html
-  sha256: ''
+  sha256: "6988e51aa0c23ad503187793ab6259c54bd2022ab03dbd895d2d6f1ca42f1fcd"
   title: '8'
   last_checked: '2026-07-31'
 - id: lake-code-9
   url: https://lake.county.codes/LCC/9
   family: code
   format: html
-  sha256: ''
+  sha256: "49cc7441a94a7ba0c24785c1c7b62827a3567eb0a9ea1dd72ce2319b467a6ae3"
   title: '9'
   last_checked: '2026-07-31'
 - id: lake-code-10
   url: https://lake.county.codes/LCC/10
   family: code
   format: html
-  sha256: ''
+  sha256: "4a21cb343f001f17112f1c9263377db0fcfed44cb215bec6db295bbc54e0ea0c"
   title: '10'
   last_checked: '2026-07-31'
 - id: lake-code-12
   url: https://lake.county.codes/LCC/12
   family: code
   format: html
-  sha256: ''
+  sha256: "0e5f92d1c2571b48385699c55e9d486914e00edaabe73ea1580df5cf7f357a9e"
   title: '12'
   last_checked: '2026-07-31'
 - id: lake-code-13
   url: https://lake.county.codes/LCC/13
   family: code
   format: html
-  sha256: ''
+  sha256: "57d779f11a9c48c9cfe3cdceeb7932bbc4fa12384c966227c20f5d95681436b9"
   title: '13'
   last_checked: '2026-07-31'
 - id: lake-code-15
   url: https://lake.county.codes/LCC/15
   family: code
   format: html
-  sha256: ''
+  sha256: "b05774ee18ea85361d822ea79d2292b09d373452180a5b5a3a74fd045fe5c9b8"
   title: '15'
   last_checked: '2026-07-31'
 - id: lake-land-use-16
   url: https://lake.county.codes/LCC/16
   family: land-use
   format: html
-  sha256: ''
+  sha256: "46892b064566f968c19e21844893a16d4d98717a911d071d636d83e4482fefec"
   title: '16'
   last_checked: '2026-07-31'
 - id: lake-land-use-17
   url: https://lake.county.codes/LCC/17
   family: land-use
   format: html
-  sha256: ''
+  sha256: "22cfce0b9c3db1648acb6075049be64bfda63fb7ef04ca0dc3a2c006df3d8116"
   title: '17'
   last_checked: '2026-07-31'
 - id: lake-land-use-18
   url: https://lake.county.codes/LCC/18
   family: land-use
   format: html
-  sha256: ''
+  sha256: "12b3feb89c7c5f9be231e5036962e5388abd93bdfb277f21a2bc11a105f4939a"
   title: '18'
   last_checked: '2026-07-31'

@@ -24,168 +24,168 @@ sources:
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCountyNT.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "74609695ea4cf728b4bf53d110d54073679ca0c67829339cd73ad9c0aacb1aab"
   title: MarionCountyNT
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty01
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty01/MarionCounty01.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "85984367465bf560a09d243ea7965209a3b455b8a4ebc25b079edaabd9b6d0c6"
   title: MarionCounty01
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty02
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty02/MarionCounty02.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "26ad9cbb8bfcdda37273728f9884095473a6334caaa461b6f68966825aaf5144"
   title: MarionCounty02
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty03
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty03/MarionCounty03.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "03c1ea10fab7f84d82d576e622df60c39bfe8b7c599971c59fb6d9c834343e01"
   title: MarionCounty03
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty04
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty04/MarionCounty04.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "42249dd9dd2214dffb7d5d699884cfec4dab51c6c3139aecdd6eb18ffe7d6e55"
   title: MarionCounty04
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty05
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty05/MarionCounty05.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "102506156ca975ad960156cfae7f75729d0e64aa97c7e63873e9f847b992b156"
   title: MarionCounty05
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty06
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty06/MarionCounty06.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "ac7f1939999a3ac4691be718f178d3afb33104225e13a99831e364559a6c0f92"
   title: MarionCounty06
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty07
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty07/MarionCounty07.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "b6c37a7d17eca7f75d43ebed98f8b99c8d998c5cff8f56fc89c290ddcea806ba"
   title: MarionCounty07
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty08
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty08/MarionCounty08.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "f3510f568718d7fe55e327c18753e533a9d925692e8bf26e01a81da4250a795e"
   title: MarionCounty08
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty09
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty09/MarionCounty09.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "d7d988644d87a2ed9beedc33370fb33682626b33e15a2913757da27f4551ff59"
   title: MarionCounty09
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty10
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty10/MarionCounty10.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "a2ef6a5010ecec9fd1b626de0d351e8160726d7c0b4768de27d218ee278a62f4"
   title: MarionCounty10
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty11
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty11/MarionCounty11.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "282c968f8e553d89baa5c42fc47c00c765b28f8df51d3251d79717dd83f94e5d"
   title: MarionCounty11
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty12
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty12/MarionCounty12.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "3591d0aa6f2d912e31a785012f66271678b6bc8e6187b425d21670df7ae55334"
   title: MarionCounty12
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty13
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty13/MarionCounty13.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "daa027e8e41208a5ce806b054eee0b15ebea1dfab2adfab64988aae14b910275"
   title: MarionCounty13
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty14
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty14/MarionCounty14.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "690f2732f28f4b9cf1b00b9a4afd7f7f874c0d6dbf7a0e58ca1e657f6f105e23"
   title: MarionCounty14
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty15
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty15/MarionCounty15.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "964a4c6dd4831aa97fe548a3abe2997418819a67caf71679aff89ab9f4cc03fb"
   title: MarionCounty15
   last_checked: '2026-07-31'
 - id: marion-code-marioncountyot
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCountyOT.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "0eedf8d4ce08f11a8ab15a1ea645e49effd9bd668cc692d1e54f4ae93abb8402"
   title: MarionCountyOT
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty16
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty16/MarionCounty16.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "db5a6496812617afd9d44320c4548e3c8c3f7d882c758451d8a91e09749f7e9d"
   title: MarionCounty16
   last_checked: '2026-07-31'
 - id: marion-code-marioncounty17
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty17/MarionCounty17.html
   family: code
   format: xml
-  sha256: ''
+  sha256: "15b30fc1c038c9a60424b93b127a312f77d8d1d349cd2e53dff213da09571f4d"
   title: MarionCounty17
   last_checked: '2026-07-31'
 - id: marion-land-use-marioncompnt
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCompNT.html
   family: land-use
   format: xml
-  sha256: ''
+  sha256: "10ba013ee5c1556412df28076152e89d1c048958197865b32dff080af9ef9bee"
   title: MarionCompNT
   last_checked: '2026-07-31'
 - id: marion-land-use-marioncomp01
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp01/MarionComp01.html
   family: land-use
   format: xml
-  sha256: ''
+  sha256: "f3fc9576fcccd7d42bca6284027f7badefdf530341b4e5d23b9b8ee476e471b5"
   title: MarionComp01
   last_checked: '2026-07-31'
 - id: marion-land-use-marioncomp02
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp02/MarionComp02.html
   family: land-use
   format: xml
-  sha256: ''
+  sha256: "8ad160edfeb4c05c9345d62a139938b656458d7398262746cfe47bfb34cc8b13"
   title: MarionComp02
   last_checked: '2026-07-31'
 - id: marion-land-use-marioncomp03
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp03/MarionComp03.html
   family: land-use
   format: xml
-  sha256: ''
+  sha256: "f228efb11385f9ea31a2dc9cbeda855a93f5d843e412445e8744e970eea4c849"
   title: MarionComp03
   last_checked: '2026-07-31'
 - id: marion-land-use-marioncomp04
   url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp04/MarionComp04.html
   family: land-use
   format: xml
-  sha256: ''
+  sha256: "d9e18d69943ebef536c509c98b2e07605f8df17d5f42035ca3ae82de5a8e4c45"
   title: MarionComp04
   last_checked: '2026-07-31'
 - id: marion-policies-101
