@@ -19,286 +19,286 @@ sources:
   url: https://www.klamathcounty.org/DocumentCenter/View/63581/Master-Code-71326pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "bf7832b9763136284bb6c111618f3206bbb5099ee1d2788f987c1f2a35883666"
   title: Master-Code-71326pdf
   last_checked: '2026-07-31'
 - id: klamath-code-ordindex-71326pdf
   url: https://www.klamathcounty.org/DocumentCenter/View/63579/ORDINDEX-71326pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "71d6d57a56dacbeedb4deedaccb1e82d7af3472a67beae9521628f916e4999f9"
   title: ORDINDEX-71326pdf
   last_checked: '2026-07-31'
 - id: klamath-land-use-2734
   url: https://www.klamathcounty.org/DocumentCenter/View/2734
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "88a838c6955dcf0aae8e3d0b319225c9fb130d062ffc081773dfabee8a33cc0f"
   title: TOC.docx revised 6.13.2025 202506131844380856
   last_checked: '2026-07-31'
 - id: klamath-land-use-2726
   url: https://www.klamathcounty.org/DocumentCenter/View/2726
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "2c5dcd07fa543672bb8b1e54229cff57919415dc973335da9a352ab272d2350f"
   title: Chapter 30 (PDF)
   last_checked: '2026-07-31'
 - id: klamath-land-use-2730
   url: https://www.klamathcounty.org/DocumentCenter/View/2730
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "9b275ab0d3a12b753002af417bc44246929b3274cfcf896f6dc766908314767a"
   title: Chapter 70 (PDF)
   last_checked: '2026-07-31'
 - id: klamath-land-use-5668
   url: https://www.klamathcounty.org/DocumentCenter/View/5668
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "5b1d0bcc4d84ec5c0876cb1d80963527b7bab58a9080f7b407004cf3e088cc70"
   title: Chapter 40 202401021333065871
   last_checked: '2026-07-31'
 - id: klamath-land-use-2731
   url: https://www.klamathcounty.org/DocumentCenter/View/2731
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "015df2f80168d0fa5dfee9533cba27a121ea37f110afbce7814cf1a8f1bc5d4a"
   title: Chapter 80 202308101747498714
   last_checked: '2026-07-31'
 - id: klamath-land-use-5673
   url: https://www.klamathcounty.org/DocumentCenter/View/5673
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "94ea195e6b325a642c316024b9aee50764cff1affc42a009adfed83eec138522"
   title: Chapter 10 201809201331318342
   last_checked: '2026-07-31'
 - id: klamath-land-use-2728
   url: https://www.klamathcounty.org/DocumentCenter/View/2728
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "a347dfee568cd526aa2ac86554d1eaa1775810a7be79737e28eae6d006042188"
   title: Chapter 50 revised 6.13.2025 202506131829004870
   last_checked: '2026-07-31'
 - id: klamath-land-use-39340
   url: https://www.klamathcounty.org/DocumentCenter/View/39340
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "0250f78a1f55e0ad7ac394551147e19b33924a312dbb2296fb5195ecf9883399"
   title: Planning-Solar Siting Ordinance Article 57.2
   last_checked: '2026-07-31'
 - id: klamath-land-use-2725
   url: https://www.klamathcounty.org/DocumentCenter/View/2725
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "963c985ba71f68c67c335a1d12f9561a3b88d24a49f650dd808547dd2f48f351"
   title: Chapter 20 202302021738598403
   last_checked: '2026-07-31'
 - id: klamath-land-use-2729
   url: https://www.klamathcounty.org/DocumentCenter/View/2729
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "aadb06d4ec8d50c31937c151af130e51b1b1d63bce58592925cc30fde9ec7e63"
   title: Chapter 60 201803191317200319
   last_checked: '2026-07-31'
 - id: klamath-land-use-2732
   url: https://www.klamathcounty.org/DocumentCenter/View/2732
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "46ed53cf50de57528b81b0b3922b8bae896b2a394e5af6c30d3e2d79eb7d28d7"
   title: Chapter 90 (PDF)
   last_checked: '2026-07-31'
 - id: klamath-land-use-2723
   url: https://www.klamathcounty.org/DocumentCenter/View/2723
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "c7a4de4d10af62394585ca4d1a8f9f126ea8271eba4ef7e7fa4566bbc5588e69"
   title: Appendices (PDF)
   last_checked: '2026-07-31'
 - id: klamath-land-use-2029
   url: https://www.klamathcounty.org/DocumentCenter/View/2029
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "73b581a93427aa14e13f868f15669e382817978558bfa252bc43bb0d6e94ecca"
   title: Economic Development - 8-24-17
   last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-human-resources-policies-procedures-manual-cu
   url: https://www.klamathcounty.org/DocumentCenter/View/34462/Klamath-County-Human-Resources-Policies--Procedures-Manual-Current-05-23
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "929fac24e2bb69ab2aefaf2a43f035a1ad67f2d25ec462b7da54cde514519b87"
   title: Klamath-County-Human-Resources-Policies--Procedures-Manual-Current-05-23
   last_checked: '2026-07-31'
 - id: klamath-policies-red-flag-policiespdf
   url: https://www.klamathcounty.org/DocumentCenter/View/34463/Red-Flag-Policiespdf
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "6b0b0a6b70a8ae1e96a8dfcec946f03e4fd13317439b90a26547410af9ef95b1"
   title: Red-Flag-Policiespdf
   last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-paid-leave-oregon-policy
   url: https://www.klamathcounty.org/DocumentCenter/View/35572/Klamath-County-Paid-Leave-Oregon-Policy
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "1c37755906b7ed2a9f90bf06a49617dec1a50f75b2a6a72de2c349e5ff2842ce"
   title: Klamath-County-Paid-Leave-Oregon-Policy
   last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-paid-time-off-policy-foppo
   url: https://www.klamathcounty.org/DocumentCenter/View/35575/Klamath-County-Paid-Time-Off-Policy---FOPPO
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "5f05516b9d3f9cb0c4c0c11c697d9bfd29d899ec20dac522cca26731fd1db8b8"
   title: Klamath-County-Paid-Time-Off-Policy---FOPPO
   last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-paid-time-off-policy-local-701
   url: https://www.klamathcounty.org/DocumentCenter/View/35574/Klamath-County-Paid-Time-Off-Policy---Local-701
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "5878cb3bfe4d4c6255cb86dcbd7ccf850e8322a2450b69590d6280b84af936a0"
   title: Klamath-County-Paid-Time-Off-Policy---Local-701
   last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-paid-time-off-policy-non-union
   url: https://www.klamathcounty.org/DocumentCenter/View/35577/Klamath-County-Paid-Time-Off-Policy---Non-Union
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "fbf0e8fb7823ee5bbd0560cb22a27da6deb6d7ae745c0db1c2d5638f39f499b1"
   title: Klamath-County-Paid-Time-Off-Policy---Non-Union
   last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-paid-time-off-policy-local-737
   url: https://www.klamathcounty.org/DocumentCenter/View/35573/Klamath-County-Paid-Time-Off-Policy---Local-737
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "d012a05f7fc9f42811c25683c18a82ce83703cdb3820436a9ea8703fec1d6677"
   title: Klamath-County-Paid-Time-Off-Policy---Local-737
   last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-paid-time-off-policy-sergeants-lieutenants-ca
   url: https://www.klamathcounty.org/DocumentCenter/View/35576/Klamath-County-Paid-Time-Off-Policy---Sergeants-Lieutenants-Captains
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "177a8d1a04ef98ce6e4e7fa5c7e205c30e2738a112b2c8e02d549494d93ed7fd"
   title: Klamath-County-Paid-Time-Off-Policy---Sergeants-Lieutenants-Captains
   last_checked: '2026-07-31'
 - id: klamath-policies-foppo-cba-2026-2029
   url: https://www.klamathcounty.org/DocumentCenter/View/63614/FOPPO-CBA-2026-2029-
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "09cf041f567f55f5b313230249b9a1d334a9e0d8f2fd84ab0d7d084b4052b645"
   title: FOPPO-CBA-2026-2029-
   last_checked: '2026-07-31'
 - id: klamath-policies-kcpoa-collective-bargaining-agreement-2023-2026
   url: https://www.klamathcounty.org/DocumentCenter/View/36340/KCPOA-Collective-Bargaining-Agreement-2023-2026
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "9135e7660fe9089ef580cf015049c47f517c51f22419961d35e4001a1ddb27ab"
   title: KCPOA-Collective-Bargaining-Agreement-2023-2026
   last_checked: '2026-07-31'
 - id: klamath-policies-local-701-collective-bargaining-agreement-2023-2026
   url: https://www.klamathcounty.org/DocumentCenter/View/35590/Local-701---Collective-Bargaining-Agreement-2023-2026
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "e80d6c7b055b117b8fffef45c2c4b41850839d2d455b94fc3517e33ef053ce7d"
   title: Local-701---Collective-Bargaining-Agreement-2023-2026
   last_checked: '2026-07-31'
 - id: klamath-policies-local-737-cba-2026-2029
   url: https://www.klamathcounty.org/DocumentCenter/View/63613/Local-737-CBA-2026-2029-
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "174bad0dcd56a701a62c8fa8baefa5002817f4399426a09e9e44b1e572c3aa48"
   title: Local-737-CBA-2026-2029-
   last_checked: '2026-07-31'
 - id: klamath-policies-ona-cba-2026-2029
   url: https://www.klamathcounty.org/DocumentCenter/View/63615/ONA-CBA-2026-2029
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "268c84f55301e5001da9ffaafbd78c30805e00765e781d63b051fd6b1a67c080"
   title: ONA-CBA-2026-2029
   last_checked: '2026-07-31'
 - id: klamath-policies-kcpoa-2025-2026
   url: https://www.klamathcounty.org/DocumentCenter/View/38414/KCPOA-2025-2026
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "5e24c0cd57f12cd0dcb67a63792919756b75e4e9f68c4ddb2b2fa14a0a958ca5"
   title: KCPOA-2025-2026
   last_checked: '2026-07-31'
 - id: klamath-policies-sergeants-lieutenants-undersheriff-2025-2026
   url: https://www.klamathcounty.org/DocumentCenter/View/38417/Sergeants-Lieutenants-Undersheriff-2025-2026
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "768cad649ec398653b3daa40a9b2068fae27762690125a14e161ff1473196ca8"
   title: Sergeants-Lieutenants-Undersheriff-2025-2026
   last_checked: '2026-07-31'
 - id: klamath-policies-local-701-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63629/Local-701-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "c2711d6c9c0fc4d00208a2f295bf606137ec058774835645d1e82ced0568f651"
   title: Local-701-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-737-salaried-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63590/737-Salaried-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "88e15efc0ded7676d4002c9cd3f30a8638202d0803e7b0ca5c72bd50e10b2c8c"
   title: 737-Salaried-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-737-hourly-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63589/737-Hourly-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "3aef5f4ec62b7ec8be37b1862f376724b83565ce079e3be27697f20105cd4932"
   title: 737-Hourly-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-department-head-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63591/Department-Head-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "5029be9ccd1afc926fe8dd8789f694f1e6a4d1c55f5d21a7cf64413d23dd32a0"
   title: Department-Head-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-elected-officials-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63592/Elected-Officials-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "064ebb8701edd69a062aa399488fa5664d12eff2653c280df61828ca6442cec1"
   title: Elected-Officials-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-foppo-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63593/FOPPO-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "b2e8f9a8cee0f539a1cec41a88c37347edca8d5352b8a52e91464abbb830d2b6"
   title: FOPPO-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-non-union-salaried-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63595/Non-Union-Salaried-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "9ff8c36342367d3d9092040504e6c5ba28430e0a26a5fde430480114cdf54089"
   title: Non-Union-Salaried-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-non-union-hourly-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63594/Non-Union-Hourly-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "8390db2401983785059375ded9b6f447a2e8b9e1d6118afefd4fab8a34a76802"
   title: Non-Union-Hourly-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-ona-2026-2027-salary-table
   url: https://www.klamathcounty.org/DocumentCenter/View/63596/ONA-2026-2027-Salary-Table
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "3eadadf030b56f26f9e6ef33c13c839fd37356db202338886f782da858b6d9d9"
   title: ONA-2026-2027-Salary-Table
   last_checked: '2026-07-31'
 - id: klamath-policies-2026-classification-tables-local-737
   url: https://www.klamathcounty.org/DocumentCenter/View/39409/2026-Classification-Tables---Local-737
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "843ea57b7d8d9b44c50b24c15c8ac82234032266b063de87f893bebc62847639"
   title: 2026-Classification-Tables---Local-737
   last_checked: '2026-07-31'
 - id: klamath-policies-2026-classification-tables-non-union
   url: https://www.klamathcounty.org/DocumentCenter/View/39408/2026-Classification-Tables---Non-Union
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "7aaa70576d63564d7c9c7630d49c6d18619c909380f56075e31c215a6a98ceee"
   title: 2026-Classification-Tables---Non-Union
   last_checked: '2026-07-31'

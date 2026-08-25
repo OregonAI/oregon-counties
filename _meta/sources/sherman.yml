@@ -18,69 +18,69 @@ sources:
   url: https://www.shermancountyor.gov/DocumentCenter/View/451/Conditional-Use-Permit-Application-DOCX
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "a0d461680c187a65704332c637c47ac39eb53f4c8dcdc1ab67f7a196f84f16ef"
   title: Conditional-Use-Permit-Application-DOCX
   last_checked: '2026-07-31'
 - id: sherman-land-use-conditional-use-permit-checklist-docx
   url: https://www.shermancountyor.gov/DocumentCenter/View/452/Conditional-Use-Permit-Checklist-DOCX
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "a3b7960d4ac2b8f0dbbfae750d9f83dd753ec424eabcbb7a0d6183192f1f0c07"
   title: Conditional-Use-Permit-Checklist-DOCX
   last_checked: '2026-07-31'
 - id: sherman-land-use-enterprise-zone-map-pdf
   url: https://www.shermancountyor.gov/DocumentCenter/View/453/Enterprise-Zone-Map-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "24116c005bff15b8208ba52b408fdf8918e1f19b51f050b8198004c3c232d0e0"
   title: Enterprise-Zone-Map-PDF
   last_checked: '2026-07-31'
 - id: sherman-land-use-land-use-fee-schedule-pdf
   url: https://www.shermancountyor.gov/DocumentCenter/View/443/Land-Use-Fee-Schedule-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "a3a12d9de8d762ae4f46ecc71c0f625755759fdd632d12ba1ea801e8b35746b4"
   title: Land-Use-Fee-Schedule-PDF
   last_checked: '2026-07-31'
 - id: sherman-land-use-mass-gathering-permit-docx
   url: https://www.shermancountyor.gov/DocumentCenter/View/444/Mass-Gathering-Permit-DOCX
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "5817c6767533d200ca4e8009d6eb3be90463c6e68b5654ebc113bcdccf629460"
   title: Mass-Gathering-Permit-DOCX
   last_checked: '2026-07-31'
 - id: sherman-land-use-partition-application-docx
   url: https://www.shermancountyor.gov/DocumentCenter/View/445/Partition-Application-DOCX
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "1d49c00a4689944beee4a840a95c8667a4a379dd0fb7fd92da2e758adb220a9c"
   title: Partition-Application-DOCX
   last_checked: '2026-07-31'
 - id: sherman-land-use-property-line-adjustment-application-docx
   url: https://www.shermancountyor.gov/DocumentCenter/View/447/Property-Line-Adjustment-Application-DOCX
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "cf4796d01d40475606473bc50cbd3f50185d668c392edca30810121026b149f0"
   title: Property-Line-Adjustment-Application-DOCX
   last_checked: '2026-07-31'
 - id: sherman-land-use-sherman-county-comprehensive-land-use-plan-pdf
   url: https://www.shermancountyor.gov/DocumentCenter/View/446/Sherman-County-Comprehensive-Land-Use-Plan-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "0949dd97edbd8b030e20d2b1e6c5d759782af71298c7de8ed4b08e0b0b6e8c13"
   title: Sherman-County-Comprehensive-Land-Use-Plan-PDF
   last_checked: '2026-07-31'
 - id: sherman-land-use-sherman-county-enterprise-zone-information-pdf
   url: https://www.shermancountyor.gov/DocumentCenter/View/448/Sherman-County-Enterprise-Zone-Information-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "4cae6ccfd3cbbdcf44ebe171504fcfe997be8b7b8b09396883a4ed44c85e0d76"
   title: Sherman-County-Enterprise-Zone-Information-PDF
   last_checked: '2026-07-31'
 - id: sherman-land-use-sherman-county-zoning-ordinance-docx
   url: https://www.shermancountyor.gov/DocumentCenter/View/449/Sherman-County-Zoning-Ordinance-DOCX
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "1ca55d5da463039de33059bdaab843300a71f446cfdfd9a79e1ab6c2605efc73"
   title: Sherman-County-Zoning-Ordinance-DOCX
   last_checked: '2026-07-31'

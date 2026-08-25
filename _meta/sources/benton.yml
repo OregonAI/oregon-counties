@@ -28,363 +28,363 @@ sources:
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=BECOCHCOCOBEOR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "5a9d6bbcc28941ec88d1adff28f56562982245a32a7c28f419fd50bf534ebf86"
   title: BENTON COUNTY CHARTER and CODE COUNTY OF BENTON, OREGON
   last_checked: '2026-07-31'
 - id: benton-code-horuchbecoor
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=HORUCHBECOOR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "39e196077134c8d8a4154aaa4da31d2d8057291630a0ba22e876fb08c376e4ca"
   title: HOME RULE CHARTER OF BENTON COUNTY, OREGON
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch1gecoad
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH1GECOAD&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "9e86fe12d7f78f4a92be0b513c19a1d51089382bccb0b6f0c46bf396fd2e1374"
   title: CHAPTER 1 - GENERAL CODE ADMINISTRATION
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch2coco
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH2COCO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "adae31fbd5e8784be95e155ccc53e576489dab2ffb9e016be3e6ab443f2fffa9"
   title: CHAPTER 2 - COUNTY CONTRACTS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch3cico
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH3CICO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "ad8ec4be376ddee68e8fe794f42b302f226d966d1d334974080d6d89b91439ec"
   title: CHAPTER 3 - CITIZEN COMMITTEES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch4elca
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH4ELCA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "49840de7cdca7121af1d986a0145b4486e26cea787be6d34087744fb6b5823a4"
   title: CHAPTER 4 - ELECTIONS AND CANDIDATES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch5bame
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH5BAME&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "87c93c81559121fe5393a86afab436646125e46ed34f9896336a5b74e8972dea"
   title: CHAPTER 5 - BALLOT MEASURES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch6vopa
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH6VOPA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "7d4c664c6b1bfa2e4f1ca9eba5ff442d220c4616531d4cae5d49f024ffd3999b"
   title: CHAPTER 6 - VOTERS' PAMPHLET
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch7road
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH7ROAD&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "80f24a823a75838343f6b5a886dec8d2517fe050e2222cb9c582fbf023503429"
   title: CHAPTER 7 - ROADS AND ADDRESSES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch8acrepetafopr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH8ACREPETAFOPR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "57a78a14eb6981c605259053249ffc7c785f97e80fe0b4b12ca22d286ac84359"
   title: CHAPTER 8 - ACCELERATION OF REDEMPTION PERIOD FOR TAX FORECLOSED PROPERTY
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch9anco
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH9ANCO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "0d4b4fd196183bd8c5f61ee05fbba3e9f4ade743aa0bce52d2a8682637035ad5"
   title: CHAPTER 9 - ANIMAL CONTROL
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch10buroal
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH10BUROAL&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "eb61281d77aff46163a49480ef9d9a4ef72095c1de8c1cf07ae4891e5db49189"
   title: CHAPTER 10 - BURGLARY AND ROBBERY ALARMS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch11becobuco
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH11BECOBUCO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "48b3a139d2351bc08e1f1a2a5fc0b2cfce4414a66e436e5380c9ace4806a4ce2"
   title: CHAPTER 11 - BENTON COUNTY BUILDING CODE
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch12pa
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH12PA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "306bc46b17da0d1f3730e6a03d12ef96c32662cccd68d5052ef4e3b5c5df766c"
   title: CHAPTER 12 - PARKING
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch13soga
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH13SOGA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "b70caa45ece161977c1d9be8782662a61cd99f565aa2a024c46890741588daab"
   title: CHAPTER 13 - SOCIAL GATHERINGS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch14reofrove
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH14REOFROVE&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "dd4a369d87bd884f7e0a94a86d8ed847d8e00b86a23971bf098827939c94d2b1"
   title: CHAPTER 14 - REGULATION OF OFF ROAD VEHICLES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch15conaarpa
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH15CONAARPA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "2375df2990fb12bff9e11a917320796d23be6a71a85a913f16e02efc3e34270b"
   title: CHAPTER 15 - COUNTY NATURAL AREAS AND PARKS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch16cofa
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH16COFA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "fc927396c27187f246126581b9c43b3db4296299412f94e379098a14cd43dcc1"
   title: CHAPTER 16 - COUNTY FAIR
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch17satoad
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH17SATOAD&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "17ad3226b50c25f4772316ca55f55edb9328e7f74ba0cfad6e255b57532a7561"
   title: CHAPTER 17 - SALE OF TOBACCO ADMINISTRATION
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch18smwoenpupl
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH18SMWOENPUPL&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "b194ab076a9e112421f8716e281e36c314cf2e6ecadb882f460533c3638aaef0"
   title: CHAPTER 18 - SMOKING IN WORKPLACES AND ENCLOSED PUBLIC PLACES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch19amsearpl
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH19AMSEARPL&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "5a1f70f6977f55aa5274d7068d5dcf8bea2d4eeacf6e56a3069dad399324e3aa"
   title: CHAPTER 19 - AMBULANCE SERVICE AREA PLAN
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch20cafr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH20CAFR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "e112792d83b54fb099e6bbf7268aada80e0213e2c48b4b1ca5c80276981d24ac"
   title: CHAPTER 20 - CABLE FRANCHISES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch21nuab
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH21NUAB&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "5b2238576c0d9c64bc02060034dac401d7cc666116c6ea334b3480dd384fc8e1"
   title: CHAPTER 21 - NUISANCE ABATEMENT
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch22foha
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH22FOHA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "6652e78c2d9ccf95e81ef6cc0df1f65cebfcbec156b670bae7f3abd413cecba9"
   title: CHAPTER 22 - FOOD HANDLERS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch23sowama
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH23SOWAMA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "c5ea650758eb98cd80c12c4c062bb7f8aba9422c97c5fe3ce8db192e2694c376"
   title: CHAPTER 23 - SOLID WASTE MANAGEMENT
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch24inen
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH24INEN&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "649c55d8e776222f8562f23791bc38dcf8fc8ae6d101ee938c86ca930a708165"
   title: CHAPTER 24 - INTERGOVERNMENTAL ENTITIES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch25pulacopr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH25PULACOPR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "0cd8a43a0310e43d8576c66b0510814cb8b4cbc911ea15e728a49a4484302109"
   title: CHAPTER 25 - PUBLIC LAND CORNER PRESERVATION
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch26geinsy
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH26GEINSY&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "f4bf93243642ea7c97eb853da417b68fbd311c6a5665ed6bd08f189b12bfdaec"
   title: CHAPTER 26 - GEOGRAPHIC INFORMATION SYSTEMS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch27nutr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH27NUTR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "fd83ff640a73cac0495175ac63d9feaf280ab0797c408c5daf003ac1b944a266"
   title: CHAPTER 27 - NUISANCE TREES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch28ansc
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH28ANSC&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "f2d3fe2e67de239d060c3ec9d56019548b8deeac73c3e210e07b30b8e3847ea3"
   title: CHAPTER 28 - ANTI-DISCRIMINATION
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch29pokiaubecocofa
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH29POKIAUBECOCOFA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "c5d0db5a8003245dfc44ddc3d71eebab971ffab497b9fb5654eb87978577aa32"
   title: CHAPTER 29 - POLICY-MAKING AUTHORITY FOR BENTON COUNTY CORRECTION FACILITY
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch30fapr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH30FAPR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "7c21c5f4ceae5dc02aeba16f50b684ca9736e8a32c156ee416c2db83d8e08e22"
   title: CHAPTER 30 - FARM PRACTICES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch31en
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH31EN&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "a044720f503a61435e19a826c7bfb829813f59aebb77464371927cc46241bd57"
   title: CHAPTER 31 - ENFORCEMENT
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch32emprbeco
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH32EMPRBECO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "f6fcc3f1fc44c1d1966c4d303ddc872cacb077a97f5682d5f7462e22e1d04f22"
   title: CHAPTER 32 - EMERGENCY PROCEDURES OF BENTON COUNTY
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch33liliapre
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH33LILIAPRE&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "46d36ad2b0a4208e6174a0c9e070aa57af629bbf74b41ca6f7fef706a0724355"
   title: CHAPTER 33 - LIQUOR LICENSE APPLICATION REVIEW
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch34prredecoreprva
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH34PRREDECOREPRVA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "41ef8ad1cf50277df0ffa9b052051c63f5f05ba285db21336eacf4b14b5e7919"
   title: CHAPTER 34 - PROCEDURE FOR REVIEWING DEMANDS FOR COMPENSATION FOR REDUCTION IN PROPERTY VALUE
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch35redipuroim
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH35REDIPUROIM&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "751ab8e8912302769ce0dd6d1132a72b5d4b292d127449063578eabae5138e9f"
   title: CHAPTER 35 - REIMBURSEMENT DISTRICTS FOR PUBLIC ROAD IMPROVEMENTS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch36ilnordi
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH36ILNORDI&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "70a7f487a7d6a07889fdbad42a60fb83ec2810059eb3afd542c7eec61ea6edce"
   title: CHAPTER 36 - ILLICIT (NON-STORMWATER) DISCHARGES
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch37ceinprpr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH37CEINPRPR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "b78afb46b5b55c138e9bf12ef125418f6a55b85b88c87ac0a52048b5fdb1ff68"
   title: CHAPTER 37 - CERTIFICATE OF INCLUSION FOR PRIVATE PROPERTY
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch38samamafupr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH38SAMAMAFUPR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "370b99e17e2aa552e13c6af55c0ea83ef0dacbc9c1936240ccd9d91510234426"
   title: CHAPTER 38 - SALE OF MARIJUANA AND MARIJUANA-INFUSED PRODUCTS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch39trlota
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH39TRLOTA&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "2f312d0377278652d33c9ac56916b1b514c38736c9f44de1bef40e16a18d461a"
   title: CHAPTER 39 - TRANSIENT LODGING TAX
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch40vecarein
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH40VECAREIN&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "1bf266f1d11dd69efefba7d11f25b9b8397ee5640fc29b130fa47685a939a8f1"
   title: CHAPTER 40 - VEHICLE CAMPING AT RELIGIOUS INSTITUTIONS
   last_checked: '2026-07-31'
 - id: benton-code-general_code_ch41coprasclenprcp
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=GENERAL_CODE_CH41COPRASCLENPRCP&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "8c7c0be11a841261c26e8f12069fe16ccef6e219238fc5e05ea9373ce7a8922b"
   title: CHAPTER 41 - COMMERCIAL PROPERTY ASSESSED CLEAN ENERGY PROGRAM (CPACE)
   last_checked: '2026-07-31'
 - id: benton-code-decobeco
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=DECOBECO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "e4ae0dc76388a2d65b900750f8ee5e250638f38cb849926f2a4b1fb8239dc085"
   title: DEVELOPMENT CODE OF BENTON COUNTY
   last_checked: '2026-07-31'
 - id: benton-code-adpr
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=ADPR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "9438f31855a6ed1f32b1d627dd8d5c84f533e754d35459432ee0a4722d90f177"
   title: ADMINISTRATIVE PROVISIONS
   last_checked: '2026-07-31'
 - id: benton-code-rezo
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=REZO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "7106a04d9d3b871681061358626723c108b2f826d32190ae1b55ba05e9bfd5f4"
   title: RESOURCE ZONES
   last_checked: '2026-07-31'
 - id: benton-code-nsozo
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=NSOZO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "50022279cab5997f7b2ea16af52327969d57a94bc321156b5819a071944fec7e"
   title: NON-RESOURCE ZONES
   last_checked: '2026-07-31'
 - id: benton-code-ovzo
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=OVZO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "91bc4191f8d61293f9d7834f2ab204bcc57974725b89d085198af6f81e53c4a5"
   title: OVERLAY ZONES
   last_checked: '2026-07-31'
 - id: benton-code-spusre
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=SPUSRE&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "4d994d5290fa70dfd4963e6612a8d4d53e6eb3d162fd8fc13f65aa48ccdf2cc8"
   title: SPECIFIC USE REGULATIONS
   last_checked: '2026-07-31'
 - id: benton-code-ladest
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=LADEST&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "5e31b8fa0d9953f4263edccdab7b027bf045cfafe436e5928dc35ec14cf76553"
   title: LAND DEVELOPMENT STANDARDS
   last_checked: '2026-07-31'
 - id: benton-code-amdeco
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=AMDECO&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "59172c6ab73417cf8bf209b05d6ef2a413d7c094e1cc17f575979174cc7dbb96"
   title: AMENDMENTS TO THE DEVELOPMENT CODE
   last_checked: '2026-07-31'
 - id: benton-code-cd_comparative_tableor
   url: https://api.municode.com/CodesContent?jobId=484971&nodeId=CD_COMPARATIVE_TABLEOR&productId=17262
   family: code
   format: json
-  sha256: ''
+  sha256: "604c6ef19e14a8462e2b80442d968264bf8f60a216db870540f1e9eced1f7a93"
   title: CODE COMPARATIVE TABLE - ORDINANCES
   last_checked: '2026-07-31'

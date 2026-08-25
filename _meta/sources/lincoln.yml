@@ -20,188 +20,188 @@ sources:
   url: https://www.co.lincoln.or.us/DocumentCenter/View/248/Cover-Chapter-Index-and-Codification-Notes-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "3a64e1daabec52c98467425f1b6fb7bf9bae07cb9f7b0bdbc8098865c1c42aa8"
   title: Cover-Chapter-Index-and-Codification-Notes-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-1-land-use-planning-comprehensive-plan-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/237/Chapter-1-Land-Use-Planning-Comprehensive-Plan-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "5e5e3c2450f8653a5e1babb368e46536f74bcf13cc3032ba9cface42081b8b30"
   title: Chapter-1-Land-Use-Planning-Comprehensive-Plan-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-2-environment-and-health-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/238/Chapter-2-Environment-and-Health-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "677f66eec100375b8876b29f63ea55aaea7099ecff9d547c26318a672ce2a0d0"
   title: Chapter-2-Environment-and-Health-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-3-building-code-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/239/Chapter-3-Building-Code-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "a1cc6a22de835463e834b34097bd4813c2f909d5ed4249baee6f2f486ddb34eb"
   title: Chapter-3-Building-Code-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-4-business-regulations-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/240/Chapter-4-Business-Regulations-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "74d643c23af271ee0271e0a7983e20dde7c9951806aa452a6960df01f254d2a4"
   title: Chapter-4-Business-Regulations-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-5-taxes-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/241/Chapter-5-Taxes-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "2fc2e50a553992adbe1152667faaa91a0a1190b0af7f73b6ae4e873915c64192"
   title: Chapter-5-Taxes-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-6-roads-and-surveyor-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/242/Chapter-6-Roads-and-Surveyor-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "bc4aea28d675c3aa1e27cde401c6f4860b9bdfc2c0f1d3da8fd05bcbd1398aac"
   title: Chapter-6-Roads-and-Surveyor-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-7-general-administration-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/243/Chapter-7-General-Administration-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "804254982126fbb00b17145d782d0206f1f144df192ed120e7c008a0e72353b1"
   title: Chapter-7-General-Administration-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-8-elections-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/244/Chapter-8-Elections-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "3b69b45376a5b45ab80b162560a8fa6d53a65c315433603f237b1b7f0f5ee792"
   title: Chapter-8-Elections-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-9-parks-and-recreation-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/245/Chapter-9-Parks-and-Recreation-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "732c690ebf95192f2149fe39bf4c947cb28aedec6faca207ef7b44fa2d6ecd8f"
   title: Chapter-9-Parks-and-Recreation-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-chapter-10-enforcement-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/246/Chapter-10-Enforcement-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "34568f2df62161d406aaf943defc9bd1830fcad994ea9894317f013e0c44d7f2"
   title: Chapter-10-Enforcement-PDF
   last_checked: '2026-07-31'
 - id: lincoln-code-combined-code-chapters-0-10-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/247/Combined-Code-Chapters-0--10-PDF
   family: code
   format: pdf
-  sha256: ''
+  sha256: "d509c005dd33ebdbf6a88d44599d17660ae4a55262cfd4fe2dac73754ad9ddb8"
   title: Combined-Code-Chapters-0--10-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-bayshore-dune-management-plan-background-report-february-201
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1076/Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "70347b9addc3b5692d7156531f4c533e236a644e9315c703de32b9f8a990c495"
   title: Bayshore-Dune-Management-Plan-Background-Report---February-2012-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-estuary-management-plan-september-1982-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1077/Estuary-Management-Plan---September-1982-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "5969907c74969bd706952f2c7946a3075e327b777dea0a771cfb6134358b7b46"
   title: Estuary-Management-Plan---September-1982-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-traffic-analysis-methodology-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1137/Traffic-Analysis-Methodology-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "35a8c1ee8b54eb23d79eb7fb332b62a4455a111787081c973fb9c1c3c447cedf"
   title: Traffic-Analysis-Methodology-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-state-transportation-improvement-program-stip-project-descri
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1169/State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "d88f616057506ff1dbd684f1b650af825765954d98970f824109b2ce35ce7413"
   title: State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-appendix-g-travel-demand-forecasting-methodology-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1170/Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "266fb3e2694829a5a4e0b385dbb6d69892a779a8a8e868566677e486e8e2f184"
   title: Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf
   last_checked: '2026-07-31'
 - id: lincoln-land-use-appendix-i-future-queuing-analysis-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1173/Appendix-I-Future-Queuing-Analysis-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "6503a4cfc8560df8e3ef63d5377080f85e466c965844c24a8014e937c9c90d2a"
   title: Appendix-I-Future-Queuing-Analysis-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-appendix-j-preliminary-turn-and-signal-warrant-analyses-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1174/Appendix-J-Preliminary-Turn-And-Signal-Warrant-Analyses-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "6d5a8e94f1ae799915fe0575f5c431c7146b2c1d703ce95c6dab912c3f4c10c5"
   title: Appendix-J-Preliminary-Turn-And-Signal-Warrant-Analyses-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-appendix-k-measures-of-effectiveness-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1175/Appendix-K-Measures-Of-Effectiveness-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "c1629d0ce89e5b449317d5400fa85fc61856610120bcfd1062174637fef0efa7"
   title: Appendix-K-Measures-Of-Effectiveness-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-appendix-m-connect-oregon-grant-application-summaries-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1187/Appendix-M-Connect-Oregon-Grant-Application-Summaries-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "e9d9d114e950e104a9e75210287390ea804604ad62e301c89cd05cc947807ac2"
   title: Appendix-M-Connect-Oregon-Grant-Application-Summaries-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-projects-listed-in-city-tsps-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1189/Projects-Listed-in-City-TSPs-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "85e4194915d5806fdef7bf5ab8dd671b495058b708c70b287add0742bc2cf200"
   title: Projects-Listed-in-City-TSPs-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-roadway-project-cost-estimates-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1190/Roadway-Project-Cost-Estimates-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "baa553e4a099a182fb66b8338797da3bef3e35378ca7dfc0cba0a97666e7b05f"
   title: Roadway-Project-Cost-Estimates-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-public-involvement-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1191/Public-Involvement-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "a42b5c32120c16251ce57de01e8c63506de6c8a3a1a4e17445a6967f1448adb7"
   title: Public-Involvement-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-appendix-q-lincoln-county-bicycle-plan-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1194/Appendix-Q-Lincoln-County-Bicycle-Plan-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "c2aa0a70cf35087ac39b998e8ccb5233d1c0ba9a4c7c16e463a51edfddcd6062"
   title: Appendix-Q-Lincoln-County-Bicycle-Plan-PDF
   last_checked: '2026-07-31'
 - id: lincoln-land-use-appendix-s-tpr-compliance-checklist-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/1204/Appendix-S-Tpr-Compliance-Checklist-PDF
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "e189d0a6fc305daaca690ab66a6ef606a3b0fd3002f6cd8a9fb0471dd4e74ca3"
   title: Appendix-S-Tpr-Compliance-Checklist-PDF
   last_checked: '2026-07-31'
 - id: lincoln-policies-lincoln-county-personnel-rules-pdf
   url: https://www.co.lincoln.or.us/DocumentCenter/View/6155/Lincoln-County-Personnel-Rules-PDF
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "3a0fd465cb3541b48c7e23696f4a8ef1e382360efb496157edeaefa3e8177837"
   title: Lincoln-County-Personnel-Rules-PDF
   last_checked: '2026-07-31'
