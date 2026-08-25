@@ -25,77 +25,77 @@ sources:
   url: https://ecode360.com/49959934
   family: code
   format: html
-  sha256: ''
+  sha256: "f5187df4da26ea129d67fc88d78acf30442f2a24798d2bcf3c05c2149618ae3b"
   title: 'Ttl 1: General Provisions'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-2-administration-and-personnel
   url: https://ecode360.com/49960235
   family: code
   format: html
-  sha256: ''
+  sha256: "8c57240ca5982af014e9df3d56699ab01163e861e274137473334777c4ae6c8b"
   title: 'Ttl 2: Administration and Personnel'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-3-revenue-and-finance
   url: https://ecode360.com/49960411
   family: code
   format: html
-  sha256: ''
+  sha256: "16db0e69a9389af8b64193dffc0e9bd87ddf3c435935fd3cfd6e93a993041558"
   title: 'Ttl 3: Revenue and Finance'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-5-business-taxes-licenses-and-regulations
   url: https://ecode360.com/49960808
   family: code
   format: html
-  sha256: ''
+  sha256: "73f2592a35e2241f82c6cf352e8fdadaa7dd8081d37664787a05defb06d5f21c"
   title: 'Ttl 5: Business Taxes, Licenses and Regulations'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-6-animal-control
   url: https://ecode360.com/49961353
   family: code
   format: html
-  sha256: ''
+  sha256: "b7ad5d85813d12a88d31bfb6f4ca1f230d470f77544d24c709a5176d174fe59e"
   title: 'Ttl 6: Animal Control'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-8-health-and-safety
   url: https://ecode360.com/49961597
   family: code
   format: html
-  sha256: ''
+  sha256: "e95af964ff63964842eba5e3be7ecfcabffb5d571c8a40ffa18422c655447fc0"
   title: 'Ttl 8: Health and Safety'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-9-public-peace-morals-and-welfare
   url: https://ecode360.com/49962403
   family: code
   format: html
-  sha256: ''
+  sha256: "993ed1c825857a0c28bcd31282dddfc1e4294be586d2395dc16aea64add251d2"
   title: 'Ttl 9: Public Peace, Morals and Welfare'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-10-vehicles-and-traffic
   url: https://ecode360.com/49962518
   family: code
   format: html
-  sha256: ''
+  sha256: "4f710b88003c5567b4b34564f05b2e89effa8214141de55be875a889f6b32e7e"
   title: 'Ttl 10: Vehicles and Traffic'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-12-streets-sidewalks-and-public-places
   url: https://ecode360.com/49962652
   family: code
   format: html
-  sha256: ''
+  sha256: "02386ebfee3f6a256660ab02a7883bfec6f621b9afc8a1ed6c1f17dac3ed8788"
   title: 'Ttl 12: Streets, Sidewalks and Public Places'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-13-public-services
   url: https://ecode360.com/49962883
   family: code
   format: html
-  sha256: ''
+  sha256: "c5e7256a7ed00d6909f67fc418f07189c342fd482321cc4fb827b0c9405f8be9"
   title: 'Ttl 13: Public Services'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-15-buildings-and-construction
   url: https://ecode360.com/49963012
   family: code
   format: html
-  sha256: ''
+  sha256: "d43fffad2519f11b357483b120807e98582d77b9f3b32cb8c0cd66b201b07a0c"
   title: 'Ttl 15: Buildings and Construction'
   last_checked: '2026-07-31'
 - id: crook-code-ttl-16-environment
@@ -130,20 +130,20 @@ sources:
   url: https://crookcountyor.gov/DocumentCenter/View/946/Employee-Handbook-110222-Clean-Copy
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "c932bdd335c56a053765d4c8986d2f8cdf5f80d50cb71df8109058e4c7d10211"
   title: Employee-Handbook-110222-Clean-Copy
   last_checked: '2026-07-31'
 - id: crook-land-use-crook-county-comprehensive-plan
   url: https://crookcountyor.gov/DocumentCenter/View/632/Crook-County-Comprehensive-Plan
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "695777030578f1b2f4d203c3aff0553fb409a9e73dd7cc3865dc0581d63e5425"
   title: Crook-County-Comprehensive-Plan
   last_checked: '2026-07-31'
 - id: crook-land-use-crook-county-comprehensive-plan-maps
   url: https://crookcountyor.gov/DocumentCenter/View/631/Crook-County-Comprehensive-Plan-Maps
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "6ca6c639233811a01eea75eb820e5bd0140c67ff0dab86b204b9ebbea50e5563"
   title: Crook-County-Comprehensive-Plan-Maps
   last_checked: '2026-07-31'

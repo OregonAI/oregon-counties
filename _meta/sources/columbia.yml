@@ -19,14 +19,14 @@ sources:
   url: https://www.columbiacountyor.gov/media/Board/BOC/Ordinances/Book%202/Livestock/2019-6%20%20Matter%20of%20Adopting%20the%20Columbia%20County%20Livestock%20at%20Large%20Nuisance%20Odinance.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "e1f10a8922bdb6dc7ed13e7f6df9d789121c0bb90876db5ea277b37221486efb"
   title: 2019-6  Matter of Adopting the Columbia County Livestock at Large Nuisance Odinance
   last_checked: '2026-07-31'
 - id: columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance
   url: https://www.columbiacountyor.gov/media/Board/BOC/Ordinances/Book%203/Parking%20and%20Towing/2019-5%20Matter%20of%20Adopting%20the%20Columbia%20County%20Parking%20and%20Towing%20Ordinance.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "239ed1bfb845fdd8d1dc9fa6f4b060c94014895311999540e7872057e1742462"
   title: 2019-5 Matter of Adopting the Columbia County Parking and Towing Ordinance
   last_checked: '2026-07-31'
 - id: columbia-orders-ordinances-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance
@@ -40,6 +40,6 @@ sources:
   url: https://www.columbiacountyor.gov/media/Land_Development/Permit%20Applications/2025-2026%20Permit%20Applications/Columbia%20County%20FY26%20Fee%20Increase%20EFF%209.1.25.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "41de19681e1d3450975cc0b5c8198e924e0789005f0413eb93b6d7fb4dcc31f2"
   title: Columbia County FY26 Fee Increase EFF 9.1.25
   last_checked: '2026-07-31'

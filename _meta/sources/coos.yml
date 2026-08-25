@@ -19,335 +19,335 @@ sources:
   url: https://cooscounty-or.specialdistrict.org/files/cf0806d91/coos_county_public_records_request_form.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "5da31a66bc1d337dbfa3d15661ca97a626c2477cc8a82c5315e02b4c407d817c"
   title: Coos County Public Records Request Form
   last_checked: '2026-07-31'
 - id: coos-code-table-of-contents
   url: https://co.coos.or.us/files/d6c9a9f82/table_of_contents.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "dbe34a8e5563112ffdf5c9e4ddde3b963861ffc7ce00add28d773aafb29b2a05"
   title: Table Of Contents
   last_checked: '2026-07-31'
 - id: coos-code-table-of-amendments
   url: https://co.coos.or.us/files/0dcc90d3d/table_of_amendments.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "54fe4fbaff93dbcfcb805b9e99ae15b6ed7a1883bfbbadf8444a56d2169e65cc"
   title: Table Of Amendments
   last_checked: '2026-07-31'
 - id: coos-code-article-1-general-administration
   url: https://co.coos.or.us/files/cb009902b/article_1_-_general_administration.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "1ee3c7ffcad182e2a710f0ba22b0791d571fe866e3aa5798ff8853cccbda3758"
   title: Article 1 - General Administration
   last_checked: '2026-07-31'
 - id: coos-code-article-2-regulations
   url: https://co.coos.or.us/files/ab8bfe1b6/article_2_-_regulations.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "1ce21afe13f7bebe72f8fe7e4f1e5f89920aeffa496d966718b5c2c7339c3e7a"
   title: Article 2 - Regulations
   last_checked: '2026-07-31'
 - id: coos-code-article-3-economic-development
   url: https://co.coos.or.us/files/66769fb76/article_3_-_economic_development.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "ef00908595699f59f3847fba2806bc36ee993458a95823774510ee4ea3dfe2a8"
   title: Article 3 - Economic Development
   last_checked: '2026-07-31'
 - id: coos-code-article-4-roads
   url: https://co.coos.or.us/files/7c644e4a4/article_4-_roads.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "53f1681c8855708a55f681fda5829129aa1fd1c1fe650940159a83c7d1c40444"
   title: Article 4- Roads
   last_checked: '2026-07-31'
 - id: coos-code-article-5-animal-control
   url: https://co.coos.or.us/files/c3eb26039/article_5_-_animal_control.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "57f09008aeac1adde77cd4a63b8d6feef10d0b9b72f4b3a291706f645512f98b"
   title: Article 5 - Animal Control
   last_checked: '2026-07-31'
 - id: coos-code-article-6-county-property-regulations
   url: https://co.coos.or.us/files/72c2d2438/article_6_-_county_property_regulations.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "b2c9794a77e510b4790fb882ac4590a7533c0b650eb72834f1f7eb10683c8641"
   title: Article 6 - County Property Regulations
   last_checked: '2026-07-31'
 - id: coos-code-article-7-environment-and-health
   url: https://co.coos.or.us/files/9796c4b16/article_7_-_environment_and_health.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "ff71d2e2bf3d4319d7965ad423ea58729998b889c863f3bdf2406011e78d6956"
   title: Article 7 - Environment And Health
   last_checked: '2026-07-31'
 - id: coos-code-article-8-elections-and-districts
   url: https://co.coos.or.us/files/20434a089/article_8_-_elections_and_districts.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "77be5d3be78fd0e00684182b5d0547e00ce792701ee63c74744581f23b67eecc"
   title: Article 8 - Elections And Districts
   last_checked: '2026-07-31'
 - id: coos-code-article-9-fees
   url: https://co.coos.or.us/files/25d908c7f/article_9_-_fees.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "00eae0f5180d755a45c4bea5354982e679a1c13bae9ca583ab3adf7f91fbca0e"
   title: Article 9 - Fees
   last_checked: '2026-07-31'
 - id: coos-code-article-10-emergency-management
   url: https://co.coos.or.us/files/3406e09ec/article_10_-_emergency_management.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "e28d735c3f1ba75ba053baa3928fc498955641403034dc90a1914323fcb4c4a6"
   title: Article 10 - Emergency Management
   last_checked: '2026-07-31'
 - id: coos-code-article-11-enforcement
   url: https://co.coos.or.us/files/b581f4435/article_11_-_enforcement.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "bea6410399351b5cd819bf1a36cc352ac5c486567169995121c5e9f43313db98"
   title: Article 11 - Enforcement
   last_checked: '2026-07-31'
 - id: coos-code-article-12-county-taxes
   url: https://co.coos.or.us/files/039c24fca/article_12_-_county_taxes.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "eb569eebc5e69c089b594bceff496cf88f72bc643e84ff75f42976f07a7e398e"
   title: Article 12 - County Taxes
   last_checked: '2026-07-31'
 - id: coos-code-article-13-community-development-land-use-buildings-and-cons
   url: https://co.coos.or.us/files/eda36f08f/article_13_-_community_development_land_use_buildings_and_construction.pdf
   family: code
   format: pdf
-  sha256: ''
+  sha256: "f43e1de9177d40fb0c5fe590059bd138138bf7f7a44adddceb49879038e2adcf"
   title: Article 13 - Community Development Land Use Buildings And Construction
   last_checked: '2026-07-31'
 - id: coos-land-use-coos-county-public-records-request-form
   url: https://cooscounty-or.specialdistrict.org/files/cf0806d91/coos_county_public_records_request_form.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "5da31a66bc1d337dbfa3d15661ca97a626c2477cc8a82c5315e02b4c407d817c"
   title: Coos County Public Records Request Form
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-1-general
   url: https://co.coos.or.us/files/ebaf940c6/chapter_1_general_.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "4d797f05f86341e15369d952da5c7e0e4a8df3b553ac68cac782819bd6a2fc07"
   title: Chapter 1 General
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-2-definitions
   url: https://co.coos.or.us/files/7c590263b/chapter_2_definitions.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "38a15e5bcb05b2221e02a2e5dcb1896c610aa419c5eb0fa581a2930be506fe72"
   title: Chapter 2 Definitions
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-3-estuary
   url: https://co.coos.or.us/files/c7dd7ad95/chapter_3_estuary_.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "5b30251d9667ae2686ab261a70add47f26f0177e272c3f97694acdf486de7072"
   title: Chapter 3 Estuary
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-4-balance-of-county-zones-special-development-consid
   url: https://co.coos.or.us/files/233244596/chapter_4_balance_of_county_zones_special_development_considerations_and_overlays.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "c02dffd6752c4e97c238179496f20952d6204c27f68b7eaf37fc6e8db8b84323"
   title: Chapter 4 Balance Of County Zones Special Development Considerations And Overlays
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-5
   url: https://co.coos.or.us/files/390e8f215/Chapter+5.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "08b3af9ece22950913fce438f738b2437d312c102bbbc9cc3a632bc8b0499c5b"
   title: Chapter+5
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-6-lots-and-parcels
   url: https://co.coos.or.us/files/e61169dff/chapter_6_lots_and_parcels_.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "6e7efc6a6a92b032fde6d50241bd3bd83b6286c4bf9af500625233b8b0508d3e"
   title: Chapter 6 Lots And Parcels
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-7-transportation-access-and-parking
   url: https://co.coos.or.us/files/659d3bab2/chapter_7_transportation_access_and_parking.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "123bcfe5771ccb6628ff496a14b5876c1b5d0c3f52170ed84a53907192448a4a"
   title: Chapter 7 Transportation Access And Parking
   last_checked: '2026-07-31'
 - id: coos-land-use-chapter-8-surveying-standards
   url: https://co.coos.or.us/files/c2ea050e3/chapter_8_surveying_standards.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "8ab09c0376e3cd4f03832a7b5de811d910e37e888b1dd5f006a44e8b58cb460c"
   title: Chapter 8 Surveying Standards
   last_checked: '2026-07-31'
 - id: coos-policies-coos-county-public-records-request-form
   url: https://cooscounty-or.specialdistrict.org/files/cf0806d91/coos_county_public_records_request_form.pdf
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "5da31a66bc1d337dbfa3d15661ca97a626c2477cc8a82c5315e02b4c407d817c"
   title: Coos County Public Records Request Form
   last_checked: '2026-07-31'
 - id: coos-policies-employee-handbook-updated-12-16-2025
   url: https://co.coos.or.us/files/b528359c8/employee_handbook_-_updated_12_16_2025.pdf
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "70da2fb76b8cb93032748f297cc3adf514ee6e527acbb1591e62ffc35d78201a"
   title: Employee Handbook - Updated 12 16 2025
   last_checked: '2026-07-31'
 - id: coos-policies-paid-leave-oregon-poster
   url: https://co.coos.or.us/files/068e5b4e8/paid_leave_oregon_poster.pdf
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "951b4b5951bf0f5f6b2ad5526b14e2a026184809e7ae97296e6bba75aff38710"
   title: Paid Leave Oregon Poster
   last_checked: '2026-07-31'
 - id: coos-policies-2026-holiday-list
   url: https://co.coos.or.us/files/b67324465/2026_holiday_list_.pdf
   family: policies
   format: pdf
-  sha256: ''
+  sha256: "4c04cacba2ea9e465b3d8495cb0c0f50fc5c49b8efc6b48a0fdd72955f1d66ca"
   title: 2026 Holiday List
   last_checked: '2026-07-31'
 - id: coos-orders-coos-county-public-records-request-form
   url: https://cooscounty-or.specialdistrict.org/files/cf0806d91/coos_county_public_records_request_form.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "5da31a66bc1d337dbfa3d15661ca97a626c2477cc8a82c5315e02b4c407d817c"
   title: Coos County Public Records Request Form
   last_checked: '2026-07-31'
 - id: coos-orders-8-4-26agenda-packet
   url: https://co.coos.or.us/files/2d87329d5/8-4-26agenda-packet.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "7c8da24b7d0eef60e55166112cf4cb078170006136a29034ec00a3596ea1f90f"
   title: 8-4-26Agenda-Packet
   last_checked: '2026-07-31'
 - id: coos-orders-7-20-26agenda-packet
   url: https://co.coos.or.us/files/a1525380c/7-20-26agenda-packet.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "16da483d5ed19a54e3c193e331aa3a5ca84faabb4af3b913286604a31a0cdf22"
   title: 7-20-26Agenda-Packet
   last_checked: '2026-07-31'
 - id: coos-orders-7-7-26revisedagenda-packet
   url: https://co.coos.or.us/files/a40dd2f3f/7-7-26RevisedAgenda-Packet.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "38a13db1f42242dd5045ecb9ec66e6e55ee6632faabb099bc32352a2840f5b86"
   title: 7-7-26RevisedAgenda-Packet
   last_checked: '2026-07-31'
 - id: coos-orders-7-7-26agenda-packet
   url: https://co.coos.or.us/files/41a1bb732/7-7-26Agenda-Packet.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "e545f8d2ce5658a1acbc3cca98c23baa27570947c9ce2855380f91c809cf2719"
   title: 7-7-26Agenda-Packet
   last_checked: '2026-07-31'
 - id: coos-orders-6-16-26agenda-packet
   url: https://co.coos.or.us/files/66bf5ff6a/6-16-26agenda-packet.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "79f3bf43c0bf7f81be7d7f322899796ce43ce58e1437c095030eea0d2d79ddb0"
   title: 6-16-26Agenda-Packet
   last_checked: '2026-07-31'
 - id: coos-orders-6-16-26-revised-agenda-packet
   url: https://co.coos.or.us/files/6ca532c79/6-16-26+revised+agenda++packet.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "6ae008af06a954c65a33963f62ddfc92805c5a4452e4cc9d06899288bc345485"
   title: 6-16-26+Revised+Agenda++Packet
   last_checked: '2026-07-31'
 - id: coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026revised
   url: https://co.coos.or.us/files/03c7d5c97/BoardOfCommissionersMeetingAgendaAndPacket-6-2-2026Revised.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "5f11b34cc798e865e5ecee722d1a62eef2ae5e4cf6a3cc6764cc0e0bcc8b9387"
   title: BoardOfCommissionersMeetingAgendaAndPacket-6-2-2026Revised
   last_checked: '2026-07-31'
 - id: coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026
   url: https://co.coos.or.us/files/27f870821/BoardOfCommissionersMeetingAgendaAndPacket-6-2-2026.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "b6af6a359b77df0c3f37f898e977275cfcf226b447e3553a513201fd8cdd4377"
   title: BoardOfCommissionersMeetingAgendaAndPacket-6-2-2026
   last_checked: '2026-07-31'
 - id: coos-orders-revised-boardofcommissionersagendapacket2026-05-19
   url: https://co.coos.or.us/files/915a17277/Revised+BoardOfCommissionersAgendaPacket2026-05-19.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "2165a0dadcd48f10e9bd19fb799d3b883dac89595c6d2c2ce9a951c3d289e51b"
   title: Revised+BoardOfCommissionersAgendaPacket2026-05-19
   last_checked: '2026-07-31'
 - id: coos-orders-bocminutes2026-05-19
   url: https://co.coos.or.us/files/868ce0dd3/BOCMinutes2026-05-19.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "1ee4169b9993c9a76669d8557771a4e897cb5ccd4b42d5e83c195e6c5bbd9887"
   title: BOCMinutes2026-05-19
   last_checked: '2026-07-31'
 - id: coos-orders-bocexecutivesessionminutes2026-05-11
   url: https://co.coos.or.us/files/c48c6ce7b/BOCExecutiveSessionMinutes2026-05-11.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "30c49bfed0b1ac7b25ab07f079c095d3411b4e328eff1a33583f9dd1c629350d"
   title: BOCExecutiveSessionMinutes2026-05-11
   last_checked: '2026-07-31'
 - id: coos-orders-revised-board-of-commissioners-meeting-agenda-and-packet-05-
   url: https://co.coos.or.us/files/d1fbbb0b4/Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "e09f45604ceaa7dbb3f1f6a6bf13301d3cf87072151aef05bcb2ae6dadf17668"
   title: Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026
   last_checked: '2026-07-31'
 - id: coos-orders-bocminutes2026-05-05
   url: https://co.coos.or.us/files/347c2408e/BOCminutes2026-05-05.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "06c0d209a75e60d3b9b9a19cf93c956ad3af577371cf0375377b956f3729f251"
   title: BOCminutes2026-05-05
   last_checked: '2026-07-31'
 - id: coos-orders-bocexecutivesessionminutes2026-04-30
   url: https://co.coos.or.us/files/fc7d0497d/BOCExecutiveSessionMinutes2026-04-30.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "706e2fe092cbb2405dd54ae7a6e134c4db8e20b6b36f16c3d924fc5649f4db4d"
   title: BOCExecutiveSessionMinutes2026-04-30
   last_checked: '2026-07-31'
 - id: coos-orders-board-of-commissioners-meeting-agenda-and-packet-04-21-26
   url: https://co.coos.or.us/files/5ea681eaf/board_of_commissioners_meeting_agenda_and_packet-04-21-26.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "becfed590c22a26b38e7d9546fa15bef03f317ead2a12874ecde76ebbaf55e6a"
   title: Board Of Commissioners Meeting Agenda And Packet-04-21-26
   last_checked: '2026-07-31'
 - id: coos-orders-bocminutes2026-04-21
   url: https://co.coos.or.us/files/fe4715f47/BOCMinutes2026-04-21.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "cadedf7599f0f4966acb930b342a42491452b60ff9e5b07b8b16b3e524702d3e"
   title: BOCMinutes2026-04-21
   last_checked: '2026-07-31'
 - id: coos-orders-4-21-26-agenda-packet
   url: https://co.coos.or.us/files/b89b8b34f/4-21-26+agenda+%26+packet.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "becfed590c22a26b38e7d9546fa15bef03f317ead2a12874ecde76ebbaf55e6a"
   title: 4-21-26+Agenda+&+Packet
   last_checked: '2026-07-31'
 - id: coos-orders-4-21-26-agenda-packet-1
   url: https://co.coos.or.us/files/d3635eccf/4-21-26+agenda+%26+packet+%281%29.pdf
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "becfed590c22a26b38e7d9546fa15bef03f317ead2a12874ecde76ebbaf55e6a"
   title: 4-21-26+Agenda+&+Packet+(1)
   last_checked: '2026-07-31'

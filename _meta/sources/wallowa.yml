@@ -27,14 +27,14 @@ sources:
   url: https://www.co.wallowa.or.us/sites/g/files/vyhlif14051/files/media/land-use-and-development/file/5261/Application%20Pack_Fillable.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "194f245fa9d6087d392dca4b80ca9147edd555b4d1d999b8ddaa9e2927da9a1c"
   title: Application Pack Fillable
   last_checked: '2026-07-31'
 - id: wallowa-land-use-2024-onsite-fee-schedule
   url: https://www.co.wallowa.or.us/sites/g/files/vyhlif14051/files/media/land-use-and-development/file/5266/2024-Onsite-Fee-Schedule.pdf
   family: land-use
   format: pdf
-  sha256: ''
+  sha256: "970f6936f19a9ec88ed30e683019262e3c940134bbdbe1ac229deddf97f3d04c"
   title: 2024-Onsite-Fee-Schedule
   last_checked: '2026-07-31'
 - id: wallowa-land-use-volume-i-wallowabasicplan-rf
