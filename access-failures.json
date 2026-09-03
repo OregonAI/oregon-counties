@@ -1,0 +1,335 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-1-general-provisions"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-10-vehicles-and-traffic"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-12-streets-sidewalks-and-public-places"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-15-buildings-and-construction"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-16-land-and-water-development-and-use"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-2-administration-and-personnel"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-3-revenue-and-finance"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-5-business-regulations"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-6-animals"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-7-solid-waste"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-8-health-and-safety"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-9-environmental-health-program"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-cha-home-rule-charter-for-the-government-of-clatsop-coun"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "clatsop",
+      "id": "clatsop-code-ttl-ol-ordinance-list-and-disposition-table"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "columbia",
+      "id": "columbia-orders-ordinances-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-1-general-provisions"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-10-vehicles-and-traffic"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-12-streets-sidewalks-and-public-places"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-13-public-services"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-15-buildings-and-construction"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-16-environment"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-17-subdivisions"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-18-zoning"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-2-administration-and-personnel"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-3-revenue-and-finance"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-5-business-taxes-licenses-and-regulations"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-6-animal-control"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-8-health-and-safety"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-9-public-peace-morals-and-welfare"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "crook",
+      "id": "crook-code-ttl-ol-ordinance-list-and-disposition-table"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "klamath",
+      "id": "klamath-policies-2026-classification-tables-non-union"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-1"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-10"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-12"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-13"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-15"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-2"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-3"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-5"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-6"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-8"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-code-9"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-land-use-16"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-land-use-17"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "lake",
+      "id": "lake-land-use-18"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "multnomah",
+      "id": "multnomah-orders-proclamation-proclaiming-june-2020-as-pride-month-for-the-lg"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "multnomah",
+      "id": "multnomah-orders-proclamation-proclaiming-june-2021-as-pride-month-for-the-le"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "multnomah",
+      "id": "multnomah-orders-proclamation-proclaiming-june-2022-as-pride-month-for-the-le"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "multnomah",
+      "id": "multnomah-orders-proclamation-proclaiming-june-2023-as-pride-month-for-the-le"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "multnomah",
+      "id": "multnomah-orders-proclamation-proclaiming-june-2024-as-pride-month-for-the-tw"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "wallowa",
+      "id": "wallowa-land-use-volume-i-wallowabasicplan-rf"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "wallowa",
+      "id": "wallowa-land-use-volume-ii-wallowa-mjnhmp-final"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "wallowa",
+      "id": "wallowa-land-use-volume-iii-wallowa-mjnhmp-final-rev23-09-11"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "wasco",
+      "id": "wasco-code-building-codes-ordinance-19-002"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-09-03",
+      "group": "wasco",
+      "id": "wasco-code-wascoc-2"
+    }
+  ]
+}

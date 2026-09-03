@@ -1,6 +1,6 @@
 # STATUS — Oregon Counties — Code, Ordinances, Policy and Land Use
 
-Generated 2026-08-24. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-09-03. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
