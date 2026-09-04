@@ -33,7 +33,8 @@ import yaml
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
 from corpus_toolkit import config as config_mod          # noqa: E402
-from corpus_toolkit.repo import hash_snapshot            # noqa: E402
+from corpus_toolkit.documents import write_document      # noqa: E402
+from corpus_toolkit.sources.snapshots import record_snapshot  # noqa: E402
 from src import extract, fetch                           # noqa: E402
 from src.profiles import load_profiles                   # noqa: E402
 
@@ -564,38 +565,7 @@ def _titleize(name: str) -> str:
 
 # ------------------------------------------------------------------ ingestion
 
-DOC = """\
----
-schema_version: 1
-corpus: oregon-counties
-jurisdiction: {jurisdiction}
-id: {id}
-title: {title!r}
-doc_type: {doc_type}
-citation: {citation!r}
-authority_level: {authority_level}
-issuing_body: {issuing_body!r}
-source_url: {url}
-source_format: {fmt}
-retrieved: '{retrieved}'
-source_sha256: {sha}
-snapshot_policy: hash-only
-effective_date: null
-source_version: null
-status: current
-content_mode: verbatim
-last_verified: ''
-verified_by: ''
-maintainer: 'OregonAI'
-relationships:
-  implements: []
-  implemented_by: []
-  references_external: []
-  related: []
-  supersedes: []
-tags: [{tags}]
----
-
+BODY = """\
 > **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
 > published by {issuing_body} at the source URL above. Verify at source before relying on it.
 
@@ -609,6 +579,25 @@ tags: [{tags}]
 
 {text}
 """
+
+
+def frontmatter_for(*, jurisdiction, sid, title, doc_type, citation, authority_level,
+                    issuing_body, url, fmt, retrieved, sha, tags) -> dict:
+    """The document's frontmatter. Order, defaults and validation are the toolkit's
+    (`write_document`); what is here is what this corpus asserts."""
+    return {
+        "schema_version": 1, "corpus": "oregon-counties", "jurisdiction": jurisdiction,
+        "id": sid, "title": title, "doc_type": doc_type, "citation": citation,
+        "authority_level": authority_level, "issuing_body": issuing_body,
+        "source_url": url, "source_format": fmt, "retrieved": retrieved,
+        "source_sha256": sha, "snapshot_policy": "hash-only",
+        "effective_date": None, "source_version": None, "status": "current",
+        "content_mode": "verbatim", "last_verified": "", "verified_by": "",
+        "maintainer": "OregonAI",
+        "relationships": {"implements": [], "implemented_by": [], "references_external": [],
+                          "related": [], "supersedes": []},
+        "tags": list(tags),
+    }
 
 
 def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = None,
@@ -668,25 +657,28 @@ def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = 
             else:
                 text, stats = extract.extract_html(raw)
             extract.assert_extracted(text, sid)
-            (SNAPSHOTS / f"{sid}.txt").write_text(text, encoding="utf-8")
+            # The toolkit writes <sid>.txt, hashes both ways and moves this source's drift
+            # baseline in the group file (ADR-0016). The in-memory record follows so the
+            # whole-file rewrite below carries the same value.
+            recorded = record_snapshot(config, sid, raw, fmt, text)
+            src["sha256"] = recorded.content_hash
 
             doc_dir = COUNTIES / f"{slug}-county" / family
-            doc_dir.mkdir(parents=True, exist_ok=True)
             doc_path = doc_dir / f"{sid}.md"
             _, retrieved = fetch.source_dates(snap, fresh, doc_path)
 
-            doc_path.write_text(DOC.format(
-                jurisdiction=f"oregon/{slug}-county", id=sid, title=src["title"],
-                doc_type=FAMILY_DOCTYPE[family],
-                citation=src.get("citation") or src["title"],
+            title, citation = src["title"], src.get("citation") or src["title"]
+            write_document(config, doc_path, frontmatter_for(
+                jurisdiction=f"oregon/{slug}-county", sid=sid, title=title,
+                doc_type=FAMILY_DOCTYPE[family], citation=citation,
                 authority_level=FAMILY_AUTHORITY[family], issuing_body=issuing,
-                url=src["url"], fmt=fmt, retrieved=retrieved,
-                sha=hash_snapshot(sid, fmt, SNAPSHOTS),
-                tags=", ".join([f"{slug}-county", family]),
-                glance=f"{_titleize(src['title'])} — {family.replace('-', ' ')} of "
-                       f"{county['name']}. "
-                       f"{', '.join(f'{v} {k}' for k, v in stats.items())}.",
-                text=text), encoding="utf-8")
+                url=src["url"], fmt=fmt, retrieved=retrieved, sha=recorded.sha256,
+                tags=[f"{slug}-county", family]),
+                BODY.format(issuing_body=issuing, title=title, citation=citation,
+                            glance=f"{_titleize(src['title'])} — {family.replace('-', ' ')} of "
+                                   f"{county['name']}. "
+                                   f"{', '.join(f'{v} {k}' for k, v in stats.items())}.",
+                            text=text))
             ok += 1
         except Exception as e:                    # noqa: BLE001 — reported, not hidden
             failed += 1

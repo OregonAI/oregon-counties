@@ -60,14 +60,17 @@ import yaml
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
-from corpus_toolkit.repo import hash_snapshot          # noqa: E402
+from corpus_toolkit import config as config_mod        # noqa: E402
+from corpus_toolkit.documents import write_document    # noqa: E402
+from corpus_toolkit.sources.snapshots import record_snapshot  # noqa: E402
 from src import extract, fetch                         # noqa: E402
-from src.ingest_counties import (DOC, FAMILY_AUTHORITY,  # noqa: E402
-                                 FAMILY_DOCTYPE, _titleize)
+from src.ingest_counties import (BODY, FAMILY_AUTHORITY,  # noqa: E402
+                                 FAMILY_DOCTYPE, _titleize, frontmatter_for)
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "_meta" / "sources"
 SNAPSHOTS = ROOT / "_meta" / "snapshots"
+CONFIG = config_mod.load(ROOT / "_meta" / "corpus.yml")
 COUNTIES = ROOT / "counties"
 
 MIN_WORDS = 100
@@ -252,41 +255,39 @@ def recover(slug: str, src: dict, registry: dict, dry: bool) -> str:
             return f"PASS (dry-run): {score}"
 
         text = extract.guard_headings(re.sub(r"\n{3,}", "\n\n", t1).strip())
-        (SNAPSHOTS / f"{sid}.txt").write_text(text, encoding="utf-8")
-        (SNAPSHOTS / f"{sid}.pdf").write_bytes(raw)   # gitignored; for hash_snapshot only
+        # The toolkit writes <sid>.txt and <sid>.pdf (the latter gitignored), hashes both
+        # ways and moves the drift baseline (ADR-0016).
+        recorded = record_snapshot(CONFIG, sid, raw, "pdf", text)
 
         county = registry[f"{slug}-county"]
         body_name = ("County Court" if county["governing_body"] == "county-court"
                      else "Board of Commissioners")
         doc_dir = COUNTIES / f"{slug}-county" / src["family"]
-        doc_dir.mkdir(parents=True, exist_ok=True)
-        md = DOC.format(
-            jurisdiction=f"oregon/{slug}-county", id=sid,
-            title=src.get("title") or _titleize(sid),
-            doc_type=FAMILY_DOCTYPE[src["family"]],
-            citation=src.get("citation") or src.get("title") or sid,
-            authority_level=FAMILY_AUTHORITY[src["family"]],
-            issuing_body=f"{county['name']} {body_name}",
+        title = src.get("title") or _titleize(sid)
+        citation = src.get("citation") or src.get("title") or sid
+        issuing = f"{county['name']} {body_name}"
+        fm = frontmatter_for(
+            jurisdiction=f"oregon/{slug}-county", sid=sid, title=title,
+            doc_type=FAMILY_DOCTYPE[src["family"]], citation=citation,
+            authority_level=FAMILY_AUTHORITY[src["family"]], issuing_body=issuing,
             url=src["url"], fmt="pdf", retrieved=time.strftime("%Y-%m-%d"),
-            sha=hash_snapshot(sid, "pdf", SNAPSHOTS),
-            tags=", ".join([f"{slug}-county", src["family"], "ocr-derived"]),
-            glance=f"OCR-derived text of {src.get('title') or sid}. Not human-verified.",
-            text=text)
-        # Swap the generic banner for the OCR one, and disclose provenance in frontmatter.
-        md = re.sub(r"> \*\*NON-AUTHORITATIVE\.\*\*.*?\n\n", BANNER.format(agree=wr) + "\n",
-                    md, count=1, flags=re.S)
-        md = md.replace("maintainer: 'OregonAI'",
-                        "maintainer: 'OregonAI'\n"
-                        "text_source: ocr\n"
-                        f"conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 "
-                        f"and PaddleOCR PP-OCRv6, run independently on the same scan. Word "
-                        f"agreement {wr:.3f}; figure agreement "
-                        f"{'n/a' if fr is None else f'{fr:.3f}'}; dictionary ratio {dr:.3f}. "
-                        f"Artifacts disclosed, not repaired. NOT human-verified.'")
-        md = md.rstrip() + "\n" + CURATOR.format(
+            sha=recorded.sha256, tags=[f"{slug}-county", src["family"], "ocr-derived"])
+        # Disclose provenance in frontmatter: OCR-derived, two engines, agreement figures.
+        fm["text_source"] = "ocr"
+        fm["conversion_notes"] = (
+            f"OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run "
+            f"independently on the same scan. Word agreement {wr:.3f}; figure agreement "
+            f"{'n/a' if fr is None else f'{fr:.3f}'}; dictionary ratio {dr:.3f}. Artifacts "
+            f"disclosed, not repaired. NOT human-verified.")
+        body = BODY.format(issuing_body=issuing, title=title, citation=citation,
+                           glance=f"OCR-derived text of {title}. Not human-verified.", text=text)
+        # Swap the generic banner for the OCR one.
+        body = re.sub(r"> \*\*NON-AUTHORITATIVE\.\*\*.*?\n\n", BANNER.format(agree=wr) + "\n",
+                      body, count=1, flags=re.S)
+        body = body.rstrip() + "\n" + CURATOR.format(
             e1="ocrmypdf/tesseract", e2="PaddleOCR PP-OCRv6",
             agree=wr, figs=figs, dratio=dr)
-        (doc_dir / f"{sid}.md").write_text(md, encoding="utf-8")
+        write_document(CONFIG, doc_dir / f"{sid}.md", fm, body)
         return f"PROMOTED: {score}"
 
 
