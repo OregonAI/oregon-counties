@@ -34,8 +34,10 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
 from corpus_toolkit import config as config_mod          # noqa: E402
 from corpus_toolkit.documents import write_document      # noqa: E402
+from corpus_toolkit.repo import parse_frontmatter         # noqa: E402
 from corpus_toolkit.sources.snapshots import record_snapshot  # noqa: E402
 from src import extract, fetch                           # noqa: E402
+from src import link_citations                           # noqa: E402
 from src.profiles import load_profiles                   # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -584,7 +586,17 @@ BODY = """\
 def frontmatter_for(*, jurisdiction, sid, title, doc_type, citation, authority_level,
                     issuing_body, url, fmt, retrieved, sha, tags) -> dict:
     """The document's frontmatter. Order, defaults and validation are the toolkit's
-    (`write_document`); what is here is what this corpus asserts."""
+    (`write_document`); what is here is what this corpus asserts.
+
+    `references_external` is always written empty here. `src/link_citations.py` is the
+    sole generator of that field (AGENTS.md) and writes it as a four-space-indented list
+    edited in place as text; `write_document`'s `yaml.safe_dump` indents list items at the
+    key's own indent instead, so handing it a populated list here would write a block
+    `link_citations.py --check` does not recognise, and the next real run of
+    `link_citations.py` would insert its own four-space block ABOVE the mismatched one
+    instead of replacing it. `ingest_county` calls `link_citations.rewrite` right after
+    this to put any carried-forward citations back in the one format the corpus uses (#111).
+    """
     return {
         "schema_version": 1, "corpus": "oregon-counties", "jurisdiction": jurisdiction,
         "id": sid, "title": title, "doc_type": doc_type, "citation": citation,
@@ -594,7 +606,8 @@ def frontmatter_for(*, jurisdiction, sid, title, doc_type, citation, authority_l
         "effective_date": None, "source_version": None, "status": "current",
         "content_mode": "verbatim", "last_verified": "", "verified_by": "",
         "maintainer": "OregonAI",
-        "relationships": {"implements": [], "implemented_by": [], "references_external": [],
+        "relationships": {"implements": [], "implemented_by": [],
+                          "references_external": [],
                           "related": [], "supersedes": []},
         "tags": list(tags),
     }
@@ -668,6 +681,19 @@ def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = 
             _, retrieved = fetch.source_dates(snap, fresh, doc_path)
 
             title, citation = src["title"], src.get("citation") or src["title"]
+            references_external = []
+            if doc_path.is_file():
+                # Re-ingest of an existing document: `src/link_citations.py` fills this list
+                # after ingest, and a from-scratch rewrite here would silently erase that
+                # work every time the source is re-fetched (#111). A document that fails to
+                # parse is left to `link_citations.py` to repair on its own next run rather
+                # than turned into a failed ingest here.
+                try:
+                    existing_fm, _ = parse_frontmatter(doc_path)
+                    references_external = (existing_fm.get("relationships") or {}).get(
+                        "references_external") or []
+                except ValueError:
+                    pass
             write_document(config, doc_path, frontmatter_for(
                 jurisdiction=f"oregon/{slug}-county", sid=sid, title=title,
                 doc_type=FAMILY_DOCTYPE[family], citation=citation,
@@ -679,6 +705,12 @@ def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = 
                                    f"{county['name']}. "
                                    f"{', '.join(f'{v} {k}' for k, v in stats.items())}.",
                             text=text))
+            if references_external:
+                # `write_document`'s YAML dump indents list items at the key's own indent;
+                # `link_citations.py` reads and writes a four-space-indented block instead
+                # (see `frontmatter_for`). Reuse its writer so the carried-forward value
+                # lands in the one format the corpus and its `generated` gate agree on.
+                link_citations.rewrite(doc_path, references_external)
             ok += 1
         except Exception as e:                    # noqa: BLE001 — reported, not hidden
             failed += 1
