@@ -7,6 +7,18 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased] — Yamhill and Curry recovered
 
 ### Fixed
+- 2026-09-04 — `ingest_counties.py` re-ingesting an existing document dropped
+  `relationships.references_external` back to `[]`, silently undoing
+  `link_citations.py` work on every `--refetch` or re-run. The ingester now
+  carries the existing document's `references_external` forward when the
+  document already exists, and writes it back through `link_citations.rewrite`
+  rather than through `write_document`'s YAML dump — the dump indents list
+  items at the key's own indent, which `link_citations.py --check` does not
+  recognise as current, so a re-ingest still failed the `generated` gate and a
+  subsequent `link_citations.py` run duplicated the block instead of
+  replacing it. A document whose existing frontmatter fails to parse is now
+  re-ingested with an empty list (for `link_citations.py` to repopulate on its
+  own next run) instead of counted as a failed source (#111).
 - 2026-08-02 — `llms.txt` `## Contents` was still the template's empty stub — an
   advertised agent entry point serving an empty index (corpus-template#16).
   Filled with annotated entries for `counties/<slug>/`, the county registry,
