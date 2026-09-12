@@ -20,9 +20,19 @@
 #                   refuse an honestly-identified agent while serving a browser. Getting past
 #                   one means misrepresenting what we are, which this project does not do —
 #                   see AGENTS.md. They are scheduled LAST rather than dropped, because the
-#                   blocker is a commercial intermediary and may lift: registering with
-#                   Cloudflare's Verified Bots programme would unblock all four at once.
+#                   blocker is a commercial intermediary and may lift.
 #                   `deferred` is never evidence about what a county publishes.
+#
+#                   CLOSED, 2026-09-11 (operator): registering with Cloudflare's Verified
+#                   Bots programme was the standing plan for unblocking all four at once.
+#                   It is not available to this project. Verified Bots requires a crawler
+#                   operating from stable, published IP space that Cloudflare can attest;
+#                   this corpus is built from a home network, which cannot supply that.
+#                   The remaining routes are per-county and do not scale: ask the county to
+#                   allowlist the honest UA, or request the records under ORS 192.311-192.478
+#                   (the county is not the party blocking, so a records request is unaffected
+#                   by the challenge). Do not re-propose Verified Bots without that premise
+#                   changing — it was re-derived twice before being written down here.
 #
 # Ordered by population descending, which is also the build order.
 #
