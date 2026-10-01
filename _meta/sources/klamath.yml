@@ -299,7 +299,7 @@ sources:
   url: https://www.klamathcounty.org/DocumentCenter/View/63732/2026-Classification-Tables---Non-Union
   family: policies
   format: pdf
-  sha256: "7a23f8b565a2701508af62b1d9c304eff70cdadbd815890c33e5aa06fc2f9d99"
+  sha256: "7aaa70576d63564d7c9c7630d49c6d18619c909380f56075e31c215a6a98ceee"
   title: 2026-Classification-Tables---Non-Union
   notes: 'RELOCATED 2026-10-01: DocumentCenter id 39408 404s (DocumentCenter reassigns a new
     numeric id on every re-upload). Current id found via the county''s own listing of record,
@@ -307,7 +307,9 @@ sources:
     Classification Tables - Non Union" at id 63732; fetched 2026-10-01 and confirmed
     application/pdf. Its content hash differs from the one recorded here, so this is also a
     content update, not a pure move -- out of scope for oregon-counties#85 (a 404 pass, not a
-    re-ingestion pass). --record-baseline=refresh accepts the new hash without re-extracting
-    text; re-ingesting the current table''s text is follow-up work a human should file, not
-    done here.'
+    re-ingestion pass). The baseline sha256 above is deliberately left as the OLD hash (not the
+    observed one at the new URL) so the next drift run reports this source under "Changed since
+    baseline" and queues the re-ingest; do not run --record-baseline=refresh on it. Re-ingesting
+    the current table''s text and updating the document''s source_url/source_sha256 is follow-up
+    work a human should file, not done here.'
   last_checked: '2026-10-01'

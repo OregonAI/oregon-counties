@@ -7,27 +7,38 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased] — Yamhill and Curry recovered
 
 ### Source-Updated
-- 2026-10-01 — Ten 404'd county sources (oregon-counties#85), all confirmed relocated, none
-  withdrawn:
-  - Multnomah 5 Pride Month proclamations (2020-2024): `multco.us`'s own `/file/.../download`
-    link rotted for each (the Drupal file entity, not the catalogue record — the board-documents
-    listing of record still names and dates every one). Relocated to the Granicus MetaViewer
-    record of the same signed document, the same source multco.us's own news coverage of each
-    proclamation links to. Baselines seeded.
+- 2026-10-01 — Ten 404'd county sources (oregon-counties#85) triaged; relocated, removed, and
+  could-not-determine, none withdrawn:
   - Wallowa 3 land-use/hazard-mitigation-plan volumes: the county's own comprehensive-plan-goals
     page still links the dead `vyhlif10466` CDN URLs for all three — not withdrawn, just stale
-    on the county's own listing. Relocated to the current 2022-2027 edition of the same plan at
-    the county's Natural Hazard Mitigation Plan page. Baselines seeded.
+    on the county's own listing. Pointed at the current 2022-2027 edition of the same plan at
+    the county's Natural Hazard Mitigation Plan page, but the old PDFs were never hashed or
+    archived (no Wayback CDX captures), so byte-level identity with the new files cannot be
+    shown — recorded as the current edition the county now publishes, not a confirmed move.
+    The combined-plan entry's title/citation were corrected from an inferred "Volume I" to the
+    county's own link text ("Wallowa County Multi-Jurisdictional Natural Hazard Mitigation Plan
+    (2022-2027)"); it is one combined document, not a volume.
   - Klamath 1 (`2026-Classification-Tables---Non-Union`, found by a 2026-10-01 survey, not in
     the issue's original count of nine): DocumentCenter reassigned a new numeric id on
-    re-upload. Relocated via the county's own Policies & Union Contracts listing. Content also
-    changed at the new id (not merely moved); baseline accepted via `--record-baseline=refresh`
-    without re-ingesting — re-ingesting the current table's text is separate follow-up work.
+    re-upload. URL updated via the county's own Policies & Union Contracts listing, but its
+    content also changed at the new id (not merely moved — out of scope for a 404 pass). The
+    manifest's baseline sha256 is deliberately left at the OLD hash so drift detection reports
+    it as changed and queues the re-ingest; re-ingesting the current table's text and updating
+    the document's `source_url`/`source_sha256` is separate follow-up work.
   - Columbia 1: `columbia-orders-ordinances-2019-5-...` was a stale duplicate manifest entry
     for an ordinance already correctly tracked, with a working URL and a seeded baseline, under
     `columbia-orders-2019-5-...`. No document ever existed for the duplicate entry (sha256 was
-    never seeded), so it is removed from the manifest rather than "relocated" a second time;
-    nothing in the corpus was deleted.
+    never seeded), so it is removed from the manifest (dedup, not a relocation) rather than
+    "relocated" a second time; nothing in the corpus was deleted.
+  - Multnomah 5 Pride Month proclamations (2020-2024): `multco.us`'s own `/file/.../download`
+    link rotted for each (the Drupal file entity, not the catalogue record — the board-documents
+    listing of record still names and dates every one). `multco.us`'s own news coverage of each
+    links to a Granicus MetaViewer record of the same signed document, but
+    `multnomah.granicus.com/robots.txt` serves a blanket `User-agent: * / Disallow: /`, and
+    AGENTS.md's access exception (PLAN.md Phase 12) covers only ClaudeBot-specific directives on
+    the text of county law — board proclamations aren't county law, and this isn't a
+    ClaudeBot-specific directive. Recorded as could-not-determine rather than relocated; using
+    the Granicus host needs an operator ruling first.
   - Wasco's 2 sources noted in the same survey are 403 (bot-blocked), not 404 — out of scope,
     tracked separately from this 404 pass.
 
