@@ -1,6 +1,6 @@
 # STATUS — Oregon Counties — Code, Ordinances, Policy and Land Use
 
-Generated 2026-09-03. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-10-01. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
@@ -13,7 +13,7 @@ Generated 2026-09-03. Non-authoritative; see DISCLAIMER.md.
 
 ## Source manifest
 
-3447 declared source(s) across 28 group(s) in `sources`.
+3446 declared source(s) across 28 group(s) in `sources`.
 
 ## Freshness (reverify every 180 days)
 

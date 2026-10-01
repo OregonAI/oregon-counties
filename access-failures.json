@@ -88,12 +88,6 @@
     {
       "consecutive_failures": 1,
       "first_failed_at": "2026-09-03",
-      "group": "columbia",
-      "id": "columbia-orders-ordinances-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-1-general-provisions"
     },
@@ -183,9 +177,9 @@
     },
     {
       "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
+      "first_failed_at": "2026-10-01",
       "group": "klamath",
-      "id": "klamath-policies-2026-classification-tables-non-union"
+      "id": "klamath-policies-local-701-collective-bargaining-agreement-2023-2026"
     },
     {
       "consecutive_failures": 1,
@@ -270,54 +264,6 @@
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-land-use-18"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "multnomah",
-      "id": "multnomah-orders-proclamation-proclaiming-june-2020-as-pride-month-for-the-lg"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "multnomah",
-      "id": "multnomah-orders-proclamation-proclaiming-june-2021-as-pride-month-for-the-le"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "multnomah",
-      "id": "multnomah-orders-proclamation-proclaiming-june-2022-as-pride-month-for-the-le"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "multnomah",
-      "id": "multnomah-orders-proclamation-proclaiming-june-2023-as-pride-month-for-the-le"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "multnomah",
-      "id": "multnomah-orders-proclamation-proclaiming-june-2024-as-pride-month-for-the-tw"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "wallowa",
-      "id": "wallowa-land-use-volume-i-wallowabasicplan-rf"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "wallowa",
-      "id": "wallowa-land-use-volume-ii-wallowa-mjnhmp-final"
-    },
-    {
-      "consecutive_failures": 1,
-      "first_failed_at": "2026-09-03",
-      "group": "wallowa",
-      "id": "wallowa-land-use-volume-iii-wallowa-mjnhmp-final-rev23-09-11"
     },
     {
       "consecutive_failures": 1,
