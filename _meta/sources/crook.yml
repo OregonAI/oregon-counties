@@ -3,15 +3,29 @@ title: Crook County sources
 county: crook-county
 crawl:
   decision: proceed
-  checked: '2026-08-01'
-  basis: 'Same as Clatsop: ecode360.com serves the honest agent HTTP 200 and states no AI-agent directive.
-    The survey''s 403 was a thin-request artefact.'
+  checked: '2026-09-12'
+  basis: 'Same as Clatsop: ecode360.com served the honest agent HTTP 200 on 2026-08-01, with
+    no AI-agent directive of its own, and the survey''s 403 was a thin-request artefact. That
+    is no longer the current state. Re-tested 2026-09-12 against both the August-seeded titles
+    and the four that never seeded: all 15 ecode360.com sources now return a Cloudflare managed
+    challenge (HTTP 403) to the same honestly-identified fetcher (OregonAI/oregon-counties#84)
+    — the block tightened after this group was built, which is evidence about the host, not
+    about us. Decision stays ''proceed'': crookcountyor.gov is unaffected and still serves the
+    other 3 sources in this group, and a group-level ''unavailable'' would wrongly stop those
+    too (src/ingest_counties.py). Operator decision 2026-09-12 (route 3): no further automated
+    attempt — Verified Bots is closed off permanently (home network, #116) — instead an ORS
+    192.311-192.478 records request to Crook County for the code text, since the county
+    publishes it and does not operate the block.'
   hosts:
   - host: ecode360.com
     robots_url: https://ecode360.com/robots.txt
     ai_block: false
     content_signal: null
-    notes: General Code storefront; 200 to the honest agent.
+    notes: 'General Code storefront. Robots.txt declares no AI-agent directive of its own —
+      ai_block above reflects that, not the Cloudflare layer in front of it. Served HTTP 200
+      to the honest agent through 2026-08-01; as of 2026-09-12 returns a Cloudflare managed
+      challenge (HTTP 403) on every title (OregonAI/oregon-counties#84). See crawl.basis and
+      each source''s notes.'
   - host: crookcountyor.gov
     robots_url: https://crookcountyor.gov/robots.txt
     ai_block: false
@@ -28,6 +42,7 @@ sources:
   sha256: "f5187df4da26ea129d67fc88d78acf30442f2a24798d2bcf3c05c2149618ae3b"
   title: 'Ttl 1: General Provisions'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-2-administration-and-personnel
   url: https://ecode360.com/49960235
   family: code
@@ -35,6 +50,7 @@ sources:
   sha256: "8c57240ca5982af014e9df3d56699ab01163e861e274137473334777c4ae6c8b"
   title: 'Ttl 2: Administration and Personnel'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-3-revenue-and-finance
   url: https://ecode360.com/49960411
   family: code
@@ -42,6 +58,7 @@ sources:
   sha256: "16db0e69a9389af8b64193dffc0e9bd87ddf3c435935fd3cfd6e93a993041558"
   title: 'Ttl 3: Revenue and Finance'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-5-business-taxes-licenses-and-regulations
   url: https://ecode360.com/49960808
   family: code
@@ -49,6 +66,7 @@ sources:
   sha256: "73f2592a35e2241f82c6cf352e8fdadaa7dd8081d37664787a05defb06d5f21c"
   title: 'Ttl 5: Business Taxes, Licenses and Regulations'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-6-animal-control
   url: https://ecode360.com/49961353
   family: code
@@ -56,6 +74,7 @@ sources:
   sha256: "b7ad5d85813d12a88d31bfb6f4ca1f230d470f77544d24c709a5176d174fe59e"
   title: 'Ttl 6: Animal Control'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-8-health-and-safety
   url: https://ecode360.com/49961597
   family: code
@@ -63,6 +82,7 @@ sources:
   sha256: "e95af964ff63964842eba5e3be7ecfcabffb5d571c8a40ffa18422c655447fc0"
   title: 'Ttl 8: Health and Safety'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-9-public-peace-morals-and-welfare
   url: https://ecode360.com/49962403
   family: code
@@ -70,6 +90,7 @@ sources:
   sha256: "993ed1c825857a0c28bcd31282dddfc1e4294be586d2395dc16aea64add251d2"
   title: 'Ttl 9: Public Peace, Morals and Welfare'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-10-vehicles-and-traffic
   url: https://ecode360.com/49962518
   family: code
@@ -77,6 +98,7 @@ sources:
   sha256: "4f710b88003c5567b4b34564f05b2e89effa8214141de55be875a889f6b32e7e"
   title: 'Ttl 10: Vehicles and Traffic'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-12-streets-sidewalks-and-public-places
   url: https://ecode360.com/49962652
   family: code
@@ -84,6 +106,7 @@ sources:
   sha256: "02386ebfee3f6a256660ab02a7883bfec6f621b9afc8a1ed6c1f17dac3ed8788"
   title: 'Ttl 12: Streets, Sidewalks and Public Places'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-13-public-services
   url: https://ecode360.com/49962883
   family: code
@@ -91,6 +114,7 @@ sources:
   sha256: "c5e7256a7ed00d6909f67fc418f07189c342fd482321cc4fb827b0c9405f8be9"
   title: 'Ttl 13: Public Services'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-15-buildings-and-construction
   url: https://ecode360.com/49963012
   family: code
@@ -98,6 +122,7 @@ sources:
   sha256: "d43fffad2519f11b357483b120807e98582d77b9f3b32cb8c0cd66b201b07a0c"
   title: 'Ttl 15: Buildings and Construction'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-16-environment
   url: https://ecode360.com/49963163
   family: code
@@ -105,6 +130,7 @@ sources:
   sha256: ''
   title: 'Ttl 16: Environment'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher; no sha256 baseline was ever captured here before the block tightened. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-17-subdivisions
   url: https://ecode360.com/49963265
   family: code
@@ -112,6 +138,7 @@ sources:
   sha256: ''
   title: 'Ttl 17: Subdivisions'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher; no sha256 baseline was ever captured here before the block tightened. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-18-zoning
   url: https://ecode360.com/49964069
   family: code
@@ -119,6 +146,7 @@ sources:
   sha256: ''
   title: 'Ttl 18: Zoning'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher; no sha256 baseline was ever captured here before the block tightened. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-code-ttl-ol-ordinance-list-and-disposition-table
   url: https://ecode360.com/49959932
   family: code
@@ -126,6 +154,7 @@ sources:
   sha256: ''
   title: 'Ttl OL: Ordinance List and Disposition Table'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher; no sha256 baseline was ever captured here before the block tightened. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: crook-policies-employee-handbook-110222-clean-copy
   url: https://crookcountyor.gov/DocumentCenter/View/946/Employee-Handbook-110222-Clean-Copy
   family: policies

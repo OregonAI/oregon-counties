@@ -3,16 +3,30 @@ title: Clatsop County sources
 county: clatsop-county
 crawl:
   decision: proceed
-  checked: '2026-08-01'
-  basis: ecode360.com serves HTTP 200 to the honest agent and states no AI-agent directive of its own.
-    The survey's recorded 403 for this county was a thin request without Accept headers, not a refusal
-    — re-checked before building.
+  checked: '2026-09-12'
+  basis: 'ecode360.com served HTTP 200 to the honest agent on 2026-08-01 when this group was
+    built, with no AI-agent directive of its own; the survey''s recorded 403 was a thin-request
+    artefact, not a refusal, confirmed before building. That is no longer the current state.
+    Re-tested 2026-09-12 against both the August-seeded titles and the three that never seeded:
+    all 14 ecode360.com sources now return a Cloudflare managed challenge (HTTP 403) to the
+    same honestly-identified fetcher (OregonAI/oregon-counties#84) — the block tightened after
+    this group was built, which is evidence about the host, not about us. Decision stays
+    ''proceed'': clatsopcounty.gov is unaffected and still serves the other 18 sources in this
+    group, and a group-level ''unavailable'' would wrongly stop those too (src/ingest_counties.py).
+    Operator decision 2026-09-12 (route 3): no further automated attempt — Verified Bots is
+    closed off permanently (home network, #116) — instead an ORS 192.311-192.478 records
+    request to Clatsop County for the code text, since the county publishes it and does not
+    operate the block.'
   hosts:
   - host: ecode360.com
     robots_url: https://ecode360.com/robots.txt
     ai_block: false
     content_signal: null
-    notes: General Code storefront. 200 to the honest agent; the survey's 403 was a header artefact.
+    notes: 'General Code storefront. Robots.txt declares no AI-agent directive of its own —
+      ai_block above reflects that, not the Cloudflare layer in front of it. Served HTTP 200
+      to the honest agent through 2026-08-01; as of 2026-09-12 returns a Cloudflare managed
+      challenge (HTTP 403) on every title (OregonAI/oregon-counties#84). See crawl.basis and
+      each source''s notes.'
   - host: clatsopcounty.gov
     robots_url: https://clatsopcounty.gov/robots.txt
     ai_block: false
@@ -29,6 +43,7 @@ sources:
   sha256: "0c05c8178d47d9f5951533ffdf8e0b8989928a72206b7957367980e85582a65f"
   title: 'Ttl CHA: Home Rule Charter for the Government of Clatsop County'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-1-general-provisions
   url: https://ecode360.com/44303313
   family: code
@@ -36,6 +51,7 @@ sources:
   sha256: "9fa37b5b4510f0a4e6678719f4457b305cb528945a08180efabd918b8cc19f20"
   title: 'Ttl 1: General Provisions'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-2-administration-and-personnel
   url: https://ecode360.com/44303766
   family: code
@@ -43,6 +59,7 @@ sources:
   sha256: "a5b5b8f19e71b02745d6558db9405fcad2eb56571542821e8ab77f66fa1b667d"
   title: 'Ttl 2: Administration and Personnel'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-3-revenue-and-finance
   url: https://ecode360.com/44303873
   family: code
@@ -50,6 +67,7 @@ sources:
   sha256: "a56679286a59ad2eeaccaccfb13402a62db3e21768e3ede3991153d47508200c"
   title: 'Ttl 3: Revenue and Finance'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-5-business-regulations
   url: https://ecode360.com/44304283
   family: code
@@ -57,6 +75,7 @@ sources:
   sha256: "3f79929f6ab74806be90aee2bbc62dd6a37b3f83e2a63fbf1e74ac0f5be14dde"
   title: 'Ttl 5: Business Regulations'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-6-animals
   url: https://ecode360.com/44304787
   family: code
@@ -64,6 +83,7 @@ sources:
   sha256: "9717c226d014ed5384d6db64a0c1e4d7b9d680a6b765be2d6c6cf15a68e47542"
   title: 'Ttl 6: Animals'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-7-solid-waste
   url: https://ecode360.com/44304847
   family: code
@@ -71,6 +91,7 @@ sources:
   sha256: "c6f85e3ed8d7141f237d6df797a706e931e3425d692419efd423e04565b0ec85"
   title: 'Ttl 7: Solid Waste'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-8-health-and-safety
   url: https://ecode360.com/44304850
   family: code
@@ -78,6 +99,7 @@ sources:
   sha256: "a1829b6e7652af5067c18102663eca644873ec5823014d28f011bdc2c01b4831"
   title: 'Ttl 8: Health and Safety'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-9-environmental-health-program
   url: https://ecode360.com/44305097
   family: code
@@ -85,6 +107,7 @@ sources:
   sha256: "6de3a345f8020271e43a90a9570ff64df6fd902811aac41a67958fb47331b32c"
   title: 'Ttl 9: Environmental Health Program'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-10-vehicles-and-traffic
   url: https://ecode360.com/44305139
   family: code
@@ -92,6 +115,7 @@ sources:
   sha256: "23e3e1446ed1a4c173fd43dd6b36371e7905ad95421a1eb08f3566b30c4e3897"
   title: 'Ttl 10: Vehicles and Traffic'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-12-streets-sidewalks-and-public-places
   url: https://ecode360.com/44305165
   family: code
@@ -99,6 +123,7 @@ sources:
   sha256: ''
   title: 'Ttl 12: Streets, Sidewalks and Public Places'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher; no sha256 baseline was ever captured here before the block tightened. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-15-buildings-and-construction
   url: https://ecode360.com/44305699
   family: code
@@ -106,6 +131,7 @@ sources:
   sha256: "60d3f3787efffaa54a165a372e9fc11024e7c8466f31ba198271fad31d4931fc"
   title: 'Ttl 15: Buildings and Construction'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher, on this title's August-seeded baseline above and on titles that never seeded alike. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-16-land-and-water-development-and-use
   url: https://ecode360.com/44305820
   family: code
@@ -113,6 +139,7 @@ sources:
   sha256: ''
   title: 'Ttl 16: Land and Water Development and Use'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher; no sha256 baseline was ever captured here before the block tightened. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-code-ttl-ol-ordinance-list-and-disposition-table
   url: https://ecode360.com/44305946
   family: code
@@ -120,6 +147,7 @@ sources:
   sha256: ''
   title: 'Ttl OL: Ordinance List and Disposition Table'
   last_checked: '2026-07-31'
+  notes: "Could not verify since 2026-09-12 (OregonAI/oregon-counties#84): ecode360.com returns a Cloudflare managed challenge (HTTP 403) to the honestly-identified fetcher; no sha256 baseline was ever captured here before the block tightened. This is a vendor blocking an honest agent, not the county removing anything it publishes online. Operator decision 2026-09-12 (route 3): ORS 192.311-192.478 records request to the county; Verified Bots is closed off permanently (#116) and no headless browser or UA change is in play."
 - id: clatsop-policies-policy-1
   url: https://clatsopcounty.gov/DocumentCenter/View/2264/Policy-1
   family: policies
