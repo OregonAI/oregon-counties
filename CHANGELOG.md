@@ -42,6 +42,21 @@ Repo-curation dates only — official effective dates live in frontmatter.
   - Wasco's 2 sources noted in the same survey are 403 (bot-blocked), not 404 — out of scope,
     tracked separately from this 404 pass.
 
+### Notes
+- 2026-10-01 — Re-measured #84: 29 ecode360.com sources are affected (clatsop 14, crook 15),
+  not the 7 the issue title still says. Re-tested 2026-09-12, all 29 return a Cloudflare
+  managed challenge (HTTP 403) to the honestly-identified fetcher, including the 22 that carry
+  an August sha256 baseline — a baseline nobody can re-check is "could not check" wearing the
+  clothes of "checked". Every ecode360 source in `_meta/sources/clatsop.yml` and `crook.yml`
+  now carries a dated could-not-verify note; `crawl.decision` stays `proceed` (not
+  `unavailable`, which is a group-wide stop that would also halt clatsop's 18 and crook's 3
+  non-ecode360 sources this block does not touch — `src/ingest_counties.py`). No `sha256` was
+  removed. This is a vendor (General Code) declining an honest crawler, never a county
+  withdrawing anything it publishes, and never a 404. Verified Bots remains closed off
+  permanently (home network, #116); General Code is not being contacted (considered, not
+  chosen). Operator decision 2026-09-12 (route 3): ORS 192.311–192.478 records requests to
+  Clatsop and Crook Counties, drafted for the operator to send (PR body).
+
 ### Fixed
 - 2026-09-04 — `ingest_counties.py` re-ingesting an existing document dropped
   `relationships.references_external` back to `[]`, silently undoing
