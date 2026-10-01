@@ -74,5 +74,8 @@ def test_crawl_basis_no_longer_claims_a_200_that_is_not_true() -> None:
     for group in AFFECTED:
         basis = _load(group)["crawl"]["basis"]
         low = basis.lower()
-        assert "cloudflare managed challenge" in low or "403" in basis
-        assert "2026-09-12" in basis
+        # The present-tense claim this issue found false must be gone, not just dated.
+        assert "serves http 200" not in low, group
+        assert "serves the honest agent http 200" not in low, group
+        assert "cloudflare managed challenge" in low, group
+        assert "2026-09-12" in basis, group
