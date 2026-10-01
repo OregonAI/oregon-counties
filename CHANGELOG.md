@@ -6,6 +6,31 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased] — Yamhill and Curry recovered
 
+### Source-Updated
+- 2026-10-01 — Ten 404'd county sources (oregon-counties#85), all confirmed relocated, none
+  withdrawn:
+  - Multnomah 5 Pride Month proclamations (2020-2024): `multco.us`'s own `/file/.../download`
+    link rotted for each (the Drupal file entity, not the catalogue record — the board-documents
+    listing of record still names and dates every one). Relocated to the Granicus MetaViewer
+    record of the same signed document, the same source multco.us's own news coverage of each
+    proclamation links to. Baselines seeded.
+  - Wallowa 3 land-use/hazard-mitigation-plan volumes: the county's own comprehensive-plan-goals
+    page still links the dead `vyhlif10466` CDN URLs for all three — not withdrawn, just stale
+    on the county's own listing. Relocated to the current 2022-2027 edition of the same plan at
+    the county's Natural Hazard Mitigation Plan page. Baselines seeded.
+  - Klamath 1 (`2026-Classification-Tables---Non-Union`, found by a 2026-10-01 survey, not in
+    the issue's original count of nine): DocumentCenter reassigned a new numeric id on
+    re-upload. Relocated via the county's own Policies & Union Contracts listing. Content also
+    changed at the new id (not merely moved); baseline accepted via `--record-baseline=refresh`
+    without re-ingesting — re-ingesting the current table's text is separate follow-up work.
+  - Columbia 1: `columbia-orders-ordinances-2019-5-...` was a stale duplicate manifest entry
+    for an ordinance already correctly tracked, with a working URL and a seeded baseline, under
+    `columbia-orders-2019-5-...`. No document ever existed for the duplicate entry (sha256 was
+    never seeded), so it is removed from the manifest rather than "relocated" a second time;
+    nothing in the corpus was deleted.
+  - Wasco's 2 sources noted in the same survey are 403 (bot-blocked), not 404 — out of scope,
+    tracked separately from this 404 pass.
+
 ### Fixed
 - 2026-09-04 — `ingest_counties.py` re-ingesting an existing document dropped
   `relationships.references_external` back to `[]`, silently undoing

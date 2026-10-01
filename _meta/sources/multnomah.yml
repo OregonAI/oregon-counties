@@ -18,6 +18,17 @@ crawl:
     ai_block: false
     content_signal: null
     notes: Same site; www redirects to the bare host, which is canonical.
+  - host: multnomah.granicus.com
+    robots_url: https://multnomah.granicus.com/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: 'robots.txt gives User-agent: * / Disallow: / (legacy Granicus boilerplate naming
+      no AI agent — it also blocks Googlebot). Not enforced per src/fetch.py; the HTTP layer
+      itself serves us (verified 2026-10-01: five MetaViewer document fetches all returned
+      200 application/pdf). Used only as a fallback source for five board-meeting proclamation
+      PDFs whose multco.us /file/ link rotted — multco.us''s own news coverage of each of these
+      proclamations links to this same Granicus MetaViewer record as the proclamation text, so
+      it is the county''s own vendor-hosted record of the document, not a third-party mirror.'
 last_checked: '2026-07-31'
 upstream_signal: No feed. The code index page is edited when a chapter is amended, and the chapter slugs
   are stable, so re-fetching the index and diffing the link set detects a new or renamed chapter; content
@@ -1949,13 +1960,14 @@ sources:
     To August 31St, 2024 As Black Breastfeeding Week In Multnomah County, Oregon.
   last_checked: '2026-07-31'
 - id: multnomah-orders-proclamation-proclaiming-june-2024-as-pride-month-for-the-tw
-  url: https://www.multco.us/file/proclamation_proclaiming_june_2024_as_pride_month_for_the_two_spirit%2C_lesbian%2C_gay%2C_bisexual%2C_transgender%2C_queer%2C_intersex%2C_and_asexual_%282slgbtqia%2B%29_community_in_multnomah_county%2C_oregon./download
+  url: https://multnomah.granicus.com/MetaViewer.php?view_id=3&clip_id=3003&meta_id=175823
+  notes: 'RELOCATED 2026-10-01: multco.us''s own /file/.../download link for this proclamation 404s. Confirmed still catalogued at the county''s listing of record (multco.us/services/board-documents), which links to the same dead /file/ URL -- the Drupal file entity, not the catalogue record, is what is gone. The county''s own news coverage of this proclamation links to this Granicus MetaViewer record as the signed document; fetched 2026-10-01 and confirmed application/pdf.'
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "26624af16b88fe99741e91a7aab7572c0fccc3039415cbd4cb7e38939044b3a6"
   title: Proclamation Proclaiming June 2024 As Pride Month For The Two Spirit, Lesbian, Gay, Bisexual,
     Transgender, Queer, Intersex, And Asexual (2Slgbtqia+) Community In Multnomah County, Oregon.
-  last_checked: '2026-07-31'
+  last_checked: '2026-10-01'
 - id: multnomah-orders-proclamation-proclaiming-august-16-2024-through-august-18-20
   url: https://www.multco.us/file/proclamation_proclaiming_august_16%2C_2024_through_august_18%2C_2024_as_leisure_hour_golf_club_weekend_in_multnomah_county%2C_oregon./download
   family: orders
@@ -2768,13 +2780,14 @@ sources:
     Parole Supervision Week In Multnomah County, Oregon.
   last_checked: '2026-07-31'
 - id: multnomah-orders-proclamation-proclaiming-june-2023-as-pride-month-for-the-le
-  url: https://www.multco.us/file/proclamation_proclaiming_june_2023_as_pride_month_for_the_lesbian%2C_gay%2C_bisexual%2C_transgender%2C_queer%2C_intersex%2C_asexual%2C_and_two_spirit_%28lgbtqia2s%2B%29_community_in_multnomah_county%2C_oregon./download
+  url: https://multnomah.granicus.com/MetaViewer.php?view_id=3&clip_id=2753&meta_id=168288
+  notes: 'RELOCATED 2026-10-01: multco.us''s own /file/.../download link for this proclamation 404s. Confirmed still catalogued at the county''s listing of record (multco.us/services/board-documents), which links to the same dead /file/ URL -- the Drupal file entity, not the catalogue record, is what is gone. The county''s own news coverage of this proclamation links to this Granicus MetaViewer record as the signed document; fetched 2026-10-01 and confirmed application/pdf.'
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "3ddf75027f2f00ca25e638f4d9ecb2cc4a9b3b55e0f26ad76f5eb30d763be116"
   title: Proclamation Proclaiming June 2023 As Pride Month For The Lesbian, Gay, Bisexual, Transgender,
     Queer, Intersex, Asexual, And Two Spirit (Lgbtqia2S+) Community In Multnomah County, Oregon.
-  last_checked: '2026-07-31'
+  last_checked: '2026-10-01'
 - id: multnomah-orders-resolution-declaring-climate-change-a-public-nuisance-and-au
   url: https://www.multco.us/file/resolution_declaring_climate_change_a_public_nuisance_and_authorizing_the_office_of_county_attorney_to_pursue_legal_remedies_for_damages_caused_by_climate_change./download
   family: orders
@@ -3664,13 +3677,14 @@ sources:
     Authorizing The County Chair To Execute A Guaranteed Maximum Price Amendment.
   last_checked: '2026-07-31'
 - id: multnomah-orders-proclamation-proclaiming-june-2022-as-pride-month-for-the-le
-  url: https://www.multco.us/file/proclamation_proclaiming_june_2022_as_pride_month_for_the_lesbian%2C_gay%2C_bisexual%2C_queer%2C_intersex%2C_asexual%2C_and_two_spirit_%28lgbtqia2s%2B%29_community_in_multnomah_county%2C_oregon./download
+  url: https://multnomah.granicus.com/MetaViewer.php?view_id=3&clip_id=2552&meta_id=162127
+  notes: 'RELOCATED 2026-10-01: multco.us''s own /file/.../download link for this proclamation 404s. Confirmed still catalogued at the county''s listing of record (multco.us/services/board-documents), which links to the same dead /file/ URL -- the Drupal file entity, not the catalogue record, is what is gone. The county''s own news coverage of this proclamation links to this Granicus MetaViewer record as the signed document; fetched 2026-10-01 and confirmed application/pdf.'
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "95d9d965928a5d3b599048e2e9e657f446307ca6ed02719f16a1afddba48a7a0"
   title: Proclamation Proclaiming June 2022 As Pride Month For The Lesbian, Gay, Bisexual, Queer, Intersex,
     Asexual, And Two Spirit (Lgbtqia2S+) Community In Multnomah County, Oregon.
-  last_checked: '2026-07-31'
+  last_checked: '2026-10-01'
 - id: multnomah-orders-file-resolution-approval-of-the-mt-hood-cable-regulatory-commission-fund-budget-for-fiscal-year-2022-2023
   url: https://www.multco.us/file/resolution_approval_of_the_mt._hood_cable_regulatory_commission_fund_budget_for_fiscal_year_2022-2023./download
   family: orders
@@ -4737,13 +4751,14 @@ sources:
     Resolution 2020-104.
   last_checked: '2026-07-31'
 - id: multnomah-orders-proclamation-proclaiming-june-2021-as-pride-month-for-the-le
-  url: https://www.multco.us/file/proclamation_proclaiming_june_2021_as_pride_month_for_the_lesbian%2C_gay%2C_bisexual%2C_queer%2C_intersex%2C_asexual%2C_and_two_spirit_%28_lgbtqia2s%2B%29_community_in_multnomah_county%2C_oregon.__/download
+  url: https://multnomah.granicus.com/MetaViewer.php?view_id=3&clip_id=2317&meta_id=155038
+  notes: 'RELOCATED 2026-10-01: multco.us''s own /file/.../download link for this proclamation 404s. Confirmed still catalogued at the county''s listing of record (multco.us/services/board-documents), which links to the same dead /file/ URL -- the Drupal file entity, not the catalogue record, is what is gone. The county''s own news coverage of this proclamation links to this Granicus MetaViewer record as the signed document; fetched 2026-10-01 and confirmed application/pdf.'
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "3e7f4fbb59187f2a57a633cbc01b0dfe9ce6c0977e22f2c7490a11cc55b13485"
   title: Proclamation Proclaiming June 2021 As Pride Month For The Lesbian, Gay, Bisexual, Queer, Intersex,
     Asexual, And Two Spirit ( Lgbtqia2S+) Community In Multnomah County, Oregon.
-  last_checked: '2026-07-31'
+  last_checked: '2026-10-01'
 - id: multnomah-orders-file-resolution-authorizing-salary-adjustments-for-employees-not-covered-by-collective-bargaining-agreements-for-fiscal-year-2021-2022
   url: https://www.multco.us/file/resolution_authorizing_salary_adjustments_for_employees_not_covered_by_collective_bargaining_agreements_for_fiscal_year_2021-2022./download
   family: orders
@@ -5534,13 +5549,14 @@ sources:
     Resolution 2020-019, To September 30, 2020, Or Until Rescinded.
   last_checked: '2026-07-31'
 - id: multnomah-orders-proclamation-proclaiming-june-2020-as-pride-month-for-the-lg
-  url: https://www.multco.us/file/proclamation_proclaiming_june_2020_as_pride_month_for_the_lgbtq%2B_community_in_multnomah_county%2C_oregon./download
+  url: https://multnomah.granicus.com/MetaViewer.php?view_id=3&clip_id=2087&meta_id=148444
+  notes: 'RELOCATED 2026-10-01: multco.us''s own /file/.../download link for this proclamation 404s. Confirmed still catalogued at the county''s listing of record (multco.us/services/board-documents), which links to the same dead /file/ URL -- the Drupal file entity, not the catalogue record, is what is gone. The county''s own news coverage of this proclamation links to this Granicus MetaViewer record as the signed document; fetched 2026-10-01 and confirmed application/pdf.'
   family: orders
   format: pdf
-  sha256: ''
+  sha256: "b88cbcb5919c7ccd26399cbf6555c3cdce8e360a3efa8a5bf32357cdaa83e481"
   title: Proclamation Proclaiming June 2020 As Pride Month For The Lgbtq+ Community In Multnomah County,
     Oregon.
-  last_checked: '2026-07-31'
+  last_checked: '2026-10-01'
 - id: multnomah-orders-file-resolution-approving-calling-a-measure-election-to-submit-to-the-electors-of-multnomah-county-the-question-of-contracting-general--a4ead0
   url: https://www.multco.us/file/resolution_approving_calling_a_measure_election_to_submit_to_the_electors_of_multnomah_county_the_question_of_contracting_general_obligation_bonded_indebtedness_in_an_aggregate_principal_amount_not_to_exceed_%24387%2C000%2C000_to_finance_capital%E2%80%A6/download
   family: orders
