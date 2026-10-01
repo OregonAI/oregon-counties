@@ -2,6 +2,7 @@
   "group_filter": null,
   "groups": {
     "benton": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 52,
       "fetch_failed": 0,
@@ -11,15 +12,17 @@
       "watch_path_missing": 0
     },
     "clackamas": {
-      "changed": 91,
+      "archive_unreadable": 0,
+      "changed": 102,
       "checked": 102,
       "fetch_failed": 0,
       "no_baseline": 0,
-      "unchanged": 11,
+      "unchanged": 0,
       "unreadable_json": 0,
       "watch_path_missing": 0
     },
     "clatsop": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 32,
       "fetch_failed": 14,
@@ -29,6 +32,7 @@
       "watch_path_missing": 0
     },
     "columbia": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 4,
       "fetch_failed": 1,
@@ -38,6 +42,7 @@
       "watch_path_missing": 0
     },
     "coos": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 48,
       "fetch_failed": 0,
@@ -47,6 +52,7 @@
       "watch_path_missing": 0
     },
     "crook": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 18,
       "fetch_failed": 15,
@@ -56,6 +62,7 @@
       "watch_path_missing": 0
     },
     "curry": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 67,
       "fetch_failed": 0,
@@ -65,6 +72,7 @@
       "watch_path_missing": 0
     },
     "deschutes": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 820,
       "fetch_failed": 0,
@@ -74,6 +82,7 @@
       "watch_path_missing": 0
     },
     "gilliam": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 15,
       "fetch_failed": 0,
@@ -83,6 +92,7 @@
       "watch_path_missing": 0
     },
     "grant": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 23,
       "fetch_failed": 0,
@@ -92,6 +102,7 @@
       "watch_path_missing": 0
     },
     "hood-river": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 11,
       "fetch_failed": 0,
@@ -101,6 +112,7 @@
       "watch_path_missing": 0
     },
     "jackson": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 161,
       "fetch_failed": 0,
@@ -110,15 +122,17 @@
       "watch_path_missing": 0
     },
     "klamath": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 41,
-      "fetch_failed": 1,
+      "fetch_failed": 2,
       "no_baseline": 0,
-      "unchanged": 40,
+      "unchanged": 39,
       "unreadable_json": 0,
       "watch_path_missing": 0
     },
     "lake": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 14,
       "fetch_failed": 14,
@@ -128,15 +142,17 @@
       "watch_path_missing": 0
     },
     "lane": {
-      "changed": 0,
+      "archive_unreadable": 0,
+      "changed": 1,
       "checked": 70,
       "fetch_failed": 0,
       "no_baseline": 0,
-      "unchanged": 70,
+      "unchanged": 69,
       "unreadable_json": 0,
       "watch_path_missing": 0
     },
     "lincoln": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 27,
       "fetch_failed": 0,
@@ -146,6 +162,7 @@
       "watch_path_missing": 0
     },
     "malheur": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 27,
       "fetch_failed": 0,
@@ -155,6 +172,7 @@
       "watch_path_missing": 0
     },
     "marion": {
+      "archive_unreadable": 0,
       "changed": 9,
       "checked": 177,
       "fetch_failed": 0,
@@ -164,6 +182,7 @@
       "watch_path_missing": 0
     },
     "multnomah": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 796,
       "fetch_failed": 5,
@@ -173,6 +192,7 @@
       "watch_path_missing": 0
     },
     "polk": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 108,
       "fetch_failed": 0,
@@ -182,6 +202,7 @@
       "watch_path_missing": 0
     },
     "sherman": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 10,
       "fetch_failed": 0,
@@ -191,15 +212,17 @@
       "watch_path_missing": 0
     },
     "umatilla": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 38,
-      "fetch_failed": 0,
+      "fetch_failed": 1,
       "no_baseline": 0,
-      "unchanged": 38,
+      "unchanged": 37,
       "unreadable_json": 0,
       "watch_path_missing": 0
     },
     "union": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 46,
       "fetch_failed": 0,
@@ -209,6 +232,7 @@
       "watch_path_missing": 0
     },
     "wallowa": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 5,
       "fetch_failed": 3,
@@ -218,6 +242,7 @@
       "watch_path_missing": 0
     },
     "wasco": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 191,
       "fetch_failed": 2,
@@ -227,6 +252,7 @@
       "watch_path_missing": 0
     },
     "washington": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 30,
       "fetch_failed": 0,
@@ -236,6 +262,7 @@
       "watch_path_missing": 0
     },
     "yamhill": {
+      "archive_unreadable": 0,
       "changed": 0,
       "checked": 514,
       "fetch_failed": 0,
@@ -645,77 +672,77 @@
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-foreward",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/foreward"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title2",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title2"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title3",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title3"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title4",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title4"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title5",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title5"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title6",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title6"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title8",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title8"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title9",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title9"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title10",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title10"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-title11",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/title11"
     },
     {
       "group": "clackamas",
       "had_baseline": true,
       "id": "clackamas-code-appendixb",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.clackamas.us/code/appendixb"
     },
     {
@@ -9927,7 +9954,7 @@
       "group": "klamath",
       "had_baseline": true,
       "id": "klamath-policies-local-701-collective-bargaining-agreement-2023-2026",
-      "outcome": "unchanged",
+      "outcome": "fetch_failed",
       "url": "https://www.klamathcounty.org/DocumentCenter/View/35590/Local-701---Collective-Bargaining-Agreement-2023-2026"
     },
     {
@@ -10585,7 +10612,7 @@
       "group": "lane",
       "had_baseline": true,
       "id": "lane-land-use-lc16-250-253",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.250_253.pdf"
     },
     {
@@ -18894,7 +18921,7 @@
       "group": "umatilla",
       "had_baseline": true,
       "id": "umatilla-code-150-153-umatilla-county-development-code-07-17-2024",
-      "outcome": "unchanged",
+      "outcome": "fetch_failed",
       "url": "https://umatillacounty.gov/fileadmin/user_upload/BCC/Ordinances/150-153_Umatilla_County_Development_Code_07-17-2024.pdf"
     },
     {
@@ -24408,11 +24435,12 @@
     }
   ],
   "totals": {
-    "changed": 100,
-    "fetch_failed": 55,
+    "archive_unreadable": 0,
+    "changed": 112,
+    "fetch_failed": 57,
     "no_baseline": 0,
     "total": 3447,
-    "unchanged": 3292,
+    "unchanged": 3278,
     "unreadable_json": 0,
     "watch_path_missing": 0
   }
