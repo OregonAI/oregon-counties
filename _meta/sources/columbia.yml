@@ -29,13 +29,6 @@ sources:
   sha256: "239ed1bfb845fdd8d1dc9fa6f4b060c94014895311999540e7872057e1742462"
   title: 2019-5 Matter of Adopting the Columbia County Parking and Towing Ordinance
   last_checked: '2026-07-31'
-- id: columbia-orders-ordinances-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance
-  url: https://www.columbiacountyor.gov/media/Board/Ordinances/2019-5%20Matter%20of%20Adopting%20the%20Columbia%20County%20Parking%20and%20Towing%20Ordinance.pdf
-  family: orders
-  format: pdf
-  sha256: ''
-  title: 2019-5 Matter of Adopting the Columbia County Parking and Towing Ordinance
-  last_checked: '2026-07-31'
 - id: columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25
   url: https://www.columbiacountyor.gov/media/Land_Development/Permit%20Applications/2025-2026%20Permit%20Applications/Columbia%20County%20FY26%20Fee%20Increase%20EFF%209.1.25.pdf
   family: land-use
