@@ -280,8 +280,11 @@ def discover_ecode360(profile: dict, family: str, cfg: dict) -> list[dict]:
     already in hand.
 
     General Code is the largest commercial code vendor among Oregon counties (4 of 36, ahead
-    of Municode's 3), so this mode is worth its length: it serves Clatsop and Crook now and
-    Lake when that county is reached.
+    of Municode's 3), so this mode is worth its length. Clatsop and Crook used it against a
+    live, 200-serving vendor through August 2026; as of 2026-09-12 ecode360.com returns a
+    Cloudflare managed challenge to the honest agent on both (OregonAI/oregon-counties#84),
+    so this mode now runs against a vendor that refuses us there, and will again at Lake if
+    that county is reached while the block holds.
     """
     body, _ = fetch.get(cfg["toc_url"])
     page = html.unescape(body.decode("utf-8", "replace"))

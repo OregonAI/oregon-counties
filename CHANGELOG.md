@@ -42,6 +42,34 @@ Repo-curation dates only — official effective dates live in frontmatter.
   - Wasco's 2 sources noted in the same survey are 403 (bot-blocked), not 404 — out of scope,
     tracked separately from this 404 pass.
 
+### Notes
+- 2026-10-01 — Re-measured #84: 29 ecode360.com sources are affected (clatsop 14, crook 15),
+  not the 7 the issue title still says. Re-tested 2026-09-12, all 29 return a Cloudflare
+  managed challenge (HTTP 403) to the honestly-identified fetcher, including the 22 that carry
+  an August sha256 baseline — a baseline nobody can re-check is "could not check" wearing the
+  clothes of "checked". Every ecode360 source in `_meta/sources/clatsop.yml` and `crook.yml`
+  now carries a dated could-not-verify note; `crawl.decision` stays `proceed` (not
+  `unavailable`, which is a group-wide stop that would also halt clatsop's 18 and crook's 3
+  non-ecode360 sources this block does not touch — `src/ingest_counties.py`). No `sha256` was
+  removed. This is a vendor (General Code) declining an honest crawler, never a county
+  withdrawing anything it publishes, and never a 404. Verified Bots remains closed off
+  permanently (home network, #116); General Code is not being contacted (considered, not
+  chosen). Operator decision 2026-09-12 (route 3): ORS 192.311–192.478 records requests to
+  Clatsop and Crook Counties, drafted for the operator to send (PR body).
+- 2026-10-01 — Code review on #84: `src/profiles/clatsop.py` and `crook.py` still said
+  `checked: 2026-08-01` and claimed ecode360.com "serves HTTP 200 to the honest agent" even
+  after the YAML had moved on — `ingest_counties.py --discover` rebuilds `crawl` and the whole
+  `sources` list straight from the profile (`run_discovery`), so the next rediscovery would
+  have quietly brought back the false 200 claim and deleted all 29 per-source could-not-verify
+  notes. Both profiles' `crawl.checked`/`crawl.basis`/host notes and docstrings now match the
+  YAML word for word, and the `code` family carries a comment warning that rediscovery drops
+  the per-source notes and they must be restored by hand (`tests/test_ecode360_notes.py`
+  enforces it). Josephine's ecode360 host note and `src/ingest_counties.py`'s `discover_ecode360`
+  docstring no longer say Clatsop and Crook "serve us fine" on that vendor — they now say both
+  served HTTP 200 through August 2026 and have returned the same Cloudflare managed challenge
+  since 2026-09-12. `test_crawl_basis_no_longer_claims_a_200_that_is_not_true` now asserts the
+  present-tense 200 claim is actually gone, not just that a date string was added.
+
 ### Fixed
 - 2026-09-04 — `ingest_counties.py` re-ingesting an existing document dropped
   `relationships.references_external` back to `[]`, silently undoing

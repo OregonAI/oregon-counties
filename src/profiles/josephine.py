@@ -50,8 +50,11 @@ PROFILE = {
                       "a directive addressed to this crawler."},
             {"host": "ecode360.com", "robots_url": "https://ecode360.com/robots.txt",
              "ai_block": False, "content_signal": None,
-             "notes": "JO4733. Returns 403 Cloudflare challenge for this county, unlike "
-                      "Clatsop and Crook on the same vendor which serve us fine."},
+             "notes": "JO4733. Returns 403 Cloudflare challenge for this county. Clatsop and "
+                      "Crook, on the same vendor, served HTTP 200 through August 2026 and "
+                      "have returned the same Cloudflare managed challenge since 2026-09-12 "
+                      "(OregonAI/oregon-counties#84) — so this is no longer a contrast "
+                      "between counties, it is the vendor-wide state."},
         ],
     },
     "upstream_signal": (
