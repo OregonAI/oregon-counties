@@ -1,7 +1,7 @@
 {
  "corpus": "oregon-counties",
- "n_nodes": 3335,
- "n_edges": 9703,
+ "n_nodes": 3336,
+ "n_edges": 9704,
  "n_edges_external": 9703,
  "nodes": [
   {
@@ -10709,6 +10709,14 @@
    "path": "counties/klamath-county/policies/klamath-policies-2026-classification-tables-non-union.md"
   },
   {
+   "id": "klamath-policies-701-cba-2026-2029",
+   "title": "701-CBA-2026-2029",
+   "doc_type": "policy",
+   "status": "current",
+   "text_source": "ocr",
+   "path": "counties/klamath-county/policies/klamath-policies-701-cba-2026-2029.md"
+  },
+  {
    "id": "klamath-policies-737-hourly-2026-2027-salary-table",
    "title": "737-Hourly-2026-2027-Salary-Table",
    "doc_type": "policy",
@@ -10832,7 +10840,7 @@
    "id": "klamath-policies-local-701-collective-bargaining-agreement-2023-2026",
    "title": "Local-701---Collective-Bargaining-Agreement-2023-2026",
    "doc_type": "policy",
-   "status": "current",
+   "status": "superseded",
    "text_source": "ocr",
    "path": "counties/klamath-county/policies/klamath-policies-local-701-collective-bargaining-agreement-2023-2026.md"
   },
@@ -46315,6 +46323,11 @@
    "from": "klamath-land-use-5673",
    "type": "references_external",
    "to": "OAR 860-039-0010"
+  },
+  {
+   "from": "klamath-policies-701-cba-2026-2029",
+   "type": "supersedes",
+   "to": "klamath-policies-local-701-collective-bargaining-agreement-2023-2026"
   },
   {
    "from": "klamath-policies-foppo-cba-2026-2029",
