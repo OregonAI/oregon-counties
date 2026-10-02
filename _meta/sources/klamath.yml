@@ -197,6 +197,21 @@ sources:
   sha256: "e80d6c7b055b117b8fffef45c2c4b41850839d2d455b94fc3517e33ef053ce7d"
   title: Local-701---Collective-Bargaining-Agreement-2023-2026
   last_checked: '2026-07-31'
+  notes: '404 2026-10-01 (oregon-counties#120): DocumentCenter id 35590 is gone. The county''s
+    own Policies & Union Contracts listing no longer carries the 2023-2026 term at all; it
+    now lists only the successor, 701-CBA-2026-2029 (id 63817, klamath-policies-701-cba-2026-2029).
+    This is a successor, not a relocation -- the term ended, the old agreement was not moved.
+    Baseline kept unchanged; document kept, marked status: superseded.'
+- id: klamath-policies-701-cba-2026-2029
+  url: https://www.klamathcounty.org/DocumentCenter/View/63817/701-CBA-2026-2029
+  family: policies
+  format: pdf
+  sha256: "cbdf0f507d09b3554eff9259b7655b3f1094cf2ff7a2c277d1fb6704926eecc6"
+  title: 701-CBA-2026-2029
+  notes: 'Successor to klamath-policies-local-701-collective-bargaining-agreement-2023-2026
+    (oregon-counties#120), found on the county''s own Policies & Union Contracts listing
+    2026-10-01.'
+  last_checked: '2026-10-01'
 - id: klamath-policies-local-737-cba-2026-2029
   url: https://www.klamathcounty.org/DocumentCenter/View/63613/Local-737-CBA-2026-2029-
   family: policies

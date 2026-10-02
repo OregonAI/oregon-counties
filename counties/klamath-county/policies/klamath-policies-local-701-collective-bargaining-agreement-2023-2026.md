@@ -3,11 +3,11 @@ schema_version: 1
 corpus: oregon-counties
 jurisdiction: oregon/klamath-county
 id: klamath-policies-local-701-collective-bargaining-agreement-2023-2026
-title: 'Local-701---Collective-Bargaining-Agreement-2023-2026'
+title: Local-701---Collective-Bargaining-Agreement-2023-2026
 doc_type: policy
-citation: 'Local-701---Collective-Bargaining-Agreement-2023-2026'
+citation: Local-701---Collective-Bargaining-Agreement-2023-2026
 authority_level: county_policy
-issuing_body: 'Klamath County Board of Commissioners'
+issuing_body: Klamath County Board of Commissioners
 source_url: https://www.klamathcounty.org/DocumentCenter/View/35590/Local-701---Collective-Bargaining-Agreement-2023-2026
 source_format: pdf
 retrieved: '2026-07-31'
@@ -15,20 +15,25 @@ source_sha256: d33564c194e72374be44de157efb1abe2e6ef061c1e5c2d9bb4c50508609dcd8
 snapshot_policy: hash-only
 effective_date: null
 source_version: null
-status: current
+status: superseded
 content_mode: verbatim
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently
+  on the same scan. Word agreement 0.987; figure agreement 0.928; dictionary ratio 0.970. Artifacts disclosed,
+  not repaired. NOT human-verified.'
 last_verified: ''
 verified_by: ''
-maintainer: 'OregonAI'
-text_source: ocr
-conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.987; figure agreement 0.928; dictionary ratio 0.970. Artifacts disclosed, not repaired. NOT human-verified.'
+maintainer: OregonAI
 relationships:
   implements: []
   implemented_by: []
   references_external: []
   related: []
   supersedes: []
-tags: [klamath-county, policies, ocr-derived]
+tags:
+- klamath-county
+- policies
+- ocr-derived
+text_source: ocr
 ---
 
 > **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes

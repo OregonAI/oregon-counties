@@ -6,6 +6,18 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased] — Yamhill and Curry recovered
 
+### Superseded
+- 2026-10-01 — `klamath-policies-local-701-collective-bargaining-agreement-2023-2026`
+  (oregon-counties#120) 404s at its recorded DocumentCenter id (35590). Unlike the
+  classification-tables case in #118, this is not a relocation: the county's own Policies &
+  Union Contracts listing no longer carries the 2023-2026 term at all, only its successor,
+  `701-CBA-2026-2029` (id 63817, confirmed `application/pdf` 2026-10-01). Added as a new
+  document, `klamath-policies-701-cba-2026-2029` (OCR-derived — image-only scan, two-engine
+  agreement 0.985 words / 0.952 figures / 0.968 dictionary, promoted via `ocr_recover.py`),
+  with `relationships.supersedes` naming the 2023-2026 agreement. The old document is kept,
+  not deleted, and marked `status: superseded`; its baseline is untouched — the county
+  stopped publishing that term, the text of it did not change.
+
 ### Source-Updated
 - 2026-10-01 — Ten 404'd county sources (oregon-counties#85) triaged; relocated, removed, and
   could-not-determine, none withdrawn:
