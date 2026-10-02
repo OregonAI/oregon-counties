@@ -3,11 +3,11 @@ schema_version: 1
 corpus: oregon-counties
 jurisdiction: oregon/klamath-county
 id: klamath-policies-local-701-collective-bargaining-agreement-2023-2026
-title: Local-701---Collective-Bargaining-Agreement-2023-2026
+title: 'Local-701---Collective-Bargaining-Agreement-2023-2026'
 doc_type: policy
-citation: Local-701---Collective-Bargaining-Agreement-2023-2026
+citation: 'Local-701---Collective-Bargaining-Agreement-2023-2026'
 authority_level: county_policy
-issuing_body: Klamath County Board of Commissioners
+issuing_body: 'Klamath County Board of Commissioners'
 source_url: https://www.klamathcounty.org/DocumentCenter/View/35590/Local-701---Collective-Bargaining-Agreement-2023-2026
 source_format: pdf
 retrieved: '2026-07-31'
@@ -17,23 +17,18 @@ effective_date: null
 source_version: null
 status: superseded
 content_mode: verbatim
-conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently
-  on the same scan. Word agreement 0.987; figure agreement 0.928; dictionary ratio 0.970. Artifacts disclosed,
-  not repaired. NOT human-verified.'
 last_verified: ''
 verified_by: ''
-maintainer: OregonAI
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.987; figure agreement 0.928; dictionary ratio 0.970. Artifacts disclosed, not repaired. NOT human-verified.'
 relationships:
   implements: []
   implemented_by: []
   references_external: []
   related: []
   supersedes: []
-tags:
-- klamath-county
-- policies
-- ocr-derived
-text_source: ocr
+tags: [klamath-county, policies, ocr-derived]
 ---
 
 > **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
@@ -1216,6 +1211,11 @@ Ratification date:   | | | 7   2093
 29
 
 ## Curator notes
+
+2026-10-01: source URL returns 404 (oregon-counties#120); the county's Policies & Union
+Contracts listing now carries only the successor agreement,
+`klamath-policies-701-cba-2026-2029` (DocumentCenter id 63817). Kept as the superseded
+2023-2026 term; text unchanged.
 
 This document had no text layer. The text above was recovered by OCR under the two-engine
 rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.7% of

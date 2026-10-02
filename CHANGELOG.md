@@ -16,7 +16,10 @@ Repo-curation dates only — official effective dates live in frontmatter.
   agreement 0.985 words / 0.952 figures / 0.968 dictionary, promoted via `ocr_recover.py`),
   with `relationships.supersedes` naming the 2023-2026 agreement. The old document is kept,
   not deleted, and marked `status: superseded`; its baseline is untouched — the county
-  stopped publishing that term, the text of it did not change.
+  stopped publishing that term, the text of it did not change. Added a dated `## Curator
+  notes` line to the old document pointing readers at the successor by id, since the OCR
+  banner's "verify at the source URL" is itself dead; also restored the old document's
+  frontmatter to its original serialization (only `status` should have changed there).
 
 ### Source-Updated
 - 2026-10-01 — Ten 404'd county sources (oregon-counties#85) triaged; relocated, removed, and
