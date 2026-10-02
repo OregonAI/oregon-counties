@@ -15,7 +15,7 @@ source_sha256: d33564c194e72374be44de157efb1abe2e6ef061c1e5c2d9bb4c50508609dcd8
 snapshot_policy: hash-only
 effective_date: null
 source_version: null
-status: current
+status: superseded
 content_mode: verbatim
 last_verified: ''
 verified_by: ''
@@ -1211,6 +1211,11 @@ Ratification date:   | | | 7   2093
 29
 
 ## Curator notes
+
+2026-10-01: source URL returns 404 (oregon-counties#120); the county's Policies & Union
+Contracts listing now carries only the successor agreement,
+`klamath-policies-701-cba-2026-2029` (DocumentCenter id 63817). Kept as the superseded
+2023-2026 term; text unchanged.
 
 This document had no text layer. The text above was recovered by OCR under the two-engine
 rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.7% of
