@@ -2,346 +2,1096 @@
   "schema_version": 1,
   "sources": [
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-adpr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-amdeco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-becochcocobeor"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-cd_comparative_tableor"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-decobeco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch10buroal"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch11becobuco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch12pa"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch13soga"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch14reofrove"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch15conaarpa"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch16cofa"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch17satoad"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch18smwoenpupl"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch19amsearpl"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch1gecoad"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch20cafr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch21nuab"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch22foha"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch23sowama"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch24inen"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch25pulacopr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch26geinsy"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch27nutr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch28ansc"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch29pokiaubecocofa"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch2coco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch30fapr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch31en"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch32emprbeco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch33liliapre"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch34prredecoreprva"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch35redipuroim"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch36ilnordi"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch37ceinprpr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch38samamafupr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch39trlota"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch3cico"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch40vecarein"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch41coprasclenprcp"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch4elca"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch5bame"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch6vopa"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch7road"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch8acrepetafopr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-general_code_ch9anco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-horuchbecoor"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-ladest"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-nsozo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-ovzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-rezo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "benton",
+      "id": "benton-code-spusre"
+    },
+    {
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-1-general-provisions"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-10-vehicles-and-traffic"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-12-streets-sidewalks-and-public-places"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-15-buildings-and-construction"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-16-land-and-water-development-and-use"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-2-administration-and-personnel"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-3-revenue-and-finance"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-5-business-regulations"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-6-animals"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-7-solid-waste"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-8-health-and-safety"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-9-environmental-health-program"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-cha-home-rule-charter-for-the-government-of-clatsop-coun"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "clatsop",
       "id": "clatsop-code-ttl-ol-ordinance-list-and-disposition-table"
     },
     {
-      "consecutive_failures": 2,
-      "first_failed_at": "2026-09-03",
-      "group": "columbia",
-      "id": "columbia-orders-ordinances-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance"
-    },
-    {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-1-general-provisions"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-10-vehicles-and-traffic"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-12-streets-sidewalks-and-public-places"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-13-public-services"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-15-buildings-and-construction"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-16-environment"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-17-subdivisions"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-18-zoning"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-2-administration-and-personnel"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-3-revenue-and-finance"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-5-business-taxes-licenses-and-regulations"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-6-animal-control"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-8-health-and-safety"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-9-public-peace-morals-and-welfare"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "crook",
       "id": "crook-code-ttl-ol-ordinance-list-and-disposition-table"
     },
     {
-      "consecutive_failures": 2,
-      "first_failed_at": "2026-09-03",
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
       "group": "klamath",
-      "id": "klamath-policies-2026-classification-tables-non-union"
+      "id": "klamath-policies-701-cba-2026-2029"
     },
     {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "first_failed_at": "2026-10-01",
       "group": "klamath",
       "id": "klamath-policies-local-701-collective-bargaining-agreement-2023-2026"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-1"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-10"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-12"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-13"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-15"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-2"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-3"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-5"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-6"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-8"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-code-9"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-land-use-16"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-land-use-17"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "lake",
       "id": "lake-land-use-18"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "multnomah",
       "id": "multnomah-orders-proclamation-proclaiming-june-2020-as-pride-month-for-the-lg"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "multnomah",
       "id": "multnomah-orders-proclamation-proclaiming-june-2021-as-pride-month-for-the-le"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "multnomah",
       "id": "multnomah-orders-proclamation-proclaiming-june-2022-as-pride-month-for-the-le"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "multnomah",
       "id": "multnomah-orders-proclamation-proclaiming-june-2023-as-pride-month-for-the-le"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "multnomah",
       "id": "multnomah-orders-proclamation-proclaiming-june-2024-as-pride-month-for-the-tw"
     },
     {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "first_failed_at": "2026-10-01",
       "group": "umatilla",
       "id": "umatilla-code-150-153-umatilla-county-development-code-07-17-2024"
     },
     {
-      "consecutive_failures": 2,
-      "first_failed_at": "2026-09-03",
-      "group": "wallowa",
-      "id": "wallowa-land-use-volume-i-wallowabasicplan-rf"
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "umatilla",
+      "id": "umatilla-land-use-development-code-2025"
     },
     {
-      "consecutive_failures": 2,
-      "first_failed_at": "2026-09-03",
-      "group": "wallowa",
-      "id": "wallowa-land-use-volume-ii-wallowa-mjnhmp-final"
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-apxagecoor"
     },
     {
-      "consecutive_failures": 2,
-      "first_failed_at": "2026-09-03",
-      "group": "wallowa",
-      "id": "wallowa-land-use-volume-iii-wallowa-mjnhmp-final-rev23-09-11"
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art1.00inprde"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art10.00cozo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art11.00coinzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art12.00liinuszo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art13.00heinuszo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art14.00lagrpuaipazo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art15.00sumismzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art16.00aiovzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art17.00flplovzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art18.00lagrisurgrarovzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art19.00elnopourgrarovzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art2.00exfauszo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art20.00supr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art21.00cous"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art22.00nousst"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art23.00lausrelausplam"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art24.00aprepr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art25.00ladire"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art3.00agazzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art30.00va"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art31.00peag"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art32.00reprapsu"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art33.00re"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art34.00ap"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art35.00inorpr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art36.00secl"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art37.00peen"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art38.00reor"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art39.00re"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art4.00agfouszo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art40.00sumiimarsmovzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art41.00lagruncoailiinpadepemast"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art42.00bainpadepemast"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art5.00tiazzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art50.00oryoauoyovzo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art51.00mespndrucldezo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art52.00cowipogefasire"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art6.00rucezo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art7.00rureuszo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art8.00farezo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-art9.00forezo"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-articles_26.00--29.00re"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-articles_43.00--49.00re"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-cd_comparative_tableor"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "union",
+      "id": "union-land-use-zopasuuncoor"
+    },
+    {
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "wasco",
       "id": "wasco-code-building-codes-ordinance-19-002"
     },
     {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "first_failed_at": "2026-09-03",
       "group": "wasco",
       "id": "wasco-code-wascoc-2"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-apxaenshpadior"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-apxblopuheauco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-ch"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-ch01"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-cocotadili"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-orlidita"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-streorco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit11paotpupl"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit12puse"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit14buco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit15coplro"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit1gepr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit2adpe"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit3refi"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit5bulire"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit6an"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit8hesa"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-tit9pupemowe"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-code-waco"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-artiiilausdi"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-artiingepr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-artiipr"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-artivdest"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-artviiputrfa"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-artviladiprliad"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-artvpufase"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-cd_comparative_tableor"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-codecoseamorafno241989"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-codecowacoor"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "washington",
+      "id": "washington-land-use-oramcodecoadafno241989"
     }
   ]
 }
