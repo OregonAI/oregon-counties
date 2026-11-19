@@ -86,6 +86,11 @@ Repo-curation dates only — official effective dates live in frontmatter.
   present-tense 200 claim is actually gone, not just that a date string was added.
 
 ### Fixed
+- 2026-11-18 — `ci` `links` job excludes `DRIFT.md` from lychee. The 2026-11-12 main run
+  (43147664541) reported 21 errors, all in that generated report: 15 `multco.us/file/...` 404s on
+  URLs truncated at the first `_` by markdown parsing (the full URLs serve `application/pdf`,
+  re-fetched 2026-11-18, so no Multnomah document moved) and 6 `wascocountyor.gov` 302s.
+  No corpus document changed.
 - 2026-09-04 — `ingest_counties.py` re-ingesting an existing document dropped
   `relationships.references_external` back to `[]`, silently undoing
   `link_citations.py` work on every `--refetch` or re-run. The ingester now
